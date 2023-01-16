@@ -650,17 +650,18 @@ input[type="submit"]{
 /* Search form */
 #search{
   text-align: center;
-  margin:0;
   padding-top: 0.2em;
-  height: 90vh;
+  max-width: 80ch;
+  margin: 0 auto;
 }
 
 #search-content{
-  width: 100%;
   position: absolute;
-  top: 30%;
-  -ms-transform: translateY(-30%);
-  transform: translateY(-30%);
+  top: 20%;
+  -ms-transform: translateY(-20%);
+  transform: translateY(-20%);
+  max-width: 80ch;
+  height: -webkit-fill-available;
 }
 
 /* Une */
