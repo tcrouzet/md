@@ -362,7 +362,6 @@ h1.menu{
 }
 .poster-title {
   margin: -1.3rem auto 0;
-  /*max-width: 900px;*/
   padding: 0 1.5rem;
   position: relative;
   text-align: left;
@@ -572,7 +571,8 @@ div.plus ul{
   background: var(--color--header);
   -webkit-box-shadow: 0 0 5px #888;box-shadow: 0 0 5px #888;color:#000;text-align:left;padding:1em;line-height: 1.5em;
   font-size: var(--font-size-post);
-  min-width: 20rem;
+  min-width: 30ch;
+  right: 0;
 }
 div.plus ul li{
   margin:0 0.3rem 0.3rem 0.3rem;
@@ -635,11 +635,11 @@ input[type="submit"]{
 
 /* Mailchimp form */
 #mailchimp{
-  max-width: 58ch;
+  /*max-width: 58ch;*/
   margin:1rem auto 0.5rem auto;
   padding: 0;
   background: var(--color--light);
-  text-align: left;
+  text-align: center;
 }
 
 /* Search form */
@@ -651,8 +651,8 @@ input[type="submit"]{
 }
 
 #search-content{
-  position: absolute;
-  top: 30%;
+  /*position: absolute;
+  top: 30%;*/
   /*-ms-transform: translateY(-20%);
   transform: translateY(-20%);*/
   max-width: 80ch;
@@ -819,6 +819,7 @@ div.share{display: inline-block;margin-left: 0.6em}
 div.sharebas{
   max-width: 60ch;
   margin:0 auto;
+  text-align: center;
 }
 
 
@@ -851,13 +852,18 @@ a.icon_linkedin:before{color:var(--color--social);font: 400 1.4rem/1 icomoon!imp
   #toogle {
     margin-right: 0.5rem;
   }
+
+  .poster-title {
+    text-align: center;    
+  }
 }
 
 /* Plus grand que 768 */
 @media (min-width: 70ch){
   .poster-title {
+    text-align: left;    
     margin-top: -2rem;
-    padding: 0 5rem;
+/*    padding: 0 5rem;*/
   }
   .poster-title h1{
     font-size: 2.3rem;
