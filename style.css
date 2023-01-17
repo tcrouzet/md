@@ -27,11 +27,11 @@ html,body,p,ol,ul,li,blockquote,figure,fieldset,form,legend,textarea,pre,iframe,
 
  @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?16ovvg');
-  src:  url('fonts/icomoon.eot?16ovvg#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?16ovvg') format('truetype'),
-    url('fonts/icomoon.woff?16ovvg') format('woff'),
-    url('fonts/icomoon.svg?16ovvg#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?u802fw');
+  src:  url('fonts/icomoon.eot?u802fw#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?u802fw') format('truetype'),
+    url('fonts/icomoon.woff?u802fw') format('woff'),
+    url('fonts/icomoon.svg?u802fw#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -145,7 +145,7 @@ button {
 
 /* fonts */
 button,input,select,textarea,div.iconcom,label{font-family: var(--global--font-headings);color: var(--color--form)}
-h1,h2,/*.poster,#mailchimp,*/.resume-contenair,#route-resume{font-family: var(--global--font-headings)}
+h1,h2,/*.poster,#mailchimp,*/.resume-contenair,#route-resume,div.bottomnav{font-family: var(--global--font-headings)}
 h3,h4,div.sharebas{font-family: var(--font--global);color: var(--color--form)}
 h1,h2,h3,h4{font-weight: bold}
 
@@ -199,12 +199,12 @@ a,a:visited,a:hover{color:inherit;text-decoration:none}
   vertical-align: text-top;;
 }
 .open:after{
-  /*menu smbol*/
+  /*menu*/
   content:'\e900';
 }
 .close:after{
-  /*menu cross*/
-  content:'\e901';
+  /*cross*/
+  content:'\e901' !important;
 }
 #toogle-search{
   position: fixed;
@@ -300,6 +300,9 @@ h1.menu{
 .access ul{margin: 0;padding: 0}
 .access ul li{display: block;}
 
+.hidden { display: none !important; }
+.shown { display: block; }
+
 
 /* Footer */
 #footer{
@@ -388,11 +391,11 @@ h1.menu{
   position: relative;
   display: block;
 }
-.poster-serie a.prev{margin-right: 0.5rem;}
-.poster-serie a.next{margin-left: 0.5rem;}
+.poster-serie a.prev{margin-right: 0.5rem}
+.poster-serie a.next{margin-left: 0.5rem}
 
 
-/* Post New */
+/* Post */
 
 .post-contenair {
   position: relative;
@@ -528,6 +531,12 @@ h1.menu{
 
 .post div.iframe iframe{width: -webkit-fill-available}
 
+div.bottomnav{text-align: center;margin-top: 1rem;margin-bottom: 1rem;}
+div.bottomnav a,div.bottomnav a:visited,div.bottomnav a:hover{border-bottom:none}
+
+div.olderposts{text-align: center;padding: 0.5em;  background: var(--color--light);}
+
+
 iframe{margin:auto;padding:0 0 1em 0;display: block}
 .post div.iframe{
   margin-top: var(--line-height-post);
@@ -636,7 +645,7 @@ input[type="submit"]{
 /* Mailchimp form */
 #mailchimp{
   /*max-width: 58ch;*/
-  margin:1rem auto 0.5rem auto;
+  margin:1rem auto 0 auto;
   padding: 0;
   background: var(--color--light);
   text-align: center;
@@ -818,16 +827,19 @@ div.share{display: inline-block;margin-left: 0.6em}
 
 div.sharebas{
   max-width: 60ch;
-  margin:0 auto;
+  margin:0.5rem auto;
   text-align: center;
 }
 
+a.all{margin-left: 1rem;}
+a.all:before{color:var(--color--medium);font: 400 1.3rem/1 icomoon!important;content:'\e933'}
 
 a.icon:before{vertical-align: -0.3rem;padding: 0 0.4rem 0 0}
 a.icon_com:before{color:var(--color--social);font: 400 1.3rem/1 icomoon!important;content:'\e902'}
 a.icon_fb:before{color:var(--color--social);font: 400 1.3rem/1 icomoon!important;content:'\e904'}
 a.icon_twitter:before{color:var(--color--social);font: 400 1.4rem/1 icomoon!important;content:'\e907'}
 a.icon_linkedin:before{color:var(--color--social);font: 400 1.4rem/1 icomoon!important;content:'\e903'}
+
 
 .crunchify-social {
   margin-top: -0.2em;
@@ -840,6 +852,9 @@ a.icon_linkedin:before{color:var(--color--social);font: 400 1.4rem/1 icomoon!imp
 #formspree form{margin-top:1rem}
 #formspree input{max-width: 60ch;width:100%}
 #formspree textarea{max-width: 60ch;width:100%;height:10rem}
+
+
+div.edit{position:fixed; left:45%;top:0.5rem;z-index: 99;}
 
 /*small screen */
 @media (max-width: 80ch){
