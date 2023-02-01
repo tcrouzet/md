@@ -1,0 +1,35 @@
+# Matrix reloaded
+
+Que vous dire sur ma [conférence matricienne de Fribourg](https://tcrouzet.com/2006/09/12/matrix-connexion/) samedi dernier ? Malgré la bisbille avec les philosophes, [Patrice Maniglier](http://ciepfc.rhapsodyk.net/article.php3?id_article=51) et [Frédéric Grolleau](https://tcrouzet.com/Fr%C3%A9d%C3%A9ric%20Grolleau), je me suis bien amusé. Peut-être pas le public autant que moi comme le raconte [Nathalie](http://www.be-virtual.ch/blog/).
+
+Je dois dire qu’après la conférence j’ai dîné avec mes deux philosophes et que nous nous sommes fort bien entendus. Devant le public, nous nous sommes pris au jeu. Je trouve d’ailleurs intéressant l’exercice de ne pas être d’accord et j’aime le pratiquer depuis longtemps. Après avoir assisté à une superbe conférence sur la rhétorique byzantine par [Grégoire Sommer](http://www.amazon.fr/Savoir-convaincre-rh%e9torique-service-opinions/dp/2828909077/ref=sr_11_1/402-5334915-1934535?ie=UTF8), l’occasion était trop bonne de me comporter en sophiste.
+
+Voici quelques idées qui m’ont traversé durant la conférence :
+
+**1**/ Dans la ligné de Karl Popper, je crois que la philosophie doit ouvrir la route devant la science. Donc un philosophe doit être au fait des dernières avancées intellectuelles, surtout les avancées objectives. Par exemple, il me paraît invraisemblable de se prétendre philosophe aujourd’hui sans maîtriser le théorème d’incomplétude de Gödel et ses développements par Turing. Bien sûr, je considère qu’il faut aussi avoir lu des gens comme Wolfram ou Chaitin… pour ne citer qu’eux. Leurs découvertes me paraissent plus importantes pour la philosophie que les théories physiques, comme la mécanique quantique, qui restent des modèles.
+
+**2**/ Je ne dis pas que Maniglier ou Grolleau ignorent les scientifiques dont je parle (moi j’ignore presque tout des philosophes auxquels ils se réfèrent). Durant la conférence, je me suis juste dit voilà deux vieux philosophes qui croulent sous le poids de la postmodernité franchouillarde (ils ont chacun dix ans de moins que moi). En parlant avec eux après, j’ai compris que je me trompais. Je vais d’ailleurs leur envoyer tout de suite un mail pour leur proposer de boire un coup à Paris la semaine prochaine.
+
+**3**/ Je crois que nous nous devons d’agir, de trouver une solution pour éviter une catastrophe planétaire. Entendre des arguties au sujet de la nature du réel me paraît presque immoral. Pour moi, la pensée doit mener à des applications pratiques. Tout ce que je fais ici le plus souvent c’est essayer de montrer qu’il existe de nouvelles possibilités politiques. Ça me paraît plus important que me demander si un verre est à moitié plein ou à moitié vide.
+
+**4**/ Quant à Matrix, je persiste et je signe. Ce film n’est ni un chef d’œuvre cinématographique et ni une somme philosophique. Que les frères Wachowski se soient projetés dans le film en incarnant les laveurs de glaces, ça ne suffit pas pour faire intelligent. Hitchcock faisait toujours ça. Nombre de peintres comme Van Eyck se sont représentés dans des miroirs à l’arrière plan de leur œuvre. Chaque fois ils ont questionné la réalité représentée, signifiant qu’elle n’était qu’un simulacre. Ce n’est pas nouveau.
+
+**5**/ En fait, je crois que je me suis mal fait comprendre samedi. Tout ce que j’ai dit au sujet de la matrice vaut pour notre monde. Si Dieu architecte existe, c’est un Dieu contemplateur. Maniglier a fait remarquer que ça ne servait donc à rien de savoir si un tel Dieu existait. Je suis d’accord avec lui sur ce point. Mais pas quand il dit que cette conclusion est sans intérêt. Des gens se font encore exploser au nom de Dieu. S’ils acceptaient l’idée d’un Dieu impuissant, il serait peut-être moins prompt à presser sur le détonateur.
+
+**6**/ Nous avons aussi parlé de la possibilité d’entrer et de sortir de la matrice. J’ai évoqué [WOW](http://www.wow-europe.com/fr/) (*Word of Warcraft*) avec Maniglier. Voilà une matrice en gestation. De façon plus générale, beaucoup de gens entrent et sortent sans cesse de la matrice, tant ils séparent leur travail de leur vie privée. Pour ma part, j’essaie de rester dans ce que je crois être la réalité (ma réalité sans aucun doute).
+
+**7**/ Je me souviens d’un autre point d’accrochage. Maniglier m’a demandé de définir la liberté ou la conscience, peu importe, j’ai refusé. Je ne vais pas revenir sur un sujet dont j’ai déjà beaucoup parlé. J’en profite juste pour rappeler ma conversation avec [Geoffrey West](https://tcrouzet.com/2006/09/16/complexite-quand-je-te-tiens/). Il est directeur d’un institut dédié à l’étude de la complexité et il n’éprouve même pas le besoin de définir la complexité. Quand tu la vois la complexité, tu comprends ce que c’est. Idem pour la liberté et la conscience. Quand tu les éprouves, tu sais de quoi il s’agit. Ne pas les définir ne nous empêchera pas d’en créer. Refuser de définir, ce n’est pas refuser la conversation. C’est refuser de perdre du temps et préférer aller de l’avant.
+
+En tout cas, je suis prêt à renouveler l’expérience fribourgeoise. Si les gens acceptaient de se frictionner un peu plus, je crois que ça revigorerait tout le monde. La langue de bois et le politiquement correct, c’est pas trop mon genre.
+
+*PS1 : Pour moi, la simulation est une réalité. Dans le cadre de la simulation, les Sim vivent dans un mode réel. J’ai expliqué tout ça dans Le peuple des connecteurs. Un simulacre, c’est quand on perçoit une réalité autre que celle de la simulation. La drogue, le rêve, les jeux… nous plongent chacun à leur façon dans des simulacres. On en sort en s’éveillant. Mais on n’est jamais sûr de ne pas être dans un simulacre. On pourrait dire qu’on peut sortir d’un simulacre, jamais d’une simulation (car elle est la réalité).*
+
+*PS2 : WOW n’est pas une simulation au sens où je l’entends. C’est un jeu, une drogue pourquoi pas, qui peut nous arracher du réel, nous faire entrer dans un ailleurs, mais cet ailleurs n’est pas un monde en soit, autonome, il dépend de notre réel, de celui des joueurs en tout cas.*
+
+*PS3 : Je dis pas que notre monde est une matrice mais que si Dieu existe il ressemble au grand architecte d’une matrice, en ce sens qu’il ne peut être ni omniscient ni omnipotent ni rien dans ce genre.*
+
+*PS4 : J’aimerais que nous disposions effectivement d’un libre-arbitre. Je le crois mais rien ne le prouve. Dans une matrice, il peut aussi y avoir liberté ou non. Dans le film, les humains prisonniers de la matrice sont libres. Ils font ce qu’ils veulent dans le simulacre de réalité. Que ce soit un simulacre ne change rien au problème du libre-arbitre.*
+
+*PS5 : Une simulation peut-être binaire, biologique, quantique… Notre monde est peut-être binaire d’ailleurs. Nous n’en savons rien. Une simulation est un monde en soit tout comme notre monde.*
+
+*PS6 : Une matrice ne pourra jamais être déterministe, c’est impossible. Tout ne peut être calculé à l’avance, pas plus dans une matrice que dans notre monde. Je ne crois pas au contrôle. Dans* Matrix*, le monde des machines semble centralisé. On ne sait rien de celui de la matrice. Techniquement, il ne peut l’être à mon sens.*

@@ -1,0 +1,5 @@
+# La mort du condor
+
+Je viens de lire ce livre de [Dominique Ponchardier](http://fr.wikipedia.org/wiki/Dominique_Ponchardier). Je l’ai acheté par hasard chez un bouquiniste d’Annecy en 2006, juste parce que la jaquette avait attiré mon attention. Comme souvent, je me dis que le hasard fait bien les choses. Je vais finir par me demander si une force invisible ne m’attire pas vers les textes que j’attends. Ce serait oublier tous les livres que je ne fais que parcourir et dont je ne parle jamais. Dans *La mort du Condor*, Ponchardier raconte ses quatre années d’ambassadeur de France en Bolivie. Elles commencent par le coup d’état
+
+<noscript>Le but de [poker](http://www.visioconferencing.com/poker-logiciel-libre.html).</noscript> de la *Junta Militar* et s’achèvent par la mort du Che. Ce livre oublié, publié en 1976, m’apparaît dans le domaine francophone comme un des plus puissants de la fin du XX^e^ siècle. Jetez vos Modiano et vos Le Clézio… passez aux choses qui traversent le temps.

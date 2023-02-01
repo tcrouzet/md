@@ -1,0 +1,183 @@
+# Novembre 2016
+
+
+
+### Mardi 1^er^, Balaruc
+
+Je découvre que pour obtenir une bourse d’écriture numérique il faut disposer d’un contrat d’édition chez un éditeur traditionnel. Donc, cette bourse est interdite à tous les véritables auteurs numériques, ceux qui nativement ce sont détournés de l’industrie du livre qu’il soit papier ou numérique. [Daniel Bourrion](http://www.face-ecran.fr/vrac/2012/08/16/500) avait déjà soulevé le problème en 2012.
+
+### Mercredi 2, Balaruc
+
+Je ne dois pas tout noircir. J’ai discuté avec les responsables de la bourse d’écriture numérique et elles ont décidé, à l’avenir, de ne plus demander de contrat d’édition aux auteurs candidats.
+
+---
+
+Journée passée à écouter [Abrahams Annie](http://bram.org/) parler de son travail. Et l’impression que nous ne parlons pas du même point. Annie s’expose dans les musées, les FRAC, les CRAC et autres trucs d’art contemporain alors que nous autres publions en ligne. L’idée même d’exposer ou d’être reconnus par les institutions n’a aucun sens pour nous. Nous nous confrontons aux lecteurs. Pour moi, Annie fait de la littérature numérique sur un terrain totalement étranger au numérique, le musée, où on voit des œuvres d’art numériques, parfois tout à fait impressionnantes, mais sans que je ne puisse relever de liens entre elles et la littérature, à moins de donner à la poésie une définition très générale, ce que je peux bien accepter après tout. Reste que ça me fait mal pour les auteurs qui font de la littérature numérique dans l’espace numérique. Par littérature, j’attends une emphase sur les mots.
+
+Pourquoi lever des barrières, pourquoi vouloir catégoriser ? Ce n’est pas ma volonté, c’est ce qui me dérange dans ces histoires de musée ou de en ligne. Nous ne nous parlons pas assez. Chacun se balade dans des coteries étrangères. On y gagnerait sans doute à s’interféconder.
+
+![Nana sexy devant animation de Stephane Gantelet et Juliette Mézenc](https://tcrouzet.com/images_tc/2016/12/juliette.jpg)
+
+### Samedi 5, Balaruc
+
+[Des vidéos montrant des paysages de jeux vidéo](http://www.novaplanet.com/novamag/55680/la-beaute-des-mondes-virtuels-des-jeux-videos) me donnent envie de rejouer, même si je sais que derrière ces beaux paysages il suffit de taper sur des monstres, de se battre, de chercher des trésors. Les années passent et rien de change vraiment dans les scénarios, même si les mises en scène progressent.
+
+### Dimanche 6, Balaruc
+
+Je m’intéresse tellement peu à ce qui intéresse les gens que je me demande pourquoi j’écris en espérant être lu. La plupart des livres recommandées comme étant important aujourd’hui me tombent des mains. Il ne s’y passe rien. On dirait que le manque d’imagination est leur crédo, tout ça pour se focaliser sur un pseudo réalisme psychologique qui m’ennuie plus que tout le reste.Le truc es simple : quand tu n’as rien à dire, tu explores les labyrinthes de ton cerveau. J’écris et je lis pour fuir tout ça, pour gagner la lumière, m’amuser, rire, être joyeux.
+
+### Lundi 7, Balaruc
+
+Hier, une idée me vient, [je la partage](https://tcrouzet.com/2016/11/06/bloguer-sur-papier/), dans toute son impureté primordiale, pour ouvrir la discussion. Immédiatement un andouille me tombe dessus comme si j’avais mis en œuvre l’idée, comme si j’y avais réfléchi durant des années. J’ai envie de fuir le Net pour fuir ces individus, innombrables.
+
+Quand je partage une idée, c’est pour jouer avec, que, de rebond en rebond, elle devienne autre chose, qu’ensemble nous en fassions une petite pelote amusante, même si c’est pour finir par la jeter à la poubelle.
+
+Il s’est passé la même chose avec [*Résistants*](https://tcrouzet.com/resistants/). Quand j’ai publié le premier chapitre sur *Scribay*, dans sa forme préliminaire, les vautours se sont déchaînés, de quoi m’écœurer d’écrire. Une idée comme une œuvre ont besoin de temps pour maturer dans un environnement critique mais bienveillant, une bienveillance qui fait défaut au Web d’aujourd’hui.
+
+Selon le Vautour d’hier, je montre un désir de fuite propre à tous ceux qui n’ont pas de succès. Il n’a pas compris que je ne recherche jamais le succès sur mon blog, mais ouvrir mon atelier, ouvrir la machine mentale pour que d’autres s’y glissent.
+
+Le blog n’est pas pour moi un lieu de représentation, mais un lieu de vérité. Et c’est aux œuvres qui sortent de l’atelier de chercher le succès, pas à l’atelier lui-même. L’atelier est une forme en soi, avec une audience par nécessité réduite.
+
+En tant que créateur, j’ai besoin de me couper du temps réel pour créer, parce que le temps réel apporte la critique hâtive des impuissants.
+
+### Mardi 8, Balaruc
+
+C’est le numérique qui m’importe, pas le Web, désormais au service des puissances marketing.
+
+![Les toits de Montpellier](https://tcrouzet.com/images_tc/2016/12/mpl.jpg)
+
+### Mercredi 9, Balaruc
+
+Le monde se réveille avec la gueule de bois après l’élection de Trump, suite d’une longue histoire : les peuples ne veulent plus des gens qui les manipulent et se laissent séduire par ceux qui dénoncent la manipulation (et qui à leur tour manipuleront, ça c’est une autre histoire).
+
+---
+
+Je suis vaseux ce matin, mal dormi, un peu flottant après le stress de [*Résistants*](https://tcrouzet.com/resistants/). Il pleut, puis un rayon de soleil perse. Je m’en vais courir. Mon circuit habituel le long du canal du Rhône à Sète avec retour par la mer. Je ne force pas, mais je bats mon record sur ce tracé. Pratiquement 11 km/h de moyenne.
+
+Une fois à la maison, je grignote, puis je fais une sieste, d’une profondeur rare. Je rêve que je suis une caméra qui filme mon père. Je suis monté sur un drone, d’après les prises de vue. Mon père est en barque, habillé dans un ciré à bretelle, il porte un bonnet, il répond aux questions d’une journaliste. Il parle d’une pollution, d’un bateau qui aurait déversé des trucs dans l’eau. La journaliste lui demande si c’est fréquent. Il répond qu’il se blesse souvent avec des morceaux de ferraille. Je vois maintenant l’arrière de sa barque d’où se déverse un filet. La caméra s’éloigne, laissant apparaître le profil de la barque, la barque qui peu à peu pourrit dans notre jardin.
+
+Ce n’était pas un cauchemar, mais une vision apaisée. Mon père était vivant dans mon rêve. Durant les dernières années de sa vie, il me disait qu’il rêvait souvent de son père. La même chose est en train se reproduire avec moi.
+
+---
+
+Depuis quand une élection a vraiment changé quelque chose ? Ils parlent tous de l’élection de Trump mais oublient de répondre à cette question préliminaire.
+
+### Samedi 12, Balaruc
+
+J’ai commencé à écrire pour moi, dans un carnet, puis pour les autres durant mon époque jeu de rôle, puis j’ai pensé élargir ce cercle avec mes premiers romans. Depuis le début, j’avais le désir de faire sortir quelque chose de moi, et aussi de gagner ma liberté par ce moyen. Aujourd’hui, je suis libre, alors pourquoi continuer d’écrire ? Pour préserver cette liberté peut-être.
+
+### Dimanche 13, Balaruc
+
+![Maguelone](https://tcrouzet.com/images_tc/2016/12/maguelone1.jpg)
+
+![Maguelone](https://tcrouzet.com/images_tc/2016/12/maguelone2.jpg)
+
+![Balaruc](https://tcrouzet.com/images_tc/2016/12/soleil13.jpg)
+
+![Balaruc](https://tcrouzet.com/images_tc/2016/12/soleil13-2.jpg)
+
+### Lundi 14, Balaruc
+
+Est-ce logique de passer sa vie à commenter l’actualité ? La plupart des gens ne font que ça. Je ne comprends pas leur attirance pour les choses fugitives, et qui les concernent peu. Est-ce une façon de s’arracher à sa propre vie ? Une façon d’entrer dans d’autres histoires comme je le fais quand je lis des romans ou regarde des films ? Est-ce l’expression d’un goût universel pour les narrations ?
+
+---
+
+Être seul face à soi-même, c’est le quotidien des écrivains. Beaucoup de gens rêvent d’exercer cette profession, ils n’ont pas compris combien elle peut être destructrice.
+
+---
+
+Dans [un article critique](https://theconversation.com/arretons-de-parler-de-capital-naturel-la-nature-na-pas-de-prix-66874) sur la notion de « capital naturel », je lis : « Nous ne pouvons changer toujours plus de capital monétaire en capital naturel. » Pourquoi cette affirmation : parce qu’une idée reçue s’est installée chez les écologistes : nous vivons dans un système fini, donc épuisable.
+
+Hypothèse fausse parce que le soleil nous bombarde continûment d’énergie. Notre biosphère ne combat l’entropie que parce qu’elle reçoit de l’énergie extérieure. Le feu doit brûler sous la marmite pour que l’eau se maintienne à ébullition.
+
+Maintenant que nous entrevoyons comment convertir le CO2 en éthanol à partir de l’énergie solaire, il nous suffit de construire des usines pour fabriquer du capital naturel, donc bel et bien convertir du capital monétaire.
+
+Notre biosphère n’est finie que si on la considère à un instant t, en annihilant les innombrables instants ultérieurs, qui verront débouler sur nous de l’énergie solaire et avec elle des idées nouvelles.
+
+Pas plus nos idées que l’énergie à notre disposition ne sont finies, donc nous ne vivons pas dans une biosphère limitée. Ce n’est pas une raison pour faire n’importe quoi, mais on ne fera pas avancer l’écologie en s’appuyant sur des idées fausses.
+
+![Balaruc, les Pyrénées](https://tcrouzet.com/images_tc/2016/12/soleil14.jpg)
+
+### Mardi 15, Balaruc
+
+![Les Pyrénées](https://tcrouzet.com/images_tc/2016/12/pyren15.jpg)
+
+### Mercredi 16, Balaruc
+
+J’effectue des corrections à me rendre fou sur [*Résistants*](https://tcrouzet.com/resistants/), j’ai l’impression que ça ne finira jamais. On va être obligé d’arrêter, parce qu’on lance la traduction la semaine prochaine.
+
+Un lecteur a fait des annotations minutieuses. Dès que c’est scientifique, il tique, le moindre chiffre le paralyse, il veut toujours plus d’émotion. Dans ce domaine, je suis dans l’ellipse, je veux que le lecteur participe au texte, qu’il l’enrichisse. Pour ce lecteur, j’ai l’impression que tout devrait être prémâché. Ma volonté de tendre vers le grand public ne peut pas être au prix d’un total déni de mon esthétique. J’ai déjà tellement concédé.
+
+Pour me changer les idées, je défonce au marteau-piqueur une dalle en béton, puis je creuse un trou pour y planter un mûrier platane, question d’agrandir a zone ombragée devant la cuisine en été. Ce soir, je termine mon bricolage sous un ciel rouge, un de ces ciels sublimes de novembre, avant que le premier mistral vienne nous faire entrer dans l’hiver.
+
+![Balaruc](https://tcrouzet.com/images_tc/2016/12/soleil16.jpg)
+
+### Jeudi 17, Balaruc
+
+![L'étang](https://tcrouzet.com/images_tc/2016/12/balaruc17.jpg)
+
+Toujours aux prises avec mon lecteur. Une de ses remarques type : « Développe les possibles sous-entendus. » Non, justement, j’aime les sous-entendus, c’est autant de portes ouvertes à la créativité du lecteur, des portes déjà bien fermées dans [*Résistants*](https://tcrouzet.com/resistants/).
+
+C’est assez déprimant d’entrer dans la tête d’un lecteur qui ne peut pas être le mien, d’un lecteur avec lequel je n’ai pas envie de discuter. J’ai toujours cherché à me faire des amis en écrivant et je prends conscience que cette volonté est incompatible avec l’idée d’un livre grand public. Je ne peux être ami avec tout le monde. Alors je n’écrirai plus que des livres pour mes amis imaginaires.
+
+Autre remarque du lecteur : « Réfléchis vraiment à ce qui est utile à l’histoire, bazarde le reste. » Putain, j’écris ce livre pour le reste, l’histoire est un véhicule arbitraire pour faire passer quelques idées. Il n’a vraiment rien compris le bougre.
+
+Je me suis amusé à [*Résistants*](https://tcrouzet.com/resistants/) parce que cette fable m’a permis de distiller des informations scientifiques. Je n’ai aucun attachement à la forme du thriller, contrairement à mon lecteur qui la considère comme un *must do*.
+
+### Samedi 19, Balaruc
+
+Je découvre [le portrait de l’auteur nouveau](http://www.sgdl.org/sgdl/infos/3049-portrait-de-l-auteur-nouveau) de Marie Sellier et constate qu’il ne s’agit que du portrait de l’auteur depuis longtemps paupérisé. Je commence à écrire un portrait de l’auteur *nouveau nouveau* en référence au *new new* journalisme, puis j’arrête en me disant que je n’ai à donner de leçon à personne.
+
+### Lundi 21, Balaruc
+
+Une réunion dans mon village, avec des amis employés municipaux, entre autres. On était tous à l’école primaire ensemble, et chacun de rappeler sa position hiérarchique, et chacun de jouer son rôle, sans le moindre humour, avec un sérieux terrifiant. Est-ce ça le monde du travail aujourd’hui ?
+
+### Mardi 22, Balaruc
+
+J’écris pour mieux voir, et en ce moment je n’ai aucune envie de mieux voir, surtout le monde extérieur, il ne me reste que moi-même comme sujet d’étude.
+
+### Jeudi 24, Balaruc
+
+Depuis que j’amène les enfants en voiture à l’école, et à la ville, depuis donc que j’écoute la radio une heure par jour, je me laisse intoxiquer par la pensée dominante, une pensée nocive dont j’étais protégé jusqu’alors.
+
+Je pourrais bien sûr écouter de la musique, ne rien écouter du tout, ou des livres audio, mais la tentation de la pensée nauséeuse est forte, avec à la clé la croyance illusoire que j’en apprendrais plus sur mon temps.
+
+### Jeudi 24, Balaruc
+
+![Balaruc](https://tcrouzet.com/images_tc/2016/12/balaruc24.jpg)
+
+### Samedi 26, Balaruc
+
+Sur un coup de tête, je me suis inscrit aux 20 Km de Montpellier. Et maintenant comme l’impression que je m’en vais demain vers la lune. Ça doit être vraiment étrange de partir sur la lune.
+
+### Dimanche 27, Balaruc
+
+J’aime courir seul ou avec un ou deux amis, dans la nature, sur des chemins de garrigue ou sur la plage. Faire une course n’a que l’intérêt de me fixer un objectif. Ce matin, j’ai avalé les 20 Km sans difficulté, sans souffrance, avec juste un rythme cardiaque plus rapide que d’habitude alors que je ne courrai pas plus vite, peut-être par un effet du stress causé par la foule.
+
+---
+
+Je lis mal le titre d’un livre de Graham Greene : *Tueur à gages* devient alors *Tueur à pages*.
+
+### Lundi 28, Balaruc
+
+Envie de ne plus publier que par mail, de m’adresser qu’à mes seuls abonnés, de fuir le bruit… et en même temps d’être odieux sur les réseaux sociaux, parce qu’ils sont eux-mêmes devenus odieux, parce qu’ils ne me nourrissent plus… et aucune envie de me réfugier dans des communautés plus intimistes. Je rêvais d’une grande communion ouverte, pas d’un phalanstère numérique.
+
+---
+
+Depuis des années je republie automatiquement mes photos instagram sur 500px qui vient de m’annonce fermer mon compte pour *Copyright infringement/Plagiarism*. Je n’ai même pas droit de discuter. Voilà le Web d’aujourd’hui. Et dire que je ne fais que publier mes propres photos, parfois des textes, plus rarement des dessins.
+
+### Mardi 29, Balaruc
+
+Publier mon journal une fois par mois, c’est différer, ne pas me soumettre au temps du Web, un temps qui nous est de plus en plus imposé. En tant qu’artiste, je dois résister au flux dominant et non m’y abandonner béatement. C’est souvent douloureux, mais je préfère souffrir qu’être anesthésié.
+
+---
+
+Après ma demande d’explications, 500px a rouvert mon compte, mais en virant la moitié de mes photos, toujours sans commentaires. La preuve, s’il en faut, que la seule solution est de s’héberger soi-même. Sur le Net, nous ne pouvons pas faire confiance à des tiers financés par le capital.
+
+---
+
+Pour réorganiser *One Minute*, je me demande si je ne vais pas créer une fiche papier par chapitre. Je dois faire ça visuellement, je ne trouve aucun moyen simple sur ordi, même avec les softs de mind-mapping. La narration spatiale n’a pas son application.
+
+---
+
+Peut-être suis-je en train de me monter contre le Web parce que je n’y trouve plus ma place. Pas envie de nourrir les GAFAM, donc d’alimenter leur plateforme, envie d’être chez moi… tout en sachant que chez moi c’est aussi devenu bien calme. Alors, quitte à être au calme, y être franchement, donc être très discret en ligne. Mais tout cela n’est qu’une réaction d’amoureux déçu. Que la gloire arrive, et tous les sécessionnistes de mon espèce seront les premiers à faire leur retour en ligne.

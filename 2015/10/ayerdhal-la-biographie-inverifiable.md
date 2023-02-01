@@ -1,0 +1,51 @@
+# Ayerdhal : la biographie invérifiable
+
+J’aurais connu Yal moins de dix ans. Tout a commencé ici même, sur ce blog, [le 12 septembre 2006](https://tcrouzet.com/2006/09/12/matrix-connexion/#com217).<span id="more-42676"></span>
+
+---
+
+Iza \[qui me vouvoyait encore\] : C’est marrant, ça, que vous reparliez de la SF. Tout le long, en lisant *Le peuple des connecteurs*, j’ai pensé à mes lectures de SF, que j’aurais volontiers rajoutées plus longuement à la liste de ce qui a pu construire la culture des connecteurs, à côté du punk et du jeu de rôle.
+
+J’ai pensé encore plus fortement à un de mes écrivains français de SF préféré : Ayerdhal. Parce qu’en plus de son œuvre, j’aime particulièrement son sens politique très aigu. J’ai trouvé des similitudes fortes entre son propos et le vôtre… jusqu’à sa fascination pour les essaims… (un de ses recueils de nouvelles s’appelle d’ailleurs *La logique des essaims*).
+
+Un autre ami connecteur ?
+
+Moi : J’ai jamais lu Ayerdhal… ma culture SF est très US. J’essaie de le lire à l’occasion. Il faut commencer par quoi ?
+
+Yal \[Qui déboule prévenu par Iza, sa copine\] : Si l’opinion de l’auteur peut avoir une importance, essaie *Demain, une oasis*, en réimpression (sortie fin octobre), *Chroniques d’un rêve enclavé* ou *Transparences*, tous trois aux éditions Au Diable Vauvert (*Transparences* existe aussi en Livre de Poche), mais ce ne sont pas vraiment des bouquins de SF, ou alors si peu. Côté pure SF, je te recommanderai plutôt *Étoiles Mourantes*, en collabo avec Jean-Claude Dunyach, hélas épuisé en ce moment (réédition prévue en 2007) mais on doit pouvoir le trouver en occase. Si tu ne crains pas les nouvelles, le recueil *La logique des essaims* (éditions Imaginaires Sans Frontière) est aussi très SF.
+
+Moi : Super pour ces infos… j’étais en train de chercher ton mail pour te contacter… la commande Amazon vient de partir.
+
+Yal : Je tiens trop à mon libraire pour amazoner, mais je le vois en fin de semaine pour *Le peuple des connecteurs*. Oups, j’allais oublier. Dans *Étoiles mourantes*, il y a une civilisation qui s’appelle les Connectés, ça devrait t’amuser.
+
+Iza : Hi hi, après avoir lu *Le peuple des connecteurs*… j’ai filé dans ma bibliothèque pour voir si c’était bien dans *Étoiles mourantes* que j’avais lu ça… ça m’avait marqué en effet. Et puis donc, puisque la question m’était adressée… Perso je pense qu’il faut lire absolument *La Bohême et l’Ivraie*, et j’avais aimé beaucoup *Le chant du drille*.
+
+Moi : Je vais être obligé de tout lire.
+
+---
+
+C’est tout bêtement comme ça que notre amitié a commencé, par l’entremise d’Iza. J’ai lu Yal, [je l’ai chroniqué](https://tcrouzet.com/2006/11/19/demain-une-oasis/), nous nous sommes croisés en coup de vent le 17 novembre 2006 à la librairie Sauramps de Montpellier, puis Iza nous a rapprochés plus définitivement en nous invitant à donner ensemble une conférence à Ajaccio en octobre 2008.
+
+![Photos de Yal retrouvé sur le Web alors que je ravive mes souvenirs.](https://tcrouzet.com/images_tc/2015/10/corse.jpg)
+
+À l’époque, Yal vivait encore dans la Drôme, à Romans-sur-Isère, il me semble. Je suis allé l’attendre à l’aéroport d’Ajaccio. En fait, c’est lui qui m’a attendu. Je m’étais promené sur la plage et j’avais tant transpiré que j’avais couru m’acheter un t-shirt, question de ne pas l’empester. Nous n’étions pas pressés. Nous avons bu un verre, lui une bière, moi un jus d’abricot. Et il m’a parlé comme si nous étions de vieux amis, avec ses mots d’écrivain, avec son rythme, creusant la narration de sans cesse plus de détails.
+
+Yal était romancier de sa vie. Bien plus en privé qu’en public, d’ailleurs. Dès qu’il se détendait, il brouillait la frontière entre la fiction et le réel. Il m’a raconté plusieurs fois sa jeunesse, toujours me donnant un nouvel éclairage sur ses prouesses. Le footballeur pro à Saint-Etienne, relégué dans la réserve parce qu’en première il y avait Platini, Rocheteau, Larqué… Skieur de l’extrême, dernier survivant d’une bande de casses cou. Copilote de rallye. Expert en arts martiaux, discipline indispensable selon lui pour survivre dans sa banlieue natale. Tireur d’élite. Spécialiste du marketing au *Reader’s Digest*. Guitariste dans un groupe de rock irlandais. Membre de toutes les communautés underground, informé des secrets du monde. Yal était un de ses propres personnages.
+
+Quand j’ai appris pour son cancer, je me suis dit qu’il fallait l’enregistrer raconter tout ça. J’ai même songé à lui proposer d’écrire sa biographie non vérifiée, pour le fun, telles que devraient être racontées toutes les vies, sans soucis de la vraisemblance. J’ai eu peur de l’enterrer prématurément. De rencontrer son angoisse. J’ai préféré nier. Je n’en suis pas fier.
+
+En Corse, nous nous sommes connus, emboîtés, aimés. En trois jours, nous avons rattrapé les années passées à nous ignorer. Yal était heureux dans la lumière du Midi. Il aimait les côtes, les rivages, les frontières entre la montagne et la mer. La Corse était son paradis. Son île de rêve.
+
+Par la suite, les dates se brouillent. Je me souviens de Yal débarquant à la maison avec Sara pour la première fois. C’était en juin, ça c’est sûr, à l’occasion d’une Comédie du livre à Montpellier. Il se passe alors quelque chose de rare, une entente à quatre.
+
+Je me remémore ces moments pour en réactiver le souvenir, parce que je suis incapable de me lancer dans une oraison funèbre. Yal est encore trop vivant. Son corps est loin de moi. Son décès ne m’est parvenu au matin de sa mort que par la voix étranglée de Sara. J’en suis encore à nier. J’ai presque envie de lui envoyer un mail dans l’espoir qu’il me réponde.
+
+En août 2011, nous nous sommes retrouvés tous ensemble à Ouessant, à arpenter tous les matins le sentier côtier, à passer les après-midi à discuter de l’avenir de l’édition, le soir à refaire le monde après avoir écouté François Bon nous lire Rabelais.
+
+![Lors d'une lecture par François Bon.](https://tcrouzet.com/images_tc/2015/10/ouessant.jpg)
+
+Une scène me revient. Il est tard. On cherche un restaurant. On est une quinzaine. On finit dans une crêperie. Notre hôte refuse que nous rapprochions nos tables. Il nous insulte. Nous menace. Yal se lève. Se plante devant l’homme, bras croisés. Il se laisse crier dessus tout en devenant tout rouge. Nous avons senti la bombe prête à exploser, mais Yal n’a pas frémi, laissant le furieux se ridiculiser devant ses autres clients. C’était tout Yal : un va-t-en-guerre pacifiste.
+
+Il y a Bruxelles, Toulouse, Montélimar, tous ces endroits où nous avons passé du temps ensemble, parfois la gorge nouée comme quand il nous a rejoints en Aquitaine pour [le décès de Roland Wagner](https://tcrouzet.com/2012/08/06/roland-c-wagner-1960-2012/). Il y a l’étang de Thau où à chacune de ses visites je l’ai entraîné en kayak. Il était heureux dans ces moments d’immersion dans le bleu. Il évoquait de plus en plus souvent l’idée de venir vivre dans l’Hérault ou dans le Gard. La grisaille de Bruxelles lui pesait même s’il était tombé amoureux des Bruxellois. Il rêvait d’une immense maison où il aurait pu tous les déplacer.
+
+En juin, je l’ai vu pour la dernière fois. Tout d’abord à la maison, au bord de l’étang, par une belle journée sous les mûriers platanes de la terrasse. En fin d’après-midi nous nous sommes retrouvés seuls. Je l’ai écouté. Il ne voulait pas inquiéter Sara. C’était son obsession. Il sentait une douleur nouvelle. Il ne se faisait pas beaucoup d’illusions. Il avait bossé son cancer comme le background d’un de ses romans. Il m’a dit « Je n’ai jamais eu peur de la mort. Quand j’étais jeune, j’étais immortel. Plus tard, je n’ai pas eu le temps de penser à la mort. Aujourd’hui, survivre avec la souffrance ne m’intéresse pas. » Quelques jours plus tard, je le revois à Bruxelles. Le verdict était tombé. Les métastases. La douleur. Pas grand-chose pour la soulager. Je l’ai quitté le cœur lourd, sûr de ne pas faire ce qu’il fallait, mais sans savoir quoi faire. Je ne le sais toujours pas, à part évoquer son souvenir.

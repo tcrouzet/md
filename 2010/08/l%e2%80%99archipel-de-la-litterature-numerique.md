@@ -1,0 +1,57 @@
+# L’archipel de la littérature numérique
+
+[Ouessant nous a rapprochés](https://tcrouzet.com/2010/08/20/numerile/) : quelques auteurs, éditeurs et lecteurs ; au détour d’une rue venteuse, à l’abri d’un muret au-dessus du port de Lampaul, allongé au soleil à même le béton d’une cale rugueuse ou à l’ombre d’un bosquet de saules noirs. Nous avons navigué entre nos gîtes, les cafés et le Salon du livre insulaire, improvisant partout, en tous lieux, des débats, parfois officialisés, souvent impromptus et énervés, partout où nous trouvions à nous abreuver.<span id="more-18701"></span>
+
+À cause de sa petitesse et de la mer qui l’entoure, Ouessant impose la confrontation, le direct, le face à face. Nous ne pouvons nous y cacher longtemps. Même en fuite sur le sentier côtier qui ondule en légères montagnes russes, nous sommes débusqués, démasqués, forcés de nous livrer, de nous repenser, de repenser notre travail, de repartir avec le plein d’idées, avec autant de doutes qu’avant, mais avec la volonté redoublée de nous surpasser.
+
+![](https://tcrouzet.com/images_tc/2010/08/ouessant.jpg)
+
+Le salon insulaire d’Ouessant pourrait devenir le salon de la littérature numérique, celui où, pour la première fois, il est question des œuvres et non plus seulement de la technologie. Celui où les auteurs parleront de leur travail, proposeront des expériences nouvelles, dialogueront avec leurs lecteurs. Tout est en place, il nous suffit de revenir, d’avoir le courage de nous affronter, de nous confronter, loin de tout politiquement correct.
+
+Nous autres auteurs actifs sur le numérique sommes des îliens et nous le resterons : même quand il sera banal de publier électroniquement, même quand le papier ne sera plus qu’un objet de curiosité, nous veillerons à cultiver notre insularité. Nous devons nous centrer sur nous-mêmes, sur nos œuvres, et de là rayonner vers l’extérieur, pour que toutes les îles isolées s’interconnectent et forment un archipel planétaire.
+
+Des égos parfois surdimensionnés s’entrechoquent, se frottent, se télescopent. C’est inévitable, ce n’est pas grave, c’est l’écoute qui importe, et le regard réflexif qui s’ensuit. Nous ne sommes pas auteurs pour nous caresser dans le sens du poil. Nous devons nous tenir sur le fil du rasoir, nous mettre en danger, encourant le risque de retomber dans le vieux monde ou de manquer la marche qui nous mène au nouveau.
+
+Comme je l’ai dit dans les débats à Ouessant, je me moque du livre numérique, je me moque de la technologie. Elle ne m’intéresse que parce qu’elle m’aide à penser le nouveau monde, à le construire, à me dépêtrer de l’ancien. Je me moque aussi de la littérature, je me moque en fait de tous ceux qui ne voient le monde que suivant une perspective unique. Nous devons tout embrasser. Au cours d’une époque de transition, nous n’avons pas d’autre choix. Les spécialités de demain n’existent pas. Nous les inventons. À Ouessant, les ingrédients d’un cocktail nouveau étaient à la portée de la main. Nous pouvons mieux faire. Amener d’autres énergies, aspirer avec nous de nouveaux auteurs, comme [Johary Ravaloson](http://www.amazon.fr/s?_encoding=UTF8&search-alias=books-fr&field-author=Johary%20Ravaloson) de Madagascar ou [Laure Morali](http://www.facebook.com/profile.php?id=696535414&ref=ts) du Canada. J’ai vu leurs yeux s’éclairer.
+
+Alors que la technologie progresse, il nous manque encore l’œuvre, qui entraînera derrière elle toutes les autres, qui prouvera aux yeux de tous que, dans l’espace numérique, peuvent naître des textes forts. Ce bootstrapping ne s’est pas encore produit. Nous autres auteurs devons travailler. Ne pas chercher à séduire, mais atteindre quelque chose tout là-bas et, peut-être, l’un de nous prendra par la main un grand nombre de lecteurs et interconnectera nos îles encore trop isolées.
+
+À ce moment, l’écosystème numérique apparaîtra au grand jour. Comme tout écosystème, il ne peut être centralisé, mais découle de l’interaction entre les œuvres, les auteurs, les éditeurs, les publishers, les lecteurs, les propulseurs, sans qu’aucune de ces fonctions ne soit exclusive ou excluante. Il ne s’agit pas de mettre en avant la littérature, l’économie ou l’auteur. Ce serait absurde. Favoriser un secteur reviendrait à centrer l’écosystème, comme il l’est aujourd’hui, c’est-à-dire le priver de vie.
+
+### Notes
+
+1. Depuis 7 000 ans, il existe à Ouessant un droit de bris et un droit de varech : tout ce qui atterri sur les plages appartient aux îliens qui le découvrent. On a parfois l’impression que les touristes que nous étions n’étaient que de simples bouts de bois pour les restaurateurs ou les cafetiers. Je pense notamment au patron de la crêperie Ti a Dreuz, au bas du bourg.
+
+2. Sur une île, on trouve un concentré d’humanité, de la crasse bêtise d’un crêpier à la chaleur de tous les bénévoles qui ont organisé le salon. J’avais envie de vous embrasser, de ne jamais vous quitter. Je pense à vous.
+
+3. Peu d’auteurs connaissent le succès, peu d’auteurs vivent de leurs textes, ce n’est pas une raison pour négliger ces deux perspectives, qui dans le domaine numérique ne sont pas nécessairement corrélées.
+
+4. Nous avons besoin de succès, pour servir d’aspirateur comme de repoussoir. La littérature est toujours de combat.
+
+5. Avec le numérique, nous construisons un monde de point à point, d’individu à individu, c’est à cette échelle que se construira notre écosystème littéraire. Je n’envisage pas de travailler uniquement avec les institutions du passé qui, toutes, doivent être reconstruites. Autant dire que je n’aime pas l’art subventionné par l’État. J’appelle à ce que les lecteurs deviennent mécènes.
+
+6. Si nous réussissons à conserver nos droits sur [le modèle de la coédition](https://tcrouzet.com/2010/08/21/a-quoi-ressemble-l%E2%80%99edition-a-rien/), nous serons capables de proposer gratuitement des textes, d’être remerciés par les lecteurs les plus fidèles. Nous ne deviendrons pas riches, mais nous serons peut-être plus nombreux à pouvoir vivre décemment de l’écriture. Je préfère cela à des écrivains subventionnés par l’éducation nationale, parce qu’ils sont profs, ou alimentés au compte goutte par quelques lectures ou conférences, subventions elles aussi réservées à une caste, même si elle n’est pas nécessairement corrélée avec celle des succès.
+
+7. L’ancien écosystème subsiste, profitons-en pour lancer à partir de lui notre fusée. François Bon a raison de demander aux bibliothèques de s’abonner à publie.net. Mais ne comptons pas sur l’ancien système pour alimenter indéfiniment nos boosters. Nous exploserions en vol.
+
+8. J’ai encore croisés trop d’acteurs du livre numérique qui ont peur de froisser l’ancien système et qui ne disent pas ce qu’ils pensent. Ménager la chèvre et le chou est stérile. Nous devons plus que nuls autres nous tenir droit dans nos bottes.
+
+9. On ne peut affirmer que les auteurs n’ont jamais gagné leur vie puis se plaindre de la difficulté de la vie d’auteur. Nous devons trouver une solution. Je suis persuadé qu’elle passe par la gratuité a priori, par la rémunération a posteriori. « Je lis puis je paye si je suis fan. »
+
+10. J’ai parfois entendu dire à Ouessant que le numérique était fun et que cela était une bonne raison de s’y intéresser. J’ai bondi. S’intéresser au numérique parce que nous pouvons y publier ce que nous avons du mal à publier dans l’ancien monde est déjà une motivation politique. Que des gens ne s’intéressent au numérique que pour une perspective économique me désespère, mais je serai là pour me battre aussi contre eux. Il ne s’agit pas de présenter un monde unifié de la littérature numérique.
+
+11. François Bon avec ses lectures enjouées de Rabelais nous a montré combien nous devions nous appuyer sur le passé pour transiter vers l’avenir. Nous devons rechercher les bases solides, ne pas trop peser sur celles que la lave risque d’emporter, tant dans le domaine public que privé, je pense encore une fois à l’État, d’un côté, à Apple de l’autre. Restons attachés à l’ouverture, à l’open source.
+
+12. Un auteur de transition doit être un homme de transition, à cheval entre tous les mondes, curieux de tous les arts comme de toutes les techniques. Il doit être à son aise au café, en conférence, derrière son clavier, seul avec ses mots, aussi avec les autres et leurs mots. Nous devons parfois nous violer pour aller sur les terrains que nous ne goûtons pas, nous n’avons pas le choix.
+
+13. J’ai repensé à [l’idée de François Bon d’un Deezer du livre](http://www.tierslivre.net/spip/spip.php?article2227). Il nous faut des plateformes de diffusion par abonnement des textes numériques. Elles doivent proposer des bouquets de livres venant d’une multitude d’éditeurs. Je ne suis pas sûr que l’abonnement à un seul éditeur suffise, à moins qu’il ne devienne lui-même une plate-forme, tel est peut-être l’avenir de publie.net. C’est dans cette direction que s’oriente François en proposant des espaces à des collections où lui-même n’aurait pas droit de regard.
+
+14. À quoi rassemblera l’éditeur du futur ? Je le vois comme une structure émergente, née de l’interaction entre un réseau d’auteurs. Chacun d’eux sera le point de diffusion de ses propres œuvres et l’éditeur sera une sorte de portail. Il n’aura peut-être pas d’existence juridique, pas d’employé, pas de contrat. Ce sera à chacun des auteurs de promouvoir les autres.
+
+15. En discutant avec Alexis Jaillet d’[eBouquin.fr](http://www.ebouquin.fr/), j’ai pensé à une sorte de [4chan dédié au livre](http://boards.4chan.org/lit/), à leur promotion. Bien des lecteurs appréhendent de parler des livres qu’ils aiment ou détestent. L’anonymat est peut-être la solution. Les lecteurs viendraient sur le site poster leurs commentaires qui s’empileraient comme dans un flux Twitter. Un titre ou un numéro ISBN établirait la connexion avec l’objet.
+
+16. Nous retrouver à Ouessant nous a fait du bien. Les conférences comme souvent nous ont permis de faire le point, et autour, en amont ou en aval, avec les invités officiels ou ceux qui se sont invités, des graines nouvelles ont été plantées.
+
+17. Je revois François Bon qui me tape sur la cuisse pendant notre conférence, c’est cela aussi qui est important. Simplement se respirer, se humer, comprendre ce que le clavier ne laisse pas comprendre, mieux deviner les forces des uns et des autres.
+
+Je dédie ce billet à [Jean-Lou Bourgeon](http://twitter.com/jeanloub) et [Isabelle Le Bal](http://isabellelebal.over-blog.fr/), les instigateurs de [Numérile](http://twitter.com/#search?q=numerile).

@@ -1,0 +1,39 @@
+# Le journalisme a-t-il un avenir ?
+
+Que sont devenus les enlumineurs du moyen-âge ? Que sont devenus les moines copistes ? Que sont devenus les relieurs ? Ils ont presque tous disparu parce qu’un métier ne survit que tant qu’une économie le soutient et lui donne sens. Toute profession est vouée à disparaître.<span id="more-6206"></span>
+
+Certaines fonctions sociales semblent plus durables que d’autres. Il y avait des artistes, il y a des artistes, il y aura des artistes. L’artiste pour moi nourrit notre conscience réflexive et je crois que toute conscience réflexive a besoin d’art, même si cette conscience se trouve un jour transportée sur des supports inédits.
+
+Il existe sans aucun doute d’autres professions durables mais je doute que le journalisme, au sens où nous l’entendons, survive. Tout d’abord pour une simple raison. Nous n’avons pas besoin des journalistes pour vivre heureux, pour nous épanouir et comprendre le monde.
+
+L’économie médiatique nous a peut-être persuadés du contraire mais ce n’est que grâce à un bon marketing. Je me donne toujours en exemple. Je ne consomme pas de news et je n’ai pas l’impression de vivre sur une autre planète. Je lis beaucoup de livres, beaucoup de papiers scientifiques, beaucoup d’essais. En fait, je ne lis pas les journalistes mais des auteurs. Les journalistes m’ennuient, les auteurs me transforment, peut-être parce qu’ils touchent de près ou de loin à l’art.
+
+Quand je dis que je ne lis pas les journalistes, ce n’est pas tout à fait vrai. De temps à autres, un ami me suggère de lire un papier et je reste un inconditionnel de *NewScientist*. Mais ces informations représentent moins de 1 % de toutes les informations que je consomme. Si tout le monde faisait comme moi, il n’y aurait pratiquement plus de journalistes professionnels dès aujourd’hui. Il ne resterait que des amateurs parlant ou montrant de ce qu’ils voient et de ce qu’ils entendent. Est-ce que ce serait une catastrophe ? Je ne le crois pas. Globalement nous ne serions pas mieux ou pas plus mal informés qu’aujourd’hui.
+
+Le journalisme n’est qu’un business qui a réussi à persuader qu’il était indispensable. Les journalistes ont même cru qu’ils étaient indispensables et avaient un rôle social capital, ce qui explique souvent leur fierté de faire ce métier.
+
+### La conscience globale
+
+Pour maintenir la cohésion de notre société, pour traverser les crises, pour transiter vers un autre état de l’humanité, nous avons besoin que des informations circulent, qu’elles animent notre cerveau global avec de plus en plus d’intensité. Mais les journalistes malheureusement produisent des informations souvent redondantes et qui ne nourrissent guère notre imaginaire ou notre intelligence.
+
+Une fois informés sommes-nous plus avancés ? Non. Nous croyons savoir quelque chose, illusion dangereuse, car nous ne savons que ce qu’un journaliste a réussi à dire ou a voulu dire. Faut-il payer pour se faire manipuler ? Non. Faut-il payer pour qu’un journaliste hiérarchise l’information à notre place ? Comment peut-il savoir ce qui est important pour moi ? Il ne le sait pas car chacun de nous a des priorités différentes.
+
+Nous nous élevons lorsque nous échangeons. Je suis heureux lorsque je lis un papier, dialogue avec l’auteur, écrit un autre papier en retour et que chacun de notre côté nous faisons un bout de chemin ensemble. Nous avons besoin du foisonnement des conversations. Depuis que j’ai goûté à ce tumulte, le journalisme me paraît fade. Je crois que plus les gens se connecterons entre eux moins ils éprouveront le besoin de consommer des news.
+
+Le bruit de fond de la conscience globale nous informera au sens où on l’entend aujourd’hui. Nous connaîtrons les grands évènements, les grandes tendances, puis chacun de nous creusera dans des directions particulières, des directions si diverses qu’aucune ne justifiera peut-être l’existence d’un journaliste professionnel. La décentralisation de la production de l’information s’accompagnera d’un émiettement des besoins d’information.
+
+Aujourd’hui nous en sommes encore à l’époque de la photocopie cérébrale. Il faudrait que chacun sache la même chose que l’autre. C’est le business médiatique. Quel intérêt ? Pour que nos interactions soient fructueuses nous devons nous enrichir de nos différences.
+
+### Et le blog alors ?
+
+Cet émiettement pose même la question du livre ? Est-il encore compatible avec les conversations multidirectionnelles ? Je crois que oui car nous avons besoin aussi du dialogue intense, suivi et profond avec un auteur comme avec nos amis. Nous avons d’un côté le bruit général de la conscience globale (Facebook, Twitter…), d’un autre les échanges intenses et brefs et d’un autre enfin l’approfondissement propre aux contenus cohérents (livres, films…).
+
+Je situe le blog entre ces deux extrêmes, entre le bruit et l’épaisseur. Il est logique que les journalistes migrent vers cette pratique qui pourtant exige d’autres compétences que les leurs. Il ne s’agit plus d’informer mais de faire résonner, sur un ton particulier, une harmonique particulière.
+
+Des blogueurs frôlent le bruit et la légèreté, d’autres l’épaisseur propre au livre. La seconde catégorie, qui m’intéresse, implique peut-être de fermer un blog une fois que, en tant qu’auteur, on a bouclé un sujet. [C’est la question que se pose Narvic.](http://novovision.fr/?Avenir-du-journalisme-rompre-avec)
+
+Pour ma part, je considère mon blog comme un atelier, je m’y autorise de parler de tout en même temps que j’essaie d’écrire des livres. J’aurais peut-être envie de créer d’autres sites comme je l’ai fait avec [Croisade](http://twiller.tcrouzet.com/), pour tenter d’autres expériences, mais mon blog est en quelque sorte le vaisseau mère duquel partiront des navettes exploratrices.
+
+Je crois qu’il est important de se poser ces questions au sujet de l’information et de la forme qu’elle doit prendre, qu’elle prendra, qu’on voudra lui voir prendre. Je ne suis sûr que d’une chose : nous n’avons pas besoin de beaucoup de news pour être heureux. Nous avons besoin d’échanger. Nous avons besoin d’artistes plus que de journalistes.
+
+Quand Picasso avec une scelle et un guidon de vélo construit un taureau il me rend heureux parce qu’il a révélé une possibilité nouvelle, il a ajouté une information dans le monde, il ne s’est pas contenté de faire du copier-coller ou de me dire qu’une chose était plus importante qu’une autre.

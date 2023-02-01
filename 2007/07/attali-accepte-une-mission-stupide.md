@@ -1,0 +1,3 @@
+# Attali accepte une mission stupide
+
+[Je ne suis pas surpris mais bon…](https://tcrouzet.com/2006/11/28/bonne-partie-de-rigolade/) Alors que le monde doit mettre le frein sur la démographie, sa consommation énergétique, son usage des ressources naturelles, Attali accepte une mission pour voir comment relancer la croissance en France (et il ne s’agit pas que d’économie, je l’ai entendu parler de [croissance démographique](https://tcrouzet.com/2006/10/21/trop-nombreux-2/) sur France Info). Au vingt-et-unième siècle, qu’on utilise encore cette idée de croissance, selon sa définition ancienne, est une aberration.

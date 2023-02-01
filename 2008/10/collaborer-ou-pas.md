@@ -1,0 +1,33 @@
+# Collaborer ou pas ?
+
+J’ai expérimenté le travail collaboratif sur ce blog, notamment quand j’ai écrit *Le cinquième pouvoir*, et depuis un an j’ai souvent réfléchi à la question en développant [coZop](http://cozop.com).
+
+Ces derniers temps, je pense souvent à la remarque de [Dee Hock](https://tcrouzet.com/2006/09/22/dee-hock-geneve/). Il ne peut pas y avoir de collaboration sans une direction claire. Quand j’écrivais mon livre, je donnais le la, les commentateurs réagissaient et me suggéraient des pistes de réflexion mais j’étais en quelque sorte la caisse de résonance. Je prenais, je synthétisais, je restituais.
+
+Linux s’est développé parce que Linus Torvald créa le noyau de Linux sur lequel les autres développeurs branchèrent leurs créations. La collaboration ne me paraît possible que si elle s’appuie sur un noyau, un cœur, un moteur, une plateforme, une api. On peut sans doute se réunir à quelques un et dire qu’on va collaborer à un projet mais il me semble que le plus souvent ça ne marche pas de cette façon.
+
+Mettez des gens ensembles et vous n’obtenez pas nécessairement quelque chose d’intéressant. Je suis en train de m’élever contre ce postulat à l’origine de nombreux services collaboratifs sur internet, contre certaines idées à l’origine même de coZop.
+
+Je prends cet exemple parce que je le connais bien. Ce n’est pas parce que je suis ami avec quelqu’un que j’aime ce qu’il lit. Nous sommes amis pour des raisons souvent irrationnelles. J’aime le Tour de France et aucun de mes amis ne l’aime. Vont-ils devoir recevoir tous les articles que je lis sur les courses cyclistes ? Non bien évidement. Ils pourront certes dire « je ne veux plus de vélo » mais ils devront étendre cette liste de censure presque indéfiniment.
+
+Que je sois ami ou simplement connecté à quelqu’un par un lien quelconque n’aidera jamais un service internet à nous proposer des informations mieux ciblées. La mode autour des réseaux sociaux déclaratifs me paraît de plus en plus fumeuse.
+
+En fait, elle révèle notre impuissance technologique. Nous sommes incapables de rendre nos logiciels assez intelligents pour trier les informations alors nous essayons d’utiliser l’intelligence collective, oubliant que cette intelligence ne peut fonctionner que si chacun des individus travaillent effectivement autour d’un noyau. Analyser les choix de mes amis ne servira à rien pour me suggérer des lectures qui pourraient m’intéresser.
+
+Dans ce domaine, nous n’avons guère trouvé mieux pour le moment que l’algorithme d’Amazon. Les gens qui lisent les mêmes livres que moi lisent aussi tels et tels livres… Je n’ai pas besoin de connaître ces gens. Nos liens affectifs ou professionnels n’ont aucun intérêt. Le seul lien qui importe pour ce qui m’intéresse c’est que nous avons quelques goûts communs.
+
+Si quand je commande *La conspiration des ténèbres* de Théodore Roszak, on me suggère de lire *Transparence* d’Ayerdhal, c’est que des gens ont à plusieurs reprises effectué le même chemin. Pendant un instant, sur un point particulier, nos routes se croisent et un réseau social provisoire se crée. Sans doute que nous ne nous croiserons jamais plus mais cette rencontre suffit pour que j’entende parler d’Ayerdhal, que je le lise… Sur internet, j’aime cet imprévu. Et c’est de cette façon que de proche en proche se crée la longue traîne.
+
+Avec une philosophie presque opposée, [des moteurs se lancent dans la recherche collaborative](http://technology.newscientist.com/channel/tech/mg20026776.100-web-searches-benefit-from-some-human-help.html). Ils tiennent compte des recherches des amis. Mais encore une fois que vont faire mes amis de mes recherches sur le Tour de France ?
+
+Certaines startups envisagent de faciliter la recherche de groupe. Ok, nous sommes une bande à travailler sur un sujet. Nous cherchons des choses sur ce sujet et les résultats des recherches des uns et des autres nous intéressent tous. Mais chacun de nous a d’autres centres d’intérêt. Comment savoir quand nous cherchons sur le sujet ou hors du sujet ? Devons-nous le stipuler chaque fois ? Ce n’est même pas possible en plus. Une recherche a priori divergente peut engendrer une idée qui elle sera utile au projet.
+
+Si nous utilisons un moteur collaboratif nous allons nous enfermer dans des recherches communautaires. Nous allons certes partager des connaissances communes, ce qui autorisera des conversations, mais nous finirons vite par manquer d’air. Au lieu de voyager sur la longue traîne, nous nous emprisonnerons.
+
+Tout le monde pousse le web dans la direction sociale par panurgisme. La faute sans doute au succès de facebook mais je n’en peux plus de facebook. J’en ai assez de recevoir des invitations à des évènements qui ne m’intéressent pas ou des suggestions de faire ceci ou cela. Tous ces gens connectés avec moi ne pensent pas comme moi. Ce réseau se crée artificiellement. Il est trop simpliste. Le véritable réseau social est d’une complexité sans commune mesure.
+
+Je suis connecté avec les gens qui lisent les mêmes livres que moi, qui vont dans les mêmes cafés que moi, qui aiment les mêmes sports… Mais chaque fois ce sont des gens différents. Je ne peux pas les lister car le plus souvent je ne les connais pas.
+
+J’en reviens à coZop. Mon idée initiale était de faire émerger des articles hors du mainstream. Je me demande si la meilleure façon n’est pas de dire aux lecteurs lisez cet article parce qu’aucun de vos amis ne l’a lu. Quel intérêt ai-je de lire la même chose que les gens que je connais ? Aucun. Lorsque nous nous rencontrerons nous n’aurons rien à nous dire. J’ai tout intérêt, nous avons tout intérêt, à nous différencier, à nous compléter plutôt que nous ressembler. J’en ai assez de cet internet qui nous veut tous semblables, qui veut nous ramener au status végétatif de simple spectateur.
+
+Les réseaux sociaux sont aujourd’hui utilisés pour aboutir à une espèce de moyenne sociale. Beurk ! Ce n’est pas comme ça que nous éveillerons notre intelligence collective. Il faut que des gens travaillent, créent des noyaux, que nous nous y connections activement et non passivement. Cet internet social à la facebook me fait penser à la démocratie. Tu votes, tu te connectes, et tu crois que la messe est dite. Ça ne marche pas comme ça.

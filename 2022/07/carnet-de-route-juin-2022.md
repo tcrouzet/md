@@ -1,0 +1,217 @@
+# Juin 2022
+
+
+
+### Mercredi 1^er^, Balaruc
+
+*Comme si on ne pouvait dire notre temps que par fragments.* Ce pourrait être le titre d’un essai, ou le cahier des charges d’un projet artistique, ou une affirmation.
+
+### Jeudi 2, Balaruc
+
+Virginia a peur pour sa vie lors des bombardements allemands d’août 1940 et six mois plus tard elle se suicide. J’ai du mal à comprendre comment la vie peut être précieuse, puis immédiatement dilapidée. Je ne vois que la maladie soudaine comme explication.
+
+### Vendredi 3, Balaruc
+
+Réveil à cinq heures, stressé par Parcoursup. Une mécanique bien huilée, implacable, sans surprise. Beaucoup de mal a été dit de cette plateforme, qui s’avère terriblement efficace. Pour chaque vœu en attente, l’élève est classé et on sait jusqu’où dans le classement le décompte est remonté les années précédentes, on connaît donc plus au moins ses chances, et inutile de rêver à des miracles. Le stress vient de la nécessité de choisir entre des trajectoires différentes, des villes différentes, de plus ou moins grandes prises de risque. Pour Tim, entrer directement dans une école d’ingénieur moyenne ou tenter une prépa dans l’espoir de décrocher mieux dans deux ans.
+
+---
+
+Nous partons pour Montagnac. Nous ne sommes pas sur l’autoroute que nous voilà dans un bouchon, dont nous émergeons trente minutes plus tard après avoir parcouru trois kilomètres. Tout au long du trajet, surtout à partir de Narbonne, nous remontons un bouchon continu. Ma mère qui nous accompagne demande où vont ces gens. Comme nous ils veulent changer d’air. Cette folie routière me donne la nausée. Nous sommes en crise et nous la nions. Quand nous faisons le plein, je découvre à quel point un simple week-end engendre des dépenses délirantes. Nous sommes des cigales. La dépendance à la voiture me désespère. Au-delà de l’impact écologique, il y a le temps passé à conduire, qui ne me procure aucun plaisir, alors que chaque kilomètre à vélo est extravoluptueux, même quand je grimace dans les montées.
+
+### Samedi 4, Montagnac
+
+Modiano est le plus grand fabricant de cupcakes de la littérature française. Une seule recette, un seul moule, mais une texture moelleuse incomparable. J’aime ses livres, mais n’aurais pas aimé les écrire. Je me serais ennuyé. Je préfère Virginia qui aborde chacun de ses textes comme une révolution et une remise en cause des principes appris au préalable. Ainsi, il en va des écrivains comme des restaurants. Certains proposent peu de plats, mais les réussissent à coup sûr.
+
+---
+
+Nous mangeons dans un restaurant où le serveur commence par nous servir un petit appetizer, puis une petite entrée, puis un petit plat et nous sommes obligés de commander un petit dessert, car nous avons encore faim, surtout les garçons qui deviennent de plus en plus gargantuesques. Nous rigolons beaucoup. « Tu reprendras bien une petite bouchée… »
+
+---
+
+J’ai de plus en plus du mal avec les restaurants et leurs cartes remplies de viandes et de protéines animales. Mon meilleur repas de la journée reste mon matinal bol de céréales et de fruits.
+
+### Dimanche 5, Montagnac
+
+Dans une lointaine galaxie. Des mondes retournés au mieux à notre niveau technologique, mais interconnectés par des portes de téléportation. Voilà qui résoudrait mon désir de space opera et ma hantise de commettre des bévues technologiques, d’écrire un livre aussitôt périmé. Ce serait l’histoire du découvreur des portes et de ses voyages. Ce pourrait être une série interminable.
+
+Cette idée arrive après une nuit orageuse, déchirée par des feux d’artifice interminables, et mon ventre retourné par la glace que j’ai exceptionnellement mangé en soirée. Souvent mes idées jaillissent au cours de désordres gastriques, quand tout leur semble défavorable, peut-être parce que l’inconfort pousse le cerveau à s’échapper.
+
+---
+
+Le 5 novembre 1940, lors d’une inondation historique, qui transforme et magnifie les paysages, Virginia se dit « très heureuse ». Je me suis toujours méfié de l’enthousiasme des dépressifs. Il précède souvent l’effondrement. D’ailleurs, le 29 décembre, plus rien ne va. « Je déteste la dureté de la vieillesse. Je la sens venir. Je grince. Je suis aigre. » Puis « La seule justification de mon œuvre c’est ma vie. » Si c’était vrai, le suicide gâcherait tout, ou tout au moins donnerait une dimension tragique à l’œuvre.
+
+Je ne crois pas qu’une œuvre doive se justifier par quoi que ce soit. Une œuvre est au mieux un alibi pour vivre. L’œuvre n’a de sens que tant qu’elle nous accompagne dans la vie.
+
+### Mardi 7, Balaruc
+
+Avec Parcoursup, l’expérience du Bac n’est plus seulement celle de l’élève, mais de toute sa famille. Mon penchant data crunching me pousse à croiser les nombres, [souvent accessibles hors Parcoursup](https://data.enseignementsup-recherche.gouv.fr/pages/parcoursupdata/?disjunctive.fili) pour réduire la possibilité de surprise. Il y a un business à monter pour ajouter une couche statistique à l’outil déjà assez complet proposé par l’éducation nationale, qui aurait pour fonction que diminuer le stress de l’attente, une ambition apparemment négligée par les développeurs du service.
+
+### Mercredi 8, Balaruc
+
+*Le numéro*. Une femme regarde un film où un homme dessine une femme dans un café. Curieuse, la portraitée vient admirer le dessin et l’homme le lui offre. Elle lui demande de le signer. Il indique à la place son numéro de téléphone. Le numéro frappe la femme qui regarde le film. Inexplicablement, le lendemain matin, elle se souvient du numéro. Et le surlendemain aussi, comme si ce numéro l’obsédait, alors elle finit par l’appeler. Un homme répond et lui dit qu’elle a appelé un numéro magique. Il lui raconte une étrange histoire : il a lui-même découvert un numéro dans un livre et il l’a lui-même appelé. Et ainsi de suite. Un numéro dans un tableau, une photo, une publicité… imbriqués dans un jeu de poupée russe. Des numéros ésotériques, dont la structure aurait quelque chose de fascinant.
+
+### Jeudi 9, Balaruc
+
+Suis orphelin de Virginia, je n’ai pas encore trouvé le livre qui me tiendra compagnie tous les matins.
+
+---
+
+Je boucle mon premier jet de *Quelques atomes de vérité*, je crois que mes passages préférés ne toucheront guère les lecteurs.
+
+---
+
+Se placer à un endroit, le décrire, puis reculer et le décrire de nouveau, puis recommencer.
+
+### Vendredi 10, Balaruc
+
+Je m’étais juré de ne plus faire du VTT en solo, puis je suis parti explorer, par 38° au soleil. Grand plaisir, paysages sublimes, je rentre vends de dos, fonce dans une chemin à plus de quarante, un léger virage, une ornière énorme se creuse, je ne réussis pas à rester sur la crête et je plonge. Le choc est si violent qu’il me laisse pantois, hurlant, essoufflé, il me faut cinq minutes pour me calmer et réussir à attraper une gourde pour boire. Violente douleur au-dessus de la hanche gauche. Je réussis à me redresser, je m’assois, mange du glucose, au bout de quinze minutes je marche en poussant le vélo, puis je parviens à pédaler jusqu’à ma voiture. Quand j’arrive chez moi, j’ai un hématome aussi gros qu’un ballon de rugby. Mon copain Philippe arrive et me dit qu’il me faut faire un scanner, au cas où j’aurais endommagé mon rein gauche. Deux heures plus tard, je ressors des urgences, endolori de partout, mais rassuré. Philippe me prévient que je vais souffrir.
+
+![Lac de Vailhan](https://tcrouzet.com/images_tc/2022/07/IMG_7705.jpeg)
+
+![Barrage de Vailhan](https://tcrouzet.com/images_tc/2022/07/IMG_7706.jpeg)
+
+![Vailhan](https://tcrouzet.com/images_tc/2022/07/IMG_7710.jpeg)
+
+![Vailhan](https://tcrouzet.com/images_tc/2022/07/IMG_7725.jpeg)
+
+![Pic Vissou](https://tcrouzet.com/images_tc/2022/07/IMG_7731.jpeg)
+
+### Samedi 11, Balaruc
+
+Je suis dans la peau d’un vieillard perclus de douleurs. On dirait que je suis grippé tant mon corps grince de partout, sensation d’autant plus étrange que je suis affûté et n’aspire qu’à remonter sur mon vélo.
+
+---
+
+On peut parler d’écriture avec art et écrire des livres immondes. Qu’en conclure ? Que nous autres écrivains partageons la même expérience du travail, mais que malheureusement nous ne possédons pas un génie égal.
+
+---
+
+Publier mon journal tous les mois m’évite de m’y abandonner à des critiques nominales. La publication me pousse à la décence ordinaire (en plus de me guérir des jacasseries sur les réseaux sociaux).
+
+### Dimanche 12, Balaruc
+
+[Un psychothérapeute liste les conséquences de l’absence du père](https://www.yourtango.com/self/how-know-father-wound-still-affects-you-today) : « drug and alcohol abuse, depression and suicide, teen pregnancy, sexual addiction, poverty, divorce, crime, broken marriages », j’ai envie d’ajouter « writing addiction ». [Quand un journaliste demande à Stephen King si l’écriture est une addiction](https://www.rollingstone.com/culture/culture-features/stephen-king-the-rolling-stone-interview-191529/), il répond : « Yeah. Sure. I love it. And it’s one of the few things where I do it less now and get as much out of it. Usually with dope and booze, you do it more and get less out of it as time goes by. It’s still really good, but it’s addictive, obsessive-compulsive behavior. So I’ll write every day for maybe six months and get a draft of something—and then I make myself stop completely for 10 days or 12 days in order to let everything settle. But during that time off, I drive my wife crazy. She says, ‘Get out of my way, get out of the house, go do something—paint a birdhouse, anything!’ »
+
+### Lundi 13, Balaruc
+
+Le roman populaire a déformé la littérature, faisant du personnage un impératif. Il devient de plus en plus difficile de dire « je », sans que ce « je » ait besoin de différer de l’auteur.
+
+---
+
+Je suis un vieillard, je me traîne, mon dos m’envoie des salves violentes au moindre faux mouvement, des coups de poignard qui me transpercent. Par-dessus s’abat une chaleur lourde, étouffante, qui me prive d’envie et de lucidité. Je lis un Simenon, il y avait longtemps, c’est bien comme toujours, mais pas décisif, comme toujours.
+
+---
+
+Je réussis à accompagner Émile au collège, puis à rouler jusqu’à Montpellier pour déposer un Mac chez Apple, parce que le clavier s’efface, parce que les touches ne répondent plus. Il ne reste que quelques jours avant la fin du programme de réparation gratuite, suite à un défaut de fabrication. Mais pourquoi interrompre ce programme au bout de quatre ans, alors que cette machine reste par ailleurs parfaitement fonctionnelle, et plus que suffisante pour un usage bureautique ? Apple se fiche de nous, entérine l’obsolescence programmée. Au bout de quatre ans, on est censé changer d’ordinateur.
+
+---
+
+Rêver, lire des romans qui me font rêver, en écrire qui ont le même pouvoir, parce que le réalisme n’a pas le pouvoir d’enchanter le réel. Je ne cesse de me dire qu’un roman doit avoir une mission politique, oui, intensifier la vie. Je viens de passer un moment à regarder au loin des jeunes courir, plonger, se pousser à l’eau, sur le ponton flottant. Et maintenant, la touffeur s’en est allée, la brise de mer apporte un peu de fraîcheur sur la terrasse. J’y traîne parce que je suis handicapé. Je rêve parce que mon corps m’immobilise. Je lis Simenon pour la même raison. Il me fait plonger dans son atmosphère, mais il ne me fait pas rêver. Il pique ma curiosité par des artifices, et continuer à lire n’a guère de sens, sinon d’associer son rythme à celui de l’été qui s’installe.
+
+### Mardi 14, Balaruc
+
+Mon corps poussé au repos m’impose de m’abandonner au temps long de l’été. Je n’en profite pas pour écrire, je n’ai pas envie d’écrire. Je lis des tonnes de textes pour aider Tim à choisir la meilleure orientation pour lui.
+
+---
+
+*Cartes postales*. Une vieille idée qui revient souvent. Des messages envoyés à des amis, messages qui réunis raconteraient une histoire. Non pas des posts que tout le monde pourrait lire, mais de véritables cartes postales, nominatives, intimes, dont les images et les textes devraient être mis bout à bout.
+
+### Mercredi 15, Balaruc
+
+Après une séance chez mon ami ostéopathe, il m’autorise à faire du vélo malgré ma douleur lombaire. L’exercice devrait aider à résorber l’hématome. Petit quarante kilomètres à une allure d’escargot, avec arrêt chez ma coiffeuse à qui je demande de déboiser ma chevelure de hippie, puis retour à la maison, épuisé comme après un cent kilomètres montagneux. Je me sens bien, malgré la fatigue. Dans l’après-midi, je me baigne, passe même un bon moment à ratisser les algues devant la maison, mais plus tard, après une heure vautré dans une chaise longue, je n’arrive plus à en sortir, la douleur est violente, à provoquer des flashes noirs.
+
+### Jeudi 16, Balaruc
+
+Je suis optimiste quant à notre avenir collectif. Nous dépasserons la crise climatique sans traverser un grand effondrement. Nous trouverons des solutions parce que nous sommes plus géniaux que stupides, en moyenne. Alors pourquoi, pour moi-même, suis-je souvent moins optimiste ? J’ai tendance à envisager le pire. Pourtant, si j’ai continué à écrire c’est parce que j’ai toujours cru qu’il existait des lecteurs quelque part, que je travaillais pour ma propre édification et aussi un collectif. Si je renonce à cette croyance, alors je n’ai plus aucune raison d’écrire, même pour moi, parce que mon édification passe en partie par les autres. *You never walk alone*.
+
+---
+
+La moindre torsion me poignarde. C’est à hurler. M’allonger est une torture, me redresser aussi. Je suis incapable de me pencher. Hier, j’en ai trop fait, où peut-être que la guérison passe par une phase de tension. Impression d’être fiévreux. Mal fichu. Je sais qu’il y a un risque d’infection avec les gros hématomes.
+
+### Vendredi 17, Balaruc
+
+Les coups de poignard se multiplient, tout faux mouvement me fait grimacer, fermer les yeux, pousser un cri. Je ne sais plus quoi faire de mon corps. Les jours passent et la souffrance s’intensifie, hyper localisée, alors que tout le reste de mon corps aspire à se dépenser.
+
+---
+
+Après avoir lu un Goncourt qui use et abuse de la voix passive dans la scène inaugurale, je retombe sur un texte d’Hemingway qui utilise la couleur si particulière de la voix passive dès le premier paragraphe. *Îles à la dérive*. Je n’avais jamais entendu parler de ce roman, peu convaincant, qui me fatigue assez vite. Hemingway s’abandonne à sa pente, sans le moindre effort pour s’en extraire.
+
+### Samedi 18, Balaruc
+
+Tim arrive au bout de Parcoursup. Il a sur la table les deux meilleures propositions imaginables pour le travail fourni. Le week-end s’annonce compliqué, pas idéal pour la préparation du grand oral de lundi. De mon côté, je vais pouvoir cesser de m’éveiller au milieu de la nuit pour computer ses classements en avant-première. Parcoursup m’aura autant obsédé que le covid. J’aurais dû faire statisticien.
+
+### Dimanche 19, Balaruc
+
+Tous les matins, je marche, puisque je ne peux pas pédaler, et la souffrance dans le dos me semble augmenter plutôt que s’amenuiser. Je vis sans envisager la guérison. Sensation désagréable qui me prive de volonté. J’en suis à me demander s’il est encore raisonnable de rêver à mon bikepacking Paris-Sète dans deux semaines.
+
+### Lundi 20, Balaruc
+
+Je réussis tant bien que mal un 25 km sur la piste cyclable. Impression de ne jamais avoir fait de vélo. Mal partout. Pendant ce temps, Tim passe son grand oral et en termine avec le lycée. J’ai encore du mal à croire que l’année prochaine il ne vivra plus à la maison.
+
+### Mardi 21, Balaruc
+
+Hier, j’ai [résumé notre expérience Parcoursup](https://tcrouzet.com/2022/06/20/mon-experience-de-parent-avec-parcoursup/) pour en faire profiter d’autres familles. J’ai reçu quelques volées de haine, comme si de réussir à naviguer dans la jungle numérique était une faute. J’ai passé des heures pour comprendre Parcoursup et le dompter. J’ai investi du temps alors que ses détracteurs critiquent sans avoir fait l’effort de comprendre. Ils s’opposent par principe, parce qu’ils s’opposent au gouvernement qui a mis en place le système. Plutôt que de demander de l’aide, ils rejettent, ce qu’ils jugent inégalitaire. Mais j’ai eu la liberté de comprendre, je suis équipé pour comprendre, ils rejettent cette inégalité aussi, alors que tous les bacheliers devraient être aptes à comprendre cette mécanique et, s’ils ne le sont pas, nous avons un immense problème éducatif. Est-ce cela que met en évidence Parcoursup ? Nous formerions des bacheliers incapables de faire des règles de trois ? Je me sens de l’autre côté d’une faille profonde, sans être capable de tendre la main à ceux qui se tiennent de l’autre côté, et nous nous éloignons toujours plus loin les uns des autres.
+
+### Mercredi 22, Balaruc
+
+Je rêve d’un texte qui me ferait entrer dans un autre monde, que je pourrais élaborer à loisir, pour mon plaisir, sans la moindre considération littéraire ou éditoriale. Un space opera, c’est tout ce que je peux en dire, avec pour particularité de ne pas être technologique.
+
+---
+
+Je réussis un tour de l’étang. Les jambes vont, le dos grince toujours. Je dois répéter cet exercice tous les jours pour drainer l’hématome, toujours impressionnant. Cette tension dans mon corps explique sans doute mon manque d’appétence littéraire, même lire me pèse, alors je termine de préparer la trace de mon voyage Paris Sète. Je m’accroche à cette ligne à travers la France, j’en fais un objectif, après la Parcoursup de Tim, un point de bascule dans l’année.
+
+### Jeudi 23, Balaruc
+
+Je pense à ce que je pourrais écrire plutôt que d’écrire. Je n’ai même pas besoin de prendre des notes, sauf dans ce journal pour me souvenir de mon état d’esprit si un jour je me relis.
+
+### Vendredi 24, Balaruc
+
+Belle rencontre avec Séverine Chevalier dont j’avais lu *Clouer l’ouest*, limpide coup de poing. Nous écrivons dans des genres différents, mais avec une proximité stylistique.
+
+### Samedi 25, Balaruc
+
+Je dépose un colis au centre de Frontignan, puis je passe dans une rue oubliée, et là je découvre une armurerie où mon père allait, à la devanture décatie, dans son jus depuis les années 1980. Bouffée de sensations, odeur de l’huile des armes, de la poudre, malaise… écho à ma discussion avec Séverine, sur notre relation au père.
+
+---
+
+[Les dyslexiques seraient plus aptes à rechercher de nouvelles informations plutôt qu’à acquérir les informations établies.](https://futurism.com/neoscope/dyslexia-human-evolution-study) Les dyslexiques seraient plus curieux que studieux. Je me reconnais : j’ai toujours eu du mal avec l’orthographe et ne survis que grâce aux correcteurs orthographiques. Quand j’étais enfant, je ne comprenais pas pourquoi je devais mémoriser l’orthographe des mots. C’était du temps perdu. OK, certains les mémorisent sans faire un effort, mais pour moi c’était un effort, alors je préférais vagabonder, et rien n’a changé.
+
+### Dimanche 26, Balaruc
+
+Je suis toujours étonné quand les gens racontent leur vie sur Facebook, oubliant qu’ils sont en public. Telle maman qui s’extasie des résultats scolaires de ses bambins, par exemple. Je parle beaucoup de moi, pourtant il me semble que je garde mes distances. J’ai discuté de Parcoursup parce que cette affaire m’a pris beaucoup d’énergie, parce que c’est un fait d’époque, je tente de généraliser, non de donner des détails personnels qui n’ont d’intérêts que pour mes proches. J’applique la même méthode dans ce journal, ce qui peut-être le rend inhumain, puisqu’il y manque les grains de sable du quotidien, mais l’exposition détaillée de mes constipations n’apporterait pas grand-chose (d’autant que depuis que je consomme du chia en abondance, j’ai réglé ce problème). Bientôt on lira sur Facebook : « Ce matin, j’ai chié merveilleusement, un long bronze caramélisé. » Et les commentateurs s’extasieront de hourras et de bravos et de félicitations.
+
+---
+
+Je retrouve des amis parisiens en visite à Sète pour le déjeuner, puis je bois un verre avec Olivier Martinelli, l’après-midi passe en douceur, dans la chaleur estivale, sans que je culpabilise de vivre en vacancier. Le mal au dos à du bon : il m’impose de ne rien faire.
+
+### Lundi 27, Balaruc
+
+La douleur toujours présente, lointaine, mais je contrôle mes mouvements pour éviter les coups de poignard. Apprentissage de la vieillesse, répétition. Deuxièmes jours sans vélo. Repos. J’ai décidé de partir pour Paris la semaine prochaine, de tenter mon voyage. Je m’en vais jouer au témoin de mariage, puis rentre bricoler mon vélo. Douceur du soir. Je reste immobile, les yeux écarquillés.
+
+### Mardi 28, Balaruc
+
+Retour d’une amie chère sur *Quelques atomes de vérité*. Elle n’a pas accroché à mon projet, au passage du récit familial à l’affabulation, quand je prends à mon compte la méthode de mon père, invente à mon tour des histoires extravagantes. J’avais cette hantise que cette bascule sonne faux, mais d’un faux involontaire, alors que c’est un faux intentionnel, avec des personnages qui ont tout de la caricature, auquel il est impossible de croire. Le romanesque contemporain sérieux m’emmerde. Je n’y crois pas. J’ai voulu un romanesque auquel il est impossible de croire, raconter avec le sérieux de celui qui pense qu’on peut le croire, alors que c’est impossible, parce qu’il est évident pour tout le monde que le narrateur affabule. J’aurais pu écrire une suite de *Mon père ce tueur* dans le même style, mais j’ai voulu partir ailleurs, c’est toujours ailleurs qui m’intéresse.
+
+### Mercredi 29, Balaruc
+
+Hier soir, je regarde [un reportage sur Simon &amp; Garfunkel](https://www.youtube.com/watch?v=58RFWA4S7Hw&t=4s&ab_channel=ARTE), quand ils composent *Bridge over troubled water*. Ils étaient au sommet de leur gloire et ils pouvaient tout oser. Et puis cet après-midi, je passe à la fac de lettres répondre à quelques questions de Florence Thérond et je prends conscience que quand j’écrivais *One Minute*, j’étais dans le même état, non pas à cause de la gloire, mais parce que la technologie d’écriture et de publication me permettait de faire tout ce que je voulais.
+
+---
+
+*Le bar de la jetée*. Raconter le café de ma jeunesse, la vie dans le café, les histoires qui le traversaient… Le texte commencerait par une longue description à la voix passive.
+
+### Jeudi 30, Balaruc
+
+Des souvenirs du café ne cessent de remonter depuis hier. Je pourrais écrire une collection de portraits, d’anecdotes… à la troisième personne, en me transformant en voyeur et non en acteur. Prendre de la distance avec le je. Écrire au passé simple, pour une fois.
+
+---
+
+Timothée valide définitivement son inscription en prépa à Paris. Fin d’une époque pour lui et nous.
+
+---
+
+Olivier Auber a merveilleusement, ou plutôt dégueulassement [joué avec une IA graphiste](https://olivierauber.medium.com/intelligence-artificielle-2144d44cdd69), jusqu’au moment où il a été banni de la plateforme, pour ses sous-entendus sexuels. J’ai tenté de convertir quelques textes en images, puis j’ai collé le début de *Quelques atomes de vérités*. Puis j’ai fait d’autres essais, notamment l’un avec des portails de téléportation sur un monde avec deux soleils. Fascinant. Dessiner avec les mots. L’art entame une révolution hallucinante : [la création assistée par la machine](https://discord.com/channels/662267976984297473/989739733993263114).
+
+![IA dessin](https://tcrouzet.com/images_tc/2022/07/IA1.jpeg)
+
+![IA dessin](https://tcrouzet.com/images_tc/2022/07/IA2.jpeg)
