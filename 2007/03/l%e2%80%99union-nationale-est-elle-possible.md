@@ -4,7 +4,7 @@ En France, ces vingt dernières années, nous avons essayé la gauche et la droi
 
 À droite et à gauche, on veut reprendre les mêmes, ou presque, et surtout les mêmes méthodes, ou presque, tout ça pour se planter comme par le passé. Alors, quand j’entends dire que l’union nationale est impossible par les tenants de la droite et de la gauche, je me marre. Réveillez-vous. La droite ou la gauche, c’est possible mais ça ne marche plus depuis vingt ans. On vient d’essayer… plusieurs fois même.
 
-> Tout le monde savait que c’était impossible à faire. Puis un jour est venu un homme qui ne le savait pas. Et il l’a fait.^1^
+> Tout le monde savait que c’était impossible à faire. Puis un jour est venu un homme qui ne le savait pas. Et il l’a fait.<sup>1</sup>
 
 Avec cette remarque, Churchill nous a déjà démontré que nous devions tenter l’union nationale. J’ajoute quelques arguments.
 

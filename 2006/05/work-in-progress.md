@@ -2,7 +2,7 @@
 
 Comme je l’ai déjà [expliqué](https://tcrouzet.com/peuple/roman-connecteurs-35743), j’écris en ce moment un roman, *Croisade*, suite du *Peuple des connecteurs*. Après m’être amusé à une [présentation pastiche](https://tcrouzet.com/peuple/veille-grand-bouleversement-35749), voici le texte par lequel je pourrais commencer mon histoire :<span id="more-38"></span>
 
-« Chaque fois que nous dialoguons avec quelqu’un, nous faisons circuler entre lui et nous des informations. Depuis la fin du XX^e^ siècle, sous l’impulsion des nouvelles technologies de communication, toutes ces informations qui circulent librement entre chacun de nous constituent un flux d’une ampleur sans précédent qui rappelle le flux des signaux électriques et chimiques dans nos cerveaux. C’est un pas vers l’intelligence globale, vers la conscience collective.
+« Chaque fois que nous dialoguons avec quelqu’un, nous faisons circuler entre lui et nous des informations. Depuis la fin du XX<sup>e</sup> siècle, sous l’impulsion des nouvelles technologies de communication, toutes ces informations qui circulent librement entre chacun de nous constituent un flux d’une ampleur sans précédent qui rappelle le flux des signaux électriques et chimiques dans nos cerveaux. C’est un pas vers l’intelligence globale, vers la conscience collective.
 
 « Si vous lisez ces lignes, vous vous sentez peut-être déjà dépositaire d’une part de cette conscience collective. Vous vous savez membre d’un tout qui vous dépasse, un tout qui unit les êtres vivants à la planète elle-même. Par le passé, seuls les croyants partageaient cette expérience, aujourd’hui universelle.
 

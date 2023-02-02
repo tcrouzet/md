@@ -2,7 +2,7 @@
 
 
 
-### Mardi 1^er^, Nantes
+### Mardi 1<sup>er</sup>, Nantes
 
 Tenir un journal serait si bénéfique pour la santé mentale qu’il faudrait se forcer. Titre d’un article éloquent : [yoga journal](https://www.yogajournal.com/lifestyle/audio-journaling/). J’adore ce penchant anglo-saxon pour les méthodes qui rendraient la vie meilleure. Mais ma pratique du journal n’entre pas dans la bonne catégorie, puisque, le plus souvent, je ne l’écris pas le soir pour y raconter les malheurs de ma journée, mais plutôt le matin quand je m’éveille et que des idées me traversent.<span id="more-64531"></span>
 
@@ -62,7 +62,7 @@ Tout au long de la remontée de la vallée du Rhône en TGV, le Ventoux, puis la
 
 Tombée de la nuit, puis la nuit, mais encore tôt, je marche, et impossible d’être indolent comme quand j’étais jeune. Il me faut non seulement prêter attention aux voitures, mais aussi aux vélos, aux trottinettes. La ville est devenue une ruche où les insectes se frôlent et se hurlent dessus.
 
-Je n’incrimine pas ceux qui délaissent la voiture ou les transports en commun bondés et erratiques, mais tous ceux qui continuent d’utiliser leur voiture, qui ne remettent pas en cause les modalités du XX^e^ siècle. Leur non-renoncement à un système de transport insoutenable en ville me rend la marche désagréable et stressante. Impossible de plonger dans mes pensées, et de me laisser influencer par l’environnement urbain. Je suis sans cesse aux aguets, attentif.
+Je n’incrimine pas ceux qui délaissent la voiture ou les transports en commun bondés et erratiques, mais tous ceux qui continuent d’utiliser leur voiture, qui ne remettent pas en cause les modalités du XX<sup>e</sup> siècle. Leur non-renoncement à un système de transport insoutenable en ville me rend la marche désagréable et stressante. Impossible de plonger dans mes pensées, et de me laisser influencer par l’environnement urbain. Je suis sans cesse aux aguets, attentif.
 
 Alors que je bois un verre avec Hubert, en terrasse parce qu’il fait encore doux, nous entendons un hurlement. La porte d’un taxi garé en parallèle d’une piste cyclable s’est ouverte et un cycliste s’y est encastré. J’ai connu ces désagréments à moto. Les automobilistes sont incapables de se mettre en retrait. Il faut réviser le Code de la route. Faire des automobilistes les usagers les moins prioritaires. Puis pénaliser leurs crimes. Il faut les contraindre pour que leur vie se complique.
 
@@ -174,11 +174,11 @@ J’ai un usage assez extraordinaire de Zlibrary. C’est comme si j’habitais 
 
 ### Mercredi 16, Balaruc
 
-Au XIX^e^, les écrivains écrivaient des histoires, comme tous les auteurs avant eux. Au XX^e^, ils ont commencé à écrire sur les conditions de possibilités de l’écriture et sur l’écriture elle-même, deux sujets peu abordés jusqu’alors. Au XXI^e^, qu’écrivons-nous ? Notre passage de l’homme conquérant à l’homme terrestre ? Notre recherche d’un endroit où vivre ?
+Au XIX<sup>e</sup>, les écrivains écrivaient des histoires, comme tous les auteurs avant eux. Au XX<sup>e</sup>, ils ont commencé à écrire sur les conditions de possibilités de l’écriture et sur l’écriture elle-même, deux sujets peu abordés jusqu’alors. Au XXI<sup>e</sup>, qu’écrivons-nous ? Notre passage de l’homme conquérant à l’homme terrestre ? Notre recherche d’un endroit où vivre ?
 
 S’impose de fait l’autobiographie, l’autofiction, quand la littérature explore des variantes existentielles pour tenter de découvrir celles qui seraient adéquates, soutenables, respectueuses. Je me sens incapable de raconter avec crédibilité de grandes histoires imaginaires et, quand je lis des romans contemporains, ils sonnent faux, sans doute parce que je ne me laisse pas prendre à leur jeu, peu importe. J’ouvre Tolstoï et j’y crois, j’ouvre un romancier contemporain et je sais que je suis dans un simulacre, parfois adroit, parfois distrayant, mais simulacre tout de même, malgré les tonnes d’hémoglobine.
 
-Voilà en quoi Perec, Ernaux, même Modiano, et bien d’autres touchent juste. Ils partent de leur point de réalité. Je ne veux pas vivre une saga, mais éviter les vagues destructrices. La littérature du XXI^e^ siècle sera peut-être celle de l’observation admirative du monde. La littérature des éclats de lumières. Des instants rares. Du miracle permanent de l’existence. Elle sera discrète, douce, tendre. En tout cas, j’ai envie de marcher dans cette direction. Il ne s’agirait plus de démontrer, de dénoncer, mais d’éprouver, de jouir, de détendre les tensions pour marcher librement.
+Voilà en quoi Perec, Ernaux, même Modiano, et bien d’autres touchent juste. Ils partent de leur point de réalité. Je ne veux pas vivre une saga, mais éviter les vagues destructrices. La littérature du XXI<sup>e</sup> siècle sera peut-être celle de l’observation admirative du monde. La littérature des éclats de lumières. Des instants rares. Du miracle permanent de l’existence. Elle sera discrète, douce, tendre. En tout cas, j’ai envie de marcher dans cette direction. Il ne s’agirait plus de démontrer, de dénoncer, mais d’éprouver, de jouir, de détendre les tensions pour marcher librement.
 
 ---
 

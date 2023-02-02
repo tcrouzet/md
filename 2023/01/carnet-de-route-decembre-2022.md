@@ -248,7 +248,7 @@ Hier soir, séance rituelle de cinéma en famille. *Avatar 2*, deux milliards po
 
 ---
 
-L’art extrême du XX^e^ siècle, auquel Mallarmé nous prépare, m’apparaît souvent d’une insupportable vacuité, d’une absurdité poussée à grands cris désarticulés : une folie hystérique, un nihilisme désespérant, une ringardise manifeste, qui me donne envie de rire parce que souvent les artistes se prenaient au sérieux. Je critique d’autant mieux que j’ai été admiratif, touché, inspiré, que j’ai un temps voulu m’inscrire dans cette défaillance narrative.
+L’art extrême du XX<sup>e</sup> siècle, auquel Mallarmé nous prépare, m’apparaît souvent d’une insupportable vacuité, d’une absurdité poussée à grands cris désarticulés : une folie hystérique, un nihilisme désespérant, une ringardise manifeste, qui me donne envie de rire parce que souvent les artistes se prenaient au sérieux. Je critique d’autant mieux que j’ai été admiratif, touché, inspiré, que j’ai un temps voulu m’inscrire dans cette défaillance narrative.
 
 ### Mardi 27, Nancy
 

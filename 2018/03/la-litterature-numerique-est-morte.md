@@ -4,7 +4,7 @@ Je viens de participer au colloque [L’auteur à l’ère numérique](http://au
 
 Ma sortie contre Antoine, très douce d’ailleurs par rapport à ce de dont je suis capable quand je m’énerve, ne faisait qu’en révéler une autre moins claire, plus rentrée, qu’[Arnaud Maïsetti](http://www.arnaudmaisetti.net/spip/) a tenté à plusieurs reprises de formuler plus distinctement.
 
-Maintenant que tout est terminé, que je suis seul chez moi, les choses s’éclairent peu à peu. Est-ce qu’au XIX^e^ siècle il y avait des colloques sur l’auteur à l’ère de la plume d’oie taillée, ou des colloques sur l’auteur à l’ère de la plume Sergent-Major (1856) ou de la machine à écrire (1872) ? Personne n’a eu cette idée saugrenue (d’ailleurs les colloques étaient alors des idées saugrenues).
+Maintenant que tout est terminé, que je suis seul chez moi, les choses s’éclairent peu à peu. Est-ce qu’au XIX<sup>e</sup> siècle il y avait des colloques sur l’auteur à l’ère de la plume d’oie taillée, ou des colloques sur l’auteur à l’ère de la plume Sergent-Major (1856) ou de la machine à écrire (1872) ? Personne n’a eu cette idée saugrenue (d’ailleurs les colloques étaient alors des idées saugrenues).
 
 Parler des auteurs à l’ère numérique, d’auteurs numériques ou de littérature numérique nous enferme, nous étouffe, nous arrache au champ de la littérature. Nous nous en excluons nous-mêmes, et pour cause nous ne nous mélangeons presque jamais à ceux qui ne sont pas de notre paroisse.
 

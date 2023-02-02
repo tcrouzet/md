@@ -2,7 +2,7 @@
 
 Jeudi prochain, je serai à Aix-en-Provence pour la quatrième [université de printemps de la Fing](http://www.openfing.org/upfing06/index.php/Accuei). Je participe notamment à l’atelier sur les [réseaux sociaux](http://www.openfing.org/upfing06/index.php/C4-_R%C3%A9seaux_sociaux). Voici comment l’organisateur, Daniel Kaplan, a positionné mon intervention :
 
-> Thierry Crouzet, vous faites des connexion entre les individus le point de départ d’une forme de théorie politique et économique pour le XXI^e^ siècle, d’une sorte de “révolution silencieuse” enclenchée par la génération numérique, *Le peuple des connecteurs*. Pouvez-vous nous dire pourquoi ? Quels en seraient selon vous les exemples les plus marquants ?
+> Thierry Crouzet, vous faites des connexion entre les individus le point de départ d’une forme de théorie politique et économique pour le XXI<sup>e</sup> siècle, d’une sorte de “révolution silencieuse” enclenchée par la génération numérique, *Le peuple des connecteurs*. Pouvez-vous nous dire pourquoi ? Quels en seraient selon vous les exemples les plus marquants ?
 
 J’aurai huit minutes pour répondre avant le débat. J’aurai donc juste le temps de présenter quelques grandes idées :
 

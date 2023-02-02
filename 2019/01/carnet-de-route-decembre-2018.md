@@ -2,7 +2,7 @@
 
 
 
-### Samedi 1^er^, Weston
+### Samedi 1<sup>er</sup>, Weston
 
 Je relis et relis [mon journal de novembre](https://tcrouzet.com/2018/12/02/carnet-de-route-novembre-2018), et le coupe et le recoupe, je pourrais le réduire jusqu’à ce qu’il n’en reste rien.
 
@@ -142,7 +142,7 @@ De l’article sur Hermann Hesse, j’ai sauté à un autre sur Emerson. Emerson
 
 ---
 
-Emerson évoque un petit chat jouant avec sa queue. Un chat du XIX^e^ siècle ! J’ai du mal à l’imaginer, à le croire aussi vivant que le chat d’aujourd’hui. J’ai la sensation que tout ce qui est passé est différent et que tout ce qui sera demain sera semblable à aujourd’hui. L’univers se résume pour moi au présent. L’homme que j’étais hier n’est pas moi. Peut-être ai-je regardé trop de vieilles photos et trop de vieux tableaux. Ils colorent mon idée du passé.
+Emerson évoque un petit chat jouant avec sa queue. Un chat du XIX<sup>e</sup> siècle ! J’ai du mal à l’imaginer, à le croire aussi vivant que le chat d’aujourd’hui. J’ai la sensation que tout ce qui est passé est différent et que tout ce qui sera demain sera semblable à aujourd’hui. L’univers se résume pour moi au présent. L’homme que j’étais hier n’est pas moi. Peut-être ai-je regardé trop de vieilles photos et trop de vieux tableaux. Ils colorent mon idée du passé.
 
 ---
 

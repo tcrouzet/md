@@ -30,7 +30,7 @@ Le silence de Taormine me fait exécrer le bruit. Dans le restaurant soudain des
 
 Époque communicante, époque qui n’a plus besoin de communiquer par le bruit (les signes apparaissent en silence sur les écrans, le son qui les accompagne n’est qu’un artifice), et la musique s’essouffle, nous aspirons au silence, et cela d’autant plus que nous sommes engagés dans la civilisation hyperactive.
 
-Au début du téléphone, on pouvait encore rêver de musique. À l’âge numérique, c’est dérisoire. Du XVII^e^ au XIX^e^, trois siècles de musique auxquels succède la cacophonie, une musique extrême. On joue avec les limites de la perception, on dépasse les bornes, on cache son incapacité à composer.
+Au début du téléphone, on pouvait encore rêver de musique. À l’âge numérique, c’est dérisoire. Du XVII<sup>e</sup> au XIX<sup>e</sup>, trois siècles de musique auxquels succède la cacophonie, une musique extrême. On joue avec les limites de la perception, on dépasse les bornes, on cache son incapacité à composer.
 
 Le système dodécaphonique (et tous ses avatars) offre plus de liberté que l’harmonie classique, c’est une liberté pour produire plus de correspondances, mais aussi plus de bruit. Je ne rejette pas ces musiques. Il me paraît impossible de nier, de façon objective, qu’elles sont plus bruyantes, car elles usent de plus grands intervalles.
 
@@ -38,7 +38,7 @@ Les œuvres contemporaines les plus profondes jouent du silence (comme John Cage
 
 Ces réflexions pessimistes me traversent parce que je ne suis pas mélomane, parce que la musique fuit ma vie, me devient de moins en moins indispensable, comme la peinture fuyait la vie de Gombrowicz. Il condamnait tous les peintres, je ne condamne que la plupart des musiciens. Même les musiques du passé m’agressent. Je perçois leur beauté qu’en de rares moments, sans jamais la comprendre.
 
-La symphonie n’existe plus. Elle quitta la peinture au XVII^e^, la musique au XIX^e^, la littérature au XX^e^. La symphonie marque l’aboutissement de la continuité, de la tradition renaissance. Le sampling avec ses échantillons lui succède. Le mélomane assemble des notes éparses en une œuvre unique autant qu’éphémère. La continuité n’est plus que virtuelle, projective, sans substance, au moment même où la substance, l’état brut, reprend le devant de la scène comme à l’époque romane, mais une substance sous forme d’échantillons.
+La symphonie n’existe plus. Elle quitta la peinture au XVII<sup>e</sup>, la musique au XIX<sup>e</sup>, la littérature au XX<sup>e</sup>. La symphonie marque l’aboutissement de la continuité, de la tradition renaissance. Le sampling avec ses échantillons lui succède. Le mélomane assemble des notes éparses en une œuvre unique autant qu’éphémère. La continuité n’est plus que virtuelle, projective, sans substance, au moment même où la substance, l’état brut, reprend le devant de la scène comme à l’époque romane, mais une substance sous forme d’échantillons.
 
 ![Daniel Cartier, Cactus et baignoire.](https://tcrouzet.com/images_tc/1996/05/cartier.jpg)
 

@@ -2,7 +2,7 @@
 
 
 
-### Samedi 1^er^, Balaruc
+### Samedi 1<sup>er</sup>, Balaruc
 
 Il est étonnant que certaines personnes se limitent même dans leur plaisir, se contentent d’une normalité fade et passent leur temps à s’enthousiasmer, criant ce qui n’est pas nécessaire puisque ce devrait être évident pour tous. Je me méfie des faux joyeux, un fond de méchanceté les habite. La lecture est alors le seul moyen de grandir et de prendre du recul en vivant d’autres vies, en se mettant à la place des personnages de roman, d’où la nécessité d’en écrire à chaque époque, une nécessité pas tant littéraire que thérapeutique.<span id="more-53542"></span>
 
@@ -38,7 +38,7 @@ Deuxième journée passée à l’hôpital, enfermé, à parler avec Didier et s
 
 ---
 
-Soirée dans un salon, qui se veut inspiré de ceux du XVIII^e^, un invité à l’honneur : [Najib Michaeel](https://fr.wikipedia.org/wiki/Najeeb_Michaeel), l’archevêque de Mossoul, ancien joueur de basse dans un groupe, ancien ingénieur spécialisé dans le pétrole, il devient Dominicain et suis son noviciat en France. Il nous raconte comment, à l’arrivée de l’État islamique à Mossoul en août 2014, il s’enfuit en voiture avec 800 manuscrits. Il nous raconte surtout son retour dans sa ville, comment il serre désormais la main de ses anciens amis d’enfance dont certains entre temps sont devenus des coupeurs de têtes. Une belle théorie chrétienne dont j’apprécie le romantisme, mais goûte peu les arguments philosophiques. Désormais, il marche dans Mossoul, sachant qu’il peut être tué à tout moment, mais en éprouvant une immense sensation de liberté, parce qu’il fait ce qui lui semble juste dans la ville où il a toujours vécu et qu’il aime malgré les atrocités qui y ont été commises. Se sentir libre lorsque le danger est proche est somme toute ce qui motive bien des aventuriers de l’extrême.
+Soirée dans un salon, qui se veut inspiré de ceux du XVIII<sup>e</sup>, un invité à l’honneur : [Najib Michaeel](https://fr.wikipedia.org/wiki/Najeeb_Michaeel), l’archevêque de Mossoul, ancien joueur de basse dans un groupe, ancien ingénieur spécialisé dans le pétrole, il devient Dominicain et suis son noviciat en France. Il nous raconte comment, à l’arrivée de l’État islamique à Mossoul en août 2014, il s’enfuit en voiture avec 800 manuscrits. Il nous raconte surtout son retour dans sa ville, comment il serre désormais la main de ses anciens amis d’enfance dont certains entre temps sont devenus des coupeurs de têtes. Une belle théorie chrétienne dont j’apprécie le romantisme, mais goûte peu les arguments philosophiques. Désormais, il marche dans Mossoul, sachant qu’il peut être tué à tout moment, mais en éprouvant une immense sensation de liberté, parce qu’il fait ce qui lui semble juste dans la ville où il a toujours vécu et qu’il aime malgré les atrocités qui y ont été commises. Se sentir libre lorsque le danger est proche est somme toute ce qui motive bien des aventuriers de l’extrême.
 
 ### Mercredi 5, Genève
 

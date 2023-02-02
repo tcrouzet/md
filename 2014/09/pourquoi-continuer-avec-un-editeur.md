@@ -48,7 +48,7 @@ Ces chiffres m’apprennent d’autres choses.
 
 6. Quand je vois que 1 % de mon audience paye, je pourrais en déduire que ce que j’écris ne compte que pour 1 % de mon audience, ce serait ignorer la forme radicalement nouvelle propre au blog (reste que ne pas payer pose un problème à l’auteur).
 
-7. Quand je me plains devant certains auteurs de n’avoir vendu que 500 *Ératosthène* en un mois, ils ne me comprennent pas. C’est sûr que comparé à des auteurs du XIX^e^, c’est une audience respectable, mais dans notre monde elle a bien peu de poids, notamment financier.
+7. Quand je me plains devant certains auteurs de n’avoir vendu que 500 *Ératosthène* en un mois, ils ne me comprennent pas. C’est sûr que comparé à des auteurs du XIX<sup>e</sup>, c’est une audience respectable, mais dans notre monde elle a bien peu de poids, notamment financier.
 
 8. À mon stade du 1 %, j’ai bien raison de ne plus m’intéresser à mon audience Web. Même si je parvenais à la doubler ou à la tripler, je serai encore loin d’atteindre une masse critique. Le blog est un lieu d’expression, pas de promotion.
 

@@ -12,7 +12,7 @@ Après quatre jours déconnecté, je découvre que [*La strategia del cyborg*](h
 
 ![](https://tcrouzet.com/images_tc/2010/08/hit21.png)
 
-*PS3 : Le 1^er^ septembre, irrésistible !*
+*PS3 : Le 1<sup>er</sup> septembre, irrésistible !*
 
 ![](https://tcrouzet.com/images_tc/2010/08/hit4.png)
 

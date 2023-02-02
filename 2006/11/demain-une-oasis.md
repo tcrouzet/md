@@ -12,7 +12,7 @@ Le monde est définitivement en train de s’aplatir. Notre connexion s’est é
 
 Quelques jours après ma rencontre virtuelle avec Ayerdhal, j’ai commencé à recevoir ses livres. J’ai lu *Chronique d’un rêve enclavé*, puis la *Logique des essaims*. J’ai été frappé par la justesse du ton. C’est rare en SF. Il n’y avait pas un mot en trop. Puis j’ai reçu la nouvelle édition de [*Demain, une oasis*](http://www.amazon.fr/Demain-une-oasis-Ayerdhal/dp/2846261172/sr=8-1/qid=1163958050/ref=sr_1_1/402-5334915-1934535?ie=UTF8&s=books). Alors j’ai compris qu’Ayerdhal était un grand écrivain et aussi un visionnaire.
 
-En 1992, ce livre était de la SF. Aujourd’hui, il est d’une terrible actualité. Demain, il sera un classique. Les enfants de l’avenir l’étudieront à l’école. On le leur présentera en leur disant qu’à la fin du XX^e^ des gens savaient… pour l’hyper-capitalisme, pour les dérèglements climatiques, pour l’égoïsme occidental… pour tout le reste.
+En 1992, ce livre était de la SF. Aujourd’hui, il est d’une terrible actualité. Demain, il sera un classique. Les enfants de l’avenir l’étudieront à l’école. On le leur présentera en leur disant qu’à la fin du XX<sup>e</sup> des gens savaient… pour l’hyper-capitalisme, pour les dérèglements climatiques, pour l’égoïsme occidental… pour tout le reste.
 
 En même temps que je lisais, je pensais souvent à Houellebecq. Ayerdhal et lui font raisonner en moi les mêmes cordes mais Ayerdhal est dans la lumière alors que Houellebecq ne cesse de s’assombrir, et, plus il s’assombrit, plus il s’éloigne vers le passé.
 

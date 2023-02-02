@@ -2,7 +2,7 @@
 
 
 
-### Mercredi 1^er^, Balaruc
+### Mercredi 1<sup>er</sup>, Balaruc
 
 L’année commence dans la clarté avec l’impératif d’explorer cette transparence.
 

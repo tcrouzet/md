@@ -6,7 +6,7 @@ Mon [*Ératosthène*](https://tcrouzet.com/eratosthene/) utilise un procédé du
 
 ![Avec le Lycabette au loin.](https://tcrouzet.com/images_tc/2014/10/stan-lycabette.jpg)
 
-Pour moi, il a toujours été un homme du XXI^e^ siècle. C’est ainsi que je l’ai compris immédiatement. Comme un de mes contemporains malencontreusement perdus dans le passé. Je lui fais considérer son temps et ses propres découvertes avec un bagage de deux mille ans.
+Pour moi, il a toujours été un homme du XXI<sup>e</sup> siècle. C’est ainsi que je l’ai compris immédiatement. Comme un de mes contemporains malencontreusement perdus dans le passé. Je lui fais considérer son temps et ses propres découvertes avec un bagage de deux mille ans.
 
 Plus j’ai lu des textes sur la psychologie hellénistique, notamment ceux de Jean-Pierre Vernant, moins j’ai voulu faire de lui un ancien, mais un moderne. Autour de lui, un Sosibe, ravagé par la superstition et la bigoterie, est bien plus réaliste. Mon Ératosthène est comme une île dans son époque. Une singularité. Une anomalie autour de laquelle tout a une trompeuse apparence de normalité. Ses contours ne peuvent ainsi qu’être flous, mal définis, ambigus.
 
@@ -18,7 +18,7 @@ Le seul indice de mon procédé est a priori sur la couverture. La tablette d’
 
 ![Devant Parthénon.](https://tcrouzet.com/images_tc/2014/10/stan-partenon.jpg)
 
-La volonté de catégorisation, contre laquelle mon roman se bat, conduit à le faire juger selon une perspective qui ne peut être la sienne. À en choisir une, puisque littérature ne veut plus rien dire, je préfère donc qu’il soit étiquetté SF. J’ai procédé à un décalage psychologique et, plutôt que le situer vers le futur, je l’ai projeté au III^e^ siècle av JC. L’ET de mon aventure, c’est Ératosthène.
+La volonté de catégorisation, contre laquelle mon roman se bat, conduit à le faire juger selon une perspective qui ne peut être la sienne. À en choisir une, puisque littérature ne veut plus rien dire, je préfère donc qu’il soit étiquetté SF. J’ai procédé à un décalage psychologique et, plutôt que le situer vers le futur, je l’ai projeté au III<sup>e</sup> siècle av JC. L’ET de mon aventure, c’est Ératosthène.
 
 *PS : Premières lignes écrites depuis le décès de mon papa. Ces justifications n’ont guère de sens. Elles ont avant tout pour moi des vertus thérapeutiques (comme les images envoyées par Stan, la vie continue).*
 

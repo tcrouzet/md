@@ -20,7 +20,7 @@ Bien sûr personne n’est encore totalement connecteur, personne ne s’est lib
 
 8. Tous ces moyens de connexion entraînent une diminution du nombre de degrés de séparation entre les gens (voir la [préface](https://tcrouzet.com/peuple/seconde-edition-35719) du *peuple des connecteurs* ). Je crois que nous rencontrons, par hasard ou non, de plus en plus souvent des gens qui connaissent nos amis. En tous cas, c’est mon cas.
 
-9. Cette densification des réseaux sociaux est illustrée par les manifestations du premier mai dernier, auto-organisées par les latinos aux États-Unis. C’est [Lorenzo](http://lorenzo.soccavo.free.fr/) qui m’a soufflé cette actu publiée par [Pisani](http://pisani.blog.lemonde.fr/pisani/2006/05/un_1^er^_mai_lati.html). Plus besoin de chef, de leader charismatique, de parti…
+9. Cette densification des réseaux sociaux est illustrée par les manifestations du premier mai dernier, auto-organisées par les latinos aux États-Unis. C’est [Lorenzo](http://lorenzo.soccavo.free.fr/) qui m’a soufflé cette actu publiée par [Pisani](http://pisani.blog.lemonde.fr/pisani/2006/05/un_1<sup>er</sup>_mai_lati.html). Plus besoin de chef, de leader charismatique, de parti…
 
 10. Dans les sociétés, la densification des réseaux sociaux se traduit par un court-circuitage des hiérarchies. Plutôt que de demander une info à son chef, on préfère la demander à celui qui d’après nous maîtrise le mieux cette info, même si cette personne travaille dans une autre équipe, voire dans une autre société.
 

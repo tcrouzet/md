@@ -40,7 +40,7 @@ J’avoue que j’ai rarement écrit avec une *base line* en tête, mais plutôt
 
 > \[La quatrième théorie\] De nos jours, une famille se heurte à des organisations gouvernementales, religieuses et capitalistes qui, avec leurs technologies de pointe, cherchent à réduire l’humanité en esclavage.
 
-> \[Ératosthène\] Au III^e^ siècle avant Jésus-Christ, sur les bords de la Méditerranée, en un temps de crise politique, économique et spirituelle, un jeune homme décide de changer le monde.
+> \[Ératosthène\] Au III<sup>e</sup> siècle avant Jésus-Christ, sur les bords de la Méditerranée, en un temps de crise politique, économique et spirituelle, un jeune homme décide de changer le monde.
 
 ### Préambule
 
@@ -106,7 +106,7 @@ L’histoire se déroule avec en arrière-plan un vaste panorama historique.
 
 > \[La quatrième théorie\] La volonté du capitalisme de perdurer quitte à saccager la planète. La déraison des puissants qui nous précipitent dans des crises de plus en plus dures. Leur volonté de réduire nos libertés, notamment numériques. Les hactivistes qui se retrouvent plus recherchés que les terroristes les plus meurtriers.
 
-> \[Ératosthène\] Le III^e^ siècle avant Jésus-Christ alors que le monde des Grecs entre en décadence et que Rome monte en puissance. La bibliothèque d’Alexandrie. L’âge d’or de la science grecque. La Renaissance qui manque survenir avec un millénaire et demi d’avance.
+> \[Ératosthène\] Le III<sup>e</sup> siècle avant Jésus-Christ alors que le monde des Grecs entre en décadence et que Rome monte en puissance. La bibliothèque d’Alexandrie. L’âge d’or de la science grecque. La Renaissance qui manque survenir avec un millénaire et demi d’avance.
 
 ### Golden country
 
@@ -122,7 +122,7 @@ Le roman doit déborder de faits. Le lecteur doit apprendre quelque chose tout e
 
 > \[La quatrième théorie\] Description des forces qui s’organisent grâce au Net, de sa puissance politique et des réactions qui en résultent. Origine dans les textes religieux de l’idéologie prédatrice des capitalistes et de leur refus de l’écologie. Perspectives sur la nouvelle société que façonnent dans l’anonymat les hommes et les femmes libres. Initiation à la théorie de la complexité.
 
-> \[Ératosthène\] Histoire du III^e^ siècle avant Jésus-Christ avec une mise en perspective sur les siècles ultérieurs jusqu’à nous. Initiations aux grandes philosophies de l’antiquité. Origine de la pensée scientifique contemporaine. Invention du livre, de la géographie, de l’histoire… Découverte de personnages historiques extraordinaires, parfois par leur perversité.
+> \[Ératosthène\] Histoire du III<sup>e</sup> siècle avant Jésus-Christ avec une mise en perspective sur les siècles ultérieurs jusqu’à nous. Initiations aux grandes philosophies de l’antiquité. Origine de la pensée scientifique contemporaine. Invention du livre, de la géographie, de l’histoire… Découverte de personnages historiques extraordinaires, parfois par leur perversité.
 
 ### Société secrète
 

@@ -1,6 +1,6 @@
 # Piketty excite les libéraux
 
-Il m’a suffi de quelques tweets où je disais lire Piketty pour attirer vers moi une meute de rentiers affamés. Je ne vais donc pas me gêner pour évoquer ma lecture du [*Le capital du XXI^e^ siècle*](http://piketty.pse.ens.fr/fr/capital21c), lecture peu exaltante, mais passionnément descriptive.<span id="more-35976"></span>
+Il m’a suffi de quelques tweets où je disais lire Piketty pour attirer vers moi une meute de rentiers affamés. Je ne vais donc pas me gêner pour évoquer ma lecture du [*Le capital du XXI<sup>e</sup> siècle*](http://piketty.pse.ens.fr/fr/capital21c), lecture peu exaltante, mais passionnément descriptive.<span id="more-35976"></span>
 
 J’aime Piketty quand il bouscule les économistes qui piétinent l’histoire, qui construisent des modèles idéalistes juste séduits par leur beauté mathématique. Je l’aime surtout pour [ses graphiques](http://piketty.pse.ens.fr/files/capital21c/Piketty2013GraphiquesTableauxLiens.pdf) que [personne n’a réfutés à ce jour](http://www.lesechos.fr/idees-debats/editos-analyses/0203542003376-le-mauvais-proces-fait-a-thomas-piketty-1009450.php).
 

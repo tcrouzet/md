@@ -2,7 +2,7 @@
 
 [Ce billet est un commentaire qui aurait dû suivre le fil linké.](https://tcrouzet.com/2008/06/16/internet-accouche-d%e2%80%99une-nouvelle-societe/) Je me dis que je procéderai comme ça de temps à autres pour désengorger les fils.
 
-> Que la Nef soit une coopérative ce n’est pas le problème. De nombreuses mutuelles et banques sont déjà en coop et ce n’est pas révolutionnaire. Certaines existent depuis le milieu du XIX^e^. C’est la transparence rendue possible par la technologie qui est en perspective qui elle peut changer les choses. Peu importe la raison sociale de la banque. La Nef est d’ailleurs archi-mauvaise en techno. Ce n’est pas un modèle. Elle tente de faire de la transparence avec les outils d’avant internet. C’est l’intention qui est intéressante.
+> Que la Nef soit une coopérative ce n’est pas le problème. De nombreuses mutuelles et banques sont déjà en coop et ce n’est pas révolutionnaire. Certaines existent depuis le milieu du XIX<sup>e</sup>. C’est la transparence rendue possible par la technologie qui est en perspective qui elle peut changer les choses. Peu importe la raison sociale de la banque. La Nef est d’ailleurs archi-mauvaise en techno. Ce n’est pas un modèle. Elle tente de faire de la transparence avec les outils d’avant internet. C’est l’intention qui est intéressante.
 > 
 > 
 > L’argument que tout ce que nous avons aujourd’hui de merveilleux est produit par le système actuel, assené sans cesse et depuis des années par Ax, est pitoyable. Je t’ai déjà répondu cent fois et tu continues de marteler la même chose comme un fanatique (ou plus justement comme l’hyper-privilégié du système que tu es).

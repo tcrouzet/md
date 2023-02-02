@@ -2,7 +2,7 @@
 
 
 
-### Mercredi 1^er^, Balaruc
+### Mercredi 1<sup>er</sup>, Balaruc
 
 Un mail me fait bondir. Au sujet de ma [géolecture](https://tcrouzet.com/2016/11/08/des-livres-a-lire-sur-le-territoire/). Soi-disant, dans mon projet, je n’en dis pas assez sur mon intention, un mail qui laisse entendre que la bourse ne m’est pas encore réellement accordée.
 
@@ -106,7 +106,7 @@ Je crois que je devrais développer moi-même ma géolecture. Si je ne la code p
 
 ### Mardi 14, Balaruc
 
-Je lis *Pêcheur d’Islande* de Pierre Loti. Et toute la poussière du XIX^e^ me tombe dessus, j’étouffe sous la précision des descriptions, un cercueil se referme autour de moi. Je n’éprouve rien de semblable avec Flaubert ou Stendhal, mais avec Zola ou Hugo, oui, ce qui explique pourquoi je ne les ai jamais vraiment lus, un peu comme s’ils étaient morts avec leur temps. Ce sentiment ne m’a jamais quitté depuis mon adolescence, et même depuis mon enfance. Des textes m’attirent si puissamment vers un passé immémorial que j’ai envie de les fuir pour sauver ma peau.
+Je lis *Pêcheur d’Islande* de Pierre Loti. Et toute la poussière du XIX<sup>e</sup> me tombe dessus, j’étouffe sous la précision des descriptions, un cercueil se referme autour de moi. Je n’éprouve rien de semblable avec Flaubert ou Stendhal, mais avec Zola ou Hugo, oui, ce qui explique pourquoi je ne les ai jamais vraiment lus, un peu comme s’ils étaient morts avec leur temps. Ce sentiment ne m’a jamais quitté depuis mon adolescence, et même depuis mon enfance. Des textes m’attirent si puissamment vers un passé immémorial que j’ai envie de les fuir pour sauver ma peau.
 
 ### Mercredi 15, Balaruc
 

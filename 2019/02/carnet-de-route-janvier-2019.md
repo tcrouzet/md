@@ -2,7 +2,7 @@
 
 
 
-### Mardi 1^er^, Weston
+### Mardi 1<sup>er</sup>, Weston
 
 J’oscille entre enthousiasme à l’idée de partir en exploration à vélo et le désir de fuir la Floride. Après cinq mois, je me demande toujours ce que je fiche là, d’autant plus quand les enfants se replient sur eux-mêmes, refusent ce que l’Amérique leur offre. Mais quelle Amérique ? La Floride n’est pas l’Amérique, la plupart des gens n’y parlent même pas anglais au quotidien.
 

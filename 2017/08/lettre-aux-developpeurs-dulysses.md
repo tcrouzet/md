@@ -14,7 +14,7 @@ Puisque je vais payer désormais tous les ans, j’attends que vous lanciez de v
 
 1. Un logiciel destiné aux professionnels de l’écriture ne peut pas se passer d’un mode de suivi des corrections. Vous devez au plus vite lui ajouter [CriticMarkup](http://criticmarkup.com/).
 
-2. Vous devez intégrer à votre syntaxe Markdown la possibilité de saisir des indices et des exposants, que nous puissions écrire CO<sub>2</sub> ou 1^st^ avenue. C’est un minimum. Et puis peut-être, penser à d’autres raffinements typographiques.
+2. Vous devez intégrer à votre syntaxe Markdown la possibilité de saisir des indices et des exposants, que nous puissions écrire CO<sub>2</sub> ou 1<sup>st</sup> avenue. C’est un minimum. Et puis peut-être, penser à d’autres raffinements typographiques.
 
 3. Vous devez grandement améliorer vos filtres d’exportation, ajouter des commandes pour perfectionner les mises en pages. Vos PDF/epub actuels sont parfaits pour la relecture, mais inutilisables pour la diffusion, en autopublication notamment (vous n’avez rien amélioré depuis des lustres de ce côté).
 

@@ -16,7 +16,7 @@ J’ai alors songé qu’on pouvait classer les hommes politiques en deux camps,
 
 4. **Centralisation/Décentralisation.** Le manager, pour tenir son pouvoir, doit le concentrer, l’approcher de lui, il ne peut s’empêcher de centraliser (les dictateurs sont toujours des centralisateurs). Au contraire, le leader décentralise car il veut partager le pouvoir entre tous.
 
-Pour résumer, il existe comme Alain Bénard des politiciens qui ont compris que le monde avait changé et que nous devions le gérer différemment. De l’autre, il y a ceux qui ne croient qu’à la méthode autocratique théorisée par Thomas Hobbes au XVII^e^ siècle et appliquée depuis.
+Pour résumer, il existe comme Alain Bénard des politiciens qui ont compris que le monde avait changé et que nous devions le gérer différemment. De l’autre, il y a ceux qui ne croient qu’à la méthode autocratique théorisée par Thomas Hobbes au XVII<sup>e</sup> siècle et appliquée depuis.
 
 Quand Alain m’a dit qu’il était progressiste, je lui ai répondu que non. Ses adversaires sont des réactionnaires, c’est une certitude, mais lui n’est pas progressiste. Un progressiste veut aller vers le futur à tout prix, il est porteur de rêves en rupture.
 

@@ -18,7 +18,7 @@ Est-ce qu’un des membres de la commission Attali a lu le livre de [Chris Ander
 
 Aujourd’hui la croissance n’est pas à chercher dans la grande distribution qui joue sur la rareté de l’offre mais dans la micro-distribution qui propose une offre infinie. À la quantité, un supermarché vend beaucoup de fois peu de produits, on oppose la qualité, un petit producteur vend quelques produits de qualité en petite quantité (sinon il ne pourrait prétendre à la qualité).
 
-Nous sommes face à deux choix de société. D’un côté, l’hyper-capitalisme du XX^e^ siècle ; de l’autre, la longue traîne du XXI^e^ siècle naissant. D’un côté, le mythe de la croissance infinie ; de l’autre, le pragmatisme, la prise de conscience de la durée et la gestion des ressources disponibles.
+Nous sommes face à deux choix de société. D’un côté, l’hyper-capitalisme du XX<sup>e</sup> siècle ; de l’autre, la longue traîne du XXI<sup>e</sup> siècle naissant. D’un côté, le mythe de la croissance infinie ; de l’autre, le pragmatisme, la prise de conscience de la durée et la gestion des ressources disponibles.
 
 Le développement d’internet favorisera les longues traînes que nos gouvernants le veuillent ou non. En favorisant la grande distribution, ils ont le choix d’aller contre, de ralentir l’avènement d’une nouvelle société. Mais ils devraient au contraire l’accompagner et nous faire gagner du temps, nous évitant au passage quelques déconvenues, y compris la guerre.
 

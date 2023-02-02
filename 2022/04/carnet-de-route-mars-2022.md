@@ -2,7 +2,7 @@
 
 
 
-### Mardi 1^er^, Balaruc
+### Mardi 1<sup>er</sup>, Balaruc
 
 Dans *L’Anomalie*, Hervé Le Tellier s’interroge ? « Trois personnages, sept, vingt ? Combien de récits simultanés un lecteur consentirait-il à suivre ? » Avec *One Minute*, j’ai voulu répondre trois cent quatre-vingts. Je vois quelques similitudes entre les deux romans, mais je n’ai pas eu le Goncourt ni des centaines de milliers de lecteurs. La version papier arrive bientôt, sept ans après la publication en feuilleton en 2015, et je n’attends rien d’elle, je sais par avance qu’il ne se passera rien. Je suis victime d’un fatalisme éditorial. J’ai trop attendu de la publication de mes livres et j’en ai trop vu sortir sans qu’il ne se passe rien. Un non-événement, même dans les cercles les plus discrets et infimes dans les replis d’internet.<span id="more-63877"></span>
 

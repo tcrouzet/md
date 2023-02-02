@@ -6,7 +6,7 @@ Internet est apparu dans leur monde comme un trouble-fête qui change peu à peu
 
 Ils ont raison d’être prudents. Mais nous ne vivons pas dans une société idéale et internet n’a pas la prétention de contribuer à la construction de cette société. J’espère qu’il nous aidera simplement à établir plus de justice, plus de démocratie, plus de transparence, plus de liant social… et que, en donnant l’exemple de nouveaux modes d’organisation, il nous permettra de résoudre les grands problèmes auxquels fait face le monde.
 
-Chaque révolution technologique éveille de la réticence chez ses réfractaires comme chez ses premiers usagers. Au XIX^e^ siècle, le train était sensé nous désincarner car la vitesse risquait de déboulonner notre âme. Aujourd’hui, ça fait rire mais pas plus que certaines des craintes éveillées par internet.
+Chaque révolution technologique éveille de la réticence chez ses réfractaires comme chez ses premiers usagers. Au XIX<sup>e</sup> siècle, le train était sensé nous désincarner car la vitesse risquait de déboulonner notre âme. Aujourd’hui, ça fait rire mais pas plus que certaines des craintes éveillées par internet.
 
 Je rencontre de plus en plus de professeurs, d’éducateurs, de politiciens et de fonctionnaires dont le travail est de favoriser le développement des nouvelles technologies dans notre pays mais qui, eux-mêmes, ne les maîtrisent pas. Ils parlent d’autant plus facilement de la fracture technologique qu’ils sont justement du mauvais côté de cette fracture. Leur méfiance n’est alors guère objective.
 

@@ -2,7 +2,7 @@
 
 
 
-### Dimanche 1^er^, Balaruc
+### Dimanche 1<sup>er</sup>, Balaruc
 
 Je vais sur Facebook, je vois des likes de Yal qui datent de quelques jours avant sa mort. C’est un peu comme s’il était encore là. Notre présence Web floute notre existence.
 

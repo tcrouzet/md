@@ -36,7 +36,7 @@ Non, merci, je suis déjà trop immatériel pour me complaire dans le style blan
 
 Je ne sais pas ce qui se passe. Depuis quelque temps, des gens me trouvent pour expliquer pourquoi je n’ai pas de succès, présupposant la nécessité du succès pour exister en tant qu’être humain et ainsi invoquant une ontologie plus que contestable. Je n’ai pas de succès, donc je devrais me taire, j’ai même l’impression que j’encombre leur paysage.
 
-Trop de « Je », trop mal écrit, trop embrouillé… Trop gros, trop de chairs, trop hors des canons. Mais pourquoi cet acharnement, pourquoi ces critiques méchants ne passent-ils pas leur chemin ? Si je n’ai pas de succès, je m’époumone dans mon coin sans que ça ne dérange personne, sauf eux peut-être. Ils ne comprennent pas pourquoi je ne veux pas être aimé de tous et atteindre un consensus universel. Leur idéal ? Leur objectif ? Le paradis du XXI^e^ siècle ?
+Trop de « Je », trop mal écrit, trop embrouillé… Trop gros, trop de chairs, trop hors des canons. Mais pourquoi cet acharnement, pourquoi ces critiques méchants ne passent-ils pas leur chemin ? Si je n’ai pas de succès, je m’époumone dans mon coin sans que ça ne dérange personne, sauf eux peut-être. Ils ne comprennent pas pourquoi je ne veux pas être aimé de tous et atteindre un consensus universel. Leur idéal ? Leur objectif ? Le paradis du XXI<sup>e</sup> siècle ?
 
 Ils sont sans doute prêts à tout pour y gagner leur place, prêts à se conformer, à se nier en tant qu’être irréductible. Je n’ai jamais apprécié cet effort. Je trace ma route, et peu importe si elle déplaît à beaucoup, je vais là où je vis, pas là où les autres m’attendent, j’ai passé l’âge d’être le clown du village. C’est souvent difficile, même décourageant, mais il n’existe pas d’ailleurs.
 

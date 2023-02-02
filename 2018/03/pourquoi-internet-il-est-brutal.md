@@ -32,7 +32,7 @@ Cette plus grande liberté associée à une perte de pouvoir des forces coerciti
 
 En fait, c’est la théorie. Sur le papier, une possibilité nous est donnée, dont certains se saisissent pour leur plus grand bénéfice, sans que la plupart des gens effectuent un choix semblable. Mon erreur, et celle de beaucoup d’autres, aura êté de croire que la possibilité d’un changement impliquait ce changement.
 
-J’ai manqué de lucidité. Pourtant, à cette époque, je travaillais sur [Ératosthène](https://tcrouzet.com/eratosthene/). Bien qu’établie dès le III^e^ siècle avant notre ère, la possibilité du voyage autour du monde n’a été acceptée que 1800 ans plus tard. Une innovation technique et scientifique n’implique pas une révolution politique et sociale. En 2005, lorsqu’émergeait le Web 2.0, nous n’avons pas collectivement saisi notre chance.
+J’ai manqué de lucidité. Pourtant, à cette époque, je travaillais sur [Ératosthène](https://tcrouzet.com/eratosthene/). Bien qu’établie dès le III<sup>e</sup> siècle avant notre ère, la possibilité du voyage autour du monde n’a été acceptée que 1800 ans plus tard. Une innovation technique et scientifique n’implique pas une révolution politique et sociale. En 2005, lorsqu’émergeait le Web 2.0, nous n’avons pas collectivement saisi notre chance.
 
 Qu’avons-nous fait de notre excès de liberté ? Nous avions la possibilité de nous lier sans cesse davantage, de consommer hors des sentiers battus, d’explorer, de nous abandonner à notre curiosité. C’était vrai, ça reste vrai, mais, face à la diversité vertigineuse qui s’offrait à nous, beaucoup ont choisi la voie de la facilité, allant tous aux mêmes endroits aux mêmes moments.
 

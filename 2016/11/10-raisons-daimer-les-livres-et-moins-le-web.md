@@ -22,6 +22,6 @@
 
 11. Le livre se publie avec lenteur, ce qui laisse le temps à l’auteur de tourner toujours trois fois sa langue avant de dire n’importe quoi (mais ça reste encore souvent trop rapide).
 
-12. Le livre est une technique de médiatisation robuste. Durant la seconde moitié du XX^e^ siècle, on a opposé ceux qui regardaient la télé à ceux qui lisaient. Au début du XXI^e^ siècle, beaucoup de gros lecteurs se sont déplacés sur le Web, un Web où on peut toujours lire des choses formidables, mais de plus en plus ensevelies sous des montagnes d’ordures. Une nouvelle opposition réapparaît entre ceux qui lisent des livres et ceux qui vont sur le Web, entre ceux qui prennent le temps et ceux qui cherchent à perdre leur temps.
+12. Le livre est une technique de médiatisation robuste. Durant la seconde moitié du XX<sup>e</sup> siècle, on a opposé ceux qui regardaient la télé à ceux qui lisaient. Au début du XXI<sup>e</sup> siècle, beaucoup de gros lecteurs se sont déplacés sur le Web, un Web où on peut toujours lire des choses formidables, mais de plus en plus ensevelies sous des montagnes d’ordures. Une nouvelle opposition réapparaît entre ceux qui lisent des livres et ceux qui vont sur le Web, entre ceux qui prennent le temps et ceux qui cherchent à perdre leur temps.
 
 *PS : Ces points valent pour les livres papier et électronique (pour peu que la liseuse ne soit pas connectée au Net et serve de mouchard). Je ne dénonce pas le Net, mais la forme prise en ce moment même par le Web. Je ne fais que m’y chercher une nouvelle place.*

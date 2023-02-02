@@ -1,6 +1,6 @@
 # Interdépendance ou État
 
-Dans ses *Carnets de nuit*, [José](http://carnetsdenuit.typepad.com/carnets_de_nuit/2006/07/1^er^_juillet_jou.html) a parlé de l’[Interdependence day](http://www.interdependenceday.co.uk/) du 1^er^ juillet. Une conversation animée a suivi où s’opposent le modèle centralisateur et libéral, pour résumer.
+Dans ses *Carnets de nuit*, [José](http://carnetsdenuit.typepad.com/carnets_de_nuit/2006/07/1<sup>er</sup>_juillet_jou.html) a parlé de l’[Interdependence day](http://www.interdependenceday.co.uk/) du 1<sup>er</sup> juillet. Une conversation animée a suivi où s’opposent le modèle centralisateur et libéral, pour résumer.
 
 Je crois qu’on peut sortir de ce clivage. Il faut tout d’abord accepter une chose : libéral ne veut pas dire ennemi du social. C’est le libéralisme économique qui peut l’être mais pas le libéralisme qui pense que toutes les initiatives doivent partir des citoyens. Je me sens libéral à ce dernier titre.
 

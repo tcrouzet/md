@@ -2,7 +2,7 @@
 
 
 
-### Jeudi 1^er^, Weston
+### Jeudi 1<sup>er</sup>, Weston
 
 On nous demande sans cesse « Alors c’est comment la Floride ? » Je réponds : « C’est très plat à tous les sens du terme. » Il me faudrait développer. Parler des contrastes entre les populations qui se tiennent à l’écart les unes des autres : Latinos, Black, White… Nous n’appartenons à aucune de ces communautés, et bien sûr pas davantage à celle des invisibles, des nouveaux émigrants fuyant la pauvreté en Amérique Centrale et en Amérique du Sud, tout juste aperçus tant ils se font petits sur leurs grosses tondeuses.<span id="more-50351"></span>
 

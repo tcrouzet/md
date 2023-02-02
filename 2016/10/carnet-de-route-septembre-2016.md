@@ -2,7 +2,7 @@
 
 
 
-### Jeudi 1^er^, Sète
+### Jeudi 1<sup>er</sup>, Sète
 
 Vue de loin, la vie des gens est magnifique. Je les vois marcher de l’autre côté du canal sous le soleil déjà torride, ou en vélo, en moto, sur le quai de la criée où ne passe pratiquement aucun véhicule. Les chalutiers sont en mer, les enfants à l’école, les travailleurs au travail, et il ne reste que les désormais rares touristes pour se photographier devant les façades colorées.
 

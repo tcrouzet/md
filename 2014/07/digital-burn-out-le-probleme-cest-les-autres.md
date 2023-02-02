@@ -2,7 +2,7 @@
 
 Pour [Le portail de langues franco-allemand](http://www.fplusd.org/), Chloé Stevenson m’incite avec ses questions à me retourner sur mon expérience de déconnexion. Déjà trois ans !<span id="more-36446"></span>
 
-— *À quoi ressemblait une journée classique avant le 1^er^ avril 2011 ?*
+— *À quoi ressemblait une journée classique avant le 1<sup>er</sup> avril 2011 ?*
 
 — C’est plutôt les nuits qui étaient bizarres. Dès que je me réveillais pour boire ou aller aux toilettes, je lisais mes mails, les commentaires sur mon blog et sur les réseaux sociaux. Souvent je ne me rendormais pas avant des heures, entraîné à écrire des articles pour argumenter et contre-argumenter. J’étais dans un état de fatigue permanent, sans compter que mes deux fils étaient alors tout petits.
 

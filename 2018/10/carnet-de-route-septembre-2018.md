@@ -2,7 +2,7 @@
 
 
 
-### Samedi 1^er^, Weston
+### Samedi 1<sup>er</sup>, Weston
 
 Première sortie Gravel sur la *levee* (la digue) qui limite les Everglades. Possibilité de rouler durant des heures, tout droit, sans rien de spécial à voir à part quelques volatiles et quelques pêcheurs à la ligne, certains perchés sur des bateaux à fond plat.
 
@@ -36,7 +36,7 @@ Pluie torrentielle avec risque d’inondation. Coincé dans notre banlieue en ce
 
 ---
 
-[Erika Fülöp se demande](https://www.facebook.com/erika.fulop.370/posts/10157645378489692) « Est-on suffisamment conscient que “écrit” est une anagramme de “récit” – et vice versa…? » La réponse est de toute évidence non pour beaucoup de littéraires. Ils écrivent sans raconter, puis s’étonnent ne ne pas être lus. Ils ont cette idée que l’écriture pure peut provoquer des émotions. Je crois que c’est un fantasme bien confortable, auquel j’ai parfois succombé, un fantasme puissant durant la seconde moitié du XX^e^ siècle, transformant en dinosaures mes contemporains qui s’en revendiquent encore.
+[Erika Fülöp se demande](https://www.facebook.com/erika.fulop.370/posts/10157645378489692) « Est-on suffisamment conscient que “écrit” est une anagramme de “récit” – et vice versa…? » La réponse est de toute évidence non pour beaucoup de littéraires. Ils écrivent sans raconter, puis s’étonnent ne ne pas être lus. Ils ont cette idée que l’écriture pure peut provoquer des émotions. Je crois que c’est un fantasme bien confortable, auquel j’ai parfois succombé, un fantasme puissant durant la seconde moitié du XX<sup>e</sup> siècle, transformant en dinosaures mes contemporains qui s’en revendiquent encore.
 
 ---
 

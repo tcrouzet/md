@@ -2,7 +2,7 @@
 
 
 
-### Mardi 1^er^, Balaruc
+### Mardi 1<sup>er</sup>, Balaruc
 
 Je découvre que pour obtenir une bourse d’écriture numérique il faut disposer d’un contrat d’édition chez un éditeur traditionnel. Donc, cette bourse est interdite à tous les véritables auteurs numériques, ceux qui nativement ce sont détournés de l’industrie du livre qu’il soit papier ou numérique. [Daniel Bourrion](http://www.face-ecran.fr/vrac/2012/08/16/500) avait déjà soulevé le problème en 2012.
 

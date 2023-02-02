@@ -2,7 +2,7 @@
 
 
 
-### Vendredi 1^er^, Balaruc
+### Vendredi 1<sup>er</sup>, Balaruc
 
 Mon exigence m’épuise et épuise les autres, au point de les détourner de moi. Je ne suis pas un mec plaisant, mais un mec exigeant. Je ne vais pas prendre la résolution d’être plus plaisant, car moins exigeant, je renoncerais à vivre. Alors mon exigence entraîne une forme de solitude, au fur et à mesure que les amis exigeants renoncent à leurs exigences de jeunesse. Je ne suis peut-être qu’un masochiste. Car à quoi bon être exigeant que pour soi-même ? J’ai toujours l’espoir que mon exigence en rencontre d’autres. J’ai de l’exigence en réserve pour l’humanité entière. Je crois trop en elle pour être un dilettante. Je lui voue un culte qu’elle ne me rend pas. Un peu comme les croyants qui s’épuisent en prières auxquelles leur dieu ne répond pas. Mais l’humanité existe, nuance non négligeable. Il suffit de deux ou trois sourires pour qu’elle se manifeste à moi.<span id="more-57547"></span>
 

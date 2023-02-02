@@ -8,7 +8,7 @@ Ce a-parti s’inspirerait des mouvements de consommateurs initiés par Ralph Na
 
 Comme l’a fait remarquer [Casabaldi](http://francescocasabaldi.typepad.com/) qui participait à la conversation, la ligne droite n’est pas toujours le plus court chemin. Quand on veut changer la société, viser un poste électif n’est pas la seule méthode… j’ai même tendance à croire, au regard d’expériences récentes dont je parlerai un jour, que cette voie directe est si parsemée de chausse-trappes qu’elle ne présente aucun intérêt, sinon celui de nous faire perdre beaucoup de temps en conciliabules.
 
-Pour moi, il est temps de réinventer de grandes idéologies. Contrairement à ce que supposait Fukuyama, l’histoire ne s’est pas arrêtée à la fin du XX^e^ siècle. L’histoire ne s’arrêtera pas tant qu’il y aura des hommes qui respireront. Nous avons besoin de grandes idées pour nous pousser en avant, aujourd’hui plus que jamais. Nous avons besoin de nous enflammer pour des rêves.
+Pour moi, il est temps de réinventer de grandes idéologies. Contrairement à ce que supposait Fukuyama, l’histoire ne s’est pas arrêtée à la fin du XX<sup>e</sup> siècle. L’histoire ne s’arrêtera pas tant qu’il y aura des hommes qui respireront. Nous avons besoin de grandes idées pour nous pousser en avant, aujourd’hui plus que jamais. Nous avons besoin de nous enflammer pour des rêves.
 
 Si j’en avais le courage, je me lancerais dans l’écriture d’un livre idéologique, un anti-Fukuyama. Mais n’est-ce pas ce que j’ai déjà fait avec [*Le Peuple des connecteurs*](https://tcrouzet.com/le-peuple-des-connecteurs/) et ce que je fais sans cesse ici. Je ne prétends pas décrire la réalité mais proposer des pistes pour remodeler notre réalité. C’est une approche idéologique. Elle se résume en trois points.
 
@@ -60,4 +60,4 @@ Notes
 
 9. Je crois que beaucoup de gens qui ont rejoint le Modem pourraient être tentés par un a-parti, beaucoup de gens qui n’ont jamais voulu faire de politique aussi… un a-parti pourrait rassembler des centaines milliers d’hommes et de femmes, ce n’est qu’à cette condition qu’il deviendra un mouvement politique effectif.
 
-10. Le a-parti, ne visant aucun poste électif, n’a aucune raison de s’en tenir à la législation qui régit les partis politiques. Par exemple, il pourra se financer par les dons. Ses membres pourront créer des banques, des assurances, des réseaux de distribution… la politique du XXI^e^ siècle doit être dans l’action et non dans la revendication.
+10. Le a-parti, ne visant aucun poste électif, n’a aucune raison de s’en tenir à la législation qui régit les partis politiques. Par exemple, il pourra se financer par les dons. Ses membres pourront créer des banques, des assurances, des réseaux de distribution… la politique du XXI<sup>e</sup> siècle doit être dans l’action et non dans la revendication.

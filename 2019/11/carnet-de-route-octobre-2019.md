@@ -2,7 +2,7 @@
 
 
 
-### Mardi 1^er^, Balaruc
+### Mardi 1<sup>er</sup>, Balaruc
 
 Seconde séance home-trainer : 6 km en 22 minutes, trois minutes de mieux que la veille et moins de douleurs. Je réapprends la normalité.
 

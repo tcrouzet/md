@@ -2,7 +2,7 @@
 
 
 
-### Dimanche 1^er^, Balaruc
+### Dimanche 1<sup>er</sup>, Balaruc
 
 Les égouts ont débordé, à leur point bas, dans le studio du jardin qu’Isa a transformé en bureau pour s’isoler de la maison. Ce n’est pas la première fois, c’est assez déplaisant comme nettoyage. Alors j’envoie le furet par un regard, deux mètres plus loin il se heurte à un obstacle. J’ouvre un second regard auquel je n’ai pas touché depuis des années. Surprise : de grosses racines entourent le tuyau. Je dévisse la trappe de visite et la découvre obstruée par des radicelles. Quand j’arrache le bouchon, ce n’est pas beau à voir. Je passe la matinée à nettoyer, rincer, désinfecter. La vie, quoi, peut-être la vraie vie, trop souvent ignorée par la littérature, incapable de faire le grand écart entre toutes les dimensions existentielles.<span id="more-53219"></span>
 

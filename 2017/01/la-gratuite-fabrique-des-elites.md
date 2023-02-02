@@ -20,7 +20,7 @@ Je me suis alors demandé si la gratuité d’une ressource n’impliquait pas m
 
 Nous savons que c’est le propre du capitalisme de s’accaparer les ressources, de pressuriser les producteurs, mais est-ce aussi le cas avec les ressources gratuites dont la redistribution directe ne fait pas gagner de l’argent ? Est-ce que faire tendre les coûts vers zéro ne démultiplie pas la puissance du capitalisme ?
 
-En 2014, alors que je me pose cette question, Jeremi Riffkin affirme que nous entrons dans la société du coût marginal zéro et que cette révolution sociale et culturelle positive nous éloignera du capitalisme productiviste du XIX^e^. Exemple : écrire un livre et le diffuser en ligne ne coûte plus que du temps. Idem pour les musiques, les photos, les vidéos, les articles… mais aussi bientôt pour les objets qu’il suffira d’imprimer chez soi avec une imprimante 3D.
+En 2014, alors que je me pose cette question, Jeremi Riffkin affirme que nous entrons dans la société du coût marginal zéro et que cette révolution sociale et culturelle positive nous éloignera du capitalisme productiviste du XIX<sup>e</sup>. Exemple : écrire un livre et le diffuser en ligne ne coûte plus que du temps. Idem pour les musiques, les photos, les vidéos, les articles… mais aussi bientôt pour les objets qu’il suffira d’imprimer chez soi avec une imprimante 3D.
 
 Sur Internet, nous avons pris l’habitude ne pas payer toutes ces créations avec un coût marginal zéro. Sous prétexte que ça ne coûte que du temps et pas ou peu de matière première, on ne met pas la main à la poche.
 

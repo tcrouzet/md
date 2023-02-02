@@ -20,6 +20,6 @@ Mais alors pourquoi personne n’arrive à incarner cette troisième voie ? C�
 
 Cette troisième voie peut-elle être incarnée par un parti, par des candidats, par un présidentiable ? J’en doute. Si tous ces gens qui ne se reconnaissent plus dans la politique traditionnelle ont développé leur individuation, comme je le suppose, ils ne peuvent plus s’identifier à des totems tutélaires, ces doudous pour adulte, espèces d’individus transactionnels de pacotille.
 
-La représentation absolutiste de nos démocraties n’est plus une forme qui convient à l’homme émancipé du XXI^e^ siècle. Nous devons basculer vers une démocratie distribuée, une démocratie P2P, une démocratie de la responsabilité individuelle.
+La représentation absolutiste de nos démocraties n’est plus une forme qui convient à l’homme émancipé du XXI<sup>e</sup> siècle. Nous devons basculer vers une démocratie distribuée, une démocratie P2P, une démocratie de la responsabilité individuelle.
 
 Utopie ? Préférez-vous le chaos qui se prépare quand les insatisfaits franchiront par leur nombre un seuil critique ? Nous changeons, le monde change autour de nous, la politique ne peut pas rester immuable, sinon de la fracture le sang coulera.

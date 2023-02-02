@@ -2,7 +2,7 @@
 
 
 
-### Vendredi 1^er^, Balaruc
+### Vendredi 1<sup>er</sup>, Balaruc
 
 Je reçois le mail d’un copain qui me rappelle que nous dînons ensemble la semaine prochaine. Il précise qu’il supporte bien les rayons, sauf qu’il ne m’avait jamais parlé de son cancer. J’ai trouvé cette annonce très élégante. Faite l’air de rien, sur le ton « One more thing ».
 

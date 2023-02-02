@@ -6,7 +6,7 @@ Quand est-ce que le Net me fait plus de mal que de bien ? J’ai éprouvé de f
 
 Sous l’impulsion d’[Arash Derambarsh](http://www.arashderambarsh.com/), j’ai proposé cette idée d’une enquête sur moi-même, [dans la lignée d’Hunter S. Thompson et du Gonzo jounalism](https://tcrouzet.com/2009/03/01/narrative-nonfiction/), à Olivier Nora, patron de Fayard, qui m’a tout de suite renvoyé vers sa directrice littéraire, Isabelle Seguin. L’idée les a séduits. Le livre, au titre provisoire *J’ai débranché*, sortira en janvier.
 
-Qu’est ce que je vais faire d’ici là ? Du 1^er^ avril au 30 septembre, je me placerai au niveau technologique 1985. Plus de Net et de mail. Je raconterai comment ma vie évolue, comment elle se réorganise, comment j’arrive à revivre à l’ancienne… tout en parlant de ma vie de connecté j’espère avec distance et humour.
+Qu’est ce que je vais faire d’ici là ? Du 1<sup>er</sup> avril au 30 septembre, je me placerai au niveau technologique 1985. Plus de Net et de mail. Je raconterai comment ma vie évolue, comment elle se réorganise, comment j’arrive à revivre à l’ancienne… tout en parlant de ma vie de connecté j’espère avec distance et humour.
 
 J’en vois déjà qui diront que ça va leur faire des vacances et que surtout je ne réapparaisse jamais. Je ne les entendrai pas. Pour me faire parvenir des nouvelles, il faudra me téléphoner, m’écrire, m’envoyer des fax ou venir à ma rencontre chez moi ou dans [les conférences que je ne m’interdis pas de donner](https://tcrouzet.com/tag/conf/), bien au contraire, elles me seront vitales.
 
@@ -24,7 +24,7 @@ Avant de me lancer, j’ai besoin de vous encore une fois.
 
 2. Je ne sais pas si je suis addict au Web, si je vais éprouver un manque, en tous cas je veux que des psychologues m’aident à objectiver l’expérience.
 
-3. Ma vie sociale se déroulant essentiellement *via* le Net, je vais procéder à une espèce d’amputation de mon système de communication. Avant le 1^er^ avril, envoyez-moi par mail vos numéros de téléphones pour que je puisse vous prévenir si je passe par chez-vous. Attention, je vais hanter les terrasses des cafés comme je le faisais avant de disposer d’une connexion en continu.
+3. Ma vie sociale se déroulant essentiellement *via* le Net, je vais procéder à une espèce d’amputation de mon système de communication. Avant le 1<sup>er</sup> avril, envoyez-moi par mail vos numéros de téléphones pour que je puisse vous prévenir si je passe par chez-vous. Attention, je vais hanter les terrasses des cafés comme je le faisais avant de disposer d’une connexion en continu.
 
 4. Je n’utiliserai plus qu’un téléphone mobile d’ancienne génération. Il me faut voir si Orange peut me fournir une puce (celle de mon iPhone n’allant pas dans les vieux machins). Sinon je prendrais un téléphone à carte, sans SMS.
 

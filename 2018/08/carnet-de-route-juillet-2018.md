@@ -86,7 +86,7 @@ Je m’en vais courir dans la forêt au-dessus de la ville, dont la cathédrale 
 
 ---
 
-Autun, ville ancienne, à l’aspect ancien, impression délectable d’être au XIX^e^ ou dans un roman de Simenon. Des panneaux à vendre à toutes les fenêtres. La population serait passée de 25 000 habitants à 15 000 en une décennie. Un drame : au contraire, le charme de cette dépopulation est certain, la ville respire sur un rythme unique en notre temps. Je visite le musée Rolin. Avec ses mille ans d’âge, l’Ève à la belle poitrine me fait de l’œil. Puis nous parlons encore, déjeunons, prenons le bus jusqu’au mont Beuvray où se prolonge le festival. Je ne me sens pas très bien dans cette espèce de pelouse arrachée d’un parc parisien. Retour avant la nuit, dans la ville où à 21 heures il est déjà difficile de se faire servir à manger.
+Autun, ville ancienne, à l’aspect ancien, impression délectable d’être au XIX<sup>e</sup> ou dans un roman de Simenon. Des panneaux à vendre à toutes les fenêtres. La population serait passée de 25 000 habitants à 15 000 en une décennie. Un drame : au contraire, le charme de cette dépopulation est certain, la ville respire sur un rythme unique en notre temps. Je visite le musée Rolin. Avec ses mille ans d’âge, l’Ève à la belle poitrine me fait de l’œil. Puis nous parlons encore, déjeunons, prenons le bus jusqu’au mont Beuvray où se prolonge le festival. Je ne me sens pas très bien dans cette espèce de pelouse arrachée d’un parc parisien. Retour avant la nuit, dans la ville où à 21 heures il est déjà difficile de se faire servir à manger.
 
 ![La tentation d'Ève](https://tcrouzet.com/images_tc/2018/08/P1060132.jpg)
 

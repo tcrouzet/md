@@ -2,7 +2,7 @@
 
 
 
-### Mercredi 1^er^, Balaruc
+### Mercredi 1<sup>er</sup>, Balaruc
 
 Temps gris, froid, humide. Pas le courage de faire mes 20 km à vélo dans ce maudit cercle de 1 km autorisé. Je marche avec Isa. Mal au dos à rester trop assis, de vieilles pathologies se réveillent d’habitude chassées par le sport intensif.<span id="more-54160"></span>
 

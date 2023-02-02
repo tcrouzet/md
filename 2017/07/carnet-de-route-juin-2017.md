@@ -2,7 +2,7 @@
 
 
 
-### Jeudi 1^er^, Paris
+### Jeudi 1<sup>er</sup>, Paris
 
 J’ai commencé la journée par [*Europe 1*](https://tcrouzet.com/resistants/), puis j’ai enchaîné avec les amis… et, peu à peu, ils éveillent des envies, parce que la ville avec son agitation impose d’exister ou de succomber. Y venir, y charger des désirs et s’enfuir.
 

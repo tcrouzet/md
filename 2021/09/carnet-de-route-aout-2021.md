@@ -2,7 +2,7 @@
 
 
 
-### Dimanche 1^er^, Balaruc
+### Dimanche 1<sup>er</sup>, Balaruc
 
 Je m’ennuie en société. Je n’écris que pour tromper cet ennui, que pour rechercher des relations satisfaisantes, souvent avec des personnes mortes depuis longtemps.<span id="more-60318"></span>
 
@@ -38,7 +38,7 @@ J’admire François Bon parce qu’il transmet avec ses ateliers. Il partage so
 
 J’ai l’intuition que le moi reste le sujet de notre époque trouble, sans perspective, secouée par les crises, avec en suspend l’épée de Damoclès du réchauffement climatique. Il est difficile de penser des œuvres radicales, la tentation est grande de divertir, parce que les derniers lecteurs n’attendent qu’à s’arracher à la monotonie universelle.
 
-J’ai été radical avec *One Minute*, peut-être pas suffisamment, mais au moins formellement. J’ai poussé un cran plus loin la désintégration narrative du XX^e^ siècle tout en réinventant une autre forme de narration. J’ai une certitude quant à la forme de ce texte. J’aurais dû saisir un autre moment : nos vies polyphoniques, sans recourir à la métaphore du contact extraterrestre.
+J’ai été radical avec *One Minute*, peut-être pas suffisamment, mais au moins formellement. J’ai poussé un cran plus loin la désintégration narrative du XX<sup>e</sup> siècle tout en réinventant une autre forme de narration. J’ai une certitude quant à la forme de ce texte. J’aurais dû saisir un autre moment : nos vies polyphoniques, sans recourir à la métaphore du contact extraterrestre.
 
 Mais plus la société craque, plus le monde se tend, plus les lecteurs attendent de l’attendu. Ils veulent être confortés ou faussement secoués par du noir à deux balles. La seule difficulté dans les temps troublés est de produire de la lumière. Réveiller l’espoir. Proposer une autre direction. Seules les œuvres de ce genre marqueront notre époque, les autres n’en seront que des photographies déformées, qui apparaîtront toutes identiques à nos successeurs.
 

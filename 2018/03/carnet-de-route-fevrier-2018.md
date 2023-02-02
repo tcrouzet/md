@@ -2,7 +2,7 @@
 
 
 
-### Jeudi 1^er^, Balaruc
+### Jeudi 1<sup>er</sup>, Balaruc
 
 Sur les dos des livres anglo-saxons, les titres ne sont pas imprimés dans le même sens que chez nous. J’avais toujours pensé qu’il s’agissait d’une convention sans importance. Je viens de comprendre que nous étions stupides. Quand un livre est posé à plat sur une table, on peut lire le dos d’un livre anglo-saxon, pas celui d’un livre français, qui apparaît à l’envers. C’est particulièrement sensible quand on empile des dizaines de livres pour attirer l’attention des acheteurs potentiels. Chez nous, on les empêche de lire. Ce petit détail résume l’opposition entre deux cultures.
 

@@ -10,7 +10,7 @@ De formation, je suis ingénieur en électronique, j’ai été informaticien, p
 
 À ce stade, difficile de voir un lien avec l’histoire de l’hygiène des mains. Pour que la connexion soit plus claire, je vais faire un retour en arrière sur deux évènements médicaux qui vous sont de toute évidence familiers.
 
-### Angleterre XVII^e^ siècle
+### Angleterre XVII<sup>e</sup> siècle
 
 Dans les années 1630, Pierre Chamberlen, obstétricien et chirurgien de la reine Henriette, épouse de Charles Ier, invente les [forceps](http://fr.wikipedia.org/wiki/Forceps). Résultat : moins de mortalité pour les mamans comme pour les bébés.
 

@@ -2,7 +2,7 @@
 
 
 
-### Mardi 1^er^, Balaruc
+### Mardi 1<sup>er</sup>, Balaruc
 
 Enlisé dans *Le geste qui sauve 2* jusqu’à l’horreur. Envie de tout planter, de ne plus jamais écrire sur la santé, de revenir à mes amours littéraires, à un récit intime et discret, pour me faire du bien plutôt que d’essayer de faire passer des messages sanitaires qui ne touchent que les gens déjà convaincus.
 
@@ -36,7 +36,7 @@ Je devrais ne plus m’embêter avec les aiguilleurs dérailleurs. Parce que je 
 
 ### Lundi 7, Balaruc
 
-Qu’est-ce que la normalité ? Pour un paysan du début du XX^e^ siècle, c’était une journée sans surprises, le soleil qui se lève et se couche à l’heure prévue, tout qui se déroule comme prévu. L’anormalité survenait lors des tempêtes ou des canicules excessives, une anormalité encore contenue, car somme toute déjà vécue. Et puis le monde est devenu de plus en plus complexe, avec de plus en plus d’interactions, de plus en plus d’évènements, de plus en plus de black swans. Au XXI^e^ siècle, la normalité c’est de ne plus rien prévoir, de ne pas savoir à quoi s’attendre, et nous en venons à regarder l’ancienne normalité avec nostalgie.
+Qu’est-ce que la normalité ? Pour un paysan du début du XX<sup>e</sup> siècle, c’était une journée sans surprises, le soleil qui se lève et se couche à l’heure prévue, tout qui se déroule comme prévu. L’anormalité survenait lors des tempêtes ou des canicules excessives, une anormalité encore contenue, car somme toute déjà vécue. Et puis le monde est devenu de plus en plus complexe, avec de plus en plus d’interactions, de plus en plus d’évènements, de plus en plus de black swans. Au XXI<sup>e</sup> siècle, la normalité c’est de ne plus rien prévoir, de ne pas savoir à quoi s’attendre, et nous en venons à regarder l’ancienne normalité avec nostalgie.
 
 Le covid nous a placés dans une anormalité sanitaire, Trump dans une anormalité politique, les réseaux sociaux dans une anormalité médiatique… Le phénomène ne s’arrêtera pas, au contraire, il s’intensifiera parce que nous ajoutons sans cesse de nouvelles routes pour les interactions sociales et techniques. Nous ne reviendrons pas au temps d’avant. Notre normalité est devenue anormale, contre intuitive. Nous n’y sommes pas préparés psychologiquement, comme si le temps avait accéléré, comme si ce qui prenait des millénaires ne prenait plus que des jours. Il faudrait compresser l’histoire géologique pour retrouver une telle frénésie. En une vie, nous revivons des pans entiers de l’évolution biologique. Nous sommes confrontés à un temps que notre espèce n’a jamais connu. Un temps de stress constant où il faut pourtant réussir à se poser, sinon notre corps et nos cerveaux ne peuvent pas tenir.
 

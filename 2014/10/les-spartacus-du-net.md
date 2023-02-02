@@ -22,7 +22,7 @@ Pour le moment, le Net creuse la fracture sociale sous mes yeux atterrés.
 
 Pour moi, le fétichisme se résume à la vénération d’un fétiche, réel ou symbolique. Je n’en sais pas plus, je n’ai aucune culture dans ce domaine, j’ai tout appris dans *L’Oreille cassée* d’Hergé.
 
-Il me semble que le XX^e^ siècle a consacré la vénération des objets, la voiture notamment. Il fallait acheter, frimer, extérioriser sa fortune.
+Il me semble que le XX<sup>e</sup> siècle a consacré la vénération des objets, la voiture notamment. Il fallait acheter, frimer, extérioriser sa fortune.
 
 Même si des millions de gens se précipitent pour acheter le nouvel iPhone le jour de sa sortie, ce type de fétichisme est sans doute en voie d’extinction, c’est aussi ce que dit Riffkin, études à l’appui. Posséder, ce n’est plus très classe, et même un peu ringard.
 

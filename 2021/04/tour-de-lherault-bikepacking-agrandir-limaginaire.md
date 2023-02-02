@@ -8,7 +8,7 @@ Je suis allé de surprises en révélations, écarquillant les yeux avec émerve
 
 - [Quel vélo pour le tour…](https://tcrouzet.com/2021/04/10/thb-gravel-ou-vtt/)
 
-### Jeudi 1^er^ avril
+### Jeudi 1<sup>er</sup> avril
 
 Vers 18 h 30, Julien (48 ans) est le premier à sonner chez moi. Je découvre un gars élancé, au visage en lame de couteau. Nous ne nous connaissons que par réseaux interposés, mais je sais qu’il mange un dénivelé faramineux chaque semaine et qu’il n’a abandonné la French Divide 2020 qu’à cause d’un problème mécanique. Comme il habite à Cadolive, entre Aix et Marseille, il ne sera pas surpris par les rocailles de l’Hérault, que son VTT semi-rigide équipé de pneus de 2,3 pouces avalera sans soucis.
 

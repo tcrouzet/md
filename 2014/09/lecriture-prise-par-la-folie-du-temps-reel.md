@@ -24,7 +24,7 @@ Si j’ai décidé décrire un roman historique vite, c’est pour prendre le co
 
 Maintenant, prétendre l’écrire en trois jours était une forfanterie. Après une dizaine de jours, voici où j’en suis du projet.
 
-1. J’ai une bonne idée de la vie connue de Nicolas Dortoman et de son époque, le XVI^e^ siècle.
+1. J’ai une bonne idée de la vie connue de Nicolas Dortoman et de son époque, le XVI<sup>e</sup> siècle.
 
 2. J’ai relu du Montaigne, de la Boétie, du madame Lafayette, beaucoup d’articles sur le Net, une partie du [journal des frères Platter](http://gallica.bnf.fr/ark:/12148/bpt6k1020450/f223.image.r=bpt6k1020450.langFR)…
 

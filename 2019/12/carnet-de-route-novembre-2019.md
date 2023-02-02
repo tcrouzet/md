@@ -2,7 +2,7 @@
 
 
 
-### Vendredi 1^er^, Sète
+### Vendredi 1<sup>er</sup>, Sète
 
 ![Sète](https://tcrouzet.com/images_tc/2019/12/IMG_6792.jpeg)
 
@@ -12,7 +12,7 @@
 
 ![Cimetière marin](https://tcrouzet.com/images_tc/2019/12/IMG_6825.jpeg)
 
-### Vendredi 1^er^, Balaruc
+### Vendredi 1<sup>er</sup>, Balaruc
 
 ![Baignade interdite](https://tcrouzet.com/images_tc/2019/12/IMG_6838.jpeg)
 
@@ -270,7 +270,7 @@ En littérature, faire un pas vers les lecteurs ne m’a jamais apporté de sati
 
 ---
 
-Quand je vois des photos des auteurs du XIX^e^ ou du début XX^e^ à mon âge, ils me font penser à des vieillards. Je me dis que dans cent ans les cinquantenaires me trouveront un look de vieux.
+Quand je vois des photos des auteurs du XIX<sup>e</sup> ou du début XX<sup>e</sup> à mon âge, ils me font penser à des vieillards. Je me dis que dans cent ans les cinquantenaires me trouveront un look de vieux.
 
 ### Samedi 30, Montpellier
 

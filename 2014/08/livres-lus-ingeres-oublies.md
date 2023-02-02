@@ -40,7 +40,7 @@ Peu à peu ma mémoire se réveille. Je sais quand j’ai lu pour la première f
 > 
 >  Je quitte demain avec joie cette magnifique région du Grand Teton. De retour à Paris, je dois me reconstruire un environnement de travail. L’écriture quotidienne de notes bénéficie-t-elle à mon style ? J’écris si vite, par réflexe, juste si je corrige quand je mets au propre. De bonnes phrases doivent se perdre dans la multitude.
 
-Retour au XXI^e^ siècle. Assez effrayant de me dire que, si je n’avais pas été bloqué à Jackson, je n’aurais peut-être jamais acheté tous ces livres sur l’art d’écrire. Surréaliste quand j’y repense. Jackson, une ville de moins de 10 000 habitants, dont la librairie disposait à l’époque d’un extraordinaire fond sur l’art d’écrire. Au fait pourquoi cette volonté de maîtriser son art ? [Voici une très belle réponse de Kurt Vonnegut](http://www.brainpickings.org/index.php/2013/01/14/how-to-write-with-style-kurt-vonnegut/) :
+Retour au XXI<sup>e</sup> siècle. Assez effrayant de me dire que, si je n’avais pas été bloqué à Jackson, je n’aurais peut-être jamais acheté tous ces livres sur l’art d’écrire. Surréaliste quand j’y repense. Jackson, une ville de moins de 10 000 habitants, dont la librairie disposait à l’époque d’un extraordinaire fond sur l’art d’écrire. Au fait pourquoi cette volonté de maîtriser son art ? [Voici une très belle réponse de Kurt Vonnegut](http://www.brainpickings.org/index.php/2013/01/14/how-to-write-with-style-kurt-vonnegut/) :
 
 > Do so as a mark of respect for your readers, whatever you’re writing. Faites-le par respect pour vos lecteurs, quoi que vous écriviez.
 

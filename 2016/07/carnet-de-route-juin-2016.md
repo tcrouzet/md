@@ -88,7 +88,7 @@ Pas simple de ne pas partager. Je comprends de mieux en mieux mon père, et la n
 
 ### Mardi 28, Épidaure
 
-J’ai visité ce coin de Grèce il y a vingt ans, bien avant d’écrire [*Ératosthène*](https://tcrouzet.com/eratosthene/). Je connais désormais l’histoire du canal de Coritnthe, creusé au XIX^e^, mais que les anciens franchissaient en traînant les bateaux sur des rails de bois, je connais le mont chauve de l’Acroconrinthe au pied duquel est mort le dernier roi de Spartes, je connais ces collines, ce relief, j’y ai vécu.
+J’ai visité ce coin de Grèce il y a vingt ans, bien avant d’écrire [*Ératosthène*](https://tcrouzet.com/eratosthene/). Je connais désormais l’histoire du canal de Coritnthe, creusé au XIX<sup>e</sup>, mais que les anciens franchissaient en traînant les bateaux sur des rails de bois, je connais le mont chauve de l’Acroconrinthe au pied duquel est mort le dernier roi de Spartes, je connais ces collines, ce relief, j’y ai vécu.
 
 Nous nous sommes arrêtés à Mycènes. J’ai voulu montrer la porte des Lions à Isa. J’ai jadis médité du haut de cet empilement de blocs monumentaux. Nous avons dû faire du chantage pour que les enfants daignent sortir de la voiture et se déplacent jusqu’à la tombe d’Agamemnon.
 

@@ -34,7 +34,7 @@ La verticalisation, la hiérarchisation, la centralisation sont-elles inévitabl
 
 ### La décentralisation
 
-Sommes-nous condamnés à une stagnation politique ? Avons-nous atteint structurellement la fin de l’histoire sociale ? De tout temps, les conservateurs ont pensé ainsi. Pour eux, au XVIII^e^ siècle, la société ne pouvait fonctionner sans esclaves, les hommes devaient dominer les femmes, les enfants devaient travailler… Il était impensable de remettre en cause les structures d’autorités existantes qui apparaissaient comme des fatalités attribuées à la nature humaine.
+Sommes-nous condamnés à une stagnation politique ? Avons-nous atteint structurellement la fin de l’histoire sociale ? De tout temps, les conservateurs ont pensé ainsi. Pour eux, au XVIII<sup>e</sup> siècle, la société ne pouvait fonctionner sans esclaves, les hommes devaient dominer les femmes, les enfants devaient travailler… Il était impensable de remettre en cause les structures d’autorités existantes qui apparaissaient comme des fatalités attribuées à la nature humaine.
 
 Mais qu’en est-il de cette nature humaine ? Avons-nous toujours tendu vers plus de hiérarchie ? Si tel était le cas, nous vivrions partout sous des dictatures implacables. Il n’en va pas ainsi parce que des individus qui résultent d’une évolution hiérarchique peuvent néanmoins développer des comportements non hiérarchiques.
 
@@ -52,7 +52,7 @@ Les hommes ont longtemps constitué une structure d’autorité sur les femmes. 
 
 Les esclavagistes constituaient eux aussi une structure d’autorité. Des hommes l’ont abattue. Ils ont inventé le salariat, une forme de dépendance moins dégradante, qui a créé une nouvelle structure d’autorité, celle des patrons.
 
-À leur tour, les socialistes ont rêvé de supprimer cette nouvelle structure d’autorité (je parle des véritables socialistes du XIX^e^ siècle). Ils ont à ce jour échoué, ce n’est pas pour autant qu’ils échoueront toujours.
+À leur tour, les socialistes ont rêvé de supprimer cette nouvelle structure d’autorité (je parle des véritables socialistes du XIX<sup>e</sup> siècle). Ils ont à ce jour échoué, ce n’est pas pour autant qu’ils échoueront toujours.
 
 Bill Joy a montré que le modèle hiérarchique ne réduisait les coûts de transaction que dans un monde faiblement technologique. Quand les coûts de communication s’effondrent, on peut travailler où l’on veut, donc aussi hors des hiérarchies qui ne présentent plus d’avantages en termes de coût, mais uniquement en termes de pouvoir et deviennent de fait des structures d’autorité inutiles.
 

@@ -2,9 +2,9 @@
 
 Ou le *List manifesto*, parce que le succès de BuzzFeed n’est pas qu’une arnaque de plus, mais au contraire traduit une profonde particularité, voire perversité, de nôtre temps.<span id="more-37134"></span>
 
-1. Ératosthène listait dès le III^e^ siècle av. J-C.
+1. Ératosthène listait dès le III<sup>e</sup> siècle av. J-C.
 
-2. Perec a repris l’idée au XX^e^ siècle.
+2. Perec a repris l’idée au XX<sup>e</sup> siècle.
 
 3. C’est une sorte de mantra agréable au cerveau.
 

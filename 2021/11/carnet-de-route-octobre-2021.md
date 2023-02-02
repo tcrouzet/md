@@ -2,7 +2,7 @@
 
 
 
-### Vendredi 1^er^, Balaruc
+### Vendredi 1<sup>er</sup>, Balaruc
 
 Je travaille, me déroute de ma tâche en cours, bientôt avec la sensation de transporter quelque chose de lourd, et je repense que j’ai interrompu un copier-coller. La mémoire de mon ordinateur devient un peu la mienne.<span id="more-60959"></span>
 

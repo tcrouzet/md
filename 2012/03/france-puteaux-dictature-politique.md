@@ -4,13 +4,13 @@ Depuis dix ans [Christophe Grébert](http://www.monputeaux.com) se bat à Puteau
 
 Désespéré, Christophe vient d’envoyer le message suivant à ses amis :
 
-> À force de harcèlement judiciaire, MonPuteaux, 1^er^ blog citoyen, pourrait s’arrêter 🙁
+> À force de harcèlement judiciaire, MonPuteaux, 1<sup>er</sup> blog citoyen, pourrait s’arrêter 🙁
 
 > J’ai fait mes calculs : 4 procès en cours, 2 plaintes en instruction. Je dois 7 000 euros à mon avocat, j’ai été condamné à 6 000 euros dans le procès Musicarte (je fais appel), je dois 8 500 euros pour ma campagne cantonale 2011 (je vais me défendre au conseil d’État). Il y aussi le procès dans l’affaire du Canard enchaîné, ainsi que celui que m’intente la directrice de cabinet du maire UMP Joëlle Ceccaldi-Raynaud dans l’affaire des logements sociaux de Puteaux (article ci-contre publié ce matin dans Le Parisien des Hauts-de-Seine).
 
 > Au total, j’ai plus de 20 000 euros dehors, sans compter les futurs frais d’avocat. Je ne peux plus suivre. Je dois donc sérieusement envisager la fermeture de MonPuteaux.
 
-> Le 10e anniversaire de mon blog, le 1^er^ mai prochain, pourrait aussi marquer son enterrement.
+> Le 10e anniversaire de mon blog, le 1<sup>er</sup> mai prochain, pourrait aussi marquer son enterrement.
 
 > En démocratie, la liberté d’expression est en principe assurée, il n’y a pas de délit d’opinion, ni de censure. Mais il y a pire que cela : l’autocensure à laquelle les citoyens qui osent remettre en cause le système sont soumis. Cela prend la forme de menaces de plainte, de procès et de versement de dommages et intérêts.
 

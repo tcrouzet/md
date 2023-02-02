@@ -2,7 +2,7 @@
 
 
 
-### Lundi 1^er^, Balaruc
+### Lundi 1<sup>er</sup>, Balaruc
 
 À peine plus d’une semaine que nous sommes rentrés de vacances et le temps déboule, victime de sa ritualisation, aussi des tâches imposées par la gestion du quotidien. Il n’existe pas de vie pleine hors du mouvement. Je ne peux être pleinement heureux que dans le nomadisme, ou du moins quand je suis loin de chez moi avec pour seul impératif de sentir le monde.
 
@@ -26,7 +26,7 @@ J’ai toujours imaginé mes lecteurs comme mes clones, avec le même background
 
 ### Jeudi 11, Balaruc
 
-J’ai tant aimé écrire [*One Minute*](https://tcrouzet.com/une-minute/), que j’ai envie de reprendre le procédé narratif. Durant mon footing du soir, une idée me vient : *Cinq minutes de gloire*. Une compagnie genre Google lance un défit à la planète : « À 12:00 GMT le 1^er^ janvier, nous offrirons dix millions de dollars à celui qui fera le plus parler de lui sur le Net en cinq minutes. »
+J’ai tant aimé écrire [*One Minute*](https://tcrouzet.com/une-minute/), que j’ai envie de reprendre le procédé narratif. Durant mon footing du soir, une idée me vient : *Cinq minutes de gloire*. Une compagnie genre Google lance un défit à la planète : « À 12:00 GMT le 1<sup>er</sup> janvier, nous offrirons dix millions de dollars à celui qui fera le plus parler de lui sur le Net en cinq minutes. »
 
 ### Vendredi 12, Montagnac
 
@@ -38,7 +38,7 @@ Je lis *Monsieur Teste* de Paul Valéry. Il réussit à ne parler que de l’hom
 
 ### Lundi 15, Montagnac
 
-Si enfant on m’avait dit que les guerres de religion feraient leur retour au début du XXI^e^ siècle, j’aurais bien ri. Je pensais que la science et la rationalité avaient balayé les croyances les plus absurdes. S’il n’en est rien, c’est à cause d’un échec de la science. Si elle a prolongé notre durée moyenne de vie de quelques années, elle n’a pas réellement changé la dimension temporelle de nos existences. Je viens de perdre un nouvel ami à cause d’un cancer. La science médicale, quels que soient ses progrès, n’a pas encore réussi à nous faire franchir un palier suffisamment significatif pour avoir des conséquences philosophiques.
+Si enfant on m’avait dit que les guerres de religion feraient leur retour au début du XXI<sup>e</sup> siècle, j’aurais bien ri. Je pensais que la science et la rationalité avaient balayé les croyances les plus absurdes. S’il n’en est rien, c’est à cause d’un échec de la science. Si elle a prolongé notre durée moyenne de vie de quelques années, elle n’a pas réellement changé la dimension temporelle de nos existences. Je viens de perdre un nouvel ami à cause d’un cancer. La science médicale, quels que soient ses progrès, n’a pas encore réussi à nous faire franchir un palier suffisamment significatif pour avoir des conséquences philosophiques.
 
 D’un autre côté, les sciences physiques, nous ont aidé à produire une multitude de technologies, la plupart aliénantes, et qui encore une fois ne nous approchent en rien de mes rêves d’enfance : pas de voiture avion pour voyager en toute liberté à moindre coût, surtout pas de conquête spatiale. Nous restons cloués au sol.
 
@@ -76,7 +76,7 @@ Je pourrais me définir socialiste, si le socialisme était autre que ce que les
 
 ---
 
-Petite balade jusqu’au château de Biron où quelques artistes du XX^e^ siècle sont exposés (Sam Francis, Bram Van Velde, Jean-Luc Parant, Henri Michaux…). Je reste assis longuement face au nord, moutonné par la forêt à perte de vue, avec dans le lointain Monpazier. La beauté est parfois si puissante que je me réfugie dans l’écriture pour la contenir et reprendre mon souffle.
+Petite balade jusqu’au château de Biron où quelques artistes du XX<sup>e</sup> siècle sont exposés (Sam Francis, Bram Van Velde, Jean-Luc Parant, Henri Michaux…). Je reste assis longuement face au nord, moutonné par la forêt à perte de vue, avec dans le lointain Monpazier. La beauté est parfois si puissante que je me réfugie dans l’écriture pour la contenir et reprendre mon souffle.
 
 Elle déferle sur moi en vagues enivrantes, à me rendre fou. L’effet est étrange sur mon cerveau. Il me stupéfie, et quand j’entre dans les salles d’expositions, d’autres images, plus contenues, plus minutieuses ou au contraire plus désordonnées, m’envoient à nouveau cette pulsion étrange dans les synapses.
 

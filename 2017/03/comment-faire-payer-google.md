@@ -6,7 +6,7 @@ Le principe du capitalisme selon Braudel : financer les entreprises qui obtienn
 
 Mécaniquement, le capitalisme fabrique des ultrariches à la conscience éthique plus que limitée (puisqu’ils profitent de la faiblesse des populations ou de leur ignorance pour exploiter leurs ressources). Historiquement, les États ont dû réguler le capitalisme pour que les richesses produites bénéficient à l’ensemble de la société (vision sociale du monde, que je partage).
 
-Au XXI^e^ siècle, rien n’a changé. Tous les internautes minent l’or numérique et ils le donnent aux plateformes, par principes peu nombreuses, qui concentrent tous les bénéfices, sans rien reverser aux producteurs. Nous avons donc besoin d’une intervention de l’État, quelle que soit la définition que nous donnons de cette entité régulatrice.
+Au XXI<sup>e</sup> siècle, rien n’a changé. Tous les internautes minent l’or numérique et ils le donnent aux plateformes, par principes peu nombreuses, qui concentrent tous les bénéfices, sans rien reverser aux producteurs. Nous avons donc besoin d’une intervention de l’État, quelle que soit la définition que nous donnons de cette entité régulatrice.
 
 Pour les plateformes, le deal est simple : on prend vos données et on vous les échange contre des services. Initialement, nous avons tous accepté ce contrat. Il nous paraissait équitable. Et puis il est vite apparu que des services ne remplissaient pas le frigidaire ni ne permettaient pas de payer les impôts (comme toujours, on nous a fait croire le contraire, on nous a fait croire que la prospérité serait partagée).
 

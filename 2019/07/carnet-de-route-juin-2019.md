@@ -2,7 +2,7 @@
 
 
 
-### Samedi 1^er^, Weston
+### Samedi 1<sup>er</sup>, Weston
 
 Nous allons au [Yellow Green Farmers Market](http://www.ygfarmersmarket.com/) à Hollywood Beach, finalement. La première fois, j’avais refusé d’y entrer parce que le parking était payant. J’aurais dû, une sorte de Camden Town avec une suractivité que nous ne retrouverons nulle part en France, surtout pas dans les marchés fermiers organisés durant l’été, et qui sonnent de plus en plus faux.<span id="more-51830"></span>
 

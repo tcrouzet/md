@@ -52,7 +52,7 @@ C’est une grande libération. Écrire en ne pensant qu’au texte, et parfois 
 
 ---
 
-Le froid me pousse dans un nouveau musée. Des paysages du XVIII^e^ me procurent d’aussi fortes sensations que si je les voyais par moi-même, comme si le peintre avait emprisonné le moment pour me le rendre. Et m’éloigner de la toile me déchire autant que m’éloigner des vignes de Grinzing.
+Le froid me pousse dans un nouveau musée. Des paysages du XVIII<sup>e</sup> me procurent d’aussi fortes sensations que si je les voyais par moi-même, comme si le peintre avait emprisonné le moment pour me le rendre. Et m’éloigner de la toile me déchire autant que m’éloigner des vignes de Grinzing.
 
 ![Christian Gottlob Hammer](https://tcrouzet.com/images_tc/2015/03/wien8.jpg)
 

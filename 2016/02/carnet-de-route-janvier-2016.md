@@ -2,7 +2,7 @@
 
 
 
-### Vendredi 1^er^, Monts-sur-Guesnes
+### Vendredi 1<sup>er</sup>, Monts-sur-Guesnes
 
 Je diffuse avec bien d’autres le *Journal d’Anne Frank* alors que certains rapaces voudraient le garder pour eux, dans une démarche prédatrice opposée à l’économie de paix. Rien pour me réjouir au regard des jours qui arrivent. Je ne trouve plus de plaisir que dans quelques fictions et, plus encore, dans les avancées incessantes de la science, avec l’espoir qu’elles ne soient pas trop vite mises au service de notre servitude.
 

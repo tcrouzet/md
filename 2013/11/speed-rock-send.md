@@ -10,4 +10,4 @@ Le travail patient dans le temps long, le souci attaché à chaque mot, à chaqu
 
 On croit toujours que Kerouac a écrit *Sur la route* en trois semaines insomnieuses. La préface à l’édition du tapuscrit original est explicite : depuis plusieurs années Kerouac prenait des notes, écrivait des parties de son histoire, recommençait, se critiquait… Cette longue préparation s’est soudain cristallisée quand le « je » s’est imposé comme forme narrative. Les mots ont alors brisé un barrage intérieur et dévalé sans s’interrompre.
 
-Je bosse sur mon *Ératosthène* depuis 13 ans sans que cela ne m’empêche de pratiquer le *Send*. Je ne vois pas d’opposition, pas plus que d’opposition entre Net et papier. Le *Send* est une forme, peut-être celle qui correspond le plus étroitement à nos vies en ce début XXI^e^ siècle.
+Je bosse sur mon *Ératosthène* depuis 13 ans sans que cela ne m’empêche de pratiquer le *Send*. Je ne vois pas d’opposition, pas plus que d’opposition entre Net et papier. Le *Send* est une forme, peut-être celle qui correspond le plus étroitement à nos vies en ce début XXI<sup>e</sup> siècle.

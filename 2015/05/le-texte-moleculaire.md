@@ -4,7 +4,7 @@ Plus j’avance dans la rédaction de [*1 minute*](http://www.wattpad.com/story/
 
 Pensez à la technique de stockage de la musique numérique : on découpe la source analogique en échantillons qu’on traduit en nombres. Cela revient à faire une ponction de la totalité et de laisser l’appareil de lecture, et notre cerveau, reconstituer la totalité dans sa continuité.
 
-Les peintres utilisent ce mécanisme depuis la fin du XIX^e^ (Hokusaï, Monet, Cézanne…). En littérature, cela revient à proposer des fragments qui, ensemble, recréent un tout. C’est le cas pour les billets d’un blog. Ça marche en poésie. Ça peut même marcher pour un essai, par exemple avec le *Hacker Manifesto* de McKenzie Wark. Mais comment faire avec le romanesque puisque les fragments n’ont pas d’ordre ?
+Les peintres utilisent ce mécanisme depuis la fin du XIX<sup>e</sup> (Hokusaï, Monet, Cézanne…). En littérature, cela revient à proposer des fragments qui, ensemble, recréent un tout. C’est le cas pour les billets d’un blog. Ça marche en poésie. Ça peut même marcher pour un essai, par exemple avec le *Hacker Manifesto* de McKenzie Wark. Mais comment faire avec le romanesque puisque les fragments n’ont pas d’ordre ?
 
 Avec [*1 minute*](http://www.wattpad.com/story/29694130-1-minute), j’ai trouvé une réponse sans y penser. Comme je redécris sans cesse le même instant, l’idée d’ordre s’efface. En toute logique, il existe une infinité de façons de lire le texte. Pour le moment, je me contente de le proposer dans l’ordre d’écriture.
 

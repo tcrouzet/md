@@ -2,7 +2,7 @@
 
 
 
-### Lundi 1^er^, Balaruc
+### Lundi 1<sup>er</sup>, Balaruc
 
 ![](https://tcrouzet.com/images_tc/2017/04/20170301a.jpg)
 

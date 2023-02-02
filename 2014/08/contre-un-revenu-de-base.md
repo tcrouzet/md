@@ -6,7 +6,7 @@ Quand on a de belles idées et qu’elles restent entre les lignes, c’est sans
 
 Les exemples ne manquent pas. Le communisme. Tout un édifice théorique qui conduit à la barbarie. Certains disent que le vrai communisme n’a jamais été appliqué. Et donc prétendent qu’il faudrait encore une fois recommencer, pour le meilleur et pour le pire.
 
-Idem avec les utopies socialistes du XIX^e^ siècle. On ne peut pas dire que les phalanstères aient fait école, ni que les sociétaires s’y soient épanouis. Pas mieux du côté des utopies libertaires chères à Hakim Bay. Pas mieux en direction des ultralibéraux qui, sous prétexte de réduire les inégalités, ne font que les accroître (certains, là aussi, jurent que le véritable libéralisme n’a jamais été appliqué).
+Idem avec les utopies socialistes du XIX<sup>e</sup> siècle. On ne peut pas dire que les phalanstères aient fait école, ni que les sociétaires s’y soient épanouis. Pas mieux du côté des utopies libertaires chères à Hakim Bay. Pas mieux en direction des ultralibéraux qui, sous prétexte de réduire les inégalités, ne font que les accroître (certains, là aussi, jurent que le véritable libéralisme n’a jamais été appliqué).
 
 Qu’est-ce qui cloche avec ces belles idées ? Un ensemble de personnes les instaure *a priori* en principes inaltérables et quasi divins. Un dogme qui par nature ne peut être appliqué puisqu’il est pensé dans une sphère déconnectée du réel : un idéal.
 

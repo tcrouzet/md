@@ -38,7 +38,7 @@ Et 3.0 alors ? Moi, j’appelle ça la dictature de quelques mégasites, la cen
 
 **Web sémantique** : ouvrir les bases de données et nommer les champs de manière à ce que nous puissions faire des jointures. J’en reste à la définition de Tim Berners-Lee. Les autres, je ne les comprends pas. Je n’ai jamais rien vu d’autre fonctionner.
 
-**Le Web^2^**, c’est une arnaque marketing promue par des gourous qui veulent se faire mousser. On est dans le business spéculatif avec rien de concret derrière. Mais des mecs vont réussir à vendre leur expertise sur le sujet, je n’en doute pas. Il y en a qui réussissent à vendre leur grosse quéquette sur Twitter.
+**Le Web<sup>2</sup>**, c’est une arnaque marketing promue par des gourous qui veulent se faire mousser. On est dans le business spéculatif avec rien de concret derrière. Mais des mecs vont réussir à vendre leur expertise sur le sujet, je n’en doute pas. Il y en a qui réussissent à vendre leur grosse quéquette sur Twitter.
 
 — *Comment pourrions-nous décrire l’évolution du web pour qu’elle soit comprise de tous ?*
 

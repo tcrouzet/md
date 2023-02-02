@@ -2,7 +2,7 @@
 
 
 
-### Mercredi 1^er^, Balaruc
+### Mercredi 1<sup>er</sup>, Balaruc
 
 Je passe plusieurs heures à sélectionner les photos pour illustrer mon carnet du mois dernier, et je prends conscience que cet exercice mensuel, doublé de celui de photographier, affûte peu à peu mon regard, me donnant envie de photographier davantage. L’art c’est comme le vélo, plus on en fait, plus on a envie d’en faire.
 

@@ -32,7 +32,7 @@ Nous nous plaignons de la folie du monde, un monde fou parce que tout change, ab
 
 Écrire sur un clavier… Consulter en même temps des messages éparpillés sur une foule de services… Publier en direct des photos… Tout ça agit en nous d’une manière ou d’une autre. Nous devons dépasser notre désir d’être vu, d’être reconnu, nous devons simplement jouir de tout cela, parce que c’est neuf et procure des sensations jamais éprouvées avant nous.
 
-Des merveilles en jailliront. Comme les romanciers du XVIII^e^ ou du XIX^e^, âge d’or du romanesque, nous parlons un art que nos futurs lecteurs admireront, un art pur, non réflexif, non obsédé par sa filiation. Nous nous saisissons chacun de notre voix, nous la laissons chanter avec nos cordes technologiques, sans nous soucier de la façon adéquate de les pincer.
+Des merveilles en jailliront. Comme les romanciers du XVIII<sup>e</sup> ou du XIX<sup>e</sup>, âge d’or du romanesque, nous parlons un art que nos futurs lecteurs admireront, un art pur, non réflexif, non obsédé par sa filiation. Nous nous saisissons chacun de notre voix, nous la laissons chanter avec nos cordes technologiques, sans nous soucier de la façon adéquate de les pincer.
 
 Je n’ai personne à regarder, à vouloir imiter ou dépasser. J’ai juste quelques amis qui, ailleurs, jouent leur musique sur des registres aussi spontanés que les miens. Quand nous en oublions les écoles anciennes et nous acceptons dans notre temps, nous appartenons à son esthétique encore indéfinie. Demain, il sera trop tard pour l’art d’aujourd’hui.
 

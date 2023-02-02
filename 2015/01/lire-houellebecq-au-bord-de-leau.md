@@ -34,6 +34,6 @@ Pourtant l’auteur le plus puissant parle de lui comme Michel le laisse entendr
 
 Mon drame est plus ordinaire. J’ai besoin des autres. Si quelqu’un me rejoignait au bout de la digue, je lui parlerais plutôt qu’écrire. J’en suis même pas sûr. C’est là que ça coince. Parler oui, mais pour aller directement dans les greniers de l’âme. La fatigue des préambules me pousse à l’écriture. Je reprends là où j’en étais la veille, quitte à tourner en rond.
 
-Houellebecq, c’est un auteur du XX^e^. Il ne sort pas du cynisme. C’est un conservateur. Il gratte les vieux thèmes : sexe, racisme et Rock ‘n’ roll. Tous les rêves de conscience collective, de transversalité, de coopération l’indiffèrent. C’est une sorte de rétroviseur. Quels auteurs tournés vers l’avenir attirent l’attention ? On se souviendra peut-être d’eux plus tard, parce qu’ils auront parlé à leurs successeurs. En attendant, ils doivent se contenter de jouir de leur improbable lucidité.
+Houellebecq, c’est un auteur du XX<sup>e</sup>. Il ne sort pas du cynisme. C’est un conservateur. Il gratte les vieux thèmes : sexe, racisme et Rock ‘n’ roll. Tous les rêves de conscience collective, de transversalité, de coopération l’indiffèrent. C’est une sorte de rétroviseur. Quels auteurs tournés vers l’avenir attirent l’attention ? On se souviendra peut-être d’eux plus tard, parce qu’ils auront parlé à leurs successeurs. En attendant, ils doivent se contenter de jouir de leur improbable lucidité.
 
 ![Un bel endroit pour écrire en hiver.](https://tcrouzet.com/images_tc/2015/01/phare.jpg)

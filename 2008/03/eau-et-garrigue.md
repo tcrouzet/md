@@ -34,7 +34,7 @@ Notes
 
 1. Ce billet fait suite à [Pour un Balaruc durable](https://tcrouzet.com/2007/10/18/de-la-theorie-a-la-pratique/).
 
-2. Quand je vois des palmiers au bord de nos rues et de nos plages, je fulmine. Il y a des palmiers partout. Aujourd’hui, nous pouvons prendre l’avion pour découvrir de vrais palmiers dans leur milieu naturel. Au XIX^e^ siècle, le palmier avait pour vertu de faire exotique sur la Côte d’Azur en une époque où elle représentait le bout du monde pour les Européens du nord.
+2. Quand je vois des palmiers au bord de nos rues et de nos plages, je fulmine. Il y a des palmiers partout. Aujourd’hui, nous pouvons prendre l’avion pour découvrir de vrais palmiers dans leur milieu naturel. Au XIX<sup>e</sup> siècle, le palmier avait pour vertu de faire exotique sur la Côte d’Azur en une époque où elle représentait le bout du monde pour les Européens du nord.
 
 3. Je ne dis pas qu’il faut abattre les palmiers déjà plantés mais il faut éviter de mimer ce qui se fait ailleurs pour construire chez nous ce qui nous est propre.
 

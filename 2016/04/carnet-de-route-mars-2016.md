@@ -2,7 +2,7 @@
 
 
 
-### Mardi 1^er^, Gap
+### Mardi 1<sup>er</sup>, Gap
 
 Émile s’est fracturé le tibia lors du hors-piste. Une racine a retenu son ski gauche. Je viens de le retrouver aux urgences où il a été transporté en hélico. Nous attendons une échographie dans une promiscuité effrayante. Une femme hurle des insultes. Les malades vont et viennent sur les brancards.
 

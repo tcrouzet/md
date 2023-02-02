@@ -2,7 +2,7 @@
 
 
 
-### Vendredi 1^er^, Balaruc
+### Vendredi 1<sup>er</sup>, Balaruc
 
 Juin a passé si vite, sa chaleur, sa lumière, c’est toujours une souffrance pour moi de voir l’été filer. Alors je relis mon journal avant de le publier, et j’éprouve du plaisir, voilà pourquoi je l’écris, parce que je m’y retrouve dans mes hauts et bas, et que grâce à lui le temps prend une consistance que peut-être il n’aurait pas.<span id="more-64206"></span>
 

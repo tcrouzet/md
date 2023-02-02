@@ -4,7 +4,7 @@ Il est tentant de voir l’homme comme un cancer qui se répand sur la terre. Le
 
 1. Il existe des cultures non belliqueuses (Aborigène, Inuit…). La guerre n’est donc pas codée génétiquement mais émerge dans certaines situations (la sédentarité par exemple).
 
-2. Le pourcentage de morts à la guerre tend à diminuer (3% pour le XX^e^ siècle, ce qui est peu comparé aux siècles antérieurs – mais j’avoue que n’aime pas parler de progrès humain en pourcentage).
+2. Le pourcentage de morts à la guerre tend à diminuer (3% pour le XX<sup>e</sup> siècle, ce qui est peu comparé aux siècles antérieurs – mais j’avoue que n’aime pas parler de progrès humain en pourcentage).
 
 3. Même la violence interpersonnelle à l’intérieur d’une culture diminuerait. Nous avons dix fois moins de chance de mourir d’un homicide qu’au moyen-âge.
 

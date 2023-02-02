@@ -2,7 +2,7 @@
 
 
 
-### Lundi 1^er^, Balaruc
+### Lundi 1<sup>er</sup>, Balaruc
 
 Quand j’écrivais [*Ératosthène*](https://tcrouzet.com/eratosthene/) et forgeais ma conception du généralisme, j’avais en mémoire un roman de Van Vogt lu dans ma jeunesse, où il était question de la même idée, sans réussir à en retrouver le titre. Après avoir lu [le chapitre 8 de mon autobiographie littéraire](https://tcrouzet.com/2021/01/31/histoire-dun-nerdeux-en-litterature-8/), Michel Torres me demande si le lien avec [le nexialisme](https://fr.wikipedia.org/wiki/La_Faune_de_l%27espace#Le_Nexialisme) est voulu, la science inventée par Van Vogt dans *La faune de l’espace*. J’aime ces imprévus provoqués par les mots.<span id="more-58030"></span>
 
@@ -138,7 +138,7 @@ Gracq célèbre Tolkien qui écrit *Le seigneur des Anneaux* déjà âgé et du 
 
 ---
 
-Il y a au XIX^e^ et même au XX^e^ toute une littérature qui sent le moisi et que j’ai dû lire à l’école pour ne jamais y revenir. J’avais la sensation de me noyer dans le marécage de l’humanité. Il me suffisait de quelques phrases pour suffoquer et éprouver une douleur physique, révélatrice de mon hypersensibilité, à tel point que ces textes m’étaient nocifs.
+Il y a au XIX<sup>e</sup> et même au XX<sup>e</sup> toute une littérature qui sent le moisi et que j’ai dû lire à l’école pour ne jamais y revenir. J’avais la sensation de me noyer dans le marécage de l’humanité. Il me suffisait de quelques phrases pour suffoquer et éprouver une douleur physique, révélatrice de mon hypersensibilité, à tel point que ces textes m’étaient nocifs.
 
 ---
 

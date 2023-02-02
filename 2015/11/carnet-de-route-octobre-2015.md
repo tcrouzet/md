@@ -42,7 +42,7 @@ Cet après-midi, je dois parler devant des étudiants en journalisme. Des préte
 
 ---
 
-Levée de boucliers quand je dis aux élèves journalistes qu’ils doivent apprendre à programmer. Sorte de refus instinctif de mettre les mains dans le cambouis, refus qui s’avérera dramatique si le monde finit par s’écrouler. Le XXI^e^ siècle sera technique ou ne sera pas.
+Levée de boucliers quand je dis aux élèves journalistes qu’ils doivent apprendre à programmer. Sorte de refus instinctif de mettre les mains dans le cambouis, refus qui s’avérera dramatique si le monde finit par s’écrouler. Le XXI<sup>e</sup> siècle sera technique ou ne sera pas.
 
 ### Samedi 10, Balaruc
 

@@ -4,7 +4,7 @@ Lorsque je parle d’auto-organisation et de décentralisation, on me reproche d
 
 Tout d’abord qui connaît cette nature ? Qui sait où la trouver ? Elle se cache dans quel coin de notre cerveau ? Qui sait la définir ? Vercors avec ses [*Animaux dénaturés*](http://www.amazon.fr/Animaux-d%C3%A9natur%C3%A9s-Vercors/dp/2253010235/) n’a-t-il pas montré que c’était impossible ?
 
-J’avoue avoir déjà beaucoup de mal à définir ma propre nature. Alors définir celle de l’espèce humaine dans son ensemble m’apparaît non seulement hors de mes moyens mais tout simplement absurde. Il existe sans doute presque autant de natures humaines que d’individus. Celle de l’Oriental est-elle la même que celle de l’Occidental ? Celle d’un Français du XXI^e^ siècle est-elle la même que celle d’un Français du XIX^e^ ?
+J’avoue avoir déjà beaucoup de mal à définir ma propre nature. Alors définir celle de l’espèce humaine dans son ensemble m’apparaît non seulement hors de mes moyens mais tout simplement absurde. Il existe sans doute presque autant de natures humaines que d’individus. Celle de l’Oriental est-elle la même que celle de l’Occidental ? Celle d’un Français du XXI<sup>e</sup> siècle est-elle la même que celle d’un Français du XIX<sup>e</sup> ?
 
 Parler de la nature humaine, c’est faire preuve d’essentialisme. C’est croire qu’il existe une essence de l’homme. J’y crois d’autant moins à cause de l’évolution qui ne garde rien inchangé.
 

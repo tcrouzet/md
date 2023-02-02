@@ -2,7 +2,7 @@
 
 
 
-### Mardi 1^er^, Balaruc
+### Mardi 1<sup>er</sup>, Balaruc
 
 Encore une fois, je refuse de répondre à une journaliste au sujet de la déconnexion. Isa : « Bientôt tu regretteras de ne plus être appellé. » Elle a raison, mais les journalistes qui n’essaient même pas de lire deux pages de [*J’ai débranché*](https://tcrouzet.com/jai-debranche/) m’insupportent.
 
@@ -230,7 +230,7 @@ Si je déclare « Il n’existe que des cas particuliers et aucune généralit�
 
 ---
 
-Contre la communication de masse : le silence, esthétique ultime du XXI^e^ siècle.
+Contre la communication de masse : le silence, esthétique ultime du XXI<sup>e</sup> siècle.
 
 ### Mardi 29, Balaruc
 

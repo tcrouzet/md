@@ -2,7 +2,7 @@
 
 
 
-### Lundi 1^er^, Balaruc
+### Lundi 1<sup>er</sup>, Balaruc
 
 Un copain libraire m’écrit au sujet de [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/) : « C’est très fort, parfois très dur, et c’est aussi touchant. C’est sincère, bien mené et bien écrit, ce qui ne gâche rien ! »<span id="more-52020"></span>
 

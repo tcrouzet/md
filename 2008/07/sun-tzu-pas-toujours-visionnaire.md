@@ -1,6 +1,6 @@
 # Sun Tzu pas toujours visionnaire
 
-Avec son *L’art de la guerre*, le général chinois du IV^e^ siècle avant Jésus-Christ est souvent cité, à juste titre, pour sa clairvoyance. Mais sa pensée n’est pas toujours moderne. Exemple :
+Avec son *L’art de la guerre*, le général chinois du IV<sup>e</sup> siècle avant Jésus-Christ est souvent cité, à juste titre, pour sa clairvoyance. Mais sa pensée n’est pas toujours moderne. Exemple :
 
 > Le petit ne peut certainement pas égaler le grand, non plus que le faible se mesurer au fort, ni le peu nombreux à la multitude.
 

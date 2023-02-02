@@ -2,7 +2,7 @@
 
 
 
-### Vendredi 1^er^, Balaruc
+### Vendredi 1<sup>er</sup>, Balaruc
 
 Vent du nord, ciel tourmenté, sans volonté d’aller vers l’été, peut-être que la planète elle-même attend la fin du confinement, avec une certaine inquiétude. Les humains reprendront-ils leurs délires ?
 

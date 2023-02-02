@@ -8,7 +8,7 @@ Pour Ariès, l’abondance est un mythe. Je digère mal cette proposition. Le so
 
 ![](https://tcrouzet.com/images_tc/2010/09/Phen-Hum-fig.gif)
 
-Les bonobos baisent à longueur de journée. Les moines prient à longueur de journée. Les intellos lisent à longueur de journée. Nous penchons irrémédiablement vers l’abondance, car la vie découle de l’abondance énergétique (nous n’avons pas d’autre choix que de lutter contre l’entropie). Il serait dangereux de réduire l’abondance à l’abondance matérielle prônée depuis le début de la révolution industrielle. Et puis E=mc^2^. La matière, c’est aussi de l’énergie. Même l’idée que le matérialisme est dangereux ne peut être généralisée (sauf à combattre la technologie).
+Les bonobos baisent à longueur de journée. Les moines prient à longueur de journée. Les intellos lisent à longueur de journée. Nous penchons irrémédiablement vers l’abondance, car la vie découle de l’abondance énergétique (nous n’avons pas d’autre choix que de lutter contre l’entropie). Il serait dangereux de réduire l’abondance à l’abondance matérielle prônée depuis le début de la révolution industrielle. Et puis E=mc<sup>2</sup>. La matière, c’est aussi de l’énergie. Même l’idée que le matérialisme est dangereux ne peut être généralisée (sauf à combattre la technologie).
 
 Que font les moines ? Ils vivent dans la frugalité, mais ils s’adonnent à une consommation spirituelle. Je me sens proche d’Épicure. Que faisait-il dans son jardin ? Il s’adonnait à l’abondance de conversations. Abondance sexuelle, spirituelle, culturelle, sociale, nous succombons au moins à l’une ou à l’autre, je crois qu’il ne peut en être autrement du fait même des mécanismes de la vie.
 

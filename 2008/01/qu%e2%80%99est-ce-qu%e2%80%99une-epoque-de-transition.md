@@ -2,7 +2,7 @@
 
 Toute époque se trouve à la jonction entre le passé et l’avenir, toute époque est donc de transition. Nous pourrions dire la même chose de chaque seconde et nous devrions essayer de les vivre avec intensité parce que justement elles sont uniques.
 
-Nous sentons bien toutefois que dans nos vies certains moments sont plus tendus que d’autres, plus déterminants, plus chargés d’aventures. Je crois qu’il en va de même dans l’histoire des civilisations et des sociétés. Le début du XXI^e^ siècle me semble en ce sens particulier car il cumule les changements.
+Nous sentons bien toutefois que dans nos vies certains moments sont plus tendus que d’autres, plus déterminants, plus chargés d’aventures. Je crois qu’il en va de même dans l’histoire des civilisations et des sociétés. Le début du XXI<sup>e</sup> siècle me semble en ce sens particulier car il cumule les changements.
 
 Quelques symptômes…
 

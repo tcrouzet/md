@@ -1,6 +1,6 @@
 # Vendredi 24 mai, avion pour la Sicile
 
-Les écrivains du passé revenaient de voyage avec des notes pour un livre, nous n’en revenons qu’avec quelques pages, car nos voyages ne durent pas plus de quelques jours. À ce temps restreint correspond une forme narrative, impressions fugitives glanées ça et là, nous n’avons pas la force, et pas la possibilité, d’atteindre l’essence des choses et ce concept disparaît de la philosophie. Il n’est plus qu’un songe du passé, nous devenons réalistes et matérialistes même si nous aspirons à la mystique. Notre rapport au temps explique nos œuvres. Il faudrait écrire un essai : *De l’influence de l’avion sur l’art du XX^e^ siècle*.
+Les écrivains du passé revenaient de voyage avec des notes pour un livre, nous n’en revenons qu’avec quelques pages, car nos voyages ne durent pas plus de quelques jours. À ce temps restreint correspond une forme narrative, impressions fugitives glanées ça et là, nous n’avons pas la force, et pas la possibilité, d’atteindre l’essence des choses et ce concept disparaît de la philosophie. Il n’est plus qu’un songe du passé, nous devenons réalistes et matérialistes même si nous aspirons à la mystique. Notre rapport au temps explique nos œuvres. Il faudrait écrire un essai : *De l’influence de l’avion sur l’art du XX<sup>e</sup> siècle*.
 
 ### Mondello
 
@@ -20,14 +20,14 @@ L’art gothique ouvre une parenthèse dans l’histoire de la culture occidenta
 
 ![Monreale](https://tcrouzet.com/images_tc/2015/11/monreale.png)
 
-Comment une époque commence et une autre s’achève ? L’art roman succède avec naturel à l’art antique, il unifie l’Égypte, la Grèce et Rome. Il revient à la matière, la valorise et l’arrache à la pesanteur du bas moyen-âge ; il revient à l’art brut, sans maniérisme, il fait comme le XX^e^ siècle.
+Comment une époque commence et une autre s’achève ? L’art roman succède avec naturel à l’art antique, il unifie l’Égypte, la Grèce et Rome. Il revient à la matière, la valorise et l’arrache à la pesanteur du bas moyen-âge ; il revient à l’art brut, sans maniérisme, il fait comme le XX<sup>e</sup> siècle.
 
 La cathédrale de Durham (1093 – 1128), tout en restant romane, invente la voûte en ogive, invente le gothique. Les murs se percent de vitraux et de rosaces, la nef et le cœur s’ouvrent à la lumière. Le gothique oublie la matière (le corps du Christ) au profit de l’idée (à la gloire de Dieu). Cette quête de la légèreté fait pousser aux flancs des cathédrales les arcs-boutants si étrangers à la culture occidentale. On les dirait copiés sur des squelettes de sauriens. Mais à force de crier le message divin, le gothique montre ses limites et la première Renaissance ferme la parenthèse, renonce à l’idéalisme qui avait dissous la réalité, elle revient à l’antique, à la quête du matériel, mais vite le marbre de sa surface impénétrable renverra vers l’idéalité. L’humanité oscille sans cesse.
 
 Au début du moyen-âge, la religion chrétienne prêche d’une voie sûre et qui porte d’elle-même. La foi reste vivante jusqu’à ce qu’elle s’essouffle et que ses concepts, donc ses idées, nécessitent le soutien d’une architecture vertigineuse, qui doit faire naître une sensation d’infini que la foi seule ne peut produire. La cathédrale gothique réinvente Dieu.
 
-La Renaissance confronte deux courants : retour à la nature (réalisme dans la représentation) et retour à l’antique (mythes, styles et idées). Ces deux aspirations cohabitent et finissent par se confondre chez les Vénitiens du XVI^e^ ; moment où l’Orient rejoint l’Occident.
+La Renaissance confronte deux courants : retour à la nature (réalisme dans la représentation) et retour à l’antique (mythes, styles et idées). Ces deux aspirations cohabitent et finissent par se confondre chez les Vénitiens du XVI<sup>e</sup> ; moment où l’Orient rejoint l’Occident.
 
-Dans le cloître de Monreale, cette union existe d’une certaine façon. Mais, au XIIe siècle en Sicile, nous en sommes encore à une époque de matière, un accord entre les textures d’Orient et d’Occident. Une double colonne d’inspiration byzantine, une autre d’inspiration romane ; alternance de doubles colonnes, jamais un endroit n’a illustré aussi vivement la dichotomie. Il faudra attendre Venise, le Carpaccio, le Titien et Véronèse pour qu’à cette union de chair s’ajoute celle de l’âme. À ce moment, il sera temps de consommer le divorce, cette histoire d’amour ne renaîtra de ses cendres qu’au milieu du XIX^e^ siècle.
+Dans le cloître de Monreale, cette union existe d’une certaine façon. Mais, au XIIe siècle en Sicile, nous en sommes encore à une époque de matière, un accord entre les textures d’Orient et d’Occident. Une double colonne d’inspiration byzantine, une autre d’inspiration romane ; alternance de doubles colonnes, jamais un endroit n’a illustré aussi vivement la dichotomie. Il faudra attendre Venise, le Carpaccio, le Titien et Véronèse pour qu’à cette union de chair s’ajoute celle de l’âme. À ce moment, il sera temps de consommer le divorce, cette histoire d’amour ne renaîtra de ses cendres qu’au milieu du XIX<sup>e</sup> siècle.
 
 ![Monreale](https://tcrouzet.com/images_tc/1996/05/monreale2.png)

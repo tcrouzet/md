@@ -2,7 +2,7 @@
 
 
 
-### Lundi 1^er^, Monts sur Guesnes
+### Lundi 1<sup>er</sup>, Monts sur Guesnes
 
 ![](https://tcrouzet.com/images_tc/2017/02/20170101_1.jpg)
 

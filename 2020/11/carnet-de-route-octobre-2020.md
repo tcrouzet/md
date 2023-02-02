@@ -2,7 +2,7 @@
 
 
 
-### Jeudi 1^er^, Balaruc
+### Jeudi 1<sup>er</sup>, Balaruc
 
 Je dépile les paperasses en retard. Ma société Thaulk est clôturée depuis le 31/12/2019, mais les impôts, l’URSSAF et la Cipav continuent de me ponctionner, et pour faire cesser leurs surenchères je rebondis des uns aux autres, chacun demandant des justificatifs dépendants des autres. Une des plus belles : l’URSSAF a validé la fermeture de Thaulk, mais pour résilier mon statut de gérant il faut que je leur adresse les justificatifs qui leur prouvent que la boîte est fermée !
 

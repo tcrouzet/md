@@ -2,11 +2,11 @@
 
 
 
-### Dimanche 1^er^, Balaruc
+### Dimanche 1<sup>er</sup>, Balaruc
 
 J’ai quitté Blois où il faisait froid pour rentrer dans le Midi où nous avons plus froid qu’au plus dur de l’hiver.
 
-![1^er^ mai](https://tcrouzet.com/images_tc/2016/06/1mai.jpg)
+![1<sup>er</sup> mai](https://tcrouzet.com/images_tc/2016/06/1mai.jpg)
 
 ### Lundi 2, Balaruc
 

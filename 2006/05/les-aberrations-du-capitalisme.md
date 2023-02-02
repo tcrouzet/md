@@ -4,7 +4,7 @@ Qu’on puisse dire qu’un Picasso vaut un million de barils de brut, je trouve
 
 Le capitalisme devient encore plus absurde quand on dit qu’un Picasso vaut le travail de dix vies d’ouvrier. Je ne vois pas pourquoi on cherche à convertir ce qui n’est pas convertible. C’est comme si un physicien disait 1 kg = 1 année lumière. Cette équation n’est pas homogène. Et pour moi, c’est ça le capitalisme : un système qui simplifie à tout prix la complexité, qui la fait entrer dans un moule.
 
-Jusqu’à la fin du XX^e^ siècle, le capitalisme a été efficace. Il s’appuyait sur le système monétaire pour régler les échanges commerciaux. Toutes les monnaies étaient convertibles grâce aux bourses. On savait partout de quoi on parlait. Aujourd’hui, les bourses et les systèmes de conversion monétaires ne sont plus indispensables.
+Jusqu’à la fin du XX<sup>e</sup> siècle, le capitalisme a été efficace. Il s’appuyait sur le système monétaire pour régler les échanges commerciaux. Toutes les monnaies étaient convertibles grâce aux bourses. On savait partout de quoi on parlait. Aujourd’hui, les bourses et les systèmes de conversion monétaires ne sont plus indispensables.
 
 La meilleure preuve : c’est eBay. Comme à l’époque du troc, nous pouvons à nouveau échanger des produits et des services. Des marchés métalocaux peuvent se créer, reposant sur leurs propres règles. Les produits et services échangés sur ces marchés n’ont pas besoin d’être comparés à un étalon universel.
 

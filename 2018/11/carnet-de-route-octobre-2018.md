@@ -2,7 +2,7 @@
 
 
 
-### Lundi 1^er^, Vol pour New York
+### Lundi 1<sup>er</sup>, Vol pour New York
 
 Je lis *La recherche* depuis trente ans et j’ai toujours l’impression de lire un nouveau livre. Je visite un pays familier, mais chaque fois m’arrête dans des villes différentes où seule la qualité de l’air ne varie pas. Proust me reste insaisissable. Convexe. Cyclique. J’ai souvent du mal à savoir dans quelle partie de son œuvre je suis, tant les couches narratives s’empilent et se répondent. La lecture électronique intensifie cette sensation, arrêtée un jour, reprise des semaines plus tard au point où elle a été laissée, sans besoin de passer par une couverture, d’atteindre un marque-page, et de revivre ainsi le livre en accéléré.<span id="more-50157"></span>
 
@@ -18,7 +18,7 @@ Je vais à New York sans projet, sans raison, sinon fuir la Floride au prétexte
 
 Je suis revenu quelquefois à New York, la dernière fois en 2013, en famille, mais alors mon carnet était en jachère. J’avais perdu l’habitude de le tenir avec régularité, pris par les textes longs, pris par le blog. Il y a ainsi un trou dans mon histoire, un trou de dix ans, que le blog ne comblera pas, parce que je n’y étais pas tout entier, ne faisant qu’y révéler une facette de moi-même.
 
-### Lundi 1^er^, New York
+### Lundi 1<sup>er</sup>, New York
 
 Je me pose à Central Park, puis rejoins le West Side pour le coucher de soleil. Je le prends dans la gueule, ça explose de partout. Du bruit en veux-tu en voilà sur la voie express, mais les quais sont calmes, détendus, avec un petit air de station balnéaire durant la morte saison. Vers le sud, c’est bleu argent, vers le nord, du côté de Columbia University, c’est rose, et ça gonfle en même temps que le soleil approche de l’horizon.
 
@@ -184,7 +184,7 @@ De mon lit. La vue porte bien au-delà de l’Hudson et d’Union City jusqu’a
 
 Le MOMA est devenu une usine à touristes, là parce qu’il faut y être et qui défilent devant les toiles en les photographiant avec leur mobile. Comment rêver devant les ciels de Van Gogh ou les chemins brûlants de Cézanne ? Je me retrouve par miracle seul assis devant *Les Demoiselles d’Avignon*, me dit que peut-être je vais pouvoir écrire en compagnie de mon maître, mais une nuée d’écervelés m’encercle et m’ensevelît.
 
-Le musée est un objet du XX^e^ siècle. Il ne peut plus nous inspirer, même s’il faut y venir pour être au contact des œuvres à leur juste proportion et lumière. Devant [*La nuit étoilée*](https://www.moma.org/collection/works/79802), j’ai pensé à la satisfaction de Van Gogh, d’avoir ainsi communié avec la nature, aussi avec le village en contre-bas, ses rues, ses allées d’arbres (tant bien même il a réédifié ce village). Un coup de génie parce qu’il résulte d’un moment de vie exceptionnel.
+Le musée est un objet du XX<sup>e</sup> siècle. Il ne peut plus nous inspirer, même s’il faut y venir pour être au contact des œuvres à leur juste proportion et lumière. Devant [*La nuit étoilée*](https://www.moma.org/collection/works/79802), j’ai pensé à la satisfaction de Van Gogh, d’avoir ainsi communié avec la nature, aussi avec le village en contre-bas, ses rues, ses allées d’arbres (tant bien même il a réédifié ce village). Un coup de génie parce qu’il résulte d’un moment de vie exceptionnel.
 
 Voilà pourquoi j’ai toujours préféré les carnets et les lettres des écrivains à toutes leurs autres œuvres, parce qu’ils ont été jetés dans l’instant, sans réflexivité excessive, sans repenti. Ils témoignent de la vie, en direct, et sans trahison esthétique. Vivre des extases et en témoigner en même temps, avec ce pouvoir qu’on les mots lorsqu’on les fige de démultiplier la puissance de l’extase au moment même où elle est vécue, ce dont n’ont pas idée, me semble-t-il, les adeptes des religions orientales.
 
@@ -424,7 +424,7 @@ Jardin du musée Pérez. Cocotiers plantés dans un parvis de béton, pavage gra
 
 ![Musée Pérez](https://tcrouzet.com/images_tc/2018/11/P1070620.jpg)
 
-J’ai commencé mes recherches pour *Adapt to Adopt*. Une question. Depuis quand l’alcool est-il utilisé comme désinfectant ? Depuis quand sait-on qu’il tue les germes ? Cette découverte est nécessairement postérieure à la découverte des germes par Pasteur en 1861. Elle est aussi postérieure à 1865 quand Joseph Lister, au fait des travaux de Pasteur, découvre que le phénol tue les germes et l’utilise dès lors comme désinfectant. Après, en 1878, Robert Koch découvre que la stérilisation à la vapeur est plus efficace que le phénol. Mais aucune référence à l’alcool. Si ces médecins avaient su pour l’alcool, ils l’auraient utilisé. Alors quand ? Je ne trouve rien sur le Net. Didier lui-même ne sait pas. Cette évidence ne l’était pourtant pas encore à la fin du XIX^e^. Isa en conclut qu’une femme a découvert le pouvoir désinfectant de l’alcool et que l’histoire l’a oubliée. « Normal, c’était une femme. »
+J’ai commencé mes recherches pour *Adapt to Adopt*. Une question. Depuis quand l’alcool est-il utilisé comme désinfectant ? Depuis quand sait-on qu’il tue les germes ? Cette découverte est nécessairement postérieure à la découverte des germes par Pasteur en 1861. Elle est aussi postérieure à 1865 quand Joseph Lister, au fait des travaux de Pasteur, découvre que le phénol tue les germes et l’utilise dès lors comme désinfectant. Après, en 1878, Robert Koch découvre que la stérilisation à la vapeur est plus efficace que le phénol. Mais aucune référence à l’alcool. Si ces médecins avaient su pour l’alcool, ils l’auraient utilisé. Alors quand ? Je ne trouve rien sur le Net. Didier lui-même ne sait pas. Cette évidence ne l’était pourtant pas encore à la fin du XIX<sup>e</sup>. Isa en conclut qu’une femme a découvert le pouvoir désinfectant de l’alcool et que l’histoire l’a oubliée. « Normal, c’était une femme. »
 
 ### Lundi 29, Weston
 

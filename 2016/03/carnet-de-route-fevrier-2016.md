@@ -2,7 +2,7 @@
 
 
 
-### Lundi 1^er^, Balaruc
+### Lundi 1<sup>er</sup>, Balaruc
 
 Vouloir convaincre est aussi vain que vouloir séduire. On a le don ou on ne l’a pas. Alors, les choses avancent à leur rythme. Impossible d’accélérer le temps.
 

@@ -2,7 +2,7 @@
 
 
 
-### Dimanche 1^er^, Balaruc
+### Dimanche 1<sup>er</sup>, Balaruc
 
 ![De ma chambre](https://tcrouzet.com/images_tc/2019/10/IMG_6303.jpg)
 
@@ -116,7 +116,7 @@ Pierre me répète que les meilleurs prescripteurs sont les libraires. Maintenan
 
 Reste que si ce roman ne se vend pas, que s’il n’atteint pas un seuil minimum de rentabilité, je ne vois pas pourquoi j’embêterais encore Pierre avec une de mes bêtises. Lui faire perdre de l’argent, du temps, de l’énergie ? Je préfère autant qu’il investisse dans une belle bécane et vienne pédaler avec moi.
 
-J’ai écrit un premier *ravissement* ce matin au sujet du ciel bleu. Il y a quelques années je l’aurais tout de suite publié. Je n’en éprouve plus le besoin. Désormais il me faut thésauriser, accumuler, me repentir longtemps. Et puis pourquoi publier ? Pour collectionner quelques likes ? Écrire m’a fait du bien, publier me fait souvent du mal. Partager n’avait de sens que parce que nous étions nombreux à le faire en même temps, nous fertilisant les uns les autres. Après avoir ouvert son atelier en ligne au début du XXI^e^ siècle, l’écrivain est à nouveau seul.
+J’ai écrit un premier *ravissement* ce matin au sujet du ciel bleu. Il y a quelques années je l’aurais tout de suite publié. Je n’en éprouve plus le besoin. Désormais il me faut thésauriser, accumuler, me repentir longtemps. Et puis pourquoi publier ? Pour collectionner quelques likes ? Écrire m’a fait du bien, publier me fait souvent du mal. Partager n’avait de sens que parce que nous étions nombreux à le faire en même temps, nous fertilisant les uns les autres. Après avoir ouvert son atelier en ligne au début du XXI<sup>e</sup> siècle, l’écrivain est à nouveau seul.
 
 ### Samedi 7, Balaruc
 

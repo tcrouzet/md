@@ -2,7 +2,7 @@
 
 
 
-### Dimanche 1^er^, Balaruc
+### Dimanche 1<sup>er</sup>, Balaruc
 
 Virginia dit des choses comme « les idées abondent » ou « le puits est plein ». Elle déborde de scènes entre ses personnages, qu’elle médite, mémorise, jusqu’au moment d’écrire. Pour ma part, je n’ai jamais d’idée. L’écriture vient avec l’écriture, à partir d’un flot ténu, vite asséché.<span id="more-63968"></span>
 

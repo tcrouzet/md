@@ -10,7 +10,7 @@ Les agents autonomes doivent être pris en compte individuellement. Ils ne sont 
 
 ### De l’autogestion
 
-L’idée de gestion est donc étrangère à celle d’auto-organisation. Personne ne gère l’auto-organisation, c’est cela qui est merveilleux, c’est aussi pour cette raison que nous avons attendu la fin du XX^e^ siècle pour comprendre ce phénomène. Cet excès de merveilleux a mis du temps à nous pénétrer, brouillé jusqu’alors par des merveilleux de nature mystico-religieuse. Il nous manquait par ailleurs jusqu’à cette époque des outils de simulation. Nous ne disposions pas du microscope capable de nous révéler l’auto-organisation.
+L’idée de gestion est donc étrangère à celle d’auto-organisation. Personne ne gère l’auto-organisation, c’est cela qui est merveilleux, c’est aussi pour cette raison que nous avons attendu la fin du XX<sup>e</sup> siècle pour comprendre ce phénomène. Cet excès de merveilleux a mis du temps à nous pénétrer, brouillé jusqu’alors par des merveilleux de nature mystico-religieuse. Il nous manquait par ailleurs jusqu’à cette époque des outils de simulation. Nous ne disposions pas du microscope capable de nous révéler l’auto-organisation.
 
 Dans une organisation autogérée, le groupe prend des décisions. Dans un système auto-organisé personne ne décide, surtout pas à l’aide d’un vote. La décision émerge comme consolidation des actions des agents autonomes à travers un jeu de règles (souvent évolutif).
 

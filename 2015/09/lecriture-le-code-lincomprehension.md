@@ -34,7 +34,7 @@ Quand tu évoques le prélinguistique. Je ne sais pas de quoi il pourrait s’ag
 
 Tu pourrais me balancer que j’ai trouvé un invariant. Mais non, c’est juste une tautologie. La littérature est dans la langue, c’est tout. Le langage influence notre perception du monde autant que notre monde influence le langage. Tout cela ne peut être démêlé. Tu ne peux séparer les choses et les rendre indépendantes. Le langage est un outil, juste un peu particulier, alors les outils pour le mettre en œuvre doivent être considérés si on veut vivre la littérature.
 
-Dans [*La mécanique du texte*](https://tcrouzet.com/la-mecanique-du-texte/), je n’ai même pas jugé bon de parler de tout ça. Je suis étonné que ce sujet surgisse. Je croyais qu’il était loin derrière nous. J’ai un peu le sentiment que le XX^e^ siècle a été mal digéré par beaucoup de gens. Il ne s’agit donc pas d’être moderne pour moi, mais bel et bien d’être de mon temps, et pas juste pour en faire de la littérature, mais pour être heureux et conscient.
+Dans [*La mécanique du texte*](https://tcrouzet.com/la-mecanique-du-texte/), je n’ai même pas jugé bon de parler de tout ça. Je suis étonné que ce sujet surgisse. Je croyais qu’il était loin derrière nous. J’ai un peu le sentiment que le XX<sup>e</sup> siècle a été mal digéré par beaucoup de gens. Il ne s’agit donc pas d’être moderne pour moi, mais bel et bien d’être de mon temps, et pas juste pour en faire de la littérature, mais pour être heureux et conscient.
 
 ---
 

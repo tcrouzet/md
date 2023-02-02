@@ -2,7 +2,7 @@
 
 
 
-### Vendredi 1^er^, Malte
+### Vendredi 1<sup>er</sup>, Malte
 
 Coup de foudre pour La Valette, ville avec une multitude de perspectives sur la mer et les ports qui entourent sa presqu’île. Une ville musée, une ville orthonormée, mais une ville qu’il faut explorer, en prenant le temps que seuls possèdent ses familiers. Peut-être qu’il y a trop de touristes, trop de passage, reste que j’aimerais y revenir, y traîner pour y écrire, ce que je n’ai pas fait, la tête prise en étaux par notre projet d’expatriation d’un an.
 

@@ -50,7 +50,7 @@ Ce matin, les peintres 1900 m’ont envoyé la mort dans l’esprit. Maintenant,
 
 Le musée d’art tout entier m’est apparu comme un tombeau (et ce n’est que sur sa photo plus haut reproduire que je découvre qu’il a une forme de cercueil). C’est une sensation nouvelle pour moi. Dans ma jeunesse, je trouvais toujours des œuvres pour m’exciter. Désormais, je ne retrouve que le souvenir des sensations qu’elles éveillaient en moi. Je dois chercher ailleurs la force vitale, plus sûrement dans les avancées de la science.
 
-Le musée de la médecine est à la jonction des deux univers. À la fin du XVIII^e^, des artistes et des scientifiques ont collaboré pour en créer les œuvres, comme dévoilées à l’instant, et non sans évoquer la femme nue découverte hier. L’art secret d’une époque était simplement devenu populaire en une autre.
+Le musée de la médecine est à la jonction des deux univers. À la fin du XVIII<sup>e</sup>, des artistes et des scientifiques ont collaboré pour en créer les œuvres, comme dévoilées à l’instant, et non sans évoquer la femme nue découverte hier. L’art secret d’une époque était simplement devenu populaire en une autre.
 
 Je retourne au Café Central, bourré à craquer. Les gens sourient, parlent, s’agitent au rythme turbulent d’un pianiste. On dirait qu’il va se passer quelque chose d’extraordinaire. Le rythme d’une autre époque souffle sur nous une atmosphère dont l’effet se dissipera vite une fois la porte franchie.
 

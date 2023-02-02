@@ -2,7 +2,7 @@
 
 
 
-### Mardi 1^er^, Paris
+### Mardi 1<sup>er</sup>, Paris
 
 Hier soir, j’ai participé à une table ronde en compagnie de personnalités bien mieux installées que moi dans l’intelligentsia parisienne. La question posée : quels sont les invariants français. Et tous de donner leur réponse, et me voilà le seul à contester l’idée d’invariant, ce carcan idéologique hérité de Platon. Je ne veux pas d’invariant, je veux que mes enfants vivent dans un monde neuf. « Si tu devais tout de même trouver un invariant ? » Alors je parle de centralisation, en aucune manière un invariant, mais une pente dans laquelle nous tombons de plus en plus vite comme attirés par un trou noir. Les autres affirment leur désaccord. L’un de célébrer la prochaine figure politique qui se dressera pour reprendre la France en main, l’autre le retour de Dieu… Ils ne comprennent pas que je suis d’accord avec leur prévision, c’est ça le pire. Leur vision de l’avenir correspond à un monde plus centralisé. Ils jugent ça positif, au regard des vieux critères conservateurs, j’estime ça catastrophique, parce que la centralisation est impuissante à régler les problèmes complexes qui épuisent notre monde.
 

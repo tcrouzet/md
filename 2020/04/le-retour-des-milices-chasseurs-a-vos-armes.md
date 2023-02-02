@@ -32,7 +32,7 @@ Isa me dit :
 
 — Vas-y pas trop fort quand même, il est pour le mariage homo !
 
-C’est de la faute d’Isa si je prends cette histoire à la rigolade, mais sinon j’en pleurerais. Vivons-nous au XXI^e^ ou XIX^e^ siècle ? Sommes-nous sous le règne de Macron ou de Pétain ? Le coronavirus a-t-il provoqué une distorsion temporelle ? Sommes-nous revenus en monarchie ? Ou sommes-nous à la veille de la dictature ?
+C’est de la faute d’Isa si je prends cette histoire à la rigolade, mais sinon j’en pleurerais. Vivons-nous au XXI<sup>e</sup> ou XIX<sup>e</sup> siècle ? Sommes-nous sous le règne de Macron ou de Pétain ? Le coronavirus a-t-il provoqué une distorsion temporelle ? Sommes-nous revenus en monarchie ? Ou sommes-nous à la veille de la dictature ?
 
 Lisez la fiche en entier, elle en vaut la peine. Elle nous en dit long sur notre république bien au-delà des bananes.
 

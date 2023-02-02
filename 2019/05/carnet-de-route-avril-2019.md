@@ -2,7 +2,7 @@
 
 
 
-### Lundi 1^er^, Weston
+### Lundi 1<sup>er</sup>, Weston
 
 J’ai écrit [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/) par nécessité, j’y ai tout mis, c’est une sorte d’aboutissement de mon travail formel en même temps que l’expression honnête de mes souvenirs et sentiments, c’est un livre important pour moi dont la publication me fait un peu peur. Mais avant qu’il paraisse en août, sort en mai [*L’homme qui ne comprenait pas les femmes*](https://tcrouzet.com/lhomme-qui-ne-comprenait-pas-les-femmes/), un texte écrit par jeu, pour le plaisir, avec une certaine jubilation, mais sans enjeu littéraire, sans enjeu tout court. Sous le couvert du romanesque, j’y exprime ma monstrueuse incompréhension des femmes, mon éternelle maladresse avec elles. Je devrais être tendu vers ce texte pour tenter le promouvoir, mais j’en suis incapable, le roman sur mon père m’obsède, peut-être parce que je dois lui donner une suite.
 

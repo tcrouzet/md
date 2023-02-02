@@ -6,7 +6,7 @@ Lors de notre première rencontre, Didier Pittet m’a raconté l’histoire d�
 
 Semmelweis découvrit que les médecins étaient les assassins involontaires. Ils disséquaient des cadavres, courraient à un accouchement, revenaient à leurs cadavres… Sans en avoir la preuve matérielle, Semmelweis comprit qu’ils infectaient les femmes et leurs nouveau-nés. Il leur imposa de se laver les mains avec une solution d’hypochlorite de calcium. Le taux de mortalité chuta à 0,28 %. Semmelweis n’en fut pas moins critiqué, calomnié, discrédité… tout ça parce qu’il était nul en com (et ça me plaît).
 
-Dans la conférence qui suit, enregistrée en 2010, Didier Pittet évoque Ignaz Semmelweis et [Florence Nightingale](http://fr.wikipedia.org/wiki/Florence_Nightingale), les précurseurs de l’hygiène hospitalière. Son discours est tantôt rassurant, nous montrant les progrès effectués depuis le milieu du XIX^e^ siècle, tantôt inquiétant. Il nous révèle sans complaisance tout ce qui n’est pas encore fait, même dans les hôpitaux les plus modernes.
+Dans la conférence qui suit, enregistrée en 2010, Didier Pittet évoque Ignaz Semmelweis et [Florence Nightingale](http://fr.wikipedia.org/wiki/Florence_Nightingale), les précurseurs de l’hygiène hospitalière. Son discours est tantôt rassurant, nous montrant les progrès effectués depuis le milieu du XIX<sup>e</sup> siècle, tantôt inquiétant. Il nous révèle sans complaisance tout ce qui n’est pas encore fait, même dans les hôpitaux les plus modernes.
 
 <div class="iframe" id="iframe4"></div>
 <div class="iframe" id="iframe5"></div>

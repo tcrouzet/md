@@ -14,7 +14,7 @@ On peut réserver un texte à une petite communauté de lecteurs fidèles et de 
 
 ### Présentation de la communauté Résistants sur Scribay
 
-La résistance grandissante des bactéries aux antibiotiques est un problème aussi critique que le réchauffement climatique. Si nous ne faisons rien, nous risquons très vite de voir ressurgir des maladies oubliées depuis 70 ans, nous risquons médicalement de revenir au XIX^e^ siècle.
+La résistance grandissante des bactéries aux antibiotiques est un problème aussi critique que le réchauffement climatique. Si nous ne faisons rien, nous risquons très vite de voir ressurgir des maladies oubliées depuis 70 ans, nous risquons médicalement de revenir au XIX<sup>e</sup> siècle.
 
 L’hôpital universitaire de Genève m'a commandé un texte pour réveiller les consciences et qu’ensemble nous nous attaquions à cette problématique. Le texte paraîtra au printemps 2017 en ebook et papier, en français et anglais, sous licence Creative Commons.
 

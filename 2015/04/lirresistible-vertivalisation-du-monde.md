@@ -24,7 +24,7 @@ Heureusement, un sursaut reste possible. Déjà parce que nous sommes les princi
 
 2. Nous sommes aussi libres de faire comme tous les autres. Victimes du mimétisme, nous n’usons pas de notre liberté pour nous différencier, mais au contraire pour nous conformer, ce qui fait le jeu des silos (et facilite notre surveillance).
 
-Quand j’écrivais *Le peuple des connecteurs*, je nous croyais collectivement à la veille d’un gigantesque changement de comportement. Au contraire, les tendances lourdes initiées par la société consumériste au XX^e^ siècle n’ont fait que se renforcer depuis. J’ai plus souvent qu’avant tendance à être pessimiste, mais reste cette possibilité d’un éveil. Comment le provoquer, c’est toute la question.
+Quand j’écrivais *Le peuple des connecteurs*, je nous croyais collectivement à la veille d’un gigantesque changement de comportement. Au contraire, les tendances lourdes initiées par la société consumériste au XX<sup>e</sup> siècle n’ont fait que se renforcer depuis. J’ai plus souvent qu’avant tendance à être pessimiste, mais reste cette possibilité d’un éveil. Comment le provoquer, c’est toute la question.
 
 J’ai essayé en écrivant, j’essaie encore avec ce texte même, mais il ne sera lu que par quelques centaines de personnes, déjà convaincues par tout ce que je dis. Il faut écrire autrement, adopter d’autres approches… et sans doute continuer à semer des graines jusqu’à ce que la forêt se mette soudainement à pousser. Après tout, ça serait dans la logique de la décentralisation. Peu à peu les grains de sable s’accumulent jusqu’à provoquer un basculement dans les états critiques.
 

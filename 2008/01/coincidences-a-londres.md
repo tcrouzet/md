@@ -4,7 +4,7 @@ Avec Isabelle, nous avons vécu quatre ans à Londres et nous avons dans cette v
 
 Après avoir dîné dans notre restaurant favori de Soho, nous avons décidé d’aller au cinéma. Comme toujours nous n’achetons pas de programme et nous passons de salle en salle jusqu’à ce qu’un film nous arrête.
 
-Nous n’avons pas cherché longtemps. Nous tombons sur [*Into the wild*](http://www.intothewild-lefilm.com/). Je ne savais pas que [le livre de John Krakauer](http://en.wikipedia.org/wiki/Into_the_Wild), pour moi un des grands livres de la fin du XX^e^ siècle, venait d’être décliné en film.
+Nous n’avons pas cherché longtemps. Nous tombons sur [*Into the wild*](http://www.intothewild-lefilm.com/). Je ne savais pas que [le livre de John Krakauer](http://en.wikipedia.org/wiki/Into_the_Wild), pour moi un des grands livres de la fin du XX<sup>e</sup> siècle, venait d’être décliné en film.
 
 \
 

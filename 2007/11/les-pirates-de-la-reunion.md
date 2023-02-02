@@ -4,7 +4,7 @@
 
 Le soir du 7 juillet 1730, le bourreau de Saint-Paul de La Réunion pendit [Olivier Le Vasseur dit La Buse](http://reunion.rfo.fr/article64.html). Six ans plus tôt, le dernier des pirates s’était pourtant repenti et avait été amnistié. De quoi l’accusait-on alors ? Pourquoi un esclavagiste sanguinaire était-il allé cueillir le pirate à Madagascar où il vivait misérablement ? Les actes du procès ayant disparu, personne ne connait les dessous de cette histoire. Une légende évoque le trésor de La Buse, caché quelque part à La Réunion. On aurait voulu faire parler le forban. Il aurait jeté une carte à la foule venue le voir agoniser.
 
-Je rêve d’une autre explication, encore plus romanesque. À la fin, du XVII^e^ siècle, les pirates fondèrent la colonie de [Libertaria](http://en.wikipedia.org/wiki/Libertatia) à Madagascar. Ils y affranchirent les esclaves, y acceptèrent les colons comme les natifs et y instaurèrent une démocratie aux mandats de courte durée (j’ai découvert cette histoire en lisant [Hakim Bey](http://www.lyber-eclat.net/lyber/taz.html)).
+Je rêve d’une autre explication, encore plus romanesque. À la fin, du XVII<sup>e</sup> siècle, les pirates fondèrent la colonie de [Libertaria](http://en.wikipedia.org/wiki/Libertatia) à Madagascar. Ils y affranchirent les esclaves, y acceptèrent les colons comme les natifs et y instaurèrent une démocratie aux mandats de courte durée (j’ai découvert cette histoire en lisant [Hakim Bey](http://www.lyber-eclat.net/lyber/taz.html)).
 
 Selon la légende, encore une fois, cette communauté survécut 25 ans avant d’être abattue par les Britanniques et les Portugais. J’imagine que les survivants auraient pu perpétuer la tradition démocratique et que, quelques années plus tard, La Buse aurait pu se joindre à eux. On l’aurait alors pourchassé parce qu’il ne vivait pas comme tout le monde, sous le joug d’une autorité inflexible.
 
@@ -12,7 +12,7 @@ Je fabule mais la vie insulaire n’était-elle pas propice aux expériences pol
 
 Quand j’ai appris que, à 9 500 km de Paris, [Saint-Paul de La Réunion](http://www.mairie-saintpaul.fr/) était aujourd’hui à l’avant-garde de la démocratie participative, je n’ai pas été surpris. Il coule peut-être encore dans le sang de ses habitants celui des pirates utopistes de Libertaria.
 
-Mais les utopies du XVII^e^ siècle deviennent peu à peu la réalité du XXI^e^ siècle. La démocratie participative, ce droit pour tous de participer aux décisions qui régissent la vie de la cité, gagne de jour en jour du terrain. Cette progression n’est pas poussée par une idéologie mais par la nécessité.
+Mais les utopies du XVII<sup>e</sup> siècle deviennent peu à peu la réalité du XXI<sup>e</sup> siècle. La démocratie participative, ce droit pour tous de participer aux décisions qui régissent la vie de la cité, gagne de jour en jour du terrain. Cette progression n’est pas poussée par une idéologie mais par la nécessité.
 
 1. Nous vivons dans un monde où le pouvoir de quelques uns n’est plus adapté aux enjeux complexes auxquels nous faisons face (écologiques, sociaux, économiques…). Dans *[Le peuple des connecteurs](https://tcrouzet.com/le-peuple-des-connecteurs/)*, j’ai évoqué les chauffeurs d’une cimenterie mexicaine qui en s’auto-organisant réussissent à livrer 98 % du temps à l’heure alors qu’en obéissant à leur chef il ne réussissait que 35 % du temps. Ce n’est qu’un exemple parmi des centaines d’autres.
 

@@ -2,7 +2,7 @@
 
 
 
-### Samedi 1^er^ avril, Balaruc
+### Samedi 1<sup>er</sup> avril, Balaruc
 
 ![](https://tcrouzet.com/images_tc/2017/05/20170401-1.jpg)
 

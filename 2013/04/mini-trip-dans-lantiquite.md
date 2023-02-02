@@ -10,4 +10,4 @@ Nous avons changé de lieu, d’époque, même de physique. Nous entrons dans un
 
 Les *Mimes* de Marcel Schwob, tout comme ses *Vies imaginaires*, se lisent debout sur le quai du métro, entre deux stations, dans une file d’attente ou pendant qu’un ordinateur poussif redémarre. Ils reprennent vie à l’âge numérique, par leur aptitude à se glisser dans nos poches et en jaillir à la moindre béance temporelle.
 
-Pour oublier la grisaille contemporaine, sniffez une bouffée de Marcel Schwob. Je l’ai lu et relu alors que j’étais plongé avec [*Ératosthène*](https://tcrouzet.com/eratosthene/) dans le III^e^ siècle avant JC.
+Pour oublier la grisaille contemporaine, sniffez une bouffée de Marcel Schwob. Je l’ai lu et relu alors que j’étais plongé avec [*Ératosthène*](https://tcrouzet.com/eratosthene/) dans le III<sup>e</sup> siècle avant JC.

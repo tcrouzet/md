@@ -6,13 +6,13 @@ En peinture, en musique, en architecture, dans tous les arts, des mécènes sout
 
 **Réponse 1** Notre champ n’existe tout simplement pas. Il est une illusion pour ses acteurs, une sorte de passe-temps ni plus ni moins digne que le macramé. Je dois être un peu stupide de réussir à me faire émouvoir souvent avec force par mes contemporains numériques. Je dois être encore plus stupide de tenter d’expliquer [pourquoi un champ nouveau pour la littérature s’est ouvert grâce au Net](https://tcrouzet.com/2017/11/21/pourquoi-ecrire-en-ligne/).
 
-**Réponse 2** La littérature d’avant-garde n’a jamais attiré les philanthropes. Une hypothèse fausse, car à Paris nos auteurs à succès se retrouvent dans les salons comme au meilleur du XIX^e^ siècle.
+**Réponse 2** La littérature d’avant-garde n’a jamais attiré les philanthropes. Une hypothèse fausse, car à Paris nos auteurs à succès se retrouvent dans les salons comme au meilleur du XIX<sup>e</sup> siècle.
 
 **Réponse 3** Les philanthropes contemporains ne sont que de nouveaux riches sans culture, avec pour seule référence le succès. Ils appliquent en art la même grille d’analyse que pour leur business. Je ne peux nier cette possibilité, mais je me refuse à généraliser.
 
 **Réponse 4** L’avant-garde numérique ne s’est pas encore constituée. Elle est encore encombrée d’imitateurs, en si grand nombre qu’ils cachent sous leur glose les rares innovateurs.
 
-**Réponse 5** La littérature d’avant-garde est un non-sens, une invention du XX^e^ siècle, une anomalie. La littérature parle toujours de la vie. Une œuvre numérique ne se révèle pas par des lasers tournoyants, des feux d’artifice ou des panneaux 4×3. Je crois qu’il s’agit de ma réponse préférée, ma réponse manifeste :
+**Réponse 5** La littérature d’avant-garde est un non-sens, une invention du XX<sup>e</sup> siècle, une anomalie. La littérature parle toujours de la vie. Une œuvre numérique ne se révèle pas par des lasers tournoyants, des feux d’artifice ou des panneaux 4×3. Je crois qu’il s’agit de ma réponse préférée, ma réponse manifeste :
 
 > Une œuvre littéraire numérique ne se différencie pas en première analyse d’une œuvre littéraire qui ne serait pas numérique.
 

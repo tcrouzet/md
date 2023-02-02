@@ -1,6 +1,6 @@
 # Le blog support de la pensée en mouvement
 
-Au cours du XX^e^ siècle, les romanciers ont tenté de mettre en scène l’écriture du roman lui-même, faisant de l’écriture le sujet même de la littérature. Ce projet est peut-être discutable quand il s’agit du roman, on peut ne pas apprécier, mais il me paraît indispensable pour le penseur.<span id="more-14726"></span>
+Au cours du XX<sup>e</sup> siècle, les romanciers ont tenté de mettre en scène l’écriture du roman lui-même, faisant de l’écriture le sujet même de la littérature. Ce projet est peut-être discutable quand il s’agit du roman, on peut ne pas apprécier, mais il me paraît indispensable pour le penseur.<span id="more-14726"></span>
 
 Si on refuse les systèmes, on n’a d’autre choix que d’exposer la pensée en même temps qu’elle se forme, dans toutes ses imperfections et contradictions. Il est vain de vouloir attendre qu’elle soit formée, stabilisée et cohérente. La consistance n’existe pas pour qui refuse les systèmes, sa seule consistance réside dans sa constance à se livrer dans toutes ses imperfections. La pensée apparaît alors comme une histoire.
 

@@ -2,7 +2,7 @@
 
 Quitter les villes, revenir à une vie pastorale, serait le meilleur moyen de régler une grande partie des problèmes environnementaux. Faux. Individuellement, que nous vivions à la campagne ou en ville, nous polluons autant. C’est notre mode de vie qui est source de pollution, non l’endroit où nous vivons. Pour polluer moins, nous devons changer de mode de vie, non pas nécessairement déménager. Nous avons même intérêt à vivre en ville : la ville permet des économies d’échelle !
 
-> \[Au cours du XX^e^ siècle,\] les architectes ont construit les villes autour des voitures plutôt que des gens, écrit [Fred Pearce](http://www.opendemocracy.net/author/Fred_Pearce.jsp) dans [*NewScientist*](http://www.newscientisttech.com/article/mg19025561.700.html).
+> \[Au cours du XX<sup>e</sup> siècle,\] les architectes ont construit les villes autour des voitures plutôt que des gens, écrit [Fred Pearce](http://www.opendemocracy.net/author/Fred_Pearce.jsp) dans [*NewScientist*](http://www.newscientisttech.com/article/mg19025561.700.html).
 
 Le mode de vie banlieusard qui en a découlé est un désastre écologique. En voulant concilier campagne et ville, il impose des temps de transport de plus en plus longs, donc multiplie les pollutions.
 

@@ -2,7 +2,7 @@
 
 
 
-### Vendredi 1^er^, Balaruc
+### Vendredi 1<sup>er</sup>, Balaruc
 
 Je m’amuse à dessiner sur l’écran de mon iPad avec un stylet. Je retrouve un vieux plaisir jouissif et je sens le moment où enfin il devient possible pour moi de tenir un carnet numérique sans pour autant renoncer aux dessins et autres gribouillages.
 

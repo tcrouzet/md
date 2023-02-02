@@ -1,6 +1,6 @@
 # Clitoria, du feuilleton en ligne au livre papier
 
-À partir de lundi prochain, en partenariat avec [ActuaLitté](https://www.actualitte.com/chez-wam/a-lire-sur-actualitte-clitoria-roman-erotique-de-thierry-crouzet-53677.htm), je vous offrirai deux fois par semaine [*Clitoria*](https://tcrouzet.com/clitoria/), un feuilleton coquin qui vous fera plonger dans le XVI^e^ siècle, au cœur de la renaissance des idées et des passions.<span id="more-38002"></span>
+À partir de lundi prochain, en partenariat avec [ActuaLitté](https://www.actualitte.com/chez-wam/a-lire-sur-actualitte-clitoria-roman-erotique-de-thierry-crouzet-53677.htm), je vous offrirai deux fois par semaine [*Clitoria*](https://tcrouzet.com/clitoria/), un feuilleton coquin qui vous fera plonger dans le XVI<sup>e</sup> siècle, au cœur de la renaissance des idées et des passions.<span id="more-38002"></span>
 
 Petit avant-goût :
 
@@ -12,7 +12,7 @@ Ainsi débute le chapitre 2 de [*Clitoria*](https://tcrouzet.com/clitoria/), un 
 
 Si vous êtes pressé ou voulez soutenir mon travail, [achetez le texte](https://tcrouzet.com/clitoria/), sinon patientez. Les chapitres seront diffusés gratuitement sur mon blog et par [ActuaLitté](https://www.actualitte.com/) au fil des prochaines semaines, tous les lundis et jeudis.
 
-Pourquoi cette double diffusion gratuite et payante ? Pour expérimenter. Pour ne pas obliger les lecteurs à payer mais pour les encourager à le faire s’ils aiment. C’est une façon de revenir aux feuilletons du XIX^e^ qui étaient offerts dans les journaux avant de sortir en livre. La seule différence est l’immédiate disponibilité de l’ensemble. Alors chaque chapitre diffusé gratuitement sert de publicité pour l’ouvrage complet.
+Pourquoi cette double diffusion gratuite et payante ? Pour expérimenter. Pour ne pas obliger les lecteurs à payer mais pour les encourager à le faire s’ils aiment. C’est une façon de revenir aux feuilletons du XIX<sup>e</sup> qui étaient offerts dans les journaux avant de sortir en livre. La seule différence est l’immédiate disponibilité de l’ensemble. Alors chaque chapitre diffusé gratuitement sert de publicité pour l’ouvrage complet.
 
 C’est aussi une manière de démontrer, s’il le fallait encore, qu’un auteur indépendant peut offrir ses textes à travers son blog, mais aussi les diffuser en papier ou ebook, à un prix très bas et sous licence libre.
 

@@ -20,7 +20,7 @@ Je retiens trois grandes leçons.
 
 <div class="iframe" id="iframe6"></div>
 
-### Vendredi 1^er^ février
+### Vendredi 1<sup>er</sup> février
 
 Je quitte Weston avec mon vélo dans le coffre de notre minivan Sienna, direction nord, sous un ciel lourd, qui se déverse sur moi à la hauteur de West Palm Beach. Comme des records de pluies ont été battus le week-end précédent, je crains le pire pour les conditions de course. De mauvaises pensées m’occupent, bientôt adoucies par un rayon de soleil. Une fois à la hauteur d’Orlando, j’ai même le sourire. Des collines boisées m’entourent dans les dernières lueurs du jour. J’ai soudain quitté la plate Floride du sud pour la Floride centrale, plus vallonnée. Il fait nuit noire quand j’arrive au camping de Shangrila où à 9 heures demain sera donné le départ de l’HuRaCan.
 

@@ -46,7 +46,7 @@ Dans la twitterature, je trouve intéressant le jeu avec la contrainte des 140 c
 
 ### Notes
 
-1. Tu peux retrouver mes tweets à ton adresse sur [mon lifestream du 1^er^ août](https://tcrouzet.com/2009/08/01/tweets-du-samedi-01-aout-2009/). Aussi directement sur Twitter [ici](http://twitter.com/crouzet/status/3075460575) et [ici](http://twitter.com/crouzet/status/3075471770). Ton absence de réponse suite au coup, 15 jours plus tôt, de Stewart [dont je m’étais aussi moqué sur Twitter](http://twitter.com/crouzet/status/2651186115) a été la goutte qui a fait déborder mon vase.
+1. Tu peux retrouver mes tweets à ton adresse sur [mon lifestream du 1<sup>er</sup> août](https://tcrouzet.com/2009/08/01/tweets-du-samedi-01-aout-2009/). Aussi directement sur Twitter [ici](http://twitter.com/crouzet/status/3075460575) et [ici](http://twitter.com/crouzet/status/3075471770). Ton absence de réponse suite au coup, 15 jours plus tôt, de Stewart [dont je m’étais aussi moqué sur Twitter](http://twitter.com/crouzet/status/2651186115) a été la goutte qui a fait déborder mon vase.
 
 2. Quand on fait un truc il me semble honnête intellectuellement de regarder ce qui s’est fait avant. De faire un historique pour s’inscrire dans le flux de pensée qui souvent remonte des siècles en arrière. Se proclamer le premier, c’est toujours une imposture marketing. Du mépris pour tous ceux qui précèdent. Voilà une autre explication de mon énervement.
 

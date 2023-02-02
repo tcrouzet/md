@@ -2,7 +2,7 @@
 
 
 
-### Lundi 1^er^, Balaruc
+### Lundi 1<sup>er</sup>, Balaruc
 
 ![À vélo](https://tcrouzet.com/images_tc/2020/07/IMG_1117.jpeg)
 

@@ -2,7 +2,7 @@
 
 
 
-### Lundi 1^er^, Nancy
+### Lundi 1<sup>er</sup>, Nancy
 
 Depuis quelques jours, je suis privé de perspectives. Nancy est une ville fermée, enfermée, où pour voir un peu loin il faut se placer au centre d’une des avenues rectilignes. Si je devais m’attarder dans ce quadrilatère, j’étoufferais. Même la douceur exceptionnelle en cette saison ne réussit pas à pondérer mon jugement catégorique. J’ai besoin de l’horizon miroitant.
 

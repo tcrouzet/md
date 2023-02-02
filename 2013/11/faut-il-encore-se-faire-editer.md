@@ -42,7 +42,7 @@ Durant l’été 2011, Isabelle Seguin lit le roman et me suggère de le retrava
 
 ### 10
 
-Un second exemple. [Le 20 avril 2010](https://tcrouzet.com/2010/04/20/j%E2%80%99ai-eu-l%E2%80%99idee/), je publie sur mon blog une collection d’idées. Exemple : « *[J’ai eu l’idée](https://tcrouzet.com/id/) de m’endormir tous les soirs dans les bras de la même femme.* » Commentaires chaleureux de mes lecteurs. François Bon veut le texte pour [publie.net](http://www.publie.net/). Encouragé, j’ajoute de nouvelles idées. [Le recueil sort en ebook le 1^er^ mai 2010.](https://tcrouzet.com/2010/05/01/295-idees-payantes/) Du blog à l’édition, ça fonctionne aussi.
+Un second exemple. [Le 20 avril 2010](https://tcrouzet.com/2010/04/20/j%E2%80%99ai-eu-l%E2%80%99idee/), je publie sur mon blog une collection d’idées. Exemple : « *[J’ai eu l’idée](https://tcrouzet.com/id/) de m’endormir tous les soirs dans les bras de la même femme.* » Commentaires chaleureux de mes lecteurs. François Bon veut le texte pour [publie.net](http://www.publie.net/). Encouragé, j’ajoute de nouvelles idées. [Le recueil sort en ebook le 1<sup>er</sup> mai 2010.](https://tcrouzet.com/2010/05/01/295-idees-payantes/) Du blog à l’édition, ça fonctionne aussi.
 
 ### 11
 

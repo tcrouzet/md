@@ -20,7 +20,7 @@ Comment en sommes-nous arrivés là ? À l’occasion du premier week-end d’a
 
 ![i727](https://tcrouzet.com/images_tc/2022/04/i727map2.jpg)
 
-### Vendredi 1^er^ avril
+### Vendredi 1<sup>er</sup> avril
 
 Nous nous retrouvons chez moi. Des habitués, des nouveaux. Un gravel, un VTT tout rigide, un antique 26 pouces (Specialized M4 FSR de 1999 pour William), une majorité de 29 pouces et l’infatigable fat de Patrick. Nous nous amusons à peser nos bécanes et matos, eau comprise. Je suis un des plus légers, 16,5 kg, Patrick, un des plus lourds, 25 kg : il transporte un drone, plusieurs caméras, des batteries de rechange.
 

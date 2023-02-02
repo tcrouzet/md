@@ -40,7 +40,7 @@ Notes
 
 4. Si j’étais capable de connecter plus de faits dans mon cerveau, j’éprouverais plus de plaisir (car connecter des faits me fait plaisir). Si nous avions cette capacité, notre créativité serait démultipliée. Je crois qu’internet externalise cette fonctionnalité. Je suis pour un tel progrès.
 
-5. Je rêve ainsi de beaucoup de progrès (techniques, spirituels, politiques…). J’ai découvert nombre d’entre eux dans les livres de science-fiction. Je crois que nous avons la puissance de réaliser nos rêves. Je crois que la science-fiction est le champ littéraire majeur depuis le milieu du XX^e^ siècle. Je me demande parfois pourquoi je n’en écrit pas… mais *Le peuple des connecteurs* ou *Le cinquième pouvoir* ne sont-ils pas des livres de SF ?
+5. Je rêve ainsi de beaucoup de progrès (techniques, spirituels, politiques…). J’ai découvert nombre d’entre eux dans les livres de science-fiction. Je crois que nous avons la puissance de réaliser nos rêves. Je crois que la science-fiction est le champ littéraire majeur depuis le milieu du XX<sup>e</sup> siècle. Je me demande parfois pourquoi je n’en écrit pas… mais *Le peuple des connecteurs* ou *Le cinquième pouvoir* ne sont-ils pas des livres de SF ?
 
 6. Dans toutes les machines mécaniques (voiture, lave vaisselle, pompe…), il existe des suspensions et des joints. La souplesse est la meilleure façon de résister aux chocs. Dans nos vies, nous ne pouvons pas tout sécuriser. Nous devons maintenir des zones de flottements. J’ai l’illusion qu’elles absorbent les aléas. Pour ma part, je prends des risques dans le travail en espérant sécuriser les autres pans de ma vie. Je sais malheureusement que je ne peux avoir de garantie.
 

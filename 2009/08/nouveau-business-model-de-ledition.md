@@ -28,8 +28,8 @@ Cette seconde fable est une métaphore du monde capitaliste, plus particulièrem
 
 Je reste persuadé que remplacer « Payer puis voir » par « Voir puis payer si j’aime » est la véritable révolution en cours, initiée par le mouvement open source.
 
-Quand un ami me présente un autre ami, je commence par discuter avec lui avant de l’inviter à passer les vacances avec lui^1^. Notre monde marchand a nié cette logique de la vie, mettant au même niveau les produits que nous avons déjà vus avec ceux que nous ne pouvons déjà avoir vus parce qu’ils sont nouveaux (ne peuvant que l’être dans le cas des biens culturels).
+Quand un ami me présente un autre ami, je commence par discuter avec lui avant de l’inviter à passer les vacances avec lui<sup>1</sup>. Notre monde marchand a nié cette logique de la vie, mettant au même niveau les produits que nous avons déjà vus avec ceux que nous ne pouvons déjà avoir vus parce qu’ils sont nouveaux (ne peuvant que l’être dans le cas des biens culturels).
 
 Pour être en accord avec ce que je pense, j’ai décidé de ne plus laisser mes livres publiés sur le papier. [Comme beaucoup d’autres l’ont déjà fait](http://www.guardian.co.uk/technology/2009/aug/18/free-ebooks-cory-doctorow?showallcomments=true), je les diffuserai sans doute au format [ePub](http://en.wikipedia.org/wiki/EPUB) et PDF. Me reste à trouver le temps et le courage d’effectuer la conversion.
 
-^1^ En juillet 1999, je suis parti au Mexique avec une inconnue dans le seul but d’écrire le journal de ce qui se passerait. Résultat : un livre appelé *Turista* qui dort dans mon disque dur.
+<sup>1</sup> En juillet 1999, je suis parti au Mexique avec une inconnue dans le seul but d’écrire le journal de ce qui se passerait. Résultat : un livre appelé *Turista* qui dort dans mon disque dur.

@@ -22,7 +22,7 @@
 
 *— On voudrait concurrencer* [*agoravox.tv*](http://agoravox.tv/)*,* [*la télé libre*](http://www.latelelibre.fr/)*,* [*de source sûre*](http://desourcesure.com)*…*
 
-— Votre génération est intoxiquée par la TV. Vous êtes trop XX^e^ siècle. Votre rêve, c’est PPDA. Si tu veux faire du web, apprend à développer. Nous vivons à l’âge du code et non plus à celui du marketing old fashion. Si tu es allergique, dommage, mais tu passeras à côté de ton époque.
+— Votre génération est intoxiquée par la TV. Vous êtes trop XX<sup>e</sup> siècle. Votre rêve, c’est PPDA. Si tu veux faire du web, apprend à développer. Nous vivons à l’âge du code et non plus à celui du marketing old fashion. Si tu es allergique, dommage, mais tu passeras à côté de ton époque.
 
 *— Nôtre idée est techno. On travaillera essentiellement avec les flux RSS. Les clients s’inscriront à certains de nos sujets et recevront directement les podcasts sur leur ordinateur ou ipod.*
 

@@ -32,7 +32,7 @@ Cet homme avait un don de prescience et Bouvier la lucidité de lui donner la pa
 
 Je lis toujours avec plaisir [la newslletter de Philippe Castelneau](https://tinyletter.com/Castelneau) : espace clos déconnecté du Web, lu comme un simple mail qui ne serait adressé qu’à moi, impression d’intimité comme quand nous nous retrouvons dans un café. J’ai de plus en plus besoin de cette littérature silencieuse, qui ne crie pas sur tous les toits : « Venez donc me lire ! »
 
-Philippe évoque la difficulté de se glisser dans une contrainte. Moi, j’aime ça. Jusqu’au XIX^e^ les peintres travaillaient à la commande, ce qui ne les empêchait pas de commettre des chefs-d’œuvre. Face à une commande, il s’agit de répondre aux attentes du commanditaire sans se parjurer. Dans tous mes textes, il me faut une contrainte plus ou moins clairement exprimée.
+Philippe évoque la difficulté de se glisser dans une contrainte. Moi, j’aime ça. Jusqu’au XIX<sup>e</sup> les peintres travaillaient à la commande, ce qui ne les empêchait pas de commettre des chefs-d’œuvre. Face à une commande, il s’agit de répondre aux attentes du commanditaire sans se parjurer. Dans tous mes textes, il me faut une contrainte plus ou moins clairement exprimée.
 
 ---
 
@@ -384,7 +384,7 @@ Je suis anesthésié depuis mon retour d’Iran, incapable de replonger dans mon
 
 Je suis un échange de mails entre deux auteurs qui s’envoient en parallèle des lettres pour se dire des choses qu’ils n’osent se dirent par mail. Ils ne le font pas au nom d’un idéal du papier, mais simplement par maladresse, encore persuadés que les choses importantes doivent être imprimées.
 
-L’époque n’est pas la même pour tous, et c’est sans doute une première dans notre histoire. À cause de l’accélération exponentielle des technologies, certains habitent encore le XX^e^ siècle pendant que d’autres lorgnent vers la fin du XXI^e^. Raison qui fait de la technologie, de notre rapport à elle, le sujet central de notre temps. Refuser d’adresser ce sujet, quitte à ce que ce soit par le rejet, c’est oublier de vivre aujourd’hui et s’interdire le droit à faire œuvre.
+L’époque n’est pas la même pour tous, et c’est sans doute une première dans notre histoire. À cause de l’accélération exponentielle des technologies, certains habitent encore le XX<sup>e</sup> siècle pendant que d’autres lorgnent vers la fin du XXI<sup>e</sup>. Raison qui fait de la technologie, de notre rapport à elle, le sujet central de notre temps. Refuser d’adresser ce sujet, quitte à ce que ce soit par le rejet, c’est oublier de vivre aujourd’hui et s’interdire le droit à faire œuvre.
 
 ### Jeudi 26, Montagnac
 

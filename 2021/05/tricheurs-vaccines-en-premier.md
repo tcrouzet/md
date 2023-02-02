@@ -2,7 +2,7 @@
 
 Le 29 avril, à 10 h, il y a 4 jours, j’ai accompagné ma mère âgée de 82 ans recevoir son rappel de vaccin Pfizer, au centre de vaccination de Sète. Pendant que nous attendions, elle m’a dit « ils n’ont pas tous plus de 75 ans ».<span id="more-59165"></span>
 
-En effet, beaucoup de jeunes entraient les uns après les autres dans le centre de vaccination. Pour la plupart, ils étaient même beaucoup plus jeunes que moi, approchant des 58 ans. Ma mère était furieuse, son premier rendez-vous de mi-janvier ayant été annulé au dernier moment, et elle avait dû attendre le 1^er^ avril pour sa première injection, après des dizaines d’appels infructueux.
+En effet, beaucoup de jeunes entraient les uns après les autres dans le centre de vaccination. Pour la plupart, ils étaient même beaucoup plus jeunes que moi, approchant des 58 ans. Ma mère était furieuse, son premier rendez-vous de mi-janvier ayant été annulé au dernier moment, et elle avait dû attendre le 1<sup>er</sup> avril pour sa première injection, après des dizaines d’appels infructueux.
 
 Mais nous étions rassurés, cette fois elle serait protégée, du moins nous l’espérions. Quand elle est ressortie, elle m’a dit qu’un pompier lui avait expliqué que le soir il restait toujours quelques doses de Pfizer ou Moderna et qu’il suffisait de se présenter pour être vacciné. J’ai posé la question à un ami médecin, qui m’a confirmé cette heureuse possibilité.
 

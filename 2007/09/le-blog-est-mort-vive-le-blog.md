@@ -12,7 +12,7 @@ Nous devions trouver un job, découvrir la vraie vie, le temps nous manquait pou
 
 L’arrivée des jeux en ligne n’arrangea rien. La plupart des joueurs se laissèrent tenter par ce mode distrayant et s’éloignèrent de l’art total dont nous rêvions à l’origine.
 
-Le jeu de rôle est mort, en tout cas tel que je l’ai rêvé, parce qu’il n’a pas su se dépasser. Il est resté confiné à un petit milieu underground, un milieu d’initiés. Son influence sur ce début de XXI^e^ siècle est gigantesque mais il aura manqué de hits et de vedettes pour engendrer de nouvelles vocations. Il s’est passé tout le contraire en BD et plus personne ne doute qu’elle est un art (sauf ceux qui croient encore qu’on trouve de l’art dans les galeries).
+Le jeu de rôle est mort, en tout cas tel que je l’ai rêvé, parce qu’il n’a pas su se dépasser. Il est resté confiné à un petit milieu underground, un milieu d’initiés. Son influence sur ce début de XXI<sup>e</sup> siècle est gigantesque mais il aura manqué de hits et de vedettes pour engendrer de nouvelles vocations. Il s’est passé tout le contraire en BD et plus personne ne doute qu’elle est un art (sauf ceux qui croient encore qu’on trouve de l’art dans les galeries).
 
 Le blog est à un point d’embranchement de son histoire. Soit des auteurs réussissent à percer, soit l’ensemble des blogueurs sombreront dans l’anonymat.
 

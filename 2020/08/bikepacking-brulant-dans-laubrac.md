@@ -116,7 +116,7 @@ Mon éditeur Pierre Fourniaud m’a dit que je devais absolument rencontrer Pasc
 
 ![Jour 1](https://tcrouzet.com/images_tc/2020/08/houblonS1.png)
 
-### Samedi 1^er^ août
+### Samedi 1<sup>er</sup> août
 
 Le camping est coincé dans un triangle entre la route de Paris et l’A75. J’ai l’impression de dormir sous un pont et que des camions me foncent dessus. Le vacarme est incessant. Ça me déprime. Comment on peut accepter ça ? Comment je fais pour supporter de prendre ces autoroutes, d’y ajouter mon bruit, et si ce n’est pas moi directement les camions qui transportent mon nécessaire vital ? Je repense à mon livre, au covid, aux leçons pour l’avenir.
 

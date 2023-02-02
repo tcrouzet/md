@@ -2,7 +2,7 @@
 
 Quel gâchis ! Ils descendent dans la rue par millions pour deux ans de retraite supplémentaire, pour être mieux traités en tant que salariés et pour que rien ne change. Ni plus ni moins, ils demandent que leurs privilégiés d’aujourd’hui, ceux qui les asservissent, restent les privilégiés de demain.
 
-Ils descendent dans la rue avec en tête un attirail idéologique qui date du XIX^e^ siècle. Ils me font penser aux esclaves qui, il y a bien longtemps, demandaient des repas plus copieux mais ne remettaient pas en cause leur esclavage, encore moins le statut d’esclavagiste.
+Ils descendent dans la rue avec en tête un attirail idéologique qui date du XIX<sup>e</sup> siècle. Ils me font penser aux esclaves qui, il y a bien longtemps, demandaient des repas plus copieux mais ne remettaient pas en cause leur esclavage, encore moins le statut d’esclavagiste.
 
 La gauche est dans un état de catatonie intellectuelle sidérant. Pourtant des idées socialement progressistes existent et commencent à être plutôt bien argumentées.
 

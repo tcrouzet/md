@@ -1,6 +1,6 @@
 # Message à nos rénovateurs politiques : vous buguez
 
-Politiciens, je vous aime, j’apprécie votre énergie débordante, je salue vos idées, mais je suis chagriné. J’ai passé 2012 en compagnie d’[Ératosthène](https://tcrouzet.com/tag/eratosthene/), à chercher à comprendre pourquoi les Grecs du III^e^ siècle avant JC avaient rejeté ses idées et je retrouve à l’œuvre chez vous les mécanismes qui jadis ont conduit à la fin d’un âge d’or.
+Politiciens, je vous aime, j’apprécie votre énergie débordante, je salue vos idées, mais je suis chagriné. J’ai passé 2012 en compagnie d’[Ératosthène](https://tcrouzet.com/tag/eratosthene/), à chercher à comprendre pourquoi les Grecs du III<sup>e</sup> siècle avant JC avaient rejeté ses idées et je retrouve à l’œuvre chez vous les mécanismes qui jadis ont conduit à la fin d’un âge d’or.
 
 Pour la plupart, vous ne remettez pas en question la nécessité du pouvoir. Vous en critiquez la corruption, les débordements, les imperfections, mais vous refusez de mettre au rebu le mode de management patriarcal.
 

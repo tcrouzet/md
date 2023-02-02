@@ -4,7 +4,7 @@ Chaque fois que je m’inquiète de notre internet, que j’évoque [les vagues 
 
 Nous pouvons bien faire ce que nous voulons de notre voiture. La laisser au garage, nous en servir pour aller au travail ou pour de grands raids dans les déserts d’Afrique. Nous pouvons la garder en version d’origine ou la customiser. Mais déjà quand nous appuyons un peu trop sur le champignon, nous commençons à nous heurter aux choix de la communauté, puis nous nous empêtrons dans un bouchon et comprenons le sens premier de l’interdépendance : l’emmerdement. Même de nos outils nous ne faisons pas toujours ce que nous voulons, dès que leurs usages interfèrent avec d’autres usages.
 
-À cheval entre le IV^e^ et le III^e^ siècle avant Jésus-Christ, les épicuriens ont voulu résoudre ce problème en s’enfermant dans leur jardin. Ils pensaient pouvoir s’abstraire de l’histoire et des égarements des autres hommes. Comme la plupart des philosophes matérialistes avant eux et après eux, ils ont été ensevelis par cette histoire.
+À cheval entre le IV<sup>e</sup> et le III<sup>e</sup> siècle avant Jésus-Christ, les épicuriens ont voulu résoudre ce problème en s’enfermant dans leur jardin. Ils pensaient pouvoir s’abstraire de l’histoire et des égarements des autres hommes. Comme la plupart des philosophes matérialistes avant eux et après eux, ils ont été ensevelis par cette histoire.
 
 Déjà à leur époque, il était difficile de s’isoler, de vivre hors du courant principal tout en profitant de ses avancés philosophiques et politiques. Aujourd’hui, c’est devenu définitivement impensable. Même celui qui refuse la technologie la subit, ne serait-ce que par l’intermédiaire de ses miasmes. Mon jardin ne m’appartient plus, même celui enfoui au plus profond de mon esprit.
 

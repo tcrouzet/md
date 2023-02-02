@@ -4,7 +4,7 @@ La ville et l’ombre, l’ombre de ses rues, de ses murs, de ses monuments, qui
 
 Je n’éprouve pas ce sentiment à Paris ou à Londres. Peut-être parce que la lumière du Nord ne marque pas les ombres qui y sont moins radicales, moins profondes, moins tristes. Dans le Midi, l’ombre m’avale et la ville me repousse vers les montagnes ou le littoral.
 
-Béziers m’a toujours donné l’impression d’être une ville du XIX^e^ siècle échouée dans l’avenir, un peu comme le centre de Lisbonne. De ces endroits où même les véhicules modernes n’apportent pas leur modernité. Sorte d’impuissance devant les fers forgés des balcons, les lampadaires à gueule de lanterne et les façades théâtrales. Les squelettes des platanes n’y changent rien.
+Béziers m’a toujours donné l’impression d’être une ville du XIX<sup>e</sup> siècle échouée dans l’avenir, un peu comme le centre de Lisbonne. De ces endroits où même les véhicules modernes n’apportent pas leur modernité. Sorte d’impuissance devant les fers forgés des balcons, les lampadaires à gueule de lanterne et les façades théâtrales. Les squelettes des platanes n’y changent rien.
 
 Je me suis assis sur un banc à l’extrémité nord des Allées Paul Riquet, au cul du rond point bruyant, parce le soleil le fouette de face et sans partage.
 

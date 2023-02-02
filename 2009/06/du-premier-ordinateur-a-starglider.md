@@ -12,13 +12,13 @@ Le vent du sud se calma mais le capitaine jugea la météo encore instable. Il p
 
 Elias Stadiatos se trouvaient à 60 mètres de fond lorsqu’il tira sur la corde de sécurité. Il émergea en criant qu’il avait découvert des cadavres d’hommes et de chevaux. Croyant qu’Elias souffrait de l’ivresse des profondeurs, le capitaine plongea à son tour. Il s’approcha d’une silhouette fantomatique enrobée de sédiments. Il lui saisit le bras et l’arracha, c’était le bras en bronze d’une statue antique. Les pêcheurs avaient découvert l’épave d’un navire romain qui aurait sombré vers 65 avant Jésus-Christ alors que, chargé de trésors, il regagnait l’Italie.
 
-Durant les deux ans qui suivirent, les archéologues explorèrent le site. Le 17 mai 1902, ils notèrent non loin de l’épave une roue avec engrenages enchâssée dans un rocher. C’était comme si une horloge avait été immergée durant deux millénaires. Mais les horloges de cette complexité ne furent inventées qu’au XIX^e^ siècle par les horlogers suisses !
+Durant les deux ans qui suivirent, les archéologues explorèrent le site. Le 17 mai 1902, ils notèrent non loin de l’épave une roue avec engrenages enchâssée dans un rocher. C’était comme si une horloge avait été immergée durant deux millénaires. Mais les horloges de cette complexité ne furent inventées qu’au XIX<sup>e</sup> siècle par les horlogers suisses !
 
 ![machine d'anticythere](https://tcrouzet.com/images_tc/2009/06/nama_machine_danticythere_1.jpg)
 
 — Cet appareil est tout simplement extraordinaire, explique [le professeur Michael Edmunds qui étudie ce mécanisme](http://en.wikipedia.org/wiki/Antikythera_mechanism). Le seul de son espèce. Au regard de sa valeur historique, je le considère comme plus précieux que la Joconde.
 
-Michael Edmunds et son équipe découvrirent sur les engrenages des inscriptions qui laissent supposer une [origine syracusaine du mécanisme](http://news.bbc.co.uk/2/hi/science/nature/7533457.stm) et qui le rattachent au III^e^ siècle avant Jésus-Christ et à Archimède. Celui que l’on considère comme le plus grand mathématicien et ingénieur de tous les temps aurait été le créateur du mécanisme, tout au moins d’un de ses prototypes, car le modèle exhumé fut assemblé entre 150 et 100 avant Jésus-Christ.
+Michael Edmunds et son équipe découvrirent sur les engrenages des inscriptions qui laissent supposer une [origine syracusaine du mécanisme](http://news.bbc.co.uk/2/hi/science/nature/7533457.stm) et qui le rattachent au III<sup>e</sup> siècle avant Jésus-Christ et à Archimède. Celui que l’on considère comme le plus grand mathématicien et ingénieur de tous les temps aurait été le créateur du mécanisme, tout au moins d’un de ses prototypes, car le modèle exhumé fut assemblé entre 150 et 100 avant Jésus-Christ.
 
 Les anciens construisirent cette horlogerie pour prévoir la position des planètes et anticiper les éclipses. Des engrenages et des roues de bronze représentaient le soleil, la lune, la terre et leurs orbites. Quand ils s’animaient, ils imitaient l’univers, ils le simulaient.
 

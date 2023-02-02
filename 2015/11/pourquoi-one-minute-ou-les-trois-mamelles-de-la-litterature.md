@@ -18,13 +18,13 @@ De tous mes textes, *One Minute* est celui où les trois axes s’harmonisent le
 
 4. Derrière le barrage, nous avons un monde d’accumulation et d’empilement, où les figures archétypales sont moins puissantes que par le passé. Il existe des millions d’écrivains, d’artistes, de penseurs, de scientifiques, tous avec des choses intéressantes à dire. Du côté politique, ça va, ça vient. L’époque n’est pas aux héros, mais aux foules intelligentes ([*Le cinquième pouvoir*](https://tcrouzet.com/le-cinquieme-pouvoir/)). Il me fallait passer peu de temps avec chacun des personnages et donc les multiplier, d’où la volonté d’écrire 365 minutes au minimum.
 
-5. Plutôt que d’ouvrir les vannes qui libéreraient les tensions, collectivement nous colmatons les brèches, repoussant pour plus tard le moment de la catastrophe. Le désir de contrôle et les hiérarchies nous empêchent d’accroître notre niveau d’intelligence collective et donc de résoudre les problèmes complexes qui nous explosent à la figure au XXI^e^ siècle.
+5. Plutôt que d’ouvrir les vannes qui libéreraient les tensions, collectivement nous colmatons les brèches, repoussant pour plus tard le moment de la catastrophe. Le désir de contrôle et les hiérarchies nous empêchent d’accroître notre niveau d’intelligence collective et donc de résoudre les problèmes complexes qui nous explosent à la figure au XXI<sup>e</sup> siècle.
 
 6. Nous vivons au rythme de la technologie pour le meilleur et pour le pire. Impossible de raconter notre époque sans introduire partout la technologie.
 
 ### Le projet formel
 
-Pour décrire l’état mental de l’humanité à un moment charnière de son histoire, il me fallait une forme adaptée à cet état (la même forme aurait introduit une dissonance si j’avais décrit avec une minute antérieure au XXI^e^ siècle).
+Pour décrire l’état mental de l’humanité à un moment charnière de son histoire, il me fallait une forme adaptée à cet état (la même forme aurait introduit une dissonance si j’avais décrit avec une minute antérieure au XXI<sup>e</sup> siècle).
 
 1. Refuser le héros et donner la parole uniquement aux seconds rôles, dans l’idée de montrer que nous faisons tous l’Histoire (refus du modèle hiérarchique). Parler d’aujourd’hui par une myriade de points de vue. Reprendre et amplifier le mécanisme du *Quatuor d’Alexandrie* de Lawrence Durrell (avec une pensée pour la série *The Affair*). La vérité n’existe pas. Sara Cash est tantôt une beauté, tantôt une laideur (et le point faible de l’époque parce que trop de gens s’intéressent à elle).
 

@@ -8,7 +8,7 @@ Dans ses [Commentaires sur les quatre libertés économiques](http://www.creatio
 
 Cette définition contient deux termes étroitement liés, « peut réaliser » et « non-nuisance ». Le second est posé sans être suffisamment discuté. Après cette discussion bien des choses peuvent soudain se brouiller, un magnifique édifice vaciller.
 
-Un exemple. Quand on a commencé à construire des moteurs à explosion au XIX^e^ siècle, on n’a pas pensé au réchauffement climatique, ce point était hors du pensable. Souvent quand on fait quelque chose, on ne sait pas si on va nuire ou ne pas nuire à plus ou moins longue échéance. Parfois même, on croit œuvrer pour le bien d’autrui tout en lui nuisant : le modèle soviétique ou, plus bêtement, les herbicides censés simplifier la vie des agriculteurs mais qui démultiplient leurs chances de cancer (et les nôtres).
+Un exemple. Quand on a commencé à construire des moteurs à explosion au XIX<sup>e</sup> siècle, on n’a pas pensé au réchauffement climatique, ce point était hors du pensable. Souvent quand on fait quelque chose, on ne sait pas si on va nuire ou ne pas nuire à plus ou moins longue échéance. Parfois même, on croit œuvrer pour le bien d’autrui tout en lui nuisant : le modèle soviétique ou, plus bêtement, les herbicides censés simplifier la vie des agriculteurs mais qui démultiplient leurs chances de cancer (et les nôtres).
 
 **Ce qui est nuisant ou non-nuisant n’est très souvent pas de l’ordre du connaissable.** Quand nous agissons, nous ne pouvons presque jamais avoir de certitude quant à la non-nuisance de nos actes dans l’espace-temps. Certaines nuisances peuvent même s’avérer bénéfiques à terme.
 

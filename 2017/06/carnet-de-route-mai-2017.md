@@ -2,7 +2,7 @@
 
 
 
-### Lundi 1^er^, Genève
+### Lundi 1<sup>er</sup>, Genève
 
 Je lis une biographie de Camus par Onfray, ramassée au hasard sur une table de la maison Pittet. J’y trouve une belle définition d’anarchiste : « Qui refuse de suivre autant que de guider. » Voilà pourquoi j’aime me contredire, changer de point de vue, pour éviter de me transformer en maître à penser. Un être libre doit être capable de perdre ceux qui cherchent à le suivre.
 
