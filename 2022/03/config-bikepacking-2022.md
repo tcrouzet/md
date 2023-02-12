@@ -1,6 +1,10 @@
 # Journal d&#8217;une config bikepacking
 
-Plutôt que de publier de temps à autre ma configuration bikepacking, je tiens un journal de configuration, [résumé par un tableau détaillé]((https://docs.google.com/spreadsheets/d/1Co6BJql8z7uWCvAokGcDrKaEyAMb-X_zLue6_id3nB4/edit?usp=sharing)) (MAJ juillet 2022).<span id="more-63784"></span>
+Plutôt que de publier de temps à autre ma configuration bikepacking, je tiens un journal de configuration, [résumé par un tableau détaillé]((https://docs.google.com/spreadsheets/d/1Co6BJql8z7uWCvAokGcDrKaEyAMb-X_zLue6_id3nB4/edit?usp=sharing)) (MAJ février 2023).<span id="more-63784"></span>
+
+### Avril 2023
+
+Configuration type pour un [727](/traces-gravel-et-vtt/). Début avril dans l'Hérault, on peut se retrouver en été comme en hiver, donc il faut ajuster les fringues et le matos de bivouac au dernier moment. Souvent je pars avec la tente et le bivy. Je ne prévois pas de changer grand chose.
 
 ### Juillet 2022
 
