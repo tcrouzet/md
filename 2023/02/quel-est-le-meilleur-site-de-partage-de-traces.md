@@ -58,7 +58,7 @@ Le problème : GoogleMap ne travaille pas en GPX. Il faut exporter les données
 
 ![POI sur 727](https://tcrouzet.com/images_tc/2023/02/visu727.jpg)
 
-Je me suis donc bricolé un script pour convertir mes traces et POI GoogleMap de façon à pouvoir les importer sur [VisuGPX](https://www.visugpx.com/) et [RideWithGPS](https://ridewithgps.com/), les deux seuls services à mes yeux qui possèdent toutes les fonctions indispensables.
+[Je me suis donc bricolé un script pour convertir mes traces et POI GoogleMap](https://bikepacking.000webhostapp.com/gpx/) de façon à pouvoir les importer sur [VisuGPX](https://www.visugpx.com/) et [RideWithGPS](https://ridewithgps.com/), les deux seuls services à mes yeux qui possèdent toutes les fonctions indispensables.
 
 - POI, repérés par des icônes.
 
@@ -78,6 +78,6 @@ S’il est fastidieux avec GoogleMap, il est transparent avec VisuGPX comme Ride
 
 En conclusion, si RideWithGPS est d'un usage intuitif et d'un design épuré, VisuGPX est une machine de guerre, dont je ne cesse de découvrir les possibilités. Je suis désormais incapable de m'en passer. En plus d'être mon premier choix pour la création de traces, il est désormais aussi mon premier choix pour le partage. Il offre des possibilités que je ne trouve pas ailleurs, comme le choix des paramètres de lissage pour le calcul du dénivelé, ce qui me permet de tenir compte des particularités du terrain. Côté utilisateur, téléchargement et synchronisation GPS sont immédiats, avec la garantie d'obtenir une trace impeccable et potentiellement enrichie.
 
-![727](https://tcrouzet.com/images_tc/2023/02/flash727.png)
+![Flash code 727](https://tcrouzet.com/images_tc/2023/02/flash727i727.png)
 
 Vous pouvez même flasher ce code pour lancer le téléchargement du 727 sur votre mobile.

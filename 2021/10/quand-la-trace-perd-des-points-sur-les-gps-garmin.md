@@ -10,28 +10,28 @@ Quelques recherches en ligne me font tomber sur une note, [selon laquelle des po
 
 ### Premier bug
 
-![Test de la validité d'une trace](https://tcrouzet.com/images_tc/2021/10/gbug-1.png)
+![Test de la validité d'une trace](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/gbug-1.png)
 
 Pour tester si une trace générée par BaseCamp est valide ou non, j’ai initialement pensé avoir découvert une méthode : je l’enregistrais en GPX et tentais de la charger dans [Garmin Connect](https://connect.garmin.com/modern/import-data). En cas de refus, je supposais que, si j’envoyais directement sur le GPS cette trace, j’aurai des problèmes. À noter que Garmin Connect peut refuser une trace, mais pas mon 530.
 
 En revanche, si je publie ma trace sur [OpernRunner](https://www.openrunner.com/), la télécharge, puis la charge sur Garmin Connect, je n’ai aucun problème. De toute évidence OpernRunner corrige quelque chose dans la trace (mais pas [Calculitineraires](https://www.calculitineraires.fr/), [GPSVisualizer](https://www.gpsvisualizer.com/convert_input), [VisuGPX](https://www.visugpx.com/), [GPSviewer](https://fr-fr.gps-viewer.com/), [AllTrails](https://www.alltrails.com/fr/converter/), Strava ou UtagawavVTT).
 
-Pourquoi est-ce que ça marche avec OpenRunner et pas avec la plupart des autres applications ? J’ai dû plonger dans le XML des fichiers GPS pour comprendre. OpenRunner horodate les traces, c’est-à-dire qu’il leur ajoute des temps de passages aux différents points, même s’il n’en existe pas sur la trace originale. Garmin Connect a donc besoin de fichiers horodatés (et, sauf erreur, BaseCamp ne sait pas en produire). Mais voilà qui n’explique pas la disparition des points.
+Pourquoi est-ce que ça marche avec OpenRunner et pas avec la plupart des autres applications ? J'ai dû plonger dans le XML des fichiers GPS pour comprendre. OpenRunner horodate les traces, c'est-à-dire qu'il leur ajoute des temps de passages aux différents points, même s'il n'en existe pas sur la trace originale. Garmin Connect a donc besoin de fichiers horodatés (et, sauf erreur, BaseCamp ne sait pas en produire). Mais voilà qui n'explique pas la disparition des points.
 
 ### Second bug
 
-Sur l’i727, j’ai constaté que ma trace, bien que validée par Garmin Connect, continuait à prendre quelques liberté avec mon tracé. Une fois de retour, j’ai chargé plusieurs versions de la trace sur mon 530 et j’ai comparé leur rendu sur le terrain.
+Sur l'i727, j'ai constaté que ma trace, bien que validée par Garmin Connect, continuait à prendre quelques liberté avec mon tracé. Une fois de retour, j'ai chargé plusieurs versions de la trace sur mon 530 et j'ai comparé leur rendu sur le terrain.
 
-![Une trace, des rendus variables](https://tcrouzet.com/images_tc/2021/10/tracesbug.jpg)
+![Une trace, des rendus variables](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/tracesbug.jpg)
 
-L’image ci-dessus montre le fichier source sur fond IGN tel que visualisé sur BaseCamp, puis son rendu sur le Garmin, dans le premier cas relativement fidèle quand la trace a été récupérée sur OpenRunner, dans le second très approximative quand elle passe par les autres services ou même provient directement de BaseCamp.
+L'image ci-dessus montre le fichier source sur fond IGN tel que visualisé sur BaseCamp, puis son rendu sur le Garmin, dans le premier cas relativement fidèle quand la trace a été récupérée sur OpenRunner, dans le second très approximative quand elle passe par les autres services ou même provient directement de BaseCamp.
 
-J’ai ouvert les fichiers GPX pour les analyser. Si la source comporte 12 323 points sur BaseCamp, le fichier OpenRunner n’en comporte que 9 325 ! Voilà déjà qui explique pourquoi le tracé OpenRunner est moins précis que l’original. Problème, les autres fichiers comportent davantage de points tout en étant moins précis.
+J'ai ouvert les fichiers GPX pour les analyser. Si la source comporte 12 323 points sur BaseCamp, le fichier OpenRunner n'en comporte que 9 325 ! Voilà déjà qui explique pourquoi le tracé OpenRunner est moins précis que l'original. Problème, les autres fichiers comportent davantage de points tout en étant moins précis.
 
-Et si, au-delà d’un certain nombre de points, les GPS Garmin simplifiaient la trace sans avertir l’utilisateur ? Je suis retourné sur le terrain avec la trace de l’i727 grandement raccourcie, et là, miracle, le rendu était parfait. Le problème n’est donc pas une question d’horodatage, mais d’un nombre de points au-delà duquel le Garmin filtre la trace, un peu au petit bonheur.
+Et si, au-delà d'un certain nombre de points, les GPS Garmin simplifiaient la trace sans avertir l'utilisateur ? Je suis retourné sur le terrain avec la trace de l'i727 grandement raccourcie, et là, miracle, le rendu était parfait. Le problème n'est donc pas une question d'horodatage, mais d'un nombre de points au-delà duquel le Garmin filtre la trace, un peu au petit bonheur.
 
-![Dégradation de la trace](https://tcrouzet.com/images_tc/2021/10/points-1.jpg)
+![Dégradation de la trace](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/points-1.jpg)
 
-L’image ci-dessus montre comment la trace se dégrade quand le nombre de points augmente. D’après mes estimations, sur mon Edge 530, la zone de filtrage survient au-dessus des 8 000 points, même si Garmin Connect accepte des fichiers [allant jusqu’à 99 999 points](https://support.garmin.com/en-US/?faq=EWm0A6dgWu2OTV4bVYXWK6).
+L'image ci-dessus montre comment la trace se dégrade quand le nombre de points augmente. D'après mes estimations, sur mon Edge 530, la zone de filtrage survient au-dessus des 8 000 points, même si Garmin Connect accepte des fichiers [allant jusqu'à 99 999 points](https://support.garmin.com/en-US/?faq=EWm0A6dgWu2OTV4bVYXWK6).
 
-Moralité il faut découper les traces pour que les GPS Garmin les affichent correctement alors que les Wahoo s’en tirent parfaitement dans tous les cas. Si sur route le filtrage cause rarement des problèmes, il devient pénible dans les secteurs VTT avec beaucoup de singles, ce qui entraîne sans cesse des hésitations, surtout en bikepacking. [Je me suis donc bricolé une petite appli pour découper automatiquement mes traces.](https://lab.tcrouzet.com/gpx/)
+Moralité il faut découper les traces pour que les GPS Garmin les affichent correctement alors que les Wahoo s'en tirent parfaitement dans tous les cas. Si sur route le filtrage cause rarement des problèmes, il devient pénible dans les secteurs VTT avec beaucoup de singles, ce qui entraîne sans cesse des hésitations, surtout en bikepacking. [Je me suis donc bricolé une petite appli pour découper automatiquement mes traces.](https://bikepacking.000webhostapp.com/gpx/)

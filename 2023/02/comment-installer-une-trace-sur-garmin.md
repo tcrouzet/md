@@ -82,6 +82,12 @@ Pour vérifier le transfert, je sélectionne le GPS et des les POI s’affichent
 
 Il s'agit d'une variante de la méthode précédente. Quand le GPS est connecté à l'ordinateur par câble USB, il apparaît comme un disque externe, avec un dossier Garmin, et, dans ce dossier, un sous-dossier NewFiles, dans lequel on peut déposer des fichiers GPX. Quand le GPS redémarre après avoir été débranché, les GPX sont transformés en fichiers FIT et déplacés dans le dossier Courses. Cette méthode évite d'installer BaseCamp (et elle ne plante pas). Les POI sont transférés (pour les supprimer je passe par BaseCamp). J'utilise également cette méthode pour nettoyer le dossier Courses. J'évite de stocker trop d'itinéraires sinon dérouler la liste avant le début d'une sortie est trop pénible. J'en profite pour purger le dossier Activities qui liste mes sorties enregistrées.
 
+### 6. POI Loader
+
+Garmin propose l'utilitaire [POI Loader](https://www8.garmin.com/support/collection.jsp?product=999-99999-12) pour charger ou effacer les POI. Il travaille à partir de fichier GPX ou CSV, notamment ceux exportables directement depuis les cartes GoogleMap. On peut ainsi de créer des POI sur GoogleMap, exporter le CSV, l'importer dans le GPS.
+
+![POI Loader](https://tcrouzet.com/images_tc/2023/02/poiLoader.png)
+
 Suivant les situations, j'utilise l'une ou l'autre de ces méthodes de synchronisation. Si vous n'êtes pas geek, la première sera sans doute la plus pratique.
 
 *PS : [dans un autre article](https://tcrouzet.com/2021/03/24/comment-suivre-une-trace-gps-en-bikepacking/), j’ai présenté ma méthode pour suivre une trace bikepacking.*
