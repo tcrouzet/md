@@ -72,7 +72,7 @@ Quand j’ouvre avec BaseCamp le GPX du 727 téléchargé depuis VisuGPX, je ret
 
 ![Transfert des POI](https://tcrouzet.com/images_tc/2023/02/bc02.jpg)
 
-Pour éviter que BaseCamp ne plante, j’envoie la trace, puis les POI.
+Pour éviter que BaseCamp ne plante, j’envoie la trace, puis les POI qui se retrouve dans un fichier Waypoints.FIT du dossier NewFiles.
 
 ![POI importés](https://tcrouzet.com/images_tc/2023/02/bc03.jpg)
 
@@ -80,11 +80,11 @@ Pour vérifier le transfert, je sélectionne le GPS et des les POI s’affichent
 
 ### 5. Synchro directe
 
-Il s'agit d'une variante de la méthode précédente. Quand le GPS est connecté à l'ordinateur par câble USB, il apparaît comme un disque externe, avec un dossier Garmin, et, dans ce dossier, un sous-dossier NewFiles, dans lequel on peut déposer des fichiers GPX. Quand le GPS redémarre après avoir été débranché, les GPX sont transformés en fichiers FIT et déplacés dans le dossier Courses. Cette méthode évite d'installer BaseCamp (et elle ne plante pas). Les POI sont transférés (pour les supprimer je passe par BaseCamp). J'utilise également cette méthode pour nettoyer le dossier Courses. J'évite de stocker trop d'itinéraires sinon dérouler la liste avant le début d'une sortie est trop pénible. J'en profite pour purger le dossier Activities qui liste mes sorties enregistrées.
+Il s'agit d'une variante de la méthode précédente. Quand le GPS est connecté à l'ordinateur par câble USB, il apparaît comme un disque externe, avec un dossier garmin, et, dans ce dossier, un sous-dossier NewFiles, dans lequel on peut déposer des fichiers GPX. Quand le GPS redémarre après avoir été débranché, les GPX sont transformés en fichiers FIT et déplacés dans le dossier Courses. Cette méthode évite d'installer BaseCamp (et elle ne plante pas). Les POI sont transférés, mais les icônes sont souvent altérées au passage (pour les supprimer je passe par BaseCamp). J'utilise également cette méthode pour nettoyer le dossier Courses. J'évite de stocker trop d'itinéraires sinon dérouler la liste avant le début d'une sortie est trop pénible. J'en profite pour purger le dossier Activities qui liste mes sorties enregistrées.
 
 ### 6. POI Loader
 
-Garmin propose l'utilitaire [POI Loader](https://www8.garmin.com/support/collection.jsp?product=999-99999-12) pour charger ou effacer les POI. Il travaille à partir de fichier GPX ou CSV, notamment ceux exportables directement depuis les cartes GoogleMap. On peut ainsi de créer des POI sur GoogleMap, exporter le CSV, l'importer dans le GPS.
+Garmin propose l'utilitaire [POI Loader](https://www8.garmin.com/support/collection.jsp?product=999-99999-12) pour charger ou effacer les POI. Il travaille à partir de fichier GPX ou CSV, notamment ceux exportables directement depuis les cartes GoogleMap. On peut ainsi de créer des POI sur GoogleMap, exporter le CSV, l'importer dans le GPS. On les retrouve dans le dossier garmin/POI dans un fichier gpi. Je trouve cette méthode assez aléatoire (ne fonctionne pas avec les POI du 727 par exemple).
 
 ![POI Loader](https://tcrouzet.com/images_tc/2023/02/poiLoader.png)
 

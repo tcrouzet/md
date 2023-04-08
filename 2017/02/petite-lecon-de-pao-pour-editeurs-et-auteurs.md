@@ -1,6 +1,6 @@
 # Petite leçon de PAO pour éditeurs et auteurs
 
-Chaque fois que je termine un livre, chaque fois que je travaille avec des éditeurs, je suis affligé par la lenteur et la lourdeur des procédures techniques. Pour moi, mes logiciels sont mes pinceaux, les rouages de [*La mécanique du texte*](https://tcrouzet.com/la-mecanique-du-texte/), pour les autres, des contraintes dont on ne cherche pas à exploiter les possibilités.
+Chaque fois que je termine un livre, chaque fois que je travaille avec des éditeurs, je suis affligé par la lenteur et la lourdeur des procédures techniques. Pour moi, mes logiciels sont mes pinceaux, les rouages de [*La mécanique du texte*](http://tcrouzet.com/la-mecanique-du-texte/), pour les autres, des contraintes dont on ne cherche pas à exploiter les possibilités.
 
 Je me sens une fois de plus obligé de décrire comment on devrait travailler aujourd’hui, c’est-à-dire en séparant le contenu de sa forme le plus longtemps possible, et de préférence indéfiniment, de telle façon qu’il soit à tout moment possible de corriger le texte.
 
@@ -30,7 +30,7 @@ Quand j’écris, je le fais dans un éditeur de texte qui m’interdit de faire
 
 Mais il me faut bien pouvoir dire d’un paragraphe, c’est un titre, un sous-titre, ce texte commence sur une nouvelle page… Voilà pourquoi nous écrivons désormais en [Markdown](https://fr.wikipedia.org/wiki/Markdown). Nous insérons dans le texte des balises bien visibles pour déclarer les éléments de structure (niveau de titre, citations, saut de section…) et les réglages typographiques élémentaires (italique, gras, liens…).
 
-Il existe [des dizaines d’éditeurs Markdown](https://tcrouzet.com/2016/10/19/les-outils-de-lecrivain/). J’utilise [Ulysses](https://www.ulyssesapp.com/) parce qu’il a été spécialement pensé pour les auteurs. Écrire en Markdown, c’est se concentrer sur l’essentiel, c’est accepter dès le départ que la forme d’un texte sera traitée plus tard. Cela impose de ne penser qu’au texte et à rien d’autre. On s’habitue très vite à cette gymnastique (puis ont se demande comment on a pu écrire un jour en [WYSIWYG](https://fr.wikipedia.org/wiki/What_you_see_is_what_you_get)).
+Il existe [des dizaines d’éditeurs Markdown](http://tcrouzet.com/2016/10/19/les-outils-de-lecrivain/). J’utilise [Ulysses](https://www.ulyssesapp.com/) parce qu’il a été spécialement pensé pour les auteurs. Écrire en Markdown, c’est se concentrer sur l’essentiel, c’est accepter dès le départ que la forme d’un texte sera traitée plus tard. Cela impose de ne penser qu’au texte et à rien d’autre. On s’habitue très vite à cette gymnastique (puis ont se demande comment on a pu écrire un jour en [WYSIWYG](https://fr.wikipedia.org/wiki/What_you_see_is_what_you_get)).
 
 ### Premières relectures
 
@@ -54,7 +54,7 @@ Ulysses dispose de filtres d’exportation PDF parfaits pour la relecture. D’u
 
 Première étape, effectuer une nouvelle exportation en DOCX, en choisissant une feuille de style minimaliste (j’en ai une spécialement adaptée à InDesign). Les balises Markdown sont associées aux styles Titre 1, Titre 2, Normal…
 
-Pour peu que dans InDesign on utilise les mêmes noms de style (ceux de Word d’ailleurs), le coulage s’effectue automatiquement lors de l’importation. Le livre se monte en un instant.
+Pour peu que dans InDesign on utilise les mêmes noms de style (ceux de Word d'ailleurs), le coulage s’effectue automatiquement lors de l’importation. Le livre se monte en un instant.
 
 Je lance alors une petite macro qui règle certains détails, comme la notation typographique des siècles non prise en compte en Markdown. Cette macro vérifie également l’usage des espaces insécables.
 
