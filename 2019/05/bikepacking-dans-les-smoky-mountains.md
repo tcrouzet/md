@@ -2,13 +2,13 @@
 
 Depuis des mois, je peste contre la platitude de la Floride, pas franchement des plus excitantes pour un cycliste, surtout quand on ajoute à une chaleur humide à couper au couteau des automobilistes pour le moins exaspérants, pour ne pas dire criminels. J’ai donc lorgné sur les premières élévations à ma portée, les [Smoky Moutains](https://en.wikipedia.org/wiki/Great_Smoky_Mountains) qui parachèvent les [Blue Ridge Mountains](https://en.wikipedia.org/wiki/Blue_Ridge_Mountains), partie orientale de la chaîne des [Appalaches](https://en.wikipedia.org/wiki/Appalachian_Mountains), entre Tennessee et Caroline du Nord, avec une pointe en Géorgie. Mais ce n’est pas la porte à côté. Il faut remonter la Floride, passer Orlando, puis la ville universitaire de Gainesville, entrer en Géorgie, traverser Atlanta, avant d’enfin apercevoir les premiers moutonnements. Pas moins de onze heures de route. Il me fallait donc une grande occasion. Kim Jordan Murrell me l’a donnée en organisant pour la seconde année [la Vista 300/Moutain 420](https://www.chilhoweeoutdoors.com/), une boucle pour bikepackers avec de belles escalades au programme.<span id="more-51598"></span>
 
-![Mes entraînements](https://tcrouzet.com/images_tc/2019/05/vista-600x450.jpg)
+![Mes entraînements](https://tcrouzet.com/images_tc/2019/05/vista.jpg)
 
 Comment m’entraîner ? Depuis des mois, tout juste si je grimpe deux ou trois fois par semaine les seize mètres de dénivelé de Vista View Park, un tas d’ordures paysagées à dix kilomètres de chez moi, parcouru de sentiers qui montent descendent, avec parfois des pentes à 20 %. J’ai pris mon courage à deux mains. Durant le mois d’avril, j’ai effectué entre trois et quatre entraînements par semaine sur ce terrain austère, montant, descendant, parfois en moulinant, parfois en forçant, me livrant malgré moi à des fractionnés exténuants et déprimants. Le matin, j’avais presque la nausée à l’idée de devoir encore et encore enchaîner les mêmes stupides séances pour finalement cumuler entre 700 et 800 m de dénivelé.
 
 En ligne, je discutais avec la quarantaine d’autres participants à l’aventure, les uns inscrits dans [The Vista (316 mi/35 000 ft)](https://ridewithgps.com/routes/29412943), les autres dans [The Moutain (429 mi/49 000 ft)](https://ridewithgps.com/routes/29253694). Je voulais trouver des compagnons de route. Pour moi, rouler seul c’est comme jouer au tennis contre un mur. Ça n’a pas beaucoup d’intérêt. La plupart des participants ayant choisi The Moutain, je les ai imités, dans l’espoir de tomber sur un bikepacker de mon niveau et dans le même état d’esprit que moi, c’est-à-dire rouler à la lumière du jour si possible.
 
-![Profil de The Vista](https://tcrouzet.com/images_tc/2019/05/profil-600x88.jpg)
+![Profil de The Vista](https://tcrouzet.com/images_tc/2019/05/profil.jpg)
 
 J’ai fait chou blanc. La plupart venaient avec le but de boucler le parcours le plus vite possible, c’est-à-dire de rouler jusqu’à épuisement. Faire une sieste au bord du chemin, repartir. Il ne s’agit alors pas de bikepacking, mais plutôt de survie. Moi, j’avais l’intention de planter ma tente à la tombée de la nuit et de la démonter à l’aube. Pour eux, dormir, c’était perdre du temps.
 
@@ -22,8 +22,6 @@ Aussi, l’avant-veille du départ, quand Scotty me propose de couper la route e
 
 Même si quelques semaines plutôt Scotty a bouclé la [Florida Divide](https://www.singletracksamurai.com/florida-divide), il n’est guère plus rassuré que moi. Nous décidons de partir ensemble, même si Scotty se dit lent, mais suis-je vraiment plus rapide ? Je n’en sais rien. Notre statut de vétérans de l’épreuve nous rapproche. Scotty me donne une mission : « Demain, tu arriveras avant moi dans les Smokies. Tout de suite après le départ de la course, on doit traverser une rivière. Il paraît que l’année dernière ils avaient de l’eau jusqu’à la poitrine. Tu peux aller voir ? Si c’est trop profond, on fera le détour proposé par Kim. »
 
-<div class="iframe" id="iframe11"></div>
-
 ### Vendredi 17 mai
 
 Je pars à l’aube de chez Scotty, lui-même devant déposer ses chiens dans un chenil plus tard dans la matinée avant de prendre la route. Très vite je rejoins l’interminable interstate 75, qui dessine de lentes vagues entre deux lignes d’arbres où s’intercalent d’immenses billboards à l’approche des agglomérations.
@@ -32,13 +30,13 @@ Une idée de roman surgit, la première depuis des mois, je m’amuse avec penda
 
 Après l’entrée en Géorgie, les paysages deviennent plus agraires en même temps que plus vallonnés, sans que l’horizon n’ait quoi que ce soit à révéler. Les heures filent accompagnées de ma rêverie romanesque. Le trafic s’épaissit à l’approche d’Atlanta, dont bientôt j’aperçois la skyline peu spectaculaire. La 75 traverse la ville, sans ne rien en dire. Je lui tourne le dos, filant toujours vers le nord, jusqu’à emprunter la 411, une vieille nationale quasi parallèle.
 
-J’entre dans une Amérique oubliée, une Amérique en perdition, avec des baraques délabrées, des carcasses de voitures, des squelettes de stations-service, datant de l’époque où la 411 était un axe d’importance. Par miracle, soudain, des bicoques pimpantes à l’ombre de vénérables chênes, endormies à tout jamais, souvenir d’un autre temps qui me fait penser à Simak. Impossible ne pas songer [*Au carrefour des étoiles*](https://www.amazon.fr/Au-carrefour-%C3%A9toiles-Clifford-Simak/dp/2277118478/), roman que j’ai relu à mon arrivée en Floride avec un plaisir intact. Quel livre ! Peut-être que j’ai commencé à écrire à cause de lui.
+J’entre dans une Amérique oubliée, une Amérique en perdition, avec des baraques délabrées, des carcasses de voitures, des squelettes de stations-service, datant de l’époque où la 411 était un axe d’importance. Par miracle, soudain, des bicoques pimpantes à l’ombre de vénérables chênes, endormies à tout jamais, souvenir d’un autre temps qui me fait penser à Simak. Impossible ne pas songer [*Au carrefour des étoiles*](https://www.amazon.fr/Au-carrefour-%C3%A9toiles-Clifford-Simak/dp/2277118478/), roman que j’ai relu à mon arrivée en Floride avec un plaisir intact. Quel livre ! Peut-être que j'ai commencé à écrire à cause de lui.
 
 Peu à peu la ligne bleue des Smokies apparaît, d’un bleu vaporeux, à déguster à la petite cuillère avec de grandes goulées de soleil. Un bleu de mirage, mais un bleu bien réel, un bleu dégazé par les arbres, l’[isoprène](.https://fr.wikipedia.org/wiki/Isopr%C3%A8ne) dont le voile a inspiré le nom de cette chaîne de vieilles montagnes.
 
-Je ne suis plus qu’à dix kilomètres de Reliance, le point de départ de la course. Avant de quitter la 411, j’ai une pensée déplacée pour mes tétons. Parfois, à vélo, plus souvent quand je cours, le maillot les abrase et la douleur devient quasi insupportable. J’ai oublié d’emporter du sparadrap pour me protéger, au cas où. Je m’arrête à un convenience store dotté d’une étroire porte, presque cachée. Une serveuse patibulaire. Deux tables avec banquette en moleskine le long de la baie vitrée. Je parcours les rayons à moitié vides, en vain.
+Je ne suis plus qu’à dix kilomètres de Reliance, le point de départ de la course. Avant de quitter la 411, j’ai une pensée déplacée pour mes tétons. Parfois, à vélo, plus souvent quand je cours, le maillot les abrase et la douleur devient quasi insupportable. J’ai oublié d’emporter du sparadrap pour me protéger, au cas où. Je m’arrête à un convenience store dotté d'une étroire porte, presque cachée. Une serveuse patibulaire. Deux tables avec banquette en moleskine le long de la baie vitrée. Je parcours les rayons à moitié vides, en vain.
 
-![Reliance](https://tcrouzet.com/images_tc/2019/05/map1-530x450.jpg)
+![Reliance](https://tcrouzet.com/images_tc/2019/05/map1.jpg)
 
 Une volée de lacets me conduit le long de l’Hiwassee river, un cours puissant, aperçu à travers les arbres. Bientôt un pont, un dernier virage, j’entre dans une vallée verdoyante et lumineuse. Me voilà au camping où tout doit commencer et se terminer. Il y a une maison de bois avec une terrasse ombragée où on propose des burgers. J’interroge la serveuse au sujet de la rivière à traverser. Elle fait les gros yeux, manifestement elle n’est jamais descendue plus bas que son arrière cuisine. Elle me désigne un grand gars assis plus loin, penché sur son téléphone.
 
@@ -48,39 +46,39 @@ J’évoque la mission confiée par Scotty. Mike propose de m’accompagner. Nou
 
 Après notre retour au camping, d’autres concurrents apparaissent. Tous se connaissent. Ils écument des courses d’endurance américaines. Ils évoquent leurs ambitions, me donnent des conseils, s’amusent les uns des autres. Kim arrive à son tour. Enthousiaste, généreuse, ouverte. Il règne une belle ambiance. Le soir nous nous rassemblons au bord de l’Hiwassee, autour d’un feu, pendant que la pleine lune se lève dans le V dessiné par la vallée. Je vais tôt me réfugier dans le dortoir, d’où me chasse une climatisation trop froide et trop bruyante. Je finis à l’arrière de mon minivan.
 
-![La traversée](https://tcrouzet.com/images_tc/2019/05/IMG_4749-600x450.jpg)
+![La traversée](https://tcrouzet.com/images_tc/2019/05/IMG_4749.jpg)
 
-![Camping](https://tcrouzet.com/images_tc/2019/05/IMG_4756-600x450.jpg)
+![Camping](https://tcrouzet.com/images_tc/2019/05/IMG_4756.jpg)
 
-![Camping](https://tcrouzet.com/images_tc/2019/05/IMG_4759-600x450.jpg)
+![Camping](https://tcrouzet.com/images_tc/2019/05/IMG_4759.jpg)
 
-![Camping](https://tcrouzet.com/images_tc/2019/05/IMG_4761-600x450.jpg)
+![Camping](https://tcrouzet.com/images_tc/2019/05/IMG_4761.jpg)
 
-![Pleine lune](https://tcrouzet.com/images_tc/2019/05/IMG_4771-600x450.jpg)
+![Pleine lune](https://tcrouzet.com/images_tc/2019/05/IMG_4771.jpg)
 
 ### Samedi 18 mai
 
 Le jour du verdict est arrivé, un jour clair, qui s’annonce limpide et chaud. Derniers préparatifs. Trace chargée sur nos GPS. Sacs arrimés à nos vélos. Kim nous dit quelques mots, vérifie que nous avons tous son téléphone. À ma grande surprise, la moitié des participants rouleront en gravel, certains ayant adopté tout de même une suspension avant. Pourtant d’anciens participants ont répété qu’ils conseillaient des VTT. Mais la mode est aux gravel. Les constructeurs ont tant clamé que ces vélos passaient partout que les gens finissent par les croire, [pas moi](https://tcrouzet.com/2019/05/08/un-an-de-gravel-retour-dexperience/).
 
-![Avant le départ](https://tcrouzet.com/images_tc/2019/05/kim1-start-1-600x400.jpg)
+![Avant le départ](https://tcrouzet.com/images_tc/2019/05/kim1-start-1.jpg)
 
-![Scotty au départ](https://tcrouzet.com/images_tc/2019/05/IMG_4775-591x450.jpg)
+![Scotty au départ](https://tcrouzet.com/images_tc/2019/05/IMG_4775.jpg)
 
 Le soleil s’est levé. Il est 6 h 49 quand Kim donne le départ. Les jeunots s’élancent à fond pendant que Scotty et moi les suivons sans nous presser, droit vers la première difficulté. Nous attaquons dans le dur. Un single humide et caillouteux à fort pourcentage. Comme prévu, les gravel sont à la peine, alors que rien n’arrête mes 2.6 pouces.
 
 Je monte au train, en souplesse, sans affoler mon cœur. Très vite je distance Scotty et rattrape quelques concurrents partis devant nous. Je rejoins un couple mené par une nana énergique, dont je découvrirai plus tard qu’il s’agit de Sara Dallman, notamment victorieuse de la [Tour Divide 2013](https://en.wikipedia.org/wiki/Tour_Divide), une des meilleures spécialistes américaines des courses d’endurance.
 
-![Première vue sur les Smokies](https://tcrouzet.com/images_tc/2019/05/IMG_4792-600x450.jpg)
+![Première vue sur les Smokies](https://tcrouzet.com/images_tc/2019/05/IMG_4792.jpg)
 
 Me sentant à ses basques, elle me demande de la dépasser, mais je refuse. Nous rattrapons des concurrents, les doublons. Nous rejoignons Mike, habillé en tenue d’Arlequin, qui s’est arrêté sur un promontoire pour prendre une photo. Je l’imite, laissant filer Sara et son compagnon. J’attends Scotty, en vain, restant éberlué face au déroulé bleu des Smokies. Je repars seul. Non loin du sommet, je rejoins Graham qui se déhanche sur son single speed. Il tire un faramineux 32-26. Nous faisons ensemble un bout de chemin sur la ligne de crête tout en discutant.
 
 Il me conseille bientôt de m’arrêter dans une clairière avec une table. « Profite de cet endroit, c’est un des rares avec une vue. Le plus souvent, on roulera entre les arbres. » Bonne idée, je vais attendre Scotty. Je grignote, bois. Au bout de cinq bonnes minutes arrive une nana agile. J’attends encore cinq minutes et toujours pas de Scotty, pas plus que d’autres concurrents.
 
-![Première pause](https://tcrouzet.com/images_tc/2019/05/IMG_4802-600x450.jpg)
+![Première pause](https://tcrouzet.com/images_tc/2019/05/IMG_4802.jpg)
 
 Je continue seul. Je croise un motard qui me prend en photo à l’embranchement où se séparent pour un temps la Vista et la Mountain. Me voilà sur des pistes forestières idéales pour les gravels. Je m’arrête dès que mes jambes tirent, je ne me surmène pas, mais personne ne me rejoint alors que je suis déjà revenu sur le tracé commun aux deux courses. Je bois beaucoup, vers 11 h il ne me reste plus qu’un litre d’eau. Il faut que je me ravitaille, mais jamais je ne vois la source repérée sur la carte. Je croise des rivières où je pourrais filtrer de l’eau, mais je ne m’arrête pas. Après une partie asphaltée, je change de massif et retrouve des pistes forestières, sans répit pour les jambes, sans grande distraction pour le regard.
 
-![Sur le vif](https://tcrouzet.com/images_tc/2019/05/kim4-1-600x450.jpg)
+![Sur le vif](https://tcrouzet.com/images_tc/2019/05/kim4-1.jpg)
 
 Seul, je trouve le temps long, et j’ai tendance à accélérer. J’ai maintenant envie d’atteindre le premier village, où je trouverai un restaurant. Il est 13 h quand j’arrive devant un ruisseau. Je me crois capable de le traverser sans me mouiller les pieds. Ça se passe plutôt en version sous-marin. Pas plus mal, il fait chaud et je suis heureux d’avoir les jambes rafraîchies, d’autant que plusieurs autres ruisseaux se présentent à travers lesquels je fonce.
 
@@ -88,7 +86,7 @@ Dans une montée, je découvre un jeune concurrent assis au bord de la piste, le
 
 Quand ma salade arrive, la serveuse apporte en même temps deux hamburgers pour Graham. J’explose de rire. Moi qui croyais qu’il s’était mis au vert. Je l’imite, mais un seul burger me suffira. Nous mangeons dans la bonne humeur. Nous parlons comme de vieux amis heureux de se retrouver. Nous avons fait connaissance en ligne. Graham a 44 ans, il vit à Atlanta, travaille dans la sonorisation haute fidélité. Il a déjà traversé à vélo les États-Unis d’ouest en est. C’est un bikepacker ultra expérimenté, un gars généreux, au regard lumineux.
 
-Vers 16 h, quand nous sortons du restaurant le ciel s’est couvert, il tombe trois gouttes. Graham me propose de l’accompagner jusqu’à la nuit, mais je ne veux pas lui faire perdre de temps, d’autant que je dois me ravitailler à une station-service (lui dispose d’assez de protéines et de glucides pour tout son voyage, il faut dire qu’il ne transporte rien d’autre à part un sac de couchage). Alors qu’il s’en va, deux concurrents arrivent, dont le gars qui agonisait au bord du chemin et un autre avec un casque orange fluo. Il me dit : « Tu es Français, c’est ça ? » Il me raconte qu’il a passé trois semaines à Lyon quand il était plus jeune. Il lui reste quelques mots de français. Il s’appelle Jacob. Il vit dans l’Iowa.
+Vers 16 h, quand nous sortons du restaurant le ciel s’est couvert, il tombe trois gouttes. Graham me propose de l'accompagner jusqu’à la nuit, mais je ne veux pas lui faire perdre de temps, d’autant que je dois me ravitailler à une station-service (lui dispose d'assez de protéines et de glucides pour tout son voyage, il faut dire qu’il ne transporte rien d’autre à part un sac de couchage). Alors qu’il s’en va, deux concurrents arrivent, dont le gars qui agonisait au bord du chemin et un autre avec un casque orange fluo. Il me dit : « Tu es Français, c’est ça ? » Il me raconte qu’il a passé trois semaines à Lyon quand il était plus jeune. Il lui reste quelques mots de français. Il s’appelle Jacob. Il vit dans l'Iowa.
 
 Nous regardons le ciel où de gros nuages menaçants se coagulent. J’hésite à retourner dans le restaurant avec Jacob et l’autre gars, mais non, le prochain camping est encore loin et je ne dois pas traîner si je veux l’atteindre avant la nuit. Je prends la route, la quitte pour une station Shell, où je ne trouve pas de barres de céréale digne de ce nom. Un détour pour rien, pas vraiment. Quand je sors, le ciel se déverse sur moi. Je cours m’abriter sous une tonnelle avec quelques tables. Des bourrasques ramassent les trombes d’eau, les ramènent dans le ciel, les jettent sur moi où que je me cache. Il tombe des grêlons énormes. J’ai froid, je me blottis dans mon imperméable.
 
@@ -98,7 +96,7 @@ Je longe une rivière par une route asphaltée, des motards ne cessent de me dou
 
 J’ai parcouru 131 km et gravi plus de 2 500 mètres, le tout en VTT, ce qui est de loin mon record. J’aurais pu pousser plus loin dans la nuit. La tentation était là, une tentation à laquelle s’abandonnent les concurrents comme Graham. Il y a un plaisir certain à se dépasser, à entrer dans des zones d’existence peu communes, mais je fais preuve de prudence, songeant aux jours difficiles qui m’attendent. J’ai appris une chose : on peut s’entraîner à l’escalade tout en vivant dans la plaine.
 
-![Jour 1](https://tcrouzet.com/images_tc/2019/05/j1-600x443.jpg)
+![Jour 1](https://tcrouzet.com/images_tc/2019/05/j1.jpg)
 
 ### Dimanche 19 mai
 
@@ -110,23 +108,23 @@ Je pose mon collant de contention, mon t-shirt thermique, je me pommade les fess
 
 Là, surprise, une tente se dresse à côté de la mienne. Un peu plus loin, un hamac a été tendu entre deux arbres. Je reconnais le casque orange fluo de Jacob accroché au guidon de son vélo. Deux participants sont donc arrivés après moi. D’ailleurs, Jacob émerge à son tour, puis c’est Ryan qui nous dit être arrivé à une heure du mat.
 
-![Vélo de Jacob et le mien](https://tcrouzet.com/images_tc/2019/05/IMG_4814-600x450.jpg)
+![Vélo de Jacob et le mien](https://tcrouzet.com/images_tc/2019/05/IMG_4814.jpg)
 
 Bientôt je suis prêt à partir. Ryan nous dit qu’il ne se pressera pas. Je propose à Jacob de l’attendre ce qu’il accepte. Bientôt nous prenons la route, il est 7 h 30. Le ciel est bleu, le soleil transperce la canopée. Jacob s’arrête au bord d’un ruisseau pour filtrer de l’eau. Nous repartons à petite allure dans l’ancien domaine des Indiens Cherokee. La piste attaque une série de virages en même temps que nous prenons de l’altitude.
 
-![Jacob au filtrage](https://tcrouzet.com/images_tc/2019/05/IMG_4819-600x450.jpg)
+![Jacob au filtrage](https://tcrouzet.com/images_tc/2019/05/IMG_4819.jpg)
 
-![Cherokee forest](https://tcrouzet.com/images_tc/2019/05/IMG_4824-600x450.jpg)
+![Cherokee forest](https://tcrouzet.com/images_tc/2019/05/IMG_4824.jpg)
 
 Au détour d’une épingle avec une belle vue sur le nord des Smokies, nous découvrons le camp de Charles et John, qui ont choisi un spot parfait. Tous deux se moquent de la course, de l’endurance, ils sont là pour profiter. Je les envie, mais quelque chose me pousse en avant, un sentiment d’urgence, peut-être cette évidence que mon séjour aux États-Unis touche à son terme, que dans trois semaines exactement nous serons de retour en France, et que d’ici là nous devons ranger la maison, faire nos valises, dire au revoir à nos nouveaux amis.
 
 Jacob n’étant pas très bavard, peut-être parce qu’à la peine dans les pourcentages plus élevés, je le distance, rattrapant bientôt Scotty qui zigzague d’un bord à l’autre de la piste. Il m’explique qu’il a campé plus loin que nous, car il n’a pas trouvé de place près de nous au milieu de la nuit.
 
-![Au sommet](https://tcrouzet.com/images_tc/2019/05/IMG_4834-600x450.jpg)
+![Au sommet](https://tcrouzet.com/images_tc/2019/05/IMG_4834.jpg)
 
 Je reste un moment à sa hauteur, puis je le distance. Il est vraiment trop lent pour moi, me maintenir à son rythme me coûte plus d’énergie que de pédaler à ma vitesse naturelle. Je m’arrête au sommet, prends quelques photos, téléphone à Isabelle. Jacob arrive le premier, puis c’est au tour de Scotty, qui nous prévient qu’il n’est pas un casse-cou en descente, moi pas davantage, mais je me laisse aspirer par une piste magnifique où s’enchaînent de belles courbes que j’attaque avec confiance. Je me retrouve à nouveau seul. J’attends en bas, sur un pont au-dessus d’une rivière joyeuse. Quand Jacob arrive, nous nous photographions, puis Jacob me dit qu’il n’a pas envie d’attendre Scotty. « Il nous rejoindra à Indian Boundary. »
 
-![Dans la vallée](https://tcrouzet.com/images_tc/2019/05/IMG_4852-600x450.jpg)
+![Dans la vallée](https://tcrouzet.com/images_tc/2019/05/IMG_4852.jpg)
 
 Il s’agit d’un camping posé au bord d’un magnifique lac, avec une boutique où nous nous ravitaillons. Il est 11 h. Des enfants se baignent, crient, jouent. Nous mangeons un petit déjeuner de randonneur, un sac de nourriture déshydratée dans lequel le tenancier verse un mug d’eau bouillante. Après une dizaine de minutes, nous avons un repas complet et fort délicieux. Accompagné de Charles et John, Scotty ne débarque que bien plus tard alors que nous avons pratiquement terminé de manger. Il ne prend pas la peine de se poser, se ravitaille et reprend la route, sûr que nous le rattraperons vite, car nous attend la plus grosse difficulté du parcours, un col de première catégorie.
 
@@ -134,13 +132,13 @@ Bien sûr, Charles et John décident de farnienter. Ils ont bien raison, ils voy
 
 Une fois Scotty dépassé, une fois sur le bitume du col de première catégorie, mes pneus de 2.6 pouces collent à la route et je n’avance pas. Jacob s’arrête tous les miles pour récupérer et chaque fois je m’arrête une bonne minute après lui. Cette route brûlante, trop peu ombragée, paraît interminable, d’autant que des motos et des voitures de sport nous doublent en trombe, parfois nous klaxonnant pour nous demander de leur laisser le passage. Je me demande ce que je fiche là avec mon VTT chargé d’une dizaine de kilos. Je suis à la peine parce que je ne fais que pédaler sans éprouver aucun des plaisirs propres au vélo, même mes yeux ne trouvent rien pour se réjouir, toujours des arbres pour nous masquer le lointain.
 
-![De la Cherokee à la Nantahala forest](https://tcrouzet.com/images_tc/2019/05/IMG_4866-600x450.jpg)
+![De la Cherokee à la Nantahala forest](https://tcrouzet.com/images_tc/2019/05/IMG_4866.jpg)
 
-Au sommet, nous faisons une incursion en Caroline du Nord, avant d’attaquer à une belle descente sur une piste forestière. Nous n’attendons pas Scotty qui doit être loin derrière nous. Comme la veille, je compte lui envoyer un message pour lui indiquer notre campement. Une fois de retour sur la terre, mes pneus me favorisent et je dois attendre Jacob. Parfois, si longtemps que je me demande s’il ne s’est pas planté dans un des nombreux virages en épingle. Reste que dès que la route s’élève à nouveau, j’ai mal aux pattes et que Jacob est plus costaud que le matin. J’ai du mal à m’arracher les tripes, je ne le rattrape qu’au profit des descentes.
+Au sommet, nous faisons une incursion en Caroline du Nord, avant d’attaquer à une belle descente sur une piste forestière. Nous n’attendons pas Scotty qui doit être loin derrière nous. Comme la veille, je compte lui envoyer un message pour lui indiquer notre campement. Une fois de retour sur la terre, mes pneus me favorisent et je dois attendre Jacob. Parfois, si longtemps que je me demande s’il ne s’est pas planté dans un des nombreux virages en épingle. Reste que dès que la route s’élève à nouveau, j’ai mal aux pattes et que Jacob est plus costaud que le matin. J’ai du mal à m’arracher les tripes, je ne le rattrape qu'au profit des descentes.
 
-À 16 h, nous atteignons le convenience store de Green Cove, où sur un registre que nous devons signer nous découvrons que Graham a pointé à 6 h du matin. Nous sommes impressionnés. Il a dix heures d’avance sur nous, plus ou moins le temps que j’ai passé au camp. Il ne va guère plus vite que moi, mais ne s’arrête pratiquement jamais.
+À 16 h, nous atteignons le convenience store de Green Cove, où sur un registre que nous devons signer nous découvrons que Graham a pointé à 6 h du matin. Nous sommes impressionnés. Il a dix heures d'avance sur nous, plus ou moins le temps que j’ai passé au camp. Il ne va guère plus vite que moi, mais ne s’arrête pratiquement jamais.
 
-La boutique est posée au creux de la vallée, dos à un ruisseau tumultueux où une fille du coin nous raconte qu’elle faisait du rafting sur des chambre à air quand elle était enfant. « On avait des bleus partout, mais on recommençait. Cette boutique appartenait à mes grands-parents. » Je fouille les rayons à la recherche de quelque chose de pas trop gras et finis par me contenter de chips et d’un sandwich. Ma réserve de barres de céréales est en train de fondre.
+La boutique est posée au creux de la vallée, dos à un ruisseau tumultueux où une fille du coin nous raconte qu'elle faisait du rafting sur des chambre à air quand elle était enfant. « On avait des bleus partout, mais on recommençait. Cette boutique appartenait à mes grands-parents. » Je fouille les rayons à la recherche de quelque chose de pas trop gras et finis par me contenter de chips et d’un sandwich. Ma réserve de barres de céréales est en train de fondre.
 
 Quand nous repartons, j’ai les jambes en plomb. « Jacob, je suis vanné, continue sans moi. » Il me serre la main et se barre sans le moindre commentaire, vraiment pas causant le bonhomme, pas plus que compatissant. Je regrette de l’avoir attendu toute la matinée. Alors que je gravis des pentes épouvantables, mettant souvent pied à terre pour pousser le vélo, je le maudis. Ça fait du bien au moral de s’en prendre à quelqu’un.
 
@@ -148,11 +146,11 @@ Mais trois heures plus tard, après beaucoup de souffrance et aucune expérience
 
 Il est 20 h quand nous repartons. Comme par miracle, j’ai retrouvé de bonnes jambes et dans un single très technique je mets un vent à Jacob, devant l’attendre sans cesse. C’est plus fort que moi, j’obéis à la logique « rester groupé » que je pratique avec mes amis en France. Parce que c’est ainsi que le vélo se déploie dans toute sa beauté, à la fois sportive, tactique et sociale.
 
-![Buck Bald](https://tcrouzet.com/images_tc/2019/05/IMG_4870-600x450.jpg)
+![Buck Bald](https://tcrouzet.com/images_tc/2019/05/IMG_4870.jpg)
 
 La nuit tombe. Je photographie la dernière lueur du jour au sommet de Buck Bald. Après une descente rapide, nous atteignons le prochain point de campement. Il est 22 h. Des fêtards ont laissé des détritus partout si bien que j’ai bu mal à trouver un endroit où monter ma tente, mais tant pis, je suis incapable de pousser plus loin. Pour une seconde journée consécutive, j’ai escaladé plus de 2 500 mètres. Je suis en avance sur mes prévisions les plus optimistes. Pas de réseau pour avertir Scotty.
 
-![Jour 2](https://tcrouzet.com/images_tc/2019/05/j2-590x450.jpg)
+![Jour 2](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/j2.jpg)
 
 ### Lundi 20 mai
 
@@ -166,39 +164,39 @@ Je pédale à mon aise jusqu’à atteindre vers 10 h la petite ville de Copper 
 
 En même temps, j’ai le cœur lourd, parce que n’ai partagé ma joie avec aucun ami. Dans ces conditions, avec Scotty loin derrière moi, et d’autres participants encore plus loin, je n’ai aucune envie de rester sur the Moutain, de passer deux jours seuls au minimum, d’autant que le renommé havre de paix de Mulberry Gap, lieu indispensable de ravitaillement, sera fermé demain à mon arrivée. Moi aussi je bascule sur The Vista, non à cause de mes jambes, mais parce que mon cerveau ne se contente pas de seulement souffrir.
 
-Je repars, un peu triste. Je m’arrête à un supermarché non moins triste où encore une fois je ne trouve que des barres chocolatées qui me donnent la nausée. Me voilà à pédaler sur le bas-côté d’une quatre voies en direction de l’aglomératyion de Ducktown, un ensemble de stations services et des restaurants sans attrait. Je retombe sur Jacob en m’arrêtant à une belle boutique ombragée pour acheter à boire.
+Je repars, un peu triste. Je m’arrête à un supermarché non moins triste où encore une fois je ne trouve que des barres chocolatées qui me donnent la nausée. Me voilà à pédaler sur le bas-côté d’une quatre voies en direction de l'aglomératyion de Ducktown, un ensemble de stations services et des restaurants sans attrait. Je retombe sur Jacob en m’arrêtant à une belle boutique ombragée pour acheter à boire.
 
 Il a manqué Katz, il a manqué le bonheur, il s’est gavé dans un bouge, et je ne suis même pas malheureux pour lui. Il me demande de l’accompagner, mais je refuse. Il part devant, je le laisse filer pour le rattraper à l’entrée d’un long single où lui-même a rattrapé Brad, un ancien Navy Seal avec qui j’ai pas mal discuté en ligne. Brad fume de l’essence de marie-jeanne, il m’en propose avec hilarité, je refuse et passe devant eux dans le single, où bien sûr je me trompe de chemin, me tape une longue escalade pour rien. Je les rattrape encore une fois lorsque nous atteignons la vivace Ocoee River.
 
-![Ocoee River](https://tcrouzet.com/images_tc/2019/05/IMG_4875-600x450.jpg)
+![Ocoee River](https://tcrouzet.com/images_tc/2019/05/IMG_4875.jpg)
 
-![Ocoee River](https://tcrouzet.com/images_tc/2019/05/IMG_4885-600x450.jpg)
+![Ocoee River](https://tcrouzet.com/images_tc/2019/05/IMG_4885.jpg)
 
-![Ocoee River](https://tcrouzet.com/images_tc/2019/05/IMG_4901-600x450.jpg)
+![Ocoee River](https://tcrouzet.com/images_tc/2019/05/IMG_4901.jpg)
 
 Je m’arrête pour goûter l’eau, pour prendre quelques photos, encore Jacob me rejoint comme si de rien n’était, comme s’il ne percevait pas l’inconvenance de son attitude, une inconvenance qui peut-être n’a de sens que pour un cycliste français, ou que pour un écrivain qui passe ses journées seul et fait du vélo autant pour socialiser que pour faire du sport et se dépayser.
 
-![Ocoee River](https://tcrouzet.com/images_tc/2019/05/IMG_4905-600x450.jpg)
+![Ocoee River](https://tcrouzet.com/images_tc/2019/05/IMG_4905.jpg)
 
 Nous franchissons la rivière par un long pont suspendu. Je m’arrête à une extrémité, pendant que Jacob s’échappe à tout jamais à l’autre. Dans le long single qui suit, je mets la pédale douce pour n’avoir aucune chance de le rattraper. Vers 15 h, je m’arrête au camping de Thunder Rock où j’avais prévu de dormir le soir du troisième jour. Je fais une petite sieste. Je pèse encore une fois ma décision d’emprunter le bypass de The Vista, réduisant mon voyage de 160 km environ. Je pense aussi à Isabelle, à notre prochain retour en France, tout cela me préoccupe. J’en reste à ma décision du matin.
 
-![En forêt](https://tcrouzet.com/images_tc/2019/05/IMG_4917-600x450.jpg)
+![En forêt](https://tcrouzet.com/images_tc/2019/05/IMG_4917.jpg)
 
-![En forêt](https://tcrouzet.com/images_tc/2019/05/IMG_4915-600x450.jpg)
+![En forêt](https://tcrouzet.com/images_tc/2019/05/IMG_4915.jpg)
 
 Vers 17 h, je repars à travers une belle forêt de conifères, la plus lumineuse depuis le départ. Je m’arrête au Big Creek Primitive Camping alors que le jour est encore radieux. Je dresse la tente au centre d’un cercle de sapins aux troncs rectilignes, dessinant au-dessus de moi une cathédrale végétale. Dans ma tente à la paroi translucide, je reste allongé à attendre la tombée de la nuit, dans un état pas loin de l’extase mystique. Je suis le sol de la forêt, je suis ses arbres et leur canopée, je suis le ciel limpide entre les frondaisons, je suis le ruisseau qui court en contrebas, je suis les insectes qui rampent sur la tente sans avoir le moyen de m’atteindre.
 
 En ce troisième jour, je n’ai parcouru que 92 km, escaladé que 1 800 mètres, mais je suis heureux, à ma place en quelque sorte. Parfois la solitude a du bon, je lui suis habitué, elle est mon état d’existence le plus commun, celui propice à la création, un état que j’aime et que je cultive, mais paradoxalement que j’estime incompatible avec ma conception du vélo.
 
-![Jour 3](https://tcrouzet.com/images_tc/2019/05/j3-576x450.jpg)
+![Jour 3](https://tcrouzet.com/images_tc/2019/05/j3.jpg)
 
 ### Mardi 21 mai
 
 Je me réveille à l’aube, en pleine forme. Je reprends la piste, résigné à ma solitude, décidé d’en tirer profit pour quelques expériences spirituelles. Déjà, je rejoins le tracé commun aux deux routes. Bientôt je m’engage dans un single, le plus technique depuis le départ, une longue descente m’amène jusqu’à un ruisseau où je trouve Graham assis, l’air rêveur. Il me regarde avec son grand sourire auquel je suis déjà habitué.
 
-![Mon camp](https://tcrouzet.com/images_tc/2019/05/IMG_4922-600x450.jpg)
+![Mon camp](https://tcrouzet.com/images_tc/2019/05/IMG_4922.jpg)
 
-![Graham](https://tcrouzet.com/images_tc/2019/05/IMG_4936-600x450.jpg)
+![Graham](https://tcrouzet.com/images_tc/2019/05/IMG_4936.jpg)
 
 « Thierry ! » Il m’explique que je suis la dernière personne avec qui il a parlé et qu’il est heureux de me retrouver. Lui il s’en est tenu à The Moutain, il a donc 160 km de plus que moi dans les pattes et 5 000 mètres d’ascension. Il me propose de l’accompagner jusqu’à la nuit. Nous filtrons de l’eau, puis reprenons la route, avec le plaisir non feint d’être ensemble. J’ai aimé Graham tout de suite, nous sommes bien ensemble. Une fois de retour sur les pistes forestières, il me raconte que son père a écrit un livre, énorme, sur la guère froide en Hongrie, dont il était un spécialiste en tant qu’analyste de la CIA.
 
@@ -206,13 +204,13 @@ Je me réveille à l’aube, en pleine forme. Je reprends la piste, résigné à
 
 « Pour la simplicité, la fiabilité, aussi parce que ça revient moins cher, j’aime tout ça. »
 
-![Campagne riante](https://tcrouzet.com/images_tc/2019/05/IMG_4928-600x450.jpg)
+![Campagne riante](https://tcrouzet.com/images_tc/2019/05/IMG_4928.jpg)
 
-![Campagne riante](https://tcrouzet.com/images_tc/2019/05/IMG_4931-600x450.jpg)
+![Campagne riante](https://tcrouzet.com/images_tc/2019/05/IMG_4931.jpg)
 
 Avec légèreté et allégresse, nous rejoignons une campagne agraire, avec des maisons rouges posées au centre des prairies verdoyantes. Nous entrons dans un pays bucolique, lumineux, que le printemps fait luire et bruire de mille rumeurs amoureuses. J’ai envie de m’arrêter partout pour photographier, pour fixer ces paysages de peintre que même à vélo je parcours trop vite, n’osant imaginer la frustration de filer par là en voiture. Après les ascensions des jours précédents, des ascensions aveugles dans la forêt, rouler sur des routes bosselées dans ses perspectives ouvertes fait du bien aux jambes et au regard.
 
-![Avec Graham](https://tcrouzet.com/images_tc/2019/05/withGraham-1-600x450.jpg)
+![Avec Graham](https://tcrouzet.com/images_tc/2019/05/withGraham-1.jpg)
 
 À 10 h 30, nous atteignons l’Ocoee Dam Deli &amp; Diner, dont nous attendons l’ouverture à l’ombre d’un tilleul. J’ai oublié de quoi nous avons parlé, mais nous étions bien. Les mots n’étaient pas importants, même pas nécessaires. À 11 h, nous voilà attablés. Je n’ai rien mangé de consistant depuis la veille chez Katz, Graham depuis plus longtemps encore. Nous commandons chacun un gigantesque burger, avec un steak et par-dessus du porc roti. En temps normal, j’aurais été incapable d’avaler une telle quantité de viande, mais je m’en régale. Nous commandons même un chausson aux fraises, surmonté d’une boule de glace à la vanille. C’est parfait.
 
@@ -222,13 +220,13 @@ Je ne me sens jamais amateur. Je me considère comme un pro de la perception, un
 
 Alors déboule Mike, qui a terminé The Vista le matin même, lui aussi ayant renoncé à The Moutain. Il faut avoir de la force de caractère pour pousser seul dans une boucle douloureuse quand un raccourci se présente. C’est une métaphore de la vie. Mon renoncement est peut-être l’expression de ma faiblesse. Peut-être que quand j’écris j’emprunte les mêmes raccourcis. Je me veux génial comme dans un rêve victime d’une dangereuse illusion.
 
-![Campagne riante](https://tcrouzet.com/images_tc/2019/05/IMG_4945-600x450.jpg)
+![Campagne riante](https://tcrouzet.com/images_tc/2019/05/IMG_4945.jpg)
 
-![Campagne riante](https://tcrouzet.com/images_tc/2019/05/IMG_4949-600x450.jpg)
+![Campagne riante](https://tcrouzet.com/images_tc/2019/05/IMG_4949.jpg)
 
 Nous ne repartons qu’à 13 h 30, replongeons dans la campagne riante, avec chevaux dans les champs, fermes dans le lointain, petites routes où ne croisons pas de voiture, cours apaisé de l’Hiwassee river d’un profond vert bouteille, cimetières fleuris. Sur cette partie roulante, Graham pédale à vide ce qui me permet de prendre un peu d’avance pour qu’il me rattrape au sommet des côtes. Après avoir traversé la petite ville de Benton, nous entrons dans le secteur de Delano, un coin de paradis où s’est installée une communauté amish. Des jardinets impeccables, des fermes en bois, des buggys noirs tirés par des chevaux élégants. Le temps s’est arrêté, nous sommes en une autre époque, les gens portent des costumes de western.
 
-![Delano](https://tcrouzet.com/images_tc/2019/05/IMG_4960-600x450.jpg)
+![Delano](https://tcrouzet.com/images_tc/2019/05/IMG_4960.jpg)
 
 Nous nous arrêtons chez Kim, ou plutôt sur la terrasse d’un pavillon de bois qu’elle possède au cœur de cet immense jardin. Nous nous laissons tomber dans deux adirondack chairs. Au compteur de mon GPS, il fait 37°C. Graham ferme les yeux pour essayer de récupérer pendant que je me gave d’images. La vue est parfaite. Au premier plan un chemin où passe une carriole avec des enfants, au-delà des fermes, avec une roue à vent, puis à l’horizon les premiers contreforts des Smokies où nous allons devoir grimper.
 
@@ -238,17 +236,17 @@ Nous rejoignons la 411, nous arrêtons dans un convenience store, le même où j
 
 Des chiens courent vers nous, certains menaçants. Je les imite, j’aboie avec conviction, leur fonce dessus avec mon vélo, je suis aussi agressif et con qu’eux pour les effrayer. J’adopte depuis toujours cette tactique, plutôt efficace contre la bêtise canine.
 
-![Cake à la banane](https://tcrouzet.com/images_tc/2019/05/IMG_4966-600x450.jpg)
+![Cake à la banane](https://tcrouzet.com/images_tc/2019/05/IMG_4966.jpg)
 
 Nous retrouvons le dur, une série de lacets épouvantables, avec des pourcentages qui me font tanguer d’un côté à l’autre de la piste malgré mon 32-50, jusqu’à ce que je mette pied à terre pour ne pas me brûler les jambes (et dire que Graham tire un 32-26). Nous faisons une pause, dévorons la moitié du cake à la banane, parfaitement moelleux. Quand au sommet nous rejoignons un single, j’ai un coup de mou. Nous entrons dans une partie technique, dont Graham se tire avec brio, moi à la peine derrière lui.
 
-![Franchissement](https://tcrouzet.com/images_tc/2019/05/IMG_4970-600x450.jpg)
+![Franchissement](https://tcrouzet.com/images_tc/2019/05/IMG_4970.jpg)
 
-![McCamy Lake](https://tcrouzet.com/images_tc/2019/05/IMG_4976-600x450.jpg)
+![McCamy Lake](https://tcrouzet.com/images_tc/2019/05/IMG_4976.jpg)
 
 Graham me distance, nous nous retrouvons, je le quitte à la porte de mon camping, non loin d’un lac miroitant, pendant qu’il file vers l’arrivée, 60 km plus loin. J’ai vécu une journée lumineuse, une de ces journées rares, mais que la pratique du vélo sait nous offrir avec générosité. J’ai peu roulé, 93 km pour 1 500 m de dénivelé, mais je suis comblé. Le hasard a bien fait les choses. En prenant le bypass, je me suis fait un copain.
 
-![Jour 4](https://tcrouzet.com/images_tc/2019/05/j4-600x402.jpg)
+![Jour 4](https://tcrouzet.com/images_tc/2019/05/j4.jpg)
 
 ### Mercredi 22 mai
 
@@ -256,21 +254,21 @@ J’ai tout mon temps. Je termine le cake à la banane, avec un plaisir non fein
 
 Quand je redescends, je suis persuadé que Sara m’a devancé, alors je tente de la rattraper. La route monte, longtemps, je suis heureux d’en finir, malheureux que ça finisse. Je photographie la lumière, je photographie pour seconder mes yeux, sachant que mon téléphone vétuste ne rendra pas la beauté des paysages vaporeux des Smokies. Point de Sara.
 
-![Les Smokies](https://tcrouzet.com/images_tc/2019/05/IMG_4987-600x450.jpg)
+![Les Smokies](https://tcrouzet.com/images_tc/2019/05/IMG_4987.jpg)
 
-![Les Smokies](https://tcrouzet.com/images_tc/2019/05/IMG_4988-600x450.jpg)
+![Les Smokies](https://tcrouzet.com/images_tc/2019/05/IMG_4988.jpg)
 
-![Les Smokies](https://tcrouzet.com/images_tc/2019/05/IMG_4992-600x450.jpg)
+![Les Smokies](https://tcrouzet.com/images_tc/2019/05/IMG_4992.jpg)
 
-![Les Smokies](https://tcrouzet.com/images_tc/2019/05/IMG_5006-600x450.jpg)
+![Les Smokies](https://tcrouzet.com/images_tc/2019/05/IMG_5006.jpg)
 
 Je monte, je descends, je me fais une frayeur dans un single technique, je me force à me calmer, me demandant comment Sara fait pour être aussi rapide. J’entre dans un faux plat de graviers noirs quand je crois voir au loin un chien orangé. Je le perds, me disant qu’il se cache pour mieux me sauter dessus. Je suis sur mes gardes, prêt à aboyer. J’aperçois alors un énorme chat ou une sorte de lynx, qui marche devant moi, perdu dans ses cogitations, car il semble surpris de me voir et s’échappe d’un bon gracieux.
 
 Je me souviens des propos de Mike du premier jour. « Quand on croit que c’est terminé, il reste encore une côte pour nous faire mal aux pattes. » À chaque ascension, je me dis que c’est ma dernière, puis une autre arrive.
 
-![Le pont](https://tcrouzet.com/images_tc/2019/05/IMG_5020-600x450.jpg)
+![Le pont](https://tcrouzet.com/images_tc/2019/05/IMG_5020.jpg)
 
-Quand je rejoins l’Hiwassee river et la franchis par un pont suspendu, vu et revu en photo depuis que je m’intéresse à The Vista, je me dis que j’en ai fini cette fois, que je n’ai qu’à descendre jusqu’au camping où ma voiture m’attend. Mais c’est là, au détour de la dernière courbe que se dresse la difficulté évoquée par Mike, assez méchante pour dans sa descente me propulser vers l’arrivée avec allégresse.
+Quand je rejoins l’Hiwassee river et la franchis par un pont suspendu, vu et revu en photo depuis que je m’intéresse à The Vista, je me dis que j’en ai fini cette fois, que je n’ai qu’à descendre jusqu’au camping où ma voiture m'attend. Mais c’est là, au détour de la dernière courbe que se dresse la difficulté évoquée par Mike, assez méchante pour dans sa descente me propulser vers l’arrivée avec allégresse.
 
 ![J'arrive](https://tcrouzet.com/images_tc/2019/05/kim2-finish-1.jpg)
 
@@ -280,4 +278,4 @@ Quand j’arrive après 67 km et 1 400 m de dénivelé, Kim, Eric, Mike et d’a
 
 Je me douche, nous nous retrouvons sur la terrasse du restaurant. Nous refaisons nos courses, nous nous promettons de nous revoir, de rouler ensemble. J’invite tout le monde à venir en France explorer d’autres paysages. Nous nous aimons parce que nous partageons des moments forts, même quand nous les vivons en parallèle, chacun dans sa solitude. Je comprends mieux ce que mon père recherchait dans la communauté des chasseurs. Nous autres bikepackers sommes des chasseurs pacifistes, des chasseurs d’émotions, de sensations, de paysages…
 
-![Jour 5](https://tcrouzet.com/images_tc/2019/05/j5-600x383.jpg)
+![Jour 5](https://tcrouzet.com/images_tc/2019/05/j5.jpg)

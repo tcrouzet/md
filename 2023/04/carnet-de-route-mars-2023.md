@@ -8,7 +8,7 @@ Nous vivons une époque bruyante. Quelle époque ne l’a pas été ? Mais tout
 
 ---
 
-Quand on admire quelqu’un, on peut lui donner raison même quand il a tort. Quand on aime quelqu’un, on peut lui donner tort même quand il a raison. L’amour nous aveugle au point de faire perdre toute mesure.
+Quand on admire quelqu’un, on peut lui donner raison même quand il a tort. Quand on aime quelqu’un, on peut lui donner tort même quand il a raison. L’amour aveugle au point de nous faire perdre toute mesure.
 
 ---
 
