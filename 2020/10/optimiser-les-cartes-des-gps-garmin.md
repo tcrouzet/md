@@ -4,23 +4,23 @@ J’utilise un GPS pour suivre des traces, que ce soit en bikepacking, ou lors d
 
 ### Rendu avec carte Garmin
 
-![Rendu Garmin](https://tcrouzet.com/images_tc/2020/10/newmap-garmin.jpg)
+![Rendu Garmin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/newmap-garmin.jpg)
 
-Selon moi, la carte fournie par Garmin est trop colorée pour le suivi de trace (ce serait possible si Garmin offrait la possibilité de calibrer la taille de la trace, ce qui n’est pas le cas sur mon nouveau 530 et ne l’était pas davantage sur mon 820). On ne peut que changer la couleur de la trace (et cela fastidieusement au coup par coup). Notez que la capture d’écran effectuée sur BaseCamp est très flatteuse.
+Selon moi, la carte fournie par Garmin est trop colorée pour le suivi de trace (ce serait possible si Garmin offrait la possibilité de calibrer la taille de la trace, ce qui n’est pas le cas sur mon nouveau 530 et ne l’était pas davantage sur mon 820). On ne peut que changer la couleur de la trace (et cela fastidieusement au coup par coup). Notez que la capture d'écran effectuée sur BaseCamp est très flatteuse.
 
 ### Rendu avec carte OSM new style
 
-![Rendu OSM new style](https://tcrouzet.com/images_tc/2020/10/newmap-newstyle.jpg)
+![Rendu OSM new style](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/newmap-newstyle.jpg)
 
-Jusqu’alors ma favorite, [la version OSM téléchargeable gratuitement](http://garmin.openstreetmap.nl/) reste quelque peu baroque, avec notamment des routes souvent colorées.
+Jusqu’alors ma favorite, [la version OSM téléchargeable gratuitement](https://garmin3.bbbike.org/) reste quelque peu baroque, avec notamment des routes souvent colorées.
 
 ### Rendu avec ma carte
 
-![Rendu OSM minimaliste](https://tcrouzet.com/images_tc/2020/10/newmap-minimalist.jpg)
+![Rendu OSM minimaliste](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/newmap-minimalist.jpg)
 
 J’ai donc créé une trace OSM minimaliste, sans POI, sans texte, sans couleur ou presque. Au passage, j’ai fait passer le fichier France de 1,6 Go à 320 Mo, tout en incluant les données altimétriques.
 
-[Vous pouvez télécharger la carte](https://mega.nz/file/19FliI6a#sCYLfnpTCWx99PMWHVEUaq-IARhWUgK21BnswbvXXjQ) (je ne vous garantis pas de la mettre à jour souvent). Pour l’installer, copiez le fichier dans le dossier Garmin de votre GPS. Si une carte du même nom existe, renommez-là. Il vous reste à dire au GPS d’utiliser de préférence la nouvelle carte (ce qui revient à désactiver les autres). Attention, cette carte n’est pas routable et ne sert que lors du suivi de traces (sur les nouveaux Garmin on peut créer des profils avec des cartes différentes).
+[Vous pouvez télécharger la carte](https://mega.nz/file/19FliI6a#sCYLfnpTCWx99PMWHVEUaq-IARhWUgK21BnswbvXXjQ) (je ne vous garantis pas de la mettre à jour souvent). Pour l’installer, copiez le fichier dans le dossier Garmin de votre GPS. Si une carte du même nom existe, renommez-là. Il vous reste à dire au GPS d’utiliser de préférence la nouvelle carte (ce qui revient à désactiver les autres). Attention, cette carte n'est pas routable et ne sert que lors du suivi de traces (sur les nouveaux Garmin on peut créer des profils avec des cartes différentes).
 
 ### Rendu avec carte IGN
 
@@ -36,7 +36,7 @@ Je résume comment je m’y suis pris pour fabriquer cette carte, tout en faisan
 
 2. [Installer Java SE Development Kit](https://www.oracle.com/java/technologies/javase-jdk15-downloads.html).
 
-3. Créer un dossier de travail (dans mon cas */Users/thierrycrouzet/Documents/GarminMaps/tools/*).
+3. Créer un dossier de travail (dans mon cas *~/Documents/GarminMaps/tools/*).
 
 4. [Télécharger dans le dossier *tools* la dernière source OSM pour France](https://download.geofabrik.de/europe/france.html) ([possibilité de télécharger les régions, les départements, d’autres pays…](http://download.openstreetmap.fr/extracts/europe/)). Ce fichier a pour nom : *france-latest.osm.pbf*.
 
@@ -52,7 +52,7 @@ Je résume comment je m’y suis pris pour fabriquer cette carte, tout en faisan
 
 10. Exécuter Spliter avec *java -Xmx3000m -jar splitter/splitter.jar --max-nodes=1100000 france-latest.osm.pbf --output-dir=outputsplit*. Ça prend un bon moment.
 
-11. Exécuter Mkgmap avec *java -Xmx3000m -jar mkgmap/mkgmap.jar --style-file=mystyle --output-dir=output --no-net --product-id=1 --overview-mapname=”OSM minimalist” --family-name=”OSM minimalist” --series-name=”OSM minimalist” --description=”OSM minimalist” --area-name=”OSM minimalist” --gmapsupp -c outputsplit/template.args*. C’est reparti pour au moins aussi longtemps.
+11. Exécuter Mkgmap avec *java -Xmx3000m -jar mkgmap/mkgmap.jar --style-file=mystyle --output-dir=output --no-net --product-id=1 --overview-mapname="OSM minimalist" --family-name="OSM minimalist" --series-name="OSM minimalist" --description="OSM minimalist" --area-name="OSM minimalist" --gmapsupp -c outputsplit/template.args*. C’est reparti pour au moins aussi longtemps.
 
 12. La carte *gmapsupp.img* se retrouve dans le dossier *output*.
 
