@@ -4,11 +4,11 @@
 
 ### Mercredi 1<sup>er</sup>, Balaruc
 
-*Comme si on ne pouvait dire notre temps que par fragments.* Ce pourrait être le titre d’un essai, ou le cahier des charges d’un projet artistique, ou une affirmation.
+*Comme si on ne pouvait dire notre temps que par fragments.* Ce pourrait être le titre d’un essai, ou le cahier des charges d’un projet artistique, ou une affirmation.<span id="more-64034"></span>
 
 ### Jeudi 2, Balaruc
 
-Virginia a peur pour sa vie lors des bombardements allemands d’août 1940 et six mois plus tard elle se suicide. J’ai du mal à comprendre comment la vie peut être précieuse, puis immédiatement dilapidée. Je ne vois que la maladie soudaine comme explication.
+Virginia a peur pour sa vie lors des bombardements allemands d'août 1940 et six mois plus tard elle se suicide. J’ai du mal à comprendre comment la vie peut être précieuse, puis immédiatement dilapidée. Je ne vois que la maladie soudaine comme explication.
 
 ### Vendredi 3, Balaruc
 
@@ -16,9 +16,9 @@ Réveil à cinq heures, stressé par Parcoursup. Une mécanique bien huilée, im
 
 ---
 
-Nous partons pour Montagnac. Nous ne sommes pas sur l’autoroute que nous voilà dans un bouchon, dont nous émergeons trente minutes plus tard après avoir parcouru trois kilomètres. Tout au long du trajet, surtout à partir de Narbonne, nous remontons un bouchon continu. Ma mère qui nous accompagne demande où vont ces gens. Comme nous ils veulent changer d’air. Cette folie routière me donne la nausée. Nous sommes en crise et nous la nions. Quand nous faisons le plein, je découvre à quel point un simple week-end engendre des dépenses délirantes. Nous sommes des cigales. La dépendance à la voiture me désespère. Au-delà de l’impact écologique, il y a le temps passé à conduire, qui ne me procure aucun plaisir, alors que chaque kilomètre à vélo est extravoluptueux, même quand je grimace dans les montées.
+Nous partons pour Maillardou. Nous ne sommes pas sur l’autoroute que nous voilà dans un bouchon, dont nous émergeons trente minutes plus tard après avoir parcouru trois kilomètres. Tout au long du trajet, surtout à partir de Narbonne, nous remontons un bouchon continu. Ma mère qui nous accompagne demande où vont ces gens. Comme nous ils veulent changer d’air. Cette folie routière me donne la nausée. Nous sommes en crise et nous la nions. Quand nous faisons le plein, je découvre à quel point un simple week-end engendre des dépenses délirantes. Nous sommes des cigales. La dépendance à la voiture me désespère. Au-delà de l’impact écologique, il y a le temps passé à conduire, qui ne me procure aucun plaisir, alors que chaque kilomètre à vélo est extravoluptueux, même quand je grimace dans les montées.
 
-### Samedi 4, Montagnac
+### Samedi 4, Maillardou
 
 Modiano est le plus grand fabricant de cupcakes de la littérature française. Une seule recette, un seul moule, mais une texture moelleuse incomparable. J’aime ses livres, mais n’aurais pas aimé les écrire. Je me serais ennuyé. Je préfère Virginia qui aborde chacun de ses textes comme une révolution et une remise en cause des principes appris au préalable. Ainsi, il en va des écrivains comme des restaurants. Certains proposent peu de plats, mais les réussissent à coup sûr.
 
@@ -30,7 +30,7 @@ Nous mangeons dans un restaurant où le serveur commence par nous servir un peti
 
 J’ai de plus en plus du mal avec les restaurants et leurs cartes remplies de viandes et de protéines animales. Mon meilleur repas de la journée reste mon matinal bol de céréales et de fruits.
 
-### Dimanche 5, Montagnac
+### Dimanche 5, Maillardou
 
 Dans une lointaine galaxie. Des mondes retournés au mieux à notre niveau technologique, mais interconnectés par des portes de téléportation. Voilà qui résoudrait mon désir de space opera et ma hantise de commettre des bévues technologiques, d’écrire un livre aussitôt périmé. Ce serait l’histoire du découvreur des portes et de ses voyages. Ce pourrait être une série interminable.
 
@@ -66,15 +66,15 @@ Se placer à un endroit, le décrire, puis reculer et le décrire de nouveau, pu
 
 Je m’étais juré de ne plus faire du VTT en solo, puis je suis parti explorer, par 38° au soleil. Grand plaisir, paysages sublimes, je rentre vends de dos, fonce dans une chemin à plus de quarante, un léger virage, une ornière énorme se creuse, je ne réussis pas à rester sur la crête et je plonge. Le choc est si violent qu’il me laisse pantois, hurlant, essoufflé, il me faut cinq minutes pour me calmer et réussir à attraper une gourde pour boire. Violente douleur au-dessus de la hanche gauche. Je réussis à me redresser, je m’assois, mange du glucose, au bout de quinze minutes je marche en poussant le vélo, puis je parviens à pédaler jusqu’à ma voiture. Quand j’arrive chez moi, j’ai un hématome aussi gros qu’un ballon de rugby. Mon copain Philippe arrive et me dit qu’il me faut faire un scanner, au cas où j’aurais endommagé mon rein gauche. Deux heures plus tard, je ressors des urgences, endolori de partout, mais rassuré. Philippe me prévient que je vais souffrir.
 
-![Lac de Vailhan](https://tcrouzet.com/images_tc/2022/07/IMG_7705.jpeg)
+![Lac de Vailhan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7705.jpeg)
 
-![Barrage de Vailhan](https://tcrouzet.com/images_tc/2022/07/IMG_7706.jpeg)
+![Barrage de Vailhan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7706.jpeg)
 
-![Vailhan](https://tcrouzet.com/images_tc/2022/07/IMG_7710.jpeg)
+![Vailhan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7710.jpeg)
 
-![Vailhan](https://tcrouzet.com/images_tc/2022/07/IMG_7725.jpeg)
+![Vailhan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7725.jpeg)
 
-![Pic Vissou](https://tcrouzet.com/images_tc/2022/07/IMG_7731.jpeg)
+![Pic Vissou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7731.jpeg)
 
 ### Samedi 11, Balaruc
 
@@ -82,7 +82,7 @@ Je suis dans la peau d’un vieillard perclus de douleurs. On dirait que je suis
 
 ---
 
-On peut parler d’écriture avec art et écrire des livres immondes. Qu’en conclure ? Que nous autres écrivains partageons la même expérience du travail, mais que malheureusement nous ne possédons pas un génie égal.
+On peut parler d'écriture avec art et écrire des livres immondes. Qu’en conclure ? Que nous autres écrivains partageons la même expérience du travail, mais que malheureusement nous ne possédons pas un génie égal.
 
 ---
 
@@ -90,7 +90,7 @@ Publier mon journal tous les mois m’évite de m’y abandonner à des critique
 
 ### Dimanche 12, Balaruc
 
-[Un psychothérapeute liste les conséquences de l’absence du père](https://www.yourtango.com/self/how-know-father-wound-still-affects-you-today) : « drug and alcohol abuse, depression and suicide, teen pregnancy, sexual addiction, poverty, divorce, crime, broken marriages », j’ai envie d’ajouter « writing addiction ». [Quand un journaliste demande à Stephen King si l’écriture est une addiction](https://www.rollingstone.com/culture/culture-features/stephen-king-the-rolling-stone-interview-191529/), il répond : « Yeah. Sure. I love it. And it’s one of the few things where I do it less now and get as much out of it. Usually with dope and booze, you do it more and get less out of it as time goes by. It’s still really good, but it’s addictive, obsessive-compulsive behavior. So I’ll write every day for maybe six months and get a draft of something—and then I make myself stop completely for 10 days or 12 days in order to let everything settle. But during that time off, I drive my wife crazy. She says, ‘Get out of my way, get out of the house, go do something—paint a birdhouse, anything!’ »
+[Un psychothérapeute liste les conséquences de l’absence du père](https://www.yourtango.com/self/how-know-father-wound-still-affects-you-today) : « drug and alcohol abuse, depression and suicide, teen pregnancy, sexual addiction, poverty, divorce, crime, broken marriages », j’ai envie d’ajouter « writing addiction ». [Quand un journaliste demande à Stephen King si l’écriture est une addiction](https://www.rollingstone.com/culture/culture-features/stephen-king-the-rolling-stone-interview-191529/), il répond : « Yeah. Sure. I love it. And it’s one of the few things where I do it less now and get as much out of it. Usually with dope and booze, you do it more and get less out of it as time goes by. It’s still really good, but it’s addictive, obsessive-compulsive behavior. So I’ll write every day for maybe six months and get a draft of something—and then I make myself stop completely for 10 days or 12 days in order to let everything settle. But during that time off, I drive my wife crazy. She says, 'Get out of my way, get out of the house, go do something—paint a birdhouse, anything!’ »
 
 ### Lundi 13, Balaruc
 
@@ -134,7 +134,7 @@ Les coups de poignard se multiplient, tout faux mouvement me fait grimacer, ferm
 
 ---
 
-Après avoir lu un Goncourt qui use et abuse de la voix passive dans la scène inaugurale, je retombe sur un texte d’Hemingway qui utilise la couleur si particulière de la voix passive dès le premier paragraphe. *Îles à la dérive*. Je n’avais jamais entendu parler de ce roman, peu convaincant, qui me fatigue assez vite. Hemingway s’abandonne à sa pente, sans le moindre effort pour s’en extraire.
+Après avoir lu un Goncourt qui use et abuse de la voix passive dans la scène inaugurale, je retombe sur un texte d'Hemingway qui utilise la couleur si particulière de la voix passive dès le premier paragraphe. *Îles à la dérive*. Je n’avais jamais entendu parler de ce roman, peu convaincant, qui me fatigue assez vite. Hemingway s’abandonne à sa pente, sans le moindre effort pour s'en extraire.
 
 ### Samedi 18, Balaruc
 
@@ -206,12 +206,12 @@ Des souvenirs du café ne cessent de remonter depuis hier. Je pourrais écrire u
 
 ---
 
-Timothée valide définitivement son inscription en prépa à Paris. Fin d’une époque pour lui et nous.
+Timothée valide définitivement son inscription en prépa à Paris. Fin d'une époque pour lui et nous.
 
 ---
 
-Olivier Auber a merveilleusement, ou plutôt dégueulassement [joué avec une IA graphiste](https://olivierauber.medium.com/intelligence-artificielle-2144d44cdd69), jusqu’au moment où il a été banni de la plateforme, pour ses sous-entendus sexuels. J’ai tenté de convertir quelques textes en images, puis j’ai collé le début de *Quelques atomes de vérités*. Puis j’ai fait d’autres essais, notamment l’un avec des portails de téléportation sur un monde avec deux soleils. Fascinant. Dessiner avec les mots. L’art entame une révolution hallucinante : [la création assistée par la machine](https://discord.com/channels/662267976984297473/989739733993263114).
+Olivier Auber a merveilleusement, ou plutôt dégueulassement [joué avec une IA graphiste](https://olivierauber.medium.com/intelligence-artificielle-2144d44cdd69), jusqu’au moment où il a été banni de la plateforme, pour ses sous-entendus sexuels. J’ai tenté de convertir quelques textes en images, puis j’ai collé le début de *Quelques atomes de vérités*. Puis j’ai fait d’autres essais, notamment l'un avec des portails de téléportation sur un monde avec deux soleils. Fascinant. Dessiner avec les mots. L’art entame une révolution hallucinante : [la création assistée par la machine](https://discord.com/channels/662267976984297473/989739733993263114).
 
-![IA dessin](https://tcrouzet.com/images_tc/2022/07/IA1.jpeg)
+![IA dessin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IA1.jpeg)
 
-![IA dessin](https://tcrouzet.com/images_tc/2022/07/IA2.jpeg)
+![IA dessin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IA2.jpeg)
