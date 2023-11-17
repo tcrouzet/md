@@ -64,7 +64,7 @@ J’ai tenté d’alléger mon iPhone en jouant sur son double étui, mais je n�
 
 Je suis donc passé de 1 177 g pour l’électricité à 907 g, gain de 23 %. Plus que le poids, j’ai réduit le nombre d’objets à transporter, donc leur volume. J’ai fait un petit pas vers la simplicité.
 
-![Comparaison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/04/electric-520x450.png)
+![Comparaison](https://tcrouzet.com/images_tc/2019/04/electric-520x450.png)
 
 ### Le point lourd
 

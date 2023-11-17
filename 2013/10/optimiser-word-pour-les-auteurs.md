@@ -40,7 +40,7 @@ Pour arriver au même résultat sur Word, il faut personnaliser l’interface :
 
 Je me suis programmé une petite macro qui me fait basculer dans ce mode. Il vous suffit de la personnaliser et de lui associer une icône sur la barre d’outils d’Accès rapide. Je reviens en visualisation standard avec la touche Escape. Ainsi je bénéficie de toute la puissance de Word tout en écrivant dans un environnement dépouillé.
 
-![Optimiser Word](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2013/10/wd.png)
+![Optimiser Word](https://tcrouzet.com/images_tc/2013/10/wd.png)
 
 Pour bloguer un texte, je le sélectionne et lance une autre macro qui le convertit en [Markdown](http://daringfireball.net/projects/markdown/basics). Je le colle alors dans WordPress. J’ajoute ensuite les images.
 

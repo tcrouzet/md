@@ -4,33 +4,33 @@ Depuis [le lancement du financement participatif](https://www.gameontabletop.com
 
 Comment ça marche pour [*L’affaire Deluze*](https://tcrouzet.com/deluze/) ? [L’éditeur](http://www.les12singes.com/) a proposé un financement avec un premier palier à 8 000 €, puis il a proposé des options qui se débloquent peu à peu au fur et à mesure des souscriptions.
 
-![Option 1](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d1-600x188.jpg)
+![Option 1](https://tcrouzet.com/images_tc/2018/06/d1-600x188.jpg)
 
-![Option 2](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d2-600x188.jpg)
+![Option 2](https://tcrouzet.com/images_tc/2018/06/d2-600x188.jpg)
 
-![Option 3](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d3-600x188.jpg)
+![Option 3](https://tcrouzet.com/images_tc/2018/06/d3-600x188.jpg)
 
-![Option 4](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d4-600x188.jpg)
+![Option 4](https://tcrouzet.com/images_tc/2018/06/d4-600x188.jpg)
 
-![Option 5](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d5-600x188.jpg)
+![Option 5](https://tcrouzet.com/images_tc/2018/06/d5-600x188.jpg)
 
-![Option 6](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d6-600x188.jpg)
+![Option 6](https://tcrouzet.com/images_tc/2018/06/d6-600x188.jpg)
 
-![Option 7](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d7-600x188.jpg)
+![Option 7](https://tcrouzet.com/images_tc/2018/06/d7-600x188.jpg)
 
-![Option 8](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d8-600x188.jpg)
+![Option 8](https://tcrouzet.com/images_tc/2018/06/d8-600x188.jpg)
 
-![Option 9](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d9-600x188.jpg)
+![Option 9](https://tcrouzet.com/images_tc/2018/06/d9-600x188.jpg)
 
-![Option 10](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d10-600x203.jpg)
+![Option 10](https://tcrouzet.com/images_tc/2018/06/d10-600x203.jpg)
 
-![Option 11](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d11-600x188.jpg)
+![Option 11](https://tcrouzet.com/images_tc/2018/06/d11-600x188.jpg)
 
-![Options 12](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d12-600x188.jpg)
+![Options 12](https://tcrouzet.com/images_tc/2018/06/d12-600x188.jpg)
 
-![Option 13](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d13-600x190.jpg)
+![Option 13](https://tcrouzet.com/images_tc/2018/06/d13-600x190.jpg)
 
-![Option 14](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/d14-600x190.jpg)
+![Option 14](https://tcrouzet.com/images_tc/2018/06/d14-600x190.jpg)
 
 Grâce aux options qui se débloquent au fil des souscriptions, l’édition de [*L’affaire Deluze*](https://tcrouzet.com/deluze/) sera de plus en plus luxueuse. Ce système des options à débloquer pourrait aussi bien concerner le contenu. Dans un cadre littéraire, les souscripteurs pourraient débloquer des chapitres, puis débloquer des thèmes. Voici à quoi pourrait ressembler un tel projet.
 

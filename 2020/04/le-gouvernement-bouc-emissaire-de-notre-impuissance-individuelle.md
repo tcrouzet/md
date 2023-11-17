@@ -10,21 +10,21 @@ Je me place en janvier. Qu’est-ce que j’ai fait ? J’ai acheté du gel hyd
 
 Voilà ce que j’ai fait. Ce n’est pas extraordinaire. Les Hongkongais ont collectivement et spontanément appliqué ces mesures dès la fin janvier, alors qu’il n’y avait encore aucun cas chez eux, aucun mort. Résultat : quatre victimes au 6 avril. Ok, ils ont ajouté le port du masque, chez eux un comportement installé depuis longtemps. Mais le masque est inutile sans une scrupuleuse hygiène des mains qui doit rester la priorité des priorités.
 
-![Portugal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/exp2.png)
+![Portugal](https://tcrouzet.com/images_tc/2020/04/exp2.png)
 
-![Portugal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/exp1.png)
+![Portugal](https://tcrouzet.com/images_tc/2020/04/exp1.png)
 
 On parle de l’exemplarité des pays asiatiques, mais on trouve aussi des pays exemplaires en Europe. Au Portugal, le confinement entre en vigueur le 13 mars alors que [le pays ne compte aucune victime](https://www.worldometers.info/coronavirus/country/portugal/), mais les Portugais se sont [autoconfinés et disciplinés depuis une petite semaine](https://www.francetvinfo.fr/sante/maladie/coronavirus/lexemplarite-des-portugais-dans-la-pandemie_3870963.html). Ils ont stoppé l’épidémie avant l’explosion exponentielle. Ils l’ont fait au regard de ce qui se passait chez leurs voisins. Plus on se confine tôt, plus c’est efficace, plus on peut adopter des mesures douces et éviter les lois liberticides. Résultat : 295 victimes au 6 avril.
 
-![Italie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/exp4.png)
+![Italie](https://tcrouzet.com/images_tc/2020/04/exp4.png)
 
-![Italie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/exp3.png)
+![Italie](https://tcrouzet.com/images_tc/2020/04/exp3.png)
 
 L’Italie se confine totalement le 9 mars, alors que le pays compte 463 victimes. Nous sommes en pleine explosion exponentielle et elle se prolongera durant plus de deux semaines avant de se calmer. Résultat : 15 887 victimes au 6 avril, malgré un confinement extrêmement dur. Plus on s'y prend tard, plus il faut être contraignant. Le gouvernement italien fait payer à ses concitoyens sa lenteur de réaction.
 
-![France](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/exp6.png)
+![France](https://tcrouzet.com/images_tc/2020/04/exp6.png)
 
-![France](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/exp5.png)
+![France](https://tcrouzet.com/images_tc/2020/04/exp5.png)
 
 En France, le confinement entre vraiment en vigueur le 17 mars, alors que nous décomptons 175 victimes. Nous nous y prenons plus tôt que l'Italie, mais bien plus tard que le Portugal ou que l'Allemagne ou que bien d'autres pays. C'est ce que je raconte dans [mon histoire non officielle de la pandémie](https://tcrouzet.com/2020/04/05/pourquoi-le-confinement-etait-la-seule-strategie-possible/), nous avons perdu potentiellement deux semaines.
 

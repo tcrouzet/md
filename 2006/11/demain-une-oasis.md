@@ -2,7 +2,7 @@
 
 Le 12 septembre dernier, suite à un de mes billets, [Isabelle](http://blog.tcrouzet.com/2006/09/12/matrix-connexion/#comment-1533) me suggère de lire [Ayerdhal](http://fr.wikipedia.org/wiki/Ayerdhal). Je ne le connaissais pas. J’ai 2 000 livres de SF à la maison mais, depuis vingt ans, je me suis détourné du genre, n’y revenant que pour lire un peu de Bordage, de Gibson et quelques récits de fantasy dont je tairai les noms. J’ai alors demandé à Isabelle par quel livre je pouvais commencer.
 
-![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/oasis.jpg)
+![](https://tcrouzet.com/images_tc/oasis.jpg)
 
 Sans attendre sa réponse, j’ai essayé de dénicher le mail d’Ayerdhal sur le web. Quand on me parle d’un auteur que je ne connais pas, réflexe connecteur, j’essaie de lui écrire. Mais je n’ai pas eu le temps de le faire. [Ayerdhal venait de me répondre sur le blog, me conseillant quelques-uns de ses livres.](http://blog.tcrouzet.com/2006/09/12/matrix-connexion/#comment-1535)
 

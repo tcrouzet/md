@@ -94,7 +94,7 @@ Il y a une dimension littéraire dans ma façon de faire du vélo. Je m’ouvre 
 
 ### Mardi 9, Magelone
 
-![À vélo, canal du Rhône à Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5486-600x450.jpg)
+![À vélo, canal du Rhône à Sète](https://tcrouzet.com/images_tc/2019/07/IMG_5486-600x450.jpg)
 
 ### Mercredi 10, Balaruc
 
@@ -108,11 +108,11 @@ Quand ma première lecture de la journée est [« Les designers peuvent faire e
 
 Des auteurs parlent merveilleusement de la Littérature, me donnent envie de lire des dizaines de livres, mais ils sont incapables d’éveiller mon envie pour autre chose, et à ce titre quelle littérature peuvent-ils eux-mêmes produire, sinon une littérature qui se regarde le nombril ? J’ai trop perdu de temps à tenir des discours formels.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090784-600x450.jpg)
+![Sète](https://tcrouzet.com/images_tc/2019/07/P1090784-600x450.jpg)
 
-![Balaruc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090790-600x450.jpg)
+![Balaruc](https://tcrouzet.com/images_tc/2019/07/P1090790-600x450.jpg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5501-600x450.jpg)
+![À vélo](https://tcrouzet.com/images_tc/2019/07/IMG_5501-600x450.jpg)
 
 ### Jeudi 11, Balaruc
 
@@ -122,7 +122,7 @@ Reste que le texte peut avoir un pouvoir immédiat, comme quand je suis sur le v
 
 ---
 
-![L'île au trésor](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090802-600x450.jpg)
+![L'île au trésor](https://tcrouzet.com/images_tc/2019/07/P1090802-600x450.jpg)
 
 *Reprendre le temps.* J’écris cette légende sous la photo que je poste en m’installant au bord de l’étang, au bout d’un chemin invisible, qui se termine sur un tapis d’algues noires, à l’ombre d’un bouquet de roseaux. Un peu plus loin quelques rochers ocres, mes îles au trésor de quand j’étais enfants, aux pieds d’une petite falaise argileuse plantée de tamaris. Sur l’autre rive, les collines de Bouzigues, déchirées par la lèvre sanglante d’une carrière, plus loin, une ligne d’éoliennes, leurs pâles indolentes orientées au sud. Les roseaux frétillent dans mon dos, des sternes filent au raz de l’eau. J’ai situé ici un de mes romans de jeunesse, jamais publié, roman autobiographique. Avec [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/), j’en suis revenu à mon point de départ.
 
@@ -176,15 +176,15 @@ Ce n’est pas en regardant une vidéo au bord de la mer que j’éprouverais un
 
 La littérature désormais est faite pour l’extérieur, là où les autres médias sont moins adroits qu’elle. Elle est faite pour aiguillonner, pour éveiller, pour initier. Mais qui prend le temps ? Je m’en fiche, j’écris pour ceux qui prennent le temps de vivre. Je ne me sens pas capable de réveiller les mourants, et je répugne à écrire des livres d’assassin.
 
-![Le ponton](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090810-600x450.jpg)
+![Le ponton](https://tcrouzet.com/images_tc/2019/07/P1090810-600x450.jpg)
 
-![Le voilier rouge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090813-600x450.jpg)
+![Le voilier rouge](https://tcrouzet.com/images_tc/2019/07/P1090813-600x450.jpg)
 
 *Après-midi d’un écrivain* de Peter Handke, première phrase : « Depuis l’époque où il avait vécu, presque une année durant, avec l’idée que la langue désormais lui manquait, chaque phrase était devenue pour l’écrivain un évènement, pourvu qu’il y sentît le sursaut possible d’une suite. » Plus loin « Chaque mot (…) le faisait respirer largement et le reliait au monde avec une force nouvelle. »
 
-![À vélo, Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5511-600x450.jpg)
+![À vélo, Bellevue](https://tcrouzet.com/images_tc/2019/07/IMG_5511-600x450.jpg)
 
-![À vélo, Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5513-600x450.jpg)
+![À vélo, Bellevue](https://tcrouzet.com/images_tc/2019/07/IMG_5513-600x450.jpg)
 
 ### Samedi 13, Balaruc
 
@@ -202,7 +202,7 @@ Hier, une équipe de France 2 était à la maison, non pas pour me filmer, mais 
 
 *Après-midi d’un écrivain* est un beau texte, un texte sur le regard de l’écrivain en promenade, un texte dont l’écriture a procuré du plaisir à son auteur, mais trop descriptif, pas conduit pas une pensée ni une histoire, un texte comme nous en écrivons dans nos journaux intimes, à l’entraînement.
 
-![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090853-600x450.jpg)
+![Couchant](https://tcrouzet.com/images_tc/2019/07/P1090853-600x450.jpg)
 
 ### Dimanche 14, Balaruc
 
@@ -216,13 +216,13 @@ Je me demande ce qu’un roman pourrait révéler de neuf sur la guerre d’Alg�
 
 Tout le monde se donne le droit de juger en ligne et de faire mal, car celui jugé peut se savoir jugé. Les réseaux sociaux portent la négativité jusqu’à sa source imaginaire, et l’impression est de plus en plus forte de vivre dans une époque cataclysmique, juste parce que les « moins » s’amplifient bien plus puissamment que les « plus ». La bêtise suit la même route, ces deux voix se mêlent, il n’en sort rien de bon.
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5537-600x450.jpg)
+![À vélo](https://tcrouzet.com/images_tc/2019/07/IMG_5537-600x450.jpg)
 
 ### Jeudi 18, Pézénas
 
-![Porte](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5547-600x450.jpg)
+![Porte](https://tcrouzet.com/images_tc/2019/07/IMG_5547-600x450.jpg)
 
-![Hôtel de Lacoste](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5559-600x450.jpg)
+![Hôtel de Lacoste](https://tcrouzet.com/images_tc/2019/07/IMG_5559-600x450.jpg)
 
 ### Vendredi 19, Balaruc
 
@@ -238,9 +238,9 @@ Tracer, m’obsède. Je veux éplucher le territoire, en parcourir les méandres
 
 Idée d’un texte romanesque qui serait inspirée d’une histoire vécue par la sœur d’un ami. Elle a la quarantaine quand elle apprend qu’elle a un cancer et que son mari la quitte après l’avoir trompée durant des années. Elle tombe alors éperdument amoureuse d’un collègue de travail avec qui elle vivra avec passion les deux dernières années de sa vie. Le temps des horloges n’a aucun lien avec le temps vécu, avec le temps psychologique. On peut vivre jusqu’au bout. Cette histoire bouleversante et belle nous incite à vivre, à aimer, à nous enthousiasmer. Je pourrais interroger les acteurs de cette aventure, la reconstituer, la réinventer pour en retenir ce qui nous parlerait à tous. Ce pourrait être un texte d’après [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/), dont j’apprends qu’un libraire indépendant en fera son roman de la rentrée, ce qui pourrait paraître anecdotique vu le nombre de libraires en France, mais qui signifie pour moi que ce libraire aime mon texte et a envie de le faire aimer à ses clients.
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5567-600x450.jpg)
+![À vélo](https://tcrouzet.com/images_tc/2019/07/IMG_5567-600x450.jpg)
 
-![À vélo, Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5574-600x450.jpg)
+![À vélo, Bellevue](https://tcrouzet.com/images_tc/2019/07/IMG_5574-600x450.jpg)
 
 ### Samedi 20, Balaruc
 
@@ -336,9 +336,9 @@ J’ai lu *La Grande Beune* de Michon, beau texte sur le désir, un texte bref a
 
 ### Dimanche 28, Montpellier
 
-![Rue du Musée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/E69F6D8C-088B-4E5D-82C5-7BE7735C6335-600x450.jpg)
+![Rue du Musée](https://tcrouzet.com/images_tc/2019/07/E69F6D8C-088B-4E5D-82C5-7BE7735C6335-600x450.jpg)
 
-![Silence du midi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5641-600x450.jpg)
+![Silence du midi](https://tcrouzet.com/images_tc/2019/07/IMG_5641-600x450.jpg)
 
 ### Lundi 29, Balaruc
 

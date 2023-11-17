@@ -18,7 +18,7 @@ Une powerbank, un phare avec batterie, une frontale avec batterie, un GPS avec b
 
 Je cherche encore le produit miracle : environ 50 g, 40W, deux ports USB-C ou, à la limite, un USB-C et un USB-A. En attendant de trouver mieux, [j'utilise un 20W](https://www.amazon.fr/gp/product/B092342SR7/). [Anker propose un 40W, dual USB-C](https://us.anker.com/products/a2038), mais pour 93 g.
 
-![Chargeur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_9347.jpg)
+![Chargeur](https://tcrouzet.com/images_tc/2021/12/IMG_9347.jpg)
 
 ### Powerbank
 
@@ -40,9 +40,9 @@ Autre solution : utiliser un phare dépourvu de batterie interne, par exemple u
 
 C’est 100 g de gagnés par rapport à la Nitecore, mais à condition d’emporter une powerbank pour d’autres usages, sinon mieux vaut un phare type Nitecore, bien plus puissant, avec beaucoup plus de modes, une estimation de la charge restante. En prime, ce phare n’a pas de fil à la patte.
 
-![Klamp optimisation](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_4445.jpeg)
+![Klamp optimisation](https://tcrouzet.com/images_tc/2021/12/IMG_4445.jpeg)
 
-![Klamp bidouillée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_4446.jpeg)
+![Klamp bidouillée](https://tcrouzet.com/images_tc/2021/12/IMG_4446.jpeg)
 
 Si j’étais Klamp, je proposerais un phare qui s’inspirerait de l’ancienne Fenix BC21R et qui accepterait un ou deux accus 21700 interchangeables. Elle servirait ainsi en même temps de powerbank ([Ravenem propose des phares/powerbanks mais pas à base d’accus standards](https://www.ravemen.com/front-lights.html)). Au minimum, je réduirai le poids de l’EXR1100. Aujourd'hui, à puissance quasi égale, son poids nue est largement supérieur à une Kiska 2 avec son accumulateur.
 
@@ -50,7 +50,7 @@ Si j’étais Klamp, je proposerais un phare qui s’inspirerait de l’ancienne
 
 Je ne détaille pas, parce que j'ai testé des dizaines de configurations, allant jusqu'à chercher les câbles de la bonne longueur. Quand est-ce que tous les appareils seront en USB-C ? C'est encore la merde entre iPhone (lightning), Garmin (micro-USB), powerbank (USB-C, USB-A)… Du coup, faut transporter trois ou quatre câbles, ou des câbles avec embouts gigognes (mais problème, ils se déboîtent souvent avec les vibrations quand on roule).
 
-![Mes configs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/lights.png)
+![Mes configs](https://tcrouzet.com/images_tc/2021/12/lights.png)
 
 Ce tableau résume l’évolution de ma configuration électrique. Ma configuration rêvée ne serait guère plus légère que ma configuration actuelle, mais elle serait plus modulable, plus durable, plus ergonomique.
 

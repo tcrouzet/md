@@ -22,7 +22,7 @@ Un temps de réaction aussi rapide n’est possible qu’à l’aide de robots, 
 
 Les robots proposent ce genre de services, en veillant à ne franchir aucune des [limites de la bienséance fixées par Instagram](https://instazood.com/blog/instagram-rules-restrictions-and-limits/) (mais avec la possibilité de liker mille fois par jour, on a de la marge). Si vous utilisez des hashtags, ne vous étonnez plus de recevoir des encouragements de comptes prestigieux qui ne vous suivent pas. Il s’agit de robots recruteurs.
 
-![Grid](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/grid.jpg)
+![Grid](https://tcrouzet.com/images_tc/2019/10/grid.jpg)
 
 J’ai donc joué avec Alfred, mais je le trouvais pataud tout en n’ayant pas envie de payer un service plus performant. Comme j’aime coder, question de ne pas perdre la main, j’ai regardé du côté de l’API-Instagram, l’interface offerte aux développeurs de services tiers comme les promoteurs de robots, mais aussi de très belles applications comme [Grid](http://gridsapp.net/) que j’utilise sur Mac pour poster mes couchers de soleil.
 
@@ -30,7 +30,7 @@ Pour mieux comprendre ce qui se passait, j’ai programmé un robot qui repostai
 
 La lecture de dizaines de reposts m’a familiarisé avec l’usage des hashtags et un jargon propice au recrutement d’abonnés. Mais bien vite, j’imagine parce que j’avais outrepassé les règles de la bienséance, mon compte a été blacklisté, assez tard toutefois pour que j’aie compris le manège.
 
-![La qualité, on la trouve chez Mollat, par exemple)](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/mollat.jpg)
+![La qualité, on la trouve chez Mollat, par exemple)](https://tcrouzet.com/images_tc/2019/10/mollat.jpg)
 
 Sur Instagram, pour connaître le succès, il faut certes publier des contenus de qualités, mais aussi souvent utiliser des robots si on veut étendre sa communauté au-delà d’une masse critique de quelques milliers d’abonnés. Quelle est alors la valeur d’une telle communauté artificiellement boostée ?
 
@@ -54,7 +54,7 @@ Comme je commençais à maîtriser l’API, j’ai continué à jouer. Après la
 
 5. Un troisième robot [classe des libraires en fonction de leur nombre d’abonnés](https://tcrouzet.com/librairies/) et génère ainsi un annuaire Instagram des libraires.
 
-![@librairies_fr](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/librairies_fr.jpg)
+![@librairies_fr](https://tcrouzet.com/images_tc/2019/10/librairies_fr.jpg)
 
 C’est très bête, mais j’ai ainsi pris le pouls des libraires, constaté leur dynamisme numérique. Certains m’ont tout de suite dit que mon initiative était une façon pour eux de découvrir leurs confrères. La bonne surprise : certaines librairies réussissent à se classer en tête en engagement et popularité, ce qui démontre la santé et à la qualité de leur compte Instagram.
 
@@ -68,13 +68,13 @@ Comme j’étais lancé, je me suis dit que je pouvais créer d’autres robots 
 
 - J’ai un peu calé sur [@les\_auteurs\_fr](https://www.instagram.com/les_auteurs_fr), car il n’y a aucun moyen simple de découvrir nos Instagram (nous n’utilisons pas ou peu de hashtags, en restant à un usage artisanal). Et puis qui est auteur ? Qui ne l’est pas. Je ne suis pas allé plus loin dans cette direction.
 
-![@editeurs_fr](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/editeurs_fr.jpg)
+![@editeurs_fr](https://tcrouzet.com/images_tc/2019/10/editeurs_fr.jpg)
 
 Je ne tire aucun enseignement profond suite à cette petite exploration, sinon de ne pas trop attacher d’attention aux chiffres, surtout bruts tels que le nombre d’abonnés, trop faciles à gonfler artificiellement à l’aide de robots (les plus audacieux proposant de gagner des centaines d’abonnés par jour).
 
 Je ne ressors pas trop déprimé de ce petit voyage en automatisation sociale. De toute évidence, beaucoup de gens aiment encore les livres. Je ne peux que reconnaître que la créativité visuelle fonctionne à plein régime, mettre en scène les livres devient un art, suffit de jeter un œil [au travail de la librairie Mollat](https://www.instagram.com/librairie_mollat/) ou à l’unité visuelle des images de [Mademoisellelit](https://www.instagram.com/mademoisellelit/).
 
-![Mon Instagram](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/tcrouzet.jpg)
+![Mon Instagram](https://tcrouzet.com/images_tc/2019/10/tcrouzet.jpg)
 
 À titre personnel, je me suis mis à reposter sur mon compte les mises en scène de mes livres effectuées par les libraires et les bookgrameuses, à suivre des libraires et bookgrameuses, mais je ne vais pas cesser de publier mes couchers de soleil. Si nous autres auteurs étions obsédés par les chiffres nous chercherions tous à imiter les Musso, Levy et Chattam, plutôt que de creuser notre trou (OK, parfois il s’apparente à une tombe, mais on est un rien masochiste).
 

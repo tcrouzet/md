@@ -20,17 +20,17 @@ Une fois les montures prêtes, nous nous retrouvons pour un repas improvisé, é
 
 ### Vendredi 2 avril
 
-![Les six compères](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8547.jpeg)
+![Les six compères](https://tcrouzet.com/images_tc/2021/04/IMG_8547.jpeg)
 
 Nous sommes donc six à nous élancer de chez moi, sous un ciel pur, mais avec un petit 6°C qui nous fait serrer les dents. Tout en faisant plus amplement connaissance, nous roulons vers Sète, point de départ officiel du tour. Le soleil se lève quand nous atteignons la pointe Courte, le petit port de pêche, à la jonction entre le Grand Canal et l’étang de Thau. Un message nous avertit que nos deux autres compères, Artur (61 ans - French Divider-, et Clément (30 ans - débutant), nous attendent plus loin. Nous les retrouvons après avoir longé la plagette.
 
-![La Pointe Courte](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8556-1.jpeg)
+![La Pointe Courte](https://tcrouzet.com/images_tc/2021/04/IMG_8556-1.jpeg)
 
 Artur a pris le train de Montpellier jusqu’à Sète. Il roule avec un semi-rigide. Clément, lui, a déjà parcouru 35 km à fond avec son gravel pour ne pas nous manquer. Nous voilà en file indienne sur le sentier qui ondule entre les anciennes salines et l’étang. Le soleil nous réchauffe déjà. Je suis chez moi, sur un de mes terrains de jeu préférés, mais je reste ébahi par le spectacle. Le tour ne peut pas mieux commencer.
 
-![Le lido](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8561.jpeg)
+![Le lido](https://tcrouzet.com/images_tc/2021/04/IMG_8561.jpeg)
 
-![Le lido](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8569.jpeg)
+![Le lido](https://tcrouzet.com/images_tc/2021/04/IMG_8569.jpeg)
 
 Je sais que le dépaysement est immédiat pour ceux qui arrivent de loin. Et d’avoir cette pensée, de me mettre à leur place, je ne suis pas tout à fait dans une aventure bikepacking ordinaire. J’en suis l’organisateur, en connais le plus souvent les tours et détours, et me sens en quelque sorte responsable, mais sans en éprouver un poids excessif. J’ai l’habitude de conduire les copains dans des pièges lors de nos explorations.
 
@@ -38,35 +38,35 @@ Depuis quelques semaines, l’étang est exceptionnellement bas. Patrick nous fa
 
 Il y a chez moi toujours une ambition poétique. Là, montrer que le plaisir est au bout du jardin, au bout de la ville, à l’intérieur même du département, gratuit, ouvert, débordant pour qui veut s’en emparer. Pas de chronomètre, de brevet, de diplôme, pas d’autres récompenses que la satisfaction d’avoir accompli une prouesse qui pour beaucoup paraîtrait extraordinaire.
 
-![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8573.jpeg)
+![Marseillan](https://tcrouzet.com/images_tc/2021/04/IMG_8573.jpeg)
 
-![Le Fat sur son terrain](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8577.jpeg)
+![Le Fat sur son terrain](https://tcrouzet.com/images_tc/2021/04/IMG_8577.jpeg)
 
-![Le lido](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8583.jpeg)
+![Le lido](https://tcrouzet.com/images_tc/2021/04/IMG_8583.jpeg)
 
 J’arrête de penser et roule. Parfois je me pose pour photographier et cravache pour rattraper les autres. Nous rejoignons la mer. Suivons la piste cyclable jusqu’au Canal du Midi, puis un single ombragé nous amène le long de l’Hérault jusqu’à Agde. Il est près de 10 h. Nous hésitons devant une boulangerie miteuse, puis décidons de poursuivre en suivant les quais, que nous quittons pour gagner la mer à travers une pinède. Patrick nous organise une séance photo, pendant que Bertrand se bat avec ses sacoches qui piquent du nez et lèchent ses roues. Nous nous extrayons du sable, puis remontons vers le Canal du Midi. Après les écluses du Libron, nous filons vers l’ancien delta de l’Orb.
 
-![Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8590.jpeg)
+![Agde](https://tcrouzet.com/images_tc/2021/04/IMG_8590.jpeg)
 
-![La plage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8595.jpeg)
+![La plage](https://tcrouzet.com/images_tc/2021/04/IMG_8595.jpeg)
 
-![Les écluses du Libron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8598.jpeg)
+![Les écluses du Libron](https://tcrouzet.com/images_tc/2021/04/IMG_8598.jpeg)
 
-![La Grande Maire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8600.jpeg)
+![La Grande Maire](https://tcrouzet.com/images_tc/2021/04/IMG_8600.jpeg)
 
 La sécheresse des dernières semaines nous permet de passer le point bas sans nous mouiller. Il fait de plus en plus doux et nous nous déplumons, bientôt tous en tenue estivale. Bertrand en profite pour se battre une nouvelle fois avec ses sacoches, ses affaires éparpillées autour de lui sur le chemin. À 11 h 15, nous nous arrêtons à Sérignan pour nous approvisionner dans une boulangerie testée et approuvée. Nous emportons nos victuailles pour les dévorer sous une pinède en surplomb de l’étang de Vendres.
 
-![L'étang de Vendres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8603.jpeg)
+![L'étang de Vendres](https://tcrouzet.com/images_tc/2021/04/IMG_8603.jpeg)
 
 Bientôt un nuage cache le soleil et la fraîcheur nous incite à reprendre la route. Nous descendons vers le village, passons avec envie devant la terrasse d’un café fermé, puis cheminons vers les falaises de terre ocre jaune, où nous attaquons notre premier single vététisant.
 
 Une montée sèche, heureusement sur asphalte, nous amène à Lespignan, puis un single nous conduit jusqu’à un massif boisé, traversé de pistes sous pinèdes. Le groupe est homogène, personne ne traîne derrière, après plus de 80 km. Clément nous montre sa fougue en nous plantant de belles accélérations, mais en nous attendant au sommet des difficultés.
 
-![La pinède](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8609.jpeg)
+![La pinède](https://tcrouzet.com/images_tc/2021/04/IMG_8609.jpeg)
 
-![L'étang de Capestang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8615.jpeg)
+![L'étang de Capestang](https://tcrouzet.com/images_tc/2021/04/IMG_8615.jpeg)
 
-![Canal du Midi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8621.jpeg)
+![Canal du Midi](https://tcrouzet.com/images_tc/2021/04/IMG_8621.jpeg)
 
 Après la traversée des étangs de Capestang, nous rejoignons à nouveau le Canal du Midi pour un secteur un peu monotone, mais non sans charme avec ses immenses arbres. Pour rompre l’indolente platitude, Clément, Julien, Artur et Bertrand piquent un sprint. Nous autres n’accélérons pas, mais bientôt rattrapons Clément qui a perdu les trois autres, mystérieusement volatilisés entre lui et nous. Peut-être sont-ils devant ? Nous avons des doutes. Peu avant Argeliers, un gars repeint la bicoque abritant un snack posé au bord du canal. Nous lui demandons s’il peut nous servir quelque chose et, contrevenant aux consignes sanitaires, il chauffe quelques cafés et déniche une vieille cannette de Perrier.
 
@@ -74,117 +74,117 @@ Julien, Bertrand et Artur ne nous rejoignent que dix minutes plus tard. Nous él
 
 Après Argeliers, les véritables difficultés commencent. Nous escaladons le Pech de Bize par un chemin que j’ai descendu lors de ma reconnaissance, sans prendre conscience de sa difficulté en montée. Il faut s’arracher les tripes pour le passer sans mettre pied à terre, ce que je préfère pour ne pas puiser dans mes réserves. En bikepacking, je suis à l’économique, pensant toujours au lendemain. Clément bataille, son gravel ne disposant pas de développements adaptés à de telles ascensions.
 
-![Clément en haut du raidillon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8626.jpeg)
+![Clément en haut du raidillon](https://tcrouzet.com/images_tc/2021/04/IMG_8626.jpeg)
 
 Je me dis que je dois modifier la trace pour éviter ce passage, mais a posteriori je découvre que cela implique un long détour, pas nécessairement plus facile. Parfois, pousser quelques mètres est préférable à pédaler durant dix minutes. Nous autres vététistes avons l’habitude du poussage. Avec des vélos chargés, c’est plus compliqué, mais souvent le prix à payer pour atteindre de beaux secteurs.
 
 Au-dessus de nous, des parapentistes s’amusent dans les thermiques. Le compteur de mon GPS indique 24°C. Il y a un air d’été. Nous plongeons sur Bize-Minervois par un chemin muletier. Il est déjà 16 h et plus de 40 km difficiles nous attendent avant la chapelle Notre-Dame du Cros où nous comptons camper. Donc pas le temps d’explorer les ruelles du village ou de farnienter au bord la Cesse.
 
-![Vallée de la Cesse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8629.jpeg)
+![Vallée de la Cesse](https://tcrouzet.com/images_tc/2021/04/IMG_8629.jpeg)
 
-![Sur les hauteurs de Bize](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8651.jpeg)
+![Sur les hauteurs de Bize](https://tcrouzet.com/images_tc/2021/04/IMG_8651.jpeg)
 
 Nous traversons une oliveraie, franchissons une passerelle de bois, puis un single nous amène vers une piste. Nous voyant déjà perchés au-dessus de lui, Bertrand fonce droit vers nous par un raidillon qui le met à terre. Il se blesse le coude, sans gravité. Cette chute désorganise une fois de plus ses sacoches. Jacques l’aide à les arrimer. Nous autres ne pouvons nous empêcher de marmonner qu’il faut toujours tester une configuration bikepacking dans les pires conditions de terrain avant de s’attaquer à un voyage. Patrick surnomme Bertrand d’un sobriquet destiner à durer : SacocheMan.
 
 Nous attaquons alors un long secteur avec des singles qui sinuent entre les buissons parfois griffant, d’autre fois sous les pins, avec quelques passages techniques. Que du plaisir pour les amoureux du pilotage, mais à coup sûr rébarbatif pour les purs graveleux, leur bécane n’étant pas assez joueuses pour ces passages. Félix me contredira, parce que lui s’éclate, mais c’est un pilote exceptionnel à ne pas prendre pour référence. Avec mon gravel, même avec des pneus de 45 mm comme les siens, je ne me risquerais pas dans la plupart des passages que nous avons dévorés. D’ailleurs, Clément est de plus en plus à la peine et commence à faire l’élastique. Le temps des brusques accélérations est terminé. Les kilomètres commencent à peser.
 
-![Aigne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8656.jpeg)
+![Aigne](https://tcrouzet.com/images_tc/2021/04/IMG_8656.jpeg)
 
-![Artur dans ses œuvres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8668.jpeg)
+![Artur dans ses œuvres](https://tcrouzet.com/images_tc/2021/04/IMG_8668.jpeg)
 
 Nous atteignons Azillanet à 18 h passées. Nous commençons à stresser parce que nous n’avons en réserve pas grand-chose à manger pour le soir. Nous découvrons une magnifique Boulangerie bio, mais il y a du monde et plus que du pain. Nous fonçons pour atteindre Siran avant la fermeture de l’épicerie, mais Clément a du mal à nous suivre. Nous l’attendons pendant qu’Artur s’en va en éclaireur, mais toujours pas de Clément.
 
 Il nous téléphone pour nous annoncer qu’il n’a plus de jambes. Il décide de dormir dans un champ et de rentrer le lendemain en train via Narbonne. Nous avons beau argumenter, l’encourager, il n’a plus de jus, ayant présumé de ses forces et de son endurance sur des terrains difficiles. Nous le laissons à regret derrière nous, prenant en chasse Artur. Nous atteignons Siran peu après 19 h. La supérette est fermée, mais Artur a réussi à la dévaliser de ses derniers sandwiches.
 
-![La Livinière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8671.jpeg)
+![La Livinière](https://tcrouzet.com/images_tc/2021/04/IMG_8671.jpeg)
 
 Un cycliste croisé plus tôt nous rejoint avec son Genesis. Il nous explique être chez lui et suivre notre groupe Facebook. Il me propose à l’occasion de me faire découvrir ses chemins préférés. J’adore ces rencontres inattendues. Elles me donnent foi en une humanité meilleure, où la collaboration serait spontanée et non systématiquement monétisée.
 
 J’aurais aimé passer plus du temps à discuter, mais la nuit nous presse, puis s’épaissit quand nous traversons la magnifique forêt de conifères aux pieds de la montagne Noire. Nous n’avons que le temps d’apercevoir la chapelle Notre-Dame du Cros entre les frondaisons, avant de nous précipiter vers l’esplanade qui la jouxte. Cette aire de pique-nique, avec une vaste pelouse, de grands arbres, une source et un ruisseau, se déroule aux pieds de falaises dédiées à la varappe. Nous montons le camp. La nuit est douce, le ciel piqueté d’étoiles. Extinction des feux à 22 h après 155 km et 1 600 m de dénivelé.
 
-![J1](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/j1.jpg)
+![J1](https://tcrouzet.com/images_tc/2021/04/j1.jpg)
 
 ### Samedi 3 avril
 
 Clair de lune quand nous nous levons à 5 h 45. Nous devons partir tôt pour atteindre le gîte réservé au sommet de l’Espinouse. Alors que Patrick est prêt au bout d’un quart d’heure, il dort dans un bivy, nous autres prenons presque une heure pour ranger nos tentes et remettre nos bécanes et nous-mêmes en ordre de pédalage. Bertrand a réussi à bourrer ses affaires dans un seul sac de guidon plutôt que dans deux, ce qui devrait lui simplifier la vie. Il nous avoue qu’il a eu un peu froid durant la nuit, tout comme Julien. Il fait pourtant un bon 8°C quand nous nous élançons.
 
-![Notre-Dame du Cros](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8674.jpeg)
+![Notre-Dame du Cros](https://tcrouzet.com/images_tc/2021/04/IMG_8674.jpeg)
 
-![Abbatiale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8676.jpeg)
+![Abbatiale](https://tcrouzet.com/images_tc/2021/04/IMG_8676.jpeg)
 
 La piste passe devant la chapelle, avec un porche où il aurait été possible de s’abriter en cas de pluie. Nous attaquons dans le dur, escaladons une butte, puis dévalons vers Caunes-Minervois au moment où l’horizon s’illumine. La journée s’annonce radieuse. Les ruelles de la ville cathare nous conduisent à l’abbatiale, derrière laquelle nous nous approvisionnons en eau, avant de dénicher une boulangerie ouverte de bon matin.
 
-![La montagne Noire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8677.jpeg)
+![La montagne Noire](https://tcrouzet.com/images_tc/2021/04/IMG_8677.jpeg)
 
-![La montagne Noire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8680.jpeg)
+![La montagne Noire](https://tcrouzet.com/images_tc/2021/04/IMG_8680.jpeg)
 
-![La montagne Noire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8706.jpeg)
+![La montagne Noire](https://tcrouzet.com/images_tc/2021/04/IMG_8706.jpeg)
 
-![La montagne Noire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8711.jpeg)
+![La montagne Noire](https://tcrouzet.com/images_tc/2021/04/IMG_8711.jpeg)
 
-![La montagne Noire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8714.jpeg)
+![La montagne Noire](https://tcrouzet.com/images_tc/2021/04/IMG_8714.jpeg)
 
 À la sortie de Caunes débute une longue montée qui nous révèle un panorama somptueux, avec des lignes de collines en plans successifs jusqu’aux Pyrénées. Nous grimpons au-dessus d’une vallée de plus en plus encaissée par une piste parfaite. Ça monte, ça monte. Bientôt nous basculons face nord. Quand nous apercevons à l’ouest le pic de Nore, avec à nos pieds le village en modèle réduit de Lespinassière, des nuages nous cueillent au détour d’un virage, puis une purée de pois de plus en plus humide nous enveloppe. Il finit par pleuvoir. La température chute à 6°C quand nous atteignons le col de Salettes à 886 m. Nous rejoignons un secteur asphalté que le fat bike digère mal puisqu'il casse un maillon. Patrick répare dans le calme pendant que nous tremblotons de froid. Les conditions ne s’améliorent que quand nous plongeons vers Labastide-Rouairoux où nous dévalisons la boulangerie. Je me régale d’un friand au citron, spécialité du Tarn, car depuis quelques kilomètres nous ne sommes plus dans l’Hérault, après avoir un long moment navigué dans l'Aude.
 
 « Merde ! » s’exclame Bertrand. Son sac de guidon s’est déchiré quand il y a rangé ses affaires après avoir une fois de plus déballé son barda. Jacques, toujours de bonne composition, lui vient une nouvelle fois à l’aide, tout en jurant que le matériel bas de gamme n’est vraiment pas conseillé en voyage. Il a bien raison.
 
-![Labastide-Rouairoux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8717.jpeg)
+![Labastide-Rouairoux](https://tcrouzet.com/images_tc/2021/04/IMG_8717.jpeg)
 
-![Vers La Savetat](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8726.jpeg)
+![Vers La Savetat](https://tcrouzet.com/images_tc/2021/04/IMG_8726.jpeg)
 
-![Vers La Savetat](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8741.jpeg)
+![Vers La Savetat](https://tcrouzet.com/images_tc/2021/04/IMG_8741.jpeg)
 
-![Vers La Savetat](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8745.jpeg)
+![Vers La Savetat](https://tcrouzet.com/images_tc/2021/04/IMG_8745.jpeg)
 
-![Vers La Savetat](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8750.jpeg)
+![Vers La Savetat](https://tcrouzet.com/images_tc/2021/04/IMG_8750.jpeg)
 
 Nous nous remettons en selle à 11 h 20. Il fait désormais 12°C et le ciel se dégage. Dès la sortie de la ville, nous grimpons entre les ajoncs en fleur pour vite dépasser à nouveau la barre des 800 m d’altitude et entrer dans le parc régional du Haut Languedoc. Nous traversons des bois, croisons des fermes, de vastes prairies, encore des bois. Le soleil refait son apparition. La trace ondule sans difficulté technique, tantôt par des pistes, tantôt de courtes sections asphaltées. Nous arrivons gentiment à La Savetat-sur-Agout, réputée pour sa source et sa fontaine Calberac où nous remplissons nos gourdes tout en nous reposant au soleil.
 
-![La fontaine Calberac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8771.jpeg)
+![La fontaine Calberac](https://tcrouzet.com/images_tc/2021/04/IMG_8771.jpeg)
 
 La célèbre pâtisserie Flipo étant fermée jusqu’à 15 h 30, nous nous réapprovisionnons dans la supérette située en face. Nous ne trouverons ni eau ni à manger avant d’atteindre le gîte de Faigairolle, 45 km plus loin. Quand nous repartons, Flipo ouvre et une queue se forme devant la boutique sans nous laisser une chance de goûter ses chocolats.
 
 Par une petite route, nous longeons l’Agout, puis bifurquons dans les bois pour grimper par une piste au milieu des sapins et des hêtres. Nous jardinons quelque peu dans un sentier mal entretenu, coupons à travers pente, reprenons notre progression jusqu’aux Roc de Saint-Martin à 1040 m. De grandes bourrasques agitent les arbres.
 
-![Vers le lac de Vézole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8778.jpeg)
+![Vers le lac de Vézole](https://tcrouzet.com/images_tc/2021/04/IMG_8778.jpeg)
 
-![Vers le lac de Vézole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8787.jpeg)
+![Vers le lac de Vézole](https://tcrouzet.com/images_tc/2021/04/IMG_8787.jpeg)
 
-![Lac de Vézole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8796.jpeg)
+![Lac de Vézole](https://tcrouzet.com/images_tc/2021/04/IMG_8796.jpeg)
 
-![Saut de Vézole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8799.jpeg)
+![Saut de Vézole](https://tcrouzet.com/images_tc/2021/04/IMG_8799.jpeg)
 
 Des pistes, puis une petite route nous conduisent au lac de Vézole, quasiment à sec. Le vent est renversant. Nous ne nous attardons guère pour profiter de la vue depuis le sommet du Saut de Vézole. Nous quittons le lac, passons sous les éoliennes vrombissantes et gagnons le chemin des crêtes qui nous révèle à nos pieds la totalité de l’Hérault. Au loin, nous devinons Sète et le mont Saint Clair. Je comprends alors que le tour devra à l’avenir se terminer là-bas pour dérouler une vue exactement inversée de celle que nous sommes en train de découvrir depuis les sommets de l’Espinouse.
 
-![La piste des crêtes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8810.jpeg)
+![La piste des crêtes](https://tcrouzet.com/images_tc/2021/04/IMG_8810.jpeg)
 
-![Descente vers Faigairolle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8813.jpeg)
+![Descente vers Faigairolle](https://tcrouzet.com/images_tc/2021/04/IMG_8813.jpeg)
 
 La trace suit désormais le réseau vert et ne présente d’autres difficultés que des grimpettes à répétition. Nous ondulons autour des 1 000 m d’altitude avant de descendre vers le gîte de Faigairolle à 840 m. Il est 20 h, nôtre hôte arrive en même temps que nous, chargée d’un merveilleux plateau de charcuterie et d’un lapin ratatouille agrémenté de deux bouteilles de bon pinard d’après les connaisseurs, moi en restant à la Salvetat.
 
 La journée a été physiquement éprouvante. Le froid, le vent, la pluie, parfois la chaleur, nous avons tout connu, surtout des pentes à très fort gradient. [Nous avons parcouru 104 km](https://www.strava.com/activities/5063381366) et grimpé 2 800 m. Demain, nous aurons mal aux pattes.
 
-![J2](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/j2b.jpg)
+![J2](https://tcrouzet.com/images_tc/2021/04/j2b.jpg)
 
 ### Dimanche 4 avril
 
 Nous traînons dans le gîte, après une bonne nuit. Grand beau dehors, mais seulement 1°C. Nous ne nous élançons qu’à 8 h 20, avec plus d’une heure de retard.
 
-![Faigairolle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8824.jpeg)
+![Faigairolle](https://tcrouzet.com/images_tc/2021/04/IMG_8824.jpeg)
 
-![Le Carroux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8835.jpeg)
+![Le Carroux](https://tcrouzet.com/images_tc/2021/04/IMG_8835.jpeg)
 
-![L'Espinouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8840.jpeg)
+![L'Espinouse](https://tcrouzet.com/images_tc/2021/04/IMG_8840.jpeg)
 
-![L'Espinouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8841.jpeg)
+![L'Espinouse](https://tcrouzet.com/images_tc/2021/04/IMG_8841.jpeg)
 
 La journée commence par un chemin entre deux champs, entre deux haies, une invitation à la rêverie. Peu avant le col du Coustel, à 883 m, nous entrons dans l’Aveyron pour une courte incursion. Au sud se dessinent les monts du Carroux. Nous devinons la Méditerranée qui, après tout, n’est qu’à une soixantaine de kilomètres. Nous arpentons des forêts moussues, tapissées des feuilles de l’automne. Après le col d’Ernest à 944 m, la descente sur Serviès est féerique, jusqu’à la dernière portion qui nous fait entrer dans le hameau par un boyau fleuri.
 
-![Mélagues](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8857.jpeg)
+![Mélagues](https://tcrouzet.com/images_tc/2021/04/IMG_8857.jpeg)
 
-![L'Espinouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8864.jpeg)
+![L'Espinouse](https://tcrouzet.com/images_tc/2021/04/IMG_8864.jpeg)
 
-![Serviès](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8881.jpeg)
+![Serviès](https://tcrouzet.com/images_tc/2021/04/IMG_8881.jpeg)
 
 Le long du Rieu Sec, un secteur asphalté en légère descente nous conduit jusqu’à la station thermale d’Avène, totalement déserte. Tout est fermé pour cause de crise sanitaire. Il est 11 h 15 et nous désespérons de trouver quelque chose à manger avant midi. Nous piquons dans nos réserves et remontons en selle.
 
@@ -192,41 +192,41 @@ La route nous conduit au barrage d’Avène sur l’Orb. Le niveau du lac est tr
 
 Bertrand doit bouillonner. Il a de bonnes jambes, une superbe condition, mais son impréparation plus que son manque d’expérience lui pourrit le voyage. Sur les forums, des cyclistes me disent que je suis maniaque avec mes préparatifs et mes calculs. Bertrand est l’illustration de ce qui arrive quand on improvise. Si nous n’étions pas là pour l’aider, l’encourager, trouver des solutions, jamais il n’aurait atteint le lac d’Avène. Il est parti sans huile pour sa chaîne, qui dès le deuxième jour a commencé à couiner. Pas davantage il n’a emporté assez d’outils, encore moins de liquide préventif en cas de grosse fuite, ou même de mèches. Je suis partisan de penser le voyage, d’anticiper le pire, pour pédaler sans me casser la tête. Bertrand dépense une énorme énergie mentale pour nous suivre. Son matériel l’accapare et parfois lui empêche de profiter. Lors des arrêts, pendant que nous rigolons ou grignotons, il réajuste ses sacs. Je lui tire mon chapeau, parce que malgré tout, il est toujours là et d’une vaillance à toute épreuve. Bien d’autres à sa place, moi le premier, auraient jeté l’éponge.
 
-![Lac d'Avène](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8884.jpeg)
+![Lac d'Avène](https://tcrouzet.com/images_tc/2021/04/IMG_8884.jpeg)
 
 Nous roulons avec le bleu au-dessous et au-dessus de nous. Une ambiance de Côte d’Azur idyllique, avec sur l’eau deux barques de pêcheur, l’une jaune, l’autre vert fluo. Quand nous plongeons vers l’ancienne route de la vallée, datant d’avant la construction du barrage, nous la trouvons inondée. Nous empruntons la boucle d’évitement qui nous amène au village de Ceilhes-et-Rocozels. Il est 12 h 45, tout est fermé. Nous sommes prêts à rouler jusqu’au Caylar sans rien manger, mais Artur insiste pour aller jusqu'au camping au bord du lac.
 
 Bingo ! Une cahute toute neuve ouvre le jour même. Il nous faudra attendre près d’une heure avant de manger de malheureux hamburgers ou paninis avec des frites. Ce n’est donc pas le ventre lourd que nous attaquons la route qui nous mène au col de l’homme mort, puis à la piste qui nous fait rejoindre un champ d’éoliennes. Il ne fait pas moins de 29°C quand nous plongeons dans la forêt domaniale de Joncels et qu’Artur crève. Il colmate la petite déchirure avec une mèche, quelques coups de pompe et nous repartons.
 
-![Forêt domaniale de Joncels](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8890.jpeg)
+![Forêt domaniale de Joncels](https://tcrouzet.com/images_tc/2021/04/IMG_8890.jpeg)
 
-![Forêt domaniale de Joncels](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8899.jpeg)
+![Forêt domaniale de Joncels](https://tcrouzet.com/images_tc/2021/04/IMG_8899.jpeg)
 
 Après la voie de chemin de fer qui, je suppose, relie Béziers à Clermont-Ferrand, nous remontons vers le hameau de Roqueredonde où se trouve un gîte étape. Mais il n’est que 15 h 30 et nous devons traverser le Larzac si nous voulons en terminer en quatre jours.
 
-![Roqueredonde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8911.jpeg)
+![Roqueredonde](https://tcrouzet.com/images_tc/2021/04/IMG_8911.jpeg)
 
-![Roqueredonde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8912.jpeg)
+![Roqueredonde](https://tcrouzet.com/images_tc/2021/04/IMG_8912.jpeg)
 
 Quand nous attaquons le sentier, un gamin nous crie : « Oh ! Lala, vous avez du courage. » Il ne nous ment pas. Une pente punitive nous amène jusqu’à une prairie qui nous révèle une belle perspective sur les monts que nous arpentons depuis deux jours. Nous poursuivons le sentier jusqu’au temple bouddhiste, construit là pour capter de supposées forces telluriques d'une puissance extraordinaire. Je pense que la vue himalayenne a beaucoup plus compté pour cette implantation.
 
 Après la forêt d’Escandorgue, nous rejoignons un secteur asphalté, puis une piste nous dépose au pied de la boulangerie du Caylar. Nous nous y gavons, achetons de quoi tenir jusqu’au lendemain matin.
 
-![Saint-Félix-de-l'Héras](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8924.jpeg)
+![Saint-Félix-de-l'Héras](https://tcrouzet.com/images_tc/2021/04/IMG_8924.jpeg)
 
-![Le Caylar](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8930.jpeg)
+![Le Caylar](https://tcrouzet.com/images_tc/2021/04/IMG_8930.jpeg)
 
 Il est temps de nous attaquer au Larzac. Il est déjà 17 h 30 et je sais déjà que nous devrons rouler de nuit pour atteindre notre objectif du jour, d’autant que nous avons tous les jambes lourdes. Mais Patrick n’en démord pas, il continue ses vues de drone. Je tente de montrer autant de courage que lui en prenant quelques photos.
 
 Le Larzac est pour moi un enchantement. Des paysages âpres, de jaune et de gris, de rocailles et d’arbustes, avec en arrière-plan le massif de l’Aigoual. Un désert débordant de vie qui me procure un sentiment d’existence toujours puissant, même quand je ne peux pas m’abandonner à la contemplation.
 
-![Le Cros](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8935.jpeg)
+![Le Cros](https://tcrouzet.com/images_tc/2021/04/IMG_8935.jpeg)
 
-![Vissec](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8942.jpeg)
+![Vissec](https://tcrouzet.com/images_tc/2021/04/IMG_8942.jpeg)
 
 Après avoir longé les gorges de la Sorbs, aperçu au loin le canyon de la Vis, nous atteignons Saint-Maurice-de-Navacelles. Il nous reste tout au plus une heure de jour. Nous n’avons aucune chance d’atteindre la vallée de la Buèges, mais sans doute une ancienne bergerie occupée par les résistants durant la Seconde Guerre mondiale.
 
-![L'Aigual](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8949.jpeg)
+![L'Aigual](https://tcrouzet.com/images_tc/2021/04/IMG_8949.jpeg)
 
 Nous attaquons le très beau single qui s’élève au-dessus des gorges de la Vis. Quand il rejoint une petite route, j’envoie tout le monde sur la trace, tout en sachant que je n’ai pas reconnu cette partie, l’ayant ajoutée au dernier moment en utilisant un secteur référencé VTT par la FFC. L’enfer nous attend. Un sentier abrupt, piqué de cailloux roulants. Pas d’autres choix que de pousser en descente en même temps que la nuit nous enveloppe.
 
@@ -234,7 +234,7 @@ Je prends conscience que Bertrand et Félix n’allument pas leur frontale. Ils 
 
 Nous sommes sur les rotules après 116 km et 2 500 m de dénivelé. Pendant que nous nous installons, nous pressentons que la nuit sera froide. Bertrand a la sagesse de s’installer dans la bergerie. Nous ne nous endormons pas avant 23 h. Réveil programmé pour 5 h 45.
 
-![J3](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/j3.jpg)
+![J3](https://tcrouzet.com/images_tc/2021/04/j3.jpg)
 
 ### Lundi 5 avril
 
@@ -242,25 +242,25 @@ Moins 2°C au compteur de nos GPS. Julien n’a presque pas dormi à cause du fr
 
 Nous nous mettons en route à 7 h et presque tout de suite attaquons la descente vers la vallée de la Buèges. Il n’était pas question de s’y engager de nuit. Le sentier commence sous le couvert des arbustes, nous imposant souvent de pousser nos vélos dans les passages trop techniques, puis la perspective se dégage en même temps que la draille de cailloux concassés devient roulable, sans que ce se soit de tout repos. Nous ne pédalons pas, mais nous transpirons, la moindre erreur de pilotage pouvant nous envoyer dans les rochers, sinon dans le vide, jamais loin.
 
-![Hortus et pic Saint-Loup](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8955.jpeg)
+![Hortus et pic Saint-Loup](https://tcrouzet.com/images_tc/2021/04/IMG_8955.jpeg)
 
-![La descente](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8975.jpeg)
+![La descente](https://tcrouzet.com/images_tc/2021/04/IMG_8975.jpeg)
 
 Le soleil se lève au-dessus du pic Saint-Loup. Nous nous disons notre plaisir comme pour nous assurer que nous ne rêvons pas. Finalement, notre retard de la veille se transforme en merveilleux cadeau. Je n’aime pas trop planifier les étapes en bikepacking pour laisser ainsi le hasard m’offrir des surprises.
 
-![Pégairolles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8992.jpeg)
+![Pégairolles](https://tcrouzet.com/images_tc/2021/04/IMG_8992.jpeg)
 
 Les villages dans la vallée bucolique se matérialisent un à un, notamment Pégairolles sur son piton. Nous passons à ses pieds et bifurquons vers la résurgence de la Buège, après une heure de descente et de ravissements. La rivière souterraine jaillit au cœur d’un lagon cobalt. Les oiseaux s’éveillent et le printemps nous accueille avec un beau soleil. Nous sommes tous heureux de vivre.
 
-![Saint-Jean-de-Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_9007.jpeg)
+![Saint-Jean-de-Buèges](https://tcrouzet.com/images_tc/2021/04/IMG_9007.jpeg)
 
 Un sentier, puis une piste nous transportent aux portes de Saint-Jean-de-Buèges. Le village est juste parfait sous son rocher. Les anciens avaient du génie et sentaient le génie du lieu. La vallée célèbre leur grand œuvre et nous nous y glissons avec volupté, entrant dans leur fresque géante.
 
-![La Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_9022.jpeg)
+![La Buèges](https://tcrouzet.com/images_tc/2021/04/IMG_9022.jpeg)
 
-![Single de la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_9028.jpeg)
+![Single de la Buèges](https://tcrouzet.com/images_tc/2021/04/IMG_9028.jpeg)
 
-![Single de la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_9031.jpeg)
+![Single de la Buèges](https://tcrouzet.com/images_tc/2021/04/IMG_9031.jpeg)
 
 La Buèges chante pour nous et le soleil excite les mousses. Nous chuchotons pour ne pas la troubler et continuons par chemins et petites routes en direction de Brissac le Haut, d’où nous plongeons vers le village bas, son parc verdoyant et sa boulangerie, malheureusement abonnée à la congélation industrielle.
 
@@ -268,31 +268,31 @@ Au bout d’un long moment à lézarder au soleil, ne voyant toujours pas Bertra
 
 Nos arrêts sont de plus en plus longs, nos jambes de plus en plus douloureuses quand nous repartons, d’autant plus qu’à la sortie de Saint-Bauzille-de-Putois nous attend une ascension sévère et difficile. Nous nous y appliquons avec abnégation sous une chaleur estivale. Il n’est que 10 h 30 et mon compteur indique 22°C. Je vide pratiquement mes deux gourdes et commence à me rationner quand nous découvrons un point d'eau inattendu au Mas de Baumes. Nous en sommes à nous asperger la tête comme au plus fort de l'été. La température a grimpé d'un cran.
 
-![Vallée de Claret](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_9038.jpeg)
+![Vallée de Claret](https://tcrouzet.com/images_tc/2021/04/IMG_9038.jpeg)
 
-![Vallée de Claret](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_9041.jpeg)
+![Vallée de Claret](https://tcrouzet.com/images_tc/2021/04/IMG_9041.jpeg)
 
 La trace n’offre plus de surprise pour moi. J’en ai reconnu les recoins et en même temps je suis soulagé que notre aventure se soit déroulée au mieux. Je pédale avec moins d’entrain, la fatigue se fait sentir, mais je goûte le charme du sentier au-dessus du gouffre de Claret, ainsi que la lente descente vers le sud à travers les garrigues et les vignes.
 
 Après les montagnes, nous nous réhabituons à des paysages plus discrets, plus civilisés, avec jamais loin des maisons et des villages. Il fait de plus en plus chaud, bientôt 29°C.
 
-![Vacquiéres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_9042.jpeg)
+![Vacquiéres](https://tcrouzet.com/images_tc/2021/04/IMG_9042.jpeg)
 
-![Boisseron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_9046.jpeg)
+![Boisseron](https://tcrouzet.com/images_tc/2021/04/IMG_9046.jpeg)
 
 Je me contente de pédaler. Je n’ai plus la force de prendre des photos, puis de batailler pour rejoindre mes compagnons. Peu après les ruines du pont romain d’Ambrussum et avant d’entrer dans Lunel, nous disons au revoir à Patrick qui rentre chez lui, puis nous filons vers le littoral alors que se lève un mistral détestable.
 
 Il me coupe les jambes. Je me cale dans les roues et ne pipe pas mot. Nous rejoignons la Grande Motte sans nous y arrêter, puis filons vent plein pif le long du canal du Rhône à Sète. Encore plus de 40 km. Je n’avais touché à aucun de mes sachets d’Holyfat et les ingurgite un à un, ainsi que deux gels. Ce traitement de choc me redonne du baume au cœur d’autant que le ciel s’enflamme et nous offre un coucher de soleil comme seuls les soirs de mistral savent les concocter. Les rouges et les mauves explosent autour de nous, répercutés sur le canal et les étangs qui nous encerclent.
 
-![Palavas](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_9068.jpeg)
+![Palavas](https://tcrouzet.com/images_tc/2021/04/IMG_9068.jpeg)
 
-![Palavas](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_9075.jpeg)
+![Palavas](https://tcrouzet.com/images_tc/2021/04/IMG_9075.jpeg)
 
 Artur bifurque vers Montpellier à la hauteur de Palavas et Félix, Jacques, Julien, Bertrand et moi trimons vers notre destination. Après un bout de droit de 28 km, à l'approche des Aresquiers, nous n’avons plus d’autre choix que d’allumer phares et frontales. Je passe devant et envoie du bois dans le single de la saline, ayant retrouvé toute mon énergie en même temps que la trace redevient joueuse. Pas de toute, je suis un vététiste dans l’âme. Rien que l’idée de bouts de droit me déprime. En Floride, j’en ai mangé jusqu’à l’écœurement.
 
 Nous arrivons chez moi à 22 h 06 après [152 km pour 1 500 m de dénivelé](https://www.strava.com/activities/5075806559). Pendant que mes nouveaux copains rangent leur monture, je leur prépare un plat de pâtes que nous ingurgitons avant de nous dire au revoir.
 
-![J4](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/J4.jpg)
+![J4](https://tcrouzet.com/images_tc/2021/04/J4.jpg)
 
 ### Mardi 6 avril
 
@@ -318,7 +318,7 @@ Tout cela vous paraît peut-être trop politique, mais le monde a besoin plus qu
 
 ### Statistiques
 
-![Bilan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/bilan.png)
+![Bilan](https://tcrouzet.com/images_tc/2021/04/bilan.png)
 
 Comme lors de tous mes voyages VTT et montagneux, j’aboutis à une vitesse effective comprise entre 9 et 10 km/h. C’est une constante qui me définit en temps que bikepacker. Je suis incapable d’aller plus vite comme je suis peu désireux de pédaler durant plus de 10 heures/jour en moyenne. Nous avons eu de la chance de nous caler sur ces valeurs et de faire groupe. Sans cette entente autour des 9-10 km/h, la mayonnaise n'aurait jamais pris.
 

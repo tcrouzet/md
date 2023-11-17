@@ -16,7 +16,7 @@ Je continue de regarder avec fascination [l’IA Midjourney](https://discord.com
 
 J’imagine un monde où nous ne ferons plus que dire : « ajoute un arbre en arrière-plan, non, moins grand l’arbre, plus vert, ou plus jaune, ou couleur d’automne, au premier plan, une voiture passe ». La littérature sera convertible en images, tous les romans en films. Fabuleuses et terrifiantes perspectives. Il ne sera plus question d’avoir une aptitude technique, le don du geste, mais de maîtriser le langage. Après tout, il ne s’agira que d’une suite logique de l’évolution humaine, jusqu’à ce que les machines n’aient plus besoin de nos mots.
 
-![MidJourney](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/a-teleportation-gate-in-a-swamp-with-monsters.jpeg)
+![MidJourney](https://tcrouzet.com/images_tc/2022/08/a-teleportation-gate-in-a-swamp-with-monsters.jpeg)
 
 ### Lundi 4
 
@@ -82,11 +82,11 @@ J’étouffe de tourner en rond dans mes démarches électriques, alors je prend
 
 Je suis juste administrativement épuisé. Je ne sais pas si ce genre de maladie psychiatrique existe. Je ne cesse de me heurter à des boucles imbriquées. Pour changer Tim d’académie, je dois disposer de son certificat de scolarité dans son nouvel établissement parisien. Mais pour terminer son inscription dans cet établissement, je dois d’abord changer d’académie. Et ainsi de suite, et bien sûr plus personne qui ne répond au téléphone en cette saison. Parfois le monde décide de m’emmerder.
 
-![Lafarge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8491.jpeg)
+![Lafarge](https://tcrouzet.com/images_tc/2022/08/IMG_8491.jpeg)
 
 ### Samedi 23, Balaruc
 
-![Les salins](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8500.jpeg)
+![Les salins](https://tcrouzet.com/images_tc/2022/08/IMG_8500.jpeg)
 
 ### Dimanche 24, Balaruc
 
@@ -122,23 +122,23 @@ Blanchot toujours : « Comme il ne sait plus qu’écrire, il écrit du moins 
 
 Nouveaux tests de l’IA Midjourney. Après des images de réchauffement climatique, je pose quelques mots clés sur le *Bikepacking*, jusqu’à épuiser mon quota gratuit.
 
-![MidJourney](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/MidJourney1.jpeg)
+![MidJourney](https://tcrouzet.com/images_tc/2022/08/MidJourney1.jpeg)
 
-![MidJourney](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/MidJourney2.jpeg)
+![MidJourney](https://tcrouzet.com/images_tc/2022/08/MidJourney2.jpeg)
 
-![MidJourney](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/coverBike1.jpeg)
+![MidJourney](https://tcrouzet.com/images_tc/2022/08/coverBike1.jpeg)
 
-![MidJourney](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/coverBike3.jpeg)
+![MidJourney](https://tcrouzet.com/images_tc/2022/08/coverBike3.jpeg)
 
 ---
 
 Appel de Pierre alors que je pédale avec des copains, de vrais copains cette fois, et qu’au loin les garrigues brûlent. Il aime *Quelques atomes de vérité*, sauf le titre. Il lui reste à définir quand le roman sortira. Heureux de retravailler avec La manufacture de livres, une belle famille éditoriale.
 
-![Nuage de fumée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8521.jpeg)
+![Nuage de fumée](https://tcrouzet.com/images_tc/2022/08/IMG_8521.jpeg)
 
-![Nuage de fumée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8533.jpeg)
+![Nuage de fumée](https://tcrouzet.com/images_tc/2022/08/IMG_8533.jpeg)
 
-![Nuage de fumée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8548.jpeg)
+![Nuage de fumée](https://tcrouzet.com/images_tc/2022/08/IMG_8548.jpeg)
 
 ### Mercredi 27, Balaruc
 
@@ -158,7 +158,7 @@ Pour le moment, Amazon continue de diffuser mes livres même si j’y défends d
 
 On vit dans un monde intriqué et rester droit dans ses bottes est loin d’être simple. Mais si vous boycottez Amazon, vous ne pourrez pas lire certains de mes livres, parce qu’aucun acteur du marché traditionnel ne les diffuse. Nous autres auteurs n’avons souvent pas beaucoup d’autres alternatives pour nous faire entendre. »
 
-![Canadair](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8564.jpeg)
+![Canadair](https://tcrouzet.com/images_tc/2022/08/IMG_8564.jpeg)
 
 ### Jeudi 28, Balaruc
 
@@ -168,13 +168,13 @@ J’en ai assez d’entendre des bêtises. Oui, Amazon est un monstre capitalist
 
 Je ne crois pas au boycott comme force réformatrice. Ce n’est qu’une façon de s’acheter une bonne conscience et de s’illusionner d’agir, alors que l’action doit se jouer en profondeur, dans le temps long de l’évolution des mentalités. Alors j’écris des textes, je les diffuse, je défends des idées et je les fais circuler par tous les moyens à ma disposition, via Amazon et dès que possible grâce aux libraires indépendants. J’agis sans doute bien plus efficacement contre Amazon en utilisant Amazon que si je fermais les yeux sur son existence.
 
-![Listel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8570.jpeg)
+![Listel](https://tcrouzet.com/images_tc/2022/08/IMG_8570.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8575.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2022/08/IMG_8575.jpeg)
 
 ### Vendredi 29, Balaruc
 
-![Sète, le soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8594.jpeg)
+![Sète, le soir](https://tcrouzet.com/images_tc/2022/08/IMG_8594.jpeg)
 
 ### Samedi 30, Balaruc
 

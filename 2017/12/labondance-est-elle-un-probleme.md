@@ -40,7 +40,7 @@ L’abondance a quelque chose d’inhumain. Elle est de l’ordre du fantasme. U
 
 *PS : peut-être que j'aime les paysages parce qu'ils sont rares et que je n'en profite jamais assez.*
 
-![Le lac de l'Oule](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/loule.jpg)
+![Le lac de l'Oule](https://tcrouzet.com/images_tc/2017/12/loule.jpg)
 
 
 

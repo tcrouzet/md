@@ -22,7 +22,7 @@ Entre le 13 et le 17 mai, je serai à Montréal pour travailler avec les élève
 
 Promenade du soir à la frontière de la ville. Un tatou traverse le chemin et reste à nous regarder.
 
-![Ciel de Floride](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3258-600x450.jpg)
+![Ciel de Floride](https://tcrouzet.com/images_tc/2019/03/IMG_3258-600x450.jpg)
 
 ### Dimanche 10, Miami
 
@@ -38,11 +38,11 @@ Les réseaux sociaux amplifient ce phénomène plus encore que les anciens médi
 
 Une foule d’êtres individualisés n’est pas bonne pour le business, car ses membres ne répondent à aucune injonction marketing, mais seulement à des rêves passagers et innombrables, avec une profonde tendance à la contradiction.
 
-![Fin des temps](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3278-600x450.jpg)
+![Fin des temps](https://tcrouzet.com/images_tc/2019/03/IMG_3278-600x450.jpg)
 
-![Fairchild Tropical Garden](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3297-600x450.jpg)
+![Fairchild Tropical Garden](https://tcrouzet.com/images_tc/2019/03/IMG_3297-600x450.jpg)
 
-![Fairchild Tropical Garden](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3314-600x450.jpg)
+![Fairchild Tropical Garden](https://tcrouzet.com/images_tc/2019/03/IMG_3314-600x450.jpg)
 
 ### Lundi 11, Weston
 
@@ -88,7 +88,7 @@ Je viens à bout se *Sérotonine*, un roman impossible du point de vue narratif,
 
 Nous allons en famille et avec des copains français passer le week-end au sud de Tampa, près de deux parcs VTT. Interstate 75 saturée, puis bouchée. Nous la quittons et plongeons dans un pays soudain plus accueillant. Nous nous arrêtons à Parrish pour dévorer des hamburgers succulents dans une caravane adossée à un primeur.
 
-![Parrish](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3337-600x450.jpg)
+![Parrish](https://tcrouzet.com/images_tc/2019/03/IMG_3337-600x450.jpg)
 
 ### Dimanche 17, Brandon
 
@@ -98,9 +98,9 @@ Dans la nuit, une idée de roman sur le modèle de [*One minute*](https://tcrouz
 
 Après avoir exploré les sentiers d’Alafia, nous nous attaquons à ceux de Boyette, sous une belle chaleur humide, déjà presque étouffante. Ces deux parcs sont tracés sur les vestiges d’anciennes mines de manganèse. Autour de lacs couverts d’une mousse verte fluo, nous escaladons les anciens terrils recouverts d’une épaisse forêt de chênes et de conifères.
 
-![Boyette](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/3b07a0a2-7ed4-4b79-b755-ec04d105c04c-600x450.jpg)
+![Boyette](https://tcrouzet.com/images_tc/2019/03/3b07a0a2-7ed4-4b79-b755-ec04d105c04c-600x450.jpg)
 
-![Boyette](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3369-600x450.jpg)
+![Boyette](https://tcrouzet.com/images_tc/2019/03/IMG_3369-600x450.jpg)
 
 ---
 
@@ -114,21 +114,21 @@ J’ai fait du vélo sous un soleil brûlant. Drôle de février tout de même.
 
 Nous traversons l’heure dorée à bord d’un hovercraft. Nous fonçons à la surface des Everglades, dérapons sur l’eau, accélérons, droit vers le soleil plongeant. Magique, mais inaccessible au quotidien, sauf à posséder un hovercraft ou débourser une fortune. Cette nature se dérobe à nous et je ne fais que l’entrevoir quand je fais du vélo. Je voulais écrire un manifeste *Pour un droit au coucher de soleil*, ce sera plutôt quelque chose de plus poétique intitulé *L’heure dorée*. Un jour peut-être. Pour le moment rien ne vient, toujours enlisé dans ce pays au ciel traversé de montagnes nuageuses.
 
-![Pépère](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080551-600x450.jpg)
+![Pépère](https://tcrouzet.com/images_tc/2019/03/P1080551-600x450.jpg)
 
-![Mark's Fish Camp](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080562-600x450.jpg)
+![Mark's Fish Camp](https://tcrouzet.com/images_tc/2019/03/P1080562-600x450.jpg)
 
-![Mark's Fish Camp](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080563-600x450.jpg)
+![Mark's Fish Camp](https://tcrouzet.com/images_tc/2019/03/P1080563-600x450.jpg)
 
-![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080569-600x450.jpg)
+![Everglades](https://tcrouzet.com/images_tc/2019/03/P1080569-600x450.jpg)
 
-![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080603-600x450.jpg)
+![Everglades](https://tcrouzet.com/images_tc/2019/03/P1080603-600x450.jpg)
 
-![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080620-600x450.jpg)
+![Everglades](https://tcrouzet.com/images_tc/2019/03/P1080620-600x450.jpg)
 
-![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080665-600x450.jpg)
+![Everglades](https://tcrouzet.com/images_tc/2019/03/P1080665-600x450.jpg)
 
-![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080688-600x450.jpg)
+![Everglades](https://tcrouzet.com/images_tc/2019/03/P1080688-600x450.jpg)
 
 ### Vendredi 22, Weston
 
@@ -138,7 +138,7 @@ Depuis notre visite des Everglades, je me gratte. Des moustiques m’ont perfor�
 
 « Look! » me dit JP. Un oiseau s’envole sur notre gauche. Mais pourquoi me dit-il ça ? À ce moment je le vois, à cinq mètres de nous, en travers du chemin. Une belle bête. JP avance vers lui, l’alligator recule tout en émettant des bruits de gorge peu rassurants. Je passe devant sa gueule grande ouverte.
 
-![Hum](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3469-600x450.jpg)
+![Hum](https://tcrouzet.com/images_tc/2019/03/IMG_3469-600x450.jpg)
 
 ### Lundi 25, Weston
 
@@ -158,7 +158,7 @@ Si j’ai eu eu les mains moites durant *Free Solo*, je crois que ça tient plus
 
 ### Mardi 26, Weston
 
-![Planche de couverture](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/COUV-HOMME-QUI-NE-COMPRENAIT-PAS-LES-FEMMES-1-600x266.jpg)
+![Planche de couverture](https://tcrouzet.com/images_tc/2019/03/COUV-HOMME-QUI-NE-COMPRENAIT-PAS-LES-FEMMES-1-600x266.jpg)
 
 Dans deux mois, je publie *L’homme qui ne comprenait pas les femmes*, le roman écrit avant mon départ en Floride. Mon attachée de presse chez [Bamboo édition](https://www.bamboo.fr/) me demande de répondre à trois questions.
 

@@ -14,21 +14,21 @@ Je prends conscience que je viens de tourner en rond dans cet espace marécageux
 
 Je ne dirai plus jamais que je connais tous les chemins autour de chez moi. Plus j’explore, plus le territoire se creuse, poupées russes fractales qui se dépilent sans cesse, une magie provoquée par le gravel, qui rend passionnant des paysages impraticables à vélo de route et guère intéressant à VTT.
 
-![La Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7467.jpeg)
+![La Gardiole](https://tcrouzet.com/images_tc/2021/02/IMG_7467.jpeg)
 
-![La Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7470.jpeg)
+![La Gardiole](https://tcrouzet.com/images_tc/2021/02/IMG_7470.jpeg)
 
-![Les flamands](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7475.jpeg)
+![Les flamands](https://tcrouzet.com/images_tc/2021/02/IMG_7475.jpeg)
 
-![Le pont](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7487.jpeg)
+![Le pont](https://tcrouzet.com/images_tc/2021/02/IMG_7487.jpeg)
 
-![La roubine](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7490.jpeg)
+![La roubine](https://tcrouzet.com/images_tc/2021/02/IMG_7490.jpeg)
 
-![Une ferme](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7503.jpeg)
+![Une ferme](https://tcrouzet.com/images_tc/2021/02/IMG_7503.jpeg)
 
-![La boue pas loin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7518.jpeg)
+![La boue pas loin](https://tcrouzet.com/images_tc/2021/02/IMG_7518.jpeg)
 
-![La perfection](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7525.jpeg)
+![La perfection](https://tcrouzet.com/images_tc/2021/02/IMG_7525.jpeg)
 
 
 

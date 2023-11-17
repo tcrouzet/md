@@ -4,7 +4,7 @@ Après avoir passé près de deux ans à tracer [le 727](https://tcrouzet.com/72
 
 J’en suis à la première ébauche, composée à partir de mes parcours, de traces officielles de la FFC et d’autres dénichées en ligne. Je publie cette ébauche pour inviter ceux qui connaissent les terrains parcourus à me suggérer de beaux singles et de beaux chemins, ainsi que des lieux incontournables.
 
-![Trace V0.0 (cliquer pour ouvrir)](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/cartei727.jpg)
+![Trace V0.0 (cliquer pour ouvrir)](https://tcrouzet.com/images_tc/2021/06/cartei727.jpg)
 
 Si le 727 s’attachait à suivre au plus près la frontière du département, i727 sera plus libre, avec pour seule contrainte de ne pas croiser ou approcher de trop près le 727 tout en évitant les agglomérations de Montpellier et Béziers. Des terrains de jeu comme le lac du Salagou, les environs de Saint-Chinian, les collines de la Gardiole ou les singles de Bessilles seront ainsi explorés. La trace pourra effectuer des détours pour en explorer d'autres.
 
@@ -14,7 +14,7 @@ Pour ma part, j’ai découvert qu’en bikepacking, une suspension avant, ou to
 
 Quand la trace sera aboutie, dans quelques mois, il sera possible d’enchaîner 727 et i727 pour un parcours de 1 100 km dans l’Hérault avec pas loin de 18 000 mètres de dénivelé, avec sans doute bien moins de 30 % d’asphalte.
 
-![Encore trop de route](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/stati727.png)
+![Encore trop de route](https://tcrouzet.com/images_tc/2021/06/stati727.png)
 
 
 

@@ -10,13 +10,13 @@ Ce qui m’a tout de suite frappé, et même un peu effrayé, c’est votre pré
 
 Quand vous parlez de « pratique du sport cycliste communément admise », vous avez oublié de préciser « admise par nous », et vous auriez même pu ajouter « esprits quelque peu bornés et passéistes ». Vous n’avez pas introduit de nuance, si bien que de nombreux cyclistes qui vous mettent au panthéon, qui croient que vous détenez la vérité, ont commencé à conspuer ceux qui comme moi ont mis en doute votre parole sacro-sainte. On a eu droit à tout, à la délation et à la moralisation, ce qui en dit long sur quelques-uns de vos adeptes.
 
-![Markham](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/TRAILMAP-2014-V2.png)
+![Markham](https://tcrouzet.com/images_tc/2020/04/TRAILMAP-2014-V2.png)
 
 L’année dernière, je vivais en Floride à côté du [Markham Park Mountain Bike Trails](http://www.markhamparktrailbuildingfund.org/Park/), 22 km de sentiers enroulés sur eux-mêmes dans un cercle de 0,5 km de rayon. Je peux vous assurer que j’y ai côtoyé de sérieux cyclistes. Mais au vu de votre définition, j’ai dû rêver de faire du vélo dans ce parc.
 
 De même, quand je roule avec mon gravel ou fais du bikepacking, seul au monde ou avec quelques copains, je suppose que je ne fais pas de vélo, puisque sauf erreur vous n'organisez pas encore de compétions dans ces disciplines. Vous êtes tentés de les pervertir, avec votre instance tutélaire qu’est l’UCI, car au fond, ce qui vous intéresse c’est le commerce, à commencer par celui lucratif des licences, et, où il y a commerce, vous accourez. Je veux bien l’entendre et vous excuser sur ce point, mais votre désir hégémonique ne doit pas se faire au détriment des cyclistes qui se fichent de vous, et qui, je vous le rappelle, sont plus nombreux que vos adhérents et parcourent des dizaines de fois plus de kilomètres cumulés chaque année. Si vous étiez un syndicat, vous ne seriez pas représentatif.
 
-![Strava Heatmap](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/ffc2.jpg)
+![Strava Heatmap](https://tcrouzet.com/images_tc/2020/04/ffc2.jpg)
 
 Pour vous en convaincre, regardez la carte générale des activités Strava, collez-y les parcours de vos compétitions, et vous découvrirez que vous ne pesez rien dans le monde du vélo. Cette pratique vous a échappé et vous tentez désespérément d’en garder le contrôle en imitant les maires qui dans leur commune prennent des décisions arbitraires pour durcir celles du gouvernent, jugées pas assez sévères, mais sans que ces durcissements obéissent à des raisons sanitaires.
 
@@ -50,7 +50,7 @@ Je ne suis pas rancunier, mais je garde une dent contre vous. Vous auriez pu jou
 
 Rien de tel. Vous avez été contre-productif, vous avez agi contre nous, faisant preuve d’étroitesse d’esprit, ne pensant qu’au vélo comme compétition, et encore comme compétition selon vos règles. Résultat : nous avons tous été confinés dans un cercle, [réduits à imaginer des jeux et des activités cyclistes sans doute surréalistes pour vous](https://tcrouzet.com/2020/04/15/the-grid-project-jeu-sportif-pour-confines/).
 
-![Presque exhaustif](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/grid3.jpg)
+![Presque exhaustif](https://tcrouzet.com/images_tc/2020/04/grid3.jpg)
 
 Avec les GPS et le suivi de traces, le vélo est entré dans une nouvelle étape de son histoire. Vous représentez le passé, l’époque des cartes Michelin, des courses balisées, du macadam issu de l’industrie pétrolière, vous n’avez pas encore intégré que nous déployons des dimensions nouvelles du cyclisme, qui parfois d’ailleurs nous reconnectent avec ses origines. Cette crise m’aura éclairé sur le gouffre qui se creuse entre vous et beaucoup d’entre nous. Je ne suis même pas sûr que nous soyons encore capables de nous parler tant nous nous tenons loin les uns des autres. Si c’est le cas, cessez de parler en notre nom. Sinon, la balle est dans votre camp.
 

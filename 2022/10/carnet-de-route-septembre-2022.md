@@ -50,9 +50,9 @@ Nous sommes incapables de tous apprécier les mêmes chefs-d’œuvre. L’ensei
 
 Le champ des expérimentables est si vaste qu’il est même impossible de le traverser en ligne droite. Pourtant l’enseignement du français voudrait nous le faire arpenter mètre carré par mètre carré. Au lieu d’enseigner la curiosité, la recherche des perles qui nous parlent, et de s'interroger sur pourquoi elles nous parlent, on impose aux élèves d’aimer ce qu’ils n’aimeront jamais, et on les dégoûte de l’amour en général. Je suis une victime de ce processus. Je suis sorti de l’enseignement littéraire détruit, avec la certitude que ce monde n’était pas pour moi, et depuis je bataille sur ses marges.
 
-![De ma fenêtre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9138.jpeg)
+![De ma fenêtre](https://tcrouzet.com/images_tc/2022/10/IMG_9138.jpeg)
 
-![De l'île aux Cygnes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9153.jpeg)
+![De l'île aux Cygnes](https://tcrouzet.com/images_tc/2022/10/IMG_9153.jpeg)
 
 ### Lundi 5, Paris
 
@@ -72,13 +72,13 @@ Statistiques de mon blog : presque deux fois plus de lecteurs sur téléphone q
 
 ### Jeudi 8, Balaruc
 
-![La terrasse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9161.jpeg)
+![La terrasse](https://tcrouzet.com/images_tc/2022/10/IMG_9161.jpeg)
 
 ### Vendredi 9 , Balaruc
 
 Je termine une sixième nouvelle, mais hors de la série principale, même si elle en adopte la tonalité narrative et la mécanique. Je termine aussi de relooker la page d’accueil de mon blog pour me contenter d’y dire ce que je fais et quels sont mes derniers textes. Pas d’image, juste une invitation à l’exploration. Un pas de plus vers la sobriété. Plus je vieillis, plus je rejette l’ostentatoire.
 
-![Ça repousse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9169.jpeg)
+![Ça repousse](https://tcrouzet.com/images_tc/2022/10/IMG_9169.jpeg)
 
 ### Samedi 10 , Balaruc
 
@@ -122,7 +122,7 @@ J’ai commencé hier une sixième facette de mon roman, mais je suis incapable 
 
 Entrées maritimes, lourdeur, gris et soleil, temps tropical. La météo marine annonce des vagues de 1,5 m et nous voilà sur la plage. Je body surfe un moment, puis je me contente de regarder Émile surfer avec un long board originaire d’Hawaï, offert il y a des années par mon copain Christophe. Si je n’avais pas passé des heures à organiser nos photos, j’aurais peut-être été impatient. Là, je me contente de cligner des yeux et de regarder Émile, inépuisable, qui repart à l’assaut des vagues, se fait rouler, secouer, mais réussit à se dresser sur la planche et à filer jusqu’au rivage, avant de repartir vers le large. Il apprend après un stage cet été sur la côte atlantique. Il a toujours aimé la glisse. Et moi, je me délecte de chaque seconde parce que je les sais plus précieuses que celles que je pourrais passer à travailler ou à faire quoi que ce soit d’autre, même du vélo avec les copains. Sans mon travail photographique, je n’aurais pas été aussi présent.
 
-![Surf](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9174.jpeg)
+![Surf](https://tcrouzet.com/images_tc/2022/10/IMG_9174.jpeg)
 
 ### Jeudi 15 , Balaruc
 
@@ -144,7 +144,7 @@ Mes textes sont terminés quand je ne trouve plus la porte pour y entrer et qu�
 
 Je m’en vais cueillir de l’herbe pour la transplanter dans le jardin, de l’herbe de chemin, qui survit même au passage des véhicules et des vélos, qui dès la première pluie reverdit. Tout est vert dans la nature en ce moment, un septembre avec des airs de mars. L’été a été si dur, la végétation si recroquevillée, qu’elle s’en donne désormais à cœur joie.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9299.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2022/10/IMG_9299.jpeg)
 
 ### Lundi 19, Balaruc
 
@@ -158,9 +158,9 @@ Désespéré de voir la grossière stratégie russe en Ukraine. Improviser un r�
 
 Nous sommes entrés dans la lumière éblouissante de septembre. Je la cueille avec un ravissement intact, et cette année plus que d’autres, car je vais devoir passer dix jours à Paris. Qui n’a pas vécu septembre dans le Midi ne connaît pas le Midi et sa flamboyance, dont les échos se prolongeront tout l’automne et rejailliront même sur l’hiver. Cette lumière bleue est incroyable, indescriptible, à nulle autre pareille. Je roule à travers elle et m’en gorge jusqu’à l’éblouissement.
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9356.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2022/10/IMG_9356.jpeg)
 
-![Frontignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9357.jpeg)
+![Frontignan](https://tcrouzet.com/images_tc/2022/10/IMG_9357.jpeg)
 
 ### Jeudi 22, Balaruc
 
@@ -214,7 +214,7 @@ Les autres médias, à l’exception de la photographie, impliquent un minimum d
 
 Les bruits des talons des femmes dans la rue me réveillent. Je pense à des femmes et pas à des hommes, des femmes encore prêtes à se tordre les pieds plutôt que de porter des sneakers comme nous autres.
 
-![Île Saint-Louis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9371.jpeg)
+![Île Saint-Louis](https://tcrouzet.com/images_tc/2022/10/IMG_9371.jpeg)
 
 ### Mardi 27, Paris
 
@@ -238,7 +238,7 @@ Benjamin me dit que Paris l’excite toujours autant. Je n’y arrive pas parce 
 
 Et puis, qu’est-ce que je fais à la seconde même, sinon exprimer Paris, à ressentir la ville pour la transformer en mots qui ailleurs diraient autre chose. Après une averse, un rayon de soleil illumine la terrasse. Je reprends ma promenade.
 
-![Ciel parisien](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9386.jpeg)
+![Ciel parisien](https://tcrouzet.com/images_tc/2022/10/IMG_9386.jpeg)
 
 ### Mercredi 28, Paris
 
@@ -258,23 +258,23 @@ Reste que j’aime cette ambiance de café. Sensation d’entrer dans le cerveau
 
 La maison d’en face, de l’autre côté de la rue piétonne. Une famille de trois. La femme travaille au second, elle parle fort, souvent en italien. L’homme au premier, comme elle tout contre la fenêtre. Au rez-de-chaussée, la cuisine, la salle à manger, au sous-sol, le salon TV qui s’illumine le soir. Le matin, je vois le fils partir à l’école. Ses parents ne lèvent pas le cul de leur chaise. Il faut gagner de l’argent pour rembourser le prêt de cette maison à plus d’un million d’euros.
 
-![Ciel parisien](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9390.jpeg)
+![Ciel parisien](https://tcrouzet.com/images_tc/2022/10/IMG_9390.jpeg)
 
-![Jussieu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9402.jpeg)
+![Jussieu](https://tcrouzet.com/images_tc/2022/10/IMG_9402.jpeg)
 
-![Jardin des Plantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9413.jpeg)
+![Jardin des Plantes](https://tcrouzet.com/images_tc/2022/10/IMG_9413.jpeg)
 
-![Gare de Lyon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9420.jpeg)
+![Gare de Lyon](https://tcrouzet.com/images_tc/2022/10/IMG_9420.jpeg)
 
 ### Jeudi 29, Paris
 
 Hier soir, mon beau-père, comme ça, soudainement, mort. Huit ans après mon père, jour pour jour. Mais une vie moins extrême, sans extravagances, une vie de rigueur au service de la santé publique, avec quelques plaisirs mesurés. Et adieu, débrouillez-vous sans moi, sans mes grincements, sans mes « Santé bordel », sans mon obstination réactionnaire. Et une scène s’impose à moi, notre dernière rencontre, fin août, quand il a voulu donner un chèque à Tim pour le récompenser pour son bac et que j’ai dit que c’était un peu compliqué pour nous les chèques avec nos banques en ligne, et puis que les chèques étaient désuets. Il est parti dans une rage folle, et moi à lui répondre, et à me faire engueuler par ses filles, et à me persuader qu’il lui restait des années à vivre puisqu’une belle énergie l’animait encore, même s’il s’était beaucoup affaibli depuis son Covid. Et le couperet tombe, sans prévenir, sans lui laisser le temps de dire adieu et de prendre conscience de sa propre mort. Démerdez-vous sans moi. Mourir comme ça, c’est d’une élégance indécente. Une mort radicale qui convenait à son tempérament tranché. Quand il nous vaccinait, il plantait la seringue sans hésiter, sans diversion. Nous devions être forts. Il arrachait les sparadraps d’un coup. Il est mort de la même façon, comme il a vécu. À l’hôpital de Nancy où il a effectué sa carrière de pneumologue et de réanimateur, il a vu trop de gens agoniser sous ses respirateurs pour les imiter. Pas de ça pour lui. Il a reçu la mort qu’il souhaitait.
 
-![Jardin Villemin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9428.jpeg)
+![Jardin Villemin](https://tcrouzet.com/images_tc/2022/10/IMG_9428.jpeg)
 
-![Jardin Villemin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9431.jpeg)
+![Jardin Villemin](https://tcrouzet.com/images_tc/2022/10/IMG_9431.jpeg)
 
-![Square des Recollets](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9434.jpeg)
+![Square des Recollets](https://tcrouzet.com/images_tc/2022/10/IMG_9434.jpeg)
 
 
 

@@ -14,9 +14,9 @@ Chateaubriand : « Des auteurs modernes français de ma date, je suis quasi le
 
 ### Dimanche 2, Cap d'Agde
 
-![Cap d'Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9262.jpeg)
+![Cap d'Agde](https://tcrouzet.com/images_tc/2021/06/IMG_9262.jpeg)
 
-![Cap d'Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9265.jpeg)
+![Cap d'Agde](https://tcrouzet.com/images_tc/2021/06/IMG_9265.jpeg)
 
 ### Lundi 3, Balaruc
 
@@ -28,7 +28,7 @@ Je me présente le soir au centre de vaccination et réussis à recevoir un fond
 
 ### Mardi 4, Villeveyrac
 
-![Villeveyrac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9317.jpeg)
+![Villeveyrac](https://tcrouzet.com/images_tc/2021/06/IMG_9317.jpeg)
 
 ### Jeudi 6, Balaruc
 
@@ -52,9 +52,9 @@ Chateaubriand évoque l’accablement du souvenir, qui nous submerge au point de
 
 J’écris peu, victime de migraines ophtalmiques. J’ai besoin de reprendre des séances d’orthoptie. Mes yeux ne veulent plus des écrans et ne s’accoutument qu’aux grands espaces.
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9338.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2021/06/IMG_9338.jpeg)
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9341.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2021/06/IMG_9341.jpeg)
 
 ### Lundi 9, Balaruc
 
@@ -66,17 +66,17 @@ Je comprends pourquoi Chateaubriand est revenu à plusieurs reprises sur ses mé
 
 ### Mercredi 11, Balaruc
 
-![Sète au loin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9377.jpeg)
+![Sète au loin](https://tcrouzet.com/images_tc/2021/06/IMG_9377.jpeg)
 
 ### Jeudi 12, Balaruc
 
 Nous pédalons par chez nous, plongeons par un côté inhabituel sur un village et il nous apparaît extraordinaire. Le territoire n'en finit pas de se déplier. Quand je crois le connaître, il me surprend encore. C'est une histoire d'amour.
 
-![Counonterral](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9382.jpeg)
+![Counonterral](https://tcrouzet.com/images_tc/2021/06/IMG_9382.jpeg)
 
-![Counonterral](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9389.jpeg)
+![Counonterral](https://tcrouzet.com/images_tc/2021/06/IMG_9389.jpeg)
 
-![Counonterral](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9384.jpeg)
+![Counonterral](https://tcrouzet.com/images_tc/2021/06/IMG_9384.jpeg)
 
 ### Jeudi 13, Balaruc
 
@@ -90,7 +90,7 @@ Chateaubriand ne théorise pas la mémoire involontaire comme Proust, mais en fa
 
 Un chemin n'a pas changé au pied du Pioch. J'ai toujours peur de l'emprunter, sa métamorphose pourrait tirer un trait sur mon enfance.
 
-![Le chemin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9396.jpeg)
+![Le chemin](https://tcrouzet.com/images_tc/2021/06/IMG_9396.jpeg)
 
 ### Samedi 15, Balaruc
 
@@ -110,11 +110,11 @@ Terrible phrase de Chateaubriand : « Je parierais que tel auteur qui lit cett
 
 ### Mardi 18, Balaruc
 
-![De ma terrasse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9422.jpeg)
+![De ma terrasse](https://tcrouzet.com/images_tc/2021/06/IMG_9422.jpeg)
 
-![De ma terrasse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9427.jpeg)
+![De ma terrasse](https://tcrouzet.com/images_tc/2021/06/IMG_9427.jpeg)
 
-![De ma terrasse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9435.jpeg)
+![De ma terrasse](https://tcrouzet.com/images_tc/2021/06/IMG_9435.jpeg)
 
 ### Mercredi 19, Balaruc
 
@@ -142,7 +142,7 @@ Chateaubriand : « Aucun monument à Philadelphie, à New York, à Boston, ne 
 
 ### Lundi 31, Castelneau-de-Guers
 
-![Découverte dans les bois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9914.jpeg)
+![Découverte dans les bois](https://tcrouzet.com/images_tc/2021/06/IMG_9914.jpeg)
 
 
 

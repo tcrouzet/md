@@ -24,13 +24,13 @@ Ce refus de changer d’outil m’apparaît souvent comme un manque de curiosit�
 
 Je n’écris pas juste pour écrire, juste pour gagner ma vie, j’écris pour vivre, et qu’une machine puisse écrire mieux que moi ne changera rien au fait que j’ai besoin d’écrire, à condition que cette écriture se joue toujours à la frontière du possible.
 
-![Géolecture collective](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/geosouv1.jpg)
+![Géolecture collective](https://tcrouzet.com/images_tc/2018/03/geosouv1.jpg)
 
-![Géolecture collective](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/geosouv2.jpg)
+![Géolecture collective](https://tcrouzet.com/images_tc/2018/03/geosouv2.jpg)
 
-![Géolecture collective](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/geosouv3.jpg)
+![Géolecture collective](https://tcrouzet.com/images_tc/2018/03/geosouv3.jpg)
 
-![Géolecture collective](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/geosouv4.jpg)
+![Géolecture collective](https://tcrouzet.com/images_tc/2018/03/geosouv4.jpg)
 
 PS : Billet dédié à [Stephane Vial](http://www.stephane-vial.net/) qui m’a révélé la particularité de ma phrase « le mouvement des pins au-dessus du temple » et à [Marcello Vitali Rosati](http://vitalirosati.com/) qui doit souvent convaincre ses interlocuteurs sur la prégnance de l’outil en littérature. [Vous pouvez lire mes géolectures à distance en basculant en mode test.](https://tcrouzet.com/geolecture/)
 

@@ -16,9 +16,9 @@ En déballant la Tokaido Medium, trop petit pour moi mais c'est un détail, j’
 
 Je vais continuer de porter mon Essentiel, mais je ne sais même pas s’il passera l’hiver. Vous voilà avertis. Ma veste Tokaido est repartie en Italie, sans que j'ose en demander une large, de peur de la déchirer et de jeter 220 € par la fenêtre. Quand j'ai l'impression de me faire entuber, je le dis. Ça peut servir à d'autres et aider la marque à corriger le tir.
 
-![PEdALED après trois sorties](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4141.jpeg)
+![PEdALED après trois sorties](https://tcrouzet.com/images_tc/2020/10/IMG_4141.jpeg)
 
-![PEdALED après trois sorties](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4143.jpeg)
+![PEdALED après trois sorties](https://tcrouzet.com/images_tc/2020/10/IMG_4143.jpeg)
 
 PS : [la réponse de PEdALED…](https://tcrouzet.com/2020/10/09/le-foutage-de-gueule-de-pedaled-leur-reponse/)
 

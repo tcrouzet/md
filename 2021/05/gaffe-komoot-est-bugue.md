@@ -14,21 +14,21 @@ Je rappelle qu’il s’agissait toujours de la même trace. Ce comportement n�
 
 J'ai dû renvoyer la trace OpenRunner depuis mon téléphone pour que tout rentre dans l’ordre. Deux conclusions. 1/ BaseCamp est bugué. 2/ Komoot prend des libertés avec la trace, la modifiant selon sa cartographie, souvent fautive. Ces deux problèmes sont indépedants.
 
-![Une option qui ne fonctionne pas sur Komoot](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/komoot1.png)
+![Une option qui ne fonctionne pas sur Komoot](https://tcrouzet.com/images_tc/2021/05/komoot1.png)
 
 Quand j'importe dans Komoot, je prends pourtant soin de toujours cocher l’option « Suivre l’itinéraire initial », mais Komoot prend des libertés inacceptables, croyant bien faire en nous simplifiant la vie. Dans les images ci-dessous, en rouge ma trace, en vert celle modifiée par Komoot. Si dans certains cas, les altérations n'ont pas de conséquences, c’est tout simplement problématique comme dans la seconde image.
 
-![Komoot interprète la trace](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/komoot2.png)
+![Komoot interprète la trace](https://tcrouzet.com/images_tc/2021/05/komoot2.png)
 
-![L'interprétation peut aller loin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/komoot3-1600x943.png)
+![L'interprétation peut aller loin](https://tcrouzet.com/images_tc/2021/05/komoot3-1600x943.png)
 
 Le pire, Komoot change souvent son algorithme parce qu’à une semaine d'intervalle il ne prend pas les mêmes libertés. Première image, montre comment Komoot a interprété ma trace la semaine dernière. Cherchant à tout prix à rester fidèle à sa cartographie fautive plutôt que me faire confiance.
 
-![Importation la semaine dernière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/komoot4-1600x948.png)
+![Importation la semaine dernière](https://tcrouzet.com/images_tc/2021/05/komoot4-1600x948.png)
 
 Quand à l’instant, je réimporte ma trace, il l’interprète différemment et de façon moins fautive, mais en prenant toujours quelques libertés (il altère le nombre de points, par exemple).
 
-![Importation aujourd'hui](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/komoot5-1600x932.png)
+![Importation aujourd'hui](https://tcrouzet.com/images_tc/2021/05/komoot5-1600x932.png)
 
 Ma conclusion est simple : je ne peux plus faire confiance à Komoot pour le partage de traces, d’autant que ce problème n’est pas nouveau, et qu’il ressurgit aléatoirement. Heureusement, il existe bien d’autres services de partage, plus fiables comme OpenRunner ou UtagawavVTT.
 

@@ -12,11 +12,11 @@ Voilà ce qu’il me paraît nécessaire de changer.
 
 - Pour aller vers l’avenir, au-delà de la ligne rouge, une première possibilité : appliquer la dernière progression constatée sur le terrain et la répéter de jour en jour. Malheureusement ainsi toute la population est très vite infectées comme le montre le graphique ci-dessous.
 
-![Projection irréaliste](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/prev1b.png)
+![Projection irréaliste](https://tcrouzet.com/images_tc/2020/03/prev1b.png)
 
 - Je pense qu’il faut donc appliquer un facteur d’atténuation à partir de date de confinement (17/3), qui prend en compte les mesures de distanciation sociale et aussi le fait que peu à peu de plus en plus de gens sont immunisés, ce qui est très bien expliqué [dans un article du *Washington Post*](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/). On peut ainsi prolonger la simulation plus loin dans le temps. Bien sûr, je ne peux pas savoir quand la croissance se stabilisera ou s’infléchira (sans doute au bout d'une semaine minimum, temps d'incubation avant premiers symptômes). Je suis parti sur un modèle en cloche, mais on peut imaginer tout ce que l'on veut sauf la perpétuelle croissance exponentielle.
 
-![Autre possibilité](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/prev2b.png)
+![Autre possibilité](https://tcrouzet.com/images_tc/2020/03/prev2b.png)
 
 - Le nombre de cas réels étant calculé en fonction du taux de mortalité supposé, toute erreur dans le calcul du nombre de morts projeté impliquera de revoir le taux de mortalité (qui malheureusement augmentera en même temps que le système de santé approchera de la saturation).
 
@@ -26,7 +26,7 @@ Voilà ce qu’il me paraît nécessaire de changer.
 
 - L'estimation du nombre de cas en réanimation est pas très bonne, donc difficile de savoir quand le système hospitalier saturera.
 
-![Confinement hyper efficace](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/prev3.png)
+![Confinement hyper efficace](https://tcrouzet.com/images_tc/2020/03/prev3.png)
 
 [Liens vers le tableau… je le mets à jour tous les soir.](https://docs.google.com/spreadsheets/d/1PqMVPU0VYcDWrUnDh1CsGYr_A7Zk3iZco77X-vToS9Q/edit?usp=sharing)
 

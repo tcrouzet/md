@@ -10,7 +10,7 @@ Je prends du plaisir à écrire mes récits à vélo, comme si j’avais trouvé
 
 Tout courbaturé après trois heures de pédalage dans la garrigue, à sauter de single en single, dans l’étroit faisceau de nos phares, jusqu’au vertige, jusqu’à perdre le sens des montées et descentes, et les copains à foncer comme des dingues.
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5033.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2020/12/IMG_5033.jpeg)
 
 ### Mercredi 4, Balaruc
 
@@ -26,7 +26,7 @@ Me suis-je trompé ? Je n’ai jamais fait de prévision, au contraire posant c
 
 Un journaliste m’appelle et me demande où j’habite. Je lui dis à Sète pour faire simple. Il me répond : « La ville où tout le monde veut vivre. » Un engouement provoqué par les séries TV, ma maison en partie responsable de cet engouement qui fait flamber l’immobilier sans que je sois plus riche pour autant, mais plus imposé à coup sûr.
 
-![C'est l'automne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5044.jpeg)
+![C'est l'automne](https://tcrouzet.com/images_tc/2020/12/IMG_5044.jpeg)
 
 ### Samedi 7, Balaruc
 
@@ -54,27 +54,27 @@ Nous pédalons en cachette, dans la nuit et la lumière de nos phares. Impressio
 
 Novembre nous envoie des journées d’octobre, avec une douceur étonnante et des éblouissements qui se terminent en apothéose. Quand j’étais gamin, novembre signait l’entrée dans l’hiver, avec de grands coups de vent du nord, des nuées d’étourneaux pressés de regagner l’Afrique, un spectacle que ne j’ai plus vu depuis des années. La dernière fois, c’était à Rome comme je le raconte dans *Le Peuple des connecteurs*.
 
-![Novembre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5058.jpeg)
+![Novembre](https://tcrouzet.com/images_tc/2020/12/IMG_5058.jpeg)
 
-![Novembre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5064.jpeg)
+![Novembre](https://tcrouzet.com/images_tc/2020/12/IMG_5064.jpeg)
 
-![Novembre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5072.jpeg)
+![Novembre](https://tcrouzet.com/images_tc/2020/12/IMG_5072.jpeg)
 
-![Novembre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5101.jpeg)
+![Novembre](https://tcrouzet.com/images_tc/2020/12/IMG_5101.jpeg)
 
-![Novembre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5120.jpeg)
+![Novembre](https://tcrouzet.com/images_tc/2020/12/IMG_5120.jpeg)
 
-![Novembre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5136.jpeg)
+![Novembre](https://tcrouzet.com/images_tc/2020/12/IMG_5136.jpeg)
 
-![Novembre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5147.jpeg)
+![Novembre](https://tcrouzet.com/images_tc/2020/12/IMG_5147.jpeg)
 
 ### Mercredi 11, Balaruc
 
 Parfois je regrette de ne pas être enfermé dans la littérature, de ne pas vivre uniquement dans les livres pour en écrire d’autres. Je suis enfermé dans la vie, pris par son flux, et peut-être est-ce la seule façon d’écrire des livres qui parleront à l’avenir, et qui pour commencer me parlent à moi dans le moment de leur écriture.
 
-![Ça pousse dans le jardin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5149.jpeg)
+![Ça pousse dans le jardin](https://tcrouzet.com/images_tc/2020/12/IMG_5149.jpeg)
 
-![Depuis la maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5155.jpeg)
+![Depuis la maison](https://tcrouzet.com/images_tc/2020/12/IMG_5155.jpeg)
 
 ### Vendredi 13, Balaruc
 
@@ -112,21 +112,21 @@ Je m’émerveille de chez moi, je m’éveille de ma chance, je n’ai plus d�
 
 Il y a dans la vallée de Markan une grotte qui mène dans une autre vallée où aucune route ne mène, et seulement des sentiers pour qui sait les suivre. Pas besoin d'en dire davantage, l'histoire est terminée.
 
-![Le jardin colonisé](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5193.jpeg)
+![Le jardin colonisé](https://tcrouzet.com/images_tc/2020/12/IMG_5193.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5207.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2020/12/IMG_5207.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5208.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2020/12/IMG_5208.jpeg)
 
-![Rose](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5222.jpeg)
+![Rose](https://tcrouzet.com/images_tc/2020/12/IMG_5222.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5231.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2020/12/IMG_5231.jpeg)
 
-![Balaruc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5233.jpeg)
+![Balaruc](https://tcrouzet.com/images_tc/2020/12/IMG_5233.jpeg)
 
-![Zoom Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/P1110198.jpeg)
+![Zoom Pyrénées](https://tcrouzet.com/images_tc/2020/12/P1110198.jpeg)
 
-![Zoom Balaruc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/P1110206.jpeg)
+![Zoom Balaruc](https://tcrouzet.com/images_tc/2020/12/P1110206.jpeg)
 
 ### Mercredi 18, Balaruc
 
@@ -148,7 +148,7 @@ Depuis que j’écris sur le vélo, un gars sur Facebook m’a pris en grippe, s
 
 Alors je propose à mon agresseur de discuter en vidéoconférence, mais il se débine. Je le bloque, ce n’est pas très important. Qu’il continue de s’enfermer dans sa fiction. Depuis des années, je relève ce genre de comportements. Derrière son clavier, on se sent surpuissant, on va bien plus loin qu’en face à face. Le refus de rebasculer IRL m’inquiète, comme si la réalité faisait peur, comme si le Net conférait une puissance d’être à laquelle on ne veut pas renoncer, de peur de redevenir un enfant maltraité.
 
-![La pelouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5314.jpeg)
+![La pelouse](https://tcrouzet.com/images_tc/2020/12/IMG_5314.jpeg)
 
 ### Vendredi 20, Balaruc
 
@@ -158,43 +158,43 @@ Il n’y a de littérature possible que dans la confrontation au présent. Si l�
 
 Et puis l’exaltant, toujours, à traquer sans relâche. Une équipe israélienne qui réussit à rallonger les télomères de quelques cobayes humains, [rajeunissant leur horloge moléculaire de 25 ans](https://www.prnewswire.com/il/news-releases/first-time-human-study-shows-reversal-in-biology-of-aging--telomere-shortening-and-senescent-cells-accumulation--with-hyperbaric-oxygen-therapy-hbot-301176053.html) ! Et d’autres scientifiques qui découvrent une [analogie entre la structure de l’univers et nos cerveaux](https://www.vice.com/en/article/bvxm83/human-brain-and-universe-look-similar-says-study), une évidence intuitive pour moi, sujet central de *One Minute*, où je tente de démontrer que nos cerveaux sont optimaux, que davantage d’intelligence n’existe pas.
 
-![La pelouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5325.jpeg)
+![La pelouse](https://tcrouzet.com/images_tc/2020/12/IMG_5325.jpeg)
 
 ### Samedi 21, Balaruc
 
 Toujours éberlué par le premier soleil qui entre dans ma chambre, qui ambre le fauteuil en osier et le meuble bas chinois, tous deux achetés à Paris près de Saint-Sulpice alors que je n’avais pas trente ans et qui depuis ne m’ont pas quitté, comme la désormais antique paire de Bose qui repose au-dessus. Ces meubles définissent la constance dans ma vie. Je suis ancré, attaché, un homme de terroir.
 
-![Premier soleil](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5336.jpeg)
+![Premier soleil](https://tcrouzet.com/images_tc/2020/12/IMG_5336.jpeg)
 
 ---
 
 Une commentatrice attire mon attention vers une belle citation de Char : « Un poète doit laisser des traces de son passage, non des preuves. Seules les traces font rêver. » À méditer pour mon activité de traceur. Je trouve d’autres citations. Jacques Derrida : « Une trace ineffaçable n'est pas une trace. » William Blake : « La culture trace des chemins droits, mais les chemins tortueux sans profit sont ceux-là même du génie. »
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5343.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2020/12/IMG_5343.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5368.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2020/12/IMG_5368.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5372.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2020/12/IMG_5372.jpeg)
 
 ### Dimanche 22, Balaruc
 
-![La maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5389.jpeg)
+![La maison](https://tcrouzet.com/images_tc/2020/12/IMG_5389.jpeg)
 
 ### Lundi 23, Balaruc
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5407.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2020/12/IMG_5407.jpeg)
 
-![Mèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5418-1.jpeg)
+![Mèze](https://tcrouzet.com/images_tc/2020/12/IMG_5418-1.jpeg)
 
 ### Mercredi 25, Balaruc
 
 Je publie [un long article sur mains/aérosols](https://tcrouzet.com/2020/11/24/covid-point-sur-la-polemique-mains-aerosols/), trois jours de travail acharné, une documentation menée sur plusieurs semaines. Sur les réseaux sociaux, davantage de gens le critiquent et likent les critiques que de gens qui le lisent. Ou quand on bascule dans la croyance. Comment alors discuter, avancer ? J'écris parce que je doute, parce que je cherche où je me trompe, on me répond avec des croyances, des certitudes. Je vis dans un monde de plus en plus étrange, de plus en plus dérangeant, comme si je le sentais glisser sous moi, m’échapper, et s’échapper à lui-même.
 
-![Par erreur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5477.jpeg)
+![Par erreur](https://tcrouzet.com/images_tc/2020/12/IMG_5477.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5505.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2020/12/IMG_5505.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5521.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2020/12/IMG_5521.jpeg)
 
 ### Vendredi 27, Balaruc
 
@@ -214,13 +214,13 @@ Un journal est un aller-retour entre les dimensions de l’existence, il se nour
 
 Rien n’oblige toutefois, et par chance. Je n’écris pas de poésie ou de théâtre, ces formes ne me conviennent pas. Je suis tombé dans le journal avant même de me vouloir écrivain, avant même d’avoir lu des journaux d’écrivain. Telle a toujours été ma pente et je comprends que pour d’autres la leur les mène ailleurs. Il n’y a pas UNE forme littéraire supérieure aux autres (ça serait le comble du platonisme).
 
-![Midi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5535.jpeg)
+![Midi](https://tcrouzet.com/images_tc/2020/12/IMG_5535.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5556.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2020/12/IMG_5556.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5558.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2020/12/IMG_5558.jpeg)
 
-![Abbaye de Valmagne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5576.jpeg)
+![Abbaye de Valmagne](https://tcrouzet.com/images_tc/2020/12/IMG_5576.jpeg)
 
 ### Samedi 28, Balaruc
 

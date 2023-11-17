@@ -28,25 +28,25 @@ Quand trop lire est potentiellement nocif pour un écrivain car il risque d’é
 
 ### Lundi 5, Balaruc
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0368-1024x768.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0368-1024x768.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0372-1024x768.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0372-1024x768.jpeg)
 
 ### Mardi 6, Balaruc
 
 *Relire Tintin*, idée d’un livre. J’ai commencé à lire Tintin à 7 ans, je pourrais le relire à 77 et raconter. Une idée pour plus tard, ou pourquoi pas pour tout de suite.
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0408-1024x768.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2023/01/IMG_0408-1024x768.jpeg)
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0410-1024x768.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2023/01/IMG_0410-1024x768.jpeg)
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0413-1024x768.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2023/01/IMG_0413-1024x768.jpeg)
 
 ### Mercredi 7, Balaruc
 
 Je teste ChatGPT et j’entrevois un changement de paradigme radical.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0419-1024x768.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0419-1024x768.jpeg)
 
 ### Jeudi 8, Balaruc
 
@@ -74,15 +74,15 @@ L’art commence par un processus interne chez l’artiste, une nécessité, une
 
 ### Vendredi 9, Balaruc
 
-![Minervois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0436-1024x768.jpeg)
+![Minervois](https://tcrouzet.com/images_tc/2023/01/IMG_0436-1024x768.jpeg)
 
-![Minervois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0447-1024x768.jpeg)
+![Minervois](https://tcrouzet.com/images_tc/2023/01/IMG_0447-1024x768.jpeg)
 
 ### Samedi 10, Balaruc
 
 Nous arrivons à VTT au point de départ d’un sentier que nous empruntons depuis des années et il a disparu. À la place, un immense champ labouré en profondeur, la terre blessée pour accueillir les intrants de l’encore puissante industrie phytosanitaire. Mon cœur se serre. Une ligne est morte. Un lien entre des dizaines d’histoires. Je suis sûr que le meurtrier n’est même pas conscient de son crime. Il a tué sans éprouver de culpabilité. Il a non seulement détruit le sentier, mais aussi l’écosystème qui s’était constitué tout autour. Par son labour, il a massacré des centaines de vies. Les sentiers devraient être protégés, classés au patrimoine mondial de l’UNESCO. Ils sont les veines de l’humanité, celles par lesquelles s’échangent des signaux infimes et vitaux.
 
-![Single disparu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/single-1024x473.jpeg)
+![Single disparu](https://tcrouzet.com/images_tc/2023/01/single-1024x473.jpeg)
 
 ### Dimanche 11, Balaruc
 
@@ -136,7 +136,7 @@ J'utilise ChatGPT pour des requêtes grammaticales, plutôt que de passer par Go
 
 [Je me suis fait tailler le portrait par une IA](https://portrait.vana.com/user/11c74775a122644d4a8c2feead43243a). C’est moi sans être moi. C’est moi en acteur de cinéma.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0486-1024x768.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0486-1024x768.jpeg)
 
 ### Vendredi 16, Balaruc
 
@@ -176,7 +176,7 @@ Et la réponse arrive « Le soleil brillait haut dans le ciel, et je me sentais
 
 Tout cela me trouble et me fait mal. J’en éprouve une forme de malaise désagréable. Dialoguer avec une IA est au-delà de mes forces.
 
-![Walter](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0498-1024x768.jpeg)
+![Walter](https://tcrouzet.com/images_tc/2023/01/IMG_0498-1024x768.jpeg)
 
 ### Mercredi 21, Balaruc
 
@@ -196,9 +196,9 @@ Peur des IA pilleuses de contenus ? Oui, mais pas plus peur d’elles que de Go
 
 ### Jeudi 22, Balaruc
 
-![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0508-1024x768.jpeg)
+![Bellevue](https://tcrouzet.com/images_tc/2023/01/IMG_0508-1024x768.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0515-1024x768.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2023/01/IMG_0515-1024x768.jpeg)
 
 ### Samedi 24, Nancy
 
@@ -218,11 +218,11 @@ Je suis plutôt heureux dans ces moments d’attente, parce qu’il n’est pas 
 
 L’écriture purement littéraire ignore ce dont je parle, puisqu’elle jaillit d’un flot intérieur, sans contrainte extérieure pour la perforer. Le romanesque est un échafaudage, faut pas construire de travers, sinon tout s’écroule. Je pourrais me contredire, mais le carnet est le lieu de la pensée première, seulement en apparence réflexive.
 
-![Canal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0527-1024x768.jpeg)
+![Canal](https://tcrouzet.com/images_tc/2023/01/IMG_0527-1024x768.jpeg)
 
-![Intimité](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0534-1024x768.jpeg)
+![Intimité](https://tcrouzet.com/images_tc/2023/01/IMG_0534-1024x768.jpeg)
 
-![Nancy](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0543-1024x768.jpeg)
+![Nancy](https://tcrouzet.com/images_tc/2023/01/IMG_0543-1024x768.jpeg)
 
 ### Dimanche 25, Nancy
 
@@ -236,7 +236,7 @@ Il est plus difficile d’inventer une histoire plausible que de partager des im
 
 Je m’imagine dans la peau d’un architecte de cent ou deux cents ans en arrière. Je me promène en ville et m’enthousiasme pour tout ce que je vois, parfois désapprouve, mais bien souvent je suis stupéfait. Si j’étais Rousseau ou Flaubert ou Goethe, je serais moins surpris par la littérature qui a suivi, certes parfois audacieuse, mais le plus souvent dans la stricte continuité, voire dans la perpétuelle répétition, tout simplement parce que le langage est ancien, l’art de raconter millénaire, et qu’il répond à des contraintes vitales qui, quand les écrivains ont tenté de les contester, ce sont systématiquement retournées contre eux. Tout écrivain se doit d’être classique d’une certaine façon.
 
-![Nancy](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0544-1024x768.jpeg)
+![Nancy](https://tcrouzet.com/images_tc/2023/01/IMG_0544-1024x768.jpeg)
 
 ### Lundi 26, Nancy
 
@@ -252,37 +252,37 @@ L’art extrême du XX<sup>e</sup> siècle, auquel Mallarmé nous prépare, m’
 
 ### Mardi 27, Nancy
 
-![Nancy](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0552-1024x768.jpeg)
+![Nancy](https://tcrouzet.com/images_tc/2023/01/IMG_0552-1024x768.jpeg)
 
 ### Mardi 27, Balaruc
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0555-1024x768.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0555-1024x768.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0557-1-1024x768.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0557-1-1024x768.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0560-1024x768.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0560-1024x768.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0032-1024x768.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0032-1024x768.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0036-1024x769.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0036-1024x769.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0041-1024x768.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0041-1024x768.jpeg)
 
 ### Vendredi 30, Balaruc
 
 Changer la première phrase d’un livre et c’est tout le livre qui doit changer. Réécrire le premier chapitre et c’est un autre livre qui s’écrit. Parce que le texte commence souvent avec la première phrase qui en donne la direction, et la remplacer, c’est comme enlever l’échafaudage, et tout peut s’écrouler.
 
-![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0581-1024x768.jpeg)
+![Matin](https://tcrouzet.com/images_tc/2023/01/IMG_0581-1024x768.jpeg)
 
-![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0588-1024x768.jpeg)
+![Matin](https://tcrouzet.com/images_tc/2023/01/IMG_0588-1024x768.jpeg)
 
-![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0594-1024x769.jpeg)
+![Matin](https://tcrouzet.com/images_tc/2023/01/IMG_0594-1024x769.jpeg)
 
 ### Samedi 31, Balaruc
 
 Le meilleur réveillon : faire ce que j’aime, passer l’après-midi à travailler sur un texte de Simone Weil avec Tim, puis lire, écrire, pendant que les enfants, eux aussi, adoptent la même stratégie : jeux vidéo à gogo. Je hais les obligations sociales avec tant de véhémence que personne n’ose nous inviter à réveillonner, même nos meilleurs amis.
 
-![Feu sur Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0598-1024x769.jpeg)
+![Feu sur Sète](https://tcrouzet.com/images_tc/2023/01/IMG_0598-1024x769.jpeg)
 
 
 

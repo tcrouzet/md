@@ -18,11 +18,11 @@ J’écris un texte pour Didier, une conférence qu’il doit donner sur un suje
 
 Je regarde *Foundation*, décevante série guimauve inspirée d’Asimov. Je persiste par nostalgie de mes lectures d’adolescence. Lointain futur, villes tentaculaires, comme si notre avenir ne devait pas être tout autre. Rien ne tient dans cette projection. Après trente ans sur une nouvelle planète, des pionniers en sont encore à vivre dans des yourtes alors qu’aujourd’hui, en Chine, dans la même durée, on construit des villes de plusieurs millions d’habitants.
 
-![Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2448.jpeg)
+![Agde](https://tcrouzet.com/images_tc/2021/11/IMG_2448.jpeg)
 
-![Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2450.jpeg)
+![Agde](https://tcrouzet.com/images_tc/2021/11/IMG_2450.jpeg)
 
-![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2452.jpeg)
+![Marseillan](https://tcrouzet.com/images_tc/2021/11/IMG_2452.jpeg)
 
 ### Dimanche 3, Balaruc
 
@@ -40,21 +40,21 @@ Sortie vélo, préoccupée par un grincement. Je bois un coup, lâche la gourde,
 
 [Je rentre de la boucle à VTT, le genou a tenu](https://tcrouzet.com/2021/10/12/bikepacking-dans-lautomne-flamboyant-du-midi), la lumière translucide de l’automne a aidé, je me retrouve face au vide attendu. Les deux derniers tomes de *One Minute* à relire et je serai sans projet.
 
-![Cette lumière…](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2971.jpeg)
+![Cette lumière…](https://tcrouzet.com/images_tc/2021/11/IMG_2971.jpeg)
 
-![Cette lumière…](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2973.jpeg)
+![Cette lumière…](https://tcrouzet.com/images_tc/2021/11/IMG_2973.jpeg)
 
 ### Mardi 12, Balaruc
 
-![Cette lumière…](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2978.jpeg)
+![Cette lumière…](https://tcrouzet.com/images_tc/2021/11/IMG_2978.jpeg)
 
-![Cette lumière…](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2983.jpeg)
+![Cette lumière…](https://tcrouzet.com/images_tc/2021/11/IMG_2983.jpeg)
 
 ### Mercredi 13, Balaruc
 
 Je dépile l’administratif, repousse le moment du grand saut dans l’inconnu. Je ne suis sûr que d’une chose : je ne sais pas ne rien faire.
 
-![Poussan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2995.jpeg)
+![Poussan](https://tcrouzet.com/images_tc/2021/11/IMG_2995.jpeg)
 
 ### Jeudi 14, Balaruc
 
@@ -90,7 +90,7 @@ Je lis des autobiographies et elles me parlent mieux que toutes les fictions. On
 
 Petite rencontre autour de *Résistants* à la médiathèque de Bédarieux. La bibliothécaire a parlé superbement de mon livre, je l'avais presque oublié.
 
-![Bédarieux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3015.jpeg)
+![Bédarieux](https://tcrouzet.com/images_tc/2021/11/IMG_3015.jpeg)
 
 ### Samedi 16, Balaruc
 
@@ -102,21 +102,21 @@ La trace est l’œuvre et le récit que sa description. Impression de tourner e
 
 ### Dimanche 17, Balaruc
 
-![Mèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3034.jpeg)
+![Mèze](https://tcrouzet.com/images_tc/2021/11/IMG_3034.jpeg)
 
-![Mèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3051.jpeg)
+![Mèze](https://tcrouzet.com/images_tc/2021/11/IMG_3051.jpeg)
 
-![Mèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3041.jpeg)
+![Mèze](https://tcrouzet.com/images_tc/2021/11/IMG_3041.jpeg)
 
 ### Lundi 18, Balaruc
 
-![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3061-1.jpeg)
+![Marseillan](https://tcrouzet.com/images_tc/2021/11/IMG_3061-1.jpeg)
 
-![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3064.jpeg)
+![Marseillan](https://tcrouzet.com/images_tc/2021/11/IMG_3064.jpeg)
 
-![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3068.jpeg)
+![Marseillan](https://tcrouzet.com/images_tc/2021/11/IMG_3068.jpeg)
 
-![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3073.jpeg)
+![Marseillan](https://tcrouzet.com/images_tc/2021/11/IMG_3073.jpeg)
 
 ### Mardi 19, Balaruc
 
@@ -170,7 +170,7 @@ Je viens d’écrire quelques pages pour poser mon idée de roman. La question, 
 
 ### Mercredi 27, Balaruc
 
-![Villeveyrac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3659.jpeg)
+![Villeveyrac](https://tcrouzet.com/images_tc/2021/11/IMG_3659.jpeg)
 
 ### Jeudi 28, Balaruc
 
@@ -186,15 +186,15 @@ Je me suis mis à écrire. Une musique s’est imposée. J’ai envoyé à Pierr
 
 François Bon raconte son autobiographie en vidéo. Il me paraît être le premier à explorer cette forme. Ses expérimentations de ces dernières années amenant à ce point précis. J’ai écrit la mienne de manière plus traditionnelle, mais peut-être qu’une autre s’écrit sur les chemins. Lui comme moi ne savons qu’une chose : pour nous dire, il nous faut arriver à notre forme, qui passe par les nouveaux outils pour dire en quoi notre vie est contemporaine. Pour François, la vidéo. Pour moi, le GPS. J’aimerais savoir comment Michon résoudrait cette équation. Dans le discret silence ? Peut-être la seule réponse face au brouhaha.
 
-![Frontignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3666.jpeg)
+![Frontignan](https://tcrouzet.com/images_tc/2021/11/IMG_3666.jpeg)
 
-![Frontignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3668.jpeg)
+![Frontignan](https://tcrouzet.com/images_tc/2021/11/IMG_3668.jpeg)
 
-![Frontignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3673.jpeg)
+![Frontignan](https://tcrouzet.com/images_tc/2021/11/IMG_3673.jpeg)
 
 ### Samedi 30, Balaruc
 
-![Dans les vagues](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3688.jpeg)
+![Dans les vagues](https://tcrouzet.com/images_tc/2021/11/IMG_3688.jpeg)
 
 
 

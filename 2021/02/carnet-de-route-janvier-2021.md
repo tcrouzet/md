@@ -6,11 +6,11 @@
 
 Mon exigence m’épuise et épuise les autres, au point de les détourner de moi. Je ne suis pas un mec plaisant, mais un mec exigeant. Je ne vais pas prendre la résolution d’être plus plaisant, car moins exigeant, je renoncerais à vivre. Alors mon exigence entraîne une forme de solitude, au fur et à mesure que les amis exigeants renoncent à leurs exigences de jeunesse. Je ne suis peut-être qu’un masochiste. Car à quoi bon être exigeant que pour soi-même ? J’ai toujours l’espoir que mon exigence en rencontre d’autres. J’ai de l’exigence en réserve pour l’humanité entière. Je crois trop en elle pour être un dilettante. Je lui voue un culte qu’elle ne me rend pas. Un peu comme les croyants qui s’épuisent en prières auxquelles leur dieu ne répond pas. Mais l’humanité existe, nuance non négligeable. Il suffit de deux ou trois sourires pour qu’elle se manifeste à moi.<span id="more-57547"></span>
 
-![Frontigan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6625.jpeg)
+![Frontigan](https://tcrouzet.com/images_tc/2021/02/IMG_6625.jpeg)
 
-![Frontigan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6636.jpeg)
+![Frontigan](https://tcrouzet.com/images_tc/2021/02/IMG_6636.jpeg)
 
-![La mer](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6639.jpeg)
+![La mer](https://tcrouzet.com/images_tc/2021/02/IMG_6639.jpeg)
 
 ### Samedi 2, Balaruc
 
@@ -24,9 +24,9 @@ Plus je vieillis, mieux j’accepte la mort, parce que je vois de plus en plus d
 
 Un lecteur d’*Ératosthène* [republie une critique vieille de presque sept ans](https://post-tenebras-lire.net/eratosthene-de-thierry-crouzet/), une des rares critiques du texte qui m’a demandé le plus de travail, que j’ai voulu comme mon grand œuvre et qui a été aussi vite oublié qu’Ératosthène lui-même.
 
-![Thau](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6696.jpeg)
+![Thau](https://tcrouzet.com/images_tc/2021/02/IMG_6696.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6702.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/02/IMG_6702.jpeg)
 
 ### Mardi 5, Balaruc
 
@@ -44,7 +44,7 @@ Inedis nous installe un compteur électrique Linky. Deux heures plus tard, quand
 
 Comme le dit ma dentiste, je n’ai pas de chance avec mes vieilles couronnes, toutes effectuées par le même dentiste. Suis bon pour une nouvelle extraction et la pose d’un implant. En attendant, j’ai un élancement assez fort, mais supportable, que je pourrais éteindre avec des antibiotiques dont je vais tenter de me passer. Je pense aux douleurs que devaient endurer les anciens. Un simple mal aux dents pouvait les mener dans la tombe, une infection incontrôlée conduire à une septicémie. Je ne peux imaginer leur vie médicale et les maux qu’ils enduraient. Peut-être que le plus grand progrès de la médecine est le traitement de la douleur. J’ai tout de même vu mon oncle mourir d’un cancer du pancréas en criant au martyre, en tapant du poing sur son pacemaker pour qu’il cesse de stimuler son cœur et le laisse partir au plus vite, tout ça parce que le personnel hospitalier rechignait à augmenter les doses de morphine.
 
-![Thau](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6741.jpeg)
+![Thau](https://tcrouzet.com/images_tc/2021/02/IMG_6741.jpeg)
 
 ### Samedi 9, Balaruc
 
@@ -78,11 +78,11 @@ Laffont renonce à sortir le *Geste qui sauve 2*, parce que *Vaincre les épidé
 
 Des nuages bas courent poussés par un mistral d’altitude vidé de force à la surface de l’étang, sous les ventres cuivrés de Zeppelins, eux-mêmes figés sous une immensité déjà plombée de nuit, alors qu’à l’horizon trônent l’escalier violet des Pyrénées, qui éclabousse l’eau de flaques noires et roses. Aucune photo ne peut fixer cette merveille qui joue avec nos sens et notre regard.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6800.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2021/02/IMG_6800.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6824.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2021/02/IMG_6824.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6847.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2021/02/IMG_6847.jpeg)
 
 ### Vendredi 15, Balaruc
 
@@ -92,9 +92,9 @@ Le plus pathétique mon amie use d’outils de soumis pour exprimer sa volonté 
 
 Mon amie après avoir juré que personne ne se ferait vacciner, constate avec effroi que tout le monde veut se faire vacciner, et elle-même le fera, et elle aura raison d’avoir eu tort.
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6853.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/02/IMG_6853.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6857.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/02/IMG_6857.jpeg)
 
 ### Samedi 16, Balaruc
 
@@ -114,15 +114,15 @@ Tout le monde hurle au sujet des vaccins, pas disponibles en assez grande quanti
 
 Je continue d’écrire [mon autobiographie littéraire](https://tcrouzet.com/tag/en-vie) et prends conscience qu’elle pourrait être une métaphore d’elle-même, l’aboutissement de mon projet littéraire.
 
-![Thau](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6899.jpeg)
+![Thau](https://tcrouzet.com/images_tc/2021/02/IMG_6899.jpeg)
 
 ### Jeudi 21, Balaruc
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6909.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2021/02/IMG_6909.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6925.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2021/02/IMG_6925.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_6965.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/02/IMG_6965.jpeg)
 
 ### Vendredi 22, Balaruc
 
@@ -168,15 +168,15 @@ Les médias sont les premiers à pâtir de cette croissance de la complexité pa
 
 Il n'y a jamais eu de repère dans le monde que pour les croyants, les athées s'inventent des repères qui ne valent que pour eux. C'est difficile, un combat de tous les jours, avec parfois de grands découragements, mais aussi de grandes joies. Les croyants pensent que la réalité transcendante leur préexiste, les athées la construisent, donc dans tous les cas la transcendance existe, sans avoir la même ontologie pour les uns et les autres. Je vais dans la nature pour y rencontrer le génie humain qui a dessiné nos paysages. J’y vais pour me sentir libre, pour éprouver la matérialité du monde et de ma chair. J’y vais pour fuir la complexité qui parfois est insupportable. J’y vais pour me recueillir dans la simplicité, me recharger et mieux affronter la complexité.
 
-![Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7151.jpeg)
+![Pyrénées](https://tcrouzet.com/images_tc/2021/02/IMG_7151.jpeg)
 
-![Salines](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7160.jpeg)
+![Salines](https://tcrouzet.com/images_tc/2021/02/IMG_7160.jpeg)
 
-![Japonisant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7201.jpeg)
+![Japonisant](https://tcrouzet.com/images_tc/2021/02/IMG_7201.jpeg)
 
-![Abstraction](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7212.jpeg)
+![Abstraction](https://tcrouzet.com/images_tc/2021/02/IMG_7212.jpeg)
 
-![Abstraction](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7215.jpeg)
+![Abstraction](https://tcrouzet.com/images_tc/2021/02/IMG_7215.jpeg)
 
 ### Mercredi 27, Balaruc
 
@@ -190,19 +190,19 @@ Nous mangeons un Sandwich à Bize, au bord de la Cesse, avant de sauter plus au 
 
 Je ressens avec force ce signal du changement de saison, toujours précocement annoncé dans le Midi. Il induit en moi un renouveau sylvestre, provoque un élan vers la nature, me donnant l’envie de cabrioler dans l’herbe pour m’en absorber la sève humide… et me mettre à éternuer et à moucher tous les matins durant deux plombes.
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7270-3.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/02/IMG_7270-3.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7288-1.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/02/IMG_7288-1.jpeg)
 
-![Canal du Midi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7305-2.jpeg)
+![Canal du Midi](https://tcrouzet.com/images_tc/2021/02/IMG_7305-2.jpeg)
 
-![Capestang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7320-1.jpeg)
+![Capestang](https://tcrouzet.com/images_tc/2021/02/IMG_7320-1.jpeg)
 
 ### Samedi 30, Balaruc
 
 J’entends pour la première fois quelqu’un poser quelques bonnes questions à la radio au sujet des vaccins, avec encore quelques blocages, mais l’idée progresse de la possibilité pour les États d’acheter les licences pour démultiplier les chaînes de production. Le scandale sera la lenteur de tout cela. L’égoïsme collectif. La mise en évidence du mal qui nous empêche aussi de nous battre pour un monde écologiquement responsable. Combien de temps faudra-t-il pour débloquer les verrous mentaux ? Nous nous sommes programmés pour la bêtise. Nous sommes des locomotives lancées sur des voies inflexibles. Des humains travaillent-ils encore dans les usines pharmaceutiques ? Des humains siègent-ils encore à leurs conseils d’administration ?
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7362.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2021/02/IMG_7362.jpeg)
 
 ### Dimanche 31, Balaruc
 
@@ -226,7 +226,7 @@ Si j’avais eu le choix entre écrire une seule œuvre inoubliable ou mener ma 
 
 Si je dois laisser quelque chose, c’est ma vie, ce que j’ai appris au fil des années.
 
-![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/IMG_7365.jpeg)
+![Matin](https://tcrouzet.com/images_tc/2021/02/IMG_7365.jpeg)
 
 
 

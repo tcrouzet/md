@@ -24,13 +24,13 @@ Comme souvent, je vais en revenir aux chiffres, même si je dois admettre que la
 
 - D’après ce que nous avons constaté dans les autres pays, il faut entre deux et trois semaines, pour qu’une mesure infléchisse le nombre de morts quotidien. Il y a nécessairement un temps de latence (parce qu’il faut du temps pour mourir). Pour la suite, je pars sur la base de 15 jours.
 
-![Trois scénarios comparés](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/simul1.png)
+![Trois scénarios comparés](https://tcrouzet.com/images_tc/2020/04/simul1.png)
 
 - Le 12 mars, lors du premier discours de guerre de Macron, les exhortations à la distanciation émises depuis fin février n’ont pas encore eu d’effet (d’autant qu’elles ont été mal respectées). Depuis le début du mois de mars, on a une croissance quotidienne moyenne du nombre de morts de 45 %. C’est-à-dire que le nombre de victimes double tous les 2,2 jours (=100/45). Pour calculer la mortalité à J jours, il faut appliquer la formule 61x(2^(J-1)/2,2) où 61 est le nombre de victimes au premier jour de la simulation. Le 9 avril, nous aurions 41 000 morts et non 12 000. Le 17 avril, nous aurions atteint l’immunité de groupe avec 500 000 morts (version optimiste, je le rappelle).
 
 - Supposons que la distanciation sociale ait commencé à porter ses fruits mi-mars et que jusqu’à fin mars nous ayons été sur son régime. Le premier avril, on a 4 032 morts. Le nombre moyen de morts ne progressent plus que de 24 % par jour sur ces deux dernières semaines de mars, ils doublent tous les 4,2 jours (=100/24). Sans autre mesure, on continue à ce rythme selon la formule 4032x(2^(J-1)/4,2). Le 9 avril, nous aurions dénombré 15 000 victimes, donc un chiffre proche de celui relevé, ce qui est logique, car les effets du confinement ne se font pas encore trop sentir. L’immunité de groupe version optimiste aurait été atteinte le premier mai.
 
-![Progression de la mortalité](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/simul2.png)
+![Progression de la mortalité](https://tcrouzet.com/images_tc/2020/04/simul2.png)
 
 - Heureusement, nous avons choisi de ne pas suivre l’un ou l’autre de ces scénarios catastrophes. Depuis le début avril, la croissance du nombre de morts est en moyenne de 10 %, mais elle ne cesse de baisser et tend progressivement vers 0 (+5% le 9 avril, donc un doublement tous les 20 jours). L’immunité de groupe est reportée très loin, la mortalité contenue, ce qui nous laisse le temps de soulager les médecins, de désengorger nos hôpitaux, de les adapter, en même temps de tester des traitements, développer des technologies de diagnostic rapide, s'approvisionner en masques et gels hydro-alcooliques, vulgariser la distanciation sociale pour qu’elle devienne efficace et que le confinement puisse être levé le plus rapidement possible sans qu'immédiatement la pandémie flambe à nouveau.
 

@@ -150,7 +150,7 @@ Il est 20 h quand nous repartons. Comme par miracle, j’ai retrouvé de bonnes 
 
 La nuit tombe. Je photographie la dernière lueur du jour au sommet de Buck Bald. Après une descente rapide, nous atteignons le prochain point de campement. Il est 22 h. Des fêtards ont laissé des détritus partout si bien que j’ai bu mal à trouver un endroit où monter ma tente, mais tant pis, je suis incapable de pousser plus loin. Pour une seconde journée consécutive, j’ai escaladé plus de 2 500 mètres. Je suis en avance sur mes prévisions les plus optimistes. Pas de réseau pour avertir Scotty.
 
-![Jour 2](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/j2.jpg)
+![Jour 2](https://tcrouzet.com/images_tc/2019/05/j2.jpg)
 
 ### Lundi 20 mai
 

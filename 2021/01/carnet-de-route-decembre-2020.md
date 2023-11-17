@@ -10,7 +10,7 @@ Enlisé dans *Le geste qui sauve 2* jusqu’à l’horreur. Envie de tout plante
 
 Je suis furieux. Tim se ramasse à un 4/10 sur un devoir maison de maths qu’il a beaucoup travaillé, tout cela parce qu’il n’a pas résolu le problème comme la prof aurait aimé. C’est quoi ce gag ? Si la prof veut que les élèves résolvent un problème d’une certaine façon, qu’elle le précise. Si elle ne veut pas qu’ils utilisent des théorèmes au programme, qu’elle le précise, sinon tout est autorisé, même des mathématiques que la prof ne comprend pas. En l’occurrence, Tim s’est contenté d’utiliser Pythagore et un ou deux sinus. La prof attendait sans doute quelque chose de plus tordu. Ça m’enrage de voir des profs se faire les dents sur des gamins plus brillants qu’eux dans la matière qu’ils enseignent. Le pire, Tim apprécie sa prof, je ne peux même pas l’appeler pour la mettre face à ses erreurs.
 
-![Belle vue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_5597.jpeg)
+![Belle vue](https://tcrouzet.com/images_tc/2021/01/IMG_5597.jpeg)
 
 ### Vendredi 4, Balaruc
 
@@ -18,21 +18,21 @@ Parfois je me demande pourquoi je m’en prends avec toujours tant de véhémenc
 
 Je devrais ne plus m’embêter avec les aiguilleurs dérailleurs. Parce que je ne fais que dépenser une énergie inutile. Comment je me sentirais si je fermais ma gueule ? Mieux ? Je n’en suis pas sûr. L’ouvrir ne ma jamais rien apporté, bien au contraire, mais au moins j’ai l’impression d’être resté moi-même.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/P1110222-1597x1200.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2021/01/P1110222-1597x1200.jpeg)
 
 ### Samedi 5, Balaruc
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_5611.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/01/IMG_5611.jpeg)
 
-![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_5622.jpeg)
+![Marseillan](https://tcrouzet.com/images_tc/2021/01/IMG_5622.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_5647-e1609523698106.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/01/IMG_5647-e1609523698106.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_5652.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/01/IMG_5652.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_5659.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/01/IMG_5659.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_5668.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/01/IMG_5668.jpeg)
 
 ### Lundi 7, Balaruc
 
@@ -62,17 +62,17 @@ Beaucoup de romans ne contiennent que des phrases inutiles. Les auteurs se féli
 
 J’ai été tiré de l’utérus de ma mère avec des forceps, une innovation rendue publique en 1735. Je ne suis pas un homme naturel. Je n’ai survécu, et ma mère aussi, que grâce à une innovation technologique.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_5685.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2021/01/IMG_5685.jpeg)
 
 ### Vendredi 11, Balaruc
 
 Où est ma mousse à raser ? Je cherche partout, introuvable. C’est la deuxième fois en dix jours. La première fois, je me suis dit qu’Annie l’avait jetée parce que la bombe était quasiment vide. Cette fois, je me demande où elle peut bien l'avoir rangée. Je l’appelle, elle me dit qu’elle n’y a pas touchée. Une idée même pas formalisée me traverse l’esprit. Je fonce jusqu’à la salle de bain des enfants. Je retrouve mes deux bombes. J’ai franchi aujourd’hui une nouvelle étape dans ma vie de père.
 
-![La mer, Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_5689-1.jpeg)
+![La mer, Sète](https://tcrouzet.com/images_tc/2021/01/IMG_5689-1.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_5695-1.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2021/01/IMG_5695-1.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_5709-1.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2021/01/IMG_5709-1.jpeg)
 
 ### Mardi 15, Balaruc
 
@@ -84,7 +84,7 @@ Une trace n'a pas besoin d'être entretenue consciemment, elle s'entretient d'el
 
 ### Mercredi 16, Balaruc
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6243.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2021/01/IMG_6243.jpeg)
 
 ### Samedi 19, Balaruc
 
@@ -92,9 +92,9 @@ Je rêve de [technosignatures](technosignature) et d’écrire de la SF. J’ai 
 
 ### Dimanche 20, Balaruc
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6277-1.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2021/01/IMG_6277-1.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6280-1.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2021/01/IMG_6280-1.jpeg)
 
 ### Lundi 21, Balaruc
 
@@ -108,9 +108,9 @@ Durant des mois, les complotistes ont tenté de nous démontrer que le confineme
 
 Je pédale avec des copains beaucoup plus compétiteurs que moi. Nous roulons au soleil à la surface de la brume le long de pistes magnifiques, que je découvre pour la plupart. Les perspectives m’illuminent, mais si je m’arrêtais pour photographier, je serais définitivement distancé. Petite frustration. Si je reviens rouler dans ce coin en prenant mon temps, je ne retrouverai jamais la même lumière. Avec les années, j’ai pris l’habitude des rendez-vous manqués. Avec la photographie, le regret est souvent immédiat.
 
-![À vélo, Saint-Paul-et Valmalle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6343.jpeg)
+![À vélo, Saint-Paul-et Valmalle](https://tcrouzet.com/images_tc/2021/01/IMG_6343.jpeg)
 
-![À vélo, Saint-Paul-et Valmalle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6354.jpeg)
+![À vélo, Saint-Paul-et Valmalle](https://tcrouzet.com/images_tc/2021/01/IMG_6354.jpeg)
 
 ### Jeudi 24, Balaruc
 
@@ -124,15 +124,15 @@ Sous prétexte que je me pose des questions au sujet du vélo, certains en concl
 
 « Les études, on leur fait dire ce qu’on veut. » C’est pratique d’ainsi renoncer à la science et de se contenter des impressions, des avis, des modes. Qu’une étude remette en question un dogme, l’étude est niée. Quand dix études vont dans le même sens, beaucoup de gens cherchent encore des parades pour s’accrocher à leurs certitudes. Oui, Dieu existe.
 
-![Montpellier, en voiture](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6444.jpeg)
+![Montpellier, en voiture](https://tcrouzet.com/images_tc/2021/01/IMG_6444.jpeg)
 
 ### Dimanche 27, Balaruc
 
-![Walter](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6460.jpeg)
+![Walter](https://tcrouzet.com/images_tc/2021/01/IMG_6460.jpeg)
 
-![Walter](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6473.jpeg)
+![Walter](https://tcrouzet.com/images_tc/2021/01/IMG_6473.jpeg)
 
-![Walter](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6490.jpeg)
+![Walter](https://tcrouzet.com/images_tc/2021/01/IMG_6490.jpeg)
 
 Il y a des matins extraordinaires et des hommes et des femmes qui les vivent sans ne rien en manquer. Walter travaille sur ses filets. Et moi qui ai toujours détesté la pêche, toujours refusé d'accompagner mon père, je comprends pourquoi sa vie a été merveilleuse.
 
@@ -140,9 +140,9 @@ Il y a des matins extraordinaires et des hommes et des femmes qui les vivent san
 
 J’envoie le *Geste 2* à Didier. Je termine ce texte pour la seconde fois cette année. Le premier jet avait pour fil rouge le covid, puis j’ai écrit *Vaincre les épidémies* sur le covid, j’ai donc décidé d’universaliser le *Geste 2*, de ne pas l’attacher trop étroitement à l’histoire présente… mais ce livre manque d’histoires, il est décousu, ce n’est qu’une longue annexe au *Geste 1*.
 
-![Le Canigou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/P1110249.jpeg)
+![Le Canigou](https://tcrouzet.com/images_tc/2021/01/P1110249.jpeg)
 
-![Mistral](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6520.jpeg)
+![Mistral](https://tcrouzet.com/images_tc/2021/01/IMG_6520.jpeg)
 
 ### Mardi 29, Balaruc
 
@@ -160,7 +160,7 @@ Le soleil s’est couché, derrière un moutonnement de nuages à l’horizon. A
 
 Quand je veux lire, comme tous les soirs pour m’endormir, l’écran de mon Kindle est à moitié grillé. Résultat : je n’arrive pas à m’endormir. J’allume pour lire un vieux livre papier, et la lumière m’agresse, et le sommeil s’éloigne. Je ne sais plus lire sur papier.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6554.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2021/01/IMG_6554.jpeg)
 
 ### Mercredi 30, Balaruc
 
@@ -170,17 +170,17 @@ Perché sur une bouée jaune, un cormoran accueille le soleil, les ailes écart�
 
 Sortie VTT avec les copains, lumière éblouissante, grand vent, et encore de belles découvertes, comme si le territoire ne cessait de se déplier sous nos roues.
 
-![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6561.jpeg)
+![Matin](https://tcrouzet.com/images_tc/2021/01/IMG_6561.jpeg)
 
-![Il cherche le soleil](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6580.jpeg)
+![Il cherche le soleil](https://tcrouzet.com/images_tc/2021/01/IMG_6580.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/IMG_6591.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/01/IMG_6591.jpeg)
 
 ### Jeudi 31, Balaruc
 
-![Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/P1110274.jpeg)
+![Pyrénées](https://tcrouzet.com/images_tc/2021/01/P1110274.jpeg)
 
-![Une année à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/01/strava2020b-1080x1200.jpg)
+![Une année à vélo](https://tcrouzet.com/images_tc/2021/01/strava2020b-1080x1200.jpg)
 
 
 

@@ -10,69 +10,69 @@ Deux semaines avant le départ prévu pour le 25, nous commençons à scruter le
 
 Côté équipement, Jacques part avec son fidèle 26 pouces tout suspendu. Poids de base de sa config : 16,7 kg. Au dernier moment, je renonce à mon monster cross tout rigide, qui a tendance à me meurtrir les épaules et les mains, et que je vais donc vendre, et prépare mon tout suspendu 29 pouces, qui pèse 12 kg. Poids de base : 18,7 kg.
 
-![Au départ de Balaruc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/JEAB3961.jpeg)
+![Au départ de Balaruc](https://tcrouzet.com/images_tc/2020/09/JEAB3961.jpeg)
 
 ### Vendredi 25
 
 Jacques me rejoint à Balaruc. Il a plu abondamment durant la nuit, ce qui n’était pas prévu, puis un mistral violent s’est levé. Il ne fait pas plus de 10°, presque 8° de moins que les moyennes de saison. Le ciel est couvert. Il est 7h30 quand nous enfilons nos impers sur nos maillots manches longues en mérinos et roulons en direction du [massif de la Gardiole](https://fr.wikipedia.org/wiki/Massif_de_la_Gardiole), mon terrain de jeu, un morceau de garrigue traversé [de pistes DFCI](https://fr.wikipedia.org/wiki/D%C3%A9fense_de_la_for%C3%AAt_fran%C3%A7aise_contre_les_incendies) et de centaines de singles plus ou moins techniques. Malgré la pluie des derniers jours, le terrain est sec, à l’exception de quelques flaques.
 
-![La Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3386.jpeg)
+![La Gardiole](https://tcrouzet.com/images_tc/2020/09/IMG_3386.jpeg)
 
-![La Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3387.jpeg)
+![La Gardiole](https://tcrouzet.com/images_tc/2020/09/IMG_3387.jpeg)
 
-![Les Férules](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3405-1.jpeg)
+![Les Férules](https://tcrouzet.com/images_tc/2020/09/IMG_3405-1.jpeg)
 
 Jacques me raconte que la Gardiole est un pli de calcaires marins du Jurassique, formé il y a 40 millions d'années au front de la jeune chaîne des Pyrénées. Alors que nous grimpons vers le plateau par la face sud, la Méditerranée se révèle peu à peu. À l’horizon est, une ligne orange sépare la mer et le ciel avec en surimpressions les silhouettes du Ventoux, des Alpilles et d’autres massifs qui dessinent un chapelet d’îles. Un spectacle unique s'offre à nous pour nos premiers coups de pédales dans le dur. Au bord de la piste poussent des [férules](https://fr.wikipedia.org/wiki/F%C3%A9rule), que je n’ai jamais vues aussi hautes que cette année. Jacques me raconte que les Romains les utilisaient pour battre les esclaves, ce que lui a appris un normalien avec qui il a voyagé et qui était une véritable encyclopédie vivante. Moi, mon encyclopédie, c’est Jacques. Je découvre que le silphium, la plante sacrée des Grecs, dont j’ai beaucoup parlé dans mon [*Ératosthène*](https://tcrouzet.com/eratosthene/), appartient au genre *ferula*.
 
 Après un single sous les pins, nous rejoignons le village de Mireval, où nous faisons une première pause boulangerie, la règle en bikepacking étant « Mange aussi souvent que possible, car tu ne sais pas ce qui t’attend ». Dès lors, nous prenons quelques libertés avec la trace, évitons les anciens marais salants de Maguelone et nous dirigeons vers Palavas. Les nuages courent dans le ciel, des hordes blanches aux ventres calaminés, avec la pluie au loin, ailleurs des éclats de bleu, et toujours le vent qui décoiffe les étangs et nous pousse dans le dos. D’un instant à l’autre, la lumière fluctue et la température avec elle. Si nous étions en décembre, il ne ferait pas trop mauvais.
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3412.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2020/09/IMG_3412.jpeg)
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3415.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2020/09/IMG_3415.jpeg)
 
-![Palavas](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3416.jpeg)
+![Palavas](https://tcrouzet.com/images_tc/2020/09/IMG_3416.jpeg)
 
-![Maison du Méjan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3419.jpeg)
+![Maison du Méjan](https://tcrouzet.com/images_tc/2020/09/IMG_3419.jpeg)
 
 Nous roulons bon train le long du canal du Rhône à Sète. Au nord, nous apercevons les contreforts des Cévennes que nous avons pour objectif d’atteindre en fin de journée : une ligne noire, quelque peu effrayante. Nous dépassons Carnon, puis à la hauteur de la Grande-Motte bifurquons le long du canal de Lunel. Je suis furieux. Le chemin était sublime, entre eaux vertes et cabanes de pêcheurs bâties de bric et de broc, mais nos élus ont décidé de le transformer en piste cyclable. Je goûte peu ces autoroutes asphaltées ou bétonnées quand elles se substituent à des chemins centenaires et déjà fort agréables à vélo.
 
-![Carnon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3425.jpeg)
+![Carnon](https://tcrouzet.com/images_tc/2020/09/IMG_3425.jpeg)
 
-![Étang de l'Or](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3429.jpeg)
+![Étang de l'Or](https://tcrouzet.com/images_tc/2020/09/IMG_3429.jpeg)
 
-![Canal de Lunel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3433.jpeg)
+![Canal de Lunel](https://tcrouzet.com/images_tc/2020/09/IMG_3433.jpeg)
 
-![Canal de Lunel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3436.jpeg)
+![Canal de Lunel](https://tcrouzet.com/images_tc/2020/09/IMG_3436.jpeg)
 
 À 11h30, après 60 km et un peu plus de 330 m de D+, nous entrons dans Lunel, la ville tauromachique fort mal réputée, qui nous accueille en son centre par deux cafés face à face aux terrasses remplies d’hommes désœuvrés, pas la moindre femme. Mais, petit miracle, nous découvrons un peu plus loin sur le boulevard [le Balcon gourmand](https://www.balcon-gourmand.fr/), une épicerie fine/salon de thé bio où nous nous régalons les papilles en discutant avec la patronne de la vie quotidienne à Lunel qui ne correspond pas aux clichés négatifs habituellement colportés.
 
 Quand nous repartons, le vent redouble, mais le ciel s’est quelque peu dégagé. Nous faisons route plein nord, suivons le Vidourle et la frontière du Gard, dépassons les ruines romaines d’Ambrussum, passons sous l’autoroute, traversons une zone pavillonnaire assez déprimante, retrouvons enfin les ondulations de la garrigue, avec au loin des châteaux d’eau et la dent du pic Saint Loup. Le Vidourle réapparaît, bordé d’arbres majestueux, puis nous enchaînons des chemins bucoliques, des villages de pierres sèches aux maisons blotties les unes contre les autres pour se protéger du vent que nous prenons dans le nez.
 
-![Ambrussum](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3444.jpeg)
+![Ambrussum](https://tcrouzet.com/images_tc/2020/09/IMG_3444.jpeg)
 
-![Ambrussum](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3451.jpeg)
+![Ambrussum](https://tcrouzet.com/images_tc/2020/09/IMG_3451.jpeg)
 
-![Pic Saint Loup](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3453.jpeg)
+![Pic Saint Loup](https://tcrouzet.com/images_tc/2020/09/IMG_3453.jpeg)
 
-![Saint Sériès](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3456.jpeg)
+![Saint Sériès](https://tcrouzet.com/images_tc/2020/09/IMG_3456.jpeg)
 
-![Saussinnes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3460.jpeg)
+![Saussinnes](https://tcrouzet.com/images_tc/2020/09/IMG_3460.jpeg)
 
-![Galargues](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3463-1.jpeg)
+![Galargues](https://tcrouzet.com/images_tc/2020/09/IMG_3463-1.jpeg)
 
 Après Garrigues, une piste DFCI nous fait sauter une ligne de collines, puis une seconde que nous dévalons par un single minuscule, déniché lors d’une reco débuts mars. Entre Sauteyrargues et Lauret, les pentes se font plus méchantes, puis nous devons pousser et porter les vélos pour franchir les dernières marches qui nous amènent sur le causse de Pompignan. À ce moment, nous avons rejoint la piste officielle de [la grande traversée de l’Hérault](https://sitesvtt.ffc.fr/grandes-traversees/la-grande-traversee-de-lherault/). L’effort en vaut la peine. Le chemin est parfait, bien que cassant par instants, un paysage de bergers, loin de tout, la sensation d’être dans un autre temps, avec les colchiques qui poussent dans les prés (dixit Jacques qui y voit les signes d'une fin d’automne décidément précoce). Et quel plaisir de rouler avec un tout suspendu sur ces chemins où des pierres traitresses viendraient sinon cogner jusque dans mes épaules.
 
 Jacques ne cesse de se plaindre de son tout nouveau cuissard Assos endurance. Il lui garrote les cuisses et lui tire sur les épaules. La boutique Cyrpeo de Montpellier lui a vendu un modèle médium, affirmant que c'était sa taille (sans pouvoir lui faire essayer un large qu'ils n'avaient pas en stock). Je mesure cinq centimètres de moins et je ne nage pas dans mon médium. Jacques a été mal conseillé, tout en ne respectant pas un autre adage du bikepacker : « Ne pas partir sans avoir testé son matos. »
 
-![Vacquières](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3468.jpeg)
+![Vacquières](https://tcrouzet.com/images_tc/2020/09/IMG_3468.jpeg)
 
-![Lauret](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3472.jpeg)
+![Lauret](https://tcrouzet.com/images_tc/2020/09/IMG_3472.jpeg)
 
-![Poussage et portage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3481.jpeg)
+![Poussage et portage](https://tcrouzet.com/images_tc/2020/09/IMG_3481.jpeg)
 
-![Lauret](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3486.jpeg)
+![Lauret](https://tcrouzet.com/images_tc/2020/09/IMG_3486.jpeg)
 
-![Sur le Causse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3488.jpeg)
+![Sur le Causse](https://tcrouzet.com/images_tc/2020/09/IMG_3488.jpeg)
 
 Nous descendons vers le hameau de Ferrières-les-Verreries quand le ciel s’assombrit. Il commence à pleuvoir et nous perdons soudainement plusieurs degrés. Nous nous retrouvons sur une petite route. Comme nous devons encore crapahuter dans les garrigues pour plus d’une heure avant d’atteindre notre destination du soir, Saint Bauzille-de-Putois, nous décidons de continuer par la route que nous dévalons à fond de train. Grelottants, nous nous précipitons dans un café, chez Isa, où nous commandons deux pizzas savoyardes.
 
@@ -88,31 +88,31 @@ Bilan jour 1 : 130 km, 1350 D+.
 
 Moi qui dors très mal depuis des semaines, j’ai écrasé. Nous nous levons à 7h et ne quittons l’auberge qu’à 8h30 après un copieux petit déjeuner. Une étape à ne pas manquer pour qui désire faire ce tour de l’Hérault.
 
-![Pont suspendu sur l'Hérault](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3502.jpeg)
+![Pont suspendu sur l'Hérault](https://tcrouzet.com/images_tc/2020/09/IMG_3502.jpeg)
 
 Il fait frisquet au départ. Nous roulons avec doudoune et imper. Après avoir franchi l’Hérault, nous empruntons une route départementale, avant de plonger vers Brissac. Les contreforts de [la Séranne](https://fr.wikipedia.org/wiki/S%C3%A9ranne) se révèlent, avec le Roc Blanc qui culmine à 911 m. Dès la première côte, Jacques se plaint de nouveau de son cuissard. Il ne cesse de tirer dessus pour distendre les élastiques qui lui garrottent les cuisses provocant des douleurs atypiques dans les jambes. Je le dope à l’ibuprofène et lui propose les ciseaux miniatures de [ma Leatherman](https://www.leatherman.com/squirt-ps4-22.html?dwvar_22_color=11&cgid=multi-tools#start=1), qu’il renonce à utiliser, dans l’espoir d’un échange par Cyrpeo.
 
 Dans un trou humide au bord de l'Avèze, nous découvrons une ancienne papeterie avec une maison de maître dans le pur style briques et ardoises de la fin dix-neuvième. Nous suivons alors un superbe single, ponctué de cailloux qui exigent toute notre attention. Nous regagnons une petite route quand apparaît [Saint-André du Buèges](https://fr.wikipedia.org/wiki/Saint-Andr%C3%A9-de-Bu%C3%A8ges), avec sa [superbe église romane](https://fr.wikipedia.org/wiki/%C3%89glise_Saint-Andr%C3%A9_de_Saint-Andr%C3%A9-de-Bu%C3%A8ges).
 
-![La Séranne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3511.jpeg)
+![La Séranne](https://tcrouzet.com/images_tc/2020/09/IMG_3511.jpeg)
 
-![L'usine dans le trou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3513-1582x1200.jpeg)
+![L'usine dans le trou](https://tcrouzet.com/images_tc/2020/09/IMG_3513-1582x1200.jpeg)
 
-![Single](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3515.jpeg)
+![Single](https://tcrouzet.com/images_tc/2020/09/IMG_3515.jpeg)
 
-![Saint-André-de-Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3524.jpeg)
+![Saint-André-de-Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3524.jpeg)
 
-![Saint-André-de-Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3529.jpeg)
+![Saint-André-de-Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3529.jpeg)
 
 Nous entrons dès lors dans une vallée idyllique, un petit coin de Paradis à l’abri du mistral comme du vent du sud, jadis dédié à la culture des mûriers pour nourrir les vers à soie. Nous rejoignons le cours asséché de la Buèges que nous enjambons par un petit pont avant de le remonter en rive droite par un single ombragé (rester sur le GR de la rive gauche en cas de crue).
 
-![La vallée de la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3534.jpeg)
+![La vallée de la Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3534.jpeg)
 
-![Pont sur la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3536.jpeg)
+![Pont sur la Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3536.jpeg)
 
-![Le cours asséché de la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3540.jpeg)
+![Le cours asséché de la Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3540.jpeg)
 
-![La Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3545.jpeg)
+![La Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3545.jpeg)
 
 Jacques me dit qu’il vient se baigner en été dans les gourgs formées par des concrétions carbonatées créant de pittoresques petites cascades. Un peu plus haut en amont, la rivière reprend ses droits. Nous la franchissons par un gué, regagnons la rive gauche avant d’entrer dans Saint-Jean-de-Buèges, un village parfait, avec son château, son café, son réparateur de vélos, et auquel il ne manque qu’une bonne boulangerie.
 
@@ -120,41 +120,41 @@ Par une petite voie communale, puis des chemins, nous grimpons entre les vignes.
 
 Jacques l’appelle l’autoroute du Larzac. Il nous faut une heure de poussage, parfois de portage, pour atteindre le sommet, mais avec le plaisir de découvrir à chaque lacet des perspectives de plus en plus saisissantes. Inutile de se remettre en selle avant d’atteindre le GR74. Il y a trop de cailloux ou de marches pour pédaler plus d’une dizaine de mètres avant de devoir remettre pied à terre.
 
-![Saint-Jean-de-Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3547.jpeg)
+![Saint-Jean-de-Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3547.jpeg)
 
-![Saint-Jean-de-Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3550.jpeg)
+![Saint-Jean-de-Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3550.jpeg)
 
-![Pégairolles-de-Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3559.jpeg)
+![Pégairolles-de-Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3559.jpeg)
 
-![Résurgence de la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3562.jpeg)
+![Résurgence de la Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3562.jpeg)
 
-![Résurgence de la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3563.jpeg)
+![Résurgence de la Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3563.jpeg)
 
-![L'autoroute du Larzac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3567.jpeg)
+![L'autoroute du Larzac](https://tcrouzet.com/images_tc/2020/09/IMG_3567.jpeg)
 
-![L'autoroute du Larzac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3568.jpeg)
+![L'autoroute du Larzac](https://tcrouzet.com/images_tc/2020/09/IMG_3568.jpeg)
 
-![La vallée de la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3577.jpeg)
+![La vallée de la Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3577.jpeg)
 
-![La vallée de la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3581.jpeg)
+![La vallée de la Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3581.jpeg)
 
-![La vallée de la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3597.jpeg)
+![La vallée de la Buèges](https://tcrouzet.com/images_tc/2020/09/IMG_3597.jpeg)
 
 Quand nous remontons à vélo pour dépasser le sommet, nous ramassons des bourrasques en pleine face et le ciel se fracasse. Rien n’arrête un vent du nord glacial. Devant nous la tourmente brouille le massif de l’Aigoual. Des copains nous disent qu’il a neigé là-haut dans la nuit. Nous descendons par une DFCI jusqu’au hameau du Coulet, où des chats squattent la chapelle, puis nous grimpons un mamelon, avant de plonger vers Saint-Maurice-de-Navacelles, les gorges de la Vis sur notre droite.
 
-![Les gorges de la Vis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3628.jpeg)
+![Les gorges de la Vis](https://tcrouzet.com/images_tc/2020/09/IMG_3628.jpeg)
 
-![Le pic d'Anjeau au dessus de St Laurent le Minier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3638.jpeg)
+![Le pic d'Anjeau au dessus de St Laurent le Minier](https://tcrouzet.com/images_tc/2020/09/IMG_3638.jpeg)
 
 Coup de bol, la guinguette est ouverte, et nous ingurgitons des côtelettes, des saucisses et du magret de canard, sous un soleil intermittent et guère revigorant. Quand nous repartons, le vent s'énerve. Nous manœuvrons une série de barrières galvanisées, taillant notre route sur l’herbe rabotée du Larzac. Nous tanguons sous le coup des rafales quand elles nous prennent de côté ou faisons du sur place quand elles nous attaquent de face. Nous n’avons pas le temps de transpirer que nous sommes déjà secs.
 
-![PR du Caylar](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3641.jpeg)
+![PR du Caylar](https://tcrouzet.com/images_tc/2020/09/IMG_3641.jpeg)
 
-![Le Larzac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3645.jpeg)
+![Le Larzac](https://tcrouzet.com/images_tc/2020/09/IMG_3645.jpeg)
 
-![Le Larzac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3654.jpeg)
+![Le Larzac](https://tcrouzet.com/images_tc/2020/09/IMG_3654.jpeg)
 
-![Le Larzac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3667.jpeg)
+![Le Larzac](https://tcrouzet.com/images_tc/2020/09/IMG_3667.jpeg)
 
 Quand nous arrivons enfin au Caylar et nous jetons dans la boulangerie, le ciel s’est couvert et il pleuviote des gouttes éparses, crachées de nuages noirs. Me voyant commander une pizza et des gâteaux, Jacques me demande « Tu manges maintenant ? » Oui, parce que je ne vois pas quand nous pourrions manger plus tard. Au moment de repartir, il pleut plus franchement. J'évoque l'idée de prendre une chambre dans un motel.
 
@@ -166,7 +166,7 @@ OK, l’aventure pour l’aventure. Après une pause aux toilettes de l’aire d
 
 Il veut mettre une chambre, je lui propose d’abord de tenter une réparation avec une mèche. Nous trouvons le trou, mais voilà qu’il se rebouche seul grâce au liquide tubeless. Nous repartons. Jacques connaît un coin où nous serons à l’abri du vent. Je suggère de continuer à pédaler tant qu’il pleut. Jaques doit dormir dans un bivy et il n’a pas de tarp. Je ne vois pas comment il pourra rester au sec. Il me dit que je suis pessimiste, ce qui n'est pas faux.
 
-![La nuit tombe](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3679-1.jpeg)
+![La nuit tombe](https://tcrouzet.com/images_tc/2020/09/IMG_3679-1.jpeg)
 
 Il insiste. Nous avons un petit point désaccord. Je m’abrite sous un arbre pendant qu’il quitte la trace à la recherche de son endroit, l'aire de pique nique du Roquet Escu sur le PR des corniches de Lauroux. Les minutes passent et la nuit tombe en même temps que la pluie s'intensifie. J’appelle Jacques, il ne me répond pas. Je commence à m’inquiéter, mais le voilà qui revient. Il a trouvé son coin. Nous y filons. Une prairie, un minivan stationné. Deux randonneurs qui émergent de la forêt. Des sortes de ruines végétalisées. Des hêtres gigantesques aux frondaisons prodigieuses et moussues comme dans les romans d’héroïc fantasy. Un tapis de feuilles mortes, spongieuses. Il fait nuit noire quand nous montons le camp.
 
@@ -182,55 +182,55 @@ Le vent dans les branches me réveille. Il ne pleut plus. Je sors pour pisser. D
 
 Ça souffle là-haut, mais au pied du hêtre noueux, c’est le calme plat. Jacques a choisi le bon spot. Je me réveille souvent, mais me rendors aussitôt alors que chez moi je reste les yeux ouverts durant des heures. Le vent me berce. La surface de mon sac de couchage est glaciale. Il ne doit pas faire plus d’une poignée de degrés. Nous sommes à 700 mètres d’altitude environ.
 
-![Aire de pique nique du Roquet Escu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3727.jpeg)
+![Aire de pique nique du Roquet Escu](https://tcrouzet.com/images_tc/2020/09/IMG_3727.jpeg)
 
-![Dans la forêt](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3732.jpeg)
+![Dans la forêt](https://tcrouzet.com/images_tc/2020/09/IMG_3732.jpeg)
 
-![Dans la forêt](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3733.jpeg)
+![Dans la forêt](https://tcrouzet.com/images_tc/2020/09/IMG_3733.jpeg)
 
 À 7h, je ne tiens plus et appelle Jacques qui a peu dormi, tenu réveillé par le froid. Dès que je sors de la tente, mes doigts et mes orteils s’engourdissent comme au plus fort de l’hiver. Je me goinfre de barres de céréales. Je propose à Jacques de rejoindre Ceilhes, au nord d’Avène, et d’aviser. Nous repartons. Le vent est d’une violence rare. Quelques rayons de soleil rasant traversent les frondaisons sans réussir à nous revigorer. Quand nous émergeons de la forêt et atteignons la route au col du Perthus (pas celui dans les Pyrénées), nous découvrons le panorama grandiose des hauts cantons et la Montagne Noire, notre prochaine destination. Les flashs clignotants des éoliennes au-dessus de Ceilhes percent avec difficulté l’orage qui les frappe. Il pleut partout. Il ne doit faire faire plus de 2°.
 
 À contre-cœur, nous décidons de plonger vers Lodève et d’interrompre là notre 727. La descente est magnifique. Je m’arrête pour faire des photos, mais pas aussi souvent que je le voudrais, car j’ai un mal fou à enlever mes gants trempés depuis hier soir. Je finis par ne plus m’arrêter qu’au centre-ville où nous nous jetons dans une boulangerie pour nous gaver de viennoiseries et nous réchauffer avec un thé.
 
-![Descente vers Lodève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3738.jpeg)
+![Descente vers Lodève](https://tcrouzet.com/images_tc/2020/09/IMG_3738.jpeg)
 
-![Descente vers Lodève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3739.jpeg)
+![Descente vers Lodève](https://tcrouzet.com/images_tc/2020/09/IMG_3739.jpeg)
 
-![Descente vers Lodève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3741.jpeg)
+![Descente vers Lodève](https://tcrouzet.com/images_tc/2020/09/IMG_3741.jpeg)
 
 Le vent est cinglant. Je propose à Jacques de rejoindre le lac du Salagou, puis de suivre le final de la [Grande traversée du Massif central](https://www.la-gtmc.com/) (GTMC) pour rejoindre Pézenas avant de bifurquer vers Balaruc. Nous quittons Lodève en longeant La Lergue jusqu’au lac que nous contournons par le single ludique de la rive nord.
 
-![Terres rouges du Salagou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3751.jpeg)
+![Terres rouges du Salagou](https://tcrouzet.com/images_tc/2020/09/IMG_3751.jpeg)
 
-![Le Salagou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3754.jpeg)
+![Le Salagou](https://tcrouzet.com/images_tc/2020/09/IMG_3754.jpeg)
 
-![Contreforts du cirque de Mourèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3756.jpeg)
+![Contreforts du cirque de Mourèze](https://tcrouzet.com/images_tc/2020/09/IMG_3756.jpeg)
 
-![Chaos basaltique](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3759.jpeg)
+![Chaos basaltique](https://tcrouzet.com/images_tc/2020/09/IMG_3759.jpeg)
 
-![Vers la rive](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3762.jpeg)
+![Vers la rive](https://tcrouzet.com/images_tc/2020/09/IMG_3762.jpeg)
 
 Jacques m'explique que des coulées basaltiques ont protégé en certains endroits les roches anciennes sous-jacentes beaucoup plus tendres, si bien que les zones non recouvertes ont été entaillées par l’érosion, ce qui dessine le relief inversé si particulier des alentours. Au sud, en revanche, se dressent les remparts dolomitiques beaucoup plus durs du cirque de Mourèze.
 
 Jacques me fait descendre vers la berge par un chaos rocheux qui traverse une falaise d’orgues basaltiques spectaculaires. Chaque péripétie est l'occasion d'une petite dissertation géologique dont je me régale. Nous franchissons le barrage, puis rejoignons la trace de la GTMC qui nous amène en aval de Clermont-l’Hérault. Par une DFCI assez raide, nous grimpons un puech qui domine la ville. Au loin, j’aperçois le champ d’éoliennes au-dessus de Villeveyrac, un de mes terrains de jeu. La maison n’est plus loin.
 
-![Le pic de Vissou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3785.jpeg)
+![Le pic de Vissou](https://tcrouzet.com/images_tc/2020/09/IMG_3785.jpeg)
 
-![Villeneuvette](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3788.jpeg)
+![Villeneuvette](https://tcrouzet.com/images_tc/2020/09/IMG_3788.jpeg)
 
-![Villeneuvette](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3795.jpeg)
+![Villeneuvette](https://tcrouzet.com/images_tc/2020/09/IMG_3795.jpeg)
 
 Mais la trace nous conduit de découvertes en découvertes. En contrebas de Villeneuvette, nous descendons par le PR de la Tourelle aux meules jusqu’à une rivière dans un bois de fées, avant d’attaquer une grimpette punitive. Une fois au sommet, nous faisons le point. Jacques m’explique que depuis notre départ de la forêt de l’Escandorgue nous suivons le chaînon volcanique du même nom vieux de 2,5 à 1,5 million d'années, qui se prolonge jusqu'au Cap d'Agde.
 
-![Lieuran-Cabrière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3798.jpeg)
+![Lieuran-Cabrière](https://tcrouzet.com/images_tc/2020/09/IMG_3798.jpeg)
 
-![Péret](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3820.jpeg)
+![Péret](https://tcrouzet.com/images_tc/2020/09/IMG_3820.jpeg)
 
 Il est midi passé et nous sommes encore à 40 km de Pézenas et à plus de 1 000 mètres de D+. Nous décidons de prendre un nouveau raccourci, nous jetant dans un PR dit des balcons volcaniques. Nous rejoignons le village de Lieurant-Cabrières, puis de Peret, avant de foncer vers la plaine de l’Hérault, traverser Adissan, puis de nous arrêter sur la magnifique place de Cazouls-d’Hérault, où je connais un resto bio des plus agréables. Nous nous y réchauffons et nous y goinfrons avant de reprendre la route en direction d'Aumes, puis de Mèze et de l’étang de Thau avant de revenir à notre point de départ.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3829.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2020/09/IMG_3829.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3834.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2020/09/IMG_3834.jpeg)
 
 Bilan jour 3 : 107 km, 1 150 D+.
 
@@ -244,7 +244,7 @@ En bons Méridionaux, nous n’avons pas accordé assez d’attention aux prévi
 
 Vélo : Specialized Epic 2018 Expert monté en 2,1 pouces, Ground Control à l’avant, Fast Track à l’arrière. [Sac de cadre sur mesure éprouvé depuis plus d’un an](https://www.facebook.com/bymarionquentin/), aucun problème avec la suspension, top tube bag [Revelate Design Mag-Tank](https://www.revelatedesigns.com/index.cfm/store.catalog/cockpit/magtank2000), sac de guidon [Revelate Design Pronghorn](https://www.revelatedesigns.com/index.cfm/store.catalog/handlebar/pronghorn), avec entretoises maison pour protéger les câbles, deux [Wolftouth Roll-Top Bag](https://www.wolftoothcomponents.com/collections/b-rad-system/products/b-rad-roll-top-bag) et un porte-bidons attaché à la fourche par des colliers [Gizmo Universal de Zéfal](http://www.zefal.com/fr/porte-bidons-thermoplastique/60-gizmo-universal.html).
 
-![Mon vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_3372-1.jpeg)
+![Mon vélo](https://tcrouzet.com/images_tc/2020/09/IMG_3372-1.jpeg)
 
 *PS : Texte révisé et annoté par Jacques…*
 

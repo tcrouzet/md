@@ -76,9 +76,9 @@ Vieillir implique de diminuer alcool, tabac, corps gras explique Gracq, mais cel
 
 Émile se toque de faire une balade avec le vélo électrique d’Isa. Nous voilà partis pour un tour de l’étang. Quand il rentre avec le sourire et un peu mal aux fesses, il me dit « À refaire… ».
 
-![Lévitation](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/IMG_9132-1600x1200.jpeg)
+![Lévitation](https://tcrouzet.com/images_tc/2021/05/IMG_9132-1600x1200.jpeg)
 
-![Lévitation](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/IMG_9135-1600x1200.jpeg)
+![Lévitation](https://tcrouzet.com/images_tc/2021/05/IMG_9135-1600x1200.jpeg)
 
 ### Lundi 19, Balaruc
 
@@ -88,7 +88,7 @@ Mon beau-père, bientôt 84 ans, a reçu ses deux doses de vaccin ARN messager e
 
 Les épidémiologistes continuent de prêcher que les avantages du vaccin AstraZeneca sont supérieurs aux risques ([7,9 thrombose par million de doses, soit pas loin de 1/100 000 avec une mortalité de 1,5 par million](https://www.capital.fr/economie-politique/astrazeneca-168-cas-majeurs-de-caillots-sanguins-dont-32-mortels-recenses-au-royaume-uni-1401079)). Ce discours jusqu’au-boutiste sera contre-productif à terme pour la campagne de vaccination. Plus personne ne veut d’un vaccin qui tue, même si le covid tue beaucoup plus. Quand on a moins de 65 ans, qu’on pète la forme, la probabilité de décéder du covid, sans doute 1/10 000, n’est peut-être pas suffisamment éloignée du 1/100 000 pour risquer un vaccin dont en prime l’efficacité contre les variants est discutée. Un statisticien y verrait toujours un bénéfice, surtout collectif, mais même moi je finis par me ficher des statistiques. Pour autant, je reste encore prêt à me faire vacciner, le jour où mon tour viendra.
 
-![Voiliers](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/IMG_9151-1600x1200.jpeg)
+![Voiliers](https://tcrouzet.com/images_tc/2021/05/IMG_9151-1600x1200.jpeg)
 
 ### Mardi 20, Balaruc
 
@@ -108,13 +108,13 @@ La langue importe moins que le réseau qu’elle tresse entre des images, des se
 
 ### Vendredi 23, Balaruc
 
-![Tim, paddle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/IMG_9181-1600x1200.jpeg)
+![Tim, paddle](https://tcrouzet.com/images_tc/2021/05/IMG_9181-1600x1200.jpeg)
 
 ### Samedi 24, Balaruc
 
-![Saint paul de mauchien](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/IMG_9185-1600x1200.jpeg)
+![Saint paul de mauchien](https://tcrouzet.com/images_tc/2021/05/IMG_9185-1600x1200.jpeg)
 
-![Lavandes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/IMG_9191-1600x1200.jpeg)
+![Lavandes](https://tcrouzet.com/images_tc/2021/05/IMG_9191-1600x1200.jpeg)
 
 ### Dimanche 25, Balaruc
 

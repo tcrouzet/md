@@ -12,7 +12,7 @@ J'écarte l'argument consommer français, parce que je crois à la métalocalit�
 
 Quand je me suis mis au bikepacking, début 2019 en Floride, j’ai acheté un vélo de milieu de gamme, un [Salsa Timberjack avec un cadre alu 6066-T6](https://salsacycles.com/bikes/timberjack/2019_timberjack_nx_eagle_29). J’ai été conseillé par des bikepackers américains d’expérience et je n’ai jamais regretté ce choix. C’est un vélo idéal pour le bikepacking, avec une position très confortable, un grand triangle de cadre, la possibilité de chausser des pneus 2,6 pouces en 29 pouces, voire du 3 pouces en 27,5 pouces. On peut même le monter facilement en mono pignon.
 
-![Salsa Timberjack](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090742-600x450.jpg)
+![Salsa Timberjack](https://tcrouzet.com/images_tc/2019/05/P1090742-600x450.jpg)
 
 Après quatre voyages, je ne lui fais que deux reproches, en grande partie inhérent à son niveau de gamme.
 

@@ -28,17 +28,17 @@ J’ai dépassé l’âge limite pour les acrobaties. À la moindre chute, je me
 
 Exemple. J’ai atterri en Floride en août 2018, non parce que je l’ai choisi, mais parce que des Floridiens nous ont proposé d’échanger pour un an notre maison avec la leur. J’ai commencé par anticiper mon voyage en chargeant toutes les traces GPX que je trouvais sur le Net, obtenant une première couverture du coin où je m’apprêtais à débarquer.
 
-![Traces téléchargées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/flore01-535x450.jpg)
+![Traces téléchargées](https://tcrouzet.com/images_tc/2018/12/flore01-535x450.jpg)
 
 Vu le relief inexistant dans le sud de la Floride, j’ai choisi de rouler en gravel, vélo très à la mode aux US, aussi adroit sur le tarmac que sur les chemins tant qu’il n’y a pas trop de pierres. Dès ma première sortie, je me suis attaqué à la *levee* qui se trouve non loin de chez moi, une digue qui canalise l’eau des Everglades et permet de réguler leur niveau. J’ai cru devenir dingue sur cette infinie ligne droite monotone. Je n’étais pas en train de faire du vélo, mais seulement du sport. Je n’avais pas d’objectif, pas de sommet à atteindre, pas de col à franchir, même pas une trace à dérouler pour relier deux points. Au bout d’un moment, j’ai fait demi-tour et suis rentré chez moi désespéré.
 
-![Levee vu du ciel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/floride02-600x437.jpg)
+![Levee vu du ciel](https://tcrouzet.com/images_tc/2018/12/floride02-600x437.jpg)
 
-![Ma levee adorée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/IMG_2293-600x450.jpg)
+![Ma levee adorée](https://tcrouzet.com/images_tc/2018/12/IMG_2293-600x450.jpg)
 
 J’ai plongé mon nez sur les cartes et les images satellites. Côté des Everglades, les possibilités ne me paraissaient pas faramineuses. Je découvrais partout les mêmes *levees*. Je me suis tourné du côté de la ville. J’ai recherché les pistes cyclables, les parcs, j’ai tenté de les interconnecter. J’ai commencé [par dessiner des parcours](https://tcrouzet.com/2018/05/12/randos-vtt-ou-autres-comment-creer-une-trace-gpx/), par les charger sur mon GPS et par m’y attaquer. Dès que j’apercevais des chemins de traverse, je les empruntais. Au retour, je récupérais mes traces pour les charger sur la carte, pour les superposer aux traces précédentes, et peu à peu j’ai découvert des boucles entrelacées m’amenant de parc en parc (ils ont des parcs sublimes en Floride, de vastes parcs à l’anglaise où la nature a le droit de s’exprimer).
 
-![Mes traces en ville](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/floride03-600x311.jpg)
+![Mes traces en ville](https://tcrouzet.com/images_tc/2018/12/floride03-600x311.jpg)
 
 Le problème du parcours urbain, c’est les voitures. Le flux est énorme dans le coin de Miami. Six millions d’habitants se bousculent sur les routes. Les pistes cyclables coupent sans cesse des avenues à plusieurs voies. Je n’aime pas devoir m’arrêter à tout bout de champ, à attendre les feus verts et même alors devoir rester aux aguets, car rien ne garantit que personne ne viendra me couper la route. J’ai fini par renoncer à atteindre l’océan depuis chez moi. Trop de stress. Je me suis concocté quelques variations plus ou moins paisibles, en maximisant les passages dans les parcs. Au bout de quatre mois, je m’en suis fatigué. Le trafic impose une contrainte qui limite les possibilités et implique de répéter les rares solutions envisageables, d’autant qu’en moins d’un an quatre cyclistes sont morts sur les routes de Weston, ma ville dortoir.
 
@@ -52,7 +52,7 @@ JP m’a alors fait découvrir ses boucles préférées. Nous avons changé de *
 
 J’ai alors replongé sur la carte. J’avais à nouveau envie d’explorer ce pays, de le creuser, de dérouler de nouvelles traces. J’ai repéré à moins d’une heure de voiture de chez nous la [Big Cypress Preserve](https://www.nps.gov/bicy/index.htm), une forêt de conifères inondée en été et qui commence à s’assécher en décembre. J’ai une nouvelle fois chargé les traces disponibles, puis j’ai scruté les photos satellites, jusqu’à me construire [ma propre carte](https://drive.google.com/open?id=1oqvPPw65GRlP-N8CzOx4H7ke8fERFDjc&usp=sharing). Un matin, nous partons en exploration avec JP.
 
-![Big Cypress Map](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/bigcyp-567x450.jpg)
+![Big Cypress Map](https://tcrouzet.com/images_tc/2018/12/bigcyp-567x450.jpg)
 
 ### Big Cypress Preserve
 
@@ -60,35 +60,35 @@ Vélos chargés sur la voiture, nous roulons en direction de Naples sur l’inte
 
 Nous nous dirigeons vers une zone où peu ou pas de cyclistes s’aventurent. À la connaissance de JP, nous serions même les premiers. Rien de tel pour provoquer une petite excitation qui me fait sentir ce qu’éprouvent les explorateurs et autres ouvreurs de pistes.
 
-![Sortie interdite](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/floride04-600x272.jpg)
+![Sortie interdite](https://tcrouzet.com/images_tc/2018/12/floride04-600x272.jpg)
 
 Nos quittons l’autoroute par une sortie interdite aux véhicules non autorisés. Nous avons repéré plus loin, une belle *levee* qui effectue une boucle de 75 km dans la réserve des Indiens Miccosukee, à cela près qu’il faut d’abord franchir une [station de pompage](https://www.google.com/maps/place/26%C2%B010'17.8%22N+80%C2%B049'38.8%22W/) et difficile de savoir si c’est possible à l’aide des images satellites.
 
-![Station de pompage, la trace passe mais nous ?](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/floride041-574x450.jpg)
+![Station de pompage, la trace passe mais nous ?](https://tcrouzet.com/images_tc/2018/12/floride041-574x450.jpg)
 
 Nous sommes immédiatement déboutés. Un panneau stipule que sans permis il est strictement interdit d’aller plus loin, sous penne de poursuites judiciaires. Nous ne prenons pas ce risque. Marche arrière et retour sur l’autoroute. Nous dépassons l’embranchement de Snake Road et nous garons un peu plus loin sur un [parking désert](https://www.google.com/maps/place/26%C2%B010'26.3%22N+80%C2%B053'45.9%22W/) au bord de la *Levee 28 Interceptor Canal* que nous comptions prendre plus tôt.
 
-![Notre point de départ](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/bigparcking-600x363.jpg)
+![Notre point de départ](https://tcrouzet.com/images_tc/2018/12/bigparcking-600x363.jpg)
 
 Nous voilà lancés vers le nord. Très vite nous repérons un chemin qui s’engage dans la Big Cypress Preserve. Après avoir été bloqués par une étendue d’eau peu engageante, nous trouvons un passage qui s’enfonce dans le sous-bois. Nous pénétrons dans une espèce de jungle qui frétille d’insectes, parfois de bruits plus impressionnants, mais non identifiés.
 
-![Dans Big Cypress](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/inbigcypress-600x450.jpg)
+![Dans Big Cypress](https://tcrouzet.com/images_tc/2018/12/inbigcypress-600x450.jpg)
 
 La lumière est sublime, les feuillages nous éclaboussent de leur vitalité, par moment le ciel craquelé de bleu se révèle. Nous roulons à petite vitesse, impossible de faire autrement, tant le sol est spongieux, ou sableux, couvert de branches et de feuilles de [palmettos](https://fr.wikipedia.org/wiki/Sabal_palmetto) nain, arrachées par des [ours noirs](https://fr.wikipedia.org/wiki/Ours_noir_de_Floride) qui se gavent des baies des palmettos (mais nous ne les voyons pas, seulement leurs excréments rouges fluo). Parfois nous croisons d’autres chemins, tracés par des 4x4. Sans GPS, nous serions perdus.
 
 Je ne pense plus, j’observe, je renifle. Je scrute une flaque, cherche un passage sur le côté, ne le trouve pas, avance dans l’eau, concentré, mais avec le sourire, parce que cette aventure procure une jouissance primaire, que j’ai besoin d’éprouver à échéances régulières, sous peine d’avoir l’impression de vivre à côté de moi-même.
 
-![Florida cottonmouth](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/snake-600x450.jpg)
+![Florida cottonmouth](https://tcrouzet.com/images_tc/2018/12/snake-600x450.jpg)
 
 Nous tombons sur une cahute dans les bois. Un peu plus loin, alors que JP est en tête, un [mocassin d'eau](https://fr.wikipedia.org/wiki/Mocassin_d'eau) se dresse à moins d’un mètre de lui. Nous faisons un écart. JP retourne photographier ce serpent dont la morsure peut vous bousiller un membre. Nous commençons à flipper, surtout que nous avons du mal à retrouver la *levee*. Cette fois, JP roule sur une couleuvre noire, qui en suite se trémousse sous mes roues. Impossible de lever les jambes, puisque nos pieds sont rivetés à nos pédales.
 
-![La levee blanche](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/whitelevee-600x450.jpg)
+![La levee blanche](https://tcrouzet.com/images_tc/2018/12/whitelevee-600x450.jpg)
 
 Nous retrouvons la lumière éblouissante de la *levee*, au sol blanc neige. Nous roulons sur des chemins dont la topographie nous est familière. Nous entrevoyons des possibilités que nous ne faisons qu’amorcer pour nous assurer qu’elles sont envisageables. Nous nous laissons séduire par une *levee* qui épouse un canal sinueux. Des champs d’un côté, avec des buffles noirs, de l’autre l’eau du canal où plongent à notre passage des alligators par dizaines. Des oiseaux s’envolent quand nous approchons, des blancs, des gris, des bruns. Nous avons quitté notre monde postindustriel, nous sommes ailleurs, à un endroit où chaque bouffée d’air est plus savoureuse.
 
 Nous éprouvons un puissant sentiment de camaraderie, celle des soldats conscients d’avoir affronté des dangers et d’avoir survécu ensemble. Nous n’avons qu’une envie, revenir, emprunter tous les chemins, tracer des courbes inédites à la surface du monde et de nos vies.
 
-![Notes pour Big Cypress](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/big-509x450.png)
+![Notes pour Big Cypress](https://tcrouzet.com/images_tc/2018/12/big-509x450.png)
 
 ### La leçon de Ralph Waldo Emerson
 

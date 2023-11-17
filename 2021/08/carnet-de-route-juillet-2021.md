@@ -8,47 +8,47 @@
 
 ### Lundi 5, Balaruc
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0583.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2021/08/IMG_0583.jpeg)
 
 ### Mardi 6, Balaruc
 
 Je suis si concentré sur *One Minute* qu’aucune autre pensée ne me traverse. Ce journal se dessèche. Parfois je me demande si je ne devrais pas y intégrer mes voyages à vélo, qui ne sont que son extension. Faire comme je l’ai fait il y a déjà six ans avec le blog, éviter de publier des articles, écrire d’un côté des textes longs, de l’autre le journal. Mais je vois une vertu dans l’article, il pousse à une sorte de finalité, de complétude en soi, qui dans le carnet n’est pas nécessaire puisqu’il ne s’agit que d’un flot de la naissance à la mort, et qui n’a ni besoin d’introduction ni de conclusion.
 
-![Ciel d'orage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0589.jpeg)
+![Ciel d'orage](https://tcrouzet.com/images_tc/2021/08/IMG_0589.jpeg)
 
 ### Mercredi 7, Montpellier
 
-![Jardin des plantes, Montpellier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0592.jpeg)
+![Jardin des plantes, Montpellier](https://tcrouzet.com/images_tc/2021/08/IMG_0592.jpeg)
 
 ### Jeudi 8, Sète
 
-![Pointe Courte](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0595.jpeg)
+![Pointe Courte](https://tcrouzet.com/images_tc/2021/08/IMG_0595.jpeg)
 
-![Pointe Courte](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0598.jpeg)
+![Pointe Courte](https://tcrouzet.com/images_tc/2021/08/IMG_0598.jpeg)
 
-![Saint-Clair](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0612.jpeg)
+![Saint-Clair](https://tcrouzet.com/images_tc/2021/08/IMG_0612.jpeg)
 
-![Saint-Clair](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0623.jpeg)
+![Saint-Clair](https://tcrouzet.com/images_tc/2021/08/IMG_0623.jpeg)
 
 ### Vendredi 9, Saint-Guilhem-le-Désert
 
-![Saint-Guilhem-le-Désert](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0628.jpeg)
+![Saint-Guilhem-le-Désert](https://tcrouzet.com/images_tc/2021/08/IMG_0628.jpeg)
 
-![Saint-Guilhem-le-Désert](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0633.jpeg)
+![Saint-Guilhem-le-Désert](https://tcrouzet.com/images_tc/2021/08/IMG_0633.jpeg)
 
-![Saint-Guilhem-le-Désert](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0637.jpeg)
+![Saint-Guilhem-le-Désert](https://tcrouzet.com/images_tc/2021/08/IMG_0637.jpeg)
 
-![Saint-Guilhem-le-Désert](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0648.jpeg)
+![Saint-Guilhem-le-Désert](https://tcrouzet.com/images_tc/2021/08/IMG_0648.jpeg)
 
 ### Samedi 10, Balaruc
 
 Reprise du travail après trois jours à jouer les touristes autour de chez moi avec les amis. Tout lâcher, alléger la vie, rajeunir avec les jeunes, toucher du doigt la frivolité bienfaitrice.
 
-![La maison par Patrick en hélico](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0660-1.jpeg)
+![La maison par Patrick en hélico](https://tcrouzet.com/images_tc/2021/08/IMG_0660-1.jpeg)
 
-![Premier test](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0666.jpeg)
+![Premier test](https://tcrouzet.com/images_tc/2021/08/IMG_0666.jpeg)
 
-![Premier test](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0673.jpeg)
+![Premier test](https://tcrouzet.com/images_tc/2021/08/IMG_0673.jpeg)
 
 ### Dimanche 11, Balaruc
 
@@ -120,7 +120,7 @@ Voilà peut-être pourquoi il y a autant de haine sur Facebook et autant de narc
 
 Je suis un être difficile qui ne se plaît qu’en compagnie d’autres difficultés, parce qu’elles mettent l’imagination en branle et provoquent des émotions puissantes.
 
-![Ciel d'orage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_1285.jpeg)
+![Ciel d'orage](https://tcrouzet.com/images_tc/2021/08/IMG_1285.jpeg)
 
 
 

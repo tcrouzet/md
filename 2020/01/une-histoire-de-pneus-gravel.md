@@ -8,7 +8,7 @@ J’ai commencé ma vie de gravelliste avec les [Specialized Sawtooth 2Bliss Rea
 
 Aux US, dans mon coin et au-delà jusqu’à la Dirty Kanza, beaucoup de gravellistes juraient par les [WTB Resolute](https://www.wtb.com/products/resolute) (42 mm, 460 g, [ratio route/piste/single : 20/50/30](https://www.bikeradar.com/advice/buyers-guides/best-gravel-tyres/)). Je les ai donc montés sur mes [Roval C38](https://www.specialized.com/NI/en/roval-c-38-disc-wheelset/p/159158?color=239326-159158), sans le moindre souci, d’autant que je n’avais pas de compresseur et que je les ai fait claquer à la pompe. Je me suis dit que ceux qui avec avaient des difficultés n’avaient jamais monté de pneus tubeless VTT. Une fois gonflés, ces pneus mesuraient presque 43 mm, j’étais à la limite de l’acceptable pour mon Diverge (et c’est ce que je recherchais, monter le plus large possible pour maximiser le confort). Je voulais aussi des pneus à leur aise sur tous les terrains.
 
-![WTB Resolute](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8485.jpeg)
+![WTB Resolute](https://tcrouzet.com/images_tc/2020/01/IMG_8485.jpeg)
 
 J’ai immédiatement noté que le rendement était moindre sur route (davantage de crampons, plus larges) tout en restant très bons sur terre avec un confort bien supérieur (en plus d’offrir une meilleure assise, ces pneus étaient plus souples). Mais pas de chance, j’ai crevé dès la première sortie, ramassant une vis à placo à l’arrière. Je crois que j’aurais crevé avec n’importe quel pneu (d’autant que comme un imbécile j’ai retiré la vis avant de rentrer chez moi). J’ai réparé avec une rustine et remonté le pneu, qui ne m’a plus trahi sur près de 3 000 km.
 
@@ -22,7 +22,7 @@ J’ai commencé par douter de mon compresseur, je suis allé chez un copain, ce
 
 J’ai lu qu’il y avait parfois des problèmes sur certains Rambler, j’aurais dû être plus vigilant. Autre surprise, le seul pneu monté loin de mesurer 40 mm avoisinait les 37 mm. Je me suis senti floué. Je les ai démontés, nettoyés et renvoyés (ProbikeShop ne m’a fait aucune difficulté — ils seraient bien cons vu le pognon que leur laisse — bon, j’ai pas encore vu l’argent réapparaître sur mon compte).
 
-![Diverge avec Pathfinder](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/P1100828.jpeg)
+![Diverge avec Pathfinder](https://tcrouzet.com/images_tc/2020/01/P1100828.jpeg)
 
 Pressé de reprendre la route, j’ai finalement décidé de monter des [Specialized Pathfinder](https://www.specialized.com/fr/fr/pathfinder-pro-2bliss-ready/p/157870?color=237517-157870) en 42 mm/540 g parce qu’ils étaient disponibles chez [AllBikes 7](https://www.allbikes7.com/) et que pas mal de copains gravellistes roulent avec (ratio route/piste/single : 50/50/0 estimé). Avec leur bande de roulement, je savais que dans le gras ils ne seraient pas à leur affaire, mais qu’en revanche qu’ils fileraient sur l’asphalte. Je ne me suis pas trompé. Je n'avais juste pas prévu que bien que moins larges que les Resolute (41 mm mesurés, ils seraient en revanche plus hauts, frôlant mon cadre à 5 mm environ).
 

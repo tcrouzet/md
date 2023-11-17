@@ -26,32 +26,32 @@ On part sur un périple en cinq jours. Voici un programme que nous pourrions sui
 
 Pour vous préparer, voici quelques images prises lors de mes reconnaissances.
 
-![Vue sur Sète au départ](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/P1100914.jpeg)
+![Vue sur Sète au départ](https://tcrouzet.com/images_tc/2020/03/P1100914.jpeg)
 
-![Mer et garrigue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9684.jpeg)
+![Mer et garrigue](https://tcrouzet.com/images_tc/2020/03/IMG_9684.jpeg)
 
-![Chemin typique](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9657.jpeg)
+![Chemin typique](https://tcrouzet.com/images_tc/2020/03/IMG_9657.jpeg)
 
-![Mireval](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_8545.jpeg)
+![Mireval](https://tcrouzet.com/images_tc/2020/03/IMG_8545.jpeg)
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_8572.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2020/03/IMG_8572.jpeg)
 
-![Mauguio](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_8630.jpeg)
+![Mauguio](https://tcrouzet.com/images_tc/2020/03/IMG_8630.jpeg)
 
-![Saussines](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9581-1.jpeg)
+![Saussines](https://tcrouzet.com/images_tc/2020/03/IMG_9581-1.jpeg)
 
-![Pic Saint Loup](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9600-1.jpeg)
+![Pic Saint Loup](https://tcrouzet.com/images_tc/2020/03/IMG_9600-1.jpeg)
 
-![Vacquières](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9626-1.jpeg)
+![Vacquières](https://tcrouzet.com/images_tc/2020/03/IMG_9626-1.jpeg)
 
-![Vendres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9411-1.jpeg)
+![Vendres](https://tcrouzet.com/images_tc/2020/03/IMG_9411-1.jpeg)
 
-![Vendres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9406-1.jpeg)
+![Vendres](https://tcrouzet.com/images_tc/2020/03/IMG_9406-1.jpeg)
 
-![Portiragnes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9379-1.jpeg)
+![Portiragnes](https://tcrouzet.com/images_tc/2020/03/IMG_9379-1.jpeg)
 
-![Canal du Midi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9567-1.jpeg)
+![Canal du Midi](https://tcrouzet.com/images_tc/2020/03/IMG_9567-1.jpeg)
 
-![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9345-1.jpeg)
+![Marseillan](https://tcrouzet.com/images_tc/2020/03/IMG_9345-1.jpeg)
 
 Tags: 727, Born to Bike, une

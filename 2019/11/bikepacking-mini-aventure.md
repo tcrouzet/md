@@ -4,11 +4,11 @@ J’aime partir, suivre une trace, m’éloigner, ne plus trop savoir où je sui
 
 Aujourd’hui, d’après les prévisions météo, il doit pleuvoir, mais pour le moment le ciel est encore dégagé au-dessus de [l’étang de Thau](https://tcrouzet.com/2019/11/17/gravel-le-tour-de-letang/). Alors pédaler ou pas ? Je consulte [Ventusky](https://www.ventusky.com/), mon appli météo favorite, et découvre que si chez moi un orage risque de frapper à tout moment, la situation devrait rester favorable une bonne partie de la journée à une trentaine de kilomètres à l’ouest, de l’autre côté de l’étang en direction d’Agde et au-delà.
 
-![Pas de pluie à l'ouest](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7525.jpeg)
+![Pas de pluie à l'ouest](https://tcrouzet.com/images_tc/2019/11/IMG_7525.jpeg)
 
 J’appelle Philippe : « On tente par là-bas ? J’ai une trace. » Je l’ai dessinée il y a quelques mois, puis les vacances sont arrivées, puis [je me suis fracturé le col du fémur](https://tcrouzet.com/2019/08/28/un-auteur-se-fracture-le-femur-pour-faire-parler-de-lui/), puis je l’ai oubliée. C’est une boucle d’une bonne cinquantaine de kilomètres interconnectant [des pistes labélisées FFC](https://sitesvtt.ffc.fr/sites/herault-canaldumidi-mediterranee/), d’autres découvertes sur [VTTrack](http://www.vttrack.fr/), d’autres repérées par images satellites.
 
-![Boucle agatoise](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/agatoise.png)
+![Boucle agatoise](https://tcrouzet.com/images_tc/2019/11/agatoise.png)
 
 Philippe trépigne. Comme il n’a pas fait de sport depuis trois semaines suite à une petite intervention chirurgicale, il n’a pas l’intention de laisser passer cette chance, d’autant que les jours à venir s’annoncent maussades. « Viens me chercher », me dit-il. Je m’habille aussitôt, charge mon VTT dans mon antique Kangou, fonce chez lui et nous voilà partis.
 
@@ -18,19 +18,19 @@ Aussi bien notre périple sera de courte durée, mais nous nous élançons en di
 
 Après la traversée de Florensac, un village labyrinthique à l’empattement médiéval, mais sans le moindre charme, nous repiquons vers le sud à travers les vignes rougeoyantes. Mon compteur indique 14°. Il est temps d’enlever une couche, puis de poursuivre dans un paysage vallonné, plus champêtre que par nos garrigues. Le front nuageux s’épaissit sans cesse, un ventre noir, surmonté d’une épaisse couche de crème chantilly. Nous grimaçons parce de là où nous venons et devons retourner, ça ne doit pas rigoler. Pour le moment, nous sommes au chaud, dans une bulle de douceur, dans la campagne, sans la moindre voiture en vue.
 
-![Le front nuageux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7443-1.jpeg)
+![Le front nuageux](https://tcrouzet.com/images_tc/2019/11/IMG_7443-1.jpeg)
 
 « Je suis perdu », me dit Philippe. Je ne me repère guère mieux que lui. Je n’ai pas étudié la trace avant de la charger dans mon GPS. Nous nous contentons de la suivre, comme si nous lisions un roman captivant, à l'issue incertaine. Nous avons la sensation d’être ailleurs, dans un pays lointain. Décaler de trente kilomètres notre point de départ a bouleversé nos repères, a changé notre dynamique. Nous ne sommes plus en train de faire du sport, mais d’explorer, de voyager, de nous gorger d’images nouvelles.
 
-![L'Hérault](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7450-1.jpeg)
+![L'Hérault](https://tcrouzet.com/images_tc/2019/11/IMG_7450-1.jpeg)
 
-![Vélo boueux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/WHATSAPP-IMAGE-2019-11-22-AT-08.09.45-1.jpeg)
+![Vélo boueux](https://tcrouzet.com/images_tc/2019/11/WHATSAPP-IMAGE-2019-11-22-AT-08.09.45-1.jpeg)
 
-![Sur le pont](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7456-1.jpeg)
+![Sur le pont](https://tcrouzet.com/images_tc/2019/11/IMG_7456-1.jpeg)
 
-![L'Hérault](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7468-1.jpeg)
+![L'Hérault](https://tcrouzet.com/images_tc/2019/11/IMG_7468-1.jpeg)
 
-![L'Hérault](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7471-1.jpeg)
+![L'Hérault](https://tcrouzet.com/images_tc/2019/11/IMG_7471-1.jpeg)
 
 Nous atteignons les berges de l’Hérault, que nous suivons sur une digue avant d’atteindre un magnifique pont métallique, peint d’un vert éclatant, à l’entrée de Baissan. L’automne se donne en spectacle. Il pleut des feuilles ambre vers la surface émeraude de l’eau. Nous entrons dans le village, d’un charme discrètement surprenant. Nous avisons une boulangerie où nous achetons sandwiches et croissants magnifiques, que nous dégustons sur un banc au soleil. Nous n’en revenons pas de notre chance.
 
@@ -38,29 +38,29 @@ Je prends conscience que je suis dans le même état d’esprit qu’en bikepack
 
 Nous repartons vers le sud-ouest. Dépassons des domaines opulents, un manoir aux toits d’ardoises, un parc arboré, puis enfilons une allée de platanes vestige d’une ancienne entrée royale. Par un gué, nous franchissons le ruisseau du Libron, en sous-bois, avec des jeux de lumière sur l’eau, une douceur printanière, une végétation ample révélant des frétillements mystérieux.
 
-![Le gué](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7478-1.jpeg)
+![Le gué](https://tcrouzet.com/images_tc/2019/11/IMG_7478-1.jpeg)
 
-![Vestige](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7486-1.jpeg)
+![Vestige](https://tcrouzet.com/images_tc/2019/11/IMG_7486-1.jpeg)
 
-![La menace](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7491-1.jpeg)
+![La menace](https://tcrouzet.com/images_tc/2019/11/IMG_7491-1.jpeg)
 
 Revenus en enfance, nous roulons dans l’eau pour nettoyer nos vélos chargés de boue. La trace nous a fait glisser dans un autre monde par un passage secret. Toujours plus loin de notre point de départ, nous passons sous la voie ferrée Sète-Béziers, chemin inondé, nos pédales frôlent l’eau jaunâtre, puis, après une dernière boucle vers l’ouest, nous rejoignons le canal du Midi, repiquant vers l’est, droit vers le front nuageux. Un agréable sentier nous amène aux monumentales écluses sur le Libron, une intersection entre deux cours d’eau, un enchevêtrement de poulies et de chaînes, avec un arrière-plan de platanes rouges.
 
-![Le canal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7498-1.jpeg)
+![Le canal](https://tcrouzet.com/images_tc/2019/11/IMG_7498-1.jpeg)
 
-![L'écluse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7495-1.jpeg)
+![L'écluse](https://tcrouzet.com/images_tc/2019/11/IMG_7495-1.jpeg)
 
-![L'écluse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7503-1.jpeg)
+![L'écluse](https://tcrouzet.com/images_tc/2019/11/IMG_7503-1.jpeg)
 
 Nous avons cassé notre routine de cycliste, mais aussi de vie. Nous avons laissé dans une simple journée de la place pour un voyage. Nous sous sommes autorisés une parenthèse loin de nos habitudes, peut-être contrant une tendance à l’enferment qui se révèle quand on analyse les distances auxquelles nous autorisons nos enfants à s’éloigner de nos domiciles.
 
-![Terrains de jeu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/playgraphicDM1406_736x800-2.jpg)
+![Terrains de jeu](https://tcrouzet.com/images_tc/2019/11/playgraphicDM1406_736x800-2.jpg)
 
 [Une étude](https://www.dailymail.co.uk/news/article-462091/How-children-lost-right-roam-generations.html) montre qu’ils avaient le droit de parcourir seuls 10 km en 1919, plus que 2 km en 1950, moins de 1 km en 1979, plus que 250 m aujourd’hui (au fait de cette étude, j’ai toujours laissé les miens explorer). Sans nous en rendre compte, nous avons l’imité nos possibilités (et même nous autres cyclistes, vite pris par la routine). Alors que nous quittons le canal du Midi pour rejoindre le bord de mer et les dunes sauvages de La Tamarissière, nous prenons conscience qu’autant nous sommes prêts à prendre un avion pour un oui ou un rien, autant nous avons du mal à envisager notre propre région au-delà du bout de notre nez.
 
-![Le front vient de la mer](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7518-1.jpeg)
+![Le front vient de la mer](https://tcrouzet.com/images_tc/2019/11/IMG_7518-1.jpeg)
 
-![De pire en pire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7521-1.jpeg)
+![De pire en pire](https://tcrouzet.com/images_tc/2019/11/IMG_7521-1.jpeg)
 
 Nous retrouvons l’Hérault au Grau d’Agde, le remontons vers Agde et son église noire, toujours sous une lumière éblouissante, mais vers le mont Saint-Loup, les nuages s’accumulent. Nous accélérons quand nous retrouvons le sentier le long du canal du Midi, puis les bords de l’étang de Thau. Les premières gouttes nous touchent quand nous atteignons la Kangou. Nous ne sommes pas à l’abri que des seaux d’eau nous tombent sur la tête.
 

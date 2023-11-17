@@ -10,7 +10,7 @@ Pour commencer, je manque d’expérience, je ne sais pas de quoi mon corps est 
 
 Passer du temps à étudier le tracé d’une épreuve, c’est me préparer mentalement, essayer de me fixer un objectif raisonnable, auquel je ne chercherai pas à coller avec obstination, mais qui me permettra de ne pas m’enflammer le premier jour pour abandonner le second.
 
-![Sunset (photo chilhoweeoutdoors.com)](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/04/sunset-600x450.jpg)
+![Sunset (photo chilhoweeoutdoors.com)](https://tcrouzet.com/images_tc/2019/04/sunset-600x450.jpg)
 
 ### Mesurer sa force
 
@@ -24,21 +24,21 @@ Lors de [ma seconde HuRaCaN](https://tcrouzet.com/2019/03/15/dune-huracan-a-laut
 
 Mais en montagne, la distance n’est qu’un paramètre accessoire. Si je tente d’effectuer le raid en 6 jours, je devrais escalader 2 500 m/jour, ce qui me paraît difficile en VTT (tout est relatif, bien sûr). Mieux vaut donc que je vise 7 jours et 2 150 m/jour ce qui est déjà copieux, tout en sachant que s’il me faut un jour de plus ce ne sera pas grave. Ma moyenne ne devra pas descendre sous 10 km/h. Quand je regarde les résultats 2018, je découvre que plus de 50 % des participants ont abandonné, ce qui n'est pas pour me rassurer.
 
-![The Mountain sur RWGPS](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/04/mt01-600x294.jpg)
+![The Mountain sur RWGPS](https://tcrouzet.com/images_tc/2019/04/mt01-600x294.jpg)
 
 ### Étudier la carte
 
 Sur [RWGPS](https://ridewithgps.com), les organisateurs proposent de belles cartes augmentées pour [The Mountain 420](https://ridewithgps.com/routes/29253694) et pour [The Vista 300](https://ridewithgps.com/routes/29412943) (la version raccourcie). C’est très beau, mais sans m’abonner à RWGPS, je ne peux pas éditer ces cartes et les enrichir. Je les exporte donc en GPX pour pouvoir les utiliser ailleurs (faute de payer, je ne peux pas exporter les points d’intérêt).
 
-![La trace sur Komoot](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/Moutain420-717x1200.jpg)
+![La trace sur Komoot](https://tcrouzet.com/images_tc/2019/03/Moutain420-717x1200.jpg)
 
 Je commence alors par créer [une nouvelle carte sous Google Map](https://drive.google.com/open?id=1V8EkV5BwecGdr38y3U8-Z3gE2FTdqpAE&usp=sharing) où j’importe les traces, et les variantes éventuelles, sur laquelle je placerai mes points d’intérêt. J’importe aussi sur [Komoot](https://www.komoot.com/tour/60856634) et parfois dans le logiciel Garmin BaseCamp. Pourquoi me compliquer la vie ? Parce chaque service propose ses avantages et ses inconvénients. L’outil idéal n’existe pas encore.
 
-![Calcul du dénivelé sur Komoot](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/04/komootstat-600x372.jpg)
+![Calcul du dénivelé sur Komoot](https://tcrouzet.com/images_tc/2019/04/komootstat-600x372.jpg)
 
 Par exemple, pour l’estimation du dénivelé, j’ai appris à ne pas faire confiance à BaseCamp (21 366 m) ou à GoogleMap (11 746 m), les deux autres services proposent des estimations proches : 13 790 m pour Komoot, 14 760 m pour RWGPS (ce dernier étant d’après mon expérience le plus précis, en tout cas en phase avec les mesures de mon GPS). Malheureusement, sur RWGPS, il est difficile de sélectionner un tronçon tout en découvrant en temps réel son dénivelé cumulé. C’est plus immédiat sur Komoot.
 
-![Début de carte enrichie sur Google Map](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/04/goo01-600x320.jpg)
+![Début de carte enrichie sur Google Map](https://tcrouzet.com/images_tc/2019/04/goo01-600x320.jpg)
 
 De quoi devenir dingue. Il faut faire des règles de trois entre ce qu’indiquent les organisateurs et ce qu’affichent les différents services. Je survis. Sur Komoot, je repère mes étapes situées tous les 2 150 m de dénivelé (tous les 1 957 m après règle de trois) et les reportent sur mon Google Map ([j’utilise une bibliothèque d’icônes](https://mapicons.mapsmarker.com/)).
 
@@ -58,7 +58,7 @@ Voici mes 7 étapes idéales avec 2 150d+/jour :
 
 7. 86 km.
 
-![Carte enrichie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/04/goo02-600x320.jpg)
+![Carte enrichie](https://tcrouzet.com/images_tc/2019/04/goo02-600x320.jpg)
 
 En suite, sur Google Map, j’ajoute mes points d’intérêt. En général, il me suffit de zoomer sur la carte pour retrouver les campings, restaurants, épiceries… Je reporte les points manquants repérés par les organisateurs et ceux suggérés dans le forum. Peu à peu, ma carte s’enrichit.
 

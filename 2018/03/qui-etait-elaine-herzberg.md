@@ -4,23 +4,23 @@
 
 Apache Junction chevauche les comtés de Pinal et de Maricopa, au cœur du désert de Sonora, dans l'agglomération de Phoenix en Arizona. Le lycée se trouve à 44 km de l’endroit où le robot a fauché Elaine.
 
-![Photo de profil facebook d'Elaine](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/elainefb.jpg)
+![Photo de profil facebook d'Elaine](https://tcrouzet.com/images_tc/2018/03/elainefb.jpg)
 
 Quand Elaine a été arrêtée en 2014 et 2015 pour possession et usage de drogue, notamment de marijuana, et pour violation de probation, c’était toujours dans le comté de Maricopa. Elle a été emprisonnée, numéro de matricule [003359237](https://arrestfacts.com/Elaine-Herzberg-4s4=6), dans la prison du compté de Pinal, une cinquantaine de kilomètres au sud du lieu de l’accident. Elaine semble avoir passé sa vie dans un périmètre restreint, ce qui est assez logique pour quelqu’un qui se déplaçait à vélo.
 
-![Elaine Herzberg](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/elain.jpg)
+![Elaine Herzberg](https://tcrouzet.com/images_tc/2018/03/elain.jpg)
 
 Ces informations sont à vérifier. Il existe deux fiches de détenu pour Elaine Herzberg, avec la même photo, mais ses mensurations varient, [1,57 et 73 kg dans la première](https://arrestfacts.com/Elaine-Herzberg-1s4=6), [1,60 m et 68 kg dans la seconde](https://arrestfacts.com/Elaine-Herzberg-4s4=6), ce qui dessine deux femmes assez différentes.
 
-![640 North Mille Avenue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/accident.jpg)
+![640 North Mille Avenue](https://tcrouzet.com/images_tc/2018/03/accident.jpg)
 
-![Un squat?](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/terrainvague.jpg)
+![Un squat?](https://tcrouzet.com/images_tc/2018/03/terrainvague.jpg)
 
 Au moment du drame, Elaine traversait North Mill Avenue d’ouest en est, peut être pour atteindre une des bicoques situées dans le terrain vague qui borde l’avenue, un terrain situé au flanc de Red Moutain Freeway, donc bruyant, pas très attirant, et où on peut imaginer que vivait une SDF parmi d'autres SDF.
 
-![Lieu du drame](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/drame1.jpg)
+![Lieu du drame](https://tcrouzet.com/images_tc/2018/03/drame1.jpg)
 
-![Vue aérienne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/drame2.jpg)
+![Vue aérienne](https://tcrouzet.com/images_tc/2018/03/drame2.jpg)
 
 Depuis la freeway, on peut voir le terrain vague et notamment un chemin qui rejoint North Mill Avenue au lieu de l'accident. Elaine prenait peut-être souvent ce chemin à vélo.
 

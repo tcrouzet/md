@@ -6,7 +6,7 @@ Selon Latour, nous n’avons jamais été moderne, en ce sens que « moderniser
 
 Pour autant, le retour à la terre, au local, à l’isolationnisme, au nationalisme, à l’autarcie, au communautarisme n’a pas davantage de sens que la modernisation effrénée, parce que Gaia ne peut être niée, que son influence s’étend à tous, dans les campagnes comme dans les villes. Il est impossible de vivre tranquillement chez soi en ignorant le restant du monde, ne serait-ce que parce que Gaia engendre des migrations de plus en plus vastes. Gaia est locale et globale en même temps.
 
-![Les attracteurs selon Latour](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/latour.jpg)
+![Les attracteurs selon Latour](https://tcrouzet.com/images_tc/2022/11/latour.jpg)
 
 Si nous voulons survivre en tant que civilisation, voire en tant qu’espèce, il nous faut donc simultanément quitter notre piédestal moderniste et notre espoir de nous réfugier dans un terroir protégé. Mais *Où atterrir ?* se demande Latour dans le livre éponyme. Il remarque que quand la bourgeoisie a supplanté l’aristocratie, elle accusait celle-ci de ne pas être rationnelle (ce dont les aristocrates n’avaient pas conscience). Trois siècles plus tard, une nouvelle « classe » serait en train d’émerger qui accuserait des mêmes maux la bourgeoisie capitaliste adepte de la modernisation (ce dont les bourgeois n’ont manifestement pas conscience puisqu’ils persévèrent dans une direction qui nous envoie écologiquement dans le mur).
 

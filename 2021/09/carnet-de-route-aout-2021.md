@@ -48,23 +48,23 @@ Paris m’a toujours inspiré des pensées troubles. Je dois être sensible à u
 
 Où que je me trouve, j'aimerais ouvrir mon ordi et replonger dans la même narration. Aspirer la matière environnante pour l’injecter dans une cathédrale. Au contraire, je recommence à zéro. Je piétine toujours les mêmes pensées, non sans déplaisir, mais en sachant que je n’avance nulle part, sinon vers la mort.
 
-![Bastille](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1293.jpeg)
+![Bastille](https://tcrouzet.com/images_tc/2021/09/IMG_1293.jpeg)
 
-![Quai des Célestins](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1299.jpeg)
+![Quai des Célestins](https://tcrouzet.com/images_tc/2021/09/IMG_1299.jpeg)
 
 ### Mardi 3, Paris
 
 Tous les antivax ou presque se méfient des gouvernements, mais presque tous passent leur vie à se publiciser sur Facebook, une dictature planétaire qui n’a pour ambition que de faire d’eux des consommateurs.
 
-![Jardin des Plantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1316.jpeg)
+![Jardin des Plantes](https://tcrouzet.com/images_tc/2021/09/IMG_1316.jpeg)
 
-![Seine](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1320.jpeg)
+![Seine](https://tcrouzet.com/images_tc/2021/09/IMG_1320.jpeg)
 
 ### Mercredi 4, Paris
 
-![La Photographe](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1336.jpeg)
+![La Photographe](https://tcrouzet.com/images_tc/2021/09/IMG_1336.jpeg)
 
-![Quai](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1339.jpeg)
+![Quai](https://tcrouzet.com/images_tc/2021/09/IMG_1339.jpeg)
 
 ### Jeudi 5, TGV Sète
 
@@ -72,7 +72,7 @@ J’ai lu un article sur le panpsychisme, l’idée selon laquelle toute chose s
 
 Comme toujours une idée apparaît, séduisante, puis je l’oublie. Elle n’a une chance de devenir livre que si elle retoque à la porte assez souvent pour qu’elle devienne obsessionnelle.
 
-![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1361.jpeg)
+![Couchant](https://tcrouzet.com/images_tc/2021/09/IMG_1361.jpeg)
 
 ### Dimanche 8, Balaruc
 
@@ -94,7 +94,7 @@ Il y a dix ans, j’écrivais *J’ai débranché* et j’en reviens au même co
 
 Le dernier rapport du GIEC réveille les foules comme si nous ne savions pas déjà tout ça depuis vingt ans. J’assiste à une nouvelle campagne électorale, qui soulève l’espoir, mais n’entraînera aucun changement.
 
-![Baigneurs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1461.jpeg)
+![Baigneurs](https://tcrouzet.com/images_tc/2021/09/IMG_1461.jpeg)
 
 ### Mardi 10, Balaruc
 
@@ -150,13 +150,13 @@ Si un jour je reçois un prix littéraire prestigieux, je devrais en toute logiq
 
 Je ne suis pas revenu dans le Lot-et-Garonne depuis ma fracture du col du fémur. Impression de presque y être étranger. Deux arbres abattus. Le temps. Déjà un affaiblissement de la mémoire. Une chaleur insupportable.
 
-![Maillardou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1487.jpeg)
+![Maillardou](https://tcrouzet.com/images_tc/2021/09/IMG_1487.jpeg)
 
 ### Dimanche 15, Maillardou
 
 Je pars tôt faire du vélo, tout de suite les mouches m’attaquent, des taons cherchent à me piquer. Je commence par rouler jusqu’au lieu de mon accident, un chemin anodin, un virage en léger dévers, puis je roule sans plaisir. Vue bouchée, atmosphère lourde, ciel terne, et dès que je plonge dans les bois, le nuage de mouches se reforme. Bientôt mon esprit vagabonde. Je repense à mon export en version statique du blog. Je me heurte à une difficulté imprévue : l’intégralité de mon carnet publié en ligne occupe 470 Mo avec les photos, mais les places de marché de NFT acceptent pas plus de 200 Mo pour les documents, et seulement 40 Mo pour la plus populaire. Cette nuit, j’ai eu l’idée de créer un PDF géant, sur lequel il faudrait zoomer pour lire mon blog, comme sur un microfilm. Ce matin, je découvre que la taille maximale d’un PDF est de 5 m sur 5 m (on peut même aller au-delà).
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1500.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/09/IMG_1500.jpeg)
 
 ### Lundi 16, Maillardou
 
@@ -166,7 +166,7 @@ Je crée mon tableau de 5mx5m, c’est assez bluffant. Mon ordi est à l’agoni
 
 Mon beau-père, ancien professeur de médecine, me reproche de trop faire l’éloge de Didier dans *Adapter pour Adopter*. Mais comment ne pas faire l’éloge d’une personne aussi positive, aussi altruiste, qui a contribué à sauver des millions de vies, sans pour autant en faire un business lucratif. Didier est un modèle.
 
-![Lune](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1504.jpeg)
+![Lune](https://tcrouzet.com/images_tc/2021/09/IMG_1504.jpeg)
 
 ### Mardi 17, Maillardou
 
@@ -176,13 +176,13 @@ J’envoie *Adapter pour Adopter* à l’imprimerie. J’aurais souffert sur ce 
 
 Repas de famille. Une pièce rapportée est spécialiste de sécurité informatique. Il analyse les attaques perpétrées dans le monde et tente de prévenir ses clients des risques encourus. En l’écoutant, je me suis dit que si j’avais ses connaissances j’écrirais un roman sur le piratage, crime qui rapporterait trois plus que le trafic de stupéfiants. Je suis spécialiste de quoi sinon de moi-même ? Qu’est-ce que mon expérience me pousse désormais à écrire ?
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1509.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/09/IMG_1509.jpeg)
 
 ### Mercredi 18, Maillardou
 
 La technique avale des journées. Problème de certificat SSL sur mon serveur, puis je crée les epub d’*Adapter pour Adopter*, non sans rencontrer des bugs dans mon générateur. En parallèle, je tente en vain de publier mon tableau géant. De son côté, Illustrator atteint les limites de l’espace mémoire de mon ordinateur. Heureusement, petite boucle VTT en fin de journée.
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1526.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/09/IMG_1526.jpeg)
 
 ### Jeudi 19, Maillardou
 
@@ -198,13 +198,13 @@ Si j’écrivais un tel roman, je me demanderais ce qui bloque l’évolution te
 
 ### Samedi 21, Balaruc
 
-![Brume](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1534.jpeg)
+![Brume](https://tcrouzet.com/images_tc/2021/09/IMG_1534.jpeg)
 
 ### Dimanche 22, Balaruc
 
 À la radio, un mec : « On a vécu un truc de dingue. On a compris que cette planète il fallait la protéger. Cette expérience nous a changés à tout jamais. » Il raconte un voyage dans l’extrême nord de la Sibérie, qui a dû coûter une blinde en empreinte carbone. On dirait Elon Musk qui découvre la magnificence de la Terre en volant en apesanteur. Les crétins malins. Dès votre arrière-cour la Terre est sublime pour peu que vous ouvriez les yeux.
 
-![Brume](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1542.jpeg)
+![Brume](https://tcrouzet.com/images_tc/2021/09/IMG_1542.jpeg)
 
 ### Mercredi 25, Balaruc
 

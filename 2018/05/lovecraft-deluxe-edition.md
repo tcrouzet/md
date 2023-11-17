@@ -2,7 +2,7 @@
 
 J’appartiens à la génération Lovecraft, nourrie au biberon par la prose du solitaire de Providence, qui finalement ne s’avère pas aussi solitaire qu’on le disait avant. En 1986, j’ai découvert le jeu de rôle [*L’Appel de Cthulhu*](https://fr.wikipedia.org/wiki/L%27Appel_de_Cthulhu_(jeu_de_r%C3%B4le)) grâce à [Jean Hugues Villacampa](http://k-libre.fr/klibre-ve/index.php?page=auteur&id=838), immédiatement j'ai commencé à écrire un énorme scénario, [*L’Affaire Deluze*](https://tcrouzet.com/deluze/), par la suite diffusé sous le manteau dans une célèbre boutique parisienne et devenu dans le milieu du jeu une sorte d’objet culte, dont beaucoup de joueurs ont entendu parler, peu d’entre eux pouvant y mettre la main dessus, certains exemplaires ayant été vendus aux enchères sur eBay. Aujourd’hui, trente ans plus tard, ce rêve de jeunesse, réécrit et remis en forme, s’apprête à être édité par [Les XII Singes](http://www.les12singes.com/), dans un packaging ultra luxueux, avec des cartes magnifiques de [Maxime Plasse](https://maximeplasse.deviantart.com/), une couverture de [Philippe Caza](https://fr.wikipedia.org/wiki/Caza_(dessinateur)), des illustrations de Christophe Swal, projet coordonné par Sébastien Sélerin et de Jérôme Barthas.<span id="more-49220"></span>
 
-![L'Affaire Deluze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/deluze-cover-600x799.jpg)
+![L'Affaire Deluze](https://tcrouzet.com/images_tc/2018/05/deluze-cover-600x799.jpg)
 
 Inutile de dire que je suis heureux. J’ai beau être habitué de publier des livres, il s’agit cette fois d’un objet particulier, cher à mon cœur et qui me reconnecte avec ma jeunesse et mes amis de jeunesse. C’est après tout mon premier livre !
 
@@ -12,7 +12,7 @@ Je laisse [la parole à Jean-Hugues Villacampa](https://www.facebook.com/Jean.Hu
 
 Que dire de plus ? [*L’Affaire Deluze*](https://tcrouzet.com/deluze/) est graphiquement magnifique, dans le plus pur esprit pulp. J’ai ajouté en introduction une longue novella qui raconte une histoire que pourrait vivre les aventuriers, une histoire aussi pour ceux qui ne jouent pas, mais aiment l’univers de Lovecraft et voudraient découvrir la campagne sans s’attabler pour environ 200 heures autour de quelques dès.
 
-![Financement participatif](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/pubh-600x271.jpg)
+![Financement participatif](https://tcrouzet.com/images_tc/2018/05/pubh-600x271.jpg)
 
 ### Pourquoi un financement participatif
 
@@ -46,7 +46,7 @@ Heureusement, [Les XII Singes](http://www.les12singes.com/) ont trouvé une para
 
 [*L’Affaire Deluze*](https://tcrouzet.com/deluze/) sera donc publiée en version [Cthulhu Hack](http://www.legrog.org/jeux/cthulhu-hack). Nous espérons que Sans-detour, l'éditeur français de *L'Appel de Cthulhu*, acceptera que nous diffusions gratuitement un PDF qui permettra de jouer la campagne selon les règles de [*L’Appel de Cthulhu*](https://fr.wikipedia.org/wiki/L%27Appel_de_Cthulhu_(jeu_de_r%C3%B4le)). Je vous ai tout dit. Pour en savoir plus sur [*L’Affaire Deluze*](https://tcrouzet.com/deluze/), lisez [un long interview](https://tcrouzet.com/deluze/) que j’ai accordé à *Jeux de Rôle Magazine*.
 
-![Aides de jeu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/deluze1-600x843.jpg)
+![Aides de jeu](https://tcrouzet.com/images_tc/2018/05/deluze1-600x843.jpg)
 
 
 

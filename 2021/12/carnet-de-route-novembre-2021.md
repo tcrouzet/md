@@ -10,13 +10,13 @@ Nous prenons la route pour le Lot-et-Garonne. Nous nous arrêtons pour déjeuner
 
 Après la route, un petit tour de vélo, sur les chemins humides aux couleurs automnales. Jambes lourdes qui ne se détendent que quand je rentre à la maison.
 
-![Lot-et-Garonne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3698.jpeg)
+![Lot-et-Garonne](https://tcrouzet.com/images_tc/2021/12/IMG_3698.jpeg)
 
-![Lot-et-Garonne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3704.jpeg)
+![Lot-et-Garonne](https://tcrouzet.com/images_tc/2021/12/IMG_3704.jpeg)
 
-![Lot-et-Garonne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3710.jpeg)
+![Lot-et-Garonne](https://tcrouzet.com/images_tc/2021/12/IMG_3710.jpeg)
 
-![Lot-et-Garonne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3711.jpeg)
+![Lot-et-Garonne](https://tcrouzet.com/images_tc/2021/12/IMG_3711.jpeg)
 
 ### Mardi 2, Maillardou
 
@@ -28,27 +28,27 @@ Je vois mon livre, une couverture sans titre, de l’herbe verte, le livre vert.
 
 ### Jeudi 4, Maillardou
 
-![Lot-et-Garonne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3726.jpeg)
+![Lot-et-Garonne](https://tcrouzet.com/images_tc/2021/12/IMG_3726.jpeg)
 
 ### Vendredi 5, Maillardou
 
-![Fumel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3744.jpeg)
+![Fumel](https://tcrouzet.com/images_tc/2021/12/IMG_3744.jpeg)
 
-![Le Lot](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3746.jpeg)
+![Le Lot](https://tcrouzet.com/images_tc/2021/12/IMG_3746.jpeg)
 
-![Le Lot](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3750.jpeg)
+![Le Lot](https://tcrouzet.com/images_tc/2021/12/IMG_3750.jpeg)
 
-![Lot-et-Garonne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3758.jpeg)
+![Lot-et-Garonne](https://tcrouzet.com/images_tc/2021/12/IMG_3758.jpeg)
 
-![Lot-et-Garonne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3760.jpeg)
+![Lot-et-Garonne](https://tcrouzet.com/images_tc/2021/12/IMG_3760.jpeg)
 
 ### Samedi 6, Balaruc
 
 Rilke compare les tableaux du trecento et du quattrocento, sur les premiers les visages se détachent sur le fond doré alors que sur les seconds les paysages les réunissent à la totalité. Il creuse cette idée, faisant de nous des habitants d’îles isolées. Dans mon roman, mon personnage quitte la ville pour la campagne où il sera réuni au monde et à ses semblables.
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/ABD6497C-7DF5-454D-BFA8-9425FC6F53C7.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2021/12/ABD6497C-7DF5-454D-BFA8-9425FC6F53C7.jpeg)
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3771.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2021/12/IMG_3771.jpeg)
 
 ### Dimanche 7, Balaruc
 
@@ -58,11 +58,11 @@ Nous partons faire du vélo en bord de mer, mistral tempétueux dans le dos. Nou
 
 Trop pris par l’écriture, mais je pense à de nouvelles œuvres à vendre en NFT, des accumulations, envie de compiler mes photos publiées sur le blog année après année, dans l’idée qu’une image ne vaut que dans la continuité des autres.
 
-![Canal du Rhône à Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3773.jpeg)
+![Canal du Rhône à Sète](https://tcrouzet.com/images_tc/2021/12/IMG_3773.jpeg)
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3777.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2021/12/IMG_3777.jpeg)
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3785.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2021/12/IMG_3785.jpeg)
 
 ### Mardi 9, Balaruc
 
@@ -72,27 +72,27 @@ Dans mes carnets, je dis, mais jamais trop. Je reste sur le fil de l’art. Voil
 
 ### Jeudi 11, Balaruc
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3791.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2021/12/IMG_3791.jpeg)
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3797.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2021/12/IMG_3797.jpeg)
 
 ### Vendredi 12, Balaruc
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3809.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2021/12/IMG_3809.jpeg)
 
 ### Samedi 13, Balaruc
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3854.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2021/12/IMG_3854.jpeg)
 
 ### Dimanche 14, Balaruc
 
-![Chapelle Saint Nicolas](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3869.jpeg)
+![Chapelle Saint Nicolas](https://tcrouzet.com/images_tc/2021/12/IMG_3869.jpeg)
 
 ### Lundi 15, Balaruc
 
 Un copain m’appelle. Tu nous écris un roman pour 2023 ? Pourquoi pas.
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3890.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2021/12/IMG_3890.jpeg)
 
 ### Mercredi 17, Balaruc
 
@@ -102,19 +102,19 @@ Je me sens bien quand j’écris comme quand je voyage à vélo, alors quand j�
 
 Le temps passé sur un texte ne présume en rien de sa qualité, puisque le temps de l’écriture bénéficie de l’expérience accumulée jusque là et aussi d’un mystérieux concours de circonstances. Des livres inoubliables ont été écrits vite : *Sur la route* (3 semaines), *Orange mécanique* (3 semaines), *Le joueur* (26 jours), *Tandis que j'agonise* (6 semaines)…
 
-![Lune](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3938.jpeg)
+![Lune](https://tcrouzet.com/images_tc/2021/12/IMG_3938.jpeg)
 
 ### Jeudi 18, Balaruc
 
-![Cournon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3948.jpeg)
+![Cournon](https://tcrouzet.com/images_tc/2021/12/IMG_3948.jpeg)
 
-![Cournon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3960.jpeg)
+![Cournon](https://tcrouzet.com/images_tc/2021/12/IMG_3960.jpeg)
 
-![Vandémian](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3972.jpeg)
+![Vandémian](https://tcrouzet.com/images_tc/2021/12/IMG_3972.jpeg)
 
-![Vandémian](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3987.jpeg)
+![Vandémian](https://tcrouzet.com/images_tc/2021/12/IMG_3987.jpeg)
 
-![Villeveyrac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_3990.jpeg)
+![Villeveyrac](https://tcrouzet.com/images_tc/2021/12/IMG_3990.jpeg)
 
 ### Samedi 20, Balaruc
 
@@ -140,19 +140,19 @@ Je termine mon premier jet, bouclé en 26 jours, mais le roman n’est pas achev
 
 Par chez moi dans le Midi, les vignerons mettent le feu aux bordures pour les désherber. La pratique est interdite, mais jamais punie. Alors quand nous passons devant un départ de feu, à la frontière entre fruitiers, vignes et garrigues, nous comprenons qu’un imbécile a été débordé par les flammes et s’est fait la belle. Je recherche le numéro des pompiers sur mon portable. Je trouve la caserne de Sète et j’appelle. Presque le gars me raccroche au nez en me disant que ce n’est pas leur secteur. J’ai le plus grand mal à lui expliquer que je suis sur mon vélo et qu’il est mieux armé que moi pour gérer la situation. J’ai dû le tirer de sa sieste.
 
-![Villeveyrac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_4115.jpeg)
+![Villeveyrac](https://tcrouzet.com/images_tc/2021/12/IMG_4115.jpeg)
 
 ### Jeudi 25, Balaruc
 
-![Les Salins](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_4151.jpeg)
+![Les Salins](https://tcrouzet.com/images_tc/2021/12/IMG_4151.jpeg)
 
-![Lido](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_4159.jpeg)
+![Lido](https://tcrouzet.com/images_tc/2021/12/IMG_4159.jpeg)
 
-![Lido](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_4160.jpeg)
+![Lido](https://tcrouzet.com/images_tc/2021/12/IMG_4160.jpeg)
 
 ### Samedi 27, Balaruc
 
-![Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_4170.jpeg)
+![Pyrénées](https://tcrouzet.com/images_tc/2021/12/IMG_4170.jpeg)
 
 ### Lundi 29, Balaruc
 

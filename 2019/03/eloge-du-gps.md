@@ -18,17 +18,17 @@ La carte ne voit pas le chemin qui s’ouvre en hiver quand la végétation est 
 
 Par opposition, le GPS ne nous limite pas. Il autorise des circonvolutions interdites sur la carte, transformant chacun de nous en explorateur. Nous ne cartographions pas. Nous empruntons des traces pour en démontrer la possibilité. Nous sautons du macadam à la terre, de l’herbe à la caillasse. Nous retournons le territoire pour en découvrir les parcelles encore secrètes.
 
-![Superposition des traces sur VTTracks](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/vtttrack-1600x990.jpg)
+![Superposition des traces sur VTTracks](https://tcrouzet.com/images_tc/2019/03/vtttrack-1600x990.jpg)
 
 Autant les routes sont numérotées, mesurées, donc en quantité limitée, autant les traces sont infinies, inépuisables. Elles se superposent, s'empilent, se croisent et se tressent. Il suffit de jouer avec un site comme [VTTrack](http://www.vttrack.fr/) pour s'en convaincre. On zoome et ça foisonne, ça pullule, ça invite à rouler, à ajouter sa marque dans ce paysage imaginaire.
 
 La trace est une création collective. Dessiner la sienne implique de superposer celles des autres, de se fier à elles plutôt que seulement aux cartes ou aux images satellites. La plupart des sites de tracer n'ont pas pris en compte cette possibilité. Ils n'ont pas encore adapté la logique Photoshop au cyclisme. [Voilà pourquoi j'en suis réduit à utiliser Google Map.](https://tcrouzet.com/2019/03/21/randos-vtt-ou-autres-comment-creer-une-trace-gpx/)
 
-![Superposition sur Google Map](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/supergoogle-1600x1016.jpg)
+![Superposition sur Google Map](https://tcrouzet.com/images_tc/2019/03/supergoogle-1600x1016.jpg)
 
 En ce moment, je trace un voyage VTT entre Méditerranée et Atlantique en tentant de minimiser les routes. Pour cela, j'ai superposé toutes les traces trouvées qui chevauchent mon périple. Elles dessinent une nuée bleue sur la carte. Alors je les connecte, je les pirate, je les découpe, le les retourne, et peu à peu, profitant de l'expérience de centaines de cyclistes, je pose les grandes lignes d'une aventure.
 
-![Méditerranée - Atlantique](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/medatl-1600x740.jpg)
+![Méditerranée - Atlantique](https://tcrouzet.com/images_tc/2019/03/medatl-1600x740.jpg)
 
 Les organisateurs de courses ou de raids n’ont plus à flécher les itinéraires, ils n’ont plus à salir les arbres à coups de pinceau, ou le sol à jets de chaux vive. Le fléchage va avec la carte. Il ordonne de tourner à droite et gauche. La trace, elle, n’est qu’une possibilité, qu’une proposition, qui ne vaut que pour nous.
 

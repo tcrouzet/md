@@ -10,7 +10,7 @@ Voici comment je m’y suis pris pour ma première ébauche.
 
 3. Pour le bord de mer, je suis en territoire relativement connu, surtout entre Agde et Palavas. Sur cette partie les possibilités sont nombreuses, je me suis tenu assez près de la côte, bien que les meilleurs chemins VTT soient parfois un peu en retraits.
 
-![GTH 1.0 sur Komoot](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/gth-676x1200.png)
+![GTH 1.0 sur Komoot](https://tcrouzet.com/images_tc/2019/09/gth-676x1200.png)
 
 Cette première ébauche présente déjà des statistiques intéressantes avec 76 % de chemins et singles et seulement 16 % de routes, la plupart étant minuscules, le tout pour 550 km et 8 000 mètres de D+ ([stats Komoot](https://www.komoot.com/tour/94474341)). À titre de comparaison, le tour de Charente offre 65 % de chemins et singles, 30 % de routes, pour 667 km et 7 000 mètres de D+ (le dénivelé annoncé est de 10 500 mètres, donc bien supérieur à celui calculé par Komoot).
 
@@ -23,24 +23,24 @@ Tout d'abord comment j'ai créé et met à jour [la carte de France](https://dri
 1. Depuis le menu de [Google Map/Vos adresses](https://www.google.fr/maps), je choisis l'option Cartes. Je peux ouvrir une carte existante ou en créer une, option disponible en bas de la liste des cartes.
     
 
-![Gestionnaire de cartes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/gmap1.png)
+![Gestionnaire de cartes](https://tcrouzet.com/images_tc/2019/09/gmap1.png)
 
 2. Une fois une carte créée et nommée, je peux y créer des calques et dans ces calques je peux importer des traces au format GPX ou KMZ (l'option d'importation ne s'affiche que si le calque est vide).
     
 
-![Un calque vide](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/gmap2.png)
+![Un calque vide](https://tcrouzet.com/images_tc/2019/09/gmap2.png)
 
 3. Une fois une trace importée, je la fais glisser dans un calque où je stocke toutes mes traces (le nombre de calques est limité à dix). Cette méthode d'archivage me permet de superposer des centaines de traces, donc de voir apparaître des boucles nouvelles. Goggle Map est l'un des seuls services de cartographie offrant cette possibilité.
     
 
-![Superposition de traces](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/gmap3-1600x841.png)
+![Superposition de traces](https://tcrouzet.com/images_tc/2019/09/gmap3-1600x841.png)
 
 4. Chaque trace peut être colorée, illustrée, commentée (j'indique la source de la trace si je n'oublie pas).
 
 5. Quand j'ai besoin d'une trace ou de plusieurs pour créer de nouveaux parcours, je les exporte (menu trois points verticaux situé à droite du titre de la carte). On peut exporter la totalité de la carte ou un calque en particulier. Pour exporter un choix de traces, je les déplace dans un calque vide (j'ai toujours un calque tmp dans mes cartes). L'exportation s'effectue en KMZ.
     
 
-![Exportation en KMZ](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/gmap4.png)
+![Exportation en KMZ](https://tcrouzet.com/images_tc/2019/09/gmap4.png)
 
 6. Pour utiliser les traces exportées dans un logiciel ou un GPS qui ne gère pas le KMZ, je les convertis avec [GPS Visualizer](https://www.gpsvisualizer.com/profile_input), qui en prime ajoute les informations d'altitude.
 
@@ -53,7 +53,7 @@ Voici maintenant comment je concocte une trace type GTH.
 3. Sur Komoot, [je bouche les trous entre les traces](https://tcrouzet.com/2019/09/11/vtt-gravel-bikepacking-que-vaut-le-routage-automatique/) et exporte les fichiers en GPX, avant de les importer dans Google Map (en orange).
     
 
-![Réseau de traces](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/gmap5.png)
+![Réseau de traces](https://tcrouzet.com/images_tc/2019/09/gmap5.png)
 
 4. Quand mon réseau dessine le parcours désiré, j'exporte ma carte Google en KMZ et l'importe dans [Garmin Base Camp](https://www.garmin.com/fr-FR/shop/downloads/basecamp).
 
@@ -63,7 +63,7 @@ Voici maintenant comment je concocte une trace type GTH.
 
 7. Une fois la couture terminée, je transfère la trace à mon GPS ou l'exporte en GPX, pour l'importer dans Google Map et la partager.
 
-![La trace sous Base Camp](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/gmap6-1600x894.jpg)
+![La trace sous Base Camp](https://tcrouzet.com/images_tc/2019/09/gmap6-1600x894.jpg)
 
 
 

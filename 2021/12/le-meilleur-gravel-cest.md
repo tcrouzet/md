@@ -16,13 +16,13 @@ J'ai écarté le nouveau Diverge, mieux suspendu, mais limité au 48 mm. Au fil 
 
 2. Des gravels suspendus, avec souvent une fourche avant hydraulique.
 
-![Grizl CF SLX 8 eTap Suspension](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/canyon.jpg)
+![Grizl CF SLX 8 eTap Suspension](https://tcrouzet.com/images_tc/2021/12/canyon.jpg)
 
 Tout cela n'était pas pour me déplaire, surtout quand j’ai repéré [le Canyon Grizl](https://www.canyon.com/fr-fr/velos-de-gravel/bike-packing/grizl/cf-slx/grizl-cf-slx-8-etap-suspension/2715.html?dwvar_2715_pv_rahmenfarbe=VT%2FBK). Il remplissait toutes les cases de mon cahier des charges jusqu'au moment où j'ai vu qu'il pesait 9,5 kg. J'ai un peu tiqué, c'est le poids de mon semi-rigide de bikepacking lorsque j’y monte des roues carbone légères. Si pour être confortable un gravel devait être aussi lourd que mon VTT, ça n'avait pas beaucoup de sens ([même si le poids n'est pas le critère déterminant pour juger d'un vélo](https://www.youtube.com/watch?v=sDzMrbJTK-U)).
 
 J'ai donc décidé de me donner le temps de la réflexion. En attendant, j’ai monté sur mon semi-rigide des pneus [Teravail Cannonball](https://teravail.com/products/cannonball-tire#/) de 42 mm. J’ai tout de suite retrouvé presque tous les plaisirs du gravel, avec le confort en plus. Je me suis alors demandé si le gravel, ce n’était pas avant tout une question de pneumatique (et de beaucoup de marketing). Certes les bases de mon VTT sont plus grandes, le vélo un poil moins dynamique, un poil moins aérodynamique, mais je ne suis vraiment pas loin du gravel côté sensations, surtout que sur mes VTT je monte toujours des [innerbars](https://www.sq-lab.com/produkte/innerbarends/sqlab-innerbarends-411.html) qui m’offrent la même position que les cocotes sur un cintre moustache (où je descends rarement en bas parce que ça me casse le dos).
 
-![Innerbars](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_4139.jpeg)
+![Innerbars](https://tcrouzet.com/images_tc/2021/12/IMG_4139.jpeg)
 
 Depuis, je roule gravel avec mon semi-rigide, sans que mes copains me trouvent trop lent (et ceux qui sont beaucoup plus rapides que moi l’étaient déjà quand j’avais mon Diverge). J’ai même beaucoup plus de latitude, car je peux m’aventurer dans des secteurs davantage VTT, tout en roulant avec plus de fluidité sur les pistes et l’asphalte. J’ai en quelque sorte provisoirement réuni les meilleurs des deux mondes, sans me ruiner. Et puis, j’avoue que je préfère de loin un cintre plat à un moustache ([je ne suis pas le seul](https://www.youtube.com/watch?v=1X-atbNA-sw)).
 
@@ -34,7 +34,7 @@ Je vois un autre avantage mon approche semi-rigide+pneus gravel : une forme de 
 
 *PS : Je roule avec un développement VTT bien sûr, un SRAM Eagle 32/10-50, qui me convient aussi en gravel ([venez faire mes lignes de désirs à Sète](https://tcrouzet.com/2021/01/25/sete-par-les-chemins-insolites/), c'est gravel côté surface, mais la plupart des gravels ne passent pas à cause des pourcentages). Il m'arrive bien rarement d'être à fond de train, d'autant que je roule en général sur pistes et singles. Je peux pousser des pointes à 40 km/h sur le plat et l'asphalte (95 rpm), ce qui est dans tout les cas ma limite physiologique. Sur les sections plates et favorables, je peux tenir le 30 km/h ce qui me suffit amplement. Rouler vite sur le plat m'intéresse peu (j'ai bien dit que je détestais les voitures, ce n'est pas pour les imiter). J'aime rouler longtemps et dans la nature. Plusieurs de mes copains/copines spécialistes de l'endurance en gravel roulent avec des Eagle comme moi. À 80 rpm, on peut rouler à 34 km/h. Je trouve ça déjà pas mal (et ça me sèche vite).*
 
-![Mon nouveau gravel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_4144.jpeg)
+![Mon nouveau gravel](https://tcrouzet.com/images_tc/2021/12/IMG_4144.jpeg)
 
 
 

@@ -10,25 +10,25 @@ Voilà qu’il y a quelques jours je suis tombé sur [une étude menée en 2015 
 
 Alors je commence par tracer un graphique qui pour ces pays indique sur l’axe des x leur mortalité covid en morts par million d'habitants, en y leur propension à sa laver les mains à la sortie des toilettes. J’obtiens un graphique guère parlant.
 
-![Les 63 pays](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/h-all1.png)
+![Les 63 pays](https://tcrouzet.com/images_tc/2020/11/h-all1.png)
 
 Ça ne marche pas du tout. Même si la plupart des pays les moins touchés sont en haut à gauche, donc les plus propres, on a la Chine tout en bas à gauche, avec seulement 3 morts/million d'habitants mais un score de propreté catastrophique de 23 %. Ça contredit mon hypothèse, sauf que la Chine a appliqué un confinement si drastique qu'il a occulté les habitudes des Chinois. Il est donc difficile de comparer sur un même graphique tous les pays, d'autant qu'on ne peut accorder à chacun la même crédibilité aux chiffres publiés.
 
 J'ai donc conservé les pays européens, avec les USA et le Canada, des pays d'un même niveau de développement, qui plus est frappés en même temps par l’épidémie. Tout s'éclaire : les pays les moins hygiéniques ont été plus fortement frappés par le covid. C’est particulièrement visible si je m’intéresse au début de la première vague, avant que les politiques de santé publique n'aient un fort impact. Les pays les plus touchés, c’est-à-dire les plus à droite, sont aussi « les moins propres », les plus positionnés vers le bas (France en rouge, Italie en vert foncé, Belgique en noir, Espagne en orange). Cette corrélation tent à confirmer que le covid ne se transmet pas majoritairement par aérosol, sinon les points seraient dispersés aléatoirement.
 
-![Europe, USA, Canada](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/h-all3.png)
+![Europe, USA, Canada](https://tcrouzet.com/images_tc/2020/11/h-all3.png)
 
-![Première vague](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/h-first.png)
+![Première vague](https://tcrouzet.com/images_tc/2020/11/h-first.png)
 
 Quand je regarde la situation présente, cette tendance se confirme. Bien sûr tous les pays se décalent vers la droite, mais la plupart de ceux qui étaient le plus en haut à gauche y restent. On voit quelques mauvais élèves se mettre en évidence, le Royaume-Unis (en vert vif) et les USA (en mauve), ce qui n’est pas surprenant, le Royaume-Unis ayant tergiversé dans sa politique préventive et les USA, sous le règne Trump, ayant fait n’importe quoi. Ce graphique démontre que les politiques de santé publique influencent les données épidémiques (et que la seule hygiène ne suffit pas expliquer l'évolution des situations nationales).
 
-![Toute l'épidémie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/h-now2.png)
+![Toute l'épidémie](https://tcrouzet.com/images_tc/2020/11/h-now2.png)
 
-![Toute l'épidémie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/h-now.png)
+![Toute l'épidémie](https://tcrouzet.com/images_tc/2020/11/h-now.png)
 
 Si je ne m'intéresse qu'à la seconde vague, que je fais débuter en août 2020, je constate une fois de plus que majoritairement les pays aux habitants les plus cradingues restent les plus touchés. Le Royaume-Unis a mieux géré cette fois, les USA toujours dans la panade, avec les Tchèques qui se sont détachés du peloton pour une raison que je n'explique pas encore.
 
-![Seconde vague](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/h-second.png)
+![Seconde vague](https://tcrouzet.com/images_tc/2020/11/h-second.png)
 
 Moralité : avant de râler contre le gouvernement, d’inventer des complots en tout genre, de crier à l’inacceptable privation des libertés, nous devrions commencer par nous laver les mains. OK, notre gouvernement aurait dû commencer par là. Il a été médiocre de ce côté, il l’est toujours. Je reste Français, je ne peux pas m’empêcher de critiquer, mais j’ai le droit, car je me frictionne scrupuleusement les mains avec des solutions hydroalcooliques.
 

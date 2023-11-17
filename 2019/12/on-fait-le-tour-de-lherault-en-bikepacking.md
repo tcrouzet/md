@@ -8,7 +8,7 @@ Quel bikepacker je suis ? Quand il y a du dénivelé, autour de 2 000 mètres d
 
 Pour inaugurer l’heure d’été, donc vers le début avril, mais rien n’est figé, j’aimerais partir en repérage sur ma trace du [GTH](https://drive.google.com/open?id=1glqm485m-Oo25P1jFNsgr6k7Z5-bl8AD&usp=sharing) (grand tour de l’Hérault à VTT/monstercross). Dans sa version courte, la boucle fait 500 km pour 7 400 m de D+. L’idée est de partir en gros du milieu de la partie méditerranéenne, c’est-à-dire de chez moi (comme par hasard).
 
-![Kilométrage et profil sur Ridewithgps](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/gth1.jpg)
+![Kilométrage et profil sur Ridewithgps](https://tcrouzet.com/images_tc/2019/12/gth1.jpg)
 
 Sachant que [début avril le jour se lève vers 7 h et se couche vers 20 h 30](https://www.sunrise-and-sunset.com/fr/sun/france/balaruc-les-bains/2020/avril), on dispose de journée de 13 h 30, soit de quoi parcourir en terrain escarpé et à mon rythme environ 125 km. En théorie, il faut donc quatre jours pour effectuer le GTH, sauf que le parcours est très contrasté, plutôt plat côté Méditerranée, plutôt très méchant côté nord du département vers les sublimes contreforts du Massif central. Prévoir cinq jours me paraît plus raisonnable, surtout qu’il s’agit d’une reconnaissance, avec galères possibles (l’aventure quoi).
 

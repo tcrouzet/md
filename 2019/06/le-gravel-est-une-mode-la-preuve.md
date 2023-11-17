@@ -16,13 +16,13 @@ Je trouve génial que des cyclistes fassent un pas vers la nature, mais pourquoi
 
 Dans des escalades un peu techniques, je ne suis même pas sûr qu’un gravel soit plus performant qu’un VTT. Un gravel aura toujours moins de grip. La rigidité n’est pas un critère de performance dès qu’on quitte l’asphalte. D’ailleurs, les suspensions arrière font désormais des prouesses. On grimpe plus vite avec des tout suspendus qu’avec des semi-rigides (voilà pourquoi les champions utilisent de plus en plus les tout suspendus dans les compétitions de cross-country).
 
-![VTT, Gravel ou Drop Bar 29er?](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/06/IMG_4867-600x450.jpg)
+![VTT, Gravel ou Drop Bar 29er?](https://tcrouzet.com/images_tc/2019/06/IMG_4867-600x450.jpg)
 
 J’utilise un semi-rigide pour le bikepacking sauvage parce que je le chausse de gros pneus, aussi pour avoir un risque moindre de panne, en aucune raison parce qu’il serait plus performant. Pour moi, qui quitte les routes dès que possible, le VTT semi-rigide est le vélo de voyage idéal. Jamais je ne le troquerai pour un gravel, même si sur les passages asphaltés je ne suis pas favorisé. Avec des cornes, des barres latérales ou des aéroboars, on peut même adopter une position roulante sur un VTT.
 
 Après chacun fait ce qu’il peut. Mes choix tiennent compte de mon corps vieillissant. Un jeune fringant peut pousser un gravel bien plus loin que moi. Reste que pour le cycliste ordinaire le gravel n’est pas le vélo universel. Si chaussé de pneus de route, il est pratiquement aussi performant qu’un vélo de route, jamais il ne rivalisera avec un VTT sur les terrains accidentés, même avec des pneus 42, voire de 50 mm (je ne comprends pas les constructeurs qui commercialisent des gravel limités au 38 mm).
 
-![Salsa Cutthroat customisé](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/06/IMG_4776-1-600x450.jpg)
+![Salsa Cutthroat customisé](https://tcrouzet.com/images_tc/2019/06/IMG_4776-1-600x450.jpg)
 
 Quand on veut passer partout tout en maximisant son confort, on roule en VTT, un VTT qu’on adapte en fonction du terrain, changeant les pneus, parfois remplaçant la fourche avant par une [Lauf Grit](https://www.laufcycling.com/product/lauf-grit) ou même une fourche rigide, ce qui est jouable avec des pneus d’un bel embonpoint (on a inventé les fat bikes pour la neige, mais ils s’avèrent très confortables sur tous les terrains tout en étant mécaniquement très simples).
 

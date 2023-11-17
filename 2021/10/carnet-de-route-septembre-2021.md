@@ -4,7 +4,7 @@
 
 ### Mercredi 1<sup>er</sup>, Balaruc
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_1965.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2021/10/IMG_1965.jpeg)
 
 ### Samedi 4, Balaruc
 
@@ -20,9 +20,9 @@ Mes fils lisent des mangas qui parlent de jeux vidéo. Ils regardent des vidéos
 
 Sur les chemins, je me sens vivre dans la plénitude. Dans le code, je ne me sens plus vivre, je ne suis plus qu’électrisation, que flot d’idées empilées, me forçant à élargir la taille de ma mémoire à court terme pour n’oublier aucun paramètre, ce qui me plonge dans un présent intense, mais dépourvu de second plan. Alors le temps s’efface, les journées s’envolent. Le contraire de ce que je ressens en randonnée, où mon expérience s’épaissit, se répand dans le temps jusqu’à frôler l’éternité.
 
-![Sète, le matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_1973.jpeg)
+![Sète, le matin](https://tcrouzet.com/images_tc/2021/10/IMG_1973.jpeg)
 
-![Rouge, vert, bleu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_1982.jpeg)
+![Rouge, vert, bleu](https://tcrouzet.com/images_tc/2021/10/IMG_1982.jpeg)
 
 ### Dimanche 5, Balaruc
 
@@ -36,35 +36,35 @@ La maladie a souvent quelque chose de soudain, par opposition à la vieillesse, 
 
 En 1981, dans *Le livre dit*, Duras déclare : « Moi, je plains toute cette jeunesse qui ne connaît plus la passion, qui est dans une pauvreté totale et du désir et de l’amour ; je la plains beaucoup, beaucoup. Elle est très atteinte dans sa force. » Je tombe sur cette phrase, au sujet de ma génération, alors que je retravaille mon autobiographie. Duras ne pouvait pas plus se tromper. On ne peut que mal juger d’une génération avec laquelle on a perdu le contact. La passion est une constante humaine, elle change simplement de mode d’expression avec les générations. Et douter de celles qui suivent n’est qu’un signe avant-coureur de sénilité.
 
-![Gabians](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2007.jpeg)
+![Gabians](https://tcrouzet.com/images_tc/2021/10/IMG_2007.jpeg)
 
 ### Vendredi 10, La Caunette
 
-![Exploration à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2034.jpeg)
+![Exploration à vélo](https://tcrouzet.com/images_tc/2021/10/IMG_2034.jpeg)
 
-![Exploration à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2037.jpeg)
+![Exploration à vélo](https://tcrouzet.com/images_tc/2021/10/IMG_2037.jpeg)
 
-![Exploration à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2040.jpeg)
+![Exploration à vélo](https://tcrouzet.com/images_tc/2021/10/IMG_2040.jpeg)
 
-![Exploration à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2042.jpeg)
+![Exploration à vélo](https://tcrouzet.com/images_tc/2021/10/IMG_2042.jpeg)
 
-![Exploration à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2043.jpeg)
+![Exploration à vélo](https://tcrouzet.com/images_tc/2021/10/IMG_2043.jpeg)
 
-![Exploration à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2070.jpeg)
+![Exploration à vélo](https://tcrouzet.com/images_tc/2021/10/IMG_2070.jpeg)
 
-![Exploration à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2075.jpeg)
+![Exploration à vélo](https://tcrouzet.com/images_tc/2021/10/IMG_2075.jpeg)
 
 ### Samedi 11, Balaruc
 
-![Paddle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2085.jpeg)
+![Paddle](https://tcrouzet.com/images_tc/2021/10/IMG_2085.jpeg)
 
 ### Dimanche 12, Balaruc
 
-![Rameurs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2092.jpeg)
+![Rameurs](https://tcrouzet.com/images_tc/2021/10/IMG_2092.jpeg)
 
-![Lagune](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2093.jpeg)
+![Lagune](https://tcrouzet.com/images_tc/2021/10/IMG_2093.jpeg)
 
-![Lagune](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2094.jpeg)
+![Lagune](https://tcrouzet.com/images_tc/2021/10/IMG_2094.jpeg)
 
 ### Mardi 14, TGV pour Genève
 
@@ -74,7 +74,7 @@ Je lis Duras, la fin de sa vie, *Écrire*, des textes parlés, avec des accumula
 
 J’aime Genève quand il ne pleut pas, j’aime l’odeur du lac, tout de suite dépaysante, j’aime la vue du Mont-Blanc à l’arrière-plan du Salève, j’aime les places, la multitude des cafés, la jeunesse polyglotte, j’aime le vaporetto jaune qui relie le parc de la Perle à Genève plage, j’aime les Genevois, leur diversité, leur assurance luxueuse, j’aime être dépaysé après seulement quatre heures de train, j’aime être ici, parce que j’y ai des amis précieux, mais je ne pourrais pas y vivre, l’hiver me serait difficile, mes garrigues lumineuses et mon étang me manqueraient.
 
-![Genève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2118.jpeg)
+![Genève](https://tcrouzet.com/images_tc/2021/10/IMG_2118.jpeg)
 
 ### Mercredi 15, Genève
 
@@ -92,11 +92,11 @@ J’en suis arrivé à attendre une possibilité extérieure, une rencontre, une
 
 Je passe un moment chez mon amie Geneviève. Une immense grange chez elle, sorte d’église baroque, avec en mezzanine l’atelier de [Christobal del Puey](https://www.cristobal.li/author/cristobal/), et partout ses immenses toiles prennent une puissance fulgurante, de plus en plus épaisses, de plus en plus complexes, vertigineuses, les personnages se détachent pour se tendre vers nous. Expérience stupéfiante d’être dans un temple de l’art qui demain sera musée, alors ce sera moins impressionnant que quand on y est seul, et qu’avec Geneviève je décroche une toile, en accroche une autre, lourde de plâtre, de matière, de microscopiques reliefs gravés de chair et de veinures organiques et d’un chaos nucléaire primordial. Il y a du Francis Bacon et du Facteur Cheval réunis, de l’expressionnisme et de l’abstraction, de la folie morbide et de la joie lugubre. Toute notre époque se carambole.
 
-![Genève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2135.jpeg)
+![Genève](https://tcrouzet.com/images_tc/2021/10/IMG_2135.jpeg)
 
-![La grange](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2142.jpeg)
+![La grange](https://tcrouzet.com/images_tc/2021/10/IMG_2142.jpeg)
 
-![Genève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2150.jpeg)
+![Genève](https://tcrouzet.com/images_tc/2021/10/IMG_2150.jpeg)
 
 ### Jeudi 16, Genève
 
@@ -120,11 +120,11 @@ Je me réveille à ma place, un rien, un corps, au bord d’une promenade et d�
 
 La pluie me chasse, je me réfugie à l’hôtel. Je crois que je suis seul une fin d’après-midi à Genève pour la première fois. Sensation désagréable d’être abandonné. L’écrivain face à lui-même, à sa singularité non festive.
 
-![Genève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2168.jpeg)
+![Genève](https://tcrouzet.com/images_tc/2021/10/IMG_2168.jpeg)
 
 ### Vendredi 17, Genève
 
-![Genève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2187-1.jpeg)
+![Genève](https://tcrouzet.com/images_tc/2021/10/IMG_2187-1.jpeg)
 
 ### Samedi 18, Balaruc
 
@@ -144,19 +144,19 @@ Duras : « C’est l’inconnu qu’on porte en soi : écrire, c’est ça qu
 
 Ainsi j’aime prendre le temps du carnet le matin, ou l’après-midi, mais pas le soir, quand je suis proche du sommeil. J’aime voir les surprises qu’il me réserve. Il me faut de la disposition, de la tranquillité pour qu’elles arrivent, se glissent, puis se retirent. Souvent elles rechignent. L’écriture se refuse, alors un texte, comme cet *Écrire* de Duras, peut la réveiller.
 
-![La passerelle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2188.jpeg)
+![La passerelle](https://tcrouzet.com/images_tc/2021/10/IMG_2188.jpeg)
 
-![La passerelle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2189.jpeg)
+![La passerelle](https://tcrouzet.com/images_tc/2021/10/IMG_2189.jpeg)
 
-![Les Aresquiers](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2190.jpeg)
+![Les Aresquiers](https://tcrouzet.com/images_tc/2021/10/IMG_2190.jpeg)
 
-![Les Aresquiers](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2204.jpeg)
+![Les Aresquiers](https://tcrouzet.com/images_tc/2021/10/IMG_2204.jpeg)
 
-![La Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2195.jpeg)
+![La Gardiole](https://tcrouzet.com/images_tc/2021/10/IMG_2195.jpeg)
 
 ### Dimanche 19, Poussan
 
-![À contre jour](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2231.jpeg)
+![À contre jour](https://tcrouzet.com/images_tc/2021/10/IMG_2231.jpeg)
 
 ### Mardi 21, Balaruc
 
@@ -166,17 +166,17 @@ Je me gare au village de Faugères, m’enfonce dans des sentiers sublimes qui m
 
 Je croise une femme, lui demande si elle connaît un point d’eau, elle me désigne une chapelle mystérieuse avec un cimetière. Je cueille des pommes, puis plonge dans la vallée, traverse des villages, avant de rejoindre mon point de départ, les yeux écarquillés, le cœur exalté, quelque peu dépassé par l’immensité de la beauté que je serais incapable de capturer. Il me faudra revenir.
 
-![Cabrerolles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2238-1.jpeg)
+![Cabrerolles](https://tcrouzet.com/images_tc/2021/10/IMG_2238-1.jpeg)
 
-![Cabrerolles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2239.jpeg)
+![Cabrerolles](https://tcrouzet.com/images_tc/2021/10/IMG_2239.jpeg)
 
-![Cabrerolles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2240.jpeg)
+![Cabrerolles](https://tcrouzet.com/images_tc/2021/10/IMG_2240.jpeg)
 
-![Cabrerolles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2253.jpeg)
+![Cabrerolles](https://tcrouzet.com/images_tc/2021/10/IMG_2253.jpeg)
 
-![Cabrerolles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2269.jpeg)
+![Cabrerolles](https://tcrouzet.com/images_tc/2021/10/IMG_2269.jpeg)
 
-![Cabrerolles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2281.jpeg)
+![Cabrerolles](https://tcrouzet.com/images_tc/2021/10/IMG_2281.jpeg)
 
 ### Jeudi 23, Balaruc
 
@@ -186,9 +186,9 @@ Chateaubriand se mal-jugeait. Quand il se cite, se célèbre, je le trouve ampou
 
 Je retourne explorer, cette fois avec Jacques et la promenade devient géologique, à travers les centaines de millions d’années. Nous parcourons les vignobles de Saint-Chinian, les chemins sinueux entre les parcelles en terrasse, les bois de pins, les singles entre les chênes verts. Notre boucle terminée tôt, nous sautons en voiture vers Roquebrun, le village éclate ses façades colorées face à nous, une pure merveille avec l’église tout en haut. Nous franchissons l’Orb, nous glissons dans une vallée secrète, au fond de laquelle se niche un autre village en terrasses, introuvable, inexistant et merveilleux. En haut, le maquis nous piège, nous bataillons dans des sentiers pas faits pour le vélo, où les sangliers ont labouré le sol, comme pour nous dissuader d’ouvrir une piste qui les dérangerait, alors nous nous replions à regret.
 
-![Cessenon-sur-Orb](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2311.jpeg)
+![Cessenon-sur-Orb](https://tcrouzet.com/images_tc/2021/10/IMG_2311.jpeg)
 
-![Cessenon-sur-Orb](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2326.jpeg)
+![Cessenon-sur-Orb](https://tcrouzet.com/images_tc/2021/10/IMG_2326.jpeg)
 
 ### Vendredi 24, Balaruc
 
@@ -212,21 +212,21 @@ Je travaille encore à la pérennisation du blog, j’y suis presque, aussi aux 
 
 Journée d’exploration des sentiers entre pic Saint Lou et Hortus. Perspective saisissante par delà les vignes des deux géants disloqués.
 
-![Pic Saint-Loup](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2389.jpeg)
+![Pic Saint-Loup](https://tcrouzet.com/images_tc/2021/10/IMG_2389.jpeg)
 
-![Hortus](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2392.jpeg)
+![Hortus](https://tcrouzet.com/images_tc/2021/10/IMG_2392.jpeg)
 
-![Pic Saint-Loup](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2396.jpeg)
+![Pic Saint-Loup](https://tcrouzet.com/images_tc/2021/10/IMG_2396.jpeg)
 
 ### Jeudi 30, Balaruc
 
 Journée de bouclage. Je termine enfin de créer [une version statique de mon blog pour son archivage et ma postérité](https://tcrouzet.com/2021/10/01/comment-perenniser-la-litterature-numerique/). J’envoie à Pierre la version 2 de mon autobiographie, désormais intitulée *L’atelier d’écriture*, je ne pouvais pas trouver plus explicite. Puis des copains arrivent déjeuner et nous repartons à vélo, dans l’extraordinaire limpidité du début de l’automne méditerranéen.
 
-![Mireval](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2413.jpeg)
+![Mireval](https://tcrouzet.com/images_tc/2021/10/IMG_2413.jpeg)
 
-![Le petit mur jaune](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2428.jpeg)
+![Le petit mur jaune](https://tcrouzet.com/images_tc/2021/10/IMG_2428.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_2437.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2021/10/IMG_2437.jpeg)
 
 
 

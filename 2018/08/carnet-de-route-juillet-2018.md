@@ -70,15 +70,15 @@ Je parle de ma déconnexion de 2011. Je parle d’internet comme territoire. On 
 
 Au café, avec un photographe dont j’ai oublié le nom. Je parle de la barque de mon père qui pourrit dans mon jardin. Personne n’en veut. J’évoque l’idée de la détruire à coups de masse. « Casser la barque », me dit le photographe. Oui, peut-être ainsi finir par digérer mon père.
 
-![Autun, cathédrale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060108.jpg)
+![Autun, cathédrale](https://tcrouzet.com/images_tc/2018/08/P1060108.jpg)
 
-![Autun, cathédrale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060115.jpg)
+![Autun, cathédrale](https://tcrouzet.com/images_tc/2018/08/P1060115.jpg)
 
-![Autun, jardin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060116.jpg)
+![Autun, jardin](https://tcrouzet.com/images_tc/2018/08/P1060116.jpg)
 
-![Autun, cathédrale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060117.jpg)
+![Autun, cathédrale](https://tcrouzet.com/images_tc/2018/08/P1060117.jpg)
 
-![Autun, verdure](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060123.jpg)
+![Autun, verdure](https://tcrouzet.com/images_tc/2018/08/P1060123.jpg)
 
 ### Samedi 14, Autun
 
@@ -88,9 +88,9 @@ Je m’en vais courir dans la forêt au-dessus de la ville, dont la cathédrale 
 
 Autun, ville ancienne, à l’aspect ancien, impression délectable d’être au XIX<sup>e</sup> ou dans un roman de Simenon. Des panneaux à vendre à toutes les fenêtres. La population serait passée de 25 000 habitants à 15 000 en une décennie. Un drame : au contraire, le charme de cette dépopulation est certain, la ville respire sur un rythme unique en notre temps. Je visite le musée Rolin. Avec ses mille ans d’âge, l’Ève à la belle poitrine me fait de l’œil. Puis nous parlons encore, déjeunons, prenons le bus jusqu’au mont Beuvray où se prolonge le festival. Je ne me sens pas très bien dans cette espèce de pelouse arrachée d’un parc parisien. Retour avant la nuit, dans la ville où à 21 heures il est déjà difficile de se faire servir à manger.
 
-![La tentation d'Ève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060132.jpg)
+![La tentation d'Ève](https://tcrouzet.com/images_tc/2018/08/P1060132.jpg)
 
-![La tentation d'Ève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060133.jpg)
+![La tentation d'Ève](https://tcrouzet.com/images_tc/2018/08/P1060133.jpg)
 
 ### Dimanche 15, Autun
 
@@ -104,9 +104,9 @@ Dans la semaine, j’ai cherché à rétablir le contact avec un vieil ami qui, 
 
 ### Lundi 16, Autun
 
-![Autun, la gare](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060149.jpg)
+![Autun, la gare](https://tcrouzet.com/images_tc/2018/08/P1060149.jpg)
 
-![Autun, la gare](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060153.jpg)
+![Autun, la gare](https://tcrouzet.com/images_tc/2018/08/P1060153.jpg)
 
 ### Lundi 16, Balaruc
 
@@ -116,7 +116,7 @@ Mon père aurait eu 82 ans aujourd'hui. Est-ce que je poursuivrai ce décompte j
 
 À Autun, [des enfants m’ont croqué](https://reporters.1jour1actu.com/webj/ateliers-les-rendez-vous-de-juillet-vendredi-13-juillet-2018-a-14h30-11-14-ans/2677).
 
-![Croqué par le journaliste de presse Jacques Azam](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/JacquesAzam-600x320.jpeg)
+![Croqué par le journaliste de presse Jacques Azam](https://tcrouzet.com/images_tc/2018/08/JacquesAzam-600x320.jpeg)
 
 ### Mardi 17, Balaruc
 
@@ -178,7 +178,7 @@ Nous trions, jetons, des années d’accumulation administrative et autre. Une p
 
 Nettoyage. Réparations. Réglages. On dirait que nous allons vendre la maison.
 
-![Bleu laiteux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060163.jpg)
+![Bleu laiteux](https://tcrouzet.com/images_tc/2018/08/P1060163.jpg)
 
 
 

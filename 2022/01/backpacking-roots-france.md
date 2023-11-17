@@ -4,7 +4,7 @@ En découvrant l’association américaine [Bikepacking Roots](https://www.bikep
 
 Sur un coup de tête, [j’ai dit que nous pourrions créer une telle association en France](https://www.facebook.com/groups/1396341304006680/posts/2695288014111996/) et, vu l’intérêt suscité, [j’ai lancé un groupe BPRf pour que nous puissions discuter d’une telle association](https://www.facebook.com/groups/bikepackingrootsfrance/), sachant que notre situation est très différente de celles États-Unis. Par exemple, la FFC entretient de nombreux circuits, tout comme les régions ou les départements.
 
-![Carte de BPR](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/bpr-route-map-sept-2021.png)
+![Carte de BPR](https://tcrouzet.com/images_tc/2022/01/bpr-route-map-sept-2021.png)
 
 ### C'est quoi le bikepacking
 
@@ -12,7 +12,7 @@ Sur un coup de tête, [j’ai dit que nous pourrions créer une telle associatio
 
 Pour savoir ce qu’est le bikepacking, il suffit de regarder [l’Instagram de BPR](https://www.instagram.com/bikepackingroots/?hl=fr). Vous voyez beaucoup de vélos de route ? Nous ne devrions même pas discuter de ce point, mais le mot étant sexy, tout le monde tente de se le réapproprier en France, surtout la FFV. La raison est assez simple : il suffit de jeter un œil à [Google Trends](https://trends.google.fr/trends/explore?date=all&geo=FR&q=Bikepacking,Cyclotourisme). Alors que le cyclotourisme baisse en popularité, celle du bikepacking augmente.
 
-![Cyclotourisme vs bikepacking](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/cyclovsbp.png)
+![Cyclotourisme vs bikepacking](https://tcrouzet.com/images_tc/2022/01/cyclovsbp.png)
 
 La raison est civilisationnelle et elle ne va pas s’inverser : nous n’en pouvons plus du bruit, du béton, des voitures, de l’asphalte, nous avons envie de nous reconnecter à la nature. Le bikepacker aime dormir dehors, loin de tout, au milieu d’une forêt, au sommet d’une montagne, au bord d’un ruisseau. Il aime dormir là où aucune route ne va, où il ne risque pas de rencontrer des camping-cars ou des voitures. Voilà pourquoi imaginer un bikepacking avec un vélo de route n’a aucun sens. Utiliser du matériel de bikepacking ne fait pas de nous des bikepackers. Ces les traces qui nous transforment en bikepackers. Voilà pourquoi une BPRf aurait tout son sens, en promouvant des traces dans un pur esprit bikepacking.
 

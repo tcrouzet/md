@@ -4,11 +4,11 @@ La contrainte stimule la créativité. Par exemple, les poètes s’imposent la 
 
 J’habite à Balaruc les Bains, une des quatorze communes de l’agglo avec [Sète, Frontigan, Vic la Gardiole, Mireval, Gigean, Montbazin, Poussan, Villeveyrac, Balaruc le Vieux, Bouzigues, Loupian, Mèze et Marseillan](http://www.agglopole.fr/). Avec 125 000 habitants et une densité de 405 habitants/km², on est au-dessus de la moyenne française, mais il nous reste beaucoup d’espaces naturels, avec de merveilleux terrains de jeu pour le gravel et le VTT, et une diversité de paysage assez incroyable.
 
-![L'agglo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/agglo001.jpg)
+![L'agglo](https://tcrouzet.com/images_tc/2020/12/agglo001.jpg)
 
 J’ai commencé par repérer les frontières des communes, puis j’ai connecté mes traces habituelles pour rouler au plus près tout en restant à l’intérieur. J’ai alors pris conscience que je n’avais jamais roulé dans certains coins périphériques. J’ai dû enchaîner une dizaine de reconnaissances pour fignoler un tour de 125 km et 1 300 mètres de dénivelé positif, avec l’objectif qu’un gravel puisse passer sans trop de difficulté. Il me restait à rouler le tour en une seule sortie.
 
-![Sète depuis Balaruc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5743.jpeg)
+![Sète depuis Balaruc](https://tcrouzet.com/images_tc/2020/12/IMG_5743.jpeg)
 
 Le 13 décembre, après deux jours de pluie, s’ouvre une fenêtre météo favorable. Quand je m’élance à 8 h 15, le soleil colore de rose les nuages qui flottent au-dessus de Sète. Il n’y a presque pas de vent. Il fait 8°C. Balaruc les Bains est l’une des communes intérieures de l’agglo, où la trace ne passe donc pas. Je la retrouve quand elle rejoint le canal du Rhône à Sète après 4 km de piste cyclable.
 
@@ -20,15 +20,15 @@ Quand je pédale seul, des pensées ne cessent de se présenter. Elles passent, 
 
 Le canal entre dans Frontignan, passe sous la voie ferrée et se poursuit vers les anciens marais-salants. Je roule sur la levée avec l’eau autour de moi. Le single est joueur, surtout après l’ancienne salinière, la ferme à sel. Ondulations et zigzags me font penser à de gentilles montagnes russes.
 
-![Canal du Rhône à Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5748.jpeg)
+![Canal du Rhône à Sète](https://tcrouzet.com/images_tc/2020/12/IMG_5748.jpeg)
 
-![Canal du Rhône à Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5758.jpeg)
+![Canal du Rhône à Sète](https://tcrouzet.com/images_tc/2020/12/IMG_5758.jpeg)
 
-![Canan du Rhône à Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5765.jpeg)
+![Canan du Rhône à Sète](https://tcrouzet.com/images_tc/2020/12/IMG_5765.jpeg)
 
-![La levée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5803.jpeg)
+![La levée](https://tcrouzet.com/images_tc/2020/12/IMG_5803.jpeg)
 
-![La passerelle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5816.jpeg)
+![La passerelle](https://tcrouzet.com/images_tc/2020/12/IMG_5816.jpeg)
 
 ### Secteur Vic la Gardiole 1
 
@@ -40,9 +40,9 @@ Je passe devant la métairie des Aresquiers, dont mon trisaïeul était le régi
 
 Je le quitte par le nord, les collines de la Gardiole à une courte encablure, mais j’attaquerai leur ascension un peu plus tard.
 
-![Les Aresquiers](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5821.jpeg)
+![Les Aresquiers](https://tcrouzet.com/images_tc/2020/12/IMG_5821.jpeg)
 
-![Les Aresquiers](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5823.jpeg)
+![Les Aresquiers](https://tcrouzet.com/images_tc/2020/12/IMG_5823.jpeg)
 
 ### Secteur Mireval
 
@@ -52,11 +52,11 @@ Je bifurque vers la garrigue et un chemin m’amène au sommet des falaises qui 
 
 Après 25 km parcourus, je ne m’arrête pas au cimetière pour me ravitailler en eau. Je n’ai bu qu’un quart d’une de mes deux gourdes. De même, je ne m’arrête pas au centre de Mireval pour acheter à manger. Je poursuis droit en direction de la Gardiole.
 
-![Vers le trou de Miège](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5851.jpeg)
+![Vers le trou de Miège](https://tcrouzet.com/images_tc/2020/12/IMG_5851.jpeg)
 
-![Trou de Miège](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5858.jpeg)
+![Trou de Miège](https://tcrouzet.com/images_tc/2020/12/IMG_5858.jpeg)
 
-![Les étangs et la mer](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5862.jpeg)
+![Les étangs et la mer](https://tcrouzet.com/images_tc/2020/12/IMG_5862.jpeg)
 
 ### Secteur Vic la Gardiole 2
 
@@ -64,9 +64,9 @@ Après la traversée de la D114, une draille râpeuse m’amène dans les collin
 
 Je rattrape trois vététistes en grande conversation, échange quelques mots avec eux, puis les distance. Mon vélo est sans doute quatre kilos moins lourd que les leurs et bien plus dynamique en montée. Cette ascension fait toujours mal aux jambes : le sol tantôt caillouteux tantôt gravillonneux ne rend pas et le pourcentage dépasse souvent les 10 %. Peu à peu la perspective se révèle sur la mer. J’ai au-dessous de moi le chemin parcouru depuis mon départ.
 
-![La draille](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5878.jpeg)
+![La draille](https://tcrouzet.com/images_tc/2020/12/IMG_5878.jpeg)
 
-![Vététistes dans l'Alpe d'Huez](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5888.jpeg)
+![Vététistes dans l'Alpe d'Huez](https://tcrouzet.com/images_tc/2020/12/IMG_5888.jpeg)
 
 ### Secteur Gigean
 
@@ -78,11 +78,11 @@ Après avoir englouti un croissant au jambon et rangé dans la poche arrière de
 
 Une petite route me conduit vers l’est, puis un chemin me fait contourner une vigne à flanc d’un dévers argileux. Je franchis l’ancienne voie de l’intérêt communal, encore équipée de ses rails.
 
-![Descente](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5895.jpeg)
+![Descente](https://tcrouzet.com/images_tc/2020/12/IMG_5895.jpeg)
 
-![Dans les bois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5897.jpeg)
+![Dans les bois](https://tcrouzet.com/images_tc/2020/12/IMG_5897.jpeg)
 
-![Vers le bleu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5907.jpeg)
+![Vers le bleu](https://tcrouzet.com/images_tc/2020/12/IMG_5907.jpeg)
 
 ### Secteur Montbazin
 
@@ -92,19 +92,19 @@ J’entre bientôt dans les collines de la Moure, dominée par un champ d’éol
 
 Après avoir coupé la route communale desservant le mas d’Antonègre, j’enchaîne une des plus belles DFCI du coin. Elle déroule aux flancs des collines un ruban rouge en une succession de toboggans que j’aime enchaîner à fond de train pour gagner assez de vitesse pour escalader les remontées sans trop d’efforts.
 
-![Entre les vignes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5918.jpeg)
+![Entre les vignes](https://tcrouzet.com/images_tc/2020/12/IMG_5918.jpeg)
 
-![Retour dans les bois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5934.jpeg)
+![Retour dans les bois](https://tcrouzet.com/images_tc/2020/12/IMG_5934.jpeg)
 
-![Sète au loin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5957.jpeg)
+![Sète au loin](https://tcrouzet.com/images_tc/2020/12/IMG_5957.jpeg)
 
-![Colline de la Moure](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5960.jpeg)
+![Colline de la Moure](https://tcrouzet.com/images_tc/2020/12/IMG_5960.jpeg)
 
 ### Secteur Poussan
 
 La DFCI se poursuit. Le temps de couper la D2, elle reprend de plus belle, en une longue ascension régulière et roulante qui offre un panorama de carte postale sur l’étang de Thau, Sète et la mer. Alors débute la plongée dans la vallée de Villeveyrac.
 
-![Ça grimpe](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5979.jpeg)
+![Ça grimpe](https://tcrouzet.com/images_tc/2020/12/IMG_5979.jpeg)
 
 ### Secteur Villeveyrac
 
@@ -120,27 +120,27 @@ Il fait chaud, je bois beaucoup, j’attaque ma seconde gourde. En été, je pen
 
 Les chemins deviennent plus lourds. Mes pneus se chargent de terre, mais je n’ai pas besoin de les nettoyer qu’une fois, quand j’emprunte un single chargé de boue par les dernières pluies.
 
-![Route de montagne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5992.jpeg)
+![Route de montagne](https://tcrouzet.com/images_tc/2020/12/IMG_5992.jpeg)
 
-![Villeveyrac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_5998.jpeg)
+![Villeveyrac](https://tcrouzet.com/images_tc/2020/12/IMG_5998.jpeg)
 
-![Le viaduc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6007.jpeg)
+![Le viaduc](https://tcrouzet.com/images_tc/2020/12/IMG_6007.jpeg)
 
-![Terres rouges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6012.jpeg)
+![Terres rouges](https://tcrouzet.com/images_tc/2020/12/IMG_6012.jpeg)
 
-![L'ancienne carrière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6015.jpeg)
+![L'ancienne carrière](https://tcrouzet.com/images_tc/2020/12/IMG_6015.jpeg)
 
-![Sur la crête](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6019.jpeg)
+![Sur la crête](https://tcrouzet.com/images_tc/2020/12/IMG_6019.jpeg)
 
-![Single](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6024.jpeg)
+![Single](https://tcrouzet.com/images_tc/2020/12/IMG_6024.jpeg)
 
-![Vers l'ouest](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6032.jpeg)
+![Vers l'ouest](https://tcrouzet.com/images_tc/2020/12/IMG_6032.jpeg)
 
-![Retour sur l'asphalte](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6042.jpeg)
+![Retour sur l'asphalte](https://tcrouzet.com/images_tc/2020/12/IMG_6042.jpeg)
 
-![Sillons devant l'abbaye](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6054.jpeg)
+![Sillons devant l'abbaye](https://tcrouzet.com/images_tc/2020/12/IMG_6054.jpeg)
 
-![Dans les champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6056.jpeg)
+![Dans les champs](https://tcrouzet.com/images_tc/2020/12/IMG_6056.jpeg)
 
 ### Secteur Mèze
 
@@ -154,19 +154,19 @@ Je quitte ma petite route au croisement de la voie Domicienne, tourne à droite 
 
 Je plonge droit vers l’étang de Thau. Dépasse le domaine de Font-Mars et sa majestueuse allée de pins, franchis l’autoroute, descends vers le domaine des Yeuses, et continue de chemins en petites routes à travers les vignes.
 
-![Vers l'infini](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6057.jpeg)
+![Vers l'infini](https://tcrouzet.com/images_tc/2020/12/IMG_6057.jpeg)
 
-![Retour dans les bois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6063.jpeg)
+![Retour dans les bois](https://tcrouzet.com/images_tc/2020/12/IMG_6063.jpeg)
 
-![Font-Mars](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6069.jpeg)
+![Font-Mars](https://tcrouzet.com/images_tc/2020/12/IMG_6069.jpeg)
 
-![Le pont de fer](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6073.jpeg)
+![Le pont de fer](https://tcrouzet.com/images_tc/2020/12/IMG_6073.jpeg)
 
-![La route des oliviers](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6075.jpeg)
+![La route des oliviers](https://tcrouzet.com/images_tc/2020/12/IMG_6075.jpeg)
 
-![La ruine](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6085.jpeg)
+![La ruine](https://tcrouzet.com/images_tc/2020/12/IMG_6085.jpeg)
 
-![Du chemin après du chemin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6092.jpeg)
+![Du chemin après du chemin](https://tcrouzet.com/images_tc/2020/12/IMG_6092.jpeg)
 
 ### Secteur Marseillan
 
@@ -176,21 +176,21 @@ Mais je quitte vite l’étang de Thau. Ma trace m’a amené à Bellevue parce 
 
 Je rejoins le canal du Midi, puis traverse Marseillan plage. Je suis toujours surpris qu’aucun passage sous-terrain n’ait été ouvert au niveau de la gare. Je franchis la voie en portant mon vélo, puis file à travers les horreurs balnéaires. Hors saison, je leur trouve un charme d’après la fin des temps. Ici, je pense toujours aux romans de Stephen King, à une calamité qui aurait décimé l’humanité, sauf moi bien sûr. Heureusement, je gagne le bord de mer bien réaménagé, puis retrouve la piste cyclable du lido.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6100.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2020/12/IMG_6100.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6108.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2020/12/IMG_6108.jpeg)
 
-![Entre les marais](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6115.jpeg)
+![Entre les marais](https://tcrouzet.com/images_tc/2020/12/IMG_6115.jpeg)
 
-![Le solitaire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6123.jpeg)
+![Le solitaire](https://tcrouzet.com/images_tc/2020/12/IMG_6123.jpeg)
 
-![Chemin des Romains](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6133.jpeg)
+![Chemin des Romains](https://tcrouzet.com/images_tc/2020/12/IMG_6133.jpeg)
 
-![Montagne d'Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6143.jpeg)
+![Montagne d'Agde](https://tcrouzet.com/images_tc/2020/12/IMG_6143.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6149.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2020/12/IMG_6149.jpeg)
 
-![Canal du Midi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6153.jpeg)
+![Canal du Midi](https://tcrouzet.com/images_tc/2020/12/IMG_6153.jpeg)
 
 ### Secteur Sète
 
@@ -206,29 +206,29 @@ Au sommet de Saint Clair, je grignote des céréales tout en regardant le port q
 
 Je me remets en selle, et par vice, plutôt que de descendre par le traditionnel chemin de Saint Clair, puis par la rampe des Bédouins, je dévale par la provocante Chabanette. Mieux vaut avoir de bons freins et éviter les journées pluvieuses. Mais la vue est superbe, les voitures rares. Me voilà déjà sur la corniche, avec la chaîne des Pyrénées qui se dessine dans le couchant.
 
-![La plage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6173.jpeg)
+![La plage](https://tcrouzet.com/images_tc/2020/12/IMG_6173.jpeg)
 
-![La plage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6175.jpeg)
+![La plage](https://tcrouzet.com/images_tc/2020/12/IMG_6175.jpeg)
 
-![Étang de Thau](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6181.jpeg)
+![Étang de Thau](https://tcrouzet.com/images_tc/2020/12/IMG_6181.jpeg)
 
-![Levée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6184.jpeg)
+![Levée](https://tcrouzet.com/images_tc/2020/12/IMG_6184.jpeg)
 
-![Sculpture](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6192.jpeg)
+![Sculpture](https://tcrouzet.com/images_tc/2020/12/IMG_6192.jpeg)
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6203.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2020/12/IMG_6203.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6210.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2020/12/IMG_6210.jpeg)
 
-![Le port](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6219.jpeg)
+![Le port](https://tcrouzet.com/images_tc/2020/12/IMG_6219.jpeg)
 
-![Les Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/IMG_6223.jpeg)
+![Les Pyrénées](https://tcrouzet.com/images_tc/2020/12/IMG_6223.jpeg)
 
 Je me sens léger tout en terminant mon tour et en rentrant tranquillement chez moi. [J’ai parcouru 131 km, grimpé 1 331 mètres, ma sortie aura durée 8 h 48 pour 7 h 6 de déplacements](https://www.strava.com/activities/4468049140).
 
 Je me dis que si nous tracions ainsi le tour de toutes les agglos de France, nous pourrions mailler le territoire et laisser entrevoir une infinité de parcours qu’il suffirait de confectionner par copier-coller.
 
-![Statistiques Komoot](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/12/agglostat.png)
+![Statistiques Komoot](https://tcrouzet.com/images_tc/2020/12/agglostat.png)
 
 *PS : J'ai effectué le tour avec mon Specialized Diverge, équipe avec des pneus de 42 mm montés en tubeless. Je transportais deux bidons de 750 ml, un top tub bag de 1 litre avec mes barres de céréales et des outils. Un sac de selle de 3 litres, un Shrew de Revelate Design, avec ma doudoune et mon imperméable.*
 

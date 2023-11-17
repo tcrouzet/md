@@ -22,7 +22,7 @@ Postulat : le coronavirus chinois est le même que celui qui frappe le reste du
 
 Constat : le premier cas en Chine date du 17 novembre 2019 et le confinement de Wuhan du 22 janvier 2020, 66 jours pendant lesquels l’épidémie galope, mais ne cause que 17 morts.
 
-![Évolutions comparées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/chine.png)
+![Évolutions comparées](https://tcrouzet.com/images_tc/2020/04/chine.png)
 
 Le tableau est bien plus macabre dans les cinq pays occidentaux qui ont les plus tardé à prendre des mesures de confinement ou dont les populations elles-mêmes n’ont adopté aucune mesure spontanée. Si on se place 66 jours après le premier cas, en Italie on a 14 681 morts (864 fois plus qu’en Chine), en Espagne on a 13 341 morts (785 fois plus), au Royaume-Unis on a 5 373 morts (316 fois plus), en France on a 3 024 morts (178 fois plus), aux USA on a 1 706 morts (100 fois plus). Même l’Allemagne, vantée pour son excellente gestion de la crise, affiche 27 fois plus de victimes à 66 jours.
 

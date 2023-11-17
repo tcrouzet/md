@@ -20,23 +20,23 @@ Pour ma part, j’évalue mes sorties par des impondérables non par quelques sc
 
 *PS : Une performance non quantifiable, non objective, comme le dépassement de soi, devient qualitative. Vouloir aller plus loin, faire plus pour la planète, dépasser ses attentes et ses objectifs n'est pas en contradiction avec la coopération et l'entraide. Mais il me semble qu'on ne parle pas de performance quand on tente de se dépasser dans la coopération, par exemple. Ce mot traîne derrière lui trop de consonances négatives dans un cadre de crise systémique. En d'autres termes, je n'ai rien contre les performances non quantifiables. Je tente toujours d'écrire des textes meilleurs que les précédents, je cherche donc à me dépasser, mais personne ne pourra jamais dire objectivement que j'y ai réussi, et si une personne le dit, une autre pourra penser le contraire. Alors oui à la performance dans le sport amateur, mais à cette seule condition.*
 
-![Les Alpilles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_4014.jpeg)
+![Les Alpilles](https://tcrouzet.com/images_tc/2021/11/IMG_4014.jpeg)
 
-![Les Alpilles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_4017.jpeg)
+![Les Alpilles](https://tcrouzet.com/images_tc/2021/11/IMG_4017.jpeg)
 
-![Les Alpilles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_4032.jpeg)
+![Les Alpilles](https://tcrouzet.com/images_tc/2021/11/IMG_4032.jpeg)
 
-![Les Alpilles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_4040.jpeg)
+![Les Alpilles](https://tcrouzet.com/images_tc/2021/11/IMG_4040.jpeg)
 
-![Les Alpilles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_4058.jpeg)
+![Les Alpilles](https://tcrouzet.com/images_tc/2021/11/IMG_4058.jpeg)
 
-![Les Alpilles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_4062.jpeg)
+![Les Alpilles](https://tcrouzet.com/images_tc/2021/11/IMG_4062.jpeg)
 
-![Les Alpilles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_4068.jpeg)
+![Les Alpilles](https://tcrouzet.com/images_tc/2021/11/IMG_4068.jpeg)
 
-![Les Alpilles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_4081.jpeg)
+![Les Alpilles](https://tcrouzet.com/images_tc/2021/11/IMG_4081.jpeg)
 
-![Les Alpilles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_4083.jpeg)
+![Les Alpilles](https://tcrouzet.com/images_tc/2021/11/IMG_4083.jpeg)
 
 
 

@@ -10,7 +10,7 @@ J’ai manqué le vendre au printemps, puis j’ai renoncé, fatigué de sans ce
 
 Lors de la première sortie, je me suis dit que j’étais reparti pour deux ans de tranquillité. Sauf qu’au bout de 2 heures, la nouvelle batterie chinoise, achetée 6 €, a rendu l’âme. Qu’à cela ne tienne, j’ai commandé une batterie chez un autre fournisseur, 16 €, mais cette fois j’ai pété les nappes de l'écran au moment de le reconnecter (j’avais déjà pété les nappes d’un iPad en changeant un écran). C’est sûr, je ne recommencerais plus cette opération qui garantit la crise de nerfs. Et pas question [d’acheter un nouvel écran](https://fr.aliexpress.com/w/wholesale-garmin-820-screen-replace.html) et de tenter une nouvelle fois la réparation.
 
-![Mon vieux 820 à côté du 530](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4401.jpeg)
+![Mon vieux 820 à côté du 530](https://tcrouzet.com/images_tc/2020/10/IMG_4401.jpeg)
 
 Mon 820 était bon pour la poubelle et il me fallait un autre GPS. Je m’étais préparé à cette éventualité. La vraie question : pourquoi acheter un GPS quand mon téléphone possède un meilleur écran, plus grand, plus contrasté, tout en disposant d’un GPS presque aussi précis ?
 
@@ -54,17 +54,17 @@ Il m’aura fallu une dizaine d’heures de bricolage, puis trois mois d'essais 
 
 La carte Garmin étant précise mais un peu kitsch, je dois en choisir une autre. J'ai ma petite idée, mais j'effectue quelques tests sur mon ordinateur avec [BaseCamp](https://www.garmin.com/fr-FR/software/basecamp/) (en fait, je copie les cartes sur le GPS ou un disque virtuel simulant un GPS Garmin pour que BaseCamp les reconnaisse).
 
-![Carte Garmin Europe](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/map03Garmin-1548x1200.jpg)
+![Carte Garmin Europe](https://tcrouzet.com/images_tc/2020/10/map03Garmin-1548x1200.jpg)
 
-![Carte IGN pour Garmin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/map03IGN-1546x1200.jpg)
+![Carte IGN pour Garmin](https://tcrouzet.com/images_tc/2020/10/map03IGN-1546x1200.jpg)
 
-![Openfietsmap Lite](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/map03lite-1551x1200.jpg)
+![Openfietsmap Lite](https://tcrouzet.com/images_tc/2020/10/map03lite-1551x1200.jpg)
 
-![OSM new style](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/map03OSMnew-1547x1200.jpg)
+![OSM new style](https://tcrouzet.com/images_tc/2020/10/map03OSMnew-1547x1200.jpg)
 
 La carte IGN de la France est beaucoup trop détaillée pour un minuscule écran de GPS (image 2). Elle est mieux au chaud sur mon téléphone. La carte [Openfietsmap Lite](http://garmin.openstreetmap.nl/) reste trop colorée (image 3). Je lui préfère [la version *new style*](http://garmin.openstreetmap.nl/), à la frontière du monochrome (image 4). Reste à voir le rendu sur le 530.
 
-![Comparaison des rendus](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/530.png)
+![Comparaison des rendus](https://tcrouzet.com/images_tc/2020/10/530.png)
 
 En bord d'étang, la carte Garmin passe, mais parfois elle mange la trace (capture 1). J'aime moins les versions Lite de l'OSM (capture 1 et 2), mais la version new style est plus agréable (capture 4), c'est elle qui met le mieux en évidence la trace, tout en montrant les chemins qui se présentent, ce qui permet souvent d'éviter des erreurs. C'est sans doute une question de goût, et d'usage, j'en conviens. Mais pour aboutir à un tel rendu, j'ai pas mal transpiré.
 

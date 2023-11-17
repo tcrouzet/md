@@ -18,11 +18,11 @@ J’ai consulté un psy durant ma déconnexion, une expérience peu saillante, q
 
 Quand j’écris, je ne pense plus que j’écris, à pourquoi j’écris, j’écris, c’est tout, et c’est ainsi que ça devrait être. Je parle d’écriture quand je suis en crise littéraire, pas quand je suis dans la littérature. [Petit écho à la lettre apériodique de Philippe Castelneau.](https://castelneau.substack.com/p/rien-que-du-bruit-33)
 
-![Campagne à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_1729.jpeg)
+![Campagne à vélo](https://tcrouzet.com/images_tc/2020/08/IMG_1729.jpeg)
 
-![Campagne à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_1732.jpeg)
+![Campagne à vélo](https://tcrouzet.com/images_tc/2020/08/IMG_1732.jpeg)
 
-![Bleu de l'été](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_1746.jpeg)
+![Bleu de l'été](https://tcrouzet.com/images_tc/2020/08/IMG_1746.jpeg)
 
 ### Dimanche 5, Balaruc
 
@@ -32,19 +32,19 @@ Relire mon journal me fait du bien et m’encourage à persévérer dans l’exe
 
 Enfant mon grand-père paternel m’a fait découvrir notre presqu’île, un grand-oncle m’a initié au vélo et à la mécanique, mon oncle à la peinture et à l’art, l’électricien du coin à l’électronique… Et votre père ? me demande ma psy. Il a été absent de mon éducation et en même temps hyper présent, sinon je n’aurais pas écrit sur lui. Il m’a sans doute initié à la vie, à sa philosophie de vie, une philosophie peut-être trop égoïste. Mais en quoi savoir cela, mettre des mots sur le passé, peut m’aider à devenir un homme meilleur ? Ma psy émet des interprétations sur tel ou tel fait de ma vie. Je lui réponds : oui, peut-être, mais d’autres explications pourraient convenir. Il n’existe pas de vérité, toute histoire est à interpréter.
 
-![L'été](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/P1110126.jpeg)
+![L'été](https://tcrouzet.com/images_tc/2020/08/P1110126.jpeg)
 
 ### Lundi 6, Balaruc
 
 Nuit de mal au ventre, de douleur, de pas de repos, nuit venteuse, d’abord brûlante, puis plus respirante, mais nuit bruyante de bourrasques au dehors et au dedans, sous une lune claire, un étang irisé et les lueurs de la ville au loin où j’attrape le passage d’un train de voyageurs, un filament vermiforme au pied de la montagne. Et maintenant, je dois plonger dans la peau de Didier, écrire en son nom, à sa place, comme si j’étais lui.
 
-![Aumes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_1758.jpeg)
+![Aumes](https://tcrouzet.com/images_tc/2020/08/IMG_1758.jpeg)
 
 ### Mardi 8, Balaruc
 
-![Bleu plus bleu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_1766.jpeg)
+![Bleu plus bleu](https://tcrouzet.com/images_tc/2020/08/IMG_1766.jpeg)
 
-![Train train](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_1768.jpeg)
+![Train train](https://tcrouzet.com/images_tc/2020/08/IMG_1768.jpeg)
 
 ### Jeudi 9, Balaruc
 
@@ -68,33 +68,33 @@ Nous avons deux offres pour le livre en ghostwriter, aucune de petits éditeurs 
 
 Quand j’étais enfant, mon père aimait nous amener au sommet du mont Saint-Baudille, dernier contrefort des Cévennes. Ce matin, nous y sommes allés à vélo.
 
-![Depuis le pic](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_1807.jpeg)
+![Depuis le pic](https://tcrouzet.com/images_tc/2020/08/IMG_1807.jpeg)
 
 ### Mardi 14, Balaruc
 
 *The Signal* : je tombe hier soir au hasard sur ce film, un petit chef-d’œuvre d’histoire réticulaire, structuré à la perfection pour un cerveau tordu comme le mien, assez proche de ma nouvelle [*La femme qui semait des livres*](https://ours-editions.kkaoss.net/produit/la-femme-qui-semait-des-livres/), publiée aujourd’hui par L'Ours pour la modique somme de 2 €.
 
-![La femme qui semait des livres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/La_femme_qui_semait_des_livres_01.jpg)
+![La femme qui semait des livres](https://tcrouzet.com/images_tc/2020/08/La_femme_qui_semait_des_livres_01.jpg)
 
 ### Jeudi 16, Balaruc
 
 Je prends conscience peu avant minuit de la date, l’anniversaire de la naissance de mon père. Il aurait eu aujourd’hui 84 ans, un âge respectacle, mais pas indécent.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_1886.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2020/08/IMG_1886.jpeg)
 
 Samedi 18, Balaruc
 
-![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/P1110132.jpeg)
+![Matin](https://tcrouzet.com/images_tc/2020/08/P1110132.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_1899.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2020/08/IMG_1899.jpeg)
 
-![L'Hérault](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_1901-1.jpeg)
+![L'Hérault](https://tcrouzet.com/images_tc/2020/08/IMG_1901-1.jpeg)
 
 ### Dimanche 19, Balaruc
 
 Quand je rentre de pédaler, les enfants m’ont préparé un repas pour fêter avec deux jours d’avance mon anniversaire. Petits moments de bonheur avant la sieste, où nous filons tous, après avoir trop mangé.
 
-![Walter le matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/P1110139.jpeg)
+![Walter le matin](https://tcrouzet.com/images_tc/2020/08/P1110139.jpeg)
 
 ### Lundi 20, Balaruc
 
@@ -110,19 +110,19 @@ Ma psy me dit que je travaille trop, que je fuis quelque chose. Quand je lui dis
 
 J’écris jusqu’à en perdre le sommeil. Je n’ai aucun recul, presque pas le temps de me relire, je cavale et les choses continuent de tomber d’elles-mêmes, mais avec un travail documentaire incessant, alors même que j’ai suivi au jour le jour la crise covid. Est-ce que le texte rendra ce moment si particulier de notre histoire ?
 
-![Bonance](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/P1110150.jpeg)
+![Bonance](https://tcrouzet.com/images_tc/2020/08/P1110150.jpeg)
 
 ### Jeudi 23, Balaruc
 
 Je me prépare mon bol de céréales-fruits du matin et France Info balance de l’accordéon, style musette, à la mode au début des années soixante et qui chaque fois que je l’entends me hérisse le poil, et c’est depuis toujours, va savoir pourquoi je suis allergique à cette musique, elle me fait mal, me donne la gerbe, je ne connais rien de pire, même le disco. Peut-être son côté rétrograde, passéiste.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/P1110151.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2020/08/P1110151.jpeg)
 
 ### Samedi 25, Balaruc
 
-![Passerelles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_1985.jpeg)
+![Passerelles](https://tcrouzet.com/images_tc/2020/08/IMG_1985.jpeg)
 
-![Patrick](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_2013.jpeg)
+![Patrick](https://tcrouzet.com/images_tc/2020/08/IMG_2013.jpeg)
 
 ### Mercredi 29, Balaruc
 

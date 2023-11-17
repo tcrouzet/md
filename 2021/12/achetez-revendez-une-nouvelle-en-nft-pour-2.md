@@ -11,7 +11,7 @@ L’idée : un lecteur l’achète et la remet en vente immédiatement après l
 
 Problème, les frais de transaction sont trente fois plus élevés que le prix de vente, ce qui la rend impossible. J'ai donc découvert une autre blockchain, Elrond, où rendre la vente est possible ([explications dans un autre billet](https://tcrouzet.com/2022/01/04/la-croix-et-la-galere-pour-vendre-un-texte-en-nft/)).
 
-![La Chute version HD](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/isangard2.jpg)
+![La Chute version HD](https://tcrouzet.com/images_tc/2022/01/isangard2.jpg)
 
 ### La chute
 

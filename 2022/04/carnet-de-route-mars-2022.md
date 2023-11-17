@@ -18,9 +18,9 @@ Je consacre tant d’heures à lire sur la guerre en Ukraine que je me dis que j
 
 [J'écris en mémoire de Perec](https://tcrouzet.com/2022/03/03/tentative-depuisement-dun-lieu-setois/). Je lui dois beaucoup, peut-être trop.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6203.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2022/04/IMG_6203.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6209.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2022/04/IMG_6209.jpeg)
 
 ### Vendredi 4, Balaruc
 
@@ -32,13 +32,13 @@ Depuis quelques jours, j’ai attaqué le classique *The Power of Myth* de Josep
 
 Je veux écrire un roman sur cette perte, sur le fait que les histoires n'ont pas été transmises de mon père à moi, encore moins de moi à mes enfants, parce que je n’en connais que des bribes inutiles. « We tell stories to try to come to terms with the world, to harmonize our lives with reality. » Nous autres écrivains avons pour mission de réinventer des histoires.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6236.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/04/IMG_6236.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6239.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/04/IMG_6239.jpeg)
 
 ### Samedi 5, Balaruc
 
-![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6245.jpeg)
+![Bellevue](https://tcrouzet.com/images_tc/2022/04/IMG_6245.jpeg)
 
 ### Dimanche 6, Balaruc
 
@@ -62,11 +62,11 @@ Dans *Le guide du scénariste*, inspiré de Campbell, je lis : « C’est amus
 
 ### Dimanche 13, Balaruc
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6267.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/04/IMG_6267.jpeg)
 
 ### Lundi 14, Balaruc
 
-![Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6289.jpeg)
+![Agde](https://tcrouzet.com/images_tc/2022/04/IMG_6289.jpeg)
 
 ### Mercredi 16, Balaruc
 
@@ -76,9 +76,9 @@ J’écris d’après mon père, contre lui et avec lui, et le sujet se généra
 
 Sur un coup de tête, malgré la grisaille, Gilbert et moi partons explorer l’ouest du département. Verdure éclaboussante sous une humidité galopante, plaques de calcaire transformées en patinoires, chemins noyés, mais du bonheur dans la solitude naturelle.
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6299-1.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2022/04/IMG_6299-1.jpeg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6324-1.jpeg)
+![À vélo](https://tcrouzet.com/images_tc/2022/04/IMG_6324-1.jpeg)
 
 ### Vendredi 18, Balaruc
 
@@ -100,13 +100,13 @@ Depuis une dizaine de jours, nous n’avons pas vu le soleil. Nous le sentons au
 
 Un souvenir me revient, quand nous jouions au *martelet*. Nous tapions à toutes les portes d’une rue et nous enfuyons en riant. Parfois nous entrions dans des immeubles, c’était plus effrayant, comme si nous affrontions des montres. Depuis quand les enfants ont-ils perdu cette habitude ? Peut-être depuis que les gens sont si tendus qu’ils sont capables de leur tirer dessus.
 
-![Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6333.jpeg)
+![Agde](https://tcrouzet.com/images_tc/2022/04/IMG_6333.jpeg)
 
-![Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6335.jpeg)
+![Agde](https://tcrouzet.com/images_tc/2022/04/IMG_6335.jpeg)
 
-![Grau d'Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6343.jpeg)
+![Grau d'Agde](https://tcrouzet.com/images_tc/2022/04/IMG_6343.jpeg)
 
-![Grau d'Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6356.jpeg)
+![Grau d'Agde](https://tcrouzet.com/images_tc/2022/04/IMG_6356.jpeg)
 
 ### Dimanche 20, Balaruc
 
@@ -120,7 +120,7 @@ Virginia : « La seule vie qui soit passionnante est la vie imaginaire. » El
 
 Je lis peu les vivants. Je préfère les morts qui ont survécu. Je perds moins de temps avec eux. Mais parfois je me laisse séduire par les sirènes contemporaines. [Jérôme Leroy](https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Leroy_(%C3%A9crivain)), par exemple, peut-être parce que j’aime l’homme, sa gentillesse, sa culture, ses anecdotes, son style aussi, surtout, minimaliste sans être sec, en digne successeur de Manchette. J’avais lu *Le Bloc*, une plongée dans l’extrême droite, son nouveau roman, *Les derniers jours des fauves*, m’a fait toucher du doigt les psychopathes au pouvoir, de tous bords, obsédés par eux-mêmes et leur propre réussite plus que par des idées politiques. Une immersion dans des cerveaux malades. Dès les premières lignes, le ton est donné : la Présidente baise et en même temps se remémore son parcours politique. Invraisemblable ? Pour un humain sain d’esprit oui, mais pas pour ce genre d’animal politique. Alors on saute à un autre, tout aussi dingue, et on se dit que même le plus normal finira par succomber, parce que sa présence dans le jeu le qualifie comme psychopathe. *Les derniers jours des fauves* est un roman sur la psychologie du pouvoir, sur ce qu’il faut d’inhumanité pour briguer le pouvoir. C’est aussi une fiction palpitante qui donne à voir ces cerveaux déviants au travail et se corrompre les uns les autres pour que finalement leur intelligence incontestable se heurte au principe de complexité, à l’ingouvernabilité des sociétés modernes, sauf à la réprimer par la force pour tenter de les simplifier et de les reprendre en main. Jérôme montre à quel point nos libertés sont en danger tant que nous continuerons à vivre sous le joug des structures pyramidales, avec des chefs élus ou pas, que le pouvoir peut à tout moment enivrer. Un roman comme une démonstration d’une impossibilité politique dont plus personne ne doute. Nous avons beaucoup écrit sur cette impossibilité et elle ne cesse de se répéter, comme s’il n’y avait pas d’autres solutions. Alors les guerres intérieures et extérieures se perpétueront. Je me suis évertué durant des années à réfléchir à d’autres modèles, à publier des livres, des articles, mais en tant qu’espèce nous n’en voulons pas, comme si nous étions condamnés au tragique. Pour ma part, je suis aussi couillon que les psychopathes politiques : la complexité de notre connerie m’a terrassé. Dans quelques semaines, nous retournerons voter pour éviter le pire, et ce sera déjà catastrophique.
 
-![Castries](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6374.jpeg)
+![Castries](https://tcrouzet.com/images_tc/2022/04/IMG_6374.jpeg)
 
 ### Mercredi 23, Balaruc
 
@@ -160,7 +160,7 @@ J’écris pour voir le monde, pour écarquiller les yeux sur son énormité, et
 
 Je ne comprends pas les auteurs de genre. Être dans un genre n’est-ce pas faire ce que le genre veut ? Ou est-ce en accepter la contrainte et jouer avec ?
 
-![Cournonterral](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/IMG_6446.jpeg)
+![Cournonterral](https://tcrouzet.com/images_tc/2022/04/IMG_6446.jpeg)
 
 ### Dimanche 27, Balaruc
 
@@ -174,7 +174,7 @@ J’appelais mon roman en cours *Délit de vérité* et cette nuit m’est venu 
 
 Je commence ma journée à la décharge et croise l’ancien pharmacien. Nous parlons d’un ami commun dont le père perd la boule. Il me dit « Il y avait chez lui des prémices de la folie. Il racontait toujours des histoires… » Moi : « Mon père n’était pas en reste. » Lui : « Purée, oui. Mon père me disait que c’était le plus gros menteur du village, mais l’air de rien. » Voilà une scène qui finira dans *Quelques atomes de vérité*.
 
-![Devant la maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/04/P1120087.jpeg)
+![Devant la maison](https://tcrouzet.com/images_tc/2022/04/P1120087.jpeg)
 
 ### Jeudi 31, Balaruc
 

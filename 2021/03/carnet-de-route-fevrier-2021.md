@@ -6,7 +6,7 @@
 
 Quand j’écrivais [*Ératosthène*](https://tcrouzet.com/eratosthene/) et forgeais ma conception du généralisme, j’avais en mémoire un roman de Van Vogt lu dans ma jeunesse, où il était question de la même idée, sans réussir à en retrouver le titre. Après avoir lu [le chapitre 8 de mon autobiographie littéraire](https://tcrouzet.com/2021/01/31/histoire-dun-nerdeux-en-litterature-8/), Michel Torres me demande si le lien avec [le nexialisme](https://fr.wikipedia.org/wiki/La_Faune_de_l%27espace#Le_Nexialisme) est voulu, la science inventée par Van Vogt dans *La faune de l’espace*. J’aime ces imprévus provoqués par les mots.<span id="more-58030"></span>
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/10.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2021/03/10.jpeg)
 
 ### Mardi 2, Balaruc
 
@@ -60,7 +60,7 @@ Si un jour je produis une œuvre stupéfiante, je le devrais à un coup de chanc
 
 Je commence sans canevas, sans concordat avec mon futur lecteur, nous devons tout apprendre ensemble, travailler ensemble, connaître au même moment la jouissance de la découverte. Nous serons quelque temps des compagnons de route. J’écris comme je pédale, pour partager des moments.
 
-![Pic Saint Lou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/175.jpeg)
+![Pic Saint Lou](https://tcrouzet.com/images_tc/2021/03/175.jpeg)
 
 ### Lundi 8, Balaruc
 
@@ -70,7 +70,7 @@ Je commence sans canevas, sans concordat avec mon futur lecteur, nous devons tou
 
 Un critique ne parle de la magnificence d’un style qu'en référence à un autre de déjà connu.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/179.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2021/03/179.jpeg)
 
 ### Mardi 9, Balaruc
 
@@ -96,13 +96,13 @@ L’atelier ne devrait jamais être caché. Il n’y a pas pire mensonge que fai
 
 Facebook me révèle la crasse bêtise de certains commentateurs, passant à côté d’un texte, révélant leur totale incompréhension, et donc leur bêtise, sans même s’en apercevoir, et attirant comme des mouches d’autres imbéciles. Phénomène dont l’observation n’en finit pas de me fasciner.
 
-![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7627.jpeg)
+![Matin](https://tcrouzet.com/images_tc/2021/03/IMG_7627.jpeg)
 
 ### Jeudi 11, Balaruc
 
-![Sérignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7655-1.jpeg)
+![Sérignan](https://tcrouzet.com/images_tc/2021/03/IMG_7655-1.jpeg)
 
-![Sérignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7675.jpeg)
+![Sérignan](https://tcrouzet.com/images_tc/2021/03/IMG_7675.jpeg)
 
 ### Vendredi 12, Balaruc
 
@@ -154,15 +154,15 @@ Journée printanière à ne pas rater, d’autant que la grisaille doucereuse l�
 
 Mais dans un bois épais, sillonné de sentes, des chasseurs abrutis ont piégé les passages de branches et de pierres pour nous compliquer le pédalage et nous détourner de ce secteur, qu’ils voudraient se réserver pour eux-mêmes. Cette ultraminorité dangereuse voudrait interdire la nature à la foule des promeneurs. Et nos préfets leur accordent des prérogatives inexplicables. Leur activité ne devrait plus être autorisée que dans des propriétés privées, dûment clôturées pour que d’innocents touristes ne viennent pas s’y faire occire.
 
-![Vendres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7707.jpeg)
+![Vendres](https://tcrouzet.com/images_tc/2021/03/IMG_7707.jpeg)
 
-![Vendres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7725.jpeg)
+![Vendres](https://tcrouzet.com/images_tc/2021/03/IMG_7725.jpeg)
 
-![Nissan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7745.jpeg)
+![Nissan](https://tcrouzet.com/images_tc/2021/03/IMG_7745.jpeg)
 
-![Nissan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7750.jpeg)
+![Nissan](https://tcrouzet.com/images_tc/2021/03/IMG_7750.jpeg)
 
-![Lespignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7792.jpeg)
+![Lespignan](https://tcrouzet.com/images_tc/2021/03/IMG_7792.jpeg)
 
 ### Vendredi 19, Balaruc
 
@@ -186,7 +186,7 @@ Je n’écrirais pas si je pensais qu’il ne pouvait y avoir un art puissant au
 
 ### Dimanche 21, Balaruc
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7918.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2021/03/IMG_7918.jpeg)
 
 ### Mardi 23, Balaruc
 
@@ -210,7 +210,7 @@ J’oublie ce que j’écris aussi vite que je l’écris, et ce que je lis pres
 
 Gracq parle d’un auteur jadis célèbre et depuis oublié qui « a cheminé à travers son époque sans rien y accrocher de ce qui nous semble aujourd’hui en faire la réalité et l’éclat… ». Pouvons-nous savoir si nous entrons en résonance ? Je voudrais le croire même si mes résonances, par exemple le jeu de rôle ou la littérature numérique, n’ont jamais bouleversé les foules, mais peut-être elles bouleverseront l’avenir, sinon pourquoi auraient-elles tant d’importance pour moi, pourquoi je ressentirais tant de force en elles alors même que d’autres lumières me profiteraient davantage ?
 
-![Saint-Pons-de-Mauchien](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7946.jpeg)
+![Saint-Pons-de-Mauchien](https://tcrouzet.com/images_tc/2021/03/IMG_7946.jpeg)
 
 ### Jeudi 25, Balaruc
 
@@ -218,27 +218,27 @@ Je n’écris que pour vivre, même quand j’écris ma vie.
 
 ### Vendredi 25, Balaruc
 
-![Minervois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/0IMG_7965.jpeg)
+![Minervois](https://tcrouzet.com/images_tc/2021/02/0IMG_7965.jpeg)
 
-![Minervois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/0IMG_7969.jpeg)
+![Minervois](https://tcrouzet.com/images_tc/2021/02/0IMG_7969.jpeg)
 
-![Minervois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/0IMG_7988.jpeg)
+![Minervois](https://tcrouzet.com/images_tc/2021/02/0IMG_7988.jpeg)
 
-![Siran](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7978.jpeg)
+![Siran](https://tcrouzet.com/images_tc/2021/03/IMG_7978.jpeg)
 
-![Siran](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_8034.jpeg)
+![Siran](https://tcrouzet.com/images_tc/2021/03/IMG_8034.jpeg)
 
 ### Samedi 27, Balaruc
 
-![Pic Saint-Lou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_8040.jpeg)
+![Pic Saint-Lou](https://tcrouzet.com/images_tc/2021/03/IMG_8040.jpeg)
 
-![Saint-Bauzille-de-Montmel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_8046.jpeg)
+![Saint-Bauzille-de-Montmel](https://tcrouzet.com/images_tc/2021/03/IMG_8046.jpeg)
 
 ### Dimanche 28, Balaruc
 
 Par le passé, j’assujettissais ma vie à l’écriture. Désormais, quand on m’offre une longue balade à vélo, j’hésite, puis je cède à l’idée de passer une journée en extérieur, parce que peut-être elle sera le sujet d’une écriture dictée par la nature et la lumière. Se pose le dilemme pour demain. Je suis au bord de terminer mon autobiographie et je repousse le moment, comme si ce texte me condamnait ensuite à pénétrer dans l’inconnu, à passer après moi-même.
 
-![Pluie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_8057.jpeg)
+![Pluie](https://tcrouzet.com/images_tc/2021/03/IMG_8057.jpeg)
 
 
 

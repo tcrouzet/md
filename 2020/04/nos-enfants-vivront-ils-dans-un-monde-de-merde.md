@@ -22,7 +22,7 @@ Quoi faire par la suite ? Les juger ? Les punir ? Ne pas voter pour eux, et v
 
 Je suis frustré, dégoûté devant le gâchis qui m’est donné en spectacle. Ça me plombe le moral. Il ne s’agit pas de refaire l’histoire, mais de relever au quotidien tout ce qui devrait être fait et ne l’est pas. Chaque fois que le gouvernement a été mis devant le fait accompli, il n’a rien changé, il a même souvent nié, s’obstinant dans l’erreur.
 
-![L'injonction paradoxale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/fbparadoxe.jpg)
+![L'injonction paradoxale](https://tcrouzet.com/images_tc/2020/04/fbparadoxe.jpg)
 
 Les exemples ne manquent pas. Le confinement unilatéral pour toute la France alors que les départements étaient diversement touchés. Les mêmes mesures pour les grandes villes et les campagnes. L’interdiction du sport en solitaire hors d’un cercle d’un kilomètre alors que le sport est de l’avis de tous les experts essentiels à la santé d’une population. L’interdiction des voies vertes, des parcs, des plages, des forêts, des montagnes… Le choix de l’autorité contre celui de l’éducation, si bien que nous nous déconfinerons sans ne rien avoir appris. L’incapacité à mobiliser les industriels français pour répondre à l’urgence sanitaire. L’incapacité à admettre ses erreurs et les corriger. L’incapacité à responsabiliser au prétexte que là-haut on serait responsable et qu’on aurait toujours raison. Croire qu'être responsable se limite à obéir alors que souvent la désobéissance s'impose. Faire encore confiance à une économie mondiale en panne pour l’approvisionnement de masques et de tests.
 

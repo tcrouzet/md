@@ -10,7 +10,7 @@ Après avoir lu la lettre de Philippe, je suis sorti me promener. L’après-mid
 
 Je n’avais pas fait deux cent mètres que je croise un voisin que je n’ai pas vu depuis au moins un an. Il promène son chien. Il me dit qu’il n’a jamais autant travaillé. Son boulot : il cherche des décors pour les films et les séries, et notre région a une cote délirante. Il me dit qu’il a écrit un scénario SF pour une série. Je lui raconte que le mécanisme narratif de [*One Minute*](https://tcrouzet.com/une-minute/) pourrait être adapté en série. On se promet de regarder l’affaire de plus près, dès la sortie du roman. Je finis par comprendre qu’il a déménagé après sa séparation et qu’il ne revient dans le voisinage que pour promener son chien.
 
-![Les canards](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3615.jpeg)
+![Les canards](https://tcrouzet.com/images_tc/2021/10/IMG_3615.jpeg)
 
 Un peu plus loin, l’étang se teinte d’orange. Pas un souffle, une candeur indolente, d’autant plus vive que nous sentons au bord de l’hiver. Sur la rive nord, je croise un autre voisin, lui aussi en vadrouille avec son chien. Il me dit qu’il a vendu son vélo électrique parce que pédaler lui aurait provoqué trois phlébites. Mais le vélo lui manque. Je lui propose de l’aider à optimiser ses réglages au cas où il replonge.
 
@@ -30,7 +30,7 @@ Voilà aussi pourquoi je n’aime pas les évènements où s’élancent des cyc
 
 Je fais du vélo pour fuir l’inondation, pour ne pas y participer, pour jouir du monde, l’aimer davantage, le respecter, le raconter, pour donner peut-être à d’autres le désir de partager ma philosophie. Le vélo n’est en lui-même ni bon ni mauvais, c’est à nous d’en faire un outil en accord avec nos valeurs.
 
-![Pêcheurs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3625.jpeg)
+![Pêcheurs](https://tcrouzet.com/images_tc/2021/10/IMG_3625.jpeg)
 
 
 

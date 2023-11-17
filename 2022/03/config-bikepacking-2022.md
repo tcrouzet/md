@@ -8,9 +8,9 @@ Configuration type pour un [727](/727tour/). Début avril dans l'Hérault, on pe
 
 ### Juillet 2022
 
-![Pilotage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_7787.jpeg)
+![Pilotage](https://tcrouzet.com/images_tc/2022/03/IMG_7787.jpeg)
 
-![Sac de selle Lucy Rujdan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_7785.jpeg)
+![Sac de selle Lucy Rujdan](https://tcrouzet.com/images_tc/2022/03/IMG_7785.jpeg)
 
 Configuration estivale pour un [P27](https://tcrouzet.com/p27/) qui s'annonce ensoleillé et sec. J'évite la tente et me contente d'un bivy sans tarp. J'aime de plus en plus dormir à la belle étoile et apprécie la rapidité de mise en œuvre du bivy. En cas d'orage ou de forte humidité, nous rechercherons des abris.
 
@@ -26,7 +26,7 @@ Fail : J'ai tenté un câble [USB-C avec trois têtes](https://www.amazon.fr/gp
 
 ### Avril 2022
 
-![Epic Hardtail, avril 2022](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6462.jpeg)
+![Epic Hardtail, avril 2022](https://tcrouzet.com/images_tc/2022/03/IMG_6462.jpeg)
 
 À la veille du départ de l’[i727](https://tcrouzet.com/i727), je termine de préparer mon VTT pour ce raid exigeant et technique, de 500 km et pas loin de 9000 mètres de dénivelé, avec une météo qui s’annonce hivernale. Pas de révolution dans ma configuration, mais quelques améliorations.
 

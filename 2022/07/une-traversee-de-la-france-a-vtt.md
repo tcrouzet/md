@@ -4,7 +4,7 @@ Le voyage appelle le voyage. En juillet 2021, [alors que je montais à Paris dep
 
 [Trace mise à jour après le voyage et infos diverses…](https://tcrouzet.com/p27/)
 
-![Trace du P27](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/p27map.jpg)
+![Trace du P27](https://tcrouzet.com/images_tc/2022/07/p27map.jpg)
 
 ### Lundi 4 juillet
 
@@ -34,27 +34,27 @@ Nous longeons des cours d’eau, des lacs, nous arrêtons à Courville-sur-Eure 
 
 [Nous avons parcouru 150 km, escaladé 1 200 m.](https://www.strava.com/activities/7421198467)
 
-![Après le premier bivouac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7824.jpeg)
+![Après le premier bivouac](https://tcrouzet.com/images_tc/2022/07/IMG_7824.jpeg)
 
-![Vallée de l'Eure](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7830.jpeg)
+![Vallée de l'Eure](https://tcrouzet.com/images_tc/2022/07/IMG_7830.jpeg)
 
-![Vallée de l'Eure](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7835.jpeg)
+![Vallée de l'Eure](https://tcrouzet.com/images_tc/2022/07/IMG_7835.jpeg)
 
-![Vallée de l'Eure](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7837.jpeg)
+![Vallée de l'Eure](https://tcrouzet.com/images_tc/2022/07/IMG_7837.jpeg)
 
-![Chartres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7844.jpeg)
+![Chartres](https://tcrouzet.com/images_tc/2022/07/IMG_7844.jpeg)
 
-![Chartres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7846.jpeg)
+![Chartres](https://tcrouzet.com/images_tc/2022/07/IMG_7846.jpeg)
 
-![Chartres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7852.jpeg)
+![Chartres](https://tcrouzet.com/images_tc/2022/07/IMG_7852.jpeg)
 
-![Beauce](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7855.jpeg)
+![Beauce](https://tcrouzet.com/images_tc/2022/07/IMG_7855.jpeg)
 
-![Beauce](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7868.jpeg)
+![Beauce](https://tcrouzet.com/images_tc/2022/07/IMG_7868.jpeg)
 
-![Beauce](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7874.jpeg)
+![Beauce](https://tcrouzet.com/images_tc/2022/07/IMG_7874.jpeg)
 
-![Perche](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7896.jpeg)
+![Perche](https://tcrouzet.com/images_tc/2022/07/IMG_7896.jpeg)
 
 ### Mercredi 6 juillet
 
@@ -70,25 +70,25 @@ Nous suivons un moment le cours de La Brenne, empruntons une ancienne voie ferr�
 
 [Nous avons parcouru 117 km, escaladé près de 1 400 m.](https://www.strava.com/activities/7426016731)
 
-![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7904.jpeg)
+![](https://tcrouzet.com/images_tc/2022/07/IMG_7904.jpeg)
 
-![Entre forêts et champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7907.jpeg)
+![Entre forêts et champs](https://tcrouzet.com/images_tc/2022/07/IMG_7907.jpeg)
 
-![Entre forêts et champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7909.jpeg)
+![Entre forêts et champs](https://tcrouzet.com/images_tc/2022/07/IMG_7909.jpeg)
 
-![Entre forêts et champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7911.jpeg)
+![Entre forêts et champs](https://tcrouzet.com/images_tc/2022/07/IMG_7911.jpeg)
 
-![Entre forêts et champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7914.jpeg)
+![Entre forêts et champs](https://tcrouzet.com/images_tc/2022/07/IMG_7914.jpeg)
 
-![Entre forêts et champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7919.jpeg)
+![Entre forêts et champs](https://tcrouzet.com/images_tc/2022/07/IMG_7919.jpeg)
 
-![Entre forêts et champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7924.jpeg)
+![Entre forêts et champs](https://tcrouzet.com/images_tc/2022/07/IMG_7924.jpeg)
 
-![Entre forêts et champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7927.jpeg)
+![Entre forêts et champs](https://tcrouzet.com/images_tc/2022/07/IMG_7927.jpeg)
 
-![Entre forêts et champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7931.jpeg)
+![Entre forêts et champs](https://tcrouzet.com/images_tc/2022/07/IMG_7931.jpeg)
 
-![Entre forêts et champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7941.jpeg)
+![Entre forêts et champs](https://tcrouzet.com/images_tc/2022/07/IMG_7941.jpeg)
 
 ### Jeudi 7 juillet
 
@@ -104,37 +104,37 @@ Pendant que Logane s’en va récupérer ses nouveaux pneus, nous nous installon
 
 [Nous avons parcouru 120 km, escaladé près de 1 300 m.](https://www.strava.com/activities/7431623550)
 
-![Dans les champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7947.jpeg)
+![Dans les champs](https://tcrouzet.com/images_tc/2022/07/IMG_7947.jpeg)
 
-![Amboise](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7948.jpeg)
+![Amboise](https://tcrouzet.com/images_tc/2022/07/IMG_7948.jpeg)
 
-![Amboise](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7954.jpeg)
+![Amboise](https://tcrouzet.com/images_tc/2022/07/IMG_7954.jpeg)
 
-![Forêt d'Amboise](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7961.jpeg)
+![Forêt d'Amboise](https://tcrouzet.com/images_tc/2022/07/IMG_7961.jpeg)
 
-![Chenonceau](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7964.jpeg)
+![Chenonceau](https://tcrouzet.com/images_tc/2022/07/IMG_7964.jpeg)
 
-![Chenonceau](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7965.jpeg)
+![Chenonceau](https://tcrouzet.com/images_tc/2022/07/IMG_7965.jpeg)
 
-![Chenonceau](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7973.jpeg)
+![Chenonceau](https://tcrouzet.com/images_tc/2022/07/IMG_7973.jpeg)
 
-![Montrésor](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7985.jpeg)
+![Montrésor](https://tcrouzet.com/images_tc/2022/07/IMG_7985.jpeg)
 
-![Montrésor](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7987.jpeg)
+![Montrésor](https://tcrouzet.com/images_tc/2022/07/IMG_7987.jpeg)
 
-![Dans les champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7989.jpeg)
+![Dans les champs](https://tcrouzet.com/images_tc/2022/07/IMG_7989.jpeg)
 
-![Dans les champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7995.jpeg)
+![Dans les champs](https://tcrouzet.com/images_tc/2022/07/IMG_7995.jpeg)
 
-![Dans les champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7997.jpeg)
+![Dans les champs](https://tcrouzet.com/images_tc/2022/07/IMG_7997.jpeg)
 
-![Dans les champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7998.jpeg)
+![Dans les champs](https://tcrouzet.com/images_tc/2022/07/IMG_7998.jpeg)
 
-![Dans les champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8002.jpeg)
+![Dans les champs](https://tcrouzet.com/images_tc/2022/07/IMG_8002.jpeg)
 
-![Dans les champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8004.jpeg)
+![Dans les champs](https://tcrouzet.com/images_tc/2022/07/IMG_8004.jpeg)
 
-![Dans les champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8009.jpeg)
+![Dans les champs](https://tcrouzet.com/images_tc/2022/07/IMG_8009.jpeg)
 
 ### Vendredi 8 juillet
 
@@ -152,33 +152,33 @@ Pendant que Jacques s’en va dîner au restaurant voisin, je discute avec un cy
 
 [Nous avons parcouru 121 km et escaladé 1 325 m.](https://www.strava.com/activities/7442209787)
 
-![Dans les champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8015.jpeg)
+![Dans les champs](https://tcrouzet.com/images_tc/2022/07/IMG_8015.jpeg)
 
-![Dans les champs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8019.jpeg)
+![Dans les champs](https://tcrouzet.com/images_tc/2022/07/IMG_8019.jpeg)
 
-![La Brenne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8024.jpeg)
+![La Brenne](https://tcrouzet.com/images_tc/2022/07/IMG_8024.jpeg)
 
-![La Brenne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8030.jpeg)
+![La Brenne](https://tcrouzet.com/images_tc/2022/07/IMG_8030.jpeg)
 
-![La Brenne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8040.jpeg)
+![La Brenne](https://tcrouzet.com/images_tc/2022/07/IMG_8040.jpeg)
 
-![La Brenne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8043.jpeg)
+![La Brenne](https://tcrouzet.com/images_tc/2022/07/IMG_8043.jpeg)
 
-![La Brenne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8047.jpeg)
+![La Brenne](https://tcrouzet.com/images_tc/2022/07/IMG_8047.jpeg)
 
-![Saint-Gaultier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8054.jpeg)
+![Saint-Gaultier](https://tcrouzet.com/images_tc/2022/07/IMG_8054.jpeg)
 
-![Saint-Gaultier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8058.jpeg)
+![Saint-Gaultier](https://tcrouzet.com/images_tc/2022/07/IMG_8058.jpeg)
 
-![Dampierre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8061.jpeg)
+![Dampierre](https://tcrouzet.com/images_tc/2022/07/IMG_8061.jpeg)
 
-![Creuse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8077.jpeg)
+![Creuse](https://tcrouzet.com/images_tc/2022/07/IMG_8077.jpeg)
 
-![Creuse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8078.jpeg)
+![Creuse](https://tcrouzet.com/images_tc/2022/07/IMG_8078.jpeg)
 
-![Creuse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8103.jpeg)
+![Creuse](https://tcrouzet.com/images_tc/2022/07/IMG_8103.jpeg)
 
-![Creuse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8113.jpeg)
+![Creuse](https://tcrouzet.com/images_tc/2022/07/IMG_8113.jpeg)
 
 ### Samedi 9 juillet
 
@@ -196,17 +196,17 @@ Nous comprenons que pour beaucoup de gens notre désir de dormir à la belle ét
 
 [Nous avons parcouru 107 km, escaladé 2 192 m.](https://www.strava.com/activities/7442210754) Si le pourcentage moyen des étapes précédentes se situait autour de 1,1 %, nous avons soudain grimpé à 2,1 %. La difficulté n’était pas que dans nos têtes. Nous avons bel et bien changé de terrain.
 
-![Voie ferrée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8117.jpeg)
+![Voie ferrée](https://tcrouzet.com/images_tc/2022/07/IMG_8117.jpeg)
 
-![Après Guéret](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8118.jpeg)
+![Après Guéret](https://tcrouzet.com/images_tc/2022/07/IMG_8118.jpeg)
 
-![Après Guéret](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8120.jpeg)
+![Après Guéret](https://tcrouzet.com/images_tc/2022/07/IMG_8120.jpeg)
 
-![Après Guéret](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8128.jpeg)
+![Après Guéret](https://tcrouzet.com/images_tc/2022/07/IMG_8128.jpeg)
 
-![Après Guéret](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8131.jpeg)
+![Après Guéret](https://tcrouzet.com/images_tc/2022/07/IMG_8131.jpeg)
 
-![Après Guéret](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8134.jpeg)
+![Après Guéret](https://tcrouzet.com/images_tc/2022/07/IMG_8134.jpeg)
 
 ### Dimanche 10 juillet
 
@@ -228,21 +228,21 @@ Nous nous installons au soleil en terrasse de café, où nous discutons politiqu
 
 [Nous avons parcouru 117 km, escaladé 2 281 m.](https://www.strava.com/activities/7447960159)
 
-![Vassivière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8140.jpeg)
+![Vassivière](https://tcrouzet.com/images_tc/2022/07/IMG_8140.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8209.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8209.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8204.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8204.jpeg)
 
-![Bort-les-Orgues](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8196.jpeg)
+![Bort-les-Orgues](https://tcrouzet.com/images_tc/2022/07/IMG_8196.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8192.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8192.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8182.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8182.jpeg)
 
-![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8179.jpeg)
+![](https://tcrouzet.com/images_tc/2022/07/IMG_8179.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8153.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8153.jpeg)
 
 ### Lundi 11 juillet
 
@@ -260,61 +260,61 @@ Nous poursuivons notre effort pour gagner par un long single technique Estaing, 
 
 [Nous avons parcouru 110 km, escaladé 2129 m.](https://www.strava.com/activities/7453088822)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8219.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8219.jpeg)
 
-![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8222.jpeg)
+![](https://tcrouzet.com/images_tc/2022/07/IMG_8222.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8224.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8224.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8231.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8231.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8235.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8235.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8239.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8239.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8247.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8247.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8249.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8249.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8250.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8250.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8255.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8255.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8256.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8256.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8275.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8275.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8279.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8279.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8285.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8285.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8287.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8287.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8288.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8288.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8318.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8318.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8323.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8323.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8324.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8324.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8331.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8331.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8333.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8333.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8336.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8336.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8342.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8342.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8347.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8347.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8353.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8353.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8359.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8359.jpeg)
 
-![Le Cantal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8367.jpeg)
+![Le Cantal](https://tcrouzet.com/images_tc/2022/07/IMG_8367.jpeg)
 
-![Estaing](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8374.jpeg)
+![Estaing](https://tcrouzet.com/images_tc/2022/07/IMG_8374.jpeg)
 
 ### Mardi 12 juillet
 
@@ -326,27 +326,27 @@ Nous mangeons, nous reposons, puis attaquons l’escalade du plateau du Larzac, 
 
 [Nous avons parcouru 121 km, escaladé 2 517 m.](https://www.strava.com/activities/7458532377)
 
-![Espalion](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8383.jpeg)
+![Espalion](https://tcrouzet.com/images_tc/2022/07/IMG_8383.jpeg)
 
-![Espalion](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8376.jpeg)
+![Espalion](https://tcrouzet.com/images_tc/2022/07/IMG_8376.jpeg)
 
-![Sainte-Eulalie-d’Olt](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8390.jpeg)
+![Sainte-Eulalie-d’Olt](https://tcrouzet.com/images_tc/2022/07/IMG_8390.jpeg)
 
-![Saint-Geniez-d’Olt](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8392.jpeg)
+![Saint-Geniez-d’Olt](https://tcrouzet.com/images_tc/2022/07/IMG_8392.jpeg)
 
-![Aveyron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8402.jpeg)
+![Aveyron](https://tcrouzet.com/images_tc/2022/07/IMG_8402.jpeg)
 
-![Aveyron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8406.jpeg)
+![Aveyron](https://tcrouzet.com/images_tc/2022/07/IMG_8406.jpeg)
 
-![Aveyron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8407.jpeg)
+![Aveyron](https://tcrouzet.com/images_tc/2022/07/IMG_8407.jpeg)
 
-![Aveyron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8413.jpeg)
+![Aveyron](https://tcrouzet.com/images_tc/2022/07/IMG_8413.jpeg)
 
-![Aveyron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8425.jpeg)
+![Aveyron](https://tcrouzet.com/images_tc/2022/07/IMG_8425.jpeg)
 
-![Aveyron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8430.jpeg)
+![Aveyron](https://tcrouzet.com/images_tc/2022/07/IMG_8430.jpeg)
 
-![Larzac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8458.jpeg)
+![Larzac](https://tcrouzet.com/images_tc/2022/07/IMG_8458.jpeg)
 
 ### Mercredi 13 juillet
 
@@ -358,11 +358,11 @@ Mais la mer nous appelle. Au Caylar, nous décidons de rentrer par les petites r
 
 [Nous avons parcouru 108 km, escaladé 1 000 m environ.](https://www.strava.com/activities/7462027865)
 
-![L'étang de Thau et Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_8482.jpeg)
+![L'étang de Thau et Sète](https://tcrouzet.com/images_tc/2022/07/IMG_8482.jpeg)
 
 Au total, nous avons roulé durant 86 heures à une moyenne 13,4 km/h, soit 1 140 km pour 16 000 m grimpés, traversant quinze départements. Lors du traçage, je n’ai jamais cherché à maximiser les difficultés, mon but étant ludique et esthétique avant tout. Reste que nous en avons parfois chié, surtout à partir de Guéret. Je me revois tenter de minimiser l’asphalte, puis une fois sur le terrain espérer de l’asphalte pour soulager mes jambes et mes articulations. Je retiendrais la leçon pour les prochaines traces. Quand l’asphalte approche ou passe sous la barre des 40 %, les périples se compliquent, surtout sur les terrains montagneux du Midi.
 
-![Nos statistiques Strava](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/p27stats.png)
+![Nos statistiques Strava](https://tcrouzet.com/images_tc/2022/07/p27stats.png)
 
 *PS : Vous aurez compris, cette trace n’est pas gravel. Il me paraît d’ailleurs illusoire d’imaginer des traces gravel sans reconnaissances au préalable, ce qui pour moi élimine ce vélo pour l’ouverture de grandes traversées. Le gravel est un vélo adapté au voyage organisé, pas à l’improvisation. Ce n’est pas un vélo d’aventure. Il étend le domaine du vélo de route, sans pouvoir rivaliser avec le VTT. D’ailleurs, beaucoup de passages sur la trace, notamment à partir de Guéret, sont purement VTT et exigent de bonnes compétences techniques, bien qu’il reste toujours possible de passer à pied (ce qui est parfois recommandé avec un vélo chargé).*
 

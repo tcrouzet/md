@@ -6,11 +6,11 @@
 
 [Lecture matinale d’un article stimulant.](https://bigthink.com/surprising-science/physicist-creates-ai-algorithm-prove-reality-simulation) Un physicien a développé un algorithme à base de réseaux neureaux qui, à partir des seules données observationnelles, prédit l’avenir du système solaire, sans connaître les lois de Newton, encore moins celles d’Einstein. Il y a passage des données aux données. Pas besoin de construire une théorie comme nous le faisons depuis le XVII<sup>e</sup> siècle. C’est en soi une révolution, un changement de paradigme radical, une possibilité neuve de prévoir l’avenir des systèmes sans recourir à la modélisation, mais seulement à du code. Bien sûr, je pense aux théories de Wolfram. La computation est désormais notre meilleur outil de compréhension du monde. Son règne survient après celui des équations différentielles. J’arrête là, je pars faire du vélo sur le Larzac.<span id="more-58750"></span>
 
-![Larzac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8097.jpeg)
+![Larzac](https://tcrouzet.com/images_tc/2021/04/IMG_8097.jpeg)
 
-![Larzac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8101.jpeg)
+![Larzac](https://tcrouzet.com/images_tc/2021/04/IMG_8101.jpeg)
 
-![Navacelles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8159.jpeg)
+![Navacelles](https://tcrouzet.com/images_tc/2021/04/IMG_8159.jpeg)
 
 ### Mardi 2, Balaruc
 
@@ -24,23 +24,23 @@ Cet après-midi, j’ai relevé des rochers au bord de l’étang, planté des a
 
 [Nouvelle lecture au sujet de la modélisation de l’univers par un réseau neuronal.](https://thenextweb.com/neural/2021/03/02/new-research-indicates-the-whole-universe-could-be-a-giant-neural-network/) Si nous ne trouvons aucun phénomène qui ne peut être simulé par un tel réseau est-ce pour autant que l’univers est un réseau neuronal ? Non, plusieurs méthodes peuvent peut-être conduire aux mêmes résultats. Mais j’aime l’idée d’un univers neuronal, peut-être un cerveau parmi une infinité d’autres, tous en train de discuter. Nous n’avons cessé de nous voir de plus de plus minuscules dans l’univers, pourquoi ne pas replacer l’univers dans une étendue plus vaste. Une seule issue à ce jeu de poupée russe : à la fin, la poupée la plus grande est aussi la plus infime, le ying et le yang.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8167.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2021/04/IMG_8167.jpeg)
 
 ### Samedi 6, Balaruc
 
 J’aime le VTT et le gravel parce qu’ils me font quitter la civilisation, communier avec la nature, me débarrasser de toutes les contraintes. Certes, c’est un sport onéreux, mais je n’ai pas envie que tout soit pollué par l’argent, surtout pas le vélo d’aventure. J’aimerais qu’il garde son côté roots, collaboratif, bottum-up, tel qu’initié aux États-Unis et consacré par la Tour Divide, la traversée du pays du nord au sud. Je voudrais que cette discipline échappe au marché, qu’elle soit libre, mais elle aussi devient un business.
 
-![Villeveyrac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8192.jpeg)
+![Villeveyrac](https://tcrouzet.com/images_tc/2021/04/IMG_8192.jpeg)
 
 ### Dimanche 7, Balaruc
 
 La fonction souvenir de Facebook me renvoie une photo prise il y a 9 ans. Émile n’a pas encore cinq ans. Il arrive tout juste à la hauteur de la rambarde de mon bureau et regarde l’étang. J’en ai les trippes remuées. Les GAFAM jouent avec ma mémoire. Ils me manipulent, entrent insidieusement dans mon intimité. Je leur ai donné bien trop de droits.
 
-![Émile](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-03-07-at-11.54.51-1.jpeg)
+![Émile](https://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-03-07-at-11.54.51-1.jpeg)
 
 ### Lundi 8, Balaruc
 
-![Après la pluie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8196.jpeg)
+![Après la pluie](https://tcrouzet.com/images_tc/2021/04/IMG_8196.jpeg)
 
 ### Mardi 9, Balaruc
 
@@ -60,11 +60,11 @@ D’un bout de phrase, « le grand vent de novembre qui chassait les feuilles p
 
 J’aime ma lecture du matin, avant de réveiller les enfants, de les conduire à l’école, de me mettre au travail. Je m’applique à cette gymnastique quand je m’éveille trop tôt, plutôt que de plonger tête baissée dans mes bricolages, les mettant en suspend, pour qu’ils s’impatientent et jaillissent plus vite quand je les mets en branle.
 
-![Depuis Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8202.jpeg)
+![Depuis Agde](https://tcrouzet.com/images_tc/2021/04/IMG_8202.jpeg)
 
-![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8208.jpeg)
+![Marseillan](https://tcrouzet.com/images_tc/2021/04/IMG_8208.jpeg)
 
-![Estampe](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8214.jpeg)
+![Estampe](https://tcrouzet.com/images_tc/2021/04/IMG_8214.jpeg)
 
 ### Jeudi 11, Balaruc
 
@@ -84,7 +84,7 @@ Pourquoi ne pas créer une image très haute résolution avec tous les titres de
 
 ### Samedi 13, Balaruc
 
-![Reflets](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8219.jpeg)
+![Reflets](https://tcrouzet.com/images_tc/2021/04/IMG_8219.jpeg)
 
 ### Dimanche 14, Balaruc
 
@@ -104,13 +104,13 @@ Gracq évoque avec nostalgie les courses à vélo sur piste de demi-fonds très 
 
 Quand je n’ai pas décrit un paysage depuis quelques jours, ou un périple à travers des chemins, quand je n’ai pas versé vers un peu de poésie, je me sens comme le peintre qui ne peindrait plus. Alors, je lève les yeux, ne vois rien à dire, malgré l’eau exceptionnellement basse ce matin, des rochers verdâtres pointant hors de la vase, épines dorsales de quelques sauriens engloutis et vermoulus. Je me dis que cet après-midi j’irais en déterrer quelques-uns pour renforcer le rempart qui sépare le jardin de l’étang, répétant des gestes anciens, ceux qui ont façonné nos garrigues d’alignements titanesques et dont nous découvrons les vestiges sous les chênes verts.
 
-![L'entrée secrète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8234.jpeg)
+![L'entrée secrète](https://tcrouzet.com/images_tc/2021/04/IMG_8234.jpeg)
 
-![Maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8238.jpeg)
+![Maison](https://tcrouzet.com/images_tc/2021/04/IMG_8238.jpeg)
 
-![Maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8244.jpeg)
+![Maison](https://tcrouzet.com/images_tc/2021/04/IMG_8244.jpeg)
 
-![Maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8250.jpeg)
+![Maison](https://tcrouzet.com/images_tc/2021/04/IMG_8250.jpeg)
 
 ### Lundi 15, Balaruc
 
@@ -132,13 +132,13 @@ Les eaux déjà basses avant le mistral se sont retirées, relevant devant la ma
 
 Je me suis assis sur le banc de fer adossé au garage, endroit choisi par mon père pour boire une bière sans alcool les matins d’été. Le vent me passait sous le nez, n’abandonnant derrière lui qu’un chaud soleil. J’ai passé un long moment à nettoyer un pneu du liquide anticrevaison qui obstruait son intérieur, décollant une à une des peaux de latex avec une patience paysanne. Le temps s’était arrêté, j’aurais pu tout aussi bien écosser des pois cassés.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8264.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2021/04/IMG_8264.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8286.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2021/04/IMG_8286.jpeg)
 
 ### Jeudi 18, Balaruc
 
-![Brissac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_8306.jpeg)
+![Brissac](https://tcrouzet.com/images_tc/2021/03/IMG_8306.jpeg)
 
 ### Vendredi 19, Balaruc
 
@@ -170,7 +170,7 @@ Pierre me dit qu’il a dévoré mon autobiographie. « Mais je te connais. »
 
 Sur Facebook, un gars commente mon dernier article, disant un peu n’importe quoi. « Tu l’as lu ? » « Je n’ai pas que ça à faire. » Mais poster des commentaires débiles, oui. Si ces comportements étaient isolés, je ne m’inquiéterais pas. Ils révèlent notre besoin de nous exprimer quitte à déblatérer sur ce dont nous n’avons aucune idée, en général en supposant les autres plus cons que soit. Moins on connaît quelque chose, plus on croit le comprendre. [C’est l’effet Dunning-Kruger.](https://fr.wikipedia.org/wiki/Effet_Dunning-Kruger) Inversement, mieux on connaît un domaine, plus on sait son ignorance.
 
-![Castelneau-de-Guers](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8375.jpeg)
+![Castelneau-de-Guers](https://tcrouzet.com/images_tc/2021/04/IMG_8375.jpeg)
 
 ### Jeudi 25, Balaruc
 
@@ -182,13 +182,13 @@ Je dors affreusement mal, m’endormant tôt, me réveillant souvent à trois he
 
 ### Samedi 27, Balaruc
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8427.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2021/04/IMG_8427.jpeg)
 
 ### Lundi 28, Balaruc
 
 Quand je reprendrais mon autobiographie, parce qu’il me faudra le faire, je parlerais de la maison de mes grands-parents maternels de Poussan, un village encore arriéré quand j’étais gamin, avec des rues défoncées, et les vignes qui cognaient aux ruelles moyenâgeuses. Les coqs me réveillaient le matin, la lumière y était plus calme qu’au bord de l’étang, plus chaude en été, et je partais vers un jardin improbable perché au-delà de l’église et du cimetière. Ce lieu a polarisé ma créativité, et j’en ai négligé la puissance.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8456.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2021/04/IMG_8456.jpeg)
 
 ### Mardi 30, Balaruc
 
@@ -202,7 +202,7 @@ Depuis que j’ai bouclé le premier jet de mon autobiographie, je dors misérab
 
 Nouveau confinement national décidé ce soir, brutalement, de but en blanc, alors qu’il aurait suffi de fixer un seuil d’occupation des lits en réanimation pour déclencher cette mesure, ce qui nous aurait permis de l’anticiper et de mieux organiser nos vies. Notre gouvernement paternaliste ne prend pas cette peine, il nous impose sa volonté avec autorité, nous démontrant son incapacité à prévoir même le prévisible. Jusqu’au bout il a cru à une espèce de miracle français, comme si le virus aurait pu nous épargner pour les beaux yeux de notre Président. Nous sommes toujours gouvernés par des idéalistes et l’idéaliste a toujours un côté dangereusement mystique. Au nom de l’idéal de Nation, il envoie les gamins se faire tuer à la guerre.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8511.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2021/04/IMG_8511.jpeg)
 
 
 

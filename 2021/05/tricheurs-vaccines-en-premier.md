@@ -30,7 +30,7 @@ Les premiers commentateurs de cet article justifient la tricherie, comme quoi le
 
 Des jeunes reconnaissent tricher, parce qu'ils s'estiment à risque dans leur profession, oubliant que des personnes plus âgées effectuent le même travail qu'eux, sans être encore vaccinées, ou que d'autres professions sont encore plus à risque.
 
-![Vaccinés](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/track1-1600x833.png)
+![Vaccinés](https://tcrouzet.com/images_tc/2021/05/track1-1600x833.png)
 
 Enfin, au vu des chiffres, d'autres disent que la tricherie est limitée. Je répète que jusqu'à il y a quelques jours la vaccination était réservée aux plus de 55 ans, à quelques exceptions près, et que seules de rares causes de comorbidité ouvraient la vaccination aux plus jeunes. Au 3 mai, [selon les statistiques](https://covidtracker.fr/vaccintracker/), je découvre que 2,1 millions de personnes de moins de 50 ans ont reçu une injection. Toutes ont-elles des causes de comorbidité ? Et comment ont-elles fait pour être vaccinées aussi tôt ? Des profs, des soignants ? Mais les profs eux-mêmes n'avaient pas encore le droit d'être vaccinés.
 

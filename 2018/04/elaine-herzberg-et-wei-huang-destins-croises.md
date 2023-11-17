@@ -6,7 +6,7 @@ Elaine était une SDF qui vivait dans un squat qu’elle était probablement en 
 
 Wei Huang, lui, avait payé entre 80 000 et 140 000 dollars un SUV de luxe supposé robuste et fiable auquel il faisait immodérément confiance, au point de lui confier le pilotage, pendant que peut-être il travaillait, question de ne pas perdre la moindre seconde de sa précieuse productivité. À 38 ans, Wei était développeur chez Apple.
 
-![Pub tesla](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/04/tesla-600x285.jpg)
+![Pub tesla](https://tcrouzet.com/images_tc/2018/04/tesla-600x285.jpg)
 
 On peut imaginer qu’une IA tueuse a décidé de s’en prendre à nous. Dans le premier cas, elle a zigouillé Elaine, parfaitement informée de sa présence par ses radars. Tout ça pour effectuer un test, pour évaluer notre capacité à réagir collectivement, pour analyser nos comportements… Dans le second, elle s’est débarrassée de Wei peut-être parce qu’il ne lui plaisait pas ou parce qu’il s’apprêtait à créer un code [capable de conférer aux IA un sens éthique](https://tcrouzet.com/https://tcrouzet.com/2018/04/11/elaine-herzberg-enquete-a-distance). On peut tout imaginer : des Terminators déguisés en Transformers sont déjà parmi nous. On peut aussi lire ces histoires parallèles comme la démonstration de notre propension à prendre des risques. D’une certaine façon, Wei savait ce qu’il faisait. Après tout, il faut être naïf pour faire confiance aux déclarations d’Elon Musk, toujours prompt à nous promettre que nous marcherons sur mars demain (il finira par avoir raison, mais quand ?).
 

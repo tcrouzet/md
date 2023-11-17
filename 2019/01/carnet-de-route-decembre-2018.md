@@ -32,7 +32,7 @@ Avec nos copains français de Savanna, nous roulons jusqu’à la *levee* situé
 
 Belle rando VTT avec JP dans la [Big Cypress Preserve](https://www.nps.gov/bicy/index.htm) (que je raconte dans [le chapitre 3](https://tcrouzet.com/2018/12/17/lesprit-freerider/) de [*Born to Bike*](https://tcrouzet.com/borntobike/)). En route, j’interroge JP sur sa famille. « Pour un Vénézuelien, Neal, c’est un nom très américain. » Il m’explique que son père est à demi américain, d’ascendance irlandaise. Son ancêtre s’appelait O’Neil. Comme il avait des dettes en Europe, il a supprimé le O de son nom pour ne pas être retrouvé. Je lui demande quel prénom se cache sous JP. « Jean-Paul, mon arrière-grand-mère était Française. Elle a immigré au Venezuela après la Seconde Guerre mondiale. » Avec ma lignée purement franchouillarde, et depuis des générations ancrées dans le Midi, je suis peu original.
 
-![Big Cypress](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/a7ffecf1-ddaa-45ef-b4ca-21db080830bd-600x450.jpg)
+![Big Cypress](https://tcrouzet.com/images_tc/2019/01/a7ffecf1-ddaa-45ef-b4ca-21db080830bd-600x450.jpg)
 
 ### Jeudi 6, Weston
 
@@ -62,9 +62,9 @@ Puis des inconnus débarquent, ça part en vrille. Tout que je déteste. Des gen
 
 Sortie solo avec ne nouveaux pneus, plus larges, plus légers plus confortables. Je file sur les *levees*. Au retour, un bruit du côté de ma roue arrière où s’est plantée une vis placo. Mais qu’est-ce qui m’a pris ? J’ai enlevé cette vis et bien sûr j’ai immédiatement crevé, bousillant mon tout nouveau pneu.
 
-![Ciel de Floride](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2192-600x450.jpg)
+![Ciel de Floride](https://tcrouzet.com/images_tc/2019/01/IMG_2192-600x450.jpg)
 
-![Ciel de Floride](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2206-600x450.jpg)
+![Ciel de Floride](https://tcrouzet.com/images_tc/2019/01/IMG_2206-600x450.jpg)
 
 ---
 
@@ -86,7 +86,7 @@ Prétendre que Facebook n’est seulement qu’un média, c’est comme dire que
 
 Sur Twitter [circule une magique photo d’un lever de soleil sur mars](https://www.cincinnati.com/story/news/2018/11/29/mars-sunset-photo-first-humans-see-mars-sunset/2146962002/) avec la légende « We are the first human beings to see a Mars sunset. It’s quite a thought. » Cette petite phrase me fait plus rêver que les gilets jaunes.
 
-![Toujours l'été](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080179-600x450.jpg)
+![Toujours l'été](https://tcrouzet.com/images_tc/2019/01/P1080179-600x450.jpg)
 
 ### Dimanche 9, Weston
 
@@ -134,7 +134,7 @@ Avant la sortie du jour, j’ai lu [un bel article](https://www.brainpickings.or
 
 Hermann Hesse écrit : « (…) you will surely realize, in your present loneliness and despair, that this time you must not look to external, official sources, to Bibles, pulpits, or thrones, for enlightenment. Nor to me. You can find it only in yourself. (…) Search where you may, no prophet or teacher can relieve you of the need to look within… »
 
-![Salut toi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2247-600x450.jpg)
+![Salut toi](https://tcrouzet.com/images_tc/2019/01/IMG_2247-600x450.jpg)
 
 ### Vendredi 15, Weston
 
@@ -152,7 +152,7 @@ Emerson parle de la nécessité de « trouver l’axe solide de notre vie » c
 
 Je veux acheter des bouquins français sur le vélo, mais ils sont indisponibles en version électronique, alors je les cherche sur amazon.com pour les commander en papier et me les faire livrer en Floride. Stupeur : je les trouve en version Kindle, des versions réservées au marché international, mais ni plus ni moins censurées en France. (*PS : En lisant ces lignes, François Bon trouve ça étrange et vérifie : le livre de Paul Fournel est bien dispo en France, mais je ne le vois pas dispo quand j'accède à Amazon France avec une IP US — ce flicage d'Internet est détestable.*)
 
-![Dispo uniquement à l'étranger](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/ebookamz-1-535x450.jpg)
+![Dispo uniquement à l'étranger](https://tcrouzet.com/images_tc/2019/01/ebookamz-1-535x450.jpg)
 
 ---
 
@@ -172,11 +172,11 @@ Une énergie négative est en train de s’accumuler. Elle finira par faire expl
 
 Je peste durant les 25 premiers kilomètres de la sortie du jour. Ils roulent jusqu’à se détruire, puis s’arrêtent à la barrière de [Loxahatchee](https://en.wikipedia.org/wiki/Loxahatchee,_Florida). Je l’enjambe, seul un grand Argentin me suit, les autres font demi-tour. Quand je veux parler à l’Argentin, il ne m’entend pas parce qu’il pédale en musique. À chaque sortie avec les Floriens, je trouve une nouvelle raison d’écrire [*Born to Bike*](https://tcrouzet.com/borntobike/). Aucun esprit de groupe. Alors qu’on roulait à 30 km/h et que certains serraient les dents, un imbécile prend la tête et accélère. Je ne sais pas ce que cherchent ces gars. Une fois débarrassé d’eux, je savoure une lumière aux teintes or dans la brume qui se dissipe peu à peu au-dessus des marais. La bête du jour : un sanglier (*a wild boar*).
 
-![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2267-600x450.jpg)
+![Everglades](https://tcrouzet.com/images_tc/2019/01/IMG_2267-600x450.jpg)
 
-![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2272-600x450.jpg)
+![Everglades](https://tcrouzet.com/images_tc/2019/01/IMG_2272-600x450.jpg)
 
-![Parkland](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2286-600x450.jpg)
+![Parkland](https://tcrouzet.com/images_tc/2019/01/IMG_2286-600x450.jpg)
 
 ### Lundi 18, Weston
 
@@ -190,15 +190,15 @@ En revanche, l’addiction aux jeux est avérée. Et les nouveaux jeux vidéo re
 
 ### Mardi 19, Weston
 
-![Illusion de nature](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2340-600x450.jpg)
+![Illusion de nature](https://tcrouzet.com/images_tc/2019/01/IMG_2340-600x450.jpg)
 
-![Illusion de nature](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2359-600x450.jpg)
+![Illusion de nature](https://tcrouzet.com/images_tc/2019/01/IMG_2359-600x450.jpg)
 
-![Illusion de nature](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2376-600x450.jpg)
+![Illusion de nature](https://tcrouzet.com/images_tc/2019/01/IMG_2376-600x450.jpg)
 
-![Illusion de nature](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2380-600x450.jpg)
+![Illusion de nature](https://tcrouzet.com/images_tc/2019/01/IMG_2380-600x450.jpg)
 
-![Illusion de nature](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2399-600x450.jpg)
+![Illusion de nature](https://tcrouzet.com/images_tc/2019/01/IMG_2399-600x450.jpg)
 
 ### Jeudi 20, Weston
 
@@ -222,23 +222,23 @@ J’ai basculé de l’exaltation marine au dégoût de la banlieue, ne retrouva
 
 La zone urbaine de Miami est une langue blanche, large d’une trentaine de kilomètres, entre l’océan et les Everglades, où je ne cesse ne me noyer, d’où je ne peux m’échapper, sinon à lécher ses flancs du côté marin ou du côté des *levees*. J'ai roulé quasi droit durant plus de 100 km sans quitter la ville. Cette géographie est une abomination. Un temple dressé en l’honneur de la voiture.
 
-![Miami on asphalt](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2454-600x450.jpg)
+![Miami on asphalt](https://tcrouzet.com/images_tc/2019/01/IMG_2454-600x450.jpg)
 
-![Cabane de plage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2486-600x450.jpg)
+![Cabane de plage](https://tcrouzet.com/images_tc/2019/01/IMG_2486-600x450.jpg)
 
-![Cabane de plage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2493-600x450.jpg)
+![Cabane de plage](https://tcrouzet.com/images_tc/2019/01/IMG_2493-600x450.jpg)
 
-![Cabane de plage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2513-600x450.jpg)
+![Cabane de plage](https://tcrouzet.com/images_tc/2019/01/IMG_2513-600x450.jpg)
 
-![Le bout de Miami Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2517-600x450.jpg)
+![Le bout de Miami Beach](https://tcrouzet.com/images_tc/2019/01/IMG_2517-600x450.jpg)
 
-![Le bout de Miami Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2523-600x450.jpg)
+![Le bout de Miami Beach](https://tcrouzet.com/images_tc/2019/01/IMG_2523-600x450.jpg)
 
 ### Samedi 22, Cape Canaveral
 
 Après trois heures d’une route monotone, sans rien pour stimuler le regard, nous arrivons au space center, avec Tim qui porte sur ses épaules tout le poids du monde. Nous commençons par dire bonjour à Atlantis. J'ai un frisson quand je la vois, avec ses briques isolantes, autant de morceaux de sparadrap gazeux. Je suis comme dans la pyramide de Kéops ou comme au cœur du capteur Alpha du CERN, admiratif de notre génie. Tout le reste au space center est kitsch, trop mis en scène, avec la queue partout, plus d’une heure pour prendre le bus jusqu’au pas de lancement Apollo. Alors nous regardons un film en 3D qui m’endort aussitôt. Isa me réveille. On fonce jusqu’au bus, plus personne dans la queue, pour cause c'est la fermeture. On passe sous les barrières, réussit à embarquer. On se retrouve avec une armée de téléphones portables tendus vers l’horizon. Beurk. Le soir nous dégotons un superbe resto thaï, notre meilleur resto depuis que nous sommes en Floride. Tim a enfin le sourire.
 
-![Fusée Saturne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2566-600x450.jpg)
+![Fusée Saturne](https://tcrouzet.com/images_tc/2019/01/IMG_2566-600x450.jpg)
 
 ### Dimanche 23, Cape Canaveral
 
@@ -248,13 +248,13 @@ Quand nous le voulons, nous construisons des choses grandioses. Et des horreurs,
 
 Nous restons sur le trait lumineux de la Falcon 9. Plutôt que de rentrer tout droit vers Weston, nous prenons la 441 en direction du [lac Okeechobee](https://fr.wikipedia.org/wiki/Lac_Okeechobee). Nous plongeons dans la campagne, entre les ranches et les forêts, entre les champs et les troupeaux. Longtemps caché par une digue haute d’une dizaine de mètres, que nous finissons par escalader, le lac est immense, une mer intérieure dont nous ne voyons pas la rive opposée. Pas question de se baigner : pollution au phosphore, l’eau rougeâtre.
 
-![Space X](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080249-600x450.jpg)
+![Space X](https://tcrouzet.com/images_tc/2019/01/P1080249-600x450.jpg)
 
-![Space X](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080256-600x450.jpg)
+![Space X](https://tcrouzet.com/images_tc/2019/01/P1080256-600x450.jpg)
 
-![Lac Okeechobee](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080267-600x450.jpg)
+![Lac Okeechobee](https://tcrouzet.com/images_tc/2019/01/P1080267-600x450.jpg)
 
-![Lac Okeechobee](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080282-600x450.jpg)
+![Lac Okeechobee](https://tcrouzet.com/images_tc/2019/01/P1080282-600x450.jpg)
 
 ### Lundi 24, Weston
 
@@ -264,7 +264,7 @@ Marcher au milieu de la foule, puis attaquer une montée, se retrouver presque s
 
 Il m’arrive souvent de suivre des séquences GoPro de cyclistes, de suivre avec eux leurs chemins, surtout quand ils sont en montagne. Quand je roule, je m’arrête parfois pour photographier, mais c’est fastidieux, j’ai souvent envie d’avoir une GoPro pour capturer, pour dire une pensée, sans perdre le rythme. Un peu peur de ce que tout cela impliquerait pour mon travail d’écriture, il s’agirait d’une autre écriture, il faudrait alors qu’elle soit simple, avec le moins de montage possible, juste des coupes, pas de musique, le bruit ambiant.
 
-![Holiday Park](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2695-600x450.jpg)
+![Holiday Park](https://tcrouzet.com/images_tc/2019/01/IMG_2695-600x450.jpg)
 
 ### Mercredi 26, Weston
 
@@ -290,7 +290,7 @@ Puisque les cyclistes autour de moi à Weston sont peu aventureux, je dois aller
 
 Nuit à pas dormir, à souffrir d’énervement, à tenter de me calmer en lisant [*Across America on the Yellow Brick Road*](https://www.amazon.fr/Across-America-Yellow-Brick-Cycling/dp/163293048X/), un beau récit initiatique d’une femme qui par le vélo se découvre et se libère.
 
-![Notre jardin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080348-600x450.jpg)
+![Notre jardin](https://tcrouzet.com/images_tc/2019/01/P1080348-600x450.jpg)
 
 ### Dimanche 30, Weston
 
@@ -300,7 +300,7 @@ Dernière sortie vélo de l’année avec JP. D’après Strava, j’ai parcouru
 
 Deux jours que je suis dans Excel pour essayer de me construire le vélo idéal pour le bikepacking. Je suis dans la même effervescence/stress que quand je code. Peut-être que cette débauche d’énergie se transformera en littérature. Pour le moment, ce n’est pas moi qui devrais stresser, mais plutôt Isa. Elle a son premier interview pour son premier livre en tant qu’auteur, [*La force du sourire*](https://www.amazon.fr/force-du-sourire-Isabelle-Crouzet/dp/2709662655), qui sort chez Lattès dans deux jours.
 
-![La force du sourire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/isa-450x450.jpg)
+![La force du sourire](https://tcrouzet.com/images_tc/2019/01/isa-450x450.jpg)
 
 ---
 

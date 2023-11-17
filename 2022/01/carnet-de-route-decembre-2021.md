@@ -6,21 +6,21 @@
 
 Cauchemar cette nuit. J’étais un cadre dans une organisation qui virait au fascisme et je me suis retrouvé exclu du groupe des collabos. Je me suis réveillé à ce moment. Je n’avais pas suivi le mouvement, mais je n’avais pas encore rejoint la résistance.
 
-![Plage de Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4209.jpeg)
+![Plage de Maguelone](https://tcrouzet.com/images_tc/2022/01/IMG_4209.jpeg)
 
-![Plage de Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4217.jpeg)
+![Plage de Maguelone](https://tcrouzet.com/images_tc/2022/01/IMG_4217.jpeg)
 
-![Plage de Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4232.jpeg)
+![Plage de Maguelone](https://tcrouzet.com/images_tc/2022/01/IMG_4232.jpeg)
 
-![La Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4245.jpeg)
+![La Gardiole](https://tcrouzet.com/images_tc/2022/01/IMG_4245.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4247.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/01/IMG_4247.jpeg)
 
 ### Samedi 4, Balaruc
 
-![Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4261.jpeg)
+![Pyrénées](https://tcrouzet.com/images_tc/2022/01/IMG_4261.jpeg)
 
-![Arc-en-ciel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4267.jpeg)
+![Arc-en-ciel](https://tcrouzet.com/images_tc/2022/01/IMG_4267.jpeg)
 
 ### Dimanche 5, Balaruc
 
@@ -30,9 +30,9 @@ Une œuvre peut être radicalement numérique et ne pas le laisser paraître. Je
 
 Plus le numérique accélère le monde, raccourci les formes, plus j’ai envie de prendre mon temps, d’écrire dans la longueur, d’aller à contre sens, parce que voilà ce qui reste à la littérature, voilà où elle se réinventera, mais bien sûr avec l’aide du numérique, à travers lui.
 
-![Grau d'Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4276.jpeg)
+![Grau d'Agde](https://tcrouzet.com/images_tc/2022/01/IMG_4276.jpeg)
 
-![Grau d'Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4281.jpeg)
+![Grau d'Agde](https://tcrouzet.com/images_tc/2022/01/IMG_4281.jpeg)
 
 ### Mardi 7, Balaruc
 
@@ -42,7 +42,7 @@ Le numérique transforme la littérature parce qu’il nous permet d’écrire c
 
 ### Mercredi 8, Balaruc
 
-![Vandémian](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4302.jpeg)
+![Vandémian](https://tcrouzet.com/images_tc/2022/01/IMG_4302.jpeg)
 
 ### Jeudi 9, Balaruc
 
@@ -64,7 +64,7 @@ Nous autres artistes avons reçus le don de jouir d’une manière peu orthodoxe
 
 ### Samedi 11, Balaruc
 
-![Villeneuve-les-Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4327.jpeg)
+![Villeneuve-les-Maguelone](https://tcrouzet.com/images_tc/2022/01/IMG_4327.jpeg)
 
 ### Dimanche 12, Balaruc
 
@@ -72,7 +72,7 @@ Nous autres artistes avons reçus le don de jouir d’une manière peu orthodoxe
 
 Une autre idée plus amusante, et moins élitiste, m’est venu ce matin. Mettre en vente une nouvelle à un prix infime. L’acheteur a alors pour devoir de la revendre en augmentant le prix de 10 %. Jusqu’où pourrait grimper la chaîne ?
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4361.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/01/IMG_4361.jpeg)
 
 ### Lundi 13, Balaruc
 
@@ -82,7 +82,7 @@ Terrifiant sentiment d’impuissance. Je lance cette initiative NFT et le silenc
 
 Après deux doses de Pfizer, j’ai reçu une dose de Moderna. Au bout d’une heure, une étrange sensation dans le bras gauche, qui déséquilibre mon corps. Je sens une présence en moi, une activité anormale, une réaction en d’autres mots. Souffle un peu court quand je monte à mon bureau. Pas habituel.
 
-![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4377.jpeg)
+![Matin](https://tcrouzet.com/images_tc/2022/01/IMG_4377.jpeg)
 
 ### Mardi 14, Balaruc
 
@@ -90,9 +90,9 @@ Sensation de ne plus m’appartenir. D’être dans un corps étranger. Parce qu
 
 ### Mercredi 15, Balaruc
 
-![Mas](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4399.jpeg)
+![Mas](https://tcrouzet.com/images_tc/2022/01/IMG_4399.jpeg)
 
-![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4422.jpeg)
+![Bellevue](https://tcrouzet.com/images_tc/2022/01/IMG_4422.jpeg)
 
 ### Jeudi 16, Balaruc
 
@@ -104,19 +104,19 @@ Je trouve drôle la volonté de certains de ne pas utiliser le verbe être dans 
 
 ### Samedi 18, Balaruc
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4472.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2022/01/IMG_4472.jpeg)
 
-![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4494.jpeg)
+![Marseillan](https://tcrouzet.com/images_tc/2022/01/IMG_4494.jpeg)
 
-![Gruissan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4541.jpeg)
+![Gruissan](https://tcrouzet.com/images_tc/2022/01/IMG_4541.jpeg)
 
 ### Dimanche 19, Nancy
 
-![Le Canal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4548.jpeg)
+![Le Canal](https://tcrouzet.com/images_tc/2022/01/IMG_4548.jpeg)
 
 ### Lundi 20, Nancy
 
-![Cathédrale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4561.jpeg)
+![Cathédrale](https://tcrouzet.com/images_tc/2022/01/IMG_4561.jpeg)
 
 ### Mardi 21, Nancy
 
@@ -142,15 +142,15 @@ Des auteurs beaucoup plus âgés que moi m’ont par le passé souvent déprimé
 
 Pour l’année prochaine, je n’ai donc pas d’espoir, sinon que de beaux projets m’occupent, que je vois de beaux paysages et éprouve du plaisir. J’en suis réduit à une pratique épicurienne de la littérature. Plus vite je l’accepterai, plus vite je me donnerai une chance de vieillir heureux, sans éprouver d’éternels regrets. Selon Isa, je cours après la reconnaissance extérieure parce que je n’ai jamais eu celle de mon père. Je doute de cette explication. Je suis un faiseur. J’ai la certitude que mes faires peuvent profiter à d’autres. Je veux juste partager, et je suis frustré de ne pas assez le faire. Je ne cherche la reconnaissance qu’à travers le partage. Me faire du bien en faisant du bien. Je suis égoïste, tout simplement.
 
-![Canal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4636.jpeg)
+![Canal](https://tcrouzet.com/images_tc/2022/01/IMG_4636.jpeg)
 
-![Canal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4672.jpeg)
+![Canal](https://tcrouzet.com/images_tc/2022/01/IMG_4672.jpeg)
 
-![Canal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4696.jpeg)
+![Canal](https://tcrouzet.com/images_tc/2022/01/IMG_4696.jpeg)
 
-![École d'architecture](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4709.jpeg)
+![École d'architecture](https://tcrouzet.com/images_tc/2022/01/IMG_4709.jpeg)
 
-![Canal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4745.jpeg)
+![Canal](https://tcrouzet.com/images_tc/2022/01/IMG_4745.jpeg)
 
 ### Jeudi 23, Nancy
 
@@ -224,7 +224,7 @@ J’ai longtemps désiré changer les autres parce que je ne parvenais pas à me
 
 J’ai toujours été fasciné par l’ensemble de Mandelbrot (Zn+1=Zn²+C, avec Z0=0 et C un nombre complexe). Un texte pourrait être écrit selon cette logique récursive. Le résultat d’un chapitre injecté dans le suivant où le même procédé narratif se répèterait. Une vague intuition. Je n’ai découvert aucune biographie de Mandelbrot. Un seul roman. Son autobiographie.
 
-![Ponton](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4937.jpeg)
+![Ponton](https://tcrouzet.com/images_tc/2022/01/IMG_4937.jpeg)
 
 ### Mardi 28, Balaruc
 
@@ -270,21 +270,21 @@ Je viens de lire [un article sur les innovations préhistoriques](https://thecon
 
 J’aurais voulu inventer un truc aussi décisif que l’arc, un truc comme les fractales, je n’ai inventé que la forme romanesque de *One Minute*, un truc anecdotique dans l’histoire de la littérature. Mais peut-être que je dois lui ajouter des cordes, puisque c’est mon arc.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4971.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/01/IMG_4971.jpeg)
 
-![29 décembre 2021](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4978.jpeg)
+![29 décembre 2021](https://tcrouzet.com/images_tc/2022/01/IMG_4978.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_4983.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/01/IMG_4983.jpeg)
 
 ### Jeudi 30, Balaruc
 
 [Je renoue avec mes vagabondages littéraires.](https://tcrouzet.com/2021/12/31/prendre-son-temps-a-velo/?swcfpc=1) J'écris avec un petit clavier pliable sur mon téléphone.
 
-![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_5018.jpeg)
+![Matin](https://tcrouzet.com/images_tc/2022/01/IMG_5018.jpeg)
 
 ### Vendredi 31, Balaruc
 
-![Mon année à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/IMG_5183.jpeg)
+![Mon année à vélo](https://tcrouzet.com/images_tc/2022/01/IMG_5183.jpeg)
 
 
 

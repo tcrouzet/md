@@ -10,13 +10,13 @@ Si je connais bien le final, j’ignore tout du secteur Bergerac, sinon la N21 a
 
 Mon premier réflexe a été de me tourner vers [Komoot](https://www.komoot.fr/), souvent plébiscité comme le meilleur service du genre. En mode gravel, j’obtiens tout simplement 98 % d’asphalte, dont 11 km sur la D14. En mode VTT, l’asphalte tombe à 56 %, avec 9 % de singles, mais avec toujours autant de kilomètres sur la D14 et près de 3 sur la N21 ! Bon point, il me fait passer par les vignobles de Monbazillac.
 
-![Monbazillac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8701.jpeg)
+![Monbazillac](https://tcrouzet.com/images_tc/2022/08/IMG_8701.jpeg)
 
 Connaissant la nature des sols dans la région, peu caillouteux, je sais d’avance que cette trace est gravel, même s’il n’est pas question de la suivre puisqu’elle emprunte des routes à fort trafic (une spécialité de Komoot). En mode enduro, Komoot ne fait pas mieux qu’en mode VTT, ce qui est logique dans ce secteur de collines.
 
 L'algorithme de Komoot est trop peu imaginatif. En mode gravel, il reste trop proche de la trace à vol d'oiseau et tente de minimiser la distance, ce qui n'a aucun sens quand on fait du vélo pour le plaisir et surtout cherche à rouler dans la nature.
 
-![Vol d'oiseau vs trace](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/kmplus.png)
+![Vol d'oiseau vs trace](https://tcrouzet.com/images_tc/2022/08/kmplus.png)
 
 ### VisuGPX
 
@@ -26,13 +26,13 @@ Je charge la trace Komoot VTT dans [VisuGPX](https://www.visugpx.com/) et la com
 
 Comme je manque de temps, je bascule en mode manuel sur VisuGPX. En m’inspirant des deux traces calculées et [selon ma technique de traçage désormais habituelle](https://tcrouzet.com/2022/05/25/visugpx-a-revolutionne-ma-technique-de-tracage/?swcfpc=1), je combine le mode routage de proche en proche et le mode point à point sur les secteurs non cartographiés que me révèle la [Heatmap Strava](https://www.strava.com/heatmap). J’aboutis ainsi à une trace avec 47 % d’asphalte, presque que des voies communales. Mieux, j’arrive à 28 % de chemins et surtout à 25 % de singles. Voici une véritable trace VTT. Nous y avons pris du plaisir, surtout en forêt. Sur les portions asphaltées, nous n’avons croisé qu'une dizaine de voitures.
 
-![Montsaguel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8716.jpeg)
+![Montsaguel](https://tcrouzet.com/images_tc/2022/08/IMG_8716.jpeg)
 
-![Monmarvès](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8718.jpeg)
+![Monmarvès](https://tcrouzet.com/images_tc/2022/08/IMG_8718.jpeg)
 
-![Saint-Étienne-de-Villeréal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8742.jpeg)
+![Saint-Étienne-de-Villeréal](https://tcrouzet.com/images_tc/2022/08/IMG_8742.jpeg)
 
-![Montflanquin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/IMG_8750.jpeg)
+![Montflanquin](https://tcrouzet.com/images_tc/2022/08/IMG_8750.jpeg)
 
 ### Google
 
@@ -48,15 +48,15 @@ En revanche, [BRouter](https://brouter.damsy.net/) s’est avéré beaucoup plus
 
 Le service propose de nombreuses options de paramétrage. On peut se construire des profils sur mesure ([ici une version dédiée au gravel](https://cxberlin.com/routenplaner/cxb-routenplaner/) ou [là](https://bikerouter.de/)). J’ai effectué deux autres tests tout aussi intéressants que le premier. Si je dois refaire ce parcours, ou un autre avec peu de temps de préparation, je prendrais l’habitude de travailler avec BRouter, avant de basculer en manuel sur VisuGPX pour un rapide fignolage à fin d'ajouter des singles et vététiser la trace. Dans ce domaine, il est impossible de battre le mode manuel, parce que nous pouvons alors quitter les sentiers cartographiés pour explorer ceux révélés par la Heatmap.
 
-![Asphalte](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/asphalte.png)
+![Asphalte](https://tcrouzet.com/images_tc/2022/08/asphalte.png)
 
-![Singles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/Singles.png)
+![Singles](https://tcrouzet.com/images_tc/2022/08/Singles.png)
 
 ### Notes sur les statistiques
 
 Je charge les traces dans Komoot et récupère les stats calculées. Elles sont bien sûr très approximatives, vu que la cartographie OSM utilisée par Komoot est elle-même approximative, mais je n’ai pas trouvé de meilleure solution pour qualifier rapidement une trace et les comparer entre elles (BRouter propose des statistiques incomplètes). Dans mes calculs, je suppose que les pistes cyclables se jouent à 50 % sur l’asphalte.
 
-![Statistiques](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/08/bilan.png)
+![Statistiques](https://tcrouzet.com/images_tc/2022/08/bilan.png)
 
 
 

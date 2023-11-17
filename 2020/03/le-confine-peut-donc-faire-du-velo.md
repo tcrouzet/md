@@ -44,36 +44,36 @@ Le 28 mars, [la FFC continue ses délires](https://www.ffc.fr/app/uploads/sites/
 
 Le 31 mars, le gouvernement sur son site Web interdit le vélo sportif, toujours sans passer de décret, donc sans que ce soit juridiquement recevable, suffit à nous faire comprendre que nos chers fonctionnaires perdent les pédales.
 
-![Le grand délire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/gouvcon.png)
+![Le grand délire](https://tcrouzet.com/images_tc/2020/03/gouvcon.png)
 
 [Réponse intelligente…](https://twitter.com/CousinLex/status/1245072665599258625)
 
-![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/reponsegov.png)
+![](https://tcrouzet.com/images_tc/2020/03/reponsegov.png)
 
 Je croyais l'affaire réglée, que nous allions pouvoir faire notre kilomètre quotidien tranquillement, mais il faut croire que non. Le 4 avril, [une famille écope de 270 € d'amende](https://www.francebleu.fr/infos/societe/interdiction-du-velo-loisir-pendant-le-confinement-une-famille-du-perigord-ecope-de-270-euros-d-1586186660?fbclid=IwAR1frx-K_J3Zy7UGjn2zP5yMHDtYKm2A-YWdzRJnQUOtb6AykMUS4_0ZDLE), une amande bien sûr illégale faute de décret gouvernemental.
 
 Pour vous changer les idées voici quelques images prises lors de mon exploration, ce n'était même pas du sport…
 
-![Port Sutel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9807.jpeg)
+![Port Sutel](https://tcrouzet.com/images_tc/2020/03/IMG_9807.jpeg)
 
-![Piste cyclable de Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9812.jpeg)
+![Piste cyclable de Sète](https://tcrouzet.com/images_tc/2020/03/IMG_9812.jpeg)
 
-![Terrain oublié](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9818.jpeg)
+![Terrain oublié](https://tcrouzet.com/images_tc/2020/03/IMG_9818.jpeg)
 
-![Terrain oublié](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9820.jpeg)
+![Terrain oublié](https://tcrouzet.com/images_tc/2020/03/IMG_9820.jpeg)
 
-![L'ancienne voie ferrée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9823.jpeg)
+![L'ancienne voie ferrée](https://tcrouzet.com/images_tc/2020/03/IMG_9823.jpeg)
 
-![Le pioch](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9829.jpeg)
+![Le pioch](https://tcrouzet.com/images_tc/2020/03/IMG_9829.jpeg)
 
-![Le pioch](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9832.jpeg)
+![Le pioch](https://tcrouzet.com/images_tc/2020/03/IMG_9832.jpeg)
 
-![Le chemin de la cressonnière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9836.jpeg)
+![Le chemin de la cressonnière](https://tcrouzet.com/images_tc/2020/03/IMG_9836.jpeg)
 
-![Le petit bois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9838.jpeg)
+![Le petit bois](https://tcrouzet.com/images_tc/2020/03/IMG_9838.jpeg)
 
 Après un décret stupide de ma municipalité, je n'ai plus le droit d'accéder aux espaces verts, dans lesquels les policiers municipaux se planquent pour alpaguer les promeneurs.
 
-![Ne me reste plus que l'asphalte](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/loop2.jpg)
+![Ne me reste plus que l'asphalte](https://tcrouzet.com/images_tc/2020/03/loop2.jpg)
 
 Tags: Born to Bike, Covid, une

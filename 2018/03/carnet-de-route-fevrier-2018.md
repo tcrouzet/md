@@ -10,7 +10,7 @@ Sur les dos des livres anglo-saxons, les titres ne sont pas imprimés dans le m�
 
 Sous la pluie, Isa et moi testons la [géolecture](https://tcrouzet.com/geolecture/) avant le test grandeur nature la semaine prochaine.
 
-![Nettoyeurs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180205.jpg)
+![Nettoyeurs](https://tcrouzet.com/images_tc/2018/03/20180205.jpg)
 
 ### Mardi 6, Balaruc
 
@@ -52,17 +52,17 @@ Ursula Le Guin s’est mise à blogger à 80 ans. Respect. [Réunis dans un livr
 
 Repérage officiel de la géolecture…
 
-![A black swan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180213_1.jpg)
+![A black swan](https://tcrouzet.com/images_tc/2018/03/20180213_1.jpg)
 
 ### Vendredi 16, Tignes
 
 Ce matin, avant le départ, je passe chez le dermato. Il me trouve un truc dans le dos, « Rien de grave, me dit-il. Faisons une biopsie dans un mois pour voir si c’est cancéreux ou non. » J’ai tenté de rester stoïque. Au même moment, mon ami scénariste me confirme que mon projet de roman d’amour est retenu. Me reste à écrire ce roman, maintenant.
 
-![Aube rose](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180216_1.jpg)
+![Aube rose](https://tcrouzet.com/images_tc/2018/03/20180216_1.jpg)
 
-![Aube rose](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180216_2.jpg)
+![Aube rose](https://tcrouzet.com/images_tc/2018/03/20180216_2.jpg)
 
-![Aube rose](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180216_3.jpg)
+![Aube rose](https://tcrouzet.com/images_tc/2018/03/20180216_3.jpg)
 
 ### Dimanche 18, Tignes
 
@@ -74,13 +74,13 @@ Suis-je entré dans l’âge à partir duquel j’aurai toujours mal quelque par
 
 ### Mardi 20, Tignes
 
-![Alpes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180220_1.jpg)
+![Alpes](https://tcrouzet.com/images_tc/2018/03/20180220_1.jpg)
 
 ### Mercredi 21, Tignes
 
 Pendant ce temps Isa est à New York. Et je me dis qu'un journal intime d'aujourd'hui devrait mêler plusieurs vies et plusieurs médias.
 
-![Isa depuis New York](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180221_1.jpg)
+![Isa depuis New York](https://tcrouzet.com/images_tc/2018/03/20180221_1.jpg)
 
 ### Vendredi 23, Balaruc
 
@@ -106,17 +106,17 @@ Nouvelle série de corrections sur *Mon père était un tueur* qui ne s’appell
 
 Balade glaciale sous une lumière aveuglante pour boucler ma géolecture autour de Pierre Ménard. La ville est sublime, mais impossible de m’alanguir pour écrire en extérieur.
 
-![Nîmes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180227_1.jpg)
+![Nîmes](https://tcrouzet.com/images_tc/2018/03/20180227_1.jpg)
 
 ### Mercredi 28, Balaruc
 
 Il neige… c’est assez rare pour nous émerveiller.
 
-![Neige](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180228_2.jpg)
+![Neige](https://tcrouzet.com/images_tc/2018/03/20180228_2.jpg)
 
-![Neige](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180228_1.jpg)
+![Neige](https://tcrouzet.com/images_tc/2018/03/20180228_1.jpg)
 
-![Neige](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180228_3.jpg)
+![Neige](https://tcrouzet.com/images_tc/2018/03/20180228_3.jpg)
 
 
 

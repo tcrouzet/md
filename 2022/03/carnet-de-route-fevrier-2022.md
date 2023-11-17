@@ -28,7 +28,7 @@ Lui, il ne fait rien, il sait comment se sauver, mais il ne fait rien, comme nou
 
 Jules Renard reconnaît s’éteindre peu à peu comme mon père quelques années avant sa mort, comme si déjà le corps envoyait des signaux, pas assez clairs pour être conscients, mais qui apparaissent a posteriori pour les archéologues. Je devine les mêmes signaux dans l’époque, la même déprime, il nous faut réagir, il me faut écrire pour réagir.
 
-![Mistral](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/P1120058.jpeg)
+![Mistral](https://tcrouzet.com/images_tc/2022/03/P1120058.jpeg)
 
 ### Jeudi 3, Balaruc
 
@@ -38,25 +38,25 @@ Jules Renard : « Le métier des lettres est tout de même le seul où l’on 
 
 Sortie vélo printanière, quelques amandiers déjà couverts de fleurs.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_5605.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/03/IMG_5605.jpeg)
 
 ### Samedi 5, Balaruc
 
 Je termine de renforcer le mur de l'étang et nous plantons des figuiers de barbarie. Dos cassé, mais heureux.
 
-![Le mur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_5630.jpeg)
+![Le mur](https://tcrouzet.com/images_tc/2022/03/IMG_5630.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_5638.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/03/IMG_5638.jpeg)
 
 ### Dimanche 6, Balaruc
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_5661.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/03/IMG_5661.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_5677.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/03/IMG_5677.jpeg)
 
 ### Mardi 8, Balaruc
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6034.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/03/IMG_6034.jpeg)
 
 ### Mercredi 9, Balaruc
 
@@ -72,7 +72,7 @@ Un journaliste m’appelle pour parler de bikepacking. Quand je lui dis qu’il 
 
 ### Vendredi 11, Balaruc
 
-![Saint-Pargoire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6043.jpeg)
+![Saint-Pargoire](https://tcrouzet.com/images_tc/2022/03/IMG_6043.jpeg)
 
 ### Samedi 12, Balaruc
 
@@ -100,19 +100,19 @@ Jules Renard : « Est-ce que ça va se prolonger longtemps, cette vie-là ? 
 
 ### Jeudi 17, Balaruc
 
-![Nuages](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6097.jpeg)
+![Nuages](https://tcrouzet.com/images_tc/2022/03/IMG_6097.jpeg)
 
-![Nuages](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6099.jpeg)
+![Nuages](https://tcrouzet.com/images_tc/2022/03/IMG_6099.jpeg)
 
-![Nuages](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6102.jpeg)
+![Nuages](https://tcrouzet.com/images_tc/2022/03/IMG_6102.jpeg)
 
-![Nuages](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6106.jpeg)
+![Nuages](https://tcrouzet.com/images_tc/2022/03/IMG_6106.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6133.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/03/IMG_6133.jpeg)
 
 ### Vendredi 18, Balaruc
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6153.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/03/IMG_6153.jpeg)
 
 ### Samedi 19, Balaruc
 
@@ -150,7 +150,7 @@ Virginia Woolf : « À partir du moment où vous spécifiez l’âge, la coule
 
 La possibilité d’une guerre, provoquée par la folie d’un seul homme abandonné en roue libre dans une pente sans plus aucune possibilité de freiner. Il a avancé toutes ses pièces de façon que tout recul soit impossible sinon en entraînant le ridicule. Sorte de pari perdu d’avance. Cet homme est en train d’affirmer son infinie bêtise dans l’Histoire, comme d’autres avant lui, mais d’autres mourront à cause de lui.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6174.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/03/IMG_6174.jpeg)
 
 ### Mercredi 23, Balaruc
 
@@ -178,9 +178,9 @@ L’art paraît dérisoire, mais que reste-t-il d’autres pour défendre la lib
 
 ### Dimanche 27, Balaruc
 
-![Bouzigues](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6181.jpeg)
+![Bouzigues](https://tcrouzet.com/images_tc/2022/03/IMG_6181.jpeg)
 
-![Villeveyrac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6184.jpeg)
+![Villeveyrac](https://tcrouzet.com/images_tc/2022/03/IMG_6184.jpeg)
 
 ### Lundi 28, Balaruc
 
@@ -198,7 +198,7 @@ Virginia évoque Russel Square comme un endroit cardinal, et on pourrait imagine
 
 J’effectue souvent des recherches quand j’écris un roman, pour fixer un mot, une image. J’imagine une galerie d’art sétoise dans une ancienne cave où on fabriquait des filets. Je tombe sur la photo d’une aiguille en plastique telle que mon père les utilisait. Et toute mon enfance me revient. [Une aiguille pour ramender.](https://wwz.ifremer.fr/peche/Le-monde-de-la-peche/La-peche/comment/Conception-et-fabrication) Je n’avais jamais entendu le mot. Je n’ai jamais entendu mes parents l’utiliser.
 
-![56 sunsets](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/sunet56.jpg)
+![56 sunsets](https://tcrouzet.com/images_tc/2022/03/sunet56.jpg)
 
 
 

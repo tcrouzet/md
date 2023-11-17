@@ -12,7 +12,7 @@ Dans la perspective d’un plus grand minimalisme, aussi d’une plus grande eff
 
 ### Côté sacs
 
-![Timberjack version light](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080855-600x450.jpg)
+![Timberjack version light](https://tcrouzet.com/images_tc/2019/03/P1080855-600x450.jpg)
 
 Je n’ai pas beaucoup apprécié le sac de selle [Orlieb M 11L](https://ortliebusa.com/product/seat-pack-m/). Quand il était mal rempli, sans rien de rigide à l’intérieur, il se pliait et touchait ma roue arrière. Le premier jour, c’était parfait. Mais par la suite, peu à peu, mon rangement est devenu chaotique et le comportement du sac également. Sur un parcours moins accidenté, ce sac aurait été parfait (j’aime notamment la valve qui permet de le purger de son air et de le compacter tout en le rendant parfaitement étanche). Pour des périples plus longs ou gravel, j’y reviendrai, mais, en VTT, je vais m’en passer dans la mesure du possible.
 
@@ -24,7 +24,7 @@ Par ailleurs, j’ai compris qu’il faut tout ranger dans des sacs individuels,
 
 ### Côté outillage
 
-![Mes outils](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080842-600x450.jpg)
+![Mes outils](https://tcrouzet.com/images_tc/2019/03/P1080842-600x450.jpg)
 
 Bien qu’en tubeless, j’étais parti avec deux chambres à air comme l’exigeait l’organisateur de l’HuRaCan, une suffira pour ma seconde participation (210 g de gagnés). Le [Wolf Tooth B-RAD Roll-Top Bag](https://www.wolftoothcomponents.com/collections/b-rad-system/products/b-rad-roll-top-bag) se fixe grâce à une platine aux deux vis situées sous le cadre. En leur absence, on peut fixer le sac avec des [Voile Straps](https://www.amazon.com/gp/product/B01LE4F8RK/) ou même avec le velcro fourni (trop court pour mon cadre). On peut aussi fixer ce sac sous la selle, et un peu n’importe où d’ailleurs. J’aime le concept (surtout pour le jour où, de retour en France, je tenterai le bikepacking avec mon VTT tout suspendu).
 
@@ -72,7 +72,7 @@ Poids du sac rempli et pompe : 0,9 kg.
 
 ### Côté guidon
 
-![Sac de guidon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080854-600x450.jpg)
+![Sac de guidon](https://tcrouzet.com/images_tc/2019/03/P1080854-600x450.jpg)
 
 Peu de changement donc, à part que je récupère quelques-unes des affaires qui étaient dans le sac de selle.
 
@@ -110,7 +110,7 @@ Poids du sac rempli : 3,1 kg.
 
 ### Sur moi
 
-![Il fera chaud](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/hum-600x182.png)
+![Il fera chaud](https://tcrouzet.com/images_tc/2019/03/hum-600x182.png)
 
 Je suis en configuration été. Il fera 16°C au plus bas le matin, jusqu’à 30°C l’après-midi. Je porterai mon casque, mes lunettes, mes gants (je préfère les gants longs, me sens plus en sécurité et ils pompent la transpiration, sinon mes mains glissent sur les grips), mes chaussures Giro, des chaussettes [Giro Merino Wool Hightower](https://www.amazon.com/gp/product/B076B4QLXS/) (j’aime leur effet compression, mais je troquerai pour les Swiftwick si j’ai trop chaud), mon cuissard [Assos T CENTO](https://www.assos.com/t-cento), un maillot Specialized.
 
@@ -120,7 +120,7 @@ Dans les trois poches de mon maillot, je range mes manchons, mon coupe vent Mavi
 
 ### Côté cadre
 
-![Sac de cadre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080849-600x348.jpg)
+![Sac de cadre](https://tcrouzet.com/images_tc/2019/03/P1080849-600x348.jpg)
 
 Mon [Salsa Exp Series HT 7,7L](https://salsacycles.com/components/category/bags_frame_packs/exp_series_ht_framepacks), dispose de deux poches. L’une peu profonde du côté gauche, l’autre qui occupe le reste du sac sur la droite.
 
@@ -162,7 +162,7 @@ Dernière chose. J’avais mal protégé mon cadre lors de mon premier raid et l
 
 ### La pratique
 
-![L'avant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080862-600x450.jpg)
+![L'avant](https://tcrouzet.com/images_tc/2019/03/P1080862-600x450.jpg)
 
 Tout cela était la théorie, j’avais gagné plus d’un kilo, mon vélo avait une apparence épurée, mais, dès que j’ai commencé à pédaler, j’ai senti que je n’aimais pas la surcharge au niveau du guidon. J’étais en train de découvrir que passer d’un sac avant de 2 kg à 3 kg fait une énorme différence en maniabilité. Sur route ou piste, sans doute pas de problèmes, mais en VTT c’était rédhibitoire. J’ai donc allégé le sac avant (le faisant tomber à 1,9 kg) et j'ai réinstallé mon sac de selle (2,4 kg), qui de fait rendait inutile le sac Wolf Tooth sous le cadre. Pour ramener mes outils dans le sac de cadre, j'ai dû transférer dans le sac de guidon mes réserves énergétiques, mes lunettes et ma trousse de toilette.
 
@@ -174,7 +174,7 @@ Je me retrouve dans la même configuration que lors de ma première HuRaCan. Je 
 
 Mon vélo nu pèse 13,4 kg (vivement que je retrouve mon Epic tout suspendu à moins de 11 kg). Équipé : 20,7 kg. Pour passer sous les 20 kg, j'aurais dû troquer la tente pour un bivy à 150 g.
 
-![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080875-600x450.jpg)
+![](https://tcrouzet.com/images_tc/2019/03/P1080875-600x450.jpg)
 
 
 

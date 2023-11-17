@@ -6,13 +6,13 @@ Les chiffres « semblent » dire que plus la pandémie commence tard, moins el
 
 ### Morts/pop - linéaire
 
-![Morts par région](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/reg1.png)
+![Morts par région](https://tcrouzet.com/images_tc/2020/04/reg1.png)
 
 Ce graphique nous montre ce que nous savons déjà, que le Grand Est et l’Île-de-France sont les plus touchées, que la Nouvelle-Aquitaine et l'Occitanie sont relativement épargnées. On observe aussi une différence de dynamique, plus une région est touchée plus la courbe monte rapidement, phénomène d’accélération qui ne semble jamais se produire dans les régions moins touchées.
 
 ### Morts/pop - logarithmique
 
-![France en log](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/reg2.png)
+![France en log](https://tcrouzet.com/images_tc/2020/04/reg2.png)
 
 En logarithme, les écarts d'amplitude sont tassés, ce qui permet de mieux voir les tendances. Les débuts des courbes sont chaotiques parce que la pandémie commence lentement (effet chaotique invisible sur les pays à cause d’un grand nombre de cas). Mais on retrouve le même phénomène qu’avec les pays. Plus une région est touchée tardivement, moins elle monte haut (et réciproquement). En revanche, l'évolution est comparable (même courbe à l'échelle près, les courbes se croisent rarement).
 
@@ -26,9 +26,9 @@ Bien que partie tard en l’Île-de-France, la pandémie se rapproche au fil des
 
 ### Avec la Lombardie
 
-![Avec la Lombardie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/reg3.png)
+![Avec la Lombardie](https://tcrouzet.com/images_tc/2020/04/reg3.png)
 
-![Avec la Lombardie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/reg4.png)
+![Avec la Lombardie](https://tcrouzet.com/images_tc/2020/04/reg4.png)
 
 Est-ce un phénomène franco-français ? [Il suffit d'ajouter la Lombardie pour vérifier que non.](https://www.kaggle.com/sudalairajkumar/covid19-in-italy) Commencée beaucoup plus tôt, l'explosion italienne est partie comme une flèche, tout en suivant la même trajectoire que les régions françaises parties plus tard.
 

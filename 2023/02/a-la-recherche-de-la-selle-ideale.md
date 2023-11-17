@@ -10,7 +10,7 @@ J’étais peut-être plus résistant, ou moins chochotte qu’aujourd’hui, ou
 
 Plus tard, chaque fois que j’ai arrêté le vélo pour quelques mois, quand je travaillais trop ou pensais à autre chose, j’avais mal aux fesses lors de mon retour en selle, puis je n’y pensais plus, pour la simple raison que je ne roulais pas assez pour que des douleurs récurrentes s’installent. Tout s’est compliqué quand j’ai repris le vélo de manière plus intense.
 
-![Image SQLab](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/SQlab-Becken-mit-Schambeinbogen-2015-US.jpg)
+![Image SQLab](https://tcrouzet.com/images_tc/2022/10/SQlab-Becken-mit-Schambeinbogen-2015-US.jpg)
 
 J’ai alors constaté que je n’étais pas le seul à me plaindre. Même des cyclistes beaucoup plus chevronnés que moi pouvaient souffrir de belles irritations lors des longues sorties VTT, surtout quand elles s’enchaînaient sur plusieurs jours. J’ai commencé à penser étude posturale, et d’abord j’ai fait mesurer la distance entre mes ischions dans une boutique Specialized : 113 mm séparaient mes deux os en appui sur la selle. Le vendeur en a conclu qu’une selle Specialized Power de 143 mm serait bien plus adaptée que mon ancienne Phenom (qui elle aussi mesurait 143 mm). Sans trop chercher à comprendre, j'ai fait confiance aveuglément au vendeur, tout en achetant un cuissard Assos T.Equipe EVO.
 
@@ -28,21 +28,21 @@ Quelques jours plus tard, je me cassais le col du fémur et me retrouvais privé
 
 Sur [le site de SQLab](https://www.sq-lab.com/), j’ai découvert [un graphique pour pondérer la distance entre mes ischions en fonction de ma position sur le vélo](https://www.sq-lab.com/en/ergonomics/sqlab-measurement-concepts/sit-bone-measurement/).
 
-![Facteur modificateur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/sqlab-add.png)
+![Facteur modificateur](https://tcrouzet.com/images_tc/2022/10/sqlab-add.png)
 
 Comme je suis moyennement penché, j’ai ajouté 20 mm à ma distance entre ischions pour aboutir à ma largeur de selle idéale, soit 133 mm. Avec ses 143 mm, il était logique que la Power me blesse.
 
-![Image SQLab](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/sqlab-bones.jpg)
+![Image SQLab](https://tcrouzet.com/images_tc/2022/10/sqlab-bones.jpg)
 
 Dans le monde bikepacking, beaucoup ne jurent que par Brooks. Je me suis remis à pédaler avec une C17 Cuved, la plus étroite de la gamme Brooks. Très vite j’ai constaté que ce genre de selle hyperlongue (280 mm contre 240 mm pour la Power) ne me convenait pas du tout. La C17, en plus d’abraser les cuissards, me tapait dans les couilles à la moindre secousse (la B17 narrow ne valait guère mieux pour moi, testé avec ou sans cuissard).
 
 J’ai alors pris conscience d’un étrange phénomène. Avant ma fracture du col du fémur, il n’était pas rare que je me lève deux ou trois par nuit pour aller pisser. Habitude perdue durant ma convalescence et qui revenait depuis mon retour sur le vélo. J’ai compris que les selles ne faisaient pas du bien à ma prostate de quinquagénaire. J’ai cru avoir trouvé la selle parfaite avec la hideuse ISM PL1.1. J’avais l’impression de rouler les couilles à l’air. Terminé les multiples réveils nocturnes. J’en ai déduit que ma selle idéale devait être ouverte, ou du moins creusée.
 
-![ISM](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9589-1.jpeg)
+![ISM](https://tcrouzet.com/images_tc/2022/10/IMG_9589-1.jpeg)
 
 J’ai survécu avec l’ISM jusqu’à ma [GTMC 2021](https://tcrouzet.com/2021/07/26/la-gtmc-des-bijoux-a-travers-les-cailloux/), où malgré un tout nouveau cuissard Assos endurance, elle a fini par me brûler l’aine à tel point que j’ai terminé le parcours en danseuse. J’en étais revenu à mon point de départ dans ma quête de la selle idéale, mais, plutôt que de continuer des essais hasardeux, j’ai eu l’idée de superposer les selles sur Photoshop à la recherche de celles qui seraient évasées à la hauteur de mon point de frottement. J’ai ainsi découvert une première candidate : la Selle Italia Novus Boost Superflow S (135 mm).
 
-![Superposition sur Photoshop](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/photoshop01.jpg)
+![Superposition sur Photoshop](https://tcrouzet.com/images_tc/2022/10/photoshop01.jpg)
 
 J’ai commencé à rouler avec, constatant en effet que l’aine était bien mieux protégée, même si pas totalement épargnée. En revanche, cette selle avait tendance à me provoquer des fourmis dans les fesses, ce qui était nouveau pour moi. Après une cinquantaine de kilomètres, j’avais systématiquement des douleurs dans les ischions et j’étais obligé de me mettre de plus en plus souvent en danseuse.
 

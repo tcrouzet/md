@@ -12,7 +12,7 @@ Bien sûr, mon raisonnement ne tient que si une ressource aujourd’hui publique
 
 Je vais tenter une fois encore de m’expliquer (et pourquoi pas aboutir à une incohérence qui ruinerait ma position). J’aimerais me tromper sur tout, ça serait si simple si chacun pouvait faire ce qu’il voulait sans que cela ait la moindre conséquence collective. Peu avant sa mort, Bruno Latour a déclaré : « Le contraste entre le calme avec lequel nous continuons à vivre tranquillement et ce qui nous arrive est vertigineux. » La liberté individuelle a malheureusement des limites, et parce que je ne veux pas qu’elle se restreigne, je souhaite qu’il nous reste assez d’espaces publics pour nous épanouir.
 
-![Du sol à la trace](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/opens01.jpg)
+![Du sol à la trace](https://tcrouzet.com/images_tc/2022/11/opens01.jpg)
 
 ### Le sol
 
@@ -42,7 +42,7 @@ Je ne dis pas qu’un tel mécanisme est à l’œuvre à cause des évènements
 
 Quand je défends ces positions, qui je le répète sont politiques et donc discutables, on en vient souvent à me reprocher de vendre des livres, qui plus est sur Amazon. N’ai-je pas dit que je n’étais pas anticapitaliste ? Cela ne m'empêche pas de diffuser mon blog et certains de mes livres sous licence libre. Mais mon cas particulier n’a aucune importance.
 
-![Cas des textes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/opens02.jpg)
+![Cas des textes](https://tcrouzet.com/images_tc/2022/11/opens02.jpg)
 
 Si les lettres et les mots appartiennent au domaine public, si encore quelques phrases lui appartiennent, on trouve beaucoup moins de paragraphes, et pratiquement plus de narrations complètes versées dans le domaine public, du moins avant la mort des auteurs. Un auteur utilise une ressource publique pour créer des combinaisons uniques. Il crée quelque chose qui ne se superpose à rien de connu (sinon c’est un plagiat). Il ajoute au monde et il est légitime qu’il monétise son œuvre.
 

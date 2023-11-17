@@ -14,29 +14,29 @@ Le soleil nous cueille à la sortie des pinèdes. Une magnifique journée s’an
 
 Au sommet, la vue est superbe. Vers le sud, la plaine littorale tapissée de vignobles clôturée par la ligne argentée de la mer, au nord, les contreforts des Cévennes, vers lesquels nous déboulons. Dès que nous retrouvons les faces nord des collines, le froid nous ressaisit, mais jamais longtemps.
 
-![Dans les garrigues](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4406.jpeg)
+![Dans les garrigues](https://tcrouzet.com/images_tc/2020/10/IMG_4406.jpeg)
 
-![Vers le pic Saint-Loup](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4411.jpeg)
+![Vers le pic Saint-Loup](https://tcrouzet.com/images_tc/2020/10/IMG_4411.jpeg)
 
-![Vers le pic Saint-Loup](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4421.jpeg)
+![Vers le pic Saint-Loup](https://tcrouzet.com/images_tc/2020/10/IMG_4421.jpeg)
 
-![Mon Diverge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4429.jpeg)
+![Mon Diverge](https://tcrouzet.com/images_tc/2020/10/IMG_4429.jpeg)
 
 Un ruisseau nous arrête, avec un gué à la stabilité incertaine. Gilles hésite, puis se décide à franchir à vélo. Derrière lui, Valérie l’imite. Je la suis, sauf que mon Diverge est plus bas, l’eau me chatouille les orteils droits. Devant nous le pic Saint-Loup et l’Hortus dessinent une porte géante vers laquelle nous roulons à travers les vignes rouillées par l’automne.
 
 Après la chapelle romane [Notre-Dame d'Aleyrac](https://fr.wikipedia.org/wiki/Chapelle_Notre-Dame_d%27Aleyrac), une allée majestueuse de platanes nous envoie en direction du village de Lauret, puis un beau coup de cul nous transporte à Claret où nous savourons thés et cafés avant d’attaquer la première des deux grosses difficultés de la journée.
 
-![Notre-Dame d'Aleyrac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4422.jpeg)
+![Notre-Dame d'Aleyrac](https://tcrouzet.com/images_tc/2020/10/IMG_4422.jpeg)
 
-![Notre-Dame d'Aleyrac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4423.jpeg)
+![Notre-Dame d'Aleyrac](https://tcrouzet.com/images_tc/2020/10/IMG_4423.jpeg)
 
-![L'hortus](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4427.jpeg)
+![L'hortus](https://tcrouzet.com/images_tc/2020/10/IMG_4427.jpeg)
 
-![Julien et Gilles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4431.jpeg)
+![Julien et Gilles](https://tcrouzet.com/images_tc/2020/10/IMG_4431.jpeg)
 
-![La mer au sud](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4432.jpeg)
+![La mer au sud](https://tcrouzet.com/images_tc/2020/10/IMG_4432.jpeg)
 
-![Pompignan, tout en bas](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4438.jpeg)
+![Pompignan, tout en bas](https://tcrouzet.com/images_tc/2020/10/IMG_4438.jpeg)
 
 Le parcours est moins joueurs que dans les pinèdes, mais parfait pour le gravel, avec toujours des points de vus uniques sur le pic Saint-Loup. Nous savourons cette journée, nous extasiant de notre chance d’être là, à ce moment, sans soucis, sans penser à rien d’autre qu’à partager. Ce que nous sommes, ce que nous faisons le reste du temps, rien ne compte, sinon notre goût de l’effort, qui suffit à nous placer sur la même longueur d’onde.
 
@@ -44,11 +44,11 @@ On parlerait de politique ou d’autre chose, ça déraillerait sans doute, mais
 
 Après un bout de plaine, nous nous ravitaillons à la boulangerie de Pompignan, puis longeons le cours asséché du Rieu Massel environné de murets de pierres, franchi par un ancien pont écroulé, à l’apparence romaine, mais qui n’est pas aussi ancien. On roule sur des [lapiaz](https://fr.wikipedia.org/wiki/Lapiaz), effleurement de roches ciselées par le ruissellement, avant d’attaquer un long DFCI impeccable qui grimpe sur près de cinq kilomètres et nous amène à l’ermitage Notre-Dame de Monier où nous cassons la croûte, assis sur le mur ou même allongés dans l’herbe. Nous nous promettons de revenir bivouaquer là un soir d'été.
 
-![Notre-Dame de Monier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4444.jpeg)
+![Notre-Dame de Monier](https://tcrouzet.com/images_tc/2020/10/IMG_4444.jpeg)
 
-![Du roulant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4448.jpeg)
+![Du roulant](https://tcrouzet.com/images_tc/2020/10/IMG_4448.jpeg)
 
-![Montoulieu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/montoulieu.png)
+![Montoulieu](https://tcrouzet.com/images_tc/2020/10/montoulieu.png)
 
 La descente est plus raide que la montée. Greg goûte les cailloux d’un des virages, mais repart aussi vite en direction de Montoulieu. Après une incursion dans le Gars, nous revoilà dans l’Hérault et j’arrête de prendre des photos, trop occupé à m’agripper à mon cintre pour ne pas me faire éjecter du vélo. Ça tabasse. Nous sommes en pleine nature, c’est toujours aussi splendide, mais les chemins de garrigues sont peu indulgents pour nos bras. Terminé la rigolade, nous serrons les dents.
 
@@ -68,9 +68,9 @@ Notre moyenne en prend un coup. Le soleil commence à plonger sur les montagnes 
 
 L’heure dorée porte bien son nom. Pédaler dans cette lumière me fait oublier tout ce qui précède. Je n’éprouve ni fatigue ni lassitude. J’aime les longs périples qui mènent à cette intensité existentielle. Peut-être même que les chaos, les petits déplaisirs, sont une étape indispensable, à une sorte d’initiation spirituelle. Si tout était trop simple, trop direct, trop velouté, il manquerait quelque chose à l’expérience. Je ne suis pas masochiste, mais l'effort a ses vertus, tout cycliste le sait. Quand la nuit tombe, mes forces se décuplent, c'est une tactique inventée par l'évolution pour que le prédateur trouve à se nourrir, puis un gîte avant la nuit. J'aime détourner cette énergie pour la transformer en pur plaisir. Je suis accro à cette drogue.
 
-![L'heure dorée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4453.jpeg)
+![L'heure dorée](https://tcrouzet.com/images_tc/2020/10/IMG_4453.jpeg)
 
-![L'heure dorée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4468.jpeg)
+![L'heure dorée](https://tcrouzet.com/images_tc/2020/10/IMG_4468.jpeg)
 
 Alors nous savourons, nous nous gorgeons d’ambre, des volutes brumeuses de la fin du jour. Une à une nos frontales ou nos phares s’allument. Quand Stéphane dérape, bloque sa roue avant dans une ornière et fait la culbute, nous décidons de rentrer par la route. Nous nous transformons en points clignotants dans la nuit de plus en plus glaciale.
 
@@ -78,7 +78,7 @@ Romain et Stéphanie nous accueillent chez eux avec un magnifique festin. Il est
 
 C’est quoi le gravel ? Étendre le terrain de jeu du VTT. Rouler sur des chemins ou de petites routes, toujours plus loin, toujours plus longtemps. En prendre plein les yeux. OK, parfois plein les bras, mais c’est inévitable quand on allonge les distances, certaines connexions pouvant être rudes, surtout dans notre Midi où la pierre n’est jamais loin sous la terre. Mais bon, parfois ce n'est vraiment pas gravel.
 
-![La trace](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/gravierstrava.jpg)
+![La trace](https://tcrouzet.com/images_tc/2020/10/gravierstrava.jpg)
 
 
 

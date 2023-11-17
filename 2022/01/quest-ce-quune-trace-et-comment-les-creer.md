@@ -40,7 +40,7 @@ Pour ma part, je préfère éviter les voitures, leur bruit, leur pollution. Mê
 
 Si vous ne connaissez pas [Alee Denham](https://www.cyclingabout.com/), je vous conseille de suivre [sa chaîne YouTube](https://www.youtube.com/c/Cyclingabout) et de [lire ses bouquins](https://cyclingabout.gumroad.com/). Si vous voulez acheter un vélo, ses guides sont indispensables. Ses conseils aussi. J'aime son approche scientifique et rationnelle. Figurez-vous qu'Alee se définit tantôt comme cyclotouriste, tantôt comme bikepacker. Il propose d'ailleurs un guide des vélos de bikepacking, un autre des vélos de touring, deux pratiques pour lui très différentes, qui loin de s'exclure se complètent, mais ne se pratiquent pas sur les mêmes terrains. Je ne comprends toujours pas pourquoi nous tentons de nier ces différences en France plutôt des les cultiver dans leurs spécificités. Elles en sortiraient toutes deux grandies au lieu de fusionner dans un melting pot insipide. Mais le sens des mots évolue sans que nous puissions le contrôler. Alee me dit que la confusion touring/bikepacking se propage aussi en anglais.
 
-![Alee Denham](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/alee.jpg)
+![Alee Denham](https://tcrouzet.com/images_tc/2022/01/alee.jpg)
 
 Pourquoi les cyclotouristes français veulent-ils tous devenir des bikepackers ? Est-ce parce que le mot « tourisme » dans cyclotourisme leur déplaît ? Le côté anglo-saxon de bikepacking est-il plus sexy ? Est-ce juste une question de mode ? Je me moque de la réponse, nous allons juste devoir inventer un nouveau mot pour décrire le bikepacking hors asphalte (en suivant des traces narratives).
 

@@ -12,13 +12,13 @@ Pour lutter contre une maladie respiratoire virale de type covid, trois mesures 
 
 3. Le port du masque quand la distanciation physique est impossible.
 
-![Le masque d'abord](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/mvssha2020.png)
+![Le masque d'abord](https://tcrouzet.com/images_tc/2020/08/mvssha2020.png)
 
 Quand je regarde, les statistiques Google Trends pour ces trois termes, je constate que nous avons un gros problème, même un très gros problème. On ne parle que de masques, alors que c’est la mesure la moins importante des trois, celle qui fait le moins la différence, la moins à même d’enrayer l’épidémie. Pour preuve, depuis des mois on nous dit de porter le masque, et les cas ne cessent d’augmenter, tout simplement parce que nous faisons tout à l’envers.
 
 Après dix jours en Suisse, passés aux HUG (Hôpitaux Universitaires de Genève) où j’ai bouclé *Vaincre les épidémies*, un livre sur le covid en collaboration avec le professeur Didier Pittet, je suis rentré en France le 24 août et depuis je n’entends parler que du port du masque obligatoire et absolument jamais d’hygiène des mains, ce que confirment les tendances Google.
 
-![Le masque d'abord](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/mvssha20.png)
+![Le masque d'abord](https://tcrouzet.com/images_tc/2020/08/mvssha20.png)
 
 Rappels.
 

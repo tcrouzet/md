@@ -52,23 +52,23 @@ Je discute avec un ex Navy Seal. Je lui dis que mon père était sniper en Algé
 
 Longue baignade, marche sur la plage, tout est parfait, la lumière, la température de l’air et de l’eau. Il ne nous manque que les enfants qui préfèrent rester devant leurs jeux vidéo.
 
-![Dania Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090201-600x450.jpg)
+![Dania Beach](https://tcrouzet.com/images_tc/2019/05/P1090201-600x450.jpg)
 
-![Dania Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090198-600x450.jpg)
+![Dania Beach](https://tcrouzet.com/images_tc/2019/05/P1090198-600x450.jpg)
 
 ### Samedi 13, Boca Raton
 
 Petite escapade jusqu’au jardin japonais Morikami, une forêt de conifères aux allées ratissées, plantée autour d’un lac clafi de carpes et de poisson rouge. Le gardien à l’entrée me dit « Bonjour » alors que je ressors chercher notre sac dans la voiture. « Vous allez bien ? » Nous échangeons quelques mots. Je m’étonne de son français impeccable. Il m’explique qu’il est avocat, mais qu’il ne maîtrise pas assez l’anglais pour exercer aux États-Unis. « Mais la semaine prochaine je rentre à Haïti pour défendre un client. » Un peu plus tard, il nous retrouve alors que nous sommes assis à l’entrée d’un tunnel végétal. « Vous êtes au Paradis. » Nous approuvons. « Je ne plaisante pas, cet endroit s’appelle comme ça. »
 
-![Le Paradis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090270-600x450.jpg)
+![Le Paradis](https://tcrouzet.com/images_tc/2019/05/P1090270-600x450.jpg)
 
-![Jardin Morikami](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090280-600x450.jpg)
+![Jardin Morikami](https://tcrouzet.com/images_tc/2019/05/P1090280-600x450.jpg)
 
 Nous quittons Boca Raton pour Jupiter Island. J’y étais venu une fois seul. Entre le village de Hobe Sound et l’océan, il y a une route extraordinaire avec des ficus géants aux branches entortillées. Nous marchons le long de la plage, plus sauvage que plus au sud, avec des vagues plus méchantes que quelques surfeurs cherchent en vain de dompter. Quand nous regagnons la voiture, il nous manque une chaussure. Elle s’est décrochée de mon sac. Nous repartons à l’envers et tombons sur un couple qui l’a ramassée. Je ne suis pas sûr qu’en France des Français auraient fait le même effort. Il subsiste en Amérique une propension à la coopération, moins développée chez les Hispaniques que chez les Anglosaxon.
 
-![Jupiter Island](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/IMG_4445-600x450.jpg)
+![Jupiter Island](https://tcrouzet.com/images_tc/2019/05/IMG_4445-600x450.jpg)
 
-![Jupiter Island](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090315-600x450.jpg)
+![Jupiter Island](https://tcrouzet.com/images_tc/2019/05/P1090315-600x450.jpg)
 
 ### Lundi 15, Weston
 
@@ -94,41 +94,41 @@ Rentrant de ma sortie vélo, je remonte plusieurs kilomètres de bouchon : des 
 
 Promenade dans le musée à ciel ouvert de Wynwood.
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090356-600x450.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2019/05/P1090356-600x450.jpg)
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090357-1-600x450.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2019/05/P1090357-1-600x450.jpg)
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090376-600x450.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2019/05/P1090376-600x450.jpg)
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090389-600x450.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2019/05/P1090389-600x450.jpg)
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090398-600x450.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2019/05/P1090398-600x450.jpg)
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090419-600x450.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2019/05/P1090419-600x450.jpg)
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090428-600x450.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2019/05/P1090428-600x450.jpg)
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090442-600x450.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2019/05/P1090442-600x450.jpg)
 
 ### Mardi 23, Mark’s Fish Camp
 
 Je discute avec le fils de Marshall. Un colosse torse nu bardé de cicatrices, à la face tuméfiée comme s’il sortait d’un match de boxe. Il me demande où nous vivons. Je lui réponds : « Weston, mais je déteste, je préférerai vivre ici, au milieu de marais. » Il me tend la main. « Si tu penses comme ça, t’es un mec bien. » Me citant la bible toutes les trois phrases, il me raconte que l’endroit n’a pas toujours été aussi paisible. « C’était un repère de soiffards. » Il a méchamment amoché un gars dans sa jeunesse, puis il s’est mis au vert en Afrique du Sud avant de rentrer. Une fois de retour, il a fait le ménage. « On ne vend plus d’alcool. » Il me montre sa musculature impressionnante. Il me demande de toucher ses bras. Ils sont de pierre. Il pointe un doigt la corde qui pend au-dessus du canal où nagent trois alligators. « J’ai passé mon enfance pendu à cette corde, c’est comme ça que je suis devenu fort, il faut pas me chercher. » « Tu nageais avec les alligators ? » Il approuve.
 
-![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090511-600x450.jpg)
+![Everglades](https://tcrouzet.com/images_tc/2019/05/P1090511-600x450.jpg)
 
-![Alligator](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090557-600x450.jpg)
+![Alligator](https://tcrouzet.com/images_tc/2019/05/P1090557-600x450.jpg)
 
-![Alligator](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/IMG_4508-600x450.jpg)
+![Alligator](https://tcrouzet.com/images_tc/2019/05/IMG_4508-600x450.jpg)
 
-![Mark's fish camp](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090605-600x450.jpg)
+![Mark's fish camp](https://tcrouzet.com/images_tc/2019/05/P1090605-600x450.jpg)
 
 ### Jeudi 25, Bahia Honda
 
-![Bahia Honda](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090607-600x450.jpg)
+![Bahia Honda](https://tcrouzet.com/images_tc/2019/05/P1090607-600x450.jpg)
 
-![Bahia Honda](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090621-600x450.jpg)
+![Bahia Honda](https://tcrouzet.com/images_tc/2019/05/P1090621-600x450.jpg)
 
-![Bahia Honda](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090623-600x450.jpg)
+![Bahia Honda](https://tcrouzet.com/images_tc/2019/05/P1090623-600x450.jpg)
 
 ### Vendredi 26, Key West
 
@@ -150,7 +150,7 @@ Je me vois penser par les mots écrits plus que je ne pense. C’est un exercice
 
 Puis, d'un coup, je m'arrête, lève la tête, ressens une pression sur mon lobe frontal, peut-être en témoignage de mon activité mentale. Autour de mes trente ans, il m'est arrivé d'enchaîner ainsi des journées d’écriture, remplissant des carnets en série, des carnets qui restent à transcrire, tâche que je dévouerai à une IA, alors je me relirai pour peut-être publier l'intégralité de mon flux de conscience. Je m'étais donné cette mission, je n'en vois pas d'autre utile, si je fais œuvre, elle est là.
 
-![Key West](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090659-591x450.jpg)
+![Key West](https://tcrouzet.com/images_tc/2019/05/P1090659-591x450.jpg)
 
 Assis au pied du Kapok pendant qu'Isa visite la maison Hemingway avec les enfants. La présence de leurs cousins leur donne une motivation qu'ils n'ont pas seuls avec nous. Je n’ai pas eu envie de retourner dans cette maison, malgré sa douceur, j'y ai trop senti la mort, celle brutale d’Hemingway et la mienne inévitable.
 
@@ -166,13 +166,13 @@ Le plus difficile est d’atteindre en même temps la pleine conscience de soi e
 
 ### Samedi 27, Naples
 
-![Tin City](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090682-600x450.jpg)
+![Tin City](https://tcrouzet.com/images_tc/2019/05/P1090682-600x450.jpg)
 
 ### Samedi 27, Sanibel
 
 Un résumé d'une certaine Amérique : une femme mange une glace, pendant que son chien en mange une autre.
 
-![Une pour elle, une pour son chien](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/IMG_4591-600x450.jpg)
+![Une pour elle, une pour son chien](https://tcrouzet.com/images_tc/2019/05/IMG_4591-600x450.jpg)
 
 ### Dimanche 28, Sanibel
 
@@ -194,9 +194,9 @@ Certains disent que tout a déjà été écrit, mais c’est le contraire, tout 
 
 Arrêt à l’ancienne propriété d’Edisson et de Ford, où ils ont tenté de produire du caoutchouc à partir des ficus. Moi qui avais tant de mal à différencier les banians des ficus j’y vois plus clair. Les banians appartiennent au genre ficus, on les appelle aussi les walking trees, parce que leurs branches ressemblent à des jambes, tendues en avant, posées au sol, où elles reprennent racine. Ils sont originaires d’Inde. Ils produisent des figues. Ne voilà pas que les figuiers aussi sont des ficus. Oui, mêmes troncs gris, torsadés. Seules leur taille et leurs feuilles changent. L’un énorme, gigantesque. Je rêve sur un banc devant les pylônes d’une ancienne jetée. Quand je me relève, je vois que c’était le banc où Edisson aimait s’installer. Bien sûr aucune référence à Nicolas Tesla dont il s’est approprié les brevets.
 
-![Edisson and Ford estate](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090687-600x450.jpg)
+![Edisson and Ford estate](https://tcrouzet.com/images_tc/2019/05/P1090687-600x450.jpg)
 
-![Racines d'un ficus drupacea](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090703-600x450.jpg)
+![Racines d'un ficus drupacea](https://tcrouzet.com/images_tc/2019/05/P1090703-600x450.jpg)
 
 
 

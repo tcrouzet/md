@@ -4,7 +4,7 @@ J’en oublie qui je suis. Il faut que je marche dans Sète, grande rue Haute, a
 
 Je me retrouve aussi par ces mots, par ces premières phrases, dictées par les impressions, par la musique des risées et de quelques automobiles. Je ne cherche ni à être compris, ni à séduire, juste à me dire pour mieux me vivre. Je me fiche que cette écriture n’intéresse presque personne, elle est la seule qui vaille, toutes les autres orbitent plus ou moins loin de son foyer flamboyant.
 
-![Tête de faune vue avant d'écrire (et qui reste avec moi).](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/tete.jpg)
+![Tête de faune vue avant d'écrire (et qui reste avec moi).](https://tcrouzet.com/images_tc/2016/02/tete.jpg)
 
 Je ne suis pas poète, je ne suis qu’un sismographe abandonné à tous les séismes du monde. Il ne devrait rester que ça, tous les efforts oubliés, écartés, utiles que pour en arriver là. Si je ne faisais qu’écrire pour être lu, j’en négligerais la chaleur de la pierre sous mes mains, l’inconfort du caillou trop pointu pour mes fesses, le simple bonheur de n’avoir aucun objectif, sinon celui de ressentir.
 

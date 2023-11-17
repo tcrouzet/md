@@ -10,7 +10,7 @@ Nous sommes un peu moins d’une quarantaine, avec davantage de VTT que de grave
 
 Il est facile de dire « Chacun fait comme il veut », mais dans les faits, l’état d’esprit des uns influence celui des autres. Certains vont rouler légers et effectuer une sortie ordinaire, à fond de train, pendant que d’autres transportent leur maison avec eux, avec l’obligation de rouler plus lentement, d’autant plus quand les terrains deviennent accidentés. Je trouve que ça crée une dissonance inharmonieuse.
 
-![La Canourgue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0489.jpeg)
+![La Canourgue](https://tcrouzet.com/images_tc/2021/07/IMG_0489.jpeg)
 
 Je pédale donc sans excitation, même si je retrouve mon copain Georges avec son tout nouveau Cinelli. Je me demande ce que je fiche là. Je suis certes dans la nature, mais sans que les paysages m’explosent à la figure. La vue ne porte pas souvent et j’ai l’impression de grimper pour grimper. Certains ont mis des coups de fusil d’entrée comme pour bien me démontrer que nos attentes différaient. Je pédale en quête de transcendance et d’expérience esthétique, non pas sportive.
 
@@ -18,11 +18,11 @@ De fait, une ambiance course à étape règne, puisque nous avons rendez-vous en
 
 Plus nous avançons, plus je comprends pourquoi je n’apprécie guère le moment. Je suis chargé pour le voyage, mais je ne voyage pas. Je ne suis pas dans une aventure bikepacking. Et la succession de pistes me donne l’impression de tourner en rond jusqu’à ce que nous empruntions un single qui nous propulse au-dessus des gorges du Tarn. Je me dis que je n’ai pas pédalé pour rien. Le point de vue est sublime et me récompense pour mes efforts, d'autant que la descente vers le fond des gorges me rappelle que le vélo doit être aussi du pilotage.
 
-![Gorges du Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0506.jpeg)
+![Gorges du Tarn](https://tcrouzet.com/images_tc/2021/07/IMG_0506.jpeg)
 
-![Gorges du Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0497.jpeg)
+![Gorges du Tarn](https://tcrouzet.com/images_tc/2021/07/IMG_0497.jpeg)
 
-![Gorges du Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0508.jpeg)
+![Gorges du Tarn](https://tcrouzet.com/images_tc/2021/07/IMG_0508.jpeg)
 
 Il ne devait pas y avoir de point de ravitaillement sur l’étape, mais une cahute est ouverte à l’entrée d’un camping au bord de la rivière. Nous nous arrêtons à l’ombre pour boire une canette fraîche. Quatre Toulousains nous rejoignent, dont Félix avec qui j’ai bouclé mon premier tout de l’Hérault.
 
@@ -32,19 +32,19 @@ Nous nous remettons en marche, escaladant l’autre face de la gorge par une rou
 
 Georges m’a attendu, mais nous ne faisons pas l’effort de rattraper les Toulousains. Comme après tous les déjeuners, je connais un petit coup de mou, avant que Georges ne subisse un coup de chaud. Il fait plus de 30°C, l’ombre est rare, le causse ondule à perte de vue, sans aspérité, jusqu’à ce que nous découvrions le spectaculaire [Chaos de Nîmes-le-Vieux](https://www.mende-coeur-lozere.fr/offres/chaos-de-nimes-le-vieux-fraissinet-de-fourques-fr-266275/).
 
-![Sainte-Enimie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0514.jpeg)
+![Sainte-Enimie](https://tcrouzet.com/images_tc/2021/07/IMG_0514.jpeg)
 
-![Sainte-Enimie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0520.jpeg)
+![Sainte-Enimie](https://tcrouzet.com/images_tc/2021/07/IMG_0520.jpeg)
 
-![Sainte-Enimie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0522.jpeg)
+![Sainte-Enimie](https://tcrouzet.com/images_tc/2021/07/IMG_0522.jpeg)
 
-![Le causse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0526.jpeg)
+![Le causse](https://tcrouzet.com/images_tc/2021/07/IMG_0526.jpeg)
 
-![Le causse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0529.jpeg)
+![Le causse](https://tcrouzet.com/images_tc/2021/07/IMG_0529.jpeg)
 
-![Chaos de Nîmes-le-Vieux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0535.jpeg)
+![Chaos de Nîmes-le-Vieux](https://tcrouzet.com/images_tc/2021/07/IMG_0535.jpeg)
 
-![Gatuzières](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0541.jpeg)
+![Gatuzières](https://tcrouzet.com/images_tc/2021/07/IMG_0541.jpeg)
 
 Nous nous laissons alors glisser vers la vallée, entrant dans les Cévennes pour rejoindre la brasserie peu après 17 heures, les premiers étant arrivés vers 14 h 30. Après deux bonnes limonades pour moi, nous repartons vers Meyrueis. Je n'ai qu'une envie, continuer de pédaler jusqu'à la tombée de la nuit, pour vivre la tension de la fin du jour dans la nature, un must do en bikepacking. Mais le Houblon tour fait étape. Nous nous installons au camping, où comme dans tous les camping il y aura du bruit, trop de lumières. Après la douche, pas nécessaire pour moi après une seule journée de pédalage, nous buvons un verre en ville avant le repas du soir. Les derniers n’arriveront qu’à 23 h 30.
 
@@ -56,15 +56,15 @@ Georges et moi anticipons le départ, quittant le petit déjeuner à 7 h 40, alo
 
 Un Angevain, déjà surnommé l’avion de chasse, nous double, sans nous adresser deux mots. On se croirait dans une étape du Tour. Vingt minutes plus tard, une autre fusée arrive, mais plus cool, on échange quelques mots. Quand il nous quitte, accélérant avec furie, il nous lance « Je vais me le faire », en nous parlant bien sûr de l’Angevain. Bonjour l’ambiance. Mais qu’est-ce que je fiche là avec des énergumènes pareils. Ils me gâchent la journée. J’ai l’impression d’être en ville, coincée entre des automobilistes surexcités. Pas vraiment dépaysant.
 
-![Sur le causse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0542.jpeg)
+![Sur le causse](https://tcrouzet.com/images_tc/2021/07/IMG_0542.jpeg)
 
-![Sur le causse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0544.jpeg)
+![Sur le causse](https://tcrouzet.com/images_tc/2021/07/IMG_0544.jpeg)
 
-![Sur le causse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0545.jpeg)
+![Sur le causse](https://tcrouzet.com/images_tc/2021/07/IMG_0545.jpeg)
 
-![Sur le causse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0551.jpeg)
+![Sur le causse](https://tcrouzet.com/images_tc/2021/07/IMG_0551.jpeg)
 
-![Sur le causse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0553.jpeg)
+![Sur le causse](https://tcrouzet.com/images_tc/2021/07/IMG_0553.jpeg)
 
 Peu après, les Toulousains nous rejoignent et nous les laissons filer après avoir rigolé un moment avec eux, Félix voulant me soudoyer pour que je ne raconte pas qu’il a oublié les piquets de sa tente à Toulouse. Nous continuons de monter descendre, prenant une photo de temps à autre. Georges aussi pédale sans joie, d’autant que son Cinelli ne lui pardonne aucun caillou. Dans notre Midi, le gravel est toujours à la limite. On passe souvent, pas toujours, mais faute de suspension, les articulations des bras et des épaules ramassent. Voilà pourquoi j’ai décidé ne plus rouler sans suspension avant. Je privilégie le confort. Gravel vendu.
 
@@ -72,21 +72,21 @@ Un autre graveliste nous rejoint. Nous comprenons peu à peu que la plupart de c
 
 Après Barre des Cévennes, charmant village de pierres grises et d’ardoises, avec un ingénieux caniveau en inox taillée au milieu de la chaussée, nous grimpons encore, avant de descendre vers Florac à travers bois, terminant par une ancienne voie ferrée. Peu avant 13 h, nous nous installons pour déjeuner en terrasse d’une pizzeria. Deux Parisiens nous rejoignent et nous mangeons ensemble. Nous commandons des calzones en précisant que nous les voulons avec œuf. Dans un très mauvais français, le serveur prend note, nous faisant répéter dix fois notre commande. Nous nous demandons bien ce qui nous sera servi, des calzones sans œuf. Nous commandons des œufs au plat. Le serveur nous rapporte des œufs frais.
 
-![Vers Barre des Cévennes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0555.jpeg)
+![Vers Barre des Cévennes](https://tcrouzet.com/images_tc/2021/07/IMG_0555.jpeg)
 
-![Barre des Cévennes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0563.jpeg)
+![Barre des Cévennes](https://tcrouzet.com/images_tc/2021/07/IMG_0563.jpeg)
 
-![Barre des Cévennes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0564.jpeg)
+![Barre des Cévennes](https://tcrouzet.com/images_tc/2021/07/IMG_0564.jpeg)
 
-![Vers Florac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0569.jpeg)
+![Vers Florac](https://tcrouzet.com/images_tc/2021/07/IMG_0569.jpeg)
 
-![Vers Florac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0571.jpeg)
+![Vers Florac](https://tcrouzet.com/images_tc/2021/07/IMG_0571.jpeg)
 
 À ce moment, il se met à pleuvoir. Monter descendre avec ce temps, non merci. D’autant que les prévisions ne sont pas réjouissantes, surtout pour la nuit et le lendemain. Plutôt que de terminer la seconde étape jusqu’à Chanac, Georges et moi décidons de regagner notre point de départ à La Canourgue, pendant que les Parisiens continuent par la route. Si nous étions à l'autre bout de la France, nous aurions poursuivi sur la trace, mais la proximité de nos voitures et maisons a eu raison de notre volonté d'en chier.
 
 Il pleut, il pleut, pas d'autre choix que de remonter sur le causse. Peu à peu le ciel se dégage. Nous posons nos impers. Georges demande à Komoot de tous tracer un parcours gravel. Après deux bornes, nous sommes sur une piste balisée VTT, une draille pierreuse qui use les jambes, qui bientôt se termine en cul-de-sac. Nous avançons à l’aide de la carte IGN, franchissons des barrières, traversons des champs, avant de rejoindre une route, que nous engageons dans la mauvaise direction. Je m’amuse pour la première fois en deux jours.
 
-![Seuls au monde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_0578.jpeg)
+![Seuls au monde](https://tcrouzet.com/images_tc/2021/07/IMG_0578.jpeg)
 
 Je finis par demander à Komoot de nous ramener à destination par la route. Il nous envoie presque immédiatement sur une piste, puis de piste en piste. Nous sommes morts de rire. Et le soleil revient. C’est à nouveau l’été. Nous sommes à ce moment à égale distance La Canourgue et de Chanac. Nous hésitons à rejoindre le groupe, puis non, nous n’avons pas assez d’aquintance avec les avions de chasse. Nous plongeons vers la vallée, moi, dans ma tête, déjà en train de me remettre au boulot.
 

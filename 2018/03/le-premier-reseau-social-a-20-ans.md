@@ -16,7 +16,7 @@ Sans Geneviève, sans ses connexions, sans son réseau, je n’aurais pas rencon
 
 — En math, un réseau est un graphe qui interconnecte des points. La carte du réseau, sa représentation, est en même temps le réseau. Par exemple, si on prend Internet, les câbles qui relient les serveurs deviennent les traits sur la carte et les serveurs les points. Nous autres sommes des points d’un réseau social interconnectés par les liens que sont nos relations d’amitié, de travail, de transaction…
 
-![Les trois architectures de Paul Baran](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/trois-b.png)
+![Les trois architectures de Paul Baran](https://tcrouzet.com/images_tc/2016/01/trois-b.png)
 
 On décrit les différentes formes possibles des réseaux sociaux en parlant de leur topologie. Dans un réseau centralisé, tous les acteurs sont connectés à un acteur central, le hub ou nœud du réseau. La carte ressemble à une étoile, voire à un arbre ou à un organigramme quand de nouvelles étoiles poussent à l’extrémité des branches initiales. On retrouve cette structure dans beaucoup d’entreprises.
 

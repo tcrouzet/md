@@ -26,33 +26,33 @@ J’ai toujours fait le contraire de mon père pour finir par découvrir que je 
 
 Design district. Sorte de mall à ciel ouvert où les marques de luxe ont ouvert leurs échoppes. Architecture plaisante, mais le concept est déprimant, d’autant qu’après nous roulons jusqu’à un restaurant conseillé par le Lonely Planet, l’odeur me noue immédiatement le ventre, il y fait si sombre que nous devons éclairer les menus avec nos portables, je ne commande rien, je sors marcher le long de l’US1, remonte un chaos de bouibouis, de motels, un désordre périurbain qui répond à ma confusion mentale. Qu’est-ce que je fous là ? Pourquoi je m’impose ça ? Pourquoi je l’accepte ?
 
-![Art District](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070811-600x450.jpg)
+![Art District](https://tcrouzet.com/images_tc/2018/11/P1070811-600x450.jpg)
 
-![Art District](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070818-600x450.jpg)
+![Art District](https://tcrouzet.com/images_tc/2018/11/P1070818-600x450.jpg)
 
-![Art District](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070822-600x450.jpg)
+![Art District](https://tcrouzet.com/images_tc/2018/11/P1070822-600x450.jpg)
 
-![Art District](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070825-600x450.jpg)
+![Art District](https://tcrouzet.com/images_tc/2018/11/P1070825-600x450.jpg)
 
-![Art District](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070836-600x450.jpg)
+![Art District](https://tcrouzet.com/images_tc/2018/11/P1070836-600x450.jpg)
 
-![Art District](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070866-600x450.jpg)
+![Art District](https://tcrouzet.com/images_tc/2018/11/P1070866-600x450.jpg)
 
 ### Dimanche 6, Key Biscayne
 
-![Iguane](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070902-1-600x450.jpg)
+![Iguane](https://tcrouzet.com/images_tc/2018/11/P1070902-1-600x450.jpg)
 
 ### Lundi 6, Weston
 
 Le vélo urbain est un enfer quand la ville néglige les cyclistes. Je fais une sortie de presque 90 km en sautant de trottoir en trottoir, la tête à toujours scruter les routes autour de moi aux innombrables croisements. Je finis par oublier où je mets mes roues et nouvelle gamelle. Je ne pédale pas, je broie du noir, maudissant cette Floride où les automobilistes sont d’une violence rare, où tout est conçu pour la voiture. J’atteins finalement Hollywood Beach, sa piste cyclable en bord d'océan, deux malheureux miles prévus pour déambuler où des vieux beaux font du roller blade. La plage est brûlante, impression d’être de retour dans le Midi en juillet. Je me sens mieux dès que je suis au contact de l’eau. Déjà à quelques kilomètres du rivage, l’air et le ciel changent de texture et je respire enfin avec plaisir.
 
-![Hollywood Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/IMG_1859-600x450.jpg)
+![Hollywood Beach](https://tcrouzet.com/images_tc/2018/11/IMG_1859-600x450.jpg)
 
 ---
 
 Isa a repéré une publicité pour l’université locale : « Don’t just graduate. Dominate. » De quoi avoir la pétoche. Il ne s’agit plus d’étudier pour l’édification de soi, mais pour écraser les autres. La revendication est on ne peu plus claire. Plus de honte à afficher ses intentions. Un résumé de notre temps de guerre. Battez-vous, écrasez-vous. Je ressens cette tension sur les routes de Floride. Tu traverses au passage piéton, les voitures foncent tout de même sur toi en klaxonnant, tout ça parce qu’elles ont droit de tourner à gauche ou à droite et que les conducteurs se fichent de ta priorité.
 
-![NSU](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/f68c4038-74d4-4ad7-9c42-d9ed249cc1bc-600x450.jpg)
+![NSU](https://tcrouzet.com/images_tc/2018/11/f68c4038-74d4-4ad7-9c42-d9ed249cc1bc-600x450.jpg)
 
 ### Mardi 7, Weston
 
@@ -108,7 +108,7 @@ Ne plus poster sur les réseaux sociaux, me contenter de commenter, de glisser d
 
 Je commence [*East and West*](https://www.amazon.fr/Sud-Ouest-Carnets-Joan-Didion/dp/2246814588/) de Joan Didion. Son voyage en Louisiane. Elle évoque son premier séjour dans le sud, des souvenirs remontent de l’enfance. Mon lien avec la Floride est ténu. J’avais un cousin qui y venait souvent durant les années 1980. Je l’aimais beaucoup, il avait dix ans de moins que mon père, il était comme son petit frère. Un déconneur, toujours avec des voitures de sport et des filles sublimes. À Miami, je suppose qu’il avait des amis guère recommandables. À cette époque, la pègre tenait la ville. Mon cousin m’a souvent parlé des immeubles indéfiniment déroulés le long de la côte. J’aurais dû me méfier, peut-être que je me suis laissé abuser par une voix ressurgie de mon passé. Ce cousin est mort depuis longtemps. Je l’évoque dans *Mon père était un tueur*.
 
-![Au travers du store](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070911-600x450.jpg)
+![Au travers du store](https://tcrouzet.com/images_tc/2018/11/P1070911-600x450.jpg)
 
 ### Lundi 12, Weston
 
@@ -164,19 +164,19 @@ Coup de barre monstre après 90 km. Je fais le plein de Gatorade dans une statio
 
 J'en reviens toujours aux arbres, aux nuages de Floride, leur ajoutant ici des maisons à claire-voie, leurs persiennes inclinées rappelant une douceur d'avant la climatisation. Mais au moindre pas de travers, je franchis l'entrée du centre commercial de Duval Street.
 
-![Route des keys à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/IMG_1938-600x450.jpg)
+![Route des keys à vélo](https://tcrouzet.com/images_tc/2018/11/IMG_1938-600x450.jpg)
 
-![Banian](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070926-600x450.jpg)
+![Banian](https://tcrouzet.com/images_tc/2018/11/P1070926-600x450.jpg)
 
-![Banian house](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070931-600x450.jpg)
+![Banian house](https://tcrouzet.com/images_tc/2018/11/P1070931-600x450.jpg)
 
-![Kapok](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070939-600x450.jpg)
+![Kapok](https://tcrouzet.com/images_tc/2018/11/P1070939-600x450.jpg)
 
 ---
 
 J’écris sur mon téléphone avec un clavier Bluetooth commandé en Chine pour 20 $. Je n’ai pas trouvé plus simple comme atelier d’écriture ultraléger pour les voyage, et dans l’idée de randonnées à vélo. Que rêver de mieux ? Pas besoin d'ordi, ou même d'iPad. Un téléphone de toute façon dans ma poche, cent grammes de plus pour ce clavier qui se déplie en trois, avec un touché plus que convenable. *Manifeste pour une électronique frugale*.
 
-![Ma machine à écrire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/P1080075-600x450.jpg)
+![Ma machine à écrire](https://tcrouzet.com/images_tc/2018/12/P1080075-600x450.jpg)
 
 ### Lundi 19, Key West
 
@@ -192,11 +192,11 @@ Je me vois visitant ma propre maison transformée après ma mort en musée. Je n
 
 Retour en voiture par la route des Keys. Nous déroulons une bande blanche entre des bleus blondis par les sables, des aigues-marines virant aux turquoises, des verts bouteille se perdant dans l’azur. Nous nous arrêtons aux pieds de l’ancien pont de chemin de fer de Bahia Honda. Une idée de ce que pourrait être la fin de notre civilisation, une route détruite comme on en voit dans les films postapocalyptiques, des iguanes à l’affût dans les buissons, la nature irradiée reprenant le dessus.
 
-![Bahia Honda Bridge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070969-600x450.jpg)
+![Bahia Honda Bridge](https://tcrouzet.com/images_tc/2018/11/P1070969-600x450.jpg)
 
-![Old bridge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070975-600x450.jpg)
+![Old bridge](https://tcrouzet.com/images_tc/2018/11/P1070975-600x450.jpg)
 
-![Old bridge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070985-600x450.jpg)
+![Old bridge](https://tcrouzet.com/images_tc/2018/11/P1070985-600x450.jpg)
 
 ### Mardi 20, Weston
 
@@ -204,9 +204,9 @@ Hemingway écrit dans une lettre : « The hardest thing in the world to do is 
 
 ### Mercredi 21, Everglades
 
-![Sawgrass](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/IMG_1979-600x450.jpg)
+![Sawgrass](https://tcrouzet.com/images_tc/2018/11/IMG_1979-600x450.jpg)
 
-![Grue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/IMG_1987-600x450.jpg)
+![Grue](https://tcrouzet.com/images_tc/2018/11/IMG_1987-600x450.jpg)
 
 ### Jeudi 22, Weston
 
@@ -222,17 +222,17 @@ Il suffit de coder pour comprendre l’origine du [*junk DNA*](https://fr.wikipe
 
 ### Samedi 24, Weston
 
-![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/IMG_0503-600x450.jpg)
+![Matin](https://tcrouzet.com/images_tc/2018/11/IMG_0503-600x450.jpg)
 
 ### Dimanche 25, Weston
 
 J’en ai terminé avec la remise en forme du blog, la simplification du code, aussi de l’interface, du moins il est plus en accord avec ce que je veux faire : publier mon carnet, des livres, travailler à des séries. [*Born to Bike*](https://tcrouzet.com/borntobike/) ressemblera à un livre, diffusé par chapitre, à lire dans l’ordre chronologique. Impression que ce travail technique a dévoré novembre, que je n’ai pas vécu, ou peu. La technique a toujours cet effet pernicieux sur moi. Je devrais la détester, je n’y arrive pas, pourtant elle me montre son fond pervers. Je ne suis pas sûr que les autres techniciens soient mieux protégés que moi. La technique dévore ses producteurs avant de dévorer ses utilisateurs, dans les deux cas dans l’espoir d’un monde meilleur, d’une vie meilleure. Il ne faut pas hésiter à rire.
 
-![Nouvelle version du blog](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/P1080068-600x450.jpg)
+![Nouvelle version du blog](https://tcrouzet.com/images_tc/2018/12/P1080068-600x450.jpg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1080048-600x450.jpg)
+![À vélo](https://tcrouzet.com/images_tc/2018/11/P1080048-600x450.jpg)
 
-![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1080061-600x450.jpg)
+![À vélo](https://tcrouzet.com/images_tc/2018/11/P1080061-600x450.jpg)
 
 ### Lundi 26, Weston
 

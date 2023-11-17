@@ -1,6 +1,6 @@
 # Elaine Herzberg : enquête à distance
 
-![NTSB investigators](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/04/ubercar-bis-600x460.jpg)Trois semaines qu’Elaine Herzberg a été tuée par un robot autonome et toujours rien sur elle ou presque dans les médias, rien sur a vie, son intimité, l’endroit où elle se rendait quand elle a traversé 640 North Mille Avenue en poussant son vélo.
+![NTSB investigators](https://tcrouzet.com/images_tc/2018/04/ubercar-bis-600x460.jpg)Trois semaines qu’Elaine Herzberg a été tuée par un robot autonome et toujours rien sur elle ou presque dans les médias, rien sur a vie, son intimité, l’endroit où elle se rendait quand elle a traversé 640 North Mille Avenue en poussant son vélo.
 
 Un message envoyé à quelques-uns de ses amis Facebook n’a suscité aucune réponse.
 
@@ -28,7 +28,7 @@ Invariablement, il est dit :
 
 Au même moment, sur France Culture, [dans une émission sur les IA](https://www.franceculture.fr/emissions/la-methode-scientifique/la-methode-scientifique-du-vendredi-06-avril-2018), j’ai entendu dire par deux personnes différentes que les voitures autonomes étaient moins dangereuses que celles pilotées par les humains. Au nom de quels chiffres ? Aucun, bien sûr, pas assez d’heures passées par ces voitures sur les routes. Les spécialistes de l’IA s’adonnent aux prophéties autoréalisatrices.
 
-![Uber Volvo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/04/uber-atg-volvo-600x455.jpg)
+![Uber Volvo](https://tcrouzet.com/images_tc/2018/04/uber-atg-volvo-600x455.jpg)
 
 Cette image du capitalisme heurtant une SDF résume notre société, c’est une figure paroxystique. Le 24 mars, Guillaume De Lorris m’a écrit :
 

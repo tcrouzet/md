@@ -4,7 +4,7 @@ Entre mars 2019 et mai 2019, entre [ma seconde HuRaCan 300](https://tcrouzet.com
 
 [J’ai déjà évoqué comment j’ai réduit de 23 % le poids de mon équipement électrique](#), je me suis livré au même travail sur de nombreux postes. [Le poids de base de mon équipement de bikepacking](https://tcrouzet.com/2019/05/05/le-bikepacking-cest-quoi/) est passé de 7 kg à 5,8 kg, soit une baisse de 17 %.
 
-![Ma config pour sept jours](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/bikepacking2-600x448.jpg)
+![Ma config pour sept jours](https://tcrouzet.com/images_tc/2019/05/bikepacking2-600x448.jpg)
 
 ### Côté sacs
 
@@ -18,13 +18,13 @@ Autre avantage du sac de cadre : on peut y loger une poche à eau de 3L, voire 
 
 OK, je sais que certains n’aiment pas boire dans le plastique, moi aussi je n’aime pas, mais j’aime encore moins surcharger mon vélo, surtout qu’en je m’apprête à escalader 15 000 m avec mon VTT.
 
-![The Mountain 420](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/huracan-600x294.jpg)
+![The Mountain 420](https://tcrouzet.com/images_tc/2019/05/huracan-600x294.jpg)
 
 Pour alléger mon sac de guidon, j’ai notamment changé de tente et déplacé les piquets et sardines dans le sac de cadre. Pour libérer de la place dans le sac de cadre, j’ai déplacé les composants électriques et d’autres babioles dans un nouveau [top tube pack d’Apidura de 1 litre](https://www.apidura.com/shop/backcountry-top-tube-pack/) (94 g). Les outils eux finissent dans un [Wolf Tooth B-Rad Roll Top Bag](https://www.wolftoothcomponents.com/collections/b-rad-system/products/b-rad-roll-top-bag), également de 1 litre, que je peux attacher sous la selle ou sous le cadre (sac de seulement 86 g alors que ma trousse à outils CamelBak pesait à elle seule 55 g).
 
 Mes trois sacs et ma trousse à outils pesaient 1086 g. Mes quatre sacs ne pèsent plus que 861 g, soit un gain 20,7 %. Je ne reviendrai au sac de selle que si je dois effectuer des randonnées en hiver, nécessitant davantage de vêtements, ou si je randonne loin de tout point de ravitaillement, ou encore si je renonce au sac de guidon (j'ai pas testé cette configuration).
 
-![Mes outils](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090743-600x450.jpg)
+![Mes outils](https://tcrouzet.com/images_tc/2019/05/P1090743-600x450.jpg)
 
 ### Côté outils
 
@@ -42,7 +42,7 @@ Comme il risque de faire très chaud les après-midi, j’emporte un short de jo
 
 Mes fringues atterrissent dans un sac (12 g). Cette nouvelle configuration pèse 1001 g contre 1168 g pour la précédente tout en étant plus polyvalente. Gain : 14,3 %.
 
-![Sac de guidon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090752-600x450.jpg)
+![Sac de guidon](https://tcrouzet.com/images_tc/2019/05/P1090752-600x450.jpg)
 
 ### Guidon
 
@@ -50,13 +50,13 @@ Sur mon guidon outre mon Garmin 820 (105 g avec son support), j’accroche mon s
 
 Mon imperméable ira tantôt dans la poche arrière de mon maillot, tantôt dans le sac de cadre ou dans le sac de guidon, si son usage s’avère inutile. J’utilise la sangle du sac de guidon pour accrocher les sacs de provisions quand je me ravitaille.
 
-![Top tube bag](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090747-600x450.jpg)
+![Top tube bag](https://tcrouzet.com/images_tc/2019/05/P1090747-600x450.jpg)
 
 ### Top tube bag
 
 Dans mon [Apidura Expedition top tube de 1 litre](https://www.apidura.com/shop/expedition-top-tube-pack/) (94 g), outre [le matériel électrique](https://tcrouzet.com/2019/04/22/bikepacking-optimisation-electrique/) (mon téléphone, mon cash et ma CB vont dans la poche arrière de mon maillot, glissés dans une pochette étanche), je range un petit pot de Chamois Crème Assos (avec laquelle je me pommade aussi souvent que possible), un second petit pot avec la crème réparatrice Assos (que j’utilise lors des poses longues), un petite bouteille de solution hydroalcoolique et de l'ambre solaire. Un câble USB relie ma batterie de secours à mon GPS. Poids : 740 g. Ce sera la première fois que j’utiliserai un tel sac, mais j’en ai senti la nécessité dès ma première HuRaCan. Il m’est tout de suite apparu important de séparer mon électronique du sac de cadre où je range ma poche à eau.
 
-![Sac de cadre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090750-600x450.jpg)
+![Sac de cadre](https://tcrouzet.com/images_tc/2019/05/P1090750-600x450.jpg)
 
 ### Sac de cadre
 

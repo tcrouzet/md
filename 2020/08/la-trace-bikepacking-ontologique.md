@@ -26,13 +26,13 @@ La suite découle de ces contraintes, et aussi de l’esprit du traceur. Je refu
 
 3. Je ne veux pas une trace monotone. Par exemple, côté Méditerranée entre Agde et Lunel, on pourrait suivre tout droit les plages et les canaux pendant 80 km, ce qui me paraît barbant.
 
-![Au départ](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_2561-1.jpeg)
+![Au départ](https://tcrouzet.com/images_tc/2020/08/IMG_2561-1.jpeg)
 
 Je me gare à l’entrée de [Saint-Jean-de-Buèges](https://fr.wikipedia.org/wiki/Saint-Jean-de-Bu%C3%A8ges) peu avant 7 heures. J’ai notamment préparé le parcours grâce [un post de Carnets de Rando](http://www.carnetsderando.net/a-decouverte-de-bueges/), rando pédestre, mais la vidéo m’a permis de prévisualiser le terrain et de savoir un peu à quoi m’attendre quand je serai dans le dur.
 
 Le but de cette reco : résoudre un cas de conscience. [Sur la partie nord-est du 727](https://www.google.com/maps/d/edit?mid=1glqm485m-Oo25P1jFNsgr6k7Z5-bl8AD&usp=sharing), entre [Ferrières-les-Verreries](https://fr.wikipedia.org/wiki/Ferri%C3%A8res-les-Verreries) et [Saint-Michel](https://fr.wikipedia.org/wiki/Saint-Michel_(H%C3%A9rault)), j’ai initialement tracé par la crête du massif de la Séranne (56 km, 1 400D+), mais on m’a signalé que la descente exige pas mal de portage tout en étant caillouteuse et presque jamais roulante. Pas vraiment idéal pour le bikepacking. Le covid interdisant les recos, j’avais en suite choisi la solution de facilité, un copier-coller d’un morceau de la grande traversée nord (90 km, 2 000D+, parfois durs à avaler, exigeant aussi un peu de poussage d'après les copains). C’est plus long, avec davantage de D+, ça suit moins les contours, donc ça ne me plaît pas.
 
-![La Séranne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_2564.jpeg)
+![La Séranne](https://tcrouzet.com/images_tc/2020/08/IMG_2564.jpeg)
 
 Je me suis mis en tête de trouver mieux. J’ai donc replongé sur la carte, effectué des recherches sur le Net, puis je me suis dit qu’il y avait deux autres possibilités, l’une par le pied sud de la Séranne, la sublime vallée de la Buèges, l’autre par le nord, en surplomb des gorges de la Vis.
 
@@ -42,23 +42,23 @@ Mais ce trajet a un point névralgique. Au bout de la vallée, au cul du [cirque
 
 Au départ, tout roule pour le mieux. Je suis immédiatement sous le charme de la rivière, des vignes et des oliviers. Malgré quelques hésitations, je trouve une trace agréable dans un cadre bucolique à souhait jusqu’à la résurgence de la Buèges d’un turquoise translucide assez exceptionnel.
 
-![Pégairolles-de-Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_2566.jpeg)
+![Pégairolles-de-Buèges](https://tcrouzet.com/images_tc/2020/08/IMG_2566.jpeg)
 
-![Résurgence de la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_2573.jpeg)
+![Résurgence de la Buèges](https://tcrouzet.com/images_tc/2020/08/IMG_2573.jpeg)
 
 Je me mange quelques méchantes drailles, trouve moyen de les éviter par un petit bout d’asphalte, puis je n’ai plus le choix, je dois m’attaquer à la paroi rocheuse contre laquelle le chemin serpente. Il est sublime, large, régulier, mais caillouteux. Avec son 10 % presque constant, il est difficile à pédaler. Je finis par me résoudre à pousser presque continuellement sur 3,2 km pour 330D+, après c’est parfait, du velours. Je n’arrive pas à me dire que cette voie est à rejeter. Le paysage est incroyable, le cirque de la Séranne m’ouvre les bras avec les villages et les champs éparpillés dans la vallée.
 
-![La vallée de la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_2590-1.jpeg)
+![La vallée de la Buèges](https://tcrouzet.com/images_tc/2020/08/IMG_2590-1.jpeg)
 
-![Ça paraît roulant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_2595.jpeg)
+![Ça paraît roulant](https://tcrouzet.com/images_tc/2020/08/IMG_2595.jpeg)
 
-![Juste sublime](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_2596.jpeg)
+![Juste sublime](https://tcrouzet.com/images_tc/2020/08/IMG_2596.jpeg)
 
-![Pégairolles-de-Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_2608.jpeg)
+![Pégairolles-de-Buèges](https://tcrouzet.com/images_tc/2020/08/IMG_2608.jpeg)
 
-![Un peu d'ombre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_2632.jpeg)
+![Un peu d'ombre](https://tcrouzet.com/images_tc/2020/08/IMG_2632.jpeg)
 
-![Saint-Jean-de-Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/IMG_2636.jpeg)
+![Saint-Jean-de-Buèges](https://tcrouzet.com/images_tc/2020/08/IMG_2636.jpeg)
 
 Au retour, j’essaie un autre passage par le GR74, plus prometteur au début, mais finalement qui s’avère plus étroit et impossible à descendre sans pousser. Il y a bien une troisième draille, mais d’après le topo elle paraît pire que les deux autres, ce que convient Gilles le loueur/réparateur de vélos avec qui je discute avant d'aller boire un verre sous une terrasse ombragée au bord de la Buèges. Je suis monté par la voie la plus facile, si on peut dire.
 
@@ -66,13 +66,13 @@ Au retour, j’essaie un autre passage par le GR74, plus prometteur au début, m
 
 L’ontologique me dit « Va pour le poussage… », c’est bien l’ontologie, ça sonne toujours bien comme mot, ça en jette.
 
-![Par la crête](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/recoProfilSerane.png)
+![Par la crête](https://tcrouzet.com/images_tc/2020/08/recoProfilSerane.png)
 
-![Par la grande traversée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/recoProfilgrande.png)
+![Par la grande traversée](https://tcrouzet.com/images_tc/2020/08/recoProfilgrande.png)
 
-![Par la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/recoProfilBueges.png)
+![Par la Buèges](https://tcrouzet.com/images_tc/2020/08/recoProfilBueges.png)
 
-![Voie nord](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/recoProfilnord.png)
+![Voie nord](https://tcrouzet.com/images_tc/2020/08/recoProfilnord.png)
 
 
 

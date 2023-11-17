@@ -2,7 +2,7 @@
 
 Quand on vit avec en tête depuis l’enfance le modèle du mâle dominant, il n’est pas simple d’avouer sa faiblesse, surtout sa faiblesse vis-à-vis des femmes. J’ai tenté d’adresser ce sujet épineux avec humour dans mon roman [*L’homme qui ne comprenait pas les femmes*](https://tcrouzet.com/lhomme-qui-ne-comprenait-pas-les-femmes/).<span id="more-51507"></span>
 
-![Dispo dans toutes les bonnes librairies](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/couv-hom-big-313x450.jpg)
+![Dispo dans toutes les bonnes librairies](https://tcrouzet.com/images_tc/2019/03/couv-hom-big-313x450.jpg)
 
 Début du texte :
 

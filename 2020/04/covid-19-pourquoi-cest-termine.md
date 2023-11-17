@@ -6,7 +6,7 @@ Initialement, l’OMS a déclaré 2 %, puis 3,8 %, ce qui est gigantesque et c
 
 [Une nouvelle étude américaine](https://www.economist.com/graphic-detail/2020/04/11/why-a-study-showing-that-covid-19-is-everywhere-is-good-news), plus théorique mais s’appuyant sur des données de terrain, aboutit à une mortalité de 0,1 % ([tout de même dix fois plus que la mortalité de la grippe saisonnière constatée et non sa mortalité estimée par surmortalité](http://h16free.com/wp-content/uploads/2020/04/La-vraie-mortalit%C3%A9-de-la-grippe-saisonni%C3%A8re.pdf?fbclid=IwAR2PiFSShMAKg9W5ow1FY5W1_pNU371n1F2XkaRHWp08Ew-oFkf9J15L6KQ)). À partir du nombre de victimes, on peut donc en déduire le nombre d’infectés, et potentiellement d’immunisés ([à condition que nous puissions construire une immunité durable ce qui est loin d'être sûr](https://science.sciencemag.org/content/early/2020/04/14/science.abb5793), à condition qu'il n'y ait qu'un seul virus, qu'il ne mute pas trop vite… ça fait beaucoup de si, je joue avec des possibilités, je ne cherche pas à prévoir l'avenir, je m'interroge).
 
-![Nombre d'immunisés](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/good1.png)
+![Nombre d'immunisés](https://tcrouzet.com/images_tc/2020/04/good1.png)
 
 Le 15 avril, on compte 17 167 décès en France dans les hôpitaux et les Epad. [Une autre étude](https://www.economist.com/graphic-detail/2020/04/03/covid-19s-death-toll-appears-higher-than-official-figures-suggest), s’appuyant sur la surmortalité mesurée dans les clusters, a estimé que la mortalité réelle pouvait être pondérée jusqu’à 150 %, ce qui inclurait les morts du Covid à la maison. Ce qui nous donnerait potentiellement : 25 millions de Français déjà immunisés (=17167x1,5x100/0,1). On peut refaire le même calcul département par département pour plus de réalisme.
 
@@ -18,11 +18,11 @@ Il s'agit d'hypothèses, pas d'une description de la réalité. J’en vois déj
 
 Pour y voir clair, il faudra suivre l’évolution de la situation aux États-Unis et en Suède, deux pays qui ont pris des mesures de confinement laxistes. Les courbes suivront-elles là-bas la même trajectoire que chez nous ?
 
-![Évolution en Suède](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/good3.png)
+![Évolution en Suède](https://tcrouzet.com/images_tc/2020/04/good3.png)
 
 [Dans le même article référencé plus haut](https://www.economist.com/graphic-detail/2020/04/11/why-a-study-showing-that-covid-19-is-everywhere-is-good-news), je découvre qu’il faut entre 20 et 25 jours entre la contamination et la mort éventuelle. Depuis le début, j’utilisais la valeur de 17,3 jours pour mes simulations. Cela implique qu’il faut attendre presque quatre semaines pour voir les effets d’une mesure, ce que nous sommes tout juste en train de constater pour le confinement en France. Le 15 avril le nombre d’hospitalisés a baissé pour la première fois. C'est la bonne nouvelle que nous attendions : enfin la contamination faiblit (ou plus précisément elle faiblit depuis au moins une dizaine de jours).
 
-![Évolution en France](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/good2.png)
+![Évolution en France](https://tcrouzet.com/images_tc/2020/04/good2.png)
 
 Cela signifie que nous commençons à bénéficier du confinement, au moment même où nous serions en train d’atteindre l’hypothétique immunité de groupe. Et il n’aurait en quelque sorte servi à rien. Mais ne commettons pas la même erreur qu’avec Roselyne Bachelot en 2009, accusée d’avoir été trop prudente. Quand des centaines de milliers de vies sont en jeu, on n’est jamais trop prudent. Le principe de précaution sanitaire doit s’imposer. Je préférerais que nous découvrions a posteriori que nous nous sommes confinés pour rien plutôt que nous ne l’ayons pas fait provoquant une catastrophe.
 
@@ -44,7 +44,7 @@ Tout le monde a le droit d’en faire autant.
 
 *PS : Dans l'Hérault où je vis, la situation est bien meilleure qu'au plan national, la baisse des hospitalisations ayant commencé dès le 7 avril. Je peux faire le même calcul. Le 15 avril, on a 88 victimes, ce qui donne 132 000 immunisés pour une population de 1,165 million d'habitants, soit 11 % d'immunisés. On est donc très loin de l'immunité de groupe, ce qui implique que les régions les plus touchées sont beaucoup plus près de cette immunité si tant est qu'elle soit possible.*
 
-![Le pic est derrière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/good4.png)
+![Le pic est derrière](https://tcrouzet.com/images_tc/2020/04/good4.png)
 
 
 

@@ -12,7 +12,7 @@ J’ai commencé à lorgner sur [le Salsa Cutthroat 2020](https://salsacycles.co
 
 J’ai en suite [longuement hésité à commander un VTT Caminade en titane](https://tcrouzet.com/2019/12/24/bikepacking-ai-je-raison-de-passer-au-titane/), mais j’ai fini par renoncer (trop cher, trop lourd, sans que je sois convaincu par le gain en confort, mais à coup sûr convaincu par un certain snobisme attaché au titane). Puis Specialized a annoncé son nouveau Epic HT avec un cadre ultraléger dans sa version S-Works, un vélo que je connais bien puisque je roule avec dans sa version tout-suspendu depuis trois ans, [un vélo dont le modèle entrée de gamme reste abordable pour un carbone](https://www.specialized.com/fr/fr/epic-hardtail/p/171127?color=264116-171127) (2 099 € prix public), un vélo que j’ai pu essayer chez [AllBikes7](https://www.allbikes7.com/), à deux pas de chez moi et qui m’a tout de suite conquis, d’autant que c’est [la monture de choix de Lael Wilcox](https://theradavist.com/2019/06/lael-wilcoxs-tour-divide-specialized-epic-hardtail/) (qui l’a équipée avec un guidon gravel).
 
-![Epic Monstercross](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/P1100995.jpeg)
+![Epic Monstercross](https://tcrouzet.com/images_tc/2020/04/P1100995.jpeg)
 
 Je n’ai même pas eu à commander l’Epic HT version de base, cadre large couleur rouge. Il était en stock, dans son carton, pas encore monté. Avec AllBikes7, nous l’avons transformé en monstercross, nous inspirant cette fois de la config de [Sofian Sehili](https://eu.huntbikewheels.com/blogs/news/bikecheck-sofians-atlas-mountain-race-niner-air9-rdo). Nous avons remplacé la fourche télescopique d’origine par une [Bombtrack BPC](http://bombtrack.com/parts/forks/bpc-fork/), conçue pour le bikepacking (650 g), avec la possibilité de monter des pneus de 3,0 pouces. Nous arrivons ainsi à un kit cadre+fourche à 1,6 kg (j’ai donc gagné 3 kg par rapport au Timberjack, ce qui était mon objectif).
 
@@ -20,13 +20,13 @@ J’ai récupéré les roues Ibis 942 montées sur le Timberjack que j’ai chau
 
 J’ai gardé les freins d’origine de l’Epic, j’ai monté un dérailleur et une cassette Sram GX 10-50, un plateau 32 dents Sram Eagle X-Sync. J’ai déshabillé le Timberjack pour réduire les coûts, le remontant peu à peu dans sa version d’origine.
 
-![Selle ISM](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/P1100998.jpeg)
+![Selle ISM](https://tcrouzet.com/images_tc/2020/04/P1100998.jpeg)
 
 Côté selle après avoir longtemps roulé avec des Specialized Power, puis Power Arc, qui chaque fois me pinçaient la fesse gauche toujours au même endroit, provoquant parfois des inflammations, j’ai testé durant deux moi une Brooks C17 carved qui ne me blessait plus la fesse, mais qui m’irritait partout, sans parler de sa longueur excessive très casse couille dans les chemins accidentés. J’ai fini par en venir à une ISM PL1.0 monté sur un tube de selle Canyon avec une flexion de 20 mm.
 
 Côté guidon, je suis très SQLab, avec des grips 711, des innerbars et un [cintre flex 16° backsweep](https://www.sq-lab.com/en/products/handlebars/sqlab-handlebar-311-fl-x-carbon-16.html#attributes) qui par sa souplesse absorbe les vibrations et les chocs ([les Baramind étaient en rupture de stock et moins bien taillés à mon goût](https://www.baramind-bike.com/fr/)). J’hésite encore à installer un [Aero Bolt-ON V2](http://alternativsport.com/accueil/1364-aero-bolt-on-v2.html) pour disposer d’une troisième position lors des secteurs rectilignes et roulants.
 
-![Grip et corne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/P1110006.jpeg)
+![Grip et corne](https://tcrouzet.com/images_tc/2020/04/P1110006.jpeg)
 
 [J’ai abandonné les pédales auto depuis ma fracture du col du fémur.](https://tcrouzet.com/2019/12/08/gravel-vtt-et-bikepacking-pedales-auto-ou-plates/) J’ai monté des plates Nukeproof Horizon Titane qui ont un super grip. Je ne me sens toujours pas prêt à revenir aux auto, sauf si je finis par avoir des douleurs aux genoux ou ailleurs. Je mets parfois un pied à terre dans des passages techniques où je passais avec les auto, je perds un poil de puissance à l’arrache, mais je m’en contre fiche. Je pense que j’ai déjà évité deux gamelles depuis que je suis en plates.
 
@@ -42,11 +42,11 @@ Je pensais partir pour l’essentiel sur la configuration déjà décrite dans m
 
 En configuration été, mon sac de guidon Apidura 14L était parfait, mais j’ai besoin de prendre un peu plus de matos pour le printemps, donc d’un volume un peu plus grand. J’ai donc commandé un [Revelate Design Pronghorn 23L](https://www.revelatedesigns.com/index.cfm/store.catalog/handlebar/pronghorn) qui, outre son volume, sa plus grande légèreté, peut se déclipser. C’est un gros avantage au moment de monter/démonter le camp, surtout le matin quand il faut remplir le sac. L’Apidura en restant attaché au vélo rend la compression un poil difficile. Pour cause coronavirus, je n’ai toujours pas reçu le Pronghorn commandé il y a plus de deux mois.
 
-![Pilotage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/P1110004.jpeg)
+![Pilotage](https://tcrouzet.com/images_tc/2020/04/P1110004.jpeg)
 
 Mon sac de cadre Salsa s’adapte presque parfaitement à l’Epic. Je le complète par un top tube Revelate Design Mag-Tank 2000 1,5L que je trouve plus pratique à l’usage que l’Apidura. Mes outils vont sous la selle dans un [Wolf Tooth B-Rad Roll-Top Bag](https://www.wolftoothcomponents.com/collections/b-rad-system/products/b-rad-roll-top-bag) que j’adore parce qu’on peut l’attacher presque n’importe où.
 
-![Sac de cadre Salsa](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/P1110002.jpeg)
+![Sac de cadre Salsa](https://tcrouzet.com/images_tc/2020/04/P1110002.jpeg)
 
 J’avais aussi prévu de commander des [Zpacks Small Stuff Sack](https://zpacks.com/products/small-stuff-sack), des sous-sacs étanches ultralégers, pour y ranger mes différentes affaires (santé, câbles, fringues…). Jusque là j’utilisais les premiers sacs qui me tombaient sous la main, parfois en tissus et ils avaient tendance à pomper l’humidité.
 

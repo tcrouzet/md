@@ -78,9 +78,9 @@ Je suis sorti de l’époque où je croyais que je n’aurais jamais assez de te
 
 ### Lundi 11, Balaruc
 
-![Orage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/07/P1060064.jpg)
+![Orage](https://tcrouzet.com/images_tc/2018/07/P1060064.jpg)
 
-![Orage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/07/P1060073.jpg)
+![Orage](https://tcrouzet.com/images_tc/2018/07/P1060073.jpg)
 
 ### Vendredi 15, Balaruc
 
@@ -124,7 +124,7 @@ Je ne centre plus ma pensée autour du Net. Je ne cherche plus à œuvrer grâce
 
 Tout ce que je vois sur le Net est marketing. Tout le monde, absolument tout le monde, cherche à se vendre. Ça me dégoûte. Je n’échappe pas à ce travers, raison de plus pour me faire discret.
 
-![Notre port](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/07/IMG_0744.jpg)
+![Notre port](https://tcrouzet.com/images_tc/2018/07/IMG_0744.jpg)
 
 ### Dimanche 24, Balaruc
 
@@ -152,7 +152,7 @@ C’est la première fois que je travaille avec un directeur de collection créa
 
 Il est vrai que les collaborations positives sont rares dans l’édition traditionnelle, mais déjà bien plus nombreuses que sur le Net, où tout le monde rivalise pour s’accaparer un peu d’attention. L’auto-édition restera un faute de mieux, sauf pour les récits très intimes, comme ce journal, où aucun éditeur n’a à mette son nez.
 
-![Photo Visa](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/07/P1060105.jpg)
+![Photo Visa](https://tcrouzet.com/images_tc/2018/07/P1060105.jpg)
 
 ### Vendredi 29, Balaruc
 
@@ -162,7 +162,7 @@ Idée de titre : *La sérénité de l’énervé*. Mais je ne vois pas trop ce 
 
 Après une belle promo de Bragelonne, [*Résistants*](https://tcrouzet.com/resistants/) numéro un des ventes sur Amazon. Je capture l’écran, parce que ça ne va pas durer.
 
-![Résistants dans le top](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/07/amazontop.jpg)
+![Résistants dans le top](https://tcrouzet.com/images_tc/2018/07/amazontop.jpg)
 
 ---
 

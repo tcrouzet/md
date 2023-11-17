@@ -2,7 +2,7 @@
 
 Indépendamment de ce que déclare le gouvernement, c’est la réalité de la pandémie sur le terrain qui nous dira quand déconfiner. Pour me rassurer, ne pas trop gamberger et anticiper mes prochains voyages à vélo, je regarde les prévisions épidémiologiques comme d’habitude je regarde les prévisions météo.<span id="more-54020"></span>
 
-![Projection au 17/4/2020](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/graph-cov1.png)
+![Projection au 17/4/2020](https://tcrouzet.com/images_tc/2020/04/graph-cov1.png)
 
 J’ai tracé les courbes qui montrent l’évolution du nombre de cas réels estimés, des hospitalisations et des victimes. Il y a trois pics, c’est logique puisqu’on commence par tomber malade, puis parfois par être hospitalisé, puis parfois par décéder. La durée moyenne entre une infection et la mort éventuelle serait [comprise entre 20 et 25 jours d’après les dernières estimations](https://www.economist.com/graphic-detail/2020/04/11/why-a-study-showing-that-covid-19-is-everywhere-is-good-news).
 
@@ -18,7 +18,7 @@ Reste à savoir si nous pourrons déconfiner logistiquement à ce moment ? Si l
 
 Le gouvernement est-il prudent ? Non, parce qu'il a annoncé le 11 mai sans savoir ce qu'il en sera. Changez les paramètres de ma simulation et vous verrez qu'elle peut nous amener bien plus loin. Par exemple, ci dessous, je calcule la pente initiale en faisant une moyenne sur les six derniers jours.
 
-![Un seul paramètre modifié](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/graph-cov2-1.png)
+![Un seul paramètre modifié](https://tcrouzet.com/images_tc/2020/04/graph-cov2-1.png)
 
 On peut faire dire presque ce qu'on veut à une projection (la preuve). Mon article a pour but d'aider à interpréter les courbes réelles pour pourvoir dire quand ce sera le moment de déconfiner. J'ai donné un exemple de lecture sur un cas possible (parmi une quasi infinité). Il faudra ainsi lire les courbes au jour le jour pour savoir quand le moment est venu, et non attendre que le gouvernement nous le dise.
 
@@ -30,7 +30,7 @@ Pour les victimes, je me limite aux chiffres des hôpitaux, parce que nous n’a
 
 [Depuis le début](https://tcrouzet.com/2020/03/15/des-chiffres-expliquent-le-coronavirus-et-decredibilisent-les-elections/), j’ai essayé d’estimer les cas réels selon une approche simple : si on connaît la durée moyenne entre une infection et la mort éventuelle d’un malade, on peut en déduire le nombre de personnes qui ont été contaminées en même temps que lui et qui elles ne sont pas mortes. Cette astuce permet de remonter dans le temps.
 
-![Jouez avec les paramètres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/graph-cov2.png)
+![Jouez avec les paramètres](https://tcrouzet.com/images_tc/2020/04/graph-cov2.png)
 
 L’autre donnée nécessaire au calcul est le taux de mortalité, [là encore on a beaucoup de doute](https://tcrouzet.com/2020/04/10/le-coronavirus-infecte-nos-cerveaux/). Comme je travaille dans une feuille de calcul, je peux changer ce paramètre à volonté (il n’a aucune influence sur la forme de la courbe bleue, juste sur sa hauteur).
 

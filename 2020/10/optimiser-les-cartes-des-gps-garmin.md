@@ -4,19 +4,19 @@ J’utilise un GPS pour suivre des traces, que ce soit en bikepacking, ou lors d
 
 ### Rendu avec carte Garmin
 
-![Rendu Garmin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/newmap-garmin.jpg)
+![Rendu Garmin](https://tcrouzet.com/images_tc/2020/10/newmap-garmin.jpg)
 
 Selon moi, la carte fournie par Garmin est trop colorée pour le suivi de trace (ce serait possible si Garmin offrait la possibilité de calibrer la taille de la trace, ce qui n’est pas le cas sur mon nouveau 530 et ne l’était pas davantage sur mon 820). On ne peut que changer la couleur de la trace (et cela fastidieusement au coup par coup). Notez que la capture d'écran effectuée sur BaseCamp est très flatteuse.
 
 ### Rendu avec carte OSM new style
 
-![Rendu OSM new style](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/newmap-newstyle.jpg)
+![Rendu OSM new style](https://tcrouzet.com/images_tc/2020/10/newmap-newstyle.jpg)
 
 Jusqu’alors ma favorite, [la version OSM téléchargeable gratuitement](https://garmin3.bbbike.org/) reste quelque peu baroque, avec notamment des routes souvent colorées.
 
 ### Rendu avec ma carte
 
-![Rendu OSM minimaliste](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/newmap-minimalist.jpg)
+![Rendu OSM minimaliste](https://tcrouzet.com/images_tc/2020/10/newmap-minimalist.jpg)
 
 J’ai donc créé une trace OSM minimaliste, sans POI, sans texte, sans couleur ou presque. Au passage, j’ai fait passer le fichier France de 1,6 Go à 320 Mo, tout en incluant les données altimétriques.
 

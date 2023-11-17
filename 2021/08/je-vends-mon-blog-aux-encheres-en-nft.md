@@ -20,7 +20,7 @@ Pour le moment, la plupart de ces places de marché diffusent des objets relativ
 
 J’ai rapidement trouvé une solution. J’ai compilé une version minimaliste de mon carnet sur une seule page web, donc un immense rouleau, puis je l’ai imprimée dans un PDF. Après pas mal de bricolage, j’ai découvert qu’avec cinquante colonnes, je remplissais presque exactement mon immense page. Quand l’image est apparue à l’écran, j’ai trépigné de joie. C’était juste superbe, une œuvre d’art en soi. Je me suis dit qu’elle pourrait être imprimée dans diverses dimensions et se transformer en un tableau d’une complexité assez folle. Mais la taille du fichier PDF occupait toujours environ 500 Mo.
 
-![Version compressée ](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/Crouzet-Carnet-capture-1236x1200.jpg)
+![Version compressée ](https://tcrouzet.com/images_tc/2021/08/Crouzet-Carnet-capture-1236x1200.jpg)
 
 J’ai alors compressé une première fois ce fichier, réduisant sa taille à 50 Mo environ, avant de le compresser une seconde fois et de tomber sous les 30 Mo. J’avais enfin un fichier de la taille requise par OpenSea. Avec ce PDF, j’ai réinventé le microfilm. Zoomer sur l’image fait apparaître son contenu. Le texte vectorisé reste parfaitement lisible, les photos perdent en qualité, mais l'ensemble devient autre chose que mon carnet initial, une œuvre en soi. J’ai créé une fresque contemporaine, la version graphique d’un bout de mon blog.
 

@@ -48,19 +48,19 @@ Je suis tendu comme si je passais le concours, plutôt que Tim, une tension que 
 
 Je vois la ville comme une immense agression, une machine à créer de la sélection, et je suis incapable de me tendre vers elle alors que le printemps la fait exploser de jeunesse heureuse, débordante, que j’admire sans réussir à me sentir partie prenante. La ville m’est donnée désormais, et je n’en veux plus.
 
-![Jardin des plantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7144.jpeg)
+![Jardin des plantes](https://tcrouzet.com/images_tc/2022/06/IMG_7144.jpeg)
 
-![Jardin des plantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7148.jpeg)
+![Jardin des plantes](https://tcrouzet.com/images_tc/2022/06/IMG_7148.jpeg)
 
-![Jardin des plantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7156.jpeg)
+![Jardin des plantes](https://tcrouzet.com/images_tc/2022/06/IMG_7156.jpeg)
 
-![Jardin des plantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7165.jpeg)
+![Jardin des plantes](https://tcrouzet.com/images_tc/2022/06/IMG_7165.jpeg)
 
-![Jardin des plantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7174.jpeg)
+![Jardin des plantes](https://tcrouzet.com/images_tc/2022/06/IMG_7174.jpeg)
 
 ### Jeudi 5, Balaruc
 
-![The hero's journey](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/heros.png)
+![The hero's journey](https://tcrouzet.com/images_tc/2022/06/heros.png)
 
 Ce dessin publié par une amie sur Facebook résume *Quelques atomes de vérité*, dont il est une mise en abîme. Je tente de ne plus penser au texte, parce que je suis incapable d’ajouter ou de retrancher une ligne au premier jet. J’ai besoin de prendre un peu de recul, avant de reprendre le travail.
 
@@ -80,13 +80,13 @@ Puis après avoir massacré le début de *Quelques atomes de vérité*, j’ai d
 
 Ce n’est pas que je n’attache pas d’importance à la musique, au contraire. J’ai lu à voix haute un texte ramassé au hasard où, dès la première phrase, on a « ça sent » et ensuite que des assonances semblables, et ce roman a reçu un prestigieux prix littéraire. Qu’ajouter d’autre ? Même dans le silence, les mots chantent et je ne l’oublie jamais.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7201.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/06/IMG_7201.jpeg)
 
 ### Lundi 9, Balaruc
 
-![Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7244.jpeg)
+![Gardiole](https://tcrouzet.com/images_tc/2022/06/IMG_7244.jpeg)
 
-![Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7246.jpeg)
+![Gardiole](https://tcrouzet.com/images_tc/2022/06/IMG_7246.jpeg)
 
 ### Mardi 10, Balaruc
 
@@ -106,35 +106,35 @@ Difficile de faire sentir le « brusquement » sans dire « brusquement » o
 
 ### Vendredi 13, tour de l'Hérault
 
-![Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7264.jpeg)
+![Agde](https://tcrouzet.com/images_tc/2022/06/IMG_7264.jpeg)
 
-![Vendres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7271.jpeg)
+![Vendres](https://tcrouzet.com/images_tc/2022/06/IMG_7271.jpeg)
 
-![Montels](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7307.jpeg)
+![Montels](https://tcrouzet.com/images_tc/2022/06/IMG_7307.jpeg)
 
 ### Samedi 14, tour de l'Hérault
 
-![Montagne noire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7390.jpeg)
+![Montagne noire](https://tcrouzet.com/images_tc/2022/06/IMG_7390.jpeg)
 
 ### Dimanche 15, tour de l'Hérault
 
-![Espinouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7433.jpeg)
+![Espinouse](https://tcrouzet.com/images_tc/2022/06/IMG_7433.jpeg)
 
-![Espinouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7454.jpeg)
+![Espinouse](https://tcrouzet.com/images_tc/2022/06/IMG_7454.jpeg)
 
-![Avènes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7474.jpeg)
+![Avènes](https://tcrouzet.com/images_tc/2022/06/IMG_7474.jpeg)
 
 ### Lundi 16, tour de l'Hérault
 
-![Vallée de la Buèges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7525.jpeg)
+![Vallée de la Buèges](https://tcrouzet.com/images_tc/2022/06/IMG_7525.jpeg)
 
 ### Mardi 17, Balaruc
 
 Je reviens d’un nouveau tour de l’Hérault bikepacking. Avant le départ, ma mère m’a dit : « Encore un tour de l’Hérault ! », comme si j’étais dingue, mais j’ai encore fait des découvertes, et même à chaque kilomètre, parce que la lumière différait des autres fois, parce que mes yeux se portaient ailleurs, parce que mes compagnons n’étaient pas les mêmes, parce que j’ai introduit des variations dans le parcours. Je crois que je pourrais ainsi me répéter sans jamais m’ennuyer.
 
-![Pompignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7577.jpeg)
+![Pompignan](https://tcrouzet.com/images_tc/2022/06/IMG_7577.jpeg)
 
-![Pompignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7581.jpeg)
+![Pompignan](https://tcrouzet.com/images_tc/2022/06/IMG_7581.jpeg)
 
 ### Jeudi 19, Balaruc
 
@@ -180,7 +180,7 @@ Aberration de notre système fiscal, qui fonctionne avec des seuils, si bien qu�
 
 Idée à la *One Minute*. Les dernières pensées de tous les passagers d’un vol avant le crash. Une façon de me questionner sur la mort.
 
-![L'île singulière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7631.jpeg)
+![L'île singulière](https://tcrouzet.com/images_tc/2022/06/IMG_7631.jpeg)
 
 ### Mercredi 25, Balaruc
 
@@ -190,7 +190,7 @@ Hier, j’ai roulé jusqu’à la plage de l’Espiguette, et au large Sète flo
 
 Toujours le moi mis en avant sur les réseaux sociaux, et je ne sais pas si je réussis à faire mieux, à pousser des idées, des émotions, tout en laissant ma personne à l’arrière-plan. Le silence est plus intense, la discrétion plus salutaire, et l’exposition ne me manque que quand je découvre celle des autres et commence à les envier, alors même qu’ils me débectent. Les voir se dénuder m’incite à la plus grande retenue, à n’aspirer qu’à la quiétude, qui malheureusement pour un auteur revient à couper presque mécaniquement le robinet alimentaire.
 
-![Aigues-Mortes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7641.jpeg)
+![Aigues-Mortes](https://tcrouzet.com/images_tc/2022/06/IMG_7641.jpeg)
 
 ### Jeudi 26, Balaruc
 
@@ -256,7 +256,7 @@ Je ne sais pas si ce journal dit quelque chose de mon vieillissement. La seule f
 
 Remise au travail sur *Quelques atomes de vérité*. J’ai pris assez de distance pour couper et remanier sans scrupule.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/IMG_7654.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2022/06/IMG_7654.jpeg)
 
 
 

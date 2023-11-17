@@ -10,7 +10,7 @@ Nous avons tous expérimenté cette forme de gravité. Quand nous partons au has
 
 Le réseau routier a été pensé pour cette forme de drainage. Quand j’analyse les traces Strava des purs routiers, je découvre qu’ils succombent presque tous à cette gravité. Ils ont beau clamer qu’ils connaissent toutes les routes de leur coin, ils n’en parcourent qu’une infime portion, oubliant bien des voies minuscules, peut-être sous prétexte qu’elles ne sont pas impeccables, ou plus sûrement parce qu’elles ne possèdent aucun panneau signalétique, pas de destination affichée, simples dessertes accessoires dont on ne peut découvrir la richesse capillaire qu’en scrutant le territoire vu du ciel, ou avec patiente essayant un à un tous les détours.
 
-![Déplier le territoire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/terrain-600x395.jpg)
+![Déplier le territoire](https://tcrouzet.com/images_tc/2019/07/terrain-600x395.jpg)
 
 Sans un minutieux travail sur la carte, [sans une exploitation de toutes les possibilités des GPS](https://tcrouzet.com/2019/03/29/eloge-du-gps/), nous répétons maladivement quelques itinéraires, victimes d’un réseau qui a donc deux grandes faiblesses constitutives :
 

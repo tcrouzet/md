@@ -6,7 +6,7 @@ Pour mesurer le degré de malhonnêteté ou d’honnêteté ou de transparence d
 
 Macron prolonge le confinement de deux semaines, voire de trois semaines jusqu’au 4 mai, et se laisse le temps de voir comment la courbe de la mortalité évolue. Si entre-temps elle retombe à zéro ou quasiment, il n’y a aucune raison de prolonger le confinement au-delà (on ne peut pas rester confinés jusqu'à la découverte d'un vaccin ou d'un traitement efficace sans que le confinement ne provoque lui-même plus de mal que de bien — on doit rester dans une logique bénéfices/risques).
 
-![ça reste optimiste](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/project1.png)
+![ça reste optimiste](https://tcrouzet.com/images_tc/2020/04/project1.png)
 
 Ce scénario est-il envisageable ? [La simulation avec laquelle je joue depuis des semaines](https://docs.google.com/spreadsheets/d/1PqMVPU0VYcDWrUnDh1CsGYr_A7Zk3iZco77X-vToS9Q/edit?usp=sharing), dans son réglage optimiste, le laisse entendre. Elle repose sur une estimation des cas réels en France calculée à partir de la mortalité constatée 17 jours plus tard. L'idée : si on ne relève presque plus de morts un jour J, la contagion s'est arrêtée deux semaines plus tôt.
 
@@ -14,7 +14,7 @@ Durant la première semaine du confinement, la progression quotidienne des nouve
 
 Mais attention, selon cette simulation, environ 2,5 millions de Français auront été contaminés, ce qui sera trop peu [pour constituer une immunité de groupe](https://tcrouzet.com/2020/04/10/le-coronavirus-infecte-nos-cerveaux/). Nous devrons rester sur nos gardes jusqu’à l’apparition d’un vaccin ou d’un traitement efficace. À la moindre reprise de la contagion, nous devrons à nouveau nous confiner. Notre liberté dépendra de notre implication dans la distanciation sociale et des moyens dont nous disposerons pour la mettre en œuvre.
 
-![ça reste optimiste](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/project2.png)
+![ça reste optimiste](https://tcrouzet.com/images_tc/2020/04/project2.png)
 
 ### Scénario 2
 
@@ -40,9 +40,9 @@ Une chose est sûre : en suivant l'évolution de la courbe de mortalité, et no
 
 Quand je regarde chez moi dans l'Hérault, je constate que nous ne sommes pas encore prêts.
 
-![La courbe se tasse pas encore](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/project3.png)
+![La courbe se tasse pas encore](https://tcrouzet.com/images_tc/2020/04/project3.png)
 
-![Pas encore de quoi crier victoire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/project4.png)
+![Pas encore de quoi crier victoire](https://tcrouzet.com/images_tc/2020/04/project4.png)
 
 
 

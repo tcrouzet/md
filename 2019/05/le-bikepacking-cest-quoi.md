@@ -14,7 +14,7 @@ Est-ce qu’on peut être bikepacker en traînant une carriole ? Non, au premie
 
 Selon moi, le bikepacking, c’est du cyclotourisme agile, une agilité qui autorise le hors-piste ou les courses d’endurances sur route, deux pratiques assez distinctes, qui peut-être nécessiteraient deux mots différents, s’il n’existait pas une infinie gradation de possibilités entre ces deux extrêmes.
 
-![Le Diverge de Sarah Swallows, exemple d'agilité (source The Radavist)](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/Sarah-Swallows-S-Works-Diverge-600x400.jpg)
+![Le Diverge de Sarah Swallows, exemple d'agilité (source The Radavist)](https://tcrouzet.com/images_tc/2019/05/Sarah-Swallows-S-Works-Diverge-600x400.jpg)
 
 Un cyclotouriste qui ne se préoccupe pas d’agilité n’est pas un bikepacker, ce n’est pas un problème, au contraire, nous avons désormais deux mots pour désigner deux façons de voyager à vélo. En revanche, pour le bikepacker comme le [thru-hickers](https://en.wikipedia.org/wiki/Thru-hiking), il est vital de réduire le poids de base, charge de l’équipement sans eau et nourriture. [Sur sa chaîne Youtube dédié au thru-hiking](https://www.youtube.com/watch?v=6iGIfJjv_Pk), Darwin propose des arguments qui, adaptés, valent doublement pour le bikepacker :
 

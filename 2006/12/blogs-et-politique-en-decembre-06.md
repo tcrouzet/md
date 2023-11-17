@@ -2,15 +2,15 @@
 
 Comme tous les mois, je m'amuse à une petite analyse des statistiques bonVote.com.
 
-![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/200612hom.gif)
+![](https://tcrouzet.com/images_tc/200612hom.gif)
 
 Par rapport à la [précédente édition](http://blog.tcrouzet.com/2006/11/01/blogs-et-politiques-en-octobre-06/), le [baromètre](http://www.bonvote.com/buzz.php?mode=homme) évolue vers la tête, en phase avec l’actualité. Si François Bayrou a disparu, Ségolène Royal a rejoint Nicolas Sarkozy. Est-ce un avant goût de la finale de l’année prochaine ? Franchement, j’en doute et je parierais pour une finale plus surprenante. C’est mon côté joueur.
 
-![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/200612pie.gif)
+![](https://tcrouzet.com/images_tc/200612pie.gif)
 
 Par ailleurs, j’ai affiné l’analyse de la couverture web des différents partis. Je propose maintenant deux graphiques, et même [beaucoup d’autres sur le site](http://www.bonvote.com/parts.php). Le premier en valeurs absolues compte le nombre de sites dans la base bonVote.com par parti. Le second en valeurs pondérées tient compte de l’influence des sites. Ce second graphique est le plus pertinant car il s’intéresse à la qualité plus qu’à la quantité. La droite reste sous représentée, faisant pratiquement jeu égal avec le centre. Les Autres dominent toujours, voilà pourquoi je m’attends à des surprises (si tant est que le web pèse dans l'élection finale).
 
-![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/200612pieleaders.gif)
+![](https://tcrouzet.com/images_tc/200612pieleaders.gif)
 
 Ces deux graphiques montrent que l'UDF possède des sites moins influents que le PS et l'UMP (dont les parts de marché augmentent en prenant en compte la pondération). [Suite de cette analyse...](http://blog.tcrouzet.com/2006/12/04/la-france-serait-coupee-en-deux/)
 

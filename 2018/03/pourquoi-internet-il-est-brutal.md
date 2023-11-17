@@ -4,7 +4,7 @@ Je voudrais parler de la façon dont ma vision du monde a évolué ces vingt der
 
 J’ai commencé à travailler en 1987. Autant que je me souvienne, c’était une période morose : Sida, crise pétrolière, chômage endémique, stagnation de la croissance, prise de conscience du réchauffement climatique, des perturbations écologiques, fin de la conquête spatiale… On était englué dans le No Future, dans cette idée que [l’Histoire s’était achevée](https://fr.wikipedia.org/wiki/Fin_de_l%27histoire).
 
-![Société prénumérique](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/brutal1.jpg)
+![Société prénumérique](https://tcrouzet.com/images_tc/2018/03/brutal1.jpg)
 
 Le monde ressemblait à un gâteau à trois couches. On avait quelques producteurs de contenus/services/produits/idées qui diffusaient leurs créations grâce à une poignée de distributeurs vers la foule des consommateurs.
 
@@ -18,13 +18,13 @@ Pas plus que nous n’étions seulement des libertaires, nous n’étions seulem
 
 Nous pensions donc qu’il était temps de lui donner de l’ampleur. Et pour que nous collaborations à l’échelle globale il nous fallait une technologie *ad hoc* : internet. La boucle était bouclée. Il ne restait qu’à se mettre au travail, à inventer des outils de rencontre, de diffusion, de discussion, d’échange. Nous avions le cahier des charges des réseaux sociaux. Ce n’est pas un hasard si Geneviève Morand a créé [Rézonance](https://www.rezonance.ch/) à Genève en 1998.
 
-![Internet en 2000](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/brutal2.jpg)
+![Internet en 2000](https://tcrouzet.com/images_tc/2018/03/brutal2.jpg)
 
 Grâce à internet, au tournant du nouveau millénaire, le monde s’est transformé. Il conservait trois couches, mais les producteurs étaient désormais innombrables de même que les distributeurs. Alors que notre schéma ressemblait à un vase au goulot étroit dans sa version prénumérique, il ressemblait désormais à un fleuve qui irriguait la société. Tout le monde pouvait créer, tout le monde pouvait distribuer, tout le monde pouvait consommer.
 
 Avec [Xavier Comtesse](http://comtesse.io/wordpress/sample-page/) et d’autres, nous avons imaginé que nos trois couches fusionnaient en une seule : nous devenions des [consommacteurs](https://fr.wikipedia.org/wiki/Consommacteur), nous portions en même temps toutes les casquettes. La société soudain s’était aplatie, [le monde était devenu plat](https://en.wikipedia.org/wiki/The_World_Is_Flat). On était alors en 2005, au moment où j’écrivais [*Le peuple des connecteurs*](https://tcrouzet.com/le-peuple-des-connecteurs/). Un espoir fou nous habitait.
 
-![Monde plat](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/brutal3.jpg)
+![Monde plat](https://tcrouzet.com/images_tc/2018/03/brutal3.jpg)
 
 Dans cet espace social, nous pouvions nous interconnecter, créer des liens, et c’est toujours possible. Plus nous créons de liens, plus nous augmentons la complexité du graphe social, plus il devient difficile de manager et de contrôler la société sous-jacente, plus ses acteurs sont libres, plus les échanges se fluidifient et facilitent la coopération.
 
@@ -42,7 +42,7 @@ En plus de croire que nous pouvions d’un coup de cuillère à pot dépasser no
 
 Un exemple. Les cryptomonnaies Bitcoin et Ethereum reposent sur une technologie décentralisée de type P2P, la blockchain. Personne ne les administre, pas de banque centrale, pas d'institution tutélaire (sinon le code source des applications). [Pourtant, dans les deux cas, trois ou quatre mineurs contrôlent 50 % de la monnaie.](http://hackingdistributed.com/2018/01/15/decentralization-bitcoin-ethereum/) Une structure ouverte se recentralise mécaniquement parce que les acteurs se battent pour le pouvoir (c'est sans doute une conséquence du code, par nature écrit, et qui donc doit être dépassé par une structure humaine bien veillante).
 
-![Internet recentralisé](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/brutal4.jpg)
+![Internet recentralisé](https://tcrouzet.com/images_tc/2018/03/brutal4.jpg)
 
 Cette lutte de pouvoir n'a pas affecté les producteurs. Chez eux, le pli est pris. La société déborde de créativité, tout le monde peut imprimer son livre avec l’impression à la demande, fabriquer sa brosse à dents avec une imprimante 3D, mais, pour vendre, plutôt que vendre en direct, nous passons pour la plupart par des plateformes, parce qu’ayant gagné la bataille de la distribution elles sont plus performantes. Les blogueurs publient dans les médias centralisés de type Huffington Post plutôt que chez eux. Les hôteliers louent leurs chambres à travers des agrégateurs comme Booking plutôt qu’en direct ou à travers le réseau des agences de voyages. Les taxis sont ubérisés, de même que bien d’autres métiers à travers Amazon.
 
@@ -76,11 +76,11 @@ Je ne dis pas que les choses n’ont fait qu’empirer depuis que le réseau des
 
 Par ailleurs, nous ne sommes pas revenus au schéma de la société prénumérique. Désormais, la foule des producteurs correspond à la foule des consommateurs. Si on prend le schéma précédent, on peut imaginer le replier pour que le plan des producteurs touche celui des consommateurs. On obtient une chambre à air que les plateformes seraient en train de pincer pour prélever leur dîme au passage des informations, biens et services, matières premières qui pour la plupart circulent dans le même sens.
 
-![Internet torique](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/brutal5.jpg)
+![Internet torique](https://tcrouzet.com/images_tc/2018/03/brutal5.jpg)
 
 Si nous voulons ranimer notre rêve d’une société plus coopérative, plus intelligente et harmonieuse, nous pouvons inverser cette circulation, ce qui revient à court-circuiter les plateformes, à resserrer les liens entre les producteurs et les consommateurs. Nous pouvons de même court-circuiter les plateformes en établissant des pontages, exactement comme dans le cas d'un incident cardiaque.
 
-![Internet ponté](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/brutal6.jpg)
+![Internet ponté](https://tcrouzet.com/images_tc/2018/03/brutal6.jpg)
 
 Nous disposons de tous les outils nécessaires. Reste un problème de taille : comment luttons-nous contre le grégarisme ? Il ne suffit pas d’avoir des outils pour changer le monde, il faut encore que cette volonté soit partagée par la majorité, et au-delà de la volonté qu’elles se traduisent en actes.
 

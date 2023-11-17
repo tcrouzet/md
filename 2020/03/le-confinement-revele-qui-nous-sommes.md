@@ -16,7 +16,7 @@ Heureusement, il y a les critiques répartis sur un large spectre, entre les mod
 
 Il y a les masochistes. Pour eux, accepter le confinement est une espèce de prouesse, ils ne sont pas loin de se prendre pour des héros parce qu’ils restent chez eux et n’en sortent pas, et tous ceux qui mettent un pied dehors sont des faibles, des pleutres (sauf ceux qui vont acheter le pain quitte à se faire infecter — parce que le masochiste est aussi un peu soldat). Quand j’encourage de faire du sport en solitaire, ils me calomnient, m’accusent de toutes les irresponsabilités (non je ne vais pas acheter mon pain en boulangerie, je le fais moi-même, [courant ainsi cent moins de risques qu’en pédalant à moins d’un kilomètre de chez moi](https://tcrouzet.com/2020/03/24/le-confine-peut-donc-faire-du-velo/)).
 
-![Voilà ce qu'on m'envoie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/tranche.jpg)
+![Voilà ce qu'on m'envoie](https://tcrouzet.com/images_tc/2020/03/tranche.jpg)
 
 L’un m’a envoyé une photo des poilus dans une tranchée durant la Grande Guerre, me disant que si eux avaient tenu quatre ans, nous pouvions tenir quelques semaines. Il devait se prendre pour l’un de ces combattants, logique depuis que notre Président abuse d’un vocabulaire martial, prétendant que nous sommes en guerre, et donc nous faisant basculer dans une société en guerre, avec tous ses travers.
 

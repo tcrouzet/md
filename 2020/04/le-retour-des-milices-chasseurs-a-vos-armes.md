@@ -6,7 +6,7 @@ Depuis trois semaines, nous ne cessons de relever les mesures liberticides qui e
 
 M’en prenant aux donneurs de leçons en tout genre, j’ai évoqué [dès le 20 mars la menace de voir des milices populaires se substituer aux forces de l’ordre](https://tcrouzet.com/2020/03/20/macron-me-transforme-en-bombe-virale/). C’est une étape inévitable quand on se dirige vers la dictature. Je ne croyais pas que la première milice serait levée par un préfet, sans que le gouvernement ne la condamne aussitôt. Et, [sans le branle-bas de combat médiatique](https://www.marianne.net/societe/c-etait-mal-ecrit-le-prefet-de-seine-et-marne-abroge-en-catastrophe-son-arrete), nous y serions encore.
 
-![Non pas une blague](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/prefet2.png)
+![Non pas une blague](https://tcrouzet.com/images_tc/2020/04/prefet2.png)
 
 [Dans un document officiel daté du 3 avril](http://www.seine-et-marne.gouv.fr/content/download/42700/320256/file/recueil-d77-077-04-2020-recueil-des-actes-administratifs-special.pdf), on peut découvrir l’arrêté n°2020-CAB-55 portant réquisition de certains chasseurs et gardes-chasse particuliers. Justification : l’état d’urgence autorise tous les débordements. Décret signé par Thierry Coudert, préfet de la Seine-et-Marne.
 

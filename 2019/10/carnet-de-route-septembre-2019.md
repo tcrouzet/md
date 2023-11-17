@@ -4,7 +4,7 @@
 
 ### Dimanche 1<sup>er</sup>, Balaruc
 
-![De ma chambre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/IMG_6303.jpg)
+![De ma chambre](https://tcrouzet.com/images_tc/2019/10/IMG_6303.jpg)
 
 ### Lundi 2, Balaruc
 
@@ -64,7 +64,7 @@ L’écriture concomitante de cette expérience est-elle la cause ou la conséqu
 
 Un moustique tigre me prend pour cible. Ils sont innombrables, sournois, infatigables. J’ai du mal à me défendre du côté droit, sinon à coups d’insecticides. Le matin, je les retrouve agglutinés au plafond. De penser à eux, je me gratte, et la pesanteur revient, et mon corps exige que je me lève, que je change de position. Moins je bouge, moins mes pensées bougent, c’est explicite.
 
-![De mon lit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1090922.jpg)
+![De mon lit](https://tcrouzet.com/images_tc/2019/10/P1090922.jpg)
 
 ---
 
@@ -80,7 +80,7 @@ Je me sens encore moi-même, avec mes muscles, mes forces. D’ici quelques sema
 
 Coucher de soleil cuivre sur un étang d’huile. Un cadeau que nous offre l’hiver, mais plus rarement l’été, une conséquence du mistral d’hier, un signe de la pureté de l’atmosphère, avec l’effet loupe sur les Pyrénées qui n’ont pas quitté l’horizon de la journée avant d’enfler en une chaîne mauve aux dimensions disproportionnées.
 
-![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1090945-1599x1200.jpg)
+![Couchant](https://tcrouzet.com/images_tc/2019/10/P1090945-1599x1200.jpg)
 
 ### Mercredi 4, Balaruc
 
@@ -130,13 +130,13 @@ Trois jours et trois ravissements écrits. Ils me font un bien fou, autant de le
 
 Nouvel incendie au nord, très proche au vu de la fumée. Je demande aux garçons d’aller voir, ils ne bougent pas. On a changé d’époque : des bombes tomberaient autour d’eux qu’il resteraient rivés à leurs écrans. Je me souviens d’évènements semblables quand j’étais enfant. Nous étions en alerte, tous mobilisés, tous curieux. Désormais le feu n’est que l’affaire des pompiers.
 
-![Incendie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1090966.jpg)
+![Incendie](https://tcrouzet.com/images_tc/2019/10/P1090966.jpg)
 
-![Incendie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1090977-1599x1200.jpg)
+![Incendie](https://tcrouzet.com/images_tc/2019/10/P1090977-1599x1200.jpg)
 
-![Incendie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1090996-1-1599x1200.jpg)
+![Incendie](https://tcrouzet.com/images_tc/2019/10/P1090996-1-1599x1200.jpg)
 
-![Le feu après le feu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1100025-1599x1200.jpg)
+![Le feu après le feu](https://tcrouzet.com/images_tc/2019/10/P1100025-1599x1200.jpg)
 
 ### Mercredi 11, Balaruc
 
@@ -146,13 +146,13 @@ Depuis lundi, la douleur revient, différente. Terminées les pulsations, c’es
 
 Je poste une blague en ligne : « Prix littéraires : ils sont si nombreux que je dois le faire exprès pour n'être dans aucun. » Mais ce n’est pas rigolo, c’est même putain de frustrant, avoir l’impression que tous les autres sont des écrivains respectables et pas moi.
 
-![De mon lit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/IMG_6344.jpg)
+![De mon lit](https://tcrouzet.com/images_tc/2019/10/IMG_6344.jpg)
 
 ### Jeudi 12, Balaruc
 
 [Découverte d’eau sur une exoplanète](https://www.space.com/alien-planet-k2-18b-water-vapor-not-earth-twin.html), une première, ça me fait un bien fou, comme si soudain l’univers devenait plus intéressant.
 
-![De mon lit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/IMG_6355.jpg)
+![De mon lit](https://tcrouzet.com/images_tc/2019/10/IMG_6355.jpg)
 
 ### Vendredi 13, Balaruc
 
@@ -190,7 +190,7 @@ Une fausse manip incompréhensible sur Ulysses et mes *Ravissements* disparaisse
 
 Isa me pousse jusqu’à la plage où je reste une heure à écrire. Le soir nous allons à la maison pour voir si tout ce passe bien en préparation du prime time de demain, la maison devant servir de décors pour l’émission *Terre inconnue*. Éclairage pharaonique, débauche électrique, illuminations jusqu’à Sète. Quand nous arrivons, la chef de plateau nous dit qu’ils se font manger par les moustiques et les moucherons. Avec leurs projecteurs, ils les ont attirés depuis des kilomètres.
 
-![Préparation du tournage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1100060-1.jpg)
+![Préparation du tournage](https://tcrouzet.com/images_tc/2019/10/P1100060-1.jpg)
 
 ### Mardi 17, Balaruc
 
@@ -198,7 +198,7 @@ Je regarde la TV, je ne vois que les moucherons et les moustiques collés à la 
 
 ### Mercredi 18, Balaruc
 
-![De ma chambre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/Illustration-sans-titre-1.jpg)
+![De ma chambre](https://tcrouzet.com/images_tc/2019/10/Illustration-sans-titre-1.jpg)
 
 ### Jeudi 19, Balaruc
 
@@ -256,7 +256,7 @@ J’ai écrit vingt ravissements, 80 000 signes, un petit livre prend forme, san
 
 Première visite de contrôle à la clinique. Je n’avais pas compris que je devais arriver avec une radio. Pas grave. Le chirurgien vérifie que ma jambe droite n’a pas raccourci, puis teste sa mobilité. Tout va, mais « pas de folie ». J’ai désormais droit de pédaler sur un home-trainer sans forcer. Dans dix jours, je commence la kiné et réapprends à poser le pied par terre.
 
-![Dans les rues de Montpellier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/cf4b2ec3-6f59-4f0b-9c4d-dbdb78d249ab.jpg)
+![Dans les rues de Montpellier](https://tcrouzet.com/images_tc/2019/10/cf4b2ec3-6f59-4f0b-9c4d-dbdb78d249ab.jpg)
 
 ### Samedi 28, Balaruc
 

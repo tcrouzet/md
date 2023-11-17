@@ -2,7 +2,7 @@
 
 En cinq semaines durant l’automne 2021, j’ai écrit un roman initiatique, soudainement, sorti tout seul, avec délectation. Pierre, mon éditeur, a fait la fine bouche et j’ai remisé le texte, pour ne le relire et le retravailler homéopathiquement qu’un an plus tard, mais avec autant de plaisir que quand je l’écrivais. Je me dis qu’il intéressera peut-être quelques lecteurs. Alors, jusqu’à Noël, je diffuse gratuitement sa version électronique dans toutes les librairies *ad hoc* ([7switch](https://www.7switch.com/fr/ebook/9782919358205/cyclotrope), [Amazon](https://www.amazon.fr/dp/B0BNJHCGK1/), [Apple](https://books.apple.com/fr/book/cyclotrope/id6444769496), [Bookeen](https://www.bookeenstore.com/ebook/9782919358205-cyclotrope-thierry-crouzet/), [Google](https://play.google.com/store/books/details/Thierry_Crouzet_Cyclotrope?id=60ueEAAAQBAJ), [Kobo](https://www.kobo.com/fr/fr/ebook/cyclotrope)…). Si vous êtes allergique à la lecture électronique, je diffuse aussi une version papier ([Amazon](https://www.amazon.fr/dp/B0BMXMC6TB?ref_=pe_3052080_397514860)).<span id="more-64529"></span>
 
-![Cyclotrope](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/cyclotrope-planche-1600-1024x753.jpg)
+![Cyclotrope](https://tcrouzet.com/images_tc/2022/11/cyclotrope-planche-1600-1024x753.jpg)
 
 Pas plus que Stevenson parle sans cesse de son âne dans son *Voyage avec un âne dans les Cévennes*, je parle sans cesse du vélo. Il est un moyen de transport comme la voiture l’est dans un road book, à cela près que ce récit ne se joue pas sur les routes mais le plus souvent sur les chemins loin d’elles ([il me faudrait théoriser le single book](https://tcrouzet.com/2022/12/03/apres-le-road-book-et-le-cyber-book-le-single-book/)).
 

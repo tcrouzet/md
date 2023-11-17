@@ -8,7 +8,7 @@ La raison : je n’avais pas moi-même payé les coûts de minage. C’était d
 
 J’ai râlé, me disant que les NFT ne rassemblaient qu’un ramassis de spéculateurs (c’est un peu ça tout de même, parce que les coûts de transaction sont négligeables dès que les prix s’élèvent), puis je me suis calmé, surtout quand [LTKzY](https://twitter.com/LTKzY) m’a dit qu’il [s’apprêtait à vendre de la poésie sur la blockchain Elrond](https://isengardmarket.com/collection/01ELROND-f624be), où les coûts de minage et donc de transaction sont beaucoup moins élevés.
 
-![One Sunset a Day](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/onesunset.jpg)
+![One Sunset a Day](https://tcrouzet.com/images_tc/2022/01/onesunset.jpg)
 
 Avant de regarder de ce côté, j’ai commencé par lancer mon projet [one Sunset a Day](https://tcrouzet.com/one-sunset-a-day/) à nouveau sur OpenSea, avant tout parce que cette idée de rassembler et de trier mes photos de coucher de soleil me trotte dans la tête depuis longtemps. Je me suis ainsi donné une carotte pour me tenir immergé dans la mouvance NFT tout au long de 2022.
 
@@ -38,7 +38,7 @@ Ensuite, je suis revenu voir du côté d’Elrond.
 
 12. Tenter l'expérience avec mes prochains billets. Je vois qu'il existe déjà quelques plugins NFT pour Wordpress.
 
-![La Chute version HD](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/isangard2.jpg)
+![La Chute version HD](https://tcrouzet.com/images_tc/2022/01/isangard2.jpg)
 
 ### Comment acheter-vendre sur Elrond
 

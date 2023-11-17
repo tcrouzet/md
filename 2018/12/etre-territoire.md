@@ -22,7 +22,7 @@ Mes lunettes bien que technologiques me rapprochent du monde comme les microscop
 
 Grisés par les promesses d’un retour aux sources, nous ne devons pas oublier qu’avant d’être des *Homo sapiens* nous étions des [*Homo habilis*](https://fr.wikipedia.org/wiki/Homo_habilis), autrement dit des hommes habiles capables d’utiliser des outils de pierre. La technologie fait corps avec nous depuis l’apparition du genre *Homo*. Vouloir vivre sans technologie n’est pas humain.
 
-![Le Canigou au loin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/pyrennees-600x450.jpg)
+![Le Canigou au loin](https://tcrouzet.com/images_tc/2018/12/pyrennees-600x450.jpg)
 
 ### En quête de la symbiose
 
@@ -70,7 +70,7 @@ Dans [*Énergie et Équité*](http://olivier.hammam.free.fr/imports/auteurs/illi
 
 Le vélo démultiplie la puissance mise en nous par l’évolution. Il est plus rapide que la course, mais pas suffisamment pour que nos yeux ne perçoivent pas les détails du territoire, surtout lorsque nous suivons des sentiers. Nous pouvons même ajuster nos coups de pédales pour une prise de conscience optimale, ce qui est plus difficile à la course. Le vélo est l’ultime instrument d’exploration et il n’a peut-être pas fini de nous surprendre : [les vélos roulent même sur l’eau.](https://www.youtube.com/watch?v=KQ9oazS0slc) Pourquoi ne pas en rester au canoë ? Encore cette question de temps, d’autonomie, de rendement. Le vélo, c’est la course démultipliée, avec la juste vitesse pour percevoir. Une fois que le vélo est devenu une seconde peau, il transforme le territoire en terrain de jeu dont nous prenons possession avec une jubilation enfantine et une plénitude de moine zen.
 
-![En quête de la trace](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/WhatsApp-Image-2018-12-04-at-14.34.13-600x450.jpg)
+![En quête de la trace](https://tcrouzet.com/images_tc/2018/12/WhatsApp-Image-2018-12-04-at-14.34.13-600x450.jpg)
 
 ### L’extension du domaine d’existence
 

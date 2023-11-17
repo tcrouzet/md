@@ -2,11 +2,11 @@
 
 C’est en tout cas ce qu’affirme Claire Chazal lorsqu’elle [interviewe François Bayrou sur TF1](http://johnpaullepers.blogs.com/john_paul_lepers_leblog/2006/12/bayrouchazal2.html).
 
- ![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/20061204pien.gif)
+ ![](https://tcrouzet.com/images_tc/20061204pien.gif)
 
 Quand je regarde la représentation des forces politiques dans la blogosphère, je ne voix pas du tout ce que Claire Chazal veut dire. La droite et la gauche ensemble ne représentent que [49 % des forces politiques françaises](http://www.bonvote.com/parts.php) : même pas la majorité. La force la plus grande est celle des autres : ce fameux cinquième pouvoir inféodé à aucune chapelle.
 
-![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/20061204pieg.gif)
+![](https://tcrouzet.com/images_tc/20061204pieg.gif)
 
 En regardant les ensembles les plus représentatifs, je ne peux que constater que le paysage politique n’est pas aussi simpliste qu’on veut nous le faire croire. On accuse souvent François Bayrou de ne pas avoir d’idées originales. Il n’a qu’à se baisser pour les ramasser dans le camp des autres, un camp totalement étranger aux deux forces historiques.
 

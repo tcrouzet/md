@@ -4,27 +4,27 @@ Nous autre Français aimons nous comparer aux Allemands, une vieille histoire. N
 
 S’il existe une maladie virale où les mains jouent un rôle prépondérant dans la transmission, c’est la gastro-entérite. Les rotavirus, adénovirus, norovirus et autres astrovirus qui la provoquent se transmettent par la salive et les selles, donc par contact. Direct quand une personne en touche une autre ou indirect quand les virus transitent par des surfaces. Chaque hiver, les cas redoublent, avant une accalmie au printemps et durant l’été, puis une reprise à l’automne.
 
-![En bleu, 2020](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/GastrosF1.png)
+![En bleu, 2020](https://tcrouzet.com/images_tc/2020/11/GastrosF1.png)
 
-![2020 au plus bas](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/GastrosF2.png)
+![2020 au plus bas](https://tcrouzet.com/images_tc/2020/11/GastrosF2.png)
 
 En France, [le réseau Sentinelles analyse l’évolution de la maladie au fil des mois](https://www.sentiweb.fr/france/fr/?page=table). Lors des deux premières semaines de janvier 2020, on relève davantage de cas que la moyenne constatée durant les dix dernières années. On se trouve aussi haut qu’en 2013, juste au-dessous des records de 2010 et 2011. Tout au long de janvier, le nombre de cas diminue assez vite, jusqu’à ce qu’il devienne le plus faible jamais constaté à partir de la première semaine de février. Tout au long de l’année, il y aura jusqu’à trois fois moins de gastro-entérites que d’habitude.
 
 Pourquoi ? Avec l’émergence du covid, tous les acteurs de la santé répètent l’importance de hygiène des mains et de la distanciation physique, deux stratégies efficaces pour lutter contre le nouveau coronavirus, mais aussi contre la gastro-entérite. Sans le vouloir, les Français nous prouvent que les règles de prévention hospitalière fonctionnent dans la communauté, qu’elles ont un effet à large spectre sur toutes les maladies transmissibles par contact. Plus je me lave les mains, moins je suis malade.
 
-![Zoom sur 2020](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/GastrosF3.png)
+![Zoom sur 2020](https://tcrouzet.com/images_tc/2020/11/GastrosF3.png)
 
 Il est intéressant d’analyser la courbe des cas de gastro-entérite en France. Durant les deux dernières semaines de février 2020, tout en étant de loin sous son plus bas historique, elle remonte avant de replonger en mars. Durant ce rebond, les gels hydroalcooliques sont en rupture de stock dans les officines. On n’en trouve nulle part. On peut imaginer que nous nous sommes relâchés côté hygiène des mains avant de nous ressaisir. Bien sûr, plus tard, le confinement renforce la diminution des cas, mais la tendance lui préexiste.
 
 Étrangement, durant le confinement, après le pic de la première vague de covid, les cas de gastro-entérite repartent à la hausse alors que d’habitude on n’observe pas ce phénomène en cette saison. Durant l’été 2020, on remonte presque aux niveaux les plus bas observés sur dix ans. Apparemment, croyant l’épidémie covid derrière nous, nous nous sommes relâchés quant à l’hygiène des mains.
 
-![Plus de masques, moins du reste](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/Fig1_MP_231120.png)
+![Plus de masques, moins du reste](https://tcrouzet.com/images_tc/2020/11/Fig1_MP_231120.png)
 
 [Une étude menée par Santé publique France le confirme](https://www.santepubliquefrance.fr/etudes-et-enquetes/covid-19-une-enquete-pour-suivre-l-evolution-des-comportements-et-de-la-sante-mentale-pendant-l-epidemie) : plus on nous a demandé de porter le masque, notamment en extérieur, moins nous nous sommes lavé les mains (baisse de 10 % de l’observance). À force d’insister sur le port du masque, [en parlant jusqu’à cent fois plus que de l’hygiène des mains](https://tcrouzet.com/2020/08/28/france-bombe-a-retardement/), les politiques ont minimisé dans nos consciences l’importance de l’hygiène des mains, et aussi de la distanciation physique. Quand la seconde vague covid reprend, les cas de gastro-entérite ne remontent pas comme ils le devraient à l’automne, mais ils ne redescendent pas comme en février et mars, preuve que la pratique de l’hygiène des mains ne s’est pas ancrée durablement. La focalisation exagérée sur le masque aura été nocive, une erreur politique.
 
-![Gastros norovirus en Allemagne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/GastrosA21.png)
+![Gastros norovirus en Allemagne](https://tcrouzet.com/images_tc/2020/11/GastrosA21.png)
 
-![Gastros norovirus en Allemagne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/GastrosA2.png)
+![Gastros norovirus en Allemagne](https://tcrouzet.com/images_tc/2020/11/GastrosA2.png)
 
 Quand j’analyse [la courbe des gastro-entérites en Allemagne](https://survstat.rki.de/Content/Query/Create.aspx) (gastros causées par le norovirus), je découvre qu’au contraire les Allemands ont été plus appliqués. Comme en France, 2020 est l’année avec le moins de cas sur les dix dernières années. La baisse de l’incidence de la maladie est constante jusqu’à la mi-mars, avant de se maintenir au plus bas, si bas que la maladie semble pratiquement éradiquée. La courbe ne remonte pas, preuve que les Allemands suivent les consignes sanitaires avec davantage de rigueur que les Français (et que leur gouvernement ne pratique pas la dissonance cognitive).
 

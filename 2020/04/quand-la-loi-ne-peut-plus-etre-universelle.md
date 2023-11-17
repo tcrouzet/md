@@ -16,7 +16,7 @@ Face à une crise sanitaire, cette attitude frise l’absurdité. Il y a des con
 
 Si on m’autorisait à faire du vélo en garrigue, je vous ramènerais des photos, des vidéos, je pourrais les partager avec mes amis confinés à Paris et je suis sûr qu’elles leur feraient du bien. Ils seraient peut-être jaloux, mais pas plus que moi quand je les vois participer à des rencontres littéraires auxquelles je suis tenu à l’écart dans mon Midi.
 
-![Garrigue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0378.jpeg)
+![Garrigue](https://tcrouzet.com/images_tc/2020/04/IMG_0378.jpeg)
 
 Je ne dis pas que toutes les lois doivent être relatives. Bien sûr. Mais que dans beaucoup de circonstances beaucoup de lois devraient l’être. Face à une pandémie, nous sommes dans une telle circonstance. Parce qu’elle n’est pas la même partout, parce qu’elle ne se développe pas de manière homogène, parce qu’elle est dynamique. La réaction actuelle c’est comme si quand on se fracturait un bras, on nous plâtrait aussi l’autre et même les jambes. Cette absurdité ne fait pas peur à nos gouvernants, qui, eux-mêmes, se contrefichent du confinement, continuant à mener leur vie comme avant, ou presque.
 
@@ -28,7 +28,7 @@ Du coup, faute d’une intelligence bien répartie, et à cause d’un système 
 
 Une solution ? Il n’existe pas de réponses toutes faites, c’est le propre des situations complexes incompatibles avec les lois univoques, mais utilisons la crise coronavirus pour apprendre. Après un confinement abrutit, essayons de penser un déconfinement intelligent. Nous avons besoin d’apprendre très vite parce que d’autres problèmes nous guettent… le virus lui-même n'étant peut-être pas prêt de disparaître, et, s'il le faisait, il ne faudrait pas trop vite oublier les leçons qu'il nous aura apprises.
 
-![Garrigue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0386.jpeg)
+![Garrigue](https://tcrouzet.com/images_tc/2020/04/IMG_0386.jpeg)
 
 *PS : Si vous avez lu entre les lignes, vous aurez deviné que je suis pas, a priori, [défavorable à l'usage d'une technologie de contact tracing comme ](https://www.01net.com/actualites/coronavirus-comment-fonctionneront-les-applications-de-contact-tracing-1894812.html), à condition qu'elles garantissent l'anonymat (ce qui semble jouable) et qu'elles fonctionnent (ce qui semble plus compliqué, car il faudrait que 60 % d'entre nous installions la même appli, autant rêver). En prime, comme par hasard, la France s'oriente vers une solution centralisée. C'est presque une blague. La véritable solution doit être en pur P2P via une blockchain, avec code en open source.*
 

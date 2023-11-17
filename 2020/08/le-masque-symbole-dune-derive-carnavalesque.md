@@ -8,7 +8,7 @@ Beaucoup d’articles ont défendu une transmission par aérosol, mais tous ont 
 
 Depuis le tout début de l’épidémie, dès fin janvier, Didier Pittet et beaucoup d'épidémiologistes ont compris que ce virus ne se transmettait pas ou très faiblement par aérosol. Pourquoi, parce que les virus transmissibles principalement par aérosol, comme la rougeole, ont des R0 supérieurs à 10, alors que ceux transmissibles par gouttelettes ont des R0 inférieurs à 10, ce qui est le cas du covid.
 
-![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/r0.png)
+![](https://tcrouzet.com/images_tc/2020/08/r0.png)
 
 Si ce virus se transmettait par aérosol, s’il pouvait rester de longues minutes en suspension, il aurait contaminé beaucoup plus vite beaucoup plus de gens, et son R0 serait bien supérieur.
 

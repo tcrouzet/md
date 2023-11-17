@@ -42,7 +42,7 @@ J’aime de plus en plus le thé, mais ni brûlant, ni tiédasse, ou alors très
 
 Partout dans l’aéroport du sucre, de la drogue en vente libre, à laquelle j’ai été addict et dont j’ai fini par me défaire quand j’ai compris qu’elle avait une emprise trop forte sur moi, et le pouvoir de me brûler les entrailles quelques heures plus tard. Je me demande quelle aurait été ma vie si j’avais renoncé vingt ou trente ans plus tôt, si j’avais dès cette époque compensé par une autre drogue, celle des endorphines libérées par le sport, que je pratiquais alors de manière bien plus modérée qu'aujourd'hui.
 
-![Noms de villes en guerre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/20180408.jpg)
+![Noms de villes en guerre](https://tcrouzet.com/images_tc/2018/05/20180408.jpg)
 
 ### Lundi 9, Tabriz
 
@@ -50,7 +50,7 @@ Trois heures du matin. Hôtel d’un kitsch vieillot. Le lobby, surtout le coulo
 
 J’ai relu Bouvier et j’ai relu Proust dans l’avion, le début de *Sodome et Gomorrhe*, que je n’avais pas ouvert depuis vingt ans. Je ne me souvenais pas que la baise entre Charlus et Jupien était aussi explicite. Proust évoque trois raisons pour justifier sa curiosité pour cette scène, aucune ne vaut pour un hétéro de mon espèce, la seule valable : Proust était homo.
 
-![Résistants en farsi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0223.jpg)
+![Résistants en farsi](https://tcrouzet.com/images_tc/2018/05/IMG_0223.jpg)
 
 Accueil chaleureux d’Hassan. Il m’a montré la couverture de [*Résistants*](https://tcrouzet.com/resistants/), version iranienne, avec ma photo sur la couverture. Le roman a été traduit depuis l'anglais. Les traducteurs ont censuré les scènes de sexe. Je ne sais pas si cette traduction est légale, j’en doute, ça n’a aucune importance.
 
@@ -84,9 +84,9 @@ Dans la voiture, nous discutons avec les deux caméramans qui nous accompagnent.
 
 Après la visite, un lunch a été servi, mon nouvel ami médecin a voulu que je goûte à tout, je me suis esquivé, disant que j’étais végan et que j’évitais le sucre, je me suis contenté d’un morceau de pain en forme de tôle ondulée.
 
-![Un coin de ciel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/20180409_1.jpg)
+![Un coin de ciel](https://tcrouzet.com/images_tc/2018/05/20180409_1.jpg)
 
-![Couleurs de Tabriz](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/20180409_2.jpg)
+![Couleurs de Tabriz](https://tcrouzet.com/images_tc/2018/05/20180409_2.jpg)
 
 Je me suis assoupi pendant que Didier visitait un second hôpital. J’ouvre les yeux, deux images s’imposent. Tout juste le temps de photographier qu’on nous entraîne dans un second déjeuner. Didier poliment mange, moi moins.
 
@@ -100,23 +100,23 @@ Bouvier écrit de Tabriz :
 
 Depuis 1953, la ville a décuplé de taille, mais rien n’a apparemment changé. Bien des coins paraissent à l’abandon, même impression qu’à Bucarest, avec une multitude d’immeubles inachevés, des grues paralysées au-dessus de squelettes de béton. La couleur terreuse, presque sableuse, ne s’est pas dissipée, comme si les montagnes alentour se dissolvaient peu à peu dans les murs poussiéreux.
 
-![Une cour dans le bazar](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/20180409_3.jpg)
+![Une cour dans le bazar](https://tcrouzet.com/images_tc/2018/05/20180409_3.jpg)
 
-![Bazar](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/20180409_4.jpg)
+![Bazar](https://tcrouzet.com/images_tc/2018/05/20180409_4.jpg)
 
-![Marchands de tapis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050213.jpg)
+![Marchands de tapis](https://tcrouzet.com/images_tc/2018/05/P1050213.jpg)
 
-![Bazar](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050238.jpg)
+![Bazar](https://tcrouzet.com/images_tc/2018/05/P1050238.jpg)
 
-![Bazar](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050256.jpg)
+![Bazar](https://tcrouzet.com/images_tc/2018/05/P1050256.jpg)
 
-![Mosquée bleue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050279-1.jpg)
+![Mosquée bleue](https://tcrouzet.com/images_tc/2018/05/P1050279-1.jpg)
 
 ### Mardi 10, Tabriz
 
 Nous entrons dans le grand amphi de la faculté de médecine par le haut et se déroule devant nous une mer de têtes voilées en noir. Je suis peu tolérant au regard de tout ce qui nous empêche de nous différencier, d’être nous-mêmes, nous emprisonne dans des dogmes arbitraires. Je veux bien entendre que l’Occident porte ses propres dogmes, mais le droit de s’habiller à sa façon me semble une liberté élémentaire, première peut-être. Je devrais porter un costume en ces lieux, je ne le fais pas au nom de moi-même.
 
-![Didier sous surveillance](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050306-1.jpg)
+![Didier sous surveillance](https://tcrouzet.com/images_tc/2018/05/P1050306-1.jpg)
 
 ---
 
@@ -140,23 +140,23 @@ Je replonge dans Bouvier. Il évoque souvent le bazar de Tabriz sans le décrire
 
 Je ne fais pas autrement, j’aime par-dessus tout le *lavash*, servi dans les restaurants en immenses feuilles faisant penser à des dos de morues salées.
 
-![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050453.jpg)
+![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050453.jpg)
 
-![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050330-1.jpg)
+![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050330-1.jpg)
 
-![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050331.jpg)
+![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050331.jpg)
 
-![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050336.jpg)
+![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050336.jpg)
 
-![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050361.jpg)
+![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050361.jpg)
 
-![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050367.jpg)
+![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050367.jpg)
 
-![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050405-1.jpg)
+![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050405-1.jpg)
 
-![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050418.jpg)
+![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050418.jpg)
 
-![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050435-1.jpg)
+![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050435-1.jpg)
 
 ### Mercredi 11, Ispahan
 
@@ -166,9 +166,9 @@ Ville verte au milieu du désert. Avec des collines dentelées en surplomb, alig
 
 Dîné étrange, traversé de silences. Je parle peut-être un peu trop de politique, puis Didier surenchérit. Notre guide : « Quand il y a des lois, il faut les respecter. » Moi : « Mais quand les lois sont mauvaises ? » Notre guide : « Il faut partir. » Il est vrai que les Iraniens peuvent quitter leur pays, ce que font beaucoup de jeunes éduquées. Mais avec de tels raisonnements, le monde en serait encore à l’âge du feu.
 
-![Palais Chehel Sotoun](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050468-1.jpg)
+![Palais Chehel Sotoun](https://tcrouzet.com/images_tc/2018/05/P1050468-1.jpg)
 
-![Pont Khaju](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050504.jpg)
+![Pont Khaju](https://tcrouzet.com/images_tc/2018/05/P1050504.jpg)
 
 ### Jeudi 12, Ispahan
 
@@ -182,11 +182,11 @@ Je repense à Ispahan, à notre promenade d’hier après-midi, dans les jardins
 
 Dans la voiture, Hassan nous parle de son engagement dans l’armée. Durant la guerre contre l’Irak, il a voulu être un martyre. Aujourd’hui, tout ça est oublié. Cet humaniste a peur d’une nouvelle révolution parce qu’il se souvient de la guerre, de ses proches qui ont été tués. Il pense qu’une évolution progressive est préférable, chemin que selon lui l’Iran est en train de suivre. Restent les jeunes. La lenteur est incompatible avec leur tempérament.
 
-![Persépolis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0154.jpg)
+![Persépolis](https://tcrouzet.com/images_tc/2018/05/IMG_0154.jpg)
 
-![Persépolis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0167.jpg)
+![Persépolis](https://tcrouzet.com/images_tc/2018/05/IMG_0167.jpg)
 
-![Persépolis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0171.jpg)
+![Persépolis](https://tcrouzet.com/images_tc/2018/05/IMG_0171.jpg)
 
 ### Vendredi 13, Chiraz
 
@@ -226,15 +226,15 @@ Nouvelle traversée, la nuit est maintenant tombée, nous arrivons au tombeau de
 
 Je dis que je suis contre les comptes-rendus, mais je viens d’écrire ces quelques lignes une fois de retour à l’hôtel, avec ce besoin de me décharger d’émotions que les mots n’ont ni eu le temps de canaliser ni d’amplifier.
 
-![Eram Botanical Garden](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050580-1.jpg)
+![Eram Botanical Garden](https://tcrouzet.com/images_tc/2018/05/P1050580-1.jpg)
 
-![Eram Botanical Garden](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050618.jpg)
+![Eram Botanical Garden](https://tcrouzet.com/images_tc/2018/05/P1050618.jpg)
 
-![Chiraz](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050627.jpg)
+![Chiraz](https://tcrouzet.com/images_tc/2018/05/P1050627.jpg)
 
-![Livre interdit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050649.jpg)
+![Livre interdit](https://tcrouzet.com/images_tc/2018/05/P1050649.jpg)
 
-![Chiraz icecreams](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050661.jpg)
+![Chiraz icecreams](https://tcrouzet.com/images_tc/2018/05/P1050661.jpg)
 
 ### Samedi 14, Chiraz
 
@@ -256,7 +256,7 @@ Tout le monde rêve de changements, mais personne n’est prêt à changer. Pour
 
 Depuis que j’ai 17 ans, je tiens un journal, mais je l’ai arrêté quand je me suis mis à bloguer, avant de le reprendre en 2015, fatigué et lassé par le direct que nous imposent les réseaux sociaux. Revenir à cette forme m’a fait du bien et continue de le faire. Je m’y sens libre, pas totalement, mais assez pour que cet exercice me rende heureux. Si je ne publiais pas ce journal, peut-être que je ne l’écrirai pas. Il serait sans doute plus intime, mais il n’existerait probablement pas, parce que trop de sollicitations en reporteraient jour après jour la tenue (impossible de revenir à ma vie d’avant Internet, d’avant les enfants, d’avant la publication de mes livres…). Et ne pas le publier me priverait des quelques interactions qu’il engendre. J’écris pour elles, non pas pour laisser une trace de ma vie, mais pour rendre ma vie plus intéressante à mes propres yeux. J’ai le privilège d’être un écrivain égoïste.
 
-![Chiraz](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050699-1.jpg)
+![Chiraz](https://tcrouzet.com/images_tc/2018/05/P1050699-1.jpg)
 
 ### Samedi 14, Mashhad
 
@@ -308,7 +308,7 @@ Hassan demande à Didier de supprimer de sa présentation son film sur la danse 
 
 Quand j’ai dit à N que je n’avais pas publié mes notes prises lors de mon voyage de 2015, elle m’a dit que j’aurai dû. « Les choses doivent changer. » Je lui ai parlé de ma théorie sur Telegram. N m’a dit que le gouvernement s’apprêtait à censurer le service. Après tout, Poutine fait la même chose en Russie.
 
-![En guest star](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0180.jpg)
+![En guest star](https://tcrouzet.com/images_tc/2018/05/IMG_0180.jpg)
 
 ### Mardi 17, Mashhad
 
@@ -322,7 +322,7 @@ Hier, soir j’ai suivi Bouvier jusqu’à la frontière iranienne. À Téhéran
 
 À Ispahan, il évoque « les montagnes mauves du Zagros, d’une découpe très provençale. » Avant de le relire, j’avais parlé de Sainte Victoire, j’aurais pu aussi bien évoquer les Alpilles ou cette chaîne qui nous accompagne quand nous descendons vers Marseille par l’autoroute. Frappé de trouver la même analogie que Bouvier, à moins qu’inconsciemment le souvenir de son livre, lu pour la première fois vingt-cinq ans plus tôt, ne se soit imposé malgré moi.
 
-![Hijab version sexy](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/8ea5ad10-77e0-40b5-b533-a504a47e7fd7.jpg)
+![Hijab version sexy](https://tcrouzet.com/images_tc/2018/05/8ea5ad10-77e0-40b5-b533-a504a47e7fd7.jpg)
 
 ### Mercredi 18, Mashhad
 
@@ -388,9 +388,9 @@ L’époque n’est pas la même pour tous, et c’est sans doute une première 
 
 ### Jeudi 26, Maillardou
 
-![Sortie VTT, Vergt de Biron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0356.jpg)
+![Sortie VTT, Vergt de Biron](https://tcrouzet.com/images_tc/2018/05/IMG_0356.jpg)
 
-![Sortie VTT, Vergt de Biron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0359.jpg)
+![Sortie VTT, Vergt de Biron](https://tcrouzet.com/images_tc/2018/05/IMG_0359.jpg)
 
 ### Vendredi 27, Angers
 

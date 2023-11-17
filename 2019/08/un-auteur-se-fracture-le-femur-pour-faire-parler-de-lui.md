@@ -10,7 +10,7 @@ Comme tous les écrivains qui s’enferment dans la solitude de l’écriture, j
 
 Température douce, ciel couvert, conditions parfaites pour le VTT. Peu après 8 h, je quitte la maison par les bois, croise une petite route, continue dans les bois. Je n’ai aucune envie de faire des prouesses, je suis en mode récupération et exploration. Je tente plusieurs sentiers que je ne connais pas ou mal, pour que mon GPS les enregistre et que je les retrouve plus tard sur mes cartes, puis je rejoins un de mes circuits classiques qui m’amène vers le château de Biron. J’ai parcouru 20 km, j’ai l’intention de doubler la mise avant le retour (une simple ballade pour moi qui vient d’aligner 700 km en une semaine).
 
-![Biron avant ma chute](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/IMG_6224-581x450.jpg)
+![Biron avant ma chute](https://tcrouzet.com/images_tc/2019/08/IMG_6224-581x450.jpg)
 
 J’ai de bonnes jambes. Sur les pistes familières, je rêve. Je me dis que mon livre attirera doucement l’attention, puis je m’en veux de rêver, puis je me dis que si ce livre ne touche pas son public, je peux arrêter d’écrire. À 56 ans, je me sens à un point charnière de ma carrière, à ce point au-delà duquel mon ticket ne sera plus valable, je pense plus que je ne pédale.
 
@@ -28,7 +28,7 @@ Je réussis à me dégager, à saisir mon téléphone. J’ai du signal, un coup
 
 Je pense à [*La Mort suspendue*](https://www.amazon.fr/Mort-suspendue-Joe-Simpson/dp/2757839012/), un livre extraordinaire, un alpiniste brisé de part en part se traîne dans un glacier, rampe à la recherche de secours. J’ai quelques scrupules à abandonner mon vélo. J’ai peut-être une hémorragie. Je bois. J’avale un gel énergétique. Isa est du genre a ne pas charger son mobile en vacances alors je rappelle Clary qui décroche.
 
-![Ma géolocalisation](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/fracture3-600x318.jpg)
+![Ma géolocalisation](https://tcrouzet.com/images_tc/2019/08/fracture3-600x318.jpg)
 
 J’essaie de plaisanter, en vain. Je partage ma position sur WhatsApp, j'explique comment s’approcher à deux cents mètres de moi en voiture. Au bout d’une quinzaine de minutes, Isa m’appelle au loin.
 
@@ -42,11 +42,11 @@ Pendant qu’Isa ramène mon vélo vers la voiture, je me traîne sur le dos, su
 
 Isa revient, le soleil avec elle. Il chauffe dur, pas d’ombre. Mais l’attente est courte, vingt minutes depuis le départ de Clary et nous entendons des voitures approcher. Arrive l’équipe du SAMU de Monflanquin, un village situé à une dizaine de kilomètres : deux gars, une jeune femme. Ils évaluent ma blessure, mesurent mes paramètres, comprennent qu’ils doivent me brancarder en m’immobilisant.
 
-![Mesure de la glycémie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/e14c4f25-423f-4ae8-8d17-40b2aa0db426-600x450.jpg)
+![Mesure de la glycémie](https://tcrouzet.com/images_tc/2019/08/e14c4f25-423f-4ae8-8d17-40b2aa0db426-600x450.jpg)
 
-![Ils rigolent](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/731fd934-4da1-4219-8baf-2b7a3bbd8a56-600x450.jpg)
+![Ils rigolent](https://tcrouzet.com/images_tc/2019/08/731fd934-4da1-4219-8baf-2b7a3bbd8a56-600x450.jpg)
 
-![En voiture](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/5b4efa0c-7b38-4931-bbe0-cd18c85b6e8f-600x450.jpg)
+![En voiture](https://tcrouzet.com/images_tc/2019/08/5b4efa0c-7b38-4931-bbe0-cd18c85b6e8f-600x450.jpg)
 
 J’ai défense de bouger, je replie mes bras sur mon thorax, ils construisent leur brancard autour de moi, les deux hommes se placent de part et d’autre et me soulèvent jusqu’à un chariot où ils m’encoquillent avant de me remorquer vers leur ambulance. À chaque bosse, je chante. Me voilà embarqué. Les portes se referment. La jeune femme s’assoit près de moi. De temps à autre, elle me touche avec tendresse. J’ai envie de la prendre dans les bras. Je me sens en sécurité avec elle.
 
@@ -54,7 +54,7 @@ Nous partons en direction de l’hôpital de Villeneuve-sur-Lot. La route secoue
 
 Au bout de trente minutes, un jeune médecin avec un look à la Bob Marley m’examine. Lui : « On va faire une radio. » Moi : « Vous avez un avis ? » Lui : « Facture probable. » À 14 h, diagnostic confirmé, reconfirmé par un scanner. Isa arrive et l’attente commence. À 15 h, l'urgentiste revient. Il annonce la couleur : fracture du col du fémur engrenée. Il doit consulter un orthopédiste pour déterminer la marche à suivre, mais il lâche la possible nécessité d’une prothèse. Je prends un coup sur la tête. Non, pas de prothèse.
 
-![La fracture](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/fracture2-600x450.jpg)
+![La fracture](https://tcrouzet.com/images_tc/2019/08/fracture2-600x450.jpg)
 
 Pendant ce temps, on discute avec les copains toubibs sur WhatsApp. « Fracture engrenée du col égal à égal, pas de chirurgie en urgence. Ça veut dire que tu as pété le col du fémur et que les travées osseuses se sont imbriquées les unes dans les autres. Le traitement habituel est du repos, prévention de phlébite par héparine puisque tu resteras allongé. En tout état de cause, tu seras emmerdé pendant un certain temps. Essaie de m’envoyer les radios, voire les meilleures coupes du scanner. En général, les fractures engrenées du col ne sont pas opérées, mais à ton âge cela peut se discuter. Tu risques le raccourcissement du membre inférieur. »
 
@@ -118,7 +118,7 @@ L’assistante-anesthésiste : « Un petit shoot ? » Je refuse. Je regarde 
 
 On me conduit dans la salle de réveil, où j’ai pour mission de bouger mes orteils. D'autres patients arrivent, la plupart dans le potage, bientôt mon voisin d'anesthésie débarque. Nous jouons à qui récupère le plus vite l'usage de ses extrémités. Puis ce sera une radio de contrôle, avant l’arrivée dans la chambre où j’écris ces lignes. J’ingurgite depuis une quantité faramineuse de médicaments, mange deux fois plus que d’habitude, ayant déjà l’impression de faire du gras. Le personnel est adorable, disponible, pro. Mes amis m’envoient des messages, mes enfants débarquent et fichent le bazar, et je passe mon temps à discuter sur les réseaux sociaux de mon livre et de mon accident.
 
-![Je suis désormais un cyborg](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/IMG_6240-600x450.jpg)
+![Je suis désormais un cyborg](https://tcrouzet.com/images_tc/2019/08/IMG_6240-600x450.jpg)
 
 ### Mercredi 28 août, Montpellier
 

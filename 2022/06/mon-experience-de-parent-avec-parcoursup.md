@@ -24,7 +24,7 @@ Le plus difficile a été de ne pas dilapider les vœux sur des formations inacc
 
 Par chance, j’ai découvert [un site compagnon de Parcoursup](https://data.enseignementsup-recherche.gouv.fr/pages/parcoursupdata/?disjunctive.fili) qui offre en open data des statistiques précieuses sur les années antérieures. Pour toutes les formations, on peut connaître le nombre de vœux, le nombre de candidats qui ont reçu une offre, le rang du dernier qualifié… On peut aussi découvrir l’origine des bacheliers, série générale, technologique ou professionnelle, ainsi que les mentions au bac. Nous avons vite compris qu’il était inutile de viser trop haut comme trop bas.
 
-![Statistiques UTBM](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/UTBM.png)
+![Statistiques UTBM](https://tcrouzet.com/images_tc/2022/06/UTBM.png)
 
 Nous avons aussi tenté de répartir les vœux en fonction du classement des formations par [le site de l’Étudiant](https://www.letudiant.fr/), optant pour des positions plus ou moins risquées. À ce titre, Parcoursup s’apparente à une place de marché.
 
@@ -46,7 +46,7 @@ Ainsi pour une école d’ingénieur avec prépa intégrée, Tim avait un RG-RG2
 
 Tous les jours, nous avons mesuré la progression des attentes, avec la formule (PA0-PA)/PA0. Nous avons ainsi pu anticiper les formations qui seraient offertes, celles qui nécessiteraient une très longue attente et celles qui jamais ne tomberaient. Les graphiques de l’open data indiquent la vitesse de remplissage des formations et nous ont aidé à prendre notre mal en patience (et nous continuons à patienter même si la situation pour Tim s’est bien décantée).
 
-![Vitesse de remplissage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/UTBM2.png)
+![Vitesse de remplissage](https://tcrouzet.com/images_tc/2022/06/UTBM2.png)
 
 Nous avons observé un phénomène surprenant. Après deux semaines, dans de nombreuses formations PA0-PA est déjà largement supérieur au RG2021 et au RG2020, ce qui implique que ces formations font des offres à des élèves moins bien classés que les deux années antérieures. Est-ce parce que les élèves ont boudé les formations scientifiques choisies par Tim ou, plus généralement, parce qu'il y a moins d'élèves pour autant de places offertes ? Nous n'avons pas la réponse, mais cela donne espoir pour tous les candidats de gratter quelques offres et qui leur auraient échappées en 2020 et 2021.
 
@@ -54,7 +54,7 @@ Bien sûr nous avons commis quelques erreurs. Pour des formations loin de la fam
 
 D’une manière générale, Parcoursup pourrait offrir beaucoup plus d’aide lors de la phase finale. Des graphiques de remplissage pourraient être proposés en temps réel. Les familles y verraient plus clair et pourraient se faire une idée de ce qui se passe en arrière-plan. J’en suis venu à me dire qu’il y avait de la place pour un business : une app payante pourrait rendre Parcoursup plus lisible.
 
-![Graphique maison pour suivre une attente](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/06/UTBM3.png)
+![Graphique maison pour suivre une attente](https://tcrouzet.com/images_tc/2022/06/UTBM3.png)
 
 J’ai beaucoup parlé de rangs, de pourcentages, de classements… une démonstration en quelque sorte de notre entrée dans le monde numérique. Il me semble vain d’en tenir à l’écart le système éducatif. En revanche, numérique ne rime pas avec inhumain. Il reste beaucoup de travail pédagogique à effectuer, beaucoup d’améliorations à apporter à Parcoursup, mais il pourrait au fil des années se substituer au bac dans l’imaginaire collectif.
 

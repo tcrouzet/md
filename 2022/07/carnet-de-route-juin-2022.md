@@ -66,15 +66,15 @@ Se placer à un endroit, le décrire, puis reculer et le décrire de nouveau, pu
 
 Je m’étais juré de ne plus faire du VTT en solo, puis je suis parti explorer, par 38° au soleil. Grand plaisir, paysages sublimes, je rentre vends de dos, fonce dans une chemin à plus de quarante, un léger virage, une ornière énorme se creuse, je ne réussis pas à rester sur la crête et je plonge. Le choc est si violent qu’il me laisse pantois, hurlant, essoufflé, il me faut cinq minutes pour me calmer et réussir à attraper une gourde pour boire. Violente douleur au-dessus de la hanche gauche. Je réussis à me redresser, je m’assois, mange du glucose, au bout de quinze minutes je marche en poussant le vélo, puis je parviens à pédaler jusqu’à ma voiture. Quand j’arrive chez moi, j’ai un hématome aussi gros qu’un ballon de rugby. Mon copain Philippe arrive et me dit qu’il me faut faire un scanner, au cas où j’aurais endommagé mon rein gauche. Deux heures plus tard, je ressors des urgences, endolori de partout, mais rassuré. Philippe me prévient que je vais souffrir.
 
-![Lac de Vailhan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7705.jpeg)
+![Lac de Vailhan](https://tcrouzet.com/images_tc/2022/07/IMG_7705.jpeg)
 
-![Barrage de Vailhan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7706.jpeg)
+![Barrage de Vailhan](https://tcrouzet.com/images_tc/2022/07/IMG_7706.jpeg)
 
-![Vailhan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7710.jpeg)
+![Vailhan](https://tcrouzet.com/images_tc/2022/07/IMG_7710.jpeg)
 
-![Vailhan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7725.jpeg)
+![Vailhan](https://tcrouzet.com/images_tc/2022/07/IMG_7725.jpeg)
 
-![Pic Vissou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IMG_7731.jpeg)
+![Pic Vissou](https://tcrouzet.com/images_tc/2022/07/IMG_7731.jpeg)
 
 ### Samedi 11, Balaruc
 
@@ -212,9 +212,9 @@ Timothée valide définitivement son inscription en prépa à Paris. Fin d'une �
 
 Olivier Auber a merveilleusement, ou plutôt dégueulassement [joué avec une IA graphiste](https://olivierauber.medium.com/intelligence-artificielle-2144d44cdd69), jusqu’au moment où il a été banni de la plateforme, pour ses sous-entendus sexuels. J’ai tenté de convertir quelques textes en images, puis j’ai collé le début de *Quelques atomes de vérités*. Puis j’ai fait d’autres essais, notamment l'un avec des portails de téléportation sur un monde avec deux soleils. Fascinant. Dessiner avec les mots. L’art entame une révolution hallucinante : [la création assistée par la machine](https://discord.com/channels/662267976984297473/989739733993263114).
 
-![IA dessin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IA1.jpeg)
+![IA dessin](https://tcrouzet.com/images_tc/2022/07/IA1.jpeg)
 
-![IA dessin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IA2.jpeg)
+![IA dessin](https://tcrouzet.com/images_tc/2022/07/IA2.jpeg)
 
 
 

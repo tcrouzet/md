@@ -12,7 +12,7 @@ Pourquoi n’en restons-nous pas au minimalisme ? Parce que, quand on n’a pas
 
 Émile et moi construisons la maquette d’une base orbitale à partir de quatre bouteilles de San Pellegrino, d’une bouteille de Gatorade et d’une boîte de riz. Nous sommes heureux du travail accompli.
 
-![Base spatiale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090707-600x450.jpg)
+![Base spatiale](https://tcrouzet.com/images_tc/2019/05/P1090707-600x450.jpg)
 
 ### Vendredi 3, Weston
 
@@ -64,7 +64,7 @@ Belle conversation avec Marie-Anne qui s’occupe de la promotion de [*Mon père
 
 Tous les matins, en rentrant d’accompagner les enfants à l’école, je croise une femme qui court en poussant d’une main une poussette et téléphonant de l’autre. Le contraire de la méditation : se poser et ne rien faire (sans fainéanter). Et pourquoi la méditation est-elle en vogue ? Parce que cette femme résume le mode de vie contemporain. Tu mènes une vie de dingue, puis tu tentes de compenser en t’enfermant dans un ashram.
 
-![Promenade du soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/IMG_4683-600x450.jpg)
+![Promenade du soir](https://tcrouzet.com/images_tc/2019/05/IMG_4683-600x450.jpg)
 
 ### Samedi 11, Weston
 
@@ -134,7 +134,7 @@ Bien sûr des gens cherchent cette boule, dont on retrouve la représentation su
 
 Le garçon ouvrira sa mémoire, entrera en contact avec elle. Il accédera aux histoires de ses prédécesseurs et comprendra que la plupart meurent de façon dramatique et qu'alors la boule se perd, ou s'échappe, pour être découverte par une autre créature. Ce pourrait être l'occasion de raconter une saga cosmique et à la fois intimiste.
 
-![Atlanta](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/IMG_4747-600x450.jpg)
+![Atlanta](https://tcrouzet.com/images_tc/2019/05/IMG_4747-600x450.jpg)
 
 ### Jeudi 23, Weston
 

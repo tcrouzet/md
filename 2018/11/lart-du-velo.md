@@ -24,7 +24,7 @@ Et puis, en août 2018, j’ai déménagé en Floride. Impossible de retrouver m
 
 Ces quatre axes me sont devenus évidents à mon arrivée en Floride. J’ai commencé par y pédaler seul, empruntant les pistes cyclables autour de chez moi. Je ne réussissais qu’à travailler la dimension sportive, et encore sans réussir à me dépasser. Puis j’ai rencontré d’autres cyclistes et j’ai gagné quelques points sur la dimension sociale et aussi esthétique, car j’ai été initié aux [*levees*](https://en.wikipedia.org/wiki/Levee), les digues qui délimitent les Everglades. J’ai même déniché un parc où je pouvais travailler le pilotage. Peu à peu, j’ai découvert que toutes mes sorties pouvaient être situées sur mon graphique à quatre dimensions.
 
-![Les 4 dimensions du vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/4dim.jpg)
+![Les 4 dimensions du vélo](https://tcrouzet.com/images_tc/2018/11/4dim.jpg)
 
 Des sorties purement sportives, avec zéro en pilotage, collectif et esthétique. Des sorties en famille, avec zéro en sportif et pilotage, mais un bon score en collectif et esthétique. Des sorties magiques, avec une note maximale sur tous les axes, lorsque nous explorons en bande de nouveaux territoires. J’ai alors compris que le vélo ne devenait un art qu’à ce moment, quand nous poussons les quatre dimensions vers leur extrême.
 
@@ -48,7 +48,7 @@ Mes nouveaux copains cyclistes m’ont fait découvrir des kilomètres et des ki
 
 J’ai repensé au [*Chant des pistes*](https://www.amazon.fr/chant-pistes-cc-Bruce-Chatwin/dp/2253054771/), le cultissime récit de voyage où Bruce Chatwin nous parle de la façon dont les aborigènes australiens mémorisent des parcours sur leur territoire à l’aide de chansons. Avec les GPS, nous réinventons une tradition millénaire. Il ne s’agit plus de se déplacer pour atteindre un lieu, mais faire du déplacement un art, un art de la boucle, du tissage, de la cartographie. L’œuvre est le chemin que nous pouvons offrir en partage. L’œuvre est la carte. Techniquement, elle prend la forme d’un fichier GPX.
 
-![L'art du GPX](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/loop.jpg)
+![L'art du GPX](https://tcrouzet.com/images_tc/2018/09/loop.jpg)
 
 Depuis, je ne fais plus du vélo seulement pour faire du sport, mais pour parcourir le territoire, pour m’amener à des points de vue, à des pistes agréables, des chemins amusants. Je joue là où d’autres ne cherchent que la performance, s’efforçant d’enchaîner le plus de dénivelés possible en le moins de distance possible, comme pour rentabiliser les sorties et qu’elles s’achèvent le plus vite possible. Quand je les vois répéter jour après jour les mêmes boucles, j’ai l’impression qu’ils ne cessent de lire le même livre.
 

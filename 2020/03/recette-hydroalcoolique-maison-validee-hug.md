@@ -4,7 +4,7 @@ Tout le monde a parlé de [la recette OMS](https://www.who.int/gpsc/5may/tools/s
 
 Mais d'abord, un petit retour en arrière. Du jour au lendemain, fin février 2020, une recette a fait fureur, promue même par des pharmaciens : 50 ml de gel d’aloe vera, 10 ml d’alcool, 10 gouttes d’huile essentielle de ravintsara et autant d’huile essentielle d’Eucalyptus. Tout le monde s’est mis à la reproduire sur les réseaux sociaux, sans chercher à en questionner la validité.
 
-![Une formule inefficace](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/ardoise.jpg)
+![Une formule inefficace](https://tcrouzet.com/images_tc/2020/03/ardoise.jpg)
 
 Le gel d’aloe vera est surtout connu pour ses propriétés hydratantes et apaisantes de la peau. Il peut éventuellement remplacer la glycérine utilisée dans la formule OMS, mais à condition d'en connaître les caractéristiques, comme sa masse volumique pour adapter les formulations. Très bien. Au tour des deux huiles essentielles, de propriété assez proche. Depuis les travaux de Leonid Buchholtz en 1875, [nous savons que certaines de ces huiles, de thym par exemple, sont bactéricides et virucides](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5206475/), mais nous savons aussi que leur pouvoir est des dizaines de fois inférieur à celui de l’alcool et surtout que leur spectre d’action est plus réduit.
 

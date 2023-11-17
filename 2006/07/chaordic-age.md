@@ -16,7 +16,7 @@ Dee Hock insiste sur la nécessité de se fixer des buts. Je me rends compte que
 
 Quel est mon but ? Quel pourrait être le but de tous ceux qui se reconnaissent dans une déclaration d’interdépendance ? Je pourrais dire être heureux, mais c’est un peu vague. Je pourrais dire que notre but est de maintenir le monde dans un état propice à la vie sociale. C’est encore vague. Que notre but est de maximiser la liberté des individus pour qu’ils prennent leur destin en main. Que notre but est de construire un monde où chacun est son propre chef. Que notre but est de vivre dans un monde durable.
 
-![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/feedback.gif)
+![](https://tcrouzet.com/images_tc/feedback.gif)
 
 Je tourne autour de ces idées sans m’arrêter sur une, mais je sens qu’il faut en choisir une et puis agir. Des gens se rassemblent et poursuivent un but en respectant un principe. En cours de route, le principe évolue grâce à une boucle de feedback. Le but et le principe peuvent être proposés par un petit groupe, puis la machine est lancée. C’est ainsi que Dee Hock créa VISA. Je crois que c’est en procédant de la sorte que nous construirons un monde meilleur (encore un but très vague).
 

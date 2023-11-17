@@ -6,7 +6,7 @@ On dit que le meilleur vélo est celui sur lequel on se sent bien. On le trouve 
 
 Ma pratique du bikepacking : je suis fidèle [à l’esprit originel](https://tcrouzet.com/2019/04/01/une-breve-histoire-du-bikepacking/), celui défendu par [Bikepacking.com](https://bikepacking.com/plog/manifesto/) et les premiers bikepackers du début des années 2000. Je cherche à me tenir au plus loin de l’asphalte et à me retrouver dans la nature. Le bikepacking sur route ne m’intéresse pas, mais j’ai appris que presque tout voyage bikepacking implique des sections asphaltées, ne serait-ce que pour relier les zones plus sauvages, ainsi que des sections gravel, les parties purement VTT n’étant pas forcément majoritaires. L’équation n’est pas simple à résoudre : mon vélo doit être VTT et gravel en même temps (les monster cross ont été inventés pour ça en théorie).
 
-![Mon Timberjack](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_5748-1-600x450.jpg)
+![Mon Timberjack](https://tcrouzet.com/images_tc/2019/09/IMG_5748-1-600x450.jpg)
 
 Mon Tilmberjack est un VTT semi-rigide avec un grand triangle de cadre, sur lequel on peut chausser des pneus 29x2.6 tout en conservant de la place pour évacuer la boue. Je n’ai jamais roulé avec un vélo aussi confortable, le confort étant le maître mot du bikepacker (qui comme moi cherche à prendre du plaisir — pas question de passer la nuit à rouler). J’ai effectué quelques modifications, optant pour des roues carbone, un cintre carbone, un tube de selle carbone, une selle Power Arc… ramenant le poids à vide à 12,7 kg.
 

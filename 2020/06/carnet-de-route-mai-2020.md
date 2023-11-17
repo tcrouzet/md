@@ -54,15 +54,15 @@ Hier à vélo, un point de contraction s’est réveillé à ma cuisse gauche, a
 
 L’été nous tombe dessus par surprise. Je me suis baigné pour la première fois cette année. Ce soir, l’étang est sublime, d’une paix incroyable, parce qu’autour aucune voiture ne circule. Voilà peut-être le moment historique de ce confinement, ce calme d’un soir, ce calme d’une vie et qui peut-être ne se répètera jamais.
 
-![Immobile](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0624.jpeg)
+![Immobile](https://tcrouzet.com/images_tc/2020/06/IMG_0624.jpeg)
 
-![Immobile](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0627.jpeg)
+![Immobile](https://tcrouzet.com/images_tc/2020/06/IMG_0627.jpeg)
 
 ### Jeudi 7, Balaruc
 
 Je déteste ces matins où je me lève sans projet d’écriture. Alors la tentation est forte de réagir à l’actualité, mais réagir n’est pas mon art. Je ne me réjouis que dans la construction. Alors, rêver du prochain livre. J’enquête sur mon héroïne, ma source d’inspiration. Trouver quelques faits biographiques à son sujet, me donne l’idée de relire mon projet d’autobiographie minuscule, et je m’amuse à le poursuivre presque furieusement. Je découvre des choses étonnantes, oubliées, comme si j’avais scotomisé une partie de ma vie.
 
-![Rougeurs du soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/P1110086.jpeg)
+![Rougeurs du soir](https://tcrouzet.com/images_tc/2020/06/P1110086.jpeg)
 
 ### Vendredi 8, Balaruc
 
@@ -94,11 +94,11 @@ Parfois la décence exige le silence, mais le silence est en lui-même une épre
 
 ### Dimanche 17, Balaruc
 
-![Le filet](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/P1110092.jpeg)
+![Le filet](https://tcrouzet.com/images_tc/2020/06/P1110092.jpeg)
 
-![Reprise de la pêche](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/P1110094.jpeg)
+![Reprise de la pêche](https://tcrouzet.com/images_tc/2020/06/P1110094.jpeg)
 
-![Les pirates](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/P1110102.jpeg)
+![Les pirates](https://tcrouzet.com/images_tc/2020/06/P1110102.jpeg)
 
 ### Mardi 19, Balaruc
 
@@ -110,19 +110,19 @@ En me cantonnant autour de chez moi, le confinement ne m’a pas laissé voir le
 
 ### Jeudi 21, Balaruc
 
-![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0809.jpeg)
+![Bellevue](https://tcrouzet.com/images_tc/2020/06/IMG_0809.jpeg)
 
 ### Samedi 23, Balaruc
 
-![À  vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0836.jpeg)
+![À  vélo](https://tcrouzet.com/images_tc/2020/06/IMG_0836.jpeg)
 
-![Après le vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0842.jpeg)
+![Après le vélo](https://tcrouzet.com/images_tc/2020/06/IMG_0842.jpeg)
 
-![Après le vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0856.jpeg)
+![Après le vélo](https://tcrouzet.com/images_tc/2020/06/IMG_0856.jpeg)
 
 ### Dimanche 24, Balaruc
 
-![Lumière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0877.jpeg)
+![Lumière](https://tcrouzet.com/images_tc/2020/06/IMG_0877.jpeg)
 
 ### Lundi 25, Balaruc
 
@@ -132,35 +132,35 @@ Magnifique sortie vélo en soirée, avec vu sur les contreforts de la montagne N
 
 Depuis des années, une molaire me fait des misères, mal dévitalisée, elle était siège constant d’une petite infection, à savoir en quoi sa constance a influencé mon mental. Ce matin, un chirurgien dentiste s’est attaqué au problème avec son microscope binoculaire. Il a retrouvé une racine oubliée, a recreuser, colmaté. Tout ça parce qu’un dentiste maladroit et laxiste était passé avant lui. Et 820 € non remboursés à sortir de ma poche. C’était soit ça, soit me faire arracher la dent… Je vis une période d’arrachement.
 
-![Penser au coiffeur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0899-1.jpeg)
+![Penser au coiffeur](https://tcrouzet.com/images_tc/2020/06/IMG_0899-1.jpeg)
 
 ### Vendredi 29, Balaruc
 
-![Col du vent](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0913.jpeg)
+![Col du vent](https://tcrouzet.com/images_tc/2020/06/IMG_0913.jpeg)
 
-![Col du vent](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0914.jpeg)
+![Col du vent](https://tcrouzet.com/images_tc/2020/06/IMG_0914.jpeg)
 
-![Col du vent](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0926.jpeg)
+![Col du vent](https://tcrouzet.com/images_tc/2020/06/IMG_0926.jpeg)
 
-![Col du vent](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0933.jpeg)
+![Col du vent](https://tcrouzet.com/images_tc/2020/06/IMG_0933.jpeg)
 
-![L'Hérault](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0940.jpeg)
+![L'Hérault](https://tcrouzet.com/images_tc/2020/06/IMG_0940.jpeg)
 
 ### Dimanche 31, Balaruc
 
-![L'angle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0957.jpeg)
+![L'angle](https://tcrouzet.com/images_tc/2020/06/IMG_0957.jpeg)
 
-![Les salins](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_0992.jpeg)
+![Les salins](https://tcrouzet.com/images_tc/2020/06/IMG_0992.jpeg)
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_1011.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2020/06/IMG_1011.jpeg)
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_1021.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2020/06/IMG_1021.jpeg)
 
-![La digue à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_1038.jpeg)
+![La digue à vélo](https://tcrouzet.com/images_tc/2020/06/IMG_1038.jpeg)
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_1094.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2020/06/IMG_1094.jpeg)
 
-![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/06/IMG_1096.jpeg)
+![L'étang](https://tcrouzet.com/images_tc/2020/06/IMG_1096.jpeg)
 
 
 

@@ -4,7 +4,7 @@ Les artistes sont des éponges émotionnelles. Ils se gorgent des particularité
 
 La route, longue, droite, noire, avec une ligne jaune pointillée au milieu et deux lignes continues de part et d’autre symbolise l’horizon imaginaire, tourné vers l’ouest, vers les territoires encore à industrialiser, tout comme elle symbolise la ligne de coke et l’évasion stupéfiante. Sur la route, on voyage à bord de voitures bruyantes, rutilantes, puissantes. Elles remplacent les chevaux, les charrettes, les bateaux qui jusque-là ont participé à la conquête du monde. Alors de nouvelles histoires émergent, qualifiées de « road », et on obtient des « road books », puis des « road movies ».
 
-![On the Road](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/ontheroad.jpg)
+![On the Road](https://tcrouzet.com/images_tc/2022/12/ontheroad.jpg)
 
 Longtemps la liberté des héros comme Dean Moriarty alias Neal Cassady nous ont inspirés, puis mis en mouvement, souvent avec frustration, car les solutions trouvées par eux ne pouvaient plus convenir à notre temps. J’ai eu la sensation d’avancer à contre sens sur la route, d’y aller à reculon, d’en éprouver de la frustration et des bouffées d’impuissance. J’admirais Kerouac, mais ses évasions ne me convenaient pas, je devais en inventer d’autres sans savoir lesquelles.
 
@@ -24,7 +24,7 @@ Les lignes asphaltées de Kerouac ou les lignes cyber de Gibson se superposent �
 
 Reste à les qualifier par leur substrat. Quand les voitures quittent l’asphalte, elles empruntent des doubletracks, du nom des deux bandes de terre tannée par les quatre roues, avec entre elles une bande de verdure échevelée. En français, on parle de piste ou de chemin. Ils restent ouverts aux voitures, et donc ne sont pas encore assez surprenants pour ouvrir des perspectives déroutantes. Il faut attendre qu’ils se rétrécissent, puis ne deviennent qu’une ligne sinueuse pour que les vélos modernes puissent continuer seuls dans le silence et le respect de l’environnement (ce qui devrait dissuader les motos de les suivre — parce qu’elles sont loin de l’optimum énergétique que nécessite l’époque et parce qu’elles défoncent les sols et la végétation).
 
-![Cingle de Trémolat ](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/dordogne.jpg)
+![Cingle de Trémolat ](https://tcrouzet.com/images_tc/2022/12/dordogne.jpg)
 
 On roule alors sur des singletracks, des monotraces, des sentiers. En jargon cycliste, on parle de single, mot anglo-saxon qui évoque le « cingle » périgourdin, nom d’une couleuvre vert et jaune aussi utilisé pour désigner [les méandres et sinuosités de la Dordogne](https://atlas-paysages.dordogne.fr/spip.php?article107). Les singles sont nos nouvelles lignes de progression. Elles nous ramènent vers la terre sans pour autant nous faire tourner le dos à la technologie et à la globalité du monde. Un nouveau genre est peut-être en train d’émerger, le single book (livre sentier), mais aussi le single movie, tant les créateurs ont le désir de raconter des expériences neuves avec des mots et des images.
 

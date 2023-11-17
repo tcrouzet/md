@@ -14,7 +14,7 @@ Mon beau-père est mort, mais j’ai du mal à y croire. Il me faudra être chez
 
 Pour un mort, on ne peut que deux choses, se souvenir, et poursuivre son œuvre, si tout au moins on y accorde une importance. Pour mon beau-père, ce sera entretenir la maison du Lot-et-Garonne où il a toujours été heureux. Les prières, les invocations, toutes les bondieuseries ne sont que du temps perdu, je veux dire du temps perdu pour le mort.
 
-![Averse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9469.jpeg)
+![Averse](https://tcrouzet.com/images_tc/2022/11/IMG_9469.jpeg)
 
 ### Lundi 3, Paris
 
@@ -36,11 +36,11 @@ Obsèques de mon beau-père sous le signe de la joie. Le prêtre en blanc, presq
 
 Rire après les obsèques. [Un article explique](https://www.wellandgood.com/resveratrol-benefits/) que le [resvératrol](https://fr.wikipedia.org/wiki/Resv%C3%A9ratrol) est un puissant antioxydant, voilà pourquoi à petite dose le vin rouge pourrait avoir un effet bénéfique sur la santé, sauf que les vignerons ne disent pas qu’il y a beaucoup plus de resvératrol dans les raisins, les cacahuètes, les baies et même le chocolat.
 
-![Nancy](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9476.jpeg)
+![Nancy](https://tcrouzet.com/images_tc/2022/11/IMG_9476.jpeg)
 
 ### Jeudi 6, Balaruc
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9529.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/11/IMG_9529.jpeg)
 
 ### Vendredi 7, Balaruc
 
@@ -94,7 +94,7 @@ Ernaux se sent moins libre dans son journal intime parce que le temps y impose u
 
 ### Mardi 11, Balaruc
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9550.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2022/11/IMG_9550.jpeg)
 
 ### Mercredi 12, Balaruc
 
@@ -104,7 +104,7 @@ J’ai commencé un Modiano de 2017, *Souvenirs dormants*, qui joue la partition
 
 Ma médecin m’a donné un médicament qui me ramollit. Si je continue de le prendre, je ne guérirai jamais. Je vais me donner un coup de pied au cul en faisant un petit tour de vélo.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9559.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/11/IMG_9559.jpeg)
 
 ### Jeudi 13, Balaruc
 
@@ -120,17 +120,17 @@ J’écoute [François parler des manuscrits](https://www.youtube.com/watch?v=EN
 
 J’ai parlé de tout cela dans *Le Peuple des connecteurs*, puis j’ai sauté dans l’autre monde pour constater avec stupeur que les transitionneurs étaient peu nombreux. Maintenant, nous n’avons pas le choix, et malgré tout ça freine. Même dans le vélo, même là les gens restent crispés sur des modalités dépassées. Le vélo peut devenir bien plus que du vélo. On me reproche de tout compliquer, mais ce n’est pas moi qui ai fait passer le monde du modèle cartésien au modèle holistique. Nous sommes entrés dans l’ère de la complexité. Latour en parle merveilleusement bien.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9577.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2022/11/IMG_9577.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9601.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/11/IMG_9601.jpeg)
 
 ### Vendredi 14, Balaruc
 
-![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9603.jpeg)
+![Matin](https://tcrouzet.com/images_tc/2022/11/IMG_9603.jpeg)
 
-![Vic-la-Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9609.jpeg)
+![Vic-la-Gardiole](https://tcrouzet.com/images_tc/2022/11/IMG_9609.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9619.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/11/IMG_9619.jpeg)
 
 ### Mardi 18, Balaruc
 
@@ -148,7 +148,7 @@ Dès que je me demande pourquoi je fais quelque chose, ou si je devrais faire au
 
 ### Samedi 22, Balaruc
 
-![Cap d'Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9644.jpeg)
+![Cap d'Agde](https://tcrouzet.com/images_tc/2022/11/IMG_9644.jpeg)
 
 ### Dimanche 23, Balaruc
 
@@ -164,13 +164,13 @@ Reste que quand on tient un journal sur plusieurs décennies, quatre déjà pour
 
 Bleuffé par [un service de colorisation automatique d’anciennes photos](https://palette.fm/). Je revois mon père au bord de l’étang quand j’avais huit ans, comme dans mon souvenir. Et moi même je reprends des couleurs.
 
-![Colorisation](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/dadc.jpg)
+![Colorisation](https://tcrouzet.com/images_tc/2022/11/dadc.jpg)
 
-![8 ans en couleurs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/moi.jpg)
+![8 ans en couleurs](https://tcrouzet.com/images_tc/2022/11/moi.jpg)
 
 ### Lundi 24, Balaruc
 
-![Mèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9674.jpeg)
+![Mèze](https://tcrouzet.com/images_tc/2022/11/IMG_9674.jpeg)
 
 ### Mardi 25, Balaruc
 
@@ -242,7 +242,7 @@ Latour : « Nous découvrons plus ou moins obscurément que nous sommes tous e
 
 ### Samedi 29, Balaruc
 
-![Montagnac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9710.jpeg)
+![Montagnac](https://tcrouzet.com/images_tc/2022/11/IMG_9710.jpeg)
 
 ### Lundi 31, Paris
 
@@ -258,11 +258,11 @@ Je remonte à contresens le flot des joggers du jardin du Luxembourg, à me dire
 
 Ce n’est qu’une fois attaché à un sol qu’on peut commencer à l’aimer. On ne devient écologiste qu’une fois connecté à la terre. Alors on peut envisager d’embrasser le monde, parce que ce qui est compris chez soi peut être généralisé. L’écologie hors sol, théorique, est une chimère politique. Latour reste un écologiste de la ville, jamais il ne laisse entrevoir une familiarité avec la terre.
 
-![Luxembourg](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9726.jpeg)
+![Luxembourg](https://tcrouzet.com/images_tc/2022/11/IMG_9726.jpeg)
 
-![Luxembourg](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9730.jpeg)
+![Luxembourg](https://tcrouzet.com/images_tc/2022/11/IMG_9730.jpeg)
 
-![Luxembourg](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/11/IMG_9732.jpeg)
+![Luxembourg](https://tcrouzet.com/images_tc/2022/11/IMG_9732.jpeg)
 
 ### Lundi 31, Nantes
 

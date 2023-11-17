@@ -4,7 +4,7 @@ La possibilité d’un monde d’après différent du monde d’avant est à l�
 
 Si un laboratoire trouve un vaccin contre le Convid-19 et le brevette pour faire le jackpot, rien n’aura changé. Certains croient que le capitalisme est en crise en ce moment. En vérité, il est en train d’être nettoyé de ses cancrelats. Regardez le cours des actions des GAFAM. Par exemple, Microsoft est presque à son plus haut historique, sans même parler d’Amazon. La crise n’est pas pour tout le monde. S’il doit y avoir un changement, il viendra de la politique, non pas du capitalisme.
 
-![Action Microsoft](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/microsoft.png)
+![Action Microsoft](https://tcrouzet.com/images_tc/2020/04/microsoft.png)
 
 Un vaccin non breveté, en open source, versé sur le compte des biens communs est-ce un fantasme ? Non, puisque nous avons au moins un précédent. Extrait de *Adapter pour adopter*, le livre sur lequel je travaille :
 

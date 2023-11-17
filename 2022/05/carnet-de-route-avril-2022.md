@@ -6,7 +6,7 @@
 
 [Retour de cinq jours de bikepacking dans des conditions mémorables.](https://tcrouzet.com/2022/04/07/bikepacking-tempetueux-dans-lherault/) Nous avons connu la tempête de tramontane, la neige, le froid, puis la douceur lumineuse. Inoubliable.
 
-![Cerisiers](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_6948.jpeg)
+![Cerisiers](https://tcrouzet.com/images_tc/2022/05/IMG_6948.jpeg)
 
 ### Mercredi 6, Balaruc
 
@@ -38,7 +38,7 @@ Campbell : « The ancient myths were designed to harmonize the mind and the bo
 
 Selon Campbell, en Inde, une tenue correspond à chaque âge de la vie. Est-ce que je ne me coupe plus les cheveux pour marquer cette transition vers un âge de plus d’équilibre et de sérénité ?
 
-![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_6992.jpeg)
+![Marseillan](https://tcrouzet.com/images_tc/2022/05/IMG_6992.jpeg)
 
 ### Lundi 11, Balaruc
 
@@ -64,9 +64,9 @@ Le système sélectif imposé aux élèves de terminale est effrayant de sérieu
 
 Journée brûlante, coucher de soleil enflammé, j’écris, je piétine, je recommence.
 
-![Régates](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7047.jpeg)
+![Régates](https://tcrouzet.com/images_tc/2022/05/IMG_7047.jpeg)
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7054.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2022/05/IMG_7054.jpeg)
 
 ### Dimanche 17, Balaruc
 
@@ -74,7 +74,7 @@ Je pédale jusqu’après Fontvieille où je retrouve la famille : longue remon
 
 Quand je pédale longtemps, seul, sans difficulté, mes pensées passent sans s’accrocher, au plus près que possible d’un état méditatif. Je suis conscient, vigilant, en même temps absent, livré aux perceptions du corps, du monde, aux couleurs et aux odeurs, et mes muscles obéissent avec méthode à des consignes silencieuses. J’aime cette traversée des apparences, malgré l’urgence qui s’impose à moi par moment et m’empêche de prendre tout le temps que je voudrais, parce que je me fixe des objectifs, cette fois d’arriver avant treize heures pour le déjeuner.
 
-![Vers Arles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7060.jpeg)
+![Vers Arles](https://tcrouzet.com/images_tc/2022/05/IMG_7060.jpeg)
 
 ### Lundi 18, Balaruc
 
@@ -96,7 +96,7 @@ Alors suis-je un écrivain de l’avenir ou un écrivain abâtardi, une chimère
 
 J’entends répéter « entre la peste et le choléra, je ne choisis pas ». Je ne crois pas cette rengaine adaptée à la situation française du moment. Je dirais plutôt « Entre le cancer et la grippe, je choisis la grippe. » D’un côté une maladie souvent mortelle, de l’autre une maladie dont on se protège en se vaccinant.
 
-![Printemps](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7069.jpeg)
+![Printemps](https://tcrouzet.com/images_tc/2022/05/IMG_7069.jpeg)
 
 ### Mercredi 20, Balaruc
 
@@ -122,15 +122,15 @@ Un copain me signale un livre sur les non-consommateurs et je note tout de suite
 
 J’ai esquissé un texte pour… non je ne peux pas l’avouer, surtout en ce moment, déjà que j’ai perdu tant d’amis à cause de leur fuite vers l’Absurdistant idéologique.
 
-![Cabane en pierre sèche](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7090.jpeg)
+![Cabane en pierre sèche](https://tcrouzet.com/images_tc/2022/05/IMG_7090.jpeg)
 
-![Le Moulin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7093.jpeg)
+![Le Moulin](https://tcrouzet.com/images_tc/2022/05/IMG_7093.jpeg)
 
 ### Samedi 23, Balaruc
 
 Mon roman ne m’obsède pas comme il le devrait. Il ne me réveille pas la nuit, ni ne s’impose quand je pédale, et peu souvent sous la douche, pourtant un endroit pour moi propice au jaillissement des idées. J’y travaille tous les jours, de longues heures, puis plus rien jusqu’au lendemain, comme si ma vie littéraire se séparait de mon autre vie. Est-ce parce que les séances de travail tarissent ma source créative ? Je devine une inconsistance, un moment où la narration m’a échappé, et je vais devoir tout relire pour chercher cette fissure dans le mur.
 
-![Orage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7097.jpeg)
+![Orage](https://tcrouzet.com/images_tc/2022/05/IMG_7097.jpeg)
 
 ### Dimanche 24, Balaruc
 
@@ -160,7 +160,7 @@ Quand je lis, j’ai rarement besoin d’aller au bout des textes pour m’en im
 
 Un ami m'envoie une photo du village datant du début des années 1960, avant ma naissance, et il me prend l'envie de collectionner ces photos anciennes pour écrire à partir d'elles.
 
-![Mèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7108.jpeg)
+![Mèze](https://tcrouzet.com/images_tc/2022/05/IMG_7108.jpeg)
 
 ### Mardi 26, Balaruc
 
@@ -226,11 +226,11 @@ Peut-être que le journal est vrai parce qu’il n’implique jamais de tirer à
 
 À partir du chapitre neuf, tout par de travers dans mon roman. Grosse séance de marteau piqueur et de tractopelle. Encore beaucoup de travail. J’ignore quand j’aurais un premier jet satisfaisant. C’est comme si j’avais bien avancé dans la résolution de l’équation, puis que soudain je ne voyais plus comment poursuivre.
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7112.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2022/05/IMG_7112.jpeg)
 
-![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7120.jpeg)
+![Maguelone](https://tcrouzet.com/images_tc/2022/05/IMG_7120.jpeg)
 
-![La Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7122.jpeg)
+![La Gardiole](https://tcrouzet.com/images_tc/2022/05/IMG_7122.jpeg)
 
 ### Samedi 30, Balaruc
 
@@ -252,7 +252,7 @@ Texte coupé de mon roman, qui n’a rien à y faire, surtout à l’endroit où
 
 Des copains s’engagent sur diverses courses d’endurance qui exigent de transporter un traqueur, de façon que l’organisation puisse vérifier qu’ils suivent le parcours et ne trichent pas, et qu’aussi les spectateurs suivent l’aventure à distance. Mais en fin de compte, on reste dans la mise en scène de soi, dans la médiatisation de la vie, dans le récit plus que dans le faire, mais un récit qui a perdu tout sens du romanesque. Dans *J’ai débranché*, je commence par une histoire de tracking avortée, quand j’ai noyé mon téléphone alors que je comptais documenter une randonnée en kayak. J’étais devenu si accro à mon existence sociale que j’avais fini par oublier de me recentrer sur moi. Nous sommes déjà assez traqués contre notre volonté pour en prime alimenter la machine et surtout en pousser d’autres à vouloir se publiciser davantage, quitte à prendre toutes sortes de risques physiques et sociaux. Cette surenchère rend la vie « normale » insipide. « Lui, il s’éclate pendant que moi je lis un bouquin dans mon canapé. Putain, je gâche ma vie. » Voilà en substance le message. Je ne peux pas approuver.
 
-![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7131.jpeg)
+![Sète](https://tcrouzet.com/images_tc/2022/05/IMG_7131.jpeg)
 
 
 

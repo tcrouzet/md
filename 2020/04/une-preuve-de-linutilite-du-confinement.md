@@ -8,13 +8,13 @@ J’ai choisi ces pays parce que certains sont nos voisins, parce que les US ont
 
 ### Morts/pop - linéaire
 
-![Linéaire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/pop1.png)
+![Linéaire](https://tcrouzet.com/images_tc/2020/04/pop1.png)
 
 On voit tout de suite les trois mauvais élèves : Espagne, Belgique, UK… Leurs courbes coupent et dépassent celles des pays entrés en crise avant eux. Quand on se contente de ce graphique, on en conclut que la Belgique est l'âne de la classe et l'Allemagne, comme d'habitude, la meilleure élève.
 
 ### Morts/pop - logarithmique
 
-![Echelle logarithmique](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/pop2.png)
+![Echelle logarithmique](https://tcrouzet.com/images_tc/2020/04/pop2.png)
 
 Passer à une échelle logarithmique permet de niveler les écarts de mortalité et de mieux comparer les courbes, donc les évolutions, ce qui nous intéresse plus que les chiffres dans l'absolu. Ce changement de perspective révèle que plus la pandémie commence tard dans un pays, moins il décompte de morts (seuls les mauvais élèves contredisent cette observation).
 
@@ -28,7 +28,7 @@ Il « semblerait » donc que le point de départ des courbes détermine leur �
 
 ### Synchronisation - logarithmique
 
-![Synchronisation](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/pop3.png)
+![Synchronisation](https://tcrouzet.com/images_tc/2020/04/pop3.png)
 
 Pour essayer de mieux comprendre ce phénomène, j’ai fait glisser les différentes courbes pour qu’elles coupent toutes en même temps la ligne des 10 morts/100 000 habitants.
 
@@ -38,7 +38,7 @@ Mais une chose est assez étonnante : les courbes suisse (confinement doux), US
 
 ### Synchronisation - linéaire
 
-![Synchronisation linéaire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/pop4.png)
+![Synchronisation linéaire](https://tcrouzet.com/images_tc/2020/04/pop4.png)
 
 L’observation précédente est plus criante sur une échelle linéaire. Italie, France, UK sont sur le même bateau, tout comme Suède, US et Suisse.
 

@@ -14,7 +14,7 @@ Seul problème, je ne roule pas aussi fort que lui. J’ai donc pensé à triche
 
 Par le plus grand des hasards, j’ai découvert comment m’emparer de n’importe quel KOM, même celui de l’ascension du Ventoux ou de l’Alpe d’Huez. Vous savez peut-être que je trace [un grand tour de l’Hérault en bikepacking (GTH)](https://tcrouzet.com/gth/). Quand j’aboutis à une nouvelle version, je génère la trace GPX et la saisis dans divers sites pour obtenir des statistiques, notamment son profil.
 
-![Profil GTH](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/veloviewer.jpg)
+![Profil GTH](https://tcrouzet.com/images_tc/2020/01/veloviewer.jpg)
 
 J’ai alors découvert le superbe [VeloViewer](https://veloviewer.com/) qui, connecté à Strava, représente les sorties en 3D. J’ai remarqué qu’en version gratuite on ne pouvait pas accéder aux sorties les plus récentes, mais en revanche à tous les itinéraires Strava. J’ai donc décidé d’en créer un pour le GTH. Si on n’est pas un abonné premium de Strava, la procédure n’est pas directe, il faut convertir une sortie en itinéraire. J’ai utilisé la fonction télécharger une activité à partir d’un GPX, sauf que pour qu’elle fonctionne, le GPX doit être horodaté. Pas de problème, de nombreux services effectuent ce travail. [Il suffit de leur indiquer la vitesse moyenne désirée.](https://gotoes.org/strava/Add_Timestamps_To_GPX.php) J’ai fait tout cela avec le GTH et quand j’ai importé le GPX dans Strava, j’ai constaté que j’avais empoché des centaines de KOM. Je me suis empressé de créer mon itinéraire, puis de détruire la sortie, mais au passage j’ai découvert comment battre un KOM quelconque : créer une fausse activité sur ce segment.
 

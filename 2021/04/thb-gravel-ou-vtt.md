@@ -10,7 +10,7 @@ Par ailleurs, j'ai conçu la trace pour découvrir les plus beaux endroits autou
 
 ### Patrick Lamarre
 
-![Patrick](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/IMG_8822.jpeg)
+![Patrick](https://tcrouzet.com/images_tc/2021/04/IMG_8822.jpeg)
 
 Il s’est engagé avec son fat bike Salsa, tout carbone, le même avec lequel il a bouclé en douze jours la French Divide 2020, à cela prêt qu’il était chargé de sacoches avec caméras et drone.
 
@@ -18,13 +18,13 @@ Ses pneus de 4 pouces lui ont permis de passer partout, même si le gros bébé 
 
 ### Clément Gajewski
 
-![Clément](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.48.03-2.jpeg)
+![Clément](https://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.48.03-2.jpeg)
 
 Il roulait avec un gravel Ribble CGR Alu, pneus WTB Venture 47 mm, plateau 34, cassette 11-42, un développement pas adapté aux rudes montées qui nous attendaient. Nous autres étions pour la plupart en 32 devant, 10-50 derrière, des développements VTT classiques et même ainsi nous avons souvent mis pied à terre dans les pourcentages les plus forts. Malheureusement, Clément a abandonné le tour trop vite pour en démontrer la faisabilité avec sa bécane. « Lorsque je retenterai, j'irai piano piano. Sûrement avec une monture qui accepte du 2,1 et une cassette en 11-46, voire 11-50. »
 
 ### Félix Ruiz
 
-![Félix](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.47.39-1.jpeg)
+![Félix](https://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.47.39-1.jpeg)
 
 Mais le défi a été relevé par Félix et son gravel équipé de pneus Hutchinson Touareg de 45 mm. Il nous a impressionnés par son adresse et sa capacité à suivre les VTT. Cela signifie qu’un pilote ultraconfirmé peut amener un gravel sur ce tour. Mais ne vous y trompez pas, ça ne sera pas toujours de la rigolade (même pour les VTT, c'était parfois coton).
 
@@ -32,31 +32,31 @@ Mais le défi a été relevé par Félix et son gravel équipé de pneus Hutchin
 
 ### Jacques Cartron
 
-![Jacques](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.47.32-1.jpeg)
+![Jacques](https://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.47.32-1.jpeg)
 
 Il roulait avec un Trek 920, plutôt un monster cross qu'un gravel, avec un double plateau 26-36, une cassette 11-36, chaussé à l'avant d'un Mavic Pulse Pro 2,10, à l’arrière d'un Maxxis Crossmark 2,25. « Je souhaite passer en semi-rigide à cause d'une hernie cervicale récalcitrante. Autrement, je n'ai pas eu d'autre souci physique sur ces quatre jours. »
 
 ### Bertrand Fraisse
 
-![Bertrand](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.46.27-1.jpeg)
+![Bertrand](https://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.46.27-1.jpeg)
 
 Il était le seul avec un tout suspendu, cadre Leon titane, pneus de 2,25 pouces. « Pour le prochain voyage, j’achèterai de bonnes sacoches, j’allégerai mon contenu général et je l'organiserai de manière minutieuse. Pas de changement vélo, c'était top en tout suspendu avec la possibilité de le bloquer sur les parties roulantes. Je prendrai de quoi l’entretenir (au même titre que mes fesses). »
 
 ### Julien Spira
 
-![Julien](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.47.48-1.jpeg)
+![Julien](https://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.47.48-1.jpeg)
 
 Il roulait avec un semi-rigide carbone. « Perso je reste avec les pneus en 2,3 pour le confort, avec le semi-rigide, ce que je changerai bientôt c'est le duvet, je me suis vraiment caillé la dernière nuit. »
 
 ### Artur Rainho
 
-![Artur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.48.22-1.jpeg)
+![Artur](https://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.48.22-1.jpeg)
 
 Il roulait avec son semi-rigide titane, le même avec lequel il a bouclé une French Divide. « J’ai le projet de passer en 12 vitesses monoplateau pour la simplicité d’utilisation et pour gagner du poids. Mon groupe XTR double plateau fonctionne à merveille, mais la cassette en 11-40, même avec un petit plateau en 24, offre un développement parfois un peu juste sur des montées techniques à forte pente. Au rayon bagagerie, j’aimerais alléger l’avant en remplaçant la sacoche de guidon Vaude Trailfront (700 g) par une plus simple et légère. Une seconde lampe pour le casque ne serait pas du luxe (celle du guidon m’a lâché dans une montée de nuit). Enfin, sur la liste, un appareil photo de poche pour ramener des images correctes. »
 
 ### Thierry Crouzet
 
-![Thierry](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.47.56-1.jpeg)
+![Thierry](https://tcrouzet.com/images_tc/2021/04/WhatsApp-Image-2021-04-08-at-12.47.56-1.jpeg)
 
 Après avoir voyagé avec un semi-rigide en aluminium, puis un tout rigide en carbone, puis un tout suspendu carbone, je suis revenu au semi-rigide carbone, pour moi le vélo de voyage idéal, à la fois léger et maniable dans les chemins techniques, avec de la place pour un sac de cadre de belle taille. La fourche de 100 mm compense la rudesse du carbone tout en offrant un confort incomparable en descente.
 

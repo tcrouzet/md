@@ -26,11 +26,11 @@ Quelques remarques sur [mon tableau](https://docs.google.com/spreadsheets/d/1PqM
 
 Je ne suis pas très à l’aise d’avoir entamé cette réflexion. Des gens me posent sans cesse des questions au sujet du tableau, me demandent de l’améliorer, de le compléter. Je n’en ai plus envie, pas plus que de continuer à le commenter. J’espère que je pourrais rire de mes erreurs à la fin de la crise. Je n’espère que même mes estimations optimistes seront pessimistes.
 
-![Projection nombre de cas réels](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/coub2.png)
+![Projection nombre de cas réels](https://tcrouzet.com/images_tc/2020/03/coub2.png)
 
-![Projection nombre de mort](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/coub1.png)
+![Projection nombre de mort](https://tcrouzet.com/images_tc/2020/03/coub1.png)
 
-![Total morts projeté](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/coub3.png)
+![Total morts projeté](https://tcrouzet.com/images_tc/2020/03/coub3.png)
 
 [Liens vers le tableau… je le mets à jour tous les soir.](https://docs.google.com/spreadsheets/d/1PqMVPU0VYcDWrUnDh1CsGYr_A7Zk3iZco77X-vToS9Q/edit?usp=sharing)
 

@@ -2,7 +2,7 @@
 
 Par le plus grand des hasards, alors que la crise coronavirus fait rage, je suis en train d’écrire la suite du [*Geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/), mon livre qui raconte l’histoire du gel hydro-alcoolique et comment l’utiliser. C’est un travail prévu depuis longtemps, longtemps reporté, et auquel je me suis finalement mis depuis le début de l’année. Je ne suis d'autant moins en train de surfer sur la vague que ce livre ne sera publié qu'en 2021 (je n'ai même pas encore négocié avec un éditeur, c'est pour dire).<span id="more-53522"></span>
 
-![Traductions](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/planche.jpg)
+![Traductions](https://tcrouzet.com/images_tc/2019/01/planche.jpg)
 
 La pandémie donne un arrière-plan inattendu à mon travail, d’autant qu’il y a désormais pénurie de gel, que les prix flambent sur eBay et qu’on n’a jamais autant parlé du gel, souvent pour dire tout et n’importe quoi, aussi des choses drôles, genre « échange un litre de gel contre Ferrari », blagues drôles pour moi, car, quand j’écrivais mon premier livre en 2013, de telles vannes étaient inimaginables, même si l’épidémie H1N1 avait déjà popularisé le gel (on devrait dire les gels, car il y a autant de versions que de laboratoires). J’ai surtout beaucoup ri devant la vidéo italienne qui montre des mafieux préférer le gel à la cocaïne, le présentant comme une marchandise bien plus lucrative.
 
@@ -14,13 +14,13 @@ Didier a cherché une solution et il a tout de suite pensé à l’alcool, un pr
 
 Didier commence alors sa croisade mondiale pour la promotion de l’hygiène des mains, notamment en collaboration avec l’OMS. En 2005, lors d’une visite au Kenya, il découvre que les gels y coûtent cinq fois plus cher qu’en Europe. Ça le rend dingue. Il décide de mettre au point une formule open source, la moins chère possible à produire, formule depuis diffusée par l’OMS et qui depuis 2015 fait partie de la liste des médicaments essentiels de l’OMS, en faisant un droit de tous les patients.
 
-![Comment se frictionner les mains](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/friction.jpg)
+![Comment se frictionner les mains](https://tcrouzet.com/images_tc/2020/03/friction.jpg)
 
 J’ai écrit le [*Geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/) pour célébrer Didier, surtout pour célébrer son don. Il n’a pas déposé de brevet, pour sa formule pas plus que pour son protocole d’usage. Comment se frictionner les mains, quand le faire (les cinq moments de l’hygiène des mains), comment faire en sorte que les soignants passent de l’eau et du savon au gel (l’approche multimodale). Et comme Didier avait donné à l’humanité sa découverte, j’ai distribué mon livre en open source. [On peut le télécharger gratuitement dans une vingtaine de langues.](https://tcrouzet.com/le-geste-qui-sauve/downloads/)
 
 Voilà pour la mise au point historique. L’OMS n’a donc pas soudainement diffusé une alternative au gel comme le sous-entend *Capital*. Cette formule a été pensée pour les pays les plus pauvres, elle sert aussi de base de travail pour tous les laboratoires. Cette formule, ou plutôt ces deux formules, l’une à base d’alcool éthylique, l’autre d’alcool isopropylique, sont en quelque sorte des formules minimales.
 
-![Formules OMS](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/foms.jpg)
+![Formules OMS](https://tcrouzet.com/images_tc/2020/03/foms.jpg)
 
 Dans ces formules, et dans toutes celles du commerce, l’agent actif est l’alcool. Il faut entre 70 et 80 % d’alcool pour que la solution soit efficace. Donc si on prend 80 cl d’alcool éthylique à 96 %, lui ajoute 20 cl d’eau distillés, on obtient une solution hydro-alcoolique parfaitement efficace. Pas besoin de se compliquer la vie comme on peut le lire partout.
 
@@ -38,7 +38,7 @@ Dernière remarque : Didier n'a jamais démontré que l'usage du gel hors des h
 
 [Pour tous savoir sur l'hygiène des mains, consultez la plateforme farmed…](https://pharmed.datapharma.ch/courses/hygiene-des-mains/)
 
-![Quand se laver les mains](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/5moments.jpg)
+![Quand se laver les mains](https://tcrouzet.com/images_tc/2020/03/5moments.jpg)
 
 
 

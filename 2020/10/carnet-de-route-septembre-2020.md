@@ -22,35 +22,35 @@ Depuis leur dépars, je travaille, déchiré par des douleurs intercostales, non
 
 L'équipe de Candice Renoir vient en repérage. Ils veulent simuler une inondation du garage. Un des décorateurs arrive avec la barque de mon père que je lui ai donnée parce qu'elle pourrissait dans le jardin. Il lui a redonnée vie.
 
-![Christiane : la barque](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_2951.jpeg)
+![Christiane : la barque](https://tcrouzet.com/images_tc/2020/10/IMG_2951.jpeg)
 
 ### Lundi 7, Balaruc
 
-![Fin de journée à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_2997.jpeg)
+![Fin de journée à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_2997.jpeg)
 
-![Fin de journée à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_2999.jpeg)
+![Fin de journée à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_2999.jpeg)
 
-![Fin de journée à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3017.jpeg)
+![Fin de journée à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_3017.jpeg)
 
-![De retour à la maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3029.jpeg)
+![De retour à la maison](https://tcrouzet.com/images_tc/2020/10/IMG_3029.jpeg)
 
 ### Mardi 8, Balaruc
 
 Le gros œuvre est terminé dans le jardin. Journée passée à approvisionner. J'ai transporté plusieurs tonnes de dalles en ciment.
 
-![Le chantier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3039.jpeg)
+![Le chantier](https://tcrouzet.com/images_tc/2020/10/IMG_3039.jpeg)
 
 ### Jeudi 10, septembre
 
 La terre arrive, cent tonnes, je termine de la déplacer à la pèle et au râteau parce que bob 4 ne peut pas aller partout.
 
-![Terrassement](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3126.jpeg)
+![Terrassement](https://tcrouzet.com/images_tc/2020/10/IMG_3126.jpeg)
 
 ### Vendredi 11, septembre
 
 Je travaille dans le jardin jusqu'à la nuit.
 
-![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3174.jpeg)
+![Soir](https://tcrouzet.com/images_tc/2020/10/IMG_3174.jpeg)
 
 ### Samedi 12, Balaruc
 
@@ -62,19 +62,19 @@ Pas davantage le temps de penser, sinon à des statistiques sur le covid, qui en
 
 ### Mardi 15, Avène
 
-![Le Larzac, là-bas](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3206-1.jpeg)
+![Le Larzac, là-bas](https://tcrouzet.com/images_tc/2020/10/IMG_3206-1.jpeg)
 
-![Avène à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3219-1.jpeg)
+![Avène à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_3219-1.jpeg)
 
-![Avène à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3223-1.jpeg)
+![Avène à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_3223-1.jpeg)
 
-![Avène à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3225-1.jpeg)
+![Avène à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_3225-1.jpeg)
 
-![Avène](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3227.jpeg)
+![Avène](https://tcrouzet.com/images_tc/2020/10/IMG_3227.jpeg)
 
 ### Vendredi 18, Villepassans
 
-![Frontière Aude-Hérault à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3260.jpeg)
+![Frontière Aude-Hérault à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_3260.jpeg)
 
 ### Samedi 19, Balaruc
 
@@ -96,15 +96,15 @@ Ma mère m’apprend qu’un de mes très bons copains d’enfance est mort depu
 
 ### Mardi 22, Balaruc
 
-![Pluie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3351.jpeg)
+![Pluie](https://tcrouzet.com/images_tc/2020/10/IMG_3351.jpeg)
 
 ### Mercredi 23, Balaruc
 
-![Brume](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3356.jpeg)
+![Brume](https://tcrouzet.com/images_tc/2020/10/IMG_3356.jpeg)
 
-![Brume](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3359.jpeg)
+![Brume](https://tcrouzet.com/images_tc/2020/10/IMG_3359.jpeg)
 
-![Brume](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3360.jpeg)
+![Brume](https://tcrouzet.com/images_tc/2020/10/IMG_3360.jpeg)
 
 ### Jeudi 24, Balaruc
 

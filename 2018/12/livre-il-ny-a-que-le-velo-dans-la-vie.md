@@ -8,7 +8,7 @@ Dans la vidéo de [présentation de son livre](https://www.youtube.com/embed/qo2
 
 Alors, même si Rob possède déjà plusieurs vélos, il décide d’acheter le vélo parfait, celui qui lui conviendra le mieux, un vélo construit sur mesure équipé d’accessoires conçus pour durer. Le voilà parti dans un tour du monde, un énième tour du monde en fait, car Rob a déjà fait le tour du monde à vélo, et même plusieurs fois, quittant au milieu des années 1990 son boulot d’avocat dans la City pour prendre la route. Pour construire son vélo de rêve, il visite les artisans et les industriels prestigieux, nous raconte leur histoire et en même temps l’histoire du vélo. C’est passionnant.
 
-![It's All About the Bike](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/banner_about-the-bike.jpg)
+![It's All About the Bike](https://tcrouzet.com/images_tc/2018/12/banner_about-the-bike.jpg)
 
 Le cadre en acier sera fabriqué à Stoke-on-Trent par [Brian Rourke](https://www.rourke.biz/) (en acier parce que c'est solide, que le cadre est fin et réparable simplement).
 

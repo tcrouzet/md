@@ -30,17 +30,17 @@ Je marche vers le sud, accompagnant les joggeurs et les cyclistes, puis bifurque
 
 Je me souviens de 1991, de mon excitation, de ma boulimie. Je croise des gens qui visitent New York pour la première fois. L’énergie est palpable, un peu enivrante, je rentre épuisé. Et là, pas de Kindle, je l’ai perdu, sans doute dans l’avion. Toutes mes lectures en cours envolées, tous mes surlignages depuis des années. Je me sens un peu nu sans le compagnon de mes nuits d’insomnie, mais l’appart de mon ami déborde de bouquins. Je me couche avec [*Le roi mystère*](http://www.fabula.org/actualites/a-cohen-le-roi-mystere-entretiens_34071.php), un livre d’entretiens avec Albert Cohen, où j’y découvre de l’intérieur ce qu’être juif a été pour les gens de sa génération, ou plutôt ce que les regards extérieurs ont fait vivre aux Juifs. Je savais, mais là je ressens, je vis, j’ai mal.
 
-![Centralo Park](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1060943-600x450.jpg)
+![Centralo Park](https://tcrouzet.com/images_tc/2018/11/P1060943-600x450.jpg)
 
-![West Side](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1060999-600x450.jpg)
+![West Side](https://tcrouzet.com/images_tc/2018/11/P1060999-600x450.jpg)
 
-![West Side](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070004.jpg)
+![West Side](https://tcrouzet.com/images_tc/2018/11/P1070004.jpg)
 
-![West Side](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070023.jpg)
+![West Side](https://tcrouzet.com/images_tc/2018/11/P1070023.jpg)
 
-![West Side](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070082.jpg)
+![West Side](https://tcrouzet.com/images_tc/2018/11/P1070082.jpg)
 
-![De ma chambre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070093.jpg)
+![De ma chambre](https://tcrouzet.com/images_tc/2018/11/P1070093.jpg)
 
 ### Mardi 2, New York
 
@@ -52,7 +52,7 @@ Quand on est un connecteur d’idées, on connecte sans cesse, par automatisme, 
 
 Dans [*La mécanique du texte*](https://tcrouzet.com/la-mecanique-du-texte/), je pourrais ajouter un passage sur la façon d’écrire de Cohen. Il dictait ses livres à ses femmes. Elles tapaient, et recommençaient, car il ajoutait sans cesse. « J’ai dicté *Le livre de ma mère* à ma femme actuelle, ma troisième et ma meilleure épouse, parce que je voulais qu’elle connaisse ma mère, morte quand je l’ai rencontrée. C’est exquis d’écrire des livres comme je les écris : j’ai devant moi la femme que j’aime et on est ensemble, on se raconte des histoires, sauf que c’est moi qui les raconte. » Cette façon de parler des femmes ne me plaît pas, même si Cohen dit les aimer par-dessus tout.
 
-![De ma chambre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070099.jpg)
+![De ma chambre](https://tcrouzet.com/images_tc/2018/11/P1070099.jpg)
 
 ---
 
@@ -62,11 +62,11 @@ Comme Cohen, j’aurais peut-être dû continuer à travailler, à mener une vie
 
 Je suis dans cet état qui exige la sieste. Il préfigure parfois des illuminations. J’ai appris à jouer avec, à en faire une sorte de prélude à la méditation. Je peux ainsi atteindre le vide, la non-pensée, je ne suis plus qu’un récepteur traversé par la ville, ses bruits, ses senteurs, ses rumeurs, ses lumières. Je suis un être fait de communion, une expérience que je n’ai encore jamais effleuré en Floride et qui, ici, n’exige aucune aptitude.
 
-![Broadway](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070102.jpg)
+![Broadway](https://tcrouzet.com/images_tc/2018/11/P1070102.jpg)
 
 Arrêt à Madison Square Garden. J’avance à pas lents. Faut que je digère les images. Je viens de racheter un Kindle à la librairie Amazon située au pied de l’Empire State. Quand je lève la tête vers lui, j’ai du mal à me dire que j’y suis monté au moins trois fois. L’endroit me paraît toujours aussi abstrait. Vers le sud de Madison Square, deux nouvelles tours se dressent, étroites, carrées, dont on devine qu’elles occupent une empreinte au sol réduite. Par leur étroitesse au regard de leur hauteur, elles me font penser aux tours de San Gimignano en Toscane. Des contraintes identiques conduisent à des formes identiques. Voilà que devraient méditer les tenants de l’intentionnalité divine.
 
-![L'Empire State](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070105.jpg)
+![L'Empire State](https://tcrouzet.com/images_tc/2018/11/P1070105.jpg)
 
 Je descends jusqu’à Prince Street, m’arrête dans la librairie Mc Nally, une librairie comme on n’en trouve que dans les pays anglo-saxons, avec des couv qui me donnent envie de tout lire. Un seul constat, je n’y suis pas, ça me fait toujours mal les librairies. Au moins, sur le Net, on peut se donner l’illusion d’exister pour les autres.
 
@@ -76,15 +76,15 @@ Je quitte mon amie, marche jusqu’à Brooklyn Bridge, bascule sur l’autre riv
 
 Je marche, je marche, et ça pétarade de partout. Oublier la Floride, c’est ici que je veux vivre. La ville s’est détendue par rapport aux années 1990, les gens sont cools, bourrés d’énergie sans paraître stressés. Je vois la ville comme je la rêve, avec de longues promenades au bord de l’eau, des jardins suspendus au-dessus du courant, des immeubles jaillis de partout, et toujours la mer qui entre, qui se glisse entre les yeux et les narines.
 
-![Jardin-Cimetière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070127.jpg)
+![Jardin-Cimetière](https://tcrouzet.com/images_tc/2018/11/P1070127.jpg)
 
-![Building](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070134.jpg)
+![Building](https://tcrouzet.com/images_tc/2018/11/P1070134.jpg)
 
-![Brooklyn Bridge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070162.jpg)
+![Brooklyn Bridge](https://tcrouzet.com/images_tc/2018/11/P1070162.jpg)
 
-![Manhattan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070192.jpg)
+![Manhattan](https://tcrouzet.com/images_tc/2018/11/P1070192.jpg)
 
-![Brooklyn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070196.jpg)
+![Brooklyn](https://tcrouzet.com/images_tc/2018/11/P1070196.jpg)
 
 ### Mercredi 3, New York
 
@@ -92,17 +92,17 @@ Je suis retourné du côté de Brooklyn apporter un truc à une amie d’une ami
 
 J’ai longuement regardé la skyline, chaque fois fuyant son gigantisme pour m’attacher à des détails, des passants, des bateaux, des rêveurs enracinés comme moi au bord de l’Hudson. Quand je prenais conscience que j’avais détourné mon attention du paysage général, je sursautais, tentais de l'appréhender, mais insidieusement mes yeux revenaient s’attacher à des détails, comme si l’énormité de la ville m’était inaccessible. Une fois mes sens saturés, je ne parviens pas à rester visé sur cette peinture all-over, qui par son absence de sujet met mon cerveau en panique. Les gens éprouvent-ils la même chose dans les régimes trop libertaires ? Malgré eux, ils veulent un retour de l’autorité, comme moi d’un sujet à mes observations, parce que je m’en trouve rassuré.
 
-![De ma chambre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070217.jpg)
+![De ma chambre](https://tcrouzet.com/images_tc/2018/11/P1070217.jpg)
 
-![Manhattan Bridge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070223.jpg)
+![Manhattan Bridge](https://tcrouzet.com/images_tc/2018/11/P1070223.jpg)
 
-![Brooklyn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070227.jpg)
+![Brooklyn](https://tcrouzet.com/images_tc/2018/11/P1070227.jpg)
 
-![Manhattan depuis Brooklyn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070230.jpg)
+![Manhattan depuis Brooklyn](https://tcrouzet.com/images_tc/2018/11/P1070230.jpg)
 
-![Manhattan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070240.jpg)
+![Manhattan](https://tcrouzet.com/images_tc/2018/11/P1070240.jpg)
 
-![Manhattan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070299.jpg)
+![Manhattan](https://tcrouzet.com/images_tc/2018/11/P1070299.jpg)
 
 Après plus d’une heure de bateau de Brooklyng Bridge jusqu’à Bay Ridge, puis retour jusqu’à Wall Street, je suis un peu ivre de tout ce que j’ai vu, imaginée aussi, me voyant immigrant accueilli par la Statue de la Liberté, en un autre temps, où la ville devait être charbonneuse et fumeuse alors qu’aujourd’hui ses vitres éclaboussent de bleu et d’argent (au propre et au figuré).
 
@@ -112,9 +112,9 @@ Je comprends pourquoi les terroristes ont frappé là, juste devant moi, un lieu
 
 La double fontaine de Ground Zero (ça marche avec *Temps Zéro*) ressemble à un trou noir, une boucle infinie à la Escher. Et tous ces noms de victimes, difficile de ne pas être ému, surtout quand on a vu en direct les tours s’écrouler, puis les images passer en boucle, avec les petits corps se jetant dans le vide.
 
-![Wall Street](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070317.jpg)
+![Wall Street](https://tcrouzet.com/images_tc/2018/11/P1070317.jpg)
 
-![Ground Zero](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070328.jpg)
+![Ground Zero](https://tcrouzet.com/images_tc/2018/11/P1070328.jpg)
 
 Je marche jusqu’au Whitney Museum pour prendre la High Line, coulée verte inspirée de celle de Paris. Trop tard, elle est fermée, je m’assois au soleil sur une des chaises mises à disposition des passants. Toutes les villes devraient prendre cette habitude de transformer le moindre espace en parc public.
 
@@ -124,13 +124,13 @@ Je m’arrête dans un self végan. Je commande une sorte de soupe beigeâtre au
 
 Je me sens à New York comme si j’y avais toujours vécu. La Floride doit me rendre dingue. Je tombe amoureux de la première ville venue, ou plutôt c’est comme si je revoyais une vieille connaissance et que je découvrais soudain que j’ai toujours été fait pour elle.
 
-![9th avenue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070336.jpg)
+![9th avenue](https://tcrouzet.com/images_tc/2018/11/P1070336.jpg)
 
 ### Jeudi 4, New York
 
 De mon lit. Le ciel : traînées de mousse grise en avant-plan d’un bleu velouté. Première éclaboussure de soleil reflétée sur une fenêtre située sur la rive opposée de l’Hudson du côté d’Union City. L’Hudson, lui-même, dont des buildings rouges ou gris hachent le cours paisible. Déjà la lumière gagne de la force. Union City se transforme en un trait blanc au-dessus d’une coulée verdoyante, striée de monolithes roses. Au loin, des collines brumeuses.
 
-![De ma chambre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070344.jpg)
+![De ma chambre](https://tcrouzet.com/images_tc/2018/11/P1070344.jpg)
 
 Née 400 millions d’années après le Big Bang, la galaxie GN-z11 est à [13,4 milliards d'années-lumière de nous](https://www.youtube.com/watch?v=0txusqhfcUo), presque l’âge de l’univers. Mais à quelle distance d’elle étions-nous 400 millions d’années après le Big Bang ? Cette question m’a toujours donné mal à la tête. Si l’univers n’avait qu’une dimension, donc était un cercle (puisque nous supposons qu’il est légèrement courbé, ce qui reste très incertain), nous n’aurions pas pu être à plus de 400?, soit 1,2 milliard d’années-lumière. Donc la lumière émise à cette époque aurait déjà dû nous parvenir depuis longtemps. Pas si simple. [Nous ne connaissons pas la taille de l’univers.](https://www.science-et-vie.com/questions-reponses/quelle-est-la-taille-de-l-univers-5457) Il s’étend à toute vitesse, il s’est même étendu plus vite que la vitesse de la lumière à ses débuts, les photons et la géométrie se faisant la course. La plus grande partie des photons émis ne nous parviendront jamais. La plus grande partie de l’univers nous sera à jamais invisible comme tous ces textes sublimes que nous ne lirons jamais. GN-z11 se trouve aujourd’hui à plus de 40 milliards d’années-lumière de nous. Elle s’est perdue.
 
@@ -154,15 +154,15 @@ Je reste longuement assis sous un mur de verre, à regarder les agencements mill
 
 Arrivé au bout de la High Line, j’observe des ouvriers détruire un bâtiment, défaisant avec méthode le travail que d’autres ont fait un siècle plus tôt avec tout autant de méthode. La ville se construit comme une œuvre sans cesse remise en question. Rien n’est déifié, uniquement de la matière à moudre, à vivre.
 
-![9th Street](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070347.jpg)
+![9th Street](https://tcrouzet.com/images_tc/2018/11/P1070347.jpg)
 
-![High Line](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070381.jpg)
+![High Line](https://tcrouzet.com/images_tc/2018/11/P1070381.jpg)
 
-![High Line](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070387.jpg)
+![High Line](https://tcrouzet.com/images_tc/2018/11/P1070387.jpg)
 
-![High Line](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070392.jpg)
+![High Line](https://tcrouzet.com/images_tc/2018/11/P1070392.jpg)
 
-![High Line](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070401.jpg)
+![High Line](https://tcrouzet.com/images_tc/2018/11/P1070401.jpg)
 
 J’entre dans le Whitney Museum. Il y a la queue aux caisses et dehors l’air est trop doux pour que je m’enferme, d’autant que pour demain s’annonce une sérieuse chute de température. Alors je prends le métro A jusqu’au Cloister, cette église en partie piquée du côté de Saint-Guilhem-le-Désert.
 
@@ -170,7 +170,7 @@ Je rentre à pied. Après un quartier résidentiel, je rejoins Broadway, ça mon
 
 Tout le long du chemin ou presque j’ai eu envie pisser. Je suis entré dans tous les MacDo et Starbucks, mais chaque fois les portes des toilettes étaient condamnées. J’ai fini par me planter devant l’une d’elles jusqu’à ce que je puisse me glisser dans le saint des saints. L’envie de pisser se fait de plus en plus piquante avec l’âge. La radiation part du sexe, puis peu à peu gagne le corps jusqu’à obscurcir le cerveau. Rien ne nous a préparés à nous retenir. Les chasseurs-cueilleurs pissaient quand ça les prenait. Et maintenant c’est le ciel qui crachote, puis qui se déverse, ce qui me force à rentrer plus tôt que prévu.
 
-![George Washington Bridge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070416.jpg)
+![George Washington Bridge](https://tcrouzet.com/images_tc/2018/11/P1070416.jpg)
 
 ---
 
@@ -180,7 +180,7 @@ Aucun roman contemporain ne me paraît contemporain comme si la forme retenue ne
 
 De mon lit. La vue porte bien au-delà de l’Hudson et d’Union City jusqu’aux collines boisées du New Jersey. Vivre en hauteur au cœur de New York est un idéal hors de prix : en bas la communauté des hommes, au loin la nature.
 
-![De mon lit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070421.jpg)
+![De mon lit](https://tcrouzet.com/images_tc/2018/11/P1070421.jpg)
 
 Le MOMA est devenu une usine à touristes, là parce qu’il faut y être et qui défilent devant les toiles en les photographiant avec leur mobile. Comment rêver devant les ciels de Van Gogh ou les chemins brûlants de Cézanne ? Je me retrouve par miracle seul assis devant *Les Demoiselles d’Avignon*, me dit que peut-être je vais pouvoir écrire en compagnie de mon maître, mais une nuée d’écervelés m’encercle et m’ensevelît.
 
@@ -210,9 +210,9 @@ Parfois, je déraille. Hier, j’ai aperçu dans une vitrine une espèce de tour
 
 Le pire, pas plutôt dépassé la 50th street, en remontant la 9th avenue, j’ai enchaîné les devantures appétissantes, avant que ça devienne quasi irrésistible dans l’Upper West Side, que j’ai arpenté jusqu’au sommet de la 10th avenue, avant de descendre vers l’Hudson et de rentrer tout doucement vers la jetée où j’ai échouée lundi soir à mon arrivée.
 
-![West Side](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070450.jpg)
+![West Side](https://tcrouzet.com/images_tc/2018/11/P1070450.jpg)
 
-![Sun set](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070425.jpg)
+![Sun set](https://tcrouzet.com/images_tc/2018/11/P1070425.jpg)
 
 ### Samedi 6, New York
 
@@ -284,7 +284,7 @@ Ne plus utiliser les réseaux sociaux que pour des échanges directs, une façon
 
 Direction Homestead, au sud de Miami, non loin de la route des Keys, où je participe à une course de vélo : 70 km de piste et de boue. Je termine crotté de la tête aux pieds. En voiture, JP me raconte sa vie, son père pilote privé, leurs voyages dans toutes les îles des Caraïbes où ils transportaient des bons du Trésor pour les banques internationales, puis l’évidence qu’il fallait fuir le Venezuela à l’arrivée de Chávez. « On m’a traité de fou quand je suis parti, parce que nous avions tout là-bas. » Dix ans plus tard, son père a été mis sur une liste noire, ses biens confisqués et lui aussi a dû partir. JP aime la Floride, elle est devenue sa terre. Il vénère les *levees* autant que moi mes garrigues.
 
-![Homestead](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/Gralky2018-1.jpg)
+![Homestead](https://tcrouzet.com/images_tc/2018/11/Gralky2018-1.jpg)
 
 ### Lundi 15, Weston
 
@@ -322,25 +322,25 @@ J’ai envie d’étrangler Coco. Il crie à nous déchirer les tympans. Il veut
 
 Je boucle ma nouvelle *Temps Zéro*, avec tant de difficultés que j’ai l’impression de n’avoir jamais écrit un texte aussi indigeste. Puis je vais récupérer le VTT que j’ai commandé, j’ai l’impression qu’il est trop grand, je ne sais plus où j’en suis. Puis je rentre, je compare le profil de ce VTT avec le mien en France, ils sont presque semblables. Je suis en train de devenir fou.
 
-![Notre alligator](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070464.jpg)
+![Notre alligator](https://tcrouzet.com/images_tc/2018/11/P1070464.jpg)
 
 ### Samedi 20, Weston
 
 Je tourne en rond, la Floride me paralyse à tous les étages de ma vie. Je n’écris pas, je suis incapable d'acheter un vélo, incapable de ne rien faire sans fainéanter, même lire me devient difficile. Ça cogne partout. Je n’ai plus de place nulle part. Je voudrais sans cesse être ailleurs. À Miami Beach, je ne vois que des femmes vulgaires en mousselines argentées, montant leurs fesses flasques sans le moindre complexe. À Wynwood, j’attrape une image par-ci par-là, sans réussir à me dire que je mets un pas devant l’autre pour avancer, au contraire je me perds, ou pire je fais du sur place.
 
-![Miami Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070483.jpg)
+![Miami Beach](https://tcrouzet.com/images_tc/2018/11/P1070483.jpg)
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070533.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2018/11/P1070533.jpg)
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070543.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2018/11/P1070543.jpg)
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070554.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2018/11/P1070554.jpg)
 
-![Miami Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070558-1.jpg)
+![Miami Beach](https://tcrouzet.com/images_tc/2018/11/P1070558-1.jpg)
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070585.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2018/11/P1070585.jpg)
 
-![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070589.jpg)
+![Wynwood](https://tcrouzet.com/images_tc/2018/11/P1070589.jpg)
 
 ### Lundi 22, Weston
 
@@ -418,11 +418,11 @@ Homestead n’est pas seulement la terre brûlée décrite par Rahmy. C’est au
 
 Jardin du musée Pérez. Cocotiers plantés dans un parvis de béton, pavage granuleux, en devers sur Biscayne Bay. Une brise douce, un air de printemps. Sensation d’un temps altéré, de déjà sortir de l’hiver pour entrer dans une saison magique.
 
-![Musée Pérez](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070613.jpg)
+![Musée Pérez](https://tcrouzet.com/images_tc/2018/11/P1070613.jpg)
 
-![Musée Pérez](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070618.jpg)
+![Musée Pérez](https://tcrouzet.com/images_tc/2018/11/P1070618.jpg)
 
-![Musée Pérez](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070620.jpg)
+![Musée Pérez](https://tcrouzet.com/images_tc/2018/11/P1070620.jpg)
 
 J’ai commencé mes recherches pour *Adapt to Adopt*. Une question. Depuis quand l’alcool est-il utilisé comme désinfectant ? Depuis quand sait-on qu’il tue les germes ? Cette découverte est nécessairement postérieure à la découverte des germes par Pasteur en 1861. Elle est aussi postérieure à 1865 quand Joseph Lister, au fait des travaux de Pasteur, découvre que le phénol tue les germes et l’utilise dès lors comme désinfectant. Après, en 1878, Robert Koch découvre que la stérilisation à la vapeur est plus efficace que le phénol. Mais aucune référence à l’alcool. Si ces médecins avaient su pour l’alcool, ils l’auraient utilisé. Alors quand ? Je ne trouve rien sur le Net. Didier lui-même ne sait pas. Cette évidence ne l’était pourtant pas encore à la fin du XIX<sup>e</sup>. Isa en conclut qu’une femme a découvert le pouvoir désinfectant de l’alcool et que l’histoire l’a oubliée. « Normal, c’était une femme. »
 
@@ -438,21 +438,21 @@ J’aime ces moments qui font deviner une apocalypse douce. Tous les humains aur
 
 Un seul banc face au lac, déroulé dans sa plus grande longueur, avec un méandre qui là-bas pourrait partir loin, et qui finalement s’achève par une boucle comme une autre, connecté à une autre, puis aux Everglades.
 
-![Savanna](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070677.jpg)
+![Savanna](https://tcrouzet.com/images_tc/2018/11/P1070677.jpg)
 
-![Savanna](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070678.jpg)
+![Savanna](https://tcrouzet.com/images_tc/2018/11/P1070678.jpg)
 
-![Savanna](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070684.jpg)
+![Savanna](https://tcrouzet.com/images_tc/2018/11/P1070684.jpg)
 
-![Savanna](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070682.jpg)
+![Savanna](https://tcrouzet.com/images_tc/2018/11/P1070682.jpg)
 
-![Savanna](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070700.jpg)
+![Savanna](https://tcrouzet.com/images_tc/2018/11/P1070700.jpg)
 
-![Savanna](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070706.jpg)
+![Savanna](https://tcrouzet.com/images_tc/2018/11/P1070706.jpg)
 
-![Savanna](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070753.jpg)
+![Savanna](https://tcrouzet.com/images_tc/2018/11/P1070753.jpg)
 
-![Savanna](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070754.jpg)
+![Savanna](https://tcrouzet.com/images_tc/2018/11/P1070754.jpg)
 
 ### Mardi 30, Weston
 

@@ -8,7 +8,7 @@ Pour [ma traversée Méditerranée-Atlantique](https://tcrouzet.com/2019/04/12/b
 
 [Comme je l’ai déjà raconté](https://tcrouzet.com/2019/03/21/randos-vtt-ou-autres-comment-creer-une-trace-gpx/), je prépare mes traces VTT/bikepacking sur Google Map où je les enrichis de POI (restaurants, épiceries, campings, fontaines, monuments…). Intérêt de la méthode : gratuite, performante, une infinité de POI préréférencés, la possibilité de superposer des centaines de traces, de créer des cartes partageables et accessibles sur tout type d'appareil.
 
-![Carte enrichie de POI](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/geek1-600x313.jpg)
+![Carte enrichie de POI](https://tcrouzet.com/images_tc/2019/08/geek1-600x313.jpg)
 
 Quand les traces deviennent trop complexes pour Google Map, je les exporte en KMZ pour les éditer sous [BaseCamp](https://www.garmin.com/fr-FR/shop/downloads/basecamp), le logiciel gratuit d’édition cartographique de Garmin. Souvent je découpe les traces en tronçons de moins de mille points (track points) que je réimporte dans Google Map pour les éditer au-dessus des images satellites (les traces de plus de mille points ne sont plus éditables sur Google Map). Je ne recolle les morceaux qu'au dernier moment sur BaseCamp.
 
@@ -16,23 +16,23 @@ Quand les traces deviennent trop complexes pour Google Map, je les exporte en KM
 
 Pourquoi cette gymnastique ? Toutes les autres solutions que j'ai pu tester, bien qu'en apparence plus sexy et plus simples comme [OpenTraveller](https://www.opentraveller.net/) ou [Garmin Connect](https://connect.garmin.com/modern/courses), sont moins performantes. Dès que les traces grandissent, l'édition devient quasi impossible. Je resterai sur BaseCamp s'il savait afficher les images satellite de Google, mais il propose à la place une option payante et qui impose un pesant téléchargement des images, [BirdsEye](https://buy.garmin.com/fr-FR/FR/p/70144).
 
-![Trace sur BaseCamp](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/geek2-600x375.jpg)
+![Trace sur BaseCamp](https://tcrouzet.com/images_tc/2019/08/geek2-600x375.jpg)
 
-![Assemblage des tronçons](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/geek3-600x327.jpg)
+![Assemblage des tronçons](https://tcrouzet.com/images_tc/2019/08/geek3-600x327.jpg)
 
 La trace ainsi créée est parfaite pour me guider, mais elle ne comporte aucune information d’altitude, et donc le GPS ne peut pas tracer le profil. Pour ajouter ces informations au fichier KMZ, je passe par [GPSvisualizer](https://www.gpsvisualizer.com/map_input?form=googleearth) qui me génère un nouveau fichier KMZ comportant l’altitude de chacun des points (activer l'option Add DEM elevation data : best available source).
 
 **Notes** Pour que les GPS puissent tracer automatiquement le profil d'une la trace ne l'intégrant pas, ils doivent être équipés d'une carte altimétrique. Malheureusement les cartes gratuite OSM (Open Street Map) que j'utilise ne comportent pas de courbes de niveau, bien qu'elles offrent le meilleur niveau de détail pour le VTT.
 
-![Ajout des élévations](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/geek4-600x291.jpg)
+![Ajout des élévations](https://tcrouzet.com/images_tc/2019/08/geek4-600x291.jpg)
 
 Quand j’ouvre mon nouveau fichier KMZ sur BaseCamp, je peux vérifier que les informations altimétriques sont présentes et visualiser le profil. Le calcul du dénivelé cumulé est souvent erroné (14 500 m pour ma trace Méditerranée-Atlantique). Je vérifie ce cumul en ouvrant ma trace sur Google Earth et en affichant le profil (8 500 m). J’obtiens d’autres évaluations via [Komoot](https://www.komoot.com/tour/84426566) (11 000 m), [OpenTraveller](https://www.opentraveller.net/) (9750 m) ou [Tracedetrail](https://tracedetrail.fr/) (qui n'aime pas les traces trop longues). Où est la vérité ? Komoot me semble le plus juste.
 
-![Trace avec altitude sur BaseCamp](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/geek5-600x402.jpg)
+![Trace avec altitude sur BaseCamp](https://tcrouzet.com/images_tc/2019/08/geek5-600x402.jpg)
 
-![Le profil sous Google Earth](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/geek6-600x387.jpg)
+![Le profil sous Google Earth](https://tcrouzet.com/images_tc/2019/08/geek6-600x387.jpg)
 
-![Profil sur Komoot](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/geek7-600x376.jpg)
+![Profil sur Komoot](https://tcrouzet.com/images_tc/2019/08/geek7-600x376.jpg)
 
 Depuis BaseCamp, je peux alors envoyer ma trace au GPS. Désormais, je peux savoir où je me situe sur le profil des montées interminables (à condition de choisir d'afficher l'écran d'élévation).
 
@@ -40,7 +40,7 @@ Depuis BaseCamp, je peux alors envoyer ma trace au GPS. Désormais, je peux savo
 
 J’ai fini par comprendre que mon GPS gère les POI indépendamment des traces. À concurrence de 200 (valeur dépendant des modèles), ces POI de 32 caractères sont stockés dans le fichier *Locations.fit* situé dans le dossier *Garmin/Locations* du GPS. Détruire ce fichier n’efface pas les POI déjà présents, il faut les supprimer via BaseCamp, une fois le GPS connecté à l’ordinateur (quand les POI sont bien supprimés, le fichier *Locations.fit* occupe une poignée d'octets).
 
-![Les POI du GPS](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/geek8-600x375.jpg)
+![Les POI du GPS](https://tcrouzet.com/images_tc/2019/08/geek8-600x375.jpg)
 
 Depuis Google Map, j'exporte le calque où j'ai enregistré mes POI, puis réimporte le KMZ correspondant dans BaseCamp où je sélectionne les POI pour les envoyer au GPS exactement comme je le fais pour les traces. Les POI se surimposeront à la carte quand ma trace passera dans les environs.
 
@@ -56,7 +56,7 @@ Sur mon GPS, je charge trois cartes :
 
 - L’OSM qui couvre mon trajet, [générée spécialement pour lui](http://garmin.openstreetmap.nl/). J’active uniquement cette carte. Tout en étant très légère en mémoire, elle est suffisamment détaillée pour m’aider à me repérer en cas de trace approximative.
 
-![OSM sur mesure](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/geekgps1-600x324.jpg)
+![OSM sur mesure](https://tcrouzet.com/images_tc/2019/08/geekgps1-600x324.jpg)
 
 En cas de galère, le minuscule écran de mon GPS n’est guère d’utilité, alors je bascule sur celui de mon iPhone où j’utilise [MapOut](https://mapout.app/) (la meilleure app de cartographie que j'ai testée). Voici comment je tire profit de MapOut.
 
@@ -72,13 +72,13 @@ En cas de galère, le minuscule écran de mon GPS n’est guère d’utilité, a
 
 6. Si mon GPS me lâche, MapOut peut aussi me guider.
 
-![Liste des POI sur MapOut](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/IMG_5661-253x450.jpg)
+![Liste des POI sur MapOut](https://tcrouzet.com/images_tc/2019/08/IMG_5661-253x450.jpg)
 
-![Trace complète avec POI](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/IMG_5662-253x450.jpg)
+![Trace complète avec POI](https://tcrouzet.com/images_tc/2019/08/IMG_5662-253x450.jpg)
 
-![Téléchargement gratuit des tuiles OSM](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/IMG_5663-253x450.jpg)
+![Téléchargement gratuit des tuiles OSM](https://tcrouzet.com/images_tc/2019/08/IMG_5663-253x450.jpg)
 
-![Visualisation 3D du relief](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/IMG_5664-253x450.jpg)
+![Visualisation 3D du relief](https://tcrouzet.com/images_tc/2019/08/IMG_5664-253x450.jpg)
 
 ### Note
 

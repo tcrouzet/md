@@ -8,7 +8,7 @@ Je ne pédale pas depuis une semaine et voilà que j’attrape un rhume. Je ne p
 
 ### Samedi 3, Balaruc
 
-![Émile n'arrête plus de peindre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/471e490a-e523-43a3-bb3d-f5390a81a2b9-600x450.jpg)
+![Émile n'arrête plus de peindre](https://tcrouzet.com/images_tc/2019/09/471e490a-e523-43a3-bb3d-f5390a81a2b9-600x450.jpg)
 
 ### Dimanche 4, Balaruc
 
@@ -70,19 +70,19 @@ Depuis que j’ai connu un lancement de star avec [*J’ai débranché*](https:/
 
 Post-partum vélo et publication. Comment à nouveau me motiver moi-même ? Je ne sais pas être sans les autres. Je voudrais qu’ils m’aiment, mais je ne les aime pas assez. Ils le sentent.
 
-![Biron, sortie route avec les cousins](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_6216-600x450.jpg)
+![Biron, sortie route avec les cousins](https://tcrouzet.com/images_tc/2019/09/IMG_6216-600x450.jpg)
 
 ### Dimanche 25, Villeneuve-sur-Lot
 
 Aux urgences après une gamelle à VTT dans un sentier familier près de chez mes beaux-parents. Diagnostic : fracture du col du fémur droit. On va me transférer sur Montpellier où je serai opéré demain matin. J’oublie la rentrée littéraire, je ne pense qu’à ma famille, qu’à la beauté de la vie.
 
-![Aux urgences](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_6226-600x450.jpg)
+![Aux urgences](https://tcrouzet.com/images_tc/2019/09/IMG_6226-600x450.jpg)
 
 ### Lundi 26, Montpellier
 
-![Depuis ma chambre à la clinique](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_6243-450x450.jpg)
+![Depuis ma chambre à la clinique](https://tcrouzet.com/images_tc/2019/09/IMG_6243-450x450.jpg)
 
-![Hilare après l'opération](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/d5e28fb7-7674-4355-af77-b3738c30dc50-600x450.jpg)
+![Hilare après l'opération](https://tcrouzet.com/images_tc/2019/09/d5e28fb7-7674-4355-af77-b3738c30dc50-600x450.jpg)
 
 ### Mardi 27, Montpellier
 
@@ -128,9 +128,9 @@ Je suis maintenant chez moi, face à moi-même, dans un espace beaucoup plus vas
 
 J’aime raconter ce qui m’arrive par le détail, avec juste assez de recul pour en rire, prendre le temps de la narration, j’ai au fil des années perfectionné cette technique qui me semble a trouvé sa forme avec mes récits de vélo. Je sens que je peux entraîner les lecteurs, les empoter où je veux, pourquoi ne pas employer ce pouvoir pour les entraîner plus loin dans l’univers et le temps ?
 
-![Retour à la maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_6261-600x450.jpg)
+![Retour à la maison](https://tcrouzet.com/images_tc/2019/09/IMG_6261-600x450.jpg)
 
-![De mon lit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_6275-600x450.jpg)
+![De mon lit](https://tcrouzet.com/images_tc/2019/09/IMG_6275-600x450.jpg)
 
 ### Samedi 31, Balaruc
 
@@ -180,7 +180,7 @@ J’ai envie de douceur, comme le soleil de ce soir sur le silence d’un samedi
 
 Les auteurs noirs, mes contemporains, doivent être essentialistes. Ils dénoncent, ils montrent, comme s’ils trouvaient le gâchis injuste et priaient une quelconque divinité de leur venir en aide. Je ne vois de solution que dans l’art lui-même. Lire des textes scientifiques me donne davantage la pêche que lire la littérature contemporaine. Même si ces textes dénoncent la crise climatique, tout de suite après ils évoquent des solutions possibles, des idées folles qui m’emportent à l’autre bout de la galaxie.
 
-![Il y a pire comme chambre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_6279-600x150.jpg)
+![Il y a pire comme chambre](https://tcrouzet.com/images_tc/2019/09/IMG_6279-600x150.jpg)
 
 
 

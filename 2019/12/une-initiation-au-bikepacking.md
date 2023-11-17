@@ -14,7 +14,7 @@ Après avoir sondé quelques éditeurs et devant leurs gros yeux, « Mais de qu
 
 [Sommaires, bonne pages, liste des librairies…](/une-initiation-au-bikepacking/#librairies)
 
-![Une initiation au bikepacking](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/bikepacking-cover-286x450.jpg)
+![Une initiation au bikepacking](https://tcrouzet.com/images_tc/2019/12/bikepacking-cover-286x450.jpg)
 
 
 

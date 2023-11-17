@@ -6,13 +6,13 @@ Pour favoriser notre [esprit freerider (voir chapitre 3)](#), notre vélo doit n
 
 Quand j’étais gamin, longtemps je n’ai eu qu’un vélo de route avec un cadre en acier peint en grena. Mon village était encore en contact direct avec la nature. Après cinq minutes de macadam, je filais sur les chemins entre les vignes où j’enchaînais les singles de la garrigue, sans ménager ma monture, mes jambes et mon dos étant alors capables d’absorber les secousses, moins mes pneus que je déchirais souvent. Mon corps rendait polyvalent une machine qui ne l’était pas, mais nous n’avions pas le choix, [les premiers VTT](https://fr.wikipedia.org/wiki/V%C3%A9lo_tout_terrain#Historique) n’apparaissent aux États-Unis qu’à la fin des années 1970 (en même temps que les premiers micro-ordinateurs — il ne s’agit pas d’une coïncidence, plutôt d’un besoin généralisé à cette époque de développer notre potentiel individuel).
 
-![Premier StumpJumper, 1981](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/stump1981-600x450.jpg)
+![Premier StumpJumper, 1981](https://tcrouzet.com/images_tc/2018/12/stump1981-600x450.jpg)
 
 Quand mon père m’a acheté un vélo de course en titane peint en bleu électrique, avec des boyaux, il n’était pas question de l’amener en garrigue. Quand je ne roulais pas sur route, je piquais le [mini-vélo](http://minivelovintage.over-blog.com/peugeot-demontable-da22.html) de ma mère pour faire du vélocross comme on disait alors. Avec mon copain Michel qui avait un [chopper](https://en.wikipedia.org/wiki/Raleigh_Chopper), on ne cessait de customiser ces vélos pour les rendre plus costauds (après on a fait pareil avec des motos). Je devais avoir douze ou treize ans, je nous revois dans nos garages, chez lui ou chez moi. On était dans les années 1975-1977. Ce désir de tout-terrain nous prenait donc en même temps qu’il en prenait d’autres aux États-Unis sur les pentes de la Repack de Fairfax, mais sans qu’on en fasse toute une affaire, surtout sans que l’un de nous songe à en faire un business.
 
-![Source Mini Vélo Vintage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/mini-velo-600x450.jpg)
+![Source Mini Vélo Vintage](https://tcrouzet.com/images_tc/2018/12/mini-velo-600x450.jpg)
 
-![1969 Raleigh Chopper, Wikipedia](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/1969_Raleigh_Chopper-600x450.jpg)
+![1969 Raleigh Chopper, Wikipedia](https://tcrouzet.com/images_tc/2018/12/1969_Raleigh_Chopper-600x450.jpg)
 
 J’avais donc à cette époque deux vélos avec lesquels j’étais capable de m’attaquer à tous les terrains à ma disposition, même les descentes des coupes-feus qui aujourd’hui me donnent le vertige et dans les pentes desquels je refuse dorénavant de m’engager. Deux vélos, c’est peut-être le minimum vital pour qui désire explorer le monde. Beaucoup de cyclistes possèdent plus de deux vélos. Selon un théorème cycliste, [le nombre idéal de vélos serait N+1](https://www.youtube.com/watch?v=l5iCYCj4kbM), c’est-à-dire autant de machines que possible tout en désirant en ajouter une à sa collection.
 
@@ -36,7 +36,7 @@ Depuis 1996, le XC est une discipline olympique, et de fait les vélos XC resten
 
 Reste que j’ai fini par acheter un second vélo. À mon arrivée en Floride, les contraintes étaient claires : plat pays, beaucoup de routes, pas mal de pistes cyclables, aussi de larges trottoirs adaptés aux vélos, des chemins de terre dans les Everglades, les *levees*, enfin [un parc VTT](http://www.markhamparktrailbuildingfund.org/) tout à côté de chez moi, un des plus fameux de Floride.
 
-![Une de mes traces à Markham Park](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/markham-600x450.jpg)
+![Une de mes traces à Markham Park](https://tcrouzet.com/images_tc/2018/12/markham-600x450.jpg)
 
 J’ai commencé par écarter le parc VTT, autrement dit un circuit avec des bosses, des grimpettes et des descentes, des sauts et des sauts, le tout replié dans un petit espace à la façon d’un intestin, avec des centaines de cyclistes qui tournent en rond et s’entretuent. Je ne connais pas moins freeride. J’ai abandonné mon XC en France. Il me restait à trouver un vélo adapté à la route et aux chemins, c’est ainsi que j’ai choisi un gravel (peut-être à cause de la pub tournée par Peter Sagan).
 
@@ -44,7 +44,7 @@ Quelle claque ! Avec mon gravel, j’ai roulé sur route avec des cyclistes éq
 
 Les gravel deviennent si performants, si polyvalents, que sur [la chaîne GCN](https://www.youtube.com/watch?v=l5iCYCj4kbM) les journalistes affirment que nous en avons terminé avec la règle du N+1. À moins d’être un compétiteur, les purs vélos de course ne présentent plus guère d’intérêt face aux gravel, surtout quand on a un esprit freerider. Un exemple. En Floride, la route des Keys jusqu’à Key West est un *must do*. L’US1 dévale depuis le nord du continent américain et file jusqu’à son extrémité sud, sautant d’île en île, empruntant des ponts de plusieurs miles au-dessus d’une eau cobalt. Je n’ai pas résisté. Ma femme m’a déposé à 120 km de Key West et je me suis élancé, avec l’intention de suivre la piste cyclable partout où elle était disponible, le fameux [Florida Keys Overseas Heritage Trail](https://www.floridastateparks.org/parks-and-trails/florida-keys-overseas-heritage-trail).
 
-![Ma trace sur les Keys](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/keys-600x198.png)
+![Ma trace sur les Keys](https://tcrouzet.com/images_tc/2018/12/keys-600x198.png)
 
 Avec un vélo de course, je ne serais pas allé loin. Parfois du sable inonde la piste, parfois elle est défoncée, parfois des racines l'envahissent, d’autre fois elle est ondulée, d’autres fois couvertes de débris, parfois métalliques qui n’auraient fait qu’une bouchée de pneus lisses. Parfois elle s’arrête, alors il faut sauter sur un trottoir et y rouler, plutôt que se frotter au trafic routier sur l’US1. Parfois, je n’ai pas eu d’autres choix, comme sur le Seven Miles Bridge, mais rouler 120 bornes en compagnie d’un flot ininterrompu de voitures, ce n’est pas mon truc. Malgré mon trajet peu rectiligne, j’ai tenu le 30 km/h de moyenne. J’aurais pu aller plus vite avec un vélo de course, mais franchement ma vie n’aurait pas été bouleversée, si, un peu, parce que j’aurais pris davantage de risques.
 
@@ -62,29 +62,29 @@ Il en va de même avec les vélos. Je ne m’interdis aucune trace *a priori*. J
 
 Je publie ces pensées sur le vélo, sans les laisser décanter. Il faut les prendre comme des notes, des esquisses, je les publie pour provoquer des échanges, pour favoriser la sérendipité. Alors deux cyclistes me parlent coup sur coup de cartographie et me donnent l’idée d’un moyen de mesurer mon degré d’éclectisme (et pour vous de mesurer le votre).
 
-![Profil cartographique de Lionel Dricot](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/lioneldricot-600x370.png)
+![Profil cartographique de Lionel Dricot](https://tcrouzet.com/images_tc/2018/12/lioneldricot-600x370.png)
 
 Dans [La pédale et le territoire](https://ploum.net/la-pedale-et-le-territoire/), mon ami blogueur et cycliste Lionel Dricot explique que le vélo étend la zone où nous nous sentons chez nous, la zone d’intimité. Il illustre son article par une carte centrée sur sa résidence en Belgique, une carte qui représente toutes ses sorties vélo, une carte en forme de système cardio-vasculaire, une carte que nous pouvons tous tracer à l’aide de [Stravastats](https://www.stravastats.com) pour peu que nous ayons l’habitude de stocker nos traces sur [Strava](https://www.strava.com/athletes/18278258).
 
-![Profil cartographique de Florent C](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/Strava_Multiple_Ride_Mapper_FC-600x403.png)
+![Profil cartographique de Florent C](https://tcrouzet.com/images_tc/2018/12/Strava_Multiple_Ride_Mapper_FC-600x403.png)
 
 Au même moment, Florent C, un [géomaticien](https://fr.wikipedia.org/wiki/G%C3%A9omatique) qui envisage une thèse sur le vélo, m’envoie la carte de ses pérégrinations, tracée cette fois avec [Strava Multiple Ride Mapper](http://www.jonathanokeeffe.com/strava/map.php) (et il me suggère d’autres outils comme [Heatflask](https://heatflask.herokuapp.com) ou [Strava personal heatmap](http://young-tundra-9062.herokuapp.com/)). Son tracé ressemble à celui de Lionel, deux habitants des terres, deux cyclistes curieux qui ne se contentent pas de répéter les mêmes boucles, mais tressent le territoire.
 
-![Mon profil autour de Balaruc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/StravaMultipleRideMapper_b-600x375.jpg)
+![Mon profil autour de Balaruc](https://tcrouzet.com/images_tc/2018/12/StravaMultipleRideMapper_b-600x375.jpg)
 
-![Mon profil dans le Lot-et-Garonne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/StravaMultipleRideMapper_M-600x375.jpg)
+![Mon profil dans le Lot-et-Garonne](https://tcrouzet.com/images_tc/2018/12/StravaMultipleRideMapper_M-600x375.jpg)
 
-![Mon profil autour de Weston](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/StravaMultipleRideMapper_w-600x375.jpg)
+![Mon profil autour de Weston](https://tcrouzet.com/images_tc/2018/12/StravaMultipleRideMapper_w-600x375.jpg)
 
 J’ai bien sûr tracé mes propres cartes, autour de mes trois zones de roulage (autour de [Balaruc les Bains](https://fr.wikipedia.org/wiki/Balaruc-les-Bains) dans le Midi, autour de [Salles](https://fr.wikipedia.org/wiki/Salles_(Lot-et-Garonne)) dans le Lot-et-Garonne, autour de [Weston](https://en.wikipedia.org/wiki/Weston,_Florida) en Floride). Contrairement à celles de Lionel et Florent, mes cartes ne sont pas circulaires et pas centrées sur mes bases opérationnelles. Comme en France je roulais en VTT, je me tenais loin des routes, ce qui donnait une direction à mes explorations. En Floride, c’est d’un côté le trafic qui contraint, de l’autre l’océan et les Everglades.
 
 Ces trois cartes disent que je suis moins éclectique en Floride qu’en France, et de fait que je n’y suis pas un cycliste heureux. En Floride, la plupart des cyclistes sont capables de faire les mêmes aller-retour sur les mêmes digues trois fois par semaine (ou les mêmes pistes cyclables — j’ai un voisin qui fait plus de cent vingt bornes tous les matins entre 4 heures et 7 heures en tournant en rond dans Weston). La ville est gigantesque, tueuse de cyclistes, mais tout de même.
 
-![Mon jardin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/profilzoom-600x375.jpg)
+![Mon jardin](https://tcrouzet.com/images_tc/2018/12/profilzoom-600x375.jpg)
 
 Quand je zoome sur mon terrain de jeu préféré dans le Midi, j’y découvre le signe de mon éclectisme, dans une sorte de volonté d’exhaustivité, une tentation d’emprunter tous les chemins, quitte à me hasarder à travers des broussailles et à porter le vélo. L’image parle d’elle-même. Cette intimité avec le territoire ne s’atteint que par l’éclectisme. Il est une source de joie. Et quand il ne peut s’exprimer, j’en éprouve une profonde frustration qui m’incite à imaginer des aventures au long cours.
 
-![Une des cartes du lab Strava](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/stravastats-600x370.jpg)
+![Une des cartes du lab Strava](https://tcrouzet.com/images_tc/2018/12/stravastats-600x370.jpg)
 
 Alors je me prends à rêver devant la cartographie de [toutes les activités compilées par Strava](https://www.strava.com/heatmap#3.81/6.52877/49.65982/hot/all). Cette carte est vertigineuse. Elle nous dit où les gens font du sport, elle nous dit aussi précisément où ils roulent, courent, nagent. En zoomant, on peut explorer les endroits que nous croyons connaître pour y découvrir des traces dont nous ignorons tout. Impossible pour moi de faire taire ma curiosité.
 

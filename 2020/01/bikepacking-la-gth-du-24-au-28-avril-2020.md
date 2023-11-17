@@ -14,7 +14,7 @@ Qui dit bikepacking, dit autonomie, au moins pour le couchage (parce que s’arr
 
 Pourquoi partir de Balaruc les Bains ? Parce ce que j’y habite, qu’il y a un peu de place chez moi, ainsi que des campings et des restaurants, vu que c’est une station thermale. Je sais où on peut se garer gratuitement. La gare de Sète n’est qu’à 7 km pour ceux qui viendraient en train. Autre avantage, Balaruc les Bains se trouve environ à mi-parcours de la partie littorale de la GTH, de quoi démarrer et finir en douceur.
 
-![Météo moyenne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/sete.jpg)
+![Météo moyenne](https://tcrouzet.com/images_tc/2020/01/sete.jpg)
 
 En partant fin avril, nous maximisons les chances d’avoir un temps idéal pour le vélo. Tant que nous resterons sur le littoral et en plaine, [il fera autour de 20°C](https://www.ou-et-quand.net/partir/quand/france/languedoc-roussillon/sete/mois/avril/), la nuit on devrait avoisiner les 9°C ([moyenne pour Balaruc](https://www.accuweather.com/fr/fr/balaruc-les-bains/778/april-weather/778?year=2019)), avec seulement 15 % de chance d’avoir de la pluie. Vers La Salvetat-sur-Agout, [les températures seront plus faibles, 15°C en moyenne le jour, 7°C la nuit](https://www.accuweather.com/fr/fr/la-salvetat-sur-agout/149317/april-weather/149317) (il faisait 6 °C en 2019). La sagesse sera donc d’être capable d’affronter les 0°C environ pour la nuit, surtout s’il nous prend de dormir en altitude, vers le sublime lac de Vézoles.
 
@@ -26,7 +26,7 @@ J’ai également créé [un groupe Strava GTH34](https://www.strava.com/clubs/G
 
 Continuons à discuter et à échanger [sur le Groupe Facebook](https://www.facebook.com/groups/gth34/). N’hésitez pas à parler de la GTH, plus on sera de fous, plus on s’amusera.
 
-![Inscrivez-vous](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/GTH1.jpg)
+![Inscrivez-vous](https://tcrouzet.com/images_tc/2020/01/GTH1.jpg)
 
 
 
