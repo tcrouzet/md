@@ -2,7 +2,7 @@
 
 Après avoir laissé hier la parole à [Mimie in Vivo](http://www.mimie-invivo.com) sur le [blog présidentiel de MSN](http://2007.fr.msn.com/blog/), je continue mes travaux imposés. Aujourd’hui, je dois me demander quelles sont les thématiques politiques les plus abordées en ligne ? Vous ne serez pas surpris si je réponds abruptement que ce ne sont pas celles abordées par les médias traditionnels.
 
-Mon [billet sur la cartographie de la blogosphère politique](https://tcrouzet.com/2007/02/13/cartographie-de-la-blogosphere-politique/) justifie cette réponse. Puisque les forces indépendantes y sont les plus représentées, les thèmes indépendants, loin du clivage gauche-droite, y sont aussi les plus abondamment traités.
+Mon [billet sur la cartographie de la blogosphère politique](http://blog.tcrouzet.com/2007/02/13/cartographie-de-la-blogosphere-politique/) justifie cette réponse. Puisque les forces indépendantes y sont les plus représentées, les thèmes indépendants, loin du clivage gauche-droite, y sont aussi les plus abondamment traités.
 
 **Parenthèse avant de vraiment répondre**
 
@@ -24,11 +24,11 @@ Plus que jamais, nous avons besoin d’aventuriers.
 
 Quels territoires encore vierges commencent donc à explorer nos aventuriers ? Je ne peux qu’esquisser une liste très incomplète.
 
-- Nous devons apprendre à [mesurer la croissance](https://tcrouzet.com/2006/05/30/croissance-illusoire/) autrement qu’avec le seul PIB afin d’évaluer si nos sociétés progressent ou non.
+- Nous devons apprendre à [mesurer la croissance](http://blog.tcrouzet.com/2006/05/30/croissance-illusoire/) autrement qu’avec le seul PIB afin d’évaluer si nos sociétés progressent ou non.
 
-- Nous devons nous débrouiller pour que les [externalités négatives](https://tcrouzet.com/2007/02/06/jose-bove-live/) soient prises en compte dans le coût de tous les produits.
+- Nous devons nous débrouiller pour que les [externalités négatives](http://blog.tcrouzet.com/2007/02/06/jose-bove-live/) soient prises en compte dans le coût de tous les produits.
 
-- Nous devons tenir compte de l’[interdépendance](https://tcrouzet.com/2006/06/27/declaration-d%e2%80%99interdependance/) à chaque seconde.
+- Nous devons tenir compte de l’[interdépendance](http://blog.tcrouzet.com/2006/06/27/declaration-d%e2%80%99interdependance/) à chaque seconde.
 
 - Nous devons décentraliser car la centralisation est coûteuse et inefficace dès que les structures se complexifient.
 

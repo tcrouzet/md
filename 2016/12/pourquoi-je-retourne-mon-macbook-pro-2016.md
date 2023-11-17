@@ -4,7 +4,7 @@ Mon précédent MacBook Pro a trois ans (acheté en décembre 2013). J’ai l’
 
 Je passe mon temps sur mon ordi et j’aime avoir ce qui se fait de mieux sous les yeux. J’ai donc choisi un 13 pouces avec 500 Go de stockage, un processeur i5 cadencé à 3,1 GHz et bien sûr la fameuse Touch Bar avec un Touch Id tout en bout. Facture : 2319 €, je passe câbles et adaptateurs.
 
-![](https://tcrouzet.com/images_tc/2016/12/mac1.png)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/mac1.png)
 
 ### 6 décembre
 
@@ -24,7 +24,7 @@ Pourquoi ce clavier est-il merdique ? Parce qu’Apple veut des machines toujou
 
 Je tente d’écrire, de voir si les mots coulent avec plus de fluidité, non, ça va prendre du temps d’oublier l’ancien clavier (je dois perdre l’habitude de ce qui était agréable tout ça pour gagner quelques millimètres d’épaisseur, cherchez le bug).
 
-![](https://tcrouzet.com/images_tc/2016/12/2mac.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/2mac.jpg)
 
 ### 7 décembre
 
@@ -32,15 +32,15 @@ Au deuxième jour, je ne vois toujours pas l’utilité de la Touch Bar, même s
 
 En prime, j’ai l’icône violacée de Siri sous les yeux à longueur de temps, alors que je n’utilise pas Siri et que je ne l’ai pas activé. J’ai ainsi la preuve que le Touch Bar est une innovation mal intégrée au MacOS, de toute évidence un pas vers l’écran tactile, après que Jonathan Ive ait clamé durant des années « Jamais sur Mac. ». A-t-il peur de se contredire et d’y aller franchement ?
 
-Quand ma main se porte vers l’écran tactile de mon iPad Pro muni d’un clavier Apple (preuve qu’une machine tactile avec clavier, c’est envisageable même par Apple), elle change de plan, change de logique, alors que quand elle reste sur le plan du clavier, mon cerveau a du mal à intégrer la nécessité brutale de changer de gestuelle.
+Quand ma main se porte vers l’écran tactile de mon iPad Pro muni d’un clavier Apple (preuve qu'une machine tactile avec clavier, c'est envisageable même par Apple), elle change de plan, change de logique, alors que quand elle reste sur le plan du clavier, mon cerveau a du mal à intégrer la nécessité brutale de changer de gestuelle.
 
-Passer sur une même surface de la frappe raide au touché caressant de l’écran tactile de la Touch Bar, c’est comme si dans le noir, j’avançais dans ma chambre et me heurtais soudain à quelque chose de mou et de gluant. Il me faudra longtemps pour m’accoutumer à cette étrangeté (je ne regarde pas mon clavier quand j’écris, je suis comme dans le noir).
+Passer sur une même surface de la frappe raide au touché caressant de l’écran tactile de la Touch Bar, c’est comme si dans le noir, j’avançais dans ma chambre et me heurtais soudain à quelque chose de mou et de gluant. Il me faudra longtemps pour m’accoutumer à cette étrangeté (je ne regarde pas mon clavier quand j'écris, je suis comme dans le noir).
 
 J’ai tout simplement du mal à saisir la logique d’Apple. Quand on observe le clavier du Mac, allant de l’avant vers l’arrière, on a d’abord l’immense trackpad, génial, super sensible super agréable, d’une douceur sensuelle, puis on passe au clavier, sec, violent, avant de basculer sur la Touch Bar qui offre une troisième expérience sensitive, à nouveau toute en volupté. Ça fait beaucoup de zones érogènes pour une surface pas plus grande qu’une feuille A4.
 
-Le trackpad exige que mes mains quittent le clavier. Je dois les reculer, ce qui suffit à me mettre dans un autre mode (tout cela sans que j’ai besoin de mes yeux). La Touch Bar ne me procure pas la même sensation, puisqu’elle est à bout de doigts, comme l’étaient les touches de fonction (et comme elle se redessine sans cesse, elle invoque systématiquement le regard). Pour moi, le clavier, c’est la zone du touché seul. Mes yeux, je les veux sur l’écran et pas ailleurs (voilà pourquoi un écran tactile est possible).
+Le trackpad exige que mes mains quittent le clavier. Je dois les reculer, ce qui suffit à me mettre dans un autre mode (tout cela sans que j'ai besoin de mes yeux). La Touch Bar ne me procure pas la même sensation, puisqu’elle est à bout de doigts, comme l’étaient les touches de fonction (et comme elle se redessine sans cesse, elle invoque systématiquement le regard). Pour moi, le clavier, c'est la zone du touché seul. Mes yeux, je les veux sur l'écran et pas ailleurs (voilà pourquoi un écran tactile est possible).
 
-Je suis très sceptique sur cette Touch Bar, surtout en constatant que chez Ulysses il n’ont pas su quoi en faire, sinon à m’afficher des boutons vers les raccourcis clavier que je connais par cœur. Toutes ces icônes ont même tendance à me distraire plus qu’autre chose. Des gadgets qui n’ont rien à faire sur une machine affublée du sobriquet « Pro » (lorsqu’on écrit, la Touch Bar suggère des mots comme un téléphone, c’est ridicule, heureusement on peut désactiver cette fonction, en cherchant bien, car pas de paramétrage spécifique pour la Touch Bar).
+Je suis très sceptique sur cette Touch Bar, surtout en constatant que chez Ulysses il n’ont pas su quoi en faire, sinon à m’afficher des boutons vers les raccourcis clavier que je connais par cœur. Toutes ces icônes ont même tendance à me distraire plus qu’autre chose. Des gadgets qui n’ont rien à faire sur une machine affublée du sobriquet « Pro » (lorsqu'on écrit, la Touch Bar suggère des mots comme un téléphone, c'est ridicule, heureusement on peut désactiver cette fonction, en cherchant bien, car pas de paramétrage spécifique pour la Touch Bar).
 
 Je me fais vieux, je deviens peut-être résistant au changement. La Touch Bar a au moins le mérite de m’avoir fait découvert un de mes tics. J’étais sur Chrome en train de lire un billet de blog. J’ai voulu cliquer sur un lien, mais ça ne marchait pas. Le curseur de la souris clignotait, puis le Mac s’est mis à émettre des borborygmes bizarres. En désespoir de cause, j’ai planté Chrome. Quelques minutes plus tard, le même problème se répète. Il me faut un bon moment pour comprendre son origine.
 
@@ -78,7 +78,7 @@ Bilan : pas impressionné par les perfs, même si la machine est plus rapide bi
 
 En conclusion, j’attendrai un an la prochaine génération, en espérant que le clavier et l’écran seront plus à mon goût.
 
-![](https://tcrouzet.com/images_tc/2016/12/mac2.png)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/mac2.png)
 
 ### 9 décembre
 
@@ -93,3 +93,5 @@ Sur le fond, je questionne la stratégie d’Apple. Leur refus de l’écran tac
 J’ai lu les réponses de Ive à ce sujet, vraiment pas convaincantes. Apple a du mal à se renouveler. Nous vivons encore sur l’héritage Steve Jobs. Ça ne pourra pas durer éternellement, surtout pour les utilisateurs Pro.
 
 Au fait, j’ai toujours la pulpe des doigts innervés après mes deux journées passées sur le MacBook Pro 2016.
+
+Tags: Cuisine, une

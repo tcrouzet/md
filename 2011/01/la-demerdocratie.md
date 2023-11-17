@@ -18,7 +18,7 @@ Avec ce brulot, Thierry Crouzet renvoie dans les cordes la droite et la gauche. 
 
 Rappeler des espoirs fous éveillés par Obama et montrer que rien n’a changé après l’élection. Non qu’Obama démérite, mais parce qu’un seul homme ne peut changer la face du monde. Nous ne vivons plus au temps d’Alexandre le Grand, de Napoléon ou de Churchill. Dans un monde complexe, c’est-à-dire massivement décentralisé, il n’existe pas de point culminant où on peut se percher et jouer au chef d’orchestre. La solution ne peut plus venir d’un homme providentiel (ou d’une femme). Elle doit être distribuée entre une multitude d’individus. Il n’y a pas une idée miracle mais une multitude d’idées intéressantes et qui valent la peine d’être expérimentées. C’est la démerdocratie.
 
-### Première partie – Le théâtre politique
+### Première partie - Le théâtre politique
 
 À chaque élection pourtant, les politiciens nous jurent qu’ils nous sauveront. Ils y croient, nous avons envie de les croire, malheureusement nous dessaoulons très vite. Si nous avons envie de rêver, il serait peut-être préférable de nous amuser avec autre chose que le destin de nos sociétés.
 
@@ -32,7 +32,7 @@ On observe aussi cet écroulement sous le poids de la complexité dans les écos
 
 1/ L’effondrement.
 
-2/ La régression, c’est-à-dire le retour à un niveau de complexité plus faible où les anciennes méthodes politiques restent opérantes.
+2/ La régression, c'est-à-dire le retour à un niveau de complexité plus faible où les anciennes méthodes politiques restent opérantes.
 
 3/ La transition vers un ordre de complexité supérieur mais qui implique l’adoption de nouvelles méthodes de vivre ensemble.
 
@@ -40,7 +40,7 @@ L’effondrement n’est pas souhaitable. Beaucoup d’hommes politiques aimerai
 
 ### Interlude
 
-![](https://tcrouzet.com/images_tc/2011/01/2087369666_569a2afd8a1.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/2087369666_569a2afd8a1-450x337.jpg)
 
 Dans l’histoire les structures de pouvoir existantes ont souvent été remises en cause pour presque toujours conduire à des structures de pouvoir comparables. Avant, on avait une structure pyramidale, après aussi. Processus merveilleusement décrit dans *Le Guépard*.
 
@@ -48,9 +48,9 @@ Il n’y a guère qu’un exemple d’envergure où les insurgés ont tenté d�
 
 L’analyse de cet échec peut nous servir d’enseignement. Nous avons depuis effectué de nombreuses découvertes conceptuelles, techniques et théoriques qui nous placent dans une situation différente. Nous n’avons même plus besoin de prendre les armes et de tout casser pour changer le monde.
 
-### Partie 2 – La démerdocratie
+### Partie 2 - La démerdocratie
 
-Un marteau peut servir de métaphore au management. On peut taper comme une brute, ou marteler avec douceur ou mal tenir le clou et se massacrer la main. La façon d’utiliser un outil influence le résultat et dicte dans une certaine mesure ce qu’on peut faire. L’outil influence celui qui l’utilise.
+Un marteau peut servir de métaphore au management. On peut taper comme une brute, ou marteler avec douceur ou mal tenir le clou et se massacrer la main. La façon d’utiliser un outil influence le résultat et dicte dans une certaine mesure ce qu’on peut faire. L’outil influence celui qui l'utilise.
 
 Si un politicien de gauche et un politicien de droite utilisent le même marteau (l’État par exemple) et s’en servent tous deux de la même manière (top down), ils iront plus ou moins dans la même direction. Leurs idées peuvent être en théories très différentes, au final nous n’observons aucun changement d’envergure. En prime, si l’outil et les méthodes d’usage ne sont pas compatibles avec la complexité, nous sommes dans une situation plus qu’incertaine. Elles nous conduisent soit vers l’effondrement, soit vers la régression (qui ne peut que s’accompagner d’une terrible dictature).
 
@@ -66,8 +66,10 @@ Et on découvre des usages d’Internet underground. Des échanges de recettes. 
 
 ### Épilogue
 
-Faut-il encore voter ? La question se pose. Si les politiciens usent de méthodes inefficaces pourquoi perdre du temps à s’intéresser à leurs agitations ? Le démerdocrate n’est pas un militant, c’est un activiste. Il agit, il manage par l’exemple. Il change d’abord le monde autour de lui avant de dire aux autres de l’imiter (tactique de Gandhi). Son action n’est pas incompatible avec la grande politique, elle est parallèle. Elles peuvent se rencontrer de temps à autre mais, si la complexité s’accroît, la démerdocratie ne cessera de se répandre alors que la démocratie s’affaiblira.
+Faut-il encore voter ? La question se pose. Si les politiciens usent de méthodes inefficaces pourquoi perdre du temps à s’intéresser à leurs agitations ? Le démerdocrate n’est pas un militant, c’est un activiste. Il agit, il manage par l’exemple. Il change d’abord le monde autour de lui avant de dire aux autres de l’imiter (tactique de Gandhi). Son action n’est pas incompatible avec la grande politique, elle est parallèle. Elles peuvent se rencontrer de temps à autre mais, si la complexité s’accroît, la démerdocratie ne cessera de se répandre alors que la démocratie s'affaiblira.
 
 La démerdocratie sera-t-elle encore démocratique ? Oui, elle en intègrera toutes les avancées pour le peuple et les étendra dans un monde sans cesse plus complexe. Le livre montrera que la liberté s’accroît avec la complexité. Que donc accepter la complexité, l’accompagner, c’est donner plus de chance à la liberté, à l’égalité et à la fraternité.
 
 *PS : C’est une idée. Je ne m’y lancerai qu’avec la carotte d’une avance et d’un contrat. Je préfère en attendant travailler pour la gloire à des sujets plus littéraires, qui d’ailleurs m’éloignent de ce blog en ce moment.*
+
+Tags: NetCulture

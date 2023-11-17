@@ -22,6 +22,8 @@ Je critique Serge mais la tentation de catégoriser est toujours forte. En le li
 
 Sans doute que beaucoup de romans de SF reposent sur cette structure triangulaire mais j’en vois beaucoup qui s’en échappent. La trame est souvent directe. Aller détruire un anneau pour sauver le monde. Il n’y pas d’arrière-pensée, juste le désir de bâtir des mondes possibles.
 
-Un texte de SF est toujours pour moi une simulation. On fait tourner un univers pour voir comment il évolue. On s’intéresse avant tout à ce qui interconnecte les êtres, on ne se place pas tant en eux qu’entre eux (et pour le coup on dit bye-bye au vingtième siècle).
+Un texte de SF est toujours pour moi une simulation. On fait tourner un univers pour voir comment il évolue. On s’intéresse avant tout à ce qui interconnecte les êtres, on ne se place pas tant en eux qu'entre eux (et pour le coup on dit bye-bye au vingtième siècle).
 
 Les auteurs de SF font de la politique. Et ceux qui plongent dans cet entre les gens prendront de plus en plus d’importance en même temps que leurs simulations rejoindront peut-être la réalité des hommes. Le jour où nous vivront avec des androïdes, Asimov sera plus littéraire que Proust.
+
+Tags: Critique, SF

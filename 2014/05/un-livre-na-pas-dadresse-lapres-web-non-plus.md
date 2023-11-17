@@ -28,8 +28,12 @@ La fin des liens nous pousse à réinventer le Web. À tout remettre à zéro. N
 
 Si je suis capable de rêver de cette évolution, c’est qu’elle est déjà en germe quelque part. Sa nécessité est désormais trop grande pour qu’elle n’advienne pas très vite, d’autant que les silos tentent de découper le Web originel en mondes hétérogènes. Nous devons les subvertir par des entités transversales. Des anguilles virtuelles qui n’ont besoin que d’un peu de mémoire et de puissance de calcul.
 
-Nous n’avons en priorité ni besoin d’open data ni de big data, mais de living data.
+Nous n'avons en priorité ni besoin d'open data ni de big data, mais de living data.
 
-*PS : En 2009, quand j’ai écrit [Vers un web sans site web](https://tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/), je n’avais pas encore une vision claire de comment nous aboutirions à ce résultat.*
+*PS : En 2009, quand j'ai écrit [Vers un web sans site web](http://blog.tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/), je n'avais pas encore une vision claire de comment nous aboutirions à ce résultat.*
 
-![Tim Berners-Lee on the Next Web (TED, 2009)... qui n'est à ce stade que l'ancien Web.](https://tcrouzet.com/images_tc/2014/05/livingdata.png)
+![Tim Berners-Lee on the Next Web (TED, 2009)... qui n'est à ce stade que l'ancien Web.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/livingdata.png)
+
+
+
+Tags: NetCulture, une

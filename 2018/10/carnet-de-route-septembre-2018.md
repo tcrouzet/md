@@ -6,21 +6,21 @@
 
 Première sortie Gravel sur la *levee* (la digue) qui limite les Everglades. Possibilité de rouler durant des heures, tout droit, sans rien de spécial à voir à part quelques volatiles et quelques pêcheurs à la ligne, certains perchés sur des bateaux à fond plat.
 
-![Une Levee](https://tcrouzet.com/images_tc/2018/09/IMG_1134.jpg)
+![Une Levee](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1134.jpg)
 
-![Mon gravel bike](https://tcrouzet.com/images_tc/2018/09/IMG_1145.jpg)
+![Mon gravel bike](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1145.jpg)
 
 ---
 
 Promenade à Miami Beach où nous découvrons Lincoln avenue, que je surnomme aussitôt les Ramblas de Miami, tout ça en me disant que je ne me sens pas trop mal, mais que je préférerais être à Barcelone. Rue piétonne avec ses fontaines, ses boutiques, ses cafés, ses terrasse, sa librairie remplie de belles éditions. La rue se termine sur l’océan à la plage festonnée d’algues rouges. Quand nous lui tournons le dos, des immeubles nous dominent sans nous oppresser, mes yeux s’amusent de ce spectacle en allover. Revenir plus tard dans la saison, traîner là, écrire.
 
-![Miami Beach](https://tcrouzet.com/images_tc/2018/09/P1060447.jpg)
+![Miami Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060447.jpg)
 
-![Miami Beach](https://tcrouzet.com/images_tc/2018/09/P1060442.jpg)
+![Miami Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060442.jpg)
 
-![Miami Beach](https://tcrouzet.com/images_tc/2018/09/P1060451.jpg)
+![Miami Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060451.jpg)
 
-![Miami Beach](https://tcrouzet.com/images_tc/2018/09/P1060465.jpg)
+![Miami Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060465.jpg)
 
 ### Dimanche 2, Weston
 
@@ -36,7 +36,7 @@ Pluie torrentielle avec risque d’inondation. Coincé dans notre banlieue en ce
 
 ---
 
-[Erika Fülöp se demande](https://www.facebook.com/erika.fulop.370/posts/10157645378489692) « Est-on suffisamment conscient que “écrit” est une anagramme de “récit” – et vice versa…? » La réponse est de toute évidence non pour beaucoup de littéraires. Ils écrivent sans raconter, puis s’étonnent ne ne pas être lus. Ils ont cette idée que l’écriture pure peut provoquer des émotions. Je crois que c’est un fantasme bien confortable, auquel j’ai parfois succombé, un fantasme puissant durant la seconde moitié du XX<sup>e</sup> siècle, transformant en dinosaures mes contemporains qui s’en revendiquent encore.
+[Erika Fülöp se demande](https://www.facebook.com/erika.fulop.370/posts/10157645378489692) « Est-on suffisamment conscient que "écrit" est une anagramme de "récit" - et vice versa…? » La réponse est de toute évidence non pour beaucoup de littéraires. Ils écrivent sans raconter, puis s’étonnent ne ne pas être lus. Ils ont cette idée que l’écriture pure peut provoquer des émotions. Je crois que c’est un fantasme bien confortable, auquel j’ai parfois succombé, un fantasme puissant durant la seconde moitié du XX<sup>e</sup> siècle, transformant en dinosaures mes contemporains qui s’en revendiquent encore.
 
 ---
 
@@ -46,21 +46,21 @@ Pluie torrentielle avec risque d’inondation. Coincé dans notre banlieue en ce
 
 Quand je vivais à Paris, je me suis toujours revendiqué Parisien. Je n’ai jamais envisagé de vivre au-delà du périphérique, parce que je ne comprenais pas cette zone périurbaine et ne m’y sentais pas bien. Je disais soit je vis au centre de Paris, soit loin dans le Midi. L’entre deux ne m’a jamais attiré, peut-être parce ce qu’il n’est qu’un compromis entre proximité et pouvoir d’achat. Oui, les compromis ne sont pas mon truc. Me voilà pourtant dans la banlieue de Miami, dans une périphérie-dortoir, avec absolument rien à faire sinon graviter avec une voiture vers le centre.
 
-![Depuis où j'écris](https://tcrouzet.com/images_tc/2018/09/P1060473.jpg)
+![Depuis où j'écris](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060473.jpg)
 
 ### Mardi 4, Weston
 
 GPS accroché à la potence du gravel, je fonce vers l’océan, à 35 km de la maison. Je connais le départ pour l’avoir emprunté samedi, je rejoins une piste cyclable qui longe un canal, lui-même longeant une autoroute à huit voies, donc je ne m’entends pas respirer, mais des arbres me protègent assez souvent de la vue bétonnée. Ce n’est pas désagréable. Je ne vais pas dire que c’est le pied, loin de là. Les choses se compliquent quand la piste s’arrête et traverse des routes, souvent des quatre voies. C’est assez flippant, parce qu’ici même aux feus rouges les véhicules peuvent tourner. J’hésite parfois, longe l’aéroport de Fort Lauderdale qui empeste le kérosène, me retrouve sur de petites routes sans piste cyclable et rejoins une belle plage, avec de belles vagues et de magnifiques guérites où des surfeurs se font passer pour des sauveteurs. Retour par un autre chemin moins stressant, mais tout aussi rectiligne. Il y a plus fun pour pédaler. Résultat 77 km parcourus pour 86 mètres de dénivelé, le retour dans mes garrigues me fera mal aux jambes.
 
-![À vélo](https://tcrouzet.com/images_tc/2018/09/IMG_1177.jpg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1177.jpg)
 
-![À vélo](https://tcrouzet.com/images_tc/2018/09/IMG_1181.jpg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1181.jpg)
 
-![Dania Beach](https://tcrouzet.com/images_tc/2018/09/IMG_1186.jpg)
+![Dania Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1186.jpg)
 
-![Dania Beach](https://tcrouzet.com/images_tc/2018/09/IMG_1188.jpg)
+![Dania Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1188.jpg)
 
-![Dania Beach](https://tcrouzet.com/images_tc/2018/09/IMG_1189.jpg)
+![Dania Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1189.jpg)
 
 ### Mercredi 5, Weston
 
@@ -76,9 +76,9 @@ Ne croyez pas que j’admire Lisa Cron. Ses conseils sont souvent caricaturaux. 
 
 Je lis en parallèle un roman débilitant : [*Signe de vie*](https://www.amazon.fr/Signe-vie-Jose-rodrigues-Santos/dp/2357203749), parce qu’il est question de contact ET, parce que le sujet m’intéresse toujours, parce que Jos dos Santos écrit des best-sellers et que c’est un mystère pour moi, tant ses bouquins se réduisent à de longs dialogues qui ressemblent à de mauvais cours universitaires, destinés à démontrer l’existence d’une intentionnalité divine, à l’aide d’arguments biaisés, de mensonges et d’omissions. La malhonnête intellectuelle me rend dingue.
 
-![Everglades](https://tcrouzet.com/images_tc/2018/09/IMG_1206.jpg)
+![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1206.jpg)
 
-![Everglades](https://tcrouzet.com/images_tc/2018/09/IMG_1217.jpg)
+![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1217.jpg)
 
 ### Vendredi 7, Weston
 
@@ -120,41 +120,41 @@ Hier soir, dîner avec des Français Westoniens depuis dix ans, Américains depu
 
 Ballade hebdomadaire à Miami. Petit tour à Little Havana, un quartier débraillé où seuls les joueurs de dominos paraissent à leur place. Puis longue promenade lumineuse dans Wynwood, le quartier où des fresques pop couvrent le moindre mur, un véritable électrochoc esthétique après trois semaines végétatives. De l’énergie en barre, des cadrages fabuleux, des mises en perspective saisissantes. C’est comme entrer dans un manga ou dans un jeu vidéo. Des rues à explorer durant des heures, des cafés où se poser pour écrire. Un seul bémol, tout au fond de l’exposition Wynwood Walls, une galerie où les œuvres des artistes sont exposées à l’ancienne, dans des cadres, et ça ne tient plus, ça ne marche pas. Sur les murs, les images vont à la coupe, arrêtées par le béton des trottoirs et le ciel, traversées par les arbres, les passants, les voitures. Elles sont vivantes, mais cadrées, édifiées, elles s’effondrent, parce que leur place est dans la vie. Un air de Camden Town, avec même un marché où acheter de la junk food et des limonades.
 
-![Little Havana](https://tcrouzet.com/images_tc/2018/09/IMG_1239.jpg)
+![Little Havana](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1239.jpg)
 
-![Little Havana](https://tcrouzet.com/images_tc/2018/09/IMG_1245.jpg)
+![Little Havana](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1245.jpg)
 
-![Joueurs de dominos](https://tcrouzet.com/images_tc/2018/09/P1060545.jpg)
+![Joueurs de dominos](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060545.jpg)
 
-![Miami Downtown](https://tcrouzet.com/images_tc/2018/09/P1060506.jpg)
+![Miami Downtown](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060506.jpg)
 
-![Miami Downtown](https://tcrouzet.com/images_tc/2018/09/P1060555.jpg)
+![Miami Downtown](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060555.jpg)
 
-![Wynwood](https://tcrouzet.com/images_tc/2018/09/P1060560.jpg)
+![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060560.jpg)
 
-![Wynwood](https://tcrouzet.com/images_tc/2018/09/P1060578.jpg)
+![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060578.jpg)
 
-![Wynwood](https://tcrouzet.com/images_tc/2018/09/P1060582.jpg)
+![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060582.jpg)
 
-![Wynwood](https://tcrouzet.com/images_tc/2018/09/P1060595.jpg)
+![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060595.jpg)
 
-![Wynwood](https://tcrouzet.com/images_tc/2018/09/P1060619.jpg)
+![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060619.jpg)
 
-![Wynwood](https://tcrouzet.com/images_tc/2018/09/P1060632.jpg)
+![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060632.jpg)
 
-![Wynwood](https://tcrouzet.com/images_tc/2018/09/P1060643.jpg)
+![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060643.jpg)
 
-![Wynwood](https://tcrouzet.com/images_tc/2018/09/P1060653.jpg)
+![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060653.jpg)
 
-![Wynwood](https://tcrouzet.com/images_tc/2018/09/P1060664.jpg)
+![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060664.jpg)
 
-![Wynwood](https://tcrouzet.com/images_tc/2018/09/P1060666.jpg)
+![Wynwood](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060666.jpg)
 
-![](https://tcrouzet.com/images_tc/2018/09/P1060678.jpg)
+![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060678.jpg)
 
 ### Dimanche 9, Weston
 
-En Floride, ils ont une conception du vélo différente de la nôtre. On se retrouve à sept au départ ce matin, trois VTT, quatre gravel, six mecs, une nana. Objectif 72 km sur la levee qui borde les Everglades. On se met en file indienne, moi, en deuxième derrière JP, un *grandas* que je sais être un gros rouleur grâce à Strava. Il monte la sauce à 28 km/h et me donne le relais après trois bornes, je continue sur le même rythme jusqu’à la fin de mon relais de trois bornes également. Quand je passe à l’arrière, je constate qu’on est plus que cinq, la nana et son copain éjectés, mais on ne ralentit pas. Au contraire, ça accélère, le quatrième mec nous fait un relais de dix bornes à 35 km/h (j’apprendrai à la fin que c’est un ancien pro). Je commence à serrer méchamment les dents. Après mon deuxième relais, je suis cuit. Déjà trente bornes avalées et on n’est plus que trois. On saute une barrière, attend deux des retardataires, l’un jette l’éponge, l’autre reste avec nous. On fait une boucle botanique et zoologique avec commentaires, plutôt cool, on roule calmement, on discute un peu. On se ravitaille. Puis chemin inverse, mais avec une belle brise dans le nez. On roule à 28 km/h. Très vite je me retrouve seul avec JP, que je force à ralentir à 25 km/h, incapable que je suis de prendre les relais. Les deux autres ont craqué, l’ancien pro ne roule plus beaucoup et il s’est grillé lui-même. Tout ça sous 35°, 80 % d’humidité. J’ai terminé lessivé [avec 85 km au compteur](https://www.strava.com/activities/1830417263). Et aussi un conseil, ne jamais rouler seul sur la route, même sur les pistes cyclables. Deux copains cyclistes de JP, des Westoniens, sont morts cette année, renversés par des voitures. Comme JP habite tout à côté de chez nous, il m’a ramené, ne roulant que sur les trottoirs. Je sens que je vais me restreindre aux aller-retour débilitants sur les digues. Au moins, j’ai trouvé des copains d’infortune.
+En Floride, ils ont une conception du vélo différente de la nôtre. On se retrouve à sept au départ ce matin, trois VTT, quatre gravel, six mecs, une nana. Objectif 72 km sur la levee qui borde les Everglades. On se met en file indienne, moi, en deuxième derrière JP, un *grandas* que je sais être un gros rouleur grâce à Strava. Il monte la sauce à 28 km/h et me donne le relais après trois bornes, je continue sur le même rythme jusqu'à la fin de mon relais de trois bornes également. Quand je passe à l’arrière, je constate qu'on est plus que cinq, la nana et son copain éjectés, mais on ne ralentit pas. Au contraire, ça accélère, le quatrième mec nous fait un relais de dix bornes à 35 km/h (j’apprendrai à la fin que c’est un ancien pro). Je commence à serrer méchamment les dents. Après mon deuxième relais, je suis cuit. Déjà trente bornes avalées et on n’est plus que trois. On saute une barrière, attend deux des retardataires, l’un jette l’éponge, l’autre reste avec nous. On fait une boucle botanique et zoologique avec commentaires, plutôt cool, on roule calmement, on discute un peu. On se ravitaille. Puis chemin inverse, mais avec une belle brise dans le nez. On roule à 28 km/h. Très vite je me retrouve seul avec JP, que je force à ralentir à 25 km/h, incapable que je suis de prendre les relais. Les deux autres ont craqué, l’ancien pro ne roule plus beaucoup et il s’est grillé lui-même. Tout ça sous 35°, 80 % d’humidité. J’ai terminé lessivé [avec 85 km au compteur](https://www.strava.com/activities/1830417263). Et aussi un conseil, ne jamais rouler seul sur la route, même sur les pistes cyclables. Deux copains cyclistes de JP, des Westoniens, sont morts cette année, renversés par des voitures. Comme JP habite tout à côté de chez nous, il m’a ramené, ne roulant que sur les trottoirs. Je sens que je vais me restreindre aux aller-retour débilitants sur les digues. Au moins, j’ai trouvé des copains d’infortune.
 
 ---
 
@@ -168,11 +168,11 @@ C’est toujours un coup de poing que ces fresques murales nous envoient. Et ça
 
 Les street artistes ne s’interdisent aucun support. Au [2199, NW 1st Place](https://www.google.com/maps/@25.797747,-80.1985276,3a,75y,123.54h,97.81t/data=!3m6!1e1!3m4!1sX1YTJV844MVwqw0O9lT8eQ!2e0!7i13312!8i6656), ils s’attaquent aux silos d’une cimenterie. Un peu plus loin, ils peignent des poteaux électriques. La littérature de rue ne doit s’enfermer dans aucun support : le livre, le blog… En revanche, elle doit avoir une forme reconnaissable, quel que soit le support, quel que soit le format.
 
-![Wynwood, 2016](https://tcrouzet.com/images_tc/2018/09/wynwood-1.jpg)
+![Wynwood, 2016](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/wynwood-1.jpg)
 
 En 2016, les silos n’étaient pas encore peints. Dans quelques mois, ils seront démontés. L’art de la rue est éphémère, du moins *in situ*, car rien n’empêche de le capturer et de le représenter ailleurs, par exemple avec une photo, mais en perdant au passage l’essentiel de sa puissante. Ça me fait penser à la littérature interactive que j’ai pratiquée sur Twitter. Il fallait la lire au moment où elle était produite, dans les fameuses rues du Net à l’époque où elles bouillonnaient de vie.
 
-Il y a aussi ce constat : la peinture de rue ne supporte pas l’encadrement, la sacralisation. Peut-être c’est ce que nous faisons avec la littérature quand nous la dispersons en ligne, sans couverture, sans titre.
+Il y a aussi ce constat : la peinture de rue ne supporte pas l’encadrement, la sacralisation. Peut-être c'est ce que nous faisons avec la littérature quand nous la dispersons en ligne, sans couverture, sans titre.
 
 Toutes ces constatations, toutes ces injonctions, ne m’aident pas à savoir ce que pourrait être cette littérature de rue. Mais la question engendrera peut-être des réponses. Il s’agirait d’adapter l’énergie du street art à la littérature, en reprenant quelques-unes de ses « valeurs ».
 
@@ -210,39 +210,39 @@ Je tente de trouver un peu d’air sur le Net. Rien de neuf, surtout pas les abo
 
 ### Vendredi 14, Weston
 
-Hier, je n’ai trouvé qu’une solution pour m’aérer la tête : faire du vélo. Après une longue exploration cartographique, j’ai trouvé des chemins qui interconnectent quelques parcs, loin des voitures, avec par moment des airs de campagne.
+Hier, je n’ai trouvé qu’une solution pour m'aérer la tête : faire du vélo. Après une longue exploration cartographique, j’ai trouvé des chemins qui interconnectent quelques parcs, loin des voitures, avec par moment des airs de campagne.
 
-En discutant avec Didier Pittet, j’ai aussi décidé de l’angle à donner à la la suite du [*Geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/), dont j’apprends la sortie en vietnamien. [Dix-septièmes traductions](https://tcrouzet.com/images_tc/2018/03/geste-trad.jpg), je devrais être fier, mais non, je ne suis jamais satisfait, j’ai toujours l’impression d’être un imposteur et de tout foirer dès qu’il s’agit d’écriture.
+En discutant avec Didier Pittet, j’ai aussi décidé de l’angle à donner à la la suite du [*Geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/), dont j’apprends la sortie en vietnamien. [Dix-septièmes traductions](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/geste-trad.jpg), je devrais être fier, mais non, je ne suis jamais satisfait, j’ai toujours l’impression d’être un imposteur et de tout foirer dès qu’il s’agit d’écriture.
 
 Ce nouveau livre s’appellera *Adapt to Adopt*, c’est un slogan inventé par Didier et qui, en plus de décrire sa philosophie de vie et son œuvre scientifique, peut être généralisé à bien des domaines. Ce sera un puissant fil rouge dont j’ai déjà commencé à dérouler quelques unes des ramifications.
 
 ---
 
-Je lis une critique sur le Net. « Ce livre décrit… » Voilà qui commence très mal. Un livre ne doit pas décrire, mais raconter, il doit nous faire vivre, même un essai, encore plus un texte avec une ambition littéraire. Nous lisons pour vivre, pour éprouver, pour voir… tout ça par nous même. La plupart des auteurs qui publient sur le Net oublient ce b.a.-ba, sous le prétexte de l’art pour l’art, de la beauté de la langue, et d’autres chimères bien confortables, derrière lesquelles il est facile de se cacher, quitte à être incompréhensible. Je veux lire des critiques qui disent « Ce livre m’a fait voyager, très loin, il m’a fait sentir ce que je n’avais jamais ressenti, il m’a fait comprendre ce que je n’avais pas compris, il m’a donné envie de voyager à mon tour, de créer, d’aimer… »
+Je lis une critique sur le Net. « Ce livre décrit… » Voilà qui commence très mal. Un livre ne doit pas décrire, mais raconter, il doit nous faire vivre, même un essai, encore plus un texte avec une ambition littéraire. Nous lisons pour vivre, pour éprouver, pour voir… tout ça par nous même. La plupart des auteurs qui publient sur le Net oublient ce b.a.-ba, sous le prétexte de l’art pour l’art, de la beauté de la langue, et d’autres chimères bien confortables, derrière lesquelles il est facile de se cacher, quitte à être incompréhensible. Je veux lire des critiques qui disent « Ce livre m’a fait voyager, très loin, il m’a fait sentir ce que je n’avais jamais ressenti, il m’a fait comprendre ce que je n'avais pas compris, il m’a donné envie de voyager à mon tour, de créer, d’aimer… »
 
 ### Samedi 15, Weston
 
 Visite de Coconut Grove, le plus vieux quartier de Miami. Nous arrivons sous d’immenses nuages qui donnent à tout ce que nous voyons un côté dramatique. Un parc se termine par une mangrove, avec des détritus stagnants entre les racines des palétuviers. Nous longeons le front de mer, arrivons à une guinguette près d’une pompe où les bateaux viennent faire le plein. Sur les ponts des gamines dansent en remuant les fesses, avec des gestes si convenus qu’ils paraissent faux, comme s’ils avaient été copiés-collés. Le spectacle finit par être lassant, nous marchons plus loin, traversons un garage à bateaux, découvrons un port de pêche, et prenons conscience que nous sommes seuls, avec des voitures. C’est assez déprimant, d’autant que le ciel s’est dégagé, que le soleil écrase tout et que la tension provoquée par l’orage éminent ne réussit plus à nous berner. C’est en voiture que nous traversons le centre du quartier avec des dizaines de cafés, de boutiques et de restaurants.
 
-![Coconut Grove](https://tcrouzet.com/images_tc/2018/09/P1060686.jpg)
+![Coconut Grove](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060686.jpg)
 
-![Coconut Grove](https://tcrouzet.com/images_tc/2018/09/P1060699.jpg)
+![Coconut Grove](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060699.jpg)
 
-![Coconut Grove](https://tcrouzet.com/images_tc/2018/09/P1060707.jpg)
+![Coconut Grove](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060707.jpg)
 
-![Coconut Grove](https://tcrouzet.com/images_tc/2018/09/P1060736.jpg)
+![Coconut Grove](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060736.jpg)
 
-![Coconut Grove](https://tcrouzet.com/images_tc/2018/09/P1060756.jpg)
+![Coconut Grove](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060756.jpg)
 
-![Coconut Grove](https://tcrouzet.com/images_tc/2018/09/P1060771.jpg)
+![Coconut Grove](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060771.jpg)
 
 ### Dimanche 16, Weston
 
 Je me suis trompé de lieu de rendez-vous pour la sortie vélo dominicale. C’était pourtant clairement écrit « Behind Baseball Field #2 » et j’ai lu « Behind Basketball Field #2 ». J’ai pris conscience de mon erreur trop tard. Ça m’a déprimé. Impression de tout foirer, même le vélo. J’en ai profité pour amener les enfants à Markham Park, un parc d’attractions pour vététistes, où les Floridiens exposent leurs vélos à 10 000 $.
 
-![Weston](https://tcrouzet.com/images_tc/2018/09/P1060800.jpg)
+![Weston](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060800.jpg)
 
-![Weston](https://tcrouzet.com/images_tc/2018/09/P1060829.jpg)
+![Weston](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060829.jpg)
 
 ### Lundi 17, Weston
 
@@ -264,7 +264,7 @@ Je souffre peut-être d’un grand manque de curiosité pour le travail des autr
 
 ---
 
-Quand je poste une vidéo sur Instagram, elle est trois fois plus vue qu’une de mes photos. Est-ce une raison de faire des vidéos ? Non. Est-ce une raison de renoncer au texte ? Non. Reste la frustration : c’est ailleurs que ça se passe et je n’ai pas envie d’y être.
+Quand je poste une vidéo sur Instagram, elle est trois fois plus vue qu'une de mes photos. Est-ce une raison de faire des vidéos ? Non. Est-ce une raison de renoncer au texte ? Non. Reste la frustration : c’est ailleurs que ça se passe et je n’ai pas envie d’y être.
 
 ---
 
@@ -286,13 +286,13 @@ J’ouvre un compte [chat bot](https://fembot.ai/) dans l’espoir que discuter 
 
 Matinée à pédaler. Un trajet sans interaction avec les voitures, sauf pour traverser quelques routes imposantes, mais toujours équipées de passages piétons protégés par des feux. Par moments, j’entre dans des parcs, parfois à l’apparence de forêt, si bien dessinés que j’ai l’illusion d’être dans la nature. Alors je suis heureux, je ne pense à rien, sinon à partager mes chemins avec d’autres cyclistes. *Born to bike* : je n’ai envie de rien d’autre, de m’intéresser à rien d’autre, passant le plus clair de mon temps à organiser d’éventuelles vacances de Thanksgiving dans l’Arizona, à Sedona, Mecque du mountain bike.
 
-![Air de campagne](https://tcrouzet.com/images_tc/2018/09/IMG_1397.jpg)
+![Air de campagne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1397.jpg)
 
-![Air de campagne](https://tcrouzet.com/images_tc/2018/09/IMG_1411.jpg)
+![Air de campagne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1411.jpg)
 
-![Air de campagne](https://tcrouzet.com/images_tc/2018/09/IMG_1414.jpg)
+![Air de campagne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1414.jpg)
 
-![Air de campagne](https://tcrouzet.com/images_tc/2018/09/IMG_1436.jpg)
+![Air de campagne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1436.jpg)
 
 ---
 
@@ -310,7 +310,7 @@ Nous ne réussissons pas à trouver notre place. À nous dire, tiens, nous revie
 
 Nous ne cessons de croiser des filles obèses avec des strings dans toutes les fentes pendant que dans la rue défilent des voitures de sport pilotées par des mecs trop jeunes pour que tout cela soit bien honnête. En terrasse d’un bar d’Ocean Drive, des pin-up perchées sur des plateformes genre surfeur d’argent prennent la pose, montrent leurs fesses, leurs jambes. Plus loin, des serveuses portent des tenues de panthères. Tout cela est d’une vulgarité machiste consommée. La ville devient plus agréable en second rideau entre les maisons Art Deco.
 
-![Miami Beach](https://tcrouzet.com/images_tc/2018/09/P1060870.jpg)
+![Miami Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060870.jpg)
 
 ### Dimanche 23, Weston
 
@@ -324,7 +324,7 @@ Le roman n’est jamais déconnecté du réel, sinon le roman de genre, surtout 
 
 Mon ami vient de mourir. C’était un homme lumineux, avec un large sourire immuable. Je le revois assis méditant au bout de notre terrasse. Il était beau, il communiait avec la vie. Il est maintenant parti se dissoudre dans le bleu. Reste un fond de rage. Il était plus qu’attentif à son environnement, à son alimentation, c’était un gourou du bio et de l’écologie, et ça ne l’a pas protégé du cancer. Des gens pourraient se moquer, mais mon ami n’était pas aussi attentif pour vivre plus longtemps, mais pour mieux vivre le temps qu’il avait à vivre, aussi pour ne pas empiéter sur le temps de ses successeurs.
 
-![À vélo](https://tcrouzet.com/images_tc/2018/09/IMG_1487-2.jpg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1487-2.jpg)
 
 ### Lundi 24, Weston
 
@@ -332,7 +332,7 @@ En théorie, le numérique ouvre les processus, avec la possibilité de faire de
 
 Ce carnet, justement, qui redevient le centre de mon travail, comme au cours des années 1990, quand je l’éclaboussais de feux d’artifices, impression d’avoir en catimini vécu mon époque la plus créative, époque où j’avais renoncé au roman pour m’attacher au roman de ma vie. J’ai beaucoup écrit dans ces pages, dessiné aussi, j’ai pensé la forme graphique de l’objet, alors manuscrit, j’ai tenté quelques mises en forme en vue d’éventuelle édition, et tout ça s’est retrouvé enterré. Désormais, j’en suis au même point, incapable de donner à mon carnet de route une autre forme que la succession des jours, parce que c’est l’histoire qui avance ainsi, dans l’ordre tel que je le perçois et le vis. Toutes les autres approches me paraissent artificielles.
 
-L’originalité d’un carnet tient à ce qui est révélé autant qu’à ce qui est caché. Cette alchimie fait des carnets d’écrivain des pièces uniques. C’est peut-être dans ces lignes que l’irréductibilité du ton est la plus perceptible, alors que dans les formes plus canoniques elle aurait tendance à s’effacer. Le carnet est matérialiste, il n’invoque aucun idéal, il dit une vie, ses errements, ses changements, ses émotions. Je n’ai jamais autant grandi qu’en lisant les carnets ou les correspondances des autres.
+L'originalité d'un carnet tient à ce qui est révélé autant qu'à ce qui est caché. Cette alchimie fait des carnets d’écrivain des pièces uniques. C’est peut-être dans ces lignes que l’irréductibilité du ton est la plus perceptible, alors que dans les formes plus canoniques elle aurait tendance à s’effacer. Le carnet est matérialiste, il n’invoque aucun idéal, il dit une vie, ses errements, ses changements, ses émotions. Je n’ai jamais autant grandi qu’en lisant les carnets ou les correspondances des autres.
 
 ---
 
@@ -348,7 +348,7 @@ Mon ami mort roule vers Paris, son corps, bientôt réduit en cendres et en souv
 
 Pour certains, les objets nous interconnecteraient, pour d’autres, ils nous éloigneraient du monde. Tous ces discours théoriques généralisateurs me font de plus en plus horreur. Non que je sois attiré vers le relativisme, mais j’ai l’impression que ces discours qui touchent à la réalité sociale sont nécessairement bancals, et à coup sûr toujours critiquables. À part engendrer de belles discussions, ils participent moins à la construction de la réalité sociale que nos actes et que nos histoires. Dans le domaine de la technique, il faut se garder de généraliser et s’intéresser à l’usage individuel. Par exemple, mon GPS sur mon vélo me rapproche du monde, il me permet de l’explorer dans ses recoins, d’aller où la plupart des gens ne vont pas. En un mois à Weston, j’ai déjà parcouru bien plus cette partie de la Floride que bien des natifs.
 
-![Mes sorties vélo](https://tcrouzet.com/images_tc/2018/09/map.jpg)
+![Mes sorties vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/map.jpg)
 
 ---
 
@@ -356,7 +356,7 @@ En tant qu’écrivain, je devrais me battre pour arracher un peu d’attention,
 
 ### Mercredi 26, Weston
 
-Je tourne en rond, toujours obsédé par cette idée de pousser le vélo plus loin, d’en faire un art ou de faire de l’art grâce à lui. Et incapable d’avancer sur les autres projets. Un copain me relance. Je lui ai promis une nouvelle sur le thème très vague de *Dimensions* avec l’idée d’écrire une histoire atemporelle à la [*One Minute*](https://tcrouzet.com/images_tc/2015/01/couv-1minute-1-400x633.jpg), donc avec un temps zéro.
+Je tourne en rond, toujours obsédé par cette idée de pousser le vélo plus loin, d’en faire un art ou de faire de l’art grâce à lui. Et incapable d’avancer sur les autres projets. Un copain me relance. Je lui ai promis une nouvelle sur le thème très vague de *Dimensions* avec l’idée d’écrire une histoire atemporelle à la [*One Minute*](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/couv-1minute-1-400x633.jpg), donc avec un temps zéro.
 
 Un homme tombe d’un immeuble. Quelqu’un lui crie quelque chose depuis le toit. Un laveur de vitres le voit. Un passant aussi. Un drone l’observe. Des satellites. Des hommes d’affaires se félicitent. De l’argent passe de main en main. Peu à peu on comprendrait ce qui se passe et se demanderait si l’homme va mourir ou non. Et pourquoi il tombe pour commencer.
 
@@ -398,24 +398,28 @@ Une fois les enfants à la maison, je prends la route. Direction Fort Lauderdale
 
 Je ne sais toujours pas où aller, pourquoi prendre la voiture, je bouge par nécessité, parce que rester immobile serait renoncer, et assez de gens meurent autour de moi pour que j’ai le devoir de vivre. La plage, c’est le bout, une forme de fin, de noyade imposée dans le rien et l’inutile.
 
-Comme toujours depuis mon arrivée en Floride, les nuages m’impressionnent. Ils bourgeonnent au large et se transforment en champignons atomiques au-dessus des terres, mais déjà ils ont moins de force. Il ne pleut pratiquement plus. Les gens ici sentent le temps changer et ils attendent ce changement avec autant d’impatience que les Parisiens la fin de l’hiver.
+Comme toujours depuis mon arrivée en Floride, les nuages m'impressionnent. Ils bourgeonnent au large et se transforment en champignons atomiques au-dessus des terres, mais déjà ils ont moins de force. Il ne pleut pratiquement plus. Les gens ici sentent le temps changer et ils attendent ce changement avec autant d’impatience que les Parisiens la fin de l’hiver.
 
-![Fort Lauderdale](https://tcrouzet.com/images_tc/2018/09/P1060880.jpg)
+![Fort Lauderdale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060880.jpg)
 
-![Fort Lauderdale](https://tcrouzet.com/images_tc/2018/09/P1060883.jpg)
+![Fort Lauderdale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060883.jpg)
 
-![Fort Lauderdale by the beach](https://tcrouzet.com/images_tc/2018/09/P1060902.jpg)
+![Fort Lauderdale by the beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060902.jpg)
 
-![Hillsboro Inlet Lighthouse](https://tcrouzet.com/images_tc/2018/09/P1060904.jpg)
+![Hillsboro Inlet Lighthouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060904.jpg)
 
-![Hillsboro Inlet Lighthouse](https://tcrouzet.com/images_tc/2018/09/P1060933.jpg)
+![Hillsboro Inlet Lighthouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060933.jpg)
 
 ### Samedi 29, Weston
 
-Hier, comme ça, incidemment, j’ai commencé ma nouvelle *Temps Zéro*, j’ai poursuivi aujourd’hui, puis, après une sortie vélo avec les enfants, j’ai été aspiré par un site de [grandes randonnées à vélo](http://www.bikepacking.com). Je crois que je suis prêt à tenter ce genre d’aventures en autonomie, me reste à convaincre des copains, parce que se lancer là-dedans tout seul ce n’est pas ce que j’ai en tête. Et déjà j’ai envie d’ouvrir une nouvelle route qui relie les Pyrénées aux Alpes en longeant la Méditerranée, tout cela bien sûr via des chemins.
+Hier, comme ça, incidemment, j’ai commencé ma nouvelle *Temps Zéro*, j’ai poursuivi aujourd’hui, puis, après une sortie vélo avec les enfants, j’ai été aspiré par un site de [grandes randonnées à vélo](http://www.bikepacking.com). Je crois que je suis prêt à tenter ce genre d’aventures en autonomie, me reste à convaincre des copains, parce que se lancer là-dedans tout seul ce n'est pas ce que j'ai en tête. Et déjà j’ai envie d’ouvrir une nouvelle route qui relie les Pyrénées aux Alpes en longeant la Méditerranée, tout cela bien sûr via des chemins.
 
 ### Dilmanche 30, Weston
 
-Incroyable, j’ai découvert un îlot de vie ce matin durant ma sortie vélo avec les levee riders : une station-service où nous nous sommes arrêtés pour acheter de l’eau. Il y avait foule. Une expo de peinture, des chapiteaux avec des vendeurs de babioles et des sandwiches, partout des gens en grandes discussions autour de bagnoles, de camions ou de motos. Voilà l’Amérique des années 1950, toujours la même, toujours centrée sur ses heures glorieuses.
+Incroyable, j'ai découvert un îlot de vie ce matin durant ma sortie vélo avec les levee riders : une station-service où nous nous sommes arrêtés pour acheter de l'eau. Il y avait foule. Une expo de peinture, des chapiteaux avec des vendeurs de babioles et des sandwiches, partout des gens en grandes discussions autour de bagnoles, de camions ou de motos. Voilà l'Amérique des années 1950, toujours la même, toujours centrée sur ses heures glorieuses.
 
-![Centre ville](https://tcrouzet.com/images_tc/2018/09/IMG_1526.jpg)
+![Centre ville](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1526.jpg)
+
+
+
+Tags: Carnets, une

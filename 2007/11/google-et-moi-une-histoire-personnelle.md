@@ -1,8 +1,8 @@
 # Google et moi : une histoire personnelle
 
-![Pacco](https://tcrouzet.com/images_tc/2007/11/google-et-moi.gif)
+![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/11/google-et-moi.gif)
 
-La théorie découle presque toujours de l’expérience. Ma philosophie n’est rien d’autre que ma vie. J’éprouve le besoin de vous raconter un petit bout de cette vie pour relativiser [ce qui m’arrive avec Google](https://tcrouzet.com/2007/11/19/google-hegemonique/).<span id="more-662"></span>
+La théorie découle presque toujours de l’expérience. Ma philosophie n’est rien d’autre que ma vie. J’éprouve le besoin de vous raconter un petit bout de cette vie pour relativiser [ce qui m’arrive avec Google](http://blog.tcrouzet.com/2007/11/19/google-hegemonique/).<span id="more-662"></span>
 
 Lorsque j’ai quitté la presse en 1994, je me suis juré de maximiser mon temps de liberté. J’ai décidé de gagner ce dont j’avais besoin pour vivre et de consacrer le reste de mon temps à l’écriture. En quelque sorte, j’ai renoncé à la croissance, au toujours plus. Certes, j’ai parfois des goûts de luxe et, si mon minimal est supérieur à celui de beaucoup de gens, je n’ai jamais cherché à dépasser cette limite auto-imposée. Je me suis simplement positionné à la place qui me permettait de mener une vie d’écrivain.
 
@@ -18,7 +18,7 @@ Fin 2003, Google lança son programme AdSense. J’intégrai leurs publicités d
 
 Aucun lecteur, aucun annonceur, ne s’est jamais plaint de notre mise en page. Les responsables du programme AdSense, parfaitement au courant de notre modèle économique, ne nous firent jamais le moindre reproche. Comme les revenus bonWeb 2003 avaient dépassé ceux de la version papier, nous l’interrompirent. Les internautes n’avaient plus besoin de livres pour apprendre à surfer. Internet se nourrissait de lui-même.
 
-Pour ma part, je consacrais l’essentiel de mon temps à [Ératosthène](https://tcrouzet.com/eratosthene/) tout en voyant le trafic de bonWeb progresser. Pour me maintenir à jour techniquement, j’ajoutais des fonctions : commentaires, notifications, blogs, search…
+Pour ma part, je consacrais l’essentiel de mon temps à [Ératosthène](http://blog.tcrouzet.com/eratosthene/) tout en voyant le trafic de bonWeb progresser. Pour me maintenir à jour techniquement, j’ajoutais des fonctions : commentaires, notifications, blogs, search…
 
 Un jour, début 2005 je crois, je me dis que lorsqu’un internaute lançait une recherche sur bonWeb, il fabriquait une nouvelle page bonWeb. C’était une façon de réorganiser les meilleurs sites, de proposer une nouvelle vision. Je créais alors un index de ces recherches, établissant un classement des plus populaires.
 
@@ -51,3 +51,5 @@ Je suis ouvert à vos conseils pour essayer de tendre vers un web plus proche de
 Pour que nous citoyens puissions devenir un cinquième pouvoir, il est vital que nous maîtrisions la technologie face aux géants d’internet. Nous devons, à tout moment, être capables d’opposer une force égale à la leur, voire supérieure. Je n’ai fait qu’apprendre maladroitement à jouer avec.
 
 Je vous avoue que je me suis beaucoup amusé. C’était et ça reste un jeu grandeur nature.
+
+Tags: Autobiographie, google

@@ -1,10 +1,10 @@
 # One Minute extraits
 
-La même minute racontée 380 fois, c’est [*One Minute*](https://tcrouzet.com/une-minute/), mon roman de science-fiction. Voici les cinq premiers chapitres.
+La même minute racontée 380 fois, c'est [*One Minute*](https://tcrouzet.com/une-minute/), mon roman de science-fiction. Voici les cinq premiers chapitres.
 
 ---
 
-### 1 – Versailles, France, 21:45
+### 1 - Versailles, France, 21:45
 
 Gabriel fait preuve d’une abnégation extraordinaire avec ses deux fils. Sans conviction, il leur lance pour la énième fois :
 
@@ -40,7 +40,7 @@ Gabriel sourit :
 
 — Et si on jouait à Cluedo ?
 
-### 2 – New York, États-Unis, 15:45
+### 2 - New York, États-Unis, 15:45
 
 Dans son bureau, au dernier étage du Time Warner Center, Cooper a la rage. Il marche de long en large au-dessus de Central Park, tape du poing contre les vitres, et quand il se tourne vers son écran géant, il y voit Sara Cash. Il n’a qu’une envie : l’écrabouiller.
 
@@ -58,7 +58,7 @@ Cooper savait pour le Président. Il connaissait son vice. Il n’avait qu’à 
 
 L’écran s’éteint. Cooper en est presque frustré : cette fille le tient.
 
-### 3 – Atacama, Chili, 16:45
+### 3 - Atacama, Chili, 16:45
 
 La nuit tombe sur le haut plateau glacial. Jimmy a l’impression d’être sur Mars, dans un avant-poste humain posé sur le sable rouge. Il zippe sa doudoune, rabat sa capuche et se glisse entre les paraboles de l’observatoire. Savoir qu’elles écoutent des galaxies lointaines l’exalte.
 
@@ -76,7 +76,7 @@ Jimmy ne voit pas comment deux coups de bol aussi monumentaux auraient pu se pro
 
 Cette évidence le frappe au moment où les balises sous les paraboles cessent de clignoter.
 
-### 4 – Versailles, France, 21:45
+### 4 - Versailles, France, 21:45
 
 Leur père leur parle, les deux frères ne l’entendent pas. Rivés à leur tablette, connectés à elle par le même écouteur dont ils se partagent les oreillettes, ils n’ont d’yeux que pour Sara Cash et sa *Révélation*, indifférents au rougeoiement du château de Louis XIV de l’autre côté de l’esplanade.
 
@@ -104,7 +104,7 @@ La lumière jaillit en eux. C’est d’autant plus surprenant qu’elle cesse e
 
 Il n’ont même pas entendu la suggestion de leur père.
 
-### 5 – Mumbai, Inde, 1:15
+### 5 - Mumbai, Inde, 1:15
 
 Pawan devrait dormir, mais il se donne encore cinq minutes pour tchatcher avec ses amis. Tard dans la nuit, c’est le seul moment potable. Le jour, les ergoteurs saturent InLine de leurs commentaires spirituels au sujet des news diffusées par les Networks. OK, on les qualifie de « médias dominants » par nostalgie, alors qu’ils n’ajoutent que du bruit au bruit pour noyer les conversations intimes et profondes. Le réseau croule sous une montagne de conneries. Pawan a de plus en plus souvent envie de rejoindre les hypos : se déconnecter, même si c’est strictement interdit depuis l’adoption de la loi 001 par les Nations Unies.
 
@@ -115,3 +115,5 @@ Il faut avouer qu’elle a du talent. Où va-t-elle chercher ses révélations 
 Pawan referme son portable. Il ne veut pas savoir de quoi il s’agit. La stupeur collective pourrait le figer dans une adoration malsaine. Il ne retombera pas dans le piège comme avec l’ancien Président américain. Cette fois, contrairement aux milliards toxicos, il résiste à la tentation d’être informé de faits sans influence sur son existence.
 
 Il se tourne vers la jalousie aux stores entrouverts. Les deux colonnes des Imperial Towers se dessinent en ombres chinoises sur la nuit chargée de vapeurs nauséabondes. Pollutions sonores, olfactives, visuelles, sociales. Mais une vague de silence et de ténèbres les balaye, ne subsistent que les miasmes qui masquent les étoiles. Pawan baisse les yeux vers son portable. Même le voyant de mise en veille ne clignote plus. Il a rejoint les hypos malgré lui.
+
+Tags: Buzz, Sur 1 minute, une

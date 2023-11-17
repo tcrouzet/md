@@ -20,13 +20,13 @@ Je lis le début d’un roman. Ambiance de neige dans les Cévennes. Un homme se
 
 Comme je suis dans un polar, je sais qu’il y aura un crime. Si j’étais dans un roman de SF, c’est un ET qu’on retrouverait bientôt transi de froid. Moi, je préférerais que cet homme solitaire trouve une femme, perdue, peut-être tombée en panne sur une route non loin, et cette rencontre suffirait à bouleverse sa vie. Connaître le genre d’un roman, c’est déjà en prévoir l’intrigue après quelques lignes.
 
-![Juste la lumière](https://tcrouzet.com/images_tc/2018/01/20171203-1.jpg)
+![Juste la lumière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171203-1.jpg)
 
 ### Lundi 4, Balaruc
 
-Pour ne pas tourner en rond, pour ne pas perdre la main, j’écris un chapitre de [*One Second*](https://www.wattpad.com/story/127859277-one-second), puis je code un plug-in WordPress pour exporter mon blog en Markdown, après je pourrai en faire des livres ou des ebooks. J’éprouve le besoin d’archiver, d’arracher mes textes à la fragilité de mon serveur, aussi de les figer, comme pour mieux tourner la page des années blogs.
+Pour ne pas tourner en rond, pour ne pas perdre la main, j’écris un chapitre de [*One Second*](https://www.wattpad.com/story/127859277-one-second), puis je code un plug-in Wordpress pour exporter mon blog en Markdown, après je pourrai en faire des livres ou des ebooks. J’éprouve le besoin d’archiver, d’arracher mes textes à la fragilité de mon serveur, aussi de les figer, comme pour mieux tourner la page des années blogs.
 
-![Les Pyrénées](https://tcrouzet.com/images_tc/2018/01/20171204-2.jpg)
+![Les Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171204-2.jpg)
 
 ### Mardi 5, Balaruc
 
@@ -34,13 +34,13 @@ Le mot juste. Les écrivains seraient attentifs au bon usage des mots. Cette aff
 
 ### Mercredi 6, Balaruc
 
-J’ai décidé de faire un dump de mon blog, sans la moindre édition. J’avais déjà publié les années 2006 et 2007, en faisant une sélection des articles, mais, là, j’ai un projet contraire, à visée exhaustive. Une sorte de photographie de mes pratiques internet. En parcourant l’année 2007, je me rends compte qu’à cette époque j’utilisais le blog comme un réseau social : je publiais des billets pour dire merci, pour annoncer un évènement, pour attirer l’attention vers une news… autant d’activités depuis centralisées sur les réseaux sociaux (et qui nous ont été dérobées). Le blog d’alors était vivant, il partait en tout sens.
+J’ai décidé de faire un dump de mon blog, sans la moindre édition. J’avais déjà publié les années 2006 et 2007, en faisant une sélection des articles, mais, là, j’ai un projet contraire, à visée exhaustive. Une sorte de photographie de mes pratiques internet. En parcourant l’année 2007, je me rends compte qu’à cette époque j’utilisais le blog comme un réseau social : je publiais des billets pour dire merci, pour annoncer un évènement, pour attirer l’attention vers une news… autant d'activités depuis centralisées sur les réseaux sociaux (et qui nous ont été dérobées). Le blog d’alors était vivant, il partait en tout sens.
 
 ### Jeudi 7, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2018/01/20171207-1.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171207-1.jpg)
 
-![Sète](https://tcrouzet.com/images_tc/2018/01/20171207-2.jpg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171207-2.jpg)
 
 ### Vendredi 8, Balaruc
 
@@ -56,17 +56,17 @@ Facebook ne cesse de me relancer par mail pour que je lise les messages de mes a
 
 ### Lundi 11, Balaruc
 
-Je me réveille avec un mail d’une éditrice : « Votre texte est fort, sans affectation. Mais je ne saurais pas le défendre. C’est un récit plus qu’un roman, en tout cas tel qu’il se présente. Et l’écriture manque un peu de travail à mon avis. » Encore cette histoire de catégorie ? J’écris selon mes envies, je me fiche des rayonnages, mais il est logique qu’un commercial y accorde de l’importance. Pourquoi alors parler tout de suite après de l’écriture ? Comme s’il y avait un lien entre le commerce et l’art ? Cette réponse résume l’étau dans lequel se coincent la plupart des éditeurs. Comme si quelqu’un préoccupé par le commerce pouvait aussi dans le même temps être attentif à l’écriture ? D’autant que les livres qui vendent sont souvent piètrement écrits.
+Je me réveille avec un mail d’une éditrice : « Votre texte est fort, sans affectation. Mais je ne saurais pas le défendre. C'est un récit plus qu'un roman, en tout cas tel qu'il se présente. Et l'écriture manque un peu de travail à mon avis. » Encore cette histoire de catégorie ? J’écris selon mes envies, je me fiche des rayonnages, mais il est logique qu’un commercial y accorde de l’importance. Pourquoi alors parler tout de suite après de l’écriture ? Comme s’il y avait un lien entre le commerce et l’art ? Cette réponse résume l’étau dans lequel se coincent la plupart des éditeurs. Comme si quelqu’un préoccupé par le commerce pouvait aussi dans le même temps être attentif à l’écriture ? D’autant que les livres qui vendent sont souvent piètrement écrits.
 
 ### Mardi 12, Balaruc
 
-![Pyrénées](https://tcrouzet.com/images_tc/2018/01/20171212-1.jpg)
+![Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171212-1.jpg)
 
 ### Mercredi 13, Balaruc
 
 Un ami lance une collection de romans, il veut que je lui écrive quelque chose, d’autant que je ne veux pas lui donner *Mon père était un tueur*. Son éditeur trouve le projet *One Second* trop littéraire. Il ne veut pas de mon idée d’un carnet de voyage en Islande. Une autre idée m’est venue. Écrire une histoire d’amour entre deux vieux qui se font transfuser du plasma de jeunes pour rajeunir. Un centre fait ça à Monterey en Californie. Mon ami trouve ça trop SF. Alors je parcours mes archives, mais je n’ai aucune envie de déterrer des cadavres. Mes vieilles idées ne me séduisent plus. Une idée ne vaut que tant qu’elle obsède.
 
-![Je pense à mon père](https://tcrouzet.com/images_tc/2018/01/20171213-1.jpg)
+![Je pense à mon père](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171213-1.jpg)
 
 ---
 
@@ -76,11 +76,11 @@ Nouvelle mode : les écrivains se lancent des défis, genre « Cette année je
 
 Une équation à résoudre : un auteur et des lecteurs avec leur mobile, comment ensemble peuvent-ils créer une histoire ? Cette remarque parce que [*Lifeline*](https://www.bigfishgames.com/daily/3mingames/lifeline/) ne me satisfait pas.
 
-![Soir](https://tcrouzet.com/images_tc/2018/01/20171213-2.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171213-2.jpg)
 
-![Soir](https://tcrouzet.com/images_tc/2018/01/20171213-4.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171213-4.jpg)
 
-![Soir](https://tcrouzet.com/images_tc/2018/01/20171213-5.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171213-5.jpg)
 
 ### Jeudi 14, Balaruc
 
@@ -90,7 +90,7 @@ Il est désormais impossible de discuter sur le Net. La moindre critique est pri
 
 Hier, [j’ai commencé à vendre mes livres en ?1](https://tcrouzet.com/2017/12/15/je-ne-donne-plus-je-vends-en-g1/). C’est assez excitant d’utiliser une monnaie neuve. Pour le moment, les échanges s’effectuent à la confiance et manuellement. On me paye, j’envoie les fichiers. Des acheteurs m’ont dit qu’ils étaient passés à l’acte alors qu’en euros ils avaient toujours hésité. La plus grande fluidité de la monnaie augmente le volume des échanges.
 
-![Mistral](https://tcrouzet.com/images_tc/2018/01/20171215-1.jpg)
+![Mistral](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171215-1.jpg)
 
 ### Dimanche 17, Balaruc
 
@@ -108,23 +108,23 @@ Après-midi à jouer à *Donjons &amp; Dragons* avec les enfants. J’attends d�
 
 Je ne n’ai pas envie d’écrire. Je n’en éprouve aucune nécessité. C’est une étrange sensation. Je bricole mon ordinateur, je contemple l’étang avec le soleil qui illumine les sommets enneigés des Pyrénées, et rien d’autre. Je ne suis pas sûr d’apprécier ce moment. Je pourrais en profiter pour repeindre la rambarde de mon bureau, pour lire, pour aller me promener, pourquoi pas tester à Montpellier ma [géolecture](https://tcrouzet.com/geolecture/).
 
-![Pyrénées](https://tcrouzet.com/images_tc/2018/01/20171219-1.jpg)
+![Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171219-1.jpg)
 
 ---
 
 Je suis donc parti à Montpellier. En moins de 30 minutes, mon application avait séché la batterie de mon iPhone. Je passe l’après-midi à optimiser le code. Alors que je rentre de Sète où j’ai récupéré Émile à la sortie de l’école, un coucher de soleil cuivré recouvre l’étang et dentelle les Pyrénées.
 
-![Soir](https://tcrouzet.com/images_tc/2018/01/20171219-2.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171219-2.jpg)
 
-![Soir](https://tcrouzet.com/images_tc/2018/01/20171219-3.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171219-3.jpg)
 
-![Aviron](https://tcrouzet.com/images_tc/2018/01/20171219-4.jpg)
+![Aviron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171219-4.jpg)
 
-![Aviron](https://tcrouzet.com/images_tc/2018/01/20171219-5.jpg)
+![Aviron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171219-5.jpg)
 
-![Soir](https://tcrouzet.com/images_tc/2018/01/20171219-6.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171219-6.jpg)
 
-![Cuivre](https://tcrouzet.com/images_tc/2018/01/20171219-7.jpg)
+![Cuivre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171219-7.jpg)
 
 ### Mercredi 20, Balaruc
 
@@ -132,11 +132,11 @@ Je repense au coucher de soleil d’hier soir. Pourquoi la nature est-elle insur
 
 ### Vendredi 22, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2018/01/20171222-1.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171222-1.jpg)
 
 ### Samedi 23, L’Oule
 
-Le ruisseau dévale du plateau d’altitude entre les sapins, les blocs de granit rouge et les rochers qu’il a nettoyé de leur neige. Aux pieds des contreforts du parc naturel du Néouvielle miroite le lac gelé, adossé au barrage et au refuge. En arrivant dans cette région des Pyrénées, j’ai toujours l’impression d’être dans les Rocheuses. Aujourd’hui une lumière glorieuse nous accueille. Nous sommes les derniers sur la remontée qui s’immobilise. Le soleil finit par basculer derrière les cimes et je commence à m’impatienter. J’appelle le refuge. Les opérateurs nous avaient oubliés. Une fois au chaud, nous retrouvons Jonathan, un randonneur que nous avons déjà croisé. Je l’accompagne faire une petite boucle en raquette. La neige glacée craque à chaque pas, nous parlons fort pour nous faire entendre, il m’explique que dès le lendemain il part cinq jours seul dans la montagne.
+Le ruisseau dévale du plateau d’altitude entre les sapins, les blocs de granit rouge et les rochers qu’il a nettoyé de leur neige. Aux pieds des contreforts du parc naturel du Néouvielle miroite le lac gelé, adossé au barrage et au refuge. En arrivant dans cette région des Pyrénées, j’ai toujours l’impression d’être dans les Rocheuses. Aujourd’hui une lumière glorieuse nous accueille. Nous sommes les derniers sur la remontée qui s’immobilise. Le soleil finit par basculer derrière les cimes et je commence à m’impatienter. J’appelle le refuge. Les opérateurs nous avaient oubliés. Une fois au chaud, nous retrouvons Jonathan, un randonneur que nous avons déjà croisé. Je l'accompagne faire une petite boucle en raquette. La neige glacée craque à chaque pas, nous parlons fort pour nous faire entendre, il m’explique que dès le lendemain il part cinq jours seul dans la montagne.
 
 ### Dimanche 24, L’Oule
 
@@ -146,7 +146,7 @@ Les stations de ski sont devenues des autoroutes rectilignes parfaitement damée
 
 Ciel immaculé, mais des rafales venant du sud soulèvent la neige comme une tempête le ferait avec l’eau au sommet des vagues. Nous déjeunons au refuge. À la table voisine, une femme prend sa cuisse de canard et la dépose dans l’assiette de son mari. Il la lui retourne en la lui jetant presque à la figure. « Garde tes merdes pour toi. » J’ai été saisi par la violence. Je suis capable de tels égarements.
 
-![Lac de L'Oule](https://tcrouzet.com/images_tc/2018/01/20171225-1.jpg)
+![Lac de L'Oule](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171225-1.jpg)
 
 ### Mercredi 17, Balaruc
 
@@ -164,7 +164,7 @@ Ce matin Isabelle a pris conscience qu’une nouvelle gare se dressait au sud de
 
 De toute façon, quel intérêt de construire de nouvelles lignes TGV alors que le temps qu’elles soient opérationnelles nous rouleront en voitures électriques autonomes, à grande vitesse et sans danger ?
 
-Envisager des projets pharaoniques en temps de développement technologique exponentiel est une folie. Ou alors il faut parier sur des technologies balbutiantes, quitte à ce qu’elles n’adviennent jamais.
+Envisager des projets pharaoniques en temps de développement technologique exponentiel est une folie. Ou alors il faut parier sur des technologies balbutiantes, quitte à ce qu'elles n’adviennent jamais.
 
 ---
 
@@ -222,4 +222,8 @@ J’ai commencé la correspondance Camus-Casarès. J’ai tout de suite lu la de
 
 Je repense à ce polar dans les Cévennes, je repense à Jonathan seul dans les Pyrénées, je l’imagine pris par la tempête, prisonnier d’un minuscule refuge et puis une femme débarque, seule. Il l’accueille, mais elle lui fait peur, pourtant elle l’attire.
 
-![Pont sur le canal](https://tcrouzet.com/images_tc/2018/01/20171231-1.jpg)
+![Pont sur le canal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/01/20171231-1.jpg)
+
+
+
+Tags: Carnets, une

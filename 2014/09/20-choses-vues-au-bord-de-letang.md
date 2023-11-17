@@ -1,6 +1,6 @@
 # 20 choses vues au bord de l’étang
 
-Je me sens obligé de préciser que c’est par une belle matinée de septembre. Une liste à reprendre en d’autres saisons.
+Je me sens obligé de préciser que c'est par une belle matinée de septembre. Une liste à reprendre en d'autres saisons.
 
 1. Deux amis échangent quelques riens et se séparent, l’un va vers le port, l’autre vers la pointe de la presqu’île.
 
@@ -8,7 +8,7 @@ Je me sens obligé de préciser que c’est par une belle matinée de septembre.
 
 3. Des marcheurs indolents, les yeux plissés, les mains en visière.
 
-4. Un pêcheur de palourdes, plié vers l’eau, un bras armé d’une fouine, l’autre d’un filet.
+4. Un pêcheur de palourdes, plié vers l’eau, un bras armé d’une fouine, l'autre d'un filet.
 
 5. Une marcheuse épaulée par deux bâtons de randonnée.
 
@@ -32,7 +32,7 @@ Je me sens obligé de préciser que c’est par une belle matinée de septembre.
 
 15. La terrasse d’un restaurant aux parasols encore repliés.
 
-16. Des hommes torse nu sur la promenade, des femmes torse camouflé (nudité pour elles acceptée qu’à l’immédiate proximité du rivage).
+16. Des hommes torse nu sur la promenade, des femmes torse camouflé (nudité pour elles acceptée qu'à l'immédiate proximité du rivage).
 
 17. Deux bavardes, les jambes dans l’eau jusqu’aux genoux.
 
@@ -41,3 +41,5 @@ Je me sens obligé de préciser que c’est par une belle matinée de septembre.
 19. Le sable trop jaune, importé d’une carrière de l’intérieur des terres.
 
 20. Une risée dans l’ultramarine.
+
+Tags: buzzlitt, une

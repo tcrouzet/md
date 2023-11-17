@@ -12,14 +12,18 @@ Vous imaginez une loi pour pénaliser Amazon : punir la fermeture. Je viens de 
 
 Vous, nos autoprétendues éminences grises, êtes si enfermés dans un espace mental étriqué que vous êtes incapables de comprendre le début du commencement de l’espace numérique. Il est ouvert par nature, ouvert à tous les vents, les portes ne cessent de claquer à cause des courants d’air.
 
-[Quand les éditeurs ajoutent des DRM à leurs livres, les hackers distribuent les logiciels pour nous en débarrasser.](https://tcrouzet.com/2012/09/16/ebooks-defends-tes-droits-avec-tes-armes/) Quand Apple nous sort un nouvel iOS prétendument fermé, les mêmes hackers s’attachent immédiatement à le jailbreaker. Quand Amazon n’offre que le support des fichiers mobi, Calibre aide à lever cette barrière en un tour de main. Et Amazon n’est pas dupe, qui fournit un logiciel pour convertir les ebooks au format ePub en mobi.
+[Quand les éditeurs ajoutent des DRM à leurs livres, les hackers distribuent les logiciels pour nous en débarrasser.](http://blog.tcrouzet.com/2012/09/16/ebooks-defends-tes-droits-avec-tes-armes/) Quand Apple nous sort un nouvel iOS prétendument fermé, les mêmes hackers s’attachent immédiatement à le jailbreaker. Quand Amazon n’offre que le support des fichiers mobi, Calibre aide à lever cette barrière en un tour de main. Et Amazon n’est pas dupe, qui fournit un logiciel pour convertir les ebooks au format ePub en mobi.
 
 Éminences, vous feriez mieux de promulguer une loi pour dépénaliser le hacking qui ne vise qu’à libérer ce que les industriels tentent de verrouiller. Une loi, qui pour une fois, aurait pour objectif de nous libérer tous. Parce qu’en attendant vous êtes incohérents. Vous ne parlez que de copyrights contraignants et, quand un acteur du marché cherche à contraindre, vous vous insurgez. Ce qui vous fait mal c’est que d’autres vous imitent. Vous feriez mieux d’accorder à chacun de nous le droit à l’autodéfense.
 
 Faites confiance aux lecteurs. Formez-les à la résistance. Donnez-leur les armes pour qu’aucune volonté issue du marché ne s’impose à eux. Et arrêtez de diaboliser telle ou telle entreprise, en nous faisant croire que nous, infâmes larves, ne pouvons plus rien contre son gigantisme. Non, nous sommes tout-puissants. Et ça, vous ne l’aimez pas du tout.
 
-Vis-à-vis des lecteurs, la seule faute d’Amazon est d’utiliser des DRM. Mais, en vérité, c’est les éditeurs qui protègent les livres, pas les distributeurs. C’est eux qui nous forcent à utiliser un hack pour sortir un livre d’une liseuse pour le copier sur une autre. C’est eux qui nous enferment. Attaquer systématiquement Amazon revient à dresser un rideau de fumée devant les vrais problèmes… qui, encore une fois, n’existent que sur le strict plan juridique : dans la pratique le lecteur responsable et émancipé a déjà tous les droits.
+Vis-à-vis des lecteurs, la seule faute d’Amazon est d’utiliser des DRM. Mais, en vérité, c’est les éditeurs qui protègent les livres, pas les distributeurs. C’est eux qui nous forcent à utiliser un hack pour sortir un livre d’une liseuse pour le copier sur une autre. C’est eux qui nous enferment. Attaquer systématiquement Amazon revient à dresser un rideau de fumée devant les vrais problèmes... qui, encore une fois, n’existent que sur le strict plan juridique : dans la pratique le lecteur responsable et émancipé a déjà tous les droits.
 
-Une étrange idée me vient. Un livre libéré de ses DRM par un hack est un livre interdit. Une sorte de substance illégale. Alors j’en déduis qu’un lecteur pirate a moins de droits qu’un consommateur de cannabis. Il est moins protégé que lui. Moins bien accepté dans la société. Ça buguerait pas un peu ? Je demande l’égalité dans l’illégalité.
+Une étrange idée me vient. Un livre libéré de ses DRM par un hack est un livre interdit. Une sorte de substance illégale. Alors j’en déduis qu’un lecteur pirate a moins de droits qu’un consommateur de cannabis. Il est moins protégé que lui. Moins bien accepté dans la société. Ça buguerait pas un peu ? Je demande l'égalité dans l’illégalité.
 
-![À l'échelle européenne, le cannabis est bien mieux accepté que le hacking qui ne nulle part](https://tcrouzet.com/images_tc/2013/09/595px-CarteEuropeCannabisMedical.gif)
+![À l'échelle européenne, le cannabis est bien mieux accepté que le hacking qui ne nulle part](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/595px-CarteEuropeCannabisMedical.gif)
+
+
+
+Tags: Amazon, édition, une

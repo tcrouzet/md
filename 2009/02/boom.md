@@ -31,3 +31,5 @@ Je n’ai pas la solution toute prête, je n’ai pas le mot qui remplacerait co
 Mon intuition est que la connexion est la solution. Une société du lien. Il faut imaginer des publicités pour cette nouvelle façon de vivre. Il faut que les anciens slogans publicitaires puissent être remplacés.
 
 La connexion rend plus heureux, la vie de connectée est plus amusante, connecté on peut se dépasser, on peut construire des choses impensables…
+
+Tags: Connecteur

@@ -36,9 +36,9 @@ Pas simple toutes ces histoires, peut-être pas très intéressantes, mais les a
 
 Si on y regarde de près, un ebook ou un livre en POD sont grandement équivalents :
 
-1. Ils impliquent le plus souvent une mise en circulation à travers une plateforme de distribution (ce qui entraîne un éloignement temporel entre l’auteur et le lecteur, parce qu’il faut un peu de temps pour tout ça).
+1. Ils impliquent le plus souvent une mise en circulation à travers une plateforme de distribution (ce qui entraîne un éloignement temporel entre l'auteur et le lecteur, parce qu'il faut un peu de temps pour tout ça).
 
-2. Ils ne permettent pas l’interaction.
+2. Ils ne permettent pas l'interaction.
 
 3. En revanche, ils maximisent également la liberté de publier et celle de lire des œuvres qui sinon seraient inaccessibles.
 
@@ -48,4 +48,6 @@ Le Net, lui, réunit tous ces mondes :
 
 2. Interactivité.
 
-3. Liberté de publication et de lecture puisque le lecteur peut lire avec un navigateur, un agrégateur ou une liseuse (c’est d’autant plus facile maintenant que toutes les options de [Instapaper](https://www.instapaper.com/) sont gratuites).
+3. Liberté de publication et de lecture puisque le lecteur peut lire avec un navigateur, un agrégateur ou une liseuse (c'est d'autant plus facile maintenant que toutes les options de [Instapaper](https://www.instapaper.com/) sont gratuites).
+
+Tags: édition, une

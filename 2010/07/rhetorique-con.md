@@ -2,7 +2,7 @@
 
 Comment un humain pourrait-il ignorer la nature humaine, comment pourrait-il parler des choses sociales en se mettant lui-même en dehors de la société ? J’aimerais bien le savoir, d’autant qu’on m’accuse souvent de ne pas prendre en compte l’humain. Révélation : je suis un extraterrestre… et les humains les plus éveillés m’ont démasqué.<span id="more-17676"></span>
 
-Soyons sérieux. [J’ai d’ailleurs déjà écrit sur le sujet de la nature humaine.](https://tcrouzet.com/2008/08/18/de-la-nature-humaine/) Personne, absolument personne, ne peut parler des autres hommes sans prendre en compte leur particularité. Je n’échappe pas à la règle, d’autant que je parle souvent de moi, de mes amis, de ce que j’observe autour de moi. Peut-être que je vis dans un rare paradis, peuplé d’étranges spécimens… Si tel était le cas, cela suffirait à prouver que les humains ne sont pas un mais peuvent se révéler sous différentes facettes, ce que je crois bien sûr.
+Soyons sérieux. [J’ai d’ailleurs déjà écrit sur le sujet de la nature humaine.](http://blog.tcrouzet.com/2008/08/18/de-la-nature-humaine/) Personne, absolument personne, ne peut parler des autres hommes sans prendre en compte leur particularité. Je n’échappe pas à la règle, d’autant que je parle souvent de moi, de mes amis, de ce que j’observe autour de moi. Peut-être que je vis dans un rare paradis, peuplé d’étranges spécimens… Si tel était le cas, cela suffirait à prouver que les humains ne sont pas un mais peuvent se révéler sous différentes facettes, ce que je crois bien sûr.
 
 Alors quand mes détracteurs invoquent l’immuable, la lenteur de l’évolution, et puis très vite les invariants platoniciens pour remettre en cause mes idées, j’ai tout de suite tendance à m’énerver. Pour cause, la psychologie de ceux qui défendent de telles positions est plus que claire, leurs remarques plus que prévisibles. Tout est bon pour défendre un ordre supérieur. Pourquoi certaines personnes adoptent cette position ?
 
@@ -18,7 +18,7 @@ Remarque : ces cassandres parlent toujours des autres hommes, de leur incapacit
 
 J’ai l’impression parfois que ce que je propose leur irait à eux, qu’ils seraient prêts à tenter l’aventure, mais qu’ils en estiment les autres incapables. C’est un peu le raisonnement type : « Je m’occuperai de la planète quand les Chinois arrêteront de polluer. » Moi, je crois les hommes capables de tout, surtout de se surprendre eux-mêmes. J’aime les hommes plutôt que Dieu. Je crois en l’homme parce que je ne veux croire en autre chose.
 
-Invoquer des études sociologiques pour en déduire l’impossibilité de certaines formes sociales jamais réellement expérimentées est une méthode pour le moins suspecte. Ce qui se produisait hier ne se reproduira pas demain (j’admets la persistance de structures mais pas leur permanence – voir le passage sur la tâche rouge de Jupiter dans [*Propulseurs dans le flux*](https://tcrouzet.com/propulseurs-dans-le-flux/)). Me reprocher d’ignorer les études sociologiques et de faire de la science-fiction est tout aussi malhonnête. Et ne pas admettre les résultats des études auxquelles il m’arrive tout de même de me référer est encore plus spécieux. Il y a là de l’idéologie plus que de la rationalité.
+Invoquer des études sociologiques pour en déduire l’impossibilité de certaines formes sociales jamais réellement expérimentées est une méthode pour le moins suspecte. Ce qui se produisait hier ne se reproduira pas demain (j’admets la persistance de structures mais pas leur permanence – voir le passage sur la tâche rouge de Jupiter dans [*Propulseurs dans le flux*](http://blog.tcrouzet.com/propulseurs-dans-le-flux/)). Me reprocher d’ignorer les études sociologiques et de faire de la science-fiction est tout aussi malhonnête. Et ne pas admettre les résultats des études auxquelles il m’arrive tout de même de me référer est encore plus spécieux. Il y a là de l’idéologie plus que de la rationalité.
 
 Que les réformateurs soient moins nombreux que les conservateurs ou que les pragmatiques n’est pas une nouveauté. Cela n’empêche pas les réformes d’aboutir de temps à autre. Même si dix tentatives de réforme sociale n’ont pas fonctionné, rien ne garantit que la onzième ne marchera pas (et nous ne vivons que dans cet espoir). Ceux qui ne veulent pas y croire n’ont tout simplement aucune envie de les voir se réaliser, ils n’ont aucune envie de remettre en cause la représentation du monde dans laquelle ils se sentent confortables. Je me moque bien de ce qu’ils pensent, le monde est gris à cause d’eux, à cause de leur étroitesse d’esprit.
 
@@ -26,7 +26,7 @@ Je ne me sens pas toujours confortable dans notre monde. Je vois beaucoup de gen
 
 Mes détracteurs adoptent souvent une ligne de défense radicale : il n’y a rien de nouveau, inutile de changer. Comme si passer de 2 milliards d’humains à 7, ça ne changeait rien en terme d’indépendance et de complexité. Comme si la biosphère ne commençait pas à en ressentir les conséquences… Pour moi, cette complexification nous impose une réorganisation.
 
-Je ne dis pas que la société humaine n’était pas complexe avant, mais qu’elle l’est plus aujourd’hui. La distance entre les individus diminue par exemple, ce qui augmente la densité du graphe social à l’échelle planétaire, donc démultiplie la portée des interactions ([phénomène de fluidification](https://tcrouzet.com/2010/05/08/la-liberte-le-lien/)).
+Je ne dis pas que la société humaine n’était pas complexe avant, mais qu’elle l’est plus aujourd’hui. La distance entre les individus diminue par exemple, ce qui augmente la densité du graphe social à l’échelle planétaire, donc démultiplie la portée des interactions ([phénomène de fluidification](http://blog.tcrouzet.com/2010/05/08/la-liberte-le-lien/)).
 
 Si la complexité n’augmente pas, je perds en grande partie mon temps (pas très grave vous l’avouerez). Aucune raison ne nous impose de nouvelles formes d’organisation. Maintenant, si la complexité augmente, trois cas peuvent se produire.
 
@@ -42,17 +42,17 @@ Dans la situation présente, je ne crois pas aux seuls réajustements (et surtou
 
 Mais attention, pas de méprise, je parle avant tout de ce qui marche pour moi, pour certaines personnes que je rencontre, pour d’autres que je vois vivre au loin. Et j’ai l’impression qu’ils sont heureux, plus que ceux qui ne sont pas encore engagés dans la transition.
 
-Je n’ai jamais proposé une révolution globale, mais uniquement une révolution individuelle, la mienne pour commencer. [Je crois en la possibilité d’un bootstrapping social.](https://tcrouzet.com/2010/02/01/bootstrapping-social/) Nombre de ceux qui me critiquent cherchent à deviner le changement en haut de la société, une grosse armada marxiste, mais ce n’est pas là que les choses bougent. Vous ne les verrez pas, vous n’en profiterez pas si vous restez tournés dans la mauvaise direction.
+Je n’ai jamais proposé une révolution globale, mais uniquement une révolution individuelle, la mienne pour commencer. [Je crois en la possibilité d’un bootstrapping social.](http://blog.tcrouzet.com/2010/02/01/bootstrapping-social/) Nombre de ceux qui me critiquent cherchent à deviner le changement en haut de la société, une grosse armada marxiste, mais ce n’est pas là que les choses bougent. Vous ne les verrez pas, vous n’en profiterez pas si vous restez tournés dans la mauvaise direction.
 
 Le changement dont je parle est en marche pour certains d’entre nous. Il se propage. Quelle échelle atteindra-t-il ? Je n’en sais rien. J’en parle pour lui donner plus de chance, pour éveiller des envies chez certains qui ne voient plus de solution, en aucun cas je ne leur imposerais quoi que ce soit, c’est à eux de choisir de changer de vie… et c’est nous qui en changeant de vie pouvons leur en donner l’envie.
 
-Je termine en invoquant [le commentaire de Moktarama](https://tcrouzet.com/2010/07/05/bug-anarchiste/#comment-79006) qui a inspiré ce billet :
+Je termine en invoquant [le commentaire de Moktarama](http://blog.tcrouzet.com/2010/07/05/bug-anarchiste/#comment-79006) qui a inspiré ce billet :
 
 > Si l’homme a une certaine permanence, cela n’aboutira qu’à recréer des structures organisationnelles (même dans la complexité du web, on les voit en permanence se créer, ces structures, et elles n’ont rien à envier aux autres) tout en s’illusionnant du fait qu’on aura dépassé l’Homme. Ça rappelle nombre d’échecs rencontrés au cours de l’histoire…
 
 Franchement, si nos expériences et nos théories ne peuvent mener qu’à ce que nous avons déjà connu pourquoi même perdre une seconde à lire ceux de mon espèce ? Nous ne sommes pas dangereux, juste des rêveurs (mais que ça fait du bien de rêver de temps en temps). Ou alors vous nous croyez dangereux ? Vous nous croyez un peu capables de faire changer les choses par endroits et ça vous fout les chocottes ? Vous avez peur que nous aboutissions à pire qu’avant… alors pourquoi n’arriverions-nous pas à mieux ? Vous avez peur que nous prenions des risques pour vous… mais c’est nous qui les prenons, pas vous pour le moment, pas de panique. Nous n’avons pas l’intention de prendre le pourvoir pour imposer l’absence de pouvoir.
 
-*PS : Avant de commenter ce billet, répondez à ce petit questionnaire.*
+*PS : Avant de commenter ce billet, répondez à ce petit questionnaire.
 
 1/ Croyez-vous en l’existence d’invariants humains ? Si oui, lesquels ? Alors, justifiez leur existence par rapport à la théorie de l’évolution. Leur apparition et leur maintien. Et pourquoi rien ne pourra les entraver ?
 
@@ -60,4 +60,6 @@ Franchement, si nos expériences et nos théories ne peuvent mener qu’à ce qu
 
 3/ Pour faire face à la complexité que suggérez-vous. 3.1 Les vieilles méthodes suffisent. 3.2 Il faut les corriger. 3.3 Il faut en adopter de nouvelles (sujet central de ma réflexion). Si 3.1, justifiez l’adéquation des vieilles méthodes par rapport à la théorie de l’évolution. Si 3.2 ou 3.3 et pas d’accord avec moi, ouvrez un blog et présentez vos idées. Nous débattrons sur du concret.
 
-4/ Suis-je dangereux ? Si non, pourquoi perdez-vous du temps à me lire ? Pour me sauver. Je pense qu’il y a d’autres hommes qui ont besoin d’aide. Si oui, je veux bien savoir pourquoi étant donné que mes idées n’ont aucun intérêt.
+4/ Suis-je dangereux ? Si non, pourquoi perdez-vous du temps à me lire ? Pour me sauver. Je pense qu’il y a d’autres hommes qui ont besoin d’aide. Si oui, je veux bien savoir pourquoi étant donné que mes idées n’ont aucun intérêt.*
+
+Tags: NetCulture

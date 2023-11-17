@@ -21,3 +21,5 @@ Une calculatrice effectue des opérations arithmétiques. On lui soumet des nomb
 La balance peut être considérée comme la calculatrice la plus simple. Si on place trois pommes sur un plateau et de la farine sur l’autre jusqu’à l’équilibre, on résout en quelque sorte une équation. On découvre l’équivalent poids entre des objets de nature différente.
 
 L’ordinateur, lui, ne sait pas nécessairement effectuer des opérations arithmétiques. Il est avant tout capable de simuler le monde. Et durant la Seconde Guerre mondiale, les Américains simulèrent les réactions en chaîne. Avant de lâcher leurs bombes au-dessus du Japon, ils les firent exploser dans leurs ordinateurs. Sans eux, l’arme atomique n’aurait jamais explosé en 1945.
+
+Tags: NetCulture, noepub, Une brève histoire de l'informatique, une

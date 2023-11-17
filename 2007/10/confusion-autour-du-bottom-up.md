@@ -1,14 +1,14 @@
 # Confusion autour du bottom-up
 
-Lors des échanges qui ont suivi [ma critique du Modem](https://tcrouzet.com/2007/09/20/modem-centric/), j’ai noté que beaucoup de gens avaient une idée erronée du bottom-up. Nos politiciens autocrates les ont piégés par un dévoiement dont ils ont la spécialité.<span id="more-578"></span>
+Lors des échanges qui ont suivi [ma critique du Modem](http://blog.tcrouzet.com/2007/09/20/modem-centric/), j’ai noté que beaucoup de gens avaient une idée erronée du bottom-up. Nos politiciens autocrates les ont piégés par un dévoiement dont ils ont la spécialité.<span id="more-578"></span>
 
-![](https://tcrouzet.com/images_tc/2007/10/20071001auto.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/20071001auto.jpg)
 
 Le haut-en-bas ou top-down évoque la société hiérarchique dans laquelle quelques-uns ordonnent à tous (le citoyen étant écrasé par la hiérarchie). Par exemple, quelques médias alimentent en informations tous les citoyens. Il est clair qu’il y a un mouvement descendant. Il part d’une élite et se propage à tous. Dieu, quelle que soit son incarnation, règne au sommet de la pyramide et nous vivons à ses pieds.
 
 On oppose souvent à ce système le bottom-up ou bas-en-haut mais, paradoxalement, on le schématise souvent par une pyramide. La base du triangle ferait converger des informations ou des idées vers un point de focalisation, un point dans lequel il est facile de retrouver Dieu.
 
-![](https://tcrouzet.com/images_tc/2007/10/pacco2.jpg)Ségolène Royal, et de nombreux autres politiciens, au Modem notamment, professent cette version pour le moins réductrice du bottom-up. Le peuple ferait émerger des idées qui remonteraient jusqu’au sommet de la pyramide, jusqu’à Dieu, qui les sélectionnerait, les améliorerait avant de les réexpédier comme un miroir déformant sur le peuple.
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/pacco2.jpg)Ségolène Royal, et de nombreux autres politiciens, au Modem notamment, professent cette version pour le moins réductrice du bottom-up. Le peuple ferait émerger des idées qui remonteraient jusqu’au sommet de la pyramide, jusqu’à Dieu, qui les sélectionnerait, les améliorerait avant de les réexpédier comme un miroir déformant sur le peuple.
 
 J’entends souvent parler du up-and-down comme d’une révolution alors que, au nom de la consultation citoyenne, le principe du bottom-up est totalement dévoyé en faveur du modèle pyramidal. On cherche à nous faire croire que nous participons mais, au final, nous subissons encore et encore les décisions divines, nous les subissons d’autant mieux que nous croyons qu’elles viennent de nous.
 
@@ -31,3 +31,5 @@ D’un côté, nous avons le modèle pyramidal, sous sa forme classique top-down
 Ces deux formes d’organisation coexistent donc dans nos sociétés humaines. Elles ne sont pas antinomiques. L’auto-organisation est la plus répandue, elle marche si bien, si naturellement, que nous n’y prêtons pas attention, nous focalisant au contraire sur le pyramidal.
 
 Je crois que nous devons apprendre à mieux reconnaître l’auto-organisation. Ainsi nous amoindrirons l’importance du pyramidal et l’empêcheront d’entraver la complexification de la société (complexification qu’il a un temps aidé il est vrai).
+
+Tags: NetCulture

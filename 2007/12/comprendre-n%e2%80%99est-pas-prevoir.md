@@ -14,7 +14,7 @@ Dans les couloirs du métro, alors qu’aucune signalisation ne nous l’impose,
 
 Trois enfants forment une mêlée. Tête baissée, ils regardent leur pied droit qu’ils ont placé en avant. Soudain, l’un d’eux s’écrie « Zoug » et chacun doit alors choisir de retirer ou non son pied. Si un enfant n’a pas fait comme les deux autres, il est décrété chef.
 
-En 1997, [prolongeant les travaux de Robert Axelrod](https://tcrouzet.com/2007/05/24/le-dilemme-du-prisonnier/), Yi-Cheng Zhang et Damien Challet de l’Université de Fribourg découvrirent à l’aide de ce jeu comment des joueurs égoïstes pouvaient coopérer en l’absence de communication.
+En 1997, [prolongeant les travaux de Robert Axelrod](http://blog.tcrouzet.com/2007/05/24/le-dilemme-du-prisonnier/), Yi-Cheng Zhang et Damien Challet de l’Université de Fribourg découvrirent à l’aide de ce jeu comment des joueurs égoïstes pouvaient coopérer en l’absence de communication.
 
 Ils utilisèrent une version généralisée du Zig-Zag-Zoug, appelée [The Minority Game](http://www.unifr.ch/econophysics/minority/). À chaque tour de jeu, les joueurs, peu importe leur nombre, doivent choisir entre A et B. Ceux qui optent pour le choix minoritaire l’emportent.
 
@@ -57,3 +57,5 @@ Par chance, certains patterns réussissent à se maintenir. L’auto-organisatio
 Ce grand blanc devant nous n’empêche pas les oracles de faire feu de prédictions en tous sens. D’ailleurs, moins nous comprenons une chose, plus nous cherchons à la prévoir. C’est étrange mais explicable. Comme personne ne comprend, personne ne peut démontrer aux oracles qu’ils délirent, alors ils s’en donnent à cœur joie, nous faisant croire que prévoir est possible, qu’en conséquence une sorte de vie rationnelle serait possible, confortant les positions conservatrices.
 
 Je crois au contraire que, comme nous ne pouvons pas prévoir notre avenir, nous ne pouvons pas organiser notre vie de manière rationnelle. Nous n’avons pas d’autres choix que de prendre des risques. Nous sommes des joueurs, des intuitifs, des détecteurs de patterns, des artistes.
+
+Tags: Connecteur, imprevisibilité

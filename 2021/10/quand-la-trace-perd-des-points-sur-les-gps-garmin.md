@@ -35,3 +35,5 @@ Et si, au-delà d'un certain nombre de points, les GPS Garmin simplifiaient la t
 L'image ci-dessus montre comment la trace se dégrade quand le nombre de points augmente. D'après mes estimations, sur mon Edge 530, la zone de filtrage survient au-dessus des 8 000 points, même si Garmin Connect accepte des fichiers [allant jusqu'à 99 999 points](https://support.garmin.com/en-US/?faq=EWm0A6dgWu2OTV4bVYXWK6).
 
 Moralité il faut découper les traces pour que les GPS Garmin les affichent correctement alors que les Wahoo s'en tirent parfaitement dans tous les cas. Si sur route le filtrage cause rarement des problèmes, il devient pénible dans les secteurs VTT avec beaucoup de singles, ce qui entraîne sans cesse des hésitations, surtout en bikepacking. [Je me suis donc bricolé une petite appli pour découper automatiquement mes traces.](https://bikepacking.000webhostapp.com/gpx/)
+
+Tags: Born to Bike, GPS, une

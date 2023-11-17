@@ -10,7 +10,7 @@ Pourtant tous les médias usent et abusent de ces chiffres pour justifier leur p
 
 **L’ouverture.** À la recherche de NOTRE succès, de NOTRE influence, de NOTRE liberté d’expression, nous défendons jalousement notre précarré, souvent une niche où nous tolérons quelques chiots de temps à autres.
 
-La blogosphère n’existe plus, des cliques lui ont succédées. Résultat : point de succès ou d’influence et une liberté d’expression, certes, mais qui hurle dans le vide, une pensée pour soi seul, ou presque. Fini l’ébullition, la stratégie du cyborg, l’ébriété mentale. C’était ça avant-tout la blogosphère, pas un média mais un laboratoire.
+La blogosphère n’existe plus, des cliques lui ont succédées. Résultat : point de succès ou d’influence et une liberté d’expression, certes, mais qui hurle dans le vide, une pensée pour soi seul, ou presque. Fini l’ébullition, la stratégie du cyborg, l'ébriété mentale. C'était ça avant-tout la blogosphère, pas un média mais un laboratoire.
 
 **Le partage.** Nous avons commencé avec les blogrolls, nous les avons peu à peu abandonnées, sous l’influence néfaste de Google, dont l’algorithme a bientôt puni les amitiés trop clairement exprimées. Alors nous nous sommes couchés. Nous nous citons parfois les uns les autres, mais presque avec pudeur. Il ne faudrait pas en plus envoyer des lecteurs chez un concurrent.
 
@@ -20,6 +20,8 @@ La blogosphère n’existe plus, des cliques lui ont succédées. Résultat : p
 
 La blogosphère est exsangue. Il n’existe plus que des blogueurs vaguement connectés par affinité, certains encore assez populaires. Ils ressemblent désormais aux auteurs, à ces hommes et ces femmes qui écrivent des livres. Nous avons pensé changer le monde, nous nous sommes au contraire coulés dans ses replis les plus anciens.
 
-*PS1 : [Ce billet continue…](https://tcrouzet.com/2013/03/02/les-blogueurs-ne-sont-plus-que-des-auteurs/)*
+*PS1 : [Ce billet continue...](http://blog.tcrouzet.com/2013/03/02/les-blogueurs-ne-sont-plus-que-des-auteurs/)*
 
 *PS2 : Ce billet n’est qu’un commentaire à [un article d’Olivier Zilbertin](http://www.lemonde.fr/vous/article/2013/03/01/qui-blogua-ne-bloguera-plus_1841443_3238.html).*
+
+Tags: Blogosphère, NetCulture, une

@@ -10,13 +10,13 @@ Ce qui m’a tout de suite frappé, et même un peu effrayé, c’est votre pré
 
 Quand vous parlez de « pratique du sport cycliste communément admise », vous avez oublié de préciser « admise par nous », et vous auriez même pu ajouter « esprits quelque peu bornés et passéistes ». Vous n’avez pas introduit de nuance, si bien que de nombreux cyclistes qui vous mettent au panthéon, qui croient que vous détenez la vérité, ont commencé à conspuer ceux qui comme moi ont mis en doute votre parole sacro-sainte. On a eu droit à tout, à la délation et à la moralisation, ce qui en dit long sur quelques-uns de vos adeptes.
 
-![Markham](https://tcrouzet.com/images_tc/2020/04/TRAILMAP-2014-V2.png)
+![Markham](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/TRAILMAP-2014-V2.png)
 
 L’année dernière, je vivais en Floride à côté du [Markham Park Mountain Bike Trails](http://www.markhamparktrailbuildingfund.org/Park/), 22 km de sentiers enroulés sur eux-mêmes dans un cercle de 0,5 km de rayon. Je peux vous assurer que j’y ai côtoyé de sérieux cyclistes. Mais au vu de votre définition, j’ai dû rêver de faire du vélo dans ce parc.
 
-De même, quand je roule avec mon gravel ou fais du bikepacking, seul au monde ou avec quelques copains, je suppose que je ne fais pas de vélo, puisque sauf erreur vous n’organisez pas encore de compétions dans ces disciplines. Vous êtes tentés de les pervertir, avec votre instance tutélaire qu’est l’UCI, car au fond, ce qui vous intéresse c’est le commerce, à commencer par celui lucratif des licences, et, où il y a commerce, vous accourez. Je veux bien l’entendre et vous excuser sur ce point, mais votre désir hégémonique ne doit pas se faire au détriment des cyclistes qui se fichent de vous, et qui, je vous le rappelle, sont plus nombreux que vos adhérents et parcourent des dizaines de fois plus de kilomètres cumulés chaque année. Si vous étiez un syndicat, vous ne seriez pas représentatif.
+De même, quand je roule avec mon gravel ou fais du bikepacking, seul au monde ou avec quelques copains, je suppose que je ne fais pas de vélo, puisque sauf erreur vous n'organisez pas encore de compétions dans ces disciplines. Vous êtes tentés de les pervertir, avec votre instance tutélaire qu’est l’UCI, car au fond, ce qui vous intéresse c’est le commerce, à commencer par celui lucratif des licences, et, où il y a commerce, vous accourez. Je veux bien l’entendre et vous excuser sur ce point, mais votre désir hégémonique ne doit pas se faire au détriment des cyclistes qui se fichent de vous, et qui, je vous le rappelle, sont plus nombreux que vos adhérents et parcourent des dizaines de fois plus de kilomètres cumulés chaque année. Si vous étiez un syndicat, vous ne seriez pas représentatif.
 
-![Strava Heatmap](https://tcrouzet.com/images_tc/2020/04/ffc2.jpg)
+![Strava Heatmap](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/ffc2.jpg)
 
 Pour vous en convaincre, regardez la carte générale des activités Strava, collez-y les parcours de vos compétitions, et vous découvrirez que vous ne pesez rien dans le monde du vélo. Cette pratique vous a échappé et vous tentez désespérément d’en garder le contrôle en imitant les maires qui dans leur commune prennent des décisions arbitraires pour durcir celles du gouvernent, jugées pas assez sévères, mais sans que ces durcissements obéissent à des raisons sanitaires.
 
@@ -34,26 +34,30 @@ Avouez que vivre, c’est courir un risque. Et on ne peut réduire tous les risq
 
 Toutes ces nouvelles ne vous ont pas fait changer d’avis. Des professionnels sont même montés au créneau pour défendre votre position. Les mêmes qu’on retrouve sur Zwift avec un équipement de fou et qui se permettent de donner des leçons comme s’ils étaient soudain des experts en épidémiologie (c’est vrai qu’ils s’y connaissent en médecine). De toute évidence, nous n’appartenons pas à la même planète cycliste. Admettez, une fois pour toutes, que vous représentez un entre-vous et qu’en dehors de votre microcosme nous sommes nombreux à rouler, à défendre une autre philosophie du vélo, même un art du vélo qui peut-être vous restera à jamais étranger, peut-être même êtes-vous en train de passer à côté d’expériences sublimes. Mais on n’est pas sectaire, venez roulez avec nous, on vous fera découvrir des chemins, des coins oubliés, des traces secrètes…
 
-Je ne suis pas rancunier, mais je garde une dent contre vous. Vous auriez pu jouer un rôle dans cette crise, vous auriez pu nous défendre, défendre tous les cyclistes, faire pression pour que le vélo soit au contraire encouragé dans cette période. Plutôt qu’interdire sans réfléchir, vous auriez pu proposer des gestes barrières pour cycliste.
+Je ne suis pas rancunier, mais je garde une dent contre vous. Vous auriez pu jouer un rôle dans cette crise, vous auriez pu nous défendre, défendre tous les cyclistes, faire pression pour que le vélo soit au contraire encouragé dans cette période. Plutôt qu'interdire sans réfléchir, vous auriez pu proposer des gestes barrières pour cycliste.
 
 1. Ne pas rouler en groupe de plus de quatre, mais évitez de rouler seul.
 
 2. Rouler à deux mètres de distance.
 
-3. S’éloigner des secteurs où il y a des joggers.
+3. S'éloigner des secteurs où il y a des joggers.
 
 4. Toujours avoir du gel hydro-alcoolique sur soi.
 
-5. Ne pas prendre de risque en vous aventurant dans des passages dangereux et difficiles d’accès pour les services de secours.
+5. Ne pas prendre de risque en vous aventurant dans des passages dangereux et difficiles d'accès pour les services de secours.
 
 6. Rester dans les secteurs couverts par votre téléphone.
 
 Rien de tel. Vous avez été contre-productif, vous avez agi contre nous, faisant preuve d’étroitesse d’esprit, ne pensant qu’au vélo comme compétition, et encore comme compétition selon vos règles. Résultat : nous avons tous été confinés dans un cercle, [réduits à imaginer des jeux et des activités cyclistes sans doute surréalistes pour vous](https://tcrouzet.com/2020/04/15/the-grid-project-jeu-sportif-pour-confines/).
 
-![Presque exhaustif](https://tcrouzet.com/images_tc/2020/04/grid3.jpg)
+![Presque exhaustif](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/grid3.jpg)
 
 Avec les GPS et le suivi de traces, le vélo est entré dans une nouvelle étape de son histoire. Vous représentez le passé, l’époque des cartes Michelin, des courses balisées, du macadam issu de l’industrie pétrolière, vous n’avez pas encore intégré que nous déployons des dimensions nouvelles du cyclisme, qui parfois d’ailleurs nous reconnectent avec ses origines. Cette crise m’aura éclairé sur le gouffre qui se creuse entre vous et beaucoup d’entre nous. Je ne suis même pas sûr que nous soyons encore capables de nous parler tant nous nous tenons loin les uns des autres. Si c’est le cas, cessez de parler en notre nom. Sinon, la balle est dans votre camp.
 
-*PS : Certains lecteurs n’ont pas apprécié mon sens de l’humour avec mon histoire d’échelle et m’ont dit que je desservais mon propos en parlant des accidents domestiques. Suite à leurs remarques, je me suis livré à un petit calcul, voir tableau ci-dessous. Il y a en moyenne 7 accidents sérieux à vélo par jour en France contre plus de 30 000 accidents domestiques. Empêcher les cyclistes de rouler n’a donc que peu d’influence sur la saturation ou non des services d’urgence. L’argument sur les risques n’est pas recevable, d’autant qu’il néglige les bénéfices de la pratique du vélo, [bien supérieurs aux risques](https://www.washingtonpost.com/lifestyle/wellness/outdoor-sports-coronavirus-running-biking-tennis/2020/03/24/d6adfdf8-6dd5-11ea-aa80-c2470c6b2034_story.html). Pire, en roulant seul avec un trafic réduit, on a beaucoup moins de chance d’avoir un accident qu’en temps ordinaire. Et s’il y a un risque de transmission aéroportée, ce qui n’est pas encore certain, il nous suffit de maintenir la distance de sécurité suggérée par les scientifiques.*
+*PS : Certains lecteurs n’ont pas apprécié mon sens de l’humour avec mon histoire d’échelle et m’ont dit que je desservais mon propos en parlant des accidents domestiques. Suite à leurs remarques, je me suis livré à un petit calcul, voir tableau ci-dessous. Il y a en moyenne 7 accidents sérieux à vélo par jour en France contre plus de 30 000 accidents domestiques. Empêcher les cyclistes de rouler n’a donc que peu d’influence sur la saturation ou non des services d’urgence. L’argument sur les risques n’est pas recevable, d’autant qu’il néglige les bénéfices de la pratique du vélo, [bien supérieurs aux risques](https://www.washingtonpost.com/lifestyle/wellness/outdoor-sports-coronavirus-running-biking-tennis/2020/03/24/d6adfdf8-6dd5-11ea-aa80-c2470c6b2034_story.html). Pire, en roulant seul avec un trafic réduit, on a beaucoup moins de chance d’avoir un accident qu’en temps ordinaire. Et s'il y a un risque de transmission aéroportée, ce qui n'est pas encore certain, il nous suffit de maintenir la distance de sécurité suggérée par les scientifiques.*
 
 ![Risques comparés](https://docs.google.com/spreadsheets/d/1PqMVPU0VYcDWrUnDh1CsGYr_A7Zk3iZco77X-vToS9Q/edit?usp=sharing)
+
+
+
+Tags: Born to Bike, une

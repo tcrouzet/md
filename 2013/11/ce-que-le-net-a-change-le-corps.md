@@ -14,4 +14,8 @@ J’ai encore cherché. J’ai commencé à expérimenter la saisie tactile. J�
 
 Mais je sais avec certitude que chez moi et beaucoup d’autres des textes nouveaux jailliront de la liberté retrouvée, condition *sine qua non* pour qu’émerge un corps nouveau.
 
-![Dessin effectué avec mon Yoga 2 en mode tablette sur OneNote](https://tcrouzet.com/images_tc/2013/11/tgv.jpg)
+![Dessin effectué avec mon Yoga 2 en mode tablette sur OneNote](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/11/tgv.jpg)
+
+
+
+Tags: NetLittérature, une

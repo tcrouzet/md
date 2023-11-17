@@ -1,8 +1,10 @@
 # L&#8217;économie des flux
 
-![ben](https://tcrouzet.com/images_tc/2009/08/ben.gif)
 
-Dans un [monde de flux](https://tcrouzet.com/tag/flux/) où les biens s’écoulent, l’ancienne économie de la rareté de l’offre associée à la rareté de l’argent ne peut plus survivre. Sans doute faudra-t-il basculer vers un système financier où chacun pourra émettre de la monnaie et devenir banque centrale. Mais avant d’envisager cette entrée dans le flux de la finance, je voudrais inventorier les différentes modalités de rétribution adaptées aux flux, certaines incompatibles, d’autres complémentaires.<span id="more-9141"></span>
+
+![ben](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/ben.gif)
+
+Dans un [monde de flux](http://blog.tcrouzet.com/tag/flux/) où les biens s’écoulent, l’ancienne économie de la rareté de l’offre associée à la rareté de l’argent ne peut plus survivre. Sans doute faudra-t-il basculer vers un système financier où chacun pourra émettre de la monnaie et devenir banque centrale. Mais avant d’envisager cette entrée dans le flux de la finance, je voudrais inventorier les différentes modalités de rétribution adaptées aux flux, certaines incompatibles, d’autres complémentaires.<span id="more-9141"></span>
 
 1. Proposer comme aujourd’hui les produits à un prix fixe, souvent élevé, plus de dix euros, est contre productif car on empêche le flux de s’écouler et, dans l’économie des flux, l’immobilisme équivaut à la mort. La pratique tarifaire actuelle a pour avantage de nous maintenir dans un monde connu et de ralentir l’avènement du monde des flux mais elle favorise le piratage. J’insiste sur ce point. Le piratage est inéluctable et sera de plus en plus facilité en même temps que les flux deviendront la norme (simple de copier une information qui passe à travers notre ordinateur).
 
@@ -16,7 +18,7 @@ Dans un [monde de flux](https://tcrouzet.com/tag/flux/) où les biens s’écoul
 
 6. On peut imaginer une autre forme de mécénat global où on est obligé de donner mais où on choisit explicitement à qui on donne. Je préfère de loin cette méthode plutôt formatrice. Je pourrais donner aux créateurs que j’admire pas à ceux que le « peuple admire le plus ». Danger, nous risquons de donner à nos amis. Sans doute faudrait-il trouver un compromis entre cette approche et celle actuelle du SARD (voir notes).
 
-7. Le tout gratuit implique le don volontaire, donc un changement des mentalités. J’aime cette idée car elle fait reposer la création sur la seule responsabilité des gens. Ils donnent quand ils le veulent la somme qu’ils veulent aux créateurs qu’ils admirent. S’ils cessent de donner, plus d’œuvre. Favorisé par une certaine transparence (savoir combien un artiste a déjà reçu), un mécanisme de régulation devrait se mettre en place. En basculant dans un monde de flux, un monde de moins en moins matérialiste, les gens devraient être prêts à donner pour les choses qui seront le plus importantes dans leur vie. Comme toute révolution psychologique, ce basculement des mentalités ne peut pas s’effectuer du jour au lendemain. Toutefois, aussi improbable qu’elle paraisse, cette logique du don régit déjà notre monde. C’est ce qui me rend optimiste. Ne vivez-vous pas du don ? Que faites-vous quand vous empruntez de l’argent à la banque ? Vous recevez un don en échange d’une promesse de remboursement. Que font les banques et les États, ils empruntent pour rembourser leurs dettes. La chaîne de Ponzi n’est autre qu’une chaîne du don.
+7. Le tout gratuit implique le don volontaire, donc un changement des mentalités. J’aime cette idée car elle fait reposer la création sur la seule responsabilité des gens. Ils donnent quand ils le veulent la somme qu'ils veulent aux créateurs qu’ils admirent. S’ils cessent de donner, plus d’œuvre. Favorisé par une certaine transparence (savoir combien un artiste a déjà reçu), un mécanisme de régulation devrait se mettre en place. En basculant dans un monde de flux, un monde de moins en moins matérialiste, les gens devraient être prêts à donner pour les choses qui seront le plus importantes dans leur vie. Comme toute révolution psychologique, ce basculement des mentalités ne peut pas s’effectuer du jour au lendemain. Toutefois, aussi improbable qu’elle paraisse, cette logique du don régit déjà notre monde. C’est ce qui me rend optimiste. Ne vivez-vous pas du don ? Que faites-vous quand vous empruntez de l’argent à la banque ? Vous recevez un don en échange d’une promesse de remboursement. Que font les banques et les États, ils empruntent pour rembourser leurs dettes. La chaîne de Ponzi n’est autre qu’une chaîne du don.
 
 En résumé, nous entrevoyons aujourd’hui trois formes de rémunération qui pourraient se compléter pour remplacer le modèle actuel du prix de vente.
 
@@ -30,7 +32,7 @@ Est-ce ainsi que nous sortirons du monde de la rareté, du monde des happy few, 
 
 ### Note sur le SARD
 
-1. La version dure du mécénat global passe par l’État qui nous imposerait le don d’une somme forfaitaire.
+1. La version dure du mécénat global passe par l’État qui nous imposerait le don d'une somme forfaitaire.
 
 2. Je suis pessimiste quant à cette idée. Il faut une loi pour favoriser l’auto-organisation de la rémunération. Mais je vois mal l’État passer des lois qui le désengage, c’est contre la logique étatique. Si l’État passait des lois pour pousser le système à fonctionner sans l’État se serait une révolution extraordinaire (surtout hors du monde de la finance). J’ai peur que ce ne soit pas demain la veille. Les gouvernants aiment trop le pouvoir et pas assez les hommes.
 
@@ -47,3 +49,5 @@ Est-ce ainsi que nous sortirons du monde de la rareté, du monde des happy few, 
 8. En revanche, je dois pouvoir choisir dans quelle zone de la longue traîne des votes mon don se répartira. Je peux ainsi décider de financer la création underground.
 
 9. Reste que tout cela est bien compliqué alors qu’il s’agit avant tout d’une révolution psychologique à effectuer. Tous ces artifices techniques ne font-ils pas que nous détourner de notre objectif ? Mieux vaut passer son temps à donner l’exemple et à expliquer qu’à mettre en place des usines à gaz.
+
+Tags: Connecteur, NetCulture

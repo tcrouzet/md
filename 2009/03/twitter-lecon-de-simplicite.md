@@ -8,7 +8,7 @@ J’avoue que j’ai mis trois ans à comprendre ce qui se passait. J’ai déco
 
 En 2007, j’ai compris qu’il se passait quelque chose de plus intéressant. Je rencontrais des gens qui se servaient de Twitter en entreprise comme un outil de productivité, je pense par exemple à Guilhem Fouetillou de [RTGI](http://rtgi.fr/). Quand les membres d’un projet twittent leurs questions, leurs idées, leurs doutes, tous les collaborateurs ont conscience du groupe et peuvent s’entraider on the spot. Je me suis dit que Twitter pouvait devenir l’outil de l’émergence de la conscience collective.
 
-J’ai alors écouté pas mal de chuchotements, puis j’ai arrêté car je trouvais peu de voix qui alors me passionnaient et, surtout, je n’avais pas moi-même envie de twitter. J’étais plongé dans [mon roman sur Ératosthène](http://ihl.tcrouzet.com/) et dans un travail solitaire. Twitter nous fait sortir de notre bulle, il nous projette dans une dimension collective qui n’a jamais existé au préalable, une dimension bruyante comme un hall de gare et qui peut vite devenir assourdissante.
+J’ai alors écouté pas mal de chuchotements, puis j'ai arrêté car je trouvais peu de voix qui alors me passionnaient et, surtout, je n’avais pas moi-même envie de twitter. J’étais plongé dans [mon roman sur Ératosthène](http://ihl.tcrouzet.com/) et dans un travail solitaire. Twitter nous fait sortir de notre bulle, il nous projette dans une dimension collective qui n’a jamais existé au préalable, une dimension bruyante comme un hall de gare et qui peut vite devenir assourdissante.
 
 Aujourd’hui, tout change en même temps que de plus en plus de gens commencent à twitter. On peut retrouver ses amis, les gens qui travaillent sur les mêmes sujets, des outils comme [TweetDeck](http://www.tweetdeck.com) facilitent la lecture et la classification des voix, la recherche dans les fils est performante, Twitter devient une extension du web. Des gens comme [Robert Scoble](http://twitter.com/Scobleizer) suivent des dizaines de milliers de fils !
 
@@ -16,10 +16,12 @@ Le plus extraordinaire, c’est que Twitter est devenu une plateforme de microbl
 
 Exactement comme avec l’email, nous ne sommes pas prisonniers d’un service. Nous pouvons en changer, exporter de l’un à l’autre nos fils et nos amis. Twitter, en ouvrant totalement son API, a créé un nouvel écosystème dans le pur esprit décentralisé du Web.
 
-Facebook, que j’avais jugé extraordinaire pour son environnement de développement, [m’avait très vite chagriné pour son côté centralisé](https://tcrouzet.com/2007/07/09/hypercentralisation/). Facebook est mort (je ne l’utilise plus que comme un annuaire depuis fin 2007). Twitter permet de créer un véritable réseau social, un réseau où les gens s’écoutent et se parlent, un réseau dynamique et vivant, non pas un réseau qui se réduit à un simple annuaire. Quand un contact te fatigue sur Twitter, tu le vires car tu veux plus l’entendre. Sur Facebook c’est l’accumulation débile.
+Facebook, que j’avais jugé extraordinaire pour son environnement de développement, [m’avait très vite chagriné pour son côté centralisé](http://blog.tcrouzet.com/2007/07/09/hypercentralisation/). Facebook est mort (je ne l’utilise plus que comme un annuaire depuis fin 2007). Twitter permet de créer un véritable réseau social, un réseau où les gens s’écoutent et se parlent, un réseau dynamique et vivant, non pas un réseau qui se réduit à un simple annuaire. Quand un contact te fatigue sur Twitter, tu le vires car tu veux plus l’entendre. Sur Facebook c’est l’accumulation débile.
 
 Quel sera le service qui sera au microblogging l’équivalent de Google pour le search, je pense que nous ne pouvons pas encore le savoir. Twitter est l’équivalent d’Altavista au milieu des années 1990. Peut-être Twitter réussira à rester la plateforme de référence mais rien n’est moins sûr. Les contraintes du microblogging restent à définir à mon avis.
 
 Pourquoi 140 caractères par SMS ? Ok, à cause des téléphones. Mais ça n’a plus aucun sens maintenant que tous les téléphones ont le mail. La taille limitée est une contrainte, comme je l’expérimente avec [mon twiller](http://twiller.tcrouzet.com/), elle est en grande partie responsable du succès du microblogging mais est-ce la contrainte idéale ? Sans aucun doute non.
 
 Moralité de cette histoire, plus on nous donne des outils simples, plus nous trouvons des moyens de les utiliser. Peut-on imaginer quelque chose d’encore plus simple que le microblogging ? J’aimerais bien trouver.
+
+Tags: Connecteur

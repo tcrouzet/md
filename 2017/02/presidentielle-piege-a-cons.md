@@ -1,6 +1,6 @@
 # Présidentielle, piège à cons
 
-Nos systèmes démocratiques sont entrés dans un âge de totale imprévisibilité. Tout semble possible. Le Brexit l’a emporté, Trump l’a emporté, Le Pen pourrait l’emporter, ou bien Macron, ou même Fillon malgré ses casseroles. Cette imprévisibilité devrait me réjouir. Elle indique que la complexité de nos sociétés augmente, notamment sous l’effet des réseaux sociaux, et du Net en général. Et davantage de complexité, c’est mécaniquement moins de coercition, donc davantage de liberté. Mais, bien sûr, la réaction se fait immédiatement sentir, d’où le Brexit, Trump, peut-être Le Pen.<span id="more-44889"></span>
+Nos systèmes démocratiques sont entrés dans un âge de totale imprévisibilité. Tout semble possible. Le Brexit l’a emporté, Trump l’a emporté, Le Pen pourrait l’emporter, ou bien Macron, ou même Fillon malgré ses casseroles. Cette imprévisibilité devrait me réjouir. Elle indique que la complexité de nos sociétés augmente, notamment sous l’effet des réseaux sociaux, et du Net en général. Et davantage de complexité, c'est mécaniquement moins de coercition, donc davantage de liberté. Mais, bien sûr, la réaction se fait immédiatement sentir, d’où le Brexit, Trump, peut-être Le Pen.<span id="more-44889"></span>
 
 La complexité et l’imprévisibilité n’ont pas pour vertu d’être rassurantes. Plus rien n’est écrit, l’avenir se brouille, c’est le prix à payer quand des citoyens libres cohabitent, avec le risque qu’ils se saisissent de leur liberté pour réagir comme un seul homme, ce qui démontrerait qu’ils n’étaient pas libres, car la liberté implique la pluralité des opinions.
 
@@ -20,4 +20,8 @@ J’ai finalement reçu une réponse où on me conseillait d’adhérer au mouve
 
 Je regarde tout ça avec un sourire amer. La façon de Fillon de s’accrocher à la rampe ne fait que démontrer la volonté de puissance de ces personnages qui se présentent à une présidentielle. Elle devrait suffire à nous décourager de voter. Quand on se sent investi d’un pouvoir, on manque vite de lucidité.
 
-![](https://tcrouzet.com/images_tc/2014/03/cover2017.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cover2017-400x584.jpg)
+
+
+
+Tags: Politique, une

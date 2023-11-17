@@ -35,3 +35,5 @@ Pour vérifier la pertinence des statistiques et repérer les erreurs OSM, j’a
 Enfin, tout en bas du notebook Codelab, j'ai indiqué comment j'avais rassemblé les données, extraites par la fonction find\_terrain de la section OSM Analysis (assez simple, donc lisible sans une trop grande maîtrise de Python). On doit pouvoir améliorer ce point. Vous pouvez jouer avec le code.
 
 ![Méthode](https://tcrouzet.com/images_tc/2023/10/stat09.png)
+
+Tags: Born to Bike, GPS, une

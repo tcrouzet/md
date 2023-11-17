@@ -36,7 +36,7 @@ Des éditeurs ont peut-être déjà choisi cette stratégie mais je doute qu’i
 
 ### Notes
 
-1. Je vis de plus en plus mal l’ancienne logique qui consiste à imprimer pour imprimer. D’un autre côté, l’auto-publication ne me satisfait pas. Un livre est aussi un travail d’équipe.
+1. Je vis de plus en plus mal l'ancienne logique qui consiste à imprimer pour imprimer. D’un autre côté, l’auto-publication ne me satisfait pas. Un livre est aussi un travail d’équipe.
 
 2. Alors je pousse des amis à créer, sur le modèle de [Veja](http://www.veja.fr/), une maison d’édition respectueuse de l’environnement qui tiendrait compte des évolutions technologiques.
 
@@ -66,7 +66,7 @@ J’ai à mon compteur des livres dans des domaines différents et qui ont été
 
 6. Pendant ce temps, ses commerciaux font le tour des librairies et obtiennent des précommandes qui permettent de fixer le tirage initial.
 
-7. À la sortie du livre, il envoie des exemplaires à la presse (qu’on retrouve sur les marchés aux puces ou sur eBay). Son travail s’arrête souvent là. Parfois, il fait un peu de publicité.
+7. À la sortie du livre, il envoie des exemplaires à la presse (qu'on retrouve sur les marchés aux puces ou sur eBay). Son travail s’arrête souvent là. Parfois, il fait un peu de publicité.
 
 8. Il laisse l’auteur faire la promotion (c’est un peu comme si les ouvriers de Renault faisaient aussi la publicité des Renault, jouaient aux représentants, aux vendeurs, aux mécaniciens…).
 
@@ -80,4 +80,6 @@ J’ai à mon compteur des livres dans des domaines différents et qui ont été
 
 13. Au final, et en général, il gagne peu, les auteurs gagnent peu. Au passage, les uns et les autres on a pollué la planète au nom de la culture.
 
-[Ce billet se prolonge par une expérience pratique.](https://tcrouzet.com/2009/07/19/reinventer-l%e2%80%99edition-experience-pratique/)
+[Ce billet se prolonge par une expérience pratique.](http://blog.tcrouzet.com/2009/07/19/reinventer-l%e2%80%99edition-experience-pratique/)
+
+Tags: édition

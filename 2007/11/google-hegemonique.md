@@ -1,8 +1,8 @@
 # Google hégémonique
 
-![Pacco](https://tcrouzet.com/images_tc/2007/11/google.gif)
+![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/11/google.gif)
 
-J’ai déjà tiré la sonnette d’alarme au sujet de la [position dominante de google](https://tcrouzet.com/2007/07/09/hypercentralisation/), j’en ai subit [les conséquences l’année dernière lors du lancement de bonVote](https://tcrouzet.com/2006/10/09/bonvote-otage-de-google-bis/), je la subis à nouveau aujourd’hui avec [bonWeb](http://www.bonweb.com/). Jeudi, nous avons été blacklistés, effacés de l’index Google, notre trafic s’est instantanément écroulé, un de nos annonceurs a rompu son contrat.<span id="more-658"></span>
+J’ai déjà tiré la sonnette d’alarme au sujet de la [position dominante de google](http://blog.tcrouzet.com/2007/07/09/hypercentralisation/), j’en ai subit [les conséquences l’année dernière lors du lancement de bonVote](http://blog.tcrouzet.com/2006/10/09/bonvote-otage-de-google-bis/), je la subis à nouveau aujourd’hui avec [bonWeb](http://www.bonweb.com/). Jeudi, nous avons été blacklistés, effacés de l’index Google, notre trafic s’est instantanément écroulé, un de nos annonceurs a rompu son contrat.<span id="more-658"></span>
 
 Google est en telle position de force qu’il peut mettre n’importe quelle entreprise web à terre du jour au lendemain, sans même donner la moindre explication. Une amie juriste m’a dit qu’il s’agissait d’un abus de position dominante, qu’à terme Google serait attaqué et perdrait.
 
@@ -16,7 +16,7 @@ La position de Google est simple : tout site qui présente des résultats de re
 
 Google ne nie pas l’intérêt de ce contenu puisqu’il vit de contenus comparables mais il est en train d’interdire ses concurrents, même minuscules comme bonWeb, d’empiéter sur ses platebandes.
 
-Officiellement, à l’origine de cette position, il y a la lutte contre le spam. Mais cette lutte a bon dos. Que Google interdisent aux spammeurs de référencer leurs pages, c’est une chose. Qu’il l’interdise à tous les annuaires en est une autre. Google veut simplement être le seul outil de recherche du web. Demain eBay, la Fnac, toutes les boutiques… pourraient subir ses foudres car aujourd’hui ces sites référencent leurs listings qui ne sont rien d’autre que des résultats de recherche.
+Officiellement, à l’origine de cette position, il y a la lutte contre le spam. Mais cette lutte a bon dos. Que Google interdisent aux spammeurs de référencer leurs pages, c’est une chose. Qu’il l’interdise à tous les annuaires en est une autre. Google veut simplement être le seul outil de recherche du web. Demain eBay, la Fnac, toutes les boutiques… pourraient subir ses foudres car aujourd’hui ces sites référencent leurs listings qui ne sont rien d'autre que des résultats de recherche.
 
 Par exemple, [Wikio dispose d’une page Thierry Crouzet](http://www.wikio.fr/news/Thierry+Crouzet) qui est un résultat de recherche en très bonne position dans Google. Cette page a pour moi un intérêt, elle liste tous les articles qui parlent de moi mais pour Google, en tant que résultat de recherche, elle devrait disparaître. Pourquoi certains sites ne sont-ils pas blacklistés pour des pratiques qui en condamnent d’autres ? Nous entrons dans un web à deux vitesses où il y a les grands et les petits, ceux qui négocient avec Google et les autres. Une forme de dictature est en marche. Le « Don’t be evil » de la jeunesse de Google semble oublié depuis longtemps.
 
@@ -37,3 +37,5 @@ Par exemple, [Wikio dispose d’une page Thierry Crouzet](http://www.wikio.fr/ne
 7. Pour plaire à Google, pour éviter que le problème ne se répète, je crée en ce moment une sitemap pour lui indiquer précisément ce que je veux qu’il indexe, en fait je mâche le travail à Google… Google me force à travailler comme il le veut… il ne veut plus tenter de trier la diversité du web comme il le faisait si bien à ses débuts. C’est aux éditeurs de qualifier leurs pages ce qui est pour le moins difficile lorsque ces pages sont créées par milliers par les utilisateurs eux-mêmes.
 
 8. Au passage, je remarque que Google nous interdit certaines pratiques qu’il s’autorise lui-même, comme d’afficher des publicités à côté de certains mots clés tendancieux. Google veille que nous respections sa loi qu’il ne respecte pas lui-même… ça me rappelle le comportement de certains politiciens.
+
+Tags: google

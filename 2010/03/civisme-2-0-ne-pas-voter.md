@@ -23,3 +23,5 @@ Cette troisième voie peut-elle être incarnée par un parti, par des candidats,
 La représentation absolutiste de nos démocraties n’est plus une forme qui convient à l’homme émancipé du XXI<sup>e</sup> siècle. Nous devons basculer vers une démocratie distribuée, une démocratie P2P, une démocratie de la responsabilité individuelle.
 
 Utopie ? Préférez-vous le chaos qui se prépare quand les insatisfaits franchiront par leur nombre un seuil critique ? Nous changeons, le monde change autour de nous, la politique ne peut pas rester immuable, sinon de la fracture le sang coulera.
+
+Tags: Politique

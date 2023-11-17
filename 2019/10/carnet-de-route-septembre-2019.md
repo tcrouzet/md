@@ -4,7 +4,7 @@
 
 ### Dimanche 1<sup>er</sup>, Balaruc
 
-![De ma chambre](https://tcrouzet.com/images_tc/2019/10/IMG_6303.jpg)
+![De ma chambre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/IMG_6303.jpg)
 
 ### Lundi 2, Balaruc
 
@@ -14,7 +14,7 @@ La maison s’éveille, d’abord les chats plaintifs, puis les enfants à l’�
 
 La nuit a été difficile, ma blessure s’impose, me retourner dans le lit m’arrache parfois un petit cri. Au moindre faux mouvement, j’éprouve la douleur traversante du premier jour, un coup d’épée de bas en haut.
 
-Je passe mes journées immobile et je suis fatigué, parce que mon corps bataille pour se reconstruire, aussi parce que l’inaction fatigue. Je fais du sport pour me doper. J’écris pour la même raison.
+Je passe mes journées immobile et je suis fatigué, parce que mon corps bataille pour se reconstruire, aussi parce que l’inaction fatigue. Je fais du sport pour me doper. J'écris pour la même raison.
 
 ---
 
@@ -56,7 +56,7 @@ Ce matin, le mistral hésitait, puis il a décidé qu’il était trop tôt pour
 
 Les feuilles des camphriers font danser la lumière sur le poteau gris au coin de la pièce, aussi sur le patchwork coloré qui recouvre le canapé devant mon lit, un jeu de rouge, de jaune, de cyan, marqué d’ombres, autoroutes qui traverseraient une plaine ratissée de ravines profondes.
 
-Plus j’observe, plus je m’attache aux détails, plus je m’éveille. Peu à peu, mes yeux s’ouvrent, ma tête s’allège. Alors chaque inspiration m’apporte des saveurs uniques. Je les goûte une à une, sans que cette énumération s’accompagne d’un écoulement du temps.
+Plus j’observe, plus je m’attache aux détails, plus je m'éveille. Peu à peu, mes yeux s’ouvrent, ma tête s’allège. Alors chaque inspiration m’apporte des saveurs uniques. Je les goûte une à une, sans que cette énumération s'accompagne d'un écoulement du temps.
 
 Un bruit de bateau, un bruit de voiture, le plissement d’une vague. Je me tourne vers l’étang, vers, le store au trois quarts abaissé, atténuant les scintillements. Toute la lenteur de l’après-midi se donne à moi, jusque dans les cris sans énergie des goélands.
 
@@ -64,7 +64,7 @@ L’écriture concomitante de cette expérience est-elle la cause ou la conséqu
 
 Un moustique tigre me prend pour cible. Ils sont innombrables, sournois, infatigables. J’ai du mal à me défendre du côté droit, sinon à coups d’insecticides. Le matin, je les retrouve agglutinés au plafond. De penser à eux, je me gratte, et la pesanteur revient, et mon corps exige que je me lève, que je change de position. Moins je bouge, moins mes pensées bougent, c’est explicite.
 
-![De mon lit](https://tcrouzet.com/images_tc/2019/10/P1090922.jpg)
+![De mon lit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1090922.jpg)
 
 ---
 
@@ -74,19 +74,19 @@ Je découvre la difficulté de transporter des choses d’un endroit à un autre
 
 Je ne sais pas où me conduira la notation de ces détails, j’y vois une thérapeutique, une maïeutique, la mise en route d’un processus qui doit redevenir un automatisme, exactement comme les coups de pédales. Pour le moment, quand je déplie la jambe, j’ai le genou droit qui craque, on dirait qu’il refuse de bouger puis il cède brusquement.
 
-Je me sens encore moi-même, avec mes muscles, mes forces. D’ici quelques semaines, j’aurais du mal à me tenir debout. Difficile à croire. Je n’ai pas pris d’antalgique depuis deux jours, j’ai envie de poser mon pied au sol.
+Je me sens encore moi-même, avec mes muscles, mes forces. D’ici quelques semaines, j’aurais du mal à me tenir debout. Difficile à croire. Je n’ai pas pris d’antalgique depuis deux jours, j'ai envie de poser mon pied au sol.
 
 ---
 
 Coucher de soleil cuivre sur un étang d’huile. Un cadeau que nous offre l’hiver, mais plus rarement l’été, une conséquence du mistral d’hier, un signe de la pureté de l’atmosphère, avec l’effet loupe sur les Pyrénées qui n’ont pas quitté l’horizon de la journée avant d’enfler en une chaîne mauve aux dimensions disproportionnées.
 
-![Couchant](https://tcrouzet.com/images_tc/2019/10/P1090945.jpg)
+![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1090945-1599x1200.jpg)
 
 ### Mercredi 4, Balaruc
 
 Matinée paisible après une nuit fraîche. Je suis toujours dans mon bocal, aux fenêtres encore fermées. Aujourd’hui, c’est changement de pansement et donc au préalable douche, une tous les trois jours, je finis par sentir le fauve.
 
-Le soleil frappe le village avec éblouissement. Les feuilles attendent les premières risées, moi l’énergie qui m’envoûtera. Après mes contractions musculaires, contracter mon cerveau, écrire pour écrire.
+Le soleil frappe le village avec éblouissement. Les feuilles attendent les premières risées, moi l’énergie qui m'envoûtera. Après mes contractions musculaires, contracter mon cerveau, écrire pour écrire.
 
 ### Jeudi 5, Balaruc
 
@@ -124,19 +124,19 @@ Olivier passe me voir, tripote mon genou. « Tu as déjà perdu en masse muscul
 
 ### Dimanche 8, Balaruc
 
-Trois jours et trois ravissements écrits. Ils me font un bien fou, autant de les écrire et que de les relire avec surprise. Je ne sais pas encore si je tiens la matière d’un texte plus long, source d’autres découvertes. Peut-être que je me répéterai vite. Les débuts sont toujours prometteurs, mais les œuvres n’émergent que plus tard, si elles survivent à leur naissance.
+Trois jours et trois ravissements écrits. Ils me font un bien fou, autant de les écrire et que de les relire avec surprise. Je ne sais pas encore si je tiens la matière d’un texte plus long, source d’autres découvertes. Peut-être que je me répéterai vite. Les débuts sont toujours prometteurs, mais les œuvres n'émergent que plus tard, si elles survivent à leur naissance.
 
 ---
 
 Nouvel incendie au nord, très proche au vu de la fumée. Je demande aux garçons d’aller voir, ils ne bougent pas. On a changé d’époque : des bombes tomberaient autour d’eux qu’il resteraient rivés à leurs écrans. Je me souviens d’évènements semblables quand j’étais enfant. Nous étions en alerte, tous mobilisés, tous curieux. Désormais le feu n’est que l’affaire des pompiers.
 
-![Incendie](https://tcrouzet.com/images_tc/2019/10/P1090966.jpg)
+![Incendie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1090966.jpg)
 
-![Incendie](https://tcrouzet.com/images_tc/2019/10/P1090977.jpg)
+![Incendie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1090977-1599x1200.jpg)
 
-![Incendie](https://tcrouzet.com/images_tc/2019/10/P1090996-1.jpg)
+![Incendie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1090996-1-1599x1200.jpg)
 
-![Le feu après le feu](https://tcrouzet.com/images_tc/2019/10/P1100025.jpg)
+![Le feu après le feu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1100025-1599x1200.jpg)
 
 ### Mercredi 11, Balaruc
 
@@ -144,19 +144,19 @@ Depuis lundi, la douleur revient, différente. Terminées les pulsations, c’es
 
 ---
 
-Je poste une blague en ligne : « Prix littéraires : ils sont si nombreux que je dois le faire exprès pour n’être dans aucun. » Mais ce n’est pas rigolo, c’est même putain de frustrant, avoir l’impression que tous les autres sont des écrivains respectables et pas moi.
+Je poste une blague en ligne : « Prix littéraires : ils sont si nombreux que je dois le faire exprès pour n'être dans aucun. » Mais ce n’est pas rigolo, c’est même putain de frustrant, avoir l’impression que tous les autres sont des écrivains respectables et pas moi.
 
-![De mon lit](https://tcrouzet.com/images_tc/2019/10/IMG_6344.jpg)
+![De mon lit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/IMG_6344.jpg)
 
 ### Jeudi 12, Balaruc
 
 [Découverte d’eau sur une exoplanète](https://www.space.com/alien-planet-k2-18b-water-vapor-not-earth-twin.html), une première, ça me fait un bien fou, comme si soudain l’univers devenait plus intéressant.
 
-![De mon lit](https://tcrouzet.com/images_tc/2019/10/IMG_6355.jpg)
+![De mon lit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/IMG_6355.jpg)
 
 ### Vendredi 13, Balaruc
 
-Je déménage pour une semaine, abandonnant la maison à l’équipe de tournage de Candice Renoir. Je roule mon fauteuil jusqu’à chez ma mère, je n’ai jamais autant souffert des bras, pour à peine plus d’un kilomètre. OK, mes roues sont remarquables d’adhérence. Je rampe sur le sol, j’en détaille le moindre millimètre carré. Le béton désactivé ressemble à une râpe à fromage. Les dévers me font quitter ma trajectoire. À destination, depuis ma nouvelle chambre, je vois le mur du jardin, avec au-dessus, entre un immense micocoulier et un figuier, le bout d’une autre maison, une porte-fenêtre aux volets bleus donnant sur un balcon.
+Je déménage pour une semaine, abandonnant la maison à l’équipe de tournage de Candice Renoir. Je roule mon fauteuil jusqu’à chez ma mère, je n’ai jamais autant souffert des bras, pour à peine plus d’un kilomètre. OK, mes roues sont remarquables d’adhérence. Je rampe sur le sol, j'en détaille le moindre millimètre carré. Le béton désactivé ressemble à une râpe à fromage. Les dévers me font quitter ma trajectoire. À destination, depuis ma nouvelle chambre, je vois le mur du jardin, avec au-dessus, entre un immense micocoulier et un figuier, le bout d’une autre maison, une porte-fenêtre aux volets bleus donnant sur un balcon.
 
 ---
 
@@ -190,7 +190,7 @@ Une fausse manip incompréhensible sur Ulysses et mes *Ravissements* disparaisse
 
 Isa me pousse jusqu’à la plage où je reste une heure à écrire. Le soir nous allons à la maison pour voir si tout ce passe bien en préparation du prime time de demain, la maison devant servir de décors pour l’émission *Terre inconnue*. Éclairage pharaonique, débauche électrique, illuminations jusqu’à Sète. Quand nous arrivons, la chef de plateau nous dit qu’ils se font manger par les moustiques et les moucherons. Avec leurs projecteurs, ils les ont attirés depuis des kilomètres.
 
-![Préparation du tournage](https://tcrouzet.com/images_tc/2019/10/P1100060-1.jpg)
+![Préparation du tournage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/P1100060-1.jpg)
 
 ### Mardi 17, Balaruc
 
@@ -198,7 +198,7 @@ Je regarde la TV, je ne vois que les moucherons et les moustiques collés à la 
 
 ### Mercredi 18, Balaruc
 
-![De ma chambre](https://tcrouzet.com/images_tc/2019/10/Illustration-sans-titre-1.jpg)
+![De ma chambre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/Illustration-sans-titre-1.jpg)
 
 ### Jeudi 19, Balaruc
 
@@ -216,7 +216,7 @@ Embrasser une personne obèse augmente les chances de soi-même devenir obèse, 
 
 Première sortie. Taxi jusqu’à la gare. Une assistante m’aide à m’installer dans un TER. À vrai dire, je me débrouille seul. Trois marches raides à escalader. SPlus tôt dans ma convalescence, je n’aurais pas pu, je sens déjà que cette rupture de routine sollicite mon articulation. Et puis je vais présenter mon livre, briser le silence, je ne sais pas si c’est une bonne chose. J’aurais voulu que ce livre se porte lui-même, sans moi, comme devraient le faire tous les livres.
 
-J’ai compris que le Net ne m’aiderait plus à vendre mes livres, ou même mes idées. Il a trahi mon rêve de décentralisation. Aujourd’hui, le réseau des librairies est plus décentralisé que le Net, plus politiquement attrayant, même s’il faut attendre longtemps avant de publier (bande passante faible). Le meilleur des mondes n’existe pas. Je pourrais faire l’autruche et continuer de faire comme si le Net était comme avant. Je pourrais m’illusionner d’être entendu.
+J’ai compris que le Net ne m’aiderait plus à vendre mes livres, ou même mes idées. Il a trahi mon rêve de décentralisation. Aujourd’hui, le réseau des librairies est plus décentralisé que le Net, plus politiquement attrayant, même s'il faut attendre longtemps avant de publier (bande passante faible). Le meilleur des mondes n’existe pas. Je pourrais faire l’autruche et continuer de faire comme si le Net était comme avant. Je pourrais m’illusionner d’être entendu.
 
 Est-ce grave de ne pas l’être ? J’ai déjà parlé du climat, des dérèglements politiques, des solutions indispensables. Je n’ai pas envie de me répéter, de passer ma vie à combattre les colapsologues qui précipitent l’effondrement en déprimant les foules. J’ai envie de collaboration, de tenter des expériences d’écriture collective, d’expérimenter autrement, autre chose, mais mon niveau d’exigence rend peut-être cette envie impossible.
 
@@ -256,7 +256,7 @@ J’ai écrit vingt ravissements, 80 000 signes, un petit livre prend forme, san
 
 Première visite de contrôle à la clinique. Je n’avais pas compris que je devais arriver avec une radio. Pas grave. Le chirurgien vérifie que ma jambe droite n’a pas raccourci, puis teste sa mobilité. Tout va, mais « pas de folie ». J’ai désormais droit de pédaler sur un home-trainer sans forcer. Dans dix jours, je commence la kiné et réapprends à poser le pied par terre.
 
-![Dans les rues de Montpellier](https://tcrouzet.com/images_tc/2019/10/cf4b2ec3-6f59-4f0b-9c4d-dbdb78d249ab.jpg)
+![Dans les rues de Montpellier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/10/cf4b2ec3-6f59-4f0b-9c4d-dbdb78d249ab.jpg)
 
 ### Samedi 28, Balaruc
 
@@ -269,3 +269,5 @@ Parfois j’ai envie de publier un billet juste pour la compagnie de quelques co
 ### Lundi 30, Balaruc
 
 Première séance de home-trainer. Je mouline 25 minutes et parcours l’équivalent de 6 km. Au début, j’ai mal à la hanche, puis après cinq minutes, plus rien, mais les douleurs reviennent sur la fin. Je rentre épuisé. Michel Dufranne fait un bel éloge de mon roman.
+
+Tags: Carnets, une

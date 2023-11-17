@@ -4,8 +4,12 @@ L’idée a germé sur Twitter entre [Neil Jomunsi](http://page42.org/) et moi. 
 
 Le projet : inviter d’autres auteurs à discuter avec nous. Parler de leur travail et aussi des choses qui les énervent, mais qu’eux-mêmes n’ont pas nécessairement envie d’écrire.
 
-On a fait un petit essai aujourd’hui en duo où on parle droit d’auteur et Wattpad. Bon, on diffuse même si le son est pourri. La prochaine fois on utilise des casques.
+On a fait un petit essai aujourd’hui en duo où on parle droit d'auteur et Wattpad. Bon, on diffuse même si le son est pourri. La prochaine fois on utilise des casques.
 
 \
 
-![On a même enregistré en vidéo, mais on s'était pas fait beau.](https://tcrouzet.com/images_tc/2015/02/video.jpg)
+![On a même enregistré en vidéo, mais on s'était pas fait beau.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/video.jpg)
+
+
+
+Tags: édition, une

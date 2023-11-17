@@ -4,7 +4,7 @@ Je suis fatigué, c’est l’automne. Mais c’est une explication insuffisante
 
 Je viens de perdre mon oncle. Mon grand frère, moi le fils unique. L’artiste de la famille. Qui m’a appris à dessiner, qui m’a fait lire Hugo Pratt à onze ans, qui m’a plus que nul autre envoyé dans la trajectoire que je suis, lui le rigolo indolent. Il est parti comme ça, beaucoup trop jeune. Un jour mal au ventre, le lendemain condamné dans d’atroces souffrances. Depuis, moi aussi j’ai mal au ventre, je suis tétanisé.
 
-![](https://tcrouzet.com/images_tc/2012/12/agm1.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/12/agm1.jpg)
 
 Et puis Alain-Gilles Minella aussi nous a quittés, en même temps que mon oncle, de la même maladie brutale. Comme s’ils s’étaient donné le mot et avaient décidé de me faire une farce.
 
@@ -23,3 +23,5 @@ Au fond de mon lit, je lis *Ciseaux*, de Stéphane Michaka. La vie romancée de 
 Le texte me travaille aux tripes, il avive tout ce que je vis, je ne cesse de me demander « Pourquoi ? » Je n’ai pas de dieu à invoquer. Tout s’achève. J’ai toujours refusé de l’accepté. Cette fois, je suis cerné.
 
 Je suis confus, pas structuré, je ne peux l’être. Je termine un livre commencé douze ans plus tôt, je travaille à l’édition de *La Quatrième Théorie*, en même temps une partie de mon monde s’écroule. Ce qui aurait pu être une joie sonne comme une fin. Il me faut aller chercher loin la force de considérer tout cela comme une naissance, pour eux, pour porter plus loin le bâton de relais qu’ils m’ont transmis. Il n’y a que cette condition que les choses ont du sens. Porter plus loin le message.
+
+Tags: Autobiographie, une

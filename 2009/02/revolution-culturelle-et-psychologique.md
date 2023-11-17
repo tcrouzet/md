@@ -14,7 +14,7 @@ Dans *L’homme qui inventa à la Terre*, je resserre encore plus sur l’indivi
 
 Je n’attends rien du système. Je ne demande rien aux gens qui le dirigent. Toute la responsabilité repose sur les épaules des hommes libres. Quand ils deviennent assez nombreux à vivre autrement, le système change.
 
-Il ne suffit pas de vouloir d’un autre monde, il faut d’abord le vivre, le construire et alors il est là, c’est tout.
+Il ne suffit pas de vouloir d’un autre monde, il faut d’abord le vivre, le construire et alors il est là, c’est tout. 
 
 Les révolutionnaires imaginent sur plan le monde à venir, ils cassent tout, puis cherchent à construire ce qu’ils ont dessiné. Ça ne marche jamais parce que la science de l’ingénieur n’a jamais été une science exacte.
 
@@ -23,3 +23,5 @@ Quand je parle de société en réseau, je ne parle jamais d’une société à 
 Je ne lance pas un appel à la révolution pour la construire. Je dis simplement « Regardez, nous y sommes déjà, des tonnes de gens vivent dedans. »
 
 Et si notre monde est en crise c’est parce qu’en son sein un autre monde est né et ne cesse de se développer. Il n’est pas question de révolution mais d’évolution.
+
+Tags: Connecteur

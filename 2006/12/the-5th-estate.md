@@ -8,8 +8,10 @@ Mais l’usage du terme *cinquième pouvoir* ne semble pas très répandu dans l
 
 > Unlike the crap you pay to read in the fourth estate, my crap is free!
 
-J’ai toutefois découvert un [forum](http://community.livejournal.com/5th_estate/) plus explicitement en lutte contre les pouvoirs traditionnels. Sa baseline :
+J'ai toutefois découvert un [forum](http://community.livejournal.com/5th_estate/) plus explicitement en lutte contre les pouvoirs traditionnels. Sa baseline :
 
-> An enraged terrier on the ass of the power elite…
+> An enraged terrier on the ass of the power elite...
 
-Mais c’est encore dans la mouvance anarchiste dont je ne me revendique pas.
+Mais c'est encore dans la mouvance anarchiste dont je ne me revendique pas.
+
+Tags: Politique

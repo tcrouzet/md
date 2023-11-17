@@ -9,3 +9,5 @@ Avec ses amis, il faisait jaser. On nous racontait que Dali était entré chez l
 Quarante ans plus tard, Brassens est mort, Lolo aussi, Dali aussi. La cabane a été détruite pour laisser le passage à une promenade, maintenant ponctuée d’une fresque souvenir. Sous la neige, il y avait foule pour la dévoiler. J’ai longuement regardé les spectateurs, j’ai reconnu peu de visages, peu avaient un jour connu la cabane et sans doute que la plupart de ceux qui l’avaient connue l’avaient aussi décriée.
 
 Avec le temps, nous avons ainsi le don de nous acclimater aux comportements inattendus. Pendant que mes concitoyens célébraient les parias de jadis, d’autres parias étaient en train de faire le monde, à quelques pas de là, dans l’indifférence ou pire sous les regards moqueurs. Les pirates de mon enfance ne sont pas morts, d’autres ont pris leur suite. Comme tous les hommes libres, ils sont rarement admirés de leur vivant car leur vie dérange ceux qui la côtoient.
+
+Tags: anarchisme

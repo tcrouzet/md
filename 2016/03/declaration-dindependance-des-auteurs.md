@@ -1,6 +1,6 @@
 # Déclaration d’indépendance des auteurs
 
-J’ai écrit ce texte il y a déjà deux ans. Je ne l’ai pas publié parce que je n’étais moi-même pas prêt à me déclarer indépendant et [je ne le suis toujours pas](https://tcrouzet.com/2016/03/21/rumination-dun-auteur-en-desamour-avec-les-editeurs/). Je vous le soumets pour poursuivre la réflexion.<span id="more-43689"></span>
+J’ai écrit ce texte il y a déjà deux ans. Je ne l’ai pas publié parce que je n’étais moi-même pas prêt à me déclarer indépendant et [je ne le suis toujours pas](http://tcrouzet.com/2016/03/21/rumination-dun-auteur-en-desamour-avec-les-editeurs/). Je vous le soumets pour poursuivre la réflexion.<span id="more-43689"></span>
 
 ---
 
@@ -10,7 +10,7 @@ Depuis toujours les producteurs et les créateurs ont été sous l’emprise des
 
 1. De la nécessité de différencier deux fonctions : *publishing*, action de diffuser un texte par tous les moyens possibles et de l’amener jusqu’au public ; *editing*, action de parfaire un texte et de l’amener à l’excellence. Un éditeur unit traditionnellement ces deux compétences de *publisher* et d’*editor*. L’editing est un moyen d’optimiser le publishing, lui-même souvent sous-traité en grande partie à un distributeur.
 
-2. Nouer des liens libère à condition que ces liens soient réciproques et que chacun des agents liés dispose des mêmes droits et devoirs (j’ai effectué cette démonstration dans [*L’alternative nomade*](https://tcrouzet.com/alternative-nomade/)). Ça n’a jamais été le cas pour les auteurs vis-à-vis des éditeurs, sauf éventuellement pour les auteurs de best-sellers qui inversent la relation de dépendance.
+2. Nouer des liens libère à condition que ces liens soient réciproques et que chacun des agents liés dispose des mêmes droits et devoirs (j’ai effectué cette démonstration dans [*L’alternative nomade*](http://tcrouzet.com/alternative-nomade/)). Ça n’a jamais été le cas pour les auteurs vis-à-vis des éditeurs, sauf éventuellement pour les auteurs de best-sellers qui inversent la relation de dépendance.
 
 3. Depuis l’avènement du numérique, l’éditeur n’est qu’une des interfaces possibles entre l’auteur et les lecteurs. De ce fait, l’éditeur ne peut gérer l’ensemble de la diffusion et de la promotion d’un auteur, sans en même temps réduire son potentiel (à moins d’exiger de l’auteur un travail non autorial, travail qui s’ajoute à celui de l’écriture, travail jamais rémunéré). L’exclusivité de distribution n’avait de sens que face à un canal de distribution unique et unilatéral.
 
@@ -46,7 +46,7 @@ Depuis toujours les producteurs et les créateurs ont été sous l’emprise des
 
 4. Si je publie moi-même un texte, un éditeur peut en demander la distribution s’il pense pouvoir étendre ma base lecteur. Sans renoncer moi-même à la vente directe, je peux lui accorder une exclusivité temporaire et renégociable à échéance sur une zone géographique et linguistique.
 
-5. Quand je diffuse seul un texte, je le vends presque aussi bien qu’en passant par un éditeur. Je n’ai donc besoin d’un éditeur que pour faire mieux que je ne le ferai seul (passage de l’artisanat à l’industrie).
+5. Quand je diffuse seul un texte, je le vends presque aussi bien qu'en passant par un éditeur. Je n’ai donc besoin d’un éditeur que pour faire mieux que je ne le ferai seul (passage de l’artisanat à l’industrie).
 
 6. Dans le commerce, les inventeurs/créateurs de produits ne cèdent pas leurs brevets à leurs distributeurs. Il est temps que les éditeurs se comportent avec les auteurs comme les autres professionnels du business.
 
@@ -54,6 +54,8 @@ Depuis toujours les producteurs et les créateurs ont été sous l’emprise des
 
 8. J’écris les textes que j’aime, je les diffuse même si mes partenaires commerciaux ne veulent pas me suivre dans les régions littéraires encore mal défrichées. Je n’ai aucun scrupule à leur abandonner le champ du mainstream. Simplement, qu’ils ne viennent pas après me parler d’art ou de contemporain.
 
-9. Je ne mets pas tous les éditeurs dans le même panier et j’applaudis ceux qui acceptent l’indépendance des auteurs et font d’eux de véritables partenaires.
+9. Je ne mets pas tous les éditeurs dans le même panier et j'applaudis ceux qui acceptent l'indépendance des auteurs et font d’eux de véritables partenaires.
 
-10. Je suis généralement très heureux quand je travaille avec des éditeurs et c’est tout le paradoxe. Mon bonheur provisoire ne doit pas limiter mes libertés futures mais au contraire les démultiplier.
+10. Je suis généralement très heureux quand je travaille avec des éditeurs et c'est tout le paradoxe. Mon bonheur provisoire ne doit pas limiter mes libertés futures mais au contraire les démultiplier.
+
+Tags: édition, une

@@ -2,7 +2,7 @@
 
 
 
-![Pacco](https://tcrouzet.com/images_tc/20070905pacco.jpg)
+![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070905pacco.jpg)
 
 Depuis deux ou trois ans, il se passe la même chose autour des blogs, j’éprouve de vieilles sensations en même temps que je rencontre de nouveaux amis. Cette fois, encore, nous inventons un nouvel art narratif, un art pour décrire notre temps et l’habiter.
 
@@ -48,12 +48,14 @@ Notes
 
 9. Nous pouvons être optimistes. Les premiers auteurs stars du web apparaissent, par exemple, Mike Krahulik et Jerry Holkin, auteur de [Penny Arcade](http://www.penny-arcade.com/comic), une BD hebdomadaire vue par 500 000 internautes dans les 24 heures qui suivent sa parution. Leur site affiche 50 millions de pages chaque mois ! Il nous prouve qu’il est possible de toucher un public.
 
-10. Je voulais écrire ce billet depuis longtemps. Je me suis décidé en découvrant les billets de [Versac](http://vanb.typepad.com/versac/2007/08/le-blog-cest-mo.html), [embruns](http://embruns.net/logbook/2007/08/28.html#005601), [blog de mec](http://blog-de-mec.typepad.fr/blog_de_mec/2007/08/le-blog-nest-vr.html)… C’est aussi ça le blog, cette mutuelle émulation, c’est très bien, mais nous ne vivrons pas longtemps en auto-sustentation. Notre écosystème est trop réduit (plutôt nos divers écosystèmes son trop réduits).
+10. Je voulais écrire ce billet depuis longtemps. Je me suis décidé en découvrant les billets de [Versac](http://vanb.typepad.com/versac/2007/08/le-blog-cest-mo.html), [embruns](http://embruns.net/logbook/2007/08/28.html#005601), [blog de mec](http://blog-de-mec.typepad.fr/blog_de_mec/2007/08/le-blog-nest-vr.html)... C’est aussi ça le blog, cette mutuelle émulation, c’est très bien, mais nous ne vivrons pas longtemps en auto-sustentation. Notre écosystème est trop réduit (plutôt nos divers écosystèmes son trop réduits).
 
 11. J’ai pensé publier avant ce billet un autre billet où j’aurais annoncé que je fermais mon blog. Puis je me suis ravisé, de peur que ça ne fasse ni chaud ni froid à tout le monde. Et que, du coup, je sois forcé de le fermer vraiment.
 
-12. Mais ne vaudrait-il pas mieux tenir un blog qui serait publié d’un seul coup, une fois par ans, comme un livre ? Au moins, une attente se créerait… comme elle se crée pour les autres auteurs. C’est ce que m’a suggéré [Nassim Nicolas Taleb](https://tcrouzet.com/2007/09/03/conversation-avec-taleb/).
+12. Mais ne vaudrait-il pas mieux tenir un blog qui serait publié d’un seul coup, une fois par ans, comme un livre ? Au moins, une attente se créerait… comme elle se crée pour les autres auteurs. C’est ce que m’a suggéré [Nassim Nicolas Taleb](http://blog.tcrouzet.com/2007/09/03/conversation-avec-taleb/).
 
 13. Peu importe le moyen mais il faut créer l’attente… faire du blog une chose rare, c’est ce à quoi j’aspire.
 
-14. En tout cas le blog comme commentaire de l’actualité n’a aucun intérêt car [cette actualité elle-même est sans intérêt](https://tcrouzet.com/2007/08/31/information-egale-desinformation/).
+14. En tout cas le blog comme commentaire de l’actualité n’a aucun intérêt car [cette actualité elle-même est sans intérêt](http://blog.tcrouzet.com/2007/08/31/information-egale-desinformation/).
+
+Tags: Blogosphère, Facebook, NetCulture

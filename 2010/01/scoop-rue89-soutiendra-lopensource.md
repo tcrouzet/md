@@ -18,11 +18,11 @@ Aujourd’hui, Daniel refuse les subventions, je le félicite, mais demain s’i
 
 Trop de coûts de structure. Et puis à quoi bon observer la télévision depuis Internet. Pourquoi se limiter à la télévision ? Je ressens une frustration, le regret de ne plus être à la TV, avec les moyens de la TV. Si une grande chaîne proposait à Daniel de revenir en live refuserait-il ? Je ne vais pas répondre à sa place.
 
-Mais pourquoi venir sur Internet pour regarder en arrière, vers le monde qui meurt alors qu’un monde devant se cristallise peu à peu : [le Flux](https://tcrouzet.com/2010/01/04/lalternative-nomade-partie-1/).
+Mais pourquoi venir sur Internet pour regarder en arrière, vers le monde qui meurt alors qu’un monde devant se cristallise peu à peu : [le Flux](http://blog.tcrouzet.com/2010/01/04/lalternative-nomade-partie-1/).
 
 Nous sommes tous dans le même bateau. Nous voyons que les anciennes façons de faire ne marchent plus, les nouvelles se cherchent un équilibre. Ce n’est pas une époque confortable mais c’est pour cette raison qu’elle est excitante.
 
-Subventions ou non, l’ancien modèle de la presse et le modèle actuel des pure-players est intenable. Par rapport aux blogueurs, [ils partent dans le rouge](https://tcrouzet.com/2010/01/07/blogueur-gagne-journaliste/) et ils n’ont aucun avantage concurrentiel sur nous.
+Subventions ou non, l’ancien modèle de la presse et le modèle actuel des pure-players est intenable. Par rapport aux blogueurs, [ils partent dans le rouge](http://blog.tcrouzet.com/2010/01/07/blogueur-gagne-journaliste/) et ils n’ont aucun avantage concurrentiel sur nous.
 
 Nous avons donc toutes les chances d’arriver dans le vert avant eux. Alors nous effectuerons les enquêtes qu’ils ne pourront plus faire, nous effectuerons le métier auquel ils tiennent tant mieux qu’ils n’arrivent à le faire. La diversité de nos voix garantira l’indépendance globale de ce que nous dirons. L’information sera enfin libre. Et la presse renaîtra de ses cendres sous une forme nouvelle.
 
@@ -36,7 +36,7 @@ Haski en a convenu. Ainsi les subventions gouvernementales finiraient par béné
 
 Il me semble que toutes les subventions devraient concourir à créer des biens publics. Les autres bénéficiaires vont-ils faire la même promesse ? Car aujourd’hui, à ma connaissance, ils utilisent tous des plates-formes Open Source. Il ne s’agirait pas de prendre à la communauté Internet quand ça arrange, ne pas lui rendre quand c’est possible (pour préserver un avantage).
 
-Le patron du monde.fr nous sort alors que le gouvernement ne finance pas à 100 % les projets, ce qui justifierait de ne pas libérer le code ainsi produit. Je crois rêver. À combien estime-t-il la valeur des logiciels Open Source qui ne lui ont rien coûté ? Il est bien logique que lui aussi investisse, fasse un retour d’ascenseur à la communauté des développeurs sans laquelle il n’existerait pas.
+Le patron du monde.fr nous sort alors que le gouvernement ne finance pas à 100 % les projets, ce qui justifierait de ne pas libérer le code ainsi produit. Je crois rêver. À combien estime-t-il la valeur des logiciels Open Source qui ne lui ont rien coûté ? Il est bien logique que lui aussi investisse, fasse un retour d’ascenseur à la communauté des développeurs sans laquelle il n'existerait pas.
 
 D’une manière plus générale, toutes les aides de l’État devraient être reversées. Un film subventionné par l’État devrait être en libre téléchargement sur le Net. Et ainsi de suite…
 
@@ -45,3 +45,5 @@ Le forum d’Arrêt sur Image semble peuplé par beaucoup de gens de gauche qui 
 *PS1 : J’avais pas prévu une chose que mes interventions laissent sans doute transparaître. Je n’avais pas pensé que je m’adresserais sur ce plateau à des gens qui n’ont aucune idée de ce que j’ai dans la tête (déformation du blogueur qui vit dans sa communauté). Toutes mes histoires de flux, de décentralisation, d’auto-organisation… J’étais pas venu dans l’idée de vulgariser et en parlant je voyais bien que personne ne comprenait ce que je voulais dire. Tout simplement, je n’étais pas en mode promotion, chose que j’ai appris à faire à la sortie d’un livre. J’étais encore la tête dans mon atelier de réflexion, dans l’état d’esprit de celui qui partage quelque chose de non encore formalisé… à l’image ou à la radio ça ne passe pas. Il faut que je m’entraîne à expliquer à l’oral le Flux à ceux qui ne l’ont pas expérimenté.*
 
 *PS2 (15h13) : À ceux qui disent que je dis n’importe quoi, je conseille de visionner la vidéo du débat ou d’interroger Pierre Haski. Et aussi à venir débattre ici, pas à se cacher sous les 140 caractères de Twitter.*
+
+Tags: Journalisme, NetCulture

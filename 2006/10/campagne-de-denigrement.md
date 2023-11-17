@@ -1,6 +1,6 @@
 # Campagne de dénigrement
 
-Dans mon prochain livre, je montrerai que [le cinquième pouvoir](https://tcrouzet.com/2006/08/22/le-cinquieme-pouvoir/), dont la blogosphère est la partie émergée de l’iceberg, a un réel pouvoir. Je ne vais pas faire ici cette démonstration. Supposons donc pour la suite de ce billet que ce pouvoir soit réel.
+Dans mon prochain livre, je montrerai que [le cinquième pouvoir](http://blog.tcrouzet.com/2006/08/22/le-cinquieme-pouvoir/), dont la blogosphère est la partie émergée de l’iceberg, a un réel pouvoir. Je ne vais pas faire ici cette démonstration. Supposons donc pour la suite de ce billet que ce pouvoir soit réel.
 
 Je crois alors que nous autres blogueurs devons être prudents et responsables. Quand je vois certains d’entre-nous s’étriper [plus ou moins gentiment, plus ou moins méchamment](http://embruns.net/blogosphere/laffaire_natacha_qs.html), je me dis que tout cela peut nous être reproché à un moment donné.
 
@@ -19,3 +19,5 @@ En conséquence, si Fabius voulait soutenir DSK, il devrait s’attaquer de fron
 Nous autres membres du cinquième pouvoir avons donc au moins le pouvoir de dénigrer. C’est un pouvoir qui risque de se retourner contre nous lorsque nous pèseront dans une campagne. Car pour nous affaiblir, il faudra aussi nous dénigrer. J’espère que nous serons alors assez forts pour nous retourner contre le dénigreur, pour nous affirmer comme une force positive.
 
 Internet est un espace de liberté. Il ne faudrait pas que par le dénigrement, pourquoi pas la calomnie, un candidat s’attaque à internet, tout ça pour juguler le cinquième pouvoir, pour assouvir une autorité immodérée sur la société.
+
+Tags: Politique

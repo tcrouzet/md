@@ -8,4 +8,6 @@ Bientôt on nous parlera du premier roman écrit avec Evernote. C’est sans dou
 
 Tous ceux qui depuis des années s’adonnent à la twittérature écrivent dans le cloud. Et à la facebooklittérature idem. Rien de neuf sous le soleil. L’interactivité est déjà là. Les phrases aussi sont livrées en temps réel.
 
-Ce qui me semble intéressant, en revanche, c’est que ces expériences continuent et qu’elles attirent de plus en plus de lecteurs. Ce n’est plus la nouveauté qui pose question mais l’intérêt ou non de cette forme. Nous sommes en pleine [*stratégie du cyborg*](https://tcrouzet.com/la-strategie-du-cyborg/).
+Ce qui me semble intéressant, en revanche, c’est que ces expériences continuent et qu’elles attirent de plus en plus de lecteurs. Ce n’est plus la nouveauté qui pose question mais l’intérêt ou non de cette forme. Nous sommes en pleine [*stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/).
+
+Tags: édition, Twiller

@@ -16,4 +16,6 @@ En refusant d’indexer certains sites, ils se contentent de faire copain-copain
 
 Plus le réseau se développe, plus il est complexe, plus il est libre.
 
-*PS : La construction du réseau est plus importante que l’accès à l’information à un moment donné de l’histoire du réseau. Je sais qu’il y a de la censure mais elle sera de plus en plus dificille. La meilleure façon de compliquer la tâche du gouvernement chinois est de développer le réseau. Si Google et les autres avaient refusé d’aller en Chine, si toutes les boîtes occidentales refusaient d’aller en Chine, je ne suis pas sûr que ce serait bon pour l’avancée de la démocratie en Chine.*
+*PS : La construction du réseau est plus importante que l’accès à l’information à un moment donné de l'histoire du réseau. Je sais qu’il y a de la censure mais elle sera de plus en plus dificille. La meilleure façon de compliquer la tâche du gouvernement chinois est de développer le réseau. Si Google et les autres avaient refusé d’aller en Chine, si toutes les boîtes occidentales refusaient d’aller en Chine, je ne suis pas sûr que ce serait bon pour l’avancée de la démocratie en Chine.*
+
+Tags: Connecteur

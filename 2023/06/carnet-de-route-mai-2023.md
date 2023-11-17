@@ -201,3 +201,5 @@ J’émerge d’un tunnel, avec peu de temps pour le journal. « Réécritude 
 [Olivier Auber](https://olivierauber.medium.com/) me fait découvrir le [travail remarquable de Karl Sims](https://karlsims.com/rdtool.html).
 
 ![Maguelone](https://tcrouzet.com/images_tc/2023/06/IMG_2230.jpeg)
+
+Tags: Carnets, une

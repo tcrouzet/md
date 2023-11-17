@@ -6,7 +6,7 @@ Certes des anarchistes ont jadis posé des bombes ? Ils réprouvaient tant l’
 
 Si l’anarchisme effraie les tenants de l’ordre établi, ceux qui en profitent comme ceux qui s’y sentent confortables et craignent le changement, c’est parce qu’il ouvre une nouvelle voie politique, une voie qui passe par chacun de nous, qui implique pour commencer notre responsabilité individuelle. Que ça fait mal d’entendre que pour que le monde change il faut d’abord changer soi-même.
 
-Au fait, c’est quoi l’anarchisme ? Il doit exister des centaines de définitions divergentes, je m’en tiens à celle dans laquelle je me reconnais et qu’a formulée Chomsky. [Un anarchiste refuse les structures de pouvoir qui ne sont plus nécessaires.](https://tcrouzet.com/2010/02/11/anarchisme-emancipation/) C’est très simple. Un anarchiste n’est pas contre tous les pouvoirs, mais contre les pouvoirs qui aliènent, à commencer par ceux qui l’aliènent lui-même.
+Au fait, c’est quoi l’anarchisme ? Il doit exister des centaines de définitions divergentes, je m’en tiens à celle dans laquelle je me reconnais et qu’a formulée Chomsky. [Un anarchiste refuse les structures de pouvoir qui ne sont plus nécessaires.](http://blog.tcrouzet.com/2010/02/11/anarchisme-emancipation/) C’est très simple. Un anarchiste n’est pas contre tous les pouvoirs, mais contre les pouvoirs qui aliènent, à commencer par ceux qui l’aliènent lui-même.
 
 Ainsi des anarchistes peuvent être plutôt de gauche quand ils voient les patrons comme cause de l’aliénation, plutôt de droite quand ils s’attaquent à l’État… ni de droite ni de gauche quand ils désignent ces faux monnayeurs de banquier. J’ai tendance à être un anarchiste à large spectre.
 
@@ -35,3 +35,5 @@ Pour ma part, j’essaie d’appliquer 2 tout en restant dans la légalité pour
 Au final, l’anarchiste est peut-être un idéaliste. Quand une nouvelle structure sociale émerge, il ne s’en satisfait pas et veut déjà partir ailleurs. Il est toujours en changement, comme un écrivain, comme tous les artistes.
 
 Quand j’écris un jour, je ne sais pas ce que j’écrirai le lendemain, peut-être que je me contredirai, c’est même probable, car je cherche sans cesse. Il n’existe pas un système a priori, pensé une fois pour toute, qu’il suffirait de dérouler pour le restant de sa vie.
+
+Tags: NetCulture

@@ -10,13 +10,13 @@ Je me demande si l’enseignement du français, cette façon d’interpréter le
 
 Chateaubriand : « Des auteurs modernes français de ma date, je suis quasi le seul dont la vie ressemble à ses ouvrages \[…\] » Plus les années passent, plus je tends vers cette doctrine. J’apprécie les fictions délirantes, mais déteste celles qui se veulent réalistes, le roman noir en général, alors que les auteurs ignorent tout de ce dont ils parlent.
 
-« Mais à compter du règne de François Ier, nos écrivains ont été des hommes isolés dont les talents pouvaient être l’expression de l’esprit, non des faits de leur époque. » Si une œuvre n’enferme pas son époque en ce qu’elle diffère des autres et des invariants comme les phénomènes de mode, elle a peu de chance de survivre.
+« Mais à compter du règne de François Ier, nos écrivains ont été des hommes isolés dont les talents pouvaient être l'expression de l'esprit, non des faits de leur époque. » Si une œuvre n'enferme pas son époque en ce qu’elle diffère des autres et des invariants comme les phénomènes de mode, elle a peu de chance de survivre.
 
-### Dimanche 2, Cap d’Agde
+### Dimanche 2, Cap d'Agde
 
-![Cap d'Agde](https://tcrouzet.com/images_tc/2021/06/IMG_9262.jpeg)
+![Cap d'Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9262.jpeg)
 
-![Cap d'Agde](https://tcrouzet.com/images_tc/2021/06/IMG_9265.jpeg)
+![Cap d'Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9265.jpeg)
 
 ### Lundi 3, Balaruc
 
@@ -28,11 +28,11 @@ Je me présente le soir au centre de vaccination et réussis à recevoir un fond
 
 ### Mardi 4, Villeveyrac
 
-![Villeveyrac](https://tcrouzet.com/images_tc/2021/06/IMG_9317.jpeg)
+![Villeveyrac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9317.jpeg)
 
 ### Jeudi 6, Balaruc
 
-À la radio, j’attrape une auteur qui s’en prend à la collapsologie avec brio. Elle montre comment les collapsologues prédisent la chute de notre civilisation sans jamais vouloir donner de date, usant de tout évènement planétaire comme signe avant-coureur de leur théorie, mais repoussant toujours l’échéance, car toute prévision précise, donc scientifique, serait réfutée par le temps. Quand les collapsologues parlent du covid comme un prélude à l’effondrement, ils n’envisagent pas que la mise au point de vaccins en un temps record pourrait être tout aussi bien vue comme le début d’un nouvel âge d’or pour la médecine.
+À la radio, j’attrape une auteur qui s’en prend à la collapsologie avec brio. Elle montre comment les collapsologues prédisent la chute de notre civilisation sans jamais vouloir donner de date, usant de tout évènement planétaire comme signe avant-coureur de leur théorie, mais repoussant toujours l’échéance, car toute prévision précise, donc scientifique, serait réfutée par le temps. Quand les collapsologues parlent du covid comme un prélude à l’effondrement, ils n'envisagent pas que la mise au point de vaccins en un temps record pourrait être tout aussi bien vue comme le début d’un nouvel âge d’or pour la médecine.
 
 L’auteur démonte les théories de Jared Diamond, qui détache des bouts d’humanité de leur ensemble pour nous décrire leur destin tragique, oubliant le tableau général souvent en contradiction avec ses théories, trop structuralistes, pour s’appliquer à la vie.
 
@@ -52,9 +52,9 @@ Chateaubriand évoque l’accablement du souvenir, qui nous submerge au point de
 
 J’écris peu, victime de migraines ophtalmiques. J’ai besoin de reprendre des séances d’orthoptie. Mes yeux ne veulent plus des écrans et ne s’accoutument qu’aux grands espaces.
 
-![Maguelone](https://tcrouzet.com/images_tc/2021/06/IMG_9338.jpeg)
+![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9338.jpeg)
 
-![Maguelone](https://tcrouzet.com/images_tc/2021/06/IMG_9341.jpeg)
+![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9341.jpeg)
 
 ### Lundi 9, Balaruc
 
@@ -66,17 +66,17 @@ Je comprends pourquoi Chateaubriand est revenu à plusieurs reprises sur ses mé
 
 ### Mercredi 11, Balaruc
 
-![Sète au loin](https://tcrouzet.com/images_tc/2021/06/IMG_9377.jpeg)
+![Sète au loin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9377.jpeg)
 
 ### Jeudi 12, Balaruc
 
-Nous pédalons par chez nous, plongeons par un côté inhabituel sur un village et il nous apparaît extraordinaire. Le territoire n’en finit pas de se déplier. Quand je crois le connaître, il me surprend encore. C’est une histoire d’amour.
+Nous pédalons par chez nous, plongeons par un côté inhabituel sur un village et il nous apparaît extraordinaire. Le territoire n'en finit pas de se déplier. Quand je crois le connaître, il me surprend encore. C'est une histoire d'amour.
 
-![Counonterral](https://tcrouzet.com/images_tc/2021/06/IMG_9382.jpeg)
+![Counonterral](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9382.jpeg)
 
-![Counonterral](https://tcrouzet.com/images_tc/2021/06/IMG_9389.jpeg)
+![Counonterral](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9389.jpeg)
 
-![Counonterral](https://tcrouzet.com/images_tc/2021/06/IMG_9384.jpeg)
+![Counonterral](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9384.jpeg)
 
 ### Jeudi 13, Balaruc
 
@@ -88,9 +88,9 @@ Chateaubriand ne théorise pas la mémoire involontaire comme Proust, mais en fa
 
 ---
 
-Un chemin n’a pas changé au pied du Pioch. J’ai toujours peur de l’emprunter, sa métamorphose pourrait tirer un trait sur mon enfance.
+Un chemin n'a pas changé au pied du Pioch. J'ai toujours peur de l'emprunter, sa métamorphose pourrait tirer un trait sur mon enfance.
 
-![Le chemin](https://tcrouzet.com/images_tc/2021/06/IMG_9396.jpeg)
+![Le chemin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9396.jpeg)
 
 ### Samedi 15, Balaruc
 
@@ -102,7 +102,7 @@ Tim bloque sur un problème de maths. Je trouve le même résultat que lui, mais
 
 ### Lundi 17, Balaruc
 
-J’ai dû me résoudre à imprimer les 366 chapitres de *One Minutes* pour les réorganiser en quatre tomes. J’étais incapable d’y parvenir sur Ulysses, malgré son approche base de données. Je suis obligé d’étaler le manuscrit devant moi, avec des feuilles taguées de post-it, que je peux distribuer en différents tas pour réussir à le voir dans son ensemble. L’écran de mon ordinateur est trop petit, la réorganisation trop fastidieuse. C’est assez ironique, car je ne n’aurais jamais pu écrire ce texte sans un traitement de texte avancé et ne réussis à le boucler qu’en passant par le papier.
+J’ai dû me résoudre à imprimer les 366 chapitres de *One Minutes* pour les réorganiser en quatre tomes. J’étais incapable d’y parvenir sur Ulysses, malgré son approche base de données. Je suis obligé d'étaler le manuscrit devant moi, avec des feuilles taguées de post-it, que je peux distribuer en différents tas pour réussir à le voir dans son ensemble. L’écran de mon ordinateur est trop petit, la réorganisation trop fastidieuse. C’est assez ironique, car je ne n’aurais jamais pu écrire ce texte sans un traitement de texte avancé et ne réussis à le boucler qu’en passant par le papier.
 
 ---
 
@@ -110,11 +110,11 @@ Terrible phrase de Chateaubriand : « Je parierais que tel auteur qui lit cett
 
 ### Mardi 18, Balaruc
 
-![De ma terrasse](https://tcrouzet.com/images_tc/2021/06/IMG_9422.jpeg)
+![De ma terrasse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9422.jpeg)
 
-![De ma terrasse](https://tcrouzet.com/images_tc/2021/06/IMG_9427.jpeg)
+![De ma terrasse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9427.jpeg)
 
-![De ma terrasse](https://tcrouzet.com/images_tc/2021/06/IMG_9435.jpeg)
+![De ma terrasse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9435.jpeg)
 
 ### Mercredi 19, Balaruc
 
@@ -132,14 +132,18 @@ De retour à la maison après un nouveau tour de l’Hérault à vélo : autres
 
 Sur Facebook, tu dis « A ne marche pas quand on fait X, mais B marche très bien. » On t’explique A marche très bien pour faire Y ou Z, mais quand tu dis que ce n’est pas le sujet, on commence par t’insulter, par te dire que tu ne comprends rien, et quand tu t’énerves on te traite d’intolérant, et surtout d’incompétent, alors que si X marche avec B, et même C et D, et pas avec A, c’est bien que le problème est chez A et nulle part ailleurs. La sagesse comme toujours est de se taire, de ne plus jamais rien dire sur ce réseau, mais quelques centaines de personnes intelligentes liront mon billet et je me satisfais de partager avec elles, parce que le jour où elles-mêmes découvriront quelque chose d’intéressant elles le partageront avec moi.
 
-Le plus extraordinaire : des gens te donnent des leçons, t’accusant d’en donner, alors que je ne fais que partager mes expériences. Par exemple, on me suggère de voyager avec une carte plutôt qu’avec un GPS. Quand je demande comment on fait pour transporter les dizaines de cartes IGN nécessaires au moindre voyage bikepacking, on ne me répond plus, mais après m’avoir pourri au préalable. Est-ce qu’il faut sortir sa carte à chaque embranchement quand on peut regarder son GPS ou son téléphone ?
+Le plus extraordinaire : des gens te donnent des leçons, t’accusant d’en donner, alors que je ne fais que partager mes expériences. Par exemple, on me suggère de voyager avec une carte plutôt qu'avec un GPS. Quand je demande comment on fait pour transporter les dizaines de cartes IGN nécessaires au moindre voyage bikepacking, on ne me répond plus, mais après m’avoir pourri au préalable. Est-ce qu'il faut sortir sa carte à chaque embranchement quand on peut regarder son GPS ou son téléphone ?
 
 On t’explique qu’il ne faut utiliser qu’un seul service, alors que pour le boulot que tu fais, c’est impossible. Pour te montrer que tu as tort, on te trace un tour de l’Hérault à vélo en 5 minutes quand tu bosses sur le sujet depuis presque deux ans, en passant des jours et des jours à explorer le terrain, à dénicher les plus beaux passages. C’est un peu comme dire à un écrivain qu’on peut remplir aléatoirement un livre avec des mots en cinq minutes avec un générateur automatique. J’adore la légèreté inconséquente. Les gens devaient être plus modérés à l’époque des duels.
 
 ### Samedi 29, Balaruc
 
-Chateaubriand : « Aucun monument à Philadelphie, à New York, à Boston, ne pyramide au-dessus de la masse des murs et des toits : l’oeil est attristé de ce niveau. » L’évolution conduit-elle nécessairement à produire des pyramides dans nos villes, un peu comme les termitières pour les thermites ? Les pyramides si agréables pour nos yeux, mais aussi le symbole de l’asservissement de la majorité par quelques-uns. Nous ne serons en démocratie que le jour où nous réussirons à vivre à plat, sans personne au-dessus, sans personne au bord de l’eau. Mais alors quel ennui pour les yeux. Ce serait un monde mort, un monde de fourmis.
+Chateaubriand : « Aucun monument à Philadelphie, à New York, à Boston, ne pyramide au-dessus de la masse des murs et des toits : l'oeil est attristé de ce niveau. » L’évolution conduit-elle nécessairement à produire des pyramides dans nos villes, un peu comme les termitières pour les thermites ? Les pyramides si agréables pour nos yeux, mais aussi le symbole de l’asservissement de la majorité par quelques-uns. Nous ne serons en démocratie que le jour où nous réussirons à vivre à plat, sans personne au-dessus, sans personne au bord de l’eau. Mais alors quel ennui pour les yeux. Ce serait un monde mort, un monde de fourmis.
 
 ### Lundi 31, Castelneau-de-Guers
 
-![Découverte dans les bois](https://tcrouzet.com/images_tc/2021/06/IMG_9914.jpeg)
+![Découverte dans les bois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/06/IMG_9914.jpeg)
+
+
+
+Tags: Carnets, une

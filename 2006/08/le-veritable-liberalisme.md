@@ -1,6 +1,6 @@
 # Le véritable libéralisme
 
-Malgré les [trolls](https://tcrouzet.com/2006/08/17/troll-story/), bloguer reste gratifiant. Le contact direct et presque quotidien avec des lecteurs engendre des hasards heureux.
+Malgré les [trolls](http://blog.tcrouzet.com/2006/08/17/troll-story/), bloguer reste gratifiant. Le contact direct et presque quotidien avec des lecteurs engendre des hasards heureux.
 
 La semaine dernière, j’étais en vacances chez un ami Américain, prospecteur pétrolier passionné d’économie, qui me conseille de revenir à [Adam Smith](http://fr.wikipedia.org/wiki/Adam_Smith). Pour lui, la théorie de la main invisible est une théorie de l’auto-organisation que je devrais étudier. Quand le prix d’un produit augmente, de nouveaux entrepreneurs le manufacturent, le produit devient abondant, son prix baisse. Quand le prix est trop bas, les entrepreneurs doivent lancer de nouveaux produits.
 
@@ -8,7 +8,7 @@ C’est en effet un système de régulation par feedback qui permet à des agent
 
 Mais jeudi dernier, après les quelques jours de forcing de mon ami américain, je vois arriver un mail d’un lecteur qui me conseille de lire [*A Thousand Years of Non Linear History*](http://www.amazon.com/gp/product/0942299329/sr=8-1/qid=1155827783/ref=pd_bbs_1/102-1384078-4630524?ie=UTF8) de Manuel de Landa. Je commence par parcourir un [interview](http://netbase.t0.or.at/delanda/intdelanda.htm) de ce philosophe. Dès les premières lignes, il discute des marchés et de leur auto-organisation, adoptant un ton qui me séduit tout de suite. Il dit :
 
-> Un des domaines qui sera influencé \[par la théorie de l’auto-organisation\], qui l’est déjà en fait, c’est l’économie parce qu’elle présente une forme d’ordre qui n’a été planifié par personne, qui n’a été mis en œuvre par personne. Pourtant nous avons tendance à croire que tout ce qui concerne la société humaine et présente une forme d’ordre a été pensé par quelqu’un. Par exemple, Versailles fut dessiné jusqu’au moindre détail par Louis XIV et ses ministres, et c’est notre image de ce qu’est la société humaine. Que tout se fait dans un but. Mais il y a des actions collectives qui ne sont pas voulues, et leur ordre que personne n’a contrôlé résulte d’une auto-organisation. Les marchés en constituent l’exemple le plus frappant.
+> Un des domaines qui sera influencé \[par la théorie de l'auto-organisation\], qui l’est déjà en fait, c’est l’économie parce qu’elle présente une forme d’ordre qui n’a été planifié par personne, qui n’a été mis en œuvre par personne. Pourtant nous avons tendance à croire que tout ce qui concerne la société humaine et présente une forme d'ordre a été pensé par quelqu’un. Par exemple, Versailles fut dessiné jusqu’au moindre détail par Louis XIV et ses ministres, et c’est notre image de ce qu’est la société humaine. Que tout se fait dans un but. Mais il y a des actions collectives qui ne sont pas voulues, et leur ordre que personne n’a contrôlé résulte d’une auto-organisation. Les marchés en constituent l’exemple le plus frappant.
 
 En lisant, j’avais l’impression d’entendre parler Tolstoï. Dans *La Guerre et la Paix*, il dit exactement la même chose au sujet de la bataille de Borodino. Personne ne l’a voulue, ni Napoléon, ni Koutouzov, personne ne l’a gagnée, personne ne l’a perdue, mais la bataille s’est déroulée et elle a changé le destin de l’Europe. Un ordre nouveau a jailli sans qu’aucun homme ne le prémédite, seuls les historiens passionnés de belles histoires ont cherché à nous faire croire le contraire, fabriquant des héros qui n’ont jamais existés.
 
@@ -39,3 +39,5 @@ La seconde raison est encore plus perverse. Pour éviter les dérapages des anti
 Cette affaire est bien embrouillée, tant les uns et les autres usent des mots du camp adverse. Les capitalistes se disent libéralistes et ils cherchent à tout contrôler pour leur plus grand profit. Les alters conspuent les libéralistes mais ils croient les bloquer en usant de leur arme, le contrôle, alors qu’au fond ils sont de vrais libéraux, il me semble.
 
 Après avoir ainsi lu le tout début de l’interview de Manuel de Landa, je me précipite sur amazon pour commander son livre. Surprise : quand je vois la couverture, je me rends compte que j’ai déjà acheté ce livre. Je me souviens très bien où. C’était au cinéma ICA, sans doute en 2001 ou 2002 quand je vivais à Londres. Faut croire qu’à l’époque je n’étais pas encore prêt pour les idées qui m’accaparent aujourd’hui. Je vais continuer à lire Manuel de Landa.
+
+Tags: Buzz

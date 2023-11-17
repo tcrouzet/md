@@ -20,7 +20,7 @@ Je ne suis pas contre le droit de citation, mais à partir d’aujourd’hui, j�
 
 Dans le même temps, il me paraît légitime de piller les entreprises qui vivent du pillage. C’est un acte de résistance contre le nouvel esclavagisme.
 
-Quand une entreprise utilise de la main-d’œuvre gratuite, je me donne le droit de m’emparer des contenus qu’elle produit de manière rémunérée et de les afficher sur un site de mon choix. Je peux à mon tour devenir agrégateur des agrégateurs et me battre avec leurs armes sur le terrain du référencement naturel. Qu’ils m’envoient leur cohorte d’avocats et qu’ils m’expliquent pourquoi eux se donnent un droit qu’ils me refusent.
+Quand une entreprise utilise de la main-d'œuvre gratuite, je me donne le droit de m’emparer des contenus qu’elle produit de manière rémunérée et de les afficher sur un site de mon choix. Je peux à mon tour devenir agrégateur des agrégateurs et me battre avec leurs armes sur le terrain du référencement naturel. Qu’ils m’envoient leur cohorte d’avocats et qu’ils m’expliquent pourquoi eux se donnent un droit qu’ils me refusent.
 
 Je n’entendrai pas la justification selon laquelle les blogueurs ont donné leur accord. Un accord arraché sur des bases mensongères, qui frisent l’escroquerie, m’apparaît caduc.
 
@@ -46,12 +46,14 @@ Il est peut-être déjà trop tard.
 
 ### <a name="addendum"></a>Addendum MegaUpload
 
-Je suis pour la libre copie. J’estime que si un lecteur ne peut pas se payer un de mes livres, il doit pouvoir le lire. En revanche, il me paraît dangereux de laisser des sites s’engraisser en diffusant des copies pirates. Les copies doivent circuler librement en P2P, de manière décentralisée, sans point de péage. La fermeture de MegaUpload (et moins sa prochaine réouverture) est une bonne chose (même si je condamne la méthode qui, elle, révèle la peur panique d’un système qui s’effondre).
+Je suis pour la libre copie. J'estime que si un lecteur ne peut pas se payer un de mes livres, il doit pouvoir le lire. En revanche, il me paraît dangereux de laisser des sites s'engraisser en diffusant des copies pirates. Les copies doivent circuler librement en P2P, de manière décentralisée, sans point de péage. La fermeture de MegaUpload (et moins sa prochaine réouverture) est une bonne chose (même si je condamne la méthode qui, elle, révèle la peur panique d'un système qui s'effondre).
 
-Les agrégateurs utilisent le même modèle financier que MegaUpload. Différence : ils pillent des œuvres qui ont été diffusées gratuitement. Elles n’en possèdent pas moins des auteurs. [À quand une descente du FBI dans leurs locaux ?](http://sebmusset.blogspot.com/2012/01/lelysee-se-felicite-de-la-fermeture-du.html) Vous pouvez attendre. L’esclavage n’est pas prohibé dans notre société.
+Les agrégateurs utilisent le même modèle financier que MegaUpload. Différence : ils pillent des œuvres qui ont été diffusées gratuitement. Elles n'en possèdent pas moins des auteurs. [À quand une descente du FBI dans leurs locaux ?](http://sebmusset.blogspot.com/2012/01/lelysee-se-felicite-de-la-fermeture-du.html) Vous pouvez attendre. L'esclavage n'est pas prohibé dans notre société.
 
 ### Addendum Tout travail mérite salaire
 
-Je ne suis pas d’accord. Il m’est arrivé de travailler dur pour planter des melons qui n’ont pas poussé. J’ai écrit de mauvais livres que je n’ai même pas réussi à publier. J’ai chaque fois beaucoup travaillé, mais je ne me suis jamais plaint de ne pas avoir été rétribué (même si j’aurais apprécié de bénéficier d’un [dividende universel](https://tcrouzet.com/tag/dividende-universel/) à ce moment).
+Je ne suis pas d’accord. Il m’est arrivé de travailler dur pour planter des melons qui n’ont pas poussé. J’ai écrit de mauvais livres que je n’ai même pas réussi à publier. J’ai chaque fois beaucoup travaillé, mais je ne me suis jamais plaint de ne pas avoir été rétribué (même si j’aurais apprécié de bénéficier d’un [dividende universel](http://blog.tcrouzet.com/tag/dividende-universel/) à ce moment).
 
 En revanche, quand une entreprise exploite le travail d’individus sans contrepartie sérieuse, je ne peux pas l’accepter. Ces individus, par légèreté, par négligence, sont en train de nous ramener à l’esclavage. Ils sont les seuls responsables de ce glissement. Les entreprises qui les publient ne font qu’exploiter leur naïveté politique.
+
+Tags: NetCulture, une

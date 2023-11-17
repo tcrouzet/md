@@ -1,12 +1,12 @@
 # 1 minute : une narration sans temps
 
-Attention : ce texte est un spoiler pour qui n’a pas lu le roman, [lisez plutôt la présentation](https://tcrouzet.com/une-minute/).
+Attention : ce texte est un spoiler pour qui n'a pas lu le roman, [lisez plutôt la présentation](http://tcrouzet.com/une-minute/).
 
 J’ai proposé *One Minute* à quelques éditeurs. Certains me questionnent. Je réponds en toute transparence. Peut-on couper des minutes ou en ajouter ? Oui. Peut-on les réorganiser ? Oui. La version actuelle du manuscrit présente les minutes dans l’ordre d’écriture. Suivant le public cible, la collection, il est possible de changer l’angle du roman en réorganisant les minutes.<span id="more-43411"></span>
 
 Même si l’histoire commence et se termine dans la même minute, on peut créer un suspens en introduisant plus vite les analystes, les hypos, les drones, les gardiens, le club, les adeptes du traitement longue vie… Par exemple, la seconde minute est facultative, ou peut être placée plus tard. La quatrième avec la mort du père également. On peut faire un pas vers le page-turner sans grande difficulté, en remontant des minutes plus thriller vers le début. Il existe bien des combinaisons envisageables. C’est le principe de ce texte. On peut le voir comme une sorte de jeu de cartes à battre et à rebattre.
 
-![La carte de mon histoire…](https://tcrouzet.com/images_tc/2015/11/1min-2.png)
+![La carte de mon histoire…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/1min-2.png)
 
 On me demande aussi de résumer l’histoire. C’est presque une gageure. Je n’ai pas écrit ce roman avec un plan, mais avec une carte que j’ai densifiée au fil de mon travail. Je peux toutefois poser le contexte. Tout commence avec un problème logico-philosophique inspiré du [paradoxe de Fermi](https://fr.wikipedia.org/wiki/Paradoxe_de_Fermi).
 
@@ -26,10 +26,12 @@ Enfin, on me demande aussi dans quelle tradition littéraire *One Minute* s’in
 
 Je ne devrais pas avoir besoin de m’expliquer. Tout cela devrait être évident. En fin de compte, *One Minute* n’est qu’un patchwork des tensions qui traversent notre époque, patchwork impossible à mettre en œuvre avec une forme ancienne, certes confortable pour le lecteur, mais pensée pour une continuité qui n’est plus la nôtre.
 
-[Présentation du roman…](https://tcrouzet.com/une-minute/)
+[Présentation du roman…](http://tcrouzet.com/une-minute/)
 
-[Décryptage théorique par Oriane Deseilligny…](https://tcrouzet.com/2015/11/27/one-minute-une-lecture-theorique-doriane-deseilligny/)
+[Décryptage théorique par Oriane Deseilligny…](http://tcrouzet.com/2015/11/27/one-minute-une-lecture-theorique-doriane-deseilligny/)
 
 [Premier jet encore sur Wattpad…](https://www.wattpad.com/story/29694130-1-minute)
 
-[Billets sur le roman…](https://tcrouzet.com/tag/sur-1-minute/)
+[Billets sur le roman…](http://tcrouzet.com/tag/sur-1-minute/)
+
+Tags: NetLittérature, Sur 1 minute, une

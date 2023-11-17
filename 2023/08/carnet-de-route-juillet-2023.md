@@ -217,3 +217,5 @@ Dans la côte menant à Tournon d’Agenais, un gars en vélo de route m’a rat
 ### Lundi 31, Maillardou
 
 J’ai toujours du mal à comprendre comment fonctionne les LLM, [pour cause même les spécialistes aussi les comprennent mal](https://arstechnica.com/science/2023/07/a-jargon-free-explanation-of-how-ai-large-language-models-work/). C’est en soi fascinant, réjouissant, effrayant.
+
+Tags: Carnets, une

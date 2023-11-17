@@ -14,6 +14,8 @@ Antoine Frérot explique :
 
 En France, nous ne serions donc pas en démocratie ? Disons que nous sommes dans une démocratie immature, une démocratie où le pouvoir doit encore renoncer au pouvoir.
 
-J’ai déjà évoqué [la crise de l’eau](https://tcrouzet.com/2006/03/09/20-000-litres-deau-pour-1-kg-de-caf/) et je suis 100 % favorable à l’action locale, dans ce cas comme dans bien d’autres. Ce qui m’étonne c’est de voir des institutions elles-mêmes centralisées, la Banque mondiale et le FMI, plébisciter l’action locale et décentralisée. Quand ces institutions s’autodétruiront-elles ? Car tout ce qu’elles reprochent aux pays en développement vaut pour elles-mêmes.
+J’ai déjà évoqué [la crise de l’eau](http://blog.tcrouzet.com/2006/03/09/20-000-litres-deau-pour-1-kg-de-caf/) et je suis 100 % favorable à l’action locale, dans ce cas comme dans bien d’autres. Ce qui m’étonne c’est de voir des institutions elles-mêmes centralisées, la Banque mondiale et le FMI, plébisciter l’action locale et décentralisée. Quand ces institutions s’autodétruiront-elles ? Car tout ce qu’elles reprochent aux pays en développement vaut pour elles-mêmes.
 
-Plus c’est local, plus c’est simple, plus c’est économique, plus ça va vite, plus c’est robuste…
+Plus c’est local, plus c'est simple, plus c’est économique, plus ça va vite, plus c’est robuste…
+
+Tags: Politique

@@ -1,6 +1,6 @@
 # Le dilemme du prisonnier
 
-Imaginez. Vous êtes un homme libre, avec un autre homme libre vous êtes en lutte contre les [mysticocapitalistes](https://tcrouzet.com/2007/05/20/integrisme-ou-ecologie-faut-choisir/) et ils vous emprisonnent, vous enfermant chacun dans des cellules isolées. Ils commencent alors à vous interroger afin d’établir votre culpabilité.<span id="more-458"></span>
+Imaginez. Vous êtes un homme libre, avec un autre homme libre vous êtes en lutte contre les [mysticocapitalistes](http://blog.tcrouzet.com/2007/05/20/integrisme-ou-ecologie-faut-choisir/) et ils vous emprisonnent, vous enfermant chacun dans des cellules isolées. Ils commencent alors à vous interroger afin d’établir votre culpabilité.<span id="more-458"></span>
 
 - Si aucun de vous deux ne dénonce l’autre, le dossier ne peut être bouclé, chacun écope d’une peine clémente de 3 ans. Vous avez coopéré sans avoir communiqué.
 
@@ -28,7 +28,7 @@ Immédiatement, on voit que si un joueur coopère, son adversaire coopère lors 
 
 **Le méchant**
 
-Je voudrais maintenant reprendre un exemple donné par [Henri Alberti](http://henrialberti.blogspot.com/) dans un de ses [commentaires](https://tcrouzet.com/2007/05/11/formation-de-vol-2/#comment-24149).
+Je voudrais maintenant reprendre un exemple donné par [Henri Alberti](http://henrialberti.blogspot.com/) dans un de ses [commentaires](http://blog.tcrouzet.com/2007/05/11/formation-de-vol-2/#comment-24149).
 
 Des hommes se promènent dans le désert. Un étranger arrive, un gros balaise, il leur pique leur gourde, boit leur eau et leur distille le restant en échange de services. Le balaise, associé à l’ultracapitaliste, assujettit les gentils promeneurs en esclaves. Le méchant ou le traitre serait donc toujours gagnant.
 
@@ -69,3 +69,5 @@ Plus nous nous dirigeons vers un monde massivement interactif, plus la collabora
 Combien j’aimerais que nos politiciens soient conscients de cette évolution et que nous n’ayons pas à nous battre contre eux. Trop souvent ils jouent la trahison plutôt que la coopération. Nous devons les interconnecter de telle façon que plus aucune de leurs paroles ne soient off. En open source, la trahison est quasi impossible.
 
 En résumé, dans les villages isolés, la grande proximité des individus favorisait la coopération. Dans les sociétés de plus en plus vastes, l’étranger pouvait survenir, trahir et partir (d’où sans doute la peur de l’étranger exprimée par le mythe dionysiaque). Le réseau rendra les étrangers moins étrangers. Il favorisera la coopération à une échelle que l’humanité n’a jamais connue. Sans doute aurons-nous besoin de cette force pour éviter le pire. Je reste optimiste même après la lecture du [livre de Lovelock](http://www.amazon.fr/revanche-Ga%C3%AFa-riposte-t-elle-pouvons-nous-lhumanit%C3%A9/dp/2082105881).
+
+Tags: NetCulture

@@ -20,11 +20,11 @@ Dans le cas de la synchronisation, ce qui est vivement conseillé, on retrouve l
 
 Cela vaut pour les backups automatiques d’Ulysses, qui s’apparentent un gestionnaire de versions, puisque qu’ils ne s’effectuent pas en un lieu différent de la zone de stockage traditionnelle.
 
-![Script Automator](https://tcrouzet.com/images_tc/2019/06/back1.png)
+![Script Automator](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/06/back1-600x253.png)
 
 Depuis bien longtemps, j’ai créé une app Automator qui compresse ce dossier de backup et l’archive en local et sur mon Google Drive, puis m’affiche un message « backup terminé ». Je lance cette tâche avec plus ou moins de régularité, plus fréquemment quand je travaille à des textes longs.
 
-![Sauvegarde cryptique](https://tcrouzet.com/images_tc/2019/06/back2.png)
+![Sauvegarde cryptique](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/06/back2-577x450.png)
 
 Le contenu de cette archive est compliqué, ce qui nous en apprend beaucoup sur le mépris des développeurs d’Ulysses à l’égard des utilisateurs. Pourquoi ne pas nommer les dossiers par leur nom, quitte à ajouter un code derrière pour différencier les dossiers de même nom ? Pourquoi ne pas numéroter les feuilles dans leur ordre de classement ? Pourquoi quand nous localisons cette archive hors d’iCloud, sur Google Drive par exemple, est-elle dégradée ? Je ne vois aucune raison technique, sinon la volonté de nous enfermer dans l’univers Apple et de faire disparaître la matérialité de nos données.
 
@@ -36,14 +36,16 @@ Avant que Guillaume ne me parle de son plantage, je me contentais de mon backup 
 
 Une autre méthode d’archivage, plus transparente, implique d’ajouter à Ulysses un dossier de sauvegarde externe, le mien est sur mon Google Drive, et, sur Ulysses, d’y déplacer à échéance régulière les dossiers de travail. Ils sont alors automatiquement convertis en markdown, avec une structure lisible, mais en perdant au passage les enrichissements propres à Ulysses, toutes les fameuses données stockées dans les fichiers XML (qui nous appartiennent, mais qu’Ulysses se refuse d’exporter).
 
-![Données Ulysses perdues](https://tcrouzet.com/images_tc/2019/06/back3.png)
+![Données Ulysses perdues](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/06/back3-600x299.png)
 
 Avantage : on peut travailler sur ces fichiers externes avec d’autres outils tout en les gardant accessibles sur Ulysses. Inconvénient : une grande partie des fonctionnalités d’Ulysses sont perdues, ce qui ne serait pas le cas si les données étaient encodées en XML en pied des fichiers markdown par exemple.
 
-![Architecture claire en markdown](https://tcrouzet.com/images_tc/2019/06/back4.png)
+![Architecture claire en markdown](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/06/back4-386x450.png)
 
 ### Méthode 3
 
 Depuis Ulysses, on peut déplacer les dossiers de travail sur le bureau ou un autre dossier. Les feuilles sont une à une converties en fichiers ULYZ, qui peuvent être rouverts avec Ulysses, par exemple si on veut les transmettre à d’autres utilisateurs sans ne rien perdre de nos métadonnées. Mais, avec cette méthode, on ne peut pas rouvrir directement toutes les feuilles d’un dossier. Ulysses a oublié qu’un écrivain ne travaille pas seul, que parfois il collabore avec d’autres écrivains et des correcteurs et des éditeurs, et qu’il serait bon de pouvoir leur transmettre une copie d’un morceau de notre environnement de création (et non pas seulement notre texte finalisé).
 
 Pour résumer. La méthode 1 est la plus sûre, la seule automatisable simplement, mais elle génère des fichiers opaques. La seconde me servira le jour où je déciderai de quitter Ulysses. La troisième en l’état a peu d’intérêt, sauf pour transmettre ponctuellement des feuilles.
+
+Tags: Cuisine, une

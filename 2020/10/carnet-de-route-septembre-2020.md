@@ -16,41 +16,41 @@ Ils le prennent mal, mais sans méchanceté. Je pense qu’en rentrant du vélo,
 
 — Le portail était ouvert. On est rentré. On croyait qu’il n’y avait personne.
 
-Depuis leur dépars, je travaille, déchiré par des douleurs intercostales, non pas à cause de cette visite, mais du stress. *Vaincre les épidémies* m’empoisonne la vie. J’ai un grand doute quant à mes statistiques, ce qui m’impose de coder pour les vérifier jusqu’à devenir dingue. Et mon jardin est toujours en travaux, avec l’obligation de tout boucler pour le prochain tournage de Candice Renoir. Pas le temps de penser à moi, à ma vie, à la lumière sinon à m’y baigner pendant qu’elle rayonne.
+Depuis leur dépars, je travaille, déchiré par des douleurs intercostales, non pas à cause de cette visite, mais du stress. *Vaincre les épidémies* m’empoisonne la vie. J’ai un grand doute quant à mes statistiques, ce qui m’impose de coder pour les vérifier jusqu'à devenir dingue. Et mon jardin est toujours en travaux, avec l’obligation de tout boucler pour le prochain tournage de Candice Renoir. Pas le temps de penser à moi, à ma vie, à la lumière sinon à m’y baigner pendant qu’elle rayonne.
 
 ### Vendredi 4, Balaruc
 
-L’équipe de Candice Renoir vient en repérage. Ils veulent simuler une inondation du garage. Un des décorateurs arrive avec la barque de mon père que je lui ai donnée parce qu’elle pourrissait dans le jardin. Il lui a redonnée vie.
+L'équipe de Candice Renoir vient en repérage. Ils veulent simuler une inondation du garage. Un des décorateurs arrive avec la barque de mon père que je lui ai donnée parce qu'elle pourrissait dans le jardin. Il lui a redonnée vie.
 
-![Christiane : la barque](https://tcrouzet.com/images_tc/2020/10/IMG_2951.jpeg)
+![Christiane : la barque](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_2951.jpeg)
 
 ### Lundi 7, Balaruc
 
-![Fin de journée à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_2997.jpeg)
+![Fin de journée à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_2997.jpeg)
 
-![Fin de journée à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_2999.jpeg)
+![Fin de journée à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_2999.jpeg)
 
-![Fin de journée à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_3017.jpeg)
+![Fin de journée à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3017.jpeg)
 
-![De retour à la maison](https://tcrouzet.com/images_tc/2020/10/IMG_3029.jpeg)
+![De retour à la maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3029.jpeg)
 
 ### Mardi 8, Balaruc
 
-Le gros œuvre est terminé dans le jardin. Journée passée à approvisionner. J’ai transporté plusieurs tonnes de dalles en ciment.
+Le gros œuvre est terminé dans le jardin. Journée passée à approvisionner. J'ai transporté plusieurs tonnes de dalles en ciment.
 
-![Le chantier](https://tcrouzet.com/images_tc/2020/10/IMG_3039.jpeg)
+![Le chantier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3039.jpeg)
 
 ### Jeudi 10, septembre
 
 La terre arrive, cent tonnes, je termine de la déplacer à la pèle et au râteau parce que bob 4 ne peut pas aller partout.
 
-![Terrassement](https://tcrouzet.com/images_tc/2020/10/IMG_3126.jpeg)
+![Terrassement](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3126.jpeg)
 
 ### Vendredi 11, septembre
 
-Je travaille dans le jardin jusqu’à la nuit.
+Je travaille dans le jardin jusqu'à la nuit.
 
-![Soir](https://tcrouzet.com/images_tc/2020/10/IMG_3174.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3174.jpeg)
 
 ### Samedi 12, Balaruc
 
@@ -62,19 +62,19 @@ Pas davantage le temps de penser, sinon à des statistiques sur le covid, qui en
 
 ### Mardi 15, Avène
 
-![Le Larzac, là-bas](https://tcrouzet.com/images_tc/2020/10/IMG_3206-1.jpeg)
+![Le Larzac, là-bas](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3206-1.jpeg)
 
-![Avène à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_3219-1.jpeg)
+![Avène à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3219-1.jpeg)
 
-![Avène à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_3223-1.jpeg)
+![Avène à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3223-1.jpeg)
 
-![Avène à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_3225-1.jpeg)
+![Avène à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3225-1.jpeg)
 
-![Avène](https://tcrouzet.com/images_tc/2020/10/IMG_3227.jpeg)
+![Avène](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3227.jpeg)
 
 ### Vendredi 18, Villepassans
 
-![Frontière Aude-Hérault à VTT](https://tcrouzet.com/images_tc/2020/10/IMG_3260.jpeg)
+![Frontière Aude-Hérault à VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3260.jpeg)
 
 ### Samedi 19, Balaruc
 
@@ -96,15 +96,15 @@ Ma mère m’apprend qu’un de mes très bons copains d’enfance est mort depu
 
 ### Mardi 22, Balaruc
 
-![Pluie](https://tcrouzet.com/images_tc/2020/10/IMG_3351.jpeg)
+![Pluie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3351.jpeg)
 
 ### Mercredi 23, Balaruc
 
-![Brume](https://tcrouzet.com/images_tc/2020/10/IMG_3356.jpeg)
+![Brume](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3356.jpeg)
 
-![Brume](https://tcrouzet.com/images_tc/2020/10/IMG_3359.jpeg)
+![Brume](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3359.jpeg)
 
-![Brume](https://tcrouzet.com/images_tc/2020/10/IMG_3360.jpeg)
+![Brume](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3360.jpeg)
 
 ### Jeudi 24, Balaruc
 
@@ -117,3 +117,5 @@ Quelques comptes Twitter anonymes, avec peu d’abonnés, s’en prennent systé
 ### Dimanche 27, Balaruc
 
 [Retour à la maison après trois jours dans la tourmente et le froid.](https://tcrouzet.com/2020/09/28/bikepacking-dans-la-tourmente/) Tour de l’Hérault interrompu après un peu plus de 300 km. Mais quel bonheur ! C’est au-delà du vélo, c’est une façon de vivre, de s’imprégner de la terre et du ciel, des traces écrites dans la pierre et la terre depuis des siècles. Il y a quelque chose de neuf à graver dont Stevenson a été le précurseur.
+
+Tags: Carnets, une

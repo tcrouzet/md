@@ -4,11 +4,11 @@ Le 28 juin, [à l’occasion de Pas Sage En Seine](http://www.passageenseine.org
 
 ### Préambule
 
-Échanges marchands et non-marchands ne sont pas incompatibles. En tant qu’auteur, j’ai la possibilité de libérer mes œuvres comme je l’ai fait avec [*Le Geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/) et de les vendre en même temps. Est-ce que ce livre aurait été traduit en dix langues en quelques mois si je ne l’avais pas libéré ? Bien sûr que non. Nous aurions perdu du temps à négocier des contrats. Jamais des bénévoles ne se seraient lancés dans le chinois, le farsi ou l’ourdou.
+Échanges marchands et non-marchands ne sont pas incompatibles. En tant qu’auteur, j’ai la possibilité de libérer mes œuvres comme je l’ai fait avec [*Le Geste qui sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/) et de les vendre en même temps. Est-ce que ce livre aurait été traduit en dix langues en quelques mois si je ne l’avais pas libéré ? Bien sûr que non. Nous aurions perdu du temps à négocier des contrats. Jamais des bénévoles ne se seraient lancés dans le chinois, le farsi ou l’ourdou.
 
-Maintenant, faut revenir à la réalité des chiffres. *Le Geste qui sauve* est un livre humanitaire. Chaque exemplaire acheté entraîne un don à une fondation pour la sécurité des patients. [Au bout d’un mois, 15 % des téléchargements ont été convertis en achat.](https://tcrouzet.com/2014/06/18/mini-etude-sur-le-marche-des-ebooks-et-le-partage-non-marchand/) Si du côté de l’anglais ce taux frôle les 50 %, il chute à un 3 % catastrophique pour le français (Alexis Kauffmann de [Framabook](http://framabook.org/) me dit que chez eux le taux est de 1 %).
+Maintenant, faut revenir à la réalité des chiffres. *Le Geste qui sauve* est un livre humanitaire. Chaque exemplaire acheté entraîne un don à une fondation pour la sécurité des patients. [Au bout d’un mois, 15 % des téléchargements ont été convertis en achat.](http://blog.tcrouzet.com/2014/06/18/mini-etude-sur-le-marche-des-ebooks-et-le-partage-non-marchand/) Si du côté de l’anglais ce taux frôle les 50 %, il chute à un 3 % catastrophique pour le français (Alexis Kauffmann de [Framabook](http://framabook.org/) me dit que chez eux le taux est de 1 %).
 
-En France, les gens n’ont pas le réflexe de payer ce qu’ils récupèrent gratuitement (ou autre hypothèse, assez peu crédible, ils ont acheté le livre papier). Voici pour commencer une sorte de douche froide, une réalité de terrain loin des positions idéologiques des uns et des autres, à commencer par [mon commonisme](https://tcrouzet.com/2013/11/26/amis-commonistes/). Le libre est censé m’offrir sur le long terme « des retours sur investissements indirects » mais, pour le moment, j’ai besoin de remplir mon frigo, et seuls les euros immédiatement perçus ont cette vertu (je rappelle qu’un auteur ne reçoit pas de salaire et qu’il est bien plus en insécurité qu’un intermittent).
+En France, les gens n’ont pas le réflexe de payer ce qu’ils récupèrent gratuitement (ou autre hypothèse, assez peu crédible, ils ont acheté le livre papier). Voici pour commencer une sorte de douche froide, une réalité de terrain loin des positions idéologiques des uns et des autres, à commencer par [mon commonisme](http://blog.tcrouzet.com/2013/11/26/amis-commonistes/). Le libre est censé m’offrir sur le long terme « des retours sur investissements indirects » mais, pour le moment, j’ai besoin de remplir mon frigo, et seuls les euros immédiatement perçus ont cette vertu (je rappelle qu’un auteur ne reçoit pas de salaire et qu’il est bien plus en insécurité qu’un intermittent).
 
 ### Prolégomènes
 
@@ -36,11 +36,11 @@ Toute solution au sujet de l’échange des biens immatériels doit prendre en c
 
 Dans l’[Article 13 du préambule de la Constitution de 1946](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/la-constitution/la-constitution-du-4-octobre-1958/preambule-de-la-constitution-du-27-octobre-1946.5077.html), on peut lire :
 
-> La Nation garantit l’égal accès de l’enfant et de l’adulte à l’instruction, à la formation professionnelle et à la culture.
+> La Nation garantit l'égal accès de l'enfant et de l'adulte à l’instruction, à la formation professionnelle et à la culture.
 
 Proposition indiscutable, pas facile à tenir pour les créations matérielles, une même pièce de théâtre ne peut être vue par tous. En revanche, dès que les créations se dématérialisent, rien techniquement n’empêche d’amener les œuvres chez chacun de nous.
 
-Les médiathèques ont ainsi depuis longtemps démocratisé l’accès aux livres. Les riches vont les acheter en librairie, les moins riches les empruntent. Nous ne pouvons reculer sur ce droit avec la numérisation. Maintenant que les riches achètent les œuvres depuis leurs ordinateurs, les pauvres doivent de même pouvoir les emprunter. Ce n’est tout simplement pas discutable même si piratage possible (et même si risques de nuire à l’objectif 1). C’est la position [commoniste](https://tcrouzet.com/tag/commonisme/), la gestion harmonieuse des communs, la culture étant un commun comme l’article 13 le déclare.
+Les médiathèques ont ainsi depuis longtemps démocratisé l’accès aux livres. Les riches vont les acheter en librairie, les moins riches les empruntent. Nous ne pouvons reculer sur ce droit avec la numérisation. Maintenant que les riches achètent les œuvres depuis leurs ordinateurs, les pauvres doivent de même pouvoir les emprunter. Ce n’est tout simplement pas discutable même si piratage possible (et même si risques de nuire à l’objectif 1). C’est la position [commoniste](http://blog.tcrouzet.com/tag/commonisme/), la gestion harmonieuse des communs, la culture étant un commun comme l’article 13 le déclare.
 
 ### 3. Préserver la liberté.
 
@@ -70,7 +70,7 @@ Dans un monde complexe, dominé par les boucles de feeback, les solutions de bon
 
 2. Qui dit échanges non-marchands, légalisés ou non, autorisés ou non, dit perte de revenu pour les créateurs, et cela même en prenant en compte les retours indirects.
 
-3. La raison est assez terrible : [la libre copie n’est qu’une des multiples conséquences de l’automatisation des processus physiques et conignitif qui impliquent de moins en moins de revenus pour ceux qui ne possèdent ni des robots ni des algorithmes](https://tcrouzet.com/2014/06/03/jai-un-travail-je-cherche-un-revenu-de-base/). Elle entraîne un écart croissant entre riches et pauvres comme le montre Piketty
+3. La raison est assez terrible : [la libre copie n’est qu’une des multiples conséquences de l’automatisation des processus physiques et conignitif qui impliquent de moins en moins de revenus pour ceux qui ne possèdent ni des robots ni des algorithmes](http://blog.tcrouzet.com/2014/06/03/jai-un-travail-je-cherche-un-revenu-de-base/). Elle entraîne un écart croissant entre riches et pauvres comme le montre Piketty
 
 4. Face à cette transformation, les créateurs n’ont pas un problème spécifique. La libre copie les affecte comme les caisses automatiques affectent les caissières. Une solution globale s’impose.
 
@@ -78,7 +78,7 @@ Dans un monde complexe, dominé par les boucles de feeback, les solutions de bon
 
 6. Compenser les créateurs et pas les autres citoyens serait donc une mesure discriminatoire.
 
-7. Je ne vois qu’une solution, relativement simple, décentralisée, prenant en compte l’évolution de la société sous l’impact des nouvelles technologies, c’est le [revenu de base](https://tcrouzet.com/tag/revenu-de-base/).
+7. Je ne vois qu’une solution, relativement simple, décentralisée, prenant en compte l’évolution de la société sous l’impact des nouvelles technologies, c’est le [revenu de base](http://blog.tcrouzet.com/tag/revenu-de-base/).
 
 Les échanges ne sont pas pénalisés dans le cadre privé (mail, P2P…), mais interdits en public (blog, site de streaming, sites de partage…). Le revenu de base compense les manques à gagner des créateurs, tout en aidant les consommateurs à payer plus souvent. Et si les créateurs à haut revenu restent lésés, on verra ça comme un impôt supplémentaire. Et personne ne s’en plaindra, sauf au pire les rares intéressés.
 
@@ -88,9 +88,9 @@ Mais il serait indécent d’imposer le partage non-marchand à tous les créate
 
 Impasses et pistes…
 
-1. Rétribuer les créateurs en fonctions des échanges implique d’espionner pour comptabiliser. Je suis évidemment contre cette atteinte à la vie privée, ce qui condamne à mes yeux toutes les variantes de la [licence globale](http://fr.wikipedia.org/wiki/Licence_globale), gigantesque usine à gaz (qui ne bénéficierait qu’aux blockbusters).
+1. Rétribuer les créateurs en fonctions des échanges implique d’espionner pour comptabiliser. Je suis évidemment contre cette atteinte à la vie privée, ce qui condamne à mes yeux toutes les variantes de la [licence globale](http://fr.wikipedia.org/wiki/Licence_globale), gigantesque usine à gaz (qui ne bénéficierait qu'aux blockbusters).
 
-2. Redistribuer une taxe sans comptabiliser revient à privilégier les créateurs du sérail. Je suis également contre cette forme de discrimination et guère enthousiasmé par [le mécénat global](https://tcrouzet.com/2009/08/31/leconomie-des-flux/).
+2. Redistribuer une taxe sans comptabiliser revient à privilégier les créateurs du sérail. Je suis également contre cette forme de discrimination et guère enthousiasmé par [le mécénat global](http://blog.tcrouzet.com/2009/08/31/leconomie-des-flux/).
 
 3. Les médiathèques pourraient adopter des technologies de prêts et rétribuer les créateurs sur un système de type [Sofia](http://www.la-sofia.org/sofia/Adherents/index.jsp?lang=fr). Si cette forme de prêt se démocratise, les distributeurs s’y opposeront. Cette mesure me paraît toutefois la plus acceptable compte tenu de l’objectif 4. La médiation de tiers est d’autant plus nécessaire que l’offre culturelle se démultiplie.
 
@@ -107,4 +107,6 @@ Pour résumer
 
 5. Le revenu de base ne sera d’ailleurs possible qu’avec l’avènement d’une monnaie libre, pur produit de l’idéologie commoniste.
 
-Je suis donc contre la pénalisation des échanges non-marchands et pour que les créateurs libèrent d’eux-mêmes leurs œuvres quand ils le souhaitent afin d’accompagner la transition vers la société de la contribution. Ce n’est pas à l’État par une loi de forcer ce changement qui implique une prise de conscience de tous. En revanche, il peut l’accompagner en poussant les médiathèques à mettre en place le prêt numérique.
+Je suis donc contre la pénalisation des échanges non-marchands et pour que les créateurs libèrent d'eux-mêmes leurs œuvres quand ils le souhaitent afin d'accompagner la transition vers la société de la contribution. Ce n'est pas à l'État par une loi de forcer ce changement qui implique une prise de conscience de tous. En revanche, il peut l'accompagner en poussant les médiathèques à mettre en place le prêt numérique.
+
+Tags: Commonisme, NetCulture, Revenu de base, une

@@ -1,6 +1,6 @@
 # WikiLeaks ne fuit pas
 
-J’ai évité de parler de [WikiLeaks](http://wikileaks.org/), tout le monde le fait, puis, à force d’entendre des bruits, j’ai fini par avoir quelques idées en rapport avec cette affaire, elles complèteront bientôt la version définitive de [*J’ai eu l’idée*](https://tcrouzet.com/id/), bientôt sur publie.net.<span id="more-19117"></span>
+J’ai évité de parler de [WikiLeaks](http://wikileaks.org/), tout le monde le fait, puis, à force d’entendre des bruits, j’ai fini par avoir quelques idées en rapport avec cette affaire, elles complèteront bientôt la version définitive de [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/), bientôt sur publie.net.<span id="more-19117"></span>
 
 > J’ai eu l’idée qu’un monde sans secret serait invivable. Nous avons besoin de mystères.
 
@@ -11,3 +11,5 @@ J’ai évité de parler de [WikiLeaks](http://wikileaks.org/), tout le monde le
 > J’ai eu l’idée qu’une pratique qui se contredit elle-même devait être abandonnée.
 
 > J’ai eu l’idée que toute théorie sociale qui exige la définition de seuils et de paliers était suspecte. Pourquoi mettre le curseur à tel ou tel endroit ? Soit une chose est autorisée, soit elle est interdite. Devons-nous alors totalement cesser de boire de l’alcool avant de prendre le volant ? Je ne bois pas, mais j’aime les babas au rhum.
+
+Tags: NetCulture

@@ -12,6 +12,8 @@ Toute structure pyramidale de grande taille finit par devenir une entité quasi 
 
 On a bien tenté une autre approche : le collectivisme. Le management collégial de la foule des employés. Mais à de rares exceptions le collectivisme est resté pyramidal, parfois même pour le déployer à l’extrême.
 
-Sommes-nous coincés ? Pas le moins du monde. Plutôt que de conférer le pouvoir à une entité privée ou publique, il suffit de le distribuer entre les hommes. Alors, on ne privatise pas, on ne nationalise pas, on émancipe, on libère, on autonomise, on responsabilise… On enlève le pouvoir des mains des patrons comme des mains de l’État. On fait de l’éducation à la finlandaise. Du développement à la mode Internet.
+Sommes-nous coincés ? Pas le moins du monde. Plutôt que de conférer le pouvoir à une entité privée ou publique, il suffit de le distribuer entre les hommes. Alors, on ne privatise pas, on ne nationalise pas, on émancipe, on libère, on autonomise, on responsabilise… On enlève le pouvoir des mains des patrons comme des mains de l’État. On fait de l'éducation à la finlandaise. Du développement à la mode Internet.
 
 Il me semble que personne à droite ou à gauche ne se reconnaît dans cette position qui sera alors qualifiée d’anarchiste, parce qu’elle est étrangère aux options retenues par la société dominante, la principale étant la toute-puissante des structures pyramidales. Proposer des réformes qui vont à l’encontre de ces structures ne peut qu’attirer les feux de toute part. Il est ainsi pratique de qualifier d’anarchistes tous ceux qu’on ne sait pas ranger dans les cases acceptables.
+
+Tags: anarchisme, Politique

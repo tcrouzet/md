@@ -14,7 +14,7 @@ Seul problème, je ne roule pas aussi fort que lui. J’ai donc pensé à triche
 
 Par le plus grand des hasards, j’ai découvert comment m’emparer de n’importe quel KOM, même celui de l’ascension du Ventoux ou de l’Alpe d’Huez. Vous savez peut-être que je trace [un grand tour de l’Hérault en bikepacking (GTH)](https://tcrouzet.com/gth/). Quand j’aboutis à une nouvelle version, je génère la trace GPX et la saisis dans divers sites pour obtenir des statistiques, notamment son profil.
 
-![Profil GTH](https://tcrouzet.com/images_tc/2020/01/veloviewer.jpg)
+![Profil GTH](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/veloviewer.jpg)
 
 J’ai alors découvert le superbe [VeloViewer](https://veloviewer.com/) qui, connecté à Strava, représente les sorties en 3D. J’ai remarqué qu’en version gratuite on ne pouvait pas accéder aux sorties les plus récentes, mais en revanche à tous les itinéraires Strava. J’ai donc décidé d’en créer un pour le GTH. Si on n’est pas un abonné premium de Strava, la procédure n’est pas directe, il faut convertir une sortie en itinéraire. J’ai utilisé la fonction télécharger une activité à partir d’un GPX, sauf que pour qu’elle fonctionne, le GPX doit être horodaté. Pas de problème, de nombreux services effectuent ce travail. [Il suffit de leur indiquer la vitesse moyenne désirée.](https://gotoes.org/strava/Add_Timestamps_To_GPX.php) J’ai fait tout cela avec le GTH et quand j’ai importé le GPX dans Strava, j’ai constaté que j’avais empoché des centaines de KOM. Je me suis empressé de créer mon itinéraire, puis de détruire la sortie, mais au passage j’ai découvert comment battre un KOM quelconque : créer une fausse activité sur ce segment.
 
@@ -22,8 +22,10 @@ Je m’en contre-fiche des KOM, mais je ne sais pas ce que je dois faire avec mo
 
 Je lui répondrais que Strava n’a signé aucun contrat de confiance, son seul but étant de maximiser ses revenus, quitte à provoquer chez nous des comportements déviants. La stratégie n’est pas nouvelle. Abondamment utilisée par l’industrie du tabac, elle a été adoptée par les TV, puis par les géants du Net. Quand nous devenons addicts à l’une de leurs fonctions, ils empochent le jackpot. Notre soumission est leur objectif.
 
-J’ai peur que mon ami n’écoute pas mes argumentations raisonnées. Il risquerait de croire que j’ai cassé son jouet. Il pourrait m’en vouloir. Si je me contente de battre un de ses KOM de manière plausible, de quelques secondes, je risque de le piquer au vif. En fait, il serait plus sage que je trouve une astuce pour supprimer des segments, pour lui redonner le loisir d’apprécier les chemins, de les rouler avec délectation à la recherche d’une jouissance transcendante.
+J’ai peur que mon ami n’écoute pas mes argumentations raisonnées. Il risquerait de croire que j’ai cassé son jouet. Il pourrait m’en vouloir. Si je me contente de battre un de ses KOM de manière plausible, de quelques secondes, je risque de le piquer au vif. En fait, il serait plus sage que je trouve une astuce pour supprimer des segments, pour lui redonner le loisir d'apprécier les chemins, de les rouler avec délectation à la recherche d'une jouissance transcendante.
 
-*PS1 : J’illustre cet article d’une photo zen pour ne pas trop l’énerver s’il tombe dessus. Surtout, ne lui faites pas suivre ce texte.*
+*PS1 : J'illustre cet article d'une photo zen pour ne pas trop l'énerver s'il tombe dessus. Surtout, ne lui faites pas suivre ce texte.*
 
-*PS2 : J’apprécie Strava comme solution de partage d’itinéraires et de discussions autour de nos sorties, comme sparring partner, me disant où j’en suis physiquement, mais je n’ai aucune envie qu’il empoisonne mes sorties. Jamais ce machin n’est activé quand je roule.*
+*PS2 : J'apprécie Strava comme solution de partage d'itinéraires et de discussions autour de nos sorties, comme sparring partner, me disant où j'en suis physiquement, mais je n'ai aucune envie qu'il empoisonne mes sorties. Jamais ce machin n'est activé quand je roule.*
+
+Tags: Born to Bike, une

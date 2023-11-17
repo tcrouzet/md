@@ -1,6 +1,6 @@
 # Comment transformer un texte en ePub
 
-Ces dernières semaines, après avoir publié un article sur [le nouveau métier d’imprimeur d’ePub](https://tcrouzet.com/2010/08/02/imprimeur-epub/), puis sur [la publication chez Apple](https://tcrouzet.com/2010/09/10/comment-publier-sur-apple-ibookstore/), j’ai échangé quelques mails avec [Jean-Claude Dunyach](http://fr.wikipedia.org/wiki/Jean-Claude_Dunyach), un de nos grands auteurs de Science Fiction. Nous avons évoqué l’idée d’écrire un guide pratique à quatre mains. Au final, c’est Jean-Claude qui a effectué l’essentiel du travail, moi ne mettant mon grain de sel que par endroits, notamment pour parler de mon [application de conversion](http://lab.tcrouzet.com/epub/). Nous espérons que ce petit guide servira à de nombreux auteurs. Nous l’avons écrit pour eux.<span id="more-19491"></span>
+Ces dernières semaines, après avoir publié un article sur [le nouveau métier d'imprimeur d'ePub](http://blog.tcrouzet.com/2010/08/02/imprimeur-epub/), puis sur [la publication chez Apple](http://blog.tcrouzet.com/2010/09/10/comment-publier-sur-apple-ibookstore/), j'ai échangé quelques mails avec [Jean-Claude Dunyach](http://fr.wikipedia.org/wiki/Jean-Claude_Dunyach), un de nos grands auteurs de Science Fiction. Nous avons évoqué l'idée d'écrire un guide pratique à quatre mains. Au final, c'est Jean-Claude qui a effectué l'essentiel du travail, moi ne mettant mon grain de sel que par endroits, notamment pour parler de mon [application de conversion](http://lab.tcrouzet.com/epub/). Nous espérons que ce petit guide servira à de nombreux auteurs. Nous l'avons écrit pour eux.<span id="more-19491"></span>
 
 ---
 
@@ -24,11 +24,11 @@ Sur Mac, [Page](http://www.apple.com/fr/iwork/pages/) sait aussi exporter direct
 
 Quel que soit votre traitement de texte, enregistrez vos fichiers en html et uploadez-les vers [une application Web](http://lab.tcrouzet.com/epub/) qui sera éternellement en prototype mais qui marche.
 
-Des logiciels comme [Sigil](http://code.google.com/p/sigil/) savent aussi ouvrir les fichiers html pour les transformer en ePub. En fait, un ePub est un fichier conteneur (changez son extension par zip pour comprendre). Il contient une série de fichiers html. Passer par le html est donc la méthode la plus logique pour aller vers l’ePub.
+Des logiciels comme [Sigil](http://code.google.com/p/sigil/) savent aussi ouvrir les fichiers html pour les transformer en ePub. En fait, un ePub est un fichier conteneur (changez son extension par zip pour comprendre). Il contient une série de fichiers html. Passer par le html est donc la méthode la plus logique pour aller vers l'ePub.
 
 ##### 1.1.3 La Poule ou l’Œuf
 
-Plus qu’un convertisseur, [cette application](http://www.pouleouoeuf.org/) dans le pur esprit libre est un véritable environnement d’édition. Vous pourrez générer des ePub mais aussi des pdf. Et même vous passer de tout autres outils pour écrire comme pour publier.
+Plus qu'un convertisseur, [cette application](http://www.pouleouoeuf.org/) dans le pur esprit libre est un véritable environnement d'édition. Vous pourrez générer des ePub mais aussi des pdf. Et même vous passer de tout autres outils pour écrire comme pour publier.
 
 #### 1.2. Pour la validation des epubs obtenus
 
@@ -36,7 +36,7 @@ Les principaux sites marchands (Amazon, Apple…) demandent que vous ayez vérif
 
 Vous pouvez aussi employer un autre logiciel : [FlightCrew](http://code.google.com/p/flightcrew/).
 
-Si vous n’avez pas envie d’installer de logiciel, vous pouvez [directement tester votre ePub en ligne](http://threepress.org/document/epub-validate/).
+Si vous n'avez pas envie d'installer de logiciel, vous pouvez [directement tester votre ePub en ligne](http://threepress.org/document/epub-validate/). 
 
 Si on est un peu plus expert, on peut également éditer son fichier ePub, pour corriger d’éventuelles bourdes avec [Sigil](http://code.google.com/p/sigil/downloads/list).
 
@@ -70,7 +70,7 @@ Le but de cette préparation – qui n’est ni très longue, ni très compliqu�
 
 Premier principe général : songez à ce que signifie le fait de lire un livre sur écran. En particulier, rappelez-vous que le lecteur d’ebooks n’a pas nécessairement envie de sauter une douzaine de pages contenant des tas de choses inutiles pour lui (voire des pages blanches) avant d’atteindre le début du texte proprement dit. Par conséquent, tout ce qui concerne les mentions légales, les remerciements ou la liste des collaborateurs, les listes d’ouvrages du même auteur, est à mettre à la fin du fichier, pas au début.
 
-Second principe : le titre du livre et le nom de l’auteur se retrouveront sur la couverture, inutile de les placer dans le texte, à moins de créer une page de garde. Un ebook confortable commence au plus tard à la page 3 (après la couverture et la page de garde). Donc, à vous d’organiser votre document en conséquence.
+Second principe : le titre du livre et le nom de l'auteur se retrouveront sur la couverture, inutile de les placer dans le texte, à moins de créer une page de garde. Un ebook confortable commence au plus tard à la page 3 (après la couverture et la page de garde). Donc, à vous d’organiser votre document en conséquence.
 
 #### 2.2. La gestion des styles
 
@@ -142,7 +142,7 @@ Si vous avez suivi les instructions et bien préparé votre fichier, la conversi
 
 Ouvrez votre fichier ouvrage.doc dans Atlantis. Insérez au tout début de l’ouvrage (c’est vraiment le premier caractère du livre, au-dessus du titre, sans espace avant) l’image de la couverture. Cliquez dessus et centrez-la.
 
-Faites « enregistrement spéciaux » dans le menu « Fichier » et choisissez « enregistrer en ebook ».
+Faites « enregistrement spéciaux » dans le menu « Fichier » et choisissez « enregistrer en ebook ». 
 
 Là, vous allez devoir remplir les champs de métadonnées. Rien de compliqué, vous recopiez les informations demandées dans les cases.
 
@@ -161,9 +161,18 @@ Note : si la couverture n’apparaît pas quand vous ouvrez votre fichier ePub 
 3. Les paramètres aident à définir le rendu du epub. Indiquez notamment le nombre de chapitres à convertir si vous voulez proposer un simple extrait de votre texte.
 4. Pour tester, vous pouvez ne rien saisir dans les trois sections précédentes. En revanche, vous devez au minimum indiquer un fichier html (application optimisée pour les html générés par Microsoft Word).
     
-    1. Tous les traitements de textes savent enregistrer dans ce format. Vous devez choisir un encodage en UTF8. Prenez soin de virer tout le texte qui précède le début effectif du texte (pas de titre, de nom d’auteur, de copyright…).
+    
+    
+    
+    
+    
+    
+    
+    1. Tous les traitements de textes savent enregistrer dans ce format. Vous devez choisir un encodage en UTF8. Prenez soin de virer tout le texte qui précède le début effectif du texte (pas de titre, de nom d'auteur, de copyright...).
     2. Une image de couverture est quasi obligatoire si vous voulez diffuser l’epub.
     3. Si vous avez référencé des images dans le texte, rassemblez-les dans un fichier zip.
     4. Les utilisateurs avancés peuvent associer leurs noms de style à ceux gérés par défaut par l’application. Cette astuce vous évite de devoir renommer les styles de vos documents.
 
-Il ne vous reste plus qu’à cliquer sur « Convertir ». Une fois l’upload de vos fichiers terminé, le download du ePub commence. Visualisez-le avec une liseuse, validez sa syntaxe, vous êtes alors prêt à le diffuser, [sur ibookstore d’Apple par exemple](https://tcrouzet.com/2010/09/10/comment-publier-sur-apple-ibookstore/). [Téléchargez quelques exemples d’ePub version Crouzet.](http://txt.tcrouzet.com/)
+Il ne vous reste plus qu’à cliquer sur « Convertir ». Une fois l’upload de vos fichiers terminé, le download du ePub commence. Visualisez-le avec une liseuse, validez sa syntaxe, vous êtes alors prêt à le diffuser, [sur ibookstore d’Apple par exemple](http://blog.tcrouzet.com/2010/09/10/comment-publier-sur-apple-ibookstore/). [Téléchargez quelques exemples d'ePub version Crouzet.](http://txt.tcrouzet.com/)
+
+Tags: eBook, ePub, NetLittérature, noepub, une

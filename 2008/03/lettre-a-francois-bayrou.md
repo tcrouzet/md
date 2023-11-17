@@ -9,3 +9,5 @@ Une fois que les idées nouvelles seront clairement intégrées, clairement prom
 J’ai la naïveté de croire encore que vous pouvez, avec d’autres comme Corinne Lepage, être le ciment d’une nouvelle idéologie. Vous en avez intuitivement perçu les germes mais vous n’acceptez pas leurs conséquences. Vous devez écouter les voies nouvelles qui s’élèvent un peu partout dans le monde. En France, il n’y a plus de force de progrès identifiées parce qu’elles se dispersent et s’expriment hors des partis. Vous pourriez endosser cette casaque délaissée et lui donner une couleur inédite.
 
 Vous êtes un porte-parole honnête. Vous l’avez encore une fois démontré en refusant toute compromission. Il vous faut maintenant exercer vos talents au nom d’idées nouvelles. Tous les autres chemins se sont refermés. C’est une chance. Il serait dommage que vous fassiez marche-arrière maintenant que vous avez largué toutes les vieilles amarres.
+
+Tags: Modem

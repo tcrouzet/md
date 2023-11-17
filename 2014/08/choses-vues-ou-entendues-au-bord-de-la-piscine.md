@@ -1,6 +1,6 @@
 # 21 choses vues ou entendues au bord de la piscine
 
-Quand vous en aurez assez, j’arrêterai mes listes. Pour le moment, je prends plaisir à les écrire.<span id="more-36731"></span>
+Quand vous en aurez assez, j'arrêterai mes listes. Pour le moment, je prends plaisir à les écrire.<span id="more-36731"></span>
 
 1. Trois garçons, deux filles, des frites colorées et un bateau pneumatique « Explorer ».
 
@@ -43,3 +43,5 @@ Quand vous en aurez assez, j’arrêterai mes listes. Pour le moment, je prends 
 20. Ni les arbres ni le ciel ne se reflètent, étendue trop étroite, trop géométrique, fond trop clair, trop apparemment sableux, imitation tropicale.
 
 21. Le robot se réveille, un raclement, le rideau flottant roule hors de son garage et nappe la surface d’un glaçage bleu-turquoise.
+
+Tags: buzzlitt, une

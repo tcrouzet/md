@@ -2,7 +2,7 @@
 
 La démocratie représentative ne m’intéresse pas, parce qu’elle revient à désigner le coq de la bassecour, exercice qui me paraît rétrograde, parfois même inquiétant, d’autant plus que ceux qui y participent croient dur comme fer qu’il n’existe pas d’autres solutions.<span id="more-44782"></span>
 
-Je passe. En revanche, j’aime la dispute, le débat, et peu importe ce qui les cause. Dans la primaire socialiste, je vois un Benoît Hamon qui porte une vision nouvelle contre les rétrogrades dorénavant incarnés par Manuel Valls. La victoire de Hamon au premier tour est une bonne nouvelle : elle montre que les socialistes commencent à comprendre [le revenu universel](https://tcrouzet.com/tag/revenu-de-base/).
+Je passe. En revanche, j’aime la dispute, le débat, et peu importe ce qui les cause. Dans la primaire socialiste, je vois un Benoît Hamon qui porte une vision nouvelle contre les rétrogrades dorénavant incarnés par Manuel Valls. La victoire de Hamon au premier tour est une bonne nouvelle : elle montre que les socialistes commencent à comprendre [le revenu universel](http://tcrouzet.com/tag/revenu-de-base/).
 
 Pour convaincre les autres, pour répondre à leurs arguments, voici quelques points qui me paraissent importants.
 
@@ -12,7 +12,7 @@ Pour convaincre les autres, pour répondre à leurs arguments, voici quelques po
 
 3. Le véritable plein emploi dans une société technologiquement avancée impliquerait une croissance démesurée que la biosphère ne serait peut-être pas capable d’encaisser.
 
-4. La gauche doit s’arracher du bourbier de la valeur travail, un mythe soigneusement concocté par les patrons eux-mêmes. Le travail n’est pas synonyme d’émancipation, de dignité, d’indépendance… [La gauche doit faire de la liberté de tous sa valeur directrice](https://tcrouzet.com/2016/03/03/lettre-ouverte-aux-gens-de-gauche/). Le revenu universel va en ce sens, en nous offrant plus de choix, plus de possibilités…
+4. La gauche doit s’arracher du bourbier de la valeur travail, un mythe soigneusement concocté par les patrons eux-mêmes. Le travail n’est pas synonyme d’émancipation, de dignité, d’indépendance… [La gauche doit faire de la liberté de tous sa valeur directrice](http://tcrouzet.com/2016/03/03/lettre-ouverte-aux-gens-de-gauche/). Le revenu universel va en ce sens, en nous offrant plus de choix, plus de possibilités…
 
 5. Le revenu universel peut être financé de nombreuses façons. Par exemple en redistribuant une partie des aides actuelles et en recourant au [quantitative easing for the people](http://www.revenudebase.info/2015/04/01/lettre-financial-times-bce-quantitative-easing-for-the-people/).
 
@@ -24,4 +24,8 @@ Pour convaincre les autres, pour répondre à leurs arguments, voici quelques po
 
 Mais attention, le revenu universel reste une idée. Il serait dangereux de l’appliquer sans expérimenter. Il faut en tester plusieurs variantes dans plusieurs villes, puis tirer les leçons de ces expériences avant de songer à les étendre. Il faut donc changer de méthode politique. Passer du politicien qui sait tout à celui qui a des projets et veut tenter de les mettre en œuvre. Voici ce qui est réaliste.
 
-![](https://tcrouzet.com/images_tc/2016/08/mrdb-planche.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/08/mrdb-planche-600x436.jpg)
+
+
+
+Tags: Politique, Revenu de base, une

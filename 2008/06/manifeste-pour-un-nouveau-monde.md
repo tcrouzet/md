@@ -25,3 +25,5 @@ Ne nous suffit-il pas de changer de point de vue pour nous transporter dans cet 
 Dans tous les domaines, dopée par les nouvelles technologies, une force interindividuelle monte peu à peu en puissance.
 
 Les colons de la civilisation en réseau ne sont pas des fous mais des hommes qui nouent entre eux des rapports d’égal-à-égal. En court-circuitant les nœuds hiérarchiques, ils apportent plus de fluidité aux échanges et aux relations. Ensemble, collectivement, ils forment un pouvoir capable de décider sans que ces décisions s’imposent par le haut. Dans la perspective des dérèglements écologiques, des crises financières et même spirituelles, ils inventent une société multimodale où être au-dessus des autres, plus gros que les autres, n’apporte plus de bénéfice. Ils deviennent les citoyens d’un nouveau pays, un pays qui germe au cœur de toutes les vieilles nations et qui rompt avec le modèle monarchiste que les démocraties n’ont jamais renié. Ils posent peut-être les bases d’un nouvel état du monde, un état où le respect des autres et de la nature deviendrait un maître mot.
+
+Tags: Connecteur

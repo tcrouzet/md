@@ -91,3 +91,5 @@ Garmin propose l'utilitaire [POI Loader](https://www8.garmin.com/support/collect
 Suivant les situations, j'utilise l'une ou l'autre de ces méthodes de synchronisation. Si vous n'êtes pas geek, la première sera sans doute la plus pratique.
 
 *PS : [dans un autre article](https://tcrouzet.com/2021/03/24/comment-suivre-une-trace-gps-en-bikepacking/), j’ai présenté ma méthode pour suivre une trace bikepacking.*
+
+Tags: Born to Bike, une

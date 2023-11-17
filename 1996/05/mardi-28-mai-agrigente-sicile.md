@@ -40,7 +40,7 @@ Ces réflexions pessimistes me traversent parce que je ne suis pas mélomane, pa
 
 La symphonie n’existe plus. Elle quitta la peinture au XVII<sup>e</sup>, la musique au XIX<sup>e</sup>, la littérature au XX<sup>e</sup>. La symphonie marque l’aboutissement de la continuité, de la tradition renaissance. Le sampling avec ses échantillons lui succède. Le mélomane assemble des notes éparses en une œuvre unique autant qu’éphémère. La continuité n’est plus que virtuelle, projective, sans substance, au moment même où la substance, l’état brut, reprend le devant de la scène comme à l’époque romane, mais une substance sous forme d’échantillons.
 
-![Daniel Cartier, Cactus et baignoire.](https://tcrouzet.com/images_tc/1996/05/cartier.jpg)
+![Daniel Cartier, Cactus et baignoire.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/1996/05/cartier.jpg)
 
 La photo de Daniel Cartier, *Cactus et baignoire*, symbolise notre époque : époque où on picore, où on réédifie l’œuvre en soi, pour soi. Voilà peut-être pourquoi nous ne communiquons plus réellement. Nous ne faisons que nous picorer les uns les autres. C’est une nouvelle façon de vivre, nouvelle façon de faire, et le voyage moderne en est la plus vibrante illustration. Nous sautons de temple en temple, nous sillonnons le monde de plus en plus vite même si nous aspirons au calme. Comme toujours nous trébuchons sur une dichotomie : d’un côté, la vitesse (elle nous est donnée) ; d’un autre, le silence (nous le désirons).
 
@@ -53,3 +53,5 @@ Quel lien entre communication et réédification ? On ne communique que des éc
 Depuis toujours l’homme aborde le monde par la communication sensorielle. Aujourd’hui, il décuple ses moyens de communication, décuple l’échantillonnage, donc le pouvoir de la réédification. On passe d’une ère où une civilisation réédifiait le monde à une ère où chaque individu réédifie son monde, ce qui pose un problème évident de communication intersubjective.
 
 Ne voilà que des intuitions. Je ne fais que noter ce que me dicte le voyage. On dira peut-être que je me trompe en tout point. J’en serai déçu, mais je ne changerai pas ma méthode : elle me donne ce qui vient et cela ne peut-être tout à fait faux, il doit y avoir du vrai, au moins du vrai concernant la nature humaine, puisque qu’elle témoigne à travers moi. Par l’écriture débridée, j’espère tracer des rapports, sinon comprendre l’essence des choses, ce qui n’a plus guère de sens.
+
+Tags: Pensé de Sicile

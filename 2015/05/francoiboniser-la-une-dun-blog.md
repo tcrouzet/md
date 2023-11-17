@@ -1,6 +1,6 @@
 # Françoisboniser la une d’un blog
 
-Pour un blog littéraire, un blog d’auteur, un blog de créateur, il existe pour la page d’accueil au moins quatre possibilités (quatre métaphores comme je l’explique dans [*La mécanique du texte*](https://tcrouzet.com/la-mecanique-du-texte/)).
+Pour un blog littéraire, un blog d’auteur, un blog de créateur, il existe pour la page d’accueil au moins quatre possibilités (quatre métaphores comme je l’explique dans [*La mécanique du texte*](http://blog.tcrouzet.com/la-mecanique-du-texte/)).
 
 1. La métaphore de la presse avec des articles en évidence, des photos, toute une mise en scène antinomique avec mon univers esthétique.
 
@@ -12,10 +12,14 @@ Pour un blog littéraire, un blog d’auteur, un blog de créateur, il existe po
 
 Ce choix m’apparaît de plus en plus judicieux pour deux raisons.
 
-1. Plus personne ne visite par hasard les pages d’accueil (j’explique aussi pourquoi dans [*La mécanique du texte*](https://tcrouzet.com/la-mecanique-du-texte/)). La lecture commence directement sur les articles à partir des recommandations sociales, voire des abonnements RSS ou autres.
+1. Plus personne ne visite par hasard les pages d’accueil (j’explique aussi pourquoi dans [*La mécanique du texte*](http://blog.tcrouzet.com/la-mecanique-du-texte/)). La lecture commence directement sur les articles à partir des recommandations sociales, voire des abonnements RSS ou autres.
 
 2. Quand on va sur la page d’accueil, c’est pour en savoir plus sur l’auteur, approfondir son œuvre, autant alors avoir une vision synthétique de son travail.
 
 Je viens de me ranger à ce choix, tout en continuant à tendre vers le minimalisme. Ma seule fantaisie, ma dernière photo Instagram en arrière-plan de la une. Le reste est dans les menus déroulants, ou dans la liste réarrangée automatiquement en fonction de mes dernières publications.
 
-![Une minimaliste](https://tcrouzet.com/images_tc/2015/05/minimal.jpg)
+![Une minimaliste](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/05/minimal-600x390.jpg)
+
+
+
+Tags: NetLittérature, une

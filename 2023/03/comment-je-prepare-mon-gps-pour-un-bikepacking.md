@@ -23,3 +23,5 @@
 10. Je me tiens prêt à utiliser mon téléphone pour suivre la trace si mon GPS venait à planter (mon Garmin a rendu l’âme en 2021 sur le 727). Dans ce cas extrême, j’utilise Komoot (voilà pourquoi j’y publie encore mes traces). Mon iPhone est équipé d’une coque QuadLock pour que je puisse le fixer à mon cintre.
 
 Un allergique à la technique regrettera le temps des cartes, mais pour suivre le 727 et le i727, c'est une valise de cartes au 25 000 qu'il faudrait trimbaler (et de nombreux singles n'y seraient même pas repérés). Pour ma part, tout cela m'amuse, et même stimule ma créativité.
+
+Tags: Born to Bike, une

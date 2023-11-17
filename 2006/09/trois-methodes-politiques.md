@@ -23,3 +23,5 @@ J’aimerais que nos politiciens, que nos partis, se positionnent par rapport à
 5. Une règle peut prendre la forme d’une loi, par exemple la fin de la peine de mort ou l’autorisation de l’avortement. Ces règles sont de l’ordre du projet, elles donnent une direction à la société, elles définissent une façon de vivre ensemble. Elles sont souhaitables et même indispensables pour fédérer une communauté et lui offrir du rêve.
 
 6. Une règle peut prendre la forme d’une mesure, le CPE par exemple. Ces règles qui influencent immédiatement la société, qui la façonnent, sans lui dire où aller doivent toujours être mises en œuvre au niveau local et généralisées seulement après avoir démontré leur pertinence et après avoir fait des émules.
+
+Tags: Politique

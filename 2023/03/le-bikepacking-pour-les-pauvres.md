@@ -83,3 +83,5 @@ Le 1<sup>er</sup> avril, avec le départ du 727, vous aurez droit à un test gra
 4. Ne ponctionne pas la batterie du téléphone.
 
 5. Aucune contrainte (pas d'obligation, pas de lieux particuliers type CP, pas de fréquence imposée…)
+
+Tags: Born to Bike, une

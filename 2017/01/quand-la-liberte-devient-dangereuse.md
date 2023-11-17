@@ -12,7 +12,7 @@ Conscients de ces problèmes, les libristes nous adjurent de fuir vers des servi
 
 Paradoxalement, la liberté n’est féconde que si un jeu de règles la contraint. Tous les artistes ont compris intuitivement ce mécanisme, notamment les poètes. La versification ne réduit pas la liberté créatrice, mais au contraire l’exacerbe.
 
-La liberté féconde naît dans l’interdépendance, avec les liens réciproques. Elle se multiplie en même temps que les liens se multiplient (démonstration dans [*L’alternative nomade*](https://tcrouzet.com/alternative-nomade/)). La liberté n’est pas préalable, une chose héritée des dieux, mais un objectif vers lequel on tend sans jamais l’atteindre vraiment.
+La liberté féconde naît dans l’interdépendance, avec les liens réciproques. Elle se multiplie en même temps que les liens se multiplient (démonstration dans [*L’alternative nomade*](http://tcrouzet.com/alternative-nomade/)). La liberté n’est pas préalable, une chose héritée des dieux, mais un objectif vers lequel on tend sans jamais l’atteindre vraiment.
 
 Des amis rêvent de créer [une fédération de communes libres](http://francescocasabaldi.typepad.com/francesco_casabaldi/2015/12/vers-une-f%C3%A9d%C3%A9ration-de-communes-libres.html) : plus indépendantes de l’État, elles se connecteraient entre elles. Quelle différence alors avec le Web ? Les liens établis en toute liberté pourraient conduire à l’apparition de deux ou trois supercommunes qui écraseraient toutes les autres. Aucune loi naturelle ne nous protège du mimétisme, c’est même lui qui est naturel. Nous devons le combattre par des forces humaines, par des inventions culturelles.
 
@@ -40,4 +40,6 @@ Que Diaspora soit libre ne le protège en rien du mimétisme, seulement du capit
 
 En résumé, qu’un service, un logiciel, une commune… soit libre ou pas ne m’intéresse pas. Je veux connaître ses interdépendances et quels gardes fous ont été mis en place pour éviter la concentration des pouvoirs, tout en lui ouvrant les portes de l’ensemble de l’humanité.
 
-Le mail a d’une certaine façon réussi ce tour de force. On peut joindre tout le monde, tout le monde peut nous joindre. Pas besoin de s’inscrire, on crée une adresse et on peut la créer chez soi si on veut.
+Le mail a d’une certaine façon réussi ce tour de force. On peut joindre tout le monde, tout le monde peut nous joindre. Pas besoin de s'inscrire, on crée une adresse et on peut la créer chez soi si on veut.
+
+Tags: Liberté, Politique, une

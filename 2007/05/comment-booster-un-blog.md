@@ -22,6 +22,8 @@ En attendant, voici quelques conseils qui ont fait leurs preuves pour booster le
 
 À part ça, il n’y a aucune recette miracle. Créer un blog bestseller est aussi difficile qu’écrire un bestseller. Si la recette était aussi simple, tout le monde en écrirait, moi le premier.
 
-Je crois que chacun doit écrire ce qui lui paraît important. Il verra bien alors s’il se trouve un public. Mais n’oublions pas que [l’influence n’est pas directement liée à l’audience](https://tcrouzet.com/2007/03/13/thierry-vedel-le-sceptique/) comme je l’ai souvent dit, notamment dans [Le cinquième pouvoir](https://tcrouzet.com/le-cinquieme-pouvoir/).
+Je crois que chacun doit écrire ce qui lui paraît important. Il verra bien alors s’il se trouve un public. Mais n’oublions pas que [l’influence n’est pas directement liée à l’audience](http://blog.tcrouzet.com/2007/03/13/thierry-vedel-le-sceptique/) comme je l’ai souvent dit, notamment dans [Le cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/).
 
 Désolé ! Il n’y a pas de recette miracle.
+
+Tags: blog

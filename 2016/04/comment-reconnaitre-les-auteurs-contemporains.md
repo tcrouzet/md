@@ -34,4 +34,8 @@ Et déjà une difficulté : je ne peux pas écrire « Il, l’auteur » puisq
 
 - Nous sommes impitoyables avec nous-mêmes et avec les autres (nous reconnaissons avoir un problème avec ceux qui se cachent derrière de prétendus éditeurs pour se croire auteur, refusent le contact direct avec les lecteurs que souvent ils n’ont pas, passent leur vie à courtiser les institutions pour arracher des subventions légitimantes, réduisent le Web à un média de diffusion, restent politiquement correct pour ne fâcher personne… Par leur faiblesse de collabo, ils compliquent notre position et font de nous des marginaux).
 
-![Portait de l'auteur contemporain…](https://tcrouzet.com/images_tc/2016/03/qx6.jpg)
+![Portait de l'auteur contemporain…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/qx6.jpg)
+
+
+
+Tags: édition, une

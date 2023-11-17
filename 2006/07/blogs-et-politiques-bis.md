@@ -1,6 +1,6 @@
 # Blogs et politiques, bis
 
-[José](http://carnetsdenuit.typepad.com/) m’a demandé de préciser quelques définitions au sujet de mon [prochain livre](https://tcrouzet.com/2006/07/20/blogs-et-politique/) et du site associé [bonVote ](http://www.bonvote.com).
+[José](http://carnetsdenuit.typepad.com/) m’a demandé de préciser quelques définitions au sujet de mon [prochain livre](http://blog.tcrouzet.com/2006/07/20/blogs-et-politique/) et du site associé [bonVote ](http://www.bonvote.com).
 
 J’en profite pour dire que le titre du livre ne sera sans doute pas *blogs et politiques* mais plutôt *Politique 2.0* ou quelque chose dans le même esprit. Je veux traiter de l’influence d’Internet en général sur la politique. Au début de l’ouvrage, je placerai quelques définitions dont voici un premier jet.
 
@@ -21,3 +21,5 @@ Dans [bonVote](http://www.bonvote.com), j’espère qu’il en sera ainsi. La ba
 J’ai initialisé la base avec 1 000 sites, j’espère qu’elle va vivre d’elle-même maintenant, en s’auto-organisant en quelque sorte. Pour essayer de trier les sites, je suis en train de créer un nouveau robot qui évaluera la teneur politique des articles postés sur les sites. Il travaillera à partir d’un dictionnaire de mots clés qu’il recherchera dans chacun des articles. J’espère le mettre en ligne d’ici la fin de la semaine. Les sites à plus forte teneur politique apparaîtront en haut de page. La sélection de qui est politique ou non se fera alors d’elle-même.
 
 Et comme souvent, comme ça se produit sur [bonWeb](http://www.bonweb.com), les internautes et les blogueurs ne manqueront pas de signaler les erreurs que nous corrigerons au plus vite. Merci d’avance pour votre aide.
+
+Tags: Buzz

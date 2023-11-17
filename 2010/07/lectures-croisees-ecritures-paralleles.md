@@ -6,7 +6,7 @@ N’avez-vous jamais eu l’envie de photographier votre vie pour la retrouver p
 
 Ces notes capturées au fil des jours s’apparentent elles-mêmes à un jeu de Lego littéraire, un pointillisme avec des béances qui provoquent des images et inspirent la rêverie.
 
-![](https://tcrouzet.com/images_tc/2010/07/menard.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/07/menard.jpg)
 
 À consommer avec modération, gorgée après gorgée. Le cerveau disjoncte dans cet éparpillement tous azimuts qui carambole vie privée et vie publique, intime et politique, terre-à-terre et spirituel.
 
@@ -25,3 +25,5 @@ Pour moi une œuvre n’est pas précieuse en elle-même, mais parce qu’elle p
 Cette rapide plongée dans mes carnets (ceux retranscrits) me rappelle une de mes obsessions : faire en sorte que chaque page d’un carnet publié représente toute la durée de la vie de l’auteur, non seulement le moment premier de l’écriture. J’ai ainsi souvent l’habitude d’ajouter des commentaires rétrospectifs sur les entrées de mes carnets, ce que réussit Pierre d’une autre façon avec sa technique de la superposition. De belles expérimentations en perspectives…
 
 *PS : Billet inspiré par la lecture croisée effectuée par [Christophe Grossi](http://blog.epagine.fr/index.php/category/le-livre-avenir/) et prolongée par [Pierre Ménard](http://www.liminaire.fr/spip.php?article652), remis en perspective par [François bon](http://www.tierslivre.net/spip/spip.php?article2203).*
+
+Tags: id, littérature, NetLittérature, une

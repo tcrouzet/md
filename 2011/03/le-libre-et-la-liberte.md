@@ -1,6 +1,6 @@
 # Le libre et la liberté
 
-En préparation de ma conférence donnée à la [Maison du livre de l’image et du son François Mitterrand de Villeurbanne](http://www.ubuntu-lyon.org/?page=News&news=317), j’avais préparé un texte qui m’a servi de fil rouge.<span id="more-21368"></span>
+En préparation de ma conférence donnée à la [Maison du livre de l'image et du son François Mitterrand de Villeurbanne](http://www.ubuntu-lyon.org/?page=News&news=317), j’avais préparé un texte qui m'a servi de fil rouge.<span id="more-21368"></span>
 
 ### Je ne suis pas un expert
 
@@ -18,13 +18,13 @@ Xerox justifie l’instauration de cette structure de pouvoir au nom du droit co
 
 ### Le maître et l’esclave
 
-En novembre dernier, j’ai passé à Genève [une journée en compagnie de Stallman](https://tcrouzet.com/2010/11/22/la-fin-des-faux-monnayeurs/). Nous voulions discuter de la possibilité d’étendre le concept du logiciel libre à la monnaie et à l’ensemble du système financier. Au début de l’après-midi, des élèves en économie de l’université sont venus écouter Stallman et lui poser des questions. À un moment donné, un garçon a dit qu’il ne voyait pas l’intérêt de savoir s’il utilisait un logiciel libre ou pas.
+En novembre dernier, j’ai passé à Genève [une journée en compagnie de Stallman](http://blog.tcrouzet.com/2010/11/22/la-fin-des-faux-monnayeurs/). Nous voulions discuter de la possibilité d’étendre le concept du logiciel libre à la monnaie et à l’ensemble du système financier. Au début de l’après-midi, des élèves en économie de l’université sont venus écouter Stallman et lui poser des questions. À un moment donné, un garçon a dit qu’il ne voyait pas l’intérêt de savoir s’il utilisait un logiciel libre ou pas.
 
 Je n’ai pas pu m’empêcher de lui dire que, par le passé, beaucoup d’esclaves n’avaient jamais pris conscience qu’ils étaient esclaves. C’était pour eux un état si naturel qu’il n’était même pas contestable. On ne sait ce qu’est la liberté que quand on y a goûté. C’est pour illustrer ce point que j’ai rappelé le moment qui préfigure l’invention du logiciel libre.
 
 Stallman était libre et, soudain, il a vu sa liberté d’utilisateur réduite. Il a mesuré ce que Xerox lui enlevait. Ceux qui ont toujours utilisé l’imprimante Xerox avec son logiciel privateur (en français, Stallman préfère dire privateur, sous-entendu privateur de liberté, à propriétaire, il n’a rien contre la propriété privée) ne savent pas ce qu’ils perdent.
 
-Vous allez peut-être dire que n’étant pas programmeur vous vous fichez que les codes de vos logiciels soient libres ou non. Ça ne change rien à votre liberté. Mais la liberté n’est-elle pas aussi fonction des potentialités qui s’offrent à nous ?
+Vous allez peut-être dire que n'étant pas programmeur vous vous fichez que les codes de vos logiciels soient libres ou non. Ça ne change rien à votre liberté. Mais la liberté n’est-elle pas aussi fonction des potentialités qui s’offrent à nous ?
 
 Je sais que je peux sauter à l’élastique même si je ne sauterai jamais à l’élastique. Qu’on me l’interdise et je le ressentirais comme une brimade. Et si on l’interdit à ceux qui aiment ce jeu, j’en déduirai que je vis dans un monde qui dérive vers autoritarisme. Stallman a assisté à cette dérive dans le monde de l’informatique. Ne croyez pas qu’elle soit propre à ce microcosme.
 
@@ -36,13 +36,13 @@ Essayons-nous à un petit inventaire.
 
 Le travail est-il abondant ? Si tel était le cas, il n’y aurait pas de chômage. Le travail est donc rare.
 
-L’argent est-il abondant ? La rareté du travail fait que pour beaucoup de gens l’argent est rare. Et même pour ceux qui travaillent, les salaires sont souvent trop modestes. L’argent est rare. C’est vrai, ça dépend pour qui, pas pour les banquiers qui le fabriquent, mais ils se le réservent pour leur bonus de fin d’années et ceux de leurs amis.
+L’argent est-il abondant ? La rareté du travail fait que pour beaucoup de gens l’argent est rare. Et même pour ceux qui travaillent, les salaires sont souvent trop modestes. L’argent est rare. C'est vrai, ça dépend pour qui, pas pour les banquiers qui le fabriquent, mais ils se le réservent pour leur bonus de fin d'années et ceux de leurs amis.
 
 Le temps est-il abondant ? Non, puisqu’il faut toujours travailler plus pour gagner plus.
 
 Les pâtes sont-elles abondantes ? Si vous allez au supermarché, vous verrez un énorme rayon. Si vous regardez bien, vous découvrirez qu’il existe peut-être cinquante sortes de pâtes différentes, mais pas plus. En revanche, pour chacune des dizaines et des dizaines de paquets seront empilés. Au total, il y a une abondance de paquets, mais pas une abondance de choix. C’est vrai pour tous les objets manufacturés. Ils sont produits en grande série, mais peu de séries sont produites.
 
-Les logiciels sont-ils abondants ? Ceux privateurs : non, d’aucune façon. Il faut payer une licence pour les posséder et, comme l’argent est rare, ils ne peuvent pas être abondants. Seuls les logiciels libres peuvent être abondants puisqu’ils peuvent circuler librement.
+Les logiciels sont-ils abondants ? Ceux privateurs : non, d’aucune façon. Il faut payer une licence pour les posséder et, comme l’argent est rare, ils ne peuvent pas être abondants. Seuls les logiciels libres peuvent être abondants puisqu'ils peuvent circuler librement.
 
 Si Stallman était là, il m’aurait arrêté. Stallman est très précis sur les mots, je ne le suis pas. Libre signifie libre accès au code et le droit de le modifier. Mais cette liberté-là est insuffisante, si elle ne se double pas de la liberté de circulation. Si je dispose d’un logiciel libre, même si je l’ai acheté, j’entends pouvoir le faire circuler. Cela est possible en fonction des différentes licences de logiciel libre utilisées. Quoi qu’il en soit, dans le cas favorable, la libre circulation est possible et, du coup, la véritable abondance en découle.
 
@@ -56,9 +56,9 @@ Miracle, on invente en ce moment les ebooks, les livres deviennent indéfiniment
 
 Cette pratique est dangereuse en période de crise écologique. Nous avons, il me semble, tout intérêt à rendre abondant tous les biens qui peuvent l’être, c’est-à-dire tous les biens immatériels. S’ils se diffusent largement, nous leur consacrerons de plus en plus de temps et on peut espérer que nous passerons de moins en moins de temps à consommer des biens matériels, qui eux ne pourront jamais être abondants.
 
-La rareté artificielle introduite par les DRM ou les licences privatrices revient à mettre les biens immatériels au même niveau que les biens matériels. C’est comme si on nous disait que lire ou rouler en voiture c’était une activité comparable. D’un point de vue écologique non. Si nous nous préoccupons d’environnement, nous devons militer en faveur de l’abondance, donc incidemment pour le logiciel libre.
+La rareté artificielle introduite par les DRM ou les licences privatrices revient à mettre les biens immatériels au même niveau que les biens matériels. C’est comme si on nous disait que lire ou rouler en voiture c’était une activité comparable. D’un point de vue écologique non. Si nous nous préoccupons d’environnement, nous devons militer en faveur de l'abondance, donc incidemment pour le logiciel libre.
 
-Cette tendance de certains à vouloir réduire ce qui est abondant n’est pas neuve. Nous payons l’eau par exemple bien plus cher que le strict prix du transport ne l’imposerait. Construire des barrages pour rendre rare ce qui est abondant est un moyen efficace de réaliser des profits substantiels. Cela revient souvent pour une entreprise à vendre ce qui ne lui appartient pas. C’est le cas des ressources naturelles. Nous savons aujourd’hui qu’elles sont rares mais au départ les industriels les supposaient abondantes et cela ne les a pas empêchés de les rationner en les facturant.
+Cette tendance de certains à vouloir réduire ce qui est abondant n'est pas neuve. Nous payons l'eau par exemple bien plus cher que le strict prix du transport ne l'imposerait. Construire des barrages pour rendre rare ce qui est abondant est un moyen efficace de réaliser des profits substantiels. Cela revient souvent pour une entreprise à vendre ce qui ne lui appartient pas. C'est le cas des ressources naturelles. Nous savons aujourd'hui qu'elles sont rares mais au départ les industriels les supposaient abondantes et cela ne les a pas empêchés de les rationner en les facturant.
 
 ### Le hacker
 
@@ -89,7 +89,7 @@ Les logiciels libres nous font entrer dans la civilisation de l’abondance pour
 1. Souvent, ils circulent librement ce qui leur permet de se démultiplier sans aucun frein.
 2. Les programmeurs peuvent sans cesse le faire évoluer ce qui démultiplie l’innovation et la diversité de l’écosystème.
 
-Il existe une troisième raison. Quand j’achète un logiciel, je donne de l’argent, en retour je reçois un code. Si je me suis lié avec le programmeur, lui n’est pas lié avec moi. Dans sa poche, l’argent n’a pas d’odeur, pas de couleur, il se mélange avec l’argent qu’il a reçu par ailleurs. Entre le programmeur et moi s’est instauré un lien de maître-esclave.
+Il existe une troisième raison. Quand j’achète un logiciel, je donne de l’argent, en retour je reçois un code. Si je me suis lié avec le programmeur, lui n’est pas lié avec moi. Dans sa poche, l’argent n’a pas d’odeur, pas de couleur, il se mélange avec l’argent qu’il a reçu par ailleurs. Entre le programmeur et moi s'est instauré un lien de maître-esclave.
 
 En revanche, quand je récupère un logiciel libre, souvent je ne donne rien, mais un lien moral s’établit. Je me sais redevable au programmeur et il est assez fréquent d’aller discuter avec lui en cas de problème, et pourquoi pas alors de le rémunérer, mais après coup, après satisfaction. C’est ainsi que les communautés se forment. Le logiciel libre est un facteur de socialisation.
 
@@ -99,8 +99,10 @@ Si, avec mon iPhone, je suis un esclave d’Apple, je ne le suis pas avec Mozill
 
 Ça peut paraître un détail, mais cette petite impulsion en faveur des liens sociaux s’inscrit dans un mouvement plus vaste entretenu par les réseaux sociaux et, plus généralement, par toutes les technologies de fluidification. Nous sommes en train de complexifier le monde.
 
-Chaque fois que nous créons un nouveau lien entre deux personnes, nous complexifions [le graphe social de l’humanité](https://tcrouzet.com/2010/11/24/la-carte-et-le-reseau-social/), donc en compliquons le contrôle. Plus nous créons de liens, plus nous sommes libres.
+Chaque fois que nous créons un nouveau lien entre deux personnes, nous complexifions [le graphe social de l’humanité](http://blog.tcrouzet.com/2010/11/24/la-carte-et-le-reseau-social/), donc en compliquons le contrôle. Plus nous créons de liens, plus nous sommes libres.
 
 Un exemple. Un logiciel libre se propage, se transforme, évolue. Personne ne le contrôle. Dans un logiciel privateur, l’éditeur peut installer des spywares. Il peut même comme Amazon ou Apple supprimer vos fichiers à distance. Un logiciel privateur est contrôlable par nature. C’est un outil qui peut s’avérer réducteur de liberté en même temps que réducteur de complexité, ne serait-ce que parce que partout il est identique à lui-même.
 
-Quand on est attaché à la liberté, on doit défendre le logiciel libre, mais aussi, en participant à la complexification sociale du monde, s’opposer à toutes les structures de domination, qui ont pour principale ambition d’instaurer la rareté pour nous distiller des biens moyennant paiement.
+Quand on est attaché à la liberté, on doit défendre le logiciel libre, mais aussi, en participant à la complexification sociale du monde, s’opposer à toutes les structures de domination, qui ont pour principale ambition d'instaurer la rareté pour nous distiller des biens moyennant paiement.
+
+Tags: NetCulture

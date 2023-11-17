@@ -1,14 +1,14 @@
 # Je lis Michéa : digression 1
 
-Avant de commencer [ma lecture de *L’empire du Moindre mal* de Michéa](https://tcrouzet.com/2008/02/28/je-lis-michea/), je voudrais revenir sur l’idée de progrès. Je n’imagine pas vivre dans une société humaine privée de progrès. Mais encore faut-il s’entendre sur le sens de ce mot.
+Avant de commencer [ma lecture de *L’empire du Moindre mal* de Michéa](http://blog.tcrouzet.com/2008/02/28/je-lis-michea/), je voudrais revenir sur l’idée de progrès. Je n’imagine pas vivre dans une société humaine privée de progrès. Mais encore faut-il s’entendre sur le sens de ce mot.
 
-Les libéraux, et les capitalistes de manière générale, tentent souvent de mesurer le progrès à l’aide du taux de croissance. [Ce progrès économique ne me paraît pas indispensable](https://tcrouzet.com/2006/05/30/croissance-illusoire/), je crois même qu’il est de moins en moins souhaitable car il passe sous silence les progrès sociaux, culturels, spirituels…
+Les libéraux, et les capitalistes de manière générale, tentent souvent de mesurer le progrès à l’aide du taux de croissance. [Ce progrès économique ne me paraît pas indispensable](http://blog.tcrouzet.com/2006/05/30/croissance-illusoire/), je crois même qu’il est de moins en moins souhaitable car il passe sous silence les progrès sociaux, culturels, spirituels…
 
 Par progrès, on entend souvent évolution positive. Mais qu’est-ce qui est positif ? Il est impossible de le définir dans l’absolu. Le progrès positif est nécessairement idéologique. Les libéraux peuvent alors souhaiter un progrès positif fort différent des socialistes. En revanche, les uns et les autres ne peuvent pas nier l’existence du progrès comme force de changement. Quand je pense progrès, je pense processus, je pense transformation, métamorphose, évolution…
 
 Mais tout changement n’est pas un progrès. Passer de la paix à guerre n’est pas un progrès car cette transition est vieille comme le monde. Progresser, c’est parcourir une transition inédite. Ainsi le vivant progresse sur un chemin qu’il ouvre en même temps qu’il le parcourt. Progresser, c’est cheminer sur une voie dont personne ne peut voir la suite. C’est comme lire un texte pour la première fois. Je progresse dans ma lecture de Michéa.
 
-Est-il maintenant possible de figer le progrès et de nous maintenir dans une stase éternelle ? Je ne le pense pas car rien ne peut empêcher les combinaisons hasardeuses d’inventer de nouvelles formes biologiques, sociales, culturelles, technologiques… Le progrès ne me semble donc pas un objectif politique mais un état de fait.
+Est-il maintenant possible de figer le progrès et de nous maintenir dans une stase éternelle ? Je ne le pense pas car rien ne peut empêcher les combinaisons hasardeuses d’inventer de nouvelles formes biologiques, sociales, culturelles, technologiques... Le progrès ne me semble donc pas un objectif politique mais un état de fait.
 
 Ce progrès n’est ni bon ni mauvais a priori car il nous amène vers l’inconnu. Il peut donc a posteriori être mauvais, neutre ou bon. Il peut même être mauvais pour les uns et bon pour les autres, ce qui est le plus souvent le cas.
 
@@ -18,7 +18,7 @@ Que nous le voulions où non, nous nous trouvons dans une position à risque du 
 
 Prendre des risques, c’est accepter le hasard et ses impondérables. C’est un état d’esprit qui me rappelle celui des stoïciens antiques tout en le prenant à contre-pied. Ils croyaient au destin, ils croyaient que l’avenir était écrit et qu’ils n’avaient aucune liberté. Tout ce qu’ils pouvaient faire était accepter cette fatalité et être en accord avec eux-mêmes. Pour eux, ceux qui refusaient la fatalité ne pouvaient qu’être malheureux.
 
-Je pense qu’il faut imiter les stoïciens mais en partant du point de vue opposé : [l’avenir n’est pas écrit](https://tcrouzet.com/2008/01/23/l%e2%80%99avenir-non-dechiffrable/). Soit nous acceptons les imprévus et nous habituons à vivre une existence à risques, soit nous souffrons car les imprévus nous atteignent tout de même, et avec autant de force que si nous avions pris des risques. En d’autres mots, que nous le voulions ou non, nous prenons des risques.
+Je pense qu’il faut imiter les stoïciens mais en partant du point de vue opposé : [l’avenir n’est pas écrit](http://blog.tcrouzet.com/2008/01/23/l%e2%80%99avenir-non-dechiffrable/). Soit nous acceptons les imprévus et nous habituons à vivre une existence à risques, soit nous souffrons car les imprévus nous atteignent tout de même, et avec autant de force que si nous avions pris des risques. En d’autres mots, que nous le voulions ou non, nous prenons des risques.
 
 Le progrès, et la nécessité de l’affronter, n’est donc pas un concept libéral ou capitaliste, c’est un fait auquel nous devons donner des réponses.
 

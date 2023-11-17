@@ -1,6 +1,6 @@
 # L&#8217;écologie commence par l&#8217;amour du territoire
 
-J’ai longtemps été un écologiste rationnel. Je partais d’un constat imparable : pollutions, dérèglements climatiques, surexploitation des sols, et aussi des humains, baisse de la biodiversité… En conséquence de quoi l’action s’imposait. Nier cette évidence s’apparentait à un crime politique.<span id="more-60033"></span>
+J'ai longtemps été un écologiste rationnel. Je partais d’un constat imparable : pollutions, dérèglements climatiques, surexploitation des sols, et aussi des humains, baisse de la biodiversité… En conséquence de quoi l’action s’imposait. Nier cette évidence s’apparentait à un crime politique.<span id="more-60033"></span>
 
 À mon échelle, j’ai milité en faveur d’approches plus décentralisées, car moins dispendieuses, plus résilientes, favorisant en prime l’intelligence collective, indispensable pour résoudre les problèmes complexes, face auxquels l’approche pyramidale est impuissante.
 
@@ -29,3 +29,5 @@ J’ai l’illusion que plus le territoire sera irrigué, plus il s’ouvrira à
 Je cherche peut-être à me rassurer, à me prouver que je suis encore dans l’action et que je ne me contente pas de vivre en épicurien. Je tente de rationaliser des impressions, des intuitions, je n’y parviens pas, mais je devine une forme de sagesse dans la trace quand elle est pensée avec amour et par amour du pays qu’elle traverse. Dans toute initiation, le chemin importe plus que la destination. Désormais, je ne m’occupe plus que du chemin. Je ne marche pas vers Compostelle ou un une autre destination, je marche pour jouir du monde.
 
 J’ignore encore le sens de cet enseignement transposé à la littérature. L’écriture s’apparente à une pérégrination, alors j’écris aussi pour jouir et je partage dans l’espoir de faire jouir.
+
+Tags: Politique, une

@@ -1,16 +1,18 @@
 # Les limites du pyramidal
 
+<embed allowfullscreen="true" id="VideoPlayback" src="http://video.google.com/googleplayer.swf?docid=4239550001256540398&hl=fr&fs=true" style="width:400px;height:326px" type="application/x-shockwave-flash"></embed>
+
 Grâce à [Phyrezo](http://blog.phyrezo.org/2008/06/confrence-sur-lintelligence-collective.html), je viens d’écouter cette conférence de [Jean-François Noubel](http://thetransitioner.org/).
 
-Si Noubel et moi nous intéressons à l’intelligence collective, nous l’abordons par des perspectives diamétralement opposées et j’espère complémentaires.
+Si Noubel et moi nous intéressons à l’intelligence collective, nous l'abordons par des perspectives diamétralement opposées et j’espère complémentaires.
 
 Il m’est arrivé de faire des conférences devant des grands patrons. Lorsque Noubel est politiquement correct, moi je suis punk. Je suis sur la scène pour annoncer la mort de la scène, la mort de tous les business et la révolution. Je suis là pour me marrer parce que je crois qu’on change le monde avec le sourire.
 
-Mais tous les auditeurs ne rient pas. Certains me font la gueule et ils ne me réinvitent pas. Comme je n’ai rien à vendre, ce n’est pas dramatique.
+Mais tous les auditeurs ne rient pas. Certains me font la gueule et ils ne me réinvitent pas. Comme je n’ai rien à vendre, ce n'est pas dramatique.
 
 Noubel est un consultant. Il vend son business. Moi je ne parle pas pour faire des affaires. Ou si je le fais, c’est à la façon des artistes, si je fais des affaires, c’est par les dérangements que j’engendre.
 
-Cela dit Noubel explique fort bien les limites du pyramidal. C’est un système dispendieux qui a besoin de ressources infinies. Le pyramidal n’est pas durable dans un monde clos. Tous les écologistes devraient s’opposer à ce système dont la liste des griefs, malgré ses accomplissements, est si longue que nous avons pour devoir d’explorer d’autres voies.
+Cela dit Noubel explique fort bien les limites du pyramidal. C’est un système dispendieux qui a besoin de ressources infinies. Le pyramidal n’est pas durable dans un monde clos. Tous les écologistes devraient s'opposer à ce système dont la liste des griefs, malgré ses accomplissements, est si longue que nous avons pour devoir d’explorer d’autres voies.
 
 Comme moi, Noubel ne dit pas que le pyramidal ne marche pas mais qu’il ne marche plus dans certaines situations auxquelles nous faisons face aujourd’hui. Que les petits chefs soient attachés à ce système, je comprends… que les pions le soient aussi me dépasse.
 
@@ -26,6 +28,6 @@ Soyons clair. Ce n’est pas une stratégie, je ne sais pas faire autrement. Le 
 
 Alors quand Phyrezo dit que Noubel représente le côté spirituel, moi le côté scientifique, je ne suis pas d’accord. Je dirais que Noubel représente le système. Il y vend le changement comme tous les consultants. Moi, je ne vends pas le changement, je vends quelques livres où il est question de faire la révolution.
 
-Je vois peut-être une dernière différence entre Noubel et moi. Je suis un dilettante, c’est un professionnel. Je passe par ce sujet de l’intelligence collective presque par hasard, à l’occasion de deux ou trois livres, parce que j’ai entrevu des connexions stimulantes et des possibilités inexplorées, et j’espère aller bientôt ailleurs, en me nourrissant de tout cela, mais sur d’autres terrains que je maîtrise pas du tout. Si mon activité intellectuelle devenait un business, je suis sûr que je m’ennuierais autant que quand je travaillais dans une structure pyramidale.
+Je vois peut-être une dernière différence entre Noubel et moi. Je suis un dilettante, c'est un professionnel. Je passe par ce sujet de l'intelligence collective presque par hasard, à l'occasion de deux ou trois livres, parce que j'ai entrevu des connexions stimulantes et des possibilités inexplorées, et j'espère aller bientôt ailleurs, en me nourrissant de tout cela, mais sur d'autres terrains que je maîtrise pas du tout. Si mon activité intellectuelle devenait un business, je suis sûr que je m'ennuierais autant que quand je travaillais dans une structure pyramidale.
 
-Une chose est sûre, sur ce blog, nous nous adonnons à l’intelligence collective… un tout petit peu. La plupart des choses que jy publie, je ne les écrirais pas si je n’avais pas de lecteurs réactifs.
+Une chose est sûre, sur ce blog, nous nous adonnons à l'intelligence collective... un tout petit peu. La plupart des choses que jy publie, je ne les écrirais pas si je n'avais pas de lecteurs réactifs.

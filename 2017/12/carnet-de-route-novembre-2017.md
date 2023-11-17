@@ -8,7 +8,7 @@ Je passe plusieurs heures à sélectionner les photos pour illustrer mon carnet 
 
 ### Jeudi 2, Balaruc
 
-CreateSpace me demande de justifier que je suis l’auteur de [*One Minute*](https://tcrouzet.com/images_tc/2015/01/couv-1minute-1-400x633.jpg). Comment dire ? Il serait facile de prouver que je ne le suis pas en désignant un autre auteur qui aurait publié ce livre antérieurement, mais ce n’est pas le cas.
+CreateSpace me demande de justifier que je suis l’auteur de [*One Minute*](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/couv-1minute-1-400x633.jpg). Comment dire ? Il serait facile de prouver que je ne le suis pas en désignant un autre auteur qui aurait publié ce livre antérieurement, mais ce n’est pas le cas.
 
 ### Samedi 4, Balaruc
 
@@ -16,23 +16,23 @@ J’ai passé une nuit agitée par l’idée d’un nouveau roman dont le titre 
 
 ---
 
-CreateSpace finit par accepter ma paternité de [*One Minute*](https://tcrouzet.com/images_tc/2015/01/couv-1minute-1-400x633.jpg).
+CreateSpace finit par accepter ma paternité de [*One Minute*](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/couv-1minute-1-400x633.jpg).
 
 ---
 
-Je découvre que Simon Stephens a écrit [une pièce intitulée *One Minute*](https://www.amazon.fr/One-Minute-Simon-Stephens-ebook/dp/B00K7FGMWI/) en 2003. Cinq personnages parlent de la minute où un meurtre s’est produit. Peu de rapport donc avec mon [*One Minute*](https://tcrouzet.com/images_tc/2015/01/couv-1minute-1-400x633.jpg).
+Je découvre que Simon Stephens a écrit [une pièce intitulée *One Minute*](https://www.amazon.fr/One-Minute-Simon-Stephens-ebook/dp/B00K7FGMWI/) en 2003. Cinq personnages parlent de la minute où un meurtre s’est produit. Peu de rapport donc avec mon [*One Minute*](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/couv-1minute-1-400x633.jpg).
 
 ### Dimanche 5, Balaruc
 
-Grande tempête de mistral. Des inconscients sortent en aviron, sans être trop couverts, avec une enfant coincée entre les jambes du barreur qui a beau hurler, rien n’y fait, ils n’ont d’autre choix que de s’échouer devant la maison et se jeter à l’eau.
+Grande tempête de mistral. Des inconscients sortent en aviron, sans être trop couverts, avec une enfant coincée entre les jambes du barreur qui a beau hurler, rien n'y fait, ils n'ont d'autre choix que de s'échouer devant la maison et se jeter à l'eau.
 
-![Les naufragés](https://tcrouzet.com/images_tc/2017/12/20171105-1.jpg)
+![Les naufragés](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171105-1.jpg)
 
-![Après la tempête](https://tcrouzet.com/images_tc/2017/12/20171105-2.jpg)
+![Après la tempête](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171105-2.jpg)
 
 ### Mercredi 8, Balaruc
 
-![Au réveil](https://tcrouzet.com/images_tc/2017/12/20171108-1.jpg)
+![Au réveil](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171108-1.jpg)
 
 ### Vendredi 10, Balaruc
 
@@ -42,7 +42,7 @@ Grande tempête de mistral. Des inconscients sortent en aviron, sans être trop 
 
 Je rêve devant [un vélo aquatique](https://manta5.com/), tout en songeant que ma commune veut faire passer une promenade devant ma maison, entre notre jardin et l’eau, quitte à combler l’étang. Je croyais que ces saccages étaient interdits, mais non. Je deviens fataliste. La promenade coulera avant ma maison quand le niveau des mers montera.
 
-![Sète](https://tcrouzet.com/images_tc/2017/12/20171110-2.jpg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171110-2.jpg)
 
 ### Samedi 11, Balaruc
 
@@ -52,19 +52,19 @@ Cette semaine, j’ai esquissé un début de [*One Second*](https://www.wattpad.
 
 En rentrant du vélo à midi, je découvre un mail de Thanh Nghiem, l’initiatrice avec Cédric Villani, du [*Manisfeste du crapaud fou*](#). Il y a dix ans je croyais que les [*crapauds fous*](https://tcrouzet.com/les-crapauds-fous/) seraient aujourd’hui innombrables.
 
-![Sète](https://tcrouzet.com/images_tc/2017/12/20171111-4.jpg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171111-4.jpg)
 
-![Horizon](https://tcrouzet.com/images_tc/2017/12/20171111-3.jpg)
+![Horizon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171111-3.jpg)
 
-![Balaruc](https://tcrouzet.com/images_tc/2017/12/20171111-2.jpg)
+![Balaruc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171111-2.jpg)
 
-![Sète](https://tcrouzet.com/images_tc/2017/12/20171111-1.jpg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171111-1.jpg)
 
 ### Jeudi 16, Balaruc
 
 Après deux mois de repos, j’ai replongé dans *Mon père était un tueur*, intégrant les corrections de quelques amis, passant le texte à la loupe, traquant les répétions. Me voilà avec un nouveau manuscrit sur les bras. Je commence donc à le faire circuler, j’ai même dans l’idée de l’envoyer à des éditeurs que je ne connais pas, en jetant cette ultime bouteille à la mer. Jamais je n’écrirai un roman plus classique : guerre d’Algérie, mon père sniper, violence, rapport père-fils, racisme, attentats, la fabrique d’un écrivain… On ne peut pas faire plus littérature française contemporaine. Je n’ai pas écrit ce texte pour cette raison, mais bien parce que c’était pour moi nécessaire, sans doute pour personne d’autre.
 
-![Pyrénées](https://tcrouzet.com/images_tc/2017/12/20171116-1.jpg)
+![Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171116-1.jpg)
 
 ### Vendredi 17, Balaruc
 
@@ -74,9 +74,9 @@ De mon côté, je suis un auteur sismographe, du moins c’est l’auteur qui me
 
 ### Samedi 18, Balaruc
 
-![Pyrénées](https://tcrouzet.com/images_tc/2017/12/20171118-1.jpg)
+![Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171118-1.jpg)
 
-![Pêcheur](https://tcrouzet.com/images_tc/2017/12/20171118-2.jpg)
+![Pêcheur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171118-2.jpg)
 
 ### Dimanche 19, Balaruc
 
@@ -92,7 +92,7 @@ Je me sens sale en soumettant le manuscrit de *Mon père était un tueur*, comme
 
 ---
 
-J’imprime des exemplaires de *Mon ère était un tueur*. Aujourd’hui aura été le jour où j’ai enterré symboliquement mon blog. Pas de quoi être joyeux.
+J'imprime des exemplaires de *Mon ère était un tueur*. Aujourd’hui aura été le jour où j’ai enterré symboliquement mon blog. Pas de quoi être joyeux.
 
 ### Lundi 20, Balaruc
 
@@ -102,19 +102,19 @@ Je me suis débarrassé de *Mon père était un tueur*, j’ai même mis quelque
 
 Après *Boyhood*, nous regardons la trilogie *Before sunrise*, *Before sunset*, *Before midnight* de Richard Linklater. Longtemps que des films ne m’avaient pas autant enthousiasmé, sans doute à cause d’une connivence formelle.
 
-![Rouge](https://tcrouzet.com/images_tc/2017/12/20171120-1b.jpg)
+![Rouge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171120-1b.jpg)
 
-![Rouge](https://tcrouzet.com/images_tc/2017/12/20171120-2b.jpg)
+![Rouge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171120-2b.jpg)
 
 ### Mardi 21, Balaruc
 
 Un éditeur dit de *Mon père était un tueur*, « J’aime le fond mais c’est trop linéaire », alors que dans cette histoire je ne cesse de faire des aller-retour dans le temps. Si je donne à lire *One Minute* à cet éditeur, il me dira que c’est trop non-linéaire. Souvent les gens se cherchent de mauvaises excuses pour ne pas dire qu’ils n’aiment pas. Un besoin français de tout justifier rationnellement quitte à invoquer une logique fautive.
 
-![Classico](https://tcrouzet.com/images_tc/2017/12/20171121-1.jpg)
+![Classico](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171121-1.jpg)
 
-![Pyrénées](https://tcrouzet.com/images_tc/2017/12/20171121-2.jpg)
+![Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171121-2.jpg)
 
-![Vedette](https://tcrouzet.com/images_tc/2017/12/20171121-3.jpg)
+![Vedette](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/20171121-3.jpg)
 
 ### Mardi 28, Marseille
 
@@ -128,8 +128,10 @@ J’ai du mal à faire comprendre à mes interlocuteurs que la littérature num�
 
 En écoutant [Camille Duvelleroy](http://supersimone.com/) parler de sa [BD Été sur Instagram](https://www.instagram.com/ete_arte/), je pense que la BD d’un voyage en Islande pourrait être très drôle. Pourquoi ne pas parodier mon propre journal ? L’attende me pousse à imaginer tout et n’importe quoi. J’ai horreur du vide.
 
-![La Marelle](https://tcrouzet.com/images_tc/2017/12/marseille2.jpg)
+![La Marelle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/marseille2.jpg)
 
 ### Jeudi 30, Balaruc
 
 Nouvel appel d’un éditeur intéressé par *Mon père était un tueur*, ça fait plaisir, mais [je ne suis pas encore guéri du syndrome d’imposture](https://tcrouzet.com/2017/11/21/pourquoi-ecrire-en-ligne/).
+
+Tags: Carnets, une

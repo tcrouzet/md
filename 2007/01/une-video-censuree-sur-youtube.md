@@ -1,6 +1,6 @@
 # Une vidéo censurée sur YouTube
 
-Il y a quelque temps un lecteur m’a raconté qu’une de ses vidéos critique au sujet de Google Earth avait été déclassée suite au rachat de YouTube par Google ([son message en commentaire](https://tcrouzet.com/2007/01/13/une-video-censuree-sur-youtube/#comment-7244)). Pour lui, c’est la preuve que Google a du pouvoir, c’est la preuve que certains acteurs d’internet contrôlent le web, ce qui serait contraire à ce que je dis toujours, à savoir qu’internet est incontrôlable comme tout système complexe.
+Il y a quelque temps un lecteur m’a raconté qu’une de ses vidéos critique au sujet de Google Earth avait été déclassée suite au rachat de YouTube par Google ([son message en commentaire](http://blog.tcrouzet.com/2007/01/13/une-video-censuree-sur-youtube/#comment-7244)). Pour lui, c’est la preuve que Google a du pouvoir, c’est la preuve que certains acteurs d’internet contrôlent le web, ce qui serait contraire à ce que je dis toujours, à savoir qu’internet est incontrôlable comme tout système complexe.
 
 Que Google puisse manipuler le classement de quelques sites ou vidéos en particulier, c’est une évidence (je ne dis pas qu’il le fait). Dans la prochaine campagne présidentielle en France, Google pourrait très bien influencer en faveur d’un candidat en dopant le page rank de toutes les pages où le nom de ce candidat apparaît.
 
@@ -10,11 +10,11 @@ Google, comme chacun de nous, dispose d’un pouvoir d’influence. C’est le s
 
 Un fou peut prendre une arme et tuer des gens au hasard dans la rue, il a ce pouvoir. J’ai d’ailleurs essayé de montrer dans *Le peuple des connecteurs* que nous étions libres, donc que nous avions le pouvoir de choisir et d’agir.
 
-Google peut soudain déclasser un site comme [il l’a fait avec bonVote en octobre](https://tcrouzet.com/2006/10/09/bonvote-otage-de-google-bis/) ou une vidéo. Mais il ne peut contrôler tout le web. Personne n’a le pouvoir de faire passer un système, internet mais aussi la société, d’un état A à un état B. Le pouvoir politique à vaste échelle n’existe pas. Il disparaît dans les situations complexes.
+Google peut soudain déclasser un site comme [il l’a fait avec bonVote en octobre](http://blog.tcrouzet.com/2006/10/09/bonvote-otage-de-google-bis/) ou une vidéo. Mais il ne peut contrôler tout le web. Personne n’a le pouvoir de faire passer un système, internet mais aussi la société, d’un état A à un état B. Le pouvoir politique à vaste échelle n’existe pas. Il disparaît dans les situations complexes.
 
 ### Possibilité de censure
 
-Dans son message, mon lecteur évoque aussi la possibilité de censure dans [l’affaire Kryptonite](https://tcrouzet.com/2006/11/27/une-histoire-de-deux-roues). Ça ne me paraît pas réaliste.
+Dans son message, mon lecteur évoque aussi la possibilité de censure dans [l’affaire Kryptonite](http://blog.tcrouzet.com/2006/11/27/une-histoire-de-deux-roues). Ça ne me paraît pas réaliste.
 
 1/ Il existe des dizaines de forums où l’information pouvait être publiée. Tous ne pouvaient être contrôlés par Kryptonite. Après la suppression de l’info sur l’un, l’auteur l’aurait naturellement publiée sur des dizaines d’autres, il aurait alerté les blogueurs qui auraient relayés la nouvelle.
 

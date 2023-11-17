@@ -1,6 +1,6 @@
 # Post|4
 
-![Fôret](https://tcrouzet.com/images_tc/2016/04/p004_forest2_i.jpg)
+![Fôret](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/p004_forest2_i-600x314.jpg)
 
 I don’t bother pointing out to Alexa that she’s just given me advice, when she’s always accusing me of mothering you. I start the car and go into reverse. The backing lights paint the underbrush white. Yoo-hoo, here I am. I can’t turn off these bright eyesores, which are normally useful but a real pain when you’re trying to make a getaway.
 
@@ -13,3 +13,5 @@ I come out into a clearing where a hiking path starts, with maps and trash cans.
 My tail may be parked near the intersection. I come to a halt, open the door and put my feet on the ground, my phone wedged against my chest. Mystic takes my place on the driver’s seat. She looks around, but does not deign to get out. Dead leaves, how horrid. She’s not sure what she wants to do, either.
 
 I walk back to the edge of the forest. On the road, cars are passing in both directions. Nobody’s parked on the roadside, and especially not an ordinary metallic-gray SUV. I’m an idiot. What a dope! I was fooling myself all along.
+
+Tags: InstaResistants

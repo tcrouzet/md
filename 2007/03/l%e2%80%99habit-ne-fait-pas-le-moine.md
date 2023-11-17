@@ -31,3 +31,5 @@ En envoyant des messages intelligents sur un réseau (des spots en long-métrage
 D’une certaine façon, c’est l’actuel président Sud coréen qui a le mieux réussi ce tour de force grâce à une campagne purement virale en 2002. Dans le business, un des bons exemples, est Microsoft avec MSN Messenger.
 
 PS : J’ai écrit ce texte pour [Ad Tech](http://www.ad-techparis.com/_fr/index.html) mais j’ai parlé d’autre chose comme d’habitude.
+
+Tags: Politique

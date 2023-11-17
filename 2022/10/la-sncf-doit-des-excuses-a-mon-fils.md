@@ -27,3 +27,5 @@ Sur le moment, [j’ai publié sur mon blog et Facebook un message de rage](http
 Je sais bien qu’il ne s’agit que d’une petite injustice au regard d’autres bien plus monstrueuses qui se répètent jour après jour, mais peut-être faut-il commencer tout en bas, éviter les méprises qui créent des blessures difficiles à cicatriser. Tout le monde a le droit de se tromper, mon fils, un contrôleur de la SNCF, mais camper sur ses positions ne fera que nous stigmatiser les uns les autres. Il me semble que nous avons besoin avant tout de fraternité par les temps qui courent. Plutôt que dérouler aveuglément un règlement, on peut prendre deux secondes pour se regarder dans les yeux et s’écouter.
 
 *PS : Je ne me bas pas pour économiser 170 €, mais pour un mal bien plus grave qui nous ronge tous.*
+
+Tags: Autobiographie, une

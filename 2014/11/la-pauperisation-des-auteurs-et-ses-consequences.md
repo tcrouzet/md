@@ -14,7 +14,7 @@ On peut aussi exploiter les données GFK sur [le Top 50 2013](http://www.gfk.com
 
 Si on reste sur les valeurs moyennes, le cinquantième sur la liste avec 130 000 ventes, gagne dans l’année un peu moins que 5 SMIC. Il faudrait disposer du top 1 000 de GFK pour savoir à partir de quel rang le SMIC est atteint, sans doute bien avant le Top 500.
 
-### Les conséquences (logiques 1 – la résignation)
+### Les conséquences (logiques 1 - la résignation)
 
 1. Les auteurs qui vivent de leur art doivent s’estimer privilégiés.
 
@@ -24,7 +24,7 @@ Si on reste sur les valeurs moyennes, le cinquantième sur la liste avec 130 000
 
 4. En acceptant cette logique, on entérine la structure pyramidale de la société (et il est bien malaisé de la critiquer dans ses œuvres).
 
-### Les conséquences (logiques 2 – la révolte)
+### Les conséquences (logiques 2 - la révolte)
 
 1. Puisque se faire éditer ne rapporte rien et implique de perdre ses droits, on devient auteur indépendant.
 
@@ -34,4 +34,8 @@ Si on reste sur les valeurs moyennes, le cinquantième sur la liste avec 130 000
 
 4. On milite ainsi pour une organisation sociale plus transversale et sans doute plus juste.
 
-![Petits calculs avec les chiffres 2013 du MOTIF.](https://tcrouzet.com/images_tc/2014/11/motif.png)
+![Petits calculs avec les chiffres 2013 du MOTIF.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/motif.png)
+
+
+
+Tags: édition, une

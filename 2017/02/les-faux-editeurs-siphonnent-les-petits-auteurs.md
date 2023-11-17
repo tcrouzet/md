@@ -1,10 +1,10 @@
 # Les faux éditeurs siphonnent les petits auteurs
 
-Lors d’un échange par mail, un éditeur m’a déclaré : « Je ne savais pas qu’il fallait donner des à-valoir pour être reconnu comme un éditeur. On est en 2017, pas dans les années 90. \[…\] **À-valoir**, **numérique**, **pure-player**… c’est pas cela qui me préoccupe aujourd’hui et c’est dépassé, je pense. »<span id="more-44868"></span>
+Lors d’un échange par mail, un éditeur m’a déclaré : « Je ne savais pas qu'il fallait donner des à-valoir pour être reconnu comme un éditeur. On est en 2017, pas dans les années 90. \[…\] **À-valoir**, **numérique**, **pure-player**… c'est pas cela qui me préoccupe aujourd'hui et c'est dépassé, je pense. »<span id="more-44868"></span>
 
 Voilà bien un propos d’éditeur, pas loin d’être méprisant pour les auteurs.
 
-Pour commencer, je pense que se revendiquer éditeur numérique a toujours du sens, et ne cessera d’en avoir davantage, à moins de considérer que le numérique ne change rien à l’écriture, et [comme c’est le contraire qui se produit](https://tcrouzet.com/la-mecanique-du-texte/), un éditeur tourné vers la modernité doit lui aussi s’engager dans le monde numérique, d’autant plus que le numérique déborde sur le papier avec le Print on Demand.
+Pour commencer, je pense que se revendiquer éditeur numérique a toujours du sens, et ne cessera d’en avoir davantage, à moins de considérer que le numérique ne change rien à l’écriture, et [comme c’est le contraire qui se produit](http://tcrouzet.com/la-mecanique-du-texte/), un éditeur tourné vers la modernité doit lui aussi s’engager dans le monde numérique, d’autant plus que le numérique déborde sur le papier avec le Print on Demand.
 
 La question du numérique et de sa place dans l’édition est donc loin d’être dépassée, nous n’en sommes qu’aux premiers frémissements d’une histoire. Ce n’est pas parce que le grand public n’a pas embrassé la lecture d’ebook que la lecture numérique est en panne. La littérature numérique comme la lecture numérique se jouent sur le Web, sur des apps, elle a débordé le monde de l’édition, et c’est peut-être le modèle d’édition que pratiquent les éditeurs numériques qui est dépassé, pas le numérique.
 
@@ -54,4 +54,6 @@ Se faire éditer sans à-avoir, finalement, n’est guère différent de s’aut
 
 Quel lien avec l’édition numérique ? C’est tout simplement que l’édition numérique marche si mal que les éditeurs pure-player ne versent quasiment jamais d’à-valoir, ou des à-valoir qui ne sont même pas symboliques.
 
-Alors je crois que les appeler éditeurs est très abusif puisqu’ils ne respectent pas leurs auteurs. Pourquoi payeraient-ils ce qu’ils peuvent avoir gratuitement ? [C’est le b.a.-ba du capitalisme cognitif.](https://tcrouzet.com/2017/01/25/la-liberte-2-0-mene-t-elle-droit-a-lesclavage-1-0/)
+Alors je crois que les appeler éditeurs est très abusif puisqu'ils ne respectent pas leurs auteurs. Pourquoi payeraient-ils ce qu'ils peuvent avoir gratuitement ? [C'est le b.a.-ba du capitalisme cognitif.](http://tcrouzet.com/2017/01/25/la-liberte-2-0-mene-t-elle-droit-a-lesclavage-1-0/)
+
+Tags: Capitalisme cognitif, édition, une

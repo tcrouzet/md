@@ -16,6 +16,8 @@ Que des hommes cherchent le pouvoir, c’est un fait. Qu’ils nuisent à d’au
 
 Personne n’a le pouvoir de changer le monde. Tous ensembles, nous avons tous les pouvoirs.
 
-Étienne cherche à soigner notre système, à réduire le pouvoir de nuisance des élus, c’est fondamental mais ces élus n’ont pas tant de pouvoir que ça. En tous cas, c’est ce que j’ai essayé de montrer dans *Le peuple des connecteurs*. L’urgence est de leur prouver qu’ils n’ont pas de pouvoir. C’est ce que fait Étienne en cherchant des moyens de réduire leurs pouvoirs.
+Étienne cherche à soigner notre système, à réduire le pouvoir de nuisance des élus, c’est fondamental mais ces élus n’ont pas tant de pouvoir que ça. En tous cas, c’est ce que j’ai essayé de montrer dans *Le peuple des connecteurs*. L'urgence est de leur prouver qu'ils n'ont pas de pouvoir. C'est ce que fait Étienne en cherchant des moyens de réduire leurs pouvoirs.
 
-D’une certaine façon, Étienne travaille en amont par rapport à moi. Il pare au plus pressé. Je suis un idéaliste, lui un pragmatique.
+D'une certaine façon, Étienne travaille en amont par rapport à moi. Il pare au plus pressé. Je suis un idéaliste, lui un pragmatique.
+
+Tags: Chouard

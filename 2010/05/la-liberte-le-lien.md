@@ -1,6 +1,6 @@
 # La liberté, c&#8217;est le lien
 
-Dans un monde de plus en plus fluide, les structures hiérarchiques perdent en efficacité en même temps que les individus s’éprennent de nomadisme. Pour favoriser l’innovation, la créativité, le bonheur de vivre, il faut créer des environnements propices à l’interaction sociale plutôt que vouloir créer des entreprises sur l’ancien modèle des startups.<span id="more-16119"></span>
+Dans un monde de plus en plus fluide, les structures hiérarchiques perdent en efficacité en même temps que les individus s'éprennent de nomadisme. Pour favoriser l’innovation, la créativité, le bonheur de vivre, il faut créer des environnements propices à l’interaction sociale plutôt que vouloir créer des entreprises sur l’ancien modèle des startups.<span id="more-16119"></span>
 
 ### L’accroissement de la complexité
 
@@ -58,7 +58,7 @@ Si nous usons de cette liberté pour créer de nouveaux liens et démultiplier l
 
 C’est un résultat contre-intuitif, mais identifié par les psychologues et les philosophes. Ils parlent d’idiosyncrasie. Plus les gens ont de relations sociales, plus ils se singularisent. « Mes amis me définissent. »
 
-Ainsi, nous ne nous libérons pas en coupant les liens qui nous lient aux autres, mais, au contraire, en les multipliant. Albert Jacquard a relevé le paradoxe en écrivant : « Pour être réaliste, je dois voir en l’autre une source qui contribuera à ma propre construction. Car je suis les liens que je tisse ; me priver d’échanges c’est m’appauvrir. Le comprendre c’est participer à l’Humanitude. »
+Ainsi, nous ne nous libérons pas en coupant les liens qui nous lient aux autres, mais, au contraire, en les multipliant. Albert Jacquard a relevé le paradoxe en écrivant : « Pour être réaliste, je dois voir en l’autre une source qui contribuera à ma propre construction. Car je suis les liens que je tisse ; me priver d’échanges c’est m’appauvrir. Le comprendre c’est participer à l’Humanitude. » 
 
 > Maximiser l’interdépendance maximise la liberté.
 
@@ -76,7 +76,7 @@ Nous nous trouvons dans une situation paradoxale et pas nécessairement intuitiv
 
 Je peux maintenant mettre bout à bout tous les théorèmes. La fluidification augmente la puissance d’agir, donc la liberté. Elle permet le processus d’individuation qui, à son tour, renforce la coopération. Une fois plus individué, on profite d’autant plus des possibilités offertes par la fluidification. Ce processus s’auto-entretient par feedback positif.
 
-![](https://tcrouzet.com/images_tc/2010/05/liberta.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/05/liberta-450x175.png)
 
 ### Le nomadisme
 
@@ -120,4 +120,6 @@ On peut bien sûr continuer à encourager les startups. Quel est leur principe 
 
 Est-ce la meilleure méthode pour accompagner la nomadisation croissante des individus ? Sans doute pas. Ils préfèrent se lier de manière coopérative et souple, souvent de façon informelle, interagissant sur des projets plutôt qu’à l’intérieur de structures définies. Ils se retrouvent sur le Net, dans les réseaux sociaux, où dans divers lieux, souvent des cafés, ces tiers-lieux qui maximisent l’interaction, la complexification, l’individuation… Pour stimuler l’innovation au xxie siècle, nous n’avons d’autre choix que de favoriser cet environnement adapté aux nomades.
 
-*PS : J’ai écrit ce texte, résumé d’un des arguments central de [*L’alternative nomade*](https://tcrouzet.com/alternative-nomade/), à la demande de Geneviève Morand pour la [Revue Economique et Sociale](http://www.hec.unil.ch/sees/).*
+*PS : J'ai écrit ce texte, résumé d'un des arguments central de [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), à la demande de Geneviève Morand pour la [Revue Economique et Sociale](http://www.hec.unil.ch/sees/).*
+
+Tags: Alternative nomade, Liberté

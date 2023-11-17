@@ -12,7 +12,7 @@ Je pourrais vous parler de mon confinement de privilégier, avec une grande vill
 
 — Tu te réveilles un peu tard.
 
-Voilà ce qu’on pourrait me dire, parce que d’habitude c’est aussi noir. Oui, certes, mais les horreurs qui surgissent cette fois ne sont pas seulement la misère ou la paupérisation, mais le vide sidéral sur lequel reposent nos sociétés. Notre édifice n’a pas de fondation, pas même un échafaudage pour le soutenir, il n’y a que du vide, que du factice, rien à quoi se raccrocher, sinon sa propre survie. Je suis en train de tomber, je manque d’air, ça va de plus en plus vite.
+Voilà ce qu’on pourrait me dire, parce que d’habitude c’est aussi noir. Oui, certes, mais les horreurs qui surgissent cette fois ne sont pas seulement la misère ou la paupérisation, mais le vide sidéral sur lequel reposent nos sociétés. Notre édifice n’a pas de fondation, pas même un échafaudage pour le soutenir, il n’y a que du vide, que du factice, rien à quoi se raccrocher, sinon sa propre survie. Je suis en train de tomber, je manque d'air, ça va de plus en plus vite.
 
 C’est un sentiment qui me traverse, accompagné de rage, de la sensation de gâchis, en rien un tableau de la réalité. J’aimerais être médecin, être auprès des malades, j’aimerais être dans l’action… et alors je vivrais une tout autre histoire, plus dramatique et en même temps plus humaine, car plus solidaire.
 
@@ -22,6 +22,8 @@ Et le confinement, de par son caractère exceptionnel les réveille, il me surch
 
 Finalement, je réussis à écrire une entrée de journal, ou une sorte d’entrée de journal. Elle ne dit pas ce que je vis, mais ce que cette vie fait dans mon cerveau, de grosses bulles qui gonflent et ne cessent d’exploser en m’éclaboussant la voûte crânienne.
 
-Le *Lancet* a publié une étude qui montre que l’impact psychologique d’un confinement est loin d’être négligeable, j’en suis en quelque sorte la preuve. [« Obliger les gens à rester longuement confinés chez eux a des effets psychologiques négatifs incluant des symptômes de stress post-traumatique, de la confusion et de la colère. Cela vient réactiver notre répertoire d’émotions de base : peur, colère, frustration. »](https://www.20minutes.fr/monde/2745119-20200321-coronavirus-suisse-durcit-mesures-ecarte-tout-confinement) Je réagis donc bien banalement. Toutes mes idées n’ont aucune importance, des délires provoqués par la confusion. Je me demande pourquoi j’ose les publier, sans doute pris d’un autre délire, celui des vertus du partage, de cette possibilité de reconstruire ce qui s’effondre en même temps. Complètement dingue.
+Le *Lancet* a publié une étude qui montre que l’impact psychologique d’un confinement est loin d’être négligeable, j’en suis en quelque sorte la preuve. [« Obliger les gens à rester longuement confinés chez eux a des effets psychologiques négatifs incluant des symptômes de stress post-traumatique, de la confusion et de la colère. Cela vient réactiver notre répertoire d'émotions de base : peur, colère, frustration. »](https://www.20minutes.fr/monde/2745119-20200321-coronavirus-suisse-durcit-mesures-ecarte-tout-confinement) Je réagis donc bien banalement. Toutes mes idées n’ont aucune importance, des délires provoqués par la confusion. Je me demande pourquoi j’ose les publier, sans doute pris d’un autre délire, celui des vertus du partage, de cette possibilité de reconstruire ce qui s’effondre en même temps. Complètement dingue.
 
 [Lisez aussi le journal de confinement de mon copain Seb Musset…](http://sebmusset.blogspot.com/search/label/confinement)
+
+Tags: Covid, Politique, une

@@ -235,3 +235,5 @@ Rousseau se plaint souvent, et beaucoup, du mal que lui ont fait les hommes, et,
 ---
 
 Beaucoup de titres d’article ont depuis quelque temps la forme « Je suis un expert de et je vous explique que ». Je suppose qu’ils fonctionnent puisque je ne cesse de les voir surgir comme jadis « Les x façons de ». Je suis vraiment mal parti en disant « Je suis un expert de rien et je ne vous explique rien. »
+
+Tags: Carnets, une

@@ -22,7 +22,7 @@ Je reprends le cas du logiciel libre. Un beau matin, Richard Stallman a une illu
 
 Qui a démontré que les quatre libertés étaient nécessaires pour les logiciels, et surtout qu’elles participaient à la fraternité ? Il ne s’agit même pas de chercher une démonstration, nous sommes dans l’humain, dans le social. Il ne faut donc pas démontrer, mais observer. Qui a observé sur le terrain que le logiciel libre participait à la fraternité ? Si on ne fait pas ce travail, on reste dans l’idéologie et l’idéologie participe bien rarement à la fraternité.
 
-![](https://tcrouzet.com/images_tc/2017/01/jcfrog.png) Conversation initiée par Goofy à suivre sur Twitter…\[/caption\]
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/01/jcfrog-600x547.png)
 
 Une valeur est de l’ordre de la croyance, ou de la convention sociale. Ce n’est pas quelque chose qui se soumet à la preuve. En revanche, c’est très différent pour les théories susceptibles de contribuer au développement d’une valeur. Si on ne peut jamais prouver une théorie politique puisqu’on est dans le domaine social, on peut en revanche observer ses conséquences, parfois désastreuses. Pensons au communisme qui sur le papier devait contribuer à la fraternité, mais qui a eu l’effet inverse.
 
@@ -44,14 +44,16 @@ Nous devons prendre garde. Quand les défenseurs d’une théorie n’acceptent 
 
 Un théoricien ne devrait pas agir différemment d’un entrepreneur. Il pose ses idées, il les met en œuvre, si elles n’atteignent pas leur objectif, il les amende ou il passe à autre chose.
 
-[En commentaire](https://tcrouzet.com/2017/01/14/la-gratuite-fabrique-des-elites/#comment-184214), Stéphane Gallay me dit : « Je lis cet article, je vois le questionnement, mais quelque part je me demande si le vrai souci, c’est que des modèles comme celui de la gratuité – un peu comme celui du revenu universel – sont porteurs de disruptions majeures et que des réactions telles que celle-ci ne sont pas une crainte d’un saut vers l’inconnu ? »
+[En commentaire](http://tcrouzet.com/2017/01/14/la-gratuite-fabrique-des-elites/#comment-184214), Stéphane Gallay me dit : « Je lis cet article, je vois le questionnement, mais quelque part je me demande si le vrai souci, c’est que des modèles comme celui de la gratuité – un peu comme celui du revenu universel – sont porteurs de disruptions majeures et que des réactions telles que celle-ci ne sont pas une crainte d’un saut vers l’inconnu ? »
 
-Je ne suis pas d’accord. Ça fait plus de quinze ans que je me bats pour les théories politiques listées plus haut. Mon blog est sous licence Creative Commons. J’ai distribué plusieurs de mes livres gratuitement, notamment [*Le geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/) qui est aujourd’hui traduit en dix-sept langues. J’ai fait ma part du boulot, et je suis en ce moment même en train de la poursuivre, puisque ce billet est libre comme tous les autres.
+Je ne suis pas d'accord. Ça fait plus de quinze ans que je me bats pour les théories politiques listées plus haut. Mon blog est sous licence Creative Commons. J’ai distribué plusieurs de mes livres gratuitement, notamment [*Le geste qui sauve*](http://tcrouzet.com/le-geste-qui-sauve/) qui est aujourd’hui traduit en dix-sept langues. J’ai fait ma part du boulot, et je suis en ce moment même en train de la poursuivre, puisque ce billet est libre comme tous les autres.
 
 Ai-je tourné le dos à mes valeurs ? Je ne crois pas, mais je suis inquiet pour elles quand je vois l’aveuglement se glisser dans les rangs de ceux qui les défendent. J’ai défendu le revenu de base, mais j’ai aussi vu les idéologues nous répéter que cette mesure serait géniale, en s’appuyant sur deux ou trois expérimentations minuscules. Nous n’en savons rien. Nous devons être prudents. Nous devons expérimenter comme nous le faisons avec le libre en informatique, et comme avec lui nous devons observer.
 
-Bizarre, le libre conduit à Google. Ça interroge, non ? Bizarre [la transparence du code n’entraîne pas la confiance](http://www.internetactu.net/2017/01/13/la-transparence-ne-suffira-pas/). Bizarre, les logiciels libres restent de [pâles copies des logiciels commerciaux](https://tcrouzet.com/2016/12/05/cest-libre-mais-cest-mauvais/). Bizarre, la gratuité intrinsèque au libre [entraîne l’émergence d’une élite de gestionnaires qui eux ne travaillent pas gratuitement](https://tcrouzet.com/2017/01/14/la-gratuite-fabrique-des-elites/). Alors, naturellement, je me demande si nos postulats ne sont pas, dans certaines conditions, contre-productifs, voire nocifs.
+Bizarre, le libre conduit à Google. Ça interroge, non ? Bizarre [la transparence du code n’entraîne pas la confiance](http://www.internetactu.net/2017/01/13/la-transparence-ne-suffira-pas/). Bizarre, les logiciels libres restent de [pâles copies des logiciels commerciaux](http://tcrouzet.com/2016/12/05/cest-libre-mais-cest-mauvais/). Bizarre, la gratuité intrinsèque au libre [entraîne l'émergence d'une élite de gestionnaires qui eux ne travaillent pas gratuitement](http://tcrouzet.com/2017/01/14/la-gratuite-fabrique-des-elites/). Alors, naturellement, je me demande si nos postulats ne sont pas, dans certaines conditions, contre-productifs, voire nocifs.
 
 Nous devrions mettre en œuvre des boucles de feedback qui sans cesse nous pousseraient à remettre en cause nos postulats.
 
 Cette dernière proposition n’est pas un nouveau postulat, simplement la croyance que la pratique est supérieure à l’idéologie. À un moment donné, il faut accepter de s’être trompé et changer de route.
+
+Tags: Liberté, Libre, NetCulture, une

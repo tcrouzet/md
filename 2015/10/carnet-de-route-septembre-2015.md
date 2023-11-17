@@ -4,19 +4,19 @@
 
 ### Mardi 1<sup>er</sup>, Balaruc
 
-Encore une fois, je refuse de répondre à une journaliste au sujet de la déconnexion. Isa : « Bientôt tu regretteras de ne plus être appellé. » Elle a raison, mais les journalistes qui n’essaient même pas de lire deux pages de [*J’ai débranché*](https://tcrouzet.com/jai-debranche/) m’insupportent.
+Encore une fois, je refuse de répondre à une journaliste au sujet de la déconnexion. Isa : « Bientôt tu regretteras de ne plus être appellé. » Elle a raison, mais les journalistes qui n’essaient même pas de lire deux pages de [*J’ai débranché*](http://tcrouzet.com/jai-debranche/) m’insupportent.
 
 ---
 
 Matinée passée au café. Je devais attendre la sortie de Tim du collège et écrire. Des amis déboulent et nous parlons, et ce n’est pas plus mal.
 
-![Septembre nous accueille avec un ciel qui sent l'hiver.](https://tcrouzet.com/images_tc/2015/10/cielsep.jpg)
+![Septembre nous accueille avec un ciel qui sent l'hiver.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/cielsep.jpg)
 
 ### Mercredi 2, Balaruc
 
 Comme chaque année, je passe un peu de temps plongé dans le code de mon blog. C’est de plus en plus technique pour qui veut coller aux standards Web. Obligation de savoir coder désormais ou se contenter de subir le code des autres, ce qui me paraît pour le moins limitatif pour un créateur.
 
-![Un horizon menaçant.](https://tcrouzet.com/images_tc/2015/10/menace.jpg)
+![Un horizon menaçant.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/menace.jpg)
 
 ### Vendredi 4, Balaruc
 
@@ -38,7 +38,7 @@ Je récupère à la base nautique voisine un vieux catamaran d’école, [un F1 
 
 La littérature devrait abandonner le divertissement aux films, aux jeux vidéo, aux actualités distillées par les journalistes… Techniques plus efficaces dans leur rendement rapport au temps investit par le spectateur. La littérature ne devrait chercher qu’à provoquer des extases mentales par une lente montée vers le climax.
 
-![D'où je vois le monde.](https://tcrouzet.com/images_tc/2015/10/labas.jpg)
+![D'où je vois le monde.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/labas.jpg)
 
 ### Lundi 7, Balaruc
 
@@ -50,17 +50,17 @@ Depuis la mort de mon père, je revois les endroits qu’il a vus et qui n’ont
 
 ---
 
-Depuis deux semaines, je bricole mon blog et la navigation est en vrac, même si les articles restent parfaitement lisibles. Personne que ça dérange, parce que plus personne ne navigue dans les blogs. En conséquence, cacher la navigation dont l’usage doit devenir facultatif. Peut-être, même, cacher le blog, disparaître de ce Web qui m’indiffère de plus en plus.
+Depuis deux semaines, je bricole mon blog et la navigation est en vrac, même si les articles restent parfaitement lisibles. Personne que ça dérange, parce que plus personne ne navigue dans les blogs. En conséquence, cacher la navigation dont l’usage doit devenir facultatif. Peut-être, même, cacher le blog, disparaître de ce Web qui m'indiffère de plus en plus.
 
 ### Mardi 8, Balaruc
 
-Un ebook gratuit sur le droit d’auteur affirme que la gratuité est du vol. Perte de temps de s’intéresser à ces questions. Dans une société de haute disponibilité médiatique, il n’y a plus de droit d’auteur possible, sinon moral. Il faut inventer de nouveaux modèles pour rétribuer les auteurs et toutes les fonctions sociales affectées par la haute disponibilité (il ne s’agira donc pas d’un droit d’auteur révisé, mais d’un nouveau droit des hommes et des femmes).
+Un ebook gratuit sur le droit d’auteur affirme que la gratuité est du vol. Perte de temps de s’intéresser à ces questions. Dans une société de haute disponibilité médiatique, il n’y a plus de droit d’auteur possible, sinon moral. Il faut inventer de nouveaux modèles pour rétribuer les auteurs et toutes les fonctions sociales affectées par la haute disponibilité (il ne s’agira donc pas d’un droit d’auteur révisé, mais d'un nouveau droit des hommes et des femmes).
 
 ---
 
 Cette image d’une camérawoman qui fait un croc en jambe à un réfugié portant sa fille dans ses bras, pour le faite tomber, pour le filmer pendant que la police l’attrape. Notre époque est macabre. Nous nous nourrissons de l’horreur, quitte à la mettre en scène. La camérawoman est victime de nos penchants pervers. Prendre une distance démesurée avec ce monde médiatique. Il travestit la réalité pour provoquer en nous des réactions émotionnelles incontrôlables.
 
-![Pour un droit aux couchers de soleil.](https://tcrouzet.com/images_tc/2015/10/droit.jpg)
+![Pour un droit aux couchers de soleil.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/droit.jpg)
 
 ### Mercredi 9, Balaruc
 
@@ -68,7 +68,7 @@ Les news parlent des réfugiés, mes compatriotes veulent les accueillir (saine 
 
 ---
 
-Une descente de la répression des fraudes chez Booxup, une startup qui veut faciliter l’échange de livres entre particuliers. Alors les observateurs considèrent en danger le droit ancestral de prêter un objet dûment acheté. On peut lire autrement cette affaire : une attaque contre une plateforme, Booxup, qui espère se gaver en centralisant une pratique sociale jusqu’alors désintéressée.
+Une descente de la répression des fraudes chez Booxup, une startup qui veut faciliter l’échange de livres entre particuliers. Alors les observateurs considèrent en danger le droit ancestral de prêter un objet dûment acheté. On peut lire autrement cette affaire : une attaque contre une plateforme, Booxup, qui espère se gaver en centralisant une pratique sociale jusqu’alors désintéressée. 
 
 Moi, président, j’interdirais les plateformes. Je m’opposerais à l’hubérisation de la société, car cette technique marketing revient à monétiser tout ce qui jadis était de l’ordre du lien. Toute activité qui peut se gérer de pair-à-pair, avec l’aide ou non de la technologie, doit rester de pair-à-pair. Ce devrait être un droit de l’homme fondamental. Une règle éthique à graver sur tous les frontons. Booxup et ses semblables ne sont que des parasites de la société du don. Industrialiser le don est un crime. C’est une façon discrète de réduire nos libertés sous le prétexte de nous aider à mieux échanger.
 
@@ -78,7 +78,7 @@ Je ris jaune de voir tant de mes amis courir au secours de Booxup, et peu import
 
 J’ai passé la journée à bricoler, notamment à changer le moteur de notre écran de projection. Après un footing, un repas, j’attends le coucher du soleil au bord de l’étang, avec une sensation de plénitude que seule une photographie résume, éventuellement.
 
-![Le moment indispensable.](https://tcrouzet.com/images_tc/2015/10/coucher.jpg)
+![Le moment indispensable.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/coucher.jpg)
 
 ### Jeudi 10, Balaruc
 
@@ -90,7 +90,7 @@ Je rentre le soir de Montpellier après avoir dîné avec des amis auteurs. J’
 
 ### Vendredi 11, Balaruc
 
-Le hasard détermine notre position par rapport à la modernité littéraire. Avec [*1 minute*](https://tcrouzet.com/une-minute/), je me suis lancé dans un projet expérimental sur le Web, avec toutes les possibilités formelles inhérentes (je ne pense pas au multimédia d’une banalité affligeante, mais à l’interaction lecteur, au Send, à l’open source…). Si demain un éditeur me propose un contrat à la condition que je cesse l’expérimentation, qu’est-ce que je ferai ? Je pense tenir bon, sans certitudes. Si une telle proposition avait surgi tôt dans le projet, j’aurais craqué plus facilement. Tout ça pour dire qu’on peut être le défenseur de la modernité et la trahir très facilement. La modernité n’est qu’une façon de revendiquer son exclusion du système.
+Le hasard détermine notre position par rapport à la modernité littéraire. Avec [*1 minute*](http://tcrouzet.com/une-minute/), je me suis lancé dans un projet expérimental sur le Web, avec toutes les possibilités formelles inhérentes (je ne pense pas au multimédia d’une banalité affligeante, mais à l’interaction lecteur, au Send, à l’open source…). Si demain un éditeur me propose un contrat à la condition que je cesse l’expérimentation, qu’est-ce que je ferai ? Je pense tenir bon, sans certitudes. Si une telle proposition avait surgi tôt dans le projet, j’aurais craqué plus facilement. Tout ça pour dire qu’on peut être le défenseur de la modernité et la trahir très facilement. La modernité n’est qu’une façon de revendiquer son exclusion du système.
 
 ---
 
@@ -132,7 +132,7 @@ Garder le blog et réduire la fréquence de publication suffit à transformer ce
 
 Journée de coupure, de marche, de dépaysement à moins de deux heures de route de la maison. S’imposer de telles respirations profondes, aussi utiles pour le corps que pour l’esprit. Descendre dans les méandres de la Vis, remonter jusqu’à la résurgence de la rivière, grignoter au moulin, puis revenir par le magnifique chemin sur les hauteurs.
 
-![Coupures indispensables.](https://tcrouzet.com/images_tc/2015/10/vis.jpg)
+![Coupures indispensables.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/vis.jpg)
 
 ### Mercredi 16, Balaruc
 
@@ -166,7 +166,7 @@ Nous pensons trop haut avec la prétention d’avoir des choses à dire. Le Web 
 
 Coucher de soleil orange intense, une coloration plus commune en hiver. Étang immobile avec Pyrénées en clôture. Je photographie tout en sachant que ce spectacle se vit et ne se partage pas à distance, comme tant d’autres choses, peut-être pour cette raison que je ne vais plus sur les réseaux sociaux que quand on m’y interpelle. Alors je jette un œil à ma timeline, et aux centaines de « Et moi, et moi ! » Je pêche toujours quelques idées, quelques infos intéressantes sur le travail de mes amis, tout cela noyé dans une médiocrité généralisée, à laquelle mes amis n’échappent pas. Filtrage impossible.
 
-![Les Pyrénées.](https://tcrouzet.com/images_tc/2015/10/pyres.jpg)
+![Les Pyrénées.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/pyres.jpg)
 
 ### Lundi 22, Balaruc
 
@@ -204,7 +204,7 @@ Je ne reçois presque plus de mail (sauf ceux des documentalistes radins). Je m�
 
 Après le déjeuner, alors que je rêve dans ma chaise longue, je photographie un « f » de Facebook dans les nuages, tout un symbole de la désintégration du Net.
 
-![Facebook in the cloud.](https://tcrouzet.com/images_tc/2015/10/fb.jpg)
+![Facebook in the cloud.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/fb.jpg)
 
 ---
 
@@ -218,7 +218,7 @@ Presque tous les soirs, je me prépare contre le réchauffement climatique. Je r
 
 « La diffusion gratuite d’une création, c’est sa mise en abondance potentielle, c’est donc participer à la société de l’abondance, c’est donc contribuer à la surenchère médiatique, à la saturation de l’espace informationnel. » Ce pourrait être un aphorisme hypo. En fait, rien n’empêche de diffuser dans le domaine public en toute discrétion. C’est le cas du *Manifeste hypo*. « Libère tes œuvres sans dans le même temps les vouloir populaires, sinon tu penches irrémédiablement vers le normatif esthétique. »
 
-![Pas d'esthétique, j'aime simplement la lumière de mon pays.](https://tcrouzet.com/images_tc/2015/10/matin.jpg)
+![Pas d'esthétique, j'aime simplement la lumière de mon pays.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/matin.jpg)
 
 ### Dimanche 27, Balaruc
 
@@ -251,3 +251,5 @@ Le silence est la meilleure réponse au brouhaha contemporain.
 ---
 
 Disparaître des réseaux sociaux et des moteurs de recherche n’implique pas de disparaître du Web, mais de n’y être que pour les nageurs de liens (alors je termine la journée dans les vagues avec les enfants).
+
+Tags: Carnets, une

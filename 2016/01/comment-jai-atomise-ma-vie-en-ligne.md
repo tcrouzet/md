@@ -2,7 +2,7 @@
 
 J’ai tenté un premier dynamitage en 2011 quand je me suis déconnecté pour six mois. Une façon de prendre du recul et de revenir plus solide en même temps plus critique (oui, c’est possible). Après mon ascèse, les réseaux sociaux m’ont offert un spectacle affligeant dont je n’étais au préalable pas conscient.<span id="more-43435"></span>
 
-Sans les abandonner, parce que j’y garde des amis, parce que j’y fais des découvertes et des rencontres, j’y ai progressivement été moins présent. Le plus souvent, je me contente de réagir lorsque je suis interpellé et, deux ou trois fois par jour, je viens pêcher les dernières news tout en twittant pour ne pas perdre la main. Je suis devenu un usager modéré (par rapport à Isa, je reste un addict). Cette vie en ligne ne me prend pas plus de quinze minutes/jour. Quand j’ai envie de cracher mon venin, je tente de garder ça pour [mon journal que je ne publie désormais une fois par mois](https://tcrouzet.com/tag/carnet-de-route/), après autocensure.
+Sans les abandonner, parce que j’y garde des amis, parce que j’y fais des découvertes et des rencontres, j’y ai progressivement été moins présent. Le plus souvent, je me contente de réagir lorsque je suis interpellé et, deux ou trois fois par jour, je viens pêcher les dernières news tout en twittant pour ne pas perdre la main. Je suis devenu un usager modéré (par rapport à Isa, je reste un addict). Cette vie en ligne ne me prend pas plus de quinze minutes/jour. Quand j’ai envie de cracher mon venin, je tente de garder ça pour [mon journal que je ne publie désormais une fois par mois](http://tcrouzet.com/tag/carnet-de-route/), après autocensure.
 
 Un temps, ma vie en ligne s’est donc repliée autour de mon blog. Au vu du développement du Web, c’était une forme d’ermitage. Parce que les internautes passent statistiquement du temps partout sauf sur les blogs. J’ai donc fait comme tous les blogueurs. Quand je publiais un nouveau billet, je le publicisais sur Twitter et ailleurs.
 
@@ -12,7 +12,7 @@ Donc terminé le rêve de rendre le blog payant, d’espérer tirer une ressourc
 
 Et toujours, je repense au livre papier. On l’amène où on veut. En comparaison, un site Web est une affiche placardée sempiternellement au même coin de la rue numérique. C’est très ringard. Mes affiches, je préfère leur donner une infinité de formats, les coller partout où c’est possible. Bien sûr pas question de faire ça avec mes petites mains. Il me faudrait trop de temps. J’ai donc encore une fois automatisé. J’ai peu à peu découvert comment être partout en ligne sans y être.
 
-Parfois je me dis que toutes ces procédures automatiques pourraient me survivre, maintenir un semblant d’activité à ma place. Je les imagine bientôt intelligentes, bientôt capables de m’évincer et j’anticipe un Web très peu humain, où il sera difficile de différencier ce qui vient d’elles ou de nous. Ça me fait un peu froid dans le dos. J’ai envie de rejoindre les hypos de [*One Minute*](https://tcrouzet.com/une-minute/).
+Parfois je me dis que toutes ces procédures automatiques pourraient me survivre, maintenir un semblant d’activité à ma place. Je les imagine bientôt intelligentes, bientôt capables de m’évincer et j’anticipe un Web très peu humain, où il sera difficile de différencier ce qui vient d’elles ou de nous. Ça me fait un peu froid dans le dos. J'ai envie de rejoindre les hypos de [*One Minute*](http://tcrouzet.com/une-minute/).
 
 Un jour, j’ai avoué cette crainte sur Twitter, un de mes followers s’est moqué de moi, ignorant que bien des messages qu’il lit déjà sont écrits par des algorithmes. Cette pente est irréversible, elle n’est pas fait pour me redonner le goût des réseaux sociaux (leur dimension marketing les condamne à l’automatisation et donc à la déshumanisation).
 
@@ -28,4 +28,8 @@ Reste que symboliquement un livre acheté n’est pas un livre récupéré incid
 
 Je viens apparemment de parler de diffusion et non d’écriture, de *publishing* plus que d’*editing*. Reste que la présence plus ou moins active des lecteurs change les conditions d’écriture. Confiné sur mon blog, *One Minute* se serait sclérosé. Il me paraît important de chercher les interactions, de les favoriser. Et comme tout déterminisme est illusoire dans notre monde changeant, je ne vois d’espoir que dans l’expérimentation, d’où ma volonté de disséminer mes textes pour qu’ils rencontrent des communautés avec lesquelles pendant un temps je ferai un bout de chemin. Je ne fais que jeter des bouteilles à la mer dans l’espoir qu’elles croisent des paquebots chargés de joyeux drilles.
 
-![Un schéma suffit à résumer ma vie en ligne (depuis les portes d’entrée en magenta, il suffit de suivre les flux).](https://tcrouzet.com/images_tc/2016/01/flux.png)
+![Un schéma suffit à résumer ma vie en ligne (depuis les portes d’entrée en magenta, il suffit de suivre les flux).](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/flux.png)
+
+
+
+Tags: NetLittérature, une

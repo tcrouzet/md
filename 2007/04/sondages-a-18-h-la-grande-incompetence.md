@@ -30,4 +30,4 @@ Nous nous retrouvons face à un nouveau point de clivage entre l’ancien et le 
 
 Me voilà très remonté ce matin.
 
-[Et je continue…](https://tcrouzet.com/2007/04/20/internet-en-danger/)
+[Et je continue...](http://blog.tcrouzet.com/2007/04/20/internet-en-danger/)

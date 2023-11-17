@@ -34,7 +34,7 @@ Un produit ouvert, ce n’est pas juste un brevet, c’est toute une philosophie
 
 C’est un processus ouvert. Les formulations hydro-alcooliques OMS n’ont pas évoluées depuis 2009, mais rien ne l’empêche et les pays pauvres n’auront pas besoin d’attendre vingt ans pour disposer de cette innovation. Par exemple, le protocole de lavage des mains, partie intégrante du don, est en train d’évoluer vers la méthode [le bout des doigts d’abord](https://www.cambridge.org/core/journals/infection-control-and-hospital-epidemiology/article/revisiting-the-who-how-to-handrub-hand-hygiene-technique-fingertips-first/BB3A23BD9AC25DF05B52DD9F0E4E1F41), dont on a démontré en 2017 qu’elle était plus efficace que celle initialement proposée. Tout cela évolue en continu, sans impliquer sans cesse de nouveaux brevets qui repousseraient l’échéance du domaine public.
 
-![Fingertip first](https://tcrouzet.com/images_tc/2020/04/5-moment-hand-hygiene-12-728.jpg)
+![Fingertip first](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/5-moment-hand-hygiene-12-728.jpg)
 
 Prenons l’analogie informatique : Windows et macOS évoluent sans cesse. Ils ne sont jamais tombés dans le domaine public. Qui voudrait d’ailleurs d’un système d’exploitation d’il y a vingt ans, qui serait figé dans le passé ?
 
@@ -55,3 +55,5 @@ C’est aussi à cette efficacité que sert une solution open source. Elle fixe 
 La seconde objection ne tient pas davantage que la première. La question de la supériorité du libre sur le privateur ne fait aucun doute en ce qui concerne la boîte à outils des essentiels de l’humanité. La pandémie Covid-19 nous démontre que le secteur privé est défaillant en temps de crise. Nous ne pouvons pas lui faire confiance dans ces moments.
 
 Retiendrons-nous la leçon ? Je n’en sais rien, je ne peux que l’espérer. Est-ce que nous aurons un vaccin libre, on peut le rêver. [L’OMS invite à créer une ressource commune sans utiliser le mot de bien commun, mais on n’en est pas loin.](https://www.france24.com/fr/20200424-covid-19-l-oms-mobilise-le-monde-sans-les-%C3%A9tats-unis-pour-un-acc%C3%A8s-universel-aux-vaccins) Ce serait le signe que nous changeons d’époque. Les autres mesures ne seront que broutilles, que sparadraps sur jambes de bois.
+
+Tags: Covid, une

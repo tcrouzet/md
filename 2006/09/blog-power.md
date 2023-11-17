@@ -2,7 +2,7 @@
 
 Ça sonne comme Jack Bower mais ce n’est pas du tout de la série *24 heures* dont je veux parler. Je me demande comment je peux commencer un post de cette façon : j’ai même pas la télé !<span id="more-215"></span>
 
-J’enchaîne. *Blog Power* est un titre proposé avec insistante par mon éditeur pour mon prochain livre. [*Le cinquième pouvoir*](https://tcrouzet.com/2006/08/28/quatrieme-de-couverture-v1/) serait pas assez vendeur. Qu’en pensez-vous ?
+J’enchaîne. *Blog Power* est un titre proposé avec insistante par mon éditeur pour mon prochain livre. [*Le cinquième pouvoir*](http://blog.tcrouzet.com/2006/08/28/quatrieme-de-couverture-v1/) serait pas assez vendeur. Qu’en pensez-vous ?
 
 Ma première réaction : rejet. C’est mode, trop mode, ça donne une fausse idée du livre qui n’est pas du tout sur les blogs mais sur l’influence du net en général sur la politique, et au delà, et surtout, sur l’émergence d’un cinquième pouvoir, le pouvoir citoyen.
 

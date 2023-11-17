@@ -1,8 +1,8 @@
 # Comment pirater un livre papier
 
-Un de mes amis vient de sortir un polar. J’aime ses romans. Je lui dis : « je vais le lire et le chroniquer sur le blog. » Je me livre rarement à cet exercice, mais quand je le fais un bon nombre de lecteurs me suivent comme avec l’extraordinaire [*Terminus mon Ange*](https://tcrouzet.com/2014/02/14/un-ton-neuf-dans-le-polar/).<span id="more-40693"></span>
+Un de mes amis vient de sortir un polar. J’aime ses romans. Je lui dis : « je vais le lire et le chroniquer sur le blog. » Je me livre rarement à cet exercice, mais quand je le fais un bon nombre de lecteurs me suivent comme avec l’extraordinaire [*Terminus mon Ange*](http://blog.tcrouzet.com/2014/02/14/un-ton-neuf-dans-le-polar/).<span id="more-40693"></span>
 
-Rien de très ordinaire jusque là. Sauf que l’éditeur de mon ami ne publie pas en numérique. Et que moi je lis avec de plus en plus de difficulté sur papier (parce que l’acide des pages m’irrite les doigts, parce que les réglages typo choisis m’échauffent les yeux, parce que les reliures se referment sur mes mains telles des gueules de Pac man, parce que ma bibliothèque déborde et menace de m’ensevelir… [j’arrête l’inventaire](https://tcrouzet.com/2014/03/22/pourquoi-jaime-lire-en-numerique/)).
+Rien de très ordinaire jusque là. Sauf que l’éditeur de mon ami ne publie pas en numérique. Et que moi je lis avec de plus en plus de difficulté sur papier (parce que l’acide des pages m’irrite les doigts, parce que les réglages typo choisis m’échauffent les yeux, parce que les reliures se referment sur mes mains telles des gueules de Pac man, parce que ma bibliothèque déborde et menace de m’ensevelir… [j’arrête l’inventaire](http://blog.tcrouzet.com/2014/03/22/pourquoi-jaime-lire-en-numerique/)).
 
 Donc je demande à l’éditeur en question de m’envoyer un fichier, pour me faciliter la vie. Il ne me répond même pas. Je demande à mon ami ce qui se passe. Il m’explique : « Il a peur de se faire pirater. »
 
@@ -16,10 +16,14 @@ Maintenant, c’est bien dommage. Je ne vais pas pouvoir chroniquer mon ami, mê
 
 Je crois qu’en vérité tu n’as pas peur du piratage, mais de la modernité. Tu te caches derrière un épouvantail. Tu aimerais bien que les choses restent telles qu’elles étaient. Continuer à faire ton travail à l’ancienne. C’est étrange parce que j’ai déjà lu quelques romans que tu as édités, et plutôt pas mal d’ailleurs, bien écrits, bien rythmés, mais peut-être qu’il leur manque à tous ce regard vers demain qui semble tant t’effrayer.
 
-Bon, encore un billet pour me faire des amis dans l’édition, mais c’est plus fort que moi. Je ne supporte pas tous ces gens qui vivent avec les deux pieds sur le frein, et qui par ailleurs se proclament éveillés, conscients, artistes… J’en ai marre des fumisteries. Je me fiche bien de me fâcher avec tous les éditeurs de la planète. Les derniers qui accepteront de bosser avec moi seront mes véritables compagnons de lutte. Et s’il n’en reste aucun, je n’en serai pas moins lu (c’est la pire des choses qui peut leur arriver).
+Bon, encore un billet pour me faire des amis dans l'édition, mais c’est plus fort que moi. Je ne supporte pas tous ces gens qui vivent avec les deux pieds sur le frein, et qui par ailleurs se proclament éveillés, conscients, artistes… J’en ai marre des fumisteries. Je me fiche bien de me fâcher avec tous les éditeurs de la planète. Les derniers qui accepteront de bosser avec moi seront mes véritables compagnons de lutte. Et s’il n’en reste aucun, je n’en serai pas moins lu (c’est la pire des choses qui peut leur arriver).
 
-Éditeur, tu vis dans un monde numérique. Rien n’échappe aux bits (et à leur beat). Si tu ne veux pas être piraté, arrête de publier. *Safe publishing is no publishing.* Tu peux même dire à tes auteurs d’arrêter d’écrire. Ils ne risqueront plus rien. *Safe writing is no writing.*
+Éditeur, tu vis dans un monde numérique. Rien n'échappe aux bits (et à leur beat). Si tu ne veux pas être piraté, arrête de publier. *Safe publishing is no publishing.* Tu peux même dire à tes auteurs d'arrêter d'écrire. Ils ne risqueront plus rien. *Safe writing is no writing.*
 
-*PS : [Pendant ce temps, des auteurs qui n’ont rien compris, comme leurs éditeurs, s’offusquent du piratage.](https://www.actualitte.com/usages/piratage-porter-un-veritable-projet-collectif-sur-le-livre-numerique-56398.htm)*
+*PS : [Pendant ce temps, des auteurs qui n'ont rien compris, comme leurs éditeurs, s'offusquent du piratage.](https://www.actualitte.com/usages/piratage-porter-un-veritable-projet-collectif-sur-le-livre-numerique-56398.htm)*
 
-![J’aime Office Lens de Microsoft qui remet d’aplomb les pages photographiées.](https://tcrouzet.com/images_tc/2015/04/ocr.png)
+![J’aime Office Lens de Microsoft qui remet d’aplomb les pages photographiées.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/ocr.png)
+
+
+
+Tags: édition, une

@@ -18,6 +18,8 @@ Tous les créateur numériques pourraient utiliser cette astuce, ajoutant un bou
 
 3. [Comment pirater légalement tous les livres , novembre 2014](https://isengard.market/nft/TCC-5cf6ff-05) ([texte original sur le blog](https://tcrouzet.com/2014/11/07/comment-pirater-legalement-tous-les-livres/)).
 
-4. [Qu’est-ce que la liberté ?, octobre 2013](https://isengard.market/nft/TCC-5cf6ff-06) ([texte ordinal sur le blog](https://tcrouzet.com/2013/10/18/quest-ce-que-la-liberte/)).
+4. [Qu'est-ce que la liberté ?, octobre 2013](https://isengard.market/nft/TCC-5cf6ff-06) ([texte ordinal sur le blog](https://tcrouzet.com/2013/10/18/quest-ce-que-la-liberte/)).
 
 5. [Qui a la plus grosse quéquette sur Twitter ?, septembre 2009](https://isengard.market/nft/TCC-5cf6ff-07) ([texte original sur le blog](https://tcrouzet.com/2009/09/24/qui-a-la-plus-grosse-quequette-sur-twitter/)).
+
+Tags: édition, NFT, une

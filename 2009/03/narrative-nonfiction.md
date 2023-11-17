@@ -20,7 +20,7 @@ Je viens de faire quelques recherches sur le genre et découvert des dizaines de
 
 > The word “creative” refers simply to the use of literary craft in presenting nonfiction—that is, factually accurate prose about real people and events—in a compelling, vivid manner. To put it another way, creative nonfiction writers do not make things up; they make ideas and information that already exist more interesting and, often, more accessible.
 
-Si j’en crois la fin de cette définition, j’ai tendance à déraper puisque je propose parfois mes idées ou mes interprétations. Mais c’est justement ce qui est reproché aussi à Krakauer.
+Si j'en crois la fin de cette définition, j'ai tendance à déraper puisque je propose parfois mes idées ou mes interprétations. Mais c’est justement ce qui est reproché aussi à Krakauer.
 
 De nombreux auteurs de narrative nonfiction écrivent à la première personne. Ils affirment la subjectivité. Les blogueurs les imitent. Je lis *Wired* depuis le tout début et j’y ai vu peu à peu l’énonciation s’y imposer. Les journalistes y disent je. Ils se mettent en situation adoptant les techniques de la narrative nonfiction.
 
@@ -28,20 +28,20 @@ Cette façon d’écrire me paraît propre à notre époque. Montaigne ou Rousse
 
 Et nos vies deviennent des histoires. Nous sommes tous potentiellement des héros. Nos vies rejoignent la fiction. Et c’est peut-être pour cette raison que les romans littéraires contemporains m’ennuient. Les auteurs pratiquent le romanesque par habitude, ils cherchent à imaginer, insensible à la forme que porte notre époque, aux millions d’histoires qui sont là, réelles, incroyables et surtout accessibles car nous pouvons nous parler d’un simple coup de téléphone ou d’un simple mail.
 
-Je m’étais fait ces réflexions quand j’ai lu *Journal d’un enlèvement*, ça devait être en 2001 ou 2002. Aucun des romans de Garcia Marquez n’arrive à la cheville de ce texte. C’est son chef-d’œuvre parce que c’est une œuvre d’aujourd’hui. *Cent ans de solitude* était un roman déjà vieux à sa parution.
+Je m’étais fait ces réflexions quand j’ai lu *Journal d’un enlèvement*, ça devait être en 2001 ou 2002. Aucun des romans de Garcia Marquez n’arrive à la cheville de ce texte. C’est son chef-d'œuvre parce que c’est une œuvre d’aujourd’hui. *Cent ans de solitude* était un roman déjà vieux à sa parution.
 
 Et c’est peut-être pour ça que j’aime par-dessus-tout le Flaubert de la correspondance, parce qu’il y adopte ce style d’aujourd’hui. Que je retrouve chez lui dans un seul roman, *L’éducation sentimentale*.
 
 > George Orwell’s *Down* and *Out in Paris and London*, James Baldwin’s *Notes of a Native Son Ernest Hemingway’s Death in the Afternoon*, and Tom Wolfe’s *The Right Stuff* are classic creative nonfiction efforts—books that communicate information (reportage) in a scenic, dramatic fashion. These four books represent the full spectrum of creative nonfiction \[…\]
 
-J’ai de la lecture en perspective. J’ai trouvé d’autres livres références du genre listé par [Edward Humes](http://www.edwardhumes.com/narrative.shtml). Vu le développement du genre, les libraires américains se demandent s’ils doivent créer un rayon narrative nonfiction. [Alors comment le subdiviser ?](http://laureltarulli.wordpress.com/2008/05/26/narrative-nonfiction-%E2%80%93-a-new-genre-heading/)
+J'ai de la lecture en perspective. J’ai trouvé d’autres livres références du genre listé par [Edward Humes](http://www.edwardhumes.com/narrative.shtml). Vu le développement du genre, les libraires américains se demandent s’ils doivent créer un rayon narrative nonfiction. [Alors comment le subdiviser ?](http://laureltarulli.wordpress.com/2008/05/26/narrative-nonfiction-%E2%80%93-a-new-genre-heading/)
 
 1. Aventure (Krakauer)
 2. Voyageur (Bouvier)
 3. True Crime (Truman Capote)
 4. Biographie/autobiographie/mémoire
 5. Histoire (mon ami Alain-Gilles Minella fait ça très bien).
-6. Micro histoire (l’histoire de minuscules évènements)
+6. Micro histoire (l'histoire de minuscules évènements)
 7. Essai
 8. Reportage (Garcia Marquez)
 9. Science (Buchanan)
@@ -52,4 +52,6 @@ Pour terminer, je cite encore une fois Lee Gutkind qui lui-même cite Gay Tales 
 
 > Though often reading like fiction, \[it\] is not fiction. It is, or should be, as reliable as the most reliable reportage, although it seeks a larger truth than is possible through the mere compilation of verifiable facts, the use of direct quotations, and adherence to the rigid organizational style of the older form.
 
-J’ai envie de m’approprier ces propos. En écrivant *Itinéraire d’un homme libre*, j’ai justement recherché une vérité plus grande, j’ai voulu dépasser l’histoire pour y trouver un sens pour moi.
+J'ai envie de m'approprier ces propos. En écrivant *Itinéraire d’un homme libre*, j’ai justement recherché une vérité plus grande, j’ai voulu dépasser l’histoire pour y trouver un sens pour moi.
+
+Tags: NetLittérature, une

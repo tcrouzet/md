@@ -4,7 +4,6 @@ Profitant de ma présence à Genève, [Geneviève Morand](https://www.rezonance.
 
 Bien sûr nous nous entraidons sur les forums, partageant nos trucs et astuces, nous nous entraidons quand nous roulons, mais aujourd’hui une nouvelle forme d’entraide à plus vaste échelle apparaît dès qu’il s’agit de tracer des parcours. Si je m’étais contenté d’explorer en solitaire les chemins autour de chez moi, me fiant à ma seule expérience ou à celle de quelques copains, j’aurais fini par tourner en rond, et sans doute par me lasser du vélo, car alors j’aurais été incapable de travailler [sa dimension esthétique](https://tcrouzet.com/2018/12/10/etre-territoire/).
 
-<div class="iframe" id="iframe2"></div>
 Au contraire, j’ai récupéré mes traces, mais aussi celles de nombreux autres cyclistes, traces abandonnées presque inconsciemment sur Strava ou consciemment publiées sur des sites de partages. Une base de données hétéroclite et décentralisée se construit peu à peu dans laquelle nous pouvons piocher pour construire de nouveaux parcours, puis les tester, puis les publier à notre tour.
 
 [Des services de routage automatique](https://tcrouzet.com/2019/09/11/vtt-gravel-bikepacking-que-vaut-le-routage-automatique/) tentent d’exploiter ces données pour proposer des solutions automatiques, mais elles restent peu intéressantes et je pense qu’elles le resteront longtemps, car l’approche algorithmique ne permet pas encore de concevoir une trace comme une narration. Parce qu’un voyage à vélo s’écrit comme un roman, avec une introduction, des péripéties, des plateaux et des climax avant d’arriver à une conclusion, idéalement lumineuse.
@@ -37,4 +36,6 @@ Le bikepacking hors route est donc rendu possible grâce à une entraide à gran
 
 - L’entraide n’est pas organisée, mais elle s’auto-organise.
 
-Je trouve assez excitant que le bikepacking se déploie dans ce cadre favorisant l’intelligence collective, pour beaucoup l’une des seules façons de sortir des crises du vingt et unième siècle. Quand nous voyageons à vélo hors route, nous prouvons par l’exemple qu’il est possible de faire de belles choses lorsque nous travaillons ensemble sans pour autant nous contraindre de manière coercitive. Et peut-être que je me sens libre quand je voyage à vélo parce que je le fais politiquement dans un nouveau monde. Peut-être est-ce aussi pour cette raison que nous sommes souvent très bien accueillis. Nous serions presque des émissaires du futur porteur de bonnes nouvelles.
+Je trouve assez excitant que le bikepacking se déploie dans ce cadre favorisant l’intelligence collective, pour beaucoup l'une des seules façons de sortir des crises du vingt et unième siècle. Quand nous voyageons à vélo hors route, nous prouvons par l’exemple qu’il est possible de faire de belles choses lorsque nous travaillons ensemble sans pour autant nous contraindre de manière coercitive. Et peut-être que je me sens libre quand je voyage à vélo parce que je le fais politiquement dans un nouveau monde. Peut-être est-ce aussi pour cette raison que nous sommes souvent très bien accueillis. Nous serions presque des émissaires du futur porteur de bonnes nouvelles.
+
+Tags: Born to Bike, Livre 2, une

@@ -1,6 +1,6 @@
 # L’expérience inédite (et interdite)
 
-Pour qu’un projet coopératif fonctionne, il doit se décider vite, se mettre en œuvre tout aussi vite et se boucler presque aussi vite. [Après ma proposition de tenter une édition coopérative d’un de mes textes et tester le revenu unique](https://tcrouzet.com/2010/09/13/experimentons-le-revenu-unique-pour-les-auteurs/), nous avons, en moins d’une journée, mis sur pied une équipe.<span id="more-19241"></span>
+Pour qu’un projet coopératif fonctionne, il doit se décider vite, se mettre en œuvre tout aussi vite et se boucler presque aussi vite. [Après ma proposition de tenter une édition coopérative d’un de mes textes et tester le revenu unique](http://blog.tcrouzet.com/2010/09/13/experimentons-le-revenu-unique-pour-les-auteurs/), nous avons, en moins d’une journée, mis sur pied une équipe.<span id="more-19241"></span>
 
 J’ai reçu par mail, sur Twitter et sur le blog des propositions de coopération. J’ai fait la pub du projet sur deux listes de diffusions et auprès de quelques amis. Toutes les compétences ont vite été réunies. Hier soir, j’ai envoyé à chacun le texte de ma nouvelle avec quelques explications. Pour documenter l’expérience, je réécris pour vous mon message.
 
@@ -8,7 +8,7 @@ Je ne pouvais commencer autrement qu’en remerciant tout le monde mais il n’�
 
 La suite du projet dépend avant tout de mon texte. Il n’est pas question que les uns et les autres coopèrent pour mes beaux yeux. Les partenaires ne doivent pas s’intéresser uniquement à l’expérience, mais aussi au texte. [Yves l’Ours Koskas](http://www.la-coop.org) a été clair :
 
-> Un préalable \[à sa participation\], tout de même, je viens de coller l’epub dans la liseuse et m’en vais le dévorer de ce pas. Il faut que ça me plaise, je ne pars pas perdant, jusqu’à présent j’ai aimé tout ce que j’ai lu de Thierry. Je pense quand même qu’il ne faut pas faire l’expérience pour l’expérience mais aussi (surtout…) parce que l’on aime le texte.
+> Un préalable \[à sa participation\], tout de même, je viens de coller l'epub dans la liseuse et m'en vais le dévorer de ce pas. Il faut que ça me plaise, je ne pars pas perdant, jusqu'à présent j'ai aimé tout ce que j'ai lu de Thierry. Je pense quand même qu'il ne faut pas faire l'expérience pour l'expérience mais aussi (surtout...) parce que l'on aime le texte.
 
 Les partenaires en acceptant de se réunir autour d’un texte, le valident, pas nécessairement en l’état, mais jugent que leur travail aura une chance de porter ses fruits. Ils doivent partir gagnant. La constitution du collectif équivaut, dans le circuit traditionnel, à l’acceptation d’un manuscrit (et le processus est tout aussi biaisé à cause des amitiés et du hasard des rencontres).
 
@@ -57,3 +57,5 @@ Sur [Twitter](http://twitter.com/xgalaup/status/24454847022), [Xavier Galaup](ht
 Je diffuserai la nouvelle sur mon blog en direct, Isabelle la diffusera chez Apple et Amazon, [numeriklivres](http://www.numeriklivres.com) via [immateriel.fr](http://www.immateriel.fr/). Avec l’Ours, je m’occuperai de l’impression à la demande. On pourra éventuellement placer des exemplaires dans quelques librairies. David Queffélec pourrait reprendre le texte dans sa revue Angle mort bientôt disponible.
 
 Voici schématiquement une répartition possible des rôles. Chacun disposant de compétences croisées, chacun pourra intervenir à n’importe quel point du processus. En fait, je n’ai aucune idée de comment les choses se dérouleront. Je raconterai.
+
+Tags: Cuisine

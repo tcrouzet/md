@@ -16,7 +16,7 @@ Maintenant qu’il est facile de composer et de distribuer ses productions, il r
 
 Comme les productions sont en nombre gigantesque, il n’y aura jamais de place pour toutes dans l’audimat. Que vont devenir toutes ces œuvres, et surtout tous leurs auteurs déçus. J’espère qu’ils vont se contenter d’une place dans la longue traîne. Après tout, excepté durant les 200 dernières années, les artistes n’ont jamais eu de large audience. Ils adressaient un marché de niche. Nous en reviendrons peut-être à cette situation, avec quelques stars anecdotiques.
 
-Si nous quittons l’époque de la production de masse, des stars de masse, nous entrerons dans celle de la longue traîne. Plutôt que de travailler pour des entreprises qui diffusent à grande échelle, nous serons les diffuseurs de nos propres créations. Artiste ou pas, nous serons des artisans. Nous posséderons l’outil de production et diffuserons notre production. Nous serons des hackers au sens où l’entend [McKenzie Wark](https://tcrouzet.com/2007/07/16/loin-d%e2%80%99etre-libre/).
+Si nous quittons l’époque de la production de masse, des stars de masse, nous entrerons dans celle de la longue traîne. Plutôt que de travailler pour des entreprises qui diffusent à grande échelle, nous serons les diffuseurs de nos propres créations. Artiste ou pas, nous serons des artisans. Nous posséderons l’outil de production et diffuserons notre production. Nous serons des hackers au sens où l’entend [McKenzie Wark](http://blog.tcrouzet.com/2007/07/16/loin-d%e2%80%99etre-libre/).
 
 Les artistes vivront artisanalement tout comme le boulanger ou l’informaticien. Des artisans pourront travailler ensemble à des projets open source de grande envergure sans que personne ne soit le maître, et encore moins le propriétaire, de ces projets.
 
@@ -26,6 +26,8 @@ Si nous nous mettons à consommer massivement des produits de niches, les artisa
 
 1. Pour empêcher un message d’être perçu, on peut le bloquer avant l’émission ou en brouiller la transmission ou la réception. Il existe ainsi deux formes de censure.
 
-2. Avec le web 2.0, l’abaissement des barrières multiplie les œuvres disponibles, donc la confusion. Cet abaissement ne risque-t-il pas d’introduire une autocensure par la surabondance ?
+2. Avec le web 2.0, l’abaissement des barrières multiplie les œuvres disponibles, donc la confusion. Cet abaissement ne risque-t-il pas d'introduire une autocensure par la surabondance ?
 
 3. Pour éviter cette autocensure, il ne faut pas chercher à s’adresser à tous mais seulement à ceux qui peuvent nous recevoir. Il faut éviter en s’adressant à eux de parasiter ceux qui ne s’intéressent pas à nous. Il faut éviter de devenir des spammeurs (ou des trolls… ce qui pour moi est la même chose).
+
+Tags: Politique

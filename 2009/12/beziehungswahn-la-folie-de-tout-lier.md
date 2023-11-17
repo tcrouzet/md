@@ -13,3 +13,5 @@ Pour moi la réalité, surtout la réalité sociale, est façonnable. Quand Marc
 Je trouve que le Web est un merveilleux terrain de jeu pour ceux qui souffrent de beziehungswahn. Dans un même billet, nous pouvons lier Proust, Girard et Einstein. Nous pouvons faire des choses dangereuses que jamais les universitaires ne se permettraient. Et alors ?
 
 Ils n’aiment pas qu’on prenne des libertés, surtout avec leurs théories. Ils doivent se justifier. Nous avons juste à essayer de faire émerger un peu de beauté. Chatwin était peut-être malade mais il nous a pondu *Le chant des pistes*. Livre critiqué par les anthropologues, par les défenseurs de la cause aborigène, par les romanciers parce que ce n’était pas un roman, par les essayistes parce que ce n’était pas un essai… Mais quel livre ! Quelle bouffée d’énergie. Vingt ans plus tard il est en train de devenir un classique et on a oublié ses critiques.
+
+Tags: Alternative nomade, une

@@ -10,6 +10,6 @@ Bien sûr, je n’ai pas perdu grand-chose car mon portable est juste un clone d
 
 Mercredi soir, j’ai vu que quelqu’un tentait de se connecter à mon compte Gmail. Heureusement, j’avais déjà un nouveau password. Hasard ? C’est la première fois que je constate une telle intrusion. J’ai presque fini par me persuader que pas plutôt Isabelle passée aux objets trouvés, quelqu’un a reçu un coup de téléphone et a torpillé mon Vaio.
 
-Je remercie la SNCF pour sa coopération et, comme cette entreprise a le monopole en France, je n’aurais guère le choix que de continuer à voyager avec elle à l’avenir. J’imagine l’état dans lequel je me serais trouvé si j’avais perdu plusieurs semaines de travail. Je crois que j’aurais lynché les deux préposés ou plus surement que je le leur aurais proposé un bakchich comme dans une république bananière.
+Je remercie la SNCF pour sa coopération et, comme cette entreprise a le monopole en France, je n’aurais guère le choix que de continuer à voyager avec elle à l’avenir. J’imagine l’état dans lequel je me serais trouvé si j’avais perdu plusieurs semaines de travail. Je crois que j’aurais lynché les deux préposés ou plus surement que je le leur aurais proposé un bakchich comme dans une république bananière. 
 
 Si par hasard, vous qui avez mon PC, lisez ce billet, n’hésitez pas à me contacter. On s’arrangera. Vous m’enverrez par mail le texte que j’ai écrit dans le train et les photos de mes enfants que j’ai perdues.

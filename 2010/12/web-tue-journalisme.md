@@ -8,7 +8,7 @@ Qu’est-ce que j’ai fait ces derniers jours ? J’ai passé plus d’une diz
 
 Les fameux blogs professionnels ne font qu’un travail amateur par rapport à ce que nous faisions durant les années 1990 dans la presse spécialisée. Ils se contentent de réécrire les fiches produits, sans guère ajouter d’information par rapport à celles publiées sur les sites des constructeurs.
 
-Aucun produit n’est réellement testé. Le clavier, l’écran, le niveau sonore, la durée de la batterie, la puissance pure… ne sont pas évalués et pas commentés de manière systématique (j’insiste sur systématique).
+Aucun produit n’est réellement testé. Le clavier, l’écran, le niveau sonore, la durée de la batterie, la puissance pure… ne sont pas évalués et pas commentés de manière systématique (j'insiste sur systématique).
 
 Je me fiche qu’on me dise en trois phrases le type du processeur (parce que je sais lire une fiche produit). Je veux qu’on me parle plutôt de ce que je ne peux pas apprécier à distance. Je veux qu’on me donne l’impression que quelqu’un déballe le produit pour moi. Je veux lire quelqu’un d’objectif et de critique. Je ne veux pas d’un pisse-copie qui ne s’intéresse qu’au référencement de son article sur Google pour m’envoyer à la figure une publicité mal ciblée.
 
@@ -16,4 +16,6 @@ Quand je travaillais chez Ziff-Davis, nous avions mis au point une base de donn�
 
 Comme ces sites orientés produits et services sont profitables, il me semble qu’ils devraient profiter de leur rentabilité pour bien faire leur travail. Pourquoi ne pas construire une base de données unifiée. Utiliser systématiquement les outils de test disponibles en open source. Nous offrir au final des informations qui pourraient nous aider à choisir.
 
-Dans l’état actuel des choses, je préfère encore interroger mon réseau social pour obtenir des conseils d’achats crédibles ou aller fouiner dans les forums. Je ne fais pas confiances aux blogueurs professionnels (professionnel signifiant qui gagne de l’argent avec son blog, là s’arrête le professionnalisme).
+Dans l’état actuel des choses, je préfère encore interroger mon réseau social pour obtenir des conseils d’achats crédibles ou aller fouiner dans les forums. Je ne fais pas confiances aux blogueurs professionnels (professionnel signifiant qui gagne de l’argent avec son blog, là s'arrête le professionnalisme).
+
+Tags: Journalisme, NetCulture, une

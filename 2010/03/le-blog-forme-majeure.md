@@ -14,7 +14,7 @@ Tu me diras, si tu n’avais pas tes livres, tu passerais ton temps à faire aut
 
 Fabriquons des produits si nous en avons le désir mais pourquoi faudrait-il s’imposer cet exercice alors que nous avons un public en ligne ? Je vais d’ailleurs me flageller. Hier, un commentateur a posté un commentaire pour tout de suite l’effacer. Voici ce qu’il disait.
 
-> Selon moi, vous feriez mieux de passer votre chemin devant la carrière d’écrivain. Vous ne le serez jamais à moins de monter votre propre maison d’édition et de publier d’autres auteurs que vous pour finir les fins de mois. Et là je parle en connaissance de cause car j’ai eu l’occasion (malheureuse) de lire il y a très longtemps un de vos manuscrits “Moi Je”. Pathétique ! Je constate que votre style n’a vraiment pas changé même si vous ne faîtes plus de d’abus du “toutefois” et “cependant”. Le blog vous a sans doute sauvé de la frustration. Cessez de pester contre les éditeurs littéraires. Ressortez la barque de votre père et allez pêcher des anguilles devant chez vous.
+> Selon moi, vous feriez mieux de passer votre chemin devant la carrière d'écrivain. Vous ne le serez jamais à moins de monter votre propre maison d'édition et de publier d'autres auteurs que vous pour finir les fins de mois. Et là je parle en connaissance de cause car j'ai eu l'occasion (malheureuse) de lire il y a très longtemps un de vos manuscrits "Moi Je". Pathétique ! Je constate que votre style n'a vraiment pas changé même si vous ne faîtes plus de d'abus du "toutefois" et "cependant". Le blog vous a sans doute sauvé de la frustration. Cessez de pester contre les éditeurs littéraires. Ressortez la barque de votre père et allez pêcher des anguilles devant chez vous.
 
 Que de paradoxes dans ces quelques lignes. Vous mes lecteurs n’avez donc aucun goût, aucun sens de la mesure, vous vous abaissez dans les égouts de la littérature. En résumé, vous êtes des lecteurs sans qualité, méprisables. Comme je reste punk, ça me convient plutôt j’avoue… mais vous imaginez combien je suis énervé par cette intervention.
 
@@ -31,3 +31,5 @@ Ce calcul ne veut rien dire mais il montre qu’un blogueur n’a rien à envier
 Merde. Le blog permet de dire des choses importantes d’une manière qui ne convient pas au livre. Comment croyez-vous que Nietzsche aurait publié aujourd’hui *Le gai savoir* ? Parmi tous ces équivalents livres qui se diffusent chaque année, parions que se cachent les gais savoirs de demain.
 
 *PS : Si vous avez lu ce billet jusqu’au bout, vous avez lu l’équivalent de quatre pages livre de Crouzet. Allez savoir combien réellement les gens lisent de pages de BHL.*
+
+Tags: édition, littérature, NetCulture

@@ -2,7 +2,7 @@
 
 Je ne suis pas aussi rationnel que vous le croyez. Il m’est arrivé de connaître des expériences spirituelles spontanées. Dans ces moments de conscience, j’ai eu l’impression d’être connecté à toutes choses. J’ai perçu l’interdépendance générale et j’ai compris le ridicule schématisme des modèles hiérarchiques. Mais je me suis gardé d’interpréter mes expériences en invoquant une force divine ou mystérieuse.
 
-Quand [Sri Aurobindo](https://tcrouzet.com/2008/09/23/shall-terra-be-free/) connaît des expériences spontanées puis quand il les renouvelle grâce au yoga, il dit communier avec le divin. Je suis plus terre-à-terre. Ce que je vois, ce que je sens, ce que j’éprouve, c’est l’interdépendance qui entraîne toutes les choses.
+Quand [Sri Aurobindo](http://blog.tcrouzet.com/2008/09/23/shall-terra-be-free/) connaît des expériences spontanées puis quand il les renouvelle grâce au yoga, il dit communier avec le divin. Je suis plus terre-à-terre. Ce que je vois, ce que je sens, ce que j’éprouve, c’est l’interdépendance qui entraîne toutes les choses.
 
 Je ne cherche pas une explication rationnelle à tout prix. Je dis ce que je vois comme Aurobindo dit ce qu’il voit. Mais nous ne voyons pas du tout la même chose. Alors sans doute a-t-il connu des expériences plus profondes que moi mais je ne suis pas sûr que ce soit l’explication. Certains ont un biais vers le surnaturel, d’autres n’en ont pas.
 
@@ -31,3 +31,5 @@ Cette vision reste métaphysique mais n’a pas moins de valeur que la vision id
 Nombre de gens attirés par la sagesse orientale ne l’intègrent pas à leur vision du monde. Le yin et le yang n’est qu’une métaphore de la récursivité.
 
 En rejetant l’idéalisme, je suis beaucoup plus oriental que nombre d’adeptes du yoga et autres techniques de méditation.
+
+Tags: Connecteur

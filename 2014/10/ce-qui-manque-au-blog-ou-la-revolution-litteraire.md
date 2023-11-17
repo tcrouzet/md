@@ -2,11 +2,11 @@
 
 Depuis deux semaines, j’ai [*The future of the book*](http://www.economist.com/news/essays/21623373-which-something-old-and-powerful-encountered-vault) ouvert dans mon navigateur. Et je ne cesse de me dire, voici le futur, pas tant à cause du texte, que de la façon dont il nous est présenté par *The Economist*. C’est un essai à double sens, dont la forme illustre magistralement le propos.<span id="more-37775"></span>
 
-![Mode livre](https://tcrouzet.com/images_tc/2014/10/nextweb1.jpg)
+![Mode livre](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/nextweb1.jpg)
 
-![Mode rouleau](https://tcrouzet.com/images_tc/2014/10/nextweb2.jpg)
+![Mode rouleau](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/nextweb2.jpg)
 
-![Mode rouleau](https://tcrouzet.com/images_tc/2014/10/nextweb3.jpg)
+![Mode rouleau](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/nextweb3.jpg)
 
 Nous avons le choix entre trois modes de lecture : audio, livre et rouleau. Jamais selon moi personne n’a aussi magnifiquement illustré la séparation entre forme et données. Et c’est cela le futur : une adaptation du contenu aux préférences de chacun. Une forme à la carte. Bientôt nous n’aurons pas trois choix, mais dix et sans doute davantage.
 
@@ -30,4 +30,6 @@ Problème identifié. Solution esquissée par *The Economist*. Il reste à pense
 
 Alors les éditeurs qui disent que l’autoédition n’existe pas découvriront que les œuvres majeures d’aujourd’hui sont toutes autopubliées sur le Web, qu’elles rassemblent bien plus de lecteurs que les œuvres enfermées dans les livres, simplement elles sont encore invisibles, car découpées en billets plutôt qu’être transformées en flux. Une fois cette évolution traversée, nous autres auteurs nous mettrons également à travailler l’ensemble du flux. Nous le ferons avancer, tout en revenant en arrière. Cela parce que les lecteurs seront enfin capables de voir ce qui aujourd’hui reste enterré dans le passé, hors d’atteinte de toute navigation.
 
-Je crois comprendre que si j’écris encore hors du Web, c’est parce qu’il me manque le logiciel de publication adapté. Et que celui qui existe me pousse à une forme qui ne me convient pas toujours.
+Je crois comprendre que si j'écris encore hors du Web, c'est parce qu'il me manque le logiciel de publication adapté. Et que celui qui existe me pousse à une forme qui ne me convient pas toujours.
+
+Tags: NetCulture

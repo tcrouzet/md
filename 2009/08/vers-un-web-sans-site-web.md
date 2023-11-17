@@ -1,6 +1,8 @@
 # Vers un web sans site web
 
-![flux](https://tcrouzet.com/images_tc/2009/08/flux.jpg)
+
+
+![flux](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/flux.jpg)
 
 Les sites web ont été imaginés pour stocker des informations et les afficher à travers des navigateurs. Ce fut une révolution, notamment grâce à l’hypertexte décentralisé, mais aussi une façon de traduire à l’écran ce que nous connaissions sur le papier. Il suffit de voir à quoi ressemblent encore les sites des journaux (où même les blogs). À des journaux traditionnels ! Très loin du look Google ou des services 2.0 les plus avancés. On reste dans l’ancien monde de Gutenberg.<span id="more-8396"></span>
 
@@ -61,3 +63,5 @@ Le temps des propulseurs est venu.
 13. Notre identité numérique sera concentrée sur notre point de propulsion, c’est là qu’elle s’incarnera, c’est de là qu’elle essaimera dans le cyberspace.
 
 14. Je crois aussi que le point de propulsion doit être open source, pour que notre identité n’appartienne à personne. WordPress est le meilleur point actuel. Mais sans doute trop marqué par son passé blog. Il faut un outil ou des outils capables de gérer tous les types de propulsion possibles.
+
+Tags: Connecteur, NetCulture

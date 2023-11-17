@@ -12,8 +12,10 @@ Je crois d’ailleurs que tous ceux qui prétendent faire de la grande littérat
 
 Je déteste l’idée de collection, de classification, de ciblage. Nous en sommes à l’époque des tags et des folksonomies, plus à celles des étiquettes rigides. Tous ceux qui s’en réfèrent à elles ne m’intéressent pas.
 
-PS1 : Je révolutionne pas la littérature avec le twiller mais ma façon d’écrire, c’est déjà pas mal.
+PS1 : Je révolutionne pas la littérature avec le twiller mais ma façon d'écrire, c'est déjà pas mal.
 
 PS2 : Le twiller n’est pas fait pour être lu sur Twitter. Il est écrit grâce à Twitter.
 
 Billet écrit après [Twitter du livre](http://lafeuille.homo-numericus.net/2009/09/twitter-du-livre.html) de Hubert Guillaud et les commentaires de [Pierre Ménard](http://blog.liminaire.fr/).
+
+Tags: Croisade, Twiller, Twittérature

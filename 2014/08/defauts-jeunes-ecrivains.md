@@ -4,7 +4,7 @@ Cette liste est purement autobiographique et je n’ai pas encore tout réglé d
 
 1. Ne jamais couper.
 
-2. Croire que tout ce qui vient est bon (jusqu’à user du blog comme déversoir).
+2. Croire que tout ce qui vient est bon (jusqu'à user du blog comme déversoir).
 
 3. Ne pas supporter d’être dérangé de peur de passer à côté du chef d’œuvre.
 
@@ -72,7 +72,7 @@ Cette liste est purement autobiographique et je n’ai pas encore tout réglé d
 
 35. Vouloir dire à tout prix.
 
-36. Décider avant de l’avoir écrit ce que sera un texte.
+36. Décider avant de l'avoir écrit ce que sera un texte.
 
 37. Adopter le romanesque comme un costume prêt-à-porter.
 
@@ -81,3 +81,5 @@ Cette liste est purement autobiographique et je n’ai pas encore tout réglé d
 39. Vouloir gagner sa vie avec ça (toute autre activité est plus rentable).
 
 40. Faire de la publication chez un éditeur son Graal.
+
+Tags: buzzlitt, une

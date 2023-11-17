@@ -14,7 +14,7 @@ J’écris pour voir le monde et non pour exister au regard des autres, et ma fo
 
 La séance de masochisme est terminée. Je n’en ai qu’une autre de prévue sur mes terres fin juin, au moins je serai au soleil.
 
-![](https://tcrouzet.com/images_tc/2017/06/mai2017_021.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/06/mai2017_021.jpg)
 
 ### Mardi 2, Genève
 
@@ -26,43 +26,43 @@ J’entends tout et son contraire sur *Résistants*. Raison de plus pour ne plus
 
 ---
 
-Ce matin, mon amie Geneviève me dit : « Tu es vacciné contre toute forme d’activisme politique collectif. Te reste à en prendre acte. »
+Ce matin, mon amie Geneviève me dit : « Tu es vacciné contre toute forme d'activisme politique collectif. Te reste à en prendre acte. »
 
-Oui, je dois tourner la page. Ne livrer que des batailles infimes, que des batailles esthétiques, avec le devoir de n’en faire qu’à ma tête.
+Oui, je dois tourner la page. Ne livrer que des batailles infimes, que des batailles esthétiques, avec le devoir de n'en faire qu'à ma tête.
 
 ---
 
-Je dépasse les rames alignées dans la gare de triage à la sortie de Genève, le lac sur ma droite, sous d’épais nuages, grands arbres, villas, appontements… Jouir de tout cela, aimer la vie, la faire aimer, je n’ai plus d’autres possibilités politiques.
+Je dépasse les rames alignées dans la gare de triage à la sortie de Genève, le lac sur ma droite, sous d'épais nuages, grands arbres, villas, appontements… Jouir de tout cela, aimer la vie, la faire aimer, je n'ai plus d'autres possibilités politiques.
 
 ### Mardi 2, Bienne
 
-Ville de Swatch et de Rolex, ville jardin d’une propreté presque idéale, avec ses berges arborées, ses cygnes, ses pédalos, son café sur les quais où je termine une petite rando après être monté jusqu’au belvédère qui surplombe cette opulence mêlant verdures et bâtiments de verre.
+Ville de Swatch et de Rolex, ville jardin d'une propreté presque idéale, avec ses berges arborées, ses cygnes, ses pédalos, son café sur les quais où je termine une petite rando après être monté jusqu'au belvédère qui surplombe cette opulence mêlant verdures et bâtiments de verre.
 
-Rien ne m’enflamme, la boule énergétique qui d’habitude me déborde semble assoupie tout au fond de moi, sans doute parce que je pense trop à l’avenir et à ce que je vais faire de ma vie d’écrivain. J’ai envie de jouer de mon imagination, d’habiter des lieux, quitte à les créer. J’ai envie de prendre mon temps. J’ai envie de choses imprécises, peut-être de pas grand-chose en fin de compte. Ce soir, on enregistre une TV avec Didier, je ne sais pas si je serai capable de jouer le jeu.
+Rien ne m'enflamme, la boule énergétique qui d'habitude me déborde semble assoupie tout au fond de moi, sans doute parce que je pense trop à l'avenir et à ce que je vais faire de ma vie d'écrivain. J'ai envie de jouer de mon imagination, d'habiter des lieux, quitte à les créer. J'ai envie de prendre mon temps. J'ai envie de choses imprécises, peut-être de pas grand-chose en fin de compte. Ce soir, on enregistre une TV avec Didier, je ne sais pas si je serai capable de jouer le jeu.
 
-Un soleil timide se glisse entre les montagnes nuageuses. Des vieux en fauteuils roulants entrent et sortent du café. Certains tremblent, prêts à s’écrouler. Quel destin de lamentable si on oublie de l’enchanter.
+Un soleil timide se glisse entre les montagnes nuageuses. Des vieux en fauteuils roulants entrent et sortent du café. Certains tremblent, prêts à s'écrouler. Quel destin de lamentable si on oublie de l’enchanter.
 
-Alors, faire, écrire plutôt que publier, car publier tend vers l’avenir, implique un processus qui déborde de beaucoup l’écriture. Elle seule me réjouit, elle seule m’ancre dans le présent, elle seule est vie.
+Alors, faire, écrire plutôt que publier, car publier tend vers l'avenir, implique un processus qui déborde de beaucoup l'écriture. Elle seule me réjouit, elle seule m’ancre dans le présent, elle seule est vie.
 
-Je suis dans un état de dépendance, tout changement d’état en moi ne peut résulter que des autres. Hier, un ami me demande de réfléchir à un roman sur la fleur de vie. Ce matin Geneviève me fait d’autres propositions. Il faut que je commence par me recentrer, sans doute écrire ce texte sur mon père que j’avais déjà en tête avant sa mort, et qui maintenant me devient urgemment nécessaire.
+Je suis dans un état de dépendance, tout changement d'état en moi ne peut résulter que des autres. Hier, un ami me demande de réfléchir à un roman sur la fleur de vie. Ce matin Geneviève me fait d'autres propositions. Il faut que je commence par me recentrer, sans doute écrire ce texte sur mon père que j'avais déjà en tête avant sa mort, et qui maintenant me devient urgemment nécessaire.
 
-D’où je parle ? Et donc à qui puis-je parler ? Je suis un privilégié, je suis écrivain à plein temps depuis mes trente ans, je vis librement, dans une certaine aisance, dans le luxe par certains côtés, j’ai la vie dont beaucoup rêvent.
+D'où je parle ? Et donc à qui puis-je parler ? Je suis un privilégié, je suis écrivain à plein temps depuis mes trente ans, je vis librement, dans une certaine aisance, dans le luxe par certains côtés, j'ai la vie dont beaucoup rêvent.
 
-« Fais ce qu’il te plaît » était la devise de mon père, même s’il n’avait pas lu *Gargantua*. J’ai hérité de lui sa philosophie, mes privilèges je les ai gagnés avec beaucoup de chance, et quelques décisions judicieuses prises au bon moment.
+« Fais ce qu'il te plaît » était la devise de mon père, même s'il n'avait pas lu *Gargantua*. J’ai hérité de lui sa philosophie, mes privilèges je les ai gagnés avec beaucoup de chance, et quelques décisions judicieuses prises au bon moment.
 
-Mais cette situation matérielle me paraît sans grande importance, en tout cas pas déterminante. D’où je parle ? Je suis né dans un milieu acculturé. Je me suis voulu écrivain dans un monde où tous autour de moi aspiraient à gagner plus d’argent. J’ai été dévoyé par des lectures et j’ai poussé « Le fais ce qu’il te plaît » bien au-delà de « Dépense ton argent tant que tu es vivant. »
+Mais cette situation matérielle me paraît sans grande importance, en tout cas pas déterminante. D'où je parle ? Je suis né dans un milieu acculturé. Je me suis voulu écrivain dans un monde où tous autour de moi aspiraient à gagner plus d'argent. J'ai été dévoyé par des lectures et j'ai poussé « Le fais ce qu'il te plaît » bien au-delà de « Dépense ton argent tant que tu es vivant. »
 
-Voilà d’où je parle, depuis un milieu où on n’est pas censé parler, mais simplement travailler. Je n’ai jamais connu la misère comme Camus, misère affective et financière, mais je pars des mêmes soubassements du monde… et peut-être que, quand on vient d’aussi profond, on n’aspire qu’à la liberté. Personne ne nous a enseigné la norme bourgeoise. Nous l’avons apprise pour la combattre.
+Voilà d'où je parle, depuis un milieu où on n'est pas censé parler, mais simplement travailler. Je n'ai jamais connu la misère comme Camus, misère affective et financière, mais je pars des mêmes soubassements du monde… et peut-être que, quand on vient d'aussi profond, on n'aspire qu'à la liberté. Personne ne nous a enseigné la norme bourgeoise. Nous l'avons apprise pour la combattre.
 
-J’ai dû acquérir la culture, je n’ai pas baigné dans son cocon, et contrairement à Camus je n’ai pas eu de maître pour m’initier, j’ai dû partir à l’aventure, persuadé qu’il y avait quelque chose dans cette direction. J’ai nécessairement perdu du temps, je suis un penseur qui ne trouve sa voix que peu à peu. Si Camus se savait condamné à mourir jeune, je dois mourir vieux, par nécessité.
+J’ai dû acquérir la culture, je n'ai pas baigné dans son cocon, et contrairement à Camus je n'ai pas eu de maître pour m'initier, j'ai dû partir à l'aventure, persuadé qu'il y avait quelque chose dans cette direction. J'ai nécessairement perdu du temps, je suis un penseur qui ne trouve sa voix que peu à peu. Si Camus se savait condamné à mourir jeune, je dois mourir vieux, par nécessité.
 
-![](https://tcrouzet.com/images_tc/2017/06/bienne1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/06/bienne1.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/06/bienne2.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/06/bienne2.jpg)
 
 ### Mercredi 3, Balaruc
 
-Aujourd’hui Émile a dix ans. Il y a dix ans, avec Isa, nous écoutions le débat présidentiel Sarkozy-Royal quand nous avons dû foncer à la maternité. Et je suis là, écoutant le même débat abêtissant.
+Aujourd'hui Émile a dix ans. Il y a dix ans, avec Isa, nous écoutions le débat présidentiel Sarkozy-Royal quand nous avons dû foncer à la maternité. Et je suis là, écoutant le même débat abêtissant.
 
 ### Dimanche 7, Balaruc
 
@@ -74,7 +74,7 @@ Le Président est pour la première fois plus jeune que moi. Pour le reste, rien
 
 ### Mardi 9, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/06/mai2017_9.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/06/mai2017_9.jpg)
 
 ### Mercredi 10, Balaruc
 
@@ -82,7 +82,7 @@ Inquiet de voir combien de gens que j’aime veulent croire en notre nouveau Pr�
 
 ---
 
-Tentation répétée de fermer mes comptes sociaux, de me replier sur mon blog, de définir ma vie depuis mon centre plutôt que d’obéir aux exigences des autres, à leurs mots autant qu’à leurs silences. Vivre pour jouir du monde, et non pas pour exposer aux autres de fausses jouissances.
+Tentation répétée de fermer mes comptes sociaux, de me replier sur mon blog, de définir ma vie depuis mon centre plutôt que d'obéir aux exigences des autres, à leurs mots autant qu'à leurs silences. Vivre pour jouir du monde, et non pas pour exposer aux autres de fausses jouissances.
 
 ### Vendredi 12, Balaruc
 
@@ -110,7 +110,7 @@ Saturation médiatique =&gt; Recentrage sur des valeurs pseudo sûres =&gt; Mim�
 
 ---
 
-J’aime assez [Mastodon](https://mamot.fr/@tcrouzet/1373242), plus tranquille que Twitter, mais étrangement, le politiquement acceptable de cette solution décentralisée n’engendre aucun bruit qui serait politiquement intéressant. C’est le concept même de socialisation numérique qui est à revoir, peut-être à jeter à la poubelle.
+J'aime assez [Mastodon](https://mamot.fr/@tcrouzet/1373242), plus tranquille que Twitter, mais étrangement, le politiquement acceptable de cette solution décentralisée n'engendre aucun bruit qui serait politiquement intéressant. C’est le concept même de socialisation numérique qui est à revoir, peut-être à jeter à la poubelle.
 
 ### Lundi 15, Balaruc
 
@@ -118,7 +118,7 @@ Avec *One Minute*, j’ai rêvé de faire passer pour non littéraire un texte l
 
 « C’est un mensonge, je le répète, que de prétendre que les romans servent seulement à passer un moment, à tuer le temps ; au contraire : ils servent à faire vivre le temps, pour le rendre plus intense et moins trivial. Mais surtout, ils servent à changer la perception du monde ; c’est-à-dire qu’ils servent à changer le monde. Le roman a besoin de se renouveler pour dire des vérités nouvelles ; il a besoin de changer pour nous changer : pour nous rendre tels que nous n’avons jamais été. »
 
-![](https://tcrouzet.com/images_tc/2017/06/mai2017_15.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/06/mai2017_15.jpg)
 
 ### Mardi 16, Balaruc
 
@@ -128,7 +128,7 @@ Je termine un article pour la revue [Fixxion](http://www.revue-critique-de-fixxi
 
 Sur Google Earth, je tombe sur un endroit lugubre en cherchant une adresse. Les voitures de Google nous révèlent la véritable facette du monde.
 
-![](https://tcrouzet.com/images_tc/2017/06/googlestr.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/06/googlestr.jpg)
 
 ---
 
@@ -156,37 +156,37 @@ La chose la plus difficile aujourd’hui : se taire, parce qu’il n’a jamais
 
 ---
 
-Je ne peux pas être seulement hédoniste. Une fois que j’ai joui du monde, j’éprouve le besoin de partager ma jouissance, pour qu’elle soit plus grande et que j’aie plus de chances de connaître de nouvelles jouissances. Je suis condamné à écrire.
+Je ne peux pas être seulement hédoniste. Une fois que j’ai joui du monde, j’éprouve le besoin de partager ma jouissance, pour qu'elle soit plus grande et que j’aie plus de chances de connaître de nouvelles jouissances. Je suis condamné à écrire.
 
 ### Vendredi 19, Maguelone
 
-![](https://tcrouzet.com/images_tc/2017/06/mai2017_19_1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/06/mai2017_19_1.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/06/mai2017_19_2.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/06/mai2017_19_2.jpg)
 
-### Mercredi 25, Montagnac
+### Mercredi 25, Maillardou
 
 Je m’installe dans ma mansarde, comme tous les étés, parce qu’il fait déjà chaud comme en été. J’entends au loin les enfants qui plongent dans la piscine. Les oiseaux et les insectes dans les chênes. Tout cela sur un silence immuable, le silence des débuts d’après-midi de juillet quand tout le monde fait la sieste parce qu’on ne peut rien faire d’autre. Comme je retarde tous les jours le moment de me mettre à mon livre sur mon père, je m’amuse à écrire *Adam*, au rythme d’un chapitre par jour. C’est ma gymnastique d’auteur.
 
-### Jeudi 26, Montagnac
+### Jeudi 26, Maillardou
 
-J’apprécie de moins en moins les repas où les gens se goinfrent et passent leur temps à s’extasier sur ce qu’ils mangent, tout ça parce que je ne peux plus les imiter sans passer la nuit avec des remontées acides, puis le payer cash quand je cours, fais du vélo, et même quand j’écris, parce que l’écriture est un sport d’endurance comme un autre et qu’elle exige les mêmes qualités physiques.
+J'apprécie de moins en moins les repas où les gens se goinfrent et passent leur temps à s'extasier sur ce qu'ils mangent, tout ça parce que je ne peux plus les imiter sans passer la nuit avec des remontées acides, puis le payer cash quand je cours, fais du vélo, et même quand j'écris, parce que l'écriture est un sport d'endurance comme un autre et qu'elle exige les mêmes qualités physiques.
 
-### Vendredi 27, Montagnac
+### Vendredi 27, Maillardou
 
 Sur la route en rentrant des courses, j’entends énumérer les règles imposées lors du ramadan : « Ne pas baiser durant la journée. » Ça, c’est très difficile à tenir. « Ne pas manger. » Mais mangez à en crever durant la nuit, et baiser aussi d’ailleurs. Pourquoi sommes-nous assez dingues pour nous imposer des rituels pareils ? Il en existe de semblables dans toutes les cultures, dans toutes les religions, et même chez les athées… La raison est simple : la vie n’a que le sens que nous lui donnons, alors notre raison défaille et invente des grands n’importe quoi.
 
 ---
 
-Je sors d’une sieste comateuse, comme je ne m’en autorise qu’en vacances, une autorisation inconsciente de fait. Je passe voir les enfants à la piscine, reviens sous la terrasse. Une voiture s’en va, un dernier reflet entre les arbres du bois et le silence retombe.
+Je sors d'une sieste comateuse, comme je ne m'en autorise qu'en vacances, une autorisation inconsciente de fait. Je passe voir les enfants à la piscine, reviens sous la terrasse. Une voiture s'en va, un dernier reflet entre les arbres du bois et le silence retombe.
 
 ---
 
-Sur un coup de tête, je m’amuse à lancer un nouveau projet sur Wattpad : *La phrase qui tue*, qui pourrait être un inventaire de phrases vénéneuses, et aussi une façon de fausser les statistiques de tracking de Wattpad, dérisoire, mais toujours ce désir de jouer avec les possibilités technologiques et voir si elles me poussent où je n’avais pas prévu d’aller.
+Sur un coup de tête, je m'amuse à lancer un nouveau projet sur Wattpad : *La phrase qui tue*, qui pourrait être un inventaire de phrases vénéneuses, et aussi une façon de fausser les statistiques de tracking de Wattpad, dérisoire, mais toujours ce désir de jouer avec les possibilités technologiques et voir si elles me poussent où je n'avais pas prévu d'aller.
 
 ---
 
-Je vais publier les chapitres en réserve d’*Adam* et puis marquer une pause. Le découpage à la *One Minute* me paraît trop artificiel dans ce texte, la forme ne soutenant pas le fond. Mon idée reste de démultiplier les points de vue pour montrer comment des gens variés, chacun avec leurs problèmes, progressent vers une forme de sérénité. Mais suis-je assez serein moi-même pour m’attaquer à ce défi, surtout quand d’autres grouillent en moi ? Alors, donner une chance à tous les projets, les mettre en concurrence, sur un plan strictement darwinien, et puis approfondir celui qui survivra.
+Je vais publier les chapitres en réserve d'*Adam* et puis marquer une pause. Le découpage à la *One Minute* me paraît trop artificiel dans ce texte, la forme ne soutenant pas le fond. Mon idée reste de démultiplier les points de vue pour montrer comment des gens variés, chacun avec leurs problèmes, progressent vers une forme de sérénité. Mais suis-je assez serein moi-même pour m’attaquer à ce défi, surtout quand d'autres grouillent en moi ? Alors, donner une chance à tous les projets, les mettre en concurrence, sur un plan strictement darwinien, et puis approfondir celui qui survivra.
 
 ---
 
@@ -204,4 +204,8 @@ Je lance plusieurs projets d’écriture en même temps pour ne pas me mettre à
 
 Pas quinze minutes que je suis arrivé, première terrasse, et le nez qui coule, je tousse, les publicités sur les panneaux, les devantures, les bus… me sautent à la gueule et ne me lâchent pas. Je n’ai plus ma place dans cette ville, sauf que j’y ai des amis, et que soudain tout s’éclaire grâce à eux. La ville n’est qu’un espace social difficile pour le corps.
 
-![](https://tcrouzet.com/images_tc/2017/06/mai2017_31.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/06/mai2017_31.jpg)
+
+
+
+Tags: Carnets, une

@@ -2,11 +2,11 @@
 
 Blois est un grand jardin fleuri avec des alignements d’arbres qui ouvrent des perspectives sur des empilements de toits chargés de cheminées baroques, de chiens couchés, de mansardes où j’aimerais dormir et me réchauffer, parce que le soleil en cette fin avril est encore incertain, la brise glaciale et mon autonomie d’artisan en extérieur plutôt limitée. Alors j’avale les fleurs, les verts, les chants des oiseaux, je stocke tout ça pour quand je serai au chaud.<span id="more-43959"></span>
 
-![blois 1](https://tcrouzet.com/images_tc/2016/04/blois1.jpg)
+![blois 1](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/blois1.jpg)
 
-![blois 2](https://tcrouzet.com/images_tc/2016/04/blois2.jpg)
+![blois 2](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/blois2.jpg)
 
-![blois 3](https://tcrouzet.com/images_tc/2016/04/blois3.jpg)
+![blois 3](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/blois3.jpg)
 
 Des pensées parasites me traversent comme toujours dans ces moments de rêverie. Elles font écho à des mots aigres reçus sur le Net où plus je dis ce que je pense, plus les gens se sentent attaqués dans les châteaux de cartes qu’ils se construisent, et que j’aime détruire, cela depuis que je suis enfant, parce que recommencer est toujours préférable pour moi à me tenir immobile.
 
@@ -24,7 +24,7 @@ De gros nuages chargés de pluie fondent vers moi. Le bout de mes doigts et mon 
 
 Blois, ville presque parfaite, avec ses multiples niveaux, ses ruelles, ses perspectives volées sur la Loire, avec au loin, à l’est, les deux cheminées menaçantes d’une centrale nucléaire. Aussi une surabondance de jeunes en vadrouille, abandonnés à eux-mêmes par quelques lycées ou déversés d’autobus d’excursion garés non loin du château royal. Par leur nombre, ils faussent la typologie sociale et me plongent dans une ambiance touristique, au factice renforcé par les enseignes « Pub » à chaque coin de rue. J’ai l’impression d’être dans un Londres de pacotille, d’autant que je croise un groupe d’Anglais éméchés. Demain, un match de rugby ? Plus loin, c’est alignement des Kebabs, une généralisation de la malbouffe à laquelle je succomberai si je ne trouve rien de plus appétissant.
 
-![blois 4](https://tcrouzet.com/images_tc/2016/04/blois4.jpg)
+![blois 4](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/blois4.jpg)
 
 Je suis perché au sommet des escaliers Denis Papin, sur les bancs disposés au sommet de cette enfilade magique. Une fille dit à sa copine : « Nous voilà au sommet du monde. » Elles se demandent quelles photos publier sur Instagram, soucieuses de leur image.
 
@@ -50,8 +50,12 @@ Sur un banc, une fille, un garçon, à l’opposé de mes deux vieux, les cheveu
 
 Blois est un théâtre. Je pourrais y passer quelques jours sans trop m’y attarder, de peur de me perdre dans les décors et de ne jamais plus m’en échapper. Je finis mon escapade justement dans un décor, celui de la Fondation Ben, tout à l’honneur de Fluxux, un mouvement dont je me revendique sans grande hésitation quand je pratique l’écriture interactive. Un lieu où je m’échoue après avoir rencontré un de mes lecteurs qui m’a géolocalisé par mes photos et mes messages sociaux et avec qui j’ai bu un verre, avec qui j’ai partagé des rêves et des craintes.
 
-![blois 5](https://tcrouzet.com/images_tc/2016/04/blois5.jpg)
+![blois 5](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/blois5.jpg)
 
-![Ben 2](https://tcrouzet.com/images_tc/2016/04/blois6.jpg)
+![Ben 2](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/blois6.jpg)
 
-![fluxus](https://tcrouzet.com/images_tc/2016/04/fluxus.jpg)
+![fluxus](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/fluxus.jpg)
+
+
+
+Tags: Liberté, une, vagabondage

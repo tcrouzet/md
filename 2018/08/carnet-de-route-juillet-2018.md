@@ -70,61 +70,61 @@ Je parle de ma déconnexion de 2011. Je parle d’internet comme territoire. On 
 
 Au café, avec un photographe dont j’ai oublié le nom. Je parle de la barque de mon père qui pourrit dans mon jardin. Personne n’en veut. J’évoque l’idée de la détruire à coups de masse. « Casser la barque », me dit le photographe. Oui, peut-être ainsi finir par digérer mon père.
 
-![Autun, cathédrale](https://tcrouzet.com/images_tc/2018/08/P1060108.jpg)
+![Autun, cathédrale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060108.jpg)
 
-![Autun, cathédrale](https://tcrouzet.com/images_tc/2018/08/P1060115.jpg)
+![Autun, cathédrale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060115.jpg)
 
-![Autun, jardin](https://tcrouzet.com/images_tc/2018/08/P1060116.jpg)
+![Autun, jardin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060116.jpg)
 
-![Autun, cathédrale](https://tcrouzet.com/images_tc/2018/08/P1060117.jpg)
+![Autun, cathédrale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060117.jpg)
 
-![Autun, verdure](https://tcrouzet.com/images_tc/2018/08/P1060123.jpg)
+![Autun, verdure](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060123.jpg)
 
 ### Samedi 14, Autun
 
-Je m’en vais courir dans la forêt au-dessus de la ville, dont la cathédrale émerge de la végétation. Je grimpe au plus haut, puis pars au hasard dans de beaux chemins balisés pour le VTT. Pas de téléphone, pas de carte, je me laisse porter avant de bifurquer au jugé et de regagner la ville au bout d’une heure. Dans le jardin de l’hôtel, je retrouve Andreina, mon hôte, nous parlons. Bientôt un client me demande de parler moins fort. Mes propos le dérangent. Je lui réponds que ses pensées sublimes m’importunent. Andreina me demande de laisser tomber. L’homme replonge sur son portable, pendant que sa femme, le nez sur le sien, ne bronche pas. Voilà dans quel monde de cons nous vivons. Un type m’empêche de parler haut parce que je dérange sa méditation téléphonique.
+Je m’en vais courir dans la forêt au-dessus de la ville, dont la cathédrale émerge de la végétation. Je grimpe au plus haut, puis pars au hasard dans de beaux chemins balisés pour le VTT. Pas de téléphone, pas de carte, je me laisse porter avant de bifurquer au jugé et de regagner la ville au bout d’une heure. Dans le jardin de l'hôtel, je retrouve Andreina, mon hôte, nous parlons. Bientôt un client me demande de parler moins fort. Mes propos le dérangent. Je lui réponds que ses pensées sublimes m’importunent. Andreina me demande de laisser tomber. L’homme replonge sur son portable, pendant que sa femme, le nez sur le sien, ne bronche pas. Voilà dans quel monde de cons nous vivons. Un type m’empêche de parler haut parce que je dérange sa méditation téléphonique.
 
 ---
 
 Autun, ville ancienne, à l’aspect ancien, impression délectable d’être au XIX<sup>e</sup> ou dans un roman de Simenon. Des panneaux à vendre à toutes les fenêtres. La population serait passée de 25 000 habitants à 15 000 en une décennie. Un drame : au contraire, le charme de cette dépopulation est certain, la ville respire sur un rythme unique en notre temps. Je visite le musée Rolin. Avec ses mille ans d’âge, l’Ève à la belle poitrine me fait de l’œil. Puis nous parlons encore, déjeunons, prenons le bus jusqu’au mont Beuvray où se prolonge le festival. Je ne me sens pas très bien dans cette espèce de pelouse arrachée d’un parc parisien. Retour avant la nuit, dans la ville où à 21 heures il est déjà difficile de se faire servir à manger.
 
-![La tentation d'Ève](https://tcrouzet.com/images_tc/2018/08/P1060132.jpg)
+![La tentation d'Ève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060132.jpg)
 
-![La tentation d'Ève](https://tcrouzet.com/images_tc/2018/08/P1060133.jpg)
+![La tentation d'Ève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060133.jpg)
 
 ### Dimanche 15, Autun
 
 Après une nouvelle course en forêt, je traîne sous les tilleuls du Champ-de-Mars, la place centrale. Les festivaliers passent avec leur petit bracelet distinctif. Je ne me sens aucun point commun avec eux. Il règne ici le même m’as-tu-vu que sur les réseaux sociaux. Une volonté affichée par chacun d’être au-dessus, de ne pas se mêler. J’ai traversé la ville en tentant d’attraper un regard, d’échanger un sourire. Je n’ai pas réussi, les têtes se détournent de loin. Surout que personne ne brise notre entre soi.
 
-Hier, au sommet du mon Breuvray, j’étais allongé dans l’herbe avec Andreina, un de ses amis et mon copain Hubert, nous regardions une gamine tenter de faire la roue pendant que sa mère la photographiait. Soudain, Andreina s’est levée, s’est dirigée vers la femme. « Isabelle, toi, c’est incroyable. » Et moi, de reconnaître une vieille connaissance, avec qui nous partagions tous les deux un ami très proche, mort malheureusement. Nous nous embrassons, échangeons quelques souvenirs, puis tout un aréopage se rassemble autour d’elle, des gens d’un autre monde, tous travaillant pour le même célèbre éditeur, entre eux et moi aucune possibilité de communication. Déjà ils se lèvent, s’en vont manger, sans rien nous dire, ma connaissance avec eux. Rien, pas un au revoir. Cette impolitesse plus que cette superficialité m’a noué la gorge. Je ne pouvais pas rester une seconde de plus au sommet du mont Breuvray où s’était rassemblée cette bande de monstres à forme vaguement humanoïde.
+Hier, au sommet du mon Breuvray, j’étais allongé dans l’herbe avec Andreina, un de ses amis et mon copain Hubert, nous regardions une gamine tenter de faire la roue pendant que sa mère la photographiait. Soudain, Andreina s’est levée, s’est dirigée vers la femme. « Isabelle, toi, c’est incroyable. » Et moi, de reconnaître une vieille connaissance, avec qui nous partagions tous les deux un ami très proche, mort malheureusement. Nous nous embrassons, échangeons quelques souvenirs, puis tout un aréopage se rassemble autour d’elle, des gens d’un autre monde, tous travaillant pour le même célèbre éditeur, entre eux et moi aucune possibilité de communication. Déjà ils se lèvent, s'en vont manger, sans rien nous dire, ma connaissance avec eux. Rien, pas un au revoir. Cette impolitesse plus que cette superficialité m’a noué la gorge. Je ne pouvais pas rester une seconde de plus au sommet du mont Breuvray où s’était rassemblée cette bande de monstres à forme vaguement humanoïde.
 
 ---
 
-Dans la semaine, j’ai cherché à rétablir le contact avec un vieil ami qui, quand nous étions jeunes, a illustré [*L’affaire Deluze*](https://tcrouzet.com/deluze/). Pas de trace de lui sur les réseaux sociaux (je n’en suis pas surpris, il n’a donc pas changé). Rien de plus ailleurs sur le Net. Je finis par voir son nom apparaître par un faire-part de décès publié dans *La dépêche du Midi*. Cet ami, si c’était lui, a perdu sa fille, âgée de vingt ans, quelques années plus tôt. Rien d’autre. Dans le faire-part, il apparaît aussi le nom de la maman de la jeune femme. Qui ne portait plus le nom de mon ami. Je l’ai cherchée, elle. Une seule trace, dans un PDF, où je déniche son mail. Elle m’a téléphoné, elle m’a dit qu’elle transmettait mes coordonnées à mon ami, il s’agissait bien de lui.
+Dans la semaine, j’ai cherché à rétablir le contact avec un vieil ami qui, quand nous étions jeunes, a illustré [*L’affaire Deluze*](https://tcrouzet.com/deluze/). Pas de trace de lui sur les réseaux sociaux (je n’en suis pas surpris, il n'a donc pas changé). Rien de plus ailleurs sur le Net. Je finis par voir son nom apparaître par un faire-part de décès publié dans *La dépêche du Midi*. Cet ami, si c’était lui, a perdu sa fille, âgée de vingt ans, quelques années plus tôt. Rien d’autre. Dans le faire-part, il apparaît aussi le nom de la maman de la jeune femme. Qui ne portait plus le nom de mon ami. Je l’ai cherchée, elle. Une seule trace, dans un PDF, où je déniche son mail. Elle m’a téléphoné, elle m’a dit qu’elle transmettait mes coordonnées à mon ami, il s’agissait bien de lui.
 
 ### Lundi 16, Autun
 
-![Autun, la gare](https://tcrouzet.com/images_tc/2018/08/P1060149.jpg)
+![Autun, la gare](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060149.jpg)
 
-![Autun, la gare](https://tcrouzet.com/images_tc/2018/08/P1060153.jpg)
+![Autun, la gare](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060153.jpg)
 
 ### Lundi 16, Balaruc
 
-Mon père aurait eu 82 ans aujourd’hui. Est-ce que je poursuivrai ce décompte jusqu’à mon dernier souffle ? Ou vais-je peu à peu m’habituer ? Comme si on pouvait s’habituer à la mort d’un père.
+Mon père aurait eu 82 ans aujourd'hui. Est-ce que je poursuivrai ce décompte jusqu'à mon dernier souffle ? Ou vais-je peu à peu m'habituer ? Comme si on pouvait s'habituer à la mort d'un père.
 
 ---
 
 À Autun, [des enfants m’ont croqué](https://reporters.1jour1actu.com/webj/ateliers-les-rendez-vous-de-juillet-vendredi-13-juillet-2018-a-14h30-11-14-ans/2677).
 
-![Croqué par le journaliste de presse Jacques Azam](https://tcrouzet.com/images_tc/2018/08/JacquesAzam.jpeg)
+![Croqué par le journaliste de presse Jacques Azam](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/JacquesAzam-600x320.jpeg)
 
 ### Mardi 17, Balaruc
 
-Aux US, nos enfants devront chacun avoir un MacBook Pro. Du coup, me voilà obligé d’en acheter un neuf pour leur refiler le mien.
+Aux US, nos enfants devront chacun avoir un MacBook Pro. Du coup, me voilà obligé d'en acheter un neuf pour leur refiler le mien.
 
 ---
 
-Je vais à la maison du sport faire une visite médicale et un test d’effort. Le toubib me dit que je suis aussi affûté qu’un coureur du Tour. Sur le home-trainer, je pédale durant vingt minutes de plus en plus vite, jusqu’à atteindre mon VO2max. Bilan, j’arrive à produire 250 watts, ce qui pourrait être mieux si j’étais un peu plus musclé, mais, en plus d’avoir une capacité respiratoire hors norme, je récupère à une vitesse incroyable, mieux que la plupart des professionnels qui sont passés sur la machine avant moi. J’aurais dû faire une autre carrière… quoi que l’endurance, ça compte aussi quand on choisit la voie artistique.
+Je vais à la maison du sport faire une visite médicale et un test d'effort. Le toubib me dit que je suis aussi affûté qu'un coureur du Tour. Sur le home-trainer, je pédale durant vingt minutes de plus en plus vite, jusqu'à atteindre mon VO2max. Bilan, j'arrive à produire 250 watts, ce qui pourrait être mieux si j'étais un peu plus musclé, mais, en plus d'avoir une capacité respiratoire hors norme, je récupère à une vitesse incroyable, mieux que la plupart des professionnels qui sont passés sur la machine avant moi. J'aurais dû faire une autre carrière… quoi que l'endurance, ça compte aussi quand on choisit la voie artistique.
 
 ---
 
@@ -132,15 +132,15 @@ Isa et les enfants ont reçu leur visa. Eux, au moins, ils passeront la prochain
 
 ### Jeudi 19, Paris
 
-Hier, j’ai passé la journée à configurer mon nouveau MacBook Pro. Aujourd’hui, après presque quatre heures de travail non-stop dans le TGV, j’ai les yeux en compote. Cet écran me fatigue, si bien que mon champ de vision s’est réduit. Je me demande ce qui dans cet écran provoque en moi ce changement ? [J’avais noté le même problème il y a presque deux ans avec cette génération de MacBook Pro.](https://tcrouzet.com/2016/12/09/pourquoi-je-retourne-mon-macbook-pro-2016/)
+Hier, j’ai passé la journée à configurer mon nouveau MacBook Pro. Aujourd'hui, après presque quatre heures de travail non-stop dans le TGV, j’ai les yeux en compote. Cet écran me fatigue, si bien que mon champ de vision s’est réduit. Je me demande ce qui dans cet écran provoque en moi ce changement ? [J'avais noté le même problème il y a presque deux ans avec cette génération de MacBook Pro.](https://tcrouzet.com/2016/12/09/pourquoi-je-retourne-mon-macbook-pro-2016/)
 
 ### Vendredi 20, Paris
 
-Rendez-vous à l’ambassade US pour mon visa. Processus impressionnant, mais je n’ai droit qu’à trois questions. « Pourquoi demandez-vous un visa B1/B2, visa tourisme longue durée ? » Parce que nous avons inscrit nos enfants à l’école chez vous et que nous les accompagnons. « Pourquoi êtes-vous allé en Iran ? » Parce que j’ai deux livres qui ont été traduits en farsi. « Vous avez donné des conférences ? » Oui. « Merci, on vous renvoie votre passeport d’ici une semaine. »
+Rendez-vous à l'ambassade US pour mon visa. Processus impressionnant, mais je n'ai droit qu’à trois questions. « Pourquoi demandez-vous un visa B1/B2, visa tourisme longue durée ? » Parce que nous avons inscrit nos enfants à l'école chez vous et que nous les accompagnons. « Pourquoi êtes-vous allé en Iran ? » Parce que j'ai deux livres qui ont été traduits en farsi. « Vous avez donné des conférences ? » Oui. « Merci, on vous renvoie votre passeport d'ici une semaine. »
 
-En sortant de l’ambassade, j’entre dans une Fnac pour poser mes doigts sur un Surface Book de Microsoft. Une belle bête, plus puissante que le MacBook Pro, un meilleur clavier, un meilleur écran qui de toute évidence ne fusille pas mes yeux.
+En sortant de l'ambassade, j'entre dans une Fnac pour poser mes doigts sur un Surface Book de Microsoft. Une belle bête, plus puissante que le MacBook Pro, un meilleur clavier, un meilleur écran qui de toute évidence ne fusille pas mes yeux.
 
-Mais je reste prisonnier d’Apple. Je viens encore de tester IA Writer, pas si mal, mais même sur Mac il est nettement moins performant (et la version Windows n’est qu’un draft). Ma vue a un peu baissé, j’ai une ordonnance pour de nouvelles lunettes, je vais devoir en changer.
+Mais je reste prisonnier d'Apple. Je viens encore de tester IA Writer, pas si mal, mais même sur Mac il est nettement moins performant (et la version Windows n’est qu’un draft). Ma vue a un peu baissé, j’ai une ordonnance pour de nouvelles lunettes, je vais devoir en changer.
 
 ### Samedi 21, Balaruc
 
@@ -164,7 +164,7 @@ J’ai reçu mon visa. Je suis bon pour les US.
 
 ---
 
-J’ai trouvé comment ne pas avoir mal aux yeux sur mon MacBook Pro : je ne l’utilise pas. Je vis en déroulant l’infinie liste des choses à faire avant le départ.
+J'ai trouvé comment ne pas avoir mal aux yeux sur mon MacBook Pro : je ne l’utilise pas. Je vis en déroulant l’infinie liste des choses à faire avant le départ.
 
 ### Samedi 28, Balaruc
 
@@ -178,4 +178,8 @@ Nous trions, jetons, des années d’accumulation administrative et autre. Une p
 
 Nettoyage. Réparations. Réglages. On dirait que nous allons vendre la maison.
 
-![Bleu laiteux](https://tcrouzet.com/images_tc/2018/08/P1060163.jpg)
+![Bleu laiteux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/08/P1060163.jpg)
+
+
+
+Tags: Carnets, une

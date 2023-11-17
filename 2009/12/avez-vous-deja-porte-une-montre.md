@@ -1,6 +1,6 @@
 # Avez-vous déjà porté une montre ?
 
-Du fond de ma grippe, j’ai lu *La société de flux* d’Andrea Semprini, publié en 2003. Il y insiste sur l’évolution de notre rapport au temps, sur la disparition de l’idée de rendez-vous et la dimension temporelle du Flux.<span id="more-12802"></span>
+Du fond de ma grippe, j'ai lu *La société de flux* d’Andrea Semprini, publié en 2003. Il y insiste sur l’évolution de notre rapport au temps, sur la disparition de l’idée de rendez-vous et la dimension temporelle du Flux.<span id="more-12802"></span>
 
 Sur certaines liaisons aériennes ou ferroviaires, nous savons qu’il y a toujours une navette de prévue. Nous allons souvent faire nos courses sans nous poser la question de savoir si les magasins sont ouverts ou non (surtout aux États-Unis ou chez nous en période de fêtes). En ligne, les services (banques, news…) sont continuellement accessibles.
 
@@ -49,3 +49,5 @@ Mais je ne suis pas un observateur comme Semprini, je suis un militant. Le Flux 
 > En démultipliant les plans de référence, la temporalité de flux reconnaît la multiplicité des expériences et la diversité de manière d’accéder au réel. Sans nier l’objectivité, elle l’enrichit d’éléments d’imaginaire et d’éléments de subjectivité. Elle finit donc, paradoxalement, par rendre les plans de référence et les expériences plus authentiques et plus proches de la réalité vécue par les individus. La deuxième conséquence de ce changement de logique temporelle découle de cette mise entre parenthèse du réel référentiel et objectif. Il s’agit de l’essor de l’imagination comme force sociale.
 
 *PS : Dans son second chapitre, Semprini liste tous les courants de pensée qu’il mêle et qu’il croise. Je serai bien incapable d’avoir lu autant d’auteurs puis de réussir à écrire sur un sujet. C’est d’ailleurs pour ça que je ne lis Semprini qu’après avoir achevé mon manuscrit. Je retrouve chez lui bien des mots communs, souvent certains qu’il développe ne font que passer chez moi, parfois c’est le contraire.*
+
+Tags: NetCulture

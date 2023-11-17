@@ -12,4 +12,6 @@ Si vous êtes simplement intéressé par la politique, vous pouvez vous abonner 
 
 bonVote.com est un service développé par bonWeb.com. Il est actuellement dans une phase expérimentale. Toutes les suggestions sont les bienvenues.
 
-Se continue [ici](https://tcrouzet.com/2006/07/25/blogs-et-politiques-bis/), puis [ici](https://tcrouzet.com/2006/07/25/blogs-et-politiques-ter/).
+Se continue [ici](http://blog.tcrouzet.com/2006/07/25/blogs-et-politiques-bis/), puis [ici](http://blog.tcrouzet.com/2006/07/25/blogs-et-politiques-ter/).
+
+Tags: Buzz

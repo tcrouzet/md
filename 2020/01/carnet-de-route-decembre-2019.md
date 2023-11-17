@@ -6,9 +6,9 @@
 
 Les égouts ont débordé, à leur point bas, dans le studio du jardin qu’Isa a transformé en bureau pour s’isoler de la maison. Ce n’est pas la première fois, c’est assez déplaisant comme nettoyage. Alors j’envoie le furet par un regard, deux mètres plus loin il se heurte à un obstacle. J’ouvre un second regard auquel je n’ai pas touché depuis des années. Surprise : de grosses racines entourent le tuyau. Je dévisse la trappe de visite et la découvre obstruée par des radicelles. Quand j’arrache le bouchon, ce n’est pas beau à voir. Je passe la matinée à nettoyer, rincer, désinfecter. La vie, quoi, peut-être la vraie vie, trop souvent ignorée par la littérature, incapable de faire le grand écart entre toutes les dimensions existentielles.<span id="more-53219"></span>
 
-![Soir](https://tcrouzet.com/images_tc/2020/01/IMG_7804.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_7804.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2020/01/IMG_7808.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_7808.jpeg)
 
 ### Lundi 2, TGV
 
@@ -22,7 +22,7 @@ Fête pour les dix ans de La manufacture de livres dans un café près de la pla
 
 Arrivé juste à temps pour saisir le dernier rougeoiement au bout d’un canal. Guidé jusqu’à la place centrale par Hervé Weiss où, au pied du temple ostentatoire, les odeurs pullulantes du marché de Noël me retournent les neurones. Une symphonie avec vin chaud en chef d’orchestre, cannelle aux tambours, pains d’épice aux violons, fromages fondus à la contrebasse et sucreries aux cuivres. Le froid se plaque à moi, sec, saisissant. J’en ai perdu l’habitude et jusqu’au plaisir de l’affronter. Sans être désorienté, parce que le centre-ville est minuscule, je ne sais pas trop où je suis, Hervé me faisant danser en rond comme pour me perdre, dans des rues qui, dans la nuit et la lumière électrique, n’ont rien de particulier, sinon des enseignes normalisées. Il faut regarder du côté d’une pâtisserie alsacienne pour que je me montre intraitable face aux tentations proposées (auxquelles succombe Marie-Anne). Nous nous retrouvons au chaud dans la librairie Bisey, où s’en suit une rencontre intimiste.
 
-![Mulhouse](https://tcrouzet.com/images_tc/2020/01/IMG_7832.jpeg)
+![Mulhouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_7832.jpeg)
 
 ### Mercredi 4, Mulhouse
 
@@ -32,11 +32,11 @@ Je me réveille de plus en plus tôt, me couche de plus en plus tôt, sur la pen
 
 Mulhouse, une ville parce qu’il faut bien vivre, une ville avec sa place centrale, son monument, ses rues commerçantes avec les mêmes commerces que partout ailleurs, des maisons avec portes et fenêtres, des rues minérales, froides, grises malgré le soleil éclatant, mais trop bas pour percer le sol, réchauffer les bâtiments qui se veulent bourgeois à moindres frais, qui n’attrapent pas l’œil, qui ordonnent de m’éloigner de ce centre sans autre raison d’être que géométrique. Je me dirige vers le canal aperçu hier, traverse une cité vaguement turinoise, avec immeubles rouges à arcades, disposés autour d’une place triangulaire et verdoyante, un semblant de recherche, de lumière. Un peu plus loin, je rejoins le canal et découvre qu’il s’agit du canal du Rhône au Rhin, un canal qui donc mène jusqu’à ma maison. Me voilà reconnecté à mes racines par un filament de molécules de H2O, et sans doute une très faible déclivité. Mulhouse souffre de sa platitude, tout juste si remontant le canal, j’aperçois une vague colline grise. L’herbe est blanche de givre, les flaques gelées, je tente de m’asseoir sur un banc et me trempe les fesses. Je repars boitillant, ma jambe droite rétive. Elle fonctionne à merveille à vélo, mais me chagrine à pied, mon genou étant très douloureux en ce moment, comme si mon fémur lui imposait des tensions que lui-même ne supporte plus.
 
-![Mulhouse](https://tcrouzet.com/images_tc/2020/01/IMG_7855.jpeg)
+![Mulhouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_7855.jpeg)
 
-![Mulhouse](https://tcrouzet.com/images_tc/2020/01/IMG_7880.jpeg)
+![Mulhouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_7880.jpeg)
 
-![Mulhouse](https://tcrouzet.com/images_tc/2020/01/IMG_7889.jpeg)
+![Mulhouse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_7889.jpeg)
 
 ### Mercredi 4, Paris
 
@@ -60,11 +60,11 @@ Je marche dans Paris sans éprouver le moindre dépaysement. J’y suis chez moi
 
 ### Samedi 7, Balaruc
 
-![À vélo](https://tcrouzet.com/images_tc/2020/01/IMG_7938.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_7938.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/01/IMG_7939.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_7939.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/01/IMG_7943.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_7943.jpeg)
 
 ### Dimanche 8, Balaruc
 
@@ -74,7 +74,7 @@ Petite forme, mais on va étrenner le vélo électrique d’Isa. Elle avale 40 k
 
 [Je publie un article sur les pédales vélos](https://tcrouzet.com/2019/12/08/gravel-vtt-et-bikepacking-pedales-auto-ou-plates/), un grand débat chez nous autres cyclistes. Plutôt que d’argumenter pour un style ou un autre, les commentateurs racontent ce qu’ils font, ils parlent de leurs habitudes, s’enfonçant dans leur irrationalité et leur solipsisme. Les réseaux sociaux mettent en évidence nos défaillances collectives à une échelle microscopique. Une discussion sur le vélo en dit beaucoup sur nous tous.
 
-![Bellevue](https://tcrouzet.com/images_tc/2020/01/IMG_7954.jpeg)
+![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_7954.jpeg)
 
 ### Lundi 9, Balaruc
 
@@ -96,7 +96,7 @@ Le héros s’appauvrirait au fil de l’histoire, déjà bien dégarni au débu
 
 *L’Appauvrissement* pourrait être une pièce de théâtre, un long dialogue où les idées deviennent de plus en plus difficiles à exprimer. Je ne sais pas pourquoi cette idée théâtre me vient.
 
-![Matin](https://tcrouzet.com/images_tc/2020/01/IMG_7968.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_7968.jpeg)
 
 ### Vendredi 13, Balaruc
 
@@ -142,17 +142,17 @@ Un technicien vient installer la fibre, mais il se heurte à un obstacle au nive
 
 Quatorze heures, Émile collé, je l’attends sans un café près du marché parmi une foule de bobos avinés. Des femmes entourent un beau gosse avec de petits yeux qui ne respirent ni la santé ni l’intelligence. Une des femmes ne cesse de le caresser, il lui rend ses caresses. Un quadra genre artiste vient lui parler, le courtiser, puis le beau-gosse se détourne de lui, revient à cette femme, et le courtisan, comme un con, mal à l’aise, mais qui ne s’enfuit pas. J’ai envie d’aller le voir, de lui dire de ne pas se faire du mal, mais le beau-gosse revient vers lui, je ne sais qu’elle porte il peut lui ouvrir, une porte immonde vers la suffisance.
 
-Sète a toujours été m’as-tu-vu, snob, prétentieuse, et l’arrivée du monde de la TV et du cinéma ne l’arrange pas. Voilà mon courtisan à nouveau planté, au milieu d’une phrase, l’autre parti voir quelqu’un d’autre, lui tournant le dos. Il faut être désespéré pour supporter cette farce. Le courtisan tourne en rond avec son verre, je ne réussis pas à attraper son regard, à lui faire signe, à l’empêcher de se noyer dans l’alcool, il m’évite comme s’il sentait mon jugement. Le beau gosse daigne revenir vers lui, il rit, un rire rouge d’alcool. Une femme est tout aussi rouge, déformée, le nez en bouchon de champagne tuméfié.
+Sète a toujours été m'as-tu-vu, snob, prétentieuse, et l’arrivée du monde de la TV et du cinéma ne l’arrange pas. Voilà mon courtisan à nouveau planté, au milieu d’une phrase, l’autre parti voir quelqu’un d'autre, lui tournant le dos. Il faut être désespéré pour supporter cette farce. Le courtisan tourne en rond avec son verre, je ne réussis pas à attraper son regard, à lui faire signe, à l’empêcher de se noyer dans l’alcool, il m’évite comme s’il sentait mon jugement. Le beau gosse daigne revenir vers lui, il rit, un rire rouge d’alcool. Une femme est tout aussi rouge, déformée, le nez en bouchon de champagne tuméfié.
 
-J’ignore le lien de dépendance qui soude ces figures et les pousse à boire pour trouver la force de ne pas se décoller comme si un miracle pouvait se produire à l’issue de leur proximité môle. Le beau gosse joue à l’heureux, centre d’attraction, petit soleil d’un système stellaire sans vitalité. Il raconte des blagues et tous explosent de rires, des rires exagérés, des rires de théâtres comme pour être perçus des derniers rangs.
+J'ignore le lien de dépendance qui soude ces figures et les pousse à boire pour trouver la force de ne pas se décoller comme si un miracle pouvait se produire à l’issue de leur proximité môle. Le beau gosse joue à l’heureux, centre d’attraction, petit soleil d’un système stellaire sans vitalité. Il raconte des blagues et tous explosent de rires, des rires exagérés, des rires de théâtres comme pour être perçus des derniers rangs.
 
 Je m’attendais à rêvasser en ce début d’après-midi, à plonger dans une méditation poétique, à flotter entre les mots et j’ai sous les yeux un spectacle de démolition, de destruction, d’effondrement, d’autant plus effrayant que ses acteurs n’en ont pas conscience. Dans mon coin, sur ma banquette de moleskine, je ne suis pas là, je n’existe pas, je suis invisible, enfermé dans mon propre snobisme.
 
 Le courtisan s’esquive et les autres se moquent de lui. Le beau gosse l’enterre, le harponne. Je n’entends pas les mots, mais je les sais par cœur, comme dans les romans qui veulent faire mal aux lecteurs en faisant mal à leurs héros. C’est dégueulasse, il y a des gens immondes. Et moi je ne vaux pas mieux parce que je me tais, témoin impassible d’un crime.
 
-![Soir](https://tcrouzet.com/images_tc/2020/01/IMG_8004-1.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8004-1.jpeg)
 
-![Planche](https://tcrouzet.com/images_tc/2020/01/IMG_8012.jpeg)
+![Planche](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8012.jpeg)
 
 ### Jeudi 19, Balaruc
 
@@ -164,7 +164,7 @@ Il y a quelque chose de poignant à lire Nucéra, qui parle de son tour de Franc
 
 ### Samedi 21, Balaruc
 
-![À vélo](https://tcrouzet.com/images_tc/2020/01/IMG_8030.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8030.jpeg)
 
 ### Dimanche 22, Balaruc
 
@@ -236,11 +236,11 @@ Les discours sur l’effondrement ont pour effet de pousser au vice, à la surco
 
 Que faire sinon vivre une autre vie, montrer qu’elle est heureuse et permet d’échapper à l’effondrement ? Mais rien ne sert de le crier, ou même d’écrire des livres explicites à ce sujet, surtout pas des essais théoriques, il faut raconter d’autres façons, réveiller l’espoir. Quel rapport cela pourrait entretenir avec *L’appauvrissement* ? Plus je me déleste de mots, plus je suis heureux ? J’ai toujours pensé le contraire. Deux personnages pourraient s’opposer. L’un perd ses mots et devient de plus en plus malheureux, l’autre en gagne et devient de plus en plus heureux. Une sorte de vase communicant.
 
-![La cathédrale](https://tcrouzet.com/images_tc/2020/01/IMG_8056.jpeg)
+![La cathédrale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8056.jpeg)
 
-![Canal de la Marne au Rhin](https://tcrouzet.com/images_tc/2020/01/IMG_8081.jpeg)
+![Canal de la Marne au Rhin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8081.jpeg)
 
-![La tour](https://tcrouzet.com/images_tc/2020/01/IMG_8096.jpeg)
+![La tour](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8096.jpeg)
 
 ### Mercredi 25, Nancy
 
@@ -266,13 +266,13 @@ Au fond, je n’aime pas pédaler en leur compagnie. Ils ne font du vélo que po
 
 *Dorian Gray* n’est pas un roman narratif, mais réflexif. L’action est sans cesse questionnée, arrêtée, regardée. Je n’ai plus aucune envie d’écrire de tels romans, je veux être dans la filmique narrative : montrer *Dorian Gray* vivant et non plus son portrait qui alors n’est plus que le portrait d’un portrait d’un portrait… Pour le portrait, il y a la photographie. Pour la filmique n’y a-t-il pas le cinéma et la vidéo ? Non, le premier exige une reconstruction, la seconde ne montre que ce qui a eu le temps d’être saisi. La narration filmique n’est ni reconstruction ni saisie, elle est création *ex nihilo* comme un cinéma à effets spéciaux. Mais alors *L’Étranger* ? N’est-ce pas un pur exemple de filmique littéraire ? Peut-être, mais rien n’empêche de filmer des émotions, des pensées, de filmer des personnages héroïques, en évitant que la caméra ne se regarde elle-même.
 
-![Le port](https://tcrouzet.com/images_tc/2020/01/IMG_8103.jpeg)
+![Le port](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8103.jpeg)
 
-![La Meurte](https://tcrouzet.com/images_tc/2020/01/IMG_8125.jpeg)
+![La Meurte](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8125.jpeg)
 
-![Nancy](https://tcrouzet.com/images_tc/2020/01/IMG_8157.jpeg)
+![Nancy](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8157.jpeg)
 
-![Canal de la Marne au Rhin](https://tcrouzet.com/images_tc/2020/01/IMG_8171.jpeg)
+![Canal de la Marne au Rhin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8171.jpeg)
 
 ### Jeudi 26, Nancy
 
@@ -286,9 +286,9 @@ Aujourd’hui, je n’ai pas marché, il m’a suffi de me perdre comme je ne r�
 
 Le rituel des fêtes centré sur les repas trop riches et trop commentés et trop préparés ressemble à la ville où ils se jouent. Ils s’éternisent et me font me sentir de plus en plus mal, parce que je m’y vois de plus en plus animal alors que nous sommes censés célébrer notre humanité la plus positive. Moi qui mange peu, je ne peux nier cette nourriture trop souvent protéinée empilée devant moi, elle est comme une insulte et je me ferme à elle, et pour me protéger d’elle, de ses incitations perverses, je me ferme aussi à la joie de mes proches qui m’apparaît presque comme une provocation. Je pourrais ne pas être là, mais j’éprouverai alors une autre forme de chagrin, si bien que la situation est sans issue, à moins que nous fuyions à la montagne et que nous agitions nos corps dans la neige jusqu’à éclater de rire.
 
-J’ai relu cette nuit deux des *Vies minuscules* de Michon et je vois clair dans son jeu désormais : il ne parle que de lui, il n’a écrit que sa propre vie, toujours avec la même voix, le même rythme et point de vue, qu’il s’agisse d’un homme ou d’une femme ou même d’une enfant morte trop tôt. Il a attendu ce texte et il a fini par lui tomber dessus, laissant croire à la possibilité d’un miracle aux jeunes auteurs. J’ai eu l’impression que mes *Ravissements* m’étaient également tombés dessus, et je les ai déjà presque oubliés, me demandant ce que je pourrais faire d’eux.
+J’ai relu cette nuit deux des *Vies minuscules* de Michon et je vois clair dans son jeu désormais : il ne parle que de lui, il n’a écrit que sa propre vie, toujours avec la même voix, le même rythme et point de vue, qu’il s’agisse d’un homme ou d’une femme ou même d’une enfant morte trop tôt. Il a attendu ce texte et il a fini par lui tomber dessus, laissant croire à la possibilité d’un miracle aux jeunes auteurs. J’ai eu l’impression que mes *Ravissements* m’étaient également tombés dessus, et je les ai déjà presque oubliés, me demandant ce que je pourrais faire d'eux.
 
-Si je les avais publiés en ligne au jour le jour, ils auraient déjà existé comme happening, ils seraient déjà dans l’histoire sublittéraire, mais il est trop tard pour faire d’eux de la littérature numérique. Il ne me reste qu’une possibilité éditoriale traditionnelle sans que j’ai envie de me battre pour, l’effet magique de ce texte ayant déjà agi sur moi, comme un été passé dont la tiédeur se dissipe peu à peu. Ce « comme » final étant une sorte de ritournelle à la Michon.
+Si je les avais publiés en ligne au jour le jour, ils auraient déjà existé comme happening, ils seraient déjà dans l’histoire sublittéraire, mais il est trop tard pour faire d'eux de la littérature numérique. Il ne me reste qu’une possibilité éditoriale traditionnelle sans que j’ai envie de me battre pour, l'effet magique de ce texte ayant déjà agi sur moi, comme un été passé dont la tiédeur se dissipe peu à peu. Ce « comme » final étant une sorte de ritournelle à la Michon.
 
 ### Vendredi 27, Nancy
 
@@ -326,15 +326,15 @@ Depuis plus d’un an, nous savons que nous devons refaire notre terrasse en boi
 
 Avoir un désir, une pulsion, tenter de l’exprimer, puis renoncer, puis y revenir jusqu’à ce que quelque chose se débloque. Cette nuit, j’ai vu notre terrasse en béton comme une monstruosité écologique et thermique. En été, elle serait comme un four sous nos fenêtres. J’ai alors songé à quelque chose de plus simple, des dalles posées sur la terre et entre elles laisser pousser l’herbe qui le voudra, sans le moindre arrosage. Créer de la matière, du tapissages respirant. Sur ce, je m’en vais me promenade au bord du canal et tombe sur des sols dans l’esprit de ce que j’aimerais faire. Les pièces se mettent en place. S’il s’agissait d’un livre, je n’aurais plus qu’à le laisser venir.
 
-![Par ma fenêtre](https://tcrouzet.com/images_tc/2020/01/IMG_8207.jpeg)
+![Par ma fenêtre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8207.jpeg)
 
-![Canal de la Marne au Rhin](https://tcrouzet.com/images_tc/2020/01/IMG_8227.jpeg)
+![Canal de la Marne au Rhin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8227.jpeg)
 
-![Au bord du canal](https://tcrouzet.com/images_tc/2020/01/IMG_8229.jpeg)
+![Au bord du canal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8229.jpeg)
 
 ### Dimanche 29, Nancy
 
-![Le port](https://tcrouzet.com/images_tc/2020/01/IMG_8251.jpeg)
+![Le port](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8251.jpeg)
 
 ### Lundi 30, Balaruc
 
@@ -348,10 +348,14 @@ Le prochain roman à scandale parlera d’un garçon de douze ans abusé par une
 
 ### Mardi 31, Balaruc
 
-![L'étang](https://tcrouzet.com/images_tc/2020/01/IMG_8259.jpeg)
+![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8259.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2020/01/IMG_8309.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8309.jpeg)
 
-![Meilleurs vœux pour 2020](https://tcrouzet.com/images_tc/2020/01/IMG_8320.jpeg)
+![Meilleurs vœux pour 2020](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8320.jpeg)
 
-![Meilleurs vœux pour 2020](https://tcrouzet.com/images_tc/2020/01/IMG_8373.jpeg)
+![Meilleurs vœux pour 2020](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/01/IMG_8373.jpeg)
+
+
+
+Tags: Carnets, une

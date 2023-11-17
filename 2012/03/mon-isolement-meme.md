@@ -1,21 +1,22 @@
 # Vase communicant avec François Bon
 
-*Je n’écris plus beaucoup sur mon blog parce que j’ai envie d’écrire ailleurs, de propulser des fusées autonomes dans le flux, plutôt que d’aligner des perles de jour en jour, ce qui implique qu’on le veuille ou non une chronologie, une histoire, une séquence, un ordre dont j’ai envie de me débarrasser.<span id="more-23232"></span>*
+*Je n'écris plus beaucoup sur mon blog parce que j'ai envie d'écrire ailleurs, de propulser des fusées autonomes dans le flux, plutôt que d'aligner des perles de jour en jour, ce qui implique qu'on le veuille ou non une chronologie, une histoire, une séquence, un ordre dont j'ai envie de me débarrasser.<span id="more-23232"></span>
 
-Alors j’essaime [sur publie.net](http://www.publie.net/fr/list/auteur-53161-thierry-crouzet/page/1/date), aujourd’hui [chez François Bon](http://www.tierslivre.net/spip/spip.php?article2797) et lui me réponds, ou peut-être dresse devant moi un miroir venu du futur, où je me vois tel que je serai, déjà reconnecté avec une autre réalité, avec d’autres textes.
+Alors j'essaime [sur publie.net](http://www.publie.net/fr/list/auteur-53161-thierry-crouzet/page/1/date), aujourd'hui [chez François Bon](http://www.tierslivre.net/spip/spip.php?article2797) et lui me réponds, ou peut-être dresse devant moi un miroir venu du futur, où je me vois tel que je serai, déjà reconnecté avec une autre réalité, avec d'autres textes.
 
-Oui, la déconnexion n’a jamais que le but de nous reconnecter. C’est une expérience initiatique comme le remarque François.
+Oui, la déconnexion n'a jamais que le but de nous reconnecter. C'est une expérience initiatique comme le remarque François.
 
-Je ne suis pas peu fier de l’accueillir, surtout à l’occasion [des vases communicants](http://rendezvousdesvases.blogspot.com/). Ainsi publier ailleurs, toujours loin de chez soi, comme un voyageur qui écrirait sur les murs des villes qu’il traverse, c’est peut-être la meilleure manière de prendre pied dans le flux, de lâcher les attaches qui réduisent nos libertés par la force de l’habitude. Demain, les sites Web n’existeront plus, autant entériner cette condition nécessaire à notre indépendance.
+Je ne suis pas peu fier de l'accueillir, surtout à l'occasion [des vases communicants](http://rendezvousdesvases.blogspot.com/). Ainsi publier ailleurs, toujours loin de chez soi, comme un voyageur qui écrirait sur les murs des villes qu'il traverse, c'est peut-être la meilleure manière de prendre pied dans le flux, de lâcher les attaches qui réduisent nos libertés par la force de l'habitude. Demain, les sites Web n'existeront plus, autant entériner cette condition nécessaire à notre indépendance.*
 
 François Bon | mon isolement même
 ---------------------------------
 
 <div style="clear:both;text-align:right">
 
-![](https://tcrouzet.com/images_tc/2012/03/bxlmidi_01.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/03/bxlmidi_01.jpg)
 
 </div>
+
 J’avais débranché.
 
 Ce monde ne m’intéressait pas, qui nous sollicitait trop.
@@ -46,15 +47,15 @@ Oui, la ville continuait bien, et se moquait de qui « débranchait ». Elle s
 
 Les premiers jours, je passai beaucoup de temps dans les parcs. J’aimais les allées, les arrangements, les statues, le calme. Qu’est-ce que penser ? Peut-être simplement ce rien, laisser aller.
 
-J’étais allé à la bibliothèque. Les gens venaient avec leurs ordinateurs, et travaillaient sur leurs ordinateurs. J’avais pourtant demandé qu’on me sorte les vieux livres. Je ne savais plus les lire. Ou bien, en les regardant longtemps, j’en faisais un écran blanc avec des signes noirs, et alors je comprenais la page.
+J’étais allé à la bibliothèque. Les gens venaient avec leurs ordinateurs, et travaillaient sur leurs ordinateurs. J’avais pourtant demandé qu’on me sorte les vieux livres. Je ne savais plus les lire. Ou bien, en les regardant longtemps, j’en faisais un écran blanc avec des signes noirs, et alors je comprenais la page. 
 
 Mais tu triches, me disais-je : tu n’as pas débranché.
 
-J’ai décidé de marcher. Beaucoup marcher. J’allais dans les lieux actifs de la ville. J’allais sous les tours de bureaux, j’allais dans les gares, je regardais longtemps les chantiers.
+J’ai décidé de marcher. Beaucoup marcher. J’allais dans les lieux actifs de la ville. J’allais sous les tours de bureaux, j’allais dans les gares, je regardais longtemps les chantiers. 
 
 Laisser des traces, des signes, des mots, qui soient plus forts que les anciens réseaux, je m’étais dit. J’écrivais sur une page et j’abandonnais la page, sur un banc, sur une table de bistrot, dans la gare, à l’entrée des bureaux. Le lendemain, je regardais les fenêtres des bureaux, là-haut, dans les tours de verre : ils continuaient.
 
-J’avais débranché : la ville me rejoignait, et ses messages. Les annonces dans les haut-parleurs, les signes sur les affiches, les conversations même. Tu n’as pas assez coupé avec le monde, me disais-je.
+J’avais débranché : la ville me rejoignait, et ses messages. Les annonces dans les haut-parleurs, les signes sur les affiches, les conversations même. Tu n’as pas assez coupé avec le monde, me disais-je. 
 
 Je pensais cela vraiment : j’étais en roue libre dans le grand bruit du monde, le rongement de la ville, mais le monde et la ville me tenaient.
 
@@ -84,11 +85,11 @@ Et je haïssais la bibliothèque : trop lestée des mots du temps, des magazine
 
 Pendant une période, chaque jour, je m’efforçais à des exercices de pensée : se souvenir. Se souvenir de ce que j’avais fait, qui j’étais, ce que j’avais possédé, ce que j’avais vu, où j’avais voyagé. Et puis aussi ce que j’avais vu, lu, entendu : une journée, tu recomposais une conversation, qui t’avait été importante, une autre journée, l’histoire d’un film, que tu recomposais. Une autre journée, ces bribes qui te restaient des poésies apprises. Et puis cela s’était éloigné aussi.
 
-Je me disais que j’aurais pourtant à le relire, ce livre, « J’ai débranché », que peut-être j’avais manqué une de ses indications. Peut-être même que le type qui avait écrit ce livre, autrefois : « J’ai débranché », ne s’en était pas rendu compte lui-même.
+Je me disais que j’aurais pourtant à le relire, ce livre, « J’ai débranché », que peut-être j’avais manqué une de ses indications. Peut-être même que le type qui avait écrit ce livre, autrefois : « J’ai débranché », ne s’en était pas rendu compte lui-même. 
 
 Qu’est-ce qu’il est devenu, lui-même, après, au fait ?
 
-J’avais peut-être manqué une indication.
+J’avais peut-être manqué une indication. 
 
 Dans mon tunnel, ce sont les matins froids, humides, venteux, quand le bruit de la ville à l’entour est plus agressif, que j’ai ces pensées. Quand le temps s’adoucit, que le bruit de la ville à nouveau s’éloigne, elles se calment, se tiennent à distance.
 
@@ -96,11 +97,14 @@ J’habite mon tunnel : alors à nouveau je l’habite avec calme, sérénité.
 
 <div style="clear:both;text-align:right">
 
-![](https://tcrouzet.com/images_tc/2012/03/bxlmidi_02.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/03/bxlmidi_02.jpg)
 
 </div>
+
 <div style="clear:both;text-align:right">
 
-![](https://tcrouzet.com/images_tc/2012/03/bxlmidi_03.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/03/bxlmidi_03.jpg)
 
 </div>
+
+Tags: NetLittérature, une

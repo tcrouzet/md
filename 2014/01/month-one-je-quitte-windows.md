@@ -1,10 +1,10 @@
 # Month One : je quitte Windows
 
-Franchement, je ne comprends toujours pas pourquoi les gens sont aussi fanatiques du Mac. Pas de méprise, je ne regrette pas d’avoir acheté un Macbook Pro Retina en remplacement du [Lenovo Yoga 2 Pro](https://tcrouzet.com/tag/lenovo/). Malgré quelques doutes épisodiques, c’était bien OneNote pour le dessin en mode tablette, le Macbook est sans doute le meilleur portable du moment, mais le Mac OS a autant de défauts que Windows.<span id="more-34305"></span>
+Franchement, je ne comprends toujours pas pourquoi les gens sont aussi fanatiques du Mac. Pas de méprise, je ne regrette pas d’avoir acheté un Macbook Pro Retina en remplacement du [Lenovo Yoga 2 Pro](http://blog.tcrouzet.com/tag/lenovo/). Malgré quelques doutes épisodiques, c’était bien OneNote pour le dessin en mode tablette, le Macbook est sans doute le meilleur portable du moment, mais le Mac OS a autant de défauts que Windows.<span id="more-34305"></span>
 
 Des choses simples sur un système sont compliquées sur l’autre et inversement. Pour le reste, les différences se sont peu à peu effacées avec les années. Mac OS est plus homogène que le bordélique Windows 8, c’est une certitude. Esthétique plus aboutie, affichage plus fluide. Mais quand je travaille sur mon traitement de texte, tout cela s’efface. Il reste le silence impressionnant du Mac. Je ne sais même pas si cette machine dispose d’un ventilateur.
 
-À l’avenir, je serai un OS agnostique. Je choisirai la meilleure machine tout simplement. Et la meilleure machine je sais qu’elle doit être transformable comme le Yoga de Lenovo mais avec la robustesse en prime. Pour le reste, basculer d’un univers à l’autre ne nous demande qu’à nous habituer à quelques raccourcis clavier (innombrables sur Mac tant le clavier pour le coup est d’un design inepte). Utiliser fn+bacspace pour faire un suppr, c’est tout de même extraordinaire, vu le nombre de fois où on a besoin de suppr quand on écrit et corrige.
+À l’avenir, je serai un OS agnostique. Je choisirai la meilleure machine tout simplement. Et la meilleure machine je sais qu’elle doit être transformable comme le Yoga de Lenovo mais avec la robustesse en prime. Pour le reste, basculer d’un univers à l’autre ne nous demande qu’à nous habituer à quelques raccourcis clavier (innombrables sur Mac tant le clavier pour le coup est d'un design inepte). Utiliser fn+bacspace pour faire un suppr, c’est tout de même extraordinaire, vu le nombre de fois où on a besoin de suppr quand on écrit et corrige.
 
 À force de donner la priorité au minimalisme, Apple nous a pondu un clavier si sobre que seuls les chiffres et les lettres y apparaissent. C’est d’ailleurs moins pire sur les claviers US que français, qui frisent la zénitude extrémiste.
 
@@ -14,8 +14,7 @@ Côté logiciel rien du monde Windows ne me manque. J’ai même découvert pas 
 
 Tous ces traitements de texte New Age offrent des modes de saisies dépouillés très agréables pour l’écriture créative. En revanche, ils ne gèrent pas des choses élémentaires comme l’accentuation automatique des capitales en début de phrases. Bien des choses auxquelles on ne pense pas sous Word redeviennent fastidieuses.
 
-Je l’ai déjà constaté lors de mon [Day One](https://tcrouzet.com/2013/12/31/day-one-je-quitte-windows/) sur Mac, les apps sont en revanche mieux intégrées à l’OS Apple. Je pense notamment à l’indispensable Antidote, accessible partout dans le menu contextuel. Voici une chose que je regretterai si je revenais sur Windows. Et de prendre conscience que
-
+Je l’ai déjà constaté lors de mon [Day One](http://blog.tcrouzet.com/2013/12/31/day-one-je-quitte-windows/) sur Mac, les apps sont en revanche mieux intégrées à l’OS Apple. Je pense notamment à l’indispensable Antidote, accessible partout dans le menu contextuel. Voici une chose que je regretterai si je revenais sur Windows. Et de prendre conscience que 
 les apps sont la véritable différence entre les deux OS. Comme si Apple avait su imposer sa philosophie de perfection aux développeurs. Même Word est par certains côtés mieux fichu sur Mac. Notamment le mode écriture.
 
 Un de mes gros soucis : la lenteur du convertisseur Thunderbolt vers RJ45. Chez nous, on est câblé Ethernet. Une Freebox sert de rooter. [Les tests qui vantent le convertisseur Apple se trompent.](http://www.macg.co/2012/06/test-de-ladaptateur-thunderbolt-vers-gigabit-ethernet-dapple-56866) Je télécharge deux fois moins vite avec mon Mac qu’avec un vieux portable Samsung qui intègre un port Ethernet. Et ça reste vrai avec un encore plus vieux Vaio sous Ubuntu. Et s’il fallait une preuve de plus, je retrouve un superbe débit quand je bascule le Mac en Wifi (qui ne passe pas dans mon bureau et pas envie de me manger des ondes inutiles avec un réplicateur).
@@ -30,8 +29,10 @@ Vous le voyez, rien de bien extraordinaire. Basculer de Windows à Mac est en d�
 
 Il serait temps que je me mette à écrire un vrai livre avec cette machine. Je suis en ce moment embourbé dans l’édition des textes qui sortiront cette année (et cette saga-là nécessiterait à elle seule un livre, tant le monde de l’édition perd la boule). J’ai de plus en plus envie de dire merde à cet univers et de cultiver mon jardin numérique.
 
-![Mon Macbook sur son pied avec clavier Logitech et souris Apple positionnés dessous.](https://tcrouzet.com/images_tc/2014/01/bureaumac.jpg)
+![Mon Macbook sur son pied avec clavier Logitech et souris Apple positionnés dessous.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/bureaumac.jpg)
 
-*PS1 : Après deux jours de retour à la souris, j’ai mal à tous les doigts. C’est un instrument de torture. Une fois que tu goûtes au trackpad multitouch, tu ne peux plus t’en passer. J’ai donc redescendu le Mac de son perchoir. Je garde le clavier et la souris pour les rares fois où j’aurais besoin d’un grand écran.*
+*PS1 : Après deux jours de retour à la souris, j'ai mal à tous les doigts. C'est un instrument de torture. Une fois que tu goûtes au trackpad multitouch, tu ne peux plus t'en passer. J'ai donc redescendu le Mac de son perchoir. Je garde le clavier et la souris pour les rares fois où j'aurais besoin d'un grand écran.*
 
 *PS2 : Un truc pénible, la perte de mes disques réseau. Exemple, ma bibliothèque Calibre est sur un disque attaché au NAS de ma Freebox. Je dois redéclarer le chemin chaque fois que je relance Calibre ou même tire le Mac du mode veille.*
+
+Tags: Cuisine, Mac, une

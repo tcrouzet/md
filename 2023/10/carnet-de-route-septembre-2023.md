@@ -8,7 +8,7 @@
 
 ### Dimanche 3, Paris
 
-Le journal n’est pas une obligation. Jamais je ne me suis dit « écrit tous les jours », mais a posteriori je regrette souvent de ne pas avoir écrit tous les jours. C’est comme si j’avais laissé passer des moments sans les vivre.
+Le journal n’est pas une obligation. Jamais je ne me suis dit « écris tous les jours », mais a posteriori je regrette souvent de ne pas avoir écrit tous les jours. C’est comme si j’avais laissé passer des moments sans les vivre.
 
 Je suis assis sur un banc du square [Christiane Desroches-Noblecourt](https://fr.wikipedia.org/wiki/Christiane_Desroches_Noblecourt). Je ne sais foutrement pas qui c’est. Je suis à une encablure de l’internat où Tim s’installe sans entrain, avant cette seconde année de prépa au lycée Janson de Sailly.
 
@@ -24,7 +24,7 @@ Parfois, j’ai tant de prompts en tête, tous susceptibles d’ouvrir de multip
 
 ### Mardi 5, TGV
 
-Souvent, avant d’écrire une scène dont je n’ai qu’une vague idée, je demande à ChatGPT de l’écrire. C’est tellement mauvais que ça me dit ce qu’il ne faut surtout pas faire. Par exemple, je lui dit « l’atmosphère est électrique dans la librairie » et au lieu d’essayer de rendre une atmosphère électrique, ChatGPT me dit « l’atmosphère est électrique ». Les consignes doivent être d’une précision extrême pour aboutir à un résultat potentiellement utile. Hier, [je regardais une vidéo sur les superprompts pour Claude](https://www.geeky-gadgets.com/how-to-write-books-using-ai/). Écrire de tels prompts est plus exigeant qu’écrire le texte susceptible d’être généré. Ça finit par ne plus avoir beaucoup de sens.
+Souvent, avant d’écrire une scène dont je n’ai qu’une vague idée, je demande à ChatGPT de l’écrire. C’est tellement mauvais que ça me dit ce qu’il ne faut surtout pas faire. Par exemple, je lui dis « l’atmosphère est électrique dans la librairie » et au lieu d’essayer de rendre une atmosphère électrique, ChatGPT me dit « l’atmosphère est électrique ». Les consignes doivent être d’une précision extrême pour aboutir à un résultat potentiellement utile. Hier, [je regardais une vidéo sur les superprompts pour Claude](https://www.geeky-gadgets.com/how-to-write-books-using-ai/). Écrire de tels prompts est plus exigeant qu’écrire le texte susceptible d’être généré. Ça finit par ne plus avoir beaucoup de sens.
 
 ---
 
@@ -106,7 +106,7 @@ Quand je demande à ChatGPT d’être littéraire, iel génère un texte ampoul�
 
 ### Samedi 16, Balaruc
 
-J’apprends tellement de trucs sur l’usage des LLM que ma technique s’améliore à une vitesse étourdissante. Je suis frustré de ne pas partager mon expérience. Il me faudrait enregistrer des vidéos. Pour plus tard, après le roman. Peut-être. Mais ce n’est pas mon truc. Faudra qu’on m’invite à animer ses séminaires.
+J’apprends tellement de trucs sur l’usage des LLM que ma technique s’améliore à une vitesse étourdissante. Je suis frustré de ne pas partager mon expérience. Il me faudrait enregistrer des vidéos. Pour plus tard, après le roman. Peut-être. Mais ce n’est pas mon truc. Faudra qu’on m’invite à animer des séminaires.
 
 ### Mercredi 20, Balaruc
 
@@ -141,3 +141,5 @@ Pierre m’annonce que les projets de littérature IA bourgeonnent de partout, c
 ### Samedi 30, Balaruc
 
 Après avoir relu *Le Code Houellebecq* une dernière fois, je l’envoie à Pierre.
+
+Tags: Carnets, une

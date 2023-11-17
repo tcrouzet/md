@@ -4,7 +4,7 @@ Nous pouvons commettre bien des erreurs au cours de note vie. Certaines fatales,
 
 Cette fâcheuse habitude est paradoxalement commune à toutes les catégories d’intelligence. Elle consiste, quand on n’est pas d’accord avec quelqu’un ou quand on ne comprend rien à ce qu’il nous dit, de le déclarer stupide, confus, embrouillé, plongé dans un marasme insondable.
 
-Je me suis pris de passion pour [Ératosthène](https://tcrouzet.com/eratosthene/) parce que ses contemporains ont réussi à ridiculiser sa pensée. Conséquence dramatique de la bêtise de ceux qui se croyaient intelligent : sa géographie a été oubliée durant près de 2000 ans, sa philosophie presque jusqu’à nous.
+Je me suis pris de passion pour [Ératosthène](http://blog.tcrouzet.com/eratosthene/) parce que ses contemporains ont réussi à ridiculiser sa pensée. Conséquence dramatique de la bêtise de ceux qui se croyaient intelligent : sa géographie a été oubliée durant près de 2000 ans, sa philosophie presque jusqu’à nous.
 
 Je sais que la confiance en soi, la facilité avec laquelle on peut défendre ses thèses, l’excès de force et de conviction peuvent laisser croire qu’on dénie à ses interlocuteurs jusqu’à leur intelligence. Ce serait commettre une autre erreur. On peut ne pas aimer quelqu’un, mais son arrogance perçue ou supposée ne signifie pas qu’il nous méprise tant qu’il discute avec nous, avançant des hypothèses et tentant de réfuter les nôtres. C’est juste un guerrier sur le terrain des idées.
 
@@ -38,10 +38,14 @@ D’ailleurs quels sont les postulats ? Nous connaissons ceux d’Euclide au fo
 
 Avant de penser de quelqu’un qu’il n’est pas intelligent, on devrait discuter de ses postulats et les comparer aux postulats officiels, souvent imposés à coup de propagande hors des sciences dures. Postulat démocratique : nous avons besoin de représentants qui vont décider pour nous et nous choisissons ces représentants au scrutin majoritaire.
 
-[Deux postulats que, par exemple, je conteste tout en restant démocrate.](https://tcrouzet.com/101-raisons-de-ne-pas-voter/) Mais pourquoi je les conteste ? Parce que je conteste un postulat plus profond. Celui de Descartes : le monde est simple, c’est-à-dire que les problèmes peuvent être décomposés en problèmes plus simples… jusqu’au moment où quelqu’un peut prendre une décision rationnelle.
+[Deux postulats que, par exemple, je conteste tout en restant démocrate.](http://blog.tcrouzet.com/101-raisons-de-ne-pas-voter/) Mais pourquoi je les conteste ? Parce que je conteste un postulat plus profond. Celui de Descartes : le monde est simple, c’est-à-dire que les problèmes peuvent être décomposés en problèmes plus simples… jusqu’au moment où quelqu’un peut prendre une décision rationnelle.
 
 Il est souvent inutile de discuter en amont avec quelqu’un si on n’a pas identifié ses postulats conscients ou inconscients, et l’arsenal philosophique dans lequel il les enrobe. J’ai passé beaucoup de temps à démêler tout cela pour moi-même, cherchant dans chaque époque quels étaient les postulats, quels étaient les nôtres, qu’est-ce qu’ils avaient d’arbitraire, voire de nocif. Et voir débouler des gens sûrs de leur fait, sûrs de leurs postulats qu’ils n’ont pas questionnés, m’attriste toujours.
 
-Il n’est pas question de vérité (l’existence de la vérité étant le postulat des essentialistes). Il est question de questionner. Pas de dire que l’autre n’a pas compris, mais d’un temps endosser sa vision et de voir où elle mène. C’est l’attitude philosophique élémentaire. Avant de rejeter une pensée, tenter de la mettre en œuvre. Ne pas voir toute pensée dérangeante, différente, comme fausse *a priori*. Non pas crier à l’incohérence dès qu’il nous manque des éléments. Le mépris est le début du racisme, sa nourriture première, le fiel de toutes les discordes.
+Il n’est pas question de vérité (l’existence de la vérité étant le postulat des essentialistes). Il est question de questionner. Pas de dire que l’autre n’a pas compris, mais d’un temps endosser sa vision et de voir où elle mène. C’est l’attitude philosophique élémentaire. Avant de rejeter une pensée, tenter de la mettre en œuvre. Ne pas voir toute pensée dérangeante, différente, comme fausse *a priori*. Non pas crier à l'incohérence dès qu’il nous manque des éléments. Le mépris est le début du racisme, sa nourriture première, le fiel de toutes les discordes.
 
-![J'ai la tête dure mais je me protège](https://tcrouzet.com/images_tc/2014/03/ski.jpg)
+![J'ai la tête dure mais je me protège](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/ski.jpg)
+
+
+
+Tags: NetCulture, une

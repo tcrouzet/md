@@ -8,7 +8,7 @@ La raison : je n’avais pas moi-même payé les coûts de minage. C’était d
 
 J’ai râlé, me disant que les NFT ne rassemblaient qu’un ramassis de spéculateurs (c’est un peu ça tout de même, parce que les coûts de transaction sont négligeables dès que les prix s’élèvent), puis je me suis calmé, surtout quand [LTKzY](https://twitter.com/LTKzY) m’a dit qu’il [s’apprêtait à vendre de la poésie sur la blockchain Elrond](https://isengardmarket.com/collection/01ELROND-f624be), où les coûts de minage et donc de transaction sont beaucoup moins élevés.
 
-![One Sunset a Day](https://tcrouzet.com/images_tc/2022/01/onesunset.jpg)
+![One Sunset a Day](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/onesunset.jpg)
 
 Avant de regarder de ce côté, j’ai commencé par lancer mon projet [one Sunset a Day](https://tcrouzet.com/one-sunset-a-day/) à nouveau sur OpenSea, avant tout parce que cette idée de rassembler et de trier mes photos de coucher de soleil me trotte dans la tête depuis longtemps. Je me suis ainsi donné une carotte pour me tenir immergé dans la mouvance NFT tout au long de 2022.
 
@@ -30,15 +30,15 @@ Ensuite, je suis revenu voir du côté d’Elrond.
 
 8. Je lui ai envoyé les liens vers les fichiers HD, tout en me disant qu’en NFT nous ne vendions pas les objets numériques eux-mêmes, mais leur droit d’usage ou de propriété, un contrat qui lie le créateur et l’acheteur.
 
-9. Les fichiers HD peuvent être rendus publics pour que tout le monde puisse les télécharger, mais seul l’acheteur est lié avec le créateur par contrat ([on peut ainsi télécharger l’œuvre de Beeple en HD](https://ipfsgateway.makersplace.com/ipfs/QmXkxpwAHCtDXbbZHUwqtFucG1RMS6T87vi1CdvadfL7qA)). Si l’acheteur affiche ma nouvelle sur un de ses murs, il peut dire qu’elle lui appartient alors que vous tous pourraient aussi l’afficher sans pouvoir dire qu’elle vous appartient. La nuance est subtilement capitaliste. Elle prend sens si l’exploitation de la nouvelle engendre des revenus que nous pourrions nous partager. Une adaptation cinématographique, par exemple. Ou si ma côte augmentait et que la nouvelle prenait de la valeur.
+9. Les fichiers HD peuvent être rendus publics pour que tout le monde puisse les télécharger, mais seul l’acheteur est lié avec le créateur par contrat ([on peut ainsi télécharger l'œuvre de Beeple en HD](https://ipfsgateway.makersplace.com/ipfs/QmXkxpwAHCtDXbbZHUwqtFucG1RMS6T87vi1CdvadfL7qA)). Si l'acheteur affiche ma nouvelle sur un de ses murs, il peut dire qu’elle lui appartient alors que vous tous pourraient aussi l'afficher sans pouvoir dire qu'elle vous appartient. La nuance est subtilement capitaliste. Elle prend sens si l’exploitation de la nouvelle engendre des revenus que nous pourrions nous partager. Une adaptation cinématographique, par exemple. Ou si ma côte augmentait et que la nouvelle prenait de la valeur.
 
-10. Finalement, [j’ai remis en vente la nouvelle dans sa version HD](https://isengard.market/nft/TCC-5cf6ff-02) ce qui ne m’a couté que quelques centimes. Vous pouvez donc [récupérer l’image même si vous ne l’achetez pas](https://media.elrond.com/nfts/asset/QmbL7kVqo8yVqSVeGQbYhpV1wCHKxzYAxW8LNLtktEipBk), exactement comme pour l’œuvre de Beeple. Mais acheter revient à me soutenir tout en vous donnant le droit de revendre immédiatement (à ce stade, ce n’est plus du financement participatif, mais bien du capitalisme).
+10. Finalement, [j'ai remis en vente la nouvelle dans sa version HD](https://isengard.market/nft/TCC-5cf6ff-02) ce qui ne m'a couté que quelques centimes. Vous pouvez donc [récupérer l'image même si vous ne l'achetez pas](https://media.elrond.com/nfts/asset/QmbL7kVqo8yVqSVeGQbYhpV1wCHKxzYAxW8LNLtktEipBk), exactement comme pour l'œuvre de Beeple. Mais acheter revient à me soutenir tout en vous donnant le droit de revendre immédiatement (à ce stade, ce n'est plus du financement participatif, mais bien du capitalisme).
 
-11. Nous autres auteurs, blogueurs, journalistes… pouvons publier gratuitement nos textes/photos, mais en même temps les vendre en NFT pour transférer une partie de nos droits à des acheteurs/lecteurs qui nous soutiendraient. Idée à creuser. Je ne fais qu’entrevoir une petite lumière lointaine.
+11. Nous autres auteurs, blogueurs, journalistes… pouvons publier gratuitement nos textes/photos, mais en même temps les vendre en NFT pour transférer une partie de nos droits à des acheteurs/lecteurs qui nous soutiendraient. Idée à creuser. Je ne fais qu'entrevoir une petite lumière lointaine.
 
-12. Tenter l’expérience avec mes prochains billets. Je vois qu’il existe déjà quelques plugins NFT pour WordPress.
+12. Tenter l'expérience avec mes prochains billets. Je vois qu'il existe déjà quelques plugins NFT pour Wordpress.
 
-![La Chute version HD](https://tcrouzet.com/images_tc/2022/01/isangard2.jpg)
+![La Chute version HD](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/isangard2.jpg)
 
 ### Comment acheter-vendre sur Elrond
 
@@ -51,3 +51,5 @@ Résumé de la méthode pour acheter/revendre la nouvelle sur Isengard.
 3. Avec le wallet se connecter à [Isengard](https://isengard.market) et procéder à la transaction.
 
 4. Une fois l’achat effectué, je vous invite à revendre la nouvelle sans plus que doubler son prix.
+
+Tags: édition, NFT, une

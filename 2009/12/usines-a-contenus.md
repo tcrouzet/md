@@ -8,6 +8,8 @@ Google a rafiné son algorithme. Des petits malins ont cherché des astuces. Alo
 
 Google n’y voit que du feu. Jusqu’à ce qu’il décide à blacklister ces sites comme il l’a fait avec certaines link farm historique ou a chasser leurs pages dans les bas-fonds de son index. Tout cela nous prouve simplement que Google perd en pertinence mais que tant qu’il sera dominateur, il faussera l’écosystème du Web puisque des gens chercheront à le baiser. C’est de bonne guerre.
 
-Les usines à contenus ne sont pas une révolution mais une constante depuis qu’on peut gagner de l’argent sur le Web. C’est une martingale… C’est vrai que je la maîtrise plutôt bien… et comme il faudrait que je pense à gagner à nouveau un peu d’argent… pourquoi je reviendrais pas dans le jeu. C’est ça ou vous avez intérêt à acheter mes prochains livres.
+Les usines à contenus ne sont pas une révolution mais une constante depuis qu’on peut gagner de l’argent sur le Web. C’est une martingale... C’est vrai que je la maîtrise plutôt bien… et comme il faudrait que je pense à gagner à nouveau un peu d’argent… pourquoi je reviendrais pas dans le jeu. C’est ça ou vous avez intérêt à acheter mes prochains livres.
 
 *PS : Que font les blogueurs qui veulent avoir du trafic ? Ils transforment leur blog en usine à contenus.*
+
+Tags: NetCulture

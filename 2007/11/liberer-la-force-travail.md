@@ -2,9 +2,9 @@
 
 Je crois que la longue traîne est vitale pour chacun de nous comme pour la biosphère dans son ensemble. La longue traîne, si elle s’installe, nous fera sortir définitivement de l’âge industriel et de la forme de capitalisme qui l’accompagne.
 
-J’ai présenté la longue traîne dans [*Le cinquième pouvoir*](https://tcrouzet.com/le-cinquieme-pouvoir/). Je résume l’idée : sur le net, l’espace de stockage dans les boutiques n’étant pas limité, tous les produits peuvent être vendus, mêmes ceux qui ne trouvent pas beaucoup d’acheteurs. Alors que les grandes surfaces vendent peu de produits en grande quantité, les boutiques web peuvent vendre beaucoup de produits en petite quantité.
+J’ai présenté la longue traîne dans [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/). Je résume l’idée : sur le net, l’espace de stockage dans les boutiques n’étant pas limité, tous les produits peuvent être vendus, mêmes ceux qui ne trouvent pas beaucoup d’acheteurs. Alors que les grandes surfaces vendent peu de produits en grande quantité, les boutiques web peuvent vendre beaucoup de produits en petite quantité.
 
-![greve.gif](https://tcrouzet.com/images_tc/2007/11/greve.gif)
+![greve.gif](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/11/greve.gif)
 
 Nous ne devons pas rester passifs devant ce phénomène, nous devons devenir des activistes de la longue traîne.
 
@@ -24,6 +24,8 @@ Nous ne devons pas rester passifs devant ce phénomène, nous devons devenir des
 
 8. Plus nous prendrons goût à la longue traîne, plus les industriels auront du mal à recruter un personnel qualifié. Peu à peu, l’intelligence changera de camps. Les grands industriels péricliteront. Le capital se redistribuera.
 
-9. La fin de l’ancien monde capitaliste, donc la fin de l’actionnariat, la fin de la rémunération du capital (d’une certaine façon incompatible avec l’idée de durabilité parce qu’elle favorise celle de rentabilité), consacrera définitivement la libération de la force travail.
+9. La fin de l’ancien monde capitaliste, donc la fin de l’actionnariat, la fin de la rémunération du capital (d'une certaine façon incompatible avec l'idée de durabilité parce qu'elle favorise celle de rentabilité), consacrera définitivement la libération de la force travail.
 
 10. Cette fin sera obtenue au sein même du libéralisme… justement grâce à une généralisation de la liberté que nous laisse entrevoir la longue traîne. Cette fin viendra d’elle-même, sans loi, sans violence, juste parce que nous le voulons.
+
+Tags: Politique

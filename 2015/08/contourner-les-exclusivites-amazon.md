@@ -6,7 +6,7 @@ Vous pouvez bien sûr lire gratuitement [la version en chantier sur Wattpad](htt
 
 1. Installez sur votre ordinateur [l’application Kindle](https://www.amazon.fr/gp/digital/fiona/kcp-landing-page).
 
-2. Depuis le site Amazon, achetez mon livre ou n’importe quel autre livre et faites-le livre sur votre application (qui peut d’ailleurs être installée sur tous les appareils).
+2. Depuis le site Amazon, achetez mon livre ou n’importe quel autre livre et faites-le livre sur votre application (qui peut d'ailleurs être installée sur tous les appareils).
 
 3. Vous récupérez le fichier ([marche à suivre sur Mac](http://davidbosman.fr/blog/2015/02/12/ou-sont-enregistres-les-ebooks-du-kindle-dans-os-x-yosemite/)).
 
@@ -15,3 +15,5 @@ Vous pouvez bien sûr lire gratuitement [la version en chantier sur Wattpad](htt
 5. Avec [Calibre](http://calibre-ebook.com/), vous le transférez sur votre liseuse préférée ([vous pouvez même directement supprimer les DRM depuis Calibre](http://epubee.com/remove-drm-from-epub-on-adobe.html#CalibrePluginDownload)).
 
 Pour ma part, je procède ainsi avec tous les livres que j’achète. Bonne lecture.
+
+Tags: Cuisine, une

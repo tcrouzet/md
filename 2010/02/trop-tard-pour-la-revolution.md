@@ -37,3 +37,5 @@ J’en reviens à mon idée fixe. Je ne vois qu’une solution : que ceux qui s
 Je m’adresse à ces courageux, à ces pionniers, à ces volontaires… Il faut que vous expérimentiez et il serait dangereux de demander à tout le monde de le faire, surtout de le faire tous de la même façon.
 
 Qu’est-ce que je fais en publiant gratuitement des billets sur mon blog ? À mon petit niveau, en tant qu’écrivain, j’applique les principes auxquels je crois. J’ai l’espoir que des solutions se mettront en place parce que, les uns les autres, nous apprendrons à collaborer de manières nouvelles. J’estime que ceux qui, comme moi, ont la possibilité de prendre des risques, ont le devoir d’expérimenter.
+
+Tags: MRDB, Revenu de base

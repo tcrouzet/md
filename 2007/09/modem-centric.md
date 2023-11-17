@@ -1,12 +1,12 @@
 # Modem centric
 
-Ma critique de l’université d’été du Modem a suscité beaucoup de commentaires tant [ici sur mon blog](https://tcrouzet.com/2007/09/17/militantisme-ecole-de-mediocrite/) que sur [Agoravox](http://agoravox.fr/article.php3?id_article=29197). Comme j’en ai l’habitude, je vais essayer de répondre à tous en même temps.<span id="more-574"></span>
+Ma critique de l’université d’été du Modem a suscité beaucoup de commentaires tant [ici sur mon blog](http://blog.tcrouzet.com/2007/09/17/militantisme-ecole-de-mediocrite/) que sur [Agoravox](http://agoravox.fr/article.php3?id_article=29197). Comme j’en ai l’habitude, je vais essayer de répondre à tous en même temps.<span id="more-574"></span>
 
-![Pacco](https://tcrouzet.com/images_tc/20070920pacco.gif)
+![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070920pacco.gif)
 
 1. La diversité des réactions, allant des encouragements aux insultes les plus directes, me prouve au moins que les militants du Modem ne forment pas une masse homogène. C’est positif pour un mouvement qui se cherche. J’ai poussé une gueulante notamment pour célébrer la différence et faire tout pour qu’elle continue de s’exprimer.
 
-2. Il est vrai que nombre de mes critiques valent pour les autres partis. Mais j’ai critiqué le Modem parce qu’il est en devenir et que nous pouvons influer ce devenir. Je rappelle pour l’anecdote que [j’ai suggéré à François Bayrou de dissoudre l’UDF dès le 2 janvier 2007](https://tcrouzet.com/2007/01/02/electrochoc-politique/). Je reste persuadé que, s’il l’avait fait alors, il serait Président aujourd’hui.
+2. Il est vrai que nombre de mes critiques valent pour les autres partis. Mais j’ai critiqué le Modem parce qu’il est en devenir et que nous pouvons influer ce devenir. Je rappelle pour l’anecdote que [j’ai suggéré à François Bayrou de dissoudre l’UDF dès le 2 janvier 2007](http://blog.tcrouzet.com/2007/01/02/electrochoc-politique/). Je reste persuadé que, s’il l’avait fait alors, il serait Président aujourd’hui.
 
 3. Le Modem est unique dans le paysage français parce qu’il est justement encore ouvert et influençable. Les autres partis sont soit tenus de main de maître et fermés, soit accrochés à des idéologies désuètes. Je m’intéresse au Modem parce que je crois qu’il peut être novateur et j’aimerais qu’il le soit. S’il se contente de s’occuper de réformes techniques comme le non-cumul des mandats, il n’ira pas loin.
 
@@ -18,11 +18,11 @@ Ma critique de l’université d’été du Modem a suscité beaucoup de comment
 
 7. Je persiste et je signe. Vouloir atteindre le pouvoir pour imiter les autres, c’est médiocre. Je pense même que si le Modem faisait sienne cette médiocrité il n’atteindrait pas le pouvoir.
 
-8. Certains ont cru sentir que j’étais blessé, que je réagissais comme un amoureux déçu. Je voudrais les rassurer. Je n’ai jamais été amoureux de François Bayrou. J’ai apprécié ses idées durant la campagne présidentielle, [je leur ai donné forme à ma façon](https://tcrouzet.com/2007/04/19/le-vrai-bayrou/), mais [je n’ai pas oublié de critiquer](https://tcrouzet.com/2007/04/19/bayroumania-non-merci/). Je crois d’ailleurs que Bayrou accepte les critiques les plus vives, en tout cas il n’a pas le choix s’il veut inventer la politique de demain.
+8. Certains ont cru sentir que j’étais blessé, que je réagissais comme un amoureux déçu. Je voudrais les rassurer. Je n’ai jamais été amoureux de François Bayrou. J’ai apprécié ses idées durant la campagne présidentielle, [je leur ai donné forme à ma façon](http://blog.tcrouzet.com/2007/04/19/le-vrai-bayrou/), mais [je n’ai pas oublié de critiquer](http://blog.tcrouzet.com/2007/04/19/bayroumania-non-merci/). Je crois d’ailleurs que Bayrou accepte les critiques les plus vives, en tout cas il n’a pas le choix s’il veut inventer la politique de demain.
 
 9. D’autres ont pensé que j’étais jaloux de ne pas être un cadre du Modem et de ne pas être sur la scène. Il est vrai que j’aime la scène et que j’aime discuter des idées qui me paraissent importantes. En fait, je suis terriblement frustré de voir qu’un immense potentiel de changement git inexploité. Sinon oui je suis ambitieux, orgueilleux, prétentieux… dans le cas contraire, je ne serais sans doute pas écrivain, je n’accepterais pas de parler en public, je n’ouvrirais pas ma gueule pour un oui et pour un non. Est-ce mal d’être ambitieux ? Mais jaloux du Modem actuel non… Je serais juste jaloux si je voyais un Modem novateur duquel je serais tenu étranger.
 
-10. Aujourd’hui aucun parti en France ne m’attire. [Christophe Grébert a fait le bon choix en se présentant à la mairie de Puteaux en candidat citoyen.](https://tcrouzet.com/2007/09/10/grebert-et-l%e2%80%99e-parti/) Le Modem devrait le soutenir.
+10. Aujourd’hui aucun parti en France ne m’attire. [Christophe Grébert a fait le bon choix en se présentant à la mairie de Puteaux en candidat citoyen.](http://blog.tcrouzet.com/2007/09/10/grebert-et-l%e2%80%99e-parti/) Le Modem devrait le soutenir.
 
 11. Une politique collaborative ne peut être déployée qu’au niveau local. À l’échelle globale, les élus n’ont aucune latitude et aucun impact. Voilà pourquoi j’ai parlé de l’inutilité du vote pour nommer les grands manitous. À l’échelle locale, le vote continue d’avoir du sens, même s’il n’est pas le seul moyen de s’engager.
 
@@ -32,10 +32,12 @@ Ma critique de l’université d’été du Modem a suscité beaucoup de comment
 
 14. Faire de la politique ne se résume pas à militer dans un parti, c’est essayer de changer le monde. On peut le faire en étant élu, en faisant du lobbying, en propageant de nouvelles idées, en boycottant des produits… Nous ne changerons le monde qu’en cumulant un ensemble de méthodes (être élu n’est pas un passage obligé, juste un passage possible dans la configuration actuelle de la société). Cette façon de voir la politique explique pourquoi j’ai un peu tiré sur les colleurs d’affiches… car ils placardent la figure des candidats sur les murs alors que les candidats sont moins importants que les idées qu’ils représentent. Mais je conviens qu’on ne peut pas coller des idées… quoi que, sur internet, c’est un peu ce que nous faisons.
 
-15. Un parti politique n’a pas besoin de managers mais de leaders. J’ai longuement discuté de ce point dans [*Le cinquième pouvoir*](https://tcrouzet.com/le-cinquieme-pouvoir/). Un leader donne le cap, il n’a pas besoin d’être en plus celui qui se présente aux élections, les compétences requises ne sont pas identiques. Je crois même que les fonctions de leader et de manager devraient être séparées.
+15. Un parti politique n’a pas besoin de managers mais de leaders. J’ai longuement discuté de ce point dans [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/). Un leader donne le cap, il n’a pas besoin d’être en plus celui qui se présente aux élections, les compétences requises ne sont pas identiques. Je crois même que les fonctions de leader et de manager devraient être séparées.
 
 16. Je serais médiocre parce que je n’ai pas critiqué le modem sur le fond… sur, par exemple, sa vision de l’international. Je pense que le fond n’est pas là, que le fond est d’abord philosophique. Une fois la philosophie en place, il devient possible d’avoir un discours sur le reste. Sinon la politique se résume en une succession de réactions qui, prises dans leur ensemble, sont incohérentes. Nous assistons à ce spectacle depuis trop longtemps. Nous ne devons pas écrire une idéologie inaltérable mais, à chaque problème, réagir en fonction de l’idéologie provisoirement établie.
 
 17. Certains m’ont même demandé de tenir bon et de garder un pied à l’intérieur du Modem. Je vais vous faire une confidence. En janvier dernier, François Bayrou m’a téléphoné un jour en me disant qu’il avait besoin de toutes les énergies pour l’aider. Je lui ai dit que je ne pouvais pas me rallier comme l’avait fait Loïc Le Meur avec Sarkozy mais que je publierais sur mon blog mes idées. C’est ce que je fais depuis.
 
 18. Un autre aveu. Quelques jours plus tard, je me suis dit que je pouvais en faire plus. J’ai envoyé un mail à Bayrou pour lui offrir les services de quelques francs-tireurs du web, volontaires pour l’aider à mener une campagne disruptive. Je n’ai pas eu de réponse. Est-ce pour cela que je suis aussi raide aujourd’hui ? Peut-être, je ne le nie pas, je suis faillible comme tout le monde. Mais j’espère que je défends ma position pour des raisons plus nobles.
+
+Tags: Modem

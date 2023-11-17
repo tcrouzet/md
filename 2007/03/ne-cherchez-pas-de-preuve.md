@@ -6,6 +6,8 @@ Au début du vingtième siècle, les scientifiques ont pourtant mis tout cela à
 
 C’est un peu ridicule. La vérité est sans doute entre les deux. Internet ne fait pas tout mais il fait pas mal. Et la meilleure façon de s’en rendre compte est de mettre un pied dans la politique elle-même et de jouer avec l’information, de la créer et de la faire circuler… essayant de voir comment l’opinion se modifie, non pas à cause de nous de manière certaine mais, avant tout, par elle-même.
 
-C’est en se plaçant au cœur du processus qu’on le ressent et, sans doute, le comprend intuitivement. [À l’âge des qualités](https://tcrouzet.com/2007/02/28/les-negationnistes-de-la-blogosphere/), les choses se vivent, un peu comme l’expérience mystique ou esthétique qui ne peuvent jamais être circonscrites pas les mots.
+C’est en se plaçant au cœur du processus qu’on le ressent et, sans doute, le comprend intuitivement. [À l’âge des qualités](http://blog.tcrouzet.com/2007/02/28/les-negationnistes-de-la-blogosphere/), les choses se vivent, un peu comme l’expérience mystique ou esthétique qui ne peuvent jamais être circonscrites pas les mots.
 
 Aucun argument de type A implique B implique C ne pourra convaincre un sceptique car ce type d’argument ne peut tout simplement pas exister pour démontrer l’influence d’internet en politique. Chercher à convaincre ne sert donc à rien. Il faut simplement raconter des histoires et inviter les sceptiques à prendre part au jeu politique sur le net.
+
+Tags: Connecteur

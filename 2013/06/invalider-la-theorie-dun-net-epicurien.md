@@ -1,6 +1,6 @@
 # Invalider la théorie d’un Net épicurien
 
-Chaque fois que je m’inquiète de notre internet, que j’évoque [les vagues noires qui le submergent](https://tcrouzet.com/2013/06/26/la-masturbation-des-neotechos/), des voix se dressent pour me dire qu’internet est bien ce que nous voulons en faire. Les agissements des grandes compagnies et des foules ne compteraient pas du moment que nous nous élevons au-dessus de leur nausée.<span id="more-33213"></span>
+Chaque fois que je m’inquiète de notre internet, que j’évoque [les vagues noires qui le submergent](http://blog.tcrouzet.com/2013/06/26/la-masturbation-des-neotechos/), des voix se dressent pour me dire qu’internet est bien ce que nous voulons en faire. Les agissements des grandes compagnies et des foules ne compteraient pas du moment que nous nous élevons au-dessus de leur nausée.<span id="more-33213"></span>
 
 Nous pouvons bien faire ce que nous voulons de notre voiture. La laisser au garage, nous en servir pour aller au travail ou pour de grands raids dans les déserts d’Afrique. Nous pouvons la garder en version d’origine ou la customiser. Mais déjà quand nous appuyons un peu trop sur le champignon, nous commençons à nous heurter aux choix de la communauté, puis nous nous empêtrons dans un bouchon et comprenons le sens premier de l’interdépendance : l’emmerdement. Même de nos outils nous ne faisons pas toujours ce que nous voulons, dès que leurs usages interfèrent avec d’autres usages.
 
@@ -15,3 +15,5 @@ D’autant plus qu’internet ne résulte pas de la somme de services juxtaposé
 Ce paysage s’assombrit encore dès qu’on considère internet comme un territoire et non plus comme un assemblage d’outils indépendants. La biosphère numérique ne connaît pas plus de frontières que la biosphère terrestre. Rien n’arrête les pollutions, les ondes, les rumeurs. Il est désormais impossible de construire un internet hors d’internet. Tous embarqués sur le même bateau, nous pouvons tenter de nous protéger du tumulte, n’empêche qu’il gronde derrière les hautes grilles de notre jardin.
 
 Et quand certains prétendent pouvoir créer leur petite intimité au sein même d’un réseau social de grande ampleur, ils manquent cruellement de la conscience qui pourrait nous aider à inventer un autre internet. On ne réforme pas un pays en déménageant. On le réforme si on est des millions à bouger. Internet a désormais atteint cette taille critique où seules les foules peuvent l’altérer.
+
+Tags: NetCulture, une

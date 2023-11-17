@@ -31,3 +31,5 @@
 15. Ne jamais exprimer un avis.
 
 16. Au final, ne rien dire et se contenter d’affabuler.
+
+Tags: buzzlitt, une

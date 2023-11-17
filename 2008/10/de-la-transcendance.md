@@ -1,6 +1,6 @@
 # De la transcendance
 
-Dans notre imaginaire, transcender signifie souvent dépasser et englober. Le monde spirituel est sensé transcender le monde matériel. [Cette conception de la transcendance convient à une vision du monde hiérarchique ou holarchique.](https://tcrouzet.com/2008/10/02/de-l%e2%80%99idealisme-a-la-complexite/) Dans un monde, décentralisé, distribué, un monde en réseau, il faut repenser la transcendance.
+Dans notre imaginaire, transcender signifie souvent dépasser et englober. Le monde spirituel est sensé transcender le monde matériel. [Cette conception de la transcendance convient à une vision du monde hiérarchique ou holarchique.](http://blog.tcrouzet.com/2008/10/02/de-l%e2%80%99idealisme-a-la-complexite/) Dans un monde, décentralisé, distribué, un monde en réseau, il faut repenser la transcendance.
 
 De manière pragmatique, pour éviter le débat théologique, certains philosophes contemporains associent la transcendance à un phénomène émergeant. Mais là encore, l’émergence peut avoir deux interprétations.
 
@@ -28,6 +28,8 @@ Pourquoi faudrait-il de telles hypothèses ? Le monde n’est-il pas merveilleu
 
 Ouvrir la porte vers une sur-réalité, c’est ouvrir la porte à l’irresponsabilité. Au nom de ce que nous ne connaissons pas, au nom de l’inconnaissable, nous pouvons commettre des horreurs.
 
-En fait, j’aime tant l’idée de transcendance que je crois que nous devons transcender notre idée même de transcendance. Avec les ordinateurs, avec les cartographies et les simulations qu’ils nous aident à réaliser, nous pouvons imaginer des formes de transcendance qui ne se résument pas à des sacs à patates qui contiennent d’autres sacs à patates.
+En fait, j'aime tant l’idée de transcendance que je crois que nous devons transcender notre idée même de transcendance. Avec les ordinateurs, avec les cartographies et les simulations qu’ils nous aident à réaliser, nous pouvons imaginer des formes de transcendance qui ne se résument pas à des sacs à patates qui contiennent d’autres sacs à patates.
 
 Je me souviens m’être ainsi représenté le monde quand j’étais enfant. J’étais heureux, je croyais avoir compris alors que j’avais imaginé un schéma grossier. Notre cerveau n’est pas adapté à la complexité. Nous devons l’aider à l’appréhender avec des outils extérieurs. Ainsi nous commencerons à comprendre la transcendance qui se produit dans un monde dominé par l’interdépendance.
+
+Tags: Connecteur

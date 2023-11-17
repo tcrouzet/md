@@ -2,7 +2,7 @@
 
 > Rien dans l’univers ne saurait résister à un nombre suffisamment grand d’intelligences groupées et organisées. Pierre Teilhard de Chardin
 
-Guerres, pauvreté, inégalités, crises économiques, dérèglements climatiques, épuisement des matières premières… Nous semblons incapables de juguler les pires de nos maux, ceux qui touchent la globalité de l’humanité. Rien ne se passe. En 1981, [2,5 milliards de pauvres](https://tcrouzet.com/2008/12/11/la-pyramide-ne-decolle-pas/) et [18 gigatonnes de CO2 dispersés dans l’atmosphère](http://fr.wikipedia.org/wiki/%C3%89missions_de_CO2). Un quart de siècle plus tard, toujours 2,5 milliards de pauvres et 26 gigatonnes de CO2 dispersés ! Alors que la quantité de souffrante engendré par la pauvreté ne diminue pas, nous saccageons la planète. Nous avons des problèmes, de gros problèmes.<span id="more-7454"></span>
+Guerres, pauvreté, inégalités, crises économiques, dérèglements climatiques, épuisement des matières premières… Nous semblons incapables de juguler les pires de nos maux, ceux qui touchent la globalité de l’humanité. Rien ne se passe. En 1981, [2,5 milliards de pauvres](http://blog.tcrouzet.com/2008/12/11/la-pyramide-ne-decolle-pas/) et [18 gigatonnes de CO2 dispersés dans l’atmosphère](http://fr.wikipedia.org/wiki/%C3%89missions_de_CO2). Un quart de siècle plus tard, toujours 2,5 milliards de pauvres et 26 gigatonnes de CO2 dispersés ! Alors que la quantité de souffrante engendré par la pauvreté ne diminue pas, nous saccageons la planète. Nous avons des problèmes, de gros problèmes.<span id="more-7454"></span>
 
 Allons-nous les régler en un temps raisonnable ? Que nous manque-t-il pour y parvenir ? La pauvreté par exemple. C’est une catastrophe, certains disent inévitable. Pourquoi le serait-elle ? Au nom de quels principes ? Ce n’est pas parce que la pauvreté existe depuis toujours qu’elle doit se perpétuer. Techniquement, nous pouvons nourrir tous les hommes, leur proposer un service de santé ou leur offrir un logement décent. Inutile donc d’attendre une technologie miracle pour nous acheter une bonne conduite. Nous disposons déjà de toutes les technologies nécessaires pour réduire la pauvreté. Et nous ne faisons rien.
 
@@ -10,13 +10,13 @@ Disons, pour être moins sévère, que nous ne faisons presque rien. Si, entre 1
 
 Qu’est-ce que signifie travailler sur soi-même ? N’est-ce pas grandir, progresser, gagner en maturité ? Nous devons évoluer individuellement et collectivement. Nous ne cessons d’ailleurs de le faire depuis la nuit des temps. On a l’impression que ce processus se déroule pas à pas, calmement, progressivement alors que, comme l’a expliqué Stephen Jay Gould, des mutations biologiques extraordinaires se produisent en l’espace de quelques générations.
 
-— Mais la société humaine n’est pas un simple organisme !
+— Mais la société humaine n’est pas un simple organisme !
 
 Certes mais elle partage avec lui des propriétés communes, étant elles-mêmes un assemblage d’organismes. Des civilisations naissent, d’autres meurent, parfois s’effondrent en quelques années comme l’empire Aztèque. En toute probabilité, l’humanité traverse des phases de brusques transformations comparables à celles des organismes durant leur histoire. Les archéologues évoquent ainsi la révolution néolithique qui vit en plusieurs points du globe se développer l’élevage, l’agriculture, la confection de céramiques… et l’agrégation des premières communautés sédentaires.
 
 Nous ne jugulerons la pauvreté, la crise climatique et d’autres crises tout aussi alarmantes que si nous réussissons une mutation du même ordre. Nous ne réussirons que si nous franchissons une nouvelle étape dans notre évolution. Si nous en restons au point où nous en sommes, il se produira ce que nous connaissons déjà. Guerres. Massacres. Génocides. Pogroms. Nous subirons, améliorant la situation à un endroit, la laissant se détériorer ailleurs. Ne rêvons pas d’un nouvel ordre politique si nous sommes incapables de penser en même temps un changement autrement plus profond.
 
-— Les gens ont plus ou moins accepté que nos comportements provoquaient les changements climatiques, explique Elke Weber, une psychologue de l’université de Columbia . Cela ne signifie pas que les solutions technologiques ne sont pas importantes mais que, si la cause est comportementale, la solution passera par un changement de nos comportements.
+— Les gens ont plus ou moins accepté que nos comportements provoquaient les changements climatiques, explique Elke Weber, une psychologue de l’université de Columbia . Cela ne signifie pas que les solutions technologiques ne sont pas importantes mais que, si la cause est comportementale, la solution passera par un changement de nos comportements.
 
 ### Pourquoi devrions-nous transiter ?
 
@@ -28,7 +28,7 @@ Quand nous voyons quelqu’un d’autre souffrir, nous n’éprouvons pas la mê
 
 Mais quand nous ignorons qu’une maladie nous ronge, nous la laissons se développer jusqu’au point de non retour. De même, quand un fumeur apprend qu’il a 50 % de chance de développer un jour un cancer, il ne prend pas en général la menace au sérieux. La maladie n’étant qu’une hypothèse, il n’arrive pas à l’intégrer.
 
-— En Alaska, région déjà affectée par le réchauffement climatique, les citadins ne le considèrent pas plus comme une menace que les autres Américains, explique Anthony Leiserowitz chercheur à l’université de Yale . Même en Alaska, seuls les gens qui travaillent au contact de la nature ont prit conscience du dérèglement parce qu’ils le subissent.
+— En Alaska, région déjà affectée par le réchauffement climatique, les citadins ne le considèrent pas plus comme une menace que les autres Américains, explique Anthony Leiserowitz chercheur à l’université de Yale . Même en Alaska, seuls les gens qui travaillent au contact de la nature ont prit conscience du dérèglement parce qu’ils le subissent.
 
 Tant que nous ne ressentons pas la douleur, notre raison n’arrive pas à l’intégrer. L’absence de conscience nous prive de toute chance de réagir. L’humanité ne se trouve-t-elle pas dans cette situation ? La pauvreté ou les dérèglements climatiques ne sont-ils pas des espèces de cancer dont elle est incapable de prendre conscience en tant qu’entité globale ?
 
@@ -62,4 +62,4 @@ Mais rien ne changea dans la conscience des Grecs. Le monde restait petit, tel q
 
 Nous sommes aujourd’hui dans une situation comparable à celle d’Ératosthène. Nous comprenons qu’en nous interconnectant massivement, nous pouvons engendrer une conscience globale. Qu’allons-nous faire ? Attendre des siècles ? Risquer de plonger dans la barbarie faute de pouvoir régler les problèmes globaux ou nous lancer dans l’aventure extraordinaire qui s’offre à nous ? Il est trop tôt pour répondre. Nous pouvons juste essayer de saisir ce qui est en train de se jouer durant nos vies et tenter de toutes nos forces d’y participer, pour notre sauvegarde, aussi pour notre plus grande joie.
 
-*PS : Voici encore un texte écrit en préparation de mon prochain livre et que je n’utiliserai pas car j’ai adopté un style très différent.*
+*PS : Voici encore un texte écrit en préparation de mon prochain livre et que je n'utiliserai pas car j'ai adopté un style très différent.*

@@ -16,14 +16,18 @@ Comment *One Minute* se transforme en passant du blog à Wattpad et à l’epub.
 
 ### Partie II : La structure narrative
 
-Oriane décrit les mécanismes qui permettent au roman de raconter une histoire alors que le temps n’y existe pas (je suis confus, parce que c’est plus lumineux que dans ma tête).
+Oriane décrit les mécanismes qui permettent au roman de raconter une histoire alors que le temps n’y existe pas (je suis confus, parce que c'est plus lumineux que dans ma tête).
 
 \
 
 ### Remerciements
 
-J’ai du mal à trouver des mots après cette plongée dans mon roman. Je laisse [Jean-Yves Fréchette](https://twitter.com/JYFrechette) conclure.
+J'ai du mal à trouver des mots après cette plongée dans mon roman. Je laisse [Jean-Yves Fréchette](https://twitter.com/JYFrechette) conclure.
 
 \
 
-![C'était à Montpellier, le 26 novembre.](https://tcrouzet.com/images_tc/2015/11/rira.png)
+![C'était à Montpellier, le 26 novembre.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/rira.png)
+
+
+
+Tags: NetLittérature, Sur 1 minute, une

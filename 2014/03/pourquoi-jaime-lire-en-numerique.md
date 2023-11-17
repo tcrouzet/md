@@ -128,31 +128,31 @@ J’aime le face à face solitaire avec rien d’autre que les mots qui flottent
 
 ### 32
 
-J’aime lire en numérique parce que j’aime publier en numérique en étant mon seul censeur.
+J'aime lire en numérique parce que j'aime publier en numérique en étant mon seul censeur.
 
 ### 33
 
-J’aime me délester des objets superflus.
+J'aime me délester des objets superflus.
 
 ### 34
 
-J’aime les fichiers texte pour leur éternité cristalline et la beauté de leur minimalisme.
+J'aime les fichiers texte pour leur éternité cristalline et la beauté de leur minimalisme.
 
 ### 35
 
-J’aime protéger du feu, archiver partout, chez moi comme dans les nuages.
+J'aime protéger du feu, archiver partout, chez moi comme dans les nuages.
 
 ### 36
 
-J’aime mon mur de livres, mais les étagères débordent déjà de mes lectures de jeunesse.
+J'aime mon mur de livres, mais les étagères débordent déjà de mes lectures de jeunesse.
 
 ### 37
 
-J’aime les fichiers, car ils m’aident à lutter contre la tentation onéreuse de la collection.
+J'aime les fichiers, car ils m'aident à lutter contre la tentation onéreuse de la collection.
 
 ### 38
 
-J’aime lire dehors et voir la nuit tomber sans m’arrêter de lire.
+J'aime lire dehors et voir la nuit tomber sans m'arrêter de lire.
 
 ### 39
 
@@ -160,18 +160,22 @@ J’aime tant lire en numérique que lire sur papier me devient pénible.
 
 ### 40
 
-J’aime trop les livres objets pour me satisfaire des tirages commerciaux sur mauvais papier.
+J'aime trop les livres objets pour me satisfaire des tirages commerciaux sur mauvais papier.
 
 ### 41
 
-J’aime lire des textes porno sans que ça se voit.
+J'aime lire des textes porno sans que ça se voit.
 
 ### 42
 
-J’aime que le livre ne se referme pas sur mes mains à cause de sa reliure pourrie.
+J'aime que le livre ne se referme pas sur mes mains à cause de sa reliure pourrie.
 
 ### 43
 
-J’aime lire en numérique parce que c’est moins cher (si les éditeurs jouent le jeu).
+J'aime lire en numérique parce que c'est moins cher (si les éditeurs jouent le jeu).
 
-![Première page d'Ératosthène](https://tcrouzet.com/images_tc/2014/03/ipad.jpg)
+![Première page d'Ératosthène](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/ipad.jpg)
+
+
+
+Tags: eBooks, édition, une

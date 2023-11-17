@@ -1,6 +1,6 @@
 # La liberté mène-t-elle droit à l’esclavage ?
 
-Depuis mes [derniers articles sur la liberté](https://tcrouzet.com/tag/liberte/), cette question me turlupine. La liberté excessive dont nous disposons sur le Net, celle par exemple de prendre une photo et de la publier tout de suite, n’est-elle pas une condition préliminaire à la servitude volontaire, avant qu’elle ne devienne servitude tout court ?<span id="more-44786"></span>
+Depuis mes [derniers articles sur la liberté](http://tcrouzet.com/tag/liberte/), cette question me turlupine. La liberté excessive dont nous disposons sur le Net, celle par exemple de prendre une photo et de la publier tout de suite, n’est-elle pas une condition préliminaire à la servitude volontaire, avant qu’elle ne devienne servitude tout court ?<span id="more-44786"></span>
 
 Comment est apparu l’esclavage ? C’est un mystère. [Une hypothèse](http://www.antiquite.ac-versailles.fr/esclaves/servi02.htm) : on prenait les prisonniers de guerre et on leur imposait des travaux forcés. Qui dit travaux, dit une forme de sédentarisme. On imagine mal des chasseurs-cueilleurs imposer à leurs esclaves d’aller chasser ou cueillir, deux activités qui exigent une grande liberté de mouvement. Leurs prisonniers, ils les mangeaient ou les tuaient.
 
@@ -38,7 +38,7 @@ Le processus est pervers…
 
 10. Ainsi, depuis son apparition, le capitalisme n’a jamais cessé d’explorer de nouveaux territoires de jeu, et nous ne sommes qu’au début de l’exploitation de la ressource cognitive humaine. Le capitalisme 2.0, ou capitalisme cognitif, s’appuie d’un côté sur des cerveaux disponibles, de l’autre sur des IA pour les exploiter. Il fait de nous des prolétaires.
 
-[Faut-il interdire le travail gratuit comme le réclament certains artistes ?](http://www.telerama.fr/scenes/les-graphistes-en-colere-contre-la-fete-du-cinema,152905.php) Ça n’a pas beaucoup de sens. Est-ce que je travaille quand je publie une [photo de coucher de soleil](https://tcrouzet.com/category/photoblog/) ? Non, pas vraiment. Sauf si un jour cette photo, plutôt que celle d’un photographe professionnel, finit sur la couverture d’un livre.
+[Faut-il interdire le travail gratuit comme le réclament certains artistes ?](http://www.telerama.fr/scenes/les-graphistes-en-colere-contre-la-fete-du-cinema,152905.php) Ça n’a pas beaucoup de sens. Est-ce que je travaille quand je publie une [photo de coucher de soleil](http://tcrouzet.com/category/photoblog/) ? Non, pas vraiment. Sauf si un jour cette photo, plutôt que celle d’un photographe professionnel, finit sur la couverture d’un livre.
 
 Quand je donne, je ne peux donc savoir si cela sera reconnu comme travail. Je donne d’abord parce que ça me fait plaisir, je donne parce que je n’ai pas envie de tout vendre, parce que le don en lui-même me paraît précieux, justement par opposition au capitalisme.
 
@@ -50,7 +50,7 @@ Plus nous donnerons, plus on exigera de nous que nous donnions davantage. Je le 
 
 La force d’un système coercitif est de mettre sur le banc des accusés ceux qui refusent de jouer son jeu. Je pense aux TEDx, exemple même de ce processus. Dans cette organisation, tout le monde est bénévole, tout le monde est gentil… mon œil, car quelques-uns font leur beurre grâce à leur réputation acquise au nom des autres. Voici à l’œuvre le capitalisme 2.0, à une petite échelle, mais tous les mécanismes sont en place.
 
-Et ils sont puissants, capables de digérer les utopies politiques à leur profit. Ainsi [le revenu de base](https://tcrouzet.com/tag/revenu-de-base/) pourrait être une très mauvaise chose. En nous donnant plus de temps, il nous inciterait à donner plus, donc à nourrir le capitalisme 2.0. C’est assez flippant, et cela suffit à montrer qu’une idée qui vient du cœur peut être pire que le mal qu’elle entend combattre.
+Et ils sont puissants, capables de digérer les utopies politiques à leur profit. Ainsi [le revenu de base](http://tcrouzet.com/tag/revenu-de-base/) pourrait être une très mauvaise chose. En nous donnant plus de temps, il nous inciterait à donner plus, donc à nourrir le capitalisme 2.0. C’est assez flippant, et cela suffit à montrer qu’une idée qui vient du cœur peut être pire que le mal qu’elle entend combattre.
 
 Il serait donc dangereux d’instaurer le revenu de base si, dans le même temps, les contenus gratuits n’étaient pas rémunérés… d’où l’idée, comme le propose Antonio Casilli, de financer le revenu de base en faisant payer ceux qui exploitent nos données numériques.
 
@@ -58,7 +58,7 @@ Un beau programme qui malheureusement exige un tout autre internet que le nôtre
 
 Cette méthode exige de démarrer un nouveau réseau ou de passer en force par l’État. C’est d’ailleurs souvent par la régulation top-down que le capitalisme a été combattu. Abolition de l’esclavage. Droit du travail. Alors pourquoi ne pas monétiser de nos informations, à seule fin d’accroître le coût de la matière première qui alimente le capitalisme 2.0.
 
-À notre échelle, on fait quoi ? Nous pourrions décider de faire payer nos contenus. Ne plus rien publier gratuitement. « Vous voulez me lire ? Payez. » Ce serait se replier derrière le capitalisme 1.0. On ne peut pas dire que ce soit très alléchant, [d’autant que l’artisanat n’est plus réellement possible à l’âge de plateformisation du Web](https://tcrouzet.com/2014/09/16/la-fin-de-lartisanat-numerique/), à moins d’en revenir à un artisanat hyperlocal, envisageable pour les fruits et légumes, mais moins quand on produit des idées ou du code… pourquoi pas après tout imprimer mes textes sur papier ?
+À notre échelle, on fait quoi ? Nous pourrions décider de faire payer nos contenus. Ne plus rien publier gratuitement. « Vous voulez me lire ? Payez. » Ce serait se replier derrière le capitalisme 1.0. On ne peut pas dire que ce soit très alléchant, [d’autant que l’artisanat n’est plus réellement possible à l’âge de plateformisation du Web](http://tcrouzet.com/2014/09/16/la-fin-de-lartisanat-numerique/), à moins d’en revenir à un artisanat hyperlocal, envisageable pour les fruits et légumes, mais moins quand on produit des idées ou du code… pourquoi pas après tout imprimer mes textes sur papier ?
 
 Je pourrais aussi cacher mon blog. Interdire à Google de l’indexer, ne plus rien en dire sur les réseaux sociaux, interdire les liens vers lui… me créer un ermitage numérique comme il en existe de nombreux, bien cachés dans les replis du Web et dont les adresses circulent par mail.
 
@@ -67,3 +67,5 @@ Je ne suis pas sûr que se retirer du terrain de bataille soit la meilleure faç
 Mais, encore une fois, je ne suis pas sûr que ce soit la bonne stratégie, parce que ces algorithmes nous servent bien souvent, ne serait-ce que pour suivre l’évolution des épidémies. Je n’ai donc rien contre le fait de les alimenter, j’en veux à leurs propriétaires, à ceux qui investissent sur eux, oubliant de rétribuer tous les contributeurs, sans lesquels ils n’existeraient pas. J’en veux à l’égoïsme qui involue bien moins vite que n’évoluent les technologies.
 
 En attendant, je tente d’être vigilant, mais ça me fait mal de savoir que ce billet de mise en garde se transforme déjà en une machine à fric pour les capitalistes cognitifs.
+
+Tags: Capitalisme cognitif, Liberté, Libre, NetCulture, Revenu de base, une

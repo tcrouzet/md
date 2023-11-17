@@ -25,3 +25,5 @@ L’imprévisibilité n’est pas une idée, elle est aujourd’hui un fait scie
 *PS4 : Je suis par exemple pour une politique à long terme qui favoriserait l’action locale par rapport à l’action globale. Aucun politique ne défendra cette idée car il se saborderait lui-même, mais passons, ce n’est pas le sujet. Je suis en faveur de l’action locale car je crois qu’elle peut avoir des effets tout de suite. N’est-ce pas comme ça que nous menons nos vies d’ailleurs?*
 
 *PS5 : Tout ce que je constate c’est que Nassim Nicholas Taleb a vu juste. Peu d’entre nous acceptent l’idée d’un avenir totalement imprévisible. Presque tout le monde cherche à retomber sur ses pieds en invoquant une théorie ou une autre. Mais si une de ces théories marchait, son inventeur serait déjà l’homme le plus riche du monde. Pour le moment, cet homme là s’appelle Bill Gates et il joue ici et maintenant.*
+
+Tags: imprevisibilité

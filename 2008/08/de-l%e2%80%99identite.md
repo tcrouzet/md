@@ -1,14 +1,16 @@
 # De l’identité
 
-[Comme il arrive souvent j’ai l’impression d’écrire comme un pied et que vous ne comprenez rien à ce que j’écris.](https://tcrouzet.com/2008/08/01/exister-sur-le-web-et-ailleurs/) Encore une fois vous me faites dire ce que je n’ai pas dit, vous me faites dire le contraire, vous me faites dire ce que vous voulez m’entendre dire pour mieux me contredire. Je vais tout reprendre.
+[Comme il arrive souvent j'ai l'impression d'écrire comme un pied et que vous ne comprenez rien à ce que j'écris.](http://blog.tcrouzet.com/2008/08/01/exister-sur-le-web-et-ailleurs/) Encore une fois vous me faites dire ce que je n'ai pas dit, vous me faites dire le contraire, vous me faites dire ce que vous voulez m'entendre dire pour mieux me contredire. Je vais tout reprendre.
 
-Si vous attendez d’être sur internet pour changer de vie, vous ne changerez pas de vie et encore moins le monde. Les gens qui s’expatrient pour changer de vie ne changent rien. Le voyage ne suffit pas à faire un homme. Il est peut-être, tout au plus, une condition nécessaire. C’est en gros ce que je dis.
+Si vous attendez d'être sur internet pour changer de vie, vous ne changerez pas de vie et encore moins le monde. Les gens qui s'expatrient pour changer de vie ne changent rien. Le voyage ne suffit pas à faire un homme. Il est peut-être, tout au plus, une condition nécessaire. C'est en gros ce que je dis.
 
-Je suis pour l’expérimentation mais je ne vois pas pourquoi la limiter à des circonstances rares, à des moments particuliers. Au web par exemple. Voilà en fait le sujet de mes livres. Je dis « Regardez nous inventons sur le net d’autres façons de faire qui pourraient se généraliser ailleurs. »
+Je suis pour l'expérimentation mais je ne vois pas pourquoi la limiter à des circonstances rares, à des moments particuliers. Au web par exemple. Voilà en fait le sujet de mes livres. Je dis « Regardez nous inventons sur le net d'autres façons de faire qui pourraient se généraliser ailleurs. »
 
-Dans un monde complexe, il n’y a pas de frontière étanche. Plus internet se développe, plus ce que nous y faisons influence ce qui se passe en dehors d’internet et réciproquement.
+Dans un monde complexe, il n'y a pas de frontière étanche. Plus internet se développe, plus ce que nous y faisons influence ce qui se passe en dehors d’internet et réciproquement.
 
-Tout ce que vient de dire sur la consistance de l’être est en accord avec mes déclarations d’[interdépendance](https://tcrouzet.com/2008/07/18/la-declaration-dinterdependance/) et [d’interdépendance](https://tcrouzet.com/2008/07/21/declaration-d%e2%80%99independance/%20).
+Tout ce que vient de dire sur la consistance de l’être est en accord avec mes déclarations d’[interdépendance](http://blog.tcrouzet.com/2008/07/18/la-declaration-dinterdependance/) et [d’interdépendance](<http://blog.tcrouzet.com/2008/07/21/declaration-d%e2%80%99independance/
+
+>).
 
 Vous devez prendre en compte ces textes quand vous me lisez et ceux qui les ont amenés. Je ne suis pas un journaliste qui doit mettre toute sa pensée dans un seul article. Je n’ai pas cette contrainte. On conseille sur le net d’écrire court, j’écris long… et chacune de ces longueurs se fait suite.
 

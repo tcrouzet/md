@@ -1,6 +1,6 @@
 # Facebook et Twitter, bons pour la politique à papa
 
-J’ai été invité par les étudiants de Paris 11 pour donner une conférence sur les réseaux sociaux et la politique. Je me suis dit que j’allais reprendre du début (et commencer par citer quelques passages du *Peuple des connecteurs*). D’abord, donner à ruminer une citation de Nietzsche, paragraphe 4 du *Gai savoir*.<span id="more-15455"></span>
+J’ai été invité par les étudiants de Paris 11 pour donner une conférence sur les réseaux sociaux et la politique. Je me suis dit que j’allais reprendre du début (et commencer par citer quelques passages du *Peuple des connecteurs*). D'abord, donner à ruminer une citation de Nietzsche, paragraphe 4 du *Gai savoir*.<span id="more-15455"></span>
 
 > Le nouveau cependant est dans tous les cas le Mal en tant que ce qui veut conquérir, fouler aux pieds les anciennes bornes des frontières et les anciennes piétés ; et seul l’ancien constitue le Bien ! Les hommes bons de chaque époque sont ceux qui labourent à fond les anciennes pensées, et qui les font fructifier ; ce sont les cultivateurs de l’esprit. Mais à la fin tel champ ne rapporte plus et sans cesse il faut que le soc de la charrue du Mal vienne le remuer de nouveau.
 
@@ -10,7 +10,7 @@ En 1929, l’écrivain hongrois Frigyes Karinthy pressentit l’avènement d’u
 
 Cette idée resta d’ordre poétique jusqu’à ce que le sociologue Stanley Milgram se demande combien d’intermédiaires séparaient effectivement deux personnes choisies au hasard. En 1967, Milgram proposa à des habitants du Nebraska et du Kansas d’envoyer une lettre à un Bostonien dont ils n’avaient jamais entendu parler.
 
-— Quand je demandai à un ami intelligent par combien d’intermédiaires devraient passer les lettres, il estima qu’il en faudrait au moins une centaine, expliqua Milgram.
+— Quand je demandai à un ami intelligent par combien d’intermédiaires devraient passer les lettres, il estima qu’il en faudrait au moins une centaine, expliqua Milgram.
 
 À sa grande surprise, les lettres parvinrent à leur destinataire en passant par six intermédiaires en moyenne. La légende des six degrés de séparation était née : nous ne sommes pas socialement très éloignés les uns des autres. L’humanité forme un petit monde où nous nous connaissons indirectement presque tous.
 
@@ -22,17 +22,16 @@ L’idée de cartographier la société était née. Il fallut attendre la fin d
 
 En Californie, dans les bureaux de RAND Corporation, Paul Baran reçut pour mission de dessiner un système de communication permettant de résister à une attaque atomique. Cet ingénieur de 38 ans, qui venait de quitter une société pionnière dans la fabrication d’ordinateurs – domaine qu’il jugeait de peu d’avenir –, fut malgré lui ramené à l’informatique. Il analysa les réseaux de communication existant au début des années 1960 et découvrit qu’ils étaient de deux sortes.
 
-1. Dans un réseau en étoile, toutes les stations communiquent avec une station centrale, le nœud du réseau. Il suffit qu’elle soit détruite ou victime d’une panne pour que le réseau s’effondre. Cette architecture hautement centralisée ne possède aucune robustesse (entreprise pyramidale, dictature avec dictateur au sommet…).
-
+1. Dans un réseau en étoile, toutes les stations communiquent avec une station centrale, le nœud du réseau. Il suffit qu’elle soit détruite ou victime d’une panne pour que le réseau s’effondre. Cette architecture hautement centralisée ne possède aucune robustesse (entreprise pyramidale, dictature avec dictateur au sommet...).
 2. Le plus souvent, les réseaux en étoile s’interconnectent entre eux par l’intermédiaire de leur nœud et forment une architecture décentralisée. Si les nœuds sont faiblement interconnectés, le réseau reste vulnérable (liaisons aériennes avec des aéroports qui jouent le rôle de hub).
 
-— La question devint de trouver comment construire une structure fiable à partir de composants vulnérables, expliqua Paul Baran.
+— La question devint de trouver comment construire une structure fiable à partir de composants vulnérables, expliqua Paul Baran.
 
 En 1964, il proposa un nouveau type d’architecture : le réseau distribué. Dans un tel réseau, qui forme un filet au maillage étroit, aucun des nœuds ne joue un rôle prédominant. Tous les nœuds s’interconnectent à d’autres nœuds : si l’un d’eux est détruit, les communications restent néanmoins possibles. Cette architecture, bien plus résistante que l’architecture centralisée du réseau en étoile, apparaît aussi plus résistante que l’architecture décentralisée. Le réseau distribué est, en fait, un réseau hautement décentralisé (réseau routier).
 
-Les militaires, habitués à vivre dans un monde dominé par la hiérarchie, apprécièrent peu la suggestion de Paul Baran. De son côté, l’opérateur téléphonique AT&amp;T déclara la solution techniquement irréalisable. Pourtant, Internet n’allait pas tarder à voir le jour, suivant cette topologie imaginée par Paul Baran mais sans s’appuyer sur ses travaux, plusieurs personnes et institutions pensant chacune des bouts d’Internet sans encore le savoir.
+Les militaires, habitués à vivre dans un monde dominé par la hiérarchie, apprécièrent peu la suggestion de Paul Baran. De son côté, l’opérateur téléphonique AT&amp;T déclara la solution techniquement irréalisable. Pourtant, Internet n’allait pas tarder à voir le jour, suivant cette topologie imaginée par Paul Baran mais sans s'appuyer sur ses travaux, plusieurs personnes et institutions pensant chacune des bouts d'Internet sans encore le savoir.
 
-Internet a poussé sans que personne ne le décide, le planifie, le commandite. Aujourd’hui, il interconnecte 2 milliards d’hommes et de femmes. C’est la démonstration que en l’absence de chef et de coordination top-down nous pouvons construire de grandes choses..
+Internet a poussé sans que personne ne le décide, le planifie, le commandite. Aujourd'hui, il interconnecte 2 milliards d'hommes et de femmes. C'est la démonstration que en l'absence de chef et de coordination top-down nous pouvons construire de grandes choses..
 
 J’en reviens aux réseaux sociaux naturels (ceux observés par les sociologues), comme à ceux que nous créons sur Facebook ou Twitter. Spontanément, ils adoptent cette topologie distribuée et hautement décentralisée imaginée par Paul Baran. Il y existe des étoiles, des gens plus connectés que d’autres, mais les branches aussi s’interconnectent.
 
@@ -54,7 +53,7 @@ Rien de plus facile que de repérer les leaders, de faire circuler leurs photos,
 
 Si un gouvernement, même totalitaire, ne peut de but en blanc couper Internet, dont dépend aujourd’hui l’économie, il peut en revanche bloquer certains sites, les ralentir, les espionner à loisir.
 
-Quand on se trouve dans un pays politiquement agité, il est donc important de faire attention aux environnements qui sous-tendent les réseaux sociaux. Si on veut faire la révolution contre le totalitarisme, qui se traduit souvent par un excès de centralisation, il faut utiliser des outils antinomiques, c’est-à-dire se glisser partout sur le web, de préférence à travers des services P2P qui garantissent l’anonymat, [freenet](http://freenetproject.org/fr/index.html) par exemple.
+Quand on se trouve dans un pays politiquement agité, il est donc important de faire attention aux environnements qui sous-tendent les réseaux sociaux. Si on veut faire la révolution contre le totalitarisme, qui se traduit souvent par un excès de centralisation, il faut utiliser des outils antinomiques, c'est-à-dire se glisser partout sur le web, de préférence à travers des services P2P qui garantissent l’anonymat, [freenet](http://freenetproject.org/fr/index.html) par exemple.
 
 ### Mais en démocratie
 
@@ -80,16 +79,15 @@ Le top-down, vous connaissez. C’est « Fait ça et tais-toi. » C’est le s
 
 Pour moi, en France, les partis en sont encore à ce stade. Il n’est d’ailleurs pas étonnant qu’ils déploient tous leurs réseaux sociaux maison. Ils ont bien compris que Facebook était facile à espionner et que les patrons de Facebook disposaient d’une richesse inestimable, la carte sociale. Ils veulent alors s’approprier cette richesse, tout en maximisant leur contrôle sur leurs membres. Voilà pourquoi ils déploient des outils centralisés. S’ils étaient progressistes, ces partis feraient un pas vers le réseau social décentralisé.
 
-Le bottom-up maintenant. Les Iraniens se sont organisés de manière spontanée, en plusieurs points du pays, pour créer un mouvement d’ensemble qui a grossi. Nous avons assisté au même phénomène en 2005 en France avec les partisans du non lors des élections européennes. Comme pour Internet, personne ne s’est décrété a priori le chef de ces mouvements. Ils sont nés d’eux-mêmes, par une espèce de pression sociale tout azimut. Dans le premier cas, je le rappelle, grâce à des outils centralisés. Dans le second, à travers le Web d’une manière totalement décentralisée.
+Le bottom-up maintenant. Les Iraniens se sont organisés de manière spontanée, en plusieurs points du pays, pour créer un mouvement d’ensemble qui a grossi. Nous avons assisté au même phénomène en 2005 en France avec les partisans du non lors des élections européennes. Comme pour Internet, personne ne s’est décrété a priori le chef de ces mouvements. Ils sont nés d'eux-mêmes, par une espèce de pression sociale tout azimut. Dans le premier cas, je le rappelle, grâce à des outils centralisés. Dans le second, à travers le Web d’une manière totalement décentralisée.
 
-Le bottom-up, boosté par les réseaux sociaux, ne garantit pas l’indépendance. Lui aussi être une arme entre les mains des politiciens. Obama, lors de sa près-campagne et de sa campagne 2007-2008, nous en a fait la démonstration. Dans une moindre mesure, Ségolène Royal en 2006 lors des primaires au PS. Le bottom-up peut-être organisé de manière top-down. C’est une façon de profiter de l’intelligence collective, de la mettre au service d’une structure de pouvoir traditionnelle. Cela est facilité lorsque le bottom-up se fédère sur des outils centralisés.
+Le bottom-up, boosté par les réseaux sociaux, ne garantit pas l'indépendance. Lui aussi être une arme entre les mains des politiciens. Obama, lors de sa près-campagne et de sa campagne 2007-2008, nous en a fait la démonstration. Dans une moindre mesure, Ségolène Royal en 2006 lors des primaires au PS. Le bottom-up peut-être organisé de manière top-down. C’est une façon de profiter de l’intelligence collective, de la mettre au service d’une structure de pouvoir traditionnelle. Cela est facilité lorsque le bottom-up se fédère sur des outils centralisés.
 
-A priori, en théorie, aucune méthode d’organisation n’est meilleure que les autres. Tout dépend des combats, des situations. Il est en tout cas important de prendre conscience du cadre dans lequel on agit.
+A priori, en théorie, aucune méthode d'organisation n’est meilleure que les autres. Tout dépend des combats, des situations. Il est en tout cas important de prendre conscience du cadre dans lequel on agit.
 
 1. Top-down et obéissance.
-
 2. Bottom-up contrôlé top-down.
-
 3. Bottom-up spontané avec des outils centralisés.
+4. Bottom-up spontané avec des outils décentralisés, c’est ce que j’appelle le cinquième pouvoir. Il nous a donné Internet, le Web, Wikipedia dans une certaine mesure... et j'espère qu'il nous donnera une meilleure démocratie dans un monde plus humain.
 
-4. Bottom-up spontané avec des outils décentralisés, c’est ce que j’appelle le cinquième pouvoir. Il nous a donné Internet, le Web, Wikipedia dans une certaine mesure… et j’espère qu’il nous donnera une meilleure démocratie dans un monde plus humain.
+Tags: Facebook, Politique

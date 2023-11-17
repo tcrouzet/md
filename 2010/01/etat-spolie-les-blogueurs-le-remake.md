@@ -2,7 +2,7 @@
 
 Commençons l’année en beauté. Lisez-vous les billets avant de les commenter ? Les lisez-vous avant de les retweeter ? Les lisez-vous jusqu’au bout ? Pensez-vous aux contradictions volontaires que l’auteur peut y introduire ? Aux dissonances comme en jouent parfois les musiciens ?<span id="more-13006"></span>
 
-J’ai écrit [L’États spolie les blogueurs](https://tcrouzet.com/2009/12/30/l%E2%80%99etat-spolie-les-blogueurs/) juste pour déclencher une réaction mimétique. Juste pour effectuer une nouvelle expérience comme Narvic pourra en témoigner. Les réactions mécaniques qui s’ensuivirent, par leur prévisibilité, me désespèrent.
+J’ai écrit [L’États spolie les blogueurs](http://blog.tcrouzet.com/2009/12/30/l%E2%80%99etat-spolie-les-blogueurs/) juste pour déclencher une réaction mimétique. Juste pour effectuer une nouvelle expérience comme Narvic pourra en témoigner. Les réactions mécaniques qui s’ensuivirent, par leur prévisibilité, me désespèrent.
 
 Parfois je me demande si le Web ne nous rend pas con. J’ai encore l’espoir qu’il nous aide à nous individuer, à nous dégager de la masse et que l’idée même de la masse se volatilise. Le Web est un outil puissant pour effectuer cette transition mais est-il capable d’aider beaucoup de gens comme je le prétends dans mon prochain livre ?
 
@@ -14,7 +14,7 @@ J’étais bien loin de contempler le peuple des connecteurs. De temps à autres
 
 Que je sois clair. Je me fiche pas mal de l’indépendance de la presse que je ne lis pas. Vouloir informer les gens frise la prétention extrême, souvent partagée par les hommes de gauches qui sont persuadés de savoir ce qui est bon pour le peuple dans lequel ils évitent de se ranger.
 
-Je ne m’intéresse qu’à l’indépendance de l’homme, à commencer par la mienne. Alors quand certains ont cru lire dans mon billet que je réclamais quelque chose pour moi… Un mot, une nouvelle fois, s’est affiché dans mon esprit « superficialité », et on commente quelqu’un, sans même savoir ce qu’il pense, on réagit comme un chien de Pavlov… se croyant plus intelligent que celui auquel on s’adresse alors qu’il est préférable, toujours, de se croire plus bête.
+Je ne m'intéresse qu’à l’indépendance de l’homme, à commencer par la mienne. Alors quand certains ont cru lire dans mon billet que je réclamais quelque chose pour moi… Un mot, une nouvelle fois, s’est affiché dans mon esprit « superficialité », et on commente quelqu’un, sans même savoir ce qu’il pense, on réagit comme un chien de Pavlov… se croyant plus intelligent que celui auquel on s’adresse alors qu'il est préférable, toujours, de se croire plus bête.
 
 Ce billet n’était qu’un piège. Vous auriez dû l’ignorer comme vous ignorez les billets qui pour moi ont beaucoup de sens et que nous ne sommes que trois ou quatre à discuter mais à vraiment discuter, parfois au risque de nous étriper, cherchant à vivre au-delà de notre point de confort.
 
@@ -23,3 +23,5 @@ Je me dis parfois autant ne plus bloguer et me contenter d’échanger des mails
 Ici il peut y avoir de la vie, de l’intensité, je l’ai connue avec autant d’acuité qu’en me promenant en montagne ou qu’au cours de conversations endiablées. C’est possible mais en vérité tout aussi rare que hors d’ici. Alors à quoi bon ? Ce qui m’intéresse c’est aller au-delà. Le Web n’est-il pas en train de prendre une tournure qui nous amène en deçà ? Pas au-delà du désir mimétique comme je l’espère mais bien vers les foules lyncheuses ?
 
 Nous disposons d’une arme de destruction massive. Si nous ne nous dominons pas, nous risquons de sombrer dans la barbarie. Certains autoritaristes pourraient retourner cette arme contre nous. L’indépendance se gagne et se défend à chaque seconde. Ici comme ailleurs. Bonne année tout de même.
+
+Tags: Journalisme, NetCulture

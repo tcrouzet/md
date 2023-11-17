@@ -2,7 +2,7 @@
 
 Micro-posts, articles, livres… ils deviennent ou deviendront flux, se libérant du papier comme de la page web qui était censée le remplacer. Toute information se prête à la copie, à la propagation, à la réorganisation, à la représentation selon de multiples perspectives. Plus aucune raison technique ne l’attache à une forme graphique particulière quelle qu’en soit la volonté de l’auteur.<span id="more-8853"></span>
 
-Qui sinon Mallarmé pensa fond et forme comme un tout indissociable avec son poème [*Un coup de dés jamais n’abolira le hasard*](http://www.direz.org/site/uploads/Mallarme/Coupde.pdf). Et pourtant. Une simple recherche me montre que ce texte a été transformé par ses éditeurs successifs, traduit, recomposé. Je ne suis pas chez moi en ce moment, je n’ai pas consulté mon édition depuis longtemps, mais je suis sûr qu’elle ne respecte pas [le format travaillé par Mallarmé](http://chroniques.bnf.fr/archives/fevrier2007/numero_courant/collections/acquisitions.htm).
+Qui sinon Mallarmé pensa fond et forme comme un tout indissociable avec son poème [*Un coup de dés jamais n'abolira le hasard*](http://www.direz.org/site/uploads/Mallarme/Coupde.pdf). Et pourtant. Une simple recherche me montre que ce texte a été transformé par ses éditeurs successifs, traduit, recomposé. Je ne suis pas chez moi en ce moment, je n’ai pas consulté mon édition depuis longtemps, mais je suis sûr qu’elle ne respecte pas [le format travaillé par Mallarmé](http://chroniques.bnf.fr/archives/fevrier2007/numero_courant/collections/acquisitions.htm).
 
 S’il avait mené à bien son projet, s’il avait signé un bon à tirer définitif avant sa mort, il se serait néanmoins produit la même chose avec son œuvre. Elle aurait circulé, elle aurait inspiré d’autres poètes, d’autres typographes, elle serait peu à peu devenu flux, un potentiel formel infini.
 
@@ -24,7 +24,7 @@ Quelques auteurs expérimentateurs joueront toujours avec l’objet texte comme 
 
 ### Les larmes des lecteurs
 
-[Après mon billet sur la mort de l’édition](https://tcrouzet.com/2009/07/17/apres-la-presse-cest-ledition-qui-meurt/), on m’a dit que rien ne remplacerait l’odeur du papier, sa texture au bout de nos doigts, nos larmes d’émotion qui viennent le tâcher… Croyez-vous que je ne ressente pas tout cela comme vous ?
+[Après mon billet sur la mort de l’édition](http://blog.tcrouzet.com/2009/07/17/apres-la-presse-cest-ledition-qui-meurt/), on m’a dit que rien ne remplacerait l’odeur du papier, sa texture au bout de nos doigts, nos larmes d’émotion qui viennent le tâcher… Croyez-vous que je ne ressente pas tout cela comme vous ?
 
 J’aime aussi dans des ruines antiques laisser mes mains courir sur les vieilles inscriptions. C’est un des grands plaisirs de la vie mais d’autres sont venus le compléter, celui du papier, celui aujourd’hui du numérique. Je trouve les larmes dans les commentaires qui accompagnent les textes, dans les réponses hyperlinkés, les reprises, les retwitt exaspérés ou enthousiastes… les larmes imbibent le flux.
 
@@ -60,7 +60,7 @@ Selon cette perspective, l’économie du livre doit être repensée dans le cad
 
 On m’inflige encore et encore un argument massue : le livre restera longtemps attaché au papier.
 
-> C’est pourquoi il faut arracher aux dispositifs (à tous les dispositifs) la possibilité d’usage qu’ils ont capturé. La profanation de l’improfanable est la tâche politique de la génération à venir, écrit Giorgio Agamben, que je n’ai jamais lu, [cité par André Rougier dans un texte où il me répond](http://blog.liminaire.fr/post/2009/08/24/Labyrinthe-sans-occupant...).
+> C'est pourquoi il faut arracher aux dispositifs (à tous les dispositifs) la possibilité d'usage qu'ils ont capturé. La profanation de l'improfanable est la tâche politique de la génération à venir, écrit Giorgio Agamben, que je n’ai jamais lu, [cité par André Rougier dans un texte où il me répond](http://blog.liminaire.fr/post/2009/08/24/Labyrinthe-sans-occupant...).
 
 Nous devrions nous défier de l’ordinateur, nouveau grand Satan et nous précipiter, à 9 milliard, vers un monde naturaliste et non technologique. Bonjour la pagaille. Mais le livre n’est-il pas aussi un dispositif ? Pourquoi le préférer à un autre dispositif qui d’ailleurs n’a encore capturé qu’une infime parcelle de ses possibilités d’usage.
 
@@ -75,3 +75,5 @@ L’auteur est celui qui par son style, son sujet, son nom… nous attache dans 
 Nous sommes au contraire en train de gagner une liberté nouvelle, liberté de propulser. Et qui dit plus de liberté dit plus d’individualité, plus d’existence, plus de puissance d’être. La fluidification du livre est une nouvelle étape dans notre histoire dont la fluidification des news n’a fait que nous donner un aperçu.
 
 L’homme vit avec ses histoires, ses mythes, c’est ainsi qu’il refait le monde. Elles vont enfin circuler librement et à pleine vitesse. Personne ne peut anticiper ce qu’il en résultera. En quoi le passage au flux transformera nos histoires ? En quoi allons-nous écrire des choses jadis impensables ? C’est à mon sens la question la plus intéressante.
+
+Tags: NetCulture

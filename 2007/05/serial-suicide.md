@@ -5,6 +5,7 @@ Vendredi après-midi, je reçois un coup de fil de [Jérôme Colombain](http://w
 Je n’avais pas entendu parler de cette histoire. Mais en discutant avec Jérôme, j’ai trouvé que ce procès fait aux blogs ressemblait à celui fait durant les années 1980 au jeu de rôle. Jérôme a enregistré mon avis et il l’a diffusé samedi matin sur France info.
 
 \
+
 C’est donc hier matin en allant de chez moi à Montpellier que j’ai entendu le reportage. Les propos de Xavier Pommereau m’ont rendu fou de rage. Je viens de découvrir un nouvel ennemi de la liberté d’expression. Tout ce qu’il a dit, et que France Info a diffusé sans le moindre commentaire, est très grave, bien au-delà du drame corse.
 
 Une nouvelle fois, les conservateurs se servent de cette affaire pour s’attaquer à internet, s’attaquer à cet espace décentralisé et auto-organisé qui préfigure un nouvel ordre de la société humaine. Nous nous retrouvons encore une fois dans la confrontation que je dénonce de plus en plus souvent entre les conservateurs/pollueurs et les hommes libres.
@@ -27,7 +28,7 @@ Un suicide peut en entraîner un autre. Si les blogs sont ainsi capables d’amo
 
 Certes les blogs permettent la communication personnalisée mais pas plus que le téléphone, le courrier ou les discussions dans les cours d’école.
 
-Pour Xavier Pommereau, internet devient un catalyseur de suicide mais, pas la radio, où le même Xavier Pommereau s’exprime avec insouciance. Et si c’était à force d’entendre parler à télé ou à la radio de cette histoire que des jeunes se mettaient à se suicider ? Au fait, les suicides en chaîne ça existe depuis longtemps, même avant internet (on va finir par croire qu’il n’y avait rien avant le net).
+Pour Xavier Pommereau, internet devient un catalyseur de suicide mais, pas la radio, où le même Xavier Pommereau s’exprime avec insouciance. Et si c’était à force d’entendre parler à télé ou à la radio de cette histoire que des jeunes se mettaient à se suicider ? Au fait, les suicides en chaîne ça existe depuis longtemps, même avant internet (on va finir par croire qu'il n'y avait rien avant le net).
 
 Dans ces propos, j’ai entendu avant tout une attaque en règle contre notre média. La moindre occasion est saisie pour s’attaquer à notre espace de liberté. « Il faudrait réglementer d’avantage la circulation sur internet. C’est un véritable enjeu de santé publique. »
 
@@ -41,8 +42,8 @@ Le n’importe quoi est là mais des idées neuves surgissent, se renforcent, pu
 
 N’oublions jamais que, si l’évolution ne s’était pas donnée carte blanche, nous ne serions même pas là. Il faut laisser la créativité s’exprimer, il n’y a pas de bonnes ou de mauvaises choses a priori, mais des choses qui parfois prennent du poids et deviennent essentielles.
 
-Pourquoi s’attaquer internet et pas aux autres médias ? Parce qu’internet n’est pas contrôlé par une minorité et n’est pas contrôlable. Alors on veut s’attaquer à ce monstre qui ressemble d’ailleurs à nos adolescents qui échappent peu à peu à leurs parents. C’est justement la condition de l’émancipation.
+Pourquoi s'attaquer internet et pas aux autres médias ? Parce qu’internet n’est pas contrôlé par une minorité et n’est pas contrôlable. Alors on veut s’attaquer à ce monstre qui ressemble d’ailleurs à nos adolescents qui échappent peu à peu à leurs parents. C’est justement la condition de l’émancipation.
 
-Je trouve déplorable que ces tentatives de suicide, évènement douloureux pour les familles, soient utilisées afin de régler des comptes d’un enjeu planétaire. Je suis conforté dans l’idée que [la guerre a commencé](https://tcrouzet.com/2007/05/20/integrisme-ou-ecologie-faut-choisir/).
+Je trouve déplorable que ces tentatives de suicide, évènement douloureux pour les familles, soient utilisées afin de régler des comptes d’un enjeu planétaire. Je suis conforté dans l’idée que [la guerre a commencé](http://blog.tcrouzet.com/2007/05/20/integrisme-ou-ecologie-faut-choisir/).
 
-*PS : Et si je parle de cette affaire c’est parce que je ne peux pas me taire ([référence mes propos sur le succès des blogs](https://tcrouzet.com/2007/05/26/comment-booster-un-blog/)).*
+*PS : Et si je parle de cette affaire c'est parce que je ne peux pas me taire ([référence mes propos sur le succès des blogs](http://blog.tcrouzet.com/2007/05/26/comment-booster-un-blog/)).*

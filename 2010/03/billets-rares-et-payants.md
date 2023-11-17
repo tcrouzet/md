@@ -17,3 +17,5 @@ Rien n’est encore très clair. En réaction au [dernier numéro de *Books*](ht
 Il me semble qu’il faut trouver un moyen de rester dans l’économie de l’abondance tout en ne perdant pas de vue que ce qui est rare aura toujours plus de valeur que ce qui est abondant. En plus, rien n’empêche de rendre un texte rare abondant en le faisant entrer dans le domaine public après quelques semaines.
 
 Cette méthode pour créer de la rareté ponctuelle m’apparaît comme une alternative aux dons que demandent [Paul Jorion](http://www.pauljorion.com/blog/) ou [Jacques-Olivier Teyssier](http://www.montpellier-journal.fr/). Jorion crée la rareté avec ses livres, au risque de laisser croire qu’il ne fait qu’y répéter ce qu’il dit sur son blog. Teyssier lui a un rôle d’utilité publique, venant se substituer à la faiblesse endémique de la presse régionale. Il apparaît logique de le financer, même si on ne le lit pas, tant sa fonction sociale est vitale. C’est Teyssier lui-même qui est rare.
+
+Tags: NetCulture

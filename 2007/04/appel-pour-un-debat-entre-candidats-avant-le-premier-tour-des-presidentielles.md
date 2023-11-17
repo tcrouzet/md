@@ -18,12 +18,14 @@ Les diverses solutions techniques ayant été trouvées, nous appelons aujourd�
 
 Parmi les premiers signataires de cet appel :
 
-- des médias citoyens : [AgoraVox](http://www.agoravox.fr), [La Tele Libre](http://www.latelelibre.fr/)…
+- des médias citoyens : [AgoraVox](http://www.agoravox.fr), [La Tele Libre](http://www.latelelibre.fr/)...
 
-- des médias : [20 Minutes](http://www.20minutes.fr/), [Dauphiné Libéré](http://www.ledauphine.com/), [Marianne2007.info](http://www.marianne2007.info/), [Les Echos](http://www.lesechos.fr/), [Libé](http://www.liberation.fr/)…
+- des médias : [20 Minutes](http://www.20minutes.fr/), [Dauphiné Libéré](http://www.ledauphine.com/), [Marianne2007.info](http://www.marianne2007.info/), [Les Echos](http://www.lesechos.fr/), [Libé](http://www.liberation.fr/)...
 
-- des blogeurs : [Sylvain Attal](http://sylvainattal.blogspot.com/), [Thierry Crouzet](http://blog.tcrouzet.com), [Christophe Carignano](http://carignano.blog.20minutes.fr/), [Mémoire Vive](http://www.memoire-vive.org/archives/001381.php), [Nicolas Voisin](http://www.nuesblog.com), [Page2007](http://www.page2007.com/), [Versac](http://www.versac.net/), [Tristan Mendes France](http://www.egoblog.net/), [Europeus](http://www.europeus.org/), [Netpolitique](http://www.netpolitique.net/)…
+- des blogeurs : [Sylvain Attal](http://sylvainattal.blogspot.com/), [Thierry Crouzet](http://blog.tcrouzet.com), [Christophe Carignano](http://carignano.blog.20minutes.fr/), [Mémoire Vive](http://www.memoire-vive.org/archives/001381.php), [Nicolas Voisin](http://www.nuesblog.com), [Page2007](http://www.page2007.com/), [Versac](http://www.versac.net/), [Tristan Mendes France](http://www.egoblog.net/), [Europeus](http://www.europeus.org/), [Netpolitique](http://www.netpolitique.net/)...
 
-- des associations : [Humains Associés](http://www.humains-associes.org/blog/), [Débat 2007](http://www.debat2007.fr/)…
+- des associations : [Humains Associés](http://www.humains-associes.org/blog/), [Débat 2007](http://www.debat2007.fr/)...
 
 Pour signer cette pétition, vous pouvez aller sur [debat.agoravox.fr](http://debat.agoravox.fr/).
+
+Tags: Buzz

@@ -34,7 +34,7 @@ Les critères quantitatifs, les seuls objectifs, les seuls aujourd’hui mis en 
 
 3. Les filtres par recommandation inaugurés par Amazon n’en sont qu’à leur balbutiement. En général, ils ne tiennent pas compte de notre expérience utilisateur…
 
-4. Le temps consacré à la création d’une œuvre peut-il entrer en compte dans la mesure de sa qualité ? Non, bien évidement. Un singe qui taperait à la machine pendant 20 ans ne surpasserait pas John Kerouac qui écrivit *On the road* en quelques jours.
+4. Le temps consacré à la création d'une œuvre peut-il entrer en compte dans la mesure de sa qualité ? Non, bien évidement. Un singe qui taperait à la machine pendant 20 ans ne surpasserait pas John Kerouac qui écrivit *On the road* en quelques jours.
 
 5. Mais Kerouac ne décida pas soudain d’écrire un livre culte. Il tourna autour du pot de longues années, années durant lesquelles il accumula la matière de son œuvre.
 
@@ -44,6 +44,6 @@ Les critères quantitatifs, les seuls objectifs, les seuls aujourd’hui mis en 
 
 8. Le bruit médiatique en revanche risque de décourager beaucoup de talents profonds, ceux qui justement cherchent à accumuler de l’expérience. À force de voir monter au pinacle des artistes qui n’ont d’artiste que le nom, on peut finir par se décourager.
 
-9. Au final, je ne suis pas sûr que notre époque produise plus de chefs-d’œuvre que les époques précédentes. Le nombre de chefs-d’œuvre n’est pas proportionnel à la taille de la population. Il suffit de regarder l’Athènes de Périclès ou la Florence des Médicis.
+9. Au final, je ne suis pas sûr que notre époque produise plus de chefs-d'œuvre que les époques précédentes. Le nombre de chefs-d’œuvre n’est pas proportionnel à la taille de la population. Il suffit de regarder l’Athènes de Périclès ou la Florence des Médicis.
 
 10. Pour qu’un âge d’or survienne, il faut que les talents puissent s’exprimer, se stimuler et que les conditions extérieures les encouragent. Aujourd’hui, les deux premières conditions sont à coup sûr remplies grâce à internet. Je doute parfois pour la troisième, à cause de la prédominance des filtres universellement attachés au quantitatif.

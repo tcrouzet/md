@@ -2,7 +2,7 @@
 
 Plus nous regardons la télé (pas moi… je l’ai pas), moins nous votons. C’est une idée dans l’air.
 
-![](https://tcrouzet.com//images_tc/200610coev.gif)
+![](http://tcrouzet.com/https://tcrouzet.com/images_tc/200610coev.gif) 
 
 Dans mon prochain livre, je vais publier et commenter ce graphique qui parle de lui-même. Je l’ai concocté en corrélant diverses études ([le taux d’abstention aux élections depuis 1958](http://www.tns-sofres.com/etudes/dossiers/d_abstention.htm) et la traditionnelle étude [Médiamétrie](http://www.mediametrie.fr/contenu.php?rubrique=tv&rubrique_id=355&menu_id=198) que j’ai reconstituée en glanant à droite à gauche). Si quelqu’un connaît d’autres sources, je suis preneur.<span id="more-243"></span>
 
@@ -13,3 +13,5 @@ Je crois maintenant qu’Internet va inverser la tendance. Pour étayer cette th
 Je sais que le nombre d’encartés vient de faire un bond. J’ai l’intuition que plus Internet se développe, plus il nous redonne goût à la participation, donc à l’engagement sous toutes ses formes (le vote étant la forme la moins exigeante à mes yeux).
 
 Pour le moment, je n’ai pas assez de données pour tracer une quelconque courbe, même une courbe qui viendrait contredire mon analyse. Là encore, si l’un de vous connaît des sources… ça m’intéresse. Si je ne trouve rien de prémâché, je contacterai un à un les partis pour connaître leur nombre de sympathisants sur les dix dernières années.
+
+Tags: noepub, Politique

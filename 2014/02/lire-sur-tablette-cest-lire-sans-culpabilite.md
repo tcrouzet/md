@@ -7,3 +7,5 @@ Comme la lecture est une activité souvent publique, j’imagine que la lecture 
 Lire en numérique, c’est lire dans l’intimité, même quand on est au lit avec quelqu’un d’autre. On peut s’envoyer un porno et prétendre lire un essai de Crouzet. Cette lecture secrète ne peut que favoriser les best-sellers et les textes jadis tendancieux. « Même plus de scrupule. Personne ne le saura. »
 
 Le numérique loin de pousser le lecteur à l’exploration l’inciterait à assouvir sa curiosité de ce qui excite les autres, et donc de lire les mêmes textes qu’eux. Le numérique n’est que potentiellement une machine à diversifier. C’est une possibilité théorique qui ne peut advenir que si nous nous en saisissons en grand nombre.
+
+Tags: best-sellers, eBook, édition, une

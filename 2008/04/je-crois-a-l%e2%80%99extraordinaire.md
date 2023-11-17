@@ -2,7 +2,7 @@
 
 Je suis souvent mal compris, surtout sur Agoravox. Je voudrais essayer de mettre ma pensée au clair. Tout d’abord, je ne m’intéresse pas à 9/11, je m’en sers comme exemple pour discuter d’une possibilité : celle des choses extraordinaires.
 
-À la limite, je veux bien envisager dans l’ensemble des possibles la théorie du complot mais je veux aussi envisager le black swan, la survenue de l’improbable, de l’extraordinaire. Selon moi, tant que nous n’avons pas de certitude, cette possibilité du black swan ne peut pas être écartée.
+À la limite, je veux bien envisager dans l’ensemble des possibles la théorie du complot mais je veux aussi envisager le black swan, la survenue de l’improbable, de l’extraordinaire. Selon moi, tant que nous n'avons pas de certitude, cette possibilité du black swan ne peut pas être écartée.
 
 En discutant avec les partisans de la théorie du complot, je découvre qu’ils ne veulent pas admettre l’extraordinaire, ils ne croient pas à sa possibilité, non seulement pour 9/11 mais de manière plus générale. D’une certaine façon, pour eux, rien ne se fait par hasard. Il y a toujours des intentions. J’aimerais tenir ma vie avec autant de certitude… J’aimerais que rien ne soit au hasard… mais ce serait peut-être ennuyeux.
 

@@ -18,14 +18,18 @@ Alors, pourquoi céder mes droits à un éditeur qui, en toute probabilité, ne 
 
 Il est peut-être temps de renverser la niche sur la tête du chien. De signer, en tant qu’auteur, des contrats avec des partenaires qui assureront la correction, l’édition, la promotion des œuvres, en simples prestataires de services, rémunérés au pourcentage. Dans ces circonstances, l’auteur reste libre, il n’appartient à aucune écurie. Et la notion de contrat d’édition est révoquée.
 
-Parce que cette affaire date [de l’époque de Beaumarchais](http://www.sacd.fr/De-1777-a-nos-jours.32.0.html) où diffuser un livre exigeait un imprimeur et des ressources matérielles onéreuses et rares. Terminé tout ça. J’ai entre les mains la même puissance que Gallimard (sauf vis-à-vis des jurés des prix littéraires). Je peux diffuser seul, je n’ai donc plus besoin d’un contrat d’édition. Pas si simple. Dans le même temps, mes textes circulent partout librement, que je l’aie choisi ou non (et ça ne me dérange pas). Il faut donc que toi, lecteur, tu t’engages moralement.
+Parce que cette affaire date [de l'époque de Beaumarchais](http://www.sacd.fr/De-1777-a-nos-jours.32.0.html) où diffuser un livre exigeait un imprimeur et des ressources matérielles onéreuses et rares. Terminé tout ça. J’ai entre les mains la même puissance que Gallimard (sauf vis-à-vis des jurés des prix littéraires). Je peux diffuser seul, je n’ai donc plus besoin d’un contrat d’édition. Pas si simple. Dans le même temps, mes textes circulent partout librement, que je l’aie choisi ou non (et ça ne me dérange pas). Il faut donc que toi, lecteur, tu t’engages moralement.
 
 > Quand tu aimes un de mes textes, tu dois l’acheter *a posteriori* si tu ne l’a pas fait *a priori*.
 
 C’est un peu comme au restau, je ne parle pas de MacDo. Tu goûtes le texte et ne le payes que si tu le manges, c’est-à-dire que si tu passes avec lui un peu de temps.
 
-Dans ces conditions, sociales et technologiques, les éditeurs pourraient exiger le même contrat moral entre eux et toi, mais en tant qu’entités juridiques je ne sais pas trop ce que ça peut signifier. Reste que comme auteur je peux encore accepter un contrat avec un éditeur, à la condition qu’il s’engage à me générer un revenu. Et avec une close de rupture, dès qu’il n’y parvient plus. Sinon c’est un peu comme si les locataires restaient *Ad vitam* dans les appartements dont ils ne peuvent plus payer le loyer. Ça s’appelle squatter. Trop souvent, les éditeurs ne sont que des squatteurs d’œuvres.
+Dans ces conditions, sociales et technologiques, les éditeurs pourraient exiger le même contrat moral entre eux et toi, mais en tant qu'entités juridiques je ne sais pas trop ce que ça peut signifier. Reste que comme auteur je peux encore accepter un contrat avec un éditeur, à la condition qu'il s'engage à me générer un revenu. Et avec une close de rupture, dès qu'il n'y parvient plus. Sinon c'est un peu comme si les locataires restaient *Ad vitam* dans les appartements dont ils ne peuvent plus payer le loyer. Ça s'appelle squatter. Trop souvent, les éditeurs ne sont que des squatteurs d'œuvres.
 
-Je sens qu’on m’accusera de généraliser. Oui, il existe des gens biens dans toutes les professions. Mais avouez que vos contrats d’édition sont des antiquités. Du moment que je n’ai plus besoin de vous pour me diffuser, vous ne pouvez pas m’engager au-delà du jour où nous ne gagnons plus d’argent ensemble.
+Je sens qu'on m'accusera de généraliser. Oui, il existe des gens biens dans toutes les professions. Mais avouez que vos contrats d'édition sont des antiquités. Du moment que je n'ai plus besoin de vous pour me diffuser, vous ne pouvez pas m'engager au-delà du jour où nous ne gagnons plus d'argent ensemble.
 
-![Je signe ou je ne signe pas ?](https://tcrouzet.com/images_tc/2014/09/publishing-contract.jpeg)
+![Je signe ou je ne signe pas ?](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/publishing-contract.jpeg)
+
+
+
+Tags: édition, une

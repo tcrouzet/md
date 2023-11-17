@@ -42,4 +42,8 @@ Avec un revenu de base par création monétaire, on donne à tout le monde et le
 
 Une pensée pour la Nef, la banque éthique, aujourd’hui en vérité un établissement financier, qui a la prétention de devenir banque. Mais alors la Nef aurait le droit de créer monnaie, c’est-à-dire un privilège que les autres agents de l’économie n’ont pas. Pas très éthique tout ça. L’éthique ne peut être que dans un droit égal de tous vis-à-vis de la création monétaire. Une banque éthique est un non-sens.
 
-![Hollande en guerre.](https://tcrouzet.com/images_tc/2014/08/hollande-en-visite-au-mali.jpg)
+![Hollande en guerre.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/hollande-en-visite-au-mali-600x400.jpg)
+
+
+
+Tags: Revenu de base, une

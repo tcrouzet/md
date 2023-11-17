@@ -12,4 +12,6 @@ L’argent pourrait être distribué à une variété de causes… passant direc
 
 C’est juste une idée… je suis prêt à vous embêter avec une petite pub si c’est pour la bonne cause.
 
-*PS : Beaucoup de blogueurs ont apprécié cette idée, certains se sont insurgés contre la publicité. Leur rêve d’un internet sans pub, c’est un internet qui n’existe pas. Sans pub, sans revenu, les services gratuits n’existeraient pas, intenet de serait plus qu’une succursale des puissants (les grosses boîtes et les gouvernements). Sans pub Firefox n’existerait pas. Nous avons le choix de surfer en refusant les pub… mais alors il faut s’abstenir de surfer sur les services gratuits qui vivent grâce à la pub.*
+*PS : Beaucoup de blogueurs ont apprécié cette idée, certains se sont insurgés contre la publicité. Leur rêve d'un internet sans pub, c’est un internet qui n'existe pas. Sans pub, sans revenu, les services gratuits n’existeraient pas, intenet de serait plus qu’une succursale des puissants (les grosses boîtes et les gouvernements). Sans pub Firefox n’existerait pas. Nous avons le choix de surfer en refusant les pub… mais alors il faut s'abstenir de surfer sur les services gratuits qui vivent grâce à la pub.*
+
+Tags: Connecteur

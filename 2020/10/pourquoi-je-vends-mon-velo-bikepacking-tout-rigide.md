@@ -18,7 +18,7 @@ Là les choses ont commencé à dérailler dans ma tête. Quel intérêt de pass
 
 3. J’ai une bécane plus simple, donc en théorie moins à risque de casse. Un point contestable dans la pratique. Je malmène depuis longtemps mes tout suspendus ou semi-rigide et je n’ai jamais eu le moindre problème à cause des suspensions. Donc l’argument plus grande fragilité ne tient pas beaucoup, sauf si on part pour de très longs voyages. De nombreux tout suspendus ont terminé la Tour Divide, tel étant mon objectif ultime.
 
-![Epic HT](https://tcrouzet.com/images_tc/2020/10/IMG_2076-1.jpeg)
+![Epic HT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_2076-1.jpeg)
 
 Lors des recos pour la GTH fin août et début septembre, j’ai tantôt roulé avec le tout rigide, tantôt avec le tout suspendu, et chaque fois je m’éclatais davantage avec le second. Au moment du départ, j’ai fini par opter pour lui, malgré ses 2 kg de plus et son sac de cadre deux fois plus petit. Et j’ai eu raison, surtout quand nous avons changé de route et coupé par des singles techniques. J’ai pu foncer, sans être arcbouté sur les freins comme je l’aurais été sur mon tout rigide.
 
@@ -38,8 +38,12 @@ Les roues, la cassette, le dérailleur et le plateau n’ont jamais servi. Je n�
 
 Pour 300€ de plus, je le vends dans la config en photo avec potence Hope, guidon carbone SQ-LAB, bar end SQ-LAB, poignée ergonomique SQ-LAB.
 
-![À vendre Epic HT](https://tcrouzet.com/images_tc/2020/10/IMG_3339.jpeg)
+![À vendre Epic HT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3339.jpeg)
 
-![À vendre Epic HT](https://tcrouzet.com/images_tc/2020/10/IMG_3342.jpeg)
+![À vendre Epic HT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3342.jpeg)
 
-![À vendre Epic HT](https://tcrouzet.com/images_tc/2020/10/IMG_3346.jpeg)
+![À vendre Epic HT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_3346.jpeg)
+
+
+
+Tags: Born to Bike, une

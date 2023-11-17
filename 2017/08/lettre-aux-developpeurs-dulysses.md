@@ -1,10 +1,10 @@
 # Lettre aux développeurs d’Ulysses
 
-Vous venez soudainement de changer de modèle économique, passant à l’abonnement. Je suis attaché à [votre éditeur de texte](https://ulyssesapp.com), pieds et poings liés, parce qu’[il n’en existe pas de meilleur pour le moment](https://tcrouzet.com/2016/10/19/les-outils-de-lecrivain/) (et qu’on ne me parle pas de cette usine à gaz de Scrivener). Je l’avais donc acheté, en version macOS et iOS, et je viens de m’abonner pour pouvoir continuer à l’utiliser à l’avenir.<span id="more-45708"></span>
+Vous venez soudainement de changer de modèle économique, passant à l'abonnement. Je suis attaché à [votre éditeur de texte](https://ulyssesapp.com), pieds et poings liés, parce qu’[il n’en existe pas de meilleur pour le moment](http://tcrouzet.com/2016/10/19/les-outils-de-lecrivain/) (et qu’on ne me parle pas de cette usine à gaz de Scrivener). Je l’avais donc acheté, en version macOS et iOS, et je viens de m’abonner pour pouvoir continuer à l’utiliser à l’avenir.<span id="more-45708"></span>
 
 Je vous avoue que je n’apprécie pas votre décision. C’est comme si je devais payer un livre chaque fois que je le relis. Si l’auteur le réécrivait, ça ne me choquerait pas, mais quand il se contente de corriger quelques fautes d’orthographe, je ne suis pas très heureux de devoir débourser 30 €/an. Je ne le fais qu’au regard d’une promesse incertaine.
 
-![Options d'abonnement d'Ulysses](https://tcrouzet.com/images_tc/2017/08/abo-ulysses.jpg)
+![Options d'abonnement d'Ulysses](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/08/abo-ulysses.jpg)
 
 Quand un livre ne rapporte plus à un auteur, il en écrit un autre. Vous auriez pu inventer autre chose. D’ailleurs depuis qu’Ulysses est disponible sur macOS et iOS, vous tournez un peu en rond, lui ajoutant des fioritures sans vous attaquer réellement à ses réels manques. Je me fiche bien d’avoir des emojis en plus. Prenez garde. En changeant de modèle, vous avez changé mes attentes.
 
@@ -29,3 +29,5 @@ Voici selon moi des chantiers urgents. J’espère que nous serons nombreux à n
 1. Options perdues lors des mises à jour (modes d’affichage, zoom, corrections automatiques, numérotation des paragraphes…).
 
 2. Le sélecteur de style de l’exportation rapide bugue quand je change de format d’impression, et d’ailleurs il ne conserve pas les derniers réglages quand on relance Ulysses.
+
+Tags: Critique, Ulysses, une

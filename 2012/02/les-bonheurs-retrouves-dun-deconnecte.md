@@ -28,7 +28,7 @@ Une fois mon corps et la continuité du temps retrouvé, je me suis senti plus p
 
 J’ai toujours été un grand lecteur. J’ai une immense bibliothèque avec des milliers de BD, de livres d’art, de romans, d’essais. Tous les genres se mêlent. Mes disques durs débordent d’ebooks. À quoi bon ? Il aura fallu que je me déconnecte pour prendre conscience que ne je ne lisais plus. Je n’avais pas arrêté d’acheter des livres ou de les télécharger, j’avais arrêté de les lire du début à la fin. Je me contentais le plus souvent des premières pages et je sautais aux dernières.
 
-C’est en retrouvant le silence, le temps long, en frôlant l’ennui, que je me suis remis à vraiment lire des livres. J’y plongeais sans que rien ne m’en arrache. J’ai retrouvé un plaisir oublié, notamment avec l’extraordinaire [*Rêves de Gloire*](http://www.amazon.fr/R%C3%AAves-Gloire-Roland-C-Wagner/dp/2841725405) de Roland Wagner.
+C’est en retrouvant le silence, le temps long, en frôlant l’ennui, que je me suis remis à vraiment lire des livres. J’y plongeais sans que rien ne m’en arrache. J’ai retrouvé un plaisir oublié, notamment avec l’extraordinaire [*Rêves de Gloire*](http://www.amazon.fr/Rêves-Gloire-Roland-C-Wagner/dp/2841725405) de Roland Wagner.
 
 Malheureusement, depuis mon retour en ligne, j’ai à nouveau réduit mon temps passé avec les livres. Ce n’est pas que je lis moins, mais je lis autre chose, les blogs notamment. Je sais qu’à l’avenir je serai obligé de me ménager des pauses loin du numérique. La déconnexion est une nécessité.
 
@@ -37,3 +37,5 @@ Malheureusement, depuis mon retour en ligne, j’ai à nouveau réduit mon temps
 C’est un paradoxe. En me coupant du Net, j’ai pris conscience avec une acuité redoublée des valeurs et principes qu’il m’avait inculqués : partage, entraide, coopération, auto-organisation, liberté, équité… J’ai découvert que je devais me battre pour elles, que sans elles le monde n’échapperait pas aux multiples crises qui l’agitent. J’ai compris que la vie en ligne m’était tout aussi indispensable que la vie hors ligne, que c’est en passant de l’une à l’autre que je vivrais heureux notre époque. J’ai alors vécu la déconnexion comme un périple initiatique. Je me suis vu changer, grandir…
 
 Cette sensation m’a motivé dans l’écriture de mon livre. J’avais la chance de vivre une déconnexion extrême, je devais la partager avec ceux qui, par exemple pour des raisons professionnelles, ne peuvent pas tenter l’expérience. J’ai essayé de leur offrir une vie par procuration, exactement comme si j’étais un alpiniste qui racontait son ascension de l’Everest en solo, conscient que la plupart de ses lecteurs ne pourraient pas l’imiter.
+
+Tags: J'ai débranché, NetCulture, une

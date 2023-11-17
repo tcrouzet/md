@@ -1,12 +1,12 @@
 # Le nucléaire est vraiment mort
 
-C’est aussi parce que je suis un fou de nouvelles technologies que je suis [contre le nucléaire](https://tcrouzet.com/2007/05/02/pas-de-centrale-pres-de-chez-moi/) tout autant que le moteur à explosion (je sais je roule avec une voiture de 200 cv turbo – chacun ses contradictions).
+C’est aussi parce que je suis un fou de nouvelles technologies que je suis [contre le nucléaire](http://blog.tcrouzet.com/2007/05/02/pas-de-centrale-pres-de-chez-moi/) tout autant que le moteur à explosion (je sais je roule avec une voiture de 200 cv turbo – chacun ses contradictions).
 
 Je suis tombé hier sur [des chiffres très intéressants](http://www.newscientisttech.com/channel/tech/mg19426024.400-high-cost-of-capturing-solar-energy-is-diminishing.html).
 
 - Coût de l’électricité produite à partir du gaz : 4 c/kwh.
 
-- Coût de l’électricité produite à partir du nucléaire : 7 c/kwh (coût qui n’intègre évidemment pas la prise en charge de l’héritage des centrales).
+- Coût de l’électricité produite à partir du nucléaire : 7 c/kwh (coût qui n’intègre évidemment pas la prise en charge de l'héritage des centrales).
 
 - Coût de l’électricité produite à partir des centrales solaires CSP : 15 c/kwh. CSP pour *Concentrated Solar Power*, c’est-à-dire les centrales qui focalisent les rayons du soleil pour faire chauffer un fluide. En Californie, 9 centrales CSP alimentent 350 000 personnes.
 

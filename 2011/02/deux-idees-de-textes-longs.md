@@ -6,7 +6,7 @@ Le blog comble mon désir d’immédiateté et de fulgurance. Intuitions immédi
 
 Mais pour provoquer quelque chose de plus profond chez le lecteur et moi-même me transformer, je dois me frotter à une matière plus dense.
 
-Je suis en ce moment en attente. Je vais retravailler mon éternel Ératosthène mais il me faut plonger dans quelque chose d’autre. J’ai évoqué l’idée d’écrire sur [*La démerdocratie*](https://tcrouzet.com/2011/01/14/la-demerdocratie/), mais j’ai envie d’une parenthèse théorique. Attaquer la montagne par la voie directe n’est pas toujours la meilleure solution. Alors je pourrais raconter des histoires, où me raconter, c’est dans cette direction que je navigue en ce moment dans ma tête.
+Je suis en ce moment en attente. Je vais retravailler mon éternel Ératosthène mais il me faut plonger dans quelque chose d’autre. J’ai évoqué l’idée d’écrire sur [*La démerdocratie*](http://blog.tcrouzet.com/2011/01/14/la-demerdocratie/), mais j’ai envie d’une parenthèse théorique. Attaquer la montagne par la voie directe n’est pas toujours la meilleure solution. Alors je pourrais raconter des histoires, où me raconter, c’est dans cette direction que je navigue en ce moment dans ma tête.
 
 ### Déconnexion totale / Débranché
 
@@ -21,3 +21,5 @@ Au risque de vous surprendre, j’avoue que j’ai aimé *Un roman français* de
 Sur un rythme peut-être guère différent c’est un autre roman que j’ai envie d’écrire. Tout en respectant [la structure en layering](http://writerunboxed.com/2011/01/30/3-layers-of-layering-in-fiction/), ce serait l’histoire d’un geek, celui de quelqu’un qui vit un peu avant les autres ce que tout le monde va bientôt vivre (jeux de rôle, jeux vidéos, informatique, startups, mobilité…).
 
 Je pourrais sans doute ainsi décrire comment une pensée politique ni de gauche ni de droite se construit, comment j’en suis arrivé à concevoir le connecteur… et comment cette conception ne peut que finir par devenir elle aussi mainstream une fois que la culture qui l’induit aura été digérée par beaucoup de gens.
+
+Tags: Cuisine

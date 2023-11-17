@@ -2,7 +2,7 @@
 
 Johnny et Doc Gynéco, ça fait chic dans un meeting politique. Bayrou et Voynet dans une réunion de blogueurs, ça en jette aussi pas mal. À tous les coups, ça attire nos amis journalistes comme des mouches.
 
-Hier soir se tenait à Paris la deuxième République des blogs. À côté de Dominique Voynet, [auto-invitée](http://vanb.typepad.com/versac/2006/09/une_prsidentiab.html) comme les autres blogueurs, se trouvait François Bayrou. Il ne nous à pas imposé sa présence parce que le matin même [je l’avais invité](https://tcrouzet.com/2006/09/27/francois-bayrou/).
+Hier soir se tenait à Paris la deuxième République des blogs. À côté de Dominique Voynet, [auto-invitée](http://vanb.typepad.com/versac/2006/09/une_prsidentiab.html) comme les autres blogueurs, se trouvait François Bayrou. Il ne nous à pas imposé sa présence parce que le matin même [je l’avais invité](http://blog.tcrouzet.com/2006/09/27/francois-bayrou/).
 
 Mais pourquoi a-t-il accepté cette invitation ? Sans doute pas pour mes beaux yeux. Avant d’imaginer les raisons de Bayrou, je vais revenir sur notre entretien du matin et l’invitation elle-même.
 
@@ -16,11 +16,11 @@ Avec ces questions en tête, j’arrive donc hier matin rue de l’Université a
 
 J’ai traversé une cour, franchi un portail, puis une seconde cour ensoleillée avant d’entrer dans l’immeuble coquet de l’UDF. La réceptionniste m’a demandé de monter au second, l’assistante de Bayrou m’a installé dans un fauteuil, j’ai rêvassé quelques minutes. Une réunion se préparait. Tout le monde se pressait devant la machine à café. J’avais l’impression d’être dans une entreprise comme une autre. La politique est-elle une entreprise comme une autre ?
 
-Bayrou est enfin sorti, il m’a serré la main, s’est éloigné un moment puis nous sommes entrés dans son bureau tapissé de livres. Je lui ai expliqué [qui j’étais](https://tcrouzet.com/infos.php) et pourquoi je voulais le rencontrer. Il a commencé par me parler de l’émergence du peuple d’internet. « C’est un peuple qui accède à toute l’information. » et « C’est un peuple créatif et coopératif. Je considère que les logiciels libres et les wikis sont deux choses fantastiques pour l’humanité. »
+Bayrou est enfin sorti, il m’a serré la main, s’est éloigné un moment puis nous sommes entrés dans son bureau tapissé de livres. Je lui ai expliqué [qui j’étais](http://blog.tcrouzet.com/infos.php) et pourquoi je voulais le rencontrer. Il a commencé par me parler de l’émergence du peuple d’internet. « C’est un peuple qui accède à toute l’information. » et « C’est un peuple créatif et coopératif. Je considère que les logiciels libres et les wikis sont deux choses fantastiques pour l’humanité. »
 
 Tout ça, c’est évident pour moi. Bayrou le sait. Mais il sait aussi que c’est important que je l’entende, que j’entende qu’il appartient lui-même à ce peuple d’internet, peuple que j’appelle [*Le peuple des connecteurs*](http://www.tcrouzet.com/connecteurs/) car il dépasse de loin le cadre d’internet.
 
-Bayrou a dit une chose essentielle, je crois. « Tu as une chanson, j’ai une chanson, nous l’échangeons, nous avons deux chansons. » J’ai traduit en disant que c’était une stratégie [gagnant-gagnant](https://tcrouzet.com/2006/05/12/win-win/) (oubliant le côté scabreux que peut avoir une tel exemple pour l’industrie du disque).
+Bayrou a dit une chose essentielle, je crois. « Tu as une chanson, j’ai une chanson, nous l’échangeons, nous avons deux chansons. » J’ai traduit en disant que c’était une stratégie [gagnant-gagnant](http://blog.tcrouzet.com/2006/05/12/win-win/) (oubliant le côté scabreux que peut avoir une tel exemple pour l’industrie du disque).
 
 Je crois que Bayrou a saisi cette nouveauté fondamentale. Nous ne sommes plus dans une logique où l’un perd et l’autre gagne mais où tout le monde gagne. Si nous n’adoptons pas cette stratégie, nous ne nous en tirerons pas en tant qu’espèce sur notre planète.
 
@@ -34,7 +34,7 @@ Comme la veille avec Éric Walter à l’UMP, nous avons aussi parlé stratégie
 
 **L’invitation**
 
-Après coup, je peux essayer de comprendre pourquoi j’ai fait ça. En mai dernier, avec Loïc Le Meur, [nous nous sommes demandés ce que nous pouvions faire pour agir](https://tcrouzet.com/2006/05/10/podcast-chez-lemeur/). Nous étions fatigués de dire que la France est un pays de merde. Nous n’avions pas envie de fuir une nouvelle fois à l’étranger pour nous extraire de la morosité. Il était temps d’agir. Comme nous avons découvert une façon de vivre qui nous paraît plus harmonieuse que celle que nous avons pu connaître par le passé, nous nous sommes dit que nous devions partager nos recettes.
+Après coup, je peux essayer de comprendre pourquoi j’ai fait ça. En mai dernier, avec Loïc Le Meur, [nous nous sommes demandés ce que nous pouvions faire pour agir](http://blog.tcrouzet.com/2006/05/10/podcast-chez-lemeur/). Nous étions fatigués de dire que la France est un pays de merde. Nous n’avions pas envie de fuir une nouvelle fois à l’étranger pour nous extraire de la morosité. Il était temps d’agir. Comme nous avons découvert une façon de vivre qui nous paraît plus harmonieuse que celle que nous avons pu connaître par le passé, nous nous sommes dit que nous devions partager nos recettes.
 
 Loïc a choisi la stratégie droit au but. Pour changer les choses, il faut avoir le pouvoir. Le plus simple est de se rapprocher d’un des favoris à la course au pouvoir et d’essayer de changer les choses de l’intérieur. Pour ma part, je crois qu’il faut agir de l’extérieur, sur de nouvelles bases, je crois que le véritable pouvoir appartient déjà au cinquième pouvoir.
 
@@ -42,7 +42,7 @@ Loïc est d’accord avec moi mais veut des résultats tout de suite. Nous avons
 
 En me retrouvant un instant seul devant la photocopieuse du siège de l’UDF, je me suis dit qu’inviter Bayrou à notre soirée blogs et politique allait dans le bon sens. C’était une façon de mettre en avant une autre voix, surtout de lui donner un autre éclairage.
 
-Au final, je me suis planté. Toutes la presse était là aussi. Personne n’a pu parler de rien. Bayrou s’est retrouvé non entre les mains du cinquième pouvoir mais entre celles du bon vieux quatrième pouvoir envers lequel il est si critique en ce moment. Et je me suis éclipsé pour refaire le monde entre blogueurs. [Parlant d’une l’idée qui m’était venue le matin même et qui me paraissait plus importante que tout battage médiatique.](https://tcrouzet.com/2006/09/27/l%e2%80%99argent-des-blogueurs/)
+Au final, je me suis planté. Toutes la presse était là aussi. Personne n’a pu parler de rien. Bayrou s’est retrouvé non entre les mains du cinquième pouvoir mais entre celles du bon vieux quatrième pouvoir envers lequel il est si critique en ce moment. Et je me suis éclipsé pour refaire le monde entre blogueurs. [Parlant d’une l’idée qui m’était venue le matin même et qui me paraissait plus importante que tout battage médiatique.](http://blog.tcrouzet.com/2006/09/27/l%e2%80%99argent-des-blogueurs/)
 
 **Alors pourquoi Bayrou est-il venu ?**
 
@@ -60,8 +60,10 @@ Je peux essayer maintenant de répondre à cette question en inventoriant des hy
 
 Une chose est sûre. Après mon invitation, Bayrou n’a pas tergiversé. Sa réponse a été franche et spontanée. Il n’a pas calculé. Comment aurait-il pu le faire car il ne savait même pas que se déroulait cette réunion ? Bayrou est venu parce qu’il fallait venir, parce que comme il me la dit « Tout ça va changer le monde. »
 
-Lors de la prochaine réunion, je renouvellerai l’expérience si Versac l’organisateur en accepte l’idée. Je viendrais avec un invité mais cette fois nous n’en parlerons à personne. Ce sera une surprise, une exclusivité du cinquième pouvoir. Avis aux volontaires.
+Lors de la prochaine réunion, je renouvellerai l’expérience si Versac l'organisateur en accepte l'idée. Je viendrais avec un invité mais cette fois nous n’en parlerons à personne. Ce sera une surprise, une exclusivité du cinquième pouvoir. Avis aux volontaires.
 
 *PS1 : J’use de l’énonciation parce que l’objectivité n’a aucun sens. Derrière leur « on », les journalistes nous bourrent le mou. Au moins s’ils disaient « je » nous saurions ce qu’ils pensent. Quand je dis « je », je ne me cache pas.*
 
-*PS2 : Je n’avais pas anticipé la présence de la TV, je croyais qu’on discuterait et qu’on pourrait semer nos petites graines comme j’ai essayé de le faire en discutant avec Bayrou le matin. Les journalistes ont pourri la soirée. Mais l’important c’est d’avoir établi une connexion, à nous maintenant de la faire fructifier, celle là comme toutes les autres.*
+*PS2 : Je n'avais pas anticipé la présence de la TV, je croyais qu’on discuterait et qu’on pourrait semer nos petites graines comme j’ai essayé de le faire en discutant avec Bayrou le matin. Les journalistes ont pourri la soirée. Mais l’important c’est d’avoir établi une connexion, à nous maintenant de la faire fructifier, celle là comme toutes les autres.*
+
+Tags: Politique

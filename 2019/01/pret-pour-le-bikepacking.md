@@ -16,15 +16,15 @@ Le cadre en aluminium pèse environ 2 kg. J’ai écarté les vélos en carbone 
 
 Je n’ai reçu le Timberjack que deux semaines avant le départ du raid (le 2 février 2019). J’ai donc attendu le dernier moment pour commander le matériel de camping, en m’inspirant des [comptes rendus des bikepackers d’expérience](https://www.facebook.com/groups/1396341304006680/), ainsi que ceux des [anciens participants de l’HuRacAn](https://www.singletracks.com/blog/mtb-gear/how-do-you-pack-for-an-epic-340-mile-bikepacking-route/), l’épreuve ayant été créée en 2012. J’ai aussi roulé avec le Timberjack autant que j’ai pu, sans pour autant me griller.
 
-J’ai tenté une sortie de 70 bornes avec mon Camelbak lesté de 3 kg d’eau, de barres de céréale et d’outils, et j’ai très vite compris que j’étais incapable d’enchaîner ainsi plusieurs journées de plus de cent bornes avec 6 kg sur le dos. J’ai donc décidé de ne rien porter dans mon dos à part mon téléphone (contrairement à mon habitude quand je fais du VTT).
+J’ai tenté une sortie de 70 bornes avec mon Camelbak lesté de 3 kg d’eau, de barres de céréale et d’outils, et j’ai très vite compris que j'étais incapable d’enchaîner ainsi plusieurs journées de plus de cent bornes avec 6 kg sur le dos. J’ai donc décidé de ne rien porter dans mon dos à part mon téléphone (contrairement à mon habitude quand je fais du VTT).
 
-![Salsa Timberjack](https://tcrouzet.com/images_tc/2019/01/IMG_2945.jpg)
+![Salsa Timberjack](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/IMG_2945-600x450.jpg)
 
 Pour loger le matos, j’ai opté pour trois sacs, dans le but d’équilibrer le vélo et de mettre le plus de poids possible à l’intérieur du cadre.
 
-![Poste de pilotage](https://tcrouzet.com/images_tc/2019/01/P1080514.jpg)
+![Poste de pilotage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080514-600x450.jpg)
 
-![Matos de camping](https://tcrouzet.com/images_tc/2019/01/P1080530.jpg)
+![Matos de camping](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080530-600x450.jpg)
 
 Dans le sac de guidon, un [Apidura Expedition 14L](https://www.apidura.com/shop/expedition-handlebar-pack/), j’ai logé mon matériel de camping (le tout pèse 2,435 kg, ce qui est assez extraordinaire).
 
@@ -40,9 +40,9 @@ Dans le sac de guidon, un [Apidura Expedition 14L](https://www.apidura.com/shop/
 
 - [Collants de récupération/Pyjama](https://www.2xu.com/us/p/refresh-recovery-compression-tights/MA4419b.html?dwvar_MA4419b_color=BLACK_NERO#start=1).
 
-![Sac de cadre](https://tcrouzet.com/images_tc/2019/01/P1080518.jpg)
+![Sac de cadre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080518-600x450.jpg)
 
-![Contenu du sac de cadre](https://tcrouzet.com/images_tc/2019/01/P1080537.jpg)
+![Contenu du sac de cadre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080537-600x450.jpg)
 
 Dans le sac de cadre, un [Salsa Exp Series HT 7,7L](https://salsacycles.com/components/category/bags_frame_packs/exp_series_ht_framepacks), j’ai logé le matériel de première nécessité (la pompe étant accrochée au-dessous, une gourde de secours au-dessus).
 
@@ -68,9 +68,9 @@ Dans le sac de cadre, un [Salsa Exp Series HT 7,7L](https://salsacycles.com/comp
 
 - Antivol.
 
-![Sac de selle](https://tcrouzet.com/images_tc/2019/01/P1080517.jpg)
+![Sac de selle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080517-600x450.jpg)
 
-![Contenu du sac de selle](https://tcrouzet.com/images_tc/2019/01/P1080542.jpg)
+![Contenu du sac de selle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080542-600x450.jpg)
 
 Dans le sac de selle, un [Ortlieb 11L](https://www.ortlieb.com/us/seatpack), j’ai casé tout le reste.
 
@@ -114,13 +114,13 @@ Dans le sac de selle, un [Ortlieb 11L](https://www.ortlieb.com/us/seatpack), j�
 
 - À l’extérieur, feu arrière.
 
-![Poste de pilotage](https://tcrouzet.com/images_tc/2019/01/P1080511.jpg)
+![Poste de pilotage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/P1080511-600x450.jpg)
 
 Sur le guidon, j’ai mon Garmin 820 et ma lampe [Nitcore BR35](https://flashlight.nitecore.com/product/br35) que je peux relier à ma batterie de secours. Voilà, c’est beaucoup, et pas grand-chose. Je n’ai pas de cuissard de rechange, pas de maillot de rechange, je fais confiance aux lingettes pour me tenir à peu près propre. Je ne transporte quasiment rien à manger, car il y a des points de ravitaillement sur le parcours, et même des restaurants.
 
 Après avoir roulé une centaine de kilomètres avec le vélo ainsi chargé, je sais qu’il me sera difficile d’effectuer l’HuRaCan en quatre jours. Même si le Timberjack est équilibré, le poids change la dynamique. Je pense donc effectuer la boucle en cinq jours. Je n’ai d’ailleurs aucune raison de me presser, d’autant qu’il a beaucoup plu le week-end dernier et que les chemins seront très lourds.
 
-![Prévisions pour l'Huracan](https://tcrouzet.com/images_tc/2019/01/meteoH.png)
+![Prévisions pour l'Huracan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/meteoH-600x231.png)
 
 Maintenant, je passe mon temps à scruter la météo. L’état du ciel se précise peu à peu. De jour en jour, le risque de pluie s’amenuise, avec des températures ne descendant pas au-dessous de 14°C le matin et pouvant dépasser les 25°C l’après-midi.
 
@@ -128,6 +128,8 @@ Comment mon corps réagira-t-il ? Et mon esprit ? Je n’en ai aucune idée. M
 
 Je suis attiré par l’exercice, comme si le besoin était inscrit en moi depuis toujours et qu’il avait attendu des années avant de s’exprimer. Je ressens ce qu’il faut de crainte pour ne pas me lancer tête baissée dans le raid. J’ai [bossé la carte](https://drive.google.com/open?id=1_Up-vkTOf9FQricNRjAjMikkZLh_bEkt&usp=sharing). Je sais où se situent les points de ravitaillement et les campements possibles. J’ai [discuté avec les autres concurrents](https://www.facebook.com/groups/655069387938777/). Je suis prêt même si j’aurais aimé deux semaines de plus pour fignoler les réglages du vélo.
 
-![Pourquoi faire du vélo](https://tcrouzet.com/images_tc/2019/01/rideto-1.jpg)
+![Pourquoi faire du vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/01/rideto-1-387x450.jpg)
 
 Pourquoi tout ça ? [Une affiche publiée dans le forum bikepacking France](https://www.facebook.com/groups/1396341304006680/permalink/1956994644608007/) résume ma position. « Je ne fais pas du vélo pour gagner des courses ou même me placer. Je fais du vélo pour échapper à ce monde. Je fais du vélo pour trouver la paix en moi-même. Je fais du vélo pour me sentir libre. Je fais du vélo pour me sentir fort. » Je peux remplacer « faire du vélo » par « écrire », ça marche aussi.
+
+Tags: Born to Bike, une

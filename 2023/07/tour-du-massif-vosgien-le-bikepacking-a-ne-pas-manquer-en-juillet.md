@@ -141,3 +141,5 @@ Voici [mes stats Strava](https://tcrouzet.com/2023/07/16/tour-du-massif-vosgien-
 ![](https://tcrouzet.com/images_tc/2023/07/bilan.jpg)
 
 ![J1, j'arrive au départ](https://tcrouzet.com/images_tc/2023/07/au_depart.jpg)
+
+Tags: Born to Bike, une

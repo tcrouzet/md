@@ -5,4 +5,7 @@
 D’un autre côté, au fond de moi, un petit démon libertaire me dit, que nous pouvons peut-être imaginer une société où il n’y aurait tout simplement pas d’homme de pouvoir. Si cette société idéale est possible (internet nous laissant penser que oui), il nous reste toutefois à la construire et, en attendant, l’approche d’Étienne me paraît vitale. Sans une nouvelle constitution française, mais aussi européenne, nous ne construirons jamais un monde libre auquel nous aspirons car les hommes au pouvoir, pour conserver leur pouvoir, lutteront contre nous.
 
 <div></div>
+
 <div></div>
+
+Tags: Chouard, tirage au sort

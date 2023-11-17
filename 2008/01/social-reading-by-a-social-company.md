@@ -11,3 +11,5 @@ Comment ? Je ne sais pas trop encore. Il va falloir imaginer un montage mais l�
 Nous pourrions, nous fondateurs, conserver 50 % des parts et redistribuer les 50 % restant aux auteurs. Sur le principe des stocks options, il doit être possible de toujours proposer de nouvelles actions en procédant à des augmentations de capital régulière.
 
 J’avoue que je ne connais rien en finance mais j’ai l’intuition que le montage est possible. Nous allons y travailler.
+
+Tags: Buzz

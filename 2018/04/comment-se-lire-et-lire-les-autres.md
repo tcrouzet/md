@@ -24,7 +24,7 @@ Repensez à mes textes qui dans mon atelier changent sans cesse de forme. Quelle
 
 Pour autant, je peux décider de travailler certaines formes plutôt que d’autres. Voilà pourquoi je passe du temps à fignoler le template de mon blog, sachant que tout cela n’est pas déterminant, même si ce n’est pas négligeable. Je ne peux ignorer que je lis les blogs des autres avec un agrégateur, donc hors du Web.
 
-J’espère ainsi répondre à [Anna-Maria Wegekreuz](https://www.facebook.com/photo.php?fbid=10156405485293593&set=a.10153895345658593.1073741830.574723592&type=3&comment_id=10156410590873593&force_theater=true) qui quand je dis que mes mots sont les mêmes dans toutes ces formes, dont d’ailleurs la plupart m’échappent, me dit : « C’EST FAUX. Les mots ne sont pas les mêmes, car ils ne sont pas lus pareil. » ou quand je dis que la signification doit être cherchée dans le texte, pas dans le paratexte, me dit encore : « C’EST FAUX. Le texte et le paratexte ne sont pas séparables. On ne peut lire l’un sans l’autre, ce qui ne nous autorise pas à négliger le texte. »
+J’espère ainsi répondre à [Anna-Maria Wegekreuz](https://www.facebook.com/photo.php?fbid=10156405485293593&set=a.10153895345658593.1073741830.574723592&type=3&comment_id=10156410590873593&force_theater=true) qui quand je dis que mes mots sont les mêmes dans toutes ces formes, dont d’ailleurs la plupart m’échappent, me dit : « C’EST FAUX. Les mots ne sont pas les mêmes, car ils ne sont pas lus pareil. » ou quand je dis que la signification doit être cherchée dans le texte, pas dans le paratexte, me dit encore : « C'EST FAUX. Le texte et le paratexte ne sont pas séparables. On ne peut lire l'un sans l'autre, ce qui ne nous autorise pas à négliger le texte. »
 
 Justement, aujourd’hui texte et forme peuvent être séparés par la démultiplication formelle, et même texte et paratexte. Quand vous lisez ce billet sur mon blog vous ne voyez pas le même paratexte que dans votre mail, votre agrégateur, quelqu’un qui aurait copié ce billet, l’aurait converti en PDF…
 
@@ -37,3 +37,5 @@ Cette polyphonie de formes possibles ne doit pas nous empêcher de penser nos in
 Il est temps d’étudier les textes à l’âge de la profusion formelle et à l’âge de la profusion des paratextes, travail qu’[Oriane Deseilligny a esquissé avec son étude sur *One minute*](http://nt2.uqam.ca/fr/cahiers-virtuels/article/one-minute-de-thierry-crouzet-metamorphoses-dun-texte-dun-dispositif-lautre).
 
 *PS : Cette histoire c’est un peu comme si les biologistes disaient qu’un poisson rouge n’est plus le même poisson rouge quand on le change de bassin (idée qui me vient en illustrant le billet, donc sous l’influence de sa forme telle que vue sur mon blog — comme quoi la forme change l’écriture).*
+
+Tags: NetLittérature, une

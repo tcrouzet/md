@@ -1,6 +1,6 @@
 # Un pouvoir indéterminé
 
-J’entends parfois des gens se plaindre que le cinquième pouvoir ne fonctionne pas toujours, par exemple suite à l’[initiative pluralisme.org](https://tcrouzet.com/2007/02/16/appel-citoyen-pour-le-pluralisme-democratique/). Mais heureusement ! Si ce pouvoir marchait systématiquement, il serait terrible, il serait pire que le pire des pouvoirs dictatoriaux. Il suffirait que des citoyens souhaitent quelque chose pour que cette chose advienne, la société deviendrait alors un enfer.
+J’entends parfois des gens se plaindre que le cinquième pouvoir ne fonctionne pas toujours, par exemple suite à l’[initiative pluralisme.org](http://blog.tcrouzet.com/2007/02/16/appel-citoyen-pour-le-pluralisme-democratique/). Mais heureusement ! Si ce pouvoir marchait systématiquement, il serait terrible, il serait pire que le pire des pouvoirs dictatoriaux. Il suffirait que des citoyens souhaitent quelque chose pour que cette chose advienne, la société deviendrait alors un enfer.
 
 Ce qui compte c’est plutôt l’aspect aléatoire du cinquième pouvoir. Il peut marcher, il a du potentiel, dans certaines circonstances qu’il est, a priori, impossible de connaître (référence aux zones critiques dans les systèmes auto-organisés).
 
@@ -26,3 +26,5 @@ Il faut différencier ce que j’essaie de théoriser, cette chose totalement ho
 Le cinquième pouvoir ne m’appartient pas. Il n’appartient à personne. Il n’existera de façon évidente que le jour où les autoroutes des idées entre les citoyens seront ouvertes. Aujourd’hui, l’information transite essentiellement par les grands médias qui offrent une bande passante trop étroite pour les idées alternatives.
 
 Traçons les nouvelles voies, nous verrons le cinquième pouvoir se dresser peu à peu. Échouons et nous verrons le conformisme dominer car, dans un monde de plus en plus complexe, donc déroutant, le réflexe sera au repli réactionnaire.
+
+Tags: Politique

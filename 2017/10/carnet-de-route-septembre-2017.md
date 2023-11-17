@@ -12,11 +12,11 @@ Dans *American Sniper*, Chris Kyle attribue à [Ryan Job](http://archive.azcentr
 
 ### Dimanche 3, Balaruc
 
-Dans *Maintenant*, le Comité invisible a [écrit](https://scinfolex.com/2017/08/31/le-comite-invisible-et-les-communs-pourrons-nous-encore-etre-amis) : « Il n’y a qu’à une population parfaitement sous contrôle que l’on peut songer d’offrir un revenu universel. » Sauf que personne ne va nous l’offrir ce revenu universel, nous allons nous le créer en créant des monnaies libres.
+Dans *Maintenant*, le Comité invisible a [écrit](https://scinfolex.com/2017/08/31/le-comite-invisible-et-les-communs-pourrons-nous-encore-etre-amis) : « Il n’y a qu’à une population parfaitement sous contrôle que l’on peut songer d’offrir un revenu universel. » Sauf que personne ne va nous l'offrir ce revenu universel, nous allons nous le créer en créant des monnaies libres.
 
 ### Lundi 4, Balaruc
 
-C’est fait, j’ai passé une journée à basculer mon blog en SSL, à obéir aux injonctions de Google. Le web est mort depuis que des entreprises privées y font la loi, imposant leurs règles avec plus de rigueur que les états policiers. Elles réussissent ce tour de force parce qu’elles disposent d’une police algorithmique d’une terrible efficacité. Plus l’IA se développera, plus le totalitarisme s’imposera. Ne jamais oublier que nous sommes libres que parce qu’il était difficile de nous contrôler.
+C’est fait, j’ai passé une journée à basculer mon blog en SSL, à obéir aux injonctions de Google. Le web est mort depuis que des entreprises privées y font la loi, imposant leurs règles avec plus de rigueur que les états policiers. Elles réussissent ce tour de force parce qu’elles disposent d’une police algorithmique d’une terrible efficacité. Plus l’IA se développera, plus le totalitarisme s’imposera. Ne jamais oublier que nous sommes libres que parce qu'il était difficile de nous contrôler.
 
 ### Mardi 5, Balaruc
 
@@ -38,45 +38,45 @@ J’ai crashé le disque où je sauvegardais des centaines de films. Rien d’ir
 
 Mentir dans un récit peut aider à paraître plus vrai, parce que plus intelligible. La réalité est trop chaotique.
 
-![](https://tcrouzet.com/images_tc/2017/10/20170908_1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170908_1.jpg)
 
 ### Samedi 9, Arles
 
 Nous retrouvons des amis. Simple plaisir de voir des expos, de s’installer en terrasse, de parler, de rire, d’être ensemble. Une amie avocate me raconte une anecdote : « Je suis dans un bar à vin, avec deux copines, dont l’une est oenologue. Elle nous commande une bonne bouteille, mais elle la trouve bouchonnée. Le patron refuse de l’admettre, il ne veut pas servir une autre bouteille. Au bout de dix minutes de discussion stérile, je finis par goûter ce vin. C’est évident qu’il est bouchonné. Mais je dis qu’il est liégeux. Le patron reprend son verre. Il avoue qu’il y a en effet quelque chose de liégeux dans ce vin. Résultat : il nous a offert deux bouteilles. » Mon amie est une excellente avocate.
 
-![Photo d'une photo](https://tcrouzet.com/images_tc/2017/10/20170909_1.jpg)
+![Photo d'une photo](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170909_1.jpg)
 
-![Par la fenêtre](https://tcrouzet.com/images_tc/2017/10/20170909_2.jpg)
+![Par la fenêtre](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170909_2.jpg)
 
-![Travesti](https://tcrouzet.com/images_tc/2017/10/20170910_1.jpg)
+![Travesti](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170910_1.jpg)
 
 ### Dimanche 10, Arles
 
 J’entraîne mes amis aux Alyscamps, puis dans le cloître de Sainte Trophime, deux hauts-lieux de l’esprit méridional. Le passé m’y saute toujours à la figure en même temps qu’une puissance intemporelle que porte la lumière éblouissante. Il suffit que je me pose dans un coin pour être heureux, peut-être parce que je me sens alors immortel. Ça ne dure pas…
 
-![Alycamps](https://tcrouzet.com/images_tc/2017/10/20170910_2.jpg)
+![Alycamps](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170910_2.jpg)
 
-![Sainte Trophime](https://tcrouzet.com/images_tc/2017/10/20170910_3.jpg)
+![Sainte Trophime](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170910_3.jpg)
 
 ### Lundi 11, Montpellier
 
-Là où les grues s’arrêtent, là où les avenues se transforment en chemin, là où commencent les terrains vagues et les décharges. J’explore la frontière de Montpellier, qui me fait penser à celle de Rome filmée par Antonioni dans *L’Éclipse*. Dans mon dos, l’autoroute, l’ultime frontière, au-delà de laquelle commence une autre ville, d’autres zones encore indéterminées que le cancer immobilier finira par gangréner. Ce sera préférable à l’amoncellement de détritus. Durant des décennies on a balayé vers la frontière les poussières de la ville.
+Là où les grues s'arrêtent, là où les avenues se transforment en chemin, là où commencent les terrains vagues et les décharges. J'explore la frontière de Montpellier, qui me fait penser à celle de Rome filmée par Antonioni dans *L’Éclipse*. Dans mon dos, l'autoroute, l'ultime frontière, au-delà de laquelle commence une autre ville, d'autres zones encore indéterminées que le cancer immobilier finira par gangréner. Ce sera préférable à l'amoncellement de détritus. Durant des décennies on a balayé vers la frontière les poussières de la ville.
 
-La frontière est mouvante. En six mois, des tags ont recouvert les tags que j’avais photographiés en février, et des moins bons. Tout ici se transforme plus vite qu’au centre, et ça ne se stabilisera qu’une fois profondément ingéré dans le ventre de pierre et de fer.
+La frontière est mouvante. En six mois, des tags ont recouvert les tags que j’avais photographiés en février, et des moins bons. Tout ici se transforme plus vite qu'au centre, et ça ne se stabilisera qu'une fois profondément ingéré dans le ventre de pierre et de fer.
 
-Je suis venu au bord de la ville pour reprendre la rédaction de ma géolecture. J’ai envie d’écrire tout sauf cette fable, mais je dois trouver quelque chose à dire, et ne pas juste écrire pour remplir mon contrat.
+Je suis venu au bord de la ville pour reprendre la rédaction de ma géolecture. J'ai envie d'écrire tout sauf cette fable, mais je dois trouver quelque chose à dire, et ne pas juste écrire pour remplir mon contrat.
 
-![Frontière](https://tcrouzet.com/images_tc/2017/10/20170911_1.jpg)
+![Frontière](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170911_1.jpg)
 
-![Frontière](https://tcrouzet.com/images_tc/2017/10/20170911_2.jpg)
+![Frontière](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170911_2.jpg)
 
-![Frontière](https://tcrouzet.com/images_tc/2017/10/20170911_3.jpg)
+![Frontière](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170911_3.jpg)
 
 ### Mardi 12, Montpellier
 
-![Ville nouvelle](https://tcrouzet.com/images_tc/2017/10/20170912_1.jpg)
+![Ville nouvelle](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170912_1.jpg)
 
-![Ville nouvelle](https://tcrouzet.com/images_tc/2017/10/20170912_2.jpg)
+![Ville nouvelle](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170912_2.jpg)
 
 ### Mercredi 13, Balaruc
 
@@ -88,7 +88,7 @@ Le difficile : user de la fiction pour transcender le réel, pour en révéler 
 
 ### Jeudi 14, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2017/10/20170914_1.jpg)
+![Soir](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170914_1.jpg)
 
 ### Vendredi 15, Balaruc
 
@@ -108,20 +108,22 @@ Mon appli de géolecture avance, mes yeux voient trouble, j’ai mal au crâne�
 
 ### Vendredi 22, Balaruc
 
-J’ai bien fait d’insister, je sais maintenant coder en React Native, l’environnement développé par Facebook. Je suis bluffé par la puissance du bazar. Une fois bien comprise, la logique asynchrone du code, ça roule presque tout seul. J’ai maintenant un bon prototype pour ma géolecture. Reste à perfectionner le code tout en écrivant le texte.
+J’ai bien fait d’insister, je sais maintenant coder en React Native, l'environnement développé par Facebook. Je suis bluffé par la puissance du bazar. Une fois bien comprise, la logique asynchrone du code, ça roule presque tout seul. J’ai maintenant un bon prototype pour ma géolecture. Reste à perfectionner le code tout en écrivant le texte.
 
 ### Samedi 26, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2017/10/20170926_1.jpg)
+![Soir](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170926_1.jpg)
 
 ### Mercredi 27, Montpellier
 
 En vagabondage pour ma géolecture.
 
-![](https://tcrouzet.com/images_tc/2017/10/20170927_1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170927_1.jpg)
 
-![Tube](https://tcrouzet.com/images_tc/2017/10/20170927_2.jpg)
+![Tube](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/10/20170927_2.jpg)
 
 ### Samedi 30, Balaruc
 
 Je code, je code, je n’en dors pas… Mon application tourne, mais bugue, je vais y arriver… La programmation aura dévoré deux semaines, à faire et refaire l’interface de mon appli de géolecture.
+
+Tags: Carnets, une

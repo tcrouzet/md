@@ -205,3 +205,5 @@ Je m’impose à faire générer des idées et des textes à ChatGPT pour me pou
 Publier, c’est mettre ses mots sous les yeux des lecteurs. Aujourd’hui, d’un clic, c’est terminé, là où avant ce processus était long, exigeait beaucoup de main-d’œuvre, notamment du côté des composeurs, qui réécrivaient lettre à lettre, de telle façon que quand un livre ou un article arrivait entre nos mains il était le fruit d’un immense travail collectif, alors qu’aujourd’hui vous pouvez lire mes textes sans qu’aucun autre humain que moi soit intervenu dans le processus, ce qui leur donne moins de charges émotionnelles, ce qui change leur nature, sans doute les désacralise. Les livres sont devenus des temples où plus personne ne prie. Cette déréliction va plus loin quand des IA produisent seules des livres, des livres inhumains, des livres morts.
 
 Je me demande pourquoi je continue de m’imposer cette souffrance, mais si je m’en vais faire du vélo, il y aura de la souffrance aussi. Je suis un masochiste.
+
+Tags: Carnets, une

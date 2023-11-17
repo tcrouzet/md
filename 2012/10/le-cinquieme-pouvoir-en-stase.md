@@ -1,10 +1,10 @@
 # Le cinquième pouvoir en stase
 
-Le pouvoir au peuple est-il toujours une illusion ? Avons-nous rêvé inutilement que nous pourrions conquérir le vieil idéal ? Je reviens sur l’histoire du [cinquième pouvoir](https://tcrouzet.com/le-cinquieme-pouvoir/).<span id="more-29402"></span>
+Le pouvoir au peuple est-il toujours une illusion ? Avons-nous rêvé inutilement que nous pourrions conquérir le vieil idéal ? Je reviens sur l’histoire du [cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/).<span id="more-29402"></span>
 
 ### 2005
 
-J’écrivais dans mon coin [*Le peuple des connecteurs*](https://tcrouzet.com/le-peuple-des-connecteurs/). Pour moi, il était déjà évident que nous traversions une crise systémique, mais il ne me venait pas à l’idée d’employer ce qualificatif de systémique, aujourd’hui repris par tous ceux qui ne comprennent toujours pas la crise et qui la croient encore essentiellement financière.
+J’écrivais dans mon coin [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/). Pour moi, il était déjà évident que nous traversions une crise systémique, mais il ne me venait pas à l’idée d’employer ce qualificatif de systémique, aujourd'hui repris par tous ceux qui ne comprennent toujours pas la crise et qui la croient encore essentiellement financière.
 
 Je préférais parler de crise de la complexité, et désigné à mon sens un coupable. Résumé : notre société à atteint un degré tel de complexité que les anciens modes d’organisation ne sont plus capables de l’encaisser, et ça casse de toute part. Nous nous retrouvons avec deux scénarios.
 
@@ -29,7 +29,7 @@ Commence alors des années noires. Rien ne se passe. La crise annoncée survient
 
 ### 2011
 
-La surprise arrive de Tunisie. Le cinquième pouvoir s’y exprime brillamment en renversant la dictature (je raconte dans [*Ya Basta*](https://tcrouzet.com/ya-basta/)), mais commet l’erreur d’abandonner la décentralisation quasi immédiatement, et donc il se délite dans les anciennes forces. Encore un coup pour rien.
+La surprise arrive de Tunisie. Le cinquième pouvoir s’y exprime brillamment en renversant la dictature (je raconte dans [*Ya Basta*](http://blog.tcrouzet.com/ya-basta/)), mais commet l’erreur d’abandonner la décentralisation quasi immédiatement, et donc il se délite dans les anciennes forces. Encore un coup pour rien.
 
 Les indignés et les 99 ne commettront pas la même erreur quelques mois plus tard, mais s’enliseront eux-aussi, faute d’une viralité assez grande de leur mouvement. Il paraît alors évident que les idées qui pourraient sous-tendre un cinquième pouvoir, si elles se développent, sont encore loin d’être prégnantes.
 
@@ -39,6 +39,8 @@ La crise de la complexité n’a pas été réglée. Les outils de décentralisa
 
 Cette transition ne se règlera pas positivement par une révolution, qui nous ramènerait inévitablement vers le scénario 1, il faut donc travailler au scénario 2.
 
-Pour ma part, je m’y emploie au niveau individuel, en militant pour l’individuation et la complexité volontaire (sujet de [*L’alternative nomade*](https://tcrouzet.com/alternative-nomade/)). D’autres, plus constructivistes, travaillent à un revenu de base, à l’introduction du tirage au sort dans la constitution… Nous n’avons pas renoncé, mais la route que nous croyions courte s’avère remplie de méandres. La résistance au changement est gigantesque. Le cinquième pouvoir n’est pas une illusion, il tarde simplement à devenir adulte.
+Pour ma part, je m’y emploie au niveau individuel, en militant pour l’individuation et la complexité volontaire (sujet de [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/)). D’autres, plus constructivistes, travaillent à un revenu de base, à l’introduction du tirage au sort dans la constitution… Nous n’avons pas renoncé, mais la route que nous croyions courte s’avère remplie de méandres. La résistance au changement est gigantesque. Le cinquième pouvoir n’est pas une illusion, il tarde simplement à devenir adulte.
 
-PS : Billet écrit dans le TGV en préparation du [débat du 29/10/2012 à la maison des Métallos](https://tcrouzet.com/2012/10/17/le-web-citoyen-la-grande-illusion/).
+PS : Billet écrit dans le TGV en préparation du [débat du 29/10/2012 à la maison des Métallos](http://blog.tcrouzet.com/2012/10/17/le-web-citoyen-la-grande-illusion/).
+
+Tags: Politique

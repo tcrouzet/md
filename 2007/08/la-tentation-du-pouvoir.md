@@ -2,7 +2,7 @@
 
 Donnez du pouvoir à quelqu’un, il tentera souvent d’en avoir plus. C’est ainsi que se lisent la carrière de presque tous les hommes politiques. De maire ils deviennent député, puis ministre, puis Président. Certains très lucides, comme Tony Blair, décident de tout lâcher en cours de route, avant que les échéances administratives ne les poussent à la retraite. Ils sont rares.
 
-![Par Pacco](https://tcrouzet.com/images_tc/20070819pacco.jpg)
+![Par Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070819pacco.jpg)
 
 Dans le business, les hommes d’affaires sont tout aussi accros au pouvoir bien que parfois ils hésitent entre le pouvoir et l’argent. Ainsi certains après avoir fait fortune ne rêvent que de créer de nouvelles entreprises, non pas pour refaire fortune, ce qui n’a plus de sens, mais pour s’accomplir au travers de l’accomplissement des employés sous leur responsabilité.
 
@@ -24,6 +24,8 @@ Nous risquons d’assister à une perversion de la longue traîne, cette idée q
 
 La longue traîne n’aura une portée sociale, une portée révolutionnaire, que le jour où elle sera décentralisée, où elle se constatera hors des bases de données des géants qui phagocytent une industrie qui pourrait se passer d’eux.
 
-Mais le peut-elle ? Le pouvons-nous ? Je suis le premier à utiliser Google et Amazon. Ils ont acquis une telle avance sur leurs concurrents que nous ne songeons même plus à expériementer d’autres solutions. Le confort nous endort. En tirant le marché en avant, les géants actuels ne risquent-ils pas de se retrouver seuls ? Ils ont été parmi les premiers à créer la croissance mais ne seront-ils pas les premiers à lui mettre un frein ?
+Mais le peut-elle ? Le pouvons-nous ? Je suis le premier à utiliser Google et Amazon. Ils ont acquis une telle avance sur leurs concurrents que nous ne songeons même plus à expériementer d'autres solutions. Le confort nous endort. En tirant le marché en avant, les géants actuels ne risquent-ils pas de se retrouver seuls ? Ils ont été parmi les premiers à créer la croissance mais ne seront-ils pas les premiers à lui mettre un frein ?
 
 Je crois qu’il y a urgence pour que des solutions décentralisées se développent, pour que la communauté open source passe à la vitesse supérieure.
+
+Tags: Politique

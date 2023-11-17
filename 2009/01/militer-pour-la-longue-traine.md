@@ -17,13 +17,10 @@ Et comme un pied de nez à l’étude de Will Page, Anderson [note que le MP3 le
 ### Notes
 
 1. La longue traîne chez Amazon c’est déjà un immense progrès par rapport à pas de longue traîne dans une Fnac. Des voix jadis éteintes réussissent à se faire entendre.
-
 2. Ces voix souvent subversives vont peu à peu pénétrer l’inconscient collectif et par leur nombre surpasseront peut-être le mainstream.
-
 3. L’arrivée de la longue traîne autonome indépendamment de toute plateforme centralisée marquera un tournant économique et politique auquel j’aspire.
-
 4. Dans ce contexte, la longue traîne n’a même pas besoin d’être avérée aujourd’hui. C’est un projet de société : celui d’un artisanat high-tech et hyper-connecté. Plutôt que des gens travaillant comme salariés pour de grandes entreprises, on aura des gens qui travaillent pour eux, partagent leurs ressources et collaborent d’un bout à l’autre du monde. Construire une longue traîne ouverte et indépendante, c’est un projet politique opposé aussi bien au projet capitaliste que marxiste.
-
-5. Même les chiffres de Will Page me paraissent encourageants. Il note que sur 1,23 million d’albums disponibles, seulement 173 000 ont été achetés, soit seulement 15 %. Pas de longue traîne en conséquence. Mais combien il y a-t-il d’albums chez les plus gros disquaires traditionnels ? Sans doute beaucoup moins. Donc même l’étude de Will Page laisse entrevoir que le marché s’allonge.
-
+5. Même les chiffres de Will Page me paraissent encourageants. Il note que sur 1,23 million d'albums disponibles, seulement 173 000 ont été achetés, soit seulement 15 %. Pas de longue traîne en conséquence. Mais combien il y a-t-il d’albums chez les plus gros disquaires traditionnels ? Sans doute beaucoup moins. Donc même l’étude de Will Page laisse entrevoir que le marché s’allonge.
 6. Et pour finir, je voudrais taper sur les journalistes qui ne font plus leur job (ou n’ont plus les moyens de le faire). J’ai découvert l’étude de Will Page dans un [article du JDnet](http://www.journaldunet.com/breve/international/34801/une-etude-contredit-la-theorie-de-la-longue-traine.shtml), qui n’est même pas signé. Cet article publié le 24 décembre dit qu’Anderson en gros n’a pas répondu. Les mecs, pressés dans leur copier-coller n’ont même pas eu le courage d’aller voir ce qu’Anderson disait sur son blog, [cela dès le 8 novembre](http://www.longtail.com/the_long_tail/2008/11/more-long-tail.html). Je suppose que le journaliste qui a écrit l’article qui a servi de modèle à celui du JDnet n’avait déjà pas fait son travail, se contentant de reprendre un communiqué de presse… piloté par une industrie du disque qui n’aime pas, mais pas du tout, l’idée de longue traîne.
+
+Tags: Long tail

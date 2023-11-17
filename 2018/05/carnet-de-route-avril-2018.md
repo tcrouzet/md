@@ -4,7 +4,7 @@
 
 ### Lundi 3, Balaruc
 
-Par design, je pense forme, mais aussi possibilités offertes, ouvertures vers des choses qui n’étaient pas pensables avant.
+Par design, je pense forme, mais aussi possibilités offertes, ouvertures vers des choses qui n'étaient pas pensables avant.
 
 ### Dimance 8, Marseille
 
@@ -40,9 +40,9 @@ J’aime de plus en plus le thé, mais ni brûlant, ni tiédasse, ou alors très
 
 ---
 
-Partout dans l’aéroport du sucre, de la drogue en vente libre, à laquelle j’ai été addict et dont j’ai fini par me défaire quand j’ai compris qu’elle avait une emprise trop forte sur moi, et le pouvoir de me brûler les entrailles quelques heures plus tard. Je me demande quelle aurait été ma vie si j’avais renoncé vingt ou trente ans plus tôt, si j’avais dès cette époque compensé par une autre drogue, celle des endorphines libérées par le sport, que je pratiquais alors de manière bien plus modérée qu’aujourd’hui.
+Partout dans l’aéroport du sucre, de la drogue en vente libre, à laquelle j’ai été addict et dont j’ai fini par me défaire quand j’ai compris qu’elle avait une emprise trop forte sur moi, et le pouvoir de me brûler les entrailles quelques heures plus tard. Je me demande quelle aurait été ma vie si j’avais renoncé vingt ou trente ans plus tôt, si j’avais dès cette époque compensé par une autre drogue, celle des endorphines libérées par le sport, que je pratiquais alors de manière bien plus modérée qu'aujourd'hui.
 
-![Noms de villes en guerre](https://tcrouzet.com/images_tc/2018/05/20180408.jpg)
+![Noms de villes en guerre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/20180408.jpg)
 
 ### Lundi 9, Tabriz
 
@@ -50,9 +50,9 @@ Trois heures du matin. Hôtel d’un kitsch vieillot. Le lobby, surtout le coulo
 
 J’ai relu Bouvier et j’ai relu Proust dans l’avion, le début de *Sodome et Gomorrhe*, que je n’avais pas ouvert depuis vingt ans. Je ne me souvenais pas que la baise entre Charlus et Jupien était aussi explicite. Proust évoque trois raisons pour justifier sa curiosité pour cette scène, aucune ne vaut pour un hétéro de mon espèce, la seule valable : Proust était homo.
 
-![Résistants en farsi](https://tcrouzet.com/images_tc/2018/05/IMG_0223.jpg)
+![Résistants en farsi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0223.jpg)
 
-Accueil chaleureux d’Hassan. Il m’a montré la couverture de [*Résistants*](https://tcrouzet.com/resistants/), version iranienne, avec ma photo sur la couverture. Le roman a été traduit depuis l’anglais. Les traducteurs ont censuré les scènes de sexe. Je ne sais pas si cette traduction est légale, j’en doute, ça n’a aucune importance.
+Accueil chaleureux d’Hassan. Il m’a montré la couverture de [*Résistants*](https://tcrouzet.com/resistants/), version iranienne, avec ma photo sur la couverture. Le roman a été traduit depuis l'anglais. Les traducteurs ont censuré les scènes de sexe. Je ne sais pas si cette traduction est légale, j’en doute, ça n’a aucune importance.
 
 — Tu vois, c’est tranquille l’Iran, m’a dit Hassan à l’aéroport.
 
@@ -80,13 +80,13 @@ Puis je pense que je n’ai emporté qu’un short. Peut-on courir en short ici�
 
 Onze heures. Nous traversons la ville en voiture, contournant une montagne rouge, pendant qu’au sud se dresse une nouvelle chaîne enneigée, succession de hauts plateaux. Nous atteignons un grand hôpital, où Didier est accueilli en héros. Je tombe sur un médecin qui parle un peu français, nous faisons la visite ensemble. Il évoque son travail, puis son désir d’avoir un Visa pour le Québec. Il me dit qu’il est difficile pour les Iraniens de parler franchement, même entre eux. « Il y a des espions partout. » Je lui expose ma théorie sur la fin prochaine de la dictature, parce qu’aucune dictature ne perdure longtemps, parce que l’usage massif de Telegram démontre que la défiance s’est installée, parce que les Iraniens sont désormais nourris au biberon de la démagogie occidentale. Il me répond « Inch Allah ! »
 
-Dans la voiture, nous discutons avec les deux caméramans qui nous accompagnent. On parle cinéma, je leur dis mon admiration pour Kiarostami et ils m’apprennent qu’il est mort en 2016. J’ai pris un coup sur la tête, comme à la mort de Joe Strummer, mais avec un décalage de deux ans, deux années pendant lesquelles Kiarostami n’était vivant que pour moi. Ce géant de mon temps serait mort suite à une infection nosocomiale, et j’accompagne Didier qui consacre sa vie à lutter contre ces infections. Kiarostami, fil rouge pour ma prochaine histoire sur l’hygiène des mains ?
+Dans la voiture, nous discutons avec les deux caméramans qui nous accompagnent. On parle cinéma, je leur dis mon admiration pour Kiarostami et ils m'apprennent qu’il est mort en 2016. J’ai pris un coup sur la tête, comme à la mort de Joe Strummer, mais avec un décalage de deux ans, deux années pendant lesquelles Kiarostami n’était vivant que pour moi. Ce géant de mon temps serait mort suite à une infection nosocomiale, et j’accompagne Didier qui consacre sa vie à lutter contre ces infections. Kiarostami, fil rouge pour ma prochaine histoire sur l’hygiène des mains ?
 
 Après la visite, un lunch a été servi, mon nouvel ami médecin a voulu que je goûte à tout, je me suis esquivé, disant que j’étais végan et que j’évitais le sucre, je me suis contenté d’un morceau de pain en forme de tôle ondulée.
 
-![Un coin de ciel](https://tcrouzet.com/images_tc/2018/05/20180409_1.jpg)
+![Un coin de ciel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/20180409_1.jpg)
 
-![Couleurs de Tabriz](https://tcrouzet.com/images_tc/2018/05/20180409_2.jpg)
+![Couleurs de Tabriz](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/20180409_2.jpg)
 
 Je me suis assoupi pendant que Didier visitait un second hôpital. J’ouvre les yeux, deux images s’imposent. Tout juste le temps de photographier qu’on nous entraîne dans un second déjeuner. Didier poliment mange, moi moins.
 
@@ -100,23 +100,23 @@ Bouvier écrit de Tabriz :
 
 Depuis 1953, la ville a décuplé de taille, mais rien n’a apparemment changé. Bien des coins paraissent à l’abandon, même impression qu’à Bucarest, avec une multitude d’immeubles inachevés, des grues paralysées au-dessus de squelettes de béton. La couleur terreuse, presque sableuse, ne s’est pas dissipée, comme si les montagnes alentour se dissolvaient peu à peu dans les murs poussiéreux.
 
-![Une cour dans le bazar](https://tcrouzet.com/images_tc/2018/05/20180409_3.jpg)
+![Une cour dans le bazar](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/20180409_3.jpg)
 
-![Bazar](https://tcrouzet.com/images_tc/2018/05/20180409_4.jpg)
+![Bazar](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/20180409_4.jpg)
 
-![Marchands de tapis](https://tcrouzet.com/images_tc/2018/05/P1050213.jpg)
+![Marchands de tapis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050213.jpg)
 
-![Bazar](https://tcrouzet.com/images_tc/2018/05/P1050238.jpg)
+![Bazar](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050238.jpg)
 
-![Bazar](https://tcrouzet.com/images_tc/2018/05/P1050256.jpg)
+![Bazar](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050256.jpg)
 
-![Mosquée bleue](https://tcrouzet.com/images_tc/2018/05/P1050279-1.jpg)
+![Mosquée bleue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050279-1.jpg)
 
 ### Mardi 10, Tabriz
 
 Nous entrons dans le grand amphi de la faculté de médecine par le haut et se déroule devant nous une mer de têtes voilées en noir. Je suis peu tolérant au regard de tout ce qui nous empêche de nous différencier, d’être nous-mêmes, nous emprisonne dans des dogmes arbitraires. Je veux bien entendre que l’Occident porte ses propres dogmes, mais le droit de s’habiller à sa façon me semble une liberté élémentaire, première peut-être. Je devrais porter un costume en ces lieux, je ne le fais pas au nom de moi-même.
 
-![Didier sous surveillance](https://tcrouzet.com/images_tc/2018/05/P1050306-1.jpg)
+![Didier sous surveillance](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050306-1.jpg)
 
 ---
 
@@ -140,23 +140,23 @@ Je replonge dans Bouvier. Il évoque souvent le bazar de Tabriz sans le décrire
 
 Je ne fais pas autrement, j’aime par-dessus tout le *lavash*, servi dans les restaurants en immenses feuilles faisant penser à des dos de morues salées.
 
-![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050453.jpg)
+![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050453.jpg)
 
-![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050330-1.jpg)
+![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050330-1.jpg)
 
-![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050331.jpg)
+![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050331.jpg)
 
-![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050336.jpg)
+![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050336.jpg)
 
-![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050361.jpg)
+![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050361.jpg)
 
-![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050367.jpg)
+![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050367.jpg)
 
-![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050405-1.jpg)
+![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050405-1.jpg)
 
-![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050418.jpg)
+![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050418.jpg)
 
-![Kandovan](https://tcrouzet.com/images_tc/2018/05/P1050435-1.jpg)
+![Kandovan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050435-1.jpg)
 
 ### Mercredi 11, Ispahan
 
@@ -166,9 +166,9 @@ Ville verte au milieu du désert. Avec des collines dentelées en surplomb, alig
 
 Dîné étrange, traversé de silences. Je parle peut-être un peu trop de politique, puis Didier surenchérit. Notre guide : « Quand il y a des lois, il faut les respecter. » Moi : « Mais quand les lois sont mauvaises ? » Notre guide : « Il faut partir. » Il est vrai que les Iraniens peuvent quitter leur pays, ce que font beaucoup de jeunes éduquées. Mais avec de tels raisonnements, le monde en serait encore à l’âge du feu.
 
-![Palais Chehel Sotoun](https://tcrouzet.com/images_tc/2018/05/P1050468-1.jpg)
+![Palais Chehel Sotoun](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050468-1.jpg)
 
-![Pont Khaju](https://tcrouzet.com/images_tc/2018/05/P1050504.jpg)
+![Pont Khaju](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050504.jpg)
 
 ### Jeudi 12, Ispahan
 
@@ -182,11 +182,11 @@ Je repense à Ispahan, à notre promenade d’hier après-midi, dans les jardins
 
 Dans la voiture, Hassan nous parle de son engagement dans l’armée. Durant la guerre contre l’Irak, il a voulu être un martyre. Aujourd’hui, tout ça est oublié. Cet humaniste a peur d’une nouvelle révolution parce qu’il se souvient de la guerre, de ses proches qui ont été tués. Il pense qu’une évolution progressive est préférable, chemin que selon lui l’Iran est en train de suivre. Restent les jeunes. La lenteur est incompatible avec leur tempérament.
 
-![Persépolis](https://tcrouzet.com/images_tc/2018/05/IMG_0154.jpg)
+![Persépolis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0154.jpg)
 
-![Persépolis](https://tcrouzet.com/images_tc/2018/05/IMG_0167.jpg)
+![Persépolis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0167.jpg)
 
-![Persépolis](https://tcrouzet.com/images_tc/2018/05/IMG_0171.jpg)
+![Persépolis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0171.jpg)
 
 ### Vendredi 13, Chiraz
 
@@ -226,15 +226,15 @@ Nouvelle traversée, la nuit est maintenant tombée, nous arrivons au tombeau de
 
 Je dis que je suis contre les comptes-rendus, mais je viens d’écrire ces quelques lignes une fois de retour à l’hôtel, avec ce besoin de me décharger d’émotions que les mots n’ont ni eu le temps de canaliser ni d’amplifier.
 
-![Eram Botanical Garden](https://tcrouzet.com/images_tc/2018/05/P1050580-1.jpg)
+![Eram Botanical Garden](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050580-1.jpg)
 
-![Eram Botanical Garden](https://tcrouzet.com/images_tc/2018/05/P1050618.jpg)
+![Eram Botanical Garden](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050618.jpg)
 
-![Chiraz](https://tcrouzet.com/images_tc/2018/05/P1050627.jpg)
+![Chiraz](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050627.jpg)
 
-![Livre interdit](https://tcrouzet.com/images_tc/2018/05/P1050649.jpg)
+![Livre interdit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050649.jpg)
 
-![Chiraz icecreams](https://tcrouzet.com/images_tc/2018/05/P1050661.jpg)
+![Chiraz icecreams](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050661.jpg)
 
 ### Samedi 14, Chiraz
 
@@ -256,7 +256,7 @@ Tout le monde rêve de changements, mais personne n’est prêt à changer. Pour
 
 Depuis que j’ai 17 ans, je tiens un journal, mais je l’ai arrêté quand je me suis mis à bloguer, avant de le reprendre en 2015, fatigué et lassé par le direct que nous imposent les réseaux sociaux. Revenir à cette forme m’a fait du bien et continue de le faire. Je m’y sens libre, pas totalement, mais assez pour que cet exercice me rende heureux. Si je ne publiais pas ce journal, peut-être que je ne l’écrirai pas. Il serait sans doute plus intime, mais il n’existerait probablement pas, parce que trop de sollicitations en reporteraient jour après jour la tenue (impossible de revenir à ma vie d’avant Internet, d’avant les enfants, d’avant la publication de mes livres…). Et ne pas le publier me priverait des quelques interactions qu’il engendre. J’écris pour elles, non pas pour laisser une trace de ma vie, mais pour rendre ma vie plus intéressante à mes propres yeux. J’ai le privilège d’être un écrivain égoïste.
 
-![Chiraz](https://tcrouzet.com/images_tc/2018/05/P1050699-1.jpg)
+![Chiraz](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/P1050699-1.jpg)
 
 ### Samedi 14, Mashhad
 
@@ -286,7 +286,7 @@ De circonstances, puisque le mausolée d’Omar Khayyam, se situe au nord de Mas
 
 Après-midi étrange. J’ai rendez-vous pour une visite du sanctuaire de l’Imman Reza. Quand j’arrive dans le lobby de l’hôtel, je trouve mon guide qui ne parle pas anglais et j’aperçois une grande nana magnifique, que je ne vois que de dos. Quand elle se retourne, je reconnais N dont j’ai fait un des personnages de [*One Minute*](https://tcrouzet.com/une-minute/), N dont je suis la vie à travers ses rares photos postées sur Instagram, N mariée il y a peu, N qui il y a trois ans m’a servi d’interprète et avec qui finalement j’ai passé des heures à parler de la condition des femmes Iraniennes.
 
-Nous nous retrouvons avec joie, très vite je sens qu’elle est furieuse. Quand mon guide est venu la chercher chez elle, il lui a demandé d’enlever son maquillage. Une longue conversation a commencé entre nous. Plutôt que de traduire mon guide, N m’a raconté sa vie. Nous avons ainsi discuté, nous interrompant quand il parlait, reprenant aussitôt le fil de notre conversation. Parfois, je posais une question au guide pour paraître intéressé. C’était drôle.
+Nous nous retrouvons avec joie, très vite je sens qu’elle est furieuse. Quand mon guide est venu la chercher chez elle, il lui a demandé d’enlever son maquillage. Une longue conversation a commencé entre nous. Plutôt que de traduire mon guide, N m’a raconté sa vie. Nous avons ainsi discuté, nous interrompant quand il parlait, reprenant aussitôt le fil de notre conversation. Parfois, je posais une question au guide pour paraître intéressé. C'était drôle.
 
 Les jeunes Iraniens, quand ils sont en confiance, disent tout autre chose que leurs aînés. Ils décrivent une société au bord de la rupture, une société vermoulue, invivable, étouffante… et toujours leur envie de fuir. Ils ont soif de changements. N me confirme que ça peut craquer à tout moment. « Tu ne peux pas imaginer ce que nous vivons. » Je devine juste l’insupportable divorce entre leur vie intérieure et ce qu’ils doivent montrer d’eux-mêmes en public.
 
@@ -308,7 +308,7 @@ Hassan demande à Didier de supprimer de sa présentation son film sur la danse 
 
 Quand j’ai dit à N que je n’avais pas publié mes notes prises lors de mon voyage de 2015, elle m’a dit que j’aurai dû. « Les choses doivent changer. » Je lui ai parlé de ma théorie sur Telegram. N m’a dit que le gouvernement s’apprêtait à censurer le service. Après tout, Poutine fait la même chose en Russie.
 
-![En guest star](https://tcrouzet.com/images_tc/2018/05/IMG_0180.jpg)
+![En guest star](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0180.jpg)
 
 ### Mardi 17, Mashhad
 
@@ -322,7 +322,7 @@ Hier, soir j’ai suivi Bouvier jusqu’à la frontière iranienne. À Téhéran
 
 À Ispahan, il évoque « les montagnes mauves du Zagros, d’une découpe très provençale. » Avant de le relire, j’avais parlé de Sainte Victoire, j’aurais pu aussi bien évoquer les Alpilles ou cette chaîne qui nous accompagne quand nous descendons vers Marseille par l’autoroute. Frappé de trouver la même analogie que Bouvier, à moins qu’inconsciemment le souvenir de son livre, lu pour la première fois vingt-cinq ans plus tôt, ne se soit imposé malgré moi.
 
-![Hijab version sexy](https://tcrouzet.com/images_tc/2018/05/8ea5ad10-77e0-40b5-b533-a504a47e7fd7.jpg)
+![Hijab version sexy](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/8ea5ad10-77e0-40b5-b533-a504a47e7fd7.jpg)
 
 ### Mercredi 18, Mashhad
 
@@ -376,7 +376,7 @@ J’ai passé le reste de la journée jusqu’au soir minuit avec N et A. Nous a
 
 Je remercie mes amis iraniens de leur accueil. Leurs réponses me touchent. L’une se termine par « I hope to see you again. » Chez nous personne ne terminerait un message d’une façon aussi dramatique, parce que si nous voulons nous revoir, nous nous revoyons. Là-bas, les séparations peuvent être définitives. C’est trop triste, ça me chagrine. Je me rassure. Entre 2015 et 2018, les femmes ont gagné le droit de montrer leur chevelure, le hijab n’est plus désormais qu’un foulard pour celles qui rêvent d’une autre vie. Dans le même temps, tous les jeunes expriment leur désir de quitter le pays, un désir qui n’était pas en 2015 aussi explicite, un désir qui montre que malgré de petites victoires la route vers l’émancipation est encore longue.
 
-### Mercredi 25, Montagnac
+### Mercredi 25, Maillardou
 
 Je suis anesthésié depuis mon retour d’Iran, incapable de replonger dans mon roman d’amour, je flotte dans la campagne frisée de verdure.
 
@@ -386,15 +386,15 @@ Je suis un échange de mails entre deux auteurs qui s’envoient en parallèle d
 
 L’époque n’est pas la même pour tous, et c’est sans doute une première dans notre histoire. À cause de l’accélération exponentielle des technologies, certains habitent encore le XX<sup>e</sup> siècle pendant que d’autres lorgnent vers la fin du XXI<sup>e</sup>. Raison qui fait de la technologie, de notre rapport à elle, le sujet central de notre temps. Refuser d’adresser ce sujet, quitte à ce que ce soit par le rejet, c’est oublier de vivre aujourd’hui et s’interdire le droit à faire œuvre.
 
-### Jeudi 26, Montagnac
+### Jeudi 26, Maillardou
 
-![Sortie VTT, Vergt de Biron](https://tcrouzet.com/images_tc/2018/05/IMG_0356.jpg)
+![Sortie VTT, Vergt de Biron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0356.jpg)
 
-![Sortie VTT, Vergt de Biron](https://tcrouzet.com/images_tc/2018/05/IMG_0359.jpg)
+![Sortie VTT, Vergt de Biron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/05/IMG_0359.jpg)
 
 ### Vendredi 27, Angers
 
-Je viens de remonter la France cap au nord. Après avoir traversé la Dordogne, j’ai fondu sur Poitiers et la Vienne. Un repas chez Casabaldi et Caro, qui doucement construisent leur commune libre, puis j’ai poursuivi toujours cap au nord. Le vent s’est levé, apportant d’épais nuages noirs prompts à me cracher sur le parebrise. D’immenses peupliers se penchaient sur la plaine dodue d’un jaune colza. Après un petit tour dans cette ville aux larges avenues disproportionnées par rapport au centre historique, je me réfugie dans un café. Ce soir je retrouve un vieil ami qui m’invite à son beau festival dédié à la littérature de l’imaginaire.
+Je viens de remonter la France cap au nord. Après avoir traversé la Dordogne, j’ai fondu sur Poitiers et la Vienne. Un repas chez Casabaldi et Caro, qui doucement construisent leur commune libre, puis j’ai poursuivi toujours cap au nord. Le vent s’est levé, apportant d’épais nuages noirs prompts à me cracher sur le parebrise. D’immenses peupliers se penchaient sur la plaine dodue d’un jaune colza. Après un petit tour dans cette ville aux larges avenues disproportionnées par rapport au centre historique, je me réfugie dans un café. Ce soir je retrouve un vieil ami qui m'invite à son beau festival dédié à la littérature de l'imaginaire.
 
 Depuis hier, je lis avec plaisir [*La littérature sans Estomac*](https://www.amazon.fr/Litt%C3%A9rature-sans-estomac-Pierre-Jourde/dp/2266126202/), un réquisitoire drolatique contre mes contemporains les plus populaires, paru en 2002. Ça me fait du bien. L’introduction est lumineuse. [Pierre Jourde](https://fr.wikipedia.org/wiki/Pierre_Jourde) écrit notamment :
 
@@ -405,3 +405,5 @@ Tous les auteurs qui publient en ligne, tous ceux qui s’autoprétendent haut e
 > Les œuvres véritables déterminent leurs lois, leur langage, et ce faisant, leur réalisme. Il consiste non pas à reproduire le réel, mais à le faire advenir.
 
 Je dis toujours que j’écris pour voir, pour étendre ma conscience, et de fait, je fais advenir pour moi ma vision du réel, une vision que je cherche à sans cesse étendre, parce cette extension me procure de la joie. Cette vision n’a pas à se superposer à celles des autres, tout au plus quelques lecteurs peuvent s’amuser à porter durant quelques lignes mes lunettes par-dessus, ou peut-être en dessous, des leurs. Lire, c’est changer de lunettes. Une œuvre qui ne colore pas le réel ne m’intéresse pas. Voilà pourquoi la plupart des textes m’ennuient, surtout ceux qui se réclament de la littérature.
+
+Tags: Carnets, une

@@ -2,19 +2,19 @@
 
 Le suicide aurait été plus radical. J’imagine les titres. *Il publie son chef-d’œuvre et meurt* ou *Son suicide fait de lui un classique* ou *Faute d’assez de presses en ce début de rentrée littéraire 2019, il tire sa révérence*. Le problème de cette méthode : elle m’aurait exclu de la partie.<span id="more-52320"></span>
 
-Il me fallait quelque chose de moins extrême, genre assassiner un auteur vedette, ou un juré Goncourt, ou plus modestement dévaliser des librairies en n’y laissant que mon roman. Ces solutions étaient encore hors de mon champ de compétence. Pourtant on parle d’autant plus d’un auteur qu’il a vécu un drame (qu’il ait passé son enfance avec un sniper ne semble pas suffire). Il me fallait surdramatiser la sortie de [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/).
+Il me fallait quelque chose de moins extrême, genre assassiner un auteur vedette, ou un juré Goncourt, ou plus modestement dévaliser des librairies en n'y laissant que mon roman. Ces solutions étaient encore hors de mon champ de compétence. Pourtant on parle d’autant plus d’un auteur qu’il a vécu un drame (qu’il ait passé son enfance avec un sniper ne semble pas suffire). Il me fallait surdramatiser la sortie de [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/).
 
-Comme tous les écrivains qui s’enferment dans la solitude de l’écriture, je suis masochiste. J’ai donc décidé de m’en prendre à moi-même plutôt qu’aux autres. [Après avoir traversé la France sud à VTT](https://tcrouzet.com/2019/08/22/une-traversee-de-la-france-sud-a-vtt), sans la moindre anicroche, pas de chance, je me suis planté sur un chemin familier à deux pas de chez mes beaux-parents, on était déjà trois jours après la sortie du livre, il était plus que temps.
+Comme tous les écrivains qui s’enferment dans la solitude de l’écriture, je suis masochiste. J’ai donc décidé de m'en prendre à moi-même plutôt qu’aux autres. [Après avoir traversé la France sud à VTT](https://tcrouzet.com/2019/08/22/une-traversee-de-la-france-sud-a-vtt), sans la moindre anicroche, pas de chance, je me suis planté sur un chemin familier à deux pas de chez mes beaux-parents, on était déjà trois jours après la sortie du livre, il était plus que temps.
 
 ### Dimanche 25 août, Montagnac sur Lède
 
 Température douce, ciel couvert, conditions parfaites pour le VTT. Peu après 8 h, je quitte la maison par les bois, croise une petite route, continue dans les bois. Je n’ai aucune envie de faire des prouesses, je suis en mode récupération et exploration. Je tente plusieurs sentiers que je ne connais pas ou mal, pour que mon GPS les enregistre et que je les retrouve plus tard sur mes cartes, puis je rejoins un de mes circuits classiques qui m’amène vers le château de Biron. J’ai parcouru 20 km, j’ai l’intention de doubler la mise avant le retour (une simple ballade pour moi qui vient d’aligner 700 km en une semaine).
 
-![Biron avant ma chute](https://tcrouzet.com/images_tc/2019/08/IMG_6224.jpg)
+![Biron avant ma chute](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/IMG_6224-581x450.jpg)
 
 J’ai de bonnes jambes. Sur les pistes familières, je rêve. Je me dis que mon livre attirera doucement l’attention, puis je m’en veux de rêver, puis je me dis que si ce livre ne touche pas son public, je peux arrêter d’écrire. À 56 ans, je me sens à un point charnière de ma carrière, à ce point au-delà duquel mon ticket ne sera plus valable, je pense plus que je ne pédale.
 
-Après une trentaine de kilomètres, j’aborde un des derniers sentiers. Je peste parce que les bûcherons ont abattu un pan de forêt, la coupe est radicale, violente, ça m’énerve, ça m’attriste, même si je sais qu’il s’agit d’une gestion forestière raisonnée, mais je vais devoir vivre avec cette béance durant des années.
+Après une trentaine de kilomètres, j'aborde un des derniers sentiers. Je peste parce que les bûcherons ont abattu un pan de forêt, la coupe est radicale, violente, ça m’énerve, ça m’attriste, même si je sais qu’il s’agit d’une gestion forestière raisonnée, mais je vais devoir vivre avec cette béance durant des années.
 
 Le chemin descend dans un goulet, le remonte, un passage que j’aime. Il tourne en dévers, c’est sec, poussiéreux, je pense à la déforestation, à mon livre, ma roue avant décroche, mes pensées s’arrêtent, j’ai une seconde pour voir le sol arriver et sentir l’impact sur la hanche droite, le coude droit, puis à peine sur mon casque.
 
@@ -28,13 +28,13 @@ Je réussis à me dégager, à saisir mon téléphone. J’ai du signal, un coup
 
 Je pense à [*La Mort suspendue*](https://www.amazon.fr/Mort-suspendue-Joe-Simpson/dp/2757839012/), un livre extraordinaire, un alpiniste brisé de part en part se traîne dans un glacier, rampe à la recherche de secours. J’ai quelques scrupules à abandonner mon vélo. J’ai peut-être une hémorragie. Je bois. J’avale un gel énergétique. Isa est du genre a ne pas charger son mobile en vacances alors je rappelle Clary qui décroche.
 
-![Ma géolocalisation](https://tcrouzet.com/images_tc/2019/08/fracture3.jpg)
+![Ma géolocalisation](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/fracture3-600x318.jpg)
 
-J’essaie de plaisanter, en vain. Je partage ma position sur WhatsApp, j’explique comment s’approcher à deux cents mètres de moi en voiture. Au bout d’une quinzaine de minutes, Isa m’appelle au loin.
+J’essaie de plaisanter, en vain. Je partage ma position sur WhatsApp, j'explique comment s’approcher à deux cents mètres de moi en voiture. Au bout d’une quinzaine de minutes, Isa m’appelle au loin.
 
 Filles de médecins, les deux sœurs veulent tout de suite alerter le SAMU. Je veux d’abord tenter une sortie plus digne. Je demande à Isa de m’aider, mais nous n’arrivons pas à me redresser, la douleur est insoutenable.
 
-Clary appelle le 15. Impossible de partager notre géolocalisation avec eux (incroyable qu’ils soient moins bien équipés que nous). La conversation tourne en rond. Moi : « Heureusement que je ne fais pas un arrêt cardiaque. » Isa : « Ben oui, tu serais mort, c’est ça la campagne. »
+Clary appelle le 15. Impossible de partager notre géolocalisation avec eux (incroyable qu'ils soient moins bien équipés que nous). La conversation tourne en rond. Moi : « Heureusement que je ne fais pas un arrêt cardiaque. » Isa : « Ben oui, tu serais mort, c’est ça la campagne. »
 
 Nous sommes sur un sentier dans les bois, à 2 km de la première route asphaltée (j’aurais pu chuter bien plus loin). Clary donne rendez-vous au SAMU chez le menuisier du coin, l’inénarrable Yvon Setze, maire de notre village, que j’ai glissé dans [*La quatrième théorie*](https://tcrouzet.com/la-quatrieme-theorie/), prenant plaisir à lui envoyer quelques balles dans le bide.
 
@@ -42,23 +42,23 @@ Pendant qu’Isa ramène mon vélo vers la voiture, je me traîne sur le dos, su
 
 Isa revient, le soleil avec elle. Il chauffe dur, pas d’ombre. Mais l’attente est courte, vingt minutes depuis le départ de Clary et nous entendons des voitures approcher. Arrive l’équipe du SAMU de Monflanquin, un village situé à une dizaine de kilomètres : deux gars, une jeune femme. Ils évaluent ma blessure, mesurent mes paramètres, comprennent qu’ils doivent me brancarder en m’immobilisant.
 
-![Mesure de la glycémie](https://tcrouzet.com/images_tc/2019/08/e14c4f25-423f-4ae8-8d17-40b2aa0db426.jpg)
+![Mesure de la glycémie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/e14c4f25-423f-4ae8-8d17-40b2aa0db426-600x450.jpg)
 
-![Ils rigolent](https://tcrouzet.com/images_tc/2019/08/731fd934-4da1-4219-8baf-2b7a3bbd8a56.jpg)
+![Ils rigolent](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/731fd934-4da1-4219-8baf-2b7a3bbd8a56-600x450.jpg)
 
-![En voiture](https://tcrouzet.com/images_tc/2019/08/5b4efa0c-7b38-4931-bbe0-cd18c85b6e8f.jpg)
+![En voiture](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/5b4efa0c-7b38-4931-bbe0-cd18c85b6e8f-600x450.jpg)
 
 J’ai défense de bouger, je replie mes bras sur mon thorax, ils construisent leur brancard autour de moi, les deux hommes se placent de part et d’autre et me soulèvent jusqu’à un chariot où ils m’encoquillent avant de me remorquer vers leur ambulance. À chaque bosse, je chante. Me voilà embarqué. Les portes se referment. La jeune femme s’assoit près de moi. De temps à autre, elle me touche avec tendresse. J’ai envie de la prendre dans les bras. Je me sens en sécurité avec elle.
 
 Nous partons en direction de l’hôpital de Villeneuve-sur-Lot. La route secoue, je serre les dents. Mon ange gardienne m’explique qu’elle est d’astreinte une semaine sur trois. « Parfois on s’ennuie, parfois on court partout. » Elle a un job à côté, dans une crèche. Il est 13 h quand nous arrivons aux urgences. Un bébé hurle. Allongé, je ne vois que le plafond blanc, percé de néons rectangulaires. Mes sauveteurs me quittent. Je les remercie du mieux que je peux. De son côté, Isa est en route pour me rejoindre.
 
-Au bout de trente minutes, un jeune médecin avec un look à la Bob Marley m’examine. Lui : « On va faire une radio. » Moi : « Vous avez un avis ? » Lui : « Facture probable. » À 14 h, diagnostic confirmé, reconfirmé par un scanner. Isa arrive et l’attente commence. À 15 h, l’urgentiste revient. Il annonce la couleur : fracture du col du fémur engrenée. Il doit consulter un orthopédiste pour déterminer la marche à suivre, mais il lâche la possible nécessité d’une prothèse. Je prends un coup sur la tête. Non, pas de prothèse.
+Au bout de trente minutes, un jeune médecin avec un look à la Bob Marley m’examine. Lui : « On va faire une radio. » Moi : « Vous avez un avis ? » Lui : « Facture probable. » À 14 h, diagnostic confirmé, reconfirmé par un scanner. Isa arrive et l’attente commence. À 15 h, l'urgentiste revient. Il annonce la couleur : fracture du col du fémur engrenée. Il doit consulter un orthopédiste pour déterminer la marche à suivre, mais il lâche la possible nécessité d’une prothèse. Je prends un coup sur la tête. Non, pas de prothèse.
 
-![La fracture](https://tcrouzet.com/images_tc/2019/08/fracture2.jpg)
+![La fracture](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/fracture2-600x450.jpg)
 
 Pendant ce temps, on discute avec les copains toubibs sur WhatsApp. « Fracture engrenée du col égal à égal, pas de chirurgie en urgence. Ça veut dire que tu as pété le col du fémur et que les travées osseuses se sont imbriquées les unes dans les autres. Le traitement habituel est du repos, prévention de phlébite par héparine puisque tu resteras allongé. En tout état de cause, tu seras emmerdé pendant un certain temps. Essaie de m’envoyer les radios, voire les meilleures coupes du scanner. En général, les fractures engrenées du col ne sont pas opérées, mais à ton âge cela peut se discuter. Tu risques le raccourcissement du membre inférieur. »
 
-À 16 h, l’orthopédiste de Villeneuve confirme le diagnostic mais évoque la nécessité d’une opération. Il ne descend pas discuter avec moi, ce qui nous laisse dans l’expectative (j’imagine le trouble d’un patient sans relation dans le monde médical). Nous récupérons les radios, les transférons, nos amis confirment le diagnostic à leur tour. « C’est plus qu’engrené ça ! Indication opératoire rapide, car risque de nécrose de la tête fémorale. » Commence la recherche du meilleur endroit où effectuer l’intervention. C’est le stress. Il faut intervenir en moins de 36 heures, voire moins. Le plus vite maximise les chances de réussite et de récupération par la suite.
+À 16 h, l’orthopédiste de Villeneuve confirme le diagnostic mais évoque la nécessité d’une opération. Il ne descend pas discuter avec moi, ce qui nous laisse dans l'expectative (j'imagine le trouble d'un patient sans relation dans le monde médical). Nous récupérons les radios, les transférons, nos amis confirment le diagnostic à leur tour. « C’est plus qu’engrené ça ! Indication opératoire rapide, car risque de nécrose de la tête fémorale. » Commence la recherche du meilleur endroit où effectuer l’intervention. C’est le stress. Il faut intervenir en moins de 36 heures, voire moins. Le plus vite maximise les chances de réussite et de récupération par la suite.
 
 Un jeune infirmier me perfuse sans respecter le protocole de l’hygiène des mains. Je ferme ma gueule, je ne déballe pas ma science, mais je flippe quand je vois le gars me piquer sans jamais utiliser de gel hydroalcoolique. J’ai droit à une série de prises de sang.
 
@@ -72,7 +72,7 @@ C’est hors de question. Geiss en cinq minutes de conversation m’a déjà don
 
 Les ambulanciers envoyés par l’assurance me prennent en change à 20 h 30. Ils empestent le tabac, c’est à gerber. Ils m’empaquettent dans une coquille qui se resserre autour de moi, me traînent vers leur camion. Quand ils veulent fermer la porte arrière, ils manquent qu’écraser les pieds. Ils sont obligés de relâcher la coquille, de me faire glisser à l’intérieur, de la refermer de façon peu rigide autour de moi.
 
-Nous voilà partis vers Agen. Les petites routes me secouent. Pour que ma hanche ne bouge pas, je m’agrippe de part et d’autre de la coquille. Je crève de chaud. La climatisation impuissante m’envoie des miasmes de tabac. Je ne cesse de remettre en position le coussin qui me tient la tête, sans que l’assistante assise près de moi ne bronche. Elle passera le voyage rivée sur son mobile. Je tente de la dérider, elle n’est pas causante.
+Nous voilà partis vers Agen. Les petites routes me secouent. Pour que ma hanche ne bouge pas, je m'agrippe de part et d'autre de la coquille. Je crève de chaud. La climatisation impuissante m’envoie des miasmes de tabac. Je ne cesse de remettre en position le coussin qui me tient la tête, sans que l’assistante assise près de moi ne bronche. Elle passera le voyage rivée sur son mobile. Je tente de la dérider, elle n’est pas causante.
 
 À Agen, nous prenons l’autoroute direction Toulouse, puis Montpellier. Moins de chaos, je peux me détendre, mais je ne trouve pas le sommeil. Je pense à l’opération, aux risques de toute opération avec anesthésie générale, je n’ai jamais été opéré, je pense à Isa, aux enfants, je me fiche bien de mon livre, de son succès ou non, tout cela n’a plus la moindre importance.
 
@@ -104,21 +104,21 @@ Je vois mes jambes, mais elles ne m’appartiennent plus. Moi : « Une belle i
 
 Il est 11 h 45. On me transporte au bloc, ouvert sur l’extérieur par une grande baie vitrée, puis on me glisse sur la table d’opération. L’assistante-anesthésiste me demande si je veux un petit shoot. Moi : « Surtout pas, je veux pouvoir raconter. »
 
-Ils écartent ma jambe gauche et l’attachent. Ils font de même de mon bras droit. « Pour ne pas que vous fassiez de bêtise avec. » Puis me couvrent avec une mousseline qu’ils gonflent d’air chaud. Geiss et son assistante, une jeune chirurgienne, portent des plastrons violets antiradiations au-dessus de leur tenue verte, car l’opération s’accompagnera de fréquentes radiographies, puis ils enfilent par dessus des tabliers jetables de protection.
+Ils écartent ma jambe gauche et l’attachent. Ils font de même de mon bras droit. « Pour ne pas que vous fassiez de bêtise avec. » Puis me couvrent avec une mousseline qu’ils gonflent d’air chaud. Geiss et son assistante, une jeune chirurgienne, portent des plastrons violets antiradiations au-dessus de leur tenue verte, car l’opération s'accompagnera de fréquentes radiographies, puis ils enfilent par dessus des tabliers jetables de protection.
 
-Ils s’affairent autour de ma jambe droite, effectuent plusieurs radios. Je ne devine que leurs têtes penchées sur moi. Geiss : « Voilà, on a replacé votre fémur. » Ils installent le champ opératoire, ainsi qu’un film plastique translucide qui me sépare d’eux. Geiss avec calme : « Plus tendu le film. »
+Ils s’affairent autour de ma jambe droite, effectuent plusieurs radios. Je ne devine que leurs têtes penchées sur moi. Geiss : « Voilà, on a replacé votre fémur. » Ils installent le champ opératoire, ainsi qu'un film plastique translucide qui me sépare d’eux. Geiss avec calme : « Plus tendu le film. »
 
-Puis : « Le bistouri électrique ne fonctionne pas. » Une infirmière : « J’ai oublié de le brancher. » Elle vient sur mon flanc gauche plaquer une électrode à la hauteur du cœur. « C’est bon. » Un crépitement et une odeur de poulet rôti. J’en déduis que Geiss vient de m’ouvrir la jambe.
+Puis : « Le bistouri électrique ne fonctionne pas. » Une infirmière : « J'ai oublié de le brancher. » Elle vient sur mon flanc gauche plaquer une électrode à la hauteur du cœur. « C’est bon. » Un crépitement et une odeur de poulet rôti. J’en déduis que Geiss vient de m’ouvrir la jambe.
 
 J’entends tout, je sens tout, je vois Geiss et son assistante, parfois des instruments qui passent de main en main. Bruits de perceuse électrique. Geiss : « Vis de 110. » Puis : « Je taraude. » Ça gratte, ça frotte, je sens des vibrations, je comprends qu’après m’avoir percé le fémur, il y grave un pas de vis. Geiss répète : « Vis de 110. » C’est plus fort que moi. « 110 millimètres ? » Il confirme. Je vais avoir une vis de 110 mm dans la jambe.
 
 L’assistante-anesthésiste : « Un petit shoot ? » Je refuse. Je regarde l’heure tourner. Il est 12 h 45. Bruit de visseuse. Nouveau perçage. Geiss : « Tout se passe bien. » Puis à son assistante : « Ne mets pas les mains comme ça, voilà, c’est mieux. » Il guide l’opératrice radio avec de petits ordres brefs, précis, simples. Une boule grise plane au-dessus de moi et s’approche de ma jambe. Je ne comprends pas tout, beaucoup de codes employés, peut-être pour ne pas m’effrayer. C’est alors qu’il me plante des clous dans la jambe à coups de marteau. Il ne rigole pas, ça tabasse, j’ai l’impression qu’il me coupe en deux ou que je suis dans un atelier de menuiserie. Tout mon corps tremble.
 
-« On est bon, c’est terminé. J’ai renforcé votre fémur avec une plaque d’acier. » Ils nettoient la plaie, je le comprends à leurs gestes. « Ça saigne beaucoup à cet endroit. » Je sens le coton frotter sur ma peau, en fait je me le représente à l’aide des vibrations. La tension retombe, ils plaisantent. L’assistante de Geiss : « Vous savez que mon beau-père a joué au Barça ? » Geiss rigole. « Ils peuvent nous envoyer Messi pour qu’on l’opère. » Elle a un drôle d’accent. Je lui demande d’où elle vient. Elle me dit de Suisse. Geiss : « C’est pas plutôt suisse-allemand ou serbe ? » En aparté, il me dit qu’elle a atterri à Montpellier parce qu’elle est mariée avec un joueur pro de hand. L’affaire s’achève dans la bonne humeur, moi totalement conscient, trop peut-être. Je repense aux coups de marteau. J’ai été crucifié en quelque sorte.
+« On est bon, c’est terminé. J'ai renforcé votre fémur avec une plaque d'acier. » Ils nettoient la plaie, je le comprends à leurs gestes. « Ça saigne beaucoup à cet endroit. » Je sens le coton frotter sur ma peau, en fait je me le représente à l’aide des vibrations. La tension retombe, ils plaisantent. L’assistante de Geiss : « Vous savez que mon beau-père a joué au Barça ? » Geiss rigole. « Ils peuvent nous envoyer Messi pour qu'on l'opère. » Elle a un drôle d’accent. Je lui demande d’où elle vient. Elle me dit de Suisse. Geiss : « C’est pas plutôt suisse-allemand ou serbe ? » En aparté, il me dit qu’elle a atterri à Montpellier parce qu’elle est mariée avec un joueur pro de hand. L’affaire s'achève dans la bonne humeur, moi totalement conscient, trop peut-être. Je repense aux coups de marteau. J'ai été crucifié en quelque sorte.
 
-On me conduit dans la salle de réveil, où j’ai pour mission de bouger mes orteils. D’autres patients arrivent, la plupart dans le potage, bientôt mon voisin d’anesthésie débarque. Nous jouons à qui récupère le plus vite l’usage de ses extrémités. Puis ce sera une radio de contrôle, avant l’arrivée dans la chambre où j’écris ces lignes. J’ingurgite depuis une quantité faramineuse de médicaments, mange deux fois plus que d’habitude, ayant déjà l’impression de faire du gras. Le personnel est adorable, disponible, pro. Mes amis m’envoient des messages, mes enfants débarquent et fichent le bazar, et je passe mon temps à discuter sur les réseaux sociaux de mon livre et de mon accident.
+On me conduit dans la salle de réveil, où j’ai pour mission de bouger mes orteils. D'autres patients arrivent, la plupart dans le potage, bientôt mon voisin d'anesthésie débarque. Nous jouons à qui récupère le plus vite l'usage de ses extrémités. Puis ce sera une radio de contrôle, avant l’arrivée dans la chambre où j’écris ces lignes. J’ingurgite depuis une quantité faramineuse de médicaments, mange deux fois plus que d’habitude, ayant déjà l’impression de faire du gras. Le personnel est adorable, disponible, pro. Mes amis m’envoient des messages, mes enfants débarquent et fichent le bazar, et je passe mon temps à discuter sur les réseaux sociaux de mon livre et de mon accident.
 
-![Je suis désormais un cyborg](https://tcrouzet.com/images_tc/2019/08/IMG_6240.jpg)
+![Je suis désormais un cyborg](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/08/IMG_6240-600x450.jpg)
 
 ### Mercredi 28 août, Montpellier
 
@@ -126,6 +126,8 @@ Hier, le kiné m’a ordonné de me lever. « Vous pouvez tout faire sauf poser
 
 Si tout se passe bien, dans six semaines je pourrai à nouveau marcher, commencera alors la rééducation, avec j’espère un peu de home trainer, question de faire tourner les jambes. En attendant, la promo de *Mon père, ce tueur* s’annonce difficile. Je ne sais pas si je pourrais assurer toutes les dates prévues. Les organisateurs de salons et de rencontres devront me traiter comme un handicapé, avec les contraintes que cela impose. Je vais me laisser cajoler.
 
-Quand je me retourne sur ces journées de folie, je prends conscience de la dépense d’énergie qu’a entraîné une simple chute à vélo. Les secouristes, les médecins, les infirmiers, nos amis, ma famille. J’ai senti combien ma liberté dépendait de cette gigantesque machinerie, d’habitude imperceptible. Je ne me suis jamais senti aussi étroitement membre d’une société. Sans elle, je serais en train d’agoniser dans une forêt du Lot-et-Garonne.
+Quand je me retourne sur ces journées de folie, je prends conscience de la dépense d'énergie qu'a entraîné une simple chute à vélo. Les secouristes, les médecins, les infirmiers, nos amis, ma famille. J'ai senti combien ma liberté dépendait de cette gigantesque machinerie, d'habitude imperceptible. Je ne me suis jamais senti aussi étroitement membre d'une société. Sans elle, je serais en train d'agoniser dans une forêt du Lot-et-Garonne.
 
 Merci pour votre aide, vos messages, vos encouragements.
+
+Tags: Autobiographie, une

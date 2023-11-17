@@ -39,3 +39,5 @@ De nombreuses civilisations le réinventeront. Les Égyptiens. Les Grecs. Les Za
 Au fait, pourquoi il y a sept jours par semaines et non douze ? Les Sumériens, encore eux, ne connaissaient que sept corps célestes orbitant autour de la terre . Le soleil pour dimanche. La lune pour lundi. Mars pour mardi. Mercure pour mercredi. Jupiter pour jeudi. Vénus pour vendredi. Saturne pour samedi.
 
 À cause de ces considérations, quelques millénaires plus tard, on s’est retrouvé avec le bug de l’an 2000. Mais c’est une autre histoire.
+
+Tags: NetCulture, noepub, Une brève histoire de l'informatique

@@ -1,6 +1,6 @@
 # Lecteur = mouton
 
-Je ne parle pas de toi qui es arrivé jusqu’ici, [mais du lecteur tel que nous le décrivent les statistiques](https://tcrouzet.com/2014/02/20/la-desintegration-du-marche-du-livre/). Ce lecteur acheteur des mêmes livres que les autres lecteurs, il faut bien qu’il existe pour engendrer des best-sellers de plus en plus retentissants, tout en laissant les seconds couteaux exsangues.<span id="more-34478"></span>
+Je ne parle pas de toi qui es arrivé jusqu’ici, [mais du lecteur tel que nous le décrivent les statistiques](http://blog.tcrouzet.com/2014/02/20/la-desintegration-du-marche-du-livre/). Ce lecteur acheteur des mêmes livres que les autres lecteurs, il faut bien qu’il existe pour engendrer des best-sellers de plus en plus retentissants, tout en laissant les seconds couteaux exsangues.<span id="more-34478"></span>
 
 Alors, oui, toi, peut-être, tu n’es pas moutonnier, tu es curieux, tu explores, tu prends des risques, mais tu appartiens à une infime minorité. Il faut que tu l’acceptes, et que moi même j’en convienne, en un acte de lucidité.
 
@@ -21,3 +21,5 @@ J’ai toujours voulu être différent des autres. Adolescent, je ne lisais pas 
 Bien sûr il permet à qui le veut de travailler son individuation. J’en ai fait le sujet de *L’alternative nomade*, mais nous ne sommes pas très nombreux à nous éloigner des pas de Panurge. En tout cas, les statistiques le disent, et elles m’inquiètent.
 
 J’ose espérer que notre suivisme se fissure de temps à temps pour de petites incursions vers l’inconnu. Une curiosité à minima vaut mieux que pas de curiosité du tout. D’ailleurs, sans cette curiosité au rabais, nous ne verrions pas sans cesse surgir de nulle part de nouveaux best-sellers. Alors espérons qu’elle sera suffisante pour irriguer de rêves la mer de la banalité.
+
+Tags: best-sellers, édition, une

@@ -2,7 +2,7 @@
 
 
 
-![Pacco](https://tcrouzet.com/images_tc/2007/10/la-voie-du-silence.gif)
+![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/la-voie-du-silence.gif)
 
 Pour lutter contre ce qui ne nous plait pas je me demande si le silence n’est pas la meilleure arme. Cette tactique me paraît opportune dans notre monde surmédiatisé. En un temps de guerre, Gandhi avait imaginé la non-violence. En un temps de communication, on pourrait imaginer le silence. Refuser de se prêter au buzz.
 
@@ -27,3 +27,5 @@ Ces modes de révolte ont toujours coexisté. Nous pouvons peut-être leur en ad
 Qu’est-ce qui nous empêche d’inventer un autre monde à côté de celui qui ne nous convient pas. N’est-ce pas ce que nous faisons avec la culture libre ? N’est-ce pas ce que nous faisons en ce moment même sur internet ?
 
 Nous n’avons plus besoin de résister, de renverser et d’infiltrer, nous n’avons qu’à nous concentrer sur la construction.
+
+Tags: Politique

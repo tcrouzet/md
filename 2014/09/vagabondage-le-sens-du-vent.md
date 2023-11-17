@@ -16,4 +16,8 @@ Les montés sur ressort se débattent, tirent sur le fil pour regagner la terre,
 
 Les navigateurs se moquent des règles et de l’avis de leur semblable. Ils larguent les amarres une fois pour toutes et gonflent leurs voiles, du moment qu’elles les entraînent où personne d’autre ne va. Ils vivent seuls et meurent seuls, mais heureux.
 
-![Sète vu de Bouzigue.](https://tcrouzet.com/images_tc/2014/09/bouzigue.jpg)
+![Sète vu de Bouzigue.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/bouzigue.jpg)
+
+
+
+Tags: une, vagabondage

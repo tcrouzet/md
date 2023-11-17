@@ -18,4 +18,8 @@ On peut imaginer une bookchain par livre, par auteur, par éditeur, par librairi
 
 J’en suis au stade de la fantaisie, juste parce que la possibilité technique est là. Je vois surtout un moyen de relier plus étroitement que jamais les auteurs et leurs lecteurs, les lecteurs entre eux. Les auteurs Web descendraient de leur chez eux. Nous partagerions un espace numérique. Nous l’habiterions ensemble.
 
-![Nous faut imaginer la chaîne qui libère…](https://tcrouzet.com/images_tc/2016/01/bookchain.jpg)
+![Nous faut imaginer la chaîne qui libère…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/bookchain.jpg)
+
+
+
+Tags: Blockchain, édition, une

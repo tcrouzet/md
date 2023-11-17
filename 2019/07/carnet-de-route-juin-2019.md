@@ -6,7 +6,7 @@
 
 Nous allons au [Yellow Green Farmers Market](http://www.ygfarmersmarket.com/) à Hollywood Beach, finalement. La première fois, j’avais refusé d’y entrer parce que le parking était payant. J’aurais dû, une sorte de Camden Town avec une suractivité que nous ne retrouverons nulle part en France, surtout pas dans les marchés fermiers organisés durant l’été, et qui sonnent de plus en plus faux.<span id="more-51830"></span>
 
-![Ciel de Floride](https://tcrouzet.com/images_tc/2019/07/IMG_5165.jpg)
+![Ciel de Floride](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5165-600x450.jpg)
 
 ### Lundi 3, Weston
 
@@ -36,19 +36,19 @@ Je m’amuse à une expérience en publiant aujourd’hui [un article de plus su
 
 Nous prenons l’avion ce soir pour Barcelone. J’attendais ce moment, je ne peux pas dire que je ne suis pas prêt ni heureux, mais tourner une page dans ma vie est toujours douloureux. La sensation d’irréversibilité, d’irrémédiabilité, est alors à son climax, jusqu’à me faire souffrir. Certains vivent comme s’ils étaient immortels, ça m’arrive souvent, sauf dans ces charnières existentielles.
 
-![Le départ](https://tcrouzet.com/images_tc/2019/07/706d4d77-f8c5-4f81-abd1-d043d406eae4.jpg)
+![Le départ](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/706d4d77-f8c5-4f81-abd1-d043d406eae4-600x450.jpg)
 
 ### Samedi 9, Balaruc
 
 Retour dans le sud. Promenade du soir et contraste saisissant entre le Midi « rounze » et la Floride manucurée. Là-bas, je me sentais dans un monde artificiel, j’étais prisonnier d’une carte postale aliénante. Ici, je suis dans un monde en déréliction. Par nature, je ne suis jamais content. Je vois toujours en priorité ce qui déraille. Je ferais mieux de parler de l’air à nouveau respirable.
 
-![De retour à Balaruc](https://tcrouzet.com/images_tc/2019/07/IMG_5344.jpg)
+![De retour à Balaruc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5344-600x450.jpg)
 
 ### Dimanche 10, Balaruc
 
 Hier, nous avons loué à Barcelone une minivan pour ramener notre barda, quatre vélos, neuf valises. Aujourd’hui, nous sommes retournés à Barcelone pour le déposer. Au retour, nous avons dévié jusqu’à Cadaqués où il nous a été impossible de stationner. Nous avons échoué à Figueras, près du musée Dali, de retour dans la vieille Europe, dans notre cher sanctuaire à ciel ouvert. Malgré la fatigue, le temps reprenait peu à peu corps.
 
-![Cadaqués](https://tcrouzet.com/images_tc/2019/07/IMG_5347.jpg)
+![Cadaqués](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5347-600x450.jpg)
 
 ### Lundi 11, Balaruc
 
@@ -58,7 +58,7 @@ On oublie vite. Mes allergies, déjà de retour. En Floride, un an sans le moind
 
 Première sortie gravel dans ma garrigue. Je donne du mal à mes copains en montée qui souffrent sur leur VTT, puis à mon tour de souffrir en descente. Reste que je n’ai pas mal à l’épaule gauche malgré les secousses bien plus terribles qu’en Floride. Je crois que là-bas les infinies lignes droites où on ne change jamais de position m’étaient nocives. Où est-ce les odeurs de la garrigue qui me font du bien, la vue de la mer et des étangs, de me retrouver dans mes lumières et mes collines ? Il doit y avoir de ça aussi.
 
-![En garrigue](https://tcrouzet.com/images_tc/2019/07/IMG_5352.jpg)
+![En garrigue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5352-600x450.jpg)
 
 ### Mardi 12, Balaruc
 
@@ -86,7 +86,7 @@ Aujourd’hui j’ai [escaladé le Ventoux pour la première fois](https://tcrou
 
 Ce soir j’ai ouvert la lettre de mon père.
 
-![L'étang](https://tcrouzet.com/images_tc/2019/07/IMG_5381.jpg)
+![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5381-600x450.jpg)
 
 ### Lundi 17, TGV pour Lille
 
@@ -104,7 +104,7 @@ Reste que j’ai peur, parce que depuis deux ans je n’ai plus de projets ambit
 
 Retard à Lyon. Dehors, deux affiches publicitaires pour la ViaRhôna, la piste cyclable qui relie Sète à Genève. C’est une provocation.
 
-![En gare](https://tcrouzet.com/images_tc/2019/07/IMG_5393.jpg)
+![En gare](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5393-600x450.jpg)
 
 ---
 
@@ -114,9 +114,9 @@ Mon ami Jean-Hugues a [écrit une chronique de *Mon père, ce tueur* qui me reto
 
 Plaisir de marcher dans la ville, de voir des choses anciennes, de rencontrer des amis, c’est comme renaître après un an d’incarcération.
 
-![Jardin des plantes](https://tcrouzet.com/images_tc/2019/07/IMG_5400.jpg)
+![Jardin des plantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5400-600x450.jpg)
 
-![Jardin du Luxembourg](https://tcrouzet.com/images_tc/2019/07/IMG_5401.jpg)
+![Jardin du Luxembourg](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5401-600x450.jpg)
 
 ### Mercredi 19, Paris
 
@@ -126,7 +126,7 @@ Au cours d’une conversation avec Guillaume Vissas, une idée de fiction me vie
 
 Les auteurs web dits littéraires ont tourné le dos à la fiction, qu’ils méprisent parce qu’ils ne la maîtrisent pas. Ils sont même incapables de faire d’eux-mêmes des personnages romanesques, de plonger dans la fiction comme nous le faisons avec délectation dans nos journaux faussement intimes. Envie de m’inventer des rencontres fictives. Par exemple, raconter que j’ai déjeuné avec le Président et qu’il m’a dit beaucoup de bien de mon œuvre. Dire qu’un juré du Goncourt m’a dit que mon livre était déjà sur la liste des favoris. Le dire comme ça, au détour d’une note, et peu à peu donner de moi une image altérée, jusqu’à ce que mes lecteurs croient à mes propos, qui finiraient par devenir réalité, au moins une réalité romanesque. J’aimerais être mythomane comme mon père l’était. Peut-être ai-je hérité de son don pour raconter, sans réussir à croire à mes histoires.
 
-![Sur notre porte à Paris](https://tcrouzet.com/images_tc/2019/07/IMG_5404.jpg)
+![Sur notre porte à Paris](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5404-600x450.jpg)
 
 ### Jeudi 20, TGV pour Sète
 
@@ -150,7 +150,7 @@ Et si je n’étais pas écrivain, j’aurais ouvert la lettre de mon père le j
 
 Aujourd’hui, je réaménage chez moi. Je retrouve ma lumière, mon ambiance.
 
-![Sortie vélo](https://tcrouzet.com/images_tc/2019/07/IMG_5422.jpg)
+![Sortie vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5422-600x450.jpg)
 
 ### Dimanche 23, Balaruc
 
@@ -178,7 +178,7 @@ J’aimerais n’écrire qu’un immense livre, en plusieurs tomes, ne plus pens
 
 Les lecteurs aiment toujours les grandes œuvres monumentales. *Game of Thrones* est en quelque sorte une œuvre intermédiaire entre classique et numérique, classique par sa longue narration, numérique parce qu’elle juxtapose des destins, mais reste que les personnages principaux sont là du début à la fin, Tolstoï nous a déjà donné tout cela, Martin n’invente rien, il nous livre un *Guerre et Paix* du pauvre.
 
-Pour aller plus loin vers le numérique, il faut écrire en mosaïque. Alors l’œuvre ne prend sens qu’au fur et à mesure que le lecteur fabrique en lui-même une continuité qui ne vaut que pour lui. Voilà ce qu’est pour moi la littérature numérique. Il ne s’agit pas de la littérature publiée sur internet, mais d’une littérature qui fonctionne de manière digitale.
+Pour aller plus loin vers le numérique, il faut écrire en mosaïque. Alors l’œuvre ne prend sens qu’au fur et à mesure que le lecteur fabrique en lui-même une continuité qui ne vaut que pour lui. Voilà ce qu’est pour moi la littérature numérique. Il ne s’agit pas de la littérature publiée sur internet, mais d'une littérature qui fonctionne de manière digitale.
 
 J’en reviens à [*One Minute*](https://tcrouzet.com/une-minute/), toujours [*One Minute*](https://tcrouzet.com/une-minute/). Il me faudrait pousser plus loin le mécanisme, plus longtemps, construire une cathédrale avec des allumettes livrées dans de petites boîtes, une cathédrale en kit.
 
@@ -208,6 +208,10 @@ L’artiste comme éponge, qui avant d’être pressé doit s’imbiber plus ou 
 
 ### Dimanche 30, Balaruc
 
-Pratiquer un sport à haute dose serait [une nouvelle forme de la crise de milieu de vie](https://elemental.medium.com/extreme-athleticism-is-the-new-midlife-crisis-d87199a18bed). Avant, les hommes se donnaient l’illusion de jeunesse en couchant avec des femmes beaucoup plus jeunes qu’eux, désormais ils rivalisent avec les jeunes sur le plan athlétique, non plus dans l’espoir de retrouver leur jeunesse, mais dans celui de retarder leur vieillesse. J’ai émis cette hypothèse dans [*L’homme qui ne comprenait pas les femmes*](https://tcrouzet.com/lhomme-qui-ne-comprenait-pas-les-femmes/), un roman finalement assez autobiographique. Et peut-être que tout cela n’a rien à voir avec les hommes, mais seulement avec les femmes qui ne se laissent plus berner par les privilèges offerts par l’âge.
+Pratiquer un sport à haute dose serait [une nouvelle forme de la crise de milieu de vie](https://elemental.medium.com/extreme-athleticism-is-the-new-midlife-crisis-d87199a18bed). Avant, les hommes se donnaient l’illusion de jeunesse en couchant avec des femmes beaucoup plus jeunes qu’eux, désormais ils rivalisent avec les jeunes sur le plan athlétique, non plus dans l’espoir de retrouver leur jeunesse, mais dans celui de retarder leur vieillesse. J’ai émis cette hypothèse dans [*L’homme qui ne comprenait pas les femmes*](https://tcrouzet.com/lhomme-qui-ne-comprenait-pas-les-femmes/), un roman finalement assez autobiographique. Et peut-être que tout cela n'a rien à voir avec les hommes, mais seulement avec les femmes qui ne se laissent plus berner par les privilèges offerts par l'âge.
 
-![Sortie vélo](https://tcrouzet.com/images_tc/2019/07/IMG_5455.jpg)
+![Sortie vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5455-600x450.jpg)
+
+
+
+Tags: Carnets, une

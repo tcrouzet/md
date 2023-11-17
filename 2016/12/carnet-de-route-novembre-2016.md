@@ -16,7 +16,7 @@ Journée passée à écouter [Abrahams Annie](http://bram.org/) parler de son tr
 
 Pourquoi lever des barrières, pourquoi vouloir catégoriser ? Ce n’est pas ma volonté, c’est ce qui me dérange dans ces histoires de musée ou de en ligne. Nous ne nous parlons pas assez. Chacun se balade dans des coteries étrangères. On y gagnerait sans doute à s’interféconder.
 
-![Nana sexy devant animation de Stephane Gantelet et Juliette Mézenc](https://tcrouzet.com/images_tc/2016/12/juliette.jpg)
+![Nana sexy devant animation de Stephane Gantelet et Juliette Mézenc](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/juliette.jpg)
 
 ### Samedi 5, Balaruc
 
@@ -28,11 +28,11 @@ Je m’intéresse tellement peu à ce qui intéresse les gens que je me demande 
 
 ### Lundi 7, Balaruc
 
-Hier, une idée me vient, [je la partage](https://tcrouzet.com/2016/11/06/bloguer-sur-papier/), dans toute son impureté primordiale, pour ouvrir la discussion. Immédiatement un andouille me tombe dessus comme si j’avais mis en œuvre l’idée, comme si j’y avais réfléchi durant des années. J’ai envie de fuir le Net pour fuir ces individus, innombrables.
+Hier, une idée me vient, [je la partage](http://tcrouzet.com/2016/11/06/bloguer-sur-papier/), dans toute son impureté primordiale, pour ouvrir la discussion. Immédiatement un andouille me tombe dessus comme si j’avais mis en œuvre l’idée, comme si j’y avais réfléchi durant des années. J’ai envie de fuir le Net pour fuir ces individus, innombrables.
 
 Quand je partage une idée, c’est pour jouer avec, que, de rebond en rebond, elle devienne autre chose, qu’ensemble nous en fassions une petite pelote amusante, même si c’est pour finir par la jeter à la poubelle.
 
-Il s’est passé la même chose avec [*Résistants*](https://tcrouzet.com/resistants/). Quand j’ai publié le premier chapitre sur *Scribay*, dans sa forme préliminaire, les vautours se sont déchaînés, de quoi m’écœurer d’écrire. Une idée comme une œuvre ont besoin de temps pour maturer dans un environnement critique mais bienveillant, une bienveillance qui fait défaut au Web d’aujourd’hui.
+Il s’est passé la même chose avec [*Résistants*](http://tcrouzet.com/resistants/). Quand j’ai publié le premier chapitre sur *Scribay*, dans sa forme préliminaire, les vautours se sont déchaînés, de quoi m’écœurer d’écrire. Une idée comme une œuvre ont besoin de temps pour maturer dans un environnement critique mais bienveillant, une bienveillance qui fait défaut au Web d’aujourd’hui.
 
 Selon le Vautour d’hier, je montre un désir de fuite propre à tous ceux qui n’ont pas de succès. Il n’a pas compris que je ne recherche jamais le succès sur mon blog, mais ouvrir mon atelier, ouvrir la machine mentale pour que d’autres s’y glissent.
 
@@ -44,15 +44,15 @@ En tant que créateur, j’ai besoin de me couper du temps réel pour créer, pa
 
 C’est le numérique qui m’importe, pas le Web, désormais au service des puissances marketing.
 
-![Les toits de Montpellier](https://tcrouzet.com/images_tc/2016/12/mpl.jpg)
+![Les toits de Montpellier](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/mpl.jpg)
 
 ### Mercredi 9, Balaruc
 
-Le monde se réveille avec la gueule de bois après l’élection de Trump, suite d’une longue histoire : les peuples ne veulent plus des gens qui les manipulent et se laissent séduire par ceux qui dénoncent la manipulation (et qui à leur tour manipuleront, ça c’est une autre histoire).
+Le monde se réveille avec la gueule de bois après l’élection de Trump, suite d'une longue histoire : les peuples ne veulent plus des gens qui les manipulent et se laissent séduire par ceux qui dénoncent la manipulation (et qui à leur tour manipuleront, ça c’est une autre histoire).
 
 ---
 
-Je suis vaseux ce matin, mal dormi, un peu flottant après le stress de [*Résistants*](https://tcrouzet.com/resistants/). Il pleut, puis un rayon de soleil perse. Je m’en vais courir. Mon circuit habituel le long du canal du Rhône à Sète avec retour par la mer. Je ne force pas, mais je bats mon record sur ce tracé. Pratiquement 11 km/h de moyenne.
+Je suis vaseux ce matin, mal dormi, un peu flottant après le stress de [*Résistants*](http://tcrouzet.com/resistants/). Il pleut, puis un rayon de soleil perse. Je m’en vais courir. Mon circuit habituel le long du canal du Rhône à Sète avec retour par la mer. Je ne force pas, mais je bats mon record sur ce tracé. Pratiquement 11 km/h de moyenne.
 
 Une fois à la maison, je grignote, puis je fais une sieste, d’une profondeur rare. Je rêve que je suis une caméra qui filme mon père. Je suis monté sur un drone, d’après les prises de vue. Mon père est en barque, habillé dans un ciré à bretelle, il porte un bonnet, il répond aux questions d’une journaliste. Il parle d’une pollution, d’un bateau qui aurait déversé des trucs dans l’eau. La journaliste lui demande si c’est fréquent. Il répond qu’il se blesse souvent avec des morceaux de ferraille. Je vois maintenant l’arrière de sa barque d’où se déverse un filet. La caméra s’éloigne, laissant apparaître le profil de la barque, la barque qui peu à peu pourrit dans notre jardin.
 
@@ -68,13 +68,13 @@ J’ai commencé à écrire pour moi, dans un carnet, puis pour les autres duran
 
 ### Dimanche 13, Balaruc
 
-![Maguelone](https://tcrouzet.com/images_tc/2016/12/maguelone1.jpg)
+![Maguelone](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/maguelone1.jpg)
 
-![Maguelone](https://tcrouzet.com/images_tc/2016/12/maguelone2.jpg)
+![Maguelone](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/maguelone2.jpg)
 
-![Balaruc](https://tcrouzet.com/images_tc/2016/12/soleil13.jpg)
+![Balaruc](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/soleil13.jpg)
 
-![Balaruc](https://tcrouzet.com/images_tc/2016/12/soleil13-2.jpg)
+![Balaruc](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/soleil13-2.jpg)
 
 ### Lundi 14, Balaruc
 
@@ -96,37 +96,37 @@ Notre biosphère n’est finie que si on la considère à un instant t, en annih
 
 Pas plus nos idées que l’énergie à notre disposition ne sont finies, donc nous ne vivons pas dans une biosphère limitée. Ce n’est pas une raison pour faire n’importe quoi, mais on ne fera pas avancer l’écologie en s’appuyant sur des idées fausses.
 
-![Balaruc, les Pyrénées](https://tcrouzet.com/images_tc/2016/12/soleil14.jpg)
+![Balaruc, les Pyrénées](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/soleil14.jpg)
 
 ### Mardi 15, Balaruc
 
-![Les Pyrénées](https://tcrouzet.com/images_tc/2016/12/pyren15.jpg)
+![Les Pyrénées](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/pyren15.jpg)
 
 ### Mercredi 16, Balaruc
 
-J’effectue des corrections à me rendre fou sur [*Résistants*](https://tcrouzet.com/resistants/), j’ai l’impression que ça ne finira jamais. On va être obligé d’arrêter, parce qu’on lance la traduction la semaine prochaine.
+J’effectue des corrections à me rendre fou sur [*Résistants*](http://tcrouzet.com/resistants/), j’ai l’impression que ça ne finira jamais. On va être obligé d’arrêter, parce qu’on lance la traduction la semaine prochaine.
 
 Un lecteur a fait des annotations minutieuses. Dès que c’est scientifique, il tique, le moindre chiffre le paralyse, il veut toujours plus d’émotion. Dans ce domaine, je suis dans l’ellipse, je veux que le lecteur participe au texte, qu’il l’enrichisse. Pour ce lecteur, j’ai l’impression que tout devrait être prémâché. Ma volonté de tendre vers le grand public ne peut pas être au prix d’un total déni de mon esthétique. J’ai déjà tellement concédé.
 
 Pour me changer les idées, je défonce au marteau-piqueur une dalle en béton, puis je creuse un trou pour y planter un mûrier platane, question d’agrandir a zone ombragée devant la cuisine en été. Ce soir, je termine mon bricolage sous un ciel rouge, un de ces ciels sublimes de novembre, avant que le premier mistral vienne nous faire entrer dans l’hiver.
 
-![Balaruc](https://tcrouzet.com/images_tc/2016/12/soleil16.jpg)
+![Balaruc](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/soleil16.jpg)
 
 ### Jeudi 17, Balaruc
 
-![L'étang](https://tcrouzet.com/images_tc/2016/12/balaruc17.jpg)
+![L'étang](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/balaruc17.jpg)
 
-Toujours aux prises avec mon lecteur. Une de ses remarques type : « Développe les possibles sous-entendus. » Non, justement, j’aime les sous-entendus, c’est autant de portes ouvertes à la créativité du lecteur, des portes déjà bien fermées dans [*Résistants*](https://tcrouzet.com/resistants/).
+Toujours aux prises avec mon lecteur. Une de ses remarques type : « Développe les possibles sous-entendus. » Non, justement, j’aime les sous-entendus, c’est autant de portes ouvertes à la créativité du lecteur, des portes déjà bien fermées dans [*Résistants*](http://tcrouzet.com/resistants/).
 
 C’est assez déprimant d’entrer dans la tête d’un lecteur qui ne peut pas être le mien, d’un lecteur avec lequel je n’ai pas envie de discuter. J’ai toujours cherché à me faire des amis en écrivant et je prends conscience que cette volonté est incompatible avec l’idée d’un livre grand public. Je ne peux être ami avec tout le monde. Alors je n’écrirai plus que des livres pour mes amis imaginaires.
 
 Autre remarque du lecteur : « Réfléchis vraiment à ce qui est utile à l’histoire, bazarde le reste. » Putain, j’écris ce livre pour le reste, l’histoire est un véhicule arbitraire pour faire passer quelques idées. Il n’a vraiment rien compris le bougre.
 
-Je me suis amusé à [*Résistants*](https://tcrouzet.com/resistants/) parce que cette fable m’a permis de distiller des informations scientifiques. Je n’ai aucun attachement à la forme du thriller, contrairement à mon lecteur qui la considère comme un *must do*.
+Je me suis amusé à [*Résistants*](http://tcrouzet.com/resistants/) parce que cette fable m’a permis de distiller des informations scientifiques. Je n’ai aucun attachement à la forme du thriller, contrairement à mon lecteur qui la considère comme un *must do*.
 
 ### Samedi 19, Balaruc
 
-Je découvre [le portrait de l’auteur nouveau](http://www.sgdl.org/sgdl/infos/3049-portrait-de-l-auteur-nouveau) de Marie Sellier et constate qu’il ne s’agit que du portrait de l’auteur depuis longtemps paupérisé. Je commence à écrire un portrait de l’auteur *nouveau nouveau* en référence au *new new* journalisme, puis j’arrête en me disant que je n’ai à donner de leçon à personne.
+Je découvre [le portrait de l'auteur nouveau](http://www.sgdl.org/sgdl/infos/3049-portrait-de-l-auteur-nouveau) de Marie Sellier et constate qu’il ne s’agit que du portrait de l’auteur depuis longtemps paupérisé. Je commence à écrire un portrait de l’auteur *nouveau nouveau* en référence au *new new* journalisme, puis j’arrête en me disant que je n’ai à donner de leçon à personne.
 
 ### Lundi 21, Balaruc
 
@@ -144,7 +144,7 @@ Je pourrais bien sûr écouter de la musique, ne rien écouter du tout, ou des l
 
 ### Jeudi 24, Balaruc
 
-![Balaruc](https://tcrouzet.com/images_tc/2016/12/balaruc24.jpg)
+![Balaruc](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/12/balaruc24.jpg)
 
 ### Samedi 26, Balaruc
 
@@ -152,7 +152,7 @@ Sur un coup de tête, je me suis inscrit aux 20 Km de Montpellier. Et maintenant
 
 ### Dimanche 27, Balaruc
 
-J’aime courir seul ou avec un ou deux amis, dans la nature, sur des chemins de garrigue ou sur la plage. Faire une course n’a que l’intérêt de me fixer un objectif. Ce matin, j’ai avalé les 20 Km sans difficulté, sans souffrance, avec juste un rythme cardiaque plus rapide que d’habitude alors que je ne courrai pas plus vite, peut-être par un effet du stress causé par la foule.
+J’aime courir seul ou avec un ou deux amis, dans la nature, sur des chemins de garrigue ou sur la plage. Faire une course n’a que l’intérêt de me fixer un objectif. Ce matin, j'ai avalé les 20 Km sans difficulté, sans souffrance, avec juste un rythme cardiaque plus rapide que d’habitude alors que je ne courrai pas plus vite, peut-être par un effet du stress causé par la foule.
 
 ---
 
@@ -164,7 +164,7 @@ Envie de ne plus publier que par mail, de m’adresser qu’à mes seuls abonné
 
 ---
 
-Depuis des années je republie automatiquement mes photos instagram sur 500px qui vient de m’annonce fermer mon compte pour *Copyright infringement/Plagiarism*. Je n’ai même pas droit de discuter. Voilà le Web d’aujourd’hui. Et dire que je ne fais que publier mes propres photos, parfois des textes, plus rarement des dessins.
+Depuis des années je republie automatiquement mes photos instagram sur 500px qui vient de m’annonce fermer mon compte pour *Copyright infringement/Plagiarism*. Je n'ai même pas droit de discuter. Voilà le Web d’aujourd’hui. Et dire que je ne fais que publier mes propres photos, parfois des textes, plus rarement des dessins.
 
 ### Mardi 29, Balaruc
 
@@ -181,3 +181,5 @@ Pour réorganiser *One Minute*, je me demande si je ne vais pas créer une fiche
 ---
 
 Peut-être suis-je en train de me monter contre le Web parce que je n’y trouve plus ma place. Pas envie de nourrir les GAFAM, donc d’alimenter leur plateforme, envie d’être chez moi… tout en sachant que chez moi c’est aussi devenu bien calme. Alors, quitte à être au calme, y être franchement, donc être très discret en ligne. Mais tout cela n’est qu’une réaction d’amoureux déçu. Que la gloire arrive, et tous les sécessionnistes de mon espèce seront les premiers à faire leur retour en ligne.
+
+Tags: Carnets, une

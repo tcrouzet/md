@@ -27,3 +27,5 @@ Notes
 3. Dans nos démocraties représentatives, les militants utilisent la libération de l’information pour promouvoir leurs candidats. Ils ne constituent pas pour autant un cinquième pouvoir car leur travail participe à la stabilisation des pouvoirs traditionnels.
 
 4. Le cinquième pouvoir en tant que force sociale indicible n’aspire à mettre au pouvoir personne puisqu’il existe par la décentralisation des pouvoirs, par leur émiettement entre chacun de nous.
+
+Tags: Politique

@@ -53,3 +53,5 @@ Dans les entreprises, souvent les réorganisations réduisent les pyramides et e
 8. Nous ne pouvons sans cesse nous contenter de dire que le magma social est compliqué… et renoncer à toute forme de discours sous prétexte qu’il est simplificateur. L’idée que tout est plus compliqué qu’il n’y paraît n’est peut-être qu’une idée reçue.
 
 9. Compliquer les règles d’interactions entre les agents comme les agents eux-mêmes ne change souvent pas les résultats des simulations. Un peu comme si certains mécanismes, une fois en route, maintenaient leur propre autonomie. On pourrait envisager des formes de vie sociale. Comme les cellules organiques, elles garderaient une identité dans l’organe social complet. Pourquoi les règles maintenant leur cohésion ne seraient-elles pas simples ? Elles ressembleraient aux règles chimiques qui maintiennent les membranes des cellules.
+
+Tags: auto-organisation, Connecteur

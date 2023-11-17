@@ -2,7 +2,7 @@
 
 Dire que la loi protège le plus faible serait donner un avantage au faible l’amenant rapidement à devenir le plus fort. Non ? En tout cas, les choses se passent de cette façon dans la nature.
 
-Dans [Le peuple des connecteurs](https://tcrouzet.com/le-peuple-des-connecteurs/), j’ai donné l’exemple des morues. Quand nous avons interdit la pêche des petits spécimens, ces derniers se sont trouvés avantagés, l’espèce a évolué pour que les poissons adultes soient moins gros (et au passage de moins bons reproducteurs ce qui risque de condamner l’espèce).
+Dans [Le peuple des connecteurs](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), j’ai donné l’exemple des morues. Quand nous avons interdit la pêche des petits spécimens, ces derniers se sont trouvés avantagés, l’espèce a évolué pour que les poissons adultes soient moins gros (et au passage de moins bons reproducteurs ce qui risque de condamner l’espèce).
 
 Si la loi protégeait le plus faible, les faibles auraient pris depuis longtemps la place du plus fort. Je n’ai pas l’impression que ce soit le cas chez nous. Je crois plutôt que la loi a pour but de protéger les hommes des excès de quelques uns. Mais bon je ne suis pas juriste.
 
@@ -14,7 +14,7 @@ Mais qui édicte les lois, qui les influence, sinon les puissants ? Les régime
 
 Ce n’est pas par la loi, en tout cas la loi telle que nous la connaissons, que nous pouvons protéger les plus faibles. Mais comment faire ? Car il faut bien que celui qui se trouve dans un état de faiblesse puisse en sortir ?
 
-Si la loi ne protège pas le plus faible dans l’absolu, quelques lois particulières peuvent le faire, celles notamment qui entérinent des acquis sociaux. Reste donc à savoir [comme me le demandait Eric Culnaërt](https://tcrouzet.com/2007/03/28/lego-en-question/#comment-15510) s’il est possible de protéger le faible dans un système auto-organisé, décentralisé et collaboratif ?
+Si la loi ne protège pas le plus faible dans l’absolu, quelques lois particulières peuvent le faire, celles notamment qui entérinent des acquis sociaux. Reste donc à savoir [comme me le demandait Eric Culnaërt](http://blog.tcrouzet.com/2007/03/28/lego-en-question/#comment-15510) s’il est possible de protéger le faible dans un système auto-organisé, décentralisé et collaboratif ?
 
 Je ne propose aucun système cohérent mais j’ai de bonnes raisons d’être optimiste.
 
@@ -37,3 +37,5 @@ Je ne propose aucun système cohérent mais j’ai de bonnes raisons d’être o
 9. Et quand ça ne marche pas il restera les bonnes vieilles lois. Je rappelle que ça ne marche pas toujours dans notre monde malgré les lois. La solution n’est pas tant dans la loi que dans la façon dont la société se structure.
 
 Mais au final qui est faible qui est fort ? Cette notion est très relative. Qui est qualifié pour dire que quelqu’un d’autre est faible ou fort ? Quand le faible se dit faible, je l’entends. Quand c’est un politicien qui parle en son nom, je doute beaucoup. C’est une des raisons pour lesquelles je n’aime pas notre démocratie représentative et que je préfèrerais une démocratie collaborative qui reste à inventer.
+
+Tags: Politique

@@ -14,21 +14,21 @@ C’est en écrivant cette vie d’Ératosthène que la plupart de mes idées ac
 
 Début 2003, après trois ans de travail, j’avais enfin un premier jet de mon roman. François en a pensé beaucoup de bien. Il m’a fait retravailler puis a proposé le manuscrit au Seuil et à Gallimard qui l’ont refusé.
 
-Entre temps, dans l’avion qui me ramenait de Londres à Montpellier, j’ai lu dans NewScientist une note sur l’origine du sida. J’ai eu une épiphanie. Il me fallait à tout prix écrire cette histoire aussi. En trois mois, durant l’été 2003, j’ai écrit un nouveau roman : *[HIV](https://tcrouzet.com/2007/04/03/hiv/)*. Autant j’avais souffert avec Ératosthène, autant *[HIV](https://tcrouzet.com/2007/04/03/hiv/)* fut un jeu.
+Entre temps, dans l’avion qui me ramenait de Londres à Montpellier, j’ai lu dans NewScientist une note sur l’origine du sida. J’ai eu une épiphanie. Il me fallait à tout prix écrire cette histoire aussi. En trois mois, durant l’été 2003, j’ai écrit un nouveau roman : *[HIV](http://blog.tcrouzet.com/2007/04/03/hiv/)*. Autant j’avais souffert avec Ératosthène, autant *[HIV](http://blog.tcrouzet.com/2007/04/03/hiv/)* fut un jeu.
 
 Mes amis proches furent très critiques vis-à-vis de ce texte. Seul [Alain-Gilles Minella](http://www.amazon.fr/Ali%C3%A9nor-dAquitaine-LAmour-pouvoir-haine/dp/2262020531/ref=sr_1_2), mon actuel directeur de collection, et un autre ami furent enthousiastes. J’ai envoyé deux ou trois manuscrits à tout hasard, les éditeurs n’ont pas donné suite.
 
 Début 2004, Serge Martiano, le patron de First et mon éditeur de livres informatiques, me conseilla d’écrire un roman qui s’appellerait *Croisade*. Il raconterait la lutte éternelle entre les Chrétiens et les Musulmans, faisant l’hypothèse que les croisades n’ont jamais cessé.
 
-Mon passé de joueur de jeu de rôle s’est tout de suite réveillé et j’ai commencé à écrire un scénario à la *Da Vinci Code*, tout en retravaillant tantôt *Ératosthène*, tantôt [*HIV*](https://tcrouzet.com/2007/04/03/hiv/).
+Mon passé de joueur de jeu de rôle s’est tout de suite réveillé et j’ai commencé à écrire un scénario à la *Da Vinci Code*, tout en retravaillant tantôt *Ératosthène*, tantôt [*HIV*](http://blog.tcrouzet.com/2007/04/03/hiv/).
 
-Avec Isabelle, nous avons passé cet été 2004 à Seattle. Presque tous les jours, je partais marcher en montagne. C’est lors d’une de ces balades que j’ai pensé pour la première fois à écrire [Le peuple des connecteurs](https://tcrouzet.com/le-peuple-des-connecteurs/). À ce moment, je songeais plutôt à la biographie de la cybergénération.
+Avec Isabelle, nous avons passé cet été 2004 à Seattle. Presque tous les jours, je partais marcher en montagne. C’est lors d’une de ces balades que j’ai pensé pour la première fois à écrire [Le peuple des connecteurs](http://blog.tcrouzet.com/le-peuple-des-connecteurs/). À ce moment, je songeais plutôt à la biographie de la cybergénération.
 
 En rentrant à Paris, j’ai parlé de cette idée à François Bourin qui venait de créer une nouvelle maison d’édition. Il m’a dit de foncer. J’ai temporisé, poursuivant mes recherches pour *Croisade*. Il ne s’agissait déjà plus pour moi d’opposer les Chrétiens et les Musulmans, mais au contraire de les faire compagnons, leurs adversaires étant les hommes libres.
 
-Mon idée était alors de jouer le livre avant de l’écrire, laissant les joueurs inventer l’essentiel de l’intrigue. Avec quelques amis, début 2005, nous avons entamé une campagne qui ne s’est jamais achevée, sans doute parce que j’ai commencé [Le peuple des connecteurs](https://tcrouzet.com/le-peuple-des-connecteurs/).
+Mon idée était alors de jouer le livre avant de l’écrire, laissant les joueurs inventer l’essentiel de l’intrigue. Avec quelques amis, début 2005, nous avons entamé une campagne qui ne s’est jamais achevée, sans doute parce que j’ai commencé [Le peuple des connecteurs](http://blog.tcrouzet.com/le-peuple-des-connecteurs/).
 
-Motivé par la rencontre avec Casabaldi et les [freemen](https://tcrouzet.com/2006/11/08/266/), je me suis remis à *Croisade* début 2006, écrivant 80 pages sous la forme d’un triller sans être convaincu, puis j’ai arrêté pour [Le cinquième pouvoir](https://tcrouzet.com/le-cinquieme-pouvoir/).
+Motivé par la rencontre avec Casabaldi et les [freemen](http://blog.tcrouzet.com/2006/11/08/266/), je me suis remis à *Croisade* début 2006, écrivant 80 pages sous la forme d’un triller sans être convaincu, puis j’ai arrêté pour [Le cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/).
 
 Depuis le début 2007, j’ai profité de mes moments libres pour retravailler une nouvelle fois *Ératosthène*. J’aurais d’ici la fin du mois une nouvelle version et j’espère la publier l’année prochaine.
 

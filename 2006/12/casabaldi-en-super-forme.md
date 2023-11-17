@@ -1,3 +1,5 @@
 # Casabaldi en super forme
 
-Lisez absolument ce [commentaire](https://tcrouzet.com/2006/12/04/la-france-serait-coupee-en-deux/#comment-4994). Tout y est. Casabaldi décrit exactement la situation politique actuelle. Il montre le flou où tous nos politiciens se trouvent. Voilà pourquoi je continue de penser que la [venue de Sarkozy au LeWeb3](https://tcrouzet.com/2006/12/15/arretez-de-taper-sur-loic-le-meur/) est une bonne chose. Il a regardé le trouble en face et il a pris peur.
+Lisez absolument ce [commentaire](http://blog.tcrouzet.com/2006/12/04/la-france-serait-coupee-en-deux/#comment-4994). Tout y est. Casabaldi décrit exactement la situation politique actuelle. Il montre le flou où tous nos politiciens se trouvent. Voilà pourquoi je continue de penser que la [venue de Sarkozy au LeWeb3](http://blog.tcrouzet.com/2006/12/15/arretez-de-taper-sur-loic-le-meur/) est une bonne chose. Il a regardé le trouble en face et il a pris peur.
+
+Tags: Buzz

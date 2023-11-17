@@ -10,7 +10,7 @@ Mais il ne faut pas s’emballer. Quand un texte de cent chapitres reçoit 1 mil
 
 > Conseil pour les éditeurs : en dessous de 10 000 lectures pour le dernier chapitre, passez votre chemin.
 
-Par ailleurs, le nombre d’amis d’un auteur n’est pas très significatif. Par exemple, j’ai plus de 3 000 amis sur Wattpad, mais mon texte le plus lu, [*One Minute*](https://tcrouzet.com/une-minute/), n’a recueilli sur son dernier chapitre que 200 lectures (OK, j’ai retiré 95 % du texte quelques jours après la clôture du projet). La taille réelle de ma communauté Wattpad ne dépasse donc pas les 200 lecteurs, tout cela parce que je ne cultive pas ma communauté et ne passe pas plus de temps à me faire de nouveaux amis qu’à écrire.
+Par ailleurs, le nombre d’amis d’un auteur n’est pas très significatif. Par exemple, j’ai plus de 3 000 amis sur Wattpad, mais mon texte le plus lu, [*One Minute*](https://tcrouzet.com/une-minute/), n’a recueilli sur son dernier chapitre que 200 lectures (OK, j’ai retiré 95 % du texte quelques jours après la clôture du projet). La taille réelle de ma communauté Wattpad ne dépasse donc pas les 200 lecteurs, tout cela parce que je ne cultive pas ma communauté et ne passe pas plus de temps à me faire de nouveaux amis qu'à écrire.
 
 J’en ai déduit que je ne pouvais utiliser Wattpad que comme plateforme de test. Désormais, j’y publie quelques pages et vois comment mes lecteurs réagissent. De toute façon, je n’écris pas pour le public de Wattpad. En voici la preuve. Comme [*One Minute*](https://tcrouzet.com/une-minute/) a fait le buzz, beaucoup de lecteurs traditionnels de Wattpad ont débarqué sur le premier chapitre. Ils ont tous lu la première phrase : « Les gens sont extraordinaires d’abnégation. » Plusieurs m’ont reproché d’utiliser des mots compliqués. En gros, ils avaient l’impression d’être en cours de français. J’ai mis du temps à comprendre qu’« abnégation » pouvait poser problème.
 
@@ -18,5 +18,6 @@ Par reverse ingenering, on peut en déduire la bonne façon d’écrire sur Watt
 
 > Conseil pour les éditeurs : une communauté numérique se convertit mal en communauté non numérique, tablez donc sur de très grosses communautés.
 > 
-> 
 >  Conseil pour les éditeurs : Wattpad reste un vivier à explorer pour qui s’intéresse à la littérature, mais alors les statistiques n’ont guère d’utilité.
+
+Tags: édition, une, Wattpad

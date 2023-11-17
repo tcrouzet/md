@@ -2,7 +2,7 @@
 
 À quoi ressemblent ces hommes et ces femmes qui nagent dans le flux ? Je voudrais répondre à cette question, déjà pour m’aider à mieux me situer dans le monde, à accepter les aléas de la vie contemporaine et ne pas perdre courage.<span id="more-21109"></span>
 
-J’ai souvent défini le flux, notamment dans [*Propulseurs dans le flux*](https://tcrouzet.com/propulseurs-dans-le-flux/). Le flux ne se limite pas au flux des informations, mais à tous les échanges matériels ou immatériels qui ne cessent de se produire… et qui ont la particularité de boucler sur eux-mêmes. De fermer le système. D’imbriquer les causalités. De casser les notions de début et de fin, de haut et de bas. Le flux est un état de complexité extrême et d’interdépendance massive.
+J’ai souvent défini le flux, notamment dans [*Propulseurs dans le flux*](http://blog.tcrouzet.com/propulseurs-dans-le-flux/). Le flux ne se limite pas au flux des informations, mais à tous les échanges matériels ou immatériels qui ne cessent de se produire… et qui ont la particularité de boucler sur eux-mêmes. De fermer le système. D’imbriquer les causalités. De casser les notions de début et de fin, de haut et de bas. Le flux est un état de complexité extrême et d’interdépendance massive.
 
 Je vois pour chacun de nous quatre attitudes possibles.
 
@@ -46,3 +46,5 @@ Pour celui qui a refusé les structures de domination au profit du mouvement, il
 Quand l’homofluxus doute, et il doute souvent, il est tenté de faire marche arrière. Comme, avant de prendre la route, il a compris les mécanismes du monde préfluxiste, il pourrait y occuper une position confortable (ce qu’il a parfois fait). Cette possibilité d’une vie moins exigeante, financièrement plus confortable, le tourmente parfois. Puis un souffle de bonheur le traverse, le vent du large le balaie, non, il ne veut pas retourner en arrière même si les sirènes l’appellent. C’est en analysant sa propre vie, en la comparant à celle qu’il a menée, qu’il sait qu’il a effectué le bon choix.
 
 L’homofluxus oscille entre d’intenses moments de félicité et le découragement le plus total. C’est un état propre à tous les explorateurs. La route n’est pas toujours reposante mais elle reste plus attirante qu’un canapé de cuir acheté à crédit.
+
+Tags: NetCulture

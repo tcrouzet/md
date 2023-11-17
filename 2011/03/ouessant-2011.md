@@ -24,4 +24,6 @@ Pourquoi cette expérience ?
 4. Mêler différentes compétences. Un dessinateur invité pourrait illustrer le texte en même temps qu’il est écrit. Un éditeur et un correcteur pourraient le retravailler en flux tendu. Toutes les compétences sont réunies à Ouessant, ce serait dommage de ne pas en profiter.
 5. Nous pourrions tous les jours diffuser en ligne les chapitres écrits durant la matinée. Le dernier jour, nous éditons le texte, prouvant que l’édition électronique nous amène dans une nouvelle temporalité.
 6. L’édition numérique, il ne suffit pas d’en parler, il faut l’inventer, aussi bien dans les méthodes de production des œuvres que dans leur diffusion.
-7. Écrire une fiction sur le lieu même où elle se déroule nous forcera à interroger le lien entre le réel et l’imaginaire. Nous devrons explorer les lieux pour en suite les injecter dans la fiction.
+7. Écrire une fiction sur le lieu même où elle se déroule nous forcera à interroger le lien entre le réel et l'imaginaire. Nous devrons explorer les lieux pour en suite les injecter dans la fiction.
+
+Tags: eBook, édition, numerile

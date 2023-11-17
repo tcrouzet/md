@@ -8,7 +8,7 @@ Dans *Le bref été de l’anarchie*, Hans Magnus Enzensberger nous raconte la v
 
 J’ai tiqué à la lecture de ce passage. Si Enzensberger écrit sur Durruti, c’est qu’il se sent une certaine attirance pour l’anarchie. D’un autre côté, il ne peut s’empêcher de laisser entendre, dès le début de son texte, que la non-organisation a quelque chose de bizarre alors qu’il ne pouvait y avoir de plus bel hommage à Durruti.
 
-![](https://tcrouzet.com/images_tc/2011/02/Entierro-Durruti-3dc4d1.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/02/Entierro-Durruti-3dc4d1-450x332.jpg)
 
 On voit les mêmes critiques fondre sur Internet. Il serait lui aussi désorganisé et rien n’y irait. Il faudrait même le civiliser ! Mais en fait tout dépend de ce qu’on entend par « aller ». Durruti n’aurait pas apprécié un enterrement où la foule aurait marché au pas et se serait tenue respectueuse sur les trottoirs de Barcelone. De telles obsèques l’auraient terrifié. Le désordre n’est bizarre que pour celui qui vénère l’ordre.
 
@@ -39,7 +39,6 @@ Il me semble que tous ceux qui ont vécu le début d’Internet, puis l’émerg
 En Espagne, les anarchistes commirent à mon sens deux erreurs monumentales.
 
 1. Ils n’avaient vécu que dans le but d’abattre le capitalisme et la dictature de la bourgeoisie. Ils n’avaient pas d’idée sérieuse sur la manière de gérer une société après la victoire de la révolution. Les anarchistes avaient déjà commis cette même erreur en Russie, laissant la porte ouverte aux communistes qui eux ne rechignaient pas à instaurer un pouvoir fort pour lutter contre un pouvoir fort.
-
 2. Ils finirent par se laisser contaminer par l’idéologie adverse. Ils acceptèrent une guerre de positions et de tranchées.
 
 > Durruti croyait fermement en ses idées, mais il n’était pas un dogmatique et il était obligé de faire presque chaque jour des concessions à la réalité, écrit Enzensberger. Il a été le premier anarchiste à concevoir qu’on ne peut faire la guerre sans discipline. « La guerre est une saleté, disait-il plein d’amertume. Elle détruit aussi les principes les plus sacrés ! »
@@ -50,7 +49,7 @@ Nous ne sauverons pas Internet de la dictature en menant une guerre frontale con
 
 Reste à se préoccuper de la suite. Qu’advient-il une fois que l’adversaire a mis pied à terre ? L’histoire d’Internet nous prouve qu’un système relativement non centralisé peut se développer. Et plus que l’histoire d’Internet (en partie centralisé), c’est l’histoire du Web qui est intéressante. La percolation a fonctionné merveilleusement. Des programmeurs de tout horizon ont construit une cathédrale en quelques années. Mais ils n’ont pas empêché la réapparition des structures de domination. L’anarchisme est-il condamné comme le décrit Orwell à être un stade transitoire entre deux phases d’ordre ?
 
-Quand on regarde en arrière, on peut avoir envie de répondre oui. D’un autre côté, l’histoire n’est pas cyclique, nous sommes dans une situation nouvelle qui peut dérouler de nouvelles configurations. L’anarchisme peut ainsi prendre une coloration plus modérée, [telle celle formulée par Chomsky](https://tcrouzet.com/2010/02/11/anarchisme-emancipation/).
+Quand on regarde en arrière, on peut avoir envie de répondre oui. D’un autre côté, l’histoire n’est pas cyclique, nous sommes dans une situation nouvelle qui peut dérouler de nouvelles configurations. L’anarchisme peut ainsi prendre une coloration plus modérée, [telle celle formulée par Chomsky](http://blog.tcrouzet.com/2010/02/11/anarchisme-emancipation/).
 
 Dans ce cadre, l’anarchiste n’est pas contre toutes les structures de dominations, mais seulement contre celles qui ne peuvent plus se justifier. Un anarchiste ne condamne pas un gouvernement qui abolit la peine de mort (il peut en revanche le condamner pour d’autres décisions). L’État n’est plus le mal absolu. Il peut se décentraliser (réellement et non pas à la mode socialiste). Il peut responsabiliser ses agents. Il peut favoriser le développement de l’intelligence collective. Il y a de la place pour toujours moins de hiérarchie. Il ne s’agit pas de toutes les casser pour être obligé d’en reconstruire de nouvelles mais, peu à peu, d’éliminer toutes celles qui nous entravent. Des anarchistes peuvent intégrer un gouvernement pour accompagner la décentralisation.
 
@@ -64,6 +63,8 @@ L’erreur c’est la guerre, c’est tout, c’est de s’être engagé sur une
 
 > La forme d’extrême décentralisation de leurs organisations qu’ils avaient imprimée à leur mouvement tournait souvent à leur avantage ; mais cet avantage était acquis au prix d’un rétrécissement sensible de leur horizon.
 
-L’erreur des anarchistes espagnols aura été de rester Espagnols. Pendant que les fascistes et les communistes s’alliaient avec les puissances extérieures, ils sont restés indépendants et libres. Dans cette situation d’isolation, [l’anarchisme ne peut perdurer](https://tcrouzet.com/2010/07/05/bug-anarchiste/). Les hiérarchies ne peuvent manquer de gangréner le mouvement. Le seul espoir est dans l’interconnexion, dans l’internationalisation.
+L’erreur des anarchistes espagnols aura été de rester Espagnols. Pendant que les fascistes et les communistes s’alliaient avec les puissances extérieures, ils sont restés indépendants et libres. Dans cette situation d’isolation, [l’anarchisme ne peut perdurer](http://blog.tcrouzet.com/2010/07/05/bug-anarchiste/). Les hiérarchies ne peuvent manquer de gangréner le mouvement. Le seul espoir est dans l’interconnexion, dans l’internationalisation.
 
-Pour défendre un Internet libre, tous les groupes de résistance doivent s’interconnecter et s’ouvrir sans cesse à de nouveaux membres. Toute stratégie de chapelle serait néfaste et ferait le jeu des adversaires de la liberté. [Eux n’hésitent pas à la moindre occasion, comme en Égypte, à couper le réseau.](https://tcrouzet.com/2011/01/29/egypte-deconnectee-du-cerveau-global/)
+Pour défendre un Internet libre, tous les groupes de résistance doivent s’interconnecter et s’ouvrir sans cesse à de nouveaux membres. Toute stratégie de chapelle serait néfaste et ferait le jeu des adversaires de la liberté. [Eux n’hésitent pas à la moindre occasion, comme en Égypte, à couper le réseau.](http://blog.tcrouzet.com/2011/01/29/egypte-deconnectee-du-cerveau-global/)
+
+Tags: NetCulture

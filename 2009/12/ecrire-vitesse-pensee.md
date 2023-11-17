@@ -21,3 +21,5 @@ Malgré tout, j’ai toujours avec moi un carnet. J’y note beaucoup moins souv
 Alors je ne comprends pas pourquoi à la maternelle on apprend à mon fils ainé à écrire avec des lettres liées. Des lettres liées ! Je suis bien incapable d’écrire comme ça. Moi, j’apprends le clavier à mon fils. Il n’a pas le choix d’ailleurs s’il veut se loguer sur la machine commune (et j’ai pris l’habitude de changer le mot de passe juste pour lui compliquer la tâche).
 
 Reste toutefois qu’il y a des choses que je ne peux transcrire assez vite au clavier. Lorsque je dispose des mots dans l’espace. Schématise. Dessine. L’ordinateur n’est pas encore pour moi l’interface universelle d’output. Trop lent. Et puis impraticable quand je me promène en garrigue ou en montagne. L’écriture n’est pas toujours linéaire et les traitements de texte ont été imaginés pour l’écriture linéaire. Idéalement, j’aurais besoin d’un terminal d’écriture spatiale.
+
+Tags: NetLittérature, une

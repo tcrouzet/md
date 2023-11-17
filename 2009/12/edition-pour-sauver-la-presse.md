@@ -10,10 +10,12 @@ Il faut que les journalistes cessent de se satisfaire de pondre deux ou trois fe
 
 J’ai évoqué cette piste avec Jacques Rosselin sur [Twitter](http://twitter.com/crouzet/statuses/6500575698) :
 
-> @rosselin Si l’économie de la presse est malade, celle du papier tient encore… c’est peut-être un business pour toi 😉
+> @rosselin Si l'économie de la presse est malade, celle du papier tient encore... c'est peut-être un business pour toi ;-)
 
 Jacques, fondateur de *Courrier International*, a lancé l’année dernière *Vendredi*. Il a suspendu la publication depuis l’été. Pas simple de propulser un nouveau canard quand même les titres installés font grise mine. Et ça va pas s’arranger.
 
 Pourquoi ne pas reprendre cette idée sous une autre forme. Pourquoi publier des textes courts comme tout le monde et se planter comme tout le monde. Ne faut-il pas voir les blogueurs comme des auteurs potentiels ?
 
 Avec [*Le syndrome du poisson rouge*](http://www.lulu.com/content/livre-%C3%A0-couverture-souple/les-chroniques-du-monolecte-le-syndrome-du-poisson-rouge/7606096), [Agnès Maillard](http://blog.monolecte.fr/) a cherché à se propulser toute seule. Je ne crois pas que ce soit la bonne solution. Comme le remarque souvent François Bon, il faut faire communauté. Il faut que les auteurs se propulsent les uns les autres. Il faut qu’ils se relisent les uns les autres. Qu’ils rehaussent la qualité de leur travail respectif. Un éditeur peut servir de liant à une nouvelle force littéraire qui prendrait source sur le Web.
+
+Tags: édition

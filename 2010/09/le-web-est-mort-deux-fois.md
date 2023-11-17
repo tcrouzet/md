@@ -1,8 +1,8 @@
 # Le Web est mort deux fois
 
-J’ai tardé à réagir à [l’article de Chris Anderson dans *Wired*](http://www.wired.com/magazine/2010/08/ff_webrip/), parce que, depuis plus d’un an, j’ai [annoncé cette mort du Web](https://tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/), et qu’il me semblait inutile de me répéter, et puis parce que la position capitalo-libéraliste d’Anderson commence à me courir sur le haricot. Il oscille au gré des modes, surfant la vague idéologique du moment, pour mieux la rejeter quand il entrevoit une nouvelle possibilité de business. La plupart des auteurs de son espèce ne pensent que gros sous. Ils croient que tout se règlera par des contrats (et par les séries TV qui constituent le summum de leur culture).<span id="more-19312"></span>
+J’ai tardé à réagir à [l’article de Chris Anderson dans *Wired*](http://www.wired.com/magazine/2010/08/ff_webrip/), parce que, depuis plus d’un an, j’ai [annoncé cette mort du Web](http://blog.tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/), et qu’il me semblait inutile de me répéter, et puis parce que la position capitalo-libéraliste d’Anderson commence à me courir sur le haricot. Il oscille au gré des modes, surfant la vague idéologique du moment, pour mieux la rejeter quand il entrevoit une nouvelle possibilité de business. La plupart des auteurs de son espèce ne pensent que gros sous. Ils croient que tout se règlera par des contrats (et par les séries TV qui constituent le summum de leur culture).<span id="more-19312"></span>
 
-![](https://tcrouzet.com/images_tc/2010/09/ff_webrip_chart21.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/ff_webrip_chart21-450x276.jpg)
 
 Le graphique publié dans *Wired* paraît définitif. La messe est dite. Mais, à y regarder mieux, il ne s’agit que d’un comparatif en parts de marché. Ce n’est pas parce que le Web perd des parts qu’il meurt. Aujourd’hui par exemple, on publie plus de livres que jamais même si les gens passent proportionnellement moins de temps qu’avant à les lire. Le discours d’Anderson est biaisé, collé au seul plan commercial. Il se vautre sur le culturel et le politique. Dans l’absolu, en termes de trafic et de quantité d’information disponible, le Web n’a jamais cessé de progresser.
 
@@ -10,13 +10,13 @@ Ne croyez pas que je sois devenu un défenseur du Web. Je dénonce juste une cer
 
 > This is the natural path of industrialization: invention, propagation, adoption, control, explique Anderson.
 
-Qu’est-il en train de faire sans le dire ? De mettre en pièce sa théorie de la longue traine. Michael Wolf écrit en parallèle :
+Qu'est-il en train de faire sans le dire ? De mettre en pièce sa théorie de la longue traine. Michael Wolf écrit en parallèle :
 
 > According to Compete, a Web analytics company, the top 10 Web sites accounted for 31 percent of US pageviews in 2001, 40 percent in 2006, and about 75 percent in 2010. “Big sucks the traffic out of small,” Milner says. “In theory you can have a few very successful individuals controlling hundreds of millions of people. You can become big fast, and that favors the domination of strong people.”
 
-On dirait qu’ils viennent de découvrir une loi universelle, et de se mettre à genoux devant elle. On comprend mieux ce qu’entendait Anderson par longue traîne, et que j’ai parfois dénoncé. Pour lui, des vendeurs monopolistiques créent la longue traîne en leur sein pour accroître leur part de marché.
+On dirait qu'ils viennent de découvrir une loi universelle, et de se mettre à genoux devant elle. On comprend mieux ce qu’entendait Anderson par longue traîne, et que j’ai parfois dénoncé. Pour lui, des vendeurs monopolistiques créent la longue traîne en leur sein pour accroître leur part de marché.
 
-De mon côté, je défends l’idée d’une longue traîne exogène, externe à toute entreprise, qui s’observe dans l’ensemble de l’écosystème. Comme je l’explique dans [*L’alternative nomade*](https://tcrouzet.com/alternative-nomade/), nous devons nous battre pour développer cette traîne si nous voulons défendre nos libertés. La longue traîne sur le catalogue d’Amazon est une bonne chose, mais insuffisante à mes yeux. Nous devons lutter avec nos nouvelles armes d’interconnexion contre cet avenir qui serait déjà écrit.
+De mon côté, je défends l’idée d’une longue traîne exogène, externe à toute entreprise, qui s’observe dans l’ensemble de l’écosystème. Comme je l’explique dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), nous devons nous battre pour développer cette traîne si nous voulons défendre nos libertés. La longue traîne sur le catalogue d’Amazon est une bonne chose, mais insuffisante à mes yeux. Nous devons lutter avec nos nouvelles armes d’interconnexion contre cet avenir qui serait déjà écrit.
 
 En fait, avec Anderson, toute l’industrie médiatique se félicite de la mort du Web, c’est-à-dire de la mort des systèmes ouverts et de la décentralisation incontrôlée. De nouveaux opérateurs monopolistiques émergent, avec comme Apple leurs plates-formes propriétaires, et leurs systèmes de micro payement, ce qui injecte de nouveaux revenus dans la boucle. Et comme par hasard, *Wired* qui a frôlé l’asphyxie en début d’année, voit peu à peu le retour des publicités.
 
@@ -26,8 +26,7 @@ Nous ne sommes plus à l’époque où un business décentralisé séduisait par
 
 J’en reviens maintenant aux causes de la mort du Web. J’en vois deux.
 
-1. **L’émergence des applications propriétaires.** Avec les Appstores qui les accompagnent, elles n’utilisent plus obligatoirement HTML et les URL, deux des trois innovations de Tim Berneers Lee, et, quand elles le font, c’est sans que l’utilisateur puisse accéder au processus, encore moins se brancher dessus. Elles nous enferment dans un réseau occulte, avec la promesse d’une plus grande ergonomie et la tarte à la crème d’une plus grande sécurité. Au passage, nous banquons. Il devient difficile de créer des liens vers ces écosystèmes qui se veulent autonomes (comment est-ce que je linke depuis mon blog vers la météo affichée dans une appli iPhone ?).
-
+1. **L’émergence des applications propriétaires.** Avec les Appstores qui les accompagnent, elles n’utilisent plus obligatoirement HTML et les URL, deux des trois innovations de Tim Berneers Lee, et, quand elles le font, c'est sans que l'utilisateur puisse accéder au processus, encore moins se brancher dessus. Elles nous enferment dans un réseau occulte, avec la promesse d’une plus grande ergonomie et la tarte à la crème d’une plus grande sécurité. Au passage, nous banquons. Il devient difficile de créer des liens vers ces écosystèmes qui se veulent autonomes (comment est-ce que je linke depuis mon blog vers la météo affichée dans une appli iPhone ?).
 2. **Le passage au flux.** Nous nous retrouvons avec des objets mouvants, des fichiers ePub par exemple, qui ne sont plus statiques dans le cyberspace comme l’étaient les sites. Tout le monde va bientôt comprendre leur importance. Plus besoin de s’embêter avec un serveur ou un hébergeur pour exister en ligne.
 
 Ces deux tendances s’opposent. La première veut nous ramener avant le Web (minitel, AOL, CompuServe…), la seconde après le Web. Je vois mal comment il pourrait survivre dans ces conditions.
@@ -43,3 +42,5 @@ Les ePub, et j’espère pour bientôt les ePub sociaux, circuleront partout, au
 Il nous reste à inventer un nouveau protocole de communication entre ces fichiers libres et riches, sans doute sur une base P2P. Le Web est bien en train de mourir, il restera une immense galerie marchande et un point de propulsion pour nos contenus qui vivront ensuite librement dans le flux, voire atterriront dans des applications.
 
 PS: 20h, petite précision sur les applications propriétaires, suite à échange sur Twitter avec [karlpro](http://twitter.com/karlpro).
+
+Tags: NetCulture

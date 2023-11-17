@@ -12,7 +12,8 @@ Quand des lecteurs ne me suivent pas parce qu’ils ne comprennent pas ma démar
 
 J’ai donc décidé de segmenter mon audience. Horrible mot qui vient du marketing. Par défaut, les abonnés à ma newsletter ne recevront plus que mes articles généralistes, mes articles de blog, peu fréquents en ce moment. En revanche, si à l’avenir, vous voulez recevoir [mes carnets](https://tcrouzet.com/carnets/), les chapitres de [*Born to Bike*](https://tcrouzet.com/borntobike/), ou de toute autre série non encore imaginée, je vous invite à [personnaliser votre abonnement](https://tcrouzet.us3.list-manage.com/subscribe?u=4346e7140965015f0594fffcd&id=f8567ebe86).
 
-\
+\[tcrouzet function="tcrouzet\_mailchimp"\]
+
 En toute probabilité, vous ne lirez pas ce message et l’essentiel de ma production n’atteindra plus votre boîte mail, sans que vous en preniez conscience, comme si j’étais mort en silence. Modifier les réglages de ma newsletter est peut-être une nouvelle technique pour détruire une partie de mon audience, pour la resserrer à quelques-uns. J’espère que non. Je veux juste donner plus de choix, plus de liberté.
 
 Je ne veux pas vous imposer mes nouvelles aventures. Je déteste parler de mon travail quand je n’y suis pas invité (attention, parce qu’alors je suis très bavard). Je déteste dire que je suis « artiste ». Je vis, c’est tout. J’écris ce que je vis et je vis pour cette écriture. Peut-être est-ce cette attitude qui est destructrice d’audience ?
@@ -22,3 +23,5 @@ Certains parmi vous trouvent mon approche cavalière, je serais presque un traî
 Mon intention n’est pas de vous perdre, mais je dépéris dès que je commence à tourner en rond. J’ai un truc en moi qui me pousse à explorer, à ne pas réécrire les mêmes livres, à ne pas rester attaché à un seul domaine. Ce besoin est plus fort chez moi que la tentation de vous séduire, en vous accueillant dans un jardin qui serait toujours plus luxuriant. Souvent, je coupe tous les arbres, j’arrache toutes les fleurs, et je replante.
 
 J’essaie d’être le plus vrai possible, de ne pas mentir, de ne pas tricher. Je veux d’abord être moi. J’aurais dû choisir l’anonymat, j’y aurais gagné un certain détachement, mais j’ai un autre défaut, je suis orgueilleux. Je cumule. Donc je segmente pour ne pas vous bombarder par toutes les facettes de ma personnalité. Reste mon site, où tout s’empile.
+
+Tags: Cuisine, une

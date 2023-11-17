@@ -7,3 +7,5 @@ De mon côté, j’ai un jour imaginé un projet de roman dans la même veine. E
 Pour écrire un tel livre, il m’aurait fallu me couper du monde pendant quelques mois. Refuser tout contact avec notre civilisation et voir ce que j’aurais pu reconstruire de tête.
 
 J’ai renoncé à ce projet, en tout cas sous sa forme de roman-réalité. Ça reste, je crois, un bon sujet de fiction.
+
+Tags: Autobiographie, une

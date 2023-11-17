@@ -1,6 +1,6 @@
 # Nouveau clivage idéologique
 
-Je viens de proposer un raisonnement logique qui me semble indiquer que [réduire le pyramidal implique l’introduction dans la société de plus d’auto-organisation](https://tcrouzet.com/2008/09/02/non-pyramidal-rime-avec-auto-organisation/).
+Je viens de proposer un raisonnement logique qui me semble indiquer que [réduire le pyramidal implique l’introduction dans la société de plus d’auto-organisation](http://blog.tcrouzet.com/2008/09/02/non-pyramidal-rime-avec-auto-organisation/).
 
 On me répond « Non. Il faut réduire le pyramidal et surtout pas recourir à l’auto-organisation qui est une utopie. »
 
@@ -27,7 +27,7 @@ Personne n’a besoin d’instaurer l’auto-organisation (ce qui serait un non 
 
 Je ne propose donc pas une révolution politique. Je décris juste ce qui à mon sens est en train de se produire. Si l’auto-organisation a quelques qualités sociales dans notre monde complexe, elle se répandra aux dépends du pyramidal. Je n’ai aucune idée de l’équilibre auquel nous aboutirons. Je ne sais même pas si un équilibre peut exister.
 
-Dans presque tous mes billets, je réfléchis à des hypothèses. Quand je me demande est-ce qu’une société peut [fonctionner sans police et que je cherche des solutions](https://tcrouzet.com/2008/09/01/vivre-ensemble-sans-police/), je ne dis pas qu’il faut supprimer la police.
+Dans presque tous mes billets, je réfléchis à des hypothèses. Quand je me demande est-ce qu’une société peut [fonctionner sans police et que je cherche des solutions](http://blog.tcrouzet.com/2008/09/01/vivre-ensemble-sans-police/), je ne dis pas qu’il faut supprimer la police.
 
 Je n’ai jamais affirmé une chose pareille. Je crois même que si nous découvrons des modèles pour éviter la police dans certains domaines cela aidera la police à mieux faire son travail, notamment dans la prévention.
 

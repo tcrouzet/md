@@ -16,7 +16,7 @@ Presque malgré moi, j’en reviens à l’idée centrale que j’ai développé
 
 Je suis sûr que Claude, tout aussi athée que moi, aurait accepté cette idée. Il m’avait jadis conseillé de lire *Ma vie* de Kokoshka, un livre qui l’avait marqué. Il avait ainsi tressé entre lui et moi un lien, celui d’un temps partagé à lire le même texte, un temps qui nous liait à Kokoshka lui-même et à ses contemporains. Pour cette seule raison, j’ai envie de continuer l’aventure, de continuer de lire, d’écrire, de partager.
 
-![montserat](https://tcrouzet.com/images_tc/2009/04/montserat.jpg)
+![montserat](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/04/montserat.jpg)
 
 Après avoir appris la mort de Claude, je me suis demandé une nouvelle fois à quoi bon théoriser, à quoi bon essayer de comprendre ce qui ne va pas, essayer de deviner des solutions. Le lendemain des obsèques, un peu abattu, je suis parti avec ma femme me promener. Nous avons fini presque par hasard à Barcelone, une ville que Claude aimait beaucoup.
 

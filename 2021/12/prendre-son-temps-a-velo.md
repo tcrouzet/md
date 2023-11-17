@@ -8,27 +8,27 @@ Je petit-déjeune. L’étang est rouge, promesse d’une journée estivale en h
 
 D’habitude, j’écris mes récits à vélo de mémoire. Cette fois, je reviens au temps réel comme [dans mes carnets](https://tcrouzet.com/tag/carnet-de-route?swcfpc=1). Je ne veux pas élaborer, fictionnaliser, réédifier, mais improviser, prendre ce qui surviendra, dans le désordre de la vie.
 
-![Matin rouge](https://tcrouzet.com/images_tc/2021/12/IMG_5021.jpeg)
+![Matin rouge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5021.jpeg)
 
 ### 9h30, 9 km, 14,5°
 
-J’ai quitté la piste cyclable. Après être passé sous la nationale, je traverse une ancienne carrière reconquise par la végétation. Je n’ai pas encore fait le vide. Des pensées bruyantes et désagréables m’ont traversé depuis le départ. Je m’arrête pour les faire taire, parce que le pédalage les entretient parfois jusqu’à m’assourdir. Sa régularité se transforme en ressassement.
+J’ai quitté la piste cyclable. Après être passé sous la nationale, je traverse une ancienne carrière reconquise par la végétation. Je n’ai pas encore fait le vide. Des pensées bruyantes et désagréables m’ont traversé depuis le départ. Je m’arrête pour les faire taire, parce que le pédalage les entretient parfois jusqu'à m’assourdir. Sa régularité se transforme en ressassement.
 
-Douceur incroyable pour fin décembre, mais le vent du nord se lève et de nuages encombrent la mer. Je me dirige à l’opposé, vers les terres rouges, sur une trace gravel que je concocte pour [Hors Trace Aventures](https://www.hors-traces-aventures.fr/). J’en connais les détours, je ne pars donc pas à sa découverte, mais à la rencontre de ce qu’elle me dira aujourd’hui.
+Douceur incroyable pour fin décembre, mais le vent du nord se lève et de nuages encombrent la mer. Je me dirige à l’opposé, vers les terres rouges, sur une trace gravel que je concocte pour [Hors Trace Aventures](https://www.hors-traces-aventures.fr/). J'en connais les détours, je ne pars donc pas à sa découverte, mais à la rencontre de ce qu’elle me dira aujourd’hui.
 
-Je ressens une légère tension dans les fesses. Depuis deux ans, j’ai essayé des dizaines de selles sans en trouver aucune qui me convienne. Quand elles ne m’abrasent pas l’intérieur des cuisses, aux plis des fesses, elles me perforent les roustons. Je pourrais dessiner la selle idéale pour moi : une ISM avec un bec beaucoup plus étroit. Mais elle n’existe pas encore. Je vais continuer à expérimenter. Je commande en ligne, essaie, renvoie, faute de connaître une entreprise qui proposerait ce service. Il y a un business à lancer : la location de selles, avec option d’achat.
+Je ressens une légère tension dans les fesses. Depuis deux ans, j'ai essayé des dizaines de selles sans en trouver aucune qui me convienne. Quand elles ne m’abrasent pas l’intérieur des cuisses, aux plis des fesses, elles me perforent les roustons. Je pourrais dessiner la selle idéale pour moi : une ISM avec un bec beaucoup plus étroit. Mais elle n’existe pas encore. Je vais continuer à expérimenter. Je commande en ligne, essaie, renvoie, faute de connaître une entreprise qui proposerait ce service. Il y a un business à lancer : la location de selles, avec option d’achat.
 
 Je suis parti pour ne pas parler de vélo et il s’impose à moi par les contingences les plus basiques.
 
-![L'ancienne carrière](https://tcrouzet.com/images_tc/2021/12/IMG_5029.jpeg)
+![L'ancienne carrière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5029.jpeg)
 
 ### 10h15, 14 km, 14°
 
-Sur les chemins, des secteurs m’émeuvent plus que d’autres. Quand j’y arrive, j’entre en résonnance avec eux, comme si leur fréquence propre correspondait à la mienne. Parfois, l’effet est perceptible chez mes compagnons. Dans ce cas, la fréquence a quelque chose d’universel, qui faisait dire aux anciens que certains lieux étaient sacrés. Ils construisaient alors des sanctuaires pour les célébrer. Plutôt que de les laisser vibrer d’eux-mêmes, ils mettaient les points sur les i.
+Sur les chemins, des secteurs m’émeuvent plus que d’autres. Quand j'y arrive, j'entre en résonnance avec eux, comme si leur fréquence propre correspondait à la mienne. Parfois, l’effet est perceptible chez mes compagnons. Dans ce cas, la fréquence a quelque chose d’universel, qui faisait dire aux anciens que certains lieux étaient sacrés. Ils construisaient alors des sanctuaires pour les célébrer. Plutôt que de les laisser vibrer d’eux-mêmes, ils mettaient les points sur les i.
 
 Je parle du lieu sans le décrire. Il apparaît au débouché d’un single rouge, quand se présente une piste tout aussi rouge. Dans sa courbe, des murets de pierres sèches délimitent une clairière plantée de pins et de cyprès. Rien de particulier, sinon une candeur tranquille même quand le vent souffle dans les hautes cimes. Il y a quelque chose d’ordonné, de pensé, une amorce de jardin, sans que la nature soit trop contrainte.
 
-![Mon petit coin](https://tcrouzet.com/images_tc/2021/12/IMG_5035.jpeg)
+![Mon petit coin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5035.jpeg)
 
 ### 10h45, 18 km, 15°
 
@@ -40,7 +40,7 @@ J’éprouve le même plaisir à préparer des traces théoriques, anticipant le
 
 Bruit de moto. Les motos tournent en rond dans un circuit. Je ne comprends pas. Produire du bruit, de la pollution, insister avec les énergies thermiques. Je ne comprends pas. Voilà où nous conduit le chacun fait ce qu’il veut. À côté du motocross, un ball-trap, et ça tire, et ça tire. Encore du bruit, de la nuisance dans un monde qui crève des nuisances.
 
-![DFCI](https://tcrouzet.com/images_tc/2021/12/IMG_5046.jpeg)
+![DFCI](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5046.jpeg)
 
 ### 11h20, 26 km, 16,5°
 
@@ -48,11 +48,11 @@ Secteur de longues pistes où je m’ennuie. Pas de pilotage, il me suffit d’a
 
 Le vent se calme, puis redouble. Il hésite comme cette journée tiède et voilée.
 
-Dès que je m’arrête, j’ai un peu froid à cause de la transpiration. Le mérinos ne produit que des miracles moyens. Je l’adopte parce qu’il minimise les mauvaises odeurs.
+Dès que je m'arrête, j’ai un peu froid à cause de la transpiration. Le mérinos ne produit que des miracles moyens. Je l’adopte parce qu’il minimise les mauvaises odeurs.
 
 Je commence à regarder l’heure. Les arrêts rêveries et écriture prennent du temps. Pas sûr de pouvoir terminer ma boucle à ce rythme, mais je sais que les finaux sont toujours pus rapides, comme si une lassitude s’installait.
 
-![DFCI](https://tcrouzet.com/images_tc/2021/12/IMG_5056.jpeg)
+![DFCI](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5056.jpeg)
 
 ### 12h6, 35 km, 19°
 
@@ -60,7 +60,7 @@ Parfois quand je pédale, des idées grisantes m’emportent. Je suis enthousias
 
 Je suis seul dans la garrigue, maître du monde, je peux crier, étreindre les arbres, éclater de rire sans que personne ne me prenne pour un fou. Le jugement permanent des autres m’épuise. Là, peu importe, je me suis assis au bord d’une piste, sur un muret, devant un cyprès aussi solitaire que moi et le vent balaie les pins, mais sans méchanceté, en grandes vagues. Il déferle comme la houle par temps calme sur la plage.
 
-![Vandémian](https://tcrouzet.com/images_tc/2021/12/IMG_5074.jpeg)
+![Vandémian](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5074.jpeg)
 
 ### 13h, 46 km, 19°
 
@@ -68,46 +68,48 @@ J’aime le mystère du chemin. Sa courbe en dévers me laisse imaginer des merv
 
 Je viens de franchir les 12 000 km vtt/gravel cette année. Je ne suis pas en quête de performance. Je ferai sans doute moins l’année prochaine, il y aura moins de gravel, encore plus de singles.
 
-Beaucoup de gens veulent se surpasser physiquement. Ils sont contents d’eux quand ils regardent leur moyenne ou leur kilométrage ou leur dénivelé. Ils oublient que leurs muscles ne consomment qu’une fraction de leur énergie. Le cerveau est beaucoup plus vorace. D’une certaine façon, je dépense davantage d’énergie en prenant mon temps et en écrivant qu’en pédalant comme un dératé. Je dors toujours beaucoup plus profondément quand j’ai passé ma journée à écrire.
+Beaucoup de gens veulent se surpasser physiquement. Ils sont contents d’eux quand ils regardent leur moyenne ou leur kilométrage ou leur dénivelé. Ils oublient que leurs muscles ne consomment qu’une fraction de leur énergie. Le cerveau est beaucoup plus vorace. D'une certaine façon, je dépense davantage d’énergie en prenant mon temps et en écrivant qu’en pédalant comme un dératé. Je dors toujours beaucoup plus profondément quand j’ai passé ma journée à écrire.
 
 Pour un humain, l’exploit le plus extraordinaire est de faire marcher son bulbe rachidien. Le truc assez génial : le sport le stimule.
 
-![Le chemin](https://tcrouzet.com/images_tc/2021/12/IMG_5080.jpeg)
+![Le chemin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5080.jpeg)
 
 ### 13h50, 57 km, 20°
 
 Saint-Pargoire, troisième village traversé coup sur coup. Je m’installe sur le parvis de l’église romane. Une douceur incroyable au soleil. Dans les vignes les abeilles butinent les roquettes blanches de fleurs. Des pinçons gazouillent. Des pigeons roucoulent. Pas d’autres bruits, sinon la rumeur atténuée de la vie. Deux couverts s’entrechoquent. Un éternuement. Il y a de la paix dans ces villages de l’arrière-pays languedocien. Je grignote quelques fruits secs.
 
-![Saint-Pargoire](https://tcrouzet.com/images_tc/2021/12/IMG_5091.jpeg)
+![Saint-Pargoire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5091.jpeg)
 
 ### 15h, 72,5 km, 17°
 
 Je ne pense plus, je n’écris plus, je dois rentrer avant la nuit. Encore une quarantaine de kilomètres. Je suis assis en surplomb d’un point de vue que j’adore. Des blocs rocheux dominent une pinède, elle-même en surplomb des champs. Au loin une autre pinède semble se terminer au bord de l’étang où flotte Sète. J’ai ainsi des arrêts rituels qui exigent le recueillement.
 
-![Sète](https://tcrouzet.com/images_tc/2021/12/IMG_5105.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5105.jpeg)
 
-![Chemin](https://tcrouzet.com/images_tc/2021/12/IMG_5110.jpeg)
+![Chemin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5110.jpeg)
 
-![Bruyères en fleur](https://tcrouzet.com/images_tc/2021/12/IMG_5115.jpeg)
+![Bruyères en fleur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5115.jpeg)
 
-![Vignes en fleur](https://tcrouzet.com/images_tc/2021/12/IMG_5125.jpeg)
+![Vignes en fleur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5125.jpeg)
 
-![Olivier](https://tcrouzet.com/images_tc/2021/12/IMG_5131.jpeg)
+![Olivier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5131.jpeg)
 
-![Un peu de technique](https://tcrouzet.com/images_tc/2021/12/IMG_5146.jpeg)
+![Un peu de technique](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5146.jpeg)
 
-![Calme plat](https://tcrouzet.com/images_tc/2021/12/IMG_5156.jpeg)
+![Calme plat](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5156.jpeg)
 
-![Calme plat](https://tcrouzet.com/images_tc/2021/12/IMG_5171.jpeg)
+![Calme plat](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5171.jpeg)
 
 ### 17h38, 115 km, 13°
 
 De retour à la maison. Je n’ai pas le temps de profiter du coucher de soleil. Je dois foncer récupérer mon fils aîné qui joue au paddle à Sète. Ce n’était pas prévu. Je me suis contenté de quelques photos sur la fin de la trace.
 
-![La nuit tombe](https://tcrouzet.com/images_tc/2021/12/IMG_5176.jpeg)
+![La nuit tombe](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/12/IMG_5176.jpeg)
 
 ### 12h, 31 décembre 2021
 
 Je relis ce texte et découvre qu’il ne roule pas sur le même rythme que mes autres récits à vélo, qui sont plus narratifs, plus dans les tours et détours. Quand j’écris en roulant, je n’ai pas besoin de décrire ma route, puisque pour moi elle est évidente. Il reste les images pour la dire.
 
 *PS : Je publierai la trace fin février, après sa finalisation.*
+
+Tags: Born to Bike, Mini aventures, une

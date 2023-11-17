@@ -12,7 +12,7 @@ Après l'affirmation réitérée des droits politiques, juridiques, religieux et
 
 Il me semble que le droit à la santé va de pair avec le droit à la liberté. Il devrait être inscrit tout en haut de la *Déclaration des droits de l'homme*.
 
-Dans [*Le Geste qui Sauve*](https://tcrouzet.com/le-geste-qui-sauve/), récit du combat de Didier Pittet pour l'hygiène des mains, j’ai écrit : « Pourquoi ne pas rêver ? Si je suis moins malade, je m'irrite moins et râle moins. Je m'imagine moins violent, et projette une société en meilleure santé où les citoyens le seraient également. Alors moins de crimes, moins de corruption, moins de guerres entre les nations ? Et un surplus de scolarisation, un surplus d'intelligence collective, avec en prime moins de crises ? »
+Dans [*Le Geste qui Sauve*](http://tcrouzet.com/le-geste-qui-sauve/), récit du combat de Didier Pittet pour l'hygiène des mains, j’ai écrit : « Pourquoi ne pas rêver ? Si je suis moins malade, je m'irrite moins et râle moins. Je m'imagine moins violent, et projette une société en meilleure santé où les citoyens le seraient également. Alors moins de crimes, moins de corruption, moins de guerres entre les nations ? Et un surplus de scolarisation, un surplus d'intelligence collective, avec en prime moins de crises ? »
 
 Alors je songe à tous les médecins qui combattent pour la paix. Je pense bien sûr à [Didier Pittet](https://fr.wikipedia.org/wiki/Didier_Pittet) qui combat les maladies nosocomiales, mais aussi à [Denis Mukwege](https://fr.wikipedia.org/wiki/Denis_Mukwege) qui secourt les femmes violées au Congo, à [Paul Farmer](https://fr.wikipedia.org/wiki/Paul_Farmer) qui soigne la tuberculose en Haïti. Ils ne méritent pas le prix Nobel de médecine, mais bien celui de la Paix.
 
@@ -22,4 +22,8 @@ Je crois qu’il est important que leurs histoires soient racontées. La santé 
 
 *PS : J’ai initialement écrit cer article pour Didier Pittet qui a publié une version légèrement différente sur le [Huffingthonpost](http://www.huffingtonpost.fr/didier-pittet/sante-droits-de-lhomme_b_9417130.html).*
 
-![Denis Mukwege](https://tcrouzet.com/images_tc/2016/03/1200px-Denis_Mukwege_VOA.jpg)
+![Denis Mukwege](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/1200px-Denis_Mukwege_VOA.jpg)
+
+
+
+Tags: Pittet, Politique, une

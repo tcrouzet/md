@@ -32,6 +32,8 @@ Et que penserez-vous monsieur Staune le jour où des machines nous surpasserons�
 
 J’avoue que votre livre m’agasse et que je ne le terminerai sans doute jamais. Pour moi, vous faites preuve de la même mauvaise fois que Wilber. Mais sans doute ai-je la même impression chaque fois que je lis un essentialiste.
 
-PS1 : Newton n’avait pas expliqué la force gravitationnelle mais sa théorie restait utile. Elle n’expliquait pas tout mais nous a permis d’avancer vers une théorie plus large, celle d’Einstein. Nous devons prendre garde à vouloir tout expliquer, tout régenter… c’est le principal travers des essentialistes. Je me demande même si ce n’est pas Staune qui fait cette remarque sur Newton et qui oublie de se l’appliquer à lui-même.
+PS1 : Newton n'avait pas expliqué la force gravitationnelle mais sa théorie restait utile. Elle n'expliquait pas tout mais nous a permis d'avancer vers une théorie plus large, celle d'Einstein. Nous devons prendre garde à vouloir tout expliquer, tout régenter... c'est le principal travers des essentialistes. Je me demande même si ce n'est pas Staune qui fait cette remarque sur Newton et qui oublie de se l'appliquer à lui-même.
 
-PS2 : Un minimaliste peut croire en Dieu, mais c’est alors un Dieu en lui même qui n’est nécessaire dans aucune explication.
+PS2 : Un minimaliste peut croire en Dieu, mais c'est alors un Dieu en lui même qui n'est nécessaire dans aucune explication.
+
+Tags: Connecteur, Integral Philosophy, Wilber

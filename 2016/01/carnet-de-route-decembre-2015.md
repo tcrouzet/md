@@ -26,7 +26,7 @@ Jean-Baptiste Rudelle affirme que le secret du succès californien, c’est la c
 
 Trail dans la garrigue avec un ami. Ça grimpe, ça descend, c’est éprouvant et sublime. Juste avant de rejoindre la voiture, je trébuche, tombe droit sur mon Apple Watch qui explose… et aussi un peu mon épaule gauche, mes genoux. Ça fait cher payé pour une matinée sportive (et démontre l’inadéquation du produit avec le sport, c’est juste un gadget pour citadin frimeur).
 
-![Crash test.](https://tcrouzet.com/images_tc/2016/01/watch.jpg)
+![Crash test.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/watch.jpg)
 
 ### Vendredi 4, Balaruc
 
@@ -48,7 +48,7 @@ Le gouvernement français s’apprête à payer les délateurs ? Encore un pas 
 
 Je croise François Bon. On s’embrasse. Ça fait du bien de se serrer de temps en temps, de rematérialiser nos relations virtuelles. J’ai besoin de l’intime pour échanger ce qui ne s’écrit pas.
 
-![François Bon avec au premier plan son ami Youssef .](https://tcrouzet.com/images_tc/2016/01/fbon.jpg)
+![François Bon avec au premier plan son ami Youssef .](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/fbon.jpg)
 
 ### Mardi 8, Balaruc
 
@@ -106,7 +106,7 @@ Un éditeur de SF me dit que *One Minute* est trop littéraire après qu’un é
 
 Zweig évoque Freud et le prétend irréfutable. Un autre Viennois, jamais mentionné par Zweig, Popper, a montré que Freud n’était pas scientifique parce qu’il était justement irréfutable. Étrange silence au sujet de Popper, de Wittgenstein, de Musil… comme si Zweig avait ignoré les géants de son temps nés à quelques pas de lui. Une volonté ? Ou est-il tout simplement passé à côté d’eux ? Je pense tout de suite à mes propres ignorances.
 
-![En pleine lumière.](https://tcrouzet.com/images_tc/2016/01/tignes.jpg)
+![En pleine lumière.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/tignes.jpg)
 
 ### Vendredi 25, Tignes
 
@@ -120,10 +120,14 @@ Les blogs seraient devenus matures [d’après *Le Parisien*](http://www.leparis
 
 Par mail, un juriste me propose de m’aider à protéger mes œuvres. Très amusant de recevoir un tel mail tombé au mauvais endroit. Faisons l’économie des juristes et les auteurs seront mieux payés.
 
-![Juste pour la couleur.](https://tcrouzet.com/images_tc/2016/01/portail.jpg)
+![Juste pour la couleur.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/portail.jpg)
 
 ### Mercredi 30, Châtellerault
 
-J’amène les enfants voir *Star Wars*. Ils sortent en criant au scandale. « C’est un remake de l’épisode 4. » Encore un mauvais signal envoyé à grande force de marketing. L’aveu éhonté d’un manque chronique d’imagination. C’est vraiment pas bon signe.
+J’amène les enfants voir *Star Wars*. Ils sortent en criant au scandale. « C'est un remake de l’épisode 4. » Encore un mauvais signal envoyé à grande force de marketing. L’aveu éhonté d’un manque chronique d’imagination. C’est vraiment pas bon signe.
 
-![La Vienne avant Le retour de la force.](https://tcrouzet.com/images_tc/2016/01/vienne.jpg)
+![La Vienne avant Le retour de la force.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/vienne.jpg)
+
+
+
+Tags: Carnets, une

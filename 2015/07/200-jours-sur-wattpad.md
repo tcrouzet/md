@@ -24,11 +24,11 @@
 
 10. Il a un côté fleur bleu malgré son côté hardcore. Étrange alchimie. C’est un peu genre « Je baise avec tout le monde sauf avec celui ou celle que j’aime. »
 
-11. Il aime dire « C’est super bien écrit. J’adore le style. »
+11. Il aime dire « C'est super bien écrit. J'adore le style. »
 
 ### Le Wattpadien auteur
 
-1. Les fautes, il s’en contre fiche. Le style, il le balance par la fenêtre. Il veut raconter, partager.
+1. Les fautes, il s'en contre fiche. Le style, il le balance par la fenêtre. Il veut raconter, partager.
 
 2. Il est racoleur.
 
@@ -50,4 +50,8 @@
 
 11. Il est lui-même un lecteur d’histoire publié sur Wattpad (et il est lui-même jeune, le plus souvent, mais gare aux vieux grincheux qui débarquent).
 
-![J'oubliais le plus important. Les Wattpadiens stimulent. Ici deux couvertures montée par Blawete, lectrice de 1 minute. ](https://tcrouzet.com/images_tc/2015/07/saracosmo.jpg)
+![J'oubliais le plus important. Les Wattpadiens stimulent. Ici deux couvertures montée par Blawete, lectrice de 1 minute. ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/07/saracosmo.jpg)
+
+
+
+Tags: édition, Wattpad

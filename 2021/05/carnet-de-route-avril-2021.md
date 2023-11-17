@@ -76,9 +76,9 @@ Vieillir implique de diminuer alcool, tabac, corps gras explique Gracq, mais cel
 
 Émile se toque de faire une balade avec le vélo électrique d’Isa. Nous voilà partis pour un tour de l’étang. Quand il rentre avec le sourire et un peu mal aux fesses, il me dit « À refaire… ».
 
-![Lévitation](https://tcrouzet.com/images_tc/2021/05/IMG_9132-scaled.jpeg)
+![Lévitation](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/IMG_9132-1600x1200.jpeg)
 
-![Lévitation](https://tcrouzet.com/images_tc/2021/05/IMG_9135-scaled.jpeg)
+![Lévitation](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/IMG_9135-1600x1200.jpeg)
 
 ### Lundi 19, Balaruc
 
@@ -88,7 +88,7 @@ Mon beau-père, bientôt 84 ans, a reçu ses deux doses de vaccin ARN messager e
 
 Les épidémiologistes continuent de prêcher que les avantages du vaccin AstraZeneca sont supérieurs aux risques ([7,9 thrombose par million de doses, soit pas loin de 1/100 000 avec une mortalité de 1,5 par million](https://www.capital.fr/economie-politique/astrazeneca-168-cas-majeurs-de-caillots-sanguins-dont-32-mortels-recenses-au-royaume-uni-1401079)). Ce discours jusqu’au-boutiste sera contre-productif à terme pour la campagne de vaccination. Plus personne ne veut d’un vaccin qui tue, même si le covid tue beaucoup plus. Quand on a moins de 65 ans, qu’on pète la forme, la probabilité de décéder du covid, sans doute 1/10 000, n’est peut-être pas suffisamment éloignée du 1/100 000 pour risquer un vaccin dont en prime l’efficacité contre les variants est discutée. Un statisticien y verrait toujours un bénéfice, surtout collectif, mais même moi je finis par me ficher des statistiques. Pour autant, je reste encore prêt à me faire vacciner, le jour où mon tour viendra.
 
-![Voiliers](https://tcrouzet.com/images_tc/2021/05/IMG_9151-scaled.jpeg)
+![Voiliers](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/IMG_9151-1600x1200.jpeg)
 
 ### Mardi 20, Balaruc
 
@@ -108,13 +108,13 @@ La langue importe moins que le réseau qu’elle tresse entre des images, des se
 
 ### Vendredi 23, Balaruc
 
-![Tim, paddle](https://tcrouzet.com/images_tc/2021/05/IMG_9181-scaled.jpeg)
+![Tim, paddle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/IMG_9181-1600x1200.jpeg)
 
 ### Samedi 24, Balaruc
 
-![Saint paul de mauchien](https://tcrouzet.com/images_tc/2021/05/IMG_9185-scaled.jpeg)
+![Saint paul de mauchien](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/IMG_9185-1600x1200.jpeg)
 
-![Lavandes](https://tcrouzet.com/images_tc/2021/05/IMG_9191-scaled.jpeg)
+![Lavandes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/05/IMG_9191-1600x1200.jpeg)
 
 ### Dimanche 25, Balaruc
 
@@ -124,7 +124,7 @@ Avec le numérique, on est observateur et observé, utilisateur et créateur. Qu
 
 [Dans son dernier compte rendu](https://www.facebook.com/hubertguillaud/posts/10157976849837231), Hubert nous parle de deux intellos qui ont besoin d’écrire un essai pour nous dire que nous avons raté le numérique distribué, conclusion à laquelle les activistes du Net sont arrivés depuis le milieu des années 2000. Je suis le premier à me lamenter de cette dérive, mais je n’ai pas fermé mon blog, je continue de me battre pour un net décentralisé, je n’ai pas rangé mes armes et heureusement je ne suis pas le seul. On ne peut pas se plaindre d’une chose et ne rien faire contre. D’autant plus avec le numérique, parce qu’en lui-même il autorise une décentralisation, la centralisation étant en grande partie la faute des usagers, soumis au winner-take-all (qui n’a aucun lien avec le numérique, mais avec les structures réticulaires abandonnées à elles-mêmes). Il n’y a pas de fatalité, pas de trou noir, parce qu’une loi physique peut être combattue par des lois humaines.
 
-Tous ceux qui font du vélo comme moi, utilisant abondamment les technologies numériques, savent que le numérique décentralise, même aujourd’hui. Il nous rapproche du territoire, nous permet de revivre des sentiments premiers, ancrés dans le local le plus minuscule. Il n’y a pas de fatalité. Quand on est un zombi, on est zombi de l’électricité, de la voiture, du canapé… Quand on se bat pour ne pas l’être, on ne l’est pas et utilise le système à son profit tout en tentant de le réformer.
+Tous ceux qui font du vélo comme moi, utilisant abondamment les technologies numériques, savent que le numérique décentralise, même aujourd’hui. Il nous rapproche du territoire, nous permet de revivre des sentiments premiers, ancrés dans le local le plus minuscule. Il n’y a pas de fatalité. Quand on est un zombi, on est zombi de l'électricité, de la voiture, du canapé… Quand on se bat pour ne pas l'être, on ne l'est pas et utilise le système à son profit tout en tentant de le réformer.
 
 Je n’en peux plus de ces thèses marxistes, ou vaguement marxistes de la soumission aux puissants. Il faudrait écrire là-dessus. S’interroger sur l’emprisonnement idéologique des technocritiques, surtout des universitaires originaires des sciences môles et pour la plupart ignorant tout du code et ne comprennent rien aux thèses de Church, Turing, Chatin, Wolfram…
 
@@ -136,7 +136,7 @@ J’ai parlé avec Hubert. Il se demande pourquoi nous n’arrivons pas à distr
 
 Le problème n’est donc pas dans la technologie qui, elle, pourrait accepter d’autres topologies, qui même a été pensée pour d’autres topologies, mais notre tendance humaine à renforcer mécaniquement les nœuds du réseau les plus forts. Nous serions attirés par une forme de gravité sociale, peut-être celle qui nous a poussés à créer des villages, puis des villes et des mégalopoles.
 
-Il y a bien sûr des avantages énergétiques, sociaux, culturels et économiques à cette concentration, ce qui ne suffit pas à l’expliquer, parce que désormais la technologie nous permet la mise à distance. D’ailleurs je vois un phénomène de déconcentration se développer. Par exemple, Sète qui était un trou, devient un intéressant nœud de réseau désormais que le travail à distance est possible et aussi que l’industrie du cinéma s’y installe (et alors ce phénomène ne serait provoqué, encore une fois, que par le grégarisme… la popularité médiatique de la ville entraînant le grégarisme).
+Il y a bien sûr des avantages énergétiques, sociaux, culturels et économiques à cette concentration, ce qui ne suffit pas à l’expliquer, parce que désormais la technologie nous permet la mise à distance. D'ailleurs je vois un phénomène de déconcentration se développer. Par exemple, Sète qui était un trou, devient un intéressant nœud de réseau désormais que le travail à distance est possible et aussi que l’industrie du cinéma s’y installe (et alors ce phénomène ne serait provoqué, encore une fois, que par le grégarisme… la popularité médiatique de la ville entraînant le grégarisme).
 
 Il n’y a jamais qu’une cause à un phénomène, mais accuser la technologie me paraît toujours ridicule, vu qu’elle n’est qu’un produit humain, et qui ne fait que nous révéler nous-mêmes. Étrangement, les technocritiques s’en prennent à toutes les technologies sans exception, parce que leur gagne-pain est dans la critique, mais jamais ils ne proposent des voies de sortie. Comment nous réformer à titre individuel ? Est-ce possible ? Existe-t-il une marche à suivre ?
 
@@ -188,4 +188,6 @@ Il imagine une planète avec une seule nation, une seule langue et conclut : «
 
 Je me fais engueuler parce que je refuse d’expliquer par mail à un jeune gar une procédure expliquée déjà dix fois sur mon blog et ailleurs sur le Net. Je lui conseille d’utiliser un moteur de recherche. Il me répond qu’il conseillera la même chose à ses patients. Sauf que ses patients le payent et que moi je finis par fatiguer à force de me répéter et de jouer au bon samaritain.
 
-Je suis toujours dispo, mais parfois la fatigue l’emporte. Quand j’ai un problème technique, je cherche toujours par moi-même et ne pose des questions que quand je ne trouve pas, ce qui est assez rare finalement. Quand je découvre une solution par moi-même, je la partage pour que d’autres puissent la trouver s’ils la cherchent. Questionner sans ouvrir avant des livres et des sites ne devraient même pas nous effleurer l’esprit. Les réseaux sociaux sont en train de nous faire pousser des poils dans les mains. J’appartiens à la dernière génération qui n’a pas toujours vécu avec eux et qui d’abord cherche par soi-même.
+Je suis toujours dispo, mais parfois la fatigue l'emporte. Quand j’ai un problème technique, je cherche toujours par moi-même et ne pose des questions que quand je ne trouve pas, ce qui est assez rare finalement. Quand je découvre une solution par moi-même, je la partage pour que d’autres puissent la trouver s’ils la cherchent. Questionner sans ouvrir avant des livres et des sites ne devraient même pas nous effleurer l’esprit. Les réseaux sociaux sont en train de nous faire pousser des poils dans les mains. J’appartiens à la dernière génération qui n’a pas toujours vécu avec eux et qui d’abord cherche par soi-même.
+
+Tags: Carnets, une

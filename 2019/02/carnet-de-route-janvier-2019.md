@@ -6,13 +6,13 @@
 
 J’oscille entre enthousiasme à l’idée de partir en exploration à vélo et le désir de fuir la Floride. Après cinq mois, je me demande toujours ce que je fiche là, d’autant plus quand les enfants se replient sur eux-mêmes, refusent ce que l’Amérique leur offre. Mais quelle Amérique ? La Floride n’est pas l’Amérique, la plupart des gens n’y parlent même pas anglais au quotidien.
 
-![Promenade du soir](https://tcrouzet.com/images_tc/2019/02/IMG_2771.jpg)
+![Promenade du soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_2771-600x450.jpg)
 
 ### Mercredi 2, Weston
 
 [*La force du sourire*](https://www.amazon.fr/force-du-sourire-Isabelle-Crouzet/dp/2709662655) sort aujourd’hui. Isa est si tendue qu’elle m’a communiqué son trac avant son premier interview radio, sur RTL.
 
-![Le bisou](https://tcrouzet.com/images_tc/2019/02/P1080369.jpg)
+![Le bisou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/P1080369-600x450.jpg)
 
 ---
 
@@ -22,23 +22,23 @@ Ce matin, je vais dans une boutique à Fort Lauderdale où j’espère pouvoir c
 
 Je rentre la tête en vrac. Pour me changer les idées, je m’en vais rouler. Il fait un temps limpide, 28, une légère brise sud-sud-est. Je baigne dans l’ambre tiède jusqu’au coucher du soleil avant de replonger dans mes chiffres.
 
-![Couchant](https://tcrouzet.com/images_tc/2019/02/IMG_2787.jpg)
+![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_2787-600x450.jpg)
 
-![Couchant](https://tcrouzet.com/images_tc/2019/02/IMG_2812.jpg)
+![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_2812-600x450.jpg)
 
 ### Vendredi 4, Weston
 
 Toujours dans mes chiffres, dans mes géométries de vélo, à en perdre le sommeil. Puis je roule jusqu’à la tombée de la nuit. Les *levees* me lassent, besoin d’autre chose, d’autant que mes épaules souffrent à force d’encaisser les secousses du gravel. Me faut rouler avec une fourche télescopique pour les reposer. Je discute avec les futurs participants de l’HuRaCan. Quelques-uns ont décidé comme moi d’effectuer le raid en quatre ou cinq jours.
 
-![Même pas peur](https://tcrouzet.com/images_tc/2019/02/P1080379.jpg)
+![Même pas peur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/P1080379-600x450.jpg)
 
-![Même pas peur](https://tcrouzet.com/images_tc/2019/02/P1080392.jpg)
+![Même pas peur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/P1080392-600x450.jpg)
 
-![Soir](https://tcrouzet.com/images_tc/2019/02/P1080398.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/P1080398-600x450.jpg)
 
-![Soir](https://tcrouzet.com/images_tc/2019/02/P1080404.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/P1080404-600x450.jpg)
 
-![Soir](https://tcrouzet.com/images_tc/2019/02/P1080409.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/P1080409-600x450.jpg)
 
 ### Samedi 5, Weston
 
@@ -48,11 +48,11 @@ J’attaque le nouveau Houellebecq. Impression que je l’ai déjà lu, avec ce 
 
 Vélo choisi. Reste à passer commande. Je me suis inscrit au raid. Me faut décider du matériel à emporter. Le but : vélo+matos dans les 20 kg.
 
-![Soir](https://tcrouzet.com/images_tc/2019/02/P1080432.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/P1080432-600x450.jpg)
 
 ### Dimanche 6, Weston
 
-![Matin](https://tcrouzet.com/images_tc/2019/02/P1080470.jpg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/P1080470-600x450.jpg)
 
 ### Mercredi 9, Weston
 
@@ -180,7 +180,7 @@ Notre journée la plus froide. Je pars avec le Timberjack chargé en mode raid, 
 
 ### Mardi 29, Weston
 
-Dans notre placard, mes yeux s’arrêtent sur une boîte de conserve avec la mention « Kidney Beans ». J’éprouve un sentiment de dégoût et de surprise à l’idée que des haricots pourraient être produits par des reins. Puis je me dis qu’en effet les haricots rouges ou blancs ressemblent à des reins. Je pense alors à l’universalité des formes, à l’impossibilité de l’abstraction.
+Dans notre placard, mes yeux s’arrêtent sur une boîte de conserve avec la mention « Kidney Beans ». J’éprouve un sentiment de dégoût et de surprise à l’idée que des haricots pourraient être produits par des reins. Puis je me dis qu’en effet les haricots rouges ou blancs ressemblent à des reins. Je pense alors à l’universalité des formes, à l'impossibilité de l'abstraction.
 
 ---
 
@@ -190,4 +190,8 @@ J’ai été [interviewé par *La Croix*](https://www.la-croix.com/Culture/Thier
 
 [Aussi prêt que possible pour l’HuRaCan.](https://tcrouzet.com/2019/01/31/pret-pour-le-bikepacking/) Demain, je remonte vers la Floride centrale pour le grand départ donné samedi. J’ai des douleurs dans les cervicales. Un genou rétif. Je dois oublier tout ça.
 
-![Timberjack](https://tcrouzet.com/images_tc/2019/02/P1080524.jpg)
+![Timberjack](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/P1080524-600x450.jpg)
+
+
+
+Tags: Carnets, une

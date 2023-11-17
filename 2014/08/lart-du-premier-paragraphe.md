@@ -1,6 +1,6 @@
 # L’art du premier paragraphe
 
-Je cherche [deux ebooks de Gardner sur l’art d’écrire](https://tcrouzet.com/2014/08/18/livres-lus-ingeres-oublies/), pour les récupérer j’en télécharge des centaines d’autres sur le même sujet. C’est une avalanche. Plusieurs critiques pointent vers *Stein on Writing*, un essai de [Sol Stein](http://en.wikipedia.org/wiki/Sol_Stein), un des plus fameux éditeurs américains.<span id="more-36734"></span>
+Je cherche [deux ebooks de Gardner sur l’art d’écrire](http://blog.tcrouzet.com/2014/08/18/livres-lus-ingeres-oublies/), pour les récupérer j’en télécharge des centaines d’autres sur le même sujet. C’est une avalanche. Plusieurs critiques pointent vers *Stein on Writing*, un essai de [Sol Stein](http://en.wikipedia.org/wiki/Sol_Stein), un des plus fameux éditeurs américains.<span id="more-36734"></span>
 
 Vous vous dites peut-être qu’à mon âge, c’est trop tard. Au contraire. Avec l’âge le corps et le cerveau se transforment. Des choses jadis intuitives deviennent plus difficiles, d’autres au contraire qui paraissaient impossibles deviennent envisageables, à condition de s’entraîner adéquatement. Je me suis donc laissé prendre par Sol Stein.
 
@@ -10,7 +10,7 @@ Je n’ai pour l’instant rien appris de décisif, mais lu des choses de bon se
 
 > Voici les objectifs du paragraphe d’ouverture. 1/ Éveiller la curiosité du lecteur, de préférence en évoquant un personnage ou une relation entre personnages. 2/ Poser le contexte. 3/ Mettre en résonnance l’histoire.
 
-Sol Stein donne des exemples. En voici deux, made in Crouzet. [*Le Geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/) commence par :
+Sol Stein donne des exemples. En voici deux, made in Crouzet. [*Le Geste qui sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/) commence par :
 
 > Mi-mars 2012, je reçois un appel inattendu de Genève : « J’ai rencontré un toubib extraordinaire », me crie mon amie Geneviève. Elle parle haut, l’enthousiasme la déborde, l’émotion étrangle sa voix d’habitude rauque. « C’est incroyable. Il faut que tu écrives sa vie. La reine d’Angleterre l’a fait Commander, mais personne ne le connaît, même chez nous en Suisse. Il est sur la liste des nobélisables pour la Paix. Ce professeur de médecine sauve chaque année des millions de vies. »
 
@@ -22,7 +22,7 @@ J’ai respecté, il me semble, le cahier des charges.
 
 3. Projection : tout au long du récit, il sera question de sauver des millions de vies.
 
-Côté [*Ératosthène*](https://tcrouzet.com/eratosthene/), ça donne :
+Côté [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/), ça donne :
 
 > Aux premières gelées, les étourneaux s’amassent en nuées charbonneuses. Ils volent plein sud, poussés par le vent brumeux au-dessus des steppes de Scythie, des forêts germaniques, des fleuves Rhin et Rhône et des pinèdes de la péninsule italique. Ils franchissent le détroit de Messine, frôlent les remparts de Syracuse, se jettent à la verticale de la mer Intérieure. Lorsqu’ils atteignent Carthage, ils s’échevellent vers l’ouest et la Maurétanie, vers l’est et la Libye où ils s’abattent sur les champs de fenouil, vastes damiers striant la plaine littorale entre le port d’Apollonia et les contreforts des montagnes Vertes.
 
@@ -40,8 +40,10 @@ Alors ne pas s’oublier en tant qu’auteur, ses passions, ses sensations, ses 
 
 Donc, oui, respect pour le lecteur, tout en refusant la possibilité de plaire à tous, car cette séduction généralisée impliquerait de se nier soi-même en tant qu’auteur, en tant qu’homme. Donc respect partagé, pour les autres et pour soi aussi.
 
-Sol Stein demande si notre première phrase décrit une personnalité intéressante ou une action qui éveille notre curiosité. Il nous suggère de rendre notre première phrase plus intrigante, d’introduire quelque chose d’inhabituel, peut-être de choquant ou de surprenant. Tout cela sous prétexte qu’un texte se joue dès cette première phrase.
+Sol Stein demande si notre première phrase décrit une personnalité intéressante ou une action qui éveille notre curiosité. Il nous suggère de rendre notre première phrase plus intrigante, d’introduire quelque chose d'inhabituel, peut-être de choquant ou de surprenant. Tout cela sous prétexte qu’un texte se joue dès cette première phrase.
 
 Imaginez si Proust avait suivi ce conseil. Que serait devenu « Longtemps je me suis couché de bonne heure » ? Stein touche à la limite. Les conseils peuvent faire de nous de bons artisans, mais une fois qu’ils sont intégrés, nous devons les jeter par-dessus bord, à nos risques et périls.
 
-Après tout, il est assez inhabituel de se coucher de bonne heure, tout comme d’observer les nuées charbonneuses des étourneaux. C’est déjà mieux qu’un soleil qui se couche, phénomène toutefois lié au bal des étourneaux.
+Après tout, il est assez inhabituel de se coucher de bonne heure, tout comme d’observer les nuées charbonneuses des étourneaux. C’est déjà mieux qu'un soleil qui se couche, phénomène toutefois lié au bal des étourneaux.
+
+Tags: NetLittérature, une

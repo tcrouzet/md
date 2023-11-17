@@ -18,13 +18,9 @@ Pour [Cocorico Hebdo](http://cocorico-hebdo.tumblr.com/), Frédéric Bardeau a l
 
 — La contrainte des 140 caractères qui fait de l’outil un véritable laboratoire d’écriture.
 
-*— Ce que vous détestez.*
+*— Ce que vous détestez.* — Les tricheurs, les spammeurs, tous ceux qui se sentent obliger de dire « bonjour ».
 
-— Les tricheurs, les spammeurs, tous ceux qui se sentent obliger de dire « bonjour ».
-
-*— Vos outils et services pour Twitter.*
-
-— [Hootsuite](http://hootsuite.com) avec [IFTTT](https://ifttt.com) (c’est en train de devenir de l’histoire ancienne avec les nouvelles restrictions d’usages de l’API Twitter).
+*— Vos outils et services pour Twitter.* — [Hootsuite](http://hootsuite.com) avec [IFTTT](https://ifttt.com) (c’est en train de devenir de l’histoire ancienne avec les nouvelles restrictions d’usages de l’API Twitter).
 
 *— Ce qui manque a Twitter.*
 
@@ -34,4 +30,8 @@ Pour [Cocorico Hebdo](http://cocorico-hebdo.tumblr.com/), Frédéric Bardeau a l
 
 — Twitter est un service animé par une entreprise qui ne nous veut pas du bien, mais juste nous attacher un peu plus à nos écrans.
 
-![](https://tcrouzet.com/images_tc/2012/09/ifttt.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/09/ifttt.png)
+
+
+
+Tags: NetCulture, Twitter

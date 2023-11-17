@@ -2,7 +2,7 @@
 
 Statistiquement, nous autres auteurs vendons peu de livres. Et comme, je peux survivre sans mes revenus d’auteurs, je n’ai donc aucune raison de chercher à écrire des choses qui se vendent. Je peux m’installer sur un banc au sommet de la bastide de Monflanquin et me laisser charmer par la campagne vallonnée du Lot-et-Garonne.<span id="more-37687"></span>
 
-![Montflanquin, ça monte](https://tcrouzet.com/images_tc/2014/10/mont4.jpg)
+![Montflanquin, ça monte](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/mont4.jpg)
 
 C’est un luxe, pourtant pas tout à fait satisfaisant. Si j’écris et que personne ne me lit, j’en éprouve de l’insatisfaction, surtout quand je me compare à ceux qui ont du succès.
 
@@ -26,7 +26,7 @@ Après le chat, un chien s’approche. Il pisse contre le tronc d’un grand aca
 
 Le non dit, c’est ça le sujet. Ce qui ne veut pas surgir explicitement, ce qui est là, bien présent dans l’entre-deux. Alors peu importe le sujet choisi, du moment qu’on s’ouvre à cette possibilité, qu’on la laisse glisser vers la surface, vers le lecteur. C’est peut-être ce qui nous fait aimer un auteur. Non pas ce qu’il écrit, mais ce qu’il n’écrit pas.
 
-![Montflanquin, place centrale](https://tcrouzet.com/images_tc/2014/10/mont2.jpg)
+![Montflanquin, place centrale](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/mont2.jpg)
 
 La bastide est une belle métaphore de l’écriture. Le village s’est construit au sommet d’une butte. Les maisons extérieures servent de rempart. Elles disposent d’une vue merveilleuse sur la campagne, mais les riches propriétaires préféraient habiter autour de la place centrale, où se tenait le marché, où la foule se rassemblait.
 
@@ -46,4 +46,8 @@ J’aime cette intensité, cette tension propre aux villages ou aux villes au mi
 
 Une porte s’ouvre lentement, pour ne pas troubler la musique, elle se referme avec la même précaution. Ne rien interrompre, laisser la brise frôler les arbres. C’est à ce moment que l’écriture devient inutile, une fois le calme trouvé.
 
-![Montflanquin, une rue](https://tcrouzet.com/images_tc/2014/10/mont3.jpg)
+![Montflanquin, une rue](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/mont3.jpg)
+
+
+
+Tags: une, vagabondage

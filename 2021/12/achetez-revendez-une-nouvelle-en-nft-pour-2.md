@@ -9,9 +9,9 @@ L’idée : un lecteur l’achète et la remet en vente immédiatement après l
 
 [La nouvelle est vendue 0,0005 ETH](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/51916585730158572235051487169527023365538550989906184714965107613588470628353/) sous la forme d’un poster. Lors de l’achat se révèle un unlockable content qui pointe vers un jpeg de 123 x 79 cm à 300 dpi et un ePub, pour faciliter la lecture.
 
-Problème, les frais de transaction sont trente fois plus élevés que le prix de vente, ce qui la rend impossible. J’ai donc découvert une autre blockchain, Elrond, où rendre la vente est possible ([explications dans un autre billet](https://tcrouzet.com/2022/01/04/la-croix-et-la-galere-pour-vendre-un-texte-en-nft/)).
+Problème, les frais de transaction sont trente fois plus élevés que le prix de vente, ce qui la rend impossible. J'ai donc découvert une autre blockchain, Elrond, où rendre la vente est possible ([explications dans un autre billet](https://tcrouzet.com/2022/01/04/la-croix-et-la-galere-pour-vendre-un-texte-en-nft/)).
 
-![La Chute version HD](https://tcrouzet.com/images_tc/2022/01/isangard2.jpg)
+![La Chute version HD](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/01/isangard2.jpg)
 
 ### La chute
 
@@ -25,11 +25,11 @@ Dans *La Chute*, nouvelle écrite en 2018 en Floride, je reprends la même forme
 
 Si vous débutez en NFT, voici comment vous lancer.
 
-1. Les transactions s’effectuent en cryptomonnaie (dans mon cas en ETH, abréviation d’Ethereum).
+1. Les transactions s'effectuent en cryptomonnaie (dans mon cas en ETH, abréviation d'Ethereum).
 
-2. Il vous faut donc un portefeuille où stocker vos ETH (j’utilise [MetaMask](https://metamask.io/)).
+2. Il vous faut donc un portefeuille où stocker vos ETH (j'utilise [MetaMask](https://metamask.io/)).
 
-3. Pour remplir votre portefeuille à partir d’euros ou d’une autre monnaie classique, il faut passer par un agent de change ([Coinbase](https://www.coinbase.com/), par exemple).
+3. Pour remplir votre portefeuille à partir d'euros ou d'une autre monnaie classique, il faut passer par un agent de change ([Coinbase](https://www.coinbase.com/), par exemple).
 
 4. Sur les places de marché de NFT comme OpenSea, il suffit de connecter son portefeuille pour effectuer des transactions.
 
@@ -44,3 +44,5 @@ Résumé de la méthode pour [acheter/revendre la nouvelle sur Isengard](https:/
 2. Avec [Ramp](https://buy.ramp.network/) ou un autre service, approvisionner le wallet.
 
 3. Avec le wallet se connecter à [Isengard](https://isengard.market) et procéder à la transaction.
+
+Tags: édition, NFT, une

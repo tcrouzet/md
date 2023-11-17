@@ -12,4 +12,6 @@ Quels seraient d’après toi les 5 points clés de ton écriture blog ? m’a 
 
 **5/** Je pense mon blog comme un livre. À la fin de l’année, j’ai l’intention d’en remasteriser une version papier que je diffuserai sur [lulu.com](http://www.lulu.com/fr). Comme j’ai cette idée derrière la tête, mon blog se suffit à lui-même. Ce n’est pas en général un couper-coller de l’actualité ou une collection de liens. Je crois que je n’aurais pas grand-chose à retoucher pour que le tout soit lisible chronologiquement… ainsi je fais le grand écart entre mon journal et mes livres.
 
-*PS : En général, je lis la plupart des blogs qui pointent vers le mien. Je me dis qu’il y a soit affinité, soit au contraire opposition, dans les deux cas ça me fait avancer. Quand j’étudie une question, je visite des blogs au hasard des trouvailles. J’avance comme ça, je m’informe comme ça, sans privilégier de source.*
+*PS : En général, je lis la plupart des blogs qui pointent vers le mien. Je me dis qu’il y a soit affinité, soit au contraire opposition, dans les deux cas ça me fait avancer. Quand j’étudie une question, je visite des blogs au hasard des trouvailles. J’avance comme ça, je m'informe comme ça, sans privilégier de source.*
+
+Tags: NetLittérature

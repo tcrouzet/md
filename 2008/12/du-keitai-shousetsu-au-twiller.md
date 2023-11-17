@@ -1,12 +1,12 @@
 # Du keitai shousetsu au twiller
 
-Je me suis longtemps intéressé au *Nouveau roman*, puis à Georges Perec et à l’Oulipo. L’écriture à contraintes alliait la logique et la littérature et je me suis laissé griser par le genre. Je suis allé jusqu’à écrire [un roman où chaque signe aurait une valeur temporelle](https://tcrouzet.com/equinoxe-automne/). Pour dire qu’une moto passait dans la rue, j’utilisais autant de signes que la moto prenait pour passer. J’avais développé une macro Word qui mesurait la durée de mes phrases.<span id="more-4297"></span>
+Je me suis longtemps intéressé au *Nouveau roman*, puis à Georges Perec et à l'Oulipo. L’écriture à contraintes alliait la logique et la littérature et je me suis laissé griser par le genre. Je suis allé jusqu’à écrire [un roman où chaque signe aurait une valeur temporelle](http://blog.tcrouzet.com/equinoxe-automne/). Pour dire qu’une moto passait dans la rue, j’utilisais autant de signes que la moto prenait pour passer. J’avais développé une macro Word qui mesurait la durée de mes phrases.<span id="more-4297"></span>
 
 Puis je me suis intéressé à la philosophie et je me suis lassé de ces jeux. J’avais besoin de plus de liberté, je voulais bannir les contraintes. Mais chaque fois que je me suis aventuré dans le romanesque, j’ai eu du mal à me départir de mes vieilles habitudes. J’étais souvent expéditif comme avec mon histoire de moto. Je ne passais pas deux plombes à camper les personnages, encore moins à m’attarder sur leurs atermoiements psychologiques. Ce n’est pas mon truc.
 
 Et là je découvre un nouveau genre romanesque, le twiller, contraction de Twitter et de thriller. Le texte est posté sur une plate-forme de microblogging comme Twitter. Il se compose donc d’une série d’épisodes de 140 caractères maximum chacun. Pour le coup, il faut s’en tenir à l’essentiel. Si chaque jour seulement quelques phrases sont postées, il faut concentrer.
 
-Pour mon prochain livre, [*Une brève histoire de l’informatique*](https://tcrouzet.com/une-breve-histoire-de-linformatique/), série d’historiettes sur le modèle de *La première gorgée de bière*, je me suis amusé à écrire [un début de twiller](https://tcrouzet.com/2009/03/18/twiller-twitteroman-erotwit%E2%80%A6/), en partant d’une idée qui traîne dans ma tête depuis quelque temps. Je me suis alors dit pourquoi pas poursuivre en live sur mon blog.
+Pour mon prochain livre, [*Une brève histoire de l’informatique*](http://blog.tcrouzet.com/une-breve-histoire-de-linformatique/), série d'historiettes sur le modèle de *La première gorgée de bière*, je me suis amusé à écrire [un début de twiller](http://blog.tcrouzet.com/2009/03/18/twiller-twitteroman-erotwit%E2%80%A6/), en partant d’une idée qui traîne dans ma tête depuis quelque temps. Je me suis alors dit pourquoi pas poursuivre en live sur mon blog.
 
 Sur le côté gauche de l’écran se suivraient les SMS postés sur Twitter avec les commentaires associés, sur le côté droit la reconstruction du chapitre en cours d’écriture.
 
@@ -22,12 +22,14 @@ Sur le côté gauche de l’écran se suivraient les SMS postés sur Twitter ave
 
 5. Twitter n’est pas indispensable à l’exercice. Tout le texte peut se retrouver sur un blog. Il doit exister en plusieurs versions car sur Twitter difficile de prendre le train en marche.
 
-6. La contrainte, c’est aussi écrire en français, pas en langage SMS, donc rester littéraire. Il faut qu’au final le texte ressemble à un autre texte. J’imagine que la façon dont il aura été écrit lui donnera une coloration particulière. Une forme d’urgence. Je n’en sais rien.
+6. La contrainte, c’est aussi écrire en français, pas en langage SMS, donc rester littéraire. Il faut qu’au final le texte ressemble à un autre texte. J'imagine que la façon dont il aura été écrit lui donnera une coloration particulière. Une forme d'urgence. Je n’en sais rien.
 
 7. C’est la forme la plus apte à autoriser l’interactivité puisque des commentaires pourront être effectués après chaque SMS.
 
 8. Les Japonais lisent et écrivent sur mobile des romans, ou plutôt des [keitai shousetsu](http://www.smh.com.au/news/mobiles--handhelds/in-japan-cellular-storytelling-is-all-the-rage/2007/12/03/1196530522543.html). Pourquoi ne pas les imiter ?
 
-9. Ce serait aussi pour moi l’occasion de revenir à la puissance créative du web… et de cesser de questionner le système. Il ne faut pas oublier d’essayer d’en construire un autre à côté.
+9. Ce serait aussi pour moi l'occasion de revenir à la puissance créative du web... et de cesser de questionner le système. Il ne faut pas oublier d'essayer d'en construire un autre à côté.
 
-10. Je réfléchis maintenant à la meilleure façon d’organiser la version blog du twiller. J’hésite encore à créer [twiller.tcrouzet.com](http://twiller.tcrouzet.com), un autre URL ou faire ça simplement dans une catégorie de ce blog, avec bien sûr une mise en page quelque peu différente. Détails techniques mais qui ont l’importance pour que ce ne soit pas une usine à gaz.
+10. Je réfléchis maintenant à la meilleure façon d'organiser la version blog du twiller. J'hésite encore à créer [twiller.tcrouzet.com](http://twiller.tcrouzet.com), un autre URL ou faire ça simplement dans une catégorie de ce blog, avec bien sûr une mise en page quelque peu différente. Détails techniques mais qui ont l’importance pour que ce ne soit pas une usine à gaz.
+
+Tags: Croisade, NetLittérature, Twiller, Twittérature, Une brève histoire de l'informatique

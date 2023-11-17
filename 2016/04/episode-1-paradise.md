@@ -138,7 +138,7 @@ Le lendemain, Yash enchaîne les quintes de toux. Cyder essaie de lui parler, ma
 
 — Suis pas d’humeur.
 
-— Tu devrais consulter le professeur Warwick. C’est un des meilleurs toubibs de New York.
+— Tu devrais consulter le professeur Warwick. C’est un des meilleurs toubibs de New York. 
 
 — Je déteste ces gens. Tous des profiteurs, des exploiteurs, des parasites. Regarde-les. Puis, quand on est vraiment malade, ils nous laissent crever.
 
@@ -186,7 +186,7 @@ Elle secoue la tête.
 
 Elle ne bouge pas.
 
-— Yash, je préfère distribuer l’aspirine.
+— Yash, je préfère distribuer l’aspirine. 
 
 — J’ai pas envie que tu sois contaminée.
 
@@ -255,3 +255,5 @@ Cyder remonte ses genoux contre sa poitrine, elle enroule ses bras autour de ses
 — La première que nous rencontrons.
 
 Cyder comprend soudain que le capitaine a peur d’elle.
+
+Tags: Résistants

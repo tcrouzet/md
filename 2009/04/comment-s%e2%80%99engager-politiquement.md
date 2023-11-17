@@ -2,7 +2,7 @@
 
 
 
-![pyvsnet1](https://tcrouzet.com/images_tc/2009/04/pyvsnet1.gif)
+![pyvsnet1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/04/pyvsnet1.gif)
 
 À quoi ressemble notre structure sociale ? Nous ne le saurons peut-être jamais, notamment parce qu’elle se transforme sans cesse. Nous pouvons en tout cas aujourd’hui nous la représenter de deux manières assez différentes, comme une pyramide ou comme un réseau. En fonction de la représentation choisie, la nature de l’engagement politique change du tout au tout.<span id="more-5751"></span>
 
@@ -24,7 +24,7 @@ On peut évaluer le pouvoir d’un nœud aux nombres de connexions qui le lient 
 
 Dans cette perspective, suivant la logique réseau, les nœuds anonymes, bien que moins influents que les hubs, surpassent vite, une fois cumulés, les pouvoirs officiels ou reconnus. Il devient alors possible de s’attaquer aux problèmes du monde à l’échelle locale, au niveau individuel, sans nécessairement chercher à progresser dans une hiérarchie qui est en train de se déliter.
 
-Cette méthode apparaît par ailleurs la plus efficace, potentiellement la plus rapide, parce ce qu’elle est capable de maximiser les énergies et le pouvoir de changement.
+Cette méthode apparaît par ailleurs la plus efficace, potentiellement la plus rapide, parce ce qu'elle est capable de maximiser les énergies et le pouvoir de changement.
 
 ### Où en sommes-nous ?
 
@@ -53,3 +53,5 @@ La peur du changement fait faire n’importe quoi. Elle peut conduire à la guer
 Nos institutions centrales manquent de clairvoyances. Plongée au cœur de la crise qu’elles n’ont pas su prévoir, elles prévoient la sortie de la crise grâce à leurs mesures. Mais ça n’a aucun sens. Les institutions n’ont rien compris à ce qui se passaient, elles agissent parce qu’elles ont le pouvoir, avec leur arrogante assurance, mais au fond elles ne prennent aucune décision novatrice car elles sont engluées exclusivement dans l’ancienne perspective pyramidale.
 
 Alors oui, il faut tenter d’agir sur ces institutions pour faire changer le monde, mais surtout pas que sur elles. Malheureusement la politique qui fait du bruit n’use que de ce levier. J’ose espérer que celle qui ne fait pas de bruit, celle qui ne se voit pas par la vieille lorgnette pyramidale, en expérimente d’autres.
+
+Tags: Connecteur

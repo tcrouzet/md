@@ -2,7 +2,7 @@
 
 Ma décision [de ne publier dans mon flux RSS que les résumés des articles](http://frenchblog.kindalab.com/) a provoqué quelques réactions, dont une virulente de [Manuel Vila](http://frenchblog.kindalab.com/). Je profite de ma réponse pour expliquer mon choix.<span id="more-720"></span>
 
-[Mon flux](https://tcrouzet.com/flux/) est ouvert depuis l’origine de ce blog. Les textes que j’écris ici peuvent être reproduits ailleurs et les lecteurs peuvent les lire dans les conditions qui les arrangent. Je continue à défendre cette position mais un flux ouvert c’est un peu comme un e-mail trop connu, on finit par être submergé par les messages non sollicités, pour un flux ils prennent la forme de trackbacks sans intérêt qui viennent polluer le fil des commentaires.
+[Mon flux](http://blog.tcrouzet.com/flux/) est ouvert depuis l’origine de ce blog. Les textes que j’écris ici peuvent être reproduits ailleurs et les lecteurs peuvent les lire dans les conditions qui les arrangent. Je continue à défendre cette position mais un flux ouvert c’est un peu comme un e-mail trop connu, on finit par être submergé par les messages non sollicités, pour un flux ils prennent la forme de trackbacks sans intérêt qui viennent polluer le fil des commentaires.
 
 Depuis longtemps, les spammeurs utilisent les flux pour recréer des sites qui n’ont pour but que d’attirer les requêtes Google et détourner du trafic des articles d’origine. Tant qu’ils ne republient que les résumés des articles, comme le font les moteurs de recherche, nous sommes dans une situation gagnant-gagnant. Ces sites en essayant d’attirer des visiteurs nous en font aussi gagner.
 
@@ -22,8 +22,8 @@ Les blogueurs y participent pour beaucoup lorsqu’ils se commentent les uns les
 
 Je préfère donc laisser en vie la fonction trackback plutôt que mon flux intégral. Je n’ai d’ailleurs jamais considéré les flux comme une innovation majeure mais comme une innovation technique à destination des techniciens. Si tel n’était pas le cas, l’usage des flux se serait démocratisé depuis dix ans et, même aujourd’hui, il reste élitiste. Quoi que nous disent les promoteurs des agrégateurs, ce marché n’a jamais explosé et il ne le fera qu’au prix d’une révolution. C’est une des raisons pour lesquelles je travaille à [coZop](http://cozop.com). Le but d’un tel service est de faire disparaître les flux des yeux des utilisateurs.
 
-J’ai bridé mon flux pour ma tranquillité et pour tenter de préserver ce qui me paraît essentiel dans le web 2.0. Mon flux intégral était en train de me faire perdre du temps, me forçant à nettoyer les trackbacks, et j’ai déjà trop peu de temps. C’est un peu comme une maison de vacances où on passe un mois par an et qui engloutit 50% de nos revenus. C’est absurde.
+J’ai bridé mon flux pour ma tranquillité et pour tenter de préserver ce qui me paraît essentiel dans le web 2.0. Mon flux intégral était en train de me faire perdre du temps, me forçant à nettoyer les trackbacks, et j'ai déjà trop peu de temps. C'est un peu comme une maison de vacances où on passe un mois par an et qui engloutit 50% de nos revenus. C'est absurde.
 
 Comme plus de 80% des sites web, je n’ai pas bridé mon flux pour protéger mes contenus. Ils restent librement accessibles sur mon blog et les agrégateurs intelligents peuvent remonter à la source pour recréer les articles dans leur intégralité, [coZop](http://cozop.com) fonctionne de cette façon d’ailleurs.
 
-PS : [Je poursuis cette réflexion dans un second billet](https://tcrouzet.com/2008/01/13/qu%e2%80%99est-ce-que-je-connais-aux-auteurs/) et réponds à l’autre question de Manuel « Qu’est-ce que je connais des auteurs ? ».
+PS : [Je poursuis cette réflexion dans un second billet](http://blog.tcrouzet.com/2008/01/13/qu%e2%80%99est-ce-que-je-connais-aux-auteurs/) et réponds à l’autre question de Manuel « Qu’est-ce que je connais des auteurs ? ».

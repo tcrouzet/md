@@ -1,8 +1,8 @@
 # Le siècle des généralistes
 
-Mon [précédent billet](https://tcrouzet.com/2007/07/11/un-univers-de-trolls/) a semble-t-il fait croire que j’étais soudain pessimiste ou que je doutais des bienfaits de la liberté ou que je rejetais, ni plus ni moins, internet. Il n’en est rien. J’ai juste besoin de temps en temps de critiquer ce que j’aime pour mieux l’aimer. Ce n’est pas du masochisme, je crois simplement qu’il ne faut pas oublier d’être critique vis-à-vis de soi comme de ses outils de prédilection.
+Mon [précédent billet](http://blog.tcrouzet.com/2007/07/11/un-univers-de-trolls/) a semble-t-il fait croire que j’étais soudain pessimiste ou que je doutais des bienfaits de la liberté ou que je rejetais, ni plus ni moins, internet. Il n’en est rien. J’ai juste besoin de temps en temps de critiquer ce que j’aime pour mieux l’aimer. Ce n’est pas du masochisme, je crois simplement qu’il ne faut pas oublier d’être critique vis-à-vis de soi comme de ses outils de prédilection.
 
-Si je ne vois pas d’un bon œil [la centralisation de certains services web 2.0](https://tcrouzet.com/2007/07/09/hypercentralisation/), je n’en suis pas moins convaincu que ces services, par leurs fonctionnalités, vont changer le monde. Mais ils le changeront d’autant plus s’ils échappent à tout contrôle, donc s’ouvrent à l’innovation extérieure.
+Si je ne vois pas d’un bon œil [la centralisation de certains services web 2.0](http://blog.tcrouzet.com/2007/07/09/hypercentralisation/), je n’en suis pas moins convaincu que ces services, par leurs fonctionnalités, vont changer le monde. Mais ils le changeront d’autant plus s’ils échappent à tout contrôle, donc s’ouvrent à l’innovation extérieure.
 
 Loin de moi aussi l’idée de vouloir installer la moindre censure sur le web. Par exemple, je crois que les forums doivent être modérés a posteriori, jamais a priori, il faut laisser la voie libre. La diversité est source de créativité.
 
@@ -30,7 +30,7 @@ Car parler pour dire comme les autres ça n’a aucun sens, sinon peut-être de 
 
 Je ne prône pas pour autant la spécialisation, le surdéveloppement d’une spécialité car je crois que nos différences sont plurielles et échappent à toute forme de classification.
 
-Je n’aime pas le vocable amateur, car il sous-entend moins bon qu’un professionnel, je lui préfère celui de généraliste, concept que j’ai développé dans [Ératosthène](https://tcrouzet.com/eratosthene/). Un généraliste est spécialiste de rien du tout. Le web devient l’outil des généralistes. Il donne à chacun de nous l’occasion de cultiver nos différences. Et il devient médiocre quand, par manque de volonté, par facilité, nous amplifions au contraire nos similitudes.
+Je n’aime pas le vocable amateur, car il sous-entend moins bon qu’un professionnel, je lui préfère celui de généraliste, concept que j’ai développé dans [Ératosthène](http://blog.tcrouzet.com/eratosthene/). Un généraliste est spécialiste de rien du tout. Le web devient l’outil des généralistes. Il donne à chacun de nous l’occasion de cultiver nos différences. Et il devient médiocre quand, par manque de volonté, par facilité, nous amplifions au contraire nos similitudes.
 
 Le vingt-et-unième siècle sera celui des généralistes comme le vingtième fut celui des experts.
 
@@ -43,3 +43,5 @@ Le vingt-et-unième siècle sera celui des généralistes comme le vingtième fu
 3. La différence ne doit pas nourrir la discrimination. Je crois même, au contraire, que cette idée d’égalité nourrit les discriminations car elle est infondée. Dire qu’on est tous égaux est une discrimination de la différence.
 
 4. Ce qui m’énerve sur le web 2.0 c’est d’entendre toutes ces voix qui se répètent. J’ai envie de leur dire à tous de lire [Siddhârta](http://www.amazon.fr/Siddharta-Hermann-Hesse/dp/3518394312/ref=sr_1_5) et d’exprimer leur voix propre.
+
+Tags: Ératosthène

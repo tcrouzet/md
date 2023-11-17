@@ -25,3 +25,5 @@ Je ne suis pas en train de crier victoire, mais à choisir entre pas de numériq
 Les anti-numériques sont des fatalistes qui ont le culot de nous qualifier « alternuméristes ». Le numérique étant divers, il n’est possible que d’en réformer des parcelles une à une, petit à petit, par essais et erreurs. Nous ne rêvons pas d’un autre numérique, idéal, parfait, éthique, nous ne sommes plus utopiques, mais presque malgré nous d’autres numériques se construisent peu à peu.
 
 *PS : Je n’écris pratiquement plus sur le numérique, même si je suis de loin ses évolutions et involutions. Je me suis laissé tenter par cet article, parce que j’imaginais trouver une réponse intéressante en l’écrivant et finalement non, le luddisme n’est pas très passionnant, même si comme le dit Hubert, la critique fait souvent plus avancer que le discours béat des évangélistes. Dire que le numérique est mauvais et qu’il faut en sortir ne nous en fera pas sortir, ne nous reste qu’à sauver les meubles qui peuvent l’être. Cette perspective ne me motive plus trop, je préfère parler de vélo ou de littérature.*
+
+Tags: NetCulture, une

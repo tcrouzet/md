@@ -34,8 +34,12 @@ Peut-être que toutes les maisons ont cette vocation de faire de nous les person
 
 Ce lien entre réel et fiction me travaille. Qu’est-ce qui est vrai, qu’est-ce qui est inventé ? On ce cesse de me poser cette question au sujet de [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/), un roman sur mon père, sur notre relation, c’est bien un roman, il ne pouvait pas s’agir d’un récit, je ne crois pas à la possibilité du récit, toute narration implique une forme d’invention, ne serait-ce que parce qu’il faut simplifier, rendre intelligible, déjà pour y voir clair soi-même en écrivant. Alors on raconte, on affabule, même ma maison est une fable, d’autant qu’à l’image elle apparaît autre qu’elle n’est.
 
-![Ma maison](https://tcrouzet.com/images_tc/2019/07/P1090834.jpg)
+![Ma maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090834-600x450.jpg)
 
-![Ma bibliothèque](https://tcrouzet.com/images_tc/2019/07/P1090842.jpg)
+![Ma bibliothèque](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090842-600x450.jpg)
 
-![Ma vue](https://tcrouzet.com/images_tc/2019/07/P1090849.jpg)
+![Ma vue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090849-600x450.jpg)
+
+
+
+Tags: Autobiographie

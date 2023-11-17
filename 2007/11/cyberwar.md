@@ -10,7 +10,7 @@ Si internet avait une structure hiérarchique, ces attaques auraient moins d’e
 
 Mais internet n’a pas une structure hiérarchique. Il n’y pas de chef, pas de soldat, c’est un univers de pair à pair. Grâce à cette structure décentralisée, le réseau peut se déployer et évoluer à un rythme exponentiel. Rien de ce que nous connaissons ne serait possible sans cette topologie particulière. Nous en serions tout au plus dans un après Minitel.
 
-![](https://tcrouzet.com/images_tc/2007/11/cyberwar.gif)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/11/cyberwar.gif)
 
 Le réseau décentralisé et distribué facilite les phénomènes viraux. C’est une chance formidable car tout le monde peut parler à tout le monde… quelqu’un peut aussi infecter tout le monde. Nous connaissons le risque, nous avons décidé de vivre avec. Comme les organismes vivants, peu à peu nous développons un système immunitaire. Comme tout système, il ne sera jamais parfait.
 
@@ -24,7 +24,7 @@ Ils auraient pu s’en prendre à une entreprise ou à n’importe quelle autre 
 
 Je ne dis pas que les attaques sont souhaitables. Au contraire. J’en pâtis souvent moi-même pour tout vous avouer. Mais leur simple possibilité implique une nouvelle organisation de la société. Dans cette société, une organisation privée ou publique qui veut imposer ses vues se met en danger. La possibilité de l’attaque pourrait introduire un feedback régulateur en empêchant les grenouilles de se vouloir plus grosses que le bœuf.
 
-— Ne cherchez pas à être le plus riche, le plus puissant, nous, simples individus, sommes capables de vous mettre à terre, dit en quelque sorte le pirate. Restez raisonnable, restez à votre place, n’épuisez pas le monde avec votre folie de grandeur.
+— Ne cherchez pas à être le plus riche, le plus puissant, nous, simples individus, sommes capables de vous mettre à terre, dit en quelque sorte le pirate. Restez raisonnable, restez à votre place, n’épuisez pas le monde avec votre folie de grandeur.
 
 Les pirates ont inventé une nouvelle arme de dissuasion massive. Dans l’esprit open source, ils pourraient la mettre entre toutes les mains. Peut-être nous préparons-nous à vivre dans une dictature des citoyens.
 
@@ -43,3 +43,5 @@ Notes
 1. Quand le pirate cherche à se faire de la pub, il joue les règles de l’ancien monde car il cherche lui-même à se faire puissant. Tout en jouant ces règles, il les nie sans même en prendre conscience.
 
 2. À chaque attaque, il ne faut pas agiter la menace d’une énième guerre mondiale comme le font les spécialistes de la sécurité pour se faire un max de fric. Ces attaques nous apprennent aussi que le monde doit s’organiser différemment. Je vois en elles un côté positif. Ces attaques ne sont réellement nocives que pour l’ancien monde qui épuise notre planète.
+
+Tags: Connecteur

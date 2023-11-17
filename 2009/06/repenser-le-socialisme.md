@@ -2,7 +2,7 @@
 
 Les 60 % d’abstention aux élections européennes ne m’ont pas surpris. Les gens votent moins parce qu’ils ont compris, au moins inconsciemment, que la représentation ne les servirait en rien, d’autant plus lorsqu’elle se tient loin d’eux à Bruxelles. Voter pour un maire pourquoi pas, pour un Président c’est amusant, pour un Eurodéputé, franchement, aucun intérêt. Cette abstention augmentera encore si un cinquième pouvoir émerge, un pouvoir réellement efficace à l’échelle de chacun.<span id="more-7156"></span>
 
-Mais qu’est-ce que le cinquième pouvoir sinon une force extrême de décentralisation ? Dans le *Wired* de juin, l’article sur [Le nouveau socialisme](http://www.wired.com/culture/culturereviews/magazine/17-06/nep_newsocialism), article qui me rappelle celui publié en 2006 par [Technikart](https://tcrouzet.com/2006/02/01/interview-technikart/), évoque cette nouvelle force autour de laquelle la gauche traditionnelle pourrait se reconstruire si elle était progressiste au lieu d’être corporatiste.
+Mais qu’est-ce que le cinquième pouvoir sinon une force extrême de décentralisation ? Dans le *Wired* de juin, l’article sur [Le nouveau socialisme](http://www.wired.com/culture/culturereviews/magazine/17-06/nep_newsocialism), article qui me rappelle celui publié en 2006 par [Technikart](http://blog.tcrouzet.com/2006/02/01/interview-technikart/), évoque cette nouvelle force autour de laquelle la gauche traditionnelle pourrait se reconstruire si elle était progressiste au lieu d’être corporatiste.
 
 Je voudrais passer en revue trois idées de gauche et montrer comment ma vision, que je ne qualifie ni gauche, ni de droite, s’accorde avec elles.
 
@@ -37,3 +37,5 @@ La décentralisation massive est aujourd’hui possible car les technologies num
 La gauche traditionnelle suppose que l’État doit venir en aide aux plus démunis. Elle se garde de proposer que chacun d’entre-nous vienne en aide à chacun d’entre nous. La gauche a-t-elle peur de ressusciter une forme de collectivisme ? A-t-elle peur des idées de gauche ?
 
 Qu’est-ce que nous faisons sur Internet quand nous partageons des informations, répondons à des questions, écrivons des notices ? Est-ce que nous ne nous venons pas en aide ? Pourquoi ne pourrions-nous pas généraliser cette forme d’entraide ?
+
+Tags: Hadopi

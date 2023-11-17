@@ -1,6 +1,6 @@
 # Ératosthène-Junior-Junior
 
-Tu écris, tu voudrais que ça fasse bouger les gens, surtout les plus jeunes, tu as des espoirs, pure folie du point de vue des probabilités, puis tu reçois des mails, des lettres, des commentaires qui te donnent un peu de courage pour continuer, surtout quand la critique officielle et bien pensante t’ignore. Aujourd’hui, c’est Line Fromental, auteure de [*Brin d’enfance*](http://www.biblioblog.fr/post/2010/07/30/Brins-d-enfance-Line-Fromental) qui m’envoie un peu de lumière. Je reproduis son commentaire.<span id="more-37451"></span>
+Tu écris, tu voudrais que ça fasse bouger les gens, surtout les plus jeunes, tu as des espoirs, pure folie du point de vue des probabilités, puis tu reçois des mails, des lettres, des commentaires qui te donnent un peu de courage pour continuer, surtout quand la critique officielle et bien pensante t'ignore. Aujourd'hui, c'est Line Fromental, auteure de [*Brin d'enfance*](http://www.biblioblog.fr/post/2010/07/30/Brins-d-enfance-Line-Fromental) qui m'envoie un peu de lumière. Je reproduis son commentaire.<span id="more-37451"></span>
 
 ---
 
@@ -16,4 +16,8 @@ L’auteur aurait pu affubler son héros de l’habit du débatteur, querelleur,
 
 Le moindre des intérêts n’est pas celui des pages terminales, exclusives à la version électronique. Éclairantes à bien des égards. Crouzet ne veut oublier aucun de ses combats et s’empare de l’occasion pour enfoncer des clous. Entre ceux qui ne jurent que par le papier et ceux qui ne lâchent plus l’électronique, chacun continue à se fabriquer des carcans. Pour ma part, j’adopte la tablette à peine découverte. Et je profite du fait qu’il existe encore le livre en librairie pour l’offrir aux amis, afin de leur faire découvrir cet auteur original, atypique, éclectique, généraliste… Thierry Crouzet, Ératosthène-Junior-Junior.
 
-![Photo Stan Jourdan et Camille L](https://tcrouzet.com/images_tc/2014/10/stan-panthe.jpg)
+![Photo Stan Jourdan et Camille L](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/stan-panthe.jpg)
+
+
+
+Tags: Buzz

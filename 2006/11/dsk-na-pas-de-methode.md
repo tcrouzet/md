@@ -43,3 +43,5 @@ Ne croyez pas que j’ai une dent contre DSK, au contraire. Mais faut pas abuser
 *PS5 : La diversité est une chose, je suis pour, la contradiction en est une autre. DSK est illogique dans ses méthodes et donc dans ses idées. Il a droit d’avoir autant d’idées qu’il veut mais il ne peut pas se contredire comme il l’a fait.*
 
 *PS6 : Pourquoi serait-il mieux de gérer un problème à plusieurs dans un cas et pas dans un autre ? Nous pouvons employer des méthodes diverses mais pas juste par démagogie.*
+
+Tags: Politique

@@ -32,18 +32,22 @@ Je résume…
 
 1. Le revenu de base s’impose si on prend en compte la nécessité de créer de la monnaie et les droits de l’homme, c’est-à-dire la volonté d’une égalité en droit (les banquiers ayant aujourd’hui des droits que vous n’avez pas).
 
-15. Pour ne pas créer une nouvelle caste de privilégiés à la place de celle des banquiers, il faut décentraliser la création monétaire.
+11. Pour ne pas créer une nouvelle caste de privilégiés à la place de celle des banquiers, il faut décentraliser la création monétaire.
 
 Pour faire l’économie du revenu de base, ceux qui s’appellent eux-mêmes les pragmatiques campent sur les positions souvent réactionnaires.
 
 1. On maintient le privilège discriminatoire des banquiers (et puis, on ose se dire de gauche ou libéral).
 
-18. On continue à vouloir offrir un travail à tout le monde, donc à pousser la production rémunérée, c’est-à-dire la croissance matérielle… construire toujours plus, produire toujours plus, échanger toujours plus, faire toujours plus d’enfants… C’est la politique débile menée par nos gouvernements successifs.
+14. On continue à vouloir offrir un travail à tout le monde, donc à pousser la production rémunérée, c’est-à-dire la croissance matérielle… construire toujours plus, produire toujours plus, échanger toujours plus, faire toujours plus d’enfants… C’est la politique débile menée par nos gouvernements successifs.
 
-19. On partage le travail disponible en réduisant le temps de travail. C’est la moins bête des solutions, mais les écrivains ne vont pas soudain réduire leur temps de travail, pas plus les programmeurs et beaucoup d’autres acteurs économiques. Le temps total de travail rémunéré disponible ne diminue pas également dans toutes les branches.
+15. On partage le travail disponible en réduisant le temps de travail. C’est la moins bête des solutions, mais les écrivains ne vont pas soudain réduire leur temps de travail, pas plus les programmeurs et beaucoup d’autres acteurs économiques. Le temps total de travail rémunéré disponible ne diminue pas également dans toutes les branches.
 
-20. On ne valorise pas les tâches qui ne sont pas sources directes de revenu et participent la croissance immatérielle tout en étant indispensables à la vie en société.
+16. On ne valorise pas les tâches qui ne sont pas sources directes de revenu et participent la croissance immatérielle tout en étant indispensables à la vie en société.
 
-Il me faut maintenant imaginer des histoires de vies. Passer à la simulation littéraire pour essayer d’explorer ce que les trop belles théories ne voient pas. Et c’est l’été, je bricole, je vois des amis, j’arrive tout juste à aligner quelques lignes peu exigeantes sur le blog… inévitablement plongé dans le post-partum de l’après [*Ératosthène*](https://tcrouzet.com/eratosthene/).
+Il me faut maintenant imaginer des histoires de vies. Passer à la simulation littéraire pour essayer d’explorer ce que les trop belles théories ne voient pas. Et c’est l’été, je bricole, je vois des amis, j’arrive tout juste à aligner quelques lignes peu exigeantes sur le blog… inévitablement plongé dans le post-partum de l’après [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).
 
-![Tant qu'on voudra vivre là, il faudra de la monnaie.](https://tcrouzet.com/images_tc/2014/07/balaruc.jpg)
+![Tant qu'on voudra vivre là, il faudra de la monnaie.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/balaruc.jpg)
+
+
+
+Tags: MRDB, Revenu de base, une

@@ -6,9 +6,8 @@ J’ai toujours été fasciné par ces récits, d’où mon goût pour les livre
 
 Malgré quelques excès en moto ou en planche à voile dans ma jeunesse, je n’ai jamais pratiqué les sports extrêmes, ni les drogues dures d’ailleurs ou d’autres équilibrismes précaires, mais je ne me sens écrivain que quand je vais là où les autres ne vont pas. Attention, la sensation d’être en dehors des clous ne signifie pas que j’y sois réellement, ou que je défriche des territoires inconnus. Rien que du subjectif avec à la clé des émotions hallucinantes.
 
-Je n’ai pas inventé la [twittérature](https://tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/), mais je m’y suis mis avec la volonté de pousser le genre à la limite. Avec [La Quatrième Théorie](https://tcrouzet.com/la-quatrieme-theorie/), j’ai cherché une grosse vague. Dans mes essais, je ne défends que des idées qui ne sont pas populaires. Le jour où elles le seront, j’en changerai, avec toujours cette volonté de vivre en dehors.
+Je n’ai pas inventé la [twittérature](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/), mais je m’y suis mis avec la volonté de pousser le genre à la limite. Avec [La Quatrième Théorie](http://blog.tcrouzet.com/la-quatrieme-theorie/), j’ai cherché une grosse vague. Dans mes essais, je ne défends que des idées qui ne sont pas populaires. Le jour où elles le seront, j’en changerai, avec toujours cette volonté de vivre en dehors.
 
-La plupart parmi nous se sentent bien au milieu des autres, quelques barjots, espèce de [crapauds fous](https://tcrouzet.com/tag/crapauds/), ont besoin de s’extraire du groupe. Non pas pour attirer les regards, pour cela mieux vaut se placer au centre de la foule et lui donner ce qu’elle attend, mais simplement pour se sentir vivre.
+La plupart parmi nous se sentent bien au milieu des autres, quelques barjots, espèce de [crapauds fous](http://blog.tcrouzet.com/tag/crapauds/), ont besoin de s’extraire du groupe. Non pas pour attirer les regards, pour cela mieux vaut se placer au centre de la foule et lui donner ce qu’elle attend, mais simplement pour se sentir vivre.
 
-<div class="iframe" id="iframe5"></div>
-<div class="iframe" id="iframe6"></div>
+Tags: Autobiographie, Crapauds, une

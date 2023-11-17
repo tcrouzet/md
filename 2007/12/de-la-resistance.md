@@ -1,6 +1,6 @@
 # De la résistance
 
-![Pacco](https://tcrouzet.com/images_tc/2007/12/de-la-resistance.gif)
+![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/12/de-la-resistance.gif)
 
 Une amie m’a envoyé un texte de Laurent Douzou au sujet de [la démocratie sans vote inventée par les résistants entre 1940 et 1944](http://www.cairn.info/article.php?ID_REVUE=ARSS&ID_NUMPUBLIE=ARSS_140&ID_ARTICLE=ARSS_140_0057). J’ai ainsi découvert un nouvel exemple de société auto-organisée, une société où l’auto-organisation s’est imposée en tant que condition nécessaire à la survie.
 
@@ -14,7 +14,7 @@ Les historiens ont souvent retenu la résistance organisée, celle structurée, 
 
 Durant la guerre, le résistant devait être anonyme. On oublia souvent ses faits d’armes car il n’y avait pas de trace pour chacun des rapiéçages de la toile. Mais l’anonymat n’explique pas tout. Le grand nombre d’actions comme leur dispersion sur un vaste territoire interdit aussi leur narration. Les actions distribuées ne sont pas propices au storytelling. Est une raison pour croire qu’elles n’ont aucune importance historique ? Non, au contraire, elles font l’histoire.
 
-À côté de cette résistance primordiale sans laquelle rien n’aurait été possible, se forma une résistance officielle. Nous nous en souvenons parce que ses têtes visibles se prêtèrent aux histoires. Toutefois ces leaders émergèrent naturellement sans aucun processus de sélection implicite. Ce phénomène me rappelle celui des [Nant’an chez les Apaches](https://tcrouzet.com/2007/06/05/la-revanche-des-apaches/). Mais les résistants, bien qu’auto-organisés, instituèrent une hiérarchie surabondante, comme si l’univers militaire dont ils étaient souvent étrangers déteignait sur eux.
+À côté de cette résistance primordiale sans laquelle rien n’aurait été possible, se forma une résistance officielle. Nous nous en souvenons parce que ses têtes visibles se prêtèrent aux histoires. Toutefois ces leaders émergèrent naturellement sans aucun processus de sélection implicite. Ce phénomène me rappelle celui des [Nant’an chez les Apaches](http://blog.tcrouzet.com/2007/06/05/la-revanche-des-apaches/). Mais les résistants, bien qu’auto-organisés, instituèrent une hiérarchie surabondante, comme si l’univers militaire dont ils étaient souvent étrangers déteignait sur eux.
 
 > Je crois que, si certains ont pu jouer un rôle de direction et tenir tous les fils en main, c’est parce que les noyaux fondateurs du mouvement étaient constitués d’amis, qui faisaient partie d’un même corps et pensaient de la même façon sur toute une série de plans, explique Jean-Pierre Vernant. Ces groupes d’amis avaient le sentiment d’être les égaux de leurs dirigeants et pouvaient ainsi accepter de les voir jouer ce rôle. Mais peut-être aussi ceux qui occupaient cette position ne pouvaient-ils la penser qu’en considérant les autres comme leurs égaux. Le problème est là : accepter d’avoir à la fois une position de dirigeant et des rapports d’égalité.
 
@@ -27,3 +27,5 @@ Reste à savoir si la résistance aurait pu se passer de cette structure hiérar
 > Il n’est pas d’organisation politique qui puisse fonctionner durablement sans qu’une hiérarchie la structure, écrit-il. De plus, sans un représentant d’envergure, une organisation est marginalisée \[…\].
 
 Mais sur ce point, quant à cette idée reçue, je ne peux être d’accord. Je crois même qu’une organisation politique ne peut être durable qu’en l’absence de hiérarchie. Il me semble que plus les hiérarchies sont rigides moins elles durent, souvent d’ailleurs abattues par de nouvelles hiérarchies.
+
+Tags: Connecteur

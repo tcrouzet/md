@@ -21,3 +21,5 @@ Dans cette révolution, l’individu est moteur. Des sociétés ou des associati
 De l’exemple Goldcorp, je retiens que toutes les données doivent être rendues publiques. Cette transparence est la meilleure façon de garantir le gagnant-gagnant. Les services de l’État devraient publier toutes les informations dont ils disposent, même les plus insignifiantes. Les citoyens seraient alors capables de les analyser et, à coup sûr, de trouver des solutions révolutionnaires à nombre de nos problèmes de société.
 
 Ces informations nous appartiennent car nous les avons payées avec nos impôts. Nous devons y avoir accès. Les candidats à l’Élysée devraient s’engager à la transparence informative. C’est la condition première à une société participative.
+
+Tags: Politique

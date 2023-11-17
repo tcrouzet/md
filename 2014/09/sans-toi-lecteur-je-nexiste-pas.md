@@ -22,4 +22,8 @@ Sans toi, je n’ai rien à faire le matin. Je me lève et je tourne en rond. J�
 
 Sans toi, je ne suis qu’un humain, c’est déjà fantastique, mais avec toi, je me transcende, ici et maintenant.
 
-![Parce qu'il faut une photo poir illusrer le billet.](https://tcrouzet.com/images_tc/2014/09/auteur.jpg)
+![Parce qu'il faut une photo poir illusrer le billet.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/auteur.jpg)
+
+
+
+Tags: édition, une

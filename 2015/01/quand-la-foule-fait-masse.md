@@ -1,6 +1,6 @@
 # Quand la foule fait masse, cette masse est une nation
 
-[Narvic](https://twitter.com/narvic) répond à mon billet [Faire foule n’est pas sans conséquences](https://tcrouzet.com/2015/01/12/faire-foule-nest-pas-sans-consequences/) et analyse la manifestation du 11 janvier 2015.<span id="more-38884"></span>
+[Narvic](https://twitter.com/narvic) répond à mon billet [Faire foule n’est pas sans conséquences](http://blog.tcrouzet.com/2015/01/12/faire-foule-nest-pas-sans-consequences/) et analyse la manifestation du 11 janvier 2015.<span id="more-38884"></span>
 
 ---
 
@@ -40,7 +40,7 @@ Pour ma part, je pense qu’il ne faut pas faire de cette manif d’hier autre c
 
 J’ai essayé de résumer ça d’un twitt ce matin, mais je ne suis pas certain que l’on puisse exprimer ce genre d’idée en 140 signes:
 
-« Ça marche pas comme ça. L’effet de cette manif est en entier contenu dans le seul fait d’avoir lieu. C’est tout. »
+« Ça marche pas comme ça. L'effet de cette manif est en entier contenu dans le seul fait d'avoir lieu. C'est tout. »
 
 Mon opinion est que ce qui s’est joué hier est un gros épisode de « recharge » massif de la nation française, en ce qu’elle forme une « masse lente » à la manière de Canetti. Régis Debray a résumé ça ainsi ce matin : « Les Français ont réappris le chemin qui mène de République à Nation ». C’est une excellente formule.
 
@@ -62,14 +62,16 @@ Pour ma part, j’en resterai à Baudrillard. Cette masse d’hier est obstiném
 
 Ma réaction réflexe à cette belle perspective, selon moi très compatible avec mon analyse.
 
-Spinoza est pas si loin de Baudrillard. Quand la foule se forme, elle n’obéit plus à personne selon lui, elle est elle-même. Et je suis assez d’accord… mais ce elle-même émergeant n’est pas déterminable a priori. Une chose est sûre elle dépasse les atomes individuels, et c’est pour ça qu’elle n’est pas manipulable (mais récupérable c’est une autre histoire, puisque ça se joue après et que la foule n’a plus à donner son avis à moins de se reformer pour devenir autre que ce qu’elle était).
+Spinoza est pas si loin de Baudrillard. Quand la foule se forme, elle n'obéit plus à personne selon lui, elle est elle-même. Et je suis assez d'accord... mais ce elle-même émergeant n'est pas déterminable a priori. Une chose est sûre elle dépasse les atomes individuels, et c'est pour ça qu'elle n'est pas manipulable (mais récupérable c'est une autre histoire, puisque ça se joue après et que la foule n'a plus à donner son avis à moins de se reformer pour devenir autre que ce qu'elle était).
 
-Pour ma part, je n’ai jamais été décliniste, ce discours ne m’intéresse pas. J’ai assez voyagé pour savoir que la France a justement une qualité émergente qui lui est propre et pas prête de s’éteindre. Suis pas sûr d’avoir senti hier cette chose qui selon moi est très française… un art de vivre particulier… mais je n’étais pas dans la rue. Et comme les photos sont belles, même si un peu trop militaires, je me dis qu’il y avait beaucoup de la France dans les rues.
+Pour ma part, je n'ai jamais été décliniste, ce discours ne m’intéresse pas. J'ai assez voyagé pour savoir que la France a justement une qualité émergente qui lui est propre et pas prête de s'éteindre. Suis pas sûr d'avoir senti hier cette chose qui selon moi est très française... un art de vivre particulier... mais je n’étais pas dans la rue. Et comme les photos sont belles, même si un peu trop militaires, je me dis qu’il y avait beaucoup de la France dans les rues.
 
-Ce qui me gêne dans la foule, c’est la communion, la grande messe, la charge symbolique, l’idéalisation, tout ce que je n’aime pas dans la religion et dans le culte de l’état. Et d’une certaine façon ce qui anime aussi les fanatiques, au nom des mêmes mécanismes transcendantaux.
+Ce qui me gêne dans la foule, c'est la communion, la grande messe, la charge symbolique, l'idéalisation, tout ce que je n'aime pas dans la religion et dans le culte de l'état. Et d'une certaine façon ce qui anime aussi les fanatiques, au nom des mêmes mécanismes transcendantaux.
 
-Je sais qu’il est bon de se baigner dans la foule, mais je sais aussi que cette griserie est dangereuse… et qu’elle peut entraîner des débordements qui m’effraient.
+Je sais qu'il est bon de se baigner dans la foule, mais je sais aussi que cette griserie est dangereuse... et qu'elle peut entraîner des débordements qui m'effraient.
 
 Reste que la guerre, c’est une histoire de foule, et que sans foules obéissantes il n’y a pas de possibilité de guerre. Et la guerre, c’est un truc de nation, un truc français aussi, que je suis prêt à laisser de côté.
 
 Si foule il y a, elle doit désobéir.
+
+Tags: noepub, Politique, une

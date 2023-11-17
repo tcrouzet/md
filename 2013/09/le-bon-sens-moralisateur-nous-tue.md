@@ -1,12 +1,12 @@
 # Le bon sens moralisateur nous tue
 
-[Suite à ma note sur le nouveau Kindle, un commentateur m’écrit](https://tcrouzet.com/2013/09/03/jai-reve-le-nouveau-kindle-paperwhite-amazon-la-cree/) : « Pour une simple question de confort de lecture vous vous apprêtez à cautionner une multinationale nord-américaine qui n’hésite pas à engager des nazis en Allemagne pour encadrer du personnel sous-payé. \[…\] Permettez-moi de trouver cela indécent. »<span id="more-33326"></span>
+[Suite à ma note sur le nouveau Kindle, un commentateur m’écrit](http://blog.tcrouzet.com/2013/09/03/jai-reve-le-nouveau-kindle-paperwhite-amazon-la-cree/) : « Pour une simple question de confort de lecture vous vous apprêtez à cautionner une multinationale nord-américaine qui n’hésite pas à engager des nazis en Allemagne pour encadrer du personnel sous-payé. \[…\] Permettez-moi de trouver cela indécent. »<span id="more-33326"></span>
 
 J’en ai marre des déraillements de la pensée. Des priorités qui dans notre société perdent les pédales. Nous vivons dans un pays qui entretient des guerres ou aimerait ouvrir de nouveaux fronts pour faire oublier l’indigence intellectuelle de son gouvernement. C’est pas indécent ? Il ne sera plus question de sous-payer. Il est question depuis longtemps de morts évitables et qui auraient dû l’être depuis longtemps.
 
 Et votre agent ? À quel genre de banques le confiez-vous ? La BNP. La Société Générale. Des choses de cette espèce, probablement. Vérifiez dans quelles entreprises elles investissent. Vous y trouverez l’armement. Vous contribuez à la mort d’innocents. C’est pas indécent ?
 
-Vous avez un crédit ? C’est pas indécent de vivre au-delà de vos moyens, de demander à ceux qui ne sont pas encore nés de payer demain pour vos fastes ? Ne vous étonnez pas que l’exploitation commence dès aujourd’hui.
+Vous avez un crédit ? C’est pas indécent de vivre au-delà de vos moyens, de demander à ceux qui ne sont pas encore nés de payer demain pour vos fastes ? Ne vous étonnez pas que l'exploitation commence dès aujourd'hui.
 
 Vous travaillez peut-être. Est-ce seulement pour le bien de vos semblables, ou aussi un peu en vue du profit… souvent aveugle ? Pollueurs de toutes espèces.
 
@@ -23,3 +23,5 @@ L’indécence commence par le vote, par ce geste qui consiste tout simplement �
 Cette indécence-là est la pire de toutes. Celle à partir de laquelle toutes les autres découlent. Celle du renoncement à se battre. Celle qui pousse après des hommes et des femmes à accepter l’inacceptable. Chez Amazon et partout ailleurs.
 
 Cette indécence tue l’homme.
+
+Tags: Amazon, Politique, une

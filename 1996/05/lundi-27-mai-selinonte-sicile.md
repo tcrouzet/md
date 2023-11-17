@@ -29,3 +29,5 @@ Depuis la Renaissance, la peinture représentait un monde continu : du premier 
 ---
 
 Je me retrouve au milieu d’un amas de blocs millénaires, ébranlés depuis si longtemps, effondrés comme un jeu de cartes. Inutile de défier les dieux. Assis au creux d’un temple, là où les prêtres devaient prier, je ne ressens rien, à croire que leurs invocations n’ont pas le pouvoir de faire se dresser les pierres. Les dieux ne survivent-ils pas d’une façon fantomatique ? L’homme de ses prières n’engendre-t-il pas des phénomènes mystérieux, phénomènes qui survivent aux prières, mais pas suffisamment. Alors les dieux aussi meurent.
+
+Tags: Pensé de Sicile

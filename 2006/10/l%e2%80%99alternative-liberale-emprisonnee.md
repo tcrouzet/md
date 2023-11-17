@@ -12,6 +12,8 @@ Je crois qu’une alternative politique est possible, je crois qu’elle sera li
 
 On peut faire autrement, Alternative Libérale doit faire autrement, sinon ce ne sera que de la vieille politique.
 
-*PS1 : Croire qu’il faut à tout prix un staff et une structure pour organiser les choses est une idée reçue. Il faut s’inspirer des méthodes de Dee Hock. La biosphère a très bien fonctionné jusqu’ici sans staff.*
+*PS1 : Croire qu’il faut à tout prix un staff et une structure pour organiser les choses est une idée reçue. Il faut s'inspirer des méthodes de Dee Hock. La biosphère a très bien fonctionné jusqu’ici sans staff.*
 
 *PS2 : Alternative Libérale a choisi une structure classique parce que c’est la seule légalement reconnue pour faire de la politique, pour récupérer de l’argent… Je pense qu’il faut passer outre de ce qui existe pour vraiment changer les choses, sinon ce ne sera toujours que du replâtrage*
+
+Tags: Politique

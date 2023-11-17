@@ -6,9 +6,9 @@ D’abord, il faut remonter à l’origine du mal. Nous devons sans doute entrep
 
 En quelque sorte, nous sommes passés du nomadisme numérique (dont j’ai fait l’éloge dans *L’alternative nomade*) à la sédentarisation numérique. Pourquoi donc le Web s’est-il centralisé ?
 
-1. La première raison est mécanique : c’est à cause de [la loi winner-take-all](https://tcrouzet.com/2014/11/01/sans-gouvernance-internet-devient-une-dictature/), qui dans les réseaux tend à favoriser des acteurs géants.
+1. La première raison est mécanique : c’est à cause de [la loi winner-take-all](http://tcrouzet.com/2014/11/01/sans-gouvernance-internet-devient-une-dictature/), qui dans les réseaux tend à favoriser des acteurs géants.
 
-2. La deuxième raison est technique. Le Net n’a jamais été neutre, nous autres internautes n’avons pas accès aux [protocoles multicast](https://tcrouzet.com/2014/05/02/la-neutralite-du-net-mauvais-combat/) : contrairement aux providers, nous ne pouvons pas faire en sorte qu’un internaute qui reçoit un de nos contenus le tienne à disposition des autres internautes (ce que le P2P nous permet de simuler). Il nous faut chaque fois renvoyer le tout. Voilà pourquoi nous diffusons nos vidéos sur YouTube. En voulant économiser notre bande passante, nous créons les géants du Net.
+2. La deuxième raison est technique. Le Net n’a jamais été neutre, nous autres internautes n’avons pas accès aux [protocoles multicast](http://tcrouzet.com/2014/05/02/la-neutralite-du-net-mauvais-combat/) : contrairement aux providers, nous ne pouvons pas faire en sorte qu’un internaute qui reçoit un de nos contenus le tienne à disposition des autres internautes (ce que le P2P nous permet de simuler). Il nous faut chaque fois renvoyer le tout. Voilà pourquoi nous diffusons nos vidéos sur YouTube. En voulant économiser notre bande passante, nous créons les géants du Net.
 
 3. La troisième raison est bien sûr financière. En l’absence de multicast, pour diffuser les contenus de millions d’internautes, il faut disposer de gigantesques fermes de serveurs avec une gigantesque bande passante.
 
@@ -30,10 +30,12 @@ Je suis conscient d’ainsi opposer bien peu de résistance à la massification,
 
 ### Le côté cuisine
 
-J’ai exporté en OPLM la liste des sites que je suis dans [Feedly](https://feedly.com), je l’ai importée dans la blogroll de WordPress et j’ai réactivé [la page qui affiche cette blogroll](https://tcrouzet.com/blogroll/).
+J’ai exporté en OPLM la liste des sites que je suis dans [Feedly](https://feedly.com), je l’ai importée dans la blogroll de WordPress et j’ai réactivé [la page qui affiche cette blogroll](http://tcrouzet.com/blogroll/).
 
 J’ai par ailleurs ajouté un lien vers les amis à la fin de mon menu, ainsi que quand les lecteurs cliquent sur les **•••** associés à chacun de mes billets.
 
 Ce n’est pas grand-chose, mais si nous prenions tous l’habitude de faire de même, sans doute que nous rouvririons bien des routes que les broussailles sont en train d’envahir.
 
 On pourrait presque imaginer un bouton qui deviendrait aussi universel que celui ouvrant les menus et qui pointerait vers la liste des amis. Un bouton qui serait bien visible, une incitation immédiate au vagabondage.
+
+Tags: NetCulture, une

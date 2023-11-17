@@ -11,3 +11,5 @@ Je crois à la liberté, je crois que de temps à autres nous pouvons nous arrac
 Si les gauchistes ont tendance à négliger cette possibilité de la liberté, cette chance que nous avons de temps à autre de couper le fil des causes et des effets pour introduire dans le monde des nouveautés radicales, les libéraux ont tendance à négliger l’interdépendance qui nous lie les uns aux autres et nous rend responsables les uns des autres.
 
 Parce que je crois à la liberté, je ne suis pas un gauchiste. Parce que je prends en compte l’interdépendance, je ne suis pas un libéral. Voilà pourquoi je me définis comme un connecteur : un homme libre d’établir de nouvelles connexions dans le vaste réseau de notre humanité.
+
+Tags: Connecteur

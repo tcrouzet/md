@@ -26,33 +26,33 @@ J’ai toujours fait le contraire de mon père pour finir par découvrir que je 
 
 Design district. Sorte de mall à ciel ouvert où les marques de luxe ont ouvert leurs échoppes. Architecture plaisante, mais le concept est déprimant, d’autant qu’après nous roulons jusqu’à un restaurant conseillé par le Lonely Planet, l’odeur me noue immédiatement le ventre, il y fait si sombre que nous devons éclairer les menus avec nos portables, je ne commande rien, je sors marcher le long de l’US1, remonte un chaos de bouibouis, de motels, un désordre périurbain qui répond à ma confusion mentale. Qu’est-ce que je fous là ? Pourquoi je m’impose ça ? Pourquoi je l’accepte ?
 
-![Art District](https://tcrouzet.com/images_tc/2018/11/P1070811.jpg)
+![Art District](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070811-600x450.jpg)
 
-![Art District](https://tcrouzet.com/images_tc/2018/11/P1070818.jpg)
+![Art District](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070818-600x450.jpg)
 
-![Art District](https://tcrouzet.com/images_tc/2018/11/P1070822.jpg)
+![Art District](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070822-600x450.jpg)
 
-![Art District](https://tcrouzet.com/images_tc/2018/11/P1070825.jpg)
+![Art District](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070825-600x450.jpg)
 
-![Art District](https://tcrouzet.com/images_tc/2018/11/P1070836.jpg)
+![Art District](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070836-600x450.jpg)
 
-![Art District](https://tcrouzet.com/images_tc/2018/11/P1070866.jpg)
+![Art District](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070866-600x450.jpg)
 
 ### Dimanche 6, Key Biscayne
 
-![Iguane](https://tcrouzet.com/images_tc/2018/11/P1070902-1.jpg)
+![Iguane](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070902-1-600x450.jpg)
 
 ### Lundi 6, Weston
 
-Le vélo urbain est un enfer quand la ville néglige les cyclistes. Je fais une sortie de presque 90 km en sautant de trottoir en trottoir, la tête à toujours scruter les routes autour de moi aux innombrables croisements. Je finis par oublier où je mets mes roues et nouvelle gamelle. Je ne pédale pas, je broie du noir, maudissant cette Floride où les automobilistes sont d’une violence rare, où tout est conçu pour la voiture. J’atteins finalement Hollywood Beach, sa piste cyclable en bord d’océan, deux malheureux miles prévus pour déambuler où des vieux beaux font du roller blade. La plage est brûlante, impression d’être de retour dans le Midi en juillet. Je me sens mieux dès que je suis au contact de l’eau. Déjà à quelques kilomètres du rivage, l’air et le ciel changent de texture et je respire enfin avec plaisir.
+Le vélo urbain est un enfer quand la ville néglige les cyclistes. Je fais une sortie de presque 90 km en sautant de trottoir en trottoir, la tête à toujours scruter les routes autour de moi aux innombrables croisements. Je finis par oublier où je mets mes roues et nouvelle gamelle. Je ne pédale pas, je broie du noir, maudissant cette Floride où les automobilistes sont d’une violence rare, où tout est conçu pour la voiture. J’atteins finalement Hollywood Beach, sa piste cyclable en bord d'océan, deux malheureux miles prévus pour déambuler où des vieux beaux font du roller blade. La plage est brûlante, impression d’être de retour dans le Midi en juillet. Je me sens mieux dès que je suis au contact de l’eau. Déjà à quelques kilomètres du rivage, l’air et le ciel changent de texture et je respire enfin avec plaisir.
 
-![Hollywood Beach](https://tcrouzet.com/images_tc/2018/11/IMG_1859.jpg)
+![Hollywood Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/IMG_1859-600x450.jpg)
 
 ---
 
 Isa a repéré une publicité pour l’université locale : « Don’t just graduate. Dominate. » De quoi avoir la pétoche. Il ne s’agit plus d’étudier pour l’édification de soi, mais pour écraser les autres. La revendication est on ne peu plus claire. Plus de honte à afficher ses intentions. Un résumé de notre temps de guerre. Battez-vous, écrasez-vous. Je ressens cette tension sur les routes de Floride. Tu traverses au passage piéton, les voitures foncent tout de même sur toi en klaxonnant, tout ça parce qu’elles ont droit de tourner à gauche ou à droite et que les conducteurs se fichent de ta priorité.
 
-![NSU](https://tcrouzet.com/images_tc/2018/11/f68c4038-74d4-4ad7-9c42-d9ed249cc1bc.jpg)
+![NSU](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/f68c4038-74d4-4ad7-9c42-d9ed249cc1bc-600x450.jpg)
 
 ### Mardi 7, Weston
 
@@ -68,7 +68,7 @@ Je pars faire un petit tour de vélo en solo avec l’idée de ne pas maltraiter
 
 ### Vendredi 9, Weston
 
-[Avec son analogie du Tuperware](https://ploum.net/le-paradoxe-du-tupperware/), Lionel Dricot nous explique pourquoi le marketing est l’antithèse du progrès, et pourquoi les marketeux sont nocifs. J’infère que nous autres auteurs sommes nocifs quand nous voulons à tout prix vendre nos livres. Nous nous fichons du bien de nos lecteurs, nous ne désirons que les forcer à nous célébrer. Nous nous rêvons des divinités. Nous ne sommes que des prétentieux.
+[Avec son analogie du Tuperware](https://ploum.net/le-paradoxe-du-tupperware/), Lionel Dricot nous explique pourquoi le marketing est l’antithèse du progrès, et pourquoi les marketeux sont nocifs. J'infère que nous autres auteurs sommes nocifs quand nous voulons à tout prix vendre nos livres. Nous nous fichons du bien de nos lecteurs, nous ne désirons que les forcer à nous célébrer. Nous nous rêvons des divinités. Nous ne sommes que des prétentieux.
 
 ---
 
@@ -84,7 +84,7 @@ Repas hier soir avec une bande de Français, parce que la gravitation communauta
 
 ---
 
-Dans les parcs à l’est de Weston, le soleil se couche, on se croirait dans le Lot-et-Garonne fin août. Lumière ambrée, température parfaite, nous entrons dans une carte postale, surtout lorsque nous longeons un canal arboré, le franchissons par un pont, puis le retrouvons plus tard, le franchissons à nouveau, eaux plates où se reflètent des banians, où stagnent d’énormes poissons, quelques nénuphars. Illusion de perfection ! Nous vivons de petits moments magiques quand nous réussissons à ne pas penser, à juste attraper ce qui s’offre à nous. Dans un an, j’écrirai un récit floridien enjoué. Mon caveau a le don d’oublier les mauvaises expériences.
+Dans les parcs à l'est de Weston, le soleil se couche, on se croirait dans le Lot-et-Garonne fin août. Lumière ambrée, température parfaite, nous entrons dans une carte postale, surtout lorsque nous longeons un canal arboré, le franchissons par un pont, puis le retrouvons plus tard, le franchissons à nouveau, eaux plates où se reflètent des banians, où stagnent d’énormes poissons, quelques nénuphars. Illusion de perfection ! Nous vivons de petits moments magiques quand nous réussissons à ne pas penser, à juste attraper ce qui s’offre à nous. Dans un an, j'écrirai un récit floridien enjoué. Mon caveau a le don d’oublier les mauvaises expériences.
 
 ---
 
@@ -108,7 +108,7 @@ Ne plus poster sur les réseaux sociaux, me contenter de commenter, de glisser d
 
 Je commence [*East and West*](https://www.amazon.fr/Sud-Ouest-Carnets-Joan-Didion/dp/2246814588/) de Joan Didion. Son voyage en Louisiane. Elle évoque son premier séjour dans le sud, des souvenirs remontent de l’enfance. Mon lien avec la Floride est ténu. J’avais un cousin qui y venait souvent durant les années 1980. Je l’aimais beaucoup, il avait dix ans de moins que mon père, il était comme son petit frère. Un déconneur, toujours avec des voitures de sport et des filles sublimes. À Miami, je suppose qu’il avait des amis guère recommandables. À cette époque, la pègre tenait la ville. Mon cousin m’a souvent parlé des immeubles indéfiniment déroulés le long de la côte. J’aurais dû me méfier, peut-être que je me suis laissé abuser par une voix ressurgie de mon passé. Ce cousin est mort depuis longtemps. Je l’évoque dans *Mon père était un tueur*.
 
-![Au travers du store](https://tcrouzet.com/images_tc/2018/11/P1070911.jpg)
+![Au travers du store](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070911-600x450.jpg)
 
 ### Lundi 12, Weston
 
@@ -130,7 +130,7 @@ Un quotidien passé à se battre pour que les enfants bougent davantage, un quot
 
 ---
 
-J’entrais dans les librairies pour découvrir des livres au hasard. Aujourd’hui, je fais encore confiance au hasard. Je repense à [*Pardon pour l’Amérique*](https://www.amazon.fr/Pardon-pour-lAm%C3%A9rique-Philippe-Rahmy/dp/2710389282/) de [Philippe Rahmy](https://fr.wikipedia.org/wiki/Philippe_Rahmy). Je ne peux pas dire que ce texte m’a émerveillé, mais il m’a donné à réfléchir, à vivre, m’a poussé dehors. Je ne demande rien de plus à un texte. Si je le trouve trop beau, je m’y noie, je n’en retire rien, sinon le moment où je m’y agite pour regagner la surface. J’aime les textes rugueux et qui m’arrêtent. La fluidité est suspicieuse.
+J’entrais dans les librairies pour découvrir des livres au hasard. Aujourd’hui, je fais encore confiance au hasard. Je repense à [*Pardon pour l'Amérique*](https://www.amazon.fr/Pardon-pour-lAm%C3%A9rique-Philippe-Rahmy/dp/2710389282/) de [Philippe Rahmy](https://fr.wikipedia.org/wiki/Philippe_Rahmy). Je ne peux pas dire que ce texte m’a émerveillé, mais il m’a donné à réfléchir, à vivre, m’a poussé dehors. Je ne demande rien de plus à un texte. Si je le trouve trop beau, je m’y noie, je n’en retire rien, sinon le moment où je m’y agite pour regagner la surface. J’aime les textes rugueux et qui m’arrêtent. La fluidité est suspicieuse.
 
 Donc je repense au bouquin de Rahmy. Je lance une requête « Books about Florida », me disant que voir la Floride par les yeux des autres m’aidera à la voir différemment. Voilà comment je découvre que Joan Didion a écrit un *Miami* et qu’elle a publié l’année dernière [*East and West*](https://www.amazon.fr/Sud-Ouest-Carnets-Joan-Didion/dp/2246814588/). Alors je regarde si je n’ai pas ce texte sur mon disque dur, j’ai tant de textes, une requête « Joan Didion » me fait remonter je ne sais pourquoi le journal de Joyce Carol Oates, en VF. Ma vie intérieure ne tient à rien. Je ne décide rien. Je suis un esquif sans gouvernail, sans rames, sans voile. J’attends d’être poussé sur une plage paradisiaque.
 
@@ -158,25 +158,25 @@ La fraîcheur s’est soudain abattue sur la Floride. Pas plus de 15 ce matin et
 
 ### Dimanche 18, Key West
 
-Lâché par Isa et les enfants à 100 km de Key West, je pédalé les rejoindre tout au bout des USA, la piste cyclable croisant sans cesse le flot ininterrompu de l’US1. Parfois une simple bande délimitée à la peinture sur le bord de la route, notamment sur le Seven Miles Bridge que j’avale à plus de 40 de moyenne.
+Lâché par Isa et les enfants à 100 km de Key West, je pédalé les rejoindre tout au bout des USA, la piste cyclable croisant sans cesse le flot ininterrompu de l'US1. Parfois une simple bande délimitée à la peinture sur le bord de la route, notamment sur le Seven Miles Bridge que j'avale à plus de 40 de moyenne.
 
-Coup de barre monstre après 90 km. Je fais le plein de Gatorade dans une station-service. Me voilà reboosté. Je longe la mer, des marinas, traverse des rues avec des maisons aux jardins luxuriants. À côté de l’hôtel se dresse un gigantesque banian, aussi large que haut, dont il est difficile de savoir s’il a jailli ainsi du sol, ou si ses branches sont retournées à la terre. Un peu plus loin, un kapok, arbre sacré des Mayas, me fait penser à l’arbre de Game of Thrones ou à un Ent. Les enfants, eux, voient dans son tronc un sexe féminin.
+Coup de barre monstre après 90 km. Je fais le plein de Gatorade dans une station-service. Me voilà reboosté. Je longe la mer, des marinas, traverse des rues avec des maisons aux jardins luxuriants. À côté de l'hôtel se dresse un gigantesque banian, aussi large que haut, dont il est difficile de savoir s'il a jailli ainsi du sol, ou si ses branches sont retournées à la terre. Un peu plus loin, un kapok, arbre sacré des Mayas, me fait penser à l'arbre de Game of Thrones ou à un Ent. Les enfants, eux, voient dans son tronc un sexe féminin.
 
-J’en reviens toujours aux arbres, aux nuages de Floride, leur ajoutant ici des maisons à claire-voie, leurs persiennes inclinées rappelant une douceur d’avant la climatisation. Mais au moindre pas de travers, je franchis l’entrée du centre commercial de Duval Street.
+J'en reviens toujours aux arbres, aux nuages de Floride, leur ajoutant ici des maisons à claire-voie, leurs persiennes inclinées rappelant une douceur d'avant la climatisation. Mais au moindre pas de travers, je franchis l'entrée du centre commercial de Duval Street.
 
-![Route des keys à vélo](https://tcrouzet.com/images_tc/2018/11/IMG_1938.jpg)
+![Route des keys à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/IMG_1938-600x450.jpg)
 
-![Banian](https://tcrouzet.com/images_tc/2018/11/P1070926.jpg)
+![Banian](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070926-600x450.jpg)
 
-![Banian house](https://tcrouzet.com/images_tc/2018/11/P1070931.jpg)
+![Banian house](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070931-600x450.jpg)
 
-![Kapok](https://tcrouzet.com/images_tc/2018/11/P1070939.jpg)
+![Kapok](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070939-600x450.jpg)
 
 ---
 
-J’écris sur mon téléphone avec un clavier Bluetooth commandé en Chine pour 20 $. Je n’ai pas trouvé plus simple comme atelier d’écriture ultraléger pour les voyage, et dans l’idée de randonnées à vélo. Que rêver de mieux ? Pas besoin d’ordi, ou même d’iPad. Un téléphone de toute façon dans ma poche, cent grammes de plus pour ce clavier qui se déplie en trois, avec un touché plus que convenable. *Manifeste pour une électronique frugale*.
+J’écris sur mon téléphone avec un clavier Bluetooth commandé en Chine pour 20 $. Je n’ai pas trouvé plus simple comme atelier d’écriture ultraléger pour les voyage, et dans l’idée de randonnées à vélo. Que rêver de mieux ? Pas besoin d'ordi, ou même d'iPad. Un téléphone de toute façon dans ma poche, cent grammes de plus pour ce clavier qui se déplie en trois, avec un touché plus que convenable. *Manifeste pour une électronique frugale*.
 
-![Ma machine à écrire](https://tcrouzet.com/images_tc/2018/12/P1080075.jpg)
+![Ma machine à écrire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/P1080075-600x450.jpg)
 
 ### Lundi 19, Key West
 
@@ -192,11 +192,11 @@ Je me vois visitant ma propre maison transformée après ma mort en musée. Je n
 
 Retour en voiture par la route des Keys. Nous déroulons une bande blanche entre des bleus blondis par les sables, des aigues-marines virant aux turquoises, des verts bouteille se perdant dans l’azur. Nous nous arrêtons aux pieds de l’ancien pont de chemin de fer de Bahia Honda. Une idée de ce que pourrait être la fin de notre civilisation, une route détruite comme on en voit dans les films postapocalyptiques, des iguanes à l’affût dans les buissons, la nature irradiée reprenant le dessus.
 
-![Bahia Honda Bridge](https://tcrouzet.com/images_tc/2018/11/P1070969.jpg)
+![Bahia Honda Bridge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070969-600x450.jpg)
 
-![Old bridge](https://tcrouzet.com/images_tc/2018/11/P1070975.jpg)
+![Old bridge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070975-600x450.jpg)
 
-![Old bridge](https://tcrouzet.com/images_tc/2018/11/P1070985.jpg)
+![Old bridge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1070985-600x450.jpg)
 
 ### Mardi 20, Weston
 
@@ -204,9 +204,9 @@ Hemingway écrit dans une lettre : « The hardest thing in the world to do is 
 
 ### Mercredi 21, Everglades
 
-![Sawgrass](https://tcrouzet.com/images_tc/2018/11/IMG_1979.jpg)
+![Sawgrass](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/IMG_1979-600x450.jpg)
 
-![Grue](https://tcrouzet.com/images_tc/2018/11/IMG_1987.jpg)
+![Grue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/IMG_1987-600x450.jpg)
 
 ### Jeudi 22, Weston
 
@@ -222,17 +222,17 @@ Il suffit de coder pour comprendre l’origine du [*junk DNA*](https://fr.wikipe
 
 ### Samedi 24, Weston
 
-![Matin](https://tcrouzet.com/images_tc/2018/11/IMG_0503.jpg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/IMG_0503-600x450.jpg)
 
 ### Dimanche 25, Weston
 
 J’en ai terminé avec la remise en forme du blog, la simplification du code, aussi de l’interface, du moins il est plus en accord avec ce que je veux faire : publier mon carnet, des livres, travailler à des séries. [*Born to Bike*](https://tcrouzet.com/borntobike/) ressemblera à un livre, diffusé par chapitre, à lire dans l’ordre chronologique. Impression que ce travail technique a dévoré novembre, que je n’ai pas vécu, ou peu. La technique a toujours cet effet pernicieux sur moi. Je devrais la détester, je n’y arrive pas, pourtant elle me montre son fond pervers. Je ne suis pas sûr que les autres techniciens soient mieux protégés que moi. La technique dévore ses producteurs avant de dévorer ses utilisateurs, dans les deux cas dans l’espoir d’un monde meilleur, d’une vie meilleure. Il ne faut pas hésiter à rire.
 
-![Nouvelle version du blog](https://tcrouzet.com/images_tc/2018/12/P1080068.jpg)
+![Nouvelle version du blog](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/P1080068-600x450.jpg)
 
-![À vélo](https://tcrouzet.com/images_tc/2018/11/P1080048.jpg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1080048-600x450.jpg)
 
-![À vélo](https://tcrouzet.com/images_tc/2018/11/P1080061.jpg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/11/P1080061-600x450.jpg)
 
 ### Lundi 26, Weston
 
@@ -250,7 +250,7 @@ Hier matin, au nord-est de Weston, une voiture s’est jetée par-derrière sur 
 
 Je retrouve JP à la porte nord de Savanna pour un périple sur les *levees*. Il m’annonce la mort d’un second cycliste suite à l’accident de dimanche. Il est furieux. Un jour, un camion a foncé sur lui. « Le chauffeur regardait une vidéo sur sa tablette. Je me suis collé à la barrière de sécurité, le camion a même roulé dans l’herbe. Si je n’avais pas été à contre sens, je ne l’aurais pas vu venir. En Floride, les conducteurs ne respectent pas les cyclistes. »
 
-Une fois hors de la ville, nous fonçons sous des nuages bas, poussés par une brise de nord, en direction d’une ligne ambrée entre ciel et terre. Il ne fait que 18°C. Après l’entrée du parc naturel, nous ralentissons. JP me raconte ses vacances de Thanksgiving dans le Tennessee où il a ressorti un fusil japonais récupéré par son grand-père sur le front asiatique durant la Seconde Guerre mondiale. « Cette arme n’avait pas tiré depuis 70 ans. » JP ne l’a utilisée qu’une fois, elle lui a défoncé l’épaule. « J’ai du mal à comprendre comment s’en sortaient les minuscules soldats japonais. »
+Une fois hors de la ville, nous fonçons sous des nuages bas, poussés par une brise de nord, en direction d’une ligne ambrée entre ciel et terre. Il ne fait que 18°C. Après l’entrée du parc naturel, nous ralentissons. JP me raconte ses vacances de Thanksgiving dans le Tennessee où il a ressorti un fusil japonais récupéré par son grand-père sur le front asiatique durant la Seconde Guerre mondiale. « Cette arme n’avait pas tiré depuis 70 ans. » JP ne l’a utilisée qu’une fois, elle lui a défoncé l’épaule. « J'ai du mal à comprendre comment s'en sortaient les minuscules soldats japonais. »
 
 Au retour, nous nous arrêtons pour assister au coucher de soleil. Sous la passerelle où nous nous tenons côte à côte, une bestiole s’agite, provoquant des gargouillis inquiétants. Nous clignons des yeux. Le soleil plonge sous une bande violette, envoyant une teinte rouge vers le ciel trop clair pour s’embraser. Le vent tombe, plus aucun bruit dans les marais. Les animaux diurnes se terrent et les nocturnes se préparent à régner sur le monde.
 
@@ -260,8 +260,10 @@ Ciel limpide ce matin, petit vent du nord vivifiant. La couleur de l’air me t�
 
 ### Vendredi 30, Weston
 
-Gilets jaunes, prix littéraires, je perçois des échos étouffés de la France, sans rien y comprendre, notamment aux gilets jaunes, et même pas envie, cette vague manque de puissante pour arriver jusqu’ici alors que d’autres, plus internationales et universelles, y soufflent avec force, comme les préoccupations climatiques, l’édition génétique, la conquête spatiale. L’éloignement a du bon, il me coupe du bruit local sans me connecter à une autre localité où je ne m’attarderai pas. Je m’enracine d’une autre façon. J’imagine des parcours sur les *levees* avec JP. Nous avons décidé d’explorer la Big Cypress Preserve, un immense territoire inondé en été et qui s’assèche en hiver. J’espère ne plus jamais être une girouette affolée par les vents médiatiques.
+Gilets jaunes, prix littéraires, je perçois des échos étouffés de la France, sans rien y comprendre, notamment aux gilets jaunes, et même pas envie, cette vague manque de puissante pour arriver jusqu’ici alors que d’autres, plus internationales et universelles, y soufflent avec force, comme les préoccupations climatiques, l’édition génétique, la conquête spatiale. L’éloignement a du bon, il me coupe du bruit local sans me connecter à une autre localité où je ne m’attarderai pas. Je m’enracine d’une autre façon. J'imagine des parcours sur les *levees* avec JP. Nous avons décidé d’explorer la Big Cypress Preserve, un immense territoire inondé en été et qui s’assèche en hiver. J’espère ne plus jamais être une girouette affolée par les vents médiatiques.
 
 ---
 
 L’auteur qui dicte ses textes a quelque chose à dire. Moi, j’écris pour penser, pour fabriquer quelque chose que je n’ai pas encore à dire.
+
+Tags: Carnets, une

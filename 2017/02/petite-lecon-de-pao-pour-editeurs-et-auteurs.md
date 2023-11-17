@@ -69,3 +69,5 @@ Depuis InDesign, je fais une exportation PDF, la même qui sera envoyée à l’
 Mon texte corrigé est réimporté dans InDesign (ça prend donc deux secondes), les problèmes de maquettes qui ne concernent pas le texte sont ajustés et le travail est terminé.
 
 Si les maquettistes utilisaient cette technique jamais ils ne devraient se plaindre quand un auteur veut faire des corrections. Une fois un gabarit InDesign défini et compatible avec Markdown, il faut moins de cinq minutes pour monter, ou remonter, un livre entier.
+
+Tags: Cuisine, Ulysses, une

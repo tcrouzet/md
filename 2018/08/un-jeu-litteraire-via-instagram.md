@@ -15,3 +15,5 @@ Alors une autre idée m’est venue. Une app qui, quand le mobile serait tiré d
 Les possibilités sont infinies. Une IA serait sans doute mieux apte à produire de tels textes que moi. Alors j’ai pensé à une autre possibilité. Imaginé un hashtag sur Instagram, par exemple [**\#LandTC**](https://www.instagram.com/explore/tags/LandTC/), que les internautes utiliseraient pour envoyer une photo, en indiquant leur localisation et d’autres informations, à partir desquelles je m’amuserais à écrire un texte. Pas besoin de développer un app finalement, juste transformer Instagram en source d’inspiration. Le texte serait alors posté en réponse sur Instagram, bien sûr, et un dialogue pourrait commencer. Mieux, les textes connecteraient les photos les unes aux autres pour leur faire raconter une histoire. Mieux encore : d’autres auteurs pourraient jouer.
 
 Je vais scruter [**\#LandTC**](https://www.instagram.com/explore/tags/LandTC/) pour voir si ça m’inspire.
+
+Tags: NetLittérature, une

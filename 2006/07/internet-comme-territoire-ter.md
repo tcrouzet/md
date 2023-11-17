@@ -1,6 +1,6 @@
 # Internet comme territoire, ter
 
-Voici un second jeu de réponses à d’autres objections.
+Voici un second jeu de réponses à d'autres objections. 
 
 1/ Quand on parle d’une chose, l’important est de se comprendre à peu près, la compréhension totale et définitive est illusoire voilà pourquoi s’acharner à définir est une perte de temps. Une définition ne peut être clôturée. Les concepts complexes comme « conscience », et sans doute « nation » ou « État », n’ont jamais été définis de façon absolue. Il suffit pour s’en convaincre de feuilleter plusieurs dictionnaires. Si définir était possible, il n’existerait pas, pour chaque langue, plusieurs dictionnaires concurrents. Voilà ce que m’a appris Wittgenstein que j’ai lu assidument pendant trois ans. Je conseille notamment [*Le cahier bleu*](http://www.amazon.fr/gp/product/2070772438/402-5334915-1934535?v=glance&n=301061).<span id="more-162"></span>
 
@@ -10,7 +10,7 @@ Voici un second jeu de réponses à d’autres objections.
 
 4/ Si internet est un nouveau territoire, il lui faut une nouvelle constitution (à ce moment de la réflexion sa nature importe peu). Internet ne se substituant pas aux territoires physiques, la nouvelle constitution ne se substituera pas à celles des territoires physiques. Voilà pourquoi j’évoque la double-nationalité. On peut imaginer que les constitutions convergeront un jour mais c’est une autre affaire. Cette histoire de constitution n’est vraiment pas importante tant que nous ne sommes pas sûrs qu’internet dépasse le cadre des médias.
 
-5/ Ma position sur les IA est claire. J’en ai parlé dans [Cosmists vs Terrans](https://tcrouzet.com/2006/06/09/cosmists-vs-terrans/). Les IA auront les mêmes droits que nous. Et si elles s’avèrent plus aptes que nous à gérer le monde elles le gèreront. Les hommes ne sont en aucune manière le sommet de l’évolution. Ce qui importe c’est que l’aventure de la conscience se poursuive. À long terme, son support matériel importe peu car tout support est destiné à se déliter. Nous savons d’ailleurs que vouloir protéger une espèce à tout-prix est le meilleur moyen de l’affaiblir. J’ai discuté de ce point dans *Le peuple des connecteurs*.
+5/ Ma position sur les IA est claire. J’en ai parlé dans [Cosmists vs Terrans](http://blog.tcrouzet.com/2006/06/09/cosmists-vs-terrans/). Les IA auront les mêmes droits que nous. Et si elles s’avèrent plus aptes que nous à gérer le monde elles le gèreront. Les hommes ne sont en aucune manière le sommet de l’évolution. Ce qui importe c’est que l’aventure de la conscience se poursuive. À long terme, son support matériel importe peu car tout support est destiné à se déliter. Nous savons d’ailleurs que vouloir protéger une espèce à tout-prix est le meilleur moyen de l’affaiblir. J’ai discuté de ce point dans *Le peuple des connecteurs*.
 
 6/ Qui aura le pouvoir sur internet ? Comment se répartira-t-il ? Ce n’est pas un réel problème. Dans un monde complexe, l’exercice du pouvoir par le sommet devient impossible.
 
@@ -19,3 +19,5 @@ Voici un second jeu de réponses à d’autres objections.
 8/ Internet est un territoire comme un autre, il connaît son lot d’atrocité. Internet n’est pas un monde idéal. Il nous montre juste de nouvelles façons de nous organiser, façons qui sont sans doute les seules qui nous permettront de régler les grands problèmes auxquels fait face le monde physique (pollution, changement climatique, pauvreté…). Nous devons nous en inspirer comme nous devons nous inspirer des solutions expérimentées par la nature depuis 4 milliards d’années sur Terre.
 
 9/ Internet n’est pas un espace chaotique mais un espace auto-organisé. Il se situe entre l’ordre et le chaos, au point de transition de phase entre les deux états. Il faut à tout-prix le maintenir à ce point propice aux inventions. Mais nous voyons nos gouvernements essayer de l’ordonner, essayer d’en restreindre la liberté. Ils veulent le tuer car, par sa vitalité, il ridiculise les initiatives globalisantes qui se répandent sur les territoires physiques. Oui, internet peut être vu comme un territoire spirituel, le territoire de la conscience planétaire.
+
+Tags: Politique

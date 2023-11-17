@@ -106,7 +106,7 @@ Nous terminons la journée au sommet du champ d’éoliennes de la Serre de Mont
 
 Départ au levé du jour. Nous plongeons vers Villegly, où nous nous ravitaillons dans la boulangerie. Une cliente nous conseille la boulangerie suivante, où on peut s’asseoir. Je lui demande pourquoi elle n’y va pas. Sourire gêné. Deux des copains suivent son conseil et s’en mordent les doigts. Nous autres, au contraire, dégustons un flan tout droit sorti du four. Un must.
 
-Nous continuons la descente, façon de parler, jusqu’à Trèbes, où le salon de thé anglais est malheureusement fermé, buvons des cafés et des jus d’orange sur le quai, puis partons à fond de train le long du canal du Midi. Nous le quittons pour entrer dans les Corbières. Les terrains deviennent plus rugueux, mais encore gravel. Nous passons Cornihac et Foncouverte, déjeunons à Fabrezan. Après Thézhan, les choses se compliquent franchement, malgré les lignes de collines à perte de vue jusqu’aux Pyrénées, avec entre nous et elles le signal d’Alaric. Faut que je trouve un autre passage.
+Nous continuons la descente, façon de parler, jusqu’à Trèbes, où le salon de thé anglais est malheureusement fermé, buvons des cafés et des jus d’orange sur le quai, puis partons à fond de train le long du canal du Midi. Nous le quittons pour entrer dans les Corbières. Les terrains deviennent plus rugueux, mais encore gravel. Nous passons Conilhac et Fontcouverte, déjeunons à Fabrezan. Après Thézhan, les choses se compliquent franchement, malgré les lignes de collines à perte de vue jusqu’aux Pyrénées, avec entre nous et elles le signal d’Alaric. Faut que je trouve un autre passage.
 
 Après Fontjoncouse, un petit passage en descente peut forcer à mettre pied à terre, mais nous glissons sans difficulté jusqu’à Villesèque (même si un single s’est refermé durant l’été). En suite, belle montée par la piste jusqu’au pla de la Devèze. Nouveau champ d’éoliennes, avant une longue descente qui mène au-dessus de Sigean et au pied de la Garrigue Haute, où se trouve un nouveau parc éolien. Montée difficile, descente rugueuse. Encore un secteur à revoir. Le dernier point noir du parcours selon moi.
 
@@ -179,3 +179,5 @@ Tout le monde semble heureux (et les déçus ne sont pas là, mais j’écoutera
 ![](https://tcrouzet.com/images_tc/2023/09/g727stats.png)
 
 À titre de comparaison, [lors du i727 2022 (avec une journée sous la neige)](https://tcrouzet.com/2022/04/07/bikepacking-tempetueux-dans-lherault/), la moyenne effective était de 12,9 km/h pour une distance de seulement 480 km et un dénivelé identique. Voilà qui démontre que le g727 est beaucoup plus roulant qu’un i727 (et donc davantage gravel).
+
+Tags: 727, Bikepacking, Born to Bike, Gravel, une

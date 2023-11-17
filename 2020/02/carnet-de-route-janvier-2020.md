@@ -4,23 +4,23 @@
 
 ### Mercredi 1<sup>er</sup>, Balaruc
 
-L’année commence dans la clarté avec l’impératif d’explorer cette transparence.
+L'année commence dans la clarté avec l'impératif d'explorer cette transparence.
 
-![Thau](https://tcrouzet.com/images_tc/2020/02/IMG_8405.jpeg)
+![Thau](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8405.jpeg)
 
-![Sète](https://tcrouzet.com/images_tc/2020/02/IMG_8408.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8408.jpeg)
 
-![Marseillan](https://tcrouzet.com/images_tc/2020/02/IMG_8423.jpeg)
+![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8423.jpeg)
 
-![Phare des Onglous](https://tcrouzet.com/images_tc/2020/02/IMG_8424.jpeg)
+![Phare des Onglous](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8424.jpeg)
 
-![Phare des Onglous](https://tcrouzet.com/images_tc/2020/02/IMG_8430.jpeg)
+![Phare des Onglous](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8430.jpeg)
 
-![Un final en beauté](https://tcrouzet.com/images_tc/2020/02/IMG_8444.jpeg)
+![Un final en beauté](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8444.jpeg)
 
-![Un final en beauté](https://tcrouzet.com/images_tc/2020/02/IMG_8445.jpeg)
+![Un final en beauté](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8445.jpeg)
 
-![Un final en beauté](https://tcrouzet.com/images_tc/2020/02/P1100757.jpeg)
+![Un final en beauté](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/P1100757.jpeg)
 
 ### Jeudi 2, Balaruc
 
@@ -28,35 +28,35 @@ Dans le premier texte *D’un certain Lucas*, Cortázar compare son héros à un
 
 ### Vendredi 3, Balaruc
 
-![Un envahisseur](https://tcrouzet.com/images_tc/2020/02/P1100770.jpeg)
+![Un envahisseur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/P1100770.jpeg)
 
 ### Dimanche 5, Balaruc
 
-Temps sublime. Je manque une grande boucle gravel à cause d’un problème mécanique. Alors je m’en vais marcher en garrigue, impression d’être avec Calvino, sur un chemin parallèle au sien. Sa *Route de San Giovanni* préfigure la trace, c’est un méticuleux récit de pérégrination comme j’aime les vivre pour les écrire. En nous racontant son chemin, Calvino nous donne envie de le suivre comme Stevenson dans les Cévennes. Balayant l’horizon je découvre les Pyrénées, le Ventoux et le Haut-Languedoc.
+Temps sublime. Je manque une grande boucle gravel à cause d’un problème mécanique. Alors je m’en vais marcher en garrigue, impression d’être avec Calvino, sur un chemin parallèle au sien. Sa *Route de San Giovanni* préfigure la trace, c’est un méticuleux récit de pérégrination comme j’aime les vivre pour les écrire. En nous racontant son chemin, Calvino nous donne envie de le suivre comme Stevenson dans les Cévennes. Balayant l'horizon je découvre les Pyrénées, le Ventoux et le Haut-Languedoc.
 
-![Pyrénées](https://tcrouzet.com/images_tc/2020/02/P1100789.jpeg)
+![Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/P1100789.jpeg)
 
-![En Gardiole](https://tcrouzet.com/images_tc/2020/02/IMG_8501.jpeg)
+![En Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8501.jpeg)
 
-![En Gardiole](https://tcrouzet.com/images_tc/2020/02/IMG_8515.jpeg)
+![En Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8515.jpeg)
 
-![Frontignan](https://tcrouzet.com/images_tc/2020/02/IMG_8529.jpeg)
+![Frontignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8529.jpeg)
 
-![Fin de balade](https://tcrouzet.com/images_tc/2020/02/IMG_8534.jpeg)
+![Fin de balade](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8534.jpeg)
 
-![Fin de balade](https://tcrouzet.com/images_tc/2020/02/P1100802-1.jpeg)
+![Fin de balade](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/P1100802-1.jpeg)
 
 ### Mercredi 8, Maguelone
 
-![À vélo](https://tcrouzet.com/images_tc/2020/02/IMG_8551-1.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8551-1.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/02/IMG_8554-1.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8554-1.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/02/IMG_8557-1.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8557-1.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/02/IMG_8572-1.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8572-1.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/02/IMG_8575.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8575.jpeg)
 
 ### Jeudi 9, Balaruc
 
@@ -64,13 +64,13 @@ Je me suis mis à lire le Stevenson dans les Cévennes. Il parle de son ânesse 
 
 ### Lundu 13, La Grande-Motte
 
-![Canal du Rhône à Sète](https://tcrouzet.com/images_tc/2020/02/IMG_8626.jpeg)
+![Canal du Rhône à Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8626.jpeg)
 
-![Canal du Rhône à Sète](https://tcrouzet.com/images_tc/2020/02/IMG_8630.jpeg)
+![Canal du Rhône à Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8630.jpeg)
 
-![Canal de Lunel](https://tcrouzet.com/images_tc/2020/02/IMG_8638.jpeg)
+![Canal de Lunel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8638.jpeg)
 
-![Lunel](https://tcrouzet.com/images_tc/2020/02/IMG_8648.jpeg)
+![Lunel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8648.jpeg)
 
 ### Mardi 14, Balaruc
 
@@ -80,9 +80,9 @@ Depuis une semaine, je me suis mis à écrire un roman, soixante mille signes, s
 
 J’envoie mon texte à Pierre, je veux son avis, c’est comme si un autre l’avait écrit et que je l’avais trouvé. Je n’ai pas eu le temps d’y penser, de le rêver, il s’impose presque trop vite.
 
-![Soir](https://tcrouzet.com/images_tc/2020/02/IMG_8679.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8679.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2020/02/IMG_8680.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8680.jpeg)
 
 ### Mercredi 15, Balaruc
 
@@ -98,7 +98,7 @@ Je lis [un article qui me fait délirer au sujet d’une rencontre OVNI par l’
 
 ### Samedi 18, Balaruc
 
-![Matin](https://tcrouzet.com/images_tc/2020/02/IMG_8718.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8718.jpeg)
 
 ### Dimanche 19, Balaruc
 
@@ -132,7 +132,7 @@ Je lis *Le journal américain* de Calvino, j’entre dans son intimité, dans le
 
 ### Dimanche 26, Balaruc
 
-Phrase extraite d’une réponse mail : « Tu ne me donnes pas trop envie de le lire… suis pas surpris qu’il renonce à la narration sous prétexte de littérarité, alors que l’art le plus exigeant est celui de la narration, un art vénérable qui demande beaucoup de temps avant d’être dominé. » Un auteur qui ne raconte pas brise le contrat avec le lecteur.
+Phrase extraite d’une réponse mail : « Tu ne me donnes pas trop envie de le lire… suis pas surpris qu’il renonce à la narration sous prétexte de littérarité, alors que l'art le plus exigeant est celui de la narration, un art vénérable qui demande beaucoup de temps avant d'être dominé. » Un auteur qui ne raconte pas brise le contrat avec le lecteur.
 
 ---
 
@@ -142,7 +142,7 @@ Moi qui jadis étais fan des macros, je n’en utilise plus ou sinon pour lancer
 
 Quand j’écris un roman, je ne garde rien pour plus tard, je dis tout ce que je pense pour éviter que le lecteur croie que je le manipule ou devine mes intentions. Dans mon histoire actuelle, qui pourrait titrer *Les Silencieux*, tous les matins je suis au bord de la falaise, sans savoir ce que je vais écrire, sinon un mince indice, noté la veille en haut d’une nouvelle feuille. Pas d’autres choix que de commencer par me relire et de retrouver la musique.
 
-![Brume](https://tcrouzet.com/images_tc/2020/02/P1100835.jpeg)
+![Brume](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/P1100835.jpeg)
 
 ### Mardi 28, Balaruc
 
@@ -160,11 +160,11 @@ Quand le soleil transperce les nuages, je ferme les yeux, j’ai presque envie d
 
 ### Mercredi 29, Balaruc
 
-![À vélo](https://tcrouzet.com/images_tc/2020/02/IMG_8934.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8934.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/02/IMG_8939.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8939.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/02/IMG_8943.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/IMG_8943.jpeg)
 
 ### Jeudi 30, Balaruc
 
@@ -186,10 +186,14 @@ Lu chez Calvino dans *Ermite à Paris*. « Je suis plus libre dans mes rapports
 
 « Random House obtient un grand succès avec un auteur qui signe Doctor Seuss, spécialisé dans les livres pour enfants de 5-6 ans, écrits en utilisant 300 mots maximum. » Voilà que mon projet d’*Appauvrissement* n’est pas neuf.
 
-« On comprend que l’Amérique est un pays qui à 95 % manque totalement de beauté, de souffle et d’individualité, en somme un pays d’une platitude sans issue. » Je ne dirais pas ça de toute l’Amérique, mais à coup sûr d’une bonne partie de la Floride du Sud.
+« On comprend que l’Amérique est un pays qui à 95 % manque totalement de beauté, de souffle et d’individualité, en somme un pays d’une platitude sans issue. » Je ne dirais pas ça de toute l’Amérique, mais à coup sûr d'une bonne partie de la Floride du Sud.
 
-![Turner](https://tcrouzet.com/images_tc/2020/02/P1100854.jpeg)
+![Turner](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/P1100854.jpeg)
 
-![Turner](https://tcrouzet.com/images_tc/2020/02/P1100860.jpeg)
+![Turner](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/P1100860.jpeg)
 
-![Turner](https://tcrouzet.com/images_tc/2020/02/P1100862.jpeg)
+![Turner](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/02/P1100862.jpeg)
+
+
+
+Tags: Carnets, une

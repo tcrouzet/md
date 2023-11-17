@@ -16,4 +16,8 @@ Le livre est là, fragile. Il ne sera pas prolongé, c’est le dernier texte. E
 
 *PS : Antoine nous a quittés le 18 février.*
 
-![Mes guerres à moi](https://tcrouzet.com/images_tc/2014/02/antoine.jpg)
+![Mes guerres à moi](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/02/antoine-630x430.jpg)
+
+
+
+Tags: Autobiographie, une

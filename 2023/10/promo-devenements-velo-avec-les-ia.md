@@ -179,3 +179,5 @@ Toujours les mêmes problèmes avec les textes et les sacs à dos.
 ![DALL-E](https://tcrouzet.com/images_tc/2023/10/dalle47.png)
 
 Un truc amusant : il n'y a jamais de pédales sur les vélos.
+
+Tags: 727, Bikepacking, Born to Bike, une

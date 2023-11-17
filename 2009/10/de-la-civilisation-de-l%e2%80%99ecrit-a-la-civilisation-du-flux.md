@@ -1,8 +1,10 @@
 # De la civilisation de l’écrit à la civilisation du flux
 
-![Le Flux](https://tcrouzet.com/images_tc/2009/10/mythos1.png)
 
-Je commencerai mon [prochain livre](https://tcrouzet.com/tag/flux/) par quelques définitions comme j’ai pris l’habitude de le faire depuis *Le peuple des connecteurs*. Suite à [vos commentaires](https://tcrouzet.com/2009/10/23/apres-histoire/#comments), exigeant plus de rigueur, je me propose de définir le plus brièvement possible ce que j’entends par Mythe, Histoire, Flux, Propulseur… Ces définitions sont en chantier et je les modifierai au besoin (et suite à vos réactions). Je complète la définition commune par celle que j’utiliserai ici et dans le livre.<span id="more-11487"></span>
+
+![Le Flux](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/10/mythos1.png)
+
+Je commencerai mon [prochain livre](http://blog.tcrouzet.com/tag/flux/) par quelques définitions comme j’ai pris l’habitude de le faire depuis *Le peuple des connecteurs*. Suite à [vos commentaires](http://blog.tcrouzet.com/2009/10/23/apres-histoire/#comments), exigeant plus de rigueur, je me propose de définir le plus brièvement possible ce que j’entends par Mythe, Histoire, Flux, Propulseur… Ces définitions sont en chantier et je les modifierai au besoin (et suite à vos réactions). Je complète la définition commune par celle que j’utiliserai ici et dans le livre.<span id="more-11487"></span>
 
 > Mythologie 1. Ensemble des mythes et des légendes propres à un peuple, une religion, une civilisation… 2. Étude des mythes. 3. Ensemble des croyances se rapportant à la même idée et s’imposant au sein d’une société : le mythe de la mode décrit par Roland Barthes. *Par extension (avec une majuscule) : partie de la vie de l’humanité où les informations se transmettaient principalement par la parole.*
 
@@ -25,3 +27,5 @@ L’idée que le passé n’est pas figé dans le marbre remonte notamment à Da
 Pour ma part, je m’intéresse au temps présent, au temps vécu. Ce n’est pas parce qu’un historien réécrit l’histoire, qu’il lui attribue un caractère liquide, que les hommes qui vécurent dans le passé expérimentèrent le flux (franchement je ne vois pas le rapport). Le flux ne s’éprouve qu’avec le temps réel offert par les nouvelles technologies (c’est la parole et la pensée qui se fixent sans se solidifier).
 
 Il y a l’acte de parler, l’acte d’écrire, l’acte de propulser… c’est de ce troisième acte que nait le flux en renouvellement continu. Écrire correspond à propulser. Si je voulais être rigoureux je devrais dire « De la civilisation de l’écrit à la civilisation de la propulsion ». Ça ne sonne pas bien il me semble.
+
+Tags: NetCulture

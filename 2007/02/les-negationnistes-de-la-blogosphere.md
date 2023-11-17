@@ -16,7 +16,7 @@ L’important n’est pas ce qui se dit ou s’écrit ici ou là mais ce qui se 
 
 **Du masculin au féminin**
 
-À la fin du [peuple des connecteurs](https://tcrouzet.com/le-peuple-des-connecteurs/), je disais que nous entrions dans l’âge des qualités après avoir quitté celui des quantités propre à l’âge industriel. Il faut bien intégrer ce point si on veut comprendre ce qui se passe aujourd’hui, si on veut comprendre les phénomènes viraux qui échappent à nombre de mesures quantitatives, notamment aux bons vieux sondages.
+À la fin du [peuple des connecteurs](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), je disais que nous entrions dans l’âge des qualités après avoir quitté celui des quantités propre à l’âge industriel. Il faut bien intégrer ce point si on veut comprendre ce qui se passe aujourd’hui, si on veut comprendre les phénomènes viraux qui échappent à nombre de mesures quantitatives, notamment aux bons vieux sondages.
 
 Je rappelle que Google, par exemple, n’a prospéré que par le bouche-à-oreille. C’est un pur fruit du buzz comme la plupart des autres services internet. En 2002, [Terry Semel](http://www.wired.com/wired/archive/15.02/yahoo.html), le nouveau parton de Yahoo, qui venait d’Hollywood, ne l’avait pas compris. Les études voyaient encore Google tout petit mais il était déjà grand dans l’esprit de ses utilisateurs. Cette grandeur n’était pas mesurable suivant les critères traditionnels mais elle n’en existait pas moins comme Yahoo ne cesse de le mesurer depuis à ses dépends.
 
@@ -24,7 +24,7 @@ Ce n’est pas parce qu’une chose ne se mesure pas quantitativement qu’elle 
 
 **Le coming-out de Bayrou**
 
-Certes, il sera impossible de démontrer si la blogosphère a aidé ou non Bayrou dans son ascension. Dans [Le cinquième pouvoir](https://tcrouzet.com/le-cinquieme-pouvoir/), j’essaie de montrer pourquoi dans le chapitre sur la bataille de Borodino. J’y explique justement la différence entre le quantitatif et le qualitatif. La différence entre la prévisibilité et l’imprévisibilité. J’y explique pourquoi, heureusement, l’avenir n’est pas écrit (pas plus que le passé peut être décrypté de manière déterministe).
+Certes, il sera impossible de démontrer si la blogosphère a aidé ou non Bayrou dans son ascension. Dans [Le cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), j’essaie de montrer pourquoi dans le chapitre sur la bataille de Borodino. J’y explique justement la différence entre le quantitatif et le qualitatif. La différence entre la prévisibilité et l’imprévisibilité. J’y explique pourquoi, heureusement, l’avenir n’est pas écrit (pas plus que le passé peut être décrypté de manière déterministe).
 
 Consacrer du temps à dire que nous n’avons pas de preuve de l’influence du cinquième pourvoir, c’est une perte de temps car c’est une évidence. Maintenant nous ne devons pas oublier que nous avons des lecteurs, que nous avons avec eux des échanges de qualité et non de quantité, et que de ce fait nous avons une influence. Quelle soit minime n’a aucune importance. Dans une réaction en chaîne, la taille de l’étincelle initiale n’a aucune conséquence.
 

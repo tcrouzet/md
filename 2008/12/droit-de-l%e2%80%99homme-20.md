@@ -8,7 +8,7 @@ Pour ma part, je trouve la déclaration de 1948 trop idéologiquement colorée. 
 
 ### Préambule
 
-Quand il est écrit qu’« il est essentiel que les droits de l’homme soient protégés par un régime de droit », je me demande qui établit ce régime et comment on l’établit. Rien n’est précisé à ce sujet et c’est la porte ouverte à n’importe quoi (comme nous le voyons depuis 1948). Si un dictateur établit ce régime, ou une dictature mondiale, ce régime est-il juridiquement acceptable ? Non, et nos droits élémentaires exigent justement que nous nous défendions par tous les moyens.
+Quand il est écrit qu’« il est essentiel que les droits de l'homme soient protégés par un régime de droit », je me demande qui établit ce régime et comment on l’établit. Rien n’est précisé à ce sujet et c’est la porte ouverte à n’importe quoi (comme nous le voyons depuis 1948). Si un dictateur établit ce régime, ou une dictature mondiale, ce régime est-il juridiquement acceptable ? Non, et nos droits élémentaires exigent justement que nous nous défendions par tous les moyens.
 
 Il est par la suite souvent fait références aux Nations et aux États plus qu’aux hommes. Mais n’est-ce pas aux hommes eux-mêmes de fixer le régime de droit qui doit les régir ?
 
@@ -25,3 +25,5 @@ La démocratie représentative est considérée comme le système politique idé
 ### Addendum
 
 En attendant les progrès technologiques qui nous permettront de coloniser d’autres planètes, nous vivons dans un monde matériellement fini. À cause de cette finitude en termes d’espace et de ressources matérielles, l’interdépendance des hommes et de tous les êtres vivants présents ou à venir doit être prise en compte dans toute décision. Lors de chacune de nos actions, nous devons en peser les conséquences sur les autres où qu’ils se trouvent dans le temps ou dans l’espace. Cela implique un devoir de mémoire pour ceux qui nous ont précédés, un devoir de précaution pour nous-mêmes et ceux qui nous suivront.
+
+Tags: Connecteur

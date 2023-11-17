@@ -6,7 +6,7 @@ Depuis des années, je ne fréquente plus les salles obscures. Déjà parce qu�
 
 ### Cinéma
 
-Tous les réalisateurs qui s’apprêtent à sortir des films d’action en 2D doivent se morfondre. Le 2D c’est terminé pour l’action et même pour le cinéma en général. Nous vivons la même chose que le passage du muet au parlant, du noir et blanc à la couleur.
+Tous les réalisateurs qui s’apprêtent à sortir des films d'action en 2D doivent se morfondre. Le 2D c’est terminé pour l’action et même pour le cinéma en général. Nous vivons la même chose que le passage du muet au parlant, du noir et blanc à la couleur.
 
 Certains nous feront le coup de la photo argentique par rapport à la photo numérique. Ok, il restera des mecs pour faire de la 2D comme il y en a qui font encore du noir et blanc mais ils deviendront minoritaires.
 
@@ -26,7 +26,7 @@ Je suis sûr que le cinéma d’auteur peut s’emparer de la technique. Dans *A
 
 Cameron est devenu cinéaste à 22 ans pour faire mieux que Georges Lucas. Son rêve : créer un univers aussi riche que celui de *Star Wars*, engendrer un écosystème commercial et créatif. Je ne suis pas sûr qu’*Avatar* réussisse ce tour de force côté imaginaire (côté technique pari réussi).
 
-Pas d’humour. Ni les balourds R2D2 et sysPO, ni les pitreries d’Ian Solo. *Avatar* est toujours sérieux, un peu toujours sur le même rythme, propre, jamais ironique, asexué… alors que Solo respire le sexe. Dans *Avatar*, on est dans la guimauve propre sur elle pour attirer tous les publics malgré le carnage final idéalisé à la grecque.
+Pas d’humour. Ni les balourds R2D2 et sysPO, ni les pitreries d'Ian Solo. *Avatar* est toujours sérieux, un peu toujours sur le même rythme, propre, jamais ironique, asexué… alors que Solo respire le sexe. Dans *Avatar*, on est dans la guimauve propre sur elle pour attirer tous les publics malgré le carnage final idéalisé à la grecque.
 
 Cette bataille, même si spectaculaire, ne renouvelle pas le genre, bien au contraire. Aucune scène ne rivalise avec la destruction de l’étoile noire par Luke Skywalker.
 
@@ -39,3 +39,5 @@ La caricature. Les Terriens organisés hiérarchiquement affrontent les Na’vis
 Cameron tenait pourtant sa Force. Les plantes et des animaux de Pandora sont interconnectés. Le réseau est là. Les Na’vis communient à travers lui mais eux-mêmes ne sont pas en réseau. Cherchez le bug même si c’est le réseau qui sauve la mise à la fin puisque Pandora elle-même matte les Terriens.
 
 J’attends la suite. Un spectacle grandiose au service de belles idées mais encore surchargé des codes en vigueur au vingtième siècle. *Star Wars* reste plus moderne avec sa Force, une idée forte en un âge d’interdépendance croissante.
+
+Tags: Critique

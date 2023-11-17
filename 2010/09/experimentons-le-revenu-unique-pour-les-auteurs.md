@@ -2,9 +2,9 @@
 
 La loi sur le prix unique du livre avait pour but de sauver les libraires, il est temps de sauver les auteurs et les éditeurs. Alors que mon fournisseur de tomates peut me vendre ses tomates moins cher que le supermarché, je n’ai pas le droit de faire comme lui, pas le droit d’attirer mes lecteurs chez moi pour qu’ils achètent mes productions en direct, à un prix défiant toute concurrence.<span id="more-19179"></span>
 
-Le prix unique avait un sens à l’époque où il existait des objets uniques. Aujourd’hui, rien n’empêche les livres papiers et numériques d’être tous différents les uns des autres, par exemple en insérant de temps à autre des images fractales générées à la volée. Cet exemple excessif montre que l’ancienne loi, en plus d’être devenue stérile, <a herf="https://tcrouzet.com/2010/09/07/la-fin-du-livre-unique/">n’est techniquement plus applicable</a>.
+Le prix unique avait un sens à l’époque où il existait des objets uniques. Aujourd’hui, rien n’empêche les livres papiers et numériques d’être tous différents les uns des autres, par exemple en insérant de temps à autre des images fractales générées à la volée. Cet exemple excessif montre que l’ancienne loi, en plus d’être devenue stérile, <a herf="http://blog.tcrouzet.com/2010/09/07/la-fin-du-livre-unique/">n’est techniquement plus applicable</a>.
 
-En empêchant les auteurs et les éditeurs de vendre en direct, au prix qu’ils le désirent, elle tente de protéger la distribution. La même loi, appliquée au numérique, [comme l’envisage le Sénat](http://www.numerama.com/magazine/16754-le-senat-propose-le-prix-unique-pour-le-livre-numerique.html), aurait pour effet de renforcer plus encore les grandes plateformes au détriment des sites indépendants.
+En empêchant les auteurs et les éditeurs de vendre en direct, au prix qu'ils le désirent, elle tente de protéger la distribution. La même loi, appliquée au numérique, [comme l’envisage le Sénat](http://www.numerama.com/magazine/16754-le-senat-propose-le-prix-unique-pour-le-livre-numerique.html), aurait pour effet de renforcer plus encore les grandes plateformes au détriment des sites indépendants.
 
 Les lecteurs n’auraient plus aucune raison de venir sur nos sites, d’y trouver des versions de nos textes augmentées de nos conversations et de travailler avec nous à nos prochaines œuvres. Aujourd’hui, le prix unique bloque l’innovation, notamment la construction d’une riche relation auteur-éditeur-lecteur.
 
@@ -32,7 +32,7 @@ Nous pouvons repenser cette chaîne. Voici comment la chose pourrait se faire. L
 5. Mais l’auteur ne peut être le seul propulseur de son texte. D’autres propulseurs doivent entrer dans le jeu et s’investir en amont de la publication.
 
 6. Tous les intervenants doivent se partager les éventuels bénéfices. Le gâteau devrait se diviser en deux parts, 50 % pour l’auteur, 50 % pour les autres acteurs qui, ensemble, remplissent l’ancienne fonction d’éditeur.
-    ![](https://tcrouzet.com/images_tc/2010/09/pie1.png)
+    ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/pie1.png)
 
 7. Le texte sera aussi diffusé ailleurs que sur le blog de l’auteur (ou de l’éditeur). Sur iBookstore d’Apple, il sera vendu 30 % plus cher, l’idée étant de maintenir le même revenu pour l’équipe éditoriale quel que soit la plate-forme de vente.
 
@@ -53,3 +53,5 @@ Plutôt que de gloser autant tenter une expérience. Je viens d’écrire à cet
 Pour aller plus loin, il me faut donc trouver un ou deux éditeurs, un correcteur, un graphiste et des propulseurs (pourquoi pas un éditeur en ligne dont c’est l’essentiel du travail), éventuellement un éditeur papier. Si l’aventure vous intéresse, manifestez-vous.
 
 Mon idée est de fixer le revenu unique à 2 euros. Je développerai un plugin pour gérer la vente sur mon blog (et je le distribuerai librement pour que d’autres auteurs puissent reproduire l’expérience). Le livre y sera donc accessible gratuitement, mais avec un prix conseillé autour de 2,10 euros (marge du système de paiement). Sur iBookstore, le livre sera disponible environ 2,99 euros. En impression à la demande ou en librairie, le livre devrait tourner à 7 ou 8 euros. D’autres formats pourraient être imaginés pour mieux montrer que c’est le revenu associé à un texte qui doit être unique.
+
+Tags: Autopublication, expi, édition, Prix unique du livre, une

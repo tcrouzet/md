@@ -24,7 +24,7 @@ L’humain riche est celui capable de s’asseoir là, de rester immobile avec l
 
 Cette petite écriture a sur moi un effet merveilleux que je sais sans lien avec celui qu’elle peut produire sur vous. Il manque le corps, la chaleur, les rumeurs, les caresses des vaguelettes sur le rivage.
 
-Il serait tentant d’ajouter des images, de décrire les pontons de bois qui habillent les épis ou la ligne noire de l’horizon avec dressées toutes droites les grues du port de Sète. L’accumulation n’est pas propice à la représentation. Voilà pourquoi j’ai commencé à [écrire des listes](https://tcrouzet.com/tag/buzzlitt/). Pour circonscrire leur infinité potentielle.
+Il serait tentant d’ajouter des images, de décrire les pontons de bois qui habillent les épis ou la ligne noire de l’horizon avec dressées toutes droites les grues du port de Sète. L’accumulation n’est pas propice à la représentation. Voilà pourquoi j’ai commencé à [écrire des listes](http://blog.tcrouzet.com/tag/buzzlitt/). Pour circonscrire leur infinité potentielle.
 
 Ce texte ne peut avoir de fin que la fatigue de mon corps, trop échauffé par le soleil, trop agacé par une disqueuse nerveuse dans le chantier du nouvel établissement thermal, trop impatient par nature.
 
@@ -34,6 +34,10 @@ Je devrais pourtant n’écrire que pour vous, pour éveiller vos sens, vous tra
 
 Là-bas, au-delà de la montagne d’Agde, je devine l’ombre des Pyrénées. J’y ai campé le week-end dernier avec les enfants. Sous un grand rocher en surplomb de la Méditerranée. C’est encore plus insurpassable. L’art n’a d’autre ambition que nous rappeler cette simple évidence.
 
-En vérité, je pense à vous plus que je n’ose l’avouer. J’aimerais provoquer en vous des envies folles, des extases, des commotions. [Je n’ai que la force de lister quelques unes des choses vues.](https://tcrouzet.com/2014/09/03/20-choses-vues-au-bord-de-letang/)
+En vérité, je pense à vous plus que je n’ose l’avouer. J’aimerais provoquer en vous des envies folles, des extases, des commotions. [Je n’ai que la force de lister quelques unes des choses vues.](http://blog.tcrouzet.com/2014/09/03/20-choses-vues-au-bord-de-letang/)
 
-![Plage de Balaruc](https://tcrouzet.com/images_tc/2014/09/plage.jpg)
+![Plage de Balaruc](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/plage.jpg)
+
+
+
+Tags: une, vagabondage

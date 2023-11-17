@@ -2,7 +2,7 @@
 
 Pourquoi tous les chiffres produits par les fonctionnaires ne sont-ils pas publics ? Pourquoi les données brutes, avant analyse, ne sont-elles pas accessibles ? Pourquoi certains petits fonctionnaires en chef se donnent-ils du pouvoir en faisant régner la censure ? En conséquence de quoi les rumeurs ne cessent de circuler. Beaucoup de gens perdent un temps fou à commenter des fausses informations ou faire des plans sur la comète. En parallèle, nos politiciens s’entre-déchirent sur du vent.
 
-Si nous disposions de tous les chiffres, nombre de débats n’auraient pas lieu et nombre de problèmes seraient plus simples à résoudre. La transparence [qui devient une arme économique](https://tcrouzet.com/2007/01/09/wikinomics/) devrait aussi devenir une règle de gouvernance.
+Si nous disposions de tous les chiffres, nombre de débats n’auraient pas lieu et nombre de problèmes seraient plus simples à résoudre. La transparence [qui devient une arme économique](http://blog.tcrouzet.com/2007/01/09/wikinomics/) devrait aussi devenir une règle de gouvernance.
 
 Un ami qui travaille à l’ANPE m’a expliqué que les chiffres du chômage, entre autres, étaient assez difficiles à obtenir même pour les gens du sérail. Les bases de données sont cloisonnées à l’intérieur des services de l’État, chacun des fonctionnaires cherchant à défendre son territoire.
 
@@ -16,11 +16,11 @@ Si nous avions accès à toutes les données, nous pourrions vite découvrir que
 
 - 20 000 chômeurs dans les catégories 4, 5, 6, 7, 8 (en formation, malade, en fin de contrat…).
 
-- 7 000 chômeurs dispensés de la recherche d’un emploi (+ de 55 ans non indemnisés, + de 57,5 ans indemnisés par l’Assedic…).
+- 7 000 chômeurs dispensés de la recherche d'un emploi (+ de 55 ans non indemnisés, + de 57,5 ans indemnisés par l'Assedic…).
 
-- 25 000 allocataires du RMI sur les 36 000 que comporte le département et qui ne sont pas inscrits à l’ANPE.
+- 25 000 allocataires du RMI sur les 36 000 que comporte le département et qui ne sont pas inscrits à l'ANPE.
 
-Bilan : 45 300 + 16 000 + 20 000 + 7 300 + 25 000 = **113 600 personnes**, donc assez loin des 45 300 officiels… Et le taux de chômage s’envole à **31%**.
+Bilan : 45 300 + 16 000 + 20 000 + 7 300 + 25 000 = **113 600 personnes**, donc assez loin des 45 300 officiels... Et le taux de chômage s’envole à **31%**.
 
 Le même calcul peut être repris pour la France. Nous découvrons alors qu’au moins plus du quart des citoyens sont en situation précaire. Mais tout irait bien, même de mieux en mieux, selon le discours officiel ! Cherchez l’erreur.
 

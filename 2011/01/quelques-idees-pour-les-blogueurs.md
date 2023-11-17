@@ -1,6 +1,6 @@
 # Quelques idées pour les blogueurs
 
-Dans la série [*J’ai eu l’idée*](https://tcrouzet.com/id/), j’ai quelques propositions pour les blogueurs.<span id="more-20897"></span>
+Dans la série [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/), j’ai quelques propositions pour les blogueurs.<span id="more-20897"></span>
 
 1. J’ai eu l’idée d’offrir à des entreprises, ou pourquoi pas à des anonymes, de payer pour publier des billets sur mon blog. Mon slogan serait : « Payez pour écrire. »
 
@@ -14,7 +14,7 @@ Dans la série [*J’ai eu l’idée*](https://tcrouzet.com/id/), j’ai quelque
 
 6. J’ai eu l’idée de tester les titres de mes billets sur Twitter et de n’utiliser que les plus retwittés.
 
-7. J’ai eu l’idée d’insulter les blogueurs populaires pour qu’ils s’énervent contre moi et me rendent plus populaires.
+7. J’ai eu l’idée d'insulter les blogueurs populaires pour qu'ils s'énervent contre moi et me rendent plus populaires.
 
 8. J’ai eu l’idée que traiter des mêmes sujets que les autres était la meilleure manière d’avoir des lecteurs.
 
@@ -72,4 +72,6 @@ Dans la série [*J’ai eu l’idée*](https://tcrouzet.com/id/), j’ai quelque
 
 35. J’ai eu l’idée que ces idées pour blogueurs n’avaient pas leur place dans *J’ai eu l’idée*, c’est pour ça que je les publie sur mon blog.
 
-36. J’ai eu l’idée que vous devriez acheter *J’ai eu l’idée* chez publie.net.
+36. J’ai eu l’idée que vous devriez acheter *J'ai eu l'idée* chez publie.net.
+
+Tags: Blogosphère, buzzlitt, id, NetCulture, une

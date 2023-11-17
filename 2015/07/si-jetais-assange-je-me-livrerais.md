@@ -1,6 +1,6 @@
 # Si j’étais Assange, je me livrerais
 
-[Ma petite réaction](https://tcrouzet.com/2015/07/03/assange-ou-la-honte-detre-francais/) au sujet de [la demande d’asile politique d’Assange](http://www.lemonde.fr/idees/article/2015/07/03/julian-assange-monsieur-hollande-accueillez-moi-en-france_4668919_3232.html) a fait jaillir dans ma timeline les commentaires de beaucoup de réactionnaires.<span id="more-41952"></span>
+[Ma petite réaction](http://blog.tcrouzet.com/2015/07/03/assange-ou-la-honte-detre-francais/) au sujet de [la demande d’asile politique d’Assange](http://www.lemonde.fr/idees/article/2015/07/03/julian-assange-monsieur-hollande-accueillez-moi-en-france_4668919_3232.html) a fait jaillir dans ma timeline les commentaires de beaucoup de réactionnaires.<span id="more-41952"></span>
 
 - Les juristes qui sa cachent derrière le droit pour dire que la demande d’Assange est irrecevable (je pourrais les qualifier de collabos : dans une dictature, si tu te caches derrière le droit, c’est que tu acceptes la dictature).
 
@@ -27,3 +27,5 @@ Ce bruit nauséeux, qui frise avec les pensées les plus brunes de notre histoir
 6. Parce que la meilleure défense est parfois l’attaque.
 
 Mais je ne suis pas Assange, je ne suis pas en position de me faire interner, d’être faussement accusé de crime… et peut-être vaut-il encore mieux vivre dans cinq mètres carrés en pouvant communiquer avec le monde que dans une cellule coupée du monde. Tant qu’Assange est connecté, il nous est utile.
+
+Tags: Politique, une

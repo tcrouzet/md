@@ -1,14 +1,14 @@
 # La fin de l’individualisme
 
-En écrivant [*Le cinquième pouvoir*](https://tcrouzet.com/le-cinquieme-pouvoir/), j’ai interviewé [Alain Lipietz](http://lipietz.net/), l’eurodéputé vert. J’ai reproduit notre discussion dans le livre, mais je n’ai pas réussi à caser quelques unes de ses remarques auxquelles je réagis ici.
+En écrivant [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), j’ai interviewé [Alain Lipietz](http://lipietz.net/), l’eurodéputé vert. J’ai reproduit notre discussion dans le livre, mais je n’ai pas réussi à caser quelques unes de ses remarques auxquelles je réagis ici.
 
-— Au milieu des années 1990, lorsque de plus en plus de gens se mettent à utiliser internet, j’ai compris que nous avions atteint le comble de l’individualisme, dit Alain Lipietz. Nous étions allés au bout de la logique initiée par le Christianisme, puis reprise par Montaigne et les penseurs des Lumières.
+\— Au milieu des années 1990, lorsque de plus en plus de gens se mettent à utiliser internet, j’ai compris que nous avions atteint le comble de l’individualisme, dit Alain Lipietz. Nous étions allés au bout de la logique initiée par le Christianisme, puis reprise par Montaigne et les penseurs des Lumières.
 
-Je n’ai pu m’empêcher d’exprimer ma surprise car j’ai commencé [*Le peuple des connecteurs*](https://tcrouzet.com/le-peuple-des-connecteurs/) en défendant la thèse inverse. Pour moi, internet redonne au contraire la possibilité pour chacun de tresser de nouveaux liens et de sortir de l’impasse individualiste. Il est fédérateur de communautés.
+Je n’ai pu m’empêcher d’exprimer ma surprise car j’ai commencé [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) en défendant la thèse inverse. Pour moi, internet redonne au contraire la possibilité pour chacun de tresser de nouveaux liens et de sortir de l’impasse individualiste. Il est fédérateur de communautés.
 
 Mais écoutons Lipietz :
 
-— Avec internet, nous sommes capables de nous abstraire du monde. Par exemple, je dispose de quatre adresses e-mail. Une que je consulte tous les mois, une toute les semaines, une tous les jours et une ouverte en continu. Je maîtrise mes interactions avec les autres. Mon individu décide tout.
+\— Avec internet, nous sommes capables de nous abstraire du monde. Par exemple, je dispose de quatre adresses e-mail. Une que je consulte tous les mois, une toute les semaines, une tous les jours et une ouverte en continu. Je maîtrise mes interactions avec les autres. Mon individu décide tout.
 
 Pour Lipietz, cette capacité de contrôler nos communications interpersonnelles peut s’avérer dangereuse. Nous risquons de nous couper les uns des autres, interdisant les intrusions extérieures. En ne nous intéressant qu’à ce qui nous intéresse, ce que permet internet, nous risquons de nous isoler.
 
@@ -22,7 +22,7 @@ De tout temps, l’ermitage a été possible. Je ne crois pas qu’internet le f
 
 La vérité est sans doute plus modérée. Nous sommes simplement en train de réapprendre à vivre ensemble, dans des lieux différents mais ensemble. Tous les politiciens doivent prendre en compte cette notion fondamentale. Les informations circulent parce que nous sommes ensemble, et non seulement les informations, aussi les impressions, beaucoup de choses qui échappent au langage.
 
-— Internet donne à la fois plus d’informations, en même temps ça a cloisonné, ajoute Lipietz. Internet n’est pas un média généraliste, il ne ressemble pas un journal généraliste où toutes les idées s’expriment, sauf celles que la direction écartent. Aujourd’hui la totalité des informations et des opinions sont disponibles mais elles ne sont pas structurées.
+\— Internet donne à la fois plus d’informations, en même temps ça a cloisonné, ajoute Lipietz. Internet n’est pas un média généraliste, il ne ressemble pas un journal généraliste où toutes les idées s’expriment, sauf celles que la direction écartent. Aujourd’hui la totalité des informations et des opinions sont disponibles mais elles ne sont pas structurées.
 
 Encore une fois je ne suis pas d’accord, le réseau est une nouvelle forme de structuration. Nous n’y sommes pas habitués, c’est tout. Nous sommes formatés pour nous confronter aux organisations hiérarchiques d’où parfois un flottement face à internet. Il est structuré, bien plus structuré que n’importe quel autre corpus du passé, mais cette structure n’est pas pyramidale, elle est dynamique, non centralisée, non délimitée… Les moteurs de recherche sont apparus pour nous aider à y naviguer. Ils ne cessent de progresser. Tout reste à inventer.
 

@@ -22,6 +22,8 @@ Utopie peut-être. Mais encore une fois je ne vois pas d’autres solutions. Bie
 
 Mais encore une fois je ne prône aucune réforme, sinon des réformes individuelles, des réformes que je tente de m’appliquer à moi-même et que de plus en plus de gens autour de moi appliquent.
 
-Qu’on ne me dise pas que tout cela prendra trop de temps. Les autres méthodes (le top down, le communautarisme, la révolution…) ne nous permettent plus d’avancer. Nécessairement, il faut emprunter un nouveau chemin si nous voulons dépasser les difficultés auxquelles se heurte notre ancienne façon de vivre.
+Qu’on ne me dise pas que tout cela prendra trop de temps. Les autres méthodes (le top down, le communautarisme, la révolution…) ne nous permettent plus d'avancer. Nécessairement, il faut emprunter un nouveau chemin si nous voulons dépasser les difficultés auxquelles se heurte notre ancienne façon de vivre.
 
 Si je me trompe sur ce dernier point, ça n’a aucune importance. Si les routes déjà explorées suffisent, tant mieux. Ce que je sais c’est que le chemin que je décris m’aide déjà à être moi-même. Alors c’est déjà énorme.
+
+Tags: NetCulture

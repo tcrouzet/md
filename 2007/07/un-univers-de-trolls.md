@@ -1,6 +1,6 @@
 # Un univers de trolls
 
-Je suis en train de lire [The Cult of the Amateur](http://www.amazon.fr/Cult-Amateur-Internet-Killing-Culture/dp/0385520808/ref=sr_1_1), un essai qui critique la génération participation à la mode web 2.0. Les interrogations d’Andrew Keen répondent à [certaines de mes craintes du moment](https://tcrouzet.com/2007/07/09/hypercentralisation/). Après l’enthousiasme, il est parfois bon de prendre du recul.
+Je suis en train de lire [The Cult of the Amateur](http://www.amazon.fr/Cult-Amateur-Internet-Killing-Culture/dp/0385520808/ref=sr_1_1), un essai qui critique la génération participation à la mode web 2.0. Les interrogations d’Andrew Keen répondent à [certaines de mes craintes du moment](http://blog.tcrouzet.com/2007/07/09/hypercentralisation/). Après l’enthousiasme, il est parfois bon de prendre du recul.
 
 Aujourd’hui, sur le web, tout le monde peut tout dire, tout montrer, tout voir… spectateur et auteur fusionnent dans cet âge du peer-to-peer.
 
@@ -32,7 +32,7 @@ Je ne dis pas qu’il faut souffrir pour réussir, je crois juste que Rome ne s�
 
 La réussite passe souvent par le dépassement de barrières en apparence insurmontables. Le web 2.0 nous fait à tort croire qu’il n’y a plus de barrière. L’amateur aurait autant de chances de réussir que le professionnel.
 
-Je suis le premier à applaudir la disparition des frontières entre les citoyens et les élites. Pour moi, chacun a le droit d’exercer ses talents dans tous les domaines mais il doit le faire avec zèle. L’amateurisme n’exclu pas la compétence. Toutes les portes sont ouvertes sur le web 2.0 mais il faut que la qualité soit récompensée. Nous devons inventer le moyen d’arracher l’ivraie du brouhaha.
+Je suis le premier à applaudir la disparition des frontières entre les citoyens et les élites. Pour moi, chacun a le droit d’exercer ses talents dans tous les domaines mais il doit le faire avec zèle. L’amateurisme n’exclu pas la compétence. Toutes les portes sont ouvertes sur le web 2.0 mais il faut que la qualité soit récompensée. Nous devons inventer le moyen d’arracher l'ivraie du brouhaha.
 
 Ce bouillon de culture régnant sur le net est fantastique mais il fait souvent penser à un bruit de fond aléatoire. On dirait qu’une armée de singes est en train de taper à la machine à écrire dans l’espoir de réinventer Proust. L’éternité n’y suffira pas malheureusement. Il faut que des hommes travaillent pour produire des œuvres. Et pour qu’il existe des œuvres collectives originales, il faut encore plus de travail, il faut que ce travail ne soit pas étouffé par des riens, il faut que nous apprenions à prendre notre temps, sinon nous finirons par n’apprécier que les séries TV.
 

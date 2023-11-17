@@ -2,13 +2,13 @@
 
 Hier au coucher du soleil au sommet du Monte Pellegrino. Avec l’altitude la végétation se transforme, les eucalyptus aux troncs argentés de plus en plus nombreux. Soudain des fleurs blanches couvrent des prairies où se promènent des vaches. Ce seul endroit, il faudrait une vie pour l’explorer, l’écrire et le dessiner.
 
-![Pellegrino](https://tcrouzet.com/images_tc/2015/11/Pellegrino.jpg)
+![Pellegrino](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/Pellegrino.jpg)
 
 ### Ségeste
 
 2500 ans d’Histoire et les mêmes fourmis frayent leur passage entre les pierres. Après quelques essais, je réussir à saisir la perspective du temple. Une fois qu’elle est comprise, il suffirait de la répéter, ici ou de lieu en lieu, pour qu’elle se perfectionne jusqu’à la beauté classique.
 
-![Ségeste](https://tcrouzet.com/images_tc/2015/11/segeste1.jpg)
+![Ségeste](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/segeste1.jpg)
 
 ### Sélinonte
 
@@ -23,3 +23,5 @@ Il faudrait ne jamais regretter un lieu, encore moins en désirer un nouveau, il
 ---
 
 Ce que j’écris dépend du lieu et je n’en parle pas… en fait d’un voyage en Sicile, je rédige des *Pensées depuis la Sicile (Pensées de Sicile)*.
+
+Tags: Pensé de Sicile

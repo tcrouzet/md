@@ -39,3 +39,5 @@ En comparaison, [la trace VTT que nous avons suivie](https://www.visugpx.com/Hhy
 ![Les Corbières](https://tcrouzet.com/images_tc/2023/05/IMG_2145.jpeg)
 
 ![Les Corbières](https://tcrouzet.com/images_tc/2023/05/IMG_2155.jpeg)
+
+Tags: Born to Bike, une

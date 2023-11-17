@@ -35,3 +35,5 @@ Pour autant, je ne suis pas sûr que cette question de l’adresse soit fondamen
 En fait, la question de l’adresse ne change qu’en regard de la possibilité d’une fréquence de publication bien plus grande, et surtout d’un déclenchement qui ne dépend plus que de la volonté de l’auteur, donc de sa disponibilité, et qui implique aussi la disponibilité concomitante des lecteurs.
 
 La nécessaire transivité de l’écriture en ligne est une chance. Elle nous force à dialoguer, à imaginer, à raconter des histoires. Elle nous pousse à tourner le dos à la pseudo littérature intransitive de la seconde moitié du XX<sup>e</sup> siècle, cette littérature qui s’est souvent trop regardé le nombril, et que j’ai beaucoup aimée jusqu’à trop longtemps essayer de la copier, et qu’en ligne trop de gens continuent à mimer, refusant le dialogue, refusant le lecteur, refusant leur temps, ne publiant en ligne que parce que c’est possible, mais se fermant à ce que cela implique de radicalement neuf.
+
+Tags: NetLittérature, une

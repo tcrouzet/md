@@ -18,4 +18,6 @@ J’étais en quelque sorte pris au piège. Aux yeux de tous, j’écrivais mon 
 
 J’ai commencé à m’ouvrir à ce sujet sur mon blog, parlant de l’avenir de l’édition, puis constatant que le Web lui-même n’est souvent utilisé que comme un lieu de publication. Or, c’est dans l’interaction à grande échelle, dans la connexion, que quelque chose de neuf est en train de se produire : dans les forums, les fils de discussion des blogs, les réseaux sociaux…
 
-*PS : Explication du titre. Ce texte se trouvait initialement dans mon prochain livre mais j’ai découvert une meilleure histoire que la mienne.*
+*PS : Explication du titre. Ce texte se trouvait initialement dans mon prochain livre mais j'ai découvert une meilleure histoire que la mienne.*
+
+Tags: NetCulture

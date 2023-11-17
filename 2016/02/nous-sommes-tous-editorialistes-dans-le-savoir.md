@@ -24,11 +24,11 @@ L’éditorialisation introduirait donc une certaine réflexivité dans le proce
 
 D’une certaine façon, la plupart de nos écrivains contemporains n’éditorialisent pas eux-mêmes, ils choisissent un processus d’éditorialisation cristallisé, ils supposent même qu’il n’existe qu’une possibilité, ils n’y songent même pas (et donc n’envisagent pas de la réinventer). Il se trouve qu’aujourd’hui éditorialiser est un art, peut-être avec des précurseurs comme Marcel Duchamp ou Andy Warhol. En tant qu’auteur numérique, je ne me contente pas d’écrire. Je suis un éditorialiste. J’aime cette idée de l’auteur augmenté. Merci Marcello (même si je déforme et me réapproprie le machin à ma sauce).
 
-Cette théorie de l’éditorialisation m’aide à prendre conscience des processus que je mets en œuvre au quotidien. [Quand je décris mon travail sur *Résistants*](https://tcrouzet.com/2016/02/02/le-roman-qui-se-fait-et-se-defait/), je ne fais que tenter d’externaliser le processus d’éditorialisation qui se joue en moi, et j’en révèle en même temps les mécanismes purement numériques, notamment la possibilité d’interagir avec les lecteurs à un niveau très intime (cette externalisation devient à son tour éditorialisation de l’éditorialisation).
+Cette théorie de l’éditorialisation m’aide à prendre conscience des processus que je mets en œuvre au quotidien. [Quand je décris mon travail sur *Résistants*](http://tcrouzet.com/2016/02/02/le-roman-qui-se-fait-et-se-defait/), je ne fais que tenter d’externaliser le processus d’éditorialisation qui se joue en moi, et j’en révèle en même temps les mécanismes purement numériques, notamment la possibilité d’interagir avec les lecteurs à un niveau très intime (cette externalisation devient à son tour éditorialisation de l’éditorialisation).
 
 > The opening up of editorialization in relation to printed editing involves a certain loss of control on the part of the writer/editor/publisher with respect to content. The writer/editor/publisher become only part of an editorial process that has itself become much larger in scope.
 
-Je me revendique de cette dynamique [quand je décide de disséminer mes textes](https://tcrouzet.com/2016/01/25/comment-jai-atomise-ma-vie-en-ligne/) plutôt que de les garder sur mon blog (si je me contentais d’être blogueur, je serais un écrivain éditeur, et non un écrivain éditorialiste). J’accepte de perdre le contrôle jusque dans le choix le plus élémentaire de la forme narrative. Je fais entrer le lecteur dans le processus créatif, pour faire en sorte qu’il me dépasse (et me surprenne).
+Je me revendique de cette dynamique [quand je décide de disséminer mes textes](http://tcrouzet.com/2016/01/25/comment-jai-atomise-ma-vie-en-ligne/) plutôt que de les garder sur mon blog (si je me contentais d’être blogueur, je serais un écrivain éditeur, et non un écrivain éditorialiste). J’accepte de perdre le contrôle jusque dans le choix le plus élémentaire de la forme narrative. Je fais entrer le lecteur dans le processus créatif, pour faire en sorte qu’il me dépasse (et me surprenne).
 
 Marcello me suggère une très belle possibilité : l’éditorialisation serait l’acte de vitaliser dans l’espace numérique, en ce sens que les contenus comme les personnes ou les lieux physiques, un restaurant par exemple, seraient en ligne des agents autonomes, en quelque sorte organiques. Les serveurs, les liens, les fibres optiques constitueraient un monde où les contenus auraient leur vie propre. Éditorialiser serait alors donner la vie. Ce serait une maïeutique numérique.
 
@@ -42,4 +42,8 @@ Je commence à saisir la notion d’éditorialisation. Une chose que nous faison
 
 > Editorialization, we can therefore conclude, is a way of producing reality and not a way of representing it.
 
-![Lisez donc Ayerdhal au passage.](https://tcrouzet.com/images_tc/2016/02/yal.jpg)
+![Lisez donc Ayerdhal au passage.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/yal.jpg)
+
+
+
+Tags: NetLittérature, une

@@ -2,7 +2,7 @@
 
 Lors du référendum pour le traité de Constitution européenne, internet aurait fait pencher la balance en faveur du non. Le même scénario se répétera-t-il en 2007 ? Internet jouera-t-il un rôle central ? Quelques statistiques grossières laissent penser que oui.
 
-![](https://tcrouzet.com/images_tc/pie.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/pie.jpg) 
 
 Je viens de lire étude publiée le 19 juillet par [Pew Internet &amp; American Life Project](http://www.pewinternet.org/PPF/r/186/report_display.asp) qui décrit la blogosphère américaine, notamment son rapport à la politique.
 
@@ -31,3 +31,5 @@ Il serait alors intéressant de connaître le taux de recouvrement entre les 250
 La web politique n’est-elle alors qu’une image de la politique tout court ? Joue-t-elle uniquement sur le traditionnel axe gauche-droite ? Je ne le crois pas. D’après mes statistiques, illustrées par le camembert et réalisées sur [bonVote](http://www.bonvote.com), les blogs politiques indépendants représentent 26 % de la blogosphère politique. Une nouvelle force est donc en train de naître : elle rassemble sans doute déjà plus de 60 000 activistes.
 
 Mes statistiques ne reposent que sur les mille blogs politiques déjà référencés par [bonVote](http://www.bonvote.com), mais elles montrent que la bataille politique a déjà commencé sur le web. Pour la faire pencher dans un sens ou dans un autre, les citoyens doivent créer des blogs pour défendre leurs idées. Un jour prochain les 26 % de libres penseurs deviendront sans doute 50 % et même plus. La politique aura alors un nouveau visage. Enfin !
+
+Tags: Politique

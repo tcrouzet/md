@@ -6,7 +6,7 @@ Une mesure m’est apparue comme excellente :
 
 > Pour faire le pendant avec l’exonération de charges fiscales et sociales sur les heures supplémentaires, les revenus tirés d’une activité numérique personnelle seront exonérés de charges sociales et fiscales dans une limite à définir. Au-delà, un statut simplifié de micro-entreprise numérique permettra à ces activités de croître et de se développer.
 
-Tous les blogueurs pourraient ainsi plus facilement monétiser leur site. Tous les Français pourraient se lancer dans l’ebusiness maison. Tout cela est très bien, cohérent. J’aurais insisté sur la formation et, surtout, sur le besoin d’une plus grande transparence concernant la publication des données publiques. Pour moi, toutes les données produites par l’État appartiennent aux citoyens. Elles sont toutes du domaine public. En les ouvrant, on favorisera la [wikinomics](https://tcrouzet.com/2007/01/09/wikinomics/).
+Tous les blogueurs pourraient ainsi plus facilement monétiser leur site. Tous les Français pourraient se lancer dans l’ebusiness maison. Tout cela est très bien, cohérent. J’aurais insisté sur la formation et, surtout, sur le besoin d’une plus grande transparence concernant la publication des données publiques. Pour moi, toutes les données produites par l’État appartiennent aux citoyens. Elles sont toutes du domaine public. En les ouvrant, on favorisera la [wikinomics](http://blog.tcrouzet.com/2007/01/09/wikinomics/).
 
 **N’allez pas croire que je signe le texte.**
 
@@ -37,3 +37,5 @@ Les bons manageurs comprennent pourtant assez vite dans leur carrière que le me
 L’autogouvernance d’internet n’est pas négociable.
 
 J’ai évoqué ce sujet avec Eric Walter, le conseiller internet à l’UMP. Il m’a avoué que ce paragraphe au sujet de la gouvernance n’était pas clair. Il faut entendre la gouvernance de l’action publique sur internet, pas la gouvernance d’internet lui-même. Je respecte Walter, j’espère qu’il saura défendre cette position.
+
+Tags: Politique

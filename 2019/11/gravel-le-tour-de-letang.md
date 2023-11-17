@@ -6,21 +6,19 @@ J’ai commencé par le vélo de route, gardant de mauvais souvenirs de retours 
 
 Ces dernières années, j’ai souvent fait le tout de l’étang à VTT, y prenant bien plus de plaisir qu’à vélo de route, car me tenant à distance des voitures, presque d’un bout à l’autre de cette boucle d’une soixantaine de kilomètres.
 
-Depuis mon retour de Floride, et surtout depuis que j’ai à nouveau le droit de pédaler après [ma fracture du col du fémur](https://tcrouzet.com/2019/08/28/un-auteur-se-fracture-le-femur-pour-faire-parler-de-lui/), j’ai commencé à refaire le tour de l’étang avec mon gravel, éprouvant une joie enfantine, peut-être à cause des pédales plates, certain d’avoir trouvé le vélo idéal pour ce parcours, peu technique, souvent roulant, qui nous invite avant tout à savourer des paysages d’une diversité incroyable, passant des plages à la ville, des vignes aux canaux, avec des lumières sans cesse changeantes, si bien que je ne m’en lasse pas, et ne résiste pas au plaisir de vous le raconter, surtout à vous autres qui n’avez pas encore goûté du gravel ([et n’avez pas été convaincus par mes articles précédents](https://tcrouzet.com/tag/gravel/)).
-
-<div class="iframe" id="iframe4"></div>
+Depuis mon retour de Floride, et surtout depuis que j’ai à nouveau le droit de pédaler après [ma fracture du col du fémur](https://tcrouzet.com/2019/08/28/un-auteur-se-fracture-le-femur-pour-faire-parler-de-lui/), j’ai commencé à refaire le tour de l’étang avec mon gravel, éprouvant une joie enfantine, peut-être à cause des pédales plates, certain d’avoir trouvé le vélo idéal pour ce parcours, peu technique, souvent roulant, qui nous invite avant tout à savourer des paysages d’une diversité incroyable, passant des plages à la ville, des vignes aux canaux, avec des lumières sans cesse changeantes, si bien que je ne m’en lasse pas, et ne résiste pas au plaisir de vous le raconter, surtout à vous autres qui n’avez pas encore goûté du gravel ([et n'avez pas été convaincus par mes articles précédents](https://tcrouzet.com/tag/gravel/)).
 
 ### Balaruc les bains
 
-Dès mon réveil, je n’ai qu’une envie : rouler. Le ciel est pur, transparent, avec un amoncellement nuageux sur les Pyrénées. J’attends midi pour manger rapidement et me mettre en route. Mon compteur indique 12°C, une température idéale pour un 15 novembre. Un léger vent marin de sud-est s’est levé, il me pousse alors que j’emprunte la piste cyclable qui passe devant chez moi, me conduit vers Balaruc le Vieux. Une fois l’épouvantable zone commerciale dépassée, mes yeux s’ouvrent, je m’arrête tous les cent mètres pour prendre des photos.
+Dès mon réveil, je n’ai qu’une envie : rouler. Le ciel est pur, transparent, avec un amoncellement nuageux sur les Pyrénées. J’attends midi pour manger rapidement et me mettre en route. Mon compteur indique 12°C, une température idéale pour un 15 novembre. Un léger vent marin de sud-est s’est levé, il me pousse alors que j’emprunte la piste cyclable qui passe devant chez moi, me conduit vers Balaruc le Vieux. Une fois l'épouvantable zone commerciale dépassée, mes yeux s’ouvrent, je m’arrête tous les cent mètres pour prendre des photos.
 
 Par un amusant effet d’optique, le village médiéval révèle sa plus belle perspective, illusoirement nichée au creux des collines de la Gardiole, sur la rive la plus orientale de l’étang. Vers Sète, le ciel est plus tourmenté, des nuages montent de la mer et je sais déjà que je finirai par les rencontrer, mais pour le moment je roule vers Bouzigues sous un beau soleil.
 
-![L'étang, 15 novembre 9h30](https://tcrouzet.com/images_tc/2019/11/P1100577.jpeg)
+![L'étang, 15 novembre 9h30](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100577.jpeg)
 
-![Balaruc le Vieux](https://tcrouzet.com/images_tc/2019/11/IMG_7191.jpeg)
+![Balaruc le Vieux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7191.jpeg)
 
-![Sète à contre jour](https://tcrouzet.com/images_tc/2019/11/IMG_7188.jpeg)
+![Sète à contre jour](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7188.jpeg)
 
 ### Bouzigues
 
@@ -30,13 +28,13 @@ Elle entre bientôt dans les vignes et je la quitte aussitôt pour replonger ver
 
 Ces dernières semaines, j’ai découvert des kilomètres et des kilomètres de ces routes où je ne croise jamais la moindre voiture et qui traversent vignes et pinèdes, montent descendent, tournent et retournent sans aucun souci d’optimisation, avec pour seule fonction de relier des exploitations agricoles ou des maisons isolées, parfois perdant leur macadam, se transformant en chemin, puis retrouvant le macadam. On les dirait imaginées pour le gravel et notre seule jouissance. J’y roule avec légèreté, les yeux brillants, car elles me révèlent des perspectives inconnues, entre les routes bruyantes et les terres plus hostiles où nous roulons à VTT.
 
-![Sète depuis la piste cyclable](https://tcrouzet.com/images_tc/2019/11/IMG_7194.jpeg)
+![Sète depuis la piste cyclable](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7194.jpeg)
 
-![Balaruc depuis la piste cyclable](https://tcrouzet.com/images_tc/2019/11/IMG_7195.jpeg)
+![Balaruc depuis la piste cyclable](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7195.jpeg)
 
-![Au-dessus des vignes](https://tcrouzet.com/images_tc/2019/11/IMG_7197.jpeg)
+![Au-dessus des vignes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7197.jpeg)
 
-![Ma route idéale](https://tcrouzet.com/images_tc/2019/11/IMG_7201.jpeg)
+![Ma route idéale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7201.jpeg)
 
 ### Mèze
 
@@ -54,19 +52,19 @@ La route des Salines plonge vers le domaine de Belle Mare, franchissant le ruiss
 
 Le chemin joue alors entre champs et marécages avant de rejoindre une portion asphaltée. En été, on peut emprunter la route de Tarbouriech, pour rejoindre un sentier que je vous déconseille en automne et hiver. Après le domaine de Mandourne, le fléchage suggère de tourner sur la gauche. C’est un passage superbe, mais encore une fois inondé après les fortes pluies d’automne. Je préfère donc contourner ce secteur par le nord avant de plonger à travers champ vers le domaine de la Fadèze.
 
-![La descente vers Mèze](https://tcrouzet.com/images_tc/2019/11/IMG_7204.jpeg)
+![La descente vers Mèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7204.jpeg)
 
-![La passerelle](https://tcrouzet.com/images_tc/2019/11/IMG_7209.jpeg)
+![La passerelle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7209.jpeg)
 
-![Sète](https://tcrouzet.com/images_tc/2019/11/IMG_7211.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7211.jpeg)
 
-![Port de Mèze](https://tcrouzet.com/images_tc/2019/11/IMG_7219.jpeg)
+![Port de Mèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7219.jpeg)
 
-![Mèze, la Pyramide](https://tcrouzet.com/images_tc/2019/11/IMG_7224.jpeg)
+![Mèze, la Pyramide](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7224.jpeg)
 
-![Sète](https://tcrouzet.com/images_tc/2019/11/IMG_7238.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7238.jpeg)
 
-![Bellevue](https://tcrouzet.com/images_tc/2019/11/IMG_7247.jpeg)
+![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7247.jpeg)
 
 ### Marseillan
 
@@ -78,17 +76,17 @@ Je continue sur le chemin de halage jusqu’à atteindre le pont de Marseillan p
 
 Mais à gravel, je ne crains pas la piste du bord de mer, surtout en cette saison où je ne croise que de rares promeneurs. Le vent a forci, les nuages masquent le soleil, mon compteur indique 9°C, l’humidité est palpable, odorante. Je fonce nez dans le vent, question de tourner les jambes, entre dunes et dunes, entre dunes et campings déserts ou des jardiniers s’affairent.
 
-![Une roubine](https://tcrouzet.com/images_tc/2019/11/IMG_7252.jpeg)
+![Une roubine](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7252.jpeg)
 
-![Pur gravel](https://tcrouzet.com/images_tc/2019/11/IMG_7253.jpeg)
+![Pur gravel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7253.jpeg)
 
-![Zone conchylicole](https://tcrouzet.com/images_tc/2019/11/IMG_7268.jpeg)
+![Zone conchylicole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7268.jpeg)
 
-![Zone conchylicole](https://tcrouzet.com/images_tc/2019/11/IMG_7272.jpeg)
+![Zone conchylicole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7272.jpeg)
 
-![Le phare de Marseillan](https://tcrouzet.com/images_tc/2019/11/IMG_7282.jpeg)
+![Le phare de Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7282.jpeg)
 
-![Canal du Midi](https://tcrouzet.com/images_tc/2019/11/IMG_7285.jpeg)
+![Canal du Midi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7285.jpeg)
 
 ### Sète
 
@@ -100,12 +98,16 @@ Si j’avais de bonnes jambes, j’escaladerais Saint-Clair par la montée des P
 
 Je suis si heureux que j’ai envie d’appeler tous mes copains pour leur demander de refaire ce tour avec moi, en gravel, par tous ces chemins où je prends davantage de plaisir qu’à VTT parce qu’ils sont trop peu exigeants pour lui, et que son poids, son adhérence et son aérodynamisme ne jouent pas alors en sa faveur, ni en la mienne, me privant d’un sentiment de liberté que le gravel me restitue avec générosité.
 
-![La mer](https://tcrouzet.com/images_tc/2019/11/IMG_7287-1.jpeg)
+![La mer](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7287-1.jpeg)
 
-![Redoute du Castellas](https://tcrouzet.com/images_tc/2019/11/IMG_7295.jpeg)
+![Redoute du Castellas](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7295.jpeg)
 
-![La mer à Sète](https://tcrouzet.com/images_tc/2019/11/IMG_7303.jpeg)
+![La mer à Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7303.jpeg)
 
-![Sète, la Corniche](https://tcrouzet.com/images_tc/2019/11/IMG_7314.jpeg)
+![Sète, la Corniche](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7314.jpeg)
 
-![Retour dans les vignes](https://tcrouzet.com/images_tc/2019/11/IMG_7321-1.jpeg)
+![Retour dans les vignes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_7321-1.jpeg)
+
+
+
+Tags: Born to Bike, Gravel, Mini aventures, une

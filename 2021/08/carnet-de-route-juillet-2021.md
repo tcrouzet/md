@@ -8,47 +8,47 @@
 
 ### Lundi 5, Balaruc
 
-![Sète](https://tcrouzet.com/images_tc/2021/08/IMG_0583.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0583.jpeg)
 
 ### Mardi 6, Balaruc
 
 Je suis si concentré sur *One Minute* qu’aucune autre pensée ne me traverse. Ce journal se dessèche. Parfois je me demande si je ne devrais pas y intégrer mes voyages à vélo, qui ne sont que son extension. Faire comme je l’ai fait il y a déjà six ans avec le blog, éviter de publier des articles, écrire d’un côté des textes longs, de l’autre le journal. Mais je vois une vertu dans l’article, il pousse à une sorte de finalité, de complétude en soi, qui dans le carnet n’est pas nécessaire puisqu’il ne s’agit que d’un flot de la naissance à la mort, et qui n’a ni besoin d’introduction ni de conclusion.
 
-![Ciel d'orage](https://tcrouzet.com/images_tc/2021/08/IMG_0589.jpeg)
+![Ciel d'orage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0589.jpeg)
 
 ### Mercredi 7, Montpellier
 
-![Jardin des plantes, Montpellier](https://tcrouzet.com/images_tc/2021/08/IMG_0592.jpeg)
+![Jardin des plantes, Montpellier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0592.jpeg)
 
 ### Jeudi 8, Sète
 
-![Pointe Courte](https://tcrouzet.com/images_tc/2021/08/IMG_0595.jpeg)
+![Pointe Courte](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0595.jpeg)
 
-![Pointe Courte](https://tcrouzet.com/images_tc/2021/08/IMG_0598.jpeg)
+![Pointe Courte](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0598.jpeg)
 
-![Saint-Clair](https://tcrouzet.com/images_tc/2021/08/IMG_0612.jpeg)
+![Saint-Clair](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0612.jpeg)
 
-![Saint-Clair](https://tcrouzet.com/images_tc/2021/08/IMG_0623.jpeg)
+![Saint-Clair](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0623.jpeg)
 
 ### Vendredi 9, Saint-Guilhem-le-Désert
 
-![Saint-Guilhem-le-Désert](https://tcrouzet.com/images_tc/2021/08/IMG_0628.jpeg)
+![Saint-Guilhem-le-Désert](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0628.jpeg)
 
-![Saint-Guilhem-le-Désert](https://tcrouzet.com/images_tc/2021/08/IMG_0633.jpeg)
+![Saint-Guilhem-le-Désert](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0633.jpeg)
 
-![Saint-Guilhem-le-Désert](https://tcrouzet.com/images_tc/2021/08/IMG_0637.jpeg)
+![Saint-Guilhem-le-Désert](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0637.jpeg)
 
-![Saint-Guilhem-le-Désert](https://tcrouzet.com/images_tc/2021/08/IMG_0648.jpeg)
+![Saint-Guilhem-le-Désert](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0648.jpeg)
 
 ### Samedi 10, Balaruc
 
 Reprise du travail après trois jours à jouer les touristes autour de chez moi avec les amis. Tout lâcher, alléger la vie, rajeunir avec les jeunes, toucher du doigt la frivolité bienfaitrice.
 
-![La maison par Patrick en hélico](https://tcrouzet.com/images_tc/2021/08/IMG_0660-1.jpeg)
+![La maison par Patrick en hélico](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0660-1.jpeg)
 
-![Premier test](https://tcrouzet.com/images_tc/2021/08/IMG_0666.jpeg)
+![Premier test](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0666.jpeg)
 
-![Premier test](https://tcrouzet.com/images_tc/2021/08/IMG_0673.jpeg)
+![Premier test](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_0673.jpeg)
 
 ### Dimanche 11, Balaruc
 
@@ -98,7 +98,7 @@ Terminer des projets me laisse toujours dans un état désagréable. J’ai l’
 
 Les réseaux sociaux, malgré ma prise de distance, restent vénéneux. J’ai réussi à y créer une ligue d’adversaires acharnés, qui me tombent dessus dès que j’écris un article, peut-être parce que je dérange leur conformisme, peut-être parce que je pense, parce que j’essaie d’inventer une façon de faire du vélo qui diffère de la leur.
 
-Comme je pense tout haut, ils croient que je veux leur imposer ma pensée, alors que je ne fais que décrire mon cheminement, parfois il est vrai en opposition au leur, mais sans intension de les faire changer d’avis. Je partage ma vision du vélo, du monde, de l’art. Et j’abuse de la première personne pour me tenir à l’écart de toute tentative de généralisation.
+Comme je pense tout haut, ils croient que je veux leur imposer ma pensée, alors que je ne fais que décrire mon cheminement, parfois il est vrai en opposition au leur, mais sans intension de les faire changer d’avis. Je partage ma vision du vélo, du monde, de l’art. Et j'abuse de la première personne pour me tenir à l'écart de toute tentative de généralisation.
 
 Mais certains, face à une pensée qui se donne à voir, la prennent pour une injonction, sans doute parce qu’ils ont perdu l’habitude de se confronter à longueur de journée à d’autres pensées, dont la présence posent problème comme si elle les arrachait avec douleur à leur propre intériorité toute-puissante.
 
@@ -120,4 +120,8 @@ Voilà peut-être pourquoi il y a autant de haine sur Facebook et autant de narc
 
 Je suis un être difficile qui ne se plaît qu’en compagnie d’autres difficultés, parce qu’elles mettent l’imagination en branle et provoquent des émotions puissantes.
 
-![Ciel d'orage](https://tcrouzet.com/images_tc/2021/08/IMG_1285.jpeg)
+![Ciel d'orage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/IMG_1285.jpeg)
+
+
+
+Tags: Carnets, une

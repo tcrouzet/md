@@ -12,7 +12,7 @@ Pourquoi n’en restons-nous pas au minimalisme ? Parce que, quand on n’a pas
 
 Émile et moi construisons la maquette d’une base orbitale à partir de quatre bouteilles de San Pellegrino, d’une bouteille de Gatorade et d’une boîte de riz. Nous sommes heureux du travail accompli.
 
-![Base spatiale](https://tcrouzet.com/images_tc/2019/05/P1090707-600x450.jpg)
+![Base spatiale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090707-600x450.jpg)
 
 ### Vendredi 3, Weston
 
@@ -54,7 +54,7 @@ Nin note que dans un carnet nous n’écrivons que ce qui nous arrive (surtout c
 
 ---
 
-Je suis garé devant le garage, mais je n’ose pas quitter la voiture tant il pleut. Des éclairs cisaillent le ciel, le coupe en deux, les bourrasques arrachent les palmes. Quand je suis sorti du Publix, le ciel était noir, les nuages couraient vers le sud, les cyclistes du soir paniquaient. Je n’étais pas à l’abri dans la voiture que le ciel s’est ouvert. Les gouttières n’ont pas besoin d’être sculptées en gargouille pour être effrayantes. Si j’avais un clavier, je prolongerais cette description, mais déjà le calme revient.
+Je suis garé devant le garage, mais je n'ose pas quitter la voiture tant il pleut. Des éclairs cisaillent le ciel, le coupe en deux, les bourrasques arrachent les palmes. Quand je suis sorti du Publix, le ciel était noir, les nuages couraient vers le sud, les cyclistes du soir paniquaient. Je n’étais pas à l'abri dans la voiture que le ciel s’est ouvert. Les gouttières n'ont pas besoin d’être sculptées en gargouille pour être effrayantes. Si j'avais un clavier, je prolongerais cette description, mais déjà le calme revient.
 
 ### Jeudi 9, Weston
 
@@ -64,7 +64,7 @@ Belle conversation avec Marie-Anne qui s’occupe de la promotion de [*Mon père
 
 Tous les matins, en rentrant d’accompagner les enfants à l’école, je croise une femme qui court en poussant d’une main une poussette et téléphonant de l’autre. Le contraire de la méditation : se poser et ne rien faire (sans fainéanter). Et pourquoi la méditation est-elle en vogue ? Parce que cette femme résume le mode de vie contemporain. Tu mènes une vie de dingue, puis tu tentes de compenser en t’enfermant dans un ashram.
 
-![Promenade du soir](https://tcrouzet.com/images_tc/2019/05/IMG_4683-600x450.jpg)
+![Promenade du soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/IMG_4683-600x450.jpg)
 
 ### Samedi 11, Weston
 
@@ -114,27 +114,27 @@ Panique hier soir quand mon GPS vélo me lâche. Je ne réussis à le rebooter q
 
 ### Jeudi 16, Weston
 
-Au dernier moment, avant de partir pour les Appalaches, je vérifie mon sac. J’ai oublié mon cuissard. Des semaines que je prépare ce voyage et je manque oublier cette fine couche qui séparera mes fesses de ma selle. Un psychanalyste pourrait sans doute gloser sans fin.
+Au dernier moment, avant de partir pour les Appalaches, je vérifie mon sac. J'ai oublié mon cuissard. Des semaines que je prépare ce voyage et je manque oublier cette fine couche qui séparera mes fesses de ma selle. Un psychanalyste pourrait sans doute gloser sans fin.
 
 ### Vendredi 17, Reliance
 
-J’arrive dans les Smoky Mountains. J’ai longtemps planifié ce voyage, j’ai étudié le parcours, j’ai optimisé mon matériel, j’ai discuté avec mes futurs partenaires et me voilà au lieu dit du départ qui sera donné demain matin à 6 h 45.
+J'arrive dans les Smoky Mountains. J’ai longtemps planifié ce voyage, j'ai étudié le parcours, j'ai optimisé mon matériel, j'ai discuté avec mes futurs partenaires et me voilà au lieu dit du départ qui sera donné demain matin à 6 h 45.
 
-Hier soir, j’ai dormi à Ocala chez Scotty, mon aîné de trois ans dans cette course que les anciens participants qualifient de terrible. Scotty habite une de ces maisons basses des années 1970, toute en longueur, cachée sous les arbres. Nous avons parlé de nos non-ambitions. « Je ne vais pas vite, me dit Scotty, mais je ne veux pas dormir beaucoup. » On est d’accord sur tout sauf sur ce point. Nous verrons bien.
+Hier soir, j’ai dormi à Ocala chez Scotty, mon aîné de trois ans dans cette course que les anciens participants qualifient de terrible. Scotty habite une de ces maisons basses des années 1970, toute en longueur, cachée sous les arbres. Nous avons parlé de nos non-ambitions. « Je ne vais pas vite, me dit Scotty, mais je ne veux pas dormir beaucoup. » On est d'accord sur tout sauf sur ce point. Nous verrons bien.
 
-Quatre heures pour atteindre Ocala, cinq heures ce matin pour atteindre Atlanta, d’une autoroute monotone, puis je l’ai quittée pour l’US411 peu avant d’entrer dans le Tennessee. Très vite les Smoky Mountains se sont dessinées, un massif vosgien aux moutonnements boisés.
+Quatre heures pour atteindre Ocala, cinq heures ce matin pour atteindre Atlanta, d'une autoroute monotone, puis je l'ai quittée pour l'US411 peu avant d'entrer dans le Tennessee. Très vite les Smoky Mountains se sont dessinées, un massif vosgien aux moutonnements boisés.
 
-Sur l’autoroute, j’ai imaginé une histoire à la Simak. Un gamin un peu gros, mal aimé, découvre une sorte de boule de pétanque. Il la cache chez lui. Le lendemain quand il rentre de l’école, la boule a roulé au sol. Mais comment ? Elle était cachée dans un tiroir. Si sa mère l’avait trouvée, elle ne l’aurait pas laissée traîner et elle lui en aurait parlé. Voilà un début qui me plaît.
+Sur l'autoroute, j'ai imaginé une histoire à la Simak. Un gamin un peu gros, mal aimé, découvre une sorte de boule de pétanque. Il la cache chez lui. Le lendemain quand il rentre de l’école, la boule a roulé au sol. Mais comment ? Elle était cachée dans un tiroir. Si sa mère l’avait trouvée, elle ne l’aurait pas laissée traîner et elle lui en aurait parlé. Voilà un début qui me plaît.
 
-Le garçon se met à faire du sport, il change, devient ambitieux, en même temps qu’il cherche à percer le mystère de cette boule, qui toujours sort de ses cachettes comme si elle cherchait la lumière.
+Le garçon se met à faire du sport, il change, devient ambitieux, en même temps qu'il cherche à percer le mystère de cette boule, qui toujours sort de ses cachettes comme si elle cherchait la lumière.
 
-On retrouve le garçon plus tard, il est devenu un brillant chercheur. Dans son laboratoire, il soumet la boule à tous les tests imaginables. Elle est impénétrable aux systèmes de radiographie. Le garçon commence à comprendre qu’il a découvert un artefact magique ou une technologie extraterrestre.
+On retrouve le garçon plus tard, il est devenu un brillant chercheur. Dans son laboratoire, il soumet la boule à tous les tests imaginables. Elle est impénétrable aux systèmes de radiographie. Le garçon commence à comprendre qu'il a découvert un artefact magique ou une technologie extraterrestre.
 
-Bien sûr des gens cherchent cette boule, dont on retrouve la représentation sur de nombreuses gravures et peintures anciennes, jusqu’en Égypte ancienne. Depuis longtemps elle a été oubliée sur terre par un voyageur venu de l’espace, à dessein d’ailleurs. Elle enregistre la vie de ses propriétaires successifs pour écrire une sorte d’histoire universelle.
+Bien sûr des gens cherchent cette boule, dont on retrouve la représentation sur de nombreuses gravures et peintures anciennes, jusqu'en Égypte ancienne. Depuis longtemps elle a été oubliée sur terre par un voyageur venu de l'espace, à dessein d'ailleurs. Elle enregistre la vie de ses propriétaires successifs pour écrire une sorte d’histoire universelle.
 
-Le garçon ouvrira sa mémoire, entrera en contact avec elle. Il accédera aux histoires de ses prédécesseurs et comprendra que la plupart meurent de façon dramatique et qu’alors la boule se perd, ou s’échappe, pour être découverte par une autre créature. Ce pourrait être l’occasion de raconter une saga cosmique et à la fois intimiste.
+Le garçon ouvrira sa mémoire, entrera en contact avec elle. Il accédera aux histoires de ses prédécesseurs et comprendra que la plupart meurent de façon dramatique et qu'alors la boule se perd, ou s'échappe, pour être découverte par une autre créature. Ce pourrait être l'occasion de raconter une saga cosmique et à la fois intimiste.
 
-![Atlanta](https://tcrouzet.com/images_tc/2019/05/IMG_4747-600x450.jpg)
+![Atlanta](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/IMG_4747-600x450.jpg)
 
 ### Jeudi 23, Weston
 
@@ -179,3 +179,5 @@ Un Américain me dit qu’il a arrêté de lire [mon texte sur les Smokies](http
 ### Vencredi 31, Weston
 
 J’ai peur que mon mal-être de Floride ne doive rien à la Floride, mais à ma situation en tant qu’écrivain, à cette limite au-delà de laquelle mon ticket ne sera plus valable. La parenthèse floridienne va se refermer. Je vais remettre les deux pieds dans la réalité dont j’ai pu m’abstraire par un tour de passe-passe assez grossier.
+
+Tags: Carnets, une

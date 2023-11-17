@@ -1,6 +1,6 @@
 # La Néthique
 
-Samedi, je serai à nouveau à Paris pour participer à la conférence [internet et éthique](http://nethique.info/). Nous allons nous demander quelles règles nous devrions respecter sur nos sites ?<span id="more-392"></span>
+Samedi, je serai à nouveau à Paris pour participer à la conférence [internet et éthique](http://nethique.info/). Nous allons nous demander quelles règles nous devrions respecter sur nos sites ?<span id="more-392"></span> 
 
 Dès les premiers forums USENET, une nétiquette est apparue. Est-elle nécessaire ? Je pense que oui mais son texte ne doit ni être définitif, ni être unique, ni être imposé par qui que ce soit, surtout pas le gouvernement. Libre à chacun d’entre-nous de nous attacher à une charte ou à une autre. C’est avant tout à nos lecteurs de nous sanctionner si nous dépassons les bornes.
 
@@ -10,9 +10,9 @@ De ces remarques préliminaires, je tire deux règles qui devraient être dans t
 
 2. Aucune néthique ne doit être gravée dans le marbre. Son texte même doit être ouvert aux commentaires et, pourquoi pas, donner naissance régulièrement à de nouvelles versions. Il devrait en être de même de tous les textes fondamentaux, déclaration des droits de l’homme par exemple (qui ignorent encore les droits des générations à venir il me semble).
 
-Cela dit les néthiques peuvent sans doute varier suivant leur champ d’application. Par exemple, pour peser dans la vie démocratique, les blogueurs doivent s’imposer un peu de rigueur. Adam Kesher a fait [quelques propositions en ce sens ](http://adamkesher.canalblog.com/archives/2006/10/20/2947964.html). Elles me semblent pertinentes. Je les avais reprises et modifiées quelque peu dans le manuscrit du [cinquième pouvoir](https://tcrouzet.com/le-cinquieme-pouvoir/) avant de couper ce passage.
+Cela dit les néthiques peuvent sans doute varier suivant leur champ d’application. Par exemple, pour peser dans la vie démocratique, les blogueurs doivent s’imposer un peu de rigueur. Adam Kesher a fait [quelques propositions en ce sens ](http://adamkesher.canalblog.com/archives/2006/10/20/2947964.html). Elles me semblent pertinentes. Je les avais reprises et modifiées quelque peu dans le manuscrit du [cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/) avant de couper ce passage.
 
-1. Nous devons être force de propositions. Étienne Chouard nous montra comment un citoyen anonyme pouvait se lancer dans le [projet fou d’écrire une nouvelle constitution européenne](https://tcrouzet.com/2007/03/04/pour-une-assemblee-constituante/). Il faut maintenant que se lèvent des foules héroïques et positives.
+1. Nous devons être force de propositions. Étienne Chouard nous montra comment un citoyen anonyme pouvait se lancer dans le [projet fou d’écrire une nouvelle constitution européenne](http://blog.tcrouzet.com/2007/03/04/pour-une-assemblee-constituante/). Il faut maintenant que se lèvent des foules héroïques et positives.
 
 2. Les blogueurs doivent prendre le temps d’approfondir et ne pas imiter la télévision en se battant à coup de petites phrases. Ils doivent exploiter toutes la bande passante offerte par internet.
 
@@ -23,3 +23,5 @@ Cela dit les néthiques peuvent sans doute varier suivant leur champ d’applica
 5. Les blogueurs doivent être solidaires lorsque certains d’entre eux se feront attaquer par des politiciens qui auront intérêt à faire taire le cinquième pouvoir. À l’avenir, les partis mal à l’aise avec internet, suspicieux quant à son usage, mal représentés dans la blogosphère, useront à coup sûr du dénigrement contre ceux-là même qui seraient tentés d’en abuser. Le cinquième pouvoir n’a aucune légitimité institutionnelle, on pourra le lui reprocher, surtout s’il se complait dans le dénigrement.
 
 En niant l’influence même d’internet dans la vie politique, certains blogueurs, malgré eux, sont en train de nous dire que nous pouvons faire n’importe quoi (du moment que ça n’a pas d’effet). Je crois, au contraire, que nous avons une grande responsabilité. Internet, en démultipliant le pouvoir entre nos mains, nous oblige à la vigilance. Nous ne pouvons plus dire que c’est la faute des autres. « Les autres, c’est nous. »
+
+Tags: Politique

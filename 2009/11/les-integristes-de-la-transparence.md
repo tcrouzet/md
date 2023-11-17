@@ -2,7 +2,7 @@
 
 Beaucoup de voix s’élèvent pour exiger la totale transparence des données gouvernementales. Je me suis souvent positionné dans le camp de ces intégristes de la transparence avant d’aboutir à une position plus nuancée.<span id="more-12010"></span>
 
-J’ai [déjà insisté](https://tcrouzet.com/2009/08/19/socialiser-peut-tuer-la-creativite/) sur le fait que la transparence totale pour un individu, une entreprise, ou même une communauté open source, n’était pas la panacée, du moins dans une première phase. La transparence totale, c’est-à-dire immédiate, implique la dissolution des données dans l’espace informationnel. Dans certains cas, il faut laisser les choses mûrir avant de les exposer à la critique générale. C’est vrai pour tous les citoyens, élus ou pas.
+J’ai [déjà insisté](http://blog.tcrouzet.com/2009/08/19/socialiser-peut-tuer-la-creativite/) sur le fait que la transparence totale pour un individu, une entreprise, ou même une communauté open source, n’était pas la panacée, du moins dans une première phase. La transparence totale, c’est-à-dire immédiate, implique la dissolution des données dans l’espace informationnel. Dans certains cas, il faut laisser les choses mûrir avant de les exposer à la critique générale. C’est vrai pour tous les citoyens, élus ou pas.
 
 Cette obscurité qui favorise les mutations créatrices peut favoriser des mutations pernicieuses. Mais on ne peut pas avoir le beurre et l’argent du beurre. En tant qu’auteur, je veux pouvoir travailler mes textes un minimum dans le secret. Je peux m’amuser à tout écrire en direct sur Wave ou sur Twitter comme avec [*Croisade*](http://twiller.tcrouzet.com/) mais cela reste une expérience. Je n’envisage pas d’avoir une webcam au-dessus de mon clavier en permanence (surtout avec mes horribles fautes d’orthographes).
 
@@ -27,3 +27,5 @@ La technologie permet la transparence ce n’est pas une raison suffisante pour 
 1. Je n’ai jamais fondé le cinquième pouvoir sur la transparence mais sur notre capacité à décentraliser les pouvoirs. Nous n’avons rien à demander au pouvoir existant, pas même la transparence.
 
 2. La technologie peut nous apporter le pire comme le meilleur. Nous devons nous battre pour le meilleur tout en évitant le pire.
+
+Tags: Politique

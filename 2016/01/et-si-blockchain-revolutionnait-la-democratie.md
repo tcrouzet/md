@@ -38,8 +38,12 @@ Selon cette perspective techniquement à nos portes, des utopies deviennent poss
 
 Tout reste à construire, à conceptualiser, tant du côté informatique que du côté philosophique, mais la multiplication des projets blockchain est de bon augure. Il reste à miner tout cela, à le mettre le cul par-dessus la tête.
 
-L’idée n’est pas d’éradiquer la coercition, mais de la laisser hors de la chaîne.
+L'idée n'est pas d'éradiquer la coercition, mais de la laisser hors de la chaîne.
 
-L’idée n’est pas de créer un nouveau parti, encore moins un syndicat, qui réclamerait quelque chose à un pouvoir en place, mais d’agir ensemble, concrètement, de construire et non de revendiquer. C’est parce que seul on ne peut tout faire qu’il faut pouvoir se retrouver si nécessaire, et ce sera nécessaire pour réinventer l’école, la monnaie, la santé…
+L'idée n'est pas de créer un nouveau parti, encore moins un syndicat, qui réclamerait quelque chose à un pouvoir en place, mais d'agir ensemble, concrètement, de construire et non de revendiquer. C'est parce que seul on ne peut tout faire qu'il faut pouvoir se retrouver si nécessaire, et ce sera nécessaire pour réinventer l'école, la monnaie, la santé…
 
-![Blockchain, nous promets de passer de l'architecture du Net à une réelle architecture décentralisée, une architecture maillée.](https://tcrouzet.com/images_tc/2016/01/bchain.png)
+![Blockchain, nous promets de passer de l'architecture du Net à une réelle architecture décentralisée, une architecture maillée.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/bchain.png)
+
+
+
+Tags: Blockchain, Politique, une

@@ -6,13 +6,13 @@
 
 Je termine de monter mon nouveau vélo pour le bikepacking. Démangeaisons dans les pattes, envie de partir explorer avec les copains.
 
-![Nouveau vélo bikepacking](https://tcrouzet.com/images_tc/2020/04/IMG_9430.jpeg)
+![Nouveau vélo bikepacking](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_9430.jpeg)
 
 ### Mardi 3, Balaruc
 
 Dans la boulangerie, ils portent tous des gants, mais ils n’en changent jamais. Comment leur dire que ça ne sert à rien ? Le virus ne pénètre pas par la peau. Ils feraient mieux pratiquer l’hygiène des mains à longueur de journée, de refuser les paiements en liquide, de n’avoir jamais le moindre contact direct ou indirect avec les clients.<span id="more-53793"></span>
 
-![Sète au loin](https://tcrouzet.com/images_tc/2020/04/IMG_9443.jpeg)
+![Sète au loin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_9443.jpeg)
 
 ### Mercredi 4, Balaruc
 
@@ -20,7 +20,7 @@ Le mois a commencé, je ne m’en suis pas rendu compte. Je cours après le temp
 
 ### Jeudi 5, Balaruc
 
-L’OMS relève le taux de mortalité du coronavirus à 3,4 %. C’est absurde. Pour connaître le taux de mortalité, il faut connaître le nombre réel de cas, or nous ne connaissons que les cas identifiés, seulement une fraction de la totalité. Annoncer un tel taux de mortalité, presque celui de la grippe espagnole de 1918-1919, c’est juste irrationnel, à moins qu’il ne s’agisse d’une stratégie pour faire réagir les gouvernements et leur faire prendre des mesures radicales (même Trump n’y croit pas, pour une fois je suis d’accord avec lui).
+L’OMS relève le taux de mortalité du coronavirus à 3,4 %. C’est absurde. Pour connaître le taux de mortalité, il faut connaître le nombre réel de cas, or nous ne connaissons que les cas identifiés, seulement une fraction de la totalité. Annoncer un tel taux de mortalité, presque celui de la grippe espagnole de 1918-1919, c’est juste irrationnel, à moins qu’il ne s’agisse d’une stratégie pour faire réagir les gouvernements et leur faire prendre des mesures radicales (même Trump n'y croit pas, pour une fois je suis d’accord avec lui).
 
 ### Vendredi 6, Balaruc
 
@@ -30,13 +30,13 @@ J’écris « publié » à la place de « oublié », une lettre de différ
 
 Je passe devant une boutique récemment rénovée. La patronne que je connais depuis toujours me demande ce que j’en pense, puis elle me dit « Je ne t’approche pas, je suis en quarantaine. » Elle m’apprend qu’elle rentre d’Italie du Nord et qu’elle doit rester confinée. Mais qu’est-ce que tu fais dans ta boutique ?
 
-![À vélo, Bellevue](https://tcrouzet.com/images_tc/2020/04/IMG_9451.jpeg)
+![À vélo, Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_9451.jpeg)
 
 ### Dimanche 8, Balaruc
 
 Pourquoi collectivement avons-nous du mal à prendre en compte les consignes élémentaires d’hygiènes. Est-ce si difficile de ne pas se faire la bise ou de ne pas se serrer la main ? Tout le monde craint le virus, mais individuellement personne n’agit pour lui barrer la route, laissant aux autres cette tâche. Le but n’est pas d’empêcher les gens de vivre, mais de ralentir la pandémie pour que les hôpitaux puissent l’absorber, ce qu’ils ne réussissent plus à faire en Italie, les médecins étant forcés de laisser mourir les malades les plus âgées (personne ne parle encore publiquement de cette horreur, mais le mot passe de médecin en médecin — au point que certains n’ont plus le courage de regarder leurs patients dans les yeux). Quand un système de santé prend une pandémie de plein fouet, il bascule en médecine de guerre : on ne tente de sauver que les plus jeunes et on abandonne les autres.
 
-![Randonnée VTT avec les copains](https://tcrouzet.com/images_tc/2020/04/IMG_9462.jpeg)
+![Randonnée VTT avec les copains](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_9462.jpeg)
 
 ### Lundi 9, Balaruc
 
@@ -46,11 +46,11 @@ J’attrape par hasard un livre d’Annie Ernaux, *L’Occupation*, c’est une 
 
 Longue balade gravel. Je roule vers l’ouest, toujours plus loin, avec les Pyrénées blanches en ligne de mire. C’est somptueux. Je ne voudrais être nulle part ailleurs, pas même devant mon clavier à écrire. J’ai déjà assez écrit. Un lecteur, je ne sais pas si je dois l’appeler ainsi, suite à [la republication d’un vieil article](https://tcrouzet.com/2020/03/08/lhistoire-du-pape-des-solutions-hydro-alcooliques/), me demande de le lui résumer en dix lignes parce que justement je tirerais à la ligne. Dire que cet article est déjà [le résumé du *Geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/). Si lire vous fatigue, ne lisez plus, et ne m’emmerdez pas. Comme ces chasseurs qui ce matin, alors que la chasse est fermée, faisaient une battue administrative ordonnée par le préfet. Foutage de gueule. S’il y a trop de sangliers, installez des pièges et arrêtez de nous menacer avec vos armes. La chasse ne devrait être autorisée que sur les terrains privés. Là, ils m’ont imposé un détour par une route alors que je voulais passer par un chemin public, en plus balisée VTT par la fédération française de cyclisme. Tout est normal, comme ces avions qui volent à vide pour que les compagnies ne perdent pas leurs lignes au profit d’autres compagnies. Il y a des jours où l’absurdité m’ensevelit, heureusement la lumière est encore plus forte. Elle surpasse les pingreries et les fait oublier. Même à la veille de la fin du monde, elle pourrait encore être sublime.
 
-![Les Pyrénées au bout de la route](https://tcrouzet.com/images_tc/2020/04/IMG_9551.jpeg)
+![Les Pyrénées au bout de la route](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_9551.jpeg)
 
-![Les chemins que j'aime](https://tcrouzet.com/images_tc/2020/04/IMG_9560.jpeg)
+![Les chemins que j'aime](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_9560.jpeg)
 
-![Toujours les Pyrénées](https://tcrouzet.com/images_tc/2020/04/IMG_9563.jpeg)
+![Toujours les Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_9563.jpeg)
 
 ### Jeudi 12, Balaruc
 
@@ -76,11 +76,11 @@ Je commence une entrée de ce journal et [la transforme en billet de blog](https
 
 Des traitements apparaissent, piste chloroquine de Raoult à Marseille. La science sauvera nos fesses… Je ne vois pas d’autres solutions pour nos autres problèmes globaux.
 
-![Ma garrigue](https://tcrouzet.com/images_tc/2020/04/IMG_9657-1.jpeg)
+![Ma garrigue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_9657-1.jpeg)
 
 ### Jeudi 19, Balaruc
 
-![Des jours comme ça](https://tcrouzet.com/images_tc/2020/04/IMG_9674.jpeg)
+![Des jours comme ça](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_9674.jpeg)
 
 ### Vendredi 20, Balaruc
 
@@ -88,7 +88,7 @@ Je journal d’un écrivain au temps du confinement devrait se résumer à « J
 
 ---
 
-Se confiner, se confiner, c’est bien, sauf quand on a des malades à la maison. Isa touchée à son tour. Une toux déchirante. Je serais mieux sur mon vélo à prendre l’air et stimuler mon système immunitaire.
+Se confiner, se confiner, c'est bien, sauf quand on a des malades à la maison. Isa touchée à son tour. Une toux déchirante. Je serais mieux sur mon vélo à prendre l'air et stimuler mon système immunitaire.
 
 ---
 
@@ -116,11 +116,11 @@ Suis allé faire un footing de 5 km à moins d’un kilomètre de la maison, un 
 
 ### Dimanche 22, Balaruc
 
-Dans quelque temps, on fera les statistiques. On comparera la morbidité de ces mois de crise avec les années antérieures. Si on ne voit rien de notable, j’en doute pour l’Italie, on applaudira les gouvernements, qui auront évité le pire, ou on les accusera d’en avoir trop fait, parce qu’il rien n’aura différé de d’habitude.
+Dans quelque temps, on fera les statistiques. On comparera la morbidité de ces mois de crise avec les années antérieures. Si on ne voit rien de notable, j’en doute pour l’Italie, on applaudira les gouvernements, qui auront évité le pire, ou on les accusera d’en avoir trop fait, parce qu’il rien n'aura différé de d’habitude.
 
 ### Lundi 23, Balaruc
 
-Tout le monde a le droit de donner son avis, mais quand j’assiste à un emballement mimétique qui n’a plus rien de raisonnable je prends peur. Je pense à la chloroquine dont j’ai poussé la news sur les réseaux dès le premier instant.
+Tout le monde a le droit de donner son avis, mais quand j’assiste à un emballement mimétique qui n'a plus rien de raisonnable je prends peur. Je pense à la chloroquine dont j’ai poussé la news sur les réseaux dès le premier instant.
 
 ---
 
@@ -128,15 +128,15 @@ Première sortie pour aller faire des courses. Les clients prudents. Les caissi�
 
 ### Mercredi 25, Balaruc
 
-Tim 15 ans, c’est une date dans la vie. Puis je vais faire mon cercle à vélo. Dans le petit bois, une nana qui promène son chien m’insulte alors qu’elle m’empêche de prendre le chemin barré par sa laisse démesurément longue.
+Tim 15 ans, c’est une date dans la vie. Puis je vais faire mon cercle à vélo. Dans le petit bois, une nana qui promène son chien m’insulte alors qu'elle m'empêche de prendre le chemin barré par sa laisse démesurément longue.
 
-![Avant de me faire insulter](https://tcrouzet.com/images_tc/2020/04/IMG_9855.jpeg)
+![Avant de me faire insulter](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_9855.jpeg)
 
-![Sète](https://tcrouzet.com/images_tc/2020/04/IMG_9863.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_9863.jpeg)
 
 ### Jeudi 26, Balaruc
 
-On fait des sondages sur tout, sauf sur le nombre de contaminés. Il suffirait d’entrer chez mille Français pris au hasard, de les tester et on connaîtrait l’état sanitaire de la population, le nombre de cas réels. On pourrait mieux prévoir la suite, sans doute adapter nos stratégies de défense, mais non, on se contente de demander aux Français s’ils apprécient le Président.
+On fait des sondages sur tout, sauf sur le nombre de contaminés. Il suffirait d’entrer chez mille Français pris au hasard, de les tester et on connaîtrait l'état sanitaire de la population, le nombre de cas réels. On pourrait mieux prévoir la suite, sans doute adapter nos stratégies de défense, mais non, on se contente de demander aux Français s’ils apprécient le Président.
 
 ### Vendredi 27, Balaruc
 
@@ -185,3 +185,5 @@ Malheureusement ce soir, le nombre de victimes repart à la hausse, mais l’év
 ### Mardi 31, Balaruc
 
 Il est temps pour moi d’en revenir à ce journal, [de cesser de réagir au jour le jour à notre statut de confiné](https://tcrouzet.com/tag/confinement/), j’ai dit ce que j’avais à dire et il ne reste plus qu’à le vivre pour le meilleur et pour le pire. Je vais aussi en revenir à ma distanciation habituelle avec les news parce que cet opium finira par me rendre improductif. Il est onze heures et je n’ai pas encore commencé à bosser sur mon livre. Je peux déjà résumer ma journée avant de la vivre. C’est assez flippant.
+
+Tags: Carnets, une

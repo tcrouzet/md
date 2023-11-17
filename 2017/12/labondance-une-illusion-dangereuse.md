@@ -6,7 +6,7 @@ En Méditerranée, il a fallu établir des quotas pour stopper la tragédie des 
 
 Suite à [mon premier billet sur l’abondance](https://tcrouzet.com/2017/12/27/labondance-est-elle-un-probleme/), Michèle Turbin a écrit sur Facebook :
 
-> Si pour nous ce qui est rare a plus de valeur, alors on se fiche de ce qui nous semble abondant. L’air et l’eau, par exemple. Jusqu’à les épuiser et les rendre rares. Donc chers.
+> Si pour nous ce qui est rare a plus de valeur, alors on se fiche de ce qui nous semble abondant. L'air et l'eau, par exemple. Jusqu'à les épuiser et les rendre rares. Donc chers.
 
 Je suis bien d’accord, sauf que le « Si » n’est pas nécessaire. Pour nous, tout au moins la plupart d’entre nous, et notamment les collectionneurs, ce qui est rare a plus de valeur que ce qui est abondant, ce qui en effet implique du mépris, de la négligence ou de l’indifférence vis-à-vis des ressources abondantes, attitude critique quand notre survie en tant qu’espèce et notre survie culturelle dépendent de ces ressources abondantes.
 
@@ -16,9 +16,9 @@ Dans l’espace numérique, le problème n’est différent qu’en apparence (e
 
 Sur Twitter, [Calimaq écrit](https://twitter.com/Calimaq/status/946306487172976640) :
 
-> \[…\] maintenir une rareté des textes implique de maintenir artificiellement une rareté des auteurs dans la société, ce qui ne peut se faire que par une oppression culturelle et soulève un grave problème de justice sociale…
+> \[…\] maintenir une rareté des textes implique de maintenir artificiellement une rareté des auteurs dans la société, ce qui ne peut se faire que par une oppression culturelle et soulève un grave problème de justice sociale...
 
-Je suis désolé [si j’ai pu laisser entendre que j’étais pour la raréfaction des textes des auteurs en général](https://tcrouzet.com/2017/12/27/labondance-est-elle-un-probleme/), et, de fait, de leur raréfaction. Étant moi-même un auteur, si j’étais pour leur raréfaction, je devrais immédiatement cesser de publier. Je ne suis pour la raréfaction de quoi que ce soit, j’attire juste l’attention sur les problèmes engendrés par l’abondance (pour les poissons, les quotas ont raréfié la ressource pour lui donner le temps de se reconstituer).
+Je suis désolé [si j'ai pu laisser entendre que j’étais pour la raréfaction des textes des auteurs en général](https://tcrouzet.com/2017/12/27/labondance-est-elle-un-probleme/), et, de fait, de leur raréfaction. Étant moi-même un auteur, si j’étais pour leur raréfaction, je devrais immédiatement cesser de publier. Je ne suis pour la raréfaction de quoi que ce soit, j’attire juste l’attention sur les problèmes engendrés par l’abondance (pour les poissons, les quotas ont raréfié la ressource pour lui donner le temps de se reconstituer).
 
 Face à l’abondance, je me demande comment je dois me comporter. Rendre rare mes textes en les faisant payer est une solution (je n’ai pas parlé de quotas pour les auteurs). Faire payer n’est pas faire disparaître les textes, mais les rendre moins fluides. Et je n’ai pas exigé une loi qui imposerait aux auteurs de vendre leurs productions. Que chacun agisse à sa guise. Pour l’instant, je ne vends que mes livres, et [la plupart en ?1](https://tcrouzet.com/2017/12/15/je-ne-donne-plus-je-vends-en-g1/), ce qui n’est pas une méthode radicale de raréfaction puisque cette monnaie est abondante.
 
@@ -40,12 +40,14 @@ Peut-être que pour soulager les auteurs on leur promettra bientôt que leurs te
 
 Aristote s’effrayait de l’abondance des textes que l’écriture introduisait dans la société. Contrairement à lui, je n’ai pas peur de l’abondance, mais je pense que derrière l’abondance se cachent des créateurs qui eux souffrent. Je parle d’une souffrance, cette souffrance propre aux producteurs exploités par une machine qui le dépasse et le méprise. Une révolution qui se fait au prix de la souffrance ne me paraît pas positive.
 
-Et quand du côté des lecteurs, elle implique plus que jamais le recours à des tiers, qu’ils soient techniques, les IA ou les robots d’indexation, ou humains, les bibliothécaires ou les libraires, je ne peux davantage m’en satisfaire. Le recours aux tiers implique une uniformisation, un filtrage de l’abondance, sa réduction, sa raréfaction pour qu’elle soit consommable. Nous en revenons à la nier, à en faire un terreau invisible. Cette stratégie ne me paraît pas très glorieuse. J’espérais que les lecteurs auraient le courage et les moyens techniques de voyager dans l’abondance.
+Et quand du côté des lecteurs, elle implique plus que jamais le recours à des tiers, qu’ils soient techniques, les IA ou les robots d’indexation, ou humains, les bibliothécaires ou les libraires, je ne peux davantage m'en satisfaire. Le recours aux tiers implique une uniformisation, un filtrage de l’abondance, sa réduction, sa raréfaction pour qu’elle soit consommable. Nous en revenons à la nier, à en faire un terreau invisible. Cette stratégie ne me paraît pas très glorieuse. J’espérais que les lecteurs auraient le courage et les moyens techniques de voyager dans l’abondance.
 
-À ce stade de ma réflexion, militer pour l’abondance ne me paraît ni sage ni nécessaire. Plus l’abondance se développe, plus se développe le [capitalisme cognitif](https://tcrouzet.com/tag/capitalisme-cognitif/).
+À ce stade de ma réflexion, militer pour l'abondance ne me paraît ni sage ni nécessaire. Plus l'abondance se développe, plus se développe le [capitalisme cognitif](https://tcrouzet.com/tag/capitalisme-cognitif/).
 
-*PS1 : Je ne vois aucune contradiction à être pour l’abondance (puisque potentiellement elle implique la diversité) et en déplorer les effets néfastes (il existe toujours des effets néfastes). Une image. On peut être pour la bonne bouffe tout en sachant qu’elle nuit à la santé. Il me paraît au contraire important d’identifier les effets négatifs (comme le font les médecins avec n’importe quel médicament).*
+*PS1 : Je ne vois aucune contradiction à être pour l'abondance (puisque potentiellement elle implique la diversité) et en déplorer les effets néfastes (il existe toujours des effets néfastes). Une image. On peut être pour la bonne bouffe tout en sachant qu'elle nuit à la santé. Il me paraît au contraire important d'identifier les effets négatifs (comme le font les médecins avec n'importe quel médicament).*
 
-*PS2 : L’air et l’eau sont abondants, mais chacun de nous ne peut les goûter que brièvement parce que notre temps est compté. Toute ressource abondante possède son revers dans la rareté, et donc est tout aussi précieuse que si elle était rare.*
+*PS2 : L'air et l'eau sont abondants, mais chacun de nous ne peut les goûter que brièvement parce que notre temps est compté. Toute ressource abondante possède son revers dans la rareté, et donc est tout aussi précieuse que si elle était rare.*
 
-*PS3 : Je conclus par l’image d’un moment rare et, pour moi, précieux. J’en fais des photos en abondance, sans ne rien enlever à la rareté du moment.*
+*PS3 : Je conclus par l'image d'un moment rare et, pour moi, précieux. J'en fais des photos en abondance, sans ne rien enlever à la rareté du moment.*
+
+Tags: NetCulture, une

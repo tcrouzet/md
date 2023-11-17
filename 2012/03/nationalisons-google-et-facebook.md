@@ -18,7 +18,7 @@ The Huffington Post republie nos articles tout en amplifiant leur audience.
 
 Moteurs de recherches, réseaux sociaux, agrégateurs de contenus et de nombreux autres services exploitent le statuquo. Quelle en est la légitimité ?
 
-Depuis le début de [mon expérience de déconnexion](https://tcrouzet.com/tag/jai-debranche/), j’ai été exposé médiatiquement. Qu’est-ce que j’ai fait de cette visibilité ? Rien. Elle ne m’a même pas rapporté de quoi manger. Je ne vends pas plus d’exemplaires de [*J’ai débranché*](https://tcrouzet.com/jai-debranche/) que du [*Peuple des connecteurs*](https://tcrouzet.com/le-peuple-des-connecteurs/), pourtant privé de couverture média, et François Bon n’a pas vu [mes textes s’arracher sur publie.net](http://www.publie.net/fr/list/rechercher/page/1/date?q=Crouzet).
+Depuis le début de [mon expérience de déconnexion](http://blog.tcrouzet.com/tag/jai-debranche/), j’ai été exposé médiatiquement. Qu’est-ce que j’ai fait de cette visibilité ? Rien. Elle ne m’a même pas rapporté de quoi manger. Je ne vends pas plus d’exemplaires de [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/) que du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), pourtant privé de couverture média, et François Bon n’a pas vu [mes textes s’arracher sur publie.net](http://www.publie.net/fr/list/rechercher/page/1/date?q=Crouzet).
 
 La visibilité ne m’apporte rien, sinon nourrir médiocrement mon narcissisme.
 
@@ -26,9 +26,9 @@ La visibilité n’apporte rien à la plupart des gens.
 
 La visibilité n’est que du vent tant qu’elle ne se transforme pas en hyper visibilité, une hyper visibilité qu’aucun service ne pourra jamais nous offrir, tout simplement parce que nous ne pouvons être tous hyper visibles. C’est le public qui nous rend visibles et non pas des services.
 
-Parmi tous les usagers du Web, la visibilité n’intéresse que de rares VRP et la foule innombrables des entreprises qui emploient des référenceurs et des [community managers](https://tcrouzet.com/2010/09/16/les-community-managers-sont-des-putes/) pour l’accroître. Pour eux, elle est rentable. Ils parlent de taux de conversion. Mais pour nous, l’immense majorité pourvoyeuse de 99 % des contenus, elle ne vaut rien.
+Parmi tous les usagers du Web, la visibilité n’intéresse que de rares VRP et la foule innombrables des entreprises qui emploient des référenceurs et des [community managers](http://blog.tcrouzet.com/2010/09/16/les-community-managers-sont-des-putes/) pour l’accroître. Pour eux, elle est rentable. Ils parlent de taux de conversion. Mais pour nous, l’immense majorité pourvoyeuse de 99 % des contenus, elle ne vaut rien.
 
-Que j’ai cent, mille ou dix-mille lecteurs sur mon blog pour un article, ça ne change rien à ma vie (et le narcissisme ne me sustente que jusqu’à un point limité).
+Que j’ai cent, mille ou dix-mille lecteurs sur mon blog pour un article, ça ne change rien à ma vie (et le narcissisme ne me sustente que jusqu'à un point limité).
 
 Google et consorts exploitent l’intégralité de nos contenus, les monétisent et nous rémunèrent avec une monnaie de singe, la visibilité.
 
@@ -36,7 +36,7 @@ Quand dans un mail je défends cette idée face à l’une des initiatrices de M
 
 > « Aujourd’hui vous bénéficiez de quelques feux d’actualité mais l’expérience montre qu’ils ne durent pas très longtemps. »
 
-Chère François, ce qui m’intéresse, c’est en réalité de communiquer librement, [de créer des liens énergisés à la beauté](https://tcrouzet.com/baby-foot/). Tout le reste n’est qu’un leurre marketing.
+Chère François, ce qui m’intéresse, c’est en réalité de communiquer librement, [de créer des liens énergisés à la beauté](http://blog.tcrouzet.com/baby-foot/). Tout le reste n’est qu’un leurre marketing.
 
 Même dans une société [dominée par l’abondance (de l’information, de l’énergie, des œuvres…)](http://www.tierslivre.net/spip/spip.php?article2797), la visibilité restera une rareté, du fait même de la rareté du temps d’attention à notre disposition.
 
@@ -56,13 +56,11 @@ Belle hypocrisie.
 
 Les bénéfices nets de Google ont dépassé les 10 milliards de dollars en 2011. Ceux de Facebook les 2 milliards. Nos contenus ont en vérité été vendus, selon une simple équation :
 
-*Valeur des contenus – Coûts des services = $*
-
-Si $ est nul, nous sommes dans un système gagnant-gagnant. Si $ est négatif, nous sommes dans la situation de toutes les startups qui investissent. Si $ est positif, nous avons un business profitable. Il ne peut être profitable que si les contenus ont de la valeur. Si Google était le meilleur service de recherche mais pointait systématiquement sur des contenus sans intérêt, on cesserait vite de l’utiliser.
+*Valeur des contenus – Coûts des services = $* Si $ est nul, nous sommes dans un système gagnant-gagnant. Si $ est négatif, nous sommes dans la situation de toutes les startups qui investissent. Si $ est positif, nous avons un business profitable. Il ne peut être profitable que si les contenus ont de la valeur. Si Google était le meilleur service de recherche mais pointait systématiquement sur des contenus sans intérêt, on cesserait vite de l’utiliser.
 
 Je n’ai rien contre la prise de bénéfice. Je n’ai rien contre les riches. C’est la pauvreté qui me désespère (et réduire le nombre ne riches ne la fera pas disparaître). Et justement il me semble qu’une solution de partage s’offre à nous. Puisque nous participons tous à la réussite des géants du Web, ils devraient s’acquitter d’une redevance universelle. Ils devraient redistribuer (tout comme les banquiers qui usent du privilège de créer une autre forme de monnaie de singe).
 
-N’oublions pas que les géants du Web n’existeraient pas sans nous. Si nous ne partageons plus, ils meurent. Mais nous dépendons désormais aussi surement du partage que de l’air… il nous faut donc partager d’une manière ou d’une autre. Autant souhaiter un système équitable.
+N'oublions pas que les géants du Web n'existeraient pas sans nous. Si nous ne partageons plus, ils meurent. Mais nous dépendons désormais aussi surement du partage que de l'air... il nous faut donc partager d'une manière ou d'une autre. Autant souhaiter un système équitable.
 
 ### Pourquoi ne pas rétribuer les créateurs de contenus ? Pourquoi continuer à les payer en monnaie de singe ? Cette stratégie n’est pas à long terme soutenable.
 
@@ -74,11 +72,11 @@ Il existe une solution simple, c’est le partage.
 
 Il suffirait que Google reverse 50 % de ses revenus aux créateurs comme il sait le faire pour ceux qui affichent des publicités AdSence. Si dix extraits de sites aident à construire une page de résultat sur le moteur, il serait logique que chacun de ces sites soit rétribué par autre chose que de la visibilité.
 
-Il en irait de même sur Facebook, sur tous les agrégateurs, sur tous les services. Cette rétribution mécanique, automatique, serait de nature à compléter un [dividende universel](https://tcrouzet.com/tag/dividende-universel/) (et même à l’établir dans la société numérique).
+Il en irait de même sur Facebook, sur tous les agrégateurs, sur tous les services. Cette rétribution mécanique, automatique, serait de nature à compléter un [dividende universel](http://blog.tcrouzet.com/tag/dividende-universel/) (et même à l'établir dans la société numérique).
 
 Aujourd’hui, nous vivons une situation assez catastrophique du point de vue des droits de l’homme. Alors que les esclavagistes laissaient de quoi manger à leurs esclaves, les maîtres de l’information les affament peu à peu, avec l’espoir insensé que la vieille société de la rareté continuera à nourrir leur créativité.
 
-Hadopi, Acta et tous les autres galimatias juridiques et législatifs n’ont que pour ambition de contrôler les flux de données pour que quelques institutions privilégiées continuent à s’engraisser (même les géant du Web y ont intérêt, puisque l’existence d’une économie de la rareté les autorise moralement à ne pas rémunérer nos contenus… nous sommes sensés gagner par ailleurs). Si les gouvernements et les entreprises poursuivent sur leur lancée, nous serons obligés d’entrer en résistance.
+Hadopi, Acta et tous les autres galimatias juridiques et législatifs n’ont que pour ambition de contrôler les flux de données pour que quelques institutions privilégiées continuent à s’engraisser (même les géant du Web y ont intérêt, puisque l'existence d'une économie de la rareté les autorise moralement à ne pas rémunérer nos contenus... nous sommes sensés gagner par ailleurs). Si les gouvernements et les entreprises poursuivent sur leur lancée, nous serons obligés d’entrer en résistance.
 
 La conséquence immédiatement perceptible du glissement vers une forme de dictature, c’est la disparition de la beauté. Elle est en train de fuir un Web accaparé par les affairistes et tous ceux qui s’illusionnent du pouvoir de la visibilité.
 
@@ -86,7 +84,7 @@ Vous poursuivez une chimère.
 
 ### Comment en sortir ?
 
-Je me demande si les winners ne devraient pas être « nationalisés » (d’autant que leur apparition est inévitable, mécanique, et donc en rien issue à la valeur intrinsèque de ses promoteurs). Dans la société de l’information, les fonctions de partage sont aussi vitales que l’air. Les laisser entre quelques mains, c’est comme taxer la respiration.
+Je me demande si les winners ne devraient pas être « nationalisés » (d'autant que leur apparition est inévitable, mécanique, et donc en rien issue à la valeur intrinsèque de ses promoteurs). Dans la société de l’information, les fonctions de partage sont aussi vitales que l’air. Les laisser entre quelques mains, c’est comme taxer la respiration.
 
 La nationalisation pure est simple serait peut-être un peu brutale, mais l’exploitation par ces mêmes nationalisables de notre travail n’en est pas moins brutale. Une lutte c’est engagée pour la domination des matières premières numériques, c’est-à-dire pour la domination de nous-mêmes, de notre chair, de notre sang.
 
@@ -115,3 +113,5 @@ Les tuyaux qui les font circuler ne sont rien, tout comme nos veines lorsque not
 Prenons garde. Une fois tout-puissants, les tuyaux pourraient nous demander de payer pour partager NOS contenus. La volonté de puissance une fois éveillée n’a plus de limite.
 
 J’ai vu la semaine dernière [*In Time*](http://www.imdb.com/title/tt1637688/), c’est une métaphore de ce qui nous arrive.
+
+Tags: NetCulture

@@ -4,7 +4,7 @@ Je ne me suis jamais trop intéressé à la politique politicienne, moins aujour
 
 En attendant Virginie Votier et sa troupe de « jeunes engagés », j’observe les allers-venues, de loin, je picore des conversations moroses où il est question d’alliance ou non avec le PS, d’élections, encore d’élections, jamais d’idées, juste de tactique. Les plus jeunes ont d’ailleurs trouvé une meilleure occupation, ils jouent au poker. Le Modem ressemble à une grande famille, un Club Med où on s’emmerde, avec une animatrice qui organise des trivial pursuit pitoyables. Ambiance troisième âge. Une jeune journaliste ne cessait de bailler.
 
-Mais les militants ne devraient-ils pas être en train de refaire le monde ? Une université d’été n’est-elle pas l’occasion de débats passionnés ? Je n’ai vu aucun cercle sauf ceux d’alcooliques anonymes.
+Mais les militants ne devraient-ils pas être en train de refaire le monde ? Une université d’été n’est-elle pas l’occasion de débats passionnés ? Je n’ai vu aucun cercle sauf ceux d'alcooliques anonymes.
 
 Que faisaient tous ces gens dans ce VVF de la Grande Motte ? Ils étaient mieux que seuls chez eux devant leur TV. Ils préfèrent encore le Modem, question de partager un peu de chaleur humaine. Pas question de quitter le navire, on coulera avec lui.
 
@@ -18,21 +18,21 @@ Je voyais des gens qui voulaient être élu, rien que ça, bénéficier d’un p
 
 ### Rencontre avec un transfuge de l’Est
 
-![Yann Wehrling](https://tcrouzet.com/images_tc/2009/09/452963-5550631.jpg)
+![Yann Wehrling](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/452963-5550631-450x299.jpg)
 
-Virginie finit par me rejoindre, on boit un coup, puis elle me présente Yann Wehrling. Je connaissais son nom parce que Quitterie Delmas m’avait parlé de lui [quand elle m’avait raconté son histoire](https://tcrouzet.com/2009/05/24/quitterie-delmas-story/). En préambule, je dis à Wherling. « C’est donc toi qui a choisi le mauvais cheval. » Référence à son départ des Verts avant les européennes pour rejoindre le Modem. « Mauvaise pioche. »
+Virginie finit par me rejoindre, on boit un coup, puis elle me présente Yann Wehrling. Je connaissais son nom parce que Quitterie Delmas m’avait parlé de lui [quand elle m’avait raconté son histoire](http://blog.tcrouzet.com/2009/05/24/quitterie-delmas-story/). En préambule, je dis à Wherling. « C’est donc toi qui a choisi le mauvais cheval. » Référence à son départ des Verts avant les européennes pour rejoindre le Modem. « Mauvaise pioche. »
 
-Je le sens se crisper, c’est pas pour me déplaire. Il bafouille une justification pas convaincante. Je lui balance qu’il a rejoint le parti qui n’avait pas d’idée. Il s’énerve, il me dit que tout le monde dit ça et que c’est faux. « C’est quoi vos idées ? » Il se sent agressé parce que je lui pose une question avec insistance, ce que ne font jamais les journalistes, remarquez ([et c’est pour ça que la presse agonise](https://tcrouzet.com/2009/09/04/la-presse-agonise-c%e2%80%99est-merite/)).
+Je le sens se crisper, c’est pas pour me déplaire. Il bafouille une justification pas convaincante. Je lui balance qu’il a rejoint le parti qui n’avait pas d’idée. Il s’énerve, il me dit que tout le monde dit ça et que c’est faux. « C’est quoi vos idées ? » Il se sent agressé parce que je lui pose une question avec insistance, ce que ne font jamais les journalistes, remarquez ([et c'est pour ça que la presse agonise](http://blog.tcrouzet.com/2009/09/04/la-presse-agonise-c%e2%80%99est-merite/)).
 
-Il me demande si je suis pas un partisan d’Europe écologie (parce que je ne peux pas être journaliste, vu mon ton). Je renouvelle ma question. Il esquive par une contre attaque : « Tu as lu notre programme pour les européennes dans l’Est ? On a fait 150 propositions avec Jean-François Kahn. Je peux pas te dire qu’elles sont mes idées (sous entendu j’en ai trop). » Du petit lait pour moi qui dénonce depuis longtemps [le melting-pot politique](https://tcrouzet.com/2006/06/29/saupoudrage-politique/).
+Il me demande si je suis pas un partisan d’Europe écologie (parce que je ne peux pas être journaliste, vu mon ton). Je renouvelle ma question. Il esquive par une contre attaque : « Tu as lu notre programme pour les européennes dans l’Est ? On a fait 150 propositions avec Jean-François Kahn. Je peux pas te dire qu’elles sont mes idées (sous entendu j’en ai trop). » Du petit lait pour moi qui dénonce depuis longtemps [le melting-pot politique](http://blog.tcrouzet.com/2006/06/29/saupoudrage-politique/).
 
 Avoir une vraie idée dans une vie, c’est beau. Être capable d’en sortir 150, c’est absurde. « Une collection de mesures sans queue ni tête ne fait pas une idée, je réponds en substance. Donne-moi tes mesures et voyons si elles sont cohérentes entre elles ? Je suis sûr que non. » Sur ce Wehrling me plante, me disant qu’il refuse de discuter avec les gens qui l’agressent. Moi qui croyais qu’on aimait la politique pour les débats enfiévrés.
 
 Je me retrouve entre les mains d’un autre militant qui avait assisté à la conversation. Il me dit que sur le fond j’ai raison. « Au Modem, on est incapable de dire ce qu’on est. » Pendant ce temps, j’entends Wehrling qui demande à Virginie. « C’est qui ce mec ? » Elle répond « Un blogueur. » Je l’aurais tuée.
 
-Une fois le militant parti, je rattrape Wehrling et je lui dis qu’il faut arrêter de cracher sur les idéologies, il faut une idéologie pour faire de la politique. Il me répond qu’il est contre les grands systèmes universaux. « Et ça, c’est pas une idéologie ? Tu peux dire que tu es anti-idéaliste, pas de problème. Je le suis aussi. » Commence une conversation un peu plus calme mais je suis en train de l’entraîner sur une pente où il n’a jamais skié.
+Une fois le militant parti, je rattrape Wehrling et je lui dis qu'il faut arrêter de cracher sur les idéologies, il faut une idéologie pour faire de la politique. Il me répond qu’il est contre les grands systèmes universaux. « Et ça, c’est pas une idéologie ? Tu peux dire que tu es anti-idéaliste, pas de problème. Je le suis aussi. » Commence une conversation un peu plus calme mais je suis en train de l’entraîner sur une pente où il n’a jamais skié.
 
-Je lui parle de la méthode scientifique. Aussi une idéologie. Où es le problème du moment que l’idéologie est féconde. « Qu’elle est-donc l’idéologie du Modem ? Selon quelles approches défendez-vous vos mesures. Comment réagissez-vous à une mesure nouvelle proposées par quelqu’un d’autre ? Qu’elle est votre grille de lecture ? »
+Je lui parle de la méthode scientifique. Aussi une idéologie. Où es le problème du moment que l’idéologie est féconde. « Qu'elle est-donc l’idéologie du Modem ? Selon quelles approches défendez-vous vos mesures. Comment réagissez-vous à une mesure nouvelle proposées par quelqu’un d’autre ? Qu'elle est votre grille de lecture ? »
 
 Je tente vainement, je le voyais bien, d’expliquer qu’on commence par dégager une grande ligne avant de s’occuper de pondre 150 mesures. Sinon, il est fort à parier que ces 150 mesures sont incohérentes même si toutes inspirées par le bon sens. Il me dit « Je suis un pragmatique. Je suis pour les petites mesures concrètes. » « C’est donc ça la nouvelle idéologie du Modem ? » Grand blanc. On en restera là. Les modémistes ont oublié d’apprendre à réfléchir. C’est un monde de moutons aveugles.
 
@@ -61,3 +61,5 @@ Le Modem vend du vent, une promesse mystique d’un autre politique possible, un
 **Deuxième conseil** : pas d’alliance à gauche mais avec les écologistes.
 
 **Troisième conseil** : ne pas se brûler les ailes lors des régionales, se concentrer sur 2012, construire une idéologie novatrice, prendre de la distance avec justement la politique traditionnelle.
+
+Tags: Modem, Politique

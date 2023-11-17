@@ -4,11 +4,11 @@ Je n’ai plus blogué sur le covid depuis avril, parce que je viens de passer p
 
 Parce que soyons clair, il y a longtemps que cette affaire de masque n’est plus une question de santé publique. Je voudrais juste rappeler une évidence médicale : jusqu’à preuve du contraire, le covid se transmet par contact et par gouttelettes, qui tombent très vite par terre, et quasiment pas par aérosol, sauf dans quelques situations particulières comme lors de certains gestes médicaux.
 
-Beaucoup d’articles ont défendu une transmission par aérosol, mais tous ont été réfutés, [leur but principal étant de faire mousser leurs auteurs](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30558-2/fulltext). Les politiques utilisent ces voix fautives pour justifier leurs mesures fautives et on bascule dans l’irrationnel.
+Beaucoup d’articles ont défendu une transmission par aérosol, mais tous ont été réfutés, [leur but principal étant de faire mousser leurs auteurs](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(20)30558-2/fulltext). Les politiques utilisent ces voix fautives pour justifier leurs mesures fautives et on bascule dans l'irrationnel.
 
-Depuis le tout début de l’épidémie, dès fin janvier, Didier Pittet et beaucoup d’épidémiologistes ont compris que ce virus ne se transmettait pas ou très faiblement par aérosol. Pourquoi, parce que les virus transmissibles principalement par aérosol, comme la rougeole, ont des R0 supérieurs à 10, alors que ceux transmissibles par gouttelettes ont des R0 inférieurs à 10, ce qui est le cas du covid.
+Depuis le tout début de l’épidémie, dès fin janvier, Didier Pittet et beaucoup d'épidémiologistes ont compris que ce virus ne se transmettait pas ou très faiblement par aérosol. Pourquoi, parce que les virus transmissibles principalement par aérosol, comme la rougeole, ont des R0 supérieurs à 10, alors que ceux transmissibles par gouttelettes ont des R0 inférieurs à 10, ce qui est le cas du covid.
 
-![](https://tcrouzet.com/images_tc/2020/08/r0.png)
+![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/08/r0.png)
 
 Si ce virus se transmettait par aérosol, s’il pouvait rester de longues minutes en suspension, il aurait contaminé beaucoup plus vite beaucoup plus de gens, et son R0 serait bien supérieur.
 
@@ -36,12 +36,14 @@ Autant je suis pour la décentralisation, autant quand elle est conduite par des
 
 Pour mémoire, les pays qui ont le mieux géré la crise covid : la Suisse, l’Allemagne, l’Autriche… n’ont jamais imposé un confinement drastique à la française. On ne gagne pas par la force contre une épidémie, mais en étant rapide et juste.
 
-Chez nous, tandis qu’on impose le masque pour se donner bonne conscience, indifférents aux conséquences fâcheuses de ces ordonnances, on voit les gens continuer à s’agglutiner dans les lieux publics, [l’exemple du Puy du fou symbolisant cette dérive](https://www.huffingtonpost.fr/entry/puy-du-fou-distanciation_fr_5f3f6eeac5b6763e5dc18f2c), des milliers de personnes se croyant protégées par leur masque alors qu’elles se passent le virus de main en main, avec la bénédiction de l’État.
+Chez nous, tandis qu'on impose le masque pour se donner bonne conscience, indifférents aux conséquences fâcheuses de ces ordonnances, on voit les gens continuer à s'agglutiner dans les lieux publics, [l'exemple du Puy du fou symbolisant cette dérive](https://www.huffingtonpost.fr/entry/puy-du-fou-distanciation_fr_5f3f6eeac5b6763e5dc18f2c), des milliers de personnes se croyant protégées par leur masque alors qu'elles se passent le virus de main en main, avec la bénédiction de l'État.
 
-Nous assistons à une surenchère, à un emballement, dont le gouvernement a perdu le contrôle. Demain les virus de l’automne déferleront en plus du covid, le dépistage se compliquera, l’angoisse augmentera, les enfants auront renoncé à passer huit heures par jour dans leur classe en portant un masque, il sera trop tard pour corriger le tir, parce qu’une grande partie de la population s’opposera farouchement au masque au moment où son port raisonné sera le plus nécessaire.
+Nous assistons à une surenchère, à un emballement, dont le gouvernement a perdu le contrôle. Demain les virus de l'automne déferleront en plus du covid, le dépistage se compliquera, l'angoisse augmentera, les enfants auront renoncé à passer huit heures par jour dans leur classe en portant un masque, il sera trop tard pour corriger le tir, parce qu'une grande partie de la population s'opposera farouchement au masque au moment où son port raisonné sera le plus nécessaire.
 
-Nous ne vivons plus dans un pays où on veut soigner, mais dans un pays où on veut donner l’illusion de bien faire. On ne fait plus de la politique, mais du spectacle, le masque étendard de cette dérive carnavalesque.
+Nous ne vivons plus dans un pays où on veut soigner, mais dans un pays où on veut donner l'illusion de bien faire. On ne fait plus de la politique, mais du spectacle, le masque étendard de cette dérive carnavalesque.
 
-*PS1 : Si les pays asiatiques ont gagné la première manche contre le covid, ce n’est pas grâce au port du masque excessif, mais grâce à un confinement strict, c’est-à-dire grâce à la distanciation physique.*
+*PS1 : Si les pays asiatiques ont gagné la première manche contre le covid, ce n'est pas grâce au port du masque excessif, mais grâce à un confinement strict, c'est-à-dire grâce à la distanciation physique.*
 
-*PS2 : Le masque est visible, c’est un signe extérieur de mobilisation. Les mains cradingues ont ne les voit pas et les politiques s’en fichent. Ils ne s’intéressent qu’aux signes extérieurs de mobilisation.*
+*PS2 : Le masque est visible, c'est un signe extérieur de mobilisation. Les mains cradingues ont ne les voit pas et les politiques s'en fichent. Ils ne s'intéressent qu'aux signes extérieurs de mobilisation.*
+
+Tags: Covid, une

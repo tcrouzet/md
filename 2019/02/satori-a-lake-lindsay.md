@@ -4,11 +4,11 @@ Quand je me suis engagé dans l’[HuRaCan 2019](https://www.singletracksamurai.
 
 J’étais certes entraîné, parcourant environ 200 km/semaine en gravel ou VTT, [j’avais minutieusement préparé mon vélo et mon équipement](https://tcrouzet.com/2019/01/31/pret-pour-le-bikepacking/), [j’avais étudié le parcours](https://drive.google.com/open?id=1_Up-vkTOf9FQricNRjAjMikkZLh_bEkt&usp=sharing), mais j’étais définitivement un rookie.
 
-![Bilan HuRaCan 2019](https://tcrouzet.com/images_tc/2019/02/huracan01.png)
+![Bilan HuRaCan 2019](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/huracan01-600x370.png)
 
 En compagnie de David et Luis, j’ai finalement [effectuée la boucle en quatre journées, parcourant 616 km et 2115 mètres de dénivelé positif (D+) en un peu moins de 89 heures pour un temps de déplacement de 49 heures, soit une moyenne 14,3 km/h](https://www.strava.com/activities/2129187425).
 
-![The loop](https://tcrouzet.com/images_tc/2019/02/bilan.png)
+![The loop](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/bilan-600x401.png)
 
 Je retiens trois grandes leçons.
 
@@ -18,17 +18,15 @@ Je retiens trois grandes leçons.
 
 3. Plus que le backpacking, le bikebacking procure un immense sentiment de liberté. On avance plus vite qu’à pied, on peut aller plus loin, tout en ayant le temps de profiter des paysages. On sait qu’à tout moment ou presque on peut s’arrêter, dresser le camp, se reposer. Malgré l’effort, on se sent en sécurité peut-être parce que nous transportons avec nous une micromaison. Je renouvellerai l’expérience aussi souvent que possible.
 
-<div class="iframe" id="iframe6"></div>
-
 ### Vendredi 1<sup>er</sup> février
 
 Je quitte Weston avec mon vélo dans le coffre de notre minivan Sienna, direction nord, sous un ciel lourd, qui se déverse sur moi à la hauteur de West Palm Beach. Comme des records de pluies ont été battus le week-end précédent, je crains le pire pour les conditions de course. De mauvaises pensées m’occupent, bientôt adoucies par un rayon de soleil. Une fois à la hauteur d’Orlando, j’ai même le sourire. Des collines boisées m’entourent dans les dernières lueurs du jour. J’ai soudain quitté la plate Floride du sud pour la Floride centrale, plus vallonnée. Il fait nuit noire quand j’arrive au camping de Shangrila où à 9 heures demain sera donné le départ de l’HuRaCan.
 
 Alors qu’un ranger vient m’ouvrir la barrière, mes phares éclairent un pick-up rouge avec devant un gars qui me fait de grands signes. C’est David avec qui je partage l’emplacement. On s’est connecté sur [le forum de l’HuRaCan](https://www.facebook.com/groups/655069387938777/?ref=bookmarks). Un point commun entre nous : nous avons bossé la carte, lui créant une timeline millimétrée pour effectuer la boucle en quatre jours, moi [enrichissant la carte créée par Karlos](https://drive.google.com/open?id=1_Up-vkTOf9FQricNRjAjMikkZLh_bEkt&usp=sharing), l’organisateur, pour toujours savoir où je pourrai me ravitailler ou dormir. Là s’arrêtent les similitudes.
 
-David, 37 ans, est une belle baraque, avec des yeux d’un bleu lumineux. Habitué au bikepacking et aux courses d’endurance, il a prévu d’effectuer le parcours dans le sens des aiguilles d’une montre pendant que moi je pense l’effectuer dans le sens contraire, sous prétexte de profiter d’un vent favorable. David a déjà sorti son vélo, un [Surly](https://surlybikes.com/) en métal équipé de roues 27,5″ et de pneus de 2,8″. Son poste de pilotage me fait penser à celui d’un avion.
+David, 37 ans, est une belle baraque, avec des yeux d’un bleu lumineux. Habitué au bikepacking et aux courses d’endurance, il a prévu d’effectuer le parcours dans le sens des aiguilles d’une montre pendant que moi je pense l’effectuer dans le sens contraire, sous prétexte de profiter d’un vent favorable. David a déjà sorti son vélo, un [Surly](https://surlybikes.com/) en métal équipé de roues 27,5" et de pneus de 2,8". Son poste de pilotage me fait penser à celui d’un avion.
 
-![Poste de pilotage du Surly](https://tcrouzet.com/images_tc/2019/02/IMG_2971.jpg)
+![Poste de pilotage du Surly](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_2971-600x450.jpg)
 
 Un autre gars est là. Un tout juste trentenaire au crâne dégarni, qui lui chevauche un vélo en titane à l’équipement minimaliste. Il ne cesse de pédaler autour de la table de bois du camping comme s’il trépignait avant le départ. Il compte avaler les 600 km d’un trait et n’emporte avec lui que de l’eau et de quoi manger. « Je ferai peut-être une sieste. »
 
@@ -42,19 +40,19 @@ De retour au camping, je me contente de gonfler mon matelas et de le dérouler �
 
 Je me réveille à 5 h. Impossible de dormir davantage. Je reste enroulée dans mon sac de couchage pendant qu’une pluie fine tapote la carrosserie du minivan. De temps en temps, je me redresse, lorgne vers le pick-up de David toujours plongé dans le noir. Enfin, vers 6 h 30, il allume son plafonnier. Trente minutes tard, nous sommes équipés, nos vélos prêts pour le départ. La pluie s’est arrêtée, le sol est à peine humide. Il fait 15°C, le jour pointe avec difficulté à travers une épaisse couverture nuageuse.
 
-![Gauche : mon Timberjack, droite : le Surly de David](https://tcrouzet.com/images_tc/2019/02/IMG_2970.jpg)
+![Gauche : mon Timberjack, droite : le Surly de David](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_2970-600x450.jpg)
 
 Karlos et une bande d’autres concurrents déboulent avec leurs pick-up, venant d’un autre camping. Tout le monde s’affaire. Des vélos apparaissent de partout. La plupart des concurrents ont choisi comme David et moi des VTT hardtail, quelque un des VTT tout suspendus, d’autres des [drop-bar mountain bikes](http://www.bikepacking.com/index/drop-bar-mountain-bikes-29er/), des gravel avec des pneus de VTT (alors que mon gravel, laissé à Weston, est limité aux pneus de 44 millimètres).
 
-![Sticker 2019](https://tcrouzet.com/images_tc/2019/02/stiker.jpg)
+![Sticker 2019](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/stiker-600x450.jpg)
 
 Je vais à la rencontre de Karlos, un petit gars avec une petite moustache, entouré d’une cour d’aficionados. Il me remet un sticker HuRaCan 2019. Je lui demande si je suis le premier Français à participer. Il me répond : « Tu le seras, si tu termines. » Je ne peux m’empêcher de penser « Quel con, quel prétentieux… » peut-être parce qu’il accompagne sa réponse d’un ricanement pervers.
 
 David ne semble pas plus à son aise que moi dans cet aréopage, alors, aux alentours de 8 h, nous prenons la route, ou plutôt le chemin s’échappant du camping tel un long intestin qui nous amène sur les réputés singles de Santos, que David avale un peu vite à mon goût. Je lui colle au train en me demandant ce qui m’attend. Nous montons, descendons, enroulons de belles courbes, escaladons et dévalons des ponts de bois.
 
-![David](https://tcrouzet.com/images_tc/2019/02/IMG_2977.jpg)
+![David](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_2977-600x450.jpg)
 
-![Je suis encore propre](https://tcrouzet.com/images_tc/2019/02/IMG_2979.jpg)
+![Je suis encore propre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_2979-600x450.jpg)
 
 Très vite nous nous retrouvons hors trace. Nous semblons la suivre à une vingtaine de mètres au sud et supposons que le GPX fourni par Karlos manque de précision. Au bout d’une vingtaine de minutes, au croisement d’une piste, je repère trois autres bikepakers, qui roulent en parallèle de nous.
 
@@ -68,41 +66,41 @@ Nous voilà en file indienne, avec Gabriel comme locomotive et moi comme dernier
 
 Après un bout de route, nous bifurquons dans une forêt aux arbres couverts de mousse espagnole, aux troncs verdâtres émergeant de flaques noires. Gabriel roule tout en filmant ce paysage silencieux, immobile, pétrifié, en attente d’un évènement mystérieux. J’admire la facilité de Gabriel, je comprends pourquoi avec ses potes ils ont décidé d’effectuer la boucle en trois jours.
 
-![Alex et David](https://tcrouzet.com/images_tc/2019/02/IMG_2992.jpg)
+![Alex et David](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_2992-600x450.jpg)
 
-![Gabriel et Luis](https://tcrouzet.com/images_tc/2019/02/IMG_2994.jpg)
+![Gabriel et Luis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_2994-600x450.jpg)
 
-![Avec Luis](https://tcrouzet.com/images_tc/2019/02/51195245_10156960249871322_8739669521444372480_n-2.jpg)
+![Avec Luis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/51195245_10156960249871322_8739669521444372480_n-2-600x450.jpg)
 
-![Nature aqueuse](https://tcrouzet.com/images_tc/2019/02/IMG_2995.jpg)
+![Nature aqueuse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_2995-600x450.jpg)
 
-![Chêne](https://tcrouzet.com/images_tc/2019/02/IMG_3003.jpg)
+![Chêne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3003-600x450.jpg)
 
 Nous débouchons dans une clairière plantée d’un immense chêne. Après une courte pose, nous revoilà en file indienne alors que nous retrouvons des portions asphaltées qui nous amènent à travers une forêt où parfois une ferme apparaît. Si la route n’était pas divisée par une ligne jaune, je me croirais dans une de nos campagnes françaises.
 
-![Piste sableuse](https://tcrouzet.com/images_tc/2019/02/IMG_3007.jpg)
+![Piste sableuse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3007-600x450.jpg)
 
 Bientôt, nous quittons l’asphalte pour une piste de sable jaune, une piste qui colle aux roues, qui ondule indéfiniment. David souffre avec son Surly surchargé alors que Gabriel et Luis caracolent en tête avec moi fourbement rangé derrière eux, surtout derrière Luis bien plus massif que Gabriel. À chacun des sommets, nous nous arrêtons pour attendre les retardataires. Alex commence à se plaindre des fesses. David progresse au train sans perdre le sourire.
 
 Il se met à pleuvoir. Nous enfilons nos impers et continuons imperturbables, ou presque. Dans les descentes, mes quatre compères se laissent aller en roue libre, alors que je pédale pour me réchauffer et me charger en énergie cinétique avant la prochaine bosse qu’ainsi j’avale d’un trait. Je me retrouve en tête, prenant conscience que les Floridiens ne sont pas habitués aux ascensions et ne savent pas tirer profit des descentes.
 
-La piste ondule à n’en plus finir. Chez nous, un chemin sableux fait quelques centaines de mètres, parfois un ou deux kilomètres. Ici tout est à l’échelle du continent. Tout est plus long, plus extrême. Je me rends compte que j’ai choisi la taille de pneus idéale, 2,6″ ni trop étroit, ni trop large. J’ai aussi des roues de 29″ qui me procurent un avantage sur les 27,5″ dans les zones roulantes sans réellement me pénaliser dans les singles.
+La piste ondule à n’en plus finir. Chez nous, un chemin sableux fait quelques centaines de mètres, parfois un ou deux kilomètres. Ici tout est à l’échelle du continent. Tout est plus long, plus extrême. Je me rends compte que j’ai choisi la taille de pneus idéale, 2,6" ni trop étroit, ni trop large. J’ai aussi des roues de 29" qui me procurent un avantage sur les 27,5" dans les zones roulantes sans réellement me pénaliser dans les singles.
 
-La piste est de plus en plus lourde. Nous croisons des 4×4, souvent arrêtés, leurs occupants scrutant le ciel gris, non pas pour se demander quand il se remettra à pleuvoir, mais quand les jets de l’US Navy lâcheront leurs bombes sur la zone qui leur sert de cible et que nous devons contourner. Le pilote d’un 4×4 de l’armée nous demande d’ailleurs de faire demi-tour. Il nous force à quitter la trace, à plonger dans une montagne de sable où nous sommes obligés de mettre pied-à-terre. Voilà qu’il se remet à pleuvoir, nos vélos grincent de partout. Gabriel aussi commence à se plaindre des fesses.
+La piste est de plus en plus lourde. Nous croisons des 4x4, souvent arrêtés, leurs occupants scrutant le ciel gris, non pas pour se demander quand il se remettra à pleuvoir, mais quand les jets de l’US Navy lâcheront leurs bombes sur la zone qui leur sert de cible et que nous devons contourner. Le pilote d’un 4x4 de l’armée nous demande d’ailleurs de faire demi-tour. Il nous force à quitter la trace, à plonger dans une montagne de sable où nous sommes obligés de mettre pied-à-terre. Voilà qu’il se remet à pleuvoir, nos vélos grincent de partout. Gabriel aussi commence à se plaindre des fesses.
 
 Après avoir contourné le bombing range, nous enfilons un single qui nous fait contourner un lac aux abords spongieux. Il pleut de plus en plus fort. Parfois nous perdons la trace, rebroussons chemin, nous frayons un passage entre les arbustes. Deux autres concurrents nous rejoignent, nous échangeons quelques mots, puis les suivons, leur abandonnant le travail de repérage. Un troisième gars fonce sur nous. Il nous double sans même nous regarder. Je lui lance un « Hello » enjoué, aucune réaction. Je le surnomme le psychotique.
 
-![Après la pluie](https://tcrouzet.com/images_tc/2019/02/IMG_3030.jpg)
+![Après la pluie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3030-600x450.jpg)
 
-![Après la pluie](https://tcrouzet.com/images_tc/2019/02/IMG_3015.jpg)
+![Après la pluie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3015-600x450.jpg)
 
 Nous nous croyons tirés d’affaire quand nous quittons les abords marécageux du lac, mais c’est pour découvrir de nouvelles pistes sableuses et vallonnées à la couleur de latérite. Mes quatre compagnons ont de plus en plus de mal dans les montées que je ne sens même pas passer. Je les grimpe au train. Le soleil pointe enfin. Je m’arrête souvent. D’autres concurrents nous rejoignent.
 
-Je prends conscience que les fat tires ne sont qu’une mode, sauf peut-être dans les territoires neigeux. Les concurrents ainsi équipés n’avancent pas dans les montées, à peine s’ils ont un avantage dans le sable par rapport à mes 2,6″. Alors que nous approchons le point de ravitaillement du kilomètre 131, je n’éprouve aucune fatigue. J’ai déjà pulvérisé mon record en une journée et c’est comme si je n’avais pas pédalé. Je suis même impatient quand j’attends mes nouveaux copains. L’explication est simple : mon cœur n’a sans doute jamais dépassé la zone d’aérobie alors que durant mes sorties habituelles je le pousse souvent au seuil et dans la zone d’anaérobie.
+Je prends conscience que les fat tires ne sont qu’une mode, sauf peut-être dans les territoires neigeux. Les concurrents ainsi équipés n’avancent pas dans les montées, à peine s’ils ont un avantage dans le sable par rapport à mes 2,6". Alors que nous approchons le point de ravitaillement du kilomètre 131, je n’éprouve aucune fatigue. J’ai déjà pulvérisé mon record en une journée et c’est comme si je n’avais pas pédalé. Je suis même impatient quand j’attends mes nouveaux copains. L’explication est simple : mon cœur n’a sans doute jamais dépassé la zone d’aérobie alors que durant mes sorties habituelles je le pousse souvent au seuil et dans la zone d’anaérobie.
 
 Gabriel a mal aux fesses, Alex ne va guère mieux, David et Luis se ménagent en restant avec eux dans les grimpettes. Après avoir retrouvé l’asphalte, nous atteignons le point de ravitaillement, premier checkpoint de la course où une dizaine de concurrents mangent sur un bout de pelouse ensoleillé. Le psychotique se tient à l’écart du groupe. Il est 17 h 30. Dans une heure, il fera nuit. Comme je me sens bien, je décide de poursuivre. Je me vois mal camper seul, ce que je n’avais jamais envisagé.
 
-![Selfie réglementaire au checkpoint 1 ](https://tcrouzet.com/images_tc/2019/02/IMG_3046.jpg)
+![Selfie réglementaire au checkpoint 1 ](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3046-600x450.jpg)
 
 Alex, Gabriel et Luis ont déjà renoncé à leur objectif de trois jours et se replient sur celui plus réaliste de David. Moi, je ne sais plus quoi penser. Je décide d’écouter mon corps. Et donc je pédale. La nuit tombe. Après un bout d’asphalte, nous rejoignons un nouveau single qui file sous les pins. David s’y entraîne souvent. Il nous guide tout en fermant la route, se sentant moins agile que nous avec son Surly.
 
@@ -112,11 +110,11 @@ Nous finissons par quitter le single, rejoignons des routes et des pistes. Gabri
 
 [Bilan de la journée 1 : 167 km, D+ 567, temps total 14 h 33, temps de déplacement 11 h 11.](https://www.strava.com/activities/2131435606)
 
-![Jour 1](https://tcrouzet.com/images_tc/2019/02/d1.jpg)
+![Jour 1](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/d1-600x260.jpg)
 
 ### Dimanche 3 février
 
-![Bivouac](https://tcrouzet.com/images_tc/2019/02/IMG_3050.jpg)
+![Bivouac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3050-600x450.jpg)
 
 Réveil dans le brouillard. Je n’ai pas beaucoup dormi, pas plus de cinq heures, mais bien. J’aime me retrouver à l’intérieur de la tente, seul. J’ai un peu lu, pas longtemps. Je n’ai pas eu le courage d’écrire, faisant confiance à ma mémoire.
 
@@ -126,13 +124,13 @@ Nous nous traînons sur des chemins sableux, croisons des runners engagés dans 
 
 Il faut imaginer la Floride centrale comme un désert sur les dunes duquel ont poussé des arbres. Il suffit de gratter l’humus pour en faire ressurgir le sable.
 
-![Après le sable, l'eau](https://tcrouzet.com/images_tc/2019/02/IMG_3056.jpg)
+![Après le sable, l'eau](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3056-600x450.jpg)
 
 Après un bout de route, nous entrons dans le camping de Wekiva Falls, une ville de camping-cars monumentaux. Les gens vivent autour d’une immense piscine. David nous raconte qu’il y vient avec ses filles durant les week-ends d’été, parce que l’eau n’y est jamais trop chaude. Nous nous contentons de refaire le plein d’eau, avant de rejoindre des pistes, puis un single de plus en plus traître, tracé à travers une espèce de lande.
 
 Nous avons qu’une pensée en tête : la rivière vers laquelle nous nous dirigeons et que nous devrons traverser en portant nos vélos sur les épaules. Je crois toujours que nous nous apprêtons à l’atteindre, mais encore des courbes et des détours nous en tiennent à distance.
 
-Le single finit par nous mener dans une forêt épaisse à l’apparence de jungle. Nous remontons une piste étroite tracée par des 4×4. Je suis en tête quand la piste plonge dans l’eau tout en décrivant une courbe qui nous en cache son déroulé ultérieur. Des fougères et des palmetto écrasés sur le côté nous montrent par où sont passés les concurrents qui nous devancent. Je m’engage entre les branches. Au bout d’une cinquantaine de mètres, je dois m’arrêter. De l’eau devant moi. Nous rebroussons chemin. Nous retrouvons devant la flaque.
+Le single finit par nous mener dans une forêt épaisse à l’apparence de jungle. Nous remontons une piste étroite tracée par des 4x4. Je suis en tête quand la piste plonge dans l’eau tout en décrivant une courbe qui nous en cache son déroulé ultérieur. Des fougères et des palmetto écrasés sur le côté nous montrent par où sont passés les concurrents qui nous devancent. Je m’engage entre les branches. Au bout d’une cinquantaine de mètres, je dois m’arrêter. De l’eau devant moi. Nous rebroussons chemin. Nous retrouvons devant la flaque.
 
 Luis se dévoue. Il s’y engage le premier, poussant son vélo dans l’eau. Avec David, nous tentons de marcher sur la berge, mais finissons par marcher dans l’eau. Nous franchissons ainsi des flaques et des flaques. Nous nous traînons. Bientôt il est même impossible de continuer sans s’engager dans une flaque qui ressemble à petit lac.
 
@@ -146,15 +144,15 @@ Un canoé passe. David interpelle les rameurs. « Vous voyez un chemin de l’a
 
 Nous voilà à nous désaper, à mettre nos fringues et nos affaires précieuses dans des sacs poubelles. Luis traverse le premier. Il nous avertit que l’eau est froide. Il est déjà de retour que je n’ai pas encore terminé mon packetage. Je suis le dernier à traverser. À poil, sans le moindre scrupule. Pas envie de tremper mon cuissard.
 
-![La traversée](https://tcrouzet.com/images_tc/2019/02/trav.jpg)
+![La traversée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/trav-600x450.jpg)
 
 Je reviens chercher mon vélo. J’arrive tout juste à le porter sur mes épaules. Je pense à [Alexis Righetti](https://www.youtube.com/channel/UC6tW0H7MXewVgvrLDIz5fdA) qui escalade ainsi des sommets. Ce n’est pas pour moi. Je finis par lâcher le vélo sur l’autre rive. Le franchissement de la Wekiva River, second checkpoint de l’épreuve, était ce qui me faisait le plus peur avant le départ. J’avais prévu à cet effet une paire de chaussures d’eau et un short. Je n’aurais utilisé ni l’une ni l’autre. Mes pieds étant déjà trempés, j’ai traversé avec mes chaussures de vélo et le short est resté au chaud dans mon sac de selle. David m’a bien pris en photo lors de ce moment compromettant, mais je renonce à la publier.
 
 Il est plus de 14 h quand nous nous remettons en marche. David prend alors conscience qu’il a perdu un de ses bidons. « On ne va pas le chercher, lui dit Luis. Je t’en achèterai un, même deux si tu veux. » Nous sommes soulagés, nous rigolons franchement alors que nous traversons la suite de la jungle par une piste plus ou moins praticable qui nous amène aux pieds d’une colline sableuse, et donc sèche, plantée de sapins. Un magnifique single nous emporte. Je prends un immense plaisir. Mon vélo s’efface sous moi, même si je sens de plus en plus mes fesses, que je pommade à chaque halte.
 
-![Magnifique terrain de jeu](https://tcrouzet.com/images_tc/2019/02/IMG_3060.jpg)
+![Magnifique terrain de jeu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3060-600x450.jpg)
 
-![Magnifique terrain de jeu](https://tcrouzet.com/images_tc/2019/02/IMG_3061.jpg)
+![Magnifique terrain de jeu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3061-600x450.jpg)
 
 Luis a le cuir plus atteint. Quand il me suit, je l’entends pousser de petits cris à la moindre secousse. Ses « Hai ! Hai ! » rythment notre progression. Seul David semble indemne, ce qui me fait jurer d’essayer une de ces fameuses selles Brooks que plébiscitent les spécialistes de l’endurance.
 
@@ -164,9 +162,9 @@ Je mange un énorme plat de pâtes, un énorme morceau de pain gorgé d’huile 
 
 Nous attendons la fin de l’orage avant de reprendre la route. Il est 17 h. Nous traversons l’indistincte zone urbaine d’Apopka, puis atteignons le lac du même nom. J’avais prévu de dormir pour ma seconde nuit au camping de Magnolla Park, mais David veut que nous continuions de rouler aussi longtemps que possible.
 
-![Bourré d'alligators](https://tcrouzet.com/images_tc/2019/02/IMG_3072.jpg)
+![Bourré d'alligators](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3072-600x450.jpg)
 
-![Ombres chinoises](https://tcrouzet.com/images_tc/2019/02/IMG_3075.jpg)
+![Ombres chinoises](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3075-600x450.jpg)
 
 Le soleil plonge à l’horizon au-dessus d’une ligne de collines, dominée par les 95 mètres du point culminant de Floride, le [Sugarloft Summit](https://en.wikipedia.org/wiki/Sugarloaf_Mountain_(Florida)). David me promet de voir au bord du lac plus d’alligators que je n’en ai vu dans ma vie. Finalement, un seul gros bébé flotte dans l’eau étale trop loin de nous pour que je m’arrête pour le photographier. Nous traversons l’heure dorée avant d’être avalée par la nuit, puis par la pluie.
 
@@ -184,33 +182,33 @@ Ce motel me fait repenser à la dernière station-service où nous nous sommes r
 
 [Bilan de la journée 2 : 130 km, D+ 727, temps total 13 h 35, temps de déplacement 8 h 40.](https://www.strava.com/activities/2129194167)
 
-![Jour 2](https://tcrouzet.com/images_tc/2019/02/d2.jpg)
+![Jour 2](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/d2-600x450.jpg)
 
 ### Lundi 4 février
 
 Sous un ciel bas, nous ne quittons le motel qu’à 9 heures et descendons vers le centre de Clermont, une ville coquette coincée entre deux lacs bordés de villas indécentes. Le centre-ville est désert, mais plein de charme. Nous nous photographions devant le troisième checkpoint, un bistrot malheureusement fermé.
 
-![Checkpoint 3](https://tcrouzet.com/images_tc/2019/02/IMG_3081.jpg)
+![Checkpoint 3](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3081-600x450.jpg)
 
 Peut après la sortie de la ville, nous nous engageons sur une piste de sable orange, qu’un tracteur ratisse, effaçant les traces des bikepackers qui nous précèdent, surtout retournant le sable pour nous compliquer la tâche.
 
 Nous peinons dans de longues montées, progressant entre des plantations de mandariniers où s’affaire une armée de Latinos en musique. Une descente nous amène près d’une ferme située au bord d’un lac, entourée de chênes. L’endroit est paisible. J’ai l’impression d’avoir été transporté en Afrique équatoriale.
 
-![Sable, sable…](https://tcrouzet.com/images_tc/2019/02/IMG_3087.jpg)
+![Sable, sable…](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3087-600x450.jpg)
 
-![Luis](https://tcrouzet.com/images_tc/2019/02/IMG_3088.jpg)
+![Luis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3088-600x450.jpg)
 
-![David](https://tcrouzet.com/images_tc/2019/02/IMG_3093.jpg)
+![David](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3093-600x450.jpg)
 
-![Mousse espagnole](https://tcrouzet.com/images_tc/2019/02/IMG_3110.jpg)
+![Mousse espagnole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3110-600x450.jpg)
 
 Nous retrouvons une route bordée d’une piste cyclable. Nous atteignons un Wendy’s où nous petit-déjeunons. Il est déjà 11 h et un long trajet nous attend, où nous ne pourrons pas nous ravitailler avant de camper. David se commande deux hamburgers au poulet pour plus tard. Luis l’imite, puis moi aussi. Nous passons par une station-service où nous achetons des barres de céréale et David des piles.
 
-![J'aime ces routes](https://tcrouzet.com/images_tc/2019/02/IMG_3136.jpg)
+![J'aime ces routes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3136-600x450.jpg)
 
 Après quelques kilomètres sur une route avec pas mal de poids lourds, nous bifurquons sur des voies communales desservant des fermes isolées. De vastes perspectives ondulées se répètent. Nous ne manquons pas de retrouver de nouvelles pistes sableuses jusqu’à atteindre une forêt et des chemins plus roulants qui nous conduisent à l’entrée du Green Swamp. Il est déjà 16 h, le moment de dévorer un de nos hamburgers, de souffler un peu avant de nous engager dans une région plus sauvage.
 
-![Avant d'attaquer le dur](https://tcrouzet.com/images_tc/2019/02/IMG_3153.jpg)
+![Avant d'attaquer le dur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3153-600x450.jpg)
 
 Nous devons franchir des barrières hautes d’au moins 1,5 m. Seul, j’aurais été bloqué là. À trois, nous collaborons. Luis et moi escaladons les barrières, et David nous fait passer les vélos un à un. Il serait un peu inconscient de se lancer en solo dans un raid pareil. Pour éprouver quoi ? Un déplacé sentiment de toute-puissance, peut-être. Nous avons plus à gagner en termes d’expérience humaine en collaborant, en nouant des amitiés de nécessité qui pourquoi pas se solidifieront à l’avenir.
 
@@ -218,11 +216,11 @@ Alors que je mène notre groupe à bonne allure, le nez sur ma roue avant plus q
 
 Vers 16 h 30 nous arrivons à un embranchement où débute une boucle nouvellement ajoutée par Karlos. Sur le papier, je la trouve stupide. Si nous continuons tout droit, nous économisons une vingtaine de kilomètres. Mais David n’en démord pas. Il veut suivre les consignes, d’autant qu’[une balise spot le traque](http://trackleaders.com/huracan19i.php?name=David_Dwyer) et qu’il sera facile de vérifier s’il a effectué ou non le parcours officiel.
 
-Pour le meilleur et pour le pire, nous le suivons. Après quelques kilomètres, le chemin sombre sous l’eau. Il ne s’agit d’ailleurs pas d’un chemin, mais d’un vague lassis d’ornières tracé par des 4×4.
+Pour le meilleur et pour le pire, nous le suivons. Après quelques kilomètres, le chemin sombre sous l’eau. Il ne s’agit d’ailleurs pas d’un chemin, mais d’un vague lassis d’ornières tracé par des 4x4.
 
-![8 km d'enfer](https://tcrouzet.com/images_tc/2019/02/IMG_3163.jpg)
+![8 km d'enfer](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3163-600x450.jpg)
 
-![8 km d'enfer](https://tcrouzet.com/images_tc/2019/02/IMG_3166.jpg)
+![8 km d'enfer](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3166-600x450.jpg)
 
 Il n’est plus question de pédaler. Nous poussons nos vélos avec souvent de l’eau jusqu’aux genoux, nos chaussures se remplissent de boue. Nous commençons à maudire Karlos. À le traiter de tous les noms. Je suis le premier à le critiquer, à jurer que je vais lui mener la vie dure et que je me fiche qu’il me traite de *fucking stupid French*. Sa nouvelle boucle est franchement débile. Elle ne mène nulle part, ne sert qu’à nous en faire baver. C’est juste du masochisme imaginé pour des mecs blancs qui s’emmerdent dans la vie.
 
@@ -234,7 +232,7 @@ Même pas, tu m’as fait marcher dans la boue, c’est tout. Tu as flingué nos
 
 Critiquer Karlos, maudire sa descendance pour dix générations, nous aide à progresser. Nous retrouvons un bout de dur, et Luis prend conscience qu’il a crevé. C’est un miracle qu’il n’ait pas crevé plus tôt, car il ne roule pas en tubeless. Nous réparons, reprenons la progression, grimpant sur une digue qui nous fait croire que nous en avons fini de l’enfer. Mais aux dernières lueurs du jour, nous replongeons dans la vase.
 
-![Dernières lueurs](https://tcrouzet.com/images_tc/2019/02/IMG_3171.jpg)
+![Dernières lueurs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3171-600x450.jpg)
 
 Quand je coiffe ma lampe frontale, les deux piles s’envolent et tombent dans la vase. J’en récupère une, mais l’autre polluera le marécage à jamais. Heureusement, David a tout prévu et me passe deux piles. Luis, lui, a perdu une tong et une paire de lunettes de soleil. Nous semons derrière nous. D’autres ont laissé des canettes de bière. Je trouve ça moins cool. Nous avons tenté de transporter nos déchets avec nous.
 
@@ -246,19 +244,19 @@ Nous dressons notre camp dans une clairière sous les chênes. Il est près de m
 
 [Bilan de la journée 3 : 142 km, D+ 291, temps total 13 h 02, temps de déplacement 8 h 34.](https://www.strava.com/activities/2129137661)
 
-![Jour 3](https://tcrouzet.com/images_tc/2019/02/d3.jpg)
+![Jour 3](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/d3-600x447.jpg)
 
 ### Mardi 5 février
 
 Au petit matin, il fait froid : 7°C au compteur du GPS, moins en perception à cause de l’humidité. Un brouillard épais entoure les tentes. Tout est détrempé. Même si mes chaussures sont mouillées, je porte des chaussettes propres et sèches. Pas pour longtemps, nous devons à nouveau marcher dans l’eau, pousser dans le sable. Le cocktail est détonant. Mais tant bien que mal nous quittons la forêt alors que le brouillard se dissipe et que le soleil se lève. Une belle journée s’annonce, la plus belle depuis le départ, aussi la plus dure si nous voulons en finir avec l’HuRaCan.
 
-![Le brouillard se dissipe](https://tcrouzet.com/images_tc/2019/02/IMG_3183.jpg)
+![Le brouillard se dissipe](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3183-600x450.jpg)
 
 Après quelques kilomètres de route, nous atteignons une station Shell où nous nous gavons de baignés et d’omelettes tout en faisant le plein d’eau et de barres de céréale. Un peu plus loin, nous entrons dans le secteur VTT de Croom, un magnifique single qui s’enroule sur lui-même, file sous les sapins, monte-descend sur près de 30 km.
 
-![Croom](https://tcrouzet.com/images_tc/2019/02/IMG_3187.jpg)
+![Croom](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3187-600x450.jpg)
 
-![Croom](https://tcrouzet.com/images_tc/2019/02/IMG_3205.jpg)
+![Croom](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3205-600x450.jpg)
 
 Mon vélo roule tout seul. Il anticipe les virages avant que j’en prenne conscience. Parfois je pense à autre chose, j’oublie mon corps, quand j’y reviens je suis un peu en panique. Je croise d’autres cyclistes. Je discute avec une VTTiste qui vient souvent rouler en France.
 
@@ -266,17 +264,17 @@ Derrière, David et Luis souffrent. Moi, paradoxalement, j’ai moins mal aux fe
 
 Nous roulons à côté d’une chaussure, une Crok grise, perdue par un autre concurrent, peut-être qui effectuait la boucle en sens antihoraire, avant qu’il n’entre dans le dur des flaques boueuses. Nous rigolons en pensant à nos propres objets perdus.
 
-![Lumière de Floride](https://tcrouzet.com/images_tc/2019/02/IMG_3213.jpg)
+![Lumière de Floride](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3213-600x450.jpg)
 
 Croom a beau être génial, nous finissons par en avoir plein les pattes. Nous en émergeons avec soulagement, heureux de retrouver une portion de macadam. Pas pour longtemps, un chemin herbeux nous entraîne entre des fermes, avant de nous déposer aux abords de Lake Lindsey Grocery &amp; Deli, le quatrième checkpoint de l’HuRaCan.
 
-![Checkpoint 4](https://tcrouzet.com/images_tc/2019/02/IMG_3219.jpg)
+![Checkpoint 4](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3219-600x450.jpg)
 
-![Lake Lindsay](https://tcrouzet.com/images_tc/2019/02/IMG_3228.jpg)
+![Lake Lindsay](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3228-600x450.jpg)
 
-![Lake Lindsay](https://tcrouzet.com/images_tc/2019/02/IMG_3234.jpg)
+![Lake Lindsay](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3234-600x450.jpg)
 
-![Lake Lindsay](https://tcrouzet.com/images_tc/2019/02/IMG_3238.jpg)
+![Lake Lindsay](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3238-600x450.jpg)
 
 C’est un petit coin de paradis, pure image d’Épinal de l’Amérique rurale. Des bikers boivent des bières devant leur Harley garées sous un chêne vénérable. Des rocking-chairs sur la terrasse. Une caverne d’Alibaba où nous commandons à manger. Luis et David prennent un Philly cheesesteak, moi un sandwich végétarien, car je suis en manque de légumes. Les deux nanas qui tiennent la boutique sont curieuses de nous, heureuses de nous voir, de nous faire plaisir.
 
@@ -292,7 +290,7 @@ Pas vraiment. L’axe de la pédale gauche de David est en train de se désolida
 
 Peu avant, il y a bien une boutique de vélo. Nous lui téléphonons, mais elle est malheureusement fermée et de toute façon nous ne pourrions l’atteindre avant point d’heure. Puisque nous sommes encore au Paradis, nous invoquons les dieux pour qu’ils déposent sur notre route une paire de pédales neuves. Et nous roulons sur des pistes alors que le soleil peu à peu se couche, tirant un dernier trait rose derrière les sapins.
 
-![Dernière lueurs de mon HuRaCan](https://tcrouzet.com/images_tc/2019/02/IMG_3249.jpg)
+![Dernière lueurs de mon HuRaCan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/IMG_3249-600x450.jpg)
 
 David s’en tire bien, même très bien. Il réussit à franchir sans problème un premier single, puis une fois sur une longue piste cyclable il prend des relais terribles, boosté par l’idée d’en terminer. Luis n’est que plaintes. Moi, je ne dis rien, je serre les dents. J’avais emporté avec moi quatre gels de 200 calories dont je n’avais pas eu l’usage jusque là. J’en ingurgite trois presque coup sur coup.
 
@@ -302,7 +300,7 @@ Des biches passent devant moi, au ralenti, en silence, avec élégance. Je suis 
 
 Je suis hypnotisé par les zigzags. Tout zigzague, ma tête avec. Peu à peu ma lampe perd en intensité. Je coiffe ma frontale qui elle aussi manque de jus. Nous entrons dans une zone où les arbres ont brûlé, une zone caillouteuse. Je suis obligé de demander à David de prendre la tête, car je n’y vois plus rien. Ça en devient dangereux. Nous nous traînons sur les derniers kilomètres. David a de l’énergie pour trois sur la portion qui nous ramène au camping que nous atteignons à une heure du mat.
 
-![C'est terminé](https://tcrouzet.com/images_tc/2019/02/lasth-scaled.jpg)
+![C'est terminé](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/lasth-600x450.jpg)
 
 D’autres cyclistes nous applaudissent. Ils sont en train de fumer des joints et de picoler des bières devant leur camping-car. Ils nous prennent en photo. Nous sommes vannés. Je décide de partir tout de suite, je veux mettre de la distance entre moi et l’HuRaCan pour m’assurer qu’elle est bien terminée. Je m’endors sur une aire d’autoroute.
 
@@ -312,4 +310,8 @@ J’ai maintenant envie d’entraîner mes copains dans d’autres aventures, mo
 
 [Bilan de la journée 4 : 170 km, D+ 795, temps total 17 h 19, temps de déplacement 11 h 39.](https://www.strava.com/activities/2129022552)
 
-![Jour 4](https://tcrouzet.com/images_tc/2019/02/d4b.jpg)
+![Jour 4](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/02/d4b-583x450.jpg)
+
+
+
+Tags: Bikepacking, BikepackingUSA, Born to Bike, huracan, une

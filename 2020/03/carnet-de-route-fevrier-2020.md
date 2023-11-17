@@ -6,13 +6,13 @@
 
 Il est étonnant que certaines personnes se limitent même dans leur plaisir, se contentent d’une normalité fade et passent leur temps à s’enthousiasmer, criant ce qui n’est pas nécessaire puisque ce devrait être évident pour tous. Je me méfie des faux joyeux, un fond de méchanceté les habite. La lecture est alors le seul moyen de grandir et de prendre du recul en vivant d’autres vies, en se mettant à la place des personnages de roman, d’où la nécessité d’en écrire à chaque époque, une nécessité pas tant littéraire que thérapeutique.<span id="more-53542"></span>
 
-![L'abbaye de Monceaux](https://tcrouzet.com/images_tc/2020/03/IMG_9057.jpeg)
+![L'abbaye de Monceaux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9057.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2020/03/IMG_9062.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9062.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2020/03/P1100868.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/P1100868.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2020/03/IMG_9063.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9063.jpeg)
 
 ### Dimanche 2, TGV pour Genève
 
@@ -44,23 +44,23 @@ Soirée dans un salon, qui se veut inspiré de ceux du XVIII<sup>e</sup>, un inv
 
 Promenade dans les vignes, puis dans la ville, je retrouve un vieil ami avant de manger une traditionnelle fondue aux bains de Pâquis, et quand nous sortons, un vent glacial déboule des montagnes.
 
-![La Croix-de-Rozon](https://tcrouzet.com/images_tc/2020/03/IMG_9110.jpeg)
+![La Croix-de-Rozon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9110.jpeg)
 
-![La Croix-de-Rozon](https://tcrouzet.com/images_tc/2020/03/IMG_9107.jpeg)
+![La Croix-de-Rozon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9107.jpeg)
 
-![Grue](https://tcrouzet.com/images_tc/2020/03/IMG_9135.jpeg)
+![Grue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9135.jpeg)
 
 ### Jeudi 6, Genève
 
 Invité dans une grosse entreprise genevoise. Le patron fait un discours superbe, expliquant comment il rend le travail de ses 1 700 employés le plus agréable possible. Pas d’horaire, pas de bureau, fluidité… À la fin, je lui dis qu’il me donne envie de travailler chez lui. En vérité, pour rien au monde je ne retournerais dans une entreprise. Je ne conçois qu’une société de réseaux et d’artisans interconnectés. Personne ne devrait avoir le droit d’acheter notre temps. J’ai pris une photo terrible de cette entreprise.
 
-![Système carcéral](https://tcrouzet.com/images_tc/2020/03/IMG_9136.jpeg)
+![Système carcéral](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9136.jpeg)
 
 ---
 
 Promenade au bord du lac, avec la chaîne du mont Blanc à l’horizon. Je m’assois au soleil, rêve, me dit qu’il est parfois agréable de ne pas écrire. Je songe à mes *Silencieux* avec une étrange satisfaction.
 
-![Le lac](https://tcrouzet.com/images_tc/2020/03/IMG_9153.jpeg)
+![Le lac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9153.jpeg)
 
 ---
 
@@ -72,17 +72,17 @@ Le médecin chinois qui a découvert que le coronavirus était transmissible ent
 
 J’aime la tranquillité qui autorise le travail patient de l’écriture. J’aime bouger, mais avec le temps de me poser. Je suis un dilettante, Didier est un homme d’action à l’emploi du temps surchargé. Je suis un privilégié. Mon mode de vie n’est possible que dans un monde ordonné par d’autres. Quand j’oublie mes ambitions littéraires, je me contente de m’installer dans un coin ensoleillé face à une belle vue.
 
-Didier s’est dédié aux autres. Plutôt que de partir en vacances la semaine prochaine, il file à Hong Kong, sans même sourciller. Parce qu’on a besoin de lui, parce qu’il peut faire une petite différence. Combien d’entre nous font preuve d’une telle abnégation ? Pas moi. Je vis sur un autre rythme, en égoïste.
+Didier s’est dédié aux autres. Plutôt que de partir en vacances la semaine prochaine, il file à Hong Kong, sans même sourciller. Parce qu'on a besoin de lui, parce qu’il peut faire une petite différence. Combien d'entre nous font preuve d’une telle abnégation ? Pas moi. Je vis sur un autre rythme, en égoïste.
 
-Je passe deux heures avec Alexandra, spécialiste des fake news. Elle joue à imaginer que le médecin chinois a été assassiné (alors qu’il est sans doute mort parce qu’il a reçu une charge virale trop grande). N’a-t-il pas été menacé par son gouvernement pour avoir fait courir des rumeurs ? Nous jouons pour détendre l’atmosphère.
+Je passe deux heures avec Alexandra, spécialiste des fake news. Elle joue à imaginer que le médecin chinois a été assassiné (alors qu'il est sans doute mort parce qu'il a reçu une charge virale trop grande). N’a-t-il pas été menacé par son gouvernement pour avoir fait courir des rumeurs ? Nous jouons pour détendre l’atmosphère.
 
-![Genève](https://tcrouzet.com/images_tc/2020/03/IMG_9169.jpeg)
+![Genève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9169.jpeg)
 
-![Genève](https://tcrouzet.com/images_tc/2020/03/IMG_9173.jpeg)
+![Genève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9173.jpeg)
 
 ### Samedi 8, Mèze
 
-![Bellevue](https://tcrouzet.com/images_tc/2020/03/IMG_9191.jpeg)
+![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9191.jpeg)
 
 ### Mardi 11, Balaruc
 
@@ -112,19 +112,19 @@ Par nostalgie, parce que j’ai repensé à mes trains électriques en écrivant
 
 ### Vendredi 14, Niort
 
-Bel accueil pour le salon polar, rencontre le soir avec Ian Manoock. Dans le train, j’ai écrit avec difficulté [un article sur le numérique](https://tcrouzet.com/2020/02/14/mieux-vaut-un-numerique-pourri-que-pas-de-numerique/), sans élan, preuve que je ne suis plus dans la dynamique.
+Bel accueil pour le salon polar, rencontre le soir avec Ian Manoock. Dans le train, j'ai écrit avec difficulté [un article sur le numérique](https://tcrouzet.com/2020/02/14/mieux-vaut-un-numerique-pourri-que-pas-de-numerique/), sans élan, preuve que je ne suis plus dans la dynamique.
 
-![La librairie des Halles](https://tcrouzet.com/images_tc/2020/03/IMG_9231.jpeg)
+![La librairie des Halles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9231.jpeg)
 
 ### Samedi 15, Niort
 
-Je me sens un étranger parmi mes collègues écrivains, autant ignorant des news mondaines que politiques. Un peu perdu, tout le monde très gentil, accueil intimiste. Pierre ne veut pas des *Silencieux*, ça m’évite de me demander si je veux ou non publier ce texte. Des choses plus importantes à écrire et pas pressé de me retrouver en promo. Soirée lumineuse en compagnie de [Rosa Montero](https://fr.wikipedia.org/wiki/Rosa_Montero), on parle de sentiment océanique, notre drogue commune, notre raison d’écrire.
+Je me sens un étranger parmi mes collègues écrivains, autant ignorant des news mondaines que politiques. Un peu perdu, tout le monde très gentil, accueil intimiste. Pierre ne veut pas des *Silencieux*, ça m'évite de me demander si je veux ou non publier ce texte. Des choses plus importantes à écrire et pas pressé de me retrouver en promo. Soirée lumineuse en compagnie de [Rosa Montero](https://fr.wikipedia.org/wiki/Rosa_Montero), on parle de sentiment océanique, notre drogue commune, notre raison d’écrire.
 
 ### Dimanche 16, Niort
 
-![Un fruit](https://tcrouzet.com/images_tc/2020/03/IMG_9253.jpeg)
+![Un fruit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9253.jpeg)
 
-![Les Halles](https://tcrouzet.com/images_tc/2020/03/IMG_9272.jpeg)
+![Les Halles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9272.jpeg)
 
 ### Jeudi 20, Balaruc
 
@@ -136,9 +136,9 @@ Surprise de recevoir un mail d’un ancien du piton Gabriel qui se souvient trè
 
 ### Samedi 22, Marseillan
 
-![À vélo](https://tcrouzet.com/images_tc/2020/03/IMG_9345.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9345.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/03/IMG_9342.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9342.jpeg)
 
 ### Dimanche 23, Balaruc
 
@@ -164,7 +164,7 @@ Je m’efforce ne de pas écrire un article à chaud. Je tente de discuter avec 
 
 Je discute avec une amie iranienne du coronavirus. Là-bas c’est le grand n’importe quoi, la bombe est en train d’exploser, comme en Italie où j’apprends que les services de santé ne se sont pas préparés à un risque d’épidémie. Il y a une semaine, ils n’avaient toujours pas traduit les recommandations de l’OMS.
 
-![Chez moi](https://tcrouzet.com/images_tc/2020/03/IMG_9365.jpeg)
+![Chez moi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9365.jpeg)
 
 ### Samedi 29, Balaruc
 
@@ -176,12 +176,16 @@ Les professionnels ordinaires, quand ils ne gagnent pas leur vie dans leur secte
 
 Notre vrai problème, c’est notre choix, et rien d’autre. Notre choix d’enfants gâtés, et comme nous sommes très nombreux, nous nous partageons un gâteau pas assez grand pour nous tous. Vouloir gagner sa vie avec son art est un privilège, pas un dû, pas un truc qu’on peut exiger parce qu’alors les modélistes ou les joueurs d’échecs peuvent aussi se revendiquer artiste et exiger les mêmes droits que nous. Et puis tout le monde. Pourquoi pas, c’est qu’on appelle le revenu de base. Je suis pour, mais je ne vois pas pourquoi les auteurs, ou les artistes, le recevraient de manière déguisée et pas mes autres concitoyens.
 
-Tout ça pour dire que si on ne gagne pas sa vie avec son travail, on n’est pas professionnel. Mais rien m’empêche d’être écrivain, même un très bon écrivain, soit amateur comme Flaubert, soit professionnel comme Hemingway. Cette nuance ne devrait pas être une affaire d’État, encore moins une revendication. Ça ne veut pas dire qu’il ne faut pas négocier les droits des écrivains, mais surtout pas en faisant référence à leur feuille d’imposition.
+Tout ça pour dire que si on ne gagne pas sa vie avec son travail, on n'est pas professionnel. Mais rien m’empêche d’être écrivain, même un très bon écrivain, soit amateur comme Flaubert, soit professionnel comme Hemingway. Cette nuance ne devrait pas être une affaire d’État, encore moins une revendication. Ça ne veut pas dire qu’il ne faut pas négocier les droits des écrivains, mais surtout pas en faisant référence à leur feuille d’imposition.
 
 ---
 
 La publication numérique d’un journal suffit à le rendre contemporain, à en faire une forme littéraire d’aujourd’hui, parce ce que cette publication, qui implique la présence quasi en temps réel des lecteurs, en affecte le contenu. Je crois qu’il n’existe pas de forme plus présente alors même qu’elle utilise une structure ancienne. D’une certaine façon, les journaux se renouvellent de génération en génération parce que de génération en génération le temps change, son écoulement, sa perception, sa narrativité, et que la forme peut rester la même pour un résultat jamais semblable.
 
-![Valras-Plage, à vélo](https://tcrouzet.com/images_tc/2020/03/IMG_9400-1.jpeg)
+![Valras-Plage, à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9400-1.jpeg)
 
-![Valras-Plage, à vélo](https://tcrouzet.com/images_tc/2020/03/IMG_9402.jpeg)
+![Valras-Plage, à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/IMG_9402.jpeg)
+
+
+
+Tags: Carnets, une

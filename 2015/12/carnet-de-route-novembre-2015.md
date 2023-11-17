@@ -10,7 +10,7 @@ Je vais sur Facebook, je vois des likes de Yal qui datent de quelques jours avan
 
 J’aime le service météo de Windows 10. Au-dessous des prévisions du jour, on découvre les records de froid ou de chaud pour la même date. Aujourd’hui, nous égalons le maximum de 1985.
 
-![En garrigue.](https://tcrouzet.com/images_tc/2015/12/IMG_3904.jpg)
+![En garrigue.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/IMG_3904.jpg)
 
 ### Lundi 2, Balaruc
 
@@ -82,7 +82,7 @@ Je lis une [lettre à mes enfants](http://www.wedemain.fr/Lettre-a-mes-enfants-V
 
 Sur le Net, les opérateurs de presse ne cachent plus leur désespoir : ils interdisent les bloqueurs de pubs, ils veulent nous forcer à charger leurs apps ou à nous abonner à leur flux après avoir lu deux ou trois de leurs articles. Ils n’ont pas compris qu’on se fiche bien de lire une news chez eux ou ailleurs. Vous n’avez aucune valeur ajoutée.
 
-![Les soirs se suivent…](https://tcrouzet.com/images_tc/2015/12/nov.jpg)
+![Les soirs se suivent…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/nov.jpg)
 
 ### Mercredi 11, Balaruc
 
@@ -134,7 +134,7 @@ Je passe plus de temps que d’habitude sur les réseaux sociaux. Je me retiens 
 
 ---
 
-Je ne peux me retenir de twitter. « La dictature est en marche, pas à pas, au nom de notre bien, notez-le… et nous sommes si peu nombreux à protester. » « Après Charlie, j'ai perdu des amis, je vais en perdre d'autres, juste parce que je vois l'ombre brune dans mon propre pays. »
+Je ne peux me retenir de twitter. « La dictature est en marche, pas à pas, au nom de notre bien, notez-le... et nous sommes si peu nombreux à protester. » « Après Charlie, j'ai perdu des amis, je vais en perdre d'autres, juste parce que je vois l'ombre brune dans mon propre pays. »
 
 ---
 
@@ -146,7 +146,7 @@ En ces moments douloureux, alors que sous le coup de l’émotion notre gouverne
 
 Nos politiciens se réveillent dans les épreuves. Ils endossent le seul habit qui leur convient : celui de chef de guerre. Ils ne sont pas nés pour notre monde complexe, interdépendant, peuplé d’hommes et de femmes libres. Ils se sont toujours rêvé comme Alexandre. Ils ne peuvent plus mentir en temps de crise. Les voilà sur leurs chevaux à la tête de leurs armées. Je les déteste. J’ai pitié pour eux. Ils ne veulent pas du monde que nous construisons. Ils n’y ont pas leur place, alors ils nous ramènent en arrière, avec la même obstination que Daesh. Simplement, ils n’en sont même pas conscients.
 
-![La vie continue.](https://tcrouzet.com/images_tc/2015/12/IMG_3948.jpg)
+![La vie continue.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/IMG_3948.jpg)
 
 ### Mercredi 18, Balaruc
 
@@ -162,7 +162,7 @@ Je suis dans l’après-coup de *One Minute* (et peut-être aussi de l’ombre b
 
 ### Mercredi 25, Balaruc
 
-Dans [un article passionnant comme souvent](http://www.internetactu.net/2015/11/25/leconomie-solidaire-necessite-un-internet-de-la-solidarite/), mon ami Hubert Guillaud attribue la paternité du concept de Digital Labor à Trebor Scholz ([son bouquin sur le sujet date de 2012](https://www.academia.edu/2303176/Introduction_to_Digital_Labor_The_Internet_as_Playground_and_Factory)). Scholz a sans doute contribué à populariser cette dénomination, mais je me souviens de discussions très animées à ce sujet dès 2006. Dans un billet intitulé [Esclavage 2.0](https://tcrouzet.com/2006/06/19/esclavage-20/), la problématique est déjà résumée. J’étais juste encore trop optimiste quant à notre intelligence collective face à celle du capitalisme (point de vue [définitivement révisé un an plus tard](https://tcrouzet.com/2007/07/09/hypercentralisation/), puis creusé article après article bien avant que l’ubérisation devienne à la mode). Tout ça pour dire que l’attribution des paternités m’exaspère, surtout quand je leur connais de nombreux grands-pères et même trisaïeuls (et ce n’est pas par orgueil, mon article de 2006 n’était qu’une réaction à [un autre plus lucide rétrospectivement de Karl Dubost](http://www.la-grange.net/2006/03/29.html#web20), suivi [par un autre](http://www.internetactu.net/2006/05/11/la-nouvelle-sagesse-du-web-ou-lesclavage-20/) d’Hubert Guillaud lui-même).
+Dans [un article passionnant comme souvent](http://www.internetactu.net/2015/11/25/leconomie-solidaire-necessite-un-internet-de-la-solidarite/), mon ami Hubert Guillaud attribue la paternité du concept de Digital Labor à Trebor Scholz ([son bouquin sur le sujet date de 2012](https://www.academia.edu/2303176/Introduction_to_Digital_Labor_The_Internet_as_Playground_and_Factory)). Scholz a sans doute contribué à populariser cette dénomination, mais je me souviens de discussions très animées à ce sujet dès 2006. Dans un billet intitulé [Esclavage 2.0](http://tcrouzet.com/2006/06/19/esclavage-20/), la problématique est déjà résumée. J’étais juste encore trop optimiste quant à notre intelligence collective face à celle du capitalisme (point de vue [définitivement révisé un an plus tard](http://tcrouzet.com/2007/07/09/hypercentralisation/), puis creusé article après article bien avant que l’ubérisation devienne à la mode). Tout ça pour dire que l’attribution des paternités m’exaspère, surtout quand je leur connais de nombreux grands-pères et même trisaïeuls (et ce n’est pas par orgueil, mon article de 2006 n’était qu’une réaction à [un autre plus lucide rétrospectivement de Karl Dubost](http://www.la-grange.net/2006/03/29.html#web20), suivi [par un autre](http://www.internetactu.net/2006/05/11/la-nouvelle-sagesse-du-web-ou-lesclavage-20/) d’Hubert Guillaud lui-même).
 
 L’ironique dans cette histoire, c’est de voir comment des personnes populaires détournent le travail des véritables novateurs (et [Karl Dubost](http://www.la-grange.net/) en est un à coup sûr, sur un spectre infiniment plus large que le médiatique Trebor Scholz). C’est une variante du digital labor, on pourrait l’appeler « reputation labor », un truc dans le genre. Sur le fond, le même mécanisme est à l’œuvre. Des gens travaillent, d’autres, moins nombreux, centralisent ce travail pour leur seul bénéfice. C’est le danger avec toutes les figures médiatiques qui défendent le collectif, elles le mettent presque toujours à leur service. Se battre contre le *digital labor* et pratiquer le *reputation labor* est en ce sens presque inévitable.
 
@@ -174,17 +174,17 @@ Je retrouve à l’intérieur le truculent [Jean-Yves Fréchette](https://twitte
 
 J’ai ainsi souvent l’impression que les artistes anticipent toujours les possibilités techniques, un peu comme quand Kerouac simule le traitement de texte avec le rouleau de sa machine à écrire.
 
-![Fréchette nous présente Plis sous pli.](https://tcrouzet.com/images_tc/2015/12/IMG_3968.jpg)
+![Fréchette nous présente Plis sous pli.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/IMG_3968.jpg)
 
 ---
 
 Jean-Yves Fréchette a [légendé avec ses tweets d’exactement 140 caractères des photographies de Patrick St-Hilaire](http://www.instantmeme.com/ebi-addins/im/ViewBooks.aspx?id=3095). Il nous demande de l’imiter. Nous choisissons une image. En dix secondes, je ponds une phrase exactement calibrée : « Ils arrivent, tu les vois pas ? Moi, je les sens, je leur parle, tu ne les comprendras jamais et je t'échapperai toujours, tu es trop vieux. » Impossible pour moi de ne pas penser au sujet de *One Minute*. Notez que le côté purement poétique m’intéresse moins que la narration. Voici le tweet original de Jean-Yves : « Un sérieux revers. En prenant d’assaut le campement des étoiles, tu as tout de même dû infliger un sérieux revers aux mélodies des mémoires. »
 
-![Photo de de Patrick St-Hilaire.](https://tcrouzet.com/images_tc/2015/12/IMG_3975.jpg)
+![Photo de de Patrick St-Hilaire.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/IMG_3975.jpg)
 
 ### Jeudi 25, Montpellier
 
-Journée d’étude consacrée aux formes brèves dans la littérature web organisée par Marie-Ève Thérenty et Florence Thérond. Oriane Deseilligny [décortique *One Minute*](https://tcrouzet.com/2015/11/27/one-minute-une-lecture-theorique-doriane-deseilligny). Je suis fier.
+Journée d’étude consacrée aux formes brèves dans la littérature web organisée par Marie-Ève Thérenty et Florence Thérond. Oriane Deseilligny [décortique *One Minute*](http://tcrouzet.com/2015/11/27/one-minute-une-lecture-theorique-doriane-deseilligny). Je suis fier.
 
 ### Vendredi 26, Balaruc
 
@@ -198,10 +198,12 @@ Entre deux séances de bricolage, je découvre un nouveau genre littéraire : [
 
 Fin novembre, un redoux nous amène parfois des incandescences sublimes. Les enfants jouent au bord de l’eau pendant que dans leur dos le ciel s’embrase.
 
-![Mes enfants et leurs amis.](https://tcrouzet.com/images_tc/2015/12/IMG_3984.jpg)
+![Mes enfants et leurs amis.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/IMG_3984.jpg)
 
-![Pendant que dans leur dos…](https://tcrouzet.com/images_tc/2015/12/IMG_3988.jpg)
+![Pendant que dans leur dos…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/IMG_3988.jpg)
 
 ### Lundi 30, Paris
 
 Ils diront : « Pour sauver la planète des gaz à effet de serre, les puissants d’alors se réunissaient par dizaine de milliers en un seul point du globe, incapables de s’appliquer à eux-mêmes les règles qu’ils entendaient imposer à tous. »
+
+Tags: Carnets, une

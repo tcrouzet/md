@@ -65,3 +65,5 @@ Si parmi vous certains veulent tenter l’expérience, on peut s’y essayer (av
 9. Je ne sais plus si ça se fait mais dans les Fnac il y avait des gens qui lisaient partout des BD. Ils pirataient mais j’ai jamais vu quelqu’un les chasser et les menacer de procès. On a besoin de goûter aux produits culturels avant de les payer parce que ce ne sont pas des produits dont on sait par avance s’ils nous combleront. Le sucre tu sais que c’est du sucre. Un nouveau roman, tu ne sais pas ce qu’il a dans le ventre. Tu le lis, tu l’aimes, tu le paies. Pourquoi cette façon de faire ne deviendrait pas une habitude ? Qu’on ne me dise pas que l’homme est un égoïste. Si un auteur t’a donné quelque chose, tu le sais. Tu peux le lui rendre pour qu’il te donne à l’avenir autre chose.
 
 PS. Pour toute remarque sur *[Genius locus](/genius-locus/)* lui-même reportez vous à la [fiche descriptive](/genius-locus/).
+
+Tags: édition, une

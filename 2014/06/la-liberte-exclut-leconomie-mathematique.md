@@ -10,4 +10,8 @@ Alors pour se tirer d’affaire, les libéraux doivent admettre l’existence de
 
 Je ne suis pas athée puisque je crois à la liberté, mais cette croyance interdit tout déterminisme (et donc toute divinité).
 
-![L'Ecole de Platon par BruceHM.](https://tcrouzet.com/images_tc/2014/06/platon-scaled.jpg)
+![L'Ecole de Platon par BruceHM.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/platon-600x278.jpg)
+
+
+
+Tags: Liberté, Politique, une

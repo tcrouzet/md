@@ -8,7 +8,7 @@ De chez moi, je prends la piste cyclable de la route de Sète, puis vire le long
 
 Très vite j’arrive à Frontignan, la ville du muscat. Pour rejoindre la trace de la GTTS, j’ai le choix entre foncer droit à travers les anciens marais salants, une pure merveille, rester au bord du canal sur l’ancienne voie de halage, partie terminale de la [ViaRhôna](https://www.viarhona.com/), ou suivre la piste cyclable des plages, ce que je fais pour profiter d’un bout de bitume.
 
-![OMG Time Trial](https://tcrouzet.com/images_tc/2019/07/omg.jpg)
+![OMG Time Trial](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/omg.jpg)
 
 Je roule tranquillement quand un gars et une jeune femme me doublent à vélo de course. Je me mets dans leurs roues et me laisse aspirer, rejoignant le pont des Aresquiers où j’attrape la trace de la GTTS. J’ai alors parcouru 16,2 km en 42 minutes, à 23 km/h de moyenne. Je ne regrette pas d’être en gravel, d’autant que devant moi ils accélèrent. Je les suis sans difficulté jusqu’au village de Vic où j’entre pendant qu’ils continuent sur la route. La trace m’amène jusqu’au cimetière où mon père est enterré. Je ne m’arrête pas, je n’ai pas besoin de prendre de l’eau. Je continue sur le bitume, coupe la route de Sète à Montpellier par un rond-point, puis attaque la montée des Quatre chemins.
 
@@ -28,22 +28,24 @@ En même temps, je sais qu’il n’existe pas de vélo miracle. Avec mon tout s
 
 L’ancienne voie ferrée m’expédie sur les hauteurs de Montpellier, où je plonge, enchaînant une série de parcs dont je découvre l’existence avec stupéfaction. Quartiers modernes, poussés depuis que j’étais étudiant, avec parfois encore des recoins champêtres. Me voilà dans la ville, où le gravel avec sa force d’accélération fait merveille. Oui, un gravel est un extraordinaire vélo de ville. Capable de sauter les trottoirs, de couper les pelouses, de se jouer de tous les obstacles tout en gardant de la vélocité. C’est le pied.
 
-![Le Lez, à Montpellier](https://tcrouzet.com/images_tc/2019/07/IMG_5622.jpg)
+![Le Lez, à Montpellier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5622.jpg)
 
 Quand je rejoins la place de la Comédie, mon GPS bippe. J’ai atteint la fin et l’origine de la trace. Depuis le pont des Aresquiers, j’ai parcouru 54,3 km en 3 h 6 (total 70,5 km pour 3 h 48). Je relance le GPS et repars vers le sud, direction la mer en suivant la digue en bordure du Lez. Je suis à nouveau en terrain familier. Peu avant Palavas, je rejoins le canal du Rhône à Sète, que je remonte presque en pilote automatique vers mon point de départ, mon gravel étant à la fête sur cette surface. Je boucle les 77,9 km de la GTTS en 4 h 10 (je me suis arrêté pour manger et pour regarder les paysages guère plus d’une vingtaine de minutes). Quand je rentre chez moi, [j’ai parcouru 107 km en 5 h 24 pour un temps de déplacement de 5 h 8](https://www.strava.com/activities/2564273262).
 
-![Trace de la GTTS](https://tcrouzet.com/images_tc/2019/07/omgtrace.jpg)
+![Trace de la GTTS](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/omgtrace.jpg)
 
 Je suis si heureux que j’annonce à mes copains vététistes que nous devons effectuer cette boucle et qu’ils doivent tous s’acheter des gravels pour venir s’éclater avec moi sur d’encore plus longues distances. Reste que tout n’est pas rose. Les secousses m’ont bien entamé les épaules, vingt-quatre heures après j’ai des fourmis persistantes dans la main gauche, ce qui ne m’arrive jamais à VTT, quelle que soit la distance (mon record VTT en une journée étant de 170 km).
 
-Le gravel va plus vite, mais il est plus exigeant pour le corps que le VTT dès qu’il quitte les surfaces accommodantes, lui-même plus exigeant que le vélo de route. Je ne suis pas prêt de faire du bikepacking en gravel. J’ai besoin d’une fourche avant et de pneus respectables pour affronter les secteurs chaotiques, et tant pis si c’est au prix de plus de lenteur et de poids. Mon confort passe avant tout.
+Le gravel va plus vite, mais il est plus exigeant pour le corps que le VTT dès qu'il quitte les surfaces accommodantes, lui-même plus exigeant que le vélo de route. Je ne suis pas prêt de faire du bikepacking en gravel. J’ai besoin d’une fourche avant et de pneus respectables pour affronter les secteurs chaotiques, et tant pis si c’est au prix de plus de lenteur et de poids. Mon confort passe avant tout.
 
 Je commence à savoir choisir entre mon VTT et mon gravel. Pour les explorations, c’est le VTT. Avec lui, je peux oser, je peux m’aventurer. Je ne risque que de ne pas aller vite. Pour moi, le gravel n’est pas un vélo d’aventure. C’est un vélo pour les itinéraires pensés pour lui, un peu comme le vélo de route d’ailleurs, à cela prêt que son terrain de jeu est plus vaste. Sur les itinéraires « homologués » pour lui, le gravel procure un immense plaisir, mais il suffit de quelques sections difficiles pour tout gâcher. C’est donc un plaisir fragile que celui du gravel, qui exige davantage d’anticipation, en tout cas dans des régions comme la mienne.
 
 Par chance, nous avons des GPS, des cartes extraordinaires, des vues satellites, nous pouvons partager nos traces, nos expériences. Je peux souffler quelques idées à Jaywai Jaywai, il peut améliorer la GTTS pour en faire un pur régal d’un bout à l’autre. Et ce n’est pas un hasard si le gravel se développe en même temps que nos outils technologiques. Plus nos traces se précisent, plus le gravel s’impose comme une évidence (là où le vélo de course s’imposait quand notre technologie de routage se limitait à des cartes papier).
 
-![Ma route](https://tcrouzet.com/images_tc/2019/07/magtts.jpg)
+![Ma route](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/magtts.jpg)
 
 Maintenant, quand je roule à VTT, je ne cesse de me dire « Là, c’est gravel, là, non. » Je dois repenser ma mémoire topographique. Là où on peut foncer presque aveuglément à VTT, il faut plus de doigté en gravel, et souvent des détours s’imposent, d’autant plus quand on veut offrir à ses compagnons de route une expérience fluide, car il me semble que le gravel doit conserver en partie la fluidité propre au vélo de route pour mieux se différencier du VTT plus rentre dedans (dès que la fluidité faiblit, je souffre).
 
 Tout cela mis bout à bout, nous vivons une époque formidable pour le vélo, dont les développements répondent à ceux des autres technologies, en même temps qu’aux multiples contraintes civilisationnelles.
+
+Tags: Born to Bike, Gravel, une

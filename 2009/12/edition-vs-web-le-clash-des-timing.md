@@ -18,7 +18,9 @@ Pour moi, le Flux existe partout où nous effectuons des échanges immatériels.
 
 ### Possibilités pratiques
 
-1. Je peux balancer un PDF mais c’est ce n’est pas satisfaisant pour moi comme [je l’ai déjà expliqué](https://tcrouzet.com/2009/12/04/le-livre-une-contexture-du-flux/). Je veux essayer d’aller vers plus de fluidité.
+1. Je peux balancer un PDF mais c’est ce n’est pas satisfaisant pour moi comme [je l’ai déjà expliqué](http://blog.tcrouzet.com/2009/12/04/le-livre-une-contexture-du-flux/). Je veux essayer d’aller vers plus de fluidité.
 2. Je peux alors utiliser CommentPress. [Je viens de mettre les deux premiers chapitres, hyper courts, pour tester.](http://an.tcrouzet.com/) Qu’en pensez-vous ?
 3. Si je pars dans cette voie, j’ai le choix entre utiliser un URL dédié au livre ou laisser les textes se mêler à mes autres posts. J’ai tendance à préférer cette seconde solution, plus proche de la vie, du grand remixage des Flux. Il me faudra développer un plugin WordPress pour ajouter les fonctions commentPress à certains posts.
 4. À la fin de l’écoulement, mon éditeur ou n’importe quel autre éditeur peut éventuellement vouloir rassembler les morceaux. En fait, un éditeur en ligne peut prendre le livre. Un éditeur papier aussi. Faut que nous sortions des exclusivités.
+
+Tags: NetLittérature, une

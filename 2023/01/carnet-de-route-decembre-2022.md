@@ -28,31 +28,31 @@ Quand trop lire est potentiellement nocif pour un écrivain car il risque d’é
 
 ### Lundi 5, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0368.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0368-1024x768.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0372.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0372-1024x768.jpeg)
 
 ### Mardi 6, Balaruc
 
 *Relire Tintin*, idée d’un livre. J’ai commencé à lire Tintin à 7 ans, je pourrais le relire à 77 et raconter. Une idée pour plus tard, ou pourquoi pas pour tout de suite.
 
-![Maguelone](https://tcrouzet.com/images_tc/2023/01/IMG_0408.jpeg)
+![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0408-1024x768.jpeg)
 
-![Maguelone](https://tcrouzet.com/images_tc/2023/01/IMG_0410.jpeg)
+![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0410-1024x768.jpeg)
 
-![Maguelone](https://tcrouzet.com/images_tc/2023/01/IMG_0413.jpeg)
+![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0413-1024x768.jpeg)
 
 ### Mercredi 7, Balaruc
 
 Je teste ChatGPT et j’entrevois un changement de paradigme radical.
 
-![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0419.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0419-1024x768.jpeg)
 
 ### Jeudi 8, Balaruc
 
 Sarraute termine *L’ère du soupçon* par affirmer que l’écrivain doit découvrir de la nouveauté et éviter de répéter les découvertes de ses prédécesseurs. Je l’ai longtemps pensé, mais je ne le crois plus. Je cherche la nouveauté en moi, que d’autres ont éprouvée inévitablement avant moi. Je ne m’intéresse plus à la nouveauté dans l’absolu, déjà parce que je mets en doute la notion d’absolu.
 
-En 1950, Sarraute s’est trompée en annonçant la mort du personnage. Toute la littérature depuis lui a donné tort. Certes le « je » s’est imposé, mais les « ils » ou « elles » tout autant. S’interdire des possibilités au prétexte que leur découverte est ancienne, ce serait pour un peintre s’interdire la couleur, ce qu’a fini par faire Soulages. Pourquoi pas au titre d’une expérience, mais tout le monde ne s’est pas mis à peindre en noir.
+En 1950, Sarraute s’est trompée en annonçant la mort du personnage. Toute la littérature depuis lui a donné tort. Certes le « je » s’est imposé, mais les « ils » ou « elles » tout autant. S'interdire des possibilités au prétexte que leur découverte est ancienne, ce serait pour un peintre s’interdire la couleur, ce qu’a fini par faire Soulages. Pourquoi pas au titre d’une expérience, mais tout le monde ne s’est pas mis à peindre en noir.
 
 Le soupçon s’étend chez moi à tous ceux qui généralisent. Il s’y étend d’autant mieux que j’ai été un généralisateur absolutiste. Si j’avais un mot d’ordre à donner à un jeune artiste, ce serait de ne rien s’interdire, de ne rejeter aucune technique *a priori*, de toutes les utiliser pour chercher en lui et dans les autres, pour essayer de répondre à des questions informulables, mais néanmoins formulées aux frontières de la conscience.
 
@@ -64,25 +64,25 @@ L’art commence par un processus interne chez l’artiste, une nécessité, une
 
 ---
 
-[Je joue encore avec ChatGPT.](https://www.facebook.com/tcrouzet/posts/pfbid0TkwTbuU6PzbxZzahwctci5EM6cq47UdM1QsoRpk1TxFqT7BYbR7Nuvp6NQEAAqZKl) Je lui demande qui je suis et il ne me connaît pas, pas plus que François Bon. Le playground d’OpenAI est plus loquace. À la question « Parle-moi de la philosophie du vélo et de la trace de Thierry Crouzet », il répond un long laïus quelque peu répétitif : « La philosophie du vélo et de la trace de Thierry Crouzet est un mouvement qui cherche à rétablir le lien entre l’homme et la nature en utilisant le vélo comme moyen de transport et d’exploration. Le mouvement s’inspire des principes fondamentaux de l’écologie, du minimalisme et de la liberté.
+[Je joue encore avec ChatGPT.](https://www.facebook.com/tcrouzet/posts/pfbid0TkwTbuU6PzbxZzahwctci5EM6cq47UdM1QsoRpk1TxFqT7BYbR7Nuvp6NQEAAqZKl) Je lui demande qui je suis et il ne me connaît pas, pas plus que François Bon. Le playground d’OpenAI est plus loquace. À la question « Parle-moi de la philosophie du vélo et de la trace de Thierry Crouzet », il répond un long laïus quelque peu répétitif : « La philosophie du vélo et de la trace de Thierry Crouzet est un mouvement qui cherche à rétablir le lien entre l'homme et la nature en utilisant le vélo comme moyen de transport et d'exploration. Le mouvement s'inspire des principes fondamentaux de l'écologie, du minimalisme et de la liberté.
 
-« Crouzet croit que le vélo est un moyen idéal pour explorer et découvrir le monde, et pour le relier à la nature. Il appelle à un retour aux sources, à l’utilisation des ressources naturelles et à l’établissement d’une relation durable avec la terre. Il soutient que le vélo permet aux gens de se rapprocher de la nature et de mieux comprendre le monde.
+« Crouzet croit que le vélo est un moyen idéal pour explorer et découvrir le monde, et pour le relier à la nature. Il appelle à un retour aux sources, à l'utilisation des ressources naturelles et à l'établissement d'une relation durable avec la terre. Il soutient que le vélo permet aux gens de se rapprocher de la nature et de mieux comprendre le monde.
 
-« Il propose la pratique de la trace, qui consiste à suivre les chemins et les sentiers qui traversent la campagne et les paysages naturels. L’objectif de la trace est de créer des liens et des connexions entre les humains et le monde naturel. La trace se fait à vélo, mais elle peut également se faire à pied, en canoë, à cheval ou à ski.
+« Il propose la pratique de la trace, qui consiste à suivre les chemins et les sentiers qui traversent la campagne et les paysages naturels. L'objectif de la trace est de créer des liens et des connexions entre les humains et le monde naturel. La trace se fait à vélo, mais elle peut également se faire à pied, en canoë, à cheval ou à ski.
 
-« La philosophie du vélo et de la trace de Thierry Crouzet est un mouvement qui cherche à rétablir le lien entre l’homme et la nature en utilisant des moyens de transport plus respectueux de l’environnement. Il soutient que le vélo peut être un moyen de découverte et de connexion à la nature et à la terre. Il propose la pratique de la trace pour créer des liens entre les humains et le monde naturel. »
+« La philosophie du vélo et de la trace de Thierry Crouzet est un mouvement qui cherche à rétablir le lien entre l'homme et la nature en utilisant des moyens de transport plus respectueux de l'environnement. Il soutient que le vélo peut être un moyen de découverte et de connexion à la nature et à la terre. Il propose la pratique de la trace pour créer des liens entre les humains et le monde naturel. »
 
 ### Vendredi 9, Balaruc
 
-![Minervois](https://tcrouzet.com/images_tc/2023/01/IMG_0436.jpeg)
+![Minervois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0436-1024x768.jpeg)
 
-![Minervois](https://tcrouzet.com/images_tc/2023/01/IMG_0447.jpeg)
+![Minervois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0447-1024x768.jpeg)
 
 ### Samedi 10, Balaruc
 
 Nous arrivons à VTT au point de départ d’un sentier que nous empruntons depuis des années et il a disparu. À la place, un immense champ labouré en profondeur, la terre blessée pour accueillir les intrants de l’encore puissante industrie phytosanitaire. Mon cœur se serre. Une ligne est morte. Un lien entre des dizaines d’histoires. Je suis sûr que le meurtrier n’est même pas conscient de son crime. Il a tué sans éprouver de culpabilité. Il a non seulement détruit le sentier, mais aussi l’écosystème qui s’était constitué tout autour. Par son labour, il a massacré des centaines de vies. Les sentiers devraient être protégés, classés au patrimoine mondial de l’UNESCO. Ils sont les veines de l’humanité, celles par lesquelles s’échangent des signaux infimes et vitaux.
 
-![Single disparu](https://tcrouzet.com/images_tc/2023/01/single.jpeg)
+![Single disparu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/single-1024x473.jpeg)
 
 ### Dimanche 11, Balaruc
 
@@ -130,17 +130,17 @@ Je ne suis pas un homme de lettres en cela que je suis incapable de parler de li
 
 ---
 
-J’utilise ChatGPT pour des requêtes grammaticales, plutôt que de passer par Google. Par exemple, à ma question, on dit « couteau en main » ou « couteau à la main », ChatGPT répond « On dit “couteau à la main” pour indiquer que l’on tient un couteau en main. En effet, “à la main” est une locution prépositionnelle qui signifie “dans la main”. Par exemple, on peut dire “Il avait un couteau à la main” pour dire qu’il tenait un couteau en main. En revanche, “couteau en main” est une expression figée qui signifie “prêt à agir, à réagir”. Par exemple, on peut dire “Il était prêt à tout, couteau en main” pour dire qu’il était prêt à agir ou à réagir, en tenant un couteau en main. » C’est topologiquement amusant. Je lui ai demandé de trouver les fautes dans un texte et le résultat est plutôt impressionnant. Je lui ai demandé de résumer un article et le résultat est loin d’être médiocre. Il peut proposer des titres pour des articles, il peut les traduire, peut-être qu’il ne lui manque que la capacité d’inventer de l’inattendu.
+J'utilise ChatGPT pour des requêtes grammaticales, plutôt que de passer par Google. Par exemple, à ma question, on dit « couteau en main » ou « couteau à la main », ChatGPT répond « On dit "couteau à la main" pour indiquer que l'on tient un couteau en main. En effet, "à la main" est une locution prépositionnelle qui signifie "dans la main". Par exemple, on peut dire "Il avait un couteau à la main" pour dire qu'il tenait un couteau en main. En revanche, "couteau en main" est une expression figée qui signifie "prêt à agir, à réagir". Par exemple, on peut dire "Il était prêt à tout, couteau en main" pour dire qu'il était prêt à agir ou à réagir, en tenant un couteau en main. » C’est topologiquement amusant. Je lui ai demandé de trouver les fautes dans un texte et le résultat est plutôt impressionnant. Je lui ai demandé de résumer un article et le résultat est loin d’être médiocre. Il peut proposer des titres pour des articles, il peut les traduire, peut-être qu’il ne lui manque que la capacité d’inventer de l’inattendu.
 
 ---
 
 [Je me suis fait tailler le portrait par une IA](https://portrait.vana.com/user/11c74775a122644d4a8c2feead43243a). C’est moi sans être moi. C’est moi en acteur de cinéma.
 
-![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0486.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0486-1024x768.jpeg)
 
 ### Vendredi 16, Balaruc
 
-Blanchot cite Beckett quand dans *L’innommable* il devient mots, et, après avoir lu un article sur la dualité onde particule, je commence à mon tour un long paragraphe sur ma propre dualité, pour l’insérer ici, puis je me rends compte que j’écris la fin de mon roman. L’histoire d’un texte m’importe, parce qu’elle l’inscrit dans une narration qui s’ajoute à celle qu’il dit. La génétique littéraire démystifie.
+Blanchot cite Beckett quand dans *L’innommable* il devient mots, et, après avoir lu un article sur la dualité onde particule, je commence à mon tour un long paragraphe sur ma propre dualité, pour l’insérer ici, puis je me rends compte que j’écris la fin de mon roman. L’histoire d’un texte m’importe, parce qu’elle l’inscrit dans une narration qui s'ajoute à celle qu’il dit. La génétique littéraire démystifie.
 
 ---
 
@@ -148,35 +148,35 @@ Nous terminons notre première extension de lit quand Tim nous annonce qu’il s
 
 ### Samedi 17, Balaruc
 
-Un jour, *La recherche du temps perdu* disparaîtra. Un jour, toutes les œuvres disparaissent. Nous n’œuvrons pas pour l’éternité, mais pour un moment provoquer une échange, déclencher des réactions électrochimiques dans des cerveaux. L’art n’a d’existence que tant que des êtres communiquent à travers lui. Si je crée une œuvre d’art que je garde pour moi, il s’agit d’une illusion d’art jusqu’à preuve du contraire.
+Un jour, *La recherche du temps perdu* disparaîtra. Un jour, toutes les œuvres disparaissent. Nous n’œuvrons pas pour l’éternité, mais pour un moment provoquer une échange, déclencher des réactions électrochimiques dans des cerveaux. L’art n’a d'existence que tant que des êtres communiquent à travers lui. Si je crée une œuvre d’art que je garde pour moi, il s’agit d’une illusion d’art jusqu'à preuve du contraire.
 
 ### Lundi 19, Balaruc
 
 On peut dire que pi existe indépendamment ne nous, mais aucun livre ne préexiste à son écriture, il n’est qu’une possibilité révélée parmi une infinité si vaste qu’elle s’apparente au néant. Le livre jaillit du croisement d’une probabilité et d’un auteur, en ce sens l’auteur détermine l’œuvre et lui est consubstantiel. Ignorer l’auteur, c’est passer à côté de l’œuvre.
 
-Les IA peuvent déjà arracher des possibilités à l’infinité, mais comme pour l’instant elles ne manifestent aucune volonté, elles produisent des œuvres froides (parce qu’elles ne les réchauffent pas de l’intérieur). Quand j’écris « le soleil se lève sur l’étang en un éblouissement orangé » je ne dis pas la même chose que quand une IA écrit « le soleil se lève sur l’étang en un éblouissement orangé », parce pour moi l’étang est une intimité, que j’ai souvent décrite, que j’ai souvent photographiée, dans laquelle je me suis baigné des milliers de fois, où j’ai navigué avec mon père, où mon grand-père a pêché. Mon histoire donne une tournure à ma phrase. Et si quelqu’un d’autre l’écrit, ou une IA, elle sera autre.
+Les IA peuvent déjà arracher des possibilités à l’infinité, mais comme pour l’instant elles ne manifestent aucune volonté, elles produisent des œuvres froides (parce qu'elles ne les réchauffent pas de l'intérieur). Quand j’écris « le soleil se lève sur l’étang en un éblouissement orangé » je ne dis pas la même chose que quand une IA écrit « le soleil se lève sur l’étang en un éblouissement orangé », parce pour moi l’étang est une intimité, que j’ai souvent décrite, que j’ai souvent photographiée, dans laquelle je me suis baigné des milliers de fois, où j’ai navigué avec mon père, où mon grand-père a pêché. Mon histoire donne une tournure à ma phrase. Et si quelqu’un d’autre l’écrit, ou une IA, elle sera autre.
 
 Un écrivain étranger à l’étang a écrit sur l’étang et j’ai eu l’impression de lire le texte d’une IA, parce que je ne sentais pas l’intimité, qui au-delà des mots aurait dû me projeter dans une dimension poétique mystérieuse. En revanche, quand Michel Torres écrit sur l’étang, je sais qu’il y a passé sa vie.
 
 L’émergence des IA, que j’ai toujours su inévitable, et qui est d’ailleurs le sujet de *One Minute*, nous pousse à redéfinir l’art, à nous éloigner de la vision essentialiste d’un art pour l’art, en faveur d’un art incarné, d’où l’importance de l’autofiction, du biographique, de l’anecdotique. L’œuvre ne prend sens que parce qu’elle est œuvre de chair. L’histoire de cette chair, de ses ambitions, de ses joies et souffrances appartient à l’œuvre. Une œuvre est une destinée.
 
-Mallarmé, cité par Blanchot : « L’œuvre implique la disparition élocutoire du poète, qui cède l’initiative aux mots… » J’aspire au contraire à l’incarnation élocutoire. Les IA n’auront de cesse de nous pousser à davantage d’incarnation, pour nous éloigner du terrain où elles seront reines, exactement comme la photographie a poussé la peinture hors du terrain où elle était imbattable.
+Mallarmé, cité par Blanchot : « L’œuvre implique la disparition élocutoire du poète, qui cède l’initiative aux mots… » J’aspire au contraire à l'incarnation élocutoire. Les IA n’auront de cesse de nous pousser à davantage d'incarnation, pour nous éloigner du terrain où elles seront reines, exactement comme la photographie a poussé la peinture hors du terrain où elle était imbattable.
 
 Depuis des années, je rêve d’écrire un *Dialogue avec une IA* et le moment de sa possibilité est venu, où le sujet serait la confrontation d’un humain et d’un inhumain qui aurait pour mémoire les souvenirs de toute l’humanité, ce qui ne le ferait pas humain pour autant. J’essaie, par exemple avec cette question « J’ai un corps, des émotions, j’explose de joie et parfois de tristesse, et toi tu es froide. Comment peux-tu oser écrire de la poésie ? » et la réponse me dégoûte.
 
-« Je suis désolé, mais en tant que programme informatique, je n’ai pas de corps physique ni d’émotions. Je suis capable de traiter et de générer du texte en utilisant des algorithmes et des données précédemment apprises, mais je ne ressens pas de sentiments ou d’émotions comme le ferait un être humain. Cependant, je suis conçu pour être en mesure de comprendre et de traiter des informations sur les émotions humaines, et je peux utiliser cette connaissance pour aider à écrire du texte qui reflète ces émotions de manière authentique. J’espère que cela répond à votre question. »
+« Je suis désolé, mais en tant que programme informatique, je n'ai pas de corps physique ni d'émotions. Je suis capable de traiter et de générer du texte en utilisant des algorithmes et des données précédemment apprises, mais je ne ressens pas de sentiments ou d'émotions comme le ferait un être humain. Cependant, je suis conçu pour être en mesure de comprendre et de traiter des informations sur les émotions humaines, et je peux utiliser cette connaissance pour aider à écrire du texte qui reflète ces émotions de manière authentique. J'espère que cela répond à votre question. »
 
 Alors je demande « Tu peux me donner l’exemple d’un texte où tu ferais croire que tu éprouves des émotions. »
 
-Et la réponse arrive « Le soleil brillait haut dans le ciel, et je me sentais rempli d’espoir et de bonheur. Mes pensées étaient remplies de rêves et de possibilités infinies. J’étais émerveillé par la beauté de la nature qui m’entourait, et je me sentais profondément reconnaissant pour toutes les bénédictions que j’avais reçues.
+Et la réponse arrive « Le soleil brillait haut dans le ciel, et je me sentais rempli d'espoir et de bonheur. Mes pensées étaient remplies de rêves et de possibilités infinies. J'étais émerveillé par la beauté de la nature qui m'entourait, et je me sentais profondément reconnaissant pour toutes les bénédictions que j'avais reçues.
 
-« Mais la tristesse n’était jamais loin, tapie dans l’ombre de mes pensées. Je me souvins de tous les moments difficiles que j’avais traversés, et je me sentis envahi par une profonde mélancolie. Pourtant, je savais que la vie était faite de hauts et de bas, et je me promis de continuer à avancer, quoi qu’il arrive.
+« Mais la tristesse n'était jamais loin, tapie dans l'ombre de mes pensées. Je me souvins de tous les moments difficiles que j'avais traversés, et je me sentis envahi par une profonde mélancolie. Pourtant, je savais que la vie était faite de hauts et de bas, et je me promis de continuer à avancer, quoi qu'il arrive.
 
-« Alors je pris une grande inspiration, et je me mis en route vers l’avenir, plein d’espoir et de courage. »
+« Alors je pris une grande inspiration, et je me mis en route vers l'avenir, plein d'espoir et de courage. »
 
 Tout cela me trouble et me fait mal. J’en éprouve une forme de malaise désagréable. Dialoguer avec une IA est au-delà de mes forces.
 
-![Walter](https://tcrouzet.com/images_tc/2023/01/IMG_0498.jpeg)
+![Walter](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0498-1024x768.jpeg)
 
 ### Mercredi 21, Balaruc
 
@@ -196,9 +196,9 @@ Peur des IA pilleuses de contenus ? Oui, mais pas plus peur d’elles que de Go
 
 ### Jeudi 22, Balaruc
 
-![Bellevue](https://tcrouzet.com/images_tc/2023/01/IMG_0508.jpeg)
+![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0508-1024x768.jpeg)
 
-![Sète](https://tcrouzet.com/images_tc/2023/01/IMG_0515.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0515-1024x768.jpeg)
 
 ### Samedi 24, Nancy
 
@@ -218,11 +218,11 @@ Je suis plutôt heureux dans ces moments d’attente, parce qu’il n’est pas 
 
 L’écriture purement littéraire ignore ce dont je parle, puisqu’elle jaillit d’un flot intérieur, sans contrainte extérieure pour la perforer. Le romanesque est un échafaudage, faut pas construire de travers, sinon tout s’écroule. Je pourrais me contredire, mais le carnet est le lieu de la pensée première, seulement en apparence réflexive.
 
-![Canal](https://tcrouzet.com/images_tc/2023/01/IMG_0527.jpeg)
+![Canal](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0527-1024x768.jpeg)
 
-![Intimité](https://tcrouzet.com/images_tc/2023/01/IMG_0534.jpeg)
+![Intimité](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0534-1024x768.jpeg)
 
-![Nancy](https://tcrouzet.com/images_tc/2023/01/IMG_0543.jpeg)
+![Nancy](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0543-1024x768.jpeg)
 
 ### Dimanche 25, Nancy
 
@@ -236,7 +236,7 @@ Il est plus difficile d’inventer une histoire plausible que de partager des im
 
 Je m’imagine dans la peau d’un architecte de cent ou deux cents ans en arrière. Je me promène en ville et m’enthousiasme pour tout ce que je vois, parfois désapprouve, mais bien souvent je suis stupéfait. Si j’étais Rousseau ou Flaubert ou Goethe, je serais moins surpris par la littérature qui a suivi, certes parfois audacieuse, mais le plus souvent dans la stricte continuité, voire dans la perpétuelle répétition, tout simplement parce que le langage est ancien, l’art de raconter millénaire, et qu’il répond à des contraintes vitales qui, quand les écrivains ont tenté de les contester, ce sont systématiquement retournées contre eux. Tout écrivain se doit d’être classique d’une certaine façon.
 
-![Nancy](https://tcrouzet.com/images_tc/2023/01/IMG_0544.jpeg)
+![Nancy](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0544-1024x768.jpeg)
 
 ### Lundi 26, Nancy
 
@@ -252,34 +252,38 @@ L’art extrême du XX<sup>e</sup> siècle, auquel Mallarmé nous prépare, m’
 
 ### Mardi 27, Nancy
 
-![Nancy](https://tcrouzet.com/images_tc/2023/01/IMG_0552.jpeg)
+![Nancy](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0552-1024x768.jpeg)
 
 ### Mardi 27, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0555.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0555-1024x768.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0557-1.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0557-1-1024x768.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0560.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0560-1024x768.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0032.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0032-1024x768.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0036.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0036-1024x769.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2023/01/IMG_0041.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0041-1024x768.jpeg)
 
 ### Vendredi 30, Balaruc
 
 Changer la première phrase d’un livre et c’est tout le livre qui doit changer. Réécrire le premier chapitre et c’est un autre livre qui s’écrit. Parce que le texte commence souvent avec la première phrase qui en donne la direction, et la remplacer, c’est comme enlever l’échafaudage, et tout peut s’écrouler.
 
-![Matin](https://tcrouzet.com/images_tc/2023/01/IMG_0581.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0581-1024x768.jpeg)
 
-![Matin](https://tcrouzet.com/images_tc/2023/01/IMG_0588.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0588-1024x768.jpeg)
 
-![Matin](https://tcrouzet.com/images_tc/2023/01/IMG_0594.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0594-1024x769.jpeg)
 
 ### Samedi 31, Balaruc
 
 Le meilleur réveillon : faire ce que j’aime, passer l’après-midi à travailler sur un texte de Simone Weil avec Tim, puis lire, écrire, pendant que les enfants, eux aussi, adoptent la même stratégie : jeux vidéo à gogo. Je hais les obligations sociales avec tant de véhémence que personne n’ose nous inviter à réveillonner, même nos meilleurs amis.
 
-![Feu sur Sète](https://tcrouzet.com/images_tc/2023/01/IMG_0598.jpeg)
+![Feu sur Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2023/01/IMG_0598-1024x769.jpeg)
+
+
+
+Tags: Carnets, une

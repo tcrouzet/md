@@ -1,8 +1,10 @@
 # Vous pensez quoi des ebooks ?
 
-![Mon PRS-600](https://tcrouzet.com/images_tc/2009/11/sony600.jpg)
 
-Début septembre, sur Twitter j’avais demandé à ma communauté de réagir au sujet des ebooks. Je m’étais inspiré de [toutes ces réponses](https://tcrouzet.com/2009/09/01/tweets-du-mardi-01-septembre-2009/) et d’autres glanées plus tard pour essayer de traduire un état d’esprit général. Finalement, je n’utilise pas ces petits textes pour mon livre (pas le courage d’attribuer chacun à son auteur).<span id="more-12146"></span>
+
+![Mon PRS-600](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/11/sony600.jpg)
+
+Début septembre, sur Twitter j’avais demandé à ma communauté de réagir au sujet des ebooks. Je m’étais inspiré de [toutes ces réponses](http://blog.tcrouzet.com/2009/09/01/tweets-du-mardi-01-septembre-2009/) et d’autres glanées plus tard pour essayer de traduire un état d’esprit général. Finalement, je n’utilise pas ces petits textes pour mon livre (pas le courage d'attribuer chacun à son auteur).<span id="more-12146"></span>
 
 « Rien ne remplacera la texture du papier, le froissement des pages, le craquement de la reliure qui s’ouvre pour la première fois. »
 
@@ -47,3 +49,5 @@ Début septembre, sur Twitter j’avais demandé à ma communauté de réagir au
 « Un livre est une promesse d’un temps pour soi, exclusif, égoïste. On le mesure d’un coup d’œil au nombre de pages et on se délecte par avance. Un ebook est intangible, il ne nous fait pas rêver.»
 
 « Quand j’ai commencé un roman sur la plage, j’y retrouve plus tard des grains de sable. »
+
+Tags: eBook, édition

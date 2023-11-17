@@ -14,10 +14,12 @@ Avec François, nous avons une synchronicité de projet, de travail. Pourquoi av
 
 C’est alors que [Frédéric Métaillé](https://twitter.com/FMetailie) me souffle sur Twitter que deux photographes, Guillaume Blot et Vassili Feodoroff, [publient tous les jours de 2015 une photo à 20:15](http://projet20h15.tumblr.com/). Étonnant, non ? Ma minute se passe à 21:45 !
 
-![Lundi 18 Mai 2015, 20h15, Mise en abysse - Vassili Feodoroff.](https://tcrouzet.com/images_tc/2015/05/2015.jpg)
+![Lundi 18 Mai 2015, 20h15, Mise en abysse - Vassili Feodoroff.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/05/2015-600x398.jpg)
 
 Je leur fais signe. Ils me répondent en me pointant vers François Vivant, un autre photographe, qui lui publie [tous les jours à 14:13](http://www.14h13.com/). Oui, c’est bien de l’air du temps qu’il s’agit, de notre envie de nous donner des rendez-vous, de ritualiser nos pratiques, aussi parce que la technologie nous l’autorise.
 
-![14:13 par François Vivant.](https://tcrouzet.com/images_tc/2015/05/1413.jpg)
+![14:13 par François Vivant.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/05/1413-600x398.jpg)
 
 C’est une belle leçon de vie. Une idée ne nous appartient pas vraiment. Elle surgit en nous comme en d’autres. Inutile de la cacher, de la cultiver jalousement. Quand on la libère, elle en rencontre d’autres et ça fait des étincelles.
+
+Tags: NetLittérature, Sur 1 minute, une

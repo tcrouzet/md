@@ -21,3 +21,5 @@ Nous sommes malléables.
 Taper au clavier, déplacer une souris, glisser un doigt sur un écran tactile, titiller un joystick, lancer des commandes vocales, toutes ces actions, répétées des centaines de fois par jour, nous transforment. Nous n’interagissons plus comme par le passé avec le monde, nous nous le représentons différemment, au final nous allons y vivre différemment parce que dorénavant nous sommes tous connectés les uns avec les autres.
 
 Il n’existe aucune fatalité biologique ou génétique. Nous pouvons nous transformer par nos usages. Si pour certains l’homme est une bête sauvage et le restera, l’expérience des chauffeurs de taxi londoniens prouve que la nature humaine est en perpétuelle réinvention. À nous de choisir le destin que nous souhaitons pour notre espèce.
+
+Tags: NetCulture, Une brève histoire de l'informatique

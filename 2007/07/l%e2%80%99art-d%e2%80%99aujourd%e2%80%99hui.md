@@ -16,7 +16,7 @@ Un art d’aujourd’hui doit se construire avec les outils d’aujourd’hui. A
 
 Ils exploitent à fond toutes les techniques modernes exactement comme le firent leurs prédécesseurs de la renaissance. Nouveaux matériaux, nouveaux outils de modélisation, nouvelles conception de la circulation, intégration à l’environnement… Si je devais faire un autre métier, ce serait architecte.
 
-![Ma maison, vue depuis l'étang en 2004](https://tcrouzet.com/images_tc/2004maison.jpg)
+![Ma maison, vue depuis l'étang en 2004](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2004maison.jpg)
 
 À ce jour, je n’ai dessiné qu’une maison, la mienne. Mon expérience dans le domaine est donc réduite. Je crois toutefois qu’il existe une grande proximité entre l’architecture et les autres arts vivants d’aujourd’hui.
 
@@ -26,7 +26,7 @@ Il y a bien sûr la BD qui est l’art graphique le plus à la pointe aujourd’
 
 Si l’écriture a toujours été architecturale, suffit de lire *La Recherche du temps perdu* ou *Don Quichotte*, elle le devient d’autant plus grâce à l’hypertexte qui nous permet de lier entre eux nos différents textes. Nous pouvons aussi plus simplement que jamais mettre en page nos textes dans l’espace. J’ai expérimenté cette voie avec *Ne rien faire sans fainéanter*.
 
-![Une double page de Ne rien faire...](https://tcrouzet.com/images_tc/2003nerienfaire.jpg)
+![Une double page de Ne rien faire...](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2003nerienfaire.jpg)
 
 Le blog aussi nous permet d’écrire différemment. Par exemple, je n’écrirais pas aujourd’hui ce texte si je n’avais pas publié mes textes précédents et si vous ne les aviez pas commentés. Cette dimension collective, son dynamisme, sa vitesse, changent l’art d’écrire. Elles engendrent nécessairement une écriture nouvelle.
 

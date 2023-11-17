@@ -28,10 +28,12 @@ Mais passer d’un site dynamique à un site statique est loin d’être simple.
 
 Ce travail de mécanisation numérique, auquel j’ai grandement associé ChatGPT, s’est doublé d’un travail de simplification de la structure des pages. J’ai tout fait pour réduire leur poids, de façon à minimiser l’espace de stockage, la consommation en bande passante, et donc en énergie. J’ai tendu vers du pur HTML. Plus qu’un seul JavaScript maison pour gérer le menu. Plus que deux polices de caractères non standard, une pour les icônes, une pour le corps de texte. J’ai même créé une version miroir du site ultraminimaliste, qui plus est téléchargeable et donc transmissible de la main à la main à la façon d’un livre.
 
-![Performances selon Google](https://tcrouzet.com/images_tc/2023/01/gouglespeed.png)
+![Performances selon Google](https://tcrouzet.com/images_tc/2023/01/gouglespeed-1024x820.png)
 
 Mon site est désormais bien plus light qu’avant et bien plus rapide par effet collatéral. J’ai remplacé les commentaires par un formulaire de contact ([si j’avais tenu aux commentaires, j’aurais pu utiliser Disqus](https://disqus.com/)). Ainsi les conversations se dérouleront par mail, sereinement. J’ai confié la recherche à Google, puisqu’elle ne peut plus s’effectuer directement dans ma base de données. Tout n’est pas rose, puisque pour le moment j’ai choisi un hébergement statique AWS, qui est pour l’essentiel gratuit pour un blog comme le mien. [Mon miroir principal est sur GitHub](https://static.tcrouzet.com/) dans un but de partage et de pérennisation (j’ai renoncé à publier le blog sur GitHub parce que les mises à jour sont longues et hasardeuses pour mes milliers de pages et mes 5 Go d’images).
 
 C’est non sans un petit frisson que je me suis rendu sur le site d’OVH pour annuler mon abonnement dédié. Ma nouvelle vie numérique a commencé.
 
 *PS : Mon site est toujours disponible à l’adresse [tcrouzet.com](https://tcrouzet.com/) et mon site miroir à l’adresse [static.tcrouzet.com](https://static.tcrouzet.com/). Mais si demain je cesse de payer mon nom de domaine, mes textes seront toujours respectivement accessibles aux adresses [d3b8yqq4f9m0o1.cloudfront.net](https://d3b8yqq4f9m0o1.cloudfront.net/) et [tcrouzet.github.io/blog/](https://tcrouzet.github.io/blog/) où l’ensemble du site peut être téléchargé depuis [github.com/tcrouzet/blog](https://github.com/tcrouzet/blog). Il sera facile de les déplacer ailleurs par simple téléchargement.*
+
+Tags: NetLittérature, une

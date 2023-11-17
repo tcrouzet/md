@@ -4,11 +4,11 @@ Pour certains, nous traversons un soubresaut historique. Quelques ajustements au
 
 Je ne cherche même pas à savoir ce qu’ils entendent par normale, sachant que ce qui serait normal pour moi ne le serait pas pour eux.
 
-Pour d’autres, dont je suis, nous nous trouvons à la veille d’une [transition historique](https://tcrouzet.com/2008/04/17/epoque-de-transition-ou-pas/). Qu’est-ce qu’une transition ? Une période après laquelle plus rien ne peut plus être comme avant. Par exemple, les cyanobactéries ont provoqué une transition il y a trois milliards d’années en injectant l’oxygène dans l’atmosphère.
+Pour d’autres, dont je suis, nous nous trouvons à la veille d’une [transition historique](http://blog.tcrouzet.com/2008/04/17/epoque-de-transition-ou-pas/). Qu’est-ce qu’une transition ? Une période après laquelle plus rien ne peut plus être comme avant. Par exemple, les cyanobactéries ont provoqué une transition il y a trois milliards d’années en injectant l’oxygène dans l’atmosphère.
 
 La transition est rarement instantanée, même celle qui mit fin aux dinosaures. Par exemple, entre le découverte de la sphéricité de la terre et la prise de conscience effective de la planète, il aura fallut plus de 2000 ans.
 
-![](https://tcrouzet.com/images_tc//home/hebergement/tcrouzet/blog/images_tc/2008/11/vs.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/11/vs.png)
 
 Pour ce qui nous concerne, je vois d’un côté de la transition, le paradigme pyramidal, de l’autre, le paradigme réseau. Bien qu’incompatibles, ces deux paradigmes coexistent déjà. Nous sommes dans la même situation que les Grecs. Ils vivaient comme si le monde était petit et plat mais quelques-uns, Alexandre en particulier, conçurent leur vie dans le monde immense et sphérique. Aujourd’hui, si la plupart des entreprises respectent le modèle pyramidal, certaines ont déployé depuis une trentaine d’années des structures en réseau.
 
@@ -18,7 +18,7 @@ Je crois que si nous ne transitons pas ce sera une catastrophe. En 2050, nous se
 
 Donc soit le système pyramidal va dans le mur et nous pousse au suicide collectif, soit il se durcit. Dans le deux cas, ce sera dramatique et des hommes se dresseront pour empêcher ce massacre. Je me dis souvent que mes enfants devront faire la guerre. Ce n’est pas une pensée optimiste.
 
-Heureusement, il y a une autre possibilité. Nous transitons d’un paradigme à l’autre. La transition sera alors comme je l’ai déjà écrit [spontanée, violente ou accompagnée](https://tcrouzet.com/2008/11/23/pour-une-politique-de-transition/).
+Heureusement, il y a une autre possibilité. Nous transitons d’un paradigme à l’autre. La transition sera alors comme je l’ai déjà écrit [spontanée, violente ou accompagnée](http://blog.tcrouzet.com/2008/11/23/pour-une-politique-de-transition/).
 
 Spontanée j’aimerais bien mais elle ne l’est pas pour le moment. Partout des gens meurent à cause de la crise du système actuel. Ce n’est pas la transition qui les tue mais ses prémices.
 
@@ -31,3 +31,5 @@ Le paradigme réseau commence à s’éclaircir. Il repose sur la décentralisat
 Pour chacun de ces couples, nous devons imaginer des méthodes de transition. La technique la plus simple est que chacun de nous se place dans le nouveau paradigme et agisse selon ses nouvelles règles. C’est la logique même du paradigme. Mais pour le moment l’autre est aussi opérationnel et je ne vois pas pourquoi ceux qui s’en sentent la vocation ne pourraient pas tenter de le transformer de l’intérieur.
 
 Certaines parties du vieux paradigme résisteront mais si certaines commencent à céder, tout le reste risque de suivre. J’admets que cette possibilité est peu probable mais je ne vois pas pourquoi nous ne la tenterions pas.
+
+Tags: Connecteur, Ératosthène

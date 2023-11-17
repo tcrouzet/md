@@ -13,3 +13,5 @@ Un homme libre ne peut donc pas entrer dans un mouvement. Pas plus, il ne peut e
 En revanche, des hommes libres peuvent se parler, ils le peuvent d’autant mieux qu’ils ont fait vœux de vérité. Leur désir de transparence est la condition nécessaire à la collaboration interindividuelle.
 
 Les hommes libres ne peuvent que s’organiser en réseau : structure sans centre de vérité, sans dogme… structure qui facilite l’échange et qui n’impose rien.
+
+Tags: Politique

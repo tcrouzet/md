@@ -16,6 +16,8 @@
 
 8. Avoir l’intuition qu’une chose se cache au loin dans l’attente d’être débusquée, même si s’en approcher ne fera que l’éloigner.
 
-9. Entendre les critiques des lecteurs de confiance, mais ne pas écouter tout le monde (de l’inutilité des plateformes d’écriture ouverte).
+9. Entendre les critiques des lecteurs de confiance, mais ne pas écouter tout le monde (de l'inutilité des plateformes d'écriture ouverte).
 
 10. Ne pas chercher à avoir du style, le style vient de lui même avec le temps et le travail (on a du style quand on cesse de penser à son style).
+
+Tags: buzzlitt, une

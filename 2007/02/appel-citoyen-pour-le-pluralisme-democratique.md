@@ -2,13 +2,13 @@
 
 L’élection présidentielle est l’occasion du débat majeur de notre vie démocratique. Ce débat aura-t-il lieu, alors qu’une vingtaine de candidats postulant pour l’élection présidentielle n’ont pas encore obtenu les 500 signatures d’élus susceptibles de valider leur candidature ?
 
-![](https://tcrouzet.com/images_tc/pluralisme.gif)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/pluralisme.gif)
 
 Au premier tour de la Présidentielle de 2002, la moitié d’entre eux et les idées qu’ils représentent ont réuni plus de 33 % de l‘électorat.
 
 Aujourd’hui, selon divers sondages récents, ils recueilleraient entre 18% et 25% des suffrages : Olivier Besancenot (Ligue Communiste Révolutionnaire, LCR), José Bové (Collectifs anti-libéraux), Nicolas Dupont-Aignan (Debout la République), Corinne Lepage (Cap 21), Jean-Marie Le Pen (Front National, FN), Frédéric Nihous (Chasse, Pêche Nature et Traditions), Gérard Schivardi (Parti des Travailleurs, PT), Philippe de Villiers (Mouvement pour la France, MPF), Dominique Voynet (Les Verts).
 
-D’autres candidats peinent également à réunir les signatures des élus : Yves-Marie Adeline (Alliance Royale), Yvan Bachaud, Roland Castro (Mouvement de l’Utopie Concrète, MUC), Jacques Cheminade, Edouard Fillias (Alternative Libérale), France Gamerre (Génération Ecologie), Jean-Marc Governatori (La France en action), Nicolas Miguet (Rassemblement des contribuables français, RCF), Alain Mourguy (Union pour la démocratie directe, UPDD), Rachid Nekkaz…
+D’autres candidats peinent également à réunir les signatures des élus : Yves-Marie Adeline (Alliance Royale), Yvan Bachaud, Roland Castro (Mouvement de l’Utopie Concrète, MUC), Jacques Cheminade, Edouard Fillias (Alternative Libérale), France Gamerre (Génération Ecologie), Jean-Marc Governatori (La France en action), Nicolas Miguet (Rassemblement des contribuables français, RCF), Alain Mourguy (Union pour la démocratie directe, UPDD), Rachid Nekkaz...
 
 Aujourd’hui, les représentants de ces différents courants d’idées, dont certains sont électoralement ou politiquement significatifs, risquent sérieusement de ne pas obtenir les 500 parrainages nécessaires à la validation de leur candidature.
 
@@ -28,4 +28,4 @@ L’Appel Démocratique pour le Pluralisme est une initiative citoyenne libre, n
 
 Citoyens, signez cet appel pour inciter les élus à soutenir les candidatures des diverses forces politiques du pays. Le 22 avril prochain, lors du premier tour de la présidentielle, toutes les idées doivent pouvoir se rencontrer.
 
-NB : “Pluralisme” &gt; “En sciences sociales, le pluralisme est un système d’organisation politique qui reconnaît et accepte la diversité des opinions et de leurs représentants. Le pluralisme est un cadre d’interaction dans lequel différents groupes montrent suffisamment de respect et de tolérance pour coexister et interagir dans un climat plus harmonieux que conflictuel et sans volonté d’assimilation.” (source [Wikipédia](http://fr.wikipedia.org/wiki/Pluralisme))
+NB : "Pluralisme" &gt; “En sciences sociales, le pluralisme est un système d’organisation politique qui reconnaît et accepte la diversité des opinions et de leurs représentants. Le pluralisme est un cadre d’interaction dans lequel différents groupes montrent suffisamment de respect et de tolérance pour coexister et interagir dans un climat plus harmonieux que conflictuel et sans volonté d’assimilation.” (source [Wikipédia](http://fr.wikipedia.org/wiki/Pluralisme))

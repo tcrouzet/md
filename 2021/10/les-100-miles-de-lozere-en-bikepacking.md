@@ -22,37 +22,37 @@ Au restaurant, nous avons du mal à nous réchauffer. La patronne nous assure qu
 
 Oui, parce que, pour ma part, j’y dors souvent mieux que chez moi. Quand je m’éveille au milieu de la nuit, je n’ai rien d’autre à faire qu’à écouter les frémissements inconnus, alors que d’habitude tout de suite mille pensées me stressent. La patronne ouvre de grands yeux brillants. « Vous me donnez des idées. » Elle nous explique qu’elle n’arrive pas à débrancher, qu’elle est fatiguée, qu’elle a besoin de couper. Je crois que nous réussissons à lui faire sentir ce qui nous motive dans le bikepacking : la camaraderie, le plaisir du pilotage, les paysages loin des routes, la pleine nature, peut-être avant tout l’incertitude : ne pas savoir où nous dormirons, où nous mangerons, laisser les chemins nous porter et nous raconter leurs histoires.
 
-![Vers l'Aigoual](https://tcrouzet.com/images_tc/2021/10/IMG_3097.jpeg)
+![Vers l'Aigoual](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3097.jpeg)
 
-![Vers l'Aigoual](https://tcrouzet.com/images_tc/2021/10/IMG_3100.jpeg)
+![Vers l'Aigoual](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3100.jpeg)
 
-![Forêt Domaniale d'Aire de Cote](https://tcrouzet.com/images_tc/2021/10/IMG_3196.jpeg)
+![Forêt Domaniale d'Aire de Cote](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3196.jpeg)
 
-![Vers l'Aigoual](https://tcrouzet.com/images_tc/2021/10/IMG_3114.jpeg)
+![Vers l'Aigoual](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3114.jpeg)
 
-![Barre des Cévennes](https://tcrouzet.com/images_tc/2021/10/IMG_3124.jpeg)
+![Barre des Cévennes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3124.jpeg)
 
-![Vers l'Aigoual](https://tcrouzet.com/images_tc/2021/10/IMG_3125.jpeg)
+![Vers l'Aigoual](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3125.jpeg)
 
-![Vers l'Aigoual](https://tcrouzet.com/images_tc/2021/10/IMG_3131.jpeg)
+![Vers l'Aigoual](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3131.jpeg)
 
-![Causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3135.jpeg)
+![Causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3135.jpeg)
 
-![Causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3148.jpeg)
+![Causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3148.jpeg)
 
-![Vers l'Aigoual](https://tcrouzet.com/images_tc/2021/10/IMG_3157.jpeg)
+![Vers l'Aigoual](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3157.jpeg)
 
-![Vers l'Aigoual](https://tcrouzet.com/images_tc/2021/10/IMG_3160.jpeg)
+![Vers l'Aigoual](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3160.jpeg)
 
-![Vers l'Aigoual](https://tcrouzet.com/images_tc/2021/10/IMG_3176.jpeg)
+![Vers l'Aigoual](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3176.jpeg)
 
-![Vers l'Aigoual](https://tcrouzet.com/images_tc/2021/10/IMG_3183.jpeg)
+![Vers l'Aigoual](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3183.jpeg)
 
-![Vers l'Aigoual](https://tcrouzet.com/images_tc/2021/10/IMG_3191.jpeg)
+![Vers l'Aigoual](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3191.jpeg)
 
-![Jusqu'à la mer](https://tcrouzet.com/images_tc/2021/10/IMG_3198.jpeg)
+![Jusqu'à la mer](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3198.jpeg)
 
-![Jusqu'à la mer](https://tcrouzet.com/images_tc/2021/10/IMG_3205.jpeg)
+![Jusqu'à la mer](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3205.jpeg)
 
 ### Samedi 23 octobre
 
@@ -64,43 +64,43 @@ Nous grignotons à Florac au soleil : 25°. Nous ne repartons qu’après 15 h,
 
 Après les Combettes où nous nous ravitaillons en eau, nous entrons dans une forêt d’épicéas. Les bûcherons ont empilé des murailles de bois. Dans un single rocailleux, où il faut souvent pousser, je retrouve le sourire. La tombée de la nuit me procure toujours cet effet. Je ne sens plus la fatigue, je suis presque surpris quand les copains décident de camper, sous les arbres, sur un tapis de mousses fluorescentes. Il fait 5°, à 1 400 m d’altitude. À 20 h, nous sommes sous nos tentes, dans nos duvets, persuadés que le froid nous cueillera au matin.
 
-![Meyrueis](https://tcrouzet.com/images_tc/2021/10/IMG_3229.jpeg)
+![Meyrueis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3229.jpeg)
 
-![Vers le causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3247.jpeg)
+![Vers le causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3247.jpeg)
 
-![Vers le causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3260.jpeg)
+![Vers le causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3260.jpeg)
 
-![Vers le causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3251.jpeg)
+![Vers le causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3251.jpeg)
 
-![Gorges de la Jonte](https://tcrouzet.com/images_tc/2021/10/IMG_3269.jpeg)
+![Gorges de la Jonte](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3269.jpeg)
 
-![Causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3274.jpeg)
+![Causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3274.jpeg)
 
-![Causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3288.jpeg)
+![Causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3288.jpeg)
 
-![Causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3299.jpeg)
+![Causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3299.jpeg)
 
-![Causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3312.jpeg)
+![Causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3312.jpeg)
 
-![Causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3320.jpeg)
+![Causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3320.jpeg)
 
-![Causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3332.jpeg)
+![Causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3332.jpeg)
 
-![Causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3336.jpeg)
+![Causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3336.jpeg)
 
-![Causse Méjean](https://tcrouzet.com/images_tc/2021/10/IMG_3391.jpeg)
+![Causse Méjean](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3391.jpeg)
 
-![Florac](https://tcrouzet.com/images_tc/2021/10/IMG_3358.jpeg)
+![Florac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3358.jpeg)
 
-![Vers Florac](https://tcrouzet.com/images_tc/2021/10/IMG_3365.jpeg)
+![Vers Florac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3365.jpeg)
 
-![Vers Florac](https://tcrouzet.com/images_tc/2021/10/IMG_3380.jpeg)
+![Vers Florac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3380.jpeg)
 
-![Vers Florac](https://tcrouzet.com/images_tc/2021/10/IMG_3388.jpeg)
+![Vers Florac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3388.jpeg)
 
-![Vers le mont Lozère](https://tcrouzet.com/images_tc/2021/10/IMG_3399.jpeg)
+![Vers le mont Lozère](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3399.jpeg)
 
-![Vers le mont Lozère](https://tcrouzet.com/images_tc/2021/10/IMG_3409.jpeg)
+![Vers le mont Lozère](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3409.jpeg)
 
 ### Dimanche 24 octobre
 
@@ -122,48 +122,50 @@ Stevenson ajoute : « Tout était agitation dominicale dans les rues et dans l
 
 Notre périple à VTT s’arrête ici, il est déjà 14 h, nous nous laissons glisser par la route jusqu’à Florac, nous payant le luxe d’un dernier rampaillou sous les feuillages d’automne avant d’entrer dans la ville, par une belle douceur lumineuse. J’ai oublié mon mal aux jambes. Je dis aux copains pourquoi pas un trip le long de la côte cet hiver, quand les stations sont désertes. On prend le train jusqu’à Cerbère et on revient à vélo.
 
-![Au réveil](https://tcrouzet.com/images_tc/2021/10/IMG_3416.jpeg)
+![Au réveil](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3416.jpeg)
 
-![Mont Lozère](https://tcrouzet.com/images_tc/2021/10/IMG_3425.jpeg)
+![Mont Lozère](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3425.jpeg)
 
-![Mont Lozère](https://tcrouzet.com/images_tc/2021/10/IMG_3434.jpeg)
+![Mont Lozère](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3434.jpeg)
 
-![Mont Lozère](https://tcrouzet.com/images_tc/2021/10/IMG_3443.jpeg)
+![Mont Lozère](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3443.jpeg)
 
-![Mont Lozère](https://tcrouzet.com/images_tc/2021/10/IMG_3455.jpeg)
+![Mont Lozère](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3455.jpeg)
 
-![Mont Lozère](https://tcrouzet.com/images_tc/2021/10/IMG_3459.jpeg)
+![Mont Lozère](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3459.jpeg)
 
-![Vers pont du Tarn](https://tcrouzet.com/images_tc/2021/10/IMG_3500.jpeg)
+![Vers pont du Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3500.jpeg)
 
-![Vers pont du Tarn](https://tcrouzet.com/images_tc/2021/10/IMG_3505.jpeg)
+![Vers pont du Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3505.jpeg)
 
-![Vers pont du Tarn](https://tcrouzet.com/images_tc/2021/10/IMG_3508.jpeg)
+![Vers pont du Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3508.jpeg)
 
-![Vers pont du Tarn](https://tcrouzet.com/images_tc/2021/10/IMG_3532.jpeg)
+![Vers pont du Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3532.jpeg)
 
-![Vers pont du Tarn](https://tcrouzet.com/images_tc/2021/10/IMG_3542.jpeg)
+![Vers pont du Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3542.jpeg)
 
-![Vers pont du Tarn](https://tcrouzet.com/images_tc/2021/10/IMG_3543.jpeg)
+![Vers pont du Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3543.jpeg)
 
-![Vers pont du Tarn](https://tcrouzet.com/images_tc/2021/10/IMG_3549.jpeg)
+![Vers pont du Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3549.jpeg)
 
-![Pont du Tarn](https://tcrouzet.com/images_tc/2021/10/IMG_3555.jpeg)
+![Pont du Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3555.jpeg)
 
-![Tarn](https://tcrouzet.com/images_tc/2021/10/IMG_3566.jpeg)
+![Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3566.jpeg)
 
-![Tarn](https://tcrouzet.com/images_tc/2021/10/IMG_3582.jpeg)
+![Tarn](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3582.jpeg)
 
-![Vers Pont-de-Monvert](https://tcrouzet.com/images_tc/2021/10/IMG_3586.jpeg)
+![Vers Pont-de-Monvert](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3586.jpeg)
 
-![Pont-de-Monvert](https://tcrouzet.com/images_tc/2021/10/IMG_3603.jpeg)
+![Pont-de-Monvert](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/IMG_3603.jpeg)
 
 ### Statistiques
 
-![Statistiques](https://tcrouzet.com/images_tc/2021/10/stats100M.png)
+![Statistiques](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/stats100M.png)
 
-Les pourcentages des deux premières journées expliquent d’une autre façon mon mal aux jambes. J’ai vécu mon expérience bikepacking la plus exigeante.
+Les pourcentages des deux premières journées expliquent d'une autre façon mon mal aux jambes. J'ai vécu mon expérience bikepacking la plus exigeante.
 
-![Traces comparées](https://tcrouzet.com/images_tc/2021/10/compatraces.png)
+![Traces comparées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/compatraces.png)
 
 *PJ : Pour la petite histoire, nous apprenons a posteriori que [le survol du parc national des Cévennes est interdit par les drones, sauf autorisation](https://www.cevennes-parcnational.fr/fr/le-parc-national-des-cevennes/la-reglementation-du-coeur/le-survol?fbclid=IwAR2WPgiSY0j05hpDhiIlLfVrELz6vBbHYuyfKlQSM-SMlirdo8tm4_D0aTs). La brute tenait donc un moyen légal de forcer Patrick à ranger son matos.*
+
+Tags: Bikepacking, Born to Bike, une

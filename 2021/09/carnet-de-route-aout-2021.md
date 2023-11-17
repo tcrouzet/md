@@ -46,25 +46,25 @@ La lumière où la chercher ? Parfois elle brille en moi au détour des chemins
 
 Paris m’a toujours inspiré des pensées troubles. Je dois être sensible à un tropisme du lieu. Il suffit que je m’y assoie pour que du texte se matérialise, comme si par son déferlement il me rendait la ville plus intelligible. Pourtant quand j’arrêterai d’écrire rien n’aura changé. Peut-être au mieux le ciel se sera dégagé et le soleil amorcera son retour.
 
-Où que je me trouve, j’aimerais ouvrir mon ordi et replonger dans la même narration. Aspirer la matière environnante pour l’injecter dans une cathédrale. Au contraire, je recommence à zéro. Je piétine toujours les mêmes pensées, non sans déplaisir, mais en sachant que je n’avance nulle part, sinon vers la mort.
+Où que je me trouve, j'aimerais ouvrir mon ordi et replonger dans la même narration. Aspirer la matière environnante pour l’injecter dans une cathédrale. Au contraire, je recommence à zéro. Je piétine toujours les mêmes pensées, non sans déplaisir, mais en sachant que je n’avance nulle part, sinon vers la mort.
 
-![Bastille](https://tcrouzet.com/images_tc/2021/09/IMG_1293.jpeg)
+![Bastille](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1293.jpeg)
 
-![Quai des Célestins](https://tcrouzet.com/images_tc/2021/09/IMG_1299.jpeg)
+![Quai des Célestins](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1299.jpeg)
 
 ### Mardi 3, Paris
 
 Tous les antivax ou presque se méfient des gouvernements, mais presque tous passent leur vie à se publiciser sur Facebook, une dictature planétaire qui n’a pour ambition que de faire d’eux des consommateurs.
 
-![Jardin des Plantes](https://tcrouzet.com/images_tc/2021/09/IMG_1316.jpeg)
+![Jardin des Plantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1316.jpeg)
 
-![Seine](https://tcrouzet.com/images_tc/2021/09/IMG_1320.jpeg)
+![Seine](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1320.jpeg)
 
 ### Mercredi 4, Paris
 
-![La Photographe](https://tcrouzet.com/images_tc/2021/09/IMG_1336.jpeg)
+![La Photographe](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1336.jpeg)
 
-![Quai](https://tcrouzet.com/images_tc/2021/09/IMG_1339.jpeg)
+![Quai](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1339.jpeg)
 
 ### Jeudi 5, TGV Sète
 
@@ -72,7 +72,7 @@ J’ai lu un article sur le panpsychisme, l’idée selon laquelle toute chose s
 
 Comme toujours une idée apparaît, séduisante, puis je l’oublie. Elle n’a une chance de devenir livre que si elle retoque à la porte assez souvent pour qu’elle devienne obsessionnelle.
 
-![Couchant](https://tcrouzet.com/images_tc/2021/09/IMG_1361.jpeg)
+![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1361.jpeg)
 
 ### Dimanche 8, Balaruc
 
@@ -94,7 +94,7 @@ Il y a dix ans, j’écrivais *J’ai débranché* et j’en reviens au même co
 
 Le dernier rapport du GIEC réveille les foules comme si nous ne savions pas déjà tout ça depuis vingt ans. J’assiste à une nouvelle campagne électorale, qui soulève l’espoir, mais n’entraînera aucun changement.
 
-![Baigneurs](https://tcrouzet.com/images_tc/2021/09/IMG_1461.jpeg)
+![Baigneurs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1461.jpeg)
 
 ### Mardi 10, Balaruc
 
@@ -104,7 +104,7 @@ Tourner le dos aux réseaux sociaux implique peut-être de repenser le blog une 
 
 Chateaubriand est avant tout un être social. Ses mémoires relatent ses relations aux autres, les admirables moments de solitude contemplative restent minoritaires. Quand je pense à mon journal, je le vois au contraire comme un regard plongé en lui-même, qu’une enquête sur soi, peut-être jamais poussée assez loin pour qu’en émerge quelque chose de neuf pour moi. Ou peut-être que je ne me regarde pas vraiment, que je reste à la surface de contact entre l’extérieur et moi, peut-être pour adoucir l’interface.
 
-Ce matin, un temps printanier, bien paradoxal en août. L’étang d’huile brille de bleu avec en son centre le reflet d’une coque rouge. Je ne peux pas rester longtemps à observer le paysage sans qu’il me devienne douloureux. Sa beauté gonfle et exige que je lui réponde. La cause de l’écriture est là, dans ce phénomène d’insatiété esthétique. Pour me soulager, je dois créer, et la douleur redouble quand j’en suis incapable. Pourtant, j’ai toujours une échappatoire à ma disposition, le carnet, ces phrases mêmes, pour évacuer l’excès de beauté. Je connais la médication depuis plus de trente ans, mais souvent j’oublie de m’y abandonner, comme si j’en avais perdu l’habitude, peut-être parce que je publie mes carnets, parce que je suis incapable d’en mener deux versions en parallèle, l’une qui serait intime et l’autre publique.
+Ce matin, un temps printanier, bien paradoxal en août. L’étang d’huile brille de bleu avec en son centre le reflet d’une coque rouge. Je ne peux pas rester longtemps à observer le paysage sans qu’il me devienne douloureux. Sa beauté gonfle et exige que je lui réponde. La cause de l’écriture est là, dans ce phénomène d'insatiété esthétique. Pour me soulager, je dois créer, et la douleur redouble quand j’en suis incapable. Pourtant, j’ai toujours une échappatoire à ma disposition, le carnet, ces phrases mêmes, pour évacuer l’excès de beauté. Je connais la médication depuis plus de trente ans, mais souvent j’oublie de m’y abandonner, comme si j’en avais perdu l’habitude, peut-être parce que je publie mes carnets, parce que je suis incapable d’en mener deux versions en parallèle, l’une qui serait intime et l’autre publique.
 
 ---
 
@@ -130,7 +130,7 @@ J’ai commencé à coder un petit plugin qui transforme mon blog en sa version 
 
 ### Jeudi 12, Balaruc
 
-Je ne me suis jamais trop intéressé à Bitcoin, sinon au tout début, j’aurais dû en miner, mais tout de suite nous avons vu que cette monnaie se recentraliserait, parce que les premiers entrants emportaient le jackpot, ce qui entraînerait la spéculation. Bitcoin a beau être techniquement décentralisé, ses usagers ne le sont pas. Cette analyse a poussé Laborde à créer le concept de monnaie libre, où tous les acteurs ont le même poids. Ce qui à mon sens aussi est une grande faiblesse, puisque personne ne se précipite vu qu’il n’y a aucun intérêt à le faire. Nous sommes condamnés à osciller entre décentralisation et centralisation.
+Je ne me suis jamais trop intéressé à Bitcoin, sinon au tout début, j'aurais dû en miner, mais tout de suite nous avons vu que cette monnaie se recentraliserait, parce que les premiers entrants emportaient le jackpot, ce qui entraînerait la spéculation. Bitcoin a beau être techniquement décentralisé, ses usagers ne le sont pas. Cette analyse a poussé Laborde à créer le concept de monnaie libre, où tous les acteurs ont le même poids. Ce qui à mon sens aussi est une grande faiblesse, puisque personne ne se précipite vu qu'il n'y a aucun intérêt à le faire. Nous sommes condamnés à osciller entre décentralisation et centralisation.
 
 ### Vendredi 13, Balaruc
 
@@ -146,19 +146,19 @@ On vient de me proposer de présider un concours de nouvelles. Comment répondre
 
 Si un jour je reçois un prix littéraire prestigieux, je devrais en toute logique le refuser, sauf si mon orgueil succombe à la séduction, ou s’il y a un gros chèque à la clé, ou si on m’offre un beau voyage. Je reste un matérialiste aux convictions idéalistes éthérées.
 
-### Samedi 14, Montagnac
+### Samedi 14, Maillardou
 
 Je ne suis pas revenu dans le Lot-et-Garonne depuis ma fracture du col du fémur. Impression de presque y être étranger. Deux arbres abattus. Le temps. Déjà un affaiblissement de la mémoire. Une chaleur insupportable.
 
-![Montagnac](https://tcrouzet.com/images_tc/2021/09/IMG_1487.jpeg)
+![Maillardou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1487.jpeg)
 
-### Dimanche 15, Montagnac
+### Dimanche 15, Maillardou
 
 Je pars tôt faire du vélo, tout de suite les mouches m’attaquent, des taons cherchent à me piquer. Je commence par rouler jusqu’au lieu de mon accident, un chemin anodin, un virage en léger dévers, puis je roule sans plaisir. Vue bouchée, atmosphère lourde, ciel terne, et dès que je plonge dans les bois, le nuage de mouches se reforme. Bientôt mon esprit vagabonde. Je repense à mon export en version statique du blog. Je me heurte à une difficulté imprévue : l’intégralité de mon carnet publié en ligne occupe 470 Mo avec les photos, mais les places de marché de NFT acceptent pas plus de 200 Mo pour les documents, et seulement 40 Mo pour la plus populaire. Cette nuit, j’ai eu l’idée de créer un PDF géant, sur lequel il faudrait zoomer pour lire mon blog, comme sur un microfilm. Ce matin, je découvre que la taille maximale d’un PDF est de 5 m sur 5 m (on peut même aller au-delà).
 
-![À vélo](https://tcrouzet.com/images_tc/2021/09/IMG_1500.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1500.jpeg)
 
-### Lundi 16, Montagnac
+### Lundi 16, Maillardou
 
 Je crée mon tableau de 5mx5m, c’est assez bluffant. Mon ordi est à l’agonie pour la génération. Je suis excité comme un gamin. Voilà une façon de pérenniser les blogs tout en créant des images dont la comparaison suffira peut-être à différencier les auteurs d’un coup d’œil, tantôt davantage de textes, tantôt davantage d’images.
 
@@ -166,9 +166,9 @@ Je crée mon tableau de 5mx5m, c’est assez bluffant. Mon ordi est à l’agoni
 
 Mon beau-père, ancien professeur de médecine, me reproche de trop faire l’éloge de Didier dans *Adapter pour Adopter*. Mais comment ne pas faire l’éloge d’une personne aussi positive, aussi altruiste, qui a contribué à sauver des millions de vies, sans pour autant en faire un business lucratif. Didier est un modèle.
 
-![Lune](https://tcrouzet.com/images_tc/2021/09/IMG_1504.jpeg)
+![Lune](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1504.jpeg)
 
-### Mardi 17, Montagnac
+### Mardi 17, Maillardou
 
 J’envoie *Adapter pour Adopter* à l’imprimerie. J’aurais souffert sur ce livre, incapable de réussir à écrire une histoire.
 
@@ -176,15 +176,15 @@ J’envoie *Adapter pour Adopter* à l’imprimerie. J’aurais souffert sur ce 
 
 Repas de famille. Une pièce rapportée est spécialiste de sécurité informatique. Il analyse les attaques perpétrées dans le monde et tente de prévenir ses clients des risques encourus. En l’écoutant, je me suis dit que si j’avais ses connaissances j’écrirais un roman sur le piratage, crime qui rapporterait trois plus que le trafic de stupéfiants. Je suis spécialiste de quoi sinon de moi-même ? Qu’est-ce que mon expérience me pousse désormais à écrire ?
 
-![À vélo](https://tcrouzet.com/images_tc/2021/09/IMG_1509.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1509.jpeg)
 
-### Mercredi 18, Montagnac
+### Mercredi 18, Maillardou
 
 La technique avale des journées. Problème de certificat SSL sur mon serveur, puis je crée les epub d’*Adapter pour Adopter*, non sans rencontrer des bugs dans mon générateur. En parallèle, je tente en vain de publier mon tableau géant. De son côté, Illustrator atteint les limites de l’espace mémoire de mon ordinateur. Heureusement, petite boucle VTT en fin de journée.
 
-![À vélo](https://tcrouzet.com/images_tc/2021/09/IMG_1526.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1526.jpeg)
 
-### Jeudi 19, Montagnac
+### Jeudi 19, Maillardou
 
 Je lis depuis longtemps les réflexions d’un auteur de genre sur l’écriture. Il aime parler de son travail, de ses outils, de ses millions de signes produits et de la complexité de ses œuvres. Je finis par lire un de ses romans et découvre une parodie involontaire qui accumule les travers des romans de la même catégorie. Un usage surabondant des qualificatifs, la recherche de mots rares quitte à faire sourire. Une écriture propre, mais qui s’enlise à force d’ornements, avec un effet néfaste sur le récit et les personnages jusqu’à ce que cet univers si savamment construit deviennent un Disney Land de pacotille.
 
@@ -198,13 +198,13 @@ Si j’écrivais un tel roman, je me demanderais ce qui bloque l’évolution te
 
 ### Samedi 21, Balaruc
 
-![Brume](https://tcrouzet.com/images_tc/2021/09/IMG_1534.jpeg)
+![Brume](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1534.jpeg)
 
 ### Dimanche 22, Balaruc
 
 À la radio, un mec : « On a vécu un truc de dingue. On a compris que cette planète il fallait la protéger. Cette expérience nous a changés à tout jamais. » Il raconte un voyage dans l’extrême nord de la Sibérie, qui a dû coûter une blinde en empreinte carbone. On dirait Elon Musk qui découvre la magnificence de la Terre en volant en apesanteur. Les crétins malins. Dès votre arrière-cour la Terre est sublime pour peu que vous ouvriez les yeux.
 
-![Brume](https://tcrouzet.com/images_tc/2021/09/IMG_1542.jpeg)
+![Brume](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/09/IMG_1542.jpeg)
 
 ### Mercredi 25, Balaruc
 
@@ -221,3 +221,5 @@ Je dis toujours : « Je suis trop anarchiste pour me définir anarchiste. » 
 ### Lundi 30, Balaruc
 
 [Je raconte mon week-end](https://tcrouzet.com/2021/08/30/bikepacking-sur-la-geobike-ressusciter-une-trace-mythique/), jouant avec la théorie des trois corps de Virilo, et mon blog plante quand je veux publier le texte. Il me faut des heures pour débloquer la situation. Je suis noyé dans le code et le bidouillage depuis que je me suis lancé dans mes jeux NFT. J’ai d’ailleurs vendu mon PDF géant. Je n’ai même pas le temps de creuser cette idée. Je me perds dans la technique jusqu’à en perdre comme toujours le sommeil. Peut-être une bonne manière de maintenir à flot mon cerveau, d’huiler ses rouages dans leurs moindres recoins.
+
+Tags: Carnets, une

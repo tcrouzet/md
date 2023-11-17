@@ -101,3 +101,5 @@ Pour moi le bikepacking reste une aventure humaine plus que cycliste, câ€™est lâ
 ![727 2023](https://tcrouzet.com/images_tc/2023/04/IMG_1679.jpeg)
 
 ![727 2023](https://tcrouzet.com/images_tc/2023/04/IMG_1681.jpeg)
+
+Tags: 727, Bikepacking, Born to Bike, une

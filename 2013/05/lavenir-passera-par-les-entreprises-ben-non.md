@@ -4,7 +4,7 @@ Ce matin, en revenant de la piscine avec Émile, j’entends Guillaume Erner sur
 
 L’entreprise est un concept associé à la révolution industrielle, donc dépassé alors que nous entrons dans une nouvelle époque, les crises que nous traversons témoignant de la transition, souvent douloureuse.
 
-Hollande ne devrait pas enseigner à nos enfants l’entrepreneuriat mais la responsabilité. Nos petits monstres auront besoin de se prendre en main, de devenir des artisans high-tech, branchés les uns avec les autres, chacun faisant preuve d’imagination. Nous ne pouvons ni leur souhaiter de créer des entreprises, ni d’être employés d’autres entreprises. Nous ferions d’eux des inadaptés. On ne prépare pas les enfants au monde de demain en les formant pour le monde d’hier.
+Hollande ne devrait pas enseigner à nos enfants l’entrepreneuriat mais la responsabilité. Nos petits monstres auront besoin de se prendre en main, de devenir des artisans high-tech, branchés les uns avec les autres, chacun faisant preuve d’imagination. Nous ne pouvons ni leur souhaiter de créer des entreprises, ni d’être employés d’autres entreprises. Nous ferions d'eux des inadaptés. On ne prépare pas les enfants au monde de demain en les formant pour le monde d’hier.
 
 Pourquoi critiquer l’entreprise ? Qu’est-ce qui cloche dans le concept ?
 
@@ -14,7 +14,7 @@ Ces mêmes entreprises fabriquent néanmoins des technologies qui nous permetten
 
 Nous devons nous préparer à ce monde, pas au monde des conglomérats, avatars de la transition, monstres d’égoïsme, assoiffés de leur toute-puissance. Et c’est un autre des défauts des entreprises.
 
-Un exemple. Quand [Didier Pittet](https://tcrouzet.com/tag/lhomme-qui-lave-les-mains/) invente le gel antibactérien et le protocole d’usage associé, il peut très bien décider de créer une entreprise, avec pour un slogan du genre « Nous sauverons votre vie. » Les milliards auraient afflué, car le produit est efficace, peu cher et néanmoins vite indispensable au regard de ses bénéfices. Didier serait devenu riche, puissant, vénéré par ses innombrables employés (et je ne l’aurais pas rencontré).
+Un exemple. Quand [Didier Pittet](http://blog.tcrouzet.com/tag/lhomme-qui-lave-les-mains/) invente le gel antibactérien et le protocole d’usage associé, il peut très bien décider de créer une entreprise, avec pour un slogan du genre « Nous sauverons votre vie. » Les milliards auraient afflué, car le produit est efficace, peu cher et néanmoins vite indispensable au regard de ses bénéfices. Didier serait devenu riche, puissant, vénéré par ses innombrables employés (et je ne l'aurais pas rencontré).
 
 Mais Didier n’a pas choisi la piste de l’entreprise. Il s’est placé dans la société de demain. Plutôt que de concentrer pouvoirs et richesses, il a offert sa formule, il a proposé à qui le veut de l’utiliser. Le moindre pharmacien, le moindre chimiste amateur, peut désormais fabriquer le gel antibactérien. Au lieu d’un nouveau conglomérat pharmaceutique, nous avons désormais une multitude d’acteurs, petits ou grands, qui produisent le gel. Et nous pourrions le faire nous-mêmes si cela devenait nécessaire.
 
@@ -25,3 +25,5 @@ Former nos enfants à l’entrepreneuriat, c’est nous préparer à un avenir d
 Si Hollande veut faire la différence, il doit mettre le paquet sur l’artisanat high-tech. Ne pas aider les entreprises, mais les individus. Eux seuls créeront des richesses à l’avenir. Il ne faut pas sauver les outils industriels moribonds, mais inventer le réseau de compétences qui peut faire la différence dès aujourd’hui. Si j’étais ministre de l’Éducation, j’installerais une imprimante 3D dans chaque salle de classe. En Histoire, je raconterais la vie de Pittet, Berners-Lee et Torvalds plus que des hommes politiques qui, à leur façon, ne font que mimer les entrepreneurs.
 
 Et voici pourquoi ce que je viens de dire restera encore longtemps lettre morte. Nos politiciens sont des entrepreneurs de la politique. Capitaliste du pouvoir, même quand ils sont très à gauche, ils ne peuvent envisager un autre modèle de société. Ils préfèrent la laisser crever cette société qu’en imaginer une autre. Le changement ne peut donc venir que de chacun de nous, de notre prise de conscience, de notre choix entre le partage et la capitalisation.
+
+Tags: L'homme qui lave les mains, Le geste qui sauve, Politique, une

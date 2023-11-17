@@ -9,3 +9,5 @@ Bien sûr Waber n’a pas mesuré la qualité des informations échangées mais 
 Des études comparables ont été menées chez Microsoft en analysant les mails. Les résultats étaient semblables. Le super-connecteur, celui qui est l’âme d’une équipe, mais aussi tous les autres connecteurs qui font que les idées circulent et phosphorent, ne sont jamais officiellement reconnus. C’est un peu comme lors de la bataille de Borodino. On se souvient de Napoléon et de Koutouzov alors qu’ils ont eut qu’un rôle mineur par rapport à tous les hommes de terrain (cf *Le Cinquième pouvoir*).
 
 Les organigrammes hiérarchiques des entreprises ne représentent donc pas grand-chose, sinon des niveaux de salaire et une chaîne de pouvoir sans grande importance par rapport au métabolisme réel qui lui se structure en réseau.
+
+Tags: NetCulture

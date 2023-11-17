@@ -30,7 +30,7 @@ Je voudrais enchaîner quelques propositions pour conduire d’une vision du cyc
 
 13. Parce que j’aime parcourir de longues distances, j’aime les vélos légers, sachant que je vais devoir potentiellement les charger de mon matos de bikepacking. Un vélo lourd réduit la sensation de liberté que me procure le vélo. C’est vrai sur tous les terrains. Le vélo est technologique. Le cycliste est un geek.
 
-14. Je vois des cyclistes qui partent en aventure avec des vélos surchargés et pesant des tonnes, cela parce que la vitesse ne compte pas. OK, mais plus on est lourd, plus on se ferme des possibilités, en termes d’autonomie comme de terrain de jeu possible. La lourdeur est incompatible avec le vélo (avec l’écologie aussi, avec la littérature et l’art, avec notre époque par bien des côtés trop lourde).
+14. Je vois des cyclistes qui partent en aventure avec des vélos surchargés et pesant des tonnes, cela parce que la vitesse ne compte pas. OK, mais plus on est lourd, plus on se ferme des possibilités, en termes d'autonomie comme de terrain de jeu possible. La lourdeur est incompatible avec le vélo (avec l’écologie aussi, avec la littérature et l’art, avec notre époque par bien des côtés trop lourde).
 
 15. Une fois ces préalables posés, je peux choisir mes vélos. J’écarte ceux trop spécialisés. Le vélo de route qui ne me permet que de côtoyer les voitures. Le VTT de descente qui n’est utilisable que dans quelques régions. Mon spectre se resserre peu à peu (seulement parce que mes moyens ne sont pas illimités).
 
@@ -53,3 +53,5 @@ Je voudrais enchaîner quelques propositions pour conduire d’une vision du cyc
 24. J’ai toujours suivi les grands Tours et les classiques. J’aime leur story telling, mais je prends peu à peu conscience que je préfère découvrir les aventures des cyclistes plus ordinaires quand ils explorent le monde. Là, je lis des histoires d’aujourd’hui, des histoires non pas modélisées sur l’art de la guerre, mais sur l’art de vivre en paix avec soi, les autres et le monde.
 
 25. Ces histoires me donnent envie de vivre mes propres histoires, et de les écrire pour les partager à mon tour, selon un processus initiatique collectif.
+
+Tags: Born to Bike, une

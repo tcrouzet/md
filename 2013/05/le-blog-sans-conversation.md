@@ -10,7 +10,7 @@ Un blog sans conversation, c’est un journal ou un livre, rien d’autre. Pour 
 
 George Orwell nous a parlé de « common decency ».
 
-> Cette honnêteté ordinaire, [écrit Bruce Bégout](http://www.lefigaro.fr/livres/2008/10/02/03005-20081002ARTFIG00447-la-banalite-du-bien-.php), s’exprime sous la forme d’un penchant naturel au bien et sert de critère du juste et de l’injuste, du décent et de l’indécent. Elle suppose donc, avant toute éducation éthique et pratique, une forme de moralité naturelle qui s’exprime spontanément sans faire appel à des principes moraux, religieux ou pratiques. L’homme ordinaire n’a pas besoin de se tourner vers certaines autorités pour agir moralement. Il possède en lui-même une faculté sensible d’évaluation morale qui précède toute norme conventionnelle.
+> Cette honnêteté ordinaire, [écrit Bruce Bégout](http://www.lefigaro.fr/livres/2008/10/02/03005-20081002ARTFIG00447-la-banalite-du-bien-.php), s'exprime sous la forme d'un penchant naturel au bien et sert de critère du juste et de l'injuste, du décent et de l'indécent. Elle suppose donc, avant toute éducation éthique et pratique, une forme de moralité naturelle qui s'exprime spontanément sans faire appel à des principes moraux, religieux ou pratiques. L'homme ordinaire n'a pas besoin de se tourner vers certaines autorités pour agir moralement. Il possède en lui-même une faculté sensible d'évaluation morale qui précède toute norme conventionnelle.
 
 J’ai l’impression que beaucoup d’internautes oublient cette common decency. Tout leur est dû. Ils ne font plus la différence entre un article de presse, financé par la publicité, et un billet de blog, simplement offert. Ils oublient que le don n’a que pour but d’ouvrir un échange sur un plan non monétaire, donc en l’occurrence social. Et ils ont l’indécence de revenir, de lire un autre billet, de prendre l’habitude de recevoir sans donner… ce mal gangrène la blogosphère tout entière.
 
@@ -24,4 +24,6 @@ Pas de panique. Une bataille a été perdue, mais la guerre continue. Quelques i
 
 *PS 1 : Billet écrit après quelques échanges mails avec un grand blogueur qui ne blogue plus.*
 
-*PS 2 : Une des vertus du blog reste de pouvoir publier vite quelque chose tout en le formalisant un minimum, parce quelque lecteurs le liront. C’est une façon d’avancer dans le processus créatif, par étapes mises au propre. Mais vous voyez bien l’intérêt à ce moment d’un retour.*
+*PS 2 : Une des vertus du blog reste de pouvoir publier vite quelque chose tout en le formalisant un minimum, parce quelque lecteurs le liront. C'est une façon d'avancer dans le processus créatif, par étapes mises au propre. Mais vous voyez bien l'intérêt à ce moment d'un retour.*
+
+Tags: Blogosphère, blog, NetLittérature, une

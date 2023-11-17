@@ -12,7 +12,7 @@ Il réussit à créer de fausses pages sur le site d’une des plus grosses entr
 
 Dan devenait capable de tromper tous les internautes. Il pouvait intercepter leurs emails. Dans ces emails circulent parfois des mots de passe pour encrypter les transactions sécurisées. En fait, plus rien n’était sécurisé. La faille découverte par Dan mettait en danger l’économie mondiale bien plus qu’une quelconque crise financière. Le système complet pouvait exploser.
 
-— J’ai cassé Internet ! s’exclama Dan.
+\— J’ai cassé Internet ! s’exclama Dan.
 
 Par chance, il était honnête. Il contacta quelques spécialistes qui dans le plus grand secret corrigèrent le problème. Le 8 juillet, ils proposèrent un correctif, un patch dans le jargon, et ils demandèrent à tous les administrateurs réseau de l’installer.
 
@@ -21,3 +21,5 @@ Certains experts en sécurités exigèrent des explications avant de s’exécut
 Combien de sites furent piratés avant que le patch soit installé sur tous les serveurs ? Personne ne le saura jamais. Des millions de dollars changèrent sans doute de main en toute impunité. Mais le pire avait été évité. Pour un temps tout au moins. D’autres failles attendent d’être découvertes et leurs découvreurs ne seront peut-être pas aussi honnêtes que Dan Kaminski.
 
 Notre monde électronique est vulnérable.
+
+Tags: NetCulture, noepub, Une brève histoire de l'informatique

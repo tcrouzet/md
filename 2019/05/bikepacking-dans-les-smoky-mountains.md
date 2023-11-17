@@ -279,3 +279,7 @@ Quand j’arrive après 67 km et 1 400 m de dénivelé, Kim, Eric, Mike et d’a
 Je me douche, nous nous retrouvons sur la terrasse du restaurant. Nous refaisons nos courses, nous nous promettons de nous revoir, de rouler ensemble. J’invite tout le monde à venir en France explorer d’autres paysages. Nous nous aimons parce que nous partageons des moments forts, même quand nous les vivons en parallèle, chacun dans sa solitude. Je comprends mieux ce que mon père recherchait dans la communauté des chasseurs. Nous autres bikepackers sommes des chasseurs pacifistes, des chasseurs d’émotions, de sensations, de paysages…
 
 ![Jour 5](https://tcrouzet.com/images_tc/2019/05/j5.jpg)
+
+
+
+Tags: Bikepacking, BikepackingUSA, Born to Bike, une

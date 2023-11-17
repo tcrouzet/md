@@ -2,15 +2,15 @@
 
 Ou l’économie des propulseurs…
 
-![fleuve](https://tcrouzet.com/images_tc/2009/08/fleuve1.jpg)
+![fleuve](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/fleuve1.jpg)
 
 Le fleuve coule. Les gens qui vivent au bord du fleuve puisent de l’eau. L’eau restante finit à la mer. Elle s’évapore, puis pleut sur la montagne où le fleuve prend sa source.<span id="more-8912"></span>
 
 Imaginez un autre scénario. Un immense barrage à la source. Quand quelqu’un veut boire, il paye et on lui envoie une bouteille ou on ouvre le barrage, laisse couler assez d’eau pour qu’elle arrive à l’assoiffé. Sur le cours d’eau, des riverains de plus en plus déshydratés se transforment en pillards (je pense aux Somaliens qui arraisonnent les navires). Il faut donc toujours lâcher de plus en plus d’eau pour satisfaire les consommateurs. Gaspillage, guerres, rareté de l’offre et engraissement au passage des maîtres du barrage. Leur business : maintenir la rareté.
 
-Cette seconde fable est une métaphore du monde capitaliste, plus particulièrement du monde de l’édition numérique qui se cherche un modèle. [Dans la logique des flux](https://tcrouzet.com/tag/flux/), ne vaudrait-il pas mieux s’inspirer des fleuves naturels ?
+Cette seconde fable est une métaphore du monde capitaliste, plus particulièrement du monde de l’édition numérique qui se cherche un modèle. [Dans la logique des flux](http://blog.tcrouzet.com/tag/flux/), ne vaudrait-il pas mieux s’inspirer des fleuves naturels ?
 
-1. Si [le propulseur](https://tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/) verrouille son missile par un prix de mise à feu, le missile risque d’exploser dans le silo de lancement (cas des ebooks vendus pour quelques euros).
+1. Si [le propulseur](http://blog.tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/) verrouille son missile par un prix de mise à feu, le missile risque d’exploser dans le silo de lancement (cas des ebooks vendus pour quelques euros).
 
 2. Il faut laisser fuser le missile, le laisser voguer, traverser le monde, c’est à l’arrivée, au moment de son explosion aux yeux du lecteur qu’il faut essayer d’être récompensé du travail fourni.
 
@@ -18,7 +18,7 @@ Cette seconde fable est une métaphore du monde capitaliste, plus particulièrem
 
 4. Avec les readers Wifi et GSM, il sera facile de savoir jusqu’où les gens lisent et donc de leur indiquer combien les autres lecteurs arrivés au même stade ont donné et combien idéalement l’auteur/éditeur aimerait recevoir (espérons au passage que nous n’allons pas devenir des lecteurs sous écoute).
 
-5. [Le flux long implique un rapport fort et durable avec l’auteur](https://tcrouzet.com/2009/08/26/le-livre-echappera-pas-aux-flux/), une forme d’intimité, qui peut-être facilitera le déclenchement du don par rapport à d’autres relations plus volatiles.
+5. [Le flux long implique un rapport fort et durable avec l’auteur](http://blog.tcrouzet.com/2009/08/26/le-livre-echappera-pas-aux-flux/), une forme d’intimité, qui peut-être facilitera le déclenchement du don par rapport à d’autres relations plus volatiles.
 
 6. L’éditeur aura un double rôle, celui de propulseur, celui d’accompagnement du lecteur. Il devra nouer avec lui une relation presque intime comme l’ont dans l’imaginaire l’auteur et le lecteur. Il devra se placer en début et en fin de la chaîne.
 
@@ -33,3 +33,5 @@ Quand un ami me présente un autre ami, je commence par discuter avec lui avant 
 Pour être en accord avec ce que je pense, j’ai décidé de ne plus laisser mes livres publiés sur le papier. [Comme beaucoup d’autres l’ont déjà fait](http://www.guardian.co.uk/technology/2009/aug/18/free-ebooks-cory-doctorow?showallcomments=true), je les diffuserai sans doute au format [ePub](http://en.wikipedia.org/wiki/EPUB) et PDF. Me reste à trouver le temps et le courage d’effectuer la conversion.
 
 <sup>1</sup> En juillet 1999, je suis parti au Mexique avec une inconnue dans le seul but d’écrire le journal de ce qui se passerait. Résultat : un livre appelé *Turista* qui dort dans mon disque dur.
+
+Tags: NetCulture

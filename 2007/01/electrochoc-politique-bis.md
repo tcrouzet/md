@@ -22,7 +22,7 @@ Ce n’est pas réalise ? Mais si puisque nous travaillons, mais si puisque nou
 
 ### Acte 2
 
-Ce n’est pas parce que Ségolène Royal a enfourché la bataille de la participation qu’il ne faut pas la suivre sur ce terrain. Au vingt-et-unième siècle, la démocratie sera participative ou ne sera pas. D’ailleurs, je préfère parler de collaboration Open Source que de simple participation, ça va beaucoup plus loin.
+Ce n’est pas parce que Ségolène Royal a enfourché la bataille de la participation qu'il ne faut pas la suivre sur ce terrain. Au vingt-et-unième siècle, la démocratie sera participative ou ne sera pas. D’ailleurs, je préfère parler de collaboration Open Source que de simple participation, ça va beaucoup plus loin.
 
 Les hommes politiques qui ne choisiront pas le modèle collaboratif seront d’insignifiants avortons au regard de l’histoire. Depuis des décennies, ils nous prouvent que « le je sais tout ne marche plus ». Regardez Bush, un parfait exemple de cette politique « Je vais droit dans le mur ». Maintenant que nous disposons des outils pour travailler ensemble, il est temps de si mettre.
 

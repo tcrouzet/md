@@ -1,6 +1,6 @@
 # Les crapauds fous fous
 
-![mrtoad21](https://tcrouzet.com/images_tc/2009/05/mrtoad21.jpg)
+![mrtoad21](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/05/mrtoad21.jpg)
 
 Au cœur de l’Angleterre, à quelques kilomètres au nord-est de Nottingham, le village d’Oxton égraine ses maisons opulentes dans un paysage de bocages et de bois parsemés d’étangs peu profonds. Dans cette campagne riante, on retrouve par endroits les vestiges de l’ancienne forêt de Sherwood, havre de Robin des bois et de créatures fantasmagoriques. Parmi elles, des crapauds jaune-gris, dits *Bufo bufo* ou crapauds communs.<span id="more-6121"></span>
 
@@ -33,3 +33,5 @@ Une fois que nous les avons comprises et intégrées, nous ne pouvons plus vivre
 Une nouvelle métaphore s’impose. Les écureuils ont l’habitude d’enterrer les glands qu’ils récoltent. Comme ils oublient souvent où ils les ont cachés, les glands germent et de nouveaux chênes poussent. Ainsi les forêts de chênes se seraient répandues de proche en proche, grâce à une symbiose avec les écureuils. Moralité, lorsque des gestes minuscules s’accumulent, ils changent le monde. Nos folies respectives, une fois réveillées par les nouvelles cartes, n’ont pas besoin de tendre vers la démence pour que nous inventions un nouvel art de vivre ensemble. De petits gestes anodins suffisent, des gestes répétés en tout point du globe. Nous ne sommes pas plus bêtes que les écureuils, pas moins fous que les crapauds.
 
 *PS : J’ai écrit ce texte comme prélude à mon prochain livre, livre qui sous la pression de Bourin éditeur prend une direction quelque peu différente. J’en viens d’ailleurs à considérer le livre comme un moyen de promotion des textes publiés en ligne.*
+
+Tags: Connecteur, Crapauds

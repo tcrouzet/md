@@ -1,6 +1,6 @@
 # Le cauchemar des politiciens
 
-Les politiciens, élus pour nous protéger de nos propres horreurs, finissent souvent par commettre des horreurs à leur tour. C’est une fatalité.<span id="more-209"></span>
+Les politiciens, élus pour nous protéger de nos propres horreurs, finissent souvent par commettre des horreurs à leur tour. C'est une fatalité.<span id="more-209"></span>
 
 J’ai souvent expliqué que les structures sociales complexes n’avaient pas nécessairement besoin pour s’épanouir de chef et de commandement central. C’est le fameux exemple des oiseaux avec lequel s’ouvre *[Le peuple des connecteurs](http://www.tcrouzet.com/connecteurs/)*.
 
@@ -16,7 +16,7 @@ Cette théorie de Tolstoï se justifie d’un point de vue évolutif. Les hordes
 
 Chez nous, il y a encore des chefs parce que leur présence procure un avantage qui compense leur inefficacité. Quel est cet avantage ? Nos sociétés complexes se développent avec la conscience des individus qui, pour vivre ensemble, développent peu à peu un sens moral. Mais ce sens moral, indispensable au quotidien, peut s’avérer problématique en temps de crise. Il faut alors le désactiver : tel serait le rôle du chef. C’est sans doute pour cette raison que le pouvoir séculaire s’associe historiquement presque toujours au pouvoir religieux, car son domaine est la moralité.
 
-Nous aurions besoin de chefs pour nous déresponsabiliser. Et je comprends mieux maintenant pourquoi la plupart des gens s’accrochent [au droit de vote](https://tcrouzet.com/2006/09/01/droit-vote-question/). Il les ramène à l’ancien régime, à ce chef divin capable de les absoudre de leurs pêchés. Peu importe que ce chef soit un monstre, un bandit, un truand. Ce qui compte c’est que, de temps en temps, il paye pour nos égarements sauvages.
+Nous aurions besoin de chefs pour nous déresponsabiliser. Et je comprends mieux maintenant pourquoi la plupart des gens s’accrochent [au droit de vote](http://blog.tcrouzet.com/2006/09/01/droit-vote-question/). Il les ramène à l’ancien régime, à ce chef divin capable de les absoudre de leurs pêchés. Peu importe que ce chef soit un monstre, un bandit, un truand. Ce qui compte c’est que, de temps en temps, il paye pour nos égarements sauvages.
 
 Une société sans chef, ça fait peur. Terriblement peur. Qui dès lors va me confesser et me pardonner ? Contre qui vais-je me retourner si ça tourne mal ? Contre moi-même ? Nous ne sommes peut-être pas encore près pour ce grand saut.
 
@@ -31,3 +31,5 @@ Ainsi chacun de nous commet chaque jour des horreurs. Il suffit de voir [Le Cauc
 En fait, je les applaudis. La vie est plus facile grâce à eux. Mais bon, il est peut-être temps de devenir responsables, non ?
 
 Article aussi publié sur [Le Monde Citoyen](http://lemondecitoyen.com/2006/09/05/le-cauchemar-des-politiciens/) et sur [Agoravox](http://www.agoravox.fr/article.php3?id_article=13049).
+
+Tags: noepub, Politique

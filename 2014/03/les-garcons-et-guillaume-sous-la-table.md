@@ -10,7 +10,7 @@ Sois je suis largué, abandonné à la traîne dans un autre siècle que le mien
 
 Alors Isabelle souffre du même mal que moi. Je suis sortie, elle est restée jusqu’au bout. Elle est revenue exaspérée. Nous sommes donc au moins deux anomalies. Quelque chose dans notre mode de vie nous éloigne d’un plaisir esthétique dont se délectent des millions de nos concitoyens.
 
-Est-ce notre rejet des médias dominants et des conversations autour des machines à café ? J’ai en tout cas la preuve que ce film est un virus social abominablement contagieux. Il n’a pas de valeurs intrinsèques, sinon j’ose croire que je les aurais perçues. À moins d’une posture, d’un refus inconscient d’apprécier ce qui serait populaire. Non, j’aime les grands spectacles, j’aime rire franchement, j’aime me laisser prendre, j’ai dit tout le bien que je pensais de [*Gravity*](https://tcrouzet.com/2013/11/04/gravity-ou-le-shoot-total/). Je n’avais aucune mauvaise intention, hier soir.
+Est-ce notre rejet des médias dominants et des conversations autour des machines à café ? J’ai en tout cas la preuve que ce film est un virus social abominablement contagieux. Il n’a pas de valeurs intrinsèques, sinon j’ose croire que je les aurais perçues. À moins d’une posture, d’un refus inconscient d’apprécier ce qui serait populaire. Non, j’aime les grands spectacles, j’aime rire franchement, j’aime me laisser prendre, j’ai dit tout le bien que je pensais de [*Gravity*](http://blog.tcrouzet.com/2013/11/04/gravity-ou-le-shoot-total/). Je n’avais aucune mauvaise intention, hier soir.
 
 Hypothèse, la vie en ligne, au contact de la création vivante me rend impropre à partager les créations dites contemporaines dont se pâment mes semblables. Je leur trouve un côté vieillots, déconnectées, je les vois comme depuis l’avenir. Elles ne me parlent pas, elles sont incompréhensibles, indéchiffrables, attachées quelles étaient à un moment de l’histoire qu’elles n’ont pas réussi à transcender (les manifestations anti-mariages pour tous, peut-être).
 
@@ -24,4 +24,8 @@ J’ai tenté un moment de lire une critique sociale dans la monotonie du monolo
 
 J’aimerais rire avec les autres, me laisser emporter avec eux, rien à faire, sur ce coup ça n’est pas passé. Peut-être parce que j’ignorais tout de l’acteur, de ses mimiques, de ses sous-entendus. Les gens se sont peut-être attachés à lui au point de rire de ses moindres grimaces. Pour moi, c’est un simple étranger. Je le vois avec une objectivité d’extra-terrestre. Je lui concède un certain tallent de métamorphose. « OK, et après ? » J’en suis resté là. Abasourdi par les éloges sans nuances, abasourdi par mon insensibilité.
 
-![Les garçons et Guillaume à table!](https://tcrouzet.com/images_tc/2014/03/GUILLAUME_A_TABLLE.jpg)
+![Les garçons et Guillaume à table!](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/GUILLAUME_A_TABLLE.jpg)
+
+
+
+Tags: Cinéma, Critique, une

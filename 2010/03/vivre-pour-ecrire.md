@@ -14,7 +14,7 @@ Aujourd’hui, nous ne sommes pas dans la logique du gagnant gagnant. Le lecteur
 
 Bien sûr nous gagnons tout de même sinon nous aurions arrêté depuis longtemps de bloguer. Nous nous nourrissons des interactions qui nous poussent en avant. C’est précieux. Mais, à force d’aller de l’avant, l’auteur risque de se retrouver dans le vide avec plus rien le soir dans son assiette.
 
-Pourquoi ne serait-il pas possible de mener au XXI<sup>e</sup> siècle une vie d’auteur ? Je ne dis pas que tous les textes doivent être payants, ce serait une mauvaise idée, je pense juste que nous devons inventer une économie qui soutienne la création ([pourquoi pas sur le modèle des AMAP comme le suggère julien](https://tcrouzet.com/2010/03/01/billets-rares-et-payants/#comment-75420)). Il est vrai que les auteurs ont rarement gagné leur vie, ce n’est pas une raison pour se satisfaire de cette situation.
+Pourquoi ne serait-il pas possible de mener au XXI<sup>e</sup> siècle une vie d’auteur ? Je ne dis pas que tous les textes doivent être payants, ce serait une mauvaise idée, je pense juste que nous devons inventer une économie qui soutienne la création ([pourquoi pas sur le modèle des AMAP comme le suggère julien](http://blog.tcrouzet.com/2010/03/01/billets-rares-et-payants/#comment-75420)). Il est vrai que les auteurs ont rarement gagné leur vie, ce n’est pas une raison pour se satisfaire de cette situation.
 
 Quand on me dit de publier des livres et de les vendre à la Fnac, est-ce sérieux ? Regardez ce qui se vend ! Si l’on veut gagner avec une création, il faut produire ce que les gens attendent non ce qui les dérange. Il faut écrire pour les trentenaires dans la crise de la trentaine, pour les quadragénaires dans la crise de la quarantaine… ou il faut faire semblant d’être philosophe. Cela exige un talent marketing qui a peu de rapport avec la création et qu’un créateur possède rarement.
 
@@ -41,3 +41,5 @@ Je reste convaincu que nous devons combattre la rareté culturelle pour entrer d
 Le créateur est notre richesse, nous ne pouvons pas en faire un paria qui crève la faim. Il est inacceptable qu’un banquier gagne plus qu’un écrivain. Qu’un marketeux andouille réussisse à tirer profit de son blog alors qu’un penseur n’y arrive pas. Vous trouvez cette situation normale ? Les destructeurs de notre monde gagnent et pas ceux qui pensent son avenir et cherchent à y écrire ce qui se lira demain.
 
 Je le redis. Nous en sommes dans la même situation qu’au XIX<sup>e</sup> siècle. J’ai encore l’espoir que le Web nous aide à sortir de cette impasse culturelle. Pour le moment, nous prenons un mauvais chemin.
+
+Tags: NetCulture

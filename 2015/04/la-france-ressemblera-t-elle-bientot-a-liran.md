@@ -4,7 +4,7 @@ Je viens de passer une semaine en Iran. Pas plus tôt chez moi, je vois qu’enf
 
 D’un autre côté, je me dis « C’est bien fait. Fallait pas jouer aux cons en obéissant par millions à l’appel lancé par nos politiciens le 11/1. » Dire que je me suis fâché avec pas mal de gens à cette occasion. Certains m’ont insulté, d’autre rayé de leurs contacts. Je ne sais pas trop ce qu’ils doivent penser en ce moment. Voici ce qu’un ami m’a écrit le 12/1.
 
-> Alors, désolé : je n’ai pu samedi supporter ta rafale de tweets, dont tu n’as sans doute pas mesuré l’impact blessant. Et je me suis désabonné de ton compte Twitter, non en un geste de colère ni d’insulte, mais sur le moment salutaire. Comme je te l’ai écrit, à force de rechercher – souvent à raison – à être à contre-courant, tu t’es mis cette fois-ci à contre-sens.
+> Alors, désolé : je n'ai pu samedi supporter ta rafale de tweets, dont tu n'as sans doute pas mesuré l'impact blessant. Et je me suis désabonné de ton compte Twitter, non en un geste de colère ni d'insulte, mais sur le moment salutaire. Comme je te l'ai écrit, à force de rechercher - souvent à raison - à être à contre-courant, tu t'es mis cette fois-ci à contre-sens.
 
 À contre sens du totalitarisme montant peut-être, c’est ça dont voulait parler celui que je croyais être devenu un ami ? À contre sens d’un gouvernement qu’il faut brosser dans le sens du poil pour continuer à être subventionné, reconnu, officialisé ? Je n’attends rien de ce gouvernement ni du suivant, c’est peut-être ce qui me permet d’être honnête avec moi-même.
 
@@ -46,4 +46,8 @@ Internet vient ficher le bazar dans un vieux système. Le pire, c’est qu’au 
 
 Et nous dans ce merdier ? Il est urgent que nous devenions vite moins cons. Parce que dans tous les cas, que ce soit les uns ou les autres qui l’emportent, ils nous pressuriseront pour faire de nous leur machine de guerre.
 
-![Iran under reconstruction in Mashhad.](https://tcrouzet.com/images_tc/2015/04/IMG_1519.jpg)
+![Iran under reconstruction in Mashhad.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/IMG_1519.jpg)
+
+
+
+Tags: Politique, une

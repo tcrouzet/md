@@ -1,6 +1,6 @@
 # Facebook/Twitter&nbsp;: le syndrome de la barre d’immeubles
 
-Je viens de participer à une émission de la [Radio Suisse Romande](http://www.rts.ch/radio/) où j’ai eu l’impression de passer pour un réactionnaire face aux Facebook/Twitter enthousiastes. J’ai cru entendre parler le Crouzet d’il y a dix ans, le Crouzet du [*Peuple des connecteurs*](https://tcrouzet.com/le-peuple-des-connecteurs/) ou du [*Cinquième Pouvoir*](https://tcrouzet.com/le-cinquieme-pouvoir/), mais qui aurait oublié un point clé de sa pensée : le net n’est révolutionnaire que dans la décentralisation.<span id="more-33228"></span>
+Je viens de participer à une émission de la [Radio Suisse Romande](http://www.rts.ch/radio/) où j’ai eu l’impression de passer pour un réactionnaire face aux Facebook/Twitter enthousiastes. J’ai cru entendre parler le Crouzet d’il y a dix ans, le Crouzet du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) ou du [*Cinquième Pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), mais qui aurait oublié un point clé de sa pensée : le net n’est révolutionnaire que dans la décentralisation.<span id="more-33228"></span>
 
 Quand tout le monde habite dans les mêmes appartements minuscules, aux murs peints de la même couleur, avec le même équipement électroménager, avec la même vue… on ne peut rien espérer de bon quant à la vitalité intellectuelle des habitants, à leur potentiel bonheur, à leur degré de liberté, à leur aptitude au changement… ou même tout simplement à leur attrait quand on les croise par hasard dans un couloir.
 
@@ -25,3 +25,5 @@ Quand tout le monde habite dans les mêmes appartements minuscules, aux murs pei
 — Si échanger des photos de chat te fait du bien au moral, c’est que tu seras bientôt bon pour les antidépresseurs. On peut dire de quelqu’un qu’il est un ami quand il se manifeste au moment où tu as besoin de lui. Si tu es malade, si tu ne peux plus accéder à ta cellule sociale, tu verras combien de tes amis feront l’effort de venir te voir, ou ne serait-ce que te téléphoner. Rien n’existe hors de leur propre cage. Tu n’existes plus si tu ne t’éclates sur leurs murs pixélisés. Je l’ai expérimenté lors de mes six mois de déconnexion. Les amitiés sur les réseaux ne vivent que tant qu’elles sont activées. Elles n’ont pas l’étendue dans le temps de celles qui se signent par un pacte de chair… Et pourquoi pas une chair possiblement numérique, mais une telle chair se bâtit, comme une maison, comme une œuvre, loin de la route nationale. »
 
 C’était un message de Thierry Crouzet Net Réactionnaire.
+
+Tags: Facebook, NetCulture, Twitter, une

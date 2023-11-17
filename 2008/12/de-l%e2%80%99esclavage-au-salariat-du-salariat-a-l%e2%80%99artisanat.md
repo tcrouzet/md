@@ -10,7 +10,7 @@ Nous venons d’assister à la gloire du capitalisme et nous avons constaté que
 
 Par un effet de vase communiquant, les richesses des pays riches se déverseront dans les pays pauvres. En même temps, les salaires et le pouvoir d’achat en Occident se dépréciera. Ce mouvement me semble inéluctable si nous n’imaginons pas autre chose.
 
-Des patrons, des coopératives, des associations de travailleurs indépendants… commencent à s’organiser autrement. Il devient possible pour quelques personnes de quitter la chaîne de montage et d’entrer des structures plus organiques, chez [Favi](https://tcrouzet.com/2007/12/07/zero-hierarchie-c%E2%80%99est-possible/) par exemple.
+Des patrons, des coopératives, des associations de travailleurs indépendants… commencent à s’organiser autrement. Il devient possible pour quelques personnes de quitter la chaîne de montage et d’entrer des structures plus organiques, chez [Favi](http://blog.tcrouzet.com/2007/12/07/zero-hierarchie-c%E2%80%99est-possible/) par exemple.
 
 Il y a encore peu de place dans ce monde mais il y en aura de plus en plus en même temps que les hommes découvriront le plaisir de travailler dans de tels environnements. Qui dit plaisir, dit sans doute meilleurs résultats, plus d’imagination, moins de stress, plus de productivité… et si tel est le cas, ces structures, encore aujourd’hui jugées contre nature, s’imposeront. Poussé à l’extrême, ce phénomène transforme chacun de nous en artisan high-tech.
 
@@ -28,7 +28,7 @@ Si la structure sociale change, nos projets changeront, nous les développerons 
 
 Peut-être n’auront-ils pas besoin de construire de vastes accélérateurs de particules. Celui du CERN est d’ailleurs contesté car il oriente la recherche dans une direction peut-être moribonde.
 
-[Je l’ai visité, je le trouve aussi merveilleux que les grandes pyramides d’Égypte.](https://tcrouzet.com/2006/11/24/un-connecteur-a-geneve/) Je ne nie pas cette puissance des structures hiérarchiques à construire des merveilles. Mais Proust, seul, a construit une œuvre tout aussi admirable. Einstein aussi a travaillé seul. Nombre d’innovations majeures de l’humanité, pour ne pas dire la plupart, ont été effectuées par des hommes seuls, ou travaillant en petite équipe, et souvent disposant de moyens réduits.
+[Je l’ai visité, je le trouve aussi merveilleux que les grandes pyramides d’Égypte.](http://blog.tcrouzet.com/2006/11/24/un-connecteur-a-geneve/) Je ne nie pas cette puissance des structures hiérarchiques à construire des merveilles. Mais Proust, seul, a construit une œuvre tout aussi admirable. Einstein aussi a travaillé seul. Nombre d’innovations majeures de l’humanité, pour ne pas dire la plupart, ont été effectuées par des hommes seuls, ou travaillant en petite équipe, et souvent disposant de moyens réduits.
 
 Le nombre, la taille, la quantité… ne sont pas une fatalité (sinon dans le monde capitaliste qui ne pense qu’en terme de croissance). La qualité importe aussi, elle importe d’autant plus dans une époque dominée par la gabegie.
 
@@ -60,7 +60,7 @@ Une des seules structures humaines réellement mondiales, c’est Internet. Elle
 
 Il me semble que nous assistons d’ailleurs à cette métamorphose des vastes structures internationales en réseaux. Les premières cartographies sociales l’indiquent et le phénomène nous deviendra de plus en plus apparent en même temps que se développerons les outils de networking.
 
-Quand une même personne travaille pour dix pyramides différentes, dans chacune d’elle dans des postes différents, les pyramides se brouillent comme je l’explique dans ma [conférence de Genève](https://tcrouzet.com/2008/12/02/la-transition-a-commence/). Nous assistons à une transmutation des hyper-structures. L’autorité top-down y devient inopérante et toutes les décisions se prennent par networking.
+Quand une même personne travaille pour dix pyramides différentes, dans chacune d’elle dans des postes différents, les pyramides se brouillent comme je l’explique dans ma [conférence de Genève](http://blog.tcrouzet.com/2008/12/02/la-transition-a-commence/). Nous assistons à une transmutation des hyper-structures. L’autorité top-down y devient inopérante et toutes les décisions se prennent par networking.
 
 Nous sommes déjà entrés dans l’âge des réseaux. Dans un environnement complexe, le réseau me semble la seule structure viable. L’humanité jusqu’à aujourd’hui n’a pas été en situation de tester cette hypothèse. Je crois que nous aurons bientôt la démonstration par l’exemple. Il nous suffit d’attendre.
 

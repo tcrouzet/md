@@ -4,4 +4,8 @@ Qu’est-ce que le numérique change à l’écriture ? Est-ce qu’on écrit a
 
 Je prendrai comme fil rouge l’histoire de nos outils, depuis le stylo jusqu’au blog, la POD, les licences libres, le Markdown… Chaque fois je parlerai des pionniers et comparerai avec ma propre expérience. J’ai déjà accumulé assez de notes pour un petit livre qui pourrait s’intituler *J’écris en numérique*.
 
-![pierrevives](https://tcrouzet.com/images_tc/2014/11/pierrevives.jpg)
+![pierrevives](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/pierrevives.jpg)
+
+
+
+Tags: Buzz

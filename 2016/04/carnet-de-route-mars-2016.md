@@ -16,7 +16,7 @@ Les heures passent. Émile est pris en sandwich par deux brancards, dans une pi�
 
 Émile s’en tire bien. Demain, il sera plâtré. Pas besoin de chirurgie. Le bonhomme a été courageux.
 
-![Montagne](https://tcrouzet.com/images_tc/2016/04/montagne.jpg)
+![Montagne](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/montagne.jpg)
 
 ### Dimanche 6, TGV Genève
 
@@ -26,15 +26,15 @@ Je laisse Isa seule à la maison avec les enfants, surtout Émile qui ne maîtri
 
 Je n’écris pas, terrassé par le quotidien. Je lis *L’Homme qui répare les femmes*, la vie maladroitement racontée du docteur Denis Mukwege, avec qui je dîne mardi soir. Un grand gâchis ce livre. En se refusant le trash, l’auteur nous empêche de comprendre cet homme qui soigne gratuitement les femmes violées par milliers au Congo.
 
-![En train](https://tcrouzet.com/images_tc/2016/04/train1.jpg)
+![En train](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/train1.jpg)
 
-![train2](https://tcrouzet.com/images_tc/2016/04/train2.jpg)
+![train2](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/train2.jpg)
 
-![En train](https://tcrouzet.com/images_tc/2016/04/train3.jpg)
+![En train](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/train3.jpg)
 
-![En train](https://tcrouzet.com/images_tc/2016/04/train4.jpg)
+![En train](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/train4.jpg)
 
-![En train](https://tcrouzet.com/images_tc/2016/04/train5.jpg)
+![En train](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/train5.jpg)
 
 ### Lundi 7, Croix de Rozon
 
@@ -76,15 +76,15 @@ Faut-il tout dire ? Aux amis, oui, sans aucun doute. En tout cas, très souvent
 
 Je profite d’une correspondance pour faire quelques pas dans Bellegarde, cette ville où je passe d’habitude sans m’arrêter, cette ville en dévers, mystérieuse, où j’aimerais vagabonder à tous ses étages pour en saisir les empilements cubiques.
 
-![belle1](https://tcrouzet.com/images_tc/2016/04/belle1.jpg)
+![belle1](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/belle1.jpg)
 
-![En train](https://tcrouzet.com/images_tc/2016/04/train6.jpg)
+![En train](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/train6.jpg)
 
 ---
 
 Ce matin, assis aux toilettes, je vois un homme apparaître dans les granules du carrelage. Je le photographie, le matérialise, j’ai toujours ce projet rêvé de capturer les paréidolies et de les détourer.
 
-![pareidolies](https://tcrouzet.com/images_tc/2016/04/pareidolies.jpg)
+![pareidolies](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/pareidolies.jpg)
 
 ---
 
@@ -102,7 +102,7 @@ Notre encontre n’est que relativement hasardeuse. Nous avons participé à un 
 
 Je discute avec François de Bellegarde. Je lui suggère une mission commando. On devrait à plusieurs envahir la ville durant une journée et chacun l’écrire, la déshabiller, la réinventer. Cette ville ou une autre, mais Bellegarde a en elle une puissance romanesque.
 
-![Lyon](https://tcrouzet.com/images_tc/2016/04/lyon.jpg)
+![Lyon](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/lyon.jpg)
 
 ### Samedi 12, Balaruc
 
@@ -116,13 +116,13 @@ Je vais courir sur la plage. Au loin, je vois une femme, assise en tailleur, je 
 
 J’essaie de lire les livres évoqués à Lyon. Je suis agréablement surpris par la tenue de *La Théorie de l'information* d’Aurélien Bellanger. Au début, plus déroutant, *la Féerie générale* d’Emmanuelle Pireyre m’amuse. Deux livres très houellebecquiens, très de notre temps, sans être à l’avant-garde.
 
-En revanche, je bloque sur *Autour du monde* de Laurent Mauvignier, pourtant le texte qui devrait le plus m’intéresser, puisqu’il s’inscrit en partie dans la logique de *One Minute* ([remarque d’Oriane Deseilligny](https://tcrouzet.com/2015/11/27/one-minute-une-lecture-theorique-doriane-deseilligny/)). Impossible pour moi de supporter les répétions de « comme », non pas employés à la manière proustienne pour ouvrir des abysses, mais simplement pour introduire des analogies. Je m’interdis ce « comme une fleur » parce qu’il est si commun qu’il en devient lassant, autant quand j’écris que quand je lis. Et quand Mauvignier ne mitraille pas ses « comme », il enfourche le « semble ». Dans son texte tout est comme et tout lui semble, rien n’est tel qu’il devrait être. Je ne peux pas aller plus loin que les premières pages.
+En revanche, je bloque sur *Autour du monde* de Laurent Mauvignier, pourtant le texte qui devrait le plus m’intéresser, puisqu’il s’inscrit en partie dans la logique de *One Minute* ([remarque d’Oriane Deseilligny](http://tcrouzet.com/2015/11/27/one-minute-une-lecture-theorique-doriane-deseilligny/)). Impossible pour moi de supporter les répétions de « comme », non pas employés à la manière proustienne pour ouvrir des abysses, mais simplement pour introduire des analogies. Je m’interdis ce « comme une fleur » parce qu’il est si commun qu’il en devient lassant, autant quand j’écris que quand je lis. Et quand Mauvignier ne mitraille pas ses « comme », il enfourche le « semble ». Dans son texte tout est comme et tout lui semble, rien n’est tel qu’il devrait être. Je ne peux pas aller plus loin que les premières pages.
 
 ### Dimanche 13, Sète
 
-![Sète](https://tcrouzet.com/images_tc/2016/04/sete1.jpg)
+![Sète](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/sete1.jpg)
 
-![Sète](https://tcrouzet.com/images_tc/2016/04/sete2.jpg)
+![Sète](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/sete2.jpg)
 
 ### Lundi 14, Balaruc
 
@@ -147,3 +147,5 @@ Idée de roman. Bernard Maris, assassiné lors des attentats de Charlie-Hebdo, d
 ### Mercredi 23, Balaruc
 
 Apprendre à vivre avec la possibilité de l’attentat, d’un incident nucléaire, de la dictature, d’un afflux de migrants, de la montée des eaux… Cool l’avenir si on n’y ajoute pas des prouesses techniques, des découvertes scientifiques et esthétiques, des embrassades et des passions.
+
+Tags: Carnets, une

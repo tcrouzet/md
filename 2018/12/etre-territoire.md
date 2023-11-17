@@ -22,7 +22,7 @@ Mes lunettes bien que technologiques me rapprochent du monde comme les microscop
 
 Grisés par les promesses d’un retour aux sources, nous ne devons pas oublier qu’avant d’être des *Homo sapiens* nous étions des [*Homo habilis*](https://fr.wikipedia.org/wiki/Homo_habilis), autrement dit des hommes habiles capables d’utiliser des outils de pierre. La technologie fait corps avec nous depuis l’apparition du genre *Homo*. Vouloir vivre sans technologie n’est pas humain.
 
-![Le Canigou au loin](https://tcrouzet.com/images_tc/2018/12/pyrennees.jpg)
+![Le Canigou au loin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/pyrennees-600x450.jpg)
 
 ### En quête de la symbiose
 
@@ -30,11 +30,9 @@ Dans le Midi, entre Montpellier et Sète, avec mon VTT et mes copains, je grimpe
 
 Je vole au-dessus de la terre ocre, je ne ressens plus la fatigue, je ne suis qu’un souffle dans la fin du jour. Le temps paraît s’être arrêté, la descente immobilisée dans un instant infini. Je me confonds avec le canyon, avec chacune des branches qui se dressent sur mon passage, chacune des pierres qui deviennent les compagnes de ma descente plutôt que de se transformer en obstacle. Je suis un homme, en même temps un animal, je suis une force primitive, en même temps moderne, car je ne poursuis aucune proie, juste mon plaisir, et plus que mon plaisir, une expérience de communion avec la nature et mes copains, une expérience spirituelle qui donne à la vie une dimension épique.
 
-J’oublie le vélo au-dessous de moi, j’oublie mes jambes et mon corps. Moi et mon vélo ne faisons qu’un, qu’un avec le canyon, qu’un avec les collines qui l’enserrent, qu’un avec l’ensemble du massif, qu’un avec l’univers. Dans le [*Zen dans l’art chevaleresque du tir à l’arc*](https://fr.wikipedia.org/wiki/Le_Zen_dans_l'art_chevaleresque_du_tir_%C3%A0_l'arc), [Eugen Herrigel](https://fr.wikipedia.org/wiki/Eugen_Herrigel) écrit : « L’archer cesse d’être conscient de lui-même en tant que personne appliquée à atteindre le cœur de la cible qui lui fait face. » L’archer devient l’arc, la flèche, la cible. Je deviens mon vélo (mon arc et ma flèche à moi), je deviens le terrain sur lequel je roule (ma cible à moi). Je suis unifié, un avec moi-même et le monde.
+J’oublie le vélo au-dessous de moi, j’oublie mes jambes et mon corps. Moi et mon vélo ne faisons qu’un, qu’un avec le canyon, qu’un avec les collines qui l’enserrent, qu’un avec l’ensemble du massif, qu’un avec l’univers. Dans le [*Zen dans l'art chevaleresque du tir à l'arc*](https://fr.wikipedia.org/wiki/Le_Zen_dans_l'art_chevaleresque_du_tir_%C3%A0_l'arc), [Eugen Herrigel](https://fr.wikipedia.org/wiki/Eugen_Herrigel) écrit : « L’archer cesse d’être conscient de lui-même en tant que personne appliquée à atteindre le cœur de la cible qui lui fait face. » L’archer devient l’arc, la flèche, la cible. Je deviens mon vélo (mon arc et ma flèche à moi), je deviens le terrain sur lequel je roule (ma cible à moi). Je suis unifié, un avec moi-même et le monde.
 
 Le vélo n’entrave pas « l’expérience », il la rend possible et l’intensifie. Il en devient le vecteur, catalyseur d’une réaction dont la dimension spirituelle ne peut être niée. Je ne suis d’ailleurs pas surpris que mon ami cycliste le plus âgé, Jean, se soit mis au tir à l’arc. Il y a une proximité entre les deux sports, comme entre tous les sports qui mettent entre nous et le monde une technologie que nous devons apprivoiser, puis transformer en une extension de nous-mêmes jusqu’à l’oublier. Alors elle n’est plus une vitre opaque qui brouillerait notre vision, mais en même temps un microscope et un télescope, une loupe qui magnifie nos sensations et nos expériences. Mon objectif est de creuser cette dimension esthétique de l’existence.
-
-<div class="iframe" id="iframe15"></div>
 
 ### Une démarche expérimentale
 
@@ -68,11 +66,11 @@ Il s’agit d’un jeu et, à la fois, d’une philosophie de vie dans une époq
 
 Même les cavaliers n’ont pas éprouvé ce sentiment, parce que les chevaux sont moins endurants que nous autres cyclistes ([difficile de leur faire parcourir plus de 160 km en une journée](https://www.ouest-france.fr/normandie/argentan-61200/ca-peut-galoper-combien-de-temps-un-cheval-4374255), et surtout de recommencer le lendemain).
 
-Dans [*Énergie et Équité*](http://olivier.hammam.free.fr/imports/auteurs/illich/energie00.htm), Ivan Illich écrit : « À bicyclette, l’homme va de trois à quatre fois plus vite qu’à pied, tout en dépensant cinq fois moins d’énergie. En terrain plat, il lui suffit alors de dépenser 0,15 calorie pour transporter un gramme de son corps sur un kilomètre. La bicyclette est un outil parfait qui permet à l’homme d’utiliser au mieux son énergie métabolique pour se mouvoir : ainsi outillé, l’homme dépasse le rendement de toutes les machines et celui de tous les animaux. (…) Le vélo élève la mobilité autogène de l’homme jusqu’à un nouveau degré, au-delà duquel il n’y a plus en théorie de progrès possible. »
+Dans [*Énergie et Équité*](http://olivier.hammam.free.fr/imports/auteurs/illich/energie00.htm), Ivan Illich écrit : « À bicyclette, l'homme va de trois à quatre fois plus vite qu'à pied, tout en dépensant cinq fois moins d'énergie. En terrain plat, il lui suffit alors de dépenser 0,15 calorie pour transporter un gramme de son corps sur un kilomètre. La bicyclette est un outil parfait qui permet à l'homme d'utiliser au mieux son énergie métabolique pour se mouvoir : ainsi outillé, l'homme dépasse le rendement de toutes les machines et celui de tous les animaux. (…) Le vélo élève la mobilité autogène de l'homme jusqu'à un nouveau degré, au-delà duquel il n'y a plus en théorie de progrès possible. »
 
 Le vélo démultiplie la puissance mise en nous par l’évolution. Il est plus rapide que la course, mais pas suffisamment pour que nos yeux ne perçoivent pas les détails du territoire, surtout lorsque nous suivons des sentiers. Nous pouvons même ajuster nos coups de pédales pour une prise de conscience optimale, ce qui est plus difficile à la course. Le vélo est l’ultime instrument d’exploration et il n’a peut-être pas fini de nous surprendre : [les vélos roulent même sur l’eau.](https://www.youtube.com/watch?v=KQ9oazS0slc) Pourquoi ne pas en rester au canoë ? Encore cette question de temps, d’autonomie, de rendement. Le vélo, c’est la course démultipliée, avec la juste vitesse pour percevoir. Une fois que le vélo est devenu une seconde peau, il transforme le territoire en terrain de jeu dont nous prenons possession avec une jubilation enfantine et une plénitude de moine zen.
 
-![En quête de la trace](https://tcrouzet.com/images_tc/2018/12/WhatsApp-Image-2018-12-04-at-14.34.13.jpg)
+![En quête de la trace](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/12/WhatsApp-Image-2018-12-04-at-14.34.13-600x450.jpg)
 
 ### L’extension du domaine d’existence
 
@@ -85,3 +83,5 @@ Dans une troisième phase, j’ai été déçu parce que nous n’avons pas util
 De quoi être effrayé. J’ai aussi enfourché mon vélo pour éviter ce piège, pour en revenir au territoire physique, à la bonne vielle cartographie, au réseau des chemins et des routes, qui a la propriété remarquable d’être décentralisé et même distribué, ce qui implique qu’il existe une infinité de traces pour relier deux points, sans la nécessité de passer par des points de contrôle.
 
 Cette infinité me donne le vertige. J’ai parfois l’envie folle de parcourir toutes les possibilités, de voir tous les points de vues. Sous certaines lumières, à certaines heures, j’en éprouve une frustration douloureuse. Il me faut prendre la route, essayer des voies nouvelles, connecter des lieux à ma façon, ouvrir des sentes, y entraîner mes amis. J’ai l’impression que j’établis alors de nouveaux chemins pour la circulation sanguine sociale, que j’effectue un travail d’irrigation, installant des bypass en cas d’incident cardiaque. Chacune des traces, pour le coup partagées en ligne, est une possibilité offerte aux autres, une chance de se libérer des parcours stéréotypés, une chance d’éprouver des sensations neuves, cela parfois tout à côté de chez soi. Peut-être que tout commence par le territoire, s’y sentir libre avant de pouvoir étendre ce sentiment à tout l’espace existentiel. Faire du vélo avec art devient alors aussi politique.
+
+Tags: Born to Bike, une

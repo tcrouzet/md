@@ -1,6 +1,6 @@
 # Indisponibles.fr
 
-Quand j’ai écrit [« Si vous êtes l’auteur d’œuvres indisponibles, publiez-les immédiatement plutôt que de râler contre le SNE, la SGDL, Google… »](https://tcrouzet.com/2012/06/22/les-auteurs-sont-ils-faineants/), les auteurs déjà actifs sur le numérique m’ont approuvé, les autres désapprouvé.<span id="more-25344"></span>
+Quand j’ai écrit [« Si vous êtes l’auteur d’œuvres indisponibles, publiez-les immédiatement plutôt que de râler contre le SNE, la SGDL, Google… »](http://blog.tcrouzet.com/2012/06/22/les-auteurs-sont-ils-faineants/), les auteurs déjà actifs sur le numérique m’ont approuvé, les autres désapprouvé.<span id="more-25344"></span>
 
 C’est sans doute un résumé grossier de la situation, qui souffre quelques exceptions, mais je ne crois pas beaucoup me tromper. Il est vrai toutefois que mon billet, même s’il proposait une marche à suivre, n’était pas très constructif.
 
@@ -26,7 +26,7 @@ Pour nos œuvres en fin de vie financière, il nous suffit de les rendre disponi
 
 ### Œuvres rentables
 
-Combien d’œuvres financièrement rentables pour les auteurs sont indisponibles ? Sans doute peu, mais qu’importe. C’est aux auteurs eux-mêmes de juger s’ils doivent placer leurs œuvres dans cette seconde catégorie ou dans la précédente.
+Combien d'œuvres financièrement rentables pour les auteurs sont indisponibles ? Sans doute peu, mais qu’importe. C’est aux auteurs eux-mêmes de juger s’ils doivent placer leurs œuvres dans cette seconde catégorie ou dans la précédente.
 
 Dans ce cas, il suffit de mettre en vente l’œuvre au prix prohibitif de 1 000 euros. Elle sera effectivement disponible, mais personne ne l’achètera. Elle sera verrouillée en quelque sorte.
 
@@ -52,8 +52,10 @@ Nos politiciens veulent relancer la croissance, c’est la croissance créative 
 
 Nous avons l’occasion d’innover culturellement, *together* comme dirait Yal. Si nous usons de notre énergie pour lutter contre les anciennes structures de pouvoir, nous ne faisons que les renforcer, parce que nous oublions dans le même temps de bâtir des alternatives.
 
-Personne ne doute que les indisponibles doivent être rendus disponibles (je devrais dire presque… mais il me paraît absurde de perdre la mémoire). Soit nous laissons faire le travail à d’autres, soit nous le faisons nous-mêmes. Pour le moment, aucune loi de nous l’interdit. Nous devrions en profiter.
+Personne ne doute que les indisponibles doivent être rendus disponibles (je devrais dire presque... mais il me paraît absurde de perdre la mémoire). Soit nous laissons faire le travail à d'autres, soit nous le faisons nous-mêmes. Pour le moment, aucune loi de nous l’interdit. Nous devrions en profiter.
 
-Ironie de l’histoire, nous pourrions même demander à Google de numériser nos œuvres gratuitement, en lui laissant la possibilité de les diffuser en licence Creative Common.
+Ironie de l'histoire, nous pourrions même demander à Google de numériser nos œuvres gratuitement, en lui laissant la possibilité de les diffuser en licence Creative Common.
 
-*PS : Suite à cet article, David Queffélec, animateur de [la revue Angle Mort](http://www.angle-mort.fr/), a décidé de lancer [insiponibles.fr](http://www.indisponibles.fr/) sous forme d’une coopérative d’auteurs.*
+*PS : Suite à cet article, David Queffélec, animateur de [la revue Angle Mort](http://www.angle-mort.fr/), a décidé de lancer [insiponibles.fr](http://www.indisponibles.fr/) sous forme d'une coopérative d'auteurs.*
+
+Tags: Dividende Universel, édition, Long tail, une

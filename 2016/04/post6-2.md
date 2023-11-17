@@ -8,4 +8,8 @@ You think I’m trying to scare you? Look what I just found on the Net. When you
 
 Since the government agency my mom works for is linked to health, I deduce that there must be some kind of medical problem involved. Bingo! In New Zealand, the *Wellington Times* published an article headlined: *Suspect illness at the U.S. Embassy*. I’ll cut-and-paste it into my next post.
 
-![Cabin](https://tcrouzet.com/images_tc/2016/04/p006_cabin_i.jpg)
+![Cabin](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/p006_cabin_i.jpg)
+
+
+
+Tags: InstaResistants

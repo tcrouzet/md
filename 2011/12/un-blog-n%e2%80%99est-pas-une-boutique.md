@@ -1,6 +1,6 @@
 # Un blog n’est pas une boutique
 
-[*J’ai débranché*](https://tcrouzet.com/jai-debranche/) va partir en imprimerie et en ebook forgerie. Je peux enfin cesser de me demander si je dois modifier un passage, en supprimer un autre, en ajouter un dernier. J’ai beaucoup coupé, notamment les parenthèses théoriques qui n’étaient pas dans le ton de l’auto-fiction et que j’estime plus à leur place sur mon blog. Par exemple, le chapitre intitulé « Préservons les belles-mères » que voici. Le contexte. En mai, j’étais en train de lire *Predictably Irrational* de Dan Ariely.<span id="more-22591"></span>
+[*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/) va partir en imprimerie et en ebook forgerie. Je peux enfin cesser de me demander si je dois modifier un passage, en supprimer un autre, en ajouter un dernier. J’ai beaucoup coupé, notamment les parenthèses théoriques qui n’étaient pas dans le ton de l’auto-fiction et que j’estime plus à leur place sur mon blog. Par exemple, le chapitre intitulé « Préservons les belles-mères » que voici. Le contexte. En mai, j’étais en train de lire *Predictably Irrational* de Dan Ariely.<span id="more-22591"></span>
 
 ---
 
@@ -26,14 +26,16 @@ Je comprends qu’ils sont indispensables et que l’autoédition n’est possib
 
 ---
 
-Cette conclusion risque de surprendre ceux qui ont l’habitude de me lire. J’ai souvent défendu le droit à la liberté pour les auteurs, [cette capacité à diffuser leurs créations indépendamment de toute censure](https://tcrouzet.com/edition-interdite/). Je ne suis pas en train de me contredire. Je pense maintenant que si on veut pratiquer [*La stratégie du cyborg*](https://tcrouzet.com/la-strategie-du-cyborg/), c’est-à-dire un travail créatif en réseau avec ses lecteurs, on ne peut pas dans le même temps et dans le même espace avoir une démarche commerciale avec eux. Ça ne peut pas marcher.
+Cette conclusion risque de surprendre ceux qui ont l’habitude de me lire. J’ai souvent défendu le droit à la liberté pour les auteurs, [cette capacité à diffuser leurs créations indépendamment de toute censure](http://blog.tcrouzet.com/edition-interdite/). Je ne suis pas en train de me contredire. Je pense maintenant que si on veut pratiquer [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/), c’est-à-dire un travail créatif en réseau avec ses lecteurs, on ne peut pas dans le même temps et dans le même espace avoir une démarche commerciale avec eux. Ça ne peut pas marcher.
 
 Soit on écrit dans son coin et on tient boutique, ce que de nombreux auteurs américains réussissent avec succès, soit on écrit coopérativement et on diffuse gratuitement. On peut alors espérer une gratification, mais elle doit être de l’ordre du don.
 
-Si je ne me trompe pas, c’est un coup dur pour [la longue traîne](https://tcrouzet.com/tag/long-tail/), car son développement implique une étroite collaboration entre les producteurs et les consommateurs. Le dualisme révélé par Ariely ne pourra être dépassé qu’avec un changement de mentalité, une adoption massive de la culture du don. Malheureusement les changements de mentalités sont lents, comparés aux changements d’habitude, notamment ceux influencés par les technologies.
+Si je ne me trompe pas, c’est un coup dur pour [la longue traîne](http://blog.tcrouzet.com/tag/long-tail/), car son développement implique une étroite collaboration entre les producteurs et les consommateurs. Le dualisme révélé par Ariely ne pourra être dépassé qu’avec un changement de mentalité, une adoption massive de la culture du don. Malheureusement les changements de mentalités sont lents, comparés aux changements d’habitude, notamment ceux influencés par les technologies.
 
-À l’avenir, j’offrirai donc mes textes ou en confierai la commercialisation à d’autres, d’autant que je suis un mauvais vendeur ; étant entendu que je n’ai pas envie de renoncer à [*La stratégie du cyborg*](https://tcrouzet.com/la-strategie-du-cyborg/). Elle me paraît une des choses les plus importantes que nous a fait découvrir le Web.
+À l’avenir, j’offrirai donc mes textes ou en confierai la commercialisation à d’autres, d’autant que je suis un mauvais vendeur ; étant entendu que je n’ai pas envie de renoncer à [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/). Elle me paraît une des choses les plus importantes que nous a fait découvrir le Web.
 
-— Tu crois encore qu’elle est possible ? me demande Isa. Les gens commentent moins, ils consomment sur le Web comme ailleurs.
+— Tu crois encore qu'elle est possible ? me demande Isa. Les gens commentent moins, ils consomment sur le Web comme ailleurs.
 
 — J’espère que c’est un mauvais moment à passer.
+
+Tags: Connecteur, édition, J'ai débranché, Long tail, NetCulture, une

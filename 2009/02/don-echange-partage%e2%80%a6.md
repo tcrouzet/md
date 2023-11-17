@@ -27,3 +27,5 @@ Dans la logique du partage, c’est tout le contraire. Tu te retournes vers le c
 Partager, ça évoque aussi pour moi la tarte qu’on découpe. Le gâteau il n’est pas infini. Tu partages ce que tu as au moment du partage. Bien sûr tu peux préparer un nouveau gâteau, mais tu ne le partageras qu’à ce moment. On a trop longtemps fait comme si le gâteau était infini, on l’a trop longtemps partagé par anticipation.
 
 Je suis conscient que tout cela n’est pas encore clair mais il y a quelque chose qui pointe, quelque chose qui se met en place… Dans ce processus, la technologie a un grand rôle à jouer car elle facilite le partage.
+
+Tags: Connecteur

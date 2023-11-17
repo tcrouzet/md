@@ -10,11 +10,11 @@ L’Histoire s’achève. Non pas comme l’avait prédit Francis Fukuyama pour 
 
 ---
 
-Voici un projet de quatrième de couverture pour [mon prochain livre](https://tcrouzet.com/tag/flux/). *Après l’Histoire* en sera en toute probabilité le titre (avec un sous-titre à venir car il existe déjà un [*Après l’Histoire*](http://www.amazon.fr/Apr%C3%A8s-lHistoire-Philippe-Muray/dp/2070783839) dans un autre genre). Sortie maintenant prévue pour début avril. L’ebook sera disponible en lecture gratuite dès le courant février.
+Voici un projet de quatrième de couverture pour [mon prochain livre](http://blog.tcrouzet.com/tag/flux/). *Après l'Histoire* en sera en toute probabilité le titre (avec un sous-titre à venir car il existe déjà un [*Après l'Histoire*](http://www.amazon.fr/Apr%C3%A8s-lHistoire-Philippe-Muray/dp/2070783839) dans un autre genre). Sortie maintenant prévue pour début avril. L'ebook sera disponible en lecture gratuite dès le courant février.
 
 ### Pourquoi *Après l’Histoire ?*
 
-> L’Histoire ne devient possible que lorsque le Verbe se transforme en mots, écrivent Ivan Illich et Barry Sanders au tout début de [ABC : l’alphabétisation de l’esprit populaire](http://www.amazon.com/ABC-lalphab%C3%A9tisation-populaire-Ivan-Illich).
+> L’Histoire ne devient possible que lorsque le Verbe se transforme en mots, écrivent Ivan Illich et Barry Sanders au tout début de [ABC : l'alphabétisation de l'esprit populaire](http://www.amazon.com/ABC-lalphab%C3%A9tisation-populaire-Ivan-Illich).
 
 Avant l’Histoire, c’est le temps du Verbe, c’est la mythologie. Après la mythologie, durant l’Histoire, les mythes ne disparaissent pas, on continue de les raconter, de les recopier, de les retrouver. L’Histoire élargit les possibilités offertes aux hommes.
 
@@ -49,3 +49,5 @@ III L’homme (liquide)
 8 Après Dieu
 
 9 Après la révolution
+
+Tags: NetCulture

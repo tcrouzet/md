@@ -1,6 +1,6 @@
 # The Cult of the Amateur
 
-[](http://www.amazon.fr/Cult-Amateur-Andrew-Keen/dp/1857883934/ref=sr_1_2)Ne croyez pas que je sois fan du [livre d’Andrew Keen](https://tcrouzet.com/2007/07/11/un-univers-de-trolls/). Je le lis pour mieux m’armer contre les objecteurs de son espèce.
+[](http://www.amazon.fr/Cult-Amateur-Andrew-Keen/dp/1857883934/ref=sr_1_2)Ne croyez pas que je sois fan du [livre d'Andrew Keen](http://blog.tcrouzet.com/2007/07/11/un-univers-de-trolls/). Je le lis pour mieux m’armer contre les objecteurs de son espèce.
 
 En fait, il critique la révolution du web 2.0 en supposant qu’elle est vaine dans notre monde. Mais qui paiera les experts ? Comment les artistes gagneront leur vie ? Qui représentera l’autorité ? Keen ne trouve pas de réponse à ces questions car il oublie de voir les choses sous un autre angle : et si c’était notre monde qui était vain, et s’il fallait inventer un autre monde, et si ce monde était justement en train de s’inventer.
 
@@ -8,7 +8,7 @@ Quand Keen dit que les artisans de la longue traîne crèveront de faim, il oubl
 
 > In *The Wealth of Nations*, economist Adam Smith reminds us that specialization and division of labor is, in fact, the most revolutionary achievement of capitalism, écrit Keen.
 
-Et alors ? La spécialisation fut le moteur du capitalisme mais pour quelles raisons deviendrait-elle le moteur de notre époque post-capitaliste ? Je n’en vois aucune, je vois même beaucoup de raisons de [tendre vers le généralisme](https://tcrouzet.com/2007/07/15/le-siecle-des-generalistes/).
+Et alors ? La spécialisation fut le moteur du capitalisme mais pour quelles raisons deviendrait-elle le moteur de notre époque post-capitaliste ? Je n’en vois aucune, je vois même beaucoup de raisons de [tendre vers le généralisme](http://blog.tcrouzet.com/2007/07/15/le-siecle-des-generalistes/).
 
 Dans une époque complexe, nous devons disposer de plusieurs cordes à notre arc, chacune résonnant à une fréquence différente pour réagir à toutes les circonstances.
 
@@ -25,3 +25,5 @@ Le généralisme n’implique pas l’amateurisme. Les cellules souches sont gé
 3. Keen cite Habermas : « The price we pay for the growth in egalitarianism offered by internet is the decentralized access to unedited stories. In this medium, contributions by intellectual lose their power to create focus. » Je crois au contraire que les intellectuels disposent d’un nouveau terrain de jeu pour tester leur sagacité. Ils doivent être bons pour surpasser le bruit ambiant qui n’a jamais été aussi fort. Il ne suffit plus pour eux de se proclamer intellectuel pour se faire entendre. Nous luttons tous à arme égale aujourd’hui. Ça doit faire mal à certains, je l’admets.
 
 4. Pour Keen, le web est le domaine du mensonge. Une actrice peut se faire passer pour une ado en détresse (lonelygirl15) et abuser des millions d’internautes. Mais les médias classiques ne nous abusent-ils pas aussi ? Il ne faut pas nous croire plus naïfs que nous ne sommes. Le mensonge est tout simplement humain. Au moins sur internet nous pouvons révéler le mensonge et questionner les choses qu’on nous présente pour vraies. Keen oublie de dire que la plupart des mensonges dont il parle ont été révélés sur le web lui-même par ses usagers.
+
+Tags: Politique

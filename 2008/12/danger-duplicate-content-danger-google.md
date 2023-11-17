@@ -20,7 +20,7 @@ On le voit Google n’est plus du tout neutre. Il ne fait pas que nous aider à 
 
 Idéalement, et je le sens venir depuis longtemps dans ses recommandations, Google voudrait que les choses ne soient présentes qu’une fois et qu’il y ait très peu de liens entre les pages. Il voudrait que plutôt que nous naviguions de site en site comme c’était le cas à l’origine, nous naviguions toujours par lui, c’est-à-dire que nous allions où il nous laisse aller.
 
-Google n’aime plus les pages avec beaucoup de liens externes. Ils jugent qu’elles ressemblent à des résultats de recherche, c’est-à-dire à des pages Google, donc des pages concurrentes et il les déprécie dans son index (ce qui condamne en référencement par exemple les projets de linkjounalism comme [aaaliens.com](http://aaaliens.com/) même s’ils sont légitimes et importants pour nous).
+Google n’aime plus les pages avec beaucoup de liens externes. Ils jugent qu'elles ressemblent à des résultats de recherche, c’est-à-dire à des pages Google, donc des pages concurrentes et il les déprécie dans son index (ce qui condamne en référencement par exemple les projets de linkjounalism comme [aaaliens.com](http://aaaliens.com/) même s’ils sont légitimes et importants pour nous).
 
 Tout est fait pour isoler les contenus les uns des autres. Tout est fait pour que l’architecture massivement distribuée du web devienne pyramidale. Nous sommes peut-être en train d’assister à la mort du web tel que nous l’avons connue durant les quinze premières années de son histoire. Nous risquons de nous rappeler d’elles comme d’un âge d’or où tout était permis.
 
@@ -37,3 +37,5 @@ PS : Pour estimer combien de fois ce billet sera repris, j’inscris ici un wat
 1. Publié le 15/12/2008 à 11:31, sur Google à 11h45.
 2. Vu sur coZop à 16h30.
 3. Vu sur lespacearcenciel.com le 16/12/1008 à 2h.
+
+Tags: noepub

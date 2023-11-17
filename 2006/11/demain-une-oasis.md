@@ -1,10 +1,10 @@
 # Demain, une oasis
 
-Le 12 septembre dernier, suite à un de mes billets, [Isabelle](https://tcrouzet.com/2006/09/12/matrix-connexion/#comment-1533) me suggère de lire [Ayerdhal](http://fr.wikipedia.org/wiki/Ayerdhal). Je ne le connaissais pas. J’ai 2 000 livres de SF à la maison mais, depuis vingt ans, je me suis détourné du genre, n’y revenant que pour lire un peu de Bordage, de Gibson et quelques récits de fantasy dont je tairai les noms. J’ai alors demandé à Isabelle par quel livre je pouvais commencer.
+Le 12 septembre dernier, suite à un de mes billets, [Isabelle](http://blog.tcrouzet.com/2006/09/12/matrix-connexion/#comment-1533) me suggère de lire [Ayerdhal](http://fr.wikipedia.org/wiki/Ayerdhal). Je ne le connaissais pas. J’ai 2 000 livres de SF à la maison mais, depuis vingt ans, je me suis détourné du genre, n’y revenant que pour lire un peu de Bordage, de Gibson et quelques récits de fantasy dont je tairai les noms. J’ai alors demandé à Isabelle par quel livre je pouvais commencer.
 
-![](https://tcrouzet.com/images_tc/oasis.jpg)
+![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/oasis.jpg)
 
-Sans attendre sa réponse, j’ai essayé de dénicher le mail d’Ayerdhal sur le web. Quand on me parle d’un auteur que je ne connais pas, réflexe connecteur, j’essaie de lui écrire. Mais je n’ai pas eu le temps de le faire. [Ayerdhal venait de me répondre sur le blog, me conseillant quelques-uns de ses livres.](https://tcrouzet.com/2006/09/12/matrix-connexion/#comment-1535)
+Sans attendre sa réponse, j’ai essayé de dénicher le mail d’Ayerdhal sur le web. Quand on me parle d’un auteur que je ne connais pas, réflexe connecteur, j’essaie de lui écrire. Mais je n’ai pas eu le temps de le faire. [Ayerdhal venait de me répondre sur le blog, me conseillant quelques-uns de ses livres.](http://blog.tcrouzet.com/2006/09/12/matrix-connexion/#comment-1535)
 
 Je raconte cette anecdote parce que ce jour là, il s’est passé quelque chose qui me paraît symboliser la nouvelle société que nous sommes en train de construire sans qu’ILS s’en rendent compte. En quelques minutes, j’ai découvert l’existence d’un nouvel auteur, nous sommes entrés en contact, puis j’ai commandé tous ses livres.
 
@@ -16,7 +16,7 @@ En 1992, ce livre était de la SF. Aujourd’hui, il est d’une terrible actual
 
 En même temps que je lisais, je pensais souvent à Houellebecq. Ayerdhal et lui font raisonner en moi les mêmes cordes mais Ayerdhal est dans la lumière alors que Houellebecq ne cesse de s’assombrir, et, plus il s’assombrit, plus il s’éloigne vers le passé.
 
-Comme la bouteille jetée à la mer par [Blogospherus](https://tcrouzet.com/2006/11/18/bouteille-a-la-mer/), j’aimerais lancer à la mer *Demain, une oasis*, j’aimerais qu’il s’échoue sur des plages bondées de centaines de blogueurs, qu’ils le lisent tous, qu’ils en parlent tous, qu’ils prouvent à nos jurés Goncourt et autres manitous littéraires qu’en 1992 ils sont passés à côté du chef-d’œuvre de ces dernière années.
+Comme la bouteille jetée à la mer par [Blogospherus](http://blog.tcrouzet.com/2006/11/18/bouteille-a-la-mer/), j’aimerais lancer à la mer *Demain, une oasis*, j’aimerais qu’il s’échoue sur des plages bondées de centaines de blogueurs, qu’ils le lisent tous, qu’ils en parlent tous, qu’ils prouvent à nos jurés Goncourt et autres manitous littéraires qu’en 1992 ils sont passés à côté du chef-d’œuvre de ces dernière années.
 
 Je ne suis sans doute déjà plus objectif. Vendredi soir, j’ai croisé Ayerdhal, nous avons un peu papoté, je l’ai écouté parler de son travail et de ses idées. Isabelle avait raison : c’est un pur connecteur dans l’âme.
 
@@ -24,7 +24,7 @@ Si vous ne le connaissez pas, j’espère que vous l’aimerez.
 
 PS : Hier soir, j’ai vu [Une partie de campagne](http://www.filmdeculte.com/film/film.php?id=75) de Raimond Depardon, reportage indispensable pour qui s’intéresse même de loin à la politique. Sur le DVD, il y avait un autre reportage : *Ian Palach*. Je l’ai regardé comme ça, sans savoir de quoi il s’agissait, je me demande encore si j’ai respiré durant les 12 minutes qui ont suivi.
 
-![](https://tcrouzet.com//images_tc/ianpalach.jpg)
+![](https://tcrouzet.com/https://tcrouzet.com/images_tc/ianpalach.jpg)
 
 Le 19 janvier 1969, à Prague, Ian Palach s’immole sur la place Venceslas pour protester contre l’occupation soviétique. Raymond Depardon vient assister à ses obsèques. Je ne crois pas avoir déjà vu des images aussi fortes. Soudain, la ville s’arrête pour une minute de silence interminable. Noir, rouge, grisaille hivernale, yeux extatiques des Pragois. Une énergie tellurique traverse les foules, l’énergie pure de l’espèce humaine, la même énergie qui habite *Demain, une oasis*.
 
@@ -33,3 +33,5 @@ Nous ne pouvons pas laisser faire n’importe quoi.
 Nous n’avons pas le droit de nous laisser faire.
 
 Ian Palach nous le cria au prix de sa vie.
+
+Tags: Politique

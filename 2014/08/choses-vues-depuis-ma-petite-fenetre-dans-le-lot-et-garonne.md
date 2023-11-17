@@ -1,6 +1,6 @@
 # 21 choses vues depuis ma petite fenêtre dans le Lot-et-Garonne
 
-C’est un plaisir de se fixer un petit périmètre et d’imiter Francis Ponge.
+C'est un plaisir de se fixer un petit périmètre et d'imiter Francis Ponge.
 
 1. Un toit de tuiles canal en terre cuite.
 
@@ -43,3 +43,5 @@ C’est un plaisir de se fixer un petit périmètre et d’imiter Francis Ponge.
 20. Une vieille toile d’araignée effilochée entre les charnières rouillées du volet à un seul vantail.
 
 21. Une ombre, ronde sur une tuile, puis une autre, d’autres, il pleut.
+
+Tags: buzzlitt, une

@@ -28,4 +28,8 @@ Alors j’ai fait une chose bizarre…
 
 10. Me reste à allumer de nouveaux feux.
 
-![Les années blog](https://tcrouzet.com/images_tc/2017/12/cover-anim.gif)
+![Les années blog](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/12/cover-anim-400x603.gif)
+
+
+
+Tags: NetLittérature, une

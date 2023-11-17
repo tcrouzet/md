@@ -4,7 +4,7 @@
 
 ### Lundi 1<sup>er</sup>, Balaruc
 
-Un copain libraire m’écrit au sujet de [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/) : « C’est très fort, parfois très dur, et c’est aussi touchant. C’est sincère, bien mené et bien écrit, ce qui ne gâche rien ! »<span id="more-52020"></span>
+Un copain libraire m’écrit au sujet de [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/) : « C'est très fort, parfois très dur, et c'est aussi touchant. C'est sincère, bien mené et bien écrit, ce qui ne gâche rien ! »<span id="more-52020"></span>
 
 ---
 
@@ -40,7 +40,7 @@ Michon : « Il faut que je me persuade passionnément de l’idée que le mira
 
 Voilà pourquoi j’écris, pourquoi je continuerai. Je n’ai même pas besoin d’un sujet, il suffit que je m’installe sur ma terrasse, sous les mûriers platanes, face à l’étang, que j’observe un moment la voie sur berge où passe un cycliste ou un jogger et je peux me laisser entraîner, attendre un surgissement. Parfois il faut s’attarder sur des détails, saisir les palmiers caricaturaux, transplantés en terre du sud, rachitiques, avec en arrière-plan les pins parasols majestueux, pins que ces andouilles d’urbanistes arrachent parce qu’ils déforment les chaussées en macadam, l’idée que le problème est le macadam ne les effleurant pas.
 
-Mais cette littérature sans sujet, cette littérature du regard que je pratique dans mes carnets, n’est qu’une littérature intimiste, une littérature pour écrivain, une littérature onaniste. J’aimerais m’en contenter, comme un prêtre décidé à se masturber jusqu’à la fin de ses jours et qui, en attendant, se voue à dieu. Je tends l’oreille, je ne l’entends pas, Dieu. Alors je tente encore d’établir un petit canal de communication avec mes semblables, d’écrire parfois aussi pour eux, pour partager mes jouissances, pour qu’ils me rendent mes caresses, parfois mes coups de fouet. Alors il faut un sujet, ou ce qui s’en approche, il faut une direction, une narration, un récit, pourquoi pas une histoire. Il faut un liant pour interconnecter les jouissances, pour les amplifier, sinon elles s’effilochent.
+Mais cette littérature sans sujet, cette littérature du regard que je pratique dans mes carnets, n’est qu’une littérature intimiste, une littérature pour écrivain, une littérature onaniste. J’aimerais m’en contenter, comme un prêtre décidé à se masturber jusqu’à la fin de ses jours et qui, en attendant, se voue à dieu. Je tends l’oreille, je ne l’entends pas, Dieu. Alors je tente encore d’établir un petit canal de communication avec mes semblables, d’écrire parfois aussi pour eux, pour partager mes jouissances, pour qu’ils me rendent mes caresses, parfois mes coups de fouet. Alors il faut un sujet, ou ce qui s’en approche, il faut une direction, une narration, un récit, pourquoi pas une histoire. Il faut un liant pour interconnecter les jouissances, pour les amplifier, sinon elles s'effilochent.
 
 ---
 
@@ -66,7 +66,7 @@ J’aime la vie plus que la littérature. J’écris pour vivre davantage, pour 
 
 Mes pensées penchent vers l’autobiographique, vers l’autofiction, parce qu’ai-je d’autre à donner que ce que j’ai vécu, ressenti, ou rêvé ? Si quelques-uns des premiers lecteurs de [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/) ont été touché, c’est peut-être parce que j’ai donné de moi. Je n’ai pas seulement joué à l’écrivain.
 
-Suis-je capable de donner autre chose ? Peut-être pas. J’identifie quelques zones charnières dans ma vie, mais il me faudra du courage pour les affronter, surtout quand les blessures se sont refermées. Pourtant, c’est là que l’homme se construit, de là qu’il peut parler avec honnêteté, sans faire le fanfaron.
+Suis-je capable de donner autre chose ? Peut-être pas. J'identifie quelques zones charnières dans ma vie, mais il me faudra du courage pour les affronter, surtout quand les blessures se sont refermées. Pourtant, c’est là que l’homme se construit, de là qu’il peut parler avec honnêteté, sans faire le fanfaron.
 
 ### Dimanche 7, Balaruc
 
@@ -86,7 +86,7 @@ Souvent les auteurs qualifiés de littéraires, je pense à Michon bien sûr, en
 
 Au vu des notes précédentes, il me paraît évident que je n’ai pas renoncé à écrire, pourtant mon retour en France n’a pas altéré mon état mental de Floride. Je suis toujours en attente, avec de plus en plus souvent cet agacement quand les gens rabaissent notre époque, la voyant terminale, mourante, désespérée. Envie de prendre le contre-pied, d’être résolument optimiste, de prendre le contre-pied de moi-même.
 
-Un brouillard social nous trouble. Pour vivre heureux, il faudrait vivre loin des voix négatives, c’est-à-dire quasiment seul. Alors peut-être ne plus lire que des morts, mais je n’ai pas envie d’écrire une histoire au temps des morts, ou peut-être une histoire de mon enfance.
+Un brouillard social nous trouble. Pour vivre heureux, il faudrait vivre loin des voix négatives, c’est-à-dire quasiment seul. Alors peut-être ne plus lire que des morts, mais je n'ai pas envie d’écrire une histoire au temps des morts, ou peut-être une histoire de mon enfance.
 
 Cet état de non-écriture commence à m’effrayer, parce que depuis 30 ans je me vis écrivain, avec toujours des projets. Je ne souffre pas du syndrome de la page blanche, il n’a aucun sens pour moi, simplement aucun sujet ne s’impose, peut-être parce que je suis heureux à vélo avec mes copains, quand nous découvrons de nouveaux chemins, de nouveaux paysages dans un coin où pour la plupart nous sommes nés.
 
@@ -94,7 +94,7 @@ Il y a une dimension littéraire dans ma façon de faire du vélo. Je m’ouvre 
 
 ### Mardi 9, Magelone
 
-![À vélo, canal du Rhône à Sète](https://tcrouzet.com/images_tc/2019/07/IMG_5486.jpg)
+![À vélo, canal du Rhône à Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5486-600x450.jpg)
 
 ### Mercredi 10, Balaruc
 
@@ -108,11 +108,11 @@ Quand ma première lecture de la journée est [« Les designers peuvent faire e
 
 Des auteurs parlent merveilleusement de la Littérature, me donnent envie de lire des dizaines de livres, mais ils sont incapables d’éveiller mon envie pour autre chose, et à ce titre quelle littérature peuvent-ils eux-mêmes produire, sinon une littérature qui se regarde le nombril ? J’ai trop perdu de temps à tenir des discours formels.
 
-![Sète](https://tcrouzet.com/images_tc/2019/07/P1090784.jpg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090784-600x450.jpg)
 
-![Balaruc](https://tcrouzet.com/images_tc/2019/07/P1090790.jpg)
+![Balaruc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090790-600x450.jpg)
 
-![À vélo](https://tcrouzet.com/images_tc/2019/07/IMG_5501.jpg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5501-600x450.jpg)
 
 ### Jeudi 11, Balaruc
 
@@ -122,7 +122,7 @@ Reste que le texte peut avoir un pouvoir immédiat, comme quand je suis sur le v
 
 ---
 
-![L'île au trésor](https://tcrouzet.com/images_tc/2019/07/P1090802.jpg)
+![L'île au trésor](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090802-600x450.jpg)
 
 *Reprendre le temps.* J’écris cette légende sous la photo que je poste en m’installant au bord de l’étang, au bout d’un chemin invisible, qui se termine sur un tapis d’algues noires, à l’ombre d’un bouquet de roseaux. Un peu plus loin quelques rochers ocres, mes îles au trésor de quand j’étais enfants, aux pieds d’une petite falaise argileuse plantée de tamaris. Sur l’autre rive, les collines de Bouzigues, déchirées par la lèvre sanglante d’une carrière, plus loin, une ligne d’éoliennes, leurs pâles indolentes orientées au sud. Les roseaux frétillent dans mon dos, des sternes filent au raz de l’eau. J’ai situé ici un de mes romans de jeunesse, jamais publié, roman autobiographique. Avec [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/), j’en suis revenu à mon point de départ.
 
@@ -172,19 +172,19 @@ Ces pensées ne me procurent aucune difficulté, les mots battent au rythme des 
 
 Peut-être que ces mots, quand ils se rematérialiseront chez un lecteur, recréeront par leur rythme et leur sens une idée de matinée d’été, au bord d’un étang du Midi par mistral encore léger, peut-être qu’ils donneront envie d’aller lire dehors, au bord d’une autre eau, ou de la même pourquoi pas, et alors, peut-être, une belle lumière se lèvera sur le monde.
 
-Ce n’est pas en regardant une vidéo au bord de la mer que j’éprouverais une telle sensation de vie, même la musique est impuissante, tant elle se dresse en barrière entre moi et l’extérieur, comme la prose balzacienne, trop opaque, trop autosuffisante, trop ambitieuse dans sa volonté totalisante.
+Ce n’est pas en regardant une vidéo au bord de la mer que j’éprouverais une telle sensation de vie, même la musique est impuissante, tant elle se dresse en barrière entre moi et l'extérieur, comme la prose balzacienne, trop opaque, trop autosuffisante, trop ambitieuse dans sa volonté totalisante.
 
 La littérature désormais est faite pour l’extérieur, là où les autres médias sont moins adroits qu’elle. Elle est faite pour aiguillonner, pour éveiller, pour initier. Mais qui prend le temps ? Je m’en fiche, j’écris pour ceux qui prennent le temps de vivre. Je ne me sens pas capable de réveiller les mourants, et je répugne à écrire des livres d’assassin.
 
-![Le ponton](https://tcrouzet.com/images_tc/2019/07/P1090810.jpg)
+![Le ponton](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090810-600x450.jpg)
 
-![Le voilier rouge](https://tcrouzet.com/images_tc/2019/07/P1090813.jpg)
+![Le voilier rouge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090813-600x450.jpg)
 
 *Après-midi d’un écrivain* de Peter Handke, première phrase : « Depuis l’époque où il avait vécu, presque une année durant, avec l’idée que la langue désormais lui manquait, chaque phrase était devenue pour l’écrivain un évènement, pourvu qu’il y sentît le sursaut possible d’une suite. » Plus loin « Chaque mot (…) le faisait respirer largement et le reliait au monde avec une force nouvelle. »
 
-![À vélo, Bellevue](https://tcrouzet.com/images_tc/2019/07/IMG_5511.jpg)
+![À vélo, Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5511-600x450.jpg)
 
-![À vélo, Bellevue](https://tcrouzet.com/images_tc/2019/07/IMG_5513.jpg)
+![À vélo, Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5513-600x450.jpg)
 
 ### Samedi 13, Balaruc
 
@@ -202,13 +202,13 @@ Hier, une équipe de France 2 était à la maison, non pas pour me filmer, mais 
 
 *Après-midi d’un écrivain* est un beau texte, un texte sur le regard de l’écrivain en promenade, un texte dont l’écriture a procuré du plaisir à son auteur, mais trop descriptif, pas conduit pas une pensée ni une histoire, un texte comme nous en écrivons dans nos journaux intimes, à l’entraînement.
 
-![Couchant](https://tcrouzet.com/images_tc/2019/07/P1090853.jpg)
+![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/P1090853-600x450.jpg)
 
 ### Dimanche 14, Balaruc
 
-Je rentre d’un footing et découvre que mon copain Lilian a publié [une petite note fort agréable](https://www.facebook.com/lilian.bathelot.9/posts/1513540098787509) sur [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/) : « J’ai lu ce texte d’un trait ou presque, ce qui ne m’était pas arrivé depuis un sacré bout de temps. Un truc magnétique qui te colle aux yeux et te balance dans une ronde d’émotions contradictoires dont tu ne peux pas sortir. Je me retrouvais dans chaque personnage, très étrange. Dire qu’il y en a qui vont passer à côté de ce plaisir de lecture, qui dépasse tellement le plaisir de la lecture… »
+Je rentre d’un footing et découvre que mon copain Lilian a publié [une petite note fort agréable](https://www.facebook.com/lilian.bathelot.9/posts/1513540098787509) sur [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/) : « J'ai lu ce texte d'un trait ou presque, ce qui ne m'était pas arrivé depuis un sacré bout de temps. Un truc magnétique qui te colle aux yeux et te balance dans une ronde d'émotions contradictoires dont tu ne peux pas sortir. Je me retrouvais dans chaque personnage, très étrange. Dire qu'il y en a qui vont passer à côté de ce plaisir de lecture, qui dépasse tellement le plaisir de la lecture… »
 
-Puis je clique sur [la page Babelio du roman](https://www.babelio.com/livres/Crouzet-Mon-pere-ce-tueur/1152642) et je tombe sur ce commentaire : « L’auteur part à la recherche du père dont il raconte les deux années passées à la guerre comme source de sa violence. La quête du père disparu et la transmission est un sujet classique qui touche toujours. L’écriture est simple, elle effleure le sujet, mais il ne faut pas s’attendre à de grandes révélations ! »
+Puis je clique sur [la page Babelio du roman](https://www.babelio.com/livres/Crouzet-Mon-pere-ce-tueur/1152642) et je tombe sur ce commentaire : « L'auteur part à la recherche du père dont il raconte les deux années passées à la guerre comme source de sa violence. La quête du père disparu et la transmission est un sujet classique qui touche toujours. L'écriture est simple, elle effleure le sujet, mais il ne faut pas s'attendre à de grandes révélations ! »
 
 Je me demande ce qu’un roman pourrait révéler de neuf sur la guerre d’Algérie, 60 ans après. Mon but était de retrouver mon père, je n’ai pas cherché le scoop, pas plus que la provocation, pas plus que parler spécialement de l’Algérie. J’adore la référence à l’écriture simple, mais que c’est compliqué d’arriver à une telle simplicité, plus compliqué que jeter des effets de style.
 
@@ -216,13 +216,13 @@ Je me demande ce qu’un roman pourrait révéler de neuf sur la guerre d’Alg�
 
 Tout le monde se donne le droit de juger en ligne et de faire mal, car celui jugé peut se savoir jugé. Les réseaux sociaux portent la négativité jusqu’à sa source imaginaire, et l’impression est de plus en plus forte de vivre dans une époque cataclysmique, juste parce que les « moins » s’amplifient bien plus puissamment que les « plus ». La bêtise suit la même route, ces deux voix se mêlent, il n’en sort rien de bon.
 
-![À vélo](https://tcrouzet.com/images_tc/2019/07/IMG_5537.jpg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5537-600x450.jpg)
 
 ### Jeudi 18, Pézénas
 
-![Porte](https://tcrouzet.com/images_tc/2019/07/IMG_5547.jpg)
+![Porte](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5547-600x450.jpg)
 
-![Hôtel de Lacoste](https://tcrouzet.com/images_tc/2019/07/IMG_5559.jpg)
+![Hôtel de Lacoste](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5559-600x450.jpg)
 
 ### Vendredi 19, Balaruc
 
@@ -238,9 +238,9 @@ Tracer, m’obsède. Je veux éplucher le territoire, en parcourir les méandres
 
 Idée d’un texte romanesque qui serait inspirée d’une histoire vécue par la sœur d’un ami. Elle a la quarantaine quand elle apprend qu’elle a un cancer et que son mari la quitte après l’avoir trompée durant des années. Elle tombe alors éperdument amoureuse d’un collègue de travail avec qui elle vivra avec passion les deux dernières années de sa vie. Le temps des horloges n’a aucun lien avec le temps vécu, avec le temps psychologique. On peut vivre jusqu’au bout. Cette histoire bouleversante et belle nous incite à vivre, à aimer, à nous enthousiasmer. Je pourrais interroger les acteurs de cette aventure, la reconstituer, la réinventer pour en retenir ce qui nous parlerait à tous. Ce pourrait être un texte d’après [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/), dont j’apprends qu’un libraire indépendant en fera son roman de la rentrée, ce qui pourrait paraître anecdotique vu le nombre de libraires en France, mais qui signifie pour moi que ce libraire aime mon texte et a envie de le faire aimer à ses clients.
 
-![À vélo](https://tcrouzet.com/images_tc/2019/07/IMG_5567.jpg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5567-600x450.jpg)
 
-![À vélo, Bellevue](https://tcrouzet.com/images_tc/2019/07/IMG_5574.jpg)
+![À vélo, Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5574-600x450.jpg)
 
 ### Samedi 20, Balaruc
 
@@ -258,7 +258,7 @@ Au café, ma table est excentrée par rapport aux autres, si bien que les passan
 
 J’ai tant oublié, tant négligé, moi-même je me suis perdu de vue. Peut-être que je ne me reconnaîtrais pas. J’en suis pourtant au même point, à m’installer en ville avec des mots à la main, des rêves dans la tête, la musique des voix et des bruits en arrière-plan.
 
-Le ciel s’est figé dans un bleu pâle encore doré, les amples feuilles dentelées des platanes ne bronchent plus, une publicité pour une crème glacée ondule au flanc d’une oriflamme publicitaire, des couples s’arrêtent pour lire la carte affichée devant ma table. « Pourquoi pas là ? Pourquoi ailleurs ? » J’ai connu des époques où il était impossible de dégoter une place sur l’esplanade. Ce soir, les terrasses bruissent sans excès.
+Le ciel s’est figé dans un bleu pâle encore doré, les amples feuilles dentelées des platanes ne bronchent plus, une publicité pour une crème glacée ondule au flanc d’une oriflamme publicitaire, des couples s’arrêtent pour lire la carte affichée devant ma table. « Pourquoi pas là ? Pourquoi ailleurs ? » J’ai connu des époques où il était impossible de dégoter une place sur l'esplanade. Ce soir, les terrasses bruissent sans excès.
 
 Peut-être que les femmes pensent que je suis un pauvre mec, abandonné de tous, ou pire qui travaille à point d’heure. Ou mon statut d’écrivain est-il évident ? Ne suis-je pas le seul avec un ordinateur un samedi soir à l’heure où la plupart des autres retrouvent des amis, ou se terrent dans la solitude ?
 
@@ -270,9 +270,9 @@ Je suis à cette table et elle pourrait être vide et si elle l’était ça ne 
 
 ---
 
-Je marche à travers la vielle ville, aux perspectives étroites et jaunes, avec toujours une silhouette au loin, un point de fuite invitant à tourner, remonter, redescendre, s’appuyer contre un mur, regarder les hautes fenêtres aux volets gris, croiser des rues aussi familières qu’inconnues, riches d’une opulence architecturale presque insupportable, pesant d’un passé lourd d’amours et de crimes. Je débouche Plan de l’université dans un brouhaha extraordinaire de terrasses de café envahies d’étudiants. Il n’y avait rien quand j’étais étudiant, de la terre battue pour jouer au foot, ou même un parking. Je m’installe, je contemple ces gens, tous passionnés, deux gars un peu rondouillards, un peu artistes, pas assez affûtés pour me plaire.
+Je marche à travers la vielle ville, aux perspectives étroites et jaunes, avec toujours une silhouette au loin, un point de fuite invitant à tourner, remonter, redescendre, s’appuyer contre un mur, regarder les hautes fenêtres aux volets gris, croiser des rues aussi familières qu'inconnues, riches d’une opulence architecturale presque insupportable, pesant d’un passé lourd d’amours et de crimes. Je débouche Plan de l’université dans un brouhaha extraordinaire de terrasses de café envahies d’étudiants. Il n’y avait rien quand j'étais étudiant, de la terre battue pour jouer au foot, ou même un parking. Je m’installe, je contemple ces gens, tous passionnés, deux gars un peu rondouillards, un peu artistes, pas assez affûtés pour me plaire.
 
-Je pointe mon téléphone vers des visages et s’affichent sur mon écran leurs préférences sexuelles, leur alignement politique, leurs goûts, leurs amis, leur état-civil et j’en passe. Impossible d’être anonyme, impossible d’être invisible, impossible d’écrire sans attirer l’attention, impossible de vivre. Par chance la connexion est brouillée sur la place. Il s’agit d’un îlot protégé, un îlot où on peut encore être. Les gens s’enfuient en remontant sur leur visage des capuches de moine, en s’enroulant des robes de bure, pour échapper à la traque continuelle des caméras de surveillances montées sur drone.
+Je pointe mon téléphone vers des visages et s’affichent sur mon écran leurs préférences sexuelles, leur alignement politique, leurs goûts, leurs amis, leur état-civil et j’en passe. Impossible d’être anonyme, impossible d’être invisible, impossible d’écrire sans attirer l’attention, impossible de vivre. Par chance la connexion est brouillée sur la place. Il s’agit d’un îlot protégé, un îlot où on peut encore être. Les gens s’enfuient en remontant sur leur visage des capuches de moine, en s'enroulant des robes de bure, pour échapper à la traque continuelle des caméras de surveillances montées sur drone.
 
 De la science-fiction ? Même pas. Cet avenir est trop évident. Parler de choses encore plus évidentes, de la vie, de l’amour et de la mort. Quand la technologie se développe exponentiellement, il faut se placer en retrait, dans les replies qui échappent encore à sa juridiction. Être moderne, c’est survivre à l’inquisition. Être moderne, c’est être technologique en creux.
 
@@ -294,7 +294,7 @@ Michon définit le carnet : « C’est un opérateur d’accélération pour d
 
 On est en 2002 quand Michon parle du carnet. On en était encore à une époque de transition entre papier et numérique. Cette évocation de l’écriture manuscrite sur papier donne un côté suranné au discours de Michon.
 
-À cette époque, je travaillais aussi sur papier. D’un côté, il y avait les carnets, pas très différents de mes carnets numériques actuels, d’un autre côté, il y avait les cahiers où j’écrivais, construisais, avant de retranscrire. Quand des idées me venaient en extérieur, j’ouvrais le carnet en cours à l’envers. L’objet avait ainsi une double fonction.
+À cette époque, je travaillais aussi sur papier. D’un côté, il y avait les carnets, pas très différents de mes carnets numériques actuels, d’un autre côté, il y avait les cahiers où j’écrivais, construisais, avant de retranscrire. Quand des idées me venaient en extérieur, j'ouvrais le carnet en cours à l'envers. L’objet avait ainsi une double fonction.
 
 J’ai parfois encore besoin de l’écriture manuscrite dans les phases préliminaires d’un travail (souvent sur l’écran de mon iPad). Pour cartographier, agencer, gribouiller, noter dans le désordre. Mais c’est de plus en plus rare.
 
@@ -304,7 +304,7 @@ Vivre l’été, être dehors, attendre que la chaleur sculpte le temps de nuanc
 
 ---
 
-Il y a des gens immondes, moins ils ont de talent, plus ils sont immondes. Il faut les croiser pour s’en rendre compte. Je me présente, le gars me dit « Ha oui » et me tourne le dos comme si c’était lui qui était le plus lu et qu’il en tirait une gloire trop élevée pour s’abaisser à discuter avec moi. Deux personnes en deux minutes ont réagi de la même façon. Me souvenir de ces moments, ne jamais les oublier quoiqu’il arrive, quelles que soient les griseries mondaines auxquelles je pourrais être invité.
+Il y a des gens immondes, moins ils ont de talent, plus ils sont immondes. Il faut les croiser pour s'en rendre compte. Je me présente, le gars me dit « Ha oui » et me tourne le dos comme si c’était lui qui était le plus lu et qu’il en tirait une gloire trop élevée pour s’abaisser à discuter avec moi. Deux personnes en deux minutes ont réagi de la même façon. Me souvenir de ces moments, ne jamais les oublier quoiqu’il arrive, quelles que soient les griseries mondaines auxquelles je pourrais être invité.
 
 ### Vendredi 26, Balaruc
 
@@ -336,18 +336,20 @@ J’ai lu *La Grande Beune* de Michon, beau texte sur le désir, un texte bref a
 
 ### Dimanche 28, Montpellier
 
-![Rue du Musée](https://tcrouzet.com/images_tc/2019/07/E69F6D8C-088B-4E5D-82C5-7BE7735C6335.jpg)
+![Rue du Musée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/E69F6D8C-088B-4E5D-82C5-7BE7735C6335-600x450.jpg)
 
-![Silence du midi](https://tcrouzet.com/images_tc/2019/07/IMG_5641.jpg)
+![Silence du midi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/07/IMG_5641-600x450.jpg)
 
 ### Lundi 29, Balaruc
 
-Je dépose mon Mac chez Apple pour remplacement de cette abomination de clavier butterfly. Me retrouve à écrire sur mon téléphone avec mon clavier de campagne, un grand mot écrire, je pense surtout à ma fesse gauche où un poil teigneux a ouvert un passage à quelques millions de bactéries qui ont bourgeonné à sa racine et m’empêchent de poser mon fondement sur une selle de vélo, tout ça à dix jours de ma grande traversée Méditeranée-Atlantique.
+Je dépose mon Mac chez Apple pour remplacement de cette abomination de clavier butterfly. Me retrouve à écrire sur mon téléphone avec mon clavier de campagne, un grand mot écrire, je pense surtout à ma fesse gauche où un poil teigneux a ouvert un passage à quelques millions de bactéries qui ont bourgeonné à sa racine et m'empêchent de poser mon fondement sur une selle de vélo, tout ça à dix jours de ma grande traversée Méditeranée-Atlantique.
 
 ---
 
-Idée d’un gros livre où le texte serait flouté sauf à de rares moments, laissant deviner une histoire dont il ne subsisterait que des vestiges. Une fausse idée, car seulement formelle en l’absence d’un sujet qui justierait cette forme.
+Idée d'un gros livre où le texte serait flouté sauf à de rares moments, laissant deviner une histoire dont il ne subsisterait que des vestiges. Une fausse idée, car seulement formelle en l'absence d'un sujet qui justierait cette forme.
 
 ---
 
 Un homme envoie tous les jours une carte postale à une femme, elle ne les lit pas, les jette à la poubelle. Et puis, un jour, les envois cessent et elle s’inquiète, part à sa recherche.
+
+Tags: Carnets, une

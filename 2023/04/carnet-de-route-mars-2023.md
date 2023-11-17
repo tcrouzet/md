@@ -157,3 +157,5 @@ Je lis *Le Passager* de Cormac McCarthy. Il me laisse froid. Les italiques avec 
 ### Vendredi 31, Balaruc
 
 Hallucinations nocturnes. J’entrevois un lien entre les trous noirs et la conscience. Parfois une grande forme s’ouvre en moi et avale tout. J’ai si peur que je m’éveille.
+
+Tags: Carnets, une

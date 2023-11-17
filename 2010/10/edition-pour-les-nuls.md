@@ -4,7 +4,7 @@ Au milieu des années 1990, j’avais un ami photographe à qui je conseillais s
 
 Nous en sommes aujourd’hui avec l’édition électronique dans la même situation que la photographie à la fin des années 1990. Dans dix ans, il n’y aura plus de papier, sinon chez quelque bouquinistes. Avec cette prévision, je me trompe peut-être de quelques années, guère plus. Bien sûr que des catastrophes peuvent tout remettre en cause, mais nous approchons du point de bascule.
 
-![](https://tcrouzet.com/images_tc/2010/10/191181494_0fe83bdda91.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/10/191181494_0fe83bdda91-450x337.jpg)
 
 Les éditeurs l’ont compris. [Ils paniquent](http://www.ebouquin.fr/2010/10/04/sne-un-vent-dautomne-souffle-sur-ledition-francaise/), faisant preuve d’un corporatisme affligeant. J’aime rappeler que quand on a peur du changement, on a la peur et le changement. Et ils ne le digéreront pas. Il leur restera en travers de la gorge.
 
@@ -16,7 +16,7 @@ J’ai souvent parlé de cette étreinte fatale. J’ai fait sourire, maintenant
 
 Assisterons-nous à une guerre de tranchées ou au contraire à une grande négociation confraternelle autour d’une table dans un palace parisien ? Il ne faut pas rêver. Il n’y aura pas de transition pacifique vers le numérique. Les anciens s’accrocheront à leurs privilèges. Ils ne les cèderont qu’au compte-gouttes. Ils tenteront de freiner le mouvement irréversible, juste pour durer un peu plus. Ils nous empêcheront d’innover par tous les moyens, jouant du lobbying auprès des politiciens tout aussi largués qu’eux. Ils nous rejoueront la bataille d’Hadopi.
 
-Qu’allons-nous devenir nous les activistes de l’édition électronique ? Sommes-nous prêts à participer à la bataille ou serons-nous submergés par la vague des nouveaux venus ? Être présent le premier n’a souvent que peu d’intérêt. Tout dépendra de ce que nous écrirons. Nous verrons bien si, quand les projecteurs passeront au-dessus de nos têtes, quelques-uns de nos écrits de pure player attireront l’attention. Nous aurons notre minute de gloire comme ces blogueurs qui soudain avaient inquiété les journalistes au milieu des années 2000. Qu’en ferons-nous ? Deux ou trois d’entre nous s’en gargariseront… Mais saurons-nous créer un mouvement énergisant pour la société ?
+Qu’allons-nous devenir nous les activistes de l’édition électronique ? Sommes-nous prêts à participer à la bataille ou serons-nous submergés par la vague des nouveaux venus ? Être présent le premier n’a souvent que peu d’intérêt. Tout dépendra de ce que nous écrirons. Nous verrons bien si, quand les projecteurs passeront au-dessus de nos têtes, quelques-uns de nos écrits de pure player attireront l’attention. Nous aurons notre minute de gloire comme ces blogueurs qui soudain avaient inquiété les journalistes au milieu des années 2000. Qu’en ferons-nous ? Deux ou trois d’entre nous s’en gargariseront... Mais saurons-nous créer un mouvement énergisant pour la société ?
 
 Le moment de vérité approche. Nombre de pure players se plaignent de leur isolement d’anonyme, du manque de curiosité des lecteurs, de la frilosité des critiques. Cela changera du jour au lendemain. Serons-nous encore debout ? Pour la plupart nous déchanterons. Tous ceux qui se réfugient derrière le paravent de l’avant-garde et de l’underground n’auront plus aucune raison de geindre. Nous devrons combattre avec nos mots. Nous n’aurons plus d’excuse.
 
@@ -35,3 +35,5 @@ Alors ceux qui sont venus au numérique par dépit, après avoir renoncé au com
 Ne voici qu’un combat annexe. Notre seul défi, c’est de faire émerger des pensées stupéfiantes. De prouver que nous ne vivons pas une époque de décérébrés. Cette idée reçue s’amplifie depuis des décennies. La cause : les éditeurs justement. Ils sont coupables. Parce qu’ils ont trop longtemps détenu les clés d’une culture qu’ils ont laissé s’endormir, une culture qu’ils ont dévolu au seul divertissement doucereux, une culture dont ils nous ont persuadés qu’elle était la seule pensable, la leur.
 
 [Relisez leurs noms.](http://www.sne.fr/pages/informations/communiques/liste-des-signataires2.html) Mettez en doute leurs propos comme leurs publications. Ils ne veulent pas d’un autre monde. Ne les croyez pas quand ils vous parlent d’une autre littérature. Ils ne veulent pas le changement. Alors certains se réveilleront peut-être à force de nous entendre crier. On a besoin de vous dans l’autre camp. Vous avez le droit de changer d’avis.
+
+Tags: édition, NetLittérature, noepub, une

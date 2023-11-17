@@ -18,7 +18,7 @@ En 1994, suite à des coups de gueules à répétition lorsque j’étais rédac
 
 Je ne aurais pas eu tout ce temps sans le chômage subventionné. Tous ce temps où j’ai écrit mes premiers livres d’informatique, je ne l’aurais pas eu pour dégager du temps pour les années à venir. Sans ce temps, j’aurais dû retrouver immédiatement un poste, mener une vie d’employé, poursuivre sur la voie dans laquelle je m’étais initialement engagé.
 
-J’ai eu besoin de l’État pour imaginer qu’un monde sans État était possible, tout comme le second étage de la fusée a besoin du premier avant de s’en libérer. Je ne suis donc pas contre l’État, contre la démocratie représentative, contre les règles qui régissent aujourd’hui notre société, je crois au contraire qu’elles vont nous servir d’étage de lancement vers autre chose.
+J’ai eu besoin de l’État pour imaginer qu’un monde sans État était possible, tout comme le second étage de la fusée a besoin du premier avant de s’en libérer. Je ne suis donc pas contre l’État, contre la démocratie représentative, contre les règles qui régissent aujourd'hui notre société, je crois au contraire qu’elles vont nous servir d’étage de lancement vers autre chose.
 
 L’évolution a toujours fonctionné de la sorte. Des organismes apparaissent qui ont pour fonction de préparer l’apparition d’autres organismes. Une fois qu’ils ont effectué leur travail, ils disparaissent, ils ne sont plus nécessaires (en informatique on parle de bootstrapping). Les révolutions qui font table rase ne durent pas. Les révolutions profondes s’appuient sur l’existant, elles se lancent puis larguent les amarres.
 
@@ -35,3 +35,5 @@ Quand j’entends certains libéraux dire qu’il suffit d’user de sa liberté
 Certains diront que l’État peut intervenir. Mais l’État peut-il nous aider à nous émanciper de l’État et se priver peu à peu d’utilité ? Je crois que, comme pour moi, il le peut mais par hasard.
 
 Certains dinosaures étaient couverts de plumes car elles présentent la meilleure protection thermique. Accessoirement, elles sont légères… et certains petits dinosaures apprirent à voler. Comme la plume est apparue avant le vol, la rémunération sans travail, le chômage, est apparu avant la société décentralisée. Il peut être l’occasion d’apprendre à voler de ses propres ailes.
+
+Tags: Politique

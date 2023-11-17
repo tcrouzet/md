@@ -2,7 +2,7 @@
 
 Chaque fois que quelqu’un vous dira « J’aime lire des livres. » répondez-lui « Moi, j’aime lire des PDF. » Vous lui montrerez peut-être qu’il dit n’importe quoi.<span id="more-12413"></span>
 
-Un livre est une interface de lecture. Nous avons tendance à oublier que le livre n’est qu’une technologie. Dans une première version de mon prochain livre, j’avais écrit quelques lignes à ce sujet que j’ai depuis coupées parce qu’elle s’éloignaient de mon sujet central.
+Un livre est une interface de lecture. Nous avons tendance à oublier que le livre n’est qu’une technologie. Dans une première version de mon prochain livre, j’avais écrit quelques lignes à ce sujet que j’ai depuis coupées parce qu'elle s'éloignaient de mon sujet central.
 
 ---
 
@@ -54,19 +54,19 @@ Les diffuseurs de PDF estiment le nombre de download, donnée techniquement sans
 
 Un livre vendu à 1 000 exemplaires en librairie serait-il distribué à 1 000 exemplaires s’il était gratuit ? Non. Le fait de devoir débourser indique un intérêt qui dépasse la simple curiosité étanchée par un clic. Pour cette seule raison, nous ne pouvons pas nous contenter de balancer nos textes dans le vide intersidéral.
 
-J’ai par ailleurs exprimé pourquoi j’attachais de l’importance à [l’interactivité comme force créative](https://tcrouzet.com/2009/11/30/je-deteste-jeter/). En tant qu’auteur, j’avoue que j’ai du mal à m’en passer, que c’est une nouvelle dimension que nous explorons et qui forcément oriente nos productions dans des directions que nous sommes les premiers à pouvoir explorer.
+J’ai par ailleurs exprimé pourquoi j’attachais de l’importance à [l’interactivité comme force créative](http://blog.tcrouzet.com/2009/11/30/je-deteste-jeter/). En tant qu’auteur, j’avoue que j’ai du mal à m’en passer, que c’est une nouvelle dimension que nous explorons et qui forcément oriente nos productions dans des directions que nous sommes les premiers à pouvoir explorer.
 
 Dès que de nouveaux pigments sont apparus, des nouvelles peintures ont été disponibles, les peintres les ont exploitées. Je ne vois pas pourquoi nous autres écrivains nous ne ferions pas pareil. L’outil a toujours influencé l’art. Il n’y a pas d’art sans outil (certains étant embedded bien sûr). L’interactivité est notre nouvel outil, pour le meilleur et pour le pire.
 
-Dedalus écrit « le lecteur a un droit imprescriptible au silence et à l’anonymat. » Personne ne remet en question ce droit mais l’auteur, lui, peut vouloir une autre relation avec ses lecteurs et certains d’entre eux peuvent avoir envie d’une autre relation. D’une cocréation.
+Dedalus écrit « le lecteur a un droit imprescriptible au silence et à l'anonymat. » Personne ne remet en question ce droit mais l’auteur, lui, peut vouloir une autre relation avec ses lecteurs et certains d’entre eux peuvent avoir envie d’une autre relation. D’une cocréation.
 
-C’est mon cas. J’écris pour créer des liens. Non pas seulement pour me faire du bien. J’imagine faire aussi du bien au lecteur. Et j’estime normal qu’il puisse avoir l’occasion de se manifester. D’interagir avec moi et avec les autres lecteurs. C’est ainsi que nous nous spiritualiserons, que nous nous détournerons de plus en plus du domaine matériel pour mener une vie riche en rencontres. Lire a longtemps été un acte consumériste, lié à l’objet livre. Nous devons dépasser ce stade.
+C’est mon cas. J’écris pour créer des liens. Non pas seulement pour me faire du bien. J’imagine faire aussi du bien au lecteur. Et j’estime normal qu’il puisse avoir l’occasion de se manifester. D’interagir avec moi et avec les autres lecteurs. C'est ainsi que nous nous spiritualiserons, que nous nous détournerons de plus en plus du domaine matériel pour mener une vie riche en rencontres. Lire a longtemps été un acte consumériste, lié à l'objet livre. Nous devons dépasser ce stade.
 
-Pour le feuilleton style *Croisade*, l’interaction se produit au lancement de l’histoire, les premières semaines, quand les choses sont imprécises… après elle n’est plus nécessaire, le lecteur est embarqué ou il a déserté. Mais le roman n’est qu’une forme d’écriture. Avec un essai, on a besoin de l’intelligence collective à tout moment, du début à la fin, l’interactivité est une nécessité. Et même dans un roman, je trouve dommage le silence du lecteur. J’aurais envie qu’il habite le texte d’une autre façon.
+Pour le feuilleton style *Croisade*, l'interaction se produit au lancement de l'histoire, les premières semaines, quand les choses sont imprécises... après elle n'est plus nécessaire, le lecteur est embarqué ou il a déserté. Mais le roman n'est qu'une forme d'écriture. Avec un essai, on a besoin de l'intelligence collective à tout moment, du début à la fin, l'interactivité est une nécessité. Et même dans un roman, je trouve dommage le silence du lecteur. J'aurais envie qu'il habite le texte d'une autre façon.
 
 ### Fluidifier les textes longs
 
-L’interaction ne peut survenir que s’il y a fluidité, passage du solide au liquide. Comment les auteurs à la recherche de l’interactivité peuvent-ils rendre liquide un texte long ?
+L’interaction ne peut survenir que s’il y a fluidité, passage du solide au liquide. Comment les auteurs à la recherche de l'interactivité peuvent-ils rendre liquide un texte long ?
 
 Après la publication, nous devons offrir toutes les possibilités développées pour les textes courts. Faciliter l’annotation à tous les niveaux du texte pour créer des débats locaux. C’est une façon automatique de découper les textes longs en textes courts.
 
@@ -77,3 +77,5 @@ Quand je lis un roman, je n’ai pas envie d’annoter chaque paragraphe. C’es
 Une autre stratégie consiste peut-être à simuler la fluidité. Il ne s’agit plus de déverser un texte de but en blanc mais de lui donner vie, de tenir compte de ce qui se passe dans les paragraphes déjà publiés avant de publier les suivants. C’est ce que nous faisons dans un blog. Les commentaires influencent la suite.
 
 Le texte long initial ne doit pas être sacré mais ouvert. Sinon il ne s’agit que d’un découpage en feuilletons, un simulacre de fluidité. À ce jour, je ne vois pas d’autres possibilités que de désacraliser le texte long initial. Avec mon manuscrit sur le flux, j’ai envie d’explorer cette piste.
+
+Tags: NetCulture

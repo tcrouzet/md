@@ -12,6 +12,8 @@ Peut-être que mon coup de mou vient d’une autre fatigue, celle d’avoir l’
 
 Je suis bassement humain. J’ai besoin qu’on me cajole de temps en temps. De ressentir que mon travail connaît quelques échos. Je ne crois pas au mythe de l’écrivain qui n’écrit que pour lui. Nos mots n’existent que dans la tête du lecteur. Sans lecteur, notre travail reste inachevé.
 
-![](https://tcrouzet.com/images_tc/2011/02/vitamin.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/02/vitamin.jpg)
 
 J’ai beau être un guerrier, il m’arrive aussi de connaître mes moments de découragements. Mais le hasard me joue toujours des tours. Je n’ai pu m’empêcher d’écrire ce billet parce que quand je suis rentré chez moi j’ai découvert un cadeau promotionnel envoyé par une attachée de presse. [De l’eau vitaminée.](http://www.vitaminwater.fr) C’est exactement ce dont j’ai besoin.
+
+Tags: J'ai débranché, une

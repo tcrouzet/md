@@ -8,7 +8,7 @@ La culture, aussi fondamentale que l’air que nous respirons, que le sol sur le
 
 Le hacker en cherchant à la libérer ne la vole pas, il se bat contre les voleurs, contre ceux qui cherchent à se l’approprier, à la rendre rare pour mieux la monnayer. Le hacker est un Robin des Bois. Je voudrais tenter de le décrire en dix points.
 
-![hacker-culture-le-remake.gif](https://tcrouzet.com/images_tc/2007/10/hacker-culture-le-remake.gif)
+![hacker-culture-le-remake.gif](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/hacker-culture-le-remake.gif)
 
 ### 1/ Devoir de différence
 
@@ -54,7 +54,7 @@ Peut-être qu’apparaît aujourd’hui un nouveau couple : Réseau/Don. Des r�
 
 Lors des manifestations artistiques à venir, nous ne devrions plus voir sur les flyers promotionnels des logos d’institutions et d’entreprises mais les logos des réseaux impliquées. La fonction Cause de Facebook nous laisse entrevoir comment des réseaux pourraient se fédérer. Le don et l’échange deviendraient les monnaies qualitatives de cette nouvelle société.
 
-### 7/ Éloge de l’empirisme
+### 7/ Éloge de l'empirisme
 
 Dans ce monde de réseaux sans représentation stable, ce n’est pas parce qu’une chose n’a jamais existé qu’elle ne peut pas exister. Aucune forme dominante ne peut nous dissuader de tenter des expériences. La méthode de l’essai et de l’erreur est la seule envisageable.
 
@@ -82,4 +82,6 @@ Au final, le hacker est un connecteur. Ces deux mots sont synonymes pour moi. Mc
 
 Si je ne suis pas trop loin de vivre selon ces préceptes hackers/connecteurs, je vous accorde que c’est loin d’être gagné pour l’ensemble de la population. Je ne désespère pas. Je crois que nous avons un besoin vital de cette approche pour régler les problèmes auxquels se confronte le monde.
 
-*PS : Voilà ce que j’aurais pu dire lors de* [*ma conférence de Marseille*](https://tcrouzet.com/2007/10/27/hackulturation/)*.*
+*PS : Voilà ce que j’aurais pu dire lors de* [*ma conférence de Marseille*](http://blog.tcrouzet.com/2007/10/27/hackulturation/)*.*
+
+Tags: Connecteur

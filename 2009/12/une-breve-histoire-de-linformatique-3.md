@@ -8,10 +8,12 @@ Elias Stadiatos se trouvait à 60 mètres de fond lorsqu’il tira sur la corde 
 
 Durant les deux ans qui suivirent, les archéologues explorèrent le site. Le 17 mai 1902, ils notèrent non loin de l’épave une roue avec engrenages enchâssée dans un rocher. C’était comme si une horloge avait été immergée durant deux millénaires. Mais les horloges de cette complexité ne furent inventées qu’au xixe siècle par les horlogers suisses !
 
-— Cet appareil est tout simplement extraordinaire, expliqua le professeur Michael Edmunds qui étudia ce mécanisme . Le seul de son espèce. Au regard de sa valeur historique, je le considère comme plus précieux que la Joconde.
+\— Cet appareil est tout simplement extraordinaire, expliqua le professeur Michael Edmunds qui étudia ce mécanisme . Le seul de son espèce. Au regard de sa valeur historique, je le considère comme plus précieux que la Joconde.
 
 Michael Edmunds et son équipe découvrirent sur les engrenages des inscriptions qui laissent supposer une origine syracusaine du mécanisme et qui le rattachent au iiie siècle avant Jésus-Christ et à Archimède . Celui que l’on considère souvent comme le plus grand mathématicien et ingénieur de tous les temps aurait été le créateur du mécanisme, tout au moins d’un de ses prototypes, car le modèle exhumé fut assemblé entre 150 et 100 avant Jésus-Christ.
 
 Les anciens construisirent cette horlogerie pour prévoir la position des planètes et anticiper les éclipses. Des engrenages et des roues de bronze représentaient le soleil, la lune, la terre et leurs orbites. Quand ils s’animaient, ils imitaient l’univers, ils le simulaient.
 
 Ce modèle réduit est l’ordinateur analogique le plus ancien dont nous possédions des vestiges. Ils témoignent d’un art et d’un niveau de technologie que nous ne soupçonnions pas durant l’antiquité. Quel aurait été le cours de l’histoire si les Romains n’avaient pas délaissé les innovations grecques ? Artur C. Clarke, l’auteur de *2001 l’Odyssée de l’espace*, affirme que nous aurions déjà atteint les étoiles.
+
+Tags: NetCulture, noepub, Une brève histoire de l'informatique

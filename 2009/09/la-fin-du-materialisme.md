@@ -1,12 +1,12 @@
 # La fin du matérialisme
 
-Je tourne dans tous les sens les titres possibles pour mon livre sur [les flux](https://tcrouzet.com/tag/flux/). *La fin du matérialisme* est sans toute le titre le plus plat mais aussi celui qui décrit bien de quoi il s’agit : la migration progressive vers toujours plus d’immatériel, vers un monde où la culture primera sur la possession, condition nécessaire pour que notre monde puisse prétendre à une quelconque durabilité. J’ai rassemblé toutes vos propositions, plus d’autres surgis en cours de route.<span id="more-10015"></span>
+Je tourne dans tous les sens les titres possibles pour mon livre sur [les flux](http://blog.tcrouzet.com/tag/flux/). *La fin du matérialisme* est sans toute le titre le plus plat mais aussi celui qui décrit bien de quoi il s’agit : la migration progressive vers toujours plus d’immatériel, vers un monde où la culture primera sur la possession, condition nécessaire pour que notre monde puisse prétendre à une quelconque durabilité. J’ai rassemblé toutes vos propositions, plus d’autres surgis en cours de route.<span id="more-10015"></span>
 
 ### Mes préférés
 
 La numérisation du monde
 
-L’homme déchaîné
+L'homme déchaîné
 
 Liquide = durable
 
@@ -22,7 +22,7 @@ Un nouvel état du monde
 
 La grande digitalisation
 
-Tout s’écoule
+Tout s'écoule
 
 Enfin libre
 
@@ -86,7 +86,7 @@ Du sens au sans
 
 Avec ou sans ?
 
-Le paradigme de l’immatériel
+Le paradigme de l'immatériel
 
 ### Double sens (pas top pour un essai)
 
@@ -179,3 +179,5 @@ Quand la culture, l’économie, la politique se liquéfient.
 L’avenir d’une révolution culturelle, économique, politique et spirituelle.
 
 L’avenir d’un monde où l’extérieur n’existe plus.
+
+Tags: NetCulture

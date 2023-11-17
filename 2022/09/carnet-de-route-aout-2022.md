@@ -4,7 +4,7 @@
 
 ### Lundi 1, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2022/09/IMG_8599.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8599.jpeg)
 
 ### Mardi 2, Balaruc
 
@@ -18,9 +18,9 @@ J’ai repris *Quelques atomes de vérité*, je tente des variations sur le prem
 
 Depuis hier, j’écris une seconde nouvelle dans l’univers posé par la première, et j’ai l’idée de trois autres. Il ne s’agit plus de nouvelles, mais des facettes d’un kaléidoscope. Je doute de pouvoir retrouver la pureté de la première, mais je reste sur une vague porteuse et une écriture joyeuse.
 
-![Castelnau-de-Guers](https://tcrouzet.com/images_tc/2022/09/IMG_8604.jpeg)
+![Castelnau-de-Guers](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8604.jpeg)
 
-![La terrasse](https://tcrouzet.com/images_tc/2022/09/IMG_8610.jpeg)
+![La terrasse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8610.jpeg)
 
 ### Vendredi 5, Balaruc
 
@@ -32,21 +32,21 @@ Jean-Hugues m’avait demandé 25 000 signes, et j’écris 25 000 signes, ni pl
 
 ### Samedi 6, Balaruc
 
-![Après le feu](https://tcrouzet.com/images_tc/2022/09/IMG_8616.jpeg)
+![Après le feu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8616.jpeg)
 
-![Après le feu](https://tcrouzet.com/images_tc/2022/09/IMG_8618.jpeg)
+![Après le feu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8618.jpeg)
 
-![Après le feu](https://tcrouzet.com/images_tc/2022/09/IMG_8625.jpeg)
+![Après le feu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8625.jpeg)
 
-![Après le feu](https://tcrouzet.com/images_tc/2022/09/IMG_8635.jpeg)
+![Après le feu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8635.jpeg)
 
-![Après le feu](https://tcrouzet.com/images_tc/2022/09/IMG_8641.jpeg)
+![Après le feu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8641.jpeg)
 
 ### Lundi 8, Balaruc
 
 Duras : « C’est comme si j’apprenais que tout ne peut pas relever de l’écriture, que celle-ci s’arrête qu’on le veuille ou non devant des portes qui sont fermées alors que je crois le contraire, qu’elle traverse tout, les portes fermées aussi, peu importe la raison pourquoi. » Je ne sais si l’écriture traverse les portes, je ne comprends pas trop cette notion de portes et de domaines interdits, parce que s’ils l’étaient à l’écriture, ils le seraient aussi à l’introspection, à la conscience, à la pensée, au ressenti, et alors ils seraient des imperçus et il n’y aurait rien à en dire. En revanche, je sais que l’écriture peut créer des mondes, des pays, des personnages, des dieux. Elle n’est pas seulement un microscope ou un télescope, un scanner qui passerait à travers tous les murs. Elle est avant tout une machinerie à fabriquer du merveilleux. J’écris souvent pour dire ce que je ressens, ce qui m’arrive, mais quand je sors de moi par l’imaginaire je m’allège et l’allégresse s’empare de moi. Même si le texte finalement écrit n’intéressera personne, il m’aura enthousiasmé.
 
-![Soir](https://tcrouzet.com/images_tc/2022/09/IMG_8648.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8648.jpeg)
 
 ### Mardi 9, Balaruc
 
@@ -92,7 +92,7 @@ Le problème est sans doute plus intime : j’ai toujours été contre, en oppo
 
 ### Vendredi 12, Balaruc
 
-Je lis la terrible histoire du coupeur d’eau de Duras (qui coupe l’eau d’une ruine où un famille en conséquence se suicide), et je me dis que je n’en écrirais jamais de semblables parce que je ne croise jamais ou presque la route des faits-divers, parce que je ne consomme aucun média qui en parle, ou quand ils le font, c’est avec tant de bruit, de commentaires, qu’écrire me paraît inutile. Aujourd’hui, soit le silence, soit le vacarme accompagne les faits-divers et ils échappent à la littérature, qui n’a besoin que d’un faible murmure pour se mettre elle-même à gronder.
+Je lis la terrible histoire du coupeur d’eau de Duras (qui coupe l'eau d'une ruine où un famille en conséquence se suicide), et je me dis que je n’en écrirais jamais de semblables parce que je ne croise jamais ou presque la route des faits-divers, parce que je ne consomme aucun média qui en parle, ou quand ils le font, c’est avec tant de bruit, de commentaires, qu’écrire me paraît inutile. Aujourd’hui, soit le silence, soit le vacarme accompagne les faits-divers et ils échappent à la littérature, qui n’a besoin que d’un faible murmure pour se mettre elle-même à gronder.
 
 Ce matin, j’ai lu des nouvelles de la guerre en Ukraine, où un général russe évoque l’obsolescence de sa propre armée, un point sur la construction d’un nouveau télescope géant, et [un article scientifique remarquable](https://neurosciencenews.com/physics-consciousness-21222/), peut-être révolutionnaire, qui suggère d’analyser la conscience avec une approche relativiste. Jusqu’ici nous n’arrivons pas à conjuguer expérience intérieure et mesure objective, exactement comme le passager du train qui voit l’extérieur se déplacer dans le sens inverse du train, alors qu’un observateur extérieur immobile voit le passager foncer avec le train. Deux expériences différentes d’un même phénomène, qui exigent une mathématique relativiste.
 
@@ -148,9 +148,9 @@ Durant tout l’après-midi, j’entends la musique des joutes, je vois la barqu
 
 Hier, je suis passé au moment des finales, parce que le grand tournoi du village dure plusieurs jours, avec des tentes pour protéger les spectateurs du soleil, des gradins montés le long du port, l’avenue interdite à la circulation. À la buvette, j’ai croisé un vieil ami. Il y avait les prémices d’aujourd’hui, mais je n’y suis pas retourné, comme si je voulais garder les 15 août de mon enfance dans mon souvenir. Depuis plus de vingt ans, je passe les mois d’août ailleurs, mais pas cette année, je ne pars qu’après-demain.
 
-![Frontignan](https://tcrouzet.com/images_tc/2022/09/IMG_8662.jpeg)
+![Frontignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8662.jpeg)
 
-![Pérols](https://tcrouzet.com/images_tc/2022/09/IMG_8671.jpeg)
+![Pérols](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8671.jpeg)
 
 ### Mardi 16, Balaruc
 
@@ -166,7 +166,7 @@ Dans mon roman à facettes, je dois me garder de cette tentation du toujours plu
 
 Sensation d’un vide, d’un manque, de solitude, d’abandon, chaque fois que je termine la lecture d’un livre que j’ai ressenti intimement. Fin de *La vie matérielle* de Duras. Je n’éprouve pas cette sensation avec tous les livres, seulement avec ceux qui ont de l’importance pour moi, les autres souvent je ne les termine pas. Je termine peu de livres, alors peut-être que cette rare prouesse explique mon trouble. Des films m’ont laissé comme ça. *L’Aventura* la première fois. *Andreï Roublev*. Hier soir, j’ai regardé le début du *Guépard*, toujours aussi beau, même sur mon écran d’ordinateur, presque trop beau, j’ai dû arrêter pour basculer sur une sombre merde pour me soulager de l’excès de beauté. Voilà pourquoi je ne visite plus les musées. Les œuvres m’affectent trop intensément et j’ai du mal à m’en remettre. La nature aussi est parfois douloureuse, mais elle ne s’achève pas, c’est moi qui m’en détourne comme d’un livre que j’aime et que pourtant je ne terminerai jamais. Il doit me rester quelques lettres de la correspondance de Flaubert que je n’ai pas lues, que je ne lirai sans doute jamais.
 
-![Orage](https://tcrouzet.com/images_tc/2022/09/IMG_8679.jpeg)
+![Orage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8679.jpeg)
 
 ### Mercredi 17, Balaruc
 
@@ -184,7 +184,7 @@ Blanchot : « Écrire, c’est entrer dans l’affirmation de la solitude où 
 
 Je suis fatigué par cette idée rabâchée au sujet de la solitude de l’écriture. Non, ce n’est pas une nécessité, pour preuve les ateliers d’écriture, l’écriture participative comme j’ai pu la pratiquer, le blog ou écriture et lecture coïncident pratiquement et s’entretiennent l’une l’autre, même ce journal ne s’écrit pas dans la solitude. Je ne réussis à écrire que quand je me sens au milieu des autres, connecté à eux, sinon je divague.
 
-### Jeudi 18, Montagnac
+### Jeudi 18, Maillardou
 
 L’écrivain peut croire qu’il œuvre même quand il n’a rien à dire.
 
@@ -192,13 +192,13 @@ L’écrivain peut croire qu’il œuvre même quand il n’a rien à dire.
 
 Mon beau-père n’arrive pas à imprimer depuis son iPhone. Je lui explique la procédure, puis je lui demande de tester avec un document au hasard. Il imprime un PDF en provenance de chez Adobe. Ça marche. Je lui ramène l’impression tout en lisant le document. C’est une facture. Moi : « Pourquoi vous êtes abonné à ce service ? » Lui n’en sait rien. Je me connecte à son compte Adobe et découvre qu’il a souscrit sans conscience pour près de 300 euros d’abonnement annuel dont il n’a aucun usage. J’ai le plus grand mal à supprimer tout ça. À tout hasard, je regarde les abonnements sur son iPhone et découvre un Microsoft 365 dont il n’a pas d’avantage l’usage. Bilan 350 € par an économisés. Combien d’autres abonnements inutiles a-t-il souscrits à cause de messages publicitaires trompeurs ? On n’est pas loin du racket, voire de l’escroquerie.
 
-![Tabac](https://tcrouzet.com/images_tc/2022/09/IMG_8691.jpeg)
+![Tabac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8691.jpeg)
 
-![Windows XP](https://tcrouzet.com/images_tc/2022/09/IMG_8729.jpeg)
+![Windows XP](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8729.jpeg)
 
-![Windows XP](https://tcrouzet.com/images_tc/2022/09/IMG_8732.jpeg)
+![Windows XP](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8732.jpeg)
 
-### Vendredi 19, Montagnac
+### Vendredi 19, Maillardou
 
 Matisse regarde une photo d’un de ses premiers tableaux et trouve que tout y est déjà, même si à l’époque il trouvait ce tableau mal fichu. « Au fond je n’ai fait par la suite que développer cette idée, vous savez on n’a qu’une idée, on naît avec, toute sa vie durant on développe son idée fixe, on la fait respirer. » Matisse se trompe. Ce qu’il voit de commun à tous ces tableaux n’est pas une idée qui serait là depuis le début, mais un processus qui mène des uns aux autres et les connecte à travers le temps. Il voit une filiation, une parenté, même quand nous autres ne la voyons pas, il la voit parce que cette parenté c’est lui.
 
@@ -216,15 +216,15 @@ J’aime qu’une idée se développe d’elle-même et retombe dans un même mo
 
 Matisse parle de la retouche, des tableaux qu’il garde à vue pour y revenir de jour en jour. Même si je privilégie le jet, je reviens sans cesse sur mes textes jusqu’à ce que je n’y parvienne plus. Je tente de ne pas distendre et perdre la vitalité initiale, j’ai toujours peur de tout casser. Plutôt que trop bouleverser le texte lui-même, je préfère en poser un autre à côté, passer au chapitre suivant. L’écriture est souvent concentrique plutôt que linéaire. Raconter une histoire, puis la raconter de nouveau avec des variations.
 
-### Samedi 20, Montagnac
+### Samedi 20, Maillardou
 
 Est-ce parce qu’en ce moment j’écris des nouvelles, donc de petits textes, que j’apprécie de les relire et de les retravailler sur mon mobile ?
 
-### Dimanche 21, Montagnac
+### Dimanche 21, Maillardou
 
-![Matin](https://tcrouzet.com/images_tc/2022/09/IMG_8756.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8756.jpeg)
 
-### Lundi 22, Montagnac
+### Lundi 22, Maillardou
 
 Matisse : « Il y a des moments où même les très grands arts nous sont inacceptables, parce que nous suivons une ligne de développement où ils n’ont pas de place. » J’éprouve souvent cette sensation. Je reconnais le génie, mais il ne me parle pas, il ne me fait pas avancer sur mon chemin. Je le rencontrerai plus tard, ou bien je n’y parviendrais jamais, sans que j’en sois déçu. D’autre fois, des œuvres dites mineures, voire méprisées, me bousculent et m’influencent bien plus que d’autres célébrées. Je m’en moque. Je cueille ce qui me parle à un moment donné. C’est comme ça que je me suis fabriqué.
 
@@ -234,7 +234,7 @@ Je suis cité dans un commentaire sur un blog que je crois ne pas connaître. Je
 
 Difficile de n’être que des mots. Du coup, je me demande si la philosophie du site a du sens puisque l’anonymat n’y est que de façade. Mais ce minimalisme, cette discrétion relative affichée, puisqu’elle ne se fait pas hors des yeux de Google, explique peut-être pourquoi il reste des commentaires sous les billets, comme au bon vieux temps. On ne peut pas accuser l’auteur de faire du marketing de soi, alors même que paradoxalement son attitude me pousse à parler de lui. Une approche à méditer. La sobriété poussée jusque dans la parcimonie médiatique. Mais qui peut aussi devenir une posture médiatique. On n’en sort pas. Pour cela il faudrait cesser de communiquer en ligne (et pour moi cesser de publier des livres, et ne plus organiser des voyages à vélo, et abandonner trop de choses auxquelles je tiens).
 
-### Mardi 23, Montagnac
+### Mardi 23, Maillardou
 
 Matisse : « Les détails, la peinture n’a plus à s’en préoccuper, la photographie est là pour rendre cent fois mieux et plus vite la multitude des détails. » Voilà qui pourrait définir la quête artistique : aller avec son art où les autres arts ne peuvent aller avec spontanéité et facilité. Beaucoup de romanciers écrivent ce qui pourrait être tourné, ni plus ni moins. Leur seul rêve : être adaptés.
 
@@ -250,11 +250,11 @@ Matisse disait que la peinture ne devait plus être historique parce que les liv
 
 J’ai arrêté de théoriser, du moins de vouloir appliquer des théories. Je prends ce qui vient, même si je sais que la réflexion théorique influence ce qui vient.
 
-![Saturac avec Tim](https://tcrouzet.com/images_tc/2022/09/IMG_8776.jpeg)
+![Saturac avec Tim](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8776.jpeg)
 
-![Saturac avec Tim](https://tcrouzet.com/images_tc/2022/09/IMG_8778.jpeg)
+![Saturac avec Tim](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8778.jpeg)
 
-### Mercredi 24, Montagnac
+### Mercredi 24, Maillardou
 
 [Un apiculteur nommé Thierry Crouzet.](https://www.midilibre.fr/2022/08/23/sophie-et-thierry-duo-dapiculteurs-10500941.php) Il y a aussi un écrivain toulousain du même nom, arrivé après moi sur le marché. Idée : écrire les vies minuscules de mes homonymes et voir si notre nom nous influence.
 
@@ -266,7 +266,7 @@ J’aime réécrire plusieurs fois la même chose comme Cézanne peignait des Sa
 
 Et de cinq nouvelles entrelacées comme leurs protagonistes, la structure répondant au récit lui-même. D’habitude, je parle davantage de mes textes dans mon carnet, parce que j’ai besoin d’en clarifier le propos. Cette fois la matière s’est imposée d’elle-même. Je la note sous la dictée, sans davantage avoir à y réfléchir. J’ai l’idée d’une sixième possibilité, difficile, dont je doute d’être capable.
 
-![Au bout du chemin](https://tcrouzet.com/images_tc/2022/09/IMG_8785.jpeg)
+![Au bout du chemin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_8785.jpeg)
 
 ### Vendredi 26, Balaruc
 
@@ -276,4 +276,8 @@ Dans le monde du vélo amateur-baroudeur, on nous vend des épreuves sans nous e
 
 J’accompagne Tim à son nouveau Lycée, son internat, puis je l’abandonne à sa nouvelle vie et depuis le pont de Mirabeau remonte la Seine rive gauche. Des cyclistes, des joggers, des skateurs, des boxeurs, des culturistes, des danseurs, de la couleur partout, des corps resplendissants, musée à ciel ouvert d’une nouvelle civilisation, là où dans ma jeunesse régnaient les voitures. Sur ces quais, une énergie incroyable. Je suis frustré de ne plus pouvoir courir sans me défoncer la hanche. Mais à marcher parmi eux, à les regarder, je les comprends, parce que je ressens leur besoin, la nécessité d’engager le corps pour contrebalancer la société de l’information (à moins qu’il ne s’agisse que d’un culte de l’apparence poussé à l’extrême pour paraître dans la société de l’information, une quête du photogénique, et alors cette énergie serait négative, le travail sur le corps ne serait pas en même temps un travail sur la terre, une écocologie généralisée).
 
-![De la chambre de Tim](https://tcrouzet.com/images_tc/2022/09/IMG_9074.jpeg)
+![De la chambre de Tim](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/09/IMG_9074.jpeg)
+
+
+
+Tags: Carnets, une

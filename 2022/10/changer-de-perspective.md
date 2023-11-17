@@ -8,7 +8,7 @@ J’ai marché pour changer de perspective, pour ne pas rester chez moi, pour ne
 
 Dans mes romans comme dans mes vagabondages, je n’ose en dire le nom parce que ce serait lui faire un honneur qu’il ne mérite pas, tant il symbolise le projet débile de la modernisation : transformer à tout prix, en s’asseyant sur la mémoire, sur les lieux sacrés des anciens, sur les points symboliques pour les remplacer par du factice provisoire.
 
-Je suis attaché à l’étang, à la vue, à la perspective, à la topographie générale des lieux, mais pas au village qui est un des plus hideux de la région, et que de chez moi je vois de loin, ses détails gommés, dans un flou propice à l’imagination.
+Je suis attaché à l’étang, à la vue, à la perspective, à la topographie générale des lieux, mais pas au village qui est un des plus hideux de la région, et que de chez moi je vois de loin, ses détails gommés, dans un flou propice à l'imagination.
 
 Ma génération est responsable de cette déréliction, j’en suis responsable par mon inaction politique. J’ai un temps rêvé qu’écrire pourrait produire un sursaut de conscience, je n’avais pas anticipé que mes concitoyens ne me liraient pas et obéiraient à des injonctions de nature idéologique et non esthétique.
 
@@ -22,6 +22,8 @@ Je serais malheureux si l’un d’eux frétillait au bout de ma ligne. Il me fa
 
 Je préfère prendre ce qui passe, le regarder dans le soleil, le faire miroiter un instant, puis le rejeter. J’aime cet état méditatif de la contemplation, que j’atteins en écrivant, comme d’autres en respirant ou avec des exercices de Yoga.
 
-Je publie les textes écrits dans ces moments parce qu’ils illustrent une attitude, une attention, un plaisir d’une simplicité infinitésimale. J’ai entendu à la radio un cuisinier célèbre vanter l’art du goût, l’art du manger, du boire. Il m’a fait rire parce que pour lui son art lui paraissait incontournable. J’aurais aimé le détromper, parce que pour moi le seul art incontournable est vivre, sans rien faire de particulier. Pas de musique, pas de spectacle, pas de peinture, pas de lecture, pas de nourriture, pas de boisson, être et se laisser traverser.
+Je publie les textes écrits dans ces moments parce qu’ils illustrent une attitude, une attention, un plaisir d’une simplicité infinitésimale. J’ai entendu à la radio un cuisinier célèbre vanter l’art du goût, l’art du manger, du boire. Il m’a fait rire parce que pour lui son art lui paraissait incontournable. J'aurais aimé le détromper, parce que pour moi le seul art incontournable est vivre, sans rien faire de particulier. Pas de musique, pas de spectacle, pas de peinture, pas de lecture, pas de nourriture, pas de boisson, être et se laisser traverser.
 
 Je ne me suis pas décalé pour regarder l’avenir, pour essayer de l’entrevoir, et y chercher ma place, mais simplement pour produire une rotation de ma perception, pour la tourner de l’intérieur vers l’extérieur, l’étang, le village, peu décrits par mes mots, mais présents par les clapotis des vagues sous les piles du ponton. Je me suis décalée pour me laisser envahir par ces familiers à jamais étrangers.
+
+Tags: une, vagabondage

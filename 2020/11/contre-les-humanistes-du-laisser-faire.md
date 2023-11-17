@@ -24,7 +24,7 @@ Je crois que nous ne sommes pas du même bord politique, finalement. Pour autant
 
 4. La Suède comme ses voisins, ou l’Allemagne ou l’Autriche, n’a pas été frappée de plein fouet par la première vague, ce qui explique en grande partie pourquoi sa méthode de gestion de la crise n’a pas été plus catastrophique.
 
-Si nous ne faisons rien, nous fonçons [vers la stratégie de l’immunité collective qui implique plus de 400 000 victimes](https://tcrouzet.com/2020/04/10/le-coronavirus-infecte-nos-cerveaux/) (voir note en fin d’article). C’est l’échéance contre laquelle nous nous battons. On dirait que tu refuses d’envisager ce scénario. Je doute de toi, je doute même de ton engagement pour le climat.
+Si nous ne faisons rien, nous fonçons [vers la stratégie de l’immunité collective qui implique plus de 400 000 victimes](https://tcrouzet.com/2020/04/10/le-coronavirus-infecte-nos-cerveaux/) (voir note en fin d'article). C’est l’échéance contre laquelle nous nous battons. On dirait que tu refuses d’envisager ce scénario. Je doute de toi, je doute même de ton engagement pour le climat.
 
 Tu exiges des efforts de la part des autres, de tes ennemis, de ceux qui polluent comme si toi-même étais un saint. Tu vois le monde à travers les boucs-émissaires. Pour toi, il y a des responsables et c’est aux responsables d’agir, mais, toi, jamais tu ne t’estimes responsable de rien. Pourtant le covid, c’est toi, c’est moi, c’est nous tous qui le propageons. Aucun bouc-émissaire ne réglera le problème pour nous. C’est terminer les grands discours vindicatifs. Les coupables, c’est nous. Et c’est à nous d’agir, en respectant les gestes barrières, et si nous l’avions fait, nous n’en serions pas à nous reconfiner, et tu n’en serais pas à exiger un inhumain laisser-faire.
 
@@ -34,4 +34,6 @@ Plutôt que déblatérer sur les réseaux sociaux, tu ferais mieux de passer ton
 
 [Dans les 30 prochains jours, nous aurons presque deux morts toutes les cinq minutes.](https://lab.tcrouzet.com/covid/ecdc.php) Tu crois que ça passera en douceur dans les hôpitaux ?
 
-*PS : Avec un R0 de 3 pour le covid, valeur médiane mesurée, il faut que 66 % de la population soit immunisée pour atteindre l’immunité de groupe (à condition qu’elle soit possible, ce dont nous ne sommes pas sûr). [Au mieux nous en sommes à 16 % des Français immunisés le 7 novembre 2020](https://lab.tcrouzet.com/covid/ecdc.php) et cela nous a coûté pratiquement 40 000 victimes. Pour arriver à 66 % sans un vaccin, nous devrons encore déplorer 290 000 victimes, en supposant une gestion de la crise en stop and go durant des mois et des mois, car sinon le système de santé s’écroulerait et le taux de mortalité s’envolerait.*
+*PS : Avec un R0 de 3 pour le covid, valeur médiane mesurée, il faut que 66 % de la population soit immunisée pour atteindre l'immunité de groupe (à condition qu'elle soit possible, ce dont nous ne sommes pas sûr). [Au mieux nous en sommes à 16 % des Français immunisés le 7 novembre 2020](https://lab.tcrouzet.com/covid/ecdc.php) et cela nous a coûté pratiquement 40 000 victimes. Pour arriver à 66 % sans un vaccin, nous devrons encore déplorer 290 000 victimes, en supposant une gestion de la crise en stop and go durant des mois et des mois, car sinon le système de santé s'écroulerait et le taux de mortalité s'envolerait.*
+
+Tags: Covid, une

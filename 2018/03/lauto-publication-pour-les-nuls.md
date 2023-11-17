@@ -68,4 +68,6 @@ Rendus à ce stade, mes amis écrivains avaient mal à la tête. On n’est pas 
 
 7. **Couverture** InDesign reste encore une fois l’outil idéal pour créer des couvertures. Il faut utiliser des images libres de droits (j’aime particulièrement les photos de [Pixabay](https://pixabay.com)). On peut aussi créer les couvertures avec des outils de retouche d’images genre Photoshop ou [The Gimp](https://www.gimp.org/fr/), sachant qu’on peut se contenter de services en ligne comme [Pixlr](http://pixlr.com/editor/) ou [Canva](https://www.canva.com/fr_fr/) (ou ne pas concevoir une couverture avancée).
 
-Chacun de ces points aurait nécessité au moins une journée. J’ai été fou de vouloir faire entrer tout ça en une. Je n’ai jamais été pédagogue. D’ailleurs, j’ai laissé traîner ce texte pendant presque un an avant de le publier.
+Chacun de ces points aurait nécessité au moins une journée. J’ai été fou de vouloir faire entrer tout ça en une. Je n’ai jamais été pédagogue. D'ailleurs, j'ai laissé traîner ce texte pendant presque un an avant de le publier.
+
+Tags: Cuisine, une

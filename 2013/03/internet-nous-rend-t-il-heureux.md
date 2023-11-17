@@ -12,12 +12,14 @@ Internet n’est peut-être pas la cause de tous ces maux, mais une chose est s�
 
 Internet peut nous aider à changer le monde, vite, radicalement, mais nous ne le voulons pas. Et je trouve en moi-même les maux qui minent ce projet. Nous aspirons tous à la visibilité. Conséquence : nous parasitons le réseau d’un bruit assourdissant. Le vacarme est désormais supérieur à celui de n’importe quel périphérique. Nous habitons près d’une usine monstrueuse, le bruit nous empêche d’être nous-mêmes.
 
-Il ne reste qu’à déménager vers une campagne plus paisible. Je me pose de plus en plus souvent cette question. Qu’est-ce que je dois garder du Net d’aujourd’hui ? Comment me protéger du tumulte ? Comment ralentir le temps ? J’ai quitté les capitales, elles m’ont rattrapées au bord de mon étang.
+Il ne reste qu’à déménager vers une campagne plus paisible. Je me pose de plus en plus souvent cette question. Qu’est-ce que je dois garder du Net d’aujourd’hui ? Comment me protéger du tumulte ? Comment ralentir le temps ? J'ai quitté les capitales, elles m'ont rattrapées au bord de mon étang.
 
-![La Gardiole - mon Vert Paradis, photographié lors d'une balade avec Isa lundi 25/3/2013](https://tcrouzet.com/images_tc/2013/03/f29e8ee4954511e295bf22000a9f390a_71.jpg)
+![La Gardiole - mon Vert Paradis, photographié lors d'une balade avec Isa lundi 25/3/2013](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/03/f29e8ee4954511e295bf22000a9f390a_71.jpg)
 
 J’ai assisté la semaine dernière à une lecture de *Vert Paradis* de Max Rouquette. J’ai plongé dans le temps de mon enfance, un temps long que les technologies numériques nous dérobent si nous n’y prenons garde. J’ai besoin de revenir à la contemplation, de ralentir ma vie. Ça implique réduire les inputs médiatiques désordonnés, harmoniser les flux, les sensations, les sentiments… réapprendre à occuper l’instant, tout en étant plus proche physiquement de ceux avec qui j’interagis.
 
 J’étais plus heureux lors de ma déconnexion que depuis que j’ai reconnecté. Il me reste à mettre en œuvre un projet de vie esthétique, où Internet sera l’intensificateur plutôt qu’un vulgaire média, où tout parasitage spirituel devra être banni, où la beauté sera le leur objectif, parce qu’elle a le pouvoir de changer la vie pour soi et ceux qui nous entourent, et même parfois au-delà dans le temps et l’espace.
 
-Il est temps d’inventer le slow internet, la slow connexion… parce que la connexion reste indispensable, vitale, jouissive…
+Il est temps d'inventer le slow internet, la slow connexion... parce que la connexion reste indispensable, vitale, jouissive...
+
+Tags: NetCulture, slow connexion, une

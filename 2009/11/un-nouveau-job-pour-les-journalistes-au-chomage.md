@@ -23,3 +23,5 @@ Gandhi parle du journalisme comme d’un service. Selon cette perspective, le jo
 Les grands reporters ont souvent travaillé selon cet esprit, partant parfois en reportage sans commande, poussés par la nécessité, puis trouvant le moyen de diffuser leur travail. Aujourd’hui, ils inspirent tous les propulseurs. Un blogueur écrit ce qu’il désire. Si les gens aiment ce qu’il écrit, ils le reprennent, ils lui donnent une audience. Des services d’agréation peuvent l’intégrer à leur offre, monnayer son texte, le rémunérer. Certains ainsi deviennent des professionnels, d’autres restent des amateurs. Et c’est une autre histoire, aussi vieille que le monde.
 
 *PS : Texte viré de mon prochain livre, trop en rupture avec le ton du reste. J’écris pas un livre pour dire aux médias et aux journalistes ce qu’ils doivent faire mais pour essayer de comprendre comment on vit dans le monde du flux. En l’occurrence, dans le chapitre Après la presse, comment on s’informe (le sujet n’est pas comment on fait l’information).*
+
+Tags: NetCulture

@@ -4,7 +4,7 @@
 
 > C’est en nous libérant du néolibéralisme et en embrassant un keynésianisme d’un genre nouveau que nous pouvons nous libérer de la prison de la crise triangulaire \[sociale, économique, écologique\].
 
-Malheureusement, le keynésianisme nouveau ou pas reste englué dans l’ancien paradigme à la source de tous nos maux. Je ne crois pas à cette solution, même si je conçois qu’elle peut nous faire progresser sur le bon chemin. Au mieux, c’est une politique de transition. [J’ai alors poursuivi mon dialoguie avec Susan.](https://tcrouzet.com/2008/11/19/the-tipping-point/)
+Malheureusement, le keynésianisme nouveau ou pas reste englué dans l’ancien paradigme à la source de tous nos maux. Je ne crois pas à cette solution, même si je conçois qu’elle peut nous faire progresser sur le bon chemin. Au mieux, c’est une politique de transition. [J'ai alors poursuivi mon dialoguie avec Susan.](http://blog.tcrouzet.com/2008/11/19/the-tipping-point/)
 
 ### Lettre à Susan George
 
@@ -34,9 +34,9 @@ Juste avant de conclure son article Susan évoque avec ironie la possibilité de
 
 ### Réponse de Susan
 
-« Je n’ai rien contre, bien au contraire, ce que tu appelles « l’humano-diversité ». J’entends ça environ trois fois par semaine et je suis d’accord. Je ne décourage ni l’action individuelle, ni à plus forte raison la participation d’individus à des mouvements plus larges. Tout cela me semble toutefois présupposer que « les gens » vont habiter les campagnes ou des villages et obtenir la plupart de leurs nécessités localement, comme il y a cent ans. Admettons que l’on pourrait faire des AMAP partout, des bicyclettes, etc. OK, parfait. \[… mais\] malgré tous les efforts individuels-locaux, je crois quand même qu’on va continuer a fabriquer des voitures, des TGV, voyager en avion, construire de grands immeubles, avoir des usines, avoir des machines à laver, faire du commerce et que les chinois et les indiens et tous ceux qui s’enrichissent actuellement \[…\] vont consommer plus de viande et d’énergie.
+« Je n'ai rien contre, bien au contraire, ce que tu appelles « l'humano-diversité ». J'entends ça environ trois fois par semaine et je suis d'accord. Je ne décourage ni l’action individuelle, ni à plus forte raison la participation d’individus à des mouvements plus larges. Tout cela me semble toutefois présupposer que « les gens » vont habiter les campagnes ou des villages et obtenir la plupart de leurs nécessités localement, comme il y a cent ans. Admettons que l’on pourrait faire des AMAP partout, des bicyclettes, etc. OK, parfait. \[… mais\] malgré tous les efforts individuels-locaux, je crois quand même qu’on va continuer a fabriquer des voitures, des TGV, voyager en avion, construire de grands immeubles, avoir des usines, avoir des machines à laver, faire du commerce et que les chinois et les indiens et tous ceux qui s’enrichissent actuellement \[…\] vont consommer plus de viande et d’énergie.
 
-« Que faire en attendant que les multitudes deviennent suffisamment actives pour leur proposer autre chose, ou qu’ils se dégoutent de la richesse ? \[…\] Militer pour des solutions en occident comme je les propose et qui n’exclut pas les tiennes — je donne même aux très riches des incitations pour faire ce que tu veux qu’ils fassent.
+« Que faire en attendant que les multitudes deviennent suffisamment actives pour leur proposer autre chose, ou qu’ils se dégoutent de la richesse ? \[…\] Militer pour des solutions en occident comme je les propose et qui n’exclut pas les tiennes — je donne même aux très riches des incitations pour faire ce que tu veux qu’ils fassent.
 
 « La conversion, c’est surement beau mais c’est très rare. Saint Francois est mon saint préféré mais même parmi les saints les Francois sont rares. »
 

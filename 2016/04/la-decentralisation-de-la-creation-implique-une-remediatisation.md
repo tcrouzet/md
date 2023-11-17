@@ -29,3 +29,5 @@ Il existe beaucoup de raisons à ce débordement, en voilà une esquissée.
 12. Le champ d’expérimentation s’est démesurément étendu, seule la curiosité nous arme contre cette expansion. En tant que créateur, nous n’avons jamais été aussi libres en même temps qu’aussi minuscules face la surabondance de créations. Le décentrage qui entraîne la multiplication brouille la médiatisation. Il nous fragilise et nous prive de statut social. Il nous force à nous inventer nous-mêmes.
 
 *PS : Texte préparé pour introduire la journée du [festival numérique organisé dans le Loir-et-Cher](http://culture41.fr/Bibliotheques/bib41/Festival-numerique-VAGABONDAG-e-S) où j’ai notamment rencontré [Mathieu Simonet](http://www.mathieusimonet.com/), [Cécile Portier](http://petiteracine.net/wordpress/) et [Christophe Cointault](http://cointaultsphere.blogspot.fr/).*
+
+Tags: édition, une

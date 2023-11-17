@@ -2,7 +2,7 @@
 
 Hier, j’ai donné une conférence privée au CERN. Après mon laïus, nous avons visité le tout nouveau [détecteur de particules Atlas](http://fr.wikipedia.org/wiki/Atlas_(CERN)) : 25 mètres de haut, 40 mètres de long, un poids égal à la Tour Eiffel, le tout situé dans une caverne de béton creusée 100 mètres sous terre.<span id="more-279"></span>
 
-![](https://tcrouzet.com/images_tc/atlas.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/atlas.jpg)
 
 Imaginez la base de lancement de fusée lunaire dans *Objectif Lune* d’Hergé. Des ascenseurs dans tous les sens, des passerelles bleues, des tubes colorés comme à Beaubourg, tout ça compacté dans un espace immense mais rempli à craquer de technologie de pointe.
 
@@ -13,3 +13,5 @@ Pendant quelques instants, j’ai oublié nos pires penchants. Je me suis dit qu
 Je n’ai pu m’empêcher de me projeter dans l’avenir, d’entrer dans la peau du touriste du futur qui visitera le CERN, qui le verra comme moi je vois les pyramides avec quatre mille ans de distance. Je suis sûr qu’il éprouvera encore les mêmes sensations que moi face à la folie de notre génie.
 
 La machinerie d’Atlas lui apparaîtra ridicule par sa taille démesurée, beaucoup de physiciens la juge déjà ridicule d’ailleurs, mais il restera frappé par ce besoin que nous avons d’accomplir les choses les plus impossibles.
+
+Tags: Conf, Connecteur

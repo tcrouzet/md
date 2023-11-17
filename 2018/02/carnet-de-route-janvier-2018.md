@@ -4,19 +4,19 @@
 
 ### Lundi 1<sup>er</sup>, Nancy
 
-Depuis quelques jours, je suis privé de perspectives. Nancy est une ville fermée, enfermée, où pour voir un peu loin il faut se placer au centre d’une des avenues rectilignes. Si je devais m’attarder dans ce quadrilatère, j’étoufferais. Même la douceur exceptionnelle en cette saison ne réussit pas à pondérer mon jugement catégorique. J’ai besoin de l’horizon miroitant.
+Depuis quelques jours, je suis privé de perspectives. Nancy est une ville fermée, enfermée, où pour voir un peu loin il faut se placer au centre d’une des avenues rectilignes. Si je devais m’attarder dans ce quadrilatère, j’étoufferais. Même la douceur exceptionnelle en cette saison ne réussit pas à pondérer mon jugement catégorique. J'ai besoin de l’horizon miroitant.
 
 ### Mercredi 3, Balaruc
 
 La veille de notre départ à Nancy, un violent vent de l’ouest, appelé chez nous Narbonnais ou Largade, soufflait. Je le retrouve ce matin. Il est assez exceptionnel, surtout en cette saison. Il témoigne d’une tempête atlantique.
 
-![Tempête](https://tcrouzet.com/images_tc/2018/02/20180103-2.jpg)
+![Tempête](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180103-2.jpg)
 
-![Tempête](https://tcrouzet.com/images_tc/2018/02/20180103-3.jpg)
+![Tempête](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180103-3.jpg)
 
-![Tempête](https://tcrouzet.com/images_tc/2018/02/20180103-4.jpg)
+![Tempête](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180103-4.jpg)
 
-![Tempête](https://tcrouzet.com/images_tc/2018/02/20180103-5.jpg)
+![Tempête](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180103-5.jpg)
 
 ### Jeudi 4, Balaruc
 
@@ -26,17 +26,17 @@ Souvent on me dit tel ou tel livre marche bien. Je regarde son classement sur Am
 
 Pourquoi je ne créerais pas une App pour interagir avec mes lecteurs ? Ce serait plus intime, moins déballage en public… en même temps, ce serait un peu plus tourner le dos au Web.
 
-![Après la tempête](https://tcrouzet.com/images_tc/2018/02/20180104-1.jpg)
+![Après la tempête](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180104-1.jpg)
 
-![Après la tempête](https://tcrouzet.com/images_tc/2018/02/20180104-2.jpg)
+![Après la tempête](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180104-2.jpg)
 
-![Après la tempête](https://tcrouzet.com/images_tc/2018/02/20180104-3.jpg)
+![Après la tempête](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180104-3.jpg)
 
 ### Vendredi 5, Balaruc
 
 [Je reçois mon blog par la Poste.](https://tcrouzet.com/les-annees-blog/)
 
-![Version papier](https://tcrouzet.com/images_tc/2018/02/20180105-1.jpg)
+![Version papier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180105-1.jpg)
 
 ### Samedi 6, Balaruc
 
@@ -72,7 +72,7 @@ Je replonge dans *Mon père était un tueur*, début du travail éditorial. Ça 
 
 ### Lundi 15, Balaruc
 
-![Au loin](https://tcrouzet.com/images_tc/2018/02/20180115-1.jpg)
+![Au loin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180115-1.jpg)
 
 ### Mardi 16, Balaruc
 
@@ -84,7 +84,7 @@ Le 20 janvier, c’est la nuit de lecture. Une nuit de l’écriture attirerait 
 
 ### Mercredi 17, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2018/02/20180117-1.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180117-1.jpg)
 
 ### Jeudi 18, Balaruc
 
@@ -104,7 +104,7 @@ J’ai effectué le véritable travail l’année dernière, quand j’ai plong�
 
 ### Vendredi 19, Balaruc
 
-Je viens de lire un article scientifique expliquant que le coup de foudre n’existe pas. C’est une illusion édifiée *a posteriori*. Ça pourrait être le sujet d’une histoire : un couple a construit sa relation sur cette idée du coup de foudre et la révélation que c’est un fantasme ruine peu à peu leur relation.
+Je viens de lire un article scientifique expliquant que le coup de foudre n'existe pas. C'est une illusion édifiée *a posteriori*. Ça pourrait être le sujet d’une histoire : un couple a construit sa relation sur cette idée du coup de foudre et la révélation que c'est un fantasme ruine peu à peu leur relation.
 
 ---
 
@@ -116,7 +116,7 @@ Je regarde passer de grands nuages.
 
 ### Dimanche 21, Balaruc
 
-![Rose](https://tcrouzet.com/images_tc/2018/02/20180121-1.jpg)
+![Rose](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180121-1.jpg)
 
 ### Lundi 22, Balaruc
 
@@ -132,15 +132,15 @@ Des bittes entourent la place, limitent les rues, les trottoirs, dans un combat 
 
 J’ai voulu arriver tôt à Bordeaux pour vagabonder, sans en trouver la force. J’ai somnolé dans le train, je suis encore sur un faux rythme, peut-être parce ma vie hésite à se choisir une direction avec fermeté. Les rails de la famille nous emprisonnent, mais nous tentons de les bouleverser, de nous en échapper, prenant conscience que bien des forces antagonistes veulent nous maintenir immobiles.
 
-![Bordeaux](https://tcrouzet.com/images_tc/2018/02/20180123-1.jpg)
+![Bordeaux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180123-1.jpg)
 
-![Bordeaux](https://tcrouzet.com/images_tc/2018/02/20180123-2.jpg)
+![Bordeaux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180123-2.jpg)
 
 ### Mercredi 24, Bordeaux
 
 Je quitte mon hôtel, j’arpente la ville, m’éloignant des insipides rues piétonnes, m’enroulant autour d’elles, découvrant des façades encore noires, preuve que les époques antérieures étaient au moins aussi polluées que la nôtre, j’atteins des quartiers modernes, plus aérés, laissant la lumière m’atteindre. Et puis j’ai envie de me poser, de boire un thé, d’écrire. Commence la recherche d’un café.
 
-Il est 11:20. Je replonge vers le centre, je découvre de belles terrasses, mais dès que je veux m’installer au chaud, à l’intérieur, impossible. Toutes les tables sont déjà dressées pour midi. Les cafés faisaient une des joies de la France, les cafés n’existent plus, tous transformés en restaurant. C’est un phénomène généralisé. Nous pouvons boire un coup tôt le matin ou en milieu d’après-midi, le reste du temps nous ne sommes plus les bienvenus.
+Il est 11:20. Je replonge vers le centre, je découvre de belles terrasses, mais dès que je veux m’installer au chaud, à l'intérieur, impossible. Toutes les tables sont déjà dressées pour midi. Les cafés faisaient une des joies de la France, les cafés n’existent plus, tous transformés en restaurant. C’est un phénomène généralisé. Nous pouvons boire un coup tôt le matin ou en milieu d’après-midi, le reste du temps nous ne sommes plus les bienvenus.
 
 Comme j’ai repéré un Starbuck, je décide d’y aller. Au moins, j’y serai accueilli avec le sourire et je trouverai un bon fauteuil où m’affaler. Les Américains ont tout compris. C’est alors que j’aperçois une terrasse chauffée aux infrarouges, avec une ligne de tables réservées au simple débit de boissons. Je m’y installe, de dépit.
 
@@ -166,9 +166,9 @@ Pourquoi je ne donne pas de nom, de lien… pour ne pas rompre avec ceux qui mal
 
 ---
 
-Pierre Fourniaud sera donc l’éditeur de *Mon père était un tueur*. Le roman sortira à [La manufacture de livres](http://www.lamanufacturedelivres.com/le_site/Accueil.html) en janvier 2019. Nous discutons des corrections. Du titre aussi. Pierre trouve que mon titre fait trop polar. Il nous faut autre chose. Mon dossier de travail s’appelle *La lettre de mon père*.
+Pierre Fourniaud sera donc l'éditeur de *Mon père était un tueur*. Le roman sortira à [La manufacture de livres](http://www.lamanufacturedelivres.com/le_site/Accueil.html) en janvier 2019. Nous discutons des corrections. Du titre aussi. Pierre trouve que mon titre fait trop polar. Il nous faut autre chose. Mon dossier de travail s'appelle *La lettre de mon père*.
 
-![Bastille](https://tcrouzet.com/images_tc/2018/02/20180126-1.jpg)
+![Bastille](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180126-1.jpg)
 
 ### Lundi 29, Balaruc
 
@@ -178,4 +178,8 @@ Le bleu claque à mes fenêtres jusqu’aux Pyrénées enneigées. Le contraste 
 
 Sortie en VTT, retour en plongée sur l’étang qui fume de bonheur sous la tiédeur d’un soleil généreux. Pas une ride, un voilier se traîne dans les évaporations bleutées.
 
-![Lumière](https://tcrouzet.com/images_tc/2018/02/20180129-1.jpg)
+![Lumière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/20180129-1.jpg)
+
+
+
+Tags: Carnets, une

@@ -12,7 +12,7 @@ Nous portons nos désirs et nos ambiguïtés. Dans nos œuvres, ils doivent coha
 
 L’artiste identifie dans ses œuvres les fragments, chacun correspond à un geste, une pensée, un effet du hasard. L’unité ne surgit que pour le spectateur, ou le critique, qui manque de discernement. L’artiste ne perçoit pas sa propre unité, et pourtant elle l’obsède, et il maquille de plus belle. Comment se débarrasser de cette obsession ? S’abandonner au brouhaha, et seulement ainsi atteindre l’unité, celle d’une forme qui ne peut en posséder.
 
-![Mondelo](https://tcrouzet.com/images_tc/2015/11/mondelo.png)
+![Mondelo](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/mondelo.png)
 
 Deux montagnes encerclent la baie de Palerme, deux blocs majestueux, l’un le reflet de l’autre. Dessiner celui dans le lointain plus simple que celui qui me surplombe. Pour dessiner, il faut s’éloigner, soit physiquement, soit par des artifices, par exemple en clignant des yeux. L’éloignement efface les détails, il ne transmet au cerveau que l’essentiel, et l’artiste doit alors réinventer le monde.
 
@@ -42,7 +42,7 @@ Des quartiers comme après un bombardement, des couleurs, des vestiges, du trava
 
 Je préfère ce qui est spécifique à mon âge et j’espère ne jamais regretter ce que j’ai perdu. Disant perdu déjà je regrette, j’oublie le message proustien et me tourne vers la jeunesse : les corps jeunes de plus en plus attirants, car de plus en plus mystérieux en même temps que nous nous éloignons de leur âge.
 
-![Antonello](https://tcrouzet.com/images_tc/1996/05/antonello.jpg)
+![Antonello](http://tcrouzet.comhttps://tcrouzet.com/images_tc/1996/05/antonello.jpg)
 
 *La femme au voile bleu* d’Antonello de Messine garde cette jeunesse immortelle. Seul l’art donne l’éternité. Il nous donne l’inaccessible comme le font les corps affichés dans les magazines de mode, mais en éveillant nos désirs, alors que l’art les assouvit.
 
@@ -63,3 +63,5 @@ La force génératrice du hasard. L’artiste est celui qui s’abandonne au has
 ### Soirée à Palerme
 
 La *passegiata* : ils passent et repassent, descendent et remontent la rue piétonne. Les hommes se tiennent par le bras, les filles par la main. Pourquoi ce contact ? Signe d’amitié, signe de célibat, en tout cas pas un signe d’inversion, ici trop puritain, trop conservateur. Pourtant, en ce lieu de tradition, on semble plus libéré qu’à San Francisco.
+
+Tags: Pensé de Sicile

@@ -29,3 +29,5 @@ Le bikepacking implique de suivre une trace, et cette trace autour de l’Hérau
 ![Poussan](https://tcrouzet.com/images_tc/2023/03/poussanciel.jpg)
 
 Et ce matin, quand je suis entré dans le jardin des Pères pour la première fois depuis cinquante ans, parce que les participants au 727 y dormiront, je n’ai pas tout de suite pris conscience qu’une boucle se refermait, non seulement [celle du 727 autour de l’Hérault](/727tour), mais aussi de mon propre parcours de vie. Rien de tel avant de nouvelles aventures.
+
+Tags: 727, Born to Bike, une

@@ -27,3 +27,5 @@ Il proposa un exemple :
 Pour éviter ce gâchis, Vannevar Bush prôna la création d’une technologie de stockages et d’échange des informations à grande vitesse. Sans cette nouvelle intelligence, les terroristes du 11 septembre n’auraient sans doute pas réussi à se synchroniser et à monter leur opération. Quelques secondes avant les décollages, ils se parlaient encore avec leurs mobiles, chose impossible une décennie plus tôt.
 
 Faut-il accuser la technologie de nos maux ? Non, nous sommes les seuls responsables de nos usages. Par chance, pendant qu’une poignée de terroristes pervertissent nos outils, nous autres apprenons à canaliser cette nouvelle puissance individuelle et à la mettre au service du collectif.
+
+Tags: NetCulture, noepub, Une brève histoire de l'informatique, une

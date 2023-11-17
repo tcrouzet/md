@@ -6,7 +6,7 @@ Jérôme a tout de même les larmes aux yeux. Il regarde les rayonnages encombr�
 
 — Pourquoi les librairies ?
 
-— C’était *a priori* sans grande conséquence systémique. Tu te souviens, il y avait cette boîte avec un nom de forêt. Pour se donner un vernis anticapitaliste, nos élus de tout bord l’ont prise en grippe parce qu’elle menaçait l’ancien monde… comme si les gaz à effet de serre n’étaient pas alors une menace plus grande.
+— C'était *a priori* sans grande conséquence systémique. Tu te souviens, il y avait cette boîte avec un nom de forêt. Pour se donner un vernis anticapitaliste, nos élus de tout bord l’ont prise en grippe parce qu’elle menaçait l’ancien monde… comme si les gaz à effet de serre n’étaient pas alors une menace plus grande.
 
 — Je sais tout ça.
 
@@ -35,3 +35,5 @@ Jérôme retrouve le sourire.
 Ils lèvent leurs verres. Leurs amis lecteurs les imitent.
 
 « Vive les livres. »
+
+Tags: eBooks, édition, une

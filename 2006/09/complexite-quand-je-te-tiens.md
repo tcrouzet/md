@@ -2,15 +2,15 @@
 
 Hier lors du [WKD](http://www.wkdialogue.org/), j’ai parlé avec Geoffrey West, le patron du [Santa Fe Institute](http://www.santafe.edu/), le centre de recherche multidisciplinaire dédié à la complexité qui se trouve au Nouveau Mexique. West m’a demandé ce que je faisais, je lui ai dit que j’essayais d’évaluer les implications politiques de tout ce qui se faisait dans son centre. Il a été un peu surpris. Je lui ai expliqué mon argument le plus évident :
 
-— Un système complexe est quasi impossible à contrôler de façon déterministe.
+\— Un système complexe est quasi impossible à contrôler de façon déterministe.
 
 West a approuvé.
 
-— Notre société est complexe.
+\— Notre société est complexe.
 
 West a approuvé.
 
-— Nos gouvernements ne cherchent qu’une chose, c’est à contrôler.
+\— Nos gouvernements ne cherchent qu’une chose, c’est à contrôler.
 
 West a approuvé tout en levant un peu les épaules d’un air désabusé. Oui, contrôler n’a plus de sens. C’est une évidence pour tous les scientifiques avec qui j’ai discuté hier.
 
@@ -33,3 +33,5 @@ West a expliqué que le Santa Fe Institue a été créé par de prestigieux scie
 2/ indépendance vis-à-vis du gouvernement, tant pour le financement que pour l’aspect opérationnel.
 
 Je crois que tous les scientifiques devraient se retrouver dans de telles structures qui leur laisseraient toute liberté. L’autonomie me paraît un ingrédient essentiel dans la recherche de solutions non centralisées pour faire face aux crises mondiales à venir.
+
+Tags: Politique

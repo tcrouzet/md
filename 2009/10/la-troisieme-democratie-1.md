@@ -2,10 +2,8 @@
 
 [Narvic](http://narvic.fr) me parle souvent du livre de Jacqueline de Romilly *Problèmes de la démocratie grecque*. Lecture stimulante et que tous ceux qui s’intéressent à la démocratie devraient lire en effet. Je ne vais pas effectuer un compte rendu du livre car Narvic veut en faire un et il le fera plus méticuleusement que moi. Je me contente de lire avec en tête trois formes possibles de démocratie.<span id="more-11669"></span>
 
-1. La démocratie représentative qui est la nôtre et que je pense en bout de course (je commence à deviner qu’elle va de pair avec l’information solide).
-
+1. La démocratie représentative qui est la nôtre et que je pense en bout de course (je commence à deviner qu'elle va de pair avec l’information solide).
 2. La démocratie directe que les Grecs ont poussée à son summum tout en critiquant ses faiblesses, objet du livre de Romilly (va de pair avec l’information pour une grande part gazeuse, la vox populi).
-
 3. La démocratie participative telle que je la définis à la fin du *Cinquième pouvoir* (temps réel, non représentative, sans élection, non universelle, non égalitaire… rendue possible grâce à internet et l’information liquide). Et sur laquelle je reviendrai dans mon prochain livre car elle prendra tout son sens dans le Flux.
 
 Au sujet de la naissance de la démocratie, Romilly écrit :
@@ -14,7 +12,7 @@ Au sujet de la naissance de la démocratie, Romilly écrit :
 
 Cette transition institutionnelle en douceur, presque celle d’un monde liquide qui se transforme sans cassure, s’est accompagnée de troubles politiques et sociaux incessants. Réussirons-nous à basculer dans le flux avec plus d’élégance ?
 
-> \[…\] le « peuple » ne représente qu’une classe sociale bien déterminée, qui n’avait accédé que depuis peu à la vie politique. Le mépris des aristocrates pour son aveuglement en est naturellement plus vif et plus chargé d’amertume.
+> \[…\] le « peuple » ne représente qu’une classe sociale bien déterminée, qui n'avait accédé que depuis peu à la vie politique. Le mépris des aristocrates pour son aveuglement en est naturellement plus vif et plus chargé d’amertume.
 
 > \[…\] le peuple est ignorant, et s’aggrave avec l’expérience qui révèle en lui des passions violentes.
 
@@ -40,8 +38,10 @@ Et Romilly cite Aristote :
 
 > Le tirage au sort est considéré comme démocratique, l’élection comme oligarchique.
 
-Tout est dit. C’est rédhibitoire. La démocratie représentative n’est pas satisfaisante, pas plus que celle par tirage au sort, pas plus que la démocratie ultra directe et populiste. Nous devons inventer une troisième voix que je n’ai fait qu’esquisser à la fin du *Cinquième pouvoir*.
+Tout est dit. C’est rédhibitoire. La démocratie représentative n’est pas satisfaisante, pas plus que celle par tirage au sort, pas plus que la démocratie ultra directe et populiste. Nous devons inventer une troisième voix que je n’ai fait qu'esquisser à la fin du *Cinquième pouvoir*.
 
 > \[…\] échapper à l’insolence d’un tyran pour choir dans celle d’une populace effrénée est chose qu’on ne saurait aucunement tolérer, écrit Euripide.
 
-Toutes ces citations proviennent des 40 premières pages de Romilly. Pour le peu que j’ai lu la suite, elle détaille chacun de ces points. J’y reviendrai au fil de ma lecture.
+Toutes ces citations proviennent des 40 premières pages de Romilly. Pour le peu que j’ai lu la suite, elle détaille chacun de ces points. J'y reviendrai au fil de ma lecture.
+
+Tags: noepub, Politique, tirage au sort

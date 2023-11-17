@@ -14,15 +14,15 @@ Il pleut ce matin, pas de sortie VTT, et voilà que je plonge dans le code. Tout
 
 Je reçois des mails excédés, j’ai spammé plusieurs de mes lecteurs fidèles. Comment ça se fait ? Je finis par comprendre : à chacune de mes photos ajoutées en tant que nouveau billet, un message a été envoyé, 1 200 messages. J’ai touché du doigt la complexité de notre monde avec ses interconnexions invisibles, ou oubliées, qui mettent en œuvre des causalités inattendues.
 
-![Assis à mon bureau](https://tcrouzet.com/images_tc/2018/06/20180505_1.jpg)
+![Assis à mon bureau](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/20180505_1.jpg)
 
-![Maison soleil couchant](https://tcrouzet.com/images_tc/2018/06/P1050744.jpg)
+![Maison soleil couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/P1050744.jpg)
 
 ### Lundi 7, Balaruc
 
 Pas d’horizon aujourd’hui, les deux langues de terre qui avancent dans l’étang dessinent une porte sur la brume, avec au milieu la silhouette jaune du sémaphore.
 
-![Phare](https://tcrouzet.com/images_tc/2018/06/P1050762.jpg)
+![Phare](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/P1050762.jpg)
 
 ### Jeudi 10, Balaruc
 
@@ -34,7 +34,7 @@ J’ai enfin replongé dans mon petit roman d’amour, qui évolue de manière s
 
 > So what is a story? A story is how what happens affects someone who is trying to achieve what turns out to be a difficult goal, and how he or she changes as a result. Breaking it down in the soothingly familiar parlance of the writing world, this translates to “What happens” is the **plot**. “Someone” is the **protagonist**. The “goal” is what’s known as the **story question**. And “how he or she changes” is **what the story itself is actually about**.
 
-Avec mon histoire d’amour, je n’ai jamais autant collé à cette logique. Mon intrigue : un écrivain cherche à tromper sa femme pour retrouver l’inspiration. Mon protagoniste : l’écrivain. Son but : écrire un livre. Le véritable sujet de l’histoire : éloge du couple et de la fidélité, une lettre d’amour. Je suis en train d’écrire un roman d’amour initiatique, dont le sujet est les changements que l’histoire induit dans le personnage principal.
+Avec mon histoire d’amour, je n'ai jamais autant collé à cette logique. Mon intrigue : un écrivain cherche à tromper sa femme pour retrouver l’inspiration. Mon protagoniste : l’écrivain. Son but : écrire un livre. Le véritable sujet de l’histoire : éloge du couple et de la fidélité, une lettre d’amour. Je suis en train d’écrire un roman d’amour initiatique, dont le sujet est les changements que l'histoire induit dans le personnage principal.
 
 À la fin des chapitres de [*Wired for story*](https://www.amazon.fr/Wired-Story-Writers-Science-Sentence/dp/1607742454/), Lisa Cron propose une check-list. Idéalement, dès la première phrase, le premier paragraphe, la première page d’une bonne histoire, le lecteur devrait pouvoir répondre à quelques questions.
 
@@ -50,7 +50,7 @@ Avec mon histoire d’amour, je n’ai jamais autant collé à cette logique. Mo
 
 6. En savons-nous assez pour avoir une vue d’ensemble des éléments autour duquel le récit s’organisera ? (Écriture, adultère, couple, crise de la cinquantaine… oui, il me semble.)
 
-![Rue](https://tcrouzet.com/images_tc/2018/06/IMG_0456.jpg)
+![Rue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/IMG_0456.jpg)
 
 ### Samedi 12, Balaruc
 
@@ -66,27 +66,27 @@ J’aime [le journal en différé](http://www.fuirestunepulsion.net/spip.php?rub
 
 ### Mercredi 16, Balaruc
 
-Avec la mort de Tom Wolfe, tout le monde confond celui qui qualifie un genre déjà établi de New Journalism, et celui qui crée le genre, en écrivant la première œuvre pouvant lui être rattachée. Si Tom Wolfe publie *Acid Test* en 1968, c’est en 1965 que Truman Capote publie *De sang-froid*, en 1960 que Joseph Kessel publie *Les mains du miracle*, en 1929 qu’Albert Londres publie *Terre d’ébène*…
+Avec la mort de Tom Wolfe, tout le monde confond celui qui qualifie un genre déjà établi de New Journalism, et celui qui crée le genre, en écrivant la première œuvre pouvant lui être rattachée. Si Tom Wolfe publie *Acid Test* en 1968, c’est en 1965 que Truman Capote publie *De sang-froid*, en 1960 que Joseph Kessel publie *Les mains du miracle*, en 1929 qu’Albert Londres publie *Terre d'ébène*…
 
-### Vendredi 18, Montagnac
+### Vendredi 18, Maillardou
 
-![En VTT](https://tcrouzet.com/images_tc/2018/06/IMG_0512.jpg)
+![En VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/IMG_0512.jpg)
 
-![Biron](https://tcrouzet.com/images_tc/2018/06/IMG_0519.jpg)
+![Biron](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/IMG_0519.jpg)
 
-### Samedi 19, Montagnac
+### Samedi 19, Maillardou
 
-![Matin](https://tcrouzet.com/images_tc/2018/06/IMG_0524.jpg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/IMG_0524.jpg)
 
-![Avec les copains](https://tcrouzet.com/images_tc/2018/06/4250554a-4a93-4db6-a079-3fc18c8ed61a.jpg)
+![Avec les copains](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/4250554a-4a93-4db6-a079-3fc18c8ed61a.jpg)
 
-### Dimanche 20, Montagnac
+### Dimanche 20, Maillardou
 
-![Saint Avit](https://tcrouzet.com/images_tc/2018/06/IMG_0646.jpg)
+![Saint Avit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/IMG_0646.jpg)
 
-### Lundi 21, Montagnac
+### Lundi 21, Maillardou
 
-![Nuages](https://tcrouzet.com/images_tc/2018/06/IMG_0672.jpg)
+![Nuages](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/IMG_0672.jpg)
 
 ### Mardi 22, Balaruc
 
@@ -104,7 +104,7 @@ Je déteste de plus en plus les réseaux sociaux, mais je n’y renonce pas tota
 
 Un acteur interprète ma [géolecture](https://tcrouzet.com/geolecture/) en traînant derrière lui une trentaine de personnes. C’est drôle, je m’amuse. La vérité : cette affaire de géolecture n’intéresse pas grand monde. Je ne regarde pas les stats de téléchargement de l’application, mais ça ne doit pas peser lourd. Pourtant, j’ai senti que je touchais à quelque chose, tant que j’ai senti, c’est ça qui compte après tout.
 
-![Géolecture](https://tcrouzet.com/images_tc/2018/06/P1050766.jpg)
+![Géolecture](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/P1050766.jpg)
 
 ### Lundi 28, Malte
 
@@ -116,19 +116,19 @@ Premier contact avec Malte. Routes fleuries de géraniums et de lauriers roses. 
 
 ---
 
-On amène les enfants se baigner dans une crique réputée, juste en contrebas d’une immense usine de desalination. Eau moyennement propre (la Grèce est bien loin). Émile plonge, il ressort immédiatement en hurlant. Il s’est fait piquer par une méduse. On s’en va à la recherche d’une pharmacie, on atterrit dans une ville portuaire, Il-Brolli, pas prétentieuse, face à un immense dépôt de conteneurs. On aime ce côté brut, en prime on découvre un très bon restaurant.
+On amène les enfants se baigner dans une crique réputée, juste en contrebas d'une immense usine de desalination. Eau moyennement propre (la Grèce est bien loin). Émile plonge, il ressort immédiatement en hurlant. Il s'est fait piquer par une méduse. On s'en va à la recherche d'une pharmacie, on atterrit dans une ville portuaire, Il-Brolli, pas prétentieuse, face à un immense dépôt de conteneurs. On aime ce côté brut, en prime on découvre un très bon restaurant.
 
-![Desalinisation](https://tcrouzet.com/images_tc/2018/06/P1050782.jpg)
+![Desalinisation](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/P1050782.jpg)
 
-![Port](https://tcrouzet.com/images_tc/2018/06/P1050793.jpg)
+![Port](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/P1050793.jpg)
 
-![Port](https://tcrouzet.com/images_tc/2018/06/P1050808.jpg)
+![Port](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/P1050808.jpg)
 
 ### Mercredi 30, Malte
 
-Malte, c’est une île avec du béton. Hors des agglomérations, une gageure, on se retrouve coincé entre des murs de pierres jaunes.
+Malte, c'est une île avec du béton. Hors des agglomérations, une gageure, on se retrouve coincé entre des murs de pierres jaunes.
 
-![Pointe](https://tcrouzet.com/images_tc/2018/06/P1050823.jpg)
+![Pointe](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/P1050823.jpg)
 
 ### Jeudi 31, Malte
 
@@ -140,10 +140,14 @@ Samedi, j’ai terminé le premier jet de mon histoire d’amour. Je relis, je l
 
 Cette campagne me donne l’idée d’un projet d’écriture, dont les chapitres ne seraient débloqués qu’au fil des souscriptions. Plus les lecteurs souscriraient, plus le livre serait long, par exemple, avec des options, genre des thèmes s’ajouteraient peu à peu.
 
-![Ferry](https://tcrouzet.com/images_tc/2018/06/P1060015.jpg)
+![Ferry](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/P1060015.jpg)
 
-![Gozo](https://tcrouzet.com/images_tc/2018/06/P1060021.jpg)
+![Gozo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/P1060021.jpg)
 
-![Ir-Rabat](https://tcrouzet.com/images_tc/2018/06/P1060036.jpg)
+![Ir-Rabat](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/P1060036.jpg)
 
-![Forteresse](https://tcrouzet.com/images_tc/2018/06/IMG_0720-1.jpg)
+![Forteresse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/06/IMG_0720-1.jpg)
+
+
+
+Tags: Carnets, une

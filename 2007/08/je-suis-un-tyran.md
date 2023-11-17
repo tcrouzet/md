@@ -2,7 +2,7 @@
 
 En route vers le Médoc, j’ai écouté sur France Culture une émission au sujet de [Théodore Sturgeon](http://en.wikipedia.org/wiki/Theodore_Sturgeon), un des grands écrivains de l’âge d’or de la Science Fiction américaine dont les romans m’ont enthousiasmé lorsque j’étais adolescent.<span id="more-534"></span>
 
-![Par pacco](https://tcrouzet.com/images_tc/20070814pacco.jpg)
+![Par pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070814pacco.jpg)
 
 C’était plus fort que lui, il ne pouvait pas s’empêcher de répondre à ses désirs, pour lui c’était la vie. Il ne s’aimait pas lorsqu’il était dans cet état mais il ne pouvait pas y changer grand-chose.
 

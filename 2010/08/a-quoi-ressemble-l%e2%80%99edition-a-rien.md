@@ -1,6 +1,6 @@
 # À quoi ressemble l’édition ? À rien !
 
-Depuis quatre jours, [nous tentons de discuter de l’avenir du livre à Ouessant](https://tcrouzet.com/2010/08/20/numerile/). Mal dit. Je recommence. Nous tentons de discuter de l’avenir du texte et de la lecture. Et nous nous interrogeons sur notre métier d’auteur, d’éditeur, de distributeur, de propulseur et de lecteur.<span id="more-18626"></span>
+Depuis quatre jours, [nous tentons de discuter de l’avenir du livre à Ouessant](http://blog.tcrouzet.com/2010/08/20/numerile/). Mal dit. Je recommence. Nous tentons de discuter de l’avenir du texte et de la lecture. Et nous nous interrogeons sur notre métier d’auteur, d’éditeur, de distributeur, de propulseur et de lecteur.<span id="more-18626"></span>
 
 Je crois qu’il existe trois manières de publier, dont la première domine, la seconde balbutie, la troisième reste à inventer.
 
@@ -32,3 +32,5 @@ Il s’agit de remettre l’auteur, ou plutôt les auteurs, au centre du process
 4. Il leur reste à trouver un prescripteur (ce qu’on appelle en anglais un publisher, qui s’occupe de faire vendre, par opposition à un éditeur, qui s’occupe à parfaire le texte). Bien sûr les auteurs peuvent effectuer de la prescription croisée à travers leurs réseaux sociaux, mais il faut bien ventiler cet écosystème. Aujourd’hui, c’est paradoxalement la tâche la plus complexe, parce qu’elle n’est pas naturelle à la plupart des auteurs.
 
 Ce n’était que quelques réflexions matinales avant une dernière journée de discussion à Ouessant.
+
+Tags: édition, numerile

@@ -30,7 +30,7 @@ Qu’est-ce que nous changeons dès aujourd’hui dans nos vies pour que demain 
 
 [Ce soir, nous approchons peut-être du pic de la pandémie](https://www.facebook.com/tcrouzet/posts/10158442400628593) en même temps que ma simulation approche de son horizon. Un commentateur qui travaille en préfecture me dit que mes chiffres l’aident, deux bonzes lui tombent dessus, il leur répond que mes chiffres tempèrent son cerveau, et c’est bien leur seule utilité, lutter contre l’anxiété, en relativisant la crise, en la distanciant, en occultant son côté macabre tout en évitant de dramatiser.
 
-![Salon](https://tcrouzet.com/images_tc/2020/04/IMG_0038.jpeg)
+![Salon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0038.jpeg)
 
 ### Vendredi 3, Balaruc
 
@@ -48,7 +48,7 @@ J’appelle des copains, des copains m’appellent, nous nous donnons presque da
 
 Petit matin limpide au-delà de mes fenêtres. Calme plat, les cloches de l’église portent jusqu’à moi. L’étang d’huile rose. Mon voisin pêcheur lève son filet, le filet calé par mon père, et même mon grand-père, un filet toujours là comme le bateau de Thésée dans le port d’Athènes.
 
-![Calme](https://tcrouzet.com/images_tc/2020/04/IMG_0097.jpeg)
+![Calme](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0097.jpeg)
 
 ---
 
@@ -60,23 +60,23 @@ La littérature est un combat. Comment rester silencieux en temps troublé ? Je
 
 Je ne suis pas gestionnaire, je ne mène aucune économie littéraire, aucun calcul, je me moque de surproduire, d’être moins bon de temps à autre, voire médiocre, je n’ai aucune peur, aucune honte, je ne pense pas aux conséquences de ce que je fais pour mon business d’auteur. Je vis la littérature comme je respire, je la vis comme je peux, tant bien que mal. Je connais des auteurs crispés à l’idée de la moindre faute d’orthographe, je me suis délesté de ces préoccupations depuis longtemps, peut-être parce que j’ai toujours fait beaucoup de fautes, et que, si elles me faisaient peur, je n’aurais même pas commencé à écrire. Les fautes se corrigent, les petites imprécisions grammaticales aussi, la littérature, quant à elle, est une course, une bataille entre soi et le texte, une fresque peinte à coups de revolver.
 
-Après le confinement, les éditeurs recevront des montagnes de manuscrits, des manuscrits produits par l’oisiveté, des manuscrits non nécessaires, à jeter sans même les ouvrir.
+Après le confinement, les éditeurs recevront des montagnes de manuscrits, des manuscrits produits par l'oisiveté, des manuscrits non nécessaires, à jeter sans même les ouvrir.
 
 ---
 
-Je teste Zwift, le simulateur de vélo d’appartement. J’avais reçu le home-trainer Saris M2 il y a deux semaines, mais je ne n’avais pas réussi à y monter un vélo faute d’un axe traversant *ad hoc*. J’ai fini par mettre une tige filetée de 12. Ça tient, mais pas top pour le vélo. J’ai roulé avec un pneu slick de 29/2.0. Il touchait le sol. J’ai été obligé de remonter le tout avec des cales en bois. Pas fait pour les VTT ce système, et je n’avais aucune envie d’y coller mon gravel en carbone.
+Je teste Zwift, le simulateur de vélo d’appartement. J’avais reçu le home-trainer Saris M2 il y a deux semaines, mais je ne n’avais pas réussi à y monter un vélo faute d'un axe traversant *ad hoc*. J'ai fini par mettre une tige filetée de 12. Ça tient, mais pas top pour le vélo. J'ai roulé avec un pneu slick de 29/2.0. Il touchait le sol. J'ai été obligé de remonter le tout avec des cales en bois. Pas fait pour les VTT ce système, et je n’avais aucune envie d'y coller mon gravel en carbone.
 
-Puis j’ai commencé à pédaler. [Pour rouler à 25 km/h, je devais dépenser une énergie de folie et sur l’écran je plafonnais à 100 watts.](https://www.strava.com/activities/3254152726) Le truc faisait un bruit abominable. Pendant une heure, j’ai chevauché une perceuse électrique. Plus jamais ça. Je remets le tout dans le carton et le renvoie. Je ne fais pas du vélo pour me faire mal à la tête, et pas juste pour me faire mal aux jambes. Je préfère m’abstenir qu’en être réduit à ce machin.
+Puis j'ai commencé à pédaler. [Pour rouler à 25 km/h, je devais dépenser une énergie de folie et sur l'écran je plafonnais à 100 watts.](https://www.strava.com/activities/3254152726) Le truc faisait un bruit abominable. Pendant une heure, j’ai chevauché une perceuse électrique. Plus jamais ça. Je remets le tout dans le carton et le renvoie. Je ne fais pas du vélo pour me faire mal à la tête, et pas juste pour me faire mal aux jambes. Je préfère m'abstenir qu’en être réduit à ce machin.
 
 ---
 
 Pas envie de faire mon bilan météo ce soir. Pourtant, les chiffres n’ont jamais été aussi bons, on dirait que nous avons franchi le col.
 
-![Moteur rouge](https://tcrouzet.com/images_tc/2020/04/IMG_0126.jpeg)
+![Moteur rouge](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0126.jpeg)
 
-![Port Sutel](https://tcrouzet.com/images_tc/2020/04/IMG_0128.jpeg)
+![Port Sutel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0128.jpeg)
 
-![Port Sutel](https://tcrouzet.com/images_tc/2020/04/IMG_0134.jpeg)
+![Port Sutel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0134.jpeg)
 
 ### Dimanche 5, Balaruc
 
@@ -94,7 +94,7 @@ Intéressante expérience d’écriture. Publier et ne cesser de réviser, éten
 
 [*La mécanique du texte*](https://tcrouzet.com/la-mecanique-du-texte/) dans [le top des livres les plus achetés en numérique chez le Furet du Nord](https://actu.fr/hauts-de-france/lille_59350/la-lecture-numerique-explose-pendant-confinement-top-furet-nord-de-youboox_32701274.html). Je regarde mes stats. Sur les trois dernières semaines, le Furet du Nord représente 41 % de mes ventes avec 62 exemplaires. Je pense que c’est parce que ce livre est conseillé dans les écoles de journalisme. Des chiffres bien minuscules.
 
-![Sète](https://tcrouzet.com/images_tc/2020/04/IMG_0165.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0165.jpeg)
 
 ### Mardi 7, Balaruc
 
@@ -102,9 +102,9 @@ J’écris sur le mensonge éventuel du gouvernement chinois. J’en touche deux
 
 ---
 
-Certaines de mes réponses sur Facebook ressemblent à des aphorismes. 1. Tenter de comprendre pourquoi on en est là, nous permettra d’aller plus loin. Voilà à quoi sert l’Histoire. 2. On manque toujours de recul avec l’Histoire, c’est pour ça qu’on la réécrit sans cesse. 3. Si tu ne réfléchis pas à ce que tu vis, tu ne vis pas. 4. Tu as le droit de penser ce que tu veux et de penser de travers. 5. Si on n’a pas le droit de s’interroger sur l’Histoire vécue et d’en contester la version officielle, comment peut-on se libérer du joug des dictateurs ? 6. On me dit « Il y a une différence entre contester la dictature sous laquelle on vit et contester celle des autres. » Je réponds : « Laissons les opprimés se démerder. La prochaine fois que tu seras malade, je dirai à ton médecin de te laisser crever. » 7. Si on n’écrit pas l’Histoire pendant qu’on la vie, quand est-ce qu’on l’écrit ? Une fois mort ?
+Certaines de mes réponses sur Facebook ressemblent à des aphorismes. 1. Tenter de comprendre pourquoi on en est là, nous permettra d’aller plus loin. Voilà à quoi sert l’Histoire. 2. On manque toujours de recul avec l’Histoire, c’est pour ça qu'on la réécrit sans cesse. 3. Si tu ne réfléchis pas à ce que tu vis, tu ne vis pas. 4. Tu as le droit de penser ce que tu veux et de penser de travers. 5. Si on n’a pas le droit de s’interroger sur l’Histoire vécue et d’en contester la version officielle, comment peut-on se libérer du joug des dictateurs ? 6. On me dit « Il y a une différence entre contester la dictature sous laquelle on vit et contester celle des autres. » Je réponds : « Laissons les opprimés se démerder. La prochaine fois que tu seras malade, je dirai à ton médecin de te laisser crever. » 7. Si on n’écrit pas l’Histoire pendant qu’on la vie, quand est-ce qu’on l’écrit ? Une fois mort ?
 
-![Walter](https://tcrouzet.com/images_tc/2020/04/IMG_0193-1.jpeg)
+![Walter](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0193-1.jpeg)
 
 ### Mercredi 8, Balaruc
 
@@ -112,9 +112,9 @@ Certaines de mes réponses sur Facebook ressemblent à des aphorismes. 1. Tenter
 
 ---
 
-Trump accuse l’OMS de complaisance avec la Chine. Toujours un peu mal à l’aide quand je pense comme lui, parce que demain ou après-demain il dira une monstruosité.
+Trump accuse l’OMS de complaisance avec la Chine. Toujours un peu mal à l'aide quand je pense comme lui, parce que demain ou après-demain il dira une monstruosité.
 
-![Soir](https://tcrouzet.com/images_tc/2020/04/P1100916b.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/P1100916b.jpeg)
 
 ### Jeudi 9, Balaruc
 
@@ -128,7 +128,7 @@ Avec mon GPS, j’écris l’histoire du confinement sur la carte géographique,
 
 Depuis deux jours, nous descendons de la montagne morbide.
 
-![Cuisine](https://tcrouzet.com/images_tc/2020/04/P1100902.jpeg)
+![Cuisine](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/P1100902.jpeg)
 
 ### Vendredi 10, Balaruc
 
@@ -142,9 +142,9 @@ Pourquoi j’écris ces articles sur le coronavirus et notre déplorable gestion
 
 Je termine *Des milliards de tapis de cheveux*, magnifique livre de SF de l’Allemand Andreas Eschbach (1995). Forme limpide, pas de héros, le lecteur doit se prendre en main de chapitre en chapitre, peinture pointilliste d’un univers terrifiant et mystérieux. Dénonciation du totalitarisme à travers un éloge de l’artisanat. Un livre universel, entre *Star Wars* et *Siddhartha*.
 
-![Entrées maritimes](https://tcrouzet.com/images_tc/2020/04/IMG_0254-2.jpeg)
+![Entrées maritimes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0254-2.jpeg)
 
-![Un hélico passe](https://tcrouzet.com/images_tc/2020/04/IMG_0275.jpeg)
+![Un hélico passe](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0275.jpeg)
 
 ### Lundi 13, Balaruc
 
@@ -162,19 +162,19 @@ On continue la descente et Macron sa descente. Pas la peine d’en rajouter, mai
 
 Le geste qui sauve version anglaise se retrouve sur [un montage qui buzze](https://twitter.com/JSCarroll/status/1249610798755913730)… des tranches de livres qui racontent la pandémie.
 
-![Clean Hands](https://tcrouzet.com/images_tc/2020/04/EVeCWfnWkAEIt54.jpeg)
+![Clean Hands](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/EVeCWfnWkAEIt54.jpeg)
 
 ### Mardi 14, Balaruc
 
 Des touristes s’installent dans le mobil-home des voisins. Un couple avec deux enfants. D’où viennent-ils ? Je ne vais pas me transformer en délateur, la délation étant devenue un sport national, ce qui en dit long sur la santé mentale de notre pays.
 
-![Walter](https://tcrouzet.com/images_tc/2020/04/P1100937.jpeg)
+![Walter](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/P1100937.jpeg)
 
-![Pédalo](https://tcrouzet.com/images_tc/2020/04/IMG_0312.jpeg)
+![Pédalo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0312.jpeg)
 
 ### Mercredi 15, Balaruc
 
-Trump coupe les vivres à l’OMS. J’ai peur d’une guerre avec la Chine. Je ne pense plus guère qu’aux conséquences géopolitiques de la pandémie.
+Trump coupe les vivres à l’OMS. J’ai peur d’une guerre avec la Chine. Je ne pense plus guère qu'aux conséquences géopolitiques de la pandémie.
 
 ---
 
@@ -194,7 +194,7 @@ La grisaille ne nous lâche pas au propre et au figuré. Je me réveille tôt, b
 
 ### Lundi 20, Balaruc
 
-![Walter](https://tcrouzet.com/images_tc/2020/04/P1100974.jpeg)
+![Walter](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/P1100974.jpeg)
 
 ### Mardi 21, Balaruc
 
@@ -202,7 +202,7 @@ Pluie, pluie, et encore pluie. Je vis le confinement par écrit interposé. Je d
 
 ---
 
-Message envoyé à Mediapart : « Je ne m’attendais pas à dire un jour du bien de Plenel, mais j’avoue qu’[il est très bon dans son direct sur Brut](https://www.youtube.com/watch?v=aTfnY1TixXA). J’y ai retrouvé des choses que j’ai écrites et répétées depuis le début de la crise, preuve que nous sommes nombreux à penser la même chose et que cela finira par avoir une influence politique, espérons. Mais j’ai aussi révélé deux erreurs qui peuvent être lourdes de conséquences. Non, les masques ne sont pas notre première ligne de défense. C’est l’hygiène des mains, l’hygiène des mains, encore l’hygiène des mains. Le port du masque ne protège pas vraiment, même dans les transports en commun, si d’abord l’hygiène des mains n’est pas impeccable. Il faut le répéter encore et encore. L’autre erreur concerne le début de la crise. On ne peut pas utiliser la première victime pour dire qu’une pandémie commence. Il faut regarder quand la courbe du nombre de victimes s’affole. C’est le vrai signal. Selon ce critère, l’Italie nous a devancés de beaucoup. » Ils se sont bien gardés de me répondre.
+Message envoyé à Mediapart : « Je ne m'attendais pas à dire un jour du bien de Plenel, mais j'avoue qu’[il est très bon dans son direct sur Brut](https://www.youtube.com/watch?v=aTfnY1TixXA). J’y ai retrouvé des choses que j'ai écrites et répétées depuis le début de la crise, preuve que nous sommes nombreux à penser la même chose et que cela finira par avoir une influence politique, espérons. Mais j'ai aussi révélé deux erreurs qui peuvent être lourdes de conséquences. Non, les masques ne sont pas notre première ligne de défense. C’est l’hygiène des mains, l’hygiène des mains, encore l’hygiène des mains. Le port du masque ne protège pas vraiment, même dans les transports en commun, si d’abord l’hygiène des mains n’est pas impeccable. Il faut le répéter encore et encore. L’autre erreur concerne le début de la crise. On ne peut pas utiliser la première victime pour dire qu’une pandémie commence. Il faut regarder quand la courbe du nombre de victimes s'affole. C’est le vrai signal. Selon ce critère, l’Italie nous a devancés de beaucoup. » Ils se sont bien gardés de me répondre.
 
 ---
 
@@ -224,11 +224,11 @@ Le 3 février Didier m’a dit que les flacons de gels hydro-alcooliques étaien
 
 Je découvre que [la chancelière Merkel est une chimiste quantique](https://www.theatlantic.com/international/archive/2020/04/angela-merkel-germany-coronavirus-pandemic/610225/) alors que nous sommes gouvernés par des juristes, des littéraires, des fonctionnaires, des banquiers et des saltimbanques.
 
-![Brume](https://tcrouzet.com/images_tc/2020/04/IMG_0413.jpeg)
+![Brume](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0413.jpeg)
 
-![Walter](https://tcrouzet.com/images_tc/2020/04/IMG_0427.jpeg)
+![Walter](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0427.jpeg)
 
-![Canadair](https://tcrouzet.com/images_tc/2020/04/IMG_0418.jpeg)
+![Canadair](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0418.jpeg)
 
 ### Vendredi 24, Balaruc
 
@@ -238,7 +238,7 @@ Nous devions partir ce matin faire le tour de l’Hérault à VTT. Il fait doux,
 
 Mes billets de blog sont inversement lus par rapport à l’importance que je leur accorde.
 
-![L'étang](https://tcrouzet.com/images_tc/2020/04/IMG_0486-1.jpeg)
+![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0486-1.jpeg)
 
 ### Dimanche 26, Balaruc
 
@@ -260,11 +260,11 @@ J’en suis presque au bout d’*Adapter pour adopter*, du moins de ce que je pe
 
 Je ne dois pas être malade, juste fatigué, un coup de mou, pas de fièvre, de rhume, de toux, je suis à plat, victime du confinement. Tout devrait être changé dans le monde et rien ne le sera. Une fatigue d’impuissance politique avec la tentation de retourner dans mes jardins, la littérature et le vélo.
 
-![Soir](https://tcrouzet.com/images_tc/2020/04/P1110009.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/P1110009.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2020/04/P1110016.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/P1110016.jpeg)
 
-![Arc en ciel](https://tcrouzet.com/images_tc/2020/04/IMG_0568.jpeg)
+![Arc en ciel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/IMG_0568.jpeg)
 
 ### Mercredi 29, Balaruc
 
@@ -274,7 +274,7 @@ Encore une journée de boulot sur *Adapter pour adopter*, et je le range, je l�
 
 Je termine *La transparence des choses*, quel bouquin, quelle jubilation, nous ne nous autorisons plus ces fantaisies : perdre le lecteur, le rendre dingue, dans le seul but de provoquer des électrochocs. Je me sens bien avec Nabokov, je vais faire un bout de chemin avec lui. En revenir à *Lolita*, au commencement.
 
-![Sète](https://tcrouzet.com/images_tc/2020/04/P1110042.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/P1110042.jpeg)
 
 ### Jeudi 30, Balaruc
 
@@ -283,3 +283,5 @@ Mal au ventre durant la luit, mini kyste douloureux au périnée, ma capsulite �
 ---
 
 Pourquoi me plaindre ? L’Histoire est en marche. Je l’ai toujours voulu et la vivre me bouleverse, ou tout au moins bouleverse mon confort douillet. La transition n’est pas une expérience heureuse, la transition heureuse est une utopie. Ma capsulite comme une métaphore du monde. Une petite déchirure incite l’articulation à moins bouger et moins elle bouge moins elle a envie de le faire. Alors le moindre geste devient une épreuve douloureuse. Je ne suis qu’un révolutionnaire bourgeois. Quand la révolution commence à affecter ma vie, je la rejette.
+
+Tags: Carnets, une

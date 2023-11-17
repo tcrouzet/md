@@ -2,7 +2,7 @@
 
 Chaque fois que je dis qu’internet est une nouvelle démocratie (surtout oublier les anciennes définitions), on me répond internet n’est qu’un média comme un autre, avec quelques particularités mais aucune susceptible d’avoir une influence profonde sur la société, en tous cas pas plus profonde que celles des médias.<span id="more-160"></span>
 
-> Selon le Robert, un média est un procédés de transmission massive de l’information.
+> Selon le Robert, un média est un procédés de transmission massive de l'information.
 
 Je suis d’accord. Internet est bien un média, et même un média de masse. Il participe au quatrième pouvoir, lui donnant de nouvelles armes, notamment l’interactivité. Mais internet n’est pas seulement un média, c’est avant tout un territoire. Un nouveau monde que nous sommes en train de coloniser. Internet dépasse le média pour une multitude de raisons.
 
@@ -24,4 +24,6 @@ Je suis d’accord. Internet est bien un média, et même un média de masse. Il
 
 J’espère que cette liste, sans doute incomplète, démontre qu’internet n’est pas un territoire virtuel, mais un territoire réel. On y rencontre de vrais amis, on visite de vrais boutiques, on y gagne du vrai argent, on y vit de vraies aventures. Parce qu’internet est beaucoup plus qu’un média, les choses qui s’y passent sont beaucoup plus importantes que celles qui occupent les médias.
 
-Nous venons de découvrir un nouveau territoire. Sa conquête a commencé, elle rappelle celle de l’ouest américain. Un jour prochain, il faudra écrire une constitution pour ce territoire et non plus utiliser les constitutions des pays depuis lesquels sont partis les aventuriers. La quête de l’indépendance a commencé. **Les vieilles nations finiront par reconnaître internet comme une nation en elle-même. J’invoque dès à présent le droit à la double nationalité. Je ne veux pas utiliser internet que comme un média.**
+Nous venons de découvrir un nouveau territoire. Sa conquête a commencé, elle rappelle celle de l’ouest américain. Un jour prochain, il faudra écrire une constitution pour ce territoire et non plus utiliser les constitutions des pays depuis lesquels sont partis les aventuriers. La quête de l'indépendance a commencé. **Les vieilles nations finiront par reconnaître internet comme une nation en elle-même. J’invoque dès à présent le droit à la double nationalité. Je ne veux pas utiliser internet que comme un média.**
+
+Tags: Politique

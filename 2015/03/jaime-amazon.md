@@ -4,7 +4,7 @@ Un petit coup de nerf ne fait pas de mal. J’en ai marre d’entendre pis que p
 
 OK, c’est un monstre capitaliste esclavagiste destructeur du petit business et tout ce que vous voudrez. Mais vous possédez peut-être une voiture ? Vous mettez quoi dans le réservoir ? Croyez-vous que c’est plus propre qu’un livre que vous achetez sur Amazon ?
 
-Dénoncer, [je ne cesse de le faire](https://tcrouzet.com/2014/09/16/la-fin-de-lartisanat-numerique/), mais pas en prenant un gamin au hasard dans la cour de récréation. Je déteste les instits qui ont besoin de boucs émissaires, et ils sont nombreux.
+Dénoncer, [je ne cesse de le faire](http://blog.tcrouzet.com/2014/09/16/la-fin-de-lartisanat-numerique/), mais pas en prenant un gamin au hasard dans la cour de récréation. Je déteste les instits qui ont besoin de boucs émissaires, et ils sont nombreux.
 
 Critiquer une logique expansionniste, oui, faut le faire, mais en s’en prenant à tous les monstres. Quand on commence à s’attaquer à l’un deux avec des arguments fallacieux, au mieux on perd son temps, au pire on prépare l’émergence du monstre suivant encore plus destructeur.
 
@@ -24,7 +24,7 @@ Donc, quand on est lecteur, quand on s’intéresse à la création, quand on es
 
 OK, tout n’est pas rose.
 
-1. Si vous activez le Wifi, Amazon peut fouiller votre Kindle comme les opérateurs téléphoniques vos téléphones. Déconnectez le Wifi. Un câble USB fait l’affaire pour moi. La connexion n’est pas vitale pour une liseuse.
+1. Si vous activez le Wifi, Amazon peut fouiller votre Kindle comme les opérateurs téléphoniques vos téléphones. Déconnectez le Wifi. Un câble USB fait l’affaire pour moi. La connexion n'est pas vitale pour une liseuse.
 
 2. Il y a de la pub. Désactivez-la, c’est possible en fouillant les options. Et puis tous les appareils se jailbreakent. Quand on veut être prudent, on prend son destin en main. Moi, je ne fais confiance à aucun opérateur.
 
@@ -32,4 +32,8 @@ Maintenant, ne me dites pas que les liseuses et les ebooks détruisent le busine
 
 En tant qu’auteur, je suis favorable à toutes les solutions qui favorisent la propagation de mes textes, surtout parce que je veux avoir la possibilité de critiquer ceux-là mêmes qui m’aident à m’exprimer. J’utilise au mieux la force de l’adversaire.
 
-![Amazon Kindle promo](https://tcrouzet.com/images_tc/2015/03/amazon.jpg)
+![Amazon Kindle promo](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/amazon-600x404.jpg)
+
+
+
+Tags: Amazon, édition, une

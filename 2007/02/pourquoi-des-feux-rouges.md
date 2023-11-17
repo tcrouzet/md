@@ -2,7 +2,7 @@
 
 Un lecteur vient de me soumettre une question qui me paraît fondamentale.
 
-> Je pense effectivement que globalement \[macroscopiquement\] nous vivons de façon auto-organisée… mais pourquoi a-t-on décidé de placer des feux rouges sur nos routes alors que cela n’est pas efficace ? Au début, la circulation routière n’était pas encore une affaire des états centralisateurs. Est-ce que l’erreur et le constat d’erreur sont inhérents au principe d’auto-organisation comme ils le sont pour les systèmes en apprentissage ?
+> Je pense effectivement que globalement \[macroscopiquement\] nous vivons de façon auto-organisée... mais pourquoi a-t-on décidé de placer des feux rouges sur nos routes alors que cela n'est pas efficace ? Au début, la circulation routière n'était pas encore une affaire des états centralisateurs. Est-ce que l'erreur et le constat d'erreur sont inhérents au principe d'auto-organisation comme ils le sont pour les systèmes en apprentissage ?
 
 J’écris ce billet dans le TGV en rentrant de Genève sans faire de recherche. Si je me souviens bien, les signalisations sont apparues à Londres bien avant l’arrivée des premières voitures, sans doute dès le début du dix-neuvième siècle, peut-être même avant. Elles sont apparues dans une société déjà très hiérarchisée qui a toujours réglé les problèmes en imposant des règles autoritaires.
 
@@ -10,7 +10,7 @@ La mise en place de signalisations s’est logiquement effectuée après d’aut
 
 Reste à savoir pourquoi l’auto-organisation ne s’est pas établie toute seule ? Pourquoi l’homme ignore systématiquement cette possibilité dès qu’il cherche consciemment à régler un problème ?
 
-Dans beaucoup de cas, par exemple les flux de piétons dans nos rues ou même l’urbanisme dans une certaine mesure, en tout cas jusqu’à une date récente, n’ont pas été légiférés aussi durement que le trafic routier. Pourquoi ? Parce que personne n’a songé à légiférer. Parce que l’auto-organisation a fonctionné. Des lois contraignantes n’apparaissent que quand l’auto-organisation échoue.
+Dans beaucoup de cas, par exemple les flux de piétons dans nos rues ou même l’urbanisme dans une certaine mesure, en tout cas jusqu’à une date récente, n’ont pas été légiférés aussi durement que le trafic routier. Pourquoi ? Parce que personne n’a songé à légiférer. Parce que l’auto-organisation a fonctionné. Des lois contraignantes n’apparaissent que quand l'auto-organisation échoue.
 
 Et elle échoue, je crois, par manque de connexions, à cause d’une limitation des technologies humaines. Les signalisations routières sont apparues à une époque où les fiacres étaient difficiles à contrôler, car leur humeur dépendait autant de celle des cochers que des chevaux. Freiner comme démarrer était bien plus compliqué qu’avec les voitures actuelles.
 

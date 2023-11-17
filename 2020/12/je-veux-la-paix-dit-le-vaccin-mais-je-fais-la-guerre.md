@@ -21,3 +21,5 @@ Quand Trump postule qu’il ne peut y avoir de société prospère sans ordre ni
 ---
 
 Me semble qu’il est important de méditer ce lien entre les vaccins, à vocation pacificatrice, et la méthode guerrière qui sous-tend leur commercialisation. Et si telle était l’origine inconsciente du mouvement antivax ?
+
+Tags: Covid, une

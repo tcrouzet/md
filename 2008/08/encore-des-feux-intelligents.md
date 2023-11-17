@@ -4,7 +4,7 @@ En lisant, NewScientist, je suis tombé sur quelques phrases qui m’ont fait pl
 
 > Scientists are beginning to see that toughest problems –how to control complex traffic flows, for example– are better solved through the random evolution or self-organisation of artificial systems than by human reasoning. Such thinking appears to be moving towards the mainstream, as societies increasingly face complex problem that overwhelm the human mind. Engineers are finding that their task is not so much to find solutions as to design systems that can discover their own.
 
-J’ai défendu cette idée tout au long du *Peuple des connecteurs*. Mark Buchanan revient sur [l’auto-organisation des feux de signalisation](http://www.newscientist.com/channel/being-human/mg19926681.500-why-complex-systems-do-better-without-us.html) en évoquant les travaux de [Dirk Helbing](http://www.soms.ethz.ch/).
+J'ai défendu cette idée tout au long du *Peuple des connecteurs*. Mark Buchanan revient sur [l’auto-organisation des feux de signalisation](http://www.newscientist.com/channel/being-human/mg19926681.500-why-complex-systems-do-better-without-us.html) en évoquant les travaux de [Dirk Helbing](http://www.soms.ethz.ch/).
 
 > What Helbing and others are finding is that our penchant for regularity and control is seriously misguided. In many situations they are discovering that it is better to give up some of our control and let systems find their own solutions. Often the answers turn out to be unlike anything our minds would imagine, yet the outcomes are far more efficient.
 
@@ -20,7 +20,7 @@ Regardez les simulations de Helding.
 
  
 
-![](https://tcrouzet.com/images_tc/2008/08/helbing.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/08/helbing.jpg)
 
 D’un côté, on maîtrise le comportement des feux, on les ajuste avec intelligence, de l’autre on les laisse se débrouiller en fixant simplement quelques règles d’interaction… et cette seconde approche donne de meilleurs résultats.
 
@@ -35,3 +35,5 @@ Il y a quelques mois, [un autre article de NewScientist](http://www.newscientist
 Parce que si l’expérience montre que leurs idées ne marchent pas, leur autorité en serait en amoindrie. Alors ils se lancent comme des irresponsables… et d’ailleurs la réalité les rattrape toujours, mais plus tard. Et il est alors temps pour vous de trouver des excuses.
 
 Il est d’ailleurs souvent question de temps. Il faut agir vite. Nous n’avons pas le temps de tergiverser. Oui mais c’est avec nos vies que vous jouez. Au final, vous nous faites perdre à tous beaucoup de temps.
+
+Tags: Connecteur

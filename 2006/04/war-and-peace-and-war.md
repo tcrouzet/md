@@ -4,8 +4,10 @@ Je suis en train de lire ce superbe [livre](http://www.amazon.fr/exec/obidos/ASI
 
 > The capacity for collective action, is a key factor in the rise of empires, écrit Peter Turchin.
 
-Capacité à maintenir les communications entre les membres de la société, capacité à travailler en équipe, liberté d’action individuelle… Quand un nouveau modèle organisationnel apparaît, quand il rencontre une société fragmentée qui a perdu ses repères, nous nous trouvons dans une situation favorable à la création d’un empire. N’est-ce pas le cas aujourd’hui ?
+Capacité à maintenir les communications entre les membres de la société, capacité à travailler en équipe, liberté d'action individuelle... Quand un nouveau modèle organisationnel apparaît, quand il rencontre une société fragmentée qui a perdu ses repères, nous nous trouvons dans une situation favorable à la création d'un empire. N'est-ce pas le cas aujourd'hui ?
 
-> The Cossacks valued freedom above all else, and were known to lead rebellion against the central government, écrit encore Turchin au sujet de l’empire russe.
+> The Cossacks valued freedom above all else, and were known to lead rebellion against the central government, écrit encore Turchin au sujet de l'empire russe.
 
- Je crois que tous les homes libres se préparent à cela aujourd’hui.
+ Je crois que tous les homes libres se préparent à cela aujourd'hui.
+
+Tags: Politique

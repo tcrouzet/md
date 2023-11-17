@@ -13,3 +13,5 @@ Tillman déteste Bush, sa politique, il comprend que la guerre en Irak n’est q
 Les trois livres de Krakauer démontrent que sans rêve notre société ne se transformera pas. Nous resterons des sédentaires consuméristes jusqu’à l’effondrement. Il n’existe qu’une possibilité : que chacun de nous effectue individuellement sa transition, une transition bien trop difficile pour qu’elle puisse être collective. Notre chemin ne vaut que pour nous.
 
 Krakauer commence toujours par raconter l’accident désastreux. C’est un effet de mise en scène, une façon de débuter par le climax, mais aussi de bien montrer que sans l’accident, sans le manque de chance, ses héros seraient encore vivants et anonymes… mais resteraient néanmoins des héros comme les millions de gens qui ont comme eux décidé de changer de vie.
+
+Tags: Critique

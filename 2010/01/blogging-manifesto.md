@@ -3,7 +3,7 @@
 1. Notre manifeste ne pourra jamais être écrit. Nos tentatives, nécessairement infructueuses, n’ont pour but que de provoquer la conversation.<span id="more-14219"></span>
 2. Nous ne défendrons notre liberté que si nous nous lions les uns aux autres et respectons des règles qui ont pour effet de fluidifier nos interactions.
 3. Nous sommes des citoyens comme les autres et ne demandons aucun statut spécifique. Nous voulons simplement exercer notre liberté d’expression.
-4. Nous exigeons que l’État ne favorise la liberté d’expression d’aucuns acteurs de la société.
+4. Nous exigeons que l’État ne favorise la liberté d’expression d'aucuns acteurs de la société.
 5. Nous évitons de faire prospérer les plates-formes centralisatrices, notamment propriétaires. Elles tentent d’accaparer tous les trafics pour qu’Internet ne se résume qu’à elles.
 6. Quand nous publions, nous linkons d’autres articles dès que c’est possible et nécessaire (les sources, les inspirations, les développements…).
 7. Nous publions chez nous, sur un site avec un nom de domaine qui lui est propre, en utilisant un logiciel Open Source.
@@ -13,7 +13,7 @@
 
 ### Commentaire point 1
 
-Depuis dix ans, des manifestes ont été écrits, [la Nétique par exemple](http://nethique.info/). Aujourd’hui, il est peut-être plus urgent que jamais d’en proposer de nouveaux, d’essayer d’établir entre nous quelques grandes lignes de force. Il ne s’agit pas de les prendre comme des lois, mais de les utiliser comme point de réflexion sur notre activité.
+Depuis dix ans, des manifestes ont été écrits, [la Nétique par exemple](http://nethique.info/). Aujourd'hui, il est peut-être plus urgent que jamais d’en proposer de nouveaux, d’essayer d’établir entre nous quelques grandes lignes de force. Il ne s’agit pas de les prendre comme des lois, mais de les utiliser comme point de réflexion sur notre activité.
 
 Un manifeste du blogueur ne peut exister, car il n’existe pas un blogueur idéal. Un manifeste du fait de bloguer est peut-être plus général, mais il ne peut par principe convenir à tous. Je cherche juste à réfléchir sur quelques mécanismes qui pourraient nous aider à survivre.
 
@@ -45,7 +45,7 @@ Dans une démocratie, aucune raison supérieure ne doit prévaloir sur la libert
 
 De même, juridiquement, un journaliste est mieux protégé qu’un citoyen. Un blogueur prend plus de risques quand il s’exprime qu’un journaliste. Ce dernier, couvert par son entreprise, ne risque en général par d’inculpation directe (sauf s’il est indépendant… ce qui le ramène au statut de citoyen). Cette inégalité juridique est une entrave à la libre application de la liberté d’expression.
 
-On parlera alors de l’art subventionné… Il me semble que l’État doit subventionner les infrastructures qui servent potentiellement tous les citoyens et non se lancer dans le mécénat. Pas simple cette affaire.
+On parlera alors de l'art subventionné... Il me semble que l’État doit subventionner les infrastructures qui servent potentiellement tous les citoyens et non se lancer dans le mécénat. Pas simple cette affaire.
 
 ### Commentaire point 5
 
@@ -97,7 +97,7 @@ Nous ne sommes pas en guerre contre les anciennes professions. Nombre d’entre 
 
 La différence, c’est que le blogueur parle en son nom, non pas en celui d’une entreprise ou d’une corporation. Le blogueur est à la fois seul et à la fois avec tous ceux avec qui il s’est lié. Le blogueur peut être amateur ou professionnel. Il reste artisan.
 
-Il peut y avoir un blog d’entreprise mais pas de blogueur d’entreprise, il n’y a que des salariés dans ce cas.
+Il peut y avoir un blog d’entreprise mais pas de blogueur d’entreprise, il n'y a que des salariés dans ce cas.
 
 ### Outil 1
 
@@ -106,3 +106,5 @@ Quel est le trafic général de la blogosphère ? Les sites pure-player annonce
 ### Outil 2
 
 Les trackbacks ont été plus ou moins abandonnés, mais ils ont un grand intérêt. Les lecteurs d’un billet peuvent savoir les blogueurs qui ont écrit après coup. Il est ainsi possible de remonter dans le réseau. C’est un véritable outil de navigation alternatif, une façon d’explorer la blogosphère de proche en proche, aussi bien avec les liens entrants qu’avec les liens sortants. Il faudrait développer des plugins qui proposent cette fonction, qui postent par exemple des commentaires sous les billets pour chacun des liens entrants détecté.
+
+Tags: NetCulture

@@ -1,6 +1,6 @@
 # Manager par la connexion
 
-Le 14 septembre, je participe à Genève à une conférence sur le [Management agile](http://www.rezonance.ch/rezo/classes/ft-first-tuesday/geneve/20060914/one-community). Ça me fait drôle. Quand j’étais manager dans la presse, j’étais tout sauf agile, plus proche de l’autocrate, pour ne pas dire du tyran. Je vais essayer de me justifier dès le premier slide ([power point à télécharger](https://tcrouzet.com/images_tc/DeeHock.ppt)).<span id="more-211"></span>
+Le 14 septembre, je participe à Genève à une conférence sur le [Management agile](http://www.rezonance.ch/rezo/classes/ft-first-tuesday/geneve/20060914/one-community). Ça me fait drôle. Quand j’étais manager dans la presse, j’étais tout sauf agile, plus proche de l’autocrate, pour ne pas dire du tyran. Je vais essayer de me justifier dès le premier slide ([power point à télécharger](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/DeeHock.ppt)).<span id="more-211"></span>
 
 **1/** Je suis plutôt mal placé pour donner des leçons. Durant mes études, j’étais un élève ingérable. Quand je me suis retrouvé à l’armée, ce fut une catastrophe, mon expérience la plus douloureuse, car je me heurtais sans cesse à une autorité trop visible. Quand j’ai bossé, ce ne fut guère mieux. Je n’ai trouvé qu’une solution : gravir les échelons pour avoir moins de pesanteur au-dessus de moi mais j’ai découvert que la pesanteur d’en bas était tout aussi lourde. J’ai vécu de plus en plus mal cette situation jusqu’à frôler le *burn out*. Un licenciement heureux m’a tiré d’affaire. Depuis, je ne fais que me manager moi-même et c’est déjà assez compliqué.
 
@@ -14,7 +14,7 @@ Alors pourquoi accepter de parler de management ? Parce que, suite au conseil d
 
 On me répète souvent ces paroles pour me signifier que je n’ai pas le droit de remettre en cause la démocratie. Il n’y aurait rien de mieux. Premièrement, je ne vois pas pourquoi Churchill aurait le dernier mot sur le sujet. Deuxièmement, j’ai fini par revenir au texte original où Churchill dit en fait :
 
-> Democracy is the worst form of government – except for all those other forms, that have been tried from time to time.
+> Democracy is the worst form of government - except for all those other forms, that have been tried from time to time.
 
 Pour Churchill, la démocratie est le moins mauvais des systèmes **essayés**. Rien ne nous empêche d’inventer mieux. Il nous suffit de faire preuve d’imagination. C’est vrai en politique, c’est vrai en management comme Dee Hock l’a prouvé.
 
@@ -46,13 +46,13 @@ Pour Dee Hock, la réponse à ces trois questions est évidente. La logique de l
 
 5. Recherche systématique des causes qui produisent les effets en oubliant les boucles de feedback.
 
-6. Mépris de l’environnement et des hommes au nom de la [croissance](https://tcrouzet.com/2006/05/30/croissance-illusoire/), ce qui interdit tout développement durable.
+6. Mépris de l’environnement et des hommes au nom de la [croissance](http://blog.tcrouzet.com/2006/05/30/croissance-illusoire/), ce qui interdit tout développement durable.
 
 7. Déresponsabilisation des individus, capables de commettre des horreurs au nom de leur entreprise (un peu comme les soldats sous prétexte qu’ils sont en guerre).
 
-Dès les années 1960, Dee Hock avait, plus au moins consciemment, abouti au constat que l’âge industriel nous rend [schizophrènes](https://tcrouzet.com/2006/09/05/politicien-egale-cure/). Le réductionnisme est allé trop loin. Tout est séparé, même nous-même, entre le moi qui travaille et celui qui rentre chez lui et celui qui est citoyen. Du coup, l’un peut commettre des atrocités dont l’autre se lave les mains.
+Dès les années 1960, Dee Hock avait, plus au moins consciemment, abouti au constat que l’âge industriel nous rend [schizophrènes](http://blog.tcrouzet.com/2006/09/05/politicien-egale-cure/). Le réductionnisme est allé trop loin. Tout est séparé, même nous-même, entre le moi qui travaille et celui qui rentre chez lui et celui qui est citoyen. Du coup, l’un peut commettre des atrocités dont l’autre se lave les mains.
 
-**6/** Pour Dee Hock, il était temps de [devenir responsable](https://tcrouzet.com/2006/09/05/politicien-egale-cure/). Il était temps d’inventer une nouvelle façon de vivre ensemble comme de travailler ensemble. Depuis l’avènement de l’âge industriel, et son mode ne management par le haut, nous n’avions inventé aucun nouveau mode d’organisation. Il était temps d’essayer autre chose. Et pour commencer, il fallait changer de perspective :
+**6/** Pour Dee Hock, il était temps de [devenir responsable](http://blog.tcrouzet.com/2006/09/05/politicien-egale-cure/). Il était temps d’inventer une nouvelle façon de vivre ensemble comme de travailler ensemble. Depuis l’avènement de l’âge industriel, et son mode ne management par le haut, nous n’avions inventé aucun nouveau mode d’organisation. Il était temps d’essayer autre chose. Et pour commencer, il fallait changer de perspective :
 
 1. Toutes les choses sont indépendantes.
 
@@ -84,16 +84,18 @@ Le 11 mars 1970, National BankAmericard, Inc, le premier réseau de cartes de cr
 
 Durant tout ce temps, Dee Hock resta très discret. Jamais il ne gagna un salaire mirobolant, jamais il ne reçut de stock option puisque Visa ne pouvait pas en distribuer. À cette époque, jamais il ne fit la une des magazines. En mai 1984, âgé de 55 ans, il quitta Visa pour se retirer dans son ranch. Et ce n’est qu’après dix ans d’isolement qu’il accepta de revenir sur cette aventure, qu’il la raconta puis qu’il finit par écrire son livre. C’est en lisant *[Complexity](http://www.amazon.com/Complexity-Emerging-Science-Order-Chaos/dp/0671872346/sr=8-1/qid=1157548159/ref=sr_1_1/103-9232615-4636605?ie=UTF8&s=books)* de Mitchell Waldrop qu’il comprit qu’il avait réinventé la théorie de la complexité.
 
-Il forgea alors le mot *[chaord](https://tcrouzet.com/2006/07/18/chaordic-age/)* pour décrire les structures qui ne sont ni ordonnées, ni chaotiques, mais présentent un état intermédiaire.
+Il forgea alors le mot *[chaord](http://blog.tcrouzet.com/2006/07/18/chaordic-age/)* pour décrire les structures qui ne sont ni ordonnées, ni chaotiques, mais présentent un état intermédiaire.
 
 > **Chaord** 1. N’importe quel système auto-organisé, autocontrôlé, adaptatif, non linéaire, qu’il soit un organisme, une organisation ou une communauté, qu’il soit physique, biologique ou social, qui montre simultanément des comportements ordonnés et chaotiques. 2. Entité dont le comportement montre des propriétés qui ne sont pas gouvernées et expliquées par les règles qui gouvernent et expliquent ses parties.
 
 En 1992, *Money Magazine* désigna Dee Hock comme un des hommes qui a le plus changé notre façon de vivre au cours des dernières décennies du vingtième siècle. Je crois que personne n’a encore mesuré sa véritable influence.
 
-En lntroduction d’un [entretien avec Dee Hock](http://www.wie.org/FR/j22/hockintro.asp), à lire absolument, Melissa Hoffman cite [Arcadia de Tom Stoppard](http://fr.wikipedia.org/wiki/Tom_Stoppard) :
+En lntroduction d'un [entretien avec Dee Hock](http://www.wie.org/FR/j22/hockintro.asp), à lire absolument, Melissa Hoffman cite [Arcadia de Tom Stoppard](http://fr.wikipedia.org/wiki/Tom_Stoppard) :
 
 > Une porte comme celle-ci s’est entrouverte cinq ou six fois depuis que nous nous sommes redressés sur nos jambes. C’est le meilleur moment possible pour être en vie, alors que presque tout ce que nous croyions savoir est faux.
 
 J’ai ressenti la même chose en lisant [The Birth of Chaordic Age](http://www.amazon.fr/gp/product/1576750744/402-5334915-1934535?v=glance&n=52042011).
 
 Quelques liens pour aller plus loin : [Chaordic Common](http://www.chaordic.org), [Leader to leader](http://leadertoleader.org/leaderbooks/L2L/winter2000/hock.html) (avec une liste de conseils pour les managers), [The Trillion-Dollar Vision of Dee Hock](http://www.fastcompany.com/online/05/deehock.html), [wikipedia](http://en.wikipedia.org/wiki/Dee_Hock).
+
+Tags: Conf, noepub, Politique

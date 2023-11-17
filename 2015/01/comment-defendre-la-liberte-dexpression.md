@@ -40,6 +40,10 @@ Se lever pour la liberté d’expression, c’est une bonne intention qui doit s
 
 > La liberté d’expression dépend de l’usage que chacun fait de sa liberté d’écouter, de lire, de voir… C’est nous-mêmes qui la mettons en danger par notre fainéantise.
 
-*PS : Au moment où la nation se trouve renforcée, les grands journaux voient leur audience augmenter, signe déjà d’une recentralisation de l’audience, signe que de nombreuses autres voix parlent dans le vide.*
+*PS : Au moment où la nation se trouve renforcée, les grands journaux voient leur audience augmenter, signe déjà d'une recentralisation de l'audience, signe que de nombreuses autres voix parlent dans le vide.*
 
-![Où est Charlie maintenant ? Tout là-bas dans le bleu.](https://tcrouzet.com/images_tc/2015/01/soleil.jpg)
+![Où est Charlie maintenant ? Tout là-bas dans le bleu.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/soleil.jpg)
+
+
+
+Tags: Liberté, Politique, une

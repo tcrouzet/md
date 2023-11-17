@@ -4,7 +4,7 @@ Nous savons que les adeptes de la haute finance sont [des psychopathes](http://w
 
 Un ami qui appartient à ce gotha, mais qui en souffre sans réussir à s’en échapper, m’a dit un jour « L’intelligence est de notre côté. On est plus brillant que n’importe quel ministre des Finances. » Cette proposition était peut-être valable jusqu’à ce qu’un associé de chez Rothschild, revenu estimé [125 000 €/mois](https://twitter.com/DionJack2/status/506786028120989696), devienne justement ministre des Finances en France.
 
-Alors, oui, il connaît les rouages du système financier. Il sait très bien comment la monnaie se fabrique *ex nihilo* et comment les banquiers exigent des intérêts sur cet argent ([pour ceux qui en doutent encore, suivez les explications de la Banque d’Angleterre](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q102.pdf)). Croyez-vous qu’il changera ce mécanisme même, celui qui l’a rendu riche hier, et qui le rendra encore plus riche demain quand il reprendra une vie normale, après avoir protégé ses amis de la seule mesure qui s’impose : interdire aux banques de créer de la monnaie et d’exiger des intérêts sur l’argent qu’elles n’ont jamais eu.
+Alors, oui, il connaît les rouages du système financier. Il sait très bien comment la monnaie se fabrique *ex nihilo* et comment les banquiers exigent des intérêts sur cet argent ([pour ceux qui en doutent encore, suivez les explications de la Banque d’Angleterre](http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2014/qb14q102.pdf)). Croyez-vous qu’il changera ce mécanisme même, celui qui l'a rendu riche hier, et qui le rendra encore plus riche demain quand il reprendra une vie normale, après avoir protégé ses amis de la seule mesure qui s’impose : interdire aux banques de créer de la monnaie et d’exiger des intérêts sur l’argent qu’elles n’ont jamais eu.
 
 Faute de cette mesure, notre ministre n’a qu’une solution, la rigueur, c’est-à-dire nous faire payer encore et encore. Le remboursement de la dette est devenu si gigantesque qu’il absorbe tout tel un trou noir. L’argent ne circule plus entre nous, pour nous aider à vivre, mais il file droit dans les caisses des quelques apparatchiks, dont notre ministre.
 
@@ -18,6 +18,6 @@ Nous avons des solutions, ils n’en parlent pas. Ils ont même une armée de sb
 
 Surtout, ne changeons rien. Développons des technologies médicales qui coûteront des millions et que seuls les banksters et leurs ayants droit s’offriront. Inventons une humanité à deux vitesses. « Plaçons nos hommes au pouvoir, se disent les Rothschild &amp; cie. Subvertissons ceux qui y sont arrivés malgré nous. Ne nous cachons plus. Il n’est plus question de tergiverser. C’est la guerre finale contre l’humanisme. »
 
-Je suis sous le choc. Parce qu’il s’est produit la même chose durant l’antiquité, en Alexandrie. C’est le sujet même de mon [*Ératosthène*](https://tcrouzet.com/eratosthene/), et ça recommence, de la même façon.
+Je suis sous le choc. Parce qu'il s'est produit la même chose durant l'antiquité, en Alexandrie. C'est le sujet même de mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/), et ça recommence, de la même façon.
 
-<div class="iframe" id="iframe10"></div>
+Tags: MRDB, Revenu de base, une

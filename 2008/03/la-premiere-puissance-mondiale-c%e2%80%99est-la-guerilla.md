@@ -1,10 +1,10 @@
 # La première puissance mondiale, c’est la guérilla
 
-![untitled-1.jpg](https://tcrouzet.com/images_tc/2008/03/untitled-1.jpg)
+![untitled-1.jpg](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/03/untitled-1.jpg)
 
-À la fin de [*Brave New War*](https://tcrouzet.com/2008/02/22/le-cinquieme-pouvoir-militaire/), John Robb prédit que si nous ne construisons pas volontairement une société décentralisée, elle adviendra tout de même et avec brutalité. Cette prévision n’a pas plus d’intérêt qu’une autre. Je m’intéresse au raisonnement qui la motive (et que j’interprète).<span id="more-775"></span>
+À la fin de [*Brave New War*](http://blog.tcrouzet.com/2008/02/22/le-cinquieme-pouvoir-militaire/), John Robb prédit que si nous ne construisons pas volontairement une société décentralisée, elle adviendra tout de même et avec brutalité. Cette prévision n’a pas plus d’intérêt qu’une autre. Je m’intéresse au raisonnement qui la motive (et que j'interprète).<span id="more-775"></span>
 
-1. Lorsqu’une société centralisée se sent en danger, [elle se centralise de plus en plus pour préserver son intégrité](https://tcrouzet.com/2007/06/03/l%e2%80%99etat-est-malade-il-a-peur/) (renforcement des lois liberticides, attaque contre les francs-tireurs – les blogueurs par exemple –, aide en faveur des industries centralisées – énergie atomique par exemple…). Je fabule peut-être mais j’ai souvent l’impression que nous vivons le début de ce cauchemar.
+1. Lorsqu’une société centralisée se sent en danger, [elle se centralise de plus en plus pour préserver son intégrité](http://blog.tcrouzet.com/2007/06/03/l%e2%80%99etat-est-malade-il-a-peur/) (renforcement des lois liberticides, attaque contre les francs-tireurs – les blogueurs par exemple –, aide en faveur des industries centralisées – énergie atomique par exemple…). Je fabule peut-être mais j’ai souvent l’impression que nous vivons le début de ce cauchemar.
 
 2. Plus une société est centralisée, plus elle est vulnérable car il suffit d’atteindre ses centres névralgiques pour la déstabiliser. Par exemple, notre système énergétique est en grande partie centralisé. Un simple dysfonctionnement en un point du réseau de distribution peut paralyser des dizaines de millions de foyers. Un peu partout dans le monde, des pannes accidentelles ont déjà démontré cette vulnérabilité.
 
@@ -28,7 +28,7 @@ Notes
 
 1. Robb est un ancien militaire américain, spécialiste du contre-terrorisme.
 
-2. Il fait souvent appel aux [black swans](https://tcrouzet.com/2006/07/17/l%e2%80%99irresponsabilite-des-politiques/) pour justifier sa prévision. C’est un comble.
+2. Il fait souvent appel aux [black swans](http://blog.tcrouzet.com/2006/07/17/l%e2%80%99irresponsabilite-des-politiques/) pour justifier sa prévision. C’est un comble.
 
 3. Quand j’entends parler de 9/11 comme d’un complot américain pour mettre la main sur les matières premières du Moyen-Orient, j’ai chaque fois un coup de sang. Je vois des gens qui interprètent les évènements selon la vieille logique étatique et centralisatrice. Adoptez une seconde une nouvelle perceptive. Vous verrez que les vieux épouvantails sont en train de se faire plumer par de nouvelles forces qu’ils ne contrôlent pas. La situation est simple. Il n’y a rien de caché, pas de mystère, nous sommes dans l’open-source. Cette limpidité est si neuve dans le champ politique qu’elle est parfois difficile à accepter (et son ouverture la rend justement terriblement puissante).
 
@@ -41,3 +41,5 @@ Notes
 7. La société centralisée a pour pire ennemi la société centralisée. En s’attaquant à la liberté des citoyens (corporatisme oblige, je pense encore une fois aux blogueurs), elle est en train de se faire beaucoup de mal. Si elle persiste sur cette voie, elle poussera de plus en plus de gens dans le camp de la guérilla. Tant que les voisins prennent des coups, la plupart des gens ne bougent pas. Quand on les frappe directement eux ou leur famille, ils changent soudainement d’attitude.
 
 8. En se recroquevillant autour de services centraux, Google, Flickr, YouTube, Facebook, le web devient de plus en plus vulnérable. Si des hackers entrent dans les bases de données de ces sites et en extraient des données confidentielles de centaines de millions d’utilisateurs, le modèle 2.0 capotera. J’espère que le web 3.0 signera un retour de la décentralisation perdue ces derniers temps. J’ai souvent vu, et je vois encore, le 2.0 comme une régression par rapport à l’idée originelle du web.
+
+Tags: Politique

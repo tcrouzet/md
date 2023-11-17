@@ -8,7 +8,7 @@ Je rentre de faire mes courses. Pas dans de très grandes surfaces, dont j’ai 
 
 Les clients entraient et sortaient comme des automates, poussant leur caddy avec leurs mains potentiellement infectées. Tous masqués, mais tous contagieux néanmoins. Voilà les comportements qui devraient être proscrits, pas d’acheter des livres en librairies ou de s’éloigner à plus d’un kilomètre de chez soi pour prendre l’air, comme si loin de chez soi on était plus contagieux qu’à proximité.
 
-Avec ce gouvernement quelque chose bloque, comme si changer de stratégie, ou la faire évoluer, revenait à reconnaître les erreurs commises ou admettre que certaines mesures liberticides n’ont tout simplement aucun intérêt, et ne sont maintenu que parce il serait bon de souffrir pour aboutir à un résultat positif. Il y a pas loin d’une philosophie masochiste.
+Avec ce gouvernement quelque chose bloque, comme si changer de stratégie, ou la faire évoluer, revenait à reconnaître les erreurs commises ou admettre que certaines mesures liberticides n’ont tout simplement aucun intérêt, et ne sont maintenu que parce il serait bon de souffrir pour aboutir à un résultat positif. Il y a pas loin d'une philosophie masochiste.
 
 Par exemple, il a été démontré qu’un semi-confinement à la suisse ou à l’allemande était plus efficace qu’un confinement à la française, car il enraye tout autant l’épidémie, tout en impactant moins l’économie, maintenant le moral des citoyens, qui moins défiants sont alors plus enclins à adopter les mesures sanitaires indispensables.
 
@@ -18,12 +18,14 @@ Notre Premier ministre ne veut rien savoir, il persiste dans l’erreur. Il nous
 
 Nous pourrions les accepter si le gouvernement était irréprochable, mais ce n’est pas le cas. Ce mauvais élève n’a pas à faire régner la terreur dans toute la classe. Dans notre livre [*Vaincre les épidémies*](https://tcrouzet.com/vaincre-les-epidemies/), nous avons proposé un seuil d’alerte à ne plus jamais oublier lors d’une épidémie : 1 mort par million d’habitants. Depuis le 22 septembre, la France a franchi ce seuil et nous avons passé 31 jours au-dessus, nous classant parmi les plus mauvais élèves en Europe. Encore une fois, nous avons pris du retard, et le retard implique des représailles sur chacun de nous.
 
-![La France à la ramasse](https://tcrouzet.com/images_tc/2020/10/Daysabove22.png)
+![La France à la ramasse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/Daysabove22.png)
 
-![Morts par million depuis le 1/8/2020](https://tcrouzet.com/images_tc/2020/10/since.png)
+![Morts par million depuis le 1/8/2020](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/since.png)
 
-![Jours pour doubler les morts (depuis 1/8)](https://tcrouzet.com/images_tc/2020/10/double3.png)
+![Jours pour doubler les morts (depuis 1/8)](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/double3.png)
 
 Vous les voyez comme moi, les bons élèves, l’Allemagne ou la Suisse parmi nos voisins. Que font-ils ? Quelles mesures adoptent-ils ? Les promeneurs arpentent les forêts, les cyclistes les routes, ils ne signent pas de formulaire pour sortir de chez eux… Toutes les activités où la distanciation sociale est possible sont maintenues. Mais pourquoi ne prenons-nous pas exemple ? Pourquoi faire différemment ? Est-ce parce que vous pensez Monsieur le ministre que nous sommes plus bêtes que nos voisins ? N’avez-vous aucun respect pour nous ? Parce que voilà ce que je ressens et je ne dois pas être le seul.
 
 Attention, je ne dis pas que des mesures difficiles n’étaient pas nécessaires, [je me suis expliqué à ce sujet](https://tcrouzet.com/2020/10/25/des-mesures-plus-restrictives-sont-inevitables/), mais il y a aucune raison de les rendre encore plus difficiles à accepter, voire à nous inciter à les rejeter parce qu’elles manquent de cohérence.
+
+Tags: Covid, une

@@ -37,3 +37,5 @@ J'organise le 727 pour le bonheur non pour la fortune, la gloire, la reconnaissa
 Le bonheur, oui, bien plus que le plaisir en fin de compte. Le bonheur d'être avec vous dans la région où je suis né et que j'aime de plus en plus en même temps que je l'arpente pour vous procurer un bonheur que j'espère le plus pur possible.
 
 *PS : J'ai bien sûr écrit ce billet avant tout pour me faire plaisir.*
+
+Tags: 727, Born to Bike, une

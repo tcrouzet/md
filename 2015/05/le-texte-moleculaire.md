@@ -13,3 +13,5 @@ Alors je tombe sur une réflexion de l’indispensable [Jiminy Panoz](http://jim
 > Le saut d’idée, c’est le découpage du texte en molécules ; c’est une rupture plus ou moins visible entre deux idées ; c’est un signal subtil pour le lecteur ; c’est un outil supplémentaire pour gérer le flux donc le rythme de lecture.
 
 Je suis exactement en train d’écrire un texte moléculaire. Chacune de mes minutes est une molécule. On peut certes tourner la page pour passer à la suivante, mais en théorie on pourrait également rester dans le même lieu, le même pays, le même thème, le même personnage… Alors le livre se construirait au gré de la lecture ([comme je l’avais esquissé avec mon proto Ératosthène interactif](http://ihl.tcrouzet.com/)). Reste à inventer une ergonomie, une interface naturelle pour ce type de lecture… à Jiminy de se mettre au travail. La matière première est là.
+
+Tags: NetLittérature, une

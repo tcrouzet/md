@@ -34,23 +34,23 @@ Un premier exemple. [En décembre 2008](http://www.wired.com/culture/culturerevi
 
 ### 8
 
-En janvier, *[Le Monde](http://www.lemonde.fr/technologies/article/2009/01/20/le-sms-cree-un-nouveau-genre-litteraire_1142423_651865.html)* publie un article sur ce roman dont je commence juste l’écriture. [D’autres médias et blogs](https://tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-chroniques/) parleront de l’expérience jusqu’à ce que je termine la rédaction en avril 2010, 5200 tweets plus tard. À ce moment, je me contente d’[autopublie](http://en.wikipedia.org/wiki/Fifty_Shades_of_Grey)r le texte (de fait déjà publié sur Twitter). Je vends une centaine d’exemplaires. C’est la fortune.
+En janvier, *[Le Monde](http://www.lemonde.fr/technologies/article/2009/01/20/le-sms-cree-un-nouveau-genre-litteraire_1142423_651865.html)* publie un article sur ce roman dont je commence juste l’écriture. [D’autres médias et blogs](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-chroniques/) parleront de l’expérience jusqu’à ce que je termine la rédaction en avril 2010, 5200 tweets plus tard. À ce moment, je me contente d’[autopublie](http://en.wikipedia.org/wiki/Fifty_Shades_of_Grey)r le texte (de fait déjà publié sur Twitter). Je vends une centaine d’exemplaires. C’est la fortune.
 
 ### 9
 
-Durant l’été 2011, Isabelle Seguin lit le roman et me suggère de le retravailler pour qu’on le publie chez Fayard. [Il sort en mars 2013.](https://tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-chroniques/) Confirmation de ma loi : proportionnellement à la taille des marchés, le livre papier ne réussit pas mieux que l’ebook. Mais force du papier : on m’invite pour ce texte dans les salons (ce qui était impensable avant, comme si abattre des arbres faisait de nous des écrivains).
+Durant l’été 2011, Isabelle Seguin lit le roman et me suggère de le retravailler pour qu’on le publie chez Fayard. [Il sort en mars 2013.](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-chroniques/) Confirmation de ma loi : proportionnellement à la taille des marchés, le livre papier ne réussit pas mieux que l’ebook. Mais force du papier : on m’invite pour ce texte dans les salons (ce qui était impensable avant, comme si abattre des arbres faisait de nous des écrivains).
 
 ### 10
 
-Un second exemple. [Le 20 avril 2010](https://tcrouzet.com/2010/04/20/j%E2%80%99ai-eu-l%E2%80%99idee/), je publie sur mon blog une collection d’idées. Exemple : « *[J’ai eu l’idée](https://tcrouzet.com/id/) de m’endormir tous les soirs dans les bras de la même femme.* » Commentaires chaleureux de mes lecteurs. François Bon veut le texte pour [publie.net](http://www.publie.net/). Encouragé, j’ajoute de nouvelles idées. [Le recueil sort en ebook le 1<sup>er</sup> mai 2010.](https://tcrouzet.com/2010/05/01/295-idees-payantes/) Du blog à l’édition, ça fonctionne aussi.
+Un second exemple. [Le 20 avril 2010](http://blog.tcrouzet.com/2010/04/20/j%E2%80%99ai-eu-l%E2%80%99idee/), je publie sur mon blog une collection d’idées. Exemple : « *[J’ai eu l’idée](http://blog.tcrouzet.com/id/) de m’endormir tous les soirs dans les bras de la même femme.* » Commentaires chaleureux de mes lecteurs. François Bon veut le texte pour [publie.net](http://www.publie.net/). Encouragé, j’ajoute de nouvelles idées. [Le recueil sort en ebook le 1<sup>er</sup> mai 2010.](http://blog.tcrouzet.com/2010/05/01/295-idees-payantes/) Du blog à l’édition, ça fonctionne aussi.
 
 ### 11
 
-Je me prends à ce jeu d’écriture. « *[J’ai eu l’idée](https://tcrouzet.com/id/) de lui faire deux fils pour ne plus jamais dormir tranquille.* » Durant tout l’été, je gratte de nouvelles idées. En septembre 2010, je prépare une deuxième mouture. Mon ami [Pacco](http://pacco.fr/), le dessinateur de BD, [esquisse quatre couvertures](https://tcrouzet.com/2010/09/20/choisissez-votre-couverture-preferee/) que je publie aussitôt sur le blog. Collectivement avec les lecteurs, nous choisissons celle avec [le poisson rouge](https://tcrouzet.com/2010/09/26/choisissez-une-couverture-ii/).
+Je me prends à ce jeu d’écriture. « *[J’ai eu l’idée](http://blog.tcrouzet.com/id/) de lui faire deux fils pour ne plus jamais dormir tranquille.* » Durant tout l’été, je gratte de nouvelles idées. En septembre 2010, je prépare une deuxième mouture. Mon ami [Pacco](http://pacco.fr/), le dessinateur de BD, [esquisse quatre couvertures](http://blog.tcrouzet.com/2010/09/20/choisissez-votre-couverture-preferee/) que je publie aussitôt sur le blog. Collectivement avec les lecteurs, nous choisissons celle avec [le poisson rouge](http://blog.tcrouzet.com/2010/09/26/choisissez-une-couverture-ii/).
 
 ### 12
 
-En septembre 2012, François lance [Publie.papier](http://www.publiepapier.fr/). *[J’ai eu l’idée](https://tcrouzet.com/id/)*, révisé et augmenté, est finalement disponible en librairie. Nouvelle confirmation de ma loi. Mais, un an plus tard, surprise. [On retrouve la couverture du livre dans tout Paris.](http://www.tierslivre.net/spip/spip.php?article3668) Apple l’utilise pour illustrer une pub iPad. Du blog au 4×3, ça marche aussi (juré, je ne connais pas l’agence de pub d’Apple).
+En septembre 2012, François lance [Publie.papier](http://www.publiepapier.fr/). *[J’ai eu l’idée](http://blog.tcrouzet.com/id/)*, révisé et augmenté, est finalement disponible en librairie. Nouvelle confirmation de ma loi. Mais, un an plus tard, surprise. [On retrouve la couverture du livre dans tout Paris.](http://www.tierslivre.net/spip/spip.php?article3668) Apple l’utilise pour illustrer une pub iPad. Du blog au 4x3, ça marche aussi (juré, je ne connais pas l’agence de pub d’Apple).
 
 ### 13
 
@@ -58,7 +58,7 @@ Si par le passé tous les livres suivaient la fameuse chaîne du livre : Auteur
 
 ### 14
 
-L’influenceur capable de faire vendre un livre à lui seul n’existe plus (genre le 4×3). C’est le règne du bouche-à-oreille à travers les réseaux sociaux, numériques ou nom. Un blogueur a autant de poids qu’un journaliste, presque autant qu’un présentateur TV. Un livre ne se vend que si des lecteurs en deviennent les VRP (et évitent à l’auteur de consacrer 80 % de son temps à sa promo).
+L’influenceur capable de faire vendre un livre à lui seul n’existe plus (genre le 4x3). C’est le règne du bouche-à-oreille à travers les réseaux sociaux, numériques ou nom. Un blogueur a autant de poids qu’un journaliste, presque autant qu’un présentateur TV. Un livre ne se vend que si des lecteurs en deviennent les VRP (et évitent à l’auteur de consacrer 80 % de son temps à sa promo).
 
 ### 15
 
@@ -82,7 +82,8 @@ Il arrive même que le désir d’un texte par l’éditeur précède l’envie 
 
 ### 20
 
-Aucun éditeur n’estimait financièrement judicieux que j’écrive *[L’homme qui lave les mains](https://tcrouzet.com/homme-qui-lave-les-mains/)*. Je l’ai écrit tout de même parce que raconter l’invention d’un geste qui sauve des millions de vies me paraissait nécessaire. Je l’ai écrit parce qu’écrire ne demande que de la volonté (et pas vraiment d’argent). Je l’ai écrit parce qu’écrire change le monde (au moins mon petit monde).
+Aucun éditeur n’estimait financièrement judicieux que j’écrive *[L’homme qui lave les mains](http://blog.tcrouzet.com/homme-qui-lave-les-mains/)*. Je l’ai écrit tout de même parce que raconter l’invention d’un geste qui sauve des millions de vies me paraissait nécessaire. Je l’ai écrit parce qu’écrire ne demande que de la volonté (et pas vraiment d’argent). Je l’ai écrit parce qu’écrire change le monde (au moins mon petit monde).
 
-<div class="iframe" id="iframe22"></div>
 *PS : Je sais que je ne sais pas lire. Si vous savez mieux que moi, [voici la vidéo vierge](https://dl.dropboxusercontent.com/u/16630632/pecha_crouzet.mp4). Amusez-vous.*
+
+Tags: NetLittérature, noepub, une, ZAL

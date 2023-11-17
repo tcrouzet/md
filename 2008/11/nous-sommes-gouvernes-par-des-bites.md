@@ -11,3 +11,5 @@ Nous nous y infiltrerons d’autant plus facilement que ceux qui vous commandent
 Nous n’avons pas besoin de blocage mais de plus d’ouverture. Nous devons réinventer les mécanismes économiques qui agonisent sous nos yeux. En défendant avec autant d’acharnement le passé, vous nous aidez, par réaction, à nous presser vers l’avenir.
 
 Aujourd’hui, seuls quelques initiés savent déjouer vos censures, demain nous serons des millions, nous formeront une nouvelle armée qui vous laissera impuissants. Par vos mesures désuettes, vous précipitez votre fin et annoncez notre avènement.
+
+Tags: Hadopi

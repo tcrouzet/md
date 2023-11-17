@@ -4,7 +4,7 @@ On parle souvent dans les fils de commentaire de sectarisme et je suis victime d
 
 Juste pour être compréhensible. Dans une maison d’édition, il y deux personnes qu’on appelle chacune éditeur. Le patron de la maison et les éditeurs, ou copy editors comme disent les anglo-saxons.
 
-Depuis longtemps, je travaille *L’homme qui inventa la Terre* avec mon copy editor (titre qui n’est pas de moi et réducteur par rapport à mon sujet). Et voilà que mon éditeur vient de finir par lire le livre et de décider qu’il ne publierai pas.
+Depuis longtemps, je travaille *L’homme qui inventa la Terre* avec mon copy editor (titre qui n'est pas de moi et réducteur par rapport à mon sujet). Et voilà que mon éditeur vient de finir par lire le livre et de décider qu’il ne publierai pas.
 
 > Ce livre est un ovni. Ni roman, ni essai, ni biographie, ni récit, ni document… je n’en vendrai pas dix exemplaires.
 

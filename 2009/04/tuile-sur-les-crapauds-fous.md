@@ -1,6 +1,6 @@
 # Tuile sur les crapauds fous
 
-[Aucun n’a résisté à la migration](https://tcrouzet.com/2009/04/02/les-crapauds-fous/), ou presque. J’ai passé la matinée de hier à lire des articles sur les crapauds, encore ce matin en rentrant de Paris dans le TGV, connecté avec mon iPhone jailbreaké.<span id="more-5315"></span>
+[Aucun n’a résisté à la migration](http://blog.tcrouzet.com/2009/04/02/les-crapauds-fous/), ou presque. J’ai passé la matinée de hier à lire des articles sur les crapauds, encore ce matin en rentrant de Paris dans le TGV, connecté avec mon iPhone jailbreaké.<span id="more-5315"></span>
 
 Je n’ai trouvé aucun article scientifique soutenant la théorie quand je reçois un mail de Pierre de La Coste, [l’auteur de l’article initial sur les crapauds](http://hyperrepublique.blogs.com/public/2008/06/la-thorie-du-cr.html), qui me dit qu’il a tout simplement inventé. La théorie était belle mais, plus qu’une métaphore, c’est une légende urbaine, pas vraiment ce que je cherche.
 
@@ -11,3 +11,5 @@ En fait, je sais tout sur les crapauds maintenant. Les têtards naissent au prin
 Il semble donc que certains individus ne retournent pas vers leur lieu de naissance mais je n’ai pas encore découvert une étude quantitative qui me dirait dans quelle proportion (j’ai juste lu [l’abstract de l’article cité](http://www.springerlink.com/content/l7742r2401507863/)). J’ai ailleurs découvert que le taux de mortalité lors de la migration est souvent de 50 %, notamment au passage des routes.
 
 Si l’essentiel de la métaphore peut tenir, il faut oublier l’idée que le crapaud fou peut aider à perpétuer l’espèce. Peut-être que s’il trouve une nouvelle mare, il contribue à la variabilité génétique et évite la consanguinité. Je continue mes lectures mais mon enthousiasme en a pris un coup. Vais-je devoir me tourner vers les écureuils fous qui, pour le coup, sont beaucoup plus laborieux mais non moins efficaces ?
+
+Tags: Crapauds

@@ -1,6 +1,6 @@
 # Bayrou peut-il gagner ?
 
-Dans [*Le cinquième pouvoir*](https://tcrouzet.com/le-cinquieme-pouvoir/), je démontre que le second tour des présidentielles sera ouvert à ceux qui adopteront une stratégie novatrice et porteront haut et fort des [idées radicalement nouvelles](https://tcrouzet.com/2006/11/06/troisieme-voie-en-image/).
+Dans [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), je démontre que le second tour des présidentielles sera ouvert à ceux qui adopteront une stratégie novatrice et porteront haut et fort des [idées radicalement nouvelles](http://blog.tcrouzet.com/2006/11/06/troisieme-voie-en-image/).
 
 Le PS et l’UMP n’ont pas besoin de se lancer sur ce terrain. Ils ont toutes leurs chances en restant conservateurs. Pour eux, ce serait même une folie de s’éloigner de leur fond de commerce habituel. Le risque est trop grand au regard des bénéfices potentiels.
 
@@ -13,3 +13,5 @@ S’il adopte des idées novatrices, il peut gagner la présidentielle, c’est 
 Quel chemin choisira Bayrou ?
 
 Veut-il oui ou non devenir Président ? Il peut gagner. Le veut-il vraiment ? Nous le saurons très bientôt. Il a un gambit à jouer : sacrifier *a priori* les législatives pour gagner la présidence.
+
+Tags: Politique

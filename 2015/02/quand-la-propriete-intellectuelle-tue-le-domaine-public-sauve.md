@@ -22,7 +22,7 @@ Enseignement :
 
 ### États-Unis durant les fifties
 
-Après avoir travaillé pour l’armée américaine, [Jonas Salk](http://fr.wikipedia.org/wiki/Jonas_Salk) installe son laboratoire à l’université de Pittsburgh, en Pennsylvanie, où il devient professeur. Grâce à une bourse de l’Infantile Paralysis Foundation, il met au point le premier vaccin contre la poliomyélite. En 1955, après plus d’un million de tests, le vaccin est déclaré efficace.
+Après avoir travaillé pour l’armée américaine, [Jonas Salk](http://fr.wikipedia.org/wiki/Jonas_Salk) installe son laboratoire à l'université de Pittsburgh, en Pennsylvanie, où il devient professeur. Grâce à une bourse de l’Infantile Paralysis Foundation, il met au point le premier vaccin contre la poliomyélite. En 1955, après plus d’un million de tests, le vaccin est déclaré efficace.
 
 Salk décide de ne pas le breveter, renonçant potentiellement à 7 milliards de dollars. Ses raisons : en tant que professeur, il estime avoir de quoi vivre heureux. Conséquence : partout dans le monde, les laboratoires peuvent fabriquer le vaccin à moindre coût.
 
@@ -80,7 +80,7 @@ Mais nous ne vivons pas dans le meilleur des mondes. Pour un innovateur, choisir
 
 2. L’innovateur doit être rémunéré par le marché, une institution ou une fondation (c’est le cas pour Didier Pittet, Tim Berners-Lee, Linus Torvalds…).
 
-3. Comme l’innovateur a donné, il faut que les autres donnent en retour. [Une licence libre exige la réciprocité.](https://tcrouzet.com/2010/10/31/2-0-hyper-capitalisme/)
+3. Comme l’innovateur a donné, il faut que les autres donnent en retour. [Une licence libre exige la réciprocité.](http://blog.tcrouzet.com/2010/10/31/2-0-hyper-capitalisme/)
 
 4. Sans une prise de conscience éthique de l’ensemble de la société, le donateur risque la ruine.
 
@@ -98,6 +98,10 @@ En offrant le gel, Didier Pittet a sauvé des vies, évité bien des souffrances
 
 Quand on a de quoi vivre, pourquoi en vouloir plus ? C’est une question très importante quand on vit sur une planète où le développement aveugle devient insoutenable.
 
-*PS : Bien sûr, je ne pouvais pas me contenter de vendre mon livre sur l’hygiène des mains. [On peut le télécharger gratuitement.](https://tcrouzet.com/le-geste-qui-sauve/downloads/) Il est distribué sous licence libre.*
+*PS : Bien sûr, je ne pouvais pas me contenter de vendre mon livre sur l’hygiène des mains. [On peut le télécharger gratuitement.](http://blog.tcrouzet.com/le-geste-qui-sauve/downloads/) Il est distribué sous licence libre.*
 
-![Le geste qui sauve](https://tcrouzet.com/images_tc/2015/02/cover43.jpg)
+![Le geste qui sauve](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/cover43.jpg)
+
+
+
+Tags: Le geste qui sauve, Pittet, Politique, une

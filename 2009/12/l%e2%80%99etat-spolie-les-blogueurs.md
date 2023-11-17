@@ -15,3 +15,5 @@ Rappelez-vous. Il avait été question d’attribuer des macarons aux blogueurs 
 Je ne demande pas à l’État de nous subventionner mais je lui demande de laisser crever une industrie moribonde. Rue89. Médiapart. Slate. N’avez-vous pas honte de demander de l’argent ? Aurez-vous encore la force d’écrire « je » et d’élever la voie. Vous ne l’avez jamais fait d’ailleurs, sinon pour participer à la valse bien huilée du monde médiatique qui se regarde le nombril.
 
 Subvention ou pas vous êtes morts. La centralisation médiatique est morte. Les journalistes deviennent des artisans high-tech. Vous allez finir par le comprendre ? Pour faire ce travail, pour bien le faire, pas besoin d’être employé par une entreprise ? Au contraire, il faut être libre. Vous perpétuez un vieux monde effrayant. Vous faites penser à ces vieillards libidineux qui vont séduire de jeunes femmes avec leur pognon. Vous êtes des danseuses.
+
+Tags: Journalisme, NetCulture

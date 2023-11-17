@@ -2,10 +2,9 @@
 
 Entre mars 2019 et mai 2019, entre [ma seconde HuRaCan 300](https://tcrouzet.com/2019/03/15/dune-huracan-a-lautre/) qui s’est déroulée sur quatre jours, et [ma future Mountain 420](https://tcrouzet.com/2019/04/08/comment-preparer-un-raid-bikepacking/) prévue pour six ou sept jours, peut-être huit, j’ai peu à peu fait évoluer mon matériel. Je partirai plus léger tout en étant prêt à affronter un climat plus difficile.<span id="more-51553"></span>
 
-<div class="iframe" id="iframe1"></div>
 [J’ai déjà évoqué comment j’ai réduit de 23 % le poids de mon équipement électrique](#), je me suis livré au même travail sur de nombreux postes. [Le poids de base de mon équipement de bikepacking](https://tcrouzet.com/2019/05/05/le-bikepacking-cest-quoi/) est passé de 7 kg à 5,8 kg, soit une baisse de 17 %.
 
-![Ma config pour sept jours](https://tcrouzet.com/images_tc/2019/05/bikepacking2-600x448.jpg)
+![Ma config pour sept jours](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/bikepacking2-600x448.jpg)
 
 ### Côté sacs
 
@@ -19,13 +18,13 @@ Autre avantage du sac de cadre : on peut y loger une poche à eau de 3L, voire 
 
 OK, je sais que certains n’aiment pas boire dans le plastique, moi aussi je n’aime pas, mais j’aime encore moins surcharger mon vélo, surtout qu’en je m’apprête à escalader 15 000 m avec mon VTT.
 
-![The Mountain 420](https://tcrouzet.com/images_tc/2019/05/huracan-600x294.jpg)
+![The Mountain 420](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/huracan-600x294.jpg)
 
 Pour alléger mon sac de guidon, j’ai notamment changé de tente et déplacé les piquets et sardines dans le sac de cadre. Pour libérer de la place dans le sac de cadre, j’ai déplacé les composants électriques et d’autres babioles dans un nouveau [top tube pack d’Apidura de 1 litre](https://www.apidura.com/shop/backcountry-top-tube-pack/) (94 g). Les outils eux finissent dans un [Wolf Tooth B-Rad Roll Top Bag](https://www.wolftoothcomponents.com/collections/b-rad-system/products/b-rad-roll-top-bag), également de 1 litre, que je peux attacher sous la selle ou sous le cadre (sac de seulement 86 g alors que ma trousse à outils CamelBak pesait à elle seule 55 g).
 
-Mes trois sacs et ma trousse à outils pesaient 1086 g. Mes quatre sacs ne pèsent plus que 861 g, soit un gain 20,7 %. Je ne reviendrai au sac de selle que si je dois effectuer des randonnées en hiver, nécessitant davantage de vêtements, ou si je randonne loin de tout point de ravitaillement, ou encore si je renonce au sac de guidon (j’ai pas testé cette configuration).
+Mes trois sacs et ma trousse à outils pesaient 1086 g. Mes quatre sacs ne pèsent plus que 861 g, soit un gain 20,7 %. Je ne reviendrai au sac de selle que si je dois effectuer des randonnées en hiver, nécessitant davantage de vêtements, ou si je randonne loin de tout point de ravitaillement, ou encore si je renonce au sac de guidon (j'ai pas testé cette configuration).
 
-![Mes outils](https://tcrouzet.com/images_tc/2019/05/P1090743-600x450.jpg)
+![Mes outils](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090743-600x450.jpg)
 
 ### Côté outils
 
@@ -43,7 +42,7 @@ Comme il risque de faire très chaud les après-midi, j’emporte un short de jo
 
 Mes fringues atterrissent dans un sac (12 g). Cette nouvelle configuration pèse 1001 g contre 1168 g pour la précédente tout en étant plus polyvalente. Gain : 14,3 %.
 
-![Sac de guidon](https://tcrouzet.com/images_tc/2019/05/P1090752-600x450.jpg)
+![Sac de guidon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090752-600x450.jpg)
 
 ### Guidon
 
@@ -51,13 +50,13 @@ Sur mon guidon outre mon Garmin 820 (105 g avec son support), j’accroche mon s
 
 Mon imperméable ira tantôt dans la poche arrière de mon maillot, tantôt dans le sac de cadre ou dans le sac de guidon, si son usage s’avère inutile. J’utilise la sangle du sac de guidon pour accrocher les sacs de provisions quand je me ravitaille.
 
-![Top tube bag](https://tcrouzet.com/images_tc/2019/05/P1090747-600x450.jpg)
+![Top tube bag](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090747-600x450.jpg)
 
 ### Top tube bag
 
-Dans mon [Apidura Expedition top tube de 1 litre](https://www.apidura.com/shop/expedition-top-tube-pack/) (94 g), outre [le matériel électrique](https://tcrouzet.com/2019/04/22/bikepacking-optimisation-electrique/) (mon téléphone, mon cash et ma CB vont dans la poche arrière de mon maillot, glissés dans une pochette étanche), je range un petit pot de Chamois Crème Assos (avec laquelle je me pommade aussi souvent que possible), un second petit pot avec la crème réparatrice Assos (que j’utilise lors des poses longues), un petite bouteille de solution hydroalcoolique et de l’ambre solaire. Un câble USB relie ma batterie de secours à mon GPS. Poids : 740 g. Ce sera la première fois que j’utiliserai un tel sac, mais j’en ai senti la nécessité dès ma première HuRaCan. Il m’est tout de suite apparu important de séparer mon électronique du sac de cadre où je range ma poche à eau.
+Dans mon [Apidura Expedition top tube de 1 litre](https://www.apidura.com/shop/expedition-top-tube-pack/) (94 g), outre [le matériel électrique](https://tcrouzet.com/2019/04/22/bikepacking-optimisation-electrique/) (mon téléphone, mon cash et ma CB vont dans la poche arrière de mon maillot, glissés dans une pochette étanche), je range un petit pot de Chamois Crème Assos (avec laquelle je me pommade aussi souvent que possible), un second petit pot avec la crème réparatrice Assos (que j’utilise lors des poses longues), un petite bouteille de solution hydroalcoolique et de l'ambre solaire. Un câble USB relie ma batterie de secours à mon GPS. Poids : 740 g. Ce sera la première fois que j’utiliserai un tel sac, mais j’en ai senti la nécessité dès ma première HuRaCan. Il m’est tout de suite apparu important de séparer mon électronique du sac de cadre où je range ma poche à eau.
 
-![Sac de cadre](https://tcrouzet.com/images_tc/2019/05/P1090750-600x450.jpg)
+![Sac de cadre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090750-600x450.jpg)
 
 ### Sac de cadre
 
@@ -65,7 +64,7 @@ Dans la petite poche de gauche, je glisse deux paquets de mouchoirs (44 g), [tro
 
 Dans la grande poche de droite, tout au fond, je place un paquet de lingettes biodégradables, que j’utilise le soir au camp pour me débarbouiller, par dessus s’appuie la poche à eau CamelBak. J’ai troqué un étui à lunettes classique pour une boîte en plastique rigide et légère (une boîte de condiments), dans laquelle outre mes lunettes de vues, mes filtres, quelques mouchoirs, je glisse un peu de cash. Dans un petit sac, j’emporte des [Gu Energy Chews](https://guenergy.com/form/chews/) (56 g, 12 bombons de 50 calories). J’essaie de manger un bombon de temps à autre, je pars avec de quoi tenir une semaine.
 
-Il me reste de la place pour mon sac de toilettes, dans lequel je glisse une petite bouteille de [Hi-Lyte](https://hi-lyte.com/products/hi-lyte-electrolyte-concentrate-regular?gclid=CjwKCAjwq-TmBRBdEiwAaO1en3Ts-fT4kEoQIahSeyHx5FDj1ZrFWq5Qa4-fPytecPMHKpOelHDTVxoCf7MQAvD_BwE), un électrolyte que je dilue dans mon CamelBack. Il a l’avantage de ne pas avoir de goût et d’être hyperconcentré, avec un flacon de 75 g je peux booster plus de 20 litres d’eau. J’emporte aussi une [bouteille Platypus de 0,5 litres](https://www.platy.com/bottles-storage/softbottle) (22 g) que j’utilise au camp ou avec mon [système de filtration Sawyer](https://sawyer.com/water-filtration/%C3%A0). Mes [deux antivols Hiplok Z Lok](https://www.hiplok.com/z-lok-zip-tie/) sont des plus discrets. Quant à elles, mes chaussettes d’eau se promèneront dans les environs du sac de cadre (dedans ou arrimées à la sangle au-dessus, que j’utilise parfois pour coincer ma bouteille Platyrus quand elle est pleine). Quand je ne transporterai pas plus de 2 litres d’eau, il me restera encore un peu de place pour mon imperméable ou de la nourriture supplémentaire.
+Il me reste de la place pour mon sac de toilettes, dans lequel je glisse une petite bouteille de [Hi-Lyte](https://hi-lyte.com/products/hi-lyte-electrolyte-concentrate-regular?gclid=CjwKCAjwq-TmBRBdEiwAaO1en3Ts-fT4kEoQIahSeyHx5FDj1ZrFWq5Qa4-fPytecPMHKpOelHDTVxoCf7MQAvD_BwE), un électrolyte que je dilue dans mon CamelBack. Il a l’avantage de ne pas avoir de goût et d’être hyperconcentré, avec un flacon de 75 g je peux booster plus de 20 litres d’eau. J'emporte aussi une [bouteille Platypus de 0,5 litres](https://www.platy.com/bottles-storage/softbottle) (22 g) que j'utilise au camp ou avec mon [système de filtration Sawyer](https://sawyer.com/water-filtration/à). Mes [deux antivols Hiplok Z Lok](https://www.hiplok.com/z-lok-zip-tie/) sont des plus discrets. Quant à elles, mes chaussettes d’eau se promèneront dans les environs du sac de cadre (dedans ou arrimées à la sangle au-dessus, que j’utilise parfois pour coincer ma bouteille Platyrus quand elle est pleine). Quand je ne transporterai pas plus de 2 litres d’eau, il me restera encore un peu de place pour mon imperméable ou de la nourriture supplémentaire.
 
 ### Le vélo
 
@@ -74,3 +73,5 @@ Je roulerai avec mon [Salsa Timberjack](https://salsacycles.com/bikes/timberjack
 Mon poids de base vélo compris a baissé de presque 9,4 % pour atteindre 18,5 kg. Reste à tester cette configuration dans les longues montées des Appalaches. Je n’ai aucune idée de comment mon corps réagira à un périple de près de 700 km avec 15 000 mètres de dénivelé.
 
 Histoire à suivre après l’épreuve du feu.
+
+Tags: Born to Bike, une

@@ -22,10 +22,12 @@ Toutes ces entreprises ont un pied dans chaque monde, l’ancien monde nourrissa
 
 Je viens peut-être de déplacer le débat sur un terrain incertain mais il s’est pour moi toujours joué là. Notre gouvernement défend un modèle de société, celui de la rareté, nous sommes un certains nombre à défendre celui de l’abondance.
 
-Nous devons veiller à être clair sur nos positions. Il ne suffit pas d’utiliser des outils open source pour se placer dans la société de l’abondance, il faut soi-même travailler comme les créateurs des produits open source. C’est ce que nous faisons sur les blogs en diffusant nos productions sans barrière initiale. C’est [ce que j’ai proposé pour les écrivains](https://tcrouzet.com/2009/07/19/reinventer-l%e2%80%99edition-experience-pratique/) qui pourraient systématiquement diffuser une version électronique de leurs textes.
+Nous devons veiller à être clair sur nos positions. Il ne suffit pas d’utiliser des outils open source pour se placer dans la société de l’abondance, il faut soi-même travailler comme les créateurs des produits open source. C’est ce que nous faisons sur les blogs en diffusant nos productions sans barrière initiale. C’est [ce que j’ai proposé pour les écrivains](http://blog.tcrouzet.com/2009/07/19/reinventer-l%e2%80%99edition-experience-pratique/) qui pourraient systématiquement diffuser une version électronique de leurs textes.
 
 Cette approche doit valoir aussi pour tous ceux qui travaillent dans le domaine du dématérialisé. Marketeux. Communicants. Créateurs de services web. Journalistes. Pour tous ceux qui utilisent seulement leur temps pour produire de la richesse. Combien aujourd’hui d’anti-Hadopi se font payer seulement si leurs clients sont satisfaits ? Combien laissent leurs présentations circuler librement ? Vous n’avez tout simplement pas le droit d’être contre Hadopi si vous ne respectez pas l’esprit open source. Ne demandez pas aux autres de faire ce que vous-mêmes êtes incapables de faire.
 
 ### Mon cas
 
 Je ne suis pas plus clair que les autres, j’ai mes propres ambigüités. J’espère au moins être conscient de mes oscillations entre société de la rareté et de l’abondance. Je diffuserai mes prochains livres en ligne gratuitement. Je m’efforcerai à l’avenir de ne plus encenser des entreprises qui ne respectent pas la philosophie open source (Microsoft par exemple), même si pendant longtemps encore j’utiliserai leurs services. Mais je le ferai comme un pirate, sans jamais payer a priori. Le piratage devient un acte militant, une façon de pousser vers l’open source, de provoquer le changement.
+
+Tags: Hadopi

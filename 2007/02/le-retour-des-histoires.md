@@ -8,4 +8,6 @@ Mais cette époque de médiocrité conversationnelle pour cause d’uniformité 
 
 Nous allons à nouveau entrer dans une époque d’histoires… car ce sera pour nous le seul moyen d’échanger nos expériences originales.
 
-PS : C’est pour cette raison que je vais reprendre mon roman sur Ératosthène et chercher à le publier dans les mois qui arrivent. C’est en écrivant ce texte que j’ai conçu la plupart des idées qui traversent [Le peuple des connecteurs](https://tcrouzet.com/le-peuple-des-connecteurs/) et [Le cinquième pouvoir](https://tcrouzet.com/le-cinquieme-pouvoir/). Je veux juste en réécrire les interludes pour mieux montrer que notre époque de convergence ressemble par bien des points au troisième siècle avant Jésus Christ.
+PS : C'est pour cette raison que je vais reprendre mon roman sur Ératosthène et chercher à le publier dans les mois qui arrivent. C’est en écrivant ce texte que j’ai conçu la plupart des idées qui traversent [Le peuple des connecteurs](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) et [Le cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/). Je veux juste en réécrire les interludes pour mieux montrer que notre époque de convergence ressemble par bien des points au troisième siècle avant Jésus Christ.
+
+Tags: Ératosthène

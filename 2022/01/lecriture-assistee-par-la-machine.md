@@ -16,7 +16,7 @@ Ses autres romans ne connaissent pas le même succès que le premier, mais elle 
 
 **Pourquoi les lecteurs ne lisent-ils que des best-sellers?**
 
-Certains lecteurs ne lisent que des best-sellers car ils veulent découvrir les dernières nouveautés. D’autres car ils estiment que ce sont les seuls romans qui valent la peine d’être lus.
+Certains lecteurs ne lisent que des best-sellers car ils veulent découvrir les dernières nouveautés. D'autres car ils estiment que ce sont les seuls romans qui valent la peine d'être lus.
 
 **Mais la littérature inventive est souvent peu lue.**
 
@@ -30,7 +30,7 @@ When 28-year-old Jenny moved to New York City, she had no idea that she would on
 
 **Is jenny happy?**
 
-That’s a complicated question. On one hand, she has achieved a great deal of success and she is able to live a comfortable life. On the other hand, she sometimes feels like she’s missing out on something. She sometimes feels like she’s sacrificing too much in order to achieve her goals. Overall, though, she would say that she is happy with her life.
+That's a complicated question. On one hand, she has achieved a great deal of success and she is able to live a comfortable life. On the other hand, she sometimes feels like she's missing out on something. She sometimes feels like she's sacrificing too much in order to achieve her goals. Overall, though, she would say that she is happy with her life.
 
 **But is she in love?**
 
@@ -38,19 +38,19 @@ Yes, she is in love with her husband and she loves spending time with her family
 
 **It seems too perfect.**
 
-Yes, it does seem a bit too perfect. But that’s just the way life works sometimes. Everything can’t always be a struggle.
+Yes, it does seem a bit too perfect. But that's just the way life works sometimes. Everything can't always be a struggle.
 
 **But the perfection is not a good story.**
 
-You’re right, the perfect life is not always the most interesting story. Sometimes, the most interesting stories come from the struggles and the hardships. That’s why Jenny’s story is so interesting. She overcame a lot of obstacles in order to achieve her success.
+You're right, the perfect life is not always the most interesting story. Sometimes, the most interesting stories come from the struggles and the hardships. That's why Jenny's story is so interesting. She overcame a lot of obstacles in order to achieve her success.
 
 **What kinds of obstacles?**
 
-Well, she had to work hard to get her foot in the door of the publishing industry. And she had to work even harder to become a successful writer. She had to deal with a lot of rejection, but she never gave up. She was determined to achieve her goals, and that’s what makes her such an inspiring figure.
+Well, she had to work hard to get her foot in the door of the publishing industry. And she had to work even harder to become a successful writer. She had to deal with a lot of rejection, but she never gave up. She was determined to achieve her goals, and that's what makes her such an inspiring figure.
 
 **I am not convinced.**
 
-Well, why don’t you read her book and see for yourself?
+Well, why don't you read her book and see for yourself?
 
 **Can you send me the book?**
 
@@ -64,7 +64,7 @@ Yes, I can send you a copy of her book. Just let me know your address.
 
 **Write a bestseller story.**
 
-It was a dark and stormy night… No, actually, it was a bright and sunny day. But that’s not as interesting, is it?
+It was a dark and stormy night… No, actually, it was a bright and sunny day. But that's not as interesting, is it?
 
 Anyway, on this bright and sunny day, a woman named Sarah was sitting in her chair, thinking about her life. She had just turned 30.
 
@@ -76,11 +76,11 @@ So Sarah decided to do something about it. She got up out of her chair and went 
 
 **What?**
 
-And before she knew it, she had written a whole book. She called it “The Life of Sarah” and she self-published it on Amazon.
+And before she knew it, she had written a whole book. She called it "The Life of Sarah" and she self-published it on Amazon.
 
 To her amazement, the book became a best-seller. Sarah was finally living her dream. She was a best-selling author!
 
-**Tell me more about “The life of Sarah”.**
+**Tell me more about "The life of Sarah".**
 
 (((Pas de réponse, fin de l’échange.)))
 
@@ -116,7 +116,7 @@ The astronauts will have to find a way to generate heat, and they will have to f
 
 **Describe where to find heat.**
 
-The astronauts will have to find a way to generate heat. They can do this by using the sun’s energy, or they can use electricity to generate heat.
+The astronauts will have to find a way to generate heat. They can do this by using the sun's energy, or they can use electricity to generate heat.
 
 **But they will be attacked by the creatures.**
 
@@ -130,20 +130,22 @@ The astronauts will have to find a way to survive on Eden without water. They wi
 
 It was a dark and stormy night. Phillip had been driving home from work, and was now about an hour away from his house. He had made it the last few miles, but was now in the throes of a full-blown panic attack. His breaths came in short gasps and his heart was pounding so hard, it felt like it was trying to escape his chest. He pulled to the side of the road, scattering gravel, and tried to calm himself. He closed his eyes and took several deep breaths before starting the car. He crept along the road, his car the only light in a wide and dark world. The rain continued to beat against the windshield like the footsteps of some unseen thing.
 
-Suddenly, the car skidded out of control. Phillip tried to regain control, but the car spun several times before slamming into a tree. The airbags deployed, cushioning Phillip’s head and body. He was momentarily dazed, but quickly realized that he needed to get out of the car. The door was jammed, so he kicked it open and staggered out into the rain. He looked around, but could see nothing in the darkness. The only sound was the pounding of the rain and his own ragged breathing.
+Suddenly, the car skidded out of control. Phillip tried to regain control, but the car spun several times before slamming into a tree. The airbags deployed, cushioning Phillip's head and body. He was momentarily dazed, but quickly realized that he needed to get out of the car. The door was jammed, so he kicked it open and staggered out into the rain. He looked around, but could see nothing in the darkness. The only sound was the pounding of the rain and his own ragged breathing.
 
-He started to walk, but quickly realized that he was going in the wrong direction. He turned around and started walking the other way. After a few minutes, he realized that he was lost. He had never been in this area before and didn’t know where he was. The rain continued to beat down mercilessly and he started to shiver. He wrapped his arms around himself and tried to walk faster, but his legs were weak and wobbly.
+He started to walk, but quickly realized that he was going in the wrong direction. He turned around and started walking the other way. After a few minutes, he realized that he was lost. He had never been in this area before and didn't know where he was. The rain continued to beat down mercilessly and he started to shiver. He wrapped his arms around himself and tried to walk faster, but his legs were weak and wobbly.
 
 He saw a light in the distance and started to walk towards it. The closer he got, the more certain he was that it was a house. He walked up to the door and knocked. After a few moments, the door opened and a warm light flooded out. A woman stood in the doorway, looking at him questioningly.
 
-“Are you lost?” she asked.
+"Are you lost?" she asked.
 
-Phillip shook his head. “I had a car accident. I think my leg is broken.”
+Phillip shook his head. "I had a car accident. I think my leg is broken."
 
-The woman nodded and stepped back. “Come in, I’ll call for help.”
+The woman nodded and stepped back. "Come in, I'll call for help."
 
-She led him into the house and sat him down on the couch. She called 911 and then went to get a blanket. She wrapped the blanket around Phillip and sat down next to him. He leaned into her and closed his eyes, letting the warmth of the blanket and the woman’s presence wash over him. He felt safe and protected, and knew that he would be okay.
+She led him into the house and sat him down on the couch. She called 911 and then went to get a blanket. She wrapped the blanket around Phillip and sat down next to him. He leaned into her and closed his eyes, letting the warmth of the blanket and the woman's presence wash over him. He felt safe and protected, and knew that he would be okay.
 
 **How can he walk with a broken leg?**
 
 (((Pas de réponse)))
+
+Tags: NetLittérature, une

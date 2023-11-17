@@ -4,9 +4,9 @@
 
 ### Mercredi 1<sup>er</sup>, Balaruc
 
-Un mail me fait bondir. Au sujet de ma [géolecture](https://tcrouzet.com/2016/11/08/des-livres-a-lire-sur-le-territoire/). Soi-disant, dans mon projet, je n’en dis pas assez sur mon intention, un mail qui laisse entendre que la bourse ne m’est pas encore réellement accordée.
+Un mail me fait bondir. Au sujet de ma [géolecture](http://tcrouzet.com/2016/11/08/des-livres-a-lire-sur-le-territoire/). Soi-disant, dans mon projet, je n’en dis pas assez sur mon intention, un mail qui laisse entendre que la bourse ne m’est pas encore réellement accordée.
 
-Sur le coup, j’ai envie de tout envoyer balader. Quelle idée de demander son intention à un artiste. Un ingénieur a l’intention de construire un pont parce qu’on lui demande de faire passer des voitures au-dessus d’une rivière. Un artiste n’a qu’une intuition, la conviction qu’il existe quelque chose à gratter dans une direction. Son intention est seulement d’explorer l’autre berge.
+Sur le coup, j’ai envie de tout envoyer balader. Quelle idée de demander son intention à un artiste. Un ingénieur a l'intention de construire un pont parce qu’on lui demande de faire passer des voitures au-dessus d’une rivière. Un artiste n’a qu’une intuition, la conviction qu’il existe quelque chose à gratter dans une direction. Son intention est seulement d’explorer l'autre berge.
 
 Je suis donc obligé de mentir pour répondre à ce mail, plutôt que de dire vraiment ce que je pense sur l’absurdité de la demande, faite de toute évidence dans la plus grande ignorance des ressorts du processus créatif.
 
@@ -14,7 +14,7 @@ Je dois parler d’un texte que je n’ai pas écrit comme si je l’avais écri
 
 ### Jeudi 2, Balaruc
 
-Idée d’une opération marketing : sur le modèle de [*Ragdoll*](https://tcrouzet.com/2017/02/27/ragdoll-les-dangers-de-survendre-un-livre/), créer le dossier marketing d’un livre pour réussir à le vendre dans le monde entier alors que le livre lui-même n’est pas écrit. Et pourquoi ne pas faire de cette idée même un livre, le sujet de l’opération étant l’opération elle-même ?
+Idée d’une opération marketing : sur le modèle de [*Ragdoll*](http://tcrouzet.com/2017/02/27/ragdoll-les-dangers-de-survendre-un-livre/), créer le dossier marketing d’un livre pour réussir à le vendre dans le monde entier alors que le livre lui-même n’est pas écrit. Et pourquoi ne pas faire de cette idée même un livre, le sujet de l’opération étant l’opération elle-même ?
 
 ### Vendredi 3, Balaruc
 
@@ -26,7 +26,7 @@ Nous skions dans la poudre entre les rafales de blizzard. Nous avons quitté Sè
 
 ### Dimanche 5, Tignes
 
-Me voilà pris dans une querelle numérique avec des gens dont j’ignore à peu près tout et qui s’est traduite par [un billet sur les à-valoir](https://tcrouzet.com/2017/02/04/les-faux-editeurs-siphonnent-les-petits-auteurs/). Dixit l’éditeur incriminé : « Ta prose bourrée de mépris me donne juste envie de gerber… » Mon billet ne me semble pourtant pas méprisant, il ne fait qu’énoncer une pratique de plus en plus commune dans l’édition. Mais je comprends que ça puisse gêner aux encoignures un spécialiste de cette pratique, tant bien même il ne s’enrichit pas avec.
+Me voilà pris dans une querelle numérique avec des gens dont j’ignore à peu près tout et qui s’est traduite par [un billet sur les à-valoir](http://tcrouzet.com/2017/02/04/les-faux-editeurs-siphonnent-les-petits-auteurs/). Dixit l’éditeur incriminé : « Ta prose bourrée de mépris me donne juste envie de gerber… » Mon billet ne me semble pourtant pas méprisant, il ne fait qu’énoncer une pratique de plus en plus commune dans l’édition. Mais je comprends que ça puisse gêner aux encoignures un spécialiste de cette pratique, tant bien même il ne s’enrichit pas avec.
 
 Je serais un grossier personnage. Je ne mettrais jamais les formes quand je discute avec les gens. Entendez : je leur balance mes vérités sans chercher en les enrober pour qu’elles soient moins douloureuses.
 
@@ -68,21 +68,21 @@ Nous enchaînons les noires pendant que le Mont-Blanc et les Grandes Jorasses no
 
 Bourse pour la géolecture confirmée.
 
-![](https://tcrouzet.com/images_tc/2017/03/fev101.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/fev101.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/03/fev102.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/fev102.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/03/fev103.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/fev103.jpg)
 
 ### Dimanche 12, Balaruc
 
 Je raconte à Isa, restée à la maison pendant que nous étions à la montagne, m’a mésaventure avec l’éditeur contre les à-valoir. Je lui parle de la liste de diffusion où la conversation s’est déroulée. Isa résume la situation : « Celui qui a créé cette liste voulait sans doute inconsciemment réseauter et non discuter sur le fond. » Oui, voilà pourquoi tout à mal tourné. Je ne suis pas quelqu’un qui réseaute et cherche à préserver les susceptibilités des uns et des autres pour éventuellement en tirer avantage ultérieurement. Je ne fais jamais de calcul social.
 
-![](https://tcrouzet.com/images_tc/2017/03/matinrose1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/matinrose1.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/03/matinrose2.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/matinrose2.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/03/matinrose3.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/matinrose3.jpg)
 
 ### Lundi 13, Balaruc
 
@@ -94,7 +94,7 @@ Je lis avec une certaine horreur [*Le Cercle*](https://www.amazon.fr/Cercle-Egge
 
 ---
 
-Il ne me reste plus qu’à relire les épreuves de [*Résistants*](https://tcrouzet.com/resistants/). Ce livre sortira dans deux mois sans que j’en éprouve la moindre fierté. J’espère simplement avoir bien travaillé.
+Il ne me reste plus qu’à relire les épreuves de [*Résistants*](http://tcrouzet.com/resistants/). Ce livre sortira dans deux mois sans que j’en éprouve la moindre fierté. J’espère simplement avoir bien travaillé.
 
 ---
 
@@ -110,7 +110,7 @@ Je lis *Pêcheur d’Islande* de Pierre Loti. Et toute la poussière du XIX<sup>
 
 ### Mercredi 15, Balaruc
 
-J’ai encore écrit [un billet politique](https://tcrouzet.com/2017/02/15/ils-font-tous-ca-pourquoi-lui-en-vouloir-a-lui/), pour exprimer mon malaise, mais tout le monde s’en fiche : seul le spectacle intéresse…
+J’ai encore écrit [un billet politique](http://tcrouzet.com/2017/02/15/ils-font-tous-ca-pourquoi-lui-en-vouloir-a-lui/), pour exprimer mon malaise, mais tout le monde s’en fiche : seul le spectacle intéresse…
 
 ### Jeudi 16, Balaruc
 
@@ -120,21 +120,21 @@ J’ai encore écrit [un billet politique](https://tcrouzet.com/2017/02/15/ils-f
 
 Quand j’ai commencé à écrire, je n’avais rien à dire, je voulais simplement divertir et me divertir (telle était mon intention). Puis j’ai voulu dire, et peut-être que j’ai cessé d’être écrivain.
 
-![](https://tcrouzet.com/images_tc/2017/03/fev1601.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/fev1601.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/03/fev1602.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/fev1602.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/03/fev1603.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/fev1603.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/03/fev1604.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/fev1604.jpg)
 
 ### Vendredi 17, Balaruc
 
 Brume comme j’en ai rarement vue. Non seulement Sète est invisible, mais même le village au bout de mon nez, et puis le soleil explose, et c’est soudain le printemps.
 
-![](https://tcrouzet.com/images_tc/2017/03/brume1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/brume1.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/03/brume2.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/brume2.jpg)
 
 ### Samedi 18, Balaruc
 
@@ -144,9 +144,9 @@ Ballade en VTT de 40 bornes. Lors de chaque ascension, je suce la roue d’un re
 
 Je découvre qu’une Webcam installée par la municipalité [zoome sur ma maison](https://pv.viewsurf.com/744/Balaruclesbains). Je peux encore me promener nu chez moi, mais demain, quand ces images seront en très haute résolution, parce que techniquement ça ne posera plus de problème ? Collectivement, nous sommes en train de dérailler. Lisez [*Le Cercle*](https://www.amazon.fr/Cercle-Eggers-Dave/dp/2070147428/), et vous comprendrez.
 
-![](https://tcrouzet.com/images_tc/2017/03/fev18.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/fev18.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/03/fev182.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/fev182.jpg)
 
 ### Lundi 20, Balaruc
 
@@ -156,17 +156,17 @@ J’ai repris le nettoyage de *L’Affaire Jonathan Deluze*, ma campagne de jeu 
 
 Depuis que j’ai un appareil photo, sans fonction Instagram, je ne publie plus mes photos en direct, pourtant la dernière chose qui m’amuse sur le Net social.
 
-![](https://tcrouzet.com/images_tc/2017/03/fev21.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/fev21.jpg)
 
 ### Mercredi 22, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/03/fev22.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/fev22.jpg)
 
 ### Jeudi 23, Balaruc
 
 Débilitant travail de préparer le service presse de *Résistants*.
 
-![](https://tcrouzet.com/images_tc/2017/03/fev23.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/03/fev23.jpg)
 
 ### Vendredi 24, Balaruc
 
@@ -182,4 +182,6 @@ Mauvaise nuit, mais levé avec une idée à la fois exaltante et horrible : la 
 
 ### Mardi 28, Balaruc
 
-Je devrais chroniquer des livres, ça donne la fièvre aux éditeurs… Après [ma sortie sur *Ragdoll*](https://tcrouzet.com/2017/02/27/ragdoll-les-dangers-de-survendre-un-livre/), l’éditeur francophone du livre a demandé un exemplaire de *Résistants*. Veut-il fourbir ses arguments pour me descendre ?
+Je devrais chroniquer des livres, ça donne la fièvre aux éditeurs… Après [ma sortie sur *Ragdoll*](http://tcrouzet.com/2017/02/27/ragdoll-les-dangers-de-survendre-un-livre/), l’éditeur francophone du livre a demandé un exemplaire de *Résistants*. Veut-il fourbir ses arguments pour me descendre ?
+
+Tags: Carnets, une

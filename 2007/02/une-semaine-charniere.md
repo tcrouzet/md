@@ -2,7 +2,7 @@
 
 Nous nous rappellerons peut-être de la semaine que nous venons de vivre comme étant une des plus importantes de la présidentielle 2007, et peut-être un des plus importantes pour la démocratie en souffrance dans notre pays.
 
-Tout avait commencé par le tour de passe-passe de Ségolène Royal dimanche, réinventant le programme le Jospin après des milliers de débats participatifs, il faut le faire, mais [je ne vais pas y revenir](https://tcrouzet.com/2007/02/12/segolene-l%e2%80%99impossible-synthese/). Deux autres évènements me paraissent bien plus déterminants.
+Tout avait commencé par le tour de passe-passe de Ségolène Royal dimanche, réinventant le programme le Jospin après des milliers de débats participatifs, il faut le faire, mais [je ne vais pas y revenir](http://blog.tcrouzet.com/2007/02/12/segolene-l%e2%80%99impossible-synthese/). Deux autres évènements me paraissent bien plus déterminants.
 
 **L’affaire Alain Duhamel**
 
@@ -26,12 +26,12 @@ Au premier abord, tout cela est logique. Mais en y regardant plus près, je déc
 
 D’ailleurs, je croise et discute assez souvent avec des journalistes, certains ayant lu mon livre, chaque fois ils m’avouent qu’ils ont un faible pour François Bayrou et qu’ils sont fatigués du duel Sarko-Ségo. Ils sont pris dans une bipolarité dont ils n’arrivent plus à se sortir. Alors, pour moi, Alain Duhamel a été involontairement courageux pour tous ceux qui, souvent moins connus, n’ont pas osé élever de protestation.
 
-**L’appel au pluralisme**
+**L’appel au pluralisme** 
 
-L’autre évènement, je l’ai annoncé hier [ici même](https://tcrouzet.com/2007/02/16/appel-citoyen-pour-le-pluralisme-democratique/), c’est l’appel lancé par des citoyens pour plus de transparence électorale, pour demander la fin des magouilles autour des parrainages des candidats à la présidentielle.
+L’autre évènement, je l’ai annoncé hier [ici même](http://blog.tcrouzet.com/2007/02/16/appel-citoyen-pour-le-pluralisme-democratique/), c’est l’appel lancé par des citoyens pour plus de transparence électorale, pour demander la fin des magouilles autour des parrainages des candidats à la présidentielle.
 
 Alors que j’écris samedi matin, l’appel a déjà été signé par 500 citoyens et par trois candidats : Corinne Lepage, Edouard Fillias, Nicolas Dupont-Aignan. Dominique Voynet devrait bientôt signer et même François Bayrou, car l’union nationale à laquelle il aspire est en train de se réaliser autour d’une critique nécessaire de nos institutions.
 
-Je ne sais pas encore quel va être le destin de cet appel. J’y suis trop parti-prenante pour être objectif (ne riez pas). Mais, s’il est suivi, il fera basculer l’axe des discussions lors de la campagne, il nous sortira du moribond clivage droite-gauche pour nous faire nous intéresser à ce qui ne marche pas dans nos institutions et nous empêche d’aller de l’avant.
+Je ne sais pas encore quel va être le destin de cet appel. J'y suis trop parti-prenante pour être objectif (ne riez pas). Mais, s’il est suivi, il fera basculer l’axe des discussions lors de la campagne, il nous sortira du moribond clivage droite-gauche pour nous faire nous intéresser à ce qui ne marche pas dans nos institutions et nous empêche d’aller de l’avant.
 
 L’appel aura peut-être les mêmes conséquences que le texte posté par Étienne Chouard en mars 2005 peu avant le référendum européen. Il changera peut-être l’avenir que tout le monde croyait écrit.

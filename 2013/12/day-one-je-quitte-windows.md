@@ -10,9 +10,9 @@ Je lis *On Keeping a Notebook* de Joan Didion. Et je vois tout ce que j’ai oub
 
 Alors oui, j’écris ce premier texte sur un Mac. C’est sans rapport et à la fois lié. On change de lieu pour changer de vie. Je change d’écran, de raccourcis clavier, d’habitudes vieilles de trente ans, et je sens mon cerveau se révolter, se demander à quoi bon. Apprendre une nouvelle langue aide les personnes âgées à préserver leur santé mentale. Il doit en être de même avec un nouvel outil.
 
-J’ai tenté d’utiliser [le PC le plus avancé d’aujourd’hui](https://tcrouzet.com/tag/lenovo/), la machine à mon sens la plus à la pointe, elle s’est avérée trop fragile, trop imparfaite pour un usage quotidien. Alors j’ai décidé, si on peut dire, d’aller voir où on se préoccupe un peu des auteurs, où on continue d’inventer pour eux des outils.
+J’ai tenté d’utiliser [le PC le plus avancé d’aujourd’hui](http://blog.tcrouzet.com/tag/lenovo/), la machine à mon sens la plus à la pointe, elle s’est avérée trop fragile, trop imparfaite pour un usage quotidien. Alors j’ai décidé, si on peut dire, d’aller voir où on se préoccupe un peu des auteurs, où on continue d’inventer pour eux des outils.
 
-J’ai déjà tenté de quitter Windows. [J’en ai fait un livre en 2003](https://tcrouzet.com/2010/11/08/richard-stallman/). Le récit d’un divorce avorté. Je recommence, un peu comme ces hommes qui quittent leur femme et vite en retrouvent une autre et déménagent avec elle leur ancienne paire de pantoufles.
+J’ai déjà tenté de quitter Windows. [J’en ai fait un livre en 2003](http://blog.tcrouzet.com/2010/11/08/richard-stallman/). Le récit d’un divorce avorté. Je recommence, un peu comme ces hommes qui quittent leur femme et vite en retrouvent une autre et déménagent avec elle leur ancienne paire de pantoufles.
 
 Je dois m’y résoudre, je ne peux pas encore tout faire avec une seule machine. La métaphore s’impose à nouveau, certains hommes ne pouvant tout faire avec une seule femme. Je ne suis pas de cette espèce, voilà pourquoi je cherche la machine idéale. Et je dois contre ma nature m’imposer l’adultère. Pendant quelque temps, j’écrirai et dessinerai en extérieur avec un iPad et je travaillerai en intérieur avec un MacBookPro.
 
@@ -24,9 +24,9 @@ Vous avez dit simple. C’est juste une autre logique. Sur Mac, tout est plus cl
 
 Il me faut m’approprier ce qu’Apple veut me cacher pour mon bien. J’ai mis les pieds dans un système totalitaire. Je dois maintenant le subvertir. Je commence par récupérer mon arborescence de fichiers. Ma vie numérique. Et tenterai de m’y maintenir, pour pouvoir m’échapper si nécessaire avec ma valise.
 
-![Sète - Paper](https://tcrouzet.com/images_tc/2013/12/image.jpg)
+![Sète - Paper](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/12/image.jpg)
 
-![Sete - Procreate](https://tcrouzet.com/images_tc/2013/12/procreate_sete.png)
+![Sete - Procreate](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/12/procreate_sete.png)
 
 ### Notes
 
@@ -43,3 +43,5 @@ Il me faut m’approprier ce qu’Apple veut me cacher pour mon bien. J’ai mis
 - Les 200 g supplémentaires par rapport au Lenovo ou à un MacBookAir ne sont pas négligeables. La différence assez notable pour rendre la prise de note à la volée sur les genoux difficile. Ce qui confirme mon choix de l’iPad comme machine nomade.
 
 - J’apprécie l’intégration d’Antidote, disponible partout dès qu’un texte est sélectionné.
+
+Tags: Cuisine, Lenovo, Mac, une

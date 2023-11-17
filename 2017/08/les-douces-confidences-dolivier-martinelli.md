@@ -1,6 +1,6 @@
 # Les douces confidences d’Olivier Martinelli
 
-Quand j’ai publié [*J’ai débranché*](https://tcrouzet.com/jai-debranche/), un ami m’a dit qu’il avait préféré les passages où j’évoquais mon père et ma famille. Quand je publie tous les mois mon [*Carnet de route*](https://tcrouzet.com/tag/carnet-de-route/?serial=1), des lecteurs me disent qu’ils aiment quand je parle de mon vécu. Je crois qu’en tant qu’auteur nous ne pouvons être vrai que quand nous nous racontons, que ce soit dans le témoignage ou la fiction. C’est particulièrement vrai pour Olivier Martinelli qui partage son cancer avec nous dans [*L’Homme de miel*](https://www.amazon.fr/LHomme-Miel-Martinelli-Olivier/dp/2366261225/).<span id="more-45701"></span>
+Quand j’ai publié [*J’ai débranché*](http://tcrouzet.com/jai-debranche/), un ami m’a dit qu’il avait préféré les passages où j’évoquais mon père et ma famille. Quand je publie tous les mois mon [*Carnet de route*](http://tcrouzet.com/tag/carnet-de-route/?serial=1), des lecteurs me disent qu’ils aiment quand je parle de mon vécu. Je crois qu’en tant qu’auteur nous ne pouvons être vrai que quand nous nous racontons, que ce soit dans le témoignage ou la fiction. C’est particulièrement vrai pour Olivier Martinelli qui partage son cancer avec nous dans [*L’Homme de miel*](https://www.amazon.fr/LHomme-Miel-Martinelli-Olivier/dp/2366261225/).<span id="more-45701"></span>
 
 > Mon cancer s’écrit myélome et je ne peux m’empêcher de penser « miel-homme ». Il me paraît plus doux, du coup, moins agressif. Grâce à lui, je me sens comme un héros Marvel. Je suis l’Homme de miel.
 
@@ -16,4 +16,8 @@ Olivier nous donne une leçon de courage, d’optimisme. À l’écrivain, il do
 
 Avant de lire [*L’Homme de miel*](https://www.amazon.fr/LHomme-Miel-Martinelli-Olivier/dp/2366261225/), j’avais entendu dire que ce texte était un véritable coup de poing. Mais non. Un coup de poing nous retourne, parce qu’il nous dit une vérité que nous ne voulions pas entendre, ou qu’il nous ouvre les yeux sur une réalité que nous ne voulions pas voir. Rien de tout ça ici. Olivier nous fait une confidence lumineuse, il nous montre comment nous battre quand notre tour arrivera, il nous dit de vivre… c’est doux comme message, presque chaleureux, à l’opposé de ce qui se passe sur un ring.
 
-![L'homme de miel](https://tcrouzet.com/images_tc/2017/08/martinelli.jpg)
+![L'homme de miel](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/08/martinelli-600x872.jpg)
+
+
+
+Tags: Critique, une

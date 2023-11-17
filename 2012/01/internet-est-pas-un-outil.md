@@ -1,6 +1,6 @@
 # Ne dites plus jamais qu’internet est un outil
 
-Depuis la sortie de [*J’ai débranché*](https://tcrouzet.com/jai-debranche/), lors des interviews notamment, on cherche à me faire dire qu’internet est un outil comme un autre et qu’il suffit de l’utiliser avec modération. Si c’était le cas, je n’aurais pas éprouvé le besoin de me déconnecter pour essayer de comprendre mon rapport à la vie numérique.<span id="more-23062"></span>
+Depuis la sortie de [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), lors des interviews notamment, on cherche à me faire dire qu’internet est un outil comme un autre et qu’il suffit de l’utiliser avec modération. Si c’était le cas, je n’aurais pas éprouvé le besoin de me déconnecter pour essayer de comprendre mon rapport à la vie numérique.<span id="more-23062"></span>
 
 Je crois que si on considère internet comme un outil, on risque de ne pas en prendre la mesure. On risque même de défendre avec de mauvais arguments des causes pourtant fondamentales comme la neutralité du Net ou la libre copie.
 
@@ -16,9 +16,9 @@ On peut bien sûr considérer internet comme une espèce de seringue à s’inje
 
 ### Du média au territoire
 
-Dans [*J’ai débranché*](https://tcrouzet.com/jai-debranche/), j’évoque [*Les trois écritures*](http://www.amazon.fr/Trois-Ecritures-Langue-nombre-code/dp/2070760251) de Clarisse Herrenschmidt. Elle y explique que l’humanité a successivement inventé l’écriture des langues, des chiffres puis du code informatique.
+Dans [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), j’évoque [*Les trois écritures*](http://www.amazon.fr/Trois-Ecritures-Langue-nombre-code/dp/2070760251) de Clarisse Herrenschmidt. Elle y explique que l’humanité a successivement inventé l’écriture des langues, des chiffres puis du code informatique.
 
-On peut d’une certaine façon réduire ces trois écritures à des outils. Prenons l’écriture des langues. Quand nous lisons un roman, les neurologues constatent que nous réagissons cérébralement comme si nous nous tenions à la place des personnages. Nous entrons dans un autre monde.
+On peut d’une certaine façon réduire ces trois écritures à des outils. Prenons l’écriture des langues. Quand nous lisons un roman, les neurologues constatent que nous réagissons cérébralement comme si nous nous tenions à la place des personnages. Nous entrons dans un autre monde. 
 
 L’écrivain étend la réalité. Il construit des lieux, des paysages, des villes, il anime des créatures d’une vérité bouleversante. La littérature est un territoire, une extension de la Terre. C’est un monde à déployer indéfiniment. Nous en devenons les démiurges dès que nous apprenons à écrire.
 
@@ -36,4 +36,6 @@ Savoir écrire donne accès à la littérature. Le lecteur se retrouve dans une 
 
 ### Note
 
-C’est parce qu’internet est un territoire qu’une [*Alternative nomade*](https://tcrouzet.com/alternative-nomade/) est possible. [Je défends cette idée depuis 2006. Dans ](https://tcrouzet.com/tag/territoire/)[*La tune dans le caniveau*](https://tcrouzet.com/tune-caniveau/), je parle des imprimantes 3D. Elles transforment du code en objets. Elles feront bientôt déborder le Net du monde immatériel.
+C'est parce qu'internet est un territoire qu'une [*Alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) est possible. [Je défends cette idée depuis 2006. Dans ](http://blog.tcrouzet.com/tag/territoire/)[*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/), je parle des imprimantes 3D. Elles transforment du code en objets. Elles feront bientôt déborder le Net du monde immatériel.
+
+Tags: Connecteur, NetCulture

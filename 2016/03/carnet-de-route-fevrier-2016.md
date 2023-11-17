@@ -10,19 +10,19 @@ Vouloir convaincre est aussi vain que vouloir séduire. On a le don ou on ne l�
 
 Cette nuit, nous n’avons pas dormi à la maison, pour cause de location à une équipe de tournage. Vers 7:30 je longe à pied l’étang et photographie des lumières qui d’habitude m’échappent, car je découvre les mêmes lieux selon une perspective opposée. Je devrais me forcer à changer plus souvent de points de vue, et le monde en serait bouleversé.
 
-![7:33](https://tcrouzet.com/images_tc/2016/03/mardi2_1_733.jpg)
+![7:33](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/mardi2_1_733-600x450.jpg)
 
-![7:49](https://tcrouzet.com/images_tc/2016/03/mard2_2_749.jpg)
+![7:49](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/mard2_2_749-600x450.jpg)
 
-![7:51](https://tcrouzet.com/images_tc/2016/03/mardi2_3_751.jpg)
+![7:51](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/mardi2_3_751-600x450.jpg)
 
-![7:52](https://tcrouzet.com/images_tc/2016/03/mardi2_4_752.jpg)
+![7:52](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/mardi2_4_752-600x450.jpg)
 
 ### Lundi 8, Balaruc
 
 Lever de soleil radieux sur les Pyrénées enneigées, la chaîne lisible depuis sa chute méditerranéenne jusque loin vers l’ouest, sans que je sache nommer d’autres sommets que le Canigou. Mon incapacité à nommer m’a toujours terrifié. Comment puis-je vivre avec toutes ces choses sans nom, donc à peine présentes dans ma conscience ?
 
-![Soleil sur les Pyrénées](https://tcrouzet.com/images_tc/2016/03/lundi8.jpg)
+![Soleil sur les Pyrénées](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/lundi8-600x405.jpg)
 
 ### Mardi 9, Balaruc
 
@@ -40,7 +40,7 @@ J’écris dans mon coin, dans le silence, et toutes les idées qui me traversen
 
 C’est la mode : le transmedia gagne même la littérature. Images, vidéos, sons… et des textes illisibles. C’est la surenchère à celui qui fera le plus moderne, oubliant au passage que tout art implique une technique minimale.
 
-![J'ai pas de quoi me plaindre.](https://tcrouzet.com/images_tc/2016/03/dimanche14.jpg) J’ai pas de quoi me plaindre.\[/caption\]
+![J'ai pas de quoi me plaindre.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/dimanche14-600x450.jpg)
 
 ### Mardi 16, Balaruc
 
@@ -52,7 +52,7 @@ Sur Twitter, un ami se plaint du manque de connexion dans le métro, je lui rép
 
 ### Vendredi 19, Balaruc
 
-![Rien de plus…](https://tcrouzet.com/images_tc/2016/03/vendredi19.jpg) Rien de plus…\[/caption\]
+![Rien de plus…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/vendredi19-600x450.jpg)
 
 ### Lundi 22, Balaruc
 
@@ -74,7 +74,7 @@ Je vois tous les Français excités à l’idée d’une grande manifestation po
 
 Après le dîner, je me plante devant la fenêtre, et je vois des dizaines de TV allumées face à la montagne. C’est presque un choc. Je me souviens de ma lecture enchanteresse de *La barrière Santaroga* de Franck Herbert. J’ai en tête l’image puissante des intérieurs illuminés par les tubes cathodiques. Rien n’a changé depuis les années 1960 (et surtout pas à cause du Net).
 
-![samedi 27](https://tcrouzet.com/images_tc/2016/03/samedi27.jpg)
+![samedi 27](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/samedi27-600x416.jpg)
 
 ### Dimanche 28, Orcière Merlette
 
@@ -92,4 +92,6 @@ Nous montons jusqu’au sommet de la station et très vite nous quittons le brou
 
 Après deux heures de rouges et de noires, de goulets et de bosses, tous tendres à souhait, nous nous arrêtons pour déjeuner dans un restaurant d’altitude. Après le repas, je vais aux toilettes. « Thierry ! » Je quitte des yeux ma raquette. Je trouve en face de moi le sculpteur [Stéphane Gantelet](http://www.gantelet.com/). On s’embrasse. Il me dit qu’il est sur la terrasse avec ses enfants et sa femme, [Juliette Mézenc](http://motmaquis.net/), blogueuse, auteur comme moi chez [publie.net](http://www.publie.net/). On n’en finit plus de se réjouir de la coïncidence. Elle suffit à nous rendre plus qu’heureux. Nous passons le reste de la journée à skier ensemble, jusqu’à finir par plonger à nouveau dans le brouillard, et manquer nous perdre, avec la sensation d’être de véritables aventuriers.
 
-![lundi29](https://tcrouzet.com/images_tc/2016/03/lundi29.jpg)
+![lundi29](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/lundi29-600x450.jpg)
+
+Tags: Carnets, une

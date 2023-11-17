@@ -1,8 +1,8 @@
 # Pour une gouvernance mondiale
 
-![Uns tructure polyvalente](https://tcrouzet.com/images_tc/2009/04/englob.gif)
+![Uns tructure polyvalente](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/04/englob.gif)
 
-Pouvons-nous créer un gouvernement mondial maintenant ? Sommes-nous assez sages ? Il me semble qu’il serait dangereux de créer un tel gouvernement avant que nous ayons pris conscience qu’il existe [un spectre de problèmes auquel correspond un spectre d’organisations](https://tcrouzet.com/2009/04/27/principe-de-peter-applique-aux-pyramides/). Il serait dangereux de créer un gouvernement mondial sur le modèle pyramidal de nos gouvernements nationaux. C’est au nom des hommes qu’il faut gouverner non au nom d’une idéologie posée a priori.<span id="more-6079"></span>
+Pouvons-nous créer un gouvernement mondial maintenant ? Sommes-nous assez sages ? Il me semble qu’il serait dangereux de créer un tel gouvernement avant que nous ayons pris conscience qu’il existe [un spectre de problèmes auquel correspond un spectre d’organisations](http://blog.tcrouzet.com/2009/04/27/principe-de-peter-applique-aux-pyramides/). Il serait dangereux de créer un gouvernement mondial sur le modèle pyramidal de nos gouvernements nationaux. C’est au nom des hommes qu’il faut gouverner non au nom d’une idéologie posée a priori.<span id="more-6079"></span>
 
 Aujourd’hui, les gouvernements se structurent en pyramide, non par raison d’efficacité et d’adéquation à certains types de problèmes, mais parce qu’ils héritent leur structure depuis l’âge lointain où les hommes se sédentarisèrent. Nous sommes la conséquence de notre passé évolutif. Il y a parmi nous des humains dominants à la recherche du pouvoir.
 
@@ -44,7 +44,7 @@ Un problème global ne peut s’adresser d’une manière centrale. Il doit just
 
 Un gouvernement global doit donc à tout prix maintenir la diversité de ses composantes pour multiplier ses chances de découvrir des solutions aux problèmes qui émergent sans cesse. Loin de globaliser par l’uniformisation, il doit multiplier les points de connexion entre les cultures et surtout entre les hommes afin de donner une chance à l’intelligence collective.
 
-Nous avons besoin de la sagesse que nous apporterait une gouvernance mondiale du type W3C. Nous devons séparer l’action de l’observation et du jugement de cette action. Nous devons séparer les pouvoir plus que jamais.
+Nous avons besoin de la sagesse que nous apporterait une gouvernance mondiale du type W3C. Nous devons séparer l’action de l’observation et du jugement de cette action. Nous devons séparer les pouvoir plus que jamais. 
 
 Face à un problème global, personne n’est sûr par avance qu’une solution, aussi intuitive soit-elle, aura des effets bénéfiques. Les solutions en apparences les plus rapides ou radicales sont peut-être le meilleur moyen de nous éloigner de notre objectif.
 
@@ -71,3 +71,5 @@ C’est de cette façon que l’esclavage a été aboli. Des gens ont refusé l�
 Nous avons bien sûr besoin d’un État, d’un État qui véhicule les valeurs, défend les avancées les plus sérieuses, les entérinent une fois que les expérimentations se sont suffisamment consolidées. En quelque sorte, il nous garantit de ne pas faire marche arrière. C’est à ça que doivent servir les lois, pas à nous empêcher d’aller de l’avant.
 
 PS. Nous avons l’exemple d’une Europe construite autour d’une gouvernance pyramidale. La pyramide a vite tendance à se nourrir elle-même, à imposer des mesures plus qu’à écouter ce dont nous avons besoins, ce dont la planète a besoin. Un réseau de sages peut ne pas être écouté, ne pas être suivi, mais au pire il n’a aucun effet, il ne risque pas de nous mener par le bout du nez. Et je suis sûr que si ces sages, pas nécessairement élus d’ailleurs, se font les porte-paroles de nos cultures, nous leur prêterons plus attention qu’aux technocrates de Bruxelles ou des Nations Unis.
+
+Tags: Connecteur

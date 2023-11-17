@@ -1,6 +1,6 @@
 # Vers la politique tridimensionnelle
 
-Suite à mon article sur [la constitution d’Étienne Chouard](https://tcrouzet.com/2006/07/07/la-constitution-d%e2%80%99etienne-chouard/), les commentateurs m’ont traité de gauchiste. Ça m’arrive même si le plus souvent on me traite d’ultralibéral.
+Suite à mon article sur [la constitution d’Étienne Chouard](http://blog.tcrouzet.com/2006/07/07/la-constitution-d%e2%80%99etienne-chouard/), les commentateurs m’ont traité de gauchiste. Ça m’arrive même si le plus souvent on me traite d’ultralibéral.
 
 Cette accusation amuse d’ailleurs mon ami [Francesco Casabaldi](http://francescocasabaldi.typepad.com/), lui-même souvent considéré comme un alter-ultra à tendance zapatiste. Et pourtant on est d’accord presque sur tout. Je suis sûr qu’il en va de même avec Étienne. Nos divergences sont si minimes qu’elles sont anecdotiques. Alors ? Suis-je versatile ? Suis-je mal dégrossi ? Où est-ce que mes critiques ne me comprennent pas ? Sans doute un peu des deux, je vais donc essayer de m’expliquer.
 

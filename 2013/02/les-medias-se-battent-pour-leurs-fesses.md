@@ -15,3 +15,5 @@ Nous savons tous que nous ne vivons pas dans un monde juste. Que les méchants �
 Google a lâché quelques millions aux médias français pour acheter le silence de la meute. Google ne peut ignorer que nous ne nous laisserons pas exploiter indéfiniment. Le jour de la révolte approche. Et peut-être, à nouveau, virons-nous librement dans un internet libre, puisque qu’aucun acteur ne s’accaparera plus les richesses de tous les autres pour imposer sa dictature.
 
 Je me prends à rêver.
+
+Tags: google, NetCulture, une

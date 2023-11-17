@@ -2,7 +2,7 @@
 
 En théorie, je suis pour l’énergie nucléaire. Je pense qu’elle est un moindre mal, en tout cas moins pire que le pétrole ou le charbon. Pour réduire les dégagements CO2, c’est une très bonne solution.
 
-Problème : [je ne veux pas d’une centrale près de chez moi](https://tcrouzet.com/2007/04/09/l%e2%80%99art-de-ne-pas-decider/). Du coup, je suis obligé, pour cette seule raison, d’être contre le nucléaire. Car, si je ne veux pas de centrale près de chez moi, je ne peux pas demander à d’autres citoyens de se sacrifier pour moi.
+Problème : [je ne veux pas d’une centrale près de chez moi](http://blog.tcrouzet.com/2007/04/09/l%e2%80%99art-de-ne-pas-decider/). Du coup, je suis obligé, pour cette seule raison, d’être contre le nucléaire. Car, si je ne veux pas de centrale près de chez moi, je ne peux pas demander à d’autres citoyens de se sacrifier pour moi.
 
 Ma position n’est pas écologique puisque écologiquement le nucléaire est peut-être la moins pire des solutions : il vaut mieux laisser aux générations à venir des déchets radioactifs dans des zones localisées plutôt qu’une atmosphère globalement détériorée (c’est la position que défend [Lovelock dans son dernier livre](http://www.amazon.fr/revanche-Ga%C3%AFa-riposte-t-elle-pouvons-nous-lhumanit%C3%A9/dp/2082105881)).
 

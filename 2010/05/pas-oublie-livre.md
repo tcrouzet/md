@@ -10,4 +10,6 @@ Nous devons nous inspirer du livre, cet objet autosuffisant, et en même temps o
 
 Avec le Web, nous nous sommes mis en position de faiblesse. Notre liberté d’expression émise depuis un point localisé est toute relative. On peut nous faire taire. Pour lutter, pour résister, pour réinventer, nous devons émettre de partout. Tout au moins, nos créations doivent pouvoir se dupliquer de mémoire en mémoire sans que nous puissions traquer leurs différentes instances. Un texte une fois propulsé ne doit plus nous appartenir.
 
-Avec le Web, nous en sommes un peu au temps des textes gravés aux frontons des temples. Il est temps que nous réintégrions l’héritage du livre : mobilité, portabilité, liberté… Voilà encore [une raison pour s’intéresser aux ebooks](https://tcrouzet.com/2010/05/23/defendre-livre-electronique/), textes numériques qui se réapproprient les acquis les plus politiquement vitaux du livre.
+Avec le Web, nous en sommes un peu au temps des textes gravés aux frontons des temples. Il est temps que nous réintégrions l’héritage du livre : mobilité, portabilité, liberté… Voilà encore [une raison pour s’intéresser aux ebooks](http://blog.tcrouzet.com/2010/05/23/defendre-livre-electronique/), textes numériques qui se réapproprient les acquis les plus politiquement vitaux du livre.
+
+Tags: eBook, NetLittérature

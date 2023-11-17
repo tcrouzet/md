@@ -2,7 +2,7 @@
 
 Les auteurs n’ont peut-être jamais été aussi pauvres. C’est ce que me disent mes amis qui ont connu les années 70 ou 80 ou même 90. La faute à qui ?<span id="more-27600"></span>
 
-Dans [une tribune du *Monde*](http://www.lemonde.fr/idees/article/2012/09/05/le-livre-face-au-piege-de-la-marchandisation_1755856_3232.html?xtmc=451&xtcr=1), le collectif des 451 vient de s’en prendre au numérique. Ironie de l’histoire, leur manifeste a aussi été publié sur [un blog](http://les451.noblogs.org/). Cette façon d’attaquer un média en utilisant le média lui-même n’est pas neuve. Je l’ai évoquée dans [*L’alternative Nomade*](https://tcrouzet.com/alternative-nomade/). Extrait :
+Dans [une tribune du *Monde*](http://www.lemonde.fr/idees/article/2012/09/05/le-livre-face-au-piege-de-la-marchandisation_1755856_3232.html?xtmc=451&xtcr=1), le collectif des 451 vient de s’en prendre au numérique. Ironie de l’histoire, leur manifeste a aussi été publié sur [un blog](http://les451.noblogs.org/). Cette façon d’attaquer un média en utilisant le média lui-même n’est pas neuve. Je l’ai évoquée dans [*L’alternative Nomade*](http://blog.tcrouzet.com/alternative-nomade/). Extrait :
 
 > En 1505, les bénédictins de l’abbaye de Sponheim, près de Mayence en Allemagne, profitèrent de l’absence de leur abbé pour lui faire payer sa dureté. Par vengeance, ils détruisirent la bibliothèque privée de cet érudit porté sur l’astrologie et la cryptologie.
 
@@ -16,17 +16,17 @@ Dans [une tribune du *Monde*](http://www.lemonde.fr/idees/article/2012/09/05/le-
 
 > Ironie de l’histoire, Johannes Trithemius fit imprimer son éloge de la profession de scribes. Livre trop important aux yeux de son auteur, il devait être lu, vite, largement. Pour mieux avertir des dangers de l’imprimerie, il fallait passer par elle. Bataille perdue d’avance. Ainsi aujourd’hui beaucoup critiquent le flux dans le flux lui-même. Ils se plaignent de la débauche d’information en nous assommant avec leurs informations. *Same player, shoot again!*
 
-Nos amis du collectif des 451 ne font qu’imiter Johannes Trithemius. En choisissant le nouveau média pour véhiculer leurs idées, ils en démontrent en même temps l’légitimité. Malheureusement, ils commettent une erreur que l’abbé n’a pas commise. Sur leur blog, en une, ils utilisent une image dont ils ne stipulent nulle part la source (j’ai peut-être mal cherché – [Phil-Paul Lambert](https://twitter.com/Lambert_phil) trouve ailleurs la source après la publication de ce billet, [Londres, Bibliothèque de Holland House après un bombardement, septembre 1940](http://bibliophage.skynetblogs.be/archive/2008/12/01/fahrenheit-451-aujourd-hui.html)). Je suis sûr d’une chose, les auteurs seraient moins pauvres s’ils étaient moins pillés, exploités, méprisés !
+Nos amis du collectif des 451 ne font qu’imiter Johannes Trithemius. En choisissant le nouveau média pour véhiculer leurs idées, ils en démontrent en même temps l’légitimité. Malheureusement, ils commettent une erreur que l’abbé n’a pas commise. Sur leur blog, en une, ils utilisent une image dont ils ne stipulent nulle part la source (j’ai peut-être mal cherché - [Phil-Paul Lambert](https://twitter.com/Lambert_phil) trouve ailleurs la source après la publication de ce billet, [Londres, Bibliothèque de Holland House après un bombardement, septembre 1940](http://bibliophage.skynetblogs.be/archive/2008/12/01/fahrenheit-451-aujourd-hui.html)). Je suis sûr d’une chose, les auteurs seraient moins pauvres s’ils étaient moins pillés, exploités, méprisés !
 
-![](https://tcrouzet.com/images_tc/2012/09/451.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/09/451-450x401.jpg)
 
-Nous créons la matière première de la chaîne du livre et nous en sommes les derniers bénéficiaires. Alors, quand nous tentons de nous autopublier, [certains avec un succès planétaire comme EL James](https://tcrouzet.com/2012/07/30/cinquante-nuances-de-grey/), il ne faut pas nous en vouloir. Nous cherchons à rétablir un équilibre cassé depuis longtemps. Le numérique ne conduit pas à notre perte, il est depuis longtemps notre meilleure chance de nous en sortir.
+Nous créons la matière première de la chaîne du livre et nous en sommes les derniers bénéficiaires. Alors, quand nous tentons de nous autopublier, [certains avec un succès planétaire comme EL James](http://blog.tcrouzet.com/2012/07/30/cinquante-nuances-de-grey/), il ne faut pas nous en vouloir. Nous cherchons à rétablir un équilibre cassé depuis longtemps. Le numérique ne conduit pas à notre perte, il est depuis longtemps notre meilleure chance de nous en sortir.
 
 Les acteurs de la chaîne du livre qui s’attaquent au numérique souhaitent-ils défendre le livre ou leur intérêt corporatistes ? Je vous laisse trouver une répondre.
 
 ### Note amusante
 
-Toujours dans [*L’alternative Nomade*](https://tcrouzet.com/alternative-nomade/), je cite Agamben, un des principaux signataire du manifeste. Extrait :
+Toujours dans [*L’alternative Nomade*](http://blog.tcrouzet.com/alternative-nomade/), je cite Agamben, un des principaux signataire du manifeste. Extrait :
 
 > Ivan Illich attire l’attention vers deux formes de lecture. La *lectio spiritualis* ou lecture livresque : continue, profonde, intense, linéaire, à accès séquentiel, du début à la fin (quand je lis au lit, dans mon hamac, au bord de la mer ou en garrigue…). La *lectio scholastica* : pratique, rapide, avec accès direct à l’information recherchée (quand je travaille devant mon ordinateur où défilent les fils de conversations).
 
@@ -46,6 +46,9 @@ Toujours dans [*L’alternative Nomade*](https://tcrouzet.com/alternative-nomade
 
 3. [Réponse à M. Agamben, et à ses amis](http://alatoisondor.wordpress.com/2012/09/05/reponse-a-m-agamben-et-a-ses-amis/)
 
+
 ### PS 7/9/2012 18:00
 
 Je viens de demander au *Monde* un droit de réponse, même si nous avons déjà répondu en ligne, un peu partout. Des gens ne nous lisent pas et pourraient croire les 451.
+
+Tags: Alternative nomade, eBook, édition, une

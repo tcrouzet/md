@@ -8,7 +8,7 @@ On me dit alors que ce qui compte c’est d’avoir des amis réels avec qui on 
 
 J’ai alors l’impression de parler avec les croyants qui sont persuadés de savoir ce que signifie vivre juste et qui méprisent ceux qui ne partagent pas leur croyance. Laissons plutôt les autres vivre leurs amitiés comme ils l’entendent. Ce qui compte c’est ce que nous expérimentons et non ce qu’il est bon idéalement d’expérimenter.
 
-C’est alors qu’on m’assène l’argument massue : Internet n’est qu’un moyen. Je me demande bien un moyen pour quoi faire. Cette remarque est aussi conne que de dire qu’un marteau n’est qu’un moyen. De quoi ? De planter des clous, de fracasser des crânes, de sculpter des chefs-d’œuvre…
+C’est alors qu’on m’assène l’argument massue : Internet n’est qu’un moyen. Je me demande bien un moyen pour quoi faire. Cette remarque est aussi conne que de dire qu’un marteau n’est qu’un moyen. De quoi ? De planter des clous, de fracasser des crânes, de sculpter des chefs-d'œuvre…
 
 Si Internet n’était qu’un moyen il aurait déjà une quasi-infinité de fonctions. Première originalité. Mais Internet est aussi un méta outil, un outil pour créer d’autres outils. Il est un langage de programmation, mieux un environnement de développement. Il est comme je le dis toujours un nouveau territoire.
 

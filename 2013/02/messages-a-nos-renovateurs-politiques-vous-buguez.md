@@ -1,6 +1,6 @@
 # Message à nos rénovateurs politiques : vous buguez
 
-Politiciens, je vous aime, j’apprécie votre énergie débordante, je salue vos idées, mais je suis chagriné. J’ai passé 2012 en compagnie d’[Ératosthène](https://tcrouzet.com/tag/eratosthene/), à chercher à comprendre pourquoi les Grecs du III<sup>e</sup> siècle avant JC avaient rejeté ses idées et je retrouve à l’œuvre chez vous les mécanismes qui jadis ont conduit à la fin d’un âge d’or.
+Politiciens, je vous aime, j’apprécie votre énergie débordante, je salue vos idées, mais je suis chagriné. J’ai passé 2012 en compagnie d’[Ératosthène](http://blog.tcrouzet.com/tag/eratosthene/), à chercher à comprendre pourquoi les Grecs du III<sup>e</sup> siècle avant JC avaient rejeté ses idées et je retrouve à l’œuvre chez vous les mécanismes qui jadis ont conduit à la fin d’un âge d’or.
 
 Pour la plupart, vous ne remettez pas en question la nécessité du pouvoir. Vous en critiquez la corruption, les débordements, les imperfections, mais vous refusez de mettre au rebu le mode de management patriarcal.
 
@@ -33,3 +33,5 @@ Notre avenir se joue sur ces champs de bataille, non pas dans ceux que vous mene
 ### Petite objection au tirage au sort
 
 Supposons-le instauré. Qu’est-ce qui empêche des partis de se former, les gens de se réclamer des uns et des autres, et puis de prendre le pouvoir en leur nom quand ils sont tirés au sort, et même de procurer quelques avantages aux membres de leur parti, ce qui incitera plus de gens à le rejoindre ? Rien. Le tirage au sort ne présente que peu d’avantages par rapport aux modèles électifs : il serait sans doute plus économique, mais beaucoup moins amusant (et nous avons besoin de divertissements, le jeu politique n’étant pas des moindres, il a pour vertu de détendre l’atmosphère le temps des élections).
+
+Tags: Ératosthène, MRDB, Revenu de base, une

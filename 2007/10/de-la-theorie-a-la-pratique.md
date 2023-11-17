@@ -1,8 +1,8 @@
 # De la théorie à la pratique
 
-J’ai hésité avant de publier le billet qui suit sur ce blog. Il peut paraître hors sujet, car spécifique à [Balaruc les Bains](http://www.ville-balaruc-les-bains.com/), ma commune. Pourtant, en y réfléchissant, je me suis dit que ce texte n’était qu’une application pratique des idées que je développe ici. La durabilité devrait être défendue partout tout comme son corolaire le modèle participatif. Quant à l’action locale c’est aussi un de mes chevaux de batailles.
+J’ai hésité avant de publier le billet qui suit sur ce blog. Il peut paraître hors sujet, car spécifique à [Balaruc les Bains](http://www.ville-balaruc-les-bains.com/), ma commune. Pourtant, en y réfléchissant, je me suis dit que ce texte n’était qu’une application pratique des idées que je développe ici. La durabilité devrait être défendue partout tout comme son corolaire le modèle participatif. Quant à l'action locale c'est aussi un de mes chevaux de batailles.
 
-J’ai écrit ce texte et l’ai envoyé hier à quelques amis dans le cadre de la précampagne municipale. En février dernier, [une journaliste de *Midi Libre* m’avait demandé mes projets au niveau local](https://tcrouzet.com/images_tc/midilibre.pdf). J’avais évoqué un pacte à la Nicolas Hulot. Ce texte va dans ce sens.
+J’ai écrit ce texte et l’ai envoyé hier à quelques amis dans le cadre de la précampagne municipale. En février dernier, [une journaliste de *Midi Libre* m’avait demandé mes projets au niveau local](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/midilibre.pdf). J’avais évoqué un pacte à la Nicolas Hulot. Ce texte va dans ce sens.
 
 ### Pour un Balaruc durable
 
@@ -10,7 +10,7 @@ Je suis né à Balaruc les Bains en 1963, peu avant la destruction du village bu
 
 Durant les années 1970 et 1980, il équivalait à une urbanisation débridée, une croissance aveugle et irrespectueuse de l’environnement comme du patrimoine. Les gestionnaires rivaient leurs yeux sur des indices quantitatifs (nombre d’habitants, de touristes, masse salariale, revenus commerciaux, déficit…). Tout ce qui n’était pas chiffrable, comme la qualité de vie, ne les intéressait pas.
 
-![Pacco](https://tcrouzet.com/images_tc/2007/10/pacco10.jpg)
+![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/pacco10.jpg)
 
 Aujourd’hui, le Balaruc bucolique aurait une plus grande valeur que le Balaruc bétonné par les promoteurs. Depuis le début du XXI<sup>e</sup> siècle, de nouveaux mots comme « durable » ou « respectueux » apparaissent pour caractériser le progrès. Les lieux qui ont été à l’avant-garde de ce mouvement qualitatif voient aujourd’hui leur cote monter, aussi bien au regard de leurs habitants que des touristes. En France, il suffit de parcourir la Dordogne, la vallée du Lot, le Lot-et-Garonne par exemple…
 

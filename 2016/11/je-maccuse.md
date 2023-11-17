@@ -1,6 +1,6 @@
 # Je m’accuse
 
-Nationalisme, racisme, populisme, démagogie, homophobie, discriminations, conservatisme… je n’ai rien pu faire contre. J’ai milité auprès de tous les gens que j’ai pu croiser, j’ai prêché infatigablement sur tous les médias à ma disposition, et ces maux que je combats ne cessent de prendre de l’ampleur, partout dans le monde.<span id="more-44440"></span>
+Nationalisme, racisme, populisme, démagogie, homophobie, discriminations, conservatisme… je n’ai rien pu faire contre. J’ai milité auprès de tous les gens que j'ai pu croiser, j'ai prêché infatigablement sur tous les médias à ma disposition, et ces maux que je combats ne cessent de prendre de l’ampleur, partout dans le monde.<span id="more-44440"></span>
 
 Qu’est-ce que j’ai mal fait ? Qu’est-ce que je ne vois pas ?
 
@@ -14,7 +14,7 @@ La peur, c’est du solide. Quelque chose que nous connaissons tous, un sentimen
 
 Que puis je faire ? Continuer comme avant, avec l’espoir insensé que cette fois je ferai bouger quelques amis, qui en feront bouger d’autres, ou dois-je changer de stratégie ?
 
-Je regarde, autour de moi, tous ceux présumés qui partagent mes espérances. Ils se sont investis dans des associations, ils ont milité pour des causes positives dans la rue, dans les écoles, même lors des élections, ils ont essayé de contourner les obstacles à l’aide du marketing, du business, des lois, de l’art… Je dois bien admettre que provisoirement ils ont tous échoué autant que moi.
+Je regarde, autour de moi, tous ceux présumés qui partagent mes espérances. Ils se sont investis dans des associations, ils ont milité pour des causes positives dans la rue, dans les écoles, même lors des élections, ils ont essayé de contourner les obstacles à l’aide du marketing, du business, des lois, de l'art… Je dois bien admettre que provisoirement ils ont tous échoué autant que moi.
 
 Tous ensemble nous avons construit une société triste… Notre échec, c’est notre propension à la mélancolie, une mélancolie assez commune chez les décadents.
 
@@ -32,20 +32,22 @@ Que faire ? Je ne sais tout simplement pas. Peut-être que cette incertitude es
 
 Je m’accuse donc de ne pas assez douter.
 
-Je m’accuse de renoncer.
+Je m'accuse de renoncer.
 
-Je m’accuse de perdre espoir.
+Je m'accuse de perdre espoir.
 
-Je m’accuse de ne pas avoir foi en vous.
+Je m'accuse de ne pas avoir foi en vous.
 
-Je m’accuse de prêter une oreille aux mauvais augures.
+Je m'accuse de prêter une oreille aux mauvais augures.
 
-Je m’accuse de me plier aux règles d’un jeu qui ne fonctionne plus.
+Je m'accuse de me plier aux règles d'un jeu qui ne fonctionne plus.
 
-Je m’accuse de subir.
+Je m'accuse de subir.
 
-Je m’accuse de ne plus être moi-même.
+Je m'accuse de ne plus être moi-même.
 
-Je m’accuse de vouloir voir le changement dans les autres.
+Je m'accuse de vouloir voir le changement dans les autres.
 
-Je m’accuse de ne pas agir, encore et encore.
+Je m'accuse de ne pas agir, encore et encore.
+
+Tags: Politique, une

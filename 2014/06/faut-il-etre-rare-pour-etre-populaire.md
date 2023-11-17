@@ -6,7 +6,7 @@ Il faut donc envisager le problème autrement. La rareté est peut-être le seul
 
 Mes amis auteurs non-blogueur utilisent la tactique de la rareté. Ils publient un livre de temps en temps, avec un bref bal médiatique, et s’exposent dans quelques foires. Après silence. Et parfois les lecteurs semblent les attendre avec avidité. J’envie leur rythme et ses grandes plages de calme.
 
-De mon côté, l’écriture déborde. J’ai du mal à me taire. Je pourrais remplir des carnets pour après ma mort, mais j’ai envie de goûter au plaisir de la postérité immédiate. Je m’abandonne à l’ivresse du [send](https://tcrouzet.com/2013/11/24/la-send-generation-pecha-kucha-remix/).
+De mon côté, l’écriture déborde. J’ai du mal à me taire. Je pourrais remplir des carnets pour après ma mort, mais j’ai envie de goûter au plaisir de la postérité immédiate. Je m’abandonne à l’ivresse du [send](http://blog.tcrouzet.com/2013/11/24/la-send-generation-pecha-kucha-remix/).
 
 Les businessmen ont trouvé depuis longtemps une technique imparable pour créer de la rareté, faire payer. Alors, périodiquement, je me dis que je devrais faire payer mon blog, pour rester invisible aux yeux du plus grand nombre. Et ne jaillir qu’une fois par an, avec un chef-d’œuvre inoubliable.
 
@@ -18,4 +18,8 @@ J’endurcis mon corps pour ne pas perdre le rythme du send. Je suis un athlète
 
 *PS : Billet inspiré par [un billet de Neil Jomunsi](http://page42.org/labondance-est-elle-une-destruction/).*
 
-![The sofa par Daniele Zanni.](https://tcrouzet.com/images_tc/2014/06/sofa.jpg)
+![The sofa par Daniele Zanni.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/sofa.jpg)
+
+
+
+Tags: NetLittérature, une

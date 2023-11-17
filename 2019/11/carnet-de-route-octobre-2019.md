@@ -28,7 +28,7 @@ Suite à un billet de [Lionel Davoust](https://lioneldavoust.com/2019/les-modes-
 
 ### Vendredi 4, Intercités
 
-Je ne sais plus trop, des sentiments contradictoires, des discussions en ligne, des échanges, des projets, puis le présent, le train arrêté, « en pleine voie » comme s’il pouvait s’arrêter ailleurs, pendant que ma correspondance à Toulouse s’échappe peut-être. Un manque, celui de ne plus pouvoir photographier avec mon iPhone à l’objectif récalcitrant. Cette fonction m’est devenue indispensable sans que j’en prenne conscience. Un bout de garrigue au-delà de la fenêtre, oliviers sauvages, cyprès, puis les roches à nue, de ce gris du Midi que je ne sais même pas nommer, granit peut-être, avec de la terre ocre, et puis la végétation rase au-dessus des chênes verts. Une route aussi, le long de la voie. J’aurais photographié, je n’aurais pas décrit. Le train repart, le paysage avec lui. Des vignes, des voitures, des parcelles replantées de pins.
+Je ne sais plus trop, des sentiments contradictoires, des discussions en ligne, des échanges, des projets, puis le présent, le train arrêté, « en pleine voie » comme s’il pouvait s’arrêter ailleurs, pendant que ma correspondance à Toulouse s’échappe peut-être. Un manque, celui de ne plus pouvoir photographier avec mon iPhone à l'objectif récalcitrant. Cette fonction m’est devenue indispensable sans que j’en prenne conscience. Un bout de garrigue au-delà de la fenêtre, oliviers sauvages, cyprès, puis les roches à nue, de ce gris du Midi que je ne sais même pas nommer, granit peut-être, avec de la terre ocre, et puis la végétation rase au-dessus des chênes verts. Une route aussi, le long de la voie. J’aurais photographié, je n’aurais pas décrit. Le train repart, le paysage avec lui. Des vignes, des voitures, des parcelles replantées de pins.
 
 ---
 
@@ -48,7 +48,7 @@ Je n’ai rien de particulier à voir, sinon la flèche d’une église sur fond
 
 Les salons mettent ma patience à rude épreuve. Je suis forcé de supporter cet exercice masochiste maintenant que le net n’est plus mon ami. Je cherche hors de lui de nouvelles relations, une recherche douloureuse, parce qu’elle n’a rien de naturel pour moi.
 
-![Avec Cantaloube, Un aller-retour dans le noir](https://tcrouzet.com/images_tc/2019/11/71079070_429525897706668_2541748922039121803_N.jpeg)
+![Avec Cantaloube, Un aller-retour dans le noir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/71079070_429525897706668_2541748922039121803_N.jpeg)
 
 ### Dimanche 6, Pau
 
@@ -74,19 +74,19 @@ Je grimpe jusqu’à mon bureau et reprends ma vie d’avant. Mes *Ravissements*
 
 Séance kiné sportive, je monte en tour, transpire, passe à quinze kilos de pression. Quelques raideurs avant l’échauffement, puis ça roule. Quand je rentre à la maison, le ciel explose. La plus belle saison commence.
 
-![École de voile](https://tcrouzet.com/images_tc/2019/11/P1100099.jpeg)
+![École de voile](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100099.jpeg)
 
-![Couchant](https://tcrouzet.com/images_tc/2019/11/P1100102.jpeg)
+![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100102.jpeg)
 
-![Paddle](https://tcrouzet.com/images_tc/2019/11/P1100128.jpeg)
+![Paddle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100128.jpeg)
 
-![Couchant](https://tcrouzet.com/images_tc/2019/11/P1100139.jpeg)
+![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100139.jpeg)
 
 ### Mercredi 9, Balaruc
 
-![Matin](https://tcrouzet.com/images_tc/2019/11/P1100165.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100165.jpeg)
 
-![Couchant](https://tcrouzet.com/images_tc/2019/11/P1100183.jpeg)
+![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100183.jpeg)
 
 ### Jeudi 10, Balaruc
 
@@ -96,11 +96,11 @@ Je continue de jouer avec Instagram, mes bouts de code republient sans cesse des
 
 Côté jambe, je progresse. Deux kilomètres de marche aujourd’hui et des séances kiné de plus en plus sportives. Reprendre des forces, reprendre confiance, appuyer sur la jambe, mais ne jamais avoir mal, un juste milieu délicat.
 
-![Couchant](https://tcrouzet.com/images_tc/2019/11/P1100202.jpeg)
+![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100202.jpeg)
 
 ### Vendredi 11, Balaruc
 
-L’interphone sonne. Je décroche. « Bonjour, c’est monsieur un tel et un tel. » Moi : « Oui, mais encore ? » Eux : « On vient pour parler des écritures. » Il me faut un instant pour comprendre qu’il ne s’agit pas de mes écritures.
+L'interphone sonne. Je décroche. « Bonjour, c’est monsieur un tel et un tel. » Moi : « Oui, mais encore ? » Eux : « On vient pour parler des écritures. » Il me faut un instant pour comprendre qu’il ne s’agit pas de mes écritures.
 
 ---
 
@@ -108,9 +108,9 @@ Plus que trois ravissements dans ma liste, j’arrive au bout de ce projet. Aucu
 
 ---
 
-Je tiens le 20 km/h de moyenne sur le home-trainer, avec 2 km au niveau 3. Séance terminée en nage. Je passe le reste de la journée à jouer avec l’API Instagram.
+Je tiens le 20 km/h de moyenne sur le home-trainer, avec 2 km au niveau 3. Séance terminée en nage. Je passe le reste de la journée à jouer avec l'API Instagram.
 
-![Et moi ?](https://tcrouzet.com/images_tc/2019/11/P1100207.jpeg)
+![Et moi ?](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100207.jpeg)
 
 ### Samedi 12, Balaruc
 
@@ -136,9 +136,9 @@ Je relis mes *Ravissements* sur l’iPad quand je laisse tomber mon stylet, me l
 
 Rencontre avec Serge Barnel, le truculent pape du VTT en France, co-organisateur des premiers championnats du monde en 1987 et du Rock d’Azur, aujourd’hui avant tout adepte du gravel et du bikepacking.
 
-![Kayak à pédale](https://tcrouzet.com/images_tc/2019/11/P1100217-1.jpeg)
+![Kayak à pédale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100217-1.jpeg)
 
-![Kayak à pédale](https://tcrouzet.com/images_tc/2019/11/P1100228.jpeg)
+![Kayak à pédale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100228.jpeg)
 
 ### Jeudi 17, Balaruc
 
@@ -148,31 +148,31 @@ Une étoile située dans la proche banlieue du soleil serait [plus vieille que l
 
 J’abandonne mon vieil iPhone 6 pour un iPhone 11 Pro, qui j’espère me durera aussi cinq ans : l’iPhone 6 n’était plus mis à jour par Apple, il plantait sur de nombreuses app et faisait des photos floues. Je suis fatigué par cette obsolescence programmée. Reste que le nouvel iPhone est d’une fluidité remarquable, qu’il fait de superbes photos, mais bon, à part ça, je ne vais pas crier à la révolution (si, tout de même, j’entends à nouveau mes interlocuteurs quand ils me téléphonent).
 
-![Couchant](https://tcrouzet.com/images_tc/2019/11/IMG_6432.jpeg)
+![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6432.jpeg)
 
 ### Vendredi 18, Balaruc
 
 Je fais quelques pas sans béquille. Olivier m’annonce que la semaine prochaine je pourrais conduire et faire du vélo (mais en douceur bien sûr, pas question encore de ressortir le VTT).
 
-![Matin](https://tcrouzet.com/images_tc/2019/11/QRXC1720.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/QRXC1720.jpeg)
 
 ### Samedi 19, Balaruc
 
 L’écriture de mes *Ravissements* aura rythmé ma convalescence et je me retrouve dans le post-partum de l’après-texte. J’aurais aimer écrire davantage, mais voilà, j’en suis arrivé au bout, je ne choisis pas la taille de mes livres, à un moment donné j’ai dit ce que j’avais à dire.
 
-![Port de Balaruc](https://tcrouzet.com/images_tc/2019/11/IMG_6461.jpeg)
+![Port de Balaruc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6461.jpeg)
 
-![Ponton](https://tcrouzet.com/images_tc/2019/11/IMG_6464.jpeg)
+![Ponton](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6464.jpeg)
 
-![Couchant](https://tcrouzet.com/images_tc/2019/11/P1100238.jpeg)
+![Couchant](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100238.jpeg)
 
 ### Dimanche 20, Balaruc
 
-![Vent de sud](https://tcrouzet.com/images_tc/2019/11/P1100245.jpeg)
+![Vent de sud](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100245.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2019/11/P1100276.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100276.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2019/11/P1100295.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100295.jpeg)
 
 ### Lundi 21, Balaruc
 
@@ -182,13 +182,13 @@ De nouveaux ravissements s’imposent alors que je relis l’ensemble. Je contin
 
 Je peux marcher sans béquille, plus facile quand mon articulation est chaude. Il y a de l’étrangeté à retrouver un fonctionnement normal, jusqu’à vider la machine à laver et à étendre le linge.
 
-![Soir](https://tcrouzet.com/images_tc/2019/11/P1100319.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100319.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2019/11/P1100376.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100376.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2019/11/P1100432.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100432.jpeg)
 
-![Sète](https://tcrouzet.com/images_tc/2019/11/IMG_6602.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6602.jpeg)
 
 ### Mardi 22, Balaruc
 
@@ -204,17 +204,17 @@ Laurent Margantin publie la traduction d’un [texte émouvant](http://oeuvresou
 
 ### Mercredi 23, Balaruc
 
-Lecture d’une [chronique](http://www.bernard-deschamps.net/2019/10/regards-d-enfants-sur-leurs-parents.html) sur mon roman écrite façon patate qui se termine par « La distance avec laquelle il relate les atrocités – qu’il condamne – commises en Algérie par l’armée et par son père, me paraît tellement éloignée du traumatisme que doit éprouver un fils en les découvrant que je me demande s’il s’agit réellement du vécu de l’auteur. Ce n’est pas un des ouvrages majeurs de la rentrée, mais le style est alerte et cela se lit facilement. » Encore un qui n’a rien compris. Sans distance, tu crèves. Mon seul but dans ce livre était de comprendre mon père, de m’en approcher, pas de raconter la guerre d’Algérie, pas de condamner quoi que ce soit, pas de fantasmer une guerre. La pudeur, la retenue, le minimalisme, la sobriété te parlent comme esthétique ? Et je ne savais pas qu’il y avait des ouvrages majeurs dans cette rentrée. Toutes ces âneries fatiguent autant que le silence. Chaque fois que l’Histoire vacille, les arts basculent dans le baroque comme pour rire d’eux-mêmes. Je ne tomberai pas dans ce piège.
+Lecture d’une [chronique](http://www.bernard-deschamps.net/2019/10/regards-d-enfants-sur-leurs-parents.html) sur mon roman écrite façon patate qui se termine par « La distance avec laquelle il relate les atrocités – qu’il condamne - commises en Algérie par l’armée et par son père, me paraît tellement éloignée du traumatisme que doit éprouver un fils en les découvrant que je me demande s’il s’agit réellement du vécu de l’auteur. Ce n’est pas un des ouvrages majeurs de la rentrée, mais le style est alerte et cela se lit facilement. » Encore un qui n’a rien compris. Sans distance, tu crèves. Mon seul but dans ce livre était de comprendre mon père, de m’en approcher, pas de raconter la guerre d’Algérie, pas de condamner quoi que ce soit, pas de fantasmer une guerre. La pudeur, la retenue, le minimalisme, la sobriété te parlent comme esthétique ? Et je ne savais pas qu’il y avait des ouvrages majeurs dans cette rentrée. Toutes ces âneries fatiguent autant que le silence. Chaque fois que l’Histoire vacille, les arts basculent dans le baroque comme pour rire d’eux-mêmes. Je ne tomberai pas dans ce piège.
 
-![Grosse pluie](https://tcrouzet.com/images_tc/2019/11/IMG_6616.jpeg)
+![Grosse pluie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6616.jpeg)
 
 ### Jeudi 24, Balaruc
 
 Ce matin, je termine mes *Ravissements*, après en avoir écrit quatre supplémentaires ces derniers jours, et cet après-midi je remonte à vélo pour la première fois, parcourant vingt-cinq kilomètres sur la piste cyclable du tour de l’étang. Mes ravissements s’achèvent avec ma convalescence. Ils ont une tonalité que je ne me connaissais pas. J’ai été heureux de les écrire, mais j’ignore s’ils intéresseront quelques lecteurs. Ce n’est pas le plus important, moins que ma jambe, qui tiraille encore, mais qui sur le vélo s’est bien comportée, sauf quand j’ai dû tourner la tête pour regarder derrière, ce mouvement produisant une torsion de la hanche plutôt désagréable. Lors de ma séance de kiné, Olivier m’a dit que je récupérais à une vitesse incroyable. Peut-être qu’écrire des textes positifs m’a aidé. Et puis la lumière m’a gâté, surtout depuis que je peux la saisir depuis mon bureau panoramique.
 
-![Première sortie vélo](https://tcrouzet.com/images_tc/2019/11/IMG_6624.jpeg)
+![Première sortie vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6624.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2019/11/P1100467-1.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100467-1.jpeg)
 
 ### Vendredi 25, Balaruc
 
@@ -222,7 +222,7 @@ Deuxième sortie vélo, une trentaine de kilomètres, je pousse jusqu’à Mèze
 
 Au retour, un peu mal aux bras, au dos, je dois refaire du gainage, mais je n’y pense pas. Je suis seul à la maison, Isa et les enfants partis pour quelques jours. Le frigidaire est vide. Je prends la voiture pour aller faire des courses, une première également depuis la fracture, mais je n’éprouve pas la même délectation qu’à vélo, replongeant dans le flux bruyant. À mon retour, l’étang est cuivre, étal, les Pyrénées déroulées dans toute leur longueur. J’en suis presque triste tant cette beauté est vertigineuse, l’émotion laisse un trou en moi.
 
-![Transparence](https://tcrouzet.com/images_tc/2019/11/IMG_6634.jpeg)
+![Transparence](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6634.jpeg)
 
 ### Samedi 26, Balaruc
 
@@ -232,11 +232,11 @@ La lumière n’en finit pas d’éblouir, une pure merveille qui n’est possib
 
 Depuis quelques jours, mes robots Instagram tournent et des bookgrameuses me houspillent, comme si elles ne voyaient pas d’un bon œil mon incursion dans leur pré gardé. Je ferais n’importe quoi, ma méthodologie serait bidon… mais alors, pourquoi perdre du temps à s’intéresser à mes bricolages ? Mardi prochain, je publierai [un article pour résumer mes investigations](https://tcrouzet.com/2019/10/29/bookstragram-arnaque-ou-pas/). Je parlerai des robots utilisés par certains éditeurs et surtout certaines bookgrameuses.
 
-![Dans la lumière](https://tcrouzet.com/images_tc/2019/11/IMG_6654.jpeg)
+![Dans la lumière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6654.jpeg)
 
-![Le Moure Blanc](https://tcrouzet.com/images_tc/2019/11/IMG_6669.jpeg)
+![Le Moure Blanc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6669.jpeg)
 
-![Le Moure Blanc](https://tcrouzet.com/images_tc/2019/11/IMG_6667.jpeg)
+![Le Moure Blanc](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6667.jpeg)
 
 ### Dimanche 27, Balaruc
 
@@ -246,20 +246,24 @@ Je ne lis pas de littérature quand j’écris, peut-être parce qu’alors je m
 
 Extraordinaire sensation de liberté de pédaler avec des pédales plates style VTT de descente, avec de simples baskets. Est-ce une illusion parce que je retrouve mon vélo après deux mois et que les conditions lumineuses et thermiques sont proches de la perfection ?
 
-![Matin](https://tcrouzet.com/images_tc/2019/11/IMG_6702.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6702.jpeg)
 
-![Matin](https://tcrouzet.com/images_tc/2019/11/IMG_6704.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6704.jpeg)
 
-![Bellevue](https://tcrouzet.com/images_tc/2019/11/IMG_6722.jpeg)
+![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6722.jpeg)
 
-![Bellevue](https://tcrouzet.com/images_tc/2019/11/IMG_6715.jpeg)
+![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6715.jpeg)
 
-![Bellevue](https://tcrouzet.com/images_tc/2019/11/IMG_6729.jpeg)
+![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6729.jpeg)
 
 ### Mardi 29, Balaruc
 
-![L'étang](https://tcrouzet.com/images_tc/2019/11/P1100497.jpeg)
+![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/P1100497.jpeg)
 
 ### Jeudi 31, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2019/11/IMG_6784.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/IMG_6784.jpeg)
+
+
+
+Tags: Carnets, une

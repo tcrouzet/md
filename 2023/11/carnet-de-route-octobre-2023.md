@@ -4,7 +4,7 @@
 
 ### Dimanche 1<sup>er</sup>, Balaruc
 
-[Jérôme Leroy se moque gentiment des joggers qui passent devant lui pendant qu’il lit sur un banc.](https://www.facebook.com/cornelius.rouge/posts/pfbid02e5aLjCRUaxAtHMCKugkfZGJ7qX9sj4N9FjGQBfTXk5H5HaGBvVY27DsExktxwumPl) Il oublie un détail : celui qui court gagne de l’énergie pour quand il ne court pas, et il peut l’utiliser pour lire, écrire, rêver… Mais celui qui n’a jamais couru, ou fait un autre sport d’endurance, ne peut pas comprendre cette subtilité. C’est un paradoxe, mais faire du sport me donne plus de temps pour vivre, là, tout de suite (sans même parler du plaisir de faire du sport). On a tout à gagner à se bouger les fesses. <span id="more-65273"></span>
+[Jérôme Leroy se moque gentiment des joggers qui passent devant lui pendant qu’il lit sur un banc.](https://www.facebook.com/cornelius.rouge/posts/pfbid02e5aLjCRUaxAtHMCKugkfZGJ7qX9sj4N9FjGQBfTXk5H5HaGBvVY27DsExktxwumPl) Il oublie un détail : celui qui court gagne de l’énergie pour quand il ne court pas, et il peut l’utiliser pour lire, écrire, rêver… Mais celui qui n’a jamais couru, ou fait un autre sport d’endurance, ne peut pas comprendre cette subtilité. C’est un paradoxe, mais faire du sport me donne plus de temps pour vivre, là, tout de suite (sans même parler du plaisir de faire du sport). On a tout à gagner à se bouger les fesses.<span id="more-65273"></span>
 
 ![La Pointe](https://tcrouzet.com/images_tc/2023/10/IMG_3582.jpeg)
 
@@ -28,7 +28,7 @@ Mes premières expériences avec Langchain me déçoivent. Quand je demande quel
 
 ### Mercredi 4, Balaruc
 
-J’attends, retourne pédaler autour de l’étang, fait un peu d’admin, nettoie mon matos de bikepacking, j’attends que Pierre me réponde, j’attends, je déteste attendre. La vie blesse, l’animal a peur. Je génère des images avec les IA, c’est tout aussi étourdissant que les textes. Je lis aussi. Je regarde le bleu étonnant de ce mois d’octobre, qui enfin nous propose une lumière de septembre. Je lis, je me repose, je crois que j’ai besoin de me reposer. Entre le vélo et l’écriture, je n’ai pas arrêté depuis fin mars. C’est presque suspect de ne rien faire.
+J’attends, retourne pédaler autour de l’étang, fais un peu d’admin, nettoie mon matos de bikepacking, j’attends que Pierre me réponde, j’attends, je déteste attendre. La vie blesse, l’animal a peur. Je génère des images avec les IA, c’est tout aussi étourdissant que les textes. Je lis aussi. Je regarde le bleu étonnant de ce mois d’octobre, qui enfin nous propose une lumière de septembre. Je lis, je me repose, je crois que j’ai besoin de me reposer. Entre le vélo et l’écriture, je n’ai pas arrêté depuis fin mars. C’est presque suspect de ne rien faire.
 
 ![ChatGPT](https://tcrouzet.com/images_tc/2023/10/vision01.jpeg)
 
@@ -112,7 +112,7 @@ Des mots datés : empesté, mendiant, briguant, damné, dieu… qui mis ensembl
 
 ### Lundi 16, Balaruc
 
-Je déteste passer de l’hyperactivité à l’attente. L’impatience me pouse à prendre des décisions hâtives, souvent contre mes propres intérêts. Le plus difficile est de savoir qu’il me reste encore tout à faire dans l’exploration des IA littéraires. Et je me retrouve entravé par des réticences marchandes. Des désirs de monter un site marchand me viennent. M’occuper de gagner un peu d’argent pour me payer des plaisirs, et laisser tomber mes combats esthétiques. Quels sens ont-ils dans notre monde ? Une profonde contradiction traverse ma vie. Je n’en finis pas d’être à cheval entre deux époques.
+Je déteste passer de l’hyperactivité à l’attente. L’impatience me pousse à prendre des décisions hâtives, souvent contre mes propres intérêts. Le plus difficile est de savoir qu’il me reste encore tout à faire dans l’exploration des IA littéraires. Et je me retrouve entravé par des réticences marchandes. Des désirs de monter un site marchand me viennent. M’occuper de gagner un peu d’argent pour me payer des plaisirs, et laisser tomber mes combats esthétiques. Quel sens ont-ils dans notre monde ? Une profonde contradiction traverse ma vie. Je n’en finis pas d’être à cheval entre deux époques.
 
 ---
 
@@ -132,7 +132,7 @@ Je médite, appuyé à la fenêtre de la cuisine, du côté jardin. Je regarde l
 
 J’utilise les IA pour écrire comme j’utilise internet. Impensable de faire autrement. J’ai écrit *Le Code Houellebecq* comme tout le monde s’apprête à écrire. Je veux bien en parler, mais ma technique d’écriture ne peut être un argument de vente (et la seule raison de publier mon texte). Mon roman parle d’une transition dans l’histoire de la littérature.
 
-Je dis « impensable de faire autrement » et pourtant l’année dernière j’ai écrit *Épicène* sans pratiquement utiliser internet. C’est un texte venu du passé. Une histoire qui se joue dans des lieux inommés, des époques floues. Il n’y a pas d’obligations, juste des possibilités.
+Je dis « impensable de faire autrement » et pourtant l’année dernière j’ai écrit *Épicène* sans pratiquement utiliser internet. C’est un texte venu du passé. Une histoire qui se joue dans des lieux innommés, des époques floues. Il n’y a pas d’obligations, juste des possibilités.
 
 ### Mercredi 18, Balaruc
 
@@ -180,7 +180,7 @@ J’ai publié hier une illustration pour une de mes aventures bikepacking et be
 
 ---
 
-Quand je demande à ChatGPT de me corriger, avec un promt maison que je considère désormais comme une extension indispensable d’Antidote, il me suggère souvent de nombreuses corrections. Aujourd’hui, nous le testons sur un texte traduit par Isa à l'aide des IA. ChatGPT ne trouve rien à redire, alors que le texte nous apparaît boursouflé.
+Quand je demande à ChatGPT de me corriger, avec un prompt maison que je considère désormais comme une extension indispensable d’Antidote, il me suggère souvent de nombreuses corrections. Aujourd’hui, nous le testons sur un texte traduit par Isa à l'aide des IA. ChatGPT ne trouve rien à redire, alors que le texte nous apparaît boursouflé.
 
 ### Dimanche 22, Balaruc
 
@@ -269,3 +269,5 @@ Un petit geste, inscrit dans une longue logique, je viens de supprimer de mon si
 ### Mardi 31, Balaruc
 
 Je récupère mon archive Twitter et ferme mon compte, sans même un message d'adieu. Je n'y interagissais plus depuis longtemps. Personne ne se rendra compte de ma mort. Personne ne me pleurera.
+
+Tags: Carnets, une

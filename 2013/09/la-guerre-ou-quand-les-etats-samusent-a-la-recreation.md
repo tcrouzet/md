@@ -7,7 +7,7 @@ Cette théorie « Pour vivre en paix, il faut un gouvernement central. » est 
 1. Dans un groupe réduit, disons moins de cent personnes, on peut prendre les décisions démocratiquement, face à face. Pas besoin d’un gouvernement.
 2. Mais lorsque deux tributs se rencontrent. Si cents personnes sont d’accord pour faire la paix, il existera toujours quelques têtes brûlées qui désireront se venger et briseront l’armistice. Et la guerre reprendra.
 3. Contrôler les agitateurs exige une force centralisée. Les sociétés tribales sans leader puissant ne peuvent maintenir la paix. C’est pourquoi les sociétés-états se sont développées et pourquoi les fermiers ont toléré les parasites gouvernementaux.
-4. Quand nous avons un accident de voiture, nous n’exigeons pas réparation de l’autre conducteur. L’État prend pacifiquement en charge le litige \[avec l’aide des assureurs qu’il nous impose\]. C’est pourquoi les gens des sociétés traditionnelles basculent peu à peu vers les sociétés-états. Ils en reconnaissent les bénéfices.
+4. Quand nous avons un accident de voiture, nous n’exigeons pas réparation de l’autre conducteur. L’État prend pacifiquement en charge le litige \[avec l’aide des assureurs qu'il nous impose\]. C’est pourquoi les gens des sociétés traditionnelles basculent peu à peu vers les sociétés-états. Ils en reconnaissent les bénéfices.
 
 Je suis dans les grandes lignes d’accord avec ce raisonnement. L’État est nécessaire dès que la population augmente. Voilà pourquoi je ne suis pas vraiment anarchiste, ni libéral au sens économique. Mais pourquoi l’État devrait-il être centralisé ?
 
@@ -29,3 +29,5 @@ Nous avons par exemple créé un Internet en grande part décentralisé. Et rien
 Quand allons-nous passer du primaire au secondaire ?
 
 PS : Deux États décentralisés qui se rencontrent, faute de centre, sont peut-être condamnés à fusionner. Et on en arrive, non à un gouvernement planétaire, mais à un État planétaire.
+
+Tags: anarchisme, centralisation, Décentralisation, NetCulture, une

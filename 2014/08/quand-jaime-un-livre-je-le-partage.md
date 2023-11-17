@@ -1,8 +1,8 @@
 # Quand j’aime un livre, je le partage
 
-Vous allez crier au piratage. N’exagérez pas. J’ai toujours aimé parler des livres qui me travaillent, n’hésitant pas à les prêter à mes amis, ne songeant pas une seconde que je spolie leurs auteurs. Je suis embêté maintenant que je ne lis plus qu’en numérique.<span id="more-36573"></span>
+Vous allez crier au piratage. N’exagérez pas. J’ai toujours aimé parler des livres qui me travaillent, n'hésitant pas à les prêter à mes amis, ne songeant pas une seconde que je spolie leurs auteurs. Je suis embêté maintenant que je ne lis plus qu’en numérique.<span id="more-36573"></span>
 
-Quand Isa apprécie tout particulièrement un ebook, elle achète une version papier pour l’offrir. Je n’arrive pas à me résoudre à ce stratagème, même si j’aime encore certains livres papiers, surtout mon [*Ératosthène*](https://tcrouzet.com/eratosthene/) avec sa couv antique, sa belle main. Reste que si je n’étais pas l’auteur, je préférerais encore le lire sur ma liseuse.
+Quand Isa apprécie tout particulièrement un ebook, elle achète une version papier pour l’offrir. Je n’arrive pas à me résoudre à ce stratagème, même si j’aime encore certains livres papiers, surtout mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/) avec sa couv antique, sa belle main. Reste que si je n’étais pas l’auteur, je préférerais encore le lire sur ma liseuse.
 
 Alors je me dis pourquoi pas envoyer des ebooks par mail, comme ça, spontanément, à des gens qui comptent. Je peux bien sûr penser à telle ou telle personne pour tel ou tel livre, je peux aussi envisager d’automatiser le processus, sans en faire une industrie.
 
@@ -12,10 +12,14 @@ Je pourrais même exiger un feed-back de mes récipendiaires. Pas lu, lu, achet�
 
 Il faudrait presque créer un service pour ça. Un petit bout de code pour gérer les échanges, les feed-back, mais attention, les livres ne sont pas chargés sur un serveur, ils ne sont pas googlisables. Ils ne font que passer. Pondre un petit client mail dédié au partage de livres et à leur promotion.
 
-Pour le [*RaysDay*](http://raysday.net/), j’enverrai ainsi trois ou quatre livres à des amis et à la liste des [abonnés à mon blog](https://tcrouzet.com/abonnement-par-mail/). Je ne vois pas de meilleure façon de fêter la lecture qu’en offrant de partager un moment de bonheur avec moi.
+Pour le [*RaysDay*](http://raysday.net/), j’enverrai ainsi trois ou quatre livres à des amis et à la liste des [abonnés à mon blog](http://blog.tcrouzet.com/abonnement-par-mail/). Je ne vois pas de meilleure façon de fêter la lecture qu’en offrant de partager un moment de bonheur avec moi.
 
 Et pourquoi d’autres ne m’imiteraient pas. Nous ferions circuler dans le nuage une myriade de livres. Cela engendrerait quelques vaguelettes dans la protoconscience numérique de l’univers.
 
 Il va s’en dire que j’enverrai des livres qu’on ne trouve pas avec une requête « torrent titre », des livres que j’ai achetés et libérés de leur chien de garde. Serais-je alors un pirate ou le meilleur ami des auteurs ?
 
-![Évènement lancé à l'initiative du prolifique Neil Jomunsi.](https://tcrouzet.com/images_tc/2014/08/raysday.jpg)
+![Évènement lancé à l'initiative du prolifique Neil Jomunsi.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/raysday-600x296.jpg)
+
+
+
+Tags: eBook, édition, une

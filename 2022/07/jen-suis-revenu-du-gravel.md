@@ -4,7 +4,7 @@ J’ai vendu mon Diverge il y a plus d’un an, après trois ans de loyaux servi
 
 1. Je n’en peux plus de la mode gravel, des évènements gravel, des rapaces qui veulent faire du fric avec cette pratique. Tout ce marketing et ce business autour du gravel me sortent par les yeux et j’ai du mal à me boucher les oreilles surtout quand on me demande au sujet de mes traces « c’est gravel ? »
 
-2. J’en ai ma dose des gravels à très gros pneus qui, par rapport aux VTT semi-rigides, ont pour seul différentiel d’être moins confortables (il n’y a pas plus de 600 g d’écart entre une fourche rigide carbone et une hydraulique performante). Pour le confort, sur ces monstercross, il faut gonfler de très gros pneus à très basse pression, ce qui transforme la bécane en tracteur sur l’asphalte. J’ai testé quelques mois avant de revenir au semi-rigide, bien plus agile, dynamique, léger, rapide et surtout confortable.
+2. J’en ai ma dose des gravels à très gros pneus qui, par rapport aux VTT semi-rigides, ont pour seul différentiel d’être moins confortables (il n’y a pas plus de 600 g d’écart entre une fourche rigide carbone et une hydraulique performante). Pour le confort, sur ces monstercross, il faut gonfler de très gros pneus à très basse pression, ce qui transforme la bécane en tracteur sur l'asphalte. J'ai testé quelques mois avant de revenir au semi-rigide, bien plus agile, dynamique, léger, rapide et surtout confortable.
 
 3. Je trouve formidable que des cyclistes découvrent les chemins grâce au gravel, mais voilà qui ne suffit pas à faire du gravel le vélo idéal pour tous les chemins.
 
@@ -32,4 +32,6 @@ J’ai vendu mon Diverge il y a plus d’un an, après trois ans de loyaux servi
 
 15. Je ne dis pas que la puissance d’accélération du gravel et sa proximité avec le vélo de route ne me manque pas de temps à autre. Vu ma pratique majoritairement hors asphalte, le gravel reste pour moi un luxe dont je tente de faire abstraction en ce moment, même si certains gravels me plaisent comme [le Lauft True Grit](https://www.laufcycling.com/eur/product/lauf-true-grit).
 
-16. J’ai envie de conclure en disant que le gravel est un vélo de jeune, quand on peut absorber les vibrations durant de longue heures, quand on a le corps plus robuste, quand les cervicales ne dansent pas la samba.
+16. J'ai envie de conclure en disant que le gravel est un vélo de jeune, quand on peut absorber les vibrations durant de longue heures, quand on a le corps plus robuste, quand les cervicales ne dansent pas la samba.
+
+Tags: Born to Bike, Gravel, une

@@ -20,6 +20,8 @@ Je ne veux pas d’une telle société, je ne veux pas d’un revenu de base à 
 
 1. Les néocommunistes.
     
+    
+    
     1. Les nationalistes populistes prêts à acheter les électeurs.
     
     2. Les capitalistes qui voient diminuer le nombre de leurs clients et voudraient relancer la croissance (une simple variation du fordisme).
@@ -34,4 +36,8 @@ Je ne suis pas en même temps en train de régler le problème du capitalisme. L
 
 Si les choses restent floues dans l’esprit des militants, si la confusion volontaire se maintient dans le but d’accroître la portée du mouvement, j’éviterai à l’avenir de parler du revenu de base, et surtout de m’en revendiquer. J’ai l’impression d’assister au parasitage d’une idée neuve par les idéologies qui ont déjà prouvé leur inefficacité, non pas parce qu’elles ont été mal appliquées, mais parce qu’elles ne prennent pas en compte notre psychologie la plus élémentaire.
 
-![La base, c'est un chemin.](https://tcrouzet.com/images_tc/2014/10/base.jpg)
+![La base, c'est un chemin.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/base.jpg)
+
+
+
+Tags: MRDB, Revenu de base, une

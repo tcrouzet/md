@@ -10,7 +10,6 @@ Pour sélectionner les traces, il suffit de s’accorder sur une définition ass
 
 [Une trace est une façon de révéler ce territoire peu parcouru](https://tcrouzet.com/2020/11/06/pourquoi-le-gps-revolutionne-le-velo/). Pas plus que les mots qui racontent une histoire, elle ne peut être brevetée (on ne brevette pas le territoire public). Personne ne peut empêcher quelqu’un de suivre telle ou telle trace tel ou tel jour (sinon le paysant propriétaire d’une terre sur laquelle elle passe). Une trace est par nature open source. Cette qualité open source n’empêche pas l’organisation d’épreuves payantes sur ces traces, mais elle implique un devoir de partage, d’où l’idée de créer une carte qui compile les plus belles traces françaises.
 
-<div class="iframe" id="iframe5"></div>
 Je compile sur Google Map parce qu’on peut superposer des centaines de traces, tout en les répartissant dans des calques thématiques faciles à afficher ou non. Je n’ai trouvé aucun autre outil aussi rapide et aussi stable. Une description peut accompagner chacune des traces, avec lien vers le site des auteurs.
 
 Pour récupérer une trace, il faut exporter le calque où elle se trouve ou créer un nouveau calque, y glisser la trace, puis exporter ce calque.
@@ -18,3 +17,5 @@ Pour récupérer une trace, il faut exporter le calque où elle se trouve ou cr�
 L’exportation s’effectue en KML/KMZ, il faut alors [convertir ce fichier en GPX](https://www.gpsvisualizer.com/convert_input) pour le transférer sur un GPS. Pour le copier-coller, il existe de nombreux outils : j’utilise [BaseCamp](https://www.garmin.com/fr-FR/software/basecamp/).
 
 N’hésitez donc pas à m’envoyer des traces qui respectent l’esprit bikepacking défini plus haut ou des commentaires pour accompagner les traces déjà publiées.
+
+Tags: Born to Bike, une

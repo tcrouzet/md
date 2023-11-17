@@ -11,3 +11,5 @@
 5. [Stéphanie Dreyfuss](http://miniminimini.canalblog.com/), si elle se spécialise dans la cuisine high-tech.
 
 Voici mon top 5 pour la [blogakademy de Loïc Le Meur](http://www.loiclemeur.com/france/2007/07/blogakademy-les.html).
+
+Tags: noepub

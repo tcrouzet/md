@@ -4,7 +4,7 @@ En lisant [Le problème de la gauche avec internet](http://internetactu.blog.lem
 
 Même invoquer l’origine des termes droite et gauche, le cercle de l’assemblée où siègent les élus, ne suffit pas à nettoyer les notions sous-jacentes de leur senteur platonicienne. Imaginez un monde complexe, foisonnant, interconnecté, vous ni trouverez ni droite ni gauche, pas plus de haut ni de bas. Classer les idées politiques sur un cercle ou une droite revient à catégoriser le monde comme un bon vieil idéaliste, ce que sont souvent nos politiciens, incapables de s’arracher à cette caricature. Alors qu’ils soient de gauche ou de droite, ils pensent peu ou prou de la même manière (me voilà à mon tour en train de classifier).
 
-Les cyberlibertaires ne font pas preuve de plus d’originalité. Ils postulent la liberté, comme si elle existait en elle-même, quelque part au-dessus de nos têtes, et comme si nous en étions également pourvus. [Ce n’est bien évidemment pas le cas.](https://tcrouzet.com/2013/10/18/quest-ce-que-la-liberte/) Question d’éducation, de chance, de revenu, d’opportunités…
+Les cyberlibertaires ne font pas preuve de plus d’originalité. Ils postulent la liberté, comme si elle existait en elle-même, quelque part au-dessus de nos têtes, et comme si nous en étions également pourvus. [Ce n’est bien évidemment pas le cas.](http://blog.tcrouzet.com/2013/10/18/quest-ce-que-la-liberte/) Question d’éducation, de chance, de revenu, d’opportunités…
 
 Ainsi l’information ne peut nous libérer parce qu’elle n’est pas libre étant produite par des hommes et des femmes enchaînés par une multitude de contraintes, et le Net n’y a rien changé, peut-être a-t-il tout au plus cassé quelques chaînes, mais pour en créer de nouvelles, celle de la profusion par exemple.
 
@@ -18,7 +18,7 @@ Mais on peut aussi l’entendre comme une idée de gauche quand l’ouverture s�
 
 Nous avons donc un monde idéologiquement fortement hiérarchisé, avec une liberté postiche en tête d’affiche, qui veut nous faire croire à l’auto-organisation du monde. Cette petite armée de cyberlibertaires n’a qu’un souhait : que les États et les gouvernements mettent le moins possible leur nez dans ses affaires. Malheureusement, nous ne sommes plus dupes. Nous voyons que ce modèle conduit à des structures d’un gigantisme sans précédent. Les cyberlibertaires vouent un véritable culte à la coercition sous le prétexte officiel de la réfuter. Rhétorique fort habile. « Non à la coercition des États, oui à là nôtre. »
 
-J’ai longtemps été tenté par les idées libertaires jusqu’à comprendre que sans lois imposées par le collectif, donc placées artificiellement au-dessus de lui (et non pas idéalement), il serait impossible de lutter contre la dispersion inégale de la liberté. On ne peut pas laisser faire. Les lois de la gravitation nous attirent vers le sol, mais nous avons construit des engins pour voler. Il n’existe pas de fatalité. Sur les réseaux, winner-take-all, mais on ne doit pas accepter ce fait comme une fatalité. On peut légiférer pour s’opposer à la toute-puissance de quelques-uns. Même l’auto-organisation a besoin de règles.
+J’ai longtemps été tenté par les idées libertaires jusqu’à comprendre que sans lois imposées par le collectif, donc placées artificiellement au-dessus de lui (et non pas idéalement), il serait impossible de lutter contre la dispersion inégale de la liberté. On ne peut pas laisser faire. Les lois de la gravitation nous attirent vers le sol, mais nous avons construit des engins pour voler. Il n’existe pas de fatalité. Sur les réseaux, winner-take-all, mais on ne doit pas accepter ce fait comme une fatalité. On peut légiférer pour s’opposer à la toute-puissance de quelques-uns. Même l'auto-organisation a besoin de règles.
 
 Est-ce que je suis de gauche en défendant cette idée ? Je ne me définirai jamais comme tel, déjà parce qu’il me suffit de voir ce que pensent et disent les gens prétendument de gauche pour être presque toujours contre eux, mais peut-être que sur certains sujets nous pouvons nous rejoindre et travailler ensemble. Ce serait cela une politique non idéaliste, une politique adaptée à la complexité. Une politique de projets, avec pour vision commune un rejet des vérités supérieures et le fatalisme naturaliste. Après, sur les points particuliers, on peut s’accorder, parfois, jamais systématiquement.
 
@@ -26,4 +26,8 @@ Reste la question de la technologie. L’humanité est technologique, depuis les
 
 S’en détourner, c’est encore une fois invoquer un archétype, celui de la technologie, tout aussi puissant que celui de la liberté, et tout aussi caricatural, qu’on l’aime ou qu’on l’abhorre.
 
-![Saint Julian Assange](https://tcrouzet.com/images_tc/2014/05/assange.jpg)
+![Saint Julian Assange](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/assange-600x399.jpg)
+
+
+
+Tags: Politique, une

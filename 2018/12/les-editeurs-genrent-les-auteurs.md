@@ -14,4 +14,6 @@ Je ne publie pas ce billet pour me plaindre, pour réclamer des invitations, mai
 
 Je m’écris ce billet à moi-même comme cadeau de Noël, pour m’inciter à continuer à faire seulement ce que je veux, dans la direction que je veux, même si parfois je sens qu’il serait plus simple de rejoindre une église avec pignon sur rue.
 
-*PS : Une pensée pour mon ami [Ayerdhal](https://fr.wikipedia.org/wiki/Ayerdhal), disparu trop tôt, qui avait écrit un beau texte autobiographique de littérature blanche et que [Marion Mazauric](https://fr.wikipedia.org/wiki/Marion_Mazauric) avait refusé de publier à l’époque.*
+*PS : Une pensée pour mon ami [Ayerdhal](https://fr.wikipedia.org/wiki/Ayerdhal), disparu trop tôt, qui avait écrit un beau texte autobiographique de littérature blanche et que [Marion Mazauric](https://fr.wikipedia.org/wiki/Marion_Mazauric) avait refusé de publier à l'époque.*
+
+Tags: édition, une

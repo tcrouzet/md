@@ -19,3 +19,5 @@ Ada prit conscience que les machines à calculer pourraient manipuler des nombre
 Ada n’eut malheureusement pas la chance de voir tourner son programme sur la machine de Charles. Le gouvernement britannique cessa d’en subventionner la construction. Ada tenta de renflouer les caisses de Charles en jouant. Elle ne fit que s’endetter. Bientôt elle divorça et se retrouva seule au monde. À 36 ans, elle mourut d’un cancer des ovaires, sa mort précipitée par les saignées des médecins.
 
 Elle exigea de reposer dans le cimetière de l’église Marie Madeleine de Nottingham, près de son père qu’elle n’avait jamais connu. Ironiquement, Byron aussi avait succombé à 36 ans, lui aussi poussé au trépas par des saignées intempestives.
+
+Tags: NetCulture, noepub, Une brève histoire de l'informatique

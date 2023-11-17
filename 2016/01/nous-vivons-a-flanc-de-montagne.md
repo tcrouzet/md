@@ -28,6 +28,10 @@ Il suffit de regarder une image satellite de nuit de la France pour découvrir s
 
 La forme du territoire limite les possibilités de ce que nous pouvons y faire.
 
-*PS : Ce billet est une réponse indirecte à [un long commentaire de Narvic](https://tcrouzet.com/2016/01/04/les-maux-du-web-sont-dans-sa-topologie/#com43261).*
+*PS : Ce billet est une réponse indirecte à [un long commentaire de Narvic](http://tcrouzet.com/2016/01/04/les-maux-du-web-sont-dans-sa-topologie/#com43261).*
 
-![Quand toutes les routes mènent là, toutes les réponses viennent de là.](https://tcrouzet.com/images_tc/2016/01/IMG_4253.jpg)
+![Quand toutes les routes mènent là, toutes les réponses viennent de là.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/IMG_4253.jpg)
+
+
+
+Tags: Blockchain, centralisation, Décentralisation, NetCulture, une

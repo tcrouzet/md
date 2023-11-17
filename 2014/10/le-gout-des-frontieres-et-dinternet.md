@@ -6,7 +6,7 @@ Je ne sais pas trop ce qui m’attire vers les parcs, peut-être ce qui m’élo
 
 Je ne sais vraiment pas. C’est peut-être l’élargissement de la perspective. Parce que j’aime aussi les berges, les immenses places, les quais comme en ce moment même à Lyon, au bord du Rhône, avec face à moi les empilements cubistes de la Croix Rousse.
 
-![Lyon](https://tcrouzet.com/images_tc/2014/10/lyon2.jpg)
+![Lyon](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/lyon2.jpg)
 
 Ou c’est parce que je suis un homme de la mer, des horizons lointains, et que les murs trop proches m’étouffent. J’aime leur labyrinthe, me perdre, explorer les cours, les impasses, lorgner sur les chantiers, glisser un œil derrière une palissade, mais l’herbe me manque vite. J’ai dû être une vache dans une autre vie. J’ai un goût prononcé pour les pelouses, pourtant par nature étrangères à mon Midi, trop brûlant pour elles.
 
@@ -18,7 +18,7 @@ Parce que rien ne change avec le Net, au contraire, les vieux clivages se renfor
 
 Je crois que nous sommes de meilleurs architectes. Il me suffit de voir nos aménagements urbains. Nous pensons la ville pour la vie, non pas seulement pour le pratique. Il faut dire que les voitures sont si présentes qu’il fallait un peu libérer des espaces en marge pour les promeneurs. Je recherche immédiatement cette frontière, le parc en est l’archétype historique.
 
-![Lyon ](https://tcrouzet.com/images_tc/2014/10/lyon3.jpg)
+![Lyon ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/lyon3.jpg)
 
 J’aime le parc parce que c’est le lieu de la rêverie du promeneur solitaire dans nos villes indéfiniment étendues et qu’on ne peu plus quitter comme le faisait Rousseau sur ses pieds en quelques minutes. J’aime tout autant la marge littéraire, cette tentation du coq à l’âne. Parce qu’entre deux paragraphes, des centaines de mètres invisibles se glissent et injectent dans l’esprit de l’auteur des suites imprévues.
 
@@ -30,4 +30,8 @@ J’ai longé le Rhône vers mon point de rendez-vous. Un centre de conférence 
 
 Si je dis ça, je vais me faire haïr, alors peut-être que je le dirai, parce ce qui me paraît vrai me semble plus important que ce que les gens pensent de moi. Je me trompe, c’est probable, mais mieux vaut se tromper que se taire et se conformer. C’est à la frontière que je me sens vivre et c’est pour cette raison que j’aime les parcs et les berges.
 
-![J'ai fini par le dire.](https://tcrouzet.com/images_tc/2014/10/lyon4.jpg)
+![J'ai fini par le dire.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/lyon4-600x584.jpg)
+
+
+
+Tags: une, vagabondage

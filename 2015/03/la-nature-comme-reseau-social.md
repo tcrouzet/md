@@ -1,6 +1,6 @@
 # La nature comme réseau social
 
-Ciel bas à mon arrivée à Vienne, pluie, impression d’entrer dans Londres, sauf que les façades sont plus ostentatoires. Le souvenir de cette architecture me revient : hauts immeubles avec grandes fenêtres monotonement répétées sur quatre ou cinq étages. Murs grisâtre, jaunâtres, blanchâtre. Une ville acariâtre. Prenez le Trocadéro. Répétez-le à l’infini.<span id="more-39701"></span>
+Ciel bas à mon arrivée à Vienne, pluie, impression d’entrer dans Londres, sauf que les façades sont plus ostentatoires. Le souvenir de cette architecture me revient : hauts immeubles avec grandes fenêtres monotonement répétées sur quatre ou cinq étages. Murs grisâtre, jaunâtres, blanchâtre. Une ville acariâtre. Prenez le Trocadéro. Répétez-le à l'infini.<span id="more-39701"></span>
 
 Je m’en vais au hasard vers le centre, sans objectif. J’achète un sandwich, puis des bananes, puis un hot dog, puis un roulé à la cannelle. J’ai la nausée. Depuis des semaines, je surveille mon alimentation. J’ai abandonné tout contrôle en déboulant dans cette ville qui déborde de victuailles.
 
@@ -8,7 +8,7 @@ Les capitales produisent souvent cet effet sur moi, voilà pourquoi je suis de m
 
 Ma promenade m’amène au Café central. Un endroit célèbre, même sur Google Map. Une effigie de [Peter Altenberg](http://fr.wikipedia.org/wiki/Peter_Altenberg) m’accueille. Ce poète dont j’ignore tout a passé sa vie dans cette salle voûtée à la manière des mosquées andalouses.
 
-Je profite de cette pause pour lire les commentaires publiés suite à [mon billet écrit ce matin pendant l’escale à Charles de Gaulle](https://tcrouzet.com/2015/03/02/en-route-pour-vienne-esclace-a-charles-de-gaulle/). On me dit que Proust a déjà répondu à ma critique en montrant qu’il pouvait être aussi le romancier des impressions premières. Oui, c’est le Proust que j’aime, celui qui nous emporte dans ses épopées esthétiques et sensuelles.
+Je profite de cette pause pour lire les commentaires publiés suite à [mon billet écrit ce matin pendant l’escale à Charles de Gaulle](http://blog.tcrouzet.com/2015/03/02/en-route-pour-vienne-esclace-a-charles-de-gaulle/). On me dit que Proust a déjà répondu à ma critique en montrant qu’il pouvait être aussi le romancier des impressions premières. Oui, c’est le Proust que j’aime, celui qui nous emporte dans ses épopées esthétiques et sensuelles.
 
 À la fin de la recherche, il écrit d’ailleurs :
 
@@ -52,4 +52,8 @@ Le chemin de randonnée nous réunit, il nous donne un but commun, une raison de
 
 Que pourrais-je dire à mes deux voisines qui s’enfilent de magnifiques gâteaux à la crème accompagnés de chocolats chauds également nappés de crème ? « C’est votre dîner ? » Elles ont englouti ça à une vitesse stupéfiante, sans s’arrêter de parler.
 
-![Tram sur le Ring.](https://tcrouzet.com/images_tc/2015/03/tram.jpg)
+![Tram sur le Ring.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/tram.jpg)
+
+
+
+Tags: une, vagabondage

@@ -8,13 +8,13 @@ Il existe pourtant un moyen tout simple d’aboutir à un résultat plus spectac
 
 Nous hurlons que les créateurs sur Internet ne gagnent pas leur vie. Achetons moins d’objets inutiles et reportons nos dépenses dans les champs de l’immatériel, ces champs qui souvent en prime nourrissent l’esprit et nous font grandir en tant qu’être humain. Plus nous déplacerons notre consommation, plus les créateurs pourront travailler sereinement. Nous entretiendrons un feedback positif.
 
-Après [mon dernier billet](https://tcrouzet.com/2009/12/18/le-flux-revolution-personnelle/), [J-François Garsmeur](http://twitter.com/jfgarsmeur/statuses/6807436108) a déclaré :
+Après [mon dernier billet](http://blog.tcrouzet.com/2009/12/18/le-flux-revolution-personnelle/), [J-François Garsmeur](http://twitter.com/jfgarsmeur/statuses/6807436108) a déclaré :
 
 > Crouzet vire au mystique de droite. À quand les Templiers ?
 
 Quand je lui ai demandé en quoi j’étais de droite, il m’a [répondu](http://twitter.com/jfgarsmeur/statuses/6832099830) :
 
-> On est de droite quand on dit que la seule révolution possible c’est celle que l’on accomplit sur soi. On est catho aussi….
+> On est de droite quand on dit que la seule révolution possible c'est celle que l'on accomplit sur soi. On est catho aussi....
 
 J-François ne doit pas être un de mes lecteurs assidu. Mon idée que nous devons mener notre individuation à son terme implique une explosion du capitalisme et du consumérisme. Peut-on être de droite aujourd’hui et être contre l’idée même d’entreprise ? Contre l’idée de capital ? Contre l’idée même de crédit ?
 
@@ -29,3 +29,5 @@ Il ne s’agit pas d’attendre que les autres agissent mais de prendre les deva
 Mais si à titre individuel nous sommes incapables de cette transition, inutile d’accuser les gouvernements d’en être aussi incapables. Ils sont beaucoup moins libres que nous. Si nous consommons moins, le gros du problème est réglé. Si nous arrêtons d’acheter des merdouilles en plastique made in China, la Chine polluera moins. Mais il faut faire de même pour les merdouilles françaises. Avec notre industrie du luxe, on n’a de leçon à donner à personne.
 
 Notre problème, c’est le consumérisme. Rien d’autre. Si vous n’avez pas le courage de réduire votre consommation, ne demandez pas aux autres de le faire à votre place. Et surtout ne demandez pas aux gouvernements de vous imposer des décisions que vous êtes incapables de vous appliquer vous-mêmes. En plus, ils ne vous écouteront pas. Ils ne changeront pas la règle du jeu si vous ne la changez pas d’abord. Après ils n’auront plus d’autre choix que de vous suivre.
+
+Tags: Politique

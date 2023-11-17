@@ -37,3 +37,5 @@ Dans une démocratie participative, les citoyens agissent, se critiquent, s’é
 La participation ne doit pas être légiférée, elle doit être favorisée par des élus devenus leaders, des élus qui acceptent de ne plus avoir les réponses à tous nos problèmes.
 
 Les réponses, nous y travaillons tous ensemble.
+
+Tags: Politique

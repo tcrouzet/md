@@ -16,9 +16,9 @@ Je n’ai pas encore retrouvé le niveau d’énergie pour penser à la littéra
 
 ### Samedi 3, Balaruc
 
-![À vélo](https://tcrouzet.com/images_tc/2020/11/IMG_3920.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_3920.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/11/IMG_3923-1.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_3923-1.jpeg)
 
 ### Dimanche 4, Balaruc
 
@@ -34,11 +34,11 @@ J’ai la sensation d’être sur quelque chose de mon temps, qui à rapport à 
 
 Je suis heureux lors de ces « voyages » parce que je pratique une écriture libre et en même temps organisée, dirigée, élaborée. Je pédale et j’écris en même temps. J’ai réussi à faire entrer mon corps dans l’écriture, comme le peintre dans sa peinture, unir le geste et la pensée.
 
-![Soir](https://tcrouzet.com/images_tc/2020/11/IMG_3972.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_3972.jpeg)
 
 ### Lundi 5, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2020/11/IMG_4146.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4146.jpeg)
 
 ### Mardi 6, Balaruc
 
@@ -50,7 +50,7 @@ En 1952, Gombrowicz écrit que Gides lui « a montré la possibilité d’un jo
 
 ---
 
-Dans un journal, on laisse une trace chronologique. Tel jour, éventuellement à telle heure et à tel endroit, je faisais ça, pensais ça, éprouvais ça. Mais il devient possible de tenir [un journal autant spatial que chronologique](https://tcrouzet.com/2020/10/06/mini-aventure-teleportation-dans-laude-par-le-train/), suivre presque minute par minute une journée dans l’espace, la donner à revivre, parce qu’elle a quelque chose d’exceptionnel, ou parce que peut-être sa simple banalité est extraordinaire.
+Dans un journal, on laisse une trace chronologique. Tel jour, éventuellement à telle heure et à tel endroit, je faisais ça, pensais ça, éprouvais ça. Mais il devient possible de tenir [un journal autant spatial que chronologique](https://tcrouzet.com/2020/10/06/mini-aventure-teleportation-dans-laude-par-le-train/), suivre presque minute par minute une journée dans l'espace, la donner à revivre, parce qu’elle a quelque chose d’exceptionnel, ou parce que peut-être sa simple banalité est extraordinaire.
 
 Faire du vélo d’un endroit à un autre n’a rien de notable sauf pour qui le fait pour la première fois et tente de vivre pleinement, et d’autant plus pleinement qu’en suite il y a la possibilité du récit. Si le vélo m’aide à entrer dans mon autofiction, bien d’autres stratagèmes sont envisageables : explorer la ville, un musée, une communauté… Il faut un scénario, la trace pour le vélo, la suivre parce qu’elle donne une direction, implique des possibilités, propose des occasions, au-delà de ce que le hasard seul offrirait, mais sans l’empêcher, en se surajoutant à lui, exactement comme une œuvre d’art se doit de le faire.
 
@@ -58,7 +58,7 @@ Faire du vélo d’un endroit à un autre n’a rien de notable sauf pour qui le
 
 Il fait un temps limpide, une de ces journées incroyables d’automne, une [aigrette](https://fr.wikipedia.org/wiki/Aigrette_(oiseau)) s’est posée sur le muré du bord de l’étang, elle soulève une de ses longues pattes, l’étend comme pour se détendre, puis ne bouge plus, observe autour d’elle et je n’ose pas bouger de peur de l’effrayer.
 
-![Aigrette](https://tcrouzet.com/images_tc/2020/11/IMG_4187.jpeg)
+![Aigrette](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4187.jpeg)
 
 ### Vendredi 9, Sète
 
@@ -72,7 +72,7 @@ Au sujet de l’épidémie, des gens s’enorgueillissent d’avoir raison ou no
 
 Je n’ai plus qu’envie d’être le témoin du présent, de le lire, sans jamais l’anticiper. Être là, voir, noter, comprendre les mécanismes du monde pour l’habiter encore un peu mieux. Je n’ai presque plus besoin de livres, le monde se donne tout entier à moi.
 
-![Gare de Sète](https://tcrouzet.com/images_tc/2020/11/IMG_4192.jpeg)
+![Gare de Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4192.jpeg)
 
 ### Vendredi 9, TGV
 
@@ -84,11 +84,11 @@ Ce type n’arrête pas de renifler. Peut-être il se sait malade et a envie de 
 
 ### Dimanche 11, Sommières
 
-![À vélo](https://tcrouzet.com/images_tc/2020/11/IMG_4291.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4291.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/11/IMG_4312.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4312.jpeg)
 
-![Aqueduc de Castries](https://tcrouzet.com/images_tc/2020/11/IMG_4321.jpeg)
+![Aqueduc de Castries](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4321.jpeg)
 
 ### Mardi 13, Balaruc
 
@@ -98,15 +98,15 @@ Le covid est devenu une sorte de drogue. Je n’arrive plus à écrire sur autre
 
 Je lis *Kronos*, le journal intime de Gombrowicz, dont la publication m’avait échappé. Pour le moment, je n’y découvre que sa sexualité pathologique. On en fait toute une affaire de cette histoire de sexualité alors qu’il s’agit de notre lien le plus évident avec le monde animal. La tendresse et le respect me paraissent des arts plus délicats et difficiles.
 
-![À vélo](https://tcrouzet.com/images_tc/2020/11/IMG_4343-1.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4343-1.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/11/IMG_4344-1.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4344-1.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/11/IMG_4349-1.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4349-1.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/11/IMG_4351-1.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4351-1.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/11/IMG_4353-1.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4353-1.jpeg)
 
 ### Mercredi 14, Balaruc
 
@@ -116,7 +116,7 @@ Il ne faut pas avoir envie d’écrire pour écrire. Je veux dire que l’écrit
 
 Fatigue ce matin, mal à la tête, et tout de suite surgit cette possibilité du covid, que peut-être je n’ai pas eu en février. Un copain m’envoie une ordonnance pour un test. Impossible d’avoir le laboratoire/drive pour obtenir un rendez-vous. Je vais sur doctolib. Je me crée un compte, prends rendez-vous. À la fin de l’opération, un message me prévient que demain une gynécologue spécialisée dans la fécondation in vitro m’attend. Ce n’est pas gagné. Je tente de passer par les labos privés, mais ils me raccrochent au nez.
 
-![Bleu](https://tcrouzet.com/images_tc/2020/11/IMG_4375.jpeg)
+![Bleu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4375.jpeg)
 
 ### Jeudi 15, Balaruc
 
@@ -140,7 +140,7 @@ Réveil à 4 heures. Je lis *Kronos*. Problèmes médicaux, relationnels, financ
 
 ### Samedi 15, Balaruc
 
-Une pluie terrible. Un vent de terre si fort que les vagues sont immenses à quelques mètres du rivage. Nous sommes devant le port sur un bateau. Mon père me montre les arbres arrachés, puis il m’indique l’avenue du port qui monte vers chez nous, envahie par l’eau, et il rigole. Je m’éloigne de lui, comme si la tempête avait coupé en deux le bateau, et alors qu’il devrait y avoir un bruit terrible, c’est le silence, et j’entends encore une fois mon père ébahi par le désastre, puis l’eau l’emporte, il se noie en d’horribles gargouillis, et je dérive impuissant vers chez moi, où je me réveille en sanglots. Il me disait qu’il rêvait tout le temps de son père et je rêve tout le temps de lui.
+Une pluie terrible. Un vent de terre si fort que les vagues sont immenses à quelques mètres du rivage. Nous sommes devant le port sur un bateau. Mon père me montre les arbres arrachés, puis il m’indique l’avenue du port qui monte vers chez nous, envahie par l’eau, et il rigole. Je m’éloigne de lui, comme si la tempête avait coupé en deux le bateau, et alors qu’il devrait y avoir un bruit terrible, c’est le silence, et j’entends encore une fois mon père ébahi par le désastre, puis l’eau l’emporte, il se noie en d'horribles gargouillis, et je dérive impuissant vers chez moi, où je me réveille en sanglots. Il me disait qu’il rêvait tout le temps de son père et je rêve tout le temps de lui.
 
 ---
 
@@ -170,9 +170,9 @@ Suis rentré à trois heures du matin de l’hôpital après IRM, électrocardio
 
 ### Vendredi 23, Balaruc
 
-![Sète](https://tcrouzet.com/images_tc/2020/11/IMG_4570.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4570.jpeg)
 
-![L'étang](https://tcrouzet.com/images_tc/2020/11/IMG_4573.jpeg)
+![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4573.jpeg)
 
 ### Samedi 24, Balaruc
 
@@ -190,13 +190,13 @@ Quand le journal ne parle que d’écriture il est à côté de lui-même. Je ne
 
 De retour d’un week-end gravel, je découvre un tweet insultant pour Didier. Tant que les gens débiteront des imbécillités et des mensonges parce que ça les soulage, le monde n’ira pas mieux.
 
-![À vélo](https://tcrouzet.com/images_tc/2020/11/IMG_4646.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_4646.jpeg)
 
 ### Jeudi 29, Balaruc
 
 Avec le retour explosif du covid, je me perds à nouveau dans les stats à la demande de Didier, et plus que dans les stats dans un bug du navigateur Chrome qui refuse d’imprimer proprement le document que je génère. C’est rageant. Je n’arrive pas à jeter l’éponge, ce n’est pas dans mon caractère. Et dehors une belle lumière pour célébrer notre monde bousculé après un nouvel attentat islamiste. Tout paraît sombre, mais si on en revient aux chiffres l’humanité n’a jamais vécu aussi pacifiquement. Les petits incendies ont pour vertu d’éviter les grands embrassements. Une théorie qui ne réussit pas à me faire sourire. Tim ne sait pas pourquoi il devrait travailler à l’école. Quelle jeunesse on leur offre ? Je comprends pourquoi nos enfants se réfugient dans les jeux vidéo. La réalité psychique n’est pas belle à voir, elle ne dessine rien de merveilleux, moi-même je m’enlise dans la vase, et le vélo m’en arrache, mais nous voilà de nouveau condamnés à tourner en rond à moins d’un kilomètre de chez nous.
 
-![Pyrénées](https://tcrouzet.com/images_tc/2020/11/P1110190.jpeg)
+![Pyrénées](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/P1110190-1597x1200.jpeg)
 
 ### Vendredi 30, Balaruc
 
@@ -210,6 +210,10 @@ Impression de vivre dans un pays gouverné par des fous. Moi-même je deviens fo
 
 Je roule dans la nuit, la lune se lève sur les collines puis, au col, elle se reflète sur la mer. Un mulot court sur le chemin où je roule depuis mon enfance, mais je ne reconnais rien. Dans le silence, un bruit sur ma gauche, quatre sangliers me coupent la route et disparaissent.
 
-![Vélo de nuit](https://tcrouzet.com/images_tc/2020/11/IMG_5004.jpeg)
+![Vélo de nuit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_5004.jpeg)
 
-![Vélo de nuit](https://tcrouzet.com/images_tc/2020/11/IMG_5011.jpeg)
+![Vélo de nuit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/11/IMG_5011.jpeg)
+
+
+
+Tags: Carnets, une

@@ -2,7 +2,7 @@
 
 Je suis un fan du tour de France. Je ne manque pas une étape de montagne, mais j’avoue que cette année la course fut morose à cause des histoires de dopage. Mais pourquoi accabler les cyclistes ?
 
-![Par fuckingkarma.com](https://tcrouzet.com/images_tc/200707fuck1.jpg)
+![Par fuckingkarma.com](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200707fuck1.jpg)
 
 Vous fumez, vous êtes dopé.
 
@@ -30,7 +30,7 @@ Où est la limite ? N’est-elle pas aujourd’hui arbitraire ?
 
 Est-ce normal que deux étudiants à capacités égales ne réussissent pas de façon égale parce qu’ils n’accèdent pas aux mêmes drogues ?
 
-![](https://tcrouzet.com/images_tc/2007modiocal.jpg)C’est encore le riche qui l’emporte… celui qui peut se payer la toute dernière technologie (et elle existe… si si… [Modafinil](http://www.doctissimo.fr/medicament-MODIODAL.htm) et compagnie). Mais ce n’est pas en interdisant qu’on équilibrera les chances. Les interdits peuvent toujours être outrepassés, surtout dans un monde où la technologie évolue exponentiellement.
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007modiocal.jpg)C’est encore le riche qui l’emporte… celui qui peut se payer la toute dernière technologie (et elle existe… si si… [Modafinil](http://www.doctissimo.fr/medicament-MODIODAL.htm) et compagnie). Mais ce n’est pas en interdisant qu’on équilibrera les chances. Les interdits peuvent toujours être outrepassés, surtout dans un monde où la technologie évolue exponentiellement.
 
 Les nouvelles techniques de dopage sont toujours en avance sur la règlementation.
 
@@ -44,7 +44,7 @@ Refuser de vieillir, du moins refuser les conséquences du vieillissement, c’e
 
 Il n’y a aucune différence.
 
-Soit on autorise pour tous, soit on interdit pour tous, c’est-à-dire on contrôle tout le monde, ce qui évidement est impossible.
+Soit on autorise pour tous, soit on interdit pour tous, c'est-à-dire on contrôle tout le monde, ce qui évidement est impossible.
 
 La formule 1 a longtemps été le laboratoire de l’industrie automobile (maintenant elle ne sert plus qu’à promouvoir une technologie désuète). Les sportifs ne pourraient-ils pas eux aussi contribuer au progrès de l’espèce humaine ? Ne pourraient-ils pas servir de cobayes consentants ?
 

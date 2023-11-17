@@ -2,19 +2,19 @@
 
 J’ai trouvé. Ça commence par une photo croisée par hasard sur le Net. Puis je demande au desk de l’hôtel comment atteindre cet endroit. Prendre le tram 38, puis marcher. Me voilà sur les hauteurs de Vienne, dans le village de Grinzing, aux maisons colorées.
 
-![Grinzing](https://tcrouzet.com/images_tc/2015/03/wien1.jpg)
+![Grinzing](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/wien1.jpg)
 
 Très vite je grimpe au milieu des vignes, puis des villas chics, avec une vue de plus en plus large sur la ville et le cours rectiligne du Danube. Le soleil perce de temps à autre. Des raies de pluie grisent l’horizon. J’emboîte un chemin de traverse en direction d’une maison jaune. Je m’assois sur une souche coupée raz. Au bord d’un sentier, en haut d’une vigne impeccable, que deux vignerons taillent à la tronçonneuse. Étrange pratique.
 
 Deux vallons s’opposent, comme deux belles fesses entre lesquelles se love Vienne dans le lointain. Sur le vallon de gauche, un camion pose une cabine rouge incongrue. Sur l’autre, des villas cascadent. Il pourrait pleuvoir à tout moment. J’écris pour fixer en moi les images qu’aucune photographie de réveillera jamais.
 
-![Vignes](https://tcrouzet.com/images_tc/2015/03/wien5.jpg)
+![Vignes](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/wien5.jpg)
 
 Plus que l’image, je fixe la sensation de voir, le plaisir profond qui s’éveille, une légèreté chaque fois invraisemblable, toujours renouvelée, quand je me retrouve où les autres ne sont pas, et s’ils y étaient, je ne pourrais y être avec autant de tranquillité, surtout, plus rien ne serait semblable, des bistrots remplaceraient les vignes, il me faudrait aller plus loin, pour voir par moi même, parce que les autres, que je le veuille ou non, dirigent mon regard et je dois batailler contre eux pour essayer d’être moi-même.
 
 Je suis à l’extrême fin de la chaîne des Alpes. Sur leur ultime vallonnement. Ce n’est pas rien comme lieu géodésique, surtout pour moi qui vis non loin de la rive ouest.
 
-![Vignes](https://tcrouzet.com/images_tc/2015/03/wien6.jpg)
+![Vignes](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/wien6.jpg)
 
 Une coulé de soleil sur mes épaules. Presque improbable parce que le ciel ne montre que des moutonnements plus ou moins inquiétants. Un spot s’est fixé sur moi et nulle part ailleurs.
 
@@ -26,7 +26,7 @@ Dillard évoque la merveille de voir pour la première fois, et comment ça peut
 
 J’ai critiqué Vienne, je me suis laissé tourmenter par ses artistes, par la rigueur monumentale de son architecture néoclassique, j’ai besoin de me rapprocher d’elle par le dehors pour l’aimer. J’ai commencé avec elle comme un malotru. Je l’ai prise tout de suite. Sans préliminaire, à sec. Ça devrait être plus romantique, plus progressif, un long cheminement vers l’extase. De grandes bouffées de vent passent au-dessus de moi. Elles amènent plus de soleil.
 
-![Vignes](https://tcrouzet.com/images_tc/2015/03/wien4.jpg)
+![Vignes](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/wien4.jpg)
 
 ---
 
@@ -34,7 +34,7 @@ J’achève mon périple au Leopoldsberg. Durant une partie de l’ascension, un
 
 Le Leopoldsberg est un palais en ruine sur un promontoire en surplomb du Danube. Plus le moindre rayon de soleil. Des blocs de neige. Trop froid pour m’attarder et rêver bien que la vue le mérite. Je me réfugie dans un bus qui me ramène à Grinzing. La grisaille a comme effacé les couleurs des maisons et des cafés, je saute dans le tram 38 et rentre à Vienne.
 
-![Danube](https://tcrouzet.com/images_tc/2015/03/wien7.jpg)
+![Danube](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/wien7.jpg)
 
 Je n’ai lu que les deux premiers chapitres du Dillard, mais elle évoque pour l’instant le plaisir de voir autour de chez elle, près d’un bras de rivière qu’elle ne finit jamais d’explorer parce que tous les jours il se révèle différent. J’en suis au même point avec mon étang qui depuis mon enfance ne cesse de me surprendre par ses reflets.
 
@@ -54,7 +54,7 @@ C’est une grande libération. Écrire en ne pensant qu’au texte, et parfois 
 
 Le froid me pousse dans un nouveau musée. Des paysages du XVIII<sup>e</sup> me procurent d’aussi fortes sensations que si je les voyais par moi-même, comme si le peintre avait emprisonné le moment pour me le rendre. Et m’éloigner de la toile me déchire autant que m’éloigner des vignes de Grinzing.
 
-![Christian Gottlob Hammer](https://tcrouzet.com/images_tc/2015/03/wien8.jpg)
+![Christian Gottlob Hammer](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/wien8.jpg)
 
 Je m’achève devant mon Picasso, celui que j’ai dessiné et redessiné, copié plusieurs fois. Cette toile de 1952, faite à la va-vite, comme ce texte, c’est tout l’art de Picasso. Le cubisme de la jeunesse absorbé, digéré, repris juste pour servir une vue.
 
@@ -62,4 +62,8 @@ J’aime cette époque de Picasso plus que toutes les autres. C’est l’époqu
 
 C’est un beau cadeau pour boucler mon séjour. Parce que j’ignorais que ce tableau se trouvait ici. J’y serais venu tout de suite si je l’avais su. Sans le froid, je serais passé à côté.
 
-![Picasso](https://tcrouzet.com/images_tc/2015/03/wien9.jpg)
+![Picasso](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/wien9.jpg)
+
+
+
+Tags: une, vagabondage

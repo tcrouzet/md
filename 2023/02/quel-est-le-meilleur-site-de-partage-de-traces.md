@@ -81,3 +81,5 @@ En conclusion, si RideWithGPS est d'un usage intuitif et d'un design épuré, Vi
 ![Flash code 727](https://tcrouzet.com/images_tc/2023/02/flash727i727.png)
 
 Vous pouvez même flasher ce code pour lancer le téléchargement du 727 sur votre mobile.
+
+Tags: Born to Bike, une

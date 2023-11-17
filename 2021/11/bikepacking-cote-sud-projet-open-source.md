@@ -11,3 +11,5 @@ Comme toujours, je suis partisan de l’open source et du libre. Qui veut collab
 Le but est de rester près de la côte, mais de ne pas manquer les plus beaux singles et chemins du proche arrière-pays, surtout quand ils offrent de beaux points de vue sur la mer ou les étangs.
 
 [Je compile les bouts de traces sur Google Map.](https://www.google.com/maps/d/u/0/edit?mid=1WYAQBQ99C0y6GUGgSZJh8FekCyQr1U3a&usp=sharing)
+
+Tags: Bikepacking, Born to Bike, CôtéSud, une

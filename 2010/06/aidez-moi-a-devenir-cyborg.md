@@ -1,6 +1,6 @@
 # Aidez-moi à devenir Cyborg
 
-Un éditeur italien qui veut expérimenter la publication d’ebooks multilingues m’a demandé si je pouvais écrire un petit essai de 10 000 mots sur ma vision de ce qu’était aujourd’hui un auteur. J’ai proposé de développer [*La stratégie du cyborg*](https://tcrouzet.com/tag/cyborg/) ou l’auteur comme nœud d’un réseau social.<span id="more-17055"></span>
+Un éditeur italien qui veut expérimenter la publication d’ebooks multilingues m’a demandé si je pouvais écrire un petit essai de 10 000 mots sur ma vision de ce qu’était aujourd’hui un auteur. J’ai proposé de développer [*La stratégie du cyborg*](http://blog.tcrouzet.com/tag/cyborg/) ou l’auteur comme nœud d’un réseau social.<span id="more-17055"></span>
 
 Alors que je débute juste la rédaction, qui doit d’ailleurs être bouclée pour la fin de la semaine, je creuse [les liens listés par François Bon](http://www.tierslivre.net/spip/spip.php?article2167), je lis [Karl Dubost](http://www.la-grange.net/2010/06/05/mission-iwakura) et [Hubert Guillaud](http://lafeuille.blog.lemonde.fr/2010/06/12/le-metalivre-le-livre-que-nous-reconstruisons/) et je me dis que je pourrais impliquer le lecteur dans mon travail.
 
@@ -10,4 +10,6 @@ Si vous voulez jouer le jeu, signalez-vous. Le texte devrait être dispo jeudi. 
 
 ### Notes
 
-Je pourrais bien sûr publier le texte sur le blog… mais difficile puisque c’est une commande. D’autre part, j’ai envie que dans cette première phase chaque lecteur se retrouve seul face au texte… la critique collective et publique pourra s’effectuer en une seconde phase, sur ce qui sera pour moi le texte final. J’imagine mon texte initial comme un générateur de réaction et j’ai commencé à l’écrire en ce sens.
+Je pourrais bien sûr publier le texte sur le blog… mais difficile puisque c’est une commande. D’autre part, j’ai envie que dans cette première phase chaque lecteur se retrouve seul face au texte… la critique collective et publique pourra s’effectuer en une seconde phase, sur ce qui sera pour moi le texte final. J'imagine mon texte initial comme un générateur de réaction et j'ai commencé à l'écrire en ce sens.
+
+Tags: Cuisine

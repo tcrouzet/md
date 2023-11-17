@@ -6,4 +6,4 @@ Si cette théorie est vraie, nous serions des machines à propager les mèmes au
 
 Je suis assez d’accord avec cette idée. Dans leur course à la survie, les mèmes ne peuvent que nous entraîner à doper nos capacités cognitives ; si nous avons une meilleure mémoire, si nous pouvons traiter plus d’information, si nous vivons plus longtemps, nous devenons de meilleurs vecteurs de mèmes.
 
-Cette hypothèse nous conduit inévitablement vers le [transhumanisme](http://www.transhumanism.org), dont en France [Rémi Sussan](http://utopost.blogspot.com/) semble un des défenseurs. Je viens d’acheter son livre, je ne l’ai pas encore lu.
+Cette hypothèse nous conduit inévitablement vers le [transhumanisme](http://www.transhumanism.org), dont en France [Rémi Sussan](http://utopost.blogspot.com/) semble un des défenseurs. Je viens d'acheter son livre, je ne l’ai pas encore lu.

@@ -83,3 +83,5 @@ Cette liste je crois pouvoir l’étendre à l’infini, alors mieux vaut l’ar
 40. Persuadés d’agir pour le bien de la communauté.
 
 41. Panégyristes de la ploutocratie qu’ils nomment avec perversité démocratie.
+
+Tags: buzzlitt, une

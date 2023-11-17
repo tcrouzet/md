@@ -8,11 +8,11 @@ Matinée à optimiser la CSS de mon blog, à la rendre plus adaptable, plus ind�
 
 J’ai la tête vide, une oreille télépathique tendue vers Tim, d’autres neurones qui compilent encore ma CSS, et Paris n’est qu’un arrière-plan familier, avec des gens qui s’y donnent en spectacle, sans que je les trouve très intéressants. J’y vois surtout des caricatures, c’était flagrant hier dans le seizième, puis sur les quais, plus discrets cet après-midi.
 
-Je n’ai plus de jambes, épuisé comme si moi-même j’entrais en prépa, j’expérimente de nouvelles sensations de parentalité, la nécessité de la confiance absolue, tout en restant disponible, bienveillant, supportant. Je n’en finirai jamais d’apprendre. Alors je m’assois sur les quais de l’île Saint-Louis, parmi les jeunes qui picolent.
+Je n’ai plus de jambes, épuisé comme si moi-même j’entrais en prépa, j’expérimente de nouvelles sensations de parentalité, la nécessité de la confiance absolue, tout en restant disponible, bienveillant, supportant. Je n’en finirai jamais d'apprendre. Alors je m’assois sur les quais de l’île Saint-Louis, parmi les jeunes qui picolent.
 
 Je venais dans l’attente du merveilleux dans ces lieux où jamais il ne se passait rien, sinon l’attendu, et aujourd’hui je n’y suis que pour la lumière du couchant, reflétée sur l’eau par les façades blanches. Hier, il y avait une belle énergie sur les quais côté tour Eiffel, ici ça pue la vinasse.
 
-J’aimais Paris pour ses potentialités, quand je sentais que ma vie pouvait basculer à tout instant. Je n’ai plus besoin de ce pouvoir de la ville, elle n’est plus une machine à imaginaire, remplacée depuis déjà longtemps par la nature et par internet. Alors je déambule par nostalgie, à la recherche d’un trésor perdu. Je ne suis pas sûr que cette attitude soit définitive, mais pour l’instant Paris m’est devenu une ville utilitaire. Il faudrait que je la vive à vélo pour me la réapproprier d’une autre manière.
+J'aimais Paris pour ses potentialités, quand je sentais que ma vie pouvait basculer à tout instant. Je n’ai plus besoin de ce pouvoir de la ville, elle n’est plus une machine à imaginaire, remplacée depuis déjà longtemps par la nature et par internet. Alors je déambule par nostalgie, à la recherche d’un trésor perdu. Je ne suis pas sûr que cette attitude soit définitive, mais pour l’instant Paris m’est devenu une ville utilitaire. Il faudrait que je la vive à vélo pour me la réapproprier d’une autre manière.
 
 ### Vendredi 2, Paris
 
@@ -28,7 +28,7 @@ Je ne prends conscience qu’il y a une montgolfière sur les deux dernières ph
 
 ---
 
-Les vélos sont partout dans Paris, une invasion, avec des cyclistes qui foncent les yeux fermés, qu’importe, j’ai envie de rouler avec eux, découvrir la ville sous une nouvelle perspective. D’un autre côté, ce séjour est l’occasion de marcher durant des heures, j’en ai perdu l’habitude, et ma hanche me le crie douloureusement.
+Les vélos sont partout dans Paris, une invasion, avec des cyclistes qui foncent les yeux fermés, qu'importe, j'ai envie de rouler avec eux, découvrir la ville sous une nouvelle perspective. D’un autre côté, ce séjour est l’occasion de marcher durant des heures, j’en ai perdu l’habitude, et ma hanche me le crie douloureusement.
 
 ### Samedi 3, Paris
 
@@ -48,11 +48,11 @@ Mais *Les Fleurs du mal* n’est-ce pas justement cette souffrance que je ressen
 
 Nous sommes incapables de tous apprécier les mêmes chefs-d’œuvre. L’enseignement esthétique universaliste est dangereux parce qu’il voudrait nous faire partager les mêmes plaisirs. La beauté est relative à une culture, et dans cette culture à l’histoire de chacun. Aussi peut-être à quelques dispositions ou indispositions innées, qui nous éloignent des uns et nous rapprochent des autres.
 
-Le champ des expérimentables est si vaste qu’il est même impossible de le traverser en ligne droite. Pourtant l’enseignement du français voudrait nous le faire arpenter mètre carré par mètre carré. Au lieu d’enseigner la curiosité, la recherche des perles qui nous parlent, et de s’interroger sur pourquoi elles nous parlent, on impose aux élèves d’aimer ce qu’ils n’aimeront jamais, et on les dégoûte de l’amour en général. Je suis une victime de ce processus. Je suis sorti de l’enseignement littéraire détruit, avec la certitude que ce monde n’était pas pour moi, et depuis je bataille sur ses marges.
+Le champ des expérimentables est si vaste qu’il est même impossible de le traverser en ligne droite. Pourtant l’enseignement du français voudrait nous le faire arpenter mètre carré par mètre carré. Au lieu d’enseigner la curiosité, la recherche des perles qui nous parlent, et de s'interroger sur pourquoi elles nous parlent, on impose aux élèves d’aimer ce qu’ils n’aimeront jamais, et on les dégoûte de l’amour en général. Je suis une victime de ce processus. Je suis sorti de l’enseignement littéraire détruit, avec la certitude que ce monde n’était pas pour moi, et depuis je bataille sur ses marges.
 
-![De ma fenêtre](https://tcrouzet.com/images_tc/2022/10/IMG_9138.jpeg)
+![De ma fenêtre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9138.jpeg)
 
-![De l'île aux Cygnes](https://tcrouzet.com/images_tc/2022/10/IMG_9153.jpeg)
+![De l'île aux Cygnes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9153.jpeg)
 
 ### Lundi 5, Paris
 
@@ -72,13 +72,13 @@ Statistiques de mon blog : presque deux fois plus de lecteurs sur téléphone q
 
 ### Jeudi 8, Balaruc
 
-![La terrasse](https://tcrouzet.com/images_tc/2022/10/IMG_9161.jpeg)
+![La terrasse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9161.jpeg)
 
 ### Vendredi 9 , Balaruc
 
 Je termine une sixième nouvelle, mais hors de la série principale, même si elle en adopte la tonalité narrative et la mécanique. Je termine aussi de relooker la page d’accueil de mon blog pour me contenter d’y dire ce que je fais et quels sont mes derniers textes. Pas d’image, juste une invitation à l’exploration. Un pas de plus vers la sobriété. Plus je vieillis, plus je rejette l’ostentatoire.
 
-![Ça repousse](https://tcrouzet.com/images_tc/2022/10/IMG_9169.jpeg)
+![Ça repousse](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9169.jpeg)
 
 ### Samedi 10 , Balaruc
 
@@ -112,7 +112,7 @@ Je me casse la tête pour organiser nos photos, sorte d’héritage, de mémoire
 
 Fouiller la mémoire photographique, c’est aussi vivre, éprouver des émotions puissantes, pleurer, rire, et se vouloir plus présent, plus attentif, aux détails souvent insignifiants, qui vus d’aujourd’hui me paraissent précieux alors que je les négligeais, emporté par le quotidien. Pourquoi ne pas écrire un texte sur ce travail photographique, ce travail de mémoire, ce qu’il provoque en moi et m’ordonne pour le présent, pour mieux en savourer les secondes, et me tenir à l’écart de l’énervement.
 
-Là, tout de suite, grande angoisse parce que je n’arrive plus à ouvrir ma bibliothèque. Je me dis que j’ai tout perdu, qu’il me faut tout recommencer, sans être sûr de retrouver toutes les images. Non, il ne s’agit que d’un bug.
+Là, tout de suite, grande angoisse parce que je n’arrive plus à ouvrir ma bibliothèque. Je me dis que j’ai tout perdu, qu’il me faut tout recommencer, sans être sûr de retrouver toutes les images. Non, il ne s'agit que d'un bug.
 
 ---
 
@@ -122,7 +122,7 @@ J’ai commencé hier une sixième facette de mon roman, mais je suis incapable 
 
 Entrées maritimes, lourdeur, gris et soleil, temps tropical. La météo marine annonce des vagues de 1,5 m et nous voilà sur la plage. Je body surfe un moment, puis je me contente de regarder Émile surfer avec un long board originaire d’Hawaï, offert il y a des années par mon copain Christophe. Si je n’avais pas passé des heures à organiser nos photos, j’aurais peut-être été impatient. Là, je me contente de cligner des yeux et de regarder Émile, inépuisable, qui repart à l’assaut des vagues, se fait rouler, secouer, mais réussit à se dresser sur la planche et à filer jusqu’au rivage, avant de repartir vers le large. Il apprend après un stage cet été sur la côte atlantique. Il a toujours aimé la glisse. Et moi, je me délecte de chaque seconde parce que je les sais plus précieuses que celles que je pourrais passer à travailler ou à faire quoi que ce soit d’autre, même du vélo avec les copains. Sans mon travail photographique, je n’aurais pas été aussi présent.
 
-![Surf](https://tcrouzet.com/images_tc/2022/10/IMG_9174.jpeg)
+![Surf](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9174.jpeg)
 
 ### Jeudi 15 , Balaruc
 
@@ -144,7 +144,7 @@ Mes textes sont terminés quand je ne trouve plus la porte pour y entrer et qu�
 
 Je m’en vais cueillir de l’herbe pour la transplanter dans le jardin, de l’herbe de chemin, qui survit même au passage des véhicules et des vélos, qui dès la première pluie reverdit. Tout est vert dans la nature en ce moment, un septembre avec des airs de mars. L’été a été si dur, la végétation si recroquevillée, qu’elle s’en donne désormais à cœur joie.
 
-![Sète](https://tcrouzet.com/images_tc/2022/10/IMG_9299.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9299.jpeg)
 
 ### Lundi 19, Balaruc
 
@@ -158,9 +158,9 @@ Désespéré de voir la grossière stratégie russe en Ukraine. Improviser un r�
 
 Nous sommes entrés dans la lumière éblouissante de septembre. Je la cueille avec un ravissement intact, et cette année plus que d’autres, car je vais devoir passer dix jours à Paris. Qui n’a pas vécu septembre dans le Midi ne connaît pas le Midi et sa flamboyance, dont les échos se prolongeront tout l’automne et rejailliront même sur l’hiver. Cette lumière bleue est incroyable, indescriptible, à nulle autre pareille. Je roule à travers elle et m’en gorge jusqu’à l’éblouissement.
 
-![Maguelone](https://tcrouzet.com/images_tc/2022/10/IMG_9356.jpeg)
+![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9356.jpeg)
 
-![Frontignan](https://tcrouzet.com/images_tc/2022/10/IMG_9357.jpeg)
+![Frontignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9357.jpeg)
 
 ### Jeudi 22, Balaruc
 
@@ -214,7 +214,7 @@ Les autres médias, à l’exception de la photographie, impliquent un minimum d
 
 Les bruits des talons des femmes dans la rue me réveillent. Je pense à des femmes et pas à des hommes, des femmes encore prêtes à se tordre les pieds plutôt que de porter des sneakers comme nous autres.
 
-![Île Saint-Louis](https://tcrouzet.com/images_tc/2022/10/IMG_9371.jpeg)
+![Île Saint-Louis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9371.jpeg)
 
 ### Mardi 27, Paris
 
@@ -228,7 +228,7 @@ Expérimenter des variations est mon plaisir. Il suffit d’un bruit, d’un ois
 
 Voilà pourquoi j’aime le carnet, parce que je n’y fixe rien, me contentant de relever les étapes d’un processus qui ne cesse de se recouvrir lui-même, quitte à se contredire. Il n’y a pas plus proche de la réalité intérieure, pas meilleure description de la créativité. Je viens de m’arrêter d’écrire, parce qu’une femme s’est assise à côté et moi et fait du bruit en transférant des emplettes d’un sac de course en papier kraft à un sac à dos. Elle ne me dérange pas. Je viens au café pour ces diversions, mais voilà que mon cours de pensées a dévié.
 
-Dans mes carnets de jeunesse, je parlais des clients, les décrivais, imaginais leurs vies, et je m’en sens désormais incapable, parce que je n’ai plus de désirs dirigés vers eux. Je ne crois plus que l’un d’eux s’installera à côté de moi et changera mon existence. Cette possibilité subsiste, mais je n’y crois plus pour moi, sans doute parce que mon existence me convient.
+Dans mes carnets de jeunesse, je parlais des clients, les décrivais, imaginais leurs vies, et je m’en sens désormais incapable, parce que je n’ai plus de désirs dirigés vers eux. Je ne crois plus que l’un d’eux s'installera à côté de moi et changera mon existence. Cette possibilité subsiste, mais je n’y crois plus pour moi, sans doute parce que mon existence me convient.
 
 Benjamin me disait que je n’ai pas conscience de ma vie, de ma chance, de ma persévérance, de ma façon d’avancer avec l’obstination d’un éléphant, de creuser mon sillon. Selon lui tout cela est souterrain, profond, et il pense de même pour lui. Les années passent et nous ne renonçons pas, et cette obstination est l’expression d’une certitude intérieure, pas si commune, et d’autant plus indispensable aujourd’hui, quand tout le monde veut briller à chaque seconde.
 
@@ -238,7 +238,7 @@ Benjamin me dit que Paris l’excite toujours autant. Je n’y arrive pas parce 
 
 Et puis, qu’est-ce que je fais à la seconde même, sinon exprimer Paris, à ressentir la ville pour la transformer en mots qui ailleurs diraient autre chose. Après une averse, un rayon de soleil illumine la terrasse. Je reprends ma promenade.
 
-![Ciel parisien](https://tcrouzet.com/images_tc/2022/10/IMG_9386.jpeg)
+![Ciel parisien](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9386.jpeg)
 
 ### Mercredi 28, Paris
 
@@ -250,7 +250,7 @@ Café de la Montagne Sans Geneviève, un repère d’étudiants au croisement de
 
 Je suis glacé après avoir discuté deux heures dehors avec Quitterie, toujours aussi énergique, à nous demander ce que nous pourrions faire pour que le monde aille mieux. Nous pensons à nos enfants. Quitterie a tenté d’injecter de la démocratie participative dans l’Assemblée nationale, y échouant, et moi je ne vois pas mieux que tracer des parcours à vélo pour faire aimer le territoire, pour ramener à un rapport tangible au réel, au-delà des grands discours. Me tourner vers la chair du monde pour apprendre à le respecter. Puisque les idées n’ont pas d’impact, passer par le ressenti, par les émotions, faire vivre des aventures, en vivre, en raconter. Cette chair du monde me manque à Paris, trop loin sous les pavés, presque irréelle, et je commence après quelques jours à douter de son existence.
 
-J’ai entrepris une guerre de position, à tenter de percevoir le territoire mètre après mètre, heure après heure. Il ne s’agit pas d’aller vite, mais, au contraire, de lentement dévorer l’espace. Je tourne autour de ces idées depuis quelques années sans réussir à leur donner davantage de clarté. J’ai la sensation d’être à ma place quand j’arpente le monde loin des infrastructures dédiées aux voitures. J’y éprouve la vie avec davantage de force qu’ici dans ce café, peuplé d’étudiants dilettantes, certains un verre de bière à la main en milieu d’après-midi, signe décourageant. Comment panser le monde quand on est incapable d’être rigoureux avec soi-même ? Et à une autre table, une grand-mère avec son petit-fils, sept ans peut-être, tous les deux sur leur écran. Voilà qui est peu énergisant, et même déprimant. Et des cigarettes partout sur la terrasse. Rien ne change. Rien ne veut changer. Aller tout droit jusqu’à la mise en orbite ou à l’effondrement.
+J’ai entrepris une guerre de position, à tenter de percevoir le territoire mètre après mètre, heure après heure. Il ne s’agit pas d’aller vite, mais, au contraire, de lentement dévorer l’espace. Je tourne autour de ces idées depuis quelques années sans réussir à leur donner davantage de clarté. J'ai la sensation d’être à ma place quand j’arpente le monde loin des infrastructures dédiées aux voitures. J’y éprouve la vie avec davantage de force qu’ici dans ce café, peuplé d’étudiants dilettantes, certains un verre de bière à la main en milieu d’après-midi, signe décourageant. Comment panser le monde quand on est incapable d’être rigoureux avec soi-même ? Et à une autre table, une grand-mère avec son petit-fils, sept ans peut-être, tous les deux sur leur écran. Voilà qui est peu énergisant, et même déprimant. Et des cigarettes partout sur la terrasse. Rien ne change. Rien ne veut changer. Aller tout droit jusqu’à la mise en orbite ou à l’effondrement.
 
 Reste que j’aime cette ambiance de café. Sensation d’entrer dans le cerveau de l’humanité. Dans les ruminations de mes contemporains. De saisir leurs tressaillements, leurs désirs, leur manque d’ambition, la plupart à la poursuite de satisfactions immédiates. Je suis un peu effrayé, un peu surpris, toujours étranger à ce que j’entends, à la rumeur générale. Je suis à côté, en dehors, positionné depuis longtemps dans le rôle de l’observateur silencieux qui a le droit de donner son avis sur tout, mais de n’être écouté sur rien.
 
@@ -258,20 +258,24 @@ Reste que j’aime cette ambiance de café. Sensation d’entrer dans le cerveau
 
 La maison d’en face, de l’autre côté de la rue piétonne. Une famille de trois. La femme travaille au second, elle parle fort, souvent en italien. L’homme au premier, comme elle tout contre la fenêtre. Au rez-de-chaussée, la cuisine, la salle à manger, au sous-sol, le salon TV qui s’illumine le soir. Le matin, je vois le fils partir à l’école. Ses parents ne lèvent pas le cul de leur chaise. Il faut gagner de l’argent pour rembourser le prêt de cette maison à plus d’un million d’euros.
 
-![Ciel parisien](https://tcrouzet.com/images_tc/2022/10/IMG_9390.jpeg)
+![Ciel parisien](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9390.jpeg)
 
-![Jussieu](https://tcrouzet.com/images_tc/2022/10/IMG_9402.jpeg)
+![Jussieu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9402.jpeg)
 
-![Jardin des Plantes](https://tcrouzet.com/images_tc/2022/10/IMG_9413.jpeg)
+![Jardin des Plantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9413.jpeg)
 
-![Gare de Lyon](https://tcrouzet.com/images_tc/2022/10/IMG_9420.jpeg)
+![Gare de Lyon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9420.jpeg)
 
 ### Jeudi 29, Paris
 
 Hier soir, mon beau-père, comme ça, soudainement, mort. Huit ans après mon père, jour pour jour. Mais une vie moins extrême, sans extravagances, une vie de rigueur au service de la santé publique, avec quelques plaisirs mesurés. Et adieu, débrouillez-vous sans moi, sans mes grincements, sans mes « Santé bordel », sans mon obstination réactionnaire. Et une scène s’impose à moi, notre dernière rencontre, fin août, quand il a voulu donner un chèque à Tim pour le récompenser pour son bac et que j’ai dit que c’était un peu compliqué pour nous les chèques avec nos banques en ligne, et puis que les chèques étaient désuets. Il est parti dans une rage folle, et moi à lui répondre, et à me faire engueuler par ses filles, et à me persuader qu’il lui restait des années à vivre puisqu’une belle énergie l’animait encore, même s’il s’était beaucoup affaibli depuis son Covid. Et le couperet tombe, sans prévenir, sans lui laisser le temps de dire adieu et de prendre conscience de sa propre mort. Démerdez-vous sans moi. Mourir comme ça, c’est d’une élégance indécente. Une mort radicale qui convenait à son tempérament tranché. Quand il nous vaccinait, il plantait la seringue sans hésiter, sans diversion. Nous devions être forts. Il arrachait les sparadraps d’un coup. Il est mort de la même façon, comme il a vécu. À l’hôpital de Nancy où il a effectué sa carrière de pneumologue et de réanimateur, il a vu trop de gens agoniser sous ses respirateurs pour les imiter. Pas de ça pour lui. Il a reçu la mort qu’il souhaitait.
 
-![Jardin Villemin](https://tcrouzet.com/images_tc/2022/10/IMG_9428.jpeg)
+![Jardin Villemin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9428.jpeg)
 
-![Jardin Villemin](https://tcrouzet.com/images_tc/2022/10/IMG_9431.jpeg)
+![Jardin Villemin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9431.jpeg)
 
-![Square des Recollets](https://tcrouzet.com/images_tc/2022/10/IMG_9434.jpeg)
+![Square des Recollets](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/10/IMG_9434.jpeg)
+
+
+
+Tags: Carnets, une

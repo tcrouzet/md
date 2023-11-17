@@ -1,6 +1,6 @@
 # Gouvernance forte
 
-Sur les forums, sur [Agoravox](http://agoravox.fr) notamment, je vois des gens évoquer la nécessité d’une gouvernance forte. J’ai envie de leur demander s’ils souhaitent avoir un policier chez eux ? C’est ça ? Voulez-vous qu’on vous impose des règles de vie strictes ? C’est ça ? J’ai l’impression désagréable que ceux qui exigent une gouvernance forte ne la souhaitent pas pour eux mais seulement pour une sous-espèce à laquelle ils n’appartiennent pas.
+Sur les forums, sur [Agoravox](http://agoravox.fr) notamment, je vois des gens évoquer la nécessité d’une gouvernance forte. J’ai envie de leur demander s’ils souhaitent avoir un policier chez eux ? C’est ça ? Voulez-vous qu’on vous impose des règles de vie strictes ? C’est ça ? J’ai l’impression désagréable que ceux qui exigent une gouvernance forte ne la souhaitent pas pour eux mais seulement pour une sous-espèce à laquelle ils n'appartiennent pas.
 
 J’ai écris *Le peuple des connecteurs* pour montrer qu’une gouvernance forte n’avait aucun moyen de gérer une société complexe. Et notre société est complexe, de plus en plus complexe. Malheureusement, mes arguments, et ceux des spécialistes de la complexité, ne dépassent pas le cadre du monde scientifique. Les autoritaristes sont légions, ils se préparent à voter pour Le Pen et même pour Sarkozy ou Ségolène. Ils souhaitent une société simplifiée à l’extrême par la force. Ils oublient qu’ils devront vivre dans cette société à laquelle ils aspirent pour les autres.
 

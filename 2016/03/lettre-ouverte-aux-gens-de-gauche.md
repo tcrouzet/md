@@ -1,14 +1,14 @@
 # Lettre ouverte aux gens de gauche
 
-Quand nous arriverons à mieux nous définir politiquement, nous arriverons à nous retrouver, à nous rassembler et à agir ensemble avec cohérence. Pour le moment, les choses sont plutôt confuses. Il est peut-être temps de refonder ce qu’est la gauche comme la droite d’ailleurs.<span id="more-43600"></span>
+Quand nous arriverons à mieux nous définir politiquement, nous arriverons à nous retrouver, à nous rassembler et à agir ensemble avec cohérence. Pour le moment, les choses sont plutôt confuses. Il est peut-être temps de refonder ce qu'est la gauche comme la droite d'ailleurs.<span id="more-43600"></span>
 
-![Assemblée](https://tcrouzet.com/images_tc/2016/03/assemble1.png)
+![Assemblée](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/assemble1-600x426.png)
 
 Une parenthèse. Les notions de gauche, de centre, de droite découlent de la forme de l’hémicycle à l’Assemblée nationale. Dans un futur encore utopique où l’ensemble du peuple déciderait de ses lois, selon un processus consensuel plutôt que majoritaire, dans un futur où nous aurions dépassé le modèle représentatif, l’hémicycle disparaîtrait ainsi donc que la gauche et la droite.
 
 Si nous nous plaçons dans une perspective de progrès social, nous devons donc entendre gauche comme droite dans un cadre nouveau qui ne nous enferme pas dans le modèle actuel mais qui l’englobe avec la possibilité de le dépasser.
 
-![Compteur de vitesse](https://tcrouzet.com/images_tc/2016/03/assemble2.png)
+![Compteur de vitesse](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/assemble2.png)
 
 À la place de l’hémicycle, on peut imaginer une sorte de compteur qui mesure le positionnement des citoyens par rapport à une valeur clivante. Si donc le compteur mesurait la vitesse, nous aurions une gauche vers les petites vitesses, une droite vers les grandes vitesses. Nous roulerions à la vitesse qui nous conviendrait, l’aiguille indiquant notre position.
 
@@ -18,11 +18,11 @@ La droite et la gauche ne l’entendent pas du tout de la même façon. Beaucoup
 
 À gauche, on est plus pragmatique. De nombreux déterminismes sociaux contraignent la liberté. Mère dépressive, père alcoolique ne donnent pas autant de chances que des parents cadres-sup. Nous ne sommes libres que dans une certaine mesure et la société dans son ensemble doit compenser les coups du sort.
 
-On pourrait dire qu’à droite on s’intéresse à la liberté de chacun, à gauche à la liberté de tous. À droite, on se place tour à tour dans la peau de chacun des citoyens. Il existe donc une liberté du patron très différente de la liberté de l’employé. À gauche, on cultive une approche plus globale : les patrons et les citoyens sont égaux en droits et devoirs.
+On pourrait dire qu’à droite on s’intéresse à la liberté de chacun, à gauche à la liberté de tous. À droite, on se place tour à tour dans la peau de chacun des citoyens. Il existe donc une liberté du patron très différente de la liberté de l’employé. À gauche, on cultive une approche plus globale : les patrons et les citoyens sont égaux en droits et devoirs. 
 
 Selon ce clivage, je me définis à gauche sans la moindre hésitation, alors que je suis incapable de trouver ma place dans l’hémicycle actuel.
 
-![Liberté](https://tcrouzet.com/images_tc/2016/03/assemble3.png)
+![Liberté](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/assemble3.png)
 
 Dans la perspective du compteur liberté, il existe un test pour déterminer la position d’une mesure politique. Si elle maximise la liberté de quelques-uns au détriment de celles de tous, elle est de droite. Par exemple, une réforme du droit du travail qui favorise les patrons et non les employés est de droite. Inversement, l’instauration de la sécurité sociale ou de l’éducation pour tous sont typiquement des mesures de gauche.
 
@@ -47,3 +47,5 @@ Enfin, nous devrions nous poser une question : depuis quand un gouvernement de 
 4. Le droit au chômage est de gauche parce que nous pouvons tous nous retrouver au chômage. Cette mesure sécurise et augmente donc la liberté de tous. Un droitiste argumentera qu’en payant pour les autres il voit sa liberté réduite. Plutôt que raisonner à l’échelle collective, il regarde dans son jardin, oubliant qu’un jour peut-être il sera malade ou que ses enfants iront à l’école.
 
 5. Un droitiste n’aura aucun scrupule à favoriser la liberté de quelques-uns, par exemple les patrons avec l’espoir qu’ils relanceront l’économie et accroîtront le PIB de la nation. C’est une théorie réfutable en théorie et par l’expérience.
+
+Tags: Liberté, MRDB, Politique, Revenu de base, une

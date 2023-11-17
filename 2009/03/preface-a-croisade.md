@@ -1,6 +1,6 @@
 # Préface à Croisade
 
-Mon [twiller](http://twiller.tcrouzet.com/) s’inspire de brouillons que j’ai écrits ces dernières années. Je suis tombé aujourd’hui sur une note préliminaire de 2006 qui résume la trame générale de [*Croisade*](http://twiller.tcrouzet.com/) et qui pourrait trouver sa place en tête du roman.<span id="more-5021"></span>
+Mon [twiller](http://twiller.tcrouzet.com/) s'inspire de brouillons que j'ai écrits ces dernières années. Je suis tombé aujourd'hui sur une note préliminaire de 2006 qui résume la trame générale de [*Croisade*](http://twiller.tcrouzet.com/) et qui pourrait trouver sa place en tête du roman.<span id="more-5021"></span>
 
 ---
 
@@ -11,3 +11,5 @@ Si vous lisez ces lignes, vous vous sentez peut-être déjà dépositaire d’un
 Dorénavant, ce qui se passe ailleurs nous concerne tous. Nous ne pouvons plus laisser faire n’importe quoi. Réciproquement, quand nous découvrons une initiative intéressante, nous voulons pouvoir la reproduire. C’est une révolution radicale. Mais comme toute révolution, elle engendre ses détracteurs.
 
 Certains hommes, souvent au nom de grands principes philosophiques, d’autres fois au nom de la tradition, refusent l’idée de conscience collective. Ils veulent maintenir les frontières, qu’elles soient géographiques ou raciales, idéologiques ou religieuses. Pour préserver le monde dans lequel ils sont rois, ou tout au moins confortables, ils ont lancé une croisade contre les animateurs de la conscience collective: les hommes libres.
+
+Tags: Croisade, noepub, Twiller

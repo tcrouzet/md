@@ -1,6 +1,6 @@
 # J’ai signé pour Bové
 
-J’ai signé parce Bobé représente une tendance qui doit s’exprimer, c’est la démocratie. Je crois que la politique a autant besoin de diversité que la biosphère, la diversité est une condition nécessaire à la survie et, surtout, à l’expérimentation évolutive. Comme nous vivons une époque de défis, nous avons besoin de maximiser les possibilités, donc nous ne devons négliger aucune approche. J’ai théorisé ce point de vue dans le chapitre sur la longue traîne dans [Le cinquième pouvoir](https://tcrouzet.com/le-cinquieme-pouvoir/).
+J'ai signé parce Bobé représente une tendance qui doit s’exprimer, c’est la démocratie. Je crois que la politique a autant besoin de diversité que la biosphère, la diversité est une condition nécessaire à la survie et, surtout, à l’expérimentation évolutive. Comme nous vivons une époque de défis, nous avons besoin de maximiser les possibilités, donc nous ne devons négliger aucune approche. J’ai théorisé ce point de vue dans le chapitre sur la longue traîne dans [Le cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/).
 
 Par ailleurs, Bové n’appartient à aucun parti, c’est un homme de réseau, un politicien bien plus moderne que nos vedettes enkystées dans des structures désuètes. Le mouvement qui l’a poussé à se présenter s’est construit de lui-même, justement contre les appareils, ceux du PC par exemple. Tout s’est fait à partir de la base, dans l’esprit bottom-up qui anime tous les altermondialistes.
 

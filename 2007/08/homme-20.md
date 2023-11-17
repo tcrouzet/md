@@ -1,6 +1,6 @@
 # Homme 2.0
 
-[L’évolution fonctionne virtuellement.](https://tcrouzet.com/2007/08/06/le-retour-des-mythes/) Ce n’est pas une preuve qu’elle fonctionne dans la nature mais un élément de plus pour en être quasi certain. Cette presque confirmation de la théorie darwinienne cause beaucoup de troubles aux essentialistes.
+[L’évolution fonctionne virtuellement.](http://blog.tcrouzet.com/2007/08/06/le-retour-des-mythes/) Ce n'est pas une preuve qu'elle fonctionne dans la nature mais un élément de plus pour en être quasi certain. Cette presque confirmation de la théorie darwinienne cause beaucoup de troubles aux essentialistes.
 
 S’il y a évolution, il n’y a pas de nature humaine essentielle… sinon une nature humaine en constant devenir. Il n’y a pas plus d’éthique ou de morale gravées dans le marbre. Tout est susceptible de changer et d’évoluer (évoluer ne veut pas dire progresser). D’un point de vue biologique, refuser qu’une chose évolue serait même la condamner à mort.
 
@@ -12,9 +12,9 @@ Notre monde évolue de plus en plus vite à cause de nos activités de plus en p
 
 La première voie nous est malheureusement interdite (même si elle peut être vue comme une adaptation aux changements). Nous avons mis le monde dans un tel état de surchauffe que, dans le temps imparti pour réagir, nous ne pouvons le refroidir que par de nouvelles technologies (le bio est une technologie de refroidissement mais insuffisante à elle seule). Cette course à l’innovation nous condamne donc à changer.
 
-![Par Pacco](https://tcrouzet.com/images_tc/20070827pacco.gif)
+![Par Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070827pacco.gif)
 
-J’espère que ma [position par rapport au dopage](https://tcrouzet.com/2007/07/26/le-dopage-controle/) est ainsi plus claire. Les athlètes sont pour moi des pionniers. En tout cas, ils pourraient le devenir, en expérimentant pour nous les innovations technologiques qui demain nous permettrons de survivre.
+J’espère que ma [position par rapport au dopage](http://blog.tcrouzet.com/2007/07/26/le-dopage-controle/) est ainsi plus claire. Les athlètes sont pour moi des pionniers. En tout cas, ils pourraient le devenir, en expérimentant pour nous les innovations technologiques qui demain nous permettrons de survivre.
 
 Dans *Wired*, je suis tombé sur une [liste de métiers à risque](http://www.wired.com/science/discoveries/magazine/15-08/st_sciencejobs) liés à la science. L’auteur aurait pu ajouter les sportifs de haut niveau.
 
@@ -24,7 +24,7 @@ Notes :
 
 2. Interdire le dopage n’a jamais empêché les hommes de se doper. Vouloir gagner une épreuve sportive n’est qu’une raison parmi d’autres qui poussent les hommes à se doper.
 
-3. Les neurologues ont découvert que notre tendance à inventer des histoires pour justifier des faits inexplicables s’amplifiait lorsque notre niveau de dopamine était élevé. Quand est-ce que les romanciers utiliseront cette dope là ?
+3. Les neurologues ont découvert que notre tendance à inventer des histoires pour justifier des faits inexplicables s'amplifiait lorsque notre niveau de dopamine était élevé. Quand est-ce que les romanciers utiliseront cette dope là ?
 
 4. Je ne suis pas pour le dopage. Je constate simplement que les hommes se dopent, que nous nous dopons presque tous. Je suggère juste de canaliser cette propension au dopage dans une direction qui profiterait à l’humanité.
 
@@ -78,6 +78,6 @@ Notes :
 
 29. Plutôt que le contrôle antidopage soit piloté de l’extérieur (par des règles arbitraires appliquées arbitrairement par des instances internationales pas toujours équitables), il faudrait que les coureurs eux-mêmes fixent les règles. Ils se connaissent, ils courent ensembles depuis des années, ils ne peuvent manquer de noter avec étonnement les progrès faramineux de certains de leurs collègues.
 
-30. Il est bon de rappeler que Zidane, notre héros national, doubla de masse musculaire après un an dans le championnat italien. Personne ne cria alors au scandale…
+30. Il est bon de rappeler que Zidane, notre héros national, doubla de masse musculaire après un an dans le championnat italien. Personne ne cria alors au scandale...
 
 31. En tant qu’amoureux du tour de France, je me moque de la vitesse où les cols se montent. J’attends des surprises, des attaques, des défaillances, des retournements de situation… Le vélo est un sport tragique au sens Grec. Je peux suivre une étape de montagne durant des heures dans l’attente d’un climax. Je ne veux pas que des hypocrites gâchent le spectacles.

@@ -12,7 +12,9 @@ N’oublions pas que les esclavagistes ont toujours profité de nous. Ils ne fon
 
 ### DRM removal
 
-Quand j’achète un ebook avec DRM, je commence par les effacer avec un logiciel de type [DRM removal](http://www.epubor.com/kindle-drm-removal.html%20). Ça me prend deux secondes. Je stocke alors le fichier sur mon disque dur dédié aux eBooks, puis je le synchronise avec [Calibre](http://calibre-ebook.com/) avec toutes mes liseuses, le donne à lire à ma femme ou à mes enfants, et pourquoi pas à mes amis comme je le faisais jadis avec un livre papier.
+Quand j’achète un ebook avec DRM, je commence par les effacer avec un logiciel de type [DRM removal](<http://www.epubor.com/kindle-drm-removal.html
+
+>). Ça me prend deux secondes. Je stocke alors le fichier sur mon disque dur dédié aux eBooks, puis je le synchronise avec [Calibre](http://calibre-ebook.com/) avec toutes mes liseuses, le donne à lire à ma femme ou à mes enfants, et pourquoi pas à mes amis comme je le faisais jadis avec un livre papier.
 
 Ma liberté de lecteur augmente, elle ne diminue pas. Simplement je suis forcé à une petite gymnastique qui je l’espère deviendra inutile dans les années à venir. En attendant, je me défends.
 
@@ -26,4 +28,6 @@ Qu’on arrête de nous raconter que publier en numérique c’est difficile, ho
 
 En résumé, si quelque chose ne vous plait pas dans le monde des ebooks, changez-le. Lisons Callimaq, il désigne nos cibles, nos ennemis.
 
-Mince, je me remets à bloguer. Pourquoi ? Parce que je sèche sur le chapitre 63 de mon Ératosthène. J’y retourne.
+Mince, je me remets à bloguer. Pourquoi ? Parce que je sèche sur le chapitre 63 de mon Ératosthène. J'y retourne.
+
+Tags: eBook, édition, une

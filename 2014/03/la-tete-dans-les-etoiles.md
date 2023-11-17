@@ -28,4 +28,8 @@ En même temps, je ne cesse de penser aux étoiles. Au miracle de la vie. À la 
 
 Et je découvre que Gracq écrit *La forme d’une ville* à 75 ans, *La presqu’île*, pour moi son chef d’œuvre, à 60 ans. Alors je me sens soudain jeune, tout aussi près des étoiles qu’Émile et la vie est merveilleuse. Ne reste qu’à l’enchanter.
 
-![Gracq chez Corti par yannhoury](https://tcrouzet.com/images_tc/2014/03/corti.jpg)
+![Gracq chez Corti par yannhoury](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/corti-600x547.jpg)
+
+
+
+Tags: Autobiographie, une

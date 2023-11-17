@@ -2,7 +2,7 @@
 
 « Trop d’information tue l’information. » On entend souvent cette critique au sujet d’internet, notamment dans les médias traditionnels. Les blogs et autres cites citoyens engendreraient de la confusion plus qu’autre chose.
 
-![Par Pacco](https://tcrouzet.com/images_tc/20070831pacco.gif)
+![Par Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070831pacco.gif)
 
 L’absence de tri a priori n’est pas un handicap pour le citoyen mais au contraire, en théorie tout au moins, une garantie qu’il peut se forger lui-même ses propres opinions.
 
@@ -12,7 +12,7 @@ Telle est en tous cas mon opinion et celle de [Nassim Nicholas Taleb](http://www
 
 1. Taleb commence par expliquer que depuis qu’il ne s’informe plus, il a trouvé le temps lire des dizaines de livres supplémentaires chaque année. Renoncer à s’informer permet de mieux se cultiver. Mais l’information, en plus de nous divertir, ne nous donne-t-elle pas la culture du présent ? Taleb démontre le contraire. Il affirme même que « reading the newspaper actually decrease your knowledge of the world. »
 
-2. Je n’ai jamais lu les journaux et j’ai eu la télé jusqu’à ce que je déménage à Londres en 2000. Je ne me suis pas alors senti pour autant coupé du monde, je me suis simplement détaché d’un certain bruit de fond. J’ai constaté que les nouvelles saillantes, celles qui façonnent notre conscience collective, m’arrivaient tout de même. Je n’ai pas manqué 9/11 ni le tsunami asiatique, même si j’ai peut-être reçu l’information en léger différé.
+2. Je n’ai jamais lu les journaux et j’ai eu la télé jusqu'à ce que je déménage à Londres en 2000. Je ne me suis pas alors senti pour autant coupé du monde, je me suis simplement détaché d’un certain bruit de fond. J’ai constaté que les nouvelles saillantes, celles qui façonnent notre conscience collective, m’arrivaient tout de même. Je n’ai pas manqué 9/11 ni le tsunami asiatique, même si j’ai peut-être reçu l’information en léger différé.
 
 3. Se couper totalement de l’information est impossible car nous baignons dans l’information. Comme nous pouvons nous informer par osmose, je ne vois pas pourquoi j’y consacrerais une partie de mon temps de conscience.
 
@@ -24,7 +24,7 @@ Telle est en tous cas mon opinion et celle de [Nassim Nicholas Taleb](http://www
 
 7. Les journalistes donnent la parole à des experts, presque toujours les mêmes, qui, en fait, ne défendent que leur point de vue et qui, à leur tour, livrent des interprétations. Le recours aux experts est un moyen d’imposer au public une vision de la réalité comme s’il n’existait qu’une réalité. Taleb dénonce l’essentialisme platonicien duquel nous sommes incapables de nous extraire. Les informations tentent de décrire une réalité en soi qui n’existe pas.
 
-8. Par-dessus tout, en réduisant la complexité, en catégorisant, les journalistes refusent d’admettre le hasard. Ils le nient systématiquement en inventant des causalités. Il suffit de les voir commenter les fluctuations boursières. Tous les médias ne cherchent qu’à dissimuler l’aspect profondément aléatoire de notre monde. Ils nous désinforment. Pire, ils ne nous préparent pas aux [black swans](https://tcrouzet.com/2006/07/17/l%e2%80%99irresponsabilite-des-politiques/), ces surgissements de l’imprévisible.
+8. Par-dessus tout, en réduisant la complexité, en catégorisant, les journalistes refusent d’admettre le hasard. Ils le nient systématiquement en inventant des causalités. Il suffit de les voir commenter les fluctuations boursières. Tous les médias ne cherchent qu’à dissimuler l’aspect profondément aléatoire de notre monde. Ils nous désinforment. Pire, ils ne nous préparent pas aux [black swans](http://blog.tcrouzet.com/2006/07/17/l%e2%80%99irresponsabilite-des-politiques/), ces surgissements de l’imprévisible.
 
 9. Taleb, qui travailla longtemps dans la finance, explique que les chauffeurs de taxi sont aussi capables de prévoir l’avenir que n’importe quel analyste. Les journalistes se complaisent pourtant à nous parler d’un demain dont ils n’ont pas idée. Pour ma part, je préfère lire de bons auteurs de science fiction.
 
@@ -43,3 +43,5 @@ Cette liste pourrait s’étendre presque infiniment. Taleb ne cesse de donner d
 Pour lui, aligner des faits et les lier par des histoires ne nous aide en rien. Il n’y a pas de « pourquoi » mais juste des « comment » et pour les découvrir il faut, comme les scientifiques, se livrer à des expérimentations. Se cultiver serait l’art de partager des expériences.
 
 *PS :* [The Back Swan](http://www.amazon.fr/Black-Swan-Impact-Highly-Improbable/dp/1400063515/ref=pd_bbs_sr_1) *est dans la liste des bestsellers du New York Time. Vous imaginez en France un tel succès pour un livre de mathématicien ? Je crois que nous sommes en train de perdre tout goût pour la science.*
+
+Tags: Connecteur

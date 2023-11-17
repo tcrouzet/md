@@ -10,28 +10,28 @@ Au sujet des cas mesurés, je ne comprends toujours pas pourquoi les médias com
 
 De même, pourquoi le gouvernement a-t-il proclamé un confinement de deux semaines alors que le nombre de morts ne peut pas baisser significativement avant 17,3 jours, soit en gros avant le 3 avril ? Un manque de transparence ou la volonté de nous endormir ? Ou la peur ? La fébrilité ?
 
-Enfin, quel est le nombre réel de morts en France ? Nous n’en savons rien, mais on peut supposer que, à cause d’un fort taux de mortalité dans les populations concernées, les personnes très âgées, ces morts non décomptés n’influencent guère la méthode de calcul du nombre de cas réels.
+Enfin, quel est le nombre réel de morts en France ? Nous n'en savons rien, mais on peut supposer que, à cause d'un fort taux de mortalité dans les populations concernées, les personnes très âgées, ces morts non décomptés n'influencent guère la méthode de calcul du nombre de cas réels.
 
 Quelques remarques sur [mon tableau](https://docs.google.com/spreadsheets/d/1PqMVPU0VYcDWrUnDh1CsGYr_A7Zk3iZco77X-vToS9Q/edit?usp=sharing).
 
-- La durée entre contamination et mort était au moment de la création du tableau de 17,3 jours (une donnée dont il faudrait revérifier la validité et voir ce qu’il en est en France). Je l’ai arrondie à la valeur supérieure (un jour de gagné, c’est une approximation conservatrice).
+- La durée entre contamination et mort était au moment de la création du tableau de 17,3 jours (une donnée dont il faudrait revérifier la validité et voir ce qu'il en est en France). Je l’ai arrondie à la valeur supérieure (un jour de gagné, c’est une approximation conservatrice).
 
 - Avant -18 jours, ligne violette dans le tableau, le nombre cas réels est calculé d’après le nombre de morts. On découvre qu’il y a probablement en moyenne 50 fois plus de cas réels que de cas relevés, chiffre en phase avec ceux proposés par certains épidémiologistes (j’ai vu passer une source en ce sens, mais je n’arrive pas à remettre la main dessus).
 
 - Au-delà de -18 jours, en dessous de la ligne violette, nous ne pouvons plus appliquer la même méthode de calcul, il nous faut donc prolonger la courbe du nombre de cas réels d’une manière ou d’une autre. Par exemple en proposant une croissance exponentielle jusqu’au jour du confinement, date à partir de laquelle on peut espérer que cette courbe change de trajectoire. J’avoue que j’ai un peu tout essayé. Quand j’applique la progression moyenne constatée sur les quatre jours précédents (donc on reste dans l’exponentiel, mais mesuré), j’arrive à un million de cas réels à la veille du confinement, avec presque 200 000 nouveaux cas ce jour-là. Je ne veux pas croire à ce dernier chiffre, parce qu’il implique 18 jours plus tard, le 3 avril, un bilan macabre de 1 300 victimes, soit plus que partout ailleurs.
 
-- J’espère donc que les mesures barrières ont réussi à infléchir partiellement la courbe avant le confinement et que nous pouvons applique une atténuation à la croissance jusqu’au confinement, avant d’en appliquer une plus élevée après. Mais tout cela revient à regarder dans une boule de cristal. A posteriori, pour sûr, nous pourrons évaluer le niveaux de responsabilité individuelle des Français (et être très fâchés contre nous-mêmes si la croissance exponentielle n’a pas été enrayée assez tôt).
+- J’espère donc que les mesures barrières ont réussi à infléchir partiellement la courbe avant le confinement et que nous pouvons applique une atténuation à la croissance jusqu’au confinement, avant d’en appliquer une plus élevée après. Mais tout cela revient à regarder dans une boule de cristal. A posteriori, pour sûr, nous pourrons évaluer le niveaux de responsabilité individuelle des Français (et être très fâchés contre nous-mêmes si la croissance exponentielle n'a pas été enrayée assez tôt).
 
 - Je me contente de régler les paramètres pour obtenir un pic de mortalité autour du 3 avril, ce qui nous amène à une situation comparable à l’Italie. On finirait tout de même avec plus de 10 000 mors dans les hôpitaux, ce qui n’est pas très agréable à entendre. Je me refuse à évoquer des réglages plus macabres qui seraient purement et simplement du catastrophisme. Le tableau étant en accès libre vous pouvez jouer avec.
 
 Je ne suis pas très à l’aise d’avoir entamé cette réflexion. Des gens me posent sans cesse des questions au sujet du tableau, me demandent de l’améliorer, de le compléter. Je n’en ai plus envie, pas plus que de continuer à le commenter. J’espère que je pourrais rire de mes erreurs à la fin de la crise. Je n’espère que même mes estimations optimistes seront pessimistes.
 
-![Projection nombre de cas réels](https://tcrouzet.com/images_tc/2020/03/coub2.png)
+![Projection nombre de cas réels](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/coub2.png)
 
-![Projection nombre de mort](https://tcrouzet.com/images_tc/2020/03/coub1.png)
+![Projection nombre de mort](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/coub1.png)
 
-![Total morts projeté](https://tcrouzet.com/images_tc/2020/03/coub3.png)
+![Total morts projeté](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/03/coub3.png)
 
 [Liens vers le tableau… je le mets à jour tous les soir.](https://docs.google.com/spreadsheets/d/1PqMVPU0VYcDWrUnDh1CsGYr_A7Zk3iZco77X-vToS9Q/edit?usp=sharing)
 
-<div class="iframe" id="iframe15"></div>
+Tags: Covid, Politique, une

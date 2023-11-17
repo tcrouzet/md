@@ -1,6 +1,6 @@
 # La véritable écologie
 
-[Dee Hock](https://tcrouzet.com/2006/07/18/chaordic-age/) écrit :
+[Dee Hock](http://blog.tcrouzet.com/2006/07/18/chaordic-age/) écrit :
 
 > Au plus profond, le désir de commander et de contrôler est un travers destructif et mortel qui vise à dépouiller les autres de leur volonté et de leur joie de vivre.
 
@@ -23,3 +23,5 @@ Pour résoudre cette nouvelle dichotomie, entre simplicité du discours et compl
 Le blog, grâce aux liens transversaux entre les articles, est une forme adaptée à cette nouvelle pensée complexe. Il est peut-être l’outil grâce auquel la pensée complexe se propagera, l’outil grâce auquel nous changeront le monde, et commenceront par le sauver.
 
 Je parle de sauver le monde, d’autres hommes souhaitent précipiter sa fin pour accéder au jugement dernier salvateur. Encore une dichotomie trop simplificatrice mais qui appartient à un discours complexe.
+
+Tags: Politique

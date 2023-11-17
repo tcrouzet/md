@@ -4,7 +4,7 @@
 
 ### Votre désir
 
-Je baigne dans le monde Internet depuis le milieu des années 1990, j’écris depuis plus longtemps, et à l’exception d’un [essai en 1996](https://tcrouzet.com/sicile-1996/), je n’ai pas ouvert un blog avant fin 2005. Je l’ai fait après avoir envoyé à l’imprimerie [*Le peuple des connecteurs*](https://tcrouzet.com/le-peuple-des-connecteurs/) parce que j’avais la sensation de ne pas avoir bouclé le sujet et parce que j’avais besoin d’appliquer la théorie que j’avais développée, la connexion.
+Je baigne dans le monde Internet depuis le milieu des années 1990, j’écris depuis plus longtemps, et à l’exception d’un [essai en 1996](http://blog.tcrouzet.com/sicile-1996/), je n’ai pas ouvert un blog avant fin 2005. Je l’ai fait après avoir envoyé à l’imprimerie [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) parce que j’avais la sensation de ne pas avoir bouclé le sujet et parce que j’avais besoin d’appliquer la théorie que j’avais développée, la connexion.
 
 Tout ça pour dire que sans envie, inutile de se précipiter en ligne. Il y a déjà trop de gens qui ne songent qu’à y faire du marketing. En tant qu’auteur, on aborde ce monde pour risquer de s’y transformer du tout au tout, un peu comme si on essayait une drogue nouvelle. Je ne conçois pas le Net autrement que comme un champ exploratoire et expérimental. Si vous ne vous préoccupez que de votre promo ou de vendre des livres, je n’ai pas grand-chose à vous apprendre.
 
@@ -32,7 +32,7 @@ Quand un de vos lecteurs a quelque chose à vous dire, il doit pouvoir le faire 
 
 Je gère mon blog avec [WordPress](http://fr.wordpress.org/), un logiciel Open Source massivement supporté et sur lequel travaille une immense communauté. Il permet de créer un site sous le format blog, avec des articles qui se suivent de jour en jour, ou un site fait d’une série de pages statiques, pour ceux qui ne désirent pas bloguer.
 
-Il me semble vital de créer son audience chez soi plutôt que chez Facebook. [Tout le monde prend aujourd’hui conscience des dangers de Facebook, il ne faut pas contribuer à faire de cette entreprise un nouveau Big Brother.](https://tcrouzet.com/2010/05/17/facebook-danger/) Ne comptez pas sur moi pour vous révéler l’art du marketing dans cet espace. Je l’évite, ce qui ne m’empêche pas de l’utiliser.
+Il me semble vital de créer son audience chez soi plutôt que chez Facebook. [Tout le monde prend aujourd’hui conscience des dangers de Facebook, il ne faut pas contribuer à faire de cette entreprise un nouveau Big Brother.](http://blog.tcrouzet.com/2010/05/17/facebook-danger/) Ne comptez pas sur moi pour vous révéler l’art du marketing dans cet espace. Je l’évite, ce qui ne m'empêche pas de l'utiliser.
 
 ### Votre naissance
 
@@ -60,13 +60,13 @@ En général, je n’en fais pas plus. Si je sais que le sujet peut intéresser 
 
 Quand j’annonce sur Twitterla publication d’un nouvel article, je réécris souvent le titre. Je suis obligé de me demander quelles courtes combinaisons de mots ont une chance d’attirer des lecteurs. Je n’ai pas de recette, je travaille à l’intuition, mais des titres qui semblent tenir quand ils sont placés en haut d’un article n’ont plus aucun sens une fois isolé.
 
-Titrer est un art, sur le Web comme ailleurs. [Certains prétendent d’ailleurs qu’il existe un art d’écrire en ligne.](https://tcrouzet.com/2010/05/17/ne-pas-penser/) J’ai quelques doutes, en tout cas pour un auteur. Si nous avons des lecteurs, c’est que nous n’écrivons justement pas comme les autres. Alors, autant cultiver nos différences que chercher à nous fondre dans la masse.
+Titrer est un art, sur le Web comme ailleurs. [Certains prétendent d’ailleurs qu’il existe un art d’écrire en ligne.](http://blog.tcrouzet.com/2010/05/17/ne-pas-penser/) J’ai quelques doutes, en tout cas pour un auteur. Si nous avons des lecteurs, c’est que nous n’écrivons justement pas comme les autres. Alors, autant cultiver nos différences que chercher à nous fondre dans la masse.
 
 ### Votre pugnacité
 
-Vous devez maintenant réagir aux réactions de vos lecteurs. [J’essaie d’être présent dans mes fils de commentaires.](https://tcrouzet.com/2010/05/16/autopublication-arnaque/) Je défends mes idées, m’explique, quitte à publier de nouveaux textes si nécessaire. Internet permet le dialogue bidirectionnel, se contenter d’émettre est très mal vu. Tout cela prend du temps, mais vous découvrirez que votre communauté peut vous servir de stimulant plus efficacement que le café (je ne sais pas pourquoi je parle de café, je n’en bois pas).
+Vous devez maintenant réagir aux réactions de vos lecteurs. [J’essaie d’être présent dans mes fils de commentaires.](http://blog.tcrouzet.com/2010/05/16/autopublication-arnaque/) Je défends mes idées, m’explique, quitte à publier de nouveaux textes si nécessaire. Internet permet le dialogue bidirectionnel, se contenter d’émettre est très mal vu. Tout cela prend du temps, mais vous découvrirez que votre communauté peut vous servir de stimulant plus efficacement que le café (je ne sais pas pourquoi je parle de café, je n’en bois pas).
 
-Dès qu’on anime une communauté, elle participe à notre travail que nous le voulions ou non. J’ai écrit certains de mes livres de manière coopérative, des livres comme [*La quatrième théorie*](https://tcrouzet.com/la-quatrieme-theorie/) que je ne n’aurais peut-être pas écrits seuls. Il ne s’agit pas seulement de faire sa promotion, mais de vivre une expérience collective. En fait, j’applique une de mes théories, [plus je me lie aux autres, plus je suis libre](https://tcrouzet.com/2010/05/08/la-liberte-le-lien/). J’espère que cela vaut aussi pour l’écriture. Le mieux est de se s’essayer à l’écriture coopérative, via Twitter ou autre, pour en expérimenter la puissance, et découvrir ce que j’appelle [l’édition au temps des cyborgs](https://tcrouzet.com/2010/05/06/edition-au-temps-des-cyborgs/).
+Dès qu’on anime une communauté, elle participe à notre travail que nous le voulions ou non. J’ai écrit certains de mes livres de manière coopérative, des livres comme [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) que je ne n’aurais peut-être pas écrits seuls. Il ne s’agit pas seulement de faire sa promotion, mais de vivre une expérience collective. En fait, j’applique une de mes théories, [plus je me lie aux autres, plus je suis libre](http://blog.tcrouzet.com/2010/05/08/la-liberte-le-lien/). J’espère que cela vaut aussi pour l’écriture. Le mieux est de se s’essayer à l’écriture coopérative, via Twitter ou autre, pour en expérimenter la puissance, et découvrir ce que j’appelle [l’édition au temps des cyborgs](http://blog.tcrouzet.com/2010/05/06/edition-au-temps-des-cyborgs/).
 
 En tout cas, il est vital de lier les autres lorsque l’on parle d’eux. De tisser le réseau à travers lequel les lecteurs circuleront de site en site, de construire la blogosphère, une blogosphère qui je le reconnais s’essouffle aujourd’hui comme [l’analyse Narvic](http://novovision.fr/?On-attendait-le-web-social-mais).
 
@@ -74,9 +74,9 @@ Le plus important est sans doute de chasser de son esprit le mot virtuel. Votre 
 
 ### Votre économie
 
-Votre blog doit aussi parler de vous, [parce qu’il faut que les nouveaux venus puissent vous découvrir](https://tcrouzet.com/informations/), découvrir vos textes, vous devez donc les présenter, [pourquoi pas comme je le fais offrir des extraits, même des inédits, voire des textes en chantier.](https://tcrouzet.com/bibliographie/)
+Votre blog doit aussi parler de vous, [parce qu’il faut que les nouveaux venus puissent vous découvrir](http://blog.tcrouzet.com/informations/), découvrir vos textes, vous devez donc les présenter, [pourquoi pas comme je le fais offrir des extraits, même des inédits, voire des textes en chantier.](http://blog.tcrouzet.com/bibliographie/)
 
-À côté de l’économie traditionnelle du livre, [une nouvelle économie balbutie](https://tcrouzet.com/tag/edition/). Il me parait hasardeux pour un auteur de s’en tenir éloigné, ne serait-ce que pour en comprendre les enjeux, par exemple au moment de signer un contrat avec un éditeur (ou de ne surtout pas signer un contrat de diffusion numérique).
+À côté de l’économie traditionnelle du livre, [une nouvelle économie balbutie](http://blog.tcrouzet.com/tag/edition/). Il me parait hasardeux pour un auteur de s’en tenir éloigné, ne serait-ce que pour en comprendre les enjeux, par exemple au moment de signer un contrat avec un éditeur (ou de ne surtout pas signer un contrat de diffusion numérique).
 
 Aujourd’hui, on ne vit pas plus d’un blog que de ses livres. À Montpellier, [JOL a réussi à récupérer 4 000 euros de don depuis le début 2010](http://www.montpellier-journal.fr/). C’est un contre exemple qui confirme la règle, comme ces auteurs vedettes qui gagnent des millions.
 
@@ -84,6 +84,8 @@ Côté de l’édition numérique, les expériences se multiplient avec [Franço
 
 Pour le moment, nous avons encore du mal à trouver des lecteurs sur support numérique, mais les liseuses plus ergonomiques arrivent… et avec cette fameuse nouvelle économie du livre. Il faut l’espérer en tout cas. Mais il serait illusoire de croire que demain bien plus de gens vivront de leur plume. On peut au moins souhaiter une meilleure répartition, une augmentation des quotas, mais pas une explosion, surtout si le nombre de lecteurs de textes longs lui n’augmente pas (et il y a peu de raison pour qu’il le fasse).
 
-Où j’en suis pour ma part ? J’écris beaucoup, je publie souvent sur mon blog, [diffuse des extraits ou des textes intégraux](http://txt.tcrouzet.com/), [expérimente l’impression à la demande](https://tcrouzet.com/2010/05/16/autopublication-arnaque/)… Tout cela me vaut une certaine réputation, quelques apparitions médiatiques, mais ne me fait rien gagner. J’en ai juste oublié de me trouver un autre éditeur depuis ma rupture avec Bourin. J’ai la chance, sans être riche, de ne pas être dans l’urgence financière et de me payer le luxe de l’exploration. C’est peut-être la vérité la plus dure à entendre. Je ne suis pas sûr que la situation des écrivains ait beaucoup évolué depuis le dix-neuvième siècle de Flaubert. Écrire est un privilège.
+Où j’en suis pour ma part ? J’écris beaucoup, je publie souvent sur mon blog, [diffuse des extraits ou des textes intégraux](http://txt.tcrouzet.com/), [expérimente l’impression à la demande](http://blog.tcrouzet.com/2010/05/16/autopublication-arnaque/)… Tout cela me vaut une certaine réputation, quelques apparitions médiatiques, mais ne me fait rien gagner. J’en ai juste oublié de me trouver un autre éditeur depuis ma rupture avec Bourin. J’ai la chance, sans être riche, de ne pas être dans l’urgence financière et de me payer le luxe de l’exploration. C’est peut-être la vérité la plus dure à entendre. Je ne suis pas sûr que la situation des écrivains ait beaucoup évolué depuis le dix-neuvième siècle de Flaubert. Écrire est un privilège.
 
 PS : Assistent à la formation Kawenga, Antoine Blanchemain, Janine Gdalia, Christine Palluy, Françoise Renaud, Jean-François Gomez, Isabelle Lavarec, François Vincent et Pascale Ferroul.
+
+Tags: Conf, édition, NetLittérature, noepub

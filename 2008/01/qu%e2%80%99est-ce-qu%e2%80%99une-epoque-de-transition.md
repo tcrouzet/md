@@ -4,7 +4,7 @@ Toute époque se trouve à la jonction entre le passé et l’avenir, toute épo
 
 Nous sentons bien toutefois que dans nos vies certains moments sont plus tendus que d’autres, plus déterminants, plus chargés d’aventures. Je crois qu’il en va de même dans l’histoire des civilisations et des sociétés. Le début du XXI<sup>e</sup> siècle me semble en ce sens particulier car il cumule les changements.
 
-Quelques symptômes…
+Quelques symptômes...
 
 ### Transition climatique
 
@@ -16,7 +16,7 @@ Nous passons des technologies lourdes, apparues au début de la révolution indu
 
 ### Transition métalocale
 
-Du nomadisme aux premiers villages, des villages aux villes, des villes aux États, des États à la biosphère. Nous changeons chaque fois d’échelle de vie. Aujourd’hui, nous devenons des habitants de la planète. C’est une responsabilité nouvelle.
+Du nomadisme aux premiers villages, des villages aux villes, des villes aux États, des États à la biosphère. Nous changeons chaque fois d’échelle de vie. Aujourd'hui, nous devenons des habitants de la planète. C’est une responsabilité nouvelle.
 
 ### Transition démographique
 
@@ -24,7 +24,7 @@ Nous devons apprendre à vivre à 9 milliards sur un monde fini en attendant le 
 
 ### Transition politique
 
-[Le monde s’aplatit comme l’a décrit Friedman.](http://en.wikipedia.org/wiki/The_World_is_Flat) Cet aplatissement géopolitique et économique, boosté par les nouvelles technologies, implique un aplatissement des hiérarchies, donc l’apparition d’un cinquième pouvoir, c’est-à-dire d’un faisceau de pouvoirs individuels qui s’auto-organisent et créent des métapouvoirs non incarnés.
+[Le monde s’aplatit comme l’a décrit Friedman.](http://en.wikipedia.org/wiki/The_World_is_Flat) Cet aplatissement géopolitique et économique, boosté par les nouvelles technologies, implique un aplatissement des hiérarchies, donc l’apparition d’un cinquième pouvoir, c'est-à-dire d’un faisceau de pouvoirs individuels qui s’auto-organisent et créent des métapouvoirs non incarnés.
 
 ### Transition économique
 

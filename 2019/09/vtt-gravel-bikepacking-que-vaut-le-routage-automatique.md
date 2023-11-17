@@ -4,21 +4,21 @@ Une trace vélo s’apparente à une œuvre d’art, elle ne cherche ni le plus 
 
 Pouvons-nous les utiliser les yeux fermés ? Proposent-ils des brouillons intéressants ? Passent-ils à côté des meilleures traces ? Ou font-ils des trouvailles ? En tant que bikepacker VTT ou gravel, je recherche en priorité à fuir les voitures et j’en attends autant des solutions proposées.
 
-Voici quelques services inadaptés à mes besoins, soit uniquement Android comme [Locus Map](https://www.locusmap.eu/), ou sans option VTT ou gravel comme Google Map, [OpenStreetMap](https://www.openstreetmap.org), [B Router](http://brouter.de/brouter-web/#map=5/50.986/9.844/osmfr) (on doit pouvoir créer un profil VTT, c’est presque de la programmation), [RidewithGPS](https://ridewithgps.com/r), [Geolvélo](www.geovelo.fr), [Bikemap](https://www.bikemap.net), [Cycle.travel](https://cycle.travel) (qui possède une option chemin pas convaincante), [Routeyou](https://www.routeyou.com) (résultats trop médiocres). Router sur route est techniquement assez simple, du moment que les voies sont qualifiées (nationale, départementale…). Il est facile de dire « je veux éviter les grands axes ». Pour le hors asphalte, les choses se compliquent, car les types de chemin sont innombrables et souvent peu décrits sur les cartes (d’autant qu’un chemin longtemps fort praticable peut soudain devenir un enfer). Pour mon évaluation, j’ai initialement retenu [Komoot](https://www.komoot.com), [Mapy](https://en.mapy.cz), [Strava](https://www.strava.com), [Garmin Connect](https://connect.garmin.com/modern/courses), [OpenRunner](https://www.openrunner.com/).
+Voici quelques services inadaptés à mes besoins, soit uniquement Android comme [Locus Map](https://www.locusmap.eu/), ou sans option VTT ou gravel comme Google Map, [OpenStreetMap](https://www.openstreetmap.org), [B Router](http://brouter.de/brouter-web/#map=5/50.986/9.844/osmfr) (on doit pouvoir créer un profil VTT, c'est presque de la programmation), [RidewithGPS](https://ridewithgps.com/r), [Geolvélo](www.geovelo.fr), [Bikemap](https://www.bikemap.net), [Cycle.travel](https://cycle.travel) (qui possède une option chemin pas convaincante), [Routeyou](https://www.routeyou.com) (résultats trop médiocres). Router sur route est techniquement assez simple, du moment que les voies sont qualifiées (nationale, départementale…). Il est facile de dire « je veux éviter les grands axes ». Pour le hors asphalte, les choses se compliquent, car les types de chemin sont innombrables et souvent peu décrits sur les cartes (d’autant qu’un chemin longtemps fort praticable peut soudain devenir un enfer). Pour mon évaluation, j’ai initialement retenu [Komoot](https://www.komoot.com), [Mapy](https://en.mapy.cz), [Strava](https://www.strava.com), [Garmin Connect](https://connect.garmin.com/modern/courses), [OpenRunner](https://www.openrunner.com/).
 
 ### Test 1
 
-Dans un rayon d’une trentaine de kilomètres autour de chez moi, je connais la plupart des chemins VTT et gravel, pour avoir soumis mon territoire de jeu à une exploration systématique. Plus je m’éloigne, plus ma connaissance du terrain est fragmentaire. Avec ce premier test, je crée un itinéraire ultra classique pour moi entre Balaruc les Bains et l’abbaye de Monceau, que je sais atteindre de dizaines de façons différentes.
+Dans un rayon d’une trentaine de kilomètres autour de chez moi, je connais la plupart des chemins VTT et gravel, pour avoir soumis mon territoire de jeu à une exploration systématique. Plus je m’éloigne, plus ma connaissance du terrain est fragmentaire. Avec ce premier test, je crée un itinéraire ultra classique pour moi entre Balaruc les Bains et l'abbaye de Monceau, que je sais atteindre de dizaines de façons différentes.
 
-![Résultats test 1](https://tcrouzet.com/images_tc/2019/09/comp1.jpg)
+![Résultats test 1](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/comp1-477x450.jpg)
 
 Komoot en mode VTT envoie d’entrée sur une route désagréable, puis rejoint une piste cyclable, puis une route très fréquentée, quittée à mi-parcours avant d’attaquer une minuscule desserte communale, puis la garrigue, avec un final pas du tout adapté au gravel et même assez technique à VTT, ce que ne montre pas le profil.
 
-![Trace Komoot VTT](https://tcrouzet.com/images_tc/2019/09/komoot.jpg)
+![Trace Komoot VTT](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/komoot-600x266.jpg)
 
 **Stats** : 8,8 km, 59 % de chemin et single pour 25 % de route.
 
-En mode touring ou gravel, Komoot démarre mieux, empruntant immédiatement la piste cyclable, mais la quittant de façon inexplicable pour rejoindre une route abominable, puis traverse de long en large un centre commercial, avant d’attaquer la garrigue par une de mes entrées favorites. Tout se passe bien avant que la trace ne se jette dans un single impraticable à vélo, avec des marches de plus d’un mètre suivies de virages serrés. Elle rejoint en suite la première piste VTT au final exigeant. Avec mes copains, nous ne passons jamais par là. Les modes touring et gravel devraient être plus cool que le mode VTT, il n’en est rien. C’est un gros bug.
+En mode touring ou gravel, Komoot démarre mieux, empruntant immédiatement la piste cyclable, mais la quittant de façon inexplicable pour rejoindre une route abominable, puis traverse de long en large un centre commercial, avant d’attaquer la garrigue par une de mes entrées favorites. Tout se passe bien avant que la trace ne se jette dans un single impraticable à vélo, avec des marches de plus d’un mètre suivies de virages serrés. Elle rejoint en suite la première piste VTT au final exigeant. Avec mes copains, nous ne passons jamais par là. Les modes touring et gravel devraient être plus cool que le mode VTT, il n’en est rien. C'est un gros bug.
 
 **Stats** : 8,1 km, 46 % de chemin et single pour 20 % de route.
 
@@ -36,7 +36,7 @@ Sans l’option populaire, Strava suit pratiquement l’option Komoot Touring, e
 
 **Stats** : 7,7 km, 58 % de chemin et single pour 28 % de route.
 
-Si Garmin Connect en mode gravel est peu convaincant, très proche du résultat proposé par Mapy, il s’en tire mieux en mode VTT, en première analyse. Après un début trop routier, il propose un beau parcours très technique et très physique, avant d’arriver au creux d’une combe quasi impossible à escalader à VTT et qui implique du portage pour franchir des séries de marches très caillouteuses.
+Si Garmin Connect en mode gravel est peu convaincant, très proche du résultat proposé par Mapy, il s’en tire mieux en mode VTT, en première analyse. Après un début trop routier, il propose un beau parcours très technique et très physique, avant d'arriver au creux d'une combe quasi impossible à escalader à VTT et qui implique du portage pour franchir des séries de marches très caillouteuses.
 
 **Stats** : 8,5 km, 58 % de chemin et single pour 19 % de route.
 
@@ -48,19 +48,19 @@ Après un départ semblable à Komoot VTT et Garmin, OpenRunner propose avec son
 
 **Ma version Gravel** : 10 km, 83 % de chemin pour 14 % de route (un bout de centre commercial et une minuscule route communale).
 
-**Bilan** Pour le VTT, Komoot offre la meilleure trace, tout en restant en retrait de la mienne. Pour le gravel, OpenRunner est de loin le meilleur, ma version ne le surpassant qu’au départ.
+**Bilan** Pour le VTT, Komoot offre la meilleure trace, tout en restant en retrait de la mienne. Pour le gravel, OpenRunner est de loin le meilleur, ma version ne le surpassant qu'au départ.
 
 J’ai rassemblé toutes ces traces sur [une carte Google Map](https://drive.google.com/open?id=1i6A0y2H5w6sQu6kDcKezTk9uMnnK3vGK&usp=sharing) pour ceux qui aimeraient les analyser dans le détail. Pour les stats, j’utilise Komoot dans lequel j’importe les fichiers GPX générés.
 
-D’ailleurs Komoot bugue parfois quand on y charge des traces qui lui paraissent impossibles faute de cartes assez détaillées, et cela même quand on lui ordonne de rester fidèle au tracé original. Il fabrique des détours invraisemblables, ce qui conduit à des statistiques erronées. J’ai signalé ce bug, il a été corrigé depuis.
+D’ailleurs Komoot bugue parfois quand on y charge des traces qui lui paraissent impossibles faute de cartes assez détaillées, et cela même quand on lui ordonne de rester fidèle au tracé original. Il fabrique des détours invraisemblables, ce qui conduit à des statistiques erronées. J'ai signalé ce bug, il a été corrigé depuis.
 
-![Test 1 : comparatif](https://tcrouzet.com/images_tc/2019/09/test1bis.png)
+![Test 1 : comparatif](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/test1bis-600x222.png)
 
 ### Test 2
 
 Durant l’été, j’ai créé manuellement plusieurs traces pour relier la ville de Pézenas. Je vais donc voir ce que me propose Komoot, Garmin, Strava et OpenRunner.
 
-![Résultat test 2](https://tcrouzet.com/images_tc/2019/09/comp2.jpg)
+![Résultat test 2](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/comp2-600x266.jpg)
 
 Comme la première fois, Komoot en mode VTT commence par la route avant de trouver la piste cyclable, puis s’en écarte pour suivre une voie parallèle à la nationale 113, avant de piquer dans la garrigue. C’est une option que nous choisissons parfois, bien qu’il en existe d’autres, plus agréables. La suite est assez bluffante. La trace emprunte des chemins sur lesquels nous roulons souvent.
 
@@ -78,7 +78,7 @@ OpenRunner réussit la prouesse de ne proposer aucun chemin sur ce trajet.
 
 **Mes stats VTT** : 34,9 km, 65 % de chemin et single pour 28 % de route.
 
-![Test 2 : comparatif](https://tcrouzet.com/images_tc/2019/09/test2.png)
+![Test 2 : comparatif](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/test2-600x89.png)
 
 Les stats semblent dire que je m’en tire comme Komoot, sauf que mes routes sont bien plus minuscules que les siennes et j’emprunte deux fois plus de singles, certains étant extraordinaires. Je reste impressionné par le résultat de Komoot, qui offre dans ce cas une bonne ébauche de travail, même si elle ne m’a fait découvrir aucun chemin.
 
@@ -88,13 +88,13 @@ Komoot marque des points en piquant très tôt dans la garrigue, ce que nous év
 
 Lors de [ma traversée Méditerranée-Atlantique](https://tcrouzet.com/2019/08/22/une-traversee-de-la-france-sud-a-vtt/), je suis passé par Pézenas pour rejoindre La Salveta sur Agout via Roquebrun et le lac de Vézoles. J’étais alors en territoire quasi inconnu à vélo pour moi.
 
-![Résultat test 3](https://tcrouzet.com/images_tc/2019/09/comp3.jpg)
+![Résultat test 3](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/comp3-600x292.jpg)
 
 J’ai créé mon parcours [en superposant les traces des vététistes du coin et en les interconnectant à l’aide des cartes OSM et IGN](https://tcrouzet.com/2019/04/12/bikepacking-mediterranee-atlantique/). Mon ambition n’était pas de maximiser les chemins, mais de réduire au maximum les interactions avec les voitures, tout en passant par quelques lieux remarquables et en dénichant quelques beaux singles. J’avais aussi pour objectif de ne pas trop nous charger en D+.
 
 **Stats** : 93,9 km, 36 % de chemin et single pour 47 % de routes minuscules et 1 920 m de D+.
 
-![Test 3 : comparatif](https://tcrouzet.com/images_tc/2019/09/test3.png)
+![Test 3 : comparatif](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/test3-600x65.png)
 
 En mode VTT, Komoot offre des stats plus qu’intéressantes : 96,6 km, 55 % de chemin pour 15 % de route et 2 150 m de D+. Il s’agit donc d’une bonne trace, qui passe parfois par des routes plus pratiquées que les miennes. De mon côté, j’ai écarté certaines des options retenues par Komoot, par exemple le chemin à travers les garrigues après Roquebrun, préférant rester au bord de la magnifique vallée de l’Orb avant d’enchaîner par une longue piste cyclable. Il serait intéressant de suivre les deux traces et de comparer leur dimension esthétique et ludique.
 
@@ -109,3 +109,5 @@ Reste que dans ces circonstances, quand on se lance dans des voyages bikepacking
 Les singles suggérés doivent être pris avec méfiance et il me semble judicieux de vérifier si des vététistes ont l’habitude de les emprunter.
 
 Une chose est sûre : avec ces automates, je crois être mieux armé pour la création de mes prochains itinéraires au long cours.
+
+Tags: Born to Bike, GPS, une

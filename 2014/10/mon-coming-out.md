@@ -16,6 +16,10 @@ Je ne sais donc pas comment nommer ma communauté, ce serait bien plus direct si
 
 Comme Tim Cook, j’aimerais pouvoir déclarer que cette expérience « has given me a deeper understanding of what it means to be in the minority and provided a window into the challenges that people in other minority groups deal with every day. It’s made me more empathetic, which has led to a richer life. It’s been tough and uncomfortable at times, but it has given me the confidence to be myself, to follow my own path, and to rise above adversity and bigotry. »
 
-Ma communauté étant invisible, il m’est même difficile de m’en reconnaître comme membre. Je ne commence à y réussir que grâce à mes enfants et à leur propre recherche d’une identité dans une communauté invisible. Accepter sa différence et la vivre, c’est le combat d’une vie, en même temps que l’acceptation des différences des autres.
+Ma communauté étant invisible, il m’est même difficile de m'en reconnaître comme membre. Je ne commence à y réussir que grâce à mes enfants et à leur propre recherche d’une identité dans une communauté invisible. Accepter sa différence et la vivre, c’est le combat d’une vie, en même temps que l’acceptation des différences des autres.
 
-![À la poursuite des Slans](https://tcrouzet.com/images_tc/2014/10/slans.jpg)
+![À la poursuite des Slans](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/slans.jpg)
+
+
+
+Tags: Autobiographie, une

@@ -4,17 +4,17 @@
 
 ### Samedi 1<sup>er</sup> avril, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/05/20170401-1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/05/20170401-1.jpg)
 
-### Lundi 3 avril, Montagnac
+### Lundi 3 avril, Maillardou
 
-![](https://tcrouzet.com/images_tc/2017/05/20170403-1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/05/20170403-1.jpg)
 
-### Jeudi 6, Montagnac
+### Jeudi 6, Maillardou
 
 Je cours, je fais du vélo, je traficote une vague promo pour *Résistants*, je n’écris pas, je n’en ai pas envie, j’en suis au point où même inscrire quelques mots dans ce carnet me pèse, c’est comme si plus jamais je n’écrirai. Je ne fais cette remarque que pour mémoire.
 
-### Vendredi 7, Montagnac
+### Vendredi 7, Maillardou
 
 Matinée passée à optimiser mon site pour les portables. Le Web devient de plus en plus compliqué en même temps que de moins en moins intéressant.
 
@@ -44,15 +44,15 @@ J’en suis à un embranchement assez ordinaire de ma vie d’écrivain. Sa simp
 
 2. *Résistants* ne marche pas, et je n’ai vraiment plus aucune raison d’embêter les éditeurs avec ma camelote. Ce qui implique de continuer seul, librement, mais seul.
 
-![](https://tcrouzet.com/images_tc/2017/05/20170412-1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/05/20170412-1.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/05/20170412-2.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/05/20170412-2.jpg)
 
 ### Jeudi 13, Sainte-Croix-Vallée-Française
 
-![](https://tcrouzet.com/images_tc/2017/05/20170413-1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/05/20170413-1.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/05/20170413-2.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/05/20170413-2.jpg)
 
 ### Lundi 17, Balaruc
 
@@ -92,8 +92,10 @@ Nous acceptons les jougs des structures hiérarchiques parce que tout au long de
 
 ### Dimanche 30, Genève
 
-Publier un livre, c’est comme avoir un enfant en accéléré : il faut le voir grandir et quitter la maison à toute vitesse, et ne plus vouloir influer sur sa vie. Je préfère écrire que publier, je préfère promouvoir mes livres en ligne que derrière une table dans un salon, exercice auquel je me prête de temps à autre, pour garder ma carte du parti des auteurs traditionnels.
+Publier un livre, c'est comme avoir un enfant en accéléré : il faut le voir grandir et quitter la maison à toute vitesse, et ne plus vouloir influer sur sa vie. Je préfère écrire que publier, je préfère promouvoir mes livres en ligne que derrière une table dans un salon, exercice auquel je me prête de temps à autre, pour garder ma carte du parti des auteurs traditionnels.
 
 ---
 
-Une idée me contamine peu à peu, celle d’Adam vivant sur une planète sauvage, ponctuée de vestiges dont l’ancienneté relative ne fait pas de différence, et lui est là, tranquille, qui profite de la vue, de la brise marine… alors une troupe débarque pour l’assassiner, sans y réussir, puis des scientifiques veulent l’étudier, puis une femme le séduire… Ce serait une histoire sur le mode narratif de *One Minute*. Tout le monde dans l’humanité interstellaire se demande qui est Adam et, peu à peu, en croisant des perspectives, on découvre son secret, celui d’un philosophe qui est en même temps le dernier et le premier homme. J’ai envie de parler d’une humanité heureuse, d’une humanité dans laquelle j’aimerais vivre.
+Une idée me contamine peu à peu, celle d'Adam vivant sur une planète sauvage, ponctuée de vestiges dont l'ancienneté relative ne fait pas de différence, et lui est là, tranquille, qui profite de la vue, de la brise marine… alors une troupe débarque pour l'assassiner, sans y réussir, puis des scientifiques veulent l'étudier, puis une femme le séduire… Ce serait une histoire sur le mode narratif de *One Minute*. Tout le monde dans l'humanité interstellaire se demande qui est Adam et, peu à peu, en croisant des perspectives, on découvre son secret, celui d'un philosophe qui est en même temps le dernier et le premier homme. J'ai envie de parler d'une humanité heureuse, d'une humanité dans laquelle j'aimerais vivre.
+
+Tags: Carnets, une

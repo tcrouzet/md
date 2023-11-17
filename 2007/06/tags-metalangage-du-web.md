@@ -1,10 +1,10 @@
 # Tags : métalangage du web
 
-[Henri Alberti](https://tcrouzet.com/2007/06/20/decentraliser-l%e2%80%99experience-utilisateur/#comment-35394), l’amoureux de la rigueur nécessairement intéressé par le formalisme, vient d’attirer mon attention vers une interview de [Pierre Levy](http://fr.wikipedia.org/wiki/Pierre_L%C3%A9vy) publiée dans [Le Monde](http://www.lemonde.fr/web/article/0,1-0@2-651865,36-927305,0.html?xtor=RSS-3208) ([PDF](https://tcrouzet.com/images_tc/200706l24emonde.pdf)).
+[Henri Alberti](http://blog.tcrouzet.com/2007/06/20/decentraliser-l%e2%80%99experience-utilisateur/#comment-35394), l’amoureux de la rigueur nécessairement intéressé par le formalisme, vient d’attirer mon attention vers une interview de [Pierre Levy](http://fr.wikipedia.org/wiki/Pierre_L%C3%A9vy) publiée dans [Le Monde](http://www.lemonde.fr/web/article/0,1-0@2-651865,36-927305,0.html?xtor=RSS-3208) ([PDF](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200706l24emonde.pdf)).
 
 Ce texte est loin de m’avoir enthousiasmé, au contraire, je le trouve profondément rétrograde. Non pas à cause de l’éloge de l’intelligence collective, qu’il faut encourager à tout prix, mais à cause du chemin pour y parvenir que propose Pierre Levy, le langage IEML (Information Economy Meta Language).
 
-Je commence à tiquer lorsque Michel Alberganti demande à Lévy « Internet n’est-il pas aujourd’hui une immense bibliothèque aux livres entassés en désordre ? » et que Lévy approuve. Je ne suis pas d’accord, mais pas du tout d’accord.
+Je commence à tiquer lorsque Michel Alberganti demande à Lévy « Internet n'est-il pas aujourd'hui une immense bibliothèque aux livres entassés en désordre ? » et que Lévy approuve. Je ne suis pas d’accord, mais pas du tout d’accord.
 
 Internet est désordonné seulement si on le regarde avec les yeux d’un bibliothécaire du dix-neuvième siècle, voire du vingtième. Il est désordonné parce que l’information n’est pas hiérarchisée, n’est pas rangée dans des cases elles-mêmes rangées dans d’autres cases.
 
@@ -33,3 +33,5 @@ Il ne faut pas créer un langage mais créer des outils qui permettront aux rés
 *PS1 : Pierre Lévy dit pouvoir proposer son langage d’ici trois ans. Ce n’est pas une échelle de temps web. C’est comme si un entrepreneur annonçait lancer sa société cent ans plus tard. C’est absurde.*
 
 *PS2 : J’ai en ce moment la tête plongée dans les tags. Je les ai intégrés depuis quelque temps à* [*bonWeb*](http://www.bonweb.com)*, de telle façon que la classification des sites s’effectue d’elle-même. Le système apprend tout seul et de mieux en mieux. La base de données initialement hiérarchisée devient peu à peu topographique.*
+
+Tags: Connecteur

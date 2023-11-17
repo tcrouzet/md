@@ -27,3 +27,5 @@ J’ai découvert le détail de ce récit en lisant [The Starfish and the Spider
 Sans le réseau initial et sans vendeur, l’idée reste confinée à un petit cercle. Nous ne devons pas oublier ces deux vérités.
 
 Pour ma part, je me sens dans la peau d’un catalyseur, surtout pas dans celle d’un champion. Nous avons la chance avec internet de pouvoir créer des réseaux en un rien de temps (mais ne craignons pas de nous connecter aux vieux réseaux existants pour gagner du temps). Il nous faut penser à recruter des champions, ne pas avoir peur d’aller les chercher dans les zones poussiéreuses de la politique traditionnelle. Pour cela, nous allons devoir les convertir à nos idées.
+
+Tags: Politique

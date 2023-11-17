@@ -6,7 +6,7 @@ Ces deux positions sont absurdes. Dès qu’on s’interroge sur la notion même
 
 Sans privatisation, pas de vie, pas d’autopoïèse. La vie peut même être vue comme la naissance de la privatisation. Nationalisez un être, il meurt par dissolution dans le milieu.
 
-Mais si tout était privatisé, les agents ne pourraient plus se déplacer sans se heurter aux autres. L’espace serait saturé par le vivant qui s’étoufferait lui-même. La vie a besoin d’un domaine public pour se déployer. Reste à définir un équilibre entre public et privé. C’est une question politique.
+Mais si tout était privatisé, les agents ne pourraient plus se déplacer sans se heurter aux autres. L’espace serait saturé par le vivant qui s’étoufferait lui-même. La vie a besoin d'un domaine public pour se déployer. Reste à définir un équilibre entre public et privé. C’est une question politique.
 
 Le privé doit-il se limiter au corps, en deçà duquel la vie est impossible, doit-il accepter l’habitation privée, l’entreprise privée, la culture privée, l’armée privée, la monnaie privée ? L’ultracapitalisme répond par l’affirmative à toutes ces questions. Il paraît toutefois évident que cela conduit à un étouffement de la société, étouffement que nous appelons plus communément : crise.
 
@@ -19,3 +19,5 @@ Dans un monde prospère, un monde où le revenu de base serait instauré, nos be
 Pas encore question de renoncer au corps, ni à son extension l’habitation, mais déjà la voiture est moins indispensable, et beaucoup d’autres objets, tels que livres et CD qui peuvent être dématérialisés… Nous avons entamé, au regard de la conquête du privé, une involution, d’autant plus nécessaire que la démultiplication du domaine public démultiplie nos possibilités existentielles, et donc notre bonheur.
 
 Il me paraît évident que si les technologies le permettent nous irons plus loin. L’habitation aussi se dématérialisera, le corps aussi… et nous nous transformerons en consciences libres sur le réseau. L’extension du domaine public n’est qu’un prélude à de plus grands bouleversements. C’est une lutte pour l’espace vital.
+
+Tags: Politique, une

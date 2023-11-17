@@ -26,7 +26,7 @@ Nous ne l’empêcherons pas, comme nous n’empêchons pas déjà les ministres
 
 Pour que la minorité survive dans le bien-être maximal, la majorité besognera. C’est ni plus ni moins que le communisme dur appliqué à l’écologie. Nous revivrions ce qu’a connu la Russie au temps de l’URSS. Il faudra faire entrer les masses dans le rang. Et si ça ne suffit pas, il faudra réduire la population, pour finir par atteindre un régime écologiquement soutenable.
 
-Qui est près aujourd’hui à signer pour un tel plan de sauvetage ? Pas moi en tout cas. Et je crains que certains ne soient un jour tenté de mettre en œuvre ce scénario. Ils chercheront à nous séduire avec leurs bonnes intentions, leurs désirs de nous sauver, mais ils se garderont de renoncer à leurs privilèges… Parce que l’homme ne renonce pas une fois qu’il a quelque chose sauf si on le force.
+Qui est près aujourd’hui à signer pour un tel plan de sauvetage ? Pas moi en tout cas. Et je crains que certains ne soient un jour tenté de mettre en œuvre ce scénario. Ils chercheront à nous séduire avec leurs bonnes intentions, leurs désirs de nous sauver, mais ils se garderont de renoncer à leurs privilèges... Parce que l'homme ne renonce pas une fois qu'il a quelque chose sauf si on le force.
 
 ### Plus idées, pas plus de lois
 

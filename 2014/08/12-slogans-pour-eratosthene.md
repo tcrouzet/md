@@ -1,6 +1,6 @@
 # 12 slogans pour Ératosthène
 
-C’est parti. Mon [*Ératosthène*](https://tcrouzet.com/eratosthene/) est disponible dans toutes les librairies à partir de maintenant. Un roman polyphonique ne peut avoir qu’un slogan, à vous de choisir celui qui vous donnera envie de [craquer quelques euros](https://tcrouzet.com/eratosthene/?lib=1).<span id="more-36886"></span>
+C’est parti. Mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/) est disponible dans toutes les librairies à partir de maintenant. Un roman polyphonique ne peut avoir qu’un slogan, à vous de choisir celui qui vous donnera envie de [craquer quelques euros](http://blog.tcrouzet.com/eratosthene/?lib=1).<span id="more-36886"></span>
 
 1. Un *Game of Thrones* antique, avec guerres et trahisons, sexe et passion, où philosophie et science remplacent la magie.
 
@@ -28,10 +28,14 @@ C’est parti. Mon [*Ératosthène*](https://tcrouzet.com/eratosthene/) est disp
 
 Plus…
 
-1. L’histoire du premier hacker (définition : personne qui subvertit le système).
+1. L'histoire du premier hacker (définition : personne qui subvertit le système).
 
 2. Ou comment transformer un ancien en moderne.
 
-3. À la recherche du moderne derrière l’antique.
+3. À la recherche du moderne derrière l'antique.
 
-![Nuage par Bernard Strainchamps pour Feedbooks.](https://tcrouzet.com/images_tc/2014/08/feedbooks.png)
+![Nuage par Bernard Strainchamps pour Feedbooks.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/feedbooks-600x696.png)
+
+
+
+Tags: Ératosthène, une

@@ -13,3 +13,5 @@ Je vois deux solutions pour échapper au modèle pyramidal qui aujourd’hui pr�
 2. **Boom technologique.** Le passage vers une société non pyramidale de vaste ampleur n’est possible, selon moi, qu’à l’aide de la technologie (ce qui explique pourquoi nous n’y sommes pas encore). On peut alors rêver de caméras drones qui survolent le peloton et suivent chacun des coureurs, des caméras qui ne coûteront presque rien et qui encombreront le ciel au-dessus de la course…
 
 Cette seconde solution laisse présager un jihad anti-technologique que mèneraient les hiérarques. Si la technologie en se développant fragilise leur position continueront-ils de soutenir ce développement ? Ont-ils le choix ? Sans technologie, sans les revenus qu’elle génère, seraient-ils encore des hiérarques ? Le développement technologique conduit peut-être inéluctablement au non-pyramidal.
+
+Tags: Connecteur

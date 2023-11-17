@@ -2,11 +2,11 @@
 
 Je réponds aux questions de Lionel Jeannerat, l’éditeur de [*One Minute*](https://tcrouzet.com/une-minute/) chez PVH Éditions, et reviens sur les mécanismes du processus créateur.<span id="more-60359"></span>
 
-*— Quelle place occupe l’écriture dans ta vie ?*
+*— Quelle place occupe l'écriture dans ta vie ?*
 
 — Tu aurais dû me demander quelle place il reste à ma vie hors de l’écriture, parce que j’ai centré ma vie autour d’elle. Je vis en écrivant, je perçois en écrivant, j’aime en écrivant. Si on m’empêchait d’écrire, je serais aveugle.
 
-*— Comment t’est venue l’idée de* One Minute *?*
+*— Comment t’est venue l'idée de* One Minute *?*
 
 — Si je savais te dire comment, je pourrais reproduire ce comment et générer des idées à tour de bras. En fait, j’ai ma petite méthode. J’écris tous les jours, au minimum dans mon journal et les mots parfois engendrent des idées, en apparence venues de nulle part. La plupart, je les oublie, mais certaines reviennent taper à la porte et je finis par en faire quelque chose. L’idée d’écrire et récrire un grand nombre de fois la même situation m’est venue en 2011 quand je travaillais à [*J’ai d’ébranché*](https://tcrouzet.com/jai-debranche/?swcfpc=1). Je l’ai même résumée dans ce livre.
 
@@ -31,3 +31,5 @@ Je n’ai pas été surpris quand les éditeurs littéraires ont refusé le text
 Un autre point m’intéresse : Ludomire parie sur le livre objet. Voilà qui me semble indispensable à l’époque où nous passons notre temps à lire sur écran. Pour ma part, je ne lis que des ebooks. Si j’en reviens au papier, c’est avec de beaux livres, à la fois agréables à feuilleter, à regarder, à toucher. Je suis assez fier que *One Minute* sorte en coffret, même si le prix élevé peut dissuader pas mal de lecteurs, qui pourront se tourner vers la version ebook.
 
 Enfin, PVH est un éditeur suisse et j’entretiens avec la Suisse de longues amitiés, notamment éditoriales. Un tropisme m’attire vers la Suisse et les Suisses. Je crois y être plus apprécié qu’en France. D’ailleurs, je réponds à ces questions dans le TGV qui me conduit à Genève.
+
+Tags: NetLittérature, Sur 1 minute, une

@@ -1,8 +1,8 @@
 # Twiller, twitteroman, erotwit…
 
-Après avoir [lancé l’idée d’écrire un twiller](https://tcrouzet.com/2008/12/21/du-keitai-shousetsu-au-twiller/), j’ai commencé à publié [*Croisade*](https://tcrouzet.com/2009/03/13/preface-a-croisade/) à partir du 25 décembre 2008, c’était mon cadeau de Noël. En fait un véritable cadeau pour moi-même avant d’être un cadeau pour les quelques lecteurs fidèles qui me suivent. J’ai maintenant du mal à écrire autre chose, si je m’écoutais je ne ferais que ça.<span id="more-5032"></span>
+Après avoir [lancé l’idée d’écrire un twiller](http://blog.tcrouzet.com/2008/12/21/du-keitai-shousetsu-au-twiller/), j’ai commencé à publié [*Croisade*](http://blog.tcrouzet.com/2009/03/13/preface-a-croisade/) à partir du 25 décembre 2008, c’était mon cadeau de Noël. En fait un véritable cadeau pour moi-même avant d’être un cadeau pour les quelques lecteurs fidèles qui me suivent. J’ai maintenant du mal à écrire autre chose, si je m’écoutais je ne ferais que ça.<span id="more-5032"></span>
 
-En décembre, je travaillais à [*Une brève histoire de l’informatique*](https://tcrouzet.com/tag/une-breve-histoire-de-linformatique/), projet aujourd’hui en stand by car je prépare autre chose dont je vous parlerai bientôt, en vous mettant bien sûr à contribution. Un des chapitres de cette brève histoire s’intitulait *Le cauchemar de Proust*. Il ressemblait à une énigme. Résumé.
+En décembre, je travaillais à [*Une brève histoire de l’informatique*](http://blog.tcrouzet.com/tag/une-breve-histoire-de-linformatique/), projet aujourd’hui en stand by car je prépare autre chose dont je vous parlerai bientôt, en vous mettant bien sûr à contribution. Un des chapitres de cette brève histoire s’intitulait *Le cauchemar de Proust*. Il ressemblait à une énigme. Résumé.
 
 ---
 
@@ -44,18 +44,20 @@ Suivant cette école littéraire, la contrainte pousse l’auteur dans une direc
 
 C’est la forme naturelle, première de la littérature par SMS. Des gens se parlent, échangent des infos, se donnent des rendez-vous… ça sert à ça les SMS. Combien de romances se jouent aujourd’hui par SMS ?
 
-Avec sa nouvelle [On l’appelait Sodomy](http://erotwitter-laurentzavack.blogspot.com/2009/03/on-lappelaient-sodomy-integral.html), Laurent Zavack a mis en scène deux mecs qui fantasment.
+Avec sa nouvelle [On l'appelait Sodomy](http://erotwitter-laurentzavack.blogspot.com/2009/03/on-lappelaient-sodomy-integral.html), Laurent Zavack a mis en scène deux mecs qui fantasment.
 
 On peut tout imaginer à partir de là. Une foule de gens peuvent se parler comme c’est le cas en fait sur Twitter tout simplement. À cette nouvelle forme de communication, quelque peu différente du SMS via téléphone, correspondra nécessairement une forme littéraire. Peut-être qu’elle ne produira que quelques œuvres, comme le cubisme n’a produit que quelques tableaux, mais ça vaut la peine d’expérimenter.
 
 Maintenant pourquoi se limiter à 140 caractères sinon pour jouer avec la contrainte (et retomber dans la première catégorie) ? Zavack enchaîne les SMS et donc passe par-dessus la limite des 140 caractères. Logique puisqu’un émetteur peut bombarder avec ses SMS sans laisser de temps aux autres de répondre.
 
-Rester attaché aux SMS serait une forme de réalisme. Décrire ce qui se passe entre les gens au début du vingt-et-unième siècle. Je suis sûr que ce sera archéologiquement intéressant, donc littérairement intéressant. Faut écrire ça maintenant car demain plus personne n’aura envie. It’s the right timeframe.
+Rester attaché aux SMS serait une forme de réalisme. Décrire ce qui se passe entre les gens au début du vingt-et-unième siècle. Je suis sûr que ce sera archéologiquement intéressant, donc littérairement intéressant. Faut écrire ça maintenant car demain plus personne n’aura envie. It's the right timeframe.
 
 ### Journal
 
-Voir Twitter comme un journal et publier ce journal. [Première expérience tentée](http://www.actualitte.com/actualite/8923-internet-papier-twitter-roman-publication.htm). Après tout c’est fait pour ça Twitter, pour dire ce qu’on pense quand on le pense. C’est un journal en continu et lu en continu. Ça aussi c’est nouveau, très différent du blog, encore plus synchrone… et en phase avec l’idée d’une conscience globale.
+Voir Twitter comme un journal et publier ce journal. [Première expérience tentée](http://www.actualitte.com/actualite/8923-internet-papier-twitter-roman-publication.htm). Après tout c'est fait pour ça Twitter, pour dire ce qu’on pense quand on le pense. C’est un journal en continu et lu en continu. Ça aussi c’est nouveau, très différent du blog, encore plus synchrone… et en phase avec l’idée d’une conscience globale.
 
 ### Poésie
 
 C’est un retour à la contrainte, mais à une exploitation purement littéraire, à mon sens ce qu’a pu faire [Richtel](http://twitter.com/mrichtel) aux États-Unis. Compresser le langage, utiliser les codes SMS, jouer avec la phonétique… Je n’ai pas assez usé du SMS moi-même pour m’essayer à cette forme. Toute une génération parle le SMS et c’est à eux d’y aller. Ils ont déjà écrit des livres en langage SMS, ils peuvent le faire en live maintenant…
+
+Tags: Croisade, Twiller, Twittérature

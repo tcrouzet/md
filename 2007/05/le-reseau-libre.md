@@ -31,3 +31,5 @@ En tout cas, je suis totalement contre une initiative comme [vivreavecsarkozy.co
 *PS 2 : Le réseau libre n’a aucun lien avec le cinquième pouvoir, il ne se veut pas un contre pouvoir mais un facilitateur de dialogue. Son ambition serait de favoriser l’esprit gagnant-gagnant.*
 
 *PS 3 : Le cinquième pouvoir doit, quant à lui, continuer son chemin, s’affirmant comme contre pouvoir dès que nécessaire ou comme force de proposition aussi souvent que possible. Le réseau libre devrait ainsi être particulièrement à son écoute.*
+
+Tags: noepub

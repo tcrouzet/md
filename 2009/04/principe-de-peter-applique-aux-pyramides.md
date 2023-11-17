@@ -1,14 +1,14 @@
 # Principe de Peter appliqué aux pyramides
 
-![complexe1](https://tcrouzet.com/images_tc/2009/04/complexe1.jpg)
+![complexe1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/04/complexe1.jpg)
 
-> Tout employé tend à s’élever à son niveau d’incompétence.
+> Tout employé tend à s'élever à son niveau d'incompétence.
 
 C’est un principe que j’ai vite appris dès que j’ai commencé à travailler dans une pyramide. Et plus je me suis élevé, plus j’ai constaté que la probabilité de croiser des incompétents augmentait. Puis j’ai fini moi-même par atteindre mon niveau d’incompétence. Alors je me suis sabordé plutôt que de m’encrouter dans une position où je n’aurais fait que ralentir les autres.
 
 À lui seul, le principe de Peter explique pourquoi une structure pyramidale finit par se scléroser. Pour éviter ce piège, elle doit grossir en injectant à tous les échelons de nouveaux employés. Ainsi, passée la taille où le management familial fonctionne, une structure pyramidale ne peut que croître ou s’effondrer. C’est une des raisons qui explique pourquoi dans le top 500 des entreprises américaines plus de 50 % n’existaient pas il y a 20 ans.
 
-Cette nécessité de la croissance pose en soit un problème dans un monde où la croissance ne peut qu’être compromise mais ce n’est pas l’objet direct de mon propos. Je voudrais essayer de montrer en quoi une structure pyramidale est impropre pour résoudre [les problèmes complexes](https://tcrouzet.com/2009/04/17/complexe-ou-complique/).<span id="more-6028"></span>
+Cette nécessité de la croissance pose en soit un problème dans un monde où la croissance ne peut qu’être compromise mais ce n’est pas l’objet direct de mon propos. Je voudrais essayer de montrer en quoi une structure pyramidale est impropre pour résoudre [les problèmes complexes](http://blog.tcrouzet.com/2009/04/17/complexe-ou-complique/).<span id="more-6028"></span>
 
 ### Le Mikado comme métaphore
 

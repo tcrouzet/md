@@ -28,16 +28,16 @@ Maintenant qui choisir pour poser les graines qui électriseront le week-end ? 
 
 6. [Nassim Nicolas Taleb](http://www.fooledbyrandomness.com/) chez les traders et les philosophes, pour se moquer des économistes (réflexe aujourd’hui vital).
 
-7. Éric Cantona chez les people et les ex-sportifs, il n’a pas oublié d’être provoquant.
+7. Éric Cantona chez les people et les ex-sportifs, il n’a pas oublié d'être provoquant.
 
 8. [Keny Arkana](http://www.keny-arkana.com/) chez les musicos, les jeunes et les révoltés.
 
-9. [Mehdi Snene](http://cui.unige.ch/~snene/index.html) chez les hackers et en même temps les professeurs d’informatique, parce qu’ils sont les seuls véritables maîtres du monde.
+9. [Mehdi Snene](http://cui.unige.ch/~snene/index.html) chez les hackers et en même temps les professeurs d'informatique, parce qu’ils sont les seuls véritables maîtres du monde.
 
-10. [Gregory Chaitin](https://tcrouzet.com/2006/03/01/jupp-vs-chaitin/) chez les mathématiciens pour une fois encore provoquer le vertige métaphysique.
+10. [Gregory Chaitin](http://blog.tcrouzet.com/2006/03/01/jupp-vs-chaitin/) chez les mathématiciens pour une fois encore provoquer le vertige métaphysique.
 
-11. [François Collet](http://www.lafinducapitalisme.net/) chez les politiciens, parce qu’il n’appartiendra jamais à aucun parti, parce qu’il veut réinventer la pub en la détruisant, parce qu’il annonce depuis longtemps la fin du capitalisme.
+11. [François Collet](http://www.lafinducapitalisme.net/) chez les politiciens, parce qu'il n'appartiendra jamais à aucun parti, parce qu'il veut réinventer la pub en la détruisant, parce qu'il annonce depuis longtemps la fin du capitalisme.
 
 12. Matthieu Ricard chez les sages et les généticiens, parce que notre siècle sera spirituel et technologique.
 
-Ok, il y a trop d’hommes et pas assez de jeunes. Mais c’était juste pour le plaisir d’ouvrir quelques pistes.
+Ok, il y a trop d'hommes et pas assez de jeunes. Mais c'était juste pour le plaisir d'ouvrir quelques pistes.

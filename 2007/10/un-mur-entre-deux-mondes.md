@@ -2,13 +2,13 @@
 
 
 
-![Pacco](https://tcrouzet.com/images_tc/2007/10/pacco3.jpg)
+![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/pacco3.jpg)
 
 Ces deux visions n’opposent pas des pays, des générations, des entreprises, des religions… mais des hommes peu importe leur milieu social, leur nation ou la couleur de leur peau. Pour ne rien simplifier, ces deux visions s’interpénètrent et se brouillent.
 
-[D’un côté nous avons, les autoritaristes, de l’autre, les libertariens](http://www.politicalcompass.org/analysis2) (je préfère les appeler freemen ou hommes libres). Ces deux termes effraient. Vous vous dites sans doute je suis ni l’un ni l’autre. Et vous avez raison. La réalité n’est pas aussi simpliste. En plus, autoritariste fait penser à dictateur, libertarien à ces fouteurs de merde d’anarchistes. « Non, ce c’est pas moi. » Et pourtant !
+[D’un côté nous avons, les autoritaristes, de l’autre, les libertariens](http://www.politicalcompass.org/analysis2) (je préfère les appeler freemen ou hommes libres). Ces deux termes effraient. Vous vous dites sans doute je suis ni l'un ni l’autre. Et vous avez raison. La réalité n'est pas aussi simpliste. En plus, autoritariste fait penser à dictateur, libertarien à ces fouteurs de merde d’anarchistes. « Non, ce c’est pas moi. » Et pourtant !
 
-Pensez-vous que certains hommes travaillent mieux si certains autres hommes leur disent quoi faire ? Pensez-vous qu’il existe toujours des méthodes pas à pas pour résoudre les problèmes ? Pensez-vous qu’un expert doit toujours être consulté avant de prendre une décision sociétale ? Pensez-vous qu’il faut créer des commissions internationales et des organisations supranationales ? Pensez-vous que les entreprises doivent posséder des organigrammes clairs ? Pensez-vous que les choses doivent être délimitées, les champs d’action bornés, les initiatives régulées ?
+Pensez-vous que certains hommes travaillent mieux si certains autres hommes leur disent quoi faire ? Pensez-vous qu’il existe toujours des méthodes pas à pas pour résoudre les problèmes ? Pensez-vous qu’un expert doit toujours être consulté avant de prendre une décision sociétale ? Pensez-vous qu’il faut créer des commissions internationales et des organisations supranationales ? Pensez-vous que les entreprises doivent posséder des organigrammes clairs ? Pensez-vous que les choses doivent être délimitées, les champs d'action bornés, les initiatives régulées ?
 
 Si oui, même un tout petit oui, à l’une de ces questions, vous êtes un tant soi peu en faveur de l’autoritarisme. Au fond, vous pensez que certains peuvent commander à d’autres pour favoriser l’intérêt général.
 
@@ -39,3 +39,5 @@ Malheureusement, les hommes qui prennent goût au pouvoir à petite échelle ont
 2. Internet est un nouveau territoire, un nouvel outil, un nouveau média… Il devient ainsi une arme électorale. Nous avons par exemple joué avec lui durant la campagne présidentielle.
 
 3. Maintenant, tout ce qui touche à internet ne touche pas nécessairement au cinquième pouvoir. On peut faire de la politique sur internet sans participer au cinquième pouvoir. Les deux choses n’ont pas nécessairement de rapport.
+
+Tags: anarchisme

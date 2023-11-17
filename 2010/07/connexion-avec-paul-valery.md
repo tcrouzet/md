@@ -2,7 +2,7 @@
 
 Isabelle a rangé par ordre alphabétique les livres de notre bibliothèque, les siens et les miens, qui depuis dix ans étaient dans le plus grand désordre. Maintenant, elle regarde ce que nous avons sur les auteurs qu’elle croise au fil de ses lectures. Elle clique en quelque sorte de livre en livre. Elle est tombée sur mon vieil exemplaire de *Tel quel* de Paul Valéry.<span id="more-18098"></span>
 
-Je l’ai lu il y a peut-être 25 ans et l’ai digéré au point d’être incapable de parler de ce texte, mais Isabelle a collectionné une série de citations qui toutes pourraient prendre place dans [*L’alternative nomade*](https://tcrouzet.com/alternative-nomade/) et dans les scribouilleries qui m’occupent en ce moment.
+Je l’ai lu il y a peut-être 25 ans et l’ai digéré au point d’être incapable de parler de ce texte, mais Isabelle a collectionné une série de citations qui toutes pourraient prendre place dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) et dans les scribouilleries qui m’occupent en ce moment.
 
 > Rien de plus original, rien de plus soi que de se nourrir des autres. Mais il faut les digérer. Le lion est fait de mouton assimilé.
 
@@ -39,3 +39,5 @@ Mais d’où me vient cette proximité avec Paul Valéry ?
 1. Du fait que je l’ai un peu lu et qu’ils m’influencent toujours subliminalement.
 2. Du fait qu’il était un génial visionnaire, ce qui me pousse à le réécrire malgré moi, en même temps que ses visions se réalisent.
 3. Du fait que je suis né 92 ans après lui à Sète et que nous avons respiré le même air durant nos années fondatrices.
+
+Tags: littérature, NetLittérature, une

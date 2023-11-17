@@ -2,7 +2,7 @@
 
 « Vous êtes tous pourris, vous avez compris ? Vous êtes en état avancé de décomposition. Vous n’existez même pas. » Voici comment je pourrais résumer la pensée de Finkielkraut au sujet du Net après avoir écouté son [entretien avec Pierre Lévy](http://www.youtube.com/user/JimOnTheAir#p/c/82D09F615BCFBDFE) organisé par Michel Alberganti sur France Culture.<span id="more-11217"></span>
 
-Mise en garde. Ma lecture est biaisée. Je suis en train d’écrire un livre sur [la fluidification de l’information, de la société et de l’homme](https://tcrouzet.com/tag/flux/). Pour moi, c’est un phénomène en grande partie positif, même s’il engendre pas mal de bouleversements (mais le bouleversement est-il négatif ?).
+Mise en garde. Ma lecture est biaisée. Je suis en train d’écrire un livre sur [la fluidification de l’information, de la société et de l’homme](http://blog.tcrouzet.com/tag/flux/). Pour moi, c’est un phénomène en grande partie positif, même s’il engendre pas mal de bouleversements (mais le bouleversement est-il négatif ?).
 
 Quand Finkielkraut s’exclame que « Le net est le lieu de la liquéfaction. », je ne peux qu’être d’accord mais, contrairement à lui, je ne trouve pas ça catastrophique. Deux visions s’opposent. On revient à l’éternel débat entre essentialistes et anti-essentialistes.
 
@@ -36,7 +36,7 @@ Soyons clair, ces hiérarchies sont toutes relatives. Les auteurs qu’on place 
 
 Finkielkraut semble surtout ignorer que le web est hiérarchisé : popularité, autorité, tagué… Sans ces hiérarchies, il n’y aurait pas de Google. Mais ces hiérarchies sont relatives soit à des algorithmes, soit à des classements manuels. Ces hiérarchies cohabitent, se concurrencent.
 
-Le web n’est pas un monde égalitaire mais un monde de liberté. Je ne vois pas de rapport entre égalité et liberté. C’est la démocratie qui tente de lier les deux concepts mais le web n’est pas démocratique. Il est fraternel peut-être, libertaire à coup sûr, mais pas égalitaire. Deux hiérarchies ne se valent pas, ça n’a tout simplement aucun sens de les comparer.
+Le web n’est pas un monde égalitaire mais un monde de liberté. Je ne vois pas de rapport entre égalité et liberté. C’est la démocratie qui tente de lier les deux concepts mais le web n’est pas démocratique. Il est fraternel peut-être, libertaire à coup sûr, mais pas égalitaire. Deux hiérarchies ne se valent pas, ça n'a tout simplement aucun sens de les comparer.
 
 ### Du fleuve
 
@@ -67,3 +67,5 @@ Finkielkraut finit par avouer qu’il ne sait pas surfer, qu’il ne sait pas se
 J’ai envie de courir au Canada embrasser Pierre Lévy.
 
 *PS : La position de Finkielkraut est en fait parfaitement logique. Comme il ne maîtrise pas internet, il ne peut pas le défendre. Comme il aime donner son avis sur tout, il ne peut donc que critiquer internet.*
+
+Tags: NetCulture

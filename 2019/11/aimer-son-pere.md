@@ -4,7 +4,7 @@ Nous autres auteurs sommes d’éternels insatisfaits. Qu’on ne parle pas de n
 
 La vérité n’est pas si simple. Le paradoxe : j’ai vécu une enfance heureuse, malgré les coups de folie de mon père et la pression psychologique qu’ils exerçaient sur nous. Pour mettre les points sur les i, voici une collection de réponses, parfois redondantes, à quelques questions récurrentes qui m’ont été posées depuis la sortie du livre.
 
-![Mon père, 20 ans](https://tcrouzet.com/images_tc/2019/11/SOLOCOUV.jpeg)
+![Mon père, 20 ans](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/SOLOCOUV.jpeg)
 
 *— Pourquoi ce roman ?*
 
@@ -16,7 +16,7 @@ La vérité n’est pas si simple. Le paradoxe : j’ai vécu une enfance heure
 
 Tant que mon père vivait, je ne pouvais pas imaginer écrire un tel livre, encore moins imaginer le publier. J’aurais été incapable de me libérer, de tout dire, autant mon amour que mes peurs. Il a fallu qu’il meure pour que je puisse écrire ce livre. Il a fallu qu’il me laisse cette lettre que j’étais incapable d’ouvrir. Au bout de trois ans, au printemps 2017, la situation étant intenable, j’ai commencé à écrire dans l’espoir de trouver le courage d’ouvrir la lettre. Initialement le manuscrit s’appelait *La lettre de mon père*.
 
-![Mon père au guidon](https://tcrouzet.com/images_tc/2019/11/HOURTIN-MOTO.jpeg)
+![Mon père au guidon](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/HOURTIN-MOTO.jpeg)
 
 *— Vous avez jusqu’à présent écrit des livres de genre. Pourquoi ?*
 
@@ -34,7 +34,7 @@ Ce n’est pas moi qui me suis rangé dans des genres, mais mes éditeurs succes
 
 Maintenant, je suis conscient que [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/) a une couleur différente de mes autres textes (ils ont tous des couleurs différentes). Je dis que c’est mon « roman français », parce qu’il épouse la forme classique des romans dits littéraires chez nous. Il s’ancre dans l’histoire de France, la guerre d’Algérie, traite du rapport père fils, de l’héritage, de la transmission, sujets éternels, il parle de sentiments et d’émotions, il ne verse pas dans l’essai, il ne questionne pas l’hypercontemporain comme je le fais d’habitude en parlant de technologie et de science.
 
-![Mon père avec un livre](https://tcrouzet.com/images_tc/2019/11/LIVREb.jpg)
+![Mon père avec un livre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/LIVREb.jpg)
 
 *— Est-ce que ce livre a changé votre rapport à l’acte d’écriture ? À la publication ?*
 
@@ -46,7 +46,7 @@ J’étais conscient de tenir un livre différent de mes autres livres, paradoxa
 
 J’ai l’impression que c’est vraiment mon premier livre, le premier où je suis tout entier. Dans les autres, j’ai toujours joué un rôle, pris une posture, je me cachais.
 
-![Le piton Gabriel](https://tcrouzet.com/images_tc/2019/11/Gabriel.jpg)
+![Le piton Gabriel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/Gabriel.jpg)
 
 *— Quelle est la part de fiction dans votre livre ? Comment définiriez-vous ce texte : roman ou autobiographie ?*
 
@@ -62,7 +62,7 @@ Il ne s’agit pas d’un roman historique même s’il se déroule sur fond d�
 
 Seule la littérature pouvait m’aider à plonger dans la réalité fictive de mon père, pour peu à peu m’aider à le réinventer jusqu’à moins le craindre et trouver le courage d’ouvrir sa lettre.
 
-![Mon père devant son GMC](https://tcrouzet.com/images_tc/2019/11/GMCDEBOUT.jpeg)
+![Mon père devant son GMC](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/GMCDEBOUT.jpeg)
 
 *— Vous êtes-vous beaucoup documenté pour écrire votre livre ?*
 
@@ -80,15 +80,15 @@ Mais je n’ai pas fait d’enquête pour démêler le vrai du faux. Je n’ai p
 
 Mon but n’était pas la véracité, mais de faire la paix avec mon père.
 
-![Photo retrouvée, mon père à droite](https://tcrouzet.com/images_tc/2019/11/GABRIEL-BORDEAUXb.jpg)
+![Photo retrouvée, mon père à droite](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/GABRIEL-BORDEAUXb.jpg)
 
 *— Quelles sont vos influences littéraires, vos références ?*
 
 — J’ai digéré et amalgamé mes influences depuis longtemps. Gombrowicz. Rousseau. Flaubert. Proust. Gide. Hemingway. Les auteurs américains de science-fiction de l’âge d’or. Les Nouveaux Romanciers, puis Perec, Lovrecraft, Kundera, Manchette, Simenon, Bouvier, Chatwin. J’aime les auteurs minimalistes, je déteste les baroques. Je n’ai jamais réussi à lire *Cent ans de solitude*, mais j’ai paradoxalement adoré *Sous le volcan*. Des cinéastes comme Tarkovski, Antonioni ou Rozier m’ont peut-être davantage influencé que n’importe quel écrivain. Je ne voue aucun culte aux auteurs de ma génération, même si j’admire Jon Krakauer. Mes compagnons d’écriture sont souvent des blogueurs, qui pour la plupart ont peu publié de livres, voire aucun parce que leur forme ne se prête pas au format livre.
 
-*– Qu’est-ce qui est vrai, qu’est-ce qui est fictif ?*
+*- Qu’est-ce qui est vrai, qu’est-ce qui est fictif ?*
 
-– Un copain m’a dit « Génial le coup de la lettre » comme si c’était un artifice scénaristique. Malheureusement non. Tout commence avec cette lettre, bien réellement effrayante pour moi (et pour ma mère). Après il y a mes souvenirs, certains remontant à mon enfance, donc déjà sujets à caution. Il y a mon rapport à mon père avec lequel je n’ai jamais triché, en tout cas volontairement. Trois ans après sa mort, il y a ma volonté d’ouvrir enfin sa lettre, de ne pas passer le restant de ma vie en la sachant cachetée dans un tiroir. Et avant, il y a la nécessité de comprendre mon père, de me mettre à sa place écrivant cette lettre, donc de revivre son parcours, de revivre sa guerre d’Algérie et ses propres traumatismes.
+\- Un copain m’a dit « Génial le coup de la lettre » comme si c’était un artifice scénaristique. Malheureusement non. Tout commence avec cette lettre, bien réellement effrayante pour moi (et pour ma mère). Après il y a mes souvenirs, certains remontant à mon enfance, donc déjà sujets à caution. Il y a mon rapport à mon père avec lequel je n’ai jamais triché, en tout cas volontairement. Trois ans après sa mort, il y a ma volonté d’ouvrir enfin sa lettre, de ne pas passer le restant de ma vie en la sachant cachetée dans un tiroir. Et avant, il y a la nécessité de comprendre mon père, de me mettre à sa place écrivant cette lettre, donc de revivre son parcours, de revivre sa guerre d’Algérie et ses propres traumatismes.
 
 À ce moment, la fiction s’impose parfois, parce qu’il y a des trous dans ce que mon père m’a raconté, il y a des incohérences, il y a la nécessité de donner une continuité à une vie pour me la rendre intelligible, comme est intelligible un personnage romanesque. C’est d’ailleurs une des propriétés du roman : rendre des êtres humains compréhensibles alors que dans la vie c’est toujours plus compliqué (en cela le roman est toujours mensonge même s’il donne l’illusion de réel). Je n’ai pas cherché à vérifier les faits de guerre racontés par mon père et j’ai été obligé de leur donner de la chair, de les rendre réels, ce qui parfois a impliqué d’imaginer d’autres faits préalables ou subséquents. En revanche, je n’ai ni ajouté ni retiré de morts, c’était déjà suffisamment violent. La volonté de véracité dans la reconstruction de mon père m’a paradoxalement souvent poussé vers la fiction.
 
@@ -96,4 +96,8 @@ Mon but n’était pas la véracité, mais de faire la paix avec mon père.
 
 — Certains lecteurs on dit que c’était une déclaration d’amour d’un fils pour un père, je n’ai rien à rajouter. L’amour malgré tout, l’amour pour le meilleur et pour le pire. Je n’ai pas écrit un livre de guerre, mais un livre d’amour, et mon prochain roman sera encore une histoire d’amour.
 
-![Carte du roman](https://tcrouzet.com/images_tc/2019/11/carte.png)
+![Carte du roman](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/11/carte.png)
+
+
+
+Tags: Autobiographie, une

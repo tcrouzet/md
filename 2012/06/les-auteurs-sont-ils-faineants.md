@@ -12,7 +12,7 @@ Si vous êtes l’auteur d’œuvres indisponibles, publiez-les immédiatement p
 
 1. [Des dizaines d’éditeurs numériques](http://ple-consulting.blogspot.fr/2011/04/plus-de-30-editeurs-pure-players.html) seront heureux d’accueillir vos textes, tout en vous proposant des droits numériques de l’ordre de 50 % du prix de vente.
 2. Au titre d’auto-entrepreneur, récupérez des ISBN et ouvrez un compte chez [immateriel.fr](http://www.immateriel.fr/) pour diffuser automatiquement sur toutes les plateformes (Apple, Amazon, Fnac…) tout en disposant de statistiques de vente unifiées.
-3. [Publiez en direct sur les plateformes](https://tcrouzet.com/2010/09/10/comment-publier-sur-apple-ibookstore/) pour maximiser vos marges (vous pouvez même négocier avec Google Books). [Jean-Claude Dunyach propose des tutoriaux.](http://jean-claude.dunyach.pagesperso-orange.fr/Ebooks_files/Comment_vendre_ses_livres_numeriques.pdf)
+3. [Publiez en direct sur les plateformes](http://blog.tcrouzet.com/2010/09/10/comment-publier-sur-apple-ibookstore/) pour maximiser vos marges (vous pouvez même négocier avec Google Books). [Jean-Claude Dunyach propose des tutoriaux.](http://jean-claude.dunyach.pagesperso-orange.fr/Ebooks_files/Comment_vendre_ses_livres_numeriques.pdf)
 
 ### Do It pas toi-même
 
@@ -36,8 +36,10 @@ Alors battez-vous sur le nouveau terrain de bataille. Ne tirez plus vos missiles
 
 Dorénavant, nous avons le pouvoir. Ne l’oubliez pas. Ne perdez plus de temps à discuter avec ceux qui ne l’ont plus (et qui vous font croire qu’ils l’ont encore).
 
-*PS1 : Je suis fainéant en écrivant un tel billet parce que j’aurais mieux fait de travailler à mon prochain livre (ce qui exige plus d’efforts, je l’avoue).*
+*PS1 : Je suis fainéant en écrivant un tel billet parce que j'aurais mieux fait de travailler à mon prochain livre (ce qui exige plus d'efforts, je l'avoue).*
 
-*PS2 : J’ai écrit ce texte du point de vue de l’auteur de textes mais je pense que les auteurs de BD et livres illustrés peuvent également faire la même chose. Il faut juste un peu plus de compétences pour créer les objets électroniques, mais rien d’insurmontable. Je lis tous les jours des BD au format CBZ/CBR sur mon iPad. [Commentaire ajouté suite au Tweet de Thomas Cadene.](https://twitter.com/ThomasCadene/status/216152563962220545)*
+*PS2 : J'ai écrit ce texte du point de vue de l'auteur de textes mais je pense que les auteurs de BD et livres illustrés peuvent également faire la même chose. Il faut juste un peu plus de compétences pour créer les objets électroniques, mais rien d'insurmontable. Je lis tous les jours des BD au format CBZ/CBR sur mon iPad. [Commentaire ajouté suite au Tweet de Thomas Cadene.](https://twitter.com/ThomasCadene/status/216152563962220545)*
 
-*PS3 : [indisponibles.fr, la suite de ce billet…](https://tcrouzet.com/2012/06/25/indisponibles-fr/)*
+*PS3 : [indisponibles.fr, la suite de ce billet...](http://blog.tcrouzet.com/2012/06/25/indisponibles-fr/)*
+
+Tags: eBook, édition, une

@@ -19,3 +19,5 @@ Si Sarkozy était tombé à cette occasion, que se serait-il passé ? Absolumen
 Une fois interconnectés, les gens se parlent et plus personne ne peut les faire taire. Mais détruire pour reconstruire à l’identique ce qu’on vient de détruire c’est du temps perdu, du sang qui coule pour rien. Avant de parler de nouveaux gouvernements, il faut passer par une phase constituante. Il faut réécrire le système d’exploitation de la société. Les Islandais se sont attaqués à ce travail. Il n’y a pas d’autres possibilités.
 
 Après chaque révolte, il faut imaginer des gouvernances de plus en plus décentralisées, de mieux en mieux adaptées à la complexité, de plus en plus en phase avec la structure hautement réticulaire de la société. Changer les hommes au pouvoir ne change jamais rien. C’est la nature même du pouvoir qu’il faut changer.
+
+Tags: NetCulture

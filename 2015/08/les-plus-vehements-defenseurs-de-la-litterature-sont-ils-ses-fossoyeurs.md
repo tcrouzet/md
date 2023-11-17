@@ -10,4 +10,6 @@ Aucun mot pour le déplacement des frontières qui se joue sur le Web, loin des 
 
 Je ne comprends pas comment des éditeurs littéraires peuvent encore accepter de recevoir des manuscrits (et même en parler). Aujourd’hui, la littérature se pêche. On va à sa recherche, on n’attend pas qu’elle arrive dans une boîte aux lettres. Cela vaut aussi pour les auteurs tentés par la Poste plutôt que par le Web, et qui préfèrent un refus de quelques éditeurs plutôt que de se risquer à se frotter immédiatement à quelques lecteurs.
 
-L’auteur qui envoie un manuscrit ne se range pas dans la littérature. Il se place sur le marché. Il envoie un produit et il mérite bien un refus sous forme d’une lettre type. Le marché n’a pas d’état d’âme. C’est tout le contraire de la littérature. Son âme ne s’arrête pas au livre, elle l’a débordé depuis longtemps. Parler de littérature, c’est s’intéresser à un espace en expansion.
+L'auteur qui envoie un manuscrit ne se range pas dans la littérature. Il se place sur le marché. Il envoie un produit et il mérite bien un refus sous forme d’une lettre type. Le marché n’a pas d’état d’âme. C’est tout le contraire de la littérature. Son âme ne s’arrête pas au livre, elle l’a débordé depuis longtemps. Parler de littérature, c’est s’intéresser à un espace en expansion.
+
+Tags: édition, une

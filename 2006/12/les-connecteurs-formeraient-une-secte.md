@@ -6,7 +6,7 @@ Hier dans un commentaire j’ai écrit :
 
 Quand je me lance dans ce genre d’envolée lyrique, emporté par l’enthousiasme, on m’accuse parfois d’être le gourou d’une secte – même quand j’essaie d’être très sérieux d’ailleurs… être sérieux je ne sais pas trop ce que ça veut dire car je suis persuadé que nous vivons pour nous amuser.
 
-Cette accusation à l’emporte pièce doit quelque peu énerver [Miguel Membrado](http://membrado.blogs.com) et [Bruno de Beauregard](http://debeauregard.typepad.com), en leur temps aussi accusés d’être membres d’une secte, au point d’être ruinés (je raconte dans *Le cinquième pouvoir*). C’était pour eux beaucoup moins amusant. Heureusement, je n’ai pas pour clients la DST et les RG… peut-être qu’ils me lisent un peu. Alors j’essaie de ne rien leur cacher. Ça existe la secte de la transparence ?
+Cette accusation à l’emporte pièce doit quelque peu énerver [Miguel Membrado](http://membrado.blogs.com) et [Bruno de Beauregard](http://debeauregard.typepad.com), en leur temps aussi accusés d'être membres d'une secte, au point d’être ruinés (je raconte dans *Le cinquième pouvoir*). C’était pour eux beaucoup moins amusant. Heureusement, je n’ai pas pour clients la DST et les RG… peut-être qu’ils me lisent un peu. Alors j’essaie de ne rien leur cacher. Ça existe la secte de la transparence ?
 
 Tout d’abord, je revendique ce que j’ai écrit dans ce commentaire, même si ça peut paraître ampoulé ou ridicule – j’aime Hermann Hesse et son style initiatique. Il est toujours plus difficile de proposer quelque chose de mieux que de casser comme la plupart des gens le font.
 
@@ -14,7 +14,7 @@ Plaçons-nous au temps où l’esclavage était chose admise et même chose bana
 
 Ces antiesclavagistes appartenaient-ils à une secte ? Je ne le pense pas. En leur temps, ils étaient utopistes, naïfs… tout ce que l’on voudra mais ils ne constituaient pas une secte, pas plus que les gens qui aujourd’hui pensent que la rémunération du capital n’est pas une obligation, que les chefs ne sont pas indispensables et que la croissance matérielle ne peut continuer infiniment dans un monde fini.
 
-Par rapport aux antiesclavagistes, je suis même beaucoup plus tolérant. Vous n’allez pas le croire. Je ne force personne à adopter de nouvelles formes d’organisation sociale. Je parie simplement que sans de nouvelles formes, pour une large part à inventer, nous ne réussirons pas à faire face aux problèmes sociaux et écologiques. J’essaie de proposer des pistes, en m’inspirant de l’organisation d’internet et de la plupart des réseaux naturels. C’est tout. Je ne suis pas très original.
+Par rapport aux antiesclavagistes, je suis même beaucoup plus tolérant. Vous n'allez pas le croire. Je ne force personne à adopter de nouvelles formes d’organisation sociale. Je parie simplement que sans de nouvelles formes, pour une large part à inventer, nous ne réussirons pas à faire face aux problèmes sociaux et écologiques. J’essaie de proposer des pistes, en m’inspirant de l’organisation d’internet et de la plupart des réseaux naturels. C’est tout. Je ne suis pas très original.
 
 Ces nouvelles formes peuvent germer dans l’ancien monde. Internet en est la preuve. Dee Hock l’a montré avec Visa. Nous ne sommes pas forcés de détruire l’ancien monde. Le nouveau apparaît au-dessus de lui, comme une extension. Chacun peut faire l’upgrade quand il le veut. Je n’ai cessé de parler de révolution douce dans *Le peuple des connecteurs*.
 
@@ -36,6 +36,8 @@ Donner un nom à des comportements ne fait pas des gens qui exhibent ces comport
 
 Les connecteurs participent à des réseaux qui s’interconnectent à vaste échelle. C’est tout, j’ai envie de dire. Et c’est beaucoup, car c’est révolutionnaire.
 
-Nous commençons par construire les autoroutes. Après nous allons commencer à construire. Faut pas mettre la charrue avant les bœufs. Trop de politiciens jouent à ce petit jeu. Ils veulent tout changer sans méthode. Ou plutôt avec les vieilles méthodes qui ne marchent plus. Je suis pour l’action mais pas à n’importe quel prix. [Ça c’est une petite pique à l’égard de Rachid Nekkaz](https://tcrouzet.com/2006/12/28/rdv-manque-avec-france-3/#comment-6063).
+Nous commençons par construire les autoroutes. Après nous allons commencer à construire. Faut pas mettre la charrue avant les bœufs. Trop de politiciens jouent à ce petit jeu. Ils veulent tout changer sans méthode. Ou plutôt avec les vieilles méthodes qui ne marchent plus. Je suis pour l’action mais pas à n’importe quel prix. [Ça c’est une petite pique à l’égard de Rachid Nekkaz](http://blog.tcrouzet.com/2006/12/28/rdv-manque-avec-france-3/#comment-6063).
 
 Le monde a changé. Nous devons nous changer aussi. Sinon la dichotomie risque de devenir invivable.
+
+Tags: Connecteur

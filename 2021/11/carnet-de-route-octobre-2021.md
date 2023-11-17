@@ -18,11 +18,11 @@ J’écris un texte pour Didier, une conférence qu’il doit donner sur un suje
 
 Je regarde *Foundation*, décevante série guimauve inspirée d’Asimov. Je persiste par nostalgie de mes lectures d’adolescence. Lointain futur, villes tentaculaires, comme si notre avenir ne devait pas être tout autre. Rien ne tient dans cette projection. Après trente ans sur une nouvelle planète, des pionniers en sont encore à vivre dans des yourtes alors qu’aujourd’hui, en Chine, dans la même durée, on construit des villes de plusieurs millions d’habitants.
 
-![Agde](https://tcrouzet.com/images_tc/2021/11/IMG_2448.jpeg)
+![Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2448.jpeg)
 
-![Agde](https://tcrouzet.com/images_tc/2021/11/IMG_2450.jpeg)
+![Agde](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2450.jpeg)
 
-![Marseillan](https://tcrouzet.com/images_tc/2021/11/IMG_2452.jpeg)
+![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2452.jpeg)
 
 ### Dimanche 3, Balaruc
 
@@ -40,21 +40,21 @@ Sortie vélo, préoccupée par un grincement. Je bois un coup, lâche la gourde,
 
 [Je rentre de la boucle à VTT, le genou a tenu](https://tcrouzet.com/2021/10/12/bikepacking-dans-lautomne-flamboyant-du-midi), la lumière translucide de l’automne a aidé, je me retrouve face au vide attendu. Les deux derniers tomes de *One Minute* à relire et je serai sans projet.
 
-![Cette lumière…](https://tcrouzet.com/images_tc/2021/11/IMG_2971.jpeg)
+![Cette lumière…](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2971.jpeg)
 
-![Cette lumière…](https://tcrouzet.com/images_tc/2021/11/IMG_2973.jpeg)
+![Cette lumière…](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2973.jpeg)
 
 ### Mardi 12, Balaruc
 
-![Cette lumière…](https://tcrouzet.com/images_tc/2021/11/IMG_2978.jpeg)
+![Cette lumière…](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2978.jpeg)
 
-![Cette lumière…](https://tcrouzet.com/images_tc/2021/11/IMG_2983.jpeg)
+![Cette lumière…](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2983.jpeg)
 
 ### Mercredi 13, Balaruc
 
 Je dépile l’administratif, repousse le moment du grand saut dans l’inconnu. Je ne suis sûr que d’une chose : je ne sais pas ne rien faire.
 
-![Poussan](https://tcrouzet.com/images_tc/2021/11/IMG_2995.jpeg)
+![Poussan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_2995.jpeg)
 
 ### Jeudi 14, Balaruc
 
@@ -88,9 +88,9 @@ Je lis des autobiographies et elles me parlent mieux que toutes les fictions. On
 
 ---
 
-Petite rencontre autour de *Résistants* à la médiathèque de Bédarieux. La bibliothécaire a parlé superbement de mon livre, je l’avais presque oublié.
+Petite rencontre autour de *Résistants* à la médiathèque de Bédarieux. La bibliothécaire a parlé superbement de mon livre, je l'avais presque oublié.
 
-![Bédarieux](https://tcrouzet.com/images_tc/2021/11/IMG_3015.jpeg)
+![Bédarieux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3015.jpeg)
 
 ### Samedi 16, Balaruc
 
@@ -102,21 +102,21 @@ La trace est l’œuvre et le récit que sa description. Impression de tourner e
 
 ### Dimanche 17, Balaruc
 
-![Mèze](https://tcrouzet.com/images_tc/2021/11/IMG_3034.jpeg)
+![Mèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3034.jpeg)
 
-![Mèze](https://tcrouzet.com/images_tc/2021/11/IMG_3051.jpeg)
+![Mèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3051.jpeg)
 
-![Mèze](https://tcrouzet.com/images_tc/2021/11/IMG_3041.jpeg)
+![Mèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3041.jpeg)
 
 ### Lundi 18, Balaruc
 
-![Marseillan](https://tcrouzet.com/images_tc/2021/11/IMG_3061-1.jpeg)
+![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3061-1.jpeg)
 
-![Marseillan](https://tcrouzet.com/images_tc/2021/11/IMG_3064.jpeg)
+![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3064.jpeg)
 
-![Marseillan](https://tcrouzet.com/images_tc/2021/11/IMG_3068.jpeg)
+![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3068.jpeg)
 
-![Marseillan](https://tcrouzet.com/images_tc/2021/11/IMG_3073.jpeg)
+![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3073.jpeg)
 
 ### Mardi 19, Balaruc
 
@@ -126,7 +126,7 @@ Je me sens penser différemment, plus lentement, plus linéairement. Mon cerveau
 
 J’ai regardé la série sur Orelsan, rapeur dont j’ignorais tout, jusqu’au nom avant de regarder le reportage de son frère sur son ascension médiatique. Sa musique ne me touche pas. Dans le même temps, j’ai écouté un podcast de France Culture sur le Velvet. Médiocre, où on recouvre la musique du Velvet par la voix d’une lectrice et d’un traducteur, ridicule montage.
 
-John Cale a l’intention de s’inscrire dans l’histoire de la musique, d’être après Beethoven et consorts. De faire une œuvre radicale. Orelsan est dans l’histoire du rap. Il ne décroche pas de la son genre. Mais son histoire me parle comme tout récit initiatique. J’aimerais que mes fils regardent ce reportage intimiste. Le gamin un peu gras, un peu mou, un peu fainéant, devient au fil des années une bête de scène et un travailleur infatigable. On voit comment une fois une vocation trouvée et assumée, on peut se transcender. Certes le succès aide, mais il n’est pas indispensable, comme j’ai essayé de le raconter dans mon autobiographie. Ce documentaire est la plus belle chose que j’ai vue depuis longtemps. Il tient parce qu’il a été filmé dans la durée, sans idée préalable de la destinée d’Orelsan.
+John Cale a l’intention de s’inscrire dans l’histoire de la musique, d’être après Beethoven et consorts. De faire une œuvre radicale. Orelsan est dans l’histoire du rap. Il ne décroche pas de la son genre. Mais son histoire me parle comme tout récit initiatique. J’aimerais que mes fils regardent ce reportage intimiste. Le gamin un peu gras, un peu mou, un peu fainéant, devient au fil des années une bête de scène et un travailleur infatigable. On voit comment une fois une vocation trouvée et assumée, on peut se transcender. Certes le succès aide, mais il n’est pas indispensable, comme j’ai essayé de le raconter dans mon autobiographie. Ce documentaire est la plus belle chose que j’ai vue depuis longtemps. Il tient parce qu'il a été filmé dans la durée, sans idée préalable de la destinée d'Orelsan.
 
 ---
 
@@ -144,17 +144,17 @@ Je craque pour le nouveau MacBook Pro. Je n’ai jamais acheté un ordi aussi ch
 
 ### Mercredi 20, Balaruc
 
-Désirs contradictoires. Envie de romanesque tout en sachant que je ne suis bon que dans l’autobiographique. Désir de l’initiatique, comme auteur pour transmettre, comme lecteur pour grandir. Peut-être envie de mixer le tout : être romanesque dans la transmission et l’autobiographie.
+Désirs contradictoires. Envie de romanesque tout en sachant que je ne suis bon que dans l'autobiographique. Désir de l'initiatique, comme auteur pour transmettre, comme lecteur pour grandir. Peut-être envie de mixer le tout : être romanesque dans la transmission et l'autobiographie.
 
-J’en reste à me poser des questions que je ne devrais plus me poser. Dans la voiture, allant chez ma dentiste, un titre : *Avoir soixante ans*. Une préparation à la maturité. Le héros serait vieux et soudain se mettrait à faire des choses que beaucoup de jeunes ne feraient pas.
+J'en reste à me poser des questions que je ne devrais plus me poser. Dans la voiture, allant chez ma dentiste, un titre : *Avoir soixante ans*. Une préparation à la maturité. Le héros serait vieux et soudain se mettrait à faire des choses que beaucoup de jeunes ne feraient pas.
 
 Une idée me revient. Un homme abandonne le métro pour le vélo. Puis, un jour, il passe au pied de son bureau et ne s’arrête pas. Alors il roule, droit vers le sud, droit vers la mer et la lumière. En chemin, il apprend à s’aimer, à aimer sa vie, à aimer la vie. Quand il rentre chez lui, il est un autre homme.
 
-Peut-être que dans cette trame je pourrais réunir mes aspirations. J’ai été cet homme du métro, qui détestait sa vie et accusait les autres d’être mal dans sa peau, puis j’ai changé, et le vélo continue de me changer. Il me provoque des émotions d’une intensité extraordinaire. Pas tant le vélo, que le fait d’être grâce à lui dehors, là où on ne va pas. Ce serait le récit d’une initiation tardive, comme quoi rien n’est définitif dans la vie.
+Peut-être que dans cette trame je pourrais réunir mes aspirations. J’ai été cet homme du métro, qui détestait sa vie et accusait les autres d’être mal dans sa peau, puis j’ai changé, et le vélo continue de me changer. Il me provoque des émotions d’une intensité extraordinaire. Pas tant le vélo, que le fait d’être grâce à lui dehors, là où on ne va pas. Ce serait le récit d'une initiation tardive, comme quoi rien n’est définitif dans la vie.
 
 ### Jeudi 21, Balaruc
 
-Suite à une espèce de dégoût, je décide ce matin de ne plus écouter la radio quand je petit-déjeune ou déjeune seul. Impression qu’être à l’écoute des autres m’éloigne de mon propre flux mental, donc réduit ma créativité. J’avais pris cette habitude début 2020 avec le Covid. Je m’éloigne des médias après m’être éloigné des réseaux sociaux. Privilégier les sources alternatives et les textes longs.
+Suite à une espèce de dégoût, je décide ce matin de ne plus écouter la radio quand je petit-déjeune ou déjeune seul. Impression qu’être à l'écoute des autres m’éloigne de mon propre flux mental, donc réduit ma créativité. J’avais pris cette habitude début 2020 avec le Covid. Je m’éloigne des médias après m’être éloigné des réseaux sociaux. Privilégier les sources alternatives et les textes longs.
 
 ---
 
@@ -170,7 +170,7 @@ Je viens d’écrire quelques pages pour poser mon idée de roman. La question, 
 
 ### Mercredi 27, Balaruc
 
-![Villeveyrac](https://tcrouzet.com/images_tc/2021/11/IMG_3659.jpeg)
+![Villeveyrac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3659.jpeg)
 
 ### Jeudi 28, Balaruc
 
@@ -186,12 +186,16 @@ Je me suis mis à écrire. Une musique s’est imposée. J’ai envoyé à Pierr
 
 François Bon raconte son autobiographie en vidéo. Il me paraît être le premier à explorer cette forme. Ses expérimentations de ces dernières années amenant à ce point précis. J’ai écrit la mienne de manière plus traditionnelle, mais peut-être qu’une autre s’écrit sur les chemins. Lui comme moi ne savons qu’une chose : pour nous dire, il nous faut arriver à notre forme, qui passe par les nouveaux outils pour dire en quoi notre vie est contemporaine. Pour François, la vidéo. Pour moi, le GPS. J’aimerais savoir comment Michon résoudrait cette équation. Dans le discret silence ? Peut-être la seule réponse face au brouhaha.
 
-![Frontignan](https://tcrouzet.com/images_tc/2021/11/IMG_3666.jpeg)
+![Frontignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3666.jpeg)
 
-![Frontignan](https://tcrouzet.com/images_tc/2021/11/IMG_3668.jpeg)
+![Frontignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3668.jpeg)
 
-![Frontignan](https://tcrouzet.com/images_tc/2021/11/IMG_3673.jpeg)
+![Frontignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3673.jpeg)
 
 ### Samedi 30, Balaruc
 
-![Dans les vagues](https://tcrouzet.com/images_tc/2021/11/IMG_3688.jpeg)
+![Dans les vagues](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/11/IMG_3688.jpeg)
+
+
+
+Tags: Carnets, une

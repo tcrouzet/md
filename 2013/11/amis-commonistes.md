@@ -14,7 +14,7 @@ Remarque : une ressource limitée peut devenir illimitée et inversement. Nous 
 
 Un commoniste réunit en une seule personne un écologiste (gestion des ressources limitées) et un libriste (gestion des ressources illimitées).
 
-![Commonisme](https://tcrouzet.com/images_tc/2013/11/buckmorss_title1.png)
+![Commonisme](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/11/buckmorss_title1.png)
 
 [Le commonisme est une éthique du partage.](http://globalization.gc.cuny.edu/2011/11/susan-buck-morss-a-commonist-ethics/1/) Ce qui est limité doit être économisé et partagé entre tous (commonisé), c’est un bien commun. Ce qui est illimité doit être multiplié et partagé entre tous, c’est un bien commun.
 
@@ -29,3 +29,5 @@ Pour que les ressources illimitées puissent être partagées, le commoniste veu
 Là où le communisme était centralisé, le commonisme est décentralisé. C’est la seule méthode envisageable pour gérer les communs (et la complexité afférente). [Nick Dyer-Witheford insiste sur cette différence.](http://turbulence.org.uk/turbulence-1/commonism/)
 
 Selon cette première esquisse, je me sens plutôt commoniste. Mais je sais déjà que si beaucoup de gens revendiquaient cette étiquette, je la fuirai. En devenant système, elle deviendrait autoritaire et se centraliserait.
+
+Tags: Commonisme, NetCulture, une

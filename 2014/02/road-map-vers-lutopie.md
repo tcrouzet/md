@@ -20,7 +20,7 @@ Il suffit de suivre un fil de news pour constater que quelque chose cloche dans 
 
 9. Les Américains ont perdu foi dans l’avenir
 
-10. Hollande et Obama appellent à un “accord ambitieux” sur le climat
+10. Hollande et Obama appellent à un "accord ambitieux" sur le climat
 
 11. Pétrole : ces projets géants qui partent à la dérive
 
@@ -81,3 +81,5 @@ Je prends conscience que le revenu de base, en nous offrant un revenu inconditio
 La militance pour les échanges non-marchands s’attaque au problème de façon moins profonde. C’est une première étape sur la route de l’utopie. Peut-être la seule praticable. Pour preuve, elle se développe depuis de nombreuses années. Elle peut se jouer des résistances gouvernementales, même les lois finiront par s’en accommoder.
 
 Quoi qu’il en soit, échanges non-marchands et revenu de base participent tous deux à l’économie de paix. Dans les deux cas, nous assistons à une entrave des forces de prédation de l’ancienne économie. Le pauvre et le riche accèdent aux mêmes biens culturels (biens communs). Le pauvre peut dire non au riche qui veut lui imposer sa volonté (revenue de base). Les gens se sentent moins obligés, plus libres. C’est un pas de plus vers la pacification sociale, et immédiatement vers un surplus d’intelligence collective, donc une chance de transiter, de dépasser la crise de la complexité et d’atteindre l’utopie.
+
+Tags: Commonisme, MRDB, Revenu de base, une

@@ -10,7 +10,7 @@ Sur les dos des livres anglo-saxons, les titres ne sont pas imprimés dans le m�
 
 Sous la pluie, Isa et moi testons la [géolecture](https://tcrouzet.com/geolecture/) avant le test grandeur nature la semaine prochaine.
 
-![Nettoyeurs](https://tcrouzet.com/images_tc/2018/03/20180205.jpg)
+![Nettoyeurs](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180205.jpg)
 
 ### Mardi 6, Balaruc
 
@@ -30,7 +30,7 @@ Fin mars, avec les copains de la littérature numérique, je participe à un [co
 
 ### Vendredi 9, Balaruc
 
-Je lis un article énervé de Karl Bubost sur [les fausses promesses du HTTPS](http://www.la-grange.net/2018/02/09/chimere-https) et la nécessité pour nous autres animateurs de sites de toujours mettre les mains dans le cambouis. Quelques minutes plus tard, je reçois une alerte de [Let’s Encrypt](https://letsencrypt.org/) me disant que dans un jour mon blog ne sera plus accessible. Me revoilà à bidouiller dans le shell Linux. Tout ça par la faute de Google qui tire le Web vers toujours plus de technologie pour toujours moins de liberté.
+Je lis un article énervé de Karl Bubost sur [les fausses promesses du HTTPS](http://www.la-grange.net/2018/02/09/chimere-https) et la nécessité pour nous autres animateurs de sites de toujours mettre les mains dans le cambouis. Quelques minutes plus tard, je reçois une alerte de [Let's Encrypt](https://letsencrypt.org/) me disant que dans un jour mon blog ne sera plus accessible. Me revoilà à bidouiller dans le shell Linux. Tout ça par la faute de Google qui tire le Web vers toujours plus de technologie pour toujours moins de liberté.
 
 ### Samedi 10, Balaruc
 
@@ -38,7 +38,7 @@ J’ai milité pour la décentralisation la plus totale, sous prétexte qu’ell
 
 > Both Bitcoin and Ethereum mining are very centralized, with the top four miners in Bitcoin and the top three miners in Ethereum controlling more than 50% of the hash rate.
 
-Comme pour le Web, on peut trouver des explications. Google et Facebook ont bénéficié de l’argent d’un monde financier centralisé, les quatre acteurs principaux du Bitcoin d’une technologie qui avantage les premiers entrants. Quoi qu’il en soit, il semble évident que la décentralisation absolue est une utopie. Pire, un monde décentralisé est sans doute bien plus injuste qu’un monde avec une petite dose de centralisation qui ambitionne la justice sociale. Sans régulation, un système décentralisé implique quelques gagnants qui emportent le jackpot et qui, de fait, recentralisent le système. En résumé, la décentralisation technique n’implique pas la décentralisation des usages, le contraire se produit.
+Comme pour le Web, on peut trouver des explications. Google et Facebook ont bénéficié de l’argent d’un monde financier centralisé, les quatre acteurs principaux du Bitcoin d’une technologie qui avantage les premiers entrants. Quoi qu’il en soit, il semble évident que la décentralisation absolue est une utopie. Pire, un monde décentralisé est sans doute bien plus injuste qu’un monde avec une petite dose de centralisation qui ambitionne la justice sociale. Sans régulation, un système décentralisé implique quelques gagnants qui emportent le jackpot et qui, de fait, recentralisent le système. En résumé, la décentralisation technique n'implique pas la décentralisation des usages, le contraire se produit.
 
 ### Dimanche 11, Balaruc
 
@@ -52,17 +52,17 @@ Ursula Le Guin s’est mise à blogger à 80 ans. Respect. [Réunis dans un livr
 
 Repérage officiel de la géolecture…
 
-![A black swan](https://tcrouzet.com/images_tc/2018/03/20180213_1.jpg)
+![A black swan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180213_1.jpg)
 
 ### Vendredi 16, Tignes
 
 Ce matin, avant le départ, je passe chez le dermato. Il me trouve un truc dans le dos, « Rien de grave, me dit-il. Faisons une biopsie dans un mois pour voir si c’est cancéreux ou non. » J’ai tenté de rester stoïque. Au même moment, mon ami scénariste me confirme que mon projet de roman d’amour est retenu. Me reste à écrire ce roman, maintenant.
 
-![Aube rose](https://tcrouzet.com/images_tc/2018/03/20180216_1.jpg)
+![Aube rose](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180216_1.jpg)
 
-![Aube rose](https://tcrouzet.com/images_tc/2018/03/20180216_2.jpg)
+![Aube rose](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180216_2.jpg)
 
-![Aube rose](https://tcrouzet.com/images_tc/2018/03/20180216_3.jpg)
+![Aube rose](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180216_3.jpg)
 
 ### Dimanche 18, Tignes
 
@@ -74,17 +74,17 @@ Suis-je entré dans l’âge à partir duquel j’aurai toujours mal quelque par
 
 ### Mardi 20, Tignes
 
-![Alpes](https://tcrouzet.com/images_tc/2018/03/20180220_1.jpg)
+![Alpes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180220_1.jpg)
 
 ### Mercredi 21, Tignes
 
-Pendant ce temps Isa est à New York. Et je me dis qu’un journal intime d’aujourd’hui devrait mêler plusieurs vies et plusieurs médias.
+Pendant ce temps Isa est à New York. Et je me dis qu'un journal intime d'aujourd'hui devrait mêler plusieurs vies et plusieurs médias.
 
-![Isa depuis New York](https://tcrouzet.com/images_tc/2018/03/20180221_1.jpg)
+![Isa depuis New York](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180221_1.jpg)
 
 ### Vendredi 23, Balaruc
 
-Les enfants me rendent fou. Impossible de les bouger le matin pour skier, le soir ils ne pensent qu’à jouer, ils se disputent avant de s’endormir, ça recommence au milieu de la nuit parce que l’un ou l’autre prend tout le lit, et ça empire le matin. La promiscuité ne nous vaut rien. Retour à la maison avec deux jours d’avance, d’autant que ma douleur inguinale me rend le ski désagréable.
+Les enfants me rendent fou. Impossible de les bouger le matin pour skier, le soir ils ne pensent qu’à jouer, ils se disputent avant de s’endormir, ça recommence au milieu de la nuit parce que l’un ou l’autre prend tout le lit, et ça empire le matin. La promiscuité ne nous vaut rien. Retour à la maison avec deux jours d’avance, d'autant que ma douleur inguinale me rend le ski désagréable.
 
 ### Dimanche 25, Balaruc
 
@@ -106,14 +106,18 @@ Nouvelle série de corrections sur *Mon père était un tueur* qui ne s’appell
 
 Balade glaciale sous une lumière aveuglante pour boucler ma géolecture autour de Pierre Ménard. La ville est sublime, mais impossible de m’alanguir pour écrire en extérieur.
 
-![Nîmes](https://tcrouzet.com/images_tc/2018/03/20180227_1.jpg)
+![Nîmes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180227_1.jpg)
 
 ### Mercredi 28, Balaruc
 
 Il neige… c’est assez rare pour nous émerveiller.
 
-![Neige](https://tcrouzet.com/images_tc/2018/03/20180228_2.jpg)
+![Neige](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180228_2.jpg)
 
-![Neige](https://tcrouzet.com/images_tc/2018/03/20180228_1.jpg)
+![Neige](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180228_1.jpg)
 
-![Neige](https://tcrouzet.com/images_tc/2018/03/20180228_3.jpg)
+![Neige](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180228_3.jpg)
+
+
+
+Tags: Carnets, une

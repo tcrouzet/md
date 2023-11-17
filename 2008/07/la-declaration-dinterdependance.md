@@ -1,6 +1,6 @@
 # Déclaration d&#8217;interdépendance
 
-Il y a deux ans je proposais [ma version de la déclaration d’interdépendance](https://tcrouzet.com/2006/06/27/declaration-d%e2%80%99interdependance/). Je reproduis ici la version publiée à la fin du [*Cinquième pouvoir*](https://tcrouzet.com/le-cinquieme-pouvoir/), en préliminaire d’une réappropriation de la [déclaration d’indépendance du cybermonde de John Perry Barlow](http://www.freescape.eu.org/eclat/1partie/Barlow/barlowtxt.html).<span id="more-2198"></span>
+Il y a deux ans je proposais [ma version de la déclaration d’interdépendance](http://blog.tcrouzet.com/2006/06/27/declaration-d%e2%80%99interdependance/). Je reproduis ici la version publiée à la fin du [*Cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), en préliminaire d’une réappropriation de la [déclaration d’indépendance du cybermonde de John Perry Barlow](http://www.freescape.eu.org/eclat/1partie/Barlow/barlowtxt.html).<span id="more-2198"></span>
 
 Albert Jacquard explique que nous ne pouvons étudier le monde qu’en décrivant les interactions entre les choses.
 
@@ -61,3 +61,5 @@ Quand une partie de l’humanité souffre, l’ensemble de la biosphère vacille
 ### Révolutionnaires
 
 La biosphère évolue, rien ne perdure inchangé, pas même l’espèce humaine. Quand la situation se modifie, nous devons imaginer autre chose. Quand on a peur du changement, on a le changement et la peur.
+
+Tags: Politique

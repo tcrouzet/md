@@ -16,7 +16,7 @@ Les universitaires pourraient nous aider à décrypter le présent mais ils ont 
 
 Je me suis fais la même remarque en lisant un très bon article de [Mark van Vugt](http://www.kent.ac.uk/psychology/department/people/van-vugtm/personal/index.htm) dans [NewScientist](http://www.newscientist.com/channel/being-human/mg19826601.900-follow-me-the-origins-of-leadership.html). Il parle de l’évolution des structures sociales et du leadership, mais sans projeter sur ce qui se produit aujourd’hui et pourrait advenir.
 
-![](https://tcrouzet.com/images_tc/2008/07/leader1.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/07/leader1.png)
 
 Je me suis amusé à ajouter une étape évolutive à son tableau. Je ne prétends pas prédire l’avenir, mais juste insister sur ce qui me semble se produire aujourd’hui et qui peut-être prendra de l’ampleur.
 
@@ -24,6 +24,8 @@ Je me suis amusé à ajouter une étape évolutive à son tableau. Je ne préten
 
 1. Mark van Vugt montre que la notion de leadership a évolué. Un chef d’état d’aujourd’hui aurait peut-être été un larbin à l’âge des chasseurs-cueilleurs.
 
-2. En ce sens dire qu’il y a toujours eux des chefs est absurde car le chef d’une époque ne ressemble pas à celui d’une autre. Lorsque le chef guide son peuple par l’exemple, [comme chez les Apaches](https://tcrouzet.com/2007/06/05/la-revanche-des-apaches/), il ne peut être comparé au chef d’une entreprise ou à un dictateur. Un chef qui guide par l’exemple n’est tout simplement pas un chef même s’il reste un leader.
+2. En ce sens dire qu’il y a toujours eux des chefs est absurde car le chef d’une époque ne ressemble pas à celui d’une autre. Lorsque le chef guide son peuple par l’exemple, [comme chez les Apaches](http://blog.tcrouzet.com/2007/06/05/la-revanche-des-apaches/), il ne peut être comparé au chef d’une entreprise ou à un dictateur. Un chef qui guide par l’exemple n’est tout simplement pas un chef même s’il reste un leader.
 
 3. Mark van Vugt relève que, au cours de notre histoire, nous avons vécu avec des formes le leadership peu adaptées au présent. Nous avons tendance à designer des leaders inadaptés à la complexité de nos sociétés.
+
+Tags: Politique

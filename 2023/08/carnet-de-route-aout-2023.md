@@ -181,3 +181,5 @@ Article improbable sur [*Le Peuple des Connecteurs*](https://www.evrefblog.ch/fr
 J’entrevois la possibilité d’un cycle romanesque intitulé *Le Grand remplacement*, où Zola serait l’héroïne récurrente, une IA littéraire.
 
 ![Paris](https://tcrouzet.com/images_tc/2023/08/IMG_3049.jpeg)
+
+Tags: Carnets, une

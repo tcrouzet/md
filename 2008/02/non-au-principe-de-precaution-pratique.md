@@ -43,3 +43,5 @@ Les gouvernements doivent prendre des mesures qui favorisent le bottom-up. Il ne
 Le centralisme est efficace seulement quand nous connaissons la solution. Le centralisme est efficace dans le cadre de la pensée industrielle, cette pensée qui procède étape par étape, qui sait à l’avance quel objectif elle veut atteindre. Dans un environnement complexe, cette démarche peut conduire au chaos. Croire que les États règleront le problème climatique par une approche centralisée me paraît dangereux. Le mieux qu’ils puissent faire est de nous inciter à trouver des solutions.
 
 Un gouvernement n’est pas là pour décider mais pour nous inciter à l’action.
+
+Tags: imprevisibilité

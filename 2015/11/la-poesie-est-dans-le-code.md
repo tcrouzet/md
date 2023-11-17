@@ -6,23 +6,26 @@ Un souvenir de juin 1996 m’est alors revenu. La date est précise parce que je
 
 Je me dis aujourd’hui que si cette unique page Web initialement publiée sur Europe Online, peu après [*Pensé de Sicile*](http://lab.tcrouzet.com/sicile1996/), est une œuvre, c’est par son texte JavaScript plus que par ce qui s’affiche et se donne à lire à l’écran. L’œuvre c’est donc ça :
 
-![Code javascript d'Interlaced, 1996.](https://tcrouzet.com/images_tc/2015/11/interlaced1s.png)
+![Code javascript d'Interlaced, 1996.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/interlaced1s.png)
 
 Plus que ça :
 
-![Trois générations possibles…](https://tcrouzet.com/images_tc/2015/11/interlaced2.png)
+![Trois générations possibles…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/interlaced2.png)
 
-Étudier ce genre de poésie, c’est donc aussi étudier le code qui la sous-tend. Dans ce code, on trouve imbriqués quatre vers d’inspiration haïku.
+Étudier ce genre de poésie, c’est donc aussi étudier le code qui la sous-tend. Dans ce code, on trouve imbriqués quatre vers d'inspiration haïku.
 
 > La lumière asperge le paysage
 > depuis la boule laiteuse du soleil.
 > 
 > 
+> 
 > Deux jeunes filles jouent aux raquettes.
+> 
 > 
 > 
 > Un ULM survole la plage,
 > traînant un panneau publicitaire.
+> 
 > 
 > 
 > Il est deux heures de l'après-midi,
@@ -30,3 +33,5 @@ Plus que ça :
 > les parasols presque inutiles.
 
 Je trouve ça assez vertigineux : poésie affichée, code la générant, poésie dans le code, code lui-même poétique… ça peut faire délirer.
+
+Tags: NetLittérature, une

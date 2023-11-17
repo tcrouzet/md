@@ -1,12 +1,12 @@
 # Partages marchands : un business plan n’est pas une théorie
 
-Laurent Fournier est un virulent critique du [commonisme](https://tcrouzet.com/2013/11/26/amis-commonistes/). Ses critiques m’ont souvent poussé ces derniers mois à écrire de nouveaux articles pour lui répondre directement ou indirectement. J’espère qu’il continuera à jouer son rôle stimulant, mais qu’il le fera sans rancœur, sans croire que nous nous sommes ligués pour étouffer sa [*Merchant Sharing Theory*](http://hal.archives-ouvertes.fr/docs/00/90/83/14/PDF/mstheory.pdf).<span id="more-35132"></span>
+Laurent Fournier est un virulent critique du [commonisme](http://blog.tcrouzet.com/2013/11/26/amis-commonistes/). Ses critiques m’ont souvent poussé ces derniers mois à écrire de nouveaux articles pour lui répondre directement ou indirectement. J’espère qu’il continuera à jouer son rôle stimulant, mais qu’il le fera sans rancœur, sans croire que nous nous sommes ligués pour étouffer sa [*Merchant Sharing Theory*](http://hal.archives-ouvertes.fr/docs/00/90/83/14/PDF/mstheory.pdf).<span id="more-35132"></span>
 
-Car c’est au nom de cette théorie qu’il critique le commonisme. Il estime avoir trouvé mieux, et nous serions dans l’erreur à rêver d’une société où le don jouerait un rôle bien plus important qu’aujourd’hui. C’est au nom de sa foi que Laurent tape comme un damné sur l’idée de légalisation des échanges non-marchands alors que sa proposition peut très bien coexister avec de nombreux modèles, le don comme le capitalisme le plus extrême.
+Car c’est au nom de cette théorie qu’il critique le commonisme. Il estime avoir trouvé mieux, et nous serions dans l’erreur à rêver d’une société où le don jouerait un rôle bien plus important qu’aujourd’hui. C’est au nom de sa foi que Laurent tape comme un damné sur l'idée de légalisation des échanges non-marchands alors que sa proposition peut très bien coexister avec de nombreux modèles, le don comme le capitalisme le plus extrême.
 
 Je n’ai peut-être rien compris à la proposition de Laurent. Pour moi, ce n’est pas une théorie, mais un business plan. Laurent nous propose un modèle original pour financer la création. Pour résumer, le créateur décide combien il veut gagner. Les premiers acheteurs paient un prix assez élevé pour le bien et le prix baisse peu à peu jusqu’à tendre vers zéro au moment où la somme visée est atteinte et où le bien passe automatiquement dans le domaine public. J’ai oublié de dire que les premiers acheteurs sont peu à peu remboursés de leur investissement initial. C’est un système d’enchère inversé.
 
-![Quand le nombre d'acheteurs augmente le revenu plafonne et le prix devient nul.](https://tcrouzet.com/images_tc/2014/04/fournier.png)
+![Quand le nombre d'acheteurs augmente le revenu plafonne et le prix devient nul.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/fournier.png)
 
 Je pense qu’il serait intéressant de créer une plateforme reposant sur ce mécanisme et de voir si elle a du succès. Cela nous dirait si les créateurs et les acheteurs ont envie de jouer ce jeu. Je suis prêt à fournir un texte en exclusivité pour expérimenter le jour où une plateforme sera opérationnelle.
 
@@ -18,11 +18,11 @@ En tant que créateur, ta proposition ne me séduit pas totalement.
 
 2. Je peux à la rigueur dire combien au minimum il me faut gagner pour vivre et continuer à créer. C’est pour ça que je défends le revenu de base. Il ne limite pas vers le haut les revenus, mais vers le bas. Il s’attaque à la pauvreté.
 
-3. Ton système demande aux premiers consommateurs de soutenir une œuvre nouvelle au moment de sa commercialisation. Il convient surtout aux créateurs connus. Il ne résout pas le financement de la création elle-même. Voilà pourquoi je préfère encore le crowdfunding. Les gens s’allient autour d’un projet, d’un rêve. [Ils créent des liens forts entre eux.](https://tcrouzet.com/2014/03/19/le-don-libere-et-rejouit/)
+3. Ton système demande aux premiers consommateurs de soutenir une œuvre nouvelle au moment de sa commercialisation. Il convient surtout aux créateurs connus. Il ne résout pas le financement de la création elle-même. Voilà pourquoi je préfère encore le crowdfunding. Les gens s’allient autour d’un projet, d'un rêve. [Ils créent des liens forts entre eux.](http://blog.tcrouzet.com/2014/03/19/le-don-libere-et-rejouit/)
 
 4. C’est un modèle consumériste, même s’il a en ligne de mire le domaine public, mais ce domaine public n’est accessible que selon le déplaisant point 1.
 
-5. Je préfère donc que l’auteur choisisse lui-même de libérer son œuvre et s’autorise à gagner beaucoup d’argent avec, ou d’en faire gagner beaucoup à une cause comme avec [*Le geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/).
+5. Je préfère donc que l’auteur choisisse lui-même de libérer son œuvre et s’autorise à gagner beaucoup d’argent avec, ou d’en faire gagner beaucoup à une cause comme avec [*Le geste qui sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/).
 
 6. Selon ton modèle, une œuvre qui ne trouve pas ses premiers acheteurs n’a aucune chance de gagner le domaine public (et les devises se font rares dans un système financier cannibalisé par l’oligarchie). En tant que créateur, je préfère être lu et ne rien gagner.
 
@@ -31,3 +31,5 @@ En tant que créateur, ta proposition ne me séduit pas totalement.
 8. Le commonisme a pour ambition la gestion harmonieuse des ressources rares et abondantes, c’est une philosophie, pas une plateforme d’échange sur Internet.
 
 J’imagine que tu as des réponses à la plupart de mes arguments, mais je crois que tu te méprises, pour commencer, sur la psychologie du créateur. Je peux donner mes œuvres sans renoncer à faire fortune avec elles. C’est mon opposition la plus franche à ta proposition.
+
+Tags: Commonisme, NetCulture, Revenu de base, une

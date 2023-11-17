@@ -1,6 +1,6 @@
 # T’es pas piraté, t’existes pas
 
-C’est ce que je me dis en découvrant un peu partout [les ebooks de la rentrée littéraire 2014](https://www.actualitte.com/usages/la-rentree-litteraire-2014-en-telechargement-pirate-52151.htm) en libre circulation, sauf mon [*Ératosthène*](https://tcrouzet.com/eratosthene/). Merde, c’est un affront.<span id="more-36915"></span>
+C’est ce que je me dis en découvrant un peu partout [les ebooks de la rentrée littéraire 2014](https://www.actualitte.com/usages/la-rentree-litteraire-2014-en-telechargement-pirate-52151.htm) en libre circulation, sauf mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/). Merde, c’est un affront.<span id="more-36915"></span>
 
 C’est surtout un coup dur pour l’édition électronique. Déjà que les éditeurs français ne sont pas chauds pour le numérique, si vous leur jetez des peaux de bananes dans les pattes, ils ne vont pas changer d’avis de si tôt.
 
@@ -14,6 +14,10 @@ N’empêche si je suis lecteur, je me pose des questions et je peux me laisser 
 
 Un mot pour les pirates. Retroussez-vous les manches. Traitez tous les auteurs à égalité, ou n’en traitez aucun. Vous êtes sectaires et vous ne vous montrez pour le moment qu’en suiveur de mode, ce n’est pas très encourageant, et ne donne pas une très belle image de vos motivations. Un peu de grandeur, bon sang.
 
-Un mot pour les lecteurs. N’oubliez pas que nous autres auteurs avons besoin de mettre quelques patates dans nos casseroles. Alors, si vous lisez nos livres, si vous les aimez, achetez-les après, en papier, en numérique, mais achetez-les.
+Un mot pour les lecteurs. N'oubliez pas que nous autres auteurs avons besoin de mettre quelques patates dans nos casseroles. Alors, si vous lisez nos livres, si vous les aimez, achetez-les après, en papier, en numérique, mais achetez-les.
 
-![Vu sur t411](https://tcrouzet.com/images_tc/2014/08/t411.jpg)
+![Vu sur t411](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/t411.jpg)
+
+
+
+Tags: eBook, édition, une

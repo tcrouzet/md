@@ -18,10 +18,12 @@ Best Regards
 
 ---
 
-Elle est édifiante. PEdALED sous-entend que j’aurais dû lire les notes en petits caractères avant d’utiliser leur produit si fragile, si délicat, si sophistiqué qu’il ne faut surtout pas qu’il effleure la nature, c’est-à-dire des graines un peu accrocheuses ou des branchettes à peine griffues. Faut pas croire que je fonce dedans par plaisir, je les évite autant que possible, mais parfois elles frottent un peu. À ce jour, je n’avais jamais vu un de mes maillots s’effilocher, même ceux en mérinos. Bravo PEdALED, oui, c’est possible, vous avez réussi à créer un produit incompatible avec les garrigues.
+Elle est édifiante. PEdALED sous-entend que j’aurais dû lire les notes en petits caractères avant d’utiliser leur produit si fragile, si délicat, si sophistiqué qu’il ne faut surtout pas qu’il effleure la nature, c’est-à-dire des graines un peu accrocheuses ou des branchettes à peine griffues. Faut pas croire que je fonce dedans par plaisir, je les évite autant que possible, mais parfois elles frottent un peu. À ce jour, je n’avais jamais vu un de mes maillots s’effilocher, même ceux en mérinos. Bravo PEdALED, oui, c'est possible, vous avez réussi à créer un produit incompatible avec les garrigues.
 
 PEdALED défend sa posture d’arnaque marqueking. Un site conçu pour les baroudeurs, qui les cible, mais avec des produits destinés à des cyclistes plus sages. Il y a donc mensonge sur la marchandise, et cette réponse du SAV en est la démonstration.
 
 > Vous autres cyclistes, soyez informés que nos fringues sont fragiles. Merci à Crouzet de faire notre pub.
 
 Ils ne sont même pas désolés. Ils sont même prétentieux. Alors aurais-je dû mettre à l’épreuve leur Tokaido ? Non, puisque PEdALED reconnaît la fragilité de ses produits. Ils n’ont même pas eu l’audace de me proposer une de leur veste en test. On est dans le marketing, on y reste. Mais dans la durée, le mépris des consommateurs ne paye jamais.
+
+Tags: Born to Bike, une

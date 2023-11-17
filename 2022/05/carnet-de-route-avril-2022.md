@@ -6,7 +6,7 @@
 
 [Retour de cinq jours de bikepacking dans des conditions mémorables.](https://tcrouzet.com/2022/04/07/bikepacking-tempetueux-dans-lherault/) Nous avons connu la tempête de tramontane, la neige, le froid, puis la douceur lumineuse. Inoubliable.
 
-![Cerisiers](https://tcrouzet.com/images_tc/2022/05/IMG_6948.jpeg)
+![Cerisiers](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_6948.jpeg)
 
 ### Mercredi 6, Balaruc
 
@@ -14,7 +14,7 @@ J’écris mon compte rendu de voyage à vélo avec empressement, parce que mon 
 
 ### Jeudi 7, Balaruc
 
-Je nous sens au bord d’une révolution. Je lis des articles sur la physique, la crise climatique, la guerre en Ukraine, la barbarie, l’injustice. Tout vacille et tremble sur ses bases comme à la veille d’une rupture radicale. Le monde est en train de basculer vers un nouvel état, et le dictateur russe tenterait de nous retenir dans le passé, en répétant des horreurs que nous croyons derrière nous. Tout change pour que rien ne change, et en même temps, le neuf veut naître, nous subjuguer, nous désorienter, parce qu’il est notre seule divinité. Nous sommes des créateurs et nous n’avons jamais été aussi proches du chef-d’œuvre. Les époques de bouleversement engendrent des œuvres bouleversantes. Ma génération a vécu jusque-là dans un confort qui l’a souvent privé de puissance. Un temps nouveau arrive.
+Je nous sens au bord d’une révolution. Je lis des articles sur la physique, la crise climatique, la guerre en Ukraine, la barbarie, l’injustice. Tout vacille et tremble sur ses bases comme à la veille d’une rupture radicale. Le monde est en train de basculer vers un nouvel état, et le dictateur russe tenterait de nous retenir dans le passé, en répétant des horreurs que nous croyons derrière nous. Tout change pour que rien ne change, et en même temps, le neuf veut naître, nous subjuguer, nous désorienter, parce qu’il est notre seule divinité. Nous sommes des créateurs et nous n’avons jamais été aussi proches du chef-d’œuvre. Les époques de bouleversement engendrent des œuvres bouleversantes. Ma génération a vécu jusque-là dans un confort qui l'a souvent privé de puissance. Un temps nouveau arrive.
 
 ### Vendredi 8, Balaruc
 
@@ -38,7 +38,7 @@ Campbell : « The ancient myths were designed to harmonize the mind and the bo
 
 Selon Campbell, en Inde, une tenue correspond à chaque âge de la vie. Est-ce que je ne me coupe plus les cheveux pour marquer cette transition vers un âge de plus d’équilibre et de sérénité ?
 
-![Marseillan](https://tcrouzet.com/images_tc/2022/05/IMG_6992.jpeg)
+![Marseillan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_6992.jpeg)
 
 ### Lundi 11, Balaruc
 
@@ -46,7 +46,7 @@ Je découvre avec horreur que la majorité des électeurs de mon village ont vot
 
 ### Mercredi 13, Balaruc
 
-Je suis au pied du mur dans mon roman, j’en arrive à une situation théâtrale, où il devrait y avoir un long dialogue entre quatre protagonistes, mais j’appréhende les longs dialogues, parce que je ne les maîtrise pas. Jour après jour, je renonce à ce que je pourrais écrire. Je suis dans l’attente du déclic qui me débloquera.
+Je suis au pied du mur dans mon roman, j’en arrive à une situation théâtrale, où il devrait y avoir un long dialogue entre quatre protagonistes, mais j'appréhende les longs dialogues, parce que je ne les maîtrise pas. Jour après jour, je renonce à ce que je pourrais écrire. Je suis dans l’attente du déclic qui me débloquera.
 
 ---
 
@@ -64,9 +64,9 @@ Le système sélectif imposé aux élèves de terminale est effrayant de sérieu
 
 Journée brûlante, coucher de soleil enflammé, j’écris, je piétine, je recommence.
 
-![Régates](https://tcrouzet.com/images_tc/2022/05/IMG_7047.jpeg)
+![Régates](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7047.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2022/05/IMG_7054.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7054.jpeg)
 
 ### Dimanche 17, Balaruc
 
@@ -74,7 +74,7 @@ Je pédale jusqu’après Fontvieille où je retrouve la famille : longue remon
 
 Quand je pédale longtemps, seul, sans difficulté, mes pensées passent sans s’accrocher, au plus près que possible d’un état méditatif. Je suis conscient, vigilant, en même temps absent, livré aux perceptions du corps, du monde, aux couleurs et aux odeurs, et mes muscles obéissent avec méthode à des consignes silencieuses. J’aime cette traversée des apparences, malgré l’urgence qui s’impose à moi par moment et m’empêche de prendre tout le temps que je voudrais, parce que je me fixe des objectifs, cette fois d’arriver avant treize heures pour le déjeuner.
 
-![Vers Arles](https://tcrouzet.com/images_tc/2022/05/IMG_7060.jpeg)
+![Vers Arles](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7060.jpeg)
 
 ### Lundi 18, Balaruc
 
@@ -96,7 +96,7 @@ Alors suis-je un écrivain de l’avenir ou un écrivain abâtardi, une chimère
 
 J’entends répéter « entre la peste et le choléra, je ne choisis pas ». Je ne crois pas cette rengaine adaptée à la situation française du moment. Je dirais plutôt « Entre le cancer et la grippe, je choisis la grippe. » D’un côté une maladie souvent mortelle, de l’autre une maladie dont on se protège en se vaccinant.
 
-![Printemps](https://tcrouzet.com/images_tc/2022/05/IMG_7069.jpeg)
+![Printemps](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7069.jpeg)
 
 ### Mercredi 20, Balaruc
 
@@ -122,19 +122,19 @@ Un copain me signale un livre sur les non-consommateurs et je note tout de suite
 
 J’ai esquissé un texte pour… non je ne peux pas l’avouer, surtout en ce moment, déjà que j’ai perdu tant d’amis à cause de leur fuite vers l’Absurdistant idéologique.
 
-![Cabane en pierre sèche](https://tcrouzet.com/images_tc/2022/05/IMG_7090.jpeg)
+![Cabane en pierre sèche](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7090.jpeg)
 
-![Le Moulin](https://tcrouzet.com/images_tc/2022/05/IMG_7093.jpeg)
+![Le Moulin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7093.jpeg)
 
 ### Samedi 23, Balaruc
 
 Mon roman ne m’obsède pas comme il le devrait. Il ne me réveille pas la nuit, ni ne s’impose quand je pédale, et peu souvent sous la douche, pourtant un endroit pour moi propice au jaillissement des idées. J’y travaille tous les jours, de longues heures, puis plus rien jusqu’au lendemain, comme si ma vie littéraire se séparait de mon autre vie. Est-ce parce que les séances de travail tarissent ma source créative ? Je devine une inconsistance, un moment où la narration m’a échappé, et je vais devoir tout relire pour chercher cette fissure dans le mur.
 
-![Orage](https://tcrouzet.com/images_tc/2022/05/IMG_7097.jpeg)
+![Orage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7097.jpeg)
 
 ### Dimanche 24, Balaruc
 
-Désormais, je suis incapable de m’attarder sur un texte, j’épuise vite mes idées. Depuis *One Minute*, écrit en une année, puis révisé durant plusieurs mois, aucun texte ne m’a absorbé aussi longtemps. J’ai écrit en quatre mois le premier roman sur mon père, certes après avoir passé quelques années plus tôt un mois à me documenter, puis quatre mois à réviser, resserrer, reprendre. Je suis dans la même temporalité sur le second. Je n’ai jamais été un auteur de textes longs, à l’exception d’*Érathostène* et *One Minute*, sans qu’ils se prétendent fort épais. Je crois que cette relative minceur de mes textes s’accorde avec mon goût pour le minimalisme et la simplicité. Je resserre la prose plus que je ne l’étends comme Proust le faisait, en lui ouvrant le ventre, pour la densifier et la rendre plus poétique.
+Désormais, je suis incapable de m'attarder sur un texte, j’épuise vite mes idées. Depuis *One Minute*, écrit en une année, puis révisé durant plusieurs mois, aucun texte ne m’a absorbé aussi longtemps. J’ai écrit en quatre mois le premier roman sur mon père, certes après avoir passé quelques années plus tôt un mois à me documenter, puis quatre mois à réviser, resserrer, reprendre. Je suis dans la même temporalité sur le second. Je n’ai jamais été un auteur de textes longs, à l’exception d’*Érathostène* et *One Minute*, sans qu’ils se prétendent fort épais. Je crois que cette relative minceur de mes textes s’accorde avec mon goût pour le minimalisme et la simplicité. Je resserre la prose plus que je ne l’étends comme Proust le faisait, en lui ouvrant le ventre, pour la densifier et la rendre plus poétique.
 
 Il existe peut-être une taille critique propre à chaque auteur, une dimension narrative dans laquelle sa forme se déploie, la mienne sans doute située entre 200 000 et 300 000 signes. J’ai du mal à envisager en-deçà ou au-delà. Quand je me lance dans un texte, même si j’écris peu quotidiennement, il me suffit de trois ou quatre mois pour obtenir un premier jet. J’en suis là avec *Quelques atomes de vérité*, en train de me relire. Il me reste un énorme travail, mais le texte ne grossira plus, à moins d’une surprise faramineuse.
 
@@ -150,7 +150,7 @@ Virginia tournait ses idées parfois durant des mois avant de les noter, je fais
 
 ### Lundi 25, Balaruc
 
-J’en arrive à ce moment le plus difficile dans l’écriture d’un livre : dépasser la satisfaction du premier jet et accepter de tout remettre en question. Alors je commence par réviser le texte lui-même, par le scruter phrase à phrase, à traquer les répétitions, des mots comme des structures syntaxiques, de cette façon je m’abstrais de l’écriture et bascule dans la technique, ce qui m’aide à prendre du recul. Puis vient une phase où je donne à lire à Isa, où après avoir entendu parler du texte durant des mois, elle peut y jeter un œil, pas tout à fait objectif, parce qu’elle connaît mon intention, mais je fais confiance à son sens critique. Alors souvent je dois retravailler, avant de passer à un autre lecteur, parfois tout recommencer encore et encore. Pour le moment, il est trop tôt pour qu’un tiers y regarde, je sens des faiblesses, parce que ce texte joue entre l’autofiction, que je maîtrise, et la fiction, que je maîtrise moins, certains de mes personnages n’étant pas bien campés. Je dois les placer au bord de la caricature pour qu’ils apparaissent fictifs sans hésitation.
+J’en arrive à ce moment le plus difficile dans l’écriture d’un livre : dépasser la satisfaction du premier jet et accepter de tout remettre en question. Alors je commence par réviser le texte lui-même, par le scruter phrase à phrase, à traquer les répétitions, des mots comme des structures syntaxiques, de cette façon je m'abstrais de l’écriture et bascule dans la technique, ce qui m’aide à prendre du recul. Puis vient une phase où je donne à lire à Isa, où après avoir entendu parler du texte durant des mois, elle peut y jeter un œil, pas tout à fait objectif, parce qu’elle connaît mon intention, mais je fais confiance à son sens critique. Alors souvent je dois retravailler, avant de passer à un autre lecteur, parfois tout recommencer encore et encore. Pour le moment, il est trop tôt pour qu'un tiers y regarde, je sens des faiblesses, parce que ce texte joue entre l’autofiction, que je maîtrise, et la fiction, que je maîtrise moins, certains de mes personnages n’étant pas bien campés. Je dois les placer au bord de la caricature pour qu’ils apparaissent fictifs sans hésitation.
 
 ---
 
@@ -158,9 +158,9 @@ Quand je lis, j’ai rarement besoin d’aller au bout des textes pour m’en im
 
 ---
 
-Un ami m’envoie une photo du village datant du début des années 1960, avant ma naissance, et il me prend l’envie de collectionner ces photos anciennes pour écrire à partir d’elles.
+Un ami m'envoie une photo du village datant du début des années 1960, avant ma naissance, et il me prend l'envie de collectionner ces photos anciennes pour écrire à partir d'elles.
 
-![Mèze](https://tcrouzet.com/images_tc/2022/05/IMG_7108.jpeg)
+![Mèze](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7108.jpeg)
 
 ### Mardi 26, Balaruc
 
@@ -192,15 +192,15 @@ L’art exigerait ceci ou cela. Non, l’art c’est maintenant, cette force mys
 
 Dans mon roman, j’en arrive à la nécessité de mettre du romanesque dans la vie et ma façon consiste à me mettre dans des circonstances propices à l’écriture. N’est-ce pas romanesque de s’éveiller avec le jour et de le noter venir à moi ? C’est un privilège immense. Voilà Sète jaune et vert sombre, plus tard la ville sera blanche et noire. Le bleu de l’étang conserve des consonances roses, et les piquets du filet sous ma fenêtre, de guingois, se dorent sur une face alors qu’ils projettent leur côté obscur dans l’eau.
 
-Virginia parle d’un paysage en forme de parapluie ouvert à l’envers, et je vois les replis de terrain au fil des baleines, avec au centre soit un lac, soit un pic décharné. Je suis peu adepte de la métaphore, j’aimerais réussir à décrire avec une précision photographique, mais alors j’accumule beaucoup de mots sans pour autant provoquer un effet. L’immobilité dorée de l’étang m’échappe comme la danse des reflets des piquets dans le glacis de l’eau.
+Virginia parle d’un paysage en forme de parapluie ouvert à l'envers, et je vois les replis de terrain au fil des baleines, avec au centre soit un lac, soit un pic décharné. Je suis peu adepte de la métaphore, j’aimerais réussir à décrire avec une précision photographique, mais alors j’accumule beaucoup de mots sans pour autant provoquer un effet. L’immobilité dorée de l’étang m’échappe comme la danse des reflets des piquets dans le glacis de l’eau.
 
-Le soleil est déjà trop haut, plus le moindre reflet, et les façades blanchissent, et un bateau passe, avec à la barre un homme avec une veste écarlate. Les couleurs entrent dans la journée avec toute l’étendue de leur spectre, et le ronron de la ville gonfle. Je crois que je viens de rêvasser durant plus d’une heure. Il faudrait horodater ce genre d’écriture, pour en rendre la discontinuité, et montrer qu’elle reste attachée à saisir et non à élaborer (l’élaboration me procure des sensations moins grisantes).
+Le soleil est déjà trop haut, plus le moindre reflet, et les façades blanchissent, et un bateau passe, avec à la barre un homme avec une veste écarlate. Les couleurs entrent dans la journée avec toute l’étendue de leur spectre, et le ronron de la ville gonfle. Je crois que je viens de rêvasser durant plus d’une heure. Il faudrait horodater ce genre d’écriture, pour en rendre la discontinuité, et montrer qu'elle reste attachée à saisir et non à élaborer (l'élaboration me procure des sensations moins grisantes).
 
 ---
 
 Je ne prends jamais autant de plaisir qu’à lire des journaux intimes ou des correspondances, et si un jour je m’attaque à une nouvelle biographie, réelle ou imaginaire, elle aura cette forme. Je ne pénètre dans une autre vie que quand elle se livre à moi sans calcul, poussée par la nécessité de noter ce qui s’impose à elle, sans maquillage, sans soucis formels, le style jaillissant de lui-même avec une spontanéité dépourvue des scrupules des autres formes littéraires.
 
-Le journal exige que le lecteur ritualise la lecture, la fractionne, un peu comme l’écriture. Je passe tous les jours un peu de temps avec Virginia et j’apprends à la connaître mieux que par ses livres, qui souvent ne me parlent pas. Elle me devient familière, comme bien d’autres avant elle. L’âge d’or du journal n’est pas encore venu. Cette forme deviendra majeure, quand surviendra chez les plus jeunes un rejet des formes rapides et qu’ils sentiront la vie leur échapper. Le journal s’épaissit dans le temps, il exige le temps, de s’y prélasser et sentir un autre devenir notre ami, peu à peu capter son énergie et la transformer en lumière.
+Le journal exige que le lecteur ritualise la lecture, la fractionne, un peu comme l’écriture. Je passe tous les jours un peu de temps avec Virginia et j’apprends à la connaître mieux que par ses livres, qui souvent ne me parlent pas. Elle me devient familière, comme bien d’autres avant elle. L'âge d'or du journal n’est pas encore venu. Cette forme deviendra majeure, quand surviendra chez les plus jeunes un rejet des formes rapides et qu'ils sentiront la vie leur échapper. Le journal s’épaissit dans le temps, il exige le temps, de s’y prélasser et sentir un autre devenir notre ami, peu à peu capter son énergie et la transformer en lumière.
 
 ---
 
@@ -220,17 +220,17 @@ Je lis Virginia dans son journal, avec passion, et quand je prolonge dans ses li
 
 Je ne suis pas assez romancier. Le véritable romancier est capable d’être dans ses romans comme moi dans mon journal, sauf que cette spontanéité je ne la retrouve pratiquement jamais dans les romans, surtout de mes contemporains dont je vois immédiatement les coffrages et les structures, qui en deviennent lourdes à force d’être trop apparentes. Cette lucidité ne m’aide en rien dans mon propre travail.
 
-Peut-être que le journal est vrai parce qu’il n’implique jamais de tirer à la ligne, ou de trouver une jonction entre deux idées. Il prend tout ce qui vient, en vrac, sans désir de continuité. La liberté est son crédo, l’ultime liberté. Je ne connais rien en littérature d’aussi proche de la vie. Dans le journal, je suis photographe, je prends ce qui passe pour peu que je sois dans le bon état d’esprit, aussi bien une image de l’étang qu’une pensée sur la mécanique quantique, et leur côte à côte se justifie parce qu’il en est ainsi dans le temps. Dans un roman, je chercherais des justifications. Mais pourquoi ? Le roman est en soi une justification, une façon d’ordonner le désordre pour lui donner un semblant de vérité qui n’a rien de réaliste.
+Peut-être que le journal est vrai parce qu’il n’implique jamais de tirer à la ligne, ou de trouver une jonction entre deux idées. Il prend tout ce qui vient, en vrac, sans désir de continuité. La liberté est son crédo, l’ultime liberté. Je ne connais rien en littérature d’aussi proche de la vie. Dans le journal, je suis photographe, je prends ce qui passe pour peu que je sois dans le bon état d’esprit, aussi bien une image de l’étang qu’une pensée sur la mécanique quantique, et leur côte à côte se justifie parce qu’il en est ainsi dans le temps. Dans un roman, je chercherais des justifications. Mais pourquoi ? Le roman est en soi une justification, une façon d'ordonner le désordre pour lui donner un semblant de vérité qui n'a rien de réaliste.
 
 ### Vendredi 29, Balaruc
 
 À partir du chapitre neuf, tout par de travers dans mon roman. Grosse séance de marteau piqueur et de tractopelle. Encore beaucoup de travail. J’ignore quand j’aurais un premier jet satisfaisant. C’est comme si j’avais bien avancé dans la résolution de l’équation, puis que soudain je ne voyais plus comment poursuivre.
 
-![Maguelone](https://tcrouzet.com/images_tc/2022/05/IMG_7112.jpeg)
+![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7112.jpeg)
 
-![Maguelone](https://tcrouzet.com/images_tc/2022/05/IMG_7120.jpeg)
+![Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7120.jpeg)
 
-![La Gardiole](https://tcrouzet.com/images_tc/2022/05/IMG_7122.jpeg)
+![La Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7122.jpeg)
 
 ### Samedi 30, Balaruc
 
@@ -252,4 +252,8 @@ Texte coupé de mon roman, qui n’a rien à y faire, surtout à l’endroit où
 
 Des copains s’engagent sur diverses courses d’endurance qui exigent de transporter un traqueur, de façon que l’organisation puisse vérifier qu’ils suivent le parcours et ne trichent pas, et qu’aussi les spectateurs suivent l’aventure à distance. Mais en fin de compte, on reste dans la mise en scène de soi, dans la médiatisation de la vie, dans le récit plus que dans le faire, mais un récit qui a perdu tout sens du romanesque. Dans *J’ai débranché*, je commence par une histoire de tracking avortée, quand j’ai noyé mon téléphone alors que je comptais documenter une randonnée en kayak. J’étais devenu si accro à mon existence sociale que j’avais fini par oublier de me recentrer sur moi. Nous sommes déjà assez traqués contre notre volonté pour en prime alimenter la machine et surtout en pousser d’autres à vouloir se publiciser davantage, quitte à prendre toutes sortes de risques physiques et sociaux. Cette surenchère rend la vie « normale » insipide. « Lui, il s’éclate pendant que moi je lis un bouquin dans mon canapé. Putain, je gâche ma vie. » Voilà en substance le message. Je ne peux pas approuver.
 
-![Sète](https://tcrouzet.com/images_tc/2022/05/IMG_7131.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/05/IMG_7131.jpeg)
+
+
+
+Tags: Carnets, une

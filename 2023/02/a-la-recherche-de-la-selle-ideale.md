@@ -71,3 +71,5 @@ Je n’en ai donc pas terminé avec mon parcours du combattant, mais au fil du t
 *PS1 : Il est désormais possible de se faire confectionner des selles sur mesure, mais je suis sceptique. Beaucoup de selles du commerce m'accueillent à la perfection, mais leur inconfort ne survient qu'après de longues distances. C'est un peu comme si mon cul se déformait avec les kilomètres. Donc prendre une empreinte à un moment donné ne règlera pas nécessairement mes difficultés à un autre moment.*
 
 *PS2 : En 2023, j'ai testé la SMP Stratos, trop étroite pour moi, et la [SMP F20C SI](https://www.sellesmp.com/eu_fr/f20csi.html) (largeur parfaite mais me provoque des fourmillements quel que soit l'angle).*
+
+Tags: Born to Bike, une

@@ -20,4 +20,8 @@ La première est plus grand public, la seconde plus intimiste. Et sans doute, at
 
 Comme j’aime aussi écrire des livres, j’utilise le blog comme un atelier, et peut-être que je devrais le rapprocher plus encore d’une correspondance. Le penser comme une série de lettres ouvertes à quelques amis. Avec tout ce que cela implique de choses non dites puisque dites en face à face, ou même éprouvées en commun.
 
-![Quand j’écris un livre, le taux de répétition est généralement inférieur à 5%, souvent à 3% dans Ératosthène. Mon écriture blog est plus répétitive, plus brute.](https://tcrouzet.com/images_tc/2014/06/druide.png)
+![Quand j’écris un livre, le taux de répétition est généralement inférieur à 5%, souvent à 3% dans Ératosthène. Mon écriture blog est plus répétitive, plus brute.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/druide.png)
+
+
+
+Tags: blog, NetLittérature, une

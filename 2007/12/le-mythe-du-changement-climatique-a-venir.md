@@ -14,7 +14,7 @@ Si nous justifions un engagement écologique au nom d’une prévision de l’av
 
 Je suis athée, je ne veux pas prendre part à un conflit religieux. Je suis pour la réduction de notre impact écologique, c’est pour moi une question de bon sens maintenant que l’humanité est aussi dispendieuse. Pour faire mon choix, je n’ai pas besoin d’invoquer les futurologues et les dérèglements climatiques à venir. J’ai déjà pris m’a décision au regard de ce qui s’est déjà passé. Si on me jurait que le changement climatique est une illusion, je ne continuerais pas moins à croire que nous devons réduire notre impact écologique.
 
-Je nous imagine dans 50 ans. Si le climat est bouleversé, on dira que les futurologues avaient raison. S’il ne l’est pas, on dira sans doute que nous avons réussi à enrailler ces changements. En fait, nous n’en saurons rien comme nous ne savons jamais pourquoi une guerre commence ou pourquoi des guerres potentielles n’ont jamais éclatées (cf la discussion à ce sujet dans [*Le peuple des connecteurs*](https://tcrouzet.com/le-peuple-des-connecteurs/) et [*Le cinquième pouvoir*](https://tcrouzet.com/le-cinquieme-pouvoir/)).
+Je nous imagine dans 50 ans. Si le climat est bouleversé, on dira que les futurologues avaient raison. S’il ne l’est pas, on dira sans doute que nous avons réussi à enrailler ces changements. En fait, nous n’en saurons rien comme nous ne savons jamais pourquoi une guerre commence ou pourquoi des guerres potentielles n’ont jamais éclatées (cf la discussion à ce sujet dans [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) et [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/)).
 
 Nous n’avons pas besoin d’un mythe oraculaire pour agir. Ou plutôt, parce que ce mythe n’est pas solide, il ne provoque pas de réaction à la hauteur des dangers qu’il met en évidence. Pour preuve : nos gouvernements tergiversent et se satisfont de demi-mesures. Tout ça parce que l’avenir prévu n’est pas là.
 
@@ -23,3 +23,5 @@ Nos choix doivent être plus clairement philosophiques. Désirer vivre en harmon
 Ce choix progressiste a été effectué au début de la révolution industrielle. La menace d’un bouleversement climatique catastrophique ne le remet pas en question. Trop peu de gens en prennent conscience il me semble. Pour un progressiste, parler de problèmes à venir n’a aucun sens. Pour lui, tout problème sera résolu le moment voulu. Il suffit d’adopter, par exemple, le point de vue de Kurzweil et le risque de bouleversement climatique fait sourire.
 
 En nous servant de l’avenir inconnu pour convertir les gens du rêve progressiste au rêve écologiste, je crois que nous employons un mauvais stratagème. Il me semble préférable de démontrer aux progressistes que le rêve écologique est le meilleur moyen de relancer le progrès. Nous devons encore une fois jouer gagnant-gagnant.
+
+Tags: imprevisibilité

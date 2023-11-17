@@ -1,6 +1,6 @@
 # La démocratie non-représentative
 
-La *peer democracy* est mon cheval de bataille depuis que je me suis lancé dans [Le peuple des connecteurs](https://tcrouzet.com/le-peuple-des-connecteurs/) en 2005. J’évoque sans cesse cette possibilité, spécialement à la fin du [Cinquième pouvoir](https://tcrouzet.com/le-cinquieme-pouvoir/), et ce petit billet de [Vasilis Kostakis](http://blog.p2pfoundation.net/peer-governance-towards-non-representational-democracy/2007/06/09) découvert par [Florent](https://tcrouzet.com/2007/05/07/le-reseau-libre/#comment-33180) a réveillé mon intérêt.
+La *peer democracy* est mon cheval de bataille depuis que je me suis lancé dans [Le peuple des connecteurs](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) en 2005. J’évoque sans cesse cette possibilité, spécialement à la fin du [Cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), et ce petit billet de [Vasilis Kostakis](http://blog.p2pfoundation.net/peer-governance-towards-non-representational-democracy/2007/06/09) découvert par [Florent](http://blog.tcrouzet.com/2007/05/07/le-reseau-libre/#comment-33180) a réveillé mon intérêt.
 
 ### Brève critique de la démocratie représentative
 
@@ -16,7 +16,7 @@ La *peer democracy* est mon cheval de bataille depuis que je me suis lancé dans
 
 ### La démocratie non-représentative
 
-1. C’est une société d’égal-à-égal, mise en œuvre dans le monde du logiciel libre, du P2P et d’internet en général. On peut en trouver d’autres exemples historiques. J’ai évoqué il y a peu les [Apaches](https://tcrouzet.com/2007/06/05/la-revanche-des-apaches/).
+1. C’est une société d’égal-à-égal, mise en œuvre dans le monde du logiciel libre, du P2P et d’internet en général. On peut en trouver d’autres exemples historiques. J’ai évoqué il y a peu les [Apaches](http://blog.tcrouzet.com/2007/06/05/la-revanche-des-apaches/).
 
 2. La structure horizontale plutôt que verticale favorise la communication interindividuelle, la réactivité, l’émergence de l’intelligence collective.
 
@@ -31,3 +31,5 @@ Je suis favorable à la démocratie non-représentative parce que je crois tout 
 Mon amour de la liberté, mon côté hacker au sens défini par John Brunner, n’ont rien à voir dans ma position. Je me borne à constater que beaucoup de choses ne fonctionnent pas au mieux et cherche des solutions pour les améliorer.
 
 Cette démocratie non-représentative pourrait être le sujet d’un de mes prochains livres. Il faudra que j’en parle à mon éditeur, faut aussi que je creuse le sujet.
+
+Tags: Politique

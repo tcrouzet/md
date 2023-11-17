@@ -1,6 +1,6 @@
 # Ayerdhal : la biographie invérifiable
 
-J’aurais connu Yal moins de dix ans. Tout a commencé ici même, sur ce blog, [le 12 septembre 2006](https://tcrouzet.com/2006/09/12/matrix-connexion/#com217).<span id="more-42676"></span>
+J’aurais connu Yal moins de dix ans. Tout a commencé ici même, sur ce blog, [le 12 septembre 2006](http://tcrouzet.com/2006/09/12/matrix-connexion/#com217).<span id="more-42676"></span>
 
 ---
 
@@ -24,9 +24,9 @@ Moi : Je vais être obligé de tout lire.
 
 ---
 
-C’est tout bêtement comme ça que notre amitié a commencé, par l’entremise d’Iza. J’ai lu Yal, [je l’ai chroniqué](https://tcrouzet.com/2006/11/19/demain-une-oasis/), nous nous sommes croisés en coup de vent le 17 novembre 2006 à la librairie Sauramps de Montpellier, puis Iza nous a rapprochés plus définitivement en nous invitant à donner ensemble une conférence à Ajaccio en octobre 2008.
+C’est tout bêtement comme ça que notre amitié a commencé, par l’entremise d’Iza. J’ai lu Yal, [je l’ai chroniqué](http://tcrouzet.com/2006/11/19/demain-une-oasis/), nous nous sommes croisés en coup de vent le 17 novembre 2006 à la librairie Sauramps de Montpellier, puis Iza nous a rapprochés plus définitivement en nous invitant à donner ensemble une conférence à Ajaccio en octobre 2008.
 
-![Photos de Yal retrouvé sur le Web alors que je ravive mes souvenirs.](https://tcrouzet.com/images_tc/2015/10/corse.jpg)
+![Photos de Yal retrouvé sur le Web alors que je ravive mes souvenirs.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/corse-600x450.jpg)
 
 À l’époque, Yal vivait encore dans la Drôme, à Romans-sur-Isère, il me semble. Je suis allé l’attendre à l’aéroport d’Ajaccio. En fait, c’est lui qui m’a attendu. Je m’étais promené sur la plage et j’avais tant transpiré que j’avais couru m’acheter un t-shirt, question de ne pas l’empester. Nous n’étions pas pressés. Nous avons bu un verre, lui une bière, moi un jus d’abricot. Et il m’a parlé comme si nous étions de vieux amis, avec ses mots d’écrivain, avec son rythme, creusant la narration de sans cesse plus de détails.
 
@@ -42,10 +42,12 @@ Je me remémore ces moments pour en réactiver le souvenir, parce que je suis in
 
 En août 2011, nous nous sommes retrouvés tous ensemble à Ouessant, à arpenter tous les matins le sentier côtier, à passer les après-midi à discuter de l’avenir de l’édition, le soir à refaire le monde après avoir écouté François Bon nous lire Rabelais.
 
-![Lors d'une lecture par François Bon.](https://tcrouzet.com/images_tc/2015/10/ouessant.jpg)
+![Lors d'une lecture par François Bon.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/ouessant-600x450.jpg)
 
 Une scène me revient. Il est tard. On cherche un restaurant. On est une quinzaine. On finit dans une crêperie. Notre hôte refuse que nous rapprochions nos tables. Il nous insulte. Nous menace. Yal se lève. Se plante devant l’homme, bras croisés. Il se laisse crier dessus tout en devenant tout rouge. Nous avons senti la bombe prête à exploser, mais Yal n’a pas frémi, laissant le furieux se ridiculiser devant ses autres clients. C’était tout Yal : un va-t-en-guerre pacifiste.
 
-Il y a Bruxelles, Toulouse, Montélimar, tous ces endroits où nous avons passé du temps ensemble, parfois la gorge nouée comme quand il nous a rejoints en Aquitaine pour [le décès de Roland Wagner](https://tcrouzet.com/2012/08/06/roland-c-wagner-1960-2012/). Il y a l’étang de Thau où à chacune de ses visites je l’ai entraîné en kayak. Il était heureux dans ces moments d’immersion dans le bleu. Il évoquait de plus en plus souvent l’idée de venir vivre dans l’Hérault ou dans le Gard. La grisaille de Bruxelles lui pesait même s’il était tombé amoureux des Bruxellois. Il rêvait d’une immense maison où il aurait pu tous les déplacer.
+Il y a Bruxelles, Toulouse, Montélimar, tous ces endroits où nous avons passé du temps ensemble, parfois la gorge nouée comme quand il nous a rejoints en Aquitaine pour [le décès de Roland Wagner](http://tcrouzet.com/2012/08/06/roland-c-wagner-1960-2012/). Il y a l’étang de Thau où à chacune de ses visites je l’ai entraîné en kayak. Il était heureux dans ces moments d’immersion dans le bleu. Il évoquait de plus en plus souvent l’idée de venir vivre dans l’Hérault ou dans le Gard. La grisaille de Bruxelles lui pesait même s’il était tombé amoureux des Bruxellois. Il rêvait d’une immense maison où il aurait pu tous les déplacer.
 
 En juin, je l’ai vu pour la dernière fois. Tout d’abord à la maison, au bord de l’étang, par une belle journée sous les mûriers platanes de la terrasse. En fin d’après-midi nous nous sommes retrouvés seuls. Je l’ai écouté. Il ne voulait pas inquiéter Sara. C’était son obsession. Il sentait une douleur nouvelle. Il ne se faisait pas beaucoup d’illusions. Il avait bossé son cancer comme le background d’un de ses romans. Il m’a dit « Je n’ai jamais eu peur de la mort. Quand j’étais jeune, j’étais immortel. Plus tard, je n’ai pas eu le temps de penser à la mort. Aujourd’hui, survivre avec la souffrance ne m’intéresse pas. » Quelques jours plus tard, je le revois à Bruxelles. Le verdict était tombé. Les métastases. La douleur. Pas grand-chose pour la soulager. Je l’ai quitté le cœur lourd, sûr de ne pas faire ce qu’il fallait, mais sans savoir quoi faire. Je ne le sais toujours pas, à part évoquer son souvenir.
+
+Tags: Critique, une

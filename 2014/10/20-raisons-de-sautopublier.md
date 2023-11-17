@@ -39,3 +39,5 @@
 19. C’est publier ce qui sinon ne le serait souvent pas.
 
 20. C’est la meilleure façon de trouver un éditeur en cas de succès (soumettre un manuscrit, c’est ringard, le nouveau mot d’ordre est « Prouve-nous ce que tu vaux. »).
+
+Tags: buzzlitt, une

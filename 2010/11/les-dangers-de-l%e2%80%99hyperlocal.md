@@ -1,6 +1,6 @@
 # Les dangers de l’hyperlocal
 
-Dans [*L’alternative nomade*](https://tcrouzet.com/alternative-nomade/), je prône la complexité volontaire par l’intermédiaire de la connexion entre les individus. Je défends qu’en créant en toute simplicité plus de liens, nous accroissons la complexité du système, ce qui mène à plus de liberté, d’intelligence collective et aussi à une transition vers un mode de vie plus culturel, donc moins dépendant des ressources matérielles.<span id="more-20321"></span>
+Dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), je prône la complexité volontaire par l'intermédiaire de la connexion entre les individus. Je défends qu’en créant en toute simplicité plus de liens, nous accroissons la complexité du système, ce qui mène à plus de liberté, d’intelligence collective et aussi à une transition vers un mode de vie plus culturel, donc moins dépendant des ressources matérielles.<span id="more-20321"></span>
 
 <a href="">Je critique les Khmers verts</a> parce qu’ils prônent l’autonomie en de nombreux domaines, notamment alimentaire, ce qui revient à couper des liens, donc à simplifier le système, donc à réduire nos libertés et à nous faire courir le risque d’un retour à la dictature.
 
@@ -38,4 +38,6 @@ Il faut donc chercher à réduire les externalités sans a priori couper tous le
 
 Il faut toujours tisser le réseau pour éviter que les pyramides dispendieuses et autoritaires ne ressurgissent. Au nom de l’hyperlocal, il faut prendre garde de ne pas favoriser la complication de proximité en oubliant la complexité du système global.
 
-PS : J’ai écrit ce billet suite à un [commentaire de Phyrezo](https://tcrouzet.com/2010/11/03/vacances-au-calvi-des-khmers-verts/#comment-85110). Je signale au passage que je me suis désintéressé de l’idée de superorganisme depuis qu’elle m’est apparue inféconde.
+PS : J’ai écrit ce billet suite à un [commentaire de Phyrezo](http://blog.tcrouzet.com/2010/11/03/vacances-au-calvi-des-khmers-verts/#comment-85110). Je signale au passage que je me suis désintéressé de l’idée de superorganisme depuis qu’elle m’est apparue inféconde.
+
+Tags: NetCulture

@@ -1,6 +1,6 @@
 # Où ne pas étudier
 
-Je ne suis pas le seul promoteur de la networked civilisation comme [Stan veut essayer de le faire croire](https://tcrouzet.com/2008/05/11/non-je-n%e2%80%99ai-pas-arrete-de-bloguer/#comment-54584). S’il existe un endroit au monde où elle est pensée et construite aujourd’hui c’est bien à Sandford, et dans ses environs, notamment en poussant vers Santa Fe. Quand, comme Stan, on a la chance d’étudier là-bas, on a la chance de ne pas étudier au sens où je l’entends, c’est-à-dire de pouvoir papillonner entre tous les penseurs contemporains, de les butiner, de se construire sa propre vision du monde.
+Je ne suis pas le seul promoteur de la networked civilisation comme [Stan veut essayer de le faire croire](http://blog.tcrouzet.com/2008/05/11/non-je-n%e2%80%99ai-pas-arrete-de-bloguer/#comment-54584). S’il existe un endroit au monde où elle est pensée et construite aujourd’hui c’est bien à Sandford, et dans ses environs, notamment en poussant vers Santa Fe. Quand, comme Stan, on a la chance d’étudier là-bas, on a la chance de ne pas étudier au sens où je l’entends, c’est-à-dire de pouvoir papillonner entre tous les penseurs contemporains, de les butiner, de se construire sa propre vision du monde.
 
 Stan tu es le fruit des grandes écoles françaises. Il t’est difficile de me répondre autrement que comme tu le fais après les études que tu as effectuées. Quand on est centralien, polytechnicien ou un truc de genre, le plus souvent on a renoncé très jeune a sa liberté pour devenir un agent du système centralisé. Durant ses années de pure créativité, on a déjà commencé par bosser comme un chien pour stocker des données créées par d’autres, ce qui me paraît un non-sens qui a lui seul peut miner une destinée (alors plus tard on s’acharne pour préserver ce stock, d’autant plus quand on devient PDG d’une grande boîte ou émissaire du G8).
 
@@ -12,13 +12,13 @@ Ainsi j’utilise hiérarchique toujours dans le sens d’autorité hiérarchiqu
 
 En informatique, tu as la possibilité de créer des systèmes qui fonctionnent avec une telle hiérarchie autoritaire et tu as aussi la possibilité de créer des systèmes indépendants qui interagissent. Nous avons deux voies qui peuvent être antagonistes mais qui peuvent être aussi combinées.
 
-Que Linus Torvalds valide chaque brique de Linux ou que Wikipedia se dote d’une autorité centrale ne prouve pas qu’on ne puisse pas se passer de ces autorités. Simplement nous avons la preuve de la force du système autoritaire qui tend à tout reprendre dans son giron. J’ai ici même [souvent critiqué l’excès de centralisation qui se développe sur le web](https://tcrouzet.com/2007/07/09/hypercentralisation/), ce qui me déplait, car je rêve d’un excès contraire.
+Que Linus Torvalds valide chaque brique de Linux ou que Wikipedia se dote d’une autorité centrale ne prouve pas qu’on ne puisse pas se passer de ces autorités. Simplement nous avons la preuve de la force du système autoritaire qui tend à tout reprendre dans son giron. J’ai ici même [souvent critiqué l’excès de centralisation qui se développe sur le web](http://blog.tcrouzet.com/2007/07/09/hypercentralisation/), ce qui me déplait, car je rêve d’un excès contraire.
 
 Le rêve est au cœur de tout ce que j’écris. Je rêve d’une autre société et je discute de sa possibilité. D’autres hommes la rêvent. Ils cherchent à outrepasser les nœuds centralisateurs que tu cites dans ton commentaire. Bien sûr que la bataille n’est pas gagnée mais elle n’est en tout cas loin d’être perdue comme tu le prétends.
 
 Tu énonces un postulat pour démontrer la nécessité d’une forme de hiérarchie :
 
-> Il est nécessaire de distinguer la possibilité de communiquer avec la nécessité inhérente à toute communication d’être préalablement mis en relation ou plus précisément d’être capable de nommer son interlocuteur.
+> Il est nécessaire de distinguer la possibilité de communiquer avec la nécessité inhérente à toute communication d'être préalablement mis en relation ou plus précisément d'être capable de nommer son interlocuteur.
 
 Note qu’une telle hiérarchie, alors de type structurelle, n’a pas besoin d’être autoritaire. Il peut exister des dizaines de système de nommages concurrentiels. Ils peuvent même être distribués, dédupliqués en des millions de sites.
 
@@ -26,13 +26,13 @@ Et quant à l’obligation de nommer un interlocuteur je ne vois pas ce qu’ell
 
 Si nous nous présentons, chacun de nous stocke l’identité de l’autre et nous n’avons toujours pas besoin d’autre chose. Nous n’avons pas besoin d’un tiers pour tenir la chandelle. Bien sûr nous pouvons échanger nos adresses, nos téléphones, nos emails… nous recourront alors à des tiers mais, imagine que nous vivions dans une forêt, nous pouvons dire que nous habitons près du grand arbre sur la colline. Le tiers ne me paraît pas obligatoire… même si je conçois qu’il facilite (les Japonais utilisent d’ailleurs dans leur rue un système d’adressage relatif qui évite le recours à un tiers universel). Ok, les tiers facilitent la vie mais alors multiplions-les, éclatons-les, faisons en sorte qu’ils ne nous emprisonnent pas.
 
-Multiplier les hiérarchies concurrentes, laisser la liberté aux gens de passer de l’une à l’autre, c’est aboutir à un système de fait non hiérarchique.
+Multiplier les hiérarchies concurrentes, laisser la liberté aux gens de passer de l'une à l'autre, c'est aboutir à un système de fait non hiérarchique.
 
 Tu parles des experts et de la nécessité de les mettre en relation avec le cadre de la networked civilisation. Mais quels experts ? Ceux de la société hiérarchique autoritaire ? Mais ils ne sont experts de rien du tout dans la nouvelle civilisation puisqu’ils tirent leur CV de l’ancienne. Dans la société en réseau, cette société ouverte, l’expert se forme quand on a besoin de lui et il se dissout après. Un bon exemple de ce phénomène est l’émergence d’Étienne Chouard durant le référendum européen (rassurez-vous Étienne existe toujours et il est plus pugnace que jamais). Un diplôme ne te rend expert de rien du tout.
 
 Ta conclusion résume sans doute notre opposition :
 
-> J’invite tout le monde à arrêter de prêcher le faux pour « chercher » le vrai. Il est certain que notre système politique en France a de grandes faiblesses, mais je pense qu’il est aussi illusoire de croire que nous pourrions vivre sans « système ».
+> J'invite tout le monde à arrêter de prêcher le faux pour « chercher » le vrai. Il est certain que notre système politique en France a de grandes faiblesses, mais je pense qu'il est aussi illusoire de croire que nous pourrions vivre sans « système ».
 
 L’absence de hiérarchie autoritaire (à l’avenir je virerai ce qualificatif comme à mon habitude), ne nous plongerait pas dans l’anarchie, une absence de système comme tu le sous-entends mais dans un autre système. Il nous aidera peut-être à résoudre certains problèmes que le système hiérarchique ne sait pas résoudre (je ne vais pas refaire la liste des problèmes… les enfants s’éveillent de la sieste).
 

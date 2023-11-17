@@ -2,7 +2,7 @@
 
 Dans *La Haine de l’Occident*, Jean Ziegler raconte les dérives du capitalisme et comment notamment les compagnies pétrolières détruisent le Nigeria, provoquant des millions de morts.
 
-> Oui, le huitième plus gros producteur mondial de pétrole est l’un des vingt pays les plus misérables de la planète !, écrit Ziegler.
+> Oui, le huitième plus gros producteur mondial de pétrole est l'un des vingt pays les plus misérables de la planète !, écrit Ziegler.
 
 Les mêmes affairistes, à peine plus diplomates mais tout aussi introduits dans les cercles du pouvoir, œuvrent près de chez nous. À quelques pas de ma maison, Total dépollue une ancienne friche industrielle avec des méthodes pour le moins douteuses.
 
@@ -18,8 +18,8 @@ Nous ne le savons pas. Quand on a posé la question, personne ne nous a répondu
 
 Ce qui se passe au Nigeria se passe aussi près de nous. Des hommes restent prêts à tout pour s’enrichir. Le plus lamentable dans cette histoire est que Total délègue pour ces viles missions des sous-fifres qui ne gagnent pas grand chose. Je me demande comment ces malheureux employés rentrent le soir dans leur famille. Osent-ils se regarder dans la glace ?
 
-— T’as fait quoi papa aujourd’hui ?
+— T’as fait quoi papa aujourd’hui ?
 
-— J’ai intoxiqué quelques Français. Trois fois rien, ils ne le sauront sans doute jamais.
+— J’ai intoxiqué quelques Français. Trois fois rien, ils ne le sauront sans doute jamais.
 
 Et puis il y a tous ceux qui couvrent ce jeu. Ceux qui ne veulent pas perdre la face pour leurs erreurs de 2004. Nous sommes loin du gagnant-gagnant. Tant que les hommes se cacheront derrières les entités qui les emploient, nous ne régleront aucune des crises contemporaines.

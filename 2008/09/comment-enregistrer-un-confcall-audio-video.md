@@ -1,3 +1,5 @@
 # Comment enregistrer un confcall audio-vidéo ?
 
-Avec swimmer21, nous allons tenter une de [discussion audio-viédo](https://tcrouzet.com/2008/08/21/invitation-a-la-conversation-audio/) au sujet Teilhard de Chardin. Comme il y a des slides, il faudrait que nous puissions effectuer un enregistrement audio vidéo simultané. Vous connaissez une solution simple mettre en œuvre ? On se voit mal enregistrer le son, puis le synchroniser sur les slides…
+Avec swimmer21, nous allons tenter une de [discussion audio-viédo](http://blog.tcrouzet.com/2008/08/21/invitation-a-la-conversation-audio/) au sujet Teilhard de Chardin. Comme il y a des slides, il faudrait que nous puissions effectuer un enregistrement audio vidéo simultané. Vous connaissez une solution simple mettre en œuvre ? On se voit mal enregistrer le son, puis le synchroniser sur les slides…
+
+Tags: noepub

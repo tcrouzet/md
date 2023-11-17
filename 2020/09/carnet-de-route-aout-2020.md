@@ -6,15 +6,15 @@
 
 Je boucle aujourd’hui le premier jet de *Vaincre les épidémies*, 290 000 signes écrits en exactement un mois. Je passe le reste de la journée à défoncer la haie qui me sépare de l’étang. Je ne la supportais plus depuis des années et j’ai besoin de changements. Je tombe sur une corde verte, une des cordes utilisées par mon père, attachée au grillage que je dois découper, alors je défais les nœuds retenant cette corde, des nœuds noués il y a vingt ans par mon père quand nous avons construit la maison, et défaisant ses nœuds je refais ses gestes à l’envers, je suis avec lui, comme si je recopiais un texte écrit par lui.<span id="more-55163"></span>
 
-![Défrichage](https://tcrouzet.com/images_tc/2020/09/IMG_2325.jpeg)
+![Défrichage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2325.jpeg)
 
-![Défrichage](https://tcrouzet.com/images_tc/2020/09/IMG_2328.jpeg)
+![Défrichage](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2328.jpeg)
 
 ### Mercredi 5, Balaruc
 
 Une fois la haie disparue, l’étang nous saute dessus et c’est comme si jusque là nous n’avions jamais habité au bord de l’eau. Le bleu envahit la maison, la pénètre de part en part. Le coucher de soleil a doré la terrasse jusqu’aux derniers moments. Quand des plaisanciers curieux passent, c’est un peu comme s’ils s’invitaient à notre table, j’accepte cet inconvénient en échange de plus de lumière, je ne vis que pour elle autant que si j’étais peintre ou photographe.
 
-![Défrichage terminé](https://tcrouzet.com/images_tc/2020/09/IMG_2396.jpeg)
+![Défrichage terminé](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2396.jpeg)
 
 ---
 
@@ -22,9 +22,9 @@ Ma psy me dit que mon problème est de ne pas dire ce que je ressens, de garder 
 
 ### Vendredi 7, Balaruc
 
-![Émile dort sur le toit](https://tcrouzet.com/images_tc/2020/09/IMG_2398.jpeg)
+![Émile dort sur le toit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2398.jpeg)
 
-![Tim aussi](https://tcrouzet.com/images_tc/2020/09/IMG_2399.jpeg)
+![Tim aussi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2399.jpeg)
 
 J’apprends que [Bernard Stiegler](https://fr.wikipedia.org/wiki/Bernard_Stiegler) est mort. Je ne l’ai jamais rencontré, n’ai jamais goûté ses idées, mais on a arpenté le même champ et c’est comme si tout au bout un grand chêne venait de tomber.
 
@@ -32,23 +32,23 @@ J’apprends que [Bernard Stiegler](https://fr.wikipedia.org/wiki/Bernard_Stiegl
 
 C’est la canicule, mais ce soir je gèle en terrasse et dois même mettre une chemise. Des entrées maritimes, après avoir agréablement nappé Sète, me plongent dans la brume.
 
-![Entrées maritimes](https://tcrouzet.com/images_tc/2020/09/P1110168.jpeg)
+![Entrées maritimes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/P1110168.jpeg)
 
-![Entrées maritimes](https://tcrouzet.com/images_tc/2020/09/P1110171.jpeg)
+![Entrées maritimes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/P1110171.jpeg)
 
-![Entrées maritimes](https://tcrouzet.com/images_tc/2020/09/P1110178.jpeg)
+![Entrées maritimes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/P1110178.jpeg)
 
 ### Samedi 8, Balaruc
 
-![Villeneuve les Maguelone](https://tcrouzet.com/images_tc/2020/09/IMG_2435.jpeg)
+![Villeneuve les Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2435.jpeg)
 
-![Villeneuve les Maguelone](https://tcrouzet.com/images_tc/2020/09/IMG_2436.jpeg)
+![Villeneuve les Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2436.jpeg)
 
-![Villeneuve les Maguelone](https://tcrouzet.com/images_tc/2020/09/IMG_2437.jpeg)
+![Villeneuve les Maguelone](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2437.jpeg)
 
 ### Lundi 10, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2020/09/IMG_2507.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2507.jpeg)
 
 ### Mercredi 12, Balaruc
 
@@ -74,9 +74,9 @@ Le [*Journal extime*](https://fr.wikipedia.org/wiki/Journal_extime) de Michel To
 
 Quel est mon diaphragme ? Encore plus serré que celui de Balzac, au point où les personnages du premier plan s’effacent pour ne laisser que de grands paysages. Je ne cesse de revenir à deux photos prises [lors de ma randonnée de vendredi](https://tcrouzet.com/2020/08/15/la-trace-bikepacking-ontologique/). Voilà ma littérature : une immense horizontalité propice à l’errance.
 
-![Vallée de la Buège](https://tcrouzet.com/images_tc/2020/09/IMG_2590-2.jpeg)
+![Vallée de la Buège](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2590-2.jpeg)
 
-![Hortus et Pic Saint Loup](https://tcrouzet.com/images_tc/2020/09/IMG_2607-1.jpeg)
+![Hortus et Pic Saint Loup](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2607-1.jpeg)
 
 ### Dimanche 16, Croix-de-Rozon
 
@@ -90,11 +90,11 @@ Mon journal n’est ni intime ni extime, je suis dans l’entre d’eux, pouvant
 
 Petite boucle gravel entre campagne et ville. Je descends vers le Rhône, tentant désespérément de dénicher des chemins. Trop de trafic, d’autoroutes, et puis je me retrouve sur des pistes cyclables, une autre forme d’autoroute en secteur urbain. Je ne les apprécie pas beaucoup. Je n’aime pas plus rouler à côté des voitures que parmi elles.
 
-![Le Jura](https://tcrouzet.com/images_tc/2020/09/IMG_2684.jpeg)
+![Le Jura](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2684.jpeg)
 
-![Le Jura](https://tcrouzet.com/images_tc/2020/09/IMG_2688.jpeg)
+![Le Jura](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2688.jpeg)
 
-![Le Rhône](https://tcrouzet.com/images_tc/2020/09/IMG_2695.jpeg)
+![Le Rhône](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2695.jpeg)
 
 ### Mercredi 19, Croix-de-Rozon
 
@@ -102,11 +102,11 @@ J’expérimente le vélo taff. Je pars de chez Didier par la campagne, longe le
 
 ### Dimanche 23, Croix-de-Rozon
 
-![Salève](https://tcrouzet.com/images_tc/2020/09/IMG_2751.jpeg)
+![Salève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2751.jpeg)
 
-![Salève](https://tcrouzet.com/images_tc/2020/09/IMG_2757.jpeg)
+![Salève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2757.jpeg)
 
-![Salève](https://tcrouzet.com/images_tc/2020/09/IMG_2756.jpeg)
+![Salève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/IMG_2756.jpeg)
 
 ### Mercredi 26, Balaruc
 
@@ -144,7 +144,7 @@ Depuis janvier, je suis covid, je pense covid, j’ai même peut-être attrapé 
 
 Mais je suis ébranlé par les conversations sociales, par le génie des internautes à trouver eux-mêmes des explications à tous les phénomènes qu’ils observent, se croyant persuadés qu’ils ont la bonne explication. La pensée magique se donne à voir au grand jour. C’est assez merveilleux.
 
-J’ai l’impression d’observer mes contemporains penser comme s’ils étaient sous tomographie par émission de positons. Je vois les faits décousus se présenter à eux et leur cerveau les connecter, les ordonner, leur donner en un instant une logique aussi inébranlable que si elle était la vue d’une plaine où broutent des mammouths.
+J’ai l’impression d’observer mes contemporains penser comme s’ils étaient sous tomographie par émission de positons. Je vois les faits décousus se présenter à eux et leur cerveau les connecter, les ordonner, leur donner en un instant une logique aussi inébranlable que si elle était la vue d'une plaine où broutent des mammouths.
 
 Par exemple, hier j’ai répété que les mains étaient le principal facteur de propagation des épidémies, et des dizaines de personnes ont tenté de me démontrer par des arguments apparemment irréfutables que j’avais tors, afin de soutenir une autre théorie, que le covid ne pouvait que se transmettre par aérosol et donc que le port du masque généralisé était une bonne mesure.
 
@@ -163,3 +163,5 @@ J’aime me faire peur de bon matin.
 ### Dimanche 30, Balaruc
 
 Alors que je suis en pleine correction de *Vaincre les épidémies*, mon serveur se fait attaquer et mon blog est en carafe. Il y avait des années que je n’avais plus de problèmes. Je vais devoir replonger dans les logs, parfois j’ai envie de débrancher le tout, aller vers une solution technique minimaliste.
+
+Tags: Carnets, une

@@ -2,7 +2,7 @@
 
 Je ne sais pas quelle mort a souhaité Roland. Pour le peu que je le connaissais, à travers deux repas passés avec lui, à travers la lecture de ses livres, j’imagine que la violence ne lui aurait pas déplut. [Celle qui l’a saisi hier](http://www.sudouest.fr/2012/08/06/un-cognacais-decede-dans-une-sortie-de-route-787842-2938.php) n’en reste pas moins trop absurde pour ceux qui l’aimaient.<span id="more-26692"></span>
 
-![](https://tcrouzet.com/images_tc/2012/08/roland.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/08/roland-450x675.jpg)
 
 Tout allait mieux que jamais pour lui. [*Rêves de Gloire*](http://www.l-atalante.com/catalogue/la_dentelle_du_cygne/reves_de_gloire/48/698/roland_c_wagner/detail.html), ce roman si longtemps retardé, avait été partout plébiscité, certes dans un milieu encore trop underground, mais il était déjà évident que ce texte ne ferait que prendre de l’ampleur en même temps que les années passeraient. Roland n’aura pas la chance d’assister à son rêve de gloire. Un an après avoir publié son chef-d’œuvre, il a rencontré un stop prématuré sur sa route.
 
@@ -10,7 +10,7 @@ Vous serez demain plus nombreux à le lire, sans doute à l’étudier, à prend
 
 ---
 
-Dans [*J’ai débranché*](https://tcrouzet.com/jai-debranche/), j’ai intitulé un chapitre Rêves de Gloire bien sûr tout dédié à Roland. « Je m’éveille à l’aube et je monte au bureau prendre quelques notes. Quand je redescends, les enfants m’attendent. J’ouvre les volets de leurs chambres et retourne me coucher. Vers sept heures, Émile exaspère Isa qui se lève pour l’éloigner de moi.
+Dans [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), j’ai intitulé un chapitre Rêves de Gloire bien sûr tout dédié à Roland. « Je m’éveille à l’aube et je monte au bureau prendre quelques notes. Quand je redescends, les enfants m’attendent. J’ouvre les volets de leurs chambres et retourne me coucher. Vers sept heures, Émile exaspère Isa qui se lève pour l’éloigner de moi.
 
 Je n’ai pas la force de la suivre. Depuis mon arrivée dans le Lot-et-Garonne, j’ai passé plusieurs mauvaises nuits à cause de mon allergie. Au premier semblant de lucidité, je me mouche à n’en plus finir. Après, impossible de me rendormir. J’ai l’impression que ce dérèglement de mon système immunitaire explique à lui seul une part non négligeable de mon stress endémique. Le combat invisible mené par mon corps affecte ma santé mentale, sans que les antihistaminiques ne ramènent le calme.
 
@@ -39,3 +39,5 @@ Suis-je en train de fuir une fois de plus de la réalité en lisant Roland ? Je
 C’est pour cette évocation constante de l’auto-organisation que *Rêves de Gloire* me séduit. Je me suis saisi de la première échappatoire venue pour combler la béance temporelle ouverte sous moi par la déconnexion.
 
 – Moi aussi j’ai besoin d’une échappatoire ! s’exclame Isa. Va te promener en forêt avec les enfants. Surtout, épuise-les ! »
+
+Tags: Critique, littérature, SF, une

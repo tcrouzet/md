@@ -9,3 +9,5 @@ Pour ma part, je ne me drogue pas, je ne bois presque jamais d’alcool, je ne f
 En lisant ce matin un article dans [*NewScientist*](http://www.newscientist.com/article/mg19125612.200.html), je viens de comprendre pourquoi. Lorsque nous apprenons quelque chose de nouveau, notre cerveau active les mêmes zones que lorsque nous prenons des drogues comme l’héroïne. Nous nous sommes shootés à l’info. Nous sommes des infovores.
 
 Le plaisir jaillirait au moment de la compréhension. Je vois mieux maintenant pourquoi TF1 a autant de succès. Plus les informations sont bêtes et nombreuses, plus les téléspectateurs planent. Mais ce n’est pas aussi simple. Quand nous recevons plusieurs fois la même information, le plaisir diminue progressivement. TF1 ne devrait alors plus procurer aucun plaisir. Ça se terminera peut-être comme ça. Les gens finiront par comprendre qu’internet est beaucoup plus planant car beaucoup plus divers et riches en surprises.
+
+Tags: Journalisme

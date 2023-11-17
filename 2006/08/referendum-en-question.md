@@ -1,6 +1,6 @@
 # Référendum en question
 
-En écrivant pour mon [prochain livre](https://tcrouzet.com/2006/07/20/blogs-et-politique/) l’histoire du référendum pour la constitution européenne, j’ai fait une découverte assez déplaisante, déplaisante pour moi car je suppose que tous ceux qui s’occupent de la chose politique en sont conscients. Je suis très naïf je sais.
+En écrivant pour mon [prochain livre](http://blog.tcrouzet.com/2006/07/20/blogs-et-politique/) l’histoire du référendum pour la constitution européenne, j’ai fait une découverte assez déplaisante, déplaisante pour moi car je suppose que tous ceux qui s’occupent de la chose politique en sont conscients. Je suis très naïf je sais.
 
 > Un référendum ne peut jamais être démocratique !
 
@@ -13,3 +13,5 @@ Je suppose qu’il aurait pu poser la question autrement et demander : « Voul
 Mon exemple est peut-être un peu caricatural mais il montre que la formulation d’une question référendaire peut influencer les réponses. La démocratie directe, qui s’appuie sur de nombreux référendums, n’est donc pas la panacée car elle ouvre la voie à la manipulation.
 
 *PS : Mon argumentation est tirée par les cheveux, c’est vrai. Je voulais enchaîner sur une mise en question du droit de vote et je ne l’ai pas fait. J’essairai si je trouve le temps pendant les vacances.*
+
+Tags: Politique

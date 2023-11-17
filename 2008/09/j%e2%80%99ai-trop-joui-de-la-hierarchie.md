@@ -33,3 +33,5 @@ Ils deviendront des connecteurs.
 Ils éprouveront plus de plaisir parce qu’ils seront plus connectés.
 
 C’est le choix que j’ai fait.
+
+Tags: Connecteur

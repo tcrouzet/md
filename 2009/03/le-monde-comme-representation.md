@@ -41,3 +41,5 @@ Quand vous voyez quelqu’un au centre d’un hub, vous ne pouvez pas prendre sa
 Vous pouvez tenter de briser sa réputation, de casser ses liens, mais vous ne les récupérez pas pour autant. Les mécanismes sociaux ne sont plus les mêmes que dans une pyramide. Il existe sans aucun doute des comportements types, mais à coup sûr nous les avons pas encore tous identifiés.
 
 Cette vie dans le réseau n’est pas plus idyllique que dans la pyramide. Elle prend simplement en compte l’augmentation vertigineuse de la complexité et de la population en même temps que la finitude du monde physique. Ces contraintes impliquent une autre vie. Une vie d’une certaine façon plus sociale, moins individualiste, car il s’agit de se lier les uns aux autres.
+
+Tags: Connecteur

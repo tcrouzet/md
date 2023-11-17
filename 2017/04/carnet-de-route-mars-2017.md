@@ -4,15 +4,15 @@
 
 ### Lundi 1<sup>er</sup>, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/04/20170301a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170301a.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/04/20170301b.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170301b.jpg)
 
 ### Mardi 2, Balaruc
 
 Mon Mac s’éteint brutalement. Il ne s’agit pas d’un bug logiciel, mais d’une panne matérielle. Je pense aux données non sauvegardées comme photos ou maquettes que je ne synchronise pas dans le cloud. Et puis je touche ma machine, elle est brûlante. J’attends cinq minutes, et elle accepte de redémarrer. Je lance un backup, avec soulagement.
 
-![](https://tcrouzet.com/images_tc/2017/04/20170302a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170302a.jpg)
 
 ---
 
@@ -20,7 +20,7 @@ Hier soir, nous finissons par regarder *Black Mirror*. J’ai rarement autant ri
 
 ### Mercredi 3, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/04/20170303a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170303a.jpg)
 
 ### Dimanche 5, Balaruc
 
@@ -30,51 +30,51 @@ Suis narcissique. Je reçois des alertes quand on parle de moi sur le Net. Celle
 
 Quand je dis que je ne voterai pas contre Le Pen, on me dit que j’accepte implicitement les lois xénophobes qui seront promulguées. C’est justement notre version de la démocratie qui autorise des Le Pen à prendre le pouvoir, ou des voleurs, ou des menteurs, ou des incompétents… Repousser Le Pen cette fois, c’est se préparer au pire la prochaine fois. Nous devons penser un autre système, qui empêche une fois pour toutes ces abominations, et ce n’est pas en votant contre tel ou tel candidat que nous y réussirons.
 
-![](https://tcrouzet.com/images_tc/2017/04/20170306a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170306a.jpg)
 
 ### Mercredi 8, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/04/20170308a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170308a.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/04/20170308b.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170308b.jpg)
 
 ### Jeudi 9, Bouzigues
 
 Je vais me faire couper les cheveux. Pendant que je patiente, une des coiffeuses discute avec sa cliente de ses week-ends au mont Aigoual, à une heure et demie de chez nous. « Le propriétaire de notre appart connaît Bouzigues et Sète. C’est fou, non ? Le monde est petit… » J’ai beaucoup ri (décidément, je ris beaucoup dans mon carnet). Ça m’a fait penser à une histoire survenue peu après la Seconde Guerre mondiale dans les Alpes. Une Tignarde part en voyage de noces à Bourg-Saint-Maurice, en bas, dans la vallée. Alors, elle s’exclame : « La France, c’est beau ! »
 
-![](https://tcrouzet.com/images_tc/2017/04/20170309a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170309a.jpg)
 
 ### Vendredi 10, Balaruc
 
 En 1922, Lord Carnarvon est un des premiers archéologues à entrer dans la tombe de Toutankhamon avec Howard Carter. Quatre mois plus tard, il meurt suite à une septicémie, provoquée lorsqu’il s’est blessé en se rasant sur une piqûre de moustique. On parle alors de la malédiction du pharaon. Si les antibiotiques avaient existé à l’époque, Lord Carnavon ne serait pas mort à cette occasion et la malédiction n’aurait pas enfiévré les imaginaires. Ce pourrait être le point de départ d’une uchronie.
 
-![](https://tcrouzet.com/images_tc/2017/04/20170310a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170310a.jpg)
 
 ### Samedi 11, Balaruc
 
 *Résistants*, cette fois c’est bouclé. Reste plus qu’à trouver des lecteurs : les choses compliquées commencent, pour lesquelles je ne suis pas doué.
 
-![](https://tcrouzet.com/images_tc/2017/04/20170311a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170311a.jpg)
 
 ### Dimanche 12, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/04/20170312a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170312a.jpg)
 
 ### Mardi 14, Uzès
 
 J’interviens dans un lycée à l’occasion de l’opération Dix-Moi-Dix-Mots du ministère de la Culture. C’est la première et la dernière fois qu’on m’y prend, je suis écrivain, pas prof de substitution.
 
-![](https://tcrouzet.com/images_tc/2017/04/20170314a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170314a.jpg)
 
 ### Vendredi 17, Balaruc
 
 J’ai sauté des corrections de *Résistants* aux corrections de *L’affaire Deluze*, envie de solder tous les projets ouverts, pour en ouvrir de nouveaux, sur des bases vierges.
 
-![](https://tcrouzet.com/images_tc/2017/04/20170317a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170317a.jpg)
 
 ---
 
-À Sauramps, j’écouter Claude Ecken lire des passages de son dernier livre. Et toujours la même impression quand j’entre dans une librairie : nous sommes fous, pourquoi écrivons-nous autant, pourquoi publions-nous autant ?
+À Sauramps, j'écouter Claude Ecken lire des passages de son dernier livre. Et toujours la même impression quand j’entre dans une librairie : nous sommes fous, pourquoi écrivons-nous autant, pourquoi publions-nous autant ?
 
 Dans la fantasmagorie populaire, un auteur est un être singulier. Il suffit d’entrer dans une librairie pour constater combien il n’est qu’une victime du mimétisme.
 
@@ -88,7 +88,7 @@ Une idée saugrenue me trotte dans la tête. Si les promoteurs du logiciel libre
 
 ### Lundi 20, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/04/20170320a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170320a.jpg)
 
 ### Vendredi 24, Balaruc
 
@@ -100,7 +100,7 @@ La nuit, je lis *Don Quichotte*. Et voilà ce qu’écrit Cervantès, chapitre V
 
 ---
 
-Dès que [je critique le libre](https://tcrouzet.com/2017/03/24/faut-il-continuer-a-enrichir-wikipedia-si-ca-profite-a-google/), on me dit ce n’est pas parce quelques sagouins en bénéficient que ce n’est pas bien. On pourrait dire la même chose du communisme en accusant les apparatchiks d’avoir tout gâché. La véritable question est pourquoi telle idéologie magnifique sur le papier conduit à des horreurs ? Tout simplement parce que c’est une idéologie et non un produit de l’expérimentation.
+Dès que [je critique le libre](http://tcrouzet.com/2017/03/24/faut-il-continuer-a-enrichir-wikipedia-si-ca-profite-a-google/), on me dit ce n’est pas parce quelques sagouins en bénéficient que ce n’est pas bien. On pourrait dire la même chose du communisme en accusant les apparatchiks d’avoir tout gâché. La véritable question est pourquoi telle idéologie magnifique sur le papier conduit à des horreurs ? Tout simplement parce que c’est une idéologie et non un produit de l’expérimentation.
 
 ### Lundi 27, Balaruc
 
@@ -110,7 +110,7 @@ J’aime me faire insulter sur Internet. Souvent, envie de fuir à nouveau cette
 
 Si je devais réécrire un thriller médical, il mettrait en scène un adversaire de la vaccination qui peu à peu change d’avis.
 
-![](https://tcrouzet.com/images_tc/2017/04/20170327a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170327a.jpg)
 
 ### Mardi 28, Balaruc
 
@@ -118,11 +118,11 @@ Si je devais réécrire un thriller médical, il mettrait en scène un adversair
 
 ### Mercredi 29, Balaruc
 
-Comment faire la promo d’un livre ? Inventer de fausses publicités.
+Comment faire la promo d'un livre ? Inventer de fausses publicités.
 
-![](https://tcrouzet.com/images_tc/2017/04/cuisine.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/cuisine.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/04/20170329a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170329a.jpg)
 
 ### Jeudi 30, Montpellier
 
@@ -144,4 +144,8 @@ Devrais-je voter contre Le Pen pour repousser encore une fois la bête et confor
 
 *Résistants* existe physiquement…
 
-![](https://tcrouzet.com/images_tc/2017/04/20170331a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/20170331a.jpg)
+
+
+
+Tags: Carnets, une

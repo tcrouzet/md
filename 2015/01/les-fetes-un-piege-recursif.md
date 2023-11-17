@@ -18,4 +18,8 @@ Une bonne résolution serait de me moquer d’avoir raison. De m’occuper de be
 
 Oui, autant succomber à la mode ou la fuir sans se retourner. Aller là-bas, vers cette petite lueur qui, quand on la déniche, suffit à illuminer une journée, et bientôt une vie.
 
-![L'Excelsior, Nancy, 1911.](https://tcrouzet.com/images_tc/2015/01/excelsior.jpg)
+![L'Excelsior, Nancy, 1911.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/excelsior.jpg)
+
+
+
+Tags: une, vagabondage

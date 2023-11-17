@@ -1,6 +1,6 @@
 # 20 raisons d’être auteur
 
-Plongée #1 en LittFeed ou BuzzLitt… Mieux vaut une liste qu’un long discours. Perec déjà écrivait des listes.<span id="more-36633"></span>
+Plongée #1 en LittFeed ou BuzzLitt… Mieux vaut une liste qu'un long discours. Perec déjà écrivait des listes.<span id="more-36633"></span>
 
 1. J’ai un avis sur tout.
 
@@ -41,3 +41,5 @@ Plongée #1 en LittFeed ou BuzzLitt… Mieux vaut une liste qu’un long discour
 19. Je rêve d’un petit texte éblouissant jamais saisi.
 
 20. Je me donne le droit de dire sans être interrompu.
+
+Tags: buzzlitt, une

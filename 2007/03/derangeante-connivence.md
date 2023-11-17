@@ -1,6 +1,6 @@
 # Dérangeante connivence
 
-Hier soir, j’étais invité au [grand débat d’Europe 1](http://www.europe1.fr/antenne/references.jsp?id=3000). Il y avait autour de la table six politiciens et quatre représentants de la société civile. C’est la seconde fois que je participe à cette émission et j’ai encore une fois éprouvé une grande frustration. Les politiciens accaparent le temps de parole (très restreint quand on est dix autour d’une table), c’est leur spécialité, pour réciter leur leçon. Ces hommes sont des machines décérébrées (j’explique pourquoi plus loin).
+Hier soir, j’étais invité au [grand débat d’Europe 1](http://www.europe1.fr/antenne/references.jsp?id=3000). Il y avait autour de la table six politiciens et quatre représentants de la société civile. C’est la seconde fois que je participe à cette émission et j'ai encore une fois éprouvé une grande frustration. Les politiciens accaparent le temps de parole (très restreint quand on est dix autour d’une table), c’est leur spécialité, pour réciter leur leçon. Ces hommes sont des machines décérébrées (j’explique pourquoi plus loin).
 
 Avec condescendance, [Devedjian](http://www.blogdevedjian.com) m’a dit que je ne représentais personne. J’ai essayé en vain de lui expliquer que nous avions le droit, et même le devoir, de nous représenter nous-même. En gros, et même plus qu’en gros, je n’ai pas besoin de lui. Et j’espère que nous aurons de moins en moins besoin de personnage comme lui. Les gens de son espèce ne veulent surtout pas d’un cinquième pouvoir.
 

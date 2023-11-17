@@ -21,3 +21,5 @@ Comment scruter l’infiniment grand, comment analyser l’infiniment petit, com
 Nos sociétés sont devenues trop complexes pour que nous puissions vivre sans ordinateurs, ordinateurs qui ont eux-mêmes décuplé cette complexité. Quand Licklider publia son article en 1960, nous étions 3 milliards. En 2000, nous étions déjà deux fois plus nombreux. À lui seul notre nombre contribue à la complexité. Il pose des problèmes de ressources, des problèmes écologiques, des problèmes sociaux… déjà difficiles à résoudre avec les ordinateurs mais qui, sans eux, auraient précipité le monde dans le chaos.
 
 La symbiose ne se contente pas de nous servir, elle nous transforme. Nous ressemblons de moins en moins aux homos sapiens sapiens qui arpentent le globe depuis 200 000 ans. C’est d’ailleurs sans doute notre seule chance de survivre aux diverses crises qui frappent le début du troisième millénaire tout en marquant l’avènement d’une nouvelle forme de civilisation.
+
+Tags: NetCulture, noepub, Une brève histoire de l'informatique, une

@@ -1,6 +1,6 @@
 # La démocratie inachevée
 
-L’idéal démocratique ne s’accomplira que si nous envisageons tous les modes possibles d’organisation de la société, et non seulement le modèle pyramidal qui implique la représentation de type monarchiste. Certains secteurs de la société ont peut-être besoin de pyramidal, d’autres non. Seulement, faudrait-il accepter les autres possibilités ! [Nadia vient de me faire repenser à ces questions par ses questions.](https://tcrouzet.com/2006/02/23/mais-qui-sont-les-connecteurs/#comment-74427)<span id="more-14283"></span>
+L’idéal démocratique ne s’accomplira que si nous envisageons tous les modes possibles d’organisation de la société, et non seulement le modèle pyramidal qui implique la représentation de type monarchiste. Certains secteurs de la société ont peut-être besoin de pyramidal, d’autres non. Seulement, faudrait-il accepter les autres possibilités ! [Nadia vient de me faire repenser à ces questions par ses questions.](http://blog.tcrouzet.com/2006/02/23/mais-qui-sont-les-connecteurs/#comment-74427)<span id="more-14283"></span>
 
 ### Qu’est-ce que l’auto-organisation ?
 
@@ -22,7 +22,7 @@ Il ne faut pas chercher des exemples d’auto-organisation au grand jour. Nous s
 
 ### Note sur l’autogestion
 
-Quand je parle de l’auto-organisation, on me renvoie souvent à l’autogestion. Pour moi l’autogestion, c’est typiquement la coopérative. Tous les employés possèdent l’outil de production, éventuellement à parts égales. Maintenant une coopérative n’est pas nécessairement auto-organisée. Elle peut adopter une structure pyramidale, ou tout au moins disposer d’un management centralisé (c’est cette nécessaire centralité de l’auto-gestion qui la démarque fortement de l’auto-organisation).
+Quand je parle de l’auto-organisation, on me renvoie souvent à l’autogestion. Pour moi l’autogestion, c’est typiquement la coopérative. Tous les employés possèdent l’outil de production, éventuellement à parts égales. Maintenant une coopérative n’est pas nécessairement auto-organisée. Elle peut adopter une structure pyramidale, ou tout au moins disposer d'un management centralisé (c'est cette nécessaire centralité de l'auto-gestion qui la démarque fortement de l'auto-organisation).
 
 Inversement, un système auto-organisé n’est pas nécessairement égalitaire. La nature est dans une grande mesure auto-organisée et il y existe des puissants et des faibles.
 
@@ -38,9 +38,9 @@ L’auto-organisation est alors une méthode à considérer. Elle est démocrati
 
 L’auto-organisation en elle-même ne garantit ni la liberté, ni l’égalité, ni la fraternité. Pas plus que le système pyramidal d’ailleurs.
 
-Dans la quatrième partie de mon [*Alternative nomade*](https://tcrouzet.com/alternative-nomade/), je montre que la liberté et la fraternité sont consubstantielles. Plus nous nous lions, plus nous accroissons notre liberté, ce qui est la seule stratégie de survie dans un monde qui se complexifie.
+Dans la quatrième partie de mon [*Alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), je montre que la liberté et la fraternité sont consubstantielles. Plus nous nous lions, plus nous accroissons notre liberté, ce qui est la seule stratégie de survie dans un monde qui se complexifie.
 
-La complexité du monde nous pousse à adopter l’auto-organisation, une auto-organisation qui maximise la liberté et la fraternité (ce qui ne serait pas le cas si la complexité n’était pas extrême). Pour le même prix, nous avons la liberté, la fraternité et la complexité… ou la catastrophe.
+La complexité du monde nous pousse à adopter l’auto-organisation, une auto-organisation qui maximise la liberté et la fraternité (ce qui ne serait pas le cas si la complexité n’était pas extrême). Pour le même prix, nous avons la liberté, la fraternité et la complexité... ou la catastrophe.
 
 Reste l’égalité, l’égalité en droit bien sûr. Je ne pense pas qu’une forme d’organisation puisse intégrer en elle-même cette idée, justement parce que c’est une idée qui a émergé assez tardivement.
 
@@ -48,7 +48,7 @@ Imaginons de fortes inégalités. Certains liens se retrouvent déséquilibrés,
 
 ### Manager vs leader
 
-J’ai discuté de cette nuance dans la seconde partie du *Cinquième pouvoir*. Pour résumer. Le manager connaît la solution. Le leader donne envie de trouver une solution et de la mettre en œuvre.
+J'ai discuté de cette nuance dans la seconde partie du *Cinquième pouvoir*. Pour résumer. Le manager connaît la solution. Le leader donne envie de trouver une solution et de la mettre en œuvre.
 
 Alors oui il y aura toujours des leaders, parce que des hommes auront plus d’énergie, plus de *stamina*, plus de charisme… plus de facilité à créer des liens. L’égalité en droit n’empêche pas la diversité.
 
@@ -58,4 +58,6 @@ Nous devons mettre en place des structures souples pour que les leaders puissent
 
 Pouvons-nous empêcher un leader de s’accrocher ? La complexité sans cesse croissante devrait se charger de faire le ménage. Un leader qui s’accroche, qui n’est plus capable d’accompagner la complexité, devient un frein… il pénalise le système… qui fera émerger un autre leader si nécessaire.
 
-*PS : Je ne pense pas avoir dit qu’Internet était une société. Internet est un territoire où une part de notre société se développe. Si notre société a un pied sur un territoire, un pied sur un autre, elle ne peut que boiter. C’est toute la société qui ressent les claudications. C’est une autre façon de décrire le cycle 1/Information 2/Homme 3/société 4/Homme. [Transformer l’information, transforme la société.](https://tcrouzet.com/2010/01/19/rever-agir/)*
+*PS : Je ne pense pas avoir dit qu’Internet était une société. Internet est un territoire où une part de notre société se développe. Si notre société a un pied sur un territoire, un pied sur un autre, elle ne peut que boiter. C’est toute la société qui ressent les claudications. C’est une autre façon de décrire le cycle 1/Information 2/Homme 3/société 4/Homme. [Transformer l’information, transforme la société.](http://blog.tcrouzet.com/2010/01/19/rever-agir/)*
+
+Tags: auto-organisation, Politique

@@ -10,21 +10,21 @@ Mais il y a un hic. La nouvelle version d’Ulysses est moins agréable que l’
 
 ---
 
-*Addendum* Et si Ulysses est si génial, c’est aussi parce que ses développeurs sont à l’écoute des auteurs. Le principal défaut la version 2.0 soulevé plus loin sera corrigé dès la prochaine mise à jour. Comment ne pas aimer Ulysses dans ces conditions ? Quand je touche Word, je le sens désormais hostile, c’est un étrange sentiment.
+*Addendum* Et si Ulysses est si génial, c'est aussi parce que ses développeurs sont à l'écoute des auteurs. Le principal défaut la version 2.0 soulevé plus loin sera corrigé dès la prochaine mise à jour. Comment ne pas aimer Ulysses dans ces conditions ? Quand je touche Word, je le sens désormais hostile, c'est un étrange sentiment.
 
-![soulmen](https://tcrouzet.com/images_tc/2015/03/soulmen.jpg)
+![soulmen](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/soulmen-600x609.jpg)
 
 ---
 
 Avec Ulysses, on dispose d’un mode d’écriture sans distraction ou distraction free mode, de plus en plus populaires sur de plus en plus de traitements de texte. Scrivener est peut-être celui qui a popularisé cette fonction. On se retrouve avec le texte et seulement le texte. Affichage optimal pour l’écriture. Pas de mise en forme, sinon les commandes du langage Markdown. Alors on écrit, on n’a que cela à faire.
 
-![Le mode écriture sans distraction de Scrivener. Hors texte noir.](https://tcrouzet.com/images_tc/2015/03/dfree1.png)
+![Le mode écriture sans distraction de Scrivener. Hors texte noir.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/dfree1.png)
 
-![Mode d'écriture plein écran d'Ulysses 1.2. Hors texte noir, avec haut de page et bas de base visibles.](https://tcrouzet.com/images_tc/2015/03/dfree2.png)
+![Mode d'écriture plein écran d'Ulysses 1.2. Hors texte noir, avec haut de page et bas de base visibles.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/dfree2.png)
 
 Sur Ulysses 1.2, le mode sans distraction était parfait. Le texte sur fond clair, les marges hors texte noires pour ne pas éblouir. Ce qui est très important dès qu’on travaille avec un écran autre que celui de l’iPad.
 
-![Mode plein sur Ulysses 2.0. Plus de marge, plus qu'un fond uniforme que Je suis obligé de griser pour ne pas être ébloui.](https://tcrouzet.com/images_tc/2015/03/dfree3.png)
+![Mode plein sur Ulysses 2.0. Plus de marge, plus qu'un fond uniforme que Je suis obligé de griser pour ne pas être ébloui.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/dfree3.png)
 
 Patatrac ! Sur Ulysses 2.0, les marges noires ont disparu. On se prend toute la luminosité de l’écran dans la figure. Je suis obligé de griser l’ensemble du fond de l’écran pour diminuer le contraste ce qui malheureusement diminue la lisibilité de la typo. C’est un réglage bâtard. Toutes les études physiologiques montrent qu’on lit et écrit mieux sur fond blanc, ce n’est pas une raison pour envoyer inutilement du blanc dans les yeux de l’auteur. Faire disparaître la page est une très mauvaise idée. Je ne comprends pas ce qui est passé par la tête des développeurs, sinon leur désir de minimalisme et de pureté.
 
@@ -38,4 +38,6 @@ Il suffirait que quand on déplace une feuille dans un groupe, elle se positionn
 
 Ne vous méprenez pas. Ulysses est génial. J’ai juste un peu de mal à basculer sur sa dernière mouture. Je suis sûr que tout cela s’arrangera très vite.
 
-Maintenant, pour qu’Ulysses devienne l’outil de la profession, il lui manque une seule grande fonctionnalité. Le mode suivie de corrections. Parce que nous restons obligé d’exporter sous Word en fin de travail, je trouve ça très con.
+Maintenant, pour qu’Ulysses devienne l’outil de la profession, il lui manque une seule grande fonctionnalité. Le mode suivie de corrections. Parce que nous restons obligé d'exporter sous Word en fin de travail, je trouve ça très con.
+
+Tags: Cuisine, Ulysses, une

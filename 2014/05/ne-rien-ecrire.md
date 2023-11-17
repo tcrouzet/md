@@ -19,3 +19,5 @@ Trop tard pour me faire greffer un autre cerveau. On doit pouvoir classer les au
 Je n’avais rien à dire, je voulais écrire sur cet état, mais taire les mots est impossible. Je ne peux écrire sur le fait de ne pas écrire. J’imagine une horreur proche, quand nous serons tous connectés mentalement, quelle avalanche monstrueuse produirons-nous, tous avec la conviction de penser des choses extraordinaires et qui mériteront d’être entendues impérativement.
 
 Sophie Calle a filmé *No sex last night*, je suis incapable d’écrire *No writing today*.
+
+Tags: Autobiographie, une

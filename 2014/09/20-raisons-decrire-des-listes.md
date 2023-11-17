@@ -20,7 +20,7 @@ Ou le *List manifesto*, parce que le succès de BuzzFeed n’est pas qu’une ar
 
 9. Leur structure simple impose d’ajouter des points à des points, donc à dépasser la première intuition.
 
-10. Tant qu’elles n’ont pas trop de points, le lecteur peut les garder en tête et s’inventer un paysage (réédification de la totalité à partir d’un jeu d’échantillons).
+10. Tant qu’elles n’ont pas trop de points, le lecteur peut les garder en tête et s’inventer un paysage (réédification de la totalité à partir d'un jeu d'échantillons).
 
 11. On peut les lire par la fin ou même dans le désordre.
 
@@ -41,3 +41,5 @@ Ou le *List manifesto*, parce que le succès de BuzzFeed n’est pas qu’une ar
 19. Elles s’opposent à l’idéalisme philosophique et consacrent le matérialisme.
 
 20. Elles invitent le lecteur à poursuivre le travail.
+
+Tags: buzzlitt, une

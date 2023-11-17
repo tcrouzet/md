@@ -4,13 +4,13 @@ Comment gagner sa vie avec ses textes ? Avec sa musique ? Sa peinture ? Sa ph
 
 J’ai reçu il y a quelque temps, un mail de S auquel j’ai promis de répondre (même si j’ai déjà répondu cent fois).
 
-> Je suis tombé par hasard sur votre blog, et je suis très intéressé par votre idée, comme quoi il serait possible de vivre d’un blog, tout en écrivant des choses intéressantes. À vrai dire, j’ai une idée en tête, j’aimerais faire du journalisme de fond, mais personne n’accepterais de me publier ou si peu je le crains, et je ne souhaite pas devenir SDF pour le bien de l’humanité. Du coup, comment faites-vous pour vivre de votre blog ? Et de vos livres ? Car j’ai vu que vous en avez écrit un certain nombre. Je suis vraiment taraudé par cette question, car j’ai cette idée dans la tête depuis longtemps, mais j’ai un mal fou à réussir à me lancer, il me faudrait un peu de concret.
+> Je suis tombé par hasard sur votre blog, et je suis très intéressé par votre idée, comme quoi il serait possible de vivre d'un blog, tout en écrivant des choses intéressantes. À vrai dire, j'ai une idée en tête, j'aimerais faire du journalisme de fond, mais personne n'accepterais de me publier ou si peu je le crains, et je ne souhaite pas devenir SDF pour le bien de l'humanité. Du coup, comment faites-vous pour vivre de votre blog ? Et de vos livres ? Car j'ai vu que vous en avez écrit un certain nombre. Je suis vraiment taraudé par cette question, car j'ai cette idée dans la tête depuis longtemps, mais j'ai un mal fou à réussir à me lancer, il me faudrait un peu de concret.
 
 Dès le début de sa *Lettre à un jeune artiste*, Hermann Hesse écrit :
 
 > Cependant, il y a aussi cette phrase où tu te dis hanté par l’idée qu’un sens et une mission ont été assignés à ta personne et à ta vie et tu souffres de n’avoir pas révélé ce sens ni rempli cette tâche.
 
-Le jeune artiste ne sait pas encore dans quelle direction œuvrer mais il en ressent l’urgence, une urgence qui le pousse à négliger tout le reste. Cette [*ubris*](http://fr.wikipedia.org/wiki/Hybris) risque de l’amener à la folie, de le ruiner, de l’isoler et même à le rendre malade mais sans qu’il ne s’en préoccupe.
+Le jeune artiste ne sait pas encore dans quelle direction œuvrer mais il en ressent l’urgence, une urgence qui le pousse à négliger tout le reste. Cette [*ubris*](http://fr.wikipedia.org/wiki/Hybris) risque de l'amener à la folie, de le ruiner, de l'isoler et même à le rendre malade mais sans qu’il ne s’en préoccupe.
 
 Alors S, si tu as déjà peur des risques avant même de commencer, ne commence pas. Des millions de gens rêvent d’œuvres sublimes et chaque année des millions de gens renoncent parce qu’ils ont peur des conséquences.
 
@@ -33,13 +33,12 @@ De quoi je vis aujourd’hui ? Pas de mon blog, ni de mes livres. Isabelle ne t
 Nous sommes privilégiés rien que parce que nous avons la possibilité d’effectuer ce choix. Je le sais. Mais rien n’a changé par rapport au temps de Flaubert ou de Proust.
 
 1. Tu as du succès (probabilité faible, tout le monde ne pouvant avoir du succès).
-
-2. Tu as un mécène (je connais beaucoup d’artistes qui vivent du RSA – et le [revenu de base](https://tcrouzet.com/tag/revenu-de-base/) pourrait aider beaucoup de gens à franchir le pas).
-
+2. Tu as un mécène (je connais beaucoup d’artistes qui vivent du RSA – et le [revenu de base](http://tcrouzet.com/tag/revenu-de-base/) pourrait aider beaucoup de gens à franchir le pas).
 3. Tu as un travail et tu œuvres à côté (de nombreux jobs laissent beaucoup de temps libres comme je l’ai expérimenté à mes débuts à Paris – il suffit de bien les choisir).
-
 4. Tu as réussi à économiser un peu d’argent qui t’aide à t’abandonner à l’*ubris* (ou tu as hérité comme Flaubert ou Proust).
 
-Voilà les choix qui s’offrent à tous les artistes comme à tous les blogueurs (je parle de ceux qui tentent de produire des œuvres de l’esprit, [pas aux blogueurs qui choisissent le publireportage](https://tcrouzet.com/2010/12/29/web-tue-journalisme/)).
+Voilà les choix qui s’offrent à tous les artistes comme à tous les blogueurs (je parle de ceux qui tentent de produire des œuvres de l’esprit, [pas aux blogueurs qui choisissent le publireportage](http://blog.tcrouzet.com/2010/12/29/web-tue-journalisme/)).
 
-Vivre de son blog est théoriquement possible mais pas plus facile que de vivre de sa musique ou de sa peinture. Il serait absurde de croire que soudain tout le monde va vivre de sa plume. En revanche, tout le monde peut publier, tout le monde peut échanger. C’est à ce niveau que se joue la nouveauté. [*La stratégie du cyborg*](https://tcrouzet.com/la-strategie-du-cyborg/) est ouverte à tous.
+Vivre de son blog est théoriquement possible mais pas plus facile que de vivre de sa musique ou de sa peinture. Il serait absurde de croire que soudain tout le monde va vivre de sa plume. En revanche, tout le monde peut publier, tout le monde peut échanger. C’est à ce niveau que se joue la nouveauté. [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/) est ouverte à tous.
+
+Tags: NetCulture, une

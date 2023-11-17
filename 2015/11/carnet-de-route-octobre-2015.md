@@ -4,7 +4,7 @@
 
 ### Vendredi 2, Balaruc
 
-[Goofy me suggère](https://tcrouzet.com/2015/10/01/carnet-de-route-septembre-2015/#comment-183847) de verser dans l’autodérision. J’ai usé de cette veine dans *J’ai débranché*. Une astuce : introduire un regard extérieur qui contredit mon « je », en fait un truc tout petiot. Par exemple : « Ce n’est pas sa faute s’il est anormal », dit Isa devant ma mère qui s’inquiète tout de suite, surtout quand elle voit nos enfants péter les plombs aussi souvent que je le faisais à leur âge. Je ne pratique l’humour qu’involontairement.
+[Goofy me suggère](http://tcrouzet.com/2015/10/01/carnet-de-route-septembre-2015/#comment-183847) de verser dans l’autodérision. J’ai usé de cette veine dans *J’ai débranché*. Une astuce : introduire un regard extérieur qui contredit mon « je », en fait un truc tout petiot. Par exemple : « Ce n’est pas sa faute s’il est anormal », dit Isa devant ma mère qui s’inquiète tout de suite, surtout quand elle voit nos enfants péter les plombs aussi souvent que je le faisais à leur âge. Je ne pratique l’humour qu’involontairement.
 
 ### Samedi 3, Balaruc
 
@@ -32,9 +32,9 @@ Un cauchemar. Je trouve mon père inconscient, en sang. Je le touche, il est enc
 
 ### Vendredi 9, Paris
 
-Je suis incapable d’écrire autre chose que [mes minutes](https://tcrouzet.com/une-minute/). Aucune sensation ne se pose avec assez de force pour exiger les mots.
+Je suis incapable d’écrire autre chose que [mes minutes](http://tcrouzet.com/une-minute/). Aucune sensation ne se pose avec assez de force pour exiger les mots.
 
-![En TGV, levé de soleil sur le Rhone.](https://tcrouzet.com/images_tc/2015/11/rhone.jpg)
+![En TGV, levé de soleil sur le Rhone.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/rhone.jpg)
 
 ---
 
@@ -54,7 +54,7 @@ Sur Twitter, je me désabonne des gens qui ne me suivent pas. Je resserre ma com
 
 ### Mardi 13, Balaruc
 
-![La journée commence en douceur.](https://tcrouzet.com/images_tc/2015/11/lever.jpg)
+![La journée commence en douceur.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/lever.jpg)
 
 La digital detox est une intox.
 
@@ -64,11 +64,11 @@ Quand je vais au village, je passe en vélo sur un pont de bois réservé aux pi
 
 ### Mercredi 14, Balaruc
 
-![Paysage matinal en strates.](https://tcrouzet.com/images_tc/2015/11/couches.jpg)
+![Paysage matinal en strates.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/couches.jpg)
 
 Je passe devant un atelier avec des palettes colorées entreposées sous des arbres qui perdent leurs feuilles. J’ai pensé automne. Je me suis même un instant senti dans les environs de Seattle. La couleur rouge du mur renforçait celle du soleil et m’a projeté aux pieds de la chaîne des Cascades. L’endroit m’est revenu avec la force décrite par le Proust que j’aime, celui des impressions. Si j’avais le courage, je reproduirais les notes et les dessins de cette journée de mon passé. J’ai le projet sans cesse repoussé de me lancer dans le retroblogging.
 
-![Les couleurs de l'été Indien.](https://tcrouzet.com/images_tc/2015/11/palettes.jpg)
+![Les couleurs de l'été Indien.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/palettes.jpg)
 
 ---
 
@@ -80,7 +80,7 @@ Me réveille avec une angoisse du backup. Ça me prend de temps en temps.
 
 ---
 
-Je passe un bon moment à lire des news sur [KIC 8462852](http://news.discovery.com/space/alien-life-exoplanets/has-kepler-discovered-an-alien-megastructure-151014.htm), une étoile autour de laquelle pourrait orbiter une mégastructure artificielle. Je préfère ça à lire des [articles sur la collapsologie](http://www.internetactu.net/2015/10/15/vers-leffondrement-aurons-nous-encore-un-futur/comment-page-1/). Le déclinisme est devenu une mode payante. Si tu défends ce point de vue, tu vends des livres et on t’invite partout, surtout à la COP21 où tu auras droit à des canapés bios. J’ai envie de me ranger dans le camp adverse des technos optimistes, non par esprit de contradiction, mais parce que je ne vois pas d’autre espoir pour une humanité de bientôt 9 milliards d’individus. C’est ma version du pari de Pascal. Je refuse d’imaginer des plans B qui impliquent tous des milliards de victimes.
+Je passe un bon moment à lire des news sur [KIC 8462852](http://news.discovery.com/space/alien-life-exoplanets/has-kepler-discovered-an-alien-megastructure-151014.htm), une étoile autour de laquelle pourrait orbiter une mégastructure artificielle. Je préfère ça à lire des [articles sur la collapsologie](http://www.internetactu.net/2015/10/15/vers-leffondrement-aurons-nous-encore-un-futur/comment-page-1/). Le déclinisme est devenu une mode payante. Si tu défends ce point de vue, tu vends des livres et on t’invite partout, surtout à la COP21 où tu auras droit à des canapés bios. J’ai envie de me ranger dans le camp adverse des technos optimistes, non par esprit de contradiction, mais parce que je ne vois pas d’autre espoir pour une humanité de bientôt 9 milliards d’individus. C’est ma version du pari de Pascal. Je refuse d'imaginer des plans B qui impliquent tous des milliards de victimes.
 
 ### Vendredi 16, Balaruc
 
@@ -92,7 +92,7 @@ La limpidité du matin amène un beau cagnard d’automne dans l’après-midi, 
 
 ### Samedi 17, Balaruc
 
-Je devrais creuser l’idée : Internet comme territoire (de la nécessité d'enseigner l'histoire et la géographie du Net à l'école). C’est le sujet possible d’un manuel à distribuer à tous les collégiens (pas mal de fric à la clé). Voir Internet comme un territoire (plutôt que comme un service) change la perspective politique et philosophique sur cet objet…
+Je devrais creuser l’idée : Internet comme territoire (de la nécessité d'enseigner l'histoire et la géographie du Net à l'école). C’est le sujet possible d’un manuel à distribuer à tous les collégiens (pas mal de fric à la clé). Voir Internet comme un territoire (plutôt que comme un service) change la perspective politique et philosophique sur cet objet...
 
 ---
 
@@ -106,7 +106,7 @@ Je devrais creuser l’idée : Internet comme territoire (de la nécessité d'e
 
 Hier soir, nous amenons les enfants voir *Everest* au cinéma. Non parce que je suis fan d’*Into thin Air* de Krakauer, mais parce qu’une famille de nos amis y a amené ses enfants et qu’ils ont apprécié. Connaissant la fin tragique de l’histoire, je suis un peu réticent. Découvrir la salle avec beaucoup d’enfants, parfois plus jeunes que les miens, me rassure. Sauf qu’Émile tient dix minutes, Tim à peine une heure. Les autres jeunes spectateurs sont-ils insensibilisés à la souffrance et à la violence à force de trop de télévision ? Une insensibilisation qui ne préfigure rien de bon. Une sorte de préparation à la guerre.
 
-### Jeudi 22, Montagnac
+### Jeudi 22, Maillardou
 
 Mon engouement « littéraire » pour la tablette s’est éteint. Je ne vois pas l’intérêt d’écrire avec elle plutôt qu’avec un ordi, à peine plus lourd qu’elle et disposant d’un meilleur clavier. C’est d’autant plus vrai quand j’écris dehors.
 
@@ -114,23 +114,23 @@ Mon engouement « littéraire » pour la tablette s’est éteint. Je ne vois 
 
 Moins je fréquente les réseaux sociaux, plus j’en reviens aux flux RSS. Je privilégie de plus en plus les technologies asynchrones par opposition au temps réel.
 
-### Vendredi 23, Montagnac
+### Vendredi 23, Maillardou
 
-Depuis que je publie [mes minutes](https://tcrouzet.com/une-minute/) sur Wattpad, on m’a fait plusieurs fois remarquer que les jeunes avaient besoin de textes plus simples que les miens et que je devrais faire des efforts pour me mettre à leur portée. C’est le monde à l’envers. Le jeune serait la mesure de tout. Et le monde devrait se tordre pour lui comme si le jeune allait rester jeune toute sa vie. On dirait que le jeune se complet dans son état alors qu’il vit la phase le plus transitoire de l’existence (j’ai tout fait pour la quitter au plus vite, en commençant par lire des livres écrits pour les grands).
+Depuis que je publie [mes minutes](http://tcrouzet.com/une-minute/) sur Wattpad, on m’a fait plusieurs fois remarquer que les jeunes avaient besoin de textes plus simples que les miens et que je devrais faire des efforts pour me mettre à leur portée. C’est le monde à l’envers. Le jeune serait la mesure de tout. Et le monde devrait se tordre pour lui comme si le jeune allait rester jeune toute sa vie. On dirait que le jeune se complet dans son état alors qu’il vit la phase le plus transitoire de l’existence (j’ai tout fait pour la quitter au plus vite, en commençant par lire des livres écrits pour les grands).
 
 ---
 
 Quand j’arrive dans le Lot-et-Garonne chez mes beaux parents, je pose mes soucis, mes désirs, mes rêves et je dors. Avant d’arriver, je n’ai pas conscience de ma fatigue. Le lieu révèle ma faiblesse plus qu’il ne la crée, parce que tout autre lieu hors de Paris et de chez moi provoque les mêmes symptômes. Si je ne voyageais pas, je ne me reposerais jamais. J’en déduis que je ne voyage pas assez.
 
-### Dimanche 25, Montagnac
+### Dimanche 25, Maillardou
 
-J’écris les derniers chapitre de [*1 minutes*](https://tcrouzet.com/une-minute/). Je n’aime pas fermer les portes ouvertes au début d’une histoire. Pourquoi proposer une explication ? Une histoire ne doit pas se replier sur elle-même, mais exiger une suite éternelle. On devrait se contenter de décrire des mondes.
+J’écris les derniers chapitre de [*1 minutes*](http://tcrouzet.com/une-minute/). Je n’aime pas fermer les portes ouvertes au début d’une histoire. Pourquoi proposer une explication ? Une histoire ne doit pas se replier sur elle-même, mais exiger une suite éternelle. On devrait se contenter de décrire des mondes.
 
 ---
 
 Je lis un thriller populaire, forgé sur le même moule à gâteaux que les autres thrillers populaires, avec la volonté minutieuse de ne pas s’écarter du courant principal, sauf pour raconter des banalités sur la vie des personnages. Alors je saute de plus en plus de passages, parce que le texte n’est que de l’emballage lourdingue pour une narration pas nécessairement mauvaise.
 
-### Mardi 27, Montagnac
+### Mardi 27, Maillardou
 
 Quand j’écris un roman, je m’impose une camisole mentale. Je n’ai d’énergie pour rien d’autre. Je ne connais pas de meilleure façon de brider ma créativité qu’en lui donnant ainsi une direction unique.
 
@@ -150,14 +150,16 @@ Je ne m’intéresse qu’aux déraillements. Respecter les règles ne m’amuse
 
 Sara vient de m’apprendre la mort de Yal. Je pensais à lui tous les jours depuis que je le savais atteint d’un cancer. Avec Isa, on est parti se promener dans les bois pour parler de lui. Impossible de faire autre chose.
 
-### Mercredi 28, Montagnac
+### Mercredi 28, Maillardou
 
 Quand je suis triste, je ne pleure pas. Très vite, j’ai mal au ventre. L’émotion court-circuite ma conscience. La nouvelle de la mort de Yal est passée directement dans mes entrailles.
 
 ### Jeudi 29, Balaruc
 
-![Un ciel trop beau, en souvenir de Yal.](https://tcrouzet.com/images_tc/2015/11/ciel.jpg)
+![Un ciel trop beau, en souvenir de Yal.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/ciel.jpg)
 
 ### Samedi 31, Balaruc
 
 « La lecture nous donne des amis inconnus, et quel ami qu’un lecteur ! nous avons des amis connus qui ne lisent rien de nous ! l’auteur espère avoir payé sa dette en dédiant cette œuvre *diis ignotis*. » Balzac, dans l’avis au lecteur de *L’Élixir de longue vie*, un petit chef-d’œuvre gothique.
+
+Tags: Carnets, une

@@ -8,7 +8,7 @@ En lisant ce passage, j’ai perçu quelque chose d’évident mais qui ne m’a
 
 Si la décentralisation, le bottom-up, le maillage en réseau conviennent mieux à un monde complexe, le capital lui aussi doit être décentralisé. Et on ne pourra plus appeler capitaliste un monde où le capital sera décentralisé.
 
-Corollaire : on ne peut pas être anticapitaliste et centralisateur. Mais n’est-ce pas la position de la gauche de la gauche ? Comme nombre de mouvements réformateurs, elle est incapable de se placer dans le [nouveau paradigme](https://tcrouzet.com/2008/11/21/strategie-decologie-politique/).
+Corollaire : on ne peut pas être anticapitaliste et centralisateur. Mais n’est-ce pas la position de la gauche de la gauche ? Comme nombre de mouvements réformateurs, elle est incapable de se placer dans le [nouveau paradigme](http://blog.tcrouzet.com/2008/11/21/strategie-decologie-politique/).
 
 Pratiquement, pour décentraliser le capital, il faut développer la longue traîne. Nous devons nous installer à notre compte, devenir des artisans high-tech interconnectés. Plus la traîne s’allongera au détriment de la tête, plus le capital se redistribuera.
 
@@ -16,4 +16,6 @@ Pour décentraliser le capital, il faut créer une infrastructure économique ma
 
 Un militant anticapitaliste doit tout faire pour devenir un travailleur indépendant. Il doit cesser de collaborer à la concentration du capital. De militant (celui qui demande à une autorité d’agir pour lui), il doit devenir activiste (celui qui agit lui-même).
 
-En tant qu’anticapitaliste, je ne suis pas de droite mais je ne suis pas non plus de gauche car je ne partage pas les solutions de gauche. Je suis un activiste du [nouveau paradigme](https://tcrouzet.com/2008/11/21/strategie-decologie-politique/).
+En tant qu’anticapitaliste, je ne suis pas de droite mais je ne suis pas non plus de gauche car je ne partage pas les solutions de gauche. Je suis un activiste du [nouveau paradigme](http://blog.tcrouzet.com/2008/11/21/strategie-decologie-politique/).
+
+Tags: Connecteur

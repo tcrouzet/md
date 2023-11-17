@@ -86,4 +86,8 @@ Quand les choses marchent d’elles-mêmes, elles risquent d’échapper au cont
 
 Le centre est si glorieux que d’autres centres se créent dans les domaines qu’il délaisse. Le pouvoir politique pour lui, le pouvoir économique ou culturel pour d’autres. Un centre implique d’autres centres et la négation de ce qui serait décentralisé.
 
-![Centralize your minds par OH-Photography](https://tcrouzet.com/images_tc/2014/03/centralized.jpg)
+![Centralize your minds par OH-Photography](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/centralized-600x401.jpg)
+
+
+
+Tags: centralisation, Politique, une

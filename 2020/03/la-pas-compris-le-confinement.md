@@ -16,6 +16,8 @@ Un peu plus haut, un Kangou déboule, avec deux chasseurs en gilet orange, l’u
 
 Alors que je rentre, à trois cents mètres de chez moi, une voiture de police arrête un couple avec bébé. Ils échangent de main en main la fameuse autorisation de sortie. Bande d’andouilles. Vous êtes en train de vous passer le virus. Même les forces de l’ordre n’ont pas compris. Si depuis deux jours elles ne cessent de saisir ces feuilles, ça va être un carnage. J’ai foncé sans les regarder, je ne voulais surtout pas que ces deux décérébrés/victimes en uniforme s’approchent de moi.
 
-En moins de deux heures, j’ai vu des dizaines de personnes se passer le virus de main en main avec une insouciance manifeste. Ajouté à cela toutes les photos qui me parviennent en ligne, j’en déduis qu’il ne reste plus qu’à nous interdire tout simplement de sortir de chez nous puisque le concept de distanciation sociale ne passe pas. Je suis juste triste.
+En moins de deux heures, j'ai vu des dizaines de personnes se passer le virus de main en main avec une insouciance manifeste. Ajouté à cela toutes les photos qui me parviennent en ligne, j’en déduis qu’il ne reste plus qu’à nous interdire tout simplement de sortir de chez nous puisque le concept de distanciation sociale ne passe pas. Je suis juste triste.
 
-Mais pitié, que pour commencer le gouvernement explique à ses hommes et femmes sur le terrain qu’eux aussi doivent maintenir la distanciation sociale. Le confinement est unes mesure de dictature, quand on n’a plus d’autres possibilités.
+Mais pitié, que pour commencer le gouvernement explique à ses hommes et femmes sur le terrain qu’eux aussi doivent maintenir la distanciation sociale. Le confinement est unes mesure de dictature, quand on n'a plus d'autres possibilités.
+
+Tags: Covid, Politique, une

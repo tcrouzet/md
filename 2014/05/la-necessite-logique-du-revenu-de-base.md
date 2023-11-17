@@ -1,6 +1,6 @@
 # La nécessité logique du revenu de base
 
-Pour justifier la nécessité du [revenu de base](https://tcrouzet.com/tag/revenu-de-base/) certains invoquent des raisons éthiques, d’autres des principes philosophiques, d’autres des positions politiques, tous posent des postulats ou des croyances. Une méthode moins discutable est peut-être tout simplement d’invoquer une logique situationniste.<span id="more-35772"></span>
+Pour justifier la nécessité du [revenu de base](http://blog.tcrouzet.com/tag/revenu-de-base/) certains invoquent des raisons éthiques, d’autres des principes philosophiques, d’autres des positions politiques, tous posent des postulats ou des croyances. Une méthode moins discutable est peut-être tout simplement d’invoquer une logique situationniste.<span id="more-35772"></span>
 
 Je voudrais discuter la proposition suivante :
 
@@ -31,3 +31,5 @@ Aujourd’hui, toutes les politiques tentent d’enrayer le changement. En inter
 ### Post-scriptum
 
 J’ai écouté [Bernard Stiegler débattre en bon avocat de ces idées](http://romainelubrique.org/bernard-stiegler). Il en parle comme si lui et ses amis d’[Ars Industrialis](http://arsindustrialis.org/) les avaient inventées. Et beaucoup de journalistes et de lecteurs en France le croient. On me dit souvent « C’est une idée de Stiegler. » Et je dois m’efforcer d’expliquer « Non, c’est une idée aussi défendue par Stiegler. » Ce qui n’est pas tout à fait la même chose. Et la nécessité de cette explication suffit à démontrer que ces idées n’ont pas encore percolé dans la société (ce n’est pas une raison pour les copyrighter).
+
+Tags: MRDB, Revenu de base, une

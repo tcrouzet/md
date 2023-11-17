@@ -1,6 +1,6 @@
 # Du bio à la TV
 
-Je prolonge une seconde fois [vos échanges](https://tcrouzet.com/2009/01/06/militer-pour-la-longue-traine/#comments) qui me font penser à une remarque que vient de me faire mon éditeur en lisant mon dernier manuscrit.
+Je prolonge une seconde fois [vos échanges](http://blog.tcrouzet.com/2009/01/06/militer-pour-la-longue-traine/#comments) qui me font penser à une remarque que vient de me faire mon éditeur en lisant mon dernier manuscrit.
 
 > Tu penses trop.
 
@@ -28,13 +28,13 @@ Ainsi on ne peut pas jeter la TV parce qu’elle lobotomise 90 % des gens. On n
 
 Il ne s’agit pas d’être élitiste mais de voir la société comme un ensemble de niches plus ou moins grandes, plus ou moins superposées… des réseaux qui s’interpénètrent. Cette vision s’applique aux gens qui se disent « bio » comme à tout le reste. Il n’existe pas une forme de Vert idéale.
 
-Si certaines personnes veulent défendre le vrai camembert, c’est parce que pour elle, et pour moi, c’est comme un tableau de Vinci. On ne va pas le détruire sous prétexte qu’on a fait depuis des monochromes. Rien n’empêche d’avancer tout en préservant le passé. C’est la culture. On peut défendre le vrai camembert tout en défendant les nanotechnologies. Rien d’incompatible. Ou alors je suis schizophrène.
+Si certaines personnes veulent défendre le vrai camembert, c’est parce que pour elle, et pour moi, c’est comme un tableau de Vinci. On ne va pas le détruire sous prétexte qu'on a fait depuis des monochromes. Rien n'empêche d'avancer tout en préservant le passé. C'est la culture. On peut défendre le vrai camembert tout en défendant les nanotechnologies. Rien d’incompatible. Ou alors je suis schizophrène.
 
-Le danger est d’interdire l’innovation, et peu importe le domaine où on serait tenté d’appliquer cette interdiction. Si certains adeptes du bio sont des rétrogrades, d’autres travaillent dans les bios technologies. On ne va pas réduire un monde divers à quelques extrémistes.
+Le danger est d'interdire l'innovation, et peu importe le domaine où on serait tenté d’appliquer cette interdiction. Si certains adeptes du bio sont des rétrogrades, d'autres travaillent dans les bios technologies. On ne va pas réduire un monde divers à quelques extrémistes.
 
 La plupart des gens consomment du Bio pour éviter certains produits qu’ils estiment merdiques. Si je mange des légumes Bio, c’est aussi parce que je les trouve meilleurs. Quand je veux une carotte, je choisis la meilleure et aussi celle qui n’est pas imbibée d’insecticides. Ça ne m’empêche pas de manger des yaourts anti-cholestérols produits technologiques. Bio pour moi est synonyme de respect de notre métabolisme. C’est très compatible avec le transhumanisme par exemple. Le vivre Bio c’est une façon de viser la longévité, la plus grande intelligence et tous ces trucs. C’est aussi ça, tout dépend dans quel camp on se place.
 
-Autre réduction, souvent pratiquée, c’est jeter le bébé avec l’eau du bain. Qu’il existe de la merde sur le Net comme à la TV, personne n’en doute. Les défenseurs des vieux médias disent même qu’il y a 99% de merdes sur les nouveaux médias, question de sauver leur business. Tout ça c’est du business justement.
+Autre réduction, souvent pratiquée, c’est jeter le bébé avec l’eau du bain. Qu'il existe de la merde sur le Net comme à la TV, personne n'en doute. Les défenseurs des vieux médias disent même qu'il y a 99% de merdes sur les nouveaux médias, question de sauver leur business. Tout ça c'est du business justement.
 
 Moi, ce qui m’intéresse, et ce qui nous intéresse ici je pense, c’est en quoi les nouveaux médias ouvrent de nouvelles possibilités. Nouveau territoire. Nouvelle intelligence collective. Nouvelle possibilité organisationnelle. Tout ça ce n’est pas à la TV mais sur le Net (même si la TV peut en parler). Et c’est ça qui compte.
 

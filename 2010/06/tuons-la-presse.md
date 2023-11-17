@@ -1,6 +1,6 @@
 # Tuons la presse pour nous libérer
 
-Partout sur le Net et ailleurs, on parle de l’avenir de la presse, de comment créer des nouveaux journaux viables, de nouveaux médias, de comment mieux informer… au nom de l’avenir de la démocratie. Mais nous sommes déjà gavés de news, toutes presque aussi inutiles les unes que les autres. Nous sommes shootés aux nouvelles, nous sommes de pitoyables [infovores](https://tcrouzet.com/tag/infovore/) qui attendent leur prochaine injection avec avidité.<span id="more-17172"></span>
+Partout sur le Net et ailleurs, on parle de l’avenir de la presse, de comment créer des nouveaux journaux viables, de nouveaux médias, de comment mieux informer… au nom de l’avenir de la démocratie. Mais nous sommes déjà gavés de news, toutes presque aussi inutiles les unes que les autres. Nous sommes shootés aux nouvelles, nous sommes de pitoyables [infovores](http://blog.tcrouzet.com/tag/infovore/) qui attendent leur prochaine injection avec avidité.<span id="more-17172"></span>
 
 Savez-vous au moins ce qui se passe dans votre cerveau ? Chaque fois qu’une nouvelle bipe dans votre radar sensitif, elle active les [zones primitivement destinées à monter la garde](http://www.nytimes.com/2010/06/07/technology/07brain.html). Une news qui s’affiche, c’est comme si un lion vous attaquait. Vous imaginez le résultat. Quoi que vous fassiez, vous arrêtez, vous ne pensez qu’à sauver votre peau.
 
@@ -19,3 +19,5 @@ L’inférence est facile, mais elle peut se soutenir. La dépendance aux news p
 Alors quand les potentats ordonnent, les infovores obéissent. Ils n’ont pas le temps de réfléchir. Ils sont pris dans un stress, une overdose d’adrénaline instillée seconde après seconde pour faire taire toutes les capacités réflexives. Nous avons vu dans l’information un moyen de nous émanciper, elle est devenue une chaîne qui nous asservit. Ne parle-t-on pas de chaîne TV ? Il n’y a pas de hasard sémantique.
 
 Le flot du temps réel informationnel détruira la démocratie, et au-delà le rêve des Lumières. Il nous mène à une humanité décérébrée. Ne perdons pas une seconde. Coupons-nous tant qu’il est encore temps. Tournons-nous vers les créateurs qui œuvrent dans les dernières îles de quiétude, sur le Net et ailleurs. Mais n’attendons pas que les informateurs professionnels, et leurs épigones miséreux amateurs, nous en révèlent l’existence. Je n’ouvre qu’une [piste](http://www.tierslivre.net/spip/spip.php?article2167), à vous d’en suivre tous les écheveaux. À partir de là, un nouveau monde se révèlera.
+
+Tags: Journalisme, NetLittérature

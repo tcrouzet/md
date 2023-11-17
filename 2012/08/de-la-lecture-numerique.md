@@ -6,7 +6,7 @@ Quelles sensations nous procurent nos nouveaux papiers électroniques ? Que cha
 
 J’ai commencé à lire sur écran avec mes premiers écrans, mais plus intensément quand je suis devenu journaliste au début des années 1990. J’ai mangé beaucoup de PDF/HTML, mais je ne suis réellement un lecteur numérique que depuis que j’ai acheté ma première liseuse Sony en 2008.
 
-![](https://tcrouzet.com/images_tc/2012/08/kindle.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/08/kindle.jpg)
 
 C’était un appareil terne, peu contrasté, à l’ergonomie épouvantable. J’en ai changé chaque année, et aujourd’hui je lis presque exclusivement en numérique, sauf quand je ne trouve que des éditions papier (ce qui se produit encore trop souvent).
 
@@ -14,7 +14,7 @@ Quand j’ai le choix entre le papier et le numérique, je choisis le numérique
 
 ### La peur du manque
 
-J’ai chez moi plus de livres papier que la bibliothèque municipale de ma petite ville, j’ai plus d’ebooks qu’une grosse bibliothèque régionale, la plupart étant en anglais. Je télécharge tout ce que je trouve, comme si j’avais peur de manquer. C’est absurde car le Web reste à portée de la main, mais les ebooks n’y circulent pas encore librement, à cause d’un droit d’auteur inadapté. Donc, quand je pêche un gros poisson, je le stocke.
+J’ai chez moi plus de livres papier que la bibliothèque municipale de ma petite ville, j’ai plus d’ebooks qu’une grosse bibliothèque régionale, la plupart étant en anglais. Je télécharge tout ce que je trouve, comme si j’avais peur de manquer. C’est absurde car le Web reste à portée de la main, mais les ebooks n'y circulent pas encore librement, à cause d’un droit d’auteur inadapté. Donc, quand je pêche un gros poisson, je le stocke.
 
 Je suppose que ce comportement monomaniaque est transitoire. Beaucoup l’ont connu avec la musique ou les films. Des collectionneurs de livres ont toujours existé, mais le numérique réveille chez moi une boulimie latente.
 
@@ -38,7 +38,7 @@ La légèreté stimule chez moi une autre habitude. J’ai toujours aimé zapper
 
 Où que je sois, je bascule d’un classique à un bestseller ou à un de mes propres textes en cours de réfection comme si je visitais un musée avec une infinité de salles d’exposition. J’expérimente, il me semble, une façon de lire que les contraintes matérielles rendaient quasi impossible par le passé. J’emporte partout avec moi mon cabinet de lecture. Je peux tout lire partout, ce qui encore était impossible il n’y a pas si longtemps. J’ai même pris l’habitude de goûter des dizaines de textes avant de plonger vraiment dans l’un d’eux. Encore un luxe que seul un libraire ou un bibliothécaire pouvait se payer.
 
-> **Note pratique** Je lis sur Kindle 4 que je préfère au Kindle 4 Touch qui, avec son écran plus contrasté, son usage plus simple, dispose d’un boîtier plus lourd et plus encombrant. Je suis incapable de lire autre chose que de l’actualité sur un iPad parce qu’il est trop lourd (et devient vite brûlant). Ma prochaine liseuse devra être encore plus légère, jusqu’à peut-être n’être que de l’air ou des mots projetés sur ma rétine.
+> **Note pratique** Je lis sur Kindle 4 que je préfère au Kindle 4 Touch qui, avec son écran plus contrasté, son usage plus simple, dispose d’un boîtier plus lourd et plus encombrant. Je suis incapable de lire autre chose que de l’actualité sur un iPad parce qu’il est trop lourd (et devient vite brûlant). Ma prochaine liseuse devra être encore plus légère, jusqu'à peut-être n'être que de l'air ou des mots projetés sur ma rétine.
 
 ### Le bonheur des yeux
 
@@ -72,6 +72,8 @@ Avis aux psychologues en mal de sujet d’étude. Par le passé, les éditeurs a
 
 Peu à peu, ils sont devenus de plus en plus laxistes. Ils ont publié Musso, mais malgré Musso, ils ont continué à nous protéger du pire, auquel les ebooks nous exposent. Nous en avons la preuve. Maintenant que nous pouvons nous autopublier, tous les livres circulent. Et qu’est-ce qui a du succès ? De plus en plus souvent des livres que les éditeurs n’ont pas voulu. Des livres inimaginables.
 
-Les ebooks nous apprennent que les lecteurs veulent des textes écrits par des gens comme eux, des textes aux antipodes de la littérature, des textes d’amateurs souvent caricaturaux, c’est assez effrayant. Je pense bien sûr au succès planétaire de [Fifty Shades of Grey](https://tcrouzet.com/2012/07/30/cinquante-nuances-de-grey/).
+Les ebooks nous apprennent que les lecteurs veulent des textes écrits par des gens comme eux, des textes aux antipodes de la littérature, des textes d’amateurs souvent caricaturaux, c’est assez effrayant. Je pense bien sûr au succès planétaire de [Fifty Shades of Grey](http://blog.tcrouzet.com/2012/07/30/cinquante-nuances-de-grey/).
 
 > **Prospective** Les textes risquent d’être d’abord autopubliés avant que les éditeurs ne se saisissent de ceux qui marchent pour tenter de les faire mieux marcher. Le couple créatif éditeur/auteur risque bientôt de manquer d’énergie. Ce serait dommage. Le travail d’équipe a quelques vertus.
+
+Tags: eBook, édition, une

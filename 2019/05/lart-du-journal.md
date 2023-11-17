@@ -40,4 +40,6 @@ L’art du journal est multiple. Je ne fais que l’ébaucher, sachant que j’a
 
 Un jour, je déciderai peut-être de ne plus le publier en ligne, de le garder pour moi, peut-être le jour où l’autocensure deviendra insupportable et m’empêchera d’écrire ce que je dois y écrire.
 
-*PS : Petite réflexion induite par [Lionel Dricot](https://ploum.net/) qui se demande s’il doit ou non publier son journal ?*
+*PS : Petite réflexion induite par [Lionel Dricot](https://ploum.net/) qui se demande s'il doit ou non publier son journal ?*
+
+Tags: NetLittérature, une

@@ -1,6 +1,6 @@
 # Shall Terra be Free ?
 
-[J’avais lu Gandhi](https://tcrouzet.com/2007/04/25/gandhi-et-l%e2%80%99open-source/), il est temps que je plonge dans l’autre monument de l’Inde du XX<sup>e</sup> siècle, Sri Aurobindo. Si Gandhi a prôné la non-violence, Aurobindo a souvent été révolutionnaire, même si, dès 1905, il évoque lui aussi la possibilité de la lutte non violente.
+[J’avais lu Gandhi](http://blog.tcrouzet.com/2007/04/25/gandhi-et-l%e2%80%99open-source/), il est temps que je plonge dans l’autre monument de l’Inde du XX<sup>e</sup> siècle, Sri Aurobindo. Si Gandhi a prôné la non-violence, Aurobindo a souvent été révolutionnaire, même si, dès 1905, il évoque lui aussi la possibilité de la lutte non violente.
 
 > La tâche que nous entreprenons est morale et spirituelle, écrit-il. Nous ne cherchons pas à changer les mécanismes, la forme d’un gouvernement, mais à bâtir une nation. La politique fait partie de cette entreprise, toutefois elle n’en est qu’un aspect. Nous ne nous consacrerons pas à la politique seule ou aux seules questions sociales, ni à la théologie, à la philosophie, à la littérature et à la science en elles-mêmes ; nous les inclurons toutes dans une entité qui, pour nous, est de la plus haute importance : le dharma, la religion nationale, que nous considérons aussi comme universelle…
 

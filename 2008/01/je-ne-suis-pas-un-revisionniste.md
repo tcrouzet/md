@@ -26,7 +26,7 @@ Je dis tout ça pour expliquer le malentendu que j’ai pu laisser planer au suj
 
 Je m’inquiète en revanche quand le GIEC joue à l’oracle, invoque la convergence des modèles, propose des scénarios du futur plus ou moins catastrophiques, mais jamais trop catastrophiques pour ne pas paniquer les foules (le GIEC reste une institution politique).
 
-Le rapport du GIEC que je n’ai jamais lu dans sa totalité est d’ailleurs très modéré. Il y a sans cesse des guillemets, le ton n’est ni affirmatif ni péremptoire. C’est toujours dans le style « dans l’état actuel de nos connaissances, nous pensons que probablement il se passera ça. » Je ne peux pas dire que les scientifiques du GIEC jouent les Nostradamus. Ils sont prudents mais leur prudence ne les empêche pas de tendre vers un avenir plus qu’hypothétique.
+Le rapport du GIEC que je n’ai jamais lu dans sa totalité est d’ailleurs très modéré. Il y a sans cesse des guillemets, le ton n’est ni affirmatif ni péremptoire. C’est toujours dans le style « dans l’état actuel de nos connaissances, nous pensons que probablement il se passera ça. » Je ne peux pas dire que les scientifiques du GIEC jouent les Nostradamus. Ils sont prudents mais leur prudence ne les empêche pas de tendre vers un avenir plus qu'hypothétique.
 
 Je m’inquiète quand des milliers de scientifiques s’accordent sur ce qui sera alors que jusqu’à ce jour nous n’avons jamais réussi à prévoir ce qui sera, en tout cas pour nous être-humains d’un point de vue global. Quelles avancées de ces dernières années nous permettent d’être soudain aussi sûrs de nous ?
 
@@ -36,7 +36,7 @@ Les scientifiques restent des hommes. Si l’un d’eux n’est pas d’accord a
 
 J’oppose donc une méfiance de principe par rapport aux prévisions du GIEC, même si je ne mets pas en doute les observations, les constations et les explications de ce qui se passe aujourd’hui. Je me méfie parce que l’avenir n’est pas là et que personne ne sais ce qu’il sera.
 
-Le GIEC a effectué un travail faramineux. Mais il n’est pas la seule association humaine à déployer autant d’efforts pour prévoir l’avenir. Les acteurs des marchés financiers, avec plus de moyens, plus d’hommes et sans doute pas moins d’intelligence, restent incapables de prévoir les cours, [sinon à les anticiper sur de minuscules périodes](https://tcrouzet.com/2007/12/11/comprendre-n%e2%80%99est-pas-prevoir/), tout comme le font les météorologues pour le temps des jours à venir.
+Le GIEC a effectué un travail faramineux. Mais il n’est pas la seule association humaine à déployer autant d’efforts pour prévoir l’avenir. Les acteurs des marchés financiers, avec plus de moyens, plus d’hommes et sans doute pas moins d’intelligence, restent incapables de prévoir les cours, [sinon à les anticiper sur de minuscules périodes](http://blog.tcrouzet.com/2007/12/11/comprendre-n%e2%80%99est-pas-prevoir/), tout comme le font les météorologues pour le temps des jours à venir.
 
 Pourquoi les membres du GIEC seraient-ils plus doués ? Il s’agit bien pourtant de prévoir l’avenir d’un système tout aussi complexe, même plus complexe, car la biosphère inclue entre autres les places boursières et les activités économiques qui en découlent.
 
@@ -54,7 +54,7 @@ Pour moi, il n’y a rien de sacré. Plus les gens diront que le GIEC fait un tr
 
 Merde il ne s’agit pas d’un avenir simple comme de dire que demain nous épuiserons le pétrole. Il s’agit de prévoir l’avenir de la biosphère dans laquelle s’agiteront bientôt neuf milliards d’humains. Nous ne faisons pas face à des problèmes statistiques normaux, nous sommes dans un domaine dominé par les lois de puissance et non par des courbes de Gauss.
 
-Le consensus sur quelque chose de non-advenu me fait frémir, que ces gens soient des scientifiques ou pas n’y change rien. Quand nous nous projetons dans l’avenir d’un système aussi complexe que le climat, quand nous affirmons ce qui sera, même avec une marge d’erreur, je deviens sceptique même si ce n’est pas mon habitude.
+Le consensus sur quelque chose de non-advenu me fait frémir, que ces gens soient des scientifiques ou pas n’y change rien. Quand nous nous projetons dans l’avenir d’un système aussi complexe que le climat, quand nous affirmons ce qui sera, même avec une marge d’erreur, je deviens sceptique même si ce n'est pas mon habitude.
 
 ### Notes 1
 
@@ -94,4 +94,4 @@ Le rapport du GIEC, en créant le consensus, a le mérite d’harmoniser les hom
 
 Nous nous y engagerions avec bonheur, avec joie… et non tête baissé comme sous le joug d’une énième dictature. Les rapporteurs du GIEC sont peut-être réalistes, je suis à coup sur utopiste. Les gouvernements se serviront des prévisions climatiques pour nous manager par la peur. Entre les mains des hommes de pouvoir, les prévisions sont des armes de répression.
 
-J’espère encore que nous pouvons atteindre à l’harmonie sans en passer par là, une harmonie qui naîtrait de la différence et qui prendrait en compte la réalité contemporaine sans avoir besoin d’agiter des catastrophes à répétition, qui d’ailleurs, comme elles ne sont pas là, ne réussissent pas à faire peur à la plupart des gens. [Depuis longtemps, il n’y aurait plus de fumeurs si les menaces de problèmes à venir suffisait à nous faire changer d’attitude.](https://tcrouzet.com/2007/12/22/le-mythe-du-changement-climatique-a-venir/) Au final, je crois que les prévisions servent avant tout à donner des armes à ceux qui veulent nous assujettir.
+J'espère encore que nous pouvons atteindre à l'harmonie sans en passer par là, une harmonie qui naîtrait de la différence et qui prendrait en compte la réalité contemporaine sans avoir besoin d'agiter des catastrophes à répétition, qui d'ailleurs, comme elles ne sont pas là, ne réussissent pas à faire peur à la plupart des gens. [Depuis longtemps, il n'y aurait plus de fumeurs si les menaces de problèmes à venir suffisait à nous faire changer d'attitude.](http://blog.tcrouzet.com/2007/12/22/le-mythe-du-changement-climatique-a-venir/) Au final, je crois que les prévisions servent avant tout à donner des armes à ceux qui veulent nous assujettir.

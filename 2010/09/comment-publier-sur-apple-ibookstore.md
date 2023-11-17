@@ -1,32 +1,32 @@
 # Comment publier sur Apple iBookstore
 
-Depuis que j’ai publié en direct [quelques textes pour iPhone et iPad](https://tcrouzet.com/ibooks-store/), on me demande souvent comment avec Isabelle nous avons fait. Je lis ailleurs que c’est compliqué et je vois beaucoup d’éditeurs passer par des tierces parties, céder un peu plus de leur marge (et retomber dans le piège de la vieille distribution). Stop. La procédure est à la portée de tous les auteurs. Nous pouvons vendre si nous le voulons en récupérant 70 % de nos droits.<span id="more-19159"></span>
+Depuis que j’ai publié en direct [quelques textes pour iPhone et iPad](http://blog.tcrouzet.com/ibooks-store/), on me demande souvent comment avec Isabelle nous avons fait. Je lis ailleurs que c’est compliqué et je vois beaucoup d’éditeurs passer par des tierces parties, céder un peu plus de leur marge (et retomber dans le piège de la vieille distribution). Stop. La procédure est à la portée de tous les auteurs. Nous pouvons vendre si nous le voulons en récupérant 70 % de nos droits.<span id="more-19159"></span>
 
-![](https://tcrouzet.com/images_tc/2010/09/itunesc.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/itunesc.jpg)
 
 ### Fabriquer un ePub
 
 Avant de chercher à publier, il faut commencer par écrire, puis, une fois le texte achevé, il faut le mettre en forme, c’est l’étape la plus complexe en fait. Apple accepte les fichiers au format ePub, un standard ouvert qui s’approche du HTML. De plus en plus de traitements de texte et de logiciels de PAO savent générer des ePub.
 
-J’ai pour ma part choisi de créer un [convertisseur adapté à mes besoins](http://lab.tcrouzet.com/epub/) qui me permet de maitriser avec une grande précision les feuilles de styles ([version applicative de mon plugin WordPress](https://tcrouzet.com/wp2epub/)). Je pense qu’un nouveau métier devrait naître, [imprimeur d’ePub](https://tcrouzet.com/2010/08/02/imprimeur-epub/). Les éditeurs ont un besoin urgent de cette compétence, vu la piètre qualité des fichiers qu’ils génèrent en utilisant les solutions automatiques.
+J’ai pour ma part choisi de créer un [convertisseur adapté à mes besoins](http://lab.tcrouzet.com/epub/) qui me permet de maitriser avec une grande précision les feuilles de styles ([version applicative de mon plugin WordPress](http://blog.tcrouzet.com/wp2epub/)). Je pense qu’un nouveau métier devrait naître, [imprimeur d’ePub](http://blog.tcrouzet.com/2010/08/02/imprimeur-epub/). Les éditeurs ont un besoin urgent de cette compétence, vu la piètre qualité des fichiers qu’ils génèrent en utilisant les solutions automatiques.
 
 ### ISBN
 
-Pour être identifiée, chaque édition d’un livre, électronique ou pas, doit disposer d’un ISBN unique. On peut obtenir gratuitement 10 ISBN en trois semaines en passant par l’[AFNIL](http://www.afnil.org/default.asp?Info=3). La procédure fonctionne très bien mais, comme j’étais pressé d’expérimenter, j’ai utilisé au début les ISBN fournis gratuitement par lulu.com pour [les versions papiers de mes textes autopubliés](https://tcrouzet.com/bibliographie/), voire les ISBN des livres déjà publiés de manière traditionnelle. Apple ne nous a pas retoqués à cause de cette entorse.
+Pour être identifiée, chaque édition d’un livre, électronique ou pas, doit disposer d’un ISBN unique. On peut obtenir gratuitement 10 ISBN en trois semaines en passant par l’[AFNIL](http://www.afnil.org/default.asp?Info=3). La procédure fonctionne très bien mais, comme j'étais pressé d’expérimenter, j’ai utilisé au début les ISBN fournis gratuitement par lulu.com pour [les versions papiers de mes textes autopubliés](http://blog.tcrouzet.com/bibliographie/), voire les ISBN des livres déjà publiés de manière traditionnelle. Apple ne nous a pas retoqués à cause de cette entorse.
 
 ### Contacter Apple
 
 Une fois les fichiers ePub [dument validés](http://threepress.org/document/epub-validate/), il est temps de contacter Apple. En mai, quand Isabelle a effectué la démarche, elle a un peu tâtonné, demandant l’aide à des amis, puis décrochant son téléphone et contactant des managers Apple. Il suffisait juste de parler anglais. Le 25 mai, elle a fini par obtenir la procédure exacte :
 
-> If you are a publisher interested in distributing your content on the iBookstore, we request that you contact our iBookstore Business Team ebookquery@apple.com. Please include the following information with your inquiry: Name, Company Name, Phone Number, Email address, Type of ebook content you intend to sell (i.e. non-fiction, graphic novels, children’s picture books, etc.), Size of your ebook catalog/number of titles. Once received, your information will be reviewed by Apple and the iBookstore Business Team will contact you at a future date. Thank you for your interest in the iBookstore.
+> If you are a publisher interested in distributing your content on the iBookstore, we request that you contact our iBookstore Business Team ebookquery@apple.com. Please include the following information with your inquiry: Name, Company Name, Phone Number, Email address, Type of ebook content you intend to sell (i.e. non-fiction, graphic novels, children's picture books, etc.), Size of your ebook catalog/number of titles. Once received, your information will be reviewed by Apple and the iBookstore Business Team will contact you at a future date. Thank you for your interest in the iBookstore.
 
 Le même jour, elle envoie le mail à Apple avec les informations demandées. Pour le nom de la société, elle indique son nom.
 
 ### Réponse automatique d’Apple
 
-> Thanks for your interest in the iBookstore. We’re building a store in which book publishers both large and small can sell their content. Right now we’re developing tools and processes that will allow us to work together effectively. If you’re a publisher, and haven’t done so already, please describe the type of book content you have to offer and the size of your eBook catalog. Once we determine how best for us to work together, we’ll be back in touch. We appreciate your patience and thanks again. The iBookstore Team
+> Thanks for your interest in the iBookstore. We're building a store in which book publishers both large and small can sell their content. Right now we're developing tools and processes that will allow us to work together effectively. If you're a publisher, and haven't done so already, please describe the type of book content you have to offer and the size of your eBook catalog. Once we determine how best for us to work together, we'll be back in touch. We appreciate your patience and thanks again. The iBookstore Team
 
-Isabelle en recevant ce mail a cru que l’affaire était mal engagée. Mais le lendemain, elle retrouve l’espoir en lisant [l’article de David W. Martin.](http://www.maclife.com/article/news/apple_reveals_new_service_authors_sell_their_books_directly_ibookstore) Apple confirme ouvrir sa plateforme aux auteurs. Il décrit la procédure qu’Isabelle avait découverte elle-même.
+Isabelle en recevant ce mail a cru que l'affaire était mal engagée. Mais le lendemain, elle retrouve l’espoir en lisant [l’article de David W. Martin.](http://www.maclife.com/article/news/apple_reveals_new_service_authors_sell_their_books_directly_ibookstore) Apple confirme ouvrir sa plateforme aux auteurs. Il décrit la procédure qu’Isabelle avait découverte elle-même.
 
 ### Feu vert
 
@@ -42,7 +42,7 @@ Je sais que beaucoup de gens ont arrêté la procédure à ce stade. En fait, el
 
 ### Premiers pas
 
-L’après midi du 27, Isabelle prend en main iTunes Producer, cherche à comprendre les différents paliers tarifaires, les zones géographiques, les données demandées, teste mes ePub, puis publie un premier livre, [*Genius Locus*](https://tcrouzet.com/genius-locus/). Elle met du temps à comprendre que le champ prix papier est obligatoire. Apparemment, Apple vérifie que le prix du livrel est inférieur à sa version papier. Dépiler les différentes catégories disponibles prend un temps fou, c’est un labyrinthe : plusieurs dizaines, et évidemment aucune ne colle vraiment pour moi ! Isabelle soumet *Genius Locus* vers 22h. L’upload du fichier ePub prend 6 minutes.
+L’après midi du 27, Isabelle prend en main iTunes Producer, cherche à comprendre les différents paliers tarifaires, les zones géographiques, les données demandées, teste mes ePub, puis publie un premier livre, [*Genius Locus*](http://blog.tcrouzet.com/genius-locus/). Elle met du temps à comprendre que le champ prix papier est obligatoire. Apparemment, Apple vérifie que le prix du livrel est inférieur à sa version papier. Dépiler les différentes catégories disponibles prend un temps fou, c’est un labyrinthe : plusieurs dizaines, et évidemment aucune ne colle vraiment pour moi ! Isabelle soumet *Genius Locus* vers 22h. L’upload du fichier ePub prend 6 minutes.
 
 Isabelle ne le sait pas encore, elle ne recevra pas de mail annonçant la disponibilité des livres sur iBookstore. Toutes les dix minutes, elle rafraichit la page d’iTunes Connect. Statut : pending.
 
@@ -50,7 +50,7 @@ Isabelle ne le sait pas encore, elle ne recevra pas de mail annonçant la dispon
 
 ### L’attente
 
-Le 28, jour du lancement de l’iPad en France, Isabelle soumet [*Croisade*](https://tcrouzet.com/la-quatrieme-theorie/). Nous déjeunons avec notre ami applophile. Sur son iPad, nous découvrons que [*L’alternative nomade*](https://tcrouzet.com/alternative-nomade/), publié par François Bon chez Publie.net, est [seizième au classement général iBookstore](https://tcrouzet.com/2010/05/28/crouzet-dans-le-top-vente-ipad/) (pas loin derrière *130 recettes pour ventre plat*). [*J’ai eu l’idée*](https://tcrouzet.com/id/) est aussi disponible sur iBookstore grâce à Publie.net, qui lui-même a mis en ligne ses textes via [immateriel.fr](http://www.immateriel.fr/), en échange d’une remise de 10 %.
+Le 28, jour du lancement de l’iPad en France, Isabelle soumet [*Croisade*](http://blog.tcrouzet.com/la-quatrieme-theorie/). Nous déjeunons avec notre ami applophile. Sur son iPad, nous découvrons que [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), publié par François Bon chez Publie.net, est [seizième au classement général iBookstore](http://blog.tcrouzet.com/2010/05/28/crouzet-dans-le-top-vente-ipad/) (pas loin derrière *130 recettes pour ventre plat*). [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/) est aussi disponible sur iBookstore grâce à Publie.net, qui lui-même a mis en ligne ses textes via [immateriel.fr](http://www.immateriel.fr/), en échange d’une remise de 10 %.
 
 ### La récompense
 
@@ -58,20 +58,14 @@ Isabelle rafraichit constamment sa page iTunes Connect indiquant le statut des l
 
 ### Le bilan
 
-[Nous avons progressivement mis huit livres en ligne en direct](https://tcrouzet.com/ibooks-store/) à des prix variant de 0 à 5,49 €. Voici un bilan provisoire.
+[Nous avons progressivement mis huit livres en ligne en direct](http://blog.tcrouzet.com/ibooks-store/) à des prix variant de 0 à 5,49 €. Voici un bilan provisoire.
 
-1. [*L’homme qui plantait des arbres*](https://tcrouzet.com/2010/07/28/le-petit-livre-de-la-revolution/) de Giono, prix 0 €, 5229 téléchargements du 26/07 au 5/09.
-
+1. [*L’homme qui plantait des arbres*](http://blog.tcrouzet.com/2010/07/28/le-petit-livre-de-la-revolution/) de Giono, prix 0 €, 5229 téléchargements du 26/07 au 5/09.
 2. *Croisade*, 5,49 €, 15 ventes.
-
 3. *Le peuple des connecteurs*, 5,49 €, 9 ventes.
-
 4. *Le cinquième pouvoir*, 5,49 €, 8 ventes.
-
 5. *Genius Locus*, 0,99 €, 5 ventes.
-
 6. *Équinoxe d’automne*, 3,49 €, 3 ventes.
-
 7. *Propulseurs dans le flux*, 5,49 €, 1 vente.
 
 Au final, 41 ventes, chiffre d’affaires pour moi au 31/08 125,20 €.
@@ -79,11 +73,9 @@ Au final, 41 ventes, chiffre d’affaires pour moi au 31/08 125,20 €.
 ### Remarques
 
 1. Vous allez peut-être vous dire tout cela ne sert pas à grand chose. Oui, mais c’est un début. Nous nous devons d’essayer. Alors les lecteurs comprendrons qu’ils peuvent trouver nos livres, ils auront envie de sortir des sentiers battus.
-
 2. Les acheteurs plébiscitent le gratuit.
-
 3. Ils aiment les valeurs sures. Je réussis à leur faire télécharger plus de 5 000 livres de Giono. Ils ne sont pas curieux. Si ça ne change pas, la révolution numérique ne révolutionnera rien.
-
 4. On lit plus avec une liseuse que sur écran (5000 giono via Apple, juste 300 via Scribd).
-
 5. Le prix, quand il y a prix, ne semble pas déterminant. C’est sans doute la recommandation qui importe.
+
+Tags: Autopublication, eBook, édition, noepub, une

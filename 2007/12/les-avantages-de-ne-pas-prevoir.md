@@ -1,6 +1,6 @@
 # Les avantages de ne pas prévoir
 
-Les inconvénients de ne pas posséder de boule de cristal sont sans doute innombrables mais je m’en moque car [je suis persuadé que nous ne pouvons pas prévoir notre avenir](https://tcrouzet.com/2007/12/13/kurzweil-l%e2%80%99evolution-exponentielle/), ni individuel, ni collectif. J’ai même de plus en plus tendance à me méfier de ceux qui nous dépeignent l’avenir. Quelques raisons.<span id="more-692"></span>
+Les inconvénients de ne pas posséder de boule de cristal sont sans doute innombrables mais je m’en moque car [je suis persuadé que nous ne pouvons pas prévoir notre avenir](http://blog.tcrouzet.com/2007/12/13/kurzweil-l%e2%80%99evolution-exponentielle/), ni individuel, ni collectif. J’ai même de plus en plus tendance à me méfier de ceux qui nous dépeignent l’avenir. Quelques raisons.<span id="more-692"></span>
 
 1. Si un gouvernant connaissait l’avenir, il pourrait, au nom de cet avenir, nous commander de faire telle ou telle chose. Par exemple, parce que cet avenir serait désastreux, il pourrait nous imposer une politique de rigueur, voire une tyrannie. De nombreux auteurs de SF ont traité de ce thème jusqu’à imaginer l’incarcération des criminels avant qu’ils ne commettent leur crime (*Minority Report* de Philip K. Dick). Toute connaissance de l’avenir est susceptible de modifier cet avenir ce qui suffit à expliquer pourquoi l’avenir est imprévisible.
 
@@ -21,3 +21,5 @@ Les inconvénients de ne pas posséder de boule de cristal sont sans doute innom
 9. À trop s’intéresser à l’avenir écrit par les oracles, on ne songe qu’à lui, qu’à son avènement et on rate à coup sûr le véritable avenir qui est en train de se construire aujourd’hui.
 
 10. Nous n’avons pas besoin d’oracles pour rêver, pour croire à nos rêves, pour vivre comme s’ils allaient se réaliser. Nous n’avons pas besoin de repères factices. Nous pouvons avancer lucidement vers l’inconnu, toujours prêts à sursauter de surprise, comme un enfant qui découvre le monde. Dans ce monde, il y a de la place pour la liberté.
+
+Tags: Politique

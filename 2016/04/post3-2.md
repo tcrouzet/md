@@ -1,8 +1,8 @@
 # Post|3
 
-![Civic](https://tcrouzet.com/images_tc/2016/04/p003_civic1_i.jpg)
+![Civic](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/p003_civic1_i-600x314.jpg)
 
-You don’t believe me, do you? Here’s the surreal chat I just had with my best friend on InLine:
+You don’t believe me, do you? Here’s the surreal chat I just had with my best friend on InLine: 
 
 Alexa: This guy coming to rescue you in the woods, what’s he like?
 
@@ -18,7 +18,7 @@ Tequila: If I hadn’t done my nails last night, I’d be biting them.
 
 Alexa: Now I’m starting to take you seriously.
 
-Tequila: My mom’s message, the SUV, that counts for something, doesn’t it?
+Tequila: My mom’s message, the SUV, that counts for something, doesn’t it? 
 
 Alexa: You’re repeating yourself.
 
@@ -41,3 +41,5 @@ Alexa: I’ve thought about it.
 Tequila: And?
 
 Alexa: Better run.
+
+Tags: InstaResistants

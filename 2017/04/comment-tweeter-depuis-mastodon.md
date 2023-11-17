@@ -41,3 +41,5 @@ Passons ce relent pessimiste qui est le mien en ce moment. Je veux bien tester M
 ![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/04/mastodon6.png)
 
 On peut répéter l'opération pour poster aussi sur Facebook ou créer un mot-clé dédié aux photos. Les possibilités sont infinies, mais peut-être est-il aussi bon de confiner certaines conversations dans certains espaces, ce qui me donne l'envie d'ouvrir ma propre instance de Mastodon, où on discutera de littérature, d'écriture, de lecture…
+
+Tags: Cuisine, une

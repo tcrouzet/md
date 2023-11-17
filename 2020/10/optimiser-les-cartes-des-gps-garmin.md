@@ -57,3 +57,5 @@ Je résume comment je m’y suis pris pour fabriquer cette carte, tout en faisan
 12. La carte *gmapsupp.img* se retrouve dans le dossier *output*.
 
 13. J’ai dû picorer des infos [ici](https://wiki.openstreetmap.org/wiki/FR:Mkgmap) et [là](https://github.com/ligfietser/mkgmap-style-sheets) ou encore [là](https://www.cferrero.net/maps/guide_to_mkgmap_style_files.html) avant de m’en sortir, et aussi en tâtonnant beaucoup.
+
+Tags: Born to Bike, GPS, une

@@ -4,9 +4,9 @@
 
 ### Jeudi 1<sup>er</sup>, Paris
 
-J’ai commencé la journée par [*Europe 1*](https://tcrouzet.com/resistants/), puis j’ai enchaîné avec les amis… et, peu à peu, ils éveillent des envies, parce que la ville avec son agitation impose d’exister ou de succomber. Y venir, y charger des désirs et s’enfuir.
+J’ai commencé la journée par [*Europe 1*](http://tcrouzet.com/resistants/), puis j’ai enchaîné avec les amis… et, peu à peu, ils éveillent des envies, parce que la ville avec son agitation impose d’exister ou de succomber. Y venir, y charger des désirs et s’enfuir.
 
-![](https://tcrouzet.com/images_tc/2017/07/2017_6_1a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/07/2017_6_1a.jpg)
 
 ---
 
@@ -18,7 +18,7 @@ Vous jouez un jeu et vous n’en êtes pas conscients. Rien ne me laisse croire 
 
 ### Vendredi 2, Paris
 
-Je critique Paris, le bruit, la pollution, l’agitation inutile, l’hipsterisation des devantures, mais j’en reviens toujours avec des idées plein la tête.
+Je critique Paris, le bruit, la pollution, l’agitation inutile, l'hipsterisation des devantures, mais j’en reviens toujours avec des idées plein la tête.
 
 ### Samedi 3, Balaruc
 
@@ -54,7 +54,7 @@ J’ai mis en veilleuse mes projets Wattpad, qui ne suscitent pas suffisamment d
 
 Isa revient d’une balade au village avec une mauvaise nouvelle : la mairie veut construire une promenade devant chez nous, quitte à rogner sur le domaine maritime. Mais qu’est-ce que la préservation du littoral pour une municipalité qui investit des millions pour construire un boulodrome couvert alors que les citoyens n’ont même pas de piscine ?
 
-![](https://tcrouzet.com/images_tc/2017/07/2017_6_9a.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/07/2017_6_9a.jpg)
 
 ### Dimanche 11, Balaruc
 
@@ -81,8 +81,6 @@ Je passe chez mon garagiste récupérer les pinces de batterie qui sont dans not
 ### Jeudi 14, Balaruc
 
 Je me demande si je suis encore de mon temps. Il m’intéresse de moins en moins. Alors j’ai besoin de faire du sport, pour éprouver le monde d’une manière moins intellectuelle.
-
-<div class="iframe" id="iframe23"></div>
 
 ### Vendredi 16, Balaruc
 
@@ -118,7 +116,7 @@ Je change de train à Lyon. Comme je ne vois pas de wagons de première, j’int
 
 Je commence à lire *Stealing Fire*, un essai qui raconte comment la Silicon Valley tente de simplifier l’accès aux états modifiés de conscience grâce à la technologie. Je trouve tout cela d’une naïveté déconcertante. Pour l’instant, les auteurs semblent oublier que c’est le chemin qui fait l’extase plus que l’extase elle-même. Le but de la Silicon Valley serait d’utiliser les états modifiés en vue d’une plus grande efficacité. Encore un truc détestable de notre époque : l’utilitarisme à outrance.
 
-J’ai toujours eu le don de modifier mes états de conscience, sans recourir à des subterfuges, tout comme comme Gandhi ou Sri Aurobindo, un don que j’ai hérité de mon père et que j’ai peut-être transmis aux enfants, une particularité de nos cerveaux comme l’expliquent mes auteurs californiens (qui en avant-propos racontent qu’ils ont voyagé partout dans le monde pour mener leur enquête… mais, excepté Moscou, je ne vois aucun endroit hors des US).
+J’ai toujours eu le don de modifier mes états de conscience, sans recourir à des subterfuges, tout comme comme Gandhi ou Sri Aurobindo, un don que j’ai hérité de mon père et que j’ai peut-être transmis aux enfants, une particularité de nos cerveaux comme l'expliquent mes auteurs californiens (qui en avant-propos racontent qu’ils ont voyagé partout dans le monde pour mener leur enquête… mais, excepté Moscou, je ne vois aucun endroit hors des US).
 
 ---
 
@@ -130,61 +128,61 @@ Je souffre sans doute d’une maladie commune à beaucoup d’auteurs. Nous écr
 
 Clim déficiente dans le train. Les contrôleurs, situés juste derrière moi, annoncent que des bouteilles d’eau sont à la disposition des passagers. Je vois deux ou trois personnes qui réagissent. Puis les contrôleurs annoncent que les bouteilles sont gratuites, et cette fois c’est la ruée vers l’eau.
 
-![Chaussures à l'hôtel](https://tcrouzet.com/images_tc/2017/07/2017_6_19a.jpg)
+![Chaussures à l'hôtel](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/07/2017_6_19a.jpg)
 
 ### Lundi 19, Chateau-Bossey
 
-Pouquoi ne suis-je pas devenu médecin ou spécialiste ? Ou plutôt pourquoi n’ai-je pas continué dans la spécialité que j’ai étudiée ? Je serais invité comme les spécialistes qui m’entourent dans des congrès à travers le monde. Dans ma coterie, je serais une sommité. J’ai choisi d’œuvrer dans un domaine où il est bien difficile de devenir un expert reconnu. Pour nous autres écrivains, tout n’est que mensonges.
+Pouquoi ne suis-je pas devenu médecin ou spécialiste ? Ou plutôt pourquoi n'ai-je pas continué dans la spécialité que j'ai étudiée ? Je serais invité comme les spécialistes qui m'entourent dans des congrès à travers le monde. Dans ma coterie, je serais une sommité. J'ai choisi d'œuvrer dans un domaine où il est bien difficile de devenir un expert reconnu. Pour nous autres écrivains, tout n’est que mensonges.
 
 ---
 
-Les toubibs évoquent souvent des réseaux sociaux comme des outils des communications efficaces. Je n’ai pas le courage de leur dire que ces outils n’ont plus aucune puissance sociale, sauf cas exceptionnel, c’est-à-dire avec pas davantage de fréquence que les anciens médias top-down. De fait, c’est réseaux sont devenus top-down à leur tour, à cela prêt qu’ils ressemblent à la démocratie, en théorie n’importe qui peut se faire élire, mais dans la pratique seules quelques personnes profitent de cet ascenseur social, des personnes toujours prises en exemple par les promoteurs des services pour tenter de nous faire croire que nous pouvons tous également profiter de leurs business lucratifs.
+Les toubibs évoquent souvent des réseaux sociaux comme des outils des communications efficaces. Je n'ai pas le courage de leur dire que ces outils n'ont plus aucune puissance sociale, sauf cas exceptionnel, c'est-à-dire avec pas davantage de fréquence que les anciens médias top-down. De fait, c'est réseaux sont devenus top-down à leur tour, à cela prêt qu'ils ressemblent à la démocratie, en théorie n'importe qui peut se faire élire, mais dans la pratique seules quelques personnes profitent de cet ascenseur social, des personnes toujours prises en exemple par les promoteurs des services pour tenter de nous faire croire que nous pouvons tous également profiter de leurs business lucratifs.
 
 ---
 
-Lire *Stealing Fire* me donne l’envie de publier *Hyperonscience*, un texte gardé dans mes cartons depuis plus de vingt ans, parce que j’étais incapable d’en être satisfait, mais qui parle de quelque chose d’essentiel dans ma vie : ces moments où nous vivons plus que d’habitude. J’écris pour les vivre, et, dès que j’oublie cet objectif, écrire finit toujours par me faire du mal.
+Lire *Stealing Fire* me donne l'envie de publier *Hyperonscience*, un texte gardé dans mes cartons depuis plus de vingt ans, parce que j'étais incapable d'en être satisfait, mais qui parle de quelque chose d'essentiel dans ma vie : ces moments où nous vivons plus que d'habitude. J'écris pour les vivre, et, dès que j'oublie cet objectif, écrire finit toujours par me faire du mal.
 
 ---
 
-Autour de moi, tous ces médecins et microbiologistes de l’OMS, du CDC, de l’ECDC… sont excessivement sérieux. La souffrance est leur quotidien, mais cela n’explique pas leur professionnalisme, ou plutôt ils sont strictement professionnels et oublient d’être eux-mêmes, personnels, complets. Je retrouve la même ambiance chez les éditeurs. Je ne suis pas devenu écrivain pour retrouver dans l’écriture le professionnalisme qui consiste à couper en deux les individus.
+Autour de moi, tous ces médecins et microbiologistes de l'OMS, du CDC, de l'ECDC… sont excessivement sérieux. La souffrance est leur quotidien, mais cela n'explique pas leur professionnalisme, ou plutôt ils sont strictement professionnels et oublient d'être eux-mêmes, personnels, complets. Je retrouve la même ambiance chez les éditeurs. Je ne suis pas devenu écrivain pour retrouver dans l'écriture le professionnalisme qui consiste à couper en deux les individus.
 
 ---
 
-Je me suis évadé dans le jardin, pour une sieste, un long moment de méditation puis de lecture. Mes yeux fixent le lointain, des haies après les champs, le jet d’eau de Genève qui dépasse les arbres et se détache sur les pentes bleutées du Salève. Je n’ai aucune envie de regagner la conférence, d’écouter des paroles vides pour moi, trop administratives, pas assez inspirantes. C’est un à un que j’aime ces scientifiques, pas tous ensemble.
+Je me suis évadé dans le jardin, pour une sieste, un long moment de méditation puis de lecture. Mes yeux fixent le lointain, des haies après les champs, le jet d'eau de Genève qui dépasse les arbres et se détache sur les pentes bleutées du Salève. Je n'ai aucune envie de regagner la conférence, d'écouter des paroles vides pour moi, trop administratives, pas assez inspirantes. C'est un à un que j'aime ces scientifiques, pas tous ensemble.
 
-Je suis assis sur un banc, assez léger pour que je puisse le déplacer et l’éloigner de la lisière du soleil qui peu à peu vient me mordre les pieds. Les avions filent au-dessus du lac, du jet d’eau, de la ville et se posent derrière un bois. Les oiseaux piaillent sans interruption, un travailleur bricole, la brise manque de force pour agiter plus que mollement les bouquets d’herbe. Au-dessus des blés, la réverbération projette une vapeur huileuse, que j’imagine brûlante. Une église sonne dix-sept heures, le temps s’est effacé, il a dévoré l’après-midi, et je n’ai pensé à rien, je n’ai fait que regarder, dans un agréable état d’hébétude.
+Je suis assis sur un banc, assez léger pour que je puisse le déplacer et l'éloigner de la lisière du soleil qui peu à peu vient me mordre les pieds. Les avions filent au-dessus du lac, du jet d'eau, de la ville et se posent derrière un bois. Les oiseaux piaillent sans interruption, un travailleur bricole, la brise manque de force pour agiter plus que mollement les bouquets d’herbe. Au-dessus des blés, la réverbération projette une vapeur huileuse, que j'imagine brûlante. Une église sonne dix-sept heures, le temps s'est effacé, il a dévoré l'après-midi, et je n'ai pensé à rien, je n'ai fait que regarder, dans un agréable état d'hébétude.
 
-Ce moment est glorieux, mais il me laissera un peu déprimé, à moins qu’il me dicte soudain des idées et des rapprochements imprévus. *Stealing Fire* ne parle pas d’autre chose, d’expériences que je connais trop bien. Mon esprit s’est tendu avec tant d’acuité que le vent caresse mes bras avec une sensualité enivrante. Je ne suis pas encore capable de bouger, je continue mon école buissonnière.
+Ce moment est glorieux, mais il me laissera un peu déprimé, à moins qu'il me dicte soudain des idées et des rapprochements imprévus. *Stealing Fire* ne parle pas d'autre chose, d'expériences que je connais trop bien. Mon esprit s'est tendu avec tant d'acuité que le vent caresse mes bras avec une sensualité enivrante. Je ne suis pas encore capable de bouger, je continue mon école buissonnière.
 
-La brise n’est que passagère. Elle agite un marronnier, mais pas celui planté à côté, qui paraît figé par une gangue de chaleur, ou une photo en couleur.
+La brise n'est que passagère. Elle agite un marronnier, mais pas celui planté à côté, qui paraît figé par une gangue de chaleur, ou une photo en couleur.
 
-Mon corps m’a été donné pour jouir. J’oublie trop souvent cette évidence. Je me cherche des responsabilités, des devoirs, des soucis. Jouir s’est s’alléger : je possède trop de choses, et il me faut m’éloigner de chez moi pour rouvrir les portes de l’extase, ce qui me rassure, me prouve à répétition que je n’ai pas perdu le don.
+Mon corps m'a été donné pour jouir. J'oublie trop souvent cette évidence. Je me cherche des responsabilités, des devoirs, des soucis. Jouir s'est s'alléger : je possède trop de choses, et il me faut m'éloigner de chez moi pour rouvrir les portes de l'extase, ce qui me rassure, me prouve à répétition que je n'ai pas perdu le don.
 
-Dans cet état, je ne peux écrire que dans mon carnet. Cette forme correspond à mes états modifiés de conscience. Je ne peux travailler à un texte plus long, par exemple le livre sur mon père. Le flot me porte sans que je puisse le diriger, ou ne tente de le faire. Je pêche les phrases de passage, tire sur ma ligne, et quand ma proie est remontée, j’attends la suivante.
+Dans cet état, je ne peux écrire que dans mon carnet. Cette forme correspond à mes états modifiés de conscience. Je ne peux travailler à un texte plus long, par exemple le livre sur mon père. Le flot me porte sans que je puisse le diriger, ou ne tente de le faire. Je pêche les phrases de passage, tire sur ma ligne, et quand ma proie est remontée, j'attends la suivante.
 
-Je suis dans le flot, mais sur un rythme différent de celui qui m’emporte quand je suis assis à mon bureau. Celui du carnet est pure jouissance, pure communion. Il n’a pas de but, sinon de me tendre vers lui même, de tourner les mots pour que je le perçoive mieux, alors qu’au bureau il est dirigé, orienté, peut-être que, trop contraint, il perd quelques puissances primitives et essentielles.
+Je suis dans le flot, mais sur un rythme différent de celui qui m'emporte quand je suis assis à mon bureau. Celui du carnet est pure jouissance, pure communion. Il n'a pas de but, sinon de me tendre vers lui même, de tourner les mots pour que je le perçoive mieux, alors qu'au bureau il est dirigé, orienté, peut-être que, trop contraint, il perd quelques puissances primitives et essentielles.
 
-Dehors, face à un paysage campagnard, je suis sous l’effet d’une drogue surpuissante. Elle prend possession de moi et je m’abandonne à elle. Chez moi, je me domine, je canalise mon énergie. Il me semble que ça procure autant de plaisir, bien que sur des registres différents.
+Dehors, face à un paysage campagnard, je suis sous l'effet d'une drogue surpuissante. Elle prend possession de moi et je m'abandonne à elle. Chez moi, je me domine, je canalise mon énergie. Il me semble que ça procure autant de plaisir, bien que sur des registres différents.
 
-J’écris dans les deux cas au clavier, dans un cas sur le MacBookPro, dans l’autre sur l’iPad, avec les mêmes logiciels, ce n’est donc pas tant l’outil qui m’altère que la situation de mon corps, cette écriture en extérieur est plus physique, plus spirituelle, peut-être plus romantique.
+J'écris dans les deux cas au clavier, dans un cas sur le MacBookPro, dans l'autre sur l'iPad, avec les mêmes logiciels, ce n’est donc pas tant l'outil qui m’altère que la situation de mon corps, cette écriture en extérieur est plus physique, plus spirituelle, peut-être plus romantique.
 
-J’aperçois une fleur à mes pieds, quatre corolles violettes, sur une tige torsadée. J’ai l’impression qu’elle vient d’éclore à l’instant, mais non, il me suffit de promener mon regard autour de moi pour faire surgir d’autres fleurs, d’autres feuilles, des détails sans cesse plus nombreux, dont le point commun est la pesante indolence estivale.
+J'aperçois une fleur à mes pieds, quatre corolles violettes, sur une tige torsadée. J'ai l'impression qu'elle vient d'éclore à l'instant, mais non, il me suffit de promener mon regard autour de moi pour faire surgir d'autres fleurs, d'autres feuilles, des détails sans cesse plus nombreux, dont le point commun est la pesante indolence estivale.
 
-Les blés fument toujours, le jet d’eau s’est pincé en un étroit panache, preuve que sur le lac le vent ne souffle pas plus fort que sous les arbres, qui me crachent dessus leur pollen, qui plutôt que me féconder me fait éternuer. Je dois me moucher, revenir à une expérience plus primaire du corps.
+Les blés fument toujours, le jet d'eau s'est pincé en un étroit panache, preuve que sur le lac le vent ne souffle pas plus fort que sous les arbres, qui me crachent dessus leur pollen, qui plutôt que me féconder me fait éternuer. Je dois me moucher, revenir à une expérience plus primaire du corps.
 
-Dans le flot, je ne perçois que les signaux agréables, comme si mon cerveau oblitérait tous les autres, se plaçant dans un état de pure jouissance. Quel intérêt évolutif que cette compétence ? Je suis peut-être en même temps plus sensible aux dangers. Mon père avait ce pouvoir, qui lui a sauvé la vie en Algérie, ainsi qu’à certains de ses compagnons.
+Dans le flot, je ne perçois que les signaux agréables, comme si mon cerveau oblitérait tous les autres, se plaçant dans un état de pure jouissance. Quel intérêt évolutif que cette compétence ? Je suis peut-être en même temps plus sensible aux dangers. Mon père avait ce pouvoir, qui lui a sauvé la vie en Algérie, ainsi qu'à certains de ses compagnons.
 
-Alors cette expérience du moment, c’est une pure perception, tous les signaux intégrés, corrélés. Je ne suis qu’un chasseur, j’arrive toujours à cette conclusion. Je ressemble à mon père plus qu’il ne l’a jamais admis.
+Alors cette expérience du moment, c'est une pure perception, tous les signaux intégrés, corrélés. Je ne suis qu'un chasseur, j'arrive toujours à cette conclusion. Je ressemble à mon père plus qu'il ne l'a jamais admis.
 
-Voilà peut-être que sans le vouloir j’en reviens à son histoire, et voilà peut-être comment je devrais finir mon livre sur mon père, en montrant que des routes opposées nous ont conduits à mener les mêmes vies.
+Voilà peut-être que sans le vouloir j'en reviens à son histoire, et voilà peut-être comment je devrais finir mon livre sur mon père, en montrant que des routes opposées nous ont conduits à mener les mêmes vies.
 
 ---
 
-Parfois je me demande si ma capacité à jouir n’est pas liée à l’incapacité des autres à m’imiter. Pendant que je suis sur mon banc, eux sont enfermés dans la salle de conférence. Ce soir, comment leur avouer que je me suis shooté tout l’après-midi avec un cocktail de drogues neurales exsudées par mon cerveau avec la même générosité que les blés transpirant sous la canicule ?
+Parfois je me demande si ma capacité à jouir n'est pas liée à l'incapacité des autres à m'imiter. Pendant que je suis sur mon banc, eux sont enfermés dans la salle de conférence. Ce soir, comment leur avouer que je me suis shooté tout l'après-midi avec un cocktail de drogues neurales exsudées par mon cerveau avec la même générosité que les blés transpirant sous la canicule ?
 
-![Bossey 1](https://tcrouzet.com/images_tc/2017/07/2017_6_19b.jpg)
+![Bossey 1](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/07/2017_6_19b.jpg)
 
-![Bossey 2](https://tcrouzet.com/images_tc/2017/07/2017_6_19c.jpg)
+![Bossey 2](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/07/2017_6_19c.jpg)
 
 ### Mardi 20, Chateau-Bossey
 
@@ -194,47 +192,47 @@ J’ai dormi comme un bébé, ce qui est bien rare. Est-ce parce que j’ai méd
 
 J’ai un hôtel hors de prix avec une chambre qui donne sur les voies de triage de la gare. Vue magnifique, mais je suis pas sûr de l’apprécier demain matin aux aurores. Je n’ai jamais compris pourquoi même les hôtels de luxe pouvaient être aussi bruyants, comme si les riches étaient prêts à accepter n’importe quoi ; bien sûr je ne parle que des riches de seconde zone, celle à laquelle s’illusionnent d’appartenir des conférenciers itinérants.
 
-![Trains](https://tcrouzet.com/images_tc/2017/07/2017_6_21a.jpg)
+![Trains](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/07/2017_6_21a.jpg)
 
 ---
 
-La ville est moins propice à l’extase que la campagne, parce qu’elle est bruyante, et surtout animée, construite pour attirer l’attention, donc déclencher des désirs. Bateaux qui invitent à traverser le lac, filles délurées, boutiques, pâtisseries, terrasses ombragées… Comment méditer dans ces conditions ? Je peux bien faire le vide en moi, mais cet exercice accapare toute mon attention, là où, à la campagne, il ne me demande aucun effort, laissant de la place pour que jaillissent des pensées.
+La ville est moins propice à l'extase que la campagne, parce qu'elle est bruyante, et surtout animée, construite pour attirer l'attention, donc déclencher des désirs. Bateaux qui invitent à traverser le lac, filles délurées, boutiques, pâtisseries, terrasses ombragées… Comment méditer dans ces conditions ? Je peux bien faire le vide en moi, mais cet exercice accapare toute mon attention, là où, à la campagne, il ne me demande aucun effort, laissant de la place pour que jaillissent des pensées.
 
-![Bleu Léman](https://tcrouzet.com/images_tc/2017/07/2017_6_20a.jpg)
+![Bleu Léman](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/07/2017_6_20a.jpg)
 
-![Bleu Léman 2](https://tcrouzet.com/images_tc/2017/07/2017_6_20b.jpg)
+![Bleu Léman 2](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/07/2017_6_20b.jpg)
 
-![Bleu Léman 3](https://tcrouzet.com/images_tc/2017/07/2017_6_20c.jpg)
+![Bleu Léman 3](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/07/2017_6_20c.jpg)
 
 ### Mercredi 21, Genève
 
-Des journées passent plus vite que d’autres sans que sur un agenda elles soient plus chargées que les précédentes. J’ai couru au bord du lac ce matin, je suis arrivé à 10 heures au centre des congrès pour signer des livres, à m’en faire des ampoules, faut dire que *Résistants* est offert, puis je suis allé voir mon amie Geneviève, nous avons parlé de tout et de rien, j’ai fait une petite sieste dans son jardin, sous un grand arbre, pendant que les nuages dessinaient des cathédrales moutonneuses traversées de coups de tonnerre, me revoilà au centre pour une seconde séance de signature, avec entre temps quelques conversations.
+Des journées passent plus vite que d'autres sans que sur un agenda elles soient plus chargées que les précédentes. J'ai couru au bord du lac ce matin, je suis arrivé à 10 heures au centre des congrès pour signer des livres, à m'en faire des ampoules, faut dire que *Résistants* est offert, puis je suis allé voir mon amie Geneviève, nous avons parlé de tout et de rien, j'ai fait une petite sieste dans son jardin, sous un grand arbre, pendant que les nuages dessinaient des cathédrales moutonneuses traversées de coups de tonnerre, me revoilà au centre pour une seconde séance de signature, avec entre temps quelques conversations.
 
 ---
 
-Je suis assis en hauteur, et je domine les stands où les labos exposent leur camelote. Hommes en costume uniforme, femmes plus diverses, mais cela ne serait pas trop choquant s’il n’y avait pas un vieux monsieur derrière une machine à barbe à papa, avec près de lui une gamine tirée à quatre épingles en train de faire du gringue à un quadra dont je ne vois que la tonsure écrevisse. Ce spectacle est insupportable. Un apartheid !
+Je suis assis en hauteur, et je domine les stands où les labos exposent leur camelote. Hommes en costume uniforme, femmes plus diverses, mais cela ne serait pas trop choquant s'il n'y avait pas un vieux monsieur derrière une machine à barbe à papa, avec près de lui une gamine tirée à quatre épingles en train de faire du gringue à un quadra dont je ne vois que la tonsure écrevisse. Ce spectacle est insupportable. Un apartheid !
 
 ### Jeudi 22, Genève
 
-Je cherche en vain la félicité de lundi après-midi. J’ai beau avoir fait ma sieste au bord du lac, je n’arrive plus à retrouver la lucidité. Je regarde les gens bêtement, plus vide qu’un moine zen, pas la peine de méditer, me suffit de m’abandonner à la canicule.
+Je cherche en vain la félicité de lundi après-midi. J'ai beau avoir fait ma sieste au bord du lac, je n'arrive plus à retrouver la lucidité. Je regarde les gens bêtement, plus vide qu'un moine zen, pas la peine de méditer, me suffit de m'abandonner à la canicule.
 
-Dans la campagne, il est facile de se retrouver seul, et de s’estimer un privilégier du temps libre. En ville, cette illusion s’effondre. À chaque instant, une grande partie de l’humanité glande.
+Dans la campagne, il est facile de se retrouver seul, et de s'estimer un privilégier du temps libre. En ville, cette illusion s'effondre. À chaque instant, une grande partie de l'humanité glande.
 
-Un étrange jeune gars, court sur jambes, gros cul, buste en tonneau et cheveux tondus sur les côtés, ne laissant sur le crâne que quelques poils de quoi faire un petit chignon d’inspiration samoane, accompagne un type bien plus âgé qu’il suit à la façon d’un chien. Ils bricolent la douche du club de wakeboard, dont le bateau à la coque rouge et aux tubulures chromées ondule au bout d’un ponton. Un autre gars est là, bronzé jusqu’à l’os, du crâne à la raies de fesses, il est assis à une table sous un parasol RedBull. Il n’a pas une once de graisse, comme si le soleil l’avait desséché. Sur l’autre rive, verdoyante dans ses soubassements, une muraille de nuages s’accroche aux montagnes, l’une ressemble à un croc solitaire plantée dans la crème chantilly.
+Un étrange jeune gars, court sur jambes, gros cul, buste en tonneau et cheveux tondus sur les côtés, ne laissant sur le crâne que quelques poils de quoi faire un petit chignon d'inspiration samoane, accompagne un type bien plus âgé qu'il suit à la façon d'un chien. Ils bricolent la douche du club de wakeboard, dont le bateau à la coque rouge et aux tubulures chromées ondule au bout d'un ponton. Un autre gars est là, bronzé jusqu'à l'os, du crâne à la raies de fesses, il est assis à une table sous un parasol RedBull. Il n'a pas une once de graisse, comme si le soleil l'avait desséché. Sur l'autre rive, verdoyante dans ses soubassements, une muraille de nuages s'accroche aux montagnes, l'une ressemble à un croc solitaire plantée dans la crème chantilly.
 
 ---
 
 En fin d’après-midi, je retourne chez Genneviève, qui organise un atelier de connaissance de soi avec six personnes auxquelles je m’ajoute. Il faut répondre à la question « Quelles sont vos difficultés à mieux vous connaître, à mieux faire ce que vous désirez ? » Chacun des participants écrit ses réponses sur des Post-its.
 
-Sur un premier Post-it, j’écris « Souvent, je n’arrive pas à faire avec les autres. » Oui, parfois la solitude de l’écrivain me pèse, j’aimerais écrire du théâtre pour une troupe, où participer à des projets collectifs. D’un autre côté, je sais que ne suis pas très adaptable aux méthodes des autres.
+Sur un premier Post-it, j’écris « Souvent, je n'arrive pas à faire avec les autres. » Oui, parfois la solitude de l’écrivain me pèse, j’aimerais écrire du théâtre pour une troupe, où participer à des projets collectifs. D’un autre côté, je sais que ne suis pas très adaptable aux méthodes des autres.
 
-Sur un second Post-it, j’écris « Parfois, j’écoute trop les autres pour leur plaire. » Avec une pensée pour *Résistants*, où, à force d’écouter trop de voix, j’ai fini par écrire un livre qui n’est pas de moi.
+Sur un second Post-it, j’écris « Parfois, j'écoute trop les autres pour leur plaire. » Avec une pensée pour *Résistants*, où, à force d'écouter trop de voix, j'ai fini par écrire un livre qui n'est pas de moi.
 
 Finalement, j’ai été obligé d’admettre que j’étais assez conventionnel, même si depuis longtemps j’ai renoncé à vivre la vie à laquelle me destinaient mes études. Conventionnel en ce sens que souvent je me contorsionne pour être édité. J’espère ne plus jamais tomber dans ce piège.
 
 ### Dimanche 25, Balaruc
 
-Une animatrice bénévole de Wattpad m’annonce qu’elle a mis en avant [*Adam*](https://www.wattpad.com/story/108637519-adam). Je réponds : « Super… je vais voir si ça fait bouger les vues. » Un petit échange s’en suit où je résume mes *a priori* quant à l’évolution vers la socialisation à outrance de Wattpad. Réponse de l’animatrice : « Eh bien ce n’est clairement pas notre expérience de la plateforme et pas, non plus, notre façon d’être autrices dessus. » Puis elle ajoute : « Excuse-moi d’être aussi directe, mais, je t’annonce un truc plutôt cool avec la mise en avant d’*Adam* et tu dois être la seule personne sur les quelques deux cent comptes que j’ai contacté qui ait une réaction aussi… blasée ? »
+Une animatrice bénévole de Wattpad m’annonce qu’elle a mis en avant [*Adam*](https://www.wattpad.com/story/108637519-adam). Je réponds : « Super… je vais voir si ça fait bouger les vues. » Un petit échange s’en suit où je résume mes *a priori* quant à l’évolution vers la socialisation à outrance de Wattpad. Réponse de l’animatrice : « Eh bien ce n'est clairement pas notre expérience de la plateforme et pas, non plus, notre façon d'être autrices dessus. » Puis elle ajoute : « Excuse-moi d'être aussi directe, mais, je t'annonce un truc plutôt cool avec la mise en avant d’*Adam* et tu dois être la seule personne sur les quelques deux cent comptes que j'ai contacté qui ait une réaction aussi... blasée ? »
 
 Je finis par comprendre que j’aurais dû m’extasier d’avoir été choisi (avec 200 autres), que j’aurais dû lancer des mercis à n’en plus finir, tout cela parce qu’une plateforme tente de me tondre la laine sur le dos (en exploitant au passage des bénévoles). Cet échange démontre ce que je pressentais, soit que Wattpad évolue vers la socialisation plutôt que vers la littérature, et que la plupart des jeunes qui y publient n’en sont même pas conscients. Parce que mon animatrice, en contactant 200 auteurs en son nom propre, ne fait pas autre chose que sa promo, tout ça bien sûr pour notre plus grand bénéfice collectif.
 
@@ -248,8 +246,10 @@ Sortie en VTT mémorable. Quand nous attaquons la garrigue, le ciel noircit, qua
 
 ### Jeudi 29, Balaruc
 
-![Lueur](https://tcrouzet.com/images_tc/2017/07/2017_6_29a.jpg)
+![Lueur](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/07/2017_6_29a.jpg)
 
 ### Vendredi 30, Balaruc
 
-[Des médecins se regroupent pour critiquer le gel hydro-alcoolique.](http://www.20minutes.fr/sante/2095807-20170628-gels-antibacteriens-deux-cents-specialistes-alertent-dangers-sante) Les cons. Ils prétendent que le gel contient des perturbateurs endocriniens. Ils ne peuvent pas regarder la formulation OMS : alcool, eau, glycérine. C’est tout. Après, que des labos mettent des merdes dans leurs produits, c’est une autre affaire. Ce n’est pas le gel qui est en question, mais certaines pratiques commerciales. Mais nos médecins mélangent tout, aussi parce que ça les emmerde de se désinfecter les mains, parce qu’ils s’en fichent d’infecter les patients.
+[Des médecins se regroupent pour critiquer le gel hydro-alcoolique.](http://www.20minutes.fr/sante/2095807-20170628-gels-antibacteriens-deux-cents-specialistes-alertent-dangers-sante) Les cons. Ils prétendent que le gel contient des perturbateurs endocriniens. Ils ne peuvent pas regarder la formulation OMS : alcool, eau, glycérine. C'est tout. Après, que des labos mettent des merdes dans leurs produits, c'est une autre affaire. Ce n’est pas le gel qui est en question, mais certaines pratiques commerciales. Mais nos médecins mélangent tout, aussi parce que ça les emmerde de se désinfecter les mains, parce qu'ils s'en fichent d'infecter les patients.
+
+Tags: Carnets, une

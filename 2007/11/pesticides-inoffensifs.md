@@ -8,6 +8,6 @@ En supprimant les chiffres, la remarque de Lomborg devient : pouvons-nous rédu
 
 L’intégriste est quelqu’un qui nie la complexité et refuse d’admettre l’interdépendance. Il croit que des solutions miracles existent. « Tu arrêtes les pesticides et tu as bonne conscience. » Rien n’est aussi simple. Un écologiste peut très bien militer en faveur des pesticides tant que nous n’avons pas de meilleures solutions (je ne dis pas que nous n’en connaissons pas).
 
-[James Lovelock](https://tcrouzet.com/2007/05/20/integrisme-ou-ecologie-faut-choisir/) utilise le même argument que Lomborg pour justifier le recours ’énergie atomique. Le remède consistant à fermer les centrales est pire que le mal si nous devons bruler du charbon ou du pétrole pour produire notre énergie. Fermer les centrales et les remplacer par des sources distribuées est bien sûr la solution au problème.
+[James Lovelock](http://blog.tcrouzet.com/2007/05/20/integrisme-ou-ecologie-faut-choisir/) utilise le même argument que Lomborg pour justifier le recours ’énergie atomique. Le remède consistant à fermer les centrales est pire que le mal si nous devons bruler du charbon ou du pétrole pour produire notre énergie. Fermer les centrales et les remplacer par des sources distribuées est bien sûr la solution au problème.
 
 En d’autres mots, s’attaquer directement au mal n’est pas nécessairement la meilleure méthode. Il ne faut jamais oublier l’interdépendance. Il n’y a pas de cause unique aux problèmes, pas plus de solution unique et miraculeuse.

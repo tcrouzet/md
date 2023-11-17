@@ -8,11 +8,11 @@ Si le cinquième pouvoir existe il ne faut pas le juger avec de vieux critères.
 
 ### 2/ Une journée trop organisée
 
-[Vinvin](https://tcrouzet.com/2007/03/10/agoravox-nous-invite-a-l%e2%80%99usine/) cherche par exemple à démontrer que le cinquième pouvoir n’existe pas parce qu’il n’est pas organisé. C’est justement parce qu’il ne l’est pas qu’il forme un nouveau pouvoir. Tout ce qui est trop organisé lui est étranger, même cette journée d’aujourd’hui.
+[Vinvin](http://blog.tcrouzet.com/2007/03/10/agoravox-nous-invite-a-l%e2%80%99usine/) cherche par exemple à démontrer que le cinquième pouvoir n’existe pas parce qu’il n’est pas organisé. C’est justement parce qu’il ne l’est pas qu’il forme un nouveau pouvoir. Tout ce qui est trop organisé lui est étranger, même cette journée d’aujourd’hui.
 
 ### 3/ Beaucoup de gens flippent
 
-Le cinquième pouvoir n’est pas organisé, n’est pas structuré hiérarchiquement, il n’a pas de porte-parole… tout ça dérange les vieilles habitudes… notamment celles des politiciens et même des journalistes. Mais comment contrôler cette chose ? Je les laisse angoisser car je n’ai pas la réponse.
+Le cinquième pouvoir n'est pas organisé, n'est pas structuré hiérarchiquement, il n’a pas de porte-parole... tout ça dérange les vieilles habitudes… notamment celles des politiciens et même des journalistes. Mais comment contrôler cette chose ? Je les laisse angoisser car je n’ai pas la réponse.
 
 ### 4/ Métaphore Lego
 
@@ -30,7 +30,7 @@ Miracle. Beaucoup de gens créèrent des boîtes. Certains informaticiens hackè
 
 ### 6/ Le cinquième pouvoir chez Lego
 
-On me demande souvent de définir ce qu’est le cinquième pouvoir. C’est ça : que des gens puissent transformer le monde, qu’ils ne soient plus passifs devant ce que les médias ou les entreprises leur proposent. Les fans de Lego sont en train de créer un cinquième pouvoir dans le monde Lego (toutes les entreprises vont connaître la même transition… tous les partis). Ce monde, à mon sens, est une métaphore de notre monde. Ce qui est possible pour Lego est possible à plus vaste échelle. Il suffit d’y croire et c’est beaucoup plus facile une fois que nous y avons pris goût.
+On me demande souvent de définir ce qu’est le cinquième pouvoir. C’est ça : que des gens puissent transformer le monde, qu’ils ne soient plus passifs devant ce que les médias ou les entreprises leur proposent. Les fans de Lego sont en train de créer un cinquième pouvoir dans le monde Lego (toutes les entreprises vont connaître la même transition... tous les partis). Ce monde, à mon sens, est une métaphore de notre monde. Ce qui est possible pour Lego est possible à plus vaste échelle. Il suffit d’y croire et c’est beaucoup plus facile une fois que nous y avons pris goût.
 
 ### 7/ Le pouvoir est addictif
 
@@ -38,7 +38,7 @@ Zephyr Teachout, une des principales animatrices de la campagne de Howard Dean e
 
 > When people get a taste of their own power, it’s a little addictive.
 
-J’en conviens, je suis un peu drogué. Mon passage dans la presse et mon titre de rédacteur en chef au début des années 1990 m’ont un peu fait tourner la tête. Ils ont aussi éveillé en moi une aversion pour les structures pyramidales, le management et toute autre forme de pouvoir hiérarchique. Quand j’ai vu internet se développer, j’ai compris que nous pouvions expérimenter autre chose.
+J'en conviens, je suis un peu drogué. Mon passage dans la presse et mon titre de rédacteur en chef au début des années 1990 m’ont un peu fait tourner la tête. Ils ont aussi éveillé en moi une aversion pour les structures pyramidales, le management et toute autre forme de pouvoir hiérarchique. Quand j’ai vu internet se développer, j’ai compris que nous pouvions expérimenter autre chose.
 
 ### 8/ Une définition
 
@@ -48,4 +48,6 @@ Alors c’est quoi le cinquième pouvoir ? Voici ma meilleure définition à ce
 
 Il n’est pas un pouvoir mais une infinité de pouvoirs individuels. Il est un non-pouvoir, il nie la nécessité d’un commandement fort et montre que, entre chacun de nous, des choses importantes se produisent.
 
-Pour répondre à [Vinvin](https://tcrouzet.com/2007/03/10/agoravox-nous-invite-a-l%e2%80%99usine/), le fait que ce non-pouvoir ne soit pas organisé (sous-entendu hiérarchiquement), c’est toute sa force. Comme il n’a pas de chef, de centre, il ne peut être contrôlé. Bien sûr, il est divers, il se contredit sans cesse, mais c’est la vie… et nous allons le découvrir aujourd’hui j’espère.
+Pour répondre à [Vinvin](http://blog.tcrouzet.com/2007/03/10/agoravox-nous-invite-a-l%e2%80%99usine/), le fait que ce non-pouvoir ne soit pas organisé (sous-entendu hiérarchiquement), c’est toute sa force. Comme il n’a pas de chef, de centre, il ne peut être contrôlé. Bien sûr, il est divers, il se contredit sans cesse, mais c’est la vie… et nous allons le découvrir aujourd’hui j’espère.
+
+Tags: Politique

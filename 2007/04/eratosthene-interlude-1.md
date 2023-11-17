@@ -1,6 +1,6 @@
 # Ératosthène (interlude 1)
 
-*Comme je l’ai expliqué, je prépare* [*un livre à la frontière du roman et de l’essai sur Ératosthène de Cyrène*](https://tcrouzet.com/2007/03/31/eratosthene-de-cyrene/)*. Les parties romanesques seront encadrées par de petits essais. Voici le premier.*<span id="more-430"></span>
+*Comme je l’ai expliqué, je prépare* [*un livre à la frontière du roman et de l’essai sur Ératosthène de Cyrène*](http://blog.tcrouzet.com/2007/03/31/eratosthene-de-cyrene/)*. Les parties romanesques seront encadrées par de petits essais. Voici le premier.*<span id="more-430"></span>
 
 ---
 
@@ -47,3 +47,5 @@ En repoussant les frontières du monde grec, Alexandre ouvrit aux Hellènes d’
 *Le chapitre suivant raconte la mort d’Alexandre le Grand et la fin de son empire, notamment la prise de pouvoir de Ptolémée sur l’Égypte.*
 
 *Ce texte est en chantier. Vos conseils et critiques seront les bienvenus.*
+
+Tags: Ératosthène, noepub

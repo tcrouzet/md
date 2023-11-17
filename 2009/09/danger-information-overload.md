@@ -2,7 +2,7 @@
 
 Dans une économie de flux, une économie de l’abondance et de la libre circulation de l’information, comment éviter l’indigestion, comme éviter d’exploser d’information overload ?<span id="more-9631"></span>
 
-Pour créer le flux, le propager, le manipuler, il faut des [propulseurs](https://tcrouzet.com/tag/propulseur/). Mais comment ils propulsent, en se connectant. On ne peut propulser quelque chose que si on a construit une communauté. Et on construit une communauté en propulsant vers elle des informations intéressantes.
+Pour créer le flux, le propager, le manipuler, il faut des [propulseurs](http://blog.tcrouzet.com/tag/propulseur/). Mais comment ils propulsent, en se connectant. On ne peut propulser quelque chose que si on a construit une communauté. Et on construit une communauté en propulsant vers elle des informations intéressantes.
 
 > On propulse en connectant. On connecte en propulsant.
 
@@ -28,4 +28,6 @@ Dans un monde qui souffre du matérialisme, un seul camp a la possibilité de l�
 
 Mais je suis optimiste. Si l’économie des flux fait ses preuves, si les gens s’y trouvent plus heureux, même les opérateurs seront attirés vers elle. S’ils y gagnent, et ils devraient y gagner grâce au nombre croissant de propulseurs, ils imposeront à leurs concurrents de les suivre. Ainsi nous pourrions assister à une transition pacifique.
 
-PS : j’ai écrit ce billet en réponse à [un commentaire de Pierre-Alexandre Xavier](https://tcrouzet.com/2009/08/31/leconomie-des-flux/#comment-69130).
+PS : j’ai écrit ce billet en réponse à [un commentaire de Pierre-Alexandre Xavier](http://blog.tcrouzet.com/2009/08/31/leconomie-des-flux/#comment-69130).
+
+Tags: NetCulture

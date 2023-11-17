@@ -20,9 +20,9 @@ Pour le moment, la plupart de ces places de marché diffusent des objets relativ
 
 J’ai rapidement trouvé une solution. J’ai compilé une version minimaliste de mon carnet sur une seule page web, donc un immense rouleau, puis je l’ai imprimée dans un PDF. Après pas mal de bricolage, j’ai découvert qu’avec cinquante colonnes, je remplissais presque exactement mon immense page. Quand l’image est apparue à l’écran, j’ai trépigné de joie. C’était juste superbe, une œuvre d’art en soi. Je me suis dit qu’elle pourrait être imprimée dans diverses dimensions et se transformer en un tableau d’une complexité assez folle. Mais la taille du fichier PDF occupait toujours environ 500 Mo.
 
-![Version compressée ](https://tcrouzet.com/images_tc/2021/08/Crouzet-Carnet-capture.jpg)
+![Version compressée ](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/08/Crouzet-Carnet-capture-1236x1200.jpg)
 
-J’ai alors compressé une première fois ce fichier, réduisant sa taille à 50 Mo environ, avant de le compresser une seconde fois et de tomber sous les 30 Mo. J’avais enfin un fichier de la taille requise par OpenSea. Avec ce PDF, j’ai réinventé le microfilm. Zoomer sur l’image fait apparaître son contenu. Le texte vectorisé reste parfaitement lisible, les photos perdent en qualité, mais l’ensemble devient autre chose que mon carnet initial, une œuvre en soi. J’ai créé une fresque contemporaine, la version graphique d’un bout de mon blog.
+J’ai alors compressé une première fois ce fichier, réduisant sa taille à 50 Mo environ, avant de le compresser une seconde fois et de tomber sous les 30 Mo. J’avais enfin un fichier de la taille requise par OpenSea. Avec ce PDF, j’ai réinventé le microfilm. Zoomer sur l’image fait apparaître son contenu. Le texte vectorisé reste parfaitement lisible, les photos perdent en qualité, mais l'ensemble devient autre chose que mon carnet initial, une œuvre en soi. J’ai créé une fresque contemporaine, la version graphique d’un bout de mon blog.
 
 Quand j’ai voulu la mettre en vente sur OpenSea, nouvelle déconvenue. Cette place de marché, contrairement à d’autres, n’accepte pas les PDF. J’ai tenté de convertir mon PDF en SVG, format vectoriel accepté, mais Illustrator a refusé d’ouvrir ce PDF un peu trop volumineux à son goût. J’ai donc basculé sur une place de marché moins connu, [Libra.codes](https://libra.codes/), qui accepte des fichiers de tout type jusqu’à 100 Mo et [j’ai mis en vente une première fois mon PDF](https://libra.codes/token/79c1a8af5ef708a621b1334fc87bea94ac07c4f0).
 
@@ -31,3 +31,5 @@ Peu séduit par ce site, j’ai essayé [mintable.app](https://mintable.app/), q
 ![Mon Carnet sur Mintable](https://mintable.app/art/item/Crouzet-Diary-2015-2021-The-diary-convert-in-a-giant-painting-5mx5m/buKmUZJYsiO9bxn)
 
 Je ne fais que jouer, qu’expérimenter. J’entrevois des possibilités pour les blogs, mais aussi de nombreux textes, qui pourraient être transformés en objets numériques uniques. Affaire à suivre.
+
+Tags: édition, NFT, une

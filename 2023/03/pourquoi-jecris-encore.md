@@ -131,3 +131,5 @@ Pour ne pas me détester quand je n’écris pas.
 Pour me trouver de nouvelles raisons de le faire.
 
 Pour que cette liste n’ait pas de fin.
+
+Tags: Autobiographie, une

@@ -1,6 +1,6 @@
 # Je fais l’amour avec Marie
 
-Dans la réunion évoquée dans le [billet précédent](https://tcrouzet.com/2008/10/27/incompatibilite/), tout le monde sauf moi, il me semble, disait « l’Internet ». Chaque fois je souriais. Je n’ai jamais compris cet apostrophe que le I cap vient contredire d’ailleurs.<span id="more-3372"></span>
+Dans la réunion évoquée dans le [billet précédent](http://blog.tcrouzet.com/2008/10/27/incompatibilite/), tout le monde sauf moi, il me semble, disait « l’Internet ». Chaque fois je souriais. Je n’ai jamais compris cet apostrophe que le I cap vient contredire d’ailleurs.<span id="more-3372"></span>
 
 Faites-vous l’amour avec Marie ou avec la Marie ?
 

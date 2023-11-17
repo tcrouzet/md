@@ -14,10 +14,12 @@ C’est le jeu, sans trop réfléchir lister les livres qui ont profondément ma
 
 6. *Shiddhartha* d’Herman Hesse, parce que j’aimerais un jour écrire un livre aussi limpide.
 
-7. *L’âge d’or* de Pierre Herbar, un pur joyau méridional.
+7. *L’âge d'or* de Pierre Herbar, un pur joyau méridional.
 
-8. *Les années d’apprentissage de Wilhelm Meister* de Goethe, une cathédrale vertigineuse d’une modernité inégalée.
+8. *Les années d'apprentissage de Wilhelm Meister* de Goethe, une cathédrale vertigineuse d’une modernité inégalée.
 
 9. *Les confessions* de Rousseau, parce que j’ai trouvé un frère.
 
 10. *L’étranger* de Camus, pour la lumière dans le style.
+
+Tags: buzzlitt, une

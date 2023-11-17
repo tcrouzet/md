@@ -2,7 +2,7 @@
 
 Je vous rassure, je suis aussi un con. Que faisons-nous ? Nous ne cessons de parler des médias traditionnels et de linker vers eux. Nous leur donnons ainsi un poids démesuré dans l’écosystème du Web.<span id="more-13349"></span>
 
-De leur côté, ils parlent peu de nous, nous linkent encore moins souvent, parfois même en nofollow (pour éviter que Google remonte jusqu’à nous). Nous sommes les dindons de la farce. Ils refusent d’entrer dans le système ouvert du Flux et dans ses boucles de rétroaction. Avez-vous noté qu’il n’y a jamais de liens dans leurs textes !
+De leur côté, ils parlent peu de nous, nous linkent encore moins souvent, parfois même en nofollow (pour éviter que Google remonte jusqu’à nous). Nous sommes les dindons de la farce. Ils refusent d’entrer dans le système ouvert du Flux et dans ses boucles de rétroaction. Avez-vous noté qu'il n'y a jamais de liens dans leurs textes !
 
 La blogosphère reste à construire. Que devrions-nous faire pour nous défendre et faire entendre nos voix ?
 
@@ -15,3 +15,5 @@ La blogosphère reste à construire. Que devrions-nous faire pour nous défendre
 7. Refusons de bloguer à l’intérieur d’un autre média à moins qu’il ne nous rémunère. Refusons d’aller générer du trafic, donc d’enrichir une entreprise qui, dans le même temps, lutte pour restreindre notre visibilité. Sous prétexte de gagner un peu de visibilité un jour, on perd toute visibilité à jamais.
 8. Que nous le voulions ou non, nous sommes en train de créer un nouvel espace informationnel. Nous devons avaler la presse, attirer dans nos rangs tous les journalistes, inventer comment rendre ce monde soutenable. Les journalistes ne sont plus, le temps des blogueurs-connecteurs est venu.
 9. Au final, ignorons Google. Cherchons à nous construire une audience qui nous soit propre.
+
+Tags: Blogosphère, Journalisme, NetCulture

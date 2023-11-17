@@ -1,8 +1,8 @@
 # Roland Barthes sur l’édition numérique
 
-Il nous arrive de plus en plus souvent de compiler des textes écrits sur des blogs, sur Twitter, sur Facebook… pour en faire des ebooks ou des livres. Chaque fois, [j’ai l’impression que la conversion implique une perte](https://tcrouzet.com/2013/04/15/la-discontinuite-du-web-et-leclatement-de-nos-vies/), comme si une qualité propre au web s’évanouissait au cours de l’opération.<span id="more-32569"></span>
+Il nous arrive de plus en plus souvent de compiler des textes écrits sur des blogs, sur Twitter, sur Facebook… pour en faire des ebooks ou des livres. Chaque fois, [j’ai l’impression que la conversion implique une perte](http://blog.tcrouzet.com/2013/04/15/la-discontinuite-du-web-et-leclatement-de-nos-vies/), comme si une qualité propre au web s’évanouissait au cours de l’opération.<span id="more-32569"></span>
 
-[Dans un billet de 2011](https://tcrouzet.com/2011/01/26/definir-livre-electronique/), j’ai défini le livre ou l’ebook comme la projection d’un codex (document hypertexte associé à un code informatique). Ce processus implique une perte d’information, une sorte d’aplatissement, métaphoriquement un passage de la 3D à la 2D. Cette perte expliquerait pourquoi j’éprouve un malaise quand j’ouvre un livre/ebook issu d’une expérience web. Je me demande alors si nous autres auteurs web ne faisons pas fausse route en nous préoccupant « d’édition numérique », si au contraire nous ne devrions pas « augmenter » nos créations plutôt que les aplatir (créer des apps est tout aussi réductionniste).
+[Dans un billet de 2011](http://blog.tcrouzet.com/2011/01/26/definir-livre-electronique/), j’ai défini le livre ou l’ebook comme la projection d’un codex (document hypertexte associé à un code informatique). Ce processus implique une perte d’information, une sorte d’aplatissement, métaphoriquement un passage de la 3D à la 2D. Cette perte expliquerait pourquoi j’éprouve un malaise quand j’ouvre un livre/ebook issu d’une expérience web. Je me demande alors si nous autres auteurs web ne faisons pas fausse route en nous préoccupant « d’édition numérique », si au contraire nous ne devrions pas « augmenter » nos créations plutôt que les aplatir (créer des apps est tout aussi réductionniste).
 
 Mais, avant, il est nécessaire de se demander ce qui est propre à l’écriture web, et même de se demander si cette écriture a quelque chose de propre. Dans *La chambre claire*, Roland Barthes s’est posé des questions semblables au sujet de la photographie.
 
@@ -14,7 +14,7 @@ Par exemple, l’écriture web se joue le plus souvent dans l’immédiateté. O
 
 Si je me contentais de republier sur un blog mes carnets des années 1990, je ne pratiquerai pas l’écriture web. On identifie tout aussi bien ce qui n’appartient pas à ce genre. Pourquoi alors aller plus loin dans l’investigation ? Peut-être pour tracer une carte, pour ne pas se perdre, pour ne pas faire marche arrière.
 
-Barthes s’intéresse à la photographie qui est, elle aussi, une projection 3D vers 2D. Je me suis dit que sa réflexion pouvait s’appliquer directement non pas à l’écriture web mais aux livres/ebooks issus de cette écriture. Exemples. Mon thriller : [*La Quatrième Théorie*](https://tcrouzet.com/la-quatrieme-theorie/). [*Autobiographie des objets*](http://www.tierslivre.net/spip/spip.php?article2971) de François Bon. [*Aux îles Kerguelen*](http://www.oeuvresouvertes.net/spip.php?article1947) de Laurent Margantin. Chacun de ces textes est une sorte de photographie d’une expérience web, d’un happening numérique. Barthes nous dit une chose frappante à ce sujet :
+Barthes s’intéresse à la photographie qui est, elle aussi, une projection 3D vers 2D. Je me suis dit que sa réflexion pouvait s’appliquer directement non pas à l’écriture web mais aux livres/ebooks issus de cette écriture. Exemples. Mon thriller : [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/). [*Autobiographie des objets*](http://www.tierslivre.net/spip/spip.php?article2971) de François Bon. [*Aux îles Kerguelen*](http://www.oeuvresouvertes.net/spip.php?article1947) de Laurent Margantin. Chacun de ces textes est une sorte de photographie d’une expérience web, d’un happening numérique. Barthes nous dit une chose frappante à ce sujet :
 
 > Ce que la Photographie reproduit à l’infini n’a eu lieu qu’une fois : elle répète mécaniquement ce qui ne pourra jamais plus se répéter existentiellement.
 
@@ -40,7 +40,7 @@ On parle de lecture collective, j’attends encore de voir quelque chose de conv
 
 On aboutit à un résultat inverse par rapport à celui que recherchaient traditionnellement la plupart des écrivains. À partir d’une écriture statique, produite dans la solitude, ils mettaient les mots en mouvement. Dans la tête du lecteur, les armées s’ébranlaient. Des mots à la lecture, quelque chose de plus apparaissait. Le livre impliquait une augmentation, un élargissement du possible, un dépassement de ce qui est dit *stricto sensu*.
 
-![Quand Barthes pense le numérique](https://tcrouzet.com/images_tc/2013/04/barthes.jpg)
+![Quand Barthes pense le numérique](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/04/barthes.jpg)
 
 En tant qu’auteur, quand on pense écriture web, tout un semble de préoccupations anciennes disparaissent à cause de la nature dynamique du média. On devient cinéaste par opposition au photographe qui serait le pendant de l’auteur de livres/ebooks. Ramener un film à quelques photos le laisse exsangue.
 
@@ -79,3 +79,5 @@ Dans ce paysage schématique, reste à définir sa place en tant qu’auteur :
 3. Et il existe, peut-être, une troisième possibilité. Écrire en même temps le livre/ebook et le site, plutôt que déduire le premier du second par copier-coller. C’est ce que j’ai fait avec *Le cinquième pouvoir* en 2006, sans y penser. Créer deux œuvres parentes mais différentes, sans que l’une soit une projection réductive de l’autre.
 
 Tout cela n’étant bien sûr possible que s’il existe un cocktail de qualités propre à l’écriture web, des qualités qui peut-être ont été opérantes et le sont moins, suite au développement exponentiel du web. Reste alors à les réactiver, les cultiver, les penser, les développer. Écrire sur le web, c’est monter sur la scène et improviser.
+
+Tags: eBook, NetLittérature, une

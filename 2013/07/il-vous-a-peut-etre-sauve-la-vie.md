@@ -1,6 +1,6 @@
 # Il vous a peut-être sauvé la vie
 
-[Offre légale et partage non-marchand doivent coexister](http://scinfolex.wordpress.com/2013/07/18/offre-legale-et-partage-non-marchand-doivent-coexister/) ou [Reconnaître le Domaine Public Volontaire](http://scinfolex.wordpress.com/2013/07/17/reconnaitre-le-domaine-public-volontaire-sans-fragiliser-lauteur-dans-les-contrats-dedition-reponse-a-la-sgdl/), ces deux billets de Calimaq m’incitent à préciser ma volonté de distribuer sous licence Créative Commons BY-SA mon prochain livre : [*L’homme qui lave les mains*](https://tcrouzet.com/tag/lhomme-qui-lave-les-mains/).<span id="more-33239"></span>
+[Offre légale et partage non-marchand doivent coexister](http://scinfolex.wordpress.com/2013/07/18/offre-legale-et-partage-non-marchand-doivent-coexister/) ou [Reconnaître le Domaine Public Volontaire](http://scinfolex.wordpress.com/2013/07/17/reconnaitre-le-domaine-public-volontaire-sans-fragiliser-lauteur-dans-les-contrats-dedition-reponse-a-la-sgdl/), ces deux billets de Calimaq m’incitent à préciser ma volonté de distribuer sous licence Créative Commons BY-SA mon prochain livre : [*L’homme qui lave les mains*](http://blog.tcrouzet.com/tag/lhomme-qui-lave-les-mains/).<span id="more-33239"></span>
 
 ### Brouillon de quatrième de couverture
 
@@ -8,13 +8,13 @@ Pour être moins souvent malade, il suffit de se laver les mains. Didier Pittet 
 
 ### Un brouillon de couverture
 
-![D'après Pécub](https://tcrouzet.com/images_tc/2013/07/cover.jpg)
+![D'après Pécub](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/07/cover-500x800.jpg)
 
 D’après un des nombreux posters que [Pécub](http://www.pecub.ch/) a dessinés pour illustrer la campagne de promotion de l’hygiène des mains au CHU de Genève.
 
 ### Un second brouillon
 
-![D'après Jean-Baptiste Huyn](https://tcrouzet.com/images_tc/2013/07/cover2.jpg)
+![D'après Jean-Baptiste Huyn](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/07/cover2-500x800.jpg)
 
 D’après une photographie de [Jean-Baptiste Huyn](http://www.jeanbaptistehuynh.com/) utilisée par les HUG pour sa campagne de de promotion. J’aimerais bien que Jean-Baptiste participe au projet (contact en cours).
 
@@ -31,3 +31,5 @@ Implications pour le livre…
 3. Je me contenterai de pointer vers une page de don.
 4. Un éditeur pourra s’il le désire publier une version papier ou même une version électronique payante. Il n’aura pas l’obligation de me verser des droits. J’espère qu’il choisira un format économique. Éditeurs manifestez-vous (épreuve disponible).
 5. Le texte pourra être traduit ou modifié en toute liberté pour engendrer de nouvelles versions.
+
+Tags: L'homme qui lave les mains, Le geste qui sauve, NetLittérature, Politique, une

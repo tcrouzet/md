@@ -1,10 +1,10 @@
 # La menace de mort
 
-Alors que le 14 février 2011, j’étais à l’hôpital suite à [mon burn-out numérique](https://tcrouzet.com/jai-debranche/), je n’ai pas pu m’empêcher de gribouiller sur un carnet une nouvelle vaguement tauromachique, sorte de critique métaphorique de notre société.<span id="more-23183"></span>
+Alors que le 14 février 2011, j’étais à l’hôpital suite à [mon burn-out numérique](http://blog.tcrouzet.com/jai-debranche/), je n’ai pas pu m’empêcher de gribouiller sur un carnet une nouvelle vaguement tauromachique, sorte de critique métaphorique de notre société.<span id="more-23183"></span>
 
-Vous pouvez [la télécharger](https://tcrouzet.com/la-menace-de-mort/) pour votre liseuse ou tablette ou la lire directement sur cette page.
+Vous pouvez [la télécharger](http://blog.tcrouzet.com/la-menace-de-mort/) pour votre liseuse ou tablette ou la lire directement sur cette page.
 
-![](https://tcrouzet.com/images_tc/2012/02/couv.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/02/couv-350x534.png)
 
 Consciences, suis-je digne de m’adresser à vous ?
 
@@ -75,3 +75,5 @@ Les combats s’équilibrèrent, au prix de danses toujours plus sublimes. Pour 
 J’ai tracé les courbes de la mortalité. Depuis l’arrivée du consortium, les consciences succombent de plus en plus fréquemment au contraire des robos. Quand par inadvertance une de ces présupposés machines mord la poussière que se passe-t-il sous le catafalque ? Cette question m’a torturé. J’ai comparé des millions d’images pour visionner les va-et-vient des puntilleros lorsqu’ils accourent. Avez-vous remarqué leur abondante chevelure noire et bouclée ? On dirait qu’ils sont frères. J’ai fini par repérer à la base de leur crâne la naissance de petites cornes. Les puntilleros sont des M.U.T.A.N.T.S. Les robos sont-ils encore des animaux ? Je savais que non. Des entités conscientes payent une fortune le privilège d’être métamorphosés en taureau pour avoir le droit de descendre dans l’arène et de jouir de tuer. Nous n’avons jamais cessé d’être des A.S.S.A.S.S.I.N.S.
 
 Voyez, les drones approchent. Ils m’achèveront d’un bref coup de poignard dans le cervelet. J’aurai l’honneur d’être la première conscience officiellement et publiquement sacrifiée depuis des millénaires. Ne croyez pas qu’ils s’arrêteront à moi. Ces vampires sont assoiffés de souffrances. À chaque génération, ils changent de visage. Sous leur apparence respectable, ils manquent cruellement d’éthique. La tragédie ne fait que commencer. La corrida jamais ne sera abolie.
+
+Tags: NetLittérature, une

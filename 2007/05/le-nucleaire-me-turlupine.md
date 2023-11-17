@@ -1,6 +1,6 @@
 # Le nucléaire me turlupine
 
-Comme je l’ai dit récemment, [je suis pour le nucléaire mais *not in my backyard*](https://tcrouzet.com/2007/05/02/pas-de-centrale-pres-de-chez-moi/). Cette position n’est pas inflexible. Si je dois choisir entre une centrale nucléaire près de chez moi ou crever de faim et de soif à cause du réchauffement climatique, je choisis la centrale, qui apparaît alors comme un moindre mal.
+Comme je l’ai dit récemment, [je suis pour le nucléaire mais *not in my backyard*](http://blog.tcrouzet.com/2007/05/02/pas-de-centrale-pres-de-chez-moi/). Cette position n’est pas inflexible. Si je dois choisir entre une centrale nucléaire près de chez moi ou crever de faim et de soif à cause du réchauffement climatique, je choisis la centrale, qui apparaît alors comme un moindre mal.
 
 Ces idées ont tourné dans ma tête cette nuit après ma lecture du premier chapitre de [La revanche de Gaïa](http://www.amazon.fr/revanche-Ga%C3%AFa-riposte-t-elle-pouvons-nous-lhumanit%C3%A9/dp/2082105881). Lovelock écrit :
 
@@ -38,6 +38,8 @@ Mais que faire ?
 
 Accepter le nucléaire dans son backyard ?
 
-Non, décidément je n’aime pas cette solution, peut-être avant tout parce qu’elle est centralisée et qu’elle fait planer sur nous une dictature énergétique, qui pourrait très vite devenir une dictature informationnelle.
+Non, décidément je n’aime pas cette solution, peut-être avant tout parce qu'elle est centralisée et qu’elle fait planer sur nous une dictature énergétique, qui pourrait très vite devenir une dictature informationnelle.
 
 Je crois que nous devons diversifier et multiplier les micro-sources d’énergie. C’est la garantie de notre liberté énergétique et la garantie de pouvoir réagir rapidement aux évolutions technologiques.
+
+Tags: Politique

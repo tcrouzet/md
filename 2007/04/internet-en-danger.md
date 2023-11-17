@@ -1,8 +1,8 @@
 # Internet en danger
 
-Lorsque des gens s’opposent à [la publication des sondages dès leur disponibilité](https://tcrouzet.com/2007/04/20/sondages-a-18-h-la-grande-incompetence/), ils ne nous empêchent pas simplement de copier l’information sur nos blogs, ils interdisent au web de fonctionner : tout robot qui reproduirait automatiquement une information publiée ailleurs, à l’étranger par exemple, serait dans l’illégalité.
+Lorsque des gens s’opposent à [la publication des sondages dès leur disponibilité](http://blog.tcrouzet.com/2007/04/20/sondages-a-18-h-la-grande-incompetence/), ils ne nous empêchent pas simplement de copier l’information sur nos blogs, ils interdisent au web de fonctionner : tout robot qui reproduirait automatiquement une information publiée ailleurs, à l’étranger par exemple, serait dans l’illégalité.
 
-C’est exactement la même situation que poursuit le [couple Royal-Hollande en attaquant bonVote.com](https://tcrouzet.com/2007/04/20/sondages-a-18-h-la-grande-incompetence/). En gros, nous n’avons plus droit d’utiliser des robots, car les robots sont aveugles.
+C’est exactement la même situation que poursuit le [couple Royal-Hollande en attaquant bonVote.com](http://blog.tcrouzet.com/2007/04/20/sondages-a-18-h-la-grande-incompetence/). En gros, nous n’avons plus droit d’utiliser des robots, car les robots sont aveugles.
 
 Jusqu’à ce jour, le web fonctionne par feedback. Lorsqu’un robot reproduit une information litigieuse, il suffit de la signaler aux administrateurs du robot et ils la déréférencent (ce qu’a fait [bonVote.com](http://www.bonvote.com)).
 
@@ -14,4 +14,4 @@ Ces affaires peuvent paraître anecdotiques à l’avant-veille d’une préside
 
 Dans cette histoire, la campagne présidentielle est un épiphénomène. En ce moment, deux mondes s’affrontent, il ne faut pas se tromper de combat.
 
-PS : [Comme me l’a conseillé José](https://tcrouzet.com/2007/04/20/sondages-a-18-h-la-grande-incompetence/#comment-19191), je vais essayer de me détendre (je suis doppé aux antibiotiques et je n’arrive plus à dormir).
+PS : [Comme me l'a conseillé José](http://blog.tcrouzet.com/2007/04/20/sondages-a-18-h-la-grande-incompetence/#comment-19191), je vais essayer de me détendre (je suis doppé aux antibiotiques et je n'arrive plus à dormir).

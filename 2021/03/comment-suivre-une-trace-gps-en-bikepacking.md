@@ -101,3 +101,5 @@ En théorie, on peut envoyer en même temps la trace, les variantes et les POI a
 Tout cela reste bien compliqué. Les services de partage de traces, comme Komoot, OpenRunner ou UtagawavVTT ont encore beaucoup de progrès à effectuer. Suivant l’exemple de [RideWithGPS](https://ridewithgps.com/), service payant pour ses options les plus intéressantes, ils devraient accepter des traces avec POI pour commencer. Les créateurs d’épreuves pourraient ainsi rassembler leurs données en un seul endroit. Pour ma part, je continuerai à passer par Google Map tant que je n’aurais pas trouvé mieux.
 
 J'avoue que je préfère me casser la tête avant le départ pour minimiser les emmerdes par la suite. Le minimalisme exige un long travail préparatoire, c'est le paradoxe.
+
+Tags: 727, Born to Bike, une

@@ -26,4 +26,4 @@ J’en appelle à la responsabilité de chacun. Respectez la distanciation socia
 
 Vive la démocratie, vive les Français.
 
-<div class="iframe" id="iframe13"></div>
+Tags: Covid, Politique, une

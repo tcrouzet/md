@@ -27,3 +27,5 @@ Un petit éclair de lucidité toutefois.
 > Aux tenants de la cohabitation numérique/papier, rappelons que, durant les trente années qui ont suivi l’apparition de l’imprimerie, la production de manuscrits s’est considérablement développée, jusqu’à saturation du marché puis basculement généralisé vers l’imprimé, le manuscrit devenant peu à peu objet de collection.
 
 Poussez votre idée jusqu’au bout. Rien n’empêchera les livres imprimés de devenir des objets de collection. Ne cherchez pas à les sauver, faisant au passage une confusion entre Internet et les ebooks, la lecture sur écran et la lecture sur eReader.
+
+Tags: eBook, édition

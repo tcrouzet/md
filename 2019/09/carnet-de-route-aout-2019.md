@@ -8,7 +8,7 @@ Je ne pédale pas depuis une semaine et voilà que j’attrape un rhume. Je ne p
 
 ### Samedi 3, Balaruc
 
-![Émile n'arrête plus de peindre](https://tcrouzet.com/images_tc/2019/09/471e490a-e523-43a3-bb3d-f5390a81a2b9.jpg)
+![Émile n'arrête plus de peindre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/471e490a-e523-43a3-bb3d-f5390a81a2b9-600x450.jpg)
 
 ### Dimanche 4, Balaruc
 
@@ -38,7 +38,7 @@ Je n’ai jamais été un grand lecteur parce que je suis un rêveur. Dans les t
 
 Endormi hier soir à 19 h. Le virus m’a lessivé. Me voilà le nez dans mes affaires de bikepacking.
 
-### Samedi 17, Montagnac
+### Samedi 17, Maillardou
 
 [Rentré de mon trip à vélo](https://tcrouzet.com/2019/08/22/une-traversee-de-la-france-sud-a-vtt/), heureux, fatigué, avec envie de reprendre la route une fois mes forces reconstituées. Repense à mon roman qui sort dans moins d’une semaine alors que [Franck Bouysse](https://www.lamanufacturedelivres.com/auteurs/fiche/1/franck-bouysse) et la Manufacture de livres caracolent en tête des ventes.
 
@@ -50,15 +50,15 @@ En terrasse de café, avec autour un vide-grenier, étalage de merdouilles. Je s
 
 Je respecte l’environnement autant que possible, je voyage à vélo de préférence à tout autre mode de locomotion, je mange bio, je respecte le monde comme je respecte mon corps, en ne fumant pas, en ne buvant pas, je le respecte comme je respecte mes semblables. Tout intégrisme est un non-respect, une façon de nier l’autre. Tant qu’il y a respect, il n’y a pas de danger.
 
-### Mardi 20, Montagnac
+### Mardi 20, Maillardou
 
 Un type que je connais, qui fait de la politique, assez riche, une trentaine d’appartements en location, vous voyez le genre, sur Facebook accuse le gouvernement de nous mettre à poil, de nous empêcher de faire le plein de nos voitures. Il continue cette logorrhée. Je lui fais remarquer qu’il est un peu gonflé de se ranger dans le camp des pauvres. Il prend mal ma remarque.
 
-### Mercredi 21, Montagnac
+### Mercredi 21, Maillardou
 
 Première sortie vélo depuis le retour du raid, j’ai les jambes en plomb. [J’ai passé mon temps à raconter notre voyage](https://tcrouzet.com/2019/08/22/une-traversee-de-la-france-sud-a-vtt/), [Lionel racontant de son côté](https://ploum.net/de-la-mediterranee-a-latlantique-en-vtt/). Demain paraît [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/), c’est le grand silence pour l’instant (et c’est flippant). Je suis en train d’envoyer un gros spam à mes contacts. Je m’autorise cette facétie tous les deux ou trois ans.
 
-### Jeudi 22, Montagnac
+### Jeudi 22, Maillardou
 
 Un titre qui me tourne dans la tête depuis un mois, *Morte dans l’amour*, et le désir de plus en plus vif de l’écrire.
 
@@ -66,23 +66,23 @@ Un titre qui me tourne dans la tête depuis un mois, *Morte dans l’amour*, et 
 
 Depuis que j’ai connu un lancement de star avec [*J’ai débranché*](https://tcrouzet.com/jai-debranche/), je m’attends au même déchaînement médiatique à tout nouveau lancement, mais à moins d’être une star il ne se passe rien. Il faut de la patience pour toucher les lecteurs, autant que pour écrire, autant que pour publier. Le monde du livre prend son temps, et ce n’est peut-être pas plus mal, sauf que parfois il prend un tend infini et jamais ne nous rencontre.
 
-### Vendredi 23, Montagnac
+### Vendredi 23, Maillardou
 
 Post-partum vélo et publication. Comment à nouveau me motiver moi-même ? Je ne sais pas être sans les autres. Je voudrais qu’ils m’aiment, mais je ne les aime pas assez. Ils le sentent.
 
-![Biron, sortie route avec les cousins](https://tcrouzet.com/images_tc/2019/09/IMG_6216.jpg)
+![Biron, sortie route avec les cousins](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_6216-600x450.jpg)
 
 ### Dimanche 25, Villeneuve-sur-Lot
 
 Aux urgences après une gamelle à VTT dans un sentier familier près de chez mes beaux-parents. Diagnostic : fracture du col du fémur droit. On va me transférer sur Montpellier où je serai opéré demain matin. J’oublie la rentrée littéraire, je ne pense qu’à ma famille, qu’à la beauté de la vie.
 
-![Aux urgences](https://tcrouzet.com/images_tc/2019/09/IMG_6226.jpg)
+![Aux urgences](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_6226-600x450.jpg)
 
 ### Lundi 26, Montpellier
 
-![Depuis ma chambre à la clinique](https://tcrouzet.com/images_tc/2019/09/IMG_6243.jpg)
+![Depuis ma chambre à la clinique](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_6243-450x450.jpg)
 
-![Hilare après l'opération](https://tcrouzet.com/images_tc/2019/09/d5e28fb7-7674-4355-af77-b3738c30dc50.jpg) 2
+![Hilare après l'opération](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/d5e28fb7-7674-4355-af77-b3738c30dc50-600x450.jpg)
 
 ### Mardi 27, Montpellier
 
@@ -90,7 +90,7 @@ L’opération s’est bien déroulée, [je raconte ma mésaventure](https://tcr
 
 ### Mercredi 28, Montpellier
 
-« Appelé devenu tueur pendant la guerre d’Algérie, grand chasseur de gibier, Jim entretenait un climat de terreur chez lui. » [Frédérique Roussel dans *Libération*](https://next.liberation.fr/livres/2019/08/27/la-famille-entre-realite-et-frictions_1747690) au sujet de *Mon père, ce tueur*. Il me semble que c’était plus sournois, plus nuancé. Article de Frédérique où je découvre que nous sommes nombreux en cette rentrée à parler de nos familles pour le meilleur et pour le pire. Me voilà au chaud dans la catégorie : tragédie à la *Festen*.
+« Appelé devenu tueur pendant la guerre d’Algérie, grand chasseur de gibier, Jim entretenait un climat de terreur chez lui. » [Frédérique Roussel dans *Libération*](https://next.liberation.fr/livres/2019/08/27/la-famille-entre-realite-et-frictions_1747690) au sujet de *Mon père, ce tueur*. Il me semble que c'était plus sournois, plus nuancé. Article de Frédérique où je découvre que nous sommes nombreux en cette rentrée à parler de nos familles pour le meilleur et pour le pire. Me voilà au chaud dans la catégorie : tragédie à la *Festen*.
 
 ---
 
@@ -118,7 +118,7 @@ Rien pour me booster du côté de mon livre, les journalistes n’en parlent pas
 
 ### Vendredi 30, Montpellier
 
-Après une [chronique stimulante de François Médéline](https://www.facebook.com/photo.php?fbid=2186627278133692&set=a.107601642702943&type=3&theater), je commence [*Le Seigneur des Porcheries*](https://www.amazon.fr/seigneur-porcheries-Tristan-Egolf/dp/2070414736/) de Tristan Egolf, qui attaque par une avalanche de mots comme souvent les Anglo-saxons savent en produire, c’est une sorte de tempête, ou plutôt de tornade avec le vent changeant sans cesse de direction, créant un magma qui peu à peu laisse place à des saveurs puissantes. François m’écrit au sujet de ce style magmatique : « Rabelais, Céline… savaient. » Exactement. J’aime cette grande famille des stylistes jubilatoires, tout en m’en tenant à distance respectueuse.
+Après une [chronique stimulante de François Médéline](https://www.facebook.com/photo.php?fbid=2186627278133692&set=a.107601642702943&type=3&theater), je commence [*Le Seigneur des Porcheries*](https://www.amazon.fr/seigneur-porcheries-Tristan-Egolf/dp/2070414736/) de Tristan Egolf, qui attaque par une avalanche de mots comme souvent les Anglo-saxons savent en produire, c’est une sorte de tempête, ou plutôt de tornade avec le vent changeant sans cesse de direction, créant un magma qui peu à peu laisse place à des saveurs puissantes. François m'écrit au sujet de ce style magmatique : « Rabelais, Céline… savaient. » Exactement. J'aime cette grande famille des stylistes jubilatoires, tout en m'en tenant à distance respectueuse.
 
 ### Vendredi 30, Balaruc
 
@@ -128,9 +128,9 @@ Je suis maintenant chez moi, face à moi-même, dans un espace beaucoup plus vas
 
 J’aime raconter ce qui m’arrive par le détail, avec juste assez de recul pour en rire, prendre le temps de la narration, j’ai au fil des années perfectionné cette technique qui me semble a trouvé sa forme avec mes récits de vélo. Je sens que je peux entraîner les lecteurs, les empoter où je veux, pourquoi ne pas employer ce pouvoir pour les entraîner plus loin dans l’univers et le temps ?
 
-![Retour à la maison](https://tcrouzet.com/images_tc/2019/09/IMG_6261.jpg)
+![Retour à la maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_6261-600x450.jpg)
 
-![De mon lit](https://tcrouzet.com/images_tc/2019/09/IMG_6275.jpg)
+![De mon lit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_6275-600x450.jpg)
 
 ### Samedi 31, Balaruc
 
@@ -156,7 +156,7 @@ Dans mes textes de jeunesse, j’ai voulu décrire ces paysages, à distance, am
 
 Depuis mon accident, j’ai passé beaucoup de temps sur les réseaux sociaux, trop de temps, à guetter des réactions, à répondre, à entretenir la conversation. Je vis une convalescence du XXI<sup>e</sup> siècle. Raconter cette convalescence implique de raconter des échanges, qui malheureusement se limitent toujours aux mêmes paroles bienveillantes.
 
-Je ne peux pas dire qu’elles ne me font pas du bien, mais il leur manque une forme de transcendance. Je n’ai eu qu’un commentaire négatif. Un inconnu me disant que je suis inconscient de faire du VTT à mon âge. Parce que je devrais rester reclus chez moi ? J’aurais pu tomber en allant acheter le pain à vélo. Je suis tombé à VTT, mais alors que j’étais sur un chemin ordinaire, un chemin sans difficulté, où j’ai entraîné mes enfants alors qu’ils n’avaient que six ans. J’ai demandé à l’inconnu s’il avait une voiture. Il m’a répondu que oui. Moi : « Voilà la véritable inconscience. » Il n’a même pas compris ce que je voulais dire. Pas davantage de transcendance dans cet échange. Au contraire, le net nous en éloigne trop souvent, il en nie même la possibilité.
+Je ne peux pas dire qu’elles ne me font pas du bien, mais il leur manque une forme de transcendance. Je n’ai eu qu’un commentaire négatif. Un inconnu me disant que je suis inconscient de faire du VTT à mon âge. Parce que je devrais rester reclus chez moi ? J’aurais pu tomber en allant acheter le pain à vélo. Je suis tombé à VTT, mais alors que j’étais sur un chemin ordinaire, un chemin sans difficulté, où j'ai entraîné mes enfants alors qu'ils n'avaient que six ans. J’ai demandé à l’inconnu s’il avait une voiture. Il m’a répondu que oui. Moi : « Voilà la véritable inconscience. » Il n’a même pas compris ce que je voulais dire. Pas davantage de transcendance dans cet échange. Au contraire, le net nous en éloigne trop souvent, il en nie même la possibilité.
 
 Alors j’avale une bouffée de brise marine, avant qu’il ne fasse trop chaud et que je sois obligé d’abaisser les stores. Je baigne dans l’étang par la pensée, je vole dans les feuillages du jardin, je bouge par la magie des mots.
 
@@ -180,4 +180,8 @@ J’ai envie de douceur, comme le soleil de ce soir sur le silence d’un samedi
 
 Les auteurs noirs, mes contemporains, doivent être essentialistes. Ils dénoncent, ils montrent, comme s’ils trouvaient le gâchis injuste et priaient une quelconque divinité de leur venir en aide. Je ne vois de solution que dans l’art lui-même. Lire des textes scientifiques me donne davantage la pêche que lire la littérature contemporaine. Même si ces textes dénoncent la crise climatique, tout de suite après ils évoquent des solutions possibles, des idées folles qui m’emportent à l’autre bout de la galaxie.
 
-![Il y a pire comme chambre](https://tcrouzet.com/images_tc/2019/09/IMG_6279.jpg)
+![Il y a pire comme chambre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/09/IMG_6279-600x150.jpg)
+
+
+
+Tags: Carnets, une

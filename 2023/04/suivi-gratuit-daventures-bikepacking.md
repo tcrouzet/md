@@ -29,3 +29,5 @@ Il serait toutefois assez simple d’ajouter un mode course à Geogram. Il suffi
 Mais pour ma part, je vais lever le pied sur cette affaire. Il faudrait désormais transformer mon code en projet open source et le publier sur GitHub, pour que quelques développeurs puissent le faire vivre. Par exemple, il serait possible de créer un client Telegram sur mesure, qui travaillerait en tâche de fond et publierait toutes les heures la série des géolocalisations mémorisées. Ce serait une autre façon d’avoir du temps réel rétroactif, sans pour autant grever la batterie de nos mobiles.
 
 Sur le 727, nous avons été nombreux à jouer le jeu, à nous retrouver grâce à Geogram lorsque nous nous étions perdus de vue et à vivre l’aventure avec tous ceux qui étaient sur la trace, que ce soit devant ou derrière nous. J’ai aimé l’expérience, qui ne nécessite que quelques secondes au cours de la journée. Nos proches étaient rassurés. Et je crois qu’ils se sont pris au jeu de nous suivre, surtout quand nous avons publié de belles photos.
+
+Tags: Born to Bike, une

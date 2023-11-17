@@ -44,15 +44,15 @@ Un politicien, et même un ingénieur, formé dans la logique cartésienne ne co
 
 6. La transition énergétique n’est possible que comprise dans une transition plus grande parce que ce n’est pas qu’une transition technologique. Les trois mots clés de Négawatt, sobriété, efficacité, renouvelable, disent bien le problème… On ne peut pas faire l’économie d’un changement de mode de vie.
 
-7. Ce changement n’est pas juste nécessaire à cause des prévisions du GIEC. L’économie ne tourne plus rond, la politique internationale, les consciences… Nous devons transiter vers une nouvelle époque, une époque de complexité exponentielle (parce que cette époque est déjà là et qu’on ne veut pas la voir en usant avec elle de méthodes d’un autre temps). Nous réglerons les problèmes énergétiques avec les autres problèmes complexes auxquels nous sommes confrontés.
+7. Ce changement n’est pas juste nécessaire à cause des prévisions du GIEC. L’économie ne tourne plus rond, la politique internationale, les consciences… Nous devons transiter vers une nouvelle époque, une époque de complexité exponentielle (parce que cette époque est déjà là et qu'on ne veut pas la voir en usant avec elle de méthodes d'un autre temps). Nous réglerons les problèmes énergétiques avec les autres problèmes complexes auxquels nous sommes confrontés.
 
 Le droit à l’expérimentation serait un facteur de fluidification au moins aussi capital que les nouvelles technologies. Du haut de sa différence, chaque individu pourrait envisager sa solution jusqu’à ce que le bon fil soit tiré qui entraînerait chacun de nous dans un changement global.
 
-Cette approche « darwinienne » peut sembler lente. Elle a pourtant été appliquée pour construire internet et le propager à la planète en un temps record. La coercition peut bien sûr être plus rapide, mais il faut accepter une fois pour toutes qu’elle n’est pas le chemin le plus adéquat pour entretenir la transition dont nous avons besoin (le top n’aura jamais la solution à nos problèmes, à moins de procéder à une vaste simplification par la guerre).
+Cette approche « darwinienne » peut sembler lente. Elle a pourtant été appliquée pour construire internet et le propager à la planète en un temps record. La coercition peut bien sûr être plus rapide, mais il faut accepter une fois pour toutes qu’elle n’est pas le chemin le plus adéquat pour entretenir la transition dont nous avons besoin (le top n'aura jamais la solution à nos problèmes, à moins de procéder à une vaste simplification par la guerre).
 
 Plus qu’une incentive politique, il nous manque des signaux qui favoriseraient notre prise de conscience. À multiples reprises, nous avons évoqué la nécessité des feed-backs. Si je ne sais pas à quelle vitesse je roule, je ne peux pas respecter les limitations. Pour vivre plus sobrement, nous devons disposer de compteurs de consommation. Ils arrivent, mais il reste encore un travail immense de ce côté.
 
-Au cours de nos échanges, j’ai adapté [la méthode suivie par Didier Pittet pour introduire dans les hôpitaux la solution hydro-alcoolique à la place du savon](https://tcrouzet.com/le-geste-qui-sauve/) et faire changer les comportements.
+Au cours de nos échanges, j’ai adapté [la méthode suivie par Didier Pittet pour introduire dans les hôpitaux la solution hydro-alcoolique à la place du savon](http://blog.tcrouzet.com/le-geste-qui-sauve/) et faire changer les comportements.
 
 1. Mise à disposition des nouvelles solutions (énergies renouvelables + sobriété + efficacité à la place des énergies fossiles). Elles restent mal connues, mal vendues, mal acceptées (les éoliennes que nous ne voulons pas près de chez nous, comme nous l’a martelé [Paul Neau](https://twitter.com/PaulNeau)).
 
@@ -80,4 +80,8 @@ Mais comme nous ne pouvons pas prévoir, reste à expérimenter, que la loi le v
 
 Lors de nos trois jours mézois, nous n’avons effectué aucune découverte fondamentale, juste fait un pas de côté, chacun hors de nos spécialités. La solution est peut-être là, dans l’entre d’eux, dans un haut degré de compétences techniques et aussi un haut degré d’interconnexion entre les individus, spécialistes ou non.
 
-![Un bel endroit pour refaire le monde.](https://tcrouzet.com/images_tc/2014/07/meze.jpg)
+![Un bel endroit pour refaire le monde.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/meze.jpg)
+
+
+
+Tags: Politique, une

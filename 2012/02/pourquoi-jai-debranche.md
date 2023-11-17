@@ -1,6 +1,6 @@
 # Pourquoi j’ai écrit J’ai débranché
 
-Pour moi un livre n’est jamais terminé. Depuis quelques jours, je prépare une nouvelle version de [*L’alternative nomade*](https://tcrouzet.com/alternative-nomade/) et j’ajoute des chapitres imaginaires à [*J’ai débranché*](https://tcrouzet.com/jai-debranche/). Exemple. Nous sommes en mars 2011.<span id="more-23086"></span>
+Pour moi un livre n’est jamais terminé. Depuis quelques jours, je prépare une nouvelle version de [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) et j’ajoute des chapitres imaginaires à [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/). Exemple. Nous sommes en mars 2011.<span id="more-23086"></span>
 
 ---
 
@@ -42,4 +42,6 @@ Isa me regarde, atterrée.
 
 — Tu vas avoir du boulot pour m’en persuader.
 
-*PS : Ce chapitre est aussi une sorte de réponse à ceux qui me reprochent d’avoir trop parlé de moi ou de ne pas avoir avancé de nouvelles idées, ce n’était pas le but (j’ai coupé près de 100 pages trop théoriques et qui ne s’inscrivaient pas dans le projet).*
+*PS : Ce chapitre est aussi une sorte de réponse à ceux qui me reprochent d'avoir trop parlé de moi ou de ne pas avoir avancé de nouvelles idées, ce n'était pas le but (j'ai coupé près de 100 pages trop théoriques et qui ne s'inscrivaient pas dans le projet).*
+
+Tags: J'ai débranché, NetCulture, une

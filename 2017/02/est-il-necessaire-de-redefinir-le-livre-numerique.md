@@ -1,6 +1,6 @@
 # Est-il nécessaire de redéfinir le livre numérique ?
 
-Nous sommes bien obligés de l’admettre, le livre numérique n’a pas encore conquis les foules, parce que les éditeurs traditionnels lui ont souvent barré le chemin avec des prix prohibitifs et des DRM, parce que les appareils de lectures restent inconfortables, parce [bien des avantages du livre papier n’ont pas été intégrés](https://tcrouzet.com/2016/11/28/10-raisons-daimer-les-livres-et-moins-le-web/)… Cette liste pourrait s’étendre longuement.<span id="more-44860"></span>
+Nous sommes bien obligés de l’admettre, le livre numérique n’a pas encore conquis les foules, parce que les éditeurs traditionnels lui ont souvent barré le chemin avec des prix prohibitifs et des DRM, parce que les appareils de lectures restent inconfortables, parce [bien des avantages du livre papier n’ont pas été intégrés](http://tcrouzet.com/2016/11/28/10-raisons-daimer-les-livres-et-moins-le-web/)… Cette liste pourrait s’étendre longuement.<span id="more-44860"></span>
 
 Pourquoi encore parler de livre ? L’information s’est fluidifiée, elle déborde les contenants, et le livre paraît à ce regard bien désuet, à moins de le repenser, de le redéfinir, peut-être pour le renouveler et le différencier des autres formes de diffusion.
 
@@ -24,7 +24,7 @@ Un livre numérique serait donc un **contenant**, c’est-à-dire un fichier, un
 
 Le plus difficile reste à déterminer un ensemble de qualités. Chaque éditeur peut s’engager sur certaines, pas sur d’autres. Voici celles qui me paraissent importantes :
 
-1. **Autonomie** Le fichier a besoin d’énergie et d’un code pour être lu, mais n’exige aucune connexion (ainsi un roman lu sur le Web ne serait pas considéré comme un livre électronique).
+1. **Autonomie** Le fichier a besoin d'énergie et d’un code pour être lu, mais n’exige aucune connexion (ainsi un roman lu sur le Web ne serait pas considéré comme un livre électronique).
 
 2. **Respect** Le fichier ne contient aucun code pour récupérer des informations au sujet du lecteur (et, idéalement, il devrait refuser de tourner sur des systèmes ne respectant pas cette règle).
 
@@ -48,4 +48,6 @@ Maintenant, on ne doit pas trop perdre de temps avec ces questions. Peu de gens 
 
 Il est certain que s’il existait un engouement pour la lecture numérique de livres nous autres auteurs explorerions les possibilités de la forme avec plus d’entrain, et ferions exploser plus franchement le format ePub, qui n’est autre qu’une façon d’encapsuler le Web.
 
-Je commence à réfléchir à ces questions avec mon projet de [Géolecture](https://tcrouzet.com/2016/11/08/des-livres-a-lire-sur-le-territoire/), tout en rêvant d’une version non linéaire de [One Minute](https://tcrouzet.com/une-minute/). Le véritable livre numérique ne pourra être qu’applicatif. Encapsuler des bouts de Web, ne nous amènera pas loin. Peut-être devrions-nous réserver l’appellation de livre électronique à des livres impossibles sur papier ou en ePub. Alors, autant dire que l’âge du livre électronique n’a pas encore commencé. Nous sommes depuis le début que dans l’homothétique, tout au plus mitonné de quelques liens et capsules audio ou vidéo.
+Je commence à réfléchir à ces questions avec mon projet de [Géolecture](http://tcrouzet.com/2016/11/08/des-livres-a-lire-sur-le-territoire/), tout en rêvant d’une version non linéaire de [One Minute](http://tcrouzet.com/une-minute/). Le véritable livre numérique ne pourra être qu’applicatif. Encapsuler des bouts de Web, ne nous amènera pas loin. Peut-être devrions-nous réserver l’appellation de livre électronique à des livres impossibles sur papier ou en ePub. Alors, autant dire que l’âge du livre électronique n’a pas encore commencé. Nous sommes depuis le début que dans l'homothétique, tout au plus mitonné de quelques liens et capsules audio ou vidéo.
+
+Tags: édition, une

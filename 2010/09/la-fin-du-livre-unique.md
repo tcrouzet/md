@@ -30,4 +30,6 @@ Alors on sommeille, on attend la mort du papier. C’est ce qui condamne sans do
 6. Pour sauver les libraires, on a sacrifié les auteurs et les éditeurs. Est-ce logique ?
 7. L’éditeur doit s’occuper du contenu, pas du contenant. Il existe dorénavant trop de possibilités formelles. C’est aux distributeurs de packager. L’éditeur doit éditer et propulser.
 
- *PS : Billet qui fait suite à [quelques échanges avec Nicolas Ancion](https://tcrouzet.com/2010/09/04/renverser-economie-du-livre/#comment-80767).*
+ *PS : Billet qui fait suite à [quelques échanges avec Nicolas Ancion](http://blog.tcrouzet.com/2010/09/04/renverser-economie-du-livre/#comment-80767).*
+
+Tags: NetLittérature, Prix unique du livre, une

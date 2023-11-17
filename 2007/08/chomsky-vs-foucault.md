@@ -1,9 +1,8 @@
 # Chomsky vs Foucault
 
-<div class="iframe" id="iframe0"></div>
-Parfois je me sens plus Américain que Français. Foucault ne me parle pas. Lors de son [entretien avec Chomsky en 1971](http://lespacearcencielblog.free.fr/?p=534), il dit qu’il faut comprendre et critiquer avant d’agir. Il nie ainsi l’évolution. A-t-elle compris avant d’agir ? Non et nous ne fonctionnons pas différemment d’elle. Elle nous a engendrés d’ailleurs, plaçant en nous ce qui était en elle, faisant de nous des machines évolutives plus performantes.
+Parfois je me sens plus Américain que Français. Foucault ne me parle pas. Lors de son [entretien avec Chomsky en 1971](http://lespacearcencielblog.free.fr/?p=534), il dit qu’il faut comprendre et critiquer avant d’agir. Il nie ainsi l’évolution. A-t-elle compris avant d’agir ? Non et nous ne fonctionnons pas différemment d’elle. Elle nous a engendrés d'ailleurs, plaçant en nous ce qui était en elle, faisant de nous des machines évolutives plus performantes.
 
-![Par Pacco](https://tcrouzet.com/images_tc/20070824pacco.jpg)
+![Par Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070824pacco.jpg)
 
 Chomsky, lui, propose une solution. Elle n’est pas unique comme le dit Foucault, elle est une des solutions possibles… l’hyper-décentralisation associée à la responsabilisation.
 
@@ -16,3 +15,5 @@ Nous vivons dans un monde incertain, dit Chomsky. Cessez à tout prix de vouloir
 Oui, Foucault est très Français. Chomsky, très Anglo-saxon. D’un côté, on a « je suis donc je pense » de l’autre « I do therefore I am ».
 
 *PS : En parlant de lutte des classes, Foucault donne l’impression d’être daté. Chomsky, à mon sens, traversera mieux le temps.*
+
+Tags: Politique

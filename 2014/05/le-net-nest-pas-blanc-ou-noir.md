@@ -10,4 +10,8 @@ On ne peut être en même temps pour la transparence et pour la confidentialité
 
 Deleuze reformule ainsi [le théorème d’incomplétude de Gödel](http://fr.wikipedia.org/wiki/Th%C3%A9or%C3%A8mes_d'incompl%C3%A9tude_de_G%C3%B6del). Le Net nous fait entrer dans une zone de turbulence logique, une zone d’incomplétude généralisée. Tout jugement pose problème. Il n’existe plus de petit livre rouge pour se décider. Il faut tout remettre à plat à chaque crise.
 
-![Esso Black & White par Beadmobile.](https://tcrouzet.com/images_tc/2014/05/esso-scaled.jpg)
+![Esso Black & White par Beadmobile.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/esso-600x595.jpg)
+
+
+
+Tags: NetCulture, une

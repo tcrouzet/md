@@ -32,3 +32,5 @@ Le code est central à notre temps.
 Même quand nous produisons un texte linéaire, nous passons par le code.
 
 Écrire des livres, composer des symphonies, réaliser des films, programmer des jeux vidéo, il faut choisir.
+
+Tags: eBook, édition, NetLittérature, une

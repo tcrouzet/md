@@ -215,3 +215,5 @@ J’ai souvent cherché à le lire, par connivence de lumière, lui ayant accept
 Finalement, j’ai toujours été plus libre que lui, et peu importe notre postérité, puisque nous ne connaissons la vie qu’à travers le grand vent du large. Mais bon, à l’approche de la soixantaine, j’aimerais être autant adulé que Valéry, et au lieu de m’approcher de la gloire je ne cesse toujours plus de m’en éloigner, comme si ce qui était nécessaire pour briller dans l’époque me répugnait. Ma place est sous le grand ciel délavé du Midi par grand mistral comme aujourd’hui.
 
 ![Soir](https://tcrouzet.com/images_tc/2023/03/IMG_1255.jpeg)
+
+Tags: Carnets, une

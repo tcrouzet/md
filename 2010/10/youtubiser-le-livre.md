@@ -19,3 +19,5 @@ Nombre de blogueurs ont été tentés de créer des macarons pour certifier la q
 Le niveau moyen de la production littéraire a fabriqué un lecteur moyen qui aime être pris par la main et qui a peur de se perdre dans un texte. Il ne cherche souvent plus qu’à se divertir. Il répugne à se confronter aux idées qui se développent à travers de longs méandres, qui divergent puis foisonnent, et qui, au passage, ont une chance d’altérer leur configuration cérébrale. Lire ne les change jamais. Ils ne recherchent que l’évasion. [Pour ma part, je ne lis que pour me changer.](http://www.livrelle.com/2010/08/31/portrait-thierry-crouzet/) Je suis prêt à tomber sur des merdes pour avoir une chance de connaître l’illumination.
 
 Je ne suis pas contre les éditeurs, bien au contraire, mais ils doivent amener un auteur à se surpasser, non pas le canaliser pour le conformer à un état arbitrairement défini du marché.
+
+Tags: édition, noepub, une

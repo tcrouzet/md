@@ -4,7 +4,7 @@ Ne pas écrire, c’est ne pas vivre. Du moins pour un écrivain tel que je le c
 
 J’écris pour sentir le monde, pour me sentir dans le monde, pour m’amplifier et amplifier mes perceptions, donc pour jouir. L’écriture est pour moi comme le télescope pour l’astronome, comme le microscope pour le biologiste ou le chimiste, comme l’accélérateur de particules pour le physicien. Elle m’aide à voir, à sonder, à respirer, à aimer, même les gens, oui, même les gens.
 
-L’astronome n’est pas célébré, encore moins payé, pour son télescope, mais pour ce qu’il réussit à voir avec lui (on peut discuter ce point). Il va de même pour l’écrivain. Ses mots, leur poids, leur quantité, leur volume n’ont aucune importance, et même leur forme, leur style, leur couleur, seul compte ce qu’ils permettent de pêcher dans l’infinité des possibles, de ramener dans la lumière du laboratoire, pour préparer les observations futures et en déduire des théories sur la nature de l’univers. Bien sûr, la pêche est d’autant meilleure que l’instrument est adapté aux poissons pourchassés, mais parfois, c’est plus compliqué, parce que des monstres des abysses surgissent, auxquels rien ne nous a préparés. Mais un pêcheur qui ne prend rien n’est pas un professionnel, et même pas un amateur. Reste qu’il est tout de même un pêcheur, et peut-être le plus admirable qui soit.
+L’astronome n’est pas célébré, encore moins payé, pour son télescope, mais pour ce qu’il réussit à voir avec lui (on peut discuter ce point). Il va de même pour l’écrivain. Ses mots, leur poids, leur quantité, leur volume n’ont aucune importance, et même leur forme, leur style, leur couleur, seul compte ce qu’ils permettent de pêcher dans l’infinité des possibles, de ramener dans la lumière du laboratoire, pour préparer les observations futures et en déduire des théories sur la nature de l’univers. Bien sûr, la pêche est d’autant meilleure que l’instrument est adapté aux poissons pourchassés, mais parfois, c’est plus compliqué, parce que des monstres des abysses surgissent, auxquels rien ne nous a préparés. Mais un pêcheur qui ne prend rien n'est pas un professionnel, et même pas un amateur. Reste qu'il est tout de même un pêcheur, et peut-être le plus admirable qui soit.
 
 On me traite parfois d’autiste parce que j’ai besoin de cette abstraction qu’est l’écriture pour me concrétiser, pour me matérialiser, pour être avec les autres. Ce n’est un défaut que parce que la plupart de mes critiques ne font pas comme moi. Je souffre d’une folie de la différence. L’écriture est devenue ma méthode pour être au monde. Si un jour je n’écris pas, je ne me sens pas bien, je suis en manque de communion, en manque de fraternité, en manque de puissance, en sous-existence.
 
@@ -26,4 +26,6 @@ J’ai toujours détesté les revendications corporatistes parce qu’elles sont
 
 En attendant, en tant qu’écrivain, je n’ai aucun droit et une seule nécessité : écrire tous les jours, que ça rapporte ou non, que ça plaise ou non, que ça dérange ou pas. J’écris parce que je respire, j’écris parce que je suis.
 
-*PS : Reste que je déteste me faire entuber, et ça c’est vrai pour tout, pas seulement quand je cherche à vendre mes textes.*
+*PS : Reste que je déteste me faire entuber, et ça c'est vrai pour tout, pas seulement quand je cherche à vendre mes textes.*
+
+Tags: édition, une

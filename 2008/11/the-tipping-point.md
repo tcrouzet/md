@@ -1,6 +1,6 @@
 # The tipping point
 
-Suite à [mon commentaire](https://tcrouzet.com/2008/11/17/we-must-think-big/) et à un petit mail que je lui ai envoyé, Susan George m’écrit :
+Suite à [mon commentaire](http://blog.tcrouzet.com/2008/11/17/we-must-think-big/) et à un petit mail que je lui ai envoyé, Susan George m’écrit :
 
 > Je crois avoir été bien précise – je n’ai strictement rien contre les initiatives petites et perso qui se lient ou qui ne se lient pas. Mais elles ne seront pas assez nombreuses assez vite. Toute la question est de savoir si tu crois vraiment à l’urgence ou pas. [Voir le film de Leo.](http://www.wakeupfreakout.org)
 
@@ -12,7 +12,7 @@ Pire, si on lui demande de régler le problème que son mécanisme engendre, il 
 
 Un virus peut aller très vite.
 
-Nous devons trouver une solution virale à la crise contemporaine. Ce n’est pas une crise qui se joue en un centre particulier mais partout à la fois. Une médication par le centre n’a aucun sens. Composer avec le système actuel n’a aucun sens.
+Nous devons trouver une solution virale à la crise contemporaine. Ce n’est pas une crise qui se joue en un centre particulier mais partout à la fois. Une médication par le centre n’a aucun sens. Composer avec le système actuel n'a aucun sens.
 
 Dans un système complexe, rien ne peut aller plus vite qu’un virus.
 
@@ -46,7 +46,7 @@ Je n’aime pas les solutions qui passent par le centre car elles ne passent pas
 
 Il faut un virus radical.
 
-— Non j’accepte plus ça, doivent dire tous les hommes, tous les employés de Total ou Monsanto, tous les ministres et tous leurs délégués.
+— Non j’accepte plus ça, doivent dire tous les hommes, tous les employés de Total ou Monsanto, tous les ministres et tous leurs délégués.
 
 On se moque de pour qui ils travaillent et pourquoi ils travaillent. On veut les entendre eux. Qu’ils arrêtent de se cacher.
 

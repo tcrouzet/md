@@ -11,3 +11,5 @@ Si vous voulez écrire une définition sur wikipedia, vous ne pouvez pas vous co
 Pour moi, le cinquième pouvoir ne peut advenir que grâce aux nouveaux outils de collaboration massive. Nous ne sommes qu’au début de cette aventure.
 
 Certains critiques affirment que les hommes n’ont pas changé, donc qu’ils ne changeront jamais. L’homme n’a peut-être pas changé, mais les outils à sa disposition oui. Ça fait toute la différence. Génétiquement l’homo sapiens-sapiens n’a pas beaucoup évolué depuis 150 000 ans et pourtant il ne vit plus comme avant. Il y a 2500 ans en Grèce, il inventa la démocratie. Aujourd’hui, il dispose des outils pour inventer la démocratie 2.0. Ça change tout.
+
+Tags: Politique

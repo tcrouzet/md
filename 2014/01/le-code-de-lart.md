@@ -6,12 +6,10 @@ Florian a braqué une caméra sur moi, il a envoyé l’image sur l’écran, l�
 
 Depuis des années, depuis toujours presque, je radote en disant que l’artiste contemporain doit être codeur, sinon rien. C’est fait. J’étais presque jaloux de les voir traduire leur inspiration en [Python](http://www.python.org/). Un « If Then Else » transformé en lumière et en musique.
 
-Je me sens con derrière mes textes. Je les produis et les diffuse avec la technologie. Je suis dans le *[Send](https://tcrouzet.com/tag/send/)*, mais les textes eux-mêmes ne sont pas code, ils ne diffèrent en rien des textes plus anciens. Avec [IHL](http://ihl.tcrouzet.com/) par exemple, j’ai expérimenté, sans me convaincre moi-même. Le texte reste attaché au temps long. Contrairement à la lumière et aux sons, il ne jaillit pas en nous d’un bloc. Il s’écoule mot à mot, sur un rythme lent, prétechnologique. Nous ne savons pas encore écrire du code qui génère du texte émotionnellement fort.
+Je me sens con derrière mes textes. Je les produis et les diffuse avec la technologie. Je suis dans le *[Send](http://blog.tcrouzet.com/tag/send/)*, mais les textes eux-mêmes ne sont pas code, ils ne diffèrent en rien des textes plus anciens. Avec [IHL](http://ihl.tcrouzet.com/) par exemple, j’ai expérimenté, sans me convaincre moi-même. Le texte reste attaché au temps long. Contrairement à la lumière et aux sons, il ne jaillit pas en nous d’un bloc. Il s’écoule mot à mot, sur un rythme lent, prétechnologique. Nous ne savons pas encore écrire du code qui génère du texte émotionnellement fort.
 
-J’ai vu des animations de haïkus, de mots abandonnés au hasard, rien avec du lourd, de l’immersif. Le texte n’est alors qu’accessoire, publicitaire. Je ne dis pas que c’est impossible de faire autrement, je doute… en attendant que les IA nous succèdent.
+J’ai vu des animations de haïkus, de mots abandonnés au hasard, rien avec du lourd, de l’immersif. Le texte n’est alors qu’accessoire, publicitaire. Je ne dis pas que c’est impossible de faire autrement, je doute... en attendant que les IA nous succèdent.
 
 Le texte entre par le cerveau et non par les pores de la peau. Et voilà peut-être pourquoi il ne se prête pas à l’interaction. Alors que Florian et Éric promènent partout dans le monde leurs installations, nous continuons à publier des livres, voire des blogs, avec des textes comme au bon vieux temps. Sommes-nous ringards ? Ou bloqués au pied d’une barrière infranchissable ?
 
-<div class="iframe" id="iframe6"></div>
-<div class="iframe" id="iframe7"></div>
-<div class="iframe" id="iframe8"></div>
+Tags: NetCulture, NetLittérature, une

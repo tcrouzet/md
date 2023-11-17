@@ -1,26 +1,26 @@
 # La fin de l’artisanat numérique
 
-Le Net a été pensé comme un réseau décentralisé. Pas de gouvernement, pas de hiérarchie, pas de privilège géographique. Selon une idéologie encore en vogue chez les entrepreneurs millionnaires, cette structure physique ne pouvait qu’impliquer une révolution sociale. Le Net ne devait pas moins que sauver l’humanité de ses pires maux. Plus libres que jamais, nous devions échapper au modèle coercitif propre à l’hyper-capitalisme, notamment en ce qui concerne le business. L’expérience nous prouve le contraire.<span id="more-37292"></span>
+Le Net a été pensé comme un réseau décentralisé. Pas de gouvernement, pas de hiérarchie, pas de privilège géographique. Selon une idéologie encore en vogue chez les entrepreneurs millionnaires, cette structure physique ne pouvait qu'impliquer une révolution sociale. Le Net ne devait pas moins que sauver l'humanité de ses pires maux. Plus libres que jamais, nous devions échapper au modèle coercitif propre à l'hyper-capitalisme, notamment en ce qui concerne le business. L'expérience nous prouve le contraire.<span id="more-37292"></span>
 
-Prenons un des plus vieux métiers du monde : l’hôtellerie familiale. Avant le Web, pour réserver vos vacances ou organiser un trajet professionnel, vous achetiez un guide, repériez la bonne adresse, téléphoniez pour réserver. Cette opération s’effectuait sans intermédiaire ou avec l’aide d’une agence de voyages locale. L’hôtelier était un artisan indépendant, libre de pratiquer les prix qui lui semblaient adéquats.
+Prenons un des plus vieux métiers du monde : l'hôtellerie familiale. Avant le Web, pour réserver vos vacances ou organiser un trajet professionnel, vous achetiez un guide, repériez la bonne adresse, téléphoniez pour réserver. Cette opération s'effectuait sans intermédiaire ou avec l’aide d’une agence de voyages locale. L'hôtelier était un artisan indépendant, libre de pratiquer les prix qui lui semblaient adéquats.
 
-Aujourd’hui, presque plus personne n’ouvre un guide de voyage avant de réserver un hôtel. Nous allons sur Google, nous saisissons une requête du type « Hôtel Sicile ». Nous tombons presque systématiquement sur les offres des centrales de réservation : Expedia, Booking, Tripadvisor… Parfois une chaîne hôtelière glisse son nom dans ce gotha. Quand j’effectue l’expérience, je ne découvre un premier hôtel indépendant qu’en toute fin de la seconde page de résultat. Par la suite, d’autres indépendants apparaissent tout aussi parcimonieusement.
+Aujourd'hui, presque plus personne n'ouvre un guide de voyage avant de réserver un hôtel. Nous allons sur Google, nous saisissons une requête du type « Hôtel Sicile ». Nous tombons presque systématiquement sur les offres des centrales de réservation : Expedia, Booking, Tripadvisor… Parfois une chaîne hôtelière glisse son nom dans ce gotha. Quand j’effectue l’expérience, je ne découvre un premier hôtel indépendant qu’en toute fin de la seconde page de résultat. Par la suite, d’autres indépendants apparaissent tout aussi parcimonieusement.
 
 > Moralité : Google ne nous aide pas à trouver des hôtels mais des services qui eux-mêmes nous aideront à trouver des hôtels.
 
-Vous voyez apparaître une première couche hiérarchique entre vous et le lieu de vos vacances. Une seconde couche, en fait, car Google est bel et bien le sommet de la pyramide. [Contrairement à la prédiction de Thomas Friedman](http://en.wikipedia.org/wiki/The_World_Is_Flat), le monde n’est pas en train de s’aplatir.
+Vous voyez apparaître une première couche hiérarchique entre vous et le lieu de vos vacances. Une seconde couche, en fait, car Google est bel et bien le sommet de la pyramide. [Contrairement à la prédiction de Thomas Friedman](http://en.wikipedia.org/wiki/The_World_Is_Flat), le monde n'est pas en train de s'aplatir.
 
-Les artisans que sont les hôteliers ont été enterrés, repoussés très bas dans les multiples strates de la société de l’information. Ils n’ont pas la puissance marketing pour placer leurs sites devant ceux des centrales, encore moins devant Google en faisant de la saisie de leur nom de domaine un réflexe.
+Les artisans que sont les hôteliers ont été enterrés, repoussés très bas dans les multiples strates de la société de l'information. Ils n'ont pas la puissance marketing pour placer leurs sites devant ceux des centrales, encore moins devant Google en faisant de la saisie de leur nom de domaine un réflexe.
 
-Pour les hôteliers, la promesse d’une société plus transversale n’a été qu’un leurre. Aujourd’hui, s’ils veulent remplir leurs chambres, ils doivent s’affilier à des centrales de réservation et leur concéder [jusqu’à 30 % de royalties](http://www.francebleu.fr/infos/hotellerie/les-centrales-de-reservations-en-ligne-squattent-les-hotels-704466). Refuser ce racket revient pour eux à fermer boutique, d’autant que les centrales interdisent aux hôteliers de vendre en direct à un prix inférieur du leur.
+Pour les hôteliers, la promesse d'une société plus transversale n'a été qu'un leurre. Aujourd'hui, s'ils veulent remplir leurs chambres, ils doivent s'affilier à des centrales de réservation et leur concéder [jusqu'à 30 % de royalties](http://www.francebleu.fr/infos/hotellerie/les-centrales-de-reservations-en-ligne-squattent-les-hotels-704466). Refuser ce racket revient pour eux à fermer boutique, d'autant que les centrales interdisent aux hôteliers de vendre en direct à un prix inférieur du leur.
 
 ### L’utilisateur est-il vraiment gagnant ?
 
-Plutôt que se placer dans le camp de l’hôtelier, on peut se placer dans celui du voyageur. Grâce aux centrales en ligne, nous pouvons comparer les offres, choisir celles qui nous conviennent le mieux, tout en lisant les commentaires des voyageurs qui nous ont précédés. En plus d’être mieux informés, nous bénéficions d’un système de paiement sécurisé. Nous avons tout à y gagner.
+Plutôt que se placer dans le camp de l'hôtelier, on peut se placer dans celui du voyageur. Grâce aux centrales en ligne, nous pouvons comparer les offres, choisir celles qui nous conviennent le mieux, tout en lisant les commentaires des voyageurs qui nous ont précédés. En plus d'être mieux informés, nous bénéficions d'un système de paiement sécurisé. Nous avons tout à y gagner.
 
-C’est un raisonnement un peu hâtif. En dévorant la marge des hôteliers, les centrales en ligne érodent la qualité des prestations. Sous prétexte de nous servir, elles nous desservent par leur voracité. Et puis, un jour ou l’autre, nous nous retrouvons dans la peau d’un hôtelier. Vous voulez vendre votre voiture, vous passerez par une centrale de petites annonces. Vos enfants grandissent, vous voulez échanger leurs skis, vous passerez par une centrale de troc. Vendre un bien, en acheter, chercher du travail, en offrir, trouver l’âme sœur, tout est devenu prétexte à la création de centrales, aussi appelées plateformes.
+C'est un raisonnement un peu hâtif. En dévorant la marge des hôteliers, les centrales en ligne érodent la qualité des prestations. Sous prétexte de nous servir, elles nous desservent par leur voracité. Et puis, un jour ou l’autre, nous nous retrouvons dans la peau d'un hôtelier. Vous voulez vendre votre voiture, vous passerez par une centrale de petites annonces. Vos enfants grandissent, vous voulez échanger leurs skis, vous passerez par une centrale de troc. Vendre un bien, en acheter, chercher du travail, en offrir, trouver l'âme sœur, tout est devenu prétexte à la création de centrales, aussi appelées plateformes.
 
-Le Net qui devait nous mettre en contact direct les uns avec les autres, selon la philosophie du P2P – pair à pair –, ne réussit à le faire qu’à travers de gigantesques intermédiaires qui ponctionnent nos échanges (et qui de fait les contrôlent, les orientent, les écoutent).
+Le Net qui devait nous mettre en contact direct les uns avec les autres, selon la philosophie du P2P – pair à pair –, ne réussit à le faire qu'à travers de gigantesques intermédiaires qui ponctionnent nos échanges (et qui de fait les contrôlent, les orientent, les écoutent).
 
 ### La « plateformisation » du Web
 
@@ -102,4 +102,8 @@ Selon cette perspective historique, un acteur économique a trois possibilités.
 
 *PS : J’ai écrit cet article en novembre 2013 pour [le numéro 115](http://issuu.com/spg_/docs/information_immobiliere115/1?e=2781964/9261142) de la revue [*L’information Immobilière*](http://www.spg.ch/publications/la-revue-linformation-immobiliere) qui vient d’être distribué.*
 
-![N° 115 de L'information Immobilière.](https://tcrouzet.com/images_tc/2014/09/revue.jpg)
+![N° 115 de L'information Immobilière.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/revue-600x354.jpg)
+
+
+
+Tags: Facebook, google, NetCulture, une, winner-take-all

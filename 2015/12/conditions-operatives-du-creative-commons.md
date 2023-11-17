@@ -14,13 +14,13 @@ Alors, à quelles conditions ça marche le CC. Il me semble qu’il faut la réu
 
 3. Un promoteur avec une forte influence dans la communauté.
 
-Si je n’avais pas eu du temps, je ne me serais pas lancé dans [*Le geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/), pas plus que je ne me serais payé les billets de train pour aller rencontrer et interviewer Didier Pittet à Genève. Ce livre ne pouvait qu’être bien accueilli par la communauté médicale dans laquelle Didier a une extraordinaire popularité et influence. Sur ce terreau transnational, le CC a un effet fantastique, [il accélère la diffusion et les traductions](https://tcrouzet.com/2015/11/24/le-pouvoir-du-creative-commons).
+Si je n’avais pas eu du temps, je ne me serais pas lancé dans [*Le geste qui sauve*](http://tcrouzet.com/le-geste-qui-sauve/), pas plus que je ne me serais payé les billets de train pour aller rencontrer et interviewer Didier Pittet à Genève. Ce livre ne pouvait qu’être bien accueilli par la communauté médicale dans laquelle Didier a une extraordinaire popularité et influence. Sur ce terreau transnational, le CC a un effet fantastique, [il accélère la diffusion et les traductions](http://tcrouzet.com/2015/11/24/le-pouvoir-du-creative-commons).
 
 Je n’ai pas pensé à tout ça quand je me suis lancé. Je l’ai fait par passion. Ce n’est qu’aujourd’hui que je mesure que les bons ingrédients étaient en place.
 
 Ces mêmes critères ne suffisent pas à assurer le succès d’une œuvre sous copyright. Si la communauté doit obligatoirement payer pour goûter à l’œuvre, les belles paroles du vendeur ont beaucoup moins de portée. Le taux de conversion est bien plus bas. Le succès mécaniquement moindre.
 
-Prenez maintenant un auteur populaire. Cory Doctorow par exemple. Il a une immense communauté de lecteurs ([il commence en 2003 avec celle de Boing Boing](https://en.wikipedia.org/wiki/Boing_Boing)). Il est son propre vendeur. Il a du temps pour créer. Le CC est un choix évident pour lui, et il devrait l’être pour tous les auteurs installés. Ils ont tout à gagner au CC, notamment s’ils souhaitent que leurs œuvres s’internationalisent. Bien des auteurs français qui ne sont pas traduits le seraient si leurs textes étaient sous CC ([je suis plus traduit que la plupart d’entre eux](https://tcrouzet.com/2015/11/24/le-pouvoir-du-creative-commons)).
+Prenez maintenant un auteur populaire. Cory Doctorow par exemple. Il a une immense communauté de lecteurs ([il commence en 2003 avec celle de Boing Boing](https://en.wikipedia.org/wiki/Boing_Boing)). Il est son propre vendeur. Il a du temps pour créer. Le CC est un choix évident pour lui, et il devrait l’être pour tous les auteurs installés. Ils ont tout à gagner au CC, notamment s’ils souhaitent que leurs œuvres s’internationalisent. Bien des auteurs français qui ne sont pas traduits le seraient si leurs textes étaient sous CC ([je suis plus traduit que la plupart d’entre eux](http://tcrouzet.com/2015/11/24/le-pouvoir-du-creative-commons)).
 
 Pour un auteur encore anonyme, le choix du CC est moins évident puisqu’il n’a pas de communauté.
 
@@ -36,6 +36,8 @@ C’est tout le paradoxe. En l’absence d’un vendeur, le CC impose à l’aut
 
 L’idéal pour moi est de réussir à convaincre des éditeurs d’adopter le CC. Je m’y emploie (c’est ce qui a été fait pour le Geste). C’est une façon de réunir les deux mondes. Il va de soi que si un éditeur ne fait pas son travail, c’est-à-dire s’il n’investit pas, il faut être fou pour signer avec lui un contrat classique (mieux vaut un développement durable que pas de développement du tout).
 
-Pour mon roman [*One Minute*](https://tcrouzet.com/une-minute/), je ne peux donc me contenter d’une diffusion sous CC par mes propres moyens. J’ai déjà traversé cette phase tout au long de l’écriture. Ma communauté a eu l’occasion de lire le texte. Pour donner plus de chances au roman, j’ai besoin d’un vendeur et de sa communauté potentielle. J’ai besoin d’un éditeur. Diffuser n’est pas mon métier. Le logo CC apposé à une œuvre n’a aucune vertu magique. Je suis obligé d’admettre cette réalité et ne pas m’enfermer dans le dogme idéologique du CC (tuer une œuvre avec le CC n’a aucun sens, d’autant plus si cette œuvre entend promouvoir une autre vision du monde).
+Pour mon roman [*One Minute*](http://tcrouzet.com/une-minute/), je ne peux donc me contenter d’une diffusion sous CC par mes propres moyens. J’ai déjà traversé cette phase tout au long de l’écriture. Ma communauté a eu l’occasion de lire le texte. Pour donner plus de chances au roman, j’ai besoin d’un vendeur et de sa communauté potentielle. J’ai besoin d’un éditeur. Diffuser n’est pas mon métier. Le logo CC apposé à une œuvre n’a aucune vertu magique. Je suis obligé d’admettre cette réalité et ne pas m’enfermer dans le dogme idéologique du CC (tuer une œuvre avec le CC n’a aucun sens, d’autant plus si cette œuvre entend promouvoir une autre vision du monde).
 
 En résumé : on peut défendre le libre et ne pas y être toujours fidèle quand cette fidélité est contre-productive, et au final réduit les possibilités ultérieures de libérer de nouvelles œuvres.
+
+Tags: Commonisme, édition, Pittet, une

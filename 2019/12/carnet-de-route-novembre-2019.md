@@ -4,19 +4,19 @@
 
 ### Vendredi 1<sup>er</sup>, Sète
 
-![Sète](https://tcrouzet.com/images_tc/2019/12/IMG_6792.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6792.jpeg)
 
-![Cimetière marin](https://tcrouzet.com/images_tc/2019/12/IMG_6810.jpeg)
+![Cimetière marin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6810.jpeg)
 
-![Cimetière marin](https://tcrouzet.com/images_tc/2019/12/IMG_6822.jpeg)
+![Cimetière marin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6822.jpeg)
 
-![Cimetière marin](https://tcrouzet.com/images_tc/2019/12/IMG_6825.jpeg)
+![Cimetière marin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6825.jpeg)
 
 ### Vendredi 1<sup>er</sup>, Balaruc
 
-![Baignade interdite](https://tcrouzet.com/images_tc/2019/12/IMG_6838.jpeg)
+![Baignade interdite](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6838.jpeg)
 
-![Sète](https://tcrouzet.com/images_tc/2019/12/IMG_6844.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6844.jpeg)
 
 ### Dimanche 3, Sète
 
@@ -40,37 +40,37 @@ Il y a la vue d’une ville, avec des toits verts de pluie, un arrière plan de 
 
 Arrêt dans la salle Paul Valéry, avec une perspective sur le cimetière marin, puis le théâtre de la Mer, puis la mer elle-même, balayée de trains d’énormes vagues parallèles à la côte, qui défilent, amples, creuses, méchantes, faisant onduler le paysage jusqu’à me donner le vertige. Des gerbes blanches jaillissent à l’extrémité droite du brise-lame, côté du phare vert, peu habitué à être fracassé sur cette face. Et les cyprès se couchent, se redressent, devant les tombes impassibles, étagées face à la tourmente dont elles ne manquent rien.
 
-![Musée Paul Valéry](https://tcrouzet.com/images_tc/2019/12/IMG_6847.jpeg)
+![Musée Paul Valéry](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6847.jpeg)
 
-![Musée Paul Valéry](https://tcrouzet.com/images_tc/2019/12/IMG_6899.jpeg)
+![Musée Paul Valéry](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6899.jpeg)
 
-![La mer](https://tcrouzet.com/images_tc/2019/12/IMG_6900.jpeg)
+![La mer](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6900.jpeg)
 
-![La mer](https://tcrouzet.com/images_tc/2019/12/IMG_6918.jpeg)
+![La mer](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6918.jpeg)
 
-![Le port](https://tcrouzet.com/images_tc/2019/12/IMG_6930.jpeg)
+![Le port](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6930.jpeg)
 
 ### Dimanche 3, Villeveyrac
 
-![Les champs, à vélo](https://tcrouzet.com/images_tc/2019/12/IMG_6935.jpeg)
+![Les champs, à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6935.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2019/12/IMG_6937.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6937.jpeg)
 
 ### Lundi 4, Balaruc
 
 Première neige sur les Pyrénées. Dix semaines depuis la fracture. Je suis encore incapable de courir, mais je marche presque normalement. Tour de l’étang en gravel dans la transparence ultra légère. Après, séance chez Olivier, qui me dit que je suis opérationnel.
 
-![La neige](https://tcrouzet.com/images_tc/2019/12/P1100550.jpeg)
+![La neige](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/P1100550.jpeg)
 
-![Sète depuis Marseillan, à vélo](https://tcrouzet.com/images_tc/2019/12/IMG_6946.jpeg)
+![Sète depuis Marseillan, à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6946.jpeg)
 
-![Canal du Midi](https://tcrouzet.com/images_tc/2019/12/IMG_6949.jpeg)
+![Canal du Midi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6949.jpeg)
 
-![Sète, la Corniche, à vélo](https://tcrouzet.com/images_tc/2019/12/IMG_6954.jpeg)
+![Sète, la Corniche, à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6954.jpeg)
 
 ### Mardi 5, Montpellier
 
-Attente de mon rendez-vous avec l’orthopédiste, et comme par hasard j’ai mal aujourd’hui, mais surtout au genou. Mon corps s’est enroulé autour de la douleur et il lui reste à se déplier.
+Attente de mon rendez-vous avec l’orthopédiste, et comme par hasard j’ai mal aujourd'hui, mais surtout au genou. Mon corps s’est enroulé autour de la douleur et il lui reste à se déplier.
 
 Au sixième, baie vitrée du sol au plafond et moi contre elle avec la possibilité ressentie de tomber. J’ai de plus en plus le vertige, petite perversion de le provoquer.
 
@@ -88,9 +88,9 @@ Un ami me dit que mon roman n’est pas davantage mis en avant parce qu’il par
 
 Une idée avec les copains. Écrire un texte, pourquoi pas un roman entier, avec les trois cents mots les plus utilisés dans les recherches Google. Titre proposé par Hubert : *L’appauvrissement*.
 
-![Montmartre](https://tcrouzet.com/images_tc/2019/12/IMG_6983.jpeg)
+![Montmartre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6983.jpeg)
 
-![Montmartre](https://tcrouzet.com/images_tc/2019/12/IMG_6984.jpeg)
+![Montmartre](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_6984.jpeg)
 
 ### Jeudi 7, Paris
 
@@ -104,11 +104,11 @@ Nuit infecte dans mon studio pollué par un visiteur fumeur. Odieuse agression. 
 
 Conversation saisie dans la rue. « Les gens à la campagne vivent encore comme avant. » Parfois, j’ai envie de me retourner et de donner des claques.
 
-![La tour](https://tcrouzet.com/images_tc/2019/12/IMG_7004.jpeg)
+![La tour](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7004.jpeg)
 
-![La tour](https://tcrouzet.com/images_tc/2019/12/IMG_7028.jpeg)
+![La tour](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7028.jpeg)
 
-![La tour](https://tcrouzet.com/images_tc/2019/12/IMG_7038.jpeg)
+![La tour](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7038.jpeg)
 
 ### Vendredi 8, Étampes
 
@@ -122,7 +122,7 @@ Monstrueuse foire du livre. Je suis coincé entre deux vedettes, sans éveiller 
 
 « Plusieurs personnes m’ont dit que les passages les plus intéressants de *Mon père, ce tueur* étaient ceux où je parlais de moi. Qu’es-je donc de si intéressant à raconter à mon propre sujet ? » voilà qui pourrait être le début d’une sorte de roman, et n’est-ce pas le sujet de mes *Ravissements* ?
 
-![Brive, la nuit](https://tcrouzet.com/images_tc/2019/12/IMG_7121.jpeg)
+![Brive, la nuit](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7121.jpeg)
 
 ### Samedi 9, Brive
 
@@ -142,25 +142,25 @@ Je ne peux pas encore écrire mon histoire de femme, alors pourquoi ne pas écri
 
 ### Lundi 11, Balaruc
 
-![Mer et garrigue](https://tcrouzet.com/images_tc/2019/12/IMG_7155.jpeg)
+![Mer et garrigue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7155.jpeg)
 
 ### Mardi 12, Sète
 
-![Sète, les Beaux arts](https://tcrouzet.com/images_tc/2019/12/IMG_7165.jpeg)
+![Sète, les Beaux arts](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7165.jpeg)
 
 ### Mercredi 13, Balaruc
 
 Quand j’étais à Brive, parmi les auteurs, je me sentais énergisé, avec des envies d’écrire encore et encore, et puis de retour à la maison, je ne retrouve plus cette énergie. Quel intérêt d’écrire sur moi ? Pourquoi les gens s’intéresseraient à ma vie ? Pourquoi on s’intéresse à une vie ? Sans doute parce qu’elle nous permet de la vivre par procuration et d’apprendre à travers elle. Alors toute vie mérite d’être racontée, la mienne comme une autre, et pourquoi pas elle puisque je la connais mieux que les autres. Michon a écrit des vies minuscules parce que ses personnages n’avaient pas raconté la leur. Peut-être raconter la mienne sous une multitude de perspectives, comme autant de vies minuscules. *Mes vies minuscules*.
 
-![Les vignes](https://tcrouzet.com/images_tc/2019/12/IMG_7179.jpeg)
+![Les vignes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7179.jpeg)
 
-![Les vignes](https://tcrouzet.com/images_tc/2019/12/IMG_7184.jpeg)
+![Les vignes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7184.jpeg)
 
 ### Jeudi 14, Balaruc
 
 Je conduis les enfants à Sète et j’écoute les news sur Culture. Mort de Poulidor, l’exact contemporain de mon père, son idole et le mien quand j’étais enfant, comme si mon père mourait une seconde fois, et mon enfance avec. Et tout de suite après Boltanski parle de la mémoire, des vies qui s’effacent et qu’il cherche à retenir. Il me donne envie de m’attaquer à la mémoire de moi-même, sans que cela ne soit redondant avec ce carnet, lieu de pensées plutôt que d’autobiographie. Et Boltanski de dire de Poulidor : « C’est un je me souviens. » Et peut-être que plus personne ne pourra être Poulidor alors que nous pouvons tous être Rousseau. Laisser la possibilité d’un *Je me souviens* pour toutes les vies, toutes passionnante et insignifiantes.
 
-![Les oiseaux](https://tcrouzet.com/images_tc/2019/12/P1100562.jpeg)
+![Les oiseaux](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/P1100562.jpeg)
 
 ### Vendredi 15, Balaruc
 
@@ -172,17 +172,17 @@ Premier coup de froid de l’hiver. Un petit 3°C ce matin, les doigts qui pique
 
 ### Dimanche 16, Balaruc
 
-![Regate](https://tcrouzet.com/images_tc/2019/12/P1100635.jpeg)
+![Regate](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/P1100635.jpeg)
 
-![Regate](https://tcrouzet.com/images_tc/2019/12/P1100640.jpeg)
+![Regate](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/P1100640.jpeg)
 
-![Regate](https://tcrouzet.com/images_tc/2019/12/P1100652.jpeg)
+![Regate](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/P1100652.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2019/12/P1100615.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/P1100615.jpeg)
 
 ### Lundi 17, Balaruc
 
-![Matin](https://tcrouzet.com/images_tc/2019/12/IMG_7361.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7361.jpeg)
 
 ### Lundi 18, Balaruc
 
@@ -196,15 +196,15 @@ Je n’aime pas ne pas écrire. J’ai souffert de ce mal tout au long de mon s�
 
 Furieux contre les profs qui maltraitent les enfants, font tout pour les décourager, comme s’ils ne voulaient pas qu’ils réussissent mieux qu’eux-mêmes. On ne devrait être autorisé à enseigner qu’après au moins dix ans dans la vie active. Passer de l’école à l’enseignement est un non-sens. On enseigne quoi ? On a vécu quoi quand on reste à l’école toute sa vie ?
 
-![Pêcheur](https://tcrouzet.com/images_tc/2019/12/IMG_7369.jpeg)
+![Pêcheur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7369.jpeg)
 
-![Mèze, à vélo](https://tcrouzet.com/images_tc/2019/12/IMG_7382.jpeg)
+![Mèze, à vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7382.jpeg)
 
 ### Mercredi 20, Balaruc
 
-![Matin](https://tcrouzet.com/images_tc/2019/12/IMG_7396.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7396.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2019/12/IMG_7415.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7415.jpeg)
 
 ### Jeudi 21, Balaruc
 
@@ -228,25 +228,25 @@ Je me pleins de ne pas écrire, pourtant j’ai déjà publié 800 000 signes su
 
 Belle sortie gravel par un temps maussade entre pluie et rafales de mistral, passages inondés, pieds vites trempés, mais récompense à la fin quand le soleil couchant se glisse sous les nuages et embrase les platanes. Je suis bien dehors, j’y suis mieux que devant mon écran, et je n’ai plus envie d’écrire que pour mieux me pousser dehors.
 
-![Sortie gravel](https://tcrouzet.com/images_tc/2019/12/IMG_7553.jpeg)
+![Sortie gravel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7553.jpeg)
 
-![Sortie gravel](https://tcrouzet.com/images_tc/2019/12/IMG_7555.jpeg)
+![Sortie gravel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7555.jpeg)
 
-![Sortie gravel](https://tcrouzet.com/images_tc/2019/12/IMG_7556.jpeg)
+![Sortie gravel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7556.jpeg)
 
-![Platanes en feu](https://tcrouzet.com/images_tc/2019/12/IMG_7564.jpeg)
+![Platanes en feu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7564.jpeg)
 
 ### Lundi 25, Sète
 
-![Sète](https://tcrouzet.com/images_tc/2019/12/IMG_7570.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7570.jpeg)
 
-![Sète](https://tcrouzet.com/images_tc/2019/12/IMG_7581.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7581.jpeg)
 
-![Sète](https://tcrouzet.com/images_tc/2019/12/IMG_7584.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7584.jpeg)
 
-![Sète](https://tcrouzet.com/images_tc/2019/12/IMG_7599.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7599.jpeg)
 
-![Sète](https://tcrouzet.com/images_tc/2019/12/IMG_7611.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7611.jpeg)
 
 ### Mardi 26, Balaruc
 
@@ -274,4 +274,8 @@ Quand je vois des photos des auteurs du XIX<sup>e</sup> ou du début XX<sup>e</s
 
 ### Samedi 30, Montpellier
 
-![Montpellier](https://tcrouzet.com/images_tc/2019/12/IMG_7798.jpeg)
+![Montpellier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/12/IMG_7798.jpeg)
+
+
+
+Tags: Carnets, une

@@ -16,7 +16,7 @@ Tout d’abord qui a dit ça. Et même si quelqu’un l’avait dit, ça n’eng
 
 > Grâce à Twitter, on va renverser les dictatures.
 
-[Je me suis déjà expliqué à ce sujet.](https://tcrouzet.com/2010/03/02/internet-imbecile/) Un service centralisé n’est pas un bon outil pour lutter contre un gouvernement centralisé. Il n’y a que des imbéciles pour ne pas voir cette évidence. En revanche, une multitude de forces de décentralisation peuvent déboulonner une dictature, la guérilla généralisée est une alternative au coup d’État.
+[Je me suis déjà expliqué à ce sujet.](http://blog.tcrouzet.com/2010/03/02/internet-imbecile/) Un service centralisé n’est pas un bon outil pour lutter contre un gouvernement centralisé. Il n’y a que des imbéciles pour ne pas voir cette évidence. En revanche, une multitude de forces de décentralisation peuvent déboulonner une dictature, la guérilla généralisée est une alternative au coup d’État.
 
 > Google défend la liberté sur Internet.
 
@@ -30,7 +30,7 @@ Non, avec Internet ils peuvent plus facilement rendre des comptes s’ils en ont
 
 Mais qu’est-ce que la participation politique ? Comment on la mesure ? Faire de la politique est-ce s’engager dans un parti et aller voter ? Si on regarde les choses comme ça, Internet ne changera rien au contraire. Mais si nous nous mettons à créer des liens, à multiplier la complexité sociale, nous sommes en plein activisme politique, un activisme qui échappe à toutes les grilles de lecture actuelles. Ce que je sais, c’est que certains d’entre nous voient comment utiliser Internet pour faire la politique dont ils ont envie. Nous verrons bien si nous réussissons à créer un mouvement de grande ampleur.
 
-> Internet, c’est la mort de l’actu internationale.
+> Internet, c'est la mort de l'actu internationale.
 
 C’est la mort du journalisme tel que nous le connaissions sans aucun doute, mais pourquoi ne parlerait-on plus de ce qui se passe dans le monde ? Mais qui a proclamé ces inepties que dénonce Morozov. Remarquez : il évite de citer en général. Et pourquoi ? Parce que s’il le faisait, son propos deviendrait beaucoup moins universel, beaucoup moins impressionnant.
 
@@ -40,4 +40,6 @@ Pas étonnant que Morozov réclame de grands arbitres. Il aimerait en être un. 
 
 > Internet nous rapproche.
 
-Encore une fois personne n’a osé dire une chose pareille, sinon pour faire vite. « Grâce à Internet, nous pouvons nous rapprocher. Comment faire ? » Quand je dis que [la liberté, c’est le lien](https://tcrouzet.com/2010/05/08/la-liberte-le-lien/), oui, à condition que nous bataillions pour créer des [liens de qualité](https://tcrouzet.com/2010/05/13/qualite-des-liens/). Les liens ne tombent pas du ciel juste parce que nous avons une connexion Internet.
+Encore une fois personne n’a osé dire une chose pareille, sinon pour faire vite. « Grâce à Internet, nous pouvons nous rapprocher. Comment faire ? » Quand je dis que [la liberté, c’est le lien](http://blog.tcrouzet.com/2010/05/08/la-liberte-le-lien/), oui, à condition que nous bataillions pour créer des [liens de qualité](http://blog.tcrouzet.com/2010/05/13/qualite-des-liens/). Les liens ne tombent pas du ciel juste parce que nous avons une connexion Internet.
+
+Tags: NetCulture

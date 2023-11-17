@@ -17,3 +17,5 @@ La Bretagne, le Massif central, les Pyrénées attirent l’œil par leur cacoph
 ![La géologie du 727](https://tcrouzet.com/images_tc/2023/02/geo04.jpg)
 
 ![Zoom](https://tcrouzet.com/images_tc/2023/02/geo05.jpg)
+
+Tags: 727, Born to Bike, une

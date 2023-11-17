@@ -1,6 +1,6 @@
 # Matrix connexion
 
-Je donne une [conférence à Genève le 14](https://tcrouzet.com/2006/09/08/manager-par-la-connexion/), le lendemain j’assiste à Crans Montana au [WKD](http://www.wkdialogue.org/), puis le 16 je file à Fribourg pour donner une conférence sur *Matrix* à l’occasion d’un [festival de philosophie](http://www.festivalphilosophie.info/). Ça me sortira de la politique.<span id="more-217"></span>
+Je donne une [conférence à Genève le 14](http://blog.tcrouzet.com/2006/09/08/manager-par-la-connexion/), le lendemain j’assiste à Crans Montana au [WKD](http://www.wkdialogue.org/), puis le 16 je file à Fribourg pour donner une conférence sur *Matrix* à l’occasion d’un [festival de philosophie](http://www.festivalphilosophie.info/). Ça me sortira de la politique.<span id="more-217"></span>
 
 **A**/ J’ai vu *Matrix* en 1999, à Sète, un soir de semaine, j’étais avec un ami, je crois qu’on était seuls dans la salle. Du coup, on a discuté pendant la projection. On s’est dit que les jeunes aimaient le film par son côté pseudo intello. Vivons-nous ou non dans la réalité ? Et s’il y avait une autre réalité ? C’était ni plus ni moins des questions platoniciennes, une vulgarisation amusante de la métaphore de la caverne. Pour nous, il n’y avait aucun mystère. Le thème était vieux comme le monde.
 
@@ -30,11 +30,11 @@ En 1991, dans le prélude de [*La conscience expliquée*](http://www.amazon.fr/c
 
 2. D’autres supports peuvent-ils engendrer la conscience ? Pour l’instant, nous n’en avons pas la preuve mais il me paraît prétentieux de croire que nous sommes la seule solution.
 
-3. Au cours de notre évolution culturelle, nous n’avons cessé [d’externaliser les fonctions propres à l’homme](https://tcrouzet.com/2006/09/06/reseau-ou-espace/). Après la mémoire mise dans les livres, la puissance de calcul mise dans les ordinateurs, nous mettrons sans doute aussi la pensée dans une machine. Pourquoi cette évolution s’arrêterait-elle ? Si nous sommes des machines, nous serons capables de créer des machines à notre image. Elles se lanceront à leur tour dans un nouveau processus d’externalisation qui engendrera des technologies que nous ne pouvons même pas imaginer. Peut-être créeront-elles la matrice.
+3. Au cours de notre évolution culturelle, nous n’avons cessé [d’externaliser les fonctions propres à l’homme](http://blog.tcrouzet.com/2006/09/06/reseau-ou-espace/). Après la mémoire mise dans les livres, la puissance de calcul mise dans les ordinateurs, nous mettrons sans doute aussi la pensée dans une machine. Pourquoi cette évolution s’arrêterait-elle ? Si nous sommes des machines, nous serons capables de créer des machines à notre image. Elles se lanceront à leur tour dans un nouveau processus d’externalisation qui engendrera des technologies que nous ne pouvons même pas imaginer. Peut-être créeront-elles la matrice.
 
 **G**/ Une technologie numérique sera-t-elle capable d’engendrer une conscience ? Là encore, c’est très probable. L’essence de notre cerveau est semble-t-il de manipuler de l’information. Comme c’est aussi la spécialité des ordinateurs, ils deviendront sans doute conscients à leur tour. Quand ?
 
-La puissance de traitement du cerveau peut être grossièrement estimée en multipliant le nombre de neurones (10<sup>11</sup>) par leur nombre moyen de connexions (10<sup>5</sup>) par leur nombre d’états par seconde (10<sup>2</sup>), soit 10<sup>18</sup> opérations élémentaires par seconde. En comptabilisant d’éventuelles structures inconnues ou encore incomprises, telles les mille milliards de cellules gliales, on ajoute peut-être quelques ordres de magnitude à la puissance totale du cerveau.
+La puissance de traitement du cerveau peut être grossièrement estimée en multipliant le nombre de neurones (10<sup>11</sup>) par leur nombre moyen de connexions (10<sup>5</sup>) par leur nombre d’états par seconde (10<sup>2</sup>), soit 10<sup>18</sup> opérations élémentaires par seconde. En comptabilisant d’éventuelles structures inconnues ou encore incomprises, telles les mille milliards de cellules gliales, on ajoute peut-être quelques ordres de magnitude à la puissance totale du cerveau. 
 
 **H**/ L’ordinateur le plus puissant est aujourd’hui le [Blue Gene d’IBM](http://top500.org/) avec une puissance de 280 téraflops (million de millions d’opérations par seconde sur des nombres à virgule – floating-point operations per second). La traduction des flops en opérations élémentaires sur des bits dépend de l’architecture de l’ordinateur sur lequel s’effectue la mesure. Par exemple, une multiplication demande en moyenne 50 instructions. Si elle s’exécute sur des mots de 8 bits, 1 flops = 400 opérations par seconde ; sur des nombres de 128 bits, comme c’est le cas avec Blue Gene, 1 flops = 6400 opérations par secondes. Blue Gene dispose donc d’une puissance théorique d’environ 1,7 10<sup>18</sup> opérations élémentaires par seconde.
 
@@ -70,7 +70,7 @@ Comment est-ce que je m’en sors ? Pas très bien je dois avouer.
 
 4. Qu’un tel Dieu existe ou n’existe pas pour nous ne change donc rien.
 
-5. Et si Dieu existe, il n’est pas central, il n’y a pas de centre à quoi que ce soit (sauf dans l’esprit des hommes qui se cherchent des chefs, des rois, des dieux…).
+5. Et si Dieu existe, il n'est pas central, il n'y a pas de centre à quoi que ce soit (sauf dans l'esprit des hommes qui se cherchent des chefs, des rois, des dieux...).
 
 **L**/ Alors matrice ou pas matrice ? Tout programme informatique a tendance à buguer. Si nous vivons dans une simulation, il faudrait trouver un bug, ce qui reviendrait à trouver des lois physiques qui défaillent.
 
@@ -80,4 +80,6 @@ Dans *Matrix*, l’oracle est un bug. Elle possède des informations extérieure
 
 2. Dans la simulation, les machines ont plongé les hommes dans un univers virtuel, la matrice, pour abuser de leur énergie. Les hommes peuvent être débranchés. Coupés de l’illusion, ils retrouvent alors la réalité, celle des derniers hommes qui résistent contre les machines. C’est l’histoire de Néo.
 
-Je n’aime pas cette seconde histoire. Elle sous-entend que nous même ne vivons pas dans la réalité. Pour moi, il n’y a qu’une réalité. On ne peut pas en sortir, il faut faire avec, ici et maintenant. Si nous sommes des sims, la simulation est notre univers. Nous n’avons pas moyen de nous débrancher. Tout au plus pouvons-nous essayer d’envoyer des signaux à Dieu. Mais qu’il nous entende ou pas, ça ne change rien.
+Je n’aime pas cette seconde histoire. Elle sous-entend que nous même ne vivons pas dans la réalité. Pour moi, il n’y a qu’une réalité. On ne peut pas en sortir, il faut faire avec, ici et maintenant. Si nous sommes des sims, la simulation est notre univers. Nous n’avons pas moyen de nous débrancher. Tout au plus pouvons-nous essayer d’envoyer des signaux à Dieu. Mais qu'il nous entende ou pas, ça ne change rien.
+
+Tags: Cinéma, Conf, Critique

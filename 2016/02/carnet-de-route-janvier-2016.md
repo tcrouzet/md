@@ -12,7 +12,7 @@ Me voilà plongé en grande perplexité éditoriale. J’utilise *One Minute* co
 
 ---
 
-Quand même les petits éditeurs s’enferment dans les rayonnages et le ciblage, que nous reste-t-il comme espace d’expression, sinon l’auto-édition ?
+Quand même les petits éditeurs s’enferment dans les rayonnages et le ciblage, que nous reste-t-il comme espace d’expression, sinon l'auto-édition ?
 
 ---
 
@@ -36,7 +36,7 @@ Je dois écrire un roman sur la résistance aux antibiotiques et je tombe sur [l
 
 ### Vendredi 8, Balaruc
 
-« Lisez-moi, invitez-moi, aimez-moi. » Appel au secours d’un auteur sur les réseaux sociaux. Jusqu’où ça ira ce rabaissement ? « Corps à offrir, fouet accepté ! » L’impudeur en fonds de commerce.
+« Lisez-moi, invitez-moi, aimez-moi. » Appel au secours d’un auteur sur les réseaux sociaux. Jusqu’où ça ira ce rabaissement ? « Corps à offrir, fouet accepté ! » L'impudeur en fonds de commerce.
 
 ### Samedi 9, Bouzigues
 
@@ -64,7 +64,7 @@ Comment prétendre à la modernité à l’aide d’un art aussi ancien que la l
 
 ---
 
-Je termine la rénovation du dernier appartement de la maison familiale. Je suis dans une sorte de transe. Je ne pense pas. J’ai débranché l’introspection qui ne ressurgit que la nuit quand je liste sans fin tous les ajustements à faire le lendemain. Donc pas assez disponible pour écrire. Je me suis créé un problème de code sur WordPress pour me changer les idées. C’est mon jeu, une sorte de casse-tête.
+Je termine la rénovation du dernier appartement de la maison familiale. Je suis dans une sorte de transe. Je ne pense pas. J'ai débranché l’introspection qui ne ressurgit que la nuit quand je liste sans fin tous les ajustements à faire le lendemain. Donc pas assez disponible pour écrire. Je me suis créé un problème de code sur WordPress pour me changer les idées. C’est mon jeu, une sorte de casse-tête.
 
 ### Mercredi 14, Balaruc
 
@@ -76,7 +76,7 @@ Casanova raconte ses aventures amoureuses, je pourrais raconter comment notre ch
 
 ### Vendredi 16, Balaruc
 
-J'essaie de robotiser ma vie en ligne, question d'être présent dans l’absence. Bientôt des IA nous représenteront. Elles débattront à notre place. Puis nous mourons et elles continueront d’assumer notre rôle. Voilà un potentiel romanesque. L’IA qui tue son double humain pour rester aux commandes.
+J'essaie de robotiser ma vie en ligne, question d'être présent dans l'absence. Bientôt des IA nous représenteront. Elles débattront à notre place. Puis nous mourons et elles continueront d’assumer notre rôle. Voilà un potentiel romanesque. L’IA qui tue son double humain pour rester aux commandes.
 
 ---
 
@@ -90,7 +90,7 @@ Les réseaux sociaux sont anxiogènes. Tous les jours je ne cesse d’y apprendr
 
 Je profite d’un passage en Arles chez ma belle famille pour aller courir dans une pinède au pied de Fontvieille. J’aime ainsi découvrir des coins de nature à la vitesse de la course. Un peu plus tard sous la douche, longue et chaude, une idée surgit. C’est souvent comme ça chez moi. Il me faudrait écrire un petit essai sur les vertus de l’eau chaude, rien que de normal pour un habitant d’une station thermale.
 
-![Faux temple romain au bord de l'autoroute.](https://tcrouzet.com/images_tc/2016/02/IMG_4231.jpg)
+![Faux temple romain au bord de l'autoroute.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/IMG_4231.jpg)
 
 ### Lundi 18, Paris
 
@@ -104,7 +104,7 @@ Une éditrice me demande quand l’histoire de *One Minute* commence ? Réponse
 
 Je retrouve J qui me présente le patron de la revue B. Casanova écrit des pages sur ces moments. De les publier à brève échéance m’interdit de parler des gens, à moins de vouloir trahir des secrets et me faire des ennemis. Le journal blogué ne peut jamais devenir intime (ou alors il devient romanesque ou exhibitionniste). Se pose alors la fonction même de toutes ces notes puisqu’elles seront insuffisantes pour réveiller la mémoire. Il ne subsiste en elles que leur potentiel littéraire. Une sorte de saisie superficielle de la vie d’aujourd’hui.
 
-![Dans une vitrine.](https://tcrouzet.com/images_tc/2016/02/trans.jpg)
+![Dans une vitrine.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/trans.jpg)
 
 ---
 
@@ -118,7 +118,7 @@ L’assemblée symbolise le refus du changement. Il s’y mime une possibilité 
 
 Heureusement, je passe par la suite un bon moment avec Isabelle et me sens en accord avec cette Martienne de l’assemblée. Elle m’entraîne retrouver Palema Anderson et Paul Watson, le fondateur de Sea Shepherd. Nous passons ensemble les portiques pour regagner les méandres de l’assemblée où Pamela et Paul viennent défendre un projet de loi contre le gavage des oies et des canards.
 
-Les flashes crépitent. Les journalistes se battent. J’aurais pu me glisser sur la scène. Me retrouver sur quelques photos. Je m’échappe de ce charivari moderne.
+Les flashes crépitent. Les journalistes se battent. J'aurais pu me glisser sur la scène. Me retrouver sur quelques photos. Je m'échappe de ce charivari moderne.
 
 Isabelle sera une des seules à la voter la loi. Les autres députés voteront contre, incapables de remettre en cause une tradition sans nécessité puisque les oies et les canards savent très bien se gaver seuls (au prix certes d’un rendement plus faible). Les députés invoqueront la défense de l’emploi, un argument-choc auquel ne résistent ni notre éthique ni nos intérêts à long terme. Si je crée des emplois, je peux polluer.
 
@@ -146,7 +146,7 @@ J’ai eu l’idée de boire du jus de cerise quand j’ai découvert [qu’apr�
 
 Bête image que me donne le Web social. Un tel défend une juste cause, provoque un petit scandale, qui agite bientôt les médias, d’autres activistes le soutiennent, innombrables, et il continue de faire comme s’il était seul à se battre contre tous. À croire que dès le début tout n’était que marketing, qu’ego malheureux à faire apparaître au grand jour par tous les moyens. « Je veux exister. Aimez-moi, bordel. »
 
-![Attaque de grippe.](https://tcrouzet.com/images_tc/2016/02/IMG_4254.jpg)
+![Attaque de grippe.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/IMG_4254.jpg)
 
 ### Vendredi 22, Balaruc
 
@@ -160,4 +160,8 @@ J’attaque *Résistants*, un roman de commande. Pour le moment, je tâtonne, au
 
 *Résistants* s’adressera en priorité aux jeunes. Un roman pour jeunes met en général en scène des jeunes. J’ai feuilleté les best-sellers young adults de ces dernières années. Au moins 80 % sont écrits à la première personne, avec point de vue unique, ce qui facilite l’identification du lecteur, évite l’effort de changer sans cesse de perspective (comme nous l’impose Stephen King dans *Fléau*, sa version polyphonique du roman épidémiologique). Le « je » des romans populaires est assez particulier, c’est une troisième personne qui se cache à la première. Le « je » du narrateur n’hésite pas à dire son nom, à déballer son CV. Pas question de s’embêter avec la vraisemblance. Sorte d’affirmation du romanesque. « Je vous raconte une histoire, n’allez pas croire que je suis écrivain. » J’aime cette approche.
 
-![Le rayon vert.](https://tcrouzet.com/images_tc/2016/02/IMG_4281.jpg)
+![Le rayon vert.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/IMG_4281.jpg)
+
+
+
+Tags: Carnets, une

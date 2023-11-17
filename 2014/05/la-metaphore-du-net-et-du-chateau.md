@@ -6,7 +6,7 @@ Le Net est une sorte de paysage, avec aussi des fermes isolées cultivées par d
 
 L’analogie commence alors à se troubler. Quand je veux acheter du sucre sur le territoire géographique, il me suffit d’entrer dans la première supérette venue. Sur le territoire numérique, je dois aller jusqu’à la mégalopole des mégalopoles. Elle ressemble à une gigantesque forteresse, peut-être pas imprenable, mais je souhaite bien du bonheur à ses assaillants.
 
-Pourquoi ne pas aller ailleurs ? Les mégalopoles ont construit de merveilleuses autoroutes qui mènent droit à elles. C’est comme si je pouvais me téléporter. Les nationales et les départementales ont été négligées. Les chemins communaux abandonnés aux ronces. On les appelle encore liens hypertextes. [Les maîtres des hauts châteaux n’encouragent plus leur ouverture](https://tcrouzet.com/2014/05/17/un-livre-na-pas-dadresse-lapres-web-non-plus/), ils auraient même tendance à punir ceux qui useraient de leur machette pour se frayer de nouvelles voies dans une jungle de plus en plus dense, où seuls des robots automatisés réussissent à se faufiler. Et ce n’est pas pour rien qu’on les appelle spider.
+Pourquoi ne pas aller ailleurs ? Les mégalopoles ont construit de merveilleuses autoroutes qui mènent droit à elles. C’est comme si je pouvais me téléporter. Les nationales et les départementales ont été négligées. Les chemins communaux abandonnés aux ronces. On les appelle encore liens hypertextes. [Les maîtres des hauts châteaux n’encouragent plus leur ouverture](http://blog.tcrouzet.com/2014/05/17/un-livre-na-pas-dadresse-lapres-web-non-plus/), ils auraient même tendance à punir ceux qui useraient de leur machette pour se frayer de nouvelles voies dans une jungle de plus en plus dense, où seuls des robots automatisés réussissent à se faufiler. Et ce n’est pas pour rien qu’on les appelle spider.
 
 Sur le Net, nous les internautes ressemblons aux serfs qui se rendaient en longues processions à la ville du châtelain pour vendre leurs maigres surplus. Pouilleux, grelottants sous la neige, ou exténués sous un soleil de plomb. Alors nous doublent des carrosses d’or où festoient les bouffons des maîtres.
 
@@ -21,3 +21,5 @@ Parmi eux certains des plus âgés éprouvent un malaise grandissant. Ils ont co
 « Nous sommes responsables. Nous n’avons pas été vigilants. »
 
 Ils souffrent d’autant plus que le Net leur est devenu indispensable. Il ne leur reste plus qu’une possibilité : inventer un espace numérique parallèle, et puis encore un autre, en feuilles successives, comme des multivers. Que la dictature s’installe dans l’un, on saute dans l’autre, en veillant à fermer la porte derrière soi, pour ne pas être suivi par les démons et leurs robots fouineurs.
+
+Tags: NetCulture, une

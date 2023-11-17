@@ -14,4 +14,8 @@ Mais comme les insectes débiles, nous ne devons pas foncer aveuglément vers le
 
 La différence entre un blogueur et un journaliste est aussi grande qu’entre un auteur et un journaliste. Le blogueur et l’auteur ne savent pas s’ils gagneront un jour de l’argent, mais ils sont libres. Bloguer, ça paye à tous les coups parce que ça nous procure une puissante sensation de vie. C’est pourquoi nous persistons, et pourquoi cette forme perdurera même si des entreprises tentent d’avaler les blogueurs en leur sein.
 
-![](https://tcrouzet.com/images_tc/2011/12/monbureau.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/12/monbureau-450x190.jpg)
+
+
+
+Tags: blog, NetLittérature, une

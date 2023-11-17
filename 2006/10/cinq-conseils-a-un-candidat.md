@@ -1,8 +1,8 @@
 # Cinq conseils à un candidat
 
-Après mon [manifeste présidentiel](https://tcrouzet.com/2006/10/24/manifeste-presidentiel/), je m’autorise quelques conseils :
+Après mon [manifeste présidentiel](http://blog.tcrouzet.com/2006/10/24/manifeste-presidentiel/), je m’autorise quelques conseils :
 
-1. La parité homme-femme, en plus d’être inutile, est insuffisante. Il faut instaurer la parité jeunes-vieux. Toutes les classes d’âges doivent être représentées au gouvernement. Les vieux parce qu’ils sont la sagesse, les jeunes parce qu’ils ont la folie, et aussi parce c’est leur monde qui est en train de se construire.
+1. La parité homme-femme, en plus d'être inutile, est insuffisante. Il faut instaurer la parité jeunes-vieux. Toutes les classes d’âges doivent être représentées au gouvernement. Les vieux parce qu’ils sont la sagesse, les jeunes parce qu’ils ont la folie, et aussi parce c’est leur monde qui est en train de se construire.
 
 2. Le nombre de signatures pour avoir droit à se présenter à une élection doit être multiplié par dix mais ces signatures doivent venir des citoyens et non des élus qui sinon confisquent la démocratie et la transforme en oligarchie.
 
@@ -17,3 +17,5 @@ Après mon [manifeste présidentiel](https://tcrouzet.com/2006/10/24/manifeste-p
 *PS2 : C’est parce que la parité homme/femme m’agace que je me suis amusé à parler des jeunes. Je voulais dire que nous avons besoin de toutes les énergies par uniquement celles des vieux politicards qui s’approprient le pouvoir dans les démocraties (en tout cas dans la française).*
 
 *PS3 : Les partis s’organisent en armées et ils verrouillent le pouvoir en s’appuyant sur leur trésor de guerre. En cessant de les subventionner, on pousse à la décentralisation, ce qui me paraît indispensable. Je cherchais juste des astuces pour nous sortir des moules à penser que sont les partis.*
+
+Tags: Politique

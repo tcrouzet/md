@@ -8,7 +8,7 @@
 
 2. La trace sur l’écran du GPS, c’est un trait jaune stabiloté sur [une carte IGN TOP25](https://ignrando.fr/boutique/top-25-serie-bleue.html) qui couvrirait une région, un pays, un continent. C’est un trait qui déborde de toutes les cartes, qui entre dans les zones non cartographiées, qui emprunte des passages nouveaux ou inconnus des cartographes.
 
-3. La trace n’a même pas besoin de la carte puisqu’elle peut résulter de l’assemblage de traces relevées à même le terrain lors des sorties.
+3. La trace n'a même pas besoin de la carte puisqu'elle peut résulter de l'assemblage de traces relevées à même le terrain lors des sorties.
 
 4. La trace n’a pas pour but de relier deux points sur le territoire, mais de faire cheminer le cycliste à la manière du traceur, c’est-à-dire avec art.
 
@@ -24,7 +24,7 @@
 
 10. La trace est la garantie de ne pas retomber dans le trafic, de ne pas se faire aspirer par la gravité du réseau asphalté pensé pour les voitures et les camions. Au contraire, la trace nous tient à distance du bruit, de la pollution, des nuisances de l’ère thermo-industrielle (l’asphalte étant lui-même un pur produit de l’ère thermo-industrielle).
 
-11. La trace prend tout son sens loin de l’asphalte, quand on veut s’en tenir à l’écart avec obstination.
+11. La trace prend tout son sens loin de l'asphalte, quand on veut s'en tenir à l'écart avec obstination.
 
 12. La trace nous rend familiers d’un territoire où peut-être nous n’avons encore jamais roulé, elle nous aide à en découvrir les secrets.
 
@@ -48,11 +48,11 @@
 
 22. La trace fluidifie le voyage, le rend joueur plutôt qu’une fastidieuse affaire de paperasse.
 
-23. Changer de vélo ouvre de nouvelles possibilités pour la trace. Avec l’arrivée du gravel et l’extension du domaine accessible hors asphalte, des traces nouvelles sont devenues possibles, et le gravel se développe grâce à ces nouvelles possibilités. Tous les territoires sont à revisiter.
+23. Changer de vélo ouvre de nouvelles possibilités pour la trace. Avec l’arrivée du gravel et l'extension du domaine accessible hors asphalte, des traces nouvelles sont devenues possibles, et le gravel se développe grâce à ces nouvelles possibilités. Tous les territoires sont à revisiter.
 
 24. La trace nous démontre que même près de chez nous il y a toujours des découvertes à faire.
 
-25. Aucune trace, même effectuée des dizaines de fois, n’est infaillible. Il arrive que la nature reprenne le dessus, qu’un agriculteur dresse une barrière, que des travaux ou des intempéries bloquent des passages. Le monde change et la trace doit changer pour l’épouser.
+25. Aucune trace, même effectuée des dizaines de fois, n'est infaillible. Il arrive que la nature reprenne le dessus, qu'un agriculteur dresse une barrière, que des travaux ou des intempéries bloquent des passages. Le monde change et la trace doit changer pour l'épouser.
 
 26. Sans trace, on répète toujours les mêmes parcours. On lit toujours les mêmes livres et néglige ceux écrits pas les autres. Sans trace, on est condamné à tourner en rond, à moins d’avoir l’âme d’un explorateur.
 
@@ -78,7 +78,7 @@
 
 9. Le traceur a une responsabilité puisqu’il entraîne des cyclistes sur ses pas.
 
-10. Le traceur met de lui dans ses traces, en les rendant fluides ou au contraire cassantes, montagneuses ou au contraire plates. Chaque traceur a son style. Certains rechignent à toucher l’asphalte, d’autres s’y attardent.
+10. Le traceur met de lui dans ses traces, en les rendant fluides ou au contraire cassantes, montagneuses ou au contraire plates. Chaque traceur a son style. Certains rechignent à toucher l’asphalte, d’autres s'y attardent.
 
 11. La trace se construit comme une histoire, tendue vers son climax. Elle n’est pas qu’une affaire de vélo, elle s’occupe aussi de l’état mental des cyclistes pour leur faire vivre des expériences inoubliables.
 
@@ -89,3 +89,5 @@
 14. Le traceur n’oublie jamais que sa trace s’apparente à une partition dont les cyclistes seraient les interprètes, chacun à son rythme, chacun avec ses instruments, chacun selon sa propre philosophie du vélo, quitte a prendre des libertés avec la trace. Elle est une possibilité, en aucune manière un dictat, sauf en mode course, mais pas tant par sa faute que celle des concurrents qui acceptent de se soumettre à une logique quantitative plus que qualitative.
 
 15. La trace se déploie peu à peu, comme un oignon qui couche après couche colonise tout un territoire jusqu’à le circonscrire dans son exhaustivité. Les chemins repérés deviennent autant de mots possibles dans le vocabulaire du traceur. Il ne lui reste plus qu’à les composer pour créer de belles histoires.
+
+Tags: Born to Bike, Livre 2, une

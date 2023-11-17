@@ -26,6 +26,10 @@ Mais écrire pour un seul lecteur n’a guère de sens. Je dois donc m’accepte
 
 Je dois apprendre à vivre l’abondance, je dois la dominer, je dois m’en servir comme une force et ne pas me laisser terroriser par elle. En cas de panique, je dois me réfugier dans mon jardin, je dois me ressourcer, je dois apprendre à devenir un homme numérique, et le chemin ne fait que commencer. Il est épuisant, souvent désespérant, mais les explorateurs des mondes nouveaux sont-ils d’une manière générale moins désespérés ? Arrive un moment où ils ne découvrent plus rien de neuf, et où ils doivent s’installer, construire, et la tentation est grande d’élever les mêmes villes que celles quittées dans l’Ancien Monde.
 
-Ma pensée vagabonde, je cherche un passage du Grand Nord entre d’innombrables icebergs. La glace a toutes les chances de se refermer sur moi, avant que je connaisse à nouveau l’extase. Mais peut-être j’aurais la force de gagner la terre, de la parcourir, de tomber sur un pont ancien… et je serais obligé d’admettre que ce qui est rare me touche avec une force tout aussi rare.
+Ma pensée vagabonde, je cherche un passage du Grand Nord entre d’innombrables icebergs. La glace a toutes les chances de se refermer sur moi, avant que je connaisse à nouveau l’extase. Mais peut-être j'aurais la force de gagner la terre, de la parcourir, de tomber sur un pont ancien… et je serais obligé d'admettre que ce qui est rare me touche avec une force tout aussi rare.
 
-![](https://tcrouzet.com/images_tc/2017/05/pont.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/05/pont.jpg)
+
+
+
+Tags: Libre, NetCulture, une

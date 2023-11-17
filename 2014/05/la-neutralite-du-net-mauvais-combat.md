@@ -1,6 +1,6 @@
 # La neutralité du Net, mauvais combat
 
-Comment être contre la neutralité en général ? Neutralité de la justice, de l’éducation, de la santé… Autant dire comment être contre l’idée de traiter à égalité chaque être humain ? Pour certains, c’est très facile. Leur argument : « Il n’ont qu’à travailler aussi dur que nous et alors ils mériteront les mêmes droits que nous. » Pour d’autres, dont je suis, il est évident que le libre arbitre n’est pas également distribué. [Pour commencer, il n’y a pas d’égalité devant la liberté.](https://tcrouzet.com/2013/10/18/quest-ce-que-la-liberte/)<span id="more-35390"></span>
+Comment être contre la neutralité en général ? Neutralité de la justice, de l’éducation, de la santé… Autant dire comment être contre l’idée de traiter à égalité chaque être humain ? Pour certains, c’est très facile. Leur argument : « Il n’ont qu’à travailler aussi dur que nous et alors ils mériteront les mêmes droits que nous. » Pour d’autres, dont je suis, il est évident que le libre arbitre n’est pas également distribué. [Pour commencer, il n’y a pas d’égalité devant la liberté.](http://blog.tcrouzet.com/2013/10/18/quest-ce-que-la-liberte/)<span id="more-35390"></span>
 
 Cette inégalité première engendre une réaction en chaîne, une démultiplication des inégalités qui ne peut être combattue que par des principes de neutralité instaurés législativement dans la société. Je suis donc un défenseur de la neutralité en général, et donc de la neutralité du Net. Reste à savoir comment atteindre cet objectif.
 
@@ -8,9 +8,8 @@ Aujourd’hui, par neutralité du Net, on attend une égalité des tuyaux. Les f
 
 Nous avons longtemps connu cette forme de neutralité. C’est terminé. [Aux États-Unis, des *fast lanes* payantes vont être probablement ouvertes.](http://www.newyorker.com/online/blogs/elements/2014/04/the-end-of-net-neutrality.html) Si demain cet internet à deux vitesses arrive en Europe, je devrais payer pour que vous chargiez mes pages à une vitesse acceptable. Alors Internet sera le domaine des caïds, un monde comme avant, un monde où les petits n’auront plus leur mot à dire.
 
-Malheureusement, c’est déjà le cas, avant même que la neutralité du Net ne soit bafouée. Les caïds ont accès à des protocoles auxquels nous n’avons pas accès, [comme l’explique merveilleusement Olivier Auber](https://www.youtube.com/watch?v=wmD2WOQI8qU). Par ailleurs, vous chargez déjà bien plus vite les pages de Google que les miennes, mais pas à cause d’une histoire de bande passante, peu vitale pour les sites d’actualité. Une grande part de la vitesse dépend de la vitesse de construction de la page avant même qu’elle soit expédiée. Plus on a de grosses machines en amont, plus un site est performant. Et cette puissance est d’autant plus nécessaire que le Web se socialise.
+Malheureusement, c’est déjà le cas, avant même que la neutralité du Net ne soit bafouée. Les caïds ont accès à des protocoles auxquels nous n'avons pas accès, [comme l'explique merveilleusement Olivier Auber](https://www.youtube.com/watch?v=wmD2WOQI8qU). Par ailleurs, vous chargez déjà bien plus vite les pages de Google que les miennes, mais pas à cause d’une histoire de bande passante, peu vitale pour les sites d’actualité. Une grande part de la vitesse dépend de la vitesse de construction de la page avant même qu’elle soit expédiée. Plus on a de grosses machines en amont, plus un site est performant. Et cette puissance est d’autant plus nécessaire que le Web se socialise.
 
-<div class="iframe" id="iframe5"></div>
 On en revient à la liberté. Google a plus de liberté technique que moi, nous ne sommes pas à égalité sur le Net et introduire des *fast lanes* ne fera qu’accroître un déséquilibre déjà gigantesque.
 
 D’ailleurs, les *fast lanes* existent depuis quelques années. Et pour tout vous avouer, j’en utilise une, par chance encore offerte gratuitement. Toutes mes pages sont mises en cache par [CloudFlare](https://www.cloudflare.com). Si je veux plus de vitesse, je peux déjà payer. Et tous les gros sites payent, et Google dispose de ses propres technologies de cache.
@@ -33,6 +32,10 @@ Quelques pistes…
 
 6. Le combat de la neutralité est financier et législatif, pas technique. Aucune mesure technique ne réglera ce problème parce que la technique dépasse sans cesse la technique (évolution exponentielle). La technique est inégalitaire, par nature, puisqu’elle se propage dans la population par saccade. Rien n’empêchera Google de tirer ses propres câbles (ou lancer des satellites) et de contourner les providers, et donc une loi sur la neutralité des tuyaux.
 
-7. Il faut donc redéfinir ce que nous entendons par neutralité du Net. Un Net neutre, c’est un Net commun. Un bien commun doit s’entrenir, comme un jardin. Il est dynamique et implique un combat constant contre les herbes folles.
+7. Il faut donc redéfinir ce que nous entendons par neutralité du Net. Un Net neutre, c’est un Net commun. Un bien commun doit s'entrenir, comme un jardin. Il est dynamique et implique un combat constant contre les herbes folles.
 
-![Net Neutrality is Under Attack par Free Press Pics](https://tcrouzet.com/images_tc/2014/05/netneutrality.png)
+![Net Neutrality is Under Attack par Free Press Pics](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/netneutrality.png)
+
+
+
+Tags: NetCulture, une

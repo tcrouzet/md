@@ -1,6 +1,6 @@
 # Allons-nous vers un monde meilleur ?
 
-Quand j’évoque la transition sociale vers les réseaux, je ne la décris jamais en en termes de bien ou de mal. J’estime simplement que le [le modèle pyramidal](https://tcrouzet.com/2008/11/28/la-nature-de-la-transition/) n’est pas durable. Nous devons repenser notre société globale pour survivre à neuf milliards dans un monde actuellement fini.
+Quand j’évoque la transition sociale vers les réseaux, je ne la décris jamais en en termes de bien ou de mal. J’estime simplement que le [le modèle pyramidal](http://blog.tcrouzet.com/2008/11/28/la-nature-de-la-transition/) n’est pas durable. Nous devons repenser notre société globale pour survivre à neuf milliards dans un monde actuellement fini.
 
 Les réseaux peuvent défendre leurs intérêts avec autant de force que les pyramides. Les réseaux peuvent entrer en conflit. Les réseaux peuvent se fermer. La biosphère s’appuie sur des réseaux et elle a inventé nombre d’horreurs. Je ne parle pas d’un nouveau monde de gentils. L’US army tente d’ailleurs de se restructurer en réseau pour répondre aux agressions terroristes. Les réseaux me paraissent juste une réponse souvent mieux adaptées que le pyramidal à la situation contemporaine.
 
@@ -25,3 +25,5 @@ Si on a dix chefs différents, on n’a plus vraiment de chef. Quand on est arti
 Dans une société pyramidale, dominée par de grandes entreprises, les plus petites entreprises dépendent exclusivement des grosses, et les artisans des petites entreprises. Il y a une relation de dépendance hiérarchique.
 
 Si les consommateurs finaux commencent à contacter directement les artisans, nous entrons dans un phénomène de longue traîne qui, s’il se développe, peut conduire à une reconfiguration générale de l’économie.
+
+Tags: Connecteur

@@ -1,6 +1,6 @@
 # 16 raisons pour lesquelles nous entrons en décadence
 
-Au cours de sa longue vie, [*Ératosthène*](https://tcrouzet.com/eratosthene/) a connu l’âge d’or d’Alexandrie et sa chute. Quand on le suit, on comprend comment une civilisation prospère puis s’effondre. C’est une histoire en modèle réduit, une sorte de compression édifiante, une accélération de ce qui nous attend peut-être, avec des analogies terrifiantes.<span id="more-37126"></span>
+Au cours de sa longue vie, [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/) a connu l’âge d’or d’Alexandrie et sa chute. Quand on le suit, on comprend comment une civilisation prospère puis s’effondre. C’est une histoire en modèle réduit, une sorte de compression édifiante, une accélération de ce qui nous attend peut-être, avec des analogies terrifiantes.<span id="more-37126"></span>
 
 1. Succès monumental du livre d’une ex-première dame, au comble du voyeurisme, d’une plongée atone dans l’existence d’êtres sans intérêt, et qui pourraient être chacun de nous. Passion morbide pour les détails sans originalité.
 
@@ -33,3 +33,5 @@ Au cours de sa longue vie, [*Ératosthène*](https://tcrouzet.com/eratosthene/) 
 15. Développement technologique exacerbé comme s’il pouvait se substituer à celui des consciences. Nouvelle cassure irrémédiable.
 
 16. Succès de l’écriture par liste, atomisation du journalisme et de la littérature, réduction de l’écrit à l’ânonnement.
+
+Tags: buzzlitt, une

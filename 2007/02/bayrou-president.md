@@ -30,18 +30,20 @@ En France, François Bayrou était un outsider insignifiant jusqu’à ce que, e
 
 La graine germa, prospéra, donna naissance à de belles plantations. Dans les cafés, on commença à se dire : « Et s’il n’y avait pas que Ségo et Sarko ? Et s’il y avait une autre possibilité ? »
 
-Après tout, l’UMP est au pouvoir, Sarko est au pouvoir et il ne fait pas des miracles en ce moment. Beaucoup de gens de droite, libéraux dans l’âme, n’aiment pas Sarko qui prône le libéralisme économique d’une main et l’État policier de l’autre, deux politiques dans une large mesure inconciliables.
+Après tout, l'UMP est au pouvoir, Sarko est au pouvoir et il ne fait pas des miracles en ce moment. Beaucoup de gens de droite, libéraux dans l’âme, n’aiment pas Sarko qui prône le libéralisme économique d’une main et l’État policier de l’autre, deux politiques dans une large mesure inconciliables.
 
 De son côté, Ségo après des mois de débats participatifs a accouché du même programme que Lionel Jospin en 2002, concession évidente aux traditionnalistes du PS, mêmes traditionnalistes qui ont tenu le pouvoir il n’y a pas si longtemps sans faire de miracles.
 
 Donc, peu à peu, l’idée qu’il serait temps d’essayer autre chose a germé dans l’esprit des Français et François Bayrou est venu naturellement incarner le renouveau enfin possible. En prônant l’union nationale, il veut réconcilier les deux France, celle de gauche et celle de droite.
 
-![](https://tcrouzet.com/images_tc/200702blogpulse.gif)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200702blogpulse.gif)
 
-Cette idée il ne l’a pas imposée, il l’a juste semée. Le cinquième pouvoir s’en est emparé, il l’a diffusée lentement. Aujourd’hui, elle remonte par percolation comme l’eau dans une cafetière, elle finit par atteindre la surface, et les Ségo-Sarko comme les médias ne peuvent plus l’ignorer. Alors ils la répètent, la consolident. Mais elle n’est pas née grâce à eux, elle n’a pas été calculée par eux mais par le cinquième pouvoir lui-même.
+Cette idée il ne l’a pas imposée, il l'a juste semée. Le cinquième pouvoir s’en est emparé, il l’a diffusée lentement. Aujourd’hui, elle remonte par percolation comme l’eau dans une cafetière, elle finit par atteindre la surface, et les Ségo-Sarko comme les médias ne peuvent plus l’ignorer. Alors ils la répètent, la consolident. Mais elle n’est pas née grâce à eux, elle n’a pas été calculée par eux mais par le cinquième pouvoir lui-même.
 
-Chacun de nous a ainsi un pouvoir immense : celui d’influencer ses amis… amis qui grâce à internet peuvent se trouver à l’autre bout du monde, amis que nous n’avons même pas besoin de connaître. Tout commence au niveau local, tout commence par un ancrage profond. Sur ce substrat solide, à partir d’une multitude de ports d’attache, le buzz va se nourrir. Ainsi, le cinquième pouvoir ne décide pas du sort d’une élection mais il peut, à force d’échanges, faire émerger une tendance qui s’auto-renforce jusqu’à devenir effective.
+Chacun de nous a ainsi un pouvoir immense : celui d’influencer ses amis… amis qui grâce à internet peuvent se trouver à l’autre bout du monde, amis que nous n'avons même pas besoin de connaître. Tout commence au niveau local, tout commence par un ancrage profond. Sur ce substrat solide, à partir d’une multitude de ports d’attache, le buzz va se nourrir. Ainsi, le cinquième pouvoir ne décide pas du sort d’une élection mais il peut, à force d’échanges, faire émerger une tendance qui s’auto-renforce jusqu’à devenir effective.
 
 Je crois que nous sommes en train d’assister à ce processus en France. Je crois que Bayrou, presque malgré lui, se retrouve peu à peu porté par une force née en profondeur, dans les nappes phréatiques les plus viscérales de la société.
 
-Cette force est en train d’atteindre sa maturité. À François Bayrou de l’irriguer maintenant et de ne pas en [décevoir les attentes](https://tcrouzet.com/2007/02/18/je-vote-bayrou-au-second-tour/) comme vient de le faire [Ségolène Royal avec la génération participation](https://tcrouzet.com/2007/02/12/segolene-l%e2%80%99impossible-synthese/). Il y a du travail, un immense travail, à commencer par celui de proposer un vrai programme alternatif que nous attendons encore. Pour le moment, une dynamique positive est à l’œuvre. Il serait bête de ne pas le reconnaître, bête pour François Bayrou de ne pas voir le tas d’or sur lequel il est assis.
+Cette force est en train d’atteindre sa maturité. À François Bayrou de l’irriguer maintenant et de ne pas en [décevoir les attentes](http://blog.tcrouzet.com/2007/02/18/je-vote-bayrou-au-second-tour/) comme vient de le faire [Ségolène Royal avec la génération participation](http://blog.tcrouzet.com/2007/02/12/segolene-l%e2%80%99impossible-synthese/). Il y a du travail, un immense travail, à commencer par celui de proposer un vrai programme alternatif que nous attendons encore. Pour le moment, une dynamique positive est à l'œuvre. Il serait bête de ne pas le reconnaître, bête pour François Bayrou de ne pas voir le tas d'or sur lequel il est assis.
+
+Tags: Politique

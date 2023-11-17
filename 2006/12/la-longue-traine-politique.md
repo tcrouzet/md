@@ -1,6 +1,6 @@
 # La longue traîne politique
 
-J’ai déjà parlé en public trois fois de la longue traîne en politique : devant [la jeune chambre économique](https://tcrouzet.com/2006/11/15/avant-premiere/), à [Science Po](https://tcrouzet.com/2006/12/05/cinquiemes-matinees-de-l%e2%80%99afcap/) et lors du [LeWeb3](http://www.leweb3.com), chaque fois très vite, ce qui ne m’a permis que d’exposer l’idée générale.<span id="more-298"></span>
+J’ai déjà parlé en public trois fois de la longue traîne en politique : devant [la jeune chambre économique](http://blog.tcrouzet.com/2006/11/15/avant-premiere/), à [Science Po](http://blog.tcrouzet.com/2006/12/05/cinquiemes-matinees-de-l%e2%80%99afcap/) et lors du [LeWeb3](http://www.leweb3.com), chaque fois très vite, ce qui ne m’a permis que d’exposer l’idée générale.<span id="more-298"></span>
 
 Je consacre à ce sujet un chapitre dans *Le cinquième pouvoir*. Résumé : comme dans la consommation on line, une longue traîne est en train d’apparaître en politique. Nous avons de plus de en plus de candidats qui récoltent de moins en moins de voix. C’est un changement profond dans la nature même de la démocratie, c’est, à mon sens, un pas vers plus de démocratie.
 
@@ -16,6 +16,8 @@ Bricmont reproche aux spécialistes des sciences humaines, ce que je ne suis pas
 
 Je n’ai pas l’impression d’avoir fait la même chose. La longue traîne n’est pas une théorie mais juste une observation dans le domaine de la consommation, donc celui des comportements humains. J’ai fait la même observation dans un autre domaine des comportements humains, les électeurs lors d’un scrutin électoral.
 
-Pour répondre aussi à [ntiourtite sur le blog de Place de la démocratie](http://xmo.blogs.com/pdld/2006/12/leweb3_thierry__1.html), je n’ai pas décidé qu’il y avait une longue traîne en politique, je l’ai trouvée, je n’y peux rien, elle est là que vous le vouliez ou non, n’importe qui peut tracer la courbe. Ça ne veut pas dire qu’elle sera là en 2007. Je crois juste que nous allons vers plus de choix politiques. Les intérêts pour les citoyens sont énormes. Je m’explique dans le livre. La longue traîne implique un nouveau régime démocratique dominé par la collaboration et le participatif, la fin de l’oligarchie.
+Pour répondre aussi à [ntiourtite sur le blog de Place de la démocratie](http://xmo.blogs.com/pdld/2006/12/leweb3_thierry__1.html), je n’ai pas décidé qu’il y avait une longue traîne en politique, je l’ai trouvée, je n’y peux rien, elle est là que vous le vouliez ou non, n'importe qui peut tracer la courbe. Ça ne veut pas dire qu’elle sera là en 2007. Je crois juste que nous allons vers plus de choix politiques. Les intérêts pour les citoyens sont énormes. Je m’explique dans le livre. La longue traîne implique un nouveau régime démocratique dominé par la collaboration et le participatif, la fin de l’oligarchie.
 
 *PS : Beaucoup de choses qui seront dans le livre ont déjà été dites ici, mais beaucoup d’autres non, l’essentiel même. J’essaie d’utiliser le blog comme un laboratoire en amont et en aval du livre, je n’aime pas m’y répéter, parce que certaines choses demandent beaucoup de pages… et que le blog n’est pas approprié.*
+
+Tags: Politique

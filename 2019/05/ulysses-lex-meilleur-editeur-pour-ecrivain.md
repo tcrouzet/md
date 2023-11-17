@@ -4,7 +4,7 @@ Après avoir vanté [Ulysses](https://ulysses.app/), après avoir basculé sur M
 
 Pour commencer, Ulysses est une solution qui reste uniquement Mac. Quand on sait que depuis quelques années les MacBook ont les pires claviers du marché, on comprend qu’ils ne sont plus adaptés pour les écrivains, mais Ulysses n’envisage toujours pas de basculer sur Windows. Je n’ai plus envie d’une application qui m’emprisonne sur un système qui n’est plus adapté à mes usages. Bien sûr, ça peut changer du côté d’Apple, mais depuis trois ans rien ne change. Le clavier papillon de mon MacBookPro 2018 donne déjà des signes de faiblesse après moins d’un an d’utilisation peu intensive en Floride. Les touches Maj et N s’effacent, la touche A est rétive et j’ai toujours aussi mal à la pulpe des doigts qu’au premier jour. On a beau dire qu’on s’habitue à tout, je ne m’habitue pas au clavier papillon des Mac.
 
-![Touche Maj et N de mon MacBookPro 2018](https://tcrouzet.com/images_tc/2019/05/P1090726-600x450.jpg)
+![Touche Maj et N de mon MacBookPro 2018](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/P1090726-600x450.jpg)
 
 Pour Ulysses, refuser de regarder du côté de Windows, c’est refuser de s’intéresser vraiment aux auteurs professionnels, c’est mépriser son cœur de cible (à moins que cette cible ait changé en cours de route).
 
@@ -12,7 +12,7 @@ D’autres choses ont changé. Les raccourcis. Sur mon Mac, je faisais Maj+Ctrl+
 
 Plus grave, Ulysses repositionne mon curseur en haut de document quand je change de feuille d’un simple clic. C’est un peu comme si quand on changeait de tâche sur son ordi on perdait chaque fois le contexte. Chez Ulysses, ils me disent que c’est un comportement normal, qu’il faut double-cliquer pour revenir au point d’origine (dans ce cas Ulysses voudrait réinventer l’ergonomie). Ils se fichent de nous, mais une fois par an nous piquent des tunes maintenant qu’ils sont passés à un modèle par abonnement.
 
-![Remise en forme du Markdown Ulysses](https://tcrouzet.com/images_tc/2019/05/script-600x342.png)
+![Remise en forme du Markdown Ulysses](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/05/script-600x342.png)
 
 Un autre manquement me pèse. Quand on exporte en Markdown, Ulysses ne propose pas d’option pour ajouter automatiquement un saut de ligne en fin de paragraphe. Problème, sans ce saut, WordPress et les autres éditeurs Markdown ne voient pas les paragraphes, mais un seul bloc de texte. J’ai dû bidouiller un script pour remettre en forme mes textes avant de les coller dans l’éditeur [WP Githuber MD](https://wordpress.org/plugins/wp-githuber-md/) de WordPress.
 
@@ -45,3 +45,5 @@ Ce qui manque à Ulysses :
 - Travail collaboratif avec système de suivi des corrections.
 
 Si Ulysses sautait sur Windows, clarifiait sa structure de fichiers et disposait d’un mode collaboratif, il ferait un énorme bond en avant et il deviendrait l’éditeur de texte incontournable. Mais je sens que quelque chose bloque, sans doute un manque de moyens, qui empêche son déploiement à grande échelle. Ça me laisse une certaine appréhension. Je vais lui rester fidèle tant que je ne me débarrasse pas de mon MacBookPro 2018, mais, lorsque je changerai de machine, je ne prendrai plus Ulysses en considération.
+
+Tags: Critique, une

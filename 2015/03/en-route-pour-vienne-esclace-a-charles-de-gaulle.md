@@ -20,4 +20,8 @@ La philosophie viciée de Proust lui a dicté une grande œuvre : il avait la c
 
 Quand je dévale une piste en ski, je suis aussi heureux que quand j’écris. Je ne crois pas qu’il existe d’expérience supérieure. L’écriture est un moyen pour moi de quêter l’extraordinaire dans chaque instant. C’est mon télescope, mon microscope, mon prisme à décomposer la réalité en ses atomes. Pas question de placer au-dessus de cette accumulation de riens un pontife quelconque, même nommé art. Parce qu’ensuite au nom de cette puissance, d’autres réclament un trône et exigent de nous des courbettes et bientôt des services.
 
-![Décollage Montpellier.](https://tcrouzet.com/images_tc/2015/03/cdg.jpg)
+![Décollage Montpellier.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/cdg.jpg)
+
+
+
+Tags: une, vagabondage

@@ -12,8 +12,12 @@ Nous sommes des cibles vulnérables. Nous ne gagnons pas d’argent avec nos mé
 
 Tout ce que va gagner *Le Parisien*, c’est de perdre encore des lecteurs, et de jeter le discrédit sur ce qui pourrait encore être sauvé, de son côté.
 
-Je me demande si cette attaque stupide ne cache pas quelque chose d’encore plus grave : à cause de la toute-puissance de Google, les acteurs du web se battent sur les mots, sur les adjectifs, sur les consonances pour attraper les internautes. Voilà où *The Parisienne* doit faire mal au *Parisien*. Impuissant à endiguer l’hémorragie ouverte dans les kiosques, le journal n’a d’autre voie de salut que le Net, où les gens ne vont pas à lui naturellement, mais grâce à Google. Et voilà où *The Parisienne* leur nuit peut-être. Je ne fais qu’une hypothèse, qui si elle s’avère juste, risque d’éclabousser plus d’un blogueur. C’est le langage, nos mots, que certains voudraient mettre sous copyright.
+Je me demande si cette attaque stupide ne cache pas quelque chose d’encore plus grave : à cause de la toute-puissance de Google, les acteurs du web se battent sur les mots, sur les adjectifs, sur les consonances pour attraper les internautes. Voilà où *The Parisienne* doit faire mal au *Parisien*. Impuissant à endiguer l’hémorragie ouverte dans les kiosques, le journal n’a d’autre voie de salut que le Net, où les gens ne vont pas à lui naturellement, mais grâce à Google. Et voilà où *The Parisienne* leur nuit peut-être. Je ne fais qu’une hypothèse, qui si elle s’avère juste, risque d’éclabousser plus d’un blogueur. C'est le langage, nos mots, que certains voudraient mettre sous copyright.
 
-Je crois malheureusement que si *Le Parisien* ne retire pas sa plainte nous serons collectivement forcés d’appeler au boycott. Assez terrible de constater que de nombreux politiciens, médias, entrepreneurs n’ont pas encore mesuré la puissance du Net et se prennent les pieds dans son tapis. Réveillez-vous, vous n’êtes plus des intouchables.
+Je crois malheureusement que si *Le Parisien* ne retire pas sa plainte nous serons collectivement forcés d’appeler au boycott. Assez terrible de constater que de nombreux politiciens, médias, entrepreneurs n'ont pas encore mesuré la puissance du Net et se prennent les pieds dans son tapis. Réveillez-vous, vous n’êtes plus des intouchables.
 
-![theparisienne](https://tcrouzet.com/images_tc/2014/08/theparisienne.jpg)
+![theparisienne](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/theparisienne-600x222.jpg)
+
+
+
+Tags: NetCulture, une

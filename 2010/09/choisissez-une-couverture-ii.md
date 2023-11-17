@@ -1,23 +1,25 @@
 # Choisissez une couverture II
 
-Après que vous ayez préféré le poisson rouge parmi [les choix proposés par Pacco](https://tcrouzet.com/2010/09/20/choisissez-votre-couverture-preferee/), j’ai monté quelques couvertures avec l’image finale. Encore une fois vous pouvez donner votre avis, voire proposer vos propres variations. Je diffuse aussi ces images pour que Pacco me dise ce qu’il en pense.<span id="more-19390"></span>
+Après que vous ayez préféré le poisson rouge parmi [les choix proposés par Pacco](http://blog.tcrouzet.com/2010/09/20/choisissez-votre-couverture-preferee/), j'ai monté quelques couvertures avec l'image finale. Encore une fois vous pouvez donner votre avis, voire proposer vos propres variations. Je diffuse aussi ces images pour que Pacco me dise ce qu'il en pense.<span id="more-19390"></span>
 
 ### Minimaliste
 
-![](https://tcrouzet.com/images_tc/2010/09/idc1.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/idc1.png)
 
 ### Typo désaxée, fond rouge
 
-![](https://tcrouzet.com/images_tc/2010/09/idc2.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/idc2.png)
 
 ### Sous-titre en habillage, fond rouge
 
-![](https://tcrouzet.com/images_tc/2010/09/idc3.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/idc3.png)
 
 ### Sous-titre en habillage, fond blanc
 
-![](https://tcrouzet.com/images_tc/2010/09/idc4.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/idc4.png)
 
 ### Tentative de coloriage
 
-![](https://tcrouzet.com/images_tc/2010/09/idc5.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/idc5.png)
+
+Tags: Cuisine

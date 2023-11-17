@@ -4,7 +4,7 @@
 
 ### Mercredi 2, Balaruc
 
-Un temps pas de saison, gris, humide… Une journée de tournage à la maison, où il faut quitter les lieux. Une journée où je récupère de nouvelles lunettes qui me donnent la nausée. Je boucle le premier jet du tome 1 de l’édition définitive de *One Minute*, sortie début novembre. Il y a des jours de flottement dans l’incertitude, tant émotionnelle que climatique.
+Un temps pas de saison, gris, humide… Une journée de tournage à la maison, où il faut quitter les lieux. Une journée où je récupère de nouvelles lunettes qui me donnent la nausée. Je boucle le premier jet du tome 1 de l'édition définitive de *One Minute*, sortie début novembre. Il y a des jours de flottement dans l’incertitude, tant émotionnelle que climatique.
 
 ### Jeudi 3, Balaruc
 
@@ -12,7 +12,7 @@ Des compétiteurs amateurs se plaignent du prix de plus en plus exorbitant des �
 
 ### Vendredi 4, Balaruc
 
-![Dans la Gardiole](https://tcrouzet.com/images_tc/2021/07/IMG_9918.jpeg)
+![Dans la Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_9918.jpeg)
 
 ### Samedi 5, Balaruc
 
@@ -22,11 +22,11 @@ Déconfinement, concerts, bains de foule, j’ai du mal à comprendre pourquoi m
 
 Chateaubriand écrit « Si, continuant mon voyage, j’eusse allumé ma pipe avec le journal qui a changé ma vie, personne ne se fût aperçu de mon absence ; ma vie était alors aussi ignorée et ne pesait pas plus que la fumée de mon calumet. » Il y a chez lui l’illusion d’avoir pesé dans l’histoire, que donc des vies comptent plus que d’autres, un point de vue pour moi inacceptable. Que personne ne s’aperçoive de la présence de quelqu’un ne signifie pas que sa vie ne compte pas, peut-être même au contraire, certains présents faisant souvent beaucoup de bruit pour rien. Nous ignorons tout des vies sublimes consacrées à la pure jouissance, trop heureuses pour perdre du temps à autre chose qu’au pur bonheur.
 
-![Douceur](https://tcrouzet.com/images_tc/2021/07/IMG_9925.jpeg)
+![Douceur](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_9925.jpeg)
 
 ### Dimanche 6, Balaruc
 
-![Le chemin parfait](https://tcrouzet.com/images_tc/2021/07/IMG_9930-1.jpeg)
+![Le chemin parfait](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_9930-1.jpeg)
 
 ### Mardi 8, Balaruc
 
@@ -42,7 +42,7 @@ Retravailler *One Minute* pour préparer la publication me prend plus de temps q
 
 ### Lundi 7, Balaruc
 
-![Cournonteral](https://tcrouzet.com/images_tc/2021/07/IMG_9935.jpeg)
+![Cournonteral](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_9935.jpeg)
 
 ### Mercredi 9, Balaruc
 
@@ -78,13 +78,13 @@ Je dépose Tim au lycée. Bac de français pour lui. J’ai peu de souvenirs du 
 
 ### Vendredi 18, Balaruc
 
-![Tour de l'étang avec Isa](https://tcrouzet.com/images_tc/2021/07/IMG_9950.jpeg)
+![Tour de l'étang avec Isa](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_9950.jpeg)
 
-![Flamands](https://tcrouzet.com/images_tc/2021/07/IMG_9957.jpeg)
+![Flamands](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/07/IMG_9957.jpeg)
 
 ### Samedi 19, Balaruc
 
-Je m’échine sur chaque page de *One Minute*, et je vois des auteurs, souvent de genre, se gargariser des 1 ou 2 millions de signes de leur nouveau roman, comme si nous les vendions au kilo. Depuis quand le poids d’un livre a une quelconque importance littéraire ? Depuis quand représente-t-il quelque chose ? Cette façon de compter ne dit même rien du travail. Un texte de 200 pages peut avoir été réécrit dix fois et un de 1 000 avoir jailli d’un jet. Où quand même la littérature n’échappe plus au quantitatif.
+Je m’échine sur chaque page de *One Minute*, et je vois des auteurs, souvent de genre, se gargariser des 1 ou 2 millions de signes de leur nouveau roman, comme si nous les vendions au kilo. Depuis quand le poids d’un livre a une quelconque importance littéraire ? Depuis quand représente-t-il quelque chose ? Cette façon de compter ne dit même rien du travail. Un texte de 200 pages peut avoir été réécrit dix fois et un de 1 000 avoir jailli d'un jet. Où quand même la littérature n’échappe plus au quantitatif.
 
 ### Merdredi 23, Balaruc
 
@@ -93,3 +93,5 @@ Je m’échine sur chaque page de *One Minute*, et je vois des auteurs, souvent 
 ### Samedi 26, Balaruc
 
 *One Minute*, toujours *One Minute*, maintenant presque trois mois que je ne fais que réviser mon roman, dont la polyphonie m’écrase parfois. Je ne pense à rien d’autre.
+
+Tags: Carnets, une

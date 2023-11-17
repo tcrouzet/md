@@ -25,3 +25,5 @@ Iriki suppose que l’apparition de cette conscience du moi, qu’il date chez l
 Pour Iriki cette histoire se poursuit de nos jours. Quels effets auront sur nous les nouveaux outils « métaphysiques » que sont les ordinateurs, les mobiles, Internet et les réseaux ? Peuvent-ils nous transformer en quelques années ? Allons-nous au cours de nos propres existences devenir autres ?
 
 D’une certaine façon, l’homo sapiens sapiens est le fruit de la symbiose des hominidés avec les outils, dont la symbiose avec les ordinateurs n’est que la continuité.
+
+Tags: NetCulture, noepub, Une brève histoire de l'informatique, une

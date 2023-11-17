@@ -12,9 +12,9 @@ Bon ok, souvent nos amis du pouvoir sont sous influences nocives et pas aussi na
 
 On entretient la peur à tout prix, toutes les peurs, celles de la grippe, des terroristes, du réchauffement climatique, du piratage… Tous les moyens sont bons pour policer la société et pour réduire les libertés. Car c’est l’objectif, non pas celui de régler les problèmes sous-tendant la peur.
 
-Pourquoi aujourd’hui ce combat prend des proportions extrêmes ? Parce que nous étions en passe de gagner une liberté immense, jamais connue dans notre histoire, une liberté si extraordinaire qu’elle aurait fait perdre aux hommes de pouvoir encore un peu plus de leur pouvoir, un peu trop vraisemblablement. Réaction peu surprenante : ils luttent bec et ongle pour défendre leur caste. Ce sera un combat sans merci dont [Hadopi](https://tcrouzet.com/tag/hadopi/) n’est qu’une des escarmouches. Nous devons nous élever contre les prohibitions qui n’ont d’autre but que d’entretenir la peur.
+Pourquoi aujourd’hui ce combat prend des proportions extrêmes ? Parce que nous étions en passe de gagner une liberté immense, jamais connue dans notre histoire, une liberté si extraordinaire qu'elle aurait fait perdre aux hommes de pouvoir encore un peu plus de leur pouvoir, un peu trop vraisemblablement. Réaction peu surprenante : ils luttent bec et ongle pour défendre leur caste. Ce sera un combat sans merci dont [Hadopi](http://blog.tcrouzet.com/tag/hadopi/) n’est qu’une des escarmouches. Nous devons nous élever contre les prohibitions qui n’ont d’autre but que d’entretenir la peur.
 
-1. Banalisons ce qui est prohibé (dans le cas Hadopi, l’acte de copier et de partager).
+1. Banalisons ce qui est prohibé (dans le cas Hadopi, l'acte de copier et de partager).
 
 2. Opposons-nous à la répression qui engendre la violence.
 
@@ -25,3 +25,5 @@ Pourquoi aujourd’hui ce combat prend des proportions extrêmes ? Parce que no
 5. Allons devant les assises s’il le faut pour défendre nos droits.
 
 *PS. Doit-on faire encore confiance à des politiciens qui nous ont fabriqué un monde absurde ? Mon fils ainé a une angine depuis quelques jours. Ce matin on appelle le centre aéré pour dire qu’il n’ira pas. On nous demande un certificat médical sinon on devra tout de même payer le centre aéré (8 euros). Ok. Si je fais venir le docteur chez moi pour le certificat, c’est 30 euros… et déplacement en voiture, pollution… et nos politiciens se permettent de légiférer sur internet ! **Billet dédié au 285 connards qui ont voté hier la loi Hadopi.***
+
+Tags: Hadopi

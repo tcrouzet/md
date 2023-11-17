@@ -39,3 +39,5 @@ Maintenant, on peut s'amuser à comparer nos traces, leur longueurs, leur déniv
 ![Presque exhaustif](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/04/grid3.jpg)
 
 *PS : [Wander](https://wandrer.earth/), [Squadrat](https://squadrats.com/) ou [StatsHunter](https://www.statshunters.com/) sont des plugins Strava qui aide à découvrir les recoins ignorés. [Il existe beaucoup d'autres outils cartographiques connectés à Strava](https://tcrouzet.com/2019/03/29/eloge-du-gps/).*
+
+Tags: Born to Bike, Covid, une

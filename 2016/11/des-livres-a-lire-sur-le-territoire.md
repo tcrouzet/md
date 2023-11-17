@@ -30,7 +30,7 @@ La plupart des narrations non-linéaire existantes souffrent du même problème�
 
 Mais ce n’est pas parce que la narration non-linéaire ne marche pas que la lecture non-linéaire est impossible. Le Web nous démontre le contraire. Un blog est typiquement une œuvre non-linéaire. Le lecteur navigue à son gré de billet en billet. Saute sur un autre blog, revient, repart.
 
-Dans [*L’alternative Nomade*](https://tcrouzet.com/alternative-nomade/), j’ai montré qu’Internet s’apparentait à un territoire sur lequel nous redevenons des nomades. Nous nous promenons de site en site, de lien en lien, sans que les auteurs puissent contraindre nos mouvements, et encore moins les anticiper (en théorie).
+Dans [*L’alternative Nomade*](http://tcrouzet.com/alternative-nomade/), j’ai montré qu’Internet s’apparentait à un territoire sur lequel nous redevenons des nomades. Nous nous promenons de site en site, de lien en lien, sans que les auteurs puissent contraindre nos mouvements, et encore moins les anticiper (en théorie).
 
 Le nomadisme étant une caractéristique centrale et fondatrice de la vie numérique (même si Facebook cherche à nous sédentariser), toute œuvre nativement numérique, contrairement à une œuvre homothétique, doit s’inscrire dans cette perspective. Le lecteur doit toujours être en mouvement.
 
@@ -75,3 +75,5 @@ Le texte sera disponible sous forme d’une application iOS et Android. On pourr
 Si l’expérience est concluante, il sera facile pour moi et d’autres auteurs d’envisager de créer d’autres histoires (je développerai une extension Markdown pour faciliter la codification de la narration). Une nouvelle possibilité littéraire s’ouvre à nous : mettre l’espace au service de l’écriture et de la lecture. Utiliser le pouvoir des mots en même temps que la puissance des lieux pour faire vivre aux lecteurs de nouvelles expériences immersives.
 
 On peut rêver. Peut-être que demain les géolectures deviendront aussi symboliques des villes que leurs monuments.
+
+Tags: Géolecture, NetLittérature, une

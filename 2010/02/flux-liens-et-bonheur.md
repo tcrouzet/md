@@ -1,6 +1,6 @@
 # Repenser le Flux par les liens et le bonheur
 
-Je ne suis pas satisfait par la première partie de mon [*Alternative nomade*](https://tcrouzet.com/alternative-nomade/). Quelque chose dans l’idée de Flux est trop flou, pas assez explicite, surtout pas assez fécond. Samedi dernier, j’étais chez [Isabelle Filliozat](http://www.filliozat.net/) et elle m’a demandé pourquoi à mon avis il m’arrivait d’éprouver du bonheur dans le Flux. Je lui ai répondu : « c’est à cause des liens, parce que je me sens lié. »<span id="more-14498"></span>
+Je ne suis pas satisfait par la première partie de mon [*Alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/). Quelque chose dans l’idée de Flux est trop flou, pas assez explicite, surtout pas assez fécond. Samedi dernier, j’étais chez [Isabelle Filliozat](http://www.filliozat.net/) et elle m’a demandé pourquoi à mon avis il m’arrivait d’éprouver du bonheur dans le Flux. Je lui ai répondu : « c’est à cause des liens, parce que je me sens lié. »<span id="more-14498"></span>
 
 Elle m’a alors dit que le bonheur n’était pas compliqué. On l’éprouve quand on se sent lié aux autres et quand on a l’impression d’accomplir quelque chose.
 
@@ -16,7 +16,7 @@ Nos liens doivent nous faire sortir du groupe, ils doivent nous mettre sur la ro
 
 Il me paraît alors important de repenser le Flux en termes de liens, tout cela en essayant de revenir à l’idée initiale de Shannon. Une source (1) encode (2) un message qu’il transforme en signal (3) qui sera décodé (4) par le destinataire (5).
 
-![](https://tcrouzet.com/images_tc/2010/02/fluxlink.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/02/fluxlink.png)
 
 J’ai schématisé le Flux qu’il faut voir comme un processus. Des propulseurs, humains ou robotisés, génèrent des informations, des liens entre les informations existantes ou des liens entre des propulseurs.
 
@@ -32,6 +32,8 @@ Le Flux est une immense architecture de liens, en grande partie dynamiques, qui 
 
 C’est ainsi que se forme un écosystème dans lequel nous injectons notre créativité, créativité à produire les informations et à générer des liens.
 
-Au final, c’est le lien qui est révolutionnaire et le Web ce n’est que ça (pas de 1.0, de 2.0, 3.0… juste le lien… tous le reste n’est que discours détourné sur le lien). Avec le lien nous disposons d’une arme extraordinaire, cette arme jadis utilisée par les intellectuels et les politiciens, aujourd’hui à la portée de tous. Quand des gens se connectent sur Facebook, même si Facebook est une prison centralisatrice, ils créent des liens entre eux qui dépassent Facebook et qui généralisent la structure du Flux hors du Web.
+Au final, c’est le lien qui est révolutionnaire et le Web ce n'est que ça (pas de 1.0, de 2.0, 3.0... juste le lien... tous le reste n'est que discours détourné sur le lien). Avec le lien nous disposons d’une arme extraordinaire, cette arme jadis utilisée par les intellectuels et les politiciens, aujourd’hui à la portée de tous. Quand des gens se connectent sur Facebook, même si Facebook est une prison centralisatrice, ils créent des liens entre eux qui dépassent Facebook et qui généralisent la structure du Flux hors du Web.
 
 La seule question politique aujourd’hui est de savoir si cette nouvelle cathédrale de liens changera ou non la nature de nos sociétés. J’en ai la conviction. Mais nous devons apprendre à maîtriser le lien. Nous devons apprendre à le tracer pour gagner le bonheur en évitant de nous enfermer dans des communautés repliées sur elles-mêmes.
+
+Tags: NetCulture

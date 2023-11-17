@@ -6,7 +6,7 @@
 
 Quand j’écrivais [*Ératosthène*](https://tcrouzet.com/eratosthene/) et forgeais ma conception du généralisme, j’avais en mémoire un roman de Van Vogt lu dans ma jeunesse, où il était question de la même idée, sans réussir à en retrouver le titre. Après avoir lu [le chapitre 8 de mon autobiographie littéraire](https://tcrouzet.com/2021/01/31/histoire-dun-nerdeux-en-litterature-8/), Michel Torres me demande si le lien avec [le nexialisme](https://fr.wikipedia.org/wiki/La_Faune_de_l%27espace#Le_Nexialisme) est voulu, la science inventée par Van Vogt dans *La faune de l’espace*. J’aime ces imprévus provoqués par les mots.<span id="more-58030"></span>
 
-![Soir](https://tcrouzet.com/images_tc/2021/03/10.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/10.jpeg)
 
 ### Mardi 2, Balaruc
 
@@ -40,7 +40,7 @@ Et si c’était le contraire, si ce besoin de lactation n’était que le prél
 
 ---
 
-J’aime être dans un projet suivi, où tous les matins je dois reprendre le train où je l’ai laissé la veille. Alors, quand le démarrage est douloureux, quand le moteur broute à froid, souvent par la suite il ronronne mieux que quand je pars sur les chapeaux de roues. Pour autant, je préfère quand l’écriture s’impose à moi, quand une intuition me déborde et se développe d’elle-même. Si d’abord je tente de la malaxer en moi, elle s’enlise alors qu’en mots je la vois naître sous mes yeux. Un écrivain est tout simplement quelqu’un de plus intelligent quand il écrit que quand il pense. On peut remplacer intelligent par sensible et par bien d’autres qualificatifs. L’écriture augmente l’écrivain. Voilà pourquoi rencontrer des écrivains ne présente guère d’intérêt. Ils apparaissent dans leur banalité diminuée.
+J’aime être dans un projet suivi, où tous les matins je dois reprendre le train où je l’ai laissé la veille. Alors, quand le démarrage est douloureux, quand le moteur broute à froid, souvent par la suite il ronronne mieux que quand je pars sur les chapeaux de roues. Pour autant, je préfère quand l’écriture s’impose à moi, quand une intuition me déborde et se développe d’elle-même. Si d'abord je tente de la malaxer en moi, elle s’enlise alors qu’en mots je la vois naître sous mes yeux. Un écrivain est tout simplement quelqu’un de plus intelligent quand il écrit que quand il pense. On peut remplacer intelligent par sensible et par bien d’autres qualificatifs. L’écriture augmente l’écrivain. Voilà pourquoi rencontrer des écrivains ne présente guère d’intérêt. Ils apparaissent dans leur banalité diminuée.
 
 ### Dimanche 7, Balaruc
 
@@ -48,19 +48,19 @@ Un soir, je finis la journée satisfait, voire exalté, le lendemain soir, alors
 
 ---
 
-Gracq parle des textes qui jadis couvraient les murs des pissotières. J’ai connu la fin de cette époque dans mon enfance, où le texte gardait toute sa puissance. Désormais, les hommes pissent assis pour regarder leur téléphone. Excepté des artistes nostalgiques, plus personne n’a envie d’écrire sur les murs.
+Gracq parle des textes qui jadis couvraient les murs des pissotières. J’ai connu la fin de cette époque dans mon enfance, où le texte gardait toute sa puissance. Désormais, les hommes pissent assis pour regarder leur téléphone. Excepté des artistes nostalgiques, plus personne n'a envie d’écrire sur les murs.
 
 ---
 
 Dans mon carnet, j’écris comme je pisse, quand l’envie s’en fait sentir. Je peux parler d’un coucher de soleil, puis d’une promenade, puis de mon dégoût de nos organisations sociales sclérosées. Parfois le flux dans mon cerveau exige les mots, souvent en cascade, puis plus rien durant quelques jours.
 
-La pratique du carnet s’apparente à la transcription des rêves. Plus j’écris dans le carnet, plus j’ai envie d’y écrire (et plus j’écris mes rêves, plus je rêve). Toute écriture est physique, au sens où elle s’entraîne comme un muscle, puis survient d’elle-même, puisant dans le réservoir mystérieux d’une combinatoire infinie.
+La pratique du carnet s'apparente à la transcription des rêves. Plus j'écris dans le carnet, plus j'ai envie d'y écrire (et plus j'écris mes rêves, plus je rêve). Toute écriture est physique, au sens où elle s’entraîne comme un muscle, puis survient d’elle-même, puisant dans le réservoir mystérieux d’une combinatoire infinie.
 
 Si un jour je produis une œuvre stupéfiante, je le devrais à un coup de chance. Quelques alignements bénéfiques m’auront entraîné sur ce terrain. Au contraire, un romancier à succès déroule une mécanique dont toutes les étapes sont déjà connues de lui et de ses lecteurs. Un contrat les lie et explique leur passion passagère.
 
 Je commence sans canevas, sans concordat avec mon futur lecteur, nous devons tout apprendre ensemble, travailler ensemble, connaître au même moment la jouissance de la découverte. Nous serons quelque temps des compagnons de route. J’écris comme je pédale, pour partager des moments.
 
-![Pic Saint Lou](https://tcrouzet.com/images_tc/2021/03/175.jpeg)
+![Pic Saint Lou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/175.jpeg)
 
 ### Lundi 8, Balaruc
 
@@ -68,9 +68,9 @@ Je commence sans canevas, sans concordat avec mon futur lecteur, nous devons tou
 
 ---
 
-Un critique ne parle de la magnificence d’un style qu’en référence à un autre de déjà connu.
+Un critique ne parle de la magnificence d’un style qu'en référence à un autre de déjà connu.
 
-![Sète](https://tcrouzet.com/images_tc/2021/03/179.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/179.jpeg)
 
 ### Mardi 9, Balaruc
 
@@ -88,7 +88,7 @@ Plus je vieillis, plus le « je » s’impose, parce que j’écris ce que je 
 
 Il y a deux Gracq, celui du « je », celui du « nous », qui généraliste, théorise, et me touche beaucoup moins, parce que peut-être il ne me prend pas par la main dans son cheminement, mais m’en expose avec trop de froideur le résultat, oubliant la poésie, les heureuses rencontres, les aléas qui devront être écartés du produit final. J’aime le Gracq mathématicien, qui a besoin de faire des calculs dans les marges, des ratures, de recommencer, pas celui qui m’expose une belle démonstration impeccable et me cache son échafaudage intérieur.
 
-Tim a souvent ce problème avec ses cours de maths. Il me demande comment les mathématiciens ont fait pour découvrir qu’il fallait passer par là et là pour arriver à telle démonstration. Je suis souvent obligé de lui avouer que le découvreur a suivi un tout autre chemin et que ses professeurs proposent une démonstration arbitraire, qui fonctionne, mais n’a aucun sens épistémologique. Privée de son histoire, une démonstration n’a plus beaucoup d’humanité en elle.
+Tim a souvent ce problème avec ses cours de maths. Il me demande comment les mathématiciens ont fait pour découvrir qu’il fallait passer par là et là pour arriver à telle démonstration. Je suis souvent obligé de lui avouer que le découvreur a suivi un tout autre chemin et que ses professeurs proposent une démonstration arbitraire, qui fonctionne, mais n’a aucun sens épistémologique. Privée de son histoire, une démonstration n'a plus beaucoup d'humanité en elle.
 
 L’atelier ne devrait jamais être caché. Il n’y a pas pire mensonge que faire croire au génie parce qu’alors il ne subsiste que la froideur pétrifiante. J’ai trop souvent paru inhumain à force de nettoyer mes textes au point de les désincarner. Je n’ai plus peur de me montrer laborieux. J’accepte les phrases toutes plates, parce que sans elles il n’y aurait pas de cols, pas de montagnes sans vallées pour les creuser.
 
@@ -96,13 +96,13 @@ L’atelier ne devrait jamais être caché. Il n’y a pas pire mensonge que fai
 
 Facebook me révèle la crasse bêtise de certains commentateurs, passant à côté d’un texte, révélant leur totale incompréhension, et donc leur bêtise, sans même s’en apercevoir, et attirant comme des mouches d’autres imbéciles. Phénomène dont l’observation n’en finit pas de me fasciner.
 
-![Matin](https://tcrouzet.com/images_tc/2021/03/IMG_7627.jpeg)
+![Matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7627.jpeg)
 
 ### Jeudi 11, Balaruc
 
-![Sérignan](https://tcrouzet.com/images_tc/2021/03/IMG_7655-1.jpeg)
+![Sérignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7655-1.jpeg)
 
-![Sérignan](https://tcrouzet.com/images_tc/2021/03/IMG_7675.jpeg)
+![Sérignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7675.jpeg)
 
 ### Vendredi 12, Balaruc
 
@@ -134,7 +134,7 @@ Selon Gracq, pour durer la littérature ne doit pas trop compter sur le langage 
 
 ---
 
-Gracq célèbre Tolkien qui écrit *Le seigneur des Anneaux* déjà âgé et du haut de sa chaire universitaire. Et il dit : « En France, passé trente ans, les écluses ne se rouvrent plus pour laisser passage aux eaux printanières, sinon sous la forme douce-amère du souvenir. » J’ai attendu de passer les cinquante ans pour me raconter et j’espère qu’il n’y rien de doux-amer dans mes textes. Et j’ai toujours le rêve d’être saisi comme Tolkien par une forme que l’âge entraînerait vers le renouveau et la virginité. Après tout j’avais plus de cinquante ans quand j’ai écrit *One Minute*.
+Gracq célèbre Tolkien qui écrit *Le seigneur des Anneaux* déjà âgé et du haut de sa chaire universitaire. Et il dit : « En France, passé trente ans, les écluses ne se rouvrent plus pour laisser passage aux eaux printanières, sinon sous la forme douce-amère du souvenir. » J’ai attendu de passer les cinquante ans pour me raconter et j’espère qu’il n’y rien de doux-amer dans mes textes. Et j’ai toujours le rêve d’être saisi comme Tolkien par une forme que l’âge entraînerait vers le renouveau et la virginité. Après tout j'avais plus de cinquante ans quand j'ai écrit *One Minute*.
 
 ---
 
@@ -154,15 +154,15 @@ Journée printanière à ne pas rater, d’autant que la grisaille doucereuse l�
 
 Mais dans un bois épais, sillonné de sentes, des chasseurs abrutis ont piégé les passages de branches et de pierres pour nous compliquer le pédalage et nous détourner de ce secteur, qu’ils voudraient se réserver pour eux-mêmes. Cette ultraminorité dangereuse voudrait interdire la nature à la foule des promeneurs. Et nos préfets leur accordent des prérogatives inexplicables. Leur activité ne devrait plus être autorisée que dans des propriétés privées, dûment clôturées pour que d’innocents touristes ne viennent pas s’y faire occire.
 
-![Vendres](https://tcrouzet.com/images_tc/2021/03/IMG_7707.jpeg)
+![Vendres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7707.jpeg)
 
-![Vendres](https://tcrouzet.com/images_tc/2021/03/IMG_7725.jpeg)
+![Vendres](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7725.jpeg)
 
-![Nissan](https://tcrouzet.com/images_tc/2021/03/IMG_7745.jpeg)
+![Nissan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7745.jpeg)
 
-![Nissan](https://tcrouzet.com/images_tc/2021/03/IMG_7750.jpeg)
+![Nissan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7750.jpeg)
 
-![Lespignan](https://tcrouzet.com/images_tc/2021/03/IMG_7792.jpeg)
+![Lespignan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7792.jpeg)
 
 ### Vendredi 19, Balaruc
 
@@ -186,7 +186,7 @@ Je n’écrirais pas si je pensais qu’il ne pouvait y avoir un art puissant au
 
 ### Dimanche 21, Balaruc
 
-![L'étang](https://tcrouzet.com/images_tc/2021/03/IMG_7918.jpeg)
+![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7918.jpeg)
 
 ### Mardi 23, Balaruc
 
@@ -210,7 +210,7 @@ J’oublie ce que j’écris aussi vite que je l’écris, et ce que je lis pres
 
 Gracq parle d’un auteur jadis célèbre et depuis oublié qui « a cheminé à travers son époque sans rien y accrocher de ce qui nous semble aujourd’hui en faire la réalité et l’éclat… ». Pouvons-nous savoir si nous entrons en résonance ? Je voudrais le croire même si mes résonances, par exemple le jeu de rôle ou la littérature numérique, n’ont jamais bouleversé les foules, mais peut-être elles bouleverseront l’avenir, sinon pourquoi auraient-elles tant d’importance pour moi, pourquoi je ressentirais tant de force en elles alors même que d’autres lumières me profiteraient davantage ?
 
-![Saint-Pons-de-Mauchien](https://tcrouzet.com/images_tc/2021/03/IMG_7946.jpeg)
+![Saint-Pons-de-Mauchien](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7946.jpeg)
 
 ### Jeudi 25, Balaruc
 
@@ -218,24 +218,28 @@ Je n’écris que pour vivre, même quand j’écris ma vie.
 
 ### Vendredi 25, Balaruc
 
-![Minervois](https://tcrouzet.com/images_tc/2021/02/0IMG_7965.jpeg)
+![Minervois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/0IMG_7965.jpeg)
 
-![Minervois](https://tcrouzet.com/images_tc/2021/02/0IMG_7969.jpeg)
+![Minervois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/0IMG_7969.jpeg)
 
-![Minervois](https://tcrouzet.com/images_tc/2021/02/0IMG_7988.jpeg)
+![Minervois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/02/0IMG_7988.jpeg)
 
-![Siran](https://tcrouzet.com/images_tc/2021/03/IMG_7978.jpeg)
+![Siran](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_7978.jpeg)
 
-![Siran](https://tcrouzet.com/images_tc/2021/03/IMG_8034.jpeg)
+![Siran](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_8034.jpeg)
 
 ### Samedi 27, Balaruc
 
-![Pic Saint-Lou](https://tcrouzet.com/images_tc/2021/03/IMG_8040.jpeg)
+![Pic Saint-Lou](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_8040.jpeg)
 
-![Saint-Bauzille-de-Montmel](https://tcrouzet.com/images_tc/2021/03/IMG_8046.jpeg)
+![Saint-Bauzille-de-Montmel](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_8046.jpeg)
 
 ### Dimanche 28, Balaruc
 
 Par le passé, j’assujettissais ma vie à l’écriture. Désormais, quand on m’offre une longue balade à vélo, j’hésite, puis je cède à l’idée de passer une journée en extérieur, parce que peut-être elle sera le sujet d’une écriture dictée par la nature et la lumière. Se pose le dilemme pour demain. Je suis au bord de terminer mon autobiographie et je repousse le moment, comme si ce texte me condamnait ensuite à pénétrer dans l’inconnu, à passer après moi-même.
 
-![Pluie](https://tcrouzet.com/images_tc/2021/03/IMG_8057.jpeg)
+![Pluie](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_8057.jpeg)
+
+
+
+Tags: Carnets, une

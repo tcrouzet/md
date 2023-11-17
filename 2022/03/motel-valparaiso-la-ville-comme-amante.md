@@ -10,10 +10,12 @@ Le héros de *Motel Valparaiso* n’échappe pas à ce combat. Cet écrivain s�
 
 *Motel Valparaiso* m’a touché parce que j’avais trente et un ans, j’étais à Munich, un soir de printemps, je m’apprêtais à traverser une rue déserte quand un bus est passé. À l’arrière, une fille magnifique m’a fait signe et j’ai rêvé qu’elle descendait à l’arrêt suivant pour m’attendre, déjà en train d’imaginer une histoire, que je n’ai jamais vécue, et que Philippe a écrite, parce que nous avons peut-être tous rêvé de la vivre, à un moment ou un autre.
 
-![Motel Valparaiso](https://tcrouzet.com/images_tc/2022/03/IMG_6201.jpeg)
+![Motel Valparaiso](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/03/IMG_6201.jpeg)
 
 *Motel Valparaiso*, c’est aussi et surtout une ville entre réel et fiction, Cevola, encerclée par le désert du Sonora, une ville qui devient l’amante du narrateur, qui apprend à la déplier, à sans cesse en faire jaillir des détails au fil de ses explorations. Non pas une ville magique, mais une ville fractale, une ville pour toutes les autres, pour nous donner envie de les arpenter, de les photographier, d’y faire des rencontres, et aussi d’y écrire jusqu’à ce que la ville se transforme en cette fille qui nous fait signe.
 
 Voilà qui a éveillé beaucoup de nostalgie en moi, parce que j’ai partagé ces désirs, ces ambitions, parce que j’ai fait des villes des lieux d’expression totale, avant de m’intéresser de plus en plus à ce qui existe entre elles, et d’en sortir. Voilà pourquoi je n’ai pu m’empêcher de situer le récit au début des années 1990, malgré quelques références à aujourd’hui. Je ressemble au Vieux de Philippe, comme lui le désert m’attire, et plus je l’explore, plus j’y trouve de la vie.
 
 *Motel Valparaiso* est un roman mystique et initiatique. Une sorte d’incantation parcimonieuse. Je l’ai dévoré en deux goulées délictueuses.
+
+Tags: Critique, une

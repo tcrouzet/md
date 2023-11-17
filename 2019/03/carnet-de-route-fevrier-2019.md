@@ -22,7 +22,7 @@ Entre le 13 et le 17 mai, je serai à Montréal pour travailler avec les élève
 
 Promenade du soir à la frontière de la ville. Un tatou traverse le chemin et reste à nous regarder.
 
-![Ciel de Floride](https://tcrouzet.com/images_tc/2019/03/IMG_3258.jpg)
+![Ciel de Floride](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3258-600x450.jpg)
 
 ### Dimanche 10, Miami
 
@@ -38,11 +38,11 @@ Les réseaux sociaux amplifient ce phénomène plus encore que les anciens médi
 
 Une foule d’êtres individualisés n’est pas bonne pour le business, car ses membres ne répondent à aucune injonction marketing, mais seulement à des rêves passagers et innombrables, avec une profonde tendance à la contradiction.
 
-![Fin des temps](https://tcrouzet.com/images_tc/2019/03/IMG_3278.jpg)
+![Fin des temps](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3278-600x450.jpg)
 
-![Fairchild Tropical Garden](https://tcrouzet.com/images_tc/2019/03/IMG_3297.jpg)
+![Fairchild Tropical Garden](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3297-600x450.jpg)
 
-![Fairchild Tropical Garden](https://tcrouzet.com/images_tc/2019/03/IMG_3314.jpg)
+![Fairchild Tropical Garden](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3314-600x450.jpg)
 
 ### Lundi 11, Weston
 
@@ -78,7 +78,7 @@ Lire les carnets de mes contemporains me fait me sentir proche d’eux, me donne
 
 ---
 
-Mon site interactif sur Ératosthène s’est évaporé. La base de données est vérolée. Je ne sais pas si j’ai une sauvegarde en France. Ça me fiche les boules, car c’était une mes expériences d’écriture interactive les plus intéressantes. Ma [géolecture](https://tcrouzet.com/geolecture/) aussi est en train de s’évaporer, parce que pour maintenir une application disponible sur les stores il faut payer, et ne j’ai pas envie de payer, et encore moins envie de sans cesse mettre à jour le code. Donc, ce texte aussi n’est plus accessible.
+Mon site interactif sur Ératosthène s'est évaporé. La base de données est vérolée. Je ne sais pas si j'ai une sauvegarde en France. Ça me fiche les boules, car c'était une mes expériences d'écriture interactive les plus intéressantes. Ma [géolecture](https://tcrouzet.com/geolecture/) aussi est en train de s'évaporer, parce que pour maintenir une application disponible sur les stores il faut payer, et ne j'ai pas envie de payer, et encore moins envie de sans cesse mettre à jour le code. Donc, ce texte aussi n'est plus accessible.
 
 ### Vendredi 15, Weston
 
@@ -88,7 +88,7 @@ Je viens à bout se *Sérotonine*, un roman impossible du point de vue narratif,
 
 Nous allons en famille et avec des copains français passer le week-end au sud de Tampa, près de deux parcs VTT. Interstate 75 saturée, puis bouchée. Nous la quittons et plongeons dans un pays soudain plus accueillant. Nous nous arrêtons à Parrish pour dévorer des hamburgers succulents dans une caravane adossée à un primeur.
 
-![Parrish](https://tcrouzet.com/images_tc/2019/03/IMG_3337.jpg)
+![Parrish](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3337-600x450.jpg)
 
 ### Dimanche 17, Brandon
 
@@ -98,9 +98,9 @@ Dans la nuit, une idée de roman sur le modèle de [*One minute*](https://tcrouz
 
 Après avoir exploré les sentiers d’Alafia, nous nous attaquons à ceux de Boyette, sous une belle chaleur humide, déjà presque étouffante. Ces deux parcs sont tracés sur les vestiges d’anciennes mines de manganèse. Autour de lacs couverts d’une mousse verte fluo, nous escaladons les anciens terrils recouverts d’une épaisse forêt de chênes et de conifères.
 
-![Boyette](https://tcrouzet.com/images_tc/2019/03/3b07a0a2-7ed4-4b79-b755-ec04d105c04c.jpg)
+![Boyette](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/3b07a0a2-7ed4-4b79-b755-ec04d105c04c-600x450.jpg)
 
-![Boyette](https://tcrouzet.com/images_tc/2019/03/IMG_3369.jpg)
+![Boyette](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3369-600x450.jpg)
 
 ---
 
@@ -114,21 +114,21 @@ J’ai fait du vélo sous un soleil brûlant. Drôle de février tout de même.
 
 Nous traversons l’heure dorée à bord d’un hovercraft. Nous fonçons à la surface des Everglades, dérapons sur l’eau, accélérons, droit vers le soleil plongeant. Magique, mais inaccessible au quotidien, sauf à posséder un hovercraft ou débourser une fortune. Cette nature se dérobe à nous et je ne fais que l’entrevoir quand je fais du vélo. Je voulais écrire un manifeste *Pour un droit au coucher de soleil*, ce sera plutôt quelque chose de plus poétique intitulé *L’heure dorée*. Un jour peut-être. Pour le moment rien ne vient, toujours enlisé dans ce pays au ciel traversé de montagnes nuageuses.
 
-![Pépère](https://tcrouzet.com/images_tc/2019/03/P1080551.jpg)
+![Pépère](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080551-600x450.jpg)
 
-![Mark's Fish Camp](https://tcrouzet.com/images_tc/2019/03/P1080562.jpg)
+![Mark's Fish Camp](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080562-600x450.jpg)
 
-![Mark's Fish Camp](https://tcrouzet.com/images_tc/2019/03/P1080563.jpg)
+![Mark's Fish Camp](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080563-600x450.jpg)
 
-![Everglades](https://tcrouzet.com/images_tc/2019/03/P1080569.jpg)
+![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080569-600x450.jpg)
 
-![Everglades](https://tcrouzet.com/images_tc/2019/03/P1080603.jpg)
+![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080603-600x450.jpg)
 
-![Everglades](https://tcrouzet.com/images_tc/2019/03/P1080620.jpg)
+![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080620-600x450.jpg)
 
-![Everglades](https://tcrouzet.com/images_tc/2019/03/P1080665.jpg)
+![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080665-600x450.jpg)
 
-![Everglades](https://tcrouzet.com/images_tc/2019/03/P1080688.jpg)
+![Everglades](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/P1080688-600x450.jpg)
 
 ### Vendredi 22, Weston
 
@@ -138,7 +138,7 @@ Depuis notre visite des Everglades, je me gratte. Des moustiques m’ont perfor�
 
 « Look! » me dit JP. Un oiseau s’envole sur notre gauche. Mais pourquoi me dit-il ça ? À ce moment je le vois, à cinq mètres de nous, en travers du chemin. Une belle bête. JP avance vers lui, l’alligator recule tout en émettant des bruits de gorge peu rassurants. Je passe devant sa gueule grande ouverte.
 
-![Hum](https://tcrouzet.com/images_tc/2019/03/IMG_3469.jpg)
+![Hum](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/IMG_3469-600x450.jpg)
 
 ### Lundi 25, Weston
 
@@ -154,11 +154,11 @@ Certains d’entre nous ne se contentent par de faire, ils veulent faire aux mie
 
 ---
 
-Si j’ai eu eu les mains moites durant *Free Solo*, je crois que ça tient plus à l’exploit d’Alex Honnold qu’au film, mais les caméramans étaient là pour le filmer. Pas assez d’escalade pour moi, pas assez de temps long, le film aurait pu durer les 4 heures de l’escalade… Ça serait intéressant de remonter un tel film avec la tonne d’images qu’ils doivent avoir en stock.
+Si j’ai eu eu les mains moites durant *Free Solo*, je crois que ça tient plus à l'exploit d’Alex Honnold qu'au film, mais les caméramans étaient là pour le filmer. Pas assez d'escalade pour moi, pas assez de temps long, le film aurait pu durer les 4 heures de l'escalade… Ça serait intéressant de remonter un tel film avec la tonne d'images qu'ils doivent avoir en stock.
 
 ### Mardi 26, Weston
 
-![Planche de couverture](https://tcrouzet.com/images_tc/2019/03/COUV-HOMME-QUI-NE-COMPRENAIT-PAS-LES-FEMMES-1.jpg)
+![Planche de couverture](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2019/03/COUV-HOMME-QUI-NE-COMPRENAIT-PAS-LES-FEMMES-1-600x266.jpg)
 
 Dans deux mois, je publie *L’homme qui ne comprenait pas les femmes*, le roman écrit avant mon départ en Floride. Mon attachée de presse chez [Bamboo édition](https://www.bamboo.fr/) me demande de répondre à trois questions.
 
@@ -172,7 +172,7 @@ Dans deux mois, je publie *L’homme qui ne comprenait pas les femmes*, le roman
 
 *— L’homme qui ne comprenait pas les femmes apparaît comme un ovni quand on lit votre bibliographie. Pourquoi ce changement de cap ?*
 
-— C’est la faute de [Jim](https://www.angle.fr/dessinateur-jim-408.html), mon copain scénariste et dessinateur avec qui nous nous sommes toujours dit que nous devrions faire un truc ensemble, sans jamais trouver un point de convergence. Un jour, il m’explique qu’il crée une collection de roman chez [Bamboo](https://www.bamboo.fr/) et il me demande si je veux bien écrire quelque chose. J’ai commencé par refuser, je n’avais aucune idée qui pouvait lui donner envie d’être mon éditeur. Avec sa série [*Nuit à Rome*](https://www.amazon.fr/Une-nuit-Rome-int%C3%A9grale-volumes/dp/2818940389/), il a posé son style narratif que j’aime comparé en version cinéma à celui de [Cédric Klapisch](https://fr.wikipedia.org/wiki/C%C3%A9dric_Klapisch) ou de [Richard Linklater](https://fr.wikipedia.org/wiki/Richard_Linklater). Ma réponse : « Je n’écris pas de la littérature intimiste. »
+— C’est la faute de [Jim](https://www.angle.fr/dessinateur-jim-408.html), mon copain scénariste et dessinateur avec qui nous nous sommes toujours dit que nous devrions faire un truc ensemble, sans jamais trouver un point de convergence. Un jour, il m’explique qu’il crée une collection de roman chez [Bamboo](https://www.bamboo.fr/) et il me demande si je veux bien écrire quelque chose. J’ai commencé par refuser, je n’avais aucune idée qui pouvait lui donner envie d’être mon éditeur. Avec sa série [*Nuit à Rome*](https://www.amazon.fr/Une-nuit-Rome-intégrale-volumes/dp/2818940389/), il a posé son style narratif que j’aime comparé en version cinéma à celui de [Cédric Klapisch](https://fr.wikipedia.org/wiki/C%C3%A9dric_Klapisch) ou de [Richard Linklater](https://fr.wikipedia.org/wiki/Richard_Linklater). Ma réponse : « Je n’écris pas de la littérature intimiste. »
 
 Bien sûr, c’est faux puisque [je publie tous les mois mon journal sur mon blog](https://tcrouzet.com/carnets/). C’est là que Jim est allé chercher ce qui nous réunit et qui était si énorme que j’étais incapable de le voir. Il a même déniché dans une note de juin 2017 une idée de roman, lancée comme ça, sur laquelle il m’a demandé de réfléchir. Voilà comment *L’homme qui ne comprenait pas les femmes* est né. C’est un roman sous la forme d’un journal. La version mec du *Journal de Bridget Jones*. Tout est imaginé et tout est vrai.
 
@@ -193,3 +193,5 @@ Je ne culpabilise plus de ne pas écrire. Je me suis fait à cette idée, je me 
 ### Jeudi 28, Weston
 
 Tant que je suis en Floride, je peux lui imputer mon malaise. Mais ne lui est-il pas antérieur ? Depuis que j’ai terminé le roman sur mon père, en septembre 2017, je n’ai plus rien écrit qui m’engage corps et âme. Peut-être que je ne me remettrai au travail qu’une fois ce texte publié, comme s’il était une étape décisive dans ma vie, une borne à partir de laquelle je partirai dans une direction ou dans une autre, peut-être opposées l’une à l’autre. Cette borne tiendra à la réception du texte. J’ai peur que le silence me plonge plus loin dans le noir.
+
+Tags: Carnets, une

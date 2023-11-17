@@ -6,9 +6,9 @@ Un politicien a ponctionné une parcelle de cette garrigue préservée pour la t
 
 Dans le sud de la France, ni la flore ni la faune méditerranéenne ne sont natives. Elles ont migré de l’Afrique du Nord en même temps que les bergers déforestaient, puis élevaient leurs moutons et leurs chèvres. Ce paysage est le fruit de l’homme, c’est un jardin méditerranéen qu’un andouille a songé à transformer en jardin méditerranéen.
 
-C’était avant « réaménagement » un paradis d’une biodiversité explosive. Il ne reste plus rien qu’une terre lessivée et couverte d’aiguilles de pin. À la place des asphodèles ont poussé les grilles qui délimitent le jardin dont l’entrée est désormais payante.
+C’était avant « réaménagement » un paradis d’une biodiversité explosive. Il ne reste plus rien qu’une terre lessivée et couverte d'aiguilles de pin. À la place des asphodèles ont poussé les grilles qui délimitent le jardin dont l’entrée est désormais payante.
 
-Je n’ai plus accès au terrain de jeu de mon enfance. C’est devenu un *no man’s land*. Je comprends l’aigreur de mon père qui a vu son pays ravagé par le béton. Il ne veut plus sortir de chez lui et regrette de ne pas avoir émigré dans une terre dont il n’aurait pas connu l’enfance.
+Je n’ai plus accès au terrain de jeu de mon enfance. C’est devenu un *no man's land*. Je comprends l’aigreur de mon père qui a vu son pays ravagé par le béton. Il ne veut plus sortir de chez lui et regrette de ne pas avoir émigré dans une terre dont il n’aurait pas connu l’enfance.
 
 À l’étranger, les paysages et les aménagements urbains me séduisent souvent, aucun souvenir ne ternit ma perception. Dans mon village, chaque détour crie notre incurie collective.
 
@@ -16,13 +16,13 @@ Je ne dis pas que c’était mieux avant. Simplement, nous n’avons pas su pré
 
 Ma garrigue est une Joconde défigurée. Pas par un Wharol ou un Botero, par les premiers élus venus, persuadés que faire est leur raison d’être, peu importe ce qui sera fait. Oubliant que parfois la meilleure chose à faire est de ne rien faire.
 
-Je n’étais pas monté ici depuis [la veille du début des travaux en 2008](https://tcrouzet.com/2008/03/18/eau-et-garrigue/), j’aurais dû me tenir à l’écart de ce qui est devenu une friche. J’y suis revenu parce que je suis moi-même en friche. Je sens comme parachuté dans ma propre vie. La vacuité de toute action, de toute écriture, le désintérêt même de mon éditeur et des critiques pour le travail de ma vie ne m’incite pas à me passionner pour le genre humain. J’ai voulu revenir à ma terre, je la retrouve saccagée elle aussi.
+Je n’étais pas monté ici depuis [la veille du début des travaux en 2008](http://blog.tcrouzet.com/2008/03/18/eau-et-garrigue/), j’aurais dû me tenir à l’écart de ce qui est devenu une friche. J’y suis revenu parce que je suis moi-même en friche. Je sens comme parachuté dans ma propre vie. La vacuité de toute action, de toute écriture, le désintérêt même de mon éditeur et des critiques pour le travail de ma vie ne m’incite pas à me passionner pour le genre humain. J’ai voulu revenir à ma terre, je la retrouve saccagée elle aussi.
 
 J’ai l’impression que sous moi la civilisation tourne à vide, sans aucun but, portée par la simple inertie, avec pour seul objectif l’anéantissement. Il ne me reste qu’une possibilité. Aller plus loin, chercher le point de vue sur les toits et l’étang, m’étendre et jouir de la dernière fenêtre de beauté.
 
 Le mont Saint Clair avec les cubes blancs des immeubles sur fond de pinède moutonnante. L’étang à ses pieds. Un merveilleux poteau électrique, comme le pylône d’un chapiteau imaginaire, sous-tendu d’un câble noir et éclairé par un lampadaire bleu. De part et d’autre, deux toits de tuiles rouille pour refermer le cadre terminé au premier plan par un enchaînement de buissons de lentisques.
 
-Les épicuriens se réfugiaient dans leur jardin parce qu’ils avaient compris qu’ils n’enrayeraient pas la chute de leur monde. Ils n’avaient plus la force d’éviter le pire. Moi, pas plus qu’eux. Si j’écris, c’est bien par un aveu d’impuissance. Je soulève des idées pour donner des envies aux autres. Et je n’ai aucune chance d’y parvenir si moi-même je reste là, immobile, dans mon fief.
+Les épicuriens se réfugiaient dans leur jardin parce qu'ils avaient compris qu’ils n’enrayeraient pas la chute de leur monde. Ils n’avaient plus la force d’éviter le pire. Moi, pas plus qu’eux. Si j’écris, c’est bien par un aveu d’impuissance. Je soulève des idées pour donner des envies aux autres. Et je n’ai aucune chance d’y parvenir si moi-même je reste là, immobile, dans mon fief.
 
 C’est cela la décadence. Quand trop de gens agissent sans raison, et que ceux qui réfléchissent un peu reconnaissent leur impuissance et se contentent de jouir.
 
@@ -32,4 +32,8 @@ Je ne me plais pas quand je pense à ces choses, j’aimerais les taire, les ref
 
 Que faire de la beauté ? La détourner pour en orienter le flot vers ceux qui s’en détournent, les submerger par les ondes de lumière. Je n’ai plus pour ambition que cet ultime attentat.
 
-![C'est flou parce que mon téléphone est en fin de vie.](https://tcrouzet.com/images_tc/2014/09/balaruc.jpg)
+![C'est flou parce que mon téléphone est en fin de vie.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/balaruc.jpg)
+
+
+
+Tags: une, vagabondage

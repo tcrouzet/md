@@ -4,17 +4,17 @@
 
 ### Lundi 1<sup>er</sup>, Balaruc
 
-![À vélo](https://tcrouzet.com/images_tc/2020/07/IMG_1117.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1117.jpeg)
 
 ### Samedi 6, Balaruc
 
-![À vélo](https://tcrouzet.com/images_tc/2020/07/IMG_1158.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1158.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/07/IMG_1164.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1164.jpeg)
 
 ### Lundi 8, Balaruc
 
-![Le bureau](https://tcrouzet.com/images_tc/2020/07/IMG_1222-1.jpeg)
+![Le bureau](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1222-1.jpeg)
 
 ### Mardi 9, Balaruc
 
@@ -28,7 +28,7 @@ Je publie mon journal de mai, abrégé, tronqué, et je me dis que je dois repre
 
 Quand ma vie tourne autour de mon intimité il me devient impossible d’en parler publiquement.
 
-![Soir](https://tcrouzet.com/images_tc/2020/07/P1110109.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/P1110109.jpeg)
 
 ### Mercredi 10, Balaruc
 
@@ -44,13 +44,13 @@ Grand mistral, alors nous roulons sur les contreforts de la Gardiole, puis dans 
 
 ### Jeudi 11, Balaruc
 
-![Il pleut](https://tcrouzet.com/images_tc/2020/07/P1110111.jpeg)
+![Il pleut](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/P1110111.jpeg)
 
 ### Samedi 13, Balaruc
 
 Je détiens un petit secret d’État qui ne sera révélé que dans quelques jours. Ça me fait sourire.
 
-![Soir](https://tcrouzet.com/images_tc/2020/07/IMG_1238.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1238.jpeg)
 
 ### Dimanche 14, Balaruc
 
@@ -60,9 +60,9 @@ Sortie vélo, sans jambes dès le départ, et souffrance durant 90 kilomètres, 
 
 Je retrouve des copains auteur à Puéchabon, recoupant sur le trajet des routes parcourues plus tôt à vélo, retrouvant une belle table dans la mi-ombre face aux derniers contreforts verdoyants de la Serrane.
 
-![À vélo](https://tcrouzet.com/images_tc/2020/07/IMG_1247.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1247.jpeg)
 
-![Chez les copains](https://tcrouzet.com/images_tc/2020/07/IMG_1257.jpeg)
+![Chez les copains](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1257.jpeg)
 
 ### Lundi 15, Balaruc
 
@@ -78,27 +78,27 @@ Sortie vélo dans une lumière ébouriffante. J’aime ces longues soirées d’
 
 ### Samedi 20, Balaruc
 
-![Bikepacking](https://tcrouzet.com/images_tc/2020/07/IMG_1291.jpeg)
+![Bikepacking](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1291.jpeg)
 
-![Bikepacking](https://tcrouzet.com/images_tc/2020/07/IMG_1303.jpeg)
+![Bikepacking](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1303.jpeg)
 
-![Bikepacking](https://tcrouzet.com/images_tc/2020/07/IMG_1318.jpeg)
+![Bikepacking](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1318.jpeg)
 
-![Bikepacking](https://tcrouzet.com/images_tc/2020/07/IMG_1345.jpeg)
+![Bikepacking](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1345.jpeg)
 
 ### Dimanche 21, Balaruc
 
-Hier, vers quatorze heures, Patrick me téléphone. Tu sais qu’on fait un bivouac ce soir ? Je ne sais rien du tout. Départ vers dix-sept heures Rue du Vélo à Montpellier. Je ne lui promets rien. Je suis vanné à force de peu dormir. Je m’allonge, essaie de faire la sieste, puis sur le coup de trois heures je me décide. Je prépare mon matériel de bikepacking, charge mon vélo dans la Kangou et fonce à Montpellier. Nous quittons bientôt la ville, puis montons dans l’arrière-pays balayé par un mistral brûlant. Vers vingt et une heures, nous arrivons au lac de Boissière, où nous campons. Quelques autres campeurs, au loin une fête, qui ne se prolongera pas tard dans la nuit. Ciel limpide. Quand je m’éveille par intermittence, je devine l’ombre du vélo appuyé à un sapin, derrière lui la Grande Ourse tourne sa casserole jusqu’à ce que pointent les premières lueurs de l’aube. Retour vers le sud, par des chemins connus, d’autres plus mystérieux. J’aime être dehors. Faire l’amour avec le territoire.
+Hier, vers quatorze heures, Patrick me téléphone. Tu sais qu’on fait un bivouac ce soir ? Je ne sais rien du tout. Départ vers dix-sept heures Rue du Vélo à Montpellier. Je ne lui promets rien. Je suis vanné à force de peu dormir. Je m’allonge, essaie de faire la sieste, puis sur le coup de trois heures je me décide. Je prépare mon matériel de bikepacking, charge mon vélo dans la Kangou et fonce à Montpellier. Nous quittons bientôt la ville, puis montons dans l’arrière-pays balayé par un mistral brûlant. Vers vingt et une heures, nous arrivons au lac de Boissière, où nous campons. Quelques autres campeurs, au loin une fête, qui ne se prolongera pas tard dans la nuit. Ciel limpide. Quand je m’éveille par intermittence, je devine l’ombre du vélo appuyé à un sapin, derrière lui la Grande Ourse tourne sa casserole jusqu’à ce que pointent les premières lueurs de l’aube. Retour vers le sud, par des chemins connus, d’autres plus mystérieux. J'aime être dehors. Faire l'amour avec le territoire.
 
-![Bikepacking](https://tcrouzet.com/images_tc/2020/07/IMG_1362.jpeg)
+![Bikepacking](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1362.jpeg)
 
-![Bikepacking](https://tcrouzet.com/images_tc/2020/07/IMG_1369.jpeg)
+![Bikepacking](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1369.jpeg)
 
-![Bikepacking](https://tcrouzet.com/images_tc/2020/07/IMG_1382.jpeg)
+![Bikepacking](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1382.jpeg)
 
-![Bikepacking](https://tcrouzet.com/images_tc/2020/07/IMG_1396.jpeg)
+![Bikepacking](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1396.jpeg)
 
-![](https://tcrouzet.com/images_tc/2020/07/IMG_1420.jpeg)
+![](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1420.jpeg)
 
 ### Lundi 22, Genève
 
@@ -124,7 +124,7 @@ Il me suffit de voir la montagne pour éprouver l’indescriptible émotion de v
 
 En Floride, je me suis senti hors sol, précipité dans une carte postale, emprisonné dans une fiction de carton-pâte. Ici, le réel s’impose avec une force bouleversante. Je suis les lignes des sentiers, les coupes dans les forêts pour ouvrir les prairies, pétillantes de jaune, de blanc, de violets, un éclaboussement floral d’une perfection sublime.
 
-Je photographie les sommets, la vallée, aboutissant à coup sûr à des images archétypales de Suisse. Je finis par dénicher une pelle mécanique au bord d’un ruisseau pour esquisser un décalage, quoique l’orange de l’engin soit lui aussi presque trop parfait.
+Je photographie les sommets, la vallée, aboutissant à coup sûr à des images archétypales de Suisse. Je finis par dénicher une pelle mécanique au bord d’un ruisseau pour esquisser un décalage, quoique l'orange de l'engin soit lui aussi presque trop parfait.
 
 Je m’en moque, je me sens à ma place dans cette perfection lors d’une journée d’été parfaite. J’aurais aimé avoir plus de temps pour atteindre les sommets, pour apercevoir le Mont-Blanc, pour me faire mal aux jambes, je n’ai que le temps de me ravir d’une beauté trop rare, et que je ne peux que me promettre de revenir goûter, comme d’un tableau caché au fond d’un musée que je sais à sa place, et que je ne retrouve qu’à de trop rares occasions, parce que je ne les provoque pas, ou n’ose pas les saisir, victime d’habitudes bien pratiques.
 
@@ -136,29 +136,29 @@ En 2012, je suis amouraché de sa cause, parce qu’elle entrait en résonance a
 
 J’ai tout de même le projet d’écrire encore un livre sur Didier, à la première personne, à sa place, en ghostwriter, pour le servir encore une fois, parce que j’ai tout dans la tête, et que pour lui c’est la solution la plus pratique. Nous attendons de voir si un éditeur nous fait une offre, parce que j’en ai assez de prendre tous les risques dans cette histoire.
 
-![La Fouly](https://tcrouzet.com/images_tc/2020/07/IMG_1509.jpeg)
+![La Fouly](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1509.jpeg)
 
-![La Fouly](https://tcrouzet.com/images_tc/2020/07/IMG_1521.jpeg)
+![La Fouly](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1521.jpeg)
 
-![La Fouly](https://tcrouzet.com/images_tc/2020/07/IMG_1542.jpeg)
+![La Fouly](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1542.jpeg)
 
-![La Fouly](https://tcrouzet.com/images_tc/2020/07/IMG_1555.jpeg)
+![La Fouly](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1555.jpeg)
 
-![La Fouly](https://tcrouzet.com/images_tc/2020/07/IMG_1559.jpeg)
+![La Fouly](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1559.jpeg)
 
-![La Fouly](https://tcrouzet.com/images_tc/2020/07/IMG_1567.jpeg)
+![La Fouly](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1567.jpeg)
 
-![Devant, derrière](https://tcrouzet.com/images_tc/2020/07/IMG_1578.jpeg)
+![Devant, derrière](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1578.jpeg)
 
 ### Jeudi 25, Genève
 
-Écriture le matin, vélo l’après-midi, avec entre les deux une vidéoconférence sur zoom où j’ai parlé déconnexion, lieu bien paradoxal pour parler d’être ailleurs. Pendant ce temps, Didier avec Macron. News aussitôt rendue publique. Parfois je me dis que ce n’est pas une si bonne idée qu’il ait accepté cette mission, les chacals politiques lui tomberont dessus… surtout quand il conclura que la France ne s’en est pas mal sortie, parce c’est la vérité. Les erreurs ont été dans la com, dans l’excès d’autoritarisme, pas dans la réponse sanitaire. Les masques manquaient, mais les masques ne servent pas à grand-chose, moins qu’on a voulu nous le faire croire tout au moins.
+Écriture le matin, vélo l’après-midi, avec entre les deux une vidéoconférence sur zoom où j’ai parlé déconnexion, lieu bien paradoxal pour parler d’être ailleurs. Pendant ce temps, Didier avec Macron. News aussitôt rendue publique. Parfois je me dis que ce n’est pas une si bonne idée qu’il ait accepté cette mission, les chacals politiques lui tomberont dessus… surtout quand il conclura que la France ne s’en est pas mal sortie, parce c’est la vérité. Les erreurs ont été dans la com, dans l’excès d’autoritarisme, pas dans la réponse sanitaire. Les masques manquaient, mais les masques ne servent pas à grand-chose, moins qu'on a voulu nous le faire croire tout au moins.
 
-![À vélo](https://tcrouzet.com/images_tc/2020/07/IMG_1596.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1596.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/07/IMG_1608.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1608.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/07/IMG_1637.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1637.jpeg)
 
 ### Vendredi 26, Genève
 
@@ -168,9 +168,9 @@ Je travaille d’arrache-pied à *Adapt to Adopt*, interrogeant Didier sur la ge
 
 Je retourne pédaler sur le Salève. Mal aux jambes, pas l’habitude des montées interminables, je me fais dépasser par une fille à vélo de route peu avant le sommet du col des pitons à 1307 mètres. J’aurais dû me tuer pour la suivre avec mon gravel. Descente vertigineuse. Je double les voitures, faisant chauffer mes freins, puis me calme me disant que je suis dingue. Je ne trouve pas le chemin escompté au bord de l’Arve, finis sur une route bondée, rentre vanné.
 
-![À vélo](https://tcrouzet.com/images_tc/2020/07/IMG_1687.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1687.jpeg)
 
-![À vélo](https://tcrouzet.com/images_tc/2020/07/IMG_1698.jpeg)
+![À vélo](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1698.jpeg)
 
 ### Dimanche 28, Genève
 
@@ -188,4 +188,8 @@ Quand on s’enferme dans le silence, on ne récolte que le silence, c’est par
 
 Je n’aime pas le silence, pas plus que la solitude. Je laisse parfois croire que je peux vivre seul, parce que quand je travaille je suis imperturbable, mais la véritable solitude m’est intolérable.
 
-![J'écris](https://tcrouzet.com/images_tc/2020/07/IMG_1702.jpeg)
+![J'écris](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/07/IMG_1702.jpeg)
+
+
+
+Tags: Carnets, une

@@ -2,14 +2,14 @@
 
 Brûler sa carte d’électeur, c’est mesquin, mais pour prévenir les critiques, voici plus de cent raisons indépendantes du contexte politique pour justifier pourquoi je ne vote plus.<span id="more-23476"></span>
 
-[J’ai perdu le son de la vidéo en chemin.](http://www.youtube.com/watch?v=JtgcNLUjZmA&context=C45d8f16ADvjVQa1PpcFNAnoEdtQbcd-dD1aeN-eDKF4wdO9QWriM=) Isa concluait par : « Qui va nettoyer maintenant ? » Oui, qui nettoiera la démocratie ?
+[J'ai perdu le son de la vidéo en chemin.](http://www.youtube.com/watch?v=JtgcNLUjZmA&context=C45d8f16ADvjVQa1PpcFNAnoEdtQbcd-dD1aeN-eDKF4wdO9QWriM=) Isa concluait par : « Qui va nettoyer maintenant ? » Oui, qui nettoiera la démocratie ?
 
 De la démocratie
 ----------------
 
 ### 1 
 
-Le 11 novembre 1947, devant la Chambre des Communes, Winston Churchill déclare : « Democracy is the worst form of government–except for all those other forms, that have been tried from time to time. » (La démocratie est le pire des régimes – à l’exception de tous les autres déjà essayés dans le passé.) Depuis, on entend souvent répéter que la démocratie est le moins mauvais des systèmes possibles. Churchill ne dit pourtant pas du tout la même chose. Pour lui, la démocratie est le moins mauvais des systèmes essayés. Nous pouvons inventer mieux. D’ailleurs il [poursuit](http://www.slate.fr/story/117949/churchill-democratie-valls) : « Il existe le sentiment, largement partagé dans notre pays, que le peuple doit être souverain, souverain de façon continue, et que l’opinion publique, exprimée par tous les moyens constitutionnels, devrait façonner, guider et contrôler les actions de ministres qui en sont les serviteurs et non les maîtres. »
+Le 11 novembre 1947, devant la Chambre des Communes, Winston Churchill déclare : « Democracy is the worst form of government–except for all those other forms, that have been tried from time to time. » (La démocratie est le pire des régimes - à l'exception de tous les autres déjà essayés dans le passé.) Depuis, on entend souvent répéter que la démocratie est le moins mauvais des systèmes possibles. Churchill ne dit pourtant pas du tout la même chose. Pour lui, la démocratie est le moins mauvais des systèmes essayés. Nous pouvons inventer mieux. D’ailleurs il [poursuit](http://www.slate.fr/story/117949/churchill-democratie-valls) : « Il existe le sentiment, largement partagé dans notre pays, que le peuple doit être souverain, souverain de façon continue, et que l'opinion publique, exprimée par tous les moyens constitutionnels, devrait façonner, guider et contrôler les actions de ministres qui en sont les serviteurs et non les maîtres. » 
 
 ### 2
 
@@ -25,7 +25,7 @@ Le vote n’est pas consubstantiel de la démocratie, seulement des régimes rep
 
 ### 5
 
-Les règles du jeu représentatif ont été promulguées non démocratiquement par des hommes qui n’avaient que mépris pour le peuple. Ainsi [Michel Debré, rédacteur de la constitution française, écrit en 1957](https://tcrouzet.com/2012/03/19/la-democratie-de-la-rarete/) : « La cité, la Nation où chaque jour un grand nombre de citoyens discuteraient de politique seraient proches de la ruine. » Debré ne fait que reformuler les vues de Sieyès. Résumé de son propos : votons de temps en temps puis taisons-nous.
+Les règles du jeu représentatif ont été promulguées non démocratiquement par des hommes qui n’avaient que mépris pour le peuple. Ainsi [Michel Debré, rédacteur de la constitution française, écrit en 1957](http://blog.tcrouzet.com/2012/03/19/la-democratie-de-la-rarete/) : « La cité, la Nation où chaque jour un grand nombre de citoyens discuteraient de politique seraient proches de la ruine. » Debré ne fait que reformuler les vues de Sieyès. Résumé de son propos : votons de temps en temps puis taisons-nous.
 
 ### 6
 
@@ -45,4 +45,8 @@ En 1968, on criait dans les rues « Élections piège à cons. » Serions-nous
 
 **La suite de ce texte est désormais disponible en [livre et ebook](/101-raisons-de-ne-pas-voter/).**
 
-![](https://tcrouzet.com/images_tc/2014/03/cover2017.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cover2017-400x584.jpg)
+
+
+
+Tags: Politique, tirage au sort, une

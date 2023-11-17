@@ -1,12 +1,12 @@
 # Kurzweil : l’évolution exponentielle
 
-Denis Failly a publié un [intéressant interview de Ray Kurzweil](http://entretiens-du-futur.blogspirit.com/archive/2007/12/02/humanite-2-0-la-bible-du-changement.html). J’ai parlé du futurologue dans [*Le peuple des connecteurs*](https://tcrouzet.com/le-peuple-des-connecteurs/), je me suis même appuyé sur ses idées pour défendre les miennes. Maintenant que je travaille à [la seconde édition de mon livre](https://tcrouzet.com/2007/11/20/liberer-les-connecteurs/), j’arrive à une contradiction flagrante.<span id="more-687"></span>
+Denis Failly a publié un [intéressant interview de Ray Kurzweil](http://entretiens-du-futur.blogspirit.com/archive/2007/12/02/humanite-2-0-la-bible-du-changement.html). J’ai parlé du futurologue dans [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), je me suis même appuyé sur ses idées pour défendre les miennes. Maintenant que je travaille à [la seconde édition de mon livre](http://blog.tcrouzet.com/2007/11/20/liberer-les-connecteurs/), j’arrive à une contradiction flagrante.<span id="more-687"></span>
 
-1. Je suppose que l’avenir est imprévisible à cause de la complexité de notre monde et que l’imprévisibilité grandissante accroît d’autant la complexité. [J’admets tout au plus l’existence de poches de prévisibilités à court terme.](https://tcrouzet.com/2007/12/11/comprendre-n%e2%80%99est-pas-prevoir/)
+1. Je suppose que l’avenir est imprévisible à cause de la complexité de notre monde et que l’imprévisibilité grandissante accroît d’autant la complexité. [J’admets tout au plus l’existence de poches de prévisibilités à court terme.](http://blog.tcrouzet.com/2007/12/11/comprendre-n%e2%80%99est-pas-prevoir/)
 
 2. Kurzweil trace des courbes, les prolonge, parle du prochain quart de siècle comme s’il était écrit dans le marbre, sa vision ne se brouillant qu’à l’approche de la singularité, qu’il estime pour 2045, date à partir de laquelle les machines deviendront si intelligentes que toute anticipation devient illusoire.
 
-![kurzweil.gif](https://tcrouzet.com/images_tc/2007/12/kurzweil.gif)
+![kurzweil.gif](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/12/kurzweil.gif)
 
 Mon goût pour le transhumanisme m’incite à accepter les prévisions de Kurzweil, mais elles restent une potentialité, nous n’avons pas à leur prêter attention. L’avenir sera autre à coup sûr. La moindre petite débâcle climatique suffirait à mettre à terre les rêves de Kurzweil et pourquoi pas nous plonger dans un nouvel âge noir, repoussant bien loin l’avenir radieux annoncé.
 
@@ -28,13 +28,13 @@ Les courbes exponentielles mises en évidence par Kurzweil sont-elles la signatu
 
 Même si c’était le cas, rien n’empêcherait cette évolution de connaître des cassures momentanées, donc nous mettre en situation d’imprévisibilité. Et, si nous suivons effectivement cette courbe, nous ne pouvons pas savoir quelles technologies nous permettront de tenir la cadence. Kurzweil s’avance en pariant sur les technologies naissant actuellement alors que peut-être une nouvelle technologie encore inconnue nous maintiendra sur la courbe.
 
-Par ailleurs, [si la réduction des individus à des atomes sociaux nous aide à comprendre certains aspects de nos sociétés](https://tcrouzet.com/2007/12/11/comprendre-n%e2%80%99est-pas-prevoir/), elle ne nous aide pas, pour le moment en tous cas, à les prévoir, sinon dans des cas simples, donc exceptionnels.
+Par ailleurs, [si la réduction des individus à des atomes sociaux nous aide à comprendre certains aspects de nos sociétés](http://blog.tcrouzet.com/2007/12/11/comprendre-n%e2%80%99est-pas-prevoir/), elle ne nous aide pas, pour le moment en tous cas, à les prévoir, sinon dans des cas simples, donc exceptionnels.
 
 Ce n’est pas parce que la courbe de Kurzweil se vérifie jusqu’à aujourd’hui qu’elle sera vraie demain (raisonnement inductif). N’oublions pas que nous avons le don de tracer les courbes qui nous conviennent, écartant les valeurs qui pourraient nous déranger. Je ne dis pas que Kurzweil triche mais, comme il ne justifie pas le fond de sa théorie, j’ai tendance à le considérer comme un prophète sympathique.
 
-Ni plus ni moins, Kurzweil cherche à nous prouver que le futur dont il rêve adviendra. Je rêve aussi de ce futur, de nombreux auteurs de SF l’ont rêvé, les connecteurs le rêvent… Kurzweil n’effectue aucune prévision extraordinaire c’est ce qui me dérange. Rien dans ce qu’il nous annonce n’est surprenant et je ne peux croire que tel sera l’avenir. Plutôt que de nous en préoccuper, nous devons plutôt le construire au jour le jour.
+Ni plus ni moins, Kurzweil cherche à nous prouver que le futur dont il rêve adviendra. Je rêve aussi de ce futur, de nombreux auteurs de SF l'ont rêvé, les connecteurs le rêvent... Kurzweil n'effectue aucune prévision extraordinaire c'est ce qui me dérange. Rien dans ce qu'il nous annonce n'est surprenant et je ne peux croire que tel sera l'avenir. Plutôt que de nous en préoccuper, nous devons plutôt le construire au jour le jour.
 
-Un Kurzweil des années 1960, avec les mêmes arguments, nous aurait projetés dans l’espace et jamais il n’aurait imaginé internet… sinon il l’aurait alors inventé. L’inimaginable fait l’avenir.
+Un Kurzweil des années 1960, avec les mêmes arguments, nous aurait projetés dans l'espace et jamais il n'aurait imaginé internet... sinon il l'aurait alors inventé. L'inimaginable fait l'avenir.
 
 Pour résumer.
 
@@ -49,3 +49,5 @@ Pour résumer.
 5. Les autres systèmes complexes, justement parce qu’ils sont trop complexes, sont imprévisibles. Cette imprévisibilité émerge, elle n’est pas due à notre ignorance. Nous savons la faire émerger dans nos simulations. Ainsi personne n’est capable de nous dire quelle sera la température moyenne sur terre en 2020. Les scientifiques nous donnent des fourchettes avec des variations énormes. Personne ne sait prévoir le taux de croissance (alors même qu’il ne varie pas de façon faramineuse d’une année sur l’autre). Aucun politicien n’est capable d’anticiper les conséquences de ses mesures.
 
 6. Bien sûr certaines choses qui nous paraissent imprévisibles aujourd’hui pourront être prédites dans l’avenir. Nous pourrons améliorer nos estimations météos par exemple. Mais quels que soient nos progrès, les progrès de nos calculateurs, l’avenir de la plupart des systèmes complexes restera mystérieux. Il le restera d’autant plus que nous complexifions de plus en plus le monde en multipliant les interactions entre les agents autonomes.
+
+Tags: Connecteur, imprevisibilité

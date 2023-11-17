@@ -21,3 +21,5 @@ Partout le même désastre se répète. Les platanes meurent à cause du chancre
 Tout ça pourquoi ? Pour que les promeneurs du dimanche puissent y poser leurs roues avec un confort de canapé ? Vous croyez donc que c’est de ça que rêvent les gens ? Vous avez pas noté que nos pneus s'élargissent ? Qu'ils acceptent désormais les sols imparfaits ?
 
 Sans doute pas. Vous pensez dans une logique du moindre effort, aussi du moindre plaisir. Tout devient édulcoré, même les chemins. On nous vend de fausses impressions de nature, mais on veut nous garder dans la ville, sur les voies balisées, contrôlées, surveillées. Résultat : le canal du Midi n’est plus que l’ombre de lui-même. Par chance, il reste souvent l'autre berge, celle non officielle, où encore courent parfois des sentiers, mais jusqu'à quand ? Le single de l'étang du Bagnas a été saccagé par un tracteur de nettoyage qui l'a élargi il y a quelques semaines. On y filait à plus de 30 km/h et désormais on s'y fait démonter les articulations à 15 km/h, tout ça pour éviter quelques chicanes et virages en dévers.
+
+Tags: Born to Bike, une

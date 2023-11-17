@@ -1,20 +1,22 @@
 # Lisez-vous de la twittérature ?
 
-Concours de circonstances ? Alors que mon [twiller](https://tcrouzet.com/tag/twitterature/%20) [*La quatrième théorie*](https://tcrouzet.com/la-quatrieme-theorie/) est en relecture chez Fayard pour une publication définitive éventuelle, si ça se fait vous le saurez, j’ai l’impression que la twittérature refait parler d’elle.<span id="more-26177"></span>
+Concours de circonstances ? Alors que mon [twiller](<http://blog.tcrouzet.com/tag/twitterature/
 
-[Articles dans *Marianne*, dans *L’Express*, dans les blogs…](https://tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-chroniques/) Peut-être parce que des auteurs populaires se hasardent à lâcher quelques tweets, peut-être aussi tout simplement parce que cette écriture mitraillée engendre un rythme, une forme, une musique… propre à notre époque.
+>) [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) est en relecture chez Fayard pour une publication définitive éventuelle, si ça se fait vous le saurez, j’ai l’impression que la twittérature refait parler d’elle.<span id="more-26177"></span>
 
-![](https://tcrouzet.com/images_tc/2012/07/croisade.png)
+[Articles dans *Marianne*, dans *L’Express*, dans les blogs…](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-chroniques/) Peut-être parce que des auteurs populaires se hasardent à lâcher quelques tweets, peut-être aussi tout simplement parce que cette écriture mitraillée engendre un rythme, une forme, une musique… propre à notre époque.
+
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/07/croisade.png)
 
 Aujourd’hui, alors que les réseaux sociaux m’agacent de plus en plus, je suis nostalgique de 2008-2010 quand j’écrivais *La quatrième théorie* au jour le jour. Twitter a d’une certaine façon changé ma façon d’écrire. Cet outil ne m’a pas aidé à rencontrer des gens, à faire ma pub, à gérer ma communauté, mais il m’a montré que je pouvais écrire ailleurs que dans Word.
 
-[David Hockney a déclaré au sujet de l’iPad](http://www.bbc.co.uk/news/technology-11666162) :
+[David Hockney a déclaré au sujet de l'iPad](http://www.bbc.co.uk/news/technology-11666162) :
 
-> Who wouldn’t want one? Picasso or Van Gogh would have snapped one up.
+> Who wouldn't want one? Picasso or Van Gogh would have snapped one up.
 
 Les peintres ont toujours adopté les innovations technologiques : huile, aquarelle, photographie, acrylique… Ils n’ont jamais été à la traîne. Ils ont sans cesse fait évoluer leurs outils. Et chaque fois, surtout ces derniers siècles, ils ont témoigné de l’influence de ces technologies sur leur art, leur pratique, leur esthétique, leurs sujets…
 
-Jusqu’à l’invention de la machine à écrire, les écrivains ont eu moins d’occasions d’expérimenter. Pour eux, les changements technologiques ont été mineurs, sauf pour quelques excentriques qui comme Rabelais ont écrit au cul des plaques de composition. Mais quand Nietzsche se met à écrire avec une Malling-Hansen Writing Ball, il reconnaît qu’il pense différemment et que son style change.
+Jusqu’à l’invention de la machine à écrire, les écrivains ont eu moins d'occasions d'expérimenter. Pour eux, les changements technologiques ont été mineurs, sauf pour quelques excentriques qui comme Rabelais ont écrit au cul des plaques de composition. Mais quand Nietzsche se met à écrire avec une Malling-Hansen Writing Ball, il reconnaît qu’il pense différemment et que son style change.
 
 Nous revivons ce moment. Certains comme je l’ai fait avec *La quatrième théorie* écrivent dans Twitter, c’est-à-dire qu’ils composent leurs textes dans une fenêtre de saisie qui leur autorise 140 caractères à la fois. La page n’a plus de sens. La continuité de l’œuvre n’apparaît pas sous le regard, un peu comme si nous étions aveugles et nous contentions de dicter nos phrases. Évidemment, le style est influencé, ce qui est dit aussi.
 
@@ -35,3 +37,5 @@ Voir l’outil transformer ce que j’écris et pense m’a toujours fasciné. J
 1. Je n’ai pas écrit *La quatrième théorie* pour le découper a posteriori en tweets comme de nombreux auteurs l’ont fait avec leurs textes à seule fin de faire leur pub.
 2. On ne peut pratiquer la twittérature juste pour attirer l’attention. Cette pratique nous transforme.
 3. Des auteurs se vantent d’écrire sur iPad ou iPhone aussi pour attirer l’attention, mais encore une fois ils n’en expérimentent pas moins, pour peu qu’ils ne trichent pas.
+
+Tags: Croisade, NetLittérature, Twiller, Twittérature, une

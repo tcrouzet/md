@@ -6,7 +6,7 @@ Tel est le titre du livre que je n’ai plus le droit de ne pas écrire dans les
 
 Après un bref rappel de la situation inégalitaire extrême que nous vivons aujourd’hui, j’ai dans l’idée d’établir une sorte de check-list des choses que nous devrions faire pour ne pas tomber entre les mains de nos bourreaux, tout en préparant la reconstruction.
 
-Je commencerai par rappeler mon théorème [la liberté, c’est le lien](https://tcrouzet.com/2010/05/08/la-liberte-le-lien/). Par bien montrer que de nombreuses lois, type Hadopi, n’ont d’autre but que de réduire la fluidification, que de tenter de réduire la complexité, que de redonner les moyens du contrôle à la minorité…
+Je commencerai par rappeler mon théorème [la liberté, c’est le lien](http://blog.tcrouzet.com/2010/05/08/la-liberte-le-lien/). Par bien montrer que de nombreuses lois, type Hadopi, n’ont d’autre but que de réduire la fluidification, que de tenter de réduire la complexité, que de redonner les moyens du contrôle à la minorité…
 
 Finance : que faire du peu d’argent qui nous reste et comment donner à chacun le droit à la création monétaire (jeudi j’ai entendu ce cancre de [Guy Millière](http://fr.wikipedia.org/wiki/Guy_Milli%C3%A8re) déclamer que seules les banques centrales avaient le droit de créer de la monnaie – j’ai été le seul à réagir dans le petit auditoire). Depuis que nous savons qu’une minorité s’est arrogé le droit de créer de l’argent pendant que la majorité besogne, nous nous trouvons dans la même situation que les esclaves au temps de l’esclavage.
 
@@ -34,3 +34,5 @@ Il me semble que le plan d’action doit n’être que la mise en œuvre des pri
 Mon ambition serait de réécrire le programme de 1944. Nous disposons justement aujourd’hui des grandes idées pour repartir en avant contrairement [à ce que suppose Jean-Luc Porquet](http://www.article11.info/spip/spip.php?article791). Il est temps de se mettre au travail et de cesser de pleurnicher.
 
 *PS : En août, je serai à Ouessant pour le festival du livre insulaire. [Le concours de nouvelles organisé à cette occasion](http://www.livre-insulaire.fr/5.html) propose comme scénario « Le Gouverneur décida d’installer cinquante nouvelles familles sur une île de Bretagne. Un an après… » Je me suis alors dit que j’allais écrire vingt, trente nouvelles… plus peut-être où chaque fois les colons mettent en œuvre un système politique différent pour que chaque fois cela se termine mal. Manière ludique d’inventorier les possibilités et d’exprimer l’idée que le système idéal n’existe pas. Ces projets doivent aussi beaucoup à quelques longues conversations avec [Ayerdhal](http://www.facebook.com/pages/Ayerdhal/182872030566) notamment.*
+
+Tags: NetCulture

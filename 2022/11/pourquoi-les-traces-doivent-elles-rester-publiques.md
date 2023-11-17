@@ -49,3 +49,5 @@ Si les lettres et les mots appartiennent au domaine public, si encore quelques p
 Maintenant, un auteur qui prendrait un chapitre de Proust, un autre de Flaubert et un dernier de Stendhal et les assemblerait serait-il encore un auteur ? Je crois que oui. Comme certains musiciens qui remixent des morceaux, il pourrait fabriquer quelque chose de neuf, mais cette œuvre se superposerait à des œuvres existantes et ne pourrait avoir un statut juridique différent du leur, et de fait appartiendrait au domaine public.
 
 Quand je trace le 727, ma trace résultante, bien qu’originale, se superpose intégralement à d’autres traces du domaine public, elle est donc du domaine public par transitivité. J’en suis l’auteur de plein droit, je peux bien sûr faire du business autour, mais je ne peux la soustraire au domaine public. Je n’ai donc rien contre les évènements payant, et tant mieux pour les organisateurs si des bikepackers payent le prix fort, mais je milite pour que les traces restent ouvertes à ceux qui voudraient les suivre en Indivual Time Trial.
+
+Tags: Bikepacking, Born to Bike, une

@@ -1,6 +1,6 @@
 # Discussion avec un Passant
 
-Il me reproche [de ne plus parler que des pyramides](https://tcrouzet.com/2008/12/12/personne-n%E2%80%99oubliera/#comment-62375) et du mal qu’elles feraient alors que, par le passé, je parlais des avancées positives : scientifiques, technologiques ou esthétiques.
+Il me reproche [de ne plus parler que des pyramides](http://blog.tcrouzet.com/2008/12/12/personne-n%E2%80%99oubliera/#comment-62375) et du mal qu’elles feraient alors que, par le passé, je parlais des avancées positives : scientifiques, technologiques ou esthétiques.
 
 J’ai justement peur pour ces avancées, dont j’ai d’ailleurs assez rarement parlées sur le blog mais plutôt dans mes livres (et j’espère que ce sera encore le cas dans les prochains).
 

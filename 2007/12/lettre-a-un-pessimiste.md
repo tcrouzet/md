@@ -1,18 +1,18 @@
 # Lettre à un pessimiste
 
-J’écris à [Hugues](https://tcrouzet.com/2007/12/18/les-avantages-de-ne-pas-prevoir/#comment-49688), le mystique de service sur ce blog, notre adepte des prophéties et autres « shamaneries » sympathiques. J’adore retrouver des fables oraculaires dans les récits de SF mais, hors de la littérature, elles s’écroulent toujours, systématiquement, répétitivement, dès que nous nous tournons en arrière, que nous regardons les prévisions de jadis et que nous constatons que toujours, oui toujours excepté quelques miraculeux coups de chance engendrés par la théorie des grands nombres, elles sont totalement passées à côté de la vie.<span id="more-699"></span>
+J’écris à [Hugues](http://blog.tcrouzet.com/2007/12/18/les-avantages-de-ne-pas-prevoir/#comment-49688), le mystique de service sur ce blog, notre adepte des prophéties et autres « shamaneries » sympathiques. J’adore retrouver des fables oraculaires dans les récits de SF mais, hors de la littérature, elles s’écroulent toujours, systématiquement, répétitivement, dès que nous nous tournons en arrière, que nous regardons les prévisions de jadis et que nous constatons que toujours, oui toujours excepté quelques miraculeux coups de chance engendrés par la théorie des grands nombres, elles sont totalement passées à côté de la vie.<span id="more-699"></span>
 
 Pourquoi ? Parce que la vie nous appartient. Que quelqu’un essaie de l’écrire et nous vivrons autrement, rien que pour l’embêter. Alors prévoir l’avenir est certes une manière de façonner l’avenir mais ce n’est jamais l’anticiper… et c’est ce que je reproche à nombres de nos gouvernants.
 
 Hugues, pour essayer de ramener dans notre réalité tes lubies, tu cherches à me faire porter le chapeau d’une ambition démesurée… vas-y, traite-moi d’hyper-capitaliste, de libéral, de destructeur de la planète… Je suis la cause de tous les maux du monde. Je vais finir par me croire important alors que je ne suis qu’un écrivain et, comme tous les écrivains, je m’expose parce que j’ai la prétention d’avoir des trucs à dire.
 
-Quand j’écrivais et que je n’étais pas publié, on me critiquait d’écrire pour rien. Une fois que j’ai été publié, on m’a critiqué d’avoir des ambitions. Je m’habitue plus vite à cette seconde critique qu’à la première qui a souvent été difficile à supporter.
+Quand j'écrivais et que je n'étais pas publié, on me critiquait d’écrire pour rien. Une fois que j'ai été publié, on m'a critiqué d'avoir des ambitions. Je m’habitue plus vite à cette seconde critique qu’à la première qui a souvent été difficile à supporter.
 
-Quant à ta vision de l’argent et du pouvoir, Hugues, elle n’est pas la mienne. Je n’ai jamais cherché à avoir plus que ce que mon confort exigeait, je n’ai jamais cherché à faire fortune même si j’ai eu des occasions, j’ai toujours cherché à avoir du temps pour écrire… c’était ça le pouvoir pour moi et ça le reste. Il n’y a pas qu’un pouvoir, qu’une façon de vivre, qu’une ornière inflexible dont nous ne pourrions pas nous arracher.
+Quant à ta vision de l'argent et du pouvoir, Hugues, elle n'est pas la mienne. Je n'ai jamais cherché à avoir plus que ce que mon confort exigeait, je n’ai jamais cherché à faire fortune même si j'ai eu des occasions, j'ai toujours cherché à avoir du temps pour écrire... c'était ça le pouvoir pour moi et ça le reste. Il n’y a pas qu’un pouvoir, qu’une façon de vivre, qu’une ornière inflexible dont nous ne pourrions pas nous arracher.
 
-Le pouvoir pour un écrivain est d’arriver à tenir des lecteurs, à en avoir plus, à leur transmettre quelques chose… Tu en gagnes de nouveaux, tu en perds des anciens, ce n’est pas grave. Une fois que tu as fait ton travail de passeur, la suite n’a pas d’importance : tu as semé quelques graines. En ce sens, les écrivains diffèrent définitivement des gourous qui cherchent à garder coûte que coûte leurs fidèles.
+Le pouvoir pour un écrivain est d'arriver à tenir des lecteurs, à en avoir plus, à leur transmettre quelques chose... Tu en gagnes de nouveaux, tu en perds des anciens, ce n'est pas grave. Une fois que tu as fait ton travail de passeur, la suite n'a pas d'importance : tu as semé quelques graines. En ce sens, les écrivains diffèrent définitivement des gourous qui cherchent à garder coûte que coûte leurs fidèles.
 
-Je reviendrai samedi encore une fois sur [cette histoire d’imprévisibilité](https://tcrouzet.com/2007/12/18/les-avantages-de-ne-pas-prevoir/) pour justement expliquer pourquoi des affirmations comme tu en professes sont inacceptables.
+Je reviendrai samedi encore une fois sur [cette histoire d'imprévisibilité](http://blog.tcrouzet.com/2007/12/18/les-avantages-de-ne-pas-prevoir/) pour justement expliquer pourquoi des affirmations comme tu en professes sont inacceptables.
 
 > Si nous ne changeons pas MAINTENANT nous disparaîtrons par Atomisation ou autres catastrophes HUMAINE ou NATURELLES !!! dis-tu.
 
@@ -31,3 +31,5 @@ Nous avons découvert ces dernières années, notamment grâce à Axelrod, que l
 Nous sommes libres dans un monde de contraintes. La gravitation est là pour que nous cherchions à nous en échapper mais elle reste là. Tu peux crier haut et fort que tu connais l’avenir, tu ne le rendras pas plus réel, tu ne prouveras pas en criant qu’on peut le prévoir… Pour démontrer qu’il est prévisible, prévois-le ici et maintenant. Annonce-nous quel sera le taux de croissance 2008, le vainqueur de la coupe d’Europe de foot, la température moyenne de l’été prochain, le cours du dollar au printemps… Annonce-nous des choses que nous pourrons éprouver et arrête d’agiter un épouvantail.
 
 Oui, l’avenir n’est pas écrit, il nous appartient. Ce vide insondable nous fait peur mais ce n’est pas une raison pour le peupler artificiellement de démons. Ératosthène en traçant la première carte du monde avait laissé des vides sur la carte. Les chrétiens se sont empressés de les remplir avec leurs mythes. Et ça recommence.
+
+Tags: imprevisibilité

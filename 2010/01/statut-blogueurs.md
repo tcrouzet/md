@@ -31,3 +31,5 @@ Le véritable clivage politique de demain émerge peu à peu. D’un côté, les
 1. Bloguer n’est pas plus mon activité personnelle que professionnelle. Je ne sais plus ce que ces distinctions signifient. Bloguer, c’est ma vie. Bloguer ou écrire, c’est pour moi la même chose.
 2. Dès *Le peuple des connecteurs*, j’ai défendu la fusion du privé et du public. Je me bats depuis toujours contre le dualisme qui visent à séparer nos vies en deux (au minimum). Je cherche à être moi-même quelle que soit la situation. Je ne change pas de casquette en fonction du vent.
 3. L’interventionnisme mal avisé vise en fait à marginaliser le blogueur, à le ranger dans la case amateur sans poids… et à nous dire que bloguer n’est pas important, juste une distraction. Alors, ceux qui comme moi voient le blog comme une part entière de leur activité d’auteur peuvent accuser le coup. C’est justement le but rechercher : faire taire les voix extérieures plutôt que contrôler les voix intérieures.
+
+Tags: NetCulture

@@ -19,3 +19,5 @@ Et je me mets à rêver. Sarkozy a tout fait pour avoir le pouvoir, il a tout é
 Si ça pouvait être vrai en France, nous aurions tout à y gagner. Mais je ne suis pas sûr que les membres des partis apprécient.
 
 On verra bien si Sarkozy est fort.
+
+Tags: Politique

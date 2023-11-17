@@ -8,11 +8,11 @@ Les beaux jours reviennent et, avec, deux calamités depuis que la digital detox
 
 - Parce que, comme vous n’avez pas préparé votre interview, vous me posez tous les mêmes questions.
 
-- Parce qu’aucun n’a lu [*J’ai débranché*](https://tcrouzet.com/jai-debranche/), pas même [l’extrait gratuit](https://tcrouzet.com/2011/12/26/jai-debranche-extraits/).
+- Parce qu’aucun n’a lu [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), pas même [l’extrait gratuit](http://blog.tcrouzet.com/2011/12/26/jai-debranche-extraits/).
 
-- Parce qu’aucun n’a lu [mes billets sur le sujet](https://tcrouzet.com/tag/jai-debranche/).
+- Parce qu’aucun n’a lu [mes billets sur le sujet](http://blog.tcrouzet.com/tag/jai-debranche/).
 
-- Parce qu’aucun ne regarde [ce qui a déjà été écrit par d’autres](https://tcrouzet.com/jai-debranche/jai-debranche-presse/).
+- Parce qu’aucun ne regarde [ce qui a déjà été écrit par d’autres](http://blog.tcrouzet.com/jai-debranche/jai-debranche-presse/).
 
 - Parce que j’en ai assez d’écrire vos articles au téléphone pour voir mes propos dénaturés dans un français approximatif.
 
@@ -34,4 +34,8 @@ Atterrissez : vous ne faites plus vendre, vous n’êtes plus des passages obli
 
 Je sais déjà que j’écris cet article pour rien. Parce que les prochains étudiants et journalistes qui voudront m’interviewer ne le liront pas. En attendant, ça me fait du bien de l’écrire.
 
-![Déconnecter, c'est ne plus partager ce moment.](https://tcrouzet.com/images_tc/2015/04/soir.jpg)
+![Déconnecter, c'est ne plus partager ce moment.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/soir.jpg)
+
+
+
+Tags: J'ai débranché, Journalisme, NetCulture, une

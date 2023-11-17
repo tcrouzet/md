@@ -6,17 +6,17 @@
 
 J’ai quitté Blois où il faisait froid pour rentrer dans le Midi où nous avons plus froid qu’au plus dur de l’hiver.
 
-![1<sup>er</sup> mai](https://tcrouzet.com/images_tc/2016/06/1mai.jpg)
+![1<sup>er</sup> mai](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/06/1mai.jpg)
 
 ### Lundi 2, Balaruc
 
-J’ai repris [*Résistants*](https://tcrouzet.com/resistants/) depuis le début avec une nouvelle histoire et un nouveau mode narratif. J’avance dans mon coin avec une grande liberté maintenant que je me suis libéré de la nécessité du feuilleton. Plutôt que me regarder écrire, j’écris, avec l’objectif de 10 000 signes/jour.
+J’ai repris [*Résistants*](http://tcrouzet.com/resistants/) depuis le début avec une nouvelle histoire et un nouveau mode narratif. J’avance dans mon coin avec une grande liberté maintenant que je me suis libéré de la nécessité du feuilleton. Plutôt que me regarder écrire, j’écris, avec l'objectif de 10 000 signes/jour.
 
 ### Mardi 3, Balaruc
 
 L’interphone sonne. Je décroche. Un homme dit qu’il voudrait deux heures de cours sur le logiciel Calibre. J’explose de rire. C’est le début de la gloire quand on te persécute jusqu’à chez toi. C’est tout de même un peu flippant ce type d’intrusion dans la sphère privée. Je demande au gars de m’envoyer un mail et lui promets de boire un verre avec lui (je n’ai jamais reçu de mail).
 
-![Sete](https://tcrouzet.com/images_tc/2016/06/sete.jpg)
+![Sete](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/06/sete.jpg)
 
 Nous invitons Émile au restaurant pour fêter ses neufs ans.
 
@@ -24,7 +24,7 @@ Nous invitons Émile au restaurant pour fêter ses neufs ans.
 
 La littérature sur le Net n’est plus une histoire de textes, mais de personnes. L’audience est si dérisoire que seulement les auteurs eux-mêmes se lisent et s’excluent les uns les autres de leur coterie pour gagner les parts d’un marché qui n’existe pas.
 
-### Jeudi 5, Montagnac
+### Jeudi 5, Maillardou
 
 Quand nous sommes des millions à écrire, à peine moins nombreux que les lecteurs, il ne reste pour nous que l’opportunité de créer quelques espaces textuels où inventer des osmoses créatrices.
 
@@ -36,7 +36,7 @@ Après un footing, je suis incapable d’écrire pour le restant de la journée.
 
 Nous ne nous lisons même pas les uns les autres. Pourquoi espérons-nous avoir des lecteurs ? Ce n’est pas parce que l’écriture nous fait jouir que nous devons emmerder des lecteurs par nos mots. Je suis un adepte de l’onanisme littéraire, rien d’autre qu’un exhibitionniste. La véritable sagesse serait le repli : avoir la force non pas de me taire, mais ne pas me donner à lire.
 
-![montagnac](https://tcrouzet.com/images_tc/2016/06/montagnac.jpg)
+![montagnac](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/06/montagnac.jpg)
 
 ### Lundi 9, Balaruc
 
@@ -44,7 +44,7 @@ La plupart des auteurs bataillent pour entretenir leur communauté de fidèles l
 
 ---
 
-On me conseille des romans de genre. Je les lis en me disant qu’ils s’adressent à celui que j’étais avant mes vingt ans, avant que j’aie une culture esthétique. Et me voilà en devoir de faire de *Résistants* un roman de genre, entre la romance et le thriller. Personne ne m’a imposé cette sinécure. J’ai juste pour devoir de vulgariser, et donc d’être populaire. Je n’ai aucune raison de réussir, et j’éprouve le besoin d’autres sortes de phrases. Coller à une forme est une contrainte comme une autre.
+On me conseille des romans de genre. Je les lis en me disant qu’ils s’adressent à celui que j’étais avant mes vingt ans, avant que j’aie une culture esthétique. Et me voilà en devoir de faire de *Résistants* un roman de genre, entre la romance et le thriller. Personne ne m’a imposé cette sinécure. J’ai juste pour devoir de vulgariser, et donc d'être populaire. Je n’ai aucune raison de réussir, et j’éprouve le besoin d’autres sortes de phrases. Coller à une forme est une contrainte comme une autre.
 
 ---
 
@@ -54,7 +54,7 @@ Dans *Sapiens*, Yuval Noah Harari écrit : « Les longs intestins et les gros 
 
 Déplâtrage d’Émile, nouvelle radio où la marque de la fracture crève encore les yeux, mais la médecin nous rassure. Dans un mois, il pourra reprendre le sport.
 
-![Déplâtrage](https://tcrouzet.com/images_tc/2016/06/platre.jpg)
+![Déplâtrage](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/06/platre.jpg)
 
 ---
 
@@ -68,7 +68,7 @@ Le web est peuplé d’auteurs pathétiques qui s’illusionnent les uns les aut
 
 Je manque d’énergie ce matin, je n’arrive pas à me mettre au travail, alors je déroule mon fil social pour me retourner dégoûté de cette volonté de bruit. J’en viens à détester ce Net où nous nous exposons, où, de l’art à l’humanitaire, tout n’est que prétexte pour nourrir des ego privés de transcendance.
 
-![Pluie](https://tcrouzet.com/images_tc/2016/06/pluie1.jpg)
+![Pluie](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/06/pluie1.jpg)
 
 ---
 
@@ -82,9 +82,7 @@ Durant le déjeuner, Isa se demande combien de personnes ont touché le yaourt q
 
 Temps abominable pour un mois de mai, pluie, bourrasques du sud et soudain en milieu d’après-midi le vent vire à l’ouest. C’est une renverse.
 
-<div class="iframe" id="iframe23"></div>
-
-![Dessin d'Émile](https://tcrouzet.com/images_tc/2016/06/pan.jpg)
+![Dessin d'Émile](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/06/pan.jpg)
 
 ### Mercredi 18, Balaruc
 
@@ -106,7 +104,7 @@ Un auteur « littéraire » me dit : nous n’écrivons pas la même chose. G
 
 Première séance de vagues avec les enfants. Je ne perds pas une seconde Émile du regard. En théorie, il n’a pas encore le droit de faire du sport, sauf baignade. C’est donc limite, mais je m’éclate à le voir s’éclater. Nous rentrons sous l’orage comme souvent quand nous allons dans les vagues, puisqu’il faut un temps chargé avec vent du sud.
 
-![Après l'orage](https://tcrouzet.com/images_tc/2016/06/orage.jpg)
+![Après l'orage](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/06/orage.jpg)
 
 ### Lundi 23, Balaruc
 
@@ -120,4 +118,8 @@ De mieux en mieux. Des auteurs se chroniquent les uns les autres et prétendent 
 
 Aux commentateurs sur Wattpad, j’ai envie de dire lisez au lieu de poster des commentaires dans le seul but d’attirer de nouveaux followers.
 
-![Tarassac](https://tcrouzet.com/images_tc/2016/06/tarassac.jpg)
+![Tarassac](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/06/tarassac.jpg)
+
+
+
+Tags: Carnets, une

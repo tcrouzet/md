@@ -18,8 +18,10 @@ Je me suis alors réattaqué à ma sauvegarde statique. Une fois générée, une
 
 J’ai donc créé [un repository pour accueillir mon blog statique](https://github.com/tcrouzet/blog) (un dossier pour faire simple), sur mon ordinateur j’ai installé [GitHub Desktop](https://desktop.github.com/), je l’ai synchronisé avec mon compte GitHub, il a créé une copie du repository en local, j’y ai placé la version statique du blog et je l’ai publiée. Ainsi mon blog statique est désormais accessible par tous depuis GitHub et le restera tant que GitHub ne changera pas de politique et continuera de fonctionner. [N’importe qui peut télécharger le blog pour l’archiver ailleurs.](https://github.com/tcrouzet/blog) [J’ai même créé une URL dédiée pour consulter la version statique.](https://static.tcrouzet.com/)
 
-![Mon blog statique](https://tcrouzet.com/images_tc/2021/10/staticmoi.png)
+![Mon blog statique](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/10/staticmoi.png)
 
 Il me suffira de temps à autre de mettre à jour cette version statique pour avoir un backup de mon blog, beaucoup plus pérenne que celui que j’effectue toutes les nuits en sauvegardant ma base de données.
 
-Je pourrais passer en 100 % statique. Mon blog serait plus rapide, je n’aurais plus besoin de payer un serveur, je gagnerais des heures en maintenance, mes lecteurs n’y verraient que du feu… mais j’aime jouer avec PHP, donc je persiste, tout en sachant que l’avenir n’est pas pour moi dans le dynamique. Un jour, de gré ou de force, je jetterai l’éponge. À moins qu’une fondation prenne en charge les blogs comme le mien, continue de les faire vivre, pour mémoire. Ce serait logiquement le travail de la Bibliothèque Nationale.
+Je pourrais passer en 100 % statique. Mon blog serait plus rapide, je n’aurais plus besoin de payer un serveur, je gagnerais des heures en maintenance, mes lecteurs n'y verraient que du feu… mais j’aime jouer avec PHP, donc je persiste, tout en sachant que l’avenir n’est pas pour moi dans le dynamique. Un jour, de gré ou de force, je jetterai l’éponge. À moins qu’une fondation prenne en charge les blogs comme le mien, continue de les faire vivre, pour mémoire. Ce serait logiquement le travail de la Bibliothèque Nationale.
+
+Tags: NetLittérature, une

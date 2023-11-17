@@ -22,7 +22,7 @@ Les petits outils atterrissent dans une trousse Wolf Tooth bien pratique, les au
 
 Pour la première fois, je n’emporte pas de cartouche de CO2. Comme mes pneus ont déjà claqué, je peux les regonfler avec ma très efficace pompe Specialized. Avec ses 80 g, la cartouche et l’embout représentaient 10 % du poids des outils. Je continuerai d’utiliser des cartouches pour les sorties courtes, mais en bikepacking je prendrai mon temps pour regonfler, quitte à transporter une pompe un poil plus lourde, mais efficace.
 
-![Les outils](https://tcrouzet.com/images_tc/2021/03/IMG_8382.jpeg)
+![Les outils](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_8382.jpeg)
 
 ### Camping
 
@@ -30,7 +30,7 @@ Pour la première fois, je n’emporte pas de cartouche de CO2. Comme mes pneus 
 
 Du très classique pour moi, sac de couchage trois saisons et tente. Je réserve le bivy aux raids d’une nuit, quand je suis sûr de ne pas prendre la pluie et n’ai pas besoin d’un tarp (bivy et tarp pèsent autant que ma tente).
 
-![Ma tente](https://tcrouzet.com/images_tc/2021/03/IMG_8408.jpeg)
+![Ma tente](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/IMG_8408.jpeg)
 
 ### Électronique
 
@@ -50,7 +50,7 @@ Le b.a.-ba. J’ai gagné 50 g en dénichant une serviette ultralégère.
 
 Je scrute fébrilement les prévisions météo sur le parcours. Nous atteindrons parfois les 20°C sous abri, synonyme de tenue d’été, sur les hauteurs les matins nous ne serons pas loin de zéro, avec risque de pluie.
 
-![Météo à J-7](https://tcrouzet.com/images_tc/2021/03/cfgth-07.png)
+![Météo à J-7](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/cfgth-07.png)
 
 Quoi qu’il arrive, même en été je pars avec un imperméable et une doudoune légère. C’est un incontournable. Reste à définir les couches inférieures. Je pourrais faire l’économie de ma veste Alpha, mais je pense l’emporter pour m’offrir plus de souplesse (j’aviserai au dernier moment).
 
@@ -70,12 +70,14 @@ La réserve calorique de secours ne pèsera que 120 g sous la forme de [4 pochet
 
 Dans la gourde attachée à ma fourche, j’utilise en début de journée des pastilles d’électrolytes, toujours à faible dose. Dans mon sac de cadre, j’ai une poche d’eau claire de potentiellement 2 litres.
 
-Le plus difficile reste d’attacher la gourde à une fourche hydraulique sans fixation. J’ai testé [le porte-bidon BBB HaulerMount](https://bbbcycling.com/fr_fr/bbc-111-haulermount), serré avec un velcro. En plus d’être lourd, il ne tient pas, quels que soient mes efforts. Il a tendance à tourner et à ramener la gourde contre la roue. J’ai aussi testé les [Zéfal Gizmo Universal-Colliers](http://www.zefal.com/fr/porte-bidons-thermoplastique/60-gizmo-universal.html), moins protubérants, plus légers, mais qui se détendent au bout de quelques jours. Je pense les doubler avec du Duck Tape, si je ne reçois pas les [King Cage Universal Support Bolt](https://kingcage.com/products/universal-support-bolt) commandés il y a déjà un mois aux USA.
+Le plus difficile reste d'attacher la gourde à une fourche hydraulique sans fixation. J'ai testé [le porte-bidon BBB HaulerMount](https://bbbcycling.com/fr_fr/bbc-111-haulermount), serré avec un velcro. En plus d'être lourd, il ne tient pas, quels que soient mes efforts. Il a tendance à tourner et à ramener la gourde contre la roue. J'ai aussi testé les [Zéfal Gizmo Universal-Colliers](http://www.zefal.com/fr/porte-bidons-thermoplastique/60-gizmo-universal.html), moins protubérants, plus légers, mais qui se détendent au bout de quelques jours. Je pense les doubler avec du Duck Tape, si je ne reçois pas les [King Cage Universal Support Bolt](https://kingcage.com/products/universal-support-bolt) commandés il y a déjà un mois aux USA.
 
 ### Bilan
 
-![Bilan](https://tcrouzet.com/images_tc/2021/03/cfgth-09.png)
+![Bilan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2021/03/cfgth-09.png)
 
 Mon poids de base bikepacking reste sous les 6 kg, c’est mon objectif. Le poids avec vélo (10,4 kg) et alimentation restera sous les 17 kg. Même avec le plein d’eau, je me situerai sous ma limite fatidique des 20 kg (au-delà, je peine dans les sections de portage).
 
 Le sac de cadre est le plus lourdement chargé, surtout quand j’ajoute jusqu’à 2 litres d’eau. Ma direction atteindra le poids maximal pour moi acceptable, au-delà je trouve le vélo moins joueur dans les singles.
+
+Tags: 727, Born to Bike, une

@@ -53,3 +53,5 @@ Durcissement juridique et prédominance de quelques gros sites mettent en danger
 Pendant ce temps, les gens qui aiment le pouvoir veulent préserver ce pouvoir, réduire la complexité de la société, nous transformer en petits soldats, nous ranger dans des cases… et que surtout nous n’en sortions pas. Internet est pour eux le pire des instruments qu’ils ont laissé inventer avec leur propre argent. Ils n’auront d’autres fins que de le combattre. Hadopi n’est qu’une de leurs manœuvres tactiques. Il ne se sert à rien d’ergoter sur les droits d’auteurs. La question est de savoir si nous devons ou non nous battre pour préserver notre liberté numérique, sans laquelle par exemple, la véritable liberté d’expression n’existe pas.
 
 Demain, sous le prétexte fallacieux de protéger les auteurs, on nous empêchera d’échanger nos propres créations en P2P. J’imagine un temps où avant d’envoyer un gros fichier sur le net, on nous demandera de passer par un comité de censure. C’est ça qui nous guette. Il y aura des utilisateurs autorisés, d’autres restreints, voire bloqués.
+
+Tags: Hadopi

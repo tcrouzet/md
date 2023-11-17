@@ -8,4 +8,4 @@ Ce 727 a été l’occasion de tester des variantes, d’en adopter certaines, d
 
 [Infos et traces sont sur la page dédiée…](https://tcrouzet.com/727tour)
 
-<div class="iframe" id="iframe4"></div>
+Tags: 727, Bikepacking, Born to Bike, une

@@ -16,4 +16,8 @@ Nous sommes à l’âge numérique. Court ou long ne veut plus rien dire. Nous p
 
 Vous allez me dire d’écrire la SF que j’aimerais lire. Pourquoi pas. Mais j’ai bien le droit d’être un aficionado déçu. Tous les livres de SF qui me passent entre les mains se ressemblent. Même traitement psychologique ringard. Même longueur de description. Même formatage. Après l’âge d’or, c’est l’âge de la normalisation.
 
-![janus](https://tcrouzet.com/images_tc/2014/03/janus.jpg)
+![janus](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/janus.jpg)
+
+
+
+Tags: Critique, SF, une

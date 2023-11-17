@@ -1,6 +1,6 @@
 # La naissance du logiciel libre
 
-Comme je m’apprête à rencontrer [Richard Stallman](http://stallman.org/), j’ai replongé dans *Un PC sans Microsoft*, un livre que j’ai écrit durant l’été 2002 et publié en février 2003 chez First Édition. En route vers Genève, j’ai récupéré les passages qui pouvaient encore avoir un sens aujourd’hui. En relisant ces lignes, j’ai l’impression d’assister au réveil de ma conscience politique. Tout cela me paraît si loin alors qu’il ne s’est écoulé que huit ans.<span id="more-20298"></span>
+Comme je m’apprête à rencontrer [Richard Stallman](http://stallman.org/), j’ai replongé dans *Un PC sans Microsoft*, un livre que j’ai écrit durant l’été 2002 et publié en février 2003 chez First Édition. En route vers Genève, j’ai récupéré les passages qui pouvaient encore avoir un sens aujourd’hui. En relisant ces lignes, j’ai l’impression d'assister au réveil de ma conscience politique. Tout cela me paraît si loin alors qu’il ne s’est écoulé que huit ans.<span id="more-20298"></span>
 
 ---
 
@@ -90,7 +90,7 @@ Programmée en assembleur, elle tournait sur un PDP-11. De 1972 à 1974, Unix fu
 
 Comme beaucoup d’autres inventions informatiques, Unix s’avéra fort pratique hors du cadre pour lequel il fut conçu. Sa capacité à gérer simultanément plusieurs programmes et plusieurs utilisateurs, tout en étant facilement portable d’un type ordinateur à un autre, lui ouvrait de nombreuses portes, notamment dans le domaine industriel pour le contrôle d’automatismes. Cette petite histoire me rappelle des nuits blanches dans le bureau bruyant d’une usine robotisée où un mini-ordinateur Vax me donnait du fil à retordre.
 
-Qu’importe, si Unix était puissant, il n’en était pas moins rebutant pour les néophytes et il ne réussit pas à s’imposer aux premiers micro-ordinateurs. Bill Gates avait gagné en imposant MS-DOS. Je me souviens que la grogne, aujourd’hui au grand jour, était déjà latente à l’époque.
+Qu’importe, si Unix était puissant, il n’en était pas moins rebutant pour les néophytes et il ne réussit pas à s’imposer aux premiers micro-ordinateurs. Bill Gates avait gagné en imposant MS-DOS. Je me souviens que la grogne, aujourd'hui au grand jour, était déjà latente à l’époque.
 
 Les industriels se regroupaient au sein de l’OSF (*Open Software Foundation*), intégrée depuis à The Open Group, pour essayer d’imposer un Unix standardisé. Toutefois, ces tentatives officielles échouèrent en grande partie. Unix ne revint au-devant de la scène qu’au début des années 1990, avec la popularité grandissante des logiciels libres : une multitude de développeurs avaient commencé à distribuer leurs programmes tout en les faisant accompagner de leurs codes sources.
 
@@ -183,3 +183,5 @@ Je ne vais tout de même pas les plaindre. Richard Stallmann n’a jamais vécu 
 Quand à Linus Torvald, après sa carrière universitaire à Helsinki, il déménagea pour la Californie et Santa Clara. En 1999, âgé de 30 ans, il rejoignait comme manager la société Transmeta. Je souris en découvrant que Paul Allen, l’associé de Bill Gates lors de la création de Microsoft, en est le principal actionnaire.
 
 \[…\]
+
+Tags: NetCulture

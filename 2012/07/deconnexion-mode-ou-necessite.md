@@ -1,22 +1,22 @@
 # Déconnexion : mode ou nécessité ?
 
-Il y un an, j’étais loin du Net pour écrire [*J’ai débranché*](https://tcrouzet.com/jai-debranche/). Où en suis-je ? On me pose souvent cette question alors même qu’une épidémie de déconnexion semble se propager. Je fais le point avec une compilation d’interviews.<span id="more-26500"></span>
+Il y un an, j’étais loin du Net pour écrire [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/). Où en suis-je ? On me pose souvent cette question alors même qu’une épidémie de déconnexion semble se propager. Je fais le point avec une compilation d'interviews.<span id="more-26500"></span>
 
 *— [Je survis sans lampe à pétrole depuis 49 ans](https://twitter.com/cjeanney/status/197267897352073216), ce n’est pas une raison pour écrire un livre à ce sujet.*
 
-— Il n’y a pas de bons ou de mauvais sujets pour un livre, il y a de bons et de mauvais livres. J’ai écrit le mien parce que j’en ai éprouvé le besoin, [pour la première fois en août 2008](https://tcrouzet.com/2008/08/27/reverie-estivale/), soit près de trois ans avant de débrancher effectivement.
+— Il n’y a pas de bons ou de mauvais sujets pour un livre, il y a de bons et de mauvais livres. J’ai écrit le mien parce que j’en ai éprouvé le besoin, [pour la première fois en août 2008](http://blog.tcrouzet.com/2008/08/27/reverie-estivale/), soit près de trois ans avant de débrancher effectivement.
 
-Comparer le Net à une lampe à pétrole, une voiture, une tondeuse… n’a aucun sens. Ces outils n’ont ontologiquement aucun rapport avec lui. [Le net est un territoire.](https://tcrouzet.com/tag/territoire/)
+Comparer le Net à une lampe à pétrole, une voiture, une tondeuse… n’a aucun sens. Ces outils n’ont ontologiquement aucun rapport avec lui. [Le net est un territoire.](http://blog.tcrouzet.com/tag/territoire/)
 
 On utilise un outil, on habite un territoire. Pour bien utiliser un outil, on n’a pas nécessairement besoin de savoir comment il fonctionne. Pour bien vivre sur un territoire, il faut en comprendre les usages, le climat, la géographie… avant même de choisir où habiter.
 
 Être habitant, c’est beaucoup plus exigeant qu’être utilisateur. Il faut se construire une maison, se créer un tissu relationnel. Il faut aussi explorer le territoire, voire participer à son extension et aussi à la construction de son infrastructure (routes, services, lieux publics…).
 
-Quand vous entrez dans un nouveau pays, vous en quittez un autre. Il est difficile d’être dans deux pays en même temps. Si internet est un territoire, nous devons nous considérer comme des émigrants, des voyageurs ou des nomades. J’aime particulièrement la troisième approche, [parce que le nomadisme a des vertus qui peuvent aujourd’hui nous être utile](https://tcrouzet.com/alternative-nomade/). Par exemple, le nomade ne possède que ce qu’il peut transporter. Cela se traduit par une consommation plutôt tournée vers les biens immatériels.
+Quand vous entrez dans un nouveau pays, vous en quittez un autre. Il est difficile d’être dans deux pays en même temps. Si internet est un territoire, nous devons nous considérer comme des émigrants, des voyageurs ou des nomades. J’aime particulièrement la troisième approche, [parce que le nomadisme a des vertus qui peuvent aujourd’hui nous être utile](http://blog.tcrouzet.com/alternative-nomade/). Par exemple, le nomade ne possède que ce qu’il peut transporter. Cela se traduit par une consommation plutôt tournée vers les biens immatériels.
 
 Mais comme tout émigrant, on peut éprouver le besoin de revenir dans son pays natal. Ce n’est pas un déni de sa nouvelle vie, plutôt la nécessité de se nourrir d’une énergie qu’on n’y retrouve pas, ou n’y retrouve plus.
 
-Avec ma déconnexion, j’ai effectué un retour aux sources tout en sachant que je reviendrais à ma nouvelle vie. Il n’a jamais été question pour moi de l’abandonner. J’ai toujours su que le problème c’était moi et non pas internet. Voilà pourquoi dans mon livre je ne parle que de moi. Ce n’est pas un essai, mais le récit d’une tranche de vie somme toute assez ordinaire. On a hésité chez Fayard à le classer en littérature, on aurait dû.
+Avec ma déconnexion, j’ai effectué un retour aux sources tout en sachant que je reviendrais à ma nouvelle vie. Il n’a jamais été question pour moi de l’abandonner. J’ai toujours su que le problème c’était moi et non pas internet. Voilà pourquoi dans mon livre je ne parle que de moi. Ce n’est pas un essai, mais le récit d’une tranche de vie somme toute assez ordinaire. On a hésité chez Fayard à le classer en littérature, on aurait dû. 
 
 *— Dans le monde numérique, les structures évoluent plus vite que les hommes. À titre individuel, que faut-il faire pour rétablir l’équilibre ?*
 
@@ -24,7 +24,7 @@ Avec ma déconnexion, j’ai effectué un retour aux sources tout en sachant que
 
 Dans le nouveau pays, il faut faire le tri, exactement comme quand on arrive pour la première fois dans une ville. Il ne faut pas se sentir obligé d’aller où tout le monde va, de faire comme tous les autres, de répondre à toutes les sollicitations. Il faut choisir son rythme et ne pas se le laisser imposer.
 
-Il faut penser que l’éthique de ce nouveau pays n’existe pas encore, qu’elle est balbutiante. Il faut aussi comprendre que certains faits sociaux se transforment. Par exemple, les gens s’organisent en réseau plutôt qu’en pyramide. On communique horizontalement. Il faut accepter ces changements, sinon mieux vaut rebrousser chemin.
+Il faut penser que l’éthique de ce nouveau pays n’existe pas encore, qu'elle est balbutiante. Il faut aussi comprendre que certains faits sociaux se transforment. Par exemple, les gens s’organisent en réseau plutôt qu’en pyramide. On communique horizontalement. Il faut accepter ces changements, sinon mieux vaut rebrousser chemin.
 
 On est nécessairement un émigrant quand on va sur le Net. Il ne faut jamais l’oublier. C’est une grande remise en cause. C’est pour ça que de plus en plus de gens éprouvent le besoin de faire marche arrière, soit que trop de choses leur déplaisent, soit qu’ils éprouvent le besoin de visiter leur famille d’origine. Je ne crois pas qu’ils obéissent à une mode. Comme si j’étais moi-même à la mode.
 
@@ -93,3 +93,5 @@ Internet, c’est la vraie vie, la vraie vie dans un pays étranger et qui le re
 Maintenant croyez-vous qu’on puisse vivre hors d’internet ? Ça me paraît difficile. Je crois même que ce n’est pas souhaitable. On a de sérieux problèmes à résoudre dans le monde et on ne les résoudra pas sans internet. S’en exclure, c’est refuser de participer à l’effort collectif. Donc il est vital d’apprendre à être heureux sur le nouveau territoire. Si cet apprentissage passe par la déconnexion pourquoi pas, mais ce n’est qu’un chemin parmi une infinité d’autres.
 
 Il ne faut pas oublier que dans de nombreuses sociétés le passage à l’âge adulte s’effectue grâce un rituel. Le chasseur doit chasser sans arme, il doit survivre sans le soutien de la communauté, souvent sur un terrain particulier, il doit chaque fois vivre en se privant de qui fait son quotidien. Faire un bout de chemin loin d’internet, loin d’une forme de civilisation, c’est sans doute mieux comprendre cette civilisation. Si on ne veut pas en devenir l’esclave, c’est peut-être pas inutile.
+
+Tags: J'ai débranché, NetCulture, une

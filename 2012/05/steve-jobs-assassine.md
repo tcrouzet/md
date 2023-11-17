@@ -4,7 +4,7 @@ Steve est bien mort d’un cancer, mais Walter Isaacson son biographe officiel l
 
 J’ai lu son best-seller non-stop, avec cette impression exaltante de revivre une part de l’histoire de mon temps comme si je la voyais depuis le futur. Mais plus j’avançais, plus un malaise s’est installé en moi. Je n’arrêtais pas de me dire « Nous avons raté quelque chose. »
 
-![](https://tcrouzet.com/images_tc/2012/05/steve-jobs-biographie1.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/05/steve-jobs-biographie1-450x306.jpg)
 
 ### Ratage dans la forme
 
@@ -20,7 +20,7 @@ Isaacson n’a établi qu’une chronologie dans laquelle il faudra puiser pour 
 
 ### Ratage dans le fond
 
-Au fil des pages, je ne cessais de me demander « C’est tout ce que nous laissons ? » L’incapacité de Jobs de s’attaquer aux problèmes de société me rappelait mes propres incapacités et celles de la plupart d’entre nous.
+Au fil des pages, je ne cessais de me demander « C’est tout ce que nous laissons ? » L'incapacité de Jobs de s’attaquer aux problèmes de société me rappelait mes propres incapacités et celles de la plupart d’entre nous.
 
 Jobs dans sa jeunesse aspire à une vie spirituelle, à l’extase, tout cela dans une démarche très individualiste. Par la suite, jamais il ne se tend vers le collectif, sinon en nous donnant des produits.
 
@@ -30,7 +30,7 @@ Revivre avec Jobs m’a montré la facette la plus désolante de la Silicon Vall
 
 On n’éprouve aucune émotion devant un pinceau de la Renaissance mais on peut jouir indéfiniment devant les toiles auxquelles il a donné naissance. Nos gadgets ne sont que des pinceaux. Il est certes indispensable de les perfectionner, mais il serait dangereux d’oublier de peindre avec.
 
-Isaacson m’a laissé cette impression que nous oublions l’essentiel. Il nous donne un Jobs qui insiste souvent sur les possibilités créatives de ses produits, sans que cela soit plus qu’un leitmotiv marketing. On ne voit rien jaillir d’extraordinaire.
+Isaacson m’a laissé cette impression que nous oublions l'essentiel. Il nous donne un Jobs qui insiste souvent sur les possibilités créatives de ses produits, sans que cela soit plus qu’un leitmotiv marketing. On ne voit rien jaillir d’extraordinaire.
 
 Sommes-nous stériles ? Voilà ce que je n’ai cessé de penser en lisant. Nos vies sont-elles à ce point insipides ? Elles ne feront pas rêver nos enfants. Ou est-ce que nous sommes encore incapables de deviner en elles ce qu’elles recèlent d’extraordinaire ?
 
@@ -39,3 +39,5 @@ J’ai un mauvais goût en bouche.
 Je ne peux m’empêcher de penser à ma propre mort, à la mort de nos rêves avant qu’ils ne prennent forme.
 
 À travers Jobs, Isaacson a décrit une société qui fait une fausse couche. L’immense succès de son livre est d’autant plus inquiétant, comme s’il confirmait un diagnostic assez terrible.
+
+Tags: Critique, une

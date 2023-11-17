@@ -1,6 +1,6 @@
 # Éthique de la responsabilité environnementale
 
-Faut-il contrôler la responsabilité ? C’est sensiblement la question que pose Corinne Lepage suite à [La liberté pour sauver la planète](https://tcrouzet.com/2008/08/12/la-liberte-pour-sauver-la-planete/#comment-59335). J’ai en partie répondu avec [Je négligerais le pouvoir de l’argent](https://tcrouzet.com/2008/08/13/je-negligerais-le-pouvoir-de-l%e2%80%99argent/). Plus précisément, Corinne Lepage se demande :
+Faut-il contrôler la responsabilité ? C’est sensiblement la question que pose Corinne Lepage suite à [La liberté pour sauver la planète](http://blog.tcrouzet.com/2008/08/12/la-liberte-pour-sauver-la-planete/#comment-59335). J’ai en partie répondu avec [Je négligerais le pouvoir de l’argent](http://blog.tcrouzet.com/2008/08/13/je-negligerais-le-pouvoir-de-l%e2%80%99argent/). Plus précisément, Corinne Lepage se demande :
 
 > Pour que la responsabilité soit reconnue au niveau international, ne faut-il pas des règles et des tribunaux internationaux ?
 
@@ -26,9 +26,9 @@ Pour éviter la régression à l’infini, une boucle sans fin d’auto-organisa
 
 Internet s’est ainsi développé à partir de multiple initiatives locales. La justice universelle de la responsabilité environnementale pourrait faire de même.
 
-À première vue, le passage en force par le haut semble capable de donner des résultats plus rapides que cette approche évolutive mais, dans un domaine où la liberté doit elle aussi-être favorisée, je doute de son efficacité. Dans un univers complexe, [la ligne droite n’est pas le plus court chemin](https://tcrouzet.com/2007/11/16/la-ligne-droite-n%e2%80%99est-pas-le-plus-court-chemin/). Chacun de nous doit choisir la responsabilité… Ça prendra du temps mais ça marchera.
+À première vue, le passage en force par le haut semble capable de donner des résultats plus rapides que cette approche évolutive mais, dans un domaine où la liberté doit elle aussi-être favorisée, je doute de son efficacité. Dans un univers complexe, [la ligne droite n’est pas le plus court chemin](http://blog.tcrouzet.com/2007/11/16/la-ligne-droite-n%e2%80%99est-pas-le-plus-court-chemin/). Chacun de nous doit choisir la responsabilité… Ça prendra du temps mais ça marchera.
 
-Si Tim Berner Lee avait créé le premier navigateur web avec l’intension de remplacer la presse, on lui aurait ri au nez et son invention aurait été méprisée. Il faut avancer pas à pas. Internet n’a pas été créé comme un media killer, il le devient peu à peu. Mais il apparaît comme la solution la plus foudroyante pour tuer la presse papier. Aucune attaque préméditée, dite rationnelle ou top-down, n’aurait été aussi redoutable.
+Si Tim Berner Lee avait créé le premier navigateur web avec l'intension de remplacer la presse, on lui aurait ri au nez et son invention aurait été méprisée. Il faut avancer pas à pas. Internet n’a pas été créé comme un media killer, il le devient peu à peu. Mais il apparaît comme la solution la plus foudroyante pour tuer la presse papier. Aucune attaque préméditée, dite rationnelle ou top-down, n’aurait été aussi redoutable.
 
 Et qu’aurait-on dit à Time Berner Lee s’il avait affirmé que son navigateur règlerait les problèmes écologiques ?
 

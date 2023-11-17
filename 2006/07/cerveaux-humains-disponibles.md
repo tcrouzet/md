@@ -1,14 +1,14 @@
 # Cerveaux humains disponibles
 
-Suite à mon article [Esclavage 2.0](https://tcrouzet.com/2006/06/19/esclavage-20/) aussi publié sur [Agoravox](http://www.agoravox.fr/article.php3?id_article=10691), je suis tombé sur un article de *Wired* intitulé [The Rise of Crowdsourcing](http://www.wired.com/wired/archive/14.06/crowds.html), article résumé en français sur [Internet Actu](http://www.internetactu.net/?p=6470).
+Suite à mon article [Esclavage 2.0](http://blog.tcrouzet.com/2006/06/19/esclavage-20/) aussi publié sur [Agoravox](http://www.agoravox.fr/article.php3?id_article=10691), je suis tombé sur un article de *Wired* intitulé [The Rise of Crowdsourcing](http://www.wired.com/wired/archive/14.06/crowds.html), article résumé en français sur [Internet Actu](http://www.internetactu.net/?p=6470).
 
 Le crowdsourcing, c’est l’utilisation de la puissance productive des internautes. Dans *Wired*, [Jeff Howe](http://www.crowdsourcing.com) écrit :
 
-> Comme le projet [SETI](http://setiathome.free.fr/) exploite la puissance de calcul inemployée de millions d’ordinateurs, les réseaux de travail distribués exploitent au travers d’internet la puissance de calcul inemployée de millions de cerveaux humains.
+> Comme le projet [SETI](http://setiathome.free.fr/) exploite la puissance de calcul inemployée de millions d'ordinateurs, les réseaux de travail distribués exploitent au travers d’internet la puissance de calcul inemployée de millions de cerveaux humains.
 
 Cette déclaration m’a fait penser à celle de Patrick Le Lay, PDG de TF1 :
 
-> À la base, le métier de TF1, c’est d’aider Coca-Cola, par exemple, à vendre son produit. Or, pour qu’un message publicitaire soit perçu, il faut que le cerveau du téléspectateur soit disponible. Nos émissions ont vocation de le rendre disponible. C’est-à-dire de le divertir, de le détendre pour le préparer entre deux messages. Ce que nous vendons à Coca-Cola, c’est du cerveau humain disponible.
+> À la base, le métier de TF1, c'est d'aider Coca-Cola, par exemple, à vendre son produit. Or, pour qu'un message publicitaire soit perçu, il faut que le cerveau du téléspectateur soit disponible. Nos émissions ont vocation de le rendre disponible. C'est-à-dire de le divertir, de le détendre pour le préparer entre deux messages. Ce que nous vendons à Coca-Cola, c'est du cerveau humain disponible.
 
 D’un côté, TF1 veut rendre les cerveaux disponibles pour leur vendre les salades des annonceurs ; de l’autre, les sites collaboratifs utilisent cette disponibilité pour créer quelque chose de neuf. Nous nous retrouvons face à deux mondes antagonistes : celui du consommateur passif face à celui de l’internaute actif. En politique, ça se traduit par un autre antagonisme : la démocratie représentative face à la démocratie participative.
 
@@ -16,7 +16,7 @@ Le crowdsourcing fonctionne déjà très bien. Il est à l’origine du web, de 
 
 Deviendra-t-il la norme, tout comme démocratie participative ? À force de participer sur le web, les gens finiront bien par se demander pourquoi on les empêche de participer à la vie politique.
 
-Beaucoup de gens ne sont évidemment pas d’accord avec cette idée. Parmi eux, les privilégiés qui ont déjà le droit de participer : [les experts](https://tcrouzet.com/2006/06/11/mais-qui-nomme-les-experts/) notamment.
+Beaucoup de gens ne sont évidemment pas d’accord avec cette idée. Parmi eux, les privilégiés qui ont déjà le droit de participer : [les experts](http://blog.tcrouzet.com/2006/06/11/mais-qui-nomme-les-experts/) notamment.
 
 Exemple, développé dans *Wired* d’ailleurs : un photographe professionnel se plaint que ses clients préfèrent de plus en plus des photos d’amateur distribuées quasi gratuitement sur les sites collaboratif comme [iStockPhoto](http://www.istockphoto.com). Quel est le problème ? Les clients sont-ils stupides ? Non. Pourquoi payeraient-ils cher ce qui est disponible pour presque rien ? Et puis qui a décidé que le professionnel était meilleur qu’un amateur ? N’est-ce pas les clients ? S’ils se détournent du professionnel, c’est qu’il n’est plus à la hauteur, en tout cas par rapport l’attente des clients.
 
@@ -32,4 +32,4 @@ Cette histoire, qui aurait pu être illustrée par d’autres exemples, montre q
 
 Je ne dis pas qu’il supprimera tous les privilèges. Il en crée même d’autres. Mais je crois qu’il diminuera leur nombre et nous conduira vers une société plus juste, ce qui ne veut pas dire idéale.
 
-*PS : Internet est une démocratie participative. Les décisions se prennent au niveau local entre quelques individus, puis elles remontent quand d’autres individus les adoptent. C’est cela que j’appelle la démocratie participative, ce n’est pas un système où tout le monde donne son avis en même temps.*
+*PS : Internet est une démocratie participative. Les décisions se prennent au niveau local entre quelques individus, puis elles remontent quand d’autres individus les adoptent. C’est cela que j'appelle la démocratie participative, ce n’est pas un système où tout le monde donne son avis en même temps.*

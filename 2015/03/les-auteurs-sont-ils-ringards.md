@@ -1,6 +1,6 @@
 # Les auteurs sont-ils ringards ?
 
-À l’occasion du Salon du livre de Paris, auquel ils accordent encore une importance et dont ils font le centre de la vie éditoriale nationale, les auteurs de tout horizon se regroupent pour diffuser [une lettre ouverte signée par le CPE](https://tcrouzet.com/images_tc/2015/03/cpe.pdf) (Conseil Permanent des Écrivains).<span id="more-40047"></span>
+À l’occasion du Salon du livre de Paris, auquel ils accordent encore une importance et dont ils font le centre de la vie éditoriale nationale, les auteurs de tout horizon se regroupent pour diffuser [une lettre ouverte signée par le CPE](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/cpe.pdf) (Conseil Permanent des Écrivains).<span id="more-40047"></span>
 
 Mais nous sommes bien loin de l’idéal réformateur du Conseil National de la Résistance dont le CPE détourne le nom et les objectifs. Quelques extraits et mes commentaires.
 
@@ -14,7 +14,7 @@ Oui, les auteurs de livres sont en danger quand ils s’enferment dans un suppor
 
 Bien sûr, cette crise de transition vers *Après le livre* ne doit pas être l’occasion de se faire tondre la laine sur le dos. L’auteur déjà affaibli par le marché se retrouve en position de faiblesse quand les lames de la tondeuse s’approchent, d’autant que la crise est prétexte à toutes les politiques d’austérité. Pour nous défendre, nous devons peut-être justement dépasser le livre, devenir des auteurs dans notre siècle. Alors nous serons dans doute mieux armés pour défendre nos droits et en conquérir de nouveaux.
 
-> c’est la création éditoriale qui est menacée, dans sa liberté et dans sa diversité.
+> c'est la création éditoriale qui est menacée, dans sa liberté et dans sa diversité.
 
 Désolé, mais selon moi la diversité n’a jamais été aussi grande, simplement je ne la trouve plus uniquement dans les livres. Ici même sur le Web et ses avatars, j’en prends tous les jours pleins les yeux, les neurones et le cœur.
 
@@ -38,7 +38,7 @@ Réponse longue : oui, les auteurs doivent refuser de telles conditions. Pour c
 
 Rappel : l’espace éditorial ne se réduit plus au livre papier stocké dans les entrepôts. À mon sens, les auteurs les plus riches, les plus rentables pour les éditeurs, devraient donner l’exemple. Montrer comment on peut coloniser en solo d’autres espaces de diffusion. Malheureusement, ils n’en éprouvent pas le besoin, parce qu’ils ne signent pas à 5 %. Par chance, on a de nombreux exemples aux États-Unis. Quand on fait la démonstration qu’on peut exister sans éditeur, les éditeurs redeviennent des partenaires intéressants.
 
-> Face à la stagnation du chiffre d’affaires de l’édition, multiplier à l’infini le nombre de nouveautés, est-ce vraiment la meilleure stratégie ? Avec deux cents nouveaux titres publiés par jour (dimanche compris) comment les auteurs peuvent-ils vivre de leur métier ? Comment les libraires peuvent-ils défendre les œuvres ? Comment le lecteur peut-il s’y retrouver ? La surproduction n’est pas la diversité.
+> Face à la stagnation du chiffre d'affaires de l'édition, multiplier à l'infini le nombre de nouveautés, est-ce vraiment la meilleure stratégie ? Avec deux cents nouveaux titres publiés par jour (dimanche compris) comment les auteurs peuvent-ils vivre de leur métier ? Comment les libraires peuvent-ils défendre les œuvres ? Comment le lecteur peut-il s’y retrouver ? La surproduction n’est pas la diversité.
 
 Est-ce de la faute des éditeurs ou des auteurs si on publie autant ? Je vous pose la question. En l’absence d’éditeur, cesserez-vous de créer ? Je ne crois pas. Vous ferez comme tous les refusés qui diffusent leurs œuvres en direct sur le Net, et qui pour certains connaissent des succès phénoménaux.
 
@@ -52,9 +52,9 @@ Les éditeurs suivent simplement une tendance historique forte, celle de l’exp
 
 Je suis vraiment inquiet quand je lis ce genre de choses. Parce que je diffuse beaucoup de mes textes dans le domaine public, mais je n’ai aucune envie que vous les ponctionniez.
 
-Vous avez une conception archaïque et étroite du domaine public. Aujourd’hui, des millions de créateurs l’alimentent quotidiennement. Vous voulez taxer ces créateurs ? Sinon, comment ferez-vous la différence entre telle œuvre taxable et telle autre qui ne le serait pas ? Usine à gaz évidente. Le domaine public doit rester inviolable. Les gens le prennent en font ce dont ils veulent, même de l’argent.
+Vous avez une conception archaïque et étroite du domaine public. Aujourd’hui, des millions de créateurs l’alimentent quotidiennement. Vous voulez taxer ces créateurs ? Sinon, comment ferez-vous la différence entre telle œuvre taxable et telle autre qui ne le serait pas ? Usine à gaz évidente. Le domaine public doit rester inviolable. Les gens le prennent en font ce dont ils veulent, même de l'argent.
 
-> Les récentes propositions du rapport Reda visant à étendre le nombre ou le périmètre des exceptions et limitations au droit d’auteur sont alarmantes.
+> Les récentes propositions du rapport Reda visant à étendre le nombre ou le périmètre des exceptions et limitations au droit d'auteur sont alarmantes.
 
 Je ne m’étends pas sur ce point qui a déjà été [abondamment débattu](http://framablog.org/2015/03/16/createurs-du-net-creative-commons-et-reforme-du-droit-dauteur-supportreda-2/). Mais, par exemple, je m’attriste de voir des auteurs contre l’idée d’uniformiser la durée des droits postmortems à 50 ans. Franchement, ça vous défrise en quoi ? Qui profite de cette durée démesurée sinon quelques éditeurs centenaires qui se constituent ainsi un trésor de guerre ?
 
@@ -62,6 +62,8 @@ Le rapport Reda prend en compte l’évolution de la société, il cherche à vo
 
 Pour le reste, pour tous les points que je ne commente pas, je suis d’accord. Je ne dis pas que nous ne devons pas nous défendre, mais nous ne pouvons pas le faire en nous arcboutant sur une conception datée de notre métier et du monde.
 
-![Lettre du CPE](https://tcrouzet.com/images_tc/2015/03/cpe.pdf)
+![Lettre du CPE](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/cpe.pdf)
 
-<div class="iframe" id="iframe29"></div>
+
+
+Tags: édition, une

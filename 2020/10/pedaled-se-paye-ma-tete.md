@@ -12,12 +12,14 @@ Mais encore impressionné par le confort du PEdALED Essentiel, j’ai commandé 
 
 Je ne l’ai reçue qu’en rentrant [d’une longue sortie VTT](https://tcrouzet.com/2020/10/06/mini-aventure-teleportation-dans-laude-par-le-train/) où j’avais remis mon maillot Essentiel. Cette fois, je n’ai pas croisé des chênes verts, mais des graines des gaillets gratteron qui se sont accrochées à mes manches. Quand je les ai décollées, des fils de laine sont venus avec.
 
-En déballant la Tokaido Medium, trop petit pour moi mais c’est un détail, j’ai constaté tout de suite que la moindre égratignure suffirait à la déchirer. Ça m’a énervé, parce que c’est comme partout ailleurs, tout étant bon pour prendre le consommateur pour un couillon, même dans notre petite niche. PEdALED communique sur le côté baroude, suffit de regarder son site, mais nous commercialise des fringues pour la route, car même en gravel nous croisons des branches, pas besoin de faire du VTT engagé, suffit d’un beau petit single étroit, surtout dans nos garrigues griffues. PEdALED propose des fringues pour des cyclistes qui se tiennent à distance de la nature. C’est une marque pour le vélo d’appartement qui passe son temps à nous mentir.
+En déballant la Tokaido Medium, trop petit pour moi mais c'est un détail, j’ai constaté tout de suite que la moindre égratignure suffirait à la déchirer. Ça m’a énervé, parce que c'est comme partout ailleurs, tout étant bon pour prendre le consommateur pour un couillon, même dans notre petite niche. PEdALED communique sur le côté baroude, suffit de regarder son site, mais nous commercialise des fringues pour la route, car même en gravel nous croisons des branches, pas besoin de faire du VTT engagé, suffit d'un beau petit single étroit, surtout dans nos garrigues griffues. PEdALED propose des fringues pour des cyclistes qui se tiennent à distance de la nature. C’est une marque pour le vélo d’appartement qui passe son temps à nous mentir.
 
-Je vais continuer de porter mon Essentiel, mais je ne sais même pas s’il passera l’hiver. Vous voilà avertis. Ma veste Tokaido est repartie en Italie, sans que j’ose en demander une large, de peur de la déchirer et de jeter 220 € par la fenêtre. Quand j’ai l’impression de me faire entuber, je le dis. Ça peut servir à d’autres et aider la marque à corriger le tir.
+Je vais continuer de porter mon Essentiel, mais je ne sais même pas s’il passera l’hiver. Vous voilà avertis. Ma veste Tokaido est repartie en Italie, sans que j'ose en demander une large, de peur de la déchirer et de jeter 220 € par la fenêtre. Quand j'ai l'impression de me faire entuber, je le dis. Ça peut servir à d'autres et aider la marque à corriger le tir.
 
-![PEdALED après trois sorties](https://tcrouzet.com/images_tc/2020/10/IMG_4141.jpeg)
+![PEdALED après trois sorties](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4141.jpeg)
 
-![PEdALED après trois sorties](https://tcrouzet.com/images_tc/2020/10/IMG_4143.jpeg)
+![PEdALED après trois sorties](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/10/IMG_4143.jpeg)
 
 PS : [la réponse de PEdALED…](https://tcrouzet.com/2020/10/09/le-foutage-de-gueule-de-pedaled-leur-reponse/)
+
+Tags: Born to Bike, une

@@ -1,6 +1,6 @@
 # Internet favorise-t-il la liberté de faire n’importe quoi ?
 
-Tout le monde peut s’exprimer sur le Web. Publier ses photos, ses commentaires, ses articles, ses vidéos. Nos libertés, tout au moins la liberté d’expression, paraissent de toute évidence accrues. D’un autre côté, des beuveries géantes s’organisent grâce aux réseaux sociaux, avec à la clé des victimes. Ce n’est qu’un exemple. Tout n’est donc pas parfait dans le meilleur des mondes. Est-ce que plus de liberté implique mécaniquement plus de bêtise ?<span id="more-40494"></span>
+Tout le monde peut s’exprimer sur le Web. Publier ses photos, ses commentaires, ses articles, ses vidéos. Nos libertés, tout au moins la liberté d’expression, paraissent de toute évidence accrues. D’un autre côté, des beuveries géantes s’organisent grâce aux réseaux sociaux, avec à la clé des victimes. Ce n'est qu'un exemple. Tout n’est donc pas parfait dans le meilleur des mondes. Est-ce que plus de liberté implique mécaniquement plus de bêtise ?<span id="more-40494"></span>
 
 Tout d’abord, Internet contribue-t-il positivement à nos libertés ? Aujourd’hui, faute de temps, nous ne pouvons ni voir, ni écouter, ni lire plus de choses qu’avant. Même si nous pouvons tous nous exprimer avec davantage de facilité, pas plus de voix ne peuvent se faire entendre. L’accès à la parole s’est démocratisé sans que nos mots portent plus loin. Le Net a étendu la liberté d’expression sans la transformer radicalement. Au final, il n’a fait que mettre nos voix en concurrence. Un anonyme peut soudain faire la une des médias. Il rejoint alors la *short list* des quelques privilégiés entendus.
 
@@ -8,7 +8,7 @@ Tout d’abord, Internet contribue-t-il positivement à nos libertés ? Aujourd
 
 ###Plus je me lie, plus je suis libre
 
-Si Internet nous libère, ce n’est donc pas pour la raison communément invoquée : la plus grande liberté d’expression. Le mécanisme est plus tortueux. Une chose fondamentale a changé dans nos vies : nous sommes en relation avec plus de personnes que par le passé. Mail, Facebook, Twitter, Skype… nous interagissons avec beaucoup plus de gens. Certes, le plus souvent superficiellement, mais néanmoins des émotions, des exaspérations, des blagues se propagent. Elles arrivent de toute part et nous les faisons suivre. En conséquence, le réseau social de l’humanité se densifie. Métaphoriquement, la carte comporte chaque jour de plus en plus de routes, qu’elles soient nationales ou vicinales.
+Si Internet nous libère, ce n’est donc pas pour la raison communément invoquée : la plus grande liberté d'expression. Le mécanisme est plus tortueux. Une chose fondamentale a changé dans nos vies : nous sommes en relation avec plus de personnes que par le passé. Mail, Facebook, Twitter, Skype… nous interagissons avec beaucoup plus de gens. Certes, le plus souvent superficiellement, mais néanmoins des émotions, des exaspérations, des blagues se propagent. Elles arrivent de toute part et nous les faisons suivre. En conséquence, le réseau social de l’humanité se densifie. Métaphoriquement, la carte comporte chaque jour de plus en plus de routes, qu’elles soient nationales ou vicinales.
 
 Imaginez-vous maintenant à la place des forces de l’ordre. Le contrôle de ce réseau devient de plus en plus difficile. Et de fait, l’intensité du contrôle ne peut que diminuer. C’est automatique : plus un système se complexifie, plus son organe de supervision doit lui-même se complexifier. Ses ressources étant toujours plus limitées que celles de l’ensemble du réseau, il ne peut suivre la course à la complexification. Les individus s’en trouvent libérés faute de pouvoir être contrôlés.
 
@@ -28,6 +28,10 @@ Internet aussi, paradoxalement. Ils nous donnent accès à la diversité des poi
 
 Internet ne contribuera positivement à l’humanité que le jour où sa force libératrice se retournera contre le mimétisme. Nous en sommes malheureusement encore loin.
 
-*PS : Article écrit durant le drame de Charlie Hebdo pour [le numéro 36 d’Immorama](http://www.immorama.ch/immodossier/erosion-des-droits-individuels).*
+*PS : Article écrit durant le drame de Charlie Hebdo pour [le numéro 36 d'Immorama](http://www.immorama.ch/immodossier/erosion-des-droits-individuels).*
 
-![Immorama #36](https://tcrouzet.com/images_tc/2015/04/immorama.jpg)
+![Immorama #36](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/immorama-600x201.jpg)
+
+
+
+Tags: Liberté, NetCulture, une

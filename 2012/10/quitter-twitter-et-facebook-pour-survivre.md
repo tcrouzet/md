@@ -22,7 +22,7 @@ Pensez aussi aux blogs. Comme les mails, nous les hébergeons sur des plates-for
 
 [Tent](https://tent.io/) arrive au bon moment. C’est un protocole ouvert et décentralisé pour créer des services sociaux, exactement comme SMTP, POP, IMAP le sont pour le mail. On peut utiliser des serveurs Tent existants, [Tent.is](https://tent.is/) par exemple, où installer son propre serveur. Tous les serveurs Tent s’interconnectent, exactement comme les serveurs mails. Vous et vos amis n’êtes plus la propriété d’un entrepreneur.
 
-Je n’ai appris qu’hier l’existence de Tent. [J’ai ouvert un compte](https://tcrouzet.tent.is/). [J’ai retrouvé quelques amis.](https://tcrouzet.tent.is/followings) Je sais bien qu’il est hasardeux d’investir un nouveau territoire, mais nous devons nous mettre en cohérence avec nos idées.
+Je n’ai appris qu'hier l’existence de Tent. [J’ai ouvert un compte](https://tcrouzet.tent.is/). [J’ai retrouvé quelques amis.](https://tcrouzet.tent.is/followings) Je sais bien qu’il est hasardeux d’investir un nouveau territoire, mais nous devons nous mettre en cohérence avec nos idées.
 
 Par exemple, nous ne pouvons pas défendre les monnaies libres ou le revenu de base, et nous contenter d’en faire la promotion sur les réseaux sociaux centralisés, par leur structure antinomique avec les idées mises en avant.
 
@@ -40,3 +40,5 @@ Je raconte souvent ce qui est arrivé à l’équipe municipale dans mon village
 6. Une pensée pour mes amis de la littérature, qui doivent se dire que ces combats ont peu d’intérêt pour eux. Je crois le contraire. La littérature, elle aussi, souffre des monopoles et de la centralisation. Les outils influencent ce que nous écrivons.
 
 Billet dédié à [Jérôme Laval](https://jeromelaval.tent.is/).
+
+Tags: centralisation, Décentralisation, Facebook, NetCulture, Twitter, une

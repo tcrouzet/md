@@ -8,7 +8,7 @@ Vivre implique une mise en situation de vie. De prendre une drogue qui arrache �
 
 Vivre ? Et vivre pour un écrivain ? Rien de particulier à déclarer. Le succès, l’argent, les médias, les fans… disons que ça peut illusionner quelque temps et vivre redevient alors le sujet. Comment être assez vivant pour écrire des choses qui un jour donneront vie à d’autres vies ? C’est ambitieux, mais je n’aspire qu’à quelques secondes de ce miracle dans quelques esprits, d’aujourd’hui et de demain.
 
-J’ai encore besoin de me persuader de ce qu’est vivre pour ne pas souffrir dès que surviennent des évènements déplaisants. Pourtant ils n’affectent en rien ma capacité à vivre : un livre qui ne marche pas, un critique désobligeant qui m’accuse de n’avoir aucun talent, une administration qui refuse mes dossiers et me persuade qu’il existe des auteurs politiquement corrects et que je n’en suis pas… Alors je passe mon chemin, je marche jusqu’à une plage, orientée sud, face au lido de Sète, et je reste là, le clavier sur les genoux, et l’esprit aux aguets d’une pensée, d’une image, d’un souffle. Et tout me devient présent, mon corps, les grains de sable sous mes fesses, l’odeur des algues déposées hier par le coup de vent de sud…
+J’ai encore besoin de me persuader de ce qu’est vivre pour ne pas souffrir dès que surviennent des évènements déplaisants. Pourtant ils n’affectent en rien ma capacité à vivre : un livre qui ne marche pas, un critique désobligeant qui m’accuse de n’avoir aucun talent, une administration qui refuse mes dossiers et me persuade qu’il existe des auteurs politiquement corrects et que je n'en suis pas… Alors je passe mon chemin, je marche jusqu’à une plage, orientée sud, face au lido de Sète, et je reste là, le clavier sur les genoux, et l’esprit aux aguets d’une pensée, d’une image, d’un souffle. Et tout me devient présent, mon corps, les grains de sable sous mes fesses, l’odeur des algues déposées hier par le coup de vent de sud…
 
 Mon « je » s’emplit du monde, il s’intensifie, il s’allège… Je suis seul et avec tous les autres. Avec Isa, avec mes enfants, avec ma mère et aussi avec mon père même si maintenant je ne côtoie plus son corps. Il est même plus vivant qu’avant, débarrassé de la dépression qui le minait depuis des années et l’empêchait de vivre.
 
@@ -28,4 +28,8 @@ Certains écrivains ne possèdent même pas d’optique. Ils balancent des histo
 
 Je suis à la recherche d’un équilibre entre percevoir et dire, entre garder et lâcher, entre vivre pour moi et vivre avec les autres. Il n’existe pas de solution universelle à cette équation, mais au moins une pour chacun de nous à chacun des moments de notre vie.
 
-![Les chèvres pour étendre les filets, comme celles qu'utilisait mon père.](https://tcrouzet.com/images_tc/2014/11/chevre.jpg)
+![Les chèvres pour étendre les filets, comme celles qu'utilisait mon père.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/chevre.jpg)
+
+
+
+Tags: une, vagabondage

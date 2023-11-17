@@ -1,6 +1,6 @@
 # Super-principe de précaution
 
-Entre vos commentaires et quelques brefs mails échangés avec [Nassim Nicolas Taleb](https://tcrouzet.com/2007/09/03/conversation-avec-taleb/) après la publication de [mon billet sur le GIEC](https://tcrouzet.com/2008/01/25/je-ne-suis-pas-un-revisionniste/), j’ai peut être réussi à clarifier ma position.<span id="more-741"></span>
+Entre vos commentaires et quelques brefs mails échangés avec [Nassim Nicolas Taleb](http://blog.tcrouzet.com/2007/09/03/conversation-avec-taleb/) après la publication de [mon billet sur le GIEC](http://blog.tcrouzet.com/2008/01/25/je-ne-suis-pas-un-revisionniste/), j’ai peut être réussi à clarifier ma position.<span id="more-741"></span>
 
 ### Point de départ
 
@@ -14,7 +14,7 @@ Entre vos commentaires et quelques brefs mails échangés avec [Nassim Nicolas T
 
 Taleb est un empiriste comme je pense l’être. Il m’a écrit :
 
-> Je refuse de croire que nous sommes devenus soudain très intelligents et lumineux quand on n’a jamais été bons dans le passé. Donc il faut nous protéger des erreurs « scientifiques ».
+> Je refuse de croire que nous sommes devenus soudain très intelligents et lumineux quand on n'a jamais été bons dans le passé. Donc il faut nous protéger des erreurs « scientifiques ».
 
 Je défends la même position. Nous n’avons jamais prévu quoi que ce soit de sérieux qui touche à l’ensemble des sociétés humaines. Et quand nous l’avons fait, comme avec le bug de l’an 2000, nous nous sommes plantés. Je ne vois aucune raison pour que le GIEC fasse mieux.
 
@@ -35,3 +35,5 @@ Dans une vaste perspective de décentralisation, je suis en revanche pour libér
 3. Les gouvernements ne contrôlant rien, nous ne pouvons pas compter sur eux pour éviter les dérèglements climatiques.
 
 4. Les actions globales ayant des résultats imprévisibles et irréversibles, privilégions les actions locales.
+
+Tags: imprevisibilité

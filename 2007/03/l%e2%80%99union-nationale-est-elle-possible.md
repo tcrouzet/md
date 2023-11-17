@@ -24,12 +24,14 @@ Avec cette remarque, Churchill nous a déjà démontré que nous devions tenter 
 
 8. Internet nous apprend en ce moment la possibilité de cocréer de la valeur, d’œuvrer dans un esprit gagnant-gagnant. D’une certaine façon, internet résulte d’une union internationale. Tout le monde s’est retroussé les manches, sans se préoccuper de nationalité, ni de savoir dans quelle entreprise on travaillait. Ça n’empêche pas la concurrence mais cette méthode de travail a permis un fantastique développement en une dizaine d’années. Pourquoi pas cela en France ?
 
-C’est juste quelques idées dont j’ai étayé certaines dans [Le cinquième pouvoir](https://tcrouzet.com/le-cinquieme-pouvoir/). Quand je vois des hommes politiques dirent qu’ils refuseront de participer à une union nationale je les trouve mauvais perdants par anticipation et, surtout, très prétentieux. Ils croient sans doute que nous ne pouvons pas nous passer d’eux.
+C’est juste quelques idées dont j’ai étayé certaines dans [Le cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/). Quand je vois des hommes politiques dirent qu’ils refuseront de participer à une union nationale je les trouve mauvais perdants par anticipation et, surtout, très prétentieux. Ils croient sans doute que nous ne pouvons pas nous passer d’eux.
 
 Je crois que, au contraire, les hommes de gauche comme de droite aiment trop le pouvoir pour le refuser quand on leur proposera de le partager. Ceux parmi eux qui sont intelligents, qui aiment la France, se mettront au travail. Nous sommes soixante millions, il y aura toujours des volontaires. Et tant mieux s’ils ne sont pas tous politiciens (depuis longtemps je suis persuadé que les forces vives de la nation ne font pas de la politique parce que le clivage droite-gauche les désespère).
 
-Pour une fois, l’union nationale mettrait en place une politique pour les Français et non pas contre ceux des camps adverses. C’est peut-être une utopie mais j’ai envie de la voir vivre.
+Pour une fois, l'union nationale mettrait en place une politique pour les Français et non pas contre ceux des camps adverses. C'est peut-être une utopie mais j'ai envie de la voir vivre.
 
-<span style="font-size: 10px">1. Je n’ai pas trouvé la source de cette citation de Churchill. En cherchant, je suis tombé sur une autre citation comparable par Mark Twain : « On avait oublié de leur dire que c’était impossible, alors ils l’ont fait. »</span>
+<span style="font-size: 10px">1. Je n'ai pas trouvé la source de cette citation de Churchill. En cherchant, je suis tombé sur une autre citation comparable par Mark Twain : « On avait oublié de leur dire que c'était impossible, alors ils l'ont fait. »</span>
 
 Article aussi publié sur [Agoravox](http://www.agoravox.fr/article.php3?id_article=20581).
+
+Tags: Politique

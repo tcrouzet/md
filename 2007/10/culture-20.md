@@ -2,7 +2,7 @@
 
 
 
-![Pacco](https://tcrouzet.com/images_tc/2007/10/pacco8.jpg)
+![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/pacco8.jpg)
 
 1. Pour produire des œuvres significatives, il faut vivre en accord avec son temps. Il ne s’agit pas d’être à la mode mais de vibrer avec les forces nouvelles qui traversent sa propre époque.
 
@@ -22,7 +22,7 @@
 
 9. Le hacker est compétent dans la civilisation numérique. Il peut gagner sa vie grâce à ses hacks (ses bidouilles). Ce travail de bidouilleur est bénéfique à son art, il est même indispensable.
 
-10. Dans un monde technologique où les [longues traînes](https://tcrouzet.com/2006/12/17/la-longue-traine-politique/) apparaissent, il est possible d’ajuster son temps de travail en fonction des revenus désirés. Un hacker peut ainsi libérer beaucoup de temps pour son art.
+10. Dans un monde technologique où les [longues traînes](http://blog.tcrouzet.com/2006/12/17/la-longue-traine-politique/) apparaissent, il est possible d’ajuster son temps de travail en fonction des revenus désirés. Un hacker peut ainsi libérer beaucoup de temps pour son art.
 
 11. Le hacker considère que les œuvres immatérielles peuvent être distribuées librement. Elles restent attachées à leurs auteurs mais s’offrent à tous les remix imaginables.
 
@@ -35,3 +35,5 @@
 15. Les œuvres de représentation, par leur côté désuet car non digital, devraient attirer les artistes réfractaires à la technique. Mais, encore une fois, même dans ce domaine, seul le hacker peut être artiste.
 
 Je me suis amusé à écrire cette liste en imitant [McEnzie Wark](http://www.ludiccrew.org/wark/) qui sera lui aussi à Marseille.
+
+Tags: Conf

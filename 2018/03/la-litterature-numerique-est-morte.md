@@ -20,16 +20,18 @@ Arrêtez donc de vous intéresser à nos trucs promotionnels, à nos techniques 
 
 Vos collègues célèbrent nos autres contemporains, ceux bien au chaud dans la chaîne confortable du vieux livre, portée par son économie et ses dorures clinquantes, imitez-les, ne vous étonnez plus de nos tours de passe-passe technologiques, essayez de vous émerveiller des émotions que nous tentons de saisir pour éprouver sans cesse davantage et éviter que l’habitude n’affadisse nos existences. Et si vous nous trouvez indignes du titre d’écrivain, dites-le avec franchise.
 
-![Version papier](https://tcrouzet.com/images_tc/2018/02/versionpapier.jpg)
+![Version papier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/02/versionpapier-600x450.jpg)
 
 J’ai [imprimé l’intégralité de mon blog](https://tcrouzet.com/les-annees-blog/) il y a quelques mois pour me prouver à moi-même qu’il était une œuvre comme une autre, pour le ranger à côté de mes autres livres, le ranger à côté des livres des autres, pour l’inscrire matériellement dans l’histoire de la littérature. C’est sans doute puéril, un aveu de faiblesse, mais je prends conscience que c’était ma façon de me dire à moi-même que je suis un auteur comme un autre, comme tous ceux qui m’ont aidé à devenir moi-même. Je ne suis qu’un homme qui cherche à vivre, non pas vivre de ses écrits, mais vivre simplement, et le moyen que j’ai trouvé, c’est l’art.
 
 J’anticipe un prochain colloque où un universitaire fera le parallèle entre cette version papier de mon blog et sa version en ligne… Je l’arrête tout de suite. Les mots sont les mêmes, l’intention identique, la forme s’altère, mais pas davantage que quand je fais évoluer le template de mon blog, ajoutant quelques lignes de code pour qu’il suive l’évolution technologique. Je ne dis pas que tout cela est sans signification, bien au contraire, mais la signification doit être cherchée dans le texte, pas dans le paratexte dont la critique universitaire se gargarise un peu trop à mon avis.
 
-![Fbon lisant Kenneth Goldsmith](https://tcrouzet.com/images_tc/2018/03/fbon.jpg)
+![Fbon lisant Kenneth Goldsmith](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/fbon.jpg)
 
 Flaubert n’était pas un auteur plume d’oie taillée à la main. Kerouac n’était pas un auteur machine à écrire. Proust un auteur paperolle. Je ne suis pas un auteur numérique. [François Bon](http://www.tierslivre.net/) n’est pas un auteur numérique (et il le démontre à plus soif en révélant notre généalogie littéraire, comme il le fait une fois de plus [en traduisant Kenneth Goldsmith](http://www.tierslivre.net/spip/spip.php?article4461), en nous parlant de [*The Making of Americans*](https://en.wikipedia.org/wiki/The_Making_of_Americans) de Gertrude Stein, du meta-livre [*The Life of Samuel Johnson*](https://fr.wikipedia.org/wiki/Samuel_Johnson) de [James Boswell](https://fr.wikipedia.org/wiki/James_Boswell)). La technologie fait ce que nous écrivons parce qu’elle fait ce que nous vivons. Nous ne sommes que des auteurs ordinaires. C’est avec cet ordinaire de nos vies que nous tentons de faire du merveilleux.
 
 Mon ami [Ayerdhal](https://fr.wikipedia.org/wiki/Ayerdhal) souffrait beaucoup de l’enfermement des auteurs de SF dans la SF, du genre prisonnier du genre. Enfermer des auteurs dans une boîte, même aussi sexy que celle du numérique, reste un enfermement. S’enfermer soi-même dans une boîte, c’est se limiter, avouer son incapacité à s’adresser à tous, c’est s’avouer battu, et surtout se refuser au présent.
 
 La littérature numérique est morte, vive la littérature.
+
+Tags: NetLittérature, une

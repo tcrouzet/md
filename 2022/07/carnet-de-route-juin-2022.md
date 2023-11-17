@@ -215,3 +215,7 @@ Olivier Auber a merveilleusement, ou plutôt dégueulassement [joué avec une IA
 ![IA dessin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IA1.jpeg)
 
 ![IA dessin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/07/IA2.jpeg)
+
+
+
+Tags: Carnets, une

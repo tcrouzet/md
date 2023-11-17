@@ -12,7 +12,7 @@ En peinture, en musique, en architecture, dans tous les arts, des mécènes sout
 
 **Réponse 4** L’avant-garde numérique ne s’est pas encore constituée. Elle est encore encombrée d’imitateurs, en si grand nombre qu’ils cachent sous leur glose les rares innovateurs.
 
-**Réponse 5** La littérature d’avant-garde est un non-sens, une invention du XX<sup>e</sup> siècle, une anomalie. La littérature parle toujours de la vie. Une œuvre numérique ne se révèle pas par des lasers tournoyants, des feux d’artifice ou des panneaux 4×3. Je crois qu’il s’agit de ma réponse préférée, ma réponse manifeste :
+**Réponse 5** La littérature d’avant-garde est un non-sens, une invention du XX<sup>e</sup> siècle, une anomalie. La littérature parle toujours de la vie. Une œuvre numérique ne se révèle pas par des lasers tournoyants, des feux d’artifice ou des panneaux 4x3. Je crois qu’il s’agit de ma réponse préférée, ma réponse manifeste :
 
 > Une œuvre littéraire numérique ne se différencie pas en première analyse d’une œuvre littéraire qui ne serait pas numérique.
 
@@ -46,8 +46,10 @@ Tout ça pour dire que j’ai tantôt codé moi-même, tantôt utilisé d’autr
 
 Je ne suis pas un auteur baroque, j’aime les textes minimalistes, j’aime vivre dans des espaces minimalistes, j’aime la discrétion dans les moyens. Projeter des textes dans un espace 3D ne m’attire pas. Le texte doit être le plus pur possible, sans rien pour freiner son intrusion dans le cerveau du lecteur, cela en attendant qu’adviennent les prévisions de [Julius Gregarius](https://tcrouzet.com/2017/10/17/julius-gregarius/).
 
-Parce que les promoteurs des arts numériques ignorent souvent tout du code, il se laissent abuser par des projets tape-à-l’œil, qui soit n’ont rien de littéraire, soit sont numériquement dépassés, telle cette idée de publier des feuilletons sur mobile que je sais être en ce moment soutenue (réveillez-vous, nous sommes innombrables à faire ça sur [Wattpad depuis 2006](https://fr.wikipedia.org/wiki/Wattpad)).
+Parce que les promoteurs des arts numériques ignorent souvent tout du code, il se laissent abuser par des projets tape-à-l’œil, qui soit n'ont rien de littéraire, soit sont numériquement dépassés, telle cette idée de publier des feuilletons sur mobile que je sais être en ce moment soutenue (réveillez-vous, nous sommes innombrables à faire ça sur [Wattpad depuis 2006](https://fr.wikipedia.org/wiki/Wattpad)).
 
 Les bourses, les incitations, les prix, il faut les distribuer aux auteurs qui font de la littérature numérique qui ne se donne pas pour telle, qui a avalé le numérique, qui l’a totalement digéré, et qui ne végète pas dans le mythe mort-né des années 1990, à la belle époque des CD-ROM et de Director.
 
 Numériques ou pas, nous sommes avant tout des écrivains. Nous produisons des textes. Ne nous confondez pas avec l’inspecteur gadget.
+
+Tags: NetLittérature, une

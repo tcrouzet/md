@@ -6,6 +6,8 @@ Je me suis senti emporté par une fraternité d’habitude étrangère aux salon
 
 Cette année, j’étais invité du côté des auteurs. Michel n’était pas là. Tout le monde parlait de lui. Espérait encore un rétablissement. L’humeur n’était pas au beau fixe. Mais il restait présent par l’idée du partage, de l’ouverture, du dialogue. Et tant que se renouvellera le FIRN, Michel nous accompagnera parce qu’il a initié une dynamique rare, presque unique, un vrai trésor, une flamme minuscule que nous devons attiser en son honneur chaque début d’été.
 
-![Michel Gueorguieff](https://tcrouzet.com/images_tc/2013/09/michel.jpg)
+![Michel Gueorguieff](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/michel-500x750.jpg)
 
 Michel, lors du FIRN 2012, par [Studiodelemotte](https://www.facebook.com/pages/Studiodelemotte/122541777845944).
+
+Tags: Critique, une

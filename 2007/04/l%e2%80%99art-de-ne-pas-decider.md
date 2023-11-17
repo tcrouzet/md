@@ -16,7 +16,7 @@ Notes préliminaires :
 
 Maintenant imaginons qu’un incinérateur doit être ouvert dans une ville. Si l’ensemble des citoyens sont d’accord avec cette mesure, il n’y a aucun problème. Si certains ne le sont pas, que faut-il faire ?
 
-Tout d’abord qui a décidé d’ouvrir un incinérateur ? Sans doute pas les citoyens qui vont l’avoir près de chez eux. Quelques élus, qui vont vivre loin de l’incinérateur en question, ont donc pris la décision. De quel droit imposent-ils, par le haut, des choix désagréables à certains de leurs concitoyens ? Être élu ne donne pas le droit d’emmerder le peuple. Si c’est ça la démocratie, c’est à peine mieux que la dictature.
+Tout d’abord qui a décidé d’ouvrir un incinérateur ? Sans doute pas les citoyens qui vont l’avoir près de chez eux. Quelques élus, qui vont vivre loin de l’incinérateur en question, ont donc pris la décision. De quel droit imposent-ils, par le haut, des choix désagréables à certains de leurs concitoyens ? Être élu ne donne pas le droit d’emmerder le peuple. Si c’est ça la démocratie, c'est à peine mieux que la dictature.
 
 Je pars maintenant du principe qu’il n’y a aucune raison d’accepter les choses désagréables, surtout quand elles sont de l’ordre de l’évitable.
 
@@ -34,7 +34,7 @@ Cette solution peut être métalocale. Une communauté qui ne peut produire d’
 
 En résumé, il n’y a pas de décision à prendre pour les autres, il n’y a que des solutions à trouver ensemble, des solutions qui conviennent à ceux qui vont être touchés.
 
-Je m’oppose à la vision du politicien comme décideur. Le décideur est un dictateur dès que ses décisions nuisent à des citoyens. Il justifie ses décisions au nom de l’intérêt général mais c’est lui-même qui détermine cet intérêt général ([on se retrouve dans la situation dénoncée par Étienne Chouard](https://tcrouzet.com/2007/03/04/pour-une-assemblee-constituante/)). L’intérêt général ne fait alors que cacher des intérêts particuliers. Un politicien n’est pas là pour déciser mais pour aider les citoyens à trouver des solutions.
+Je m’oppose à la vision du politicien comme décideur. Le décideur est un dictateur dès que ses décisions nuisent à des citoyens. Il justifie ses décisions au nom de l’intérêt général mais c’est lui-même qui détermine cet intérêt général ([on se retrouve dans la situation dénoncée par Étienne Chouard](http://blog.tcrouzet.com/2007/03/04/pour-une-assemblee-constituante/)). L’intérêt général ne fait alors que cacher des intérêts particuliers. Un politicien n'est pas là pour déciser mais pour aider les citoyens à trouver des solutions.
 
 Notes terminales :
 
@@ -46,10 +46,12 @@ Notes terminales :
 
 4. Le progrès n’est pas la dictature.
 
-5. On peut essayer de faire changer d’avis les citoyens victimes de nuisance en leur proposant un avantage, une rente à vie par exemple, en leur offrant une maison ailleurs… Mais je crois qu’on ne peut pas s’assoir sur leur avis comme c’est trop souvent le cas aujourd’hui.
+5. On peut essayer de faire changer d’avis les citoyens victimes de nuisance en leur proposant un avantage, une rente à vie par exemple, en leur offrant une maison ailleurs... Mais je crois qu’on ne peut pas s’assoir sur leur avis comme c’est trop souvent le cas aujourd’hui.
 
 6. Si malgré toutes les offres ils ne sont toujours pas d’accord, il faut voir si ailleurs des gens accepteraient la nuisance. Si personne n’est d’accord, c’est qu’il y a un problème. Je trouve alors gonflé qu’un mec qui ne vivra pas devant la nouvelle voie décide tout de même de la construire. Il prend cette décision au nom de l’intérêt général car elle va arranger beaucoup de gens (moi notamment), c’est vrai, mais surtout parce qu’elle ne va pas lui nuire à lui. L’intérêt général est une notion toute relative.
 
 7. Je ne propose aucune solution miracle mais je crois que nous devons prendre garde aux mesures dictatoriales sous prétextes qu’elles servent l’intérêt général qui, trop souvent, a bon dos.
 
 8. L’intérêt général ne peut pas être décidé à la majorité. La majorité est toujours pour la création d’une nouvelle voie qui lui facilitera la vie car la majorité ne vit pas près de la voie. L’intérêt général, c’est la dictature de la majorité sur les minorités.
+
+Tags: Politique

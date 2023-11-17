@@ -8,7 +8,7 @@ Le soleil lui aussi est cyclothymique. Sur une période de 8 à 15 ans, il oscil
 
 Certains supposent que si le soleil baisse d’activité, le climat chez nous s’en ressent, conduisant par exemple à une mini-glaciation comme sous le règne de Louis XIV. On peut maintenant imaginer le phénomène inverse. S’il fait trop chaud chez nous, le soleil ne se sent pas dans l’obligation de se réveiller. J’avoue que je n’ai pas trouvé de travaux soutenant cette idée qui nous projetterait un pas plus loin dans les systèmes complexes.
 
-![](https://tcrouzet.com/images_tc/2010/04/activite-solaire-soho1.jpg)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/04/activite-solaire-soho1-450x353.jpg)
 
 N’oublions pas que la science de la renaissance, pour réussir à mathématiser l’univers, a négligé les imprécisions et souvent supposé indépendants les systèmes qu’elle étudiait. L’indépendance existe-t-elle dans la nature ? Si je vous influence, ne suis-je pas influencé en retour ? Un phénomène unidirectionnel est-il possible, un phénomène sans effet retour ? Une causalité A implique B ne se limite-t-elle pas au seul domaine de la logique ? À vouloir simplifier le monde pour le comprendre, nous sommes longtemps passés à côté de merveilles, comme l’auto-organisation, peut-être des phénomènes encore plus extraordinaires à l’échelle cosmique ne demandent qu’à être révélés.
 
@@ -18,4 +18,6 @@ J’anticipe le mouvement mystique qui pourrait naître si l’hypothèse Ourano
 
 Je me vois écrire une telle histoire, mais pas nécessairement sous la forme d’un roman avec des personnages, plutôt comme un documentaire fictif. Un remake de l’hypothèse Gaïa où fiction et réalité se mêlent. Un docu-fiction qui illustrerait la théorie de la complexité, et qui développerait ses conséquences politiques.
 
-PS : Quand j’ai eu l’idée de titrer ce billet L’hypothèse Ouranos, j’ai comme souvent lancé une requête sur le Web. Je suis tombé sur une intervention de 1990 de Raymond Burlotte intitulée *Le ciel est un être vivant… L’hypothèse Ouranos*, sans en trouver le texte. Peut-être faut-il parler d’hypothèse Râ !
+PS : Quand j’ai eu l’idée de titrer ce billet L’hypothèse Ouranos, j’ai comme souvent lancé une requête sur le Web. Je suis tombé sur une intervention de 1990 de Raymond Burlotte intitulée *Le ciel est un être vivant... L'hypothèse Ouranos*, sans en trouver le texte. Peut-être faut-il parler d’hypothèse Râ !
+
+Tags: Cuisine

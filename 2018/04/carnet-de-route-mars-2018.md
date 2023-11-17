@@ -6,7 +6,7 @@
 
 [*One Minute*](https://tcrouzet.com/une-minute/) est le roman de l’hypermobilité. Nous sautons de personnage en personnage et de lieu en lieu comme nous autres d’un bout à l’autre du monde. Si je crée la version numérique du texte, l’application révélera un nouveau chapitre qu’après une distance parcourue, ou qu’après un certain nombre d’activités numériques, ou qu’après un certain temps… afficher le message à l’heure exacte de la scène, peut-être…<span id="more-46395"></span>
 
-![Chez moi](https://tcrouzet.com/images_tc/2018/03/20180303-1.jpg)
+![Chez moi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180303-1.jpg)
 
 ### Dimanche 4, Balaruc
 
@@ -16,9 +16,9 @@ Je publie aujourd’hui mon carnet de février. Immédiatement, un inconnu comme
 
 De gros nuages noirs de pluie remontent de la Méditerranée et l’eau de l’étang verdit, pendant qu’à l’horizon une lumière blanche perce des nuages moins épais, traçant un contour éblouissant. Je ne photographie pas, ce spectacle se joue dans une infime frange qui pour être appréciée impliquerait de grossir démesurément mes images.
 
-![Soir](https://tcrouzet.com/images_tc/2018/03/20180304-1.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180304-1.jpg)
 
-![Soir](https://tcrouzet.com/images_tc/2018/03/20180304-2.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180304-2.jpg)
 
 ### Lundi 5, Balaruc
 
@@ -30,11 +30,11 @@ Je ne peux pas tout écrire, je ne peux pas parler des gestes de trop qui me fon
 
 ### Mardi 6, Balaruc
 
-![Pyrénées, le matin](https://tcrouzet.com/images_tc/2018/03/20180306-1.jpg)
+![Pyrénées, le matin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180306-1.jpg)
 
 ### Jeudi 8, Balaruc
 
-![L'étang](https://tcrouzet.com/images_tc/2018/03/20180308-1.jpg)
+![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180308-1.jpg)
 
 ### Vendredi 9, Montpellier
 
@@ -48,7 +48,7 @@ La technologie ne nous protège pas de nos penchants, elle les envenime en dému
 
 J’aimerais écrire en collaboration avec une IA, utiliser des outils pour me stimuler, m’envoyer dans des directions imprévues… jusqu’à ce que cette IA finisse par écrire mieux que moi.
 
-En écoutant Pierre Lemaitre, je me suis dit que les auteurs de genre, ceux qui veulent avant tout faire plaisir à leurs lecteurs, qui écrivent pour cette raison, pourraient très vite être remplacés par des IA. De mon côté, j’écris d’abord pour moi, d’abord pour m’arracher quelque chose et seulement après je trouve une satisfaction de le transmettre. Les IA ne peuvent que m’aider, jamais elles ne seront à ma place, même si peut-être à leur tour elles finiront par avoir quelque chose à s’arracher des tripes.
+En écoutant Pierre Lemaitre, je me suis dit que les auteurs de genre, ceux qui veulent avant tout faire plaisir à leurs lecteurs, qui écrivent pour cette raison, pourraient très vite être remplacés par des IA. De mon côté, j’écris d’abord pour moi, d’abord pour m’arracher quelque chose et seulement après je trouve une satisfaction de le transmettre. Les IA ne peuvent que m’aider, jamais elles ne seront à ma place, même si peut-être à leur tour elles finiront par avoir quelque chose à s'arracher des tripes.
 
 ### Dimanche 11, Balaruc
 
@@ -58,9 +58,9 @@ Je viens de rénover mon blog, notamment en plaçant une image en tête des bill
 
 Je vois passer un appel pour une bourse d’écriture numérique où il est expliqué que le format ePub 3 doit être mis en avant. Comment dire ? Si dans le monde numérique une innovation ne prend pas au bout de dix ans, on peut en conclure qu’il s’agissait d’une mauvaise idée. C’est le cas de l’ePub 3, qui avait l’espoir de nous aider à créer des livres enrichis sans trop plonger dans le code. Mais cette approche ne permet pas d’exploiter toute la puissance des appareils de lecture, voilà pourquoi il est désormais plus simple de créer des applications avec des frameworks comme [React Native](http://facebook.github.io/react-native/). Adieu l’ePub 3.
 
-![Capitelle](https://tcrouzet.com/images_tc/2018/03/20180311-1.jpg)
+![Capitelle](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180311-1.jpg)
 
-![Garrigue](https://tcrouzet.com/images_tc/2018/03/20180311-2.jpg)
+![Garrigue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180311-2.jpg)
 
 ### Lundi 12, Paris
 
@@ -68,7 +68,7 @@ En transit à Charles de Gaule, direction Bucarest. Durant le vol jusqu’ici, j
 
 J’ai hésité à prendre mon appareil photo et des images m’assaillent à travers la baie vitrée de la porte 35L du terminal E. Il pleut, il fait soleil, les contrastes explosent, les carlingues brillent. Mais déjà trop de lumière, trop de soleil, l’instant parfait est passé. Il peut revenir, si un avion surgit au moment où les nuages se positionneront à la perfection.
 
-![Retro gaming](https://tcrouzet.com/images_tc/2018/03/20180312-1.jpg)
+![Retro gaming](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180312-1.jpg)
 
 ---
 
@@ -78,15 +78,15 @@ Quand je me connecte au Wifi, je dois cliquer la case « 50+ », il n’y a ri
 
 Il m’arrive souvent de m’imaginer mort, brutalement, et alors que mes proches reconstituent mes derniers instants à travers mes dernières phrases, mes dernières photos, enfouies dans un disque dur, peut-être dupliquées dans le cloud et immédiatement rescynchonisées sur les machines que je n’aurais pas emportées avec moi, et qui n’auraient pas péri avec moi. Ça pourrait être le sujet d’une fiction. Les derniers moments d’un tel, un texte en spirale, avec toujours de nouveaux détails qui surgiraient. Ce scénario me paraît si évident qu’il a déjà dû être écrit cent fois.
 
-![CDG](https://tcrouzet.com/images_tc/2018/03/20180312-2.jpg)
+![CDG](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180312-2.jpg)
 
-![CDG](https://tcrouzet.com/images_tc/2018/03/20180312-3.jpg)
+![CDG](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180312-3.jpg)
 
-![CDG](https://tcrouzet.com/images_tc/2018/03/20180312-4.jpg)
+![CDG](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180312-4.jpg)
 
-![CDG](https://tcrouzet.com/images_tc/2018/03/20180312-6.jpg)
+![CDG](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180312-6.jpg)
 
-![CDG](https://tcrouzet.com/images_tc/2018/03/20180312-7.jpg)
+![CDG](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180312-7.jpg)
 
 ### Mardi 13, Bucarest
 
@@ -98,7 +98,7 @@ Nous passons devant l’ancien palais de Ceau?escu. Un horrible empilement de b�
 
 ---
 
-Il pleut des cordes. J’ai tenté une sortie, avant de vite rentrer, fuyant les voitures éclaboussantes. J’ai discuté avec Didier, avec les organisateurs du forum où demain je signe des livres, j’ai fait la sieste pour récupérer de ma nuit épouvantable. Il pleut toujours autant. Et dans le couloir, quand j’y prête attention, j’entends les deux gardes du corps en poste devant la chambre voisine. Ils ne cessent de discuter. Oui, le gars d’à côté a des gardes du corps !
+Il pleut des cordes. J’ai tenté une sortie, avant de vite rentrer, fuyant les voitures éclaboussantes. J’ai discuté avec Didier, avec les organisateurs du forum où demain je signe des livres, j’ai fait la sieste pour récupérer de ma nuit épouvantable. Il pleut toujours autant. Et dans le couloir, quand j’y prête attention, j’entends les deux gardes du corps en poste devant la chambre voisine. Ils ne cessent de discuter. Oui, le gars d'à côté a des gardes du corps !
 
 ---
 
@@ -120,13 +120,13 @@ Ce matin, j’ai vu un blogueur expliquer comment publier une histoire qui march
 
 Bucarest est une ville sans énergie, la chape communiste pèse encore sur ses épaules, comme tous ces nuages si épais, si empilés, qu’ils en deviennent indiscernables. La nuit approche, je vais reprendre mes zigzags, cette fois dans le but de regagner mon hôtel.
 
-![Maison des architectes](https://tcrouzet.com/images_tc/2018/03/20180313-1.jpg)
+![Maison des architectes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180313-1.jpg)
 
-![Ruelle des parapluies](https://tcrouzet.com/images_tc/2018/03/20180313-2.jpg)
+![Ruelle des parapluies](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180313-2.jpg)
 
-![Taxis](https://tcrouzet.com/images_tc/2018/03/20180313-3.jpg)
+![Taxis](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180313-3.jpg)
 
-![Perspective parisienne](https://tcrouzet.com/images_tc/2018/03/20180313-4.jpg)
+![Perspective parisienne](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180313-4.jpg)
 
 ### Mercredi 14, Bucarest
 
@@ -140,9 +140,9 @@ Je signe des [*Le geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/), o
 
 En fin d’après midi, nous quittons la lépreuse Bucarest pour Brasov. Bientôt la route approche la chaîne enneigée des Carpates, avant de se faufiler entre des haies de sapins et de maisons colorées, aux façades sculptées. Impression d’être quelque part à mi chemin entre les hauts plateaux mexicains et les Rocheuses. Nous atteignons la ville tant vantée, et nous voilà installés dans un nouvel hôtel de luxe si moderne que je dois pisser dans le noir parce que je ne réussis pas à allumer la lumière. Et puis, c’est la nouvelle conférence de Didier devant une salle bondée, et moi après de signer non-stop pendant une heure, parfois j’ai envie d’exploser de rire tant les gens se pressent autour de moi quitte à m’étouffer. Mais que de joie chez tous ces membres de la gent médicale. Nous sommes merveilleusement accueillis et peut-être que demain des vies seront sauvées à cause de tout ce qui aura été glissé dans les esprits. Je participe à ma petite échelle à cette noble œuvre. Pendant que Didier parle, je découvre la mort de Stephen Hawking. Je le croyais immortel.
 
-![Je signe](https://tcrouzet.com/images_tc/2018/04/20180314-1.jpg)
+![Je signe](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/04/20180314-1.jpg)
 
-![J'étouffe](https://tcrouzet.com/images_tc/2018/04/20180314-2.jpg)
+![J'étouffe](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/04/20180314-2.jpg)
 
 ---
 
@@ -172,11 +172,11 @@ Aller jusque là serait reconnaître que notre civilisation n’a plus d’aveni
 
 J’ai écrit *Le geste qui sauve* par conviction, au nom d’un idéal de liberté et de partage, j’ai donné mon temps, j’ai donné mes droits, et désormais je reçois des invitations de gens absolument généreux, et je me dois à nouveau de leur donner de mon temps, entretenant cette relation et leurs espoirs.
 
-![L'église noire](https://tcrouzet.com/images_tc/2018/03/20180315-1.jpg)
+![L'église noire](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180315-1.jpg)
 
 ### Vendredi 16, Burarest
 
-Réveillé à 4 heures, une heure plus tard je suis à l’aéroport à attendre mon vol pour Paris, avec une idée qui me tourne dans la tête, celle d’un livre documentaire, peut-être même associé à un film, qui raconterait l’achat d’une BMW en Roumanie et mon trajet retour à travers l’Europe jusqu’en France où je la revendrai avec un profit de 10 000 euros, façon de dénoncer l’absurdité d’un monde globalisé de travers.
+Réveillé à 4 heures, une heure plus tard je suis à l’aéroport à attendre mon vol pour Paris, avec une idée qui me tourne dans la tête, celle d’un livre documentaire, peut-être même associé à un film, qui raconterait l’achat d’une BMW en Roumanie et mon trajet retour à travers l’Europe jusqu’en France où je la revendrai avec un profit de 10 000 euros, façon de dénoncer l’absurdité d'un monde globalisé de travers.
 
 À l’hôtel, quand j’ai fait mon check-out une grande fille élégante, perchée sur de hauts talons, avec une robe légère qui révélait sans fard son corps élancé, faisait son check-in. Quand j’ai passé le portique d’entrée pour rejoindre la voiture qui m’attendait, trois filles en minijupe sortaient d’un taxi tout en piaillant d’excitation. Cette vie nocturne m’a toujours échappé et je n’éprouve pour elle aucune curiosité.
 
@@ -192,7 +192,7 @@ Intéressant : nous serions en train de [passer de l’âge de l’information 
 
 Je suis confronté depuis hier au problème de l’obsolescence des données numériques. J’ai décidé d’autopublier mon roman [*Turista*](https://tcrouzet.com/turista/), écrit en 1999 au Mexique. Je n’ai eu aucun problème pour accéder aux fichiers textes, mais j’avais monté les planches illustrées avec XPress, logiciel que je n’utilise plus. Par ailleurs, les images sources n’étaient plus sur mon disque. J’ai dû déterrer des CD-ROM, installer des logiciels, je m’en suis finalement sorti, tout en me disant que notre mémoire est bien fragile, surtout la mémoire de nos projets qui ne sont pas devenus publics et que nous gardons dans nos tiroirs numériques à obsolescence rapide.
 
-![Soir](https://tcrouzet.com/images_tc/2018/03/20180318-1.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180318-1.jpg)
 
 ### Mardi 20, TGV pour Genève
 
@@ -202,7 +202,7 @@ Je regarde mon vieux MakBookPro. J’ai dû le payer 1 600 €, il a plus de 4 a
 
 Hier, un robot a tué pour la première fois un humain, plus précisément une humaine, Elaine Herzberg. C’était un accident, Elaine traversait une route hors des clous, reste que cette personne est la première à avoir été tuée par un robot autonome. J’imagine un petit récit, *Tué par un robot*, sur le modèle du *Ravel* d’Echenoz, qui raconterait les dernières heures d’Elaine, du robot, de ses créateurs… qui commenterait un moment charnière dans l’histoire de l’humanité, un moment que nous venons de vivre dans une relative indifférence.
 
-![Genève](https://tcrouzet.com/images_tc/2018/03/20180320-1.jpg)
+![Genève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180320-1.jpg)
 
 ### Mercred 21, TGV pour Montpellier
 
@@ -214,13 +214,13 @@ Je n’ai pas réagi, peut-être parce que j’étais d’accord, peut-être par
 
 Je n’ai plus envie de convaincre, d’expliquer, de convertir. De toute façon, je n’ai jamais été bon pour ça. Et les années passants, mon cerveau devient moins performant pour la dispute. J’en reviens à l’art, à la littérature qui ouvre un champ transformatif pour ceux qu’elle intéresse encore. Tout ce que j’ai absorbé doit ressortir, prendre des formes imprévues, dans le but premier de produire des illuminations. En prime, je ne suis moi-même que quand j’écris. L’oralité est de moins en moins puissante chez moi. La fiction, le récit, c’est là où j’ai envie d’être, dans ce travail pour bâtir nos différences, ce travail de forcené pour nous arracher au mimétisme.
 
-![Montpellier](https://tcrouzet.com/images_tc/2018/03/20180321-1.jpg)
+![Montpellier](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180321-1.jpg)
 
 ### Jeudi 22, Balaruc
 
 [Je compile tout ce que je trouve sur Elaine Herzberg](https://tcrouzet.com/https://tcrouzet.com/2018/03/22/pour-la-premiere-fois-un-robot-tue-un-humain). Les médias ne parlent pas d’elle, mais de son tueur, à qui ils cherchent des excuses.
 
-![Soir](https://tcrouzet.com/images_tc/2018/03/20180322-1.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180322-1.jpg)
 
 ### Vendredi 23, Balaruc
 
@@ -228,9 +228,9 @@ Je regarde mon écran, je regarde l’étang, je dois me remettre au travail et 
 
 ### Mardi 27, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2018/03/20180327-1.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180327-1.jpg)
 
-![Soir](https://tcrouzet.com/images_tc/2018/03/20180327-2.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180327-2.jpg)
 
 ### Mercredi 28, Nîmes
 
@@ -240,11 +240,11 @@ Ce matin, nous avons testé ma géolecture nîmoise, en troupeau, ce qui n’est
 
 Tous les passants photographient la Maison Carrée, et moi, au premier plan, je me retrouverai dans des mémoires numériques peut-être partagées des milliers de fois, et plus tard des IA dénicheront ma trace en des lieux où j’ai déjà oublié être allé.
 
-![Une conf](https://tcrouzet.com/images_tc/2018/03/20180328-3.jpg)
+![Une conf](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180328-3.jpg)
 
-![Fac](https://tcrouzet.com/images_tc/2018/03/20180328-1.jpg)
+![Fac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180328-1.jpg)
 
-![Quai de la fontaine](https://tcrouzet.com/images_tc/2018/03/20180328-2.jpg)
+![Quai de la fontaine](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180328-2.jpg)
 
 ### Jeudi 29, Nîmes
 
@@ -256,17 +256,17 @@ Parfois j’ai du mal à comprendre de quoi les universitaires parlent, ce qu’
 
 Quelques mots sur le théâtre avec Arnaud. Quand on se quitte, il me dit : « Si tu as des envies. » C’est étrange, [*Wilhelm Meister*](https://fr.wikipedia.org/wiki/Les_Ann%C3%A9es_d%27apprentissage_de_Wilhelm_Meister) est un de mes livres cultes. [*L’amour fou*](https://fr.wikipedia.org/wiki/L%27Amour_fou_(film)) de Rivette un de mes films culte. Tous les deux au sujet du théâtre et je n’ai jamais pensé écrire pour le théâtre. Une histoire de rencontre, et même pas. Peut-être la peur de me confronter au vivant, de demander à des corps d’obéir à mes phrases, mais n’est-ce pas cela la géolecture. Pourquoi pas une géolecture théâtrale, où le réel serait mis en scène au fil de balades. Il y a quelque chose par là-bas, quelque chose de flou. Une certitude : aujourd’hui le corps m’intéresse plus que le virtuel. Je dois renier le titre d’auteur numérique. Je suis un auteur, point. [Le dire, le crier…](https://tcrouzet.com/2018/03/30/la-litterature-numerique-est-morte/)
 
-![François se joue de moi](https://tcrouzet.com/images_tc/2018/03/20180329-1.jpg)
+![François se joue de moi](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/03/20180329-1.jpg)
 
 ### Samedi 31, Balaruc
 
 Suite à mon article sur [la mort de la littérature numérique](https://tcrouzet.com/2018/03/30/la-litterature-numerique-est-morte/), j’ai poursuivi la conversation à droite à gauche. Quelques coupés/collés de mes remarques.
 
-« Il n’a jamais été question de transformer l’auteur en éditeur, ce n’est pas l’objet. Quand j’écris [*One Minute*](https://tcrouzet.com/une-minute/) en ligne jour après jour tout au long d’une année (2015), je ne m’auto-édite pas, j’ouvre mon atelier (idem quand je blogue). Au bout d’un an, j’ai le premier jet d’un texte, qui même s’il a déjà été lu par de nombreux lecteurs, reste à éditer. J’ai d’ailleurs tenté de faire éditer ce texte qui est apparu à nos éditeurs traditionnels bien trop hors des clous du marché pour que ça les intéresse. Cet objet, que je diffuse désormais en livre, reste à éditer (travail d’édition qui a été effectué par Fayard sur mon [roman écrit sur Twitter](https://tcrouzet.com/la-quatrieme-theorie/)). Voilà pourquoi je parle d’auto-publication et jamais d’auto-édition (sauf quand ma langue fourche). »
+« Il n'a jamais été question de transformer l'auteur en éditeur, ce n’est pas l'objet. Quand j'écris [*One Minute*](https://tcrouzet.com/une-minute/) en ligne jour après jour tout au long d'une année (2015), je ne m'auto-édite pas, j'ouvre mon atelier (idem quand je blogue). Au bout d'un an, j'ai le premier jet d'un texte, qui même s'il a déjà été lu par de nombreux lecteurs, reste à éditer. J'ai d'ailleurs tenté de faire éditer ce texte qui est apparu à nos éditeurs traditionnels bien trop hors des clous du marché pour que ça les intéresse. Cet objet, que je diffuse désormais en livre, reste à éditer (travail d'édition qui a été effectué par Fayard sur mon [roman écrit sur Twitter](https://tcrouzet.com/la-quatrieme-theorie/)). Voilà pourquoi je parle d'auto-publication et jamais d'auto-édition (sauf quand ma langue fourche). »
 
-« Dans la perspective de l’auteur, de la création, la capacité de s’auto-publier instantanément et à coût nul est une rupture de paradigme. Des œuvres d’un nouveau genre apparaissent, même si comme le montre François Bon il existe une longue filiation qui remonte à bien avant le numérique. Ce qui m’intéresserait de la part des universitaires c’est qu’ils étudient ces œuvres, qu’ils les lisent, qu’ils les critiquent et les comparent à d’autres qui n’ont pas suivi les mêmes chemins, éditoriaux, et peut-être trouvent en elles des propriétés remarquables. »
+« Dans la perspective de l'auteur, de la création, la capacité de s'auto-publier instantanément et à coût nul est une rupture de paradigme. Des œuvres d'un nouveau genre apparaissent, même si comme le montre François Bon il existe une longue filiation qui remonte à bien avant le numérique. Ce qui m'intéresserait de la part des universitaires c'est qu'ils étudient ces œuvres, qu'ils les lisent, qu’ils les critiquent et les comparent à d'autres qui n’ont pas suivi les mêmes chemins, éditoriaux, et peut-être trouvent en elles des propriétés remarquables. »
 
-« Dire que l’outil façonne ce qu’on écrit, donc que le numérique façonne ce qu’on écrit, n’implique pas qu’il existe une littérature numérique. Ce qui me paraît intéressant, c’est en quoi nos œuvres produites grâce au numérique diffèrent de celles de nos contemporains produites avec moins de numérique. Est-ce qu’il existe une différence ? Une façon neuve chez nous ? Il me semble que ces questions, qui impliquent de se pencher sur les œuvres plus que sur leurs moyens de production, n’ont guère été abordées à ce jour. Et ce travail, nous autres auteurs ne pouvons pas le faire, nous pouvons parler de nos méthodes de travail, mais pas de nos œuvres. Nous ne pouvons pas être nos propres critiques. »
+« Dire que l'outil façonne ce qu’on écrit, donc que le numérique façonne ce qu’on écrit, n’implique pas qu’il existe une littérature numérique. Ce qui me paraît intéressant, c’est en quoi nos œuvres produites grâce au numérique diffèrent de celles de nos contemporains produites avec moins de numérique. Est-ce qu’il existe une différence ? Une façon neuve chez nous ? Il me semble que ces questions, qui impliquent de se pencher sur les œuvres plus que sur leurs moyens de production, n’ont guère été abordées à ce jour. Et ce travail, nous autres auteurs ne pouvons pas le faire, nous pouvons parler de nos méthodes de travail, mais pas de nos œuvres. Nous ne pouvons pas être nos propres critiques. »
 
 « Si par une analyse des textes, l’un de vous découvre une spécificité des œuvres produites numériquement, alors on pourra parler d’une littérature numérique. Pour le moment, personne n’a effectué cette démonstration. »
 
@@ -276,4 +276,6 @@ Je découvre que pour les universitaires parler de la littérature auto-publiée
 
 ---
 
-Envie d’écrire un livre sur le pouvoir de la littérature, en évoquant les études qui montrent que la littérature nous grandit, nous rendant plus emphatiques, plus uniques, moins moutons de Panurge, un livre qui serait littéraire bien sûr, d’ailleurs il ne m’est jamais venu à l’idée d’écrire un livre qui n’était pas littéraire ce que les littéraires n’ont pas compris, surtout ceux du Net qui s’enferment dans leur prosodie décadente (et peut-être est-ce cette décadence qui justifie la mort de la littérature numérique).
+Envie d'écrire un livre sur le pouvoir de la littérature, en évoquant les études qui montrent que la littérature nous grandit, nous rendant plus emphatiques, plus uniques, moins moutons de Panurge, un livre qui serait littéraire bien sûr, d'ailleurs il ne m'est jamais venu à l'idée d'écrire un livre qui n'était pas littéraire ce que les littéraires n'ont pas compris, surtout ceux du Net qui s'enferment dans leur prosodie décadente (et peut-être est-ce cette décadence qui justifie la mort de la littérature numérique).
+
+Tags: Carnets, une

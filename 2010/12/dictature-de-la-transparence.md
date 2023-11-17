@@ -14,7 +14,7 @@ Les puissants se sentant égratignés, rabaissés au titre de simple humain, et 
 
 Personne à vrai dire ne fut dupe. Une prostituée aurait été soudoyée pour la mise en scène. [Tout et n’importe quoi fut raconté.](http://www.examiner.com/us-headlines-in-national/julian-assange-interpol-warrant-issued-for-sex-without-condom-not-rape) Les documents ayant été détruits, il nous est difficile de nous prononcer aujourd’hui. C’est de l’histoire ancienne qui au final n’a que peu d’importance par rapport à ce qui se produisit, à Paris, en ce 3 décembre 2010.
 
-Éric Besson, alors ministre de l’Industrie, de l’Énergie et de l’Économie numérique déclara :
+Éric Besson, alors ministre de l'Industrie, de l'Énergie et de l'Économie numérique déclara :
 
 > La France ne peut héberger des sites internet qui violent le secret des relations diplomatiques.
 
@@ -32,9 +32,9 @@ Ceux qui étaient encore des enfants à cette époque expliquent avec difficult�
 
 Aujourd’hui, nous sommes d’autant plus horrifiés que nous comprenons à quel point cette affaire Wikileaks n’avait aucun sens. Julian Assange, sous prétexte de révéler les secrets des gouvernements, vivait lui-même dans le plus grand secret. Au nom de la protection de ses sources, il s’était réfugié derrière une organisation tout aussi opaque que celles qu’il entendait mettre à jour.
 
-On parla à juste titre de [la Première Guerre Mondiale de l’information](http://www.kelblog.com/article-wikileaks-la-premiere-infowar-a-commence-62283450.html). Deux superpuissances s’affrontèrent. D’un côté, nous avions les États légitimes. De l’autre, un conglomérat de pseudo libertaires. Au final, les uns et les autres utilisaient les mêmes méthodes. Il faut deux imbéciles pour un match de boxe, pour une guerre aussi.
+On parla à juste titre de [la Première Guerre Mondiale de l’information](http://www.kelblog.com/article-wikileaks-la-premiere-infowar-a-commence-62283450.html). Deux superpuissances s’affrontèrent. D'un côté, nous avions les États légitimes. De l’autre, un conglomérat de pseudo libertaires. Au final, les uns et les autres utilisaient les mêmes méthodes. Il faut deux imbéciles pour un match de boxe, pour une guerre aussi.
 
-Aujourd’hui nous avons compris qu’exiger la transparence absolue est un non-sens. Déjà à l’époque des voix s’étaient élevées [pour dénoncer cette mascarade](https://tcrouzet.com/tag/transparence/). Elles invoquèrent d’ailleurs à la rescousse Baudrillard :
+Aujourd’hui nous avons compris qu’exiger la transparence absolue est un non-sens. Déjà à l’époque des voix s’étaient élevées [pour dénoncer cette mascarade](http://blog.tcrouzet.com/tag/transparence/). Elles invoquèrent d’ailleurs à la rescousse Baudrillard :
 
 > Lorsque tout tend à passer du côté du visible, comme c’est le cas dans notre univers \[La sexualité par exemple\], que deviennent les choses jadis secrètes ? Elles deviennent occultes, clandestines, maléfiques : ce qui était simple secret, c’est-à-dire donné à s’échanger dans le secret, devient le mal et doit être aboli, exterminé. \[…\] La prohibition du secret ne peut qu’augmenter le nombre de secrets. Sous prétexte de tout montrer, on risque de cacher des choses plus obscures et, pour avoir des choses à cacher, il faudra commettre des actes eux-mêmes peu avouables. Ce serait la transparence elle-même qui serait le Mal – la perte de tout secret. Tout comme, dans le « crime parfait », c’est la perfection elle-même qui est criminelle.
 
@@ -50,4 +50,6 @@ Chacun de nous a le droit d’avoir des secrets mais c’est à nous de veiller 
 
 *PS1 : Je dois le titre de ce billet à [Guy Birenbaum](http://twitter.com/guybirenbaum).*
 
-*PS2 : 30 minutes après la publication de ce texte, j’apprends que Facebook bloquerait l’accès aux [miroirs de Wikileaks](http://bluetouff.com/2010/12/03/acceder-a-wikileaks/). Je teste, ça passe selon moi. Mais voilà ce qu’il arrivera un jour ou l’autre. Quand on passe son temps sur le Net dans un environnement fermé, on est prisonnier, puis on oublie qu’il existe un monde extérieur. N’oublions pas la métaphore de la caverne de Platon.*
+*PS2 : 30 minutes après la publication de ce texte, j'apprends que Facebook bloquerait l'accès aux [miroirs de Wikileaks](http://bluetouff.com/2010/12/03/acceder-a-wikileaks/). Je teste, ça passe selon moi. Mais voilà ce qu'il arrivera un jour ou l'autre. Quand on passe son temps sur le Net dans un environnement fermé, on est prisonnier, puis on oublie qu'il existe un monde extérieur. N'oublions pas la métaphore de la caverne de Platon.*
+
+Tags: NetCulture

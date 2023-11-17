@@ -1,6 +1,6 @@
 # Modalités littéraires
 
-Hier, [après avoir écrit mon billet révolutionnaire](https://tcrouzet.com/2007/06/16/vive-la-revolution/), j’ai songé que [La Nouvelle Origine](http://www.lanouvelleorigine.com) appartenait à la catégorie des livres de connexion.
+Hier, [après avoir écrit mon billet révolutionnaire](http://blog.tcrouzet.com/2007/06/16/vive-la-revolution/), j’ai songé que [La Nouvelle Origine](http://www.lanouvelleorigine.com) appartenait à la catégorie des livres de connexion.
 
 En tant que lecteur, j’éprouve diverses expériences. Certains livres me prennent au corps, j’y plonge, ils me font changer de monde. Ils appartiennent à la famille des *Trois Mousquetaires*, comme presque tous les livres de SF que j’ai lus adolescent, comme la plupart des polards. En ce moment, je suis d’ailleurs très Charles Williams.
 

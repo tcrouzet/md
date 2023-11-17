@@ -12,7 +12,7 @@ Ma façon d’écrire, de penser, est avant tout ludique. Il n’y a rien de sé
 
 Pourquoi vivons-nous sinon pour expérimenter et jouir ? Je ne vois aucune autre raison. Cela n’empêche pas de mener une vie morale, de vouloir le bien des autres, de se battre contre les oppresseurs, contre les destructeurs du monde, contre tous ceux qui veulent rendre le jeu désagréable pour le plus grand nombre, dans l’intention de mener leur partie à leur guise.
 
-[Raveline m’a fait m’interroger sur mes valeurs](https://tcrouzet.com/2010/02/17/suis-je-apolitique/) qui ne peuvent exister dans le cadre de la complexité mouvante, sinon comme des moments. J’aurais dû parler du ludique. N’est-ce pas ma pseudo-valeur cardinale, celle qui dure depuis le plus longtemps pour moi ? Et si j’attache de l’importance à la liberté, c’est parce qu’elle est nécessaire au jeu. Et que si les autres sont aussi libres, le jeu est plus intéressant.
+[Raveline m’a fait m’interroger sur mes valeurs](http://blog.tcrouzet.com/2010/02/17/suis-je-apolitique/) qui ne peuvent exister dans le cadre de la complexité mouvante, sinon comme des moments. J’aurais dû parler du ludique. N’est-ce pas ma pseudo-valeur cardinale, celle qui dure depuis le plus longtemps pour moi ? Et si j’attache de l’importance à la liberté, c’est parce qu’elle est nécessaire au jeu. Et que si les autres sont aussi libres, le jeu est plus intéressant.
 
 J’en arrive toujours à la même conclusion. L’art nous apprend plus sur les hommes que les théories des philosophes ou des sociologues. L’art nous parle de ce qui ne peut se dire, de ce qui ne peut s’objectiver. L’art donne à penser et à vivre en même temps, il ne sépare pas l’esprit et le corps. Il est une expérience totale avec laquelle l’intellection seule ne peut rivaliser.
 
@@ -20,4 +20,6 @@ Alors il me semble que nous devons penser en artiste, en joueur, en équilibrist
 
 Nous autres joueurs vivons dans un univers façonnable. Nous respectons la règle, mais pouvons nous entendre pour la changer. La vérité, c’est la règle, le bref instant où nous les respectons tous. Autant dire une utopie.
 
-Certains affirment que le blog est mort alors que nous n’avons découvert qu’une infime partie de ses possibilités d’usage. Dire que le blog est mort c’est comme dire que la littérature est morte. Absurde : le blog ouvre de nouvelles perspectives à la littérature. C’est le blog comme plateforme d’[egocasting](http://theoriedestendances.com/2010/02/18/entrevues-avec-les-medias/) qui est mort. Et on ne va pas s’en plaindre.
+Certains affirment que le blog est mort alors que nous n'avons découvert qu’une infime partie de ses possibilités d’usage. Dire que le blog est mort c’est comme dire que la littérature est morte. Absurde : le blog ouvre de nouvelles perspectives à la littérature. C’est le blog comme plateforme d’[egocasting](http://theoriedestendances.com/2010/02/18/entrevues-avec-les-medias/) qui est mort. Et on ne va pas s’en plaindre.
+
+Tags: NetCulture

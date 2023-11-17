@@ -45,3 +45,5 @@ Gildas Vivier se définit comme un socialiste désespéré. Y’a de quoi. Je su
 *— Vous qui avez eu l’idée de vous endormir tous les soirs dans les bras de la même femme et de lui faire deux enfants pour ne plus jamais dormir tranquille, quel message adresseriez-vous aux jeunes connecteurs, d’ici et d’ailleurs ?*
 
 — C’est dangereux les conseils. Ils valent aussi pour moi. Créer sans cesse de nouvelles connexions, mais aussi les alimenter, les nourrir. Ça veut dire faire beaucoup de choses hors du flux. Lire par exemple. Marcher. Toutes ces activités nous donnent de la matière que nous ferons ensuite circuler sur le réseau. Si nous nous limitons à ce qui buzze, notre réseau ne sert à rien. C’est un outil merveilleux que nous laissons aux marketeux.
+
+Tags: NetCulture, Politique, une

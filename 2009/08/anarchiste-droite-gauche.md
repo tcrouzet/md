@@ -25,3 +25,5 @@ C’était peut-être tout simplement impossible, faute d’un niveau de complex
 Qui sont les hommes qui défendent les idées politiques que je viens d’esquisser. Des connecteurs (puisque c’est en se connectant qu’on se maintient à la transition) ? Des transitionneurs (pour dire où ils se situent) ? Un vocable s’imposera. Je n’ai jamais eu aucun talent pour ce genre de jeu.
 
 *PS : J’ai écrit ce billet en réaction au [coming out de Nicolas Voisin](http://www.nuesblog.com/2009/08/15/linsurrection-des-anarnautes-ou-le-sursaut-de-la-raison/).*
+
+Tags: anarchisme, auto-organisation

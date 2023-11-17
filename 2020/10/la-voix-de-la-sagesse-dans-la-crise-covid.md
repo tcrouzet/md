@@ -4,7 +4,7 @@ Aujourd’hui sort [*Vaincre les épidémies*](https://tcrouzet.com/vaincre-les-
 
 Ce livre diffère de la plupart de ceux déjà publiés sur la pandémie, en ce sens qu’elle est vue selon la perspective de celui qui la combat, qui jamais ne renonce devant l’adversité, qui toujours cherche des solutions, quitte à jouer au billard à cinq bandes pour influencer les décisions jusqu’au sommet de l’État.
 
-![Vaincre les épidémies](https://tcrouzet.com/images_tc/2020/09/PlancheVaincre1600.jpg)
+![Vaincre les épidémies](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2020/09/PlancheVaincre1600.jpg)
 
 Pendant que les uns et les autres critiquaient ou annonçaient le pire ou des traitements miracles, Didier se battait pour trouver des solutions pragmatiques, efficaces tout de suite. Quand il n’y avait plus de masques, il faisait récupérer les usagers pour les faire désinfecter. Quand les prix des gels hydro-alcooliques s’envolaient, il se débrouillait pour les faire distribuer gratuitement. Quand les jeunes lui paraissaient indifférents à la crise, il lançait des campagnes pour les sensibiliser. Son mot d’ordre : l’action et l’exigence de transparence et de vérité.
 
@@ -19,3 +19,5 @@ Inflexible, Didier a traversé les controverses, s’en tenant à ses observatio
 Didier est devenu en Suisse celui qui rassure, qui en même temps dit ce qui doit être dit et fait. Mon espoir : que son flegme devienne une règle pour tous, surtout pour ceux en charge de nos politiques de santé.
 
 Nous avons vécu des mois chargés, douloureux, difficiles. Nous devons les digérer pour aborder la suite au mieux. J’espère que la lecture vous passionnera autant que l’écriture m’a passionné. Ce texte est un médicament contre l’anxiété.
+
+Tags: Covid, une

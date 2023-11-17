@@ -4,9 +4,9 @@ Je pourrais parler des bons côtés du confinement, dire par exemple que j’ava
 
 J’aurais aimé un grand élan national, une belle entente, un regain d’harmonie, une sorte d’un contre tous dépourvu de polémiques, mais il faut croire que nous avons raté le coche, peut-être déjà parce que l’affaire nous a été présentée comme une guerre, et qui dit guerre dit apparition de déserteurs, d’objecteurs de conscience, de pacifistes et de va-t’en guerre zélés, autant de raisons de fracturer la société.
 
-Jamais il ne nous a été demandé de travailler ensemble. Notre intelligence n’a jamais été invoquée, mais seulement notre élan patriotique, comme si on pouvait encore se sentir patriote alors que le monde est en crise (et il ne s’agit pas d’une situation neuve).
+Jamais il ne nous a été demandé de travailler ensemble. Notre intelligence n’a jamais été invoquée, mais seulement notre élan patriotique, comme si on pouvait encore se sentir patriote alors que le monde est en crise (et il ne s'agit pas d'une situation neuve).
 
-Dès le départ, le gouvernement a douté de notre capacité à respecter les mesures de distanciation sociale, peut-être à raison vu le comportement de certains, mais doit-on fonder la politique sur les écarts à la marge ? Est-ce parce que certains commettent des crimes qu’il faut tous nous emprisonner ? Je ne le pense pas. Une fois que le gouvernement a ainsi démontré qu’il ne nous faisaient pas confiance, basculant sur un mode policier, nous lui avons renvoyé son mépris en ce cessant de le critiquer, et ce n’est qu’un début, tout sera déballé et ça ne sera bon à renifler.
+Dès le départ, le gouvernement a douté de notre capacité à respecter les mesures de distanciation sociale, peut-être à raison vu le comportement de certains, mais doit-on fonder la politique sur les écarts à la marge ? Est-ce parce que certains commettent des crimes qu'il faut tous nous emprisonner ? Je ne le pense pas. Une fois que le gouvernement a ainsi démontré qu’il ne nous faisaient pas confiance, basculant sur un mode policier, nous lui avons renvoyé son mépris en ce cessant de le critiquer, et ce n’est qu’un début, tout sera déballé et ça ne sera bon à renifler.
 
 Tout aussi vite, telle une épidémie, cette défiance ne s’est plus limitée à un match de ping-pong entre le haut et le bas de la pyramide sociale, elle a commencé à la traverser horizontalement, chacun de nous doutant de la capacité des autres à faire aussi bien que lui. Une génération spontanée de donneurs de leçons a vu le jour. Des petits flics ont surgi de toute part pour traquer ceux qui commettaient des fautes impardonnables.
 
@@ -17,3 +17,5 @@ C’est une mécanique perverse. Ceux qui au départ étaient responsables, et j
 Nous avons un grave problème : sans confiance, nous ne formons plus société. La pandémie révèle au grand jour notre atomisation, si on en doutait encore. Je ne sais pas comment nous reconstituerons le puzzle.
 
 Pour rappel, la Chine nous a menti sur le début de la pandémie, elle nous a menti pendant, elle continuera à nous mentir. Voilà comment se comporte une dictature. Elle ment à l’extérieur et à l’intérieur, elle se ment à elle-même. Et elle ne peut fonctionner, elle ne peut tenir, que parce qu’elle s’appuie sur une armée de délateurs. Beaucoup trop de gens chez nous se sont déjà portés volontaires pour rejoindre la milice de salut public. J’avoue que je ne suis pas trop excité à l’idée de vivre en leur compagnie. Je sais que cette affaire laissera des traces, au moins en moi.
+
+Tags: Covid, Politique, une

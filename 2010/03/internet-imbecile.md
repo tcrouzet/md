@@ -2,7 +2,7 @@
 
 De nos jours, aux États-Unis. Pour avoir participé à un viol collectif, 7 mois de prison[1](#_ftn1). Pour un braquage à main armée, 18 mois. Pour l’enregistrement vidéo d’un film dans une salle, 24 mois[2](#_ftn2). Pendant que de plus en plus de gens dénigrent Internet, prétendent qu’il n’a aucune influence politique et sociale, les tribunaux dispensent des peines disproportionnées pour des délits survenus sur Internet. Dans le même temps, les gouvernements votent des lois pour réduire la liberté des internautes. N’est-ce pas paradoxal ?<span id="more-15013"></span>
 
-Si Internet n’avait aucune importance, pourquoi faudrait-il légiférer à son sujet ? Pourquoi faudrait-il pénaliser des activités qui ne mettent en danger la vie de personne ? Pourquoi même faudrait-il en parler ? Mais si on en parle autant, n’est-ce pas que quelque chose couve ? Peut-être pas quelque chose qui a été prévu, mais quelque chose d’encore innommable.
+Si Internet n’avait aucune importance, pourquoi faudrait-il légiférer à son sujet ? Pourquoi faudrait-il pénaliser des activités qui ne mettent en danger la vie de personne ? Pourquoi même faudrait-il en parler ? Mais si on en parle autant, n’est-ce pas que quelque chose couve ? Peut-être pas quelque chose qui a été prévu, mais quelque chose d'encore innommable.
 
 Le viol, le braquage à main armé, le crime… n’effraient pas les structures de pouvoir. Elles les ont intégrés et même abondamment pratiqués au cours de l’histoire. Le piratage d’un film constitue, en revanche, une menace plus subversive. Il s’agit de manipuler l’information, de la transférer par des canaux alternatifs, des canaux qui échappent aux structures de pouvoir. Elles n’ont pas l’intention de se laisser contourner.
 
@@ -16,7 +16,7 @@ Comment les prendre au sérieux ? Si Internet change un tant soit peu la socié
 
 J’imagine ce qu’il pense : « Que ce serait bien si Internet pouvait se dégonfler, si on pouvait en revenir à l’ancienne économie du papier. Alors essayons d’entretenir cette idée d’un Internet malsain pour entretenir cette autre idée que les informations de qualité ne se trouvent que sur le papier. » Ce point de vue traverse le dossier de *Books*.
 
-Vous allez peut-être vous demander si les défenseurs d’Internet sont eux-mêmes objectifs ? Si Internet se développe, nous gagnons par ricochet du prestige. D’un autre côté, nous aussi, surtout ceux qui comme moi vivent de l’écriture, nous ne gagnons rien à ce développement, il ne nous paie pas plus que les journalistes des magazines qui agonisent (et même moins). Si nous nous engageons pour Internet, c’est parce que nous croyons qu’il ouvre de nouvelles possibilités historiques. Nous le faisons, en tout cas je le fais, par militantisme.
+Vous allez peut-être vous demander si les défenseurs d'Internet sont eux-mêmes objectifs ? Si Internet se développe, nous gagnons par ricochet du prestige. D’un autre côté, nous aussi, surtout ceux qui comme moi vivent de l’écriture, nous ne gagnons rien à ce développement, il ne nous paie pas plus que les journalistes des magazines qui agonisent (et même moins). Si nous nous engageons pour Internet, c’est parce que nous croyons qu’il ouvre de nouvelles possibilités historiques. Nous le faisons, en tout cas je le fais, par militantisme.
 
 Oui, nous sommes des militants, nous ne sommes donc pas objectifs, mais nous ne nous contentons pas du monde que nous observons. Nous voulons le transformer, l’orienter dans la mesure de nos moyens dans une direction qui nous paraît plus agréable (je reste vague au sujet de cet agréable pour laisser la place à une pluralité d’agréables).
 
@@ -34,7 +34,7 @@ Pour Chouet, on ne combat pas une structure en réseau avec des armées hiérarc
 
 Tous ceux qui critiquent Internet et même tous ceux qui théorisent à tort et à travers à son sujet devraient écouter et réécouter cette conférence d’Alain Chouet. Trop souvent, ils pensent hiérarchies et oublient que le Web a été construit par des loups solitaires (à commencer par Tim Berners-Lee qui a travaillé en perruque au CERN). Pour créer un site Web, nous n’avons rien à demander à personne.
 
-Inversement, si des gens veulent utiliser internet pour s’attaquer à des structures centralisées, ils ont tout intérêt à adopter une stratégie en réseau (à moins d’être de force égale ou supérieure à leurs ennemis centralisés).
+Inversement, si des gens veulent utiliser internet pour s'attaquer à des structures centralisées, ils ont tout intérêt à adopter une stratégie en réseau (à moins d'être de force égale ou supérieure à leurs ennemis centralisés).
 
 ### Le cyberoptimisme
 
@@ -50,7 +50,7 @@ Que de confusions. Internet tantôt un instrument, tantôt un outil, pourquoi pa
 
 Le Web est une structure décentralisée, en grande partie auto-organisée. Google, Twitter, Facebook… sont des entreprises centralisées, structurées sur le même modèle que les gouvernements les plus autocratiques de la planète. Comment imaginer que des citoyens pourraient faire la révolution en recourant à ces services ? Il faut être un cyberdumb comme Clay Shirky pour le croire. Alors doit-on dénigrer Internet à cause d’un seul imbécile avec pignon sur rue outre atlantique ?
 
-La partie politique du dossier de *Books* ne s’appuie que sur les théories de Shirky critiquées par Evgueni Morozov. C’est surréaliste. Shirky vit dans le monde des capital-risqueurs américains. Vous vous attendez à une quelconque vision politique novatrice venant d’un tel bonhomme ?
+La partie politique du dossier de *Books* ne s’appuie que sur les théories de Shirky critiquées par Evgueni Morozov. C’est surréaliste. Shirky vit dans le monde des capital-risqueurs américains. Vous vous attendez à une quelconque vision politique novatrice venant d’un tel bonhomme ? 
 
 Comment quelqu’un nourri à la dictature de l’argent pourrait penser la révolution politique ? Il ne le peut pas. Pour lui la révolution ne peut passer que par les services cotés en bourse. On n’abat pas la dictature avec des outils dictatoriaux sinon pour établir une nouvelle dictature.
 
@@ -112,7 +112,7 @@ Si les dictatures s’adaptent sans difficulté aux outils centralisés comme le
 
 Mais qu’est-ce qu’on appelle démocratie ? Quelle démocratie Internet pourrait-il favoriser ? Utilisé pour sa capacité à engendrer des monstres centralisés, il ne peut que renforcer le modèle représentatif, quitte à le faire verser vers la dictature.
 
-Internet est potentiellement dangereux (mais qu’est-ce qui n’est pas dangereux entre nos mains ?). Il peut en revanche nous aider à construire un monde plus décentralisé, un monde où les pouvoirs seraient mieux distribués, où la coercition s’affaiblirait, où nous serions moins dépendants des structures d’autorités les plus contestables.
+Internet est potentiellement dangereux (mais qu'est-ce qui n'est pas dangereux entre nos mains ?). Il peut en revanche nous aider à construire un monde plus décentralisé, un monde où les pouvoirs seraient mieux distribués, où la coercition s’affaiblirait, où nous serions moins dépendants des structures d’autorités les plus contestables.
 
 Exemple. Les blogueurs ont potentiellement le pouvoir de décentraliser la production de l’information et sa critique. Je dis bien potentiellement. À ce jour, le phénomène est encore marginal. Mais ne nous précipitons pas. Le Web a vingt ans. Il y a dix ans la plupart des Internautes ne savaient rien d’Internet. Nous ne pouvons pas attendre du nouvel écosystème qu’il bouleverse la donne du jour au lendemain. Ce serait catastrophique et sans doute dangereux. Que les choses avancent lentement n’est pas un mal.
 
@@ -124,10 +124,12 @@ Cessons de nous demander en quoi Internet bouleverse la démocratie représentat
 
 Si Internet doit bouleverser la politique, c’est en nous aidant à inventer une nouvelle forme de démocratie, une démocratie moins autoritaire, une démocratie de point à point, une démocratie de proximité globale.
 
-Au fait, j’ai titré ce billet “Internet stimule l’imbécilité” parce que la peur d’Internet fait dire n’importe quoi à des gens qui ne savent pas ce qu’est Internet et qui recoupent des textes écrits par des intellectuels qui eux-mêmes ne connaissent pas Internet (et la régression pourrait être poussée bien loin).
+Au fait, j'ai titré ce billet "Internet stimule l’imbécilité" parce que la peur d'Internet fait dire n'importe quoi à des gens qui ne savent pas ce qu'est Internet et qui recoupent des textes écrits par des intellectuels qui eux-mêmes ne connaissent pas Internet (et la régression pourrait être poussée bien loin).
 
 ---
 
-[(1)](#_ftnref1) J’ai trouvé ces peines dans un commentaire sur [Numerama](http://www.numerama.com/magazine/15131-deux-ans-de-prison-pour-avoir-filme-the-dark-knight-au-cinema.html). J’ai un peu fouillé pour constater que les peines pour viol aux US étaient de durée variable mais parfois de [juste 128 jours de prison](http://www.associatedcontent.com/article/310380/rape_punishment.html).
+[(1)](#_ftnref1) J'ai trouvé ces peines dans un commentaire sur [Numerama](http://www.numerama.com/magazine/15131-deux-ans-de-prison-pour-avoir-filme-the-dark-knight-au-cinema.html). J’ai un peu fouillé pour constater que les peines pour viol aux US étaient de durée variable mais parfois de [juste 128 jours de prison](http://www.associatedcontent.com/article/310380/rape_punishment.html).
 
 [(2)](#_ftnref2) [Dans le même article de Numerama.](http://www.numerama.com/magazine/15131-deux-ans-de-prison-pour-avoir-filme-the-dark-knight-au-cinema.html)
+
+Tags: Facebook, Journalisme, Politique

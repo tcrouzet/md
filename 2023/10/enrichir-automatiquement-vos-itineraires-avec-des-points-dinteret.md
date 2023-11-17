@@ -17,3 +17,5 @@ Je n’avais ni le temps ni le courage de recommencer pour le TMV. Avec l’aide
 ![Overpass](https://tcrouzet.com/images_tc/2023/10/overpass-scaled.jpg)
 
 Des outils comme [GPSVisualizer](https://www.gpsvisualizer.com/convert_input) permettent de convertir les KML en GPX. [On peut également les importer directement dans Garmin Basecamp pour les transférer aux GPS.](https://tcrouzet.com/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/) Pour ma part, j’aime envoyer les GoogleMap enrichies à l’application [MapOut](https://mapout.app/) sur iPhone, à laquelle je me reporte très souvent quand je roule. J’espère que ce petit bout de code vous aidera dans vos périples hors des sentiers battus.
+
+Tags: Born to Bike, GPS, une

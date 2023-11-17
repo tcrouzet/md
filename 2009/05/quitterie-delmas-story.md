@@ -1,6 +1,6 @@
 # Quitterie Story : aimer la politique pour mieux la quitter
 
-*Ce texte a été pensé comme un des chapitres de [Les crapauds fous](https://tcrouzet.com/les-crapauds-fous/), la vie de ceux qui changent le monde en suivant une voie non orthodoxe. J’ai interviewé par ordre d’apparition **Quitterie Delmas**, **Jean-Yves de Chaisemartin**, **Virginie Votier** et **François Bayrou**.*<span id="more-6708"></span>
+*Ce texte a été pensé comme un des chapitres de [Les crapauds fous](http://blog.tcrouzet.com/les-crapauds-fous/), la vie de ceux qui changent le monde en suivant une voie non orthodoxe. J'ai interviewé par ordre d'apparition **Quitterie Delmas**, **Jean-Yves de Chaisemartin**, **Virginie Votier** et **François Bayrou**.*<span id="more-6708"></span>
 
 > « Je ne veux pas changer la règle du jeu, je veux changer de jeu. » André Breton
 
@@ -158,7 +158,7 @@ Comme Quitterie, Jean-Yves a lui aussi quitté le parti, guère satisfait par la
 
 Jean-Yves a estimé qu’il serait plus efficace en restant dans sa ville, dans son entreprise où il invente concrètement l’avenir, cet avenir qui le passionne. Malgré son diplôme complémentaire à Science-Po, Jean-Yves reste un jeune ingénieur, un technicien qui rêve de trouver des solutions, d’inventer, d’améliorer. Il ne veut pas tant changer le monde que le faire avancer pour que nous y soyons plus heureux. Il pense que c’est à chacun de le faire, à son niveau, dans ses activités professionnelles, associatives et, y compris, politiques.
 
-Comme François Bayrou, il a l’impression que Quitterie renonce à cette voie ou plutôt qu’elle veut changer le système de l’extérieur alors que lui reste confiant qu’on peut le faire de l’intérieur, comme si le système pouvait se réformer lui-même. Jean-Yves n’appartient plus à aucun mouvement politique traditionnel, mais il sait que, le moment venu, il retrouvera une place dans l’un d’entre eux. Quitterie, elle, ne croit plus à cette approche. Quand ses amis, ses partisans, même des personnalités connues comme l’ancien patron du WWF, lui ont demandé de créer un nouveau parti, elle leur a signifié que les partis n’étaient plus capables de transformer la société.
+Comme François Bayrou, il a l’impression que Quitterie renonce à cette voie ou plutôt qu’elle veut changer le système de l’extérieur alors que lui reste confiant qu’on peut le faire de l’intérieur, comme si le système pouvait se réformer lui-même. Jean-Yves n’appartient plus à aucun mouvement politique traditionnel, mais il sait que, le moment venu, il retrouvera une place dans l’un d’entre eux. Quitterie, elle, ne croit plus à cette approche. Quand ses amis, ses partisans, même des personnalités connues comme l'ancien patron du WWF, lui ont demandé de créer un nouveau parti, elle leur a signifié que les partis n’étaient plus capables de transformer la société.
 
 — Laissons les élus faire leur travail, essayons autre chose, inventons autre chose, en parallèle, dit-elle.
 
@@ -198,4 +198,6 @@ Une autre phrase, de Brel cette fois, lui sert de leitmotiv : « L’avenir d�
 
 Où ranger Quitterie ? Et avec eux, les hommes et les femmes qui refusent des carrières prometteuses, les entrepreneurs qui refusent que leur société grandisse, les sportifs qui refusent la compétition aveugle. Révolutionnaires ou révoltés ? Visionnaires ou idéalistes ? Des gens comme eux ont toujours existé. De Henry David Thoreau à Christopher McCandless décrit par Jon Krakauer dans Into the Wild, des hommes et des femmes ont dit non pour mener une autre vie. Quelque chose toutefois semble aujourd’hui différer. Ce mouvement jadis marginal devient peut-être de grande ampleur. Tous ces nonistes ne fuient pas la société. En véritables pionniers, ils la réinventent de l’intérieur.
 
-![politiculture.hautetfort.com Bayrou et Quitterie](https://tcrouzet.com/images_tc/2009/05/cover_img-45811.jpg)
+![politiculture.hautetfort.com Bayrou et Quitterie](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/05/cover_img-45811.jpg)
+
+Tags: Modem, noepub, Politique

@@ -22,17 +22,21 @@ Livre 2 : Ératosthène
 
 *Sortie 28 août 2014.*
 
-Comment en finir avec [*mon Grec*](https://tcrouzet.com/eratosthene/) sinon en le publiant une fois pour toutes ? Ce sera un roman-essai ou un essai-roman, un livre difficile, qui tombera des mains, mais j’y ai tout mis, ma vie, le Net, la transition, le bonheur, la littérature… Même le titre en sera difficile. Personne ne sait comment prononcer ce nom d’Ératosthène, mais c’est bien ainsi. Ce sera le livre impossible avec un titre impossible.
+Comment en finir avec [*mon Grec*](http://blog.tcrouzet.com/eratosthene/) sinon en le publiant une fois pour toutes ? Ce sera un roman-essai ou un essai-roman, un livre difficile, qui tombera des mains, mais j’y ai tout mis, ma vie, le Net, la transition, le bonheur, la littérature… Même le titre en sera difficile. Personne ne sait comment prononcer ce nom d’Ératosthène, mais c’est bien ainsi. Ce sera le livre impossible avec un titre impossible.
 
 Livre 3 : L’art du Zen et d’Internet
 ------------------------------------
 
 *Sortie février 2016.*
 
-Et on retrouve le Net, et l’écriture Net. Je n’ai jamais été aussi heureux que durant ma déconnexion en 2011 et pourtant j’aime le Net à la folie. Je dois résoudre ce dilemme. Arriver à être connecté sans que le Net ne m’impose son temps, un temps de machine qui m’interdit de vivre des hapax existentiels.
+Et on retrouve le Net, et l’écriture Net. Je n’ai jamais été aussi heureux que durant ma déconnexion en 2011 et pourtant j'aime le Net à la folie. Je dois résoudre ce dilemme. Arriver à être connecté sans que le Net ne m’impose son temps, un temps de machine qui m’interdit de vivre des hapax existentiels.
 
 La vie numérique est grisante, mais pas lumineuse. Je vais mener l’enquête. Voir comment se débouillent avec le Net les sages de diverses traditions. J’irai à leur rencontre. Je méditerai avec eux. Je me plongerai dans les traditions millénaires, avec le but de vivre le Satori sans pour autant renoncer à la connexion. Je raconterai ici même cette quête sur le mode Send et le livre résultat sera tout autre, une bonne occasion de comparer l’écriture dans le temps court et le temps long.
 
 Et pour tout cela, il faudra du temps… justement. Donc, pas d’urgence.
 
-![Le geste qui sauve](https://tcrouzet.com/images_tc/2014/02/cover6.jpg)
+![Le geste qui sauve](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/02/cover6.jpg)
+
+
+
+Tags: Cuisine, Pittet, une

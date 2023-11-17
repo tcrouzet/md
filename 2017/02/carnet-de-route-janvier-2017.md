@@ -4,11 +4,11 @@
 
 ### Lundi 1<sup>er</sup>, Monts sur Guesnes
 
-![](https://tcrouzet.com/images_tc/2017/02/20170101_1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170101_1.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170101_2.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170101_2.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170101_3.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170101_3.jpg)
 
 ### Lundi 2, Balaruc
 
@@ -16,17 +16,17 @@ Nous avons retrouvé le bleu, les déjeuners sur la terrasse, les lunettes de so
 
 ### Mardi 3, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/02/20170103.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170103.jpg)
 
-Quand je vois un pêcheur sur sa barque, je crois toujours que c’est mon père.
+Quand je vois un pêcheur sur sa barque, je crois toujours que c'est mon père.
 
 ### Mercredi 4, Balaruc
 
 J’attache beaucoup d’importance à dater mes notes de journal. Quand j’écris un texte long, cet ancrage dans le temps n’a aucune importance, mais dans le journal il marque l’écoulement de la pensée, il est le métronome de ma vie.
 
-![](https://tcrouzet.com/images_tc/2017/02/20170104.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170104.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170104_1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170104_1.jpg)
 
 ---
 
@@ -34,13 +34,13 @@ Je commence à réfléchir à un récit géolocalisé qui se déroulerait à Mon
 
 ### Vendredi 6, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/02/20170106.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170106.jpg)
 
 Toujours la lumière éblouissante de l’hiver.
 
 ### Samedi 7, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/02/20170107.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170107.jpg)
 
 Hier, le soleil m’incite à la sieste. Au moment de m’endormir, j’ai une intuition pour ma géolecture. Quand j’étais jeune, j’avais le fantasme de m’asseoir quelque part pour lire, puis, au bout d’un moment, de lever la tête pour découvrir une femme sublime lire le même livre que moi. J’ai toujours ce désir de rencontrer des gens qui seraient au même moment que moi au même endroit avec les mêmes idées dans la tête.
 
@@ -52,7 +52,7 @@ Pendant qu’Émile fait un stage de robotique, j’esquisse quelques lignes qui
 
 ### Dimanche 8, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/02/20170108.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170108.jpg)
 
 ### Lundi 9, Montpellier
 
@@ -94,7 +94,7 @@ Apple fête les dix ans de l’iPhone. J’ai l’impression que nous avons des 
 
 Je réécris et réécris ce qui pourrait être l’introduction de la géolecture, à la recherche du ton, de la forme, de la magie qui me permettra de dérouler la suite de ce texte. Et alors que j’évoque l’influence d’un lieu sur la lecture, je repense Cosey, qui au dos de ses BD propose une bande-son à écouter lors de la lecture.
 
-![](https://tcrouzet.com/images_tc/2017/02/20170110.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170110.jpg)
 
 ### Mercredi 11, Balaruc
 
@@ -106,11 +106,11 @@ Je ne me suis jamais essayé au théâtre, parce que souvent les pièces m’enn
 
 ### Mercredi 11, Montpellier
 
-Je suis contracté, tendu, et loin de la sérénité qui me serait nécessaire pour me projeter dans ma géolecture. La traduction de *One Minute* s’est mal passée. Ça me prenait trop de temps, le texte anglais divergeait trop du mien, le contredisait souvent, ce qui me forçait à m’expliquer sans cesse, souvent sans effet. J’ai très vite senti que je ne teindrai pas le choc tout au long de l’année. Heureusement que la traduction de *Résistants* se déroule pour le mieux, d’où l’intérêt de travailler avec des professionnels plutôt qu’avec des amis. Et c’est justement à cause de l’amitié que je ne suis pas bien, parce que je n’ai pas su gérer, pas su expliquer… mais je n’ai jamais été pédagogue, même avec mes enfants ça coince souvent. Je ne vais pas me changer, je connais mes seuils d’incompétence… et maintenant j’anticipe très tôt les catastrophes, sans réussir à les éviter tout à fait.
+Je suis contracté, tendu, et loin de la sérénité qui me serait nécessaire pour me projeter dans ma géolecture. La traduction de *One Minute* s’est mal passée. Ça me prenait trop de temps, le texte anglais divergeait trop du mien, le contredisait souvent, ce qui me forçait à m’expliquer sans cesse, souvent sans effet. J’ai très vite senti que je ne teindrai pas le choc tout au long de l’année. Heureusement que la traduction de *Résistants* se déroule pour le mieux, d’où l’intérêt de travailler avec des professionnels plutôt qu’avec des amis. Et c’est justement à cause de l’amitié que je ne suis pas bien, parce que je n’ai pas su gérer, pas su expliquer... mais je n’ai jamais été pédagogue, même avec mes enfants ça coince souvent. Je ne vais pas me changer, je connais mes seuils d’incompétence… et maintenant j’anticipe très tôt les catastrophes, sans réussir à les éviter tout à fait.
 
 ### Jeudi 12, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/02/20170112.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170112.jpg)
 
 Journée contrastée. Énervement au départ des enfants à l’école, puis ça piétine sur la géolecture, et puis une idée d’Isa me débloque et le projet prend forme, et je me sens soudain léger. Mais je passe le début d’après-midi sur le site UPS à tenter d’envoyer un canapé IKEA à un cousin, un cadeau acheté une semaine plus tôt, avant de voir que ça me coûte plus cher que le contenu lui-même et plus cher que de le faire directement envoyer par IKEA (ce qui est hors de prix et qui explique pourquoi je voulais passer par UPS).
 
@@ -118,17 +118,17 @@ Je suis dans un état lamentable, je n’ai même pas attaqué les bricolages qu
 
 Il y a des jours où c’est compliqué, des jours de fatigue. Je m’en vais rejoindre des amis au resto. Quand je dévale dans le parking souterrain, j’oublie que je suis avec la Kangou, la galerie fait valdinguer le panneau hauteur limitée, mais trop tard, je m’engage dans le tunnel. L’antenne racle contre le plafond et bing, bing, elle cogne contre chacun des néons. Je vais jusqu’au bout du parking, pas de place, et je reviens vers l’entrée, et bing, bing, à la sortie, la machine me dit que je dois payer, ça m’énerve, et ma CB est refusée en prime, faut cinq bonnes minutes pour que quelqu’un réponde à l’interphone et me libère.
 
-![](https://tcrouzet.com/images_tc/2017/02/20170112_2.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170112_2.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170112_3.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170112_3.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170112_4.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170112_4.jpg)
 
 ### Vendredi 13, Balaruc
 
 Je suis béat devant mes photos de coucher de soleil prises hier. Un souvenir remonte peu à peu. Quand j’étais ado, je dormais face à un trompe-l’œil montrant des palmiers au coucher de soleil, avec des noirs profonds, un embrassement orange. J’ai été en quelque sorte programmé pour aimer ce moment de la journée.
 
-![](https://tcrouzet.com/images_tc/2017/02/20170113.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170113.jpg)
 
 ---
 
@@ -152,11 +152,11 @@ Je me disperse, j’écris des billets politiques sur le blog, parce que j’ai 
 
 ---
 
-Line Fromental m’apprend la mort soudaine de mon ami Jacques Bruyère, ancien journaliste du *Midi Libre*, avec lequel je mangeais jeudi soir. Il était assis en face de moi. Il avait commandé un pot au feu. Je le revois, avec ses doigts rassemblés bout à bout, mimer « Miam miam » et dire en même temps « C’est excellent » de sa voix chantante et bougonne. Nous avons parlé de Montpellier, il m’a conseillé des lieux pour ma géolecture. Quelle absurdité ! Parfois je me demande pourquoi nous acceptons de jouer ? Peut-être parce que nous ne sommes pas seuls, nous le faisons pour les autres, pour leur donner du courage et de la joie. Pour nous-mêmes, vraiment, ça ne compte pas. Avec Jacques s’en va un peu d’amour, je sais qu’il m’aimait beaucoup, surtout pour mon habitude de donner des coups de pied dans la fourmilière, avec lui un peu d’énergie qui nous connecte s’est effacée. Ce n’est pas simple cette affaire. Après cette nouvelle, je n’ai rien trouvé de mieux à faire qu’à jardiner. Isa m’a signalé qu’on avait un problème d’égout. Nous avons dû les déboucher au Kärcher. Vraiment, c’est absurde.
+Line Fromental m’apprend la mort soudaine de mon ami Jacques Bruyère, ancien journaliste du *Midi Libre*, avec lequel je mangeais jeudi soir. Il était assis en face de moi. Il avait commandé un pot au feu. Je le revois, avec ses doigts rassemblés bout à bout, mimer « Miam miam » et dire en même temps « C’est excellent » de sa voix chantante et bougonne. Nous avons parlé de Montpellier, il m’a conseillé des lieux pour ma géolecture. Quelle absurdité ! Parfois je me demande pourquoi nous acceptons de jouer ? Peut-être parce que nous ne sommes pas seuls, nous le faisons pour les autres, pour leur donner du courage et de la joie. Pour nous-mêmes, vraiment, ça ne compte pas. Avec Jacques s’en va un peu d’amour, je sais qu’il m'aimait beaucoup, surtout pour mon habitude de donner des coups de pied dans la fourmilière, avec lui un peu d’énergie qui nous connecte s’est effacée. Ce n’est pas simple cette affaire. Après cette nouvelle, je n’ai rien trouvé de mieux à faire qu’à jardiner. Isa m’a signalé qu’on avait un problème d’égout. Nous avons dû les déboucher au Kärcher. Vraiment, c’est absurde.
 
 ### Lundi 16, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/02/20170116.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170116.jpg)
 
 ### Lundi 16, Montpellier
 
@@ -170,19 +170,19 @@ Je me suis assis à même le béton, le dos sur le plan incliné froid, le solei
 
 Un black dévale le plan incliné, il me regarde surpris, continue son chemin au-dessus du barrage et rejoint l’autre rive où, de temps à autre, passe un jogger ou un cycliste. Plus loin, tout droit, c’est la mer, alors envie de pousser jusque là-bas, pourquoi ne pas y envoyer le lecteur, jusqu’à la plage, jusqu’à l’horizon ?
 
-![](https://tcrouzet.com/images_tc/2017/02/20170116_1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170116_1.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170116_2.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170116_2.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170116_3.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170116_3.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170116_4.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170116_4.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170116_5.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170116_5.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170116_6.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170116_6.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170116_8.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170116_8.jpg)
 
 ### Mardi 17, Balaruc
 
@@ -190,9 +190,9 @@ Nous avons reçu hier un courrier administratif… écrit sans le moindre respec
 
 ### Mercredi 18, Balaruc
 
-Ce n’était pas prévu, j’enchaîne les billets sur [la liberté et le libre](https://tcrouzet.com/tag/liberte/). Ils touchent à des points noirs que je n’avais jamais perçus, et des gens me tombent dessus, non pour s’attaquer au cœur de mon propos, mais pour corriger la périphérie nécessairement imprécise d’une pensée qui se donne en même temps qu’elle se fait. Sur le fond, rien, comme si je jetais des pierres dans un lieu de silence.
+Ce n’était pas prévu, j’enchaîne les billets sur [la liberté et le libre](http://tcrouzet.com/tag/liberte/). Ils touchent à des points noirs que je n’avais jamais perçus, et des gens me tombent dessus, non pour s’attaquer au cœur de mon propos, mais pour corriger la périphérie nécessairement imprécise d’une pensée qui se donne en même temps qu’elle se fait. Sur le fond, rien, comme si je jetais des pierres dans un lieu de silence.
 
-![](https://tcrouzet.com/images_tc/2017/02/20170118.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170118.jpg)
 
 ### Jeudi 19, Balaruc
 
@@ -206,9 +206,9 @@ Coup dur. Martin Blaser refuse d’être dans *Résistants*, sans bonne raison, 
 
 Après mes douze bornes sur la plage, je me remets à l’organisation du voyage en Islande pour cet été. Tous les hôtels sont pris !
 
-![](https://tcrouzet.com/images_tc/2017/02/20170121.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170121.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170121_1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170121_1.jpg)
 
 ### Dimanche 22, Balaruc
 
@@ -224,7 +224,7 @@ Un peu écœuré par l’organisation du voyage en Islande, impression d’être
 
 ### Mardi 24, Balaruc
 
-![](https://tcrouzet.com/images_tc/2017/02/20170124.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170124.jpg)
 
 ### Jeudi 26, Balaruc
 
@@ -238,9 +238,9 @@ Hier soir, François Bon publie [un beau billet sur l’exploration du monde à 
 
 La VF de *Résistants* envoyée en corrections finales. Je ne suis pas encore tout à fait débarrassé de ce roman. Je me demande quand je serai capable de passer à autre chose. Quel sens de travailler autant pour en toute probabilité ne pas avoir de lecteurs ?
 
-![](https://tcrouzet.com/images_tc/2017/02/20170129.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170129.jpg)
 
-![](https://tcrouzet.com/images_tc/2017/02/20170129_1.jpg)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/02/20170129_1.jpg)
 
 ### Lundi 30, Balaruc
 
@@ -250,14 +250,16 @@ Je ne devrais écrire que ce qui m’arrive. L’imagination nous trahit plus qu
 
 Je repense aux balades photographiques sur Google Earth évoquées par François. J’avais promis à une revue de refaire sur Google Street View le célèbre dépliant *Every building on the Sunset Strip* d’Edward Ruscha, et je ne l’ai pas fait.
 
-Une autre idée surgit : faire une balade sur Google puis aller sur les lieux pour refaire la balade, et montrer ce que l’écran m’avait caché… dans le but peut-être illusoire de prouver que le réel est supérieur au virtuel.
+Une autre idée surgit : faire une balade sur Google puis aller sur les lieux pour refaire la balade, et montrer ce que l'écran m'avait caché… dans le but peut-être illusoire de prouver que le réel est supérieur au virtuel.
 
 Je sais au moins une chose : je suis plus heureux quand je ma balade sur mes jambes que quand je reste devant mon ordi.
 
 ---
 
-Après la note précédente, je fais des [recherches sur Ruscha et Street View](https://tcrouzet.com/2017/01/30/street-view-art/), et j’essaie même de monter la première page de son dépliant. Quelle aliénation de passer des heures à capturer des images. [Hans Gremmen](http://www.hansgremmen.nl/themotherroad.php) aurait mieux fait de fixer une GoPro sur sa voiture plutôt que de copier-coller durant deux ans les paysages du trajet Chicago-LA. Un développeur aurait même pu faire ça automatiquement. C’est risible, et déprimant.
+Après la note précédente, je fais des [recherches sur Ruscha et Street View](http://tcrouzet.com/2017/01/30/street-view-art/), et j’essaie même de monter la première page de son dépliant. Quelle aliénation de passer des heures à capturer des images. [Hans Gremmen](http://www.hansgremmen.nl/themotherroad.php) aurait mieux fait de fixer une GoPro sur sa voiture plutôt que de copier-coller durant deux ans les paysages du trajet Chicago-LA. Un développeur aurait même pu faire ça automatiquement. C'est risible, et déprimant.
 
 ### Mardi 31, Balaruc
 
 Comme j’ai mal aux genoux, pas de footing. Je vais faire du vélo et j’en reviens avec encore plus mal aux genoux. Vieillir, tout simplement.
+
+Tags: Carnets, une

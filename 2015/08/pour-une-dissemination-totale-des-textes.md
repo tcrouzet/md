@@ -14,11 +14,11 @@ Nous sommes attachés à l’hébergement parce que métaphoriquement on sous-en
 
 Je ne vois aucune bonne raison de faire ainsi, sinon à vouloir contrôler mon audience, la mesurer, l’enfermer exactement comme toutes les plateformes sous copyright. Je tente donc de façon très maladroite et artisanale de multiplier les projections, tout en sachant qu’il est possible d’aller bien plus loin.
 
-Exemple avec [*1 minute*](http://www.wattpad.com/story/29694130-1-minute). Je propulse initialement sur le blog, qui reste ma fusée de lancement, mais immédiatement sur Wattpad, puis [en différé par mail et en ebook](https://tcrouzet.com/une-minute/). Bien sûr ça pose des problèmes techniques. La moindre correction doit être reportée en plusieurs endroits. Mais rêvons un peu. Demain nous réussirons à synchroniser les instances d’une projection, de sorte que d’un point d’édition les modifications se propagent.
+Exemple avec [*1 minute*](http://www.wattpad.com/story/29694130-1-minute). Je propulse initialement sur le blog, qui reste ma fusée de lancement, mais immédiatement sur Wattpad, puis [en différé par mail et en ebook](http://blog.tcrouzet.com/une-minute/). Bien sûr ça pose des problèmes techniques. La moindre correction doit être reportée en plusieurs endroits. Mais rêvons un peu. Demain nous réussirons à synchroniser les instances d’une projection, de sorte que d’un point d’édition les modifications se propagent.
 
 Si j’étais moins fainéant, je publierais mes minutes comme mes billets sur tous les supports possibles, sur toutes les plateformes de lecture. Je voudrais tendre vers cette dissémination, primo parce que mes lecteurs ne m’appartiennent pas, deuxio parce que je n’ai pas à leur imposer de venir en mes murs.
 
-François a raison de critiquer les plateformes. Depuis des années, j’alerte contre [les dangers de plateformisation du Web](https://tcrouzet.com/2014/09/16/la-fin-de-lartisanat-numerique/), mais je ne veux pas, à mon échelle, imiter leur stratégie, faire de mon blog une nouvelle plateforme centralisée.
+François a raison de critiquer les plateformes. Depuis des années, j’alerte contre [les dangers de plateformisation du Web](http://blog.tcrouzet.com/2014/09/16/la-fin-de-lartisanat-numerique/), mais je ne veux pas, à mon échelle, imiter leur stratégie, faire de mon blog une nouvelle plateforme centralisée.
 
 Les livres ont cela de génial qu’on peut les lire partout, que souvent un même texte existe en différents formats, et cette diversité ne cesse de se démultiplier avec le numérique. Je veux offrir à tous mes textes la même fluidité, et même l’accroître. Et c’est parce que la source Web de la création est fondamentale que justement nous ne devons pas l’enfermer chez nous. Nous devons libérer nos créations sous toutes les projections envisageables en fonction des possibilités techniques.
 
@@ -26,7 +26,7 @@ Je n’aime pas les plateformes ni politiquement ni philosophiquement, mais je n
 
 J’ai trouvé de vrais lecteurs sur Wattpad. Je suis sûr qu’ils peuvent entendre la critique des plateformes… si je n’avais pas fait un pas vers eux, ils n’auraient pas pu en faire un vers moi.
 
-Attention, il serait dangereux de s’enfermer sur Wattpad, comme il est selon moi dangereux de s’enfermer sur son blog (tentant d’en faire sa vitrine exclusive, incontournable, à la façon des plateformes). La solution est le nomadisme, la propulsion de fusées en grand nombre, à partir de cette œuvre qu’est la base de données. C’est elle notre bébé, pas l’une quelconque de ses projections.
+Attention, il serait dangereux de s’enfermer sur Wattpad, comme il est selon moi dangereux de s’enfermer sur son blog (tentant d'en faire sa vitrine exclusive, incontournable, à la façon des plateformes). La solution est le nomadisme, la propulsion de fusées en grand nombre, à partir de cette œuvre qu’est la base de données. C’est elle notre bébé, pas l’une quelconque de ses projections.
 
 J’entends bien le désir de lenteur de François. Il m’est cher, avec cette possibilité de sans cesse revenir sur le métier, de recomposer, de réordonner… Je ne me l’interdis pas, bien au contraire, cela se joue au cœur de la base de données que je restructure sans cesse tout en reprenant des textes déjà propulsés, pourquoi pas pour les repropulser à nouveau sous d’autres formes, en ebooks notamment.
 
@@ -40,10 +40,14 @@ Le Net devient de plus en plus technique. Même en sachant coder, je ne peux off
 
 Au passage, je renonce à une partie de mes droits, je suis obligé d’adopter des licences libres, d’autoriser implicitement les copies… Le nomadisme est peut-être la meilleure façon de lutter contre l’impérialisme des plateformes et contre le capitalisme (premier défenseur du copyright). Exploiter l’espace créatif ouvert par le numérique implique d’imaginer en même temps de nouveaux modes de rémunération pour les créateurs. Rester chez soi, même sur le Web, est paradoxalement une approche bien plus conservatrice.
 
-J’aime la formule partagée par Bouvier et Chatwin. Ils avaient besoin d’un chez eux pour mieux voyager. Avoir une maison pour l’un, un appartement pour l’autre, leur donnait une grande liberté de mouvement. Voilà comment je conçois le blog, comme cette base à partir de laquelle explorer le monde, base indispensable certes, mais à laquelle l’espace ne peut être réduit (pas plus qu’il ne peut l’être au livre).
+J’aime la formule partagée par Bouvier et Chatwin. Ils avaient besoin d’un chez eux pour mieux voyager. Avoir une maison pour l’un, un appartement pour l’autre, leur donnait une grande liberté de mouvement. Voilà comment je conçois le blog, comme cette base à partir de laquelle explorer le monde, base indispensable certes, mais à laquelle l'espace ne peut être réduit (pas plus qu'il ne peut l'être au livre).
 
 *PS1 : Nous ne faisons que débuter cette discussion. C’est parce que je suis presque d’accord sur tout avec François qu’il me semble important de discuter des nuances.*
 
 *PS2 : Je propulse automatiquement ce billet sur Facebook, Google+, Linkedin, Tumblr… grâce à IFTTT. Vous le lirez où et quand vous le voudrez.*
 
-![Ma base de lancement…](https://tcrouzet.com/images_tc/2015/08/ifttt.png)
+![Ma base de lancement…](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/08/ifttt.png)
+
+
+
+Tags: NetLittérature, une

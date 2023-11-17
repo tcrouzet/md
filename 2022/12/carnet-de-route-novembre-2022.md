@@ -4,7 +4,7 @@
 
 ### Mardi 1<sup>er</sup>, Nantes
 
-Tenir un journal serait si bénéfique pour la santé mentale qu’il faudrait se forcer. Titre d’un article éloquent : [yoga journal](https://www.yogajournal.com/lifestyle/audio-journaling/). J’adore ce penchant anglo-saxon pour les méthodes qui rendraient la vie meilleure. Mais ma pratique du journal n’entre pas dans la bonne catégorie, puisque, le plus souvent, je ne l’écris pas le soir pour y raconter les malheurs de ma journée, mais plutôt le matin quand je m’éveille et que des idées me traversent.<span id="more-64531"></span>
+Tenir un journal serait si bénéfique pour la santé mentale qu'il faudrait se forcer. Titre d’un article éloquent : [yoga journal](https://www.yogajournal.com/lifestyle/audio-journaling/). J’adore ce penchant anglo-saxon pour les méthodes qui rendraient la vie meilleure. Mais ma pratique du journal n’entre pas dans la bonne catégorie, puisque, le plus souvent, je ne l’écris pas le soir pour y raconter les malheurs de ma journée, mais plutôt le matin quand je m’éveille et que des idées me traversent.<span id="more-64531"></span>
 
 ---
 
@@ -22,11 +22,11 @@ Brise rafraîchissante. Air atlantique, une texture atmosphérique sans rapport 
 
 Les centres-ville ont quelque chose de trop propre désormais, une attention hygiéniste, pour se donner bonne conscience. Rien de travers, pas le moindre laisser-aller, une exemplarité maladive, surtout quand les chiens chient dans l’herbe et que les propriétaires ramassent leurs merdes. Mais que tout cela manque de terre, de verdure, de débauche végétale et d’un peu de hasard.
 
-![Nantes](https://tcrouzet.com/images_tc/2022/12/IMG_9744.jpeg)
+![Nantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9744-1024x768.jpeg)
 
-![Nantes](https://tcrouzet.com/images_tc/2022/12/IMG_9754-1.jpeg)
+![Nantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9754-1-1024x768.jpeg)
 
-![Nantes](https://tcrouzet.com/images_tc/2022/12/IMG_9769.jpeg)
+![Nantes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9769-1024x768.jpeg)
 
 ### Mercredi 2, Balaruc
 
@@ -42,17 +42,17 @@ J’ai été confronté à de grands écrans, à une scène où trois ou quatre 
 
 ### Samedi 5, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2022/12/IMG_9797.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9797-1024x768.jpeg)
 
 ### Dimanche 6, Balaruc
 
-![Bellevue](https://tcrouzet.com/images_tc/2022/12/IMG_9801-2.jpeg)
+![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9801-2-1024x768.jpeg)
 
-![Bellevue](https://tcrouzet.com/images_tc/2022/12/IMG_9805.jpeg)
+![Bellevue](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9805-1024x768.jpeg)
 
-![L'étang](https://tcrouzet.com/images_tc/2022/12/IMG_9807.jpeg)
+![L'étang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9807-1024x768.jpeg)
 
-![Le port](https://tcrouzet.com/images_tc/2022/12/IMG_9812.jpeg)
+![Le port](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9812-1024x768.jpeg)
 
 ### Lundi 7, Paris
 
@@ -80,11 +80,11 @@ Déjeuner avec des copains, puis marche le long de la Seine et arrêt devant cet
 
 Vers la gare de Lyon, les nuages courent au-dessus du pont d’Austerlitz pour se compresser en une masse noire au-dessus de bastille, et le soleil, toujours présent sur la rive opposée, s’y glisse par un interstice invisible. Il pourrait pleuvoir d’un instant à l’autre et alors des arcs-en-ciel couronneraient Paris.
 
-![Paris](https://tcrouzet.com/images_tc/2022/12/IMG_9841.jpeg)
+![Paris](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9841-1024x768.jpeg)
 
-![Paris](https://tcrouzet.com/images_tc/2022/12/IMG_9846.jpeg)
+![Paris](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9846-1024x768.jpeg)
 
-![Paris](https://tcrouzet.com/images_tc/2022/12/IMG_9858.jpeg)
+![Paris](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9858-1024x768.jpeg)
 
 ### Mercredi 9, Paris
 
@@ -126,7 +126,7 @@ Parfois, j’aimerais décrire l’extérieur, mais je n’ai pas le temps de vo
 
 La SNCF a l’indécence de nous demander le certificat de décès de mon beau-père pour justifier ma contestation pour la verbalisation d’Émile. La SNCF oublie que ma réclamation n’est pas tant financière que morale, et que nous attendons des excuses pour l’agression dont a été victime Émile.
 
-![Sète](https://tcrouzet.com/images_tc/2022/12/IMG_9881-2.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9881-2-1024x768.jpeg)
 
 ### Vendredi 11, Balaruc
 
@@ -162,11 +162,11 @@ J’ai presque toujours tenu un carnet dans l’idée d’une publication. Cette
 
 Blanchot : « la littérature va vers elle-même, vers son essence qui est la disparition. » Voilà pourquoi j’ai du mal avec lui : il est essentialiste alors que je suis matérialiste. La littérature n’a pas plus d’essence qu’autre chose, elle est tout au contraire la diversité, elle va dans des directions contradictoires, on ne sait même pas si elle existe. La littérature ne peut avoir une essence que si elle est une construction humaine, un truc sans réalité propre. Et puis dire qu’elle va vers sa disparition, c’est d’une platitude consternante dans un univers où rien ne subsiste inchangé, sans doute pas même les lois qui régissent le changement.
 
-![Soir](https://tcrouzet.com/images_tc/2022/12/IMG_9905.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9905-1024x768.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2022/12/IMG_9911.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9911-1024x768.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2022/12/IMG_9914.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9914-1024x768.jpeg)
 
 ### Lundi 14, Balaruc
 
@@ -188,7 +188,7 @@ L’Histoire me paraît indécente quand elle met en avant des noms et en oublie
 
 9h30. Je m’assois à mon bureau et le bleu jaillit. Il emporte le ciel et l’étang et s’intensifie. Les Pyrénées gris bleu sous un panache de nuages, au-devant le volcan d’Agde, allongé, sombre, et le bleu onctueux, encore voilé vers Sète, l’eau parcourue d’ondulations chatoyantes. Une pureté de premier jour. Un réveil après la pluie d’hier et d’avant-hier. Maintenant, les façades du village s’illuminent, presque aveuglantes. Pas la moindre brise. Les nébulosités striées dévorées par la chaleur. Elles fondent, se dissolvent et le spectacle commence.
 
-![Calme](https://tcrouzet.com/images_tc/2022/12/IMG_9937.jpeg)
+![Calme](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9937-1024x768.jpeg)
 
 ### Jeudi 17, Balaruc
 
@@ -196,23 +196,23 @@ Blanchot : « Seule importe l’œuvre, mais finalement l’œuvre n’est là
 
 L’œuvre comme échafaudage à l’œuvre suivante, l’œuvre qui n’est toujours que le barreau d’une échelle qui s’enroule sur elle-même. L’artiste est un hamster dans sa roue. Il cherche quelque chose qui lui échappe toujours et abandonne des détritus derrière lui. L’œuvre ne compte que dans l’énergie qu’elle a libérée et la jouissance qu’elle a provoquée à ce moment. L’œuvre témoigne d’un phénomène, d’un happening. Avec son urinoir, Duchant n’a fait que mettre en évidence cette vérité.
 
-![Capestang](https://tcrouzet.com/images_tc/2022/12/IMG_9944.jpeg)
+![Capestang](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9944-1024x768.jpeg)
 
-![Bize](https://tcrouzet.com/images_tc/2022/12/IMG_9948.jpeg)
+![Bize](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9948-1024x768.jpeg)
 
-![Olonzac](https://tcrouzet.com/images_tc/2022/12/IMG_9971.jpeg)
+![Olonzac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9971-1024x768.jpeg)
 
 ### Vendredi 18, Balaruc
 
 Il y a les écrivains réductionnistes qui se rangent dans le roman, la poésie, l’essai, le théâtre… et ceux qui refusent les rayonnages et écrivent, point. Difficile de se maintenir dans cette famille floue. Elle échappe aux bornes qui délimitent les autres et aux prestiges qui les accompagnent. Même les lecteurs ne savent comment s’y prendre.
 
-![Soir](https://tcrouzet.com/images_tc/2022/12/IMG_9997.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_9997-1024x768.jpeg)
 
 ### Dimanche 20, Balaruc
 
 Le relativisme est une maladie dangereuse et contagieuse. J’en vois les stigmates partout. Dans le vélo, beaucoup de gens qui se croient respectueux des autres lancent « À chacun sa pratique. » ou « Je n’ai pas à me mêler de la vie des autres. » Des politiciens défendent la même position, allant jusqu’à prôner le chacun chez soi. Le problème avec cette attitude c’est qu’il existe de moins en moins une réalité sur laquelle s’accorder, discuter, faire société, agir collectivement. C’est le libéralisme poussé à l’extrême quand on arrive au bout de l’individualisme. Une fausse bien-pensance nous ravage.
 
-![La Gardiole](https://tcrouzet.com/images_tc/2022/12/IMG_0008.jpeg)
+![La Gardiole](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0008-1024x768.jpeg)
 
 ### Lundi 21, Balaruc
 
@@ -224,15 +224,15 @@ Trois jours à écrire des articles où j’utilise le microcosme du vélo d’a
 
 ### Jeudi 24, Balaruc
 
-![Monts-d'Orb](https://tcrouzet.com/images_tc/2022/12/IMG_0105.jpeg)
+![Monts-d'Orb](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0105-1024x768.jpeg)
 
-![Monts-d'Orb](https://tcrouzet.com/images_tc/2022/12/IMG_0109.jpeg)
+![Monts-d'Orb](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0109-1024x768.jpeg)
 
-![Monts-d'Orb](https://tcrouzet.com/images_tc/2022/12/IMG_0117.jpeg)
+![Monts-d'Orb](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0117-1024x768.jpeg)
 
-![Lodévois](https://tcrouzet.com/images_tc/2022/12/IMG_0139.jpeg)
+![Lodévois](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0139-1024x768.jpeg)
 
-![Fôret d'Estandorgues](https://tcrouzet.com/images_tc/2022/12/IMG_0154.jpeg)
+![Fôret d'Estandorgues](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0154-1024x768.jpeg)
 
 ### Vendredi 25, Balaruc
 
@@ -240,19 +240,19 @@ Je relis le roman initiatique écrit l’automne dernier et m’apprête à l’
 
 ### Samedi 26, Balaruc
 
-![Soir](https://tcrouzet.com/images_tc/2022/12/IMG_0177.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0177-1024x768.jpeg)
 
-![Lune](https://tcrouzet.com/images_tc/2022/12/IMG_0192.jpeg)
+![Lune](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0192-1024x768.jpeg)
 
 ### Lundi 28, Balaruc
 
 Un professeur de philosophie n’est pas nécessairement philosophe puisque, d’après Deleuze et Guattari, le philosophe est d’abord créateur de concepts. Un professeur qui n’aurait pas créé de concepts enseignerait une matière qu’il ne ferait que contempler de loin sans entrer dans sa matière. Voilà qui rendrait l’enseignement de cette discipline plus que difficile et expliquerait les déboires de la plupart des élèves, et de moi en particulier quand j’étais lycéen. Mais cette définition m’apparaît à son tour comme un concept fautif, comme d’ailleurs toutes définitions.
 
-![Sète](https://tcrouzet.com/images_tc/2022/12/IMG_0211.jpeg)
+![Sète](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0211-1024x768.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2022/12/IMG_0206.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0206-1024x768.jpeg)
 
-![Soir](https://tcrouzet.com/images_tc/2022/12/IMG_0217.jpeg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0217-1024x768.jpeg)
 
 ### Mardi 29, Balaruc
 
@@ -262,14 +262,18 @@ Anna Lowenhaupt Tsing, *Le champignon de la fin du monde* : « Que faire quand
 
 Lowenhaupt Tsing parle de la crise systémique et milite pour la coopération à toutes les échelles, comme je l’ai fait dans *Le Peuple des connecteurs* et je n’apprends rien dans son bouquin, et je bondis quand elle raconte avoir parcouru le monde pour en récolter la matière. Un livre sur l’écologie issue de pratiques non écologiques. J’adore.
 
-![Ganges](https://tcrouzet.com/images_tc/2022/12/IMG_0252.jpeg)
+![Ganges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0252-1024x768.jpeg)
 
-![Ganges](https://tcrouzet.com/images_tc/2022/12/IMG_0258.jpeg)
+![Ganges](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0258-1024x768.jpeg)
 
-![Brissac](https://tcrouzet.com/images_tc/2022/12/IMG_0325.jpeg)
+![Brissac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0325-1024x768.jpeg)
 
-![Brissac](https://tcrouzet.com/images_tc/2022/12/IMG_0340.jpeg)
+![Brissac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0340-1024x768.jpeg)
 
-![Brissac](https://tcrouzet.com/images_tc/2022/12/IMG_0342.jpeg)
+![Brissac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0342-1024x768.jpeg)
 
-![Brissac](https://tcrouzet.com/images_tc/2022/12/IMG_0356.jpeg)
+![Brissac](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2022/12/IMG_0356-1024x768.jpeg)
+
+
+
+Tags: Carnets, une

@@ -20,6 +20,10 @@ Je suis plus triste qu’énervé, peut-être parce que durant 15 ans nous avons
 
 Si j’étais sain d’esprit, je me tiendrais désormais à distance du Net. C’est sans doute le geste le plus hautement politique désormais à ma portée. Dans [*1 Minute*](http://www.wattpad.com/story/29694130-1-minute), j’imagine le mouvement Hypo qui rassemble des geeks sous connectés. Je suis désormais quasi sûr que cette évolution est inévitable… et peut-être que la révolution viendra de ses frontières obscures au-delà desquelles vivent les barbares (et les vieux révolutionnaires désillusionnés).
 
-*PS : J’évoque le petit repaire de [Framasphere](https://framasphere.org/) avant que quelqu’un ne l’évoque dans un commentaire… J’avais l’illusion qu’on pourrait être tous ensemble sans se réfugier dans des territoires isolés.*
+*PS : J'évoque le petit repaire de [Framasphere](https://framasphere.org/) avant que quelqu'un ne l'évoque dans un commentaire... J'avais l'illusion qu'on pourrait être tous ensemble sans se réfugier dans des territoires isolés.*
 
-![Le vieux révolutionnaire préfère regarder les canards au bord du lac que les cancans sur le Net.](https://tcrouzet.com/images_tc/2015/06/duck.jpg)
+![Le vieux révolutionnaire préfère regarder les canards au bord du lac que les cancans sur le Net.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/duck.jpg)
+
+
+
+Tags: NetCulture, une

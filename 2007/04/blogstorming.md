@@ -1,14 +1,14 @@
 # Blogstorming
 
-Ce billet arrive après un [commentaire de Paul de Montréal](https://tcrouzet.com/2007/04/09/l%e2%80%99art-de-ne-pas-decider/#comment-17904).
+Ce billet arrive après un [commentaire de Paul de Montréal](http://blog.tcrouzet.com/2007/04/09/l%e2%80%99art-de-ne-pas-decider/#comment-17904).
 
-Avant d’ouvrir mon blog, j’ai écrit pendant 20 ans dans des carnets des réflexions qui partaient dans tous les sens et qui couvraient notamment le champ artistique. Un de ces jours cette matière aussi se retrouvera dans ce blog, ou la forme qu’il prendra demain et que je ne connais pas encore.
+Avant d'ouvrir mon blog, j'ai écrit pendant 20 ans dans des carnets des réflexions qui partaient dans tous les sens et qui couvraient notamment le champ artistique. Un de ces jours cette matière aussi se retrouvera dans ce blog, ou la forme qu'il prendra demain et que je ne connais pas encore.
 
 1. Le carnet
 
 2. Le Blog
 
-3. …
+3. ...
 
 Parfois, je me dis que je vais adopter la même forme qu’[Embruns](http://embruns.net/) : publier un double fil. L’un comprendrait les billets actuels, l’autre des billets antidatés et extraits de mes carnets.
 

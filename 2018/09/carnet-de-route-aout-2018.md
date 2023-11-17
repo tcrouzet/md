@@ -4,7 +4,7 @@
 
 ### Mercredi 1<sup>er</sup>, Balaruc
 
-Vendredi soir, alors que nous mangions chez [Michel Torres](https://www.publie.net/etiquette-produit/michel-torres/), la bille rouge martienne pointait au-dessus de l’horizon. J’ai remarqué qu’elle n’avait pas été aussi lumineuse depuis 2003, pour une autre canicule ([mars n’avait alors jamais été aussi proche depuis 60 000 ans](https://amp.space.com/41329-mars-closest-to-earth-2018.html)). Demain, mars sera au plus proche de nous pour les 279 ans qui viennent. Quel pourrait être le lien entre canicule et proximité de Mars ?<span id="more-49748"></span>
+Vendredi soir, alors que nous mangions chez [Michel Torres](https://www.publie.net/etiquette-produit/michel-torres/), la bille rouge martienne pointait au-dessus de l’horizon. J’ai remarqué qu'elle n'avait pas été aussi lumineuse depuis 2003, pour une autre canicule ([mars n’avait alors jamais été aussi proche depuis 60 000 ans](https://amp.space.com/41329-mars-closest-to-earth-2018.html)). Demain, mars sera au plus proche de nous pour les 279 ans qui viennent. Quel pourrait être le lien entre canicule et proximité de Mars ?<span id="more-49748"></span>
 
 ---
 
@@ -18,7 +18,7 @@ Pour Thaulk, ma micro SARL, je passe à N26, une banque en ligne où tout est su
 
 Les enfants se baignent une dernière fois dans l’étang pour cette année (je les rejoins sans encore savoir que je ne rebaignerai pas à cause de la [malaïgue](https://france3-regions.francetvinfo.fr/occitanie/herault/etang-thau-100-moules-tuees-malaigue-tiers-huitres-1533026.html), pourrissement de la flore marine par manque d’oxygène, un phénomène qui survient lors des canicules, après, durant quelques années, l’eau est particulièrement limpide jusqu’à ce que trop de clarté implique trop de verdure et prépare une nouvelle malaïgue). L’eau est onctueuse, presque épaisse tant elle est chaude. Un nuage rectangulaire masque le soleil couchant, dessinant un portail magique par la serrure duquel jaillit la lumière.
 
-![Soir](https://tcrouzet.com/images_tc/2018/09/IMG_0823.jpg)
+![Soir](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_0823.jpg)
 
 ### Jeudi 2, Balaruc
 
@@ -40,7 +40,7 @@ Ce soir, je dors chez ma mère, dans ma chambre d’adolescent. J’y ai aménag
 
 Après les cinq semaines de bricolage, réparation, entretien, ce MA MAISON est d’autant plus fort, comme quand je dis MON TEXTE ou MES FILS, et bien plus que de mes fils, car ils m’appartiennent de moins en moins, si jamais un jour ils m’ont appartenu. Alors MES TEXTES ont des lecteurs comme MA MAISON a des habitants. Ils pourront dire s’ils aiment ou pas, mais je me moque de leur avis bien plus que de celui de mes lecteurs. Moi, MA MAISON, je l’aime. Et, pour cette raison, il est important que je m’en éloigne, pour mieux mesurer ce qu’elle représente pour moi, et la vie qu’elle entraîne.
 
-![Maison au loin](https://tcrouzet.com/images_tc/2018/09/IMG_0855.jpg)
+![Maison au loin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_0855.jpg)
 
 ### Mercredi 8, Balaruc
 
@@ -56,15 +56,15 @@ Souvent, j’écris ici plutôt que de réagir sur les réseaux sociaux. Parfois
 
 De fait, puisque tout le monde se veut magicien, ça ne sert plus à rien de publier souvent, de s’exprimer souvent, parce que peu de gens recherchent l’interaction, la confrontation, la dispute… Chacun s’enferme dans son idiosyncrasie. Alors, autant garder presque au secret mes pensées, les reclure dans ce carnet ou en faire des livres à l’ancienne, parce si la modernité se limite à dresser une statue de soi, ça ne m’excite pas beaucoup.
 
-![Maison illuminée](https://tcrouzet.com/images_tc/2018/09/IMG_0861.jpg)
+![Maison illuminée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_0861.jpg)
 
 ### Dimanche 12, Balaruc
 
-![Les joutes, maison en arrière-plan](https://tcrouzet.com/images_tc/2018/09/P1060178.jpg)
+![Les joutes, maison en arrière-plan](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060178.jpg)
 
-![Les joutes](https://tcrouzet.com/images_tc/2018/09/P1060188.jpg)
+![Les joutes](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060188.jpg)
 
-![La lumière surtout](https://tcrouzet.com/images_tc/2018/09/P1060206.jpg)
+![La lumière surtout](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060206.jpg)
 
 ### Lundi 13, Balaruc
 
@@ -76,7 +76,7 @@ Dormir dans ma chambre d’ado me fait sentit avec excès le poids du temps (et 
 
 ---
 
-[Mini interview dans Libé](http://www.liberation.fr/france/2018/08/13/thierry-crouzet-auteur-on-commence-a-se-mefier-d-internet_1672524) que je me garde de twitter, facebooker. « J’ai arrêté (Le Net) six mois. C’était en 2011. Quand je regarde cette période, c’est un souvenir heureux, comme si j’étais parti en vacances, loin, très loin. Le fait de déconnecter m’a montré que je n’avais aucune addiction, je n’ai pas ressenti de manque en me coupant d’Internet, j’ai juste beaucoup dormi pendant une semaine et, après, j’étais en pleine forme. On prend un peu les gens pour des couillons en leur parlant de digital detox, d’hôtels sans wifi ni réseau et d’applications pour maîtriser sa consommation numérique. Si problème il y a eu pour moi, c’est que j’attendais trop d’Internet. Je croyais à l’époque que les réseaux allaient changer le monde en promouvant une société plus horizontale et démocratique, moins hiérarchique et fermée. Aujourd’hui, je crois au contraire qu’Internet n’a fait que renforcer les travers du monde d’avant les réseaux. Ce n’est pas parce que l’on clique et qu’on “like” qu’on interagit et qu’on est plus maître de sa vie.
+[Mini interview dans Libé](http://www.liberation.fr/france/2018/08/13/thierry-crouzet-auteur-on-commence-a-se-mefier-d-internet_1672524) que je me garde de twitter, facebooker. « J’ai arrêté (Le Net) six mois. C’était en 2011. Quand je regarde cette période, c’est un souvenir heureux, comme si j’étais parti en vacances, loin, très loin. Le fait de déconnecter m’a montré que je n’avais aucune addiction, je n’ai pas ressenti de manque en me coupant d’Internet, j’ai juste beaucoup dormi pendant une semaine et, après, j’étais en pleine forme. On prend un peu les gens pour des couillons en leur parlant de digital detox, d’hôtels sans wifi ni réseau et d’applications pour maîtriser sa consommation numérique. Si problème il y a eu pour moi, c’est que j’attendais trop d’Internet. Je croyais à l’époque que les réseaux allaient changer le monde en promouvant une société plus horizontale et démocratique, moins hiérarchique et fermée. Aujourd’hui, je crois au contraire qu’Internet n’a fait que renforcer les travers du monde d’avant les réseaux. Ce n’est pas parce que l’on clique et qu’on "like" qu’on interagit et qu’on est plus maître de sa vie.
 
 « Les géants du Net, qui étaient déjà très puissants à l’époque, n’ont fait qu’accroître leur emprise sur leurs milliards d’usagers. Ils ont acquis un pouvoir phénoménal et on a abouti à une société surverticalisée et de traçabilité permanente. On a cru qu’un outil géré de manière décentralisée comme l’est Internet suffirait à favoriser une société plus décentralisée et ouverte, mais c’était une illusion. Aujourd’hui, les gens commencent plutôt à se méfier d’Internet et ils ont raison. Les géants du Net ont une puissance colossale, dont on mesure mal encore les effets. Autrefois, il y avait la télé qui vendait aux annonceurs du temps de cerveau disponible. Ça se fait différemment et plus subtilement avec nos données aujourd’hui, mais rien n’a changé. L’enjeu, c’est d’avoir des usages numériques qui correspondent à nos besoins à nous et pas à leurs désirs à eux ! A nous d’en prendre conscience et de ne pas être des moutons de Panurge. »
 
@@ -98,9 +98,9 @@ La philosophie m’intéresse quand elle parle du monde, des hommes, de l’art.
 
 ### Mercredi 15, Bessilles
 
-![Dernière sortie VTT avant départ](https://tcrouzet.com/images_tc/2018/09/fc58361f-e19d-4990-8f39-6fd4c5fc7263.jpg)
+![Dernière sortie VTT avant départ](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/fc58361f-e19d-4990-8f39-6fd4c5fc7263.jpg)
 
-![Sète au loin](https://tcrouzet.com/images_tc/2018/09/IMG_0911.jpg)
+![Sète au loin](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_0911.jpg)
 
 ### Jeudi 16, TGV pour Charles de Gaulle
 
@@ -118,7 +118,7 @@ De l’autre côté de l’allée, un gars émet une odeur âcre. Toujours je me
 
 J’en reviens souvent aux chants des pistes des aborigènes. Arpenter les chemins, tracer des parcours n’est qu’une réinvention d’un art ancestral. Il ne s’agit plus de se déplacer pour atteindre un lieu, mais faire du déplacement un art, un art de la boucle, du tissage, de la cartographie. L’œuvre est le chemin que vous pouvez parcourir à votre tour. L’œuvre est la carte. Techniquement, elle prend la forme d’un fichier GPX.
 
-![L'art du GPX](https://tcrouzet.com/images_tc/2018/09/loop.jpg)
+![L'art du GPX](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/loop.jpg)
 
 Je ne fais pas du vélo pour faire du sport, mais pour parcourir le territoire, pour m’amener à des points de vue, à des pistes agréables, des chemins amusants. Je joue là où d’autres ne cherchent que la performance, s’efforçant d’enchaîner le plus de dénivelés possible en le moins de distance possible, comme pour rentabiliser les sorties et qu’elles s’achèvent le plus vite possible. J’aime la promenade, je ne fais pas du sport, mais de l’art. Je vois des cyclistes répéter jour après jour les mêmes boucles, un peu comme s’ils ne lisaient qu’un seul livre.
 
@@ -144,11 +144,11 @@ Entre les arbres poussent des maisons, les mêmes que dans les séries TV améri
 
 Il fait une chaleur épaisse, d’autant plus pétrifiante que nous vivons sous air climatisé. La nuit dernière, quand la ventilation démarrait, j’avais l’impression de passer sous les routes d’un train de marchandises.
 
-![Le jour se lève](https://tcrouzet.com/images_tc/2018/09/IMG_0946.jpg)
+![Le jour se lève](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_0946.jpg)
 
-![Je ne suis qu'un point bleu](https://tcrouzet.com/images_tc/2018/09/IMG_0950.jpg)
+![Je ne suis qu'un point bleu](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_0950.jpg)
 
-![C'est la rentrée](https://tcrouzet.com/images_tc/2018/09/IMG_0954.jpg)
+![C'est la rentrée](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_0954.jpg)
 
 ### Samedi 18, Weston
 
@@ -166,15 +166,15 @@ Nous atterrissons sur la longue plage tournée vers le golfe, une ligne de sable
 
 Nous continuons l’exploration. Découvrons une marina dédiée à la pêche à la ligne, avec restaurants de bric et de broc sur les quais. Nous aurions dû déjeuner là, trop tard. Oui, nous reviendrons. Au retour, peu avant Weston, nous nous arrêtons sur une aire d’autoroute qui donne sur Alligator Alley, un chenal d’eau qui coupe les Everglades. Nous apercevons notre première bête. Son œil jaune me regarde pendant qu’elle nage vers moi avec lenteur comme si elle voulait me surprendre. Quand nous repartons, nous croisons un avion de tourisme qui vient de se poser sur notre voie. Nous nous écartons pendant que le pilote en costume descend du cockpit et se dirige vers le museau de l’appareil pour inspecter le moteur. Pas de doute, nous sommes en Amérique.
 
-![Naples](https://tcrouzet.com/images_tc/2018/09/P1060241.jpg)
+![Naples](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060241.jpg)
 
-![Naples](https://tcrouzet.com/images_tc/2018/09/P1060255.jpg)
+![Naples](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060255.jpg)
 
-![Naples](https://tcrouzet.com/images_tc/2018/09/P1060284.jpg)
+![Naples](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060284.jpg)
 
-![Alligator Alley](https://tcrouzet.com/images_tc/2018/09/P1060290-1.jpg)
+![Alligator Alley](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060290-1.jpg)
 
-![Alligator](https://tcrouzet.com/images_tc/2018/09/P1060319.jpg)
+![Alligator](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060319.jpg)
 
 ### Dimanche 19, Weston
 
@@ -188,7 +188,7 @@ Des gens nient le verdict de la science, leur mort annoncée. Ils passent leurs 
 
 [Weston](https://fr.wikipedia.org/wiki/Weston_(Floride)) est une ville artificielle, gagnée sur les marécages au milieu des années 1990, créée pour des retraités, finalement habitée par des jeunes, parmi les plus riches aux États-Unis. Il paraît que c’est un des endroits où il fait bon vivre dans le pays. Je ne dois pas avoir les mêmes critères que les magazines pour investisseurs : personne dehors, on dirait qu’un poison a décimé la population. Nous-mêmes sautons de l’air climatisé de la maison à celui de la voiture, aux vitres teintées comme celles des autres citadins. Journée passée à faire les courses et nous faire à demi intoxiquer par un burger frelaté.
 
-![Savanna, notre quartier à Weston](https://tcrouzet.com/images_tc/2018/09/weston.jpg)
+![Savanna, notre quartier à Weston](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/weston.jpg)
 
 ### Lundi 20, Weston
 
@@ -200,15 +200,15 @@ J’ai l’impression d’être en prison dans notre maison climatisée. Coupée
 
 ### Mardi 21, Weston
 
-Émile s’en va à l’école en rigolant, Tim en espérant qu’elle explose. Pas grand-chose ne change par rapport à ce dont nous avions l’habitude. Quand nous rentrons de les accompagner, un gars passe un balai brosse mécanique sur les trottoirs. Nous habitons dans une espèce de jardin public tiré à quatre épingles, où je recherche désespérément quelque chose d’ancien, de rouillé, de tordu, d’usé… Même les arbres paraissent artificiels. Et les nuages sont loin au-delà des vitres minuscules. J’ai pris l’habitude de l’immense perspective qui s’ouvre sur l’étang et les Pyrénées depuis mon bureau à Balaruc.
+Émile s’en va à l’école en rigolant, Tim en espérant qu’elle explose. Pas grand-chose ne change par rapport à ce dont nous avions l’habitude. Quand nous rentrons de les accompagner, un gars passe un balai brosse mécanique sur les trottoirs. Nous habitons dans une espèce de jardin public tiré à quatre épingles, où je recherche désespérément quelque chose d’ancien, de rouillé, de tordu, d’usé… Même les arbres paraissent artificiels. Et les nuages sont loin au-delà des vitres minuscules. J’ai pris l’habitude de l’immense perspective qui s’ouvre sur l'étang et les Pyrénées depuis mon bureau à Balaruc.
 
 ---
 
 Petit bonheur de récupérer Tim tout joyeux après une séance de piscine très sportive. Il commence à se faire des copains, déjà des mots d’anglais se glisse dans son français.
 
-![Vue depuis la maison](https://tcrouzet.com/images_tc/2018/09/IMG_0474.jpg)
+![Vue depuis la maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_0474.jpg)
 
-![Ciel de Floride](https://tcrouzet.com/images_tc/2018/09/IMG_1013.jpg)
+![Ciel de Floride](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1013.jpg)
 
 ### Mercredi 22, Weston
 
@@ -230,7 +230,7 @@ Soudainement, mes tweets sont retweetés des dizaines de fois par mon blog sans 
 
 Quand je travaille, je peux passer des semaines sans ne voir personne et sans m’en plaindre. Ici, je retrouve l’isolement que j’ai connu à Londres, en pire puisque Isa aussi passe ses journées à bosser à la maison, donc ne nous ramène aucune rencontre, et je n’ai pas le courage de la suivre dans les réunions de parents. Je la laisse aller à la pêche. J’ai bien effectué quelques requêtes sur le Net à la recherche d’écrivains locaux, mais je suis rentré bredouille. Le Net US est totalement marketé. Tout le monde a quelque chose à vendre. Impossible de surfer à l’ancienne à la recherche de connexions. J’ai depuis longtemps une ébauche d’article sur la mort du surf. À quoi bon constater l’irréversible ?
 
-![Depuis la maison](https://tcrouzet.com/images_tc/2018/09/IMG_1018.jpg)
+![Depuis la maison](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1018.jpg)
 
 ---
 
@@ -244,7 +244,7 @@ Sur Amazon, je scrute les stats d’un copain qui vient de sortir un livre pour 
 
 Fort Lauderdale : un immense parking à bateaux de millionnaire. L’un d’eux s’appelle *Never enough*. Un résumé de ce qui nous entoure. Une marina aux quais verdoyants, mais privés. D’énormes villas avec à leurs pieds d’énormes joujoux flottants. Plus loin, une rue principale, Las Olas Boulevard, qui me fait penser à une sauce dont les différents éléments n’auraient pas pris. D’anciennes maisons potentiellement charmantes. Des devantures fermées et poussiéreuses. D’autres, clinquantes. Des Ferrari et Lamborguini rangées le long des trottoirs. Des femmes surmaquillées qui ressemblent à des caricatures de Barbie. Des tours en constructions. Tout ça dans le plus grand désordre. Quelques cafés bruyants (de musique, pas de conversations). Nous longeons la New River, empruntant le soi-disant fameux Riverwalk. Tu parles. Quelques centaines de mètres coincés entre les secteurs privatisés. Tout ça pour voir d’autres yachts qui se la jouent. Possibilité d’aller les sniffer de plus près en montant à bord de pseudo gondoles vénitiennes. Nous sommes au royaume du fake. Ce n’est pas pire que dans notre gated community. Tout est faux. Dans les années 1960, Umberto Eco avait déjà dénoncé cette disneylandisation de l’Amérique. Nous poussons jusqu’au front de mer, en voiture, parce qu’à pied ça n’aurait aucun intérêt, sauf d’apercevoir de nouvelles marinas. Nous arrivons au Cap d’Agde, à n’importe quelle plage pour touristes, avec immeubles et cafés au rez-de-chaussée séparés de la plage elle-même par une route plantée de palmiers. Circulez, il n’y a rien à voir, à part pour un photographe qui voudrait saisir l’horreur terminale du monde contemporain.
 
-![Fort Lauderdale](https://tcrouzet.com/images_tc/2018/09/P1060337-1.jpg)
+![Fort Lauderdale](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060337-1.jpg)
 
 ### Samedi 25, Weston
 
@@ -256,11 +256,11 @@ D’expérience, je suis toujours mal quand j’arrive quelque part. Il me faut 
 
 ---
 
-Voilà ce que je trouve dans un guide : « In August, Floridians do nothing but crank the air-con inside while foolish tourists swelter and burn on the beaches – and run from afternoon thundershowers. » Comme il pleut, il ne fait pas trop chaud aujoud’hui. Nous roulons jusqu’à Miami Beach et déjeunons dans un diner du quartier art déco. De magnifiques villas, une belle ambiance, de l’énergie à revendre. Voilà pour nous réconcilier avec la Floride. Je devrais être plus prolixe, mais je n’ai pas passé assez de temps là-bas pour être capable d’en décrire les saveurs (d’autant que les enfants ont été insupportables). Le négatif se grave en moi en un instant, alors que le beau infuse avec lenteur et souvent ne rejaillit en mots qu’après des heures, voire des jours ou des années. [J’en viens à penser que l’Islande est un Paradis](https://tcrouzet.com/2017/07/25/20-raisons-de-ne-pas-voyager-en-islande/), c’est dire.
+Voilà ce que je trouve dans un guide : « In August, Floridians do nothing but crank the air-con inside while foolish tourists swelter and burn on the beaches – and run from afternoon thundershowers. » Comme il pleut, il ne fait pas trop chaud aujoud’hui. Nous roulons jusqu’à Miami Beach et déjeunons dans un diner du quartier art déco. De magnifiques villas, une belle ambiance, de l’énergie à revendre. Voilà pour nous réconcilier avec la Floride. Je devrais être plus prolixe, mais je n’ai pas passé assez de temps là-bas pour être capable d’en décrire les saveurs (d’autant que les enfants ont été insupportables). Le négatif se grave en moi en un instant, alors que le beau infuse avec lenteur et souvent ne rejaillit en mots qu’après des heures, voire des jours ou des années. [J’en viens à penser que l’Islande est un Paradis](https://tcrouzet.com/2017/07/25/20-raisons-de-ne-pas-voyager-en-islande/), c'est dire.
 
-![Un Diner à Miami Beach](https://tcrouzet.com/images_tc/2018/09/P1060377.jpg)
+![Un Diner à Miami Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060377.jpg)
 
-![Miami Beach](https://tcrouzet.com/images_tc/2018/09/P1060397-1.jpg)
+![Miami Beach](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060397-1.jpg)
 
 ### Dimanche 26, Weston
 
@@ -270,13 +270,13 @@ Pas simple de trouver sa place dans un pays étranger, plus que dans un pays, un
 
 À dix bornes autour de chez nous, même à vingt, pas le moindre café où aller se mettre au contact des autres humains, respirer le même air, vivre par osmose un moment de présent. Nous ne croisons les Américains qu’en faisant nos courses ou qu’en accompagnant les enfants à l’école. Ça n’a tout simplement pas de sens de vivre sans amis. Il est bien connu que l’absence de relation sociale implique une espérance de vie réduite. Peut-être que je devrais arrêter de tenir ce carnet. Il amplifie mon malaise et je me demande si ça fait sens de partager tout ça, même en comité restreint dans la pénombre de mon blog.
 
-![Sanibel Island](https://tcrouzet.com/images_tc/2018/09/IMG_1080.jpg)
+![Sanibel Island](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/IMG_1080.jpg)
 
-![Naples](https://tcrouzet.com/images_tc/2018/09/P1060399-1.jpg)
+![Naples](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060399-1.jpg)
 
-![Naples](https://tcrouzet.com/images_tc/2018/09/P1060414.jpg)
+![Naples](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060414.jpg)
 
-![Naples](https://tcrouzet.com/images_tc/2018/09/P1060440.jpg)
+![Naples](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/P1060440.jpg)
 
 ### Lundi 27, Weston
 
@@ -286,7 +286,7 @@ Une amie me connecte à un écrivain de ses amis. « Je pense que vous aurez de
 
 À la sortie de l’école. Tim : « Elle est géniale, la prof d’anglais. » Je ne l’ai jamais entendu dire ça d’une de ses profs en France. En math, il s’éclate aussi (son prof débute, il vient de la haute finance et il est là pour le plaisir, peut-être que ça aussi ça change tout, venir à l’enseignement après une vie professionnelle). Les enfants ont basculé dans la pédagogie du XXI<sup>e</sup> siècle, avec usage abondant des outils numériques. La théorie sur [Khan Academy](https://fr.khanacademy.org/) et, en classe, ils font des jeux, notamment des compétitions entre élèves, souvent rassemblés par équipe. Du coup, ils avalent le programme et n’ont même pas l’impression de travailler. En gym, il font vraiment du sport. C’est sérieux, physique, fatigant. Ces premiers retours confirment que le système éducatif français est à la ramasse, avec les élèves qui arrivent à l’école avec leurs sacs qui pèsent des tonnes pendant qu’ici ils arrivent avec leur ordi. Quand je vois les enfants heureux, je suis prêt à accepter quelques désagréments, comme devoir courir sur du dur, en rond, la nuit de préférence pour éviter la chaleur, façon de parler, parce que ça colle tout de même, et alors la course n’est plus qu’un entraînement, une façon de ne pas perdre la forme et en aucune manière un art d’être au monde.
 
-![Tourner en rond](https://tcrouzet.com/images_tc/2018/09/footing.jpg)
+![Tourner en rond](https://tcrouzet.comhttps://tcrouzet.com/images_tc/2018/09/footing.jpg)
 
 ### Mardi 28, Weston
 
@@ -294,7 +294,7 @@ Tenir un journal décharge de bien des envies de littérature, comme si le journ
 
 Mon journal n’est pas très passionnant. Il ne se s’y passe pas grand-chose, sinon des pensées souvent sombres. Pas de rencontre, de news croustillantes, de révélation, pas de récit d’un autre engagement que celui d’une quête assez égoïste d’une extase esthétique.
 
-Je fais quoi, aujourd’hui ? Rien, sauf regarder la pluie s’abattre avec poisseur sur le canal flasque étalé au pied de la pelouse. Je pourrais raconter ce spectacle durant des plombes, m’attarder sur le bruit du tonnerre, puis celui des débroussailleuses et autres tondeuses qui reprennent leur danse maintenant que le coup de semonce est passé. Il y serait question de l’odeur de l’herbe fraîchement coupée, des piaillements de volatiles invisibles, du citronnier qui à force d’être trop arrosé cherche à se transformer en palétuvier.
+Je fais quoi, aujourd’hui ? Rien, sauf regarder la pluie s’abattre avec poisseur sur le canal flasque étalé au pied de la pelouse. Je pourrais raconter ce spectacle durant des plombes, m'attarder sur le bruit du tonnerre, puis celui des débroussailleuses et autres tondeuses qui reprennent leur danse maintenant que le coup de semonce est passé. Il y serait question de l’odeur de l’herbe fraîchement coupée, des piaillements de volatiles invisibles, du citronnier qui à force d’être trop arrosé cherche à se transformer en palétuvier.
 
 Mais je m’arrête là, je ne m’amuse pas à un absurde atelier d’écriture auto imposé qui n’aurait pour fonction que de démontrer qu’on peut écrire sur tout et n’importe quoi en donnant l’illusion que c’est de l’art, avec cette propriété très particulière d’être ennuyeux, comme bien des pans de la littérature, incapables de nous arracher d’autres réactions que des bâillements.
 
@@ -345,3 +345,5 @@ Lisa Cron : « We don’t turn to story to escape reality. We turn to story to
 ---
 
 Ça y est. J’ai mon gravel. Premiers kilomètres cet après-midi. Impression de rouler sur des œufs. Quarante ans que je n’étais plus monté sur un vélo de route.
+
+Tags: Carnets, une

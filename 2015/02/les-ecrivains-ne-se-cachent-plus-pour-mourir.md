@@ -6,7 +6,7 @@ Désormais, nous n’avons plus de tiroir. Nous rangeons nos textes directement 
 
 Le libre accès à la publication a en quelque sorte démocratisé le génie, il en a rabaissé le coût. Publier est même devenu un droit élémentaire, et certains vont presque jusqu’à réclamer pour tous ces publieurs un droit à un revenu, ou du moins à une forme de reconnaissance officielle.
 
-Avec à la clé une grande confusion sur ce que serait un [revenu de base](https://tcrouzet.com/2014/10/25/mefiance-croissante-a-legard-des-militants-du-revenu-de-base/1/). Parce qu’il n’a jamais été, dans l’esprit de ses avocats, un revenu associé à un travail, mais un revenu du fait même d’exister. L’hypothétique revenu de base se fichera bien de savoir à quoi tu consacreras ta vie. Tu pourras même farnienter si ça te chante. Ce sera ton droit le plus strict.
+Avec à la clé une grande confusion sur ce que serait un [revenu de base](http://blog.tcrouzet.com/2014/10/25/mefiance-croissante-a-legard-des-militants-du-revenu-de-base/1/). Parce qu’il n’a jamais été, dans l’esprit de ses avocats, un revenu associé à un travail, mais un revenu du fait même d’exister. L’hypothétique revenu de base se fichera bien de savoir à quoi tu consacreras ta vie. Tu pourras même farnienter si ça te chante. Ce sera ton droit le plus strict.
 
 En attendant ce progrès social, le droit pour tous d’être auteur a entraîné la mise à jour des catacombes littéraires. De tout un monde qui était resté caché, sauf aux yeux de quelques archéologues. Conséquence : la puanteur des innombrables caveaux ouverts devient quasi insupportable pour les lecteurs. Effrayés de se retrouver à nez à nez avec un mort-vivant, ils se précipitent acheter les best-sellers, dans l’espoir de toucher de véritables auteurs au sens ancien.
 
@@ -28,4 +28,8 @@ Oui, c’est injuste. Beaucoup de choses le sont et les regarder avec la lorgnet
 
 Tu te dis peut-être qu’avec ce revenu tu aurais le temps d’écrire l’œuvre qui t’amènerait les lecteurs dont tu rêves. Tu t’illusionnes. Parce que si toi tu réussis, la plupart des autres échoueront et, en toute probabilité, tu finiras dans leurs rangs. Même avec tout le temps du monde tous les auteurs ne peuvent avoir des lecteurs. Alors tous ces auteurs sans lecteurs sont déjà morts et leurs œuvres pourrissent dans les cimetières du Web.
 
-![Alors je fais des photos.](https://tcrouzet.com/images_tc/2015/02/alpe.jpg)
+![Alors je fais des photos.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/alpe.jpg)
+
+
+
+Tags: édition, une

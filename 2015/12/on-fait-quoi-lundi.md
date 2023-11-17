@@ -35,3 +35,5 @@ Le chantier est partout.
 Je crois aux histoires.
 
 Nous avons cessé de nous raconter des histoires pour aller de l’avant. Quand les conteurs renoncent à réédifier le monde, le monde s’effondre. Nous avons trop longtemps roulé en roue libre sur l’idéal des lumières.
+
+Tags: Politique, une

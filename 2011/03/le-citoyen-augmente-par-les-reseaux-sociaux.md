@@ -1,20 +1,20 @@
 # Le citoyen augmenté par les réseaux sociaux
 
-Canevas de mon intervention lors de [la journée Marseille 2.0](http://marseille20.capitale.pro/les-conferences-de-marseille-20-gouverner-20), dernière conférence avant ma [déconnexion totale](https://tcrouzet.com/2011/03/18/je-ferme-mon-blog/).<span id="more-22261"></span>
+Canevas de mon intervention lors de [la journée Marseille 2.0](http://marseille20.capitale.pro/les-conferences-de-marseille-20-gouverner-20), dernière conférence avant ma [déconnexion totale](http://blog.tcrouzet.com/2011/03/18/je-ferme-mon-blog/).<span id="more-22261"></span>
 
-### Churchill ne s’est pas trompé
+### Churchill ne s'est pas trompé
 
-Nous avons tous en tête la fameuse citation selon laquelle la démocratie serait la moins pire des formes politiques. La plupart des gens en déduisent que nous devrions nous en contenter et ils refusent d’entamer la moindre réflexion politique qui questionne la démocratie. Cette citation sans cesse répétée a un effet inhibiteur.
+Nous avons tous en tête la fameuse citation selon laquelle la démocratie serait la moins pire des formes politiques. La plupart des gens en déduisent que nous devrions nous en contenter et ils refusent d'entamer la moindre réflexion politique qui questionne la démocratie. Cette citation sans cesse répétée a un effet inhibiteur.
 
-Mais qu’a exactement déclaré Churchill le 11 novembre 1947 devant la Chambre des Communes :
+Mais qu'a exactement déclaré Churchill le 11 novembre 1947 devant la Chambre des Communes :
 
 > Democracy is the worst form of government –except for all those other forms, that have been tried from time to time.
 
-Churchill n’a pas fermé la porte à l’innovation. Alors pourquoi ne pas imaginer autre chose, surtout quand nous avons la démonstration quotidienne que la démocratie représentative n’est pas la panacée. À mon sens, tous ceux qui cherchent à sauver la démocratie grâce aux nouvelles technologies perdent leur temps. Un pansement sur une jambe de bois n’a jamais fait repousser une jambe en chair et en os.
+Churchill n’a pas fermé la porte à l’innovation. Alors pourquoi ne pas imaginer autre chose, surtout quand nous avons la démonstration quotidienne que la démocratie représentative n'est pas la panacée. À mon sens, tous ceux qui cherchent à sauver la démocratie grâce aux nouvelles technologies perdent leur temps. Un pansement sur une jambe de bois n’a jamais fait repousser une jambe en chair et en os.
 
 ### La démocratie représentative
 
-Elle est à ma connaissance la seule forme de démocratie jamais expérimentée. Nous choisissons en votant, parfois en tirant au sort, ceux qui nous représenteront durant une période généralement assez courte. En parallèle de cette représentation, dans les démocraties directes comme la Suisse, on demande aux citoyens de se prononcer sur certaines questions par voie de référendum (la démocratie directe, ou participative, ne s’est jamais substituée à la représentation).
+Elle est à ma connaissance la seule forme de démocratie jamais expérimentée. Nous choisissons en votant, parfois en tirant au sort, ceux qui nous représenteront durant une période généralement assez courte. En parallèle de cette représentation, dans les démocraties directes comme la Suisse, on demande aux citoyens de se prononcer sur certaines questions par voie de référendum (la démocratie directe, ou participative, ne s'est jamais substituée à la représentation).
 
 La démocratie telle que je viens de l’esquisser n’est qu’une évolution sommaire de la monarchie, une monarchie tournante. Elle s’apparente souvent à une oligarchie : une classe s’appropriant la plupart des postes électifs, surtout ceux décisionnels.
 
@@ -22,9 +22,9 @@ Le sociologue Vincenzo Susca fait culminer le mythe de la représentation avec l
 
 La représentation n’est concevable que dans une société qui célèbre l’individualisme. Si je suis moi-même un individu fort, je veux voir un individu fort prendre les rênes du pouvoir en mon nom.
 
-En introduction du [*Peuple des connecteurs*](https://tcrouzet.com/le-peuple-des-connecteurs/), j’ai affirmé que cette époque de l’individualisme dominant était derrière nous. À force de nous interconnecter, de partager avec les autres, nous nous éloignerions de l’individualisme pour devenir des êtres réseaux, des cyborgs comme je le dis aujourd’hui.
+En introduction du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), j’ai affirmé que cette époque de l’individualisme dominant était derrière nous. À force de nous interconnecter, de partager avec les autres, nous nous éloignerions de l’individualisme pour devenir des êtres réseaux, des cyborgs comme je le dis aujourd’hui.
 
-Nous sommes hautement individués, c’est-à-dire différents les uns des autres, mais en même temps nous n’existons pas sans les uns et les autres. Pour des êtres réseaux, la représentation n’a aucun sens. C’est un concept dépassé. Un individu seul ne représente rien, sinon des intérêts particuliers. C’est pour cette raison que j’ai parlé de l’émergence d’un [cinquième pouvoir](https://tcrouzet.com/le-cinquieme-pouvoir/) : une force décentralisée d’organisation interne de la société.
+Nous sommes hautement individués, c'est-à-dire différents les uns des autres, mais en même temps nous n’existons pas sans les uns et les autres. Pour des êtres réseaux, la représentation n’a aucun sens. C’est un concept dépassé. Un individu seul ne représente rien, sinon des intérêts particuliers. C’est pour cette raison que j’ai parlé de l’émergence d’un [cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/) : une force décentralisée d’organisation interne de la société.
 
 ### La démocratie ne favorise pas l’intelligence
 
@@ -58,9 +58,9 @@ Donc si dans un pays en révolte, après la chute du dictateur, les gens rentren
 
 Pour s’échapper de la représentation qui bride l’intelligence collective et individuelle au profit de quelques intelligences plus ou moins élues, il faut que chacun de nous complexifie volontairement la société.
 
-Plus nous complexifions, plus nous rendons le contrôle difficile, plus nous augmentons nos libertés… libertés dans nos têtes, liberté de penser, aussi liberté d’agir et donc de mettre en œuvre nos idées.
+Plus nous complexifions, plus nous rendons le contrôle difficile, plus nous augmentons nos libertés... libertés dans nos têtes, liberté de penser, aussi liberté d'agir et donc de mettre en œuvre nos idées.
 
-Comment complexifier ? Si nous établissons de plus en plus de connexions avec de plus en plus d’interlocuteurs, nous complexifions le graphe social. Il ne s’agit pas juste de multiplier le nombre de ses amis sur les réseaux sociaux, il faut aussi animer les connexions, les faire vivre comme je l’explique dans [*L’alternative nomade*](https://tcrouzet.com/alternative-nomade/).
+Comment complexifier ? Si nous établissons de plus en plus de connexions avec de plus en plus d’interlocuteurs, nous complexifions le graphe social. Il ne s’agit pas juste de multiplier le nombre de ses amis sur les réseaux sociaux, il faut aussi animer les connexions, les faire vivre comme je l’explique dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/).
 
 La plupart des socionautes ont peu de conscience politique. La plupart ne cherchent pas à étendre leur réseau. Très peu franchissent la limite de Dunbar (150 connexions). Ma proposition n’est donc pas implicite.
 
@@ -78,8 +78,12 @@ Tenter de simplifier la société par la force ne fera pas disparaître les prob
 
 Nous devons poursuivre sur la route de la complexification, une complexification qui ne cesse de se déployer depuis l’origine du vivant.
 
-![](https://tcrouzet.com/images_tc/2011/03/demopop1.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/03/demopop1.png)
 
-J’aime rappeler que la croissance de la complexité est concomitante avec la croissance de la liberté. La synchronicité des deux courbes n’est pas une coïncidence, mais la conséquence de ce que j’ai appelé dans [*L’alternative nomade*](https://tcrouzet.com/alternative-nomade/) le cycle de transformation.
+J’aime rappeler que la croissance de la complexité est concomitante avec la croissance de la liberté. La synchronicité des deux courbes n’est pas une coïncidence, mais la conséquence de ce que j’ai appelé dans [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) le cycle de transformation.
 
-![](https://tcrouzet.com/images_tc/2011/03/cycle2.png)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/03/cycle2.png)
+
+
+
+Tags: NetCulture

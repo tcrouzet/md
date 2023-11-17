@@ -1,8 +1,8 @@
 # Les maux du Web consubstantiels de sa topologie
 
-En réfléchissant [au potentiel de blockchain dans la rénovation de la démocratie](https://tcrouzet.com/2016/01/03/et-si-blockchain-revolutionnait-la-democratie/), je suis retombé sur les trois architectures de réseau imaginées par Paul Baran, avec au-dessus de chacune les mentions « passé, présent et futur », et j’ai reçu comme une décharge électrique.<span id="more-43261"></span>
+En réfléchissant [au potentiel de blockchain dans la rénovation de la démocratie](http://tcrouzet.com/2016/01/03/et-si-blockchain-revolutionnait-la-democratie/), je suis retombé sur les trois architectures de réseau imaginées par Paul Baran, avec au-dessus de chacune les mentions « passé, présent et futur », et j’ai reçu comme une décharge électrique.<span id="more-43261"></span>
 
-![Les trois architectures de Paul Baran.](https://tcrouzet.com/images_tc/2016/01/trois-b.png)
+![Les trois architectures de Paul Baran.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/trois-b.png)
 
 Le réseau en étoile symbolise le modèle hiérarchique, celui de feu le Minitel en France, mais également celui de la plupart des entreprises et des dictatures. Nous savons qu’il est efficace avec des structures relativement simples et face à des problèmes également simples (au sens où la méthode cartésienne est applicable : un avion est simple, le climat est complexe).
 
@@ -39,3 +39,5 @@ J’ai toujours défendu le P2P. J’en arrive aujourd’hui à la conclusion qu
 Les failles apparaîtront plus tard. Toujours. Pour le moment, il suffit d’observer le troisième schéma de Paul Baran pour constater qu’il est plus égalitaire, plus démocratique, plus harmonieux. Il ne contient pas en lui-même l’idée de centre, de domination. C’est déjà ça.
 
 N’empêche toutes les banques et les entreprises high-tech se préoccupent de blockchain. Elles y voient un moyen de sécuriser leurs transactions, d’échapper à la coercition des États, d’économiser sur les infrastructures centralisées. Le capitalisme est puissant. Il sait tourner à son avantage les nouveaux territoires. Il s’agit à notre tour de les investir sur le terrain artistique et politique. Les solutions techniques émergent comme [VDNchain](http://woldenavro.tumblr.com/post/136461032145/blockchain-cahier-des-charges-vdnchain). Il va falloir mettre les mains dans le cambouis.
+
+Tags: Blockchain, NetCulture, une

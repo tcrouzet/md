@@ -4,7 +4,7 @@ Les partisans du libéralisme économique, lorsqu’ils créent des entreprises 
 
 Dès le début de [*A Crowd of One*](http://www.amazon.fr/Crowd-One-Future-Individual-Identity/dp/1586483676/ref=sr_1_1/), John Henry Clippinger relève une contradiction flagrante. Pourquoi ces mêmes libéralistes ne jurent-t-ils que par le libre-marché, un marché où personne ne doit manager quoi que ce soit, où il faut s’abandonner à l’autorégulation ? D’un côté, le laissez-faire serait inefficace, conduisant les hommes à un état de guerre continuel, d’un autre, il serait terriblement efficace, conduisant à la prospérité économique.
 
-[J’ai déjà dénoncé cette contradiction.](https://tcrouzet.com/2006/07/24/cherchez-le-bug/) Elle explique à mon sens la schizophrénie de notre époque. Laissons-faire quand ça nous arrange, sinon poliçons. Je me demande comment cette contradiction a pu s’imposer à tous sans réelle remise en cause. Comment les gens policés peuvent-ils encore croire au pseudo-libéralisme ?
+[J’ai déjà dénoncé cette contradiction.](http://blog.tcrouzet.com/2006/07/24/cherchez-le-bug/) Elle explique à mon sens la schizophrénie de notre époque. Laissons-faire quand ça nous arrange, sinon poliçons. Je me demande comment cette contradiction a pu s’imposer à tous sans réelle remise en cause. Comment les gens policés peuvent-ils encore croire au pseudo-libéralisme ?
 
 Une fois que quelqu’un est managé comment regagne-t-il sa liberté ? Il le peut en théorie, du moins juridiquement, mais c’est tout. Quelqu’un qui n’a jamais usé de sa liberté, broyé pour commencer par le système éducatif, peut-il user de la liberté ?
 
@@ -15,3 +15,5 @@ Mais la contradiction relevée par Clippinger n’est qu’apparente : en fait,
 En vérité, le libéralisme n’a jamais été appliqué. Ceux qui prétendent le mettre en œuvre en sont les pires ennemis. Ils ont ainsi confisqué le merveilleux mot liberté, confisqué la liberté par-là même. Ils ont tant bourré les crânes avec leur idéologie que même les esclaves du management reconnaissent la nécessité du management, rêvant de devenir un jour manager à leur tour.
 
 Je noircis le tableau pour mettre en exergue la contradiction que nous devons combattre. Nous avons la chance de ne pas vivre en dictature. Les hommes libres par nature peuvent exercer leur liberté. Ils peuvent entreprendre et mener leur vie à leur guise. Je pense à tous ceux qui manquent de force, à tous ceux qui devraient gagner leur liberté si nous voulons que le monde se porte de mieux en mieux.
+
+Tags: Politique

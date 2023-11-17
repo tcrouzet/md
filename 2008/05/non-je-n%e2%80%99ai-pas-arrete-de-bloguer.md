@@ -8,9 +8,9 @@ Depuis le début 2006, j’écris des billets qui prolongent *Le peuple des conn
 
 Je pourrais me moquer de presque toutes les mesures du gouvernement Sarkozy et après ? Si Ségolène Royal avait été élue, elle aurait fait preuve du même manque d’imagination. Je n’ai pas envie, plus envie, de tourner en rond.
 
-Lorsque j’aurai achevé mon roman, je me remettrai à bloguer plus assidument car j’écris tous les jours quoi qu’il arrive. J’espère que ma pensée prendra une direction ou une forme imprévue. Je discuterai peut-être de l’idée centrale qui soutient mon *Ératosthène*, le généralisme. Je m’attaquerai à la [brèves histoire de l’informatique](https://tcrouzet.com/2008/03/25/la-breve-histoire-de-l%e2%80%99informatique/), qui sera une tentative de vulgarisation de la société en réseau. Ce travail sera dans la continuité de la matière actuelle mais avec une vocation de vulgarisation, donc je devrai travailler la forme, notamment parce que le projet doit commencer par une série de conférences.
+Lorsque j’aurai achevé mon roman, je me remettrai à bloguer plus assidument car j’écris tous les jours quoi qu’il arrive. J’espère que ma pensée prendra une direction ou une forme imprévue. Je discuterai peut-être de l’idée centrale qui soutient mon *Ératosthène*, le généralisme. Je m’attaquerai à la [brèves histoire de l’informatique](http://blog.tcrouzet.com/2008/03/25/la-breve-histoire-de-l%e2%80%99informatique/), qui sera une tentative de vulgarisation de la société en réseau. Ce travail sera dans la continuité de la matière actuelle mais avec une vocation de vulgarisation, donc je devrai travailler la forme, notamment parce que le projet doit commencer par une série de conférences.
 
-![](https://tcrouzet.com/images_tc//home/hebergement/tcrouzet/blog/images_tc/2008/05/thierry.gif)
+![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/05/thierry.gif)
 
 J’ai lu beaucoup de journaux intimes. La plupart, en tout cas ceux que j’ai appréciés, ont été écris en parallèle d’œuvres plus réfléchies. Je crois que c’est inévitable. D’un côté, on s’immerge dans une matière que l’ont porte parfois durant des années, d’un autre, on se laisse aller à ses intuitions et ses impulsions sans souvent prendre le temps de se relire. Le travail d’arrache-pied nourrit notre pensée mais souvent nous avons besoin de prendre un peu d’air.
 
@@ -23,3 +23,5 @@ Notes
 1. Je conçois que pour certains auteurs le blog puisse être l’unique forme d’expression. Un art en soi. Mais je demande à voir. [Pacco fait un gros un truc en ce moment](http://www.mae-bd.fr) mais tout cela s’inscrit dans une histoire. Les carnets de Delacroix sont sublimes mais ils n’auraient pas existé sans les toiles.
 
 2. Mon généralisme, que j’élève comme Ératosthène en art de vivre, m’interdit de m’enfermer dans une forme et même une matière unique. Voilà pourquoi j’attache de l’importance à la programmation. Elle fait travailler mon esprit dans une autre direction. J’ai longtemps aussi dessiné pour la même raison. Même la vie de famille a cette vertu d’ouvrir des directions imprévues.
+
+Tags: Ératosthène

@@ -6,7 +6,7 @@ Le but premier de [Scribay](https://www.scribay.com/) n’est pas de multiplier 
 
 On peut réserver un texte à une petite communauté de lecteurs fidèles et de confiance avec qui ouvrir l’atelier sans pour autant envoyer immédiatement ses épreuves à tous les vents (ce qui peut être dangereux, parce qu’une très bonne idée encore mal assise peut-être détruite par les critiques avant qu’elle ne s’épanouisse et donne ses véritables fruits). J’ai donc décidé de tester cette approche.
 
-1. J’ai créé une communauté [Résistants](https://www.scribay.com/groups/group/89/resistants) pour y partager très en amont mon travail sur mon roman [Résistants](https://tcrouzet.com/resistants/).
+1. J’ai créé une communauté [Résistants](https://www.scribay.com/groups/group/89/resistants) pour y partager très en amont mon travail sur mon roman [Résistants](http://tcrouzet.com/resistants/).
 
 2. Seuls [les membres de cette communauté](https://www.scribay.com/groups/group/89/resistants) pourront lire le livre à ce stade, donc en infléchir le déroulé, suggérer des modifications, proposer des idées d’épisodes (car chaque chapitre sera en partie autonome).
 
@@ -28,4 +28,8 @@ Quand je travaille à un texte, j’aime avant tout savoir comment les lecteurs 
 
 Par exemple, mon premier épisode introduit Cyder. Il faut que vous l'aimiez, que vous tombiez amoureux d'elle pour accepter de la suivre dans ses aventures. Si j'échoue à cette étape, inutile d'écrire la suite. Si donc ça vous amuse, jouez avec moi.
 
-![scribay](https://tcrouzet.com/images_tc/2016/04/scribay.jpg)
+![scribay](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/scribay-600x350.jpg)
+
+
+
+Tags: édition, une

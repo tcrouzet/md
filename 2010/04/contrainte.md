@@ -1,12 +1,12 @@
 # Conséquences stylistiques de la contrainte
 
-« Futile, sans intérêt… écrire un roman en se limitant à des blocs de 140 caractères c’est juste bon pour intéresser les geeks qui de toute façon ne lisent pas… tu pars perdant quand les autres auteurs de thriller, eux, écrivent sans s’embêter avec une règle absurde… soit tu te places au niveau de *Millenium*, soit ce n’est pas peine… » j’aurais tout entendu au sujet de [*La quatrième théorie*](https://tcrouzet.com/la-quatrieme-theorie/).<span id="more-15671"></span>
+« Futile, sans intérêt… écrire un roman en se limitant à des blocs de 140 caractères c’est juste bon pour intéresser les geeks qui de toute façon ne lisent pas… tu pars perdant quand les autres auteurs de thriller, eux, écrivent sans s’embêter avec une règle absurde… soit tu te places au niveau de *Millenium*, soit ce n’est pas peine… » j’aurais tout entendu au sujet de [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/).<span id="more-15671"></span>
 
 Mise au point. 1/ Si j’avais voulu faire comme les autres auteurs de thriller, je l’aurais fait il y a longtemps. 2/ Si je ne l’ai pas fait, c’est que je n’avais pas leur talent et que leurs livres, excepté ceux de rares auteurs comme Ayerdhal, me tombent des mains. 3/ Je ne pouvais m’engager dans cette direction qu’en adaptant le genre à ma convenance. 4/ Je ne peux pas écrire quelque chose qui m’ennuie, mais je me moque d’ennuyer. Je me dis que si des lecteurs me ressemblent ils ne s’ennuieront pas en me lisant (et qu’importe s’ils ne sont qu’une poignée avec des lobes cérébraux configurés comme les miens).
 
-Qui finalement est le plus libre ? Moi ou l’un de ces auteurs de thriller à succès qui doit occuper 50 % de ses livres à décrire les affres psychologisant de ses héros, en prise à un quotidien nauséeux, empêtrés avec des difficultés familiales, avec leurs parents, leurs femmes (le pluriel est important), leurs enfants… et même avec leurs amis. Il faut à tout prix leur inventer des maux pour qu’ils soient moins héroïques et que les lecteurs s’identifient avec facilité.
+Qui finalement est le plus libre ? Moi ou l'un de ces auteurs de thriller à succès qui doit occuper 50 % de ses livres à décrire les affres psychologisant de ses héros, en prise à un quotidien nauséeux, empêtrés avec des difficultés familiales, avec leurs parents, leurs femmes (le pluriel est important), leurs enfants… et même avec leurs amis. Il faut à tout prix leur inventer des maux pour qu’ils soient moins héroïques et que les lecteurs s’identifient avec facilité.
 
-N’est-ce pas une contrainte ? Je m’en suis débarrassée. Il y a dans *La quatrième théorie* un homme, une femme, des enfants… mais ils ne passent pas des pages à pleurnicher… ils courent parce que sinon ils meurent… vous croyez que dans une telle situation on a le temps de s’appesantir ?
+N’est-ce pas une contrainte ? Je m’en suis débarrassée. Il y a dans *La quatrième théorie* un homme, une femme, des enfants… mais ils ne passent pas des pages à pleurnicher... ils courent parce que sinon ils meurent… vous croyez que dans une telle situation on a le temps de s’appesantir ?
 
 Les livres qui, entre chaque pas des personnages (qui en plus n’existent pas et ça je ne l’oublie jamais), ouvrent des parenthèses pour m’exposer les névroses collectives m’exaspèrent (il y a d’autres lieux pour approfondir ces sujets). J’aime les livres intelligents pas ceux qui veulent de me faire communier avec le héros (je préfère parler avec mes amis, aussi sur le Net).
 
@@ -27,3 +27,5 @@ Maintenant, n’exagérons rien. Je n’ai rien inventé, rien expérimenté de 
 J’arrête de me flageller. Le livre est achevé, j’ai enfin un manuscrit qui tient debout, il n’est plus question pour moi d’évoquer la manière dont je l’ai écrit. Soit le livre tiendra, intéressera, soit il ne sera que le témoignage d’une expérience littéraire, une sorte de trace… Je ne vais pas éternellement me cacher derrière l’histoire des 140 caractères pour justifier quoi que ce soit.
 
 *Alea jacta est*.
+
+Tags: édition, NetLittérature, Twiller
