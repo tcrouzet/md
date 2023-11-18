@@ -1,13 +1,13 @@
 # Côté Sud
 
-</head><body>
-<div id="route-resume"><div class="iconbox">![Distance](/images_css/route-distance.svg)<div class="icontext">Distance
-<span>265 km</span></div></div><div class="spacer"></div><div class="iconbox">![Dénivelé](/images_css/route-dev.svg)<div class="icontext">Dénivelé
-<span>2 000 m</span></div></div><div class="spacer"></div><div class="iconbox">![Portage](/images_css/route-portage.svg)<div class="icontext">Portage
-<span>0.1 %</span></div></div><div class="spacer"></div><div class="iconbox">![Altitude](/images_css/route-altitude.svg)<div class="icontext">Altitude max
-<span>410 m</span></div></div><div class="spacer"></div><div class="iconbox">![Asphalte](/images_css/route-asphalte.svg)<div class="icontext">Asphalte
-<span>31 %</span></div></div><div class="spacer"></div><div class="iconbox">![Singles](/images_css/route-single.svg)<div class="icontext">Singles
-<span>24 %</span></div></div></div>
+
+![Distance](/images_css/route-distance.svg)Distance
+265 km![Dénivelé](/images_css/route-dev.svg)Dénivelé
+2 000 m![Portage](/images_css/route-portage.svg)Portage
+0.1 %![Altitude](/images_css/route-altitude.svg)Altitude max
+410 m![Asphalte](/images_css/route-asphalte.svg)Asphalte
+31 %![Singles](/images_css/route-single.svg)Singles
+24 %
 
 L'idée est simple, suivre la côte méditerranéenne dans le but de relier Cerbère à Menton, en minimisant l'asphalte. En août 2021, [Thierry Schiavi](http://www.lecyclerit.com/) a créé la Mare Nostrum Gravel sur le papier et il a parcouru l'itinéraire. Côté Sud sera beaucoup moins asphaltée et potentiellement davantage VTT, un défit vu l'urbanisation, mais les chemins et les singles ne manquent pas.
 
@@ -15,7 +15,7 @@ Pour l'instant, je peaufine la liaison entre Cerbère et Sète (vous pouvez prol
 
 En hiver, certains secteurs en bord de mer peuvent être inondés après de fortes pluies, notamment la plage entre La Franqui et Port la nouvelle ou entre Saint-Pierre la Mer et les Cabanes de Fleury. Par temps de forte sécheresse, certains des massifs forestiers comme La Clape peuvent être fermés.
 
-<div style="position:relative;display:block"></div>
+
 
 ### Matos
 

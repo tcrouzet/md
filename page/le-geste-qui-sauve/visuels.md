@@ -1,6 +1,6 @@
 # Visuels
 
-<div class="smenu"><div class="menu-pittet-container">- [Home](/le-geste-qui-sauve/)
+- [Home](/le-geste-qui-sauve/)
 
 - [Blog](/tag/le-geste-qui-sauve/)
 
@@ -44,7 +44,7 @@
 
 ![](https://tcrouzet.com/images_tc/2017/11/it.png)
 
-</div></div>
+
 
 ![Traductions](https://tcrouzet.com/images_tc/2019/01/planche-497x450.jpg)
 
@@ -86,10 +86,8 @@
 
 ![Flacon](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/hygiene_mains_009.jpg)
 
-<div class="wp-caption aligncenter" id="attachment_35122" style="width: 514px">
+
 
 ![Les livres papier sont sortis avec des bandeaux aux couleurs des sponsors.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/sponsors3.png)
 
 Les livres papier sont sortis avec des bandeaux aux couleurs des sponsors.
-
-</div>

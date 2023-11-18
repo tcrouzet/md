@@ -1,13 +1,13 @@
 # x727 &#8211; Bikepacking in Hérault, south of France
 
-</head><body>
-<div id="route-resume"><div class="iconbox">![Distance](/images_css/route-distance.svg)<div class="icontext">Distance
-<span>600/1,070 km</span></div></div><div class="spacer"></div><div class="iconbox">![Dénivelé](/images_css/route-dev.svg)<div class="icontext">Total ascent
-<span>9,000/18,000 m</span></div></div><div class="spacer"></div><div class="iconbox">![Portage](/images_css/route-portage.svg)<div class="icontext">Hike
-<span>0.5 %</span></div></div><div class="spacer"></div><div class="iconbox">![Altitude](/images_css/route-altitude.svg)<div class="icontext">High point
-<span>1 074 m</span></div></div><div class="spacer"></div><div class="iconbox">![Asphalte](/images_css/route-asphalte.svg)<div class="icontext">Asphalt
-<span>25 %</span></div></div><div class="spacer"></div><div class="iconbox">![Singles](/images_css/route-single.svg)<div class="icontext">Singletrack
-<span>18 %</span></div></div></div>
+
+![Distance](/images_css/route-distance.svg)Distance
+600/1,070 km![Dénivelé](/images_css/route-dev.svg)Total ascent
+9,000/18,000 m![Portage](/images_css/route-portage.svg)Hike
+0.5 %![Altitude](/images_css/route-altitude.svg)High point
+1 074 m![Asphalte](/images_css/route-asphalte.svg)Asphalt
+25 %![Singles](/images_css/route-single.svg)Singletrack
+18 %
 
 On the French Mediterranean coast, [the Hérault department](https://en.wikipedia.org/wiki/H%C3%A9rault) is unique, due to its geology, biodiversity, and topography. Taking a mountain bike tour of the Hérault will guarantee constantly changing landscapes and beautiful sights. Between beaches and mountains, lagoons and lakes, garrigues and forests, the route traverses the Haut Languedoc and Grands Causses regional parks, the southern edge of the Cévennes and Larzac, [which are listed as UNESCO World Heritage sites](https://whc.unesco.org/fr/list/1153/). Two loops compose the x727, the external is the [727 (600 km/370 mi)](https://tcrouzet-com.translate.goog/727tour/?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=en/727tour), the internal the [i727 (470 km/300 mi)](https://tcrouzet-com.translate.goog/727gd?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=en). If you like ultra-long distances, you can start with the 727 and continue with the i727. If you prefer gravel, go for the [g727](https://tcrouzet-com.translate.goog/g727?_x_tr_sl=fr&_x_tr_tl=en&_x_tr_hl=en) (727 km/450 mi).
 
@@ -23,7 +23,7 @@ The x727 route is distributed under a free license by Thierry Crouzet. He mainta
 
 *Note: The route is called 727, or 7 to 7, because it originally started and looped back to Sète, a city whose name sounds exactly like the number 7 in French. The start and finish were moved a short distance away, to Poussan, a medieval village, which is more convenient for parking and offers many singletracks on its outskirts. In any case, you can see Sète floating above the Thau Lagoon, both at the start and at the finish. The city is worth a visit.*
 
-<div style="position:relative;display:block"></div>
+
 
 ### Maps/GPX
 

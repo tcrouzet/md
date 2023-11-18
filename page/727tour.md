@@ -1,13 +1,13 @@
 # 727 &#8211; Bikepacking VTT en Hérault
 
-</head><body>
-<div id="route-resume"><div class="iconbox">![Distance](/images_css/route-distance.svg)<div class="icontext">Distance
-<span>595 km</span></div></div><div class="spacer"></div><div class="iconbox">![Dénivelé](/images_css/route-dev.svg)<div class="icontext">Dénivelé
-<span>9 000 m</span></div></div><div class="spacer"></div><div class="iconbox">![Portage](/images_css/route-portage.svg)<div class="icontext">Portage
-<span>0.5 %</span></div></div><div class="spacer"></div><div class="iconbox">![Altitude](/images_css/route-altitude.svg)<div class="icontext">Altitude max
-<span>1 074 m</span></div></div><div class="spacer"></div><div class="iconbox">![Asphalte](/images_css/route-asphalte.svg)<div class="icontext">Asphalte
-<span>25 %</span></div></div><div class="spacer"></div><div class="iconbox">![Singles](/images_css/route-single.svg)<div class="icontext">Singles
-<span>18 %</span></div></div></div>
+
+![Distance](/images_css/route-distance.svg)Distance
+595 km![Dénivelé](/images_css/route-dev.svg)Dénivelé
+9 000 m![Portage](/images_css/route-portage.svg)Portage
+0.5 %![Altitude](/images_css/route-altitude.svg)Altitude max
+1 074 m![Asphalte](/images_css/route-asphalte.svg)Asphalte
+25 %![Singles](/images_css/route-single.svg)Singles
+18 %
 
 Ce tour imaginé pour les VTT se faufile entre plages méditerranéennes et montagnes, étangs et lacs, garrigues et forêts. Il arpente les parcs régionaux du Haut Languedoc et des Grands causses, la frange sud des Cévennes, [classées au Patrimoine mondial de l’UNESCO](https://whc.unesco.org/fr/list/1153/), avant de regagner la plaine lagunaire du littoral.
 
@@ -17,7 +17,7 @@ Le tour fait découvrir des sites et des monuments historiques (Canal du Midi, [
 
 Le tour est praticable toute l'année, sauf de rares journées hivernales où les sommets de l’Espinouse et le plateau du Larzac sont enneigés. L'été, la chaleur peut-être suffocante dans la partie nord, rouler de préférence très tôt et très tard. Le printemps et l'automne sont les saisons idéales. La seconde moitié de mai, c'est extraordinaire.
 
-<div style="position:relative;display:block;margin-top:1rem;"></div>
+
 
 ### Équipement
 

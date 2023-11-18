@@ -1,6 +1,6 @@
 # Les 727 &#8211; Aventures bikepacking en Hérault
 
-Je peaufine sans cesse les 727 dans le but de faire découvrir les chemins et les sentiers les plus sauvages de [l’Hérault](https://fr.wikipedia.org/wiki/H%C3%A9rault_(d%C3%A9partement)), un des départements français les plus divers, [de par sa géologie](https://tcrouzet.com/2023/02/01/la-magie-du-727-expliquee-par-la-geologie/), [sa biodiversité](https://fr.wikipedia.org/wiki/Point_chaud_de_biodiversit%C3%A9), sa topographie. En faire le tour à VTT ou gravel, c’est la garantie de changer sans cesse de paysage.<span id="more-65293"></span>
+Je peaufine sans cesse les 727 dans le but de faire découvrir les chemins et les sentiers les plus sauvages de [l’Hérault](https://fr.wikipedia.org/wiki/H%C3%A9rault_(d%C3%A9partement)), un des départements français les plus divers, [de par sa géologie](https://tcrouzet.com/2023/02/01/la-magie-du-727-expliquee-par-la-geologie/), [sa biodiversité](https://fr.wikipedia.org/wiki/Point_chaud_de_biodiversit%C3%A9), sa topographie. En faire le tour à VTT ou gravel, c’est la garantie de changer sans cesse de paysage.
 
 ![Grands Départs 2024](https://tcrouzet.com/images_tc/2023/11/2dates2024-2-scaled.jpg)
 

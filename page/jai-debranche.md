@@ -1,6 +1,6 @@
 # J&#8217;ai débranché
 
-<div class="smenu"><div class="menu-unplug-container">- [**J’ai débranché**](/jai-debranche/)
+- [**J’ai débranché**](/jai-debranche/)
 
 - [Extraits](http://blog.tcrouzet.com/2011/12/26/jai-debranche-extraits/)
 
@@ -12,25 +12,25 @@
 
 - [Blog](/tag/jai-debranche/)
 
-</div></div>
-<div id="bookshop_maintext">Un récit familial
+
+Un récit familial
 -----------------
 
 ##### [Extrait](/2011/12/26/jai-debranche-extraits/)
 
-##### <div id="librairies">
+##### 
 
 ##### **ebook 12.99 €** : [Amazon](http://www.amazon.fr/Jai-d%C3%A9branch%C3%A9-internet-overdose-ebook/dp/B006PL02Z6/), [Apple](http://itunes.apple.com/fr/book/jai-debranche/id491692228), [ePagine](http://www.epagine.fr/9782213667140-j-ai-debranche-thierry-crouzet/), [Numilog](http://www.numilog.com/LIVRES/FICHES/116336.Livre).
 
 ##### **papier 17.39 €** : [Amazon](http://www.amazon.fr/gp/product/2213666156/ref=as_li_tf_tl?ie=UTF8&tag=thiercrouz-21&linkCode=as2&camp=1642&creative=6746&creativeASIN=2213666156), [Decitre](http://www.decitre.fr/livres/J-ai-debranche.aspx/9782213666150), [Eyrolles](http://www.eyrolles.com/Informatique/Livre/j-ai-debranche-9782213666150), [Fnac](http://livre.fnac.com/a3787727/Thierry-Crouzet-J-ai-debranche-comment-revivre-sans-Internet-apres-une-overdose).
 
-</div>
 
-</div>Au début, vous regardiez vos mails une ou deux fois par jour. Combien de fois le faites-vous aujourd’hui ? Vous arrive-t-il de consulter vos messages compulsivement toutes les cinq minutes, comme si votre vie en dépendait ? Cherchez-vous parfois votre mobile avec plus de fébrilité que vos clés ? En un mot, seriez-vous accro à internet ? Cet outil inventé pour nous aider à mieux communiquer ferait-il de nous des esclaves ?
+
+Au début, vous regardiez vos mails une ou deux fois par jour. Combien de fois le faites-vous aujourd’hui ? Vous arrive-t-il de consulter vos messages compulsivement toutes les cinq minutes, comme si votre vie en dépendait ? Cherchez-vous parfois votre mobile avec plus de fébrilité que vos clés ? En un mot, seriez-vous accro à internet ? Cet outil inventé pour nous aider à mieux communiquer ferait-il de nous des esclaves ?
 
 Épuisé par quinze ans d’hyperactivité en ligne, Thierry Crouzet, gourou des réseaux sociaux et auteur de nombreux ouvrages sur les nouvelles technologies, entame une cure de désintoxication. Il prévient ses milliers d’amis Facebook et Twitter qu’il les quitte durant six mois. Il disparaît du Net pour se sevrer. Au fil des jours, il nous raconte avec humour ses crises de manque, sa vie « débranchée », puis comment il se reconstruit, en quête d’un art de vitre à l’époque d’internet.
 
-<?xml version="1.0" encoding="UTF-8"??>
+
 
 ### Présentation
 

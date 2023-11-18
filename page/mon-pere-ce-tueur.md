@@ -1,29 +1,29 @@
 # Mon père, ce tueur
 
-</head><body><div id="bookshop_maintext">Une autofiction familiale
+Une autofiction familiale
 -------------------------
 
 ##### [Extrait](/2019/08/20/mon-pere-ce-tueur-extrait/)
 
-##### <div id="librairies">
+##### 
 
 ##### **ebook 11.99 €** : [7switch](https://www.7switch.com/fr/ebook/9782358875257/mon-pere-ce-tueur), [Amazon](https://www.amazon.fr/Mon-père-ce-tueur-LITTERATURE-ebook/dp/B07RQZH9ZS/), [Apple](https://books.apple.com/fr/book/mon-p%C3%A8re-ce-tueur/id1463762769), [Bookeen](https://www.bookeenstore.com/ebook/9782358875257/mon-pere-ce-tueur-thierry-crouzet), [Google](https://play.google.com/store/books/details/Thierry_Crouzet_Mon_p%C3%A8re_ce_tueur?id=BXmYDwAAQBAJ), [Kobo](https://www.kobo.com/fr/fr/ebook/mon-pere-ce-tueur).
 
 ##### **papier 17.90 €** : [Amazon](https://www.amazon.fr/Mon-Pere-Tueur-Crouzet-Thierry/dp/2358875244/), [Cultura](https://www.cultura.com/mon-pere-ce-tueur-9782358875240.html), [Decitre](https://www.decitre.fr/livres/mon-pere-ce-tueur-9782358875240.html), [Eyrolles](https://www.eyrolles.com/Loisirs/Livre/mon-pere-ce-tueur-9782358875240/), [Fnac](https://livre.fnac.com/a13524157/CROUZET-THIERRY-Mon-pere-ce-tueur), [Furet du Nord](https://www.furet.com/fr/mon-pere-ce-tueur-3139865.html), [Lalibrairie.com](https://www.lalibrairie.com/livres/mon-pere-ce-tueur_0-5840019_9782358875240.html), [Les Libraires](https://www.leslibraires.fr/livre/15508146-mon-pere-ce-tueur-crouzet-thierry-manufacture-de-livres), [Librest](https://www.librest.com/livres/mon-pere-ce-tueur-thierry-crouzet_0-5840019_9782358875240.html?ctx=eb07fb7bdef649a6d534ddf9011101d8), [Mollat](https://www.mollat.com/livres/2337934/thierry-crouzet-mon-pere-ce-tueur), [Paris Librairies](https://www.parislibrairies.fr/livre/9782358875240-mon-pere-ce-tueur-thierry-crouzet/), [Sauramps](https://www.sauramps.com/livre/9782358875240-mon-pere-ce-tueur-thierry-crouzet/).
 
-</div>
 
-</div>
-<?xml version="1.0" encoding="UTF-8"??>
+
+
+
 « J’ai toujours eu peur de mon père. Je savais qu’il avait déjà tué au cours de la guerre d’Algérie. J’étais persuadé qu’il pouvait recommencer. »
 
 Thierry grandit dans l’ombre glaçante de Jim, élaborant des scénarios de fuite et se barricadant toutes les nuits dans sa chambre. Quelques années après la mort de ce père menaçant, aidé de photographies et des carnets où Jim ne parle que de la guerre, le fils décide de partir à la recherche du fantôme, de retrouver par les mots celui qui avait été un jeune garçon à qui l’on avait appris à tuer.
 
-<div class="iframe" id="iframe0"></div>
+
 
 ### Comment j'ai écrit le roman
 
-<div class="iframe" id="iframe1"></div>
+
 
 ### Fiche produit
 
@@ -33,7 +33,7 @@ Thierry grandit dans l’ombre glaçante de Jim, élaborant des scénarios de f
 
 - Nombre de pages : 224
 
-- Attachées de presse : [Camille Paulian](mailto:camille@trames.xyz) et <a herf="mailto:sylvie@trames.xyz">Sylvie Pereira</a>
+- Attachées de presse : [Camille Paulian](mailto:camille@trames.xyz) et Sylvie Pereira
 
 - Contact libraire : [Marie-Anne Lacoma](mailto:marie-anne@lamanufacturedelivres.com)
 
@@ -41,7 +41,7 @@ Thierry grandit dans l’ombre glaçante de Jim, élaborant des scénarios de f
 
 - ISBN papier : 9782358875240
 
-<a name="rp">
+
 
 ### Ils en parlent
 
@@ -60,7 +60,7 @@ Thierry grandit dans l’ombre glaçante de Jim, élaborant des scénarios de f
 - 3/1/2020, *Midi Libre*, [Un récit sans concessions, mais lucide qui emmène le lecteur dans les tréfonds, parfois les plus noirs, de l'âme humaine confrontée à la violence et à la guerre.](https://www.midilibre.fr/2019/12/30/sete-mon-pere-ce-tueur-un-livre-sur-la-violence-en-heritage,8633509.php)
 
 - 30/12/2019, Christophe Henning, RCF, [Le jeu des armes et de l'armée, avec Jean-Michel Aphatie et Thierry Crouzet.](https://rcf.fr/culture/livres/le-jeu-des-armes-et-de-l-armee-avec-jean-michel-aphatie-et-thierry-crouzet)
-    <audio controls="controls"><source src="https://tcrouzet.com/images_tc/2020/2020perso/RCFNational_AUPIEDLETTRE_20191230.mp3" type="audio/mp3"></source></audio>
+    
 
 - 20/12/2019, Librairie Les Rebelles Ordinaires, La Rochelle, [Une Claque ! Un roman qui vous hante longtemps après sa lecture !](https://www.instagram.com/p/B6n3777KmCx/?igshid=xs4aaqpmj4hi)
 
@@ -114,7 +114,7 @@ Thierry grandit dans l’ombre glaçante de Jim, élaborant des scénarios de f
 - 9/9/2019, Valérie Hernandez, lokko.fr, [Un bon antidote à Yann Moix. (…) Derrière la terreur, l’amour filial en embuscade.](https://www.lokko.fr/2019/09/09/thierry-crouzet-un-livre-pour-un-pere-violent/)
 
 - 9/9/2019, [RCF Limousin](https://rcf.fr/culture/emission-du-9-au-15-septembre).
-    <audio controls="controls"><source src="https://tcrouzet.com/images_tc/2019/09/RCF87.ogg" type="audio/mp3"></source></audio>
+    
 
 - 7/9/2019, Hubert Guillaud, [Comment ne pas ressembler à celui auquel on ressemble malgré tout ?](https://www.facebook.com/photo.php?fbid=10156433125172231&set=a.10151887428182231&type=3&theater)
     ![Hubert Guillaud](https://tcrouzet.com/images_tc/2019/09/hunertguillaud.jpg)
@@ -164,7 +164,7 @@ Thierry grandit dans l’ombre glaçante de Jim, élaborant des scénarios de f
 
 - 3/6/2019, Katia Panier, Sauramps Montpellier, [Bouleversant.](https://lalibrairenomade.blogspot.com/2019/06/rentree-litteraire-2019-thierry-crouzet.html)
 
-![Planche Mon Père, ce tueur](https://tcrouzet.com/images_tc/2019/05/plancheMonPere.jpg)</a>
+![Planche Mon Père, ce tueur](https://tcrouzet.com/images_tc/2019/05/plancheMonPere.jpg)
 
 ![Mon père sur son GMC](https://tcrouzet.com/images_tc/2019/05/PhotoGMC.jpg)
 
