@@ -18,7 +18,7 @@ Dra. Margaret Chan, Directora General de la OMS
 
 Bloguero, ensayista y novelista, Thierry Crouzet es un apasionado de los temas en los que confluyen tecnología, política y literatura. Entre la publicaciones de este ex-periodista podemos destacar: Le Peuple des connecteurs, una reflexión premonitoria de la sociedad de la información, J´ai débranché, la historia de un burn-out numérico y La Quatrième Théorie, un thriller tecnológico de política y ficción.
 
-<div id="librairies"><div style="width:48%;margin-right:3%;display:inline-block;vertical-align:top"><a name="lib"></a>
+
 
 ### [Librairies num](?lib=1)
 
@@ -28,7 +28,7 @@ Bloguero, ensayista y novelista, Thierry Crouzet es un apasionado de los temas e
 4. [immateriel.fr (4.99 €)](http://librairie.immateriel.fr/fr/ebook/9782919358342/un-gesto-salvador)
 5. [ Kobo (4.99 €)](http://store.kobobooks.com/es-ES/ebook/un-gesto-salvador)
 
-</div><div style="width:48%;display:inline-block;vertical-align:top">
+
 
 ### [Librairies papier](?lib=1)
 
@@ -36,5 +36,3 @@ Bloguero, ensayista y novelista, Thierry Crouzet es un apasionado de los temas e
 2. [Amazon.com (13.28$)](http://www.amazon.com/Un-Gesto-Salvador-Spanish-Edition/dp/1499168314/)
 3. [BAM (15$)](http://www.booksamillion.com/p/Gesto-Salvador/Thierry-Crouzet/9781499168310?id=5986644280260)
 4. [CreateSpace (15$)](https://www.createspace.com/4764124)
-
-</div></div>

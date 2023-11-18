@@ -1,19 +1,19 @@
 # O gesto que salva
 
-</head><body><div id="bookshop_maintext">Uma iniciação à economia da paz
+Uma iniciação à economia da paz
 -------------------------------
 
 ##### [Extrait](https://app.box.com/s/p0l9m2756cxugzz434z4)
 
-##### <div id="librairies">
+##### 
 
 ##### **ebook 4.99 €** : [ Amazon.fr](http://www.amazon.fr/dp/B00JS9LW2E), [ Apple.br](https://itunes.apple.com/br/book/o-gesto-que-salva/id866191623), [ Apple.com](https://itunes.apple.com/book/o-gesto-que-salva/id866191623), [ Apple.pt](https://itunes.apple.com/pt/book/o-gesto-que-salva/id866191623), [ Immateriel.fr](http://librairie.immateriel.fr/fr/ebook/9781499189322/o-gesto-que-salva), [ Kobo](http://store.kobobooks.com/pt-BR/ebook/o-gesto-que-salvanouveau-livre), [ Amazon.com](http://www.amazon.com/dp/B00JS9LW2E).
 
 ##### **papier 12.86 €** : [Amazon.fr](http://www.amazon.fr/gesto-que-salva-Portuguese-Edition/dp/149918932X/), [Amazon.com](http://www.amazon.com/gesto-que-salva-Portuguese-Edition/dp/149918932X/), [CreateSpace](https://www.createspace.com/4767223).
 
-</div>
 
-</div>Talvez você não tenha se dado conta, mas aconteceu uma inovação que mudou sua vida. Friccionando as mãos com um gel hidroalcoólico, você se protege das doenças.
+
+Talvez você não tenha se dado conta, mas aconteceu uma inovação que mudou sua vida. Friccionando as mãos com um gel hidroalcoólico, você se protege das doenças.
 
 Esta é a história de um produto revolucionário que nunca foi patenteado, um presente que o professor Didier Pittet e sua equipe dos Hospitais Universitários de Genebra ofereceram à humanidade.
 

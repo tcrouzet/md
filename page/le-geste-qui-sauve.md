@@ -1,6 +1,6 @@
 # Le geste qui sauve
 
-<div class="smenu"><div class="menu-pittet-container">- [Home](/le-geste-qui-sauve/)
+- [Home](/le-geste-qui-sauve/)
 
 - [Blog](/tag/le-geste-qui-sauve/)
 
@@ -44,21 +44,21 @@
 
 ![](https://tcrouzet.com/images_tc/2017/11/it.png)
 
-</div></div>
-<div id="bookshop_maintext">Une initiation à l'économie de paix
+
+Une initiation à l'économie de paix
 -----------------------------------
 
 ##### [Extrait](https://app.box.com/s/w4pe2x969j4tquesdjk6)
 
-##### <div id="librairies">
+##### 
 
 ##### **ebook 4.99 €** : [ Amazon](http://www.amazon.fr/Geste-qui-Sauve-Thierry-Crouzet-ebook/dp/B00JH03BU0/), [ Apple](https://itunes.apple.com/fr/book/le-geste-qui-sauve/id855320574), [Bookeen](https://www.bookeenstore.com/fr/ebook/9782919358366/le-geste-qui-sauve-thierry-crouzet), [ Feedbooks](http://fr.feedbooks.com/item/756264/le-geste-qui-sauve), [ Immateriel](http://librairie.immateriel.fr/fr/ebook/9782825143667/le-geste-qui-sauve), [ Kobo](http://store.kobobooks.com/fr-FR/ebook/le-geste-qui-sauve), [ Orange](http://read-and-go.orange.fr/livres/l/108533), [ze Book](http://www.zebook.com/librairie/ebooks/84835/le-geste-qui-sauve), [ Amazon.ca](http://www.amazon.ca/Geste-qui-Sauve-Essai-ebook/dp/B00JH03BU0/).
 
 ##### **papier 12.00 €** : [Amazon](https://www.amazon.fr/dp/1986813010/).
 
-</div>
 
-</div>Vous ne le savez peut-être pas, mais une innovation a changé votre vie. En vous frictionnant les mains avec un gel hydro-alcoolique, vous vous protégez des maladies.
+
+Vous ne le savez peut-être pas, mais une innovation a changé votre vie. En vous frictionnant les mains avec un gel hydro-alcoolique, vous vous protégez des maladies.
 
 Voici l’histoire de ce produit révolutionnaire libre de tout brevet, offert en cadeau à l’humanité par le professeur Didier Pittet et son équipe des Hôpitaux Universitaires de Genève.
 
@@ -82,7 +82,7 @@ J’ai écrit ce livre parce que je suis tombé sous le charme de Didier Pittet.
 
 La lutte contre les infections liées aux soins, particulièrement l’hygiène des mains, tout comme ce livre qui la raconte, bénéficient du soutien particulier de bioMérieux, B. Braun Medical, Hong Kong Infection Control Nurses’ Association, Laboratoires Anios, SARAYA et du POPS (Private Organizations for Patient Safety), une association qui a pour but de promouvoir la sécurité des patients à l’échelle globale en étroite collaboration avec l’Organisation Mondiale de la Santé et qui regroupe notamment B. Braun Medical, Deb Group (Ltd./ DebMed USA), LLC, Ecolab, Elyptol, GeneralSensing, GOJO, Hartmann Group – Bode Science Centre, Laboratoires Anios, SARAYA, Sealed Air et Surewash.
 
-### <a name="cc">Pourquoi une licence Creative Commons</a>
+### Pourquoi une licence Creative Commons
 
 [À la suite](http://www.framablog.org/index.php/post/2013/12/02/utopie-du-logiciel-libre-sebastien-broca) de nombreux auteurs [commonistes](http://blog.tcrouzet.com/tag/commonisme/), j'ai choisi la variante [Creative Commons by-nc-nd](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr), même si ce n'est pas une licence tout à fait libre.
 

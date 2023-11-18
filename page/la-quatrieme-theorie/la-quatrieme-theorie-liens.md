@@ -1,10 +1,10 @@
 # Twittérature
 
-À côté de [mes billets plus ou moins théoriques](http://blog.tcrouzet.com/tag/twitterature/), voici quelques liens qui racontent l'histoire de la twittérature, des twillers et autres tweet-nouvelles.<span id="more-29628"></span>
+À côté de [mes billets plus ou moins théoriques](http://blog.tcrouzet.com/tag/twitterature/), voici quelques liens qui racontent l'histoire de la twittérature, des twillers et autres tweet-nouvelles.
 
 1. Antiquité, [les austères Spartiates pratiquent le laconisme](http://www.lemonde.fr/livres/article/2012/10/03/la-twitterature-une-nouvelle-invention_1768967_3260.html) (en Laconie bien sûr). « Les hommes de peu de mots ont besoin de peu de lois », disait le roi Charilaos.
 
-2. Début XI<sup>e</sup>, Japon, [Sei Sh?nagon](http://fr.wikipedia.org/wiki/Sei_Sh%C5%8Dnagon) compile des fragments poétiques dans son chef-d'œuvre *Makura no s?shi*.
+2. Début XIe, Japon, [Sei Sh?nagon](http://fr.wikipedia.org/wiki/Sei_Sh%C5%8Dnagon) compile des fragments poétiques dans son chef-d'œuvre *Makura no s?shi*.
  
 
 3. XVII<sup>e</sup>, Japon, [Bash? invente le haïku](http://2fr.wikipedia.org/wiki/Ha%C3%AFku).
@@ -46,7 +46,7 @@
 
 22. 4/2008, Jean-Louis Bailly commence la publication de ses Nouvelles impassible, sur le modèle des *Nouvelles en trois lignes* de Félix Fénéon (hors de Twitter mais comme s'il y était).
 
-23. 25/4/2008, [Nick Belardes](<Nick Belardes>) commence la rédaction de sa novella [SmallPlaces](https://twitter.com/smallplaces) sur Twitter (la publication se termine le [9/3/2010](https://twitter.com/smallplaces/status/10199082037) après [992 tweets](http://www.thenervousbreakdown.com/nlbelardes/2009/04/twitter-novel-in-the-twitterverse-read-the-first-358-tweets-of-small-places/), soit l'équivalent d'un livre d'une centaine de pages). Il est le premier à adapter le phone Novel au réseau de microblogging.
+23. 25/4/2008, [Nick Belardes]() commence la rédaction de sa novella [SmallPlaces](https://twitter.com/smallplaces) sur Twitter (la publication se termine le [9/3/2010](https://twitter.com/smallplaces/status/10199082037) après [992 tweets](http://www.thenervousbreakdown.com/nlbelardes/2009/04/twitter-novel-in-the-twitterverse-read-the-first-358-tweets-of-small-places/), soit l'équivalent d'un livre d'une centaine de pages). Il est le premier à adapter le phone Novel au réseau de microblogging.
 
 24. 10/5/2008, Brésil, Carlos Seabra se lance dans la [poésie érotique](https://twitter.com/poesiaerotica) et les [microcontes](https://twitter.com/microcontos).
 

@@ -1,6 +1,6 @@
 # Downloads
 
-<div class="smenu"><div class="menu-pittet-container">- [Home](/le-geste-qui-sauve/)
+- [Home](/le-geste-qui-sauve/)
 
 - [Blog](/tag/le-geste-qui-sauve/)
 
@@ -44,7 +44,7 @@
 
 ![](https://tcrouzet.com/images_tc/2017/11/it.png)
 
-</div></div>
+
 
 ### 
 
@@ -52,7 +52,7 @@
 
 [Acheter](/le-geste-qui-sauve/) | [ePub](https://app.box.com/s/22lh76t8hcce14i6w6f5) | [mobi/Kindle ](https://app.box.com/s/b98qu7kzx6d7pygid90n) | [PDF](https://app.box.com/s/w4pe2x969j4tquesdjk6)
 
-<span style="font-size:10px">[Conseils pour lire au format epub…](http://blog.tcrouzet.com/2014/02/13/comment-lire-un-epub/)</span>
+[Conseils pour lire au format epub…](http://blog.tcrouzet.com/2014/02/13/comment-lire-un-epub/)
 
 ### 
 

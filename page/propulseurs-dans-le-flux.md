@@ -8,12 +8,12 @@ Sortie : 7 juillet 2010
 
 Formats : PDF, ePub.
 
-### <a name="buy"></a>Acheter
+### Acheter
 
 - [iBooks Strore](http://itunes.apple.com/fr/book/propulseurs-dans-le-flux/id383108194) (5,49€).
 
 
-### <a name="download">Texte intégral gratuit</a>
+### Texte intégral gratuit
 
 - [ePub](http://txt.tcrouzet.com/fluxus.epub)
 - [Ouverture directe du ePub idéal pour afficher dans Stanza sur iPhone](epub://txt.tcrouzet.com/fluxus.epub)

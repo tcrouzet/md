@@ -1,17 +1,17 @@
 # La tune dans le caniveau
 
-</head><body><div id="bookshop_maintext">Et autres nouvelles
+Et autres nouvelles
 -------------------
 
-##### <div id="librairies">
+##### 
 
 ##### **ebook 4.99 €** : [Amazon](http://www.amazon.fr/La-tune-dans-caniveau-ebook/dp/B00B4GL3G4), [Apple](http://itunes.apple.com/fr/book/id595762522), [Bookeen](https://www.bookeenstore.com/fr/ebook/9782919358021/la-tune-dans-le-caniveau-c-est-la-greve-generale-thierry-crouzet), [Feedbook](http://fr.feedbooks.com/item/417677/la-tune-dans-le-caniveau), [Fnac](http://www.fnac.com/a5415083/Roman-Et-autres-nouvelles-La-tune-dans-le-caniveau-Thierry-Crouzet), [Kobo](http://www.kobobooks.com/ebook/a/book-6ZbbB_xE5kmtLx8gQm3B0Q/page1.html).
 
 ##### **papier 13.99 €** : [Amazon](https://www.amazon.fr/tune-dans-caniveau-Thierry-Crouzet/dp/1537564900/), [CreateSpace](https://www.createspace.com/6560231).
 
-</div>
 
-</div>C’est la grève géné­rale. Sui­vis par les came­ra­men de la triD, les pauvres dépouillent les riches et para­lysent Paris. Les ordures s’accumulent dans les rues. Extase pénètre dans le 6e arron­dis­se­ment aban­donné aux insur­gés pour y retrou­ver son père, le plus célèbre des acti­vistes du réseau.
+
+C’est la grève géné­rale. Sui­vis par les came­ra­men de la triD, les pauvres dépouillent les riches et para­lysent Paris. Les ordures s’accumulent dans les rues. Extase pénètre dans le 6e arron­dis­se­ment aban­donné aux insur­gés pour y retrou­ver son père, le plus célèbre des acti­vistes du réseau.
 
 Suivi de nouvelles et esquisses…
 

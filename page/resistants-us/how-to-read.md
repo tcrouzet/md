@@ -1,6 +1,6 @@
 # How to read
 
-Here are five ways to discover [*Resistants*](/resistants-us/) (the novel to understand everything about microscopic monsters that threaten us).<span id="more-43795"></span>
+Here are five ways to discover [*Resistants*](/resistants-us/) (the novel to understand everything about microscopic monsters that threaten us).
 
 ### 1/ You like comfort
 
@@ -8,7 +8,7 @@ Here are five ways to discover [*Resistants*](/resistants-us/) (the novel to und
 
 2. [Click on this link](https://www.wattpad.com/story/68035251-resistants) which will take you on [Wattpad *Resistants* description](https://www.wattpad.com/story/68035251-resistants).
 
-3. Add [*Resistants*](https://www.wattpad.com/story/68035251-resistants<br>) to your reading list (the + button).
+3. Add [*Resistants*](https://www.wattpad.com/story/68035251-resistants) to your reading list (the + button).
 
 4. Each time you return to Wattpad, you will find the book where you left off.
 
@@ -28,11 +28,11 @@ Follow and like [*Resistants* Facebook page](https://www.facebook.com/tequilausa
 
 Do not miss any episode by subscribing with your email [in the form below](http://eepurl.com/bWh9UL).
 
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css"></link>
 
-<div id="mc_embed_signup">
 
-</div>
+
+
+
 
 Every Friday (except delay), you will receive the compilation of the latest episodes. If you have ideas, suggestions, criticism, send them by replying to the email received. Reading does not take more than ten minutes.
 

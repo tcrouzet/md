@@ -1,19 +1,19 @@
 # Clean Hands Save Lives
 
-</head><body><div id="bookshop_maintext">An initiation to an economy of peace
+An initiation to an economy of peace
 ------------------------------------
 
 ##### [Browse](https://app.box.com/s/mpzzpm77g7pyxjiwrsdj)
 
-##### <div id="librairies">
+##### 
 
 ##### **ebook 4.99£** : [ Amazon.co.uk](http://www.amazon.co.uk/dp/B00JI2W9LE), [ Amazon.fr](http://www.amazon.fr/dp/B00JI2W9LE), [ Apple.co.uk](https://itunes.apple.com/gb/book/clean-hands-save-lives/id856893531), [ Apple.fr](https://itunes.apple.com/fr/book/clean-hands-save-lives/id856893531), [ePagine.fr](http://www.epagine.fr/9782919358359-clean-hands-save-lives-thierry-crouzet/), [ Feedbooks](http://fr.feedbooks.com/item/759990/clean-hands-save-lives), [ Fnac.fr](http://www4.fnac.com/livre-numerique/a7117059/Thierry-Crouzet-Clean-Hands-Save-Lives#FORMAT=ePub), [ Immateriel.fr](http://librairie.immateriel.fr/fr/ebook/9782919358359/clean-hands-save-lives), [ Kobo](http://store.kobobooks.com/en-US/ebook/clean-hands-save-lives), [ Amazon.ca](http://www.amazon.ca/Clean-Hands-Lives-Thierry-Crouzet-ebook/dp/B00JI2W9LE/), [ Amazon.com](http://www.amazon.com/dp/B00JI2W9LE).
 
 ##### **paper 8.97£** : [Amazon.co.uk](http://www.amazon.co.uk/Clean-Hands-Lives-Thierry-Crouzet/dp/1499147775/), [Barnes and Noble](http://www.barnesandnoble.com/w/clean-hands-save-lives-thierry-crouzet/1119283722?ean=9781499147773), [Amazon.com](http://www.amazon.com/Clean-Hands-Lives-Thierry-Crouzet/dp/1499147775/), [BAM](http://www.booksamillion.com/p/Clean-Hands-Save-Lives/Thierry-Crouzet/9781499147773?id=5986644280260), [CreateSpace](https://www.createspace.com/4761117), [Amazon.ca](http://www.amazon.ca/Clean-Hands-Save-Lives/dp/1499147775/).
 
-</div>
 
-</div>You may not know it, but an innovation has made our world a better place. The use of alcohol-based handrubs protects us from infectious diseases and saves millions of lives each year through safer health care.
+
+You may not know it, but an innovation has made our world a better place. The use of alcohol-based handrubs protects us from infectious diseases and saves millions of lives each year through safer health care.
 
 Here is the story of this revolutionary formulation, made available without patent and offered as a gift to humanity by Professor Didier Pittet and his team at Hôpitaux Universitaires de Genève (HUG). From bush doctors to giant pharmaceutical corporations, everyone can now produce effective handrubs, cheaply and easily.
 

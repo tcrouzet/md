@@ -13,13 +13,13 @@
 6. 29/10/2012, Le Firago, [Se recentrer pour vivre mieux](http://sante.lefigaro.fr/actualite/2012/10/30/19373-se-recentrer-pour-vivre-mieux), Pascale Senk.
 7. 13/9/2012, Europe 1, DCDC (j'ai peu parlé mais commentaire de l'étude Havas sur la déconnexion)
 
-<audio controls="controls"><source src="https://tcrouzet.com/images_tc/2011/12/dcdc.mp3" type="audio/mp3"></source>Votre navigateur ne supporte pas la balise AUDIO.</audio>
-<span style="font-size:0.7em">[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/dcdc.mp3) | [podcast](</tag/Europe 1 DCDC/podcast>) | [itune](<itpc://tcrouzet.com/tag/Europe 1 DCDC/podcast>)</span>
+Votre navigateur ne supporte pas la balise AUDIO.
+[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/dcdc.mp3) | [podcast]() | [itune]()
 
 10. 11/9/2012, France Info, [Petite cure de désintoxication d'internet](http://www.franceinfo.fr/societe/dossier-du-jour/petite-cure-de-desintoxication-d-internet-735385-2012-09-11), Étienne Monin et Catherine Pottier
 
-<audio controls="controls"><source src="https://tcrouzet.com/images_tc/2011/12/fi_201209.mp3" type="audio/mp3"></source>Votre navigateur ne supporte pas la balise AUDIO.</audio>
-<span style="font-size:0.7em">[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/fi_201209.mp3) | [podcast](</tag/France Info/podcast>) | [itune](<itpc://tcrouzet.com/tag/France Info/podcast>)</span>
+Votre navigateur ne supporte pas la balise AUDIO.
+[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/fi_201209.mp3) | [podcast]() | [itune]()
 
 13. 11/9/2012, Le Parisien, [Internet, ça suffit!](http://www.leparisien.fr/loisirs-et-spectacles/internet-ca-suffit-11-09-2012-2159655.php), Hélène Bry
 
@@ -65,8 +65,8 @@
 
 34. 20/2/2012, 3615, [Et si le luxe c'était la déconnection](http://soundcloud.com/3615-emission/3615-et-si-le-luxe-c-tait-la-d), Laurent Haug
 
-<audio controls="controls"><source src="https://tcrouzet.com/images_tc/2011/12/laurenthaug_3615.mp3" type="audio/mp3"></source>Votre navigateur ne supporte pas la balise AUDIO.</audio>
-<span style="font-size:0.7em">[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/laurenthaug_3615.mp3) | [podcast](/tag/laurenthaug_3615/podcast) | [itune](itpc://tcrouzet.com/tag/laurenthaug_3615/podcast)</span>
+Votre navigateur ne supporte pas la balise AUDIO.
+[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/laurenthaug_3615.mp3) | [podcast](/tag/laurenthaug_3615/podcast) | [itune](itpc://tcrouzet.com/tag/laurenthaug_3615/podcast)
 
 37. 19/2/2012, blog, [Décrochage ou simple pause numérique ?](http://www.maubon.info/2012/02/decrochage-ou-simple-pause-numerique), Grégory Maubon
  
@@ -87,10 +87,10 @@
 
 45. 8/2/2012, RSR, Médialogie
 
-Partie 1 <audio controls="controls"><source src="https://tcrouzet.com/images_tc/2011/12/rsr1.mp3" type="audio/mp3"></source>Votre navigateur ne supporte pas la balise AUDIO.</audio>
-<span style="font-size:0.7em">[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/rsr1.mp3) | [podcast](</tag/RSR partie 1/podcast>) | [itune](<itpc://tcrouzet.com/tag/RSR partie 1/podcast>)</span>
-Partie 2 <audio controls="controls"><source src="https://tcrouzet.com/images_tc/2011/12/rsr2.mp3" type="audio/mp3"></source>Votre navigateur ne supporte pas la balise AUDIO.</audio>
-<span style="font-size:0.7em">[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/rsr2.mp3) | [podcast](</tag/RSR partie 2/podcast>) | [itune](<itpc://tcrouzet.com/tag/RSR partie 2/podcast>)</span>
+Partie 1 Votre navigateur ne supporte pas la balise AUDIO.
+[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/rsr1.mp3) | [podcast]() | [itune]()
+Partie 2 Votre navigateur ne supporte pas la balise AUDIO.
+[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/rsr2.mp3) | [podcast]() | [itune]()
 
 52. 7/2/2012, M6, 12-45
 
@@ -102,8 +102,8 @@ Partie 2 <audio controls="controls"><source src="https://tcrouzet.com/images_tc/
 
 56. 7/2/2012, RTL, [Le Choix d'Yves Calvi](http://www.rtl.fr/actualites/article/thierry-crouzet-j-ai-fait-un-burn-out-numerique-7743231401)
 
-<audio controls="controls"><source src="https://tcrouzet.com/images_tc/2011/12/rtl_calvi.mp3" type="audio/mp3"></source>Votre navigateur ne supporte pas la balise AUDIO.</audio>
-<span style="font-size:0.7em">[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/rtl_calvi.mp3) | [podcast](/tag/rtl_calvi/podcast) | [itune](itpc://tcrouzet.com/tag/rtl_calvi/podcast)</span>
+Votre navigateur ne supporte pas la balise AUDIO.
+[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/rtl_calvi.mp3) | [podcast](/tag/rtl_calvi/podcast) | [itune](itpc://tcrouzet.com/tag/rtl_calvi/podcast)
 
 59. 6/2/2012, Le Dauphiné et Vaucluse Matin, [Thierry Crouzet a décroché après une “overdose numérique”](http://www.ledauphine.com/france-monde/2012/02/06/thierry-crouzet-a-decroche-apres-une-overdose-numerique) ([PDF](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2011/12/nouvellestechno.pdf)), Clémence Lena
 
@@ -154,8 +154,8 @@ Partie 2 <audio controls="controls"><source src="https://tcrouzet.com/images_tc/
 
 83. 22/1/2012, RTBF, [Grand Huit](http://www.rtbf.be/info/medias/detail_j-ai-debranche-six-mois-sans-internet-apres-une-overdose-numerique?id=7433163) avec Pascal Claude
 
-<audio controls="controls"><source src="https://tcrouzet.com/images_tc/2011/12/gr8.mp3" type="audio/mp3"></source>Votre navigateur ne supporte pas la balise AUDIO.</audio>
-<span style="font-size:0.7em">[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/gr8.mp3) | [podcast](/tag/gr8/podcast) | [itune](itpc://tcrouzet.com/tag/gr8/podcast)</span>
+Votre navigateur ne supporte pas la balise AUDIO.
+[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/gr8.mp3) | [podcast](/tag/gr8/podcast) | [itune](itpc://tcrouzet.com/tag/gr8/podcast)
 
 86. 21/1/2012, Le Monde, [Le retour du débranché](http://www.lemonde.fr/actualite-medias/article/2012/01/23/thierry-crouzet-le-retour-du-debranche_1632794_3236.html) par Olivier Zilbertin ([image](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2011/12/lemonde.jpg) | [PDF](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2011/12/Le-Monde.pdf))
 
@@ -183,8 +183,8 @@ Partie 2 <audio controls="controls"><source src="https://tcrouzet.com/images_tc/
 
 98. 18/1/2012, Radio Suisse Romande avec Natacha Van Cutsem
 
-<audio controls="controls"><source src="/Le 12h30 RSR" type="audio/mp3"></source>Votre navigateur ne supporte pas la balise AUDIO.</audio>
-<span style="font-size:0.7em">[Téléchargez le fichier](</Le 12h30 RSR>)</span>
+Votre navigateur ne supporte pas la balise AUDIO.
+[Téléchargez le fichier]()
 
 101. 18/1/2012, blog, [Crouzet (nous) rebranche](http://www.tierslivre.net/spip/spip.php?article2772), François Bon
 
@@ -229,24 +229,24 @@ Partie 2 <audio controls="controls"><source src="https://tcrouzet.com/images_tc/
 
 121. 11/1/2012, France Info, [12-14 avec Bernard Thomasson](http://bernardthomasson.com/2012/01/12/debrancher-du-net/)
 
-<audio controls="controls"><source src="https://tcrouzet.com/images_tc/2011/12/franceinfo.mp3" type="audio/mp3"></source>Votre navigateur ne supporte pas la balise AUDIO.</audio>
-<span style="font-size:0.7em">[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/franceinfo.mp3) | [podcast](</tag/France Info avec Bernard Thomasson/podcast>) | [itune](<itpc://tcrouzet.com/tag/France Info avec Bernard Thomasson/podcast>)</span>
+Votre navigateur ne supporte pas la balise AUDIO.
+[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/franceinfo.mp3) | [podcast]() | [itune]()
 
 124. 11/1/2012, blog, [« J’ai débranché », de Thierry Crouzet, ou comment rompre avec l’animisme numérique](http://carnetsdoutreweb.blog.lemonde.fr/2012/01/11/j%E2%80%99ai-debranche-de-thierry-crouzet-ou-comment-rompre-avec-l%E2%80%99animisme-numerique/), Laurent Margantin
 
 125. 10/1/2012, France Inter, [Comme on nous parle](http://www.franceinter.fr/player/reecouter?play=255985), Pascale Clark
 
-<audio controls="controls"><source src="https://tcrouzet.com/images_tc/2011/12/clark.mp3" type="audio/mp3"></source>Votre navigateur ne supporte pas la balise AUDIO.</audio>
-<span style="font-size:0.7em">[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/clark.mp3) | [podcast](</tag/Pacale Clark sur France Inter 10/01/2012/podcast>) | [itune](<itpc://tcrouzet.com/tag/Pacale Clark sur France Inter 10/01/2012/podcast>)</span>
+Votre navigateur ne supporte pas la balise AUDIO.
+[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/clark.mp3) | [podcast]() | [itune]()
 
 128. 10/1/2012, Le Parisien, [Débrancher du Net fait du bien](http://www.leparisien.fr/societe/video-debrancher-du-net-fait-du-bien-10-01-2012-1805333.php), par Alexandra Echkenazi (plus [Trois conseils pour débrancher](http://www.leparisien.fr/societe/internet-trois-conseils-pour-debrancher-10-01-2012-1805351.php)) [PDF](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2011/12/LeParisien.pdf)
 
-<div class="containerKplayer" style="position: relative;"><div class="kwg_pr" id="kwg_iLyROoafrKw8" name="kwg_iLyROoafrKw8"></div><div class="flash_kplayer" data-playerkey="c5dee71af0c3" data-sig="iLyROoafrKw8" id="flash_kplayer_iLyROoafrKw8" name="flash_kplayer" style="width:400px; height:300px;"></div></div>
+
 
 130. 10/1/2012, Le mouv', [La matinale avec Amaël Guitton](http://www.lemouv.fr/tag-thierry-crouzet)
 
-<audio controls="controls"><source src="https://tcrouzet.com/images_tc/2011/12/mouv.mp3" type="audio/mp3"></source>Votre navigateur ne supporte pas la balise AUDIO.</audio>
-<span style="font-size:0.7em">[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/mouv.mp3) | [podcast](</tag/La matinale du mouv/podcast>) | [itune](<itpc://tcrouzet.com/tag/La matinale du mouv/podcast>)</span>
+Votre navigateur ne supporte pas la balise AUDIO.
+[Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/mouv.mp3) | [podcast]() | [itune]()
 
 133. 10/1/2012, blog, [Peut-on survivre sans internet ?](http://www.ceriseclub.com/actualites/2012/01/10/12711/peut-on-survivre-sans-internet.html)
 

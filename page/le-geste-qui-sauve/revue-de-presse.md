@@ -1,6 +1,6 @@
 # Revue de presse
 
-<div class="smenu"><div class="menu-pittet-container">- [Home](/le-geste-qui-sauve/)
+- [Home](/le-geste-qui-sauve/)
 
 - [Blog](/tag/le-geste-qui-sauve/)
 
@@ -44,7 +44,7 @@
 
 ![](https://tcrouzet.com/images_tc/2017/11/it.png)
 
-</div></div>
+
 
 1. 16/8/2105, *DNA*, [L’opération mains propres du Dr Pittet](http://www.dna.fr/sante/2015/08/16/l-operation-mains-propres-du-dr-pittet) ([JPG](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/pressPittet.jpg)), Joël Carassio
 

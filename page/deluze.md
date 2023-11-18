@@ -1,15 +1,15 @@
 # L&#8217;Affaire Deluze
 
-</head><body><div id="bookshop_maintext">Sortie automne 2018
+Sortie automne 2018
 -------------------
 
-##### <div id="librairies">
+##### 
 
 ##### **papier 79.00 €** : [Cocote](https://fr.cocote.com/p/l-affaire-deluze-pack-ccc26ce186f17885a38ca72821120cb9c95), [Tric Trac](https://www.trictrac.net/jeu-de-societe/laffaire-deluze), [Troill2Jeux](https://www.troll2jeux.com/fantastique-horreur/10047830-laffaire-deluze-pack-9782374410562.html), [XII Singes](http://www.les12singes.com/dark-monkeys/180-l-affaire-deluze.html).
 
-</div>
 
-</div>![L'Affaire Deluze deluxe](https://tcrouzet.com/images_tc/2018/06/deluxe.jpg)
+
+![L'Affaire Deluze deluxe](https://tcrouzet.com/images_tc/2018/06/deluxe.jpg)
 
 ### Quatrième de couverture
 
@@ -21,11 +21,11 @@ Et vous avez peur. Tout pourrait recommencer.
 
 ![L'affaire Deluze - double page](https://tcrouzet.com/images_tc/2018/06/Pages-Deluze2.jpg)
 ![L'affaire Deluze - double page](https://tcrouzet.com/images_tc/2018/06/Pages-Deluze1.jpg)
-<?xml version="1.0" encoding="UTF-8"??>
+
 
 ### Table ronde sur L'affaire Deluze
 
-<video controls="" name="media"><source src="https://tcrouzet.com/images_tc/2018/06/Deluze-2018-06-12-21-00.mp3" type="audio/mpeg"></source></video>
+
 
 ### L’Affaire Deluze enfin publiée !
 

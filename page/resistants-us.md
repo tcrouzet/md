@@ -1,17 +1,17 @@
 # Resistants
 
-</head><body><div id="bookshop_maintext">When reality is frightening
+When reality is frightening
 ---------------------------
 
-##### <div id="librairies"></div>
+##### 
 
-</div>
-<?xml version="1.0" encoding="UTF-8"??>
+
+
 
 ### Presentation
 
-<div class="iframe" id="iframe0"></div>
-<div class="iframe" id="iframe1"></div>
+
+
 EVERYTHING IN THIS BOOK, EVEN THE MOST TERRIFYING PARTS, IS BASED ON SCIENCE.
 
 The passengers of a yacht are suddenly stricken by a super-bacterium, resistant to antibiotics. Except Katelyn, a young medical student. Why is she the only survivor?
@@ -21,7 +21,7 @@ Recruited by the Anti-Bioterrorism Center, she is assigned the mission of findin
 
 Novelist, essay writer, and blogger, Thierry Crouzet is fascinated by issues located at the nexus of technology, politics, and literature. His works in French include *Le Peuple des connecteurs* \[*The Connected People*\], a reflection on our networked society; *J’ai débranché* \[*How I Unplugged*\], a tale of digital burnout; and *La Quatrième Théorie* \[*The Fourth Theory*\] a thriller by tweets. His scientific account, *Clean Hands Save Lives*, has been translated in eighteen languages, winning him hundreds of thousands of readers across the world.
 
-<div class="iframe" id="iframe2"></div>
+
 
 ### Citations
 

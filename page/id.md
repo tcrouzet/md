@@ -1,18 +1,18 @@
 # J&#8217;ai eu l&#8217;idée
 
-</head><body><div id="bookshop_maintext">
+
 
 ##### [Extrait](tcrouzet.com/2012/09/04/ma-rentree-litteraire-2012/)
 
-##### <div id="librairies">
+##### 
 
 ##### **ebook 4.99 €** : [Amazon](https://www.amazon.fr/Jai-eu-lidée-Thierry-Crouzet-ebook/dp/B01JUNFRFA/), [Apple](https://itunes.apple.com/fr/book/id1141652516), [Kobo](https://store.kobobooks.com/fr-fr/ebook/j-ai-debranche-2).
 
 ##### **papier 9.99 €** : [Amazon](https://www.amazon.fr/Jai-eu-lidée-Thierry-Crouzet/dp/1536927740/), [CreateSpace](https://www.createspace.com/6478805).
 
-</div>
 
-</div>Thierry Crouzet a eu des idées, il les a collectionnées à la façon des « Je me souviens » de Perec. Comiques, politiques, philosophiques, intimistes…, elles racontent en filigrane notre époque.
+
+Thierry Crouzet a eu des idées, il les a collectionnées à la façon des « Je me souviens » de Perec. Comiques, politiques, philosophiques, intimistes…, elles racontent en filigrane notre époque.
 
 « Voici des idées qu’a eues Thierry Crouzet, et probablement pas une qui puisse nous laisser indemne, même si on rit, même si – vous verrez – il s’effectue après lire d’étranges contagions… » François Bon
 
@@ -20,7 +20,7 @@
 
 « Du sérieux, du pro­fond, du léger, du comique… » Henri Alberti
 
-<?xml version="1.0" encoding="UTF-8"??>
+
 
 ### Présentation
 

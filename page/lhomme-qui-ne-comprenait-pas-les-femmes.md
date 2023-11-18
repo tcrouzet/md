@@ -1,17 +1,17 @@
 # L&#8217;homme qui ne comprenait pas les femmes
 
-<div id="bookshop_maintext">Sortie le 9 mai 2019
+Sortie le 9 mai 2019
 --------------------
 
-##### <div id="librairies">
+##### 
 
 ##### **papier 18.00 €** : [Amazon](https://www.amazon.fr/Lhomme-qui-comprenait-pas-femmes/dp/2818966973/), [Cultura](https://www.cultura.com/l-homme-qui-ne-comprenait-pas-les-femmes-9782818966976.html), [Decitre](https://www.decitre.fr/livres/l-homme-qui-ne-comprenait-pas-les-femmes-9782818966976.html), [Fnac](https://livre.fnac.com/a13310633/Thierry-Crouzet-L-homme-qui-ne-comprenait-pas-les-femmes), [Furet du Nord](https://www.furet.com/fr/l-homme-qui-ne-comprenait-pas-les-femmes-3100805.html), [Initiales](https://www.initiales.org/livre/15283699-l-homme-qui-ne-comprenait-pas-les-femmes-thierry-crouzet-bamboo), [Les Libraires](https://www.leslibraires.fr/livre/15283699-l-homme-qui-ne-comprenait-pas-les-femmes-thierry-crouzet-bamboo), [Librest](https://www.librest.com/livres/l-homme-qui-ne-comprenait-pas-les-femmes-thierry-crouzet_0-5740674_9782818966976.html?ctx=4240321557a8e747cf5932c38b2beb41), [Mollat](https://www.mollat.com/livres/2327604/thierry-crouzet-l-homme-qui-ne-comprenait-pas-les-femmes), [Sauramps](https://www.sauramps.com/livre/9782818966976-l-homme-qui-ne-comprenait-pas-les-femmes-thierry-crouzet/).
 
-</div>
 
-</div>J'espère que ma femme ne lira jamais ce journal. J'ai décidé d'y témoigner en toute franchise de mes tourments de quinqua. Tout au long de la quarantaine, j'ai cru que le démon de midi finirait par me frapper, mais rien. Je suis un homme tellement fidèle que c'est à pleurer d'ennui, surtout pour un écrivain. Qu'est-ce que je peux bien écrire d'original si je mène une vie ordinaire ? En ce premier jour de l'année, j'ai pris la résolution de tromper ma femme. J'ai besoin d'accumuler des expériences et des sorties de route pour enfin écrire mon best-seller.
 
-<?xml version="1.0" encoding="UTF-8"??>
+J'espère que ma femme ne lira jamais ce journal. J'ai décidé d'y témoigner en toute franchise de mes tourments de quinqua. Tout au long de la quarantaine, j'ai cru que le démon de midi finirait par me frapper, mais rien. Je suis un homme tellement fidèle que c'est à pleurer d'ennui, surtout pour un écrivain. Qu'est-ce que je peux bien écrire d'original si je mène une vie ordinaire ? En ce premier jour de l'année, j'ai pris la résolution de tromper ma femme. J'ai besoin d'accumuler des expériences et des sorties de route pour enfin écrire mon best-seller.
+
+
 
 ### Trois questions
 

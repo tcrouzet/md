@@ -1,21 +1,21 @@
 # La mécanique du texte
 
-</head><body><div id="bookshop_maintext">
 
-##### <div id="librairies">
+
+##### 
 
 ##### **ebook 4.99 €** : [Amazon](https://www.amazon.fr/mécanique-du-texte-Thierry-Crouzet-ebook/dp/B01JELYTWU/), [Apple](https://itunes.apple.com/fr/book/id1139557953), [Google](https://play.google.com/store/search?q=9782919358250&c=books), [Kobo](https://store.kobobooks.com/fr-fr/ebook/la-mecanique-du-texte-1).
 
 ##### **papier 9.99 €** : [Amazon](https://www.amazon.fr/mécanique-du-texte-Thierry-Crouzet/dp/1536805130/), [CreateSpace](https://www.createspace.com/6463170).
 
-</div>
 
-</div>
-<?xml version="1.0" encoding="UTF-8"??>
+
+
+
 
 ### Chronique sur la RTBF
 
-<div class="iframe" id="iframe0"></div>
+
 
 ### Présentation
 

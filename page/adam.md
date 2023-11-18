@@ -56,9 +56,3 @@ En deux mille ans de bourlingue, elle n’a découvert que des vestiges de races
 Au sol, Wagner se détourne de sa lunette. Clara devine sa peur, mais, malgré sa phénoménale puissance de calcul, elle n’a pas le temps d’approfondir son analyse. Non loin de la lune principale d’Éden, trois vaisseaux de croisière émergent en même temps de l’hyperespace. Ces navires n’ont pas l’autorisation d’entrer dans le système, pourtant les voilà qui mettent le cap sur la planète protégée.
 
 Recevez par mail les nouveaux chapitres ou [lisez sur Wattpad](http://my.w.tt/UiNb/PnbtfTA1YC).
-
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css"></link>
-
-<div id="mc_embed_signup">
-
-</div>

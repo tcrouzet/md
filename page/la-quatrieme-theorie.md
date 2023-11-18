@@ -1,6 +1,6 @@
 # La quatrième théorie
 
-<div class="smenu"><div class="menu-quat-container">- [**La quatrième théorie**](/la-quatrieme-theorie/)
+- [**La quatrième théorie**](/la-quatrieme-theorie/)
 
 - [Extraits](/2013/03/21/la-quatrieme-theorie-extraits-gratuits/)
 
@@ -12,34 +12,34 @@
 
 - [Blog](/tag/twiller/)
 
-</div></div>
-<div id="bookshop_maintext">Un James Bond débridé
+
+Un James Bond débridé
 ---------------------
 
 ##### [Extrait](/2013/03/21/la-quatrieme-theorie-extraits-gratuits/)
 
-##### <div id="librairies">
+##### 
 
 ##### **ebook 14.99 €** : [ Amazon](http://www.amazon.fr/La-quatrième-théorie-ebook/dp/B00BXF7CJ8), [ Apple](https://itunes.apple.com/fr/book/la-quatrieme-theorie/id623788042), [ Citebd](http://numerique.librairie.citebd.org/9782213676418-la-quatrieme-theorie-thierry-crouzet/), [ ePagine](http://www.epagine.fr/9782213676418-la-quatrieme-theorie-thierry-crouzet/), [ Google](https://play.google.com/store/books/details/Thierry_Crouzet_La_quatri%C3%A8me_th%C3%A9orie?id=TxZ7aoyDAsgC), [ La Bailleuloise](http://numerique.la-bailleuloise.fr/9782213676418-la-quatrieme-theorie-thierry-crouzet/), [ Librairie Kleber](http://numerique.librairie-kleber.com/9782213676418-la-quatrieme-theorie-thierry-crouzet/).
 
 ##### **papier 19.00 €** : [ Amazon](http://www.amazon.fr/La-Quatri%C3%A8me-Theorie-Crouzet-T/dp/2213672342), [ Decitre](http://www.decitre.fr/livres/la-quatrieme-theorie-9782213672342.html), [ Dialogues](http://www.librairiedialogues.fr/livre/3789453-la-quatrieme-theorie-thierry-crouzet-fayard), [ Fnac](http://livre.fnac.com/a5251213/Thierry-Crouzet-La-quatrieme-theorie), [ La Procure](http://www.laprocure.com/quatrieme-theorie-thriller-thierry-crouzet/9782213672342.html), [ Rue du Commerce](http://www.rueducommerce.fr/m/ps/mpid:MP-91F4EM10804956), [ Sauramps](http://www.sauramps.com/la-quatrieme-theorie-2660820.html), [ Cultura](http://www.cultura.com/livre/policier/thierry-crouzet,la-quatri%C3%A8me-th%C3%A9orie,4752714.prd), [ Gibert](http://www.gibertjoseph.com/la-quatrieme-theorie-4910984.html), [ Lalibrairie.com](http://www.lalibrairie.com/tous-les-livres/la-quatrieme-theorie-thierry-crouzet-9782213672342.html), [ Librest](http://www.librest.com/tous-les-livres/la-quatrieme-theorie,1563512-0.html?auteur=Thierry), [ L'arbre à lettres](http://www.arbrealettres.com/9782213672342-la-quatrieme-theorie-thierry-crouzet/), [ Paris Librairies](http://www.parislibrairies.fr/detaillivre.php?gencod=9782213672342), [ Vivement Dimanche](http://www.vivementdimanche.com/9782213672342-la-quatrieme-theorie-thierry-crouzet/).
 
-</div>
 
-</div>
-<?xml version="1.0" encoding="UTF-8"??>
+
+
+
 
 ### Bande annonce
 
-<div class="iframe" id="iframe0"></div>
+
 
 ### Générique
 
-<div class="iframe" id="iframe1"></div>
+
 
 ### Les quatre théories
 
-<div class="iframe" id="iframe2"></div>
+
 
 ### Quatrième de couverture
 

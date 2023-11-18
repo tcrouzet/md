@@ -1,17 +1,17 @@
 # Baby-foot
 
-</head><body><div id="bookshop_maintext">Et autres récits
+Et autres récits
 ----------------
 
-##### <div id="librairies">
+##### 
 
 ##### **ebook 2.99 €** : [Amazon](https://www.amazon.fr/Baby-Foot-autres-Thierry-Crouzet-ebook/dp/B00I05OX8W/), [Apple](https://itunes.apple.com/fr/book/id805519374), [Kobo](https://store.kobobooks.com/fr-fr/ebook/baby-foot-3).
 
 ##### **papier 5.99 €** : [Amazon](https://www.amazon.fr/Baby-Foot-Thierry-Crouzet/dp/1537583646/), [CreateSpace](https://www.createspace.com/6562650).
 
-</div>
 
-</div>« Les jeux vidéo et jeux en réseau auront-ils raison des derniers survivants de ces monstres lourds ? Pas si sûr. Pour ceux de notre génération, un processus de défi et d'initiation. Une symbolique sociale, à commencer par les lieux où on les trouvait. C'est l'exercice auquel se livre ici, en funambule ou virtuose, Thierry Crouzet. Mais attention : sur fond de transmission et d'héritage, et d'initiation adolescente. On poserait presque à notre tour sa pièce de 50 centimes dans le cendrier, pour une partie avec lui. Partie de texte, tout simplement. » François Bon
+
+« Les jeux vidéo et jeux en réseau auront-ils raison des derniers survivants de ces monstres lourds ? Pas si sûr. Pour ceux de notre génération, un processus de défi et d'initiation. Une symbolique sociale, à commencer par les lieux où on les trouvait. C'est l'exercice auquel se livre ici, en funambule ou virtuose, Thierry Crouzet. Mais attention : sur fond de transmission et d'héritage, et d'initiation adolescente. On poserait presque à notre tour sa pièce de 50 centimes dans le cendrier, pour une partie avec lui. Partie de texte, tout simplement. » François Bon
 
 Suivi de trois autres récits :
 
@@ -21,7 +21,7 @@ Suivi de trois autres récits :
 
 - Les Vans, 1994
 
-<?xml version="1.0" encoding="UTF-8"??>
+
 
 ### Les confins du monde
 

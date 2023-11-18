@@ -1,8 +1,8 @@
 # The connecting people
 
-Born after 1960, the [<font color="#fe9103">connectors</font>](http://blog.tcrouzet.com/connecteurs/qcm.php) are the first true computer users. They grew up and live in a technological environment radically different from their elders'. They belong to an international social network in which they constantly make new connections. Belonging to a global network radically transform their vision of the world and of society. Silently, with no political demonstration, they are turning all established codes of conduct upside down. They belief that our society is based on inadequate foundations derives from recent scientific discoveries. What's a Republic but a disguised monarchy? What's State Education other than a cloning machine? What's Justice but a system of laws designed to reduce people's freedom? Why obey a centralised authority when the network demonstrates self-organization on a daily basis without a boss?
+Born after 1960, the [connectors](http://blog.tcrouzet.com/connecteurs/qcm.php) are the first true computer users. They grew up and live in a technological environment radically different from their elders'. They belong to an international social network in which they constantly make new connections. Belonging to a global network radically transform their vision of the world and of society. Silently, with no political demonstration, they are turning all established codes of conduct upside down. They belief that our society is based on inadequate foundations derives from recent scientific discoveries. What's a Republic but a disguised monarchy? What's State Education other than a cloning machine? What's Justice but a system of laws designed to reduce people's freedom? Why obey a centralised authority when the network demonstrates self-organization on a daily basis without a boss?
 
-Thierry Crouzet is a [<font color="#fe9103">connector</font>](http://blog.tcrouzet.com/connecteurs/connecteur.php). One of the first French Internet specialist, he is the author of about thirty reference books on web usage. In his new book, a documentary and an essay full to the brim of scientists portraits, simple explanations for recent scientific and technological discoveries, and of philosophical considerations, he describes an historical phenomenon which we are all experiencing without always internalizing it: the emergence of a new way to organize the world.
+Thierry Crouzet is a [connector](http://blog.tcrouzet.com/connecteurs/connecteur.php). One of the first French Internet specialist, he is the author of about thirty reference books on web usage. In his new book, a documentary and an essay full to the brim of scientists portraits, simple explanations for recent scientific and technological discoveries, and of philosophical considerations, he describes an historical phenomenon which we are all experiencing without always internalizing it: the emergence of a new way to organize the world.
 
 **Strengths**
 
@@ -10,11 +10,11 @@ New and radical thinking. A turning point in discussions of political impact of 
 
 **Audience**
 
-Anyone interested in new technologies and most specifically [<font color="#fe9103">connectors</font>](http://blog.tcrouzet.com/connecteurs/connecteur.php) across the world.
+Anyone interested in new technologies and most specifically [connectors](http://blog.tcrouzet.com/connecteurs/connecteur.php) across the world.
 
 **Description**
 
-Editor : [<font color="#fe9103">Bourin Éditeur</font>](http://www.bourin-editeur.com/)
+Editor : [Bourin Éditeur](http://www.bourin-editeur.com/)
 
 Genre : essay/documentary
 

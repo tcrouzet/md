@@ -1,19 +1,19 @@
 # Bit, Sex and Bug
 
-</head><body><div id="bookshop_maintext">« *Bit, Sex and Bug*, c’est une histoire à tourner la page avant même qu'elle finisse, c’est des aventures, des personnages – et surtout un projet. » François Bon
+« *Bit, Sex and Bug*, c’est une histoire à tourner la page avant même qu'elle finisse, c’est des aventures, des personnages – et surtout un projet. » François Bon
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-##### <div id="librairies">
+##### 
 
-##### **ebook gratuit** : <a href="" target="_blank">Extraits ebook</a>.
+##### **ebook gratuit** : Extraits ebook.
 
 ##### **ebook 3.49 €** : [ebook](http://www.publie.net/fr/ebook/9782814504158/bit-sex-bug).
 
 ##### **papier 2.99 €** : [Amazon](http://www.amazon.fr/Bit-sex-bug-informatique-ebook/dp/B0057X9J1G/), [Amazon](http://www.amazon.fr/Bit-sex-bug-informatique-ebook/dp/B0057X9J1G/), [epagine.fr](http://www.epagine.fr/9782814504158-bit-sex-bug-thierry-crouzet/), [immateriel.fr](http://librairie.immateriel.fr/fr/ebook/9782814504158/bit-sex-bug), [publie.net](http://www.publie.net/fr/ebook/9782814504158/bit-sex-bug), [chez lulu](http://www.lulu.com/product/couverture-souple/bit-sex-and-bug/14694339), [chez lulu](http://www.lulu.com/product/couverture-souple/bit-sex-and-bug/14694339).
 
-</div>
 
-</div>Avez-vous déjà eu peur du Sida ? Avez-vous songé que le virus HIV pouvait vous assassiner ? Pour Michel, il est trop tard. Julien entend le venger. Il va poursuivre le tueur jusqu’au bout du monde.
+
+Avez-vous déjà eu peur du Sida ? Avez-vous songé que le virus HIV pouvait vous assassiner ? Pour Michel, il est trop tard. Julien entend le venger. Il va poursuivre le tueur jusqu’au bout du monde.
 
 ### Fiche produit
 

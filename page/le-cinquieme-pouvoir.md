@@ -1,13 +1,13 @@
 # Le cinquième pouvoir
 
-</head><body><div id="bookshop_maintext">Prémonitoire du printemps arabe
+Prémonitoire du printemps arabe
 -------------------------------
 
 ##### [Extrait](/le-cinquieme-pouvoir/extraits/)
 
-##### <div id="librairies"></div>
+##### 
 
-</div>Thierry Crouzet analyse l’émergence d’internet comme [cinquième pouvoir](http://blog.tcrouzet.com/definitions/).
+Thierry Crouzet analyse l’émergence d’internet comme [cinquième pouvoir](http://blog.tcrouzet.com/definitions/).
 
 Les Français auraient déserté la politique.
 La démocratie serait en crise.

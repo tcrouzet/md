@@ -1,6 +1,6 @@
 # Communiqué de presse
 
-<div class="smenu"><div class="menu-pittet-container">- [Home](/le-geste-qui-sauve/)
+- [Home](/le-geste-qui-sauve/)
 
 - [Blog](/tag/le-geste-qui-sauve/)
 
@@ -44,7 +44,7 @@
 
 ![](https://tcrouzet.com/images_tc/2017/11/it.png)
 
-</div></div>
+
 
 [In English](/le-geste-qui-sauve/cp_us/)
 

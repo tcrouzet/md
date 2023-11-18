@@ -1,20 +1,20 @@
 # Une initiation au bikepacking
 
-</head><body><div id="bookshop_maintext">Le voyage à vélo ultraléger
+Le voyage à vélo ultraléger
 ---------------------------
 
 ##### [Extrait](https://tw5.immateriel.fr/wiki/7switch/book/aHR0cHM6Ly9jYXRhbG9ndWUuaW1tYXRlcmllbC5mci9yZXNvdXJjZXMvYzIvOWQvMzAzOGI0Njk1MmM5Y2JhNzg4ZThlMTY5MzcyMC5lcHVi)
 
-##### <div id="librairies">
+##### 
 
 ##### **ebook 9.99 €** : [7switch](https://www.7switch.com/fr/ebook/9782919358236/une-initiation-au-bikepacking), [Amazon](https://www.amazon.fr/dp/B082ZR864P/), [Apple](https://books.apple.com/fr/book/une-initiation-au-bikepacking/id1492631401), [Bookeen](https://www.bookeenstore.com/ebook/9782919358236/une-initiation-au-bikepacking-thierry-crouzet), [Cultura](https://www.cultura.com/une-initiation-au-bikepacking-tea-9782919358236.html), [Feedbooks](http://fr.feedbooks.com/item/3248779/une-initiation-au-bikepacking), [GooglePlay](https://play.google.com/store/books/details/Thierry_Crouzet_Une_initiation_au_bikepacking?id=6SfGDwAAQBAJ), [Kobo](https://www.kobo.com/fr/fr/ebook/une-initiation-au-bikepacking).
 
 ##### **papier 18.99 €** : [Amazon](https://www.amazon.fr/dp/167615681X?ref_=pe_3052080_397514860).
 
-</div>
 
-</div>
-<?xml version="1.0" encoding="UTF-8"??>
+
+
+
 
 ### Présentation
 

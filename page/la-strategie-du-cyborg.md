@@ -1,24 +1,24 @@
 # La stratégie du cyborg
 
-</head><body><div id="bookshop_maintext">
 
-##### <div id="librairies">
+
+##### 
 
 ##### **ebook 3.99 €** : [Amazon](https://www.amazon.fr/dp/B00QK3PYXY), [Apple](https://itunes.apple.com/fr/book/id948163040), [Google](https://play.google.com/store/search?q=9782919358298&c=books), [Kobo](https://store.kobobooks.com/fr-fr/ebook/l-edition-interdite-2).
 
 ##### **papier 9.99 €** : [Amazon](https://www.amazon.fr/stratégie-du-cyborg-Thierry-Crouzet/dp/1537130536/), [CreateSpace](https://www.createspace.com/6504745).
 
-</div>
 
-</div>La stratégie du cyborg consiste à s’unir à d’autres que soi pour grandir en soi. Un cyborg ne peut qu’être social. Il occupe le nœud d’un réseau relationnel qui unit êtres vivants et artéfacts. Ce texte présente cette stratégie et l'illustre dans la pratique de l'écriture numérique.
+
+La stratégie du cyborg consiste à s’unir à d’autres que soi pour grandir en soi. Un cyborg ne peut qu’être social. Il occupe le nœud d’un réseau relationnel qui unit êtres vivants et artéfacts. Ce texte présente cette stratégie et l'illustre dans la pratique de l'écriture numérique.
 
 Dans une seconde partie, la stratégie est mise en œuvre pour évoquer les éditions interdites, soit tous ces textes qui, par le passé, n’avaient pas droit à l’existence publique. Je montre que le passage d’une censure qui venait d’en haut, celles des États, des églises ou des éditeurs, à une autocensure qui vient des auteurs eux-mêmes entraînera un changement éthique dans la société.
 
 Ont collaboré, par ordre d’apparition, [Hubert Guillaud](http://lafeuille.blog.lemonde.fr/), [Jeanne Argall](http://jeanneargall.owni.fr/), [Sam Dixneuf](http://twitter.com/Heraclite), [Nicolas Ancion](http://www.nicolasancion.com/), [Jeanlou Bourgeon](http://entrenoussoidit.blogspot.com/) et bien sûr [Isabelle Crouzet](http://www.roquerols.fr/).
 
-<?xml version="1.0" encoding="UTF-8"??>
 
-### <a name="press"></a>Ils en parlent
+
+### Ils en parlent
 
 - [Thierry Crouzet, libre penseur de l’Internet littéraire](http://oeuvresouvertes.net/spip.php?article909), Laurent Margantin
 

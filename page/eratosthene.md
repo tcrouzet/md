@@ -1,6 +1,6 @@
 # Ératosthène
 
-<div class="smenu"><div class="menu-beta-container">- [Ératosthène](/eratosthene/)
+- [Ératosthène](/eratosthene/)
 
 - [Extraits](/2014/07/10/eratosthene-extraits/)
 
@@ -12,21 +12,21 @@
 
 - [Blog](/tag/eratosthene/)
 
-</div></div>
-<div id="bookshop_maintext">L'avenir a un long passé
+
+L'avenir a un long passé
 ------------------------
 
 ##### [Extrait](/2014/07/10/eratosthene-extraits/)
 
-##### <div id="librairies">
+##### 
 
 ##### **ebook 6.99 €** : [Amazon](http://www.amazon.fr/dp/B00LJCENJW), [Apple](https://itunes.apple.com/fr/book/id896262786), [Didactibook](http://www.didactibook.com/produit/146397/9782919358311/Eratosthene), [ePagine](http://www.epagine.fr/ebook/9782919358311-erastothene-thierry-crouzet/), [Feedbooks](http://fr.feedbooks.com/item/813914/ratosth%C3%A8ne), [Immateriel.fr](http://librairie.immateriel.fr/fr/ebook/9782825144312/eratosthene), [Kobo](http://store.kobobooks.com/fr-FR/ebook/eratosthene), [Mollat](http://numerique.mollat.com/ebook/9782919358311-erastothene-thierry-crouzet/), [Amazon CA](http://www.amazon.ca/ratosth-ne-Roman-Thierry-Crouzet-ebook/dp/B00LJCENJW/), [Archambault](http://www.archambault.ca/eratosthene-JLI15428398-fr-pr).
 
 ##### **papier 15.99 €** : [Amazon](https://www.amazon.fr/Ératosthène-Thierry-Crouzet/dp/1536860778/), [CreateSpace](https://www.createspace.com/6470073).
 
-</div>
 
-</div>
+
+
 
 ### Présentation
 
@@ -34,7 +34,7 @@ Au III<sup>e</sup> siècle av. J-C, Ératosthène a inventé la géographie et m
 
 Ératosthène a cherché le bonheur dans un temps de grands bouleversements, siège d’inventions révolutionnaires et d’une barbarie sans nom. Toute ressemblance avec notre époque n’est pas involontaire. Cet homme de l’Antiquité nous initie à notre modernité.
 
-<?xml version="1.0" encoding="UTF-8"??>
+
 
 ### Un roman protéiforme
 

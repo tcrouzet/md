@@ -1,16 +1,16 @@
 # Les Silencieux
 
-</head><body><div id="bookshop_maintext">
 
-##### <div id="librairies"></div>
 
-</div>Ce roman noir se déroule au début des années 1970 dans une ville portuaire du Midi. Le héros se souvient de ses douze ans quand il a redoublé sa sixième dans un établissement privé. Il nous raconte comment sa vie a basculé lorsqu’une pionne s’est éprise de lui.
+##### 
+
+Ce roman noir se déroule au début des années 1970 dans une ville portuaire du Midi. Le héros se souvient de ses douze ans quand il a redoublé sa sixième dans un établissement privé. Il nous raconte comment sa vie a basculé lorsqu’une pionne s’est éprise de lui.
 
 Mots clés : #MeeToo #1970s #Thriller #Noir #France #Italie #Suisse #BetaMax
 
 [*Les Silencieux* sont en vente sur Opensea.](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/51916585730158572235051487169527023365538550989906184714965107612488959000577/)
 
-<?xml version="1.0" encoding="UTF-8"??>
+
 
 ### Licence
 

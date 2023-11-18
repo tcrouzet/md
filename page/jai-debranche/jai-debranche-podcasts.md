@@ -42,7 +42,7 @@ Partie 2 \
 
 21. 10/01/2012, Le Parisien, [Débrancher du Net fait du bien](http://www.leparisien.fr/societe/video-debrancher-du-net-fait-du-bien-10-01-2012-1805333.php), par Alexandra Echkenazi
 
-<div class="containerKplayer" style="position: relative;"><div class="kwg_pr" id="kwg_iLyROoafrKw8" name="kwg_iLyROoafrKw8"></div><div class="flash_kplayer" data-playerkey="c5dee71af0c3" data-sig="iLyROoafrKw8" id="flash_kplayer_iLyROoafrKw8" name="flash_kplayer" style="width:400px; height:300px;"></div></div>
+
 
 23. 10/01/2012, [La matinale du Mouv' avec Amaël Guitton](http://www.lemouv.fr/tag-thierry-crouzet)
 

@@ -1,6 +1,6 @@
 # Guide de lecture
 
-Voici quatre solutions pour découvrir dans les meilleures conditions mon feuilleton [*Résistants*](http://tcrouzet.com/resistants/) (le roman pour tout comprendre des monstres microscopiques qui nous menacent).<span id="more-43797"></span>
+Voici quatre solutions pour découvrir dans les meilleures conditions mon feuilleton [*Résistants*](http://tcrouzet.com/resistants/) (le roman pour tout comprendre des monstres microscopiques qui nous menacent).
 
 ### 1/ Vous aimez le confort
 
@@ -24,11 +24,11 @@ Voici quatre solutions pour découvrir dans les meilleures conditions mon feuill
 
 Pour ne manquer aucun épisode, abonnez-vous en saisissant votre e-mail dans [le formulaire ci-dessous](http://eepurl.com/bWh9UL).
 
-<link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css"></link>
 
-<div id="mc_embed_signup">
 
-</div>
+
+
+
 
 Quelques jours après la publication sur Wattpad, vous recevrez le dernier épisode. Si vous avez des idées, des suggestions, des critiques, vous me les enverrez en répondant au mail reçu. La lecture vous prendra moins de dix minutes. Vous aurez en prime l’assurance de disposer de la dernière version du texte.
 
