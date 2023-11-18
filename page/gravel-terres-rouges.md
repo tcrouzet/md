@@ -1,6 +1,13 @@
 # Gravel Terres Rouges
 
-\[tcrouzet function="tcrouzet\_routeresume" distance="105 km" dev="1 600 m" portage="0.1 %" altitude="305 m" asphalte="30 %" single="15 %"\]
+</head><body>
+<div id="route-resume"><div class="iconbox">![Distance](/images_css/route-distance.svg)<div class="icontext">Distance
+<span>105 km</span></div></div><div class="spacer"></div><div class="iconbox">![Dénivelé](/images_css/route-dev.svg)<div class="icontext">Dénivelé
+<span>1 600 m</span></div></div><div class="spacer"></div><div class="iconbox">![Portage](/images_css/route-portage.svg)<div class="icontext">Portage
+<span>0.1 %</span></div></div><div class="spacer"></div><div class="iconbox">![Altitude](/images_css/route-altitude.svg)<div class="icontext">Altitude max
+<span>305 m</span></div></div><div class="spacer"></div><div class="iconbox">![Asphalte](/images_css/route-asphalte.svg)<div class="icontext">Asphalte
+<span>30 %</span></div></div><div class="spacer"></div><div class="iconbox">![Singles](/images_css/route-single.svg)<div class="icontext">Singles
+<span>15 %</span></div></div></div>
 
 Cette boucle gravel, créée pour [Hors Trace Aventures](https://www.hors-traces-aventures.fr/), part de Bouzigues sur l’étang de Thau et y revient après 105 km et environ 1600 de dénivelé positif. Elle explore un arrière-pays contrasté : garrigues, vignobles, pinèdes. Des gravelistes l'ont déjà effectué avec des pneus de 40 mm, mais n'oublions pas que le Languedoc est parfois caillouteux. Le record sur la trace est de 5h20 (certains l'effectuent en 8h, chacun son rythme).
 
@@ -24,7 +31,7 @@ On approche du but. Prendre garde lors de la traversée de N113 au km95. La visi
 
 Cette trace exige sans cesse de relancer, on en prend plein les yeux, aussi plein les jambes. Ne surtout pas l’attaquer bille en tête, à moins d’être un costaud. Lorsque la chasse est ouverte, et même fermée, on risque de croiser des battues aux sangliers, mais on les croise en général dans les secteurs de pistes, donc avec une bonne visibilité. J’ai effectué plusieurs fois la trace en intégrale, avec des pneus de 42 et 45 mm. J’ai chaque fois terminé rincé.
 
-\[tcrouzet function="tcrouzet\_utagawa" map="https://www.utagawavtt.com/randonnee-vtt-gps-carte/Gravel-terres-rouges-36168"\]
+<div style="position:relative;display:block"></div>
 
 - [Trace de référence sur Google Map](https://www.google.com/maps/d/edit?mid=11XBTncWuFgk2TH4M_6UQ04VRtXpafZdW&usp=sharing). Carte avec points d'intérêt et variantes. Pour générer un GPX, exporter le calque "Trace Officielle" au format KML, puis [convertissez-le en GPX](https://www.gpsvisualizer.com/convert_input). Exportez et convertissez de même les POI, notamment les points d'eau.
 

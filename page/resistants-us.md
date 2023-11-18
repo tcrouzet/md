@@ -1,6 +1,45 @@
 # Resistants
 
-\[bookshop\_page book="resistants\_us"\]
+</head><body><div id="bookshop_maintext">When reality is frightening
+---------------------------
+
+##### <div id="librairies"></div>
+
+</div>
+<?xml version="1.0" encoding="UTF-8"??>
+
+### Presentation
+
+<div class="iframe" id="iframe0"></div>
+<div class="iframe" id="iframe1"></div>
+EVERYTHING IN THIS BOOK, EVEN THE MOST TERRIFYING PARTS, IS BASED ON SCIENCE.
+
+The passengers of a yacht are suddenly stricken by a super-bacterium, resistant to antibiotics. Except Katelyn, a young medical student. Why is she the only survivor?
+Recruited by the Anti-Bioterrorism Center, she is assigned the mission of finding the disease’s carrier, even if it means becoming intimate with him. But the man she is hunting awakes contradictory feelings inside her. Perhaps he’s not killing blindly…
+
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/resistant-us-planche.jpg)
+
+Novelist, essay writer, and blogger, Thierry Crouzet is fascinated by issues located at the nexus of technology, politics, and literature. His works in French include *Le Peuple des connecteurs* \[*The Connected People*\], a reflection on our networked society; *J’ai débranché* \[*How I Unplugged*\], a tale of digital burnout; and *La Quatrième Théorie* \[*The Fourth Theory*\] a thriller by tweets. His scientific account, *Clean Hands Save Lives*, has been translated in eighteen languages, winning him hundreds of thousands of readers across the world.
+
+<div class="iframe" id="iframe2"></div>
+
+### Citations
+
+“Antibiotic-resistant bacteria are gaining ground throughout the world. If nothing is done, they will kill more people than climate change.” [Prof. Didier Pittet, director of the Infection Control Program (University Hospitals of Geneva) and the WHO Collaborating Centre on Patient Safety](https://en.wikipedia.org/wiki/Didier_Pittet)
+
+"The problem of microbes becoming increasingly resistant to the most powerful drugs should be ranked alongside terrorism and climate change on the list of critical risks to the nation." [Dame Sally Davies, UK Government's Chief Medical Officer](http://www.independent.co.uk/news/science/chief-medical-officer-dame-sally-davies-resistance-to-antibiotics-risks-health-catastrophe-to-rank-8528442.html)
+
+« We cannot wait for a highly communicable bacterium that is resistant to all of our antibiotics to hit before taking action. » [Professeur Martin Blaser](http://martinblaser.com/)
+
+If the worst happens, are we ready?
+
+### Press
+
+[Using fiction to explore challenges of our time (like AMR)](https://www.linkedin.com/pulse/using-fiction-explore-challenges-our-time-like-amr-sonia-f%25C3%25A8vre/)
+
+![](images_tc/2016/04/resistants-slides8.jpg)
+
+Translation: Sheryl Curtis and Tom Clegg
 
 ![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/resistants-slides10.jpg)
 

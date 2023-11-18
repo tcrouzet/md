@@ -1,6 +1,50 @@
 # Visuels
 
-\[tcrouzet function="tcrouzet\_sousmenu" menu="pittet"\]
+<div class="smenu"><div class="menu-pittet-container">- [Home](/le-geste-qui-sauve/)
+
+- [Blog](/tag/le-geste-qui-sauve/)
+
+- [Presse](/le-geste-qui-sauve/revue-de-presse/)
+
+- [Visuels](/le-geste-qui-sauve/visuels/)
+
+- [Press kit](/le-geste-qui-sauve/cp_fr/)
+
+- [Downloads](/le-geste-qui-sauve/downloads/)
+
+- 
+
+![](https://tcrouzet.com/images_tc/2013/08/us.png)
+
+- 
+
+![](https://tcrouzet.com/images_tc/2013/08/fr.png)
+
+- 
+
+![](https://tcrouzet.com/images_tc/2013/08/de.png)
+
+- 
+
+![](https://tcrouzet.com/images_tc/2013/08/es.png)
+
+- 
+
+![](https://tcrouzet.com/images_tc/2013/08/br.png)
+
+- 
+
+![](https://tcrouzet.com/images_tc/2015/11/pl1.png)
+
+- 
+
+![](https://tcrouzet.com/images_tc/2015/11/ro.png)
+
+- 
+
+![](https://tcrouzet.com/images_tc/2017/11/it.png)
+
+</div></div>
 
 ![Traductions](https://tcrouzet.com/images_tc/2019/01/planche-497x450.jpg)
 
@@ -42,4 +86,10 @@
 
 ![Flacon](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/hygiene_mains_009.jpg)
 
+<div class="wp-caption aligncenter" id="attachment_35122" style="width: 514px">
+
 ![Les livres papier sont sortis avec des bandeaux aux couleurs des sponsors.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/sponsors3.png)
+
+Les livres papier sont sortis avec des bandeaux aux couleurs des sponsors.
+
+</div>
