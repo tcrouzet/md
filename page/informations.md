@@ -115,6 +115,7 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 2023 - Mai, finalisation du *Roman de mon père*.
 2023 - Juin, début du *Code Houellebecq* (écrit avec l'aide des IA, mais pas par une IA).
 2023 - Octobre, premier jet du *Code Houellebecq* (La Manufacture refuse le manuscrit).
+2023 - Novembre, [expérimentations avec les GPTs](https://gpt.tcrouzet.com/).
 
 ### Interviews
 
