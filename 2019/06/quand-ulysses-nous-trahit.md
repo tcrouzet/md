@@ -1,6 +1,6 @@
 # Quand Ulysses nous trahit
 
-Quand on écrit, il n’y a rien de pire que de perdre confiance en son outil d’écriture, de se sentir contraint par lui plutôt que pousser en avant, surtout d’avoir peur de perdre ses textes. C’est d’autant plus critique quand on travaille sur de multiples projets en parallèle.<span id="more-51812"></span>
+Quand on écrit, il n’y a rien de pire que de perdre confiance en son outil d’écriture, de se sentir contraint par lui plutôt que pousser en avant, surtout d’avoir peur de perdre ses textes. C’est d’autant plus critique quand on travaille sur de multiples projets en parallèle.
 
 Dans l’environnement Apple, nous sommes nombreux à écrire avec Ulysses, un outil révolutionnaire il y a quelques années, mais qui, à force de vouloir élargir sa cible, [en oublie ses fondamentaux](https://tcrouzet.com/2019/05/04/ulysses-lex-meilleur-editeur-pour-ecrivain/).
 
@@ -48,4 +48,4 @@ Depuis Ulysses, on peut déplacer les dossiers de travail sur le bureau ou un au
 
 Pour résumer. La méthode 1 est la plus sûre, la seule automatisable simplement, mais elle génère des fichiers opaques. La seconde me servira le jour où je déciderai de quitter Ulysses. La troisième en l’état a peu d’intérêt, sauf pour transmettre ponctuellement des feuilles.
 
-Tags: Cuisine, une
+Tags: Cuisine, Ulysses, une

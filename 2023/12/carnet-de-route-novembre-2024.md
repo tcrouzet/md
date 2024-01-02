@@ -1,4 +1,4 @@
-# Novembre 2024
+# Novembre 2023
 
 
 
@@ -26,7 +26,7 @@ Dans *Le Spleen de Paris*, même quand Baudelaire parle du plaisir des bains de 
 
 « Vauvenargues dit que dans les jardins publics il est des allées hantées principalement par l’ambition déçue, par les inventeurs malheureux, par les gloires avortées, par les cœurs brisés, par toutes ces âmes tumultueuses et fermées, en qui grondent encore les derniers soupirs d’un orage, et qui reculent loin du regard insolent des joyeux et des oisifs. Ces retraites ombreuses sont les rendez-vous des éclopés de la vie. » Un texte qui me fout les jetons.
 
-Toujours Baudelaire, dans *Le vieux saltimbanque* : « Sa destinée était faite. » Pente tentatrice, que je refuse avec force. Je ne crois en aucune fatalité. Mais parfois, je manque d’énergie pour lutter contre elle, surtout quand la veille au soir, pour calmer ma toux, je prends un antihistaminique qui me plonge dans un sommeil dont j’ai du mal à m’extirper tout au long de la journée. « Je viens de voir l’image du vieil homme de lettres qui a survécu à la génération dont il fut le brillant amuseur ; du vieux poète sans amis, sans famille, sans enfants, dégradé par sa misère et par l’ingratitude publique, et dans la baraque de qui le monde oublieux ne veut plus entrer ! »
+Toujours Baudelaire, dans *Le vieux saltimbanque* : « Sa destinée était faite. » Pente tentatrice, que je refuse avec force. Je ne crois en aucune fatalité. Mais parfois, je manque d’énergie pour lutter contre, surtout quand la veille au soir, pour calmer ma toux, je prends un antihistaminique qui me plonge dans un sommeil dont j’ai du mal à m’extirper tout au long de la journée. « Je viens de voir l’image du vieil homme de lettres qui a survécu à la génération dont il fut le brillant amuseur ; du vieux poète sans amis, sans famille, sans enfants, dégradé par sa misère et par l’ingratitude publique, et dans la baraque de qui le monde oublieux ne veut plus entrer ! »
 
 ---
 
