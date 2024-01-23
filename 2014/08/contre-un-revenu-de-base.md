@@ -1,6 +1,6 @@
 # Contre Un revenu de base
 
-Après [une quarantaine d’articles en faveur du revenu de base](http://blog.tcrouzet.com/tag/revenu-de-base/), suis-je en train de perdre la tête ? J’ai plutôt des scrupules, éveillés par quelques bruits, quelques impressions. Et je voudrais clarifier ma position avant [l’université d’été du revenu de base](http://universite.revenudebase.info/).<span id="more-36593"></span>
+Après [une quarantaine d’articles en faveur du revenu de base](http://blog.tcrouzet.com/tag/revenu-de-base/), suis-je en train de perdre la tête ? J’ai plutôt des scrupules, éveillés par quelques bruits, quelques impressions. Et je voudrais clarifier ma position avant [l’université d’été du revenu de base](http://universite.revenudebase.info/).
 
 Quand on a de belles idées et qu’elles restent entre les lignes, c’est sans conséquence. Qu’on les applique et le monde peut en être bouleversé.
 

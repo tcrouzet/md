@@ -1,6 +1,6 @@
 # Modem centric
 
-Ma critique de l’université d’été du Modem a suscité beaucoup de commentaires tant [ici sur mon blog](http://blog.tcrouzet.com/2007/09/17/militantisme-ecole-de-mediocrite/) que sur [Agoravox](http://agoravox.fr/article.php3?id_article=29197). Comme j’en ai l’habitude, je vais essayer de répondre à tous en même temps.<span id="more-574"></span>
+Ma critique de l’université d’été du Modem a suscité beaucoup de commentaires tant [ici sur mon blog](http://blog.tcrouzet.com/2007/09/17/militantisme-ecole-de-mediocrite/) que sur [Agoravox](http://agoravox.fr/article.php3?id_article=29197). Comme j’en ai l’habitude, je vais essayer de répondre à tous en même temps.
 
 ![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070920pacco.gif)
 

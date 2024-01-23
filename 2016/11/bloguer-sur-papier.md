@@ -1,6 +1,6 @@
 # Bloguer sur papier
 
-Une idée jaillit grâce à un [commentaire de Philipe Castelneau](http://tcrouzet.com/2016/11/05/pod-et-ebooks-cest-le-meme-combat/#comment-184141). Et si je tentais une expérience ? Durant un an, je ne cesse pas de bloguer, mais je publie mes posts uniquement en livre, [en POD/ebook](http://tcrouzet.com/2016/11/05/pod-et-ebooks-cest-le-meme-combat/). Par exemple, une fois par mois. Ce serait une façon d’échapper à la vitesse du Web, sans pour autant renoncer à la puissance du numérique.<span id="more-44401"></span>
+Une idée jaillit grâce à un [commentaire de Philipe Castelneau](http://tcrouzet.com/2016/11/05/pod-et-ebooks-cest-le-meme-combat/#comment-184141). Et si je tentais une expérience ? Durant un an, je ne cesse pas de bloguer, mais je publie mes posts uniquement en livre, [en POD/ebook](http://tcrouzet.com/2016/11/05/pod-et-ebooks-cest-le-meme-combat/). Par exemple, une fois par mois. Ce serait une façon d’échapper à la vitesse du Web, sans pour autant renoncer à la puissance du numérique.
 
 Bien sûr, l’échange qui vient de provoquer cette idée serait impossible. Pas de réaction à chaud, mais qu’est-ce qu’un mois de différé ? Ça change tout, mais permet de travailler une nouvelle temporalité numérique.
 

@@ -1,6 +1,6 @@
 # Facebook et Twitter vous prennent pour des poires
 
-Ou des cruches, ou de simples générateurs d’énergie comme dans Matrix. Tous branchés. Vous croyez recevoir et vous donnez votre vie à la machine.<span id="more-32943"></span>
+Ou des cruches, ou de simples générateurs d’énergie comme dans Matrix. Tous branchés. Vous croyez recevoir et vous donnez votre vie à la machine.
 
 [Vous croyez à tors ces services définitifs](http://blog.tcrouzet.com/2013/05/23/facebook-et-twitter-secrouleront-comme-un-chateau-de-cartes/), alors vous y construisez votre réputation, vous accumulez des amis postiches, vous en parlez partout… et le cash circule, et vous n’en recevez pas une miette, ce qui à terme vous dégoûtera en plus de la mauvaise haleine du patron.
 

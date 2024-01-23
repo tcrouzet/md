@@ -1,6 +1,6 @@
 # Un auteur en déshérence ou est-ce le Net qui déraille ?
 
-En un temps, j’étais blogueur. Ça voulait dire quoi ? Je pensais un truc, l’écrivais, le publiais, lisais d’autres trucs, recevez des commentaires, écrivais à nouveau, publiais à nouveau. C’était ça l’expérience du blog, c’était ça que j’aimais dans le blog et qui était neuf. Une temporalité inédite de la littérature.<span id="more-45467"></span>
+En un temps, j’étais blogueur. Ça voulait dire quoi ? Je pensais un truc, l’écrivais, le publiais, lisais d’autres trucs, recevez des commentaires, écrivais à nouveau, publiais à nouveau. C’était ça l’expérience du blog, c’était ça que j’aimais dans le blog et qui était neuf. Une temporalité inédite de la littérature.
 
 La publication posée en ligne, réfléchie, sa langue tournée dix fois, comme dans la presse policée ou dans les livres travaillés et retravaillés, a toujours été possible, et d’ailleurs cette façon de faire du vieux avec du neuf a contaminé ce qui reste de la blogosphère, cet espace dont on parle avec la nostalgie désagréable des vieux combattants. Cette accaparation du Net par les conservateurs déguisés en rénovateurs m’a toujours exaspéré. Je l’ai ressentie comme une colonisation, qui me mettait sous les yeux le simple besoin que nous avons de nous exprimer, sans nécessairement rechercher à le faire dans une forme en harmonie avec le médium, à la recherche de ce qu’il nous pousse à dire et qu’avant nous ne songions pas à dire.
 

@@ -1,6 +1,6 @@
 # Bikepacking Roots France
 
-En découvrant l’association américaine [Bikepacking Roots](https://www.bikepackingroots.org) (BPR), et surtout [la carte de leurs traces](https://www.bikepackingroots.org/routes.html), je me suis dit que rien de semblable n’existait en France. [La mission de BPR](https://www.bikepackingroots.org/mission.html) : promouvoir le bikepacking, réunir la communauté des bikepackers, créer des traces interconnectées, les maintenir…<span id="more-61157"></span>
+En découvrant l’association américaine [Bikepacking Roots](https://www.bikepackingroots.org) (BPR), et surtout [la carte de leurs traces](https://www.bikepackingroots.org/routes.html), je me suis dit que rien de semblable n’existait en France. [La mission de BPR](https://www.bikepackingroots.org/mission.html) : promouvoir le bikepacking, réunir la communauté des bikepackers, créer des traces interconnectées, les maintenir…
 
 Sur un coup de tête, [j’ai dit que nous pourrions créer une telle association en France](https://www.facebook.com/groups/1396341304006680/posts/2695288014111996/) et, vu l’intérêt suscité, [j’ai lancé un groupe BPRf pour que nous puissions discuter d’une telle association](https://www.facebook.com/groups/bikepackingrootsfrance/), sachant que notre situation est très différente de celles États-Unis. Par exemple, la FFC entretient de nombreux circuits, tout comme les régions ou les départements.
 

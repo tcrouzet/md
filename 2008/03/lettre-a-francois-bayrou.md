@@ -1,6 +1,6 @@
 # Lettre à François Bayrou
 
-J’attendais votre défaite. Si vous l’aviez emporté, vous auriez sans doute persisté sur une voie qui ne peut que conduire le Modem dans le mur. Maintenant au pied de ce mur, vous avez une chance de construire un véritable mouvement d’idées.<span id="more-769"></span>
+J’attendais votre défaite. Si vous l’aviez emporté, vous auriez sans doute persisté sur une voie qui ne peut que conduire le Modem dans le mur. Maintenant au pied de ce mur, vous avez une chance de construire un véritable mouvement d’idées.
 
 La danse du ventre entre la droite et la gauche ne mène à rien. Partout dans le monde, la politique est bipolaire, non par un hasard mais parce que les forces sociales poussent à la bipolarité. Il n’y a pas de place pour un Modem qui serait une troisième voie intermédiaire. Si une politique alternative veut exister, elle doit démontrer que la droite et la gauche ne représentent que deux variations sur un même thème. Elle doit les ranger dans le même camp pour s’opposer à elles deux dans le même élan et avec les mêmes arguments.
 

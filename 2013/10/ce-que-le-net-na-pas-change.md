@@ -1,6 +1,6 @@
 # Ce que le Net n&#8217;a pas changé
 
-Avec plus de vingt ans d'histoire publique, le réseau est plus présent dans la vie de beaucoup de gens que la télé. Après le temps des promesses, c'est le temps des bilans (pour mieux tracer la route de tout ce qui nous reste à faire).<span id="more-33523"></span>
+Avec plus de vingt ans d'histoire publique, le réseau est plus présent dans la vie de beaucoup de gens que la télé. Après le temps des promesses, c'est le temps des bilans (pour mieux tracer la route de tout ce qui nous reste à faire).
 
 ### Le Net n'a pas changé le travail
 

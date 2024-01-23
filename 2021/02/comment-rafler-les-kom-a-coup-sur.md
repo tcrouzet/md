@@ -1,6 +1,6 @@
 # Comment rafler les KOM Strava, à coup sûr
 
-Un de nos amis nous inquiète. Nous roulons tranquillement et il nous plante une accélération sans prévenir, disparaissant à l’horizon, suivant des trajectoires imprévisibles, continuant de grimper vers un col alors que nous avons prévu un chemin de traverse, une belle piste où nos gravels se régaleront.<span id="more-57618"></span>
+Un de nos amis nous inquiète. Nous roulons tranquillement et il nous plante une accélération sans prévenir, disparaissant à l’horizon, suivant des trajectoires imprévisibles, continuant de grimper vers un col alors que nous avons prévu un chemin de traverse, une belle piste où nos gravels se régaleront.
 
 Certains tentent de prendre sa roue, mais d’autres comme moi s’inquiètent parce que nous savons quelle mouche l’a piqué : un segment Strava avec un KOM à portée de pédale. Notre ami est addict. Il veut être le roi de la montagne, le King Of Mountain. Il ne se contrôle plus. Il passe ses sorties les yeux rivés sur son téléphone, ne nous écoute plus quand il entrevoit un record à battre.
 

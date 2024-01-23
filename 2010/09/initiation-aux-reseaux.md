@@ -1,6 +1,6 @@
 # Initiation aux réseaux
 
-Pour [la formation SAWI](http://formation-mcms.ch), les intervenants publieront en ligne leurs supports de cours. Je n’aurais pas de support sinon mes livres et mon blog. J’entends animer mes dix heures à la mode Wittgenstein, rebondissant sur les questions des intervenants, laissant librement courir mon imagination, m’enfonçant si possible dans des régions méconnues de moi.<span id="more-19359"></span>
+Pour [la formation SAWI](http://formation-mcms.ch), les intervenants publieront en ligne leurs supports de cours. Je n’aurais pas de support sinon mes livres et mon blog. J’entends animer mes dix heures à la mode Wittgenstein, rebondissant sur les questions des intervenants, laissant librement courir mon imagination, m’enfonçant si possible dans des régions méconnues de moi.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/active-network-size11.png)
 
@@ -31,8 +31,6 @@ Pour que j’évite de me perdre, j’établis une liste non exhaustive des suje
 11. [De la différence entre compliqué et complexe.](http://blog.tcrouzet.com/2009/04/17/complexe-ou-complique/)
 12. Encore une fois, il faut résister au sens commun qui nous dit que « Plus c’est compliqué, plus il faut contrôler. » Les limites du *command and control*.
 13. Cartographie des relations donne une idée de ce qui est compliqué ou ne l’est pas. Les différentes topologies de réseau. Quelques propriétés des réseaux décentralisés (force des liens faibles par exemple).
-    
-    
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/baran_nets_large1.gif)
 
@@ -45,7 +43,7 @@ Pour que j’évite de me perdre, j’établis une liste non exhaustive des suje
 20. L’interconnexion est une arme de complexification. Nous de devons pas oublier que nous en disposons et que les autres aussi en disposent (surtout quand on est manager).
 21. Histoire de la complexification depuis le big-bang. Les différentes courbes qui sont en phase : taille des structures (Teilhard de Chardin), émission de CO2, population mondiale, évolution technologique… [La corrélation avec le nombre de démocratie est-elle une coïncidence ?](http://blog.tcrouzet.com/2010/08/29/surpopulation-implique-democratie/)
 22. [La liberté, c’est le lien](http://blog.tcrouzet.com/2010/05/08/la-liberte-le-lien/).
-    
+
     ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/cycle1-450x161.png)
 23. [Les dangers de toute politique de réduction des liens, tant au niveau individuel que public.](http://blog.tcrouzet.com/2010/09/02/la-dangereuse-decroissance-ou-l%E2%80%99inconsistance-de-paul-aries/)
 24. Individualisme vs individuation. Sujet abordé dès le début du *Peuple des connecteurs* mais sur lequel je reviens en détail dans *L’alternative nomade*.
@@ -54,13 +52,11 @@ Pour que j’évite de me perdre, j’établis une liste non exhaustive des suje
 27. Plus on est interconnecté, plus la coopération s’impose (parce que la trahison est de plus en plus risquée). [Le problème du prisonnier et Axelrod.](http://blog.tcrouzet.com/2007/05/24/le-dilemme-du-prisonnier/)
 28. La coopération implique une spécialisation très particulière qui implique une phase d’éclectisme. C’est le chemin pour s’individuer.
 29. Le cycle de transformation, avec pour bénéfice inattendu le bonheur.
-    
+
     ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/05/liberta-450x175.png)
 30. Mais ce n’est pas gagné. L’interconnexion nous transforme à condition d’établir des liens réciproques. [Ce n’est pas une tendance naturelle sur les réseaux sociaux.](http://overstated.net/2009/03/09/maintained-relationships-on-facebook)
 31. L’interconnexion réciproque est le meilleur rempart contre l’ethnocentrisme. Elle implique une forme de nomadisme social. Les TIZ.
 32. Le troisième nomadisme.
-    
-    
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/transition.png)
 

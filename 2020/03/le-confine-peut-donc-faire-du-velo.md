@@ -1,6 +1,6 @@
 # Le confiné peut donc faire du vélo
 
-Vous connaissiez peut-être [les lignes de désir](https://tcrouzet.com/2020/01/27/lignes-de-desir-a-sete/), une façon d’explorer les villes par les chemins de traverse, nous devons désormais imaginer les cercles de confinement, une façon non moins imaginative d’explorer notre voisinage immédiat.<span id="more-53723"></span>
+Vous connaissiez peut-être [les lignes de désir](https://tcrouzet.com/2020/01/27/lignes-de-desir-a-sete/), une façon d’explorer les villes par les chemins de traverse, nous devons désormais imaginer les cercles de confinement, une façon non moins imaginative d’explorer notre voisinage immédiat.
 
 Après une semaine de flottement, suite à des déclarations contradictoires du gouvernement, nous savons désormais à quoi nous en tenir nous autres qui sortons aérer nos vélos, nos baskets, nos chiens, voire nos enfants.
 

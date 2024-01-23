@@ -1,6 +1,6 @@
 # J+1 de la nouvelle ère
 
-C’est bon, après Copenhague, vous avez compris ? Nos gouvernements ne feront rien pour que le monde aille mieux. Leur seul intérêt c’est que nous consommions toujours plus. Vous attendez encore quelque chose d’eux ? Pourquoi même discutez-vous encore des faits et gestes de nos gouvernants. Ils sont les fruits d’un système, en aucune manière ses racines. Ils se balancent au gré du vent. Élisez d’autres personnes, vous obtiendrez le même résultat.<span id="more-12681"></span>
+C’est bon, après Copenhague, vous avez compris ? Nos gouvernements ne feront rien pour que le monde aille mieux. Leur seul intérêt c’est que nous consommions toujours plus. Vous attendez encore quelque chose d’eux ? Pourquoi même discutez-vous encore des faits et gestes de nos gouvernants. Ils sont les fruits d’un système, en aucune manière ses racines. Ils se balancent au gré du vent. Élisez d’autres personnes, vous obtiendrez le même résultat.
 
 Que vous soyez de gauche, du centre ou de droite, vous perdez votre temps. Vos représentants ne peuvent rien pour vous. Vous leur prêtez des intentions qu’ils ont peut-être mais qu’ils sont incapables de tenir.
 

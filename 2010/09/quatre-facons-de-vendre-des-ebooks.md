@@ -1,6 +1,6 @@
 # Quatre façons de vendre des eBooks
 
-[L'expérience inédite](http://blog.tcrouzet.com/2010/09/15/l%E2%80%99experience-inedite-et-interdite/) progresse. Hier soir, j'ai envoyé à l'équipe éditoriale coopérative la version 2 de ma nouvelle *La chasse aux riches* (titre encore provisoire). Si je sais comment le texte sera vendu hors de mon blog, puisque je m’adapte à des modèles existants, il me reste à décider comment le vendre en direct. J’ai quatre possibilités.<span id="more-19341"></span>
+[L'expérience inédite](http://blog.tcrouzet.com/2010/09/15/l%E2%80%99experience-inedite-et-interdite/) progresse. Hier soir, j'ai envoyé à l'équipe éditoriale coopérative la version 2 de ma nouvelle *La chasse aux riches* (titre encore provisoire). Si je sais comment le texte sera vendu hors de mon blog, puisque je m’adapte à des modèles existants, il me reste à décider comment le vendre en direct. J’ai quatre possibilités.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/prixl.jpg)
 

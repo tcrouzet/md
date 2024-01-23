@@ -1,6 +1,6 @@
 # Lettre ouverte aux gens de gauche
 
-Quand nous arriverons à mieux nous définir politiquement, nous arriverons à nous retrouver, à nous rassembler et à agir ensemble avec cohérence. Pour le moment, les choses sont plutôt confuses. Il est peut-être temps de refonder ce qu'est la gauche comme la droite d'ailleurs.<span id="more-43600"></span>
+Quand nous arriverons à mieux nous définir politiquement, nous arriverons à nous retrouver, à nous rassembler et à agir ensemble avec cohérence. Pour le moment, les choses sont plutôt confuses. Il est peut-être temps de refonder ce qu'est la gauche comme la droite d'ailleurs.
 
 ![Assemblée](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/assemble1-600x426.png)
 

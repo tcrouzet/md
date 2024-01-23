@@ -4,7 +4,7 @@
 
 ### Samedi 1<sup>er</sup>, Balaruc
 
-L’année commence par un épais brouillard. Je n’ai aucune visibilité sur les mois qui arrivent, aucune publication prévue sinon celle de [*One Minute*](https://tcrouzet.com/une-minute/) retardée parce que les papiers luxueux choisis pour les couvertures sont en rupture, aucune invitation passionnante, aucune idée obsessionnelle, sinon de continuer à découvrir la France à vélo.<span id="more-61342"></span>
+L’année commence par un épais brouillard. Je n’ai aucune visibilité sur les mois qui arrivent, aucune publication prévue sinon celle de [*One Minute*](https://tcrouzet.com/une-minute/) retardée parce que les papiers luxueux choisis pour les couvertures sont en rupture, aucune invitation passionnante, aucune idée obsessionnelle, sinon de continuer à découvrir la France à vélo.
 
 Quand je me retourne sur 2021, je vois à peu près la même chose. J’ai écrit mon autobiographie, d’abord en la publiant sur le blog, puis en la retravaillant après discussion avec Pierre, en doublant son volume initial, mais il ne m’a rien dit du second jet, comme si je ne le lui avais pas envoyé. J’ai retravaillé d’arrache-pied *One Minute* pour parachever le texte. J’en suis content. C’est mon grand roman. J’ai expérimenté avec les NFT, découvrant un abominable monde de spéculation, où l’art n’est qu’un prétexte odieux. Puis j’ai par miracle à l’automne écrit un petit roman initiatique, *Renaissance*, où le vélo est le moyen plus que l’objet. J’ai aussi publié *Adapter pour adopter*, la suite du *Geste qui sauve*.
 
@@ -24,7 +24,7 @@ Souvent, je croise [des évocations d’Apollonios de Tyane](https://www.grunge.
 
 ![Arbre circulaire](https://tcrouzet.com/images_tc/2022/02/arbreG.jpg)
 
-Le cercle généalogique : j’ai deux parents, quatre grands-parents. Pour la génération n, j’ai 2<sup>n ascendants. Si je remonte quatre cents ans en arrière et qu’une génération dure en moyenne 25 ans, j’ai 2</sup>16 ascendants. Ils sont 65 536 impliqués dans mon existence dans les années 1563. Saut que si je remonte de huit siècles, ils sont 2^32 à s'occuper de moi, donc plus de quatre milliards, plus que d'hommes et de femme vivant à cette époque. J'en déduis que je suis le fruit d'une intense consanguinité.
+Le cercle généalogique : j’ai deux parents, quatre grands-parents. Pour la génération n, j’ai 2n ascendants. Si je remonte quatre cents ans en arrière et qu’une génération dure en moyenne 25 ans, j’ai 216 ascendants. Ils sont 65 536 impliqués dans mon existence dans les années 1563. Saut que si je remonte de huit siècles, ils sont 2^32 à s'occuper de moi, donc plus de quatre milliards, plus que d'hommes et de femme vivant à cette époque. J'en déduis que je suis le fruit d'une intense consanguinité.
 
 Idée de roman : écrire la vie de tous les ascendants d’un homme qui naîtra en 2222. Il fouille nos archives numériques pour reconstruire les biographies de ses ancêtres et cherche à comprendre qui il est à travers eux. Il découvre qu’ils vivaient tous en 2022, que tous connaissaient une même jeune femme mystérieuse qui les a tous influencés, sans que d’elle il soit possible de trouver une archive explicite. Une chimère numérique ?
 

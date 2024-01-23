@@ -6,8 +6,6 @@ English &gt;&gt;
 
 Avec wpDiary, exportez part ou totalité de votre blog au format Microsoft Word. Le fichier généré, au format 6x9 pouces, peut directement être envoyé à [lulu.com](lulu.com) pour impression sous forme de livre. Vous pouvez bien sûr au préalable modifier la mise en page sous Word. Pour un meilleur rendu, surtout si vous exportez des images, générez un PDF à partir de ce fichier.
 
-**Fonctionnalités**
-
 - Choix de l'année d'exportation.
 
 - Exportation uniquement des commentaires de l'auteur du blog.
@@ -18,11 +16,7 @@ Avec wpDiary, exportez part ou totalité de votre blog au format Microsoft Word.
 
 - Pour chaque billet, choix des commentaires à exporter.
 
-**Installation**
-
 Décompressez le dossier wpDiary dans votre dossier plugin, puis activez le plugin. La commande Diary apparaît dans le menu Manage.
-
-**Notes**
 
 - J'ai développé ce plugin pour créer les [Version papier 2006](http://blog.tcrouzet.com/version-papier-2006/) et [Version papier 2007](http://blog.tcrouzet.com/version-papier-2007/) de mon blog.
 

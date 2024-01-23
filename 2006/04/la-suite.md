@@ -1,6 +1,6 @@
 # La suite&#8230;
 
-Je suis entrain d'écrire la suite du *peuple des connecteurs* sous la forme d'un roman.<span id="more-51"></span>
+Je suis entrain d'écrire la suite du *peuple des connecteurs* sous la forme d'un roman.
 
 Son titre : *Croisade*
 

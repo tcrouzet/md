@@ -1,6 +1,6 @@
 # D’Hérodote à Ératosthène
 
-[L’histoire de mon Grec sort exactement dans un mois.](http://blog.tcrouzet.com/eratosthene/) Occasion d’un clin d’œil de plus. Je prépare un supplément pour la version ebook, un journal qui rassemblera des notes puisées au fil de l’écriture et justifiera mes choix historiques.<span id="more-36478"></span>
+[L’histoire de mon Grec sort exactement dans un mois.](http://blog.tcrouzet.com/eratosthene/) Occasion d’un clin d’œil de plus. Je prépare un supplément pour la version ebook, un journal qui rassemblera des notes puisées au fil de l’écriture et justifiera mes choix historiques.
 
 Quand on écrit sur un personnage dont on sait peu de choses, c’est comme résoudre un système d’équations. Il existe sans doute plusieurs solutions, mais pas une infinité.
 
@@ -13,6 +13,8 @@ Exemple. Comparez la carte du monde qui peut être tracée d’après l’histoi
 ![Carte du monde décrit par Hérodote dans ses Histoires](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/herodote-600x356.png)
 
 ![Carte d'Ératosthène](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/carte.png)
+
+Carte d'Ératosthène
 
 Ératosthène est plus précis, comme le seront ses successeurs, mais surtout il ajoute des longitudes et des latitudes, et connaît l’échelle de l’ensemble. On passe d’un croquis à une carte. C’est une gigantesque transition intellectuelle. Un changement radical dans la représentation du monde, malgré les similitudes graphiques.
 

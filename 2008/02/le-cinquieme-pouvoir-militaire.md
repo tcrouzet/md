@@ -1,6 +1,6 @@
 # Le cinquième pouvoir militaire
 
-Les nouvelles technologies favorisent la décentralisation et la [redistribution des pouvoirs](http://blog.tcrouzet.com/2008/02/06/redefinir-le-cinquieme-pouvoir/). Ainsi émerge le cinquième pouvoir. J’ai jusqu’alors négligé la décentralisation du pouvoir militaire.<span id="more-757"></span>
+Les nouvelles technologies favorisent la décentralisation et la [redistribution des pouvoirs](http://blog.tcrouzet.com/2008/02/06/redefinir-le-cinquieme-pouvoir/). Ainsi émerge le cinquième pouvoir. J’ai jusqu’alors négligé la décentralisation du pouvoir militaire.
 
 J’ai bien quelque fois évoqué Al-Qaïda comme exemple de réseau contre lequel les systèmes centralisés ne peuvent rien, sans pousser plus loin cette réflexion. En lisant *Brave New War* de [John Robb](http://globalguerrillas.typepad.com/), je prends conscience que le cinquième pouvoir n’est pas seulement médiatique, politique et économique, il est aussi militaire.
 

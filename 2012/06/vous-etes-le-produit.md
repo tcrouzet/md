@@ -1,6 +1,6 @@
 # Si vous ne payez pas un produit, vous êtes le produit
 
-L’écriture de mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene-new/) me pousse à effectuer des recherches sur le Web, mais pas à fréquenter les réseaux sociaux (j’y croise trop peu de Grecs du III<sup>e</sup> siècle avant Jésus-Christ). Et puis, chaque fois que je me balade sur Facebook et Twitter, je me sens dans la peau d’un ancien habitant qui découvre des changements qui lui déplaisent.<span id="more-24920"></span>
+L’écriture de mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene-new/) me pousse à effectuer des recherches sur le Web, mais pas à fréquenter les réseaux sociaux (j’y croise trop peu de Grecs du III<sup>e</sup> siècle avant Jésus-Christ). Et puis, chaque fois que je me balade sur Facebook et Twitter, je me sens dans la peau d’un ancien habitant qui découvre des changements qui lui déplaisent.
 
 Mon regard étant sans doute biaisé (j’espère provisoirement), il faut le prendre comme tel. Avant j’étais un panégyriste de la chose numérique, je suis un peu plus critique, non pas vis-à-vis de la technologie, mais de nos usages, et des usages qu’on voudrait bien nous voir adopter.
 

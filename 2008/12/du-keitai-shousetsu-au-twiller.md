@@ -1,6 +1,6 @@
 # Du keitai shousetsu au twiller
 
-Je me suis longtemps intéressé au *Nouveau roman*, puis à Georges Perec et à l'Oulipo. L’écriture à contraintes alliait la logique et la littérature et je me suis laissé griser par le genre. Je suis allé jusqu’à écrire [un roman où chaque signe aurait une valeur temporelle](http://blog.tcrouzet.com/equinoxe-automne/). Pour dire qu’une moto passait dans la rue, j’utilisais autant de signes que la moto prenait pour passer. J’avais développé une macro Word qui mesurait la durée de mes phrases.<span id="more-4297"></span>
+Je me suis longtemps intéressé au *Nouveau roman*, puis à Georges Perec et à l'Oulipo. L’écriture à contraintes alliait la logique et la littérature et je me suis laissé griser par le genre. Je suis allé jusqu’à écrire [un roman où chaque signe aurait une valeur temporelle](http://blog.tcrouzet.com/equinoxe-automne/). Pour dire qu’une moto passait dans la rue, j’utilisais autant de signes que la moto prenait pour passer. J’avais développé une macro Word qui mesurait la durée de mes phrases.
 
 Puis je me suis intéressé à la philosophie et je me suis lassé de ces jeux. J’avais besoin de plus de liberté, je voulais bannir les contraintes. Mais chaque fois que je me suis aventuré dans le romanesque, j’ai eu du mal à me départir de mes vieilles habitudes. J’étais souvent expéditif comme avec mon histoire de moto. Je ne passais pas deux plombes à camper les personnages, encore moins à m’attarder sur leurs atermoiements psychologiques. Ce n’est pas mon truc.
 

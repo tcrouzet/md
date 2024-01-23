@@ -1,6 +1,6 @@
 # ebooks : défends tes droits avec tes armes
 
-La loi comme le répète depuis des années Étienne Chouard est écrite par les hommes de pouvoir afin de définir les conditions de leur bon exercice du pouvoir.<span id="more-28165"></span>
+La loi comme le répète depuis des années Étienne Chouard est écrite par les hommes de pouvoir afin de définir les conditions de leur bon exercice du pouvoir.
 
 Oublier ce point, se soumettre aveuglément à la loi, c’est s’admettre esclave. Cela vaut notamment pour les lois de nature industrielle ou technologique promues par les grands opérateurs du marché.
 
@@ -12,9 +12,7 @@ N’oublions pas que les esclavagistes ont toujours profité de nous. Ils ne fon
 
 ### DRM removal
 
-Quand j’achète un ebook avec DRM, je commence par les effacer avec un logiciel de type [DRM removal](<http://www.epubor.com/kindle-drm-removal.html
-
->). Ça me prend deux secondes. Je stocke alors le fichier sur mon disque dur dédié aux eBooks, puis je le synchronise avec [Calibre](http://calibre-ebook.com/) avec toutes mes liseuses, le donne à lire à ma femme ou à mes enfants, et pourquoi pas à mes amis comme je le faisais jadis avec un livre papier.
+Quand j’achète un ebook avec DRM, je commence par les effacer avec un logiciel de type [DRM removal](). Ça me prend deux secondes. Je stocke alors le fichier sur mon disque dur dédié aux eBooks, puis je le synchronise avec [Calibre](http://calibre-ebook.com/) avec toutes mes liseuses, le donne à lire à ma femme ou à mes enfants, et pourquoi pas à mes amis comme je le faisais jadis avec un livre papier.
 
 Ma liberté de lecteur augmente, elle ne diminue pas. Simplement je suis forcé à une petite gymnastique qui je l’espère deviendra inutile dans les années à venir. En attendant, je me défends.
 

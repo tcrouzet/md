@@ -1,6 +1,6 @@
 # Bloguer, un art de vivre qui paye
 
-Moins je blogue, plus j’ai envie de parler des blogs. Comme quoi il y a dans la forme quelque chose qui vous tient et ne vous lâche pas. C’est [le tweet de Narvic](https://twitter.com/#!/narvic/status/151317009546739712), Narvic qui ne me donne plus de nouvelles depuis 9 mois, qui me pousse à entrer dans le débat évoqué par Éric Mettout dans *L’Express* : [Ah bon, blogueur, c’est un métier ?](http://blogs.lexpress.fr/nouvelleformule/2011/12/21/ah-bon-blogueur-cest-un-metier)<span id="more-22706"></span>
+Moins je blogue, plus j’ai envie de parler des blogs. Comme quoi il y a dans la forme quelque chose qui vous tient et ne vous lâche pas. C’est [le tweet de Narvic](https://twitter.com/#!/narvic/status/151317009546739712), Narvic qui ne me donne plus de nouvelles depuis 9 mois, qui me pousse à entrer dans le débat évoqué par Éric Mettout dans *L’Express* : [Ah bon, blogueur, c’est un métier ?](http://blogs.lexpress.fr/nouvelleformule/2011/12/21/ah-bon-blogueur-cest-un-metier)
 
 Bien sûr. Tout dépend ce qu’on entend par métier. Se demander si blogueur, c’est un métier, c’est exactement comme se demander si écrivain, peintre, sculpteur, musicien, parent… en est un. Il est possible dans chacun de ces cas, dans certaines circonstances exceptionnelles, de gagner de l’argent.
 

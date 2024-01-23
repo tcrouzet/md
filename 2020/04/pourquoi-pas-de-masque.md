@@ -1,6 +1,6 @@
 # Voilà pourquoi nous manquons de masques
 
-Sur les réseaux sociaux, un titre change le destin d’un article, et sur le Net en général, et aussi dans la presse. Hier, [j’ai utilisé un titre manifeste](https://tcrouzet.com/2020/04/23/covid-19-pour-un-vaccin-en-bien-commun/), mais j’aurais pu construire différemment mon article. Alors voici un rewriting qui intéressera peut-être les apprentis journalistes.<span id="more-54103"></span>
+Sur les réseaux sociaux, un titre change le destin d’un article, et sur le Net en général, et aussi dans la presse. Hier, [j’ai utilisé un titre manifeste](https://tcrouzet.com/2020/04/23/covid-19-pour-un-vaccin-en-bien-commun/), mais j’aurais pu construire différemment mon article. Alors voici un rewriting qui intéressera peut-être les apprentis journalistes.
 
 ---
 

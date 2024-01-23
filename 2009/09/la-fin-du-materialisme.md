@@ -1,6 +1,6 @@
 # La fin du matérialisme
 
-Je tourne dans tous les sens les titres possibles pour mon livre sur [les flux](http://blog.tcrouzet.com/tag/flux/). *La fin du matérialisme* est sans toute le titre le plus plat mais aussi celui qui décrit bien de quoi il s’agit : la migration progressive vers toujours plus d’immatériel, vers un monde où la culture primera sur la possession, condition nécessaire pour que notre monde puisse prétendre à une quelconque durabilité. J’ai rassemblé toutes vos propositions, plus d’autres surgis en cours de route.<span id="more-10015"></span>
+Je tourne dans tous les sens les titres possibles pour mon livre sur [les flux](http://blog.tcrouzet.com/tag/flux/). *La fin du matérialisme* est sans toute le titre le plus plat mais aussi celui qui décrit bien de quoi il s’agit : la migration progressive vers toujours plus d’immatériel, vers un monde où la culture primera sur la possession, condition nécessaire pour que notre monde puisse prétendre à une quelconque durabilité. J’ai rassemblé toutes vos propositions, plus d’autres surgis en cours de route.
 
 ### Mes préférés
 

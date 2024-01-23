@@ -1,6 +1,6 @@
 # Les éditeurs sont ringards parce qu&#8217;ils utilisent le mauvais logiciel
 
-Savez-vous pourquoi en France le marché du livre électronique stagne sous les 5 % du marché ? J’entends dans la salle quelqu’un parler du prix trop élevé des ebooks. Oui, vous avez raison. Mais pourquoi de tels prix ?<span id="more-40332"></span>
+Savez-vous pourquoi en France le marché du livre électronique stagne sous les 5 % du marché ? J’entends dans la salle quelqu’un parler du prix trop élevé des ebooks. Oui, vous avez raison. Mais pourquoi de tels prix ?
 
 Si les ebooks étaient moins chers, les gens en achèteraient davantage, ce qui impliquerait un énorme manque à gagner pour les librairies physiques et en ferait couler beaucoup. On entend souvent cet argument chez certains éditeurs. Il n’est pas tout à fait faux quand on voit ce qui s’est passé aux États-Unis et en Angleterre, les deux pays où les ebooks représentent près de 30 % du marché.
 
@@ -10,11 +10,15 @@ Ces groupes sont des transporteurs. Que le livre électronique se développe et 
 
 ![400 acteurs du livre imaginent comment on lira dans 20 ans.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/one4.png)
 
+400 passionnés de lecture imaginent comment nous nous appretons à lire.
+
 [Un sondage effectué par Good E Reader](http://goodereader.com/blog/e-book-news/how-will-people-read-books-20-years-from-now), auprès de leurs lecteurs américains, anglais et canadiens, explique pourquoi. Quand on leur demande comment nous lirons dans vingt ans, que croyez-vous qu’ils répondent ? Si vous êtes conservateurs, vous pensez sans doute que nous resterons fidèles au papier ? Bravo, vous avez presque gagné. Avec près de 14 % des votes, le papier arrive deuxième derrière les liseuses. OK, ce n'est qu'un sondage, mais il est passionnant parce qu'il répartit les lecteurs entre beaucoups de divices, ne faisant ainsi que traduire un processus déjà à l’œuvre. Nous lisons désormais sur tablette, liseuses, téléphone, apps… Le livre ne sera bientôt plus le support privilégié.
 
 Fâcheuse évolution pour les camionneurs qui verront leur part de gâteau se réduire à presque rien, mais elle n’est pas sans conséquence pour les auteurs eux-mêmes. Aujourd’hui, la plupart écrivent avec en tête l’idée d’un livre papier. Ils utilisent donc un logiciel pensé pour envoyer des textes sur une imprimante. Ils travaillent pour la plupart avec Word ou un de ses avatars comme Page sur Mac ou Open Office Writer.
 
 ![Word a été conçu pour créer des documents à imprimer.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/one2.jpg)
+
+Word a été conçu pour créer des documents à imprimer.
 
 Ces logiciels ont un point commun : le WYSIWYG. Ce que je vois à l’écran sera ce qui sera imprimé. En conséquence, beaucoup de fonctions servent à mettre en page, à choisir la typographie. Word et ses dérivés sont en fait des outils de bureautique, destinés à imprimer des lettres, des CV, des dossiers, pourquoi pas des livres. Ils ont été pensés au mieux durant les années 1980 et depuis ils n’ont pas évolué. Autant dire que la plupart des auteurs utilisent des logiciels dépassés.
 
@@ -29,6 +33,8 @@ Dans mon prochain essai, [*La mécanique du texte*](http://tcrouzet.com/la-mecan
 Une seule capture d’écran suffit à démontrer en quoi Ulysses diffère de Word. On ne travaille pas dans un document, mais dans un projet, imaginez-le comme un bureau avec posé dessus différentes piles de feuilles plus où moins épaisses.
 
 ![Une image pour comprendre Ulysses.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/one1.jpg)
+
+Une image pour comprendre Ulysses.
 
 Sur la gauche de l’écran, une colonne liste les projets, généralement stockés dans le cloud (et donc synchronisés avec d’autres Ulysses sur d’autres Mac ou iPad). Vous repérez sans doute le dossier *1 minute*, subdivisé en trois sous-dossiers, ou groupes.
 
@@ -57,6 +63,8 @@ Par exemple, si je sélectionne plusieurs feuilles dans la seconde colonne, mêm
 Le texte est donc écrit indépendamment de sa forme. Il ne prend forme que quand on exporte des feuilles en leur appliquant un style. D’un clic, on peut ainsi générer du Word, des PDF, des ebooks, du HTML… et demain tout ce qui reste à imaginer.
 
 ![Ulysses ne crée de fichier qu'au moment de l'exportation.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/one5.jpg)
+
+Ulysses ne crée un fichier qu'au moment de l'exportation.
 
 Aujourd’hui, trop souvent, l’édition fonctionne comme s’il n’existait qu’un seul mode d’exportation. Elle restreint ses possibilités. Le simple passage de la profession à Ulysses suffirait à invalider le modèle unique du livre et faire prendre conscience à tous les acteurs de la pluralité des formats de lecture.
 

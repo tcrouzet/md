@@ -1,6 +1,6 @@
 # Même le corps des auteurs est piraté
 
-L’auteur, c’est une marchandise économique. Tu le prends, tu le plantes derrière une chaise, tu lui dévores deux ou trois jours de vie, en échange d’un billet de train et de quelques restaus pas toujours tip top, toi, l’organisateur de salons ou autres manifestations, tu penses être quitte.<span id="more-37958"></span>
+L’auteur, c’est une marchandise économique. Tu le prends, tu le plantes derrière une chaise, tu lui dévores deux ou trois jours de vie, en échange d’un billet de train et de quelques restaus pas toujours tip top, toi, l’organisateur de salons ou autres manifestations, tu penses être quitte.
 
 Je crois que tu connais mal notre vie d’auteur. Si on vend 100 livres en trois jours, ce qui ne m’est jamais arrivé et qui arrive qu’aux auteurs vedettes ou de niche, on gagne une centaine d’euros. Je te rappelle que le SMIC est aujourd’hui à 9,53 €/h. Si on passe donc trois fois huit heures en ta compagnie, et je devrais inclure le temps de transport, on devrait te facturer au minimum, 9,53x24-nombre de livres vendus, c’est-à-dire en gros 150 € (ce qui couvre ni plus ni moins que nos frais annexes, tous ces verres que nous buvons en ton honneur dans les cafés des alentours).
 
@@ -17,6 +17,8 @@ Voilà qu’il fait du numérique le grand responsable de tout. Pas étonnant av
 Promis, si l’un de vous organise un salon sur la littérature vivante, c’est-à-dire celle qui est produite en ligne, je vous rejoindrai gracieusement.
 
 ![Je prèfère quand Didier Pittet signe à ma place Le geste qui sauve.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/pops.jpg)
+
+Je prèfère quand Didier Pittet signe à ma place Le geste qui sauve.
 
 
 

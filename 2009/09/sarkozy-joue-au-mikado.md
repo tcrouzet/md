@@ -4,7 +4,7 @@
 
 ![mikado 1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/mikado2.jpg)
 
-Pour Sarkozy (remplacez son nom par celui de n’importe quel politicien mais avec le sien ça marche particulièrement bien), le monde est simple. Il ressemble à un jeu de Mikado qui n’existe pas (ci-dessus).<span id="more-10082"></span>
+Pour Sarkozy (remplacez son nom par celui de n’importe quel politicien mais avec le sien ça marche particulièrement bien), le monde est simple. Il ressemble à un jeu de Mikado qui n’existe pas (ci-dessus).
 
 ![mikado 2](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/mikado1.jpg)
 

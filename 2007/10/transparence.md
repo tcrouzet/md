@@ -1,10 +1,10 @@
 # Transparence
 
-C’est le titre du [triller haletant d’Ayerdhal](http://www.amazon.fr/Transparences-Ayerdhal/dp/2253101125). Personne ne remarque l’héroïne alors qu’elle est extraordinairement belle. Elle a découvert comment devenir tout le monde même auprès des gens qui l’aiment.<span id="more-616"></span>
+C’est le titre du [triller haletant d’Ayerdhal](http://www.amazon.fr/Transparences-Ayerdhal/dp/2253101125). Personne ne remarque l’héroïne alors qu’elle est extraordinairement belle. Elle a découvert comment devenir tout le monde même auprès des gens qui l’aiment.
 
 J’ai souvent aspiré à cette transparence, à une espèce d’élégance qui m’aurait permis d’être invisible, c’est-à-dire naturellement à ma place quel que soit l’endroit où je me trouve. Cette aspiration n’est qu’un rêve car je suis trop brut, trop moi-même. Je ressemble plutôt à un éléphant dans un magasin de porcelaines.
 
-Quand j’ai une idée, je ne prends aucune précaution, je l’expose. Après avoir publié ma <a herf="http://blog.tcrouzet.com/2007/10/18/de-la-theorie-a-la-pratique/">vision pour ma commune</a>, des gens m’on reproché cette transparence.
+Quand j’ai une idée, je ne prends aucune précaution, je l’expose. Après avoir publié ma vision pour ma commune, des gens m’on reproché cette transparence.
 
 « Tu vas te faire voler tes idées ! »
 

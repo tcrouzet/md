@@ -1,6 +1,6 @@
 # Sans toi, lecteur, je n’existe pas
 
-Sans toi, je n’ai pas d’idées, de mots, d’espoirs, pas de moteur enraciné en moi.<span id="more-37081"></span>
+Sans toi, je n’ai pas d’idées, de mots, d’espoirs, pas de moteur enraciné en moi.
 
 Sans toi et tes émotions, tout ce que je fais n’a aucun sens.
 
@@ -23,6 +23,8 @@ Sans toi, je n’ai rien à faire le matin. Je me lève et je tourne en rond. J�
 Sans toi, je ne suis qu’un humain, c’est déjà fantastique, mais avec toi, je me transcende, ici et maintenant.
 
 ![Parce qu'il faut une photo poir illusrer le billet.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/auteur.jpg)
+
+Je suis mon premier lecteur.
 
 
 

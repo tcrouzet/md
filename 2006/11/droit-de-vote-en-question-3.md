@@ -1,6 +1,6 @@
 # Droit de vote en question 3
 
-Quand je mets le [droit de vote en question](http://blog.tcrouzet.com/2006/10/20/droit-de-vote-en-question-2/) certains commentateurs disent que je suis immoral sous prétexte que des gens sont morts pour gagner ce droit. Des gens sont aussi morts pour abattre les tours du World Trade Center. Faut-il juger d’une chose à l’aune du prix du sang ?<span id="more-267"></span>
+Quand je mets le [droit de vote en question](http://blog.tcrouzet.com/2006/10/20/droit-de-vote-en-question-2/) certains commentateurs disent que je suis immoral sous prétexte que des gens sont morts pour gagner ce droit. Des gens sont aussi morts pour abattre les tours du World Trade Center. Faut-il juger d’une chose à l’aune du prix du sang ?
 
 Non. Il y a des choses qui marchent un temps puis qui ne marchent plus. C’est le cas du vote. Il est temps de rénover cette vieille invention poussiéreuse. Cette rénovation ne passera pas à coup de gadgets, genre machine à voter, carte d’électeur électronique ou vote à distance. Tous ces machins sont imaginés par des gens qui manquent d’imagination.
 

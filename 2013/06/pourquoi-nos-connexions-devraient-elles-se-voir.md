@@ -1,6 +1,6 @@
 # Pourquoi nos connexions devraient-elles se voir ?
 
-Je suis sans cesse connecté, mais vous croyez peut-être que je suis déconnecté comme en 2011 parce que vous ne me voyez plus en ligne. Je boycotte avec de plus en plus de facilité les réseaux sociaux, et je ne m’en porte pas plus mal.<span id="more-33207"></span>
+Je suis sans cesse connecté, mais vous croyez peut-être que je suis déconnecté comme en 2011 parce que vous ne me voyez plus en ligne. Je boycotte avec de plus en plus de facilité les réseaux sociaux, et je ne m’en porte pas plus mal.
 
 Ce matin, je passe sur Twitter, et ça me désole. J’ai l’impression que tout le monde écrit désormais de la même manière. Je vois tout un peuple malingre s’accrocher à ce lieu social. Quand il coulera, les rats refuseront de quitter le navire. Ils ne prendront même pas conscience qu’ils sont en train de boire la tasse.
 

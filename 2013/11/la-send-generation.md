@@ -1,6 +1,6 @@
 # La Send génération
 
-Les auteurs se diviseraient en deux camps, ceux du Net, ceux du papier. Entretenir cette dichotomie revient à passer à côté de notre révolution. Nombre des auteurs du Net n'écrivent pas autre chose que les auteurs du papier. Notre différence n'est pas dans le support mais dans le [*Send*](http://blog.tcrouzet.com/2013/11/12/ce-que-le-net-a-change-lecriture/).<span id="more-33681"></span>
+Les auteurs se diviseraient en deux camps, ceux du Net, ceux du papier. Entretenir cette dichotomie revient à passer à côté de notre révolution. Nombre des auteurs du Net n'écrivent pas autre chose que les auteurs du papier. Notre différence n'est pas dans le support mais dans le [*Send*](http://blog.tcrouzet.com/2013/11/12/ce-que-le-net-a-change-lecriture/).
 
 Il est là, logé dans les méandres de notre cerveau, toujours disponible, tentant, un peu effrayant, une espèce de drogue dure à laquelle on s'accoutume et qui exige des doses toujours accentuées.
 

@@ -2,7 +2,7 @@
 
 De plus en plus d’outils cherchent à nous éloigner de notre URL personnel, chez nous quoi, pour nous attirer chez eux. « Visitez dans notre centre commercial, ne restez plus sur votre terrasse à discuter avec vos amis, nous dit-on. Vous n’avez même plus besoin d’aller chez eux, ils viennent aussi. » Super.
 
-[Facebook](http://www.facebook.com/tcrouzet) m’insupporte pour cette raison, [Frienfeed](http://friendfeed.com/tcrouzet) aussi. Ces services finissent par vous faire croire que le web se résume à eux seuls. Plus besoin de surfer. « Pour votre confort, nous rassemblons tout sous une interface homogène. » Les applications comme Seesmic Desktop ont la même ambition. On se croirait revenu à l’époque de CompuServe.<span id="more-7932"></span>
+[Facebook](http://www.facebook.com/tcrouzet) m’insupporte pour cette raison, [Frienfeed](http://friendfeed.com/tcrouzet) aussi. Ces services finissent par vous faire croire que le web se résume à eux seuls. Plus besoin de surfer. « Pour votre confort, nous rassemblons tout sous une interface homogène. » Les applications comme Seesmic Desktop ont la même ambition. On se croirait revenu à l’époque de CompuServe.
 
 Je me suis souvent exprimé à ce sujet. Plus nous utilisons des services centralisés, plus nous renonçons à nos libertés numériques en même temps qu’à notre identité numérique. Pas la peine après de gueuler contre Hadopi. Quand tu places tout ton contenu ailleurs que chez toi, faut pas se plaindre si après tu te rends compte que tu n’as plus de chez toi, que plus personne ne sait où tu habites.
 

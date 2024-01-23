@@ -1,6 +1,6 @@
 # Non pyramidal rime avec auto-organisation
 
-Si je n’ai jamais croisé des promoteurs de l’auto-organisation panégyristes du modèle pyramidal, il m’arrive de croiser des gens qui voudraient rejeter les pyramides qui nous écrasent mais qui ne croient pas à l’auto-organisation.<span id="more-2831"></span>
+Si je n’ai jamais croisé des promoteurs de l’auto-organisation panégyristes du modèle pyramidal, il m’arrive de croiser des gens qui voudraient rejeter les pyramides qui nous écrasent mais qui ne croient pas à l’auto-organisation.
 
 Quand je leur demande comment fonctionnerait leur société sans pyramide, je n’obtiens pas de réponse. Pourquoi ? Il me semble que si on enlève les pyramides, c’est-à-dire toute autorité supérieure, il ne reste qu’une forme ou une autre d’auto-organisation.
 

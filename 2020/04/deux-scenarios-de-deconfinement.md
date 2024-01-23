@@ -1,6 +1,6 @@
 # Deux scénarios de déconfinement
 
-Pour mesurer le degré de malhonnêteté ou d’honnêteté ou de transparence de notre gouvernement, il suffira d’analyser l’annonce de Macron prévue pour le 13 avril à 20 heures.<span id="more-53933"></span>
+Pour mesurer le degré de malhonnêteté ou d’honnêteté ou de transparence de notre gouvernement, il suffira d’analyser l’annonce de Macron prévue pour le 13 avril à 20 heures.
 
 ### Scénario 1
 

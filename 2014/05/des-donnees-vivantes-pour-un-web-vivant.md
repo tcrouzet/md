@@ -1,6 +1,6 @@
 # Des données vivantes pour un Web vivant
 
-En 2009, [quand il nous est apparu évident qu’il fallait un après-web](http://blog.tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/), quand nous avons annoncé l’avènement du flux, c’était encore une intuition, ou même une prédication. Le flux allait arriver, presque par magie.<span id="more-35657"></span>
+En 2009, [quand il nous est apparu évident qu’il fallait un après-web](http://blog.tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/), quand nous avons annoncé l’avènement du flux, c’était encore une intuition, ou même une prédication. Le flux allait arriver, presque par magie.
 
 La vérité est moins reluisante. Pour que le flux se déploie, nous devons ajouter une nouvelle couche à internet, [nous devons rendre vivantes les informations](http://blog.tcrouzet.com/2014/05/17/un-livre-na-pas-dadresse-lapres-web-non-plus/). Voici quelques caractéristiques de la vie non végétative appliquées aux informations.
 

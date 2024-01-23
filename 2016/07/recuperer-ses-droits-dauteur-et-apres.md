@@ -1,6 +1,6 @@
 # Récupérer ses droits d’auteur et après…
 
-Beaucoup d’auteurs se lamentent de la médiocrité de leurs éditeurs, et ça m’arrive aussi. Mais il est inutile de prolonger une situation contractuelle insatisfaisante. La plupart des éditeurs restituent sans trop rechigner les droits sur les textes qu’ils n’exploitent plus qu’en pointillé, voire pas du tout.<span id="more-44114"></span>
+Beaucoup d’auteurs se lamentent de la médiocrité de leurs éditeurs, et ça m’arrive aussi. Mais il est inutile de prolonger une situation contractuelle insatisfaisante. La plupart des éditeurs restituent sans trop rechigner les droits sur les textes qu’ils n’exploitent plus qu’en pointillé, voire pas du tout.
 
 Je viens ainsi de récupérer les droits de mes livres publiés chez Bourin, L’Âge d’homme et Publie.net. Ça, c’était simple, maintenant il me faut remettre en circulation ces textes, tant en numérique qu’en version papier.
 

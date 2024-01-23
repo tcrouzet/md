@@ -1,6 +1,6 @@
 # Choisissez une couverture II
 
-Après que vous ayez préféré le poisson rouge parmi [les choix proposés par Pacco](http://blog.tcrouzet.com/2010/09/20/choisissez-votre-couverture-preferee/), j'ai monté quelques couvertures avec l'image finale. Encore une fois vous pouvez donner votre avis, voire proposer vos propres variations. Je diffuse aussi ces images pour que Pacco me dise ce qu'il en pense.<span id="more-19390"></span>
+Après que vous ayez préféré le poisson rouge parmi [les choix proposés par Pacco](http://blog.tcrouzet.com/2010/09/20/choisissez-votre-couverture-preferee/), j'ai monté quelques couvertures avec l'image finale. Encore une fois vous pouvez donner votre avis, voire proposer vos propres variations. Je diffuse aussi ces images pour que Pacco me dise ce qu'il en pense.
 
 ### Minimaliste
 

@@ -8,7 +8,7 @@
 
 ### Mardi 2, Balaruc
 
-Duras pensait à toutes les femmes qui l’avaient précédée dans sa maison, vieille de deux siècles. Aujourd’hui, pour la plupart, nous vivons dans des maisons neuves, des appartements neufs, sans passé, sans avenir, sans histoire de fantômes. Et quand nous vivons dans des maisons anciennes, elles ont été rénovées, les murs enduits à nouveau ou décapés, les portes changées, les cloisons réagencées, les fenêtres remplacées. Les poignées polies n’existent pratiquement plus, guère plus que les marches creusées dans les escaliers. Vivre dans le neuf doit avoir des conséquences sur nos vies, nos rêves. Nous nous détachons des nécessités du temps.<span id="more-64265"></span>
+Duras pensait à toutes les femmes qui l’avaient précédée dans sa maison, vieille de deux siècles. Aujourd’hui, pour la plupart, nous vivons dans des maisons neuves, des appartements neufs, sans passé, sans avenir, sans histoire de fantômes. Et quand nous vivons dans des maisons anciennes, elles ont été rénovées, les murs enduits à nouveau ou décapés, les portes changées, les cloisons réagencées, les fenêtres remplacées. Les poignées polies n’existent pratiquement plus, guère plus que les marches creusées dans les escaliers. Vivre dans le neuf doit avoir des conséquences sur nos vies, nos rêves. Nous nous détachons des nécessités du temps.
 
 ### Mercredi 3, Balaruc
 

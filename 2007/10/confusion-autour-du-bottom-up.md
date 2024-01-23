@@ -1,6 +1,6 @@
 # Confusion autour du bottom-up
 
-Lors des échanges qui ont suivi [ma critique du Modem](http://blog.tcrouzet.com/2007/09/20/modem-centric/), j’ai noté que beaucoup de gens avaient une idée erronée du bottom-up. Nos politiciens autocrates les ont piégés par un dévoiement dont ils ont la spécialité.<span id="more-578"></span>
+Lors des échanges qui ont suivi [ma critique du Modem](http://blog.tcrouzet.com/2007/09/20/modem-centric/), j’ai noté que beaucoup de gens avaient une idée erronée du bottom-up. Nos politiciens autocrates les ont piégés par un dévoiement dont ils ont la spécialité.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/20071001auto.jpg)
 

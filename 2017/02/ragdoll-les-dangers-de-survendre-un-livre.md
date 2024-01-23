@@ -1,6 +1,6 @@
 # Ragdoll : les dangers de survendre un livre
 
-J’ai beaucoup ri en lisant le début de [*Ragdoll*](https://www.amazon.fr/Ragdoll-%C3%A9dition-fran%C3%A7aise-Daniel-COLE/dp/2221197720/), un roman pourtant censé être plus noir que noir. Je vous ai [déjà parlé de ce thriller](http://tcrouzet.com/2017/01/31/comment-se-faire-editer/) dont Trapeze, l’éditeur anglais, a fait la promotion durant plus d’un an avant sa publication, annonçant partout, haut et fort, qu’il tenait le prochain *Da Vinci Code*, si bien que les éditeurs internationaux, Robert Laffont compris, ont fait de gros chèques pour s’arracher ce premier roman de Daniel Cole.<span id="more-44968"></span>
+J’ai beaucoup ri en lisant le début de [*Ragdoll*](https://www.amazon.fr/Ragdoll-%C3%A9dition-fran%C3%A7aise-Daniel-COLE/dp/2221197720/), un roman pourtant censé être plus noir que noir. Je vous ai [déjà parlé de ce thriller](http://tcrouzet.com/2017/01/31/comment-se-faire-editer/) dont Trapeze, l’éditeur anglais, a fait la promotion durant plus d’un an avant sa publication, annonçant partout, haut et fort, qu’il tenait le prochain *Da Vinci Code*, si bien que les éditeurs internationaux, Robert Laffont compris, ont fait de gros chèques pour s’arracher ce premier roman de Daniel Cole.
 
 Dès le jour de sa sortie officielle, je me suis empressé de dénicher un exemplaire. Après l’avalanche de superlatifs, les commentaires dithyrambiques de centaines de bêta lecteurs, je m’attendais à tout, sauf à tomber sur un vulgaire polar d’une structure banalement ordinaire.
 

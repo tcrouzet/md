@@ -1,6 +1,6 @@
 # Achetez un ebook, c’est s’y abonner (ça ouvre des possibilités)
 
-Je publie tous les jours un épisode d’[*Une minute*](http://blog.tcrouzet.com/une-minute/). Conscient que de nombreux lecteurs préfèrent lire ce roman par séquences plus longues, j’ai diffusé fin janvier un premier tome avec une trentaine de minutes. Je n’ai pas recommencé fin février. Explications.<span id="more-40034"></span>
+Je publie tous les jours un épisode d’[*Une minute*](http://blog.tcrouzet.com/une-minute/). Conscient que de nombreux lecteurs préfèrent lire ce roman par séquences plus longues, j’ai diffusé fin janvier un premier tome avec une trentaine de minutes. Je n’ai pas recommencé fin février. Explications.
 
 Pour publier un nouvel ebook, il faut un nouveau code ISBN, de nouveaux méta-tags, une nouvelle couverture, de nouveaux liens promotionnels vers toutes les librairies… C’est du travail, ça implique des pages dédiées sur le blog, du bruit inutile sur les réseaux sociaux, des mises à jour sur de nombreux fichiers…
 

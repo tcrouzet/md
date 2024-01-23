@@ -9,8 +9,6 @@ Et autres nouvelles
 
 ##### **papier 13.99 €** : [Amazon](https://www.amazon.fr/tune-dans-caniveau-Thierry-Crouzet/dp/1537564900/), [CreateSpace](https://www.createspace.com/6560231).
 
-
-
 C’est la grève géné­rale. Sui­vis par les came­ra­men de la triD, les pauvres dépouillent les riches et para­lysent Paris. Les ordures s’accumulent dans les rues. Extase pénètre dans le 6e arron­dis­se­ment aban­donné aux insur­gés pour y retrou­ver son père, le plus célèbre des acti­vistes du réseau.
 
 Suivi de nouvelles et esquisses…

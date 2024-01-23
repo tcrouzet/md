@@ -1,6 +1,6 @@
 # Tour de l’Hérault Bikepacking : agrandir l&#8217;imaginaire
 
-Je suis né dans l’Hérault, j'ai étudié dans l'Hérault, je vis dans l'Hérault, mais je ne connaissais pas l’intimité du département jusqu’à ce que je me toque de tracer [une boucle bikepacking](https://tcrouzet.com/gth/) suivant sa frontière pour en découvrir la diversité géographique.<span id="more-58564"></span>
+Je suis né dans l’Hérault, j'ai étudié dans l'Hérault, je vis dans l'Hérault, mais je ne connaissais pas l’intimité du département jusqu’à ce que je me toque de tracer [une boucle bikepacking](https://tcrouzet.com/gth/) suivant sa frontière pour en découvrir la diversité géographique.
 
 Je suis allé de surprises en révélations, écarquillant les yeux avec émerveillement devant les panoramas incroyables, tantôt dignes de la Toscane, tantôt du grand Canyon. Je n’ai bientôt eu qu’une envie : partager mon plaisir, inviter des copains comme des inconnus [à parcourir le tour de bout en bout en une aventure non-stop](https://tcrouzet.com/gth/).
 

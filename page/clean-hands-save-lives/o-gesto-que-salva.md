@@ -11,8 +11,6 @@ Uma iniciação à economia da paz
 
 ##### **papier 12.86 €** : [Amazon.fr](http://www.amazon.fr/gesto-que-salva-Portuguese-Edition/dp/149918932X/), [Amazon.com](http://www.amazon.com/gesto-que-salva-Portuguese-Edition/dp/149918932X/), [CreateSpace](https://www.createspace.com/4767223).
 
-
-
 Talvez você não tenha se dado conta, mas aconteceu uma inovação que mudou sua vida. Friccionando as mãos com um gel hidroalcoólico, você se protege das doenças.
 
 Esta é a história de um produto revolucionário que nunca foi patenteado, um presente que o professor Didier Pittet e sua equipe dos Hospitais Universitários de Genebra ofereceram à humanidade.

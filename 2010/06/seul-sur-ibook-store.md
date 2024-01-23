@@ -1,6 +1,6 @@
 # Suis-je le seul autoplublié sur iBooks Store&nbsp;?
 
-Un principe élémentaire du marketing, c’est la promotion croisée, jadis abondamment pratiquée par les blogueurs. Alors nous autres auteurs avons intérêt à nous auto-stimuler, sinon la révolution ebook nous passera sous le nez et seuls les grands groupes en tireront profit.<span id="more-17250"></span>
+Un principe élémentaire du marketing, c’est la promotion croisée, jadis abondamment pratiquée par les blogueurs. Alors nous autres auteurs avons intérêt à nous auto-stimuler, sinon la révolution ebook nous passera sous le nez et seuls les grands groupes en tireront profit.
 
 Depuis lundi avec la disponibilité de l’OS4 d’Apple, plus de 100 millions d’iPhones et iPod se sont soudain transformés en liseuses. Chaque possesseur d’iPhone ou d’iPod peut acheter des livres via l’application iBook. Depuis que [je me suis autopublié chez Apple](http://blog.tcrouzet.com/2010/05/28/crouzet-dans-le-top-vente-ipad/), je n’ai pas vu mes stats frémir. Rien de surprenant, mais cette situation peut en rester là pour tous les indépendants si nous ne sonnons pas le tocsin.
 

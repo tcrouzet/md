@@ -1,6 +1,6 @@
 # J’habite la maison de Candice Renoir
 
-Connaissez-vous Candice ? C’est l’héroïne [d’une des séries françaises les plus vues](https://www.france.tv/france-2/candice-renoir/), les plus exportées. Incarnée par l’actrice [Cécile Bois](https://fr.wikipedia.org/wiki/C%C3%A9cile_Bois), Candice est une flic empathique, qui résout les affaires au flair plus qu’à force de déductions à la Sherlock Holmes.<span id="more-51920"></span>
+Connaissez-vous Candice ? C’est l’héroïne [d’une des séries françaises les plus vues](https://www.france.tv/france-2/candice-renoir/), les plus exportées. Incarnée par l’actrice [Cécile Bois](https://fr.wikipedia.org/wiki/C%C3%A9cile_Bois), Candice est une flic empathique, qui résout les affaires au flair plus qu’à force de déductions à la Sherlock Holmes.
 
 Depuis quelques années, Candice habite chez moi. Un jour, un gars sonne à ma porte. Ce devait être en 2013, époque du tournage de la saison 2. Il m’explique qu’il est repéreur et cherche des lieux pour une série tournée sur Sète. « Ça vous dirait de louer votre maison ? Elle est pas mal, peut-être un peu moderne par rapport à ce qu’on cherche, mais vraiment pas mal, avec une vue magnifique. »
 

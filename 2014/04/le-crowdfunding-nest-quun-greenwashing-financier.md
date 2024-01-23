@@ -1,6 +1,6 @@
 # Le crowdfunding n’est qu&#8217;un greenwashing financier
 
-C’est en terminant la lecture de *Mountains Beyond Mountains*, le récit par Tracy Kidder de la vie de Paul Farmer, médecin qui se voue aux pauvres, que je viens de comprendre mon trouble quant aux plateformes de crowdfunding, [mal exprimé dans mon précédent papier et les conversations qui ont suivi](http://blog.tcrouzet.com/2014/04/29/cest-beau-le-crowdfunding-mais-cest-une-arnaque-de-plus/).<span id="more-35333"></span>
+C’est en terminant la lecture de *Mountains Beyond Mountains*, le récit par Tracy Kidder de la vie de Paul Farmer, médecin qui se voue aux pauvres, que je viens de comprendre mon trouble quant aux plateformes de crowdfunding, [mal exprimé dans mon précédent papier et les conversations qui ont suivi](http://blog.tcrouzet.com/2014/04/29/cest-beau-le-crowdfunding-mais-cest-une-arnaque-de-plus/).
 
 Quand on aide les pauvres, exige-t-on de recevoir un pourcentage de l’aide financière qu’on leur apporte ? Il me semble que non, et c’est certainement pas ce que fait Paul Farmer. Il a créé une [fondation](http://www.pih.org/) qui a fini par avoir des frais de structure, mais tirés au plus bas. Le but d’un telle organisation est clairement de servir les plus déshérités, pas son propre enrichissement.
 

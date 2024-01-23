@@ -1,6 +1,6 @@
 # Sermonner Jérôme Ferrari
 
-Quand je n’aime pas un texte, j’arrête de le lire et je n’en parle pas. Je ferais mieux d’écrire un bel article sur *Ciseaux* de Stéphane Michaka que perdre mon temps. Mais on ne se refait pas.<span id="more-30178"></span>
+Quand je n’aime pas un texte, j’arrête de le lire et je n’en parle pas. Je ferais mieux d’écrire un bel article sur *Ciseaux* de Stéphane Michaka que perdre mon temps. Mais on ne se refait pas.
 
 Après tout, dans notre monde, nos illustres jurés Goncourt définissent le bon goût littéraire pour tout un peuple, et j’ai bien le droit, et presque le devoir, de m’indigner de leur indignité. D’autant que cette même caste a le verbe facile pour nous accuser, nous autres blogouilleurs écrivaillant et s’autopubliant en numérique, de déshonorer notre langue.
 

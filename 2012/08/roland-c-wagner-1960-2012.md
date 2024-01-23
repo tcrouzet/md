@@ -1,6 +1,6 @@
 # Roland C. Wagner, 1960–2012
 
-Je ne sais pas quelle mort a souhaité Roland. Pour le peu que je le connaissais, à travers deux repas passés avec lui, à travers la lecture de ses livres, j’imagine que la violence ne lui aurait pas déplut. [Celle qui l’a saisi hier](http://www.sudouest.fr/2012/08/06/un-cognacais-decede-dans-une-sortie-de-route-787842-2938.php) n’en reste pas moins trop absurde pour ceux qui l’aimaient.<span id="more-26692"></span>
+Je ne sais pas quelle mort a souhaité Roland. Pour le peu que je le connaissais, à travers deux repas passés avec lui, à travers la lecture de ses livres, j’imagine que la violence ne lui aurait pas déplut. [Celle qui l’a saisi hier](http://www.sudouest.fr/2012/08/06/un-cognacais-decede-dans-une-sortie-de-route-787842-2938.php) n’en reste pas moins trop absurde pour ceux qui l’aimaient.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/08/roland-450x675.jpg)
 

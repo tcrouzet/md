@@ -1,6 +1,6 @@
 # Bikepacking : Salagou overnighter
 
-[Deux semaines après la GTMC](https://tcrouzet.com/2021/07/26/la-gtmc-des-bijoux-a-travers-les-cailloux/), Lionel a envie d’une dernière cession de bikepacking sur deux jours. Je lui propose une trace à laquelle je pense depuis quelque temps, qui mixe [727](https://tcrouzet.com/727tour/) et [i727](https://tcrouzet.com/2021/06/10/i727-nouveau-projet-bikepacking/), ainsi que des chemins que j’ai l’habitude de parcourir.<span id="more-60059"></span>
+[Deux semaines après la GTMC](https://tcrouzet.com/2021/07/26/la-gtmc-des-bijoux-a-travers-les-cailloux/), Lionel a envie d’une dernière cession de bikepacking sur deux jours. Je lui propose une trace à laquelle je pense depuis quelque temps, qui mixe [727](https://tcrouzet.com/727tour/) et [i727](https://tcrouzet.com/2021/06/10/i727-nouveau-projet-bikepacking/), ainsi que des chemins que j’ai l’habitude de parcourir.
 
 Si dans son [Local Overnighter Project](https://bikepacking.com/overnighters/), Bikepacking.com suggère des boucles entre 48-160 km, je tire sur la corde pour aboutir à une boucle de 245 km, avec des variantes à 200 km, pour 3 500 m de dénivelé positif. L’aventure commence à Sète/Balaruc et revient à Sète/Balaruc. De la mer, elle rejoint [le mont Saint-Baudille](https://fr.wikipedia.org/wiki/Mont_Saint-Baudille), à 848 m, avant de plonger sur le lac du Salagou et revenir vers la mer, suivant à cette occasion quelques sections du final de la GTMC (mais arrangées pour ne pas manquer des singles incontournables).
 

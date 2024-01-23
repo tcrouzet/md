@@ -1,6 +1,6 @@
 # Le vélo comme écriture
 
-Ce que je m’apprête à dire au sujet du vélo et de l’écriture, un peintre pourrait le dire au sujet de la peinture et du vélo, un musicien au sujet de la musique et du vélo, un vidéaste au sujet de la vidéo et du vélo…<span id="more-50886"></span>
+Ce que je m’apprête à dire au sujet du vélo et de l’écriture, un peintre pourrait le dire au sujet de la peinture et du vélo, un musicien au sujet de la musique et du vélo, un vidéaste au sujet de la vidéo et du vélo…
 
 Quand je fais du vélo, quand j’écris, je me sens vivre, ma sensibilité se démultiplie, donc mes perceptions, donc mon sentiment d’existence. J’aime tant cette sensation que j’en oublie souvent d’effectuer les tâches qui ne m’amènent pas aussi haut, aussi loin, à ce fragile point de bascule où tout paraît possible.
 

@@ -1,6 +1,6 @@
 # Ma vélosophie et ses conséquences pratiques
 
-Didier Tronchet et son [*Petit traité de vélosophie*](https://www.amazon.fr/Petit-trait%C3%A9-v%C3%A9losophie-Didier-TRONCHET/dp/2259227643/), Bernard Chambaz et se [*Petite philosophie du vélo*](https://www.amazon.fr/gp/product/2081331055), Guillaume Martin et son [*Socrate à vélo*](https://www.amazon.fr/Socrate-%C3%A0-v%C3%A9lo-France-philosophes/dp/2246815754/), moi qui me suis lancé dans un [*Born to bike*](https://tcrouzet.com/borntobike/), il y a peut-être quelque chose de profond qui se joue autour du vélo, à ce moment précis de notre histoire.<span id="more-51146"></span>
+Didier Tronchet et son [*Petit traité de vélosophie*](https://www.amazon.fr/Petit-trait%C3%A9-v%C3%A9losophie-Didier-TRONCHET/dp/2259227643/), Bernard Chambaz et se [*Petite philosophie du vélo*](https://www.amazon.fr/gp/product/2081331055), Guillaume Martin et son [*Socrate à vélo*](https://www.amazon.fr/Socrate-%C3%A0-v%C3%A9lo-France-philosophes/dp/2246815754/), moi qui me suis lancé dans un [*Born to bike*](https://tcrouzet.com/borntobike/), il y a peut-être quelque chose de profond qui se joue autour du vélo, à ce moment précis de notre histoire.
 
 Je voudrais enchaîner quelques propositions pour conduire d’une vision du cyclisme au cyclisme aujourd’hui possible. C’est une ébauche de réflexion.
 

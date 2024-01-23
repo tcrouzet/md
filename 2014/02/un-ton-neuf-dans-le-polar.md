@@ -1,6 +1,6 @@
 # Un ton neuf dans le polar
 
-J’en ai assez de ces textes écrits pour divertir, de ces histoires de flic ou de vaurien écrites par des auteurs qui n’ont rien de flic ou de vaurien. Ils croient leur imagination toute puissante et elle les trahit à chaque ligne. Leur méchanceté est feinte, leur psychologie débile, leur intrigue digne de Disneyland.<span id="more-34443"></span>
+J’en ai assez de ces textes écrits pour divertir, de ces histoires de flic ou de vaurien écrites par des auteurs qui n’ont rien de flic ou de vaurien. Ils croient leur imagination toute puissante et elle les trahit à chaque ligne. Leur méchanceté est feinte, leur psychologie débile, leur intrigue digne de Disneyland.
 
 Dans ce paysage sinistré, [Lilian Bathelot](http://lilian.bathelot.free.fr/) nous a concocté une giclée de ferraille virtuose. Une œuvre de tireur délite, d’amoureux des armes et des femmes. C’est bref, de cette longueur attachée au temps d’aujourd’hui, c’est intense et fracassant. Le diamétral opposé de cette mode intensifiée par *Millénium*, de cette tentation du non-style alangui dans des descriptions infiniment lassantes. Lilian, lui, me cloue en deux phrases et me placarde contre les vitres de son huis clos, tout en me projetant dans une temporalité dédoublée, celle d’un train, celle d’une époque idéale et révolue. Le résultat est musical et limpide.
 

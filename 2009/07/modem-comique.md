@@ -1,6 +1,6 @@
 # Modem comique
 
-Ce n’est pas dans mon habitude de rire aux dépends, mais je peux pas m’en empêcher ce matin. [Ma page d’accueil coZop](http://cozop.com) (qui offre maintenant de nouvelles fonctionnalités pour les connectés) m’a affiché un article de Christophe Ginisty : [Le MoDem, entre innovation et conservatisme](http://cozop.com/christophe_ginisty/le_modem_entre_innovation_et_conservatisme). Le titre m’interpelle. Christophe se réveillerait-t-il. Raté.<span id="more-7671"></span>
+Ce n’est pas dans mon habitude de rire aux dépends, mais je peux pas m’en empêcher ce matin. [Ma page d’accueil coZop](http://cozop.com) (qui offre maintenant de nouvelles fonctionnalités pour les connectés) m’a affiché un article de Christophe Ginisty : [Le MoDem, entre innovation et conservatisme](http://cozop.com/christophe_ginisty/le_modem_entre_innovation_et_conservatisme). Le titre m’interpelle. Christophe se réveillerait-t-il. Raté.
 
 > François Bayrou et Marielle de Sarnez ont imaginé un mouvement très en avance sur leur époque. Ils ont dessiné sur le papier un truc qui n'existait pas encore, incroyablement séduisant d'un point de vue intellectuel mais sans aucun repère réel dans la "vraie vie" politique. Ils ont théorisé le mouvement du 21ème siècle avec des gens du 20ème siècle et celui-ci peine à exister tel qu'il a été conçu du fait d'innombrables résistances, tant au sein de notre famille politique qu'à l'extérieur.
 

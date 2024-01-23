@@ -1,6 +1,6 @@
 # De la gouvernance de demain à Edward Snowden
 
-Des sujets me travaillent durant des semaines, je veux en parler puis je renonce parce que tout le monde en parle, et d’ailleurs je ne les écoute pas, ou de très loin, par un effet de chambre de résonance propre à notre société connectée. Puis les mots s’emboîtent, presque par surprise.<span id="more-34466"></span>
+Des sujets me travaillent durant des semaines, je veux en parler puis je renonce parce que tout le monde en parle, et d’ailleurs je ne les écoute pas, ou de très loin, par un effet de chambre de résonance propre à notre société connectée. Puis les mots s’emboîtent, presque par surprise.
 
 Tout le monde nous rabâche les oreilles de la gouvernance de demain. C’est devenu de bon ton. Pas difficile de constater que la gouvernance d’aujourd’hui est catastrophique et d’admettre qu’il faut en changer. Mais peu de visionnaires politiquement corrects osent se débarrasser du mot même de gouvernance. Par leur usage de ce vocable, ils se reconnaissent les partisans d’une vieille tradition qu’ils refusent de remettre en cause.
 

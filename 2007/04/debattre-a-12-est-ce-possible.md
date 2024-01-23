@@ -1,6 +1,6 @@
 # Débattre à 12 est-ce possible ?
 
-J’ai peut-être écarté trop vite l’idée d’un vrai débat à 12 : un cercle avec les animateurs au centre, le public autour. Voici une proposition qui surgit ici sur ce blog et en même temps sur Agoravox. J'aime assez.<span id="more-421"></span>
+J’ai peut-être écarté trop vite l’idée d’un vrai débat à 12 : un cercle avec les animateurs au centre, le public autour. Voici une proposition qui surgit ici sur ce blog et en même temps sur Agoravox. J'aime assez.
 
 Pas de temps de parole mesurée (pas de CSA), pas de durée annoncée (pas de programme). Les candidats partent quand ils en ont assez, comme les invités qui quittent une soirée. Une seule règle : les prises de parole ne doivent pas excéder 60 secondes.
 

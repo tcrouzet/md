@@ -1,6 +1,6 @@
 # L’archipel de la littérature numérique
 
-[Ouessant nous a rapprochés](http://blog.tcrouzet.com/2010/08/20/numerile/) : quelques auteurs, éditeurs et lecteurs ; au détour d’une rue venteuse, à l’abri d’un muret au-dessus du port de Lampaul, allongé au soleil à même le béton d’une cale rugueuse ou à l’ombre d’un bosquet de saules noirs. Nous avons navigué entre nos gîtes, les cafés et le Salon du livre insulaire, improvisant partout, en tous lieux, des débats, parfois officialisés, souvent impromptus et énervés, partout où nous trouvions à nous abreuver.<span id="more-18701"></span>
+[Ouessant nous a rapprochés](http://blog.tcrouzet.com/2010/08/20/numerile/) : quelques auteurs, éditeurs et lecteurs ; au détour d’une rue venteuse, à l’abri d’un muret au-dessus du port de Lampaul, allongé au soleil à même le béton d’une cale rugueuse ou à l’ombre d’un bosquet de saules noirs. Nous avons navigué entre nos gîtes, les cafés et le Salon du livre insulaire, improvisant partout, en tous lieux, des débats, parfois officialisés, souvent impromptus et énervés, partout où nous trouvions à nous abreuver.
 
 À cause de sa petitesse et de la mer qui l’entoure, Ouessant impose la confrontation, le direct, le face à face. Nous ne pouvons nous y cacher longtemps. Même en fuite sur le sentier côtier qui ondule en légères montagnes russes, nous sommes débusqués, démasqués, forcés de nous livrer, de nous repenser, de repenser notre travail, de repartir avec le plein d’idées, avec autant de doutes qu’avant, mais avec la volonté redoublée de nous surpasser.
 

@@ -1,6 +1,6 @@
 # La conne haine du marketing
 
-Depuis que je parle de [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/), depuis que je vous invite à lire cette nouvelle désopilante dans un Paris pourrissant, depuis que je vous adjure d’écrire un billet pour [gagner une liseuse Bookeen](http://blog.tcrouzet.com/tune-caniveau/concours/), on m’accuse un peu partout de faire du marketing et de contredire ma critique de ce même marketing, surtout après ma sortie contre [les community managers](http://blog.tcrouzet.com/2010/09/16/les-community-managers-sont-des-putes/).<span id="more-20049"></span>
+Depuis que je parle de [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/), depuis que je vous invite à lire cette nouvelle désopilante dans un Paris pourrissant, depuis que je vous adjure d’écrire un billet pour [gagner une liseuse Bookeen](http://blog.tcrouzet.com/tune-caniveau/concours/), on m’accuse un peu partout de faire du marketing et de contredire ma critique de ce même marketing, surtout après ma sortie contre [les community managers](http://blog.tcrouzet.com/2010/09/16/les-community-managers-sont-des-putes/).
 
 J’ai des amis blogueurs qui m’ont clairement dit qu’ils n’écriraient pas de billet car ils ne voulaient pas entrer dans ce jeu décadent. Plaçons-nous dans un autre domaine. Imaginez que je sois paysan et que je décide ne plus passer par la grande distribution.
 

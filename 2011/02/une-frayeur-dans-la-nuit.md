@@ -1,6 +1,6 @@
 # Une frayeur dans la nuit
 
-La nuit dernière, je me réveille en sursaut. J’ai du mal à respirer. Je bois. Rien ne change. J’ai l’impression d’avoir la poitrine compressée. Je n’ai jamais connu ça. Je réveille Isa. Elle me dit que je suis blême et elle appelle le 15.<span id="more-21267"></span>
+La nuit dernière, je me réveille en sursaut. J’ai du mal à respirer. Je bois. Rien ne change. J’ai l’impression d’avoir la poitrine compressée. Je n’ai jamais connu ça. Je réveille Isa. Elle me dit que je suis blême et elle appelle le 15.
 
 Je me retrouve bien vite dans une ambulance avec des électrodes plantées dans tout le corps. J’ai retrouvé une respiration normale. Je me sens un peu con. Je ne sais vraiment pas ce qui m’a pris. J’ai failli twitter, mais j’ai résisté, ce n’était pas assez grave.
 

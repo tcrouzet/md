@@ -1,6 +1,6 @@
 # Vacances au Calvi des Khmers Verts
 
-Comme il y a des lecteurs qui aiment être pris par la main, il y a des vacanciers qui sont terrifiés à l’idée de s’ennuyer. Alors ils partent en voyages organisés ou visitent les villes lors des festivals. Plus besoin de penser, il suffit de suivre le programme.<span id="more-20078"></span>
+Comme il y a des lecteurs qui aiment être pris par la main, il y a des vacanciers qui sont terrifiés à l’idée de s’ennuyer. Alors ils partent en voyages organisés ou visitent les villes lors des festivals. Plus besoin de penser, il suffit de suivre le programme.
 
 Parmi ces vacanciers, nombre de ceux qui jamais ne mettraient les pieds à Disney Land se rendent en Corse fin octobre pour assister à Calvi au [festival du vent](http://www.lefestivalduvent.com/). À l’instigation de quelques amis, je m’y suis retrouvé cette année.
 

@@ -1,6 +1,6 @@
 # Vendez-vous vos livres ?
 
-Un petit rappel, destiné aux auteurs qui communiquent mal avec leurs éditeurs. Avec [Author Central](https://authorcentral.amazon.fr), Amazon nous propose une plateforme pour suivre nos ventes, ou tout au moins notre classement dans le top des ventes Amazon, ce qui revient un peu au même (si t’es pas dans le top 100, tu ne gagnes pas ta vie).<span id="more-34184"></span>
+Un petit rappel, destiné aux auteurs qui communiquent mal avec leurs éditeurs. Avec [Author Central](https://authorcentral.amazon.fr), Amazon nous propose une plateforme pour suivre nos ventes, ou tout au moins notre classement dans le top des ventes Amazon, ce qui revient un peu au même (si t’es pas dans le top 100, tu ne gagnes pas ta vie).
 
 ![Classement des ventes Amazon](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/amazon.png)
 

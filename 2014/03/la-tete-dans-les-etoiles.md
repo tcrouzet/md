@@ -1,6 +1,6 @@
 # La tête dans les étoiles
 
-Hier, en fin d’après-midi, je suis en voiture avec Émile, bientôt sept ans. Il est assis à côté de moi, sur le siège avant de l’utilitaire familial, son vélo et celui de son frère à l’arrière. Il tombe quelques gouttes, on a craint un fort orage, ce qui nous a découragés de pédaler.<span id="more-34922"></span>
+Hier, en fin d’après-midi, je suis en voiture avec Émile, bientôt sept ans. Il est assis à côté de moi, sur le siège avant de l’utilitaire familial, son vélo et celui de son frère à l’arrière. Il tombe quelques gouttes, on a craint un fort orage, ce qui nous a découragés de pédaler.
 
 Émile : Tu sais, papa, je crois en Dieu. Ben oui, Dieu, c’est tout ce qui se mange. Toi, aussi tu crois en Dieu.
 

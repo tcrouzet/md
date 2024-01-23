@@ -1,6 +1,6 @@
 # La naissance du logiciel libre
 
-Comme je m’apprête à rencontrer [Richard Stallman](http://stallman.org/), j’ai replongé dans *Un PC sans Microsoft*, un livre que j’ai écrit durant l’été 2002 et publié en février 2003 chez First Édition. En route vers Genève, j’ai récupéré les passages qui pouvaient encore avoir un sens aujourd’hui. En relisant ces lignes, j’ai l’impression d'assister au réveil de ma conscience politique. Tout cela me paraît si loin alors qu’il ne s’est écoulé que huit ans.<span id="more-20298"></span>
+Comme je m’apprête à rencontrer [Richard Stallman](http://stallman.org/), j’ai replongé dans *Un PC sans Microsoft*, un livre que j’ai écrit durant l’été 2002 et publié en février 2003 chez First Édition. En route vers Genève, j’ai récupéré les passages qui pouvaient encore avoir un sens aujourd’hui. En relisant ces lignes, j’ai l’impression d'assister au réveil de ma conscience politique. Tout cela me paraît si loin alors qu’il ne s’est écoulé que huit ans.
 
 ---
 

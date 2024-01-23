@@ -1,6 +1,6 @@
 # Internet stimule l’imbécilité
 
-De nos jours, aux États-Unis. Pour avoir participé à un viol collectif, 7 mois de prison[1](#_ftn1). Pour un braquage à main armée, 18 mois. Pour l’enregistrement vidéo d’un film dans une salle, 24 mois[2](#_ftn2). Pendant que de plus en plus de gens dénigrent Internet, prétendent qu’il n’a aucune influence politique et sociale, les tribunaux dispensent des peines disproportionnées pour des délits survenus sur Internet. Dans le même temps, les gouvernements votent des lois pour réduire la liberté des internautes. N’est-ce pas paradoxal ?<span id="more-15013"></span>
+De nos jours, aux États-Unis. Pour avoir participé à un viol collectif, 7 mois de prison[1](#_ftn1). Pour un braquage à main armée, 18 mois. Pour l’enregistrement vidéo d’un film dans une salle, 24 mois[2](#_ftn2). Pendant que de plus en plus de gens dénigrent Internet, prétendent qu’il n’a aucune influence politique et sociale, les tribunaux dispensent des peines disproportionnées pour des délits survenus sur Internet. Dans le même temps, les gouvernements votent des lois pour réduire la liberté des internautes. N’est-ce pas paradoxal ?
 
 Si Internet n’avait aucune importance, pourquoi faudrait-il légiférer à son sujet ? Pourquoi faudrait-il pénaliser des activités qui ne mettent en danger la vie de personne ? Pourquoi même faudrait-il en parler ? Mais si on en parle autant, n’est-ce pas que quelque chose couve ? Peut-être pas quelque chose qui a été prévu, mais quelque chose d'encore innommable.
 

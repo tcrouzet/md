@@ -2,7 +2,7 @@
 
 [Article écrit pour *Le Temps* qui reprend des idées souvent évoquées ici.](http://www.letemps.ch/template/opinions.asp?page=6&article=234305)
 
-En 1968, un peu partout en Europe et aux États-Unis, les jeunes se révoltaient et croyaient changer le monde. Mais en profondeur rien n’a changé, les révolutions ne changent jamais rien, sinon quelques têtes. Et si la véritable révolution se produisait quand aucun évènement extraordinaire ne trouble la société ? Alors que notre époque est souvent qualifiée de désenchantée, parce qu’aucun rêve ne semble l’animer, ne serait-elle pas au contraire le siège d’un bouleversement historique ? Ne serions-nous pas en train de basculer de la société hiérarchique vers la civilisation en réseau ?<span id="more-1655"></span>
+En 1968, un peu partout en Europe et aux États-Unis, les jeunes se révoltaient et croyaient changer le monde. Mais en profondeur rien n’a changé, les révolutions ne changent jamais rien, sinon quelques têtes. Et si la véritable révolution se produisait quand aucun évènement extraordinaire ne trouble la société ? Alors que notre époque est souvent qualifiée de désenchantée, parce qu’aucun rêve ne semble l’animer, ne serait-elle pas au contraire le siège d’un bouleversement historique ? Ne serions-nous pas en train de basculer de la société hiérarchique vers la civilisation en réseau ?
 
 La société hiérarchique tout le monde connaît : nous avons presque tous un chef qui a lui-même un chef. C’est vrai dans la plupart des entreprises, des gouvernements et même des associations. Nous vivons dans une société pyramidale. Mais n’est-ce pas une illusion d’optique ?
 

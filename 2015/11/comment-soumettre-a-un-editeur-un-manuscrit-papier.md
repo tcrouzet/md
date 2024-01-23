@@ -1,6 +1,6 @@
 # Comment soumettre à un éditeur un manuscrit papier
 
-Depuis des années, j’échange avec les éditeurs des fichiers électroniques et j’ai pris l’habitude de voir mes textes imprimés qu’une fois en librairie. Sauf qu’aujourd’hui on me demande une version papier de [*One Minute*](http://tcrouzet.com/une-minute/). Je passe sur cette demande incongrue, le but de ce billet n’est pas de la discuter, mais de lui trouver une réponse.<span id="more-42865"></span>
+Depuis des années, j’échange avec les éditeurs des fichiers électroniques et j’ai pris l’habitude de voir mes textes imprimés qu’une fois en librairie. Sauf qu’aujourd’hui on me demande une version papier de [*One Minute*](http://tcrouzet.com/une-minute/). Je passe sur cette demande incongrue, le but de ce billet n’est pas de la discuter, mais de lui trouver une réponse.
 
 Données du problème :
 
@@ -20,6 +20,8 @@ Plutôt qu’envoyer balader ledit éditeur, j’ai trouvé une autre solution, 
 
 ![Le format le plus économique de chez lulu.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/lulu0.jpg)
 
+Le format le plus économique de chez lulu.
+
 Avec son format d’impression Digest, [Lulu](http://www.lulu.com/create/books) me propose de m’imprimer un dos carré collé de 738 pages pour 9,63 €. C’est un gros un A5, proche des éditions originales de la plupart des livres du commerce.
 
 ![Filtre d'exportation luluDigest pour Ulysses.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/lulu4-600x408.png)
@@ -28,13 +30,21 @@ Pour générer le PDF *ad hoc*, je n’ai pas besoin de quitter Ulysses, mon tra
 
 ![PDF généré d'un clic à partir d'Ulysses.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/lulu5.png)
 
+PDF Lulu Digest généré d'un clic à partir d'Ulysses.
+
 Sur Lulu, je crée une couv blanche, avec juste le titre, mon mail, la date du manuscrit et je fais envoyer le tout à mon destinataire. C’est réglé en quinze minutes. Coût sans bouger les fesses de chez moi : 14,95 € avec une qualité bien meilleure qu'un bidouillage à la maison.
 
 ![Résumé du projet One Minute, que je garde en privé.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/lulu1.png)
 
-![Coût de l'expédition 3,99 (la Poste facture 4,85 € jusqu'à 1 kg).](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/lulu2.png)
+Résumé du projet One Minute, que je garde en privé.
+
+![Coût de l'expédition 3,99 (la Poste facture 4,85 € jusqu'à 1 kg).](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/lulu2.png)Coût de l'expédition 3,99 (la Poste facture 4,85 € jusqu'à 1 kg)
+
+.
 
 ![Je commande en faisant livrer directement à mon destinataire.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/lulu3.png)
+
+Je commande en faisant livrer directement chez mon destinataire.
 
 
 

@@ -1,6 +1,6 @@
 # Un fumeur de cannabis a plus de droits qu’un lecteur
 
-En découvrant [le billet de Calimaq sur les lock-books](http://scinfolex.com/2013/09/20/un-objet-qui-ne-respecte-pas-les-droits-du-lecteur-merite-t-il-de-sappeler-livre/), mon énervement n’a cessé de croître. Je ne supporte pas cette volonté gouvernementale de tout légiférer, de trouver systématiquement des boucs émissaires à notre déresponsabilisation généralisée. Une nouvelle loi pour protéger les lecteurs ne fera qu’enfoncer plus profond le clou de leur apathie.<span id="more-33470"></span>
+En découvrant [le billet de Calimaq sur les lock-books](http://scinfolex.com/2013/09/20/un-objet-qui-ne-respecte-pas-les-droits-du-lecteur-merite-t-il-de-sappeler-livre/), mon énervement n’a cessé de croître. Je ne supporte pas cette volonté gouvernementale de tout légiférer, de trouver systématiquement des boucs émissaires à notre déresponsabilisation généralisée. Une nouvelle loi pour protéger les lecteurs ne fera qu’enfoncer plus profond le clou de leur apathie.
 
 À force de diaboliser Amazon, on va finir par renoncer à notre droit le plus élémentaire : la liberté. Qu’est-ce qui m’empêche de ne pas faire ce qu’Amazon veut que je fasse ? Ou Apple, ou n’importe quel autre acteur du marché. Trop de gens ont tendance à considérer ces entreprises comme des instances législatives en elles-mêmes. Ils confondent la loi et les prétentions commerciales, sous couvert de copyright.
 

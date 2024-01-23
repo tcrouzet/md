@@ -1,6 +1,6 @@
 # Comment écrire un best-seller
 
-Si vous croyez qu’il n’existe aucune recette pour connaître le succès, alors vous vous trompez ! Dans [*Hit Lit*](http://www.amazon.fr/Hit-Lit-Twentieth-Bestsellers-ebook/dp/B005DXOQJU), l’auteur de thrillers et professeur de littérature [James W. Hall](http://www.jameswhall.com/) déniche quelques conditions nécessaires.<span id="more-24135"></span>
+Si vous croyez qu’il n’existe aucune recette pour connaître le succès, alors vous vous trompez ! Dans [*Hit Lit*](http://www.amazon.fr/Hit-Lit-Twentieth-Bestsellers-ebook/dp/B005DXOQJU), l’auteur de thrillers et professeur de littérature [James W. Hall](http://www.jameswhall.com/) déniche quelques conditions nécessaires.
 
 Il aboutit à cette conclusion après une analyse de type structuraliste des douze plus grands hits américains des cent dernières années. Il relève dans chacun d’eux les mêmes procédés, certains assez évidents, d’autres plus surprenants.
 

@@ -1,6 +1,6 @@
 # Facebook et Twitter, bons pour la politique à papa
 
-J’ai été invité par les étudiants de Paris 11 pour donner une conférence sur les réseaux sociaux et la politique. Je me suis dit que j’allais reprendre du début (et commencer par citer quelques passages du *Peuple des connecteurs*). D'abord, donner à ruminer une citation de Nietzsche, paragraphe 4 du *Gai savoir*.<span id="more-15455"></span>
+J’ai été invité par les étudiants de Paris 11 pour donner une conférence sur les réseaux sociaux et la politique. Je me suis dit que j’allais reprendre du début (et commencer par citer quelques passages du *Peuple des connecteurs*). D'abord, donner à ruminer une citation de Nietzsche, paragraphe 4 du *Gai savoir*.
 
 > Le nouveau cependant est dans tous les cas le Mal en tant que ce qui veut conquérir, fouler aux pieds les anciennes bornes des frontières et les anciennes piétés ; et seul l’ancien constitue le Bien ! Les hommes bons de chaque époque sont ceux qui labourent à fond les anciennes pensées, et qui les font fructifier ; ce sont les cultivateurs de l’esprit. Mais à la fin tel champ ne rapporte plus et sans cesse il faut que le soc de la charrue du Mal vienne le remuer de nouveau.
 

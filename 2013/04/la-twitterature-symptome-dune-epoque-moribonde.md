@@ -1,6 +1,6 @@
 # La twittérature symptôme d’une époque moribonde
 
-Je suis en train de lire *Limonov*. Au début, Emmanuel Carrère parle des communautés de poètes russes dans les années 1950. Elles se créaient dans les villes de province, se composaient souvent de poètes qui n’avaient jamais écrit et n’écriraient jamais mais on les considérait comme des grands noms. Le communautarisme occultait le reste de la littérature. Parfois les twittérateurs, eux aussi, tombent dans ce piège. Petite mise au point.<span id="more-32529"></span>
+Je suis en train de lire *Limonov*. Au début, Emmanuel Carrère parle des communautés de poètes russes dans les années 1950. Elles se créaient dans les villes de province, se composaient souvent de poètes qui n’avaient jamais écrit et n’écriraient jamais mais on les considérait comme des grands noms. Le communautarisme occultait le reste de la littérature. Parfois les twittérateurs, eux aussi, tombent dans ce piège. Petite mise au point.
 
 1. Il me semble qu’il existe deux formes de twittérature, [la nanofiction et la feuilleton](http://blog.tcrouzet.com/2013/03/08/de-la-nanolitterature-au-megafeuilleton/).
 2. La nanofiction peut se pratiquer sur papier, sur un blog, sur Facebook… C’est la littérature par fragments. Elle peut se jouer sans interaction avec les lecteurs, donc dans le vide intersidéral, même être publiée à titre posthume comme *Les pensées* de Pascal. Et que ce soit sur Twitter ou ailleurs on s’en fiche. La nanofiction n’est pas la twittérature.

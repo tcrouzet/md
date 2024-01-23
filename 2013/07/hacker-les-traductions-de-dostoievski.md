@@ -1,6 +1,6 @@
 # Hacker les traductions de Dostoïevski
 
-[Un article sur deux traductions comparées de Dostoïevski](http://www.lapresse.ca/arts/livres/201305/27/01-4654830-dostoievski-traduire-a-la-francaise-ou-a-lallemande.php) m’a fait comprendre qu’il était possible de les remixer pour produire une traduction originale, bien sûr sans parler le moindre mot de russe, et d’autant que ni l’une ni l’autre ne me satisfait.<span id="more-33250"></span>
+[Un article sur deux traductions comparées de Dostoïevski](http://www.lapresse.ca/arts/livres/201305/27/01-4654830-dostoievski-traduire-a-la-francaise-ou-a-lallemande.php) m’a fait comprendre qu’il était possible de les remixer pour produire une traduction originale, bien sûr sans parler le moindre mot de russe, et d’autant que ni l’une ni l’autre ne me satisfait.
 
 ### Version de Pierre Pascal, traduction à la française
 

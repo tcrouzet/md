@@ -2,7 +2,7 @@
 
 J’ai ressorti le vieux manuscrit d’un roman, écrit en 1993, réécrit en 2003, jamais proposé à un éditeur, pour tenter une expérience et [prolonger ma réflexion sur la mort de l’édition](/2009/07/17/apres-la-presse-cest-ledition-qui-meurt/).
 
-Ce roman, *[Genius locus](http://blog.tcrouzet.com/genius-locus/)*, est terminé pour moi mais il n’est pas terminé au sens de la chaîne du livre.<span id="more-7800"></span>
+Ce roman, *[Genius locus](http://blog.tcrouzet.com/genius-locus/)*, est terminé pour moi mais il n’est pas terminé au sens de la chaîne du livre.
 
 1. Je suis le seul à le juger bon, ce qui vous l’avouerez n’a pas beaucoup d’importance tant je suis mal placé pour apprécier mon propre travail.
 

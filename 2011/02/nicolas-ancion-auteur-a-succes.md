@@ -1,6 +1,6 @@
 # Nicolas Ancion : notre futur auteur à succès
 
-Quand je lis le livre d’un ami, c’est toujours avec appréhension. Si je n’aime pas, je dois m’expliquer. Comme les auteurs sont toujours susceptibles, comme je ne suis pas très diplomate, ça mène tout droit au drame. Avec [*L’homme qui refusait de mourir*](http://www.amazon.fr/Lhomme-refusait-mourir-Nicolas-Ancion/dp/2914563574/ref=sr_1_fkmr0_1?ie=UTF8&qid=1297083732&sr=8-1-fkmr0) de [Nicolas Ancion](http://www.nicolasancion.com/), je suis sauf.<span id="more-21241"></span>
+Quand je lis le livre d’un ami, c’est toujours avec appréhension. Si je n’aime pas, je dois m’expliquer. Comme les auteurs sont toujours susceptibles, comme je ne suis pas très diplomate, ça mène tout droit au drame. Avec [*L’homme qui refusait de mourir*](http://www.amazon.fr/Lhomme-refusait-mourir-Nicolas-Ancion/dp/2914563574/ref=sr_1_fkmr0_1?ie=UTF8&qid=1297083732&sr=8-1-fkmr0) de [Nicolas Ancion](http://www.nicolasancion.com/), je suis sauf.
 
 J’ai juste une énorme critique : mais c’est trop court ! J’étais bien dans ton histoire (je dis tu as Nicolas non seulement parce que c’est un ami mais parce qu’il dit tu à son héros). J’avais envie de te suivre plus loin, jusque dans des régions encore plus glauques et aussi celles peut-être plus merveilleuses.
 

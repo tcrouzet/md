@@ -1,6 +1,6 @@
 # Après le road book et le cyber book, le single book
 
-Les artistes sont des éponges émotionnelles. Ils se gorgent des particularités de leur temps pour les mêler aux invariants de la condition humaine. Dans les années 1950, années de croissance tous azimuts et âge d’or de l’automobile, Jack Kerouac prend la route à la recherche de lui-même et d’une façon d’exister qui ne peut plus être la même que celle des générations antérieures.<span id="more-64573"></span>
+Les artistes sont des éponges émotionnelles. Ils se gorgent des particularités de leur temps pour les mêler aux invariants de la condition humaine. Dans les années 1950, années de croissance tous azimuts et âge d’or de l’automobile, Jack Kerouac prend la route à la recherche de lui-même et d’une façon d’exister qui ne peut plus être la même que celle des générations antérieures.
 
 La route, longue, droite, noire, avec une ligne jaune pointillée au milieu et deux lignes continues de part et d’autre symbolise l’horizon imaginaire, tourné vers l’ouest, vers les territoires encore à industrialiser, tout comme elle symbolise la ligne de coke et l’évasion stupéfiante. Sur la route, on voyage à bord de voitures bruyantes, rutilantes, puissantes. Elles remplacent les chevaux, les charrettes, les bateaux qui jusque-là ont participé à la conquête du monde. Alors de nouvelles histoires émergent, qualifiées de « road », et on obtient des « road books », puis des « road movies ».
 

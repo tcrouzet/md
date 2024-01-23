@@ -10,8 +10,6 @@
 
 ##### **papier 7.11 €** : [ Amazon](http://www.amazon.fr/%C3%89quinoxe-dautomne-Thierry-Crouzet/dp/144577755X), [ Lulu](http://www.lulu.com/product/livre-broch%C3%A9/%C3%89quinoxe-d%E2%80%99automne/11058306).
 
-
-
 Pendant trois jours, en octobre 1974, Georges Perec s’installa place Saint-Sulpice et nota ce qu’il voyait. Durant des années, j’ai utilisé cette technique pour m’entraîner à écrire. J’ai fini par tenter d’épuiser une journée ordinaire, le 21 septembre 1991, de huit heures du matin à huit heures du soir.
 
 ### Fiche produit

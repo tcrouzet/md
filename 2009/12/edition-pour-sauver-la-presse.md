@@ -1,6 +1,6 @@
 # L’édition pour sauver la presse
 
-Faire payer des articles partout disponibles sur le Web est aujourd’hui utopique. Faut être désespéré pour imaginer un tel retour en arrière. Il faudrait garantir l’originalité des textes. Et comment empêcher d’autres journalistes de les lire et puis de les réécrire ? Impossible. La presse ne fait que se recopier elle-même. Pour une information neuve, nous en avons mille dupliquées. Et je suis sans doute loin du compte.<span id="more-12487"></span>
+Faire payer des articles partout disponibles sur le Web est aujourd’hui utopique. Faut être désespéré pour imaginer un tel retour en arrière. Il faudrait garantir l’originalité des textes. Et comment empêcher d’autres journalistes de les lire et puis de les réécrire ? Impossible. La presse ne fait que se recopier elle-même. Pour une information neuve, nous en avons mille dupliquées. Et je suis sans doute loin du compte.
 
 L’idée d’information neuve n’a d’ailleurs guère de sens puisque ce n’est pas le journaliste qui fabrique cette information mais un informateur. La source est généralement gratuite. Pourquoi après faire payer ce qu’elle a dit en déformant plus ou moins et en mettant soit disant dans le contexte. C’est un travail trop facile, d’autant plus facile à l’heure du Net, un travail que trop de monde sait faire relativement bien (et je ne parle pas des chroniques et des éditos dont le Web regorge). Au temps des propulseurs, vu l’abondance des plumes, nous aurons toujours à lire des articles gratuits.
 

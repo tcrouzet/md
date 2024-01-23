@@ -1,6 +1,6 @@
 # La schizophrénie des éditeurs franchouillards
 
-En avril, mon père m’a amené voir le caveau de mon trisaïeul. Il l’a fait restaurer, car il veut reposer sous ce simple bloc de béton qui sommeille aux pieds de vénérables cyprès. La pierre tombale ne porte aucune inscription. Mon père déteste les galimatias. J’ai alors remarqué que le marbrier avait inscrit, bien visible, son nom et son téléphone en lettres dorées.<span id="more-19602"></span>
+En avril, mon père m’a amené voir le caveau de mon trisaïeul. Il l’a fait restaurer, car il veut reposer sous ce simple bloc de béton qui sommeille aux pieds de vénérables cyprès. La pierre tombale ne porte aucune inscription. Mon père déteste les galimatias. J’ai alors remarqué que le marbrier avait inscrit, bien visible, son nom et son téléphone en lettres dorées.
 
 Peu après, avec Isabelle, nous sommes partis passer une semaine en Corse. À notre retour, nous avons constaté que quelqu’un nous avait collé sur le pare-brise arrière une étiquette Corsica Ferry. Non contents de payer notre voyage, nous devions gratuitement faire la publicité de la compagnie. Comme les tombes dans le petit cimetière familial, les voitures autour de nous étaient affublées d’un autocollant ridicule.
 

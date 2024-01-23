@@ -1,6 +1,6 @@
 # Ce que le Net a changé : le corps
 
-J’écrivais à la main, souvent sur des carnets, je dérapais en dessins, arabesques, gribouillis, mêlant pensée verbale et gestes primaux. Je m’appuyais à une vieille souche, me casais entre deux rochers à l’abri du mistral ou du marin, le soleil à l’aplomb sur la feuille pour qu’il sèche vite les aplats d’aquarelle. Je me penchais, me tordais, secouais mes jambes, adepte de l’écriture totale.<span id="more-33780"></span>
+J’écrivais à la main, souvent sur des carnets, je dérapais en dessins, arabesques, gribouillis, mêlant pensée verbale et gestes primaux. Je m’appuyais à une vieille souche, me casais entre deux rochers à l’abri du mistral ou du marin, le soleil à l’aplomb sur la feuille pour qu’il sèche vite les aplats d’aquarelle. Je me penchais, me tordais, secouais mes jambes, adepte de l’écriture totale.
 
 Et puis j’ai pris l’habitude du clavier, même pour penser. Le carnet peu à peu s’est tari parce que l’écriture est devenue sédentaire, une écriture de bureau, de table de travail, de fait quelque peu sérieuse, même quand elle invoque l’imagination parce qu’elle n’est plus en prise directe avec la matière.
 

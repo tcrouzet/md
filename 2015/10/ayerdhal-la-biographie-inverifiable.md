@@ -1,6 +1,6 @@
 # Ayerdhal : la biographie invérifiable
 
-J’aurais connu Yal moins de dix ans. Tout a commencé ici même, sur ce blog, [le 12 septembre 2006](http://tcrouzet.com/2006/09/12/matrix-connexion/#com217).<span id="more-42676"></span>
+J’aurais connu Yal moins de dix ans. Tout a commencé ici même, sur ce blog, [le 12 septembre 2006](http://tcrouzet.com/2006/09/12/matrix-connexion/#com217).
 
 ---
 

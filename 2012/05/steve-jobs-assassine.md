@@ -1,6 +1,6 @@
 # Steve Jobs a été assassiné
 
-Steve est bien mort d’un cancer, mais Walter Isaacson son biographe officiel lui a planté un poignard dans le dos.<span id="more-24492"></span>
+Steve est bien mort d’un cancer, mais Walter Isaacson son biographe officiel lui a planté un poignard dans le dos.
 
 J’ai lu son best-seller non-stop, avec cette impression exaltante de revivre une part de l’histoire de mon temps comme si je la voyais depuis le futur. Mais plus j’avançais, plus un malaise s’est installé en moi. Je n’arrêtais pas de me dire « Nous avons raté quelque chose. »
 

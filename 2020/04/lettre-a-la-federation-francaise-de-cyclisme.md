@@ -1,6 +1,6 @@
 # Lettre à la Fédération Française de Cyclisme
 
-Bien que n’étant pas membre de votre fédération contrairement à certains de mes amis et lecteurs, je vous écris parce que votre position vis-vis du confinement n’a cessé de me chagriner. Je ne peux plus garder pour moi le poids qui me pèse chaque fois que depuis le 18 mars je touche l’un de mes vélos.<span id="more-53989"></span>
+Bien que n’étant pas membre de votre fédération contrairement à certains de mes amis et lecteurs, je vous écris parce que votre position vis-vis du confinement n’a cessé de me chagriner. Je ne peux plus garder pour moi le poids qui me pèse chaque fois que depuis le 18 mars je touche l’un de mes vélos.
 
 Ce jour-là, sans doute un peu vite, sans trop réfléchir, [vous avez publié un communiqué où on peut lire](https://twitter.com/FFCyclisme/status/1240549283620884481) :
 

@@ -1,6 +1,6 @@
 # Éloge du bikepacking overnighther
 
-Dimanche 28 août, 18h30, avenue de la gare à Sète, en terrasse de café. Je dis à Patrick et Valérie : « J’ai l’impression que nous sommes partis depuis une semaine. » Ils approuvent alors que nous n’avons pris le TER en direction de Cerbère que la veille au matin pour une petite excursion de long de la côte méditerranéenne.<span id="more-64252"></span>
+Dimanche 28 août, 18h30, avenue de la gare à Sète, en terrasse de café. Je dis à Patrick et Valérie : « J’ai l’impression que nous sommes partis depuis une semaine. » Ils approuvent alors que nous n’avons pris le TER en direction de Cerbère que la veille au matin pour une petite excursion de long de la côte méditerranéenne.
 
 Ce [bikepacking overnighther](https://bikepacking.com/overnighters/), rando avec une seule nuit dehors, nous a extraits de notre temporalité pour la faire exploser avec une force extraordinaire. J’ai beau multiplier ces petits raids, j’éprouve chaque fois la même sensation grisante. Le mini voyage à vélo, en plus d’être une bonne façon de découvrir le bikepacking, a quelque chose de soudain et de bref qui concentre les plaisirs du hors asphalte pour les intensifier.
 

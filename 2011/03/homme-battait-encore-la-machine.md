@@ -2,7 +2,7 @@
 
 Le 6 août 1945, le B-29 Enola Gay lâcha Little Boy sur Hiroshima. Au moins 68 000 personnes succombèrent instantanément.
 
-Le 9 août 1945, le B-29 Bockscar lâcha Fat Man sur Nagasaki. Au moins 38 000 personnes succombèrent instantanément.<span id="more-21546"></span>
+Le 9 août 1945, le B-29 Bockscar lâcha Fat Man sur Nagasaki. Au moins 38 000 personnes succombèrent instantanément.
 
 Le 14 août 1945, le conseil impérial japonais accepta la capitulation sans condition.
 

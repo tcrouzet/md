@@ -1,6 +1,6 @@
 # J’ai débranché : deux inédits
 
-[Vincenzo Susca](http://www.ceaq-sorbonne.org/node.php?id=885&elementid=827) m’invite à parler de mon expérience à l'université Paul Valéry de Montpellier le 23 novembre à 17 heures. Occasion de déterrer deux chapitres inédits où j'évoque notre rencontre.<span id="more-29924"></span>
+[Vincenzo Susca](http://www.ceaq-sorbonne.org/node.php?id=885&elementid=827) m’invite à parler de mon expérience à l'université Paul Valéry de Montpellier le 23 novembre à 17 heures. Occasion de déterrer deux chapitres inédits où j'évoque notre rencontre.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/11/susca.jpg)
 

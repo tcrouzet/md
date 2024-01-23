@@ -1,6 +1,6 @@
 # Leçon d’humilité pour auteurs prétentieux
 
-J’ai souvent croisé des auteurs qui ne supportent pas qu’on touche à leurs textes, et leur confèrent une immuabilité biblique. Je conseille à tous ceux qui auraient cette tentation de lire *Ciseaux* de Stéphane Michaka.<span id="more-30413"></span>
+J’ai souvent croisé des auteurs qui ne supportent pas qu’on touche à leurs textes, et leur confèrent une immuabilité biblique. Je conseille à tous ceux qui auraient cette tentation de lire *Ciseaux* de Stéphane Michaka.
 
 ![Ciseaux](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/01/ciseaux-450x470.jpg)
 

@@ -1,6 +1,6 @@
 # Militer pour la longue traîne
 
-La longue traîne est un phénomène qui ne plait pas aux tenants du capitalisme pyramidal, le seul capitalisme possible à mon sens. Que des petits producteurs puissent survivre, que par leur nombre ils surpassent en revenus les gros industriels, est une espèce de crime de lèse-majesté.<span id="more-4408"></span>
+La longue traîne est un phénomène qui ne plait pas aux tenants du capitalisme pyramidal, le seul capitalisme possible à mon sens. Que des petits producteurs puissent survivre, que par leur nombre ils surpassent en revenus les gros industriels, est une espèce de crime de lèse-majesté.
 
 Chris Anderson, le découvreur de la longue traîne, ne l’a toutefois jamais interprétée politiquement. Il s’est attaché à voir comment elle se développait à l’intérieur même des catalogues des grands services tel qu’Amazon. Il a vu en elle une opportunité de business alors que j’y vois une possibilité révolutionnaire.
 

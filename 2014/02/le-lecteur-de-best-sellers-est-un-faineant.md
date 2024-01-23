@@ -1,6 +1,6 @@
 # Le lecteur de best-sellers est un fainéant
 
-Je sais de quoi je parle. Je lis quatre ou cinq best-sellers chaque année et je contribue ainsi à leur irrésistible ascension. En 2013, [356 millions de livres ont été vendus en France](http://www.actualitte.com/economie/une-annee-difficile-sur-le-marche-du-livre-bilan-2013-de-l-institut-gfk-48247.htm), nous étions 65,8 millions de Français, nous lisons donc en moyenne 5,4 livres neufs/an et je contribue honorablement à la massification du marché de l’édition.<span id="more-34496"></span>
+Je sais de quoi je parle. Je lis quatre ou cinq best-sellers chaque année et je contribue ainsi à leur irrésistible ascension. En 2013, [356 millions de livres ont été vendus en France](http://www.actualitte.com/economie/une-annee-difficile-sur-le-marche-du-livre-bilan-2013-de-l-institut-gfk-48247.htm), nous étions 65,8 millions de Français, nous lisons donc en moyenne 5,4 livres neufs/an et je contribue honorablement à la massification du marché de l’édition.
 
 Je trouve toujours [de bonnes excuses](http://blog.tcrouzet.com/2012/04/30/comment-ecrire-un-best-seller/) pour lire des best-sellers :
 

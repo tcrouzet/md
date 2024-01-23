@@ -1,6 +1,6 @@
 # Comment estimer la difficulté d’une trace
 
-Comme nous nous élançons dans quelques jours pour une [GTH et comme je partage librement la trace](https://tcrouzet.com/gth/), je tiens à ce que les bikepackers qui l’emprunteront sachent à quoi s’attendre.<span id="more-58441"></span>
+Comme nous nous élançons dans quelques jours pour une [GTH et comme je partage librement la trace](https://tcrouzet.com/gth/), je tiens à ce que les bikepackers qui l’emprunteront sachent à quoi s’attendre.
 
 Quand j’ai publié [la GTH sur Utagawavtt](https://www.utagawavtt.com/randonnee-vtt-gps/GTH-Grand-Tour-de-l-Herault-24330), j’ai remarqué qu’ils lui attribuaient un [Climbbybike Index](https://www.climbbybike.com/climb_difficulty.asp) de 657. J’ai découvert ainsi qu’il existait d’autres indices pour évaluer la difficulté d’une trace à partir de son GPX, notamment l’[IBP](https://www.ibpindex.com/).
 

@@ -1,6 +1,6 @@
 # Mediapart n’est pas mort
 
-Des internautes qui se croient très malins se moquent souvent de mon article de juin 2008 titré « [Mediapart mort-né](http://blog.tcrouzet.com/2008/06/01/mediapart-mort-ne/) ». Je me suis bien planté sur le coup. Mediapart est toujours là, et bien là. Si ma seule erreur avait été de me tromper sur l’avenir d’un site de news, ce serait sans grande importance. Qui ne se trompe pas à ce jeu de la bourse ? Mon plantage est beaucoup plus grave, et presque dramatique.<span id="more-34563"></span>
+Des internautes qui se croient très malins se moquent souvent de mon article de juin 2008 titré « [Mediapart mort-né](http://blog.tcrouzet.com/2008/06/01/mediapart-mort-ne/) ». Je me suis bien planté sur le coup. Mediapart est toujours là, et bien là. Si ma seule erreur avait été de me tromper sur l’avenir d’un site de news, ce serait sans grande importance. Qui ne se trompe pas à ce jeu de la bourse ? Mon plantage est beaucoup plus grave, et presque dramatique.
 
 C’est toute une vision d’internet qui est tombée en lambeaux ces dernières années. La vision des utopistes. Le succès de Mediapart, c’est l’échec d’un internet décentralisé, open source, non-marchand. Depuis 2008, et la crise, nous avons connu une inversion de l’histoire. Concentration, recentrage, consolidation. Haro aux petits. « Plus j’ai de tunes, plus j’ai de chance de survivre. Quand je suis petit, indépendant, libre, je sombre. »
 

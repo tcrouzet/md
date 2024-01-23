@@ -1,6 +1,6 @@
 # Gaffe : Komoot est  bugué
 
-Je suis furieux contre Komoot, aussi contre Garmin. Parfois j’ai l’impression que Big Brother entre dans mon vélo pour m'empêcher de pédaler comme je le veux et où je le veux. Récit d’une mésaventure qui me pousse à renoncer à Komoot pour le partage de traces.<span id="more-59551"></span>
+Je suis furieux contre Komoot, aussi contre Garmin. Parfois j’ai l’impression que Big Brother entre dans mon vélo pour m'empêcher de pédaler comme je le veux et où je le veux. Récit d’une mésaventure qui me pousse à renoncer à Komoot pour le partage de traces.
 
 Je remets les choses dans l’ordre. Je trace avec Garmin BaseCamp, logiciel gratuit, auquel on peut associer diverses cartographies. Disons que BaseCamp est mon éditeur, dans lequel je copie-colle-modifie. Parfois je crée un bout de trace sur Google Earth, d’autres fois sur iPhiGéNie, Komoot ou autre. Au final, ma trace est assemblée sur BaseCamp, parfois comme pour le 727 à partir de centaines de morceaux d'origines différentes, depuis lequel je l’envoie à mon GPS Garmin, en ce moment un Edge 530.
 

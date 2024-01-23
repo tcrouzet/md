@@ -1,6 +1,6 @@
 # Imagine une ville nouvelle
 
-[Les amis italiens de 40K se lancent dans un nouveau projet](http://www.potenzasmart.it/) : « Imagine a town, around 60 000 inhabitants, placed on the top of a mountain and far away from any strong cultural city or centre of any kind. And here are the three questions: »<span id="more-30885"></span>
+[Les amis italiens de 40K se lancent dans un nouveau projet](http://www.potenzasmart.it/) : « Imagine a town, around 60 000 inhabitants, placed on the top of a mountain and far away from any strong cultural city or centre of any kind. And here are the three questions: »
 
 *1. How do you think technology could help progress at these conditions?*
 

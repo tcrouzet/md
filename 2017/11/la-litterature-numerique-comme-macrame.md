@@ -1,18 +1,13 @@
 # La littérature numérique comme macramé
 
-Depuis quelque temps une question me turlupine. Pourquoi aucune élite intellectuelle ou financière s’intéresse à l’avant-garde de la littérature numérique ?<span id="more-45934"></span>
+Depuis quelque temps une question me turlupine. Pourquoi aucune élite intellectuelle ou financière s’intéresse à l’avant-garde de la littérature numérique ?
 
 En peinture, en musique, en architecture, dans tous les arts, des mécènes soutiennent la création. Certes ils ne le font pas toujours en philanthropes, investissant sur des œuvres uniques et plus tard monnayables, mais ils démontrent une réelle passion pour l’art. Alors pourquoi pas dans le champ où j’exerce ?
-
-**Réponse 1** Notre champ n’existe tout simplement pas. Il est une illusion pour ses acteurs, une sorte de passe-temps ni plus ni moins digne que le macramé. Je dois être un peu stupide de réussir à me faire émouvoir souvent avec force par mes contemporains numériques. Je dois être encore plus stupide de tenter d’expliquer [pourquoi un champ nouveau pour la littérature s’est ouvert grâce au Net](https://tcrouzet.com/2017/11/21/pourquoi-ecrire-en-ligne/).
-
-**Réponse 2** La littérature d’avant-garde n’a jamais attiré les philanthropes. Une hypothèse fausse, car à Paris nos auteurs à succès se retrouvent dans les salons comme au meilleur du XIX<sup>e</sup> siècle.
-
-**Réponse 3** Les philanthropes contemporains ne sont que de nouveaux riches sans culture, avec pour seule référence le succès. Ils appliquent en art la même grille d’analyse que pour leur business. Je ne peux nier cette possibilité, mais je me refuse à généraliser.
-
-**Réponse 4** L’avant-garde numérique ne s’est pas encore constituée. Elle est encore encombrée d’imitateurs, en si grand nombre qu’ils cachent sous leur glose les rares innovateurs.
-
-**Réponse 5** La littérature d’avant-garde est un non-sens, une invention du XX<sup>e</sup> siècle, une anomalie. La littérature parle toujours de la vie. Une œuvre numérique ne se révèle pas par des lasers tournoyants, des feux d’artifice ou des panneaux 4x3. Je crois qu’il s’agit de ma réponse préférée, ma réponse manifeste :
+ Notre champ n’existe tout simplement pas. Il est une illusion pour ses acteurs, une sorte de passe-temps ni plus ni moins digne que le macramé. Je dois être un peu stupide de réussir à me faire émouvoir souvent avec force par mes contemporains numériques. Je dois être encore plus stupide de tenter d’expliquer [pourquoi un champ nouveau pour la littérature s’est ouvert grâce au Net](https://tcrouzet.com/2017/11/21/pourquoi-ecrire-en-ligne/).
+ La littérature d’avant-garde n’a jamais attiré les philanthropes. Une hypothèse fausse, car à Paris nos auteurs à succès se retrouvent dans les salons comme au meilleur du XIX<sup>e</sup> siècle.
+ Les philanthropes contemporains ne sont que de nouveaux riches sans culture, avec pour seule référence le succès. Ils appliquent en art la même grille d’analyse que pour leur business. Je ne peux nier cette possibilité, mais je me refuse à généraliser.
+ L’avant-garde numérique ne s’est pas encore constituée. Elle est encore encombrée d’imitateurs, en si grand nombre qu’ils cachent sous leur glose les rares innovateurs.
+ La littérature d’avant-garde est un non-sens, une invention du XX<sup>e</sup> siècle, une anomalie. La littérature parle toujours de la vie. Une œuvre numérique ne se révèle pas par des lasers tournoyants, des feux d’artifice ou des panneaux 4x3. Je crois qu’il s’agit de ma réponse préférée, ma réponse manifeste :
 
 > Une œuvre littéraire numérique ne se différencie pas en première analyse d’une œuvre littéraire qui ne serait pas numérique.
 

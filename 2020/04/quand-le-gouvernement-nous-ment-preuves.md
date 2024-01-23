@@ -1,6 +1,6 @@
 # Pourquoi on a confiné trop tard
 
-J’ai tenté de montrer que [le confinement était la seule solution envisageable pour combattre la pandémie](https://tcrouzet.com/2020/04/05/pourquoi-le-confinement-etait-la-seule-strategie-possible/), donc de défendre le gouvernement en ce sens, me faisant accuser d’être un macroniste, ce qui doit bien faire rire mes connaissances et mes lecteurs habituels, mais je n’accorde pas pour autant un blanc-seing au gouvernement dans la gestion de la crise.<span id="more-53894"></span>
+J’ai tenté de montrer que [le confinement était la seule solution envisageable pour combattre la pandémie](https://tcrouzet.com/2020/04/05/pourquoi-le-confinement-etait-la-seule-strategie-possible/), donc de défendre le gouvernement en ce sens, me faisant accuser d’être un macroniste, ce qui doit bien faire rire mes connaissances et mes lecteurs habituels, mais je n’accorde pas pour autant un blanc-seing au gouvernement dans la gestion de la crise.
 
 Dans ma défense, j’ai indiqué qu’il y avait eu un retard à l’allumage. [Le Premier ministre a déclaré le 28 mars](https://www.bfmtv.com/mediaplayer/video/edouard-philippe-je-ne-laisserai-personne-dire-qu-il-y-a-eu-du-retard-sur-la-prise-de-decision-s-agissant-du-confinement-1234506.html) : « Chacun pourra apprécier les moments où les gouvernements ont pris cette décision, mais je ne laisserais personne dire qu’il y a eu du retard sur la prise de décision s’agissant du confinement. » Je suis désolé, mais je vais non seulement le dire mais le démontrer.
 

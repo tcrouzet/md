@@ -1,6 +1,6 @@
 # Pour en finir avec la Net dictature
 
-Suis-je pessimiste ? J’ai plutôt fait preuve d’un excès d’optimisme durant les années 2000. Fin 2011, je suis revenu de mes six mois de déconnexion avec un regard différent sur la chose numérique. Plutôt que de prétendre, par un abus de volonté de puissance, que nous allons vers une nouvelle humanité, j’essaie désormais de regarder la réalité sociale.<span id="more-34521"></span>
+Suis-je pessimiste ? J’ai plutôt fait preuve d’un excès d’optimisme durant les années 2000. Fin 2011, je suis revenu de mes six mois de déconnexion avec un regard différent sur la chose numérique. Plutôt que de prétendre, par un abus de volonté de puissance, que nous allons vers une nouvelle humanité, j’essaie désormais de regarder la réalité sociale.
 
 Mon espoir, lui, n’a pas changé. Mais je suis souvent obligé de constater qu’il ne coïncide en rien avec les faits. Il ne suffit pas d’imaginer une belle théorie pour que les foules l’adoptent. Les foules font ce qu’elles veulent, elles inventent leur propre théorie.
 

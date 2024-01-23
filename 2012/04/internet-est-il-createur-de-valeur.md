@@ -1,6 +1,6 @@
 # Internet est-il créateur de valeur ?
 
-Dans les sociétés anciennes, l’arc pouvait être créateur de valeur quand il servait à chasser, destructeur quand il servait à tuer d’autres hommes (étant entendu que pour moi toute mort humaine équivaut à la disparition de possibilités, donc de valeur). Cette analogie suffit il me semble à répondre oui et non à la question, mettant évidence le rôle que nous avons à jouer dans cette histoire.<span id="more-23467"></span>
+Dans les sociétés anciennes, l’arc pouvait être créateur de valeur quand il servait à chasser, destructeur quand il servait à tuer d’autres hommes (étant entendu que pour moi toute mort humaine équivaut à la disparition de possibilités, donc de valeur). Cette analogie suffit il me semble à répondre oui et non à la question, mettant évidence le rôle que nous avons à jouer dans cette histoire.
 
 Internet a un statut ontologique supérieur à celui de l’arc. Je ne le définis jamais comme un outil mais plutôt [comme un territoire](http://blog.tcrouzet.com/tag/territoire/). Un territoire est-il créateur de valeur ? Encore une fois oui et non.
 

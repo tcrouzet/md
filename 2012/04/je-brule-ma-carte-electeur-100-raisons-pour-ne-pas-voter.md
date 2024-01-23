@@ -1,6 +1,6 @@
 # Je brûle ma carte d’électeur – Ne pas voter, c&#8217;est politique
 
-Brûler sa carte d’électeur, c’est mesquin, mais pour prévenir les critiques, voici plus de cent raisons indépendantes du contexte politique pour justifier pourquoi je ne vote plus.<span id="more-23476"></span>
+Brûler sa carte d’électeur, c’est mesquin, mais pour prévenir les critiques, voici plus de cent raisons indépendantes du contexte politique pour justifier pourquoi je ne vote plus.
 
 [J'ai perdu le son de la vidéo en chemin.](http://www.youtube.com/watch?v=JtgcNLUjZmA&context=C45d8f16ADvjVQa1PpcFNAnoEdtQbcd-dD1aeN-eDKF4wdO9QWriM=) Isa concluait par : « Qui va nettoyer maintenant ? » Oui, qui nettoiera la démocratie ?
 
@@ -42,8 +42,6 @@ L’histoire de la démocratie ne s’est pas arrêtée en 1789. Au nom de l’i
 ### 9
 
 En 1968, on criait dans les rues « Élections piège à cons. » Serions-nous moins lucides ?
-
-**La suite de ce texte est désormais disponible en [livre et ebook](/101-raisons-de-ne-pas-voter/).**
 
 ![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cover2017-400x584.jpg)
 

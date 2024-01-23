@@ -1,6 +1,6 @@
 # Le Net n’est pas blanc ou noir
 
-Je suis pour la transparence des données gouvernementales. Comme le gouvernement est un ensemble de personnes, je suis donc jusqu’à un certain point pour la transparence de leurs données personnelles, donc pour une limitation de leur vie privée.<span id="more-35579"></span>
+Je suis pour la transparence des données gouvernementales. Comme le gouvernement est un ensemble de personnes, je suis donc jusqu’à un certain point pour la transparence de leurs données personnelles, donc pour une limitation de leur vie privée.
 
 Je suis pour que les données privées restent confidentielles. Comme le gouvernement est un ensemble de personnes, je suis donc jusqu’à un certain point pour qu’il garde des secrets, donc pour une limitation de la transparence.
 

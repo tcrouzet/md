@@ -1,8 +1,10 @@
 # Le véritable Jon Snow ou comment Google altère le monde
 
-Ce matin, je m’éveille avec l’idée d’en savoir plus sur John Snow. Réflexe naturel, mais à perdre de toute urgence, je lance une requête sur Google. Bien que j’aie tapé « John Snow », je n’obtiens que des résultats pour « [Jon Snow](https://fr.wikipedia.org/wiki/Jon_Snow) », un des héros de *Game of Thrones*.<span id="more-41419"></span>
+Ce matin, je m’éveille avec l’idée d’en savoir plus sur John Snow. Réflexe naturel, mais à perdre de toute urgence, je lance une requête sur Google. Bien que j’aie tapé « John Snow », je n’obtiens que des résultats pour « [Jon Snow](https://fr.wikipedia.org/wiki/Jon_Snow) », un des héros de *Game of Thrones*.
 
 ![Résultat d'une requête John Snow.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/snow1.png)
+
+Résultat d'une requête John Snow.
 
 Alors un étrange sentiment me vient. J’ai l’impression d’assister en direct au mariage de l’Histoire et de la fiction, de voir en accéléré les faits et les on-dit s’interpénétrer, se colorer les uns les autres. Pour quelqu’un qui regarde le monde à travers Google, John Snow ne peut être que le fils d’Eddard Stark.
 
@@ -26,10 +28,16 @@ PS2 : Des internautes [discutent de ma mauvaise foi](http://seenthis.net/messag
 
 ![Qwant est guère meilleur... une petite photo intrigante sur la droite.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/snow2.jpg)
 
+Qwant est meilleur sur le texte... mais pas top sur les images, sauf un portait intrigant sur la droite.
+
 ![Tonton Roger est meilleur, le véritable John Snow arrive en troisième position.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/snow3.jpg)
+
+Tonton Roger est meilleur, le véritable John Snow arrive en troisième position.
 
 ![DuckDuckGo fait apparaître le véritable John Snow tout en haut (mais par l'artifice de mettre Wikipedia en évidence). ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/snow4-600x307.jpg)
 
-![J'avais pas vu qu'à ma requête "John Snow" Google proposait d'essayer la requête "John Snow". Étrangement, certte dernière requête impossible à saisir trouve le bon John Snow. ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/snow5-600x368.jpg)
+![J'avais pas vu qu'à ma requête "John Snow" Google proposait d'essayer la requête "John Snow". Étrangement, certte dernière requête impossible à saisir trouve le bon John Snow. ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/snow5-600x368.jpg)J'avais pas vu qu'à ma requête "John Snow" Google proposait d'essayer la requête "John Snow". Étrangement, cette dernière requête identique à la précédente trouve le bon John Snow (en fait, il faut saisir John Snow entre guillements pour que Google n'enlève pas le h et propose sur la droite la fiche Wikipedia).
+
+
 
 Tags: NetCulture, une

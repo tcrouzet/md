@@ -1,6 +1,6 @@
 # Manifeste pour la mobilité numérique
 
-Je ne suis jamais monté au créneau pour défendre la neutralité du Net parce que j’estime que le Net n’a jamais été neutre et ne le sera jamais.<span id="more-33075"></span>
+Je ne suis jamais monté au créneau pour défendre la neutralité du Net parce que j’estime que le Net n’a jamais été neutre et ne le sera jamais.
 
 > La neutralité du Net est un principe fondateur d'Internet qui garantit que les opérateurs télécoms ne discriminent pas les communications de leurs utilisateurs, mais demeurent de simples transmetteurs d'information, explique [La Quadrature du Net](http://www.laquadrature.net/fr/neutralite_du_Net). Ce principe permet à tous les utilisateurs, quelles que soient leurs ressources, d'accéder au même réseau dans son entier.
 

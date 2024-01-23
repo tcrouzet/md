@@ -1,6 +1,6 @@
 # En France, on a Finkielkraut et Slate.fr, ailleurs ils ont Morozov et Slate.com
 
-Le bonhomme a le mérite de critiquer Internet, ça ne fait pas le lui un héros, mais ça ne fait jamais de mal. Pour mieux critiquer, Morozov fait dire n’importe quoi au sujet d’Internet, ou il cherche qui l’a dit, et alors il annonce que c’est n’importe quoi. Vous avez saisi la rhétorique dont [Slate.fr vient de se faire l’écho](http://www.slate.fr/story/21353/internet-vrai-faux).<span id="more-16688"></span>
+Le bonhomme a le mérite de critiquer Internet, ça ne fait pas le lui un héros, mais ça ne fait jamais de mal. Pour mieux critiquer, Morozov fait dire n’importe quoi au sujet d’Internet, ou il cherche qui l’a dit, et alors il annonce que c’est n’importe quoi. Vous avez saisi la rhétorique dont [Slate.fr vient de se faire l’écho](http://www.slate.fr/story/21353/internet-vrai-faux).
 
 C’est un peu comme quand ont me dit qu’Internet ne nous libèrera pas et que donc toutes mes idées s’écroulent. Un esclave n’attend pas d’une pince monseigneur qu’elle le libère, mais que celui qui possède la pince lui brise sa chaîne. C’est plutôt ce que je dis, que nous disposons d’une nouvelle pince monseigneur et que nous devons songer à l’utiliser. Nous pouvons aussi nous décapiter avec ou nous contenter de la laisser pourrir dans un coin de notre remise à bordel. Je propose un usage et des méthodes pour mieux travailler avec la pince. Que d’autres disent qu’on peut faire autre chose avec, ou ne rien faire, ne contredit pas ce que je dis.
 

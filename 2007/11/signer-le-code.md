@@ -1,6 +1,6 @@
 # Signer le code
 
-L’art d’aujourd’hui me parle quand il est architectural. J’aime l’architecture parce qu’elle structure l’espace, j’aime la littérature quand elle structure mon imaginaire, j’aime la BD parce qu’elle structure la page, j’aime les photos montages pour la même raison. Les œuvres qui ne possèdent pas cette dimension architecturale, la plupart de celles exposées dans nos galeries, me paraissent datées.<span id="more-643"></span>
+L’art d’aujourd’hui me parle quand il est architectural. J’aime l’architecture parce qu’elle structure l’espace, j’aime la littérature quand elle structure mon imaginaire, j’aime la BD parce qu’elle structure la page, j’aime les photos montages pour la même raison. Les œuvres qui ne possèdent pas cette dimension architecturale, la plupart de celles exposées dans nos galeries, me paraissent datées.
 
 ![stream1.jpg](https://tcrouzet.com/images_tc/2007/11/stream1.jpg)
 

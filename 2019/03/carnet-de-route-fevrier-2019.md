@@ -4,7 +4,7 @@
 
 ### Vendredi 1<sup>er</sup>, Weston
 
-Demain, je serai en train de pédaler dans la forêt d’Ocala et j’apprends que l’[US Navy y lâchera quelques bombes pour s’entraîner](https://www.wesh.com/article/bombs-on-ocala-national-forest-this-weekend/26110575).<span id="more-50925"></span>
+Demain, je serai en train de pédaler dans la forêt d’Ocala et j’apprends que l’[US Navy y lâchera quelques bombes pour s’entraîner](https://www.wesh.com/article/bombs-on-ocala-national-forest-this-weekend/26110575).
 
 ### Vendredi 8, Weston
 

@@ -1,6 +1,6 @@
 # Autopubliez vos manuscrits, soumettez vos projets
 
-Tu écris durant des mois, des années, puis tu confies le fruit de ton travail à des gens qui te jugeront comme des examinateurs d’auto-école, avec force stylos rouges, et autres simagrées ridicules. Faut avoir une bien piètre idée de soi-même pour se prêter à cette bouffonnerie. Ou être sous l’emprise d’une philosophie quelque peu terrifiante, avec la croyance en des élites toutes-puissantes.<span id="more-37393"></span>
+Tu écris durant des mois, des années, puis tu confies le fruit de ton travail à des gens qui te jugeront comme des examinateurs d’auto-école, avec force stylos rouges, et autres simagrées ridicules. Faut avoir une bien piètre idée de soi-même pour se prêter à cette bouffonnerie. Ou être sous l’emprise d’une philosophie quelque peu terrifiante, avec la croyance en des élites toutes-puissantes.
 
 D’autant que, une fois cette étape littéraire franchie, les choses s’aggravent. Tu te heurtes aux commerciaux qui ont souvent le final cut. Ces olibrius ne lisent pas, mais se croient détenteurs d’une espèce de sagesse populaire. Ils ont l’illusion d’avoir du flair. Faut-il donc que des chiens décident ce que je dois publier ou non ?
 

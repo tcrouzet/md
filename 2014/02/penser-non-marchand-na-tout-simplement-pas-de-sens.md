@@ -1,6 +1,6 @@
 # Le non-marchand asymétrique
 
-Je vous offre cet article, sans attendre de vous une rémunération, même si rien ne vous empêche de cliquer sur l’icône Flattr pour me récompenser. En première approximation, notre échange se joue dans la sphère non-marchande.<span id="more-34531"></span>
+Je vous offre cet article, sans attendre de vous une rémunération, même si rien ne vous empêche de cliquer sur l’icône Flattr pour me récompenser. En première approximation, notre échange se joue dans la sphère non-marchande.
 
 En première approximation parce que, en y regardant de plus près, vous n’échangez pas mon article contre de l’argent, mais contre votre reconnaissance, votre influence, votre prescription… Plus vous êtes nombreux à me lire, plus ma valeur « auteur » s’accroît, et indirectement j’ai davantage de chances d’être invité à donner des conférences payantes, à écrire des articles rémunérés et à signer des contrats d’édition. Mon blog s’inscrit dans une logique [freemium](http://fr.wikipedia.org/wiki/Freemium). Il participe à mon image, même si je le considère comme mon œuvre principale et que je le pense comme objet littéraire.
 
@@ -35,6 +35,8 @@ Créateurs et receveurs poursuivent le même but, mais ne voient pas les choses 
 Quand j'apprécie un film, je le fais circuler pour faire du bien à mes amis. C'est un échange dans un cadre pacifié. De même quand je donne un texte, c'est pour n'exclure personne. Ces gestes sont tous deux pacifiques. Ils contribuent au développement de la longue traîne, une longue traîne que les chiffres de vente ne lisent pas.
 
 ![Coucher de soleil sur l'étang de Thau, 30 janvier 2014](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/02/soleil.jpg)
+
+Coucher de soleil sur l'étang de Thau, 30 janvier 2014
 
 
 

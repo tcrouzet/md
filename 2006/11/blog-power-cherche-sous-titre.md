@@ -1,6 +1,6 @@
 # Blog Power : cherche sous-titre
 
-Mon éditeur n’en démord pas : mon prochain livre s’appellera *Blog Power*. Je commence à m’y habituer même si je continue de parler à tout le monde du cinquième pouvoir. Je aurais du mal à perdre cette habitude.<span id="more-264"></span>
+Mon éditeur n’en démord pas : mon prochain livre s’appellera *Blog Power*. Je commence à m’y habituer même si je continue de parler à tout le monde du cinquième pouvoir. Je aurais du mal à perdre cette habitude.
 
 Dès les premières pages, je définis le cinquième pouvoir :
 

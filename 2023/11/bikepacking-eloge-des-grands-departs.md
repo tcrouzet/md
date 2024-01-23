@@ -1,6 +1,6 @@
 # Bikepacking : éloge des Grands Départs
 
-Le nom résume l’idée : il s’agit de partir en groupe sur une trace, donc à une date fixe, par opposition à partir seul ou avec quelques copains en mode ITT (Individual Time Trial). Si l’ITT n’implique aucune contrainte puisqu’on choisit son moment et ses compagnons, j’aime particulièrement les Grands Départs, voilà pourquoi j’en organise deux chaque année sur [les 727](https://tcrouzet.com/les-727-aventures-bikepacking-en-herault/).<span id="more-65296"></span>
+Le nom résume l’idée : il s’agit de partir en groupe sur une trace, donc à une date fixe, par opposition à partir seul ou avec quelques copains en mode ITT (Individual Time Trial). Si l’ITT n’implique aucune contrainte puisqu’on choisit son moment et ses compagnons, j’aime particulièrement les Grands Départs, voilà pourquoi j’en organise deux chaque année sur [les 727](https://tcrouzet.com/les-727-aventures-bikepacking-en-herault/).
 
 Dans mon esprit, les Grands Départs participent aux charmes du bikepacking. Ils ne se résument pas à partir en groupe un bon matin, mais d’abord à se retrouver la veille au soir pour une veillée d’armes avant de s’élancer le lendemain. Ils impliquent une forme de ritualisation que j’apprécie de plus en plus. On commence à pédaler avant même de pédaler. On s'échauffe à l'idée de l'évènement tout proche. On retisse des liens distendus ou en noue de nouveaux. Une alchimie positive se met souvent en place.
 

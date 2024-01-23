@@ -4,7 +4,7 @@ Picasso a dit :
 
 > C’est quand je me repose que je suis fatigué. Certains boivent des Pernod toute la journée. Moi, mes Pernod c’est mon travail.
 
-Pour ma part, je ne me drogue pas, je ne bois presque jamais d’alcool, je ne fume pas… Je n’ai jamais éprouvé le moindre besoin d’un quelconque speed. Quand je compare mes états mentaux avec ceux des adeptes des drogues plus ou moins dures, je suis toujours surpris de constater que ma conscience est très souvent dans un état de totale défonce.<span id="more-175"></span>
+Pour ma part, je ne me drogue pas, je ne bois presque jamais d’alcool, je ne fume pas… Je n’ai jamais éprouvé le moindre besoin d’un quelconque speed. Quand je compare mes états mentaux avec ceux des adeptes des drogues plus ou moins dures, je suis toujours surpris de constater que ma conscience est très souvent dans un état de totale défonce.
 
 En lisant ce matin un article dans [*NewScientist*](http://www.newscientist.com/article/mg19125612.200.html), je viens de comprendre pourquoi. Lorsque nous apprenons quelque chose de nouveau, notre cerveau active les mêmes zones que lorsque nous prenons des drogues comme l’héroïne. Nous nous sommes shootés à l’info. Nous sommes des infovores.
 

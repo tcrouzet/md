@@ -1,6 +1,6 @@
 # Pourquoi j’aime lire en numérique
 
-Quand j’ai dit à Isa que je voulais prendre le contre-pied de notre [Lorenzo national](http://www.idboox.com/infos-ebooks/tribune-libre-pourquoi-les-liseuses-mont-decu/), elle m’a dit à quoi bon répéter pour la millième fois les mêmes arguments. Ma réponse : « Pour faire mes gammes, je n’ai rien écrit aujourd’hui. » Alors, oui, j’aime lire en numérique, sur liseuse, tablette, ordi, portable… Ces écrans ne forment plus qu’un vaste continuum, les textes passant des uns aux autres.<span id="more-34849"></span>
+Quand j’ai dit à Isa que je voulais prendre le contre-pied de notre [Lorenzo national](http://www.idboox.com/infos-ebooks/tribune-libre-pourquoi-les-liseuses-mont-decu/), elle m’a dit à quoi bon répéter pour la millième fois les mêmes arguments. Ma réponse : « Pour faire mes gammes, je n’ai rien écrit aujourd’hui. » Alors, oui, j’aime lire en numérique, sur liseuse, tablette, ordi, portable… Ces écrans ne forment plus qu’un vaste continuum, les textes passant des uns aux autres.
 
 ### 1
 
@@ -175,6 +175,8 @@ J'aime que le livre ne se referme pas sur mes mains à cause de sa reliure pourr
 J'aime lire en numérique parce que c'est moins cher (si les éditeurs jouent le jeu).
 
 ![Première page d'Ératosthène](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/ipad.jpg)
+
+Première page d'Ératosthène
 
 
 

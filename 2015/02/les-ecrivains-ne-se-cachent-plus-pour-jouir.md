@@ -1,6 +1,6 @@
 # Les écrivains ne se cachent plus pour jouir
 
-Tu ne dis pas ce que tu ressens, on te reproche d'être froid. Tu le dis, ça dérange, parce que du ne devrais pas éprouver de malaise, surtout au sujet de la littérature sur ne Net. Tu devrais toujours être positif, enthousiaste, politiquement correct en quelque sorte, ben non.<span id="more-39435"></span>
+Tu ne dis pas ce que tu ressens, on te reproche d'être froid. Tu le dis, ça dérange, parce que du ne devrais pas éprouver de malaise, surtout au sujet de la littérature sur ne Net. Tu devrais toujours être positif, enthousiaste, politiquement correct en quelque sorte, ben non.
 
 Quand je raconte que [le Net littéraire ressemble à une ville pestiférée](http://blog.tcrouzet.com/2015/02/14/les-ecrivains-ne-se-cachent-plus-pour-mourir/), c'est parce que je vis cette sensation au plus profond. Il ne s'agit pas d'une déduction logique.
 
@@ -39,6 +39,8 @@ Ma vie serait d'une infinie légèreté si un démon ne s'agitait pas en moi. S'
 Alors nous échouons le plus souvent, nous élargissons le cimetière de la création, il ne peut en aller différemment. Tout espace où les créateurs s'expriment sans limites est condamné à se transformer en nécropole. C'est une fatalité statistique. On peut la nier, croire que tout se vaut, mais non. Voudrions-nous d'une existence où tous les moments se valent ? Non. Nous sommes prêts à signer des pactes terribles pour éprouver l'indicible.
 
 ![Des barques dans le port de la Pointe Courte.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/pointe.jpg)
+
+Des barques dans le port de la Pointe Courte.
 
 
 

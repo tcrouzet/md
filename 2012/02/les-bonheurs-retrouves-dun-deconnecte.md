@@ -1,6 +1,6 @@
 # Les bonheurs retrouvés d&#8217;un déconnecté
 
-[*Le Point*](http://www.lepoint.fr/la-liste/un-sevre-du-net-retrouve-le-bleu-du-ciel-04-02-2012-1427360_312.php) m’a demandé de lister les bonheurs que j’avais redécouverts en me déconnectant. Voici le résultat, avec pour conclusion le bonheur de vivre à l’époque numérique.<span id="more-23109"></span>
+[*Le Point*](http://www.lepoint.fr/la-liste/un-sevre-du-net-retrouve-le-bleu-du-ciel-04-02-2012-1427360_312.php) m’a demandé de lister les bonheurs que j’avais redécouverts en me déconnectant. Voici le résultat, avec pour conclusion le bonheur de vivre à l’époque numérique.
 
 ### Les rêves
 

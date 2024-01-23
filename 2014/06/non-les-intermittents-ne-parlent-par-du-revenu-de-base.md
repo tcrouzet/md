@@ -1,6 +1,6 @@
 # Non les intermittents ne parlent pas du revenu de base
 
-Après [mon coup de gueule](http://blog.tcrouzet.com/2014/06/13/crise-des-intermittents-une-belle-opportunite/), on me dit que suis un ignorant, que tous les intermittents connaissent le revenu de base, en parlent dans leurs réunions, même dans leurs comptes rendus. Je trouve ça très bien, mais alors ce n’est vraiment pas efficace, et ça n’arrive pas à mes oreilles. Et pas étonnant.<span id="more-36013"></span>
+Après [mon coup de gueule](http://blog.tcrouzet.com/2014/06/13/crise-des-intermittents-une-belle-opportunite/), on me dit que suis un ignorant, que tous les intermittents connaissent le revenu de base, en parlent dans leurs réunions, même dans leurs comptes rendus. Je trouve ça très bien, mais alors ce n’est vraiment pas efficace, et ça n’arrive pas à mes oreilles. Et pas étonnant.
 
 ![Intermittents vs Revenu de base](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/trends1-600x338.png)
 

@@ -1,6 +1,6 @@
 # L’intelligence des foules conditionnelle
 
-Quand de [telles photos circulent](http://images.google.fr/images?um=1&hl=fr&client=firefox-a&hs=z3e&rlz=1R1GGGL_fr&tbs=isch%3A1&sa=1&q=Medvedev+drunk+G8&btnG=Rechercher&aq=f&oq=&start=0) sur le Web, les foules s’excitent et crient au scandale, sans même chercher leur origine, à savoir s’il y a manipulation ou non. Nous sommes bien loin s’assister à une manifestation de l’intelligence collective.<span id="more-15119"></span>
+Quand de [telles photos circulent](http://images.google.fr/images?um=1&hl=fr&client=firefox-a&hs=z3e&rlz=1R1GGGL_fr&tbs=isch%3A1&sa=1&q=Medvedev+drunk+G8&btnG=Rechercher&aq=f&oq=&start=0) sur le Web, les foules s’excitent et crient au scandale, sans même chercher leur origine, à savoir s’il y a manipulation ou non. Nous sommes bien loin s’assister à une manifestation de l’intelligence collective.
 
 Dans [un intéressant billet](http://deuxsecondes.blogspot.com/2010/03/de-lochlocratie-numerique.html), François Lessard nous met en garde contre l'[ochlocratie](http://fr.wikipedia.org/wiki/Ochlocratie) numérique, c'est-à-dire le moment où les foules lyncheuses prennent le pouvoir et où leur folie oublie l’intérêt collectif.
 

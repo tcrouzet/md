@@ -1,6 +1,6 @@
 # Wikipedia : quand la fin du web libre se donne en spectacle
 
-Wikipedia symbolisait le web 2.0, le modèle participatif, ouvert, libre, coopératif. Ajoutez tous les qualificatifs pour célébrer ce qui devait être une nouvelle économie porteuse de valeurs nouvelles, loin de l’ancien monde de la prédation en vigueur depuis des millénaires. Mais ne vous enflammez pas, ce rêve est bel et bien terminé.<span id="more-37521"></span>
+Wikipedia symbolisait le web 2.0, le modèle participatif, ouvert, libre, coopératif. Ajoutez tous les qualificatifs pour célébrer ce qui devait être une nouvelle économie porteuse de valeurs nouvelles, loin de l’ancien monde de la prédation en vigueur depuis des millénaires. Mais ne vous enflammez pas, ce rêve est bel et bien terminé.
 
 Tout commence par une affaire assez ordinaire et symptomatique d’un glissement irrémédiable vers la centralisation, le contrôle, l’apparition d’apparatchiks, d’une caste de fonctionnaires freelances avares de leurs petits pouvoirs.
 
@@ -23,6 +23,8 @@ Conséquence logique de l’usage de critères datés, la TRM n’existe pas, d�
 Le fait que nous soyons nombreux depuis des années à avoir discuté de la TRM, en bien ou en mal, ne compte pas. Pour les Wikipédistes nous ne comptons pas. Même Yoland Bresson, [un économiste officiel même pour Wikipédia](https://fr.wikipedia.org/wiki/Yoland_Bresson), qui préface la TRM. Alors ils s’en prennent à des pages connectées. [Celle d’OpenUDC](https://fr.wikipedia.org/wiki/Discussion:OpenUDC/Suppression#OpenUDC), la seule alternative sérieuse aux cryptomonnaies de type Bitcoin, ils lorgnent sur [la page du Générateur Poïétique](https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9rateur_Po%C3%AF%C3%A9tique) d’Olivier Aubert, puis ils finissent [par me tomber dessus](http://fr.wikipedia.org/wiki/Discussion:Thierry_Crouzet). Puisque je les critique, je dois être effacé de la Babel. Ils vont jusqu’à prétendre qu’il existe peu de sources secondaires à mon sujet, comme si je n’avais jamais édité de livres selon les anciens critères ([un petit lien pour les aider](http://blog.tcrouzet.com/jai-debranche/jai-debranche-presse/), même [un autre via Google](https://www.google.fr/search?espv=2&q=Thierry+Crouzet+-site%3Ablog.tcrouzet.com+-site%3Afr.wikipedia.org%2Fwiki%2FThierry_Crouzet+-site%3Athierrycrouzet.com&oq=Thierry+Crouzet+-site%3Ablog.tcrouzet.com+-site%3Afr.wikipedia.org%2Fwiki%2FThierry_Crouzet+-site%3Athierrycrouzet.com&gs_l=serp.3...24052.31557.0.32211.27.24.2.0.0.0.106.1442.14j2.16.0....0...1c.1.55.serp..27.0.0.i1gAjjd5i4Q)). À ce stade, et après avoir ignoré la validation de la TRM par Yoland Bresson, la mauvaise foi devient évidente. C’est une sorte de règlement de compte.
 
 ![Ma page attaquée sous prétexte que personne ne parle de moi.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/wikipedia1.jpg)
+
+Ma page attaquée sous prétexte que personne ne parle de moi.
 
 Quand je me plains de cette situation, Remi Mathis, ex-président de Wikimedia France, [me rétorque qu’il existe une charte Wikipédia](https://twitter.com/RemiMathis/status/520282002374004736). De toute évidence, elle est foireuse.
 

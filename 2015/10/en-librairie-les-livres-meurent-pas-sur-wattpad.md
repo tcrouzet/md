@@ -14,6 +14,8 @@ Au contraire, sur Wattpad on peut construire un récit, voire une pensée, avec 
 
 ![Cumulation des lectures sur les chapitres 10 à 31 de 1 minute.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/wattapd9.png)
 
+Cumulation des lectures sur les chapitres 10 à 31 de 1 minute.
+
 Mon expérience est limitée à la publication quotidienne de [*1 minute*](http://www.wattpad.com/story/29694130-1-minute) et à mes seules statistiques, mais j’ai l’impression que, sur Wattpad, tous les textes sont de plus en plus lus avec le temps. Quelques fans suffisent à en recruter d’autres. Le système de promotion des textes suffit à faire le reste.
 
 Au-delà de Wattpad, un principe nouveau émerge. Celui de la lecture de livres appliquée au Web : ramener l’audience dans le déploiement de l’œuvre plutôt que l’emprisonner dans l’instantanéité du buzz.

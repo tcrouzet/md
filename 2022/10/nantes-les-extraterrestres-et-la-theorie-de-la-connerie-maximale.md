@@ -1,6 +1,6 @@
 # Nantes, les extraterrestres et la théorie de la connerie maximale
 
-À l’occasion des [Utopiales 2022](https://www.utopiales.org/), je participe à la table ronde « Le cerveau des extraterrestres est-il comme le nôtre ? » Avec quelques questions subsidiaires : « L’extraterrestre, s'il venait à notre rencontre, pourrait-il communiquer avec nous ? Les références culturelles communes manqueront sûrement… Mais qu’en serait-il de la cognition ? Comment envisager le premier contact avec qui ne pensera sans doute pas de la même façon que nous ? »<span id="more-64441"></span>
+À l’occasion des [Utopiales 2022](https://www.utopiales.org/), je participe à la table ronde « Le cerveau des extraterrestres est-il comme le nôtre ? » Avec quelques questions subsidiaires : « L’extraterrestre, s'il venait à notre rencontre, pourrait-il communiquer avec nous ? Les références culturelles communes manqueront sûrement… Mais qu’en serait-il de la cognition ? Comment envisager le premier contact avec qui ne pensera sans doute pas de la même façon que nous ? »
 
 Comme je n’ai jamais rencontré d’extraterrestres, j’aurais du mal à dire quelque chose de pertinent, sauf peut-être à remarquer que j’ai déjà du mal à discuter avec nombre de mes semblables, alors peut-être que ce ne sera pas pire avec des extraterrestres.
 

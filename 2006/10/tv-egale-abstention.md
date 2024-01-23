@@ -4,7 +4,7 @@ Plus nous regardons la télé (pas moi… je l’ai pas), moins nous votons. C�
 
 ![](http://tcrouzet.com/https://tcrouzet.com/images_tc/200610coev.gif) 
 
-Dans mon prochain livre, je vais publier et commenter ce graphique qui parle de lui-même. Je l’ai concocté en corrélant diverses études ([le taux d’abstention aux élections depuis 1958](http://www.tns-sofres.com/etudes/dossiers/d_abstention.htm) et la traditionnelle étude [Médiamétrie](http://www.mediametrie.fr/contenu.php?rubrique=tv&rubrique_id=355&menu_id=198) que j’ai reconstituée en glanant à droite à gauche). Si quelqu’un connaît d’autres sources, je suis preneur.<span id="more-243"></span>
+Dans mon prochain livre, je vais publier et commenter ce graphique qui parle de lui-même. Je l’ai concocté en corrélant diverses études ([le taux d’abstention aux élections depuis 1958](http://www.tns-sofres.com/etudes/dossiers/d_abstention.htm) et la traditionnelle étude [Médiamétrie](http://www.mediametrie.fr/contenu.php?rubrique=tv&rubrique_id=355&menu_id=198) que j’ai reconstituée en glanant à droite à gauche). Si quelqu’un connaît d’autres sources, je suis preneur.
 
 Mon analyse est simple : la télévision a transformé la politique en spectacle, un spectacle réservé à une élite, un spectacle auquel nous participons de moins en moins. Cette distanciation de plus en plus grande, nous a conduis à nous engager de moins en moins.
 

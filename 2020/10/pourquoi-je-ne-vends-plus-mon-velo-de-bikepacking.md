@@ -1,6 +1,6 @@
 # Pourquoi je ne vends plus mon vélo de bikepacking
 
-Quand je partage mes cogitations, les échanges qui s’en suivent m’aident souvent à préciser mes idées, voire à changer d’avis. Le net social révolutionne le vélo, mais peut-être que depuis toujours les cyclistes se prennent la tête au sujet de leurs bécanes (ça en devient maladif chez moi).<span id="more-55589"></span>
+Quand je partage mes cogitations, les échanges qui s’en suivent m’aident souvent à préciser mes idées, voire à changer d’avis. Le net social révolutionne le vélo, mais peut-être que depuis toujours les cyclistes se prennent la tête au sujet de leurs bécanes (ça en devient maladif chez moi).
 
 J’avais donc décidé de [vendre mon VTT tout rigide](https://tcrouzet.com/2020/10/02/pourquoi-je-vends-mon-velo-bikepacking-tout-rigide/) monté en début d’année spécialement pour le bikepacking (moi, j'appelle ça un monstercross). Trois raisons principales.
 

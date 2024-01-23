@@ -1,6 +1,6 @@
 # Si un livre ne marche pas…
 
-Je propose un théorème : Si un livre ne marche pas chez cinq libraires motivés pour le vendre, il ne marchera jamais dans des centaines moins motivés.<span id="more-43699"></span>
+Je propose un théorème : Si un livre ne marche pas chez cinq libraires motivés pour le vendre, il ne marchera jamais dans des centaines moins motivés.
 
 En corollaire, le modèle actuel de l’édition est complètement fou. Il s’agit de mettre des livres partout dans l’espoir qu’en multipliant les points de vente on multipliera les ventes. Multiplier zéro par zéro n’a jamais fait autre chose que zéro.
 

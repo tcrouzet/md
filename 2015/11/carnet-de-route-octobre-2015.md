@@ -36,6 +36,8 @@ Je suis incapable d’écrire autre chose que [mes minutes](http://tcrouzet.com/
 
 ![En TGV, levé de soleil sur le Rhone.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/rhone.jpg)
 
+En TGV, levé de soleil sur le Rhone.
+
 ---
 
 Cet après-midi, je dois parler devant des étudiants en journalisme. Des prétendus digital natives, des jeunes bacheliers. À leur âge, je savais coder. J’étais déjà plus dans mon temps que la plupart d’entre eux. OK, je suis un vieux con (mais je me donne vingt ans de moins).
@@ -56,6 +58,8 @@ Sur Twitter, je me désabonne des gens qui ne me suivent pas. Je resserre ma com
 
 ![La journée commence en douceur.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/lever.jpg)
 
+La journée commence en douceur.
+
 La digital detox est une intox.
 
 ---
@@ -66,9 +70,13 @@ Quand je vais au village, je passe en vélo sur un pont de bois réservé aux pi
 
 ![Paysage matinal en strates.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/couches.jpg)
 
+Paysage matinal en strates.
+
 Je passe devant un atelier avec des palettes colorées entreposées sous des arbres qui perdent leurs feuilles. J’ai pensé automne. Je me suis même un instant senti dans les environs de Seattle. La couleur rouge du mur renforçait celle du soleil et m’a projeté aux pieds de la chaîne des Cascades. L’endroit m’est revenu avec la force décrite par le Proust que j’aime, celui des impressions. Si j’avais le courage, je reproduirais les notes et les dessins de cette journée de mon passé. J’ai le projet sans cesse repoussé de me lancer dans le retroblogging.
 
 ![Les couleurs de l'été Indien.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/palettes.jpg)
+
+Les couleurs de l'été Indien.
 
 ---
 
@@ -157,6 +165,8 @@ Quand je suis triste, je ne pleure pas. Très vite, j’ai mal au ventre. L’é
 ### Jeudi 29, Balaruc
 
 ![Un ciel trop beau, en souvenir de Yal.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/ciel.jpg)
+
+Un ciel trop beau, en souvenir de Yal.
 
 ### Samedi 31, Balaruc
 

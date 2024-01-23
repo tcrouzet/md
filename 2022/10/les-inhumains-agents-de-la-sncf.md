@@ -1,6 +1,6 @@
 # Les inhumains agents de la SNCF
 
-Pour manifester, ils sont tous devant, pour faire grève et annuler des trains, ils ne manquent pas à l'appel, pour être à notre écoute, il faut repasser. J’en suis furieux aux larmes.<span id="more-64387"></span>
+Pour manifester, ils sont tous devant, pour faire grève et annuler des trains, ils ne manquent pas à l'appel, pour être à notre écoute, il faut repasser. J’en suis furieux aux larmes.
 
 Mon beau-père est mort mercredi. Ma femme est montée à Nancy pour s’occuper de sa mère, de sa famille et des obsèques. J’étais à Paris pour soutenir mon fils aîné qui entame une prépa intense, pendant que mon fils de 15 ans restait chez nous avec sa grand-mère.
 

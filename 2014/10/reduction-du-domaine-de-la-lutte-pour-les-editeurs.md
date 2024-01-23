@@ -1,6 +1,6 @@
 # Réduction du domaine de la lutte pour les éditeurs
 
-Quand un auteur indépendant peut vous offrir un petit roman de 80 pages, format papier, pour 4,99 € tout en se réservant 28 % de droit, les éditeurs peuvent commencer à se poser des questions et les lecteurs aussi, car ils payent en temps normal les livres papier souvent deux fois trop chers.<span id="more-37708"></span>
+Quand un auteur indépendant peut vous offrir un petit roman de 80 pages, format papier, pour 4,99 € tout en se réservant 28 % de droit, les éditeurs peuvent commencer à se poser des questions et les lecteurs aussi, car ils payent en temps normal les livres papier souvent deux fois trop chers.
 
 Comparons avec deux magnifiques petits romans de taille exactement comparable (et qu'au passage je vous conseille encore une fois de lire). [*Terminus mon Ange*](http://www.amazon.fr/gp/product/2358870714/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=2358870714&linkCode=as2&tag=tcrouzetcom-21&linkId=T4DWZASRZ74V5MO3) de Lilian Bathelot, 2014. Prix : 9,90 €, droit d’auteur sans doute autour de 10 %. [*La Frontière*](http://www.amazon.fr/gp/product/2070388042/ref=as_li_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=2070388042&linkCode=as2&tag=tcrouzetcom-21&linkId=AACPLZA3DCKN2SAL) de Pascal Quignard en Folio, 1994. Prix 6,20 €, droit sans doute autour de 5 %. Dans les deux cas, l’auteur gagne beaucoup moins et le lecteur paye plus cher. C’est assez logique parce que l’éditeur doit aussi gagner sa vie.
 

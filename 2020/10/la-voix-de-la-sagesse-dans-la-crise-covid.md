@@ -1,6 +1,6 @@
 # La voix de la sagesse dans la crise covid
 
-Aujourd’hui sort [*Vaincre les épidémies*](https://tcrouzet.com/vaincre-les-epidemies/). C’est en quelque sorte un livre d’histoire, où j’ai raconté comment mon ami le professeur Didier Pittet avait appréhendé le covid au jour le jour, comment ses idées avaient peu à peu évolué, au regard des évidences scientifiques, mais aussi des observations effectuées par ses équipes sur le terrain et dans leur hôpital de Genève.<span id="more-55796"></span>
+Aujourd’hui sort [*Vaincre les épidémies*](https://tcrouzet.com/vaincre-les-epidemies/). C’est en quelque sorte un livre d’histoire, où j’ai raconté comment mon ami le professeur Didier Pittet avait appréhendé le covid au jour le jour, comment ses idées avaient peu à peu évolué, au regard des évidences scientifiques, mais aussi des observations effectuées par ses équipes sur le terrain et dans leur hôpital de Genève.
 
 Ce livre diffère de la plupart de ceux déjà publiés sur la pandémie, en ce sens qu’elle est vue selon la perspective de celui qui la combat, qui jamais ne renonce devant l’adversité, qui toujours cherche des solutions, quitte à jouer au billard à cinq bandes pour influencer les décisions jusqu’au sommet de l’État.
 

@@ -1,6 +1,6 @@
 # Un monde sans pauvreté
 
-Que va-t-on faire une fois que le système bancaire se sera vaporisé avec nos économies ? Hier, cette question était farfelue. Aujourd’hui, elle effraie parce que nous allons devoir reconstruire le monde. Je vois deux directions divergentes se profiler.<span id="more-6231"></span>
+Que va-t-on faire une fois que le système bancaire se sera vaporisé avec nos économies ? Hier, cette question était farfelue. Aujourd’hui, elle effraie parce que nous allons devoir reconstruire le monde. Je vois deux directions divergentes se profiler.
 
 1. Totalitarisme. Quelques privilégiés accaparent les ressources pour maintenir leur niveau de vie. Amplification extrême du capitalisme avec creusement de l’écart entre les pauvres et les riches. Réduction des libertés et esclavagisme. Guerres expansionnistes. Peur des autres pays qui pourraient rêver des richesses qui nous restent. Risque de verser dans la barbarie. Génocides afin de réduire la population et la complexité.
 2. Éveil. Une prise de conscience générale traverse tous les hommes et nous nous mettons à partager un nouveau rêve. L’idée d’un monde sans pauvreté, sans dissensions, harmonieux est peut-être enfin possible. Ce nouvel état évolutif ne pouvait advenir qu’après une phase de mondialisation, une phase d’interdépendance car il ne peut jaillir que s’il est universellement partagé dans un monde à la complexité assumée.

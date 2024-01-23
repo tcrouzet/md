@@ -1,6 +1,6 @@
 # 20 raisons de s’autopublier
 
-1. Les blogs totalisent chaque jour plus de lecteurs que les livres édités. Il y a donc un immense public pour les autopubliés.<span id="more-37819"></span>
+1. Les blogs totalisent chaque jour plus de lecteurs que les livres édités. Il y a donc un immense public pour les autopubliés.
 
 2. C’est un moyen de voir si un texte trouve un public, étape potentiellement préalable à une édition classique.
 

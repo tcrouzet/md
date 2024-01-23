@@ -1,6 +1,6 @@
 # Revenu de base implique décroissance
 
-J’ai reçu [un très beau témoignage](http://blog.tcrouzet.com/2014/06/15/le-revenu-de-base-et-limpossible-decroissance/#comment-1438048524). Isabelle, pas mon Isa, nous explique comment en acceptant de gagner moins, elle est plus heureuse tout en consommant moins. Avant d’évoquer ses mots, je voudrais revenir sur les incompréhensions soulevées par [l’article](http://blog.tcrouzet.com/2014/06/15/le-revenu-de-base-et-limpossible-decroissance/) qui les a suscités.<span id="more-36078"></span>
+J’ai reçu [un très beau témoignage](http://blog.tcrouzet.com/2014/06/15/le-revenu-de-base-et-limpossible-decroissance/#comment-1438048524). Isabelle, pas mon Isa, nous explique comment en acceptant de gagner moins, elle est plus heureuse tout en consommant moins. Avant d’évoquer ses mots, je voudrais revenir sur les incompréhensions soulevées par [l’article](http://blog.tcrouzet.com/2014/06/15/le-revenu-de-base-et-limpossible-decroissance/) qui les a suscités.
 
 > Un rentier qui fait la morale à ceux qui ne sont pas né riches ou n'ont pas reçu d'héritage ! Faut oser !
 

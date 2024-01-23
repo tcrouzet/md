@@ -1,6 +1,6 @@
 # Pourquoi je vends mon vélo bikepacking tout rigide
 
-J’ai réfléchi durant des mois à mon vélo de bikepacking idéal pour finir par me décider pour un VTT tout rigide en carbone, potentiellement ultraléger donc. À l’usage, mes poignets, mes bras et mes épaules ne sont pas convaincus.<span id="more-55332"></span>
+J’ai réfléchi durant des mois à mon vélo de bikepacking idéal pour finir par me décider pour un VTT tout rigide en carbone, potentiellement ultraléger donc. À l’usage, mes poignets, mes bras et mes épaules ne sont pas convaincus.
 
 En 2019, j’ai roulé avec un Salsa Timberjack semi-rigide ultraconfortable, juste un peu lourd à mon goût, pas loin de 13 kg, même avec des roues carbone (donc plus lourd que mon tout suspendu). En prime, je roulais en 2,6 pouces, pour accroître le confort. Rien à dire, cette bécane fait le job, elle a juste un peu de mal sur les portions roulantes. J’ai été étonné de ne pas réussir à la revendre et j’ai préféré la garder plutôt de la donner comme les acheteurs potentiels me le proposaient. C’est assez fou parce qu’aux US, où j’ai acheté ce vélo et roulé avec lui pour l’essentiel, je l’aurais vendu en un instant, ce qui en soi montre qu’une marque comme Salsa est encore méconnue chez nous.
 

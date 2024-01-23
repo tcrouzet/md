@@ -1,6 +1,6 @@
 # L&#8217;écologie commence par l&#8217;amour du territoire
 
-J'ai longtemps été un écologiste rationnel. Je partais d’un constat imparable : pollutions, dérèglements climatiques, surexploitation des sols, et aussi des humains, baisse de la biodiversité… En conséquence de quoi l’action s’imposait. Nier cette évidence s’apparentait à un crime politique.<span id="more-60033"></span>
+J'ai longtemps été un écologiste rationnel. Je partais d’un constat imparable : pollutions, dérèglements climatiques, surexploitation des sols, et aussi des humains, baisse de la biodiversité… En conséquence de quoi l’action s’imposait. Nier cette évidence s’apparentait à un crime politique.
 
 À mon échelle, j’ai milité en faveur d’approches plus décentralisées, car moins dispendieuses, plus résilientes, favorisant en prime l’intelligence collective, indispensable pour résoudre les problèmes complexes, face auxquels l’approche pyramidale est impuissante.
 

@@ -1,6 +1,6 @@
 # Propulseurs dans le flux
 
-J’ai commencé par m’intéresser au superorganisme avec [Starglider](http://blog.tcrouzet.com/tag/starglider/), j’ai alors glissé vers le [flux](http://blog.tcrouzet.com/tag/flux/), ne m’intéressant plus en quelque sorte qu’à la circulation sanguine du superorganisme, j’ai fini par aboutir à l’idée que nous devenions des nomades dans ce flux, des espèces de bateaux ivres.<span id="more-17509"></span>
+J’ai commencé par m’intéresser au superorganisme avec [Starglider](http://blog.tcrouzet.com/tag/starglider/), j’ai alors glissé vers le [flux](http://blog.tcrouzet.com/tag/flux/), ne m’intéressant plus en quelque sorte qu’à la circulation sanguine du superorganisme, j’ai fini par aboutir à l’idée que nous devenions des nomades dans ce flux, des espèces de bateaux ivres.
 
 [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) dans sa version initiale soufrait de ces trois glissements. Les idées se carambolaient, se superposaient, cherchaient elles-mêmes leur chemin vers la mer. Maintenant qu’elles sont plus claires pour moi, il m’a semblé nécessaire de les autonomiser, même si elles restent liées en filigrane.
 

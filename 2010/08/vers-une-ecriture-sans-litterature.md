@@ -1,6 +1,6 @@
 # Vers une écriture sans littérature ?
 
-Ce n’est pas parce que nous avons une conscience littéraire que nous produisons de la littérature. Il ne suffit pas de se vouloir littéraire pour l’être. Cette conscience a même le don de paralyser nombre d’auteurs, de leur faire regarder leurs phrases jusqu’à ce qu’ils soient incapables d’en produire une de supportable.<span id="more-18796"></span>
+Ce n’est pas parce que nous avons une conscience littéraire que nous produisons de la littérature. Il ne suffit pas de se vouloir littéraire pour l’être. Cette conscience a même le don de paralyser nombre d’auteurs, de leur faire regarder leurs phrases jusqu’à ce qu’ils soient incapables d’en produire une de supportable.
 
 Tout peut être littéraire. [Écrire un roman populaire peut-être un projet littéraire](http://blog.tcrouzet.com/2010/08/25/pour-une-litterature-de-gare/). La littérature en soi n’existe pas. Un texte devient littéraire après coup. Ce n’est pas l’auteur qui le décide, mais ses successeurs. La littérature ne se limite pas à l’alignement de belles phrases. Qu’est-ce qu’une belle phrase ?
 

@@ -4,7 +4,7 @@
 
 ![Into the wild](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/11/wild.jpg)
 
-Dans mon livre, j'évoque *Into the wild* de Krakauer. Près du corps de Christopher McCandless, les chasseurs d’élans retrouvent des livres, notamment *Le bonheur conjugal* de Tolstoï. Krakauer cite un des passages surligné par Christopher :<span id="more-12176"></span>
+Dans mon livre, j'évoque *Into the wild* de Krakauer. Près du corps de Christopher McCandless, les chasseurs d’élans retrouvent des livres, notamment *Le bonheur conjugal* de Tolstoï. Krakauer cite un des passages surligné par Christopher :
 
 > I wanted movement and not a calm course of existence. I wanted excitement and danger and the chance to sacrifice myself for my love. I felt in myself a superabundance of energy which found no outlet in our quiet life.
 

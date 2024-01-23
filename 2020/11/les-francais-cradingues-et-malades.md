@@ -1,6 +1,6 @@
 # Les Français cradingues et malades
 
-« Portez les masques, portez les masques, portez-les dans la rue, ne les posez même pas quand vous êtes seul dans votre voiture ou faites du vélo. » Nous avons entendu ça durant des mois et conséquences nous avons ramassé une seconde vague aussi violente que la première.<span id="more-56121"></span>
+« Portez les masques, portez les masques, portez-les dans la rue, ne les posez même pas quand vous êtes seul dans votre voiture ou faites du vélo. » Nous avons entendu ça durant des mois et conséquences nous avons ramassé une seconde vague aussi violente que la première.
 
 Le masque porté tout le temps et n’importe comment n’a été que de peu d'utilité parce que ce virus ne se transmet pas majoritairement par aérosol. Le gouvernement français n'aurait jamais dû changer de doctrine, le scandale des masques était avant tout politique, il a poussé à des décisions contre productives. Ce virus se transmet par gouttelettes et par contact, pour l’essentiel, c’est-à-dire par l’intermédiaire de nos mains. À force de ne penser que masque, nous avons oublié, et continuons d'oublier, le geste barrière essentiel avec la distanciation physique.
 

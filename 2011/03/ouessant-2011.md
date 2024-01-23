@@ -1,6 +1,6 @@
 # Jeux de rôle pour Ouessant 2011
 
-[Le salon Numer’île](http://www.livre-insulaire.fr/57.html) est en train de devenir une institution que les acteurs de l’édition électronique ne peuvent plus manquer. Ce n’est pas à Paris que les choses se passent en été, mais à l’extrémité ouest de la France. Cette année du 20 au 24 aout.<span id="more-21345"></span>
+[Le salon Numer’île](http://www.livre-insulaire.fr/57.html) est en train de devenir une institution que les acteurs de l’édition électronique ne peuvent plus manquer. Ce n’est pas à Paris que les choses se passent en été, mais à l’extrémité ouest de la France. Cette année du 20 au 24 aout.
 
 Nous en profiterons pour échanger, refaire le monde, partager des théories tordues et esquisser des projets, mais aussi pour expérimenter. J’aimerais enfin mettre en pratique une idée qui me trotte dans la tête depuis des années : écrire un roman en reprenant les principes du jeu de rôle et les mixant dans un atelier d’écriture. Le huis clos propre à l’insularité nous imposera les conditions idéales.
 

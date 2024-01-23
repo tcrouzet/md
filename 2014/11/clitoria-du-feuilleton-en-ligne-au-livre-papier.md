@@ -1,6 +1,6 @@
 # Clitoria, du feuilleton en ligne au livre papier
 
-À partir de lundi prochain, en partenariat avec [ActuaLitté](https://www.actualitte.com/chez-wam/a-lire-sur-actualitte-clitoria-roman-erotique-de-thierry-crouzet-53677.htm), je vous offrirai deux fois par semaine [*Clitoria*](http://blog.tcrouzet.com/clitoria/), un feuilleton coquin qui vous fera plonger dans le XVI<sup>e</sup> siècle, au cœur de la renaissance des idées et des passions.<span id="more-38002"></span>
+À partir de lundi prochain, en partenariat avec [ActuaLitté](https://www.actualitte.com/chez-wam/a-lire-sur-actualitte-clitoria-roman-erotique-de-thierry-crouzet-53677.htm), je vous offrirai deux fois par semaine [*Clitoria*](http://blog.tcrouzet.com/clitoria/), un feuilleton coquin qui vous fera plonger dans le XVI<sup>e</sup> siècle, au cœur de la renaissance des idées et des passions.
 
 Petit avant-goût :
 

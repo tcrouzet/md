@@ -1,6 +1,6 @@
 # Même le livre n’échappera pas aux flux
 
-Micro-posts, articles, livres… ils deviennent ou deviendront flux, se libérant du papier comme de la page web qui était censée le remplacer. Toute information se prête à la copie, à la propagation, à la réorganisation, à la représentation selon de multiples perspectives. Plus aucune raison technique ne l’attache à une forme graphique particulière quelle qu’en soit la volonté de l’auteur.<span id="more-8853"></span>
+Micro-posts, articles, livres… ils deviennent ou deviendront flux, se libérant du papier comme de la page web qui était censée le remplacer. Toute information se prête à la copie, à la propagation, à la réorganisation, à la représentation selon de multiples perspectives. Plus aucune raison technique ne l’attache à une forme graphique particulière quelle qu’en soit la volonté de l’auteur.
 
 Qui sinon Mallarmé pensa fond et forme comme un tout indissociable avec son poème [*Un coup de dés jamais n'abolira le hasard*](http://www.direz.org/site/uploads/Mallarme/Coupde.pdf). Et pourtant. Une simple recherche me montre que ce texte a été transformé par ses éditeurs successifs, traduit, recomposé. Je ne suis pas chez moi en ce moment, je n’ai pas consulté mon édition depuis longtemps, mais je suis sûr qu’elle ne respecte pas [le format travaillé par Mallarmé](http://chroniques.bnf.fr/archives/fevrier2007/numero_courant/collections/acquisitions.htm).
 

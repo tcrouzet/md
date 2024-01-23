@@ -18,7 +18,7 @@
 
 ### Mardi 9, Balaruc
 
-Tension, tripes nouées, pas la moindre envie de manger. Alors je pédale avec les copains dans la lumière. Je m’oublie en remettant à jour mon appli de Géolecture, car un projet en vue, si rémunéré comme je l’ai demandé. Mais quel enfer, tout à reprendre, tout à changer. Le code a sur moi une vertu obsédante à nulle autre pareille. Je m’attarde à ne pas regarder l’avenir.<span id="more-54391"></span>
+Tension, tripes nouées, pas la moindre envie de manger. Alors je pédale avec les copains dans la lumière. Je m’oublie en remettant à jour mon appli de Géolecture, car un projet en vue, si rémunéré comme je l’ai demandé. Mais quel enfer, tout à reprendre, tout à changer. Le code a sur moi une vertu obsédante à nulle autre pareille. Je m’attarde à ne pas regarder l’avenir.
 
 ---
 

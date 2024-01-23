@@ -1,6 +1,6 @@
 # Regarder son style à travers les statistiques
 
-On me dit souvent que je juxtapose les phrases. Que je les fais se heurter. Que mon style manque de liant. Il est vrai que je déteste toutes les coordinations, pour leur sonorité comme leur main disgracieuse tendue au lecteur.<span id="more-35125"></span>
+On me dit souvent que je juxtapose les phrases. Que je les fais se heurter. Que mon style manque de liant. Il est vrai que je déteste toutes les coordinations, pour leur sonorité comme leur main disgracieuse tendue au lecteur.
 
 Sans être aussi extrémiste que Léautaud qui s’interdisait le « mais », je me rationne, par goût de la vitesse, des brusques dérapages et changements de direction. Mon penchant Rock apprécie les répétitions. Elles éclairent le sens, donnent du pulse. Je me bats toujours avec les correcteurs à ce sujet.
 

@@ -1,6 +1,6 @@
 # Beziehungswahn : la folie de tout lier
 
-En lisant le biographe Nicholas Shakespeare, je découvre que Bruce Chatwin a été accusé de souffrir de beziehungswahn, c’est-à-dire de la propension quasi délirante d’établir à tout-prix des connexions (maladie qu’il a indirectement conféré aux Aborigènes dans *Le chant des pistes*).<span id="more-12599"></span>
+En lisant le biographe Nicholas Shakespeare, je découvre que Bruce Chatwin a été accusé de souffrir de beziehungswahn, c’est-à-dire de la propension quasi délirante d’établir à tout-prix des connexions (maladie qu’il a indirectement conféré aux Aborigènes dans *Le chant des pistes*).
 
 J’aime bien cette maladie. Je dois en être victime. J’ai rempli des dizaines de carnets de notes où je ne fais qu’établir des connexions entre la littérature, la musique, les arts plastiques, la science, la technologie… Chaque fois que je réussis, mon cerveau m’injecte une dose de brève euphorie. J’ai rarement l’occasion de me sentir plus vivant.
 

@@ -1,6 +1,6 @@
 # Qui était Elaine Herzberg ?
 
-[Cinq jours après la mort d’Elaine](# "https://tcrouzet.com/2018/03/22/pour-la-premiere-fois-un-robot-tue-un-humain/") peu de choses filtrent. Sa [fiche Wikipédia](https://en.wikipedia.org/wiki/Elaine_Herzberg) s’épaissit sans qu’elle n’en dise beaucoup plus que ce que les médias ont initialement laissé filtrer, sinon qu’Elaine a passé son bac au lycée d’Apache Junction en 1985.<span id="more-46353"></span>
+[Cinq jours après la mort d’Elaine](# "https://tcrouzet.com/2018/03/22/pour-la-premiere-fois-un-robot-tue-un-humain/") peu de choses filtrent. Sa [fiche Wikipédia](https://en.wikipedia.org/wiki/Elaine_Herzberg) s’épaissit sans qu’elle n’en dise beaucoup plus que ce que les médias ont initialement laissé filtrer, sinon qu’Elaine a passé son bac au lycée d’Apache Junction en 1985.
 
 Apache Junction chevauche les comtés de Pinal et de Maricopa, au cœur du désert de Sonora, dans l'agglomération de Phoenix en Arizona. Le lycée se trouve à 44 km de l’endroit où le robot a fauché Elaine.
 

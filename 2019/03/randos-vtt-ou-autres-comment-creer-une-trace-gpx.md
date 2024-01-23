@@ -25,8 +25,7 @@ Sur Strava, je peux suivre les sorties des copains et discuter avec eux, je peux
 ![Mes traces autour de Balaruc](https://tcrouzet.com/images_tc/2018/05/trace-google-600x320.jpg)
 
 J’ai pris l’habitude d’archiver ces traces sur Google Map, qui offre la possibilité de créer ses propres cartes (depuis le menu Adresses, onglet Cartes). Quand on ouvre un nouveau calque, on peut y importer des fichiers GPX ou KML (format comparable créé par Google). Dans les calques, avec l’outil Tracer de ligne, je commence alors par créer mes propres parcours, en passant parfois par mes traces, souvent par celles des autres, ainsi je découvre de nouveaux chemins, ose des itinéraires plus longs, qui sans l’aide d’un GPS pourraient m’entraîner dans de grosses galères (ce dont ne me protègent pas les GPS, surtout quand j’improvise des traces avec la seule aide des images satellites).
-
-**Astuce** : Google Map ne permet pas d’éditer les traces qui comportent plus de 2 000 points, ce qui est presque toujours le cas quand on enregistre un tracé avec un GPS. Avant l’import d’une trace à éditer, je la réduis à 500 points avec [GPSvisualizer](http://www.gpsvisualizer.com/convert_input#show_advanced&highlight=trk_simplify), ce qui en général suffit pour rester fidèle au tracé original.
+ : Google Map ne permet pas d’éditer les traces qui comportent plus de 2 000 points, ce qui est presque toujours le cas quand on enregistre un tracé avec un GPS. Avant l’import d’une trace à éditer, je la réduis à 500 points avec [GPSvisualizer](http://www.gpsvisualizer.com/convert_input#show_advanced&highlight=trk_simplify), ce qui en général suffit pour rester fidèle au tracé original.
 
 Google Map est loin d’être parfait. On ne peut pas découper des traces ou les joindre. L’effacement des points est laborieux. Impossible de connaître la distance entre deux points, tout comme le dénivelé qui les sépare. Il faut donc recourir à d’autres outils.
 
@@ -53,16 +52,13 @@ Pour analyser une trace, j’ai appris à me méfier de baseCamp. S’il me four
 ![Carte enrichie sur Google Map](https://tcrouzet.com/images_tc/2018/05/vistagoogle-600x308.jpg)
 
 Pour ma part, je fais plus ou moins la même chose avec Google Map. J’ajoute des icônes pour signaler les restaurants, les campings, les points d’eau, les points de vue… Je peux même construire des scénarios en indiquant les endroits où je pense dormir, puis je finis par rendre publiques mes cartes.
-
-**Astuce** [Komoot](https://www.komoot.com/) est un superbe outil d'analyse de traces, sans doute le plus performant, c'est aussi un très bel outil de tracer, le mieux dessiné, avec possibilité de basculer entre cartes et images satellite. Malheureusement, on ne peut pas y superposer des traces, ce qui nous condamne à suivre les chemins cartographiés (symptôme de cette faiblesse, on ne peut y importer les fichiers KMZ de Google). Je ne l'utilise qu'en phase de finalisation d'un parcours.
+ [Komoot](https://www.komoot.com/) est un superbe outil d'analyse de traces, sans doute le plus performant, c'est aussi un très bel outil de tracer, le mieux dessiné, avec possibilité de basculer entre cartes et images satellite. Malheureusement, on ne peut pas y superposer des traces, ce qui nous condamne à suivre les chemins cartographiés (symptôme de cette faiblesse, on ne peut y importer les fichiers KMZ de Google). Je ne l'utilise qu'en phase de finalisation d'un parcours.
 
 ![Komoot Génial pour les stats](https://tcrouzet.com/images_tc/2019/03/Moutain420-717x1200.jpg)
-
-**Astuce** Quand on télécharge baseCamp, aucune carte ne l’accompagne. Si on possède un GPS Garmin connecté à l’ordinateur, baseCamp affichera les cartes disponibles sur le GPS. On peut tromper baseCamp en créant un faux GPS Garmin à l’aide d’une clé USB. Sur cette clé, il suffit de créer un dossier Garmin et d’y stocker les cartes compatibles Garmin. On en trouve un peu partout sur le Net, notamment la [France](http://freizeitkarte-osm.de/garmin/en/france.html), mais aussi [les secteurs de toutes les régions du monde](http://garmin.openstreetmap.nl/).
+ Quand on télécharge baseCamp, aucune carte ne l’accompagne. Si on possède un GPS Garmin connecté à l’ordinateur, baseCamp affichera les cartes disponibles sur le GPS. On peut tromper baseCamp en créant un faux GPS Garmin à l’aide d’une clé USB. Sur cette clé, il suffit de créer un dossier Garmin et d’y stocker les cartes compatibles Garmin. On en trouve un peu partout sur le Net, notamment la [France](http://freizeitkarte-osm.de/garmin/en/france.html), mais aussi [les secteurs de toutes les régions du monde](http://garmin.openstreetmap.nl/).
 
 ![Un Garmin sur USB](https://tcrouzet.com/images_tc/2018/05/garminusb-254x450.png)
-
-**Astuce** Pour préparer de longs trajets VTT, par exemple une traversée de la France du Sud pour l’été 2019, je charge dans Google Map les traces qui couvrent les régions que j’aimerais traverser, puis je commence à les interconnecter.
+ Pour préparer de longs trajets VTT, par exemple une traversée de la France du Sud pour l’été 2019, je charge dans Google Map les traces qui couvrent les régions que j’aimerais traverser, puis je commence à les interconnecter.
 
 ![Work in progress](https://tcrouzet.com/images_tc/2018/05/wip-600x288.jpg)
 
@@ -81,12 +77,9 @@ J’ai testé de nombreuses applications avant de jeter mon dévolu sur [MapOut]
 ![MapOut](https://tcrouzet.com/images_tc/2018/05/mapout-253x450.png)
 
 En solution de secours, quand je suis en France, je télécharge les cartes IGN sur l’application TwoNav. Parfois, elles sont plus précises que les OpenStreetMap, mais pas toujours (j’avoue en avoir rarement l’usage).
-
-**Astuce** Pour ceux qui ne veulent pas utiliser baseCamp et possède un GPS Garmin, il est possible de [convertir les fichiers GPX en fichiers FIT](http://www.gpsies.com/convert.do;?language=fr), le format équivalent utilisé par Garmin. Il faut alors copier ces fichiers FIT dans le dossier NexFiles du GPS (quand celui-ci est connecté à un ordinateur). D’après mes tests, Land me semble fonctionner avec la plupart des GPS quelle que soit leur marque.
-
-**Astuce** Retrouver sur mon GPS les points d'intérêt créés sur Google Map n'est pas inuitif. En théorie, je dois exporter ma carte, ou seulement un de ses calques, au format KMZ, puis l'importer dans BaseCamp pour envoyer l'ensemble sur mon GPS, mais pour des traces complexes cette méthode plante mon Garmin 820. Le plus simple est alors de [convertir directement le fichier KMZ en fichier FIT](http://www.gpsies.com/convert.do), puis de déposer ce fichier dans le dossier NewFiles du GPS.
-
-**Astuce** Pour augmenter l'autonomie de mon GPS, je désactive toutes les options inutiles quand je roule, tel le bluetooth, le guidage, le recalcul d'itinéraire. Je réduis au maximum la luminosité de l'écran. Si possible, je bascule en mode économie d'énergie (mon écran s'éteint après une minute). Je ne quitte ce mode que quand il me faut sans cesse changer de route.
+ Pour ceux qui ne veulent pas utiliser baseCamp et possède un GPS Garmin, il est possible de [convertir les fichiers GPX en fichiers FIT](http://www.gpsies.com/convert.do;?language=fr), le format équivalent utilisé par Garmin. Il faut alors copier ces fichiers FIT dans le dossier NexFiles du GPS (quand celui-ci est connecté à un ordinateur). D’après mes tests, Land me semble fonctionner avec la plupart des GPS quelle que soit leur marque.
+ Retrouver sur mon GPS les points d'intérêt créés sur Google Map n'est pas inuitif. En théorie, je dois exporter ma carte, ou seulement un de ses calques, au format KMZ, puis l'importer dans BaseCamp pour envoyer l'ensemble sur mon GPS, mais pour des traces complexes cette méthode plante mon Garmin 820. Le plus simple est alors de [convertir directement le fichier KMZ en fichier FIT](http://www.gpsies.com/convert.do), puis de déposer ce fichier dans le dossier NewFiles du GPS.
+ Pour augmenter l'autonomie de mon GPS, je désactive toutes les options inutiles quand je roule, tel le bluetooth, le guidage, le recalcul d'itinéraire. Je réduis au maximum la luminosité de l'écran. Si possible, je bascule en mode économie d'énergie (mon écran s'éteint après une minute). Je ne quitte ce mode que quand il me faut sans cesse changer de route.
 
 ### Pour résumer
 
@@ -101,8 +94,7 @@ En solution de secours, quand je suis en France, je télécharge les cartes IGN 
 5. J’importe une dernière fois cette trace dans baseCamp pour l’envoyer à mon GPS.
 
 6. À la fin de la sortie, je synchronise mon GPS avec Strava, d’où je télécharge la trace GPX que j'archive sur Google Map. Mes amis peuvent la récupérer puisque je partage [mon Google Map](https://drive.google.com/open?id=1zLrhYUnGmemQb1TIkI6zRwrjTdkwz3KZ&usp=sharing).
-
-**Paradoxe** La technologie peut nous aider à nous réapproprier le territoire, à sortir des sentiers battus, à mieux connaître notre pays. Je ne cesse de m’émerveiller des paysages que nous découvrons quand nous roulons, alors que parfois nous sommes à moins de trente kilomètres de chez nous.
+ La technologie peut nous aider à nous réapproprier le territoire, à sortir des sentiers battus, à mieux connaître notre pays. Je ne cesse de m’émerveiller des paysages que nous découvrons quand nous roulons, alors que parfois nous sommes à moins de trente kilomètres de chez nous.
 
 *PS : J'ai publié ce billet en mai 2018, bien avant de commencer ma série [Born to Bike](https://tcrouzet.com/borntobike/). Je le mets à jour au fur et à mesure de mes découvertes.*
 

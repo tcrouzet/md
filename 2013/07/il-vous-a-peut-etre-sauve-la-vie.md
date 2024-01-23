@@ -1,6 +1,6 @@
 # Il vous a peut-être sauvé la vie
 
-[Offre légale et partage non-marchand doivent coexister](http://scinfolex.wordpress.com/2013/07/18/offre-legale-et-partage-non-marchand-doivent-coexister/) ou [Reconnaître le Domaine Public Volontaire](http://scinfolex.wordpress.com/2013/07/17/reconnaitre-le-domaine-public-volontaire-sans-fragiliser-lauteur-dans-les-contrats-dedition-reponse-a-la-sgdl/), ces deux billets de Calimaq m’incitent à préciser ma volonté de distribuer sous licence Créative Commons BY-SA mon prochain livre : [*L’homme qui lave les mains*](http://blog.tcrouzet.com/tag/lhomme-qui-lave-les-mains/).<span id="more-33239"></span>
+[Offre légale et partage non-marchand doivent coexister](http://scinfolex.wordpress.com/2013/07/18/offre-legale-et-partage-non-marchand-doivent-coexister/) ou [Reconnaître le Domaine Public Volontaire](http://scinfolex.wordpress.com/2013/07/17/reconnaitre-le-domaine-public-volontaire-sans-fragiliser-lauteur-dans-les-contrats-dedition-reponse-a-la-sgdl/), ces deux billets de Calimaq m’incitent à préciser ma volonté de distribuer sous licence Créative Commons BY-SA mon prochain livre : [*L’homme qui lave les mains*](http://blog.tcrouzet.com/tag/lhomme-qui-lave-les-mains/).
 
 ### Brouillon de quatrième de couverture
 

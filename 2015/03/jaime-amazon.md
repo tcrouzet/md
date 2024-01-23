@@ -1,6 +1,6 @@
 # J’aime Amazon quand le Kindle est à 39 €
 
-Un petit coup de nerf ne fait pas de mal. J’en ai marre d’entendre pis que pendre sur Amazon, surtout quand les gens disent n’importe quoi.<span id="more-39963"></span>
+Un petit coup de nerf ne fait pas de mal. J’en ai marre d’entendre pis que pendre sur Amazon, surtout quand les gens disent n’importe quoi.
 
 OK, c’est un monstre capitaliste esclavagiste destructeur du petit business et tout ce que vous voudrez. Mais vous possédez peut-être une voiture ? Vous mettez quoi dans le réservoir ? Croyez-vous que c’est plus propre qu’un livre que vous achetez sur Amazon ?
 

@@ -2,7 +2,7 @@
 
 Vous êtes en train de nous mentir encore une fois. Vous recommencez. Vous ne pouvez pas vous en empêcher. Longtemps vous nous avez assenés avec arrogance que le capitalisme et le libéralisme économique impliquaient la fin de l’histoire, c’est-à-dire la mise en œuvre du meilleur des systèmes possibles. Nous aurions atteint un idéal indépassable. Et puis patatras.
 
-Ça commence en 2007 aux États-Unis avec la crise des subprimes, ça se propage au monde en 2008, ça se complique en 2009 et ça se poursuit. Vous n’avez rien vu venir, vous n’avez rien prévu mais vous continuez à nous donner des leçons. Le FMI (Fond Monétaire International), dont l’un des buts est de garantir la stabilité financière, qui n’a rien garantit du tout, joue encore celui qui maîtrise la situation.<span id="more-6102"></span>
+Ça commence en 2007 aux États-Unis avec la crise des subprimes, ça se propage au monde en 2008, ça se complique en 2009 et ça se poursuit. Vous n’avez rien vu venir, vous n’avez rien prévu mais vous continuez à nous donner des leçons. Le FMI (Fond Monétaire International), dont l’un des buts est de garantir la stabilité financière, qui n’a rien garantit du tout, joue encore celui qui maîtrise la situation.
 
 \— Nous ne recommandons pas le contrôle \[des banques\] par l’État, mais il peut y avoir des circonstances où c’est effectivement la manière la plus efficace de stabiliser des institutions, affirme Jan Brockmeijer, directeur adjoint de la division des marchés financiers du FMI .
 

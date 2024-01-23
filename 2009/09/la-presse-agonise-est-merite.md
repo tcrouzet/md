@@ -1,6 +1,6 @@
 # La presse agonise : c’est mérité
 
-Conseillé par @[otacheau](http://twitter.com/otacheau), je viens de découvrir *Le livre dans le tourbillon numérique*, article du *Monde diplomatique* de septembre. Autant vous dire que cette lecture me fait comprendre pourquoi la presse agonise. C’est plat, pénible, sans perspective et presque mièvre tant les idées reçues s’enchaînent. Si on lisait que des insanités pareilles sur le Net, qu’est-ce qu’on s’emmerderait.<span id="more-9440"></span>
+Conseillé par @[otacheau](http://twitter.com/otacheau), je viens de découvrir *Le livre dans le tourbillon numérique*, article du *Monde diplomatique* de septembre. Autant vous dire que cette lecture me fait comprendre pourquoi la presse agonise. C’est plat, pénible, sans perspective et presque mièvre tant les idées reçues s’enchaînent. Si on lisait que des insanités pareilles sur le Net, qu’est-ce qu’on s’emmerderait.
 
 > Où mène le gigantesque fleuve de culture rendue « liquide » par le passage au virtuel ? Qui le contrôlera ?
 

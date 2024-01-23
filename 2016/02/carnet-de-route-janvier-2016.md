@@ -92,6 +92,8 @@ Je profite d’un passage en Arles chez ma belle famille pour aller courir dans 
 
 ![Faux temple romain au bord de l'autoroute.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/IMG_4231.jpg)
 
+Faux temple romain au bord de l'autoroute.
+
 ### Lundi 18, Paris
 
 Dans le TGV mon voisin ne se lève même pas quand je dois m’asseoir à côté de lui. Il garde les yeux fermés tout en squattant l’accoudoir, son coude ayant tendance à entrer dans mes côtes. Je le repousse doucement. Il revient avec plus d’insistance. Je finis par perdre patience. Il me répond en anglais que nous sommes des êtres humains et que le respect s’impose. Je lui explique que l’accoudoir est en partage. Il approuve, referme les yeux, mes fourre à nouveau son coude entre les côtes. Plus jeune, je lui aurais mis un pain. Je suis trop human being désormais.
@@ -105,6 +107,8 @@ Une éditrice me demande quand l’histoire de *One Minute* commence ? Réponse
 Je retrouve J qui me présente le patron de la revue B. Casanova écrit des pages sur ces moments. De les publier à brève échéance m’interdit de parler des gens, à moins de vouloir trahir des secrets et me faire des ennemis. Le journal blogué ne peut jamais devenir intime (ou alors il devient romanesque ou exhibitionniste). Se pose alors la fonction même de toutes ces notes puisqu’elles seront insuffisantes pour réveiller la mémoire. Il ne subsiste en elles que leur potentiel littéraire. Une sorte de saisie superficielle de la vie d’aujourd’hui.
 
 ![Dans une vitrine.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/trans.jpg)
+
+Dans une vitrine.
 
 ---
 
@@ -148,6 +152,8 @@ Bête image que me donne le Web social. Un tel défend une juste cause, provoque
 
 ![Attaque de grippe.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/IMG_4254.jpg)
 
+Attaque de grippe.
+
 ### Vendredi 22, Balaruc
 
 Aujourd’hui, l’état d’urgence est prolongé en France, sans raison, il devient la norme, sans que personne ne proteste ou presque. Banalisation des régimes autoritaires. Dans quelques années, j’aimerais me dire que j’étais inquiêt pour rien. Parce que tout le problème dans les mesures autoritaires c’est qu’au début elles ne concernent personne. Donc personne ne s’y oppose, puis il est trop tard.
@@ -161,6 +167,8 @@ J’attaque *Résistants*, un roman de commande. Pour le moment, je tâtonne, au
 *Résistants* s’adressera en priorité aux jeunes. Un roman pour jeunes met en général en scène des jeunes. J’ai feuilleté les best-sellers young adults de ces dernières années. Au moins 80 % sont écrits à la première personne, avec point de vue unique, ce qui facilite l’identification du lecteur, évite l’effort de changer sans cesse de perspective (comme nous l’impose Stephen King dans *Fléau*, sa version polyphonique du roman épidémiologique). Le « je » des romans populaires est assez particulier, c’est une troisième personne qui se cache à la première. Le « je » du narrateur n’hésite pas à dire son nom, à déballer son CV. Pas question de s’embêter avec la vraisemblance. Sorte d’affirmation du romanesque. « Je vous raconte une histoire, n’allez pas croire que je suis écrivain. » J’aime cette approche.
 
 ![Le rayon vert.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/IMG_4281.jpg)
+
+Le rayon vert.
 
 
 

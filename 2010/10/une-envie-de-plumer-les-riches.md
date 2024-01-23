@@ -1,6 +1,6 @@
 # Une envie de plumer les riches ?
 
-Vous avez aimé la saga de l'été Bettencourt-Barnier ? Vous avez rêvé devant Dallas ? Vous êtes prêt pour la retraite à 75 ans ? Alors vous allez adorer faire la chasse aux riches en lisant [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/), le dernier opus numérique de Thierry Crouzet. Dixit [Jean-François Gaillard](http://www.facebook.com/numeriklivres) sur Facebook pour annoncer la sortie du texte (maintenant disponible en papier et en ebook). Il ne vous reste plus qu’à le télécharger gratuitement ou, mieux, à l’acheter.<span id="more-19790"></span>
+Vous avez aimé la saga de l'été Bettencourt-Barnier ? Vous avez rêvé devant Dallas ? Vous êtes prêt pour la retraite à 75 ans ? Alors vous allez adorer faire la chasse aux riches en lisant [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/), le dernier opus numérique de Thierry Crouzet. Dixit [Jean-François Gaillard](http://www.facebook.com/numeriklivres) sur Facebook pour annoncer la sortie du texte (maintenant disponible en papier et en ebook). Il ne vous reste plus qu’à le télécharger gratuitement ou, mieux, à l’acheter.
 
 Suivant le principe du [prix d'auteur unique](http://blog.tcrouzet.com/2010/10/14/veritables-prix-edition/), si vous achetez le texte, quel que soit le canal de distribution, quel que soit le format, électronique ou papier, [l'équipe éditoriale](http://blog.tcrouzet.com/tune-caniveau/#expi) recevra 1,50 € HT.
 

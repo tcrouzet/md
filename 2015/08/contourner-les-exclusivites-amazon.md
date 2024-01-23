@@ -1,6 +1,6 @@
 # Contourner les exclusivités Amazon
 
-Je n’ai pas plutôt diffusé [le tome 1 de *1 minute*](http://www.amazon.fr/gp/product/B01402PJGI) en exclusivité sur le programme KDP Select d’Amazon qu’on m’a demandé comment lire cet ebook autrement qu’avec un Kindle.<span id="more-42287"></span>
+Je n’ai pas plutôt diffusé [le tome 1 de *1 minute*](http://www.amazon.fr/gp/product/B01402PJGI) en exclusivité sur le programme KDP Select d’Amazon qu’on m’a demandé comment lire cet ebook autrement qu’avec un Kindle.
 
 Vous pouvez bien sûr lire gratuitement [la version en chantier sur Wattpad](http://www.wattpad.com/story/29694130-1-minute), mais si vous voulez plus de confort, il vous reste une possibilité qui d’une manière générale à beaucoup d’avantages.
 

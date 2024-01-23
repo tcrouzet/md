@@ -1,6 +1,6 @@
 # Les douces confidences d’Olivier Martinelli
 
-Quand j’ai publié [*J’ai débranché*](http://tcrouzet.com/jai-debranche/), un ami m’a dit qu’il avait préféré les passages où j’évoquais mon père et ma famille. Quand je publie tous les mois mon [*Carnet de route*](http://tcrouzet.com/tag/carnet-de-route/?serial=1), des lecteurs me disent qu’ils aiment quand je parle de mon vécu. Je crois qu’en tant qu’auteur nous ne pouvons être vrai que quand nous nous racontons, que ce soit dans le témoignage ou la fiction. C’est particulièrement vrai pour Olivier Martinelli qui partage son cancer avec nous dans [*L’Homme de miel*](https://www.amazon.fr/LHomme-Miel-Martinelli-Olivier/dp/2366261225/).<span id="more-45701"></span>
+Quand j’ai publié [*J’ai débranché*](http://tcrouzet.com/jai-debranche/), un ami m’a dit qu’il avait préféré les passages où j’évoquais mon père et ma famille. Quand je publie tous les mois mon [*Carnet de route*](http://tcrouzet.com/tag/carnet-de-route/?serial=1), des lecteurs me disent qu’ils aiment quand je parle de mon vécu. Je crois qu’en tant qu’auteur nous ne pouvons être vrai que quand nous nous racontons, que ce soit dans le témoignage ou la fiction. C’est particulièrement vrai pour Olivier Martinelli qui partage son cancer avec nous dans [*L’Homme de miel*](https://www.amazon.fr/LHomme-Miel-Martinelli-Olivier/dp/2366261225/).
 
 > Mon cancer s’écrit myélome et je ne peux m’empêcher de penser « miel-homme ». Il me paraît plus doux, du coup, moins agressif. Grâce à lui, je me sens comme un héros Marvel. Je suis l’Homme de miel.
 

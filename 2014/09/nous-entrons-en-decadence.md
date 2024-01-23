@@ -1,6 +1,6 @@
 # 16 raisons pour lesquelles nous entrons en décadence
 
-Au cours de sa longue vie, [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/) a connu l’âge d’or d’Alexandrie et sa chute. Quand on le suit, on comprend comment une civilisation prospère puis s’effondre. C’est une histoire en modèle réduit, une sorte de compression édifiante, une accélération de ce qui nous attend peut-être, avec des analogies terrifiantes.<span id="more-37126"></span>
+Au cours de sa longue vie, [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/) a connu l’âge d’or d’Alexandrie et sa chute. Quand on le suit, on comprend comment une civilisation prospère puis s’effondre. C’est une histoire en modèle réduit, une sorte de compression édifiante, une accélération de ce qui nous attend peut-être, avec des analogies terrifiantes.
 
 1. Succès monumental du livre d’une ex-première dame, au comble du voyeurisme, d’une plongée atone dans l’existence d’êtres sans intérêt, et qui pourraient être chacun de nous. Passion morbide pour les détails sans originalité.
 

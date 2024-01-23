@@ -4,15 +4,9 @@ Born after 1960, the [connectors](http://blog.tcrouzet.com/connecteurs/qcm.php) 
 
 Thierry Crouzet is a [connector](http://blog.tcrouzet.com/connecteurs/connecteur.php). One of the first French Internet specialist, he is the author of about thirty reference books on web usage. In his new book, a documentary and an essay full to the brim of scientists portraits, simple explanations for recent scientific and technological discoveries, and of philosophical considerations, he describes an historical phenomenon which we are all experiencing without always internalizing it: the emergence of a new way to organize the world.
 
-**Strengths**
-
 New and radical thinking. A turning point in discussions of political impact of recent scientific discoveries.
 
-**Audience**
-
 Anyone interested in new technologies and most specifically [connectors](http://blog.tcrouzet.com/connecteurs/connecteur.php) across the world.
-
-**Description**
 
 Editor : [Bourin Éditeur](http://www.bourin-editeur.com/)
 
@@ -30,52 +24,26 @@ ISBN: 2-84941-038-1
 
 Price: € 20
 
-**Table of contents**
-
-**Do not obey**
-
 prelude: are you a connector?
-
-**Do not vote**
 
 chapter 1: the decentralised democracy
 
-**Do not legislate**
-
 chapter 2: less rules implies more freedom
-
-**Do not study**
 
 chapter 3: the difference duty
 
-**Do not promise**
-
 chapter 4: the governments powerlessness
-
-**Do not demonstrate**
 
 chapter 5: act local, think global
 
-**Do not complicate**
-
 chapter 6: the universe in three lines of code
-
-**Do not work**
 
 chapter 7: life is a game
 
-**Do not rationalise**
-
 chapter 8: follow your intuition
-
-**Do not believe**
 
 chapter 9: random as god
 
-**Do not die**
-
 chapter 10: toward transhumanism
-
-**Do not provoke**
 
 epilogue: between order and chaos

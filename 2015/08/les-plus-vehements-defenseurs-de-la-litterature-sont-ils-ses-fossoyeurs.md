@@ -1,6 +1,6 @@
 # Les plus véhéments défenseurs de la littérature sont-ils ses fossoyeurs ?
 
-[Grâce à Philippe Castelneau](https://twitter.com/castelneau/status/631094962172624896), je lis un [superbe interview de Sylvie Martigny et Jean-Hubert Gailliot](http://www.vice.com/fr/read/fin-de-la-lecture-en-france-203), les créateurs de la maison d’édition [Tristram](https://fr.wikipedia.org/wiki/Tristram). Je me sens tout de suite bien avec eux. Je me dis que j’aimerais travailler avec eux. Ils ont une idée réaliste et en même temps exigeante de la littérature. Ça me plaît.<span id="more-42248"></span>
+[Grâce à Philippe Castelneau](https://twitter.com/castelneau/status/631094962172624896), je lis un [superbe interview de Sylvie Martigny et Jean-Hubert Gailliot](http://www.vice.com/fr/read/fin-de-la-lecture-en-france-203), les créateurs de la maison d’édition [Tristram](https://fr.wikipedia.org/wiki/Tristram). Je me sens tout de suite bien avec eux. Je me dis que j’aimerais travailler avec eux. Ils ont une idée réaliste et en même temps exigeante de la littérature. Ça me plaît.
 
 Alors je veux les féliciter, leur dire merci… Il m’arrive d’être bienveillant, de me laisser aller à un peu d’enthousiasme. Je cherche leur site, je ne le trouve pas, [sinon un vague catalogue hébergé je ne sais où](http://www.lekti-ecriture.com/editeurs/-Tristram,79-.html). J’ai soudain comme un doute. De quelle littérature parlent-ils ?
 

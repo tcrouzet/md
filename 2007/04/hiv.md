@@ -1,6 +1,6 @@
 # HIV
 
-J’ai écrit ce roman en 2003 pour me détendre de mon [Ératosthène](http://blog.tcrouzet.com/2007/03/31/eratosthene-de-cyrene/). Je ne l’ai pas publié. Je me suis amusé à [le mettre sur lulu.com](http://www.lulu.com/content/733151) pour tester le service d’impression.<span id="more-416"></span>
+J’ai écrit ce roman en 2003 pour me détendre de mon [Ératosthène](http://blog.tcrouzet.com/2007/03/31/eratosthene-de-cyrene/). Je ne l’ai pas publié. Je me suis amusé à [le mettre sur lulu.com](http://www.lulu.com/content/733151) pour tester le service d’impression.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200704lulu.jpg) 
 

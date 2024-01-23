@@ -1,6 +1,6 @@
 # Nous nous interdisons de lire
 
-L’année dernière, [Jean-Marc Pasquet](http://www.amazon.fr/Jean-Marc-Pasquet/e/B004MK4FFU/ref=ntt_athr_dp_pel_1) me dit que [*Gouverneurs de la Rosée*](http://fr.wikipedia.org/wiki/Gouverneurs_de_la_ros%C3%A9e) de l’écrivain haïtien [Jacques Roumain](http://fr.wikipedia.org/wiki/Jacques_Roumain) est un récit aussi limpide que [*L’homme qui plantait des arbres*](http://blog.tcrouzet.com/2010/07/28/le-petit-livre-de-la-revolution/) de Giono.<span id="more-32684"></span>
+L’année dernière, [Jean-Marc Pasquet](http://www.amazon.fr/Jean-Marc-Pasquet/e/B004MK4FFU/ref=ntt_athr_dp_pel_1) me dit que [*Gouverneurs de la Rosée*](http://fr.wikipedia.org/wiki/Gouverneurs_de_la_ros%C3%A9e) de l’écrivain haïtien [Jacques Roumain](http://fr.wikipedia.org/wiki/Jacques_Roumain) est un récit aussi limpide que [*L’homme qui plantait des arbres*](http://blog.tcrouzet.com/2010/07/28/le-petit-livre-de-la-revolution/) de Giono.
 
 De retour chez moi, je me précipite pour acheter ce livre et l’envoyer sur ma liseuse. Introuvable en epub ou en mobi. Sur le Net, je lis partout qu’il s’agit d’un chef-d’œuvre et ce chef-d’œuvre n’est pas disponible, sinon dans quelques éditions papier plutôt onéreuses, pour un texte qui en toute probabilité est désormais dans le domaine public. Roumain est mort en 1944 et [en Haïti les droits s’étendent 50 ans après la mort de l’auteur](http://en.m.wikipedia.org/wiki/List_of_countries'_copyright_lengths) ([merci @calimaq pour la précision](http://scinfolex.wordpress.com/)).
 

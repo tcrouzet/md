@@ -1,6 +1,6 @@
 # Croisade
 
-Comme je l'ai déjà [expliqué](http://blog.tcrouzet.com/peuple/roman-connecteurs-35743), j'écris en ce moment un roman, *Croisade*, suite du *Peuple des connecteurs*. Après m'être amusé à une [présentation pastiche](http://blog.tcrouzet.com/peuple/veille-grand-bouleversement-35749), voici le texte par lequel je pourrais commencer mon histoire :<span id="more-38"></span>
+Comme je l'ai déjà [expliqué](http://blog.tcrouzet.com/peuple/roman-connecteurs-35743), j'écris en ce moment un roman, *Croisade*, suite du *Peuple des connecteurs*. Après m'être amusé à une [présentation pastiche](http://blog.tcrouzet.com/peuple/veille-grand-bouleversement-35749), voici le texte par lequel je pourrais commencer mon histoire :
 
 « Chaque fois que nous dialoguons avec quelqu'un, nous faisons circuler entre lui et nous des informations. Depuis la fin du XX<sup>e</sup> siècle, sous l'impulsion des nouvelles technologies de communication, toutes ces informations qui circulent librement entre chacun de nous constituent un flux d'une ampleur sans précédent qui rappelle le flux des signaux électriques et chimiques dans nos cerveaux. C'est un pas vers l'intelligence globale, vers la conscience collective.
 

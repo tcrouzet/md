@@ -1,6 +1,6 @@
 # Ma liberté commence avec les autres
 
-« Faire ce que je veux, quand je le veux, comme je le veux » pourrait être la définition la plus simple et la meilleure de la liberté. Sans doute trop simple. Que signifie « je veux » ? Suis-je sûr d'avoir voulu telle ou telle chose ? Alors quid du libre arbitre ?<span id="more-33656"></span>
+« Faire ce que je veux, quand je le veux, comme je le veux » pourrait être la définition la plus simple et la meilleure de la liberté. Sans doute trop simple. Que signifie « je veux » ? Suis-je sûr d'avoir voulu telle ou telle chose ? Alors quid du libre arbitre ?
 
 Certains philosophes comme Spinoza en nient tout simplement l'existence, d'autres nous accordent quelques rares occasions de le mettre en action, rares ceux qui osent prétendre que nous sommes toujours maîtres de nos actes. De toutes évidences une multitude de déterminismes nous contraignent. D’où, par exemple, la complexité de juger les criminels.
 

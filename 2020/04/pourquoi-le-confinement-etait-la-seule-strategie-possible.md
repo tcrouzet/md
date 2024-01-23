@@ -1,6 +1,6 @@
 # Pourquoi le confinement était la seule stratégie possible
 
-Je n’en reviens pas, je me retrouve [à défendre le gouvernement au sujet du confinement](https://tcrouzet.com/2020/04/03/le-confinement-nous-a-sauve-la-peau/), ce qui me fait me questionner sur la réalité de mon anarchisme congénital. Je vois tant de gens refaire l’histoire de la pandémie que j’ai l’impression que nous ne vivons pas dans le même espace-temps, ce qui nous amène à juger la situation de manière radicalement opposée.<span id="more-53834"></span>
+Je n’en reviens pas, je me retrouve [à défendre le gouvernement au sujet du confinement](https://tcrouzet.com/2020/04/03/le-confinement-nous-a-sauve-la-peau/), ce qui me fait me questionner sur la réalité de mon anarchisme congénital. Je vois tant de gens refaire l’histoire de la pandémie que j’ai l’impression que nous ne vivons pas dans le même espace-temps, ce qui nous amène à juger la situation de manière radicalement opposée.
 
 Qu'est-ce que nous pouvions faire dans l'état où la pandémie a trouvé notre système se santé ? On peut répondre à cette question par une approche historique. Mais attention, c’est une des propriétés de l’histoire d’être relative à son narrateur, sa culture, ses sources d’information. Toute histoire est biaisée, celle que je m’apprête à raconter aussi.
 

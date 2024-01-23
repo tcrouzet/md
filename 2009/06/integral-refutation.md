@@ -2,7 +2,7 @@
 
 La philosophie intégrale, fondée par Ken Wilber, m’attire et me repousse en même temps. [Depuis que je l’étudie](http://blog.tcrouzet.com/2008/09/18/premiers-pas-avec-ken-wilber/), je sens qu’elle est inconsistante comme [j’ai déjà tenté de l’expliquer](http://blog.tcrouzet.com/2008/10/02/de-l%E2%80%99idealisme-a-la-complexite/). Le sujet m’est revenu à l’esprit durant [la journée sur l’intelligence collective organisée par TheTransitionner](http://wiki.thetransitioner.org/A_propos_de_TheTransitioner.org/Ev%C3%A9nements_futurs/12_juin_2009_-_Paris_-_Voyage_au_coeur_de_l%27intelligence_collective_globale) et [Jean-François Noubel](http://blog.tcrouzet.com/2008/08/30/les-limites-du-pyramidal/).
 
-Pour Wilber, nous devons nous-mêmes procéder à un développement intégral, c'est-à-dire développer notre esprit aussi bien que notre corps, en ne négligeant aucun des plans de l’existence. Ainsi Jean-François nous a fait travailler le corps, le mental et l’esprit simultanément.<span id="more-7333"></span>
+Pour Wilber, nous devons nous-mêmes procéder à un développement intégral, c'est-à-dire développer notre esprit aussi bien que notre corps, en ne négligeant aucun des plans de l’existence. Ainsi Jean-François nous a fait travailler le corps, le mental et l’esprit simultanément.
 
 Il m’a fait sentir combien je négligeais certains domaines auxquels j’attachais jadis plus d’importance. Il m’arrive trop souvent de me faire avaler par mon PC. Et c’est avec difficulté que je m’en arrache pour aller me promener en garrigue. Et, même quand j’y vais, je suis aujourd’hui incapable d’y traîner pendant des journées entières juste pour chercher le bon endroit où peindre une aquarelle. Je vis une espèce d'impatience perpétuelle.
 

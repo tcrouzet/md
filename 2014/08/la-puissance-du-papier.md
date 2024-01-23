@@ -1,6 +1,6 @@
 # La puissance du papier
 
-Marguerite Yourcenar prolonge *Les mémoires d’Hadrien* par des *Carnets de notes*. Extraits.<span id="more-36584"></span>
+Marguerite Yourcenar prolonge *Les mémoires d’Hadrien* par des *Carnets de notes*. Extraits.
 
 > Ce livre a été conçu, puis écrit, en tout ou en partie, sous diverses formes, entre 1924 et 1929, entre la vingtième et la vingt-cinquième année. Tous ces manuscrits ont été détruits, et méritaient de l’être.
 > 
@@ -35,6 +35,8 @@ Reconstruire le carnet d’Ératosthène, que je vais ajouter en supplément à 
 Par-devers moi, le papier reste puissant pour l’écriture, plus que pour la lecture d’ailleurs, c’est un paradoxe, une frustration, je dois encore chercher, explorer, avoir le droit d’écrire que pour moi, ce qui implique une liberté étrangère à la normalité typographique. J’aimerais partir dans les champs autour de la maison de vacances, esquisser des choses, avec la fluidité du trait, avec aussi l’immédiate possibilité de partage, avec les avantages du nouveau monde et de l’ancien. Peut-être voici mon programme pour la suite des vacances. Comme un rêve d’un autre numérique, étranger à la rigueur de tous les encodages.
 
 ![Passer au-delà, écrire là-bas.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/chat.jpg)
+
+Passer au-delà, écrire là-bas.
 
 
 

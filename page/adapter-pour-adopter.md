@@ -9,10 +9,6 @@ Un éloge du don et de la générosité.
 
 ##### **papier 12.00 €** : [ Amazon](https://www.amazon.fr/dp/B09CRKKKTT).
 
-
-
-
-
 Didier Pittet est le champion de l’hygiène des mains. Avec la pandémie de Covid-19, son slogan « Adapter pour adopter » est reçu au-delà de l’imaginable. En quelques semaines, des fabricants de parfum, des vignerons, des distilleurs, des pharmaciens se mettent à produire des solutions hydroalcooliques pendant que des YouTubers et des humoristes promeuvent leur usage. Hérauts de la stratégie adapter pour adopter, ils font preuve de créativité pour propager l’hygiène des mains.
 
 Mais il subsiste des réticences, des incompréhensions, des idées fausses. À la suite du *Geste qui sauve*, ce livre montre pourquoi l’hygiène des mains est notre arme première contre les épidémies, pourquoi l’alcool est efficace, pourquoi les solutions hydroalcooliques ne sont pas dangereuses, pourquoi leur diffusion comme bien commun de l’humanité pourrait servir de modèle à la santé globale, peut-être même à la société en général.

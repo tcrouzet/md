@@ -1,6 +1,6 @@
 # Gonflette sur Twitter suite et fin
 
-Qu’on puisse avoir un compte Twitter avec des dizaines de milliers de followers artificiels, c’est un secret pour personne. Des spammeurs font la promo des services qui vendent les followers. Tout le monde a été spammé par eux.<span id="more-10518"></span>
+Qu’on puisse avoir un compte Twitter avec des dizaines de milliers de followers artificiels, c’est un secret pour personne. Des spammeurs font la promo des services qui vendent les followers. Tout le monde a été spammé par eux.
 
 Dans le billet où [j’explique comment j’ai moi-même gonflé mon compte](http://blog.tcrouzet.com/2009/09/24/qui-a-la-plus-grosse-quequette-sur-twitter/) et où j’évoque l’idée que @jeanlucr utilise une méthode comparable, j’entendais avant tout dénoncer la naïveté des journalistes qui se laissent berner par des chiffres bruts sans faire d’enquête, répétant ce qu’on leur dit.
 
@@ -13,19 +13,17 @@ Maintenant [Emmanuel Gadenne](http://twitter.com/egadenne/statuses/4412428333) m
 J’ai quelques trucs pour détecter les comptes gonflés (et encore une fois je trouve pas ça mal – c’est un jeu avec la techno et je le respecte – même plus je l’approuve et y jouer m'amuse).
 
 1. Je regarde le rapport entre les amis et les followers. Quand un compte avec plusieurs milliers, voire plusieurs dizaines de milliers de followers, a dans le même temps encore plus d’amis que de followers c’est louche.
-    
 
 ![jeanlurc](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/jeanlurc.png)
 
 2. C’est d’autant plus louche quand ce compte à systématiquement beaucoup d’avance, genre entre 1000 et 2000 amis en plus (capture d’écran effectuée à 09:47). Comme chaque semaine le compte gagne entre 1000 et 2000 followers, ça signifie que le détenteur du compte ajoute jusqu’à 2000 nouvelles personnes chaque semaine. Soit 2000/7 = 285 ajouts quotidiens. Un spécialiste de la techno ferait ça à la main tous les jours depuis deux ans ? Je veux bien de temps en temps mais pas tous les jours. Un robot fait ça mieux qu'un homme. En plus pas facile de les trouver les 285 comptes ? Où, dans les retweets? Pas crédible sinon à l'ouverture d'un compte.
 
 3. Quand cette avance se creuse le week-end, c’est vraiment louche et ça je l’ai compris avec mon robot. Les gens twittent moins le week-end mais le robot tourne toujours. Le taux de conversion faiblit donc et c’est ainsi qu’on se retrouve avec trop d’amis.
-    
 
 ![jeanlurcr](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/jeanlurc2.png)
 
 4. Autre anomalie : voir le nombre d’amis baisser soudainement (capture d’écran à 10:33). Virer 2000 amis en moins de quarante minutes à la main ? Je sais pas comment on peut faire à la main (pas de limitation de l'API en revanche). N'est-ce pas une nouvelle preuve d'excellence technique ?
-    
+
     ![jean lucr](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/jeanlurc3.png)
 
 5. Mais la manière la plus imparable est de lister les nouveaux amis que le détenteur d’un compte a lui-même ajouté. Est-ce qu’ils semblent intéressants ? Si je vois des prostituées, des auteurs dans des langues étranges et des vendeurs de bonheur, je trouve ça d’autant plus louche. Qu’on ne me dise pas qu’on souscrit systématiquement aux gens qui nous suivent (ça ne tient pas quand on a plus d'amis que de followers). J’ai longtemps refollowé systématiquement à la mano mais en prenant 2 secondes pour voir si ce n’étaient pas des spammeurs. Seul un robot peut follower les spammeurs...

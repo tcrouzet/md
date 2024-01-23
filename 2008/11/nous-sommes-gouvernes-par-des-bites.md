@@ -1,6 +1,6 @@
 # Nous sommes gouvernés par des bites
 
-Avec leur [hadopi](http://fr.wikipedia.org/wiki/Loi_Hadopi)<font style="position: absolute;overflow: hidden;height: 0;width: 0">[rent a car bulgaria](http://sikongroup.com/rentacar/index.htm)</font> et autres conneries, ils vont forcer les Français à devenir de véritables pirates. Rien de tel que la prohibition pour favoriser les trafics. Ces lois liberticides ne toucheront que les Français les plus naïfs pendant que les autres vont s’armer jusqu’aux dents.<span id="more-3481"></span>
+Avec leur [hadopi](http://fr.wikipedia.org/wiki/Loi_Hadopi)[rent a car bulgaria](http://sikongroup.com/rentacar/index.htm) et autres conneries, ils vont forcer les Français à devenir de véritables pirates. Rien de tel que la prohibition pour favoriser les trafics. Ces lois liberticides ne toucheront que les Français les plus naïfs pendant que les autres vont s’armer jusqu’aux dents.
 
 Nous allons bientôt installer sur nos bécanes le même arsenal logiciel que les Chinois en lutte contre la dictature. Nos sympathisants à l’étranger vont mettre en place des proxys et autres systèmes de masquage pour que nous puissions surfer en France librement.
 

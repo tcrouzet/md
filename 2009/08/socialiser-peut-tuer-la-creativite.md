@@ -4,7 +4,7 @@
 
 ![Pyrénées espagnoles, août 2009](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/pyren.jpg)
 
-Depuis un an, j’ai écrit plusieurs centaines de pages qui auraient dû se trouver dans mon prochain livre, presque toutes écartées, certaines publiées ici après coup, d’autres le seront peut-être plus tard.<span id="more-8519"></span>
+Depuis un an, j’ai écrit plusieurs centaines de pages qui auraient dû se trouver dans mon prochain livre, presque toutes écartées, certaines publiées ici après coup, d’autres le seront peut-être plus tard.
 
 [*Boom*](http://blog.tcrouzet.com/2009/02/12/boom/), [*Crapauds fous*](http://blog.tcrouzet.com/2009/05/12/les-crapauds-fous-fous/), *Superorganisme*, *Into the flux*… l’idée fait son chemin sous la forme du [*Socialisme selon Starglider*](http://blog.tcrouzet.com/tag/starglider/) qui deviendra peut-être *L’humanisme selon Starglider* (titre plus adéquat mais moins sexy) voire *L’Anarchisme selon Starglider*. Je n’en sais encore rien. J’ai plus de cent pages qui tiennent (où il n’est jamais question du superorganisme – ce qui pourtant est censé être le sujet du livre).
 

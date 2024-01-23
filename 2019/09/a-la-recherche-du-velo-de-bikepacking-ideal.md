@@ -1,6 +1,6 @@
 # À la recherche du vélo de bikepacking idéal
 
-Après quatre voyages en 2019, trois aux États-Unis, un en France, et plus de 2 500 km parcourus, 30 000 de D+, je ne cesse de penser à mon vélo de bikepacking idéal, songeant à perfectionner mon Salsa Timberjack ou à partir sur une nouvelle base.<span id="more-52515"></span>
+Après quatre voyages en 2019, trois aux États-Unis, un en France, et plus de 2 500 km parcourus, 30 000 de D+, je ne cesse de penser à mon vélo de bikepacking idéal, songeant à perfectionner mon Salsa Timberjack ou à partir sur une nouvelle base.
 
 On dit que le meilleur vélo est celui sur lequel on se sent bien. On le trouve comment ce vélo si on ne le cherche pas ? Si on ne remet pas en cause ses choix ? On peut bien se sentir sur un vélo en ignorant qu'il en existe d'autres sur lesquels on se sentirait mieux. Par exemple, je suis bien sur mon Timberjack jusqu'à ce que je le porte sur mes épaules ou grimpe un col par une piste roulante. [Le vélo de bikepacking idéal n'existe pas dans l'absolu](https://tcrouzet.com/2019/06/06/le-gravel-nest-pas-le-velo-de-bikepacking-ideal/), même dans mon cas il n'est qu'un objectif vers lequel je ne peux que tendre (tout en devant ajuster mes choix en même temps que mon corps vieillit). Je suis donc perpétuellement en recherche.
 

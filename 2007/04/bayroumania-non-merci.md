@@ -1,6 +1,6 @@
 # Bayroumania : non merci
 
-Pour ceux qui ne cessent, sans trop savoir ce que je pense, de m’accuser de manger dans la main de François Bayrou, voici quelques liens vers mes propres articles.<span id="more-432"></span>
+Pour ceux qui ne cessent, sans trop savoir ce que je pense, de m’accuser de manger dans la main de François Bayrou, voici quelques liens vers mes propres articles.
 
 1/4/2007 [Bayrou, après avoir fait jeu égal avec ses adversaires, se laisse décrocher. Il a intéressé mais il n’a pas su retenir l’attention, faute de créer un électrochoc dans la population. Il regrettera peut-être bientôt de ne pas avoir fait exploser l’UDF au profit d’un nouveau mouvement.](http://blog.tcrouzet.com/2007/04/01/bayrou-monte-et-descend/)
 

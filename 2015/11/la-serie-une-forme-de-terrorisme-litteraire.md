@@ -1,6 +1,6 @@
 # La série : une forme de terrorisme littéraire
 
-J’étais en train d’esquisser cet article quand j’ai appris pour les attentats de Paris, je n’ai pu m’empêcher de penser à la forme que prennent les guerres dites asymétriques. Elles ne commencent pas par une déclaration, ne se terminent pas par un armistice. Les frappes surviennent par surprise, n’importe où, sans logique apparente. Il n’y est pas question de front, de progression, de mouvement coordonné. On a plutôt une zone dans l’ensemble pacifiée avec de brefs embrasements, et ça dure, ça pourrait durer jusqu’à la fin des temps si la lassitude ne frappait pas les belligérants.<span id="more-42791"></span>
+J’étais en train d’esquisser cet article quand j’ai appris pour les attentats de Paris, je n’ai pu m’empêcher de penser à la forme que prennent les guerres dites asymétriques. Elles ne commencent pas par une déclaration, ne se terminent pas par un armistice. Les frappes surviennent par surprise, n’importe où, sans logique apparente. Il n’y est pas question de front, de progression, de mouvement coordonné. On a plutôt une zone dans l’ensemble pacifiée avec de brefs embrasements, et ça dure, ça pourrait durer jusqu’à la fin des temps si la lassitude ne frappait pas les belligérants.
 
 Il est étrange de constater que les séries TV prennent la même forme. Dans [un très bel article](http://www.slate.fr/story/108723/peu-importe-fin-seuls-comptent-rebondissements), Hugo Lindenberg note :
 

@@ -1,6 +1,6 @@
 # On fait quoi lundi ?
 
-Se contenter de voter contre le FN, ça ne va pas suffire. Quand on relève la hauteur du barrage, l’eau derrière s’élève et on se prépare à une catastrophe plus grave un peu plus tard dans le temps. Il est donc urgent d’ouvrir des vannes dans les fondations et ainsi détendre les tensions.<span id="more-43068"></span>
+Se contenter de voter contre le FN, ça ne va pas suffire. Quand on relève la hauteur du barrage, l’eau derrière s’élève et on se prépare à une catastrophe plus grave un peu plus tard dans le temps. Il est donc urgent d’ouvrir des vannes dans les fondations et ainsi détendre les tensions.
 
 Que faire ? Comment empêcher les réactionnaires de gagner sans cesse des points ? Comment empêcher la haine de l’autre de progresser ? Comment en revenir à une époque heureuse ?
 

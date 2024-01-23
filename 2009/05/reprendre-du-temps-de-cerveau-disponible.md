@@ -4,9 +4,7 @@ Quand j’écoute nos anciens, comme James Lovelock, Claude Lorius ou Susan Geor
 
 > Le développement durable est une notion à laquelle je ne crois plus. On ne peut pas maîtriser le développement. Et pour être durable, il faudrait être à l'état d'équilibre, or cet équilibre n'existe pas. C'est un terme trompeur. Avant, j'étais alarmé, mais j'étais optimiste, actif, positiviste. Je pensais que les économistes, les politiques, les citoyens pouvaient changer les choses. J'étais confiant dans notre capacité à trouver une solution. Aujourd'hui, je ne le suis plus... sauf à espérer un sursaut inattendu de l'homme, a déclaré Claude Lorius dans [Le Monde](http://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=1058140&clef=ARC-TRK-NC_01#ens_id=1099506).
 
-<span id="more-6145"></span>
-
-Nous autres, plus jeunes, conscients des défis mais aussi armés de nouvelles technologies et de nouvelles idées politiques, pensons justement qu’un sursaut est possible. Depuis quelques jours, je doute toutefois à mon tour. <a href="">Les écureuils réussiront-ils leur mission humanitaire ?</a>
+Nous autres, plus jeunes, conscients des défis mais aussi armés de nouvelles technologies et de nouvelles idées politiques, pensons justement qu’un sursaut est possible. Depuis quelques jours, je doute toutefois à mon tour. Les écureuils réussiront-ils leur mission humanitaire ?
 
 Économiser un peu d’eau, un peu d’énergie, favoriser l’agriculture clean… est-ce que ça suffira ? En toute probabilité non. Il faut aller bien plus loin, il faut revoir de fond en comble nos modes de vie. Qui est prêt à un tel sacrifice ? À part quelques Walden dans les bois, la plupart d’entre nous ne bougerons pas suffisamment. Pour ma part, je m’en sens incapable. J’ai déjà fait quelques efforts, j’en ferai d’autres mais je n’irai pas vivre dans une yourte. En plus, j’ai la conviction que notre avenir réside dans une autre direction.
 

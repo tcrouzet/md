@@ -2,7 +2,7 @@
 
 Un Airbus serait plutôt compliqué. Un organisme vivant serait plutôt [complexe](http://fr.wikipedia.org/wiki/Syst%C3%A8me_complexe). Différencier ces deux notions me paraît fondamental.
 
-Par compliqué, on tend un système composé d’un grand nombre de sous-systèmes, eux-mêmes composés de sous systèmes et ainsi de suite et où chacun des sous-systèmes est plus simple que l’ensemble auquel il participe. C’est le cas pour un avion. On termine avec les boulons et des composants élémentaires.<span id="more-5621"></span>
+Par compliqué, on tend un système composé d’un grand nombre de sous-systèmes, eux-mêmes composés de sous systèmes et ainsi de suite et où chacun des sous-systèmes est plus simple que l’ensemble auquel il participe. C’est le cas pour un avion. On termine avec les boulons et des composants élémentaires.
 
 En théorie, il n’existe pas de limite à la complication car on peut sans cesse connecter des systèmes compliqués entre eux. En théorie seulement car nous avons de plus en plus de mal à augmenter la complication de nos machines. Nous peinons à produire de nouveaux avions. Nous peinons avec les nouveaux OS.
 

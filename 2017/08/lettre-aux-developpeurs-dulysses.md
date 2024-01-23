@@ -1,6 +1,6 @@
 # Lettre aux développeurs d’Ulysses
 
-Vous venez soudainement de changer de modèle économique, passant à l'abonnement. Je suis attaché à [votre éditeur de texte](https://ulyssesapp.com), pieds et poings liés, parce qu’[il n’en existe pas de meilleur pour le moment](http://tcrouzet.com/2016/10/19/les-outils-de-lecrivain/) (et qu’on ne me parle pas de cette usine à gaz de Scrivener). Je l’avais donc acheté, en version macOS et iOS, et je viens de m’abonner pour pouvoir continuer à l’utiliser à l’avenir.<span id="more-45708"></span>
+Vous venez soudainement de changer de modèle économique, passant à l'abonnement. Je suis attaché à [votre éditeur de texte](https://ulyssesapp.com), pieds et poings liés, parce qu’[il n’en existe pas de meilleur pour le moment](http://tcrouzet.com/2016/10/19/les-outils-de-lecrivain/) (et qu’on ne me parle pas de cette usine à gaz de Scrivener). Je l’avais donc acheté, en version macOS et iOS, et je viens de m’abonner pour pouvoir continuer à l’utiliser à l’avenir.
 
 Je vous avoue que je n’apprécie pas votre décision. C’est comme si je devais payer un livre chaque fois que je le relis. Si l’auteur le réécrivait, ça ne me choquerait pas, mais quand il se contente de corriger quelques fautes d’orthographe, je ne suis pas très heureux de devoir débourser 30 €/an. Je ne le fais qu’au regard d’une promesse incertaine.
 
@@ -14,7 +14,7 @@ Puisque je vais payer désormais tous les ans, j’attends que vous lanciez de v
 
 1. Un logiciel destiné aux professionnels de l’écriture ne peut pas se passer d’un mode de suivi des corrections. Vous devez au plus vite lui ajouter [CriticMarkup](http://criticmarkup.com/).
 
-2. Vous devez intégrer à votre syntaxe Markdown la possibilité de saisir des indices et des exposants, que nous puissions écrire CO<sub>2</sub> ou 1<sup>st</sup> avenue. C’est un minimum. Et puis peut-être, penser à d’autres raffinements typographiques.
+2. Vous devez intégrer à votre syntaxe Markdown la possibilité de saisir des indices et des exposants, que nous puissions écrire CO2 ou 1st avenue. C’est un minimum. Et puis peut-être, penser à d’autres raffinements typographiques.
 
 3. Vous devez grandement améliorer vos filtres d’exportation, ajouter des commandes pour perfectionner les mises en pages. Vos PDF/epub actuels sont parfaits pour la relecture, mais inutilisables pour la diffusion, en autopublication notamment (vous n’avez rien amélioré depuis des lustres de ce côté).
 

@@ -1,6 +1,6 @@
 # La littérature comme happening
 
-Quand on parle d’happening en art, on pense à un mouvement qui débute avec l’urinoir de Marcel Duchamp et se ramifie depuis avec l’art conceptuel, les installations, les performances. Trois choses me paraissent importantes dans cette aventure esthétique :<span id="more-43841"></span>
+Quand on parle d’happening en art, on pense à un mouvement qui débute avec l’urinoir de Marcel Duchamp et se ramifie depuis avec l’art conceptuel, les installations, les performances. Trois choses me paraissent importantes dans cette aventure esthétique :
 
 1. L’idée de l’œuvre importe plus que l’œuvre.
 

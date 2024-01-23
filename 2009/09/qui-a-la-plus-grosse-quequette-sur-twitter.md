@@ -1,6 +1,6 @@
 # Qui a la plus grosse quéquette sur Twitter ?
 
-Les journalistes sont naïfs. Ils voient un compte Twitter avec des dizaines de milliers de followers et ils s’extasient. Ils font du détenteur du compte une star. Mais ont-ils un peu gratté derrière les apparences ?<span id="more-10255"></span>
+Les journalistes sont naïfs. Ils voient un compte Twitter avec des dizaines de milliers de followers et ils s’extasient. Ils font du détenteur du compte une star. Mais ont-ils un peu gratté derrière les apparences ?
 
 Je voulais avant de vous raconter cette histoire attendre d’avoir moi-même la plus grosse quéquette de la twittosphère francophone en dépassant le fameux @jeanlucr (manquerait plus que je mette un lien vers lui). Mais pas de chance, une rumeur s’ébruite. [Je mènerais une expérience](http://internetetopinion.wordpress.com/2009/09/24/effets-twitter-sur-le-trafic-des-sites/) et [débusquerais des truanderies](http://twitter.com/narvic/status/4154461162).
 

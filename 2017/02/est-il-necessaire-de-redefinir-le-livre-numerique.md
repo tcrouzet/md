@@ -1,6 +1,6 @@
 # Est-il nécessaire de redéfinir le livre numérique ?
 
-Nous sommes bien obligés de l’admettre, le livre numérique n’a pas encore conquis les foules, parce que les éditeurs traditionnels lui ont souvent barré le chemin avec des prix prohibitifs et des DRM, parce que les appareils de lectures restent inconfortables, parce [bien des avantages du livre papier n’ont pas été intégrés](http://tcrouzet.com/2016/11/28/10-raisons-daimer-les-livres-et-moins-le-web/)… Cette liste pourrait s’étendre longuement.<span id="more-44860"></span>
+Nous sommes bien obligés de l’admettre, le livre numérique n’a pas encore conquis les foules, parce que les éditeurs traditionnels lui ont souvent barré le chemin avec des prix prohibitifs et des DRM, parce que les appareils de lectures restent inconfortables, parce [bien des avantages du livre papier n’ont pas été intégrés](http://tcrouzet.com/2016/11/28/10-raisons-daimer-les-livres-et-moins-le-web/)… Cette liste pourrait s’étendre longuement.
 
 Pourquoi encore parler de livre ? L’information s’est fluidifiée, elle déborde les contenants, et le livre paraît à ce regard bien désuet, à moins de le repenser, de le redéfinir, peut-être pour le renouveler et le différencier des autres formes de diffusion.
 

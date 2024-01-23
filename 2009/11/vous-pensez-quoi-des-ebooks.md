@@ -4,7 +4,7 @@
 
 ![Mon PRS-600](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/11/sony600.jpg)
 
-Début septembre, sur Twitter j’avais demandé à ma communauté de réagir au sujet des ebooks. Je m’étais inspiré de [toutes ces réponses](http://blog.tcrouzet.com/2009/09/01/tweets-du-mardi-01-septembre-2009/) et d’autres glanées plus tard pour essayer de traduire un état d’esprit général. Finalement, je n’utilise pas ces petits textes pour mon livre (pas le courage d'attribuer chacun à son auteur).<span id="more-12146"></span>
+Début septembre, sur Twitter j’avais demandé à ma communauté de réagir au sujet des ebooks. Je m’étais inspiré de [toutes ces réponses](http://blog.tcrouzet.com/2009/09/01/tweets-du-mardi-01-septembre-2009/) et d’autres glanées plus tard pour essayer de traduire un état d’esprit général. Finalement, je n’utilise pas ces petits textes pour mon livre (pas le courage d'attribuer chacun à son auteur).
 
 « Rien ne remplacera la texture du papier, le froissement des pages, le craquement de la reliure qui s’ouvre pour la première fois. »
 

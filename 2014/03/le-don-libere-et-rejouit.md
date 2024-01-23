@@ -1,6 +1,6 @@
 # Le don libère et réjouit
 
-Que les choses soient claires, j’espère, une fois pour toutes : être partisan de la société du don n’implique pas d’être adversaire de la société marchande. Ces deux modes de rémunération peuvent cohabiter. [De fait, c’est le cas depuis des siècles.](http://blog.tcrouzet.com/2014/03/08/le-restaurant-comme-preuve-de-la-possibilite-du-non-marchand/)<span id="more-34790"></span>
+Que les choses soient claires, j’espère, une fois pour toutes : être partisan de la société du don n’implique pas d’être adversaire de la société marchande. Ces deux modes de rémunération peuvent cohabiter. [De fait, c’est le cas depuis des siècles.](http://blog.tcrouzet.com/2014/03/08/le-restaurant-comme-preuve-de-la-possibilite-du-non-marchand/)
 
 Sans la société du don, vous seriez incapable de préparer une blanquette de veau ou une tarte Tatin. Ce qui n’a jamais empêché personne d’aller commander une blanquette ou une tarte dans un restaurant, et de les payer au prix affiché sur le menu.
 

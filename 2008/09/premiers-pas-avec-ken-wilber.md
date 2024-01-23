@@ -2,7 +2,7 @@
 
 Je viens de commencer *A brief history of Everything* et, en même temps, *The integral vision* de [Ken Wilber](http://fr.wikipedia.org/wiki/Ken_Wilber).
 
-Logiquement, j’aurais dû lire le philosophe depuis longtemps car j’essaie moi aussi de lier des champs dissemblables : scientifiques, philosophiques, politiques, technologiques, esthétiques et même spirituels. *Le peuple des connecteurs* était un effort dans ce sens. J’ai tenté de présenter une vision cohérente d’un espace diversifié. Si j’écris *Une brève histoire de l’informatique*, j’irai plus loin dans ce sens.<span id="more-3043"></span>
+Logiquement, j’aurais dû lire le philosophe depuis longtemps car j’essaie moi aussi de lier des champs dissemblables : scientifiques, philosophiques, politiques, technologiques, esthétiques et même spirituels. *Le peuple des connecteurs* était un effort dans ce sens. J’ai tenté de présenter une vision cohérente d’un espace diversifié. Si j’écris *Une brève histoire de l’informatique*, j’irai plus loin dans ce sens.
 
 Mais je n’ai jamais lu Wilber. En fait, l’idée que nous puissions avoir une vision intégrale m’horripile. Elle est d’une prétention gigantesque, égale à celle des religieux les plus intégristes. Elle commence par supposer l’existence d’un ordre intégral, ce qui a mon sens est loin d’être une évidence.
 

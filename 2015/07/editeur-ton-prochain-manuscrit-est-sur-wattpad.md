@@ -1,6 +1,6 @@
 # Éditeur : ton prochain manuscrit est sur Wattpad
 
-Wattpad, ce n’est pas neuf, mais le phénomène commence à faire couler quelques lignes dans les médias. [En préparation d’un article pour le Figaro](http://www.lefigaro.fr/secteur/high-tech/2015/07/24/32001-20150724ARTFIG00268-wattpad-le-cafe-litteraire-des-adolescents.php), Jules Darmanin m’a posé quelques questions…<span id="more-42112"></span>
+Wattpad, ce n’est pas neuf, mais le phénomène commence à faire couler quelques lignes dans les médias. [En préparation d’un article pour le Figaro](http://www.lefigaro.fr/secteur/high-tech/2015/07/24/32001-20150724ARTFIG00268-wattpad-le-cafe-litteraire-des-adolescents.php), Jules Darmanin m’a posé quelques questions…
 
  *— Comment avez-vous découvert Wattpad ?*
 

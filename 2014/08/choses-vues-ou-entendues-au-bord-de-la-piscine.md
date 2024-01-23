@@ -1,6 +1,6 @@
 # 21 choses vues ou entendues au bord de la piscine
 
-Quand vous en aurez assez, j'arrêterai mes listes. Pour le moment, je prends plaisir à les écrire.<span id="more-36731"></span>
+Quand vous en aurez assez, j'arrêterai mes listes. Pour le moment, je prends plaisir à les écrire.
 
 1. Trois garçons, deux filles, des frites colorées et un bateau pneumatique « Explorer ».
 

@@ -1,6 +1,6 @@
 # Les pirates de la twittosphère
 
-J’essaie sur mon blog de ne pas parler de ma déconnexion pour que vous commandiez [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), en revanche je m’autorise à témoigner d’un phénomène qui, depuis mon retour, me surprend : Twitter a été piraté.<span id="more-22759"></span>
+J’essaie sur mon blog de ne pas parler de ma déconnexion pour que vous commandiez [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), en revanche je m’autorise à témoigner d’un phénomène qui, depuis mon retour, me surprend : Twitter a été piraté.
 
 Sans trop me montrer, je suis vos conversations. Je clique, j’observe, notamment à travers la fenêtre que m’offre sur votre monde [seesmic desktop](http://seesmic.com). J’ai très vite noté une nouvelle icône rouge qui indique notre score [Klout](http://klout.com/crouzet), soit la popularité sur le réseau, [évaluée selon des critères quantitatifs plutôt que qualitatifs](http://blog.tcrouzet.com/2011/12/17/bloguer-ou-mourir/). Sans surprise, mon score était relativement bas et il remonte peu à peu depuis que je publie à nouveau des billets épisodiques.
 

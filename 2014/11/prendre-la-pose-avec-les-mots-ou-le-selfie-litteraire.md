@@ -1,6 +1,6 @@
 # Prendre la pose avec les mots ou le selfie littéraire
 
-J’ai attendu pour sortir. Depuis ce matin, le soleil frappe fort. Quand je finis par me décider, des nuages entrent de la mer, de longues traînées diffuses, enroulées en grandes courbes autour d’îlots de bleu.<span id="more-38108"></span>
+J’ai attendu pour sortir. Depuis ce matin, le soleil frappe fort. Quand je finis par me décider, des nuages entrent de la mer, de longues traînées diffuses, enroulées en grandes courbes autour d’îlots de bleu.
 
 Pourquoi ai-je attendu ? Il ne m’est pas difficile de m’inventer des obligations, aucune d’une urgence capitale, aucune indispensable à ma survie, toutes bien moins importantes que venir m’asseoir au bout d’une digue pour m’abandonner la rêverie.
 

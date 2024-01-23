@@ -1,6 +1,6 @@
 # Je vends mon blog aux enchères en NFT
 
-J’ai la hantise que mon blog disparaisse, que la plus grande partie de mon travail d’auteur s’évanouisse comme si elle n’avait été qu’un happening que personne n’aurait filmé, [sauf peut-être internet archive](https://web.archive.org/web/*/https://tcrouzet.com), mais de manière incomplète et peu lisible.<span id="more-60102"></span>
+J’ai la hantise que mon blog disparaisse, que la plus grande partie de mon travail d’auteur s’évanouisse comme si elle n’avait été qu’un happening que personne n’aurait filmé, [sauf peut-être internet archive](https://web.archive.org/web/*/https://tcrouzet.com), mais de manière incomplète et peu lisible.
 
 Les causes potentielles de cette annihilation ne manquent pas. Après ma mort, qui aura le courage de maintenir en état de fonctionnement mon affaire ? Déjà, aujourd’hui, je cours après les mises à jour, la nécessité de suivre les standards web, de rester lisible sur tous les appareils. Demain, qui effectuera ce travail à ma place, qui l’effectuera pour les milliers de blogs laissés sans leur géniteur ? Une grande partie de notre patrimoine culturel contemporain risque de disparaître. Sans parler du risque plus immédiat de la destruction d’un serveur, que je tente de pallier par des backups automatiques quotidiens et mensuels.
 

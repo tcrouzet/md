@@ -1,6 +1,6 @@
 # La cohérence est une utopie, l’incohérence un délit
 
-J’ai souvent critiqué les promoteurs de la gratuité qui vendent les livres où ils font l’éloge de la gratuité. C’est un peu comme si j’avais obligé mes lecteurs à acheter [*Le geste qui sauve*](http://tcrouzet.com/le-geste-qui-sauve/) alors qu’il fait la part belle à l’économie de paix.<span id="more-43024"></span>
+J’ai souvent critiqué les promoteurs de la gratuité qui vendent les livres où ils font l’éloge de la gratuité. C’est un peu comme si j’avais obligé mes lecteurs à acheter [*Le geste qui sauve*](http://tcrouzet.com/le-geste-qui-sauve/) alors qu’il fait la part belle à l’économie de paix.
 
 Le désir de cohérence est chez moi puissant. Je fulmine chaque fois que j’entends des propos en désaccord avec des faits. Suis-je pour autant toujours cohérent ? Je crois tout simplement que c’est impossible.
 
@@ -25,6 +25,8 @@ Le don n’est pas une solution. Il n’est qu’une ponction à l’économie p
 Dans ce contexte, j’essaie d’être commoniste autant que je le peux, de diffuser librement le plus grand nombre de mes textes, tout en sachant que je ne suis pas parfait.
 
 ![J'avais même une montre connectée non libre.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/nonlibre.jpg)
+
+J'avais même une montre connectée non libre.
 
 
 

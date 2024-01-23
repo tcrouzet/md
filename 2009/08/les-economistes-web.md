@@ -4,7 +4,7 @@
 
 ![villereal](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/villereal_021-450x337.jpg)
 
-Hier soir, presque par hasard, j’arrive sous la halle de Villeréal après une conférence de [Philippe Dessertine](http://fr.wikipedia.org/wiki/Philippe_Dessertine), auteur de *Ceci n’est pas une crise (juste la fin d’un monde)*. Avec Isabelle, nous échangeons quelques mots avec lui. Je ne connais rien d’autre de lui que ce qui est passé entre nous en quinze minutes. Donc tout ce que je vais dire de Dessertine doit être pris entre guillemets. Je lirai son livre mais j’aime aussi ces contacts brefs où beaucoup de choses transparaissent.<span id="more-8723"></span>
+Hier soir, presque par hasard, j’arrive sous la halle de Villeréal après une conférence de [Philippe Dessertine](http://fr.wikipedia.org/wiki/Philippe_Dessertine), auteur de *Ceci n’est pas une crise (juste la fin d’un monde)*. Avec Isabelle, nous échangeons quelques mots avec lui. Je ne connais rien d’autre de lui que ce qui est passé entre nous en quinze minutes. Donc tout ce que je vais dire de Dessertine doit être pris entre guillemets. Je lirai son livre mais j’aime aussi ces contacts brefs où beaucoup de choses transparaissent.
 
 Je me suis présenté comme quelqu’un qui ne s’intéresse pas à la crise économique mais à la crise de la complexité qui comprend l’économie à laquelle je connais peu de chose, pour ne pas dire rien. Au fil de la conversation, je devine que Dessertine défend une gouvernance mondiale construite autour du G20, une banque mondiale, une monnaie unique (c’est un nouveau monde ça ?).
 

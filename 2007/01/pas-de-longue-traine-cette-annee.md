@@ -1,6 +1,6 @@
 # Pas de longue traîne cette année
 
-Au printemps 2006, nous avions 70 candidats potentiels à la présidentielle 2007, à l’automne nous en avions encore plus de 30, ils resteront sans doute à peine plus de 10 en avril, même si [Nicolas Voisin en liste encore 25](http://www.nuesblog.com/?509/La-Nouvelle-Star-Presidentielle-Casting-et-pre-selection).<span id="more-332"></span>
+Au printemps 2006, nous avions 70 candidats potentiels à la présidentielle 2007, à l’automne nous en avions encore plus de 30, ils resteront sans doute à peine plus de 10 en avril, même si [Nicolas Voisin en liste encore 25](http://www.nuesblog.com/?509/La-Nouvelle-Star-Presidentielle-Casting-et-pre-selection).
 
 Pour moi, c’est un très mauvais signe pour la démocratie. Nos personnalités s’assoient sur leurs convictions pour récupérer un poste de ministre ou de député. Chevènement anti-européen s’allie avec Ségolène Royal pro-européenne. MAM avec Sarkozy alors qu’elle ne partage rien avec lui. Je voudrais au contraire que tous ceux qui ont des idées non exprimées se présentent. Un peu de courage José et Clémentine.
 

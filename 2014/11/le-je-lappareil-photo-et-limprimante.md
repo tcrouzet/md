@@ -1,6 +1,6 @@
 # Le je, l’appareil photo et l’imprimante
 
-J’ai l’ordre impérieux de vivre. Mais vivre, c’est quoi ? Baiser, manger, boire… Ce serait assez simple si c’était suffisant. Nous recherchons inévitablement d’autres récompenses.<span id="more-38143"></span>
+J’ai l’ordre impérieux de vivre. Mais vivre, c’est quoi ? Baiser, manger, boire… Ce serait assez simple si c’était suffisant. Nous recherchons inévitablement d’autres récompenses.
 
 Je sais au moins quand une de mes journées a été vécue. J’en mesure l’accomplissement à la quantité d’impressions que j’ai laissé entrer en moi avec calme. Et donc quand le temps m’a marqué, quand il s’est écoulé sur moi avec suffisamment de lenteur pour qu’un avion ou une mouche m’intéressent.
 
@@ -29,6 +29,8 @@ Certains écrivains ne possèdent même pas d’optique. Ils balancent des histo
 Je suis à la recherche d’un équilibre entre percevoir et dire, entre garder et lâcher, entre vivre pour moi et vivre avec les autres. Il n’existe pas de solution universelle à cette équation, mais au moins une pour chacun de nous à chacun des moments de notre vie.
 
 ![Les chèvres pour étendre les filets, comme celles qu'utilisait mon père.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/chevre.jpg)
+
+Les chèvres pour étendre les filets, comme celles qu'utilisait mon père.
 
 
 

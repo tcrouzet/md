@@ -1,6 +1,6 @@
 # Le libre : test du fanatisme ?
 
-Depuis quelques années, je constate que certains défenseurs du libre deviennent sectaires, un peu comme certains communistes sont devenus totalitaires. N’est-ce pas en soi la preuve qu’il y a un ver dans la pomme ?<span id="more-44741"></span>
+Depuis quelques années, je constate que certains défenseurs du libre deviennent sectaires, un peu comme certains communistes sont devenus totalitaires. N’est-ce pas en soi la preuve qu’il y a un ver dans la pomme ?
 
 Je le rappelle une fois de plus : j’ai contribué au libre plus que beaucoup de ses défenseurs, je l’ai défendu au moins autant qu’eux, si ce n’est plus, et je n’ai pas renoncé à le faire. Je comprends que, voyant que nos idées n’avancent pas, nous puissions éprouver de l’amertume, mais de là à basculer vers la haine, il y a un pas, et le franchir n’aura pour effet que de fractionner le monde du libre en communautés de plus en plus minuscules. C’est du contraire dont nous avons besoin, de nous rallier, de nous rassembler, au-delà de quelques divergences.
 

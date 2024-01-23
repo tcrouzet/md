@@ -1,6 +1,6 @@
 # Droit de vote en question 2
 
-Je suis fasciste. C’est évident. Puisque je remets en cause le droit de vote, je ne peux que prôner la dictature. C’est en tout cas le raisonnement de [certains lecteurs d’Agoravox](http://www.agoravox.fr/article.php3?id_article=12903). Comme ils ne connaissent que la dictature ou la démocratie représentative, ils supposent qu’il n’y a pas d’autres possibilités. Si je rejette la seconde, je suis nécessairement pour la première.<span id="more-253"></span>
+Je suis fasciste. C’est évident. Puisque je remets en cause le droit de vote, je ne peux que prôner la dictature. C’est en tout cas le raisonnement de [certains lecteurs d’Agoravox](http://www.agoravox.fr/article.php3?id_article=12903). Comme ils ne connaissent que la dictature ou la démocratie représentative, ils supposent qu’il n’y a pas d’autres possibilités. Si je rejette la seconde, je suis nécessairement pour la première.
 
 ![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/200610vote.gif)
 
@@ -39,8 +39,6 @@ Belle observation mais je ne peux pas accepter la conclusion. Dieu n’a rien à
 Je ne crois pas aux experts. Les experts n’existent pas.
 
 Une société harmonieuse ne peut s’épanouir que si elle s’appuie sur les compétences de tous, sur l’intelligence de tous et sur la bonne volonté de tous. Nous n’avons aucune chance de faire face aux problèmes qui se présentent à nous collectivement en ne faisant confiance qu’à certains d’entre nous, nos élus, nos experts. Nous ne pouvons pas nous en sortir en renonçant à nos responsabilités. Personne n’est digne de nous commander, nous avons tous le devoir de nous saisir de notre destin, à chaque instant de notre vie.
-
-**Se pose la question de l’égalité ?**
 
 On peut parler d’égalité de l’accès aux services mais pas de l’égalité des hommes. Nous sommes tous différents et c’est une bonne chose. Moins nous sommes égaux mieux c’est pour la société. Si nous étions tous des Zidane, le foot n’aurait aucun intérêt. La beauté, la joie, la vie… se nourrissent de la différence.
 

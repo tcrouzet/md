@@ -1,6 +1,6 @@
 # L’Égypte s’est déconnectée du cerveau global
 
-Parfois deux informations a priori sans rapport entrent en résonnance dans notre cerveau et nous créons des métaphores ou des connexions surprenantes, c’est un des sujets d’étude de [Vilayanur Ramachandran](http://en.wikipedia.org/wiki/Vilayanur_S._Ramachandran).<span id="more-21120"></span>
+Parfois deux informations a priori sans rapport entrent en résonnance dans notre cerveau et nous créons des métaphores ou des connexions surprenantes, c’est un des sujets d’étude de [Vilayanur Ramachandran](http://en.wikipedia.org/wiki/Vilayanur_S._Ramachandran).
 
 Selon lui, plusieurs aires du cerveau se sont développées en tandem. Imaginez alors que la zone A et la zone B sont sœurs et interconnectées. Si A manipule un concept et B un autre, nous aurions tendance à lier les deux concepts même s’ils sont dissemblables. Ainsi se serait développée notre merveilleuse créativité.
 

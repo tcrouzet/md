@@ -1,6 +1,6 @@
 # La singularité
 
-Pour les futurologues, une [singularité](http://fr.wikipedia.org/wiki/Singularit%C3%A9_technologique) est un point à partir duquel le progrès technologique accélère au-delà de toute prévision et compréhension. Je crois que nous approchons d'un tel moment singulier. Mais le progrès technologique n'est pas le seul à brouiller les cartes : nous sommes en train de transformer radicalement notre façon de penser. Nous ne voyons plus le monde comme avant, nous n'avons plus envie d'y vivre comme avant. Nous sommes à la veille d'une révolution qui sera technologique mais aussi, et surtout, sociale.<span id="more-17"></span>
+Pour les futurologues, une [singularité](http://fr.wikipedia.org/wiki/Singularit%C3%A9_technologique) est un point à partir duquel le progrès technologique accélère au-delà de toute prévision et compréhension. Je crois que nous approchons d'un tel moment singulier. Mais le progrès technologique n'est pas le seul à brouiller les cartes : nous sommes en train de transformer radicalement notre façon de penser. Nous ne voyons plus le monde comme avant, nous n'avons plus envie d'y vivre comme avant. Nous sommes à la veille d'une révolution qui sera technologique mais aussi, et surtout, sociale.
 
 Qu'est-ce donc qui change en ce moment même ?
 

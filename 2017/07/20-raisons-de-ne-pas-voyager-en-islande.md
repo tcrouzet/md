@@ -5,7 +5,6 @@
 2. En 2017, l'Islande devrait [accueillir au moins 2,2 millions de touristes](https://www.wsj.com/articles/tourism-saved-iceland-but-now-its-a-headache-1503223203#), soit six touristes par Islandais. En comparaison, [la France accueille 1,2 touriste par Français](http://www.lefigaro.fr/flash-eco/2017/02/10/97002-20170210FILWWW00141-france-pres-de-83-millions-de-touristes-etrangers-en-2016.php) (et c'est déjà souvent l'enfer pour eux). Cette haute densité touristique fait ressembler l'Islande à Saint-Tropez ou à Saint-Paul-de-Vence.
 
 3. Entre 2015 et 2016, le nombre de touristes a augmenté de 40 %, et ça continue.
-    
 
 ![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/07/iceland.png)
 

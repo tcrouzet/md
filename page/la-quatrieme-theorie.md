@@ -12,7 +12,6 @@
 
 - [Blog](/tag/twiller/)
 
-
 Un James Bond débridé
 ---------------------
 
@@ -24,22 +23,11 @@ Un James Bond débridé
 
 ##### **papier 19.00 €** : [ Amazon](http://www.amazon.fr/La-Quatri%C3%A8me-Theorie-Crouzet-T/dp/2213672342), [ Decitre](http://www.decitre.fr/livres/la-quatrieme-theorie-9782213672342.html), [ Dialogues](http://www.librairiedialogues.fr/livre/3789453-la-quatrieme-theorie-thierry-crouzet-fayard), [ Fnac](http://livre.fnac.com/a5251213/Thierry-Crouzet-La-quatrieme-theorie), [ La Procure](http://www.laprocure.com/quatrieme-theorie-thriller-thierry-crouzet/9782213672342.html), [ Rue du Commerce](http://www.rueducommerce.fr/m/ps/mpid:MP-91F4EM10804956), [ Sauramps](http://www.sauramps.com/la-quatrieme-theorie-2660820.html), [ Cultura](http://www.cultura.com/livre/policier/thierry-crouzet,la-quatri%C3%A8me-th%C3%A9orie,4752714.prd), [ Gibert](http://www.gibertjoseph.com/la-quatrieme-theorie-4910984.html), [ Lalibrairie.com](http://www.lalibrairie.com/tous-les-livres/la-quatrieme-theorie-thierry-crouzet-9782213672342.html), [ Librest](http://www.librest.com/tous-les-livres/la-quatrieme-theorie,1563512-0.html?auteur=Thierry), [ L'arbre à lettres](http://www.arbrealettres.com/9782213672342-la-quatrieme-theorie-thierry-crouzet/), [ Paris Librairies](http://www.parislibrairies.fr/detaillivre.php?gencod=9782213672342), [ Vivement Dimanche](http://www.vivementdimanche.com/9782213672342-la-quatrieme-theorie-thierry-crouzet/).
 
-
-
-
-
-
 ### Bande annonce
-
-
 
 ### Générique
 
-
-
 ### Les quatre théories
-
-
 
 ### Quatrième de couverture
 

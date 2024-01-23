@@ -1,6 +1,6 @@
 # Mini-aventure gravel : l’odeur des poireaux
 
-Ce matin, quand je conduis les enfants au collège et au lycée, il fait déjà dix degrés. La douceur est palpable, chargée d’une odeur identifiable entre toutes, l’odeur de la première journée d’un cycle nouveau. Le temps que je regagne la maison, on a gagné deux degrés.<span id="more-53385"></span>
+Ce matin, quand je conduis les enfants au collège et au lycée, il fait déjà dix degrés. La douceur est palpable, chargée d’une odeur identifiable entre toutes, l’odeur de la première journée d’un cycle nouveau. Le temps que je regagne la maison, on a gagné deux degrés.
 
 ![Les Pyrénées](https://tcrouzet.com/images_tc/2020/01/P1100866.jpeg)
 

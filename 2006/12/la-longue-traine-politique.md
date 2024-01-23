@@ -1,6 +1,6 @@
 # La longue traîne politique
 
-J’ai déjà parlé en public trois fois de la longue traîne en politique : devant [la jeune chambre économique](http://blog.tcrouzet.com/2006/11/15/avant-premiere/), à [Science Po](http://blog.tcrouzet.com/2006/12/05/cinquiemes-matinees-de-l%e2%80%99afcap/) et lors du [LeWeb3](http://www.leweb3.com), chaque fois très vite, ce qui ne m’a permis que d’exposer l’idée générale.<span id="more-298"></span>
+J’ai déjà parlé en public trois fois de la longue traîne en politique : devant [la jeune chambre économique](http://blog.tcrouzet.com/2006/11/15/avant-premiere/), à [Science Po](http://blog.tcrouzet.com/2006/12/05/cinquiemes-matinees-de-l%e2%80%99afcap/) et lors du [LeWeb3](http://www.leweb3.com), chaque fois très vite, ce qui ne m’a permis que d’exposer l’idée générale.
 
 Je consacre à ce sujet un chapitre dans *Le cinquième pouvoir*. Résumé : comme dans la consommation on line, une longue traîne est en train d’apparaître en politique. Nous avons de plus de en plus de candidats qui récoltent de moins en moins de voix. C’est un changement profond dans la nature même de la démocratie, c’est, à mon sens, un pas vers plus de démocratie.
 

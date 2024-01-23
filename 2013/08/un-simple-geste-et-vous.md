@@ -1,6 +1,6 @@
 # Un simple geste et vous ?
 
-J’aime depuis longtemps la célèbre phrase de Gandhi : « Soyez le changement que vous voulez voir dans le monde. » Pour réussir une telle prouesse à grande échelle, et non seulement dans son jardin, encore faut-il que le changement dépende de quelque chose de suffisamment simple, d’accessible, d’économique… pour que quiconque puisse agir.<span id="more-33266"></span>
+J’aime depuis longtemps la célèbre phrase de Gandhi : « Soyez le changement que vous voulez voir dans le monde. » Pour réussir une telle prouesse à grande échelle, et non seulement dans son jardin, encore faut-il que le changement dépende de quelque chose de suffisamment simple, d’accessible, d’économique… pour que quiconque puisse agir.
 
 Gandhi nous a offert la non-violence. Dans sa nouvelle [*L’homme qui plantait des arbres*](http://blog.tcrouzet.com/2010/07/28/le-petit-livre-de-la-revolution/), Giono nous a proposé de planter des arbres pour altérer le climat. La fiction devient depuis réalité avec [The Great Green Wall](http://en.wikipedia.org/wiki/Great_Green_Wall) ou avec [Allan Savory qui crée des pièges à carbone naturel](http://permaculturenews.org/2013/05/17/allan-savory-reversing-global-warming-while-meeting-human-needs-videos/).
 

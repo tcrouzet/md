@@ -1,6 +1,6 @@
 # Capitalisme et marxisme, même combat
 
-Avec l’équipe de [L’expérience inédite](http://blog.tcrouzet.com/tune-caniveau/experience-inedite), nous avons publié la version 2 de [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau). Dans cette version augmentée, je défends l’idée que le capitalisme et le marxisme se ressemblent et que nous devons fuir également les deux systèmes.<span id="more-20655"></span>
+Avec l’équipe de [L’expérience inédite](http://blog.tcrouzet.com/tune-caniveau/experience-inedite), nous avons publié la version 2 de [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau). Dans cette version augmentée, je défends l’idée que le capitalisme et le marxisme se ressemblent et que nous devons fuir également les deux systèmes.
 
 ### Capitalisme vs marxisme
 

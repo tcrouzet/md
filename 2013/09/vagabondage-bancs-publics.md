@@ -1,6 +1,6 @@
 # Bancs publics
 
-Poussés par le mistral, les nuages dégoulinent des sommets noirs du haut Languedoc vers les vignes de la plaine biterroise. Pour les observer, je me gare dans un village agrippé à une proéminence sans ampleur. Maisons aux murs cimentés, quelques volets bleus, le plus souvent gris comme la pierre des murets de soutènement qui montent, descendent, s'entrecroisent en un enchevêtrement moyenâgeux, réjoui par des alignements d'acacias dont les feuilles vives se piquent de rouille.<span id="more-33462"></span>
+Poussés par le mistral, les nuages dégoulinent des sommets noirs du haut Languedoc vers les vignes de la plaine biterroise. Pour les observer, je me gare dans un village agrippé à une proéminence sans ampleur. Maisons aux murs cimentés, quelques volets bleus, le plus souvent gris comme la pierre des murets de soutènement qui montent, descendent, s'entrecroisent en un enchevêtrement moyenâgeux, réjoui par des alignements d'acacias dont les feuilles vives se piquent de rouille.
 
 D'une maison coquette sise près de l'église s'élève une messe de Bach. Un chœur de femmes répond aux risées qui secouent les feuillages. Des corbeaux croassent entre les ogives du clocher. Une femme vient jeter ses papiers et emballages dans les poubelles de recyclage. Elles ont envahi nos villages de leur plastique jaune, bleu ou vert, symbole sans cesse changeant de tel ou tel détritus. La poubelle comme signe de progrès. La merde concentrée, cantonnée, près d'une jardinière fleurie de géraniums.
 

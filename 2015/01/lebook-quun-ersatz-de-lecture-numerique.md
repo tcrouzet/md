@@ -1,6 +1,6 @@
 # L’ebook, qu’un ersatz de lecture numérique
 
-Que ce titre ne me fasse pas passer pour un inconditionnel du papier. J’y ai quasiment renoncé depuis 2007, date de l’achat de ma première liseuse, une Sony PRS 500. Je suis aujourd’hui un indécrottable du Kindle (ne me dites pas qu’Amazon est le grand méchant parce que je vais vous en sortir une longue liste de méchants avec lesquels vous êtes sans doute acoquinés).<span id="more-38699"></span>
+Que ce titre ne me fasse pas passer pour un inconditionnel du papier. J’y ai quasiment renoncé depuis 2007, date de l’achat de ma première liseuse, une Sony PRS 500. Je suis aujourd’hui un indécrottable du Kindle (ne me dites pas qu’Amazon est le grand méchant parce que je vais vous en sortir une longue liste de méchants avec lesquels vous êtes sans doute acoquinés).
 
 Mais quelque chose me chagrine. Par l’intermédiaire d’une recommandation sociale, je suis tombé sur [un article du New York Times](http://www.nytimes.com/2014/08/14/arts/reading-literature-on-screen-a-price-for-convenience.html?) évoquant une étude selon laquelle on lirait moins bien sur Kindle que sur papier. J’ai alors repensé à la même étude [commentée avec plus de discernement par Hubert Guillaud](http://lafeuille.blog.lemonde.fr/2014/09/12/non-on-ne-memorise-pas-moins-bien-sur-kindle-que-sur-papier/). Conclusion : un seul handicap à la liseuse, on perçoit moins bien l’épaisseur d’un texte, on s’y repère avec moins de précision.
 
@@ -16,6 +16,8 @@ Tournons-nous les pages sur le Web ? Non. Nous déroulons de haut en bas, selon
 
 ![Un rotulus d'avant le Web.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/rotulus.jpg)
 
+Un rotulus d'avant le Web.
+
 Quand je déroule un texte sur le Web, même très long, je n’éprouve aucune difficulté, il me semble, à retrouver un passage déjà lu. Je le situe dans la hauteur de la page avec autant de facilité que dans l’épaisseur d’un livre (impression à confirmer ou infirmer par des études). Alors pourquoi pousser dans le monde numérique la vieille métaphore du livre ? Ne sommes nous pas trahis par nos vieilles habitudes ?
 
 Pourquoi ne pas tout simplement dérouler nos ebooks dans la hauteur plutôt que nous obstiner à tourner des pages imaginaires ? Pas étonnant que, dans ce cas, les études trouvent des avantages au papier, lui tout à sa métaphore, sans compromis. Mais à comparer, autant comparer ce qui est comparable. Faire lire un texte en mode livre ou en mode rotulus numérique. Et mesurer deux métaphores différentes plutôt que comparer le livre et une piètre imitation du livre.
@@ -29,6 +31,8 @@ Il me semble urgent que nos systèmes de lecture offrent les deux métaphores de
 *PS : Durant les fêtes, j’ai initié mes enfants et leurs cousins à* Donjons &amp; Dragons. *Plutôt que repartir sur mon viel AD&amp;D des années 1980, j’ai décidé de plonger dans la nouvelle édition. J’ai téléchargé la boîte de base. J’ai vite compris qu’avec mon iPad, ça ne le ferait pas. J’ai dû courir acheter les livres, sinon c’est injouable. Preuve s’il en fallait que la métaphore du livre n’est pas tout à fait morte pour certains usages (je dis bien certains usages).*
 
 ![Mon D&D V5 déjà corné. ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/dd.jpg)
+
+Mon D&amp;D V5 déjà corné.
 
 
 

@@ -1,6 +1,6 @@
 # Sarkozy dira-t-il oui débat sur internet ?
 
-*Note : [ce papier reprend les posts précédents pour Agoravox](http://www.agoravox.fr/article.php3?id_article=21892).* <span id="more-420"></span>
+*Note : [ce papier reprend les posts précédents pour Agoravox](http://www.agoravox.fr/article.php3?id_article=21892).* 
 
 Comment organiser sur le web un grand débat entre les 12 candidats à la présidentielle 2007 ? Si nous trouvons une formule, si nous la mettons sur pied dans les heures qui arrivent, ce sera une première historique.
 
@@ -13,8 +13,6 @@ Il est important de noter que l’initiative citoyenne a précédé l’initiati
 Immédiatement, beaucoup de gens se trouvent séduits par l’idée et les mails commencent à fuser. À 16 heures, Carlo Revelli publie [un article où il explique sa démarche](http://www.agoravox.fr/article.php3?id_article=21843). Tous les acteurs de cette aventure, blogueurs, journalistes et médias sont répertoriés sur ce [nouveau site dans le but de fédérer l’opération](http://debat.agoravox.fr).
 
 Pour le moment, François Bayrou, Ségolène Royal et Jean-Marie Le Pen ont accepté de débattre. [Nicolas Sarkozy a refusé dans un premier temps](http://fr.news.yahoo.com/03042007/5/sarkozy-oppose-une-fin-de-non-recevoir-la-demande-de.html) parce qu’il trouvait le débat à quatre trop réducteur et méprisant pour les huit autres. Mais il n’a pas fermé la porte.
-
-**Avant d’aller plus loin**
 
 Il faut maintenant s’entendre sur une formule pour le grand débat. Il devrait respecter au moins quatre règles (liste non exhaustive à compléter dans les commentaires) :
 

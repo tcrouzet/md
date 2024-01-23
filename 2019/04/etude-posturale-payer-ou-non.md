@@ -39,10 +39,8 @@ Autre conseil judicieux de John : [sur un vélo de course ou gravel, aligner l�
 Sur mon gravel, j’ai abouti un fore-aft de 100 mm et une hauteur de 75 cm. Je me sentais mieux, même si ce n’était pas encore parfait. J'ai transposé ces réglages sur le VTT rigide que j'utilise pour le bikepacking. J'ai enchaîné deux raids sans autre problème qu'une irritation à la fesse gauche, assez gênante pour me dire qu'il était temps de consulter un spécialiste. Au cours d’une balade, un copain m’a conseillé de contacter [Dwayne Adams](https://www.instagram.com/citybikesdwayne/), selon lui le meilleur bike fitter de Miami. J’ai donc pris rendez-vous avec lui.
 
 La séance a duré trois bonnes heures.
-
-**Étape 1** Dwayne m’a interrogé sur ma pratique et mon but (le confort avant tout). Puis, il a étudié mon corps, ma souplesse, il a mesuré mon entrejambe (inseam), ma distance entre ischions. Il en a déduit que j’étais dans la moyenne, donc du genre client simple.
-
-**Étape 2** Dwayne a observé mes pieds, constatant que j’étais pronateur, ce qui parfois exige des semelles sur mesure. Il a évalué l’angle de l’articulation de mon pied par rapport à l’axe du pied. En théorie, pour un maximum de puissance, l’axe de la pédale coupe l’articulation en son milieu. Chez moi, l’angle est faible. Verticalement, entre l’articulation du gros orteil et celle du petit orteil (entre les deux bosses latérales), il n’y a qu’un centimètre. Les clips sous les pédales devront donc être reculés de 5 mm par rapport à l’articulation du gros orteil. [Dwayne a utilisé le kit TP1 d’Ergon pour ajuster les cales](http://www.ergon-bike.com/en/product.html?a=bikefitting&w=mountain#tp-series) (sachant que les miennes étaient quasiment bien réglées).
+ Dwayne m’a interrogé sur ma pratique et mon but (le confort avant tout). Puis, il a étudié mon corps, ma souplesse, il a mesuré mon entrejambe (inseam), ma distance entre ischions. Il en a déduit que j’étais dans la moyenne, donc du genre client simple.
+ Dwayne a observé mes pieds, constatant que j’étais pronateur, ce qui parfois exige des semelles sur mesure. Il a évalué l’angle de l’articulation de mon pied par rapport à l’axe du pied. En théorie, pour un maximum de puissance, l’axe de la pédale coupe l’articulation en son milieu. Chez moi, l’angle est faible. Verticalement, entre l’articulation du gros orteil et celle du petit orteil (entre les deux bosses latérales), il n’y a qu’un centimètre. Les clips sous les pédales devront donc être reculés de 5 mm par rapport à l’articulation du gros orteil. [Dwayne a utilisé le kit TP1 d’Ergon pour ajuster les cales](http://www.ergon-bike.com/en/product.html?a=bikefitting&w=mountain#tp-series) (sachant que les miennes étaient quasiment bien réglées).
 
 ![Réglage des cales](https://tcrouzet.com/images_tc/2019/04/pedalforeaft.jpg)
 
@@ -51,54 +49,41 @@ Dans l’idéal, un bike fitter doit disposer de semelles avec des capteurs de p
 Reste que j'ai trouvé Dwayne très sûr de lui sur ce coup. John répète qu'il n'existe pas de réglage standard. [En cas de tension au mollet ou au tendon d’Achille, on doit reculer la cale vers le talon. En cas de douleur à la voûte plantaire, on doit au contraire l'avancer.](https://blog.bikefit.com/how-to-fit-a-road-bicycle/) Dwayne m'a positionné au milieu, ce qui serait judicieux dans le cas d'un client standard. Après quelques sorties, j'ai dû revenir sur ce réglage, à cause d'une sensation désagréable au tendon d'Achille. Avec 3 ou 4 millimètres de plus en arrière, je m'en suis trouvé bien mieux (comme quoi la théorie, ça ne vaut pas grand chose).
 
 ![Sur mon vélo virtuel](https://tcrouzet.com/images_tc/2019/04/citybikesdwayne_1555500651_3-1200x1200.jpg)
-
-**Étape 3** Dwayne a recréé mon vélo sur son simulateur Trek et j'ai commencé à pédaler, sur l'œil de deux caméras.
-
-**Étape 4** Tout en me filmant en slow motion, Dwayne a progressivement ajusté la hauteur et la position de la selle, jusqu'à ce que tous les paramètres évalués soient dans le vert.
+ Dwayne a recréé mon vélo sur son simulateur Trek et j'ai commencé à pédaler, sur l'œil de deux caméras.
+ Tout en me filmant en slow motion, Dwayne a progressivement ajusté la hauteur et la position de la selle, jusqu'à ce que tous les paramètres évalués soient dans le vert.
 
 ![Extension maximale](https://tcrouzet.com/images_tc/2019/04/extensionmax.jpg)
-
-**Paramètre 1 : Extension maximale** Comme je l'avais fait en suivant les conseils de John, Dwayne a évalué mon extension maximale (34,3°). Fourchette acceptable selon Trek : 30-40°, donc différente des 34-48° postulés par John (ce qui nous prouve que les études posturales n'ont rien de scientifique et dépendent avant tout du bike fitter).
+ Comme je l'avais fait en suivant les conseils de John, Dwayne a évalué mon extension maximale (34,3°). Fourchette acceptable selon Trek : 30-40°, donc différente des 34-48° postulés par John (ce qui nous prouve que les études posturales n'ont rien de scientifique et dépendent avant tout du bike fitter).
 
 ![KOPS](https://tcrouzet.com/images_tc/2019/04/kops.jpg)
-
-**Paramètre 2 : KOPS (Knee Over Pedal Spindle)** C'est la position du genou par rapport à l'axe de la pédale quand la pédale est à 3 heures, sensée être dans une fourchette de +/- 2 cm pour un cycliste standard (la méthode du fil à plomb est dépassée).
+ C'est la position du genou par rapport à l'axe de la pédale quand la pédale est à 3 heures, sensée être dans une fourchette de +/- 2 cm pour un cycliste standard (la méthode du fil à plomb est dépassée).
 
 ![BMR](https://tcrouzet.com/images_tc/2019/04/bmr.jpg)
-
-**Paramètre 3 : BMR (Body Mass Representation)** Pédale à 6 heures, nous avons vérifié que ma masse est centrée sur le pédalier. Fourchette : 0 +7-2 cm.
+ Pédale à 6 heures, nous avons vérifié que ma masse est centrée sur le pédalier. Fourchette : 0 +7-2 cm.
 
 ![Angle minimal du genou](https://tcrouzet.com/images_tc/2019/04/custombis-600x450.jpg)
-
-**Paramètre 4 : genou plié** Dwayne ne mesure pas l'angle minimal de mon genou plié de la même façon que John. J'ai ajusté cette mesure a posteriori. J'aboutis à un angle élevé de 71°, mais il faut savoir que cet angle continue à baisser quand la pédale dépasse les 12 heures. Sur la capture vidéo, il faut chercher un peu plus loin le point de flexion maximal, qui alors ne doit pas être loin des 65°.
+ Dwayne ne mesure pas l'angle minimal de mon genou plié de la même façon que John. J'ai ajusté cette mesure a posteriori. J'aboutis à un angle élevé de 71°, mais il faut savoir que cet angle continue à baisser quand la pédale dépasse les 12 heures. Sur la capture vidéo, il faut chercher un peu plus loin le point de flexion maximal, qui alors ne doit pas être loin des 65°.
 
 ![Genou plié et angle pied](https://tcrouzet.com/images_tc/2019/04/dw1-1600x1192.jpg)
-
-**Paramètre 5 : ankling** Nous avons vérifié l'angle de mon pied, pédale à 9 heures. Je suis à la limite supérieure de la fourchette attendue, entre 5° et 30°.
+ Nous avons vérifié l'angle de mon pied, pédale à 9 heures. Je suis à la limite supérieure de la fourchette attendue, entre 5° et 30°.
 
 ![Coudes](https://tcrouzet.com/images_tc/2019/04/elbow.jpg)
-
-**Paramètre 6 : coudes** Les bras doivent être légèrement fléchis pour plus de confort, entre 15° et 25°. Avec 34°, je suis très très confortable.
+ Les bras doivent être légèrement fléchis pour plus de confort, entre 15° et 25°. Avec 34°, je suis très très confortable.
 
 ![Épaules](https://tcrouzet.com/images_tc/2019/04/epaules.jpg)
-
-**Paramètre 7 : épaules** Par soucis de confort, je suis légèrement hors fourchette, 90-120°.
+ Par soucis de confort, je suis légèrement hors fourchette, 90-120°.
 
 ![Torse](https://tcrouzet.com/images_tc/2019/04/torse.jpg)
-
-**Paramètre 8 : torse** Toujours selon Trek, il doit être incliné entre 20° et 55° (angle mesuré entre l'articulation de la hanche et le lobe de l'oreille).
+ Toujours selon Trek, il doit être incliné entre 20° et 55° (angle mesuré entre l'articulation de la hanche et le lobe de l'oreille).
 
 ![Trajectoires des genoux](https://tcrouzet.com/images_tc/2019/04/face.jpg)
-
-**Paramètre 9 : trajectoires des genoux** Plus ils filent droit, mieux c'est, mais Dwayne me dit qu'il a une fourchette de +/- 5 cm. Vu que je suis rectiligne à gauche et à peine excentré à droite, je n'aurais ni besoin d'ajuster la position de mes cales ni de porter des semelles sur mesure.
+ Plus ils filent droit, mieux c'est, mais Dwayne me dit qu'il a une fourchette de +/- 5 cm. Vu que je suis rectiligne à gauche et à peine excentré à droite, je n'aurais ni besoin d'ajuster la position de mes cales ni de porter des semelles sur mesure.
 
 ![Après étude posturale](https://tcrouzet.com/images_tc/2019/04/divergeafter-600x429.jpg)
-
-**Étape 5** Il est temps de reporter les nouveaux réglages sur mon vélo. Surprise : un seul paramètre a varié. Le fore-aft est passé de 100 mm à 85 mm, ce qui a entraîné une légère réduction de la distance entre le pédalier et le milieu de la selle. L'étude posturale a donc pratiquement confirmé ma propre étude maison.
+ Il est temps de reporter les nouveaux réglages sur mon vélo. Surprise : un seul paramètre a varié. Le fore-aft est passé de 100 mm à 85 mm, ce qui a entraîné une légère réduction de la distance entre le pédalier et le milieu de la selle. L'étude posturale a donc pratiquement confirmé ma propre étude maison.
 
 ![Etude de la selle](https://tcrouzet.com/images_tc/2019/04/citybikesdwayne_1555500651_1-450x450.jpg)
-
-**Étape 6** Il restait un point important à traiter : la selle. Dwayne a installé sur la mienne un capteur de pression, puis il m’a demandé de pédaler. Il a fait varier l'inclinaison jusqu'à minimiser les points de pression. Je suis arrivé avec un selle inclinée en avant de 7.6°, je suis reparti avec une selle horizontale. Dwayne m'a fait essayer une dizaine d'autres selles pour voir si l'une me convenait mieux. Sur toutes, des points de surpression sont apparus. J'ai donc gardé ma selle.
+ Il restait un point important à traiter : la selle. Dwayne a installé sur la mienne un capteur de pression, puis il m’a demandé de pédaler. Il a fait varier l'inclinaison jusqu'à minimiser les points de pression. Je suis arrivé avec un selle inclinée en avant de 7.6°, je suis reparti avec une selle horizontale. Dwayne m'a fait essayer une dizaine d'autres selles pour voir si l'une me convenait mieux. Sur toutes, des points de surpression sont apparus. J'ai donc gardé ma selle.
 
 Le lendemain, j'étais sur les *levees* avec mon gravel. J'avais l'impression d'avoir un nouveau vélo, alors qu'uniquement le fore-aft et l'inclinaison de la selle avaient changé. Résultat : absolument plus aucune douleur aux fesses. Dix jours plus tard, je ne peux que confirmer les choix de Dwayne. Côté genoux, c'est correct, sans plus (j'ai peut-être besoin d'un break pour reposer les tensions accumulées).
 

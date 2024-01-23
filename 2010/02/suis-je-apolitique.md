@@ -1,6 +1,6 @@
 # Avons-nous des valeurs ?
 
-Quelles sont mes valeurs ? Je ne suis pas sûr de savoir répondre à cette question et je suis d’autant plus intéressé par [les réponses que Raveline propose à ma place](http://raveline.posterous.com/le-silence-des-passions-i).<span id="more-14679"></span>
+Quelles sont mes valeurs ? Je ne suis pas sûr de savoir répondre à cette question et je suis d’autant plus intéressé par [les réponses que Raveline propose à ma place](http://raveline.posterous.com/le-silence-des-passions-i).
 
 Est-ce que je revendique la légèreté, la rapidité, l’exactitude, la visibilité, la multiplicité et la consistance, six valeurs qui en 1979 caractérisaient la modernité selon Calvino ?
 

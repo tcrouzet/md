@@ -1,6 +1,6 @@
 # Le Figaro à son tour victime de l&#8217;imposture
 
-Je ne devrais pas relever [une fois de plus](http://blog.tcrouzet.com/2010/07/15/quand-imposture-paye/), mais le panurgisme des journalistes est presque effrayant. Si j'en étais la victime positive, je ne relèverais peut-être pas, [quoi que pas si sûr](http://blog.tcrouzet.com/2010/01/01/etat-spolie-les-blogueurs-le-remake/). On peut lire dans un article de Margaux Bergey [publié dans *Le Figaro*](http://www.lefigaro.fr/sciences-technologies/2010/07/21/01030-20100721ARTFIG00351-de-nouvelles-experiences-litteraires-sur-support-digital.php) :<span id="more-17965"></span>
+Je ne devrais pas relever [une fois de plus](http://blog.tcrouzet.com/2010/07/15/quand-imposture-paye/), mais le panurgisme des journalistes est presque effrayant. Si j'en étais la victime positive, je ne relèverais peut-être pas, [quoi que pas si sûr](http://blog.tcrouzet.com/2010/01/01/etat-spolie-les-blogueurs-le-remake/). On peut lire dans un article de Margaux Bergey [publié dans *Le Figaro*](http://www.lefigaro.fr/sciences-technologies/2010/07/21/01030-20100721ARTFIG00351-de-nouvelles-experiences-litteraires-sur-support-digital.php) :
 
 > *The French Revolution* devient le premier roman intégralement publié sur le site de micro-blogging à prendre la forme d'un objet papier à glisser dans sa bibliothèque.
 

@@ -2,8 +2,6 @@
 
 > Nous ne sommes pas adultes, [dit le professeur Iriki](http://www.newscientist.com/article/mg20026772.100-tools-maketh-the-monkey.html). Nous ne sommes qu’au milieu de notre évolution. Nous nous préparons à connaître un nouveau stade de notre développement. Jadis l’esprit émergea dans nos cerveaux. Qu’est-ce qui émerge en ce moment même ?
 
-<span id="more-21753"></span>
-
 Mais pourquoi Iriki est-il aussi optimiste ou présomptueux ? L’homme n’est-il pas à l’image de Dieu ? La perfection dans la création. Et si l’homme évolue encore, c’est soit que Dieu évolue aussi, soit que le postulat religieux n’a pas de sens.
 
 Iriki fait l’hypothèse que, il y a 2 millions d’années, suite à l’usage des outils, les cerveaux des premiers hominidés se seraient brusquement modifiés, déclenchant l’évolution à l’origine de nos fantastiques capacités intellectuelles. C’est parce que nous sommes des *homo habilis*, des hommes habiles, que nous aurions commencé à penser.

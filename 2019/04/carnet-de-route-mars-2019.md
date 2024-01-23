@@ -4,7 +4,7 @@
 
 ### Samedi 2, Weston
 
-Nous allons voir *Dragon 3* avec les enfants. Tim est déjà trop grand, ça marche encore pour Émile. Ce film comme bien d’autres de sa catégorie porte des valeurs rétrogrades : la royauté, la hiérarchie, l’obéissance et l’amour comme totem unificateur. Pas ainsi que nous fabriquerons une génération audacieuse et capable de régler nos problèmes. Tous les signaux pointent vers la décadence, comme en Alexandrie : une science prospère et une morale déplorable.<span id="more-51260"></span>
+Nous allons voir *Dragon 3* avec les enfants. Tim est déjà trop grand, ça marche encore pour Émile. Ce film comme bien d’autres de sa catégorie porte des valeurs rétrogrades : la royauté, la hiérarchie, l’obéissance et l’amour comme totem unificateur. Pas ainsi que nous fabriquerons une génération audacieuse et capable de régler nos problèmes. Tous les signaux pointent vers la décadence, comme en Alexandrie : une science prospère et une morale déplorable.
 
 Difficile d’être positif, de penser initiation, dépassement, quand tout tire vers le bas, quand ceux qui président la fin du monde et se complaisent dans la déprime emportent toutes les palmes.
 

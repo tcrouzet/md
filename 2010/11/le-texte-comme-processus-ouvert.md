@@ -1,6 +1,6 @@
 # Le texte comme processus ouvert
 
-Un texte est-il un jour terminé ? Que serait devenue *La recherche du temps perdu* si Proust avait vécu plus longtemps ? Montaigne n’a jamais cessé de modifier et de compléter ses essais après leur parution. Aujourd’hui, nous nous référons à l’exemplaire de Bordeaux, jugeant les adjonctions ultérieures superflues. Mais existe-t-il un état idéal d’un texte ?<span id="more-20410"></span>
+Un texte est-il un jour terminé ? Que serait devenue *La recherche du temps perdu* si Proust avait vécu plus longtemps ? Montaigne n’a jamais cessé de modifier et de compléter ses essais après leur parution. Aujourd’hui, nous nous référons à l’exemplaire de Bordeaux, jugeant les adjonctions ultérieures superflues. Mais existe-t-il un état idéal d’un texte ?
 
 Je ne le crois pas. Un texte est fait pour vivre, au gré des humeurs de l’auteur et des commentateurs. Il ne se fige que quand plus personne n’est capable de le porter plus loin. Ainsi *L’Iliade* et *L’Odyssée* finirent par se stabiliser.
 

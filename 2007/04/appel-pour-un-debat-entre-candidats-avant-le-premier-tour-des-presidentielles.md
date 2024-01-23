@@ -1,6 +1,6 @@
 # Appel pour un débat entre candidats avant le premier tour de la présidentielle
 
-À quelques jours du premier tour de l’élection présidentielle, un fort intérêt pour la politique se mêle à une terrible impression de confusion, une très grande majorité des Français souhaite un débat du premier tour entre les <strike>principaux</strike> candidats.<span id="more-423"></span>
+À quelques jours du premier tour de l’élection présidentielle, un fort intérêt pour la politique se mêle à une terrible impression de confusion, une très grande majorité des Français souhaite un débat du premier tour entre les principaux candidats.
 
 Nous, blogueurs et médias en ligne, réaffirmons notre volonté qu’un tel Grand Débat voit le jour. Le Web permettrait une interaction entre les candidats à la présidentielle et les internautes qu’aucun média ne peut actuellement proposer.
 

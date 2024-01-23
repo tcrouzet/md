@@ -1,6 +1,6 @@
 # La SF souffre d’embonpoint
 
-Je parle de la SF que je lis aujourd’hui, à petite dose il est vrai, chaque fois qu’un ami me donne un conseil. Je vais même restreindre ma critique à mes deux dernières lectures, Robert Charles Wilson et sa trilogie [*Spin*](http://fr.wikipedia.org/wiki/Spin_(roman)), Alastair Reynolds et [*Janus*](http://fr.wikipedia.org/wiki/Janus_(roman)).<span id="more-34719"></span>
+Je parle de la SF que je lis aujourd’hui, à petite dose il est vrai, chaque fois qu’un ami me donne un conseil. Je vais même restreindre ma critique à mes deux dernières lectures, Robert Charles Wilson et sa trilogie [*Spin*](http://fr.wikipedia.org/wiki/Spin_(roman)), Alastair Reynolds et [*Janus*](http://fr.wikipedia.org/wiki/Janus_(roman)).
 
 On est dans la hard SF que j’adorais adolescent, celle des grands de l’âge d’or, je pense notamment à Arthur C. Clarke. On a souvent reproché à ce dernier de tailler ses personnages à grands coups de serpette et de ne pas trop se préoccuper du réalisme psychologique. C’est pour cette raison qu’il reste moderne à mes yeux.
 

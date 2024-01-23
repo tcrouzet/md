@@ -1,6 +1,6 @@
 # Les blogs meurent, vive nos blogs
 
-Tous les matins, [François Bon](http://tierslivre.net) constate que [que son Netvibes est désespérément vide](http://twitter.com/fbon/statuses/14286950636), ce qui implique que les blogueurs publient de moins en moins. Je n’aurais pas pu faire le même constat vu que je ne consulte pratiquement jamais mon agrégateur, préférant dérouler le fil de ma pensée, la suivre de lien en lien, sans aucun passage obligé (et donc, je ne vais que là ou mes pas me mènent, ils ne peuvent me montrer les vides, les manques, les béances…).<span id="more-16634"></span>
+Tous les matins, [François Bon](http://tierslivre.net) constate que [que son Netvibes est désespérément vide](http://twitter.com/fbon/statuses/14286950636), ce qui implique que les blogueurs publient de moins en moins. Je n’aurais pas pu faire le même constat vu que je ne consulte pratiquement jamais mon agrégateur, préférant dérouler le fil de ma pensée, la suivre de lien en lien, sans aucun passage obligé (et donc, je ne vais que là ou mes pas me mènent, ils ne peuvent me montrer les vides, les manques, les béances…).
 
 Est-ce de ma faute, et de la faute de tous ceux qui m’imitent, si la blogosphère s’assèche ? Ce serait un peu simpliste comme analyse. Mais, au moins, on peut s’entendre sur ce constat d’un assèchement. [Je me faisais déjà cette remarque en 2007.](http://blog.tcrouzet.com/2007/09/05/le-blog-est-mort-vive-le-blog/) La tendance se confirme.
 

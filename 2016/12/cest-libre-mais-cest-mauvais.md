@@ -1,6 +1,6 @@
 # C’est libre mais c’est mauvais
 
-[Aurélien Grosdidier](https://twitter.com/Alatitude77) m’a pointé vers [un article fort intéressant](https://www.gnu.org/philosophy/when-free-software-isnt-practically-superior.html) au sujet de la différence entre un logiciel open source et un logiciel libre.<span id="more-44533"></span>
+[Aurélien Grosdidier](https://twitter.com/Alatitude77) m’a pointé vers [un article fort intéressant](https://www.gnu.org/philosophy/when-free-software-isnt-practically-superior.html) au sujet de la différence entre un logiciel open source et un logiciel libre.
 
 Dans les deux cas, le code est ouvert, accessible, modifiable. Pour les promoteurs de l’open source, cette ouverture impliquerait la collaboration de plusieurs développeurs, la plus grande résilience du code ainsi que sa qualité. Benjamin Mako Hill, l’auteur de l’article, relève qu’en pratique la plupart des logiciels open source ne sont l’œuvre que d’une personne, qu’ils sont bugués et pas nécessairement supérieurs aux logiciels privatifs. Voilà pourquoi, selon lui, il ne faut pas se revendiquer de l’open source.
 

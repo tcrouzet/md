@@ -1,6 +1,6 @@
 # Le mensonge chinois
 
-Je me suis réveillé à cinq heures du matin avec cet article en tête. Je me suis dit non, arrête de penser à tout ça, tu te fais du mal, mais, comme je ne retrouvais pas le sommeil, je me suis mis à écrire, avec une certaine angoisse, pas envie de croire à mes propres mots.<span id="more-53878"></span>
+Je me suis réveillé à cinq heures du matin avec cet article en tête. Je me suis dit non, arrête de penser à tout ça, tu te fais du mal, mais, comme je ne retrouvais pas le sommeil, je me suis mis à écrire, avec une certaine angoisse, pas envie de croire à mes propres mots.
 
 Pour être plus précis, je devrais titrer « le mensonge du gouvernement chinois », car dans cette histoire les Chinois eux-mêmes sont les premières victimes, comme sont victimes tous les citoyens des régimes autoritaires et totalitaires.
 

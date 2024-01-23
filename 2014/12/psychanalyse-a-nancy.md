@@ -32,6 +32,8 @@ Que conclure après une heure au café ? Que tout va bien ou que l’effondreme
 
 ![Tentation dans une vitrine de Nancy.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/12/tentation1.jpg)
 
+Tentation dans une vitrine de Nancy.
+
 
 
 Tags: une, vagabondage

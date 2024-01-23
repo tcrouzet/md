@@ -1,6 +1,6 @@
 # Une traversée de la France sud à VTT
 
-Quand je conçois une trace, je suis une sorte de compositeur qui ne sait pas à quel rythme sa partition sera jouée, ni avec quels instruments, ni si les concertistes interpréteront l’œuvre de bout en bout ou en sauteront des parties, voire en remplaceront certaines par des raccourcis moins techniques. Une trace est une proposition, une invitation à s’en amuser, un scénario pour une aventure à vélo. En aucun cas, elle ne ressemble à un roman qu’il faudrait lire du début à la fin avec une exactitude minutieuse (à vélo ceci s’appelle une course et cette sorte de dictature m’intéresse peu — même en littérature je prends des libertés).<span id="more-52145"></span>
+Quand je conçois une trace, je suis une sorte de compositeur qui ne sait pas à quel rythme sa partition sera jouée, ni avec quels instruments, ni si les concertistes interpréteront l’œuvre de bout en bout ou en sauteront des parties, voire en remplaceront certaines par des raccourcis moins techniques. Une trace est une proposition, une invitation à s’en amuser, un scénario pour une aventure à vélo. En aucun cas, elle ne ressemble à un roman qu’il faudrait lire du début à la fin avec une exactitude minutieuse (à vélo ceci s’appelle une course et cette sorte de dictature m’intéresse peu — même en littérature je prends des libertés).
 
 ![Trace originale](https://tcrouzet.com/images_tc/2019/08/traceorg-600x356.jpg)
 

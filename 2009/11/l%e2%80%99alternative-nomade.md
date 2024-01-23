@@ -1,6 +1,6 @@
 # L’alternative nomade
 
-Notre monde va mal à cause de la surconsommation. Est-elle une fatalité ? Non. Les Aborigènes ont toujours cherché à prendre le moins possible à la terre pour avoir à lui rendre le moins possible (je détaille dans mon prochain livre). Ils faisaient déjà du développement durable à leur façon. Tout cela juste pour dire que le consumérisme n’est pas encodé en nous mais qu’il est un fait culturel, donc qu’il est possible de le dépasser sans triturer notre ADN.<span id="more-12049"></span>
+Notre monde va mal à cause de la surconsommation. Est-elle une fatalité ? Non. Les Aborigènes ont toujours cherché à prendre le moins possible à la terre pour avoir à lui rendre le moins possible (je détaille dans mon prochain livre). Ils faisaient déjà du développement durable à leur façon. Tout cela juste pour dire que le consumérisme n’est pas encodé en nous mais qu’il est un fait culturel, donc qu’il est possible de le dépasser sans triturer notre ADN.
 
 René Girard, dont je vais finir par devenir un expert grâce [aux piqures de rappel de 000](http://blog.tcrouzet.com/2009/10/19/dans-la-peau-de-finkielkraut/comment-page-2/#comment-71482), a réfléchi sur le désir mimétique, ce désir d’imiter l’autre. Est-ce un désir ? C’est surtout une nécessité (en partie inscrire dans notre cerveau). Tout être complexe ne peut naître achevé. Il doit apprendre, l’imitation est une très bonne technique d’apprentissage qu’a su découvrir l’évolution. On la retrouve chez certains singes, certains oiseaux, les dauphins… et chez nous bien sûr.
 

@@ -1,6 +1,6 @@
 # Le goût des frontières et d&#8217;internet
 
-Quand je suis arrivé à Paris, j’ai commencé par visiter les parcs. Toutes mes déambulations devaient inclure un bout de verdure. Dès que je débarque dans une ville que je ne connais pas ou mal, je succombe à la même tentation. Mon premier séjour à Lyon s’est soldé par une fin d’après-midi à la Tête d’or.<span id="more-37858"></span>
+Quand je suis arrivé à Paris, j’ai commencé par visiter les parcs. Toutes mes déambulations devaient inclure un bout de verdure. Dès que je débarque dans une ville que je ne connais pas ou mal, je succombe à la même tentation. Mon premier séjour à Lyon s’est soldé par une fin d’après-midi à la Tête d’or.
 
 Je ne sais pas trop ce qui m’attire vers les parcs, peut-être ce qui m’éloigne des rues, trop commerçantes, trop bruyantes, trop uniformes. Ou c’est de retrouver des citadins détendus, ces filles allongées le ventre à l’air, ces joggers intoxiqués aux gaz d’échappement, ces enfants excités par l’espace disproportionné.
 

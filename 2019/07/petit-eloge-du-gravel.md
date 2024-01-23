@@ -1,6 +1,6 @@
 # Petit éloge du gravel
 
-Gandhi disait « Soyez le changement que voulez voir dans le monde. » Nous autres cyclistes pouvons soit espérer que les automobilistes se comporteront mieux avec nous, soit suivre le conseil de Gandhi et changer de façon de faire du vélo.<span id="more-51972"></span>
+Gandhi disait « Soyez le changement que voulez voir dans le monde. » Nous autres cyclistes pouvons soit espérer que les automobilistes se comporteront mieux avec nous, soit suivre le conseil de Gandhi et changer de façon de faire du vélo.
 
 Au début il y a la route, la route macadamisée je veux dire, sombre, imperméable, fruit de produits pétroliers, coûteuse, peu durable, une route qui est un non sens écologique, un des facteurs du réchauffement climatique au même titre que les voitures qui roulent dessus.
 

@@ -1,6 +1,6 @@
 # La décroissance passe par la croissance
 
-Canevas écrit en préparation de la conférence donnée à Villeneuve-d'Ascq, université Lille 3, à l'invitation des étudiants du [master GIDE de l'UFR IDIST](http://egide2011.jimdo.com/programme-de-la-journ%C3%A9e/). Je résume les grandes idées exposées dans [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/).<span id="more-21423"></span>
+Canevas écrit en préparation de la conférence donnée à Villeneuve-d'Ascq, université Lille 3, à l'invitation des étudiants du [master GIDE de l'UFR IDIST](http://egide2011.jimdo.com/programme-de-la-journ%C3%A9e/). Je résume les grandes idées exposées dans [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/).
 
 ### Les dangers du GPS
 

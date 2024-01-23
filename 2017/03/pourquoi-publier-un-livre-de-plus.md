@@ -1,6 +1,6 @@
 # Pourquoi publier un livre de plus ?
 
-Chaque fois que j’entre dans une librairie, j’ai un coup de déprime. Nous autres auteurs sommes fous, et nos éditeurs encore plus fous. Pourquoi mettre en vente tous ces livres que presque personne ne lira ? Pourquoi avoir une démarche commerciale pour des objets qui, la plupart du temps, n’ont aucune ambition commerciale ?<span id="more-45084"></span>
+Chaque fois que j’entre dans une librairie, j’ai un coup de déprime. Nous autres auteurs sommes fous, et nos éditeurs encore plus fous. Pourquoi mettre en vente tous ces livres que presque personne ne lira ? Pourquoi avoir une démarche commerciale pour des objets qui, la plupart du temps, n’ont aucune ambition commerciale ?
 
 Mon malaise est d’autant plus grand quand je m’apprête à polluer avec une de mes nouvelles productions ces étagères déjà saturées et ces présentoirs déjà éclatants. Et ne croyez pas que ce soit mieux quand nous diffusons gratuitement en ligne, ça participe à la même avalanche, au même ensevelissement général… Il est juste moins physiquement oppressant.
 

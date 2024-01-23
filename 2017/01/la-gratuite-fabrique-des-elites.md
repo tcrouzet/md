@@ -1,6 +1,6 @@
 # La gratuité fabrique des élites
 
-Je croyais que la gratuité, le coût marginal zéro, l'abondance, la libre copie et distribution étaient la meilleure façon de combattre le capitalisme, mais, au contraire, ne sont-ils pas en train de le nourrir ?<span id="more-44714"></span>
+Je croyais que la gratuité, le coût marginal zéro, l'abondance, la libre copie et distribution étaient la meilleure façon de combattre le capitalisme, mais, au contraire, ne sont-ils pas en train de le nourrir ?
 
 Voici comment j'en suis venu à cette prise de conscience. En 2014, lors d’un dîner entre auteurs et une responsable de la DRAC Languedoc-Roussillon, j’ai très vite été agacé, parce qu’autour de la table c’était pratiquement la seule à gagner sa vie grâce à la culture (et elle se permettait, bien sûr, de nous donner des leçons).
 

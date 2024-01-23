@@ -1,6 +1,6 @@
 # Système vulnérable
 
-Un dimanche de janvier 2008, le monde manqua s’arrêter et vous ne l’avez jamais su. Nous avons frôlé une crise planétaire comme si un météore avait manqué percuter la terre .<span id="more-22314"></span>
+Un dimanche de janvier 2008, le monde manqua s’arrêter et vous ne l’avez jamais su. Nous avons frôlé une crise planétaire comme si un météore avait manqué percuter la terre .
 
 Vous auriez pu être ruiné. Des centaines d’entreprises contraintes à la faillite. Des pays auraient pu déclarer l’état d’urgence. Internet aurait pu partir en fumée. La confiance que nous accordons aux systèmes électroniques aurait pu être détruite à jamais.
 

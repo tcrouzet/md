@@ -1,6 +1,6 @@
 # La carte du bikepacking en France
 
-Pendant que [je soignais mon col du fémur à l’automne 2019](https://tcrouzet.com/2019/08/28/un-auteur-se-fracture-le-femur-pour-faire-parler-de-lui/), j’ai commencé à compiler une [carte des itinéraires bikepacking en France](https://www.google.com/maps/d/u/0/edit?mid=1yhX8UbMwgdQmVS8TlahrtBmpcIwWLjAt&usp=sharing). Je me suis dit que je devrais reprendre ce travail avec votre collaboration.<span id="more-56076"></span>
+Pendant que [je soignais mon col du fémur à l’automne 2019](https://tcrouzet.com/2019/08/28/un-auteur-se-fracture-le-femur-pour-faire-parler-de-lui/), j’ai commencé à compiler une [carte des itinéraires bikepacking en France](https://www.google.com/maps/d/u/0/edit?mid=1yhX8UbMwgdQmVS8TlahrtBmpcIwWLjAt&usp=sharing). Je me suis dit que je devrais reprendre ce travail avec votre collaboration.
 
 L’idée est simple : on entrecroise sur une seule carte autant d’itinéraires que possible, ainsi que les liaisons entre eux. De quoi nous donner des envies et créer de nouvelles traces par copier-coller.
 

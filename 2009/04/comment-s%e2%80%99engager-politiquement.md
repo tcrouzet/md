@@ -4,7 +4,7 @@
 
 ![pyvsnet1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/04/pyvsnet1.gif)
 
-À quoi ressemble notre structure sociale ? Nous ne le saurons peut-être jamais, notamment parce qu’elle se transforme sans cesse. Nous pouvons en tout cas aujourd’hui nous la représenter de deux manières assez différentes, comme une pyramide ou comme un réseau. En fonction de la représentation choisie, la nature de l’engagement politique change du tout au tout.<span id="more-5751"></span>
+À quoi ressemble notre structure sociale ? Nous ne le saurons peut-être jamais, notamment parce qu’elle se transforme sans cesse. Nous pouvons en tout cas aujourd’hui nous la représenter de deux manières assez différentes, comme une pyramide ou comme un réseau. En fonction de la représentation choisie, la nature de l’engagement politique change du tout au tout.
 
 ### Cas de la pyramide
 

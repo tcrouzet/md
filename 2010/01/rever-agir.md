@@ -1,6 +1,6 @@
 # Tu peux rêver, j’ai droit d’agir
 
-J’ai souvent vu cité depuis dix jours [L’Éloge de la métamorphose](http://www.lemonde.fr/opinions/article/2010/01/09/eloge-de-la-metamorphose-par-edgar-morin_1289625_3232.html) de Morin et j’ai repensé à [la trilogie de Krakauer](http://blog.tcrouzet.com/2010/01/17/jon-krakauer-trilogie/). Nous n’aurions jamais connu ses héros s’ils n’étaient pas morts, parfois il se produit le contraire… par exemple pour Morin, nous n’aurions jamais autant entendu parler de lui s’il n’avait pas été en aussi bonne santé à 88 ans.<span id="more-13992"></span>
+J’ai souvent vu cité depuis dix jours [L’Éloge de la métamorphose](http://www.lemonde.fr/opinions/article/2010/01/09/eloge-de-la-metamorphose-par-edgar-morin_1289625_3232.html) de Morin et j’ai repensé à [la trilogie de Krakauer](http://blog.tcrouzet.com/2010/01/17/jon-krakauer-trilogie/). Nous n’aurions jamais connu ses héros s’ils n’étaient pas morts, parfois il se produit le contraire… par exemple pour Morin, nous n’aurions jamais autant entendu parler de lui s’il n’avait pas été en aussi bonne santé à 88 ans.
 
 Dans cet article Morin illustre la [Metasystem Transition Theory](http://pespmc1.vub.ac.be/MSTT.html) proposée par Valentin Turchin en 1977, année où sortait le premier tome de la *Méthode* qui ne l’évoque pas (si mes souvenirs sont bons). L’article est passionnant, je tire mon chapeau à Morin, même s’il n’est pas l’auteur de cette théorie.
 

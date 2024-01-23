@@ -1,6 +1,6 @@
 # Publier un roman n&#8217;est pas une prouesse
 
-Une illustration extraite de *Ça m’intéresse* a circulé ces derniers jours. Elle compare l’état de la lecture en 1988 et en 2015. Résultats a priori alarmants.<span id="more-41626"></span>
+Une illustration extraite de *Ça m’intéresse* a circulé ces derniers jours. Elle compare l’état de la lecture en 1988 et en 2015. Résultats a priori alarmants.
 
 ![On lit ou pas](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/liton1.jpg)
 

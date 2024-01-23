@@ -1,6 +1,6 @@
 # Une box pour propager la culture libre
 
-Les Chats Cosmiques présentent à l’occasion de [l’Open Bidouille Camp](http://obc.lesfabriquesduponant.net/) de Brest les 17 et 18 mai prochains une box de contenus libres (musiques, vidéos, livres…) à laquelle ils vont ajouter [*Le Geste qui Sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/). Ils m’ont posé quelques questions.<span id="more-35487"></span>
+Les Chats Cosmiques présentent à l’occasion de [l’Open Bidouille Camp](http://obc.lesfabriquesduponant.net/) de Brest les 17 et 18 mai prochains une box de contenus libres (musiques, vidéos, livres…) à laquelle ils vont ajouter [*Le Geste qui Sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/). Ils m’ont posé quelques questions.
 
 *— C’est qui Thierry Crouzet ?*
 

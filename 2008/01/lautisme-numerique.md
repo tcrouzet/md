@@ -1,6 +1,6 @@
 # L&#8217;autisme numérique
 
-Une année vient de se terminer, une autre commence, c’est l’occasion des vœux. Les miens passent par un chemin détourné.<span id="more-704"></span>
+Une année vient de se terminer, une autre commence, c’est l’occasion des vœux. Les miens passent par un chemin détourné.
 
 Lors de la discussion qui a suivi [mon article sur Michel Onfray](http://blog.tcrouzet.com/2007/12/28/michel-onfray-en-connecteur/), nous avons évoqué le changement radical qu’internet introduit dans le monde : l’horizontalité.
 

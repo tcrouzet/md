@@ -31,8 +31,6 @@ On approche du but. Prendre garde lors de la traversée de N113 au km95. La visi
 
 Cette trace exige sans cesse de relancer, on en prend plein les yeux, aussi plein les jambes. Ne surtout pas l’attaquer bille en tête, à moins d’être un costaud. Lorsque la chasse est ouverte, et même fermée, on risque de croiser des battues aux sangliers, mais on les croise en général dans les secteurs de pistes, donc avec une bonne visibilité. J’ai effectué plusieurs fois la trace en intégrale, avec des pneus de 42 et 45 mm. J’ai chaque fois terminé rincé.
 
-
-
 - [Trace de référence sur Google Map](https://www.google.com/maps/d/edit?mid=11XBTncWuFgk2TH4M_6UQ04VRtXpafZdW&usp=sharing). Carte avec points d'intérêt et variantes. Pour générer un GPX, exporter le calque "Trace Officielle" au format KML, puis [convertissez-le en GPX](https://www.gpsvisualizer.com/convert_input). Exportez et convertissez de même les POI, notamment les points d'eau.
 
 - [Trace UtagawavVTT](https://www.utagawavtt.com/randonnee-vtt-gps/Gravel-terres-rouges-36168) (mise à jour le 24/2/2022).

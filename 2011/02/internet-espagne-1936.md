@@ -1,6 +1,6 @@
 # Internet finira-t-il comme l’Espagne révolutionnaire&nbsp;?
 
-En m’intéressant à la seule expérience d’anarchie à grande échelle mise en œuvre au cours de l’Histoire, la Catalogne de 1936, j’ai noté des parallèles troublants avec l’histoire d’Internet et notre situation présente.<span id="more-21133"></span>
+En m’intéressant à la seule expérience d’anarchie à grande échelle mise en œuvre au cours de l’Histoire, la Catalogne de 1936, j’ai noté des parallèles troublants avec l’histoire d’Internet et notre situation présente.
 
 Dans *Le bref été de l’anarchie*, Hans Magnus Enzensberger nous raconte la vie de [Buenaventura Durruti](http://fr.wikipedia.org/wiki/Buenaventura_Durruti), le plus célèbre des anarchistes espagnols, mort le 20 novembre 1936.
 

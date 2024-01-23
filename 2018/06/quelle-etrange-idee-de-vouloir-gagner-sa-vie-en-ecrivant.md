@@ -1,6 +1,6 @@
 # Quelle étrange idée de vouloir gagner sa vie en écrivant
 
-Ne pas écrire, c’est ne pas vivre. Du moins pour un écrivain tel que je le conçois, ou plus précisément tel que je me conçois. J’écris pour vivre. Des écrivains disent qu’ils arrivent tout juste à survivre par l’écriture, ou que même ils n’y arrivent pas du tout. De quoi parlent-ils ?<span id="more-49375"></span>
+Ne pas écrire, c’est ne pas vivre. Du moins pour un écrivain tel que je le conçois, ou plus précisément tel que je me conçois. J’écris pour vivre. Des écrivains disent qu’ils arrivent tout juste à survivre par l’écriture, ou que même ils n’y arrivent pas du tout. De quoi parlent-ils ?
 
 J’écris pour sentir le monde, pour me sentir dans le monde, pour m’amplifier et amplifier mes perceptions, donc pour jouir. L’écriture est pour moi comme le télescope pour l’astronome, comme le microscope pour le biologiste ou le chimiste, comme l’accélérateur de particules pour le physicien. Elle m’aide à voir, à sonder, à respirer, à aimer, même les gens, oui, même les gens.
 

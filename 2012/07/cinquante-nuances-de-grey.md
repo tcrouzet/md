@@ -1,10 +1,10 @@
 # Cinquante nuances de Grey ou les limites des conseils littéraires
 
-Je ne résiste pas aux plaisirs. J’aime les auteurs qui réussissent à transmettre leurs recettes. J’admire leur lucidité car je suis bien incapable de les imiter. Dès que j’identifie un procédé, je tente de m’en débarrasser, eux, ils en font une loi de leur succès.<span id="more-26471"></span>
+Je ne résiste pas aux plaisirs. J’aime les auteurs qui réussissent à transmettre leurs recettes. J’admire leur lucidité car je suis bien incapable de les imiter. Dès que j’identifie un procédé, je tente de m’en débarrasser, eux, ils en font une loi de leur succès.
 
 Il y a quelques jours [je retwittais un article](http://www.writersdigest.com/whats-new/lee-child-debunks-the-biggest-writing-myths) où [Lee Child](http://www.leechild.com/) offrait quelques-uns de ses tuyaux d’auteur de thriller best-seller. Dès le début, il explique qu’il est ridicule de commencer un roman en montrant un personnage qui se regarder dans un miroir. Inutile d’utiliser un tel artifice. Si un personnage est grand, il faut le dire. C’est tout.
 
-Je trouvais ce conseil plutôt judicieux, allant dans le sens du minimalisme que j’apprécie. Quelques jours plus tard, au fil des suggestions sociales, je lis <a hrfe="http://www.theatlantic.com/entertainment/archive/2012/04/after-fifty-shades-of-grey-whats-next-for-self-publishing/255338/"> After 'Fifty Shades of Grey,' What's Next for Self-Publishing?</a>.
+Je trouvais ce conseil plutôt judicieux, allant dans le sens du minimalisme que j’apprécie. Quelques jours plus tard, au fil des suggestions sociales, je lis  After 'Fifty Shades of Grey,' What's Next for Self-Publishing?.
 
 Depuis quelques semaines, difficile de passer à côté de la trilogie sadomaso d’[EL James](http://www.eljamesauthor.com/), dont le premier tome autopublié a été vendu à plus de 31 millions d’exemplaires, ce qui fait de lui le livre le plus vendu de tous les temps dans sa version paperback. Mieux qu’*Harry Potter* en moins d’un an !
 

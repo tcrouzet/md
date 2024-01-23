@@ -1,6 +1,6 @@
 # Day One : je quitte Windows
 
-Je tourne en rond depuis des semaines. Cette hésitation vient avec la conscience accrue que l’outil influence mon écriture. En même temps, je ne sais plus trop où j’en suis avec mon art. Isabelle me dit que si je me pose autant de questions avant de la quitter, elle le verra venir.<span id="more-34077"></span>
+Je tourne en rond depuis des semaines. Cette hésitation vient avec la conscience accrue que l’outil influence mon écriture. En même temps, je ne sais plus trop où j’en suis avec mon art. Isabelle me dit que si je me pose autant de questions avant de la quitter, elle le verra venir.
 
 J’ai deux livres achevés pour l’année prochaine. Et après ? À quoi bon ? Je me demande le sens de tout cela. Parfois j’ai envie de fuir, de disparaître, de m’enterrer. Je sais que c’est un sentiment commun à tous les auteurs, surtout quand le succès commercial ne les a pas attachés à une routine.
 

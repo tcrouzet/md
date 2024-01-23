@@ -8,8 +8,6 @@
 
 ##### **papier 5.99 €** : [Amazon](https://www.amazon.fr/Ya-Basta-Thierry-Crouzet/dp/1532885067).
 
-
-
 Téléchargement direct en [epub](https://app.box.com/s/qxmgy1wnl9y3rbxjzrdmunqur2jflzic) ou [PDF](https://app.box.com/s/e28njz1lhp7gx4e2k3jqaw2b5tluom1z).
 
 En 2011, dans le monde arabe et partout ailleurs avec les indignés puis Occupy Wall Street, des mouvements contestataires s’auto-organisent : pas de leader, pas de parti, pas de décision centralisée… Cette nouvelle forme d’engagement est une réponse adéquate à nôtre état de crise, à condition que ses acteurs en perçoivent les mécanismes. Ce texte s’adresse à ceux qui seraient tentés de s’inspirer de leur insurrection pacifiste.
@@ -49,7 +47,6 @@ Sommaire en forme de chanson...
 - Y’en a marre de consommer stupidement
 
 - Y’en a marre de croire aveuglément
-
 
 [Interview autour de Ya Basta au moment des Gilets Jaunes](https://www.lokko.fr/2018/12/14/thierry-crouzet-les-gilets-jaunes-sont-en-train-de-devenir-un-mouvement-comme-un-autre/)
 

@@ -1,6 +1,6 @@
 # Cocorico en Italie
 
-Après quatre jours déconnecté, je découvre que [*La strategia del cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/) est dans le top 10 des ventes sur [bookrepublic.it](http://www.bookrepublic.it/). Devant moi, des auteurs que j’aime bien comme Taleb ou Anderson. J’ai envie de dire que les geeks sont les premiers à acheter des ebooks. Mais alors pourquoi Nothomb est-elle en pole position ?<span id="more-18393"></span>
+Après quatre jours déconnecté, je découvre que [*La strategia del cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/) est dans le top 10 des ventes sur [bookrepublic.it](http://www.bookrepublic.it/). Devant moi, des auteurs que j’aime bien comme Taleb ou Anderson. J’ai envie de dire que les geeks sont les premiers à acheter des ebooks. Mais alors pourquoi Nothomb est-elle en pole position ?
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/08/hit.png)
 

@@ -1,6 +1,6 @@
 # Pour la transparence tarifaire des épreuves bikepacking
 
-Au retour des États-Unis en 2019, je me suis étonné du prix prohibitif de certaines épreuves bikepacking françaises et je me suis attiré l’opprobre de certains organisateurs français (et certains de leurs bouledogues). Maintenant qu’à mon tour j’organise les [727](https://tcrouzet.com/727tour/), [i727](https://tcrouzet.com/i727) et [g727](https://tcrouzet.com/g727/), c’est l’occasion d’un peu de transparence.<span id="more-64925"></span>
+Au retour des États-Unis en 2019, je me suis étonné du prix prohibitif de certaines épreuves bikepacking françaises et je me suis attiré l’opprobre de certains organisateurs français (et certains de leurs bouledogues). Maintenant qu’à mon tour j’organise les [727](https://tcrouzet.com/727tour/), [i727](https://tcrouzet.com/i727) et [g727](https://tcrouzet.com/g727/), c’est l’occasion d’un peu de transparence.
 
 Depuis que nous sommes plus de quelques copains à rouler ces traces, je suis toujours passé par une association pour assurer la randonnée, ce qui a impliqué une participation d’une quinzaine d’euros pour chacun de nous.
 

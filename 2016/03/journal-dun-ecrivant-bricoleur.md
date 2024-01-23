@@ -1,6 +1,6 @@
 # Journal d’un écrivant bricoleur
 
-1/ Tout commence à Lyon. Dans un café, [François Bon](http://www.tierslivre.net/) me demande si j’ai un scan de *Bug*, un de mes petits livres faits main dont j’ai parlé lors du colloque [Internet est-il un cheval de Troie ?](http://tcrouzet.com/2016/03/10/limpossibilite-de-resister-au-numerique/) Pas de scan, mais je promets de faire ça.<span id="more-43652"></span>
+1/ Tout commence à Lyon. Dans un café, [François Bon](http://www.tierslivre.net/) me demande si j’ai un scan de *Bug*, un de mes petits livres faits main dont j’ai parlé lors du colloque [Internet est-il un cheval de Troie ?](http://tcrouzet.com/2016/03/10/limpossibilite-de-resister-au-numerique/) Pas de scan, mais je promets de faire ça.
 
 ![François en mode multitâche](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/qx6.jpg)
 

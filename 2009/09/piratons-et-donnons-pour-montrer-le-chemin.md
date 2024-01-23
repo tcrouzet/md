@@ -4,7 +4,7 @@
 
 ![Le monde selon Sarkozy](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/hadopi2.jpg)
 
-Il existe au moins deux types de lois, certaines répressives, d’autres incitatives. [Hadopi](http://blog.tcrouzet.com) se classe dans la première catégorie alors qu’elle aurait pu se placer dans la seconde et ouvrir de nouvelles possibilités économiques.<span id="more-9979"></span>
+Il existe au moins deux types de lois, certaines répressives, d’autres incitatives. [Hadopi](http://blog.tcrouzet.com) se classe dans la première catégorie alors qu’elle aurait pu se placer dans la seconde et ouvrir de nouvelles possibilités économiques.
 
 ### Interdiction policière
 

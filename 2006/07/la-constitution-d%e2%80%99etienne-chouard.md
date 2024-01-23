@@ -4,8 +4,6 @@ Si le référendum européen s’est joué sur internet, c’est en partie grâc
 
 > Ce n'est pas aux hommes au pouvoir d'écrire les règles du pouvoir.
 
-<span id="more-157"></span>
-
 Je ne peux qu’applaudir. Quand le pouvoir définit les règles du pouvoir, il n’y a plus de place pour le dialogue politique. Cet article fait suite aux commentaires postés par Étienne et d’autres lecteurs suite à mon article [De la démocratie Internet](http://www.agoravox.fr/article.php3?id_article=11229).
 
 Sur son [forum](http://etienne.chouard.free.fr/forum/), sur un mode collaboratif, Étienne cherche à écrire une nouvelle constitution, une constitution qui viendrait des citoyens et qui limiterait le pouvoir des élus. Son initiative doit être encouragée.

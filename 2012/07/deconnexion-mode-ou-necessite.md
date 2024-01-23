@@ -1,6 +1,6 @@
 # Déconnexion : mode ou nécessité ?
 
-Il y un an, j’étais loin du Net pour écrire [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/). Où en suis-je ? On me pose souvent cette question alors même qu’une épidémie de déconnexion semble se propager. Je fais le point avec une compilation d'interviews.<span id="more-26500"></span>
+Il y un an, j’étais loin du Net pour écrire [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/). Où en suis-je ? On me pose souvent cette question alors même qu’une épidémie de déconnexion semble se propager. Je fais le point avec une compilation d'interviews.
 
 *— [Je survis sans lampe à pétrole depuis 49 ans](https://twitter.com/cjeanney/status/197267897352073216), ce n’est pas une raison pour écrire un livre à ce sujet.*
 

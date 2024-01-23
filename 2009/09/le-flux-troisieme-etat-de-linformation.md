@@ -4,7 +4,7 @@
 
 ![phases](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/phase.png)
 
-Jusqu’à présent, j'ai [parlé de flux](http://blog.tcrouzet.com/tag/flux/) en termes métaphoriques plus que techniques ce qui entraîne des incompréhensions. Quand on pense flux sur le web, on pense fil RSS ou séquence de conversations sur Twitter/Facebook, pouvant aussi se transformer en fil RSS. Je crois que c’est une vision restrictive. Ce n’est pas à ça que je pense, pas seulement en tout cas. Pour moi, le flux est un état particulier de l’information, comme solide, liquide et gazeux sont des états particuliers de la matière.<span id="more-9711"></span>
+Jusqu’à présent, j'ai [parlé de flux](http://blog.tcrouzet.com/tag/flux/) en termes métaphoriques plus que techniques ce qui entraîne des incompréhensions. Quand on pense flux sur le web, on pense fil RSS ou séquence de conversations sur Twitter/Facebook, pouvant aussi se transformer en fil RSS. Je crois que c’est une vision restrictive. Ce n’est pas à ça que je pense, pas seulement en tout cas. Pour moi, le flux est un état particulier de l’information, comme solide, liquide et gazeux sont des états particuliers de la matière.
 
 Ok, c’est encore un raisonnement analogique mais l’information est aussi étudiée en physique, notamment en thermodynamique et il ne me semble pas absurde de parler de phases ou d’états pour ce qui m’intéresse (même si je suis encore flou).
 

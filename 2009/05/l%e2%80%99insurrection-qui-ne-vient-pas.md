@@ -2,7 +2,7 @@
 
 Je ne peux pas cacher que j’ai éprouvé du plaisir en lisant [*L’insurrection qui vient*](http://rebellyon.info/article5710.html). J’y ai retrouvé bien des idées que je ne cesse de mettre en avant comme la puissance de l’auto-organisation, de l’émergence sociale, de la faiblesse des structures centrales opposées aux réseaux décentralisés…
 
-Le livre se divise en deux parties assez inégales. La première, la plus entraînante, décrit les maux du système avec force. L’auteur anonyme, car je doute qu’il s’agisse d’un comité d’auteurs comme annoncé en couverture, renvoie dos-à-dos toutes les cliques, la droite et la gauche, les syndicats et les entreprises, les églises et les gourous new-age adeptes du coaching. C’est du Besancenot version anar, avec rejet de l’idée même de parti politique comme solution.<span id="more-6865"></span>
+Le livre se divise en deux parties assez inégales. La première, la plus entraînante, décrit les maux du système avec force. L’auteur anonyme, car je doute qu’il s’agisse d’un comité d’auteurs comme annoncé en couverture, renvoie dos-à-dos toutes les cliques, la droite et la gauche, les syndicats et les entreprises, les églises et les gourous new-age adeptes du coaching. C’est du Besancenot version anar, avec rejet de l’idée même de parti politique comme solution.
 
 > À la décentralisation du pouvoir répond, dans cette époque, la fin des centralités révolutionnaires.
 

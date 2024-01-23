@@ -40,7 +40,7 @@ J’écris dans mon coin, dans le silence, et toutes les idées qui me traversen
 
 C’est la mode : le transmedia gagne même la littérature. Images, vidéos, sons… et des textes illisibles. C’est la surenchère à celui qui fera le plus moderne, oubliant au passage que tout art implique une technique minimale.
 
-![J'ai pas de quoi me plaindre.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/dimanche14-600x450.jpg)
+![J'ai pas de quoi me plaindre.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/dimanche14-600x450.jpg)J'ai pas de quoi me plaindre.
 
 ### Mardi 16, Balaruc
 
@@ -52,7 +52,7 @@ Sur Twitter, un ami se plaint du manque de connexion dans le métro, je lui rép
 
 ### Vendredi 19, Balaruc
 
-![Rien de plus…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/vendredi19-600x450.jpg)
+![Rien de plus…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/vendredi19-600x450.jpg)Rien de plus…
 
 ### Lundi 22, Balaruc
 

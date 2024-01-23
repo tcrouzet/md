@@ -1,6 +1,6 @@
 # Comment se faire éditer ?
 
-Je ne vais rien vous dire de très agréable si vous aimez la littérature, l’art, les expériences. Je vous conseille de ne pas lire ce texte, à moins que vous ne le preniez comme la démonstration de la nécessité littéraire de basculer dans l’espace numérique.<span id="more-44814"></span>
+Je ne vais rien vous dire de très agréable si vous aimez la littérature, l’art, les expériences. Je vous conseille de ne pas lire ce texte, à moins que vous ne le preniez comme la démonstration de la nécessité littéraire de basculer dans l’espace numérique.
 
 Il y a quelques mois, un ami m’a demandé de faire passer son nouveau manuscrit à quelques éditeurs. Je lui ai conseillé de présenter d’abord son texte sur une page et de soumettre cette page. Il m’a répondu que c’était impossible, qu’il écrivait des livres et pas des résumés, en quoi il a tout à fait raison. J’ai donc transmis le manuscrit, et lui de son côté, et il attend toujours une réponse.
 

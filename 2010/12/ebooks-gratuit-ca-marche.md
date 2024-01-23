@@ -1,6 +1,6 @@
 # eBooks gratuit, ça marche
 
-Cette année 2010, j’aurais au moins contribué à la propagation du merveilleux texte de Giono, [*L’homme qui plantait des arbres*](http://blog.tcrouzet.com/2010/07/28/le-petit-livre-de-la-revolution/). Après avoir découvert que Giono avait renoncé à ses droits sur ce texte, [je l’ai diffusé sur Apple iBookstore](http://ax.itunes.apple.com/fr/book/lhomme-qui-plantait-des-arbres/id384439603).<span id="more-20877"></span>
+Cette année 2010, j’aurais au moins contribué à la propagation du merveilleux texte de Giono, [*L’homme qui plantait des arbres*](http://blog.tcrouzet.com/2010/07/28/le-petit-livre-de-la-revolution/). Après avoir découvert que Giono avait renoncé à ses droits sur ce texte, [je l’ai diffusé sur Apple iBookstore](http://ax.itunes.apple.com/fr/book/lhomme-qui-plantait-des-arbres/id384439603).
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/12/photo.png)
 

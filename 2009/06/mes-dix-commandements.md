@@ -1,6 +1,6 @@
 # Mes dix commandements
 
-Je ne prétends les imposer à quiconque mais ils guident ma vie, en tout cas aujourd’hui. Même s’ils n’ont d’autre but que de fixer une limite à dépasser, ils fondent, en cet instant précis, ma morale sociale.<span id="more-6989"></span>
+Je ne prétends les imposer à quiconque mais ils guident ma vie, en tout cas aujourd’hui. Même s’ils n’ont d’autre but que de fixer une limite à dépasser, ils fondent, en cet instant précis, ma morale sociale.
 
 ### 1. Tu ne commanderas pas
 

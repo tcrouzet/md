@@ -1,6 +1,6 @@
 # L’édition au temps des cyborgs
 
-J’ai publié [beaucoup de livres](http://blog.tcrouzet.com/bibliographie/), fait abattre beaucoup d’arbres et j’ai pris l’habitude de considérer le papier comme un support accessoire, disponible pour les lecteurs de plus en plus rares qui y seront encore attachés. L’impression à la demande fonctionne, j’utilise parfois lulu pour m’imprimer mes brouillons, c’est moins cher que ma laser. Je ne vois pas pourquoi nous devrions continuer d’imprimer des millions de livres qui pour la plupart pourrissent dans des hangars quand ils ne finissent pas pilonnés.<span id="more-16065"></span>
+J’ai publié [beaucoup de livres](http://blog.tcrouzet.com/bibliographie/), fait abattre beaucoup d’arbres et j’ai pris l’habitude de considérer le papier comme un support accessoire, disponible pour les lecteurs de plus en plus rares qui y seront encore attachés. L’impression à la demande fonctionne, j’utilise parfois lulu pour m’imprimer mes brouillons, c’est moins cher que ma laser. Je ne vois pas pourquoi nous devrions continuer d’imprimer des millions de livres qui pour la plupart pourrissent dans des hangars quand ils ne finissent pas pilonnés.
 
 Quand j’évoque le livre électronique sur mon blog ou en public, je relève chaque fois une étonnante résistance au changement, même chez les spécialistes du domaine. Une sorte de peur irrationnelle se manifeste que la raison seule ne peut combattre.
 

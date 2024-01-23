@@ -1,6 +1,6 @@
 # Lire Houellebecq au bord de l&#8217;eau
 
-Jour étrange d'après le drame de *Charlie Hebdo*, d'après la minute de silence universelle. Je flotte, sans même la rage pour me secouer. Peut-être que la tranquillité est la meilleure réponse à la barbarie. Faire preuve d'un peu de douceur, chercher un peu de lumière, contempler le monde.<span id="more-38766"></span>
+Jour étrange d'après le drame de *Charlie Hebdo*, d'après la minute de silence universelle. Je flotte, sans même la rage pour me secouer. Peut-être que la tranquillité est la meilleure réponse à la barbarie. Faire preuve d'un peu de douceur, chercher un peu de lumière, contempler le monde.
 
 Je roule jusqu'à une friche industrielle du bord de l'étang à l'entrée du canal du Rhône à Sète, le revers du canal du midi. Sans raison. Sauf d’y chercher la solitude. Je m'installe au bout de la vielle digue, m’adosse au phare rouge de bâbord.
 
@@ -37,6 +37,8 @@ Mon drame est plus ordinaire. J’ai besoin des autres. Si quelqu'un me rejoigna
 Houellebecq, c'est un auteur du XX<sup>e</sup>. Il ne sort pas du cynisme. C'est un conservateur. Il gratte les vieux thèmes : sexe, racisme et Rock 'n' roll. Tous les rêves de conscience collective, de transversalité, de coopération l'indiffèrent. C'est une sorte de rétroviseur. Quels auteurs tournés vers l’avenir attirent l'attention ? On se souviendra peut-être d’eux plus tard, parce qu'ils auront parlé à leurs successeurs. En attendant, ils doivent se contenter de jouir de leur improbable lucidité.
 
 ![Un bel endroit pour écrire en hiver.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/phare.jpg)
+
+Un bel endroit pour écrire en hiver.
 
 
 

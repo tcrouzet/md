@@ -1,8 +1,10 @@
 # Le pouvoir du Creative Commons
 
-Pas besoin d’un long discours. Hier, j’apprenais que [*Le geste qui sauve*](http://tcrouzet.com/le-geste-qui-sauve/) sortait en Pologne et que les traducteurs Hongrois se mettaient à leur tour au travail, tout ça sans ne rien demander à personne, juste portés par l’idée de partager, cela rendu possible parce que le livre est libre de droits.<span id="more-42920"></span>
+Pas besoin d’un long discours. Hier, j’apprenais que [*Le geste qui sauve*](http://tcrouzet.com/le-geste-qui-sauve/) sortait en Pologne et que les traducteurs Hongrois se mettaient à leur tour au travail, tout ça sans ne rien demander à personne, juste portés par l’idée de partager, cela rendu possible parce que le livre est libre de droits.
 
 ![Les couvertures des versions déjà publiées.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/planche-small.jpg)
+
+Les couvertures des versions déjà publiées.
 
 Tous les textes en Creative Commons ne sont pas traduits, mais quand ils rencontrent une communauté, dans le cas du geste, celle des personnels soignants, rien ne freine leur propagation.
 

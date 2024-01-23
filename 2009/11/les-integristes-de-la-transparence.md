@@ -1,6 +1,6 @@
 # Les intégristes de la transparence
 
-Beaucoup de voix s’élèvent pour exiger la totale transparence des données gouvernementales. Je me suis souvent positionné dans le camp de ces intégristes de la transparence avant d’aboutir à une position plus nuancée.<span id="more-12010"></span>
+Beaucoup de voix s’élèvent pour exiger la totale transparence des données gouvernementales. Je me suis souvent positionné dans le camp de ces intégristes de la transparence avant d’aboutir à une position plus nuancée.
 
 J’ai [déjà insisté](http://blog.tcrouzet.com/2009/08/19/socialiser-peut-tuer-la-creativite/) sur le fait que la transparence totale pour un individu, une entreprise, ou même une communauté open source, n’était pas la panacée, du moins dans une première phase. La transparence totale, c’est-à-dire immédiate, implique la dissolution des données dans l’espace informationnel. Dans certains cas, il faut laisser les choses mûrir avant de les exposer à la critique générale. C’est vrai pour tous les citoyens, élus ou pas.
 

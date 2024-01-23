@@ -1,6 +1,6 @@
 # Bikepacking dans le bel hiver
 
-Si vous ne visitez le Midi qu’en été, vous passez à côté de la lumière éblouissante de nos hivers. Toujours des journées nous surprennent par leur douceur, surtout en février, quand les fleurs inondent les vignes, que les amandiers se tintent de rose et les mimosas se parent de jaune.<span id="more-61397"></span>
+Si vous ne visitez le Midi qu’en été, vous passez à côté de la lumière éblouissante de nos hivers. Toujours des journées nous surprennent par leur douceur, surtout en février, quand les fleurs inondent les vignes, que les amandiers se tintent de rose et les mimosas se parent de jaune.
 
 J’ai commencé à créer la [trace Côté Sud](https://tcrouzet.com/2021/11/10/bikepacking-cote-sud-projet-open-source/) dans l’idée d’avoir à portée de TER, une virée bikepacking hivernale. Après un premier défrichage en décembre, nous nous y sommes engagés pour un bikepacking overnighter, à l’initiative de Georges qui était en vacances et d’une fenêtre météo favorable.
 

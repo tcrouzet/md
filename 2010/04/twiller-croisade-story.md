@@ -1,6 +1,6 @@
 # twiller Croisade Story
 
-5 200 tweets, 675 000 signes, l’équivalent d’un roman de 500 pages, 16 mois de publication quotidienne sur [@tcrouzet](http://twitter.com/tcrouzet), [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) s’est achevée hier. Cette histoire a commencé trois fois… avant de se découvrir cette fin provisoire.<span id="more-15629"></span>
+5 200 tweets, 675 000 signes, l’équivalent d’un roman de 500 pages, 16 mois de publication quotidienne sur [@tcrouzet](http://twitter.com/tcrouzet), [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) s’est achevée hier. Cette histoire a commencé trois fois… avant de se découvrir cette fin provisoire.
 
 ### Une première fois
 

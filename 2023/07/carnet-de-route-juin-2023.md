@@ -4,7 +4,7 @@
 
 ### Jeudi 1<sup>er</sup>, Balaruc
 
-J’ouvre mon fils de news et [un article m’illumine](https://www.sciencealert.com/we-may-have-misunderstood-precisely-what-makes-our-brains-tick). Des chercheurs ont découvert que la topologie du cerveau déterminait sa fonction plus que le détail des interconnexions entre les différentes zones. Ils ont comparé leur modèle topologique au modèle classique, avec des zones par fonction, et obtenu de bien meilleurs résultats prédictifs. Comme la forme et la structure du violon donne la note, et non seulement la fréquence de vibration de la corde en un point, le cerveau serait une sorte de mare où des gouttes tombent et provoquent des vaguelettes qui interagissent en rebondissant sur les berges. La forme détermine la fonction. Une idée essentielle en art.<span id="more-64986"></span>
+J’ouvre mon fils de news et [un article m’illumine](https://www.sciencealert.com/we-may-have-misunderstood-precisely-what-makes-our-brains-tick). Des chercheurs ont découvert que la topologie du cerveau déterminait sa fonction plus que le détail des interconnexions entre les différentes zones. Ils ont comparé leur modèle topologique au modèle classique, avec des zones par fonction, et obtenu de bien meilleurs résultats prédictifs. Comme la forme et la structure du violon donne la note, et non seulement la fréquence de vibration de la corde en un point, le cerveau serait une sorte de mare où des gouttes tombent et provoquent des vaguelettes qui interagissent en rebondissant sur les berges. La forme détermine la fonction. Une idée essentielle en art.
 
 ---
 

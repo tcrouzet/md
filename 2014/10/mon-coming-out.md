@@ -1,6 +1,6 @@
 # Mon coming out
 
-Non, je ne suis pas gay [comme Tim Cook](http://www.businessweek.com/articles/2014-10-30/tim-cook-im-proud-to-be-gay), mais je me suis toujours senti membre d’une minorité. C’est paradoxal puisque je suis un hétéro blanc éduqué ni gros ni petit. Je peux donc invoquer *a priori* aucune sorte de ségrégation endémique. Pourtant…<span id="more-37872"></span>
+Non, je ne suis pas gay [comme Tim Cook](http://www.businessweek.com/articles/2014-10-30/tim-cook-im-proud-to-be-gay), mais je me suis toujours senti membre d’une minorité. C’est paradoxal puisque je suis un hétéro blanc éduqué ni gros ni petit. Je peux donc invoquer *a priori* aucune sorte de ségrégation endémique. Pourtant…
 
 Enfant, j’ai toujours eu des amis, mais aucun avec qui partager mes questionnements métaphysiques, mon goût des jeux compliqués, mes lectures underground. Je vivais dans un village où j’étais le seul de l’espèce naissante des geeks. J’ai ainsi connu un grand isolement intellectuel qui, bien que différent de l’isolement sexuel, procure des sentiments assez douloureux. J’avais l’impression que je resterais un paria toute ma vie. Pas étonnant que je sois tombé amoureux de [*À la poursuite des Slans*](http://fr.wikipedia.org/wiki/%C3%80_la_poursuite_des_Slans).
 

@@ -1,6 +1,6 @@
 # Config Bikepacking : Houblon Tour 2020
 
-Excepté une petite nuit dehors à l’occasion du solstice d’été, je n’ai pas encore bikepacké cette année, à cause du covid, à cause de trop de boulot, à cause de la vie. Ce week-end, je m’autorise une petite escapade de trois jours dans l’Aubrac, à l’occasion du Houblon Tour organisé par l’équipe de [Hors Traces Aventures](https://www.hors-traces-aventures.fr/).<span id="more-54570"></span>
+Excepté une petite nuit dehors à l’occasion du solstice d’été, je n’ai pas encore bikepacké cette année, à cause du covid, à cause de trop de boulot, à cause de la vie. Ce week-end, je m’autorise une petite escapade de trois jours dans l’Aubrac, à l’occasion du Houblon Tour organisé par l’équipe de [Hors Traces Aventures](https://www.hors-traces-aventures.fr/).
 
 ![Chaleur et risques d'orages](https://tcrouzet.com/images_tc/2020/07/houblon1.png)
 

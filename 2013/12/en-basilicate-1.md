@@ -1,6 +1,6 @@
 # En Basilicate : 1
 
-Je ne vais pas vous raconter mon voyage en Basilicate. Du moins pas tout de suite. Et pourquoi ne pas le bloguer au jour le jour en même temps que je l'écris ? Parce que je veux couper, équilibrer, harmoniser. Autant de choses impossibles quand on aligne les billets en série. L'homme n'a pas inventé le traitement de texte pour qu'avec le blog nous cessions d'utiliser le copier-coller.<span id="more-33851"></span>
+Je ne vais pas vous raconter mon voyage en Basilicate. Du moins pas tout de suite. Et pourquoi ne pas le bloguer au jour le jour en même temps que je l'écris ? Parce que je veux couper, équilibrer, harmoniser. Autant de choses impossibles quand on aligne les billets en série. L'homme n'a pas inventé le traitement de texte pour qu'avec le blog nous cessions d'utiliser le copier-coller.
 
 Quand je blogue, j'ai l'impression que mon billet du moment est définitif, et qu'importe si je change d'avis cinq minutes après avoir pressé le bouton *[Send](http://blog.tcrouzet.com/tag/send/)*. J'ai dans l'idée de tout donner, de ne rien garder en réserve, de ne surtout pas construire une narration, sinon celle de ma vie.
 

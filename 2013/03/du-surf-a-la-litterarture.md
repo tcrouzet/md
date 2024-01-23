@@ -1,6 +1,6 @@
 # Aller où personne n’est allé &#8211; du surf à la littérature
 
-Hier soir, j’ai vu [*Chasing Mavericks*](http://www.imdb.com/title/tt1629757/), l’histoire de [Jay Moriarity](http://fr.wikipedia.org/wiki/Jay_Moriarity), surfeur de l’extrême. Ne vous attendez pas à un chef-d’œuvre [bien au contraire](http://www.lemonde.fr/culture/article/2012/11/27/chasing-mavericks-plat-comme-une-planche-de-surf_1796090_3246.html), dans la même veine mieux vaut se tourner vers [*Riding Giants*](http://www.imdb.com/title/tt0389326/). N’empêche, je n’ai pas décroché.<span id="more-31780"></span>
+Hier soir, j’ai vu [*Chasing Mavericks*](http://www.imdb.com/title/tt1629757/), l’histoire de [Jay Moriarity](http://fr.wikipedia.org/wiki/Jay_Moriarity), surfeur de l’extrême. Ne vous attendez pas à un chef-d’œuvre [bien au contraire](http://www.lemonde.fr/culture/article/2012/11/27/chasing-mavericks-plat-comme-une-planche-de-surf_1796090_3246.html), dans la même veine mieux vaut se tourner vers [*Riding Giants*](http://www.imdb.com/title/tt0389326/). N’empêche, je n’ai pas décroché.
 
 J’ai toujours été fasciné par ces récits, d’où mon goût pour les livres de Jon Krakauer. Chaque fois la même idée surgit : certains d’entre nous ne se sentent vivre que là où les autres ne vont pas. Sans doute à cause d’une cassure originelle. Isabelle l’impute chez moi à ma naissance. Énorme bébé, j’ai manqué étouffer. Et nous avons revécu la même chose avec Timothée. La mort nous tenterait. Nous voudrions la défier, encore.
 

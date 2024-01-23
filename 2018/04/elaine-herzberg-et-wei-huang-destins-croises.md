@@ -1,6 +1,6 @@
 # Elaine Herzberg et Wei Huang, destins croisés
 
-Elaine est morte fauchée par une voiture autonome Uber [le 18 mars à 22 heures](https://tcrouzet.com/2018/03/22/pour-la-premiere-fois-un-robot-tue-un-humain/). Moins de cinq jours plus tard, [le 23 mars](https://www.wired.com/story/tesla-autopilot-self-driving-crash-california/), Wei Huang est mort après que sa Tesla Model X ait percuté le parapet en béton séparant les deux voies de l’autoroute 101 à Mountain View, Californie. Le point commun entre ces deux victimes : ils sont les dommages collatéraux d’une technologie balbutiante. Les similitudes s’arrêtent là.<span id="more-46467"></span>
+Elaine est morte fauchée par une voiture autonome Uber [le 18 mars à 22 heures](https://tcrouzet.com/2018/03/22/pour-la-premiere-fois-un-robot-tue-un-humain/). Moins de cinq jours plus tard, [le 23 mars](https://www.wired.com/story/tesla-autopilot-self-driving-crash-california/), Wei Huang est mort après que sa Tesla Model X ait percuté le parapet en béton séparant les deux voies de l’autoroute 101 à Mountain View, Californie. Le point commun entre ces deux victimes : ils sont les dommages collatéraux d’une technologie balbutiante. Les similitudes s’arrêtent là.
 
 Elaine était une SDF qui vivait dans un squat qu’elle était probablement en train de rejoindre en pleine nuit quand elle a été percutée. Peut-être avait-elle acheté un pack de bières pour se réchauffer le cœur avec ses amis d’infortune. Son vélo chargé de sacs de course, elle traversait une route où la visibilité n’était pas si mauvaise.
 

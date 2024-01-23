@@ -1,6 +1,6 @@
 # Le dilemme de l’électeur à la veille du second tour
 
-Nous souffrons de notre démocratie, nous rêvons d’une société plus harmonieuse, plus responsable, plus écologique en même temps que plus technologique. Nous avons même parfois démontré la possibilité, et même la nécessité, de nouveaux modes d’organisation sociale pour affronter la complexité nouvelle de nos sociétés, et pourtant, élection après élection, aucune de ces idées puissantes et optimistes ne se font entendre.<span id="more-45278"></span>
+Nous souffrons de notre démocratie, nous rêvons d’une société plus harmonieuse, plus responsable, plus écologique en même temps que plus technologique. Nous avons même parfois démontré la possibilité, et même la nécessité, de nouveaux modes d’organisation sociale pour affronter la complexité nouvelle de nos sociétés, et pourtant, élection après élection, aucune de ces idées puissantes et optimistes ne se font entendre.
 
 C’est en soit plutôt inquiétant. Pourquoi le vent de réforme et l’espoir de renouveau, que je pense ne pas être le seul à ressentir, ne font pas leur chemin dans les opinions, et surtout dans les urnes ? Pourquoi finissons-nous par avoir des duels entre conservateurs, voire ultraconservateurs, surtout quand ils se prétendent réformateurs ?
 

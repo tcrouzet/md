@@ -1,6 +1,6 @@
 # L’auteur qui maximise sa liberté
 
-Blois est un grand jardin fleuri avec des alignements d’arbres qui ouvrent des perspectives sur des empilements de toits chargés de cheminées baroques, de chiens couchés, de mansardes où j’aimerais dormir et me réchauffer, parce que le soleil en cette fin avril est encore incertain, la brise glaciale et mon autonomie d’artisan en extérieur plutôt limitée. Alors j’avale les fleurs, les verts, les chants des oiseaux, je stocke tout ça pour quand je serai au chaud.<span id="more-43959"></span>
+Blois est un grand jardin fleuri avec des alignements d’arbres qui ouvrent des perspectives sur des empilements de toits chargés de cheminées baroques, de chiens couchés, de mansardes où j’aimerais dormir et me réchauffer, parce que le soleil en cette fin avril est encore incertain, la brise glaciale et mon autonomie d’artisan en extérieur plutôt limitée. Alors j’avale les fleurs, les verts, les chants des oiseaux, je stocke tout ça pour quand je serai au chaud.
 
 ![blois 1](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/blois1.jpg)
 

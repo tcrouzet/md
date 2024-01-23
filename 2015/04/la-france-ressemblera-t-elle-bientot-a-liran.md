@@ -1,6 +1,6 @@
 # La France ressemblera-t-elle bientôt à l’Iran ?
 
-Je viens de passer une semaine en Iran. Pas plus tôt chez moi, je vois qu’enfin les Français de réveillent : oui, notre gouvernement veut nous mettre sur écoute.<span id="more-40651"></span>
+Je viens de passer une semaine en Iran. Pas plus tôt chez moi, je vois qu’enfin les Français de réveillent : oui, notre gouvernement veut nous mettre sur écoute.
 
 D’un autre côté, je me dis « C’est bien fait. Fallait pas jouer aux cons en obéissant par millions à l’appel lancé par nos politiciens le 11/1. » Dire que je me suis fâché avec pas mal de gens à cette occasion. Certains m’ont insulté, d’autre rayé de leurs contacts. Je ne sais pas trop ce qu’ils doivent penser en ce moment. Voici ce qu’un ami m’a écrit le 12/1.
 
@@ -47,6 +47,8 @@ Internet vient ficher le bazar dans un vieux système. Le pire, c’est qu’au 
 Et nous dans ce merdier ? Il est urgent que nous devenions vite moins cons. Parce que dans tous les cas, que ce soit les uns ou les autres qui l’emportent, ils nous pressuriseront pour faire de nous leur machine de guerre.
 
 ![Iran under reconstruction in Mashhad.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/IMG_1519.jpg)
+
+Iran under reconstruction in Mashhad.
 
 
 

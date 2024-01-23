@@ -1,6 +1,6 @@
 # L’effet levier de Wattpad
 
-Je suis à mi-parcours dans mon feuilleton [*1 minute*](http://www.wattpad.com/story/29694130-1-minute). Je continue mon petit bout de chemin sur [Wattpad](http://www.wattpad.com/story/29694130-1-minute), appréciant de jour en jour sans cesse davantage la spontanéité des commentateurs.<span id="more-41734"></span>
+Je suis à mi-parcours dans mon feuilleton [*1 minute*](http://www.wattpad.com/story/29694130-1-minute). Je continue mon petit bout de chemin sur [Wattpad](http://www.wattpad.com/story/29694130-1-minute), appréciant de jour en jour sans cesse davantage la spontanéité des commentateurs.
 
 Parfois ils m’exaspèrent, me reprochant d’utiliser des mots trop compliqués comme si c’était difficile de les googler, d’autres fois, ils me démontrent une compréhension si intime de mon roman qu’ils devancent mes propres analyses. Plus le temps passe, plus j’ai besoin de leurs encouragements.
 

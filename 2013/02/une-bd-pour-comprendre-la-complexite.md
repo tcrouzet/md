@@ -1,6 +1,6 @@
 # Une BD pour comprendre la complexité
 
-À la suite d'Edgard Morin et de bien d'autres, je parle de complexité depuis des années et je me rends compte que ça ne passe pas. C'est une idée encore étrangère, insaisissable, voire qui fait peur.<span id="more-30816"></span>
+À la suite d'Edgard Morin et de bien d'autres, je parle de complexité depuis des années et je me rends compte que ça ne passe pas. C'est une idée encore étrangère, insaisissable, voire qui fait peur.
 
 Elle a été bannie par les religions, par la science, même par les arts, avant de s'imposer peu à peu, mais encore insuffisamment, surtout au moment où on devrait de toute urgence la prendre en compte en politique.
 

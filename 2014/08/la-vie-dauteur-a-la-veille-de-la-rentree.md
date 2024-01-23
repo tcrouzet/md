@@ -1,6 +1,6 @@
 # La vie d’auteur (à la veille de la rentrée)
 
-Que se passe-t-il pour un auteur quand un livre sort ? Le plus souvent rien. C’est assez déprimant, assez désespérant, surtout quand le texte proposé au public a nécessité des années de travail et que l’auteur est persuadé d’avoir capturé quelque chose de rare et parfois même de neuf.<span id="more-36783"></span>
+Que se passe-t-il pour un auteur quand un livre sort ? Le plus souvent rien. C’est assez déprimant, assez désespérant, surtout quand le texte proposé au public a nécessité des années de travail et que l’auteur est persuadé d’avoir capturé quelque chose de rare et parfois même de neuf.
 
 J’ai connu un lancement en fanfare avec [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/). Courir de radio en radio le jour de la sortie. Recevoir des dizaines d’invitations et avoir l’illusion quelques instants d’être important. Rassurez-vous, ça passe vite. Même pas d’ailleurs. J’ai toujours eu l’impression d’être important et ce n’est pas un petit emballement médiatique qui m’a fait changer d’avis (oui, il faut rire).
 

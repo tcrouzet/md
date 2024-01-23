@@ -11,11 +11,6 @@ Le voyage à vélo ultraléger
 
 ##### **papier 18.99 €** : [Amazon](https://www.amazon.fr/dp/167615681X?ref_=pe_3052080_397514860).
 
-
-
-
-
-
 ### Présentation
 
 Comment j’ai découvert le bikepacking. Comment j’ai choisi mon vélo, mon équipement. Comment j’ai vécu mes premiers voyages et comment le virus du bikepacking m’a saisi au point de me révéler un nouvel art du vélo et même un nouvel art de vivre.

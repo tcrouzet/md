@@ -10,7 +10,7 @@ Je termine de monter mon nouveau vélo pour le bikepacking. Démangeaisons dans 
 
 ### Mardi 3, Balaruc
 
-Dans la boulangerie, ils portent tous des gants, mais ils n’en changent jamais. Comment leur dire que ça ne sert à rien ? Le virus ne pénètre pas par la peau. Ils feraient mieux pratiquer l’hygiène des mains à longueur de journée, de refuser les paiements en liquide, de n’avoir jamais le moindre contact direct ou indirect avec les clients.<span id="more-53793"></span>
+Dans la boulangerie, ils portent tous des gants, mais ils n’en changent jamais. Comment leur dire que ça ne sert à rien ? Le virus ne pénètre pas par la peau. Ils feraient mieux pratiquer l’hygiène des mains à longueur de journée, de refuser les paiements en liquide, de n’avoir jamais le moindre contact direct ou indirect avec les clients.
 
 ![Sète au loin](https://tcrouzet.com/images_tc/2020/04/IMG_9443.jpeg)
 

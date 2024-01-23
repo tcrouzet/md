@@ -1,6 +1,6 @@
 # Le jour s&#8217;est levé sur une connerie de plus
 
-Je rentre de vacances dans les Pyrénées, avec le pouce droit out, l'épaule droite out, une côte gauche out, et je me reconnecte, pour voir buzzer [un manifeste de Xavier Alberti.](http://lecercle.lesechos.fr/politique/vie-politique/221185612/jour-leve-nouveau-modele-democratique)<span id="more-34027"></span>
+Je rentre de vacances dans les Pyrénées, avec le pouce droit out, l'épaule droite out, une côte gauche out, et je me reconnecte, pour voir buzzer [un manifeste de Xavier Alberti.](http://lecercle.lesechos.fr/politique/vie-politique/221185612/jour-leve-nouveau-modele-democratique)
 
 Trop de mes amis le linke pour que je ne le lise pas. Et pour aussitôt me demander pourquoi ils sont mes amis. Je manque de souplesse palmaire pour me lancer dans une longue diatribe, mais je n'enrage pas moins.
 

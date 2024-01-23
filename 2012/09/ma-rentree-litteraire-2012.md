@@ -1,6 +1,6 @@
 # Ma rentrée littéraire 2012
 
-[646](http://www.actualitte.com/librairies/les-100-000-exemplaires-une-economie-qui-se-decide-de-plus-en-plus-tot-36421.htm) romans pour la course aux prix. Au moins un a été oublié, mon sublime inénarrable [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/). Vous avez découvert sur ce blog des versions préliminaires, mais la version finale sort enfin chez [publie.papier](http://publiepapier.fr/), après une attente insoutenable de mes millions de fans.<span id="more-27427"></span>
+[646](http://www.actualitte.com/librairies/les-100-000-exemplaires-une-economie-qui-se-decide-de-plus-en-plus-tot-36421.htm) romans pour la course aux prix. Au moins un a été oublié, mon sublime inénarrable [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/). Vous avez découvert sur ce blog des versions préliminaires, mais la version finale sort enfin chez [publie.papier](http://publiepapier.fr/), après une attente insoutenable de mes millions de fans.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/09/id1-450x407.jpg)
 

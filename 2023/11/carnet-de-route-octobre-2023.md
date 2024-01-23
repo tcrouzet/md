@@ -4,7 +4,7 @@
 
 ### Dimanche 1<sup>er</sup>, Balaruc
 
-[Jérôme Leroy se moque gentiment des joggers qui passent devant lui pendant qu’il lit sur un banc.](https://www.facebook.com/cornelius.rouge/posts/pfbid02e5aLjCRUaxAtHMCKugkfZGJ7qX9sj4N9FjGQBfTXk5H5HaGBvVY27DsExktxwumPl) Il oublie un détail : celui qui court gagne de l’énergie pour quand il ne court pas, et il peut l’utiliser pour lire, écrire, rêver… Mais celui qui n’a jamais couru, ou fait un autre sport d’endurance, ne peut pas comprendre cette subtilité. C’est un paradoxe, mais faire du sport me donne plus de temps pour vivre, là, tout de suite (sans même parler du plaisir de faire du sport). On a tout à gagner à se bouger les fesses.<span id="more-65273"></span>
+[Jérôme Leroy se moque gentiment des joggers qui passent devant lui pendant qu’il lit sur un banc.](https://www.facebook.com/cornelius.rouge/posts/pfbid02e5aLjCRUaxAtHMCKugkfZGJ7qX9sj4N9FjGQBfTXk5H5HaGBvVY27DsExktxwumPl) Il oublie un détail : celui qui court gagne de l’énergie pour quand il ne court pas, et il peut l’utiliser pour lire, écrire, rêver… Mais celui qui n’a jamais couru, ou fait un autre sport d’endurance, ne peut pas comprendre cette subtilité. C’est un paradoxe, mais faire du sport me donne plus de temps pour vivre, là, tout de suite (sans même parler du plaisir de faire du sport). On a tout à gagner à se bouger les fesses.
 
 ![La Pointe](https://tcrouzet.com/images_tc/2023/10/IMG_3582.jpeg)
 

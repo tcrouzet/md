@@ -4,7 +4,7 @@
 
 ![Point triple](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/ptrible.jpg)
 
-Le vocable information a été employé pour la première fois comme nouvelle unité par Ralph Hartley des Bell Labs en 1928 pour désigner la partie utile d’un message (en écartant le bruit causé par les parasites par exemple). Pour lui, l’information mesure ce que nous apprenons (si nous avons déjà reçu le message, nous n’apprenons rien).<span id="more-11364"></span>
+Le vocable information a été employé pour la première fois comme nouvelle unité par Ralph Hartley des Bell Labs en 1928 pour désigner la partie utile d’un message (en écartant le bruit causé par les parasites par exemple). Pour lui, l’information mesure ce que nous apprenons (si nous avons déjà reçu le message, nous n’apprenons rien).
 
 En 1948, Claude Shannon prolongea cette idée et publia sa théorie de l’information (ou pour être précis sa théorie de la communication). Pour lui, la quantité d’information contenue dans un message équivaut au nombre de bits pour l’encoder.
 

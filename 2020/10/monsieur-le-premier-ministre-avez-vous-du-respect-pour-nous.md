@@ -1,6 +1,6 @@
 # Monsieur le Premier ministre, avez-vous du respect pour nous ?
 
-Quand j’ai entendu notre Premier ministre nous détailler les mesures accompagnant le reconfinement, je me suis dit que nous avions à notre tête un homme qui n’a retenu aucune des leçons de la première vague.<span id="more-55921"></span>
+Quand j’ai entendu notre Premier ministre nous détailler les mesures accompagnant le reconfinement, je me suis dit que nous avions à notre tête un homme qui n’a retenu aucune des leçons de la première vague.
 
 [La mission Macron a remonté des bugs dans la gestion de crise covid en France, notamment dans la communication](https://www.francetvinfo.fr/sante/maladie/coronavirus/gestion-du-covid-19-les-experts-mandates-par-emmanuel-macron-pointent-des-defauts-manifestes_4139999.html), mais sans effet pour notre bon élève, peu habitué à être remis à sa place. Pourtant la France a été loin de briller en Europe, pas la plus mal classée, mais loin d’être parmi les meilleures nations. En conséquence, ne changeons rien, persistons dans la médiocrité. Ne regardons surtout pas ce qui a marché ailleurs.
 

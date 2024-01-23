@@ -1,6 +1,6 @@
 # Bilan de deux mois de confinement
 
-J’ai éprouvé un soudain dégoût du coronavirus. Tout ce qui se dit au sujet de la pandémie me donne la gerbe, et je n'ai pas envie de m'enfoncer les doigts au fond de la gorge. Je ne veux plus être un de ceux qui prévoient que le monde sera le même, ou pire, ou différent, ou même mieux, un de ceux qui en profitent pour mener leurs luttes politiques, un de ceux qui tombent sur le gouvernement ou qui viennent à son secours.<span id="more-54217"></span>
+J’ai éprouvé un soudain dégoût du coronavirus. Tout ce qui se dit au sujet de la pandémie me donne la gerbe, et je n'ai pas envie de m'enfoncer les doigts au fond de la gorge. Je ne veux plus être un de ceux qui prévoient que le monde sera le même, ou pire, ou différent, ou même mieux, un de ceux qui en profitent pour mener leurs luttes politiques, un de ceux qui tombent sur le gouvernement ou qui viennent à son secours.
 
 J’ai atteint l’overdose, notamment une overdose médiatique. Parce que depuis début janvier, j’ai passé ma vie le nez dans les news, avec tout ce qu’elles ont de déprimant et d’anxiogène, non pas que ce soit la faute des journalistes, mais plutôt de nous-mêmes, toujours prompts à nous ruer vers les faits les plus sombres.
 

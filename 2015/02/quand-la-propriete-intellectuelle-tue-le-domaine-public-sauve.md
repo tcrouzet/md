@@ -2,7 +2,7 @@
 
 Je ne suis ni docteur, ni professeur, ni chercheur.
 
-Si je suis invité au [Semmelweis-Congress 2015](http://semmelweis.info/index.php/semmelweis-hygiene-conference/) sur l’hygiène hospitalière, c’est parce qu’un jour j’ai rencontré Didier Pittet et qu’il m’a raconté l’histoire de l’hygiène des mains et m’a donné l’envie d’écrire un livre sur le sujet.<span id="more-39612"></span>
+Si je suis invité au [Semmelweis-Congress 2015](http://semmelweis.info/index.php/semmelweis-hygiene-conference/) sur l’hygiène hospitalière, c’est parce qu’un jour j’ai rencontré Didier Pittet et qu’il m’a raconté l’histoire de l’hygiène des mains et m’a donné l’envie d’écrire un livre sur le sujet.
 
 Les écrivains ont vite fait de s’enflammer, d’écrire sur tout et n’importe quoi, mais rien pourtant a priori ne me poussait à m’intéresser à l’hygiène des mains.
 

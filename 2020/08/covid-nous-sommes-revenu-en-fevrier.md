@@ -1,6 +1,6 @@
 # Covid : nous sommes revenus en février
 
-C’est un peu l’affolement général autour du développement de la pandémie en France, mais peut-être est-il utile de revenir aux chiffres et de constater que ce n’est pas encore la catastrophe partout annoncée.<span id="more-54917"></span>
+C’est un peu l’affolement général autour du développement de la pandémie en France, mais peut-être est-il utile de revenir aux chiffres et de constater que ce n’est pas encore la catastrophe partout annoncée.
 
 Nous connaissons mieux le virus. Le taux de mortalité est d’environ 0,5 % et le délai entre une infection et la mort éventuelle est d’environ 31 jours (5 jours pour tomber malade, 5 pour tomber gravement malade, 3 semaines pour décéder).
 

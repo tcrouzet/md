@@ -1,6 +1,6 @@
 # Revenu universel : quelques arguments pour Benoît Hamon
 
-La démocratie représentative ne m’intéresse pas, parce qu’elle revient à désigner le coq de la bassecour, exercice qui me paraît rétrograde, parfois même inquiétant, d’autant plus que ceux qui y participent croient dur comme fer qu’il n’existe pas d’autres solutions.<span id="more-44782"></span>
+La démocratie représentative ne m’intéresse pas, parce qu’elle revient à désigner le coq de la bassecour, exercice qui me paraît rétrograde, parfois même inquiétant, d’autant plus que ceux qui y participent croient dur comme fer qu’il n’existe pas d’autres solutions.
 
 Je passe. En revanche, j’aime la dispute, le débat, et peu importe ce qui les cause. Dans la primaire socialiste, je vois un Benoît Hamon qui porte une vision nouvelle contre les rétrogrades dorénavant incarnés par Manuel Valls. La victoire de Hamon au premier tour est une bonne nouvelle : elle montre que les socialistes commencent à comprendre [le revenu universel](http://tcrouzet.com/tag/revenu-de-base/).
 

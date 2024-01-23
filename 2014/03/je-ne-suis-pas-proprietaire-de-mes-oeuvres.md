@@ -1,6 +1,6 @@
 # Je ne suis pas propriétaire de mes œuvres
 
-Je ne vois pas comment je pourrais défendre un droit d’auteur qui cache en réalité [les seuls droits des éditeurs, des libraires (de l’ancien régime), des institutions et de je ne sais qui](http://scinfolex.com/2014/03/01/verdict-dans-laffaire-relire-la-propriete-intellectuelle-cest-le-vol/). J’écris habité par la douce illusion d’avoir quelque chose à dire de potentiellement intéressant ou amusant pour quelques êtres tout aussi azimutés que moi. J’écris pour eux, et libre à eux de s’approprier mes textes.<span id="more-34603"></span>
+Je ne vois pas comment je pourrais défendre un droit d’auteur qui cache en réalité [les seuls droits des éditeurs, des libraires (de l’ancien régime), des institutions et de je ne sais qui](http://scinfolex.com/2014/03/01/verdict-dans-laffaire-relire-la-propriete-intellectuelle-cest-le-vol/). J’écris habité par la douce illusion d’avoir quelque chose à dire de potentiellement intéressant ou amusant pour quelques êtres tout aussi azimutés que moi. J’écris pour eux, et libre à eux de s’approprier mes textes.
 
 Je ne refuse pas de gagner de l’argent avec mon travail d’auteur. Je ne crache pas sur la fortune. J’accepte les offres les plus ébouriffantes. La richesse ne me répugne pas, bien au contraire. Simplement, il me reste un brin de logique. Je ne suis propriétaire de mes textes que tant que je les garde pour moi. Dès qu’un lecteur se présente, il instancie en lui une copie tout aussi licite que celle que je possède moi-même. Et je ne peux l’en déposséder qu’en lui effaçant la mémoire, ou pire en l’assassinant.
 
@@ -17,6 +17,8 @@ Si je veux conserver mes prétentions d’auteur, je dois donc prendre garde à 
 J’ai donc des droits, mais je ne suis pas propriétaire de ce que j’ai accepté de diffuser. Lire, c’est copier. Si j’étais propriétaire de mes textes, « Lire, serait voler. » Je ne suis qu’un auteur.
 
 ![Je ne vends même pas mes photos](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cloudtrain.jpg)
+
+Je ne vends même pas mes photos
 
 
 

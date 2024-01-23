@@ -19,8 +19,6 @@
 
 10. 17/4/2013, France 3 Languedoc Roussillon, [Le Midi juste](http://languedoc-roussillon.france3.fr/2013/04/15/mais-qui-sont-les-invites-du-midi-pile-cette-semaine-235191.html), Hélène Archilla-Macurdy
 
- 
-
 11. 16/4/2013, K-Libre, [Tweet Turner](http://www.k-libre.fr/klibre-ve/index.php?page=livre&id=2824), Laurent Greusard
 
 12. 6/4/2013, France Culture, [Le carnet d'or](http://www.franceculture.fr/emission-le-carnet-d-or-page-77-virtuel-2013-04-06), Augustin Trapenard

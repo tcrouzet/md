@@ -1,6 +1,6 @@
 # Le génie du lieu
 
-Il y a pour moi des choses plus importantes que la technologie, des choses qui me préoccupent depuis plus longtemps et qui sans doute me préoccuperont plus longtemps, le génie du lieu en fait partie. Comme en août je donnerai à Ouessant une conférence sur cette propriété si particulière des lieux remodelés par nos mains, j’en ai profité pour effectuer quelques corrections dans [le roman mis en ligne voici presque un an](http://blog.tcrouzet.com/genius-locus/).<span id="more-17321"></span>
+Il y a pour moi des choses plus importantes que la technologie, des choses qui me préoccupent depuis plus longtemps et qui sans doute me préoccuperont plus longtemps, le génie du lieu en fait partie. Comme en août je donnerai à Ouessant une conférence sur cette propriété si particulière des lieux remodelés par nos mains, j’en ai profité pour effectuer quelques corrections dans [le roman mis en ligne voici presque un an](http://blog.tcrouzet.com/genius-locus/).
 
 Vous avez été un peu plus de 1 500 à le feuilleter en ligne sur Scribd ([ePub aussi disponible](http://txt.tcrouzet.com/)). Peu sans doute l’ont lu jusqu’au bout, mais sachez que c’est un texte auquel j’attache de l’importance, peut-être parce ce que c’est un des préférés d’Isabelle. En tout cas, j’y décris la vie simple à laquelle j’aspire et qui ne ferait pas de mal à l’humanité si cette simplicité se répandait.
 

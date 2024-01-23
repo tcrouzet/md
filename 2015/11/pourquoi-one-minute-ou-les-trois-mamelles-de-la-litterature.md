@@ -1,6 +1,6 @@
 # Pourquoi One Minute ou les trois mamelles de la littérature
 
-Florence Thérond et Marie-Eve Thérenty organisent le 26 novembre à Montpellier une [journée sur les formes brèves dans la littérature web](http://www.lr2l.fr/actualites/les-formes-breves-lhonneur-luniversite-montpellier-3.html). À cette occasion, [Oriane Deseilligny](http://www.gripic.fr/utilisateur/oriane-deseilligny) parlera de [*One minute*](http://tcrouzet.com/une-minute/). Et moi, qu’est-ce que je pourrais en dire ?<span id="more-42742"></span>
+Florence Thérond et Marie-Eve Thérenty organisent le 26 novembre à Montpellier une [journée sur les formes brèves dans la littérature web](http://www.lr2l.fr/actualites/les-formes-breves-lhonneur-luniversite-montpellier-3.html). À cette occasion, [Oriane Deseilligny](http://www.gripic.fr/utilisateur/oriane-deseilligny) parlera de [*One minute*](http://tcrouzet.com/une-minute/). Et moi, qu’est-ce que je pourrais en dire ?
 
 Comme tous les romans, il repose sur trois axes : un projet narratif (ce que je veux raconter, les idées à développer, les sentiments à exprimer, des choses encore vagues à faire surgir…), un projet formel (comment je vais raconter ? à la première personne ou à la troisième avec focalisation interne ou externe ? avec des chapitres courts ou longs ? au passé ou au présent ? …), un projet technique (comment je vais faire passer le roman de ma tête à mon écran, puis de mon écran aux lecteurs).
 
@@ -56,9 +56,13 @@ Les outils et leurs contraintes déterminent *One Minute* au moins autant que le
 
 ![Structure de mon dossier de travail sous Ulysses avec les stats affichées.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/1min-1.png)
 
+Structure de mon dossier de travail sous Ulysses avec les stats affichées pour le roman lui-même.
+
 Mon histoire est un foutoir vaguement cartographié en mind mapping. Je suis souvent resté perplexe devant ce bazar qui au final résume le projet.
 
 ![La carte de mon histoire…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/1min-2.png)
+
+La carte partielle de One Minute.
 
 J’ai parfois regretté le côté SF, à mon sens indispensable pour décrire notre époque, mais aussi trop accroché à elle, à un état provisoire, qui implique le vite démodé, alors germe en moi un autre projet, avec juste des hommes et des femmes, un entre eux… c’est encore très vague, ça pourrait s’appeler *Trois minutes*.
 

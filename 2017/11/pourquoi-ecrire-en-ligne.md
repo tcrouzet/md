@@ -1,6 +1,6 @@
 # Pourquoi écrire en ligne?
 
-« Pourquoi écrire ? » est une question souvent posée aux écrivains et que nous nous posons au moins aussi souvent, tant parfois cette activité nous paraît absurde. Cette question a un corollaire évident : « Pourquoi publier ? » À ces deux questions, nous devons avoir au moins autant de réponses que d’écrivains. Alors les compléter en leur ajoutant « en ligne » a peu de chance de réduire le champ des possibles, mais j’aimerais me lancer dans une petite investigation, en vue de mettre de l’ordre dans mes idées (voici en tout cas pourquoi j’écris ce texte et aussi pourquoi je le partage avec vous, peut-être pour entretenir le débat).<span id="more-45914"></span>
+« Pourquoi écrire ? » est une question souvent posée aux écrivains et que nous nous posons au moins aussi souvent, tant parfois cette activité nous paraît absurde. Cette question a un corollaire évident : « Pourquoi publier ? » À ces deux questions, nous devons avoir au moins autant de réponses que d’écrivains. Alors les compléter en leur ajoutant « en ligne » a peu de chance de réduire le champ des possibles, mais j’aimerais me lancer dans une petite investigation, en vue de mettre de l’ordre dans mes idées (voici en tout cas pourquoi j’écris ce texte et aussi pourquoi je le partage avec vous, peut-être pour entretenir le débat).
 
 Il me faut donc m’intéresser étroitement au « en ligne », à ce qu’il change dans l’écriture et ce qu’il implique pour la littérature.
 

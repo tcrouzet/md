@@ -1,6 +1,6 @@
 # Le réseau libre
 
-J’ai repris hier ma vieille habitude de ne plus voter. Parce que je crois à l’incapacité de nos gouvernants de nous gouverner mais aussi parce que je crois qu’il n’est plus temps de voter pour quelqu’un, c’est-à-dire contre quelqu’un d’autre.<span id="more-446"></span>
+J’ai repris hier ma vieille habitude de ne plus voter. Parce que je crois à l’incapacité de nos gouvernants de nous gouverner mais aussi parce que je crois qu’il n’est plus temps de voter pour quelqu’un, c’est-à-dire contre quelqu’un d’autre.
 
 Nous devons travailler ensemble. Mais, pour atteindre cet objectif presque démesuré, il n’est pas nécessaire, comme le signale [Axel Karakartal](http://www.page2007.com/2007/05/04/notre-choix-pour-le-second-tour-de-la-presidentielle-2007-logique-de-partis-logique-de-reseaux/), de créer le parti de ceux qui rêvent de l’union nationale.
 
@@ -11,10 +11,8 @@ Au cours de la campagne présidentielle, j’ai rencontré des gens intelligents
 J’ai entamé dans ma [commune une telle initiative](http://www.balaruc.fr) et je me dis que nous pouvons nous lancer dans le même projet à l’échelle nationale.
 
 Le but serait de créer **Le réseau libre**.
-
-**Réseau** : pour insister sur l’absence de chef, la décentralisation, l’ouverture…
-
-**Libre** : parce que le réseau ne se lie à personne ni à aucune tendance en particulier, parce que ses membres peuvent appartenir à toutes les mouvances politiques ou même à aucune… et d’autant plus libre que le réseau, en lui-même, ne brigue aucun mandat (ce qui n’empêche pas certains de ses membres d’avoir des ambitions électorales).
+ : pour insister sur l’absence de chef, la décentralisation, l’ouverture…
+ : parce que le réseau ne se lie à personne ni à aucune tendance en particulier, parce que ses membres peuvent appartenir à toutes les mouvances politiques ou même à aucune… et d’autant plus libre que le réseau, en lui-même, ne brigue aucun mandat (ce qui n’empêche pas certains de ses membres d’avoir des ambitions électorales).
 
 Le réseau libre serait un méta-parti en quelque sorte, une structure horizontale plutôt que verticale. Il inaugurerait une nouvelle façon de faire de la politique, une façon tournée vers l’action et non vers la recherche du pouvoir.
 

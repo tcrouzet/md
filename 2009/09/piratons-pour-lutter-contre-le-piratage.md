@@ -1,6 +1,6 @@
 # Piratons pour lutter contre le piratage
 
-Tout le monde connait les conséquences de la prohibition, elle favorise la violence et ne diminue pas l’usage des biens prohibés.<span id="more-9919"></span>
+Tout le monde connait les conséquences de la prohibition, elle favorise la violence et ne diminue pas l’usage des biens prohibés.
 
 Dans la plupart des pays occidentaux, [les cocaïnomanes recensés par les services de santé depuis cinquante ans](http://www.newscientist.com/article/mg20327251.100-better-world-legalise-drugs.html) sont de plus en plus nombreux. Au États-Unis, un des pays où la répression est la plus forte, la consommation est aussi la plus forte. En revanche, dans les rares pays qui, comme le Portugal, ne pénalisent pas l’usage des drogues, le nombre de toxicomanes reste stable et la mortalité associée diminue.
 

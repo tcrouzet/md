@@ -1,6 +1,6 @@
 # Prêt pour le bikepacking
 
-[Depuis que je suis en Floride](https://tcrouzet.com/2018/09/02/carnet-de-route-aout-2018/), je tourne en rond, surtout à vélo. Alors j’ai cherché des balades plus fun. Très vite, j’ai découvert vers Orlando un raid appelé [l’HuRaCan 300](https://www.singletracksamurai.com/huracan-300/) défini comme « the ULTIMATE OFF-ROAD ENDURANCE EXPERIENCE in the state of Florida ». Plus de 600 km de singles et de routes forestières, de rivières à franchir, de marécages à traverser, avec nécessité de camper dans la nature. C’est ainsi que j’ai découvert le [bikepacking](http://www.bikepacking.com/).<span id="more-50711"></span>
+[Depuis que je suis en Floride](https://tcrouzet.com/2018/09/02/carnet-de-route-aout-2018/), je tourne en rond, surtout à vélo. Alors j’ai cherché des balades plus fun. Très vite, j’ai découvert vers Orlando un raid appelé [l’HuRaCan 300](https://www.singletracksamurai.com/huracan-300/) défini comme « the ULTIMATE OFF-ROAD ENDURANCE EXPERIENCE in the state of Florida ». Plus de 600 km de singles et de routes forestières, de rivières à franchir, de marécages à traverser, avec nécessité de camper dans la nature. C’est ainsi que j’ai découvert le [bikepacking](http://www.bikepacking.com/).
 
 Je connaissais le backpacking, la randonnée à pied avec sac à dos. Je connaissais le cyclotourisme ou *bike touring*, le vélo de route chargé de lourdes sacoches à l’avant et à l’arrière. J’étais en train de comprendre que depuis quelques années ces deux disciplines s’étaient accouplées pour donner naissance au bikepacking.
 

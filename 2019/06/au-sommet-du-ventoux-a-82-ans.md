@@ -1,6 +1,6 @@
 # Au sommet du Ventoux à 82 ans
 
-Depuis que je fais du VTT avec la bande de Balaruc-les-Bains, il m’arrive de rouler avec Jean. Chaque année nous devons fêter son anniversaire au sommet du Ventoux, chaque année nous annulons pour une raison ou une autre, cette fois, pour son quatre-vingt-deuxième anniversaire, nous nous sommes attaqués au géant de Provence.<span id="more-51748"></span>
+Depuis que je fais du VTT avec la bande de Balaruc-les-Bains, il m’arrive de rouler avec Jean. Chaque année nous devons fêter son anniversaire au sommet du Ventoux, chaque année nous annulons pour une raison ou une autre, cette fois, pour son quatre-vingt-deuxième anniversaire, nous nous sommes attaqués au géant de Provence.
 
 Jean est un petit sarment de vigne anguleux, au nez aquilin et au regard clair, souvent en tenue bleue sur son VTT bleu. Ancien militaire, il conserve un côté péremptoire. Quand il a décidé quelque chose, ça doit se faire quand il l’a décidé et comme il l’a décidé, ce qui nous entraîne souvent dans des voies sans issue, dont il n’accepte de se détourner que quand l’évidence s’impose à lui après s’être d’abord imposée à tous, ce qui est la conséquence de son caractère jusqu’au-boutiste, un acharnement qui implique une forme éblouissante, presque surnaturelle.
 

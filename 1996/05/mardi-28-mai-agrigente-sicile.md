@@ -42,6 +42,8 @@ La symphonie n’existe plus. Elle quitta la peinture au XVII<sup>e</sup>, la mu
 
 ![Daniel Cartier, Cactus et baignoire.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/1996/05/cartier.jpg)
 
+Daniel Cartier, Cactus et baignoire.
+
 La photo de Daniel Cartier, *Cactus et baignoire*, symbolise notre époque : époque où on picore, où on réédifie l’œuvre en soi, pour soi. Voilà peut-être pourquoi nous ne communiquons plus réellement. Nous ne faisons que nous picorer les uns les autres. C’est une nouvelle façon de vivre, nouvelle façon de faire, et le voyage moderne en est la plus vibrante illustration. Nous sautons de temple en temple, nous sillonnons le monde de plus en plus vite même si nous aspirons au calme. Comme toujours nous trébuchons sur une dichotomie : d’un côté, la vitesse (elle nous est donnée) ; d’un autre, le silence (nous le désirons).
 
 Plutôt que de quêter l’essence du monde, nous échantillonnons le monde pour le réédifier. Nous ne sommes plus idéalistes (les idées ne survolent plus le monde), nous sommes métaréalistes (nous construisons une réalité faite d’échantillons de réalité). Il y a translation des vieilles problématiques. Les idées de Platon deviennent des échantillons de réalité. La réalité est réédifiée à partir des échantillons comme la musique est réédifiée à partir des impulsions enregistrées sur un CD. À partir d’échantillons de sons réels, on restitue une musique métaréelle.

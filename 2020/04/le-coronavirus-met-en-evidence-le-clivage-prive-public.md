@@ -1,12 +1,10 @@
 # Le coronavirus met en évidence le clivage privé-public
 
-Suite à [mon explication de pourquoi nous manquons toujours de masques médicaux](https://tcrouzet.com/2020/04/24/pourquoi-pas-de-masque/), un expert en propriété intellectuelle m’a fait une double objection.<span id="more-54111"></span>
+Suite à [mon explication de pourquoi nous manquons toujours de masques médicaux](https://tcrouzet.com/2020/04/24/pourquoi-pas-de-masque/), un expert en propriété intellectuelle m’a fait une double objection.
 
 Je résume mon raisonnement : la rupture d’approvisionnement en solutions hydro-alcooliques n’a jamais été totale parce qu’elles sont libres de droits contrairement aux masques au standard médical qui sont propriétaires et produits uniquement par le secteur privé.
 
 ### Objection 1 : la complexité
-
-**Fabriquer des masques serait beaucoup plus complexe que des solutions hydro-alcooliques. Mon expert me fait cette démonstration en me décrivant un processus de fabrication de masques nécessitant des machines spécialisées.**
 
 Pour fabriquer leurs gels, les industriels utilisent des membranes de filtrations micro-millimétriques ou ultra-millimétriques à haut débit permettent d’écarter les impuretés, mais aussi les spores contaminantes, ce qui garantit la qualité des produits. De même, ils mixent plusieurs alcools (éthilique, isopropilique…) et antiseptiques comme la [chlorhexidine digluconate](https://fr.wikipedia.org/wiki/Chlorhexidine) ainsi que divers émollients. Ces formulations nécessitent des laboratoires de haute précision, d’autant plus quand il est question de fabriquer des dizaines de milliers de flacons par jour. C’est aussi très complexe.
 
@@ -21,8 +19,6 @@ La première objection ne tient pas. Un concept de masque open source doit inté
 Les formulations hydro-alcooliques ont été pensées pour les pays pauvres, pour les situations de crise. Nous avons besoin d’un modèle de masque répondant aux mêmes critères, mais aussi des modèles de blouse, de surblouse, de gants et des autres équipements médicaux de première nécessité. Plutôt que de les stocker par milliards, nous devons pouvoir les produire partout quand la demande s’accroît soudainement.
 
 ### Objection 2 : les brevets
-
-**Mon expert me rappelle que les brevets ont une durée limitée, souvent de 20 ans. Donc que Didier ait donné ou non les formulations ne changerait rien.**
 
 Un petit rappel chronologique. L’OMS a publié les formulations en 2009. Depuis, grâce à cette publication, une soixantaine de pays pauvres fabriquent des solutions hydro-alcooliques et les soignants sauvent des millions de vies, et désormais c’est le monde qui fabrique ces solutions, sans demander l’avis d’un ayant droit.
 

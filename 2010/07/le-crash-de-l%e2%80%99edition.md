@@ -1,6 +1,6 @@
 # Le crash de l’édition
 
-Plusieurs évènements concomitants m’incitent à démarrer ce billet sans trop savoir où il me mènera. Les éditeurs devraient apprécier cette démarche appliquée à un livre : l’écriture comme aventure tant pour l’écrivain que pour le lecteur. Mais ils ont tendance aujourd’hui à ne publier que les livres qu'eux ou d’autres ont déjà publiés pour un public qu’ils ont préformaté dans leur tête. Grande peur, grande incertitude. Le phénomène n’est pas nouveau.<span id="more-17644"></span>
+Plusieurs évènements concomitants m’incitent à démarrer ce billet sans trop savoir où il me mènera. Les éditeurs devraient apprécier cette démarche appliquée à un livre : l’écriture comme aventure tant pour l’écrivain que pour le lecteur. Mais ils ont tendance aujourd’hui à ne publier que les livres qu'eux ou d’autres ont déjà publiés pour un public qu’ils ont préformaté dans leur tête. Grande peur, grande incertitude. Le phénomène n’est pas nouveau.
 
 Un [commentateur me signale](http://blog.tcrouzet.com/2009/07/17/apres-la-presse-cest-ledition-qui-meurt/#comment-78946) une [lettre de 2006 des Éditions de Fallois](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/07/editions_de_fallois1.jpg) trouvée sur [Lettres de refus de manuscrits](http://refusdediteurs.webs.com/).
 

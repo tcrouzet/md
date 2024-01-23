@@ -1,6 +1,6 @@
 # La rhétorique de «&nbsp;L’autre con&nbsp;»
 
-Comment un humain pourrait-il ignorer la nature humaine, comment pourrait-il parler des choses sociales en se mettant lui-même en dehors de la société ? J’aimerais bien le savoir, d’autant qu’on m’accuse souvent de ne pas prendre en compte l’humain. Révélation : je suis un extraterrestre… et les humains les plus éveillés m’ont démasqué.<span id="more-17676"></span>
+Comment un humain pourrait-il ignorer la nature humaine, comment pourrait-il parler des choses sociales en se mettant lui-même en dehors de la société ? J’aimerais bien le savoir, d’autant qu’on m’accuse souvent de ne pas prendre en compte l’humain. Révélation : je suis un extraterrestre… et les humains les plus éveillés m’ont démasqué.
 
 Soyons sérieux. [J’ai d’ailleurs déjà écrit sur le sujet de la nature humaine.](http://blog.tcrouzet.com/2008/08/18/de-la-nature-humaine/) Personne, absolument personne, ne peut parler des autres hommes sans prendre en compte leur particularité. Je n’échappe pas à la règle, d’autant que je parle souvent de moi, de mes amis, de ce que j’observe autour de moi. Peut-être que je vis dans un rare paradis, peuplé d’étranges spécimens… Si tel était le cas, cela suffirait à prouver que les humains ne sont pas un mais peuvent se révéler sous différentes facettes, ce que je crois bien sûr.
 

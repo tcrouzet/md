@@ -1,6 +1,6 @@
 # Assange ou la honte d’être Français
 
-Je n’ai jamais été fier d’être Français, pas plus que d’être blanc ou de sexe masculin. Je me sens avant tout humain, et même pas humain puisque, à l'image des Grecs anciens, je respecte les dauphins autant que mes semblables. Je suis un être conscient, et en ce sens je respecte toutes les consciences.<span id="more-41764"></span>
+Je n’ai jamais été fier d’être Français, pas plus que d’être blanc ou de sexe masculin. Je me sens avant tout humain, et même pas humain puisque, à l'image des Grecs anciens, je respecte les dauphins autant que mes semblables. Je suis un être conscient, et en ce sens je respecte toutes les consciences.
 
 Mais si je ne peux être fier d’être Français, je peux en avoir honte. C’est aujourd’hui le cas. J’ai honte que mon représentant à la tête de la nation où je suis né [refuse de donner l’asile politique](http://www.metronews.fr/info/wikileaks-la-france-rejette-la-demande-d-asile-de-julian-assange/mogc!4QDL43jw7cHPI/) à [Julian Paul Assange](http://www.lemonde.fr/idees/article/2015/07/03/julian-assange-monsieur-hollande-accueillez-moi-en-france_4668919_3232.html), jugé coupable de dire des vérités fâcheuses.
 

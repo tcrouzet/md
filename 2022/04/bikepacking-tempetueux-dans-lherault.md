@@ -1,6 +1,6 @@
 # Bikepacking tempétueux dans l’Hérault
 
-Au débouché d’un virage, une bourrasque de neige manque nous renverser. Tout est blanc. La piste, le ciel, la forêt. Seule les crêtes noires désignent notre direction alors que nous escaladons les avant-monts de l’Hérault. Coup de pédale après coup de pédale, nos pneus font craquer la croûte de glace, révélant au-dessous les veines sombres de la terre gorgée d’humidité. Température : -4°. Vent : 80 km/h, avec rafales à 100 km/h.<span id="more-63800"></span>
+Au débouché d’un virage, une bourrasque de neige manque nous renverser. Tout est blanc. La piste, le ciel, la forêt. Seule les crêtes noires désignent notre direction alors que nous escaladons les avant-monts de l’Hérault. Coup de pédale après coup de pédale, nos pneus font craquer la croûte de glace, révélant au-dessous les veines sombres de la terre gorgée d’humidité. Température : -4°. Vent : 80 km/h, avec rafales à 100 km/h.
 
 Nous pédalons depuis le matin contre la tempête et le froid, contre notre envie de faire demi-tour et de nous laisser pousser par la tourmente vers des rivages plus cléments, peut-être avant tout contre nos penchants casaniers. Au profit d’un replat, lors de la traversée de la départementale 612 où un restaurant aurait pu être ouvert, nous nous attendons les uns les autres, bientôt treize blottis dans un abribus providentiel, pendant que Maud sort son réchaud et décide de préparer une soupe lyophilisée qui sauvera la vie de William. Nous ne le savons pas encore, mais nous vivons le 2 avril le plus froid depuis 1947.
 

@@ -1,6 +1,6 @@
 # Libre de publier mais pas libre de lire
 
-Jusqu’à l’avènement du Web, grosso-modo en 1995, la liberté d’expression était une illusion. Seule une élite de journalistes, écrivains, artistes, scientifiques… pouvait parler à leurs contemporains. Depuis, tout au moins en occident et pour peu que nous fassions l’effort de maîtriser quelques outils, nous avons la liberté de publier nos textes, photos, vidéos, musiques… sans l’aval d’un éditeur.<span id="more-8801"></span>
+Jusqu’à l’avènement du Web, grosso-modo en 1995, la liberté d’expression était une illusion. Seule une élite de journalistes, écrivains, artistes, scientifiques… pouvait parler à leurs contemporains. Depuis, tout au moins en occident et pour peu que nous fassions l’effort de maîtriser quelques outils, nous avons la liberté de publier nos textes, photos, vidéos, musiques… sans l’aval d’un éditeur.
 
 Nous sommes libres de nous exprimer. Mais sommes-nous libres de lire ? Est-on libre quand on est forcé de lire un livre de poche imprimé en Garamond en corps 9 ? Est-on libre lorsqu’on doit aller sur le site du *Monde* pour lire un article du *Monde* et subir les publicités du *Monde* ? Est-on libre si on ne peut regarder une photo publiée sur Flickr que sur Flickr ? Est-on libre si on lit cet article uniquement sur [le blog de Thierry Crouzet](http://blog.tcrouzet.com/) avec sa mise en page un peu négligée et flottante ?
 

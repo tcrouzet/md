@@ -1,6 +1,6 @@
 # Conseils aux parents numériques
 
-J’ai répondu il y a quelques semaines à trois questions de [Raphael Sachetat pour *Les Échos*](http://www.lesechos.fr/luxe/loisirs-voyages/technopolis/0203107835365-la-maison-connectee-va-t-elle-vraiment-nous-rendre-heureux-627352.php). Sujet : le bonheur 2.0, la maison connectée…<span id="more-33707"></span>
+J’ai répondu il y a quelques semaines à trois questions de [Raphael Sachetat pour *Les Échos*](http://www.lesechos.fr/luxe/loisirs-voyages/technopolis/0203107835365-la-maison-connectee-va-t-elle-vraiment-nous-rendre-heureux-627352.php). Sujet : le bonheur 2.0, la maison connectée…
 
 *— Les outils connectés (dans la maison) peuvent-ils contribuer au bonheur ? (on fait ici référence aux Smartphones, Tablettes, aux smart TV, aux fichiers dématérialisées…)*
 

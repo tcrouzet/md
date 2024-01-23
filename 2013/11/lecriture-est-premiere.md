@@ -1,6 +1,6 @@
 # L’écriture est première
 
-Laurent Margantin déclare : « [Le blog est pour moi premier](http://webassoauteurs.wordpress.com/2013/11/29/quest-ce-que-lecriture-web/). » Pour ma part, je ne suis pas sûr de réussir à mettre quelque chose avant quelque chose d'autre (c’est mon côté non essentialiste). Avec un peu de mauvaise foi, je peux néanmoins déclarer : « L’écriture est pour moi première. »<span id="more-33804"></span>
+Laurent Margantin déclare : « [Le blog est pour moi premier](http://webassoauteurs.wordpress.com/2013/11/29/quest-ce-que-lecriture-web/). » Pour ma part, je ne suis pas sûr de réussir à mettre quelque chose avant quelque chose d'autre (c’est mon côté non essentialiste). Avec un peu de mauvaise foi, je peux néanmoins déclarer : « L’écriture est pour moi première. »
 
 J’imagine que Picasso aurait déclaré : « La peinture est pour moi première. » Jamais il n’aurait dit « Le Ripolin est pour moi premier », ou « Le collage est pour moi premier », ou même « Le cubisme est pour moi premier. » Une forme n’en exclut pas une autre, encore moins un support de médiation, ce qu’est le blog, l’équivalent de la toile de jute opposée à la toile de lin, au panneau de bois, au mur de plâtre (et c'est énorme ce que ça change).
 

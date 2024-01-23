@@ -6,7 +6,7 @@ Ou le temps des propulseurs
 
 Ou quand les petits ruisseaux font de grandes rivières.
 
-À force de parler de [flux](http://blog.tcrouzet.com/tag/flux/) et de penser par flux, je me demande si je ne suis pas en train d’écrire un nouveau livre, suite du *Peuple des connecteurs* et du *Cinquième pouvoir* tout en mettant en suspend [*Le socialisme selon Starglider*](http://blog.tcrouzet.com/tag/starglider/).<span id="more-9168"></span>
+À force de parler de [flux](http://blog.tcrouzet.com/tag/flux/) et de penser par flux, je me demande si je ne suis pas en train d’écrire un nouveau livre, suite du *Peuple des connecteurs* et du *Cinquième pouvoir* tout en mettant en suspend [*Le socialisme selon Starglider*](http://blog.tcrouzet.com/tag/starglider/).
 
 > FLUX nom masculin (1306 ; du latin fluxus qui signifie écoulement). Écoulement d’un liquide quelconque hors de son réservoir habituel. Marée montante. Le flux impétueux de la foule. Flux de paroles, bavardage. Flux lumineux : quantité de lumière émise par une source lumineuse dans un temps déterminé. Par extension : écoulement de l’information en même temps que l’information elle-même qui s’écoule. Alors synonyme de flot.
 

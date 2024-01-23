@@ -1,6 +1,6 @@
 # NFT : une chaîne de spéculation vertueuse pour les créateurs
 
-[Au gré de mes expérimentations](https://tcrouzet.com/tag/nft/), je découvre les bons et les mauvais côtés des NFT, et aussi entrevois de nouvelles possibilités.<span id="more-61293"></span>
+[Au gré de mes expérimentations](https://tcrouzet.com/tag/nft/), je découvre les bons et les mauvais côtés des NFT, et aussi entrevois de nouvelles possibilités.
 
 Initialement, je me suis dit voilà une opportunité de vendre des textes inédits ou remis en forme graphiquement. Il s’agissait de permettre à des collectionneurs d’investir dans la littérature contemporaine née sur le Net. Après tout, [Jack Dorsey a vendu son premier tweet pour 2,9 millions de dollars](https://www.bbc.com/news/business-56492358). Tout en sachant que les amoureux de littérature numérique étaient d’autres auteurs de littérature numérique et non des geeks férus de cryptomonnaies, j’ai tenté de vendre quelques œuvres, non dans l’espoir fou de faire fortune, mais parce que j’aime me dire « pourquoi pas ».
 

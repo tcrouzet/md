@@ -1,6 +1,6 @@
 # La fiction comme maïeutique
 
-[Si j’aime les titres provocateurs](http://blog.tcrouzet.com/2010/09/17/comment-provoquer-un-buzz-pour-pas-cher), j’aime aussi les titres qui ont toutes les chances de dissuader les lecteurs. Je constate qu’une partie sans cesse croissante du trafic de mon blog provient des réseaux sociaux. Ces visiteurs arrivent chez moi par le plus grand des hasards, un hasard presque aussi grand qu'après une requête Google. Le plus souvent, ils lisent un article et repartent sans montrer plus de curiosité.<span id="more-20426"></span>
+[Si j’aime les titres provocateurs](http://blog.tcrouzet.com/2010/09/17/comment-provoquer-un-buzz-pour-pas-cher), j’aime aussi les titres qui ont toutes les chances de dissuader les lecteurs. Je constate qu’une partie sans cesse croissante du trafic de mon blog provient des réseaux sociaux. Ces visiteurs arrivent chez moi par le plus grand des hasards, un hasard presque aussi grand qu'après une requête Google. Le plus souvent, ils lisent un article et repartent sans montrer plus de curiosité.
 
 Dois-je m’en plaindre ? C’est une évolution que je n’aime pas beaucoup. De moins en moins de lecteurs reviennent billet après billet et ce n’est que par cette pénitence que l’on peut imaginer le blog comme aventure intellectuelle et littéraire : non pas une série d’articles décousus mais un chapelet de textes qui se répondent les uns aux autres et forment un ensemble.
 

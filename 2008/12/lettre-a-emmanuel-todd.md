@@ -1,6 +1,6 @@
 # Lettre à Emmanuel Todd
 
-J’aurais aimé écrire un livre intitulé *[Après la démocratie](http://www.amazon.fr/Apr%C3%A8s-d%C3%A9mocratie-Emmanuel-Todd/dp/2070786838)*, j’y aurais parlé de la démocratie qui n’a pas encore vu le jour. Vous, dans ce livre, vous parlez de la fin de la démocratie et des solutions désespérées pour la sauver. C'est un peu gâcher mais je reconnais vous avoir lu avec impatience en deux jours. Vos chiffres et vos analyses m'ont stimulé tout en ouvrant des pistes de réflexion.<span id="more-4022"></span>
+J’aurais aimé écrire un livre intitulé *[Après la démocratie](http://www.amazon.fr/Apr%C3%A8s-d%C3%A9mocratie-Emmanuel-Todd/dp/2070786838)*, j’y aurais parlé de la démocratie qui n’a pas encore vu le jour. Vous, dans ce livre, vous parlez de la fin de la démocratie et des solutions désespérées pour la sauver. C'est un peu gâcher mais je reconnais vous avoir lu avec impatience en deux jours. Vos chiffres et vos analyses m'ont stimulé tout en ouvrant des pistes de réflexion.
 
 J’ai l’impression que nous sommes dans le même camp. Vous descendez avec tant de force nos politicards que je ne peux que vous applaudir. Au sujet de Sarkozy et de Ségolène, vous écrivez :
 

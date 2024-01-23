@@ -1,6 +1,6 @@
 # Écrire à la vitesse de la pensée
 
-[L’écriture manuscrite est-elle une chose ancienne ?](http://lafeuille.homo-numericus.net/2009/12/lecriture-manuelle-est-de-lhistoire-ancienne.html) interroge Hubert Guillaud. Est-ce qu’on écrit plus vite au clavier ?<span id="more-12794"></span>
+[L’écriture manuscrite est-elle une chose ancienne ?](http://lafeuille.homo-numericus.net/2009/12/lecriture-manuelle-est-de-lhistoire-ancienne.html) interroge Hubert Guillaud. Est-ce qu’on écrit plus vite au clavier ?
 
 Je me suis souvent posé la question. Je n’ai aucune réponse définitive quand à ce qui se passera à l’avenir. On peut imaginer des logiciels qui interpréteront des micro-gestes et nous permettrons de saisir le texte à la vitesse de la pensée. Où tout simplement des dictées vocale, ou juste quasi télépathiques. Parlerons-nous encore d’écriture ? Une certitude nous devrions disposer de plus en plus d’interfaces pour transcoder nos pensées en textes.
 

@@ -1,6 +1,6 @@
 # Facebook et Twitter s&#8217;écrouleront comme un château de cartes
 
-Quand je critique Facebook ou Twitter, on me répond souvent : « C’est juste des outils. Je les plie à mon usage. » Et je rétorque avec mon tact habituel : « Vous n’avez rien compris. »<span id="more-32908"></span>
+Quand je critique Facebook ou Twitter, on me répond souvent : « C’est juste des outils. Je les plie à mon usage. » Et je rétorque avec mon tact habituel : « Vous n’avez rien compris. »
 
 Un bar est-il un outil ? Avez-vous au moins une fois envisagé un bar sous cette perspective ? Moi, pas. Un bar est un lieu où je bois des jus d’abricot, où je retrouve des amis, où je bouquine, où j’écris, où je discute, où je rencontre… c’est un lieu de socialisation. Il faut posséder une pensée bien alambiquée pour le considérer comme un outil de socialisation, sorte d’équivalent du téléphone. Et si on raisonne comme ça tout est outil, même les humains.
 

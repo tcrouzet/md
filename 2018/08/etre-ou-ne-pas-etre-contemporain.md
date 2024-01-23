@@ -1,6 +1,6 @@
 # Être ou ne pas être contemporain ?
 
-Je me pose cette question alors même que je me sens de moins en moins contemporain, ce qui pour moi s’apparente à une forme de dépression.<span id="more-49528"></span>
+Je me pose cette question alors même que je me sens de moins en moins contemporain, ce qui pour moi s’apparente à une forme de dépression.
 
 Tout d’abord pourquoi me poser cette question à cet instant précis ? Simplement, bêtement, parce que le sujet a émergé dans notre petite sphère littéraire suite à un [interview de Johan Faerber](https://diacritik.com/2018/08/21/johan-faerber-le-contemporain-nest-ni-une-licorne-ni-un-elephant-rose-apres-la-litterature/) et aux commentaires de [François Bon](https://www.facebook.com/bonperso/posts/1880772215344839). J’ai vu tout ça passer au loin, sans réagir, puis ce matin, je me suis réveillé de ma solitude, presque avec douleur, avec la sensation de ne pas être dans le débat, de ne même pas avoir envie d’en être et alors de me dire que ce refus était peut-être un début de réponse à la question posée en titre.
 

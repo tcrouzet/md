@@ -2,8 +2,6 @@
 
 Ce matin, j’ai juste eu le temps de saisir ma caméra vidéo pour attraper au passage une magnifique flotte de flamants roses (la vidéo n'est pas top, j'essaie de recommencer demain car ils passent presque tous les jours au-dessus de la maison).
 
-<div></div>
-
 Dans [Le peuple des connecteurs](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), j’ai décrit [les trois règles qui permettent aux oiseaux de voler en flotte](http://www.red3d.com/cwr/boids/), c’est-à-dire de s’auto-organiser en l’absence de leader. En 1987, à partir de ces règles, Craig Reynolds réalisa un film d’animation que voici.
 
 Toutefois, avec les règles de Reynolds, les magnifiques formations de vol en V n’émergent pas. Il manquerait une règle. Deux idées :

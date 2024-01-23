@@ -1,6 +1,6 @@
 # Croisade biographique
 
-Je vais un peu parler de moi. Je ne veux pas rendre mon blog plus intimiste, j’espère juste que vous allez mieux comprendre mes projets et que vous pourrez un peu m’aider.<span id="more-469"></span>
+Je vais un peu parler de moi. Je ne veux pas rendre mon blog plus intimiste, j’espère juste que vous allez mieux comprendre mes projets et que vous pourrez un peu m’aider.
 
 Je commence par une longue chronologie. Depuis 1985, j’écris des romans, plutôt des pseudo-romans, que je n’ai jamais publiés. C’est en fait mon activité principale ! J’en ai une dizaine en stock. Une fois qu’ils sont terminés, je les trouve bons. Puis, avec le temps, ils deviennent de plus en plus mauvais. Aujourd’hui, ils sont si loin de mes préoccupations que je n’ai guère envie de les retoucher, ne serait-ce que pour les diffuser gratuitement.
 

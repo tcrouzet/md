@@ -16,7 +16,7 @@ Pour son numéro de mars 2014, [*Les Cahiers européens de l’imaginaire*](http
 10. Si la réalité existe, elle est soit cohérente, soit incohérente. Si elle est cohérente, nous ne pouvons pas la formaliser avec cohérence, donc elle nous apparaît incohérente. Pour nous, la réalité est donc inévitablement incohérente.
 11. La question de savoir ce qu’est la réalité est un piège tautologique. Taisons les questions, cessons de douter et la réalité nous apparaît dans toute sa pureté.
 
-<center>\*</center>
+\*
 
 Il avait effectué un nombre incalculable de fois ce raisonnement. Chaque fois il aboutissait à la même conclusion. « C’est stupide, lui lançait sa femme. Viens plutôt faire la vaisselle. Il n’y a qu’une réalité : les tâches nécessaires. »
 

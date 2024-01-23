@@ -1,6 +1,6 @@
 # Quand le blog devient ebook
 
-En prévision de [ma déconnexion totale](http://blog.tcrouzet.com/2011/03/18/je-ferme-mon-blog/), je viens de convertir [mon blog au format epub](http://blog.tcrouzet.com/les-annees-blog/), pour pouvoir le consulter éventuellement sur ma liseuse ou mon ordinateur.<span id="more-22249"></span>
+En prévision de [ma déconnexion totale](http://blog.tcrouzet.com/2011/03/18/je-ferme-mon-blog/), je viens de convertir [mon blog au format epub](http://blog.tcrouzet.com/les-annees-blog/), pour pouvoir le consulter éventuellement sur ma liseuse ou mon ordinateur.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/03/ablog.png)
 

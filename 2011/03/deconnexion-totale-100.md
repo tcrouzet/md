@@ -1,6 +1,6 @@
 # Déconnexion totale 100 %
 
-C’est le dernier billet que je publie pour les neuf mois qui arrivent. Je me débranche après propulsion. [Mon expérience de déconnexion](http://blog.tcrouzet.com/2011/03/18/je-ferme-mon-blog/) commence maintenant. Vous me retrouverez en terrasse de café ou vous attendrez janvier 2012 et la publication chez Fayard du récit de cette aventure.<span id="more-22317"></span>
+C’est le dernier billet que je publie pour les neuf mois qui arrivent. Je me débranche après propulsion. [Mon expérience de déconnexion](http://blog.tcrouzet.com/2011/03/18/je-ferme-mon-blog/) commence maintenant. Vous me retrouverez en terrasse de café ou vous attendrez janvier 2012 et la publication chez Fayard du récit de cette aventure.
 
 Qu’est-ce que cela implique ?
 
@@ -13,9 +13,6 @@ Qu’est-ce que cela implique ?
 7. Je modifie le look du blog pour mettre en avant mes livres et non pas les derniers billets.
 8. J’ai installé [un serveur ThinkUp](http://tcrouzet.com/thinkup/) pour suivre *a posteriori* les conversations à mon sujet sur les réseaux sociaux. En toute probabilité il ne se passera rien, mais je n'arrive à débrancher franco.
 9. À partir d’un [Search Twitter](http://search.twitter.com/search.atom?q=crouzet), j’ai créé un [Yahoo Pipe](http://pipes.yahoo.com/pipes/pipe.info?_id=bc53bead3dd9ee16abd42b203249958f) que j’ai donné à manger à mon Google Reader en vue d’archivage.
-    
-    
-    
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/03/pipe.png)
 

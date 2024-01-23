@@ -1,6 +1,6 @@
 # Satori à Lake Lindsay
 
-Quand je me suis engagé dans l’[HuRaCan 2019](https://www.singletracksamurai.com/huracan-300/), « the ULTIMATE OFF-ROAD ENDURANCE EXPERIENCE in the state of Florida », je ne savais pas à quoi m’attendre. Je n’avais jamais effectué de course d’endurance ni la moindre randonnée en bikepacking. Pire, en une journée, je n’avais jamais parcouru plus de 115 km à vélo de route et 75 km à VTT. J’avais de gros doutes quant à mes capacités mentales et physiques à réussir à avaler plus de 600 km, dont 80 % non asphalté avec 30 % de singles.<span id="more-50799"></span>
+Quand je me suis engagé dans l’[HuRaCan 2019](https://www.singletracksamurai.com/huracan-300/), « the ULTIMATE OFF-ROAD ENDURANCE EXPERIENCE in the state of Florida », je ne savais pas à quoi m’attendre. Je n’avais jamais effectué de course d’endurance ni la moindre randonnée en bikepacking. Pire, en une journée, je n’avais jamais parcouru plus de 115 km à vélo de route et 75 km à VTT. J’avais de gros doutes quant à mes capacités mentales et physiques à réussir à avaler plus de 600 km, dont 80 % non asphalté avec 30 % de singles.
 
 J’étais certes entraîné, parcourant environ 200 km/semaine en gravel ou VTT, [j’avais minutieusement préparé mon vélo et mon équipement](https://tcrouzet.com/2019/01/31/pret-pour-le-bikepacking/), [j’avais étudié le parcours](https://drive.google.com/open?id=1_Up-vkTOf9FQricNRjAjMikkZLh_bEkt&usp=sharing), mais j’étais définitivement un rookie.
 

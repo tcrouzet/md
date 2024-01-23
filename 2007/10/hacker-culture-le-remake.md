@@ -1,6 +1,6 @@
 # Hacker culture : le remake
 
-Pour moi, un hacker est un provocateur. Il provoque les défenseurs du droit d’auteur. Il provoque même les défenseurs du droit de propriété en posant des questions essentielles.<span id="more-629"></span>
+Pour moi, un hacker est un provocateur. Il provoque les défenseurs du droit d’auteur. Il provoque même les défenseurs du droit de propriété en posant des questions essentielles.
 
 À qui appartient cet air que nous respirons ? Il n’appartient à personne. S’il devait appartenir à quelqu’un, ce serait à l’homme du futur, aux générations à venir qui en auront un besoin vital. Nous n’avons pas le droit de les déposséder.
 

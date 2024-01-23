@@ -1,6 +1,6 @@
 # Bikepacking brûlant dans l’Aubrac
 
-Tout commence le 31 janvier 2020 par un message anodin de [Romain Bossard](https://www.facebook.com/romain.bossard.5), un des animateurs de l’association [Hors Tarces Aventures](https://www.hors-traces-aventures.fr/), qui m’invite à participer au [Houblon Tour](https://originesaventures.wixsite.com/raids/origines-houblon-tour), un de leurs événements bikepacking-gravel organisé du 31 juillet au 2 août 2020.<span id="more-54625"></span>
+Tout commence le 31 janvier 2020 par un message anodin de [Romain Bossard](https://www.facebook.com/romain.bossard.5), un des animateurs de l’association [Hors Tarces Aventures](https://www.hors-traces-aventures.fr/), qui m’invite à participer au [Houblon Tour](https://originesaventures.wixsite.com/raids/origines-houblon-tour), un de leurs événements bikepacking-gravel organisé du 31 juillet au 2 août 2020.
 
 C’était avant le covid, avant le confinement. Mon programme bikepacking était copieusement rempli, mais avec un trou juste à ce moment, alors j’ai dit oui, sans plus réfléchir. Je devais rencontrer Romain à l’occasion du [Grand Tour de l’Hérault](https://tcrouzet.com/tag/gth/) en avril, annulé comme bien d’autres événements, et puis le temps a passé, nous avons pensé à autre chose, ne reprenant vraiment le vélo que mi-mai.
 

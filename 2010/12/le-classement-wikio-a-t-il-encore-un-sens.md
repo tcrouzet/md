@@ -1,6 +1,6 @@
 # Le classement Wikio a-t-il encore un sens ?
 
-Quand Claire de chez [Wikio](http://www.wikio.fr/) m’a proposé de publier le [top Wikio des blogs société](http://www.wikio.fr/blogs/top/Soci%C3%A9t%C3%A9) en avant-première, j’ai répondu oui. Claire ne doit pas me connaître, elle ne s’est pas méfiée. Elle me donnait l’occasion de dire du mal de Wikio.<span id="more-20677"></span>
+Quand Claire de chez [Wikio](http://www.wikio.fr/) m’a proposé de publier le [top Wikio des blogs société](http://www.wikio.fr/blogs/top/Soci%C3%A9t%C3%A9) en avant-première, j’ai répondu oui. Claire ne doit pas me connaître, elle ne s’est pas méfiée. Elle me donnait l’occasion de dire du mal de Wikio.
 
 Tout d’abord, le classement Wikio a-t-il jamais eu le moindre intérêt ? Oui, il a au moins l’intérêt de nous faire découvrir des blogs. Je suis mal placé pour dire le contraire. Tout au long de 2006 et jusqu’à la présidentielle 2007, je me suis amusé à classer les blogs politiques avec une méthode pas si différente de celle de Wikio. Je me rappelle même en avoir expliqué l’intérêt à [Pierre Chappaz](http://www.kelblog.com/) tout début 2007 à Genève.
 

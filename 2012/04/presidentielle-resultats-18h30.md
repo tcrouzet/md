@@ -1,6 +1,6 @@
 # Présidentielle résultats 18h30
 
-[Je ne voterai pas dimanche](http://blog.tcrouzet.com/2012/04/11/je-brule-ma-carte-electeur-100-raisons-pour-ne-pas-voter/), mais le grand bal électoral m’amuse. Je m’intéresse avant tout à la forme de la courbe des résultats et il me semble opportun de l'analyser le plus tôt possible avant les logorrhées partisanes.<span id="more-23677"></span>
+[Je ne voterai pas dimanche](http://blog.tcrouzet.com/2012/04/11/je-brule-ma-carte-electeur-100-raisons-pour-ne-pas-voter/), mais le grand bal électoral m’amuse. Je m’intéresse avant tout à la forme de la courbe des résultats et il me semble opportun de l'analyser le plus tôt possible avant les logorrhées partisanes.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/04/2012_4_19.png)
 

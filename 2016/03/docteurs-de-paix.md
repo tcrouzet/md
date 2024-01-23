@@ -1,6 +1,6 @@
 # Docteurs de paix
 
-Dans la [*Déclaration des droits de l'homme de 1948*](http://www.un.org/fr/universal-declaration-human-rights/index.html), le mot « santé » n'apparaît qu'une fois, dans l'article 25, bien après le mot « liberté », mais surtout bien après le mot « propriété » sujet exclusif de l'article 17. Pourtant, il est fort à parier que si on vous demande de choisir entre vos propriétés et votre santé, vous choisirez la santé.<span id="more-43669"></span>
+Dans la [*Déclaration des droits de l'homme de 1948*](http://www.un.org/fr/universal-declaration-human-rights/index.html), le mot « santé » n'apparaît qu'une fois, dans l'article 25, bien après le mot « liberté », mais surtout bien après le mot « propriété » sujet exclusif de l'article 17. Pourtant, il est fort à parier que si on vous demande de choisir entre vos propriétés et votre santé, vous choisirez la santé.
 
 > **Article 3** Tout individu a droit à la vie, à la liberté et à la sûreté de sa personne.
 
@@ -23,6 +23,8 @@ Je crois qu’il est important que leurs histoires soient racontées. La santé 
 *PS : J’ai initialement écrit cer article pour Didier Pittet qui a publié une version légèrement différente sur le [Huffingthonpost](http://www.huffingtonpost.fr/didier-pittet/sante-droits-de-lhomme_b_9417130.html).*
 
 ![Denis Mukwege](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/1200px-Denis_Mukwege_VOA.jpg)
+
+Denis Mukwege
 
 
 

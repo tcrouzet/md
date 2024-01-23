@@ -1,6 +1,6 @@
 # Comment préparer un raid bikepacking
 
-Ou pour être exact, comment je prépare mon troisième raid. Par raid, j’entends une [épreuve organisée](https://ridefar.info/races/list/), [French Divide](http://www.frenchdivide.com/) par exemple, éventuellement avec un grand départ, suivant un parcours prédéfini. Sur ce parcours certains feront la course, d’autres tenteront d’atteindre leurs limites, d’autres enfin, comme moi, se fixeront l’objectif raisonnable de terminer en prenant du plaisir.<span id="more-51306"></span>
+Ou pour être exact, comment je prépare mon troisième raid. Par raid, j’entends une [épreuve organisée](https://ridefar.info/races/list/), [French Divide](http://www.frenchdivide.com/) par exemple, éventuellement avec un grand départ, suivant un parcours prédéfini. Sur ce parcours certains feront la course, d’autres tenteront d’atteindre leurs limites, d’autres enfin, comme moi, se fixeront l’objectif raisonnable de terminer en prenant du plaisir.
 
 En général, les organisateurs fournissent [une trace GPX](https://tcrouzet.com/2019/03/21/randos-vtt-ou-autres-comment-creer-une-trace-gpx/), une carte avec des points d’intérêt, éventuellement un texte de présentation des difficultés, ils indiquent un forum où les participants peuvent discuter et fixent la date du grand départ, ce qui n’empêche pas de partir à sa guise, on se range alors dans la catégorie ITT (individual time trial).
 

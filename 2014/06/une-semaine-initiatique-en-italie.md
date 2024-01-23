@@ -1,6 +1,6 @@
 # Une semaine initiatique en Italie
 
-En décembre 2013, [j’ai été invité en Basilicate par l’agence de promotion de la région](http://blog.tcrouzet.com/tag/basilicate/) pour écrire un journal de voyage. J’avais carte blanche. Je me suis simplement laissé dériver et enivrer par la lumière. J’ai découvert un immense jardin entre montagne et mer, une autre Italie, pure, limpide, sauvage… avec des villages et des villes sublimes, perchées au-dessus de vallées bleutées.<span id="more-36226"></span>
+En décembre 2013, [j’ai été invité en Basilicate par l’agence de promotion de la région](http://blog.tcrouzet.com/tag/basilicate/) pour écrire un journal de voyage. J’avais carte blanche. Je me suis simplement laissé dériver et enivrer par la lumière. J’ai découvert un immense jardin entre montagne et mer, une autre Italie, pure, limpide, sauvage… avec des villages et des villes sublimes, perchées au-dessus de vallées bleutées.
 
 J’aurais dû me taire. Que tout cela reste un secret. Mais j’ai commis [*Les confins du monde*](http://blog.tcrouzet.com/les-confins-du-monde/), un petit texte qui m’a procuré un plaisir immense et qui illustre ce que j’aime dans la littérature.
 

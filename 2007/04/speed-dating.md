@@ -1,6 +1,6 @@
 # Speed dating
 
-Après avoir passé la journée à envisager des solutions pour [le grand débat présidentiel sur internet](http://blog.tcrouzet.com/2007/04/04/sarkozy-va-dire-oui/), après avoir lu des dizaines de suggestions et de critiques, je pense que nous devons nous imposer des contraintes :<span id="more-422"></span>
+Après avoir passé la journée à envisager des solutions pour [le grand débat présidentiel sur internet](http://blog.tcrouzet.com/2007/04/04/sarkozy-va-dire-oui/), après avoir lu des dizaines de suggestions et de critiques, je pense que nous devons nous imposer des contraintes :
 
 1. Les 12 candidats sinon rien.
 

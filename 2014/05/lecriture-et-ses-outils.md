@@ -1,6 +1,6 @@
 # L’écriture et ses outils
 
-Les rares fois où j’écoute la radio, parce que je suis obligé de prendre la voiture, j’entends des choses étonnantes. Une nana sur France Info déclare que l’écriture au clavier impliquerait une uniformisation de l’écrit, et de la pensée, parce que toutes les lettres seraient formées semblablement. Pourquoi laisse-t-on dire des choses pareilles ? Peut-être à cause d’un fond [technophobe comme l’explique Yann Leroux](http://psychologik.blogspot.fr/2014/05/36-millions-et-de-technophobes.html).<span id="more-35633"></span>
+Les rares fois où j’écoute la radio, parce que je suis obligé de prendre la voiture, j’entends des choses étonnantes. Une nana sur France Info déclare que l’écriture au clavier impliquerait une uniformisation de l’écrit, et de la pensée, parce que toutes les lettres seraient formées semblablement. Pourquoi laisse-t-on dire des choses pareilles ? Peut-être à cause d’un fond [technophobe comme l’explique Yann Leroux](http://psychologik.blogspot.fr/2014/05/36-millions-et-de-technophobes.html).
 
 La réfutation est pourtant simple. Tout le monde écrit au clavier depuis au moins trente ans et personne n'écrit la même chose. Et ne jouez pas aux cyniques pour confondre toutes nos productions dans la même médiocrité.
 

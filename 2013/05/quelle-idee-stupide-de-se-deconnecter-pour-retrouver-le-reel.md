@@ -1,6 +1,6 @@
 # Quelle idée stupide de se déconnecter pour retrouver le réel
 
-[Le buzz au sujet de l’expérience de déconnexion de Miller](http://www.theverge.com/2013/5/1/4279674/im-still-here-back-online-after-a-year-without-the-internet) me laisse perplexe, surtout ses conclusions, très rassurantes pour l’industrie du Net dont Miller tire ses subsides. Mais passons.<span id="more-32646"></span>
+[Le buzz au sujet de l’expérience de déconnexion de Miller](http://www.theverge.com/2013/5/1/4279674/im-still-here-back-online-after-a-year-without-the-internet) me laisse perplexe, surtout ses conclusions, très rassurantes pour l’industrie du Net dont Miller tire ses subsides. Mais passons.
 
 ![Miller, The Verge](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/05/paul_1020_21-500x332.jpg)
 

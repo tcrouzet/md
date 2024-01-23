@@ -1,6 +1,6 @@
 # Comment faire payer Google ?
 
-Constat : les plateformes web utilisent nos données, l’or numérique, pour les revendre avec de fantastiques bénéfices. Nous en sommes au stade du [capitalisme cognitif](http://tcrouzet.com/tag/capitalisme-cognitif/).<span id="more-45108"></span>
+Constat : les plateformes web utilisent nos données, l’or numérique, pour les revendre avec de fantastiques bénéfices. Nous en sommes au stade du [capitalisme cognitif](http://tcrouzet.com/tag/capitalisme-cognitif/).
 
 Le principe du capitalisme selon Braudel : financer les entreprises qui obtiennent une ressource à faible prix (les esclaves, les matières premières, nos données…) pour les revendre ailleurs ou sous une autre forme afin de maximiser la marge.
 

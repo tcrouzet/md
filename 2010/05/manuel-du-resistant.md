@@ -1,6 +1,6 @@
 # Manuel du résistant
 
-Tel est le titre du livre que je n’ai plus le droit de ne pas écrire dans les semaines qui arrivent (et avec l’aide de chacun d’entre vous). Quand une ultra minorité toujours plus étroite [s’accapare le pouvoir et les privilèges au détriment de la majorité](http://www.futurquantique.org/?p=5969), les membres de cette majorité doivent apprendre à résister tout en travaillant à la construction d’une nouvelle société.<span id="more-16230"></span>
+Tel est le titre du livre que je n’ai plus le droit de ne pas écrire dans les semaines qui arrivent (et avec l’aide de chacun d’entre vous). Quand une ultra minorité toujours plus étroite [s’accapare le pouvoir et les privilèges au détriment de la majorité](http://www.futurquantique.org/?p=5969), les membres de cette majorité doivent apprendre à résister tout en travaillant à la construction d’une nouvelle société.
 
 > Née de la volonté ardente des hommes et des femmes de refuser la défaite, la Résistance n’a pas d’autre raison d’être que la lutte quotidienne sans cesse intensifiée. Ce combat ne prendra pas fin à la Libération. Il est en lui-même le germe de la société future, en développe les mécanismes les plus élémentaires et les plus féconds.
 

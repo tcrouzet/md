@@ -1,6 +1,6 @@
 # Faire son nid sur Wattpad
 
-Mois après mois, Wattpad ajoute une petite couche de lecteurs à [*1 minute*](https://www.wattpad.com/story/29694130-1-minute). Il suffit de zoomer sur la courbe du lectorat pour comprendre la mécanique.<span id="more-42152"></span>
+Mois après mois, Wattpad ajoute une petite couche de lecteurs à [*1 minute*](https://www.wattpad.com/story/29694130-1-minute). Il suffit de zoomer sur la courbe du lectorat pour comprendre la mécanique.
 
 ![Zoom juillet](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/08/watt7_1.png)
 

@@ -1,6 +1,6 @@
 # Un des plaisirs de la chasse
 
-J'ai laissé les enfants à l'école et longé la côte nord de l'étang. Rien de très pittoresque. Je pédale sur une piste cyclable qui trouve presque par miracle un passage entre les pavillons et les routes. Pourtant, j’aperçois un homme dans un champ moissonné, avec en arrière-plan les toits cuivrés du village médiéval de Balaruc le Vieux. L’homme transporte une brassée de bois. Un chien le suit.<span id="more-33383"></span>
+J'ai laissé les enfants à l'école et longé la côte nord de l'étang. Rien de très pittoresque. Je pédale sur une piste cyclable qui trouve presque par miracle un passage entre les pavillons et les routes. Pourtant, j’aperçois un homme dans un champ moissonné, avec en arrière-plan les toits cuivrés du village médiéval de Balaruc le Vieux. L’homme transporte une brassée de bois. Un chien le suit.
 
 Si j’oublie la ligne haute tension qui sillonne le ciel, si j’insiste sur le moutonnement de verdure au pied des remparts, sur la haie de peupliers espacés, sur le clocher massif, avec ses trois baies en ogive, la centrale munie d'une cloche que je n'ai aucune chance d'entendre, si j'éradique de mon esprit le centre commercial que je viens de dépasser, je pourrais me croire en un autre temps.
 

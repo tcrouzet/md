@@ -1,6 +1,6 @@
 # Facebook et Friendfeed tueurs de rêves
 
-Richard Stallman, 1985, [*Le manifeste GNU*](http://www.gnu.org/gnu/manifesto.fr.html). Hakim Bey, 1991, [*TAZ*](http://www.lyber-eclat.net/lyber/taz.html). John Perry Barlow, 1996, [*Déclaration d’indépendance du cyberspace*](http://www.freescape.eu.org/eclat/1partie/Barlow/barlowtxt.html). McKenzie Wark, 2006, [*A Hacker Manifesto*](http://blog.tcrouzet.com/2007/07/16/loin-d%E2%80%99etre-libre/).<span id="more-8016"></span>
+Richard Stallman, 1985, [*Le manifeste GNU*](http://www.gnu.org/gnu/manifesto.fr.html). Hakim Bey, 1991, [*TAZ*](http://www.lyber-eclat.net/lyber/taz.html). John Perry Barlow, 1996, [*Déclaration d’indépendance du cyberspace*](http://www.freescape.eu.org/eclat/1partie/Barlow/barlowtxt.html). McKenzie Wark, 2006, [*A Hacker Manifesto*](http://blog.tcrouzet.com/2007/07/16/loin-d%E2%80%99etre-libre/).
 
 Nous sommes entrées dans le monde numérique avec l’idéal de défendre l’indépendance dans l’interdépendance, l’autonomie avec la responsabilité. Que se passe-t-il aujourd’hui ? Des entrepreneurs nous vendent l’interdépendance sans l’indépendance et atomisent en même temps autonomie et responsabilité.
 

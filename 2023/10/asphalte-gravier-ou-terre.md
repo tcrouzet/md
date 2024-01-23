@@ -1,6 +1,6 @@
 # Asphalte, gravier ou terre ?
 
-Je profite d’une crève tenace, qui m’empêche d’écrire autant que de pédaler pour pondre du code, potentiellement utile aux gravellistes, vététistes et bikepackers. C’est ma façon de me détendre. En bricolant [mon système pour remonter les POI d’une trace GPX](https://tcrouzet.com/2023/10/23/enrichir-automatiquement-vos-itineraires-avec-des-points-dinteret/), j’ai découvert une méthode pour établir des statistiques précises sur la nature des terrains parcourus.<span id="more-65261"></span>
+Je profite d’une crève tenace, qui m’empêche d’écrire autant que de pédaler pour pondre du code, potentiellement utile aux gravellistes, vététistes et bikepackers. C’est ma façon de me détendre. En bricolant [mon système pour remonter les POI d’une trace GPX](https://tcrouzet.com/2023/10/23/enrichir-automatiquement-vos-itineraires-avec-des-points-dinteret/), j’ai découvert une méthode pour établir des statistiques précises sur la nature des terrains parcourus.
 
 ![Komoot](https://tcrouzet.com/images_tc/2023/10/stat05-komoot.jpg)
 

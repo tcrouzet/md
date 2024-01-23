@@ -1,6 +1,6 @@
 # Équinoxe d’automne
 
-[Sur les pas de Perec, douze heures de la vie d’un homme dans Paris, le 21 septembre 1991.](http://blog.tcrouzet.com/equinoxe-automne/)<span id="more-16734"></span>
+[Sur les pas de Perec, douze heures de la vie d’un homme dans Paris, le 21 septembre 1991.](http://blog.tcrouzet.com/equinoxe-automne/)
 
 Je poursuis mes excavations archéologiques dans mes archives. J’ai écrit ce court roman entre septembre 1991 et mai 1992, alors que je travaillais comme journaliste pour Ziff-Davis. Je voulais reprendre l’idée de Perec d’épuiser un lieu parisien et écrire 24 heures de la vie d’un homme, cet homme étant moi-même. Je me suis arrêté après 12 heures. J’ai bien fait. Si ce texte évoque pour moi beaucoup de souvenirs d’errance dans Paris, je me demande quel intérêt il peut avoir pour un autre que moi, surtout aujourd’hui.
 

@@ -1,6 +1,6 @@
 # Ces écrivains qui ne sont pas écrivains
 
-Je reprends [la bobine déroulée par Éric Chevillard](http://www.oeuvresouvertes.net/spip.php?article880) et je vais tenter d’en tirer quelques fils plus abrasifs sur la réalité de notre littérature contemporaine.<span id="more-21463"></span>
+Je reprends [la bobine déroulée par Éric Chevillard](http://www.oeuvresouvertes.net/spip.php?article880) et je vais tenter d’en tirer quelques fils plus abrasifs sur la réalité de notre littérature contemporaine.
 
 Tous ces romanciers qui ne bloguent pas, qui ne s’adonnent pas aux timelines, aux feedbacks incessants de leurs lecteurs, ne vivent pas dans notre temps, ils ne peuvent même pas le percevoir, comment pourraient-ils en parler dans leurs œuvres ? En parlant d’œuvres, il n’en est point. Juste des paquets de texte au mieux commercialement attractifs pour ceux qui se sont attardés dans le xxe siècle.
 

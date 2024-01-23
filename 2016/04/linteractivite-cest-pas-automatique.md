@@ -1,6 +1,6 @@
 # L’interactivité, c’est pas automatique
 
-J’ai vécu hier une journée un peu folle sur [Scribay](https://www.scribay.com). Des dizaines de lecteurs ont annoté mon énième premier épisode de [*Résistants*](http://tcrouzet.com/resistants/), chacun me trouvant une phrase de travers. Au début, j’ai joué le jeu, modifiant, republiant, ajoutant des fautes bien sûr tant j’allais vite. Le soir, j’étais épuisé, j’avais réécrit dix fois mon texte, sans l’avoir amélioré en rien, au contraire.<span id="more-43930"></span>
+J’ai vécu hier une journée un peu folle sur [Scribay](https://www.scribay.com). Des dizaines de lecteurs ont annoté mon énième premier épisode de [*Résistants*](http://tcrouzet.com/resistants/), chacun me trouvant une phrase de travers. Au début, j’ai joué le jeu, modifiant, republiant, ajoutant des fautes bien sûr tant j’allais vite. Le soir, j’étais épuisé, j’avais réécrit dix fois mon texte, sans l’avoir amélioré en rien, au contraire.
 
 Quand j’écris un livre, je marche en avant, je ne m’arrête pas sur les détails. Les détails, je les règle au fil des relectures répétées sur de longs mois. Et puis chaque imperfection relève les particularités d’un auteur. Un correcteur n’a pas à faire intervenir ses goûts dans les corrections, pas plus que de chercher une idéale perfection de la langue (je vise l’idéale imperfection).
 
@@ -43,6 +43,8 @@ Voilà, je me remets au boulot, je reprends tout depuis le début, j’en revien
 Merci en tout cas à ceux qui ont joué le jeu. Nous apprenons tous ensemble. Interagissons désormais sans que le texte soit entre nous. Interagissons comme si nous étions des amis et parlions de notre travail. Ce que je continuerai à faire le plus souvent possible. Mais le fruit de ce travail, vous le découvrirez dans quelques mois, peut-être même en primeur sur Scribay quand il sera temps de l’éditer, et avant même qu’il passe entre les mains d’un relecteur professionnel.
 
 ![Trop de commentaires tue le commentaire.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/scribay2.jpg)
+
+Trop de commentaires tue le commentaire.
 
 
 

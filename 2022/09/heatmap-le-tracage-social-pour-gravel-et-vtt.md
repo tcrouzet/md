@@ -1,6 +1,6 @@
 # Heatmap : le traçage social pour gravel et VTT
 
-Chaque fois que nous roulons, puis chargeons notre trace sur Strava, nous enrichissons une fantastique base de données des chemins roulables, [la heatmap vélo](https://www.strava.com/heatmap#7.00/3.67924/43.44260/hot/all), bien plus détaillée que n’importe quelle carte géographique. Nous participons à une œuvre collective, par chance mise gratuitement à la disposition de tous par Strava (pourvu que ça dure).<span id="more-64356"></span>
+Chaque fois que nous roulons, puis chargeons notre trace sur Strava, nous enrichissons une fantastique base de données des chemins roulables, [la heatmap vélo](https://www.strava.com/heatmap#7.00/3.67924/43.44260/hot/all), bien plus détaillée que n’importe quelle carte géographique. Nous participons à une œuvre collective, par chance mise gratuitement à la disposition de tous par Strava (pourvu que ça dure).
 
 ![La heatmap Strava](https://tcrouzet.com/images_tc/2022/09/mp00.jpg)
 

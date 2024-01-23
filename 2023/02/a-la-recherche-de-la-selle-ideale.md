@@ -1,6 +1,6 @@
 # À la recherche de la selle idéale
 
-Plus j’ai pédalé, plus j’ai eu mal au cul, mais je me soigne. Je vais vous raconter comment, par tâtonnements, j’ai choisi des selles de moins en moins pires pour moi. Peut-être que mon histoire vous aidera dans votre propre quête de la selle idéale et en retour participera à la suite de ma propre quête.<span id="more-64415"></span>
+Plus j’ai pédalé, plus j’ai eu mal au cul, mais je me soigne. Je vais vous raconter comment, par tâtonnements, j’ai choisi des selles de moins en moins pires pour moi. Peut-être que mon histoire vous aidera dans votre propre quête de la selle idéale et en retour participera à la suite de ma propre quête.
 
 ### Au commencement
 

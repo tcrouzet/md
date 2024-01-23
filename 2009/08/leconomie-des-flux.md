@@ -4,7 +4,7 @@
 
 ![ben](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/ben.gif)
 
-Dans un [monde de flux](http://blog.tcrouzet.com/tag/flux/) où les biens s’écoulent, l’ancienne économie de la rareté de l’offre associée à la rareté de l’argent ne peut plus survivre. Sans doute faudra-t-il basculer vers un système financier où chacun pourra émettre de la monnaie et devenir banque centrale. Mais avant d’envisager cette entrée dans le flux de la finance, je voudrais inventorier les différentes modalités de rétribution adaptées aux flux, certaines incompatibles, d’autres complémentaires.<span id="more-9141"></span>
+Dans un [monde de flux](http://blog.tcrouzet.com/tag/flux/) où les biens s’écoulent, l’ancienne économie de la rareté de l’offre associée à la rareté de l’argent ne peut plus survivre. Sans doute faudra-t-il basculer vers un système financier où chacun pourra émettre de la monnaie et devenir banque centrale. Mais avant d’envisager cette entrée dans le flux de la finance, je voudrais inventorier les différentes modalités de rétribution adaptées aux flux, certaines incompatibles, d’autres complémentaires.
 
 1. Proposer comme aujourd’hui les produits à un prix fixe, souvent élevé, plus de dix euros, est contre productif car on empêche le flux de s’écouler et, dans l’économie des flux, l’immobilisme équivaut à la mort. La pratique tarifaire actuelle a pour avantage de nous maintenir dans un monde connu et de ralentir l’avènement du monde des flux mais elle favorise le piratage. J’insiste sur ce point. Le piratage est inéluctable et sera de plus en plus facilité en même temps que les flux deviendront la norme (simple de copier une information qui passe à travers notre ordinateur).
 

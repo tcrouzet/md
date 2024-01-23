@@ -1,6 +1,6 @@
 # Proust, cet idéaliste
 
-À l’occasion d’une conférence, je me fais payer une petite escapade viennoise. Des avantages d’avoir du temps et d’être écrivain. Il faut bien parfois en tirer quelques bénéfices. Non, je ne me plains pas. Rien n’a plus de prix que le temps.<span id="more-39678"></span>
+À l’occasion d’une conférence, je me fais payer une petite escapade viennoise. Des avantages d’avoir du temps et d’être écrivain. Il faut bien parfois en tirer quelques bénéfices. Non, je ne me plains pas. Rien n’a plus de prix que le temps.
 
 Comme toujours quand je prends l’avion, je lis Proust. C’est devenu un rituel, même si Proust me parle de moins en moins. Au départ de Montpellier, je replonge dans le célèbre passage théorique au début du *Temps retrouvé*, une merveille stylistique, qui philosophiquement me donne désormais la gerbe.
 
@@ -21,6 +21,8 @@ La philosophie viciée de Proust lui a dicté une grande œuvre : il avait la c
 Quand je dévale une piste en ski, je suis aussi heureux que quand j’écris. Je ne crois pas qu’il existe d’expérience supérieure. L’écriture est un moyen pour moi de quêter l’extraordinaire dans chaque instant. C’est mon télescope, mon microscope, mon prisme à décomposer la réalité en ses atomes. Pas question de placer au-dessus de cette accumulation de riens un pontife quelconque, même nommé art. Parce qu’ensuite au nom de cette puissance, d’autres réclament un trône et exigent de nous des courbettes et bientôt des services.
 
 ![Décollage Montpellier.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/cdg.jpg)
+
+Décollage Montpellier.
 
 
 

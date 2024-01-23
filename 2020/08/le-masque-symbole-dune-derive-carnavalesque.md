@@ -1,6 +1,6 @@
 # Le masque symbole d&#8217;une dérive carnavalesque
 
-Je n’ai plus blogué sur le covid depuis avril, parce que je viens de passer plusieurs mois à écrire un livre sur la question en collaboration avec Didier Pittet, à paraître le 22 octobre, mais j’ai du mal à rester calme quand je vois comment le masque devient un enjeu politique.<span id="more-54858"></span>
+Je n’ai plus blogué sur le covid depuis avril, parce que je viens de passer plusieurs mois à écrire un livre sur la question en collaboration avec Didier Pittet, à paraître le 22 octobre, mais j’ai du mal à rester calme quand je vois comment le masque devient un enjeu politique.
 
 Parce que soyons clair, il y a longtemps que cette affaire de masque n’est plus une question de santé publique. Je voudrais juste rappeler une évidence médicale : jusqu’à preuve du contraire, le covid se transmet par contact et par gouttelettes, qui tombent très vite par terre, et quasiment pas par aérosol, sauf dans quelques situations particulières comme lors de certains gestes médicaux.
 

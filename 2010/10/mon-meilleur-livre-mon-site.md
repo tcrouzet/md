@@ -1,6 +1,6 @@
 # Quel est mon meilleur livre&nbsp;? Mon site
 
-Beaucoup croient que le passage au numérique pour le texte n’implique qu’un changement de support. « Une révolution du média », disent-ils. Ils ignorent ce que nous expérimentons depuis une dizaine d’années sur nos blogs et autres formes textuelles sur le Web. [Pourquoi la production écrite explose-t-elle en ce moment ?](http://blog.tcrouzet.com/2009/10/28/de-la-civilisation-de-l%E2%80%99ecriture-a-celle-de-la-propulsion/) De nouvelles perspectives se sont ouvertes et nous les explorons, excités à l’idée d’entrer dans des territoires neufs.<span id="more-19587"></span>
+Beaucoup croient que le passage au numérique pour le texte n’implique qu’un changement de support. « Une révolution du média », disent-ils. Ils ignorent ce que nous expérimentons depuis une dizaine d’années sur nos blogs et autres formes textuelles sur le Web. [Pourquoi la production écrite explose-t-elle en ce moment ?](http://blog.tcrouzet.com/2009/10/28/de-la-civilisation-de-l%E2%80%99ecriture-a-celle-de-la-propulsion/) De nouvelles perspectives se sont ouvertes et nous les explorons, excités à l’idée d’entrer dans des territoires neufs.
 
 Pendant ce temps, les classiques, que je ne qualifie pas de rétrogrades pour ne pas les ostraciser, voudraient que nous écrivions comme Proust, que nous produisions des œuvres qui ressemblent à celles du passé, tout au moins du xxe siècle. Mais qu’écrirait Proust aujourd’hui ? Croyez-vous qu’il renoncerait à la forme réticulaire ?
 

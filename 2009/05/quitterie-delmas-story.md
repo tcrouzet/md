@@ -1,6 +1,6 @@
 # Quitterie Story : aimer la politique pour mieux la quitter
 
-*Ce texte a été pensé comme un des chapitres de [Les crapauds fous](http://blog.tcrouzet.com/les-crapauds-fous/), la vie de ceux qui changent le monde en suivant une voie non orthodoxe. J'ai interviewé par ordre d'apparition **Quitterie Delmas**, **Jean-Yves de Chaisemartin**, **Virginie Votier** et **François Bayrou**.*<span id="more-6708"></span>
+*Ce texte a été pensé comme un des chapitres de [Les crapauds fous](http://blog.tcrouzet.com/les-crapauds-fous/), la vie de ceux qui changent le monde en suivant une voie non orthodoxe. J'ai interviewé par ordre d'apparition **Quitterie Delmas**, **Jean-Yves de Chaisemartin**, **Virginie Votier** et **François Bayrou**.*
 
 > « Je ne veux pas changer la règle du jeu, je veux changer de jeu. » André Breton
 

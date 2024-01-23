@@ -1,6 +1,6 @@
 # Tout est format
 
-Sur Twitter, on a vite fait de vous accuser [d'avoir des idées toutes faites](https://twitter.com/davidbgk/status/293419601109348353), sans bien sûr avoir la possibilité d'argumenter. C'est tout le problème du Web d'aujourd'hui.<span id="more-30535"></span>
+Sur Twitter, on a vite fait de vous accuser [d'avoir des idées toutes faites](https://twitter.com/davidbgk/status/293419601109348353), sans bien sûr avoir la possibilité d'argumenter. C'est tout le problème du Web d'aujourd'hui.
 
 D'ailleurs, il serait déplacé d'argumenter sur Twitter, ou Facebook, ou un autre réseau social. Le seul endroit où on doit le faire c'est en dehors de ces lieux centralisés. [David Larlet](https://larlet.fr/david/blog/2013/blogs-epubs/) choisit de le faire sur son blog, affirmant que l'interaction entre blogs, c'est le véritable Web.
 

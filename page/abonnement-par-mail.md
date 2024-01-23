@@ -4,8 +4,6 @@
 
 ### Newsletter
 
-
-
 [Dernières newsletters…](https://us3.campaign-archive.com/home/?u=4346e7140965015f0594fffcd&id=f8567ebe86)
 
 ### Fils RSS

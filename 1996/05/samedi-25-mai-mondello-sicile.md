@@ -1,6 +1,6 @@
 # Samedi 25 mai, Mondello, Sicile
 
-Nuit profonde… bruit de la mer, clapotis contre les rochers. La femme et l’homme, le gothique et le roman, voici les styles sexués comme l’étaient le dorique (homme), l’ionien (femme) et le corinthien (jeune femme).<span id="more-42836"></span>
+Nuit profonde… bruit de la mer, clapotis contre les rochers. La femme et l’homme, le gothique et le roman, voici les styles sexués comme l’étaient le dorique (homme), l’ionien (femme) et le corinthien (jeune femme).
 
 Pourquoi s’intéresser au passé ? Parce qu’on le voit avec objectivité (disons avec relativisme). Antique, roman, gothique, renaissant, baroque, rococo, romantique, moderne… Nous qualifions notre époque de post-moderne. N’est-ce pas ridicule ? D’autres la qualifieront pour nous, nous sommes leurs primitifs.
 

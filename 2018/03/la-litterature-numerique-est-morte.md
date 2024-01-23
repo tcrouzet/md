@@ -1,6 +1,6 @@
 # La littérature numérique est morte
 
-Je viens de participer au colloque [L’auteur à l’ère numérique](http://auteur2018.unimes.fr/programme/) où j’ai retrouvé des amis auteurs, des amis universitaires. Très vite, je me suis tendu, finissant par m’en prendre à [Antoine Moreau](https://antoinemoreau.org/), qui nous a fait la leçon sur le libre, nous dictant les bonnes manières à nous autres bien sûr qui n’en avons aucune.<span id="more-46379"></span>
+Je viens de participer au colloque [L’auteur à l’ère numérique](http://auteur2018.unimes.fr/programme/) où j’ai retrouvé des amis auteurs, des amis universitaires. Très vite, je me suis tendu, finissant par m’en prendre à [Antoine Moreau](https://antoinemoreau.org/), qui nous a fait la leçon sur le libre, nous dictant les bonnes manières à nous autres bien sûr qui n’en avons aucune.
 
 Ma sortie contre Antoine, très douce d’ailleurs par rapport à ce de dont je suis capable quand je m’énerve, ne faisait qu’en révéler une autre moins claire, plus rentrée, qu’[Arnaud Maïsetti](http://www.arnaudmaisetti.net/spip/) a tenté à plusieurs reprises de formuler plus distinctement.
 

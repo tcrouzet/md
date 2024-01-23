@@ -1,6 +1,6 @@
 # Le burn-out frappe les confinés
 
-[Si je suis énervé](https://tcrouzet.com/2020/03/22/journal-dun-confine-enerve/), vous êtes en train de perdre les pédales. Sans parler des innombrables fausses rumeurs que vous faites circuler et auxquelles vous abondez, et [dont la liste n’en finit pas de s’allonger](https://www.hoaxbuster.com/covid19).<span id="more-53692"></span>
+[Si je suis énervé](https://tcrouzet.com/2020/03/22/journal-dun-confine-enerve/), vous êtes en train de perdre les pédales. Sans parler des innombrables fausses rumeurs que vous faites circuler et auxquelles vous abondez, et [dont la liste n’en finit pas de s’allonger](https://www.hoaxbuster.com/covid19).
 
 Vous êtes [des dizaines de milliers à exiger que le traitement expérimental du professeur Raoult](https://www.change.org/p/emmanuel-macron-covid19-ecoutons-le-dr-didier-raoult-depistage-et-traitement-a-la-chroloquine?use_react=false) soit généralisé alors que vous n’y connaissez rien en médecine, encore moins en virologie. Après voir lu trois articles de vulgarisation et [pas leur critique](http://curiologie.fr/2020/03/chloroquine/), le confinement vous transforme en microbiologiste de renom et vous vous croyez en droit d’exiger que vos rêves de fin de pandémie soient exaucés d’un coup de baguette magique.
 

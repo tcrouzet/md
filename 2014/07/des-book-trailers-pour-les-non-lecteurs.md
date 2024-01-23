@@ -1,6 +1,6 @@
 # Des book trailers pour les non-lecteurs
 
-Comme les gens lisent moins, les éditeurs vont les chercher hors des librairies, c’est-à-dire sur Youtube. La mode est aux bandes-annonces de livre.<span id="more-36317"></span>
+Comme les gens lisent moins, les éditeurs vont les chercher hors des librairies, c’est-à-dire sur Youtube. La mode est aux bandes-annonces de livre.
 
 Après quelques explorations, j’en ai découvert de deux types. Les teasers ne semblent pas générer beaucoup de vues contrairement aux clips qui racontent des histoires autop-suffisantes. Je n'ai pas résisté à expérimenter pour mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).
 
@@ -17,6 +17,8 @@ Ces deux clips ont récolté des centaines de milliers de vues. Je ne sais pas s
 J’ai essayé de faire la même chose pour mon *Ératosthène*, sans moyen bien sûr. Je me suis amusé à enregistrer des dessins à main levée sur iPad avec Sletch Club, puis j’ai commenté le tout sur iMovie (une petite journée de travail).
 
 ![Je viens de recevoir le livre…](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/betabook.jpg)
+
+Je viens de recevoir le livre…
 
 
 

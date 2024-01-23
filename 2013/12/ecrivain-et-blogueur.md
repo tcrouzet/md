@@ -1,6 +1,6 @@
 # Écrivain et blogueur
 
-Durant des années, on m'a donné le titre de « Journaliste et informaticien », bien que je n'ai pratiqué ces deux professions que trois ans chacune. Dorénavant, on m'affuble du titre d'« Écrivain et blogueur. »<span id="more-33845"></span>
+Durant des années, on m'a donné le titre de « Journaliste et informaticien », bien que je n'ai pratiqué ces deux professions que trois ans chacune. Dorénavant, on m'affuble du titre d'« Écrivain et blogueur. »
 
 Entendez-vous dire d'un tel qu'il est « Écrivain et romancier » ou « Écrivain et essayiste » ou encore « Écrivain et poète » ? Non, parce que le pléonasme est évident, parce que parler de romancier, essayiste, poète suffit à ranger dans la catégorie écrivain, elle-même subdivisée en sous-catégories. Alors pourquoi accepter le pléonasme avec blogueur ? Je vois plusieurs raisons.
 

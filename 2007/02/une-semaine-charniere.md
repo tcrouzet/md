@@ -4,8 +4,6 @@ Nous nous rappellerons peut-être de la semaine que nous venons de vivre comme �
 
 Tout avait commencé par le tour de passe-passe de Ségolène Royal dimanche, réinventant le programme le Jospin après des milliers de débats participatifs, il faut le faire, mais [je ne vais pas y revenir](http://blog.tcrouzet.com/2007/02/12/segolene-l%e2%80%99impossible-synthese/). Deux autres évènements me paraissent bien plus déterminants.
 
-**L’affaire Alain Duhamel**
-
 Lors d’une [réunion à Science Po le 27 novembre 2006](http://fr.news.yahoo.com/15022007/202/alain-duhamel-prie-de-se-taire-sur-france-televisions-et.html), le journaliste politique avoue qu’il a un faible pour François Bayrou. Un paparazzi web le podcaste, la semaine dernière il publie la [vidéo sur Dailymotion](http://www.dailymotion.com/visited/search/Alain%2BDuhamel/video/x151aw_duhamelvotebayrou), elle se retrouve chez France 2 et Arlette Chabot la patronne de Duhamel le remercie gentiment.
 
 Au premier abord, tout cela est logique. Mais en y regardant plus près, je découvre le ver qui est dans le fruit et le pourrit depuis longtemps.
@@ -25,8 +23,6 @@ Au premier abord, tout cela est logique. Mais en y regardant plus près, je déc
 7. La réaction d’Arlette Chabot manifeste une rupture entre l’ancien monde et le nouveau monde. L’ancien était coupé en deux : le peuple d’un côté, le pouvoir et les détenteurs de la vérité de l’autre. Dans le nouveau, tout cela est terminé, tout est en train de se mélanger. Alain Duhamel vient de contribuer à mélange fondamental. J’espère que les autres journalistes vont le suivre et se révolter. C’est à eux de nous faire découvrir la campagne sous un nouveau visage. C’est à eux de nous prouver qu’ils sont encore un quatrième pouvoir.
 
 D’ailleurs, je croise et discute assez souvent avec des journalistes, certains ayant lu mon livre, chaque fois ils m’avouent qu’ils ont un faible pour François Bayrou et qu’ils sont fatigués du duel Sarko-Ségo. Ils sont pris dans une bipolarité dont ils n’arrivent plus à se sortir. Alors, pour moi, Alain Duhamel a été involontairement courageux pour tous ceux qui, souvent moins connus, n’ont pas osé élever de protestation.
-
-**L’appel au pluralisme** 
 
 L’autre évènement, je l’ai annoncé hier [ici même](http://blog.tcrouzet.com/2007/02/16/appel-citoyen-pour-le-pluralisme-democratique/), c’est l’appel lancé par des citoyens pour plus de transparence électorale, pour demander la fin des magouilles autour des parrainages des candidats à la présidentielle.
 

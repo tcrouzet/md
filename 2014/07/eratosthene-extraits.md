@@ -1,6 +1,6 @@
 # Ératosthène : extraits
 
-Avec l'application iBooks d'Apple, vous pouvez lire gratuitement les trois premiers chapitres d'[*Ératosthène*](/eratosthene/), vous pouvez aussi [télécharger l'epub équivalent](https://app.box.com/s/6sze1mgxlj5wyqnpbj3h) ou lire les captures d'écrans prises sur mon iPad.<span id="more-36346"></span>
+Avec l'application iBooks d'Apple, vous pouvez lire gratuitement les trois premiers chapitres d'[*Ératosthène*](/eratosthene/), vous pouvez aussi [télécharger l'epub équivalent](https://app.box.com/s/6sze1mgxlj5wyqnpbj3h) ou lire les captures d'écrans prises sur mon iPad.
 
 ![beta3](https://tcrouzet.com/images_tc/2014/07/beta3.png)
 

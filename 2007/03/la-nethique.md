@@ -1,6 +1,6 @@
 # La Néthique
 
-Samedi, je serai à nouveau à Paris pour participer à la conférence [internet et éthique](http://nethique.info/). Nous allons nous demander quelles règles nous devrions respecter sur nos sites ?<span id="more-392"></span> 
+Samedi, je serai à nouveau à Paris pour participer à la conférence [internet et éthique](http://nethique.info/). Nous allons nous demander quelles règles nous devrions respecter sur nos sites ? 
 
 Dès les premiers forums USENET, une nétiquette est apparue. Est-elle nécessaire ? Je pense que oui mais son texte ne doit ni être définitif, ni être unique, ni être imposé par qui que ce soit, surtout pas le gouvernement. Libre à chacun d’entre-nous de nous attacher à une charte ou à une autre. C’est avant tout à nos lecteurs de nous sanctionner si nous dépassons les bornes.
 

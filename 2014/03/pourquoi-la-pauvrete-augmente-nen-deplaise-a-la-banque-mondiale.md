@@ -1,6 +1,6 @@
 # Pourquoi la pauvreté augmente, n’en déplaise à la Banque Mondiale
 
-C’est une question importante surtout quand [les uns prétendent qu’il y a de moins en moins de pauvres](http://www.banquemondiale.org/fr/news/press-release/2013/04/17/remarkable-declines-in-global-poverty-but-major-challenges-remain) et [les autres de plus en plus](http://www.michelcollon.info/La-pauvrete-a-t-elle-diminue-dans.html). Pour commencer, personne ne s’entend sur la définition de la pauvreté.<span id="more-34826"></span>
+C’est une question importante surtout quand [les uns prétendent qu’il y a de moins en moins de pauvres](http://www.banquemondiale.org/fr/news/press-release/2013/04/17/remarkable-declines-in-global-poverty-but-major-challenges-remain) et [les autres de plus en plus](http://www.michelcollon.info/La-pauvrete-a-t-elle-diminue-dans.html). Pour commencer, personne ne s’entend sur la définition de la pauvreté.
 
 1. **Définition objective.** Fixer un seuil de revenu quotidien minimum. Exemple 1,25$ comme le fait la Banque Mondiale. Cet étalon bien que pratique ne veut pas dire grand-chose. Il vaudrait mieux faire débuter la pauvreté [quand on consacre 80 % de ses revenus à se nourrir](http://blog.tcrouzet.com/2008/12/11/la-pyramide-ne-decolle-pas/), ce qui souvent exige bien plus de 1,25$ (et il reste à se loger, se soigner…).
 
@@ -43,6 +43,8 @@ Le revenu de base permettrait de partager entre tous la croissance de la masse m
 Dans une perspective relativiste, le seuil de pauvreté devrait être défini comme un pourcentage de la masse monétaire. À cette seule condition, il serait significativement stable dans le temps.
 
 ![Un moment qui vaut des milliards](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/soleil1.jpg)
+
+Un moment qui vaut des milliards
 
 
 

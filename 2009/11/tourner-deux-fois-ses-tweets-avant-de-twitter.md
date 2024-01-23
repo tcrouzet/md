@@ -1,6 +1,6 @@
 # Tourner deux fois ses tweets avant de twitter
 
-Pour célébrer Lévi-Strauss au moment même de l’annonce de sa mort, j’ai joué à l’anthropologue (dans la série des billets de cours d’école). Il y a quelques jours, j’étais allé sur [Tu viens](http://www.tuviens.fr/), le site du livre éponyme de NKM et dans le forum associé à la question « Qui sont les crapauds fous ? », forum en cet instant encore vierge, j’avais simplement posté [un lien vers mes articles sur le sujet](http://blog.tcrouzet.com/tag/crapauds/). Aujourd’hui, je reçois une réponse du modérateur du site (pas de NKM en personne).<span id="more-11799"></span>
+Pour célébrer Lévi-Strauss au moment même de l’annonce de sa mort, j’ai joué à l’anthropologue (dans la série des billets de cours d’école). Il y a quelques jours, j’étais allé sur [Tu viens](http://www.tuviens.fr/), le site du livre éponyme de NKM et dans le forum associé à la question « Qui sont les crapauds fous ? », forum en cet instant encore vierge, j’avais simplement posté [un lien vers mes articles sur le sujet](http://blog.tcrouzet.com/tag/crapauds/). Aujourd’hui, je reçois une réponse du modérateur du site (pas de NKM en personne).
 
 > Cher Monsieur, pouvez-vous déposer votre texte « crapauds » sur le site www.tuviens.fr ? Nous ne pouvons le faire à votre place, faute d'avoir les droits nécessaires.
 

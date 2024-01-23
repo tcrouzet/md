@@ -1,6 +1,6 @@
 # L’arrivée des 0 et des 1
 
-John Atanasoff, penché sur son bureau, ses mains plongées dans ses cheveux noirs coupés en brosse, fixait sans les voir des feuilles couvertes de calculs. Comme si quelqu’un venait de l’appeler, il se redressa, regarda autour de lui, puis se leva.<span id="more-17390"></span>
+John Atanasoff, penché sur son bureau, ses mains plongées dans ses cheveux noirs coupés en brosse, fixait sans les voir des feuilles couvertes de calculs. Comme si quelqu’un venait de l’appeler, il se redressa, regarda autour de lui, puis se leva.
 
 Dehors, un faible soleil éclairait le campus de l’Iowa State University. On était en décembre 1937, Roosevelt venait de déclarer la civilisation en danger et avait annoncé que les États-Unis cesseraient tout échange économique et diplomatique avec les pays qui bafoueraient la paix.
 

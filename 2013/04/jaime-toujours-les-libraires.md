@@ -1,7 +1,6 @@
 # J’aime toujours les libraires
 
-[J’ai déclaré mon amour aux libraires](http://blog.tcrouzet.com/2013/03/16/jaime-mon-libraire/), j’ai reçu en retour une volée de bois vert. Après avoir écouté [l’appel de Gérard Collard](http://www.lesdeblogueurs.tv/culture/livre-le-coup-de-gueule-de-gerard-collard/) et avant de participer le week-end prochain <a herf="https://www.facebook.com/Le.futur.du.livre?fref=ts">Au futur du livre à Chenôve en Bourgogne</a>, je me suis dit qu’il était important d’aller de l’avant. Que pouvons-nous faire pour aider ?<span id="more-32268"></span>
-
+[J’ai déclaré mon amour aux libraires](http://blog.tcrouzet.com/2013/03/16/jaime-mon-libraire/), j’ai reçu en retour une volée de bois vert. Après avoir écouté [l’appel de Gérard Collard](http://www.lesdeblogueurs.tv/culture/livre-le-coup-de-gueule-de-gerard-collard/) et avant de participer le week-end prochain Au futur du livre à Chenôve en Bourgogne, je me suis dit qu’il était important d’aller de l’avant. Que pouvons-nous faire pour aider ?
 
 ### Les évidences
 
@@ -14,7 +13,6 @@
 4. Amazon est donc le concurrent direct de tous les libraires et il doit impérativement être soumis aux mêmes règles fiscales et juridiques. Globalisation oblige, c’est quasi impossible. Le gouvernement doit donc accorder aux libraires les avantages qu’Amazon s’est lui-même octroyés. Sinon la concurrence déloyale se poursuivra. Et elle sera d'autant plus déloyale si les distributeurs continuent à avantager Amazon par rapport aux libraires indépendants.
 
 5. Même si le livre électronique ne pèse que 1 %, ce chiffre explosera comme il a déjà explosé dans de nombreux pays. C’est bientôt 20 % du marché qui sera numérique, et vite beaucoup plus. Ce fait ne peut être occulté, il faut s’y préparer. Dire que le livre n’est pas le disque n’est qu’un vœu pieux.
-
 
 ### Le problème immédiat
 
@@ -31,7 +29,6 @@ Potentiellement, 20 % des Français ne mettent plus les pieds en librairie (san
 4. Les algorithmes de recommandation ont un effet addictif. Nous pousser à acheter ce que nos amis ont acheté, ça marche.
 
 5. En ligne, nous bénéficions automatiquement d’une remise de 5 %.
-
 
 ### Pourquoi des lecteurs vont en librairie ?
 

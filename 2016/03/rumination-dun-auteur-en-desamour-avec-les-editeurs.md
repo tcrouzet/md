@@ -1,6 +1,6 @@
 # Rumination d’un auteur en désamour avec les éditeurs
 
-Le printemps s’abat sur nous en une tempête de lumière, de piaillements d’oiseaux et de senteurs. J’ai poussé Émile dans son fauteuil roulant jusqu’à son école et suivi la grande rue haute jusqu’au cimetière marin. Pour commencer, je me suis assis sur les marches de la grande chapelle, avec l’alignement des cyprès devant moi. La brise n’est pas assez puissante pour les bousculer. Seuls quelques lauriers frémissent.<span id="more-43682"></span>
+Le printemps s’abat sur nous en une tempête de lumière, de piaillements d’oiseaux et de senteurs. J’ai poussé Émile dans son fauteuil roulant jusqu’à son école et suivi la grande rue haute jusqu’au cimetière marin. Pour commencer, je me suis assis sur les marches de la grande chapelle, avec l’alignement des cyprès devant moi. La brise n’est pas assez puissante pour les bousculer. Seuls quelques lauriers frémissent.
 
 ![cimetière marin](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/cim1.jpg)
 

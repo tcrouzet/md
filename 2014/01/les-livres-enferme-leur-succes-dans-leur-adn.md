@@ -1,6 +1,6 @@
 # Les livres enferment leur succès dans leur ADN
 
-J’aime lire les best-sellers. J’y cherche les raisons de leur succès. Je ne les lis pas pour eux-mêmes, mais pour leur rapport à tous les autres textes. Je n’y cherche pas ce qui est dit, mais ce qui en eux fascine. C’est une lecture de détective.<span id="more-34270"></span>
+J’aime lire les best-sellers. J’y cherche les raisons de leur succès. Je ne les lis pas pour eux-mêmes, mais pour leur rapport à tous les autres textes. Je n’y cherche pas ce qui est dit, mais ce qui en eux fascine. C’est une lecture de détective.
 
 Et alors je pense à tout ce travail d’édition que je fais sur mes textes quand je travaille avec un éditeur vigilant. Couper. Nettoyer. Déplacer. Dans une quête impossible de pureté. C’est très beau, esthétiquement signifiant, mais inutile commercialement.
 

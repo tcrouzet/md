@@ -1,6 +1,6 @@
 # 10 livres marquants
 
-C’est le jeu, sans trop réfléchir lister les livres qui ont profondément marqué (même si leur relecture pourrait être décevante).<span id="more-37131"></span>
+C’est le jeu, sans trop réfléchir lister les livres qui ont profondément marqué (même si leur relecture pourrait être décevante).
 
 1. *À la poursuite des Slans* d’A. E. van Vogt, parce que je suis un Slan et que ce n’est pas simple de survivre parmi les homo sapiens.
 

@@ -1,6 +1,6 @@
 # Pédaler, c’est aussi politique
 
-Deux économies ont toujours cohabité : l’une de paix, qui implique le partage, et une marchande, qui implique la monétisation. Quelles que soient nos activités économiques, nous devrions nous demander laquelle adopter plutôt que foncer vers l’une ou l’autre, tête baissée.<span id="more-59092"></span>
+Deux économies ont toujours cohabité : l’une de paix, qui implique le partage, et une marchande, qui implique la monétisation. Quelles que soient nos activités économiques, nous devrions nous demander laquelle adopter plutôt que foncer vers l’une ou l’autre, tête baissée.
 
 Par exemple, en tant qu’auteur, j’ai le choix de commercialiser mes textes, avec un copyright restrictif, ou sous licences plus ouvertes comme Creative Commons, qui autorisent la libre copie, le partage et la republication. Dans la mesure du possible, je vais vers le Creative Commons parce qu’ainsi je donne davantage de droits aux lecteurs, leur laissant le loisir de me rétribuer s’il le juge nécessaire sous la forme de dons, ou en achetant mes livres qu’ils ont obtenus gratuitement et après les avoir lus.
 

@@ -1,6 +1,6 @@
 # Internet comme territoire
 
-Chaque fois que je dis qu’internet est une nouvelle démocratie (surtout oublier les anciennes définitions), on me répond internet n’est qu’un média comme un autre, avec quelques particularités mais aucune susceptible d’avoir une influence profonde sur la société, en tous cas pas plus profonde que celles des médias.<span id="more-160"></span>
+Chaque fois que je dis qu’internet est une nouvelle démocratie (surtout oublier les anciennes définitions), on me répond internet n’est qu’un média comme un autre, avec quelques particularités mais aucune susceptible d’avoir une influence profonde sur la société, en tous cas pas plus profonde que celles des médias.
 
 > Selon le Robert, un média est un procédés de transmission massive de l'information.
 

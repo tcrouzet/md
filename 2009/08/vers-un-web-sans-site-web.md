@@ -4,7 +4,7 @@
 
 ![flux](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/flux.jpg)
 
-Les sites web ont été imaginés pour stocker des informations et les afficher à travers des navigateurs. Ce fut une révolution, notamment grâce à l’hypertexte décentralisé, mais aussi une façon de traduire à l’écran ce que nous connaissions sur le papier. Il suffit de voir à quoi ressemblent encore les sites des journaux (où même les blogs). À des journaux traditionnels ! Très loin du look Google ou des services 2.0 les plus avancés. On reste dans l’ancien monde de Gutenberg.<span id="more-8396"></span>
+Les sites web ont été imaginés pour stocker des informations et les afficher à travers des navigateurs. Ce fut une révolution, notamment grâce à l’hypertexte décentralisé, mais aussi une façon de traduire à l’écran ce que nous connaissions sur le papier. Il suffit de voir à quoi ressemblent encore les sites des journaux (où même les blogs). À des journaux traditionnels ! Très loin du look Google ou des services 2.0 les plus avancés. On reste dans l’ancien monde de Gutenberg.
 
 Le web s’attachera-t-il longtemps à ce passé poussiéreux ? Je ne crois pas. Le web 3.0 n’existera jamais. Le web n’était qu’une étape transitoire, une façon de porter vers le numérique ce dont nous disposions déjà, un nouveau monde, certes, mais attaché à l’ancien monde. Incapable de vivre sans lui (d’où le problème du piratage qui n’est autre que le phagocytage de cet ancien monde).
 

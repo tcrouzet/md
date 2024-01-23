@@ -1,6 +1,6 @@
 # Sarkozy a gagné (aujourd&#8217;hui)
 
-Vous l’avez cherché. À force de manifester pour des raisons non progressistes, vous lui avez donné une magnifique victoire sur laquelle il capitalisera pour gagner la présidentielle 2012. Maintenant il pourra dire que depuis 30 ans il est notre seul réformateur.<span id="more-20341"></span>
+Vous l’avez cherché. À force de manifester pour des raisons non progressistes, vous lui avez donné une magnifique victoire sur laquelle il capitalisera pour gagner la présidentielle 2012. Maintenant il pourra dire que depuis 30 ans il est notre seul réformateur.
 
 Quand je vous ai accusé de descendre dans la rue avec un attirail idéologique désuet, vous m’avez répondu qu’[une idéologie ne se démodait pas nécessairement avec le temps](http://www.peuples.net/post/Il-%C3%A9crit-pour-rien). Le succès de l’idéalisme platonicien depuis l’antiquité vous donne raison.
 

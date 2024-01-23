@@ -1,6 +1,6 @@
 # Octobre 2009 : au rendez-vous des rétrogrades
 
-Décidément, il se passe quelque chose d’étrange en France en ce moment. De plus en plus de gens s’affirment comme de fieffés conservateurs. La droite nous y avait habitués. Mais nouveauté, c’est maintenant au tour d’une certaine frange non négligeable de l’intelligentsia.<span id="more-11698"></span>
+Décidément, il se passe quelque chose d’étrange en France en ce moment. De plus en plus de gens s’affirment comme de fieffés conservateurs. La droite nous y avait habitués. Mais nouveauté, c’est maintenant au tour d’une certaine frange non négligeable de l’intelligentsia.
 
 Nous avons vu les artistes défendre Hadopi et la réduction des libertés numériques pour préserver leurs revenus (c’est ce qu’ils croyaient). Nous avons vu la gauche ne pas trop se mouiller dans cette histoire, et même parfois déraper. Et puis est arrivé octobre, ce fut une véritable avalanche de déclarations catastrophiques : [Wolton](http://blog.tcrouzet.com/2009/10/23/apres-histoire/), [Finkielkraut](http://blog.tcrouzet.com/2009/10/13/finkielkraut-le-net-lieu-de-la-liquefaction/), Ségéla, [Plenel](http://blog.tcrouzet.com/2009/10/06/dans-la-serie-les-retrogrades-edwy-plenel/), [Klein](http://blog.tcrouzet.com/2009/10/01/scoop-liberation-en-faillite)… Notre monde se désintègrerait et plus rien ne serait à sauver. Il faudra que quelqu'un ait le courage d'écrire l'histoire de cet octobre noir.
 

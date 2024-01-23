@@ -1,6 +1,6 @@
 # Des livres sur Instagram
 
-Après Twitter, la littérature gagne Instagram. J'étais passé à côté avant de décider d’écrire [*Résistants*](/resistants/) sous forme de posts publiés par une adolescente sur les réseaux sociaux et d'en déduire qu’il me faudrait une image d’appel à chaque post. Sans image, personne ne clique. C’est un triste constat, mais c’est comme ça.<span id="more-43744"></span>
+Après Twitter, la littérature gagne Instagram. J'étais passé à côté avant de décider d’écrire [*Résistants*](/resistants/) sous forme de posts publiés par une adolescente sur les réseaux sociaux et d'en déduire qu’il me faudrait une image d’appel à chaque post. Sans image, personne ne clique. C’est un triste constat, mais c’est comme ça.
 
 Comme je publie souvent [mes photos sur Instagram](http://instagram.com/tcrouzet), j'ai logiquement pensé à des textes et images spécialement conçus pour cette plateforme. Les contraintes sont simples :
 

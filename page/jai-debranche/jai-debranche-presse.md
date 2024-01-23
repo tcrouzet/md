@@ -69,7 +69,6 @@ Votre navigateur ne supporte pas la balise AUDIO.
 [Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/laurenthaug_3615.mp3) | [podcast](/tag/laurenthaug_3615/podcast) | [itune](itpc://tcrouzet.com/tag/laurenthaug_3615/podcast)
 
 37. 19/2/2012, blog, [Décrochage ou simple pause numérique ?](http://www.maubon.info/2012/02/decrochage-ou-simple-pause-numerique), Grégory Maubon
- 
 
 38. 16/2/2012, Slate.fr, [Thierry Crouzet, le retraité de l'Internet](http://www.slate.fr/story/49753/HIGH-TECH-thierry-crouzet-internet-retraite-addiction-debranche), Monique Dagnaud
 
@@ -205,7 +204,6 @@ Votre navigateur ne supporte pas la balise AUDIO.
 109. 16/1/2012, France Bleu Hérault, Matinale, Thierry Moity
 
 110. 14/1/2012, Europe 1, Médiapolis, Michel Field et Olivier Duhamel
- 
 
 111. 13/1/2012, nouvelobs.com, ["J'ai décidé de me déconnecter" : des accros au web racontent](http://http://tempsreel.nouvelobs.com/societe/20120113.OBS8745/j-ai-decide-de-me-deconnecter-des-accros-au-web-racontent.html), Bérénice Rocfort-Giovanni
 
@@ -240,8 +238,6 @@ Votre navigateur ne supporte pas la balise AUDIO.
 [Téléchargez le fichier](https://tcrouzet.com/images_tc/2011/12/clark.mp3) | [podcast]() | [itune]()
 
 128. 10/1/2012, Le Parisien, [Débrancher du Net fait du bien](http://www.leparisien.fr/societe/video-debrancher-du-net-fait-du-bien-10-01-2012-1805333.php), par Alexandra Echkenazi (plus [Trois conseils pour débrancher](http://www.leparisien.fr/societe/internet-trois-conseils-pour-debrancher-10-01-2012-1805351.php)) [PDF](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2011/12/LeParisien.pdf)
-
-
 
 130. 10/1/2012, Le mouv', [La matinale avec Amaël Guitton](http://www.lemouv.fr/tag-thierry-crouzet)
 

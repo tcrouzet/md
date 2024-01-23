@@ -1,6 +1,6 @@
 # Internet ne serait qu’un moyen
 
-Chaque fois que je donne une conférence, alors même que je ne fais parfois aucune référence aux nouvelles technologies, des gens s’insurgent et prétendent que je décris un monde où il n’y aurait pas de place pour l’homme.<span id="more-6186"></span>
+Chaque fois que je donne une conférence, alors même que je ne fais parfois aucune référence aux nouvelles technologies, des gens s’insurgent et prétendent que je décris un monde où il n’y aurait pas de place pour l’homme.
 
 J’ai au contraire l’impression de partir de l’homme. Quand je dis que nous avons créé un gigantesque réseau social, ce n’est ni une métaphore ni un objectif, c’est un fait. Que cette structure donne le vertige, qu’elle remette en question de vieilles croyances, ne l’empêche pas moins d’être présente et si nous refusons d’en prendre conscience il ne peut rien nous arriver de bon.
 

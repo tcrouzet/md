@@ -1,6 +1,6 @@
 # Digital intox
 
-Depuis deux ans, j’ai envie d’écrire sur l’hyperconnexion. J’ai beaucoup discuté du sujet avec Fayard, mais ça ne se fera pas avec eux. J’ai une proposition d’un petit éditeur, je discute encore avec deux gros, mais l’échéance approche à grands pas et rien n’est signé.<span id="more-40470"></span>
+Depuis deux ans, j’ai envie d’écrire sur l’hyperconnexion. J’ai beaucoup discuté du sujet avec Fayard, mais ça ne se fera pas avec eux. J’ai une proposition d’un petit éditeur, je discute encore avec deux gros, mais l’échéance approche à grands pas et rien n’est signé.
 
 Je voudrais commencer l’expérience avec la sortie de la montre Apple. Et je doute de m’y lancer sans un éditeur, il en va ainsi de certains projets d’écriture, c’était le cas avec [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), c’est le cas avec *Digital intox* dans lequel j’ai envie de tordre le cou de la mode *digital detox*. Mon nouveau slogan pourrait être :
 
@@ -55,6 +55,8 @@ Mais attention danger. Les gouvernements et les entreprises veulent également c
 Je n’ai aucune idée d’où cela me mènera, nous mènera. Je me vois bien mettre tout à plat dans un lieu de médiation, dépourvu de connexion électronique, mais chargé de connexions plus traditionnelles.
 
 ![Hyperconnecté, mais bien connecté.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/withings_pulse_o2_press.jpg)
+
+Hyperconnecté, mais bien connecté.
 
 
 

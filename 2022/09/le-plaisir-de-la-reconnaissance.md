@@ -1,6 +1,6 @@
 # Le plaisir de la reconnaissance
 
-Pas de mauvais jeu de mots ici, il ne s’agit pas du plaisir d’être reconnu pour ses mérites, ses exploits, ses prouesses, mais du plaisir d’explorer les chemins dans le but de découvrir un itinéraire idéal, sur un territoire parfois mal connu, voire encore inconnu, dans le but de construire une trace à partager avec des amis. Ce double objectif d’exploration et de partage fait qu’une reco n’a rien d’une sortie ordinaire.<span id="more-64314"></span>
+Pas de mauvais jeu de mots ici, il ne s’agit pas du plaisir d’être reconnu pour ses mérites, ses exploits, ses prouesses, mais du plaisir d’explorer les chemins dans le but de découvrir un itinéraire idéal, sur un territoire parfois mal connu, voire encore inconnu, dans le but de construire une trace à partager avec des amis. Ce double objectif d’exploration et de partage fait qu’une reco n’a rien d’une sortie ordinaire.
 
 ![La Roubine](https://tcrouzet.com/images_tc/2022/09/IMG_9186.jpeg)
 

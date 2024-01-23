@@ -1,6 +1,6 @@
 # Hacker un livre, c&#8217;est naturel
 
-Le langage est un produit de l'évolution, apparu il y a 1 ou 2 millions d'années quand les larynx de notre ancêtre primate se transformèrent et nous autorisèrent les vocalises.<span id="more-33484"></span>
+Le langage est un produit de l'évolution, apparu il y a 1 ou 2 millions d'années quand les larynx de notre ancêtre primate se transformèrent et nous autorisèrent les vocalises.
 
 N'en déplaise aux grammairiens, le langage n'est pas codifiable dans une grammaire. Pinker et Wittgenstein aussi, d'une certaine façon, ont montré qu'il faudrait des milliers de pages pour écrire la grammaire de n'importe quelle langue, et encore serait-elle incomplète. Le langage évolue sans cesse. Nous l'altérons, l'adaptons, le pervertissons, l'enrichissons. Un verbe décrit parfaitement cette alchimie : hacker. Nous ne cessons de hacker le langage comme l'évolution hacke les organismes vivants qu'elle invente et réinvente. Prendre un mot, lui donner un autre sens. De nom, le transformer en verbe. D'une langue, le porter dans une autre.
 

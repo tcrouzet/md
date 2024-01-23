@@ -1,6 +1,6 @@
 # Les médias se battent pour leurs fesses
 
-On est bien loin de l’époque où le quatrième pouvoir montait sur les barricades. Aujoud’hui, enfermé dans son corporatisme, où l’État lui-même l’entretient, il ne songe qu’à sauver ses arrières, sans se préoccuper de celles du bas peuple qu’il est sensé informer.<span id="more-30713"></span>
+On est bien loin de l’époque où le quatrième pouvoir montait sur les barricades. Aujoud’hui, enfermé dans son corporatisme, où l’État lui-même l’entretient, il ne songe qu’à sauver ses arrières, sans se préoccuper de celles du bas peuple qu’il est sensé informer.
 
 Oui, ce peuple des petites gens anonymes qui par millions produisent aussi du contenu sur Internet et que Google pille impunément, sans que le gouvernement ne vienne à leur secours, et qui a même l’indécence de se féliciter d’une victoire contre l’ogre alors qu’il n’a arraché de ses dents que les lambeaux des plus nantis.
 

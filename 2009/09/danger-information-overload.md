@@ -1,6 +1,6 @@
 # Danger : information overload
 
-Dans une économie de flux, une économie de l’abondance et de la libre circulation de l’information, comment éviter l’indigestion, comme éviter d’exploser d’information overload ?<span id="more-9631"></span>
+Dans une économie de flux, une économie de l’abondance et de la libre circulation de l’information, comment éviter l’indigestion, comme éviter d’exploser d’information overload ?
 
 Pour créer le flux, le propager, le manipuler, il faut des [propulseurs](http://blog.tcrouzet.com/tag/propulseur/). Mais comment ils propulsent, en se connectant. On ne peut propulser quelque chose que si on a construit une communauté. Et on construit une communauté en propulsant vers elle des informations intéressantes.
 

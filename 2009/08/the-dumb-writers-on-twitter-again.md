@@ -1,6 +1,6 @@
 # The dumb writers on twitter again
 
-Le 3 août, j'ai publié [un coup de gueule contre tous ceux qui se prétendent être les premiers à faire un truc sur internet](http://blog.tcrouzet.com/2009/08/03/the-dumb-writers-on-twitter/) et qui croient ainsi s'attirer la gloire, tout au moins attirer l'attention. J’ai écrit ce billet énervé par tous ceux qui ne pensent aux nouvelles technologies que comme un énième truc marketing et qui cherchent à exister avec ça alors que c’est l’avenir de notre monde qui se joue. J'ai au passage égratigné Christophe Sims qui [cette nuit m'a demandé sur Twitter](http://twitter.com/Christophe_Sims/statuses/3593049081) un droit de réponse qu'il m'a adressé par mail.<span id="more-8953"></span>
+Le 3 août, j'ai publié [un coup de gueule contre tous ceux qui se prétendent être les premiers à faire un truc sur internet](http://blog.tcrouzet.com/2009/08/03/the-dumb-writers-on-twitter/) et qui croient ainsi s'attirer la gloire, tout au moins attirer l'attention. J’ai écrit ce billet énervé par tous ceux qui ne pensent aux nouvelles technologies que comme un énième truc marketing et qui cherchent à exister avec ça alors que c’est l’avenir de notre monde qui se joue. J'ai au passage égratigné Christophe Sims qui [cette nuit m'a demandé sur Twitter](http://twitter.com/Christophe_Sims/statuses/3593049081) un droit de réponse qu'il m'a adressé par mail.
 
 ---
 

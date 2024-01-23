@@ -1,6 +1,6 @@
 # C&#8217;est quoi la SF ?
 
-Il m’arrive de sortir de chez moi. [Ayerdhal](http://fr.wikipedia.org/wiki/Ayerdhal) m’a connecté avec [Joëlle Wintrebert](http://www.wintrebert.info/fr/), la papesse de SF française, qui m’a donné rendez-vous à Montpellier à l’occasion d’une conférence organisée par Olivier Legendre le spécialiste SF de la libraire Sauramps. Je me retrouve avec entre les mains [*Retour sur l’Horizon*](http://www.amazon.fr/Retour-sur-lhorizon-Quinze-science-fiction/dp/2207260550), une anthologie de science-fiction dirigée par Serge Lehman.<span id="more-13937"></span>
+Il m’arrive de sortir de chez moi. [Ayerdhal](http://fr.wikipedia.org/wiki/Ayerdhal) m’a connecté avec [Joëlle Wintrebert](http://www.wintrebert.info/fr/), la papesse de SF française, qui m’a donné rendez-vous à Montpellier à l’occasion d’une conférence organisée par Olivier Legendre le spécialiste SF de la libraire Sauramps. Je me retrouve avec entre les mains [*Retour sur l’Horizon*](http://www.amazon.fr/Retour-sur-lhorizon-Quinze-science-fiction/dp/2207260550), une anthologie de science-fiction dirigée par Serge Lehman.
 
 Dans *Le peuple des connecteurs*, j’ai célébré les auteurs dit de SF comme les écrivains plus importants du vingtième siècle. Je me cite (seconde édition qu’il faudra que je diffuse un jour).
 

@@ -1,6 +1,6 @@
 # La publication électronique change le monde
 
-[Numériklivres](http://comprendrelelivrenumerique.com) vient de sortir [*L’édition interdite*](http://librairie.immateriel.fr/fr/ebook/9782923858043/l-%C3%A9dition-interdite). Dans cette suite de [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/), je développe les conséquences politiques du passage à la publication électronique, des blogs aux ebooks en passant par les tweets et autres status Facebook.<span id="more-21388"></span>
+[Numériklivres](http://comprendrelelivrenumerique.com) vient de sortir [*L’édition interdite*](http://librairie.immateriel.fr/fr/ebook/9782923858043/l-%C3%A9dition-interdite). Dans cette suite de [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/), je développe les conséquences politiques du passage à la publication électronique, des blogs aux ebooks en passant par les tweets et autres status Facebook.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/03/essaicoveredinterdite_v31-248x350.jpg)
 

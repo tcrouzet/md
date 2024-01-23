@@ -1,6 +1,6 @@
 # La stratégie du cyborg &#8211; version gratuite
 
-Je continue la libération des mes textes, sans pour autant les retirer des librairies. C’est au tour de [*La stratégie du Cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/), écrit en 2010 à la demande de [40K](http://www.40kbooks.com/). Cet essai a surtout circulé en Italie !<span id="more-24029"></span>
+Je continue la libération des mes textes, sans pour autant les retirer des librairies. C’est au tour de [*La stratégie du Cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/), écrit en 2010 à la demande de [40K](http://www.40kbooks.com/). Cet essai a surtout circulé en Italie !
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/04/cover1024_40k-450x647.png)
 

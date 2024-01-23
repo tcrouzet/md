@@ -1,6 +1,6 @@
 # Qu’est-ce qu’une œuvre d’art au temps des IA ?
 
-Des créateurs s’insurgent, crient au plagiat, paniquent comme jadis [les luddites](https://fr.wikipedia.org/wiki/Luddisme) lors de l’introduction des métiers à tisser mécaniques. De quoi ont-ils peur ? Leur peur est-elle légitime ? Et surtout qu’est-ce que la révolution IA change dès à présent pour les œuvres d’art ?<span id="more-64792"></span>
+Des créateurs s’insurgent, crient au plagiat, paniquent comme jadis [les luddites](https://fr.wikipedia.org/wiki/Luddisme) lors de l’introduction des métiers à tisser mécaniques. De quoi ont-ils peur ? Leur peur est-elle légitime ? Et surtout qu’est-ce que la révolution IA change dès à présent pour les œuvres d’art ?
 
 Le luddisme ressurgit à chaque innovation technologique. Il met en cause des méthodes de production, parfois millénaires, pour leur substituer de nouveaux systèmes, plus rapides, plus efficients, plus rentables. À chacun de leur trouver des qualificatifs, pour le meilleur et pour le pire.
 

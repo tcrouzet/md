@@ -4,7 +4,7 @@
 
 ### Jeudi 3, Balaruc
 
-N m’annonce que la messagerie Telegram a été bloquée en Iran, mais que c’est sans importance puisque tout le monde utilise des proxys. À quoi ça rime, alors ? Les mollahs doivent être bien désespérés pour prendre une telle mesure, mais les gens désespérés peuvent commettre des horreurs. Isa me dit que je ne comprends rien à la politique. « Au contraire, les mollahs se donnent ainsi une raison de plus d’emprisonner les gens qui ne respectent pas leurs dictats. C’est tout. »<span id="more-49259"></span>
+N m’annonce que la messagerie Telegram a été bloquée en Iran, mais que c’est sans importance puisque tout le monde utilise des proxys. À quoi ça rime, alors ? Les mollahs doivent être bien désespérés pour prendre une telle mesure, mais les gens désespérés peuvent commettre des horreurs. Isa me dit que je ne comprends rien à la politique. « Au contraire, les mollahs se donnent ainsi une raison de plus d’emprisonner les gens qui ne respectent pas leurs dictats. C’est tout. »
 
 ### Samedi 5, Balaruc
 

@@ -1,6 +1,6 @@
 # De quoi allez-vous mourir ?
 
-Je suis en train de finaliser [*L’homme qui lave les mains*](http://blog.tcrouzet.com/homme-qui-lave-les-mains/), notamment de vérifier tous les chiffres. Ils donnent froid dans le dos. J’ai besoin de les mettre à plat tout de suite, comme pour mieux prendre conscience de leur horreur (d’autant que mon livre ne sera pas l’endroit pour les discuter).<span id="more-33571"></span>
+Je suis en train de finaliser [*L’homme qui lave les mains*](http://blog.tcrouzet.com/homme-qui-lave-les-mains/), notamment de vérifier tous les chiffres. Ils donnent froid dans le dos. J’ai besoin de les mettre à plat tout de suite, comme pour mieux prendre conscience de leur horreur (d’autant que mon livre ne sera pas l’endroit pour les discuter).
 
 Selon Didier Pittet (c’est lui l’homme qui lave les mains), et comment ne pas lui faire confiance à ce sujet, la meilleure estimation des taux d’infection nosocomiaux et de la mortalité associée date [d’une étude américaine de 2002](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1820440/).
 

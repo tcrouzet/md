@@ -1,6 +1,6 @@
 # J+2 de la nouvelle ère
 
-La plupart des gens sont tellement *brainwashed* qu’ils sont incapables d’imaginer d’autres modalités d’action politique que celles qu’on leur a mises dans la tête.<span id="more-12724"></span>
+La plupart des gens sont tellement *brainwashed* qu’ils sont incapables d’imaginer d’autres modalités d’action politique que celles qu’on leur a mises dans la tête.
 
 Selon eux, il faut créer des partis, des mouvements, se faire élire, ou faire pression sur les élus, pour obtenir un quelconque changement sociétal. Mais qui a construit cette idéologie sinon ceux qui sont issus de ce système même ? Système qui s’entretient naturellement et qui se défend des autres systèmes possibles, en les marginalisant.
 

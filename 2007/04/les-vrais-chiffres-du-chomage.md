@@ -7,8 +7,7 @@ Si nous disposions de tous les chiffres, nombre de débats n’auraient pas lieu
 Un ami qui travaille à l’ANPE m’a expliqué que les chiffres du chômage, entre autres, étaient assez difficiles à obtenir même pour les gens du sérail. Les bases de données sont cloisonnées à l’intérieur des services de l’État, chacun des fonctionnaires cherchant à défendre son territoire.
 
 Après avoir lu des articles sur [actuchomage.org](http://www.actuchomage.org/modules.php?op=modload&name=PagEd&file=index&topic_id=20&page_id=237), mon ami a voulu connaître la réalité. Il a finit par obtenir les chiffre pour son département, l’Hérault :
-
-**45 300 demandeurs d’emploi** dénombrés par les statistiques officielles, soit un taux de chômage de **12,3%**.
+ dénombrés par les statistiques officielles, soit un taux de chômage de **12,3%**.
 
 Si nous avions accès à toutes les données, nous pourrions vite découvrir que ce chiffre est totalement arbitraire. Il ne recouvre en fait que les chômeurs de catégorie 1. Et, dans l’Hérault comme ailleurs, il y a [beaucoup d’autres catégories](http://www.anpe.fr/partenaires/categories_demandeurs_emploi_3946.html) passées sous silence par les statistiques du gouvernement.
 

@@ -1,6 +1,6 @@
 # T’es pas piraté, t’existes pas
 
-C’est ce que je me dis en découvrant un peu partout [les ebooks de la rentrée littéraire 2014](https://www.actualitte.com/usages/la-rentree-litteraire-2014-en-telechargement-pirate-52151.htm) en libre circulation, sauf mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/). Merde, c’est un affront.<span id="more-36915"></span>
+C’est ce que je me dis en découvrant un peu partout [les ebooks de la rentrée littéraire 2014](https://www.actualitte.com/usages/la-rentree-litteraire-2014-en-telechargement-pirate-52151.htm) en libre circulation, sauf mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/). Merde, c’est un affront.
 
 C’est surtout un coup dur pour l’édition électronique. Déjà que les éditeurs français ne sont pas chauds pour le numérique, si vous leur jetez des peaux de bananes dans les pattes, ils ne vont pas changer d’avis de si tôt.
 

@@ -1,6 +1,6 @@
 # I&#8217;m the media
 
-Depuis le 31 mai dernier et sa diffusion intégrale en ligne, je dois voir [*I’m the media*](http://www.iamthemedia.tv/), le film de Benjamin Rassat. Pourquoi ai-je attendu hier soir pour le visionner ? Tout simplement parce que depuis cette date, je n’ai pas regardé le moindre film, pas la moindre vidéo. La lecture et l’interaction, dans la chair ou en ligne, m’accaparent.<span id="more-18884"></span>
+Depuis le 31 mai dernier et sa diffusion intégrale en ligne, je dois voir [*I’m the media*](http://www.iamthemedia.tv/), le film de Benjamin Rassat. Pourquoi ai-je attendu hier soir pour le visionner ? Tout simplement parce que depuis cette date, je n’ai pas regardé le moindre film, pas la moindre vidéo. La lecture et l’interaction, dans la chair ou en ligne, m’accaparent.
 
 Comment Benjamin aurait-il pu traiter du narcissisme en ligne sans se moquer de lui-même et de devenir le principal interviewé du documentaire ? Cette mise en abîme a pour effet de rendre un peu plus ridicules les autres interviewés, excepté [Thierry Ehrmann](http://blog.ehrmann.org/) que j’ai trouvé sympathique. Et sans la présence de Benjamin dans son film, nous aurions été privés d’un final hilarant. Pour moi, la véritable histoire commence à ce moment, j’aurais aimé que Benjamin nous entraîne dans un délire encore plus total, extravagant. J’en avais besoin après avoir vu des personnalités presque pitoyables, tel Robert Scoble, qui expose son obésité satisfaite et déblatère des banalités.
 

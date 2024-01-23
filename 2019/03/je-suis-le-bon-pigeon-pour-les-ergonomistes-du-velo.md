@@ -1,6 +1,6 @@
 # Je suis le bon pigeon pour les ergonomistes du vélo
 
-Le vélo est censé être un des sports les moins traumatisants, sauf quand on tombe, ce qui arrive plus souvent qu’on ne le voudrait. Reste que le vélo, ça peut faire mal un peu partout. Aux cervicales, au dos, aux genoux, aux fesses, aux pieds, aux mains.<span id="more-50947"></span>
+Le vélo est censé être un des sports les moins traumatisants, sauf quand on tombe, ce qui arrive plus souvent qu’on ne le voudrait. Reste que le vélo, ça peut faire mal un peu partout. Aux cervicales, au dos, aux genoux, aux fesses, aux pieds, aux mains.
 
 ![3XO 16 de SQ-Lab](https://tcrouzet.com/images_tc/2019/03/sqlab1-600x206.jpg)
 

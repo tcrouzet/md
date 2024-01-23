@@ -10,8 +10,6 @@
 
 ##### **papier 10.00 €** : [Amazon](https://www.amazon.fr/dp/1986627748).
 
-
-
 Un homme accompagne une inconnue dans un pays inconnu dans le seul but d’écrire le récit d'un voyage.
 
 Roman auto-fictif écrit en 1999 à partir des notes prises durant un séjour de trois semaines au Mexique. Tout est vrai, ou presque.

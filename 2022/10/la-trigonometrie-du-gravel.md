@@ -1,6 +1,6 @@
 # La trigonométrie du gravel
 
-Quand j’étais gamin, nous adorions retourner les cintres moustache de nos vélos de course. Cette position nous permettait de rouler la tête relevée et le cintre se transformait en siège où nous pouvions caser un copain. Nous n’avions pas peur d’oser toutes les combinaisons qui nous traversaient l’esprit, mais j’ai l’impression que dans le monde du gravel, pourtant réputé cool, la fantaisie n’est pas de mise.<span id="more-64425"></span>
+Quand j’étais gamin, nous adorions retourner les cintres moustache de nos vélos de course. Cette position nous permettait de rouler la tête relevée et le cintre se transformait en siège où nous pouvions caser un copain. Nous n’avions pas peur d’oser toutes les combinaisons qui nous traversaient l’esprit, mais j’ai l’impression que dans le monde du gravel, pourtant réputé cool, la fantaisie n’est pas de mise.
 
 ![Gravel taureau](https://tcrouzet.com/images_tc/2022/10/IMG_9627.jpeg)
 

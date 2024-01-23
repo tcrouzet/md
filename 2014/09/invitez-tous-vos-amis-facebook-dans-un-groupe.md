@@ -1,6 +1,6 @@
 # Invitez tous vos amis Facebook dans un groupe
 
-Si vous pensez que vos amis sont vos amis, vous êtes trop naïfs. Vos amis sont des générateurs de flouze pour Facebook, et rien d’autre.<span id="more-36982"></span>
+Si vous pensez que vos amis sont vos amis, vous êtes trop naïfs. Vos amis sont des générateurs de flouze pour Facebook, et rien d’autre.
 
 J’ai une fois de plus fait l’expérience de cette triste réalité en voulant faire la promotion de mon nouveau roman, [*Èratosthène*](http://blog.tcrouzet.com/eratosthene/) ([allez donc l’acheter si vous voulez mieux comprendre notre monde de dingues](http://blog.tcrouzet.com/eratosthene/?lib=1)).
 
@@ -27,6 +27,8 @@ D’expérience, je sais qu’il existe des scripts pour contourner la pingrerie
 Est-ce du spam ? Je ne vois pas en quoi. Je suis auteur, les gens se connectent à moi pour cette raison et, si je ne peux pas leur signaler que je sors un nouveau livre, qui est le truand ? Moi, qui cherche simplement à utiliser un réseau social ouvert en 2007 ou l’opérateur de ce réseau ? Je vous laisse juger. D’autant que si je suis prêt à mettre la main à la caisse, Facebook me laissera envoyer de simples messages à tous mes amis, et même aux amis de leurs amis. Cherchez le bug. Plus le temps passe, plus les fonctions avancées nous sont retirées pour être monétisées. Ceux qui jadis ont abandonné leur blog s'en mordront bientôt les doigts. On n'est jamais mieux servi que par soi-même.
 
 ![Facebook finit par vous faire croire à un virus.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/fb.png)
+
+Facebook finit par vous faire croire à un virus.
 
 
 

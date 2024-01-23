@@ -1,6 +1,6 @@
 # Quand j’aime un livre, je le partage
 
-Vous allez crier au piratage. N’exagérez pas. J’ai toujours aimé parler des livres qui me travaillent, n'hésitant pas à les prêter à mes amis, ne songeant pas une seconde que je spolie leurs auteurs. Je suis embêté maintenant que je ne lis plus qu’en numérique.<span id="more-36573"></span>
+Vous allez crier au piratage. N’exagérez pas. J’ai toujours aimé parler des livres qui me travaillent, n'hésitant pas à les prêter à mes amis, ne songeant pas une seconde que je spolie leurs auteurs. Je suis embêté maintenant que je ne lis plus qu’en numérique.
 
 Quand Isa apprécie tout particulièrement un ebook, elle achète une version papier pour l’offrir. Je n’arrive pas à me résoudre à ce stratagème, même si j’aime encore certains livres papiers, surtout mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/) avec sa couv antique, sa belle main. Reste que si je n’étais pas l’auteur, je préférerais encore le lire sur ma liseuse.
 

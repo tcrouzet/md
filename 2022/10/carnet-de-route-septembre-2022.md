@@ -4,7 +4,7 @@
 
 ### Jeudi 1, Paris
 
-Matinée à optimiser la CSS de mon blog, à la rendre plus adaptable, plus indépendante des appareils, tout en minimisant le code, tout cela parce qu’hier j’ai découvert [une astuce qui simplifie la vie](https://www.smashingmagazine.com/2020/07/css-techniques-legibility/). Petit atelier de mécanique avant de marcher jusqu’au Quartier latin, de m’asseoir en terrasse de L’Écritoire, place de La Sorbonne où je reviens de temps autres en pèlerinage.<span id="more-64367"></span>
+Matinée à optimiser la CSS de mon blog, à la rendre plus adaptable, plus indépendante des appareils, tout en minimisant le code, tout cela parce qu’hier j’ai découvert [une astuce qui simplifie la vie](https://www.smashingmagazine.com/2020/07/css-techniques-legibility/). Petit atelier de mécanique avant de marcher jusqu’au Quartier latin, de m’asseoir en terrasse de L’Écritoire, place de La Sorbonne où je reviens de temps autres en pèlerinage.
 
 J’ai la tête vide, une oreille télépathique tendue vers Tim, d’autres neurones qui compilent encore ma CSS, et Paris n’est qu’un arrière-plan familier, avec des gens qui s’y donnent en spectacle, sans que je les trouve très intéressants. J’y vois surtout des caricatures, c’était flagrant hier dans le seizième, puis sur les quais, plus discrets cet après-midi.
 

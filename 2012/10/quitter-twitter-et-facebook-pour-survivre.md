@@ -1,6 +1,6 @@
 # Quitter Twitter et Facebook pour survivre
 
-J’ai aimé Facebook, j’ai aimé Twitter, j’y ai beaucoup d’amis, j’y ai tenté beaucoup d’expériences, mais je n’ai jamais apprécié la politique de ces services. Il est temps d’envisager autre chose, pourquoi pas [Tent](https://tent.is/).<span id="more-28759"></span>
+J’ai aimé Facebook, j’ai aimé Twitter, j’y ai beaucoup d’amis, j’y ai tenté beaucoup d’expériences, mais je n’ai jamais apprécié la politique de ces services. Il est temps d’envisager autre chose, pourquoi pas [Tent](https://tent.is/).
 
 Au début, nous n’étions pas nombreux sur les réseaux sociaux, nous pouvions passer outre la faiblesse inhérente à leur centralisation, séduits avant tout par les possibilités nouvelles qui nous étaient offertes. Avec le succès, de plus en plus de gens sont arrivés, par millions, par centaines de millions, un milliard maintenant et tout a changé.
 

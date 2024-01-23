@@ -1,6 +1,6 @@
 # Optimiser les cartes des GPS Garmin
 
-J’utilise un GPS pour suivre des traces, que ce soit en bikepacking, ou lors de randonnées organisées par des tiers, ou même lorsque je trace mes propres parcours. Mon problème : la plupart des cartes disponibles pour Garmin sont surchargées d’informations et de couleurs, et la trace se confond souvent avec elles, surtout en plein soleil, et la suivre devient alors difficile. J’ai donc décidé de créer une carte optimisée.<span id="more-55815"></span>
+J’utilise un GPS pour suivre des traces, que ce soit en bikepacking, ou lors de randonnées organisées par des tiers, ou même lorsque je trace mes propres parcours. Mon problème : la plupart des cartes disponibles pour Garmin sont surchargées d’informations et de couleurs, et la trace se confond souvent avec elles, surtout en plein soleil, et la suivre devient alors difficile. J’ai donc décidé de créer une carte optimisée.
 
 ### Rendu avec carte Garmin
 

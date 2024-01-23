@@ -1,6 +1,6 @@
 # Biens communs : le paradoxe de la mémoire eidétique
 
-Le débat fait rage entre ceux qui voudraient légaliser les échanges non marchands sur le Net et ceux qui appellent ces échanges du piratage ou du vol. Et ça ne va pas se terminer. Dans le domaine, on en est un peu au moment de la controverse de Valladolid. [Les commonistes](http://blog.tcrouzet.com/tag/commonisme/) veulent reconnaître les mêmes droits aux indigènes du Net qu'à ceux de l'ancien monde, les conquistadors refusent cette égalité.<span id="more-33951"></span>
+Le débat fait rage entre ceux qui voudraient légaliser les échanges non marchands sur le Net et ceux qui appellent ces échanges du piratage ou du vol. Et ça ne va pas se terminer. Dans le domaine, on en est un peu au moment de la controverse de Valladolid. [Les commonistes](http://blog.tcrouzet.com/tag/commonisme/) veulent reconnaître les mêmes droits aux indigènes du Net qu'à ceux de l'ancien monde, les conquistadors refusent cette égalité.
 
 Je ne vous cache pas que je suis commoniste. Pour une simple raison : les échanges non marchands ont toujours existé hors ligne. J'achète un livre, le lis, le passe à ma femme, elle le passe à ses amis qui lui en passent d'autres. Il serait tout simplement absurde, régressif, d'interdire les mêmes échanges du moment que le livre devient un ebook incarné par un fichier.
 
@@ -29,6 +29,8 @@ Alors soit ont extermine les êtres extraordinaires, soit on invente de nouvelle
 Un don qui n'était pas gênant tant qu'il était rare devient un problème de société quand il se généralise. Est-ce une raison pour revenir en arrière, pour tuer les mutants ? Il me semble que nous ferions mieux de nous féliciter des nouvelles possibilités qui s'offrent à nous. Plutôt que tuer l'Indien, devenons Indien.
 
 ![Codex Magliabechiano](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/12/Codex_Magliabechiano_141_cropped1.jpg)
+
+Codex Magliabechiano
 
 
 

@@ -1,6 +1,6 @@
 # Écrire sur le territoire
 
-[Jean-Yves Fréchette](https://fr.wikipedia.org/wiki/Jean-Yves_Fr%C3%A9chette) est génialement fou. Depuis les années 1980, il écrit dans les champs canadiens. Ses stylos : des tracteurs qui labourent après la moisson. En visionnant la vidéo qui raconte son aventure, je n’ai pu m’empêcher de penser à ma propre activité d’écriture sur le territoire, qui me devient de plus en plus obsessionnelle.<span id="more-64780"></span>
+[Jean-Yves Fréchette](https://fr.wikipedia.org/wiki/Jean-Yves_Fr%C3%A9chette) est génialement fou. Depuis les années 1980, il écrit dans les champs canadiens. Ses stylos : des tracteurs qui labourent après la moisson. En visionnant la vidéo qui raconte son aventure, je n’ai pu m’empêcher de penser à ma propre activité d’écriture sur le territoire, qui me devient de plus en plus obsessionnelle.
 
 J’ai connu Jean-Yves [à travers la twittérature](https://tcrouzet.com/2013/03/03/investir-les-espaces-numeriques/) dont il était un des apôtres, puis [nous nous sommes rencontrés lors de son passage à Montpellier](https://tcrouzet.com/2015/12/01/carnet-de-route-novembre-2015/), et de temps à autre nous échangeons des messages. Jean-Yves est une lumière généreuse, heureuse, inspirante, un modèle pour moi. Je ne veux pas vieillir autrement que lui, je ne veux pas sombrer dans le désespoir comme mon père, je veux continuer à célébrer la vie.
 

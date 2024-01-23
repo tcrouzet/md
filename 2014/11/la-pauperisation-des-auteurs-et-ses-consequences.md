@@ -1,6 +1,6 @@
 # La paupérisation des auteurs et ses conséquences
 
-Nous autres auteurs sommes toujours en train de nous plaindre et néanmoins nous sommes toujours plus nombreux. C’est une situation bien paradoxale qu’il faut démêler.<span id="more-38177"></span>
+Nous autres auteurs sommes toujours en train de nous plaindre et néanmoins nous sommes toujours plus nombreux. C’est une situation bien paradoxale qu’il faut démêler.
 
 ### Les raisons de la colère
 
@@ -35,6 +35,8 @@ Si on reste sur les valeurs moyennes, le cinquantième sur la liste avec 130 000
 4. On milite ainsi pour une organisation sociale plus transversale et sans doute plus juste.
 
 ![Petits calculs avec les chiffres 2013 du MOTIF.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/motif.png)
+
+Petits calculs avec les chiffres 2013 du MOTIF.
 
 
 

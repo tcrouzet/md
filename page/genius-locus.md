@@ -10,8 +10,6 @@
 
 ##### **papier 16.89 €** : [amazon.com](http://www.amazon.fr/Genius-Locus-Thierry-Crouzet/dp/1409285081), [amazon](http://www.amazon.fr/Genius-Locus-Thierry-Crouzet/dp/1409285081), [lulu.com](http://www.lulu.com/content/livre-%c3%a0-couverture-souple/genius-locus/7236797).
 
-
-
 Une île méditerranéenne durant la morte saison. Sept personnages se succèdent comme les notes dans une partition de musique sérielle.
 
 ### Fiche produit

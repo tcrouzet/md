@@ -1,6 +1,6 @@
 # Contre le Jones H-Bar
 
-Depuis que je m’intéresse au bikepacking et au vélo d’endurance, je croise beaucoup de vététistes qui roulent avec cet étrange guidon qu’est le [Jones H-Bar](https://www.jonesbikes.com/h-bar-jones-loop-carbon/), un guidon dont les bras rentrent de 45° et sont attachés à une espèce d’œil composé de deux barres en arc de cercle.<span id="more-51153"></span>
+Depuis que je m’intéresse au bikepacking et au vélo d’endurance, je croise beaucoup de vététistes qui roulent avec cet étrange guidon qu’est le [Jones H-Bar](https://www.jonesbikes.com/h-bar-jones-loop-carbon/), un guidon dont les bras rentrent de 45° et sont attachés à une espèce d’œil composé de deux barres en arc de cercle.
 
 ![H-Bar](https://tcrouzet.com/images_tc/2019/03/CarbonHbar_Loop710-600x254.jpg)
 

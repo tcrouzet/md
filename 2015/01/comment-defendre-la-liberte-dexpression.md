@@ -1,6 +1,6 @@
 # Comment défendre la liberté d’expression sur le Net et ailleurs
 
-C’est bien beau de descendre dans la rue au nom, entre autres, de la liberté d’expression, mais croyez-vous que nous serons demain plus libres de nous exprimer après la démonstration d’unité nationale du 11 janvier 2015 ?<span id="more-38924"></span>
+C’est bien beau de descendre dans la rue au nom, entre autres, de la liberté d’expression, mais croyez-vous que nous serons demain plus libres de nous exprimer après la démonstration d’unité nationale du 11 janvier 2015 ?
 
 Extase collective. Grande communion. Nécessaire décharge émotionnelle. Vos intentions diverses auront été incapables de défendre ce qui était au cœur du problème, à son origine, le droit de s’exprimer librement sans encourir la peine de mort, l’emprisonnement, les coups de bâton ou la simple censure.
 
@@ -43,6 +43,8 @@ Se lever pour la liberté d’expression, c’est une bonne intention qui doit s
 *PS : Au moment où la nation se trouve renforcée, les grands journaux voient leur audience augmenter, signe déjà d'une recentralisation de l'audience, signe que de nombreuses autres voix parlent dans le vide.*
 
 ![Où est Charlie maintenant ? Tout là-bas dans le bleu.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/soleil.jpg)
+
+Où est Charlie maintenant ? Tout là-bas dans le bleu.
 
 
 

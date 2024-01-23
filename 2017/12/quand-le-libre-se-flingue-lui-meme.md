@@ -1,6 +1,6 @@
 # Quand le libre se flingue lui-même
 
-Pourquoi les plus fervents adeptes du libre ont-ils éprouvé le besoin de créer une monnaie libre comme la [?1](https://g1.duniter.fr/) ? Il me paraît important d’interroger ce paradoxe pour comprendre l’évolution du Net et de la société en général.<span id="more-46018"></span>
+Pourquoi les plus fervents adeptes du libre ont-ils éprouvé le besoin de créer une monnaie libre comme la [?1](https://g1.duniter.fr/) ? Il me paraît important d’interroger ce paradoxe pour comprendre l’évolution du Net et de la société en général.
 
 Pourquoi un paradoxe ?
 

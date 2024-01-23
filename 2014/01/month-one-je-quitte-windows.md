@@ -1,6 +1,6 @@
 # Month One : je quitte Windows
 
-Franchement, je ne comprends toujours pas pourquoi les gens sont aussi fanatiques du Mac. Pas de méprise, je ne regrette pas d’avoir acheté un Macbook Pro Retina en remplacement du [Lenovo Yoga 2 Pro](http://blog.tcrouzet.com/tag/lenovo/). Malgré quelques doutes épisodiques, c’était bien OneNote pour le dessin en mode tablette, le Macbook est sans doute le meilleur portable du moment, mais le Mac OS a autant de défauts que Windows.<span id="more-34305"></span>
+Franchement, je ne comprends toujours pas pourquoi les gens sont aussi fanatiques du Mac. Pas de méprise, je ne regrette pas d’avoir acheté un Macbook Pro Retina en remplacement du [Lenovo Yoga 2 Pro](http://blog.tcrouzet.com/tag/lenovo/). Malgré quelques doutes épisodiques, c’était bien OneNote pour le dessin en mode tablette, le Macbook est sans doute le meilleur portable du moment, mais le Mac OS a autant de défauts que Windows.
 
 Des choses simples sur un système sont compliquées sur l’autre et inversement. Pour le reste, les différences se sont peu à peu effacées avec les années. Mac OS est plus homogène que le bordélique Windows 8, c’est une certitude. Esthétique plus aboutie, affichage plus fluide. Mais quand je travaille sur mon traitement de texte, tout cela s’efface. Il reste le silence impressionnant du Mac. Je ne sais même pas si cette machine dispose d’un ventilateur.
 
@@ -30,6 +30,8 @@ Vous le voyez, rien de bien extraordinaire. Basculer de Windows à Mac est en d�
 Il serait temps que je me mette à écrire un vrai livre avec cette machine. Je suis en ce moment embourbé dans l’édition des textes qui sortiront cette année (et cette saga-là nécessiterait à elle seule un livre, tant le monde de l’édition perd la boule). J’ai de plus en plus envie de dire merde à cet univers et de cultiver mon jardin numérique.
 
 ![Mon Macbook sur son pied avec clavier Logitech et souris Apple positionnés dessous.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/bureaumac.jpg)
+
+Mon Macbook sur son pied avec clavier Logitech et souris Apple positionnés dessous.
 
 *PS1 : Après deux jours de retour à la souris, j'ai mal à tous les doigts. C'est un instrument de torture. Une fois que tu goûtes au trackpad multitouch, tu ne peux plus t'en passer. J'ai donc redescendu le Mac de son perchoir. Je garde le clavier et la souris pour les rares fois où j'aurais besoin d'un grand écran.*
 

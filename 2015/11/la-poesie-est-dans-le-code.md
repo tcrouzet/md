@@ -8,9 +8,13 @@ Je me dis aujourd’hui que si cette unique page Web initialement publiée sur E
 
 ![Code javascript d'Interlaced, 1996.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/interlaced1s.png)
 
+Code javascript d'Interlaced, 1996.
+
 Plus que ça :
 
 ![Trois générations possibles…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/interlaced2.png)
+
+Trois générations possibles…
 
 Étudier ce genre de poésie, c’est donc aussi étudier le code qui la sous-tend. Dans ce code, on trouve imbriqués quatre vers d'inspiration haïku.
 

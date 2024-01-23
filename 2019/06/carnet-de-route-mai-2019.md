@@ -4,7 +4,7 @@
 
 ### Mercredi 1<sup>er</sup>, Weston
 
-Je voudrais publier mon journal d’avril, mais je n’y arrive pas, parce que WordPress ne comprend plus mon Markdown et le convertit en HTML. J’active, désactive des plug-ins, lis des articles, mais WordPress a franchement compliqué mon travail à force de vouloir simplifier celui des autres blogueurs. Je suis obligé de réinventer un processus éditorial (activer Markdown de Jetpack, installer le plug-in Disable Gutenberg, virer tout autre plug-in Markdown, patcher le Markdown déficient d’Ulysses).<span id="more-51672"></span>
+Je voudrais publier mon journal d’avril, mais je n’y arrive pas, parce que WordPress ne comprend plus mon Markdown et le convertit en HTML. J’active, désactive des plug-ins, lis des articles, mais WordPress a franchement compliqué mon travail à force de vouloir simplifier celui des autres blogueurs. Je suis obligé de réinventer un processus éditorial (activer Markdown de Jetpack, installer le plug-in Disable Gutenberg, virer tout autre plug-in Markdown, patcher le Markdown déficient d’Ulysses).
 
 Pourquoi n’en restons-nous pas au minimalisme ? Parce que, quand on n’a pas d’idée, on complique plutôt que s’évertuer à simplifier. On complique et on dépense, et on pollue. Le minimalisme implique des innovations continues.
 

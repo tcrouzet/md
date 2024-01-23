@@ -1,6 +1,6 @@
 # Ont-ils le pouvoir ?
 
-J’ai longuement discuté ce matin avec [Étienne Chouard](http://etienne.chouard.free.fr/Europe/). Chaque fois que je parle avec lui, je me sens boosté tant il m’ouvre de pistes que je n’aurais jamais le temps de toutes explorer.<span id="more-262"></span>
+J’ai longuement discuté ce matin avec [Étienne Chouard](http://etienne.chouard.free.fr/Europe/). Chaque fois que je parle avec lui, je me sens boosté tant il m’ouvre de pistes que je n’aurais jamais le temps de toutes explorer.
 
 Je vous conseille de parcourir la [présentation de ses grandes idées](http://etienne.chouard.free.fr/Europe/A_la_recherche_de_la_vieille_clef_du_controle_des_pouvoirs.ppt). C’est essentiel. Oui, il faut empêcher le pouvoir de définir les règles du pouvoir. Il faut empêcher le pouvoir de s’accaparer le pouvoir.
 

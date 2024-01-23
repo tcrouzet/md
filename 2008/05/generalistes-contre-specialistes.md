@@ -1,6 +1,6 @@
 # Généralistes contre spécialistes
 
-Quelques définitions pour commencer.<span id="more-799"></span>
+Quelques définitions pour commencer.
 
 - **Ne pas étudier.** Expression du peuple des connecteurs qui était entendue au sens de ne pas suivre un parcours étiqueté mais choisir dans l'immensité des savoirs ceux capables d'enrichir sa personnalité. Ne pas étudier ne veut donc pas dire ne pas apprendre mais apprendre ce que tu choisis d'apprendre, ce qu'aucun cursus ne peut te proposer, même le plus maléable. Quand tu commences par faire un école pour avoir un diplôme qui te donnera tel ou tel job, il y a un bug.
 

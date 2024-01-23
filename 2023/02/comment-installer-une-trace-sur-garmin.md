@@ -1,8 +1,6 @@
 # Comment installer une trace sur un Garmin
 
-On ne cesse de me poser cette question. La procédure n’est donc pas intuitive. Je ne suis pas le roi des pédagogues, mais je vais vous présenter les différentes méthodes que j’utilise. Pour être pragmatique, je m’appuie sur [la trace du 727 hébergée sur VisuGPX](https://www.visugpx.com/XvU1OlWJ6Z). C’est une trace techniquement intéressante parce qu’elle s’étend sur près de 600 km et comporte des dizaines de POI (points d’intérêt ou waypoints). Elle pose donc plus de difficultés de synchronisation qu’une trace courante, ce qui me permettra d’explorer diverses possibilités.<span id="more-64765"></span>
-
-\[tcrouzet function="tcrouzet\_visugpx" map="https://www.visugpx.com/XvU1OlWJ6Z"\]
+On ne cesse de me poser cette question. La procédure n’est donc pas intuitive. Je ne suis pas le roi des pédagogues, mais je vais vous présenter les différentes méthodes que j’utilise. Pour être pragmatique, je m’appuie sur [la trace du 727 hébergée sur VisuGPX](https://www.visugpx.com/XvU1OlWJ6Z). C’est une trace techniquement intéressante parce qu’elle s’étend sur près de 600 km et comporte des dizaines de POI (points d’intérêt ou waypoints). Elle pose donc plus de difficultés de synchronisation qu’une trace courante, ce qui me permettra d’explorer diverses possibilités.
 
 ### 1. Synchro par site de partage
 

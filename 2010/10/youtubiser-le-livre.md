@@ -1,6 +1,6 @@
 # Youtubiser le livre
 
-J’exècre de plus en plus *Wired*, tant l’idéologie success-stories l’imprègne. Il n’y est plus question que de businessmen qui réussissent selon les critères du xxe siècle. Il m’arrive néanmoins d’y grappiller quelques idées, comme dans l’entretien entre [Kevin Kelly and Steven Johnson](http://www.wired.com/magazine/2010/09/mf_kellyjohnson/all/1).<span id="more-20010"></span>
+J’exècre de plus en plus *Wired*, tant l’idéologie success-stories l’imprègne. Il n’y est plus question que de businessmen qui réussissent selon les critères du xxe siècle. Il m’arrive néanmoins d’y grappiller quelques idées, comme dans l’entretien entre [Kevin Kelly and Steven Johnson](http://www.wired.com/magazine/2010/09/mf_kellyjohnson/all/1).
 
 > Ten years ago, I was arguing that the problem with TV was that there wasn’t enough bad TV. Making TV was so expensive that accountants prevented it from becoming really crappy—or really great. It was all mediocre. But that was before YouTube. Now there is great TV! \[…\] To create something great, you need the means to make a lot of really bad crap. Another example is spectrum. One reason we have this great explosion of innovation in wireless right now is that the US deregulated spectrum. Before that, spectrum was something too precious to be wasted on silliness. But when you deregulate—and say, OK, now waste it—then you get Wi-Fi.
 

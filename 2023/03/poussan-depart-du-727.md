@@ -1,6 +1,6 @@
 # Poussan : départ des 727
 
-Si on m’avait dit il y a quelques années que j’organiserais [une randonnée bikepacking](/727tour) au départ de [Poussan](https://fr.wikipedia.org/wiki/Poussan), je ne l’aurais pas cru. J’entretiens une relation ambiguë avec le village de ma famille maternelle.<span id="more-64837"></span>
+Si on m’avait dit il y a quelques années que j’organiserais [une randonnée bikepacking](/727tour) au départ de [Poussan](https://fr.wikipedia.org/wiki/Poussan), je ne l’aurais pas cru. J’entretiens une relation ambiguë avec le village de ma famille maternelle.
 
 Je suis un enfant des berges de l’étang de Thau, des plages de coquillages, des étendues bleues. Mon regard s’est toujours tourné vers Sète, la mer, le large, les destinations lointaines. Quand mes parents me laissaient à Poussan pour quelques jours chez mes grands-parents, j’avais l’impression de remonter dans le temps. Tout me paraissait vieux, délabré, dépassé.
 

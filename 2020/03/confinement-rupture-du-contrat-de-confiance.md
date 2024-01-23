@@ -1,6 +1,6 @@
 # Confinement : rupture du contrat de confiance
 
-Je pourrais parler des bons côtés du confinement, dire par exemple que j’avance à une belle vitesse sur la suite du [*Geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/), mais ce serait regarder la situation par le trou de ma serrure. Hors de ma bulle, et même à cause des miasmes qui s’y insinuent, je n’arrive pas à me réjouir.<span id="more-53785"></span>
+Je pourrais parler des bons côtés du confinement, dire par exemple que j’avance à une belle vitesse sur la suite du [*Geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/), mais ce serait regarder la situation par le trou de ma serrure. Hors de ma bulle, et même à cause des miasmes qui s’y insinuent, je n’arrive pas à me réjouir.
 
 J’aurais aimé un grand élan national, une belle entente, un regain d’harmonie, une sorte d’un contre tous dépourvu de polémiques, mais il faut croire que nous avons raté le coche, peut-être déjà parce que l’affaire nous a été présentée comme une guerre, et qui dit guerre dit apparition de déserteurs, d’objecteurs de conscience, de pacifistes et de va-t’en guerre zélés, autant de raisons de fracturer la société.
 

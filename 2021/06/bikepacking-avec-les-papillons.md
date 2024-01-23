@@ -1,6 +1,6 @@
 # Bikepacking avec les papillons
 
-J’ai eu l’idée saugrenue d’initier mon copain Philippe au bikepacking en l’entraînant sur la trace vierge de ma nouvelle i727, encore à l’état de prototype. En trois jours, nous avons expérimenté une chaleur poisseuse, un orage monstre, une nuit tempétueuse, de longs kilomètres de poussage dans la caillasse, avec pour récompense des moments lumineux dans des paysages grandioses.<span id="more-59651"></span>
+J’ai eu l’idée saugrenue d’initier mon copain Philippe au bikepacking en l’entraînant sur la trace vierge de ma nouvelle i727, encore à l’état de prototype. En trois jours, nous avons expérimenté une chaleur poisseuse, un orage monstre, une nuit tempétueuse, de longs kilomètres de poussage dans la caillasse, avec pour récompense des moments lumineux dans des paysages grandioses.
 
 L’i727 est en cours de construction. Je raconte notre périple pour ouvrir mon atelier de création de traces, donner des envies de voyage, voire recruter des testeurs pour fignoler cette aventure. Si vous aspirez à un tour bikepacking plus tranquille dans l'Hérault, [commencez par le 727](https://tcrouzet.com/727tour/) (tranquille, façon de parler).
 

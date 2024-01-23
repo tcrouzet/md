@@ -1,6 +1,6 @@
 # Apple annonce l’iFolio et tue le livre papier
 
-Des rumeurs circulaient depuis quelque mois au sujet d’un appareil révolutionnaire qui ferait passer l'iPad au rang d’antiquité. On doutait, car depuis la disparition de Steve Jobs en 2011, nous n’avions rien vu venir d’extraordinaire. Une fois n’est pas coutume, des infos ont fuité avant le prochain keynote.<span id="more-43554"></span>
+Des rumeurs circulaient depuis quelque mois au sujet d’un appareil révolutionnaire qui ferait passer l'iPad au rang d’antiquité. On doutait, car depuis la disparition de Steve Jobs en 2011, nous n’avions rien vu venir d’extraordinaire. Une fois n’est pas coutume, des infos ont fuité avant le prochain keynote.
 
 La nouvelle merveille des laboratoires de Cupertino sera donc l’iFolio. Il s’agira ni plus ni moins d’un livre de 96 pages, chacune pas plus épaisse qu’une feuille de papier, chacune comparable à un écran d’iPad. Sur cette machine, il sera donc possible d’afficher 96 écrans simultanément, de disposer donc virtuellement de 96 iPad et de sauter des uns aux autres en tourant les pages.
 

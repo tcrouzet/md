@@ -10,8 +10,6 @@ Partout en Inde, dans des villages comme Rajsamadhiya, plus de 21 millions de pa
 
 Nous devons réagir, d’autant plus que cette situation se répète partout dans le monde. Mais qui est ce « nous » souvent invoqué ? Vous, moi, nos gouvernements, l’ONU ? Nous tous sans aucun doute mais, parmi nous, certains sont plus compétents que d’autres, je pense aux habitants de Rajsamadhiya eux-mêmes.
 
-**L’émergence du cinquième pouvoir**
-
 Alors que le gouvernement indien semblait impuissant, incapable de contrôler les ventes de pompes électriques ou imaginant d’invraisemblables titanesques projets d’irrigation, distribuant en attendant l’eau par camion citerne, Haradevsinh Hadeja, un policier à la retraire, trouva à la fin des années 1990 une solution : capturer l’eau de la mousson.
 
 Il imagina un réseau de mares se déversant les unes dans les autres pour ralentir l’écoulement de l’eau de pluie, la laissant pénétrer le sol et remplir les puits. Avec l’aide de photos satellites fournies par un scientifique, il repéra des fissures par lesquelles l’eau s’échappait et les colmata avec du béton. Depuis, le village de Rajsamadhiya est devenu l’un des plus verdoyants d’Inde et les pompes électriques n’y ont plus d’utilité.
@@ -21,8 +19,6 @@ Un seul homme, volontaire, courageux, qui sut motiver ses concitoyens, résolut 
 Aujourd’hui, la méthode imaginée par Haradevsinh Hadeja fait des émules. Elle se propage de village en village, en Inde, mais aussi par delà les frontières, gagnant l’Afrique notamment. Par devers les pouvoirs locaux comme gouvernementaux, le peuple prend son destin en main et résout les problèmes que les organisations hiérarchisées sont incapables de considérer avec pragmatisme.
 
 Voici le cinquième pouvoir en action. Il naît en local avant de se généraliser de proche en proche. Internet lui donne des moyens de communiquer et d’échanger, il lui donne les moyens de passer de l’échelle locale à l’échelle globale. Par le passé, ces processus étaient longs et aléatoires. S’ils restent toujours incertains, leurs chances de succès viennent d’être démultipliées.
-
-**De l’eau à la politique**
 
 À l’époque des réseaux, quand une solution marche, elle se propage de proche en proche. Elle n’a pas besoin d’être émise par le haut, diffusée par les médias dominants et appuyée par le pouvoir en place. Elle passe de personne à personne, de main en main, d’oreille à oreille. La solution peut être purement pratique comme celle imaginée en Inde pour juguler la crise de l’eau mais elle peut aussi être d’ordre politique.
 

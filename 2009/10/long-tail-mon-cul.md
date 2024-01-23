@@ -1,6 +1,6 @@
 # Long tail ? Mon cul !
 
-Ce titre pourrait être le début d’un dialogue entre un partisan de la théorie d’Anderson et un défenseur du vieux business model de la rareté.<span id="more-11422"></span>
+Ce titre pourrait être le début d’un dialogue entre un partisan de la théorie d’Anderson et un défenseur du vieux business model de la rareté.
 
 Je lis tout et n’importe quoi sur la longue traîne. Beaucoup de gens en restent à une idée simpliste, ne songeant qu’à leur business model. Par exemple [Frédéric Filloux](http://www.mondaynote.com/2009/09/27/the-long-tail-coming-up-short/). Tout cela me donne envie de [revenir brièvement sur le sujet](http://blog.tcrouzet.com/tag/long-tail/).
 

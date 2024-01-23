@@ -28,12 +28,6 @@ Follow and like [*Resistants* Facebook page](https://www.facebook.com/tequilausa
 
 Do not miss any episode by subscribing with your email [in the form below](http://eepurl.com/bWh9UL).
 
-
-
-
-
-
-
 Every Friday (except delay), you will receive the compilation of the latest episodes. If you have ideas, suggestions, criticism, send them by replying to the email received. Reading does not take more than ten minutes.
 
 ### 5/ You like experimentation

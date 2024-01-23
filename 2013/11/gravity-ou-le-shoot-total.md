@@ -1,6 +1,6 @@
 # Gravity ou le shoot total
 
-J'ai entendu parler de ce film comme d'une rumeur jusqu'à ce que dans sa newsletter mon ami Benjamin Rassat nous dise d'aller le voir et pointe vers un passage de [l'extraordinaire bande-son](https://soundcloud.com/watertowermusic/gravity-soundtrack-official).<span id="more-33635"></span>
+J'ai entendu parler de ce film comme d'une rumeur jusqu'à ce que dans sa newsletter mon ami Benjamin Rassat nous dise d'aller le voir et pointe vers un passage de [l'extraordinaire bande-son](https://soundcloud.com/watertowermusic/gravity-soundtrack-official).
 
 J'y suis allé hier soir, à Paris, à la séance de 17:15, un truc de jeune. J'ai commencé par pester contre les trente minutes de bandes-annonces. Tu payes et en plus il faut que tu acceptes de te faire reprogrammer le cerveau. Faut pas être étonné après que les gens téléchargent.
 

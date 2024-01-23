@@ -1,6 +1,6 @@
 # Ne dites plus jamais qu’internet est un outil
 
-Depuis la sortie de [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), lors des interviews notamment, on cherche à me faire dire qu’internet est un outil comme un autre et qu’il suffit de l’utiliser avec modération. Si c’était le cas, je n’aurais pas éprouvé le besoin de me déconnecter pour essayer de comprendre mon rapport à la vie numérique.<span id="more-23062"></span>
+Depuis la sortie de [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), lors des interviews notamment, on cherche à me faire dire qu’internet est un outil comme un autre et qu’il suffit de l’utiliser avec modération. Si c’était le cas, je n’aurais pas éprouvé le besoin de me déconnecter pour essayer de comprendre mon rapport à la vie numérique.
 
 Je crois que si on considère internet comme un outil, on risque de ne pas en prendre la mesure. On risque même de défendre avec de mauvais arguments des causes pourtant fondamentales comme la neutralité du Net ou la libre copie.
 

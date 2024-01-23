@@ -1,6 +1,6 @@
 # Les saisons de la création
 
-Une chose m'étonne toujours. Quand on chercher à franchir une frontière, ceux qui se sentent bien derrière se pressent de critiquer votre manque de curiosité.<span id="more-30583"></span>
+Une chose m'étonne toujours. Quand on chercher à franchir une frontière, ceux qui se sentent bien derrière se pressent de critiquer votre manque de curiosité.
 
 Ce paradoxe n'en finira jamais de me surprendre. Je veux franchir le mur à cause de ma curiosité dévorante et on m'accuse de ne pas l'exercer en deçà. Je suppose que les résistants durant toutes les guerres subissent les mêmes critiques.
 

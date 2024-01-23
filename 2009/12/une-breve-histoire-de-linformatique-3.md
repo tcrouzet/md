@@ -1,6 +1,6 @@
 # Deux mille ans en avance sur son temps
 
-Octobre 1900. L’été s’achevait en Méditerranée. Le capitaine Dimitrios Kondos estima qu’il devenait dangereux de poursuivre les plongées sous-marines le long des côtes africaines. Il ordonna à son équipage de pêcheurs d’éponges d’appareiller vers la Grèce. Une tempête automnale les força à s’abriter dans le port de Potamos sur l’île d’Anticythère, au large de la Crête.<span id="more-12889"></span>
+Octobre 1900. L’été s’achevait en Méditerranée. Le capitaine Dimitrios Kondos estima qu’il devenait dangereux de poursuivre les plongées sous-marines le long des côtes africaines. Il ordonna à son équipage de pêcheurs d’éponges d’appareiller vers la Grèce. Une tempête automnale les força à s’abriter dans le port de Potamos sur l’île d’Anticythère, au large de la Crête.
 
 Le vent du sud se calma, mais le capitaine jugea la météo encore instable. Il préféra mouiller quelques jours et ses hommes en profitèrent pour effectuer quelques ultimes plongées. Avec leur scaphandre, ils explorèrent les eaux cobalts au pied des escarpements rocheux.
 

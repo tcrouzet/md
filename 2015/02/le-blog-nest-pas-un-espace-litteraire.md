@@ -1,6 +1,6 @@
 # Le blog n’est pas un espace littéraire
 
-Oui, c’est un titre provocateur. Depuis des années, je clame le contraire. Simplement, je suis de plus en plus convaincu que le blog n’est pas propice à toutes les formes littéraires.<span id="more-39228"></span>
+Oui, c’est un titre provocateur. Depuis des années, je clame le contraire. Simplement, je suis de plus en plus convaincu que le blog n’est pas propice à toutes les formes littéraires.
 
 Le blog est une forme en lui-même, vouloir lui faire simuler d’autres formes est une aberration. Et en particulier, le blog n’est sans doute pas idéal pour le feuilleton.
 
@@ -19,6 +19,8 @@ J’essaie d’exprimer un sentiment d’inadéquation entre des textes et l’e
 Une anecdote pour terminer. Signe de mon malaise. Je ne supportais pas de voir mes minutes à la une sur ma page d’accueil. Elles envahissaient tout, elles enterraient les billets, j’avais l’impression qu’elles dénaturaient mon chez-moi, qu’elles le violaient. Je ne garde désormais que la dernière, pour vite la remplacer le lendemain. Je les poste encore pour vous les abonnés de mon fil RSS et de ma newsletter, par commodité, pour ne pas vous imposer Wattpad. Je suis à deux doigts de cesser, de laisser mes espaces numériques retrouver leur autonomie. Mon idée d’un seul chez soi était vaine sans doute. Je dois accepter les maisons de vacances, les hôtels et les locations saisonnières.
 
 ![1 minute sur Wattpad.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/wattpad.jpg)
+
+1 minute sur Wattpad.
 
 
 

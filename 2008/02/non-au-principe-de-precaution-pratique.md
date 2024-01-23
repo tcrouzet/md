@@ -1,6 +1,6 @@
 # Non au principe de précaution pratiqué
 
-Le principe de précaution tel que nous le connaissons interdit certains usages qui pourraient à terme s’avérer dangereux. Il suppose de fait que d’autres usages ne le sont pas et peuvent se répandre à l’échelle globale.<span id="more-743"></span>
+Le principe de précaution tel que nous le connaissons interdit certains usages qui pourraient à terme s’avérer dangereux. Il suppose de fait que d’autres usages ne le sont pas et peuvent se répandre à l’échelle globale.
 
 Je trouve ce second a priori peu précautionneux. Comment pouvons-nous savoir qu’un usage n’est pas dangereux ? N’avons-nous pas laissé se propager l’usage du pétrole ? Souvent les côtés pernicieux d’une technologie n’apparaissent que longtemps après son introduction. Le cas de l’amiante par exemple.
 

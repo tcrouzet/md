@@ -1,6 +1,6 @@
 # Un an de gravel : retour d’expérience
 
-À vélo, je n’aime pas les voitures, [moins j’en croise, plus je suis heureux](https://tcrouzet.com/2019/03/18/ma-velosophie-et-ses-consequences-pratiques/). Cette aversion m’a depuis longtemps porté vers le VTT. Mais quand j’ai aménagé pour un an dans le sud de la Floride, j’ai vite compris que côté VTT ce serait l’ennui total, j’ai donc acheté un gravel pour explorer les digues qui délimitent les Everglades, tout en comptant emprunter les nombreuses pistes cyclables.<span id="more-51509"></span>
+À vélo, je n’aime pas les voitures, [moins j’en croise, plus je suis heureux](https://tcrouzet.com/2019/03/18/ma-velosophie-et-ses-consequences-pratiques/). Cette aversion m’a depuis longtemps porté vers le VTT. Mais quand j’ai aménagé pour un an dans le sud de la Floride, j’ai vite compris que côté VTT ce serait l’ennui total, j’ai donc acheté un gravel pour explorer les digues qui délimitent les Everglades, tout en comptant emprunter les nombreuses pistes cyclables.
 
 Il y a un an, je connaissais bien moins le marché qu’aujourd’hui, surtout je n’avais jamais roulé en gravel. J’ai donc consulté des comparatifs et regardé des vidéos pour finir par acheter un [Specialized Diverge Expert](https://www.specialized.com/us/en/mens-diverge-expert-x1/p/154313?color=227301-154313), un gravel tout carbone doté d’un amortisseur dans la potence et d’un autre dans le tube de selle.
 

@@ -10,8 +10,6 @@ Dimanche faut-il arrêter internet ? Et pas seulement en France mais partout da
 
 Ça nous fera une affaire juridique de plus, après l’attaque en diffamation que nous inflige le couple Royal-Hollande, tout ça parce que notre robot a copié pendant quelques heures un billet publié par [PalaisRoyal.com](http://www.paslesroyal.com), billet jugé diffamatoire.
 
-**Nous vivons dans un pays de crétins politiques.**
-
 Le couple à la tête du PS a-t-il aussi attaqué Google Actualité, Yahoo Actualité et tous les autres sites d’agrégation de contenus ? Veut-il qu’internet cesse de fonctionner ? Car sans robot, sans machine à créer du lien, à structurer le web, le web n’existe pas.
 
 Quand j’entends dire que cette campagne présidentielle a été la plus web de l’histoire, je ris. Si elle a été web, c’est grâce aux citoyens, pas grâce aux politiques qui ni comprennent rien. J’applaudis [Loïc](http://loiclemeur.com/france/) quand je vois qu’il a cessé les billets politiques. Laissez-nous tranquilles, nous construisons un autre monde où vous n’aurez pas de place, que vous le vouliez ou non.

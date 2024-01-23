@@ -1,6 +1,6 @@
 # MAM ne kiffe pas Internet, c’est rassurant
 
-Dans le train de retour de Genève, je lis [la déclaration de MAM sur la sécurisation d’internet](http://www.interieur.gouv.fr/misill/sections/a_l_interieur/le_ministre/interventions/souverainete-numerique). Je suis rassuré. Tant que nos élites seront aussi stupides, aussi mal informés, conseillées par des consultants imbéciles qui ne savent que piquer dans nos impôts pour se faire rémunérer, Internet restera un espace de liberté.<span id="more-7378"></span>
+Dans le train de retour de Genève, je lis [la déclaration de MAM sur la sécurisation d’internet](http://www.interieur.gouv.fr/misill/sections/a_l_interieur/le_ministre/interventions/souverainete-numerique). Je suis rassuré. Tant que nos élites seront aussi stupides, aussi mal informés, conseillées par des consultants imbéciles qui ne savent que piquer dans nos impôts pour se faire rémunérer, Internet restera un espace de liberté.
 
 MAM parle à la première personne, au nom de l’État, au nom des citoyens qu’elle représente et qu’elle veut protéger de terribles méfaits. Elle n’a pas compris qu’on ne pouvait pas agir sur Internet en se plaçant à l’extérieur d’Internet. Un système auto-organisé se contrôle de l’intérieur, par une coopération de chacun de ses usagers, par une gouvernance intériorisée.
 

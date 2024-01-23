@@ -1,6 +1,6 @@
 # Réponse de la Fédération Française de Cyclisme
 
-[Suite à ma lettre ouverte à la FFC](https://tcrouzet.com/2020/04/16/lettre-a-la-federation-francaise-de-cyclisme/), Yannick Pouey, [son secrétaire général](https://www.ffc.fr/la-federation/organisation/organigramme-be/) m’a appelé pour me répondre de façon officielle et en même temps personnelle, conversation non enregistrée, donc que ma mémoire risque de déformer. Je m’en excuse d’avance.<span id="more-54080"></span>
+[Suite à ma lettre ouverte à la FFC](https://tcrouzet.com/2020/04/16/lettre-a-la-federation-francaise-de-cyclisme/), Yannick Pouey, [son secrétaire général](https://www.ffc.fr/la-federation/organisation/organigramme-be/) m’a appelé pour me répondre de façon officielle et en même temps personnelle, conversation non enregistrée, donc que ma mémoire risque de déformer. Je m’en excuse d’avance.
 
 Bien sûr, ma lettre a déplu à Yannick, surtout par son ton vindicatif. Je lui ai dit avoir fait mien le mot d’ordre de Léon Bloy : « On ne voit bien le mal de ce monde qu’à condition de l’exagérer. » Yannick m’a juré que lui ou un de ses collègues m’aurait répondu même si ma lettre avait été plus modérée, qu’ils tentaient de répondre à tout le monde, ce qui j’imagine doit être une tâche gigantesque par les temps qui courent. Il m’a rappelé qu’il était bénévole. Je lui tire mon chapeau pour son dévouement.
 

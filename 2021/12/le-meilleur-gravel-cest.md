@@ -1,6 +1,6 @@
 # Le meilleur gravel, c’est…
 
-Je ne déteste pas l’asphalte, quoi que, mais je déteste les voitures. Je fais du vélo pour les fuir, leur bruit, leur vitesse, leurs pollutions, tout ce qu’elles représentent. Je fais du vélo pour vivre une philosophie opposée (pas de compétition, pas de quête de performance, je poursuis une qualité existentielle).<span id="more-61055"></span>
+Je ne déteste pas l’asphalte, quoi que, mais je déteste les voitures. Je fais du vélo pour les fuir, leur bruit, leur vitesse, leurs pollutions, tout ce qu’elles représentent. Je fais du vélo pour vivre une philosophie opposée (pas de compétition, pas de quête de performance, je poursuis une qualité existentielle).
 
 Je suis un vététiste heureux, mais quand j’ai vu apparaître les gravels, je me suis souvenu du dynamisme du vélo de course de mon adolescence, et me suis dit que je pouvais retrouver cette légèreté tout en roulant hors asphalte. J’ai donc acheté un Diverge en 2018 pour arpenter les digues de Floride, puis les DFCI de mes garrigues. Pendant trois ans, nous avons vécu une belle histoire d’amour : ce que je perdais en confort par rapport au VTT, je le gagnais en rayon d’action, tout en éprouvant des sensations différentes (et me faisant de nouveaux copains).
 

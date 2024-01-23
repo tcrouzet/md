@@ -1,6 +1,6 @@
 # L’obsolescence du droit d’auteur au temps de l’abondance
 
-J’ai été invité à Beaubourg pour [une soirée #Controverse](http://www.bpi.fr/agenda/internet-va-tuer-le-droit-dauteur) sur le droit d’auteur en compagnie de [Jean Claude Bologne](https://fr.wikipedia.org/wiki/Jean_Claude_Bologne). Avant le débat, nous avons chacun quinze minutes pour présenter notre position, la mienne étant bien sûr celle du [commoniste](http://tcrouzet.com/2013/11/26/amis-commonistes/). J’ai préparé une bafouille.<span id="more-43392"></span>
+J’ai été invité à Beaubourg pour [une soirée #Controverse](http://www.bpi.fr/agenda/internet-va-tuer-le-droit-dauteur) sur le droit d’auteur en compagnie de [Jean Claude Bologne](https://fr.wikipedia.org/wiki/Jean_Claude_Bologne). Avant le débat, nous avons chacun quinze minutes pour présenter notre position, la mienne étant bien sûr celle du [commoniste](http://tcrouzet.com/2013/11/26/amis-commonistes/). J’ai préparé une bafouille.
 
 ---
 

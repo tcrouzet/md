@@ -1,6 +1,6 @@
 # Je m’accuse
 
-Nationalisme, racisme, populisme, démagogie, homophobie, discriminations, conservatisme… je n’ai rien pu faire contre. J’ai milité auprès de tous les gens que j'ai pu croiser, j'ai prêché infatigablement sur tous les médias à ma disposition, et ces maux que je combats ne cessent de prendre de l’ampleur, partout dans le monde.<span id="more-44440"></span>
+Nationalisme, racisme, populisme, démagogie, homophobie, discriminations, conservatisme… je n’ai rien pu faire contre. J’ai milité auprès de tous les gens que j'ai pu croiser, j'ai prêché infatigablement sur tous les médias à ma disposition, et ces maux que je combats ne cessent de prendre de l’ampleur, partout dans le monde.
 
 Qu’est-ce que j’ai mal fait ? Qu’est-ce que je ne vois pas ?
 

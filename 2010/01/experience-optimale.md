@@ -1,6 +1,6 @@
 # L’expérience optimale
 
-Le monde est petit et l’on revient peut-être toujours à ses fondamentaux. Au milieu des années 1990, j’ai écrit *Ne rien faire sans fainéanter*, à la fois un essai et un carnet de voyage. Le sujet central était ce que j’appelais l’hyperconscience, moment de vie particulièrement intense où l’on a l’impression de tout comprendre, de tout maitriser…<span id="more-13683"></span>
+Le monde est petit et l’on revient peut-être toujours à ses fondamentaux. Au milieu des années 1990, j’ai écrit *Ne rien faire sans fainéanter*, à la fois un essai et un carnet de voyage. Le sujet central était ce que j’appelais l’hyperconscience, moment de vie particulièrement intense où l’on a l’impression de tout comprendre, de tout maitriser…
 
 En écrivant sur [le Flux](http://blog.tcrouzet.com/tag/flux/), en même temps que mon livre prenait un caractère de plus en plus initiatique, je n’ai cessé de me demander si je ne devais pas ajouter une cinquième partie qui aurait pour but de montrer que la vie dans le Flux peut justement provoquer l’hyperconscience.
 

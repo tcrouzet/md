@@ -1,6 +1,6 @@
 # L&#8217;impossibilité de résister au numérique
 
-En 1492, cinquante ans après l’invention de l’imprimerie, [Johannes Trithemius](http://tcrouzet.com/2012/09/07/johannes-trithemius-ou-les-451-croulants/) a cru bon de faire imprimer un livre pour y défendre les manuscrits. Aujourd’hui, les chevaliers de l’édition traditionnelle nous abreuvent de tweets et de vidéos. C’est assez agaçant, mais, en même temps, l’aveu de leur défaite. La contagion est généralisée et irréversible. Pour preuve, dans *Le papyrus de César*, Ferri et Conrad multiplient les allusions au Net. C’est un comble.<span id="more-43576"></span>
+En 1492, cinquante ans après l’invention de l’imprimerie, [Johannes Trithemius](http://tcrouzet.com/2012/09/07/johannes-trithemius-ou-les-451-croulants/) a cru bon de faire imprimer un livre pour y défendre les manuscrits. Aujourd’hui, les chevaliers de l’édition traditionnelle nous abreuvent de tweets et de vidéos. C’est assez agaçant, mais, en même temps, l’aveu de leur défaite. La contagion est généralisée et irréversible. Pour preuve, dans *Le papyrus de César*, Ferri et Conrad multiplient les allusions au Net. C’est un comble.
 
 ![Asterix 1](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/asterix1.jpg)
 
@@ -134,8 +134,8 @@ Inversement, des œuvres numériques ne peuvent être projetées sur papier, san
 
 Le numérique aura avalé le papier quand quasiment toutes les œuvres pensées pour lui pourront être rendues en numérique et lisibles avec un grand confort. En attendant, le papier se traîne à la poursuite du numérique, tentant de l’absorber mais toujours à contre-temps tout en voyant son espace d’innovation sans cesse réduit.
 
-En attendant, ne soyons pas homothétiques, soyons créatifs.<:p>
+En attendant, ne soyons pas homothétiques, soyons créatifs.
 
-*PS : Texte écrit pour le séminaire* [Internet est un Cheval de Troie](http://www.fabula.org/actualites/colloque-internet-est-un-cheval-de-troie_67661.php) *des 10 et 11 mars 2016 à Lyon.*</:p>
+*PS : Texte écrit pour le séminaire* [Internet est un Cheval de Troie](http://www.fabula.org/actualites/colloque-internet-est-un-cheval-de-troie_67661.php) *des 10 et 11 mars 2016 à Lyon.*
 
 Tags: NetLittérature, une

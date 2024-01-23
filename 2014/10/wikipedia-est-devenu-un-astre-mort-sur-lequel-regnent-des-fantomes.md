@@ -1,6 +1,6 @@
 # Wikipédia est devenu un astre mort, sur lequel règnent des fantômes
 
-[Dixit Narvic en commentaire](http://blog.tcrouzet.com/2014/10/14/wikipedia-quand-la-fin-du-web-libre-se-donne-en-spectacle/#comment-178960) : « Cet épisode est navrant \[[demande de suppression de plusieurs pages Wikipedia](http://blog.tcrouzet.com/2014/10/14/wikipedia-quand-la-fin-du-web-libre-se-donne-en-spectacle/)\] et profondément décevant (voire inquiétant) sur ce qu'est devenu Wikipédia en quelques années. C'est une vraie dérive, qui s'habille des apparences de la démocratie, mais dissimule un fonctionnement des plus bureaucratique et un véritable flicage des intervenants par une petite troupe de personnes bien organisés au sein du site, disposant de pouvoir d'action spéciaux, exorbitant de celui du commun, et qui manifestent vis à vis du quidam une arrogance péremptoire et un dogmatisme proprement effarants.<span id="more-37554"></span>
+[Dixit Narvic en commentaire](http://blog.tcrouzet.com/2014/10/14/wikipedia-quand-la-fin-du-web-libre-se-donne-en-spectacle/#comment-178960) : « Cet épisode est navrant \[[demande de suppression de plusieurs pages Wikipedia](http://blog.tcrouzet.com/2014/10/14/wikipedia-quand-la-fin-du-web-libre-se-donne-en-spectacle/)\] et profondément décevant (voire inquiétant) sur ce qu'est devenu Wikipédia en quelques années. C'est une vraie dérive, qui s'habille des apparences de la démocratie, mais dissimule un fonctionnement des plus bureaucratique et un véritable flicage des intervenants par une petite troupe de personnes bien organisés au sein du site, disposant de pouvoir d'action spéciaux, exorbitant de celui du commun, et qui manifestent vis à vis du quidam une arrogance péremptoire et un dogmatisme proprement effarants.
 
 « Nous assistons bel et bien à une sorte de confiscation du projet ouvert originel, par un petit gang de la pensée conforme, qui agit comme s'il était propriétaire de Wikipédia, ou formés des "élus" désignés pour la défendre contre les méchants.
 
@@ -35,6 +35,8 @@
 [Un texte de Narvic, intinitialement posté en commentaire...](http://blog.tcrouzet.com/2014/10/14/wikipedia-quand-la-fin-du-web-libre-se-donne-en-spectacle/#comment-178960)
 
 ![Page attaquée sous prétexte que personne ne parle de Crouzet.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/wikipedia1.jpg)
+
+Page attaquée sous prétexte que personne ne parle de Crouzet.
 
 
 

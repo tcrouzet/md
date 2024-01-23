@@ -1,6 +1,6 @@
 # 41 défauts communs aux politiciens
 
-Cette liste je crois pouvoir l’étendre à l’infini, alors mieux vaut l’arrêter en chemin, c’est trop déprimant.<span id="more-36695"></span>
+Cette liste je crois pouvoir l’étendre à l’infini, alors mieux vaut l’arrêter en chemin, c’est trop déprimant.
 
 1. Capables de promettre l’impossible (la fin du chômage dans un monde où les machines travaillent de plus en plus à la place des hommes).
 

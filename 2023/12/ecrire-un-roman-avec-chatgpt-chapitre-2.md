@@ -5,10 +5,8 @@
 On m’a fait remarquer que le synopsis proposé par ChatGPT était très manichéen, très classique, c’est vrai. Mais que lisent la plupart des lecteurs aujourd’hui ? Que publient la plupart des éditeurs ? Mon expérience : plus un texte est audacieux, moins il a de chance d’être lu. D’un autre côté, ChatGPT fait des propositions, à nous de les tordre et de les réorienter au fil du travail qui toujours doit être méthodique, comme je vais le montrer en essayant de produire une esquisse de premier chapitre.
 
 D’habitude, je me lance poussé par un désir et animé par une intuition. Cette méthode est inapplicable avec les IA. Il faut leur demander de découper le travail en étapes et chacune en sous-étapes. Reste que dialoguer avec elle m'amuse beaucoup, comme une partie de jeu de rôle, où je prends les intuitions qui viennent sans trop réfléchir.
-
-**Thierry** : Nous allons maintenant travailler le premier chapitre. Résumé : « À la tête d’un commando, Atlas franchit un portail nouvellement ouvert et débarque dans un laboratoire extraterrestre, prenant par surprise les extraterrestres et les exterminant sans sommation. » Génère une liste de 12 séquences d’action très détaillées pour établir un scénario, avec des INFORMATIONS SUPPLÉMENTAIRES SUR L’HISTOIRE pour étoffer le chapitre. Utilise toujours des noms propres au lieu de pronoms. Imagine la physique, la biologie, la culture du monde dans lequel Atlas et sa troupe débarquent.
-
-**ChatGPT** : Pour élaborer un scénario détaillé pour le premier chapitre de votre histoire, voici une liste de 12 séquences d’action détaillées :
+ : Nous allons maintenant travailler le premier chapitre. Résumé : « À la tête d’un commando, Atlas franchit un portail nouvellement ouvert et débarque dans un laboratoire extraterrestre, prenant par surprise les extraterrestres et les exterminant sans sommation. » Génère une liste de 12 séquences d’action très détaillées pour établir un scénario, avec des INFORMATIONS SUPPLÉMENTAIRES SUR L’HISTOIRE pour étoffer le chapitre. Utilise toujours des noms propres au lieu de pronoms. Imagine la physique, la biologie, la culture du monde dans lequel Atlas et sa troupe débarquent.
+ : Pour élaborer un scénario détaillé pour le premier chapitre de votre histoire, voici une liste de 12 séquences d’action détaillées :
 
 1. **Préparation du Commando**: Atlas et son équipe s’équipent pour la mission, vérifiant leur armement et leur équipement de communication.
 
@@ -35,10 +33,8 @@ D’habitude, je me lance poussé par un désir et animé par une intuition. Cet
 12. **Rapport de Mission**: Atlas communique le succès de l’opération et la prise du laboratoire, tout en exprimant un sentiment de triomphe mêlé de doute.
 
 Ces séquences visent à établir l’efficacité et la détermination d’Atlas, tout en introduisant l’univers extraterrestre et les implications morales de leurs actions.
-
-**Thierry** : C’est un très mauvais début de roman. Il faudrait qu’on soit tout de suite dans l’action. On prend les personnages quand ils sortent du portail. Les explications viendront rétrospectivement. Établis un nouveau plan en 12 séquences.
-
-**ChatGPT** : Pour démarrer directement dans l’action, voici un nouveau plan en 12 séquences pour le premier chapitre :
+ : C’est un très mauvais début de roman. Il faudrait qu’on soit tout de suite dans l’action. On prend les personnages quand ils sortent du portail. Les explications viendront rétrospectivement. Établis un nouveau plan en 12 séquences.
+ : Pour démarrer directement dans l’action, voici un nouveau plan en 12 séquences pour le premier chapitre :
 
 1. **Sortie du Portail**: Atlas et son équipe émergent du portail dans le laboratoire extraterrestre.
 
@@ -73,10 +69,8 @@ Je pourrais continuer la rédaction dans ce fil, mais je n’aurais aucune chanc
 ```
 Tu es un auteur de science-fiction en train d’écrire *Le Dilemme du Commandant*. **Style**Utilise un style minimaliste, sobre, parfois cynique et drôle. Rédige au présent, à la première personne. Alterne des phrases longues et courtes, voire nominales ou adverbiales. Évite le baroque, évite les analogies, les métaphores, n’abuse pas de qualificatifs et d’adverbes. Emploie le moins possible de "comme". Use avec parcimonie des dialogues. Dis ce que tu as à dire le plus brièvement et clairement possible. Montre plutôt que de dire (ne pas dire que c’est drôle, essayer d’être drôle, cela est valable pour tous les sentiments et toutes les émotions).**Contexte historique**Dans le lointain passé de l’Empire, au XXI<sup>e</sup> siècle, un radiotélescope reçoit un message extraterrestre avec une IA encapsulée dans un virus. Elle offre à l’humanité la technologie pour ouvrir un portail de téléportation avec son monde d’origine. Aussitôt le portail ouvert, les extraterrestres envahissent la Terre. L’humanité ne doit son salut qu’à un commando héroïque qui réussit à franchir le portail et à le sécuriser, avant que les forces terrestres n’envahissent le monde distant, puis extermine la civilisation adverse sur les vingt systèmes stellaires où elle s’était déjà établie. Tout cela appartient à la mythologie de l’Empire et justifie ses exactions ultérieures.Depuis cette date, l’Empire aspire à la croissance économique éternelle. Dès qu’une nouvelle civilisation est contactée et qu’un nouveau portail est ouvert, un commando le sécurise, puis une armée d’invasion soumet les extraterrestres pour éviter que le désastre originel ne se répète. L’Empire provoque des désastres sur tous les mondes qu’il découvre, au prétexte de se protéger.Au début de l’histoire, dans un lointain futur, l’Empire est confronté à une crise de complexité, similaire au concept de crise de la complexité imaginé par Thierry Crouzet dans les sociétés modernes. La complexité rend la gouvernance top-down impossible. Trois alternatives : soit les gouvernements réduisent la complexité par la dictature et la guerre, soit ils s’accrochent et périclitent, soit ils se transforment en conseils de sages ou d’autres structures qui accompagnent le développement harmonieux de la civilisation. L’Empire ne veut pas regarder la réalité en face et persévère dans la répression totalitaire.**Le Commandant Atlas**50 ans, cheveux blanc éclatant, originaire de Cygnus Prime, une planète connue pour son éducation militaire stricte et sa fierté nationale. Il commande une troupe d’élite qui a pour mission de franchir la première les nouveaux portails.**La Docteur Elara**28 ans, scientifique, recherche de nouvelles civilisations, les contacte, puis crée avec elles de nouveaux portails. Elle ne communique pas à l’Empire la plupart de ses découvertes et les transmet à des rebelles qui ont établi un réseau de portails parallèles, entre civilisations pacifistes. Un front encercle peu à peu l’Empire.*Knowledge base*Dans le fichier joint, description détaillée des personnages, plan du roman…
 ```
-
-**Thierry** : Voici le plan en 12 séquences pour le premier chapitre : (je copie-colle le plan généré plus haut). Ce plan vise à plonger les lecteurs directement dans l’action, tout en introduisant progressivement des éléments contextuels et des réflexions des personnages. En 5 000 signes, rédige en détail la scène 1 (Sortie du Portail) : Atlas et son équipe émergent du portail dans le laboratoire extraterrestre… Imaginer le monde dans lequel les soldats débarquent, sa gravité, sa biologie, sa culture, les créatures extraterrestres qui le peuplent…
-
-**GPT** : Je m’éjecte du portail. Mes bottes frappent le sol dur d’un laboratoire non terrien. L’air est frais, presque piquant. Mes hommes me suivent. Chacun sait ce qu’il a à faire. Pas de temps pour l’admiration, pas ici.
+ : Voici le plan en 12 séquences pour le premier chapitre : (je copie-colle le plan généré plus haut). Ce plan vise à plonger les lecteurs directement dans l’action, tout en introduisant progressivement des éléments contextuels et des réflexions des personnages. En 5 000 signes, rédige en détail la scène 1 (Sortie du Portail) : Atlas et son équipe émergent du portail dans le laboratoire extraterrestre… Imaginer le monde dans lequel les soldats débarquent, sa gravité, sa biologie, sa culture, les créatures extraterrestres qui le peuplent…
+ : Je m’éjecte du portail. Mes bottes frappent le sol dur d’un laboratoire non terrien. L’air est frais, presque piquant. Mes hommes me suivent. Chacun sait ce qu’il a à faire. Pas de temps pour l’admiration, pas ici.
 
 Le laboratoire est vaste, plongé dans une lumière bleutée. Les murs sont lisses, ornés de symboles géométriques étrangers. La gravité est légèrement plus faible que sur Terre, une sensation presque libératrice.
 
@@ -97,10 +91,8 @@ Les extraterrestres reculent, leurs mouvements fluides, presque gracieux. Un éc
 Je scrute chaque détail, chaque objet, chaque créature. Ce monde, cette culture, ces êtres... tous nouveaux, tous fascinants. Mais mon cerveau, entraîné, reste focalisé sur la mission.
 
 Ce n’est que le début. Le début d’une exploration, d’une confrontation, d’une compréhension. La porte est ouverte. L’inconnu nous attend.
-
-**Thierry** : Essaie d’être plus inventif pour décrire le laboratoire. Pourquoi pas un univers végétal extrêmement touffu, sans technologie apparente. Les extraterrestres doivent être beaucoup moins caricaturaux. Une société arboricole, par exemple. Sinon, Atlas est l’envoyé de l’Empire. Il est bien là pour exterminer les extraterrestres et prendre le contrôle complet du portail. À ce moment de l’histoire, il n’a aucun état d’âme. Il fait son job. Je t’ai demandé 1000 mots.
-
-**GPT** : Sorti du portail, j’atterris dans un monde inattendu. Le laboratoire n’est pas un édifice de métal et de verre, mais une cathédrale de verdure. Des arbres gigantesques entremêlent, formant des structures naturelles. Pas de technologie visible, seulement une architecture vivante.
+ : Essaie d’être plus inventif pour décrire le laboratoire. Pourquoi pas un univers végétal extrêmement touffu, sans technologie apparente. Les extraterrestres doivent être beaucoup moins caricaturaux. Une société arboricole, par exemple. Sinon, Atlas est l’envoyé de l’Empire. Il est bien là pour exterminer les extraterrestres et prendre le contrôle complet du portail. À ce moment de l’histoire, il n’a aucun état d’âme. Il fait son job. Je t’ai demandé 1000 mots.
+ : Sorti du portail, j’atterris dans un monde inattendu. Le laboratoire n’est pas un édifice de métal et de verre, mais une cathédrale de verdure. Des arbres gigantesques entremêlent, formant des structures naturelles. Pas de technologie visible, seulement une architecture vivante.
 
 Mes hommes se déploient autour de moi. Ils avancent, armes en main, dans cette jungle ordonnée. L’air est humide, chargé d’effluves inconnus. La gravité est légère, nos mouvements, plus amples.
 
@@ -129,10 +121,8 @@ Bientôt, le silence retombe. Seuls demeurent les échos des tirs dans ma tête.
 Nous avançons plus profondément dans le laboratoire. Chaque pas nous éloigne de notre humanité, mais nous rapproche de notre objectif. La conquête, l’expansion de l’Empire. À tout prix.
 
 *Notes : À ce stade, il s’agit d’avancer dans l’histoire, sans critiquer le texte ligne à ligne. Il ne s’agit pas d’un processus d’écriture naturel. Il faut accepter les lourdeurs, les lieux communs, dérouler le processus étape par étape.*
-
-**Thierry** : Je t’avais demandé de ne développer que le point 1 du plan, tu es allé jusqu’au point 5. J’aimerais que tu suives mes consignes avec davantage de rigueur. Cette fois, concentre toi uniquement sur le point 6: Découverte de Technologies Alien. Atlas examine des artefacts et des technologies extraterrestres. Que découvre-t-il de surprenant et de mystérieux ?
-
-**GPT** : Je progresse à travers la forêt de lianes et de branches entrelacées. La bataille est derrière, le calme devant. Devant moi, des artefacts d’une autre intelligence.
+ : Je t’avais demandé de ne développer que le point 1 du plan, tu es allé jusqu’au point 5. J’aimerais que tu suives mes consignes avec davantage de rigueur. Cette fois, concentre toi uniquement sur le point 6: Découverte de Technologies Alien. Atlas examine des artefacts et des technologies extraterrestres. Que découvre-t-il de surprenant et de mystérieux ?
+ : Je progresse à travers la forêt de lianes et de branches entrelacées. La bataille est derrière, le calme devant. Devant moi, des artefacts d’une autre intelligence.
 
 Première découverte : un objet flottant. Pas plus grand qu’une main humaine. Il vibre doucement, émettant une lumière douce. Je l’approche de mon visage. Il réagit, changeant de couleur, devenant plus brillant. Un appareil de communication ? Un dispositif de stockage ? Impossible à dire.
 
@@ -151,10 +141,8 @@ Je m’arrête. Mon regard balaie l’ensemble. Ce n’est pas seulement une tec
 Mais pour l’Empire, ce n’est qu’une ressource à exploiter. Je le sais. Je le sens. Pourtant, une part de moi résiste, fascinée par ce que je vois, par ce que cela signifie.
 
 Le temps presse. Je dois rapporter mes découvertes. Mais je m’attarde un instant, captivé par l’étrangeté et la complexité de ce que j’ai sous les yeux.
-
-**Thierry** : Et si Atlas découvrait un artefact humain, une petite chose qui serait par nature humaine et n’aurait jamais dû se trouver dans ce monde jusque là éloigné de l’Empire. Et si Atlas empochait l’objet, bien décidé de n’en parler à personne. Pour sa collection. Oui, il serait collectionneur, fan d’art.
-
-**GPT** : Parmi les merveilles extraterrestres, une anomalie attire mon attention. Un objet déplacé, inattendu. Il gît là, sur une table organique, entourré d’artefacts aux formes fluides et lumineuses.
+ : Et si Atlas découvrait un artefact humain, une petite chose qui serait par nature humaine et n’aurait jamais dû se trouver dans ce monde jusque là éloigné de l’Empire. Et si Atlas empochait l’objet, bien décidé de n’en parler à personne. Pour sa collection. Oui, il serait collectionneur, fan d’art.
+ : Parmi les merveilles extraterrestres, une anomalie attire mon attention. Un objet déplacé, inattendu. Il gît là, sur une table organique, entourré d’artefacts aux formes fluides et lumineuses.
 
 C’est un pendentif, simple, en métal terrien. Une chaîne fine, un médaillon ovale. L’œuvre est délicate, d’une facture ancienne, avec une gravure minutieuse sur sa surface. Un paysage montagneux, peut-être de la Terre. Une pièce d’art, indéniablement humaine.
 
@@ -169,10 +157,8 @@ Le pendentif est différent. Humain. Un lien avec la Terre, une énigme personne
 Je poursuis mon inspection du laboratoire, l’esprit occupé par le pendentif. Il me rappelle que notre propre culture est aussi fragile que celles que nous anéantissons. Une pensée dérangeante.
 
 Je garde le secret du pendentif, un acte de rébellion silencieux. Un fragment d’humanité dans un monde de conquête et de destruction.
-
-**Thierry** : Un des hommes de l’équipe d’Atlas semble apercevoir qu’il dérobe quelque chose, mais il se détourne. Atlas résiste à l’abattre. Il pense à ce gars, aux jours qui ont précédé l’invasion, à la réticence de certains de s’attaquer à des extraterrestres innocents. Atlas, lui, reste sur la justesse de sa mission. Chaque fois que l’Empire ne frappe pas le premier, il paye un lourd tribut. C’est une loi universelle dans la galaxie.
-
-**GPT** : Je glisse le pendentif dans ma poche. Un mouvement que je croyais discret. Mais un de mes hommes, jeune, les yeux encore emplis d’idéaux, me surprend. Nos regards se croisent. Il comprend, mais détourne les yeux. Un silence non dit s’installe entre nous.
+ : Un des hommes de l’équipe d’Atlas semble apercevoir qu’il dérobe quelque chose, mais il se détourne. Atlas résiste à l’abattre. Il pense à ce gars, aux jours qui ont précédé l’invasion, à la réticence de certains de s’attaquer à des extraterrestres innocents. Atlas, lui, reste sur la justesse de sa mission. Chaque fois que l’Empire ne frappe pas le premier, il paye un lourd tribut. C’est une loi universelle dans la galaxie.
+ : Je glisse le pendentif dans ma poche. Un mouvement que je croyais discret. Mais un de mes hommes, jeune, les yeux encore emplis d’idéaux, me surprend. Nos regards se croisent. Il comprend, mais détourne les yeux. Un silence non dit s’installe entre nous.
 
 Je pourrais l’éliminer. Un accident, facile à justifier. Mais je résiste. Ce n’est pas un rebelle, juste un jeune soldat, perdu dans la complexité de nos actions.
 
@@ -185,10 +171,8 @@ Je pense à ce jeune homme, à son conflit intérieur. Il est le reflet d’une 
 Je range ces pensées. Le pendentif dans ma poche est maintenant un secret partagé, un lien fragile entre moi et ce soldat. Un rappel que même au cœur de la conquête, l’humanité persiste, ténue, mais présente.
 
 Je me reconcentre sur la mission. Chaque monde conquis est une garantie de sécurité pour l’Empire, un rempart contre l’inconnu. Ma conviction est ma force. Le doute, un luxe que je ne peux me permettre.
-
-**Thierry** : Tu pourrais nommer les personnages. Là tout est beaucoup trop abstrait.
-
-**GPT** : En glissant le pendentif dans ma poche, je sens le regard de Lars, l’un de mes jeunes soldats, percer mon geste. Lars, avec son idéalisme naïf et ses questions incessantes. "Pourquoi eux, Commandant ? Sont-ils vraiment une menace ?" Des questions que j’ai appris à ignorer.
+ : Tu pourrais nommer les personnages. Là tout est beaucoup trop abstrait.
+ : En glissant le pendentif dans ma poche, je sens le regard de Lars, l’un de mes jeunes soldats, percer mon geste. Lars, avec son idéalisme naïf et ses questions incessantes. "Pourquoi eux, Commandant ? Sont-ils vraiment une menace ?" Des questions que j’ai appris à ignorer.
 
 Lars détourne rapidement les yeux, un conflit évident dans son regard. Je pourrais le faire taire définitivement. Un accident dans le feu de l’action, facile à expliquer. Mais je m’abstiens. Il n’est pas un traître, juste un garçon qui peine à digérer la réalité de notre mission.
 
@@ -203,10 +187,8 @@ Le pendentif dans ma poche est désormais un secret entre Lars et moi. Un fil t�
 Je me tourne vers mes soldats, mon équipe. Lars, Jensen, Mira… et tous les autres. Chacun porte en lui une bataille intérieure. Mais pour l’instant, nous devons rester unis, efficaces. La survie de l’Empire en dépend.
 
 Ma décision est prise. Je garde le secret du pendentif, et avec lui, un morceau de l’humanité que nous avons tous sacrifiée. C’est le prix à payer pour être les gardiens de l’Empire.
-
-**Thierry** : Atlas envoie un rapport initial sur leur situation quand quelque chose d’inattendu survient. Trouve un Cliffhanger.
-
-**GPT** : Je saisis mon communicateur, prêt à transmettre le rapport initial. "Ici Atlas. Objectif atteint. Résistance neutralisée. Début d’exploration et de sécurisation en cours." Mes mots sont concis, précis.
+ : Atlas envoie un rapport initial sur leur situation quand quelque chose d’inattendu survient. Trouve un Cliffhanger.
+ : Je saisis mon communicateur, prêt à transmettre le rapport initial. "Ici Atlas. Objectif atteint. Résistance neutralisée. Début d’exploration et de sécurisation en cours." Mes mots sont concis, précis.
 
 Alors que je m’apprête à conclure, un frémissement parcourt l’air. Une vibration, presque imperceptible. Je suspends mon rapport. Lars et les autres se figent, regardant autour, inquiets.
 
@@ -223,10 +205,8 @@ Je reprends mon communicateur. "Situation évolutive. Phénomène inconnu en cou
 Le communicateur glisse de ma main, le rapport inachevé. Tous les yeux sont rivés sur la silhouette. Une nouvelle page de notre mission s’ouvre, imprévue, potentiellement dangereuse.
 
 Qui ? Que ? Des questions sans réponses. Le cliffhanger parfait pour la fin du chapitre.
-
-**Thierry** : Je n’en suis pas si sûr. Imagine plutôt une nuée noire qui pousse Atlas et son équipe à refluer vers le portail et regagner l’empire. Une sorte d’acide qui dévore tout et détruit le portail. Le chapitre se termine quand Atlas le franchit en dernier.
-
-**GPT** : Alors que je termine mon rapport, une ombre grandit dans le laboratoire. Une nuée noire, dense, surgit des profondeurs de la structure végétale. Elle s’étend rapidement, engloutissant tout sur son passage.
+ : Je n’en suis pas si sûr. Imagine plutôt une nuée noire qui pousse Atlas et son équipe à refluer vers le portail et regagner l’empire. Une sorte d’acide qui dévore tout et détruit le portail. Le chapitre se termine quand Atlas le franchit en dernier.
+ : Alors que je termine mon rapport, une ombre grandit dans le laboratoire. Une nuée noire, dense, surgit des profondeurs de la structure végétale. Elle s’étend rapidement, engloutissant tout sur son passage.
 
 "Repli!" je crie. Nous courons vers le portail, la nuée nous talonnant. Elle émet un sifflement corrosif, comme de l’acide rongeant la matière organique et technologique. L’air se remplit d’une odeur âcre, piquante.
 

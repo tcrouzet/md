@@ -4,7 +4,7 @@
 
 ### Dimanche 1<sup>er</sup>, Balaruc
 
-Virginia dit des choses comme « les idées abondent » ou « le puits est plein ». Elle déborde de scènes entre ses personnages, qu’elle médite, mémorise, jusqu’au moment d’écrire. Pour ma part, je n’ai jamais d’idée. L’écriture vient avec l’écriture, à partir d’un flot ténu, vite asséché.<span id="more-63968"></span>
+Virginia dit des choses comme « les idées abondent » ou « le puits est plein ». Elle déborde de scènes entre ses personnages, qu’elle médite, mémorise, jusqu’au moment d’écrire. Pour ma part, je n’ai jamais d’idée. L’écriture vient avec l’écriture, à partir d’un flot ténu, vite asséché.
 
 Hier, par exemple, je commence la journée assez désespérée sur mon roman, je jette beaucoup de textes, puis par une sorte miracle de la matière nouvelle les comble, dans la tonalité que j’attendais, mais sans que je l’ai prémédité. Je n’en savais que la nécessité.
 

@@ -1,6 +1,6 @@
 # Contre les pleurnichards du Net
 
-Je me retiens souvent de « dire » sur les réseaux sociaux. De dire « J’ai terminé un chapitre de mon livre. », « Je vais écrire le texte d’une conférence que je dois donner en anglais à Vienne, Autriche. », « J’ai pas mal de minutes en avance pour mon feuilleton. », « Pas envie de travailler aujourd’hui, fait trop beau. »<span id="more-39528"></span>
+Je me retiens souvent de « dire » sur les réseaux sociaux. De dire « J’ai terminé un chapitre de mon livre. », « Je vais écrire le texte d’une conférence que je dois donner en anglais à Vienne, Autriche. », « J’ai pas mal de minutes en avance pour mon feuilleton. », « Pas envie de travailler aujourd’hui, fait trop beau. »
 
 J’essaie de ne plus le faire parce que, quand je vois les autres le faire, ça m’exaspère. Je ne peux m’empêcher de m’apitoyer sur leur sort. Quelle vie merdique faut-il avoir pour se sentir obligé d’en témoigner des banalités les plus insipides ?
 
@@ -27,6 +27,8 @@ Certains pensent que la vie d’un auteur n’a pas à être intéressante pour 
 Oui, le quotidien le plus ordinaire peut être littéraire, mais pas quand on se contente de l’étaler platement à longueur de journée, sans la moindre perspective, sans la moindre dimension poétique. Nous sommes collectivement en train de nous abrutir.
 
 ![Je m'autorise des photos parce que ces vues me font du bien.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/lumiere.jpg)
+
+Je m'autorise des photos parce que ces vues me font du bien.
 
 
 

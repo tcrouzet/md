@@ -1,6 +1,6 @@
 # Faire foule n’est pas sans conséquences
 
-Mercredi, j’ai été bouleversé par le drame de *Charlie Hebdo*. À la radio, j’ai entendu parler d’une fusillade en allant courir. En revenant, j’ai appris le massacre.<span id="more-38872"></span>
+Mercredi, j’ai été bouleversé par le drame de *Charlie Hebdo*. À la radio, j’ai entendu parler d’une fusillade en allant courir. En revenant, j’ai appris le massacre.
 
 [Mon premier tweet](https://twitter.com/crouzet/status/552818886153089024) a été pour dire « L'occasion pour nous tous de penser à nos réactions quand des idées nous dérangent. » J’ai immédiatement tenté de comprendre ce qui pousse un homme à l’horreur. Et à me demander si j’étais capable d’une telle atrocité ? Ou d’une de ses formes amoindries, tout ça à cause d’un excès d’intolérance ? Et j’ai pensé que, au nom de Charlie, l’intolérance pouvait ressurgir en chacun de nous.
 

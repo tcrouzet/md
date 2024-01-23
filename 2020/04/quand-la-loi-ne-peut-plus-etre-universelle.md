@@ -1,6 +1,6 @@
 # Quand la loi ne peut plus être universelle
 
-La loi est censée s’appliquer à tous. C’est-à-dire que chacun de nous, indépendamment ne nôtre âge, de notre éducation, de notre santé, de notre position géographique, nous devons appliquer les mêmes règles.<span id="more-54029"></span>
+La loi est censée s’appliquer à tous. C’est-à-dire que chacun de nous, indépendamment ne nôtre âge, de notre éducation, de notre santé, de notre position géographique, nous devons appliquer les mêmes règles.
 
 On dirait que la logique du monde physique a été traduite juridiquement : la gravité qui s’applique à tous transformée en contraintes qui s’appliquent à touxs. Mais si la gravité est toujours là, nous la combattons avec les avions, les fusées ou ne serait-ce qu’en sautant sur un trampoline. Elle nous rattrape toujours, certes.
 

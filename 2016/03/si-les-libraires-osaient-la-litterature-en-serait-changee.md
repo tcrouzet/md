@@ -1,6 +1,6 @@
 # Si les libraires osaient, la littérature en serait changée
 
-C’est un paradoxe : alors que de plus plus d’auteurs se [déclarent indépendants](http://tcrouzet.com/2016/03/23/declaration-dindependance-des-auteurs/), les libraires restent attachées aux éditeurs, les mêmes qui pilonnent semaine après semaine les nouveautés qui ne se vendent pas (et qui ont été mises en place avant d’être remises en carton, aïe ! mon dos). Il est peut-être temps de questionner cette relation parfois consanguine.<span id="more-43694"></span>
+C’est un paradoxe : alors que de plus plus d’auteurs se [déclarent indépendants](http://tcrouzet.com/2016/03/23/declaration-dindependance-des-auteurs/), les libraires restent attachées aux éditeurs, les mêmes qui pilonnent semaine après semaine les nouveautés qui ne se vendent pas (et qui ont été mises en place avant d’être remises en carton, aïe ! mon dos). Il est peut-être temps de questionner cette relation parfois consanguine.
 
 Pourquoi ne pas s’inspirer de la librairie [Gulf Coast Bookstore](http://www.gulfcoastbookstore.com/). Installée en Floride à Fort Myers, elle ne diffuse que des auteurs indépendants. Sans aller jusque là, il serait possible pour les libraires français d’ouvrir un rayon « indy ». Ce serait très judicieux chez les libraires autosurnommés indépendants. Ils allieraient ainsi les mots aux actes.
 

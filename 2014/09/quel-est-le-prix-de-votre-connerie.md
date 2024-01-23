@@ -1,6 +1,6 @@
 # Quel est le prix de votre connerie ?
 
-Ce matin une certaine Maria Mirabela, dont je ne trouve aucune trace sociale, m’écrit qu’elle veut poster un billet sur mon blog.<span id="more-36958"></span>
+Ce matin une certaine Maria Mirabela, dont je ne trouve aucune trace sociale, m’écrit qu’elle veut poster un billet sur mon blog.
 
 > l'article est écrit par nous, et sera pertinent pour thème de votre site ; l'article aura deux liens et de photos ; Quel serait le prix ?
 

@@ -1,6 +1,6 @@
 # Certains prennent et ne donnent rien
 
-Ma décision [de ne publier dans mon flux RSS que les résumés des articles](http://frenchblog.kindalab.com/) a provoqué quelques réactions, dont une virulente de [Manuel Vila](http://frenchblog.kindalab.com/). Je profite de ma réponse pour expliquer mon choix.<span id="more-720"></span>
+Ma décision [de ne publier dans mon flux RSS que les résumés des articles](http://frenchblog.kindalab.com/) a provoqué quelques réactions, dont une virulente de [Manuel Vila](http://frenchblog.kindalab.com/). Je profite de ma réponse pour expliquer mon choix.
 
 [Mon flux](http://blog.tcrouzet.com/flux/) est ouvert depuis l’origine de ce blog. Les textes que j’écris ici peuvent être reproduits ailleurs et les lecteurs peuvent les lire dans les conditions qui les arrangent. Je continue à défendre cette position mais un flux ouvert c’est un peu comme un e-mail trop connu, on finit par être submergé par les messages non sollicités, pour un flux ils prennent la forme de trackbacks sans intérêt qui viennent polluer le fil des commentaires.
 

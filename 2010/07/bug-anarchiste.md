@@ -1,6 +1,6 @@
 # Ce qui a manqué aux anarchistes
 
-Je ne suis pas un spécialiste de l’anarchisme, même si je suis proche de cette famille politique plus que d’aucune autre. Cette proximité ne m’empêche pas de voir un bug dans l’anarchisme historique, ce qui justifie sa marginalité. Je vais m’expliquer, mais d’abord je voudrais mettre en évidence un autre bug, au cœur cette fois de ma famille philosophique, le matérialisme. Le parallèle me paraît intéressant.<span id="more-17427"></span>
+Je ne suis pas un spécialiste de l’anarchisme, même si je suis proche de cette famille politique plus que d’aucune autre. Cette proximité ne m’empêche pas de voir un bug dans l’anarchisme historique, ce qui justifie sa marginalité. Je vais m’expliquer, mais d’abord je voudrais mettre en évidence un autre bug, au cœur cette fois de ma famille philosophique, le matérialisme. Le parallèle me paraît intéressant.
 
 ### Début de la parenthèse
 

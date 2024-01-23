@@ -28,6 +28,8 @@ Je viens de relire ces quelques lignes. J’aime le « je » et j’aime les p
 
 ![Nancy, place Stan.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/12/stan.jpg)
 
+Nancy, place Stan.
+
 
 
 Tags: une, vagabondage

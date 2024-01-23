@@ -1,6 +1,6 @@
 # Le gouvernement nous confine-t-il pour rien ?
 
-Indépendamment de ce que déclare le gouvernement, c’est la réalité de la pandémie sur le terrain qui nous dira quand déconfiner. Pour me rassurer, ne pas trop gamberger et anticiper mes prochains voyages à vélo, je regarde les prévisions épidémiologiques comme d’habitude je regarde les prévisions météo.<span id="more-54020"></span>
+Indépendamment de ce que déclare le gouvernement, c’est la réalité de la pandémie sur le terrain qui nous dira quand déconfiner. Pour me rassurer, ne pas trop gamberger et anticiper mes prochains voyages à vélo, je regarde les prévisions épidémiologiques comme d’habitude je regarde les prévisions météo.
 
 ![Projection au 17/4/2020](https://tcrouzet.com/images_tc/2020/04/graph-cov1.png)
 

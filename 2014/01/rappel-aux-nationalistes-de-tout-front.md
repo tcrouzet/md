@@ -1,6 +1,6 @@
 # Rappel aux nationalistes de tout front
 
-Les empires naissent puis meurent sur leurs frontières. Ils commencent par avancer au-delà, les repoussant toujours plus loin, jusqu’à ce qu’un ennemi extérieur n’arrête cette expansion, puis exerce une force inverse.<span id="more-34372"></span>
+Les empires naissent puis meurent sur leurs frontières. Ils commencent par avancer au-delà, les repoussant toujours plus loin, jusqu’à ce qu’un ennemi extérieur n’arrête cette expansion, puis exerce une force inverse.
 
 Jules César étendit la frontière de l’Empire romain jusqu’au Rhin. Auguste tenta de la repousser jusqu’à l’Elbe, mais les Germains exterminèrent son armée en l’an 9 lors de la bataille de la forêt de Teutobourg. Auguste bâtit alors des fortifications le long du Rhin et la frontière n’évolua plus pendant quatre siècles.
 

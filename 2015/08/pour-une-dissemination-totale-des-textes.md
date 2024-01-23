@@ -1,6 +1,6 @@
 # Pour une dissémination totale des textes
 
-[François Bon a posé deux axiomes](http://www.tierslivre.net/spip/spip.php?article4206) qui je crois méritent d’être discutés, parce qu’il en va de la littérature maintenant et pour les années à venir.<span id="more-42165"></span>
+[François Bon a posé deux axiomes](http://www.tierslivre.net/spip/spip.php?article4206) qui je crois méritent d’être discutés, parce qu’il en va de la littérature maintenant et pour les années à venir.
 
 > **Axiome 1.** Quelle que soit la pression et l’efficacité des outils des grandes plateformes de réseaux sociaux, on n’est maître du temps de l’élaboration de son écriture web qu’à condition d’en rester propriétaire de l’hébergement, de la recomposition lente, de la restructuration arborescente. Toutes les formes d’associations, de miroirs, d’extensions sont possibles, dans un paysage qui reste changeant et dans la tension de forces (capitalistiques, symboliques) qui nous dépassent : à commencer par la concurrence à laquelle se livrent ces plateformes.
 
@@ -47,6 +47,8 @@ J’aime la formule partagée par Bouvier et Chatwin. Ils avaient besoin d’un 
 *PS2 : Je propulse automatiquement ce billet sur Facebook, Google+, Linkedin, Tumblr… grâce à IFTTT. Vous le lirez où et quand vous le voudrez.*
 
 ![Ma base de lancement…](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/08/ifttt.png)
+
+Ma base de lancement…
 
 
 

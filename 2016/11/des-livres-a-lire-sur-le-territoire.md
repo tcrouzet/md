@@ -1,6 +1,6 @@
 # Des livres à lire sur le territoire
 
-[La région Occitanie propose à une bourse d’écriture](http://www.lr2l.fr/actualites/lancement-dune-bourse-de-creation-numerique-2016.html) : « Permettre à des auteurs, des illustrateurs ou des traducteurs de s’interroger sur de nouvelles formes d’écriture à l’ère numérique. Les accompagner dans leurs projets de création, encourager les expérimentations et les innovations. Toute œuvre littéraire en français ou en langues de France, conçue selon un format numérique, sur toute forme ou support technologique, pourra faire l’objet d’une bourse de création numérique. Tous les genres sont autorisés (narration, poésie, théâtre, livres pour la jeunesse). »<span id="more-44404"></span>
+[La région Occitanie propose à une bourse d’écriture](http://www.lr2l.fr/actualites/lancement-dune-bourse-de-creation-numerique-2016.html) : « Permettre à des auteurs, des illustrateurs ou des traducteurs de s’interroger sur de nouvelles formes d’écriture à l’ère numérique. Les accompagner dans leurs projets de création, encourager les expérimentations et les innovations. Toute œuvre littéraire en français ou en langues de France, conçue selon un format numérique, sur toute forme ou support technologique, pourra faire l’objet d’une bourse de création numérique. Tous les genres sont autorisés (narration, poésie, théâtre, livres pour la jeunesse). »
 
 J’ai rempli un dossier, proposant de développer ce que j’ai appellé la *Géolecture*.
 

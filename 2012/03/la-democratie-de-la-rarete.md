@@ -1,6 +1,6 @@
 # La démocratie de la rareté
 
-Dans nos sociétés, tout est maintenu à un stade de rareté parce qu’elle est source de richesses pour ceux qui en contrôle la diffusion.<span id="more-23341"></span>
+Dans nos sociétés, tout est maintenu à un stade de rareté parce qu’elle est source de richesses pour ceux qui en contrôle la diffusion.
 
 Le travail est rare, l’argent, l’énergie, la culture, la reconnaissance… (même l’information n’est pas totalement abondante puisque nos gouvernements gardent en réserve une grande partie de celle produite grâce à nos impôts).
 

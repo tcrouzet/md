@@ -1,6 +1,6 @@
 # Le mythe du changement climatique à venir
 
-Je pars du fait, pour moi prouvé, que l’avenir des systèmes complexes est imprévisible. En conséquence, la certitude d’un changement climatique catastrophique, le climat étant un système complexe, n’est ni plus ni moins qu’un mythe qui s’est installé ces dernières années, sous l’influence de quelques activistes et avec l’aide de personnalités comme Al Gore. Le mythe est alors devenu un dogme et toute personne qui le met en cause est considérée comme hérétique.<span id="more-700"></span>
+Je pars du fait, pour moi prouvé, que l’avenir des systèmes complexes est imprévisible. En conséquence, la certitude d’un changement climatique catastrophique, le climat étant un système complexe, n’est ni plus ni moins qu’un mythe qui s’est installé ces dernières années, sous l’influence de quelques activistes et avec l’aide de personnalités comme Al Gore. Le mythe est alors devenu un dogme et toute personne qui le met en cause est considérée comme hérétique.
 
 Sachant que les futurologues se fourvoient quasi systématiquement et qu’ils ont presque toujours tort quand leurs prévisions convergent, car elles ne le font que par suite d’un mimétisme affligeant démontrant un aveuglement non moins affligeant, nous nous moquerons sans doute bientôt de cette effervescence qui nous frappe actuellement. Elle me rappelle la panique des années 1970, qui précipita la crise pétrolière, provoquée par la croyance soudain apparue que nous allions manquer d’énergie.
 

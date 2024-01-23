@@ -1,6 +1,6 @@
 # Le manifeste We Demain se mord la queue
 
-La revue [*We Demain*](http://www.wedemain.fr/) propose de signer [un manifeste pour demain](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/11/manifestewedemain.png). Est-ce que je le signerai ?<span id="more-30087"></span>
+La revue [*We Demain*](http://www.wedemain.fr/) propose de signer [un manifeste pour demain](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/11/manifestewedemain.png). Est-ce que je le signerai ?
 
 Pourquoi pas, je finis par le lire. Je suis d’accord avec tous les « Oui », sauf avec le troisième.
 

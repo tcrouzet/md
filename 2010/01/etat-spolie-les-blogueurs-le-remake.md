@@ -1,6 +1,6 @@
 # L’État spolie les blogueurs, le remake
 
-Commençons l’année en beauté. Lisez-vous les billets avant de les commenter ? Les lisez-vous avant de les retweeter ? Les lisez-vous jusqu’au bout ? Pensez-vous aux contradictions volontaires que l’auteur peut y introduire ? Aux dissonances comme en jouent parfois les musiciens ?<span id="more-13006"></span>
+Commençons l’année en beauté. Lisez-vous les billets avant de les commenter ? Les lisez-vous avant de les retweeter ? Les lisez-vous jusqu’au bout ? Pensez-vous aux contradictions volontaires que l’auteur peut y introduire ? Aux dissonances comme en jouent parfois les musiciens ?
 
 J’ai écrit [L’États spolie les blogueurs](http://blog.tcrouzet.com/2009/12/30/l%E2%80%99etat-spolie-les-blogueurs/) juste pour déclencher une réaction mimétique. Juste pour effectuer une nouvelle expérience comme Narvic pourra en témoigner. Les réactions mécaniques qui s’ensuivirent, par leur prévisibilité, me désespèrent.
 

@@ -1,6 +1,6 @@
 # Crise des intermittents, une belle opportunité
 
-Un peu agacé de voir les intermittents faire leur diva. Un peu jaloux de leurs privilèges. Je suis écrivain à temps plein, pas même un intermittent et [je gagne bien moins qu’eux](http://www.bfmtv.com/economie/combien-gagne-un-intermittent-spectacle-497974.html). Alors les voir hululer pour leurs seules fesses me dégoûte, et me donnerait presque envie de me ranger dans le camp de ceux qui veulent voir tous les privilèges corporatistes abolis.<span id="more-35998"></span>
+Un peu agacé de voir les intermittents faire leur diva. Un peu jaloux de leurs privilèges. Je suis écrivain à temps plein, pas même un intermittent et [je gagne bien moins qu’eux](http://www.bfmtv.com/economie/combien-gagne-un-intermittent-spectacle-497974.html). Alors les voir hululer pour leurs seules fesses me dégoûte, et me donnerait presque envie de me ranger dans le camp de ceux qui veulent voir tous les privilèges corporatistes abolis.
 
 Bon sang, vous ne pouvez pas ouvrir les yeux sur le monde, [lire Piketty](http://blog.tcrouzet.com/2014/06/11/piketty-excite-les-liberaux/) : l’écart entre riches et pauvres se creuse. Vous êtes dans le camp des pauvres, j’en conviens, mais vous n’êtes pas les seuls. En luttant pour vous, vous vous attirez la haine de tous les autres maltraités, et qui n’ont pas comme vous, ou comme les agents de la SNCF, les moyens de prendre en otage les citoyens.
 

@@ -1,6 +1,6 @@
 # Tunisie, Égypte, Lybie… un tsunami sans frontière
 
-Dans [*Le Point*](http://www.lepoint.fr/monde/la-peur-a-change-de-camp-21-02-2011-1298005_24.php?xtor=EPR-6-[Newsletter-Quotidienne]-20110222), le politologue Antoine Basbous a déclaré, en parlant des révoltes dans le monde arabe, « C'est un tsunami qui ne connaît pas de frontières, et qui va toucher tous les pays arabes ou islamiques d'une manière ou d'une autre. » Quelle étroitesse d’esprit.<span id="more-21310"></span>
+Dans [*Le Point*](http://www.lepoint.fr/monde/la-peur-a-change-de-camp-21-02-2011-1298005_24.php?xtor=EPR-6-[Newsletter-Quotidienne]-20110222), le politologue Antoine Basbous a déclaré, en parlant des révoltes dans le monde arabe, « C'est un tsunami qui ne connaît pas de frontières, et qui va toucher tous les pays arabes ou islamiques d'une manière ou d'une autre. » Quelle étroitesse d’esprit.
 
 Pourquoi la révolte s’arrêterait au monde arabe ou même à la Chine ? La crise contemporaine frappe la globalité du monde même si elle s’exprime de manière différente dans les différentes zones géographiques et sous les différents régimes politiques.
 

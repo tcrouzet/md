@@ -1,6 +1,6 @@
 # Prolégomènes
 
-À dix-sept ans, en 1980, j’ai décidé de devenir écrivain, peut-être parce que j’étais mauvais en français, surtout parce que j’avais envie de raconter des histoires. Je voulais imiter A. E. Van Vogt, Clifford D. Simak, Frank Herbert, Jack Vance, Théodore Sturgeon… J’ai alors commencé un journal, en dilettante au début, puis avec de plus en plus d’attention à partir des années 1990.<span id="more-21565"></span>
+À dix-sept ans, en 1980, j’ai décidé de devenir écrivain, peut-être parce que j’étais mauvais en français, surtout parce que j’avais envie de raconter des histoires. Je voulais imiter A. E. Van Vogt, Clifford D. Simak, Frank Herbert, Jack Vance, Théodore Sturgeon… J’ai alors commencé un journal, en dilettante au début, puis avec de plus en plus d’attention à partir des années 1990.
 
 À cette époque, mes *Carnets de route* comme je les appelais ne ressemblaient plus à un journal intime. Ils servaient de brouillons à mes autres textes. J’y éparpillais des réflexions que j’illustrais parfois d’aquarelles.
 

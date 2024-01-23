@@ -1,10 +1,8 @@
 # Le journaliste qui ne lit pas
 
-Les beaux jours reviennent et, avec, deux calamités depuis que la digital detox est à la mode et que malencontreusement je m’en trouve être un des initiateurs.<span id="more-40467"></span>
-
-**Première plaie.** La detox à toutes les sauces intéresse les étudiants en com et en journalisme, et sans doute davantage leurs profs. Trois jours avant l’échance de leur projet de fin d’année, pourtant décidé en début d’année, ils se réveillent. Tous veulent m’interviewer en urgence et quand je ne suis pas dispo, parce que moi aussi j’ai du travail, je ne suis pas cool.
-
-**Seconde plaie.** Les journalistes installés ont fait de la detox un sujet marronnier au même titre que les régimes minceurs. Voilà qu’eux aussi ne cessent de m’appeler. Je les remercie de penser à moi, mais franchement j’en ai marre.
+Les beaux jours reviennent et, avec, deux calamités depuis que la digital detox est à la mode et que malencontreusement je m’en trouve être un des initiateurs.
+ La detox à toutes les sauces intéresse les étudiants en com et en journalisme, et sans doute davantage leurs profs. Trois jours avant l’échance de leur projet de fin d’année, pourtant décidé en début d’année, ils se réveillent. Tous veulent m’interviewer en urgence et quand je ne suis pas dispo, parce que moi aussi j’ai du travail, je ne suis pas cool.
+ Les journalistes installés ont fait de la detox un sujet marronnier au même titre que les régimes minceurs. Voilà qu’eux aussi ne cessent de m’appeler. Je les remercie de penser à moi, mais franchement j’en ai marre.
 
 - Parce que, comme vous n’avez pas préparé votre interview, vous me posez tous les mêmes questions.
 
@@ -35,6 +33,8 @@ Atterrissez : vous ne faites plus vendre, vous n’êtes plus des passages obli
 Je sais déjà que j’écris cet article pour rien. Parce que les prochains étudiants et journalistes qui voudront m’interviewer ne le liront pas. En attendant, ça me fait du bien de l’écrire.
 
 ![Déconnecter, c'est ne plus partager ce moment.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/soir.jpg)
+
+Déconnecter, c'est ne plus partager ce moment.
 
 
 

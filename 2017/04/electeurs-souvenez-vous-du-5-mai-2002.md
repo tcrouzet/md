@@ -1,6 +1,6 @@
 # Électeurs : souvenez-vous du 5 mai 2002
 
-« Le soir du 5 mai 2002, je ne sais plus où j’étais, en tout cas pas devant une télévision. Je me moquais du succès de Jacques Chirac, qui venait d’emporter les élections présidentielles françaises avec 82 % des suffrages, un record dans les pays occidentaux. Pour moi, cet évènement était anecdotique, presque risible, tout comme avait été risible l’échec au premier tour du socialiste Lionel Jospin. »<span id="more-45291"></span>
+« Le soir du 5 mai 2002, je ne sais plus où j’étais, en tout cas pas devant une télévision. Je me moquais du succès de Jacques Chirac, qui venait d’emporter les élections présidentielles françaises avec 82 % des suffrages, un record dans les pays occidentaux. Pour moi, cet évènement était anecdotique, presque risible, tout comme avait été risible l’échec au premier tour du socialiste Lionel Jospin. »
 
 Voici comment, en 2005, je débute le premier chapitre du [*Peuple des connecteurs*](http://tcrouzet.com/le-peuple-des-connecteurs/). Et voici la suite, je pourrais redire la même chose mot pour mot en 2017, preuve que politiquement nous faisons dur sur place. Extraits…
 

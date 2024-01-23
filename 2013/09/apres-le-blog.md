@@ -1,6 +1,6 @@
 # Après le blog
 
-Ne vous attendez pas à une révélation. Je mets mes idées en place au grand jour. Je cherche à comprendre ce qui dans la forme blog me limite aujourd’hui, et même me lasse.<span id="more-33311"></span>
+Ne vous attendez pas à une révélation. Je mets mes idées en place au grand jour. Je cherche à comprendre ce qui dans la forme blog me limite aujourd’hui, et même me lasse.
 
 Un blog : c’est un carnet antichronologique. Tel on le découvre en tout cas. Il est écrit chronologiquement au fil des jours mais présenté avec l’entrée la plus récente en avant, ce qui présuppose qu’elle se suffit à elle-même.
 

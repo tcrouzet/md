@@ -1,6 +1,6 @@
 # Auteur interactif vs narration interactive
 
-L’art interactif a commencé avec l’informatique, même si au début il n’en faisait pas usage. Je pense notamment à certaines sculptures de [Calder](https://fr.wikipedia.org/wiki/Alexander_Calder) des années 1950, aux [*Cent mille milliards de poèmes*](https://fr.wikipedia.org/wiki/Cent_mille_milliards_de_po%C3%A8mes) de Queneau en 1961, au film le [Kinoautaumat](https://fr.wikipedia.org/wiki/Kinoautomat) de Radúz ?in?era en 1967.<span id="more-45993"></span>
+L’art interactif a commencé avec l’informatique, même si au début il n’en faisait pas usage. Je pense notamment à certaines sculptures de [Calder](https://fr.wikipedia.org/wiki/Alexander_Calder) des années 1950, aux [*Cent mille milliards de poèmes*](https://fr.wikipedia.org/wiki/Cent_mille_milliards_de_po%C3%A8mes) de Queneau en 1961, au film le [Kinoautaumat](https://fr.wikipedia.org/wiki/Kinoautomat) de Radúz ?in?era en 1967.
 
 Côté narration textuelle interactive, l’informatique n’est pas plus impliquée au début, puisque [les livres jeux](https://en.wikipedia.org/wiki/Gamebook) apparus durant les années 1930 se popularisent durant les années 1960, avec la publication en 1982 du célèbre [*Sorcier de la Montagne de feu*](https://fr.wikipedia.org/wiki/Le_Sorcier_de_la_montagne_de_Feu), que j’ai lu dans tous les sens à l’époque. Officiellement, la première narration textuelle interactive numérique, c’est [*Afternoon, a story*](http://hypermedia.univ-paris8.fr/jean/articles/Afternoon.htm), 1987.
 

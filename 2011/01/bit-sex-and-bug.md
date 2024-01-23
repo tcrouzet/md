@@ -1,6 +1,6 @@
 # Bit, Sex and Bug
 
-Mi-mai 2003, dans l’avion qui de Londres me ramenait à Montpellier, j’ai lu dans *NewScientist*, [une brève sur l’origine de HIV qui m’a stupéfié](http://www.newscientist.com/article/mg17823953.100-hiv-puzzle-cracked.html).<span id="more-20963"></span>
+Mi-mai 2003, dans l’avion qui de Londres me ramenait à Montpellier, j’ai lu dans *NewScientist*, [une brève sur l’origine de HIV qui m’a stupéfié](http://www.newscientist.com/article/mg17823953.100-hiv-puzzle-cracked.html).
 
 > THE origins of a less virulent form of HIV, called HIV-2, have finally been confirmed. Scientists think the main cause of AIDS, HIV-1, crossed over to humans from African chimpanzees sometime after 1700, and mutated into the current human form around 1930. But they have been less sure about the origins of HIV-2, which now infects about 1 per cent of the population of West Africa. Anne-Mieke Vandamme from the Catholic University of Leuven (KUL) in Belgium and her team compared HIV-2 to a similar virus found in sooty mangabeys, a monkey thought to be the virus original host. An analysis of the genetic differences between them indicates that two strains of HIV-2 crossed from mangabeys into humans during the first half of the 20th century. HIV-2 A mutated into its current form around 1940, and HIV-2 B around 1945. Mangabeys became extinct in that part of Africa in the 1950s.
 

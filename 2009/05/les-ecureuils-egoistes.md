@@ -1,6 +1,6 @@
 # Les écureuils égoïstes
 
-Lorsqu’un écureuil récolte des glands et les enterre un peu partout, ils ne pensent qu’à se ménager des réserves pour l’hiver. C’est un égoïste. Mais son égoïsme peut s’avérer utile à la communauté des écureuils et plus généralement à beaucoup d’autres espèces. L’écureuil oubliera quelques glands, certains germeront et ainsi la forêt se propagera.<span id="more-6131"></span>
+Lorsqu’un écureuil récolte des glands et les enterre un peu partout, ils ne pensent qu’à se ménager des réserves pour l’hiver. C’est un égoïste. Mais son égoïsme peut s’avérer utile à la communauté des écureuils et plus généralement à beaucoup d’autres espèces. L’écureuil oubliera quelques glands, certains germeront et ainsi la forêt se propagera.
 
 Cette histoire nous montre comment l’égoïsme peut engendrer une forme d’altruisme, processus décrit de manière plus théorique par [Robert Axelrod](http://blog.tcrouzet.com/2007/05/24/le-dilemme-du-prisonnier/). Elle montre aussi comment des gestes anecdotiques peuvent avoir un impact immense.
 

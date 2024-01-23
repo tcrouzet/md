@@ -1,6 +1,6 @@
 # Histoire d’un texte écrit grâce au Net
 
-Le Net modifie notre façon d’écrire en même temps que ce que nous écrivons. Dans [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/), j’ai évoqué la dimension sociale de la pratique artistique contemporaine. Cette socialisation peut s’effectuer en direct ou par sites interposés. C’est cette seconde forme qui la première a été possible. Je l’ai [pour la première fois mise en œuvre en 2003](http://blog.tcrouzet.com/2011/01/20/bit-sex-and-bug/) lorsque j’ai écrit [*Bit, Sex and Bug*](http://blog.tcrouzet.com/bit-sex-and-bug/).<span id="more-20981"></span>
+Le Net modifie notre façon d’écrire en même temps que ce que nous écrivons. Dans [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/), j’ai évoqué la dimension sociale de la pratique artistique contemporaine. Cette socialisation peut s’effectuer en direct ou par sites interposés. C’est cette seconde forme qui la première a été possible. Je l’ai [pour la première fois mise en œuvre en 2003](http://blog.tcrouzet.com/2011/01/20/bit-sex-and-bug/) lorsque j’ai écrit [*Bit, Sex and Bug*](http://blog.tcrouzet.com/bit-sex-and-bug/).
 
 J’avais déjà abondamment utilisé le Net pour écrire mes livres de vulgarisation. J’avais déjà l’habitude de fouiller les tréfonds des sites méconnus et de lire des PDF pour remonter des informations peu visibles. Mais je ne m’étais jamais servi de ce travail même comme matière d’un texte.
 

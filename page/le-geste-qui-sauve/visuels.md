@@ -44,8 +44,6 @@
 
 ![](https://tcrouzet.com/images_tc/2017/11/it.png)
 
-
-
 ![Traductions](https://tcrouzet.com/images_tc/2019/01/planche-497x450.jpg)
 
 ![Pittet et Crouzet par Federal Studio](https://tcrouzet.com/images_tc/2006/12/CF069556.IIQ_.p.jpg)
@@ -85,8 +83,6 @@
 ![Didier au Vietnam](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/vietnam.jpg)
 
 ![Flacon](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/hygiene_mains_009.jpg)
-
-
 
 ![Les livres papier sont sortis avec des bandeaux aux couleurs des sponsors.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/sponsors3.png)
 

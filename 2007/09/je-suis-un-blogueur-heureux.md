@@ -1,6 +1,6 @@
 # Je suis un blogueur heureux
 
-[Ma mise en question de l’art du blog](http://blog.tcrouzet.com/2007/09/05/le-blog-est-mort-vive-le-blog/) ainsi que [ma réponse aux critiques](http://blog.tcrouzet.com/2007/09/06/non-le-blog-n%e2%80%99est-pas-mort/) a suscité quelques doutes chez certains lecteurs et blogueurs notamment chez [Michel Leblanc](http://www.michelleblanc.com/2007/09/06/le-blogue-est-mort/) et [Axel Karakartal](http://www.page2007.com/michel-leblanc-un-auteur-de-romans-moyen-vend-3000-livres-et-c%e2%80%99est-un-succes-de-librairie-un-blogueur-tres-moyen-a-3000-visites-par-mois/). Je voudrais préciser ma position à l’aide d’une interview imaginaire comme en faisait André Gide.<span id="more-562"></span>
+[Ma mise en question de l’art du blog](http://blog.tcrouzet.com/2007/09/05/le-blog-est-mort-vive-le-blog/) ainsi que [ma réponse aux critiques](http://blog.tcrouzet.com/2007/09/06/non-le-blog-n%e2%80%99est-pas-mort/) a suscité quelques doutes chez certains lecteurs et blogueurs notamment chez [Michel Leblanc](http://www.michelleblanc.com/2007/09/06/le-blogue-est-mort/) et [Axel Karakartal](http://www.page2007.com/michel-leblanc-un-auteur-de-romans-moyen-vend-3000-livres-et-c%e2%80%99est-un-succes-de-librairie-un-blogueur-tres-moyen-a-3000-visites-par-mois/). Je voudrais préciser ma position à l’aide d’une interview imaginaire comme en faisait André Gide.
 
 *— Pourquoi un blogueur qui continue à bloguer annonce-t-il que le blog est mort ?*
 

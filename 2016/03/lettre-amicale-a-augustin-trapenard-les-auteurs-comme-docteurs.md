@@ -2,7 +2,7 @@
 
 Cher Augustin,
 
-Je te dis tu, même si on ne s’est vu qu’une fois lorsque tu m’as reçu au Carnet d’or sur France Culture. Tu as une belle voix, une belle intelligence, une belle passion pour la littérature, c’était agréable d’être en ta compagnie. Tu m’as invité en tant qu’auteur Fayard, mais tu ignorais alors que j’étais aussi un indépendant, et un défenseur de l’indépendance sous toutes ses formes.<span id="more-43720"></span>
+Je te dis tu, même si on ne s’est vu qu’une fois lorsque tu m’as reçu au Carnet d’or sur France Culture. Tu as une belle voix, une belle intelligence, une belle passion pour la littérature, c’était agréable d’être en ta compagnie. Tu m’as invité en tant qu’auteur Fayard, mais tu ignorais alors que j’étais aussi un indépendant, et un défenseur de l’indépendance sous toutes ses formes.
 
 Je voudrais te poser une question. Est-ce qu’il t’arrive de consulter un médecin généraliste de temps en temps ? Je me permets de répondre pour toi par l’affirmative. Quand tu as la grippe, tu ne vas pas aux urgences consulter des médecins hospitaliers, donc fonctionnaires et en rien indépendants quand on les compare aux généralistes.
 

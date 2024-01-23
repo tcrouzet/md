@@ -2,7 +2,7 @@
 
 Attention : ce texte est un spoiler pour qui n'a pas lu le roman, [lisez plutôt la présentation](http://tcrouzet.com/une-minute/).
 
-J’ai proposé *One Minute* à quelques éditeurs. Certains me questionnent. Je réponds en toute transparence. Peut-on couper des minutes ou en ajouter ? Oui. Peut-on les réorganiser ? Oui. La version actuelle du manuscrit présente les minutes dans l’ordre d’écriture. Suivant le public cible, la collection, il est possible de changer l’angle du roman en réorganisant les minutes.<span id="more-43411"></span>
+J’ai proposé *One Minute* à quelques éditeurs. Certains me questionnent. Je réponds en toute transparence. Peut-on couper des minutes ou en ajouter ? Oui. Peut-on les réorganiser ? Oui. La version actuelle du manuscrit présente les minutes dans l’ordre d’écriture. Suivant le public cible, la collection, il est possible de changer l’angle du roman en réorganisant les minutes.
 
 Même si l’histoire commence et se termine dans la même minute, on peut créer un suspens en introduisant plus vite les analystes, les hypos, les drones, les gardiens, le club, les adeptes du traitement longue vie… Par exemple, la seconde minute est facultative, ou peut être placée plus tard. La quatrième avec la mort du père également. On peut faire un pas vers le page-turner sans grande difficulté, en remontant des minutes plus thriller vers le début. Il existe bien des combinaisons envisageables. C’est le principe de ce texte. On peut le voir comme une sorte de jeu de cartes à battre et à rebattre.
 

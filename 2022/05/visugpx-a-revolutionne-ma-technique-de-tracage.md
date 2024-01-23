@@ -1,6 +1,6 @@
 # VisuGPX a révolutionné ma technique de traçage
 
-[Comme je publie souvent des traces bikepacking, gravel ou VTT](https://tcrouzet.com/traces-gravel-et-vtt/), on me demande souvent comment je trace. Quand j’explique que je le fais à la main, on me répond que c’est fastidieux. Oui, mais ainsi j’anticipe mon voyage, je le commence déjà dans ma tête, repérant des endroits où j’aimerais passer, des singles joueurs, des hauts lieux culturels et ainsi de suite. Tracer est pour moi autant un plaisir que de rouler la trace.<span id="more-63952"></span>
+[Comme je publie souvent des traces bikepacking, gravel ou VTT](https://tcrouzet.com/traces-gravel-et-vtt/), on me demande souvent comment je trace. Quand j’explique que je le fais à la main, on me répond que c’est fastidieux. Oui, mais ainsi j’anticipe mon voyage, je le commence déjà dans ma tête, repérant des endroits où j’aimerais passer, des singles joueurs, des hauts lieux culturels et ainsi de suite. Tracer est pour moi autant un plaisir que de rouler la trace.
 
 Une analogie. On peut photographier un paysage en un instant, vite fait, ou le dessiner durant des heures. Je photographie beaucoup, mais j’ai beaucoup dessiné, et je suis toujours sorti de mes séances de dessin avec une intense intimité du lieu (à laquelle le photographe arrive aussi à condition qu’il déambule en prenant son temps et en multipliant les prises de vues). Prendre du temps me permet de m’immerger dans un paysage, prendre du temps sur les cartes est une façon de me préparer et de provoquer une attente, un désir.
 

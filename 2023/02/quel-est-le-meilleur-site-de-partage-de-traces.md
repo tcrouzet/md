@@ -1,6 +1,6 @@
 # Quel est le meilleur site de partage de traces ?
 
-Depuis que je roule avec un GPS, que j’enregistre mes traces et les partage, j’ai la sensation de participer à une mise en valeur du territoire et de collaborer à une œuvre collective. Il existe une multitude de sites de partage. J’en ai testé beaucoup, j’en retiens peu.<span id="more-64753"></span>
+Depuis que je roule avec un GPS, que j’enregistre mes traces et les partage, j’ai la sensation de participer à une mise en valeur du territoire et de collaborer à une œuvre collective. Il existe une multitude de sites de partage. J’en ai testé beaucoup, j’en retiens peu.
 
 Pour partager les sorties quotidiennes, des services comme Strava ou Komoot s’en sortent à merveille, mais sont-ils aussi performants pour partager des traces peaufinées à longueur d’année, des traces écrites par opposition à celles improvisées ou rabâchées, des traces imaginées comme des romans avec des rebondissements, des cliffhangers, des climax ? De telles traces mitonnées aux petits oignons ne peuvent pas atterrir n’importe où. Un service de partage digne de noms doit être fidèle à l’original, gérer les points d’intérêt (POI) et faciliter les téléchargements, en prime offrir des statistiques.
 

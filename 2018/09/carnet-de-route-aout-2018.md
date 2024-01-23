@@ -4,7 +4,7 @@
 
 ### Mercredi 1<sup>er</sup>, Balaruc
 
-Vendredi soir, alors que nous mangions chez [Michel Torres](https://www.publie.net/etiquette-produit/michel-torres/), la bille rouge martienne pointait au-dessus de l’horizon. J’ai remarqué qu'elle n'avait pas été aussi lumineuse depuis 2003, pour une autre canicule ([mars n’avait alors jamais été aussi proche depuis 60 000 ans](https://amp.space.com/41329-mars-closest-to-earth-2018.html)). Demain, mars sera au plus proche de nous pour les 279 ans qui viennent. Quel pourrait être le lien entre canicule et proximité de Mars ?<span id="more-49748"></span>
+Vendredi soir, alors que nous mangions chez [Michel Torres](https://www.publie.net/etiquette-produit/michel-torres/), la bille rouge martienne pointait au-dessus de l’horizon. J’ai remarqué qu'elle n'avait pas été aussi lumineuse depuis 2003, pour une autre canicule ([mars n’avait alors jamais été aussi proche depuis 60 000 ans](https://amp.space.com/41329-mars-closest-to-earth-2018.html)). Demain, mars sera au plus proche de nous pour les 279 ans qui viennent. Quel pourrait être le lien entre canicule et proximité de Mars ?
 
 ---
 

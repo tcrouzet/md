@@ -1,6 +1,6 @@
 # De l’idéalisme à la complexité
 
-Un [commentateur m’a reproché](http://blog.tcrouzet.com/2008/09/18/premiers-pas-avec-ken-wilber/#comment-61022) de ne pas avoir lu Ken Wilber. Selon lui, c’était une sorte de faute capitale. J’étais un imposteur parce que je ne connaissais pas le plus grand penseur de notre temps. Tout ce que j’avais pu écrire perdait tout intérêt.<span id="more-3166"></span>
+Un [commentateur m’a reproché](http://blog.tcrouzet.com/2008/09/18/premiers-pas-avec-ken-wilber/#comment-61022) de ne pas avoir lu Ken Wilber. Selon lui, c’était une sorte de faute capitale. J’étais un imposteur parce que je ne connaissais pas le plus grand penseur de notre temps. Tout ce que j’avais pu écrire perdait tout intérêt.
 
 Lire ne nous rend pas plus malin. Je pense qu’il n’existe aucune lecture indispensable même si certaines peuvent être pour nous décisives.
 

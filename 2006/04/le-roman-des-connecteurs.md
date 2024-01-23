@@ -1,6 +1,6 @@
 # Le roman des connecteurs
 
-*Croisade* raconte le début de la bataille entre les hommes libres et les conservateurs de tout bord : capitalistes qui poursuivent la croissance coûte que coûte, quitte à détruire la planète, ou intégristes qui veulent précipiter la fin des temps et le retour des prophètes.<span id="more-50"></span>
+*Croisade* raconte le début de la bataille entre les hommes libres et les conservateurs de tout bord : capitalistes qui poursuivent la croissance coûte que coûte, quitte à détruire la planète, ou intégristes qui veulent précipiter la fin des temps et le retour des prophètes.
 
 Cette bataille a vraiment commencé. L'histoire racontée est une fiction mais elle dit des choses vraies : les hommes libres existent, s'organisent en réseau, combattent les conservateurs qui les combattent à leur tour.
 

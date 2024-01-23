@@ -2,7 +2,7 @@
 
 Suite à mon [dernier article](http://blog.tcrouzet.com/2006/07/12/internet-comme-territoire/), je réponds à quelques objections.
 
-1/ Si internet n’est qu’un média, il est absurde de se demander s’il est une démocratie. La question préliminaire est donc de savoir si internet est plus qu’un média. C’est le sujet de mon article. Je discuterai plus tard de la démocratie internet, une fois ce premier point réglé. De même, je discuterai plus tard de l’éventuelle constitution adaptée à ce nouveau territoire.<span id="more-161"></span>
+1/ Si internet n’est qu’un média, il est absurde de se demander s’il est une démocratie. La question préliminaire est donc de savoir si internet est plus qu’un média. C’est le sujet de mon article. Je discuterai plus tard de la démocratie internet, une fois ce premier point réglé. De même, je discuterai plus tard de l’éventuelle constitution adaptée à ce nouveau territoire.
 
 2/ Qu’internet deviennent un territoire ne signifie pas que les autres territoires disparaissent. L’Angleterre n’a pas disparu lorsque l’Amérique s’est déclarée indépendante. Les patates continueront de circuler sur les territoires physiques. En tout cas pour longtemps. On peut toutefois imaginer une circulation de la matière sous forme de code à exécuter – c’est un peu ça la vie d’ailleurs.
 

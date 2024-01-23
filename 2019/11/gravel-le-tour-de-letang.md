@@ -1,6 +1,6 @@
 # Gravel : le tour de l&#8217;étang de Thau
 
-Je suis né au bord de l’étang, mon père y était pêcheur et chasseur comme son père et grand-père, il en connaissait le moindre recoin, il m’y a entraîné, puis j’y ai navigué en dériveur et en planche à voile, j’en ai fait le tour en kayak et bien sûr à vélo.<span id="more-52997"></span>
+Je suis né au bord de l’étang, mon père y était pêcheur et chasseur comme son père et grand-père, il en connaissait le moindre recoin, il m’y a entraîné, puis j’y ai navigué en dériveur et en planche à voile, j’en ai fait le tour en kayak et bien sûr à vélo.
 
 J’ai commencé par le vélo de route, gardant de mauvais souvenirs de retours par l’ancienne départementale Marseillan-Sète avec le vent de face alors que je devais avoir onze ou douze ans et que j’étais le seul gamin du groupe. Un jour, aux environs du domaine viticole de Listel, j’étais si près de la rupture, que j’ai volontairement roulé sur un bout de ferraille pour déchiré mon boyau.
 

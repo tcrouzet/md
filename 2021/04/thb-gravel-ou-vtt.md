@@ -1,6 +1,6 @@
 # Tour de l&#8217;Hérault : gravel ou VTT ?
 
-[Depuis que j’ai publié la trace du tour de l’Hérault bikepacking](https://tcrouzet.com/727tour/), on me demande souvent « Est-ce que je peux la suivre avec mon gravel ? »<span id="more-58688"></span>
+[Depuis que j’ai publié la trace du tour de l’Hérault bikepacking](https://tcrouzet.com/727tour/), on me demande souvent « Est-ce que je peux la suivre avec mon gravel ? »
 
 Je voudrais juste rappeler que [le bikepacking, c’est du vélo de voyage hors asphalte](https://bikepacking.com/plog/what-is-bikepacking/), donc dans la nature, loin des voitures, sur des pistes, des chemins, des sentiers, avec la possibilité de rencontrer tout type de terrain (sur l'asphalte, c'est du cyclotourisme). La monture doit être polyvalente et maniable, donc légère, en plus d’être confortable. Il vaut mieux perdre en efficacité sur les rares portions asphaltées pour prendre du plaisir en dehors, notamment dans les descentes un poil techniques.
 

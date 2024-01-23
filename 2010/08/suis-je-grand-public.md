@@ -1,6 +1,6 @@
 # Suis-je grand public&nbsp;?
 
-On dirait que parce que [je parle de roman de gare ou d’écriture coopérative](http://blog.tcrouzet.com/2010/08/25/pour-une-litterature-de-gare/), j’ai renié la littérature. Dans le même temps, des commentateurs viennent m’insulter et [m’accuser de faire de la masturbation intellectuelle](http://blog.tcrouzet.com/2010/08/26/vers-une-ecriture-sans-litterature/#comment-80469). Pas simple ! Difficile d’être consensuel et d’écrire pour tous les publics en même temps.<span id="more-18831"></span>
+On dirait que parce que [je parle de roman de gare ou d’écriture coopérative](http://blog.tcrouzet.com/2010/08/25/pour-une-litterature-de-gare/), j’ai renié la littérature. Dans le même temps, des commentateurs viennent m’insulter et [m’accuser de faire de la masturbation intellectuelle](http://blog.tcrouzet.com/2010/08/26/vers-une-ecriture-sans-litterature/#comment-80469). Pas simple ! Difficile d’être consensuel et d’écrire pour tous les publics en même temps.
 
 Qu’est-ce qui empêche de mener plusieurs projets de front ? Certains littéraires, d’autres moins. Nombre de réactions me laissent supposer que l’on ne peut faire qu’une chose à la fois, que s’adonner à un seul genre à la fois. Je crois, au contraire, qu’il est nécessaire de déployer son écriture dans des directions antagonistes (surtout si on a le temps et la force de travail nécessaire).
 

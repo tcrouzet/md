@@ -1,6 +1,6 @@
 # La stratégie suicidaire de l&#8217;immunité de groupe
 
-Le coronavirus infecte nos cerveaux. C’est une conséquence inattendue de la pandémie couplée au confinement que d’engendrer des comportements délirants, [chez les membres du gouvernement](https://tcrouzet.com/2020/04/09/quand-le-gouvernement-nous-ment-preuves/) et [de l’administration](https://tcrouzet.com/2020/04/09/le-retour-des-milices-chasseurs-a-vos-armes/), mais aussi chez chacun de nous. Parfois, j’ai l’impression de ne plus reconnaître mes amis tant ils tiennent des propos farfelus, dangereux ou irresponsables.<span id="more-53915"></span>
+Le coronavirus infecte nos cerveaux. C’est une conséquence inattendue de la pandémie couplée au confinement que d’engendrer des comportements délirants, [chez les membres du gouvernement](https://tcrouzet.com/2020/04/09/quand-le-gouvernement-nous-ment-preuves/) et [de l’administration](https://tcrouzet.com/2020/04/09/le-retour-des-milices-chasseurs-a-vos-armes/), mais aussi chez chacun de nous. Parfois, j’ai l’impression de ne plus reconnaître mes amis tant ils tiennent des propos farfelus, dangereux ou irresponsables.
 
 Je me dis qu’alors moi aussi je souffre du même mal, d’autant plus que j’ai côtoyé une positive pendant plusieurs semaines, et que j’ai toutes les raisons d’être mentalement malade, puisque l’aspect neurologique de la pandémie a été négligé jusque là.
 

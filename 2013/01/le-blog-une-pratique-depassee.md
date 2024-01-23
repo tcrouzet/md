@@ -1,6 +1,6 @@
 # Le blog, une pratique dépassée
 
-Je ne vais rien dire de neuf, peut-être justifier pourquoi je blogue peu, pourquoi l'envie me manque, pourquoi je rêve d'autres formes.<span id="more-30510"></span>
+Je ne vais rien dire de neuf, peut-être justifier pourquoi je blogue peu, pourquoi l'envie me manque, pourquoi je rêve d'autres formes.
 
 Nous avons souvent utilisé la métaphore de la maison. Le blog est un salon aux portes grandes ouvertes, mais où le propriétaire reste chez lui, avec la capacité de bannir des importuns.
 

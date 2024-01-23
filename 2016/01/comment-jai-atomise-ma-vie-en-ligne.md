@@ -1,6 +1,6 @@
 # Comment j’ai atomisé ma vie en ligne
 
-J’ai tenté un premier dynamitage en 2011 quand je me suis déconnecté pour six mois. Une façon de prendre du recul et de revenir plus solide en même temps plus critique (oui, c’est possible). Après mon ascèse, les réseaux sociaux m’ont offert un spectacle affligeant dont je n’étais au préalable pas conscient.<span id="more-43435"></span>
+J’ai tenté un premier dynamitage en 2011 quand je me suis déconnecté pour six mois. Une façon de prendre du recul et de revenir plus solide en même temps plus critique (oui, c’est possible). Après mon ascèse, les réseaux sociaux m’ont offert un spectacle affligeant dont je n’étais au préalable pas conscient.
 
 Sans les abandonner, parce que j’y garde des amis, parce que j’y fais des découvertes et des rencontres, j’y ai progressivement été moins présent. Le plus souvent, je me contente de réagir lorsque je suis interpellé et, deux ou trois fois par jour, je viens pêcher les dernières news tout en twittant pour ne pas perdre la main. Je suis devenu un usager modéré (par rapport à Isa, je reste un addict). Cette vie en ligne ne me prend pas plus de quinze minutes/jour. Quand j’ai envie de cracher mon venin, je tente de garder ça pour [mon journal que je ne publie désormais une fois par mois](http://tcrouzet.com/tag/carnet-de-route/), après autocensure.
 
@@ -29,6 +29,8 @@ Reste que symboliquement un livre acheté n’est pas un livre récupéré incid
 Je viens apparemment de parler de diffusion et non d’écriture, de *publishing* plus que d’*editing*. Reste que la présence plus ou moins active des lecteurs change les conditions d’écriture. Confiné sur mon blog, *One Minute* se serait sclérosé. Il me paraît important de chercher les interactions, de les favoriser. Et comme tout déterminisme est illusoire dans notre monde changeant, je ne vois d’espoir que dans l’expérimentation, d’où ma volonté de disséminer mes textes pour qu’ils rencontrent des communautés avec lesquelles pendant un temps je ferai un bout de chemin. Je ne fais que jeter des bouteilles à la mer dans l’espoir qu’elles croisent des paquebots chargés de joyeux drilles.
 
 ![Un schéma suffit à résumer ma vie en ligne (depuis les portes d’entrée en magenta, il suffit de suivre les flux).](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/flux.png)
+
+Un schéma résume ma vie en ligne (depuis les portes d’entrée en magenta, il suffit de suivre les flux).
 
 
 

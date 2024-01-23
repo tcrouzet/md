@@ -1,6 +1,6 @@
 # Du foot à la politique : la révolution est dans l’air
 
-J’ai de vieux réflexes, des automatismes malsains, un peu comme le fumeur repenti qui, de temps à autre, en grille une en catimini. Je ne regarde plus la télé. J’ai perdu tout intérêt pour les choses qui y sont rabâchées au point de nous en donner le goût, de nous faire croire que nous les aimons. J’étais ainsi devenu fan de foot, malgré moi, en même temps que les autres, avec eux. Depuis plus de dix ans, je me suis soigné, mais, au moment de la coupe du monde, j’y reviens par nostalgie <span id="more-17123"></span>
+J’ai de vieux réflexes, des automatismes malsains, un peu comme le fumeur repenti qui, de temps à autre, en grille une en catimini. Je ne regarde plus la télé. J’ai perdu tout intérêt pour les choses qui y sont rabâchées au point de nous en donner le goût, de nous faire croire que nous les aimons. J’étais ainsi devenu fan de foot, malgré moi, en même temps que les autres, avec eux. Depuis plus de dix ans, je me suis soigné, mais, au moment de la coupe du monde, j’y reviens par nostalgie 
 
 J’ai regardé le lamentable match France-Mexique, plutôt le lamentable match de l’équipe de France, d’une tristesse à la hauteur de la grisaille de son entraîneur. Quand ça ne veut pas rire, ça ne rit pas. Il n’y a pas à épiloguer. En revanche, [@la\_ligne m’a suggéré une connexion intéressante.](http://twitter.com/la_ligne/statuses/16414201658)
 

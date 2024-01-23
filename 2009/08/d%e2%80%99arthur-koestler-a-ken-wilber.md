@@ -1,6 +1,6 @@
 # D’Arthur Koestler à Ken Wilber
 
-Hier, après avoir exprimé mes doutes sur l’utilité de l’idée de superorganisme, on m’a renvoyé à la théorie des holons proposée par Koestler et vulgarisée par Wilber. [Je me suis expliqué à ce sujet l’année dernière lorsque j’ai lu Wilber.](http://blog.tcrouzet.com/2008/10/02/de-l%E2%80%99idealisme-a-la-complexite/)<span id="more-8645"></span>
+Hier, après avoir exprimé mes doutes sur l’utilité de l’idée de superorganisme, on m’a renvoyé à la théorie des holons proposée par Koestler et vulgarisée par Wilber. [Je me suis expliqué à ce sujet l’année dernière lorsque j’ai lu Wilber.](http://blog.tcrouzet.com/2008/10/02/de-l%E2%80%99idealisme-a-la-complexite/)
 
 > Définition. Un holon est une entité qui est en même temps une part de quelque chose et, en elle-même, une totalité. Exemple. Une cellule dans un organisme.
 

@@ -1,6 +1,6 @@
 # Le gravel est une mode : la preuve
 
-Il se passe un truc assez dingue dans le monde du vélo. Voici une anecdote. Un mec habite en montagne, il voit une belle piste qui grimpe en face de chez lui, et de l’autre côté j’imagine une belle descente cabossée, et il se demande s’il doit s’acheter un gravel, parce qu’avec son course il ne passera pas. Pourquoi il n'envisage pas un VTT ?<span id="more-51688"></span>
+Il se passe un truc assez dingue dans le monde du vélo. Voici une anecdote. Un mec habite en montagne, il voit une belle piste qui grimpe en face de chez lui, et de l’autre côté j’imagine une belle descente cabossée, et il se demande s’il doit s’acheter un gravel, parce qu’avec son course il ne passera pas. Pourquoi il n'envisage pas un VTT ?
 
 Une autre anecdote. [J’ai participé à un raid bikepacking dans les Smoky Mountains](https://tcrouzet.com/2019/05/26/bikepacking-dans-les-smoky-mountains/), du genre assez copieux avec selon la formule 500 ou 700 bornes, 10 000 ou 15 000 mètres de dénivelé. Vélo recommandé : VTT. Au départ, nous étions une trentaine. Surprise : environ 50 % des participants ont débarqué avec des gravel.
 

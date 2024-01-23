@@ -1,6 +1,6 @@
 # Le paradoxe des best-sellers difficiles
 
-On parle alors plus volontiers de livres cultes. *Traité du zen et de l'entretien des motocyclettes*. *Escher, Gödel et Bach*. *Sous le Volcan*. *Le Guépard*. Rien ne présageait un succès planétaire pour ces livres.<span id="more-34500"></span>
+On parle alors plus volontiers de livres cultes. *Traité du zen et de l'entretien des motocyclettes*. *Escher, Gödel et Bach*. *Sous le Volcan*. *Le Guépard*. Rien ne présageait un succès planétaire pour ces livres.
 
 La facilité, la banalité, la médiocrité ne sont pas les conditions nécessaires de la réussite commerciale. De temps à autre, des ovnis traversent le champ éditorial. Ils entrent en résonnance avec les attentes du public, et d’une certaine façon réussissent à lui faire changer sa façon de voir le monde. De fait, ces livres ne peuvent qu’être rares (sinon le monde deviendrait fou).
 

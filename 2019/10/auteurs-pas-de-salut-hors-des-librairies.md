@@ -1,6 +1,6 @@
 # Auteurs : pas de salut hors des librairies
 
-Entre 2000 et 2010, après l’explosion de la bulle internet et avant la domination des réseaux sociaux, nous avons vécu l'âge d’or des auteurs indépendants. Cette époque est révolue. [Comme je l’ai expliqué dans un billet précédent](https://tcrouzet.com/2019/09/20/retomber-amoureux-des-librairies-une-necessite/), j’ai trop longtemps tenté de le nier. Voici une brève histoire d’internet qui montre pourquoi ce qui était envisageable hier ne l’est plus aujourd’hui.<span id="more-52654"></span>
+Entre 2000 et 2010, après l’explosion de la bulle internet et avant la domination des réseaux sociaux, nous avons vécu l'âge d’or des auteurs indépendants. Cette époque est révolue. [Comme je l’ai expliqué dans un billet précédent](https://tcrouzet.com/2019/09/20/retomber-amoureux-des-librairies-une-necessite/), j’ai trop longtemps tenté de le nier. Voici une brève histoire d’internet qui montre pourquoi ce qui était envisageable hier ne l’est plus aujourd’hui.
 
 Durant l’âge d’or, mon blog occupait le centre d’un vaste réseau interconnectant des milliers de blogs (dans un tel réseau, dit distribué, chaque nœud occupe le centre du réseau — qu’il faut imaginer comme une sphère). Les lecteurs sautaient de blog en blog, aidés par les blogueurs qui établissaient des listes de sites amis, qui aussi parlaient des textes des autres blogueurs, en une forme de correspondance ouverte et multinodale.
 

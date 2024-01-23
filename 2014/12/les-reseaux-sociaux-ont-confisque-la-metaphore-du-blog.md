@@ -1,6 +1,6 @@
 # Les réseaux sociaux ont confisqué la métaphore du blog
 
-Quand le blog naît en 1994, c’est pour continuer *La Route* de Kerouak. Les articles se déroulent en un long rouleau antichronologique. Quand un lecteur arrivait sur la page d’accueil, la seule page d’un blog, il savait immédiatement qu’il entrait dans une œuvre en train de se créer. Le texte avait l’épaisseur des textes antérieurs. Tout cela a été oublié.<span id="more-38295"></span>
+Quand le blog naît en 1994, c’est pour continuer *La Route* de Kerouak. Les articles se déroulent en un long rouleau antichronologique. Quand un lecteur arrivait sur la page d’accueil, la seule page d’un blog, il savait immédiatement qu’il entrait dans une œuvre en train de se créer. Le texte avait l’épaisseur des textes antérieurs. Tout cela a été oublié.
 
 Le drame s’est produit autour de 2007, avec l’émergence des réseaux sociaux. À partir de ce moment, les lecteurs cliquent sur des liens de recommandation et débarquent directement sur les articles de blog (plutôt que sur la page d’accueil). Ils perdent immédiatement le sens de l’ensemble, sauf à rester fidèles aux fils RSS (mais cette technologie n’a jamais dépassé le monde des geeks).
 

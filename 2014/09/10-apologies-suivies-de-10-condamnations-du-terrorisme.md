@@ -1,6 +1,6 @@
 # 10 apologies suivies de 10 condamnations du terrorisme
 
-L’usage banalisé du mot terrorisme comme la tentation du terrorisme ne sont qu’une conséquence d’une crise généralisée.<span id="more-37327"></span>
+L’usage banalisé du mot terrorisme comme la tentation du terrorisme ne sont qu’une conséquence d’une crise généralisée.
 
 ### 10 apologies
 

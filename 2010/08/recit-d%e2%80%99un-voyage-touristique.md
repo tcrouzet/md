@@ -1,6 +1,6 @@
 # Récit d’un voyage touristique
 
-[Encore un roman pour l’été](http://blog.tcrouzet.com/turista/) ([téléchargement](http://blog.tcrouzet.com/turista/#download)). C’était en juillet 1999. Je suis parti au Mexique avec une inconnue dans le seul but de tenir le journal du voyage. J’ai retranscrit mes carnets en août 1999, trois mois plus tard j’ai dû envoyer le manuscrit à une paire d’éditeurs avec mon laxisme habituel. Aucune réponse.<span id="more-18303"></span>
+[Encore un roman pour l’été](http://blog.tcrouzet.com/turista/) ([téléchargement](http://blog.tcrouzet.com/turista/#download)). C’était en juillet 1999. Je suis parti au Mexique avec une inconnue dans le seul but de tenir le journal du voyage. J’ai retranscrit mes carnets en août 1999, trois mois plus tard j’ai dû envoyer le manuscrit à une paire d’éditeurs avec mon laxisme habituel. Aucune réponse.
 
 Un éditeur a toutefois remarqué [*Turista*](http://blog.tcrouzet.com/turista/), mais ailleurs, par hasard. Regardez comment marche l’édition. François Bourin passe chez une amie qui avait laissé mon manuscrit sur la table de son salon. François le prend, il le lit, puis on déjeune ensemble. À l’époque, il n’est plus éditeur, il a plutôt bien vendu sa maison et contractuellement il n’a pas encore le droit d’en créer une nouvelle. Je lui suggère de se lancer dans l’édition électronique.
 

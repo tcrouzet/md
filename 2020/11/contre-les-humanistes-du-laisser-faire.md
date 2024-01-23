@@ -1,6 +1,6 @@
 # Contre les humanistes du laisser-faire
 
-Je ne suis pas très optimiste quand les progressistes m’apparaissent comme les ennemis du genre humain. Je pense à de nombreux militants écologistes, à des anticapitalistes, à des réformateurs acharnés, qui se battent depuis des années pour une société meilleure. Je pense à des amis politiques alors que nombre d’entre eux défendent désormais des positions effrayantes.<span id="more-56057"></span>
+Je ne suis pas très optimiste quand les progressistes m’apparaissent comme les ennemis du genre humain. Je pense à de nombreux militants écologistes, à des anticapitalistes, à des réformateurs acharnés, qui se battent depuis des années pour une société meilleure. Je pense à des amis politiques alors que nombre d’entre eux défendent désormais des positions effrayantes.
 
 Quand j’ai annoncé qu’en novembre il y aurait [un mort covid en France toutes les cinq minutes](https://tcrouzet.com/2020/10/29/un-mort-du-covid-toutes-les-5-minutes-en-france/), plusieurs d’entre eux m’ont dit que ça ne représenterait pas plus de trois victimes par jour par département, que donc c’était une goutte d’eau, que le confinement n’était qu’une mesure de propagande d’une intelligentsia corrompue.
 

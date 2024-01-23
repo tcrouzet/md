@@ -10,8 +10,6 @@ Mots clés : #MeeToo #1970s #Thriller #Noir #France #Italie #Suisse #BetaMax
 
 [*Les Silencieux* sont en vente sur Opensea.](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/51916585730158572235051487169527023365538550989906184714965107612488959000577/)
 
-
-
 ### Licence
 
 - **Propriété intellectuelle** Thierry Crouzet reste l’auteur inaliénable de *Les Silencieux* (Œuvre). Son nom doit rester associé à toute utilisation de l’œuvre, qu’elle soit commerciale ou non, par l’acheteur (Acheteur).

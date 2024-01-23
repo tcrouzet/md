@@ -1,6 +1,6 @@
 # Les risques de la décentralisation
 
-Le 5 septembre dernier, suite à mon [article sur la crise de l’eau](http://blog.tcrouzet.com/2006/08/31/la-crise-de-l%e2%80%99eau/), un lecteur m’a posé quelques questions auxquelles je trouve enfin le temps de répondre (dans le TGV en rentrant de Paris).<span id="more-259"></span>
+Le 5 septembre dernier, suite à mon [article sur la crise de l’eau](http://blog.tcrouzet.com/2006/08/31/la-crise-de-l%e2%80%99eau/), un lecteur m’a posé quelques questions auxquelles je trouve enfin le temps de répondre (dans le TGV en rentrant de Paris).
 
 *— À trop décentraliser, ne risque-t-on pas de faire basculer le pouvoir ailleurs que dans les mains de l’État ?*
 

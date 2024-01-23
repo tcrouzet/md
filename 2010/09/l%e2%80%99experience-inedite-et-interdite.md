@@ -1,6 +1,6 @@
 # L’expérience inédite (et interdite)
 
-Pour qu’un projet coopératif fonctionne, il doit se décider vite, se mettre en œuvre tout aussi vite et se boucler presque aussi vite. [Après ma proposition de tenter une édition coopérative d’un de mes textes et tester le revenu unique](http://blog.tcrouzet.com/2010/09/13/experimentons-le-revenu-unique-pour-les-auteurs/), nous avons, en moins d’une journée, mis sur pied une équipe.<span id="more-19241"></span>
+Pour qu’un projet coopératif fonctionne, il doit se décider vite, se mettre en œuvre tout aussi vite et se boucler presque aussi vite. [Après ma proposition de tenter une édition coopérative d’un de mes textes et tester le revenu unique](http://blog.tcrouzet.com/2010/09/13/experimentons-le-revenu-unique-pour-les-auteurs/), nous avons, en moins d’une journée, mis sur pied une équipe.
 
 J’ai reçu par mail, sur Twitter et sur le blog des propositions de coopération. J’ai fait la pub du projet sur deux listes de diffusions et auprès de quelques amis. Toutes les compétences ont vite été réunies. Hier soir, j’ai envoyé à chacun le texte de ma nouvelle avec quelques explications. Pour documenter l’expérience, je réécris pour vous mon message.
 

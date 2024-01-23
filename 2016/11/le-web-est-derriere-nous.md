@@ -1,6 +1,6 @@
 # Le Web est derrière nous
 
-Je commence ce texte sans fil rouge, avec pour fardeau des sensations à évacuer, avant tout pour me faire du bien. C’est tout sauf un article, plutôt une note de journal, mais je pressens qu’elle sera assez longue pour se tenir toute seule.<span id="more-44492"></span>
+Je commence ce texte sans fil rouge, avec pour fardeau des sensations à évacuer, avant tout pour me faire du bien. C’est tout sauf un article, plutôt une note de journal, mais je pressens qu’elle sera assez longue pour se tenir toute seule.
 
 Ce que je vois sur le Net, ce que j’y éprouve, ce que j’y fais me met de plus en plus mal à l’aise. Ce sentiment n’est pas universellement partagé. Des amis très actifs dans la communauté du libre ou des nouvelles monnaies ou de la vidéo me rappellent après chacun de mes articles pessimistes qu’il se passe encore des choses formidables sur le Net.
 

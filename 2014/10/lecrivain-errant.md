@@ -1,6 +1,6 @@
 # L’écrivain errant
 
-Statistiquement, nous autres auteurs vendons peu de livres. Et comme, je peux survivre sans mes revenus d’auteurs, je n’ai donc aucune raison de chercher à écrire des choses qui se vendent. Je peux m’installer sur un banc au sommet de la bastide de Monflanquin et me laisser charmer par la campagne vallonnée du Lot-et-Garonne.<span id="more-37687"></span>
+Statistiquement, nous autres auteurs vendons peu de livres. Et comme, je peux survivre sans mes revenus d’auteurs, je n’ai donc aucune raison de chercher à écrire des choses qui se vendent. Je peux m’installer sur un banc au sommet de la bastide de Monflanquin et me laisser charmer par la campagne vallonnée du Lot-et-Garonne.
 
 ![Montflanquin, ça monte](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/mont4.jpg)
 

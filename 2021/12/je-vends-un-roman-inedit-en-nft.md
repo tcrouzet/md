@@ -1,13 +1,10 @@
 # Je vends un roman inédit en NFT
 
-[Après avoir vendu en NFT une édition de mes carnets sous la forme d’un PDF géant de 5 x 5 m](https://tcrouzet.com/2021/08/20/je-vends-mon-blog-aux-encheres-en-nft/), je vends aux enchères un roman inédit, que même ma femme n’a pas lu.<span id="more-61064"></span>
+[Après avoir vendu en NFT une édition de mes carnets sous la forme d’un PDF géant de 5 x 5 m](https://tcrouzet.com/2021/08/20/je-vends-mon-blog-aux-encheres-en-nft/), je vends aux enchères un roman inédit, que même ma femme n’a pas lu.
 
 J’ai écrit [*Les Silencieux*](https://tcrouzet.com/les-silencieux/) en janvier 2020 et je ne l’ai pas publié, même en autoédition, parce que son sujet, une forme de #MeeToo au masculin, ne me paraissait ni de circonstance ni à propos. Mon but n’était pas de brouiller la parole des femmes.
 
 Il m’est apparu en revanche que les plateformes [NFT](https://fr.wikipedia.org/wiki/Jeton_non_fongible) pouvaient être l’occasion de monétiser ce texte. J’ai donc décidé de le vendre aux enchères à un exemplaire unique pour une mise à prix de [1 Ethereum](https://www.coinbase.com/fr/price/ethereum) (la vente s'achevant le 19 janvier 2022). Je cède par là même une partie de mes droits de propriété à l’acheteur (voir licence). Ainsi ce texte, sans être largement diffusé par moi, pourra être lu par un heureux collectionneur. L’idée serait même qu’il revende le roman de façon qu’il circule de collectionneur en collectionneur.
-
-<nft-card contractaddress="0x495f947276749ce646f68ac8c248420045cb7b5e" tokenid="51916585730158572235051487169527023365538550989906184714965107612488959000577"></nft-card>
-<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 
 Les NFT ont pour fonction de rendre rares des biens immatériels par nature abondants et dont les coûts des reproductions sont quasi nuls. On peut questionner leur pertinence éthique, puisque la culture devrait être accessible au plus grand nombre, mais on peut aussi y voir un nouveau moyen de rémunération des créateurs. Les NFT permettent également de faire entrer les textes sur le marché de l’art, sans pour autant les soustraire au marché de l’édition (voir licence).
 
@@ -25,21 +22,13 @@ Mots clés : #Meetoo #1970s #Thriller #Noir #France #Italie #Suisse #BetaMax
 
 Je ne diffuse pas d'extrait du texte parce que je veux qu'il reste le privilège de l'acheteur.
 
-<https://tcrouzet.com/les-silencieux/>
-
 ### Licence
-
-**Propriété intellectuelle** Thierry Crouzet reste l’auteur inaliénable de *Les Silencieux* (Œuvre). Son nom doit rester associé à toute utilisation de l’œuvre, qu’elle soit commerciale ou non, par l’acheteur (Acheteur).
-
-**Royalties** L’auteur renonce à exploiter ou diffuser l’œuvre dans sa version française. Si l’acheteur revend l’œuvre sous forme de NFT, l’auteur reçoit 10 % de ses bénéfices (versés automatiquement par la plateforme). Si l’acheteur commercialise l’œuvre sous forme de livres électroniques ou imprimés, il partagera à 50/50 ses bénéfices avec l’auteur (ratio assez classique dans l'édition). L’acheteur n’a pas le droit de diffuser gratuitement l’œuvre. Il s'agit bien sûr d'un contrat moral.
-
-**Revente** Si l’acheteur revend l’œuvre sous forme de NFT, il transfère au nouvel acheteur ses privilèges et devoirs vis-à-vis de l’auteur (respect de la propriété intellectuelle, versement des royalties). Il perd tout droit sur l’œuvre, même s’il conserve le droit de la lire.
-
-**Format** La totalité du texte est encodé dans l'image de couverture haute définition (il suffit de l'ouvrir avec un éditeur de texte) et l’acheteur déverrouille un lien (Unlockable Content) vers un fichier archive contenant l’œuvre au format PDF, EPUB, DOCX et MD. Le design de la couverture n’est pas contractuel et pourra être repensé par l’acheteur s’il désire promouvoir l’œuvre. Elle ne fait pas partie de l’œuvre elle-même. L’œuvre peut-être corrigée avec l’autorisation et la collaboration de l’auteur.
-
-**Traduction** L’auteur se réserve le droit de traduire l’œuvre et de commercialiser les traductions selon les modalités exposées ci-dessus.
-
-**Adaptations** L’acheteur ne détient pas les droits d’adaptation (cinématographiques, radiophoniques, BD…).
+ Thierry Crouzet reste l’auteur inaliénable de *Les Silencieux* (Œuvre). Son nom doit rester associé à toute utilisation de l’œuvre, qu’elle soit commerciale ou non, par l’acheteur (Acheteur).
+ L’auteur renonce à exploiter ou diffuser l’œuvre dans sa version française. Si l’acheteur revend l’œuvre sous forme de NFT, l’auteur reçoit 10 % de ses bénéfices (versés automatiquement par la plateforme). Si l’acheteur commercialise l’œuvre sous forme de livres électroniques ou imprimés, il partagera à 50/50 ses bénéfices avec l’auteur (ratio assez classique dans l'édition). L’acheteur n’a pas le droit de diffuser gratuitement l’œuvre. Il s'agit bien sûr d'un contrat moral.
+ Si l’acheteur revend l’œuvre sous forme de NFT, il transfère au nouvel acheteur ses privilèges et devoirs vis-à-vis de l’auteur (respect de la propriété intellectuelle, versement des royalties). Il perd tout droit sur l’œuvre, même s’il conserve le droit de la lire.
+ La totalité du texte est encodé dans l'image de couverture haute définition (il suffit de l'ouvrir avec un éditeur de texte) et l’acheteur déverrouille un lien (Unlockable Content) vers un fichier archive contenant l’œuvre au format PDF, EPUB, DOCX et MD. Le design de la couverture n’est pas contractuel et pourra être repensé par l’acheteur s’il désire promouvoir l’œuvre. Elle ne fait pas partie de l’œuvre elle-même. L’œuvre peut-être corrigée avec l’autorisation et la collaboration de l’auteur.
+ L’auteur se réserve le droit de traduire l’œuvre et de commercialiser les traductions selon les modalités exposées ci-dessus.
+ L’acheteur ne détient pas les droits d’adaptation (cinématographiques, radiophoniques, BD…).
 
 ### Pour acheter *Les Silencieux*
 

@@ -1,6 +1,6 @@
 # Écriture romanesque : pas mieux que Wattpad
 
-Dans [*Le point aveugle*](https://www.amazon.fr/point-aveugle-Javier-Cercas/dp/2330068956/), une théorie du roman que je vous recommande, Javier Cercas écrit : « La meilleure littérature n’est pas celle qui ressemble à la littérature, mais celle qui ne lui ressemble pas ; c’est-à-dire : celle qui ressemble à la vérité. Toute littérature authentique est anti-littérature. »<span id="more-45418"></span>
+Dans [*Le point aveugle*](https://www.amazon.fr/point-aveugle-Javier-Cercas/dp/2330068956/), une théorie du roman que je vous recommande, Javier Cercas écrit : « La meilleure littérature n’est pas celle qui ressemble à la littérature, mais celle qui ne lui ressemble pas ; c’est-à-dire : celle qui ressemble à la vérité. Toute littérature authentique est anti-littérature. »
 
 Et si, sur le Net, la littérature se jouait hors des lieux apparemment littéraires, et qui se revendiquent comme tel ? Ces lieux autoqualifiés littéraires sont reconnaissables parce qu’ils ont la couleur, le style et la saveur de la littérature, parce qu’aussi ils obéissent à une définition datée de cette littérature, une définition intégrée par chacun de nous pour que nous puissions les identifier. J’ai envie de suivre Cercas et de chercher la littérature contemporaine là où elle ne se prétend pas être, pourquoi pas sur Wattpad.
 

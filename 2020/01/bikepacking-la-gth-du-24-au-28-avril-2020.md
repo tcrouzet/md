@@ -1,6 +1,6 @@
 # Bikepacking : la GTH du 24 au 28 avril 2020
 
-En septembre, j’ai tracé une [première esquisse du Grand tour de l’Hérault à VTT](https://tcrouzet.com/2019/09/18/projet-bikepacking-grand-tour-de-lherault/), en décembre, j’ai proposé [que nous choisissions une date](https://tcrouzet.com/2019/12/15/on-fait-le-tour-de-lherault-en-bikepacking/) pour inaugurer la trace, c’est chose faite démocratiquement, cette aventure bikepacking se jouera du 24 au 28 avril.<span id="more-53263"></span>
+En septembre, j’ai tracé une [première esquisse du Grand tour de l’Hérault à VTT](https://tcrouzet.com/2019/09/18/projet-bikepacking-grand-tour-de-lherault/), en décembre, j’ai proposé [que nous choisissions une date](https://tcrouzet.com/2019/12/15/on-fait-le-tour-de-lherault-en-bikepacking/) pour inaugurer la trace, c’est chose faite démocratiquement, cette aventure bikepacking se jouera du 24 au 28 avril.
 
 Il ne s’agit pas d’un raid avec inscription, paiement, balise spot et tout un tintouin (mais rien ne vous empêche d'utiliser un tracker pour rassurer vos proches). Le projet : on se retrouve le 23 à [Balaruc les Bains](https://fr.wikipedia.org/wiki/Balaruc-les-Bains) pour se rencontrer autour d’un repas et le lendemain à 6 h 49, heure du lever du soleil, on commence à pédaler avec nos VTT ou monstercross. J’ai adoré aux États-Unis la Vista 300/Moutain 420 organisée selon ce principe.
 

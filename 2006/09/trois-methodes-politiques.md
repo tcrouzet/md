@@ -1,16 +1,11 @@
 # Trois méthodes politiques
 
 La complexité ni ne se contrôle ni se commande. La société humaine étant complexe, elle obéit aux mêmes règles que les autres systèmes complexes. Trois méthodes politiques me paraissent alors possibles.
-
-**Dictature.** Puisque la complexité pose problème, on tente de la réduire, ce qui commence par une limitation des libertés, notamment la liberté pour les individus d’interagir. Plus nos sociétés se complexifieront, plus séduisante sera la dictature pour les gouvernants qui veulent que le monde se conforme à leur vision. Voilà pourquoi, partout dans le monde, au cœur des démocraties, les penchants autoritaristes se multiplient.
-
-**Hypocrisie.** Pour les tenants de cette ligne, la complexité est une illusion, ils la nient, ils font comme si elle n’existait pas et tentent de persuader les citoyens que la société est contrôlable, qu’elle peut se plier à la volonté d’une élite. L’hypocrisie me paraît encore plus dangereuse que la dictature car elle ne cherche même pas à régler les problèmes et se spécialise dans la poudre aux yeux et la démagogie.
-
-**Utopie.** Puisqu’on ne peut pas contrôler, puisqu’on ne sait pas comment passer d’un état (le chômage) à un état souhaité (le plein emploi), on fait confiance à l’ingéniosité individuelle et à la responsabilité. En tant que politicien, on ne contrôle plus, on ne commande plus, on n’impose plus des solutions, on donne des impulsions, on porte des projets, on incite… et surtout on fait confiance aux hommes.
+ Puisque la complexité pose problème, on tente de la réduire, ce qui commence par une limitation des libertés, notamment la liberté pour les individus d’interagir. Plus nos sociétés se complexifieront, plus séduisante sera la dictature pour les gouvernants qui veulent que le monde se conforme à leur vision. Voilà pourquoi, partout dans le monde, au cœur des démocraties, les penchants autoritaristes se multiplient.
+ Pour les tenants de cette ligne, la complexité est une illusion, ils la nient, ils font comme si elle n’existait pas et tentent de persuader les citoyens que la société est contrôlable, qu’elle peut se plier à la volonté d’une élite. L’hypocrisie me paraît encore plus dangereuse que la dictature car elle ne cherche même pas à régler les problèmes et se spécialise dans la poudre aux yeux et la démagogie.
+ Puisqu’on ne peut pas contrôler, puisqu’on ne sait pas comment passer d’un état (le chômage) à un état souhaité (le plein emploi), on fait confiance à l’ingéniosité individuelle et à la responsabilité. En tant que politicien, on ne contrôle plus, on ne commande plus, on n’impose plus des solutions, on donne des impulsions, on porte des projets, on incite… et surtout on fait confiance aux hommes.
 
 J’aimerais que nos politiciens, que nos partis, se positionnent par rapport à cette grille de lecture schématique. À mon sens, seule la voie utopique est aujourd’hui envisageable. La société a besoin d’une direction et non d’un manuel pour atteindre la destination.
-
-**Notes**
 
 1. Un être humain est un système complexe. Il ne se contrôle pas de l’extérieur sans une acceptation de l’être lui-même. L’être ne se contrôle pas, il s’auto-organise. La différence me paraît fondamentale.
 

@@ -1,6 +1,6 @@
 # Malaxeurs contre anarchistes
 
-Les malaxeurs croient pouvoir réformer le système de l’extérieur comme s’ils n’étaient pas eux-mêmes part du système. Les anarchistes entendent se réformer eux-mêmes pour engendrer une métamorphose du système dont ils n’ont pas idée. Ils prennent le risque d’innover quand la vie ne leur paraît plus en adéquation avec leurs aspirations. Stop. Je rembobine et je rejoue l’histoire au ralenti.<span id="more-18008"></span>
+Les malaxeurs croient pouvoir réformer le système de l’extérieur comme s’ils n’étaient pas eux-mêmes part du système. Les anarchistes entendent se réformer eux-mêmes pour engendrer une métamorphose du système dont ils n’ont pas idée. Ils prennent le risque d’innover quand la vie ne leur paraît plus en adéquation avec leurs aspirations. Stop. Je rembobine et je rejoue l’histoire au ralenti.
 
 ### L’individuation
 

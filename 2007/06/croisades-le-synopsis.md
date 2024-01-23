@@ -1,6 +1,6 @@
 # Croisades : le synopsis
 
-Avant de signer un contact avec un éditeur, il faut lui vendre le projet. J’ai souvent évoqué ici mon histoire de [croisades](http://blog.tcrouzet.com/2007/06/07/croisade-biographique/) mais je voudrais tout reprendre pour clarifier mes idées. *Croisades* sera un documentaire. Vous me direz si ça vous intéresse.<span id="more-486"></span>
+Avant de signer un contact avec un éditeur, il faut lui vendre le projet. J’ai souvent évoqué ici mon histoire de [croisades](http://blog.tcrouzet.com/2007/06/07/croisade-biographique/) mais je voudrais tout reprendre pour clarifier mes idées. *Croisades* sera un documentaire. Vous me direz si ça vous intéresse.
 
 ### Base line
 

@@ -1,6 +1,6 @@
 # Pourquoi défendre le revenu de base
 
-Je me suis souvent expliqué, mais recommencer sans cesse m’aide à découvrir de nouveaux arguments et de nouveaux récits. Mon engagement est avant tout logique.<span id="more-36384"></span>
+Je me suis souvent expliqué, mais recommencer sans cesse m’aide à découvrir de nouveaux arguments et de nouveaux récits. Mon engagement est avant tout logique.
 
 1. Le jour où nous serons totalement détachés du matériel et même de la géographie, tel endroit plus agréable à vivre que tel autre, nous n’aurons plus besoin de monnaie. Dans cette attente, elle nous est nécessaire.
 
@@ -47,6 +47,8 @@ Pour faire l’économie du revenu de base, ceux qui s’appellent eux-mêmes le
 Il me faut maintenant imaginer des histoires de vies. Passer à la simulation littéraire pour essayer d’explorer ce que les trop belles théories ne voient pas. Et c’est l’été, je bricole, je vois des amis, j’arrive tout juste à aligner quelques lignes peu exigeantes sur le blog… inévitablement plongé dans le post-partum de l’après [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).
 
 ![Tant qu'on voudra vivre là, il faudra de la monnaie.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/balaruc.jpg)
+
+Tant qu'on voudra vivre là, il faudra de la monnaie.
 
 
 

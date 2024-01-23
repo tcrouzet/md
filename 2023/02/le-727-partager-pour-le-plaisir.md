@@ -1,6 +1,6 @@
 # Le 727, partager pour le bonheur
 
-Pour les uns, je suis un salaud, je sape le business des organisateurs professionnels d’évènements bikepacking, pour les autres je serais un altruiste au grand cœur qui se vouerait à la communauté, pour d’autres je suis un radin qui refuse de payer pour rouler sur les chemins ou un anarchiste qui n’a d’autres buts que de faire le contraire de ses semblables. Il faudrait me bannir des groupes de discussion bikepacking pour que mes propos subversifs ne fassent pas d’émules.<span id="more-64786"></span>
+Pour les uns, je suis un salaud, je sape le business des organisateurs professionnels d’évènements bikepacking, pour les autres je serais un altruiste au grand cœur qui se vouerait à la communauté, pour d’autres je suis un radin qui refuse de payer pour rouler sur les chemins ou un anarchiste qui n’a d’autres buts que de faire le contraire de ses semblables. Il faudrait me bannir des groupes de discussion bikepacking pour que mes propos subversifs ne fassent pas d’émules.
 
 Alors qui a raison ? Tout le monde et personne. Je suis un hédoniste. Tant qu’il y a du plaisir, je suis preneur, mais le plaisir n’est envisageable que si je reste responsable. J’aimerais sauter dans un avion pour pédaler au soleil en hiver, mais ce plaisir aurait un goût amer. Il me pousserait à travailler davantage, à écrire des textes que je ne voudrais pas écrire, voire à replonger professionnellement dans le code. Il me forcerait à produire des richesses pour me payer d’autres richesses, et donc au passage aggraver mon impact écologique.
 

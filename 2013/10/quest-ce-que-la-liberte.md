@@ -9,8 +9,7 @@ Dans ses [Commentaires sur les quatre libertés économiques](http://www.creatio
 Cette définition contient deux termes étroitement liés, « peut réaliser » et « non-nuisance ». Le second est posé sans être suffisamment discuté. Après cette discussion bien des choses peuvent soudain se brouiller, un magnifique édifice vaciller.
 
 Un exemple. Quand on a commencé à construire des moteurs à explosion au XIX<sup>e</sup> siècle, on n'a pas pensé au réchauffement climatique, ce point était hors du pensable. Souvent quand on fait quelque chose, on ne sait pas si on va nuire ou ne pas nuire à plus ou moins longue échéance. Parfois même, on croit œuvrer pour le bien d'autrui tout en lui nuisant : le modèle soviétique ou, plus bêtement, les herbicides censés simplifier la vie des agriculteurs mais qui démultiplient leurs chances de cancer (et les nôtres).
-
-**Ce qui est nuisant ou non-nuisant n'est très souvent pas de l'ordre du connaissable.** Quand nous agissons, nous ne pouvons presque jamais avoir de certitude quant à la non-nuisance de nos actes dans l'espace-temps. Certaines nuisances peuvent même s'avérer bénéfiques à terme.
+ Quand nous agissons, nous ne pouvons presque jamais avoir de certitude quant à la non-nuisance de nos actes dans l'espace-temps. Certaines nuisances peuvent même s'avérer bénéfiques à terme.
 
 La nuisance est par ailleurs une notion relative comme l'a expliqué Spinoza. Le poison n'est pas nocif pour le serpent mais mortel pour ses proies. Dans bien des cas, nous ne pouvons dire ce qui est nocif ou pas pour autrui. Un gâteau le sera pour un diabètique et pas pour un osseux comme moi (*dixit* François Bon).
 
@@ -59,8 +58,7 @@ Dans ce brouillard d'incertitude, nous ne naissons pas libres et égaux. Nous ne
 ### Les quatre libertés économiques en question
 
 Une fois la liberté définie, Stéphane pose au fondement de sa TRM quatre libertés, tout aussi discutables.
-
-**Liberté 0** : L'individu est libre du choix de son système monétaire.
+ : L'individu est libre du choix de son système monétaire.
 
 Bien sûr que non. Je suis né dans un système monétaire. J'utilise l'Euro. Je ne l'ai pas choisi. Si maintenant il me déplaît, je peux en conjonction avec lui décider d'adopter d'autres systèmes pour l'abandonner peu à peu. Je ne peux que choisir de transiter vers un autre système monétaire. Si celui que j'appelle de mes vœux n'existe pas, je dois d'abord œuvrer pour son avènement. Dans cette attente la liberté 0 n'est pas ouverte.
 
@@ -71,14 +69,12 @@ L'analogie avec le logiciel libre est intéressante. Né avec les logiciels priv
 En conséquence, je me promène entre deux mondes, je prends le meilleur de chacun, je pondère, je négocie… Je vis dans une société humaine non pas dans une utopie construire sur le papier.
 
 Remarque : le tout logiciels libres serait peut-être une impasse. Aujourd'hui, l'innovation nous vient des logiciels privateurs que des logiciels libres s'efforcent de mimer (mais rien d'étonnant puisque nous payons les développeurs avec une monnaie elle-même privative).
-
-**Liberté 1** : L'individu est libre d'utiliser les ressources.
+ : L'individu est libre d'utiliser les ressources.
 
 Bien sûr que non. Nos ancêtres se sont crus capables d'utiliser sans vergogne les ressources naturelles jusqu'à ce que la finitude du monde nous saute à la figure. Cette liberté n'a été possible que par ignorance d'une nuisance à venir, ignorance qui ne peut être éliminée.
 
 Dès que nous utilisons une ressource, un risque systémique existe, qui exige discussions, concertations, vigilances et finalement prise de risque. Quand on choisit d'utiliser une ressource, on n'engage pas que soi. L'interdépendance nous lie.
-
-**Liberté 2** : L'individu est libre de produire toute valeur.
+ : L'individu est libre de produire toute valeur.
 
 Bien sûr que non. Je ne peux produire que ce dont je suis capable. Je ne peux choisir de produire que parmi les possibilités à ma disposition ce qui m'éloigne du « toute valeur ». Si j'étais aveugle, j'aurais du mal à dessiner une BD. Si j'ai envie de composer une symphonie, je dois me satisfaire de mon envie. Je ne peux même pas la composer dans mon esprit.
 
@@ -91,8 +87,7 @@ Stéphane écrit :
 Et si l'individu est incapable de « comparer conceptualisation et raisonnements anciens et nouveaux » ? Et si l'individu n'a pas de compréhension en propre ou si sa compréhension est limitée, ou biaisée par un système éducatif totalitaire ou pernicieux ? On ne peut pas écarter aussi facilement les inégalités.
 
 Nous formons sociétés. Nous sommes en mêmes temps individu et*nous*. L'individu seul en haut de son perchoir de liberté est une chimère. Une illusion née dans des esprits emportés par la fièvre de la première révolution industrielle.
-
-**Liberté 3** : L'individu est libre d'échanger « dans la monnaie ».
+ : L'individu est libre d'échanger « dans la monnaie ».
 
 Bien sûr que non. Si je suis seul dans le système monétaire que j'ai « choisi », je ne suis libre de rien du tout. Pas plus si nous ne sommes pas assez nombreux pour former société dans la nouvelle monnaie. En attendant cet avènement, je suis bien obligé d'échanger aussi dans une autre monnaie.
 

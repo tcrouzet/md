@@ -1,6 +1,6 @@
 # Si des millions de personnes m’imitent, alors nous changeons le monde
 
-Mon éditeur italien, [40K](http://www.40kbooks.com), propose à ses auteurs et à d’autres éditeurs de [réagir sur cinq tags en rapport avec le livre électronique](http://www.40kbooks.com/?p=5086). Je me suis livré à ce petit jeu. Voici mes réponses en français.<span id="more-21318"></span>
+Mon éditeur italien, [40K](http://www.40kbooks.com), propose à ses auteurs et à d’autres éditeurs de [réagir sur cinq tags en rapport avec le livre électronique](http://www.40kbooks.com/?p=5086). Je me suis livré à ce petit jeu. Voici mes réponses en français.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/02/tagebook1.jpg)Un texte électronique est bien plus qu’un livre transposé du papier à l’électronique. Imaginez un texte où la fonction de recherche est fondamentale dans la lecture. Dans ce cas, parler encore de livre n’a plus aucun sens. De toute façon, les livres papier disparaîtront très vite. J’entends souvent dire qu’un nouveau média n’a jamais fait disparaître un ancien média, la télévision n’ayant pas fait disparaître la radio par exemple. Mais ce n’est pas du tout ce que nous vivons. Dans notre cas, le média est le texte et non le papier. Nous découvrons simplement une nouvelle façon d’accéder aux textes. Tablettes en argile, papyrus, parchemins, papiers, bits… c’est une évolution logique et irréversible.
 

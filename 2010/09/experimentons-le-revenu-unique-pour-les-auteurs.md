@@ -1,8 +1,8 @@
 # Expérimentons le revenu unique pour les auteurs
 
-La loi sur le prix unique du livre avait pour but de sauver les libraires, il est temps de sauver les auteurs et les éditeurs. Alors que mon fournisseur de tomates peut me vendre ses tomates moins cher que le supermarché, je n’ai pas le droit de faire comme lui, pas le droit d’attirer mes lecteurs chez moi pour qu’ils achètent mes productions en direct, à un prix défiant toute concurrence.<span id="more-19179"></span>
+La loi sur le prix unique du livre avait pour but de sauver les libraires, il est temps de sauver les auteurs et les éditeurs. Alors que mon fournisseur de tomates peut me vendre ses tomates moins cher que le supermarché, je n’ai pas le droit de faire comme lui, pas le droit d’attirer mes lecteurs chez moi pour qu’ils achètent mes productions en direct, à un prix défiant toute concurrence.
 
-Le prix unique avait un sens à l’époque où il existait des objets uniques. Aujourd’hui, rien n’empêche les livres papiers et numériques d’être tous différents les uns des autres, par exemple en insérant de temps à autre des images fractales générées à la volée. Cet exemple excessif montre que l’ancienne loi, en plus d’être devenue stérile, <a herf="http://blog.tcrouzet.com/2010/09/07/la-fin-du-livre-unique/">n’est techniquement plus applicable</a>.
+Le prix unique avait un sens à l’époque où il existait des objets uniques. Aujourd’hui, rien n’empêche les livres papiers et numériques d’être tous différents les uns des autres, par exemple en insérant de temps à autre des images fractales générées à la volée. Cet exemple excessif montre que l’ancienne loi, en plus d’être devenue stérile, n’est techniquement plus applicable.
 
 En empêchant les auteurs et les éditeurs de vendre en direct, au prix qu'ils le désirent, elle tente de protéger la distribution. La même loi, appliquée au numérique, [comme l’envisage le Sénat](http://www.numerama.com/magazine/16754-le-senat-propose-le-prix-unique-pour-le-livre-numerique.html), aurait pour effet de renforcer plus encore les grandes plateformes au détriment des sites indépendants.
 

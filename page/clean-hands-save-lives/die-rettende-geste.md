@@ -10,8 +10,6 @@
 
 ##### **papier 12.84 €** : [Amazon.de](http://www.amazon.de/Die-rettende-Geste-German-Edition/dp/1499181590/), [Amazon.com](http://www.amazon.com/Die-rettende-Geste-German-Edition/dp/1499181590/), [CreateSpace](https://www.createspace.com/4766142).
 
-
-
 Eine revolutionäre Entwicklung hat unser aller Leben grundlegend ver- ändert, und dies nahezu unbemerkt: die alkoholische Händedesinfektion zum Schutz vor Ansteckung.
 
 Dieses Buch erzählt die einzigartige Geschichte eines weltverändernden Produkts. Professor Didier Pittet und sein Team am Universitätsklinikum Genf haben bewusst auf Patentschutz für ihre Weiterentwicklung verzichtet und diese so der Menschheit zum Geschenk gemacht. Jeder, vom Großunternehmen bis zum Buschdoktor, kann künftig das Desinfektionsmittel herstellen, das durch verbesserte Hygiene Leben retten wird.

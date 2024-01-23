@@ -1,6 +1,6 @@
 # Qu’est-ce qui n’est pas flux ?
 
-J’arrête les polémiques à deux balles et je reviens à mon sujet, [le Flux](http://blog.tcrouzet.com/tag/flux/), pour lequel [Eric Mainville](http://crisedanslesmedias.hautetfort.com/) me reproche de linker peu de gens. J’ai bien du mal à faire autrement quand presque tout le monde ne parle que des médias et des people. Je linke les rares personnes qui m’aident à penser, pas les perroquets. J’aurais pu citer [Pierre Fraser](http://theoriedestendances.com/) par exemple mais j’ai pas encore lu son livre.<span id="more-13630"></span>
+J’arrête les polémiques à deux balles et je reviens à mon sujet, [le Flux](http://blog.tcrouzet.com/tag/flux/), pour lequel [Eric Mainville](http://crisedanslesmedias.hautetfort.com/) me reproche de linker peu de gens. J’ai bien du mal à faire autrement quand presque tout le monde ne parle que des médias et des people. Je linke les rares personnes qui m’aident à penser, pas les perroquets. J’aurais pu citer [Pierre Fraser](http://theoriedestendances.com/) par exemple mais j’ai pas encore lu son livre.
 
 Où j’en suis ? J’ai identifié quatre formes de flux.
 

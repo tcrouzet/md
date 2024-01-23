@@ -1,6 +1,6 @@
 # Lenovo Yoga 2 Pro plutôt stressant
 
-Ce matin alors [que je suis en voyage en Italie](http://blog.tcrouzet.com/tag/basilicate/), mon nouveau portable magique sort du mode veille avec un magnifique trait noir au milieu de l'écran. Un reboot n'y change rien. [Une ligne de pixels est morte](http://support.lenovo.com/en_US/research/hints-or-tips/detail.page?DocID=HT035306).<span id="more-33900"></span>
+Ce matin alors [que je suis en voyage en Italie](http://blog.tcrouzet.com/tag/basilicate/), mon nouveau portable magique sort du mode veille avec un magnifique trait noir au milieu de l'écran. Un reboot n'y change rien. [Une ligne de pixels est morte](http://support.lenovo.com/en_US/research/hints-or-tips/detail.page?DocID=HT035306).
 
 ![Yoga 2 Pro dead pixels en line](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/12/yogastress.jpg)
 

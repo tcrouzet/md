@@ -1,6 +1,6 @@
 # Bookstagram, arnaque ou pas ?
 
-Après un an en Floride loin de mes amis auteurs et éditeurs, puis quelques semaines bloqué chez moi par [ma fracture du col du fémur](https://tcrouzet.com/2019/08/28/un-auteur-se-fracture-le-femur-pour-faire-parler-de-lui/), j’ai fini par repointer le bout de mon nez en librairie et en salon. Et là, surprise, tout le monde parlait d’Instagram.<span id="more-52832"></span>
+Après un an en Floride loin de mes amis auteurs et éditeurs, puis quelques semaines bloqué chez moi par [ma fracture du col du fémur](https://tcrouzet.com/2019/08/28/un-auteur-se-fracture-le-femur-pour-faire-parler-de-lui/), j’ai fini par repointer le bout de mon nez en librairie et en salon. Et là, surprise, tout le monde parlait d’Instagram.
 
 Les auteurs se vantaient d’avoir été bookstagramés, les libraires photographiaient leurs coups de cœur, les éditeurs voyaient leurs comptes de plus en plus suivis, et ceux qui n’avaient pas encore pris le train se disaient qu’ils n’avaient plus d’autre choix. Tout cela m’a rappelé le Twitter de la fin des années 2000.
 

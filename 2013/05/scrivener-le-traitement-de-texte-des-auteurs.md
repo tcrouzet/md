@@ -1,6 +1,6 @@
 # Scrivener : le traitement de texte des auteurs
 
-Je suis fidèle à Word depuis trente ans (j’ai juste retrouvé une photo compromettante de 1994). C’est mon stylo, bourré de macros. Mais cet outil n’évolue plus dans un monde technologique à l’évolution exponentielle. Il est donc largué. Depuis longtemps je n’attends plus ses nouvelles versions. Résultat : il n’est plus incontournable pour qui pratique l’écriture créative.<span id="more-32990"></span>
+Je suis fidèle à Word depuis trente ans (j’ai juste retrouvé une photo compromettante de 1994). C’est mon stylo, bourré de macros. Mais cet outil n’évolue plus dans un monde technologique à l’évolution exponentielle. Il est donc largué. Depuis longtemps je n’attends plus ses nouvelles versions. Résultat : il n’est plus incontournable pour qui pratique l’écriture créative.
 
 ![1994 dans PC Expert](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/05/tc1994.jpg)
 

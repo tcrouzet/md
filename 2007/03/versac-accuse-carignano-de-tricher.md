@@ -8,8 +8,6 @@ En fait, je m’en suis peu servi, justement parce que la net politique n'est pa
 
 Mon robot souffre des faiblesses de technorati. J’aurais aimé utiliser d’autres services d’analyse de la blogosphère mais technorati est le seul à proposer un API, donc le seul qui peut être intégré dans un outil comme le mien (si vous connaissez d’autres API je les intègre tout de suite).
 
-**Le référencement est un art**
-
 Maintenant est-ce que [Carignano](http://carignano.blog.20minutes.fr/) ou [Page2007](http://www.page2007.com/) trichent comme le suppose Versac ? Est-ce tricher que vouloir être mieux référencé ? Cette question doit être étendue à bien d’autres sites, notamment à ceux des partis qui emploient les mêmes techniques. Sur le web, merci Google, les liens entrants sont le meilleur moyen de récupérer du trafic. « Plus tu as de liens, plus tu as de visiteurs. » Tous les sites professionnels consacrent des fortunes pour récupérer des liens.
 
 On ne peut pas accuser les blogueurs de jouer au même jeu. Sur le web, le référencement est un outil marketing comme un autre. Si on veut attirer des visiteurs, c’est d’ailleurs la meilleure méthode.
@@ -33,8 +31,6 @@ Pour Carigano, je ne vois pas la raison de ce décalage. Pire, Google voit moins
 2. Est-ce que technorati oublie de supprimer les liens des sites qui disparaissent (ce que fait google) ?
 
 En tout cas, cette faiblesse de la visibilité google de Carignano justifie la faiblesse du trafic de son blog. Je n'ai aucune preuve que Carignano triche.
-
-**Comment mieux mesurer l’influence**
 
 Maintenant Versac pose une bonne question. Pour mesurer l’influence, comptabiliser les liens entrants ne suffit pas. Les outils comme [Blogpulse](http://www.blogpulse.com) ou [Google blogsearch](http://blogsearch.google.com) seraient en théorie plus judicieux mais je ne les trouve pas très fiables.
 

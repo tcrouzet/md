@@ -2,8 +2,6 @@
 
 > « J’ai vu mon propre témoignage \[au procès Clearstream\] résumé sur Twitter. C’était nul, déclare [Edwy Plenel sur Canal+ (séquence 3, 10:50).](http://www.canalplus.fr/tous-les-programmes/les-emissions/pid2244-c-p-edition-speciale.html) »
 
-<span id="more-10976"></span>
-
 Qui est nul d’après vous ? Ceux qui empêchent l’information d’être diffusée ou ceux qui la diffusent avec les moyens du bord ? En Iran est-ce la censure gouvernementale ou les manifestants démocrates ?
 
 J’ai une petite idée de qui est nul. Un patron de presse incapable de faire décoller son journal sur Internet et qui voit des choses plus intéressantes s’écouler de toutes parts sur Twitter. L’information est devenue liquide, elle n’appartient plus à personne, Plenel ne l’a pas compris. Il tente de la maintenir dans [le coffre fort payant de Mediapart](http://blog.tcrouzet.com/2008/06/01/mediapart-mort-ne/), se faisant il la tue en lui refusant de se confronter aux autres informations dans l’espace informationnel.

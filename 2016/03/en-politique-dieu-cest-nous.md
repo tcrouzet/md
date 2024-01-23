@@ -28,6 +28,8 @@ Parler de ces choses, c'est faire de la politique, peut-être bien plus radicale
 
 ![Passons au-delà du rideau de fer.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/lyon.jpg)
 
+Passons au-delà du rideau de fer.
+
 
 
 Tags: MRDB, Politique, une

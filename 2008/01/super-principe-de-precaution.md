@@ -1,6 +1,6 @@
 # Super-principe de précaution
 
-Entre vos commentaires et quelques brefs mails échangés avec [Nassim Nicolas Taleb](http://blog.tcrouzet.com/2007/09/03/conversation-avec-taleb/) après la publication de [mon billet sur le GIEC](http://blog.tcrouzet.com/2008/01/25/je-ne-suis-pas-un-revisionniste/), j’ai peut être réussi à clarifier ma position.<span id="more-741"></span>
+Entre vos commentaires et quelques brefs mails échangés avec [Nassim Nicolas Taleb](http://blog.tcrouzet.com/2007/09/03/conversation-avec-taleb/) après la publication de [mon billet sur le GIEC](http://blog.tcrouzet.com/2008/01/25/je-ne-suis-pas-un-revisionniste/), j’ai peut être réussi à clarifier ma position.
 
 ### Point de départ
 

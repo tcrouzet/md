@@ -1,6 +1,6 @@
 # Rêverie biterroise
 
-La ville et l'ombre, l'ombre de ses rues, de ses murs, de ses monuments, qui me force à changer de trottoir, parfois de direction, à la recherche de la lumière douce de l'hiver. Je l'aime trop cette lumière pour vivre dans la ville, j’y suis toujours dépaysé faute de perspectives fastueuses.<span id="more-34486"></span>
+La ville et l'ombre, l'ombre de ses rues, de ses murs, de ses monuments, qui me force à changer de trottoir, parfois de direction, à la recherche de la lumière douce de l'hiver. Je l'aime trop cette lumière pour vivre dans la ville, j’y suis toujours dépaysé faute de perspectives fastueuses.
 
 Je n'éprouve pas ce sentiment à Paris ou à Londres. Peut-être parce que la lumière du Nord ne marque pas les ombres qui y sont moins radicales, moins profondes, moins tristes. Dans le Midi, l'ombre m'avale et la ville me repousse vers les montagnes ou le littoral.
 
@@ -25,6 +25,8 @@ Je dois me forcer à quitter le banc. Je vais jusqu'à la cathédrale et me plan
 [Mon ami Antoine est mort.](http://blog.tcrouzet.com/2014/02/12/vivre-jusquau-bout/) Il aurait vécu plus longtemps s'il avait eu plus de lecteurs. J'en suis sûr. À un moment donné, nous avons besoin de l'énergie du dehors. Sans elle, nous renonçons. Il est d'ailleurs connu que les artistes à succès vivent plus vieux que les autres. En moyenne, bien sûr. Un Nobel, ça vaut quelques années de sursis. Nous sommes de bien étranges créatures. Oublieux que tout s'arrête. La curiosité s'éteint. Et si elle ne le fait pas d'elle-même, un grand coup sur la tête lui impose le silence. Alors, jouir, ne rien projeter. Pas question de prendre, d’emmagasiner, il ne reste qu'à savourer, immédiatement. Penser à cette absurdité provoque en moi le même trouble que penser à l'infini. Ce concept doit être absurde.
 
 ![Le Haut Languedoc vu de Béziers](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/02/beziers.jpg)
+
+Le Haut Languedoc vu de Béziers
 
 
 

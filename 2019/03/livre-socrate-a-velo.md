@@ -1,6 +1,6 @@
 # Livre : Socrate à vélo
 
-Quand on m’a pointé vers [cette fable](https://www.amazon.fr/Socrate-%C3%A0-v%C3%A9lo-France-philosophes/dp/2246815754/), je n’avais jamais entendu parler de son auteur, [Guillaume Martin](https://fr.wikipedia.org/wiki/Guillaume_Martin), un coureur pro de 25 ans, classé vingt et unième du tour 2018. J’ai acheté son bouquin parce que je lis presque tout ce qui touche au vélo depuis que je me suis lancé dans [*Born to Bike*](https://tcrouzet.com/borntobike/). Je ne pouvais qu’être attiré par l’approche philosophique.<span id="more-51218"></span>
+Quand on m’a pointé vers [cette fable](https://www.amazon.fr/Socrate-%C3%A0-v%C3%A9lo-France-philosophes/dp/2246815754/), je n’avais jamais entendu parler de son auteur, [Guillaume Martin](https://fr.wikipedia.org/wiki/Guillaume_Martin), un coureur pro de 25 ans, classé vingt et unième du tour 2018. J’ai acheté son bouquin parce que je lis presque tout ce qui touche au vélo depuis que je me suis lancé dans [*Born to Bike*](https://tcrouzet.com/borntobike/). Je ne pouvais qu’être attiré par l’approche philosophique.
 
 ![Socrate à vélo](https://tcrouzet.com/images_tc/2019/03/socrate-311x450.jpg)
 

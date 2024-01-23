@@ -1,6 +1,6 @@
 # Ératosthène de Cyrène
 
-Pour comprendre son époque, il faut parfois prendre du recul (ce que je fais peu en ce moment avec cette maudite campagne présidentielle). Comme je ne peux voyager dans le futur, j’essaie de regarder en arrière vers des époques qui auraient pu ressembler à la notre et, au cœur de ces époques, je m’intéresse aux hommes qui ont réussi les traverser avec bonheur.<span id="more-413"></span>
+Pour comprendre son époque, il faut parfois prendre du recul (ce que je fais peu en ce moment avec cette maudite campagne présidentielle). Comme je ne peux voyager dans le futur, j’essaie de regarder en arrière vers des époques qui auraient pu ressembler à la notre et, au cœur de ces époques, je m’intéresse aux hommes qui ont réussi les traverser avec bonheur.
 
 Notre époque me semble caractérisée par une grande convergence : tous les savoirs, toutes les traditions, toutes les politiques se rencontrent pour diverger vers quelque chose du neuf. Nous vivons un big bang culturel qui, au passage, détruit tous les repères.
 

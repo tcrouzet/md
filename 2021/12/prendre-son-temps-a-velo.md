@@ -4,7 +4,7 @@
 
 ### 8h, 30 décembre 2021
 
-Je petit-déjeune. L’étang est rouge, promesse d’une journée estivale en hiver. J’ai envie de la savourer, de la transformer en expérience. De partir de chez moi et d’y revenir, mais en musardant sur les pistes gravel, en vagabondant comme si je m’élançais pour un long trip bikepacking, en m’arrêtant aussi souvent que l’envie s’en fera sentir. À la moindre idée, à la moindre image, pour me perdre en moi-même et dans les paysages du Midi.<span id="more-61134"></span>
+Je petit-déjeune. L’étang est rouge, promesse d’une journée estivale en hiver. J’ai envie de la savourer, de la transformer en expérience. De partir de chez moi et d’y revenir, mais en musardant sur les pistes gravel, en vagabondant comme si je m’élançais pour un long trip bikepacking, en m’arrêtant aussi souvent que l’envie s’en fera sentir. À la moindre idée, à la moindre image, pour me perdre en moi-même et dans les paysages du Midi.
 
 D’habitude, j’écris mes récits à vélo de mémoire. Cette fois, je reviens au temps réel comme [dans mes carnets](https://tcrouzet.com/tag/carnet-de-route?swcfpc=1). Je ne veux pas élaborer, fictionnaliser, réédifier, mais improviser, prendre ce qui surviendra, dans le désordre de la vie.
 

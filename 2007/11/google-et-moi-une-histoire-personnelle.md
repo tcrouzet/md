@@ -2,7 +2,7 @@
 
 ![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/11/google-et-moi.gif)
 
-La théorie découle presque toujours de l’expérience. Ma philosophie n’est rien d’autre que ma vie. J’éprouve le besoin de vous raconter un petit bout de cette vie pour relativiser [ce qui m’arrive avec Google](http://blog.tcrouzet.com/2007/11/19/google-hegemonique/).<span id="more-662"></span>
+La théorie découle presque toujours de l’expérience. Ma philosophie n’est rien d’autre que ma vie. J’éprouve le besoin de vous raconter un petit bout de cette vie pour relativiser [ce qui m’arrive avec Google](http://blog.tcrouzet.com/2007/11/19/google-hegemonique/).
 
 Lorsque j’ai quitté la presse en 1994, je me suis juré de maximiser mon temps de liberté. J’ai décidé de gagner ce dont j’avais besoin pour vivre et de consacrer le reste de mon temps à l’écriture. En quelque sorte, j’ai renoncé à la croissance, au toujours plus. Certes, j’ai parfois des goûts de luxe et, si mon minimal est supérieur à celui de beaucoup de gens, je n’ai jamais cherché à dépasser cette limite auto-imposée. Je me suis simplement positionné à la place qui me permettait de mener une vie d’écrivain.
 

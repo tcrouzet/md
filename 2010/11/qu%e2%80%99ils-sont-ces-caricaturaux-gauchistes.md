@@ -1,6 +1,6 @@
 # Qu’ils sont caricaturaux ces gauchistes
 
-Pour ceux qui ne me lisent pas d’habitude, sachez que des lecteurs de [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/) m’ont traité de marxiste et m’ont comparé à Daniel Mermet. Je serais peut-être moi aussi un dangereux gauchiste, mais très vite quelqu’un est là comme [Penser BiBi](http://blog.tcrouzet.com/2010/11/06/ils-manifestent-pour-rien/#comment-85201) pour tempérer et me traiter de droitiste, voire de sale ultralibéral suppôt du capitalisme.<span id="more-20244"></span>
+Pour ceux qui ne me lisent pas d’habitude, sachez que des lecteurs de [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/) m’ont traité de marxiste et m’ont comparé à Daniel Mermet. Je serais peut-être moi aussi un dangereux gauchiste, mais très vite quelqu’un est là comme [Penser BiBi](http://blog.tcrouzet.com/2010/11/06/ils-manifestent-pour-rien/#comment-85201) pour tempérer et me traiter de droitiste, voire de sale ultralibéral suppôt du capitalisme.
 
 Je trouve tout cela rassurant. Les frontières seraient-elles en train de se flouter ? Serions-nous en train enfin de parler de politique et non de telle ou telle idéologie désuète ?
 

@@ -1,6 +1,6 @@
 # La démerdocratie
 
-J’ai l’idée d’écrire un nouvel essai en vue de 2012. Alors que tout le monde célèbrera le monde politique, j’aimerais en montrer la vacuité, en tentant une synthèse de mes essais précédents et de ce blog.<span id="more-20931"></span>
+J’ai l’idée d’écrire un nouvel essai en vue de 2012. Alors que tout le monde célèbrera le monde politique, j’aimerais en montrer la vacuité, en tentant une synthèse de mes essais précédents et de ce blog.
 
 ### Quatrième de couverture
 

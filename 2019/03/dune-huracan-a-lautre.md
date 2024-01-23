@@ -1,6 +1,6 @@
 # D&#8217;une HuRaCan à l&#8217;autre
 
-Quand j’ai décidé de refaire une [HuRaCan](https://tcrouzet.com/2019/02/08/satori-a-lake-lindsay/) dans le sens antihoraire, je me suis dit que je n’aurais rien à raconter. Je me trompais. On peut refaire mille fois une route et toujours y trouver du plaisir, y éprouver des sensations différentes, y voir des choses inattendues, y faire des rencontres surprenantes, sous des ciels changeants et des conditions nouvelles.<span id="more-51078"></span>
+Quand j’ai décidé de refaire une [HuRaCan](https://tcrouzet.com/2019/02/08/satori-a-lake-lindsay/) dans le sens antihoraire, je me suis dit que je n’aurais rien à raconter. Je me trompais. On peut refaire mille fois une route et toujours y trouver du plaisir, y éprouver des sensations différentes, y voir des choses inattendues, y faire des rencontres surprenantes, sous des ciels changeants et des conditions nouvelles.
 
 Tout commence par une invitation de Sasha, sur Facebook. De lui, je ne sais rien, sinon des bribes trouvées en ligne : ce kiné floridien de 50 ans vit à Williamsburg, au sud d’Orlando. Pas de compte Strava. Impossible de savoir s’il roule beaucoup ou non, mais il veut effectuer l’HuRaCan en trois jours. Nous suivrons un trajet qui évite le terrible Swamp Utter et qui sera plus court de 40 km, mais je trouve ce projet ambitieux, surtout quand Sasha parle de parcourir d’un trait les 280 premiers kilomètres sur les 570 totaux.
 

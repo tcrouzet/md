@@ -1,6 +1,6 @@
 # L’affaire Wikileaks nous apprend que les entrepreneurs sont des imposteurs
 
-À quoi bon d’une innovation technologique si elle ne s’accompagne pas d’une innovation sociale ? Imaginez. Si au temps de l’esclavage on avait inventé une pilule pour prolonger la vie des esclaves de vingt ans, qui se serait félicité ? Les entrepreneurs ou les esclaves ? Pas facile de répondre. En tous, cas une chose aurait été sûre, les esclaves en auraient pris pour vingt ans de plus.<span id="more-20822"></span>
+À quoi bon d’une innovation technologique si elle ne s’accompagne pas d’une innovation sociale ? Imaginez. Si au temps de l’esclavage on avait inventé une pilule pour prolonger la vie des esclaves de vingt ans, qui se serait félicité ? Les entrepreneurs ou les esclaves ? Pas facile de répondre. En tous, cas une chose aurait été sûre, les esclaves en auraient pris pour vingt ans de plus.
 
 Tous autant qu’ils sont les entrepreneurs nous promettent un nouveau monde. Pour cela, dès qu’ils ont une idée, ils recherchent des investisseurs, donc font appel au capital, puis très vite ils embauchent des salariés, ces nouveaux esclaves, et se félicitent de leur délivrer tous les mois des bulletins de salaire, la chaîne par laquelle « je t’attache ». Alors quand ils se rassemblent pour parler de leur vision du monde, fuyez loin. Ils vont vous rabâcher la vision du monde de leurs trisaïeuls.
 

@@ -1,6 +1,6 @@
 # Sommes-nous moins propres que les Allemands ?
 
-Nous autre Français aimons nous comparer aux Allemands, une vieille histoire. Nous lorgnons toujours de l’autre côté du Rhin pour voir ce qui y serait plus efficace. Mais sommes-nous capables de tirer profit de nos analyses ?<span id="more-56364"></span>
+Nous autre Français aimons nous comparer aux Allemands, une vieille histoire. Nous lorgnons toujours de l’autre côté du Rhin pour voir ce qui y serait plus efficace. Mais sommes-nous capables de tirer profit de nos analyses ?
 
 S’il existe une maladie virale où les mains jouent un rôle prépondérant dans la transmission, c’est la gastro-entérite. Les rotavirus, adénovirus, norovirus et autres astrovirus qui la provoquent se transmettent par la salive et les selles, donc par contact. Direct quand une personne en touche une autre ou indirect quand les virus transitent par des surfaces. Chaque hiver, les cas redoublent, avant une accalmie au printemps et durant l’été, puis une reprise à l’automne.
 

@@ -1,6 +1,6 @@
 # Attali n’a pas prévu le Flux
 
-Mon nouveau livre ayant pris une tournure très nomade, j’ai lu *L’Homme nomade* d’Attali. Les sept premières parties racontent notre histoire du point de vue des nomades. C’est une collection de dates, de noms de tribu, une longue liste de copier-coller de Wikipedia. Un survol sans profondeur qui a le mérite d’éveiller parfois la curiosité, jamais de l’étancher (tout cela sent le travail de quelques nègres).<span id="more-12379"></span>
+Mon nouveau livre ayant pris une tournure très nomade, j’ai lu *L’Homme nomade* d’Attali. Les sept premières parties racontent notre histoire du point de vue des nomades. C’est une collection de dates, de noms de tribu, une longue liste de copier-coller de Wikipedia. Un survol sans profondeur qui a le mérite d’éveiller parfois la curiosité, jamais de l’étancher (tout cela sent le travail de quelques nègres).
 
 Attali a repris l’idée d’une *Alternative Nomade* de Chatwin sans lui apporter aucun crédit. Je suis même pas sûr qu’il l’ait lu. Il liste en passant, avec d’autres, sans s’arrêter, pressé.
 

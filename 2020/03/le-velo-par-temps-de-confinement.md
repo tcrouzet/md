@@ -1,6 +1,6 @@
 # Le vélo par temps de confinement
 
-Mardi après-midi, il faisait doux, mais gris. On était au premier jour du confinement. La veille au soir, le Président avait dit que nous pourrions continuer à sortir pour faire de l’exercice, du moment que nous respections les mesures de distanciation sociale. J’ai décidé de faire un tour à vélo.<span id="more-53630"></span>
+Mardi après-midi, il faisait doux, mais gris. On était au premier jour du confinement. La veille au soir, le Président avait dit que nous pourrions continuer à sortir pour faire de l’exercice, du moment que nous respections les mesures de distanciation sociale. J’ai décidé de faire un tour à vélo.
 
 J’ai téléchargé [l’attestation de déplacement dérogatoire](https://www.service-public.fr/particuliers/vosdroits/R55781) qui m’a conforté dans ma décision. J’ai coché la case « déplacements brefs, à proximité du domicile, liés à l’activité physique individuelle des personnes, à l’exclusion de toute pratique sportive collective, et aux besoins des animaux de compagnie. » Et je suis parti.
 

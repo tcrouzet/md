@@ -1,6 +1,6 @@
 # L&#8217;île dans la plaine
 
-Je ne suis pas venu sur la grande place lilloise depuis vingt-deux ans. J'avais à l'époque garé ma voiture derrière le Furet du Nord, devant leur sortie de service. Le lendemain matin en quittant l'hôtel, j'avais dû la récupérer à la fourrière.<span id="more-33494"></span>
+Je ne suis pas venu sur la grande place lilloise depuis vingt-deux ans. J'avais à l'époque garé ma voiture derrière le Furet du Nord, devant leur sortie de service. Le lendemain matin en quittant l'hôtel, j'avais dû la récupérer à la fourrière.
 
 Une chose attire mon regard : les panneaux happy hours devant tous les cafés. Les même signaux désagréables m'avaient alerté hier sur Paris, comme s'ils s'étaient soudain démultipliés. Des heures seraient plus heureuses que d'autres. Des choses à faire à un moment plutôt qu'à un autre. Et je m'oppose avec méthode à ces dictats. Je m'installe en terrasse, puis me relève.
 

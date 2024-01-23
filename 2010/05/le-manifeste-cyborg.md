@@ -1,6 +1,6 @@
 # Le manifeste cyborg
 
-Aujourd’hui encore, la machine seule n’est pas plus intelligente que l’homme. L’homme n’est pas plus intelligent que la machine, il perd souvent contre elle aux échecs et dans de nombreuses situations. En revanche, [l’homme aidé par la machine est imbattable](http://blog.tcrouzet.com/2010/05/06/edition-au-temps-des-cyborgs/). L’humanité l’a compris depuis longtemps en se lançant dans la course à la technologie.<span id="more-16904"></span>
+Aujourd’hui encore, la machine seule n’est pas plus intelligente que l’homme. L’homme n’est pas plus intelligent que la machine, il perd souvent contre elle aux échecs et dans de nombreuses situations. En revanche, [l’homme aidé par la machine est imbattable](http://blog.tcrouzet.com/2010/05/06/edition-au-temps-des-cyborgs/). L’humanité l’a compris depuis longtemps en se lançant dans la course à la technologie.
 
 Dans le domaine artistique, les plasticiens adoptent cette voie. Utilisation de pigments de plus en plus perfectionnés. Photographie. Cinéma. Photoshop. Les musiciens n’ont cessé d’inventer de nouveaux instruments. Violon. Guitare électrique. Synthétiseur. Sampleur.
 

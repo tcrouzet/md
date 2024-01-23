@@ -2,7 +2,7 @@
 
 Plus nous vieillissons, plus nous voyons des amis disparaître. C’est une loi inéluctable que je n’accepte pas mais que je subis comme nous tous. J’aime le rêve des transhumanistes, cet espoir d’une longue vie, mais je ne peux m’empêcher de les maudire chaque fois qu’un décès me touche de près. La théorie s’effondre au contact de la réalité. Nous avons beau vivre un progrès exponentiel, nos vies ne se heurtent pas moins aux anciennes barrières.
 
-Le premier avril, j’étais à Paris en train de déjeuner avec [Narvic](http://novovision.fr) quand un SMS a réveillé mon iPhone. « Claude s’est suicidé, m’écrivait ma femme. » J’ai eu un blanc, une césure. J’ai échangé quelques mots avec ma femme, puis j’ai continué à parler avec Narvic, peut-être une fois de plus persuadé que le partage est ce que nous avons de plus précieux et que tout le reste est illusoire.<span id="more-5481"></span>
+Le premier avril, j’étais à Paris en train de déjeuner avec [Narvic](http://novovision.fr) quand un SMS a réveillé mon iPhone. « Claude s’est suicidé, m’écrivait ma femme. » J’ai eu un blanc, une césure. J’ai échangé quelques mots avec ma femme, puis j’ai continué à parler avec Narvic, peut-être une fois de plus persuadé que le partage est ce que nous avons de plus précieux et que tout le reste est illusoire.
 
 Pas une seconde, je n’ai pensé à une blague du premier avril. Depuis le mois d’octobre, j’avais des nouvelles régulières de Claude par Rémi et je savais qu’il luttait contre un cancer. Quand il a sentit qu’il ne pourrait plus bientôt être lui-même, il a préféré s’en aller pour ne pas s’imposer et imposer à sa femme et à son fils de seize ans le spectacle de sa déchéance.
 

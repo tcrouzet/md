@@ -1,6 +1,6 @@
 # Le petit livre de la révolution
 
-La célèbre phrase de Gandhi « Soyez le changement que vous voulez voir dans le monde. » peut paraître abstraite, voire idéaliste ou même utopiste. En 1953, avec *L’homme qui plantait des arbres*, Jean Giono lui associa un manuel pratique.<span id="more-18110"></span>
+La célèbre phrase de Gandhi « Soyez le changement que vous voulez voir dans le monde. » peut paraître abstraite, voire idéaliste ou même utopiste. En 1953, avec *L’homme qui plantait des arbres*, Jean Giono lui associa un manuel pratique.
 
 ![L'homme qui plante des arbres](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/07/couv1600-400x611.png)
 

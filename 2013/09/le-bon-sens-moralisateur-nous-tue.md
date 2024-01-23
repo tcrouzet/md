@@ -1,6 +1,6 @@
 # Le bon sens moralisateur nous tue
 
-[Suite à ma note sur le nouveau Kindle, un commentateur m’écrit](http://blog.tcrouzet.com/2013/09/03/jai-reve-le-nouveau-kindle-paperwhite-amazon-la-cree/) : « Pour une simple question de confort de lecture vous vous apprêtez à cautionner une multinationale nord-américaine qui n’hésite pas à engager des nazis en Allemagne pour encadrer du personnel sous-payé. \[…\] Permettez-moi de trouver cela indécent. »<span id="more-33326"></span>
+[Suite à ma note sur le nouveau Kindle, un commentateur m’écrit](http://blog.tcrouzet.com/2013/09/03/jai-reve-le-nouveau-kindle-paperwhite-amazon-la-cree/) : « Pour une simple question de confort de lecture vous vous apprêtez à cautionner une multinationale nord-américaine qui n’hésite pas à engager des nazis en Allemagne pour encadrer du personnel sous-payé. \[…\] Permettez-moi de trouver cela indécent. »
 
 J’en ai marre des déraillements de la pensée. Des priorités qui dans notre société perdent les pédales. Nous vivons dans un pays qui entretient des guerres ou aimerait ouvrir de nouveaux fronts pour faire oublier l’indigence intellectuelle de son gouvernement. C’est pas indécent ? Il ne sera plus question de sous-payer. Il est question depuis longtemps de morts évitables et qui auraient dû l’être depuis longtemps.
 

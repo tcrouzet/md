@@ -1,6 +1,6 @@
 # Bikepacking dans la tourmente
 
-J’ai rêvé d’un [grand tour de l’Hérault, ou 727, en septembre 2019](https://tcrouzet.com/gth/) alors que j’étais alité après [ma fracture du col du fémur](https://tcrouzet.com/2019/08/28/un-auteur-se-fracture-le-femur-pour-faire-parler-de-lui/). Nous étions une douzaine prêts pour le départ fin avril 2020, puis le covid en a voulu autrement, puis j’ai eu trop de boulot et une fenêtre ne s’est ouverte qu’autour du dernier week-end de septembre 2020, après entre-temps plusieurs séances de reconnaissances.<span id="more-55216"></span>
+J’ai rêvé d’un [grand tour de l’Hérault, ou 727, en septembre 2019](https://tcrouzet.com/gth/) alors que j’étais alité après [ma fracture du col du fémur](https://tcrouzet.com/2019/08/28/un-auteur-se-fracture-le-femur-pour-faire-parler-de-lui/). Nous étions une douzaine prêts pour le départ fin avril 2020, puis le covid en a voulu autrement, puis j’ai eu trop de boulot et une fenêtre ne s’est ouverte qu’autour du dernier week-end de septembre 2020, après entre-temps plusieurs séances de reconnaissances.
 
 Nous devions partir à six, puis finalement nous nous sommes retrouvés à deux, à cause des aléas professionnels des uns et des autres, et aussi de la météo capricieuse, quelque peu intimidante. De mémoire d’Héraultais, fin septembre est lumineux, avec des températures douces, éventuellement un épisode cévenol à éviter.
 

@@ -1,6 +1,6 @@
 # Optimiser Word pour les auteurs
 
-Peu d’auteurs Français se préoccupent autant de leurs outils de travail que [David Bosman](href="http://davidbosman.fr/blog/). Sa réflexion stimule la mienne comme au bon vieux temps de la blogosphère rayonnante.<span id="more-33619"></span>
+Peu d’auteurs Français se préoccupent autant de leurs outils de travail que [David Bosman](href="http://davidbosman.fr/blog/). Sa réflexion stimule la mienne comme au bon vieux temps de la blogosphère rayonnante.
 
 Comme David le remarque, [un certain snobisme pousse beaucoup d’auteurs à dénigrer Word.](http://davidbosman.fr/blog/2013/10/30/pourquoi-word-jai-du-mal-a-le-comprendre/) Trop lourd. Pensé pour la bureautique et non pas pour l’écriture créative. Interface encombrée. Tout cela est vrai, sans être une raison suffisante pour renoncer à Word.
 

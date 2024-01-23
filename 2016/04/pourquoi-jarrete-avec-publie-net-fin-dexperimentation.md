@@ -1,6 +1,6 @@
 # Pourquoi j’arrête avec publie.net : fin d’expérimentation
 
-Rien de plus classique que la rupture entre un auteur et un éditeur. Une histoire si banale qu’elle ne mérite pas d’être racontée. Je ne le fais que parce que quelque chose ne tourne pas rond dans la planète ebook.<span id="more-43898"></span>
+Rien de plus classique que la rupture entre un auteur et un éditeur. Une histoire si banale qu’elle ne mérite pas d’être racontée. Je ne le fais que parce que quelque chose ne tourne pas rond dans la planète ebook.
 
 J’ai publié mes premiers textes chez publie.net en 2010 à l’invitation de François Bon. Nous avions l’espoir de changer en profondeur l’édition, de nous regrouper, de créer une sorte d’école. Nous n’avons jamais formalisé ce souhait par un manifeste, il était néanmoins en nous tous, surtout lors des [rencontres d’Ouessant](http://tcrouzet.com/2010/08/24/l%E2%80%99archipel-de-la-litterature-numerique/). Publier pour publier ne nous motivait pas, puisque nous pouvions déjà le faire de notre côté ou par ailleurs, mais le faire ensemble donnait plus de poids à chacun de nos textes pris individuellement. Nous formions une bande désordonnée, une espèce de horde sauvage en marge de l’édition traditionnelle.
 

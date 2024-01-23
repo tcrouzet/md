@@ -1,6 +1,6 @@
 # Lettre à un gouvernement stupide
 
-Je ne voulais pas écrire, faire une pause estivale, me consacrer au bricolage… mais comme je bricole, je prends la voiture pour faire des courses et j’écoute France Info. Deux fois en trois jours, nos élus m’ont fait bondir.<span id="more-36340"></span>
+Je ne voulais pas écrire, faire une pause estivale, me consacrer au bricolage… mais comme je bricole, je prends la voiture pour faire des courses et j’écoute France Info. Deux fois en trois jours, nos élus m’ont fait bondir.
 
 Tout d’abord, le Président lui-même, qui dans [son discours à la Conférence sociale](http://www.elysee.fr/declarations/article/discours-a-l-occasion-de-la-grande-conference-sociale-pour-l-emploi/) a répété à plus soif le mot « croissance ». Je n’ai cessé de penser depuis au regretté [Jean Véronis](http://fr.wikipedia.org/wiki/Jean_V%C3%A9ronis) qui se serait fait un plaisir de décrypter les intentions cachées à l’aide de ses statistiques. Et j’écris donc pour Jean. Sans avoir son talent, je viens de faire une recherche dans le discours : verdict 11 citations de « croissance », 11 appels à plus de PIB, 11 aveux d’impuissance, d’ignorance, de bêtise, 11 mensonges, 11 insultes, 11 raisons qui font de Hollande un nain dans l’Histoire, un moins que rien et même un dangereux écervelé.
 
@@ -17,6 +17,8 @@ Notez que [je ne suis pas décroissant](http://blog.tcrouzet.com/tag/decroissanc
 Non, je ne suis pas utopiste. Votre réalisme décadent nous précipite à notre perte. C’est évident pour tout le monde sauf pour vous. C’est inquiétant, d’autant que vos adversaires politiques ne valent pas mieux que vous. La violence est là parce que vous en préparez depuis longtemps les conditions de possibilité.
 
 ![Ce guerrier de la croissance nous prépare à la violence.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/hollande.jpg)
+
+Ce guerrier de la croissance nous prépare à la violence.
 
 
 

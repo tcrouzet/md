@@ -1,6 +1,6 @@
 # La règle du jeu
 
-Quand quelqu’un vient chez moi et que nous ne nous comprenons pas, nous nous installons tous les deux sur la terrasse devant l’étang et nous discutons jusqu’à comprendre où ça coince, nous déterminons si nous pouvons évoluer, si nous pouvons malgré tout rester amis. Personne ne vient chez moi pour m’insulter, déverser sa haine, ça ne se fait tout simplement pas.<span id="more-17871"></span>
+Quand quelqu’un vient chez moi et que nous ne nous comprenons pas, nous nous installons tous les deux sur la terrasse devant l’étang et nous discutons jusqu’à comprendre où ça coince, nous déterminons si nous pouvons évoluer, si nous pouvons malgré tout rester amis. Personne ne vient chez moi pour m’insulter, déverser sa haine, ça ne se fait tout simplement pas.
 
 J’ai entrepris depuis la publication du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) le projet de vivre dans la connexion, de montrer que cette façon de vivre me rendait plus heureux, avec le bénéfice de m’éloigner du consumérisme. Je vis pour les liens, j’écris pour démontrer leur puissance.
 

@@ -1,6 +1,6 @@
 # Mon ami Arash Derambarsh
 
-À [Ouessant](http://blog.tcrouzet.com/tag/numerile/), j’ai rencontré Arash Derambarsh. Vous vous souvenez peut-être, c’est l’ancien Président de Facebook. Ce bientôt avocat tient [un blog](http://arashderambarsh.blogspot.com/). Il m’a demandé de linker vers lui, mais comme Google n’aime plus les listes de liens, je n’ai pas d’autre choix que d’écrire un article.<span id="more-18977"></span>
+À [Ouessant](http://blog.tcrouzet.com/tag/numerile/), j’ai rencontré Arash Derambarsh. Vous vous souvenez peut-être, c’est l’ancien Président de Facebook. Ce bientôt avocat tient [un blog](http://arashderambarsh.blogspot.com/). Il m’a demandé de linker vers lui, mais comme Google n’aime plus les listes de liens, je n’ai pas d’autre choix que d’écrire un article.
 
 Je n’ai jamais autant dit bonjour de ma vie qu’en traversant le village de Lampaul avec Arash. J’avais l’impression d’accompagner le Président de la République. Il s’avançait vers les passants, leur tendait la main avec énergie. Je ne pouvais m’empêcher de penser à un Chirac en campagne.
 

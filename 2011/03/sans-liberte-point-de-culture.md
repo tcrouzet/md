@@ -2,7 +2,7 @@
 
 Quand nous buvons du Coca-Cola, nous ne savons pas ce que nous buvons. La formule du produit nous est cachée.
 
-Quand un écrivain publie un livre, la formule et l’œuvre se confondent, c’est le texte.<span id="more-22271"></span>
+Quand un écrivain publie un livre, la formule et l’œuvre se confondent, c’est le texte.
 
 Dans un cas il y a un secret, dans l’autre il y a transparence. Dans un cas le code est caché, dans un autre il est libre.
 

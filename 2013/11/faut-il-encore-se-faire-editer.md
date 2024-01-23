@@ -1,6 +1,6 @@
 # Faut-il encore se faire éditer ?
 
-Vaste question à laquelle j’ai tenté de répondre par un eBook mis en abîme dans un [Pecha Kucha](https://www.youtube.com/watch?v=TWGleX32Zn4). Je voulais en faire le sujet de mon intervention à la [ZAL 2013](HTTP://REVUESQUEEZE.COM/ACTUALITES/ZONE-DAUTONOMIE-LITTERAIRE-2013/) (avant débat), puis j’ai changé d’avis. Synchroniser les pages du livre et le texte à lire m’a pris tant de temps que j’ai fini par me dégoûter du propos.<span id="more-33716"></span>
+Vaste question à laquelle j’ai tenté de répondre par un eBook mis en abîme dans un [Pecha Kucha](https://www.youtube.com/watch?v=TWGleX32Zn4). Je voulais en faire le sujet de mon intervention à la [ZAL 2013](HTTP://REVUESQUEEZE.COM/ACTUALITES/ZONE-DAUTONOMIE-LITTERAIRE-2013/) (avant débat), puis j’ai changé d’avis. Synchroniser les pages du livre et le texte à lire m’a pris tant de temps que j’ai fini par me dégoûter du propos.
 
 [ePub gratuit](https://app.box.com/s/2f8nbasstayomvl8lzgo), [Kindle](http://www.amazon.fr/dp/B00GSXM966), [Apple](https://itunes.apple.com/fr/book/id761110143), [Kobo](http://store.kobobooks.com/fr-fr/Search?Query=9782919358427)…
 

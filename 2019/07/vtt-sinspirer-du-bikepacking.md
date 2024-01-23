@@ -1,6 +1,6 @@
 # VTT : s&#8217;inspirer du bikepacking
 
-Lors de [mes virées américaines](https://tcrouzet.com/tag/bikepackingusa/), j’ai peu croisé de VTT tout suspendus. Ce n’est pas par snobisme que les bikepackers renoncent à ces bécanes. La suspension ajoute un bon kilo, augmente le risque de panne, et surtout elle mange le triangle du cadre, limitant grandement la taille du sac utilisable.<span id="more-51877"></span>
+Lors de [mes virées américaines](https://tcrouzet.com/tag/bikepackingusa/), j’ai peu croisé de VTT tout suspendus. Ce n’est pas par snobisme que les bikepackers renoncent à ces bécanes. La suspension ajoute un bon kilo, augmente le risque de panne, et surtout elle mange le triangle du cadre, limitant grandement la taille du sac utilisable.
 
 Reste que j’aime mon tout suspendu. Dès mon retour en France, je suis parti faire une virée en garrigue avec mes copains, dans la configuration que j’utilisais avant mon séjour en Floride : mes outils rangés dans le porte-bidon, l’eau et le ravitaillement dans mon CamelBak.
 

@@ -1,6 +1,6 @@
 # Les garçons et Guillaume sous la table
 
-J’ai fini par essayer de voir hier soir le film dont tous les Français se gargarisent depuis des mois. Je ne comptais plus les encouragements à découvrir absolument ce chef-d’œuvre formidable, phénoménal, d’une drôlerie pharaonique.<span id="more-34618"></span>
+J’ai fini par essayer de voir hier soir le film dont tous les Français se gargarisent depuis des mois. Je ne comptais plus les encouragements à découvrir absolument ce chef-d’œuvre formidable, phénoménal, d’une drôlerie pharaonique.
 
 J’ai craqué au bout de trente minutes de projection. Je n’ai souri qu’une fois. « Quel est ton sport préféré ? Le piano. » Je suis resté baba devant ce spectacle d’un narcissisme épouvantablement insupportable, du miel ajouté à du miel ne fait que me donner la nausée. J’avais l’impression de m’être trompé de salle et d’être entré dans un Almodovar qui, sénile, aurait oublié l’art de la couleur. Quant à la caméra, elle n’est que malsainnement attirée par un kitsch décadent.
 

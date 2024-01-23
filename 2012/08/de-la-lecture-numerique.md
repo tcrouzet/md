@@ -1,6 +1,6 @@
 # De la lecture numérique
 
-Je lis en numérique depuis assez longtemps pour commencer à parler de la lecture numérique. Jusqu’ici je m’étais intéressé avant tout à la publication, c’est-à-dire à l’aspect politique de notre petite révolution éditoriale.<span id="more-26861"></span>
+Je lis en numérique depuis assez longtemps pour commencer à parler de la lecture numérique. Jusqu’ici je m’étais intéressé avant tout à la publication, c’est-à-dire à l’aspect politique de notre petite révolution éditoriale.
 
 Quelles sensations nous procurent nos nouveaux papiers électroniques ? Que changent-ils dans nos habitudes ? Comment réinventons-nous notre vie de lecteur ? J’entrevois des bribes de réponses.
 

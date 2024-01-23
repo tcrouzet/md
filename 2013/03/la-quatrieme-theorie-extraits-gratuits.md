@@ -1,6 +1,6 @@
 # La Quatrième Théorie – Extraits gratuits
 
-[Si vous disposez d’un iPhone/iPad](https://itunes.apple.com/fr/book/la-quatrieme-theorie/id623788042?mt=11), vous pouvez lire les cinq premiers chapitres de [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/). Pour les autres, j’ai capturé les pages, sinon [téléchargez la version epub](/files_tc/la4t_extrait.epub).<span id="more-31836"></span>
+[Si vous disposez d’un iPhone/iPad](https://itunes.apple.com/fr/book/la-quatrieme-theorie/id623788042?mt=11), vous pouvez lire les cinq premiers chapitres de [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/). Pour les autres, j’ai capturé les pages, sinon [téléchargez la version epub](/files_tc/la4t_extrait.epub).
 
 ![La Quatrième Théorie 1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/03/IMG_0352.png)
 

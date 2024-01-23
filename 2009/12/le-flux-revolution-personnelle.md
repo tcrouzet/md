@@ -1,6 +1,6 @@
 # Le Flux: c’est d&#8217;abord une révolution personnelle
 
-Transformer la société en se transformant soi-même. Je n’ai jamais cru qu’il y a avait d’autres possibilités. Les révolutions qui ne se produisent pas à l’intérieur des gens ne finissent que par reconstruire le même monde que celui qu’elles ont abattu.<span id="more-12615"></span>
+Transformer la société en se transformant soi-même. Je n’ai jamais cru qu’il y a avait d’autres possibilités. Les révolutions qui ne se produisent pas à l’intérieur des gens ne finissent que par reconstruire le même monde que celui qu’elles ont abattu.
 
 Je n’ai jamais défendu d’autres principes. Dans *Le peuple des connecteurs*, j’ai cherché à montrer l’impuissance des puissants et des représentants. Le contrôle ne fonctionne que dans une société simple, plus dans la notre. Alors c’est à titre individuel que nous devons prendre la maîtrise de notre vie ce qui implique en second temps une maîtrise de la société.
 

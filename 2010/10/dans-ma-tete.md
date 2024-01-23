@@ -1,6 +1,6 @@
 # Dans ma tête ça gargouille
 
-Maintenant que [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/), [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/) et même [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/) ne m’occupent plus guère, je commence à penser à la suite. Qu’est-ce que je vais écrire sur ce blog et ailleurs ? Je vous avoue que même si la polémique apporte du trafic, elle ne me passionne pas. Je me laisserai toujours tenter de temps à autre, nul n’est parfait, mais j’aimerais travailler dans la durée. Alors voici quelques pistes pour les mois et les années à venir.<span id="more-19633"></span>
+Maintenant que [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/), [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/) et même [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/) ne m’occupent plus guère, je commence à penser à la suite. Qu’est-ce que je vais écrire sur ce blog et ailleurs ? Je vous avoue que même si la polémique apporte du trafic, elle ne me passionne pas. Je me laisserai toujours tenter de temps à autre, nul n’est parfait, mais j’aimerais travailler dans la durée. Alors voici quelques pistes pour les mois et les années à venir.
 
 ### L’informatique racontée à mes fils
 

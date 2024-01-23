@@ -1,10 +1,6 @@
 # Twiller cookbook
 
-La très prolixe Anne-Caroline Paucot ([L'entreprise en 2020](www.entreprise2020.fr), [Le futur au présent](<http://www.anticipedia.info
-
->), [Des romans et des polars pour les entreprises](http://www.hyaka.com), [Dictionnaire du futur](<http://www.dictionnairedufutur.fr
-
->), [Contes à inventer demain](http://www.contesainventerlefutur.fr)) veut lancer un twiller à plusieurs mains qu’elle voudrait reconstituer automatiquement sur un site.<span id="more-5205"></span>
+La très prolixe Anne-Caroline Paucot ([L'entreprise en 2020](www.entreprise2020.fr), [Le futur au présent](), [Des romans et des polars pour les entreprises](http://www.hyaka.com), [Dictionnaire du futur](), [Contes à inventer demain](http://www.contesainventerlefutur.fr)) veut lancer un twiller à plusieurs mains qu’elle voudrait reconstituer automatiquement sur un site.
 
 Je lui ai proposé de partir de mon montage WordPress utilisé pour [Croisade](http://twiller.tcrouzet.com). [Le template et le plug-in TwitterTools modifié peuvent être téléchargé et installés normalement.](http://blog.tcrouzet.com/files_tc/twiller.rar) Mais c’est pas vraiment un système portable. J’ai bidouillé un peu partout pour que ça fasse ce que je veux. C’est un point de départ.
 

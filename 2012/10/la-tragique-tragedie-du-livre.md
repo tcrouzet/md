@@ -1,6 +1,6 @@
 # La tragique tragédie du livre
 
-Lors de la [ZAL](http://blog.tcrouzet.com/2012/10/12/la-tragedie-du-livre-avis-de-tempete-numerique/), Nicolas Ancion et moi avons parlé des conséquences de l’arrivée du livre électronique sous l’angle de la tragédie.<span id="more-29165"></span>
+Lors de la [ZAL](http://blog.tcrouzet.com/2012/10/12/la-tragedie-du-livre-avis-de-tempete-numerique/), Nicolas Ancion et moi avons parlé des conséquences de l’arrivée du livre électronique sous l’angle de la tragédie.
 
 Intégral \
 

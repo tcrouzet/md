@@ -1,6 +1,6 @@
 # La Send génération : Pecha Kucha remix
 
-Dans son journal de Tarkovski ne cesse de se demander ce que peut dire le cinéma que les autres arts ne peuvent pas. Alors que peut dire l’écriture numérique que les écritures plus anciennes ne pouvaient pas ? Qu’est-ce qui se joue de neuf ? Qu’est-ce qui dans notre pratique nous pousse sur de nouvelles routes ? Tentative de réponse dans [ce second ebook](http://blog.tcrouzet.com/2013/11/21/faut-il-encore-se-faire-editer/) mis [en abîme dans un Pecha Kucha](http://www.youtube.com/watch?v=iyoCsJzrKI0&feature=youtu.be).<span id="more-33746"></span>
+Dans son journal de Tarkovski ne cesse de se demander ce que peut dire le cinéma que les autres arts ne peuvent pas. Alors que peut dire l’écriture numérique que les écritures plus anciennes ne pouvaient pas ? Qu’est-ce qui se joue de neuf ? Qu’est-ce qui dans notre pratique nous pousse sur de nouvelles routes ? Tentative de réponse dans [ce second ebook](http://blog.tcrouzet.com/2013/11/21/faut-il-encore-se-faire-editer/) mis [en abîme dans un Pecha Kucha](http://www.youtube.com/watch?v=iyoCsJzrKI0&feature=youtu.be).
 
 [ePub gratuit](https://app.box.com/s/ybvddylvwul2yp9t8ol5), [Kindle](http://www.amazon.fr/dp/B00GTYRV1C), [Apple](https://itunes.apple.com/fr/book/id762790919), [Kobo](http://store.kobobooks.com/fr-fr/Search?Query=9782919358410)…
 

@@ -1,6 +1,6 @@
 # Michel Gueorguieff
 
-Je n’ai rencontré Michel qu’une fois, un soir, au bord de la plage des Mouettes à Frontignan, entre une brasucade et une partie de pétanque avec boules en plastique. J’étais venu retrouver des amis auteurs, des amis de Michel. Ils célébraient le roman noir à l’occasion du [FIRN](http://www.polar-frontignan.org/). Avec eux, entre eux, se mêlaient des lecteurs, des amis, des fans, des curieux.<span id="more-33357"></span>
+Je n’ai rencontré Michel qu’une fois, un soir, au bord de la plage des Mouettes à Frontignan, entre une brasucade et une partie de pétanque avec boules en plastique. J’étais venu retrouver des amis auteurs, des amis de Michel. Ils célébraient le roman noir à l’occasion du [FIRN](http://www.polar-frontignan.org/). Avec eux, entre eux, se mêlaient des lecteurs, des amis, des fans, des curieux.
 
 Je me suis senti emporté par une fraternité d’habitude étrangère aux salons « littéraires ». Cassée la vielle logique : les auteurs d’un côté, les lecteurs de l’autre. À Frontignan, Michel a organisé leur vraie rencontre, la seule possible, les doigts plongés dans la même sauce marine, tous partageant un moment de vie dans une générale bonne humeur.
 

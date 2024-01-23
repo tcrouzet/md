@@ -1,6 +1,6 @@
 # Un connecteur à Genève
 
-Hier, j’ai donné une conférence privée au CERN. Après mon laïus, nous avons visité le tout nouveau [détecteur de particules Atlas](http://fr.wikipedia.org/wiki/Atlas_(CERN)) : 25 mètres de haut, 40 mètres de long, un poids égal à la Tour Eiffel, le tout situé dans une caverne de béton creusée 100 mètres sous terre.<span id="more-279"></span>
+Hier, j’ai donné une conférence privée au CERN. Après mon laïus, nous avons visité le tout nouveau [détecteur de particules Atlas](http://fr.wikipedia.org/wiki/Atlas_(CERN)) : 25 mètres de haut, 40 mètres de long, un poids égal à la Tour Eiffel, le tout situé dans une caverne de béton creusée 100 mètres sous terre.
 
 ![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/atlas.jpg)
 

@@ -1,6 +1,6 @@
 # Demain il sera trop tard pour l’art d’aujourd’hui
 
-J’en oublie qui je suis. Il faut que je marche dans Sète, grande rue Haute, avec la mer hachée au loin par les rues traversantes, les yeux plissés par les éblouissements du mistral, le bonnet de marin enfoncé jusqu’aux lunettes de soleil… alors je me replace dans mon espace, loin du bruit du Net, des interactions toujours un peu guerrières, jamais aussi belles que si nous étions là une dizaine assis derrière le rempart du môle Saint-Louis, avec pour point de mire un tanker posé sur la ligne de l’horizon.<span id="more-43497"></span>
+J’en oublie qui je suis. Il faut que je marche dans Sète, grande rue Haute, avec la mer hachée au loin par les rues traversantes, les yeux plissés par les éblouissements du mistral, le bonnet de marin enfoncé jusqu’aux lunettes de soleil… alors je me replace dans mon espace, loin du bruit du Net, des interactions toujours un peu guerrières, jamais aussi belles que si nous étions là une dizaine assis derrière le rempart du môle Saint-Louis, avec pour point de mire un tanker posé sur la ligne de l’horizon.
 
 Je me retrouve aussi par ces mots, par ces premières phrases, dictées par les impressions, par la musique des risées et de quelques automobiles. Je ne cherche ni à être compris, ni à séduire, juste à me dire pour mieux me vivre. Je me fiche que cette écriture n’intéresse presque personne, elle est la seule qui vaille, toutes les autres orbitent plus ou moins loin de son foyer flamboyant.
 
@@ -12,6 +12,8 @@ Sur Wattpad, on me dit que celui qui écrit vite parle. Est-ce que je parle de c
 
 ![J'ai aussi croisé Paul Valéry.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/marin.jpg)
 
+J'ai aussi croisé Paul Valéry.
+
 La vitesse associée au travail m’éloigne au contraire de la parole. Elle engendre les mélodies purement écrites, et qui pourraient être dites sur une scène, mais non lors d’une conversation entre amis.
 
 Le soir ou le matin, ou au milieu de la nuit, je m’écris souvent des textes dans ma tête, exactement comme en ce moment même, porté par la musique autant que par le sens, un sens toujours repoussé, que j’aimerais garder fuyant, un objectif lointain, dont l’atteinte ne procure pas beaucoup de plaisir.
@@ -19,6 +21,8 @@ Le soir ou le matin, ou au milieu de la nuit, je m’écris souvent des textes d
 Des drapeaux bleus flottent à une encablure du rivage. Des goélands somnolent sur le brise-lames, tout à côté du phare de tribord, le vert. Un jeune homme pêche, la canne avachie. Il porte un pull à rayures noires et rouges. Fermer les yeux, absorber la douceur.
 
 ![Avant de m'arrêter là.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/mer.jpg)
+
+Avant de m'arrêter là.
 
 ---
 

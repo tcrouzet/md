@@ -1,6 +1,6 @@
 # La masturbation des néotechos
 
-Nous avons cru qu’internet était un outil et qu’avec cet outil nous changerions le monde dans une direction plus heureuse, plus harmonieuse, plus respectueuse des uns et des autres. Nous avons au moins espéré qu’avec internet nous réussirions à inventer de nouvelles formes d’organisation adaptées à la nouvelle complexité du monde, une complexité qui, abandonnée aux mains des anciennes structures de pouvoir, nous promet un avenir carcéral, l’embrigadement idéologique et physique étant la seule manière de nous maintenir à un niveau de simplicité gérable.<span id="more-33211"></span>
+Nous avons cru qu’internet était un outil et qu’avec cet outil nous changerions le monde dans une direction plus heureuse, plus harmonieuse, plus respectueuse des uns et des autres. Nous avons au moins espéré qu’avec internet nous réussirions à inventer de nouvelles formes d’organisation adaptées à la nouvelle complexité du monde, une complexité qui, abandonnée aux mains des anciennes structures de pouvoir, nous promet un avenir carcéral, l’embrigadement idéologique et physique étant la seule manière de nous maintenir à un niveau de simplicité gérable.
 
 Nous avons rêvé, oui, d’une complexité flamboyante et neuve, riche de nouveautés technologiques, esthétiques, sociales… Dans la temporalité réduite de nos vies, nous avons rêvé de bouleversements historiques. Nous continuons de rêver mais notre rêve s’apparente désormais à une utopie, à quelque chose que nous ne connaîtrons probablement pas.
 

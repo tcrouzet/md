@@ -1,6 +1,6 @@
 # Le foutage de gueule de PEdALED, leur réponse
 
-Après [mon article critique à l’encontre de PEdALED](https://tcrouzet.com/2020/10/08/pedaled-se-paye-ma-tete/), on m’a accusé de deux griefs, ne pas avoir contacté le SAV, ne pas avoir testé la veste Tokaido après avoir massacré en trois sorties mon maillot Essentiel.<span id="more-55507"></span>
+Après [mon article critique à l’encontre de PEdALED](https://tcrouzet.com/2020/10/08/pedaled-se-paye-ma-tete/), on m’a accusé de deux griefs, ne pas avoir contacté le SAV, ne pas avoir testé la veste Tokaido après avoir massacré en trois sorties mon maillot Essentiel.
 
 Je n’ai pas contacté le SAV parce que je voyais mal PEdALED me renvoyer un maillot neuf pour que je retourne le griffer à ma première sortie un peu sauvage. Et parce que d’évidence, le maillot ne présentait aucun défaut de fabrication.
 

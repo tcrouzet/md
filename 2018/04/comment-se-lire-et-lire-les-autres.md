@@ -2,7 +2,7 @@
 
 Le titre de ce billet n’a pas de point d’interrogation. Je veux parler d’une méthode pratique, tout au moins la mienne, que j’applique avec mes textes et les textes des autres.
 
-Qui écrit a besoin de se relire. Il est vrai que je me relis peu quand je blogue. Il est bien rare que la rédaction d’un billet s’étende sur plusieurs heures, encore moins sur plusieurs jours. J’ai rarement le temps de m’habituer à mes billets, habitude qui m’empêcherait de vraiment les lire, comme cela finit par être le cas pour des textes plus longs.<span id="more-46447"></span>
+Qui écrit a besoin de se relire. Il est vrai que je me relis peu quand je blogue. Il est bien rare que la rédaction d’un billet s’étende sur plusieurs heures, encore moins sur plusieurs jours. J’ai rarement le temps de m’habituer à mes billets, habitude qui m’empêcherait de vraiment les lire, comme cela finit par être le cas pour des textes plus longs.
 
 Néanmoins, je lis au moins de trois manières différentes mes billets. Une première fois dans mon éditeur de texte en Markdown, sous leur apparence brute. Une deuxième fois à travers le correcteur orthographique Antidote. Une troisième fois, juste avant de les publier, dans le mode prévisualisation de WordPress. Changer de perspective m’aide à mieux me relire.
 

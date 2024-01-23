@@ -1,6 +1,6 @@
 # Harmonisation politique
 
-Cet après-midi de 14 à 15 heures, je participe sur France Culture à [Science Publique](http://www.radiofrance.fr/chaines/france-culture2/emissions/science_publique/), émission de Michel Alberganti. Le sujet : quand votera-t-on sur Internet ? J’ai déjà donné mon point de vue sur le sujet lors du [World e-gov forum](http://www.worldegovforum.com/article.php3?id_article=648).<span id="more-270"></span>
+Cet après-midi de 14 à 15 heures, je participe sur France Culture à [Science Publique](http://www.radiofrance.fr/chaines/france-culture2/emissions/science_publique/), émission de Michel Alberganti. Le sujet : quand votera-t-on sur Internet ? J’ai déjà donné mon point de vue sur le sujet lors du [World e-gov forum](http://www.worldegovforum.com/article.php3?id_article=648).
 
 Lorsque j’ai reçu l’invitation de France Culture le sujet de l’émission devait être : pourra-t-on bientôt voter sur internet ? Cette question n’avait aucun intérêt car techniquement qu’on puisse voter sur Internet ne fait aucun doute. La nouvelle question est plus intéressante.
 

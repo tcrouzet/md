@@ -1,6 +1,6 @@
 # Ebook/livre et site même combat ?
 
-Je suis un peu fatigué d'entendre dire que tout se joue sur le site et que l'ebook/livre serait un truc dépassé, un truc qui nous contraindrait, limiterait nos possibilités (et tout aussi fatigué du raisonnement inverse). Je vois dans ces discours du marketing de positionnement, chacun cherchant à être sur un terrain où les autres n'iraient pas, avec cette idée sous-jacente qu'un des terrains serait plus à l'avant-garde littéraire qu'un autre.<span id="more-33940"></span>
+Je suis un peu fatigué d'entendre dire que tout se joue sur le site et que l'ebook/livre serait un truc dépassé, un truc qui nous contraindrait, limiterait nos possibilités (et tout aussi fatigué du raisonnement inverse). Je vois dans ces discours du marketing de positionnement, chacun cherchant à être sur un terrain où les autres n'iraient pas, avec cette idée sous-jacente qu'un des terrains serait plus à l'avant-garde littéraire qu'un autre.
 
 ### Regard du technicien
 

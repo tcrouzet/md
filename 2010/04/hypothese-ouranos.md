@@ -1,6 +1,6 @@
 # L’hypothèse Ouranos
 
-On ne présente plus l’hypothèse Gaïa de James Lovelock, qui assimile la terre à un organisme vivant autorégulé qui veille à son équilibre, éjectant si nécessaire les corps indésirables. Pourquoi le système solaire lui-même ne s’autorégulerait pas ? Pourquoi n’existerait-il pas des feedbacks à l’échelle des unités astronomiques ? Grâce aux rayonnements électromagnétiques et particulaires, les planètes interagiraient comme les cellules dans notre corps ?<span id="more-15745"></span>
+On ne présente plus l’hypothèse Gaïa de James Lovelock, qui assimile la terre à un organisme vivant autorégulé qui veille à son équilibre, éjectant si nécessaire les corps indésirables. Pourquoi le système solaire lui-même ne s’autorégulerait pas ? Pourquoi n’existerait-il pas des feedbacks à l’échelle des unités astronomiques ? Grâce aux rayonnements électromagnétiques et particulaires, les planètes interagiraient comme les cellules dans notre corps ?
 
 Cette idée d’un scénario de science-fiction m’est venue en lisant un article au sujet de [la crise que traverse notre soleil](http://www.linternaute.com/science/espace/panne-du-soleil/?f_id_newsletter=2767). Et si notre crise économique, et plus généralement notre crise planétaire, influait le soleil lui-même ?
 

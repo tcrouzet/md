@@ -4,7 +4,7 @@
 
 ### Dimanche 1<sup>er</sup>, Balaruc
 
-Je ne suis pas un adepte des bonnes résolutions. Je continue ma vie comme si elle était sur la bonne voie, même quand elle déraille. Je ne change pas d’habitude sous l’effet d’une date, mais d’évènements intimes, comme quand j’ai déconnecté d’Internet. En 2023, je ne compte rien changer, sauf que je changerai sans que ma volonté ait un quelconque rôle à jouer.<span id="more-64725"></span>
+Je ne suis pas un adepte des bonnes résolutions. Je continue ma vie comme si elle était sur la bonne voie, même quand elle déraille. Je ne change pas d’habitude sous l’effet d’une date, mais d’évènements intimes, comme quand j’ai déconnecté d’Internet. En 2023, je ne compte rien changer, sauf que je changerai sans que ma volonté ait un quelconque rôle à jouer.
 
 Blanchot au sujet du journal intime : « Le calendrier est son démon, l’inspirateur, le compositeur, le provocateur et le gardien. » Ainsi je n’aurais pas évoqué des bonnes résolutions si nous n’étions pas le premier janvier. En même temps, toutes les œuvres dépendent du calendrier : ce que nous vivons influence ce que nous écrivons.
 

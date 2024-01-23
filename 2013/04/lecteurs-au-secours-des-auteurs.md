@@ -1,6 +1,6 @@
 # Lecteurs au secours des auteurs
 
-Quand j'ai vu l'annonce de lancement d'[Adopte un auteur](http://www.adopteunauteur.fr/thierry-crouzet/), j'ai ricané intérieurement : « Je n'ai besoin de personne, mes textes se défendront seuls. » Attitude idéaliste, de fait intenable.<span id="more-32433"></span>
+Quand j'ai vu l'annonce de lancement d'[Adopte un auteur](http://www.adopteunauteur.fr/thierry-crouzet/), j'ai ricané intérieurement : « Je n'ai besoin de personne, mes textes se défendront seuls. » Attitude idéaliste, de fait intenable.
 
 [Jean-Claude Dunyach](http://www.dunyach.fr) m'a raconté qu'il s'était [inscrit sur Adopte un auteur](http://www.adopteunauteur.fr/jean-claude-dunyach/) et que trois lecteurs s'étaient immédiatement proposés pour l'aider. Dans le brouhaha médiatique, nous sommes tous en quête de visibilité. Nos textes ne peuvent être lus que si nous avons des VRP diligents. Les commerciaux de nos éditeurs, les libraires, les chroniqueurs ne suffisent pas la plupart du temps à nous hisser au-dessus du tumulte. Nous avons besoin de faire des signaux de fumée depuis nos blogs et nos réseaux sociaux, mais c'est insuffisant. Seuls, nous sommes impuissants.
 

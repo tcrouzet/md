@@ -1,6 +1,6 @@
 # Scoop : Rue89 soutiendra l&#8217;OpenSource
 
-Accepter d’aller défendre seul une idée dans une communauté fermée, [celle d’arrêt sur image](http://www.arretsurimages.net/), c’est un peu du suicide mais j’aime la bagarre. Financièrement, je n’ai rien à perdre, les médias en ligne beaucoup… Quant à mon image brut de décoffrage, elle ne fera que répugner ceux que je répugne déjà. La vidéo du débat enregistrée mardi dernier n’étant pas en diffusion intégrale, je ne peux que vous raconter ce que j’ai vécu et mon état d’esprit.<span id="more-13181"></span>
+Accepter d’aller défendre seul une idée dans une communauté fermée, [celle d’arrêt sur image](http://www.arretsurimages.net/), c’est un peu du suicide mais j’aime la bagarre. Financièrement, je n’ai rien à perdre, les médias en ligne beaucoup… Quant à mon image brut de décoffrage, elle ne fera que répugner ceux que je répugne déjà. La vidéo du débat enregistrée mardi dernier n’étant pas en diffusion intégrale, je ne peux que vous raconter ce que j’ai vécu et mon état d’esprit.
 
 Tout d’abord Internet pour moi est un monde d’ouverture et de partage. Animer un site fermé et accessible sur abonnement est un anachronisme qui nous ramène à l’époque d’avant le Web, du temps de Compuserve et de MCI.
 

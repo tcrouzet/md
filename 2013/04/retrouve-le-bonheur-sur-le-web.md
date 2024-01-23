@@ -1,6 +1,6 @@
 # Comment retrouver le bonheur sur le web
 
-Pendant une bonne dizaine d'années, j'ai vécu avec beaucoup d'autres dans l'illusion que nous allions réussir à changer le monde politique, esthétique, littéraire grâce au web… De fait, nous avons beaucoup réfléchi, beaucoup écrit, beaucoup produit.<span id="more-32474"></span>
+Pendant une bonne dizaine d'années, j'ai vécu avec beaucoup d'autres dans l'illusion que nous allions réussir à changer le monde politique, esthétique, littéraire grâce au web… De fait, nous avons beaucoup réfléchi, beaucoup écrit, beaucoup produit.
 
 Mon bonheur individuel découlait d'un engagement collectif de vaste échelle. Il y avait quelque chose de propre aux grands jours de l'humanité. Une fois cette ferveur retombée, une fois constaté que notre agitation neuronale n'a pas eue de conséquences pratiques, ou trop peu à notre goût (démarrage des révolutions arabes, amorce du mouvement indigné, généralisation de la logique open source…), l'engagement ne comble plus, il laisse même un goût amer d'échec.
 

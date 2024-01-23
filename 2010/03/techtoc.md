@@ -1,6 +1,6 @@
 # Les brutes, les bêtes et les truands
 
-L’équipe de [techtoctv](http://techtoc.tv) a profité de mon passage à Paris pour m’inviter à l’un de leurs débats : [Quel est le moteur du web ? La technologie, l'humain ou le business ?](http://techtoc.tv/event/490/internet-usage/e-reputation/quel-est-le-moteur-du-web--la-technologie--l-humain-ou-le-business--1-2) Une question à la con du genre « Qui vient en premier de la poule et de l’œuf ? » Depuis Darwin, on connait la réponse : « Ils viennent en même temps et ne peuvent être séparés. » La situation étant claire, on a pu parler pour le plaisir. Voici la description du débat.<span id="more-15463"></span>
+L’équipe de [techtoctv](http://techtoc.tv) a profité de mon passage à Paris pour m’inviter à l’un de leurs débats : [Quel est le moteur du web ? La technologie, l'humain ou le business ?](http://techtoc.tv/event/490/internet-usage/e-reputation/quel-est-le-moteur-du-web--la-technologie--l-humain-ou-le-business--1-2) Une question à la con du genre « Qui vient en premier de la poule et de l’œuf ? » Depuis Darwin, on connait la réponse : « Ils viennent en même temps et ne peuvent être séparés. » La situation étant claire, on a pu parler pour le plaisir. Voici la description du débat.
 
 > Alors que nous avons vécu 2 étapes majeures du web (web 1.0 et web 2.0) et que nous tentons de définir la prochaine dans laquelle nous entrons progressivement en nous aidant de concepts tels que le web temps réel, le web des données, le web sémantique ou encore le web squared, il est temps de se demander ce qui fait courir le web : la technologie, l'humain ou le business ? Sans chercher à opposer catégoriquement ces trois mondes ce qui aboutirait à un débat stérile, il peut être intéressant d'observer quel rôle jouent les valeurs technologiques, les valeurs humaines et les valeurs business à chacune des grandes étapes évolutives du web.
 
@@ -35,10 +35,8 @@ Et 3.0 alors ? Moi, j’appelle ça la dictature de quelques mégasites, la cen
 — *Les concepts de web temps réel, de web des données, de web sémantique et de web squared font ils référence à une approche humaine, technologique ou business de l'évolution du web ? Comment pourrions-nous définir ces concepts en une phrase pour qu'ils soient compris de tous ?*
 
 — Mince. J’ai déjà répondu. **Temps réel** : c’est le moyen donné à tous, et même à des robots, d’alimenter des flux et de les croiser. Twitter ne sert qu’à ça, Facebook aussi… et les blogs aussi depuis longtemps.
-
-**Web sémantique** : ouvrir les bases de données et nommer les champs de manière à ce que nous puissions faire des jointures. J’en reste à la définition de Tim Berners-Lee. Les autres, je ne les comprends pas. Je n’ai jamais rien vu d’autre fonctionner.
-
-**Le Web<sup>2</sup>**, c’est une arnaque marketing promue par des gourous qui veulent se faire mousser. On est dans le business spéculatif avec rien de concret derrière. Mais des mecs vont réussir à vendre leur expertise sur le sujet, je n’en doute pas. Il y en a qui réussissent à vendre leur grosse quéquette sur Twitter.
+ : ouvrir les bases de données et nommer les champs de manière à ce que nous puissions faire des jointures. J’en reste à la définition de Tim Berners-Lee. Les autres, je ne les comprends pas. Je n’ai jamais rien vu d’autre fonctionner.
+, c’est une arnaque marketing promue par des gourous qui veulent se faire mousser. On est dans le business spéculatif avec rien de concret derrière. Mais des mecs vont réussir à vendre leur expertise sur le sujet, je n’en doute pas. Il y en a qui réussissent à vendre leur grosse quéquette sur Twitter.
 
 — *Comment pourrions-nous décrire l'évolution du web pour qu'elle soit comprise de tous ?*
 

@@ -1,6 +1,6 @@
 # Ségolène Royal et les sous-marins
 
-Le 25 janvier 2007, en pleine campagne présidentielle, Ségolène Royal arrive dans le studio parisien de RMC/BFM TV. La candidate socialiste porte un chemisier noir, un gilet beige. Elle a rejeté en arrière ses cheveux bruns, coupés mi-longs.<span id="more-22300"></span>
+Le 25 janvier 2007, en pleine campagne présidentielle, Ségolène Royal arrive dans le studio parisien de RMC/BFM TV. La candidate socialiste porte un chemisier noir, un gilet beige. Elle a rejeté en arrière ses cheveux bruns, coupés mi-longs.
 
 Il est 8h20, le direct de Bourdin&amp;Co commence. Ségolène ne sait pas encore qu’elle perdra dans quelques secondes toutes chances de battre Nicolas Sarkozy. L’entretien débute bon enfant jusqu’à ce que Bourdin pose une question piège.
 

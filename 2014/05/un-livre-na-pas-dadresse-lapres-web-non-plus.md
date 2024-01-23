@@ -1,6 +1,6 @@
 # Un livre n’a pas d’adresse, l’après-Web non plus
 
-Olivier Ertzscheid attire notre attention vers [la fin programmée des liens hypertextes](http://affordance.typepad.com//mon_weblog/2014/05/rip-hyperlinks-and-what-we-used-to-call-the-web.html) au profit les statuts sociaux, de Google et de tous les opérateurs centralisés, les silos du Net. Un signe : la prochaine version de Chrome risque de ne plus avoir de barre d’adresses. On ne fera plus que du search (ce que font déjà la plupart des utilisateurs).<span id="more-35623"></span>
+Olivier Ertzscheid attire notre attention vers [la fin programmée des liens hypertextes](http://affordance.typepad.com//mon_weblog/2014/05/rip-hyperlinks-and-what-we-used-to-call-the-web.html) au profit les statuts sociaux, de Google et de tous les opérateurs centralisés, les silos du Net. Un signe : la prochaine version de Chrome risque de ne plus avoir de barre d’adresses. On ne fera plus que du search (ce que font déjà la plupart des utilisateurs).
 
 J’évoque cette transition depuis 2007, parce que j’en ai été la victime, quand Google s’est attaqué à tous les annuaires de liens et quand, dès cette époque, les liens entre nos sites ont commencé à perdre du poids dans les algorithmes de référencement, et ont même commencé à nous pénaliser, d’où la disparition de la liste des sites amis sur nos blogs (nous étions en train de concurrencer Google qui décida de punir cette pratique).
 
@@ -33,6 +33,8 @@ Nous n'avons en priorité ni besoin d'open data ni de big data, mais de living d
 *PS : En 2009, quand j'ai écrit [Vers un web sans site web](http://blog.tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/), je n'avais pas encore une vision claire de comment nous aboutirions à ce résultat.*
 
 ![Tim Berners-Lee on the Next Web (TED, 2009)... qui n'est à ce stade que l'ancien Web.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/livingdata.png)
+
+Tim Berners-Lee on the Next Web (TED, 2009)... qui n'est à ce stade que l'ancien Web.
 
 
 

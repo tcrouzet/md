@@ -4,8 +4,6 @@ Après avoir laissé hier la parole à [Mimie in Vivo](http://www.mimie-invivo.c
 
 Mon [billet sur la cartographie de la blogosphère politique](http://blog.tcrouzet.com/2007/02/13/cartographie-de-la-blogosphere-politique/) justifie cette réponse. Puisque les forces indépendantes y sont les plus représentées, les thèmes indépendants, loin du clivage gauche-droite, y sont aussi les plus abondamment traités.
 
-**Parenthèse avant de vraiment répondre**
-
 Je pense que les internautes sont des citoyens responsables, j’ose espérer un peu en avance quant à la prise de conscience globale. Pour la plupart, ils savent que la société va dans le mur. Les problèmes écologiques et sociaux risquent d’être bientôt ingérables si nous n’adoptons pas des solutions originales.
 
 Or nos partis traditionnels s’imposent des partitions éculées, réactionnaires, tout cela pour séduire une population de plus en plus inquiète. Pour la rassurer, ils s’adonnent au conformisme à l’origine même des maux qui aiguillonnent cette inquiétude.
@@ -19,8 +17,6 @@ Alors oui, nous sommes parfois utopistes, mais l’utopie n’a jamais été aus
 Nous prenons le risque de nous tromper que ça plaise ou non à ceux qui ne prennent aucun risque. Pour se tirer d’une situation périlleuse, il faut souvent se mettre en danger. Voilà ce que je réponds aux parasites qui envahissent le ventre mou de la politique. Qui passent leur temps à se citer les uns les autres sans être capables d’avancer vers l’inconnu.
 
 Plus que jamais, nous avons besoin d’aventuriers.
-
-**Fin de parenthèse**
 
 Quels territoires encore vierges commencent donc à explorer nos aventuriers ? Je ne peux qu’esquisser une liste très incomplète.
 

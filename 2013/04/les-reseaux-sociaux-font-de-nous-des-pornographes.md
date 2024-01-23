@@ -1,6 +1,6 @@
 # Les réseaux sociaux font de nous des pornographes
 
-J’écris. Je suis souvent seul face à mon écran. Je n’ai pas de collègue de bureau. Alors la tentation est grande de me promener sur les réseaux sociaux à la recherche d’un peu de chaleur humaine. Et je me sens soudain encore plus seul.<span id="more-32440"></span>
+J’écris. Je suis souvent seul face à mon écran. Je n’ai pas de collègue de bureau. Alors la tentation est grande de me promener sur les réseaux sociaux à la recherche d’un peu de chaleur humaine. Et je me sens soudain encore plus seul.
 
 Une première interprétation me traverse : « Si tous ces gens éprouvent du plaisir à échanger tous ces messages de peu d’intérêt, c’est que je ne leur ressemble pas, que je n’ai rien de commun avec eux, que nous ne vivons pas dans le même monde. » Et je me sens encore plus seul. Une seconde pensée arrive alors : « Ils échangent tous ces messages parce qu’ils sont seuls. Ils tentent de combattre un vide vertigineux, quitte à friser l’overdose de publicités subliminales. »
 

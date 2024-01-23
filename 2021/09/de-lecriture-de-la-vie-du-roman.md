@@ -1,6 +1,6 @@
 # De l’écriture, de la vie, du roman
 
-Je réponds aux questions de Lionel Jeannerat, l’éditeur de [*One Minute*](https://tcrouzet.com/une-minute/) chez PVH Éditions, et reviens sur les mécanismes du processus créateur.<span id="more-60359"></span>
+Je réponds aux questions de Lionel Jeannerat, l’éditeur de [*One Minute*](https://tcrouzet.com/une-minute/) chez PVH Éditions, et reviens sur les mécanismes du processus créateur.
 
 *— Quelle place occupe l'écriture dans ta vie ?*
 

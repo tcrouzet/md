@@ -1,6 +1,6 @@
 # De la nanolittérature au mégafeuilleton
 
-Jaime le blog pour la vitesse, le jet, la pensée pure, encore incertaine, les rebonds avec les lecteurs et les autres blogueurs. La [twittérature](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/) m’a envoyé dans une direction opposée. Je n’ai jamais écrit aussi lentement que quand j’ai travaillé à [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/).<span id="more-31574"></span>
+Jaime le blog pour la vitesse, le jet, la pensée pure, encore incertaine, les rebonds avec les lecteurs et les autres blogueurs. La [twittérature](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/) m’a envoyé dans une direction opposée. Je n’ai jamais écrit aussi lentement que quand j’ai travaillé à [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/).
 
 C’est paradoxal, parce qu’on twitte comme on pense. Souvent sans se relire. Voyant *a posteriori* les gigantesques fautes d’orthographe. Les mots oubliés. Mais une autre dimension doit être prise en compte : l’audience. Le lecteur est derrière l’écran. Et il n’a pas forcément envie de vous lire à l'instant où vous écrivez, de crouler sous vos messages. On doit le ménager. D’autant plus si on attend de lui une réaction avant de publier le tweet suivant.
 

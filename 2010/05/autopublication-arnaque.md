@@ -1,6 +1,6 @@
 # Autopublication : arnaque ou pis aller
 
-Je viens d’essayer de trouver le meilleur prix en France pour un livre autopublié. J’ai fait l’expérience avec le manuscrit de [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) en version pour moi finalisée, mais pas encore passée entre les fourches caudines de mes amis du métier, ni par un éditeur.<span id="more-16477"></span>
+Je viens d’essayer de trouver le meilleur prix en France pour un livre autopublié. J’ai fait l’expérience avec le manuscrit de [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) en version pour moi finalisée, mais pas encore passée entre les fourches caudines de mes amis du métier, ni par un éditeur.
 
 J’ai monté le texte sur XPress, format A5, environ le standard des romans. Soit au final 478 pages (Adobe Garamond Pro, corps 12 avec 36 lignes par pages) et j’ai dessiné une couverture rapidement, après avoir passé un moment à feuilleter [bookcoverarchive.com](http://bookcoverarchive.com).
 

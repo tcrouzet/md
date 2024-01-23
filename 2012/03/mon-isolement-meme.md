@@ -1,6 +1,6 @@
 # Vase communicant avec François Bon
 
-*Je n'écris plus beaucoup sur mon blog parce que j'ai envie d'écrire ailleurs, de propulser des fusées autonomes dans le flux, plutôt que d'aligner des perles de jour en jour, ce qui implique qu'on le veuille ou non une chronologie, une histoire, une séquence, un ordre dont j'ai envie de me débarrasser.<span id="more-23232"></span>
+*Je n'écris plus beaucoup sur mon blog parce que j'ai envie d'écrire ailleurs, de propulser des fusées autonomes dans le flux, plutôt que d'aligner des perles de jour en jour, ce qui implique qu'on le veuille ou non une chronologie, une histoire, une séquence, un ordre dont j'ai envie de me débarrasser.
 
 Alors j'essaime [sur publie.net](http://www.publie.net/fr/list/auteur-53161-thierry-crouzet/page/1/date), aujourd'hui [chez François Bon](http://www.tierslivre.net/spip/spip.php?article2797) et lui me réponds, ou peut-être dresse devant moi un miroir venu du futur, où je me vois tel que je serai, déjà reconnecté avec une autre réalité, avec d'autres textes.
 
@@ -11,11 +11,7 @@ Je ne suis pas peu fier de l'accueillir, surtout à l'occasion [des vases commun
 François Bon | mon isolement même
 ---------------------------------
 
-<div style="clear:both;text-align:right">
-
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/03/bxlmidi_01.jpg)
-
-</div>
 
 J’avais débranché.
 
@@ -95,16 +91,10 @@ Dans mon tunnel, ce sont les matins froids, humides, venteux, quand le bruit de 
 
 J’habite mon tunnel : alors à nouveau je l’habite avec calme, sérénité. J’habite mon isolement même.
 
-<div style="clear:both;text-align:right">
-
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/03/bxlmidi_02.jpg)
-
-</div>
-
-<div style="clear:both;text-align:right">
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/03/bxlmidi_03.jpg)
 
-</div>
+
 
 Tags: NetLittérature, une

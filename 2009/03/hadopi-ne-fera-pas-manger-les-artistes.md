@@ -1,6 +1,6 @@
 # Hadopi ne fera pas manger les artistes
 
-Un artiste commence toujours par vivre dans la misère. Tant que ses créations n’ont pas touché un public, son art ne lui rapporte rien. Beaucoup d’artistes naissent et meurent dans la misère, beaucoup se découragent en chemin, c’est le lot de l’artiste qui passe sa vie à chercher quelque chose d’imprécis à donner aux hommes. Et la plupart de ceux qui deviennent riches sont souvent des plagiaires, se contenant de vulgariser les idées et les formes que les explorateurs ont mises à jour avant eux.<span id="more-5147"></span>
+Un artiste commence toujours par vivre dans la misère. Tant que ses créations n’ont pas touché un public, son art ne lui rapporte rien. Beaucoup d’artistes naissent et meurent dans la misère, beaucoup se découragent en chemin, c’est le lot de l’artiste qui passe sa vie à chercher quelque chose d’imprécis à donner aux hommes. Et la plupart de ceux qui deviennent riches sont souvent des plagiaires, se contenant de vulgariser les idées et les formes que les explorateurs ont mises à jour avant eux.
 
 Une fois esquissé ce destin tragique de l’artiste, il faut bien admettre qu’un artiste a besoin de subvenir à ses besoins comme n’importe qui. Ce constat est indiscutable et si certains le discutent, qu’ils commencent par cesser de se faire payer pour leur travail, après qu’ils reviennent discuter.
 

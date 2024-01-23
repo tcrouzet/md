@@ -1,6 +1,6 @@
 # Arrêtons le grand délire avec les solutions hydro-alcooliques
 
-Par le plus grand des hasards, alors que la crise coronavirus fait rage, je suis en train d’écrire la suite du [*Geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/), mon livre qui raconte l’histoire du gel hydro-alcoolique et comment l’utiliser. C’est un travail prévu depuis longtemps, longtemps reporté, et auquel je me suis finalement mis depuis le début de l’année. Je ne suis d'autant moins en train de surfer sur la vague que ce livre ne sera publié qu'en 2021 (je n'ai même pas encore négocié avec un éditeur, c'est pour dire).<span id="more-53522"></span>
+Par le plus grand des hasards, alors que la crise coronavirus fait rage, je suis en train d’écrire la suite du [*Geste qui sauve*](https://tcrouzet.com/le-geste-qui-sauve/), mon livre qui raconte l’histoire du gel hydro-alcoolique et comment l’utiliser. C’est un travail prévu depuis longtemps, longtemps reporté, et auquel je me suis finalement mis depuis le début de l’année. Je ne suis d'autant moins en train de surfer sur la vague que ce livre ne sera publié qu'en 2021 (je n'ai même pas encore négocié avec un éditeur, c'est pour dire).
 
 ![Traductions](https://tcrouzet.com/images_tc/2019/01/planche.jpg)
 

@@ -11,8 +11,6 @@
 
 ##### **papier 5.99 €** : [Amazon](http://www.amazon.fr/gp/product/1502518449/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=1502518449&linkCode=as2&tag=tcrouzetcom-21&linkId=YGPUDDZMS2APMF7E).
 
-
-
 Le 15 septembre 1575, sous le règne nouveau de Henri troisième de France, fils de Catherine de Médicis, et alors que débute la cinquième guerre de religion entre protestants et catholiques, Nicolas Dortoman, professeur de médecine à l’université de Montpellier, découvre le clitoris.
 
 Une parodie des thermes de Balaruc transposées au XVI<sup>e</sup>.

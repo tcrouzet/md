@@ -1,6 +1,6 @@
 # Déclaration de guerre contre Internet
 
-Depuis 2005 et le référendum européen au résultat confisqué, il était prévisible que les voix sur le Net allaient prendre de plus en plus de force, non pas à cause d’une personne en particulier, qui serait idolâtrée, mais par l’alliance de millions d’anonymes… par cette intelligence collective souvent moquée par les apparatchiks.<span id="more-11160"></span>
+Depuis 2005 et le référendum européen au résultat confisqué, il était prévisible que les voix sur le Net allaient prendre de plus en plus de force, non pas à cause d’une personne en particulier, qui serait idolâtrée, mais par l’alliance de millions d’anonymes… par cette intelligence collective souvent moquée par les apparatchiks.
 
 Nous en avons la preuve aujourd’hui. Quand les médias traditionnels cherchent à enterrer les affaires (Brice Hortefeux, Frédéric Mitterrand, Jean Sarkozy… et ce n’est qu’un début), elles reviennent sans cesse au devant de la scène, reprises jusqu’à plus soif, parfois avec mauvaise fois, dans le but de crier ce que tous doivent savoir et qu’une classe bienpensante voudrait étouffer.
 

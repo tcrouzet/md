@@ -1,6 +1,6 @@
 # Mini trip dans l’antiquité
 
-Les écrivains sont des architectes. Suivant leur tempérament, leur don, leur objectif, ils excellent à des niveaux structurels variables. Des astronomes en puissance dominent les métastructures, d’autres plutôt chirurgiens travaillent avant tout à l’échelle micrométrique des mots. Véritables magiciens, ils nous amènent ailleurs en quelques syllabes, à bord de véhicules rapides. Marcel Schwob appartient à cette famille de sorciers.<span id="more-32596"></span>
+Les écrivains sont des architectes. Suivant leur tempérament, leur don, leur objectif, ils excellent à des niveaux structurels variables. Des astronomes en puissance dominent les métastructures, d’autres plutôt chirurgiens travaillent avant tout à l’échelle micrométrique des mots. Véritables magiciens, ils nous amènent ailleurs en quelques syllabes, à bord de véhicules rapides. Marcel Schwob appartient à cette famille de sorciers.
 
 > Aussitôt j’eus le désir d’écrire des mimes et mes narines furent chatouillées par l’odeur du suint des laines nouvelles et la fumée grasse des cuisines d’Agrigente et le parfum âcre des étals de poisson à Syracuse.
 

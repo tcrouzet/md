@@ -1,12 +1,14 @@
 # Si t’es auteur, tu antidotes
 
-Quand une attachée de presse me propose de parler d’un produit ou d’un service, je la remballe plus ou moins gentiment. Mais difficile d’envoyer bouler [Clotilde Zeller](http://zellercom.com/) quand elle me demande si j’aimerais tester la version 9 d’[Antidote](http://mysoft.fr/produit/antidote_correcteur_dictionnaire_grammaire.htm). Je suis accro à ce correcteur orthographique depuis des années et je suis encore surpris de croiser régulièrement des auteurs qui ignorent jusqu’à son existence.<span id="more-43706"></span>
+Quand une attachée de presse me propose de parler d’un produit ou d’un service, je la remballe plus ou moins gentiment. Mais difficile d’envoyer bouler [Clotilde Zeller](http://zellercom.com/) quand elle me demande si j’aimerais tester la version 9 d’[Antidote](http://mysoft.fr/produit/antidote_correcteur_dictionnaire_grammaire.htm). Je suis accro à ce correcteur orthographique depuis des années et je suis encore surpris de croiser régulièrement des auteurs qui ignorent jusqu’à son existence.
 
 Depuis bien longtemps les nouveautés logicielles ne m’excitent plus, sauf pour les deux produits qui me sont indispensables au quotidien : [Ulysses](http://www.ulyssesapp.com/), mon traitement de texte, et [Antidote](http://mysoft.fr/produit/antidote_correcteur_dictionnaire_grammaire.htm), mon correcteur que je greffe dessus. Ce couple est devenu la Rolls-Royce de l’écrivain.
 
 Certes, je fais beaucoup de fautes, et je suis donc particulièrement sensible à la correction. Durant des années, j’ai dû me contenter de l’indigente correction proposée par Word. J’étais obligé de faire relire chacune de mes lignes par Isa (ce qui lui donnait l’occasion de me censurer). En basculant sous Antidote, j’ai enfin trouvé le courage de publier mes textes tout seul (et de me soustraire à la censure).
 
 ![Mon premier jet truffé de fautes.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/03/antidote1.png)
+
+Mon premier jet truffé de fautes.
 
 Bien sûr, Antidote ne vaut pas un correcteur humain professionnel, mais il est à ce jour ce qui se fait de mieux en automatique, avec parfois une rigueur énervante, car il voudrait nous faire écrire un peu trop comme il se doit. Que ses développeurs se rassurent : les correcteurs humains sont tout aussi maniaques et il est parfois plus difficile d’outrepasser leurs suggestions que celles d’Antidote. Avec lui, il me suffit de fermer les yeux. Avec mes interlocuteurs humains, le ton est souvent monté très haut, trop haut.
 

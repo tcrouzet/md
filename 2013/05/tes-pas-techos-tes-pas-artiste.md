@@ -1,6 +1,6 @@
 # T’es pas techos, t’es pas artiste
 
-J’ai un jour prétendu : « [T’es pas codeur, t’es pas auteur.](http://blog.tcrouzet.com/2011/03/04/pas-codeur-pas-auteur/) », sous prétexte qu’il faut maîtriser les écritures de son temps pour prétendre être de son temps.<span id="more-32708"></span>
+J’ai un jour prétendu : « [T’es pas codeur, t’es pas auteur.](http://blog.tcrouzet.com/2011/03/04/pas-codeur-pas-auteur/) », sous prétexte qu’il faut maîtriser les écritures de son temps pour prétendre être de son temps.
 
 Résumé de la thèse : si, techniquement et intellectuellement, une œuvre aurait pu être produite plus tôt, elle l’a en toute probabilité déjà été et il ne sert à rien de la reproduire.
 

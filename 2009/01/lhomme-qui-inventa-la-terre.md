@@ -1,6 +1,6 @@
 # L&#8217;homme qui inventa la Terre
 
-Voici le titre quasi définitif de mon prochain livre qui devrait sortir au printemps. Et voici trois essais de couverture dans des styles différents. Vous en pensez quoi ?<span id="more-4607"></span>
+Voici le titre quasi définitif de mon prochain livre qui devrait sortir au printemps. Et voici trois essais de couverture dans des styles différents. Vous en pensez quoi ?
 
 ![betac1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/01/betac1.png)
 

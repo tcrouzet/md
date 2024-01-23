@@ -1,6 +1,6 @@
 # La légalisation des échanges non-marchands est-elle constitutionnelle ?
 
-Le 28 juin, [à l’occasion de Pas Sage En Seine](http://www.passageenseine.org/Passage/PSES-2014), je débats avec [Éric Walter](http://www.hadopi.fr/) et [Lionel Maurel](http://scinfolex.com/) au sujet du partage non-marchand. Une occasion de clarifier ma position (qui au final n’est pas très claire).<span id="more-36192"></span>
+Le 28 juin, [à l’occasion de Pas Sage En Seine](http://www.passageenseine.org/Passage/PSES-2014), je débats avec [Éric Walter](http://www.hadopi.fr/) et [Lionel Maurel](http://scinfolex.com/) au sujet du partage non-marchand. Une occasion de clarifier ma position (qui au final n’est pas très claire).
 
 ### Préambule
 

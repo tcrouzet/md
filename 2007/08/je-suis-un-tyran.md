@@ -1,6 +1,6 @@
 # Je suis un tyran
 
-En route vers le Médoc, j’ai écouté sur France Culture une émission au sujet de [Théodore Sturgeon](http://en.wikipedia.org/wiki/Theodore_Sturgeon), un des grands écrivains de l’âge d’or de la Science Fiction américaine dont les romans m’ont enthousiasmé lorsque j’étais adolescent.<span id="more-534"></span>
+En route vers le Médoc, j’ai écouté sur France Culture une émission au sujet de [Théodore Sturgeon](http://en.wikipedia.org/wiki/Theodore_Sturgeon), un des grands écrivains de l’âge d’or de la Science Fiction américaine dont les romans m’ont enthousiasmé lorsque j’étais adolescent.
 
 ![Par pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070814pacco.jpg)
 

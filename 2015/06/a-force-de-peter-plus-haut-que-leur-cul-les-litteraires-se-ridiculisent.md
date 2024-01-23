@@ -1,6 +1,6 @@
 # À force de péter plus haut que leur cul, les littéraires se ridiculisent
 
-Suite à une de mes trop nombreuses remarques désobligeantes sur laquelle je n’ai pas envie de revenir, un auteur et critique que je respecte m’a répondu sur Twitter : « Qui imagine encore que le langage est traversé par des forces qui l'excèdent, code ou mots ? »<span id="more-41564"></span>
+Suite à une de mes trop nombreuses remarques désobligeantes sur laquelle je n’ai pas envie de revenir, un auteur et critique que je respecte m’a répondu sur Twitter : « Qui imagine encore que le langage est traversé par des forces qui l'excèdent, code ou mots ? »
 
 Je suis effondré quand on me répond une chose pareille, parce qu’il me semble qu’elle implique de reprendre tout le travail des philosophes depuis Nietzsche et surtout Wittgenstein. Et même remonter jusqu’à la théorie de l’évolution.
 

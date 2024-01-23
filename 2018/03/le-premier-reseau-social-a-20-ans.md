@@ -1,6 +1,6 @@
 # Le premier réseau social a 20 ans
 
-Oui, vingt ans déjà, mais peu de gens savent que [Rezonance](https://www.rezonance.ch/), le premier réseau social, est né à Genève, tout comme le Web et juste huit ans après lui.<span id="more-46331"></span>
+Oui, vingt ans déjà, mais peu de gens savent que [Rezonance](https://www.rezonance.ch/), le premier réseau social, est né à Genève, tout comme le Web et juste huit ans après lui.
 
 Demain, je participe à la célébration [en donnant une conférence lors d’un First organisé par Rezonance](https://www.rezonance.ch/events/reseau-entraide-se-conjuguent/). En anticipation de cet évènement, Geneviève m’a posé quelques questions. Tout d’abord quelques mots sur elle.
 

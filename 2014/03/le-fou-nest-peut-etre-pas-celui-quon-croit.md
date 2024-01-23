@@ -1,6 +1,6 @@
 # Le fou n’est peut-être pas celui qu’on croit
 
-Nous pouvons commettre bien des erreurs au cours de note vie. Certaines fatales, certaines qui nous coûtent longtemps, certaines que nous répétons souvent faute de nous remettre en question, parmi ces dernières, le déni d’intelligence.<span id="more-34868"></span>
+Nous pouvons commettre bien des erreurs au cours de note vie. Certaines fatales, certaines qui nous coûtent longtemps, certaines que nous répétons souvent faute de nous remettre en question, parmi ces dernières, le déni d’intelligence.
 
 Cette fâcheuse habitude est paradoxalement commune à toutes les catégories d’intelligence. Elle consiste, quand on n’est pas d’accord avec quelqu’un ou quand on ne comprend rien à ce qu’il nous dit, de le déclarer stupide, confus, embrouillé, plongé dans un marasme insondable.
 
@@ -45,6 +45,8 @@ Il est souvent inutile de discuter en amont avec quelqu’un si on n’a pas ide
 Il n’est pas question de vérité (l’existence de la vérité étant le postulat des essentialistes). Il est question de questionner. Pas de dire que l’autre n’a pas compris, mais d’un temps endosser sa vision et de voir où elle mène. C’est l’attitude philosophique élémentaire. Avant de rejeter une pensée, tenter de la mettre en œuvre. Ne pas voir toute pensée dérangeante, différente, comme fausse *a priori*. Non pas crier à l'incohérence dès qu’il nous manque des éléments. Le mépris est le début du racisme, sa nourriture première, le fiel de toutes les discordes.
 
 ![J'ai la tête dure mais je me protège](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/ski.jpg)
+
+J'ai la tête dure mais je me protège
 
 
 

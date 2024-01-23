@@ -1,6 +1,6 @@
 # Le totalitarisme pour sauver la planète
 
-C’est quoi une société totalitaire ? Une société profondément inégale. D’un côté des privilégiés, des maîtres, des seigneurs. D’un autre côté, des esclaves, des soldats, des pions.<span id="more-5923"></span>
+C’est quoi une société totalitaire ? Une société profondément inégale. D’un côté des privilégiés, des maîtres, des seigneurs. D’un autre côté, des esclaves, des soldats, des pions.
 
 Si nous considérons la population mondiale nous sommes déjà dans cette situation. Nous autres occidentaux sommes les nantis. Nous vivons plus vieux que les plus pauvres, nous voyageons ils ne voyagent pas, nous avons accès à la culture ils se contentent souvent de survivre… Notre monde actuel est donc totalitaire parce qu’il maintient des inégalités gigantesques d’un bout à l’autre de la planète.
 

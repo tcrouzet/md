@@ -1,6 +1,6 @@
 # Twitter : écriture sous stéroïde
 
-Pratiquer [la twittérature](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/) procure des sensations extraordinaires, dignes des drogues les plus stimulantes et hallucinantes. Trois effets se conjuguent pour aboutir à cette alchimie stupéfiante.<span id="more-32045"></span>
+Pratiquer [la twittérature](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/) procure des sensations extraordinaires, dignes des drogues les plus stimulantes et hallucinantes. Trois effets se conjuguent pour aboutir à cette alchimie stupéfiante.
 
 1. **Contrainte.** Elle change la perspective de l'auteur, lui donne à voir la réalité et son écriture sous un angle inhabituel.
 2. **Live.** Le lecteur guette les tweets, pousse l'auteur à l'excellence, lui donne un sentiment d'urgence.

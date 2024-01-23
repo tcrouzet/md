@@ -1,6 +1,6 @@
 # L&#8217;homme qui lave les mains #1
 
-Quand on se lance dans [un nouveau projet d’écriture](http://blog.tcrouzet.com/tag/lhomme-qui-lave-les-mains/), surtout quand on s’attaque à un sujet hors de soi, il y a un moment de flottement. Il faut lire, écouter, se créer un univers. On commence souvent par remonter à la genèse du sujet. Par exemple, Kessel commence la vie de [Félix Kersten](http://fr.wikipedia.org/wiki/Felix_Kersten) par raconter ses ancêtres.<span id="more-32584"></span>
+Quand on se lance dans [un nouveau projet d’écriture](http://blog.tcrouzet.com/tag/lhomme-qui-lave-les-mains/), surtout quand on s’attaque à un sujet hors de soi, il y a un moment de flottement. Il faut lire, écouter, se créer un univers. On commence souvent par remonter à la genèse du sujet. Par exemple, Kessel commence la vie de [Félix Kersten](http://fr.wikipedia.org/wiki/Felix_Kersten) par raconter ses ancêtres.
 
 Lors de notre première rencontre, Didier Pittet m’a raconté l’histoire d’[Ignaz Semmelweis](http://fr.wikipedia.org/wiki/Ignace_Philippe_Semmelweis), son père spirituel. Dans les années 1846-1847, ce médecin hongrois s’étonne du taux de mortalité astronomique de 28 % dans la maternité de l'Hôpital Général de Vienne, un hôpital que les femmes informées évitaient avec raison.
 

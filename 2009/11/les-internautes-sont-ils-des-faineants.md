@@ -1,6 +1,6 @@
 # Les internautes sont-ils des fainéants ?
 
-Faut-il nécessairement passer par le papier et le circuit traditionnel pour être lu quand on écrit un texte de plus de quelques pages ? Je ne cesse de me poser cette question.<span id="more-12292"></span>
+Faut-il nécessairement passer par le papier et le circuit traditionnel pour être lu quand on écrit un texte de plus de quelques pages ? Je ne cesse de me poser cette question.
 
 Les textes longs impliquent un temps long, celui de la réflexion, celui qui laisse l’imaginaire vagabonder, celui de la créativité… Je ne peux concevoir que nous allons cesser de pratiquer cette forme millénaire. Je m’en sens incapable en tant qu’auteur et que lecteur. Si je n'avais pas lu et écrit des textes longs, je serais incapable d'écrire des textes courts, je serais même incapable de penser.
 

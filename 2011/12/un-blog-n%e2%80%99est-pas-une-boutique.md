@@ -1,6 +1,6 @@
 # Un blog n’est pas une boutique
 
-[*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/) va partir en imprimerie et en ebook forgerie. Je peux enfin cesser de me demander si je dois modifier un passage, en supprimer un autre, en ajouter un dernier. J’ai beaucoup coupé, notamment les parenthèses théoriques qui n’étaient pas dans le ton de l’auto-fiction et que j’estime plus à leur place sur mon blog. Par exemple, le chapitre intitulé « Préservons les belles-mères » que voici. Le contexte. En mai, j’étais en train de lire *Predictably Irrational* de Dan Ariely.<span id="more-22591"></span>
+[*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/) va partir en imprimerie et en ebook forgerie. Je peux enfin cesser de me demander si je dois modifier un passage, en supprimer un autre, en ajouter un dernier. J’ai beaucoup coupé, notamment les parenthèses théoriques qui n’étaient pas dans le ton de l’auto-fiction et que j’estime plus à leur place sur mon blog. Par exemple, le chapitre intitulé « Préservons les belles-mères » que voici. Le contexte. En mai, j’étais en train de lire *Predictably Irrational* de Dan Ariely.
 
 ---
 

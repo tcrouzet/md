@@ -2,8 +2,6 @@
 
 > Va expliquer à un mec sur une chaine de montage de bagnoles par exemple que dorénavant sa structure ne sera plus pyramidale mais en réseau ! Soit il rigole et continue à serrer ses boulons, soit il te balance sa clé à molette dans la tronche !
 
-<span id="more-4016"></span>
-
 Personne ne va rien expliquer à personne. Un matin, la chaîne de montage sera fermée et ce n’est pas à moi que le mec enverra sa clé dans la tronche. Je ne serai pour rien dans la délocalisation voire la faillite de son usine.
 
 Nous venons d’assister à la gloire du capitalisme et nous avons constaté que l’écart se creuse toujours plus entre les pauvres et les riches. Si les pyramides s’élèvent encore comme nous le constatons en ce moment, la vie à leur base va devenir de plus en plus pénible. Il est illusoire de croire que, quand le sommet de la pyramide s’élève, sa base s’élève aussi. Une pyramide n’est pas une fusée qui décolle, mais une chose qui s’allonge comme un élastique.

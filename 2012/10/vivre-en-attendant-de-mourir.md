@@ -1,6 +1,6 @@
 # Vivre en attendant de mourir
 
-Narvic n’est pas venu à [la Maison des métallos pour la conf revival sur le cinquième pouvoir](http://blog.tcrouzet.com/2012/10/29/le-cinquieme-pouvoir-en-stase/), mais il a posté un [long commentaire](http://blog.tcrouzet.com/2012/10/29/le-cinquieme-pouvoir-en-stase/?cid=129900), comme toujours stimulant.<span id="more-29449"></span>
+Narvic n’est pas venu à [la Maison des métallos pour la conf revival sur le cinquième pouvoir](http://blog.tcrouzet.com/2012/10/29/le-cinquieme-pouvoir-en-stase/), mais il a posté un [long commentaire](http://blog.tcrouzet.com/2012/10/29/le-cinquieme-pouvoir-en-stase/?cid=129900), comme toujours stimulant.
 
 \
 

@@ -12,7 +12,6 @@
 
 - [Blog](/tag/eratosthene/)
 
-
 L'avenir a un long passé
 ------------------------
 
@@ -24,17 +23,11 @@ L'avenir a un long passé
 
 ##### **papier 15.99 €** : [Amazon](https://www.amazon.fr/Ératosthène-Thierry-Crouzet/dp/1536860778/), [CreateSpace](https://www.createspace.com/6470073).
 
-
-
-
-
 ### Présentation
 
 Au III<sup>e</sup> siècle av. J-C, Ératosthène a inventé la géographie et mesuré la Terre. Directeur de la bibliothèque d’Alexandrie, poète, mathématicien et surtout philosophe de la liberté, il est tombé dans l’oubli pendant deux mille ans. Nous le redécouvrons plus vivant que jamais dans un roman historique qui nous plonge dans l’Égypte et la Grèce antiques.
 
 Ératosthène a cherché le bonheur dans un temps de grands bouleversements, siège d’inventions révolutionnaires et d’une barbarie sans nom. Toute ressemblance avec notre époque n’est pas involontaire. Cet homme de l’Antiquité nous initie à notre modernité.
-
-
 
 ### Un roman protéiforme
 

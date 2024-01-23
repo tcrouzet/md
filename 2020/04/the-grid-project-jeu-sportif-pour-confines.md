@@ -1,6 +1,6 @@
 # The Grid Project &#8211; jeu sportif pour confinés
 
-Depuis le début du confinement, [depuis le décret des 1 km/1 heure](https://tcrouzet.com/2020/03/24/le-confine-peut-donc-faire-du-velo/), je tourne en rond dans mon quartier. Tous les jours, j’ai de moins en moins envie de sortir, alors je me suis lancé un petit défi, parcourir toutes les rues dans le cercle. On appelle ça du [carroyage](https://fr.wikipedia.org/wiki/Carroyage).<span id="more-53967"></span>
+Depuis le début du confinement, [depuis le décret des 1 km/1 heure](https://tcrouzet.com/2020/03/24/le-confine-peut-donc-faire-du-velo/), je tourne en rond dans mon quartier. Tous les jours, j’ai de moins en moins envie de sortir, alors je me suis lancé un petit défi, parcourir toutes les rues dans le cercle. On appelle ça du [carroyage](https://fr.wikipedia.org/wiki/Carroyage).
 
 Je le fais à vélo, mais on peut le faire en marchant, en courant, en roller… Tout à coup, j’ai retrouvé le sourire et me suis pris au jeu. J’ai découvert des passages que je n’avais pas pris depuis que j’étais gamin, et d’autres qui n’existaient pas quand j’étais gamin et qui ont poussé dans les nouveaux quartiers.
 

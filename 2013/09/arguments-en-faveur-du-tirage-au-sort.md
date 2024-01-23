@@ -1,6 +1,6 @@
 # Arguments en faveur du tirage au sort
 
-Depuis le premier jour où Étienne Chouard m'a parlé du tirage au sort, je suis sceptique. Pour moi, le bug dans notre système politique, c'est la représentation, une autre façon de faire référence au modèle top-down massivement dominant. Être élu ou tiré au sort ça change certes, mais rien de fondamental, d'autant que le pouvoir à la fâcheuse tendance à corrompre.<span id="more-33500"></span>
+Depuis le premier jour où Étienne Chouard m'a parlé du tirage au sort, je suis sceptique. Pour moi, le bug dans notre système politique, c'est la représentation, une autre façon de faire référence au modèle top-down massivement dominant. Être élu ou tiré au sort ça change certes, mais rien de fondamental, d'autant que le pouvoir à la fâcheuse tendance à corrompre.
 
 [Et voici que mon Kindle m'étant revenu par la voie des airs](http://blog.tcrouzet.com/2013/09/19/tribulation-dun-kindle/), je reprends la lecture d'[*Antifragile*](http://blog.tcrouzet.com/2013/09/02/lecriture-antifragile/).
 

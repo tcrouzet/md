@@ -1,10 +1,8 @@
 # La démocratie a-t-elle besoin du capitalisme ?
 
-<div style="padding-top: 8px;"></div>
+
 
 > Les civilisations et les empires s’écroulent de l’intérieur. C’est ainsi que Rome finit, c’est ce qui nous arrive.
-
-<span id="more-11277"></span>
 
 Et c’est ainsi que commence le nouvel essai de [Didier Long](http://didierlong.net) publié chez Bourin Éditeur, *Capitalisme 
 et christianisme, 2000 ans d’une tumultueuse histoire*. Le livre format ebook est [lisible gratuitement en ligne](http://fr.calameo.com/read/00010398174b4c70dec7f) jusqu’à sa sortie le 12 novembre (j’ai fourni mon modèle d’ebook).

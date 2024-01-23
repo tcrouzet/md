@@ -1,8 +1,10 @@
 # Les maux du Web consubstantiels de sa topologie
 
-En réfléchissant [au potentiel de blockchain dans la rénovation de la démocratie](http://tcrouzet.com/2016/01/03/et-si-blockchain-revolutionnait-la-democratie/), je suis retombé sur les trois architectures de réseau imaginées par Paul Baran, avec au-dessus de chacune les mentions « passé, présent et futur », et j’ai reçu comme une décharge électrique.<span id="more-43261"></span>
+En réfléchissant [au potentiel de blockchain dans la rénovation de la démocratie](http://tcrouzet.com/2016/01/03/et-si-blockchain-revolutionnait-la-democratie/), je suis retombé sur les trois architectures de réseau imaginées par Paul Baran, avec au-dessus de chacune les mentions « passé, présent et futur », et j’ai reçu comme une décharge électrique.
 
 ![Les trois architectures de Paul Baran.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/trois-b.png)
+
+Les trois architectures de Paul Baran.
 
 Le réseau en étoile symbolise le modèle hiérarchique, celui de feu le Minitel en France, mais également celui de la plupart des entreprises et des dictatures. Nous savons qu’il est efficace avec des structures relativement simples et face à des problèmes également simples (au sens où la méthode cartésienne est applicable : un avion est simple, le climat est complexe).
 

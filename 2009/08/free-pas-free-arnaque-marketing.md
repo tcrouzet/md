@@ -4,7 +4,7 @@
 
 ![Anderson1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/Anderson1.gif)
 
-Je lis Chris Anderson depuis longtemps. Il est l’un des intellectuels qui compte pour moi ([à tel point que, un peu plus tôt dans la journée, j’ai écrit CHRIST Anderson dans un tweet](http://twitter.com/crouzet/status/3600569743)). J’ai suivi l’aventure de son nouveau livre *Free* sur [son blog](http://www.thelongtail.com/), [j’en ai parlé après l’article de *Wired* en juin 2008](http://blog.tcrouzet.com/2008/06/01/mediapart-mort-ne/) et j’ai été heureux d’apprendre que le livre serait distribué gratuitement en version électronique.<span id="more-9050"></span>
+Je lis Chris Anderson depuis longtemps. Il est l’un des intellectuels qui compte pour moi ([à tel point que, un peu plus tôt dans la journée, j’ai écrit CHRIST Anderson dans un tweet](http://twitter.com/crouzet/status/3600569743)). J’ai suivi l’aventure de son nouveau livre *Free* sur [son blog](http://www.thelongtail.com/), [j’en ai parlé après l’article de *Wired* en juin 2008](http://blog.tcrouzet.com/2008/06/01/mediapart-mort-ne/) et j’ai été heureux d’apprendre que le livre serait distribué gratuitement en version électronique.
 
 À la sortie du livre aux États-Unis le 7 juillet, [j’ai voulu lire le livre sur scribd](http://www.scribd.com/doc/17135767/FREE-by-Chris-Anderson). Manque de chance, le livre était bloqué pour les lecteurs étrangers. Explication sur le blog d’Anderson :
 

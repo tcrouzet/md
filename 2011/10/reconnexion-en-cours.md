@@ -1,6 +1,6 @@
 # Reconnexion en cours
 
-Je voudrais vous donner quelques nouvelles. Je vais bien, même si l’expérience de déconnexion m’a profondément marqué. Je ne m’attendais pas, par exemple, à montrer peu d’empressement à me reconnecter. C’est le cas.<span id="more-22417"></span>
+Je voudrais vous donner quelques nouvelles. Je vais bien, même si l’expérience de déconnexion m’a profondément marqué. Je ne m’attendais pas, par exemple, à montrer peu d’empressement à me reconnecter. C’est le cas.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/10/debrancher250.jpg)
 

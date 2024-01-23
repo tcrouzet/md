@@ -1,6 +1,6 @@
 # Ératosthène-Junior-Junior
 
-Tu écris, tu voudrais que ça fasse bouger les gens, surtout les plus jeunes, tu as des espoirs, pure folie du point de vue des probabilités, puis tu reçois des mails, des lettres, des commentaires qui te donnent un peu de courage pour continuer, surtout quand la critique officielle et bien pensante t'ignore. Aujourd'hui, c'est Line Fromental, auteure de [*Brin d'enfance*](http://www.biblioblog.fr/post/2010/07/30/Brins-d-enfance-Line-Fromental) qui m'envoie un peu de lumière. Je reproduis son commentaire.<span id="more-37451"></span>
+Tu écris, tu voudrais que ça fasse bouger les gens, surtout les plus jeunes, tu as des espoirs, pure folie du point de vue des probabilités, puis tu reçois des mails, des lettres, des commentaires qui te donnent un peu de courage pour continuer, surtout quand la critique officielle et bien pensante t'ignore. Aujourd'hui, c'est Line Fromental, auteure de [*Brin d'enfance*](http://www.biblioblog.fr/post/2010/07/30/Brins-d-enfance-Line-Fromental) qui m'envoie un peu de lumière. Je reproduis son commentaire.
 
 ---
 

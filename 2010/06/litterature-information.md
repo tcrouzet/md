@@ -1,6 +1,6 @@
 # La littérature contre l’information
 
-Un journaliste ou un scientifique se doit de dire la vérité, en tout cas pour le peu qu’il sait. Il doit mettre en ordre, pratiquer une écriture politiquement correcte, sans choquer aucune susceptibilité. Un littérateur, en revanche, a tous les droits, même de dire des absurdités (mais si elles choquent ou dérangent sont-elles réellement absurdes ?).<span id="more-17224"></span>
+Un journaliste ou un scientifique se doit de dire la vérité, en tout cas pour le peu qu’il sait. Il doit mettre en ordre, pratiquer une écriture politiquement correcte, sans choquer aucune susceptibilité. Un littérateur, en revanche, a tous les droits, même de dire des absurdités (mais si elles choquent ou dérangent sont-elles réellement absurdes ?).
 
 Je m’inscris dans cette seconde famille, je ne suis ni journaliste, ni scientifique (même si j’ai un temps été payé comme journaliste et si j’ai reçu une formation de scientifique). Je n’effectue aucune recherche d’informations nouvelles, et pomper telles quelles celles trouvées par d’autres m’intéresse peu. Je n’écris pas pour raconter ce que pensent les autres, mais pour provoquer le lecteur.
 

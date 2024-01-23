@@ -1,6 +1,6 @@
 # Le texte moléculaire
 
-Plus j’avance dans la rédaction de [*1 minute*](http://www.wattpad.com/story/29694130-1-minute), plus je mesure que je mets en œuvre une théorie esthétique que j’ai formalisée durant les années 1990 : l’échantillonnage.<span id="more-41223"></span>
+Plus j’avance dans la rédaction de [*1 minute*](http://www.wattpad.com/story/29694130-1-minute), plus je mesure que je mets en œuvre une théorie esthétique que j’ai formalisée durant les années 1990 : l’échantillonnage.
 
 Pensez à la technique de stockage de la musique numérique : on découpe la source analogique en échantillons qu’on traduit en nombres. Cela revient à faire une ponction de la totalité et de laisser l’appareil de lecture, et notre cerveau, reconstituer la totalité dans sa continuité.
 

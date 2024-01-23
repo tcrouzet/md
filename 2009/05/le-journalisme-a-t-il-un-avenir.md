@@ -1,6 +1,6 @@
 # Le journalisme a-t-il un avenir ?
 
-Que sont devenus les enlumineurs du moyen-âge ? Que sont devenus les moines copistes ? Que sont devenus les relieurs ? Ils ont presque tous disparu parce qu’un métier ne survit que tant qu’une économie le soutient et lui donne sens. Toute profession est vouée à disparaître.<span id="more-6206"></span>
+Que sont devenus les enlumineurs du moyen-âge ? Que sont devenus les moines copistes ? Que sont devenus les relieurs ? Ils ont presque tous disparu parce qu’un métier ne survit que tant qu’une économie le soutient et lui donne sens. Toute profession est vouée à disparaître.
 
 Certaines fonctions sociales semblent plus durables que d’autres. Il y avait des artistes, il y a des artistes, il y aura des artistes. L’artiste pour moi nourrit notre conscience réflexive et je crois que toute conscience réflexive a besoin d’art, même si cette conscience se trouve un jour transportée sur des supports inédits.
 

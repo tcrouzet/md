@@ -2,7 +2,7 @@
 
 Si vous faites du sport, vous vous affutez.
 
-Le yoga des yeux, cette gymnastique oculaire, peut même aider à corriger l’astigmatisme ou la myopie.<span id="more-22230"></span>
+Le yoga des yeux, cette gymnastique oculaire, peut même aider à corriger l’astigmatisme ou la myopie.
 
 Si vous mangez moins, vous vivez plus vieux. En tout cas, c’est prouvé chez les souris.
 

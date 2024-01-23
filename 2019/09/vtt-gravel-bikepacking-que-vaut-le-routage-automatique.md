@@ -1,6 +1,6 @@
 # VTT, gravel, bikepacking : que vaut le routage automatique
 
-Une trace vélo s’apparente à une œuvre d’art, elle ne cherche ni le plus court chemin, ni le moins difficile, mais le plus enchanteur (l’enchantement étant une notion fort relative qui dépend de l’équipement, de la forme physique, du temps disponible et de mille autres paramètres). En attendant les IA de routage, quand est-il aujourd’hui des automates de routage ?<span id="more-52477"></span>
+Une trace vélo s’apparente à une œuvre d’art, elle ne cherche ni le plus court chemin, ni le moins difficile, mais le plus enchanteur (l’enchantement étant une notion fort relative qui dépend de l’équipement, de la forme physique, du temps disponible et de mille autres paramètres). En attendant les IA de routage, quand est-il aujourd’hui des automates de routage ?
 
 Pouvons-nous les utiliser les yeux fermés ? Proposent-ils des brouillons intéressants ? Passent-ils à côté des meilleures traces ? Ou font-ils des trouvailles ? En tant que bikepacker VTT ou gravel, je recherche en priorité à fuir les voitures et j’en attends autant des solutions proposées.
 
@@ -15,40 +15,30 @@ Dans un rayon d’une trentaine de kilomètres autour de chez moi, je connais la
 Komoot en mode VTT envoie d’entrée sur une route désagréable, puis rejoint une piste cyclable, puis une route très fréquentée, quittée à mi-parcours avant d’attaquer une minuscule desserte communale, puis la garrigue, avec un final pas du tout adapté au gravel et même assez technique à VTT, ce que ne montre pas le profil.
 
 ![Trace Komoot VTT](https://tcrouzet.com/images_tc/2019/09/komoot-600x266.jpg)
-
-**Stats** : 8,8 km, 59 % de chemin et single pour 25 % de route.
+ : 8,8 km, 59 % de chemin et single pour 25 % de route.
 
 En mode touring ou gravel, Komoot démarre mieux, empruntant immédiatement la piste cyclable, mais la quittant de façon inexplicable pour rejoindre une route abominable, puis traverse de long en large un centre commercial, avant d’attaquer la garrigue par une de mes entrées favorites. Tout se passe bien avant que la trace ne se jette dans un single impraticable à vélo, avec des marches de plus d’un mètre suivies de virages serrés. Elle rejoint en suite la première piste VTT au final exigeant. Avec mes copains, nous ne passons jamais par là. Les modes touring et gravel devraient être plus cool que le mode VTT, il n’en est rien. C'est un gros bug.
-
-**Stats** : 8,1 km, 46 % de chemin et single pour 20 % de route.
+ : 8,1 km, 46 % de chemin et single pour 20 % de route.
 
 J’ai regardé le mode piéton, qui commence comme le mode VTT, puis rejoint le mode touring, sinon qu’il emprunte une gorge agréable à VTT, même si assez technique. J’ai ainsi souvent l’habitude d’utiliser ce mode sans trop lui faire confiance. Si certains GR sont praticables à vélo, d’autres sont des coupe-gorges.
 
 Mapy commence bien, en suivant la piste cyclable plus fidèlement que Komoot, mais il reste en suite trop longtemps sur la route, la quittant pour une petite desserte asphaltée et n’entrant dans la garrigue que vers le final, rejoignant la voie VTT de Komoot.
-
-**Stats** : 8,4 km, 18 % de chemin et single pour 38 % de route.
+ : 8,4 km, 18 % de chemin et single pour 38 % de route.
 
 Strava ne possède pas de mode VTT, mais sa trace emprunte abondamment les chemins ce qui peut s’avérer dangereux pour les purs routiers. Avec l’option populaire, il suit la route avant de la quitter pour rester dans la garrigue jusqu’au bout, finissant par plonger dans le single impossible.
-
-**Stats** : 8,9 km, 68 % de chemin et single pour 29 % de route.
+ : 8,9 km, 68 % de chemin et single pour 29 % de route.
 
 Sans l’option populaire, Strava suit pratiquement l’option Komoot Touring, excepté au début où elle privilégie les routes à la piste cyclable.
-
-**Stats** : 7,7 km, 58 % de chemin et single pour 28 % de route.
+ : 7,7 km, 58 % de chemin et single pour 28 % de route.
 
 Si Garmin Connect en mode gravel est peu convaincant, très proche du résultat proposé par Mapy, il s’en tire mieux en mode VTT, en première analyse. Après un début trop routier, il propose un beau parcours très technique et très physique, avant d'arriver au creux d'une combe quasi impossible à escalader à VTT et qui implique du portage pour franchir des séries de marches très caillouteuses.
-
-**Stats** : 8,5 km, 58 % de chemin et single pour 19 % de route.
+ : 8,5 km, 58 % de chemin et single pour 19 % de route.
 
 Après un départ semblable à Komoot VTT et Garmin, OpenRunner propose avec son mode gravel/cyclotourisme une fort belle trace gravel.
-
-**Stats** : 9,9 km, 64 % de chemin pour 17 % de route.
-
-**Ma version VTT** : 8,5 km, 78 % de chemin et single pour 3 % de route (un bout de centre commercial).
-
-**Ma version Gravel** : 10 km, 83 % de chemin pour 14 % de route (un bout de centre commercial et une minuscule route communale).
-
-**Bilan** Pour le VTT, Komoot offre la meilleure trace, tout en restant en retrait de la mienne. Pour le gravel, OpenRunner est de loin le meilleur, ma version ne le surpassant qu'au départ.
+ : 9,9 km, 64 % de chemin pour 17 % de route.
+ : 8,5 km, 78 % de chemin et single pour 3 % de route (un bout de centre commercial).
+ : 10 km, 83 % de chemin pour 14 % de route (un bout de centre commercial et une minuscule route communale).
+ Pour le VTT, Komoot offre la meilleure trace, tout en restant en retrait de la mienne. Pour le gravel, OpenRunner est de loin le meilleur, ma version ne le surpassant qu'au départ.
 
 J’ai rassemblé toutes ces traces sur [une carte Google Map](https://drive.google.com/open?id=1i6A0y2H5w6sQu6kDcKezTk9uMnnK3vGK&usp=sharing) pour ceux qui aimeraient les analyser dans le détail. Pour les stats, j’utilise Komoot dans lequel j’importe les fichiers GPX générés.
 
@@ -63,20 +53,16 @@ Durant l’été, j’ai créé manuellement plusieurs traces pour relier la vil
 ![Résultat test 2](https://tcrouzet.com/images_tc/2019/09/comp2-600x266.jpg)
 
 Comme la première fois, Komoot en mode VTT commence par la route avant de trouver la piste cyclable, puis s’en écarte pour suivre une voie parallèle à la nationale 113, avant de piquer dans la garrigue. C’est une option que nous choisissons parfois, bien qu’il en existe d’autres, plus agréables. La suite est assez bluffante. La trace emprunte des chemins sur lesquels nous roulons souvent.
-
-**Stats** : 34,2 km, 64 % de chemin et single pour 26 % de route.
+ : 34,2 km, 64 % de chemin et single pour 26 % de route.
 
 Komoot version Touring et Strava n’ont aucun intérêt cette fois. Ils se cantonnent aux parties asphaltées, flirtant trop souvent avec la nationale. Aucun intérêt même pour un parcours gravel (et même par la route on peut mieux faire).
 
 Garmin VTT est également peu convaincant, trop route, empruntant même sur 3 km la nationale 113.
-
-**Stats** : 31,3 km, 5 % de chemin et single pour 62 % de route.
+ : 31,3 km, 5 % de chemin et single pour 62 % de route.
 
 OpenRunner réussit la prouesse de ne proposer aucun chemin sur ce trajet.
-
-**Sats** : 30,6 km, 0 % de chemin, 59 % de route, le reste étant la piste cyclables et quelques rues.
-
-**Mes stats VTT** : 34,9 km, 65 % de chemin et single pour 28 % de route.
+ : 30,6 km, 0 % de chemin, 59 % de route, le reste étant la piste cyclables et quelques rues.
+ : 34,9 km, 65 % de chemin et single pour 28 % de route.
 
 ![Test 2 : comparatif](https://tcrouzet.com/images_tc/2019/09/test2-600x89.png)
 
@@ -91,8 +77,7 @@ Lors de [ma traversée Méditerranée-Atlantique](https://tcrouzet.com/2019/08/2
 ![Résultat test 3](https://tcrouzet.com/images_tc/2019/09/comp3-600x292.jpg)
 
 J’ai créé mon parcours [en superposant les traces des vététistes du coin et en les interconnectant à l’aide des cartes OSM et IGN](https://tcrouzet.com/2019/04/12/bikepacking-mediterranee-atlantique/). Mon ambition n’était pas de maximiser les chemins, mais de réduire au maximum les interactions avec les voitures, tout en passant par quelques lieux remarquables et en dénichant quelques beaux singles. J’avais aussi pour objectif de ne pas trop nous charger en D+.
-
-**Stats** : 93,9 km, 36 % de chemin et single pour 47 % de routes minuscules et 1 920 m de D+.
+ : 93,9 km, 36 % de chemin et single pour 47 % de routes minuscules et 1 920 m de D+.
 
 ![Test 3 : comparatif](https://tcrouzet.com/images_tc/2019/09/test3-600x65.png)
 

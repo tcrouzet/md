@@ -1,6 +1,6 @@
 # Des billets rares et payants
 
-Comme le rappelle [Pierre Fraser](http://theoriedestendances.com/2010/02/24/bloguer-ou-ne-pas-bloguer-that-is-the-question%E2%80%A6/), Nicolas Taleb m’avait conseillé de ne pas bloguer et de me faire rare. Je ne l’ai pas écouté, je n’ai toujours pas envie de cesser de bloguer mais je me demande si je ne devrais pas simuler la rareté en rendant de temps à autre un de mes billets payants. Il serait ainsi mécaniquement rare.<span id="more-14952"></span>
+Comme le rappelle [Pierre Fraser](http://theoriedestendances.com/2010/02/24/bloguer-ou-ne-pas-bloguer-that-is-the-question%E2%80%A6/), Nicolas Taleb m’avait conseillé de ne pas bloguer et de me faire rare. Je ne l’ai pas écouté, je n’ai toujours pas envie de cesser de bloguer mais je me demande si je ne devrais pas simuler la rareté en rendant de temps à autre un de mes billets payants. Il serait ainsi mécaniquement rare.
 
 Le but de la manœuvre serait de rappeler qu’un auteur doit engranger des revenus pour continuer d’écrire tout en refusant la stratégie du freemium : « Tu donnes tes textes et tu gagnes sur autre chose. » Cette technique est applicable pour beaucoup de gens qui bloguent sauf pour les gens dont la seule activité est d’écrire.
 

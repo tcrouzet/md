@@ -2,7 +2,6 @@
 
 En même temps que l'usage du mot cyclotourisme diminue, celui du mot bikepacking augmente. En Anglais, c'est plus flagrant : bike touring laisse place à bikepacking, ce qui semble insinuer une simple substitution du terme originel par le nouveau. Cette évolution, sans doute irréversible, n'est pas sans conséquence sémantique, car le mot bikepacking est initialement apparu pour désigner une forme particulière de bike touring : bike touring hors asphalte. Effacer la nuance ne peut qu'entraîner de l'incompréhension entre ceux qui, comme moi, utilisent encore le mot bikepacking dans son sens premier et ceux qui l'assimilent à cyclotourisme en général.
 
-
 ![Trends France](https://tcrouzet.com/images_tc/2024/01/versus.png)
 
 ![Trends monde](https://tcrouzet.com/images_tc/2024/01/versus_monde.png)

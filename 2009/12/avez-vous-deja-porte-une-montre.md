@@ -1,6 +1,6 @@
 # Avez-vous déjà porté une montre ?
 
-Du fond de ma grippe, j'ai lu *La société de flux* d’Andrea Semprini, publié en 2003. Il y insiste sur l’évolution de notre rapport au temps, sur la disparition de l’idée de rendez-vous et la dimension temporelle du Flux.<span id="more-12802"></span>
+Du fond de ma grippe, j'ai lu *La société de flux* d’Andrea Semprini, publié en 2003. Il y insiste sur l’évolution de notre rapport au temps, sur la disparition de l’idée de rendez-vous et la dimension temporelle du Flux.
 
 Sur certaines liaisons aériennes ou ferroviaires, nous savons qu’il y a toujours une navette de prévue. Nous allons souvent faire nos courses sans nous poser la question de savoir si les magasins sont ouverts ou non (surtout aux États-Unis ou chez nous en période de fêtes). En ligne, les services (banques, news…) sont continuellement accessibles.
 

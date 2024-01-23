@@ -1,6 +1,6 @@
 # Tarkovski et la liberté
 
-[Andreï Tarkovski](http://fr.wikipedia.org/wiki/Andre%C3%AF_Tarkovski) vécut en URSS sous le joug communiste. Il réussit malgré toutes les difficultés à y créer ses chefs-d'œuvre (*Andreï Roublev* 1966, *Solaris* 1972, *Le miroir* 1974 et *Stalker* 1979).<span id="more-43"></span>
+[Andreï Tarkovski](http://fr.wikipedia.org/wiki/Andre%C3%AF_Tarkovski) vécut en URSS sous le joug communiste. Il réussit malgré toutes les difficultés à y créer ses chefs-d'œuvre (*Andreï Roublev* 1966, *Solaris* 1972, *Le miroir* 1974 et *Stalker* 1979).
 
 En 1984, alors qu'il vit en Europe depuis deux ans, il annonce qu'il ne retournera jamais en URSS. Pourtant, dans son [journal](http://www.amazon.fr/exec/obidos/redirect?link_code=ur2&tag=tcrouzetcom-21&camp=1642&creative=6746&path=ASIN%2F2866423739%2Fqid%3D1146316634%2Fsr%3D8-1%2Fref%3Dsr_8_xs_ap_i1_xgl), livre que tous les amoureux de cinéma, et surtout de liberté, devraient lire, il explique qu'il ne trouve pas les Européens plus libres que les Russes. Les Européens disposent de la liberté mais ils n'en usent pas. Au contraire, les Russes vivent sous une dictature mais ils profitent de toutes les bribes de liberté qui leur sont accordées.
 

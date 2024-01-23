@@ -1,6 +1,6 @@
 # Sans gouvernance Internet devient une dictature
 
-Cette nécessité d'une gouvernance est bien paradoxale pour un réseau construit de point à point, par tissages successifs, par croisements décentralisés, sans contrôle, par horizontalité massive jusqu’à ce qu’il ressemble au modèle imaginé par [Paul Baran](http://en.wikipedia.org/wiki/Paul_Baran) en 1964 pour résister aux attaques nucléaires.<span id="more-37897"></span>
+Cette nécessité d'une gouvernance est bien paradoxale pour un réseau construit de point à point, par tissages successifs, par croisements décentralisés, sans contrôle, par horizontalité massive jusqu’à ce qu’il ressemble au modèle imaginé par [Paul Baran](http://en.wikipedia.org/wiki/Paul_Baran) en 1964 pour résister aux attaques nucléaires.
 
 Personne n’avait anticipé qu’Internet succomberait à une autre attaque, celle du capitalisme, parce que personne n’avait encore trop pensé à la théorie des réseaux. C’était dans les années 1960 le début de cette science.
 

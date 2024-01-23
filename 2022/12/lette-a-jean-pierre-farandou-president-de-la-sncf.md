@@ -1,6 +1,6 @@
 # Lette à Jean-Pierre Farandou, président de la SNCF
 
-Je ne vous écris pas pour réclamer une faveur comptable, ce serait trop anecdotique, mais pour exiger des excuses de vos employés qui se sont mal comportés vis-à-vis de mon fils de 15 ans et continuent de mal se comporter vis-à-vis de notre famille.<span id="more-64577"></span>
+Je ne vous écris pas pour réclamer une faveur comptable, ce serait trop anecdotique, mais pour exiger des excuses de vos employés qui se sont mal comportés vis-à-vis de mon fils de 15 ans et continuent de mal se comporter vis-à-vis de notre famille.
 
 J’ai déjà raconté deux fois notre histoire dans le détail, dans un premier article intitulé [Les inhumains agents de la SNCF](https://tcrouzet.com/2022/10/03/les-inhumains-agents-de-la-sncf) et un deuxième [La SNCF doit des excuses à mon fils](https://tcrouzet.com/2022/10/17/la-sncf-doit-des-excuses-a-mon-fils). Je me contente de la résumer, en ajoutant quelques précisions. Le 3 octobre, mon fils de 15 ans se rend seul aux obsèques de son grand-père maternel. En gare de Sète, étourdi ou plus sûrement en état de choc, il rate le TER qui devait le conduire à Montpellier Saint-Roch, où trente minutes plus tard un TGV devait le conduire à Paris, où je l’attendais pour qu’un autre TGV nous conduise à Nancy, autant de précisions qui ont leur importance.
 

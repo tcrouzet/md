@@ -2,7 +2,7 @@
 
 ![starglider](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/06/starglider_start_screen-450x279.gif)
 
-Je voudrais un peu vous dire où j’en suis dans ma tête, pour que vous puissiez peut-être m’aider à l’occasion. Quand j’écrivais [*Ératosthène*](http://ihl.tcrouzet.com) (faut que je termine de le mettre en ligne), j’ai entendu parler du mécanisme d’Anticythère, souvent considéré comme le premier calculateur analogique, peut-être inspiré d’un modèle fabriqué par Archimède. À l’automne dernier, quand j’ai esquissé [ma brève histoire de l’informatique](http://blog.tcrouzet.com/2008/03/25/la-breve-histoire-de-l%E2%80%99informatique/), j’ai logiquement écrit une historiette sur le mécanisme.<span id="more-7283"></span>
+Je voudrais un peu vous dire où j’en suis dans ma tête, pour que vous puissiez peut-être m’aider à l’occasion. Quand j’écrivais [*Ératosthène*](http://ihl.tcrouzet.com) (faut que je termine de le mettre en ligne), j’ai entendu parler du mécanisme d’Anticythère, souvent considéré comme le premier calculateur analogique, peut-être inspiré d’un modèle fabriqué par Archimède. À l’automne dernier, quand j’ai esquissé [ma brève histoire de l’informatique](http://blog.tcrouzet.com/2008/03/25/la-breve-histoire-de-l%E2%80%99informatique/), j’ai logiquement écrit une historiette sur le mécanisme.
 
 ---
 

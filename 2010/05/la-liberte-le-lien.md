@@ -1,6 +1,6 @@
 # La liberté, c&#8217;est le lien
 
-Dans un monde de plus en plus fluide, les structures hiérarchiques perdent en efficacité en même temps que les individus s'éprennent de nomadisme. Pour favoriser l’innovation, la créativité, le bonheur de vivre, il faut créer des environnements propices à l’interaction sociale plutôt que vouloir créer des entreprises sur l’ancien modèle des startups.<span id="more-16119"></span>
+Dans un monde de plus en plus fluide, les structures hiérarchiques perdent en efficacité en même temps que les individus s'éprennent de nomadisme. Pour favoriser l’innovation, la créativité, le bonheur de vivre, il faut créer des environnements propices à l’interaction sociale plutôt que vouloir créer des entreprises sur l’ancien modèle des startups.
 
 ### L’accroissement de la complexité
 

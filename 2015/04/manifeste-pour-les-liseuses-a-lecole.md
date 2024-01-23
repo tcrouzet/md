@@ -1,6 +1,6 @@
 # Pour les liseuses à l’école
 
-Barbara Loup, responsable Formation &amp; Documentation de l’académie de Montpellier, m’a posé quelques questions au sujet de la lecture numérique à l'école.<span id="more-40746"></span>
+Barbara Loup, responsable Formation &amp; Documentation de l’académie de Montpellier, m’a posé quelques questions au sujet de la lecture numérique à l'école.
 
 *— Dans un des billets de votre blog, vous indiquez que lorsque vous avez le choix entre lire sur papier ou en numérique, vous optez pour le numérique. Pouvez-vous expliquer pourquoi ?*
 

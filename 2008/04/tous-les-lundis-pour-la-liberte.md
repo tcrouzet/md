@@ -1,6 +1,6 @@
 # Tous les lundis pour la liberté
 
-[Étienne Chouard vient de diffuser par mail un document intéressant](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008mocri.pdf) ([voir aussi son blog](http://etienne.chouard.free.fr/Europe/forum/index.php?2008/04/08/93-pour-des-manifestations-populaires-obstinees-mpo)) où il nous invite à manifester tous les lundis contre la dictature européenne. Étienne nous alarme à juste raison. Si nous ne réagissons pas, nous verrons nos libertés peu à peu se réduire.<span id="more-785"></span>
+[Étienne Chouard vient de diffuser par mail un document intéressant](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008mocri.pdf) ([voir aussi son blog](http://etienne.chouard.free.fr/Europe/forum/index.php?2008/04/08/93-pour-des-manifestations-populaires-obstinees-mpo)) où il nous invite à manifester tous les lundis contre la dictature européenne. Étienne nous alarme à juste raison. Si nous ne réagissons pas, nous verrons nos libertés peu à peu se réduire.
 
 Étienne liste des signaux d’alarme. Je ne les trouve pas assez génériques à mon goût et trop connotés à gauche. De mon côté, je dénonce avant tout la centralisation, cette tentation pour les gens aux pouvoir d’accaparer toujours plus de pouvoir. Tous les maux qu’évoquent Étienne découlent de la centralisation de plus en plus excessive de nos sociétés. Quand Monsanto aura toutes les cartes en mains, il fera ce qu’il voudra avec les OGM par exemple.
 

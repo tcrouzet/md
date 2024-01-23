@@ -4,7 +4,7 @@
 
 ### Mardi 1<sup>er</sup>, Maillardou
 
-Quand je demande à ChatGPT ou Claude de me réécrire, et qu’ils me comprennent de travers, je me dis que je n’étais pas clair, que des humains m’auraient mal interprété. Est-ce une bonne analyse ? Peut-être je devrais écrire uniquement des textes qui font dérailler les IA. Peut-être que les IA les plus bêtes sont les meilleures juges quant à la clarté d’un texte.<span id="more-65091"></span>
+Quand je demande à ChatGPT ou Claude de me réécrire, et qu’ils me comprennent de travers, je me dis que je n’étais pas clair, que des humains m’auraient mal interprété. Est-ce une bonne analyse ? Peut-être je devrais écrire uniquement des textes qui font dérailler les IA. Peut-être que les IA les plus bêtes sont les meilleures juges quant à la clarté d’un texte.
 
 ![Biron](https://tcrouzet.com/images_tc/2023/08/IMG_2924.jpeg)
 

@@ -1,6 +1,6 @@
 # Quand le lecteur se révolte
 
-Narvic me suggère de lire *Le Maître ignorant : Cinq leçons sur l'émancipation intellectuelle* de Jacques Rancière. Je découvre alors que l’ebook est plus cher que le livre de poche, rien de très surprenant en France.<span id="more-34998"></span>
+Narvic me suggère de lire *Le Maître ignorant : Cinq leçons sur l'émancipation intellectuelle* de Jacques Rancière. Je découvre alors que l’ebook est plus cher que le livre de poche, rien de très surprenant en France.
 
 ![eBook trop cher](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/ranciere.png)
 

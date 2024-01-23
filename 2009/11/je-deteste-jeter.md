@@ -1,6 +1,6 @@
 # Je déteste jeter
 
-J’ai découvert l’existence du flux par hasard, longtemps après avoir exploré Internet pour la première fois. Le flux m’est apparu par son absence, par le manque qu’il avait provoqué en moi.<span id="more-12312"></span>
+J’ai découvert l’existence du flux par hasard, longtemps après avoir exploré Internet pour la première fois. Le flux m’est apparu par son absence, par le manque qu’il avait provoqué en moi.
 
 J’ai écrit mon livre précédent, *Le cinquième pouvoir*, tout en dialoguant avec les lecteurs de mon blog. Je publiais un article, ils me répondaient, m’interrogeaient, me critiquaient et m’aidaient à préciser ma pensée. Le blog était devenu un atelier ouvert comme pouvait l’être l’agora athénienne pour les philosophes. Après la publication en février 2007, nous avons poursuivi la discussion comme si le livre n’était pas achevé. Dans les faits, il ne l’était pas. Le livre et le blog étaient devenus part d’une même œuvre en perpétuelle évolution.
 

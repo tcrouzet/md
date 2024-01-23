@@ -1,6 +1,6 @@
 # On fait le tour de l’Hérault en bikepacking ?
 
-Je commence à [retrouver de bonnes sensations](https://tcrouzet.com/2019/08/28/un-auteur-se-fracture-le-femur-pour-faire-parler-de-lui/) et, au début du printemps, je serai opérationnel pour de nouveaux voyages bikepacking (à VTT, bien sûr).<span id="more-53175"></span>
+Je commence à [retrouver de bonnes sensations](https://tcrouzet.com/2019/08/28/un-auteur-se-fracture-le-femur-pour-faire-parler-de-lui/) et, au début du printemps, je serai opérationnel pour de nouveaux voyages bikepacking (à VTT, bien sûr).
 
 Je ne me suis encore inscrit dans aucun évènement pour 2020. Je ne me suis pas fait à la mode française de limiter le nombre de participants, donc je ferai des traversées ou des circuits en ITT, me reste à trouver des partenaires. Voilà pourquoi j’écris ce billet.
 

@@ -1,6 +1,6 @@
 # Tentative d’épuisement d’un lieu sétois
 
-Il y a au bout du quai Aspirant Herber, face à la criée, une pointe qui sépare les ports de pêche et de plaisance du port de commerce. Je me pose à cette extrémité, en haut des marches qui plongent dans l’eau, et déjà un pêcheur à la ligne arrive et se tient debout à côté de moi, les deux pieds à cheval sur le vide, comme s’il pissait, sa ligne d’un jet flasque tendue vers le bleu.<span id="more-63776"></span>
+Il y a au bout du quai Aspirant Herber, face à la criée, une pointe qui sépare les ports de pêche et de plaisance du port de commerce. Je me pose à cette extrémité, en haut des marches qui plongent dans l’eau, et déjà un pêcheur à la ligne arrive et se tient debout à côté de moi, les deux pieds à cheval sur le vide, comme s’il pissait, sa ligne d’un jet flasque tendue vers le bleu.
 
 Il est treize heures, la ville somnole sous un doux soleil printanier. De l’autre côté du canal Royal, aucun bruit ne provient de la criée, qui ne s’éveillera que plus tard quand les gros chalutiers rentreront. Les thoniers sont restés accolés les uns aux autres, dans l'attente de l'ouverture de leur saison.
 

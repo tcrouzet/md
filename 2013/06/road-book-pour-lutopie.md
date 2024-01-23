@@ -1,6 +1,6 @@
 # Road book pour l’utopie
 
-Je tombe sur une liste jamais achevée. Commencée il y a trop longtemps pour l’être. C’est une sorte de canevas politique de ce qui pourrait être le point de départ d’une fiction prospectiviste.<span id="more-33151"></span>
+Je tombe sur une liste jamais achevée. Commencée il y a trop longtemps pour l’être. C’est une sorte de canevas politique de ce qui pourrait être le point de départ d’une fiction prospectiviste.
 
 1/ La liberté s’accroît avec la complexité de la société (démonstration dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/)).
 

@@ -1,10 +1,6 @@
 # Assemblée aléatoire
 
-Retrouvez [Étienne Chouard](http://etienne.chouard.free.fr/Europe/) au mieux de sa forme. Il cherche à convaincre un constitutionnaliste plus jeune que lui mais d’un vieux jeu consommé qui croit que la démocratie est un truc écrit dans le marbre. Ou comment des gens venus d’ailleurs mettent dans l’embarras les gens installés (par leurs diplômes ce coup si). Et ce n’est qu’un début. Les hommes libres sont en train de se redresser.<span id="more-459"></span>
-
-<div></div>
-
-<div></div>
+Retrouvez [Étienne Chouard](http://etienne.chouard.free.fr/Europe/) au mieux de sa forme. Il cherche à convaincre un constitutionnaliste plus jeune que lui mais d’un vieux jeu consommé qui croit que la démocratie est un truc écrit dans le marbre. Ou comment des gens venus d’ailleurs mettent dans l’embarras les gens installés (par leurs diplômes ce coup si). Et ce n’est qu’un début. Les hommes libres sont en train de se redresser.
 
 Vous imaginez le temps que nous aurions tous gagné cette année si nos députés avaient été tirés au sort, puis s’ils avaient élu notre président ? Au moins autant de temps qu’en jetant sa télé par la fenêtre… ça je l’ai fait. Je l’avais même fait pour la politique jusqu’à ce qu’elle me rattrape à cause de ce net qui nous permet enfin de faire notre révolution.
 

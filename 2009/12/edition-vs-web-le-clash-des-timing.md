@@ -1,6 +1,6 @@
 # Édition vs Web : le clash des timing
 
-J’ai de plus en plus de mal à vivre au rythme de l’édition traditionnelle. Mon éditeur me donne une date pour remise du manuscrit de mon livre sur le Flux, que je respecte et puis il prend du retard, rate l’annonce au réseau des libraires mi-décembre, ce qui en toute logique décale au moins d’un mois le livre d’avril à mai.<span id="more-12578"></span>
+J’ai de plus en plus de mal à vivre au rythme de l’édition traditionnelle. Mon éditeur me donne une date pour remise du manuscrit de mon livre sur le Flux, que je respecte et puis il prend du retard, rate l’annonce au réseau des libraires mi-décembre, ce qui en toute logique décale au moins d’un mois le livre d’avril à mai.
 
 C’est pas important vous me direz. Mais tant qu’un livre n’est pas parti de chez moi, j’ai tendance à y travailler, à rester enfermé sur le projet. Je suis incapable de dire que c’est terminé tant que je peux encore retoucher.
 

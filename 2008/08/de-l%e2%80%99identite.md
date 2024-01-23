@@ -8,9 +8,7 @@ Je suis pour l'expérimentation mais je ne vois pas pourquoi la limiter à des c
 
 Dans un monde complexe, il n'y a pas de frontière étanche. Plus internet se développe, plus ce que nous y faisons influence ce qui se passe en dehors d’internet et réciproquement.
 
-Tout ce que vient de dire sur la consistance de l’être est en accord avec mes déclarations d’[interdépendance](http://blog.tcrouzet.com/2008/07/18/la-declaration-dinterdependance/) et [d’interdépendance](<http://blog.tcrouzet.com/2008/07/21/declaration-d%e2%80%99independance/
-
->).
+Tout ce que vient de dire sur la consistance de l’être est en accord avec mes déclarations d’[interdépendance](http://blog.tcrouzet.com/2008/07/18/la-declaration-dinterdependance/) et [d’interdépendance]().
 
 Vous devez prendre en compte ces textes quand vous me lisez et ceux qui les ont amenés. Je ne suis pas un journaliste qui doit mettre toute sa pensée dans un seul article. Je n’ai pas cette contrainte. On conseille sur le net d’écrire court, j’écris long… et chacune de ces longueurs se fait suite.
 

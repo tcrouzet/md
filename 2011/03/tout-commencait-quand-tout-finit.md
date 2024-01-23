@@ -2,7 +2,7 @@
 
 Boston Logan, 7h59, le vol American Airline 11 décolle en direction de Los Angeles. À son bord cinq terroristes armés de cutters.
 
-Du même aéroport, à 8h14, le vol United Airlines 175 décolle avec 16 minutes de retard, lui aussi en direction de Los Angeles. À son bord cinq terroristes armés de cutters.<span id="more-21575"></span>
+Du même aéroport, à 8h14, le vol United Airlines 175 décolle avec 16 minutes de retard, lui aussi en direction de Los Angeles. À son bord cinq terroristes armés de cutters.
 
 Nous sommes le 11 septembre 2001. Le premier avion percuta la tour nord du World Trade Center à 8h46. Le second percuta la tour sud à 9h03. Sans le retard initial, les deux appareils auraient percuté les tours au même moment.
 

@@ -1,6 +1,6 @@
 # J’en suis revenu du gravel
 
-J’ai vendu mon Diverge il y a plus d’un an, après trois ans de loyaux services sur les pistes américaines puis les DFCI du Midi, et il ne me manque pas beaucoup. [Je prenais du plaisir avec lui](https://tcrouzet.com/2021/02/05/le-gravel-comme-revelateur/), mais souvent ma curiosité congénitale me poussait sur des terrains défavorables et je revenais le corps brisé. Si mon budget vélo était illimité, j’aurais racheté un gravel, mais je ne me suis pas encore pressé de le faire pour un ensemble de raisons que je vais tenter d’évoquer.<span id="more-64201"></span>
+J’ai vendu mon Diverge il y a plus d’un an, après trois ans de loyaux services sur les pistes américaines puis les DFCI du Midi, et il ne me manque pas beaucoup. [Je prenais du plaisir avec lui](https://tcrouzet.com/2021/02/05/le-gravel-comme-revelateur/), mais souvent ma curiosité congénitale me poussait sur des terrains défavorables et je revenais le corps brisé. Si mon budget vélo était illimité, j’aurais racheté un gravel, mais je ne me suis pas encore pressé de le faire pour un ensemble de raisons que je vais tenter d’évoquer.
 
 1. Je n’en peux plus de la mode gravel, des évènements gravel, des rapaces qui veulent faire du fric avec cette pratique. Tout ce marketing et ce business autour du gravel me sortent par les yeux et j’ai du mal à me boucher les oreilles surtout quand on me demande au sujet de mes traces « c’est gravel ? »
 

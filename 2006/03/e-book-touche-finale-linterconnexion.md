@@ -1,10 +1,8 @@
 # ebook: touche finale à l&#8217;interconnexion
 
 **Époque 1** : le web nous a donné accès à toutes les connaissances.
-
-**Époque 2** : les blogs nous ont donné accès à toutes les actualités, personnelles ou publiques.
-
-**Époque 3** : les ebooks vont nous donner accès à toutes les idées et à tous les imaginaires.
+ : les blogs nous ont donné accès à toutes les actualités, personnelles ou publiques.
+ : les ebooks vont nous donner accès à toutes les idées et à tous les imaginaires.
 
 Messieurs Gallimard, Grasset et Cie ne décideront plus seuls ce qui doit être publié. Comme les blogs nous ont affranchis des sources d'information officielles, les ebooks nous affranchiront des éditeurs et de leur frilosité éditoriale.
 

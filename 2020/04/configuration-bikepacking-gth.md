@@ -1,6 +1,6 @@
 # Configuration bikepacking GTH
 
-Vendredi 24 avril. Légère brume en matinée qui laisse vite percer un soleil doux, puis un ciel bleu pâle s’intensifiant dans après-midi jusqu’à ce que la fraîcheur retombe en soirée. Le même temps se répète de jour en jour. C’était les conditions parfaites pour un long week-end bikepacking. Nous aurions dû nous élancer à une dizaine pour inaugurer le [Grand Tour de l’Hérault à monstercross/VTT](https://tcrouzet.com/tag/gth/), mais le confinement en a voulu autrement.<span id="more-54133"></span>
+Vendredi 24 avril. Légère brume en matinée qui laisse vite percer un soleil doux, puis un ciel bleu pâle s’intensifiant dans après-midi jusqu’à ce que la fraîcheur retombe en soirée. Le même temps se répète de jour en jour. C’était les conditions parfaites pour un long week-end bikepacking. Nous aurions dû nous élancer à une dizaine pour inaugurer le [Grand Tour de l’Hérault à monstercross/VTT](https://tcrouzet.com/tag/gth/), mais le confinement en a voulu autrement.
 
 Début mars, j’étais presque prêt, il me manquait quelques détails à régler, quelques achats pour adapter ma configuration à un voyage printanier avec des nuits potentiellement fraîches. Voilà comment je comptais partir et comment je partirai début juin dès que nous en aurons la possibilité, même si les jambes ne seront pas très vaillantes.
 

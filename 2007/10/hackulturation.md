@@ -1,6 +1,6 @@
 # Hackulturation
 
-Hier vendredi, j’ai un peu parlé de la hack culture à Marseille. Suite à la conférence de jeudi, où [McEnzie Wark](http://www.ludiccrew.org/wark/), [Stephen Wright](http://www.inha.fr/spip.php?article1450), [Alain Giffard](http://alaingiffard.blogs.com/) et [Patrice Maniglier](http://ciepfc.rhapsodyk.net/article.php3?id_article=51) étaient intervenus et aux questions de la salle, j’avais esquissé un plan en dix points que je n’ai pas tenu car je demande comme toujours à la salle de m'interrompre.<span id="more-628"></span>
+Hier vendredi, j’ai un peu parlé de la hack culture à Marseille. Suite à la conférence de jeudi, où [McEnzie Wark](http://www.ludiccrew.org/wark/), [Stephen Wright](http://www.inha.fr/spip.php?article1450), [Alain Giffard](http://alaingiffard.blogs.com/) et [Patrice Maniglier](http://ciepfc.rhapsodyk.net/article.php3?id_article=51) étaient intervenus et aux questions de la salle, j’avais esquissé un plan en dix points que je n’ai pas tenu car je demande comme toujours à la salle de m'interrompre.
 
 Dans un prochain billet, je reprendrai mon propos car mon mobile a refusé de m’enregistrer, peut-être parce que, à cause de l’heure et du repas qui avait précédé, j’étais dans un état flottant. Il y avait d’ailleurs devant moi, avant même que je ne commence à parler, un monsieur qui dormait.
 

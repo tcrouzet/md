@@ -12,6 +12,8 @@ J’aime le service météo de Windows 10. Au-dessous des prévisions du jour, o
 
 ![En garrigue.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/IMG_3904.jpg)
 
+En garrigue.
+
 ### Lundi 2, Balaruc
 
 Je pense aux *Souvenirs d’un Européen* de Zweig. À cette attention à l’histoire en train de se jouer, ce qui vu d’aujourd’hui nous paraît si lucide. Moi-même, je n’arrive pas à m’intéresser aux évènements, absents le plus souvent de mes textes et même de ma pensée. Zweig est nostalgique, je n’ai même pas connu ce qu’il regrette. Ce que je devine de l’Histoire ne m’apparaît qu’un grand canular.
@@ -84,6 +86,8 @@ Sur le Net, les opérateurs de presse ne cachent plus leur désespoir : ils int
 
 ![Les soirs se suivent…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/nov.jpg)
 
+Les soirs se suivent…
+
 ### Mercredi 11, Balaruc
 
 Je boucle aujourd’hui *One minute*, disons que j’écris la 365ème minute. J’en ajouterai sans doute de nouvelles pour répondre aux questions de lecteurs.
@@ -148,6 +152,8 @@ Nos politiciens se réveillent dans les épreuves. Ils endossent le seul habit q
 
 ![La vie continue.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/IMG_3948.jpg)
 
+La vie continue.
+
 ### Mercredi 18, Balaruc
 
 Depuis des années, je loue un serveur dédié pour mon blog et mes bidouilles numériques. J’héberge quelques autres blogs que le mien. Ça devient de plus en plus difficile, car nos blogs sont systématiquement sous attaque, et je n’ai pas envie de passer mon temps à faire la police. Nos sites ont besoin de nous, de notre attention constante, sinon les mauvaises herbes y poussent. Nos données en ligne n’ont aucune pérennité. Voilà pourquoi le Web ne se substituera pas au livre (papier comme électronique). Il est trop peu fiable.
@@ -176,11 +182,15 @@ J’ai ainsi souvent l’impression que les artistes anticipent toujours les pos
 
 ![Fréchette nous présente Plis sous pli.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/IMG_3968.jpg)
 
+Fréchette nous présente Plis sous pli.
+
 ---
 
 Jean-Yves Fréchette a [légendé avec ses tweets d’exactement 140 caractères des photographies de Patrick St-Hilaire](http://www.instantmeme.com/ebi-addins/im/ViewBooks.aspx?id=3095). Il nous demande de l’imiter. Nous choisissons une image. En dix secondes, je ponds une phrase exactement calibrée : « Ils arrivent, tu les vois pas ? Moi, je les sens, je leur parle, tu ne les comprendras jamais et je t'échapperai toujours, tu es trop vieux. » Impossible pour moi de ne pas penser au sujet de *One Minute*. Notez que le côté purement poétique m’intéresse moins que la narration. Voici le tweet original de Jean-Yves : « Un sérieux revers. En prenant d’assaut le campement des étoiles, tu as tout de même dû infliger un sérieux revers aux mélodies des mémoires. »
 
 ![Photo de de Patrick St-Hilaire.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/IMG_3975.jpg)
+
+Photo de de Patrick St-Hilaire.
 
 ### Jeudi 25, Montpellier
 
@@ -200,7 +210,11 @@ Fin novembre, un redoux nous amène parfois des incandescences sublimes. Les enf
 
 ![Mes enfants et leurs amis.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/IMG_3984.jpg)
 
+Mes enfants et leurs amis jouent…
+
 ![Pendant que dans leur dos…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/IMG_3988.jpg)
+
+Pendant que dans leurs dos…
 
 ### Lundi 30, Paris
 

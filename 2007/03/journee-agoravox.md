@@ -1,6 +1,6 @@
 # Journée Agoravox
 
-Ce matin à 10 heures, après l’introduction de Carlo Revelli, le boss d’[Agoravox](http://www.agoravox.fr), j’aurai 10 minutes pour ouvrir le bal des [premières rencontres du cinquième pouvoir](http://www.agoravox.fr/rubrique.php3?id_rubrique=23). Ce ne sera pas facile. Dans l’usine de Saint-Denis, il y aura beaucoup de gens remontés contre l’idée même d’un cinquième pourvoir… à force de les voir s’exciter je vais finir par me dire que je tiens enfin la preuve que le cinquième pouvoir existe… car s’il n’existait pas vous ne seriez justement pas aussi remonté messieurs les sceptiques. Mais bon, je ne vais pas attaquer comme ça ma présentation. J’aurai sans doute l’occasion de sortir cet argument plus tard.<span id="more-405"></span>
+Ce matin à 10 heures, après l’introduction de Carlo Revelli, le boss d’[Agoravox](http://www.agoravox.fr), j’aurai 10 minutes pour ouvrir le bal des [premières rencontres du cinquième pouvoir](http://www.agoravox.fr/rubrique.php3?id_rubrique=23). Ce ne sera pas facile. Dans l’usine de Saint-Denis, il y aura beaucoup de gens remontés contre l’idée même d’un cinquième pourvoir… à force de les voir s’exciter je vais finir par me dire que je tiens enfin la preuve que le cinquième pouvoir existe… car s’il n’existait pas vous ne seriez justement pas aussi remonté messieurs les sceptiques. Mais bon, je ne vais pas attaquer comme ça ma présentation. J’aurai sans doute l’occasion de sortir cet argument plus tard.
 
 ### 1/ Analogie physique classique / quantique
 

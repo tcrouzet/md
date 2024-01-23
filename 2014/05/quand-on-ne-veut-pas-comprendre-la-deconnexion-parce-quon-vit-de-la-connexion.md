@@ -1,6 +1,6 @@
 # Quand on ne veut pas comprendre la déconnexion… parce qu’on vit de la connexion
 
-Une vidéo d’un jeune anglais, Gary Turk, fait l’éloge de la déconnexion et les internautes la visionnent par millions. Alors tout le monde se sent un devoir d’expliquer le phénomène. Pourquoi pas moi.<span id="more-35551"></span>
+Une vidéo d’un jeune anglais, Gary Turk, fait l’éloge de la déconnexion et les internautes la visionnent par millions. Alors tout le monde se sent un devoir d’expliquer le phénomène. Pourquoi pas moi.
 
 Pour [Xavier de la Porte](http://www.internetactu.net/2014/05/12/deconnexion-a-qui-nous-adressons-nous/), « il s’agit d’une déclaration collective. En approuvant ce discours et en le faisant circuler, les internautes montrent qu’ils sont capables d’autocritiques, de réflexivité, ils disent qu’ils ne sont pas dupes, ils disent “regardez, nous sommes conscients”. »
 

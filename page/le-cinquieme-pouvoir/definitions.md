@@ -23,13 +23,9 @@ Connecteur
 ----------
 
 nom masculin (1799; de connecter)
-
-**1.Technique.** Appareil de connexion. *Connecteur téléphonique.* - Électricité. *Prise à broches multiples.*
-
-**2.Logique, linguistique.** Synonyme d’opérateur propositionnel. *Et, Ou, Mais...*
-
-**3.Marketing.** (2001; Malcolm Gladwell) Personne qui met en relation d’autres personnes dans un réseau social et, plus particulièrement, qui lance les modes.
-
-**4.Sociologie.** (2006; Thierry Crouzet) Par extension, nom donné aux hommes conscients d’appartenir à un vaste réseau social qui les lie à tous les autres hommes. Cette conscience d'appartenir à un tout confère aux connecteurs une liberté inégalée, à commencer par celle d’imaginer une démocratie non représentative, une nouvelle façon de travailler, d'étudier, de vivre...
+ Appareil de connexion. *Connecteur téléphonique.* - Électricité. *Prise à broches multiples.*
+ Synonyme d’opérateur propositionnel. *Et, Ou, Mais...*
+ (2001; Malcolm Gladwell) Personne qui met en relation d’autres personnes dans un réseau social et, plus particulièrement, qui lance les modes.
+ (2006; Thierry Crouzet) Par extension, nom donné aux hommes conscients d’appartenir à un vaste réseau social qui les lie à tous les autres hommes. Cette conscience d'appartenir à un tout confère aux connecteurs une liberté inégalée, à commencer par celle d’imaginer une démocratie non représentative, une nouvelle façon de travailler, d'étudier, de vivre...
 
 Cette définition est une nouvelle version de celle publiée au tout début du livre. J'en ai proposé une autre avec mon [initiative connecteur](http://blog.tcrouzet.com/2006/03/02/charte-des-connecteurs/). J'ai comparé les connecteurs avec les [créatifs culturels](http://blog.tcrouzet.com/2006/03/07/cratifs-culturels/) comme les appellent les sociologues. J'ai aussi esquissé une autre définition sur [mon blog](http://blog.tcrouzet.com/2006/03/14/connecteurs-au-positif/).

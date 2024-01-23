@@ -1,6 +1,6 @@
 # Le numérique n’est pas toujours humain compatible
 
-J’ai décidé de ne plus trop évoquer [mon expérience de déconnexion](http://tcrouzet.com/tag/jai-debranche/). J’en ai assez de répondre toujours aux mêmes questions et de lire tout et n’importe quoi à ce sujet. J’ai accepté cette fois parce que [Dominique Cardon](https://fr.wikipedia.org/wiki/Dominique_Cardon) que j’aime et respecte m’a recommandé une de ses étudiantes, Marion Guémas.<span id="more-43850"></span>
+J’ai décidé de ne plus trop évoquer [mon expérience de déconnexion](http://tcrouzet.com/tag/jai-debranche/). J’en ai assez de répondre toujours aux mêmes questions et de lire tout et n’importe quoi à ce sujet. J’ai accepté cette fois parce que [Dominique Cardon](https://fr.wikipedia.org/wiki/Dominique_Cardon) que j’aime et respecte m’a recommandé une de ses étudiantes, Marion Guémas.
 
 *— Pensez-vous que le « burn-out numérique » est symptomatique de notre société ?*
 

@@ -1,6 +1,6 @@
 # L’État assure les ivrognes qui roulent à 80
 
-Sur France Info, j’entends évoquer que la vitesse sera bientôt encore abaissée sur nos routes, dans le but de diminuer la mortalité. L’émission oppose un conseillé ministériel, Monsieur État, favorable à la réduction, et un de ses opposants, Monsieur Auto, président d’une assos d'usagers.<span id="more-33595"></span>
+Sur France Info, j’entends évoquer que la vitesse sera bientôt encore abaissée sur nos routes, dans le but de diminuer la mortalité. L’émission oppose un conseillé ministériel, Monsieur État, favorable à la réduction, et un de ses opposants, Monsieur Auto, président d’une assos d'usagers.
 
 Monsieur État annonce que plus on augmente la répression, moins on a de tués sur les routes. On est passé d’un triste record de [16 545 victimes en 1972](http://www.securite-routiere.org/Fiches/statistiques/statfr.htm) à [3 653 en 2012](http://fr.wikipedia.org/wiki/Accident_de_la_route_en_France). Monsieur Auto rétorque que la baisse de la vitesse n'est pas nécessairement corrélée avec celle de la mortalité. Il invoque l’amélioration des véhicules et des infrastructures. Monsieur État réfute cet argument. Il affirme qu’après la multiplication des radars en 2002, le nombre de victimes à soudainement baissé, en l’affaire de quelques mois, sans que les véhicules ni les infrastructures ne s’améliorent aussi soudainement. Victoire de Monsieur État confirmée quand on regarde l’évolution des chiffres.
 

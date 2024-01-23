@@ -1,6 +1,6 @@
 # Bookchain : le livre après le Web
 
-Depuis longtemps, quelque chose me gêne avec la littérature Web, c’est justement le Web lui-même et sa centralisation, précisément le fait qu’il existe des sites Web qu’il faut maintenir en ligne, sans cesse mettre à jour, optimiser, défendre contre les hackers, contre l’obsolescence technologique, contre l’entropie…<span id="more-43420"></span>
+Depuis longtemps, quelque chose me gêne avec la littérature Web, c’est justement le Web lui-même et sa centralisation, précisément le fait qu’il existe des sites Web qu’il faut maintenir en ligne, sans cesse mettre à jour, optimiser, défendre contre les hackers, contre l’obsolescence technologique, contre l’entropie…
 
 Pour cette raison, je reste adepte du texte mobile, détaché de tout support, lisible en toute circonstance et en tout temps. Je suis donc fan tout simplement du livre, qu’il soit papier ou numérique. Une fois diffusé, un livre vit de lui-même. Il est en quelque sorte infalsifiable, on ne peut falsifier que certains de ses exemplaires. Et puis je préfère que les lecteurs attirent à eux mes textes plutôt qu’ils aillent les lire sur mon site. Devenir le possesseur d’un texte me paraît symboliquement plus fort.
 
@@ -19,6 +19,8 @@ On peut imaginer une bookchain par livre, par auteur, par éditeur, par librairi
 J’en suis au stade de la fantaisie, juste parce que la possibilité technique est là. Je vois surtout un moyen de relier plus étroitement que jamais les auteurs et leurs lecteurs, les lecteurs entre eux. Les auteurs Web descendraient de leur chez eux. Nous partagerions un espace numérique. Nous l’habiterions ensemble.
 
 ![Nous faut imaginer la chaîne qui libère…](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/bookchain.jpg)
+
+Nous faut imaginer la chaîne qui libère…
 
 
 

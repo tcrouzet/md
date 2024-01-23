@@ -1,6 +1,6 @@
 # Droit de vote en question
 
-On nous dit de voter, on nous dit que des hommes sont morts pour nous donner ce droit, on nous dit qu’il représente une avancée sociale fondamentale, déterminante… et pourtant je crois qu’il est temps de passer à autre chose.<span id="more-205"></span>
+On nous dit de voter, on nous dit que des hommes sont morts pour nous donner ce droit, on nous dit qu’il représente une avancée sociale fondamentale, déterminante… et pourtant je crois qu’il est temps de passer à autre chose.
 
 J’ai déjà développé ce sujet dans [*Le peuple des connecteurs*](http://www.tcrouzet.com), ma thèse principale étant que voter pour des gens qui ne peuvent fondamentalement pas exercer le pouvoir n’a plus aucun intérêt, mais j’ai eu envie d’y revenir après [le commentaire de Gérard Ayache](http://www.agoravox.fr/article.php3?id_article=12813#commentaire142431) suite à son [dernier article sur Agoravox](http://www.agoravox.fr/article.php3?id_article=1281).
 
@@ -11,8 +11,6 @@ Nous vivrions dans une démocratie ? Mais la plupart d’entre-nous passent le 
 Alors pourquoi la démocratie et le droit de vote ne se sont-ils pas étendus à l’ensemble de la société ? Pour moi, il y a une réponse évidente : ça ne fonctionne pas. Et pourquoi ça ne fonctionne pas : parce que voter revient toujours à choisir entre deux possibilités… comme si le monde était blanc ou noir.
 
 Dans le business, ce n’est jamais comme ça. Mais dans la société ce n’est pas comme ça non plus. Les situations sont complexes, les questions ne sont jamais binaires, les solutions jamais évidentes. Il faut essayer des réponses, accepter de se tromper, faire marche arrière, repartir dans une autre direction. Il faut, en quelques sortes, imiter l’évolution biologique. Il n’y a jamais de questions et de réponses toutes faites dans un monde complexe.
-
-**Vive l’abstention**
 
 Dès qu’il y a une élection, les journalistes se lamentent devant le faible taux de participation. Les hommes politiques s’accusent les uns les autres du désintérêt croissant des citoyens. Au contraire, je crois que nous devrions nous en féliciter. Si nous votons moins, c’est que nous comprenons que notre vote a de moins en moins d’utilité.
 

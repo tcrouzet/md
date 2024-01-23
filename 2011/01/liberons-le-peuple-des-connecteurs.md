@@ -1,6 +1,6 @@
 # Libérons le peuple (des connecteurs)
 
-Ou l’histoire d’une mauvaise affaire. Bourin éditeur vient de m’apprendre que je ne toucherai pas mes droits d’auteurs sur [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) avant 2017 ! Vous avez bien lu.<span id="more-21084"></span>
+Ou l’histoire d’une mauvaise affaire. Bourin éditeur vient de m’apprendre que je ne toucherai pas mes droits d’auteurs sur [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) avant 2017 ! Vous avez bien lu.
 
 Voici l’histoire depuis le début. J’ai signé le contrat pour *Le peuple des connecteurs* début 2005 et j’ai reçu un petit à-valoir. Le livre est sorti comme prévu en février 2006. En 2007, en juin par exemple, Bourin aurait dû me verser mes droits sur la première année d’exploitation. Je n’ai rien reçu et je n’ai rien réclamé parce que je faisais confiance.
 

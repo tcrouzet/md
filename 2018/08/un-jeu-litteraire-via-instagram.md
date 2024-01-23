@@ -1,6 +1,6 @@
 # Un jeu littéraire via Instagram
 
-Depuis que j’ai créé [mon app de Géolecture](https://tcrouzet.com/geolecture/), je me demande comment je peux continuer d’expérimenter avec nos mobiles. J’ai la sensation qu’une app auteur pourrait me rapprocher des lecteurs de façon plus intime que le site Web, avec la possibilité d’afficher des alertes, aussi de partager des photos, des commentaires, tout cela sans que ce soit affiché aux yeux de tous sur le Web, mais pour le moment j’ai renoncé à coder une telle app.<span id="more-49531"></span>
+Depuis que j’ai créé [mon app de Géolecture](https://tcrouzet.com/geolecture/), je me demande comment je peux continuer d’expérimenter avec nos mobiles. J’ai la sensation qu’une app auteur pourrait me rapprocher des lecteurs de façon plus intime que le site Web, avec la possibilité d’afficher des alertes, aussi de partager des photos, des commentaires, tout cela sans que ce soit affiché aux yeux de tous sur le Web, mais pour le moment j’ai renoncé à coder une telle app.
 
 Je suis attiré dans une autre direction. Dans l’esprit de [LifeLine](https://itunes.apple.com/us/app/lifeline/id982354972?mt=8), je me dis que je pourrais mettre à profit les possibilités des mobiles pour créer des histoires interactives. Mais, quand je me demande si j’ai envie d’écrire de telles histoires, la réponse est non.
 

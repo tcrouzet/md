@@ -11,8 +11,6 @@ An initiation to an economy of peace
 
 ##### **paper 8.97£** : [Amazon.co.uk](http://www.amazon.co.uk/Clean-Hands-Lives-Thierry-Crouzet/dp/1499147775/), [Barnes and Noble](http://www.barnesandnoble.com/w/clean-hands-save-lives-thierry-crouzet/1119283722?ean=9781499147773), [Amazon.com](http://www.amazon.com/Clean-Hands-Lives-Thierry-Crouzet/dp/1499147775/), [BAM](http://www.booksamillion.com/p/Clean-Hands-Save-Lives/Thierry-Crouzet/9781499147773?id=5986644280260), [CreateSpace](https://www.createspace.com/4761117), [Amazon.ca](http://www.amazon.ca/Clean-Hands-Save-Lives/dp/1499147775/).
 
-
-
 You may not know it, but an innovation has made our world a better place. The use of alcohol-based handrubs protects us from infectious diseases and saves millions of lives each year through safer health care.
 
 Here is the story of this revolutionary formulation, made available without patent and offered as a gift to humanity by Professor Didier Pittet and his team at Hôpitaux Universitaires de Genève (HUG). From bush doctors to giant pharmaceutical corporations, everyone can now produce effective handrubs, cheaply and easily.

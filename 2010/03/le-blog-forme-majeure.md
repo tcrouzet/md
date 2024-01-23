@@ -1,6 +1,6 @@
 # Le blog : forme majeure
 
-Un blog n’est pas nécessairement un ramassis de textes insignifiants et qui ne se suivent pas. Laissons le temps passer et je suis persuadé que les textes les plus importants du début du XXI<sup>e</sup> siècle auront tous été publiés dans des blogs, tout au moins en ligne en échappant au circuit de validation de l’édition traditionnelle. Et non pas comme des billets uniques mais comme de longs chapelets de perles qui se reflètent les unes les autres.<span id="more-15176"></span>
+Un blog n’est pas nécessairement un ramassis de textes insignifiants et qui ne se suivent pas. Laissons le temps passer et je suis persuadé que les textes les plus importants du début du XXI<sup>e</sup> siècle auront tous été publiés dans des blogs, tout au moins en ligne en échappant au circuit de validation de l’édition traditionnelle. Et non pas comme des billets uniques mais comme de longs chapelets de perles qui se reflètent les unes les autres.
 
 Tout d’abord, cette idée qu’une œuvre doit être achevée pour atteindre le summum de la création. Et *La recherche du temps perdu*, encore en chantier à la mort de Proust ? Et la correspondance de Flaubert écrite pour ne pas être publiée en tant que livre et qui forme le plus grand livre de Flaubert ? Et Pessoa qui entassé ses manuscrits dans une caisse ? Et les journaux intimes des écrivains, souvent écrits avec l’idée qu’ils seront publiés, mais presque jamais retravaillés. Achever un travail ne l’auréole pas de prestige. L’effort supplémentaire peut même tuer l’œuvre.
 

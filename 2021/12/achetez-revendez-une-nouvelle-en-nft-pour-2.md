@@ -1,11 +1,8 @@
 # Achetez/revendez une nouvelle en NFT
 
-[Après avoir vendu un bout de mon blog en NFT](https://tcrouzet.com/2021/08/20/je-vends-mon-blog-aux-encheres-en-nft), [puis mis en vente un manuscrit original](https://tcrouzet.com/2021/12/12/je-vends-un-roman-inedit-en-nft/) pour 1 Ethereum, dans le but de montrer la faisabilité de l’opération, j’ai pensé à une expérience plus grand public : diffuser le moins cher possible *La Chute*, une nouvelle inédite.<span id="more-61098"></span>
+[Après avoir vendu un bout de mon blog en NFT](https://tcrouzet.com/2021/08/20/je-vends-mon-blog-aux-encheres-en-nft), [puis mis en vente un manuscrit original](https://tcrouzet.com/2021/12/12/je-vends-un-roman-inedit-en-nft/) pour 1 Ethereum, dans le but de montrer la faisabilité de l’opération, j’ai pensé à une expérience plus grand public : diffuser le moins cher possible *La Chute*, une nouvelle inédite.
 
 L’idée : un lecteur l’achète et la remet en vente immédiatement après l’avoir récupérée. Au maximum, il peut doubler son prix, mais rien ne l’empêche de le réduire. La nouvelle pourraient ainsi passer de main en main. Je toucherai 10 % des transactions. Lire en quelque sorte ne couterait quasiement rien tant que de nouveaux lecteurs se présenteraient.
-
-<nft-card contractaddress="0x495f947276749ce646f68ac8c248420045cb7b5e" tokenid="51916585730158572235051487169527023365538550989906184714965107613588470628353"></nft-card>
-<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 
 [La nouvelle est vendue 0,0005 ETH](https://opensea.io/assets/0x495f947276749ce646f68ac8c248420045cb7b5e/51916585730158572235051487169527023365538550989906184714965107613588470628353/) sous la forme d’un poster. Lors de l’achat se révèle un unlockable content qui pointe vers un jpeg de 123 x 79 cm à 300 dpi et un ePub, pour faciliter la lecture.
 

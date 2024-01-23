@@ -1,6 +1,6 @@
 # La nature de la transition
 
-Pour certains, nous traversons un soubresaut historique. Quelques ajustements au capitalisme, quelques mesures écologiques et quelques révisions institutionnelles nous ramènerons à la normale.<span id="more-3834"></span>
+Pour certains, nous traversons un soubresaut historique. Quelques ajustements au capitalisme, quelques mesures écologiques et quelques révisions institutionnelles nous ramènerons à la normale.
 
 Je ne cherche même pas à savoir ce qu’ils entendent par normale, sachant que ce qui serait normal pour moi ne le serait pas pour eux.
 

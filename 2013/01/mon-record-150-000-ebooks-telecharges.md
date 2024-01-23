@@ -1,6 +1,6 @@
 # Mon record : 150 000 ebooks téléchargés
 
-Comment ça ? Vous avez raté mon best-seller ! Rassurez-vous, je ne suis que l'auteur de la préface. Le texte est de Giono.<span id="more-30519"></span>
+Comment ça ? Vous avez raté mon best-seller ! Rassurez-vous, je ne suis que l'auteur de la préface. Le texte est de Giono.
 
 ![giono](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/01/giono.png)
 

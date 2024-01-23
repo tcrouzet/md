@@ -1,6 +1,6 @@
 # Amis commonistes
 
-Nous avons besoin de mots pour nous rassembler, nous opposer, et tout au moins pour clarifier nos idées par leur simple discussion. Le couple « commonisme/commoniste » utilisé par certains comme un mauvais calambour sur communisme/communiste pour ringardiser les défenseurs des biens communs peut être retourné, devenir force de proposition. Je m’y hasarde.<span id="more-33767"></span>
+Nous avons besoin de mots pour nous rassembler, nous opposer, et tout au moins pour clarifier nos idées par leur simple discussion. Le couple « commonisme/commoniste » utilisé par certains comme un mauvais calambour sur communisme/communiste pour ringardiser les défenseurs des biens communs peut être retourné, devenir force de proposition. Je m’y hasarde.
 
 Le commoniste se préoccupe de la gestion harmonieuse des biens communs (souvent appelé les communs ou *commons* en anglais).
 

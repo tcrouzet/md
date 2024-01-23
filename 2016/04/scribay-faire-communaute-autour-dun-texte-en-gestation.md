@@ -1,6 +1,6 @@
 # Scribay: faire communauté autour d’un texte en gestation
 
-Plus qu’une plateforme de publication comme Wattpad, [Scribay](https://www.scribay.com/) se veut un atelier pour écrivains, où ils partagent leurs textes, les critiquent, les commentent, les travaillent et, de version en version, les améliorent.<span id="more-43921"></span>
+Plus qu’une plateforme de publication comme Wattpad, [Scribay](https://www.scribay.com/) se veut un atelier pour écrivains, où ils partagent leurs textes, les critiquent, les commentent, les travaillent et, de version en version, les améliorent.
 
 Le but premier de [Scribay](https://www.scribay.com/) n’est pas de multiplier les lectures, mais de multiplier les retours et les interactions. Plutôt qu’une énième plateforme de publication, [Scribay](https://www.scribay.com/) se place en amont, dans l’intimité de la création.
 

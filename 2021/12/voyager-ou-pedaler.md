@@ -1,6 +1,6 @@
 # Voyager ou pédaler ?
 
-[Après avoir cité Franck Michel](https://tcrouzet.com/2021/12/23/pourquoi-pedalez-vous/), j’ai lu un de ses bouquins sur le vélo : [*Pédale douce*](https://www.amazon.fr/gp/product/B086R2PHN9/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1). J’y ai découvert un voyageur humaniste qui pédale avec des vélos rustiques achetés dans les pays visités, puis qui les offre avant de rentrer. Il ne transporte même pas d’outils pour que les pannes entraînent des rencontres et des imprévus.<span id="more-61117"></span>
+[Après avoir cité Franck Michel](https://tcrouzet.com/2021/12/23/pourquoi-pedalez-vous/), j’ai lu un de ses bouquins sur le vélo : [*Pédale douce*](https://www.amazon.fr/gp/product/B086R2PHN9/ref=ppx_yo_dt_b_d_asin_title_o00?ie=UTF8&psc=1). J’y ai découvert un voyageur humaniste qui pédale avec des vélos rustiques achetés dans les pays visités, puis qui les offre avant de rentrer. Il ne transporte même pas d’outils pour que les pannes entraînent des rencontres et des imprévus.
 
 Dans cet essai, Michel propose une vision du vélo proche de la mienne et, en même temps, souvent opposée. Je tente de les démêler pour peut-être éclaircir quelques incompréhensions politiques, philosophiques et surtout esthétiques.
 

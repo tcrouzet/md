@@ -1,6 +1,6 @@
 # Méchante globalisation
 
-Je lis souvent à droite à gauche, parfois même sous la plume de gens que j’aime bien, des petites choses qui me choquent. Par exemple, la mondialisation s’accompagnerait d’une concentration des entreprises. Je pense qu’il s’agit d’une idée reçue.<span id="more-315"></span>
+Je lis souvent à droite à gauche, parfois même sous la plume de gens que j’aime bien, des petites choses qui me choquent. Par exemple, la mondialisation s’accompagnerait d’une concentration des entreprises. Je pense qu’il s’agit d’une idée reçue.
 
 Si la mondialisation impliquait la concentration, il devrait y avoir de moins en moins d’entreprises. Après une seule requête sur Google, j’ai l’impression que le contraire se produit, même en France. [Il n’y a pas de moins en moins d’entreprises](http://www.educnet.education.fr/insee/entreprises/quand/quandaccueil.htm), à l’échelle mondiale je pense qu’il y en a de plus en plus au contraire.
 

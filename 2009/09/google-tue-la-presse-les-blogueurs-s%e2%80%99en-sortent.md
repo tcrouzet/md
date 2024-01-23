@@ -4,9 +4,8 @@
 
 ![stats du blog](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/stats.png)
 
-Réponse par les chiffres à [l’article de narvic sur Google et la presse](http://narvic.fr/2009/09/audience-des-sites-dinfo-en-ligne-votre-impasse-cest-google/). Sur [bonweb.fr](http://bonweb.fr), un annuaire, on a un taux de clic sur les pubs AdSense qui dépasse les 9%. Sur [coZop.com](http://cozop.com), site d’actualité, on a un taux de clic de 1,5%. Chaque visiteur rapporte 6 fois moins à coZop, et même en réalité 10 fois moins car les publicités affichées sur coZop sont moins rentables que sur bonweb.<span id="more-9302"></span>
-
-**Première conclusion** : pour gagner sa vie avec de la pub au clic, un site d’actu doit faire un trafic dix fois supérieur à un site de recherche. C’est pas gagné quand on sait que produire de l’actu coûte cher là où faire de la recherche nécessite des robots. Qui emportera le match ? Pas difficile de deviner.
+Réponse par les chiffres à [l’article de narvic sur Google et la presse](http://narvic.fr/2009/09/audience-des-sites-dinfo-en-ligne-votre-impasse-cest-google/). Sur [bonweb.fr](http://bonweb.fr), un annuaire, on a un taux de clic sur les pubs AdSense qui dépasse les 9%. Sur [coZop.com](http://cozop.com), site d’actualité, on a un taux de clic de 1,5%. Chaque visiteur rapporte 6 fois moins à coZop, et même en réalité 10 fois moins car les publicités affichées sur coZop sont moins rentables que sur bonweb.
+ : pour gagner sa vie avec de la pub au clic, un site d’actu doit faire un trafic dix fois supérieur à un site de recherche. C’est pas gagné quand on sait que produire de l’actu coûte cher là où faire de la recherche nécessite des robots. Qui emportera le match ? Pas difficile de deviner.
 
 Sinon, comme je l’écrivais il y a quelques jours, nous autre blogueurs sommes aujourd’hui capables de [dire merde à Google](http://blog.tcrouzet.com/2009/08/19/on-va-pouvoir-dire-merde-a-google/). Le grand méchant n’est plus le seul apporteur de trafic. Les réseaux sociaux ont même tendance à le dépasser, pour peu que nous soyons actifs.
 

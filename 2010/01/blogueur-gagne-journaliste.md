@@ -1,6 +1,6 @@
 # Un blogueur gagne plus qu’un journaliste
 
-Quelques réflexions au sujet du journalisme qui m’ont traversé en lisant des articles autour de cette affaire de [spoliation des blogueurs par l’État](http://blog.tcrouzet.com/2009/12/30/l%e2%80%99etat-spolie-les-blogueurs/).<span id="more-13115"></span>
+Quelques réflexions au sujet du journalisme qui m’ont traversé en lisant des articles autour de cette affaire de [spoliation des blogueurs par l’État](http://blog.tcrouzet.com/2009/12/30/l%e2%80%99etat-spolie-les-blogueurs/).
 
 Petite précision pour ceux qui l’ignorent : j’ai moi aussi été journaliste, même rédacteur en chef d’une belle machine de guerre, j’ai eu une carte de presse jusqu’en 1996. J’ai aussi lu que j’étais un entrepreneur-blogueur. Je ne suis qu’un artisan-blogueur, je n’ai jamais employé personne d’autre que moi-même.
 

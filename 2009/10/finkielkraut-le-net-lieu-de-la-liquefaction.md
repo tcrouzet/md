@@ -1,6 +1,6 @@
 # Finkielkraut: le net, lieu de la liquéfaction
 
-« Vous êtes tous pourris, vous avez compris ? Vous êtes en état avancé de décomposition. Vous n’existez même pas. » Voici comment je pourrais résumer la pensée de Finkielkraut au sujet du Net après avoir écouté son [entretien avec Pierre Lévy](http://www.youtube.com/user/JimOnTheAir#p/c/82D09F615BCFBDFE) organisé par Michel Alberganti sur France Culture.<span id="more-11217"></span>
+« Vous êtes tous pourris, vous avez compris ? Vous êtes en état avancé de décomposition. Vous n’existez même pas. » Voici comment je pourrais résumer la pensée de Finkielkraut au sujet du Net après avoir écouté son [entretien avec Pierre Lévy](http://www.youtube.com/user/JimOnTheAir#p/c/82D09F615BCFBDFE) organisé par Michel Alberganti sur France Culture.
 
 Mise en garde. Ma lecture est biaisée. Je suis en train d’écrire un livre sur [la fluidification de l’information, de la société et de l’homme](http://blog.tcrouzet.com/tag/flux/). Pour moi, c’est un phénomène en grande partie positif, même s’il engendre pas mal de bouleversements (mais le bouleversement est-il négatif ?).
 

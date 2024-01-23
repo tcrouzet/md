@@ -1,6 +1,6 @@
 # Les auteurs sont-ils fainéants ?
 
-Le SNE, la SGDL, Google, le gouvernement, les éditeurs bien sûr, tout le monde comploterait pour exploiter les malheureux auteurs qui n’ont d’autres recours que pleurer leurs larmes de récrimination.<span id="more-25174"></span>
+Le SNE, la SGDL, Google, le gouvernement, les éditeurs bien sûr, tout le monde comploterait pour exploiter les malheureux auteurs qui n’ont d’autres recours que pleurer leurs larmes de récrimination.
 
 OK. [Des lois et accords iniques ont été passés dans notre dos comme le souligne mon ami Yal.](http://www.actusf.com/spip/Interview-d-Ayerdhal.html) Je ne vais pas le contester, ni dire que c’est une bonne chose. On se fiche de nous, mais regardons les choses en face. Cette affaire, [ici clairement résumée](http://www.sivan-avocats.com/Accord-SNE-Google.html), fait perdre trop de temps à trop de monde (à moi aussi même si je ne suis pas intervenu jusqu’à aujourd’hui, j’ai déjà passé trop de temps à lire les articles et tweets qui circulent).
 

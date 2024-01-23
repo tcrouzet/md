@@ -1,6 +1,6 @@
 # Je veux la paix, dit le vaccin, mais je fais la guerre
 
-Extrait d’un passage de [*Vaincre les épidémies*](https://tcrouzet.com/vaincre-les-epidemies/). Entrée du journal de Didier Pittet au 4 mai 2020.<span id="more-56422"></span>
+Extrait d’un passage de [*Vaincre les épidémies*](https://tcrouzet.com/vaincre-les-epidemies/). Entrée du journal de Didier Pittet au 4 mai 2020.
 
 ---
 

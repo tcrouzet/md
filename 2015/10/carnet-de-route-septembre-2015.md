@@ -12,11 +12,15 @@ Matinée passée au café. Je devais attendre la sortie de Tim du collège et é
 
 ![Septembre nous accueille avec un ciel qui sent l'hiver.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/cielsep.jpg)
 
+Septembre nous accueille avec un ciel qui sent l'hiver.
+
 ### Mercredi 2, Balaruc
 
 Comme chaque année, je passe un peu de temps plongé dans le code de mon blog. C’est de plus en plus technique pour qui veut coller aux standards Web. Obligation de savoir coder désormais ou se contenter de subir le code des autres, ce qui me paraît pour le moins limitatif pour un créateur.
 
 ![Un horizon menaçant.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/menace.jpg)
+
+Un horizon menaçant.
 
 ### Vendredi 4, Balaruc
 
@@ -40,6 +44,8 @@ La littérature devrait abandonner le divertissement aux films, aux jeux vidéo,
 
 ![D'où je vois le monde.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/labas.jpg)
 
+D'où je vois le monde.
+
 ### Lundi 7, Balaruc
 
 Équipe de repérage dans la maison, louée pour un tournage. C’est pour nous l’occasion de ranger, de réparer, de remettre en ordre.
@@ -62,6 +68,8 @@ Cette image d’une camérawoman qui fait un croc en jambe à un réfugié porta
 
 ![Pour un droit aux couchers de soleil.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/droit.jpg)
 
+Pour un droit aux couchers de soleil.
+
 ### Mercredi 9, Balaruc
 
 Les news parlent des réfugiés, mes compatriotes veulent les accueillir (saine réaction). Dans quinze jours, ils passeront à autre chose (un tremblement de terre, un tsunami, une inondation…). L’actualité régit les comportements. Les faiseurs d’actualité, les mêmes à l’origine des flux migratoires inhumains, ont pris le pouvoir (et ce n’est pas nouveau).
@@ -79,6 +87,8 @@ Je ris jaune de voir tant de mes amis courir au secours de Booxup, et peu import
 J’ai passé la journée à bricoler, notamment à changer le moteur de notre écran de projection. Après un footing, un repas, j’attends le coucher du soleil au bord de l’étang, avec une sensation de plénitude que seule une photographie résume, éventuellement.
 
 ![Le moment indispensable.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/coucher.jpg)
+
+Le moment indispensable.
 
 ### Jeudi 10, Balaruc
 
@@ -134,6 +144,8 @@ Journée de coupure, de marche, de dépaysement à moins de deux heures de route
 
 ![Coupures indispensables.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/vis.jpg)
 
+Coupures indispensables.
+
 ### Mercredi 16, Balaruc
 
 Tempête d’équinoxe. Un chaud vent du sud soulève l’étang et notre ponton. Mission repêchage avant décrochage. Je reviens trempé à la cuisine, je me fais un demi-pamplemousse et songe que je dois remonter écrire. Pourquoi ? Tous les écrivains ont donné leur réponse à cette question. La mienne est simple : pour mieux voir le monde. Mais pourquoi vouloir être lu ? Je ne vois aucune autre explication qu’une prétention absurde. Vouloir être lu n’a aucun sens (à moins d’espérer gagner de l’argent, ce qui me paraît bien peu glorieux). Alors écrire, refuser toute promotion, se contenter de publier dans le silence pour partager avec un lecteur non voulu.
@@ -167,6 +179,8 @@ Nous pensons trop haut avec la prétention d’avoir des choses à dire. Le Web 
 Coucher de soleil orange intense, une coloration plus commune en hiver. Étang immobile avec Pyrénées en clôture. Je photographie tout en sachant que ce spectacle se vit et ne se partage pas à distance, comme tant d’autres choses, peut-être pour cette raison que je ne vais plus sur les réseaux sociaux que quand on m’y interpelle. Alors je jette un œil à ma timeline, et aux centaines de « Et moi, et moi ! » Je pêche toujours quelques idées, quelques infos intéressantes sur le travail de mes amis, tout cela noyé dans une médiocrité généralisée, à laquelle mes amis n’échappent pas. Filtrage impossible.
 
 ![Les Pyrénées.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/pyres.jpg)
+
+Les Pyrénées.
 
 ### Lundi 22, Balaruc
 
@@ -206,6 +220,8 @@ Après le déjeuner, alors que je rêve dans ma chaise longue, je photographie u
 
 ![Facebook in the cloud.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/fb.jpg)
 
+Facebook in the cloud.
+
 ---
 
 Que de discussions stériles sur la part de marché des ebooks alors que tout n’est qu’une question d’applications et de devises. La liseuse miracle qui fera oublier le papier aux foules n’existe tout simplement pas encore.
@@ -219,6 +235,8 @@ Presque tous les soirs, je me prépare contre le réchauffement climatique. Je r
 « La diffusion gratuite d’une création, c’est sa mise en abondance potentielle, c’est donc participer à la société de l’abondance, c’est donc contribuer à la surenchère médiatique, à la saturation de l’espace informationnel. » Ce pourrait être un aphorisme hypo. En fait, rien n’empêche de diffuser dans le domaine public en toute discrétion. C’est le cas du *Manifeste hypo*. « Libère tes œuvres sans dans le même temps les vouloir populaires, sinon tu penches irrémédiablement vers le normatif esthétique. »
 
 ![Pas d'esthétique, j'aime simplement la lumière de mon pays.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/10/matin.jpg)
+
+Pas d'esthétique, j'aime simplement la lumière de mon pays.
 
 ### Dimanche 27, Balaruc
 

@@ -1,6 +1,6 @@
 # Comment pérenniser la littérature numérique
 
-Pour que mon blog ne dépende pas de mon serveur, et donc de ma seule capacité à le maintenir à flot, [j’ai expérimenté les NFT](https://tcrouzet.com/2021/08/20/je-vends-mon-blog-aux-encheres-en-nft/), et je continuerai, mais il existe une solution plus directe, la conversion du blog en HTML statique et minimaliste, ne nécessitant aucun backoffice.<span id="more-60373"></span>
+Pour que mon blog ne dépende pas de mon serveur, et donc de ma seule capacité à le maintenir à flot, [j’ai expérimenté les NFT](https://tcrouzet.com/2021/08/20/je-vends-mon-blog-aux-encheres-en-nft/), et je continuerai, mais il existe une solution plus directe, la conversion du blog en HTML statique et minimaliste, ne nécessitant aucun backoffice.
 
 L’intérêt : une fois ainsi converti, un blog peut être lu comme un document ordinaire à partir de n’importe quel espace de stockage, connecté ou pas. Les textes et les images sont ainsi disponibles dans un format ouvert, ce qui garantit leur future exploitation.
 

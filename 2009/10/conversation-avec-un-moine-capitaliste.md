@@ -4,8 +4,6 @@ Samedi dernier, avec [Phyrezo](http://blog.phyrezo.org/), nous avons rencontré 
 
 ### La fin de l'esclavage et l'égalité démocratique au Moyen Age
 
-<span id="more-11393"></span>
-
 ### L'hypercapitalisme et la fin de l'egalité
 
 ### De la représentativité politique

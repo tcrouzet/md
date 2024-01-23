@@ -2,8 +2,6 @@
 
 Quand un journaliste, un éditeur ou un lecteur me demandent un texte, soit je pointe vers une page du blog, soit j’envoie un epub (format standard des livres électroniques). On me répond souvent « Ton fichier est vérolé, il s’ouvre pas » ou « Je n’ai pas le logiciel pour l’ouvrir. »
 
-<span id="more-34437"></span>
-
 Que les epub ne s’ouvrent pas naturellement sur tous les systèmes démontre que la lecture des livres électroniques se développe bien lentement par rapport à celle des pages Web (les URL, eux, sont universellement acceptées). Lire un epub, ça reste une histoire d’application à installer, c'est vrai sur tablette, téléphone et ordi.
 
 ### Bêtement dans votre navigateur

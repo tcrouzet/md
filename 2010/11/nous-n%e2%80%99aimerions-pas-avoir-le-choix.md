@@ -1,6 +1,6 @@
 # Nous n’aimerions pas avoir le choix
 
-J’évite les restaurants avec des menus qui s’étalent sur plusieurs pages. Ils trahissent la cuisine micro-onde. Quand j’ai le choix, je privilégie toujours les menus minimalistes qui me laissent peu de liberté. C’est une condition nécessaire, mais pas suffisante, à la pratique de la cuisine que j’aime.<span id="more-20377"></span>
+J’évite les restaurants avec des menus qui s’étalent sur plusieurs pages. Ils trahissent la cuisine micro-onde. Quand j’ai le choix, je privilégie toujours les menus minimalistes qui me laissent peu de liberté. C’est une condition nécessaire, mais pas suffisante, à la pratique de la cuisine que j’aime.
 
 Mon raisonnement est simple : si peu de plats sont proposés, il y a une chance qu’ils soient préparés à la demande. Je préfère donc voir ma liberté de choix réduite plutôt qu’on me laisse choisir entre beaucoup d’options aussi médiocres les unes que les autres.
 

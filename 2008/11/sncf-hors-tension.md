@@ -1,6 +1,6 @@
 # SNCF hors tension
 
-Hier, en allant à la piscine avec les enfants, j’entends à la radio que la ligne Thalys a été bloquée à cause de malveillances. J’avais entendu la même chose durant les vacances, une semaine plus tôt.<span id="more-3515"></span>
+Hier, en allant à la piscine avec les enfants, j’entends à la radio que la ligne Thalys a été bloquée à cause de malveillances. J’avais entendu la même chose durant les vacances, une semaine plus tôt.
 
 Pourquoi parler de malveillances alors qu’il s’agit tout simplement d’attentats ? Nous entrons dans la logique de la [guérilla](http://blog.tcrouzet.com/2008/02/22/le-cinquieme-pouvoir-militaire/).
 

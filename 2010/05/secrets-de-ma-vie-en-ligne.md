@@ -1,6 +1,6 @@
 # Les secrets de ma vie en ligne
 
-À l’invitation de [Kawenga](http://www.kawenga.org/accueil.php), je passe la journée avec des auteurs pour leur parler de la façon dont j’organise ma vie en ligne, comment tout cela commence, s’organise, se développe… Je vais essayer de les accompagner au fil d’un parcours initiatique dont je résume dans ce billet les étapes.<span id="more-16570"></span>
+À l’invitation de [Kawenga](http://www.kawenga.org/accueil.php), je passe la journée avec des auteurs pour leur parler de la façon dont j’organise ma vie en ligne, comment tout cela commence, s’organise, se développe… Je vais essayer de les accompagner au fil d’un parcours initiatique dont je résume dans ce billet les étapes.
 
 ### Votre désir
 

@@ -1,6 +1,6 @@
 # Après l’ouvrianat, le revenu de base
 
-Deux images suffisent à démontrer pourquoi le revenu inconditionnel pour tous ne peut que s’imposer. [La première montre la décroissance du travail manufacturier comparé à la croissance du travail robotisé](http://www.internetactu.net/2014/01/20/le-deuxieme-age-des-machines/). [La seconde montre une imprimante 3D qui construit en une journée une maison individuelle.](http://inhabitat.com/large-3d-printer-can-print-an-entire-two-story-house-in-under-a-day/)<span id="more-34198"></span>
+Deux images suffisent à démontrer pourquoi le revenu inconditionnel pour tous ne peut que s’imposer. [La première montre la décroissance du travail manufacturier comparé à la croissance du travail robotisé](http://www.internetactu.net/2014/01/20/le-deuxieme-age-des-machines/). [La seconde montre une imprimante 3D qui construit en une journée une maison individuelle.](http://inhabitat.com/large-3d-printer-can-print-an-entire-two-story-house-in-under-a-day/)
 
 ![Humans in the USA vs. Robots Worldwide](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/robot.png)
 

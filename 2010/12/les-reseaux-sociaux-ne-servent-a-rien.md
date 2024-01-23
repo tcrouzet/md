@@ -1,6 +1,6 @@
 # Les réseaux sociaux ne servent à rien
 
-Hier soir autour de 21 heures, j’étais en une de [Wikio](http://www.wikio.fr) pour [mon billet sur Wikileaks](http://blog.tcrouzet.com/2010/12/03/dictature-de-la-transparence/). Qu’est-ce que ça signifiait ? Que j’étais très lu à ce moment ? Immensément populaire sur le Net ? Non.<span id="more-20774"></span>
+Hier soir autour de 21 heures, j’étais en une de [Wikio](http://www.wikio.fr) pour [mon billet sur Wikileaks](http://blog.tcrouzet.com/2010/12/03/dictature-de-la-transparence/). Qu’est-ce que ça signifiait ? Que j’étais très lu à ce moment ? Immensément populaire sur le Net ? Non.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/12/wikio.png)
 

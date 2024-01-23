@@ -1,6 +1,6 @@
 # Nous sommes tous éditorialistes sans le savoir
 
-Depuis longtemps [Marcello Vitali Rosati](http://vitalirosati.com/) est dans mon paysage numérique, sans que j’ai même gratté sa théorie de l’éditorialisation. Et puis nous allons [nous croiser dans un mois à Lyon](http://www.fabula.org/actualites/colloque-internet-est-un-cheval-de-troie_67661.php), un autre chercheur en littérature me parle de lui, même me demande comment je me positionne par rapport à ses travaux… alors je demande à Marcello par où commencer. Il me pointe vers [*What is editorialization ?*](http://sens-public.org/article1059.html)<span id="more-43478"></span>
+Depuis longtemps [Marcello Vitali Rosati](http://vitalirosati.com/) est dans mon paysage numérique, sans que j’ai même gratté sa théorie de l’éditorialisation. Et puis nous allons [nous croiser dans un mois à Lyon](http://www.fabula.org/actualites/colloque-internet-est-un-cheval-de-troie_67661.php), un autre chercheur en littérature me parle de lui, même me demande comment je me positionne par rapport à ses travaux… alors je demande à Marcello par où commencer. Il me pointe vers [*What is editorialization ?*](http://sens-public.org/article1059.html)
 
 Si j’ai bien compris, l’éditorialisation c’est l’action de mettre en forme l’information, de la diffuser, de la structurer, de la représenter (la liste est longue), c’est en gros mon boulot au quotidien. Quand Google affiche un résultat de recherche, il éditorialise des bribes d’information pour nous les présenter hors de leur contexte source.
 
@@ -43,6 +43,8 @@ Je commence à saisir la notion d’éditorialisation. Une chose que nous faison
 > Editorialization, we can therefore conclude, is a way of producing reality and not a way of representing it.
 
 ![Lisez donc Ayerdhal au passage.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/yal.jpg)
+
+Lisez donc Ayerdhal au passage.
 
 
 

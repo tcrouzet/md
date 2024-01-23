@@ -1,6 +1,6 @@
 # La guerre finale contre l’humanisme
 
-Nous savons que les adeptes de la haute finance sont [des psychopathes](http://www.amazon.fr/Snakes-Suits-When-Psychopaths-Work/dp/0061147893) (définition : insensible à la souffrance des autres). Savoir que par leurs pratiques ils creusent l’écart entre les riches, eux, et les pauvres, les autres, ne les tourmente pas le moins du monde.<span id="more-37007"></span>
+Nous savons que les adeptes de la haute finance sont [des psychopathes](http://www.amazon.fr/Snakes-Suits-When-Psychopaths-Work/dp/0061147893) (définition : insensible à la souffrance des autres). Savoir que par leurs pratiques ils creusent l’écart entre les riches, eux, et les pauvres, les autres, ne les tourmente pas le moins du monde.
 
 Un ami qui appartient à ce gotha, mais qui en souffre sans réussir à s’en échapper, m’a dit un jour « L’intelligence est de notre côté. On est plus brillant que n’importe quel ministre des Finances. » Cette proposition était peut-être valable jusqu’à ce qu’un associé de chez Rothschild, revenu estimé [125 000 €/mois](https://twitter.com/DionJack2/status/506786028120989696), devienne justement ministre des Finances en France.
 

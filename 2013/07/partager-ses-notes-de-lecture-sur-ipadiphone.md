@@ -1,6 +1,6 @@
 # Partager ses notes de lecture sur iPad/iPhone
 
-Chaque fois que j’envoie un epub à mes amis pour relecture, corrections, critiques, le problème du retour des notes se pose. Sous Word, on a le mode correction pour ça. Il nous manque cruellement sur les applis de lecture. Je viens de constater qu’on peut s’en tirer tant bien que mal depuis l’application iBooks d’Apple.<span id="more-33242"></span>
+Chaque fois que j’envoie un epub à mes amis pour relecture, corrections, critiques, le problème du retour des notes se pose. Sous Word, on a le mode correction pour ça. Il nous manque cruellement sur les applis de lecture. Je viens de constater qu’on peut s’en tirer tant bien que mal depuis l’application iBooks d’Apple.
 
 1. Une fois vos annotations achevées, cliquez sur le bouton sommaire, en haut à gauche.
 

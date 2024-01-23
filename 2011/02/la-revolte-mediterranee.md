@@ -1,6 +1,6 @@
 # La révolte ne doit pas s’arrêter de l’autre côté de la Méditerranée
 
-Depuis que les Tunisiens ont soulevé par leurs protestations un vent de liberté en Afrique du Nord, je dis souvent que les frontières de l’empire s’effritent et que bientôt son cœur aussi tombera… mais peut-être pas de lui-même comme un fruit trop mûr.<span id="more-21261"></span>
+Depuis que les Tunisiens ont soulevé par leurs protestations un vent de liberté en Afrique du Nord, je dis souvent que les frontières de l’empire s’effritent et que bientôt son cœur aussi tombera… mais peut-être pas de lui-même comme un fruit trop mûr.
 
 Quand j’ai lancé sur Twitter et Facebook cette phrase : « La révolte ne doit pas s’arrêter de l’autre côté de la Méditerranée. », on s’est fichu de moi, me traitant de comique et m’accusant de comparer l’incomparable. On m’a dit que j’étais masochiste, que je me faisais volontairement mal. On m’a dit que je m’étais taillé le doigt et que je me comparais à un leucémique. Alors si je suis un comique, un masochiste ou un hypocondriaque, il y en a qui portent des œillères.
 

@@ -1,6 +1,6 @@
 # Taxinomie littéraire à l&#8217;âge de Twitter
 
-La sortie de [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) approche et, en même temps que je boucle le dossier de présentation du thriller, je croise la route de la [twittérature](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/).<span id="more-30789"></span>
+La sortie de [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) approche et, en même temps que je boucle le dossier de présentation du thriller, je croise la route de la [twittérature](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/).
 
 On attribue sa naissance tantôt aux Spartiates réputés laconiques, aux Japonais adeptes du haïku, aux *Nouvelles en trois lignes* de Félix Fénéon et plus sûrement à Hemingway pour une célèbre phrase :
 

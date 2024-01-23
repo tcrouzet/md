@@ -1,6 +1,6 @@
 # Édition: la fourchette fatale
 
-Aux Échecs, la fourchette est le coup rêvé. Attaquer simultanément plusieurs pièces de l’adversaire ce qui lui impose d’en sacrifier au moins une. Le monde de l’édition se trouve dans la même situation. Quelles pièces seront sacrifiées ?<span id="more-15992"></span>
+Aux Échecs, la fourchette est le coup rêvé. Attaquer simultanément plusieurs pièces de l’adversaire ce qui lui impose d’en sacrifier au moins une. Le monde de l’édition se trouve dans la même situation. Quelles pièces seront sacrifiées ?
 
 ### Le livre est mort
 

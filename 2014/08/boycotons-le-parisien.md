@@ -1,6 +1,6 @@
 # Boycottons Le Parisien
 
-Quand un journal attaque une blogueuse parisienne pour contrefaçon, juste parce qu’elle est Parisienne, parce qu’elle a nommé son blog [*The Parisienne*](http://www.theparisienne.fr/2014/08/le-parisien-attaque-the-parisienne/), c’est tous les blogueurs qui sont attaqués.<span id="more-36824"></span>
+Quand un journal attaque une blogueuse parisienne pour contrefaçon, juste parce qu’elle est Parisienne, parce qu’elle a nommé son blog [*The Parisienne*](http://www.theparisienne.fr/2014/08/le-parisien-attaque-the-parisienne/), c’est tous les blogueurs qui sont attaqués.
 
 On ne nous aime pas, ni dans la presse ni dans l’édition, parce que nous réinventons une parole libre, une parole vraie, une parole qui va là où nul autre n’irait si nous n’étions pas là, une parole qui n’implique aucune prise de bénéfice ni aucune recherche d’intérêt.
 

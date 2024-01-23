@@ -1,6 +1,6 @@
 # Quand édition se combine avec autopublication
 
-[*Le Geste qui Sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/) sort en fin de semaine à l’occasion du Salon du livre de Genève. Comme ce matin un article l’évoque dans *La Tribune de Genève*, j’ouvre dès aujourd’hui [la page d’accès au texte, version payantes et gratuites,](http://blog.tcrouzet.com/le-geste-qui-sauve/downloads/) dans toutes les langues, et cette page mérite quelques explications, car elle montre que l’édition se transforme plus rapidement que la plupart de nos éditeurs ne l’imaginent.<span id="more-35264"></span>
+[*Le Geste qui Sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/) sort en fin de semaine à l’occasion du Salon du livre de Genève. Comme ce matin un article l’évoque dans *La Tribune de Genève*, j’ouvre dès aujourd’hui [la page d’accès au texte, version payantes et gratuites,](http://blog.tcrouzet.com/le-geste-qui-sauve/downloads/) dans toutes les langues, et cette page mérite quelques explications, car elle montre que l’édition se transforme plus rapidement que la plupart de nos éditeurs ne l’imaginent.
 
 Tout d’abord petit résumé du projet. Dans *Le Geste qui Sauve*, [une narrative non-fiction](http://blog.tcrouzet.com/2009/03/01/narrative-nonfiction/), je raconte la vie et l’œuvre de Didier Pittet, l’apôtre de l’hygiène des mains qui a su généraliser son innovation tant technique que sociale grâce à l’open source. Résultat : en dix ans, tous les hôpitaux de la planète ont adopté les gels antiseptiques, sauvant annuellement 8 millions de vies.
 
@@ -36,6 +36,8 @@ L’âge d’homme commercialise le livre papier à 12 €. J’ai choisi de pra
 
 ![Marge sur CreateSPace](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/createspace.png)
 
+Marge sur CreateSPace
+
 Ma marge est alors d’environ 4,5 € par exemplaire, soit 37 %. Les éditeurs traditionnels n’obtiennent guère mieux. Aucun auteur édité ne reçoit 37 % de royalties.
 
 Cela signifie qu’en quelques clics, sans aucun engagement, je peux commercialiser des livres à un prix compétitif. Et la qualité ? Elle est tout simplement stupéfiante. Avec une couverture mâte et un papier crème, le résultat est supérieur à beaucoup de livres diffusés dans nos librairies. Un seul bémol, CreateSpace impose de folioter toutes les pages, même les pages de garde ou les belles pages.
@@ -45,6 +47,8 @@ Les éditeurs doivent-ils paniquer ? Non. Ils ont deux métiers. Le premier, l�
 J’imagine même qu’un éditeur français pourrait se spécialiser dans l’international. Voilà une idée de business pour une start-up. Prendre les meilleurs livres français, les faire traduire, les diffuser à l’aide des canaux numériques dans le reste du monde. L’édition et l’autopublication loin d’être opposées peuvent s’unir. C'est pour quand la French Touch Littéraire ?
 
 ![La version espagnole imprimée par CreateSpace.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/hopigel.jpeg)
+
+La version espagnole imprimée par CreateSpace.
 
 
 

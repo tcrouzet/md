@@ -1,6 +1,6 @@
 # Centraliser, c’est faire la guerre
 
-La tentation du pouvoir est partout. Qui en détient une parcelle en veut toujours plus. C’est vrai en politique, en économie, et même en littérature. Nous ne changerons pas de trajectoire historique sans remettre en cause la nécessité d’un centre.<span id="more-34754"></span>
+La tentation du pouvoir est partout. Qui en détient une parcelle en veut toujours plus. C’est vrai en politique, en économie, et même en littérature. Nous ne changerons pas de trajectoire historique sans remettre en cause la nécessité d’un centre.
 
 ### Tentation de l’attentat
 

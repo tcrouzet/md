@@ -1,6 +1,6 @@
 # Comment tracer gravel ou VTT à l’arrache
 
-Le week-end dernier, un de mes cousins et moi nous sommes fait déposer à Bergerac avec nos bécanes, lui avec un VTT 26" tout rigide, autant dire un gravel à la mode années 1980, et moi avec mon tout suspendu. L’occasion s’est présentée à la dernière minute et j’ai eu à peine plus d’une heure pour tracer un parcours pour nous ramener au village de Montagnac sur Lède, fief de ma belle famille, situé à 42 km à vol d’oiseau.<span id="more-64239"></span>
+Le week-end dernier, un de mes cousins et moi nous sommes fait déposer à Bergerac avec nos bécanes, lui avec un VTT 26" tout rigide, autant dire un gravel à la mode années 1980, et moi avec mon tout suspendu. L’occasion s’est présentée à la dernière minute et j’ai eu à peine plus d’une heure pour tracer un parcours pour nous ramener au village de Montagnac sur Lède, fief de ma belle famille, situé à 42 km à vol d’oiseau.
 
 Si je connais bien le final, j’ignore tout du secteur Bergerac, sinon la N21 au trafic épouvantable et la non moins épouvantable D14 qui vient s’y brancher. Pour ne pas perdre de temps, je me suis dit que c’était l’occasion de tester une nouvelle fois quelques outils de traçage automatique, [mon test de 2019 ne m’ayant guère impressionné](https://tcrouzet.com/2019/09/11/vtt-gravel-bikepacking-que-vaut-le-routage-automatique/).
 

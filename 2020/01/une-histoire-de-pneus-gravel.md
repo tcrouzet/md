@@ -1,6 +1,6 @@
 # Une histoire de pneus gravel
 
-Si un truc nous empêche de dormir nous autres gravellistes, c’est la question pneumatique. Nous sommes perpétuellement en quête du compromis confort/résistance tout en cherchant le combo idéal sur route, piste et single, combo dépendant bien sûr de nos usages et des terrains de jeu à notre disposition.<span id="more-53315"></span>
+Si un truc nous empêche de dormir nous autres gravellistes, c’est la question pneumatique. Nous sommes perpétuellement en quête du compromis confort/résistance tout en cherchant le combo idéal sur route, piste et single, combo dépendant bien sûr de nos usages et des terrains de jeu à notre disposition.
 
 Je ne vais pas vous dire quels pneus utiliser, j’aimerais bien le savoir et pour cela il me faudrait en avoir testé des dizaines pendant des mois. Je veux simplement vous raconter où j’en suis après 18 mois de gravel.
 

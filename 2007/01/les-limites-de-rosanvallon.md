@@ -1,6 +1,6 @@
 # Les limites de Rosanvallon
 
-Je vous conseille de lire [cette lettre](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/ac.pdf) écrite par Hervé Chaygneaud-Dupuy, membre des [Ateliers de la Citoyenneté](http://www.ateliersdelacitoyennete.net). Il y fait une bonne critique du livre de Pierre Rosanvallon [*La contre-démocratie*](http://blog.tcrouzet.com/2006/10/25/la-contre-democratie/).<span id="more-324"></span>
+Je vous conseille de lire [cette lettre](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/ac.pdf) écrite par Hervé Chaygneaud-Dupuy, membre des [Ateliers de la Citoyenneté](http://www.ateliersdelacitoyennete.net). Il y fait une bonne critique du livre de Pierre Rosanvallon [*La contre-démocratie*](http://blog.tcrouzet.com/2006/10/25/la-contre-democratie/).
 
 J’ai aussi lu le livre de Rosanvallon : ma critique est brève. Bravo pour la perspective historique (l’essentiel de son livre), haro pour la vision. Rosanvallon n’a pas vu l’émergence du cinquième pouvoir, de cette force citoyenne qui exerce un contre-pouvoir mais aussi exerce le pouvoir à côté des pouvoirs traditionnels, peut-être un jour à leur place. Rosanvallon passe à côté de cette possibilité, pas totalement utopique comme j’essaie de le montrer dans [mon livre](http://blog.tcrouzet.com/).
 

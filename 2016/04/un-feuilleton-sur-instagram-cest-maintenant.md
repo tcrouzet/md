@@ -1,6 +1,6 @@
 # Un feuilleton sur Instagram, c’est maintenant
 
-Quelle forme donner à une narration aujourd’hui ? Pourquoi la penser seulement comme un alignement des mots organisés en phrases et paragraphes, eux-mêmes regroupés en chapitres ?<span id="more-43733"></span>
+Quelle forme donner à une narration aujourd’hui ? Pourquoi la penser seulement comme un alignement des mots organisés en phrases et paragraphes, eux-mêmes regroupés en chapitres ?
 
 Quand je me limite à cette approche, je n’éprouve souvent aucun plaisir. J’ai l’impression de passer à côté de ma musique et de celle de mon temps. Alors je cherche, j’expérimente, je soumets des esquisses aux lecteurs, jusqu’à me sentir à mon aise dans une forme, avec l’espoir qu’elle m’aide à me dépasser.
 

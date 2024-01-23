@@ -47,24 +47,19 @@ Lisa Cron explique qu’un protagoniste lancé dans une histoire parce qu’il l
 D’où la nécessité d’expliciter les buts interne et externe assez vite dès le début, ce qui est le cas dès le premier paragraphe de mon roman.
 
 Lisa Cron termine son chapitre par une check-list.
-
-**Do you know what your protagonist wants?** What does she desire most? What is her agenda, her raison d’être?
+ What does she desire most? What is her agenda, her raison d’être?
 
 *Mon héros veut éprouver des émotions fortes. Il veut se sentir vivre. Il veut s’arracher à l’ordinaire de sa vie ennuyeuse. Il ne veut plus vivre par procuration. Ses désirs sont universels. Les lecteurs peuvent les comprendre et les partager.*
-
-**Do you know why your protagonist wants what he wants?** What does achieving his goal mean to him, specifically? Do you know why? In short, what’s his motivation?
+ What does achieving his goal mean to him, specifically? Do you know why? In short, what’s his motivation?
 
 *Prisonnier de la normalité, il ne ressent plus rien. Il doit changer quelque chose dans sa vie pour se remettre en route.*
-
-**Do you know what your protagonist’s external goal is?** What specific goal does his desire catapult him toward? Beware of simply shoving him into a generic “bad situation” just to see what he will do. Remember, achieving his goal must fulfill a longstanding need or desire—and force him to face a deep-seated fear in the process.
+ What specific goal does his desire catapult him toward? Beware of simply shoving him into a generic “bad situation” just to see what he will do. Remember, achieving his goal must fulfill a longstanding need or desire—and force him to face a deep-seated fear in the process.
 
 *Écrire un best-seller.*
-
-**Do you know what your protagonist’s internal goal is?** One way of arriving at this is to ask yourself, What does achieving her external goal mean to her? How does she think it will affect how she sees herself? What does she think it will say about her? Is she right? Or is her internal goal at odds with her external goal?
+ One way of arriving at this is to ask yourself, What does achieving her external goal mean to her? How does she think it will affect how she sees herself? What does she think it will say about her? Is she right? Or is her internal goal at odds with her external goal?
 
 *Il veut s’aimer et que les autres l’aiment (reformulation du but interne)*
-
-**Does your protagonist’s goal force her to face a specific longstanding problem or fear?** What secret terror must she face to get there? What deeply held belief will she have to question? What has she spent her whole life avoiding that she now must either look straight in the eye or wave the white flag of defeat? »
+ What secret terror must she face to get there? What deeply held belief will she have to question? What has she spent her whole life avoiding that she now must either look straight in the eye or wave the white flag of defeat? »
 
 *Interroger son rapport à sa femme, aux femmes en général, à pondérer la valeur de l’amour, de la fidélité. Interroger sa position dans le monde, passer du rôle de spectateur à celui d’acteur.*
 

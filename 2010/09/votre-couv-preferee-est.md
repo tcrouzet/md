@@ -1,6 +1,6 @@
 # Votre couv préférée est&#8230;
 
-Merci à tous d'avoir donné votre avis sur [les couvertures de Pacco](http://blog.tcrouzet.com/2010/09/20/choisissez-votre-couverture-preferee/) pour l'édition intégrale de [*J'ai eu l'idée*](http://blog.tcrouzet.com/id/). Vous avez été 56 à répondre sur le blog (38), Twitter (16) et facebook (2). Résultats.<span id="more-19321"></span>
+Merci à tous d'avoir donné votre avis sur [les couvertures de Pacco](http://blog.tcrouzet.com/2010/09/20/choisissez-votre-couverture-preferee/) pour l'édition intégrale de [*J'ai eu l'idée*](http://blog.tcrouzet.com/id/). Vous avez été 56 à répondre sur le blog (38), Twitter (16) et facebook (2). Résultats.
 
 1. Le poisson (24).
 2. Le penseur (19,5).

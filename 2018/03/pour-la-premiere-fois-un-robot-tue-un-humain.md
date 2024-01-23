@@ -2,7 +2,7 @@
 
 On se souviendra d’[Elaine Herzberg](https://en.wikipedia.org/wiki/Elaine_Herzberg) comme étant la première humaine tuée par un robot autonome.
 
-On se souviendra du jour de sa mort, 18 mars 2018, comme une date charnière dans l’histoire de l’humanité, une de ces dates à partir de laquelle plus rien ne peut plus être comme avant.<span id="more-46348"></span>
+On se souviendra du jour de sa mort, 18 mars 2018, comme une date charnière dans l’histoire de l’humanité, une de ces dates à partir de laquelle plus rien ne peut plus être comme avant.
 
 C’était un dimanche soir, 22 heures, à Tempe en Arizona, [près de la jonction entre Mill Avenue et Curry Road](https://www.google.com/maps/@33.4369431,-111.9431451,109m/data=!3m1!1e3?hl=en-US). Elaine traversait une deux voies en poussant son vélo chargé de sacs de course, quand une voiture autonome l’a percutée.
 

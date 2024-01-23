@@ -1,6 +1,6 @@
 # Les enfants du Net : danger?
 
-On me demande toujours comment je gère la relation au Net de mes enfants. Je réponds qu’ils sont encore jeunes, Émile 6 ans (grande section de maternelle), Timothée 8 ans (CE2). Et que donc nous ne sommes pas encore entrés dans la phase critique. Mais je ne voudrais pas être confondu avec les intégristes de la déconnexion comme peut le laisser penser le reportage diffusé au JT de TF1.<span id="more-32786"></span>
+On me demande toujours comment je gère la relation au Net de mes enfants. Je réponds qu’ils sont encore jeunes, Émile 6 ans (grande section de maternelle), Timothée 8 ans (CE2). Et que donc nous ne sommes pas encore entrés dans la phase critique. Mais je ne voudrais pas être confondu avec les intégristes de la déconnexion comme peut le laisser penser le reportage diffusé au JT de TF1.
 
 ![La déconnexion sur TF1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/05/tctf1.jpg)
 

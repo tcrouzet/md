@@ -1,6 +1,6 @@
 # BAT de La quatrième théorie, l&#8217;effet papier
 
-Quand je publie un billet ou un ebook, je ne coupe jamais le cordon ombilical. J’ai toujours l’illusion de pouvoir y revenir, et je le fais souvent. Avec un livre imprimé, il subsiste une clôture irréversible auxquelles les nouvelles technologies nous ont déshabitués.<span id="more-31215"></span>
+Quand je publie un billet ou un ebook, je ne coupe jamais le cordon ombilical. J’ai toujours l’illusion de pouvoir y revenir, et je le fais souvent. Avec un livre imprimé, il subsiste une clôture irréversible auxquelles les nouvelles technologies nous ont déshabitués.
 
 Le couperet final, exprimé par le fameux Bon à tirer, crée une échéance, une tension, me pousse à tout donner parce qu’après il sera trop tard. Je pourrai certes toujours modifier [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/), mais désormais le texte vivra seul.
 

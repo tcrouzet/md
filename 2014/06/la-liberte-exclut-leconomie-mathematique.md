@@ -1,6 +1,6 @@
 # La liberté exclut l’économie mathématique
 
-Les ultralibéraux sont friands de l’économie mathématique, dont ils font une sorte de déesse qui vivrait dans une réalité supérieure et intouchable. 1/ Ils postulent la liberté. 2/ Ils postulent des lois invariantes. La contradiction ne les choque pas.<span id="more-35980"></span>
+Les ultralibéraux sont friands de l’économie mathématique, dont ils font une sorte de déesse qui vivrait dans une réalité supérieure et intouchable. 1/ Ils postulent la liberté. 2/ Ils postulent des lois invariantes. La contradiction ne les choque pas.
 
 Si je suis libre, totalement libre, totalement libéré des contingences, je suis capable de ne pas obéir aux lois économiques, donc j’ai la possibilité de les invalider. La liberté réfute toute théorie sociale déterministe. On ne peut avoir en même temps l’une et les autres.
 

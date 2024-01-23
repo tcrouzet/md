@@ -16,15 +16,21 @@ Certaines liseuses comme les Kindle ou Pocketbook disposent d’un mail attitré
 
 1. Récupérez tout d’abord l’adresse mail de l’appareil dans le menu Paramètres/Options de l’appareil/Personnalisez votre Kindle. Elle est du type *xxx@kindle.com*.
 
-2. Récupérez l’adresse du [flux RSS associée au feuilleton](http://blog.tcrouzet.com/tag/1-minute/feed/). Sur les blogs Wordpress, un flux est associé à chaque tag : <http://blog.tcrouzet.com/tag/1-minute/feed/>
+2. Récupérez l’adresse du [flux RSS associée au feuilleton](http://blog.tcrouzet.com/tag/1-minute/feed/). Sur les blogs Wordpress, un flux est associé à chaque tag : 
 
 3. Dans [IFTTT](https://ifttt.com), créez une nouvelle règle qui, pour tout nouveau billet dans le flux, envoie un mail via Gmail à votre Kindle avec le texte en pièce attachée. Attention : [votre mail Gmail doit être autorisé chez Amazon](https://www.amazon.fr/gp/help/customer/display.html?nodeId=200767340) (pour éviter le spam sur les Kindle).
 
 ![Créez un IF sur un flux RSS.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/if1.png)
 
+Créez un IF sur un flux RSS.
+
 ![Envoyez le texte à la liseuse par mail.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/if2.png)
 
+Envoyez le texte à la liseuse par mail.
+
 ![Validez la nouvelle règle.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/if3.png)
+
+Validez la nouvelle règle.
 
 ### Exemple 2 : lire *1 minute* sur téléphone ou ordi
 
@@ -32,7 +38,11 @@ Cette seconde méthode est sensiblement identique. Sur IFTTT, créez une règle 
 
 ![Envoyez les textes sur l'application Pocket ou Instapaper.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/if4.png)
 
+Envoyez les textes sur l'application Pocket ou Instapaper.
+
 ![Validez la règle.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/if5.png)
+
+Validez la règle.
 
 Le power lecteur décide de lire où il veut et quand il veut. Tout billet de blog peut devenir un élément d’un livre électronique, que l’auteur aime ou non les livres électroniques. Désormais, c’est le lecteur qui décide. Auteurs, comprenez-le, offrez vos textes de manière à ce qu’ils se glissent dans toutes les interfaces. Ne pensez plus papier, ni même ebook, blog ou je ne sais quoi. Ne pensez plus à comment on vous lira car de nouvelles possibilités surgissent tous les jours. C’est dans ce territoire du nouveau, vers les nouvelles frontières, que se joue la littérature d’aujourd’hui. Ne vous fermez pas les portes de l’avenir sous prétexte que vous ne savez pas comment demain vous gagnerez votre vie.
 

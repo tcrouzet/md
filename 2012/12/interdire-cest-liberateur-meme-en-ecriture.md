@@ -1,6 +1,6 @@
 # Interdire, c&#8217;est libérateur… même en écriture
 
-C’est un papier sur la littérature, mais je le commence par une leçon adressée aux ultralibéraux qui ne me trouvent pas assez libéral à leur goût.<span id="more-30145"></span>
+C’est un papier sur la littérature, mais je le commence par une leçon adressée aux ultralibéraux qui ne me trouvent pas assez libéral à leur goût.
 
 Quand nous nous déplaçons en voiture, en vélo, en moto et même à pied, nous respectons plus ou moins le code la route. Nous nous soumettons à cette contrainte parce qu’elle réduit les risques d’accident. Quelques règles de bonnes conduites nous libèrent, étant entendu que morts nous ne sommes plus libres. Une règle n’est pas nécessairement privative (même si bien sûr elle peut aussi l’être).
 

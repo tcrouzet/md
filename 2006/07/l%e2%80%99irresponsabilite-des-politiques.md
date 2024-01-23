@@ -1,6 +1,6 @@
 # L’irresponsabilité des politiques
 
-L’imprévisibilité de l’avenir est l’une des principales raisons qui devrait nous inciter à agir localement. [Nassim Nicholas Taleb](http://www.fooledbyrandomness.com) s’apprête à publier un livre, *The Black Swan*, qui discute de l’imprévisibilité.<span id="more-164"></span>
+L’imprévisibilité de l’avenir est l’une des principales raisons qui devrait nous inciter à agir localement. [Nassim Nicholas Taleb](http://www.fooledbyrandomness.com) s’apprête à publier un livre, *The Black Swan*, qui discute de l’imprévisibilité.
 
 Pour essayer de convaincre de l’imprévisibilité du monde, je donne souvent l’exemple du tas de sable sur lequel on laisse tomber un nouveau grain. Nous savons aujoud’hui qu’il est impossible de prévoir ce qui se produira. L’avalanche qui s’en suivra entraînera-t-elle un, dix, cent ou un million de grains ? Nous ne pouvons pas le prédire. La seule façon de savoir ce qui se produira, c’est de faire l’expérience. La seule façon de connaître l’avenir, c’est de vivre jusque là.
 

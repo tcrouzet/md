@@ -1,6 +1,6 @@
 # Une brève histoire du bikepacking
 
-Depuis quand existe le bikepacking ? Je suis si heureux de m’être converti que je me demande pourquoi j’ai tant tardé ? Je ne connaissais même pas le mot il y a quelques mois.<span id="more-51241"></span>
+Depuis quand existe le bikepacking ? Je suis si heureux de m’être converti que je me demande pourquoi j’ai tant tardé ? Je ne connaissais même pas le mot il y a quelques mois.
 
 Dans son acceptation actuelle, le mot bikepacking, utilisé pour désigner la randonnée à vélo ultra légère, parfois appelée BUL en français (Bivouac Ultra Léger ou Bike Bivouac Ultra Léger), a été popularisé par le site [Bikepacking.net](http://www.bikepacking.net/) lors de sa création en 2008. Sur ce site, [dans un commentaire moqueur](http://www.bikepacking.net/about/), on peut lire « Nous autres, membres d’[Adventure Cycling Association](https://www.adventurecycling.org/), utilisons ce mot depuis les premières [Bikecentennial](https://en.wikipedia.org/wiki/Bikecentennial) (…) Son usage remonte au moins à mai 1973, quand l’article du cofondateur de la Bikecentennial, Dan Burden, est publié dans *National Geographic*. »
 

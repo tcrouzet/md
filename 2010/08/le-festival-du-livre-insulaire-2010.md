@@ -1,6 +1,6 @@
 # Le festival du livre insulaire 2010
 
-Avec [François Bon](http://www.tierslivre.net/), [Ayerdhal](http://www.facebook.com/Ayerdhal/#!/pages/Ayerdhal/182872030566?ref=ts), [Lorenzo Soccavo](http://ple-consulting.blogspot.com/), [Clément Monjou](http://www.ebouquin.fr)…, je serai à Ouessant, du 17 au 22, août pour refaire le monde au cours du [douzième festival du livre insulaire](http://www.livre-insulaire.fr/) dans le cadre de [Numer’île](http://www.livre-insulaire.fr/57.html). Si vous êtes dans le coin, sautez jusqu’au bout du monde pour discuter avec nous.<span id="more-18466"></span>
+Avec [François Bon](http://www.tierslivre.net/), [Ayerdhal](http://www.facebook.com/Ayerdhal/#!/pages/Ayerdhal/182872030566?ref=ts), [Lorenzo Soccavo](http://ple-consulting.blogspot.com/), [Clément Monjou](http://www.ebouquin.fr)…, je serai à Ouessant, du 17 au 22, août pour refaire le monde au cours du [douzième festival du livre insulaire](http://www.livre-insulaire.fr/) dans le cadre de [Numer’île](http://www.livre-insulaire.fr/57.html). Si vous êtes dans le coin, sautez jusqu’au bout du monde pour discuter avec nous.
 
 J’espère que nous ferons jaillir de nouvelles idées et que nous envisagerons ensemble de nouveaux projets. Je me rends compte que nous parlons trop de technologie. Nous donnons l’impression d’être des mécaniciens de la première heure.
 

@@ -1,6 +1,6 @@
 # Bikepacking : mini aventure
 
-J’aime partir, suivre une trace, m’éloigner, ne plus trop savoir où je suis, ouvrir grand les yeux, franchir des ponts, traverser des villages… et je découvre qu’il suffit d’une demi-journée pour me plonger dans cet état.<span id="more-53020"></span>
+J’aime partir, suivre une trace, m’éloigner, ne plus trop savoir où je suis, ouvrir grand les yeux, franchir des ponts, traverser des villages… et je découvre qu’il suffit d’une demi-journée pour me plonger dans cet état.
 
 Aujourd’hui, d’après les prévisions météo, il doit pleuvoir, mais pour le moment le ciel est encore dégagé au-dessus de [l’étang de Thau](https://tcrouzet.com/2019/11/17/gravel-le-tour-de-letang/). Alors pédaler ou pas ? Je consulte [Ventusky](https://www.ventusky.com/), mon appli météo favorite, et découvre que si chez moi un orage risque de frapper à tout moment, la situation devrait rester favorable une bonne partie de la journée à une trentaine de kilomètres à l’ouest, de l’autre côté de l’étang en direction d’Agde et au-delà.
 

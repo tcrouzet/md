@@ -1,6 +1,6 @@
 # Covid-19, c’est terminé ?
 
-Tous les jours des informations remontent qui aident à voir la situation sous une lumière nouvelle. L’une des données les plus sensibles est le taux de mortalité du Covid-19.<span id="more-53976"></span>
+Tous les jours des informations remontent qui aident à voir la situation sous une lumière nouvelle. L’une des données les plus sensibles est le taux de mortalité du Covid-19.
 
 Initialement, l’OMS a déclaré 2 %, puis 3,8 %, ce qui est gigantesque et ce qu'aucun spécialiste n'a cru parce qu'on surestime toujours la mortalité en début de crise. Mais depuis ce taux n’a cessé d’être rabaissé, ce qui est une bonne nouvelle. [En testant tous les habitants d’une ville](https://www.lemonde.fr/planete/article/2020/04/10/coronavirus-une-etude-allemande-revoit-a-la-baisse-le-taux-de-mortalite_6036206_3244.html), les Allemands ont dénombré les positifs et, en les suivant, ont relevé une mortalité de 0,37 % ([on me signale que les résultats de cette étude sont douteux suite à un problème de méthodologie](https://scilogs.spektrum.de/menschen-bilder/the-heinsberg-study-on-covid-19-another-case-of-insufficient-study-design/)).
 

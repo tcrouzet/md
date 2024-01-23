@@ -1,6 +1,6 @@
 # La fin de l’artisanat numérique
 
-Le Net a été pensé comme un réseau décentralisé. Pas de gouvernement, pas de hiérarchie, pas de privilège géographique. Selon une idéologie encore en vogue chez les entrepreneurs millionnaires, cette structure physique ne pouvait qu'impliquer une révolution sociale. Le Net ne devait pas moins que sauver l'humanité de ses pires maux. Plus libres que jamais, nous devions échapper au modèle coercitif propre à l'hyper-capitalisme, notamment en ce qui concerne le business. L'expérience nous prouve le contraire.<span id="more-37292"></span>
+Le Net a été pensé comme un réseau décentralisé. Pas de gouvernement, pas de hiérarchie, pas de privilège géographique. Selon une idéologie encore en vogue chez les entrepreneurs millionnaires, cette structure physique ne pouvait qu'impliquer une révolution sociale. Le Net ne devait pas moins que sauver l'humanité de ses pires maux. Plus libres que jamais, nous devions échapper au modèle coercitif propre à l'hyper-capitalisme, notamment en ce qui concerne le business. L'expérience nous prouve le contraire.
 
 Prenons un des plus vieux métiers du monde : l'hôtellerie familiale. Avant le Web, pour réserver vos vacances ou organiser un trajet professionnel, vous achetiez un guide, repériez la bonne adresse, téléphoniez pour réserver. Cette opération s'effectuait sans intermédiaire ou avec l’aide d’une agence de voyages locale. L'hôtelier était un artisan indépendant, libre de pratiquer les prix qui lui semblaient adéquats.
 

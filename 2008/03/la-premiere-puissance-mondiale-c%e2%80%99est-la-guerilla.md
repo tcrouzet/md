@@ -2,7 +2,7 @@
 
 ![untitled-1.jpg](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/03/untitled-1.jpg)
 
-À la fin de [*Brave New War*](http://blog.tcrouzet.com/2008/02/22/le-cinquieme-pouvoir-militaire/), John Robb prédit que si nous ne construisons pas volontairement une société décentralisée, elle adviendra tout de même et avec brutalité. Cette prévision n’a pas plus d’intérêt qu’une autre. Je m’intéresse au raisonnement qui la motive (et que j'interprète).<span id="more-775"></span>
+À la fin de [*Brave New War*](http://blog.tcrouzet.com/2008/02/22/le-cinquieme-pouvoir-militaire/), John Robb prédit que si nous ne construisons pas volontairement une société décentralisée, elle adviendra tout de même et avec brutalité. Cette prévision n’a pas plus d’intérêt qu’une autre. Je m’intéresse au raisonnement qui la motive (et que j'interprète).
 
 1. Lorsqu’une société centralisée se sent en danger, [elle se centralise de plus en plus pour préserver son intégrité](http://blog.tcrouzet.com/2007/06/03/l%e2%80%99etat-est-malade-il-a-peur/) (renforcement des lois liberticides, attaque contre les francs-tireurs – les blogueurs par exemple –, aide en faveur des industries centralisées – énergie atomique par exemple…). Je fabule peut-être mais j’ai souvent l’impression que nous vivons le début de ce cauchemar.
 

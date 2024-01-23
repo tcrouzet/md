@@ -4,7 +4,7 @@
 
 ### Mardi 1<sup>er</sup>, Nantes
 
-Tenir un journal serait si bénéfique pour la santé mentale qu'il faudrait se forcer. Titre d’un article éloquent : [yoga journal](https://www.yogajournal.com/lifestyle/audio-journaling/). J’adore ce penchant anglo-saxon pour les méthodes qui rendraient la vie meilleure. Mais ma pratique du journal n’entre pas dans la bonne catégorie, puisque, le plus souvent, je ne l’écris pas le soir pour y raconter les malheurs de ma journée, mais plutôt le matin quand je m’éveille et que des idées me traversent.<span id="more-64531"></span>
+Tenir un journal serait si bénéfique pour la santé mentale qu'il faudrait se forcer. Titre d’un article éloquent : [yoga journal](https://www.yogajournal.com/lifestyle/audio-journaling/). J’adore ce penchant anglo-saxon pour les méthodes qui rendraient la vie meilleure. Mais ma pratique du journal n’entre pas dans la bonne catégorie, puisque, le plus souvent, je ne l’écris pas le soir pour y raconter les malheurs de ma journée, mais plutôt le matin quand je m’éveille et que des idées me traversent.
 
 ---
 

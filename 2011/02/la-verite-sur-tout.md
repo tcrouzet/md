@@ -1,6 +1,6 @@
 # La vérité sur tout
 
-Gildas Vivier se définit comme un socialiste désespéré. Y’a de quoi. Je suis pas sûr de lui avoir redonné espoir en répondant rapidement aux quelques questions qu’il m’a posées pour son blog, [Socialistes 2012](http://sosialiste2012.blogspot.com/2011/02/blog-interview-de-thierry-crouzet.html).<span id="more-21287"></span>
+Gildas Vivier se définit comme un socialiste désespéré. Y’a de quoi. Je suis pas sûr de lui avoir redonné espoir en répondant rapidement aux quelques questions qu’il m’a posées pour son blog, [Socialistes 2012](http://sosialiste2012.blogspot.com/2011/02/blog-interview-de-thierry-crouzet.html).
 
 *— À quoi ça sert de bloguer ?*
 

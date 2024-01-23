@@ -1,6 +1,6 @@
 # Le net devait sonner la fin du capitalisme
 
-On l’a dit, on l'a expliqué, on l'a théorisé, on l’a répété à plus soif pour bien s’en persuader, [Jeremy Rifkin persiste](http://www.lesechos.fr/opinions/livres/0203435017481-la-revolution-collaborative-663926.php) avec un optimiste sans faille, mais je crois qu’on a surtout rêvé, victimes d'une sorte de pensée magique.<span id="more-35219"></span>
+On l’a dit, on l'a expliqué, on l'a théorisé, on l’a répété à plus soif pour bien s’en persuader, [Jeremy Rifkin persiste](http://www.lesechos.fr/opinions/livres/0203435017481-la-revolution-collaborative-663926.php) avec un optimiste sans faille, mais je crois qu’on a surtout rêvé, victimes d'une sorte de pensée magique.
 
 Tout d’abord pourquoi le capitalisme devait ou devrait s’effondrer : parce que le numérique implique une décentralisation de l’outil de production. Chacun peut devenir industriel. L’imprimante 3D étant le parangon de métaphore. Plus d’usines, plus besoin d’accumuler de capital. On n’a plus que des artisans high-tech comme je l’ai imaginé dans *L’alternative nomade*. Le capitalisme hiérarchisé devait laisser place à l’artisanat réticulaire.
 
@@ -19,6 +19,8 @@ Non, la technologie bâtit le monde de demain, mais pas la politique de demain. 
 Et je me demande si Rifkin n’est pas complice de ce tour de passe-passe, complice des nouveaux dictateurs. Un indice, il s’habille comme un banquier. C’est un argument irrecevable, mais…
 
 ![Jeremy Rifkin, allier conscient ou non des capitalistes ?](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/rifkin.jpg)
+
+Jeremy Rifkin, allié conscient ou non des capitalistes ?
 
 
 

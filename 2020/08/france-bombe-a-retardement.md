@@ -1,6 +1,6 @@
 # France : bombe à retardement
 
-Je suis inquiet parce que je découvre que je vis dans un pays gouverné par des irresponsables, irresponsable non faute de connaissances, mais parce qu’ils obéissent à des modes sociales, en l’occurrence celle du port du masque pour lutter contre le covid.<span id="more-54907"></span>
+Je suis inquiet parce que je découvre que je vis dans un pays gouverné par des irresponsables, irresponsable non faute de connaissances, mais parce qu’ils obéissent à des modes sociales, en l’occurrence celle du port du masque pour lutter contre le covid.
 
 Le masque est un signe extérieur d’action, alors portons le masque partout et tout le temps pour faire croire que nous agissons, alors que nous n’agissons pas.
 

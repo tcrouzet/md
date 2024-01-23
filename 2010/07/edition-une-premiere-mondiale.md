@@ -1,6 +1,6 @@
 # Édition: une première mondiale
 
-Le cinéma nous a habitués aux sorties internationales simultanées. Le même jour, dans toutes les villes, nous pouvons aller voir nos chers blockbusters dans notre langue natale. Jusqu’à présent les éditeurs étaient plus pépères. Un livre sortait aux États-Unis. Quand tout allait bien, trois ans plus tard on l’avait en France. Et quand un livre sortait en France, jamais les Américains n’avaient une chance de le lire. C’est en train de changer.<span id="more-17898"></span>
+Le cinéma nous a habitués aux sorties internationales simultanées. Le même jour, dans toutes les villes, nous pouvons aller voir nos chers blockbusters dans notre langue natale. Jusqu’à présent les éditeurs étaient plus pépères. Un livre sortait aux États-Unis. Quand tout allait bien, trois ans plus tard on l’avait en France. Et quand un livre sortait en France, jamais les Américains n’avaient une chance de le lire. C’est en train de changer.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/07/sterling.jpg)
 

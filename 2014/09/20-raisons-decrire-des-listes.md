@@ -1,6 +1,6 @@
 # 20 raisons d’écrire des listes
 
-Ou le *List manifesto*, parce que le succès de BuzzFeed n’est pas qu’une arnaque de plus, mais au contraire traduit une profonde particularité, voire perversité, de nôtre temps.<span id="more-37134"></span>
+Ou le *List manifesto*, parce que le succès de BuzzFeed n’est pas qu’une arnaque de plus, mais au contraire traduit une profonde particularité, voire perversité, de nôtre temps.
 
 1. Ératosthène listait dès le III<sup>e</sup> siècle av. J-C.
 

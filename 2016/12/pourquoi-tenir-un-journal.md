@@ -1,6 +1,6 @@
 # Pourquoi tenir un journal ?
 
-« Je viens tous les deux ans à Nancy chez mes beaux-parents. Quand je n’y suis pas malade, j’y suis plutôt créatif. Ce matin, après avoir écrit un petit texte sur l’art du bref, je suis allé courir au bord du canal. Je maintiens la cadence à 12 km/h. »<span id="more-44638"></span>
+« Je viens tous les deux ans à Nancy chez mes beaux-parents. Quand je n’y suis pas malade, j’y suis plutôt créatif. Ce matin, après avoir écrit un petit texte sur l’art du bref, je suis allé courir au bord du canal. Je maintiens la cadence à 12 km/h. »
 
 Voici une vulgaire entrée de journal, un ancrage pour la mémoire. Ce texte n’a aucun intérêt littéraire, pourtant il pose un moment de vie et participe à une histoire dont nous ignorons la suite.
 

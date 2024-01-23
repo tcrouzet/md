@@ -44,8 +44,6 @@
 
 ![](https://tcrouzet.com/images_tc/2017/11/it.png)
 
-
-
 ### 
 
 ![](https://tcrouzet.com/images_tc/2013/08/fr.png) Le Geste qui Sauve

@@ -44,6 +44,8 @@ L'idée n'est pas de créer un nouveau parti, encore moins un syndicat, qui réc
 
 ![Blockchain, nous promets de passer de l'architecture du Net à une réelle architecture décentralisée, une architecture maillée.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/bchain.png)
 
+Blockchain nous promets de passer de l'architecture du Net à une réelle architecture décentralisée, une architecture maillée.
+
 
 
 Tags: Blockchain, Politique, une

@@ -1,6 +1,6 @@
 # Comment suivre une trace GPS en bikepacking
 
-L’affaire n’est pas aussi simple qu’il y paraît. Suivre une trace durant plusieurs jours en bikepacking ne se limite pas à maintenir une flèche sur une ligne au milieu de l’écran du GPS.<span id="more-58332"></span>
+L’affaire n’est pas aussi simple qu’il y paraît. Suivre une trace durant plusieurs jours en bikepacking ne se limite pas à maintenir une flèche sur une ligne au milieu de l’écran du GPS.
 
 Une stratégie efficace implique :
 

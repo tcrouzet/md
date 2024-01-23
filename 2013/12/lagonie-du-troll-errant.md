@@ -1,6 +1,6 @@
 # L&#8217;agonie du troll errant
 
-Nous n'avons pas fini d'étudier la psychologie de l'internaute. En quoi basculer en ligne change notre nature ? Parce je n'ai aucun doute : nous nous transformons.<span id="more-33968"></span>
+Nous n'avons pas fini d'étudier la psychologie de l'internaute. En quoi basculer en ligne change notre nature ? Parce je n'ai aucun doute : nous nous transformons.
 
 Autour de certains articles publiés en ligne des disputes naissent parfois. Certains polémistes maniaques traquent toute apparition de certains mots-clés pour venir contester, critiquer, moquer. On les traite souvent de trolls, car ils se contentent de répéter les mêmes litanies sans réellement chercher à argumenter. Leur principale tactique est d'affirmer que leurs adversaires souffrent d'irrationalité et d'un manque de raison critique, dont eux-mêmes bien sûr ne manqueraient pas. Cette attitude est déjà suspecte. Quand les trolls méprisent leurs adversaires, c'est souvent par manque d'amour pour eux-mêmes.
 

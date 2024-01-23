@@ -1,6 +1,6 @@
 # Apple invente la menotte électronique
 
-J’ai appris à mes dépens que les alertes, les alarmes, les pop-ups, les pastilles, tous ces messages qui jaillissent dans mon champ visuel sans que je les sollicite, me sont nocifs.<span id="more-37187"></span>
+J’ai appris à mes dépens que les alertes, les alarmes, les pop-ups, les pastilles, tous ces messages qui jaillissent dans mon champ visuel sans que je les sollicite, me sont nocifs.
 
 [Lors de ma déconnexion en 2011](http://blog.tcrouzet.com/jai-debranche/), j’ai compris que leur irruption continuelle brisait la continuité du temps, m’empêchait de m’immerger dans le temps long propice à la rêverie, à l’invention et à la créativité.
 

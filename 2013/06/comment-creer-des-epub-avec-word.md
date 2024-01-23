@@ -1,6 +1,6 @@
 # Comment créer des ePub avec Word
 
-J’ai toujours créé mes ebooks avec Word, via l’enregistrement HTML et [une petite application Web de nettoyage](http://lab.tcrouzet.com/epub/). Beaucoup de ceux qui ont tenté d’utiliser ma technique l’on trouvée trop compliquée, préférant [la solution de Jean-Claude Dunyach](http://jean-claude.dunyach.pagesperso-orange.fr/Ebooks.html). Une nouvelle possibilité arrive. Elle s’appuie sur [Calibre](http://calibre-ebook.com/), le gestionnaire de bibliothèque d’ebooks.<span id="more-33161"></span>
+J’ai toujours créé mes ebooks avec Word, via l’enregistrement HTML et [une petite application Web de nettoyage](http://lab.tcrouzet.com/epub/). Beaucoup de ceux qui ont tenté d’utiliser ma technique l’on trouvée trop compliquée, préférant [la solution de Jean-Claude Dunyach](http://jean-claude.dunyach.pagesperso-orange.fr/Ebooks.html). Une nouvelle possibilité arrive. Elle s’appuie sur [Calibre](http://calibre-ebook.com/), le gestionnaire de bibliothèque d’ebooks.
 
 1. Commencez par créer un document Word impeccable, non pas par sa mise en page, mais en veillant à utiliser des styles homogènes.
 2. Dans la fenêtre *Fichier/Propriétés*, indiquez le titre du livre, l’éditeur, l’auteur, la quatrième de couverture… Vous précisez ainsi les métas données associées à l’eBook.

@@ -1,6 +1,6 @@
 # Comment publier sur Apple iBookstore
 
-Depuis que j’ai publié en direct [quelques textes pour iPhone et iPad](http://blog.tcrouzet.com/ibooks-store/), on me demande souvent comment avec Isabelle nous avons fait. Je lis ailleurs que c’est compliqué et je vois beaucoup d’éditeurs passer par des tierces parties, céder un peu plus de leur marge (et retomber dans le piège de la vieille distribution). Stop. La procédure est à la portée de tous les auteurs. Nous pouvons vendre si nous le voulons en récupérant 70 % de nos droits.<span id="more-19159"></span>
+Depuis que j’ai publié en direct [quelques textes pour iPhone et iPad](http://blog.tcrouzet.com/ibooks-store/), on me demande souvent comment avec Isabelle nous avons fait. Je lis ailleurs que c’est compliqué et je vois beaucoup d’éditeurs passer par des tierces parties, céder un peu plus de leur marge (et retomber dans le piège de la vieille distribution). Stop. La procédure est à la portée de tous les auteurs. Nous pouvons vendre si nous le voulons en récupérant 70 % de nos droits.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/itunesc.jpg)
 

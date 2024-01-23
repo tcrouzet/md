@@ -1,6 +1,6 @@
 # Les techno-proxénètes
 
-Après mon billet sur [les community mangers](http://blog.tcrouzet.com/2010/09/16/les-community-managers-sont-des-putes/) puis sur [le buzz](http://blog.tcrouzet.com/2010/09/17/comment-provoquer-un-buzz-pour-pas-cher/), je ne pouvais pas éviter ce nouveau titre provocateur. Il résume une anecdote survenue hier après midi, samedi 19 septembre à 15 heures.<span id="more-19284"></span>
+Après mon billet sur [les community mangers](http://blog.tcrouzet.com/2010/09/16/les-community-managers-sont-des-putes/) puis sur [le buzz](http://blog.tcrouzet.com/2010/09/17/comment-provoquer-un-buzz-pour-pas-cher/), je ne pouvais pas éviter ce nouveau titre provocateur. Il résume une anecdote survenue hier après midi, samedi 19 septembre à 15 heures.
 
 Je reçois un mail fort courtois qui me demande si je connais [TED](http://www.ted.com/). Réponse oui, une requête sur mon blog aurait indiqué que c’était déjà le cas en 2006. Et [TEDx Paris](http://www.tedxparis.com/2011/) ? Réponse : oui. Et [TEDx Alsace](http://www.tedxalsace.com/) ? Réponse : non. Est-ce que j’aimerais y donner une conférence début octobre ? Réponse : pourquoi pas.
 

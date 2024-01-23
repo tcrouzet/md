@@ -1,6 +1,6 @@
 # Mesurer la  popularité d&#8217;un blog
 
-En ajoutant le magnifique [On the Route](http://www.ontheroute.fr/) à mes abonnements [Feedly](http://feedly.com/), j’ai découvert que son nombre d’abonnés s’affichait. J’ai immédiatement testé pour mon blog et zieuté du côté de mes blog préférés pour narcissiquement me comparer à eux.<span id="more-34222"></span>
+En ajoutant le magnifique [On the Route](http://www.ontheroute.fr/) à mes abonnements [Feedly](http://feedly.com/), j’ai découvert que son nombre d’abonnés s’affichait. J’ai immédiatement testé pour mon blog et zieuté du côté de mes blog préférés pour narcissiquement me comparer à eux.
 
 ![Mes abonnés Feedly](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/Capture-d’écran-2014-01-21-à-08.56.37.png)
 

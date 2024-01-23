@@ -1,6 +1,6 @@
 # Quand les livres se vendaient au kilo
 
-Vous l’avez tous remarqué, plus un livre est gros plus il est cher. C’est un peu comme pour les poissons ou les sacs de patates. Croyez-vous que les œuvres de l’esprit doivent se monnayer au poids ? Les artistes et leurs marchands nous montrent le contraire. Dans leur domaine, la réputation compte plus que les mensurations. Il serait temps que les auteurs s’éveillent. Même pour les patates le prix au kilo change entre les Russet Burbank utilisées par les MacDo et les Sirtema de Noirmoutier.<span id="more-19874"></span>
+Vous l’avez tous remarqué, plus un livre est gros plus il est cher. C’est un peu comme pour les poissons ou les sacs de patates. Croyez-vous que les œuvres de l’esprit doivent se monnayer au poids ? Les artistes et leurs marchands nous montrent le contraire. Dans leur domaine, la réputation compte plus que les mensurations. Il serait temps que les auteurs s’éveillent. Même pour les patates le prix au kilo change entre les Russet Burbank utilisées par les MacDo et les Sirtema de Noirmoutier.
 
 Comme les textes ont été d’abord copiés à la main, puis imprimés, le prix des livres est indexé sur ce seul travail. On ne tient pas compte du travail de l’auteur. On suppose que s’il produit un gros volume, il touchera proportionnellement plus qu’avec un petit. C’est doublement absurde.
 

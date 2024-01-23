@@ -1,6 +1,6 @@
 # Usines à contenus : pas une nouveauté
 
-Tout le monde s’affole et tombe des nues avec [cette histoire](http://fr.readwriteweb.com/2009/12/14/a-la-une/usine-contenus-une-menace-les-media-les-blogs-google/). Je suis mort de rire, j’avais déjà beaucoup ri en lisant [l’article de Wired](http://www.wired.com/magazine/2009/10/ff_demandmedia/).<span id="more-12555"></span>
+Tout le monde s’affole et tombe des nues avec [cette histoire](http://fr.readwriteweb.com/2009/12/14/a-la-une/usine-contenus-une-menace-les-media-les-blogs-google/). Je suis mort de rire, j’avais déjà beaucoup ri en lisant [l’article de Wired](http://www.wired.com/magazine/2009/10/ff_demandmedia/).
 
 Nous sommes des centaines a avoir gagné notre vie avec des usines à contenus, moi en tête, cela depuis dix ans. Je vous passe Wikio. Une farm-links c’était une usine à contenu simplissime pour coincer Google.
 

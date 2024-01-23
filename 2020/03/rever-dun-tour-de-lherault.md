@@ -1,6 +1,6 @@
 # Rêver d’un tour de l’Hérault
 
-Nous n’avons aucune idée de quand nous enfourcherons à nouveau nos vélos, ni de quand nous reprendrons nos entraînements, mais rien de nous empêche d’avoir des projets et de rêver.<span id="more-53659"></span>
+Nous n’avons aucune idée de quand nous enfourcherons à nouveau nos vélos, ni de quand nous reprendrons nos entraînements, mais rien de nous empêche d’avoir des projets et de rêver.
 
 Nous avons prévu [le grand tour de l’Hérault (GTH)](https://tcrouzet.com/tag/gth/) du 24 au 28 avril ([retrouvez-nous sur le groupe Facebook](https://www.facebook.com/groups/gth34/)). Nous avons terminé le repérage, il ne reste plus qu’à préparer nos bécanes. Les jambes seront lourdes fin avril après des semaines de confinement, on roulera doucement, mais je crois que si les chemins s’ouvrent, nous aurons un besoin vital de nous y précipiter. Et si nous sommes encore confinés fin avril, ce qui n’est pas impossible au regard des 45 jours appliqués en Chine, on se trouvera plus tard, dès que possible.
 

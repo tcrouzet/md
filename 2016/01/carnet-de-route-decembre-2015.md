@@ -28,6 +28,8 @@ Trail dans la garrigue avec un ami. Ça grimpe, ça descend, c’est éprouvant 
 
 ![Crash test.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/watch.jpg)
 
+Crash test.
+
 ### Vendredi 4, Balaruc
 
 Sur France Internet, un chroniqueur veut nous encourager à voter à l’aide d’un raisonnement à la prémice foireuse : « Si vous n’allez pas voter pour le parti que vous préférez, vous faites le jeu des partis adverses. » Ce chroniqueur ne semble pas être conscient qu’il est possible de n’avoir que des adversaires politiques. Je ne vote pas parce qu’aucun parti ne porte mes idées (et parce qu’aucun parti ne peut les porter, parce que mes idées sont les miennes et non celles des autres).
@@ -49,6 +51,8 @@ Le gouvernement français s’apprête à payer les délateurs ? Encore un pas 
 Je croise François Bon. On s’embrasse. Ça fait du bien de se serrer de temps en temps, de rematérialiser nos relations virtuelles. J’ai besoin de l’intime pour échanger ce qui ne s’écrit pas.
 
 ![François Bon avec au premier plan son ami Youssef .](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/fbon.jpg)
+
+François Bon avec au premier plan son ami Youssef .
 
 ### Mardi 8, Balaruc
 
@@ -108,6 +112,8 @@ Zweig évoque Freud et le prétend irréfutable. Un autre Viennois, jamais menti
 
 ![En pleine lumière.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/tignes.jpg)
 
+En pleine lumière.
+
 ### Vendredi 25, Tignes
 
 Pour la première fois, je dois écrire un livre de commande et je ne réussis pas à m’y mettre. J’ai toujours fonctionné poussé par un moteur interne.
@@ -122,11 +128,15 @@ Par mail, un juriste me propose de m’aider à protéger mes œuvres. Très amu
 
 ![Juste pour la couleur.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/portail.jpg)
 
+Juste pour la couleur.
+
 ### Mercredi 30, Châtellerault
 
 J’amène les enfants voir *Star Wars*. Ils sortent en criant au scandale. « C'est un remake de l’épisode 4. » Encore un mauvais signal envoyé à grande force de marketing. L’aveu éhonté d’un manque chronique d’imagination. C’est vraiment pas bon signe.
 
 ![La Vienne avant Le retour de la force.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/vienne.jpg)
+
+La Vienne avant Le retour de la force.
 
 
 

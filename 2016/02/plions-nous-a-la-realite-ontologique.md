@@ -1,6 +1,6 @@
 # Plions-nous à la réalité ontologique
 
-Je suis un putain de matérialiste. Même le mot essentiel me dérange et j’ai toujours envie de le mettre entre guillemets. Pour moi, une information est cette chose qui dans son état le plus élémentaire est à zéro ou à un, selon la théorie de [Shannon](https://fr.wikipedia.org/wiki/Claude_Shannon).<span id="more-43481"></span>
+Je suis un putain de matérialiste. Même le mot essentiel me dérange et j’ai toujours envie de le mettre entre guillemets. Pour moi, une information est cette chose qui dans son état le plus élémentaire est à zéro ou à un, selon la théorie de [Shannon](https://fr.wikipedia.org/wiki/Claude_Shannon).
 
 En ce sens, l’information existe dès que l’univers existe, et bien avant que des êtres conscients apparaissent et commencent à donner du sens à ces informations. Que nous puissions ou non parler du soleil ne change rien au fait que le soleil brille. Il émet des photons qui indiquent sa localisation, sa température, sa composition… Ces informations naissent indépendamment des observateurs. Pour preuve, nous percevons nombre de ces informations alors qu’elles ont été émises avant notre apparition.
 
@@ -29,6 +29,8 @@ Donc, si l’éditorialisation est une façon de produire le monde, et j’accep
 *PS : [Marcello a répondu sur son blog](http://blog.sens-public.org/marcellovitalirosati/pourquoi-leditorialisation/), Narvic aussi en commentaire... Tout cela nous ramène à la pensée en réseau, j'aime quand le Web nous anime ainsi.* 
 
 ![Le pliage d'un petit Crouzet.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/02/pliage.jpg)
+
+Le pliage d'un petit Crouzet.
 
 
 

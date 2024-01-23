@@ -1,6 +1,6 @@
 # La trilogie de Jon Krakauer
 
-1996, *Into the Wild*. 1997, *Into thin air*. 2009, *Where men win glory*. Chaque fois Krakauer nous fait accompagner des hommes qui outrepassent leur zone de confort et finissent par succomber, non pas à cause de leur idéal mais d’un manque de chance ou d’une erreur malheureuse.<span id="more-13977"></span>
+1996, *Into the Wild*. 1997, *Into thin air*. 2009, *Where men win glory*. Chaque fois Krakauer nous fait accompagner des hommes qui outrepassent leur zone de confort et finissent par succomber, non pas à cause de leur idéal mais d’un manque de chance ou d’une erreur malheureuse.
 
 Chaque fois des hommes, sans doute pas pour rien. Les femmes ont-elles cette habitude de se tester au point de risquer leur vie ? Certaines sans aucun doute mais je crois que nous les hommes avons tous, à un moment ou à un autre, cette tentation de franchir la limite. En vélo, en moto, en voiture, en escaladant des montagnes, en nous lançant des défis parfois absurdes.
 

@@ -1,6 +1,6 @@
 # Lire sur tablette, c’est lire sans culpabilité
 
-Il ne vous est jamais arrivé de cacher la couverture d’un livre, de honte ou de peur de choquer ? Je me souviens de ma lecture des *Onze mille verges* alors que j’avais onze ans. J’avais glissé le livre au milieu d’un Tintin. Mais tout cela est bien terminé. Quand je lis dans le TGV *Fifty Shade of Gray* sur mon Kindle, personne s’en rend compte.<span id="more-34507"></span>
+Il ne vous est jamais arrivé de cacher la couverture d’un livre, de honte ou de peur de choquer ? Je me souviens de ma lecture des *Onze mille verges* alors que j’avais onze ans. J’avais glissé le livre au milieu d’un Tintin. Mais tout cela est bien terminé. Quand je lis dans le TGV *Fifty Shade of Gray* sur mon Kindle, personne s’en rend compte.
 
 Comme la lecture est une activité souvent publique, j’imagine que la lecture numérique décomplexe bien des lecteurs. Réticents à se montrer fervents de pornos ou de best-sellers, ils s’en donnent désormais à cœur joie sans que personne ne fronce les sourcils dans leur direction. Et ce n’est pas pour rien si l’érotisme connaît un grand boom populaire. Né dans les alcôves du numérique, puis consacré par de fantastiques chiffres de vente, ces livres peuvent se répandre en suite dans les rues et les wagons de train sans que plus personne n’y trouve à redire.
 

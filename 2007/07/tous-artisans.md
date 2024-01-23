@@ -1,6 +1,6 @@
 # Tous artisans
 
-À partir des années 1950, la guitare électrique rabaissa le prix du ticket d’entrée dans l’univers musical. Au bout de trois mois, on pouvait composer. Avec la distorsion, même les accords mal plaqués devenaient audibles. Les punks revendiquèrent cet à-peu-près (comme Picasso revendiqua une forme d’à-peu-près en peinture à la fin de sa vie). Nous assistâmes à l’explosion de la pop-music.<span id="more-514"></span>
+À partir des années 1950, la guitare électrique rabaissa le prix du ticket d’entrée dans l’univers musical. Au bout de trois mois, on pouvait composer. Avec la distorsion, même les accords mal plaqués devenaient audibles. Les punks revendiquèrent cet à-peu-près (comme Picasso revendiqua une forme d’à-peu-près en peinture à la fin de sa vie). Nous assistâmes à l’explosion de la pop-music.
 
 Aujourd’hui, les outils de MAO et de remix simplifient encore l’accès à la création. En quelques jours, n’importe qui peut produire un mashup. La musique s’est démocratisée… ou plutôt l’accès à la création musicale.
 

@@ -11,8 +11,6 @@ Manifeste pour la démocratie
 
 ##### **papier 5.99 €** : [Amazon](https://www.amazon.fr/100-raisons-ne-pas-voter/dp/1542826209/), [CreateSpace](https://www.createspace.com/6897235).
 
-
-
 Ces aphorismes, loin d’être contre la démocratie, nous incitent au contraire à la questionner pour mieux la réinventer. Ne pas voter peut être hautement politique, et même la seule attitude raisonnable quand le populisme prend le dessus sur la raison.
 
 ### Fiche produit

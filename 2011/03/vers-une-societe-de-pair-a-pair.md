@@ -6,8 +6,6 @@ Dans *In Raimbows*, le septième album de Radiohead, Thom Yorke chante :
 > Cause the light’s gone for me
 > It is the 21st century
 
-<span id="more-22308"></span>
-
 Cri de désespoir du leader du groupe Rock le plus populaire du début du troisième millénaire.
 
 > Est-ce que la lumière t’a quitté ?

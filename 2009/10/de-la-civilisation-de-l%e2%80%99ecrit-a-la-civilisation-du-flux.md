@@ -4,7 +4,7 @@
 
 ![Le Flux](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/10/mythos1.png)
 
-Je commencerai mon [prochain livre](http://blog.tcrouzet.com/tag/flux/) par quelques définitions comme j’ai pris l’habitude de le faire depuis *Le peuple des connecteurs*. Suite à [vos commentaires](http://blog.tcrouzet.com/2009/10/23/apres-histoire/#comments), exigeant plus de rigueur, je me propose de définir le plus brièvement possible ce que j’entends par Mythe, Histoire, Flux, Propulseur… Ces définitions sont en chantier et je les modifierai au besoin (et suite à vos réactions). Je complète la définition commune par celle que j’utiliserai ici et dans le livre.<span id="more-11487"></span>
+Je commencerai mon [prochain livre](http://blog.tcrouzet.com/tag/flux/) par quelques définitions comme j’ai pris l’habitude de le faire depuis *Le peuple des connecteurs*. Suite à [vos commentaires](http://blog.tcrouzet.com/2009/10/23/apres-histoire/#comments), exigeant plus de rigueur, je me propose de définir le plus brièvement possible ce que j’entends par Mythe, Histoire, Flux, Propulseur… Ces définitions sont en chantier et je les modifierai au besoin (et suite à vos réactions). Je complète la définition commune par celle que j’utiliserai ici et dans le livre.
 
 > Mythologie 1. Ensemble des mythes et des légendes propres à un peuple, une religion, une civilisation… 2. Étude des mythes. 3. Ensemble des croyances se rapportant à la même idée et s’imposant au sein d’une société : le mythe de la mode décrit par Roland Barthes. *Par extension (avec une majuscule) : partie de la vie de l’humanité où les informations se transmettaient principalement par la parole.*
 

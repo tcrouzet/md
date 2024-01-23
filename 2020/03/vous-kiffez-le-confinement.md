@@ -1,6 +1,6 @@
 # Vous kiffez le confinement ?
 
-Tous les jours, je me dis que j’en ai fini avec cette pandémie, que j’ai fini d’en parler, qu’il ne me reste lus qu’à me cloîtrer dans le silence, mais non, impossible, toujours des choses me remuent et me poussent à écrire (heureusement que rien ne vous force à me lire).<span id="more-53714"></span>
+Tous les jours, je me dis que j’en ai fini avec cette pandémie, que j’ai fini d’en parler, qu’il ne me reste lus qu’à me cloîtrer dans le silence, mais non, impossible, toujours des choses me remuent et me poussent à écrire (heureusement que rien ne vous force à me lire).
 
 Parce que comment rester silencieux face à l’anormal, à l’inattendu, à la disruption du monde ? Si je devais me taire, si on m’interdisait d’écrire, je crois que je devrais aussi me couper des news et des discussions, je ne supporterais cette réclusion qu’en ermite. Ce serait peut-être plus sage, parce qu’ajouter de mots à des maux n’a peut-être pour seul effet que d’élever le niveau d’anxiété général. Mais paradoxalement, pour moi, égoïstement, écrire me détend, relâche les tensions comme le yoga pour d’autres. Si je pouvais faire du vélo, j’écrirais moins, mais on m’a plus ou moins interdit cet exutoire sportif et esthétique.
 

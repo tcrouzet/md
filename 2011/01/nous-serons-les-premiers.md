@@ -1,6 +1,6 @@
 # Nous serons les premiers
 
-J’ai fais aujourd'hui quinze minutes de voiture et j'ai écouté France Culture ! Je suis alors tombé sur une [discussion au sujet du journalisme participatif](http://www.franceculture.com/emission-place-de-la-toile-journalisme-et-reseaux-sociaux-documentaire-la-rue-est-a-eux-2011-01-23.h) avec [Philippe Couve](http://twitter.com/#!/couve) notamment. J’ai noté des préoccupations communes à celles qui interrogent les littérateurs.<span id="more-21047"></span>
+J’ai fais aujourd'hui quinze minutes de voiture et j'ai écouté France Culture ! Je suis alors tombé sur une [discussion au sujet du journalisme participatif](http://www.franceculture.com/emission-place-de-la-toile-journalisme-et-reseaux-sociaux-documentaire-la-rue-est-a-eux-2011-01-23.h) avec [Philippe Couve](http://twitter.com/#!/couve) notamment. J’ai noté des préoccupations communes à celles qui interrogent les littérateurs.
 
 À l’antenne, il a été notamment question des trois temps du travail journalistique à l’âge 2.0. Je résume.
 

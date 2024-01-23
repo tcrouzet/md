@@ -1,6 +1,6 @@
 # Nous vivons à flanc de montagne
 
-Je voudrais reprendre une analogie chère aux stoïciens. Selon eux, nous ressemblons à des billes, lâchées sur un plan incliné. Impossible de ne pas rouler vers le bas jusqu’à notre mort, victime du destin, avec tout au plus l’habilité de légèrement dévier notre course.<span id="more-43406"></span>
+Je voudrais reprendre une analogie chère aux stoïciens. Selon eux, nous ressemblons à des billes, lâchées sur un plan incliné. Impossible de ne pas rouler vers le bas jusqu’à notre mort, victime du destin, avec tout au plus l’habilité de légèrement dévier notre course.
 
 Je ne suis ni fataliste ni stoïcien, mais j’aime cette analogie. Du point de vue d’Einstein, vous vivons dans un monde vallonné par les puits de gravité où il serait facile de tomber si notre vitesse de chute en réaction ne nous maintenait pas en orbites plus ou moins stables. Reste un vecteur qui nous attire vers le bas et contre lequel nous devons lutter. Cette force est indissociable de la topologie de l’univers.
 
@@ -31,6 +31,8 @@ La forme du territoire limite les possibilités de ce que nous pouvons y faire.
 *PS : Ce billet est une réponse indirecte à [un long commentaire de Narvic](http://tcrouzet.com/2016/01/04/les-maux-du-web-sont-dans-sa-topologie/#com43261).*
 
 ![Quand toutes les routes mènent là, toutes les réponses viennent de là.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/IMG_4253.jpg)
+
+Quand toutes les routes mènent là, toutes les réponses viennent de là.
 
 
 

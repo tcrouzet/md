@@ -1,6 +1,6 @@
 # Vers une complexité volontaire
 
-Il y a cinq ans, j’écrivais [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/). J’y défendais l’idée que certains parmi nous développent un nouveau mode de vie. Les connecteurs s’organisent différemment, étudient différemment, travaillent différemment… mais ils changent le monde.<span id="more-18178"></span>
+Il y a cinq ans, j’écrivais [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/). J’y défendais l’idée que certains parmi nous développent un nouveau mode de vie. Les connecteurs s’organisent différemment, étudient différemment, travaillent différemment… mais ils changent le monde.
 
 Plutôt que se trouver une place dans la structure sociale existante, à domination pyramidale, ils se créent leur propre place dans un réseau relationnel de plus en plus dense. Ils se connectent, ils font du lien leur objectif de vie.
 

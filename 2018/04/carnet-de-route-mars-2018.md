@@ -4,7 +4,7 @@
 
 ### Samedi 3, Balaruc
 
-[*One Minute*](https://tcrouzet.com/une-minute/) est le roman de l’hypermobilité. Nous sautons de personnage en personnage et de lieu en lieu comme nous autres d’un bout à l’autre du monde. Si je crée la version numérique du texte, l’application révélera un nouveau chapitre qu’après une distance parcourue, ou qu’après un certain nombre d’activités numériques, ou qu’après un certain temps… afficher le message à l’heure exacte de la scène, peut-être…<span id="more-46395"></span>
+[*One Minute*](https://tcrouzet.com/une-minute/) est le roman de l’hypermobilité. Nous sautons de personnage en personnage et de lieu en lieu comme nous autres d’un bout à l’autre du monde. Si je crée la version numérique du texte, l’application révélera un nouveau chapitre qu’après une distance parcourue, ou qu’après un certain nombre d’activités numériques, ou qu’après un certain temps… afficher le message à l’heure exacte de la scène, peut-être…
 
 ![Chez moi](https://tcrouzet.com/images_tc/2018/03/20180303-1.jpg)
 

@@ -1,6 +1,6 @@
 # Réponse aux lecteurs de Pouic
 
-Le post de [pouic](http://www.blogger.com/comment.g?blogID=3674054&postID=113136228127123953) a soulevé quelques questions auxquelles j'essaie de répondre. Les connecteurs forment un peuple naissant. Le parfait connecteur, tel que je l'idéalise dans mon livre, n'existe pas encore, sinon notre monde serait radicalement différent. Toutefois, en chacun de nous, du moins je l'espère, sommeille une part de connecteur. Nous pouvons, par exemple, rejeter le centralisme étatique (connecteur) tout en croyant qu'il est nécessaire d'établir des lois de plus en plus précises et nombreuses (conservateur).<span id="more-89"></span>
+Le post de [pouic](http://www.blogger.com/comment.g?blogID=3674054&postID=113136228127123953) a soulevé quelques questions auxquelles j'essaie de répondre. Les connecteurs forment un peuple naissant. Le parfait connecteur, tel que je l'idéalise dans mon livre, n'existe pas encore, sinon notre monde serait radicalement différent. Toutefois, en chacun de nous, du moins je l'espère, sommeille une part de connecteur. Nous pouvons, par exemple, rejeter le centralisme étatique (connecteur) tout en croyant qu'il est nécessaire d'établir des lois de plus en plus précises et nombreuses (conservateur).
 
 ![Résultat du sondage](https://tcrouzet.com/https://tcrouzet.com/images_tc/sondage.jpg)
 

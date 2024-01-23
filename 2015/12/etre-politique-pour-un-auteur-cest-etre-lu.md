@@ -1,6 +1,6 @@
 # Être politique pour un auteur, c&#8217;est être lu
 
-Quand j’essaie de montrer [pourquoi une licence Creative Commons n’est pas une solution universelle](http://tcrouzet.com/2015/12/02/conditions-operatives-du-creative-commons/), [Alias me répond](http://alias.codiferes.net/wordpress/index.php/usage-du-commun/) « C’est aussi un geste politique, un pari sur l’avenir. »<span id="more-43016"></span>
+Quand j’essaie de montrer [pourquoi une licence Creative Commons n’est pas une solution universelle](http://tcrouzet.com/2015/12/02/conditions-operatives-du-creative-commons/), [Alias me répond](http://alias.codiferes.net/wordpress/index.php/usage-du-commun/) « C’est aussi un geste politique, un pari sur l’avenir. »
 
 Certes, mais j’écris avant tout pour être lu. Mon texte est plus important que son emballage juridique. C’est lui le geste politique numéro un. Plus il est lu, plus je suis satisfait (ce qui ne veut pas dire que je suis prêt à écrire n’importe quoi). Mes textes sont plus politiques que la licence qui les porte. Je donne la priorité au texte.
 

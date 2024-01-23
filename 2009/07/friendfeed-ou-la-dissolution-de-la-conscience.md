@@ -1,6 +1,6 @@
 # Friendfeed ou la dissolution de la conscience
 
-J’ai éprouvé hier soir une étrange sensation. Immédiatement après la publication de [mon billet sur Frienfeed](http://blog.tcrouzet.com/2009/07/23/facebook-et-friendfeed-la-strategie-de-l%e2%80%99enfermement/), il a été retwitté, commenté ici-même, sur Facebook et sur Friendfied. J’ai un moment répondu partout, puis je suis descendu sur la terrasse prendre le frais avec Isabelle avant d’aller me coucher.<span id="more-7958"></span>
+J’ai éprouvé hier soir une étrange sensation. Immédiatement après la publication de [mon billet sur Frienfeed](http://blog.tcrouzet.com/2009/07/23/facebook-et-friendfeed-la-strategie-de-l%e2%80%99enfermement/), il a été retwitté, commenté ici-même, sur Facebook et sur Friendfied. J’ai un moment répondu partout, puis je suis descendu sur la terrasse prendre le frais avec Isabelle avant d’aller me coucher.
 
 À ce moment, je ne me suis pas senti bien. Mes aller-retour entre plusieurs sites m’ont donné l’impression que je me dispersais, que je m’éparpillais, sans guère de logique, sans guère choisir, juste répondant à des stimulations éloignées de mon moi numérique habituel, moi que je tiens le plus proche possible de ce que je suis à tout instant.
 

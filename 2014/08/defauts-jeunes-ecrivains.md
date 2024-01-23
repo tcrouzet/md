@@ -1,6 +1,6 @@
 # 40 défauts communs aux jeunes écrivains
 
-Cette liste est purement autobiographique et je n’ai pas encore tout réglé de mon côté.<span id="more-36687"></span>
+Cette liste est purement autobiographique et je n’ai pas encore tout réglé de mon côté.
 
 1. Ne jamais couper.
 

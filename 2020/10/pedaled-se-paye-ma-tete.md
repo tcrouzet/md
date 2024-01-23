@@ -1,6 +1,6 @@
 # PEdALED se paye ma tête
 
-Dans le monde des baroudeurs, la boîte japonaise de fringues pour cyclistes fabriquées en Italie a très bonne réputation, notamment parce qu’[elle sponsorise des évènements comme l’Atlas Moutain Race](https://pedaled.com/fr_fr/atlas-mountain-race/). Naïvement, je me suis dit qu’elle proposait des fringues confortables, légères, résistantes…<span id="more-55484"></span>
+Dans le monde des baroudeurs, la boîte japonaise de fringues pour cyclistes fabriquées en Italie a très bonne réputation, notamment parce qu’[elle sponsorise des évènements comme l’Atlas Moutain Race](https://pedaled.com/fr_fr/atlas-mountain-race/). Naïvement, je me suis dit qu’elle proposait des fringues confortables, légères, résistantes…
 
 Comme un copain m’a depuis longtemps vanté [son maillot PEdALED mérinos manche courte](https://pedaled.com/fr_fr/homme-maillot-velo-atlas-boue#gref), j’ai fini par craquer pour un modèle manches longues en amont de mon [grand tour de l’Hérault](https://tcrouzet.com/gth/) (GTH). J’ai choisi [le modèle Essentiel](https://pedaled.com/fr_fr/homme-maillot-de-velo-merinos-manches-longues-bleu-sarcelle-essential#gref). Il est arrivé dans un emballage luxueux.
 

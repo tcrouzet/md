@@ -1,6 +1,6 @@
 # T’es pas codeur, t’es pas éditeur
 
-Quand j’ai lancé « [T’es pas codeur, t’es pas auteur](http://blog.tcrouzet.com/2011/03/04/pas-codeur-pas-auteur/) », c’était une de mes habituelles provocations. On m’a répondu « T’es pas boulanger, t’es pas auteur ». Ce n’est pas aussi simple, surtout quand la proposition est étendue aux éditeurs.<span id="more-21407"></span>
+Quand j’ai lancé « [T’es pas codeur, t’es pas auteur](http://blog.tcrouzet.com/2011/03/04/pas-codeur-pas-auteur/) », c’était une de mes habituelles provocations. On m’a répondu « T’es pas boulanger, t’es pas auteur ». Ce n’est pas aussi simple, surtout quand la proposition est étendue aux éditeurs.
 
 Pour moi, coder, c’est écrire. Pensez au *Tractatus* de Wittgenstein, vous comprendrez ce que je veux dire. J’ai écrit [*La stratégie du cyborg*](http://blog.tcrouzet.com/edition-interdite/) et [*L’édition interdite*](http://blog.tcrouzet.com/edition-interdite/) comme des programmes. Chacun des aphorismes est une sorte d’instruction pour le cerveau du lecteur. Quand [Nicolas Ancion dit que je me contredis parfois](http://ancion.hautetfort.com/archive/2011/03/12/thierry-crouzet-l-edition-interdite.html), c’est en fait que je crée des boucles ou des sauts en arrière dans le code, j’espère en toute conscience.
 

@@ -4,7 +4,7 @@
 
 ### Mardi 4, Balaruc
 
-Je boucle aujourd’hui le premier jet de *Vaincre les épidémies*, 290 000 signes écrits en exactement un mois. Je passe le reste de la journée à défoncer la haie qui me sépare de l’étang. Je ne la supportais plus depuis des années et j’ai besoin de changements. Je tombe sur une corde verte, une des cordes utilisées par mon père, attachée au grillage que je dois découper, alors je défais les nœuds retenant cette corde, des nœuds noués il y a vingt ans par mon père quand nous avons construit la maison, et défaisant ses nœuds je refais ses gestes à l’envers, je suis avec lui, comme si je recopiais un texte écrit par lui.<span id="more-55163"></span>
+Je boucle aujourd’hui le premier jet de *Vaincre les épidémies*, 290 000 signes écrits en exactement un mois. Je passe le reste de la journée à défoncer la haie qui me sépare de l’étang. Je ne la supportais plus depuis des années et j’ai besoin de changements. Je tombe sur une corde verte, une des cordes utilisées par mon père, attachée au grillage que je dois découper, alors je défais les nœuds retenant cette corde, des nœuds noués il y a vingt ans par mon père quand nous avons construit la maison, et défaisant ses nœuds je refais ses gestes à l’envers, je suis avec lui, comme si je recopiais un texte écrit par lui.
 
 ![Défrichage](https://tcrouzet.com/images_tc/2020/09/IMG_2325.jpeg)
 

@@ -1,6 +1,6 @@
 # La guerre ou quand les États s’amusent à la récréation
 
-À [un journaliste qui lui demande](http://www.newscientist.com/article/mg21728990.400-what-westerners-can-learn-from-tribal-societies.html) pourquoi nous avons une vision romantique des sociétés tribales, [Jared Diamond](http://fr.wikipedia.org/wiki/Jared_Diamond) répond « There is a feeling among the general public—and some anthropologists—that traditional people are peaceful. But the reality is that the great majotity are not. **To have peace requires a central governement.** »<span id="more-33366"></span>
+À [un journaliste qui lui demande](http://www.newscientist.com/article/mg21728990.400-what-westerners-can-learn-from-tribal-societies.html) pourquoi nous avons une vision romantique des sociétés tribales, [Jared Diamond](http://fr.wikipedia.org/wiki/Jared_Diamond) répond « There is a feeling among the general public—and some anthropologists—that traditional people are peaceful. But the reality is that the great majotity are not. **To have peace requires a central governement.** »
 
 Cette théorie « Pour vivre en paix, il faut un gouvernement central. » est largement partagée. Je voudrais la discuter. Les arguments de Diamond :
 

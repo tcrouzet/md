@@ -1,6 +1,6 @@
 # La littérature maintenant ?
 
-Quand on n’écrit pas pour divertir ou se divertir, mais pour éprouver le monde avec davantage d’acuité et le donner à éprouver avec au moins autant d’acuité, que nous reste-t-il à écrire en situation de crise ? Quand les informations nous bombardent, avec elles les émotions, quand nos propres vies sont bouleversées, parfois celles de nos proches touchées ?<span id="more-53605"></span>
+Quand on n’écrit pas pour divertir ou se divertir, mais pour éprouver le monde avec davantage d’acuité et le donner à éprouver avec au moins autant d’acuité, que nous reste-t-il à écrire en situation de crise ? Quand les informations nous bombardent, avec elles les émotions, quand nos propres vies sont bouleversées, parfois celles de nos proches touchées ?
 
 Je me pose cette question alors que par le plus grand des hasards [j’écris à nouveau sur le gel hydro-alcoolique](https://tcrouzet.com/le-geste-qui-sauve/). Moi qui me tiens à distance des news, qui ne lis jamais la presse, je me suis retrouvé emporté par le flot, les statistiques, les prévisions, les analyses, souvent désordonnées et anxiogènes, au point de me retrouver intellectuellement paralysé, incapable de prendre de la distance, au point de ne plus réussir à écrire dans [mon journal](https://tcrouzet.com/carnets/), alors que nous vivons un moment historique, la première crise globale qui entraîne une réaction globale, la première mobilisation universelle qui nous prouve que d’autres, longtemps repoussées, sont envisageables indépendamment de leur coût.
 

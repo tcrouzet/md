@@ -1,6 +1,6 @@
 # Le confinement révèle qui nous sommes
 
-En tout cas, si le confinement ne nous révèle pas qui nous sommes à nous-mêmes, il le révèle sans aucun doute à ceux qui nous observent. J’en reviendrai à mon propre cas après quelques détours.<span id="more-53738"></span>
+En tout cas, si le confinement ne nous révèle pas qui nous sommes à nous-mêmes, il le révèle sans aucun doute à ceux qui nous observent. J’en reviendrai à mon propre cas après quelques détours.
 
 Il y a les philosophes qui se résignent, prennent leur mal en patience, parlent des séries qu’ils regardent et partagent des blagues et des vidéos humoristiques. Merci, sans vous le net serait invivable. Vous me faites du bien. Merci.
 

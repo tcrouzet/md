@@ -14,8 +14,6 @@ Je ne veux pas ici me substituer à la justice. Je veux juste rappeler que les b
 
 C’est d’autant plus dérangeant que Manuel Aeschlimann est un proche de Nicolas Sarkozy. Il serait intéressant de connaître l’avis du Ministre de l’intérieur et surtout du candidat UMP à la présidentielle au sujet de la [situation à Asnières](http://asnierois.org/fw/html/modules.php?name=News&file=article&sid=662). Je crois qu’il doit se positionner. Cautionne-t-il oui ou non les pratiques de celui qui fut un temps le chargé de communication de l’UMP ? Pense-t-il que le cinquième pouvoir va trop loin ou qu'il n'est pas objectif ?
 
-**La grève des blogs**
-
 Afin de poser ces questions, [16 des 25 blogs citoyens d’Asnières feront grève le samedi 27 janvier 2007](http://www.collectif-asnieres.fr/). Pourquoi ce jour là ? [Parce que Nicolas Sarkozy est attendu à Asnières, à l’invitation de Manuel Aeschlimann, pour la galette de l’UMP.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070126umpb.jpg)
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070126ump.jpg)

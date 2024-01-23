@@ -1,6 +1,6 @@
 # Kurzweil : l’évolution exponentielle
 
-Denis Failly a publié un [intéressant interview de Ray Kurzweil](http://entretiens-du-futur.blogspirit.com/archive/2007/12/02/humanite-2-0-la-bible-du-changement.html). J’ai parlé du futurologue dans [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), je me suis même appuyé sur ses idées pour défendre les miennes. Maintenant que je travaille à [la seconde édition de mon livre](http://blog.tcrouzet.com/2007/11/20/liberer-les-connecteurs/), j’arrive à une contradiction flagrante.<span id="more-687"></span>
+Denis Failly a publié un [intéressant interview de Ray Kurzweil](http://entretiens-du-futur.blogspirit.com/archive/2007/12/02/humanite-2-0-la-bible-du-changement.html). J’ai parlé du futurologue dans [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), je me suis même appuyé sur ses idées pour défendre les miennes. Maintenant que je travaille à [la seconde édition de mon livre](http://blog.tcrouzet.com/2007/11/20/liberer-les-connecteurs/), j’arrive à une contradiction flagrante.
 
 1. Je suppose que l’avenir est imprévisible à cause de la complexité de notre monde et que l’imprévisibilité grandissante accroît d’autant la complexité. [J’admets tout au plus l’existence de poches de prévisibilités à court terme.](http://blog.tcrouzet.com/2007/12/11/comprendre-n%e2%80%99est-pas-prevoir/)
 

@@ -2,7 +2,7 @@
 
 ![mrtoad21](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/05/mrtoad21.jpg)
 
-Au cœur de l’Angleterre, à quelques kilomètres au nord-est de Nottingham, le village d’Oxton égraine ses maisons opulentes dans un paysage de bocages et de bois parsemés d’étangs peu profonds. Dans cette campagne riante, on retrouve par endroits les vestiges de l’ancienne forêt de Sherwood, havre de Robin des bois et de créatures fantasmagoriques. Parmi elles, des crapauds jaune-gris, dits *Bufo bufo* ou crapauds communs.<span id="more-6121"></span>
+Au cœur de l’Angleterre, à quelques kilomètres au nord-est de Nottingham, le village d’Oxton égraine ses maisons opulentes dans un paysage de bocages et de bois parsemés d’étangs peu profonds. Dans cette campagne riante, on retrouve par endroits les vestiges de l’ancienne forêt de Sherwood, havre de Robin des bois et de créatures fantasmagoriques. Parmi elles, des crapauds jaune-gris, dits *Bufo bufo* ou crapauds communs.
 
 Au mois de mars, quand les nuits s’adoucissent, ils s’éveillent de leur somnolence hivernale. Ils s’ébrouent, dégagent la terre et les feuilles mortes qui les recouvrent et lancent leurs premiers croissements de l’année. Une soudaine envie d’aimer les emporte. Ils n’ont d’autres désirs que de regagner leur mare natale qu’ils reconnaîtront à la composition chimique de l’eau. Ils bondissent droit à travers champs, leurs pattes écartées, les ventres des femelles tout aussi bombé que ceux des jumbos jet. Ils atterrissent par rebonds maladroits, nagent s’il le faut, croisent des routes, leurs yeux imbéciles indifférents aux voitures et aux camions qui les déchiquettent par centaines.
 

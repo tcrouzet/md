@@ -1,6 +1,6 @@
 # Comment pirater un livre papier
 
-Un de mes amis vient de sortir un polar. J’aime ses romans. Je lui dis : « je vais le lire et le chroniquer sur le blog. » Je me livre rarement à cet exercice, mais quand je le fais un bon nombre de lecteurs me suivent comme avec l’extraordinaire [*Terminus mon Ange*](http://blog.tcrouzet.com/2014/02/14/un-ton-neuf-dans-le-polar/).<span id="more-40693"></span>
+Un de mes amis vient de sortir un polar. J’aime ses romans. Je lui dis : « je vais le lire et le chroniquer sur le blog. » Je me livre rarement à cet exercice, mais quand je le fais un bon nombre de lecteurs me suivent comme avec l’extraordinaire [*Terminus mon Ange*](http://blog.tcrouzet.com/2014/02/14/un-ton-neuf-dans-le-polar/).
 
 Rien de très ordinaire jusque là. Sauf que l’éditeur de mon ami ne publie pas en numérique. Et que moi je lis avec de plus en plus de difficulté sur papier (parce que l’acide des pages m’irrite les doigts, parce que les réglages typo choisis m’échauffent les yeux, parce que les reliures se referment sur mes mains telles des gueules de Pac man, parce que ma bibliothèque déborde et menace de m’ensevelir… [j’arrête l’inventaire](http://blog.tcrouzet.com/2014/03/22/pourquoi-jaime-lire-en-numerique/)).
 
@@ -23,6 +23,8 @@ Bon, encore un billet pour me faire des amis dans l'édition, mais c’est plus 
 *PS : [Pendant ce temps, des auteurs qui n'ont rien compris, comme leurs éditeurs, s'offusquent du piratage.](https://www.actualitte.com/usages/piratage-porter-un-veritable-projet-collectif-sur-le-livre-numerique-56398.htm)*
 
 ![J’aime Office Lens de Microsoft qui remet d’aplomb les pages photographiées.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/ocr.png)
+
+J’aime Office Lens de Microsoft qui remet d’aplomb les pages photographiées.
 
 
 

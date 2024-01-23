@@ -1,6 +1,6 @@
 # Comment rivaliser avec un paysage ?
 
-Pourquoi ne pas se contenter de vivre ? S’étendre sur le ponton, fermer les yeux au soleil, se laisser bercer par les voix des baigneurs, certes trop grossières, un brin excessives et pas assez lacives à mon goût.<span id="more-37169"></span>
+Pourquoi ne pas se contenter de vivre ? S’étendre sur le ponton, fermer les yeux au soleil, se laisser bercer par les voix des baigneurs, certes trop grossières, un brin excessives et pas assez lacives à mon goût.
 
 J’en suis là de ma vie. Avec cette quasi-possibilité de ne rien faire alors qu’un nœud intérieur se resserre. Des idées me traversent, des envies vulgaires, aucune chargée de suffisamment d’énergie pour qu’elle devienne une aventure.
 
@@ -27,6 +27,8 @@ Une péniche s’est immobilisée au milieu du bleu, en apesanteur. J’imagine 
 Même les éoliennes au sommet des collines de la Moure ne bronchent pas. L’absolu calme après l’orage cataclysmique d’hier soir. Une giclée de bonheur dans les yeux. Une beauté d’égoïste pour égoïste.
 
 ![L'orage avant le calme.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/nowp.jpg)
+
+L'orage avant le calme.
 
 
 

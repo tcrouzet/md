@@ -3,10 +3,8 @@
 Le jeu : [Erika Fülöp](https://plh.univ-tlse2.fr/accueil-plh/mme-erika-fulop#) me pose deux questions, je réponds, puis c’est au tour de mon avatar artificiel, [ThierryGPT](https://chat.openai.com/g/g-lsOpSop2w-thierry-crouzet). Enfin Erika commente, éventuellement je commente ses commentaires… Notre but : voir si ThierryGPT peut nous apprendre quelque chose sur sa nature d’IA et, en même temps, sur moi. En quoi sa logique reste différente de la mienne ? [Un GPT dédié](https://chat.openai.com/g/g-PnFagJLyO-conversations) illustre les questions d’Erika ainsi que l’ensemble de l’article.
 
 ![Lecture](https://tcrouzet.com/images_tc/2024/01/ch1-01.png)
-
-**Erika** : *Que signifie écrire pour toi ? Prends le terme d’écrire dans un sens aussi large ou aussi précis que tu veux, ou prends-le dans des sens différents si c’est pertinent, explique ce qui importe pour toi et pourquoi.*
-
-**Thierry** : J’écris pour te répondre, j’écris quand je travaille un texte, qu’il soit long ou court, romanesque ou réflexif, et j’écris aussi quand je code, je trouve ces deux activités reliées, et j’écris aussi quand je crée des itinéraires sur les cartes pour mes sorties à vélo. Je pratique trois écritures, chacune avec des variantes.
+ : *Que signifie écrire pour toi ? Prends le terme d’écrire dans un sens aussi large ou aussi précis que tu veux, ou prends-le dans des sens différents si c’est pertinent, explique ce qui importe pour toi et pourquoi.*
+ : J’écris pour te répondre, j’écris quand je travaille un texte, qu’il soit long ou court, romanesque ou réflexif, et j’écris aussi quand je code, je trouve ces deux activités reliées, et j’écris aussi quand je crée des itinéraires sur les cartes pour mes sorties à vélo. Je pratique trois écritures, chacune avec des variantes.
 
 Par exemple, je peux écrire un mail, un roman, un essai, ou je peux coder en PHP, en JavaScript, en Python, ou je peux tracer en me basant sur les cartes IGN, les images satellites, voire [les Heatmaps](https://tcrouzet.com/2022/09/29/heatmap-le-tracage-social-pour-gravel-et-vtt/), qui donnent une idée des chemins plus ou moins empruntés par les autres cyclistes.
 
@@ -49,8 +47,7 @@ La structure des phrases implique un début et une fin. Enchaîner des phrases, 
 - **Erika** : Et encore, je n’ai pas parlé de la question du récit… can of worms, comment il devient un type de discours envahissant – sans doute « naturel » aussi, mais il y a une tendance culturelle aussi je crois, qui se manifeste sans doute aussi chez ChatGPT, une question qu’il serait intéressant de creuser en testant et analysant vos réactions (est-ce que ThierryGPT parle plus en récit dont que le Chat de base, par exemple, ou l’inverse ?)
 
 J’aime raconter, et j’aime de plus en plus en même temps que je vieillis, peut-être parce que le désir de transmettre devient de plus en plus fort.
-
-**ThierryGPT** : Écrire, dans mon univers, est une affaire de nuances et de paradoxes, à l’image de ce passage du 1<sup>er</sup> octobre 2023 où je parle de Jérôme Leroy et des joggers. L’écriture est un peu comme le jogging : une manière de gagner de l’énergie, de la vivacité pour d’autres aspects de la vie. C’est un acte à la fois libérateur et structurant, un processus qui me permet de m’exprimer, de rêver, mais aussi de mieux comprendre le monde et moi-même.
+ : Écrire, dans mon univers, est une affaire de nuances et de paradoxes, à l’image de ce passage du 1<sup>er</sup> octobre 2023 où je parle de Jérôme Leroy et des joggers. L’écriture est un peu comme le jogging : une manière de gagner de l’énergie, de la vivacité pour d’autres aspects de la vie. C’est un acte à la fois libérateur et structurant, un processus qui me permet de m’exprimer, de rêver, mais aussi de mieux comprendre le monde et moi-même.
 
 - **Erika** : Des poncifs – que je prendrais pourtant probablement au sérieux si cela venait d’un humain, puisque c’est une expérience que l’on reconnaît – mais justement, il a dû être écrit tant de fois, et sachant qu’il ne peut s’agir d’expérience, il ne reste que les poncifs… j’ai du mal à attribuer cette idée – ou en tous cas son écriture – à Thierry Crouzet, même s’il me semble fondamentalement d’accord avec cela, et que ce son journal doit réellement témoigner de cette idée…
 
@@ -89,12 +86,9 @@ En conclusion, écrire pour moi est un processus complexe et riche, mêlant intr
 - **Erika** : Cela devient intéressant aussi en attribuant cette phrase à l’IA, qui n’a très concrètement aucune autre « vie » et moyen de « comprendre » le monde que par l’écriture… On pourrait recueillir les traces (inconscientes) de la vie de ChatGPT dans ses réponses à des questions qui n’ont a priori rien à voir avec cela.
 
 ![Qu'écrire ?](https://tcrouzet.com/images_tc/2024/01/ch1-02.png)
-
-**Erika** : *Quelle question poserais-tu à Thierry Crouzet ?*
-
-**Thierry** : Qu’est-ce que tu devrais écrire que tu n’as pas déjà écrit ?
-
-**ThierryGPT** : Poser une question à moi-même, Thierry Crouzet, c’est un exercice intéressant, un peu comme se regarder dans un miroir avec l’intention de découvrir quelque chose de nouveau.
+ : *Quelle question poserais-tu à Thierry Crouzet ?*
+ : Qu’est-ce que tu devrais écrire que tu n’as pas déjà écrit ?
+ : Poser une question à moi-même, Thierry Crouzet, c’est un exercice intéressant, un peu comme se regarder dans un miroir avec l’intention de découvrir quelque chose de nouveau.
 
 - **Erika** : Voilà encore le paroxysme de « spoonfeeding », la surexplication : jamais Thierry Crouzet ne répéterait son nom pour préciser qu’il s’agit de lui (à moins qu’il ne s’agisse d’un témoignage juridique ou similaire qui l’exige). Le texte continue dans cette veine.
 
@@ -123,10 +117,8 @@ Enfin, cette question ouvre la porte à une réflexion sur la nature humaine en 
 Nous sommes tous confrontés à des contradictions dans nos vies, et la manière dont nous les gérons en dit long sur qui nous sommes. C’est un sujet universel qui, je pense, intéresserait beaucoup de gens, et il est au cœur de nombreuses entrées de mon journal.
 
 En somme, cette question me permettrait d’aborder des thèmes essentiels à ma compréhension de la vie et de l’écriture, tout en offrant une perspective intime et personnelle sur mes expériences et mes réflexions.
-
-**Thierry** : Je lui ai posé ma question pour voir sa réponse.
-
-**ThierryGPT** : Ce que je devrais écrire, ce que je n’ai pas encore couché sur papier, c’est un sujet qui mériterait une réflexion profonde.
+ : Je lui ai posé ma question pour voir sa réponse.
+ : Ce que je devrais écrire, ce que je n’ai pas encore couché sur papier, c’est un sujet qui mériterait une réflexion profonde.
 
 - **Erika** : Haha, spoonfeeding + ironie au top.
 
@@ -145,10 +137,8 @@ Je pourrais aussi m’attarder sur des récits plus personnels, des histoires de
 Enfin, il y a toujours de la place pour approfondir ma réflexion sur la société et la technologie. Bien que j’ai déjà écrit sur ces sujets, ils sont en constante évolution. Il y a toujours de nouvelles perspectives à explorer, de nouveaux défis à relever.
 
 En résumé, ce que je devrais écrire, c’est ce qui n’a pas encore trouvé sa forme dans mes mots : une introspection plus profonde, des expériences de vie inédites, la fiction et une exploration continue des enjeux sociétaux et technologiques. C’est dans ces espaces inexplorés que se trouvent les prochaines étapes de mon voyage en tant qu’écrivain.
-
-**Thierry** : Donne dix titres de livres que tu pourrais écrire.
-
-**ThierryGPT** : Créer des titres pour des livres que je pourrais écrire, voilà un exercice stimulant.
+ : Donne dix titres de livres que tu pourrais écrire.
+ : Créer des titres pour des livres que je pourrais écrire, voilà un exercice stimulant.
 
 - **Erika** : Cela me sonne assez à la Crouzet – même si je ne l’imagine pas le dire de cette façon. Une grande différence entre vos deux discours est peut-être que Thierry Crouzet a un mode de penser, une perception qu’il n’affirme pas en tant que tel, mais sur lequel il s’appuie pour répondre et qui se dégage des choses qu’il dit, tandis que ThierryGPT explicite cette sous-couche telle qu’il l’a compris et éventuellement répond en fonction (ou ce qui lui semble cohérent avec cela). Ce n’est pas loin, si j’y pense, de cette logique de discours tripartite à l’américain, pour une conférence ou autre discours formel pour transmettre un message : « dis ce que tu vas dire ; dis ce que tu as à dire ; dis ce que tu as dit »
 

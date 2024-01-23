@@ -1,6 +1,6 @@
 # Un tour des Alpilles gravel
 
-À l’initiative de [Valérie Rasigades](https://www.facebook.com/groups/412807219648006/), nous nous sommes retrouvés à Saint-Rémy-de-Provence pour [une balade sur les DFCI, singles et petites routes du massif des Alpilles](https://www.openrunner.com/r/13922605).<span id="more-60990"></span>
+À l’initiative de [Valérie Rasigades](https://www.facebook.com/groups/412807219648006/), nous nous sommes retrouvés à Saint-Rémy-de-Provence pour [une balade sur les DFCI, singles et petites routes du massif des Alpilles](https://www.openrunner.com/r/13922605).
 
 Je ne vais pas vous raconter notre périple de 80 km. En ce moment, j’écris un roman initiatique sur le vélo et suis incapable de penser à autre chose. J’espère que les photos parleront d’elles-mêmes.
 

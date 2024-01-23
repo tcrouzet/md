@@ -1,6 +1,6 @@
 # À la veille d&#8217;un grand bouleversement
 
-Je pense placer une note en tout début de mon prochain livre, suite romanesque du *peuple des connecteurs*. En voici une première version :<span id="more-46"></span>
+Je pense placer une note en tout début de mon prochain livre, suite romanesque du *peuple des connecteurs*. En voici une première version :
 
 « Depuis la fin du vingtième siècle, une nouvelle conscience s'est fait jour dans l'esprit humain, une conscience que l'on peut qualifier de collective. Si vous êtes en train de lire ces lignes, vous ressentez sans doute déjà ce qui se passe, vous vous sentez connectés aux autres hommes, membre d'un tout qui vous dépasse.
 

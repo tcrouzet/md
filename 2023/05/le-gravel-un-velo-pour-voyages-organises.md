@@ -30,8 +30,6 @@ Si sur les sorties d’un jour, j’accepte parfois à gravel quelques passages 
 
 Ces situations ne cessent de se répéter tout au long de la trace. Avant Trèbes, nous avons remonté un single des plus joueurs, avec quelques marches, quelques toboggans. Gravel ou pas ? Je suis sûr que les gravellistes du coin passent par là, mais avec une certaine tristesse j’ai écarté du g727 le secteur au profit de chemins plus sages. Même remarque au sujet de la descente depuis le sommet du pic de Nore. Le single est génial, mais pas gravel. Voilà comment un voyage gravel s’organise par retouches progressives.
 
-\[tcrouzet function="tcrouzet\_visugpx" map="https://www.visugpx.com/HhyJuC9nMP"\]
-
 En comparaison, [la trace VTT que nous avons suivie](https://www.visugpx.com/HhyJuC9nMP), tracée théoriquement sur écran, était d’emblée quasi parfaite. J’ai acquis une sorte de sixième sens cartographique, mais ce sixième sens fonctionne mal pour le gravel, car le gravel a beaucoup plus d’exigences que le VTT, même s’il en a moins que le vélo de route. Cet entre deux rend ce vélo intéressant et aussi en limite l’usage pour les voyages, sauf à suivre des itinéraires qualifiés de gravel, donc organisés pour le gravel.
 
 ![Les Corbières](https://tcrouzet.com/images_tc/2023/05/IMG_2128.jpeg)

@@ -1,6 +1,6 @@
 # La métaphore du Net et du château
 
-Imaginez nos paysages. Vastes campagnes ponctuées de fermes isolées, de villages, de villes, de capitales régionales et de mégalopoles. Avec des routes qui les relient. Des frontières naturelles, mers, montagnes, déserts, de moins en moins de frontières administratives. Dans cet espace, nous jouissons d’une relative liberté de mouvement. Beaucoup d’endroits étant publics. Et nous trouvons à peu près tout n’importe où.<span id="more-35821"></span>
+Imaginez nos paysages. Vastes campagnes ponctuées de fermes isolées, de villages, de villes, de capitales régionales et de mégalopoles. Avec des routes qui les relient. Des frontières naturelles, mers, montagnes, déserts, de moins en moins de frontières administratives. Dans cet espace, nous jouissons d’une relative liberté de mouvement. Beaucoup d’endroits étant publics. Et nous trouvons à peu près tout n’importe où.
 
 Le Net est une sorte de paysage, avec aussi des fermes isolées cultivées par des blogueurs farouchement indépendants, des villages qui regroupent les sites communautaires, des villes, qui offrent des services, des capitales qui hébergent les grands médias, des mégalopoles aux mains de quelques entités transnationales.
 

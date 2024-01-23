@@ -1,6 +1,6 @@
 # Nous avons beaucoup appris
 
-Ce titre résume ce que j’ai répondu à Jean-Olivier Pain de la Radio Suisse Romande puis à Jérôme Colombain de France Info qui m’ont successivement demandé quel bilan je tirais de la net présidentielle.<span id="more-445"></span>
+Ce titre résume ce que j’ai répondu à Jean-Olivier Pain de la Radio Suisse Romande puis à Jérôme Colombain de France Info qui m’ont successivement demandé quel bilan je tirais de la net présidentielle.
 
 En 2005, avec le référendum européen, beaucoup de citoyens se sont engagés pour la première fois en politique grâce à internet. En 2007, la présidentielle a intensifié ce mouvement, contribuant à l’engouement pour la politique relevé par tous les observateurs.
 
@@ -15,8 +15,6 @@ Dès lundi, beaucoup de blogs vont mourir mais beaucoup vont survivre et devenir
 Il est vital que chacun des citoyens puissent faire des propositions et discuter des propositions des autres. C’est ainsi, grâce à la collaboration à vaste échelle, que nous découvrirons des solutions nouvelles.
 
 Nos politiciens appartiennent tous à l’ancien monde du top-down. Ils disent sans cesse « je veux » ou « il faut » ou « la solution, c’est », utilisant des expressions qui devraient être bannies du langage politique du vingt-et-unième siècle.
-
-**Ce siècle sera bottom-up ou ne sera pas.**
 
 En ce sens, une présidentielle est totalement top-down, donc totalement étrangère à la logique du cinquième pouvoir. Les rares candidats s’expriment essentiellement via les médias top-down (et ils ont raison car ils ont accès à ses médias et sont ainsi sûr de toucher une large audience).
 

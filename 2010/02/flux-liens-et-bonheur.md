@@ -1,6 +1,6 @@
 # Repenser le Flux par les liens et le bonheur
 
-Je ne suis pas satisfait par la première partie de mon [*Alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/). Quelque chose dans l’idée de Flux est trop flou, pas assez explicite, surtout pas assez fécond. Samedi dernier, j’étais chez [Isabelle Filliozat](http://www.filliozat.net/) et elle m’a demandé pourquoi à mon avis il m’arrivait d’éprouver du bonheur dans le Flux. Je lui ai répondu : « c’est à cause des liens, parce que je me sens lié. »<span id="more-14498"></span>
+Je ne suis pas satisfait par la première partie de mon [*Alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/). Quelque chose dans l’idée de Flux est trop flou, pas assez explicite, surtout pas assez fécond. Samedi dernier, j’étais chez [Isabelle Filliozat](http://www.filliozat.net/) et elle m’a demandé pourquoi à mon avis il m’arrivait d’éprouver du bonheur dans le Flux. Je lui ai répondu : « c’est à cause des liens, parce que je me sens lié. »
 
 Elle m’a alors dit que le bonheur n’était pas compliqué. On l’éprouve quand on se sent lié aux autres et quand on a l’impression d’accomplir quelque chose.
 

@@ -8,8 +8,6 @@ Une mesure m’est apparue comme excellente :
 
 Tous les blogueurs pourraient ainsi plus facilement monétiser leur site. Tous les Français pourraient se lancer dans l’ebusiness maison. Tout cela est très bien, cohérent. J’aurais insisté sur la formation et, surtout, sur le besoin d’une plus grande transparence concernant la publication des données publiques. Pour moi, toutes les données produites par l’État appartiennent aux citoyens. Elles sont toutes du domaine public. En les ouvrant, on favorisera la [wikinomics](http://blog.tcrouzet.com/2007/01/09/wikinomics/).
 
-**N’allez pas croire que je signe le texte.**
-
 Dès le début, mon amour de la liberté s’est trouvé agressé. Par exemple :
 
 > Les métiers de la culture, en particulier la musique, seront plus que jamais au cœur de ce nouvel environnement et accompagner leur mutation en **protégeant** leurs spécificités est un enjeu majeur.

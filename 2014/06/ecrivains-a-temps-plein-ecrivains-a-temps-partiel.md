@@ -1,6 +1,6 @@
 # Écrivains à temps plein, écrivains à temps partiel
 
-Je viens de me délester de mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/). Projet commencé en juin 2000 et finalisé en juin 2014. J’ai passé trois ans sur le premier jet, puis j’ai tout abandonné avant de tout reprendre encore et encore. Durant ces années, ce texte m’a hanté, les autres lui étaient connexes, des distractions en quelque sorte. Et de devoir en faire le deuil éteint les lumières de mon cerveau, le laissant juste assez actif pour qu’il s’interroge sur le métier d’écrivain.<span id="more-35965"></span>
+Je viens de me délester de mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/). Projet commencé en juin 2000 et finalisé en juin 2014. J’ai passé trois ans sur le premier jet, puis j’ai tout abandonné avant de tout reprendre encore et encore. Durant ces années, ce texte m’a hanté, les autres lui étaient connexes, des distractions en quelque sorte. Et de devoir en faire le deuil éteint les lumières de mon cerveau, le laissant juste assez actif pour qu’il s’interroge sur le métier d’écrivain.
 
 Durant ces quatorze années, et même durant les précédentes, j’ai toujours écrit. Si les circonstances m’empêchaient de le faire, j’avais l’impression de gâcher ma vie. Je me suis peu à peu guéri de cette maladie. Parce que tout simplement écrire sans cesse n’a aucun sens, surtout pour les lecteurs éventuels. Et c’est bien parce qu’écrire devient une mécanique qu’il faut réussir à la déconnecter, au moins pour la regarder avec distance, avant d’y revenir.
 
@@ -15,6 +15,8 @@ Tout ça, c’est à cause de la forme. Certains en choisissent une de normalis�
 Maintenant que j’ai libéré mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/), que je lui ai donné forme, j’ai l’impression ne plus être un écrivain à temps plein sans pour autant être un temporaire. J'erre dans le no mans land du post-partum.
 
 ![Alors je construis un ponton pour les enfants.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/soir.jpg)
+
+Alors je construis un ponton pour les enfants.
 
 
 

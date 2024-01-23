@@ -1,6 +1,6 @@
 # Comment obtenir un prix Goncourt
 
-Je poursuis [mes petits jeux statistiques sur la répartition des phrases dans quelques textes célèbres ou non](http://blog.tcrouzet.com/2012/12/06/interdire-cest-liberateur-meme-en-ecriture)… quelques surprises amusantes (rien de tout cela n’est très sérieux).<span id="more-30160"></span>
+Je poursuis [mes petits jeux statistiques sur la répartition des phrases dans quelques textes célèbres ou non](http://blog.tcrouzet.com/2012/12/06/interdire-cest-liberateur-meme-en-ecriture)… quelques surprises amusantes (rien de tout cela n’est très sérieux).
 
 ### El James, *Cinquante nuances de Grey*
 

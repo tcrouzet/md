@@ -1,6 +1,6 @@
 # Mini-aventure : gravel de la nuit à la nuit
 
-À l’initiative de Romain Bossard d’[Hors Trace Aventures](https://www.hors-traces-aventures.fr/), on se retrouve à une dizaine au Crès, commune en périphérie est de Montpellier, pour un 100 miles gravel autour du Pic Saint-Loup et de l’Hortus.<span id="more-55727"></span>
+À l’initiative de Romain Bossard d’[Hors Trace Aventures](https://www.hors-traces-aventures.fr/), on se retrouve à une dizaine au Crès, commune en périphérie est de Montpellier, pour un 100 miles gravel autour du Pic Saint-Loup et de l’Hortus.
 
 Nous devions commencer à pédaler à 5 heures 30, mais couvre-feu oblige nous ne partons qu’à 7 heures. Il fait encore nuit et froid, même très froid pour la saison. La météo prévoyait au plus bas 4°C avec une maximale à 18°C, sans anticiper qu’au bord du Salaison, nos thermomètres plongeraint vers zéro et bientôt passeraint en négatif, ce qui est exceptionnel chez nous en octobre.
 

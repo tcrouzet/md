@@ -1,6 +1,6 @@
 # Mini-aventure : téléportation dans l’Aude par le train
 
-Le sentiment d’aventure est une drogue. Plus je l’éprouve, plus j’ai envie de l’éprouver. Le manque se creuse en moi. Je ne tiens plus en place, et une sortie vélo sur mes terrains habituels ne suffit pas à m’apaiser.<span id="more-55422"></span>
+Le sentiment d’aventure est une drogue. Plus je l’éprouve, plus j’ai envie de l’éprouver. Le manque se creuse en moi. Je ne tiens plus en place, et une sortie vélo sur mes terrains habituels ne suffit pas à m’apaiser.
 
 Pour moi, l’aventure commence quand je fais quelque chose pour la première fois. Exemple : dès que je m’attaque à un nouveau texte, poussé par une intuition, sans aucune idée des phrases qui émergeront. J’écris pour affronter cet inattendu, je pédale pour la même raison. Toute sortie comporte ses aléas, mais j’ai pris goût à les intensifier, à augmenter leur potentiel, à suivre des traces pour moi inédites. Il suffit de quelques disruptions pour intensifier mon exitance.
 

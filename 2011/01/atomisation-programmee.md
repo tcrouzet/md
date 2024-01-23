@@ -1,6 +1,6 @@
 # Atomisation programmée
 
-Je viens de publier un troisième texte chez publie.net, [*Bit, Sex and Bug*](< http://blog.tcrouzet.com/bit-sex-and-bug/>). Plutôt que de [gloser dessus](http://blog.tcrouzet.com/tag/bit-sex-and-bug/), Isabelle m’a interviewé. Je vous propose également un extrait du début de ce thriller.<span id="more-21100"></span>
+Je viens de publier un troisième texte chez publie.net, [*Bit, Sex and Bug*](). Plutôt que de [gloser dessus](http://blog.tcrouzet.com/tag/bit-sex-and-bug/), Isabelle m’a interviewé. Je vous propose également un extrait du début de ce thriller.
 
 ### Chapitre 1
 

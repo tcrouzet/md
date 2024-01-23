@@ -1,6 +1,6 @@
 # Sur internet la censure est impossible
 
-Tocqueville commence *De la démocratie en Amérique* par démontrer la marche irrésistible de la liberté au cours des âges. Nous sommes en train de faire un pas de plus en avant. Sans internet, plus aucune économie ne peut se développer. Du coup, aucun pays ne peut interdire internet sur son territoire. Mais certains, comme la Chine, essaient de censurer.<span id="more-288"></span>
+Tocqueville commence *De la démocratie en Amérique* par démontrer la marche irrésistible de la liberté au cours des âges. Nous sommes en train de faire un pas de plus en avant. Sans internet, plus aucune économie ne peut se développer. Du coup, aucun pays ne peut interdire internet sur son territoire. Mais certains, comme la Chine, essaient de censurer.
 
 Peine perdue.
 

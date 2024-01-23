@@ -1,6 +1,6 @@
 # Pourquoi les traces doivent-elles rester publiques
 
-Que des bikepackers payent pour suivre des traces qu’ils pourraient suivre gratuitement une semaine plus tôt ou plus tard, c’est leur responsabilité. En revanche, je m’inquiète de la monétisation des chemins, qui pourrait pousser les propriétaires terriens à exiger à leur tour d’être rétribués, ce qui transformerait bientôt la moindre randonnée en enfer.<span id="more-64521"></span>
+Que des bikepackers payent pour suivre des traces qu’ils pourraient suivre gratuitement une semaine plus tôt ou plus tard, c’est leur responsabilité. En revanche, je m’inquiète de la monétisation des chemins, qui pourrait pousser les propriétaires terriens à exiger à leur tour d’être rétribués, ce qui transformerait bientôt la moindre randonnée en enfer.
 
 L’histoire des ressources publiques qui se privatisent est un grand classique. Souvent, le processus commence insidieusement, puis il finit par s’officialiser. C’est le cas pour de nombreuses plages, par exemple. Ou pour l’eau potable, gratuite durant des millénaires et peu à peu privatisée. L’air pur aussi, d’une certaine façon, puisqu’on nous vend des vacances à la montagne ou à la mer pour échapper aux miasmes des villes. Je pourrais évoquer les autoroutes privatisées, les données personnelles privatisées, les codes informatiques privatisés, les jeux d’argent privatisés, les stades privatisés, les aéroports, les ports… ou des tentatives de privatisation : certaines recettes de cuisine, certaines formules pharmaceutiques, certains mots…
 

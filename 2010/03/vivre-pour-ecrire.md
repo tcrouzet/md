@@ -1,6 +1,6 @@
 # Vivre pour écrire ou écrire pour vivre
 
-Je suis fatigué d’entendre dire qu’il faut offrir ses textes sous prétexte qu’ils sont publiés sur un blog et qu’il faut gagner sa vie autrement. Vous voulez donc que je ressorte la barque de mon père et que j’aille pêcher des anguilles devant chez moi ? Ou que je redevienne journaliste ? Ou que je redevienne salarié et m’agenouille devant un potentat ?<span id="more-15094"></span>
+Je suis fatigué d’entendre dire qu’il faut offrir ses textes sous prétexte qu’ils sont publiés sur un blog et qu’il faut gagner sa vie autrement. Vous voulez donc que je ressorte la barque de mon père et que j’aille pêcher des anguilles devant chez moi ? Ou que je redevienne journaliste ? Ou que je redevienne salarié et m’agenouille devant un potentat ?
 
 Alors on me conseille d’écrire des livres, de les vendre en librairie, de vivre ainsi (ce que j’ai longtemps fait). Cette proposition sous-entend que le blog est un genre inférieur. Je pense le contraire. Je pense qu’il est aujourd’hui le seul genre littéraire novateur et que le livre vivote sur une ancienne économie qui n’a plus aucun rapport avec la création.
 

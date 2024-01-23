@@ -1,6 +1,6 @@
 # Militantisme : école de médiocrité
 
-J’ai assisté ce weekend à l’université d’été du Modem. Lors d’une [mini interview avec Nicolas Voisin](http://www.nuesblog.com/?729/Modem-et-Internet-Qu-en-pense-le-papa-du-5o-pouvoir), j’ai résumé ce que j’en pensais. Je voudrais m’expliquer plus longuement, replacer mes propos dans le contexte et justifier leur radicalité.<span id="more-571"></span>
+J’ai assisté ce weekend à l’université d’été du Modem. Lors d’une [mini interview avec Nicolas Voisin](http://www.nuesblog.com/?729/Modem-et-Internet-Qu-en-pense-le-papa-du-5o-pouvoir), j’ai résumé ce que j’en pensais. Je voudrais m’expliquer plus longuement, replacer mes propos dans le contexte et justifier leur radicalité.
 
 ![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070917pacco.gif)
 

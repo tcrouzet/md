@@ -21,24 +21,20 @@ On me demande souvent d’expliquer plus en détail les différentes bidouilles 
 Tout d'abord comment j'ai créé et met à jour [la carte de France](https://drive.google.com/open?id=1yhX8UbMwgdQmVS8TlahrtBmpcIwWLjAt&usp=sharing).
 
 1. Depuis le menu de [Google Map/Vos adresses](https://www.google.fr/maps), je choisis l'option Cartes. Je peux ouvrir une carte existante ou en créer une, option disponible en bas de la liste des cartes.
-    
 
 ![Gestionnaire de cartes](https://tcrouzet.com/images_tc/2019/09/gmap1.png)
 
 2. Une fois une carte créée et nommée, je peux y créer des calques et dans ces calques je peux importer des traces au format GPX ou KMZ (l'option d'importation ne s'affiche que si le calque est vide).
-    
 
 ![Un calque vide](https://tcrouzet.com/images_tc/2019/09/gmap2.png)
 
 3. Une fois une trace importée, je la fais glisser dans un calque où je stocke toutes mes traces (le nombre de calques est limité à dix). Cette méthode d'archivage me permet de superposer des centaines de traces, donc de voir apparaître des boucles nouvelles. Goggle Map est l'un des seuls services de cartographie offrant cette possibilité.
-    
 
 ![Superposition de traces](https://tcrouzet.com/images_tc/2019/09/gmap3-1600x841.png)
 
 4. Chaque trace peut être colorée, illustrée, commentée (j'indique la source de la trace si je n'oublie pas).
 
 5. Quand j'ai besoin d'une trace ou de plusieurs pour créer de nouveaux parcours, je les exporte (menu trois points verticaux situé à droite du titre de la carte). On peut exporter la totalité de la carte ou un calque en particulier. Pour exporter un choix de traces, je les déplace dans un calque vide (j'ai toujours un calque tmp dans mes cartes). L'exportation s'effectue en KMZ.
-    
 
 ![Exportation en KMZ](https://tcrouzet.com/images_tc/2019/09/gmap4.png)
 
@@ -51,7 +47,6 @@ Voici maintenant comment je concocte une trace type GTH.
 2. J'importe aussi la trace des [limites du département de l'Hérault](https://www.touraineverte.fr/kml-limites-contours-departement-34-HERAULT-france.html).
 
 3. Sur Komoot, [je bouche les trous entre les traces](https://tcrouzet.com/2019/09/11/vtt-gravel-bikepacking-que-vaut-le-routage-automatique/) et exporte les fichiers en GPX, avant de les importer dans Google Map (en orange).
-    
 
 ![Réseau de traces](https://tcrouzet.com/images_tc/2019/09/gmap5.png)
 

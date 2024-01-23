@@ -2,7 +2,7 @@
 
 Je suis contre Hadopi parce que je suis pour la libre circulation des données numériques.
 
-Si je dispose de films, de livres, de musiques ou d’autres données numérisées, je veux pouvoir les partager avec tous ceux que ça intéressent sans que personne ne se mêle de nos échanges. Ces biens sont devenus aussi fugitifs que les idées et ils appartiennent à tous les hommes curieux.<span id="more-8132"></span>
+Si je dispose de films, de livres, de musiques ou d’autres données numérisées, je veux pouvoir les partager avec tous ceux que ça intéressent sans que personne ne se mêle de nos échanges. Ces biens sont devenus aussi fugitifs que les idées et ils appartiennent à tous les hommes curieux.
 
 Au passage, je sais que je peux violer des droits d’auteur. Je suis donc pour une nouvelle forme de rémunération des auteurs. Plutôt qu’elle s’effectue a priori, j’achète puis je vois, elle doit s’effectuer a posteriori, je vois puis j’achète si je suis satisfait.
 

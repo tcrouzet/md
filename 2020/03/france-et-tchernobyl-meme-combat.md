@@ -1,6 +1,6 @@
 # France et Tchernobyl, même combat
 
-Pendant que beaucoup d’auteurs parlent des oisillons qui se posent sur leur balcon, des abeilles qui se réveillent dans leur jardin, ou de leurs ados qui crisent (j’ai tout ça aussi et même une malade à la maison), le confinement me rend furieux et ne me laisse pas une seconde pour respirer.<span id="more-53676"></span>
+Pendant que beaucoup d’auteurs parlent des oisillons qui se posent sur leur balcon, des abeilles qui se réveillent dans leur jardin, ou de leurs ados qui crisent (j’ai tout ça aussi et même une malade à la maison), le confinement me rend furieux et ne me laisse pas une seconde pour respirer.
 
 Je ne suis pas furieux parce que je suis confiné, je le suis à cause de ce que je ressens, de ce que je vois, surtout de ce que je lis et entends dans les news : la déraison d’État. À croire que tout la haut ils n’ont pas compris les règles élémentaires de la prévention et du contrôle des infections (PCI), qu’aucun spécialiste de ce champ médical n’est à leur côté ou qu’ils ne l’écoutent pas, ivres de leur propre délire autoritaire. Le but n’est plus de théoriser sur la vitesse de propagation du virus, mais de lutter contre lui avec sérieux et rigueur.
 

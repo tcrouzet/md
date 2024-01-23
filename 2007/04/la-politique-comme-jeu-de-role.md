@@ -1,6 +1,6 @@
 # La politique comme jeu de rôle
 
-Je voudrais être franc avec vous, essayez de respecter [mon idéal de transparence](http://blog.tcrouzet.com/2007/04/25/gandhi-et-l%e2%80%99open-source/). Je ne crois pas une seconde que les candidats à la présidentielle aient la capacité de changer quoi que ce soit à la face du monde, pas même à celle de la France.<span id="more-442"></span>
+Je voudrais être franc avec vous, essayez de respecter [mon idéal de transparence](http://blog.tcrouzet.com/2007/04/25/gandhi-et-l%e2%80%99open-source/). Je ne crois pas une seconde que les candidats à la présidentielle aient la capacité de changer quoi que ce soit à la face du monde, pas même à celle de la France.
 
 Cette position vous la connaissez mais il y en a une autre sur laquelle j’ai maintenu un certain flou ces derniers mois. J’aimerais remettre les choses au clair au sujet de mon engagement politique au sens traditionnel en commençant par un retour en arrière.
 

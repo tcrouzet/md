@@ -1,6 +1,6 @@
 # Truc : invitez tous vos amis Facebook
 
-C’est génial Facebook, on peut créer des pages et des évènements et y convier ses amis. Sauf qu’il faut cliquer sur chacun d’eux un à un. Dès qu’on a plus d’une centaine d’amis, c’est rébarbatif.<span id="more-32037"></span>
+C’est génial Facebook, on peut créer des pages et des évènements et y convier ses amis. Sauf qu’il faut cliquer sur chacun d’eux un à un. Dès qu’on a plus d’une centaine d’amis, c’est rébarbatif.
 
 Confronté à ce problème lorsque je crée une page pour [un de mes livres](http://tcrouzet.com/bibliographie/) ou un évènement pour une soirée de lancement, j’ai cherché une solution plus pratique.
 

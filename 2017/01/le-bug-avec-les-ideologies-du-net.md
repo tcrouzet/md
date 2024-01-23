@@ -1,6 +1,6 @@
 # Le bug avec les idéologies du Net
 
-Depuis une trentaine d’années, nous n’avons pas été avares en nouvelles théories politiques qui devaient changer le monde si elles étaient appliquées.<span id="more-44727"></span>
+Depuis une trentaine d’années, nous n’avons pas été avares en nouvelles théories politiques qui devaient changer le monde si elles étaient appliquées.
 
 - Les logiciels libres, l’art libre, les monnaies libres… vs les logiciels propriétaires, les œuvres sous copyright, les monnaies privatives de liberté.
 
@@ -22,7 +22,7 @@ Je reprends le cas du logiciel libre. Un beau matin, Richard Stallman a une illu
 
 Qui a démontré que les quatre libertés étaient nécessaires pour les logiciels, et surtout qu’elles participaient à la fraternité ? Il ne s’agit même pas de chercher une démonstration, nous sommes dans l’humain, dans le social. Il ne faut donc pas démontrer, mais observer. Qui a observé sur le terrain que le logiciel libre participait à la fraternité ? Si on ne fait pas ce travail, on reste dans l’idéologie et l’idéologie participe bien rarement à la fraternité.
 
-![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/01/jcfrog-600x547.png)
+![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2017/01/jcfrog-600x547.png)Conversation initiée par Goofy à suivre sur Twitter…
 
 Une valeur est de l’ordre de la croyance, ou de la convention sociale. Ce n’est pas quelque chose qui se soumet à la preuve. En revanche, c’est très différent pour les théories susceptibles de contribuer au développement d’une valeur. Si on ne peut jamais prouver une théorie politique puisqu’on est dans le domaine social, on peut en revanche observer ses conséquences, parfois désastreuses. Pensons au communisme qui sur le papier devait contribuer à la fraternité, mais qui a eu l’effet inverse.
 

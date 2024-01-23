@@ -2,7 +2,7 @@
 
 Vous autres agrégateurs de toute espèce partez d’un postulat erroné : vous nous donnez à nous blogueurs la visibilité, vous encaissez les bénéfices.
 
-Mauvaise analyse.<span id="more-23027"></span>
+Mauvaise analyse.
 
 Le blogueur se moque de la visibilité. Qu’il soit beaucoup lu ou peu lu ne lui rapporte rien.
 
@@ -44,7 +44,7 @@ Au moins n’ont-ils jamais fait disparaître les pages elles-mêmes. Ils ont co
 
 Il est peut-être déjà trop tard.
 
-### <a name="addendum"></a>Addendum MegaUpload
+### Addendum MegaUpload
 
 Je suis pour la libre copie. J'estime que si un lecteur ne peut pas se payer un de mes livres, il doit pouvoir le lire. En revanche, il me paraît dangereux de laisser des sites s'engraisser en diffusant des copies pirates. Les copies doivent circuler librement en P2P, de manière décentralisée, sans point de péage. La fermeture de MegaUpload (et moins sa prochaine réouverture) est une bonne chose (même si je condamne la méthode qui, elle, révèle la peur panique d'un système qui s'effondre).
 

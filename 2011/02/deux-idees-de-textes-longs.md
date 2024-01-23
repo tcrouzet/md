@@ -1,6 +1,6 @@
 # Deux idées de textes longs
 
-Je ne me sens pas bien quand je ne travaille pas sur un texte long. Où je plonge, où je creuse, où je cherche quelque chose d’indicible.<span id="more-21247"></span>
+Je ne me sens pas bien quand je ne travaille pas sur un texte long. Où je plonge, où je creuse, où je cherche quelque chose d’indicible.
 
 Le blog comble mon désir d’immédiateté et de fulgurance. Intuitions immédiatement exposées. Stockées en ligne pour y revenir éventuellement, le plus souvent pas. Coups de gueule. Exaspérations devant notre monde qui se traîne. Devant tous ces encartés des partis politiques avec leur mépris pour les gens qui, comme moi, ne voient plus leur utilité.
 

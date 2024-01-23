@@ -1,6 +1,6 @@
 # Garmin : au-delà de 8000 points, votre trace n&#8217;est plus valable
 
-Si comme moi vous roulez des traces créées avec [Garmin BaseCamp](https://www.garmin.com/fr-FR/software/basecamp/), l’outil de dessin le plus puissant à notre disposition, bien plus performant que les services en ligne, vous êtes peut-être tombés sur un bug des plus ennuyeux, parce qu’il survient sur le terrain, une fois bien engagé sur la trace.<span id="more-60396"></span>
+Si comme moi vous roulez des traces créées avec [Garmin BaseCamp](https://www.garmin.com/fr-FR/software/basecamp/), l’outil de dessin le plus puissant à notre disposition, bien plus performant que les services en ligne, vous êtes peut-être tombés sur un bug des plus ennuyeux, parce qu’il survient sur le terrain, une fois bien engagé sur la trace.
 
 J’ai découvert le problème peu de temps [après avoir troqué mon Garmin 820 contre un 530](https://tcrouzet.com/2020/10/16/pourquoi-jai-rachete-gps-garmin/?swcfpc=1). Lors d’une sortie, après une vingtaine de kilomètres, ma trace manquait de précision, des secteurs entiers étaient remplacés par des lignes droites. Une amie qui roulait avec un 1030 avait le même problème, pendant que tout fonctionnait normalement avec les Wahoo.
 

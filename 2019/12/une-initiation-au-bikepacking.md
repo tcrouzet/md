@@ -1,6 +1,6 @@
 # Une initiation au bikepacking : le livre
 
-[Quand j’ai commencé à écrire sur le vélo](https://tcrouzet.com/2018/11/27/lart-du-velo/), je n’avais pas anticipé que mes textes me pousseraient vers une nouvelle façon de faire du vélo qui, en retour, influencerait ma façon d’écrire. En l’affaire de quelques mois, j’ai découvert des possibilités magnifiques et rencontré des cyclistes merveilleux.<span id="more-53196"></span>
+[Quand j’ai commencé à écrire sur le vélo](https://tcrouzet.com/2018/11/27/lart-du-velo/), je n’avais pas anticipé que mes textes me pousseraient vers une nouvelle façon de faire du vélo qui, en retour, influencerait ma façon d’écrire. En l’affaire de quelques mois, j’ai découvert des possibilités magnifiques et rencontré des cyclistes merveilleux.
 
 Ces dernières semaines, j’ai pris conscience que j’avais accumulé assez de matière pour [un livre, où je raconterais mon initiation au bikepacking](https://www.amazon.fr/dp/167615681X?ref_=pe_3052080_397514860), commencée à l’automne 2018 alors que je vivais en Floride. Il m’a semblé que raconter mon parcours, de mes tâtonnements à mes premiers voyages, pourrait inspirer d’autres cyclistes.
 

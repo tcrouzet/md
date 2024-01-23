@@ -5,14 +5,12 @@ Lors du référendum pour le traité de Constitution européenne, internet aurai
 ![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/pie.jpg) 
 
 Je viens de lire étude publiée le 19 juillet par [Pew Internet &amp; American Life Project](http://www.pewinternet.org/PPF/r/186/report_display.asp) qui décrit la blogosphère américaine, notamment son rapport à la politique.
-
-**8 %** des internautes américains bloguent (soit 12 millions de blogueurs).
+ des internautes américains bloguent (soit 12 millions de blogueurs).
 
 39 % des internautes lisent des blogs (soit 57 millions d’internautes).
 
 37 % des blogueurs parlent de leur vie (sujet de prédilection).
-
-**11 %** des blogueurs parlent de politique (second sujet de prédilection).
+ des blogueurs parlent de politique (second sujet de prédilection).
 
 54 % des blogueurs ont moins de 30 ans.
 

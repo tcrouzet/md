@@ -1,12 +1,14 @@
 # C’est beau le crowdfunding, mais c’est une arnaque de plus
 
-C’est quoi le Web 2.0 ? Un ensemble de plateformes qui proposent aux internautes de partager le fruit de leur travail (sans être rémunérés). Et quand l’un gagne quelque chose, souvent de la popularité, c’est pour donner espoir à la masse de tous les autres ouvriers anonymes.<span id="more-35311"></span>
+C’est quoi le Web 2.0 ? Un ensemble de plateformes qui proposent aux internautes de partager le fruit de leur travail (sans être rémunérés). Et quand l’un gagne quelque chose, souvent de la popularité, c’est pour donner espoir à la masse de tous les autres ouvriers anonymes.
 
 Dans le Web 2.0, il y a un acteur qui gagne à tous les coups, ou presque, c’est la plateforme. Suffit de voir à quoi songent nos entrepreneurs, ils ne pensent qu’à nous créer des plateformes pour nous aider à mieux faire tout ce qu’on a toujours su faire sans elles, du moins depuis que le Web existe. Certains imaginent même des plateformes pour mettre en relation ceux qui veulent créer des plateformes. C’est génial (ou ils se croient géniaux, et ils le sont d’une certaine mesure puisque des banquiers fabriquent de l'argent pour les financer... et creusent l'écart entre riches et pauvres).
 
 Tu chasses les intermédiaires par une porte, ils ressurgissent par une autre. L’intermédiaire, c’est le mec ou la fille qui n’a pas d’idée sinon de piquer de la tune aux autres d’une façon ou d’une autre (et qui d’une manière générale ne touche pas sa bille en technologie).
 
-![Kings (of crowdsourcing and collaboration) par opensourceway](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/crowdf.png)
+![Kings (of crowdsourcing and collaboration) par opensourceway](https://www.flickr.com/photos/opensourceway/8288153300/)Kings (of crowdsourcing and collaboration)
+
+ par opensourceway
 
 Ils ont trouvé une idée encore plus géniale. Puisque le travail permet de gagner de l’argent, ils se sont dit autant partager directement de l’argent. Ils ont appelé ça le crowdfunding. Il ont mis en avant tel film ou tel jeu produits par ce moyen et le tour était joué. Plus besoin de se voiler la face. Passez par nous. Aboule le fric et que je t'en prends 10 %. Tout ça bien sûr sous-entend que nous sommes incapables de nous débrouiller nous-mêmes, en pear to pear, sans nous faire tondre la laine sur le dos avant même quelle ne pousse.
 

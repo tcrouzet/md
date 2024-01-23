@@ -1,6 +1,6 @@
 # Twitter en huit tweets
 
-Pour [Cocorico Hebdo](http://cocorico-hebdo.tumblr.com/), Frédéric Bardeau a lancé une interview par tweets. Je m’y amuse.<span id="more-28597"></span>
+Pour [Cocorico Hebdo](http://cocorico-hebdo.tumblr.com/), Frédéric Bardeau a lancé une interview par tweets. Je m’y amuse.
 
 *— Votre rencontre avec Twitter, c’est où, quand, comment et avec qui ?*
 

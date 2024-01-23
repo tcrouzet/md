@@ -1,6 +1,6 @@
 # Le superorganisme en question
 
-[Comme ma chronologie le montre](http://blog.tcrouzet.com/2009/08/18/chronologie-du-superorganisme/), j’ai lu et parcouru pas mal de textes sur le superorganisme et quelque chose me déplait encore dans cette théorie, je suis attiré, repoussé. Les relents de philosophie intégrale me dérangent (bien plus que le problème du totalitarisme facile à balayer – et balayé par tous les auteurs qui ont travaillé sur le sujet). J’ai d’autres objections.<span id="more-8607"></span>
+[Comme ma chronologie le montre](http://blog.tcrouzet.com/2009/08/18/chronologie-du-superorganisme/), j’ai lu et parcouru pas mal de textes sur le superorganisme et quelque chose me déplait encore dans cette théorie, je suis attiré, repoussé. Les relents de philosophie intégrale me dérangent (bien plus que le problème du totalitarisme facile à balayer – et balayé par tous les auteurs qui ont travaillé sur le sujet). J’ai d’autres objections.
 
 ### Problème d’échelle
 

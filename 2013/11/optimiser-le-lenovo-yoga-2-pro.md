@@ -1,6 +1,6 @@
 # Optimiser le Lenovo Yoga 2 Pro
 
-Le Lenovo est extraordinaire. Je suis sans réserve, je n’ai jamais eu une machine aussi sensuelle entre les mains, ne serait-ce que par la délicatesse de l’écran 3200x1600. Quant à la fonction « Transformer », elle m’est déjà indispensable. Reste que par sa nouveauté, son avance, la machine demande pas mal de doigté au moment de la prise en main.<span id="more-33796"></span>
+Le Lenovo est extraordinaire. Je suis sans réserve, je n’ai jamais eu une machine aussi sensuelle entre les mains, ne serait-ce que par la délicatesse de l’écran 3200x1600. Quant à la fonction « Transformer », elle m’est déjà indispensable. Reste que par sa nouveauté, son avance, la machine demande pas mal de doigté au moment de la prise en main.
 
 Ce billet est destiné à évoluer au fur et à mesure que ma pratique du Yoga progressera. J’essaierai de consigner mes réglages et optimisations, pour les partager, aussi par mesure de sécurité si je devais un jour réinstaller de zéro.
 

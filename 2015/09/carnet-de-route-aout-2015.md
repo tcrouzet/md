@@ -24,6 +24,8 @@ Une lectrice me dit qu’elle préfère me lire en ligne qu’en ebook ou en liv
 
 ![Lors d'un footing en fin d'après-midi sur les hauteurs de Saint-Avit.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/09/IMG_3544.jpg)
 
+Lors d'un footing en fin d'après-midi sur les hauteurs de Saint-Avit.
+
 ### Dimanche 23, Balaruc
 
 Si je parlais allemand, j’écrirais la vie de [Franz Xaver Kappus](https://en.wikipedia.org/wiki/Franz_Xaver_Kappus) pour essayer de comprendre si les lettres que lui adressait Rilke ont influencé sa vie. Il me paraît toujours aussi important d’écrire des vies et d’en lire, pour essayer de mieux mener la sienne, et il n’existe aucun âge pour cesser de se réformer.
@@ -41,6 +43,8 @@ Quand j’ai lu pour la première fois les lettres de Rilke, je n’ai pas eu la
 On va à la mer jouer dans les vagues. On se glisse entre deux orages. Ciel terrible au-dessus des collines derrière nous. De retour à la maison, les enfants posent leurs combis et courent nus sous les trombes d’eau.
 
 ![Retour à la maison.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/09/IMG_3606.jpg)
+
+Retour à la maison.
 
 ### Lundi 24, Balaruc
 

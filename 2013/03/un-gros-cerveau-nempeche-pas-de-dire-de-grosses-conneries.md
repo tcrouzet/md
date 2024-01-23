@@ -1,6 +1,6 @@
 # Un gros cerveau n’empêche pas de dire de grosses conneries
 
-Dans [*Le Monde*](http://www.emerydolige.fr/qi-laurent-alexandre-nbic), Laurent Alexandre, patron de Doctissimo, et sans aucun doute gros QI, semble émettre l’hypothèque qu’il faut cultiver les génies. Et pourquoi pas les élever en batterie dans des fermes ?<span id="more-31881"></span>
+Dans [*Le Monde*](http://www.emerydolige.fr/qi-laurent-alexandre-nbic), Laurent Alexandre, patron de Doctissimo, et sans aucun doute gros QI, semble émettre l’hypothèque qu’il faut cultiver les génies. Et pourquoi pas les élever en batterie dans des fermes ?
 
 Je réagis parce que mon fils aîné a été déclaré haut potentiel. Dans certains domaines, il obtient des scores vertigineux. J’ai donc rencontré des psychologues. Je me suis battu avec l’école et l’académie. Et alors ? Je veux juste qu’il s’éclate.
 

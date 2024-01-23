@@ -1,6 +1,6 @@
 # La troisième démocratie 1
 
-[Narvic](http://narvic.fr) me parle souvent du livre de Jacqueline de Romilly *Problèmes de la démocratie grecque*. Lecture stimulante et que tous ceux qui s’intéressent à la démocratie devraient lire en effet. Je ne vais pas effectuer un compte rendu du livre car Narvic veut en faire un et il le fera plus méticuleusement que moi. Je me contente de lire avec en tête trois formes possibles de démocratie.<span id="more-11669"></span>
+[Narvic](http://narvic.fr) me parle souvent du livre de Jacqueline de Romilly *Problèmes de la démocratie grecque*. Lecture stimulante et que tous ceux qui s’intéressent à la démocratie devraient lire en effet. Je ne vais pas effectuer un compte rendu du livre car Narvic veut en faire un et il le fera plus méticuleusement que moi. Je me contente de lire avec en tête trois formes possibles de démocratie.
 
 1. La démocratie représentative qui est la nôtre et que je pense en bout de course (je commence à deviner qu'elle va de pair avec l’information solide).
 2. La démocratie directe que les Grecs ont poussée à son summum tout en critiquant ses faiblesses, objet du livre de Romilly (va de pair avec l’information pour une grande part gazeuse, la vox populi).

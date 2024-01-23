@@ -1,6 +1,6 @@
 # Les écrivains ne se cachent plus pour mourir
 
-Avant, tu écrivais et le plus souvent tu gardais tes papiers dans un tiroir. Si tu avais confiance en toi ou si un tiers te faisais confiance, un éditeur par exemple, tes papiers se retrouvaient transformés en livres. Tu apparaissais au grand jour. Tu devenais un écrivain vivant.<span id="more-39410"></span>
+Avant, tu écrivais et le plus souvent tu gardais tes papiers dans un tiroir. Si tu avais confiance en toi ou si un tiers te faisais confiance, un éditeur par exemple, tes papiers se retrouvaient transformés en livres. Tu apparaissais au grand jour. Tu devenais un écrivain vivant.
 
 Désormais, nous n’avons plus de tiroir. Nous rangeons nos textes directement sur le Net, aux yeux de tous. Autant de textes qui jadis n’auraient jamais été accessibles, autant de mort-nés donnés à voir, et donnant à voir la mort même de leur l’auteur. Le Web est devenu un cimetière littéraire.
 
@@ -29,6 +29,8 @@ Oui, c’est injuste. Beaucoup de choses le sont et les regarder avec la lorgnet
 Tu te dis peut-être qu’avec ce revenu tu aurais le temps d’écrire l’œuvre qui t’amènerait les lecteurs dont tu rêves. Tu t’illusionnes. Parce que si toi tu réussis, la plupart des autres échoueront et, en toute probabilité, tu finiras dans leurs rangs. Même avec tout le temps du monde tous les auteurs ne peuvent avoir des lecteurs. Alors tous ces auteurs sans lecteurs sont déjà morts et leurs œuvres pourrissent dans les cimetières du Web.
 
 ![Alors je fais des photos.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/alpe.jpg)
+
+Alors je fais des photos.
 
 
 

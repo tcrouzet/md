@@ -1,6 +1,6 @@
 # La démocratie inachevée
 
-L’idéal démocratique ne s’accomplira que si nous envisageons tous les modes possibles d’organisation de la société, et non seulement le modèle pyramidal qui implique la représentation de type monarchiste. Certains secteurs de la société ont peut-être besoin de pyramidal, d’autres non. Seulement, faudrait-il accepter les autres possibilités ! [Nadia vient de me faire repenser à ces questions par ses questions.](http://blog.tcrouzet.com/2006/02/23/mais-qui-sont-les-connecteurs/#comment-74427)<span id="more-14283"></span>
+L’idéal démocratique ne s’accomplira que si nous envisageons tous les modes possibles d’organisation de la société, et non seulement le modèle pyramidal qui implique la représentation de type monarchiste. Certains secteurs de la société ont peut-être besoin de pyramidal, d’autres non. Seulement, faudrait-il accepter les autres possibilités ! [Nadia vient de me faire repenser à ces questions par ses questions.](http://blog.tcrouzet.com/2006/02/23/mais-qui-sont-les-connecteurs/#comment-74427)
 
 ### Qu’est-ce que l’auto-organisation ?
 

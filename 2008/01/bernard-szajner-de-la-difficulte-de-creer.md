@@ -1,6 +1,6 @@
 # Bernard Szajner : de la difficulté de créer
 
-À l’instigation d’[Henri Alberti](http://henrialberti.blogspot.com/), j’ai rencontré [Szajner](http://www.szajner.net), un sexagénaire avec des projets de jeune homme. Son métier : créer des animations lumineuses. Son art : toucher à tout, à la lumière bien sûr pour la sculpter, à la musique aussi pour créer de subtiles ambiances électroniques.<span id="more-742"></span>
+À l’instigation d’[Henri Alberti](http://henrialberti.blogspot.com/), j’ai rencontré [Szajner](http://www.szajner.net), un sexagénaire avec des projets de jeune homme. Son métier : créer des animations lumineuses. Son art : toucher à tout, à la lumière bien sûr pour la sculpter, à la musique aussi pour créer de subtiles ambiances électroniques.
 
 Alberti nous a connecté parce que je suis un fan de [Magazine](http://www.shotbybothsides.com/) et parce que le chanteur de magazine Howard Devoto a enregistré un disque avec Szajner. Pour ma génération, Devoto est un mythe, l’animateur d’un des groupes les plus créatifs de la fin des années 1970, qui influença le son de toute une génération.
 

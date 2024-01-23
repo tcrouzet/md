@@ -1,6 +1,6 @@
 # Les faux éditeurs siphonnent les petits auteurs
 
-Lors d’un échange par mail, un éditeur m’a déclaré : « Je ne savais pas qu'il fallait donner des à-valoir pour être reconnu comme un éditeur. On est en 2017, pas dans les années 90. \[…\] **À-valoir**, **numérique**, **pure-player**… c'est pas cela qui me préoccupe aujourd'hui et c'est dépassé, je pense. »<span id="more-44868"></span>
+Lors d’un échange par mail, un éditeur m’a déclaré : « Je ne savais pas qu'il fallait donner des à-valoir pour être reconnu comme un éditeur. On est en 2017, pas dans les années 90. \[…\] **À-valoir**, **numérique**, **pure-player**… c'est pas cela qui me préoccupe aujourd'hui et c'est dépassé, je pense. »
 
 Voilà bien un propos d’éditeur, pas loin d’être méprisant pour les auteurs.
 

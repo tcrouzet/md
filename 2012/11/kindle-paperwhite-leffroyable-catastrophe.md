@@ -1,6 +1,6 @@
 # Kindle paperwhite : l’effroyable catastrophe
 
-Je suis fan absolu du [Kindle à 79 €](http://www.amazon.fr/gp/product/B007HCCOD0?ie=UTF8&tag=tcrouzetcom-21&linkCode=xm2&camp=1642&creativeASIN=B007HCCOD0), ancienne génération. Il ne me quitte jamais. Je l’oublie moins souvent que mon iPhone. C’est à ce jour le reader ultime.<span id="more-30067"></span>
+Je suis fan absolu du [Kindle à 79 €](http://www.amazon.fr/gp/product/B007HCCOD0?ie=UTF8&tag=tcrouzetcom-21&linkCode=xm2&camp=1642&creativeASIN=B007HCCOD0), ancienne génération. Il ne me quitte jamais. Je l’oublie moins souvent que mon iPhone. C’est à ce jour le reader ultime.
 
 Alors, quand Amazon a annoncé son successeur [le Paperwhite](http://www.amazon.fr/gp/product/B007OZO03M/ref=as_li_tf_tl?ie=UTF8&tag=tcrouzetcom-21&linkCode=as2&camp=1642&creative=6746&creativeASIN=B007OZO03M), je l’ai immédiatement précommandé. Et je l’ai reçu le jour même de sa sortie, presque avec une fébrilité enfantine, celle que nous éprouvions durant les années 1980-1990, quand entre deux machines les bonds technologiques étaient foudroyants.
 

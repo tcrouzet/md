@@ -1,6 +1,6 @@
 # Écologiser le vélo
 
-Depuis la mort de Bruno Latour, je ne me suis jamais autant intéressé à sa philosophie. Même si certaines de ses thèses me paraissent critiquables, elles m’aident à mieux définir pourquoi j’attache autant d’importance à explorer mon territoire à vélo.<span id="more-64503"></span>
+Depuis la mort de Bruno Latour, je ne me suis jamais autant intéressé à sa philosophie. Même si certaines de ses thèses me paraissent critiquables, elles m’aident à mieux définir pourquoi j’attache autant d’importance à explorer mon territoire à vélo.
 
 Selon Latour, nous n’avons jamais été moderne, en ce sens que « moderniser » est un mot d’ordre vide, que personne n’a jamais réussi à définir, qui supposait que l’homme dominait la nature et s’en affranchissait dans une course perpétuelle en avant. Nous sommes désormais obligés d’admettre que ce rêve absolutiste est irréalisable, du moins temporairement. Nous habitons Gaia, entre ciel et terre, une fine couche d’un écosystème fragile, dont nous ne sommes en rien les maîtres, mais que nous avons le don de compromettre et qui nous rend coup pour coup.
 

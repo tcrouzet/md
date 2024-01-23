@@ -1,10 +1,12 @@
 # Pourquoi continuer avec un éditeur ?
 
-Est-il temps de tourner définitivement le dos à l’édition traditionnelle ? Je n’ai pour le moment que des bribes de réponses, mais déjà quelques enseignements.<span id="more-37358"></span>
+Est-il temps de tourner définitivement le dos à l’édition traditionnelle ? Je n’ai pour le moment que des bribes de réponses, mais déjà quelques enseignements.
 
 Si j’en crois mes stats Analytics via Cloudflare, 42 000 visiteurs uniques sont passés sur mon blog durant les 30 derniers jours, c’est-à-dire depuis la sortie d’[*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).
 
 ![Statistiques de mon blog sur les 30 derniers jours.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/tr1.png)
+
+Statistiques de mon blog sur les 30 derniers jours.
 
 Tous ont vu la bande-annonce du roman en haut de mes pages, seulement 400 l’ont visionnée durant cette période, soit un taux de conversion de 1 %, taux classique pour une publicité ordinaire, sauf que ce n’est pas une publicité ordinaire, mais la raison même de ce blog. Conclusion : la plupart des visiteurs se fichent bien de savoir où ils débarquent. Ils passent ma porte comme des malotrus, oubliant qu’ils entrent chez quelqu’un et non dans un vulgaire supermarché. Toute une éducation à refaire.
 

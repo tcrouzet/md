@@ -1,6 +1,6 @@
 # L’arnaque à la réputation
 
-On dirait qu’on mange la gloire, qu’on en remplit son frigidaire, qu’elle nous ouvre toutes les portes… À ce jour, je n’ai jamais trouvé un boulanger, un restaurateur ou un voyagiste pour accepter cette monnaie, encore moins un vendeur de téléphones ou d’ordis.<span id="more-37832"></span>
+On dirait qu’on mange la gloire, qu’on en remplit son frigidaire, qu’elle nous ouvre toutes les portes… À ce jour, je n’ai jamais trouvé un boulanger, un restaurateur ou un voyagiste pour accepter cette monnaie, encore moins un vendeur de téléphones ou d’ordis.
 
 Une histoire vécue. Le rédacteur en chef d’un média en ligne/papier me demande s’il peut reprendre mon article sur [la fin de l’artisanat numérique](http://blog.tcrouzet.com/2014/09/16/la-fin-de-lartisanat-numerique/). Comme je l’ai écrit pour un autre média et que j’ai été rémunéré pour ce travail, je lui conseille de discuter avec mes commanditaires. Je lui glisse au passage que j’ai en réserve des idées pour des sujets comparables et que je peux lui en proposer d’autres.
 
@@ -38,7 +38,9 @@ Je n’ai que faire de votre injonction « être visible », ce n’est pas ce
 
 Je prends conscience que la monnaie est un facteur de libération. Je préfère avoir de l’argent pour m’acheter à manger plutôt qu’on m’offre tous les jours à manger. Avec l’argent, je mange ce que je veux. Et je peux même moins manger pour me payer autre chose. Le journaliste de mon histoire voulait à tout prix que je mange la soupe de la visibilité alors que je préfère les fruits interdits. Comment lui faire comprendre que ce n’est pas à lui de décider de ma vie ? Tout simplement en l’envoyant promener. J’ai encore ce privilège, et c’est peut-être le dernier.
 
-![Ma visibilité me paye aujourd'hui un voyage vers Lyon pour une conférence qui ne me sera pas rémunéré (j'ai accepté pour un ami).](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/loco.jpg)
+![Ma visibilité me paye aujourd'hui un voyage vers Lyon pour une conférence qui ne me sera pas rémunéré (j'ai accepté pour un ami).](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/loco.jpg)Ma visibilité me paye aujourd'hui un voyage vers Lyon pour une conférence qui ne me sera pas payée (j'ai accepté pour un ami)
+
+.
 
 
 

@@ -1,6 +1,6 @@
 # Connexion avec Paul Valéry
 
-Isabelle a rangé par ordre alphabétique les livres de notre bibliothèque, les siens et les miens, qui depuis dix ans étaient dans le plus grand désordre. Maintenant, elle regarde ce que nous avons sur les auteurs qu’elle croise au fil de ses lectures. Elle clique en quelque sorte de livre en livre. Elle est tombée sur mon vieil exemplaire de *Tel quel* de Paul Valéry.<span id="more-18098"></span>
+Isabelle a rangé par ordre alphabétique les livres de notre bibliothèque, les siens et les miens, qui depuis dix ans étaient dans le plus grand désordre. Maintenant, elle regarde ce que nous avons sur les auteurs qu’elle croise au fil de ses lectures. Elle clique en quelque sorte de livre en livre. Elle est tombée sur mon vieil exemplaire de *Tel quel* de Paul Valéry.
 
 Je l’ai lu il y a peut-être 25 ans et l’ai digéré au point d’être incapable de parler de ce texte, mais Isabelle a collectionné une série de citations qui toutes pourraient prendre place dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) et dans les scribouilleries qui m’occupent en ce moment.
 

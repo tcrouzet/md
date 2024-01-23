@@ -1,6 +1,6 @@
 # L’histoire n&#8217;avance pas dans le temps, seulement dans l&#8217;espace
 
-Je prends peu à peu conscience que travailler avec Ulysses et publier sur Wattpad influence en profondeur mon feuilleton *1 minute*. Grâce à son système de recherche, Ulysses m’aide à naviguer dans mes fragments, à gérer une quarantaine de fuseaux horaires, des centaines de lieux et de personnages (inimaginable avec Word, encore plus avec des fiches papier). Tout en facilitant la diffusion d’un récit par épisodes, Wattpad m’envoie, quant à lui, des lecteurs fidèles, curieux, perspicaces.<span id="more-41595"></span>
+Je prends peu à peu conscience que travailler avec Ulysses et publier sur Wattpad influence en profondeur mon feuilleton *1 minute*. Grâce à son système de recherche, Ulysses m’aide à naviguer dans mes fragments, à gérer une quarantaine de fuseaux horaires, des centaines de lieux et de personnages (inimaginable avec Word, encore plus avec des fiches papier). Tout en facilitant la diffusion d’un récit par épisodes, Wattpad m’envoie, quant à lui, des lecteurs fidèles, curieux, perspicaces.
 
 ![1 Minute a franchi les 100 000 chapitres lus.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/100k1-600x376.jpg)
 

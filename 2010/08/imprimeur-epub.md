@@ -1,6 +1,6 @@
 # Nouveau métier : imprimeur d’ePub
 
-Depuis quelques mois, je joue avec le format ePub, un format dérivé d’HTML pour mettre en forme les textes électroniques et les diffuser sur toutes les liseuses, même l’iPad. J’ai ouvert des centaines de fichiers créés par d’autres. Presque chaque fois, j’ai été horrifié.<span id="more-18256"></span>
+Depuis quelques mois, je joue avec le format ePub, un format dérivé d’HTML pour mettre en forme les textes électroniques et les diffuser sur toutes les liseuses, même l’iPad. J’ai ouvert des centaines de fichiers créés par d’autres. Presque chaque fois, j’ai été horrifié.
 
 C’est une réaction habituelle chez moi. Quand je regarde le code d’un site Web dont les pages ont été composées avec Dreamweaver, je constate le même amateurisme. Les pros, ils codent à la main, en direct. Si vous étiez écrivain, est-ce que vous dicteriez vos textes à un étranger qui parle mal votre langue et qui retranscrirait votre texte dans sa langue à lui ? A priori, non. C’est pourtant ce que font la plupart de ceux qui créent des fichiers ePub, souvent avec InDesign.
 

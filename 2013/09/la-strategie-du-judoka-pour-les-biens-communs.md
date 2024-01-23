@@ -1,6 +1,6 @@
 # La stratégie du judoka pour les biens communs
 
-Quand on veut voir un quelconque changement se produire dans le monde, on peut supposer que certaines stratégies fonctionnent, d’autres pas.<span id="more-33337"></span>
+Quand on veut voir un quelconque changement se produire dans le monde, on peut supposer que certaines stratégies fonctionnent, d’autres pas.
 
 J’entends souvent crier au boycott des produits Apple, Google, Amazon… pour s’opposer à leur toute-puissance dictatoriale.
 

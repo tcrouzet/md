@@ -1,12 +1,14 @@
 # Partages marchands : un business plan n’est pas une théorie
 
-Laurent Fournier est un virulent critique du [commonisme](http://blog.tcrouzet.com/2013/11/26/amis-commonistes/). Ses critiques m’ont souvent poussé ces derniers mois à écrire de nouveaux articles pour lui répondre directement ou indirectement. J’espère qu’il continuera à jouer son rôle stimulant, mais qu’il le fera sans rancœur, sans croire que nous nous sommes ligués pour étouffer sa [*Merchant Sharing Theory*](http://hal.archives-ouvertes.fr/docs/00/90/83/14/PDF/mstheory.pdf).<span id="more-35132"></span>
+Laurent Fournier est un virulent critique du [commonisme](http://blog.tcrouzet.com/2013/11/26/amis-commonistes/). Ses critiques m’ont souvent poussé ces derniers mois à écrire de nouveaux articles pour lui répondre directement ou indirectement. J’espère qu’il continuera à jouer son rôle stimulant, mais qu’il le fera sans rancœur, sans croire que nous nous sommes ligués pour étouffer sa [*Merchant Sharing Theory*](http://hal.archives-ouvertes.fr/docs/00/90/83/14/PDF/mstheory.pdf).
 
 Car c’est au nom de cette théorie qu’il critique le commonisme. Il estime avoir trouvé mieux, et nous serions dans l’erreur à rêver d’une société où le don jouerait un rôle bien plus important qu’aujourd’hui. C’est au nom de sa foi que Laurent tape comme un damné sur l'idée de légalisation des échanges non-marchands alors que sa proposition peut très bien coexister avec de nombreux modèles, le don comme le capitalisme le plus extrême.
 
 Je n’ai peut-être rien compris à la proposition de Laurent. Pour moi, ce n’est pas une théorie, mais un business plan. Laurent nous propose un modèle original pour financer la création. Pour résumer, le créateur décide combien il veut gagner. Les premiers acheteurs paient un prix assez élevé pour le bien et le prix baisse peu à peu jusqu’à tendre vers zéro au moment où la somme visée est atteinte et où le bien passe automatiquement dans le domaine public. J’ai oublié de dire que les premiers acheteurs sont peu à peu remboursés de leur investissement initial. C’est un système d’enchère inversé.
 
 ![Quand le nombre d'acheteurs augmente le revenu plafonne et le prix devient nul.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/fournier.png)
+
+Quand le nombre d'acheteurs augmente le revenu plafonne et le prix devient nul.
 
 Je pense qu’il serait intéressant de créer une plateforme reposant sur ce mécanisme et de voir si elle a du succès. Cela nous dirait si les créateurs et les acheteurs ont envie de jouer ce jeu. Je suis prêt à fournir un texte en exclusivité pour expérimenter le jour où une plateforme sera opérationnelle.
 

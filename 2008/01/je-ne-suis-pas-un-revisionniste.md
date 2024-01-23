@@ -1,6 +1,6 @@
 # Je ne suis pas un révisionniste
 
-Mais je suis un provocateur. Quand tout le monde dit blanc, je dis noir même si je pense blanc. Pour moi, c’est une façon de survivre, de maintenir l’existence de mon identité, de me prouver la possibilité de la liberté (toute relative car mon opposition est presque automatique).<span id="more-738"></span>
+Mais je suis un provocateur. Quand tout le monde dit blanc, je dis noir même si je pense blanc. Pour moi, c’est une façon de survivre, de maintenir l’existence de mon identité, de me prouver la possibilité de la liberté (toute relative car mon opposition est presque automatique).
 
 Quand j’étais adolescent, le disco était la musique à la mode et j’écoutais d’obscurs groupes punks comme Magazine. Il y a en nous certains traits qui ne changent pas avec les années. Même si je les identifie, je suis incapable de les contrôler, je n’en ai même pas envie.
 

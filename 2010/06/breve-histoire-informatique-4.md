@@ -1,6 +1,6 @@
 # Une femme invente la programmation
 
-Les clichés ont la vie dure. Bill Gates à vingt ans incarnait le parfait informaticien. Malingre, boutonneux, lunettes à double foyer, intelligent, mais pas très sociable.<span id="more-17098"></span>
+Les clichés ont la vie dure. Bill Gates à vingt ans incarnait le parfait informaticien. Malingre, boutonneux, lunettes à double foyer, intelligent, mais pas très sociable.
 
 Et les femmes dans ce monde ? Il n’y en aurait pas ? Pourtant, le premier programmateur de tous les temps ne fut pas un homme, mais la comtesse Ada Lovelace.
 

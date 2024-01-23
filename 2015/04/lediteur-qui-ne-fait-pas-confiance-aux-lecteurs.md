@@ -1,6 +1,6 @@
 # L’éditeur qui ne fait pas confiance aux lecteurs
 
-Si les restaurateurs ne faisaient pas confiance à leurs clients, il n’y aurait plus que des MacDo où tu payes avant de manger, même si c’est de la merde.<span id="more-40735"></span>
+Si les restaurateurs ne faisaient pas confiance à leurs clients, il n’y aurait plus que des MacDo où tu payes avant de manger, même si c’est de la merde.
 
 Si les artistes de rue ne s’attendaient plus à récolter un peu d’argent après leurs prestations, ils cesseraient de se produire.
 
@@ -19,6 +19,8 @@ Quand je demande à Pierre un livre pour le chroniquer, je me place sur le plan 
 Notez que la plupart des journalistes qui reçoivent des services de presse papier ne se gênent pas de les revendre. On retrouve leurs exemplaires en solde le jour même de la sortie du livre sur Amazon. Cet exemple démontre qu’on peut se comporter comme un sagouin même avec du papier.
 
 ![Les SP du roman d'Olivier Martinelli que je voulais chroniquer sont déjà en solde. ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/pf3.png)
+
+Les SP du roman d'Olivier Martinelli que je voulais chroniquer sont déjà en solde.
 
 Quant à la fameuse heure nécessaire au piratage d’un livre papier, il m’aurait fallu plus de temps pour chroniquer le livre. Voilà un éditeur qui préfère que je consacre une heure à pirater un de ses livres plutôt que plus de temps à en faire l’éloge. Ses auteurs doivent être ravis. Pierre, à l’avenir, évite de citer ma chronique de [*Terminus mon Ange*](http://blog.tcrouzet.com/2014/02/14/un-ton-neuf-dans-le-polar/), parce que j’y ai passé du temps et parce que tu ne m’as rien payé en échange, pas même offert un de tes ouvrages si précieux. Tu as un sens de la justice pour le moins équivoque. Je ne suis pas étonné quand tu écris encore sur Facebook :
 

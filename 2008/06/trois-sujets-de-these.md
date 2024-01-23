@@ -1,6 +1,6 @@
 # Trois sujets de thèse
 
-<nocozop>En discutant la semaine dernière avec des chercheurs, j’ai évoqué quelques idées de thèses qu’ils pourraient soumettre à leurs étudiants et dont j’aimerais connaître les conclusions. Ces idées m’étaient venues en 2005 lorsque j’écrivais *Le peuple des connecteurs*.
+En discutant la semaine dernière avec des chercheurs, j’ai évoqué quelques idées de thèses qu’ils pourraient soumettre à leurs étudiants et dont j’aimerais connaître les conclusions. Ces idées m’étaient venues en 2005 lorsque j’écrivais *Le peuple des connecteurs*.
 
 ### Réseau social des équipes de foot
 
@@ -12,4 +12,4 @@ Lorsque nous effectuons des simulations, celle d’un tas de sable par exemple, 
 
 ### Dynamique sociale de l’auto-organisation
 
-Si nous prenons une flotte d’oiseaux auto-organisés par exemple, il me paraît intéressant de tracer la dynamique du réseau social de la flotte. Quels oiseaux volent à proximité de tel autre par exemple ? Nous pourrions tracer un réseau qui évolue dans le temps. Peut-être que la topologie de ce réseau nous aiderait à trouver une signature de l’auto-organisation… et à découvrir les règles génératives qui nous manquent encore.</nocozop>
+Si nous prenons une flotte d’oiseaux auto-organisés par exemple, il me paraît intéressant de tracer la dynamique du réseau social de la flotte. Quels oiseaux volent à proximité de tel autre par exemple ? Nous pourrions tracer un réseau qui évolue dans le temps. Peut-être que la topologie de ce réseau nous aiderait à trouver une signature de l’auto-organisation… et à découvrir les règles génératives qui nous manquent encore.

@@ -1,6 +1,6 @@
 # Config bikepacking avril 2021
 
-Avril est un mois compliqué. L’hiver comme l’été peuvent s’inviter dans le printemps. Parfois, les journées commencent par des gelées blanches et finissent torrides, du moins dans le Midi. Choisir l’équipement adéquat pour le [727](https://tcrouzet.com/727tour/) est donc un casse-tête, surtout côté fringues, d’autant que nous commencerons à pédaler en plaine, puis passerons deux jours au-dessus des 1 000 mètres.<span id="more-58371"></span>
+Avril est un mois compliqué. L’hiver comme l’été peuvent s’inviter dans le printemps. Parfois, les journées commencent par des gelées blanches et finissent torrides, du moins dans le Midi. Choisir l’équipement adéquat pour le [727](https://tcrouzet.com/727tour/) est donc un casse-tête, surtout côté fringues, d’autant que nous commencerons à pédaler en plaine, puis passerons deux jours au-dessus des 1 000 mètres.
 
 ### Sacs
 

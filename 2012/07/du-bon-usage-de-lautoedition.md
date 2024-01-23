@@ -1,6 +1,6 @@
 # Du bon usage de l’autoédition
 
-Comme ces dernières années, j’ai expérimenté [différents modes d’autoédition](http://blog.tcrouzet.com/tag/autopublication/) ou d'[édition hybride](http://blog.tcrouzet.com/tune-caniveau/), on m’écrit souvent pour me demander conseil. Plutôt qu’envoyer chaque fois un mail lapidaire, je publie un billet lapidaire.<span id="more-25984"></span>
+Comme ces dernières années, j’ai expérimenté [différents modes d’autoédition](http://blog.tcrouzet.com/tag/autopublication/) ou d'[édition hybride](http://blog.tcrouzet.com/tune-caniveau/), on m’écrit souvent pour me demander conseil. Plutôt qu’envoyer chaque fois un mail lapidaire, je publie un billet lapidaire.
 
 Au cours de mes expériences, je n’étais pas dans la position de l’auteur qui ne trouve pas un éditeur. Je ne me suis donc pas autoédité faute de mieux mais pour des raisons esthétiques et politiques que j’ai explicitées dans [*La stratégie du Cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/) et [*L’édition interdite*](http://blog.tcrouzet.com/edition-interdite/).
 

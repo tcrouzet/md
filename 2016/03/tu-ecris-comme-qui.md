@@ -1,6 +1,6 @@
 # Tu écris comme qui ?
 
-Vous doutez de votre écriture ? Vous voulez savoir comment elle se positionne par rapport à celle d’écrivains que vous respectez ou voulez imiter ? [Antidote](http://mysoft.fr/produit/antidote_correcteur_dictionnaire_grammaire.htm) peut vous servir d’analyste littéraire.<span id="more-43716"></span>
+Vous doutez de votre écriture ? Vous voulez savoir comment elle se positionne par rapport à celle d’écrivains que vous respectez ou voulez imiter ? [Antidote](http://mysoft.fr/produit/antidote_correcteur_dictionnaire_grammaire.htm) peut vous servir d’analyste littéraire.
 
 C’est en testant [la nouvelle version du correcteur](http://tcrouzet.com/2016/03/25/si-tes-auteur-tu-antidotes/), en parcourant notamment ses fonctions statistiques, que j’ai eu l’idée d’une petite analyse stylistique de [*Résistants*](http://tcrouzet.com/2016/01/25/nouveau-projet-resistants/), mon prochain feuilleton dont la publication devrait débuter en avril. C’est un texte grand public à vocation éducative qui j’espère intéressera en particulier la catégorie « jeune adulte ».
 

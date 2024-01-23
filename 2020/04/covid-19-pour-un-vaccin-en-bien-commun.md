@@ -1,6 +1,6 @@
 # Covid-19 : pour un vaccin libre de droits
 
-La possibilité d’un monde d’après différent du monde d’avant est à l’épreuve dès maintenant et nous ne tarderons pas à découvrir ce monde. Soit nous resterons dans le modèle nous maintenant dans un cycle catastrophique en accélération, soit nous en changerons pour nous adapter à la complexité croissante qui s’accompagne d’un haut degré d’incertitude.<span id="more-54090"></span>
+La possibilité d’un monde d’après différent du monde d’avant est à l’épreuve dès maintenant et nous ne tarderons pas à découvrir ce monde. Soit nous resterons dans le modèle nous maintenant dans un cycle catastrophique en accélération, soit nous en changerons pour nous adapter à la complexité croissante qui s’accompagne d’un haut degré d’incertitude.
 
 Si un laboratoire trouve un vaccin contre le Convid-19 et le brevette pour faire le jackpot, rien n’aura changé. Certains croient que le capitalisme est en crise en ce moment. En vérité, il est en train d’être nettoyé de ses cancrelats. Regardez le cours des actions des GAFAM. Par exemple, Microsoft est presque à son plus haut historique, sans même parler d’Amazon. La crise n’est pas pour tout le monde. S’il doit y avoir un changement, il viendra de la politique, non pas du capitalisme.
 

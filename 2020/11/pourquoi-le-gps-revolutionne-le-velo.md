@@ -1,6 +1,6 @@
 # Pourquoi le GPS révolutionne le vélo
 
-[Après l’article où j’explique pourquoi j’ai racheté un GPS Garmin](https://tcrouzet.com/2020/10/16/pourquoi-jai-rachete-gps-garmin/), j’ai découvert que beaucoup de cyclistes rejetaient le GPS ou ne l’utilisaient que comme compteur, voire comme sparring partner. Chacun ses usages, mais je voudrais lister les raisons pour lesquelles le GPS a changé ma façon de faire du vélo, pourquoi cet accessoire est intimement lié au développement du gravel et du bikepacking, et au cœur d’une révolution sportive et culturelle.<span id="more-56041"></span>
+[Après l’article où j’explique pourquoi j’ai racheté un GPS Garmin](https://tcrouzet.com/2020/10/16/pourquoi-jai-rachete-gps-garmin/), j’ai découvert que beaucoup de cyclistes rejetaient le GPS ou ne l’utilisaient que comme compteur, voire comme sparring partner. Chacun ses usages, mais je voudrais lister les raisons pour lesquelles le GPS a changé ma façon de faire du vélo, pourquoi cet accessoire est intimement lié au développement du gravel et du bikepacking, et au cœur d’une révolution sportive et culturelle.
 
 ### La trace
 

@@ -1,6 +1,6 @@
 # Comment transformer un texte en ePub
 
-Ces dernières semaines, après avoir publié un article sur [le nouveau métier d'imprimeur d'ePub](http://blog.tcrouzet.com/2010/08/02/imprimeur-epub/), puis sur [la publication chez Apple](http://blog.tcrouzet.com/2010/09/10/comment-publier-sur-apple-ibookstore/), j'ai échangé quelques mails avec [Jean-Claude Dunyach](http://fr.wikipedia.org/wiki/Jean-Claude_Dunyach), un de nos grands auteurs de Science Fiction. Nous avons évoqué l'idée d'écrire un guide pratique à quatre mains. Au final, c'est Jean-Claude qui a effectué l'essentiel du travail, moi ne mettant mon grain de sel que par endroits, notamment pour parler de mon [application de conversion](http://lab.tcrouzet.com/epub/). Nous espérons que ce petit guide servira à de nombreux auteurs. Nous l'avons écrit pour eux.<span id="more-19491"></span>
+Ces dernières semaines, après avoir publié un article sur [le nouveau métier d'imprimeur d'ePub](http://blog.tcrouzet.com/2010/08/02/imprimeur-epub/), puis sur [la publication chez Apple](http://blog.tcrouzet.com/2010/09/10/comment-publier-sur-apple-ibookstore/), j'ai échangé quelques mails avec [Jean-Claude Dunyach](http://fr.wikipedia.org/wiki/Jean-Claude_Dunyach), un de nos grands auteurs de Science Fiction. Nous avons évoqué l'idée d'écrire un guide pratique à quatre mains. Au final, c'est Jean-Claude qui a effectué l'essentiel du travail, moi ne mettant mon grain de sel que par endroits, notamment pour parler de mon [application de conversion](http://lab.tcrouzet.com/epub/). Nous espérons que ce petit guide servira à de nombreux auteurs. Nous l'avons écrit pour eux.
 
 ---
 
@@ -160,14 +160,7 @@ Note : si la couverture n’apparaît pas quand vous ouvrez votre fichier ePub 
 2. Outre la couverture, vous disposez de deux pages pour décrire votre livre, notamment préciser le copyright sans oublier d’indiquer un lien vers votre site. Ces pages disposent de variables entre crochets qui seront automatiquement affectées en fonction des métadonnées. Vous pouvez transformer le HTML proposé.
 3. Les paramètres aident à définir le rendu du epub. Indiquez notamment le nombre de chapitres à convertir si vous voulez proposer un simple extrait de votre texte.
 4. Pour tester, vous pouvez ne rien saisir dans les trois sections précédentes. En revanche, vous devez au minimum indiquer un fichier html (application optimisée pour les html générés par Microsoft Word).
-    
-    
-    
-    
-    
-    
-    
-    
+
     1. Tous les traitements de textes savent enregistrer dans ce format. Vous devez choisir un encodage en UTF8. Prenez soin de virer tout le texte qui précède le début effectif du texte (pas de titre, de nom d'auteur, de copyright...).
     2. Une image de couverture est quasi obligatoire si vous voulez diffuser l’epub.
     3. Si vous avez référencé des images dans le texte, rassemblez-les dans un fichier zip.

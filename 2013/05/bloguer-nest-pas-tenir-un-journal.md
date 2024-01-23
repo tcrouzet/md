@@ -1,6 +1,6 @@
 # Bloguer n’est pas tenir un journal
 
-Les dédaigneux de la chose Web affirment souvent qu’un blog n’est qu’un journal numérique, qu’il ne serait pas une forme neuve, qu’il n’aurait donc aucun potentiel littéraire et qu’il n’intéresserait que les écrivains ratés.<span id="more-32805"></span>
+Les dédaigneux de la chose Web affirment souvent qu’un blog n’est qu’un journal numérique, qu’il ne serait pas une forme neuve, qu’il n’aurait donc aucun potentiel littéraire et qu’il n’intéresserait que les écrivains ratés.
 
 Vous vous doutez que je pense exactement le contraire. Les écrivains ratés d’aujourd’hui ne bloguent pas. Bloguer n’est certes pas une condition suffisante à la littérarité, mais tout au moins nécessaire.
 

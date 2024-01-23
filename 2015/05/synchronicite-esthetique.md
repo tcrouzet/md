@@ -1,6 +1,6 @@
 # Synchronicité esthétique
 
-J’aime tomber sur un ami quand je ne m’y attends pas. J’aime me retrouver dans le métro en train de lire le même livre qu’un autre passager (avec les liseuses, difficile ce genre de rencontre). J’aime chercher une information et voir un blogueur publier un article sur le sujet. On appelle ça la synchronicité : arriver au même moment, au même point géographique, mental, intellectuel…<span id="more-41143"></span>
+J’aime tomber sur un ami quand je ne m’y attends pas. J’aime me retrouver dans le métro en train de lire le même livre qu’un autre passager (avec les liseuses, difficile ce genre de rencontre). J’aime chercher une information et voir un blogueur publier un article sur le sujet. On appelle ça la synchronicité : arriver au même moment, au même point géographique, mental, intellectuel…
 
 Il n’est pas rare que des scientifiques effectuent la même découverte simultanément, comme si un air du temps les poussait dans la même direction. J’aime sentir ce vent gonfler mes voiles. J’ai l’impression de vivre plus intensément, d’être connecté aux autres.
 

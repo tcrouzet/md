@@ -1,6 +1,6 @@
 # Sortez du consumérisme en consommant juste
 
-Plutôt que d’acheter des babioles inutiles, de surchauffer votre appartement ou votre maison, ou pire de vous abêtir devant des médias dominateurs qui ne visent qu’à renforcer votre désir mimétique, investissez dans la culture, pourquoi pas en achetant mon [*Alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) disponible depuis le 9 mars sur [publie.net](http://www.publie.net/tnc/spip.php?article314) à l’initiative de [François Bon](http://www.tierslivre.net/).<span id="more-15261"></span>
+Plutôt que d’acheter des babioles inutiles, de surchauffer votre appartement ou votre maison, ou pire de vous abêtir devant des médias dominateurs qui ne visent qu’à renforcer votre désir mimétique, investissez dans la culture, pourquoi pas en achetant mon [*Alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) disponible depuis le 9 mars sur [publie.net](http://www.publie.net/tnc/spip.php?article314) à l’initiative de [François Bon](http://www.tierslivre.net/).
 
 Pour la petite histoire, j'avais proposé à François qu'il publie *L'alternative nomade* sur publie.net, puis je lui avais dit de laisser tomber, guère satisfait par le manuscrit, peut-être parce que les thèmes évoqués évoluent en moi et hors de moi. Et puis François a soudain jugé qu'il fallait publier le livre en l'état, coupant mes atermoiements. C'est aussi le rôle d'un éditeur.
 

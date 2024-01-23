@@ -1,12 +1,18 @@
 # Ce qui manque au blog ou la révolution littéraire
 
-Depuis deux semaines, j’ai [*The future of the book*](http://www.economist.com/news/essays/21623373-which-something-old-and-powerful-encountered-vault) ouvert dans mon navigateur. Et je ne cesse de me dire, voici le futur, pas tant à cause du texte, que de la façon dont il nous est présenté par *The Economist*. C’est un essai à double sens, dont la forme illustre magistralement le propos.<span id="more-37775"></span>
+Depuis deux semaines, j’ai [*The future of the book*](http://www.economist.com/news/essays/21623373-which-something-old-and-powerful-encountered-vault) ouvert dans mon navigateur. Et je ne cesse de me dire, voici le futur, pas tant à cause du texte, que de la façon dont il nous est présenté par *The Economist*. C’est un essai à double sens, dont la forme illustre magistralement le propos.
 
 ![Mode livre](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/nextweb1.jpg)
 
+Mode livre
+
 ![Mode rouleau](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/nextweb2.jpg)
 
+Mode rouleau
+
 ![Mode rouleau](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/nextweb3.jpg)
+
+Mode rouleau
 
 Nous avons le choix entre trois modes de lecture : audio, livre et rouleau. Jamais selon moi personne n’a aussi magnifiquement illustré la séparation entre forme et données. Et c’est cela le futur : une adaptation du contenu aux préférences de chacun. Une forme à la carte. Bientôt nous n’aurons pas trois choix, mais dix et sans doute davantage.
 

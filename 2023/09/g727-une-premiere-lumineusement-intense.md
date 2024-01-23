@@ -1,6 +1,6 @@
 # g727 : une première lumineusement intense
 
-Si [le 727](https://tcrouzet.com/727tour) est une trace VTT, [le g727](https://tcrouzet.com/g727/) est une trace gravel (et le sera de mieux en mieux, j’espère). Nous avons attaqué cette nouvelle version à 90 % différente le 23 septembre. Elle tourne en sens antihoraire et fait découvrir de nouveaux paysages, tant montagneux que maritimes.<span id="more-65118"></span>
+Si [le 727](https://tcrouzet.com/727tour) est une trace VTT, [le g727](https://tcrouzet.com/g727/) est une trace gravel (et le sera de mieux en mieux, j’espère). Nous avons attaqué cette nouvelle version à 90 % différente le 23 septembre. Elle tourne en sens antihoraire et fait découvrir de nouveaux paysages, tant montagneux que maritimes.
 
 Dans le Midi, imaginer une épreuve gravel purement roulante sur plus de 700 km, qui traverse les plus beaux secteurs et évite autant que possible l’asphalte est de l’ordre du fantasme. J’ai donc tenté de ménager la chèvre et le chou. Il m’a fallu suivre la trace en intégralité pour comprendre qu’elle était parfois trop cassante. C’est une chose de passer à un endroit lors d’une reconnaissance, s’en est une autre d’y arriver avec 400 ou 600 km au compteur.
 

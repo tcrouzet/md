@@ -1,6 +1,6 @@
 # L’écriture prise par la folie du temps réel
 
-[J’ai lancé l’idée d’écrire un roman historique en trois jours.](http://blog.tcrouzet.com/2014/09/12/un-roman-historique-a-ecrire-en-trois-jours/) La question est celle du à quoi bon ? Quel intérêt qu’écrire aussi vite ? Je peux donner sans trop réfléchir quatre raisons.<span id="more-37371"></span>
+[J’ai lancé l’idée d’écrire un roman historique en trois jours.](http://blog.tcrouzet.com/2014/09/12/un-roman-historique-a-ecrire-en-trois-jours/) La question est celle du à quoi bon ? Quel intérêt qu’écrire aussi vite ? Je peux donner sans trop réfléchir quatre raisons.
 
 1. Pour gagner sa vie (quand tu vends peu, il faut produire beaucoup).
 

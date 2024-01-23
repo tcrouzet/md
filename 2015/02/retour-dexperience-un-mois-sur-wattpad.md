@@ -1,6 +1,6 @@
 # Retour d’expérience : un mois sur Wattpad
 
-[Autant le blog me paraît inadéquat pour la fiction](http://blog.tcrouzet.com/2015/02/01/le-blog-nest-pas-un-espace-litteraire/), autant il me paraît approprié d'y discuter le travail sur ladite fiction. C’est une façon de partager, d’ouvrir le dialogue et d’inviter les lecteurs à coopérer.<span id="more-39243"></span>
+[Autant le blog me paraît inadéquat pour la fiction](http://blog.tcrouzet.com/2015/02/01/le-blog-nest-pas-un-espace-litteraire/), autant il me paraît approprié d'y discuter le travail sur ladite fiction. C’est une façon de partager, d’ouvrir le dialogue et d’inviter les lecteurs à coopérer.
 
 Janvier vient de se terminer en même temps les 31 premiers chapitres de [*1 minute*](http://blog.tcrouzet.com/une-minute/).
 

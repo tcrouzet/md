@@ -1,6 +1,6 @@
 # Rêve de techno écriture
 
-Un projet naissant. Une idée encore informe. Je vous en livre des bribes, peut-être pour faire naître quelque chose de plus consistant.<span id="more-30850"></span>
+Un projet naissant. Une idée encore informe. Je vous en livre des bribes, peut-être pour faire naître quelque chose de plus consistant.
 
 Quand on écrit, tout ce qui nous arrive entre dans ce que nous écrivons. Le Net a démultiplié le surgissement du tout-autre. J'imagine un projet d'écriture qui mettrait le surgissement au centre, qui le provoquerait à l'aide d'un service comme [IFTTT](https://ifttt.com).
 

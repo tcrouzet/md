@@ -1,6 +1,6 @@
 # Le numérique raconté à mes fils
 
-Durant deux mois, mi-novembre 2010 à mi-janvier 2011, j’ai voulu écrire [un roman initiatique pour les jeunes](http://blog.tcrouzet.com/le-monde-de-i/). Avec l’ambition de leur faire comprendre le monde numérique. Et j’ai laissé tombé à la fin d’un premier épisode d’une centaine de pages, parce qu’Hachette jeunesse avec qui je discutais à l’époque a refusé le projet. Et puis *[j’ai débranché](http://blog.tcrouzet.com/jai-debranche/)*, je suis passé à autre chose (et cet échec n'est pas étranger à mon burnout numérique).<span id="more-34253"></span>
+Durant deux mois, mi-novembre 2010 à mi-janvier 2011, j’ai voulu écrire [un roman initiatique pour les jeunes](http://blog.tcrouzet.com/le-monde-de-i/). Avec l’ambition de leur faire comprendre le monde numérique. Et j’ai laissé tombé à la fin d’un premier épisode d’une centaine de pages, parce qu’Hachette jeunesse avec qui je discutais à l’époque a refusé le projet. Et puis *[j’ai débranché](http://blog.tcrouzet.com/jai-debranche/)*, je suis passé à autre chose (et cet échec n'est pas étranger à mon burnout numérique).
 
 Je viens de replonger dans ce roman avec plaisir. Parallèle entre un vieux manuscrit et le livre numérique en filigrane. Double langage. Jeu avec la typo. Cette histoire me fait rire (et elle est peut-être plus destinée aux les parents qu’à leurs enfants). Elle aurait pu faire un bon film Pixar. À vous de me dire, [je viens de publier le premier et unique épisode en ebook](http://blog.tcrouzet.com/le-monde-de-i/).
 

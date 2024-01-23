@@ -1,6 +1,6 @@
 # L’art du baby-foot et de la conversation
 
-Il y a des textes que l’on porte en soi durant des années et puis on finit par les écrire, presque sans le vouloir, et alors surgissent des éléments surprenants, inattendus, qui se reconnectent avec des sujets familiers mais par un biais incongru.<span id="more-23220"></span>
+Il y a des textes que l’on porte en soi durant des années et puis on finit par les écrire, presque sans le vouloir, et alors surgissent des éléments surprenants, inattendus, qui se reconnectent avec des sujets familiers mais par un biais incongru.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/02/cover-image-350x466.png)
 

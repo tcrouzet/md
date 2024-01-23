@@ -44,7 +44,6 @@
 
 ![](https://tcrouzet.com/images_tc/2017/11/it.png)
 
-
 Une initiation à l'économie de paix
 -----------------------------------
 
@@ -55,8 +54,6 @@ Une initiation à l'économie de paix
 ##### **ebook 4.99 €** : [ Amazon](http://www.amazon.fr/Geste-qui-Sauve-Thierry-Crouzet-ebook/dp/B00JH03BU0/), [ Apple](https://itunes.apple.com/fr/book/le-geste-qui-sauve/id855320574), [Bookeen](https://www.bookeenstore.com/fr/ebook/9782919358366/le-geste-qui-sauve-thierry-crouzet), [ Feedbooks](http://fr.feedbooks.com/item/756264/le-geste-qui-sauve), [ Immateriel](http://librairie.immateriel.fr/fr/ebook/9782825143667/le-geste-qui-sauve), [ Kobo](http://store.kobobooks.com/fr-FR/ebook/le-geste-qui-sauve), [ Orange](http://read-and-go.orange.fr/livres/l/108533), [ze Book](http://www.zebook.com/librairie/ebooks/84835/le-geste-qui-sauve), [ Amazon.ca](http://www.amazon.ca/Geste-qui-Sauve-Essai-ebook/dp/B00JH03BU0/).
 
 ##### **papier 12.00 €** : [Amazon](https://www.amazon.fr/dp/1986813010/).
-
-
 
 Vous ne le savez peut-être pas, mais une innovation a changé votre vie. En vous frictionnant les mains avec un gel hydro-alcoolique, vous vous protégez des maladies.
 
@@ -95,7 +92,6 @@ La lutte contre les infections liées aux soins, particulièrement l’hygiè
 4. Le texte ne peut pas être modifié parce je ne veux pas que les témoignages des personnes citées ainsi que les données scientifiques puissent être altérés sans vérification (clause nd). Je reste toutefois ouvert à toute suggestion.
 
 5. Mes droits d'auteur seront reversés au [Fond Clean Hands Save Lives](http://cleanhandssavelives.org/) abrité par la Fondation Philanthropia. Chaque fois que vous achèterez un exemplaire de ce livre, vous offrirez à un médecin, une infirmière, un agent de santé ou un secouriste des pays défavorisés un flacon de solution pour friction hydro-alcoolique des mains et sauverez des vies.
- 
 
 ### Fiche produit
 

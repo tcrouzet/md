@@ -4,7 +4,7 @@ En France, ces vingt dernières années, nous avons essayé la gauche et la droi
 
 À droite et à gauche, on veut reprendre les mêmes, ou presque, et surtout les mêmes méthodes, ou presque, tout ça pour se planter comme par le passé. Alors, quand j’entends dire que l’union nationale est impossible par les tenants de la droite et de la gauche, je me marre. Réveillez-vous. La droite ou la gauche, c’est possible mais ça ne marche plus depuis vingt ans. On vient d’essayer… plusieurs fois même.
 
-> Tout le monde savait que c’était impossible à faire. Puis un jour est venu un homme qui ne le savait pas. Et il l’a fait.<sup>1</sup>
+> Tout le monde savait que c’était impossible à faire. Puis un jour est venu un homme qui ne le savait pas. Et il l’a fait.1
 
 Avec cette remarque, Churchill nous a déjà démontré que nous devions tenter l’union nationale. J’ajoute quelques arguments.
 
@@ -30,7 +30,7 @@ Je crois que, au contraire, les hommes de gauche comme de droite aiment trop le 
 
 Pour une fois, l'union nationale mettrait en place une politique pour les Français et non pas contre ceux des camps adverses. C'est peut-être une utopie mais j'ai envie de la voir vivre.
 
-<span style="font-size: 10px">1. Je n'ai pas trouvé la source de cette citation de Churchill. En cherchant, je suis tombé sur une autre citation comparable par Mark Twain : « On avait oublié de leur dire que c'était impossible, alors ils l'ont fait. »</span>
+1. Je n'ai pas trouvé la source de cette citation de Churchill. En cherchant, je suis tombé sur une autre citation comparable par Mark Twain : « On avait oublié de leur dire que c'était impossible, alors ils l'ont fait. »
 
 Article aussi publié sur [Agoravox](http://www.agoravox.fr/article.php3?id_article=20581).
 

@@ -6,8 +6,6 @@ Hier soir se tenait à Paris la deuxième République des blogs. À côté de Do
 
 Mais pourquoi a-t-il accepté cette invitation ? Sans doute pas pour mes beaux yeux. Avant d’imaginer les raisons de Bayrou, je vais revenir sur notre entretien du matin et l’invitation elle-même.
 
-**Au siège de l’UDF**
-
 En préparation de mon prochain livre, je rencontre diverses personnalités politiques ou médiatiques. Lundi, j’ai discuté avec [Daniel Schneidermann](http://www.bigbangblog.net/) puis avec [Loïc Le Meur](http://www.loiclemeur.com/france/), mardi avec Éric Walter, responsable internet à l’UMP, hier matin avec François Bayrou et cet après-midi je rencontre le sénateur [Alain Lambert](http://www.alain-lambert-blog.org/). La semaine dernière, j’ai passé deux heures au téléphone avec l’eurodéputé Vert [Alain Lipietz](http://www.alain-lambert-blog.org/), j’ai échangé des mails avec le socialiste Alain Rousset et j’ai préparé d’autres rencontres.
 
 Je ne suis pas en train d’écrire un livre d’entretiens mais un essai au sujet du cinquième pouvoir. Le cinquième pouvoir, c’est nous, les citoyens fédérés par les nouvelles technologies. Nous sommes en train de réinventer la démocratie et je veux savoir ce qu’en pensent les politiciens. À leurs yeux, le cinquième pouvoir existe-t-il ? Va-t-il peser dans la vie politique ? N’est-il pas une chimère né dans la tête de quelques technophiles dont je suis ?
@@ -32,8 +30,6 @@ Je trouve ça fondamental pour un futur candidat à la Présidence. J’aimerais
 
 Comme la veille avec Éric Walter à l’UMP, nous avons aussi parlé stratégie web et marketing viral. Bayrou m’a entraîné vers une salle de réunion pour pouvoir m’expliquer sa vision sur un tableau. La salle était occupée. Pendant que Bayrou s’excusait auprès de ses collègues, l’idée de l’inviter à [la soirée blogs et politique](http://versac.metawiki.com/septembre2006) m’est venue.
 
-**L’invitation**
-
 Après coup, je peux essayer de comprendre pourquoi j’ai fait ça. En mai dernier, avec Loïc Le Meur, [nous nous sommes demandés ce que nous pouvions faire pour agir](http://blog.tcrouzet.com/2006/05/10/podcast-chez-lemeur/). Nous étions fatigués de dire que la France est un pays de merde. Nous n’avions pas envie de fuir une nouvelle fois à l’étranger pour nous extraire de la morosité. Il était temps d’agir. Comme nous avons découvert une façon de vivre qui nous paraît plus harmonieuse que celle que nous avons pu connaître par le passé, nous nous sommes dit que nous devions partager nos recettes.
 
 Loïc a choisi la stratégie droit au but. Pour changer les choses, il faut avoir le pouvoir. Le plus simple est de se rapprocher d’un des favoris à la course au pouvoir et d’essayer de changer les choses de l’intérieur. Pour ma part, je crois qu’il faut agir de l’extérieur, sur de nouvelles bases, je crois que le véritable pouvoir appartient déjà au cinquième pouvoir.
@@ -43,8 +39,6 @@ Loïc est d’accord avec moi mais veut des résultats tout de suite. Nous avons
 En me retrouvant un instant seul devant la photocopieuse du siège de l’UDF, je me suis dit qu’inviter Bayrou à notre soirée blogs et politique allait dans le bon sens. C’était une façon de mettre en avant une autre voix, surtout de lui donner un autre éclairage.
 
 Au final, je me suis planté. Toutes la presse était là aussi. Personne n’a pu parler de rien. Bayrou s’est retrouvé non entre les mains du cinquième pouvoir mais entre celles du bon vieux quatrième pouvoir envers lequel il est si critique en ce moment. Et je me suis éclipsé pour refaire le monde entre blogueurs. [Parlant d’une l’idée qui m’était venue le matin même et qui me paraissait plus importante que tout battage médiatique.](http://blog.tcrouzet.com/2006/09/27/l%e2%80%99argent-des-blogueurs/)
-
-**Alors pourquoi Bayrou est-il venu ?**
 
 Je peux essayer maintenant de répondre à cette question en inventoriant des hypothèses que vous allez sans doute multiplier avec plaisir.
 

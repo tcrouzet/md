@@ -1,6 +1,6 @@
 # Le rire d’Olga
 
-Des livres vous attrapent dès les premières pages et ne vous lâchent plus. L’auteur peut alors faire ce qu’il veut de vous, vous le suivrez, même dans des endroits où vous ne vous seriez jamais aventurés de vous-mêmes. Plus rien ne vous paraît ennuyeux, aucune longueur ou parenthèse ne vous est insupportable.<span id="more-17446"></span>
+Des livres vous attrapent dès les premières pages et ne vous lâchent plus. L’auteur peut alors faire ce qu’il veut de vous, vous le suivrez, même dans des endroits où vous ne vous seriez jamais aventurés de vous-mêmes. Plus rien ne vous paraît ennuyeux, aucune longueur ou parenthèse ne vous est insupportable.
 
 De tels livres sont rares. [*Le rire d’Olga*](http://www.amazon.fr/rire-dOlga-Lilian-Bathelot/dp/2864244527/) de [Lilian Bathelot](http://lilian.bathelot.free.fr/) appartient à cette catégorie. Il débute par un prélude durant la guerre civile espagnole, mystérieux, incompréhensible, puis jaillissent la lumière et Olga, et son rire, et son insolence et on n’a plus envie de la quitter.
 

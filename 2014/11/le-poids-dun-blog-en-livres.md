@@ -1,6 +1,6 @@
 # Le poids d’un blog en livres
 
-J’ai beau crier que j’écris uniquement ce qui m’importe, j’aime bien savoir parmi ce que j’écris ce qui compte pour les autres, tout en ayant la prétention de ne pas être influencé par leurs goûts.<span id="more-37948"></span>
+J’ai beau crier que j’écris uniquement ce qui m’importe, j’aime bien savoir parmi ce que j’écris ce qui compte pour les autres, tout en ayant la prétention de ne pas être influencé par leurs goûts.
 
 Le nombre de recommandations sociales n’est qu’un indicateur approximatif. Certains billets très lus sont peu recommandés, certains très recommandés ne reçoivent guère plus de lecteurs que de recommandations, c’est dire la grande incapacité des réseaux sociaux à envoyer des visiteurs hors de chez eux.
 
@@ -20,9 +20,15 @@ Si on suppose une vitesse de lecture moyenne de 25 caractères/seconde, un roman
 
 ![Abonnements newletter et agrégateurs.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/stat1.png)
 
+Abonnements newletter et agrégateurs.
+
 ![Statistiques Google.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/stat2.png)
 
+Statistiques Google.
+
 ![Statistiques CloudFlare.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/stat3.png)
+
+Statistiques CloudFlare.
 
 
 

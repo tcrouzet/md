@@ -1,6 +1,6 @@
 # Un chez soi numérique, c&#8217;est terminé
 
-À l’invitation de [Jacques Rosselin](https://twitter.com/rosselin), j’ai parlé de ma vision du journalisme à l’âge d’Internet devant les élèves de l’[EFJ](http://www.efj.fr/). Je ne prépare plus guère mes conférences, mais rétrospectivement je peux résumer mon propos (surtout quand autour d'un verre [Hubert Guillaud](http://www.internetactu.net/author/hubert/) m'aide à reformuler).<span id="more-42591"></span>
+À l’invitation de [Jacques Rosselin](https://twitter.com/rosselin), j’ai parlé de ma vision du journalisme à l’âge d’Internet devant les élèves de l’[EFJ](http://www.efj.fr/). Je ne prépare plus guère mes conférences, mais rétrospectivement je peux résumer mon propos (surtout quand autour d'un verre [Hubert Guillaud](http://www.internetactu.net/author/hubert/) m'aide à reformuler).
 
 1. [Internet est un territoire](http://tcrouzet.com/tag/territoire/) et surtout pas un outil comme on l’entend souvent dire. Il faut imaginer les sites comme des maisons, des villages, des villes interconnectés par des routes plus ou moins importantes.
 

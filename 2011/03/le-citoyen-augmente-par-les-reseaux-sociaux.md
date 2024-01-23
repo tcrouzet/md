@@ -1,6 +1,6 @@
 # Le citoyen augmenté par les réseaux sociaux
 
-Canevas de mon intervention lors de [la journée Marseille 2.0](http://marseille20.capitale.pro/les-conferences-de-marseille-20-gouverner-20), dernière conférence avant ma [déconnexion totale](http://blog.tcrouzet.com/2011/03/18/je-ferme-mon-blog/).<span id="more-22261"></span>
+Canevas de mon intervention lors de [la journée Marseille 2.0](http://marseille20.capitale.pro/les-conferences-de-marseille-20-gouverner-20), dernière conférence avant ma [déconnexion totale](http://blog.tcrouzet.com/2011/03/18/je-ferme-mon-blog/).
 
 ### Churchill ne s'est pas trompé
 

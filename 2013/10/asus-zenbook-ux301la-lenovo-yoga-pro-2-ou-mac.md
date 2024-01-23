@@ -1,6 +1,6 @@
 # Asus Zenbook UX301LA, Lenovo Yoga Pro 2 ou Mac ?
 
-Comme moi, vous pensez peut-être dans les semaines qui arrivent changer d’ordinateur. Je partage l’état de ma réflexion et complète celle de [David Bosman](http://davidbosman.fr/blog/2013/10/18/lenovo-yoga-pro-2/).<span id="more-33559"></span>
+Comme moi, vous pensez peut-être dans les semaines qui arrivent changer d’ordinateur. Je partage l’état de ma réflexion et complète celle de [David Bosman](http://davidbosman.fr/blog/2013/10/18/lenovo-yoga-pro-2/).
 
 Au début des années 1980, je changeais d’ordinateur tous les ans (ZX81, Oric, Ti99…), puis j’ai changé de PC tous les deux ans, puis les trois ans. Aujourd’hui, je travaille sur un ordinateur de bureau conjointement et un portable tous deux vieux de 5 ans (j’ai aussi un ipad, un iPhone, un Kindle…). Comme mes PC tirent la langue, il est temps de les changer. Un choix qui risque cette fois de m’engager pour 6 ans.
 
@@ -26,9 +26,7 @@ En attendant, deux belles bêtes me séduisent.
 
 ![Asus Zenbook Infinity UX301LA](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/10/zenbook.png)
 
-L’[**Asus Zenbook UX301LA**](http://www.asus.com/Notebooks_Ultrabooks/UX301LA/) [vient d’être testé comme le plus puissants des ultrabooks](<http://www.notebookcheck.biz/Critique-complete-de-l-Ultrabook-Asus-Zenbook-Infinity-UX301LA.103636.0.html
-
->). Défaut : [un prix astronomique digne d’Apple](http://www.rueducommerce.fr/Ordinateurs/Ordinateur-Portable/Ordinateur-Portable-Grand-Public/ASUS/4905959-UX301LA-DE002H-Zenbook-Ultrabook-Tactile-13-3-WQHD-Intel-Core-i7-4558U-2-8-GHz-SSD-512-Go-RAM-8-Go-Intel-HD-Graphics-Windows-8-Bleu.htm) et une autonomie moyenne.
+L’[**Asus Zenbook UX301LA**](http://www.asus.com/Notebooks_Ultrabooks/UX301LA/) [vient d’être testé comme le plus puissants des ultrabooks](). Défaut : [un prix astronomique digne d’Apple](http://www.rueducommerce.fr/Ordinateurs/Ordinateur-Portable/Ordinateur-Portable-Grand-Public/ASUS/4905959-UX301LA-DE002H-Zenbook-Ultrabook-Tactile-13-3-WQHD-Intel-Core-i7-4558U-2-8-GHz-SSD-512-Go-RAM-8-Go-Intel-HD-Graphics-Windows-8-Bleu.htm) et une autonomie moyenne.
 
 ![lenovo yoga 2 pro](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/10/lenovo-laptop-yoga-2-pro-modes.png)
 

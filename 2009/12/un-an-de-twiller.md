@@ -1,6 +1,6 @@
 # Un an de twiller
 
-Paul Valéry avait prédit que plus personne n’écrirait des phrases du type « La marquise sortit à cinq heures. » Je viens aujourd'hui de passer exactement une année à enchaîner de telles phrases sur Twitter pour construire pas-à-pas les 60 premiers chapitres de [*Croisade*](http://twiller.tcrouzet.com/).<span id="more-12817"></span>
+Paul Valéry avait prédit que plus personne n’écrirait des phrases du type « La marquise sortit à cinq heures. » Je viens aujourd'hui de passer exactement une année à enchaîner de telles phrases sur Twitter pour construire pas-à-pas les 60 premiers chapitres de [*Croisade*](http://twiller.tcrouzet.com/).
 
 J’avoue que ça me fait beaucoup de bien et que je me marre comme quand je faisais du jeu de rôle. Je comprends pourquoi autant d’auteurs depuis s’acharnent à démentir la prophétie de Paul Valéry. Et ils ne se prêteraient peut-être pas autant au jeu si les lecteurs eux-mêmes ne les suivaient en masse.
 

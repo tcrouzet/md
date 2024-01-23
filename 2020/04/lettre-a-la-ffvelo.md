@@ -1,6 +1,6 @@
 # Lettre à la Fédération Française Vélo
 
-[Quand j’ai écrit ma lettre à Fédération Française de Cyclisme](https://tcrouzet.com/2020/04/16/lettre-a-la-federation-francaise-de-cyclisme/), je n’avais pas évoqué l’autre fédération, [celle des cyclotouristes](https://ffvelo.fr/), qui pourtant elle aussi avait enfoncé les cyclistes, ne prenant que la précaution de parler au nom de ses adhérents.<span id="more-54151"></span>
+[Quand j’ai écrit ma lettre à Fédération Française de Cyclisme](https://tcrouzet.com/2020/04/16/lettre-a-la-federation-francaise-de-cyclisme/), je n’avais pas évoqué l’autre fédération, [celle des cyclotouristes](https://ffvelo.fr/), qui pourtant elle aussi avait enfoncé les cyclistes, ne prenant que la précaution de parler au nom de ses adhérents.
 
 J’ai attaqué la FFC parce que son communiqué avait été utilisé contre nous tous, justifiant des verbalisations abusives et les sarcasmes des donneurs de leçons se prétendant citoyens responsables alors que nous autres ne serions que des cyclistes illégitimes et anarchistes. Après ce premier dérapage fédéral, Martine Cano, présidente de la [FFvélo](https://ffvelo.fr/), a rendu publique [une lettre envoyée à la ministre des Sports le 21 avril 2020](https://ffvelo.fr/wp-content/uploads/2020/04/20095-MC-Mme-Roxana-MARACINEANU-Ministre-des-Sports-Deconfinement-Pratique-du-velo.pdf) où elle ne fait pas du vélo mais du patinage artistique.
 

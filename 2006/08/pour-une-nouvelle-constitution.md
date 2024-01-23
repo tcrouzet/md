@@ -1,6 +1,6 @@
 # Pour une nouvelle constitution
 
-Comme je l’ai écrit au sujet [du projet d’Étienne Chouard](http://blog.tcrouzet.com/2006/07/07/la-constitution-d%e2%80%99etienne-chouard/), réfléchir à une nouvelle constitution est fondamental. Nous vivons dans une société qui évolue, la constitution doit elle aussi évoluer.<span id="more-186"></span>
+Comme je l’ai écrit au sujet [du projet d’Étienne Chouard](http://blog.tcrouzet.com/2006/07/07/la-constitution-d%e2%80%99etienne-chouard/), réfléchir à une nouvelle constitution est fondamental. Nous vivons dans une société qui évolue, la constitution doit elle aussi évoluer.
 
 N’étant ni juriste, ni constitutionaliste, ma réflexion porte essentiellement sur la nature de la constitution. À mon sens, elle doit répondre à quelques grands principes, sorte de constitution de la constitution ou de métaconstitution.
 

@@ -1,6 +1,6 @@
 # La vie, c’est compliqué
 
-Je suis fatigué, c’est l’automne. Mais c’est une explication insuffisante. Beaucoup de choses s’achèvent autour de moi, leur carambolage m’affaisse.<span id="more-30125"></span>
+Je suis fatigué, c’est l’automne. Mais c’est une explication insuffisante. Beaucoup de choses s’achèvent autour de moi, leur carambolage m’affaisse.
 
 Je viens de perdre mon oncle. Mon grand frère, moi le fils unique. L’artiste de la famille. Qui m’a appris à dessiner, qui m’a fait lire Hugo Pratt à onze ans, qui m’a plus que nul autre envoyé dans la trajectoire que je suis, lui le rigolo indolent. Il est parti comme ça, beaucoup trop jeune. Un jour mal au ventre, le lendemain condamné dans d’atroces souffrances. Depuis, moi aussi j’ai mal au ventre, je suis tétanisé.
 

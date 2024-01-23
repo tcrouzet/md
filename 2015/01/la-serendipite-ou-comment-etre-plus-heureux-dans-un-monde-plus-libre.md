@@ -1,6 +1,6 @@
 # La sérendipité ou comment être plus heureux dans un monde plus libre
 
-En 2011, j'ai vécu une expérience pas très agréable. Je me suis retrouvé une nuit à l’hôpital. Diagnostic : crise d’angoisse après un burn-out numérique. Vivre trop intensément en ligne m’avait carbonisé. J’ai décidé de débrancher du Net durant 6 mois. J’avais besoin de prendre mes distances. Un peu comme Jésus qui s’en va méditer dans le désert ou Bouddha sous son figuier Pipal. Vous voyez mon état était assez critique. Je me prenais pour un prophète.<span id="more-39165"></span>
+En 2011, j'ai vécu une expérience pas très agréable. Je me suis retrouvé une nuit à l’hôpital. Diagnostic : crise d’angoisse après un burn-out numérique. Vivre trop intensément en ligne m’avait carbonisé. J’ai décidé de débrancher du Net durant 6 mois. J’avais besoin de prendre mes distances. Un peu comme Jésus qui s’en va méditer dans le désert ou Bouddha sous son figuier Pipal. Vous voyez mon état était assez critique. Je me prenais pour un prophète.
 
 ### Prélude : une question
 
@@ -141,6 +141,8 @@ Créer du lien et parcourir les liens des autres doit être notre credo. C’est
 *PS : Texte écrit pour [TEDx Lyon](http://www.tedxlyon.com/). Je sais, j'ai beaucoup critiqué TED, comme toutes les plateformes 2.0 qui ne rémunèrent pas les producteurs de contenus. Cela favorise ceux qui vivent d'autres choses. Et, bientôt, il faudra vivre d'autre chose quoi qu'on fasse. En attendant, il est difficile de vivre hors du monde des plateformes, alors je les utilise, parfois pour les dénoncer.*
 
 ![Photo déclenchée par erreur lors de la visite du musée Convergence à Lyon.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/convergence.jpg)
+
+Photo déclenchée par erreur lors de la visite du musée Confluence à Lyon.
 
 
 

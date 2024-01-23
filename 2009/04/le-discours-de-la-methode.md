@@ -4,7 +4,7 @@
 
 ![ht_insidebody_cg_4_070905_ssh11](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/04/ht_insidebody_cg_4_070905_ssh11-450x348.jpg)
 
-Il m’arrive souvent d’avoir l’impression de ne pas être clair, surtout pour ceux qui me lisent et me commentent le plus. Je suis plutôt pragmatique. 1/ Je pars d’observations. 2/ Je fais quelques hypothèses plutôt étayées par des avancées scientifiques. 3/ Je me dis alors qu’il faut tenir compte de tout cela et essayer des solutions. Dire qu’on préfère la logique de l’ancien monde plutôt que celle du nouveau est totalement absurde. Le nouveau monde est là, nous devons apprendre à y vivre ensemble.<span id="more-5844"></span>
+Il m’arrive souvent d’avoir l’impression de ne pas être clair, surtout pour ceux qui me lisent et me commentent le plus. Je suis plutôt pragmatique. 1/ Je pars d’observations. 2/ Je fais quelques hypothèses plutôt étayées par des avancées scientifiques. 3/ Je me dis alors qu’il faut tenir compte de tout cela et essayer des solutions. Dire qu’on préfère la logique de l’ancien monde plutôt que celle du nouveau est totalement absurde. Le nouveau monde est là, nous devons apprendre à y vivre ensemble.
 
 ### 1. Observations
 

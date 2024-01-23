@@ -1,6 +1,6 @@
 # Lectures croisées, écritures parallèles
 
-N’avez-vous jamais eu l’envie de photographier votre vie pour la retrouver plus tard, ou ne serait-ce que pour mieux en goûter chacun des instants les plus forts ? Saisir des mots. Des bouts de phrases inachevées. Tantôt le sujet ou le verbe oublié. Des impressions fugitives, sans logique d’enchainement, sinon celle de leur succession dans le réel lui aussi fugitif.<span id="more-17811"></span>
+N’avez-vous jamais eu l’envie de photographier votre vie pour la retrouver plus tard, ou ne serait-ce que pour mieux en goûter chacun des instants les plus forts ? Saisir des mots. Des bouts de phrases inachevées. Tantôt le sujet ou le verbe oublié. Des impressions fugitives, sans logique d’enchainement, sinon celle de leur succession dans le réel lui aussi fugitif.
 
 > Les détails de la ville comme un jeu de Lego, écrit [Pierre Ménard](http://www.liminaire.fr/) au début de [*Deux temps trois mouvements*](http://www.publie.net/fr/ebook/9782814503427/deux-temps-trois-mouvements) disponible chez publie.net ([extraits à télécharger](http://www.publie.net/fr/preview/3007/deux-temps-trois-mouvements_1-25)).
 

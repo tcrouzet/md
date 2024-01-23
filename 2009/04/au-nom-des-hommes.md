@@ -1,6 +1,6 @@
 # Au nom des hommes
 
-Nous avons beau appartenir tous à la même espèce nous n’en sommes pas moins tous différents. C’est une chance. Quand nous nous rencontrons, nous avons toujours quelque chose à nous dire. Cette grande diversité de caractères fait que ce qui convient à certains ne convient pas à d’autres.<span id="more-6064"></span>
+Nous avons beau appartenir tous à la même espèce nous n’en sommes pas moins tous différents. C’est une chance. Quand nous nous rencontrons, nous avons toujours quelque chose à nous dire. Cette grande diversité de caractères fait que ce qui convient à certains ne convient pas à d’autres.
 
 J’ai ainsi appris à mes dépends que le système pyramidal ne me convenait pas, à l’armée quand j’étais au pied de la pyramide comme plus tard quand je me suis retrouvé un peu plus haut dans la pyramide. Je sais que d’autres personnes aiment être encadrées, guidées, supervisées. Elles ne donnent le meilleur d’elles-mêmes qu’au sein d’une organisation stricte.
 

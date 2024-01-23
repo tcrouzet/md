@@ -4,7 +4,7 @@
 
 ### Samedi 1<sup>er</sup>, Balaruc
 
-Depuis trois jours, à cause d’un tournage à la maison, je dors chez ma mère, dehors, sur la terrasse, devant ma chambre d’adolescent, et même de plus tard. La fameuse chambre où je coinçais la porte avec une chaise de peur que mon père surgisse au milieu de la nuit.<span id="more-65069"></span>
+Depuis trois jours, à cause d’un tournage à la maison, je dors chez ma mère, dehors, sur la terrasse, devant ma chambre d’adolescent, et même de plus tard. La fameuse chambre où je coinçais la porte avec une chaise de peur que mon père surgisse au milieu de la nuit.
 
 Et le soir, jusqu’à minuit, les hurlements des goélands, et le matin ils recommencent dès l’aube, doublés par les roucoulements des tourterelles. Je ne suis qu’à un kilomètre de chez moi et l’ambiance sonore diffère du tout au tout.
 

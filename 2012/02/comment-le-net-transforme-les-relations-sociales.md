@@ -1,6 +1,6 @@
 # Comment le Net transforme les relations sociales
 
-*—* (Pascal Beria, question en vu d'un livre) *Selon vous, l’avènement d’internet et des réseaux sociaux constitue-t-il une bonne nouvelle en ce qui concerne les relations interindividuelles ?*<span id="more-23143"></span>
+*—* (Pascal Beria, question en vu d'un livre) *Selon vous, l’avènement d’internet et des réseaux sociaux constitue-t-il une bonne nouvelle en ce qui concerne les relations interindividuelles ?*
 
 — Si on juge ces relations selon les critères encore en vigueur au xxe siècle, c’est une mauvaise nouvelle. Moins de contact physique. Diminution de l’empathie. Éparpillement. Conditionnement à la présence en ligne. Difficulté pour les jeunes de s’émanciper du groupe (observations effectuées par de nombreux psychologues, par exemple Sherry Turkle).
 

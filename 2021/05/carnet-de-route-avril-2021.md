@@ -4,7 +4,7 @@
 
 ### Jeudi 1<sup>er</sup>, Balaruc
 
-Je conduis enfin ma mère se faire vacciner. Elle aura attendu plus de deux mois un rendez-vous, le premier au 22 janvier annulé par manque de dose. Depuis, elle se sentait en danger, comme si on lui avait nié le droit de vivre.<span id="more-59151"></span>
+Je conduis enfin ma mère se faire vacciner. Elle aura attendu plus de deux mois un rendez-vous, le premier au 22 janvier annulé par manque de dose. Depuis, elle se sentait en danger, comme si on lui avait nié le droit de vivre.
 
 ### Lundi 5, Balaruc
 

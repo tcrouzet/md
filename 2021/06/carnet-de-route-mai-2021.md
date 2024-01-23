@@ -4,7 +4,7 @@
 
 ### Samedi 1<sup>er</sup>, Balaruc
 
-Je me demande si l’enseignement du français, cette façon d’interpréter les textes, n’est pas tout simplement héritière de l’interprétation des textes religieux, plutôt vagues, et desquels, génération après génération, on cherche à extraire ce qu’on veut bien entendre. Alors je comprends le dégoût de Tim, chez qui la préparation du Bac de français provoque des nausées, comme à moi-même jadis, et comme tout athée ne peut qu’en éprouver par cette approche religieuse de la littérature.<span id="more-59570"></span>
+Je me demande si l’enseignement du français, cette façon d’interpréter les textes, n’est pas tout simplement héritière de l’interprétation des textes religieux, plutôt vagues, et desquels, génération après génération, on cherche à extraire ce qu’on veut bien entendre. Alors je comprends le dégoût de Tim, chez qui la préparation du Bac de français provoque des nausées, comme à moi-même jadis, et comme tout athée ne peut qu’en éprouver par cette approche religieuse de la littérature.
 
 ---
 

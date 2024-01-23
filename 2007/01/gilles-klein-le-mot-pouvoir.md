@@ -1,6 +1,6 @@
 # Gilles Klein n’aime pas le mot pouvoir
 
-Le patron de [pointblog](http://www.pointblog.com/) publie un [billet critique](http://gklein.blog.lemonde.fr/2007/01/06/a-propos-du-cinquieme-pouvoir/) au sujet du concept de cinquième pouvoir : sous prétexte que pouvoir est un mot ancien, le cinquième pouvoir serait lui aussi dépassé.<span id="more-325"></span>
+Le patron de [pointblog](http://www.pointblog.com/) publie un [billet critique](http://gklein.blog.lemonde.fr/2007/01/06/a-propos-du-cinquieme-pouvoir/) au sujet du concept de cinquième pouvoir : sous prétexte que pouvoir est un mot ancien, le cinquième pouvoir serait lui aussi dépassé.
 
 Gilles, on ne va pas inventer de nouveaux mots chaque fois qu'on parle de quelque chose de neuf... Imagine un article sur internet qui n'utiliserait aucun mot antérieur à 1990. Essaie de l'écrire. Les mots ont cette capacité, je ne vais pas dire pouvoir pour ne pas te fâcher, de se métamorphoser au cours du temps.
 

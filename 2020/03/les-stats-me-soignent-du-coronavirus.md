@@ -1,6 +1,6 @@
 # Les stats me soignent du coronavirus
 
-Regarder les chiffres, jouer avec les statistiques est sans doute une de mes façons de vivre la pandémie, de l’accepter. Je sais que ces jeux n’ont que peu de rapport avec la situation réelle, mais ils m’aident à en comprendre la gravité. Chacun sa névrose.<span id="more-53617"></span>
+Regarder les chiffres, jouer avec les statistiques est sans doute une de mes façons de vivre la pandémie, de l’accepter. Je sais que ces jeux n’ont que peu de rapport avec la situation réelle, mais ils m’aident à en comprendre la gravité. Chacun sa névrose.
 
 [Plus je consulte d’études](https://www.huffingtonpost.fr/entry/coronavirus-pourquoi-si-le-confinement-fonctionne-lepidemie-risque-de-revenir_fr_5e70ccecc5b6eab7793cae0a), plus je me dis que [ma première proposition](https://tcrouzet.com/2020/03/15/des-chiffres-expliquent-le-coronavirus-et-decredibilisent-les-elections/) n’est pas satisfaisante quand on la prolonge ni en accord avec les données dont nous disposons.
 

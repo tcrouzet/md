@@ -1,6 +1,6 @@
 # Pourquoi j’aime les ebooks
 
-Parce qu’ils me font gagner une fortune. Ha ! ha ! Vous n’y avez pas cru, j’en suis sûr. C’est pas la bonne raison. Il faut chercher ailleurs mon intérêt pour ces petites capsules de Web.<span id="more-34355"></span>
+Parce qu’ils me font gagner une fortune. Ha ! ha ! Vous n’y avez pas cru, j’en suis sûr. C’est pas la bonne raison. Il faut chercher ailleurs mon intérêt pour ces petites capsules de Web.
 
 D’abord, le rapport à l’écriture. Au stade actuel de mes élucubrations, le propre de l’écriture Web, c’est le [Send](http://blog.tcrouzet.com/tag/send/), cette capacité de lâcher la cavalerie immédiatement dans une chevauchée fantastique. Rien ne nous empêche d’en faire autant avec les ebooks. Tous les bons éditeurs de texte génèrent désormais des epubs à la volée. Hop, sur [Immateriel](http://www.immateriel.fr/), et voilà le texte propagé dans toutes les librairies.
 

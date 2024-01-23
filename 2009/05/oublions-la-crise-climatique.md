@@ -2,7 +2,7 @@
 
 Supposons comme Ray Kurzweil que les nouvelles technologies réussiront très vite à convertir 1 % du rayonnement solaire pour satisfaire tous nos besoins énergétiques. Imaginons que les biotechnologies réussissent à produire des aliments en quantité illimitée sans nuire à l’environnement tout en maintenant nos corps dans un état de santé remarquable. Imaginons, imaginons… Je nous crois capables de toutes ces prouesses. Je suis sûr que nous les réaliserons.
 
-Mais après ? Aurons-nous pour autant réduit la pauvreté ? Les écarts vertigineux entre les riches et les pauvres ? La solution n’est pas technologique. Nous avons déjà la technologie pour nourrir convenablement l’humanité et lui procurer des services de santé élaborés. Si nous ne le faisons pas, c’est parce qu’il nous manque un sens collectif, une raison spirituelle de le faire.<span id="more-6238"></span>
+Mais après ? Aurons-nous pour autant réduit la pauvreté ? Les écarts vertigineux entre les riches et les pauvres ? La solution n’est pas technologique. Nous avons déjà la technologie pour nourrir convenablement l’humanité et lui procurer des services de santé élaborés. Si nous ne le faisons pas, c’est parce qu’il nous manque un sens collectif, une raison spirituelle de le faire.
 
 En l’absence d’un sursaut spirituel, je crains le pire, je crains le retour de la barbarie et de voir s’éloigner le rêve de Kurzweil. Si notre cher futurologue avait vécu dans l’Alexandrie du III<sup>e</sup> siècle avant JC il aurait pu aussi faire des prévisions faramineuses. Il aurait pu nous dire que nous devons penser exponentiellement notre évolution. Je crois que je me pense depuis toujours dans un temps exponentiel mais je n’oublie pas qu’une catastrophe est possible qui nous ferait perdre beaucoup de temps.
 
@@ -10,7 +10,7 @@ Nous avons besoin d’une raison, pourquoi pas d’une multitude de raisons, d�
 
 Je n’imagine qu’une solution : la conscience collective. Créer la force qu’invoquent les chevaliers Jedi. Est-ce un rêve puéril ? Peut-être mais je suis ouvert aux autres propositions. [Ben Goertzel](http://www.goertzel.org/) évoque l’idée d’une TransReligion/UNReligion. Il croit aussi que le Net a déjà peut-être développé une forme de conscience. [Francis Heylighen](http://en.wikipedia.org/wiki/Francis_Heylighen), lui, affirme qu'Internet sera bientôt capable de s’auto-organiser sans que nous ayons à intervenir. Il produirait par lui-même de nouvelles connaissances !
 
-Ces perspectives peuvent paraître <a>inhumaines</a> mais je les crois seules capables de nous rendre humains. Quand je regarde le monde autour de moi, je le trouve tantôt sublime, tantôt abominable.
+Ces perspectives peuvent paraître inhumaines mais je les crois seules capables de nous rendre humains. Quand je regarde le monde autour de moi, je le trouve tantôt sublime, tantôt abominable.
 
 ### Notes
 
@@ -24,8 +24,6 @@ Ces perspectives peuvent paraître <a>inhumaines</a> mais je les crois seules ca
 
 5. La cohabitation est peut-être le seul moyen de réduire la vieille croissance et de la transformer en croissance spirituelle.
 
-6. Dans [The Global Superorganism](<http://pespmc1.vub.ac.be/Papers/Superorganism.pdf
-
->), Francis Heylighen montrent comment notre civilisation peut être considérée comme un organisme.
+6. Dans [The Global Superorganism](), Francis Heylighen montrent comment notre civilisation peut être considérée comme un organisme.
 
 Tags: Connecteur

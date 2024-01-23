@@ -1,6 +1,6 @@
 # Critique de la technocritique
 
-Le technocritique serait libertaire, voire anarchiste, et verrait dans la technique un énième moyen d’asservir l’homme, de creuser l’espace entre dominants et dominés. Fort belle pensée, mais pas dépourvue d’incohérences. [Exemples relevés dans un superbe dossier d'*Usbek &amp; Rica* écrit par Blaise Mao.](https://readymag.com/usbeketrica/technocritiques/)<span id="more-40905"></span>
+Le technocritique serait libertaire, voire anarchiste, et verrait dans la technique un énième moyen d’asservir l’homme, de creuser l’espace entre dominants et dominés. Fort belle pensée, mais pas dépourvue d’incohérences. [Exemples relevés dans un superbe dossier d'*Usbek &amp; Rica* écrit par Blaise Mao.](https://readymag.com/usbeketrica/technocritiques/)
 
 > Il n'existe pas de mouvement critique de la technologie mais une multitude de courants de pensée et d'initiatives qui ne sont pas structurés de façon homogène. François Jarrige, historien auteur de *Technocritiques, sorte de contre-histoire du progrès*.
 
@@ -35,6 +35,8 @@ En France, c’est bien le contraire. Mes propos n’ont jamais autant été rep
 Au moins, sur ce point nous sommes d’accord. À bien y regarder, surtout depuis que j’ai publié *J’ai débranché*, j’ai rejoint les rangs des technocritiques. Et, si je saute sur le moindre iTruc, c’est pour mieux le critiquer (ne vous moquez pas — « Tu as tout, toi, papa », me disent mes fils. « Oui, mais c’est pour mon travail. »).
 
 ![J'ai même craqué pour une Apple Watch.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/05/watch.jpg)
+
+J'ai même craqué pour une Apple Watch.
 
 
 

@@ -1,6 +1,6 @@
 # L’art du premier paragraphe
 
-Je cherche [deux ebooks de Gardner sur l’art d’écrire](http://blog.tcrouzet.com/2014/08/18/livres-lus-ingeres-oublies/), pour les récupérer j’en télécharge des centaines d’autres sur le même sujet. C’est une avalanche. Plusieurs critiques pointent vers *Stein on Writing*, un essai de [Sol Stein](http://en.wikipedia.org/wiki/Sol_Stein), un des plus fameux éditeurs américains.<span id="more-36734"></span>
+Je cherche [deux ebooks de Gardner sur l’art d’écrire](http://blog.tcrouzet.com/2014/08/18/livres-lus-ingeres-oublies/), pour les récupérer j’en télécharge des centaines d’autres sur le même sujet. C’est une avalanche. Plusieurs critiques pointent vers *Stein on Writing*, un essai de [Sol Stein](http://en.wikipedia.org/wiki/Sol_Stein), un des plus fameux éditeurs américains.
 
 Vous vous dites peut-être qu’à mon âge, c’est trop tard. Au contraire. Avec l’âge le corps et le cerveau se transforment. Des choses jadis intuitives deviennent plus difficiles, d’autres au contraire qui paraissaient impossibles deviennent envisageables, à condition de s’entraîner adéquatement. Je me suis donc laissé prendre par Sol Stein.
 

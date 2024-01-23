@@ -1,6 +1,6 @@
 # Questions/réponses sur les Croisés et les Freemen
 
-Pour annoncer la soirée de lancement de [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) avec les Freemen, le 3 avril sur Paris, [Centre Commercial m’a interviewé pour leur blog](http://blog.centrecommercial.cc/2013/03/la-quatrieme-theorie-thierry-crouzet/), j’ai prolongé avec d’autres questions qui m’ont été posées ailleurs.<span id="more-32031"></span>
+Pour annoncer la soirée de lancement de [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) avec les Freemen, le 3 avril sur Paris, [Centre Commercial m’a interviewé pour leur blog](http://blog.centrecommercial.cc/2013/03/la-quatrieme-theorie-thierry-crouzet/), j’ai prolongé avec d’autres questions qui m’ont été posées ailleurs.
 
 *— Dans quelles circonstances avez-vous écrit ce livre ?* — En décembre 2008, après avoir découvert que des auteurs américains s’amusaient à écrire des nouvelles sur Twitter, j’ai commencé à improviser la première page d’un roman, dans le but d’écrire un article sur [la twittérature naissante](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/). Mais je n’ai jamais publié cet article. Je me suis pris au jeu et j’ai continué à écrire sur Twitter, [durant seize mois à une moyenne d’une dizaine de tweets par jour](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-historique/).
 

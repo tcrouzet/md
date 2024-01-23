@@ -1,6 +1,6 @@
 # Le cinquième pouvoir en stase
 
-Le pouvoir au peuple est-il toujours une illusion ? Avons-nous rêvé inutilement que nous pourrions conquérir le vieil idéal ? Je reviens sur l’histoire du [cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/).<span id="more-29402"></span>
+Le pouvoir au peuple est-il toujours une illusion ? Avons-nous rêvé inutilement que nous pourrions conquérir le vieil idéal ? Je reviens sur l’histoire du [cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/).
 
 ### 2005
 

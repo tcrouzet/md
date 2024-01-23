@@ -1,6 +1,6 @@
 # Je ne comprends pas les développeurs d’Ulysses
 
-Vous le savez, je suis fan du traitement de texte [Ulysses](http://www.ulyssesapp.com/). Je suis même passé en partie sur Mac pour pouvoir l’utiliser. C’est tout simplement le meilleur outil pour écrivain jamais conçu. Quand je dois toucher Word, j’ai envie de vomir et je plains tous ceux encore coincés dans cette antiquité d’un autre siècle.<span id="more-40174"></span>
+Vous le savez, je suis fan du traitement de texte [Ulysses](http://www.ulyssesapp.com/). Je suis même passé en partie sur Mac pour pouvoir l’utiliser. C’est tout simplement le meilleur outil pour écrivain jamais conçu. Quand je dois toucher Word, j’ai envie de vomir et je plains tous ceux encore coincés dans cette antiquité d’un autre siècle.
 
 En prime, dans sa nouvelle version, Ulysses tourne désormais sur iPad, avec quasiment les mêmes fonctionnalités que sur Mac. Les textes se synchronisent. Je laisse mon Mac sur mon bureau, je me relis dans le jardin sur iPad, quand je remonte au bureau mes corrections se sont propagées. C’est un must.
 
@@ -20,11 +20,17 @@ Avec Ulysses, on dispose d’un mode d’écriture sans distraction ou distracti
 
 ![Le mode écriture sans distraction de Scrivener. Hors texte noir.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/dfree1.png)
 
+Le mode écriture sans distraction de Scrivener. Hors texte noir.
+
 ![Mode d'écriture plein écran d'Ulysses 1.2. Hors texte noir, avec haut de page et bas de base visibles.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/dfree2.png)
+
+Mode d'écriture plein écran d'Ulysses 1.2. Hors texte noir, avec haut de page et bas de page visibles.
 
 Sur Ulysses 1.2, le mode sans distraction était parfait. Le texte sur fond clair, les marges hors texte noires pour ne pas éblouir. Ce qui est très important dès qu’on travaille avec un écran autre que celui de l’iPad.
 
 ![Mode plein sur Ulysses 2.0. Plus de marge, plus qu'un fond uniforme que Je suis obligé de griser pour ne pas être ébloui.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/dfree3.png)
+
+Mode plein écran sur Ulysses 2.0. Plus de marge, plus qu'un fond uniforme que je suis obligé de griser pour ne pas être ébloui.
 
 Patatrac ! Sur Ulysses 2.0, les marges noires ont disparu. On se prend toute la luminosité de l’écran dans la figure. Je suis obligé de griser l’ensemble du fond de l’écran pour diminuer le contraste ce qui malheureusement diminue la lisibilité de la typo. C’est un réglage bâtard. Toutes les études physiologiques montrent qu’on lit et écrit mieux sur fond blanc, ce n’est pas une raison pour envoyer inutilement du blanc dans les yeux de l’auteur. Faire disparaître la page est une très mauvaise idée. Je ne comprends pas ce qui est passé par la tête des développeurs, sinon leur désir de minimalisme et de pureté.
 

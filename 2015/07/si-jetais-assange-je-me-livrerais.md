@@ -1,6 +1,6 @@
 # Si j’étais Assange, je me livrerais
 
-[Ma petite réaction](http://blog.tcrouzet.com/2015/07/03/assange-ou-la-honte-detre-francais/) au sujet de [la demande d’asile politique d’Assange](http://www.lemonde.fr/idees/article/2015/07/03/julian-assange-monsieur-hollande-accueillez-moi-en-france_4668919_3232.html) a fait jaillir dans ma timeline les commentaires de beaucoup de réactionnaires.<span id="more-41952"></span>
+[Ma petite réaction](http://blog.tcrouzet.com/2015/07/03/assange-ou-la-honte-detre-francais/) au sujet de [la demande d’asile politique d’Assange](http://www.lemonde.fr/idees/article/2015/07/03/julian-assange-monsieur-hollande-accueillez-moi-en-france_4668919_3232.html) a fait jaillir dans ma timeline les commentaires de beaucoup de réactionnaires.
 
 - Les juristes qui sa cachent derrière le droit pour dire que la demande d’Assange est irrecevable (je pourrais les qualifier de collabos : dans une dictature, si tu te caches derrière le droit, c’est que tu acceptes la dictature).
 

@@ -1,6 +1,6 @@
 # Macron est positif, il manque de souffle
 
-Un ton lugubre, un corps flasque, un maquillage exagère, j’avais l’impression qu’une marionnette malade me parlait. Je voyais sa bouche bouger, j’entendais ses mots, mais ils ne me parlaient pas comme si je les avais entendus cent fois, comme si un prêtre me récitait le Notre Père sans y croire. J’ai eu l’impression de me retrouver à l’église comme quand collégien j’étais en école privée et que je n’avais pas le choix.<span id="more-53953"></span>
+Un ton lugubre, un corps flasque, un maquillage exagère, j’avais l’impression qu’une marionnette malade me parlait. Je voyais sa bouche bouger, j’entendais ses mots, mais ils ne me parlaient pas comme si je les avais entendus cent fois, comme si un prêtre me récitait le Notre Père sans y croire. J’ai eu l’impression de me retrouver à l’église comme quand collégien j’étais en école privée et que je n’avais pas le choix.
 
 Tout d’abord la structure du discours (que je n’ai pas pris la peine de réécouter avant d’écrire — je fais une analyse à chaud sous le coup de l'énervement). Je ne sais pas qui est le ghost writer de notre Président, sans doute le même que celui du Premier ministre, à moins qu’ils se relisent l’un l’autre, parce qu’ils structurent toutes leurs interventions de la même manière. On passe la moitié du temps à remercier la France entière, on glisse une annonce, on parle de ce qu’on fera après la crise, puis on remercie encore une fois pour ne fâcher personne.
 

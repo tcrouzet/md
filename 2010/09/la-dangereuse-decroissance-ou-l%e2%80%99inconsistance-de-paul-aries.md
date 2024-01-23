@@ -1,6 +1,6 @@
 # La dangereuse décroissance ou l’inconsistance de Paul Ariès
 
-Comme les décroissants et les partisans de la simplicité volontaire, je pense que le consumérisme est un des maux qui ronge nôtre société. En revanche, je pense qu’on ne combat pas un mal par la première stratégie venue, celle qui nous vient immédiatement à l’esprit : ne plus consommer.<span id="more-19048"></span>
+Comme les décroissants et les partisans de la simplicité volontaire, je pense que le consumérisme est un des maux qui ronge nôtre société. En revanche, je pense qu’on ne combat pas un mal par la première stratégie venue, celle qui nous vient immédiatement à l’esprit : ne plus consommer.
 
 C’est le sujet de [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) (version 1.1 maintenant disponible). Comme un livre édité numériquement n’est jamais fermé, je continue de le travailler, notamment en essayant de clarifier ma position par rapport aux décroissants. Bien à propos, Stan Jourdan vient de retranscrire [une interview de Paul Ariès](http://www.tetedequenelle.fr/2010/08/paul-aries-decroissance/) qui peut me servir de matière première.
 
@@ -8,7 +8,7 @@ Pour Ariès, l’abondance est un mythe. Je digère mal cette proposition. Le so
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/Phen-Hum-fig.gif)
 
-Les bonobos baisent à longueur de journée. Les moines prient à longueur de journée. Les intellos lisent à longueur de journée. Nous penchons irrémédiablement vers l’abondance, car la vie découle de l’abondance énergétique (nous n’avons pas d’autre choix que de lutter contre l’entropie). Il serait dangereux de réduire l’abondance à l’abondance matérielle prônée depuis le début de la révolution industrielle. Et puis E=mc<sup>2</sup>. La matière, c’est aussi de l’énergie. Même l’idée que le matérialisme est dangereux ne peut être généralisée (sauf à combattre la technologie).
+Les bonobos baisent à longueur de journée. Les moines prient à longueur de journée. Les intellos lisent à longueur de journée. Nous penchons irrémédiablement vers l’abondance, car la vie découle de l’abondance énergétique (nous n’avons pas d’autre choix que de lutter contre l’entropie). Il serait dangereux de réduire l’abondance à l’abondance matérielle prônée depuis le début de la révolution industrielle. Et puis E=mc2. La matière, c’est aussi de l’énergie. Même l’idée que le matérialisme est dangereux ne peut être généralisée (sauf à combattre la technologie).
 
 Que font les moines ? Ils vivent dans la frugalité, mais ils s’adonnent à une consommation spirituelle. Je me sens proche d’Épicure. Que faisait-il dans son jardin ? Il s’adonnait à l’abondance de conversations. Abondance sexuelle, spirituelle, culturelle, sociale, nous succombons au moins à l’une ou à l’autre, je crois qu’il ne peut en être autrement du fait même des mécanismes de la vie.
 

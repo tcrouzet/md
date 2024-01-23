@@ -1,6 +1,6 @@
 # Alors peut-on déchiffrer l’avenir ?
 
-[Demain, je discute de cette question](http://blog.tcrouzet.com/2008/01/16/peut-on-dechiffrer-l%e2%80%99avenir/), c’est donc l’occasion de résumer ma position. Elle est avant tout pragmatique. Comme les futurologues qui tentent de prévoir l’évolution de nos sociétés se trompent presque systématiquement, nous devons vivre comme si l’avenir était indéchiffrable.<span id="more-732"></span>
+[Demain, je discute de cette question](http://blog.tcrouzet.com/2008/01/16/peut-on-dechiffrer-l%e2%80%99avenir/), c’est donc l’occasion de résumer ma position. Elle est avant tout pragmatique. Comme les futurologues qui tentent de prévoir l’évolution de nos sociétés se trompent presque systématiquement, nous devons vivre comme si l’avenir était indéchiffrable.
 
 J’aime bien rappeler que les experts prévoyaient en 2002 que le pétrole atteindrait les 100 dollars en 2020, que, au cours des années 2000, la criminalité aux États-Unis devait devenir vertigineuse alors qu’elle atteint aujourd’hui sont plus bas niveau depuis 50 ans, que la croissance serait de x pourcent alors qu’elle est de y… ou que nombre de climatologues dans les années 1970 annonçaient une période de glaciation. Je n’ai même pas besoin de trop charger nos gouvernants qui nous annoncent tel ou tel chiffre au sujet du chômage.
 

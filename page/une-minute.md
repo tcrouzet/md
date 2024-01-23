@@ -9,11 +9,7 @@ Une révélation de Sara Cash, l'Intubeuse aux milliards de vues
 
 ##### **papier 18.00 €** : [ PVH](https://pvh-editions.com/shop/romans-contes/250-one-minute-tome-1-la-communion-des-analystes-9782940609192.html).
 
-
-
-
-
-**19:45 UTC** Sara Cash annonce la réception d’un message extraterrestre. L’humanité n’est plus seule dans l’univers. Est-ce un canular ? Sara Cash ne se trompe jamais. Les gouvernements décrètent l’état d’urgence. Leur attention se focalise sur Michele Lamb, la radioastronome qui a capté le signal. Ils n’ont pas le temps d’en apprendre beaucoup. Une minute après le début du show de Sara Cash, une panne générale plonge le monde dans le blackout.
+ Sara Cash annonce la réception d’un message extraterrestre. L’humanité n’est plus seule dans l’univers. Est-ce un canular ? Sara Cash ne se trompe jamais. Les gouvernements décrètent l’état d’urgence. Leur attention se focalise sur Michele Lamb, la radioastronome qui a capté le signal. Ils n’ont pas le temps d’en apprendre beaucoup. Une minute après le début du show de Sara Cash, une panne générale plonge le monde dans le blackout.
 
 ![Les 4 tomes](https://tcrouzet.com/images_tc/2021/09/oneminuteserie.jpg)
 

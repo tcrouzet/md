@@ -1,6 +1,6 @@
 # 10 sujets de thèses littéraires
 
-1. Prendre des auteurs qui publiaient avant le Net, puis qui se sont abondamment auto-publiés sur le Net, tenter de voir si leur écriture, leurs thématiques, leurs formes se sont transformées, si leurs œuvres abordent des sujets nouveaux, provoquent des émotions nouvelles ou pas (hors de question d’exclure l’émotion, le plaisir, sous prétexte qu’on est universitaire). Cette étude commence par les textes et finit par les textes. À travers eux, elle tente d’écrire une histoire en mouvement.<span id="more-46438"></span>
+1. Prendre des auteurs qui publiaient avant le Net, puis qui se sont abondamment auto-publiés sur le Net, tenter de voir si leur écriture, leurs thématiques, leurs formes se sont transformées, si leurs œuvres abordent des sujets nouveaux, provoquent des émotions nouvelles ou pas (hors de question d’exclure l’émotion, le plaisir, sous prétexte qu’on est universitaire). Cette étude commence par les textes et finit par les textes. À travers eux, elle tente d’écrire une histoire en mouvement.
 
 2. Prendre un auteur très actif sur le Net, comparer ses textes auto-publié en ligne et ses textes édités par des éditeurs traditionnels, textes qui n’ont jamais touché le Net, qui n’ont jamais été pensés pour lui, mais qui peut-être sont traversés par lui. Existe-t-il des différences ? Déjà sans doute par ce qu’acceptent de publier les éditeurs, limitant d’eux-mêmes pour des considérations économiques le champ de la littérature contemporaine traditionnelle.
 

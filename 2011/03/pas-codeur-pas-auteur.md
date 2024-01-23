@@ -1,6 +1,6 @@
 # Si t’es pas codeur, t’es pas auteur
 
-Depuis cinq ans, je défends l’idée du blog comme atelier. J’ai aussi affirmé que [mon blog était mon meilleur livre](http://blog.tcrouzet.com/2010/10/08/mon-meilleur-livre-mon-site/). Mais quand peut-on dire que le blog nous amène sur des nouveaux sentiers littéraires ?<span id="more-21353"></span>
+Depuis cinq ans, je défends l’idée du blog comme atelier. J’ai aussi affirmé que [mon blog était mon meilleur livre](http://blog.tcrouzet.com/2010/10/08/mon-meilleur-livre-mon-site/). Mais quand peut-on dire que le blog nous amène sur des nouveaux sentiers littéraires ?
 
 Si ce que nous écrivons sur nos blogs peut être couché sur du papier, ou même un fichier epub, suivant la logique homothétique, nous n’avons pas réellement exploré les nouvelles possibilités formelles qui s’offrent à nous.
 

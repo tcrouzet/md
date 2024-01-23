@@ -1,6 +1,6 @@
 # La décentralisation de la création implique une remédiatisation
 
-« \[…\] je vois ce que le numérique change à mes propres pratiques, comment il fait déborder mon écriture vers d’autres formes que celles que j’imaginais initialement \[…\] » [Cécile Portier](http://www.ciclic.fr/livre-lecture/residences-numeriques/cecile-portier-autoportrait)<span id="more-43968"></span>
+« \[…\] je vois ce que le numérique change à mes propres pratiques, comment il fait déborder mon écriture vers d’autres formes que celles que j’imaginais initialement \[…\] » [Cécile Portier](http://www.ciclic.fr/livre-lecture/residences-numeriques/cecile-portier-autoportrait)
 
 Il existe beaucoup de raisons à ce débordement, en voilà une esquissée.
 

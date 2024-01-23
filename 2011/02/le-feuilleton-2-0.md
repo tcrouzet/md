@@ -1,6 +1,6 @@
 # Le feuilleton 2.0
 
-Au XIX<sup>e</sup> siècle, on n’achetait pas comme aujourd’hui les journaux pour y lire les prévisions météo, les horoscopes et les nécrologies, mais pour retrouver la suite des aventures narrées par les feuilletonistes, tel Dumas ou Balzac.<span id="more-21230"></span>
+Au XIX<sup>e</sup> siècle, on n’achetait pas comme aujourd’hui les journaux pour y lire les prévisions météo, les horoscopes et les nécrologies, mais pour retrouver la suite des aventures narrées par les feuilletonistes, tel Dumas ou Balzac.
 
 C’est ainsi que la forme romanesque populaire se canonisa. Nos thrillers et polars ont été pensés à cette époque. Et même la littérature en fut changée.
 

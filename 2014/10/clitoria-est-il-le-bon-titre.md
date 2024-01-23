@@ -1,6 +1,6 @@
 # Clitoria est-il le bon titre ?
 
-Je viens d’écrire un [petit roman historique](http://blog.tcrouzet.com/tag/dortoman/) sans titre en tête, c’est classique, mais quand il s’agit de boucler le projet, il faut bien mettre une étiquette sur une image, publicité oblige, également repérage, identification symbolisation. Pour vous aider à m’épauler, voici la première phrase.<span id="more-37642"></span>
+Je viens d’écrire un [petit roman historique](http://blog.tcrouzet.com/tag/dortoman/) sans titre en tête, c’est classique, mais quand il s’agit de boucler le projet, il faut bien mettre une étiquette sur une image, publicité oblige, également repérage, identification symbolisation. Pour vous aider à m’épauler, voici la première phrase.
 
 > Le 15 septembre 1575, sous le règne nouveau de Henri troisième de France, fils de Catherine de Médicis, et alors que débute la cinquième guerre de religion entre protestants et catholiques, Nicolas Dortoman, professeur de médecine à l’université de Montpellier, découvre le clitoris.
 

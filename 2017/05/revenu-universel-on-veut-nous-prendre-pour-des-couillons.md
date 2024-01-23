@@ -1,6 +1,6 @@
 # Revenu universel : on nous prend pour des couillons
 
-Rangez votre utopie : [le revenu universel ça ne peut pas marcher](https://www.oecd.org/fr/eco/croissance/2502811.pdf). Mais qui a déclaré ça ? L’OCDE, sigle qu’il est alors bon de détailler : Organisation de coopération et de développement économiques dont, [dixit Wikipedia](https://fr.wikipedia.org/wiki/Organisation_de_coop%C3%A9ration_et_de_d%C3%A9veloppement_%C3%A9conomiques), les pays membres — des pays développés pour la plupart — ont en commun un système de gouvernement démocratique et une économie de marché.<span id="more-45453"></span>
+Rangez votre utopie : [le revenu universel ça ne peut pas marcher](https://www.oecd.org/fr/eco/croissance/2502811.pdf). Mais qui a déclaré ça ? L’OCDE, sigle qu’il est alors bon de détailler : Organisation de coopération et de développement économiques dont, [dixit Wikipedia](https://fr.wikipedia.org/wiki/Organisation_de_coop%C3%A9ration_et_de_d%C3%A9veloppement_%C3%A9conomiques), les pays membres — des pays développés pour la plupart — ont en commun un système de gouvernement démocratique et une économie de marché.
 
 Comment dire ? Rien ne vous choque ? Imaginez un autre contexte : un dictateur qui affirme que la liberté est nocive pour la santé publique ou un industriel gros pollueur qui nie le réchauffement climatique. Vous seriez révoltés, non ?
 

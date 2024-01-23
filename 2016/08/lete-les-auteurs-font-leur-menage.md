@@ -1,6 +1,6 @@
 # L’été, les auteurs font leur ménage
 
-C’est peut-être pas tant à cause de la saison que suite à longue accumulation de plus ou moins bonnes expériences éditoriales que nous sommes nombreux à nous poser des questions quant à la meilleure façon de diffuser nos textes.<span id="more-44184"></span>
+C’est peut-être pas tant à cause de la saison que suite à longue accumulation de plus ou moins bonnes expériences éditoriales que nous sommes nombreux à nous poser des questions quant à la meilleure façon de diffuser nos textes.
 
 Les copains : [François Bon](http://www.tierslivre.net/spip/spip.php?article4348), [Philippe Castelneau](https://philippe-castelneau.com/2016/07/31/lauteur-nest-plus-disponible-il-se-cherche-une-nouvelle-forme/), [Neil Jomunsi](http://page42.org), [Martin Page](http://www.monstrograph.com/)… gambergent et expérimentent. La première constatation est définitive : nous n’avons plus besoin d’intermédiaires de médiation pour exister au regard des lecteurs. Nous devons nous le mettre dans le crâne, et ce n’est pas aussi simple qu’il y paraît, surtout quand on a déjà travaillé avec des éditeurs et qu’on travaille encore avec eux.
 

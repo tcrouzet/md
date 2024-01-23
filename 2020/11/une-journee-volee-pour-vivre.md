@@ -1,6 +1,6 @@
 # Une journée volée pour vivre
 
-Sur fond de crise sanitaire, avec la certitude de voir dès le lendemain nos libertés restreintes, Philippe et moi décidons d’une dernière escapade. Rendez-vous à 7 heures 45. Nous pédalons jusqu’à Sète, prenons le train, qui nous dépose à Narbonne peu avant 9 heures.<span id="more-55959"></span>
+Sur fond de crise sanitaire, avec la certitude de voir dès le lendemain nos libertés restreintes, Philippe et moi décidons d’une dernière escapade. Rendez-vous à 7 heures 45. Nous pédalons jusqu’à Sète, prenons le train, qui nous dépose à Narbonne peu avant 9 heures.
 
 La crise nous motive, elle nous fait ressentir le manque de liberté, par réaction nous pousse à nous saisir de la moindre occasion existentielle. À la fin des années 1970, après avoir quitté l’URSS pour l’Europe, [Andreï Tarkovski](https://fr.wikipedia.org/wiki/Andre%C3%AF_Tarkovski) s’étonnait : les Européens bien que libres n’usaient pas de leur liberté. La privation est un moteur. Nous ne devrions pas en avoir besoin pour nous exprimer, mais parfois elle nous réveille, comme une maladie qui nous tient enfermés avant de nous téléporter vers un nouveau printemps. Alors, notre vélo, plus qu’un moyen de déplacement, participe à notre libération et devient un instrument de création.
 

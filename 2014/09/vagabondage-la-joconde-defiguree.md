@@ -1,6 +1,6 @@
 # La Joconde défigurée
 
-Dans mon village subsiste un bout de garrigue avec sa pinède en surplomb de l’étang, ligne éclatante avant les contreforts du mont Saint Clair. La mer se déroule au-delà de cet obstacle. J’en devine le reflet dans le ciel délavé par un effet miroir.<span id="more-37199"></span>
+Dans mon village subsiste un bout de garrigue avec sa pinède en surplomb de l’étang, ligne éclatante avant les contreforts du mont Saint Clair. La mer se déroule au-delà de cet obstacle. J’en devine le reflet dans le ciel délavé par un effet miroir.
 
 Un politicien a ponctionné une parcelle de cette garrigue préservée pour la transformer en jardin méditerranéen. Quand je parle de décadence, nous y voilà. Par nature, la garrigue est un jardin, fruit de millénaires de labeur.
 
@@ -33,6 +33,8 @@ Je ne me plais pas quand je pense à ces choses, j’aimerais les taire, les ref
 Que faire de la beauté ? La détourner pour en orienter le flot vers ceux qui s’en détournent, les submerger par les ondes de lumière. Je n’ai plus pour ambition que cet ultime attentat.
 
 ![C'est flou parce que mon téléphone est en fin de vie.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/balaruc.jpg)
+
+C'est flou parce que mon téléphone est en fin de vie.
 
 
 

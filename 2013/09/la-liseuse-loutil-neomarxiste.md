@@ -1,6 +1,6 @@
 # La liseuse, l’outil néomarxiste
 
-Je lis sur ma liseuse [l’article d’un blogueur](http://mesmilleetunenuitsalire.over-blog.com/article-tout-bien-reflechi-je-dis-a-bas-le-livre-numerique-119382743.html) qui dénonce le livre numérique, oubliant que tout texte publié en numérique devient part d’un vaste livre numérique.<span id="more-33412"></span>
+Je lis sur ma liseuse [l’article d’un blogueur](http://mesmilleetunenuitsalire.over-blog.com/article-tout-bien-reflechi-je-dis-a-bas-le-livre-numerique-119382743.html) qui dénonce le livre numérique, oubliant que tout texte publié en numérique devient part d’un vaste livre numérique.
 
 Blogueur qui en dénonçant participe donc, qu’il le veuille ou non, à la chose dénoncée. C’est une vieille habitude, [déjà relevée au début de l’imprimerie](http://blog.tcrouzet.com/2012/09/07/johannes-trithemius-ou-les-451-croulants/) (et même bien avant par les Grecs qui écrivaient pour dénoncer l’écriture).
 

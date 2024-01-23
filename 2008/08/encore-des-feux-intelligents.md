@@ -18,8 +18,6 @@ Politiques, renoncez au contrôle.
 
 Regardez les simulations de Helding.
 
- 
-
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/08/helbing.jpg)
 
 D’un côté, on maîtrise le comportement des feux, on les ajuste avec intelligence, de l’autre on les laisse se débrouiller en fixant simplement quelques règles d’interaction… et cette seconde approche donne de meilleurs résultats.

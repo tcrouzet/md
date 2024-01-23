@@ -1,6 +1,6 @@
 # Après le coronavirus
 
-Je me pose une question, une question qui heureusement ne m’encombre pas trop d’habitude, mais qui s’impose avec le confinement. Qu’écrire qui ne sera pas périmé demain, ou la semaine prochaine ou même l’année prochaine ? Qu’écrire pour parler à mes enfants quand ils auront mon âge, à leurs enfants, qu’écrire pour l’avenir ? Quel message lui adresser ?<span id="more-53756"></span>
+Je me pose une question, une question qui heureusement ne m’encombre pas trop d’habitude, mais qui s’impose avec le confinement. Qu’écrire qui ne sera pas périmé demain, ou la semaine prochaine ou même l’année prochaine ? Qu’écrire pour parler à mes enfants quand ils auront mon âge, à leurs enfants, qu’écrire pour l’avenir ? Quel message lui adresser ?
 
 Je devrais me fixer cet objectif : vivre le confinement avec l’obsession de me tendre vers lui, vers son exceptionnel, à m’attacher à décrire ce qu’il provoque en moi. Et tout de suite, je découvre une boule énorme, qui grossit de jour en jour, la colère, colère contre le gouvernement, contre ses mauvaises décisions, ses mensonges, colère provoquée par la dérive autoritaire, perceptible jusque dans les rues de mon village où on nous interdit de traverser les espaces verts, où on réduit nos libertés aux surfaces bétonnées et asphaltées, où la folie d’interdite s’est emparées des officiels sans plus aucune justification médicale.
 

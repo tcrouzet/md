@@ -32,6 +32,8 @@ Cette mésaventure illustre la voie du milieu, comment nous devons jongler avec 
 
 ![Comment je me sens dans le nouveau Web.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/08/IMG_3445.jpg)
 
+Comment je me sens dans le nouveau Web.
+
 
 
 Tags: NetCulture, une

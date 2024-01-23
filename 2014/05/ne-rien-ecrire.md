@@ -1,6 +1,6 @@
 # Ne rien écrire
 
-C’est ce que je devrais faire quand je n’ai rien de particulier à dire, comme aujourd’hui. Mais écrire devient avec les années un réflexe, une gymnastique cérébrale qu’il faut entretenir. De là au partage il n’y a qu’un pas puisque c’est si simple. Vous êtes là, autant que je déverse sur vous le grand n’importe quoi de mon moment de vide.<span id="more-35790"></span>
+C’est ce que je devrais faire quand je n’ai rien de particulier à dire, comme aujourd’hui. Mais écrire devient avec les années un réflexe, une gymnastique cérébrale qu’il faut entretenir. De là au partage il n’y a qu’un pas puisque c’est si simple. Vous êtes là, autant que je déverse sur vous le grand n’importe quoi de mon moment de vide.
 
 C’est assez pitoyable. Si j’écrivais poussé par une nécessité profonde, peut-être que le partage s’imposerait. Quoique cette nécessité n’est probablement pas la vôtre et que vous n’en avez rien à faire. On ne devrait peut-être publier que pour divertir. Se limiter aux histoires. Les idées me fatiguent de plus en plus. Toutes ces grandes théories ne résonnent que dans des cerveaux particulièrement caverneux.
 

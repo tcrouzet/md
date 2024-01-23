@@ -1,6 +1,6 @@
 # Déclaration d’indépendance des auteurs
 
-J’ai écrit ce texte il y a déjà deux ans. Je ne l’ai pas publié parce que je n’étais moi-même pas prêt à me déclarer indépendant et [je ne le suis toujours pas](http://tcrouzet.com/2016/03/21/rumination-dun-auteur-en-desamour-avec-les-editeurs/). Je vous le soumets pour poursuivre la réflexion.<span id="more-43689"></span>
+J’ai écrit ce texte il y a déjà deux ans. Je ne l’ai pas publié parce que je n’étais moi-même pas prêt à me déclarer indépendant et [je ne le suis toujours pas](http://tcrouzet.com/2016/03/21/rumination-dun-auteur-en-desamour-avec-les-editeurs/). Je vous le soumets pour poursuivre la réflexion.
 
 ---
 

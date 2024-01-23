@@ -1,6 +1,6 @@
 # Analyse de la présidentielle 2012
 
-[Je désapprouve le combat de coqs](http://blog.tcrouzet.com/2012/04/11/je-brule-ma-carte-electeur-100-raisons-pour-ne-pas-voter/) auquel nous entraîne le système représentatif, donc pas de nom, mais il me semble instructif d’analyser les tendances.<span id="more-23836"></span>
+[Je désapprouve le combat de coqs](http://blog.tcrouzet.com/2012/04/11/je-brule-ma-carte-electeur-100-raisons-pour-ne-pas-voter/) auquel nous entraîne le système représentatif, donc pas de nom, mais il me semble instructif d’analyser les tendances.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/04/2012-cumul.png)
 

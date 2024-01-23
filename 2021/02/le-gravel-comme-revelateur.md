@@ -1,6 +1,6 @@
 # Le gravel est-il magique ?
 
-Il y a des jours étranges en hiver dans le Midi. Matinée de grisaille, horizon bouché, brouillard mouillé, puis le soleil s’invite et j’improvise une sortie gravel.<span id="more-57530"></span>
+Il y a des jours étranges en hiver dans le Midi. Matinée de grisaille, horizon bouché, brouillard mouillé, puis le soleil s’invite et j’improvise une sortie gravel.
 
 Ma curiosité piquée par une trace concoctée par Valérie Rasigade, créatrice du [groupe gravelle](https://www.facebook.com/groups/412807219648006), animatrice infatigable et traceuse émérite, je m’en vais explorer un no man’s land, une zone humide coincée entre une départementale surchargée et une voie de chemin de fer, ponctuée de ranches, de chevaux en liberté, de clôtures tendues de fils barbelés, de roselières vaseuses.
 

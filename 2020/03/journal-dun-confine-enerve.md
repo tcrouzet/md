@@ -1,6 +1,6 @@
 # Journal d’un confiné énervé
 
-Le gouvernement ne nous fait pas confiance, nous ne nous faisons pas confiance, beaucoup ont perdu foi en l’autre et applaudissent les mesures extrêmes. Mais est-ce dans ce monde que nous voulons vivre ? Dans un monde où on se regarde en chiens de faïence ? Où on a peur de l’autre, où on le méprise, où on le suppose par défaut plus stupide que nous ? Où pour survivre on est prêt à sacrifier notre humanité ?<span id="more-53687"></span>
+Le gouvernement ne nous fait pas confiance, nous ne nous faisons pas confiance, beaucoup ont perdu foi en l’autre et applaudissent les mesures extrêmes. Mais est-ce dans ce monde que nous voulons vivre ? Dans un monde où on se regarde en chiens de faïence ? Où on a peur de l’autre, où on le méprise, où on le suppose par défaut plus stupide que nous ? Où pour survivre on est prêt à sacrifier notre humanité ?
 
 Voilà ce que je prends en pleine figure, voilà ce que j’éprouve, ce que je vis au sixième jour de confinement (ou au septième, ou au cinquième, je ne sais déjà plus). Moi qui d’habitude tiens un journal, [qui le publie tous les mois](https://tcrouzet.com/carnets/), j’en suis soudain incapable.
 

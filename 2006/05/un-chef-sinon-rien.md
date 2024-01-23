@@ -1,6 +1,6 @@
 # Un chef sinon rien !
 
-Hier soir, une amie me raconte qu'elle a parlé des connecteurs à ses amis. Ils ont tout simplement rejeté l'idée d'auto-organisation. Pour eux, même les oiseaux qui volent en flotte ont un guide.<span id="more-37"></span>
+Hier soir, une amie me raconte qu'elle a parlé des connecteurs à ses amis. Ils ont tout simplement rejeté l'idée d'auto-organisation. Pour eux, même les oiseaux qui volent en flotte ont un guide.
 
 J'aurais aimé être là lors de cette conversation.
 

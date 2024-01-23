@@ -1,6 +1,6 @@
 # ReLire – Répondre par l’offensive
 
-[J’ai déjà tout dit à ce sujet l’année dernière](http://blog.tcrouzet.com/tag/indisponibles/), mais certaines choses mérites d’être rabâchées, surtout quand la situation s’envenime.<span id="more-32725"></span> 
+[J’ai déjà tout dit à ce sujet l’année dernière](http://blog.tcrouzet.com/tag/indisponibles/), mais certaines choses mérites d’être rabâchées, surtout quand la situation s’envenime. 
 
 Auteur, arrêtez de pleurnicher, réagissez en donnant un grand coup de pied au cul de la fourmilière. Écrivez, créez, diffusez… plutôt qu’envisager des poursuites judiciaires qui vous éloignent de votre champ de compétence.
 

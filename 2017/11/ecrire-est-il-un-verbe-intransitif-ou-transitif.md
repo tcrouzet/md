@@ -1,6 +1,6 @@
 # Écrire est-il un verbe intransitif ou transitif ?
 
-Je suis nul en grammaire, je n’ai jamais réussi à m’y intéresser, peut-être parce que Steven Pinker, je crois bien que c’est lui, a montré que toutes les grammaires ne pouvaient qu’être incomplètes (ce qui serait métaphoriquement dans la logique du théorème de Gödel et nous autoriserait, nous autres écrivains, à toutes les libertés syntaxiques).<span id="more-45925"></span>
+Je suis nul en grammaire, je n’ai jamais réussi à m’y intéresser, peut-être parce que Steven Pinker, je crois bien que c’est lui, a montré que toutes les grammaires ne pouvaient qu’être incomplètes (ce qui serait métaphoriquement dans la logique du théorème de Gödel et nous autoriserait, nous autres écrivains, à toutes les libertés syntaxiques).
 
 Suite à mon billet [Pourquoi écrire en ligne ?](https://tcrouzet.com/2017/11/21/pourquoi-ecrire-en-ligne/), Arnaud Maïsetti [a commenté sur Twitter](https://twitter.com/amaisetti/status/934446959158530049) :
 

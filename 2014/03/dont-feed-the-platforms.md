@@ -1,6 +1,6 @@
 # Don’t feed the platforms
 
-[Neil Jomunsi](http://page42.org/flattr-une-maniere-alternative-de-soutenir-la-creation-et-les-createurs/) vient de faire l’éloge de Flattr, la plateforme de micropaiement particulièrement adaptée aux contenus Web, et qui serait selon lui une bonne façon pour un auteur de donner tout en étant rémunéré. De la théorie à la pratique, il y a un gouffre.<span id="more-34934"></span>
+[Neil Jomunsi](http://page42.org/flattr-une-maniere-alternative-de-soutenir-la-creation-et-les-createurs/) vient de faire l’éloge de Flattr, la plateforme de micropaiement particulièrement adaptée aux contenus Web, et qui serait selon lui une bonne façon pour un auteur de donner tout en étant rémunéré. De la théorie à la pratique, il y a un gouffre.
 
 J’ai moi aussi activé Flattr, noyant le bouton parmi d’autres, par principe, pour expérimenter. Nous sommes quelques-uns à nous prendre de l’argent et nous le rendre, et au passage un seul acteur gagne : Flattr qui ponctionne 10 % de nos échanges.
 

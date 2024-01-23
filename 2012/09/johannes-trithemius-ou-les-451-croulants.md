@@ -1,6 +1,6 @@
 # Johannes Trithemius ou les 451 croulants
 
-Les auteurs n’ont peut-être jamais été aussi pauvres. C’est ce que me disent mes amis qui ont connu les années 70 ou 80 ou même 90. La faute à qui ?<span id="more-27600"></span>
+Les auteurs n’ont peut-être jamais été aussi pauvres. C’est ce que me disent mes amis qui ont connu les années 70 ou 80 ou même 90. La faute à qui ?
 
 Dans [une tribune du *Monde*](http://www.lemonde.fr/idees/article/2012/09/05/le-livre-face-au-piege-de-la-marchandisation_1755856_3232.html?xtmc=451&xtcr=1), le collectif des 451 vient de s’en prendre au numérique. Ironie de l’histoire, leur manifeste a aussi été publié sur [un blog](http://les451.noblogs.org/). Cette façon d’attaquer un média en utilisant le média lui-même n’est pas neuve. Je l’ai évoquée dans [*L’alternative Nomade*](http://blog.tcrouzet.com/alternative-nomade/). Extrait :
 
@@ -38,14 +38,13 @@ Toujours dans [*L’alternative Nomade*](http://blog.tcrouzet.com/alternative-no
 
 > Les tenants de l’information solide défendent leur univers. Mais pourquoi devrait-on préférer le livre papier aux supports électroniques qui d’ailleurs n’ont encore capturé qu’une parcelle infime de leurs possibilités d’usage ? Le livre n’est-il pas aussi un dispositif, une simple interface de lecture ? Depuis les innovations évoquées par Illich, n’est-il pas un média interactif ?
 
-### <a name="links"></a>Autres réactions
+### Autres réactions
 
 1. [La matière ne change rien à l’affaire](http://www.auxbordsdesmondes.fr/spip.php?article999)
 
 2. [La détresse des créateurs](http://www.authueil.org/?2012/09/06/2048-la-detresse-des-createur)
 
 3. [Réponse à M. Agamben, et à ses amis](http://alatoisondor.wordpress.com/2012/09/05/reponse-a-m-agamben-et-a-ses-amis/)
-
 
 ### PS 7/9/2012 18:00
 

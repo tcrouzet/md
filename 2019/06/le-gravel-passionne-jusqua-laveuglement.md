@@ -1,6 +1,6 @@
 # Le gravel passionne jusqu’à l’aveuglement
 
-J’ai titré mon précédent billet [Le gravel est une mode : la preuve](https://tcrouzet.com/2019/06/03/le-gravel-est-une-mode-la-preuve/) pour provoquer des réactions. Je n’ai pas été déçu. Le gravel passionne, il n’y a aucun doute.<span id="more-51695"></span>
+J’ai titré mon précédent billet [Le gravel est une mode : la preuve](https://tcrouzet.com/2019/06/03/le-gravel-est-une-mode-la-preuve/) pour provoquer des réactions. Je n’ai pas été déçu. Le gravel passionne, il n’y a aucun doute.
 
 Ceux qui ont lu mon article et ne se sont pas arrêtés à son titre auront compris que je ne prophétisais pas la fin du gravel. Qu’un phénomène commence par une mode n’implique d’ailleurs pas qu’il dépérisse aussi vite qu’il est apparu. Facebook a été une mode en 2007, aujourd’hui le service est un moyen de réseauter pour deux milliards de Terriens, mais il n’est plus du tout à la mode.
 

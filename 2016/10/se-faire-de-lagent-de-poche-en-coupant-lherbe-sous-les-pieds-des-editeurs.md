@@ -1,6 +1,6 @@
 # Se faire de l’agent de poche en coupant l&#8217;herbe sous les pieds des éditeurs
 
-En juillet dernier, sur une plage grecque, ma belle sœur me raconte que sa fille qui entre en cinquième doit lire durant l’été [*L’homme qui plantait des arbres*](https://www.amazon.fr/Lhomme-plantait-arbres-Jean-Giono/dp/1537132245/) de Giono, lecture imposée par son collège parisien. Elle a vu sur Amazon mon édition ebook du livre, mais pas de version papier. « Dommage ! Tu as perdu une vente. »<span id="more-44328"></span>
+En juillet dernier, sur une plage grecque, ma belle sœur me raconte que sa fille qui entre en cinquième doit lire durant l’été [*L’homme qui plantait des arbres*](https://www.amazon.fr/Lhomme-plantait-arbres-Jean-Giono/dp/1537132245/) de Giono, lecture imposée par son collège parisien. Elle a vu sur Amazon mon édition ebook du livre, mais pas de version papier. « Dommage ! Tu as perdu une vente. »
 
 J’ai perçu cette remarque comme un défit.
 

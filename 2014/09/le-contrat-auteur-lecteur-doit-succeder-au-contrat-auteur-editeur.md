@@ -1,6 +1,6 @@
 # Le contrat auteur-lecteur doit succéder au contrat auteur-éditeur
 
-Quand tous les livres sont disponibles gratuitement, comment puis-je continuer à vivre et à savoir que tu me lis ? Avant, je connaissais mes ventes. Aujourd’hui, au temps du « piratage », elles n’ont plus aucun sens (surtout quand tu vois qui vend). Tu dois me faire une promesse.<span id="more-37084"></span>
+Quand tous les livres sont disponibles gratuitement, comment puis-je continuer à vivre et à savoir que tu me lis ? Avant, je connaissais mes ventes. Aujourd’hui, au temps du « piratage », elles n’ont plus aucun sens (surtout quand tu vois qui vend). Tu dois me faire une promesse.
 
 Mais, d’abord, tu te demandes peut-être pourquoi tu devrais payer pour ton plaisir avec moi ? C’est une exigence très discutable. Je n’aime guère l’idée de payer pour le sexe alors pourquoi l’accepter pour un texte ?
 
@@ -29,6 +29,8 @@ Dans ces conditions, sociales et technologiques, les éditeurs pourraient exiger
 Je sens qu'on m'accusera de généraliser. Oui, il existe des gens biens dans toutes les professions. Mais avouez que vos contrats d'édition sont des antiquités. Du moment que je n'ai plus besoin de vous pour me diffuser, vous ne pouvez pas m'engager au-delà du jour où nous ne gagnons plus d'argent ensemble.
 
 ![Je signe ou je ne signe pas ?](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/publishing-contract.jpeg)
+
+Je signe ou je ne signe pas ?
 
 
 

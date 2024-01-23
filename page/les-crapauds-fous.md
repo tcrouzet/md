@@ -11,8 +11,6 @@ De Christophe Colomb à la fin du capitalisme
 
 ##### **papier 6.00 €** : [Amazon](https://www.amazon.fr/dp/1981105778), [Create Space](https://www.createspace.com/7835998).
 
-
-
 Le crapaud fou, c’est ce batracien déboussolé qui ne suit pas ses congénères lors de la migration reproductive. Il s’en va se perdre, souvent ne revient jamais à sa mare d’origine, ne trouve pas de conjoint, meurt… Mais quand tous ses congénères, dans leur migration stéréotypée, se heurtent à un obstacle et succombent, la survie de l’espèce ne tient qu’à lui.
 
 Nous avons besoin plus que jamais de crapauds fous. Ils sont désormais si nombreux parmi nous que, finalement, nous partageons tous un peu de leur folie. Quand toutes ces folies se connecteront, nous entrerons dans une nouvelle époque, une nouvelle civilisation.

@@ -1,6 +1,6 @@
 # Les bits doivent remplacer le PIB
 
-[La lecture de Piketty](http://blog.tcrouzet.com/2014/06/11/piketty-excite-les-liberaux/) me met de plus en plus mal à l’aise. Pas parce qu’il répète sans cesse la même chose et me donne l’impression que je suis stupide, mais parce qu’il parle d’un monde, celui du PIB, qui n’est pas le mien, et celui d’aucun d’entre nous.<span id="more-36080"></span>
+[La lecture de Piketty](http://blog.tcrouzet.com/2014/06/11/piketty-excite-les-liberaux/) me met de plus en plus mal à l’aise. Pas parce qu’il répète sans cesse la même chose et me donne l’impression que je suis stupide, mais parce qu’il parle d’un monde, celui du PIB, qui n’est pas le mien, et celui d’aucun d’entre nous.
 
 Un passage vient de me faire bondir :
 

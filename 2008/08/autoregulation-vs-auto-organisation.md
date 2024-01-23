@@ -1,6 +1,6 @@
 # Autorégulation vs auto-organisation
 
-Si je parle toujours d’auto-organisation, mes interlocuteurs parlent souvent d’autogestion ou d’autorégulation. Et je ne sais vraiment pas ce qu’ils mettent sous ces vocables. Contrairement à mon habitude, je vais passer par le dictionnaire, le mien tout au moins.<span id="more-2578"></span>
+Si je parle toujours d’auto-organisation, mes interlocuteurs parlent souvent d’autogestion ou d’autorégulation. Et je ne sais vraiment pas ce qu’ils mettent sous ces vocables. Contrairement à mon habitude, je vais passer par le dictionnaire, le mien tout au moins.
 
 Par auto-organisation, j’entends un ensemble d’agents autonomes qui interagissent suivant un jeu de règles sans recourir à une instance centralisée. Mon exemple canonique est celui des [oiseaux qui volent en flotte](http://blog.tcrouzet.com/2007/05/10/formation-de-vol/) en obéissant à une poignée de règles. La flotte est une structure émergente, un tout qui dépasse ses parties.
 

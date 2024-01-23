@@ -1,6 +1,6 @@
 # Twitter, c’est une sorte de cubisme
 
-L’histoire de l’art nous a familiarisés avec les périodes : impressionnisme, pointillisme, fauvisme… Et si le Net connaissait aussi des périodes ?<span id="more-28791"></span>
+L’histoire de l’art nous a familiarisés avec les périodes : impressionnisme, pointillisme, fauvisme… Et si le Net connaissait aussi des périodes ?
 
 En 1907, Picasso et Braque inventent le cubisme, grandement influencés par Cézanne. En 1914, ils s’en détournent, quelques peintres poursuivent le mouvement jusqu’en 1921. Depuis, le cubisme est une affaire de peintres du dimanche. Il a continué d’influencer l’art, tout en ayant par lui-même perdu sa fécondité, et jusqu’à sa nécessité d’être.
 

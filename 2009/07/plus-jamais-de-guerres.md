@@ -1,6 +1,6 @@
 # Plus jamais de guerres !
 
-Il est tentant de voir l’homme comme un cancer qui se répand sur la terre. Le pessimisme ambiant en temps de crise peut nous y pousser plus qu’à d’autres époques. Mais quelle est la réalité chiffrée ? [Un article publié dans *NewScientist* démonte les idées reçues.](http://www.newscientist.com/article/mg20327151.500-winning-the-ultimate-battle-how-humans-could-end-war.html?full=true) La guerre ne serait pas une fatalité.<span id="more-7858"></span>
+Il est tentant de voir l’homme comme un cancer qui se répand sur la terre. Le pessimisme ambiant en temps de crise peut nous y pousser plus qu’à d’autres époques. Mais quelle est la réalité chiffrée ? [Un article publié dans *NewScientist* démonte les idées reçues.](http://www.newscientist.com/article/mg20327151.500-winning-the-ultimate-battle-how-humans-could-end-war.html?full=true) La guerre ne serait pas une fatalité.
 
 1. Il existe des cultures non belliqueuses (Aborigène, Inuit…). La guerre n’est donc pas codée génétiquement mais émerge dans certaines situations (la sédentarité par exemple).
 

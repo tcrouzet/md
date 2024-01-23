@@ -1,6 +1,6 @@
 # Les auteurs sont-ils ringards ?
 
-À l’occasion du Salon du livre de Paris, auquel ils accordent encore une importance et dont ils font le centre de la vie éditoriale nationale, les auteurs de tout horizon se regroupent pour diffuser [une lettre ouverte signée par le CPE](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/cpe.pdf) (Conseil Permanent des Écrivains).<span id="more-40047"></span>
+À l’occasion du Salon du livre de Paris, auquel ils accordent encore une importance et dont ils font le centre de la vie éditoriale nationale, les auteurs de tout horizon se regroupent pour diffuser [une lettre ouverte signée par le CPE](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/cpe.pdf) (Conseil Permanent des Écrivains).
 
 Mais nous sommes bien loin de l’idéal réformateur du Conseil National de la Résistance dont le CPE détourne le nom et les objectifs. Quelques extraits et mes commentaires.
 

@@ -12,7 +12,6 @@ Formats : PDF, ePub.
 
 - [iBooks Strore](http://itunes.apple.com/fr/book/propulseurs-dans-le-flux/id383108194) (5,49€).
 
-
 ### Texte intégral gratuit
 
 - [ePub](http://txt.tcrouzet.com/fluxus.epub)

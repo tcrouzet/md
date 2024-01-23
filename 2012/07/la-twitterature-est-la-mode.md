@@ -1,8 +1,6 @@
 # Lisez-vous de la twittérature ?
 
-Concours de circonstances ? Alors que mon [twiller](<http://blog.tcrouzet.com/tag/twitterature/
-
->) [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) est en relecture chez Fayard pour une publication définitive éventuelle, si ça se fait vous le saurez, j’ai l’impression que la twittérature refait parler d’elle.<span id="more-26177"></span>
+Concours de circonstances ? Alors que mon [twiller]() [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) est en relecture chez Fayard pour une publication définitive éventuelle, si ça se fait vous le saurez, j’ai l’impression que la twittérature refait parler d’elle.
 
 [Articles dans *Marianne*, dans *L’Express*, dans les blogs…](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-chroniques/) Peut-être parce que des auteurs populaires se hasardent à lâcher quelques tweets, peut-être aussi tout simplement parce que cette écriture mitraillée engendre un rythme, une forme, une musique… propre à notre époque.
 

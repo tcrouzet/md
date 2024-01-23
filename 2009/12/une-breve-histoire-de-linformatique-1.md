@@ -8,7 +8,7 @@ Pourquoi la journée est-elle divisée en deux fois douze heures ?
 
 Nous avons dix doigts, pas douze.
 
-Hum !<span id="more-12764"></span>
+Hum !
 
 Qu’est-ce qui peut bien faire douze dans l’univers ?
 

@@ -1,6 +1,6 @@
 # Journal d&#8217;une config bikepacking
 
-Plutôt que de publier de temps à autre ma configuration bikepacking, je tiens un journal de configuration, [résumé par un tableau détaillé](https://docs.google.com/spreadsheets/d/1Co6BJql8z7uWCvAokGcDrKaEyAMb-X_zLue6_id3nB4/edit?usp=sharing) (MAJ février 2023).<span id="more-63784"></span>
+Plutôt que de publier de temps à autre ma configuration bikepacking, je tiens un journal de configuration, [résumé par un tableau détaillé](https://docs.google.com/spreadsheets/d/1Co6BJql8z7uWCvAokGcDrKaEyAMb-X_zLue6_id3nB4/edit?usp=sharing) (MAJ février 2023).
 
 ### Avril 2023
 

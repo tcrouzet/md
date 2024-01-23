@@ -10,8 +10,6 @@ roman, Autopublication (éditeur), novembre 2022
 
 Il n'y pas d'âge pour changer de vie
 
-
-
 ![One Minute - T1](https://tcrouzet.com/images_tc/2021/09/T1Onecover-450-250x361.jpg)
 
 ### [One minute](/une-minute/)
@@ -19,8 +17,6 @@ Il n'y pas d'âge pour changer de vie
 roman, PVH éditions (éditeur), mai 2022
 
 La minute où l'humanité découvre qu'elle n'est plus seule dans l'univers
-
-
 
 ![Les Silencieux](https://tcrouzet.com/images_tc/2021/12/silencieux-cover-400-250x388.png)
 
@@ -30,8 +26,6 @@ roman, Autopublication (éditeur), décembre 2021
 
 Un #MeToo au masculin
 
-
-
 ![Adapter pour Adopter](https://tcrouzet.com/images_tc/2021/09/a2a-cover_FR-250x379.jpg)
 
 ### [Adapter pour Adopter](/adapter-pour-adopter/)
@@ -39,8 +33,6 @@ Un #MeToo au masculin
 essai, Autopublication (éditeur), septembre 2021
 
 Pourquoi le gel hydroalcoolique peut sauver votre vie et celle de vos proches.
-
-
 
 ![Vaincre les épidémies](https://tcrouzet.com/images_tc/2020/09/CouvVaincre1600-250x370.jpg)
 
@@ -50,8 +42,6 @@ récit, Hugo Doc (éditeur), octobre 2020
 
 Une passionnante enquête scientifique et humaine
 
-
-
 ![Une initiation au bikepacking](https://tcrouzet.com/images_tc/2019/12/bikepacking-cover-250x393.jpg)
 
 ### [Une initiation au bikepacking](/une-initiation-au-bikepacking/)
@@ -59,8 +49,6 @@ Une passionnante enquête scientifique et humaine
 récit, Thaulk (éditeur), janvier 2020
 
 Comment le voyage à vélo a changé ma vie
-
-
 
 ![Mon père, ce tueur](https://tcrouzet.com/images_tc/2019/04/couvweb-250x347.jpg)
 
@@ -70,8 +58,6 @@ roman, La manufacture de livres (éditeur), août 2019
 
 Pour se garder de transmettre l’héritage de la violence, il faut en connaître la source.
 
-
-
 ![L'homme qui ne comprenait pas les femmes](https://tcrouzet.com/images_tc/2019/03/couv-hom-big-250x360.jpg)
 
 ### [L'homme qui n'aimait pas les femmes](/lhomme-qui-ne-comprenait-pas-les-femmes/)
@@ -79,8 +65,6 @@ Pour se garder de transmettre l’héritage de la violence, il faut en connaî
 roman, Grand Angle (éditeur), mai 2019
 
 Thierry Crouzet arpente la psychologie masculine pour donner corps à un antihéros en quête de reconnaissance.
-
-
 
 ![L'Affaire Deluze](https://tcrouzet.com/images_tc/2018/05/deluze-cover-250x333.jpg)
 
@@ -98,8 +82,6 @@ Application ios/android, Thaulk (éditeur), mai 2018
 
 Des histoires à lire sur Montpellier ou Nîmes
 
-
-
 ![](https://tcrouzet.com/images_tc/2011/03/ablog.png)
 
 ### [Les années blog](/les-annees-blog/)
@@ -107,8 +89,6 @@ Des histoires à lire sur Montpellier ou Nîmes
 journal, Thaulk (éditeur), décembre 2017
 
 Fac-similé du blog
-
-
 
 ![](https://tcrouzet.com/images_tc/2016/03/couv-fr-small-250x389.jpg)
 
@@ -118,8 +98,6 @@ roman, Bragelonne (éditeur), avril 2017
 
 Le thriller qui va changer votre regard sur les antibiotiques
 
-
-
 ![](https://tcrouzet.com/images_tc/2016/08/mrdb-cover-250x405.jpg)
 
 ### [Mon revenu de base](/mon-revenu-de-base/)
@@ -127,8 +105,6 @@ Le thriller qui va changer votre regard sur les antibiotiques
 essai, Thaulk (éditeur), août 2016
 
 Aussi indispensable que l'air
-
-
 
 ![](https://tcrouzet.com/images_tc/2015/05/couv-texttmeca-250x382.jpg)
 
@@ -138,8 +114,6 @@ essai, Publie.net, puis Thaulk (éditeur), juin 2015
 
 L'influence de la technologie sur la littérature
 
-
-
 ![](https://tcrouzet.com/images_tc/2014/10/couv-250x400.jpg)
 
 ### [Clitoria](/clitoria/)
@@ -148,8 +122,6 @@ roman, Thaulk (éditeur), novembre 2014
 
 En 1575, Nicolas Dortoman découvre le clitoris.
 
-
-
 ![](https://tcrouzet.com/images_tc/2007/06/beta-cover-250x384.jpg)
 
 ### [Ératosthène](/eratosthene/)
@@ -157,8 +129,6 @@ En 1575, Nicolas Dortoman découvre le clitoris.
 roman, L'âge d'homme, puis Thaulk (éditeur), août 2014
 
 Le Léonard de Vinci de l'antiquité
-
-
 
 ![Le geste qui sauve](https://tcrouzet.com/images_tc/2018/11/gestebig-250x405.jpg)
 
@@ -169,8 +139,6 @@ récit, L'âge d'homme (éditeur), mai 2014
 Désinfectez vos mains,
 sauvez des vies
 
-
-
 ![](https://tcrouzet.com/images_tc/2012/08/F_CROUZET_HD-250x398.jpg)
 
 ### [La quatrième théorie](/la-quatrieme-theorie/)
@@ -178,8 +146,6 @@ sauvez des vies
 roman, Fayard (éditeur), mars 2013
 
 Un mobile sonne et tout bascule
-
-
 
 ![](https://tcrouzet.com/images_tc/2014/03/cover2017-250x365.jpg)
 
@@ -189,8 +155,6 @@ essai, Thaulk (éditeur), avril 2012
 
 Ne pas voter, c'est résister
 
-
-
 ![](https://tcrouzet.com/images_tc/2012/02/baby-cover-250x389.jpg)
 
 ### [Baby-Foot](/baby-foot/)
@@ -198,8 +162,6 @@ Ne pas voter, c'est résister
 récits, Publie.net, puis Thaulk (éditeur), février 2012
 
 L'art de la conversation et du baby-foot
-
-
 
 ![J'ai débranché](https://tcrouzet.com/images_tc/2011/10/unplug1024-250x398.jpg)
 
@@ -209,8 +171,6 @@ récit, Fayard (éditeur), janvier 2012
 
 Comment revivre sans internet après une overdose
 
-
-
 ![Ya Basta](https://tcrouzet.com/images_tc/2018/12/couv-yabasta-2018-250x381.jpg)
 
 ### [Ya Basta](/ya-basta/)
@@ -218,8 +178,6 @@ Comment revivre sans internet après une overdose
 essai, Publie.net, puis Thaulk (éditeur), juin 2011
 
 Y'en a marre de vénérer les tout-puissants
-
-
 
 ![](https://tcrouzet.com/images_tc/2011/03/couv-250x333.jpg)
 
@@ -229,8 +187,6 @@ récit, autopublication, mars 2011
 
 Notre histoire
 
-
-
 ![](https://tcrouzet.com/images_tc/2010/10/tune11-250x355.jpg)
 
 ### [La tune dans le caniveau](/tune-caniveau/)
@@ -238,8 +194,6 @@ Notre histoire
 nouvelles, Thaulk (éditeur), octobre 2010
 
 Une bataille pour le revenu de base
-
-
 
 ![](https://tcrouzet.com/images_tc/2010/04/id-couv-250x379.png)
 
@@ -249,8 +203,6 @@ poésie, Publie.net, puis Thaulk (éditeur), septembre 2010
 
 Du sérieux, du pro­fond, du léger, du comique…
 
-
-
 ![](https://tcrouzet.com/images_tc/2010/07/cyborg-cover-250x391.png)
 
 ### [La stratégie du cyborg](/la-strategie-du-cyborg/)
@@ -258,8 +210,6 @@ Du sérieux, du pro­fond, du léger, du comique…
 essai, 40K, puis Thaulk (éditeur), juillet 2010
 
 L'humain augmenté par les réseaux sociaux
-
-
 
 ![](https://tcrouzet.com/images_tc/2017/12/alternative-cover-250x391.jpg)
 
@@ -269,8 +219,6 @@ essai, Publie.net, puis Thaulk (éditeur), mars 2010
 
 Vers une complexité volontaire
 
-
-
 ![](https://tcrouzet.com/images_tc/2017/11/crapauds-cover-250x384.jpg)
 
 ### [Les crapauds fous](/les-crapauds-fous/)
@@ -278,8 +226,6 @@ Vers une complexité volontaire
 essai, Thaulk (éditeur), juin 2009
 
 Se perdre ou changer le monde
-
-
 
 ![Le cinquième pouvoir](https://tcrouzet.com/images_tc/2018/11/5thcouv-250x386.png)
 
@@ -289,8 +235,6 @@ essai, Bourin (éditeur), janvier 2007
 
 La décentralisation de la puissance politique
 
-
-
 ![](https://tcrouzet.com/images_tc/2006/12/peuple-cover-250x381.jpg)
 
 ### [Le peuple des connecteurs](/le-peuple-des-connecteurs/)
@@ -298,8 +242,6 @@ La décentralisation de la puissance politique
 essai, Bourin, puis Thaulk (éditeur), février 2006
 
 Ils sont invisibles mais ils changent le monde
-
-
 
 ![](https://tcrouzet.com/images_tc/2011/01/crouzet-bit-sex-bug-blog-250x358.jpg)
 
@@ -309,8 +251,6 @@ roman, Publie.net (éditeur), mars 2004
 
 Un thriller scientifique dans le monde du virus HIV
 
-
-
 ![](https://tcrouzet.com/images_tc/2011/10/couv-250x333.png)
 
 ### [Interdit d'aimer](/interdit-aimer/)
@@ -318,8 +258,6 @@ Un thriller scientifique dans le monde du virus HIV
 poésie, autopublication, décembre 2003
 
 Portrait d'un lieu
-
-
 
 ![Turista](https://tcrouzet.com/images_tc/2018/03/turista-cover2018-250x384.jpg)
 
@@ -337,8 +275,6 @@ roman, autopublication, novembre 1993
 
 Polar écolo-minimaliste
 
-
-
 ![](https://tcrouzet.com/images_tc/2013/05/cover-250x400.jpg)
 
 ### [Équinoxe d’automne](/equinoxe-automne/)
@@ -346,7 +282,5 @@ Polar écolo-minimaliste
 auto-fiction, autopublication, juin 1992
 
 Paris, le 21 septembre 1991
-
-
 
 [Mode texte](/bibliographie/texte/) | [Mode liste](/bibliographie/liste) | [Mode boutique](/bibliographie/) | [Mode compact](/bibliographie/compact)

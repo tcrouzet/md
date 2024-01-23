@@ -1,6 +1,6 @@
 # Le 2.0 sans réciprocité, c’est l’hyper-capitalisme
 
-Depuis une semaine, [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/) est officiellement disponible. Hubert Guillaud m’a signalé que [Cory Doctorow](http://www.npr.org/blogs/alltechconsidered/2010/10/25/130811846/doctorow) tentait lui aussi son [expérience inédite](http://blog.tcrouzet.com/tune-caniveau/#expi).<span id="more-20023"></span>
+Depuis une semaine, [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/) est officiellement disponible. Hubert Guillaud m’a signalé que [Cory Doctorow](http://www.npr.org/blogs/alltechconsidered/2010/10/25/130811846/doctorow) tentait lui aussi son [expérience inédite](http://blog.tcrouzet.com/tune-caniveau/#expi).
 
 Il annonce qu’il gagnera de cette manière 80 000 dollars et qu’il a déjà gagné 10 000 dollars en vendant un tirage de tête à ses fans. Pour ma part, je partagerai les revenus, qui seront infiniment plus faibles, avec tous les membres de l’équipe éditoriale. Dans un mail, Cory m’a dit qu’il fonctionnait sur l’échange réciproque :
 

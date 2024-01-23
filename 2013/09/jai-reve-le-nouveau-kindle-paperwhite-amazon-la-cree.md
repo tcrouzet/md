@@ -1,6 +1,6 @@
 # J’ai rêvé le nouveau Kindle Paperwhite, Amazon l’a créé
 
-J’ai oublié mon Kindle Paperwhite dans un avion. [J’en avais dit beaucoup de mal](http://blog.tcrouzet.com/2012/11/26/kindle-paperwhite-leffroyable-catastrophe/), mais je m’y étais habitué au point de me préparer à le remplacer ASAP. [Et comme par hasard Amazon dévoile aujourd’hui son nouveau bébé.](http://www.amazon.fr/gp/product/B00CTUKFNQ/ref=as_li_tf_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B00CTUKFNQ&linkCode=as2&tag=tcrouzetcom-21)<span id="more-33321"></span>
+J’ai oublié mon Kindle Paperwhite dans un avion. [J’en avais dit beaucoup de mal](http://blog.tcrouzet.com/2012/11/26/kindle-paperwhite-leffroyable-catastrophe/), mais je m’y étais habitué au point de me préparer à le remplacer ASAP. [Et comme par hasard Amazon dévoile aujourd’hui son nouveau bébé.](http://www.amazon.fr/gp/product/B00CTUKFNQ/ref=as_li_tf_tl?ie=UTF8&camp=1642&creative=6746&creativeASIN=B00CTUKFNQ&linkCode=as2&tag=tcrouzetcom-21)
 
 ![Kindle Paperwhite 2013](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/kindle.jpg)
 

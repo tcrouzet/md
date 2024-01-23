@@ -1,7 +1,6 @@
 # Faut-il continuer à enrichir Wikipedia si ça profite à Google ?
 
 Durant des années, j’ai milité en faveur des logiciels libres, des œuvres libres, des contenus libres, des licences Creative Commons… mais je m’interroge désormais sur le bien-fondé de mon engagement.
-<span id="more-45090"></span>
 
 Dans libre, on doit entendre libre d’être utilisé, étudié, modifié, transmis… La liberté d’utiliser et de transmettre implique la possible gratuité (en ce sens qu’une œuvre libre peut être commercialisée, tout en restant accessible gratuitement — c’est le cas de mon [*Geste qui sauve*](http://tcrouzet.com/le-geste-qui-sauve/)).
 

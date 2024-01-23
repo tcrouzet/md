@@ -1,6 +1,6 @@
 # Le restaurant comme preuve de la possibilité du non-marchand
 
-Wikipédia est devenue la référence, le lieu de la vérité, qu’on pointe pour gagner une bataille rhétorique, en se gardant souvent de dire qu’on a soi-même édité l’entrée invoquée.<span id="more-34677"></span>
+Wikipédia est devenue la référence, le lieu de la vérité, qu’on pointe pour gagner une bataille rhétorique, en se gardant souvent de dire qu’on a soi-même édité l’entrée invoquée.
 
 Quand j’étais jeune rédacteur-en-chef, j’utilisais cette tactique en réunion de direction. J’avançais des chiffres issus d’études inventées dans l’instant pour faire avancer mes idées. C’était très efficace, la plupart des gens étant trop fainéants pour démontrer ma fraude et trop effrayés pour s’attaquer au bouledogue pedigree Crouzet.
 

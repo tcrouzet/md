@@ -28,6 +28,8 @@ Bon, je ne suis pas sûr que soumettre une candidature de cette façon soit du g
 
 ![Et puis, je suis presque un voisin.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/marseille.jpg)
 
+Et puis, je suis presque un voisin.
+
 
 
 Tags: NetLittérature, une

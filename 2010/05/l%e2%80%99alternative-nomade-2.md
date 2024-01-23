@@ -1,6 +1,6 @@
 # L’alternative nomade revisitée
 
-Je ne l’ai pas caché, [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) dans sa forme actuelle, plus que dans les idées que j’y exprime, ne me convient pas. Il me semble que le début devrait aller au milieu, que certaines choses n’ont rien à faire dans le texte, l’encombrent, détournent des arguments centraux.<span id="more-16654"></span>
+Je ne l’ai pas caché, [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) dans sa forme actuelle, plus que dans les idées que j’y exprime, ne me convient pas. Il me semble que le début devrait aller au milieu, que certaines choses n’ont rien à faire dans le texte, l’encombrent, détournent des arguments centraux.
 
 Dans la version actuelle de l’alternative, le flux apparaît presque a priori, comme une entité mystique. Il me semble plus judicieux de montrer comment il apparaît, comment il se lie à notre tradition culturelle, comment effectivement il pourrait inaugurer une nouvelle époque de l’humanité… Je dois réordonner le livre dans une perspective évolutive qui se déroule en trois étapes.
 

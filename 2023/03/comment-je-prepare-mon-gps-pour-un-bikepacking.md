@@ -1,6 +1,6 @@
 # Comment je prépare mon GPS pour un bikepacking
 
-[Le 727 approche](https://tcrouzet.com/727tour). Comme nous serons une cinquantaine au départ, pas tous experts en GPS, je vous raconte comment je prépare mon Garmin 530, ce qui vaut pour tous les Garmin ([ce texte résume et complète un texte de 2021](https://tcrouzet.com/2021/03/24/comment-suivre-une-trace-gps-en-bikepacking/)).<span id="more-64846"></span>
+[Le 727 approche](https://tcrouzet.com/727tour). Comme nous serons une cinquantaine au départ, pas tous experts en GPS, je vous raconte comment je prépare mon Garmin 530, ce qui vaut pour tous les Garmin ([ce texte résume et complète un texte de 2021](https://tcrouzet.com/2021/03/24/comment-suivre-une-trace-gps-en-bikepacking/)).
 
 1. Je désactive les services inutiles pour suivre une trace (comme les fonctions de routage qui en plus d’être lentes et fautives, pompent la batterie). [J’ai décrit cette procédure en long en large à la fin d’un article qui me sert de pense-bête.](https://tcrouzet.com/2020/10/16/pourquoi-jai-rachete-gps-garmin/)
 

@@ -1,6 +1,6 @@
 # Covid : point sur la polémique mains-aérosols
 
-Sans certitude sur le mode de transmission du covid, il est difficile de dire quelles mesures de préventions sont efficaces. Alors les politiques essaient un peu tout et n’importe quoi, et attendent de voir ce que ça donne, c’est d’autant plus compliqué quand les modes de transmission deviennent des enjeux quasi idéologiques, que les positions se figent, que les discussions s’enlisent.<span id="more-56303"></span>
+Sans certitude sur le mode de transmission du covid, il est difficile de dire quelles mesures de préventions sont efficaces. Alors les politiques essaient un peu tout et n’importe quoi, et attendent de voir ce que ça donne, c’est d’autant plus compliqué quand les modes de transmission deviennent des enjeux quasi idéologiques, que les positions se figent, que les discussions s’enlisent.
 
 [Des études d’impacts commencent à sortir](https://www.nature.com/articles/s41562-020-01009-0), mais leur résolution n’est pas assez grande, ni leur fiabilité suffisante, pour en conclure quant aux modes de transmissions dominants. Il faut donc en revenir aux études en laboratoire ou aux études épidémiologiques menées sur le terrain.
 

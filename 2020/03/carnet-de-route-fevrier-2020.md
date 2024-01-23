@@ -4,7 +4,7 @@
 
 ### Samedi 1<sup>er</sup>, Balaruc
 
-Il est étonnant que certaines personnes se limitent même dans leur plaisir, se contentent d’une normalité fade et passent leur temps à s’enthousiasmer, criant ce qui n’est pas nécessaire puisque ce devrait être évident pour tous. Je me méfie des faux joyeux, un fond de méchanceté les habite. La lecture est alors le seul moyen de grandir et de prendre du recul en vivant d’autres vies, en se mettant à la place des personnages de roman, d’où la nécessité d’en écrire à chaque époque, une nécessité pas tant littéraire que thérapeutique.<span id="more-53542"></span>
+Il est étonnant que certaines personnes se limitent même dans leur plaisir, se contentent d’une normalité fade et passent leur temps à s’enthousiasmer, criant ce qui n’est pas nécessaire puisque ce devrait être évident pour tous. Je me méfie des faux joyeux, un fond de méchanceté les habite. La lecture est alors le seul moyen de grandir et de prendre du recul en vivant d’autres vies, en se mettant à la place des personnages de roman, d’où la nécessité d’en écrire à chaque époque, une nécessité pas tant littéraire que thérapeutique.
 
 ![L'abbaye de Monceaux](https://tcrouzet.com/images_tc/2020/03/IMG_9057.jpeg)
 

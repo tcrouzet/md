@@ -10,8 +10,6 @@
 
 ##### **papier 9.99 €** : [Amazon](https://www.amazon.fr/Jai-eu-lidée-Thierry-Crouzet/dp/1536927740/), [CreateSpace](https://www.createspace.com/6478805).
 
-
-
 Thierry Crouzet a eu des idées, il les a collectionnées à la façon des « Je me souviens » de Perec. Comiques, politiques, philosophiques, intimistes…, elles racontent en filigrane notre époque.
 
 « Voici des idées qu’a eues Thierry Crouzet, et probablement pas une qui puisse nous laisser indemne, même si on rit, même si – vous verrez – il s’effectue après lire d’étranges contagions… » François Bon
@@ -19,8 +17,6 @@ Thierry Crouzet a eu des idées, il les a collectionnées à la façon des « J
 « Ce livre, bien que l’idée soit passée, est pourtant fait de dizaines de projections, de rêves et de fantasmes. Et c’est très jouissif. » Christophe Grossi
 
 « Du sérieux, du pro­fond, du léger, du comique… » Henri Alberti
-
-
 
 ### Présentation
 

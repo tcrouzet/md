@@ -1,6 +1,6 @@
 # 15 auteurs en 15 minutes
 
-Depuis hier après-midi, j’oscille entre 39 et 40 de fièvre, encore ma sinusite chronique (au passage si quelqu’un a un remède miracle je suis preneur), je n’ai ni la force de lire, ni d’écrire. C’est peut-être l’occasion de répondre au petit jeu que me propose [Nicolas Ancion](http://ancion.hautetfort.com/).<span id="more-20360"></span>
+Depuis hier après-midi, j’oscille entre 39 et 40 de fièvre, encore ma sinusite chronique (au passage si quelqu’un a un remède miracle je suis preneur), je n’ai ni la force de lire, ni d’écrire. C’est peut-être l’occasion de répondre au petit jeu que me propose [Nicolas Ancion](http://ancion.hautetfort.com/).
 
 > Ne prenez pas trop de temps pour y penser. Quinze auteurs (incluant les poètes), qui vous ont influencé et que vous garderez toujours dans votre cœur. Listez les 15 premiers dont vous vous souvenez en moins de 15 minutes.
 
@@ -17,8 +17,6 @@ J’ajoute le livre qui m’a le plus marqué et je les range par date de public
 9. [Nicolas Bouvier](http://fr.wikipedia.org/wiki/Nicolas_Bouvier), *L’usage du monde*, 1963.
 10. [Witold Gombrowicz](http://fr.wikipedia.org/wiki/Witold_Gombrowicz), *Journal*, 1966.
 11. [Frank Herbert](http://fr.wikipedia.org/wiki/Frank_Herbert), *La barrière Santaroga*, 1968.
-    
-    
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/11/frank_herbert___the_santaroga_barrier1.jpg)
 

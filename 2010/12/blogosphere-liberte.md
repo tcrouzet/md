@@ -1,6 +1,6 @@
 # Seule la blogosphère sauvera la liberté
 
-J’ai éprouvé hier durant toute la journée l’impression de vivre un moment historique, impression qui n’a fait que s’amplifier au fil des heures. J’ai publié [mon billet sur Wikileaks](http://blog.tcrouzet.com/2010/12/03/dictature-de-la-transparence/) pour me calmer mais ça n’a rien arrangé. Était-ce une hallucination ou un mauvais trip ?<span id="more-20730"></span>
+J’ai éprouvé hier durant toute la journée l’impression de vivre un moment historique, impression qui n’a fait que s’amplifier au fil des heures. J’ai publié [mon billet sur Wikileaks](http://blog.tcrouzet.com/2010/12/03/dictature-de-la-transparence/) pour me calmer mais ça n’a rien arrangé. Était-ce une hallucination ou un mauvais trip ?
 
 Je n’étais pas le seul inquiet. Sur Twitter, [Pierre Chappaz a déclaré](http://twitter.com/pierrechappaz/status/10793640183988224) :
 

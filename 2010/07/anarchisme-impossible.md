@@ -1,6 +1,6 @@
 # L’anarchisme est impossible
 
-Je me demande bien pourquoi l’anarchisme réveille la haine des bourgeois comme du bon peuple. L’anarchisme est une pensée politique qui nie sa propre possibilité. Pourquoi alors effraie-t-elle ?<span id="more-18064"></span>
+Je me demande bien pourquoi l’anarchisme réveille la haine des bourgeois comme du bon peuple. L’anarchisme est une pensée politique qui nie sa propre possibilité. Pourquoi alors effraie-t-elle ?
 
 Certes des anarchistes ont jadis posé des bombes ? Ils réprouvaient tant l’ordre existant que, plutôt que de le fuir, ils rêvaient de le détruire en provoquant le désordre. Ces anarchistes, rares, minoritaires, déviants, ont été stigmatisés comme symboles de l’anarchisme. La même logique conduit aujourd’hui à accuser tous les musulmans de terroristes.
 

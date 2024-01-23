@@ -5,7 +5,6 @@
 1. Antiquité, [les austères Spartiates pratiquent le laconisme](http://www.lemonde.fr/livres/article/2012/10/03/la-twitterature-une-nouvelle-invention_1768967_3260.html) (en Laconie bien sûr). « Les hommes de peu de mots ont besoin de peu de lois », disait le roi Charilaos.
 
 2. Début XIe, Japon, [Sei Sh?nagon](http://fr.wikipedia.org/wiki/Sei_Sh%C5%8Dnagon) compile des fragments poétiques dans son chef-d'œuvre *Makura no s?shi*.
- 
 
 3. XVII<sup>e</sup>, Japon, [Bash? invente le haïku](http://2fr.wikipedia.org/wiki/Ha%C3%AFku).
 
@@ -117,7 +116,6 @@
 58. 18/10/2012, *BiblioObs*, [La twittérature a son festival... et ses tweets d'or](http://bibliobs.nouvelobs.com/web-side-stories/20121018.OBS6250/la-twitterature-a-son-festival-et-ses-tweets-d-or.html), Nicolas Guégan.
 
 59. 15/11/2012, [Twittérature mécanique](http://academie23.blogspot.fr/2012/11/curm-n10.html), Lucien Suel.
- 
 
 60. 2/2/2013, *Le Devoir* publie [24 nouvelles inédites en 140 caractères](http://www.ledevoir.com/culture/livres/369866/lire-tremblay-pivot-jardin-thuy-et-mavrikakis-en-140-caracteres).
 

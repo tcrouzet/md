@@ -1,6 +1,6 @@
 # Extraits de J’ai débranché
 
-[Un tweet](https://twitter.com/#!/denisjph/status/151304881188249600) m’apprend que le début de [mon livre](http://blog.tcrouzet.com/jai-debranche/) est disponible sur ibookstore. Pour ceux qui n’ont pas d’iPad ou d’iPhone, je capture pour vous les pages disponibles.<span id="more-22725"></span>
+[Un tweet](https://twitter.com/#!/denisjph/status/151304881188249600) m’apprend que le début de [mon livre](http://blog.tcrouzet.com/jai-debranche/) est disponible sur ibookstore. Pour ceux qui n’ont pas d’iPad ou d’iPhone, je capture pour vous les pages disponibles.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/12/photo.png)
 

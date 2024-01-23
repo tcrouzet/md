@@ -1,6 +1,6 @@
 # Suis-je commoniste ?
 
-Cité dans un billet sur le [commonisme](http://fr.wiktionary.org/wiki/commoniste), présenté comme le nouvel *isme* de notre époque, réunissant les adeptes du libre, les défenseurs des biens communs et donc de la planète, je suis tenté de me questionner quant à mon appartenance à cette doctrine.<span id="more-33757"></span>
+Cité dans un billet sur le [commonisme](http://fr.wiktionary.org/wiki/commoniste), présenté comme le nouvel *isme* de notre époque, réunissant les adeptes du libre, les défenseurs des biens communs et donc de la planète, je suis tenté de me questionner quant à mon appartenance à cette doctrine.
 
 Le problème : personne ne me paraît capable d’en poser un début de définition. Il suffit d’assister à la rencontre de deux présupposés commonistes pour s’en convaincre. Ils ne sont en général d’accord sur pas grand-chose, surtout pas sur les méthodes pouvant conduire d’un point A vers un point B.
 

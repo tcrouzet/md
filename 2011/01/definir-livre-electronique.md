@@ -1,6 +1,6 @@
 # Qu’est-ce qu’un livre électronique ?
 
-Dans le monde de l’édition électronique, on se demande s’il faut encore parler de livre. [C’est une question qui va et vient.](http://comprendrelelivrenumerique.com/2011/01/25/le-livre-numerique-cest-un-livre-oui-ou-non/) Je voudrais préciser mon point de vue.<span id="more-21088"></span>
+Dans le monde de l’édition électronique, on se demande s’il faut encore parler de livre. [C’est une question qui va et vient.](http://comprendrelelivrenumerique.com/2011/01/25/le-livre-numerique-cest-un-livre-oui-ou-non/) Je voudrais préciser mon point de vue.
 
 Un livre, c’est un ensemble de feuilles reliées. Un magazine respecte aussi cette définition. Mais vous voyez bien ce que je veux dire. Un livre a une main, une uniformité typographique, c’est un objet qu’on sait reconnaître. [Comme l’écrit Danniel Bourrion](http://comprendrelelivrenumerique.com/2011/01/25/le-livre-numerique-cest-un-livre-oui-ou-non/#comment-42) :
 

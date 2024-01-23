@@ -4,8 +4,6 @@
 
 [PDF à télécharger](http://www.tcrouzet.com/connecteurs/connecteurs.pdf)
 
-**Pour le moment j'ai modifié :**
-
 La définition de connecteur.
 
 J'ai ajouté un avertissement.

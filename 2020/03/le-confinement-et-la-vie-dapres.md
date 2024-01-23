@@ -1,6 +1,6 @@
 # Le confinement et la vie d’après
 
-Avons-nous été engagés malgré nous dans un atelier de découverte de la transition écologique ? Je me pose cette question parce moi-même, qui ai effectué il y a une quinzaine d’années le choix d’un pseudo mode de vie de transitionneur, je constate que ma vie n’est pas bouleversée par le confinement. Si j’avais le droit de me promener dehors librement, rien ne serait changé ou presque.<span id="more-53778"></span>
+Avons-nous été engagés malgré nous dans un atelier de découverte de la transition écologique ? Je me pose cette question parce moi-même, qui ai effectué il y a une quinzaine d’années le choix d’un pseudo mode de vie de transitionneur, je constate que ma vie n’est pas bouleversée par le confinement. Si j’avais le droit de me promener dehors librement, rien ne serait changé ou presque.
 
 Je ne suis pas sûr que vous soyez beaucoup à apprécier la situation. Quand je perçois votre énervement, vois avec quelle promptitude vous enfourchez divers chevaux de bataille, quitte à répéter les arguments officiels sans prendre le temps d’en questionner la validité, je me dis que la situation vous secoue plus que moi.
 

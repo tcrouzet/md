@@ -1,6 +1,6 @@
 # Nouvelle épidémie : les mouches pullulent sur internet
 
-Je ne sais pas vous, mais moi, il y a des gens qui me cherchent dès que je publie quelque chose en ligne. À une époque, quand ils polluaient les blogs de leurs commentaires systématiques, on les appelait des trolls.<span id="more-55504"></span>
+Je ne sais pas vous, mais moi, il y a des gens qui me cherchent dès que je publie quelque chose en ligne. À une époque, quand ils polluaient les blogs de leurs commentaires systématiques, on les appelait des trolls.
 
 Les trolls avaient un certain panache, même une maestria incontestable, faisant de leurs critiques extensives une sorte d’art. Mais leurs successeurs d’aujourd’hui s’apparentent à des mouches à merde, qui viennent semer sur nos posts leurs crottes nauséabondes, aussi brèves que répétitives (tout devient plus court sur le net avec les années, sauf mes billets).
 

@@ -1,6 +1,6 @@
 # La technologie sociale
 
-L’anomie, c’est l’absence de loi. L’anarchie, c’est l’absence de gouvernement. Je ne défends aucun de ces deux systèmes, mais [l’auto-organisation](http://blog.tcrouzet.com/tag/auto-organisation/), tout au moins dans les situations complexes : climat, pauvreté, économie…<span id="more-14352"></span>
+L’anomie, c’est l’absence de loi. L’anarchie, c’est l’absence de gouvernement. Je ne défends aucun de ces deux systèmes, mais [l’auto-organisation](http://blog.tcrouzet.com/tag/auto-organisation/), tout au moins dans les situations complexes : climat, pauvreté, économie…
 
 On me dit souvent que l’auto-organisation est une utopie qui ne sera jamais appliquée. Voyons les choses de manière pragmatique. Le modèle pyramidal nous démontre jour après jour son incapacité à régler les problèmes complexes (mais peut-être que je me trompe). Il faut envisager d’autres approches. Je n’en vois pas d’autre que l’auto-organisation. Alors soit elle est impropre et nous sommes condamnés à un nouvel âge noir, soit il faut peut-être explorer cette piste. Mais attention l’auto-organisation ne se produit pas spontanément. C’est une technologie sociale.
 

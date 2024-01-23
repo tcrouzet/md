@@ -1,6 +1,6 @@
 # Ce que les auteurs gagneront
 
-Les auteurs de BD pour commencer, puis tous les auteurs derrière, entendent prévenir les dérives pour leurs droits que le passage au tout numérique risque d’entraîner. Ils ont raison, bien sûr, mais [leur appel](http://www.jesigne.fr/petition-appeldunumerique'), peut-être surtout par sa formulation et ses sous-entendus conservateurs, me dérange.<span id="more-15681"></span>
+Les auteurs de BD pour commencer, puis tous les auteurs derrière, entendent prévenir les dérives pour leurs droits que le passage au tout numérique risque d’entraîner. Ils ont raison, bien sûr, mais [leur appel](http://www.jesigne.fr/petition-appeldunumerique'), peut-être surtout par sa formulation et ses sous-entendus conservateurs, me dérange.
 
 > Les auteurs déplorent que les initiatives éditoriales partent dans tous les sens -imposent leur cadre- sans plus aucun cadre légal adapté et protecteur des auteurs.
 

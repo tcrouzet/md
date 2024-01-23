@@ -1,6 +1,6 @@
 # J’ai eu l’idée qu’il était temps de passer à la caisse
 
-Combien de textes lisez-vous en ligne chaque jour ? Je parle des textes que vous ne liriez pas ailleurs. Voulez-vous continuer ? Si vous-même vous écrivez, vous êtes dans l’échange, vous n’avez pas à payer. En revanche, si vous aimez un auteur, si vous lui rendez visite régulièrement, il est temps de le récompenser. Et ne dites pas que s’il vous fallait payer vous ne viendriez pas, parce que dans ce cas barrez-vous vite que je ne vous vois plus.<span id="more-19484"></span>
+Combien de textes lisez-vous en ligne chaque jour ? Je parle des textes que vous ne liriez pas ailleurs. Voulez-vous continuer ? Si vous-même vous écrivez, vous êtes dans l’échange, vous n’avez pas à payer. En revanche, si vous aimez un auteur, si vous lui rendez visite régulièrement, il est temps de le récompenser. Et ne dites pas que s’il vous fallait payer vous ne viendriez pas, parce que dans ce cas barrez-vous vite que je ne vous vois plus.
 
 Je n’ai pas trouvé idée plus grinçante pour annoncer la disponibilité payante de la version intégrale de [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/), lissée par Isabelle Crouzet et François Bon, corrigée par Nina Blanchot, éditée par publie.net avec la couverture de [Pacco](http://www.mae-bd.fr/) (qui vient de redémarrer Maé BD).
 

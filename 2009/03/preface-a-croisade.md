@@ -1,6 +1,6 @@
 # Préface à Croisade
 
-Mon [twiller](http://twiller.tcrouzet.com/) s'inspire de brouillons que j'ai écrits ces dernières années. Je suis tombé aujourd'hui sur une note préliminaire de 2006 qui résume la trame générale de [*Croisade*](http://twiller.tcrouzet.com/) et qui pourrait trouver sa place en tête du roman.<span id="more-5021"></span>
+Mon [twiller](http://twiller.tcrouzet.com/) s'inspire de brouillons que j'ai écrits ces dernières années. Je suis tombé aujourd'hui sur une note préliminaire de 2006 qui résume la trame générale de [*Croisade*](http://twiller.tcrouzet.com/) et qui pourrait trouver sa place en tête du roman.
 
 ---
 

@@ -1,6 +1,6 @@
 # Un nouveau pouvoir : oui ou non ?
 
-À force de voir des gens tenir un blog pour dire que ça n’a aucune influence, aucune importance, aucun sens, je perds patience. Ha les sadomasos. Dernier exemple en date : [Telos](http://www.telos-eu.com/2007/03/les_creatifs_culturels_sontils.php).<span id="more-402"></span>
+À force de voir des gens tenir un blog pour dire que ça n’a aucune influence, aucune importance, aucun sens, je perds patience. Ha les sadomasos. Dernier exemple en date : [Telos](http://www.telos-eu.com/2007/03/les_creatifs_culturels_sontils.php).
 
 Je répète une nouvelle fois que les blogs sont avant tout une arme de politique locale, d’une politique d’action au sens le plus noble. Ne cherchez pas systématiquement à juger de leur influence au regard d’une élection nationale. Une élection de cette nature ne sauvera pas la planète du dérèglement climatique, elle ne changera pas la face du monde car elle va mettre au pouvoir une marionnette.
 

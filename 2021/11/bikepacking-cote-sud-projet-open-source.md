@@ -1,6 +1,6 @@
 # Bikepacking côté sud &#8211; projet open source
 
-L’idée est simple : créer une trace VTT qui suivra la côte française méditerranéenne, de Cerbère à Menton. Je me dis que ce serait une belle trace à faire en hiver, quand il n’y a pas de touristes.<span id="more-60983"></span>
+L’idée est simple : créer une trace VTT qui suivra la côte française méditerranéenne, de Cerbère à Menton. Je me dis que ce serait une belle trace à faire en hiver, quand il n’y a pas de touristes.
 
 Dès qu’une fenêtre météo se présentera et que des copains seront dispo, j’espère effectuer la partie de Cerbère à Sète, soit 280 km pour 1 800 m de dénivelé. J’ai tracé la partie entre Cerbère et Narbonne en compilant des traces trouvées à droite à gauche, ainsi qu’à l’aide le l’IGN. Elle est donc hautement prototype. La suite jusqu’à la Grande-Motte m’est beaucoup plus familière et je connais de nombreuses variantes.
 

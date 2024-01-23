@@ -1,6 +1,6 @@
 # Pourquoi je fais du vélo
 
-Mon copain écrivain Philippe Castelneau publie [une lettre électronique apériodique passionnante](https://castelneau.substack.com/). Le numéro #44 nous place en compagnie de Kurt Vonnegut. [Kurt prévient sa femme qu’il sort acheter une enveloppe](https://amyeighttrack.wordpress.com/2010/12/04/kurt-vonnegut-on-david-brancaccio/) :<span id="more-60936"></span>
+Mon copain écrivain Philippe Castelneau publie [une lettre électronique apériodique passionnante](https://castelneau.substack.com/). Le numéro #44 nous place en compagnie de Kurt Vonnegut. [Kurt prévient sa femme qu’il sort acheter une enveloppe](https://amyeighttrack.wordpress.com/2010/12/04/kurt-vonnegut-on-david-brancaccio/) :
 
 > « Eh bien, elle me dit, tu n’es pas un homme pauvre, que je sache ! Pourquoi n’achètes-tu pas en ligne une centaine d’enveloppes, que tu rangerais dans le placard ? Moi, je fais semblant de ne pas l’entendre, et je sors acheter cette enveloppe, parce que je sais que je vais passer un sacré bon moment tout le temps que ça va me prendre. Je rencontre un tas de gens. Je vois de magnifiques bébés. Un camion de pompiers passe dans la rue, et je leur fais signe, le pouce levé. Et je demande à une femme quel genre de chien elle promène…
 > 

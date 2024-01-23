@@ -1,6 +1,6 @@
 # Digital burn-out : le problème, c’est les autres
 
-Pour [Le portail de langues franco-allemand](http://www.fplusd.org/), Chloé Stevenson m'incite avec ses questions à me retourner sur mon expérience de déconnexion. Déjà trois ans !<span id="more-36446"></span>
+Pour [Le portail de langues franco-allemand](http://www.fplusd.org/), Chloé Stevenson m'incite avec ses questions à me retourner sur mon expérience de déconnexion. Déjà trois ans !
 
 — *À quoi ressemblait une journée classique avant le 1<sup>er</sup> avril 2011 ?*
 
@@ -69,6 +69,8 @@ Je n’ai pas disparu de ce monde, mais je garde une distance prudente. Je m’e
 — Ça serait avec joie parce que l’ascèse est toujours enrichissante, peu importe à quoi on renonce. D’un autre côté, j’alterne désormais sans cesse les phases de connexion et de déconnexion. Je travaille ma pleine présence.
 
 ![Facile de méditer dans ces conditions.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/bala.jpg)
+
+Facile de méditer dans ces conditions.
 
 
 

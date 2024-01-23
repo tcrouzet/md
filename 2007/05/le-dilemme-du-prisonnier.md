@@ -1,6 +1,6 @@
 # Le dilemme du prisonnier
 
-Imaginez. Vous êtes un homme libre, avec un autre homme libre vous êtes en lutte contre les [mysticocapitalistes](http://blog.tcrouzet.com/2007/05/20/integrisme-ou-ecologie-faut-choisir/) et ils vous emprisonnent, vous enfermant chacun dans des cellules isolées. Ils commencent alors à vous interroger afin d’établir votre culpabilité.<span id="more-458"></span>
+Imaginez. Vous êtes un homme libre, avec un autre homme libre vous êtes en lutte contre les [mysticocapitalistes](http://blog.tcrouzet.com/2007/05/20/integrisme-ou-ecologie-faut-choisir/) et ils vous emprisonnent, vous enfermant chacun dans des cellules isolées. Ils commencent alors à vous interroger afin d’établir votre culpabilité.
 
 - Si aucun de vous deux ne dénonce l’autre, le dossier ne peut être bouclé, chacun écope d’une peine clémente de 3 ans. Vous avez coopéré sans avoir communiqué.
 
@@ -11,8 +11,6 @@ Imaginez. Vous êtes un homme libre, avec un autre homme libre vous êtes en lut
 Cette célèbre situation dite [dilemme du prisonnier](http://fr.wikipedia.org/wiki/Dilemme_du_prisonnier) se produit sans cesse dans la vie quotidienne. Nous nous trouvons souvent face à un choix cornélien : faut-il collaborer ou trahir ?
 
 Par exemple, si un commerçant baisse le prix de ses produits (forme de trahison de la concurrence), il gagne. Mais si ses concurrents suivent, tout le monde perd. Si personne ne baisse les prix, tout le monde gagne.
-
-**Tit for tat**
 
 Ces formes schématiques de coopération/trahison peuvent se jouer dans deux cadres très différents.
 
@@ -25,8 +23,6 @@ Au début des années 1980, Robert Axelrod étudia cette seconde situation et ra
 Il découvrit que dans d’une société de joueurs qui se retrouvent souvent face-à-face, la meilleure stratégie est « dent-pour-dent, œil-pour-œil » (*tit for tat* en anglais). Si, au cours d’une partie, un joueur trahit, son adversaire trahira lors de la partie suivante. Et ainsi de suite.
 
 Immédiatement, on voit que si un joueur coopère, son adversaire coopère lors de la partie suivante. Si deux joueurs qui appliquent cette stratégie se rencontrent, ils vont collaborer longtemps.
-
-**Le méchant**
 
 Je voudrais maintenant reprendre un exemple donné par [Henri Alberti](http://henrialberti.blogspot.com/) dans un de ses [commentaires](http://blog.tcrouzet.com/2007/05/11/formation-de-vol-2/#comment-24149).
 

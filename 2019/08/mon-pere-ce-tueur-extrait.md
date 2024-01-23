@@ -1,6 +1,6 @@
 # Mon père, ce tueur, extrait
 
-Voici le premier chapitre de [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/), mon roman le plus intime, qui sort pour la rentrée littéraire 2019. Cet extrait est également disponible chez [les librairies en ligne](https://tcrouzet.com/mon-pere-ce-tueur/#librairies) ainsi que [sur le site de La manufacture de livres](https://www.lamanufacturedelivres.com/livres/fiche/153/crouzet-thierry-mon-pere-ce-tueur), mon éditeur.<span id="more-52142"></span>
+Voici le premier chapitre de [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/), mon roman le plus intime, qui sort pour la rentrée littéraire 2019. Cet extrait est également disponible chez [les librairies en ligne](https://tcrouzet.com/mon-pere-ce-tueur/#librairies) ainsi que [sur le site de La manufacture de livres](https://www.lamanufacturedelivres.com/livres/fiche/153/crouzet-thierry-mon-pere-ce-tueur), mon éditeur.
 
 ---
 
@@ -87,7 +87,5 @@ Aujourd’hui, alors que la mémoire se réédifie, je reste incapable d’ouvri
 ---
 
 [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/) est disponible chez les libraires indépendants ainsi que chez les grandes enseignes physiques ou en ligne. Si vous aimez ce texte, parlez-en à vos amis, sur les réseaux sociaux, chez les libraires numériques, sur [Babelio](https://www.babelio.com/livres/Crouzet-Mon-pere-ce-tueur/1152642), un site vital pour la promotion de la littérature contemporaine.
-
-\[bookshop function="bookshop\_store" book="monpere" langue="" style=4\]
 
 Tags: Buzz, une

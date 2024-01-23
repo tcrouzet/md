@@ -2,7 +2,7 @@
 
 Le cinquième pouvoir est une force de décentralisation médiatique, énergétique, économique… et pourquoi pas spirituelle.
 
-Pouvoir doit être entendu au sens de pouvoir faire, capacité d'agir et non pas capacité d'ordonner ou de dominer (c'est en fait un non pouvoir). Un point a au mieux le pouvoir sur lui-même et c'est de ce pouvoir éventuel que peut hypothétiquement émerger un pouvoir global. Il se traduit par des changements et non par des contraintes imposées de manière autoritaire, par le haut, ce que j'entends par pouvoir.<span id="more-5393"></span>
+Pouvoir doit être entendu au sens de pouvoir faire, capacité d'agir et non pas capacité d'ordonner ou de dominer (c'est en fait un non pouvoir). Un point a au mieux le pouvoir sur lui-même et c'est de ce pouvoir éventuel que peut hypothétiquement émerger un pouvoir global. Il se traduit par des changements et non par des contraintes imposées de manière autoritaire, par le haut, ce que j'entends par pouvoir.
 
 Le cinquième pouvoir, bien que force de décentralisation, n'interdit pas l'existence de zones centralisées et de pouvoirs au sens classique. Il a même besoin de plateformes d'échange, qui d'une certaine manière sont centralisées.
 

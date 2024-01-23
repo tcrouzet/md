@@ -1,6 +1,6 @@
 # Investir les espaces numériques
 
-Quand Twitter, Facebook, et même la blogosphère, ne nous plaisent pas, nous pouvons les taguer, les rider, les détourner de leur usage pour y injecter de la beauté, ou pour les retourner contre leurs créateurs.<span id="more-31366"></span>
+Quand Twitter, Facebook, et même la blogosphère, ne nous plaisent pas, nous pouvons les taguer, les rider, les détourner de leur usage pour y injecter de la beauté, ou pour les retourner contre leurs créateurs.
 
 Les jeunes s’installent dans les squares, des bancs semblent mieux leur convenir que d’autres, ou l’entrée d’un parking, ou les marches d’un escalier aux arêtes ébréchées par les skates et les trottinettes.
 

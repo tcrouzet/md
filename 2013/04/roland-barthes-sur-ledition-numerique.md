@@ -1,6 +1,6 @@
 # Roland Barthes sur l’édition numérique
 
-Il nous arrive de plus en plus souvent de compiler des textes écrits sur des blogs, sur Twitter, sur Facebook… pour en faire des ebooks ou des livres. Chaque fois, [j’ai l’impression que la conversion implique une perte](http://blog.tcrouzet.com/2013/04/15/la-discontinuite-du-web-et-leclatement-de-nos-vies/), comme si une qualité propre au web s’évanouissait au cours de l’opération.<span id="more-32569"></span>
+Il nous arrive de plus en plus souvent de compiler des textes écrits sur des blogs, sur Twitter, sur Facebook… pour en faire des ebooks ou des livres. Chaque fois, [j’ai l’impression que la conversion implique une perte](http://blog.tcrouzet.com/2013/04/15/la-discontinuite-du-web-et-leclatement-de-nos-vies/), comme si une qualité propre au web s’évanouissait au cours de l’opération.
 
 [Dans un billet de 2011](http://blog.tcrouzet.com/2011/01/26/definir-livre-electronique/), j’ai défini le livre ou l’ebook comme la projection d’un codex (document hypertexte associé à un code informatique). Ce processus implique une perte d’information, une sorte d’aplatissement, métaphoriquement un passage de la 3D à la 2D. Cette perte expliquerait pourquoi j’éprouve un malaise quand j’ouvre un livre/ebook issu d’une expérience web. Je me demande alors si nous autres auteurs web ne faisons pas fausse route en nous préoccupant « d’édition numérique », si au contraire nous ne devrions pas « augmenter » nos créations plutôt que les aplatir (créer des apps est tout aussi réductionniste).
 

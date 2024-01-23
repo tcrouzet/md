@@ -1,6 +1,6 @@
 # La démocratie, c’est le partage non-marchand
 
-Sous prétexte que je suis [commoniste](http://blog.tcrouzet.com/2013/11/26/amis-commonistes/), je ne serais pas démocrate. Étrange idée. Le commoniste ne souhaite rien d’autre qu’une gestion harmonieuse des ressources limitées et de leur pendant, les ressources potentiellement illimitées, telles les œuvres culturelles dématérialisées, dont il juge inacceptable de priver les plus pauvres au nom de la défense du marché.<span id="more-35138"></span>
+Sous prétexte que je suis [commoniste](http://blog.tcrouzet.com/2013/11/26/amis-commonistes/), je ne serais pas démocrate. Étrange idée. Le commoniste ne souhaite rien d’autre qu’une gestion harmonieuse des ressources limitées et de leur pendant, les ressources potentiellement illimitées, telles les œuvres culturelles dématérialisées, dont il juge inacceptable de priver les plus pauvres au nom de la défense du marché.
 
 Par harmonie, le commoniste entend « Partage de la ressource équitablement entre tous. » L’eau n’est pas la propriété du constructeur du barrage, mais de tous ceux qui vivent en amont et en aval de la rivière. Un œuvre n’est pas la propriété exclusive de son créateur, mais de tous ceux qui l’irriguent intellectuellement et esthétiquement. Pour certains, le commoniste ne serait pas démocrate parce qu’il priverait le constructeur du barrage comme l’artiste d’une partie de sa richesse.
 
@@ -31,6 +31,8 @@ Si vous pleurez que personne ne vous écoute, c’est que votre modèle ne peut 
 Le don a cette capacité. Je ne sais pas quel sera l’avenir de l’économie de paix, mais je sais qu’elle a un avenir possible. Elle peut naître, et, pour preuve, elle est déjà dans son enfance.
 
 ![Pavi Mehta, reine du dif-tiv-ism.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/Pavi-Mehta.jpg)
+
+Pavi Mehta, reine du gif-tiv-ism.
 
 
 

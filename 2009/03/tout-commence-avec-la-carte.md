@@ -1,6 +1,6 @@
 # Tout commence avec la carte
 
-J’aime particulièrement les cartes des réseaux parce c’est sans doute en les contemplant, comme un voyageur qui rêve au-dessus des cartes géographiques, que j’ai eu l’intuition qu’une autre civilisation était en train de germer dans l’ancienne.<span id="more-5054"></span>
+J’aime particulièrement les cartes des réseaux parce c’est sans doute en les contemplant, comme un voyageur qui rêve au-dessus des cartes géographiques, que j’ai eu l’intuition qu’une autre civilisation était en train de germer dans l’ancienne.
 
 ![maladienet](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/03/maladienet.gif)
 

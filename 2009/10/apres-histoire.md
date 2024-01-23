@@ -1,6 +1,6 @@
 # Après l’Histoire
 
-Coup sur coup, en octobre 2009, quelques personnalités lancèrent des propos alarmistes. « Le Net est la plus grande saloperie qu’aient jamais inventée les hommes ! déclara Jacques Séguéla » « Il y a deux espaces d’expression, un espace qui n’est pas légitime qui est internet et un espace légitime qui est celui des médias, lâcha Dominique Wolton » « Le net est le lieu de la liquéfaction, conclut Alain Finkielkraut. »<span id="more-11461"></span>
+Coup sur coup, en octobre 2009, quelques personnalités lancèrent des propos alarmistes. « Le Net est la plus grande saloperie qu’aient jamais inventée les hommes ! déclara Jacques Séguéla » « Il y a deux espaces d’expression, un espace qui n’est pas légitime qui est internet et un espace légitime qui est celui des médias, lâcha Dominique Wolton » « Le net est le lieu de la liquéfaction, conclut Alain Finkielkraut. »
 
 Et si, justement, plutôt que de s’écrouler le monde passait de l’état solide à l’état liquide ? Et si après l’Histoire, cette Histoire écrite dans le marbre, souvent vécue dans la contrainte et les pesanteurs, nous ouvrions une nouvelle époque pour l’humanité, une époque plus fluide, plus liquide, plus labile ? La vie ne serait-elle pas plus passionnante, plus riche, plus créative, plus harmonieuse ?
 

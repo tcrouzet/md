@@ -1,6 +1,6 @@
 # Le gravel n’est pas le vélo de bikepacking idéal
 
-Alors quel est ce vélo idéal ? Réponse rapide : il n’existe pas. Je pourrais m’arrêter là ou proposer une autre réponse plus utile : c’est le vélo avec lequel on se sent capable de rouler dix à quinze heures par jour, jour après jour, mais même cette réponse est insuffisante.<span id="more-51699"></span>
+Alors quel est ce vélo idéal ? Réponse rapide : il n’existe pas. Je pourrais m’arrêter là ou proposer une autre réponse plus utile : c’est le vélo avec lequel on se sent capable de rouler dix à quinze heures par jour, jour après jour, mais même cette réponse est insuffisante.
 
 Avec autorité, certains affirment que le vélo de bikepacking idéal est un gravel, ou un 29er drop-bar genre Salsa Cutthroat, ou un VTT rigide genre Surly Ogre, ou un VTT semi-rigide, ou un fat bike, ou une bonne vieille randonneuse. Ils ont tous raison et tous tort.
 

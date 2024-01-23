@@ -1,6 +1,6 @@
 # Faut-il un statut pour les blogueurs ?
 
-Cette fois ce n’est pas un titre ironique, quoi qu’il y aurait pourtant moyen de traiter du sujet avec ironie. Suis-je d’ailleurs capable de ne pas être ironique ? Mais ce n’est pas le sujet. J’en ai assez d’entendre dire que les blogueurs sont des amateurs ou des dilettantes et que les journalistes, et de manière plus générale tous les salariés, sont des professionnels.<span id="more-13025"></span>
+Cette fois ce n’est pas un titre ironique, quoi qu’il y aurait pourtant moyen de traiter du sujet avec ironie. Suis-je d’ailleurs capable de ne pas être ironique ? Mais ce n’est pas le sujet. J’en ai assez d’entendre dire que les blogueurs sont des amateurs ou des dilettantes et que les journalistes, et de manière plus générale tous les salariés, sont des professionnels.
 
 Remontons un peu dans le temps. Flaubert ou Proust n’ont jamais gagné un kopeck avec leurs textes. Alors étaient-ils des amateurs ? Non, n’est-ce pas ? J’aurais même tendance à dire qu’on se souvient des œuvres de ceux qui ne les produisent que par amour de l’art. Bien sûr cette distinction ne marche pas. Il suffit d’invoquer Balzac.
 

@@ -1,6 +1,6 @@
 # Les journalistes nous gazent
 
-Si je crois que le Flux imprègne notre société, je crois aussi qu’il n’est pas homogène. [Si comme je l’ai défini](http://blog.tcrouzet.com/2010/01/25/densite-du-flux/), il dépend du rapport entre le trafic d’information ramené au nombre de liens entre les informations, il existe des zones fluides et d’autres beaucoup moins fluides. Nous ne vivons pas toujours dans le Flux. La plupart d’entre-nous n’y ont même sans doute jamais mis les pieds (alors même qu'ils passent leur temps sur le net).<span id="more-14129"></span>
+Si je crois que le Flux imprègne notre société, je crois aussi qu’il n’est pas homogène. [Si comme je l’ai défini](http://blog.tcrouzet.com/2010/01/25/densite-du-flux/), il dépend du rapport entre le trafic d’information ramené au nombre de liens entre les informations, il existe des zones fluides et d’autres beaucoup moins fluides. Nous ne vivons pas toujours dans le Flux. La plupart d’entre-nous n’y ont même sans doute jamais mis les pieds (alors même qu'ils passent leur temps sur le net).
 
 Les évolutionnistes comme Robin Dunbar pensent [que nous sommes câblés pour acquérir de nouvelles informations](http://www.newscientist.com/article/mg20527431.600-the-dangers-of-a-highinformation-diet.html). C’était initialement pour nous un moyen de survivre. Mais qu’advient-il quand nous croulons sous l’information ? Nous risquons de les consommer jusqu’à succomber d’information overload… parce que nous sommes persuadés que connaître procure un avantage.
 

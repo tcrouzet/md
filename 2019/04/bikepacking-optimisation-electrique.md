@@ -1,6 +1,6 @@
 # Bikepacking : optimisation électrique
 
-Beaucoup de bikepackers ne pensent que voyage, moi je n’oublie jamais [les quatre dimensions du vélo](https://tcrouzet.com/2018/11/27/lart-du-velo/) : sportive, sociale, pilotage et esthétique.<span id="more-51387"></span>
+Beaucoup de bikepackers ne pensent que voyage, moi je n’oublie jamais [les quatre dimensions du vélo](https://tcrouzet.com/2018/11/27/lart-du-velo/) : sportive, sociale, pilotage et esthétique.
 
 Le voyage implique des rencontres, surtout s’il est pratiqué à plusieurs (dimension sociale). Il implique de découvrir des paysages, des lumières, des senteurs (dimension esthétique). Il implique du sport, mais pas forcément beaucoup : on prend son temps et on ne cherche pas la difficulté pour la difficulté, style grimper un col pour le plaisir de l’ascension quand une route moins difficile permet de l’éviter. En voyage, on va d’un point à un autre par le chemin le plus exaltant, mais pas nécessairement le plus exigeant physiquement. L’important, c’est de durer. Enfin, il y a la dimension pilotage, qui n’a pas de lien évident avec le voyage, que beaucoup de cyclos mettent de côté, mais pas moi. Je veux que ma bécane fusionne avec moi jusqu’à ce que je glisse sur les routes et les chemins. Alors le poids joue contre moi : il bride mes sensations, limite mes possibilités, m’interdit certains itinéraires. Avant de me lancer dans un raid de bikepacking, je traque les grammes inutiles.
 

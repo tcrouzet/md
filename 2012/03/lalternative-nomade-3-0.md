@@ -1,6 +1,6 @@
 # L’alternative nomade 3.0
 
-Alors que j’étais déconnecté et écrivais [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), j’ai retravaillé [*L’alternative nomade*](http://blog.tcrouzet.com/jai-debranche/), mon texte qui nous engage le plus profondément à la connexion.<span id="more-23393"></span>
+Alors que j’étais déconnecté et écrivais [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), j’ai retravaillé [*L’alternative nomade*](http://blog.tcrouzet.com/jai-debranche/), mon texte qui nous engage le plus profondément à la connexion.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/01/couv1024-350x534.png)
 

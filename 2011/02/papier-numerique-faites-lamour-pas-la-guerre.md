@@ -1,6 +1,6 @@
 # Papier, numérique : faites l&#8217;amour pas la guerre
 
-Le 25 janvier, à l’occasion de la [ZAL](http://blog.tcrouzet.com/2011/01/05/zone-d%E2%80%99autonomie-litteraire/) qui se tenait à Montpellier, j’ai discuté avec Marion Mazauric de l’édition numérique. J’ai fini par repêcher l’enregistrement du débat dans les méandres de mon iPhone.<span id="more-21271"></span>
+Le 25 janvier, à l’occasion de la [ZAL](http://blog.tcrouzet.com/2011/01/05/zone-d%E2%80%99autonomie-litteraire/) qui se tenait à Montpellier, j’ai discuté avec Marion Mazauric de l’édition numérique. J’ai fini par repêcher l’enregistrement du débat dans les méandres de mon iPhone.
 
 \
 

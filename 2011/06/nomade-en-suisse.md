@@ -1,6 +1,6 @@
 # Nomade en Suisse
 
-[J'étais déconnecté...](http://blog.tcrouzet.com/tag/jai-debranche/) et je publie ce billet en différé pour mémoire. [Pour plus détails...](http://blog.rezonance.ch/wordpress/2011/07/25/thierry-crouzet/)<span id="more-22448"></span>
+[J'étais déconnecté...](http://blog.tcrouzet.com/tag/jai-debranche/) et je publie ce billet en différé pour mémoire. [Pour plus détails...](http://blog.rezonance.ch/wordpress/2011/07/25/thierry-crouzet/)
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/10/Thierry-Crouzet.jpg)
 

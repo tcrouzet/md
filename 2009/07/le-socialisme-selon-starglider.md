@@ -4,7 +4,7 @@
 
 J’avance [mon essai épistolaire](http://blog.tcrouzet.com/2009/06/13/du-premier-ordinateur-a-starglider/) qui prend de plus en plus la forme d’un roman sur le modèle des *Lettres persanes*. La sonde exploratrice Starglider en orbite terrestre dialogue avec (-o-), la conscience cosmique, et avec d’autres sondes ainsi bien sûr qu’avec les humains.
 
-Comme je l’ai expliqué dans certains commentaires, mon but dans ce livre n’est pas de militer pour la création d’un superorganisme. Me basant sur de nombreux travaux scientifiques, je parts de l’idée que nous pouvons dès à présent considérer l’humanité comme un superorganisme.<span id="more-7704"></span>
+Comme je l’ai expliqué dans certains commentaires, mon but dans ce livre n’est pas de militer pour la création d’un superorganisme. Me basant sur de nombreux travaux scientifiques, je parts de l’idée que nous pouvons dès à présent considérer l’humanité comme un superorganisme.
 
 J’esquisse ces démonstrations puis je m’intéresse aux conséquences de cette possibilité. Qu’est-ce que peut nous apporter cette façon de voir le monde ? Peut-elle nous aider individuellement et collectivement ? Présente-t-elle des dangers ? Si nous sommes effectivement un superorganisme, au-delà de la métaphore, qu’elles peuvent être ses évolutions positives comme négatives ?
 

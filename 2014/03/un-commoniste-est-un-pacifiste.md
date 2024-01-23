@@ -1,22 +1,17 @@
 # Un commoniste est un pacifiste
 
-Les nouveaux alignements politiques ne disposent pas de leur petit livre rouge pour figer leur discours. Alors il faut se répéter, expliquer, préciser. Et répondre aux questions qui surgissent.<span id="more-34644"></span>
+Les nouveaux alignements politiques ne disposent pas de leur petit livre rouge pour figer leur discours. Alors il faut se répéter, expliquer, préciser. Et répondre aux questions qui surgissent.
 
 ### Rareté vs abondance
 
 Il est vrai que nous utilisons souvent ces concepts sans les définir avec précision. Il existe plusieurs formes de rareté et d’abondance, et entre elles des choses qui ne sont ni rares ni abondantes ([tout cela a rapport avec la théorie de la complexité](http://blog.tcrouzet.com/2013/02/07/une-bd-pour-comprendre-la-complexite/)).
-
-**Rareté naturelle** L’or est rare en l’état de nos technologies. Idem pour le pétrole et la plupart des ressources fossiles. La biosphère, elle, est limitée. Les choses sont rares, les possibles sont limités. Les deux qualificatifs sont proches.
-
-**Abondance naturelle** L’air est abondant, l’eau à l’échelle planétaire, l’énergie solaire reçue quotidiennement. Les terrains étaient naturellement abondants jusqu’à ce que la population augmente. L’information est également abondante sur le Net, à la TV, dans les bibliothèques.
-
-**Rareté voulue** Dans beaucoup de pays l’eau est abondante, mais les constructeurs de barrages décident de la faire payer avec une monnaie elle-même raréfiée artificiellement (la théorie du revenu de base montre que la monnaie pourrait être abondante). Un livre sous copyright est raréfié artificiellement par rapport à un livre sous licence Creative Commons qui peut être librement copié et distribué. Quand on dit « rendre rare », il s’agit d’une rareté relative par rapport à l’abondance possible. C’est une raréfaction artificielle.
-
-**Abondance voulue** L’énergie pourrait être rendue abondance pour peu que nous déployions le solaire, l’éolien, la géothermie… Des médicaments deviennent abondants lorsque les brevets qui les protègent sont levés. Les sculptures sont des œuvres naturellement rares, mais le recours aux imprimantes 3D pourrait les rendre abondantes.
+ L’or est rare en l’état de nos technologies. Idem pour le pétrole et la plupart des ressources fossiles. La biosphère, elle, est limitée. Les choses sont rares, les possibles sont limités. Les deux qualificatifs sont proches.
+ L’air est abondant, l’eau à l’échelle planétaire, l’énergie solaire reçue quotidiennement. Les terrains étaient naturellement abondants jusqu’à ce que la population augmente. L’information est également abondante sur le Net, à la TV, dans les bibliothèques.
+ Dans beaucoup de pays l’eau est abondante, mais les constructeurs de barrages décident de la faire payer avec une monnaie elle-même raréfiée artificiellement (la théorie du revenu de base montre que la monnaie pourrait être abondante). Un livre sous copyright est raréfié artificiellement par rapport à un livre sous licence Creative Commons qui peut être librement copié et distribué. Quand on dit « rendre rare », il s’agit d’une rareté relative par rapport à l’abondance possible. C’est une raréfaction artificielle.
+ L’énergie pourrait être rendue abondance pour peu que nous déployions le solaire, l’éolien, la géothermie… Des médicaments deviennent abondants lorsque les brevets qui les protègent sont levés. Les sculptures sont des œuvres naturellement rares, mais le recours aux imprimantes 3D pourrait les rendre abondantes.
 
 La rareté et l’abondance n’ont pas de lien immédiat avec le numérique ou l'immatériel, bien que la technologie ait les moyens de rendre abondant quelque chose de rare (un livre copiable à l’infini) ou rare quelque chose d’abondant (l’eau en construisant des barrages).
-
-**Commoniser** C’est l’action de transformer un bien rare ou raréfié en un bien commun. Exemple quand soixante-dix ans après la mort d’un auteur son œuvre bascule dans le domaine public. Je peux ainsi commoniser mes livres. [Didier Pittet a commonisé la formule du gel antibactérien.](http://blog.tcrouzet.com/le-geste-qui-sauve/) En instaurant le revenu de base, on commoniserait la monnaie.
+ C’est l’action de transformer un bien rare ou raréfié en un bien commun. Exemple quand soixante-dix ans après la mort d’un auteur son œuvre bascule dans le domaine public. Je peux ainsi commoniser mes livres. [Didier Pittet a commonisé la formule du gel antibactérien.](http://blog.tcrouzet.com/le-geste-qui-sauve/) En instaurant le revenu de base, on commoniserait la monnaie.
 
 Commoniser, c’est partager, et d’une certaine manière [pacifier la société](http://blog.tcrouzet.com/2014/03/04/la-propriete-meme-dun-livre-entraine-la-violence/). Un commoniste est un pacifiste, et donc il n’imposera jamais la commonisation à qui la refuserait. C’est à chaque créateur, en conscience, de choisir sous quelle licence il distribue ses œuvres.
 

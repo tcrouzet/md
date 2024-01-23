@@ -1,6 +1,6 @@
 # Le roman est mort (pour renaître, une fois encore)
 
-Je joue avec [le titre de l’article de Will Self dans *The Gardian*](http://www.theguardian.com/books/2014/may/02/will-self-novel-dead-literary-fiction), pour rebondir, m’interroger, aller dans une autre direction.<span id="more-35527"></span>
+Je joue avec [le titre de l’article de Will Self dans *The Gardian*](http://www.theguardian.com/books/2014/may/02/will-self-novel-dead-literary-fiction), pour rebondir, m’interroger, aller dans une autre direction.
 
 L’analyse de Will Self est à la fois commerciale — il ne subsiste plus que des méga best-sellers, plus rien entre eux et les bas-fonds de la littérature, [phénomène évident dès qu’on analyse les courbes de ventes](http://blog.tcrouzet.com/tag/best-sellers/) — et technique — si tu as un lien dans un texte, tu cliques, ce qui implique que des textes sans liens seraient condamnés à ne pas être lus (sinon par des lecteurs arriérés). Voilà ce que je retiens une semaine après ma lecture de l’article.
 

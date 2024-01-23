@@ -1,6 +1,6 @@
 # Écrire avec le corps
 
-C’est la rentrée, son rituel, de courte durée. En vélo jusqu’à l’école, je quitte les enfants et me voilà livré à moi-même, sans aucune obligation.<span id="more-37018"></span>
+C’est la rentrée, son rituel, de courte durée. En vélo jusqu’à l’école, je quitte les enfants et me voilà livré à moi-même, sans aucune obligation.
 
 Je vis ce dont beaucoup d’aspirants artistes rêvent. Mais l’obligation de faire s’impose, l’obligation d’agir, de créer, d’inventer. Elle est à l’origine de la recherche maximale du temps libre, un temps qui n’existe pas.
 

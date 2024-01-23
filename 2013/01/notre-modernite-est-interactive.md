@@ -1,6 +1,6 @@
 # Notre modernité est interactive
 
-Tout a commencé durant les années 1950 avec le rêve de quelques musiciens, plasticiens, écrivains d'ouvrir leurs œuvres aux auditeurs, spectateurs, lecteurs…<span id="more-30591"></span>
+Tout a commencé durant les années 1950 avec le rêve de quelques musiciens, plasticiens, écrivains d'ouvrir leurs œuvres aux auditeurs, spectateurs, lecteurs…
 
 Tout a été théorisé par Umberto Ecco dans *L'Œuvre ouverte* en 1962. 
 

@@ -1,6 +1,6 @@
 # Bikepacking : ai-je raison de passer au titane ?
 
-J’ai décidé de commander un [Caminade SimpleTrack Titane](https://caminade.eu/simpletrack.titane-572100-21.php), une base qui sera adaptée à mes besoins de bikepackers par l’équipe Caminade. Que je vous explique ma démarche et pourquoi j’en suis arrivé à cette décision onéreuse, mais qui je l’espère m’accompagnera de longues années.<span id="more-53202"></span>
+J’ai décidé de commander un [Caminade SimpleTrack Titane](https://caminade.eu/simpletrack.titane-572100-21.php), une base qui sera adaptée à mes besoins de bikepackers par l’équipe Caminade. Que je vous explique ma démarche et pourquoi j’en suis arrivé à cette décision onéreuse, mais qui je l’espère m’accompagnera de longues années.
 
 J’écarte l’argument écolo. Le titane est certes recyclable, mais [le procédé Kroll](https://fr.wikipedia.org/wiki/Proc%C3%A9d%C3%A9_Kroll) d’extraction plutôt énergivore n’est pas particulièrement écologique. Le titane ne vaut pas mieux que le carbone du point de vue environnement.
 

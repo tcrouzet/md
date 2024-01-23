@@ -20,7 +20,7 @@ Ils le font par un aveuglement souvent induit par les principaux producteurs de 
 
 J'ai fait le choix de la « bonne » croissance, une croissance qui s'oppose à la croissance aveugle, mesurée par le PIB et dont nous rabâchent les politiques. Je suis pour la croissance volontaire comme je l'ai écrit en sous-titre de [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/). Parce que sans croissance de la complexité, il n'existe aucune croissance possible de la liberté.
 
-![Limits of growth par net_efekt (une théorie qui ne serait vraie qu’en l’absence d’innovation)](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/peak-600x424.jpg)
+![Limits of growth par net_efekt (une théorie qui ne serait vraie qu’en l’absence d’innovation)](https://www.flickr.com/photos/wheatfields/4313193969/)Limits of growth par net\_efekt (une théorie qui ne serait vraie qu’en l’absence d’innovation)
 
 
 

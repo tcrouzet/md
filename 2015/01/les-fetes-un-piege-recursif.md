@@ -1,6 +1,6 @@
 # Les fêtes, un piège récursif ?
 
-Des journées de ratage, et quand c’est la première de l’année, j’éprouve une angoisse augmentée. J’ai bidouillé mon blog, codé et recodé, pour finir par faire marche arrière. Alors je fuis dans les rues de Nancy, quasi désertes, noires, vitrines en berne, comme de peur d’un bombardement.<span id="more-38598"></span>
+Des journées de ratage, et quand c’est la première de l’année, j’éprouve une angoisse augmentée. J’ai bidouillé mon blog, codé et recodé, pour finir par faire marche arrière. Alors je fuis dans les rues de Nancy, quasi désertes, noires, vitrines en berne, comme de peur d’un bombardement.
 
 Je marche presque par hasard jusqu’à l’Excelsior, [suivant le conseil de Laurent Margantin](https://twitter.com/L_Margantin/status/550317915875311616), faut bien trouver quelques avantages aux réseaux sociaux, sinon celui d’y crier pour s’y croire exister. Une vaste coquille art déco cette brasserie, avec banquettes en velours brun et assemblage hétéroclite d’enfants, d’étudiants et de grand-mères. Un endroit populaire sous hauts plafonds et dorures. Un air de décadence, impression pays de l’Est à l’époque communiste. Du moins l’idée que je m’en fais.
 
@@ -19,6 +19,8 @@ Une bonne résolution serait de me moquer d’avoir raison. De m’occuper de be
 Oui, autant succomber à la mode ou la fuir sans se retourner. Aller là-bas, vers cette petite lueur qui, quand on la déniche, suffit à illuminer une journée, et bientôt une vie.
 
 ![L'Excelsior, Nancy, 1911.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/excelsior.jpg)
+
+L'Excelsior, Nancy, 1911.
 
 
 

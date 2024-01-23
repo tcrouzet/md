@@ -7,8 +7,6 @@ Sortie automne 2018
 
 ##### **papier 79.00 €** : [Cocote](https://fr.cocote.com/p/l-affaire-deluze-pack-ccc26ce186f17885a38ca72821120cb9c95), [Tric Trac](https://www.trictrac.net/jeu-de-societe/laffaire-deluze), [Troill2Jeux](https://www.troll2jeux.com/fantastique-horreur/10047830-laffaire-deluze-pack-9782374410562.html), [XII Singes](http://www.les12singes.com/dark-monkeys/180-l-affaire-deluze.html).
 
-
-
 ![L'Affaire Deluze deluxe](https://tcrouzet.com/images_tc/2018/06/deluxe.jpg)
 
 ### Quatrième de couverture
@@ -22,18 +20,13 @@ Et vous avez peur. Tout pourrait recommencer.
 ![L'affaire Deluze - double page](https://tcrouzet.com/images_tc/2018/06/Pages-Deluze2.jpg)
 ![L'affaire Deluze - double page](https://tcrouzet.com/images_tc/2018/06/Pages-Deluze1.jpg)
 
-
 ### Table ronde sur L'affaire Deluze
-
-
 
 ### L’Affaire Deluze enfin publiée !
 
 *Entretien publié dans le numéro 41 de [Jeux de rôle Magazine](https://www.facebook.com/JDR.magazine)*.
 
 En 1986, *L’Affaire Deluze* a sans doute été la première campagne de JdR proposée par un Français. À l’époque, Thierry Crouzet n’était pas encore journaliste ou écrivain. Il avait envie d’écrire. Et tout a commencé par une partie de jeu de rôle à Montpellier.
-
-**Quel a été ton premier contact avec le JdR ?**
 
 Thierry Crouzet : À 12 ans, en 1975, j’étais fan de SF, de technologie, de science, et c’est tout naturellement que je me suis mis à lire *Science &amp; Vie*, dont je ne manquais jamais la rubrique jeux de réflexion. En janvier 1980, lorsque *Science &amp; Vie* a donné naissance au magazine *Jeux &amp; Stratégie*, je me suis immédiatement abonné. Je me souviens encore du numéro 4 avec un dragon en couverture. J’ai tout de suite acheté la boîte de base de *Donjons &amp; Dragons*, mais, comme dans mon village personne n’était passionné, j’ai dû patienter un peu avant de commencer à jouer.
 
@@ -59,8 +52,6 @@ Dans ses Donjons, Jean-Hugues s’était déjà approprié le bestiaire de Lovec
 
 Ces soirées ont sans doute changé ma vie. Parce que Jean-Hugues était et reste un MJ extraordinaire, faisant du jeu de rôle un art, aussi parce que pour la première fois un jeu se saisissait de l’univers d’un écrivain et nous faisait entrer dans son œuvre, nous invitant à nous l’approprier et à l’étendre, nous invitant donc à devenir écrivains à notre tour. Moi, qui jusque là me voyais comme un futur ingénieur gagnant plein de tunes et voyageant partout dans le monde, j’ai soudain décidé que je serai écrivain.
 
-**Comment est née l’Affaire Deluze ? Cela a représenté combien de temps de travail ?**
-
 Thierry : En 1984, j’ai acheté toutes les campagnes américaines de *L’Appel de Cthulhu*, notamment *Les Masques de Nyarlathotep*, découvrant à cette occasion qu’il était possible de plonger mes joueurs dans une même aventure durant des dizaines de soirées.
 
 Mais je n’ai pas été impressionné. Dans toutes ces histoires, le décorum était plus important que l’investigation et que l’action. D’autre part, leurs auteurs s’étaient contentés d’enchaîner des scénarios relativement indépendants les uns des autres, comme nous le faisions depuis longtemps à *Donjons &amp; Dragons* en situant nos aventures dans un même monde et en faisant intervenir des NPJ récurrents.
@@ -75,13 +66,9 @@ Thierry : J’ai toujours aimé multiplier les évènements, les indices, les d
 
 Ainsi *L’Affaire Deluze* a été au moins autant improvisée qu’écrite. Chaque fois que je l’ai jouée, je l’ai enrichie. Parfois j’avais plusieurs équipes engagées en même temps tout en n’étant pas au même stade de l’histoire. Ce n’était pas toujours simple à gérer. D’ailleurs, quand j’ai relu pour la première fois la campagne en 2015, je n’y comprenais plus rien. C’était comme si quelqu’un d’autre l’avait écrite, un autre très différent de moi, dont j’avais du mal à saisir la logique. Je me suis même dit que cet autre était bien plus intelligent que moi et qu’il possédait un cerveau plutôt étrange. J’ai été obligé de dessiner des cartes euristiques pour m’y retrouver.
 
-**Plusieurs éditeurs ont eu l’opportunité de l’éditer, mais ce sera finalement chez les XII Singes plus de 30 ans après son écriture. Qu’as-tu pensé de cette collaboration ?**
-
 Thierry : Sans les XII Singes, *L’Affaire Deluze* serait restée une chose imbitable pour tous ceux qui ne pensaient pas exactement comme celui qui l’avait écrite. Sans rien trahir du projet initial, nous avons remis de l’ordre et surtout comblé un nombre incalculable de sous-entendus. Sebastien Célerin n’arrêtait pas de me demander de décrire, d’expliquer, de compléter, de raconter d’avantage.
 
 Parfois, je me suis énervé, lui disant que les joueurs d’aujourd’hui ne savaient plus jouer s’ils avaient besoin d’autant d’infos. On s’est fritté, puis j’ai écouté, j’ai réécrit encore et encore. Au final, je suis époustouflé par le résultat. La nouvelle campagne, si elle raconte la même histoire que la première, est devenue jouable par un autre que moi, et ce qui ne gâche rien, elle est devenue un véritable livre objet, un livre qui pourra être collectionné en plus d’être joué. Maxime Place a effectué un travail phénoménal sur les aides de jeu.
-
-**Trouves-tu que le JdR a beaucoup changé ?**
 
 Thierry : Dans les années 1980, on jouait avec des bouts de ficelle. Par exemple, je n’ai jamais fait de plan du Manoir Deluze. Je n’estimais même pas que ce soit nécessaire. Le décorum était à improviser. En découvrant que désormais les MJ donnent les plans aux joueurs, j’ai été surpris, puis peu à peu j’ai compris que cette technique augmentait le réalisme, offrait des possibilités narratives et facilitait l’immersion (impossible aussi à ne pas penser aux jeux vidéo). De toute évidence, on est passé à une autre époque du jeu de rôle. Je ne suis pas sûr de la comprendre, il faudrait que je joue davantage, avec des joueurs actifs. Je me contente de faire jouer mes fils de 10 et 12 ans à la 5 de D&amp;D. En tout cas, une chose n’a pas changé, les scénarios officiels de D&amp;D sont toujours médiocres.
 
@@ -89,11 +76,7 @@ Thierry : Dans les années 1980, on jouait avec des bouts de ficelle. Par exemp
 
 Thierry : Je ne crois pas que Caza se retirera un jour. C’est une bête de travail. Qu’il accepte d’illustrer la couverture de la campagne, c’était un merveilleux cadeau. J’ai passé mon adolescence à lire des bouquins illustrés par lui. C’était un peu comme voir un rêve d’enfant se réaliser. Son dessin nous fait replonger dans l’ambiance graphique des années où j’ai écrit et joué la campagne. Ce rappel me paraît important. Aujourd’hui personne n’écrirait une telle histoire, surtout pas moi (je serais moins manichéen, plus politiquement révolté).
 
-**Maxime Plasse a réalisé plus de 120 aides de jeu. Comment s’est déroulée votre collaboration ?**
-
 Thierry : Au début, je me suis dit encore une corvée. Je vais devoir expliquer ce qui n’a pas besoin de l’être, et puis j’ai vu revenir les premières images et j’ai eu envie de faire rejouer la campagne. Je me voyais en MJ anticipant le plaisir de mes joueurs. Très vite, c’est moi qui ai donné du travail à Maxime, lui demandant d’ajouter des plans, des illustrations, des articles de presse. Maxime a transformé *L’Affaire Deluze*, il en a fait une œuvre graphique. J’imagine que, même sans la jouer, on peut prendre plaisir à la lire.
-
-**Depuis le premier jet de *L’Affaire Deluze*, tu as eu l’occasion de publier dans bien d’autres domaines ?**
 
 Thierry : J’ai longtemps gagné ma vie en publiant des livres d’informatique pendant que les éditeurs littéraires ne voulaient pas de mes autres textes. Ce n’est qu’en 2006 que j’ai réussi à publier un livre pour moi important, *Le peuple des connecteurs*, et j’y parle du jeu de rôle, montrant en quoi son histoire et concomitante de celle de la micro-informatique. La boucle était bouclée en quelque sorte. Depuis, j’ai publié des romans et des essais, ainsi qu’une montagne de posts sur mon blog. Pour moi, bloguer et jouer, c’est un peu la même chose. Qu’on soit blogueur ou MJ, on est en prise directe avec son auditoire. On fait de l’art interactif. Finalement, je n’ai jamais cessé de jouer.
 

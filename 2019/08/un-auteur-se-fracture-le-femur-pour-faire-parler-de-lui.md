@@ -1,6 +1,6 @@
 # Un auteur se fracture le fémur pour faire parler de lui
 
-Le suicide aurait été plus radical. J’imagine les titres. *Il publie son chef-d’œuvre et meurt* ou *Son suicide fait de lui un classique* ou *Faute d’assez de presses en ce début de rentrée littéraire 2019, il tire sa révérence*. Le problème de cette méthode : elle m’aurait exclu de la partie.<span id="more-52320"></span>
+Le suicide aurait été plus radical. J’imagine les titres. *Il publie son chef-d’œuvre et meurt* ou *Son suicide fait de lui un classique* ou *Faute d’assez de presses en ce début de rentrée littéraire 2019, il tire sa révérence*. Le problème de cette méthode : elle m’aurait exclu de la partie.
 
 Il me fallait quelque chose de moins extrême, genre assassiner un auteur vedette, ou un juré Goncourt, ou plus modestement dévaliser des librairies en n'y laissant que mon roman. Ces solutions étaient encore hors de mon champ de compétence. Pourtant on parle d’autant plus d’un auteur qu’il a vécu un drame (qu’il ait passé son enfance avec un sniper ne semble pas suffire). Il me fallait surdramatiser la sortie de [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/).
 

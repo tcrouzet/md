@@ -1,6 +1,6 @@
 # Vivre jusqu’au bout
 
-Nous sommes cinq autour d’Antoine. Il nous a convoqués chez lui pour nous voir une dernière fois. Il n’a plus beaucoup de force. Son corps de presque nonagénaire l’abandonne peu à peu, en douceur et sans violence.<span id="more-34432"></span>
+Nous sommes cinq autour d’Antoine. Il nous a convoqués chez lui pour nous voir une dernière fois. Il n’a plus beaucoup de force. Son corps de presque nonagénaire l’abandonne peu à peu, en douceur et sans violence.
 
 « Je ne crois pas aux Enfers, mais la descente est longue », nous dit-il. Il voudrait s’en aller plus vite et ne pas nous offrir un spectacle qu’il croit lamentable. Et moi je le trouve beau, toujours aussi piquant, aussi pétillant. Depuis que je le connais, il est le grand-père idéal, celui qui vous donne envie de vivre jusqu’au quatrième âge. Enthousiaste, intéressé de tout, surtout de littérature, prêt à expérimenter, à apprendre, à s’arracher à sa zone de confort. Ce parangon de la vieillesse radieuse a étendu devant moi le champ de l’existence dans son grand axe.
 

@@ -1,6 +1,6 @@
 # Le coronavirus est-il région dépendant ?
 
-Les chiffres « semblent » dire que plus la pandémie commence tard, moins elle est grave, et cela apparemment indépendamment des politiques de santé publique, comme si elles avaient que peu d’effet. Le moment compterait plus que tout autre paramètre.<span id="more-54069"></span>
+Les chiffres « semblent » dire que plus la pandémie commence tard, moins elle est grave, et cela apparemment indépendamment des politiques de santé publique, comme si elles avaient que peu d’effet. Le moment compterait plus que tout autre paramètre.
 
 [Suite à cette interrogation sur l’utilité ou non du confinement](https://tcrouzet.com/2020/04/20/une-preuve-de-linutilite-du-confinement/), des lecteurs se sont légitimement demandé si une analyse région par région nous donnerait d’autres enseignements. J’ai donc récupéré [les données détaillées de morbidité en France](https://www.eficiens.com/corostats/openstats/open_stats_coronavirus.csv), j’ai pondéré les chiffres en fonction des [populations des régions](https://www.insee.fr/fr/statistiques/fichier/4265429/ensemble.zip) et j’ai tracé les mêmes courbes que pour les pays.
 

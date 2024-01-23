@@ -22,6 +22,8 @@ Comme j’aime aussi écrire des livres, j’utilise le blog comme un atelier, e
 
 ![Quand j’écris un livre, le taux de répétition est généralement inférieur à 5%, souvent à 3% dans Ératosthène. Mon écriture blog est plus répétitive, plus brute.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/druide.png)
 
+Quand j’écris un livre, le taux de répétition est généralement inférieur à 5%, souvent à 3% dans Ératosthène. Mon écriture blog est plus répétitive, plus brute.
+
 
 
 Tags: blog, NetLittérature, une

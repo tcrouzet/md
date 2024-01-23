@@ -1,6 +1,6 @@
 # Il s’est passé un truc étrange en Europe
 
-Avec le covid, tout s’est accéléré mi-octobre. Alors que depuis début août la croissance des cas était linéaire, préoccupante, mais pas alarmante, en deux-trois semaines les courbes épidémiques se sont partout infléchies, surprenant tout le monde. Hé ho ! Ce n'est pas la seule faute de notre gouvernement.<span id="more-55890"></span>
+Avec le covid, tout s’est accéléré mi-octobre. Alors que depuis début août la croissance des cas était linéaire, préoccupante, mais pas alarmante, en deux-trois semaines les courbes épidémiques se sont partout infléchies, surprenant tout le monde. Hé ho ! Ce n'est pas la seule faute de notre gouvernement.
 
 ![Simulation au 28/20/2020](https://tcrouzet.com/images_tc/2020/10/europ01.jpg)
 

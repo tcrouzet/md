@@ -1,6 +1,6 @@
 # La symbiose
 
-Au Mexique, sur les hauteurs autour de Puerto Vallarta, dans la pénombre des forêts de chênes, poussent des orchidées jaunes qu’aiment butiner les abeilles. Au printemps, elles se posent sur les pétales et, lorsqu’elles remontent vers le cœur de la fleur, un sachet de pollen se colle à leur dos. Les abeilles s’envolent alors et butinent d’autres orchidées, y abandonnant le pollen et participant à la pollinisation.<span id="more-21670"></span>
+Au Mexique, sur les hauteurs autour de Puerto Vallarta, dans la pénombre des forêts de chênes, poussent des orchidées jaunes qu’aiment butiner les abeilles. Au printemps, elles se posent sur les pétales et, lorsqu’elles remontent vers le cœur de la fleur, un sachet de pollen se colle à leur dos. Les abeilles s’envolent alors et butinent d’autres orchidées, y abandonnant le pollen et participant à la pollinisation.
 
 Dans *De la fécondation des orchidées par les insectes et des bons résultats du croisement*, publié en 1862 , Charles Darwin expliqua cet échange de bons procédés. Mais un phénomène lui resta incompréhensible. Pourquoi certaines abeilles butinent-elles aussi les orchidées qui ne fabriquent pas de pollen ? L’explication ne devint évidente qu’à la fin du xxe siècle.
 

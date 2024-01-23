@@ -1,6 +1,6 @@
 # Facebook, un site trop sucré
 
-Dans une équipe de foot, on a onze joueurs avec des aptitudes différentes. Onze attaquants, ça ne marche pas mieux que onze défenseurs. La diversité est nécessaire pour l'emporter. Alors même que l'objectif est simple : marquer des buts.<span id="more-34578"></span>
+Dans une équipe de foot, on a onze joueurs avec des aptitudes différentes. Onze attaquants, ça ne marche pas mieux que onze défenseurs. La diversité est nécessaire pour l'emporter. Alors même que l'objectif est simple : marquer des buts.
 
 Dans la société, face à des objectifs innombrables et bien plus complexes, la diversité est d'autant plus indispensable. Comme dans une équipe de foot, moins les joueurs se ressemblent, plus ils ont de chances de se compléter et de réussir des exploits. En conséquence, la politique devrait toujours favoriser la diversité sociale, surtout quand la complexité grimpe tous azimuts.
 

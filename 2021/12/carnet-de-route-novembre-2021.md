@@ -4,7 +4,7 @@
 
 ### Lundi 1<sup>er</sup>, Maillardou
 
-Nous prenons la route pour le Lot-et-Garonne. Nous nous arrêtons pour déjeuner dans un steak house. Quand je coupe mon gâteau, je coupe en même temps l’assiette. Émile en rassemble les morceaux pour faire croire qu’elle est intacte. Je préviens tout de même la serveuse. Elle me dit que je ne suis pas le premier client avec ce problème. Je n’ai donc pas une force hors du commun.<span id="more-61006"></span>
+Nous prenons la route pour le Lot-et-Garonne. Nous nous arrêtons pour déjeuner dans un steak house. Quand je coupe mon gâteau, je coupe en même temps l’assiette. Émile en rassemble les morceaux pour faire croire qu’elle est intacte. Je préviens tout de même la serveuse. Elle me dit que je ne suis pas le premier client avec ce problème. Je n’ai donc pas une force hors du commun.
 
 ---
 

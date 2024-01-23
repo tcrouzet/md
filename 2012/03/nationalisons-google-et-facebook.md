@@ -1,6 +1,6 @@
 # Nationalisons Google et Facebook
 
-S’accaparer des contenus est devenu vital dans la société de l’information. Pendant que des entreprises s’arcboutent sur une gestion des droits d’auteur délétère, d’autres, en apparence progressistes, s’enrichissent sur le dos de tous les créateurs, nous tous.<span id="more-23267"></span>
+S’accaparer des contenus est devenu vital dans la société de l’information. Pendant que des entreprises s’arcboutent sur une gestion des droits d’auteur délétère, d’autres, en apparence progressistes, s’enrichissent sur le dos de tous les créateurs, nous tous.
 
 J’ai reçu il y a quelques jours une invitation pour collaborer à un site en projet. Son nom : MVS pour Ma Vérité Sûre. Son but : lutter contre « la désinformation médiatique généralisée aux effets destructeurs ». La philosophie même de ce site est destructrice.
 

@@ -1,6 +1,6 @@
 # L’entraide des traceurs
 
-Profitant de ma présence à Genève, [Geneviève Morand](https://www.rezonance.ch/) m’invite à une table ronde sur l’entraide, sous-prétexte qu’entre 2006 et 2010 j’ai écrit trois livres sur les réseaux. Je l’ai prévenue que je ne travaillais plus le sujet, mais elle a insisté, alors je me suis demandé de quoi je pourrais parler, j’ai pensé au bikepacking.<span id="more-53450"></span>
+Profitant de ma présence à Genève, [Geneviève Morand](https://www.rezonance.ch/) m’invite à une table ronde sur l’entraide, sous-prétexte qu’entre 2006 et 2010 j’ai écrit trois livres sur les réseaux. Je l’ai prévenue que je ne travaillais plus le sujet, mais elle a insisté, alors je me suis demandé de quoi je pourrais parler, j’ai pensé au bikepacking.
 
 Bien sûr nous nous entraidons sur les forums, partageant nos trucs et astuces, nous nous entraidons quand nous roulons, mais aujourd’hui une nouvelle forme d’entraide à plus vaste échelle apparaît dès qu’il s’agit de tracer des parcours. Si je m’étais contenté d’explorer en solitaire les chemins autour de chez moi, me fiant à ma seule expérience ou à celle de quelques copains, j’aurais fini par tourner en rond, et sans doute par me lasser du vélo, car alors j’aurais été incapable de travailler [sa dimension esthétique](https://tcrouzet.com/2018/12/10/etre-territoire/).
 

@@ -1,6 +1,6 @@
 # Comment j’ai choisi mon nouveau gravel
 
-Pour moi, avant tout vététiste et bikepacker, [le gravel est un objet de luxe](https://tcrouzet.com/2022/07/20/jen-suis-revenu-du-gravel/), un vélo en rien indispensable, puisque moins passe-partout qu’un VTT, moins propice à l’exploration, malgré son rayon d’action théoriquement plus grand. J’aurais pu continuer à m’en passer, pourtant j’ai à nouveau succombé à ses charmes, non à cause d’un désir soudain, mais d’un petit changement dans ma vie.<span id="more-64342"></span>
+Pour moi, avant tout vététiste et bikepacker, [le gravel est un objet de luxe](https://tcrouzet.com/2022/07/20/jen-suis-revenu-du-gravel/), un vélo en rien indispensable, puisque moins passe-partout qu’un VTT, moins propice à l’exploration, malgré son rayon d’action théoriquement plus grand. J’aurais pu continuer à m’en passer, pourtant j’ai à nouveau succombé à ses charmes, non à cause d’un désir soudain, mais d’un petit changement dans ma vie.
 
 En ce moment, je séjourne une dizaine de jours par mois à Paris et je deviens dingue sans vélo, surtout que je ne cesse de voir des cyclistes. Je n’ai qu’une envie : pédaler avec eux et pourquoi pas m’échapper vers la campagne.
 
@@ -13,8 +13,6 @@ Un copain cycliste parisien m’a suggéré d’opter pour un [Brompton](https:/
 J’ai alors envisagé d'acheter un single speed [Elops de chez Décathlon](https://www.decathlon.fr/p/velo-ville-single-speed-500/_/R-p-306292), à un prix imbattable de 269 €. Pas peur de me le faire piquer, grande simplicité mécanique, le moyen parfait de locomotion en ville, sauf que j’ai peu de rendez-vous, pas de nécessité d’aller vite, la marche et le métro me vont très bien. En prime, je n’ai pas besoin de cadenas pour mes baskets.
 
 À Paris, je ne veux pas un vélo pour me déplacer, mais pour pédaler et voir du paysage. J’ai besoin d’un vélo rapide sur l’asphalte pour me le faire quitter au plus vite, puis d’un vélo à l’aise sur les chemins. Par mégarde, j’ai établi le profil type du gravel. Voilà comment je me suis inventé une raison pour transformer un objet de luxe en objet de première nécessité, au nom de ma santé mentale.
-
-**J’ai alors établi mon cahier des charges.**
 
 J’ai un VTT tout suspendu de 12,5 kg, un semi-rigide dédié au voyage de 9,8 kg, mon gravel devait être assez éloigné de ces deux vélos pour m’offrir des sensations différentes.
 
@@ -29,8 +27,6 @@ Au printemps 2021, j’ai vendu mon [Diverge](https://www.specialized.com/us/en/
 Mon Diverge avait une suspension [Future Shock](https://www.specialized.com/ca/fr/stories/future-shock) de seconde génération, efficace, mais moins que des pneus plus amples. Je n’ai rien contre un gravel suspendu, sans que ce soit une condition indispensable, vu que je possède deux VTT.
 
 Je ne faisais ainsi que décrire un gravel classique de 2022. Il me restait à le choisir.
-
-**J’ai commencé par me fixer un budget de 1 000 €.**
 
 ![Cinelli Tutto Plus](https://tcrouzet.com/images_tc/2022/09/tutto.jpg)
 

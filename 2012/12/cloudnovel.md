@@ -1,6 +1,6 @@
 # Cloudnovel&nbsp;: ne tombez pas dans le panneau
 
-Arrêtez de parler de comment ont écrit nos livres, mais parlez d’eux. Et si vous parlez de la méthode, intéressez vous à ce quelle apporte.<span id="more-30264"></span>
+Arrêtez de parler de comment ont écrit nos livres, mais parlez d’eux. Et si vous parlez de la méthode, intéressez vous à ce quelle apporte.
 
 Deux phrases pour résumer ce que j’ai pensé à la lecture de [Dragon Lords, premier roman écrit dans le cloud avec Google Docs](http://www.actualitte.com/international/dragon-lords-premier-roman-ecrit-dans-le-cloud-avec-google-docs-38974.htm). Si je n’étais pas un fidèle d’[AcuaLitté](http://www.actualitte.com), je ne serai pas tombé sur cette ineptie.
 

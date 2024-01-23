@@ -1,6 +1,6 @@
 # Voyage avec un Yoga
 
-J'ai été invité en [Basilicate](http://www.italia.it/fr/decouvrez-litalie/basilicate.html) du 9 au 15 décembre, cette région au sud de l'Italie, entre le talon de la botte formé par les Pouilles et ses orteils calabrais, pour écrire un journal de voyage. J'ai carte blanche et je me suis dit que ce serait l'occasion d'expérimenter la prise de notes, le dessin et l'écriture avec un seul outil, mon nouveau [Lenovo Yoga 2 Pro](http://blog.tcrouzet.com/tag/lenovo/) (j'ai tenté de demander à Lenovo de me sponsoriser mais ils ne m'ont pas donné signe de vie).<span id="more-33834"></span>
+J'ai été invité en [Basilicate](http://www.italia.it/fr/decouvrez-litalie/basilicate.html) du 9 au 15 décembre, cette région au sud de l'Italie, entre le talon de la botte formé par les Pouilles et ses orteils calabrais, pour écrire un journal de voyage. J'ai carte blanche et je me suis dit que ce serait l'occasion d'expérimenter la prise de notes, le dessin et l'écriture avec un seul outil, mon nouveau [Lenovo Yoga 2 Pro](http://blog.tcrouzet.com/tag/lenovo/) (j'ai tenté de demander à Lenovo de me sponsoriser mais ils ne m'ont pas donné signe de vie).
 
 ![JotPro](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/12/JotPro.jpg)
 

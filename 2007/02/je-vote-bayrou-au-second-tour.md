@@ -2,8 +2,6 @@
 
 De plus en plus de Français, fatigués des simagrées de droite et de gauche, sont sans doute en train de se dire que Bayrou ferait un bon Président. Ils en ont assez des clivages et des oppositions qui nous mettent dos à dos les uns les autres. Ils ont envie que nous allions tous ensemble en avant, que nous jouions pour une fois gagnant-gagnant.
 
-**Pourquoi sont-ils prêts à choisir Bayrou ?**
-
 1. Cet homme paraît honnête. Il a même refusé des postes de ministres. Le pouvoir ne semble pas le rendre fou et c’est le moins que nous devons attendre d'un démocrate.
 
 2. Depuis quelques mois, il ne cesse de dénoncer la collusion entre les médias et les deux candidats les plus puissants.
@@ -13,8 +11,6 @@ De plus en plus de Français, fatigués des simagrées de droite et de gauche, s
 4. En voulant réconcilier les diverses tendances politiques dans un gouvernement, Bayrou veut en même temps réconcilier les Français.
 
 5. Il porte un vrai projet de refonte des institutions, indispensable pour rétablir la confiance des Français.
-
-**Mais Bayrou sera-t-il au second tour ?**
 
 Alors qu'en duel il serait sans doute vainqueur contre Sarkozy comme contre Ségolène, il n’aura probablement pas la chance de les affronter. C’est un des paradoxes de notre système électoral, une des preuves parmi mille autres qu’il faut le réviser. Mais il ne suffit pas d’accuser un système jugé injuste, il faut aussi s’interroger sur les failles de François Bayrou.
 

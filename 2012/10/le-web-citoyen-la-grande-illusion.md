@@ -1,6 +1,6 @@
 # Le web citoyen, la grande illusion ?
 
-Il y a six ans exactement, je terminais la rédaction du [*Cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/). Nous étions nombreux à croire que nous allions changer la politique grâce au Net. Qu’en est-il aujourd’hui ?<span id="more-29106"></span>
+Il y a six ans exactement, je terminais la rédaction du [*Cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/). Nous étions nombreux à croire que nous allions changer la politique grâce au Net. Qu’en est-il aujourd’hui ?
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/10/Invitation-Café-numérique-450x636.jpg)
 

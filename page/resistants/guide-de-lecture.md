@@ -24,12 +24,6 @@ Voici quatre solutions pour découvrir dans les meilleures conditions mon feuill
 
 Pour ne manquer aucun épisode, abonnez-vous en saisissant votre e-mail dans [le formulaire ci-dessous](http://eepurl.com/bWh9UL).
 
-
-
-
-
-
-
 Quelques jours après la publication sur Wattpad, vous recevrez le dernier épisode. Si vous avez des idées, des suggestions, des critiques, vous me les enverrez en répondant au mail reçu. La lecture vous prendra moins de dix minutes. Vous aurez en prime l’assurance de disposer de la dernière version du texte.
 
 ### 4/ Vous voulez expérimenter

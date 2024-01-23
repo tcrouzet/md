@@ -1,6 +1,6 @@
 # Faire du gringue aux booktubeuses
 
-On travaille des mois pour écrire un livre, pour le corriger, l’éditer… et puis il ne se passe rien, voilà le destin le plus commun de la plupart des textes.<span id="more-44931"></span>
+On travaille des mois pour écrire un livre, pour le corriger, l’éditer… et puis il ne se passe rien, voilà le destin le plus commun de la plupart des textes.
 
 J’en ai pris mon parti, le plus souvent me contentant de croiser les doigts quand je publie un livre. Mais avec [*Résistants*](http://tcrouzet.com/resistants/), j’ai eu pour mission d’écrire [un livre « lisible »](http://www.themillions.com/2017/02/against-readability.html), surtout par les *young adults* comme on dit dans le jargon, ce qui veut dire qu’ils peuvent l’avaler cul sec sans s’étouffer, tout en recevant de multiples doses d’infos scientifiques.
 

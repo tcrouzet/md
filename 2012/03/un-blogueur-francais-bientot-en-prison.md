@@ -1,6 +1,6 @@
 # Un blogueur français bientôt en prison ?
 
-Notre gouvernement non content de [soutenir indirectement la dictature syrienne](http://www.rue89.com/2012/02/27/le-made-france-numerique-pour-tuer-le-printemps-arabe-229609) s’apprêterait-il à user des mêmes méthodes qu'elle contre un blogueur dissident, [Christophe Gréber](http://www.monputeaux.com/)t ?<span id="more-23416"></span>
+Notre gouvernement non content de [soutenir indirectement la dictature syrienne](http://www.rue89.com/2012/02/27/le-made-france-numerique-pour-tuer-le-printemps-arabe-229609) s’apprêterait-il à user des mêmes méthodes qu'elle contre un blogueur dissident, [Christophe Gréber](http://www.monputeaux.com/)t ?
 
 Nous avons été nombreux à [tirer la sonnette d’alarme il y a deux semaines](http://www.monputeaux.com/2012/03/monputeaux-menace-de-disparition.html), cette fois c’est au tour de [Reporters Sans Frontières](http://fr.rsf.org/france-apres-dix-ans-d-activite-le-blog-26-03-2012,42185.html), ce qui est hautement symbolique :
 
@@ -16,11 +16,7 @@ Dans un monde distribué et ouvert, il existe une méthode simple pour lutter co
 
 C'est pourquoi, j'ai pris la décision de publier les noms des élus de la majorité UMP de Puteaux bénéficiant d'un logement social. Ce n'est pas les situations individuelles qui sont ici intéressantes, mais la tendance générale qui se dégage de cette enquête : **la moitié des élus de la majorité est logé dans le social.** Ce taux dépasse de très loin la proportion de familles logées dans le social au niveau national et même local. Que tirer de ce chiffre ? Qu'il y a des passe-droits ? Mais qui en doutait ? Fallait-il encore le démontrer statistiquement. C'est désormais chose faite.
 
-**Sur 35 élus de la majorité, 17 habitent dans le social, soit un taux de 48,6 %.**
-
 - Le maire Joëlle Ceccaldi-Raynaud habite actuellement dans le privé, mais après avoir longtemps occupé un logement social sur le haut de la ville. - Son fils Vincent, maire-adjoint et conseiller général, est désormais domicilé dans le privé, mais après avoir habité dans un logement HLM de la ville attribué à sa petite amie.
-
-**5 des 12 des adjoints sont actuellement en HLM :**
 
 - Josiane Abkari,
 
@@ -31,8 +27,6 @@ C'est pourquoi, j'ai pris la décision de publier les noms des élus de la major
 - Franck Cavayé,
 
 - Pascal Caumont. Celui-ci bénéficie aussi d'un local commercial loué par la ville.
-
-**11 des 21 conseillers municipaux de la majorité UMP sont actuellement en logement social :**
 
 - Sophie André une résidence HLM très prisée par les élus UMP, puisqu'y demeure un autre ancien conseiller municipal, ainsi qu'une membre de la famille d'une autre élue municipale UMP aujourd'hui décédée. Cette résidence HLM "de luxe" est occupée par des directeurs d'entreprises et autres professions libérales.
 
@@ -55,12 +49,9 @@ Autre résidence très prisée par les élus ceccaldiste, à côté de l'Arsenal
 - 2 conseillères UMP, Sylvia Wakim et Martine Smadja occupent 2 appartements dans une autre résidence HLM. C'est assez surprenant que la Ville qui bénéficiait d'un très petit nombre d'appartements dans cette nouvelle résidence HLM92 en attribue 2 à des élus de sa majorité.
 
 - Marie Fedon-Trestournel habite une autre résidence.
-
-**CORRECTION** : Jean-Pierre Descroix qui occupait un ancien logement social de la Ville de Puteaux, la racheté, comme il le précise dans un commentaire ci-dessous.
+ : Jean-Pierre Descroix qui occupait un ancien logement social de la Ville de Puteaux, la racheté, comme il le précise dans un commentaire ci-dessous.
 
 - Enfin je n'ai pas pu identifier la nature du logement de Pascal Moreau-Luchaire. Il se peut qu'il s'agisse aussi d'un appartement de la Ville. Elle nous l'indiquera.
-
-**Est-il utile de préciser que 0% des élus de l'opposition bénéficie d'un logement social.**
 
 ---
 

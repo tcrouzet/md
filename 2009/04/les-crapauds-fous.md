@@ -1,6 +1,6 @@
 # Les crapauds fous
 
-Je ne peux plus penser à un autre titre pour mon prochain livre. J’avais tout d’abord songé à *Boom*, mais ce n’est pas un livre sur la crise / les crises, puis j’avais trouvé *Le monde ne peut plus attendre*, puis *Les nouveaux Christophe Colomb*, puis en lisant [La théorie du crapaud fou appliquée à Internet](http://hyperrepublique.blogs.com/public/2008/06/la-thorie-du-cr.html), j'ai crié eurêka.<span id="more-5279"></span>
+Je ne peux plus penser à un autre titre pour mon prochain livre. J’avais tout d’abord songé à *Boom*, mais ce n’est pas un livre sur la crise / les crises, puis j’avais trouvé *Le monde ne peut plus attendre*, puis *Les nouveaux Christophe Colomb*, puis en lisant [La théorie du crapaud fou appliquée à Internet](http://hyperrepublique.blogs.com/public/2008/06/la-thorie-du-cr.html), j'ai crié eurêka.
 
 Comme nombre de pionniers des nouvelles technologies, de la nouvelle politique, du nouvel activisme, Christophe Colomb était un crapaud fou. Alors que tous ses contemporains cherchaient l'Inde et la Chine vers l'est, il la chercha vers l'ouest.
 

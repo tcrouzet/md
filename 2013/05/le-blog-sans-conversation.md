@@ -1,6 +1,6 @@
 # Le blog sans conversation
 
-Qu’est-ce que cet objet ? Je parle bien de conversation. Pas de simples commentaires qui s’enchaînent en s’ignorant les uns les autres à la mode des like, une mode peu glorieuse à laquelle je m’accroche, faute de feedback constructif.<span id="more-32835"></span>
+Qu’est-ce que cet objet ? Je parle bien de conversation. Pas de simples commentaires qui s’enchaînent en s’ignorant les uns les autres à la mode des like, une mode peu glorieuse à laquelle je m’accroche, faute de feedback constructif.
 
 Non, je ne blogue pas pour faire ma promo. Non, je ne blogue pas pour donner mon avis comme un professeur pontifiant. Non, je ne blogue pas pour exister. Non, je ne blogue pas pour diffuser mes textes. Non, je ne blogue pas pour gagner de l’argent ou attirer des sirènes. Non, je ne blogue pas pour défendre un statut social. Non, je ne blogue pas pour me faire mousser devant une quelconque hiérarchie. Non, je ne blogue pas pour me construire un CV ou une carte de visite. Non, je ne blogue pas pour décrocher un contrat ou une embauche. Non, je ne blogue pas pour la beauté, pour l’art pour l’art, pour la littérature. Non, je ne blogue pas pour briguer un poste dans un parti politique, une mairie, une assemblée. Non, je ne blogue pas pour générer du trafic, afficher des pubs et attirer des sponsors. Je blogue pour échanger.
 

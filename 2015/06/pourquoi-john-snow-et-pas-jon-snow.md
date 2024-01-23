@@ -1,6 +1,6 @@
 # Pourquoi John Snow et pas Jon Snow
 
-Ma mésaventure matinale avec [John et Jon](http://blog.tcrouzet.com/2015/06/15/le-veritable-jon-snow-ou-comment-google-altere-lhistoire/) n’était pas encore un truc pour dire du mal de Google. Tout a commencé hier soir. Je dîne en compagnie du succulent [Antoine Andremont](http://www.huffingtonpost.fr/antoine-andremont/), professeur de microbiologie à Paris-Diderot et directeur du laboratoire de microbiologie de l’hôpital Bichat. Il me raconte ses voyages en Amazonie, à la rencontre d’une tribu perdue au fin fond de la Guyane, les Wayampis. Je grimpe avec lui dans sa pirogue, je bivouaque avec lui à la nuit tombée. Ça grésille, ça gratte, ça chante dans l’ombre.<span id="more-41442"></span>
+Ma mésaventure matinale avec [John et Jon](http://blog.tcrouzet.com/2015/06/15/le-veritable-jon-snow-ou-comment-google-altere-lhistoire/) n’était pas encore un truc pour dire du mal de Google. Tout a commencé hier soir. Je dîne en compagnie du succulent [Antoine Andremont](http://www.huffingtonpost.fr/antoine-andremont/), professeur de microbiologie à Paris-Diderot et directeur du laboratoire de microbiologie de l’hôpital Bichat. Il me raconte ses voyages en Amazonie, à la rencontre d’une tribu perdue au fin fond de la Guyane, les Wayampis. Je grimpe avec lui dans sa pirogue, je bivouaque avec lui à la nuit tombée. Ça grésille, ça gratte, ça chante dans l’ombre.
 
 Antoine me parle de sa mission dans la jungle. Tous les deux ans, il visite le village de Trois-Sauts dont la population est particulièrement stable et isolée, presque un cas d'école. L'objectif : évaluer la résistance aux antibiotiques des Wayampis et mesurer son évolution (une étude qui serait impossible dans des lieux plus interconnectés parce que nous bougeons beaucoup, consultons différents médecins, ne possédons pas un suivi strict de nos prescriptions médicales).
 
@@ -14,6 +14,8 @@ Je vois déjà une scène au cœur de la jungle avec Antoine. Puis il me parle d
 
 ![The John Snow](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/amr1.jpg)
 
+The John Snow
+
 Les chiffres défilent avec les intervenants. On produit 100 000 tonnes d’antibiotiques par an, dont les 2/3 destinés aux animaux (ceux que nous retrouvons dans nos assiettes). Pas étonnant alors que plus l’humanité consomme de protéine, plus la production d’antibiotiques augmente.
 
 Ce serait anodin si les bactéries ne s’adaptaient pas aux antibiotiques, et trop souvent malheureusement résistaient à nos traitements. Les médecins prescrivent trop, trop abondamment, trop systématiquement les mêmes molécules, presque toujours sans raison valable. Une simple preuve : l’hiver lors de l’épidémie de grippe la consommation augmente de façon gigantesque alors que les antibiotiques n’ont aucun effet sur le virus de la grippe et les virus en général. Un jour, lors d’une grippe, on m’a prescrit un antibiotique au cas où je développerais une pneumonie. Résultat : cette surconsommation favorise les mutations et l’apparition de super-bugs et c’est la panique dans les hôpitaux.
@@ -23,6 +25,8 @@ Cette surconsommation devient dramatique une fois appliquée aux animaux. Pour r
 Une stratégie stupide selon Raman Laxminarayan. Il démontre qu’aux États-Unis le manque à gagner pour les éleveurs serait d’environ 1,5 milliard de dollars, soit une perte en rentabilité de 2 % environ, une goutte d’eau par rapport aux milliards dépensés dans les hôpitaux pour lutter contre la résistance chez l’homme, résistance stimulée parce que nous ingérons parfois les antibiotiques administrés aux animaux (d’après ce que j’ai compris, les antibiotiques disparaissent de la viande, si on arrête l'administration quelques jours avant l’abatage — je préfère tout de même en rester au bio).
 
 ![Abandonner les antibios pour les éleveurs qui les utilisent encore ne coûte pas grand-chose (tous les clients sont prêts à payer ce surcoût). ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/amr2.jpg)
+
+Abandonner les antibios pour les éleveurs qui les utilisent encore ne coûte pas grand-chose (tous les clients sont prêts à payer ce surcoût, non ?).
 
 Thomas Gottlieb, lui, nous rappelle que dès 1970, on comprend que plus on utilise d’antibios, plus on crée de résistance. Parfois, en réduisant les antibiotiques, on fait disparaître la résistance et sauve plus de vies qu'en administrant les antibiotiques. C’est ubuesque. Le monde marche comme souvent sur la tête.
 

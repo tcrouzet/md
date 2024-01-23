@@ -1,6 +1,6 @@
 # Tunisie et Égypte, des révoltes inutiles
 
-Quelle est l’origine de la grogne, puis de l’exaspération, puis de la révolution ? Où est-ce que le peuple puise l’énergie de tout remettre en question ? En lui-même et nulle part ailleurs !<span id="more-21223"></span>
+Quelle est l’origine de la grogne, puis de l’exaspération, puis de la révolution ? Où est-ce que le peuple puise l’énergie de tout remettre en question ? En lui-même et nulle part ailleurs !
 
 En Tunisie comme en Égypte, c’est une révolte de connecteurs. Une révolte d’hommes et de femmes qui d’égal à égal se motivent pour changer le monde. Sans programme politique explicite. Sans leader déclaré. Sans parti aux commandes. Sans organisation pyramidale (ce qui ne signifie pas désorganisation).
 

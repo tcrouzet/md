@@ -1,6 +1,6 @@
 # Blogging manifesto 1.0
 
-1. Notre manifeste ne pourra jamais être écrit. Nos tentatives, nécessairement infructueuses, n’ont pour but que de provoquer la conversation.<span id="more-14219"></span>
+1. Notre manifeste ne pourra jamais être écrit. Nos tentatives, nécessairement infructueuses, n’ont pour but que de provoquer la conversation.
 2. Nous ne défendrons notre liberté que si nous nous lions les uns aux autres et respectons des règles qui ont pour effet de fluidifier nos interactions.
 3. Nous sommes des citoyens comme les autres et ne demandons aucun statut spécifique. Nous voulons simplement exercer notre liberté d’expression.
 4. Nous exigeons que l’État ne favorise la liberté d’expression d'aucuns acteurs de la société.

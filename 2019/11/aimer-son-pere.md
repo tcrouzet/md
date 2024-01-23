@@ -1,6 +1,6 @@
 # Aimer son père
 
-Nous autres auteurs sommes d’éternels insatisfaits. Qu’on ne parle pas de nos livres et nous nous morfondons, qu’on en parle et nous nous estimons incompris. Je me range dans les deux camps. Si certains lecteurs ont saisi [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/) avec une lucidité bouleversante, d’autres se sont arrêtés au titre, parlant d’un père ultraviolent qui terrorisait sa famille.<span id="more-52933"></span>
+Nous autres auteurs sommes d’éternels insatisfaits. Qu’on ne parle pas de nos livres et nous nous morfondons, qu’on en parle et nous nous estimons incompris. Je me range dans les deux camps. Si certains lecteurs ont saisi [*Mon père, ce tueur*](https://tcrouzet.com/mon-pere-ce-tueur/) avec une lucidité bouleversante, d’autres se sont arrêtés au titre, parlant d’un père ultraviolent qui terrorisait sa famille.
 
 La vérité n’est pas si simple. Le paradoxe : j’ai vécu une enfance heureuse, malgré les coups de folie de mon père et la pression psychologique qu’ils exerçaient sur nous. Pour mettre les points sur les i, voici une collection de réponses, parfois redondantes, à quelques questions récurrentes qui m’ont été posées depuis la sortie du livre.
 

@@ -4,7 +4,7 @@
 
 ### Jeudi 3, Balaruc
 
-Nous avons plongé dans la lumière merveilleuse de septembre. Je la savoure depuis la cuisine où j’aime travailler avec l’eau qui clapote derrière la baie vitrée. Je me suis réveillé à quatre heures ce matin. Incapable de me rendormir, je décide de travailler quand j’entends des voix dehors. Je vais à la fenêtre et découvre quatre ombres joyeuses dans le jardin.<span id="more-55341"></span>
+Nous avons plongé dans la lumière merveilleuse de septembre. Je la savoure depuis la cuisine où j’aime travailler avec l’eau qui clapote derrière la baie vitrée. Je me suis réveillé à quatre heures ce matin. Incapable de me rendormir, je décide de travailler quand j’entends des voix dehors. Je vais à la fenêtre et découvre quatre ombres joyeuses dans le jardin.
 
 — Qu’est-ce que vous faites là ?
 

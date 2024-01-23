@@ -1,6 +1,6 @@
 # Comment financer un livre en Creative Commons
 
-À en croire les détracteurs du [commonisme](http://blog.tcrouzet.com/tag/commonisme/), si une œuvre est disponible gratuitement sur le Net, elle ne peut engendrer de revenu. Distribuer librement les créations reviendrait à tirer le marché vers le bas, voire à le détruire, pire à mener l’humanité à sa perte.<span id="more-35098"></span>
+À en croire les détracteurs du [commonisme](http://blog.tcrouzet.com/tag/commonisme/), si une œuvre est disponible gratuitement sur le Net, elle ne peut engendrer de revenu. Distribuer librement les créations reviendrait à tirer le marché vers le bas, voire à le détruire, pire à mener l’humanité à sa perte.
 
 Je voudrais raconter une expérience qui prouve le contraire. Bien sûr, elle ne saurait être généralisée. D’ailleurs, je crois que chaque projet éditorial devrait, à partir d’aujourd’hui, devenir unique. Il serait peut-être bon pour tout le monde de quitter un modèle productiviste éditorial qui n’est rien d’autre qu’une espèce de taylorisme.
 
@@ -9,6 +9,8 @@ Les œuvres libres ne peuvent exister que par des projets originaux qui lient au
 Au nom de la toute supériorité du créateur perché sur son piédestal, certains s’insurgeront et regretteront le modèle industriel, et avec la société de classe, de l’ouvrier au patron. Eh oui, dans l’histoire que je vais vous raconter, il n’y a que des ouvriers qui tous mettent la main à la pâte, sans qu’aucun n’ait l’orgueil de s’estimer supérieur aux autres.
 
 ![Didier Pittet en tenue de combat.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/ProfPittet4-WhiteCoat.jpg)
+
+Didier Pittet en tenue de combat.
 
 Tout a commencé pour moi en avril 2012 avec la rencontre de Didier Pittet, l’inventeur du Geneva Model pour l’hygiène des mains, qui grâce à son innovation sauve chaque année environ 8 millions de vies. Je me prends en même temps de passion pour l’aventure scientifique, la prouesse humaine et pour l’homme.
 
@@ -49,6 +51,8 @@ Toute cette aventure s’inscrit dans une histoire avec feed-back positif.
 6. On peut espérer que les recherches de Didier seront mieux soutenues, qu’il pourra généraliser le Geneva Model hors des hôpitaux, c’est-à-dire dans la vie de tous les jours. Nous avons tous à y gagner. Tout cela commence par un don et tout cela ne peut se perpétuer que par d'autres dons.
 
 ![Les livres papier sortiront avec des bandeaux aux couleurs des sponsors.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/sponsors3.png)
+
+Les livres papier sortiront avec des bandeaux aux couleurs des sponsors.
 
 
 

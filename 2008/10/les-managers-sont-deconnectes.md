@@ -1,6 +1,6 @@
 # Les managers sont déconnectés
 
-Dans mes dernières conférences, et je dirai sans doute la même chose mercredi soir à Ajaccio, je défends l’idée que nous ne vivons déjà plus dans un système en réseau. Je viens de lire dans *Wired* un [article](http://www.wired.com/techbiz/people/magazine/16-08/st_thompson) qui me conforte dans ma position.<span id="more-3291"></span>
+Dans mes dernières conférences, et je dirai sans doute la même chose mercredi soir à Ajaccio, je défends l’idée que nous ne vivons déjà plus dans un système en réseau. Je viens de lire dans *Wired* un [article](http://www.wired.com/techbiz/people/magazine/16-08/st_thompson) qui me conforte dans ma position.
 
 À l’aide de badges, Benjamin Waber a mesuré la quantité d’information échangée par les employés de diverses entreprises. Il a constaté que les managers ne sont jamais les personnes les plus connectés. Il existe toujours un super-connecteur mais il ne doit pas cette fonction à une position hiérarchique ni à une décision de la hiérarchie. Il s’est retrouvé dans ce rôle presque malgré lui, parce qu’il est doué pour la connexion.
 

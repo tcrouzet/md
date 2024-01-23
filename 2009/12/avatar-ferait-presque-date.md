@@ -1,6 +1,6 @@
 # Avatar ferait presque date
 
-J’ai fini par voir le film de James Cameron. C’est une expérience visuelle étonnante, jamais à proprement parler esthétique, je n’ai pas ressenti la moindre émotion de cette nature, mais j’ai sans cesse songé aux potentialités encore inexplorées qui frémissaient de toute part. Le cinéma ne pourra jamais plus être le même.<span id="more-12838"></span>
+J’ai fini par voir le film de James Cameron. C’est une expérience visuelle étonnante, jamais à proprement parler esthétique, je n’ai pas ressenti la moindre émotion de cette nature, mais j’ai sans cesse songé aux potentialités encore inexplorées qui frémissaient de toute part. Le cinéma ne pourra jamais plus être le même.
 
 Depuis des années, je ne fréquente plus les salles obscures. Déjà parce qu’avec les enfants c’est un peu plus compliqué mais ce n’est pas une raison suffisante. En vérité, je m’ennuie au cinéma. Les films se languissent dans une position géostationnaire. Alors je peux prendre deux minutes pour noter quelques réflexions au sujet de ce nouveau film qui ferait presque date (et ainsi faire plaisir à J).
 

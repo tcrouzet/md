@@ -1,6 +1,6 @@
 # Je vends plus de livres papier que d’ebooks
 
-Quand je sortais des livres papier avec un éditeur traditionnel, je n’ai jamais vendu moins de 3 000 exemplaires. Aujourd'hui, quand avec [L'expérience inédite](http://blog.tcrouzet.com/tune-caniveau/experience-inedite/) je sors [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/), j’en vends 86 ! Il est temps de faire un bilan d’une aventure éditoriale expérimentale.<span id="more-20785"></span>
+Quand je sortais des livres papier avec un éditeur traditionnel, je n’ai jamais vendu moins de 3 000 exemplaires. Aujourd'hui, quand avec [L'expérience inédite](http://blog.tcrouzet.com/tune-caniveau/experience-inedite/) je sors [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/), j’en vends 86 ! Il est temps de faire un bilan d’une aventure éditoriale expérimentale.
 
 Petit résumé. En septembre, je lance l’idée de créer [un commando pour éditer un texte sans l’apport du moindre capital](http://blog.tcrouzet.com/2010/09/13/experimentons-le-revenu-unique-pour-les-auteurs/) mais tout en respectant une logique éditoriale, c’est-à-dire travail sur le manuscrit, corrections, montage, façonnage et distribution. Mon but : montrer qu’on peut aujourd’hui éditer autrement.
 
@@ -41,9 +41,7 @@ Je change donc le règlement à la volée. Et le gagnant est le chroniqueur du t
 13. [l-ecritoire.net](http://www.l-ecritoire.net/?p=44) (4 visiteurs)
 14. [abracadabibliothesque.wordpress.com](http://abracadabibliothesque.wordpress.com/2010/11/27/la-tune-dans-le-caniveau-de-thierry-crouzet/) (3 visiteurs)
 15. [paganiz.com](http://www.paganiz.com/2010/11/tune-caniveau-crouzet/) (3 visiteurs)
-16. [amotsdelies.free.fr](<http://amotsdelies.over-blog.com/article-la-tune-dans-le-caniveau-59705635.html
-
->) (2 visiteurs)
+16. [amotsdelies.free.fr]() (2 visiteurs)
 17. [tortoise.servhome.org](http://tortoise.servhome.org/index.php?option=com_content&view=article&id=503:la-tune-dans-le-caniveau&catid=9:readingpatch&Itemid=24) (2 visiteurs)
 18. [histoires-de-livres.over-blog.com](http://histoires-de-livres.over-blog.com/article-la-tune-dans-le-caniveau-thierry-crouzet-60875882.html) (1 visiteur).
 

@@ -1,6 +1,6 @@
 # Écologiser la littérature
 
-Après avoir lu et écouté Bruno Latour, [je me suis demandé ce que pouvait signifier écologiser le vélo](https://tcrouzet.com/2022/11/07/ecologiser-le-velo/), mais il est aussi possible d’écologiser la littérature comme toute autre activité. Les écrivains se répartiraient en quatre catégories.<span id="more-64507"></span>
+Après avoir lu et écouté Bruno Latour, [je me suis demandé ce que pouvait signifier écologiser le vélo](https://tcrouzet.com/2022/11/07/ecologiser-le-velo/), mais il est aussi possible d’écologiser la littérature comme toute autre activité. Les écrivains se répartiraient en quatre catégories.
 
 ### L’écrivain moderniste (ou faustien)
 

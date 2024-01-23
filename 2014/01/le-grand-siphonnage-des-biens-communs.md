@@ -1,6 +1,6 @@
 # Le grand siphonnage des biens communs
 
-Vous savez sans doute déjà que [85 personnes détiennent autant de richesses que les 3,5 milliards des plus pauvres](http://www.oxfam.org/fr/policy/finir-inegalites-extremes). Ce chiffre ne me dit pas grand-chose. Il me choque, mais il ne me donne aucune information quant à la dynamique de notre monde. Sommes-nous oui ou non proches du point de rupture ?<span id="more-34264"></span>
+Vous savez sans doute déjà que [85 personnes détiennent autant de richesses que les 3,5 milliards des plus pauvres](http://www.oxfam.org/fr/policy/finir-inegalites-extremes). Ce chiffre ne me dit pas grand-chose. Il me choque, mais il ne me donne aucune information quant à la dynamique de notre monde. Sommes-nous oui ou non proches du point de rupture ?
 
 Pour avoir un début de réponse, il faudrait étudier la répartition des richesses dans le passé, par exemple au moment de la Révolution française. J’ai cherché, je n’ai rien trouvé de concluant. Je suis incapable de dire si l’écart actuel entre les riches et les pauvres nous approche d’une nouvelle révolution.
 

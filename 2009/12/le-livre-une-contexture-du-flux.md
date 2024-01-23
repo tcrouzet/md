@@ -1,6 +1,6 @@
 # Le livre : une contexture du flux
 
-Chaque fois que quelqu’un vous dira « J’aime lire des livres. » répondez-lui « Moi, j’aime lire des PDF. » Vous lui montrerez peut-être qu’il dit n’importe quoi.<span id="more-12413"></span>
+Chaque fois que quelqu’un vous dira « J’aime lire des livres. » répondez-lui « Moi, j’aime lire des PDF. » Vous lui montrerez peut-être qu’il dit n’importe quoi.
 
 Un livre est une interface de lecture. Nous avons tendance à oublier que le livre n’est qu’une technologie. Dans une première version de mon prochain livre, j’avais écrit quelques lignes à ce sujet que j’ai depuis coupées parce qu'elle s'éloignaient de mon sujet central.
 

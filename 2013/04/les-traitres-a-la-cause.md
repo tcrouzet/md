@@ -1,6 +1,6 @@
 # Les traîtres à la cause
 
-Internet devait nous aider à changer le monde, vite. Il le fera sur le long terme parce qu'il impose une structure horizontale au vieux modèle hiérarchique, mais la transition sera plus douloureuse qu'espérée, parce que les promoteurs d'Internet eux-mêmes ont failli.<span id="more-32316"></span>
+Internet devait nous aider à changer le monde, vite. Il le fera sur le long terme parce qu'il impose une structure horizontale au vieux modèle hiérarchique, mais la transition sera plus douloureuse qu'espérée, parce que les promoteurs d'Internet eux-mêmes ont failli.
 
 1. Souvent les startupers commencent en libre et finissent en propriétaire. Exemple, parmi une multitude, [MakerBot et ses imprimantes 3D](http://www.framablog.org/index.php/post/2012/09/24/makerbot-vs-materiel-libre). Le don, le partage, le libre, c'est bien tant qu'on ne gagne pas une tune, ou qu'on la pique à ceux qui en gagnent. Ce n'est que du marketing. Quand un gros bonnet comme Jeff Bezos débarque avec ses millions, on l'embrasse.
 2. Pour survivre, les défenseurs de la civilisation du don recourent à des subventions étatiques ou de fondations, elles-mêmes financées par la société privative. Ils se menottent avant même d'avoir gagné le champ de bataille.

@@ -1,6 +1,6 @@
 # Quand l’imposture paye
 
-Décidément, c’est ma fête. Un billet dans la série jalousie et énervement. [Après l’arrivée extraordinaire d’Alexandre Jardin en twiterrature](http://blog.tcrouzet.com/2010/07/13/tu-retardes-de-deux-ans/), c’est maintenant au tour du premier roman publié sur Twitter, qui bien sûr n’a jamais été le premier, d’être publié sur papier.<span id="more-17747"></span>
+Décidément, c’est ma fête. Un billet dans la série jalousie et énervement. [Après l’arrivée extraordinaire d’Alexandre Jardin en twiterrature](http://blog.tcrouzet.com/2010/07/13/tu-retardes-de-deux-ans/), c’est maintenant au tour du premier roman publié sur Twitter, qui bien sûr n’a jamais été le premier, d’être publié sur papier.
 
 [Nous avions l’année dernière signalé à l’auteur sur son blog son imposture](http://blog.tcrouzet.com/2009/08/03/the-dumb-writers-on-twitter/), il n’avait pas daigné répondre, il faut croire qu’il a eu raison, l’arnaque marketing paye mieux que jamais.
 

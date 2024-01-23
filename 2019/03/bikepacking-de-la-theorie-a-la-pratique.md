@@ -1,6 +1,6 @@
 # Bikepacking : de la théorie à la pratique
 
-Je me suis vraiment intéressé à l’ergonomie du vélo en même temps que je me préparais à me lancer dans le bikepacking et des journées de près de 200 km de VTT. [Avant mon premier raid](https://tcrouzet.com/2019/02/08/satori-a-lake-lindsay/), j’avais tant la trouille que j’ai tenté de me blinder des pieds à la tête en passant par les fesses. [Après quelques erreurs](https://tcrouzet.com/2019/03/01/je-suis-le-bon-pigeon-pour-les-ergonomistes-du-velo/), je retiens une leçon : le minimalisme.<span id="more-51007"></span>
+Je me suis vraiment intéressé à l’ergonomie du vélo en même temps que je me préparais à me lancer dans le bikepacking et des journées de près de 200 km de VTT. [Avant mon premier raid](https://tcrouzet.com/2019/02/08/satori-a-lake-lindsay/), j’avais tant la trouille que j’ai tenté de me blinder des pieds à la tête en passant par les fesses. [Après quelques erreurs](https://tcrouzet.com/2019/03/01/je-suis-le-bon-pigeon-pour-les-ergonomistes-du-velo/), je retiens une leçon : le minimalisme.
 
 À l’avenir, tout ce qui n’est pas absolument utile, je le laisserai à la maison. Quand je vois certains cyclos se lancer dans des expéditions avec des vélos surchargés, je sais que ce n’est pas mon truc.
 

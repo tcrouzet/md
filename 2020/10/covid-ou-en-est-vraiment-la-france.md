@@ -1,6 +1,6 @@
 # Pas encore de seconde vague mais un rebond
 
-Comme tout le monde, je suis fatigué par le covid, fatigué par le port du masque en société, par la fermeture des cafés, par les complications, par la crainte pour ma maman et mes amis âgés, j’en ai marre, mais aussi parce que depuis des mois je scrute cette épidémie jusqu’à l’épuisement.<span id="more-55474"></span>
+Comme tout le monde, je suis fatigué par le covid, fatigué par le port du masque en société, par la fermeture des cafés, par les complications, par la crainte pour ma maman et mes amis âgés, j’en ai marre, mais aussi parce que depuis des mois je scrute cette épidémie jusqu’à l’épuisement.
 
 Pour y voir plus clair, pour dépassionner le débat, j’en reviens toujours aux chiffres globaux. On se demande si la France fait bien, si telle ou telle mesure est justifiée. Pour répondre, je me suis concocté un indice que j’ai appelé *awareness*.
 

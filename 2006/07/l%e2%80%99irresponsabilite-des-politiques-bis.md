@@ -1,6 +1,6 @@
 # L’irresponsabilité des politiques, bis
 
-L’imprévisibilité n’est pas une idée, elle est aujourd’hui un fait scientifique. [Nassim Nicholas Taleb](http://www.fooledbyrandomness.com/) explique pourquoi nous n’avons pas envie de l’accepter. Une fois conscient de ce qui se passe dans notre tête, nous devrions être un peu plus sages. Mais ça ne semble pas évident pour tout le monde. Je reviens donc sur le sujet.<span id="more-166"></span>
+L’imprévisibilité n’est pas une idée, elle est aujourd’hui un fait scientifique. [Nassim Nicholas Taleb](http://www.fooledbyrandomness.com/) explique pourquoi nous n’avons pas envie de l’accepter. Une fois conscient de ce qui se passe dans notre tête, nous devrions être un peu plus sages. Mais ça ne semble pas évident pour tout le monde. Je reviens donc sur le sujet.
 
 1/ Les futurs probables n’existent pas. Il est impossible de définir la probabilité d’un futur donné sinon en s’accordant une marge d’erreur faramineuse. Bien sûr, les analystes en tout genre ne peuvent pas être d’accord car leur gagne-pain est la prévision. Mais il suffit de regarder en arrière pour constater qu’ils se trompent presque toujours. Leur taux d’erreur est monstrueux.
 

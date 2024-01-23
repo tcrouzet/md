@@ -1,8 +1,8 @@
 # Les dangers de l’hyperlocal
 
-Dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), je prône la complexité volontaire par l'intermédiaire de la connexion entre les individus. Je défends qu’en créant en toute simplicité plus de liens, nous accroissons la complexité du système, ce qui mène à plus de liberté, d’intelligence collective et aussi à une transition vers un mode de vie plus culturel, donc moins dépendant des ressources matérielles.<span id="more-20321"></span>
+Dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), je prône la complexité volontaire par l'intermédiaire de la connexion entre les individus. Je défends qu’en créant en toute simplicité plus de liens, nous accroissons la complexité du système, ce qui mène à plus de liberté, d’intelligence collective et aussi à une transition vers un mode de vie plus culturel, donc moins dépendant des ressources matérielles.
 
-<a href="">Je critique les Khmers verts</a> parce qu’ils prônent l’autonomie en de nombreux domaines, notamment alimentaire, ce qui revient à couper des liens, donc à simplifier le système, donc à réduire nos libertés et à nous faire courir le risque d’un retour à la dictature.
+Je critique les Khmers verts parce qu’ils prônent l’autonomie en de nombreux domaines, notamment alimentaire, ce qui revient à couper des liens, donc à simplifier le système, donc à réduire nos libertés et à nous faire courir le risque d’un retour à la dictature.
 
 Avant de revenir sur ce point, il me paraît important de préciser des notions comme « simple », « compliqué » ou « complexe ». Une pyramide est une structure simple. On peut la schématiser sans difficulté – les organigrammes –, ou même la décrire avec quelques mots.
 

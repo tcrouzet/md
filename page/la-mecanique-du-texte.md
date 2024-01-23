@@ -8,14 +8,7 @@
 
 ##### **papier 9.99 €** : [Amazon](https://www.amazon.fr/mécanique-du-texte-Thierry-Crouzet/dp/1536805130/), [CreateSpace](https://www.createspace.com/6463170).
 
-
-
-
-
-
 ### Chronique sur la RTBF
-
-
 
 ### Présentation
 

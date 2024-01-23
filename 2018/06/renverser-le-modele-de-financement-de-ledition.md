@@ -1,6 +1,6 @@
 # Renverser le modèle de financement de l’édition
 
-Depuis [le lancement du financement participatif](https://www.gameontabletop.com/crowdfunding-118.html#project-block-details) de [*L’affaire Deluze*](https://tcrouzet.com/deluze/), une idée me trotte dans la tête. Ne serait-il pas possible de reprendre ce mécanisme pour stimuler l’écriture d’un livre ?<span id="more-49281"></span>
+Depuis [le lancement du financement participatif](https://www.gameontabletop.com/crowdfunding-118.html#project-block-details) de [*L’affaire Deluze*](https://tcrouzet.com/deluze/), une idée me trotte dans la tête. Ne serait-il pas possible de reprendre ce mécanisme pour stimuler l’écriture d’un livre ?
 
 Comment ça marche pour [*L’affaire Deluze*](https://tcrouzet.com/deluze/) ? [L’éditeur](http://www.les12singes.com/) a proposé un financement avec un premier palier à 8 000 €, puis il a proposé des options qui se débloquent peu à peu au fur et à mesure des souscriptions.
 

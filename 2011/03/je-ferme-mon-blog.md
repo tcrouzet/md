@@ -1,6 +1,6 @@
 # Je ferme mon blog et me déconnecte
 
-J’ai lancé [l’idée de me couper du Net pendant six mois](http://blog.tcrouzet.com/2011/02/08/deux-idees-de-textes-longs/), puis une nuit une semaine plus tard [je me suis fait peur](http://blog.tcrouzet.com/2011/02/14/une-frayeur-dans-la-nuit/) et me suis retrouvé à l’hôpital en train de lire les blogs sur mon iPhone, je me suis alors dit que [mon idée n’était pas qu’une idée de plus](http://blog.tcrouzet.com/id/).<span id="more-21442"></span>
+J’ai lancé [l’idée de me couper du Net pendant six mois](http://blog.tcrouzet.com/2011/02/08/deux-idees-de-textes-longs/), puis une nuit une semaine plus tard [je me suis fait peur](http://blog.tcrouzet.com/2011/02/14/une-frayeur-dans-la-nuit/) et me suis retrouvé à l’hôpital en train de lire les blogs sur mon iPhone, je me suis alors dit que [mon idée n’était pas qu’une idée de plus](http://blog.tcrouzet.com/id/).
 
 Quand est-ce que le Net me fait plus de mal que de bien ? J’ai éprouvé de façon pressante le besoin de faire la part des choses. Pour mieux comprendre ce qu’être connecté signifie, j’ai ressenti le besoin de me déconnecter et de m'arracher au stress des timelines. Je me suis dit que je devrais imiter les sages qui s’isolent quelque temps dans le désert. Il me fallait me couper du flux, de mon réseau social, de ma mémoire… d’une part peut-être essentielle de mon intelligence... pour retrouver un temps long dont j'ai perdu l'usage.
 

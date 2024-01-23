@@ -1,6 +1,6 @@
 # Pourquoi j&#8217;écris un twiller
 
-Avec *Les envoutés*, Gombrowicz voulut un bon mauvais roman. J’ai la même ambition avec [*Croisade*](http://twiller.tcrouzet.com/). Grâce à Twitter, j’ai trouvé une contrainte qui me pousse à coller au style de la littérature hall de gare (la contrainte aurait pu avoir d’autres effets mais c’est ainsi pour moi).<span id="more-9612"></span>
+Avec *Les envoutés*, Gombrowicz voulut un bon mauvais roman. J’ai la même ambition avec [*Croisade*](http://twiller.tcrouzet.com/). Grâce à Twitter, j’ai trouvé une contrainte qui me pousse à coller au style de la littérature hall de gare (la contrainte aurait pu avoir d’autres effets mais c’est ainsi pour moi).
 
 J’ai une admiration sincère pour tous ces auteurs, qui avec des phrases maladroites, convenues, des personnages caricaturaux, sont néanmoins capables de nous captiver pendant des heures (ça m’intéresse d’autant que la psychologie romanesque m’agace – peut-être la raison qui me fait aimer Arthur C. Clarke). J’ai toujours été jaloux des auteurs « à succès » parce que je suis incapable d’écrire comme eux. J’ai souvent essayé et, à force de me planter, j’ai cessé de les mépriser et me suis mis à mépriser ceux qui vilipendent cette littérature. « Faites en autant, écrivez un bestseller à la con. »
 

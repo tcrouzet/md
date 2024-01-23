@@ -1,6 +1,6 @@
 # i727, nouveau projet bikepacking
 
-Après avoir passé près de deux ans à tracer [le 727](https://tcrouzet.com/727tour/), [il faut plus que Komoot pour y réussir](https://tcrouzet.com/2021/05/27/gaffe-komoot-est-bugue/), je m’attaque à un tour de l’Hérault dans le tour de l’Hérault : i727 pour inside/intérieur 727.<span id="more-59621"></span>
+Après avoir passé près de deux ans à tracer [le 727](https://tcrouzet.com/727tour/), [il faut plus que Komoot pour y réussir](https://tcrouzet.com/2021/05/27/gaffe-komoot-est-bugue/), je m’attaque à un tour de l’Hérault dans le tour de l’Hérault : i727 pour inside/intérieur 727.
 
 J’en suis à la première ébauche, composée à partir de mes parcours, de traces officielles de la FFC et d’autres dénichées en ligne. Je publie cette ébauche pour inviter ceux qui connaissent les terrains parcourus à me suggérer de beaux singles et de beaux chemins, ainsi que des lieux incontournables.
 

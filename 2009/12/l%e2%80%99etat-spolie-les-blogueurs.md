@@ -1,6 +1,6 @@
 # L’État spolie les blogueurs
 
-Je dois être naïf. Je ne suis pas l’actualité alors je tombe des nues quand, sur Twitter, François Bon attire mon attention vers [un article du *Monde*](http://www.lemonde.fr/actualite-medias/article/2009/12/30/les-editeurs-de-presse-en-ligne-se-repartissent-20-millions-d-euros-d-aides_1285932_3236.html) où j’apprends que la presse en ligne va recevoir 60 millions d’Euros de subvention.<span id="more-12908"></span>
+Je dois être naïf. Je ne suis pas l’actualité alors je tombe des nues quand, sur Twitter, François Bon attire mon attention vers [un article du *Monde*](http://www.lemonde.fr/actualite-medias/article/2009/12/30/les-editeurs-de-presse-en-ligne-se-repartissent-20-millions-d-euros-d-aides_1285932_3236.html) où j’apprends que la presse en ligne va recevoir 60 millions d’Euros de subvention.
 
 Et pourquoi je ne reçois rien moi ? Pourquoi nous autres blogueurs qui écrivons presque tous les jours et donc participons bien à la presse en ligne ne recevons-nous rien ?
 

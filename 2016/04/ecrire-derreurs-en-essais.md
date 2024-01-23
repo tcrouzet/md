@@ -1,6 +1,6 @@
 # Écrire d’erreurs en essais
 
-J’ai pris l’habitude d’ouvrir mon atelier et de m’adonner à [la littérature comme happening](http://tcrouzet.com/2016/04/12/la-litterature-comme-happening/), non pas que je craigne le travail solitaire (d’ailleurs très confortable), mais parce que l’ouverture me grise et altère ma pente naturelle, sachant que si je dérape, je peux toujours revenir à une méthode créatrice plus classique.<span id="more-43885"></span>
+J’ai pris l’habitude d’ouvrir mon atelier et de m’adonner à [la littérature comme happening](http://tcrouzet.com/2016/04/12/la-litterature-comme-happening/), non pas que je craigne le travail solitaire (d’ailleurs très confortable), mais parce que l’ouverture me grise et altère ma pente naturelle, sachant que si je dérape, je peux toujours revenir à une méthode créatrice plus classique.
 
 Alors j’essaie des textes, les retire, les réécris, recommence, et je partage cette expérience, le recommencement devenant le sujet d’un métatexte, une réflexion sur le texte lui-même et sa méthode de production. 
 

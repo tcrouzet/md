@@ -1,6 +1,6 @@
 # Changer la gauche, le centre et la droite
 
-Je ne lis pas la presse mais comme je suis encore en vacances et que mon beau-père la lit, je suis tombé sur la couverture du supplément du monde titrée [*Des idées pour changer la gauche*](http://www.lemonde.fr/le-monde-2/article/2008/08/22/gauche-des-idees-pour-une-refondation_1086950_1004868.html).<span id="more-2665"></span>
+Je ne lis pas la presse mais comme je suis encore en vacances et que mon beau-père la lit, je suis tombé sur la couverture du supplément du monde titrée [*Des idées pour changer la gauche*](http://www.lemonde.fr/le-monde-2/article/2008/08/22/gauche-des-idees-pour-une-refondation_1086950_1004868.html).
 
 Avant même de commencer l’article, j’ai éclaté de rire. La question n’a aucun sens. Comment changer quelque chose qui même différent serait toujours identique ? C’est un peu comme si on disait il faut changer le rouge. Il serait plus ou moins clair, plus où moins moiré, mais il resterait rouge.
 

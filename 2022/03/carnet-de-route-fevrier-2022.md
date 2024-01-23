@@ -4,7 +4,7 @@
 
 ### Mardi 1<sup>er</sup>, Balaruc
 
-J’ai lu des journaux d’artiste pour apprendre à créer avec eux. Désormais, je les lis pour me sentir moins seul et partager les mêmes joies et doutes. Virginia Woolf, au sujet d’un ami : « Il se débat en ce moment avec un roman de lui dont il manipule les touches, mais dont il ne tire pour l’instant que des dissonances. »<span id="more-63747"></span>
+J’ai lu des journaux d’artiste pour apprendre à créer avec eux. Désormais, je les lis pour me sentir moins seul et partager les mêmes joies et doutes. Virginia Woolf, au sujet d’un ami : « Il se débat en ce moment avec un roman de lui dont il manipule les touches, mais dont il ne tire pour l’instant que des dissonances. »
 
 ---
 

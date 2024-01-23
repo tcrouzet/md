@@ -1,6 +1,6 @@
 # La révolution dans un garage, encore
 
-Durant les années 1970, quelques geeks décidèrent que nous disposerions tous d’une puissance de calcul digne des plus grandes multinationales ou organisations gouvernementales. Quarante ans plus tard, une nouvelle génération de geeks a la volonté de nous doter des mêmes outils de production que les industriels et de nous transformer en artisans.<span id="more-17566"></span>
+Durant les années 1970, quelques geeks décidèrent que nous disposerions tous d’une puissance de calcul digne des plus grandes multinationales ou organisations gouvernementales. Quarante ans plus tard, une nouvelle génération de geeks a la volonté de nous doter des mêmes outils de production que les industriels et de nous transformer en artisans.
 
 Cette révolution découle de la précédente et ne pouvait venir qu’après elle. Tout d’abord parce que nous avons besoin d’ordinateurs pour piloter nos nouvelles machines, mais, surtout, parce que l’usage des outils de communication nous transforme nous-mêmes.
 

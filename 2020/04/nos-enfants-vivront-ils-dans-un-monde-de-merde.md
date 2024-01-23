@@ -1,6 +1,6 @@
 # Covid-19 : quand la centralisation est criminelle
 
-Un ami ne se sent pas bien, il a un peu de fièvre, [il se teste sur internet](https://maladiecoronavirus.fr/), il semble être positif, il se rend chez son généraliste qui lui pose les mêmes questions que le test internet et lui donne le même diagnostic. « Prenez du paracétamol et rentrez chez vous. »<span id="more-54125"></span>
+Un ami ne se sent pas bien, il a un peu de fièvre, [il se teste sur internet](https://maladiecoronavirus.fr/), il semble être positif, il se rend chez son généraliste qui lui pose les mêmes questions que le test internet et lui donne le même diagnostic. « Prenez du paracétamol et rentrez chez vous. »
 
 Mon ami est dépité. « Mais je n’ai pas cessé de travailler, j’ai croisé beaucoup de personnes ces derniers jours, on ne doit pas faire quelque chose pour eux ? » Le médecin se contente de hausser les épaules avec fatalité.
 

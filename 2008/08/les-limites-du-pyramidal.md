@@ -1,6 +1,6 @@
 # Les limites du pyramidal
 
-<embed allowfullscreen="true" id="VideoPlayback" src="http://video.google.com/googleplayer.swf?docid=4239550001256540398&hl=fr&fs=true" style="width:400px;height:326px" type="application/x-shockwave-flash"></embed>
+
 
 Grâce à [Phyrezo](http://blog.phyrezo.org/2008/06/confrence-sur-lintelligence-collective.html), je viens d’écouter cette conférence de [Jean-François Noubel](http://thetransitioner.org/).
 

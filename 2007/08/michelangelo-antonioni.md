@@ -1,6 +1,6 @@
 # Michelangelo Antonioni
 
-Je ne suis pas l’actualité comme vous le savez et je viens juste d’apprendre la mort d’Antonioni et celle de Michel Serrault.<span id="more-531"></span>
+Je ne suis pas l’actualité comme vous le savez et je viens juste d’apprendre la mort d’Antonioni et celle de Michel Serrault.
 
 ![Par Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070808pacco.jpg)
 

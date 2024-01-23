@@ -1,6 +1,6 @@
 # Personne n’est plus darwinien
 
-Dans un commentaire, Phyrezo s’est presque vanté de ne plus être darwinien comme s’il existait encore des darwiniens. Je sais qu’il défend cette position en partie sous l’influence de Jean Staune et de son livre *Notre existence a-t-elle un sens ?*<span id="more-4802"></span>
+Dans un commentaire, Phyrezo s’est presque vanté de ne plus être darwinien comme s’il existait encore des darwiniens. Je sais qu’il défend cette position en partie sous l’influence de Jean Staune et de son livre *Notre existence a-t-elle un sens ?*
 
 Je me demande bien pourquoi Staune pose la question puisqu’il est persuadé que l’existence a un sens, surtout entendu en tant que direction qui nous serait imposée de l’extérieur.
 

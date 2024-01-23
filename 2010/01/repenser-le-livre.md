@@ -1,6 +1,6 @@
 # Repenser le livre
 
-« Ce livre n’est ni un essai, ni un traité d’expert, ni un document, ni un récit, ni un travail scientifique ou philosophique, ni une œuvre littéraire. Il se situe quelque part dans le flux mouvant qui interconnecte ces domaines, floutant les frontières qui jadis les séparaient. »<span id="more-13734"></span>
+« Ce livre n’est ni un essai, ni un traité d’expert, ni un document, ni un récit, ni un travail scientifique ou philosophique, ni une œuvre littéraire. Il se situe quelque part dans le flux mouvant qui interconnecte ces domaines, floutant les frontières qui jadis les séparaient. »
 
 Je vais ajouter ce petit texte en préambule de [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), suivant le conseil de [Pierre Fraser](http://theoriedestendances.com/) qui vient de faire une lecture stimulante de mon livre et qui ne manquera pas d’avoir des répercutions sur le texte final. Cette idée d’un texte final a-t-elle d'ailleurs encore un sens ? Aujourd'hui, un livre ne doit-il pas ressembler à un logiciel et évoluer sans cesse, ne serait-ce que par les commentaires que déposent autour les lecteurs ?
 

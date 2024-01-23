@@ -1,6 +1,6 @@
 # Comment un auteur peut-il exister en ligne&nbsp;?
 
-En 2010, lors de ma première intervention chez [Kawenga](http://www.kawenga.org), j’avais [répondu à cette vaste question par un billet](http://blog.tcrouzet.com/2010/05/18/secrets-de-ma-vie-en-ligne/) que je reprends et module et qui me servira de fils rouge lors de ma présentation.<span id="more-29943"></span>
+En 2010, lors de ma première intervention chez [Kawenga](http://www.kawenga.org), j’avais [répondu à cette vaste question par un billet](http://blog.tcrouzet.com/2010/05/18/secrets-de-ma-vie-en-ligne/) que je reprends et module et qui me servira de fils rouge lors de ma présentation.
 
 ### Exister ou ne pas exister
 

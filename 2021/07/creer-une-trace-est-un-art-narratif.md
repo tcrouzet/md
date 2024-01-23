@@ -1,6 +1,6 @@
 # Créer une trace est un art narratif
 
-Tracer un parcours à vélo est une écriture comme une autre, pour moi semblable à l’écriture de textes ou même de codes. J’y mets ma personnalité, partage mes émotions et émerveillements. Une trace réussie est une œuvre d’art dans laquelle le traceur se donne tout entier. C’est une histoire d’amour entre lui et le territoire.<span id="more-59981"></span>
+Tracer un parcours à vélo est une écriture comme une autre, pour moi semblable à l’écriture de textes ou même de codes. J’y mets ma personnalité, partage mes émotions et émerveillements. Une trace réussie est une œuvre d’art dans laquelle le traceur se donne tout entier. C’est une histoire d’amour entre lui et le territoire.
 
 J’ai découvert cette dimension de la trace aux États-Unis lors de mes premiers raids bikepacking, dont le point de départ et d’arrivée étaient situés à l’endroit le plus judicieux pour que l’introduction et la conclusion soient dignes d’un roman d’aventures. Travail d’autant plus compliqué pour une boucle.
 

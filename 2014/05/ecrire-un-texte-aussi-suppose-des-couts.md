@@ -1,6 +1,6 @@
 # Écrire un texte aussi suppose des coûts
 
-Après mes [deux billets sur le crowdfunding](http://blog.tcrouzet.com/tag/crowdfunding/), on m’écrit « [*Tout* système de fundraising suppose des coûts (même l'organisation d'une galette).](https://twitter.com/ululeFR/status/461539671739482113) » Je vais aller plus loin…<span id="more-35355"></span>
+Après mes [deux billets sur le crowdfunding](http://blog.tcrouzet.com/tag/crowdfunding/), on m’écrit « [*Tout* système de fundraising suppose des coûts (même l'organisation d'une galette).](https://twitter.com/ululeFR/status/461539671739482113) » Je vais aller plus loin…
 
 ![Ulule](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/ulule-600x229.png)
 

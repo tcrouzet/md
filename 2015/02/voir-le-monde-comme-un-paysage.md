@@ -1,6 +1,6 @@
 # Voir le monde comme un paysage
 
-Au cours d’une conférence de l’écologue [Philippe Martin](http://www.photogriffon.com/les-maitres-de-la-photographie/Philippe-MARTIN/Maitre-de-la-photo-Philippe-Martin-3.html), j’ai appris l’année dernière que je vivais dans la région d’Europe avec la plus grande biodiversité. Le midi. Nature façonnée par l’homme. Un grand jardin à la flore et la faune importées de l’Afrique du Nord, mixées avec celles de l’Europe du Nord, ce qui donne une combinaison unique. Alors, quand une journée ensoleillée de février tape à ma porte, pas question de manquer cette occasion de m’en aller dans la garrigue en quête des premières floraisons.<span id="more-39501"></span>
+Au cours d’une conférence de l’écologue [Philippe Martin](http://www.photogriffon.com/les-maitres-de-la-photographie/Philippe-MARTIN/Maitre-de-la-photo-Philippe-Martin-3.html), j’ai appris l’année dernière que je vivais dans la région d’Europe avec la plus grande biodiversité. Le midi. Nature façonnée par l’homme. Un grand jardin à la flore et la faune importées de l’Afrique du Nord, mixées avec celles de l’Europe du Nord, ce qui donne une combinaison unique. Alors, quand une journée ensoleillée de février tape à ma porte, pas question de manquer cette occasion de m’en aller dans la garrigue en quête des premières floraisons.
 
 Au début de mes promenades, j’ai soif de tout voir alors je photographie avec mon smartphone. Mauvaise idée, parce que je regarde mes mails. Un ami m’écrit :
 
@@ -35,6 +35,8 @@ Des artistes aiment les gros plans, j’aime les vues lointaines qui révèlent 
 Si j’aime autant le paysage, c’est sans doute pour une proximité intellectuelle. Mon cerveau entraîné à le ressentir à force d’adopter une vision numérique du monde, porteuse de toute la complexité des interactions qui ont depuis toujours échappées aux investigations de la pensée analogique, forcée de rechercher des invariants, des idéaux, pour interpréter les phénomènes par une espèce d’arithmétique causale, alors que la pensée numérique, ne recherche pas la compréhension directe, mais plutôt se satisfait de simuler les phénomènes, de leur redonner vie à partir de quelques mécanismes élémentaires que les ordinateurs peuvent répéter indéfiniment jusqu’à ce qu’une réalité émerge. Dans le cas contraire, il faut recommencer, proposer un autre jeu de règles. Cette façon de voir le monde en paysagiste est assez particulière. Elle est la mienne du haut de ma garrigue.
 
 ![Un paysage sur lequel il faut zoomer pour l'explorer.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/garrigue.jpg)
+
+Un paysage sur lequel il faut zoomer pour l'explorer.
 
 
 

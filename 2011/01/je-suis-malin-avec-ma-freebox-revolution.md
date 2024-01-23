@@ -1,6 +1,6 @@
 # Je suis malin avec ma Freebox Révolution
 
-Quand j’ai reçu en décembre un mail du service presse de Free m’annonçant le lancement de la Freebox Révolution, j’ai cru bon de répondre que je testerai bien leur nouveau gadget. Ils m'ont pris au mot et j’ai reçu comme beaucoup d’autres clients Free la nouvelle bête dans sa double boîte blanche.<span id="more-20938"></span>
+Quand j’ai reçu en décembre un mail du service presse de Free m’annonçant le lancement de la Freebox Révolution, j’ai cru bon de répondre que je testerai bien leur nouveau gadget. Ils m'ont pris au mot et j’ai reçu comme beaucoup d’autres clients Free la nouvelle bête dans sa double boîte blanche.
 
 Pour tout ce qui concerne la domotique, je n’aime pas me casser la tête et je ne suis pas à la recherche des dernières nouveautés. Je n’ai pas craqué pour un iPad. Mon ancienne freebox V5 me satisfaisait et je n’en aurais pas changé de si tôt sans le hasard du mail du service de presse de Free.
 

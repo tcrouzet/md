@@ -1,6 +1,6 @@
 # Le Flux n&#8217;est pas une métaphore
 
-Depuis que j’écris sur ce blog, des lecteurs me renvoient à Sokal et Bricmont, me prévenant des dangers des analogies, des transpositions d’une science à l’autre. J’ai lu *Impostures Intellectuelles* à sa sortie en 1997, j’ai assisté à cette époque aux conférences de Bricmont à Jussieu. J’ai même discuté avec lui, tant son texte m’avait marqué (et m’avait fait plaisir en démontrant l’imposture d’une partie de notre intelligentsia franchouillarde).<span id="more-14056"></span>
+Depuis que j’écris sur ce blog, des lecteurs me renvoient à Sokal et Bricmont, me prévenant des dangers des analogies, des transpositions d’une science à l’autre. J’ai lu *Impostures Intellectuelles* à sa sortie en 1997, j’ai assisté à cette époque aux conférences de Bricmont à Jussieu. J’ai même discuté avec lui, tant son texte m’avait marqué (et m’avait fait plaisir en démontrant l’imposture d’une partie de notre intelligentsia franchouillarde).
 
 Ma démarche aujourd’hui est différente. Quand je découvre une analogie, je la communique dans l’idée qu’elle pourra provoquer « un quelque chose » chez certains lecteurs, pas dans le but d’énoncer une vérité. La vérité m’intéresse peu, je n’y crois même pas. Je m’intéresse à ce qui peut m’aider à vivre, peut-être en aider d’autres. Je ne suis pas dans le quantitatif mais dans le qualitatif.
 

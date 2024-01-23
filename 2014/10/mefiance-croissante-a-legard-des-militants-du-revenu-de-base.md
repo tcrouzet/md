@@ -19,11 +19,9 @@ Le SAV contient en germe le totalitarisme. Des tranches de salaire en fonction d
 Je ne veux pas d’une telle société, je ne veux pas d’un revenu de base à n’importe quel prix. Parce qu’il n’est déjà pas difficile d’imaginer qui pourrait être tenté par l’idée.
 
 1. Les néocommunistes.
-    
-    
-    
+
     1. Les nationalistes populistes prêts à acheter les électeurs.
-    
+
     2. Les capitalistes qui voient diminuer le nombre de leurs clients et voudraient relancer la croissance (une simple variation du fordisme).
 
 En conséquence, il me paraît vital de cesser de défendre une idée œcuménique du revenu de base. Je n’ai pas envie de me retrouver dans le camp des dictateurs sous prétexte qu’un jour j’aurais défendu une idée portant le même nom que la leur. Je n’ai rien en commun avec tous ces gens.
@@ -37,6 +35,8 @@ Je ne suis pas en même temps en train de régler le problème du capitalisme. L
 Si les choses restent floues dans l’esprit des militants, si la confusion volontaire se maintient dans le but d’accroître la portée du mouvement, j’éviterai à l’avenir de parler du revenu de base, et surtout de m’en revendiquer. J’ai l’impression d’assister au parasitage d’une idée neuve par les idéologies qui ont déjà prouvé leur inefficacité, non pas parce qu’elles ont été mal appliquées, mais parce qu’elles ne prennent pas en compte notre psychologie la plus élémentaire.
 
 ![La base, c'est un chemin.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/base.jpg)
+
+La base, c'est un chemin.
 
 
 

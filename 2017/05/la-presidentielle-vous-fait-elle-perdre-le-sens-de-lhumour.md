@@ -1,6 +1,6 @@
 # La présidentielle vous fait-elle perdre le sens de l’humour ?
 
-Je regarde peu la TV, mais je ne rate ni le Tour de France, ni le débat de la présidentielle, événements d’une égale nature sportive. Hier soir, j’ai donc assisté à une ascension nerveuse du Galibier, avec une Le Pen qui ne cessait de planter des banderilles auxquelles Macron répondait au tac au tac.<span id="more-45335"></span>
+Je regarde peu la TV, mais je ne rate ni le Tour de France, ni le débat de la présidentielle, événements d’une égale nature sportive. Hier soir, j’ai donc assisté à une ascension nerveuse du Galibier, avec une Le Pen qui ne cessait de planter des banderilles auxquelles Macron répondait au tac au tac.
 
 À sa place du jeune loup, j’aurais usé d’une autre tactique. J’aurais laissé mon adversaire s’échapper, prendre le vent, s’épuiser, consommer tout son temps de parole alors synonyme d’énergie, avant de la rejoindre et de la déposer.
 

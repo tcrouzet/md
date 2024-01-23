@@ -1,6 +1,6 @@
 # Le sens du vent
 
-Quand je quitte la maison, j’ai le vent dans le nez, il vient des Pyrénées, du large, on l’appelle largade. J’effectue un quart de tout de l’étang, je me pose sur un banc à Bouzigue, et j’ai toujours face à moi une largade, qui me vient droit de la montagne de Sète et non plus des Pyrénées.<span id="more-37262"></span>
+Quand je quitte la maison, j’ai le vent dans le nez, il vient des Pyrénées, du large, on l’appelle largade. J’effectue un quart de tout de l’étang, je me pose sur un banc à Bouzigue, et j’ai toujours face à moi une largade, qui me vient droit de la montagne de Sète et non plus des Pyrénées.
 
 Quelque part au milieu de l’eau, un étrange revirement survient, une torsion des souffles, pour laquelle certains humains disposent d’un don particulier. On peut les qualifier de politiciens.
 
@@ -17,6 +17,8 @@ Les montés sur ressort se débattent, tirent sur le fil pour regagner la terre,
 Les navigateurs se moquent des règles et de l’avis de leur semblable. Ils larguent les amarres une fois pour toutes et gonflent leurs voiles, du moment qu’elles les entraînent où personne d’autre ne va. Ils vivent seuls et meurent seuls, mais heureux.
 
 ![Sète vu de Bouzigue.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/bouzigue.jpg)
+
+Sète vu de Bouzigue.
 
 
 

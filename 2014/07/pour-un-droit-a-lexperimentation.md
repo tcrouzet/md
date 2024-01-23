@@ -1,6 +1,6 @@
 # Pour un droit à l’expérimentation
 
-Chaque année se déroule à Mèze [le festival de Thau](http://www.festivaldethau.com/). Entre l’étang et les ruelles, à cheval sur la plage et le port, des musiciens attirent les foules estivales, forcées sur leur chemin de passer devant des stands qui questionnent nos modes de vie.<span id="more-36420"></span>
+Chaque année se déroule à Mèze [le festival de Thau](http://www.festivaldethau.com/). Entre l’étang et les ruelles, à cheval sur la plage et le port, des musiciens attirent les foules estivales, forcées sur leur chemin de passer devant des stands qui questionnent nos modes de vie.
 
 Un peu plus loin, dans le chai du château des conférences nous interrogent, ailleurs, discrètement, des spécialistes de la transition énergique rassemblés par [Thierry Salomon](http://fr.wikipedia.org/wiki/Thierry_Salomon) de [l’association Négawatt](http://www.negawatt.org/) se rassemblent pour refaire le monde. J’étais avec eux cette année.
 
@@ -81,6 +81,8 @@ Mais comme nous ne pouvons pas prévoir, reste à expérimenter, que la loi le v
 Lors de nos trois jours mézois, nous n’avons effectué aucune découverte fondamentale, juste fait un pas de côté, chacun hors de nos spécialités. La solution est peut-être là, dans l’entre d’eux, dans un haut degré de compétences techniques et aussi un haut degré d’interconnexion entre les individus, spécialistes ou non.
 
 ![Un bel endroit pour refaire le monde.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/meze.jpg)
+
+Un bel endroit pour refaire le monde.
 
 
 

@@ -1,6 +1,6 @@
 # Prolégomènes à L&#8217;édition interdite
 
-Les textes numériques glissent si vite dans le flux qu’ils nous échappent parfois avant que nous les ayons réellement digérés. Ainsi l’introduction de [*L’édition interdite*](http://blog.tcrouzet.com/edition-interdite/) présente dans les premiers fichiers en circulation et [reproduite par Christophe Grossi](http://blog.epagine.fr/index.php/2011/03/ledition-interdite-thierry-crouzet-numerikivres/), était ambigüe. Elle laissait entendre que mon essai s’attaquait aux éditeurs alors qu’il tente de mettre à jour une rupture de paradigme qui concerne l’ensemble de la société. Voici la version officielle.<span id="more-21416"></span>
+Les textes numériques glissent si vite dans le flux qu’ils nous échappent parfois avant que nous les ayons réellement digérés. Ainsi l’introduction de [*L’édition interdite*](http://blog.tcrouzet.com/edition-interdite/) présente dans les premiers fichiers en circulation et [reproduite par Christophe Grossi](http://blog.epagine.fr/index.php/2011/03/ledition-interdite-thierry-crouzet-numerikivres/), était ambigüe. Elle laissait entendre que mon essai s’attaquait aux éditeurs alors qu’il tente de mettre à jour une rupture de paradigme qui concerne l’ensemble de la société. Voici la version officielle.
 
 ---
 

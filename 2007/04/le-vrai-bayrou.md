@@ -66,8 +66,6 @@ La politique politicienne n’a pas grand-chose à dire dans ce qui nous préocc
 
 Le lendemain de mon entretien, une équipe de La Générale de Production rencontra aussi Bayrou pour lui parler d’internet. On mesure combien doit être lobotomisant le métier de politicien : répéter tous les jours la même chose... J'en tire une seule conclusion : les campagnes sont beaucoup trop longues, d'autant trop longues que peu d'idées profondes les traversent.
 
-<div></div>
-
 Ce reportage vidéo a été tourné pour un film sur la netcampagne qui sera diffusé sur Arte le 8 mai. Pour en savoir plus, [visitez le blog](http://blogs.arte.tv/e-campagne_2007).
 
 ---

@@ -1,6 +1,6 @@
 # Un roman historique à écrire en trois jours
 
-C’est un nouveau défi pour me changer les idées après un [*Ératosthène* écrit en 14 ans](http://blog.tcrouzet.com/eratosthene/). Le sujet, un illustre inconnu : Nicolas Dortoman. Explications nécessaires.<span id="more-37234"></span>
+C’est un nouveau défi pour me changer les idées après un [*Ératosthène* écrit en 14 ans](http://blog.tcrouzet.com/eratosthene/). Le sujet, un illustre inconnu : Nicolas Dortoman. Explications nécessaires.
 
 Je suis né dans un vieux pays, la presqu’île de Balaruc, peuplée dès la préhistoire, colonisée successivement par les Phéniciens, les Carthaginois et les Romains qui y ont construit des thermes, bientôt abandonnés après les invasions barbares, puis peu à peu redécouverts et célébrés pour la qualité de leurs eaux, notamment par Rabelais qui dans [le livre XXXIII de *Pantagruel*](http://fr.wikisource.org/wiki/Pantagruel/%C3%89dition_Marty-Laveaux,_1868/Chapitre_33) écrit en 1532 :
 

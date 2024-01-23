@@ -1,6 +1,6 @@
 # Votre blog est-il populaire ?
 
-Je ne suis pas modeste, j’aime avoir des lecteurs. Je me moque d’en avoir plus que les autres, mais si je ne suis pas lu, je me sens un peu mal.<span id="more-43539"></span>
+Je ne suis pas modeste, j’aime avoir des lecteurs. Je me moque d’en avoir plus que les autres, mais si je ne suis pas lu, je me sens un peu mal.
 
 Hier soir, j’ai croisé d’autres auteurs qui presque tous m’ont fait souffrir tant ils sont attachés à leur statut d’auteur et si peu préoccupés d’avoir ou non des lecteurs. Ils se veulent auteur pour exister dans la société. Pour ma part, je ne suis auteur que parce que j’écris et j’écris pour voir le monde, et pour que mes lecteurs me transmettent un peu d’énergie pour mieux voir et pour qu’en retour je les aide à mieux voir, donc idéalement à mieux vivre, ou à vivre davantage, un truc dans le genre.
 

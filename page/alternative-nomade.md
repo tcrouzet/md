@@ -10,13 +10,9 @@
 
 ##### **papier 13.00 €** : [Amazon](https://www.amazon.fr/dp/1981362940/ref=cm_sw_su_dp).
 
-
-
 Écologie, croissance, internet, réseaux sociaux, flux, complexité, monde du travail, développement personnel, futur, littérature, philosophie… un texte entre l’essai et le récit initiatique pour vous défragmenter le cerveau. Et si redevenir nomade était la solutions à nos maux ?
 
 Troisième tome de *La trilogie des connecteurs* après *Le peuple des connecteurs* (2006) et *Le cinquième pouvoir* (2007).
-
-
 
 ### Ils en parlent
 

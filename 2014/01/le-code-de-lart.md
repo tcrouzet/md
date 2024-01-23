@@ -1,6 +1,6 @@
 # Le code de l’art
 
-À Genève, j’ai visité [un atelier d’artiste un peu particulier](http://www.sigmasix.ch/). Bourré de Mac, de caméras, de vidéo projecteurs. Les écrans remplis de lignes de code poussées par deux jeunes gars, Florian Pittet et Éric Morzier.<span id="more-34134"></span>
+À Genève, j’ai visité [un atelier d’artiste un peu particulier](http://www.sigmasix.ch/). Bourré de Mac, de caméras, de vidéo projecteurs. Les écrans remplis de lignes de code poussées par deux jeunes gars, Florian Pittet et Éric Morzier.
 
 Florian a braqué une caméra sur moi, il a envoyé l’image sur l’écran, l’a projetée sur un cube, puis tout cela s’est mis à tourner, à clignoter, j’étais en train de danser. Tout a commencé dans le monde de la nuit. Avec des vidéos projecteurs montés sur rotules et reliés à des ordis. Désormais des capteurs réagissent aux moindres mouvements des spectateurs/acteurs.
 

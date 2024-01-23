@@ -1,6 +1,6 @@
 # Qu’est-ce qu’un écrivain&nbsp;?
 
-Personne ne peut répondre à cette question et tout le monde peut y répondre. Je vais jouer à l’entre-deux. Tenter de lister des conditions plus ou moins nécessaires et en aucun cas suffisantes.<span id="more-21525"></span>
+Personne ne peut répondre à cette question et tout le monde peut y répondre. Je vais jouer à l’entre-deux. Tenter de lister des conditions plus ou moins nécessaires et en aucun cas suffisantes.
 
 1. Un écrivain écrit, voire publie, mais n’est pas nécessairement édité.
 2. Un écrivain a un style, une forme. C’est quoi un style ? Pas une chose belle, mais une chose identifiable. Peu importe que la chemise sorte du pantalon lui-même froissé. Le style, c’est une musique, une façon de tourner les mots, de les envoyer à la gueule du lecteur ou, au contraire, de les distiller en douceur.

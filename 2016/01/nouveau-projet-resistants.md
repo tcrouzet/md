@@ -1,6 +1,6 @@
 # Nouveau projet&nbsp;: Résistants
 
-Après le succès du [*Geste qui sauve*](http://tcrouzet.com/le-geste-qui-sauve/), Didier Pittet et l’Université de Genève m’ont proposé d’écrire un livre de vulgarisation sur la résistance aux antibiotiques, un problème croissant dans les hôpitaux, en partie induit par le mauvais usage des antibiotiques.<span id="more-43439"></span>
+Après le succès du [*Geste qui sauve*](http://tcrouzet.com/le-geste-qui-sauve/), Didier Pittet et l’Université de Genève m’ont proposé d’écrire un livre de vulgarisation sur la résistance aux antibiotiques, un problème croissant dans les hôpitaux, en partie induit par le mauvais usage des antibiotiques.
 
 Petit retour en arrière. Bien d’autres auteurs auraient pu vulgariser l’hygiène des mains et raconter l’histoire de la solution hydro-alcoolique. En 2013, je me suis choisi cette mission parce [j’ai connecté la libre distribution de la formulation du gel et la grande famille du libre](http://tcrouzet.com/2016/01/19/lobsolescence-du-droit-dauteur-au-temps-de-labondance/). Je me suis alors lancé dans un récit autant politique que médical, autant humain que philosophique, avec à son cœur une défense de ce que j’ai appelé l’économie de paix.
 

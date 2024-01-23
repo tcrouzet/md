@@ -1,6 +1,6 @@
 # Pourquoi internet est-il brutal ?
 
-Je voudrais parler de la façon dont ma vision du monde a évolué ces vingt dernières années, essayant de la représenter par quelques schémas approximatifs.<span id="more-46291"></span>
+Je voudrais parler de la façon dont ma vision du monde a évolué ces vingt dernières années, essayant de la représenter par quelques schémas approximatifs.
 
 J’ai commencé à travailler en 1987. Autant que je me souvienne, c’était une période morose : Sida, crise pétrolière, chômage endémique, stagnation de la croissance, prise de conscience du réchauffement climatique, des perturbations écologiques, fin de la conquête spatiale… On était englué dans le No Future, dans cette idée que [l’Histoire s’était achevée](https://fr.wikipedia.org/wiki/Fin_de_l%27histoire).
 

@@ -1,8 +1,8 @@
 # Libérez votre présence en ligne – Mode d’emploi
 
-Dès à présent, je quitte Facebook et Twitter, mais sans réellement disparaître. J’ai tout simplement déplacé l’endroit où je m’exprime socialement en ligne.<span id="more-28816"></span>
+Dès à présent, je quitte Facebook et Twitter, mais sans réellement disparaître. J’ai tout simplement déplacé l’endroit où je m’exprime socialement en ligne.
 
-Depuis longtemps, je ne poste plus mes messages depuis les réseaux sociaux eux-mêmes mais depuis <a htef="http://hootsuite.com">HootSuite</a>, une façon de ne pas subir la dictature publicitaire, ni même la forme donnée à ces services par leurs opérateurs.
+Depuis longtemps, je ne poste plus mes messages depuis les réseaux sociaux eux-mêmes mais depuis HootSuite, une façon de ne pas subir la dictature publicitaire, ni même la forme donnée à ces services par leurs opérateurs.
 
 J’ai décidé d’aller plus loin. Puisque je pense que [les réseaux centralisés sont un danger pour le Net](http://blog.tcrouzet.com/2012/10/06/quitter-twitter-et-facebook-pour-survivre/), et je dis carrément pour la démocratie, je ne peux continuer à y vivre au détriment des endroits plus libres et plus politiquement acceptables qui naissent en ce moment.
 
@@ -14,7 +14,6 @@ J’ai décidé d’aller plus loin. Puisque je pense que [les réseaux centrali
 
 2. Créer un fil RSS de son activité sut Tent grâce à [un service tiers](http://tentrss.herokuapp.com/). L’URL du flux a la forme [http://tentrss.herokuapp.com/feed?uri=https%3A%2F%2Ftcrouzet.tent.is%2F&amp;include\_replies=0](http://tentrss.herokuapp.com/feed?uri=https%3A%2F%2Ftcrouzet.tent.is%2F&include_replies=0), où vous remplacez tcrouzet par votre pseudo.
 3. Créer des règles de cross-posting grâce à [IFTTT](https://ifttt.com). Pour ma part, je renvoie tous mes posts Tent sur Twitter, Facebook, ma page Facebook, Google+, Linklin, [mon lifestream sur mon blog](http://blog.tcrouzet.com/category/lifestream/)…
-
 
 ### IFTTT
 
@@ -46,10 +45,6 @@ C’est le service le plus génial apparu depuis longtemps sur le Net.
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/10/tent6.png)
 
 13. Personnalisez le message à l’aide de champs, ajoutez des hashtags, des textes libres… Pour terminer, cliquez sur « Create Action ».
-    
-    
-    
-    
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/10/tent7.png)
 
@@ -60,7 +55,6 @@ C’est le service le plus génial apparu depuis longtemps sur le Net.
 16. Il vous reste plus qu’à créer des règles pour les autres réseaux sociaux. Pour Google+, je passe à travers le channel HootSuite (j'aurais pu aussi bien envoyer tous les messages à travers HootSuite, mais j'ai préféré écrire des recettes sur mesure pour chacun des réseaux).
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/10/tent9.png)
-
 
 PS : Toute cette manip n'empêche pas les réseaux sociaux d'être mortellement chiant en ce moment. Elle règle le problème politique, pas le problème esthétique. 
 

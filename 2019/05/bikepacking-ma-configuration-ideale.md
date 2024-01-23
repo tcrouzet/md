@@ -1,6 +1,6 @@
 # Bikepacking : ma configuration idéale
 
-Entre mars 2019 et mai 2019, entre [ma seconde HuRaCan 300](https://tcrouzet.com/2019/03/15/dune-huracan-a-lautre/) qui s’est déroulée sur quatre jours, et [ma future Mountain 420](https://tcrouzet.com/2019/04/08/comment-preparer-un-raid-bikepacking/) prévue pour six ou sept jours, peut-être huit, j’ai peu à peu fait évoluer mon matériel. Je partirai plus léger tout en étant prêt à affronter un climat plus difficile.<span id="more-51553"></span>
+Entre mars 2019 et mai 2019, entre [ma seconde HuRaCan 300](https://tcrouzet.com/2019/03/15/dune-huracan-a-lautre/) qui s’est déroulée sur quatre jours, et [ma future Mountain 420](https://tcrouzet.com/2019/04/08/comment-preparer-un-raid-bikepacking/) prévue pour six ou sept jours, peut-être huit, j’ai peu à peu fait évoluer mon matériel. Je partirai plus léger tout en étant prêt à affronter un climat plus difficile.
 
 [J’ai déjà évoqué comment j’ai réduit de 23 % le poids de mon équipement électrique](#), je me suis livré au même travail sur de nombreux postes. [Le poids de base de mon équipement de bikepacking](https://tcrouzet.com/2019/05/05/le-bikepacking-cest-quoi/) est passé de 7 kg à 5,8 kg, soit une baisse de 17 %.
 

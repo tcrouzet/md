@@ -1,6 +1,6 @@
 # Hypocrisie du prix unique du livre
 
-Je m’étais promis de ne plus trop publier, de laisser passer tranquillement l’été, remettant en forme de vieux manuscrits avant d’aller me baigner avec les enfants. Et puis [François Bon s’attaque au prix unique du livre numérique](http://www.tierslivre.net/spip/spip.php?article2214), et il réveille une vieille rengaine chez moi, et une bouffée d’énervement me traverse. Alors j’écris, vite, pour me débarrasser de tout ça avant de retourner à mes manuscrits et à ma plage.<span id="more-18219"></span>
+Je m’étais promis de ne plus trop publier, de laisser passer tranquillement l’été, remettant en forme de vieux manuscrits avant d’aller me baigner avec les enfants. Et puis [François Bon s’attaque au prix unique du livre numérique](http://www.tierslivre.net/spip/spip.php?article2214), et il réveille une vieille rengaine chez moi, et une bouffée d’énervement me traverse. Alors j’écris, vite, pour me débarrasser de tout ça avant de retourner à mes manuscrits et à ma plage.
 
 Quelle est cette mascarade de prix unique du livre ? Qui ose encore ainsi justifier cette loi censée protéger les petites librairies face aux grosses librairies ? Croyez-vous que les petites librairies soient à égalité avec les grosses et avec les chaînes d’hypermarchés ? Que nenni.
 

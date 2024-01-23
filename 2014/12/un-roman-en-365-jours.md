@@ -1,6 +1,6 @@
 # Un roman en 365 jours
 
-Nous maîtrisons l’écriture matricielle sur nos blogs, c’est-à-dire le tramage de billets qui, pris ensemble, forment une œuvre. Nous pouvons ainsi nous lancer dans des [inventaires du monde](http://inventaire-du-monde.over-blog.com/), sorte de listes à la Perec, mais je n’ai jamais réussi à écrire une histoire suivie avec cette méthode.<span id="more-38445"></span>
+Nous maîtrisons l’écriture matricielle sur nos blogs, c’est-à-dire le tramage de billets qui, pris ensemble, forment une œuvre. Nous pouvons ainsi nous lancer dans des [inventaires du monde](http://inventaire-du-monde.over-blog.com/), sorte de listes à la Perec, mais je n’ai jamais réussi à écrire une histoire suivie avec cette méthode.
 
 Quand je dis écrire, c’est publier un jour sans savoir de quoi la suite sera faite, un peu comme je m’y suis amusé [avec mon twiller](http://blog.tcrouzet.com/la-quatrieme-theorie/), mais de telle façon qu’une histoire avance, avec l’objectif rêvé qu’elle soit aussi intelligible dans le désordre.
 

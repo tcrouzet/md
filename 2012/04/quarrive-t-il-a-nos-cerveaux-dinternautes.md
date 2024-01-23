@@ -1,6 +1,6 @@
 # Qu’arrive-t-il à nos cerveaux d’internautes ?
 
-Si j’avais vu plus tôt le graphique de Peter Kim et de son équipe, j’aurais peut-être expérimenté la déconnexion plus tôt.<span id="more-23953"></span>
+Si j’avais vu plus tôt le graphique de Peter Kim et de son équipe, j’aurais peut-être expérimenté la déconnexion plus tôt.
 
 Comme je le raconte dans [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), je ne suis pas sûr que nos critères psychologiques actuels soient adaptés aux êtres réseaux que nous sommes en train de devenir, toutefois j’ai compris à mes dépens que le Net peut stresser et stériliser l’être pré-réseau qui subsiste en moi comme l’illustre le graphique.
 

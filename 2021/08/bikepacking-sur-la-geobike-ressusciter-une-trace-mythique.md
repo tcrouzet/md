@@ -1,6 +1,6 @@
 # Bikepacking sur la Géobike : ressusciter une trace mythique
 
-J’aime les courtes aventures sur deux trois jours. Elles allongent le temps et l’espace, me transportent loin alors que je m’évade tout à côté de chez moi. Charger le vélo, partir avec le matos de camping, ne pas savoir à l’avance où je mangerai et où je dormirai suffit à me procurer un immédiat sentiment de liberté.<span id="more-60204"></span>
+J’aime les courtes aventures sur deux trois jours. Elles allongent le temps et l’espace, me transportent loin alors que je m’évade tout à côté de chez moi. Charger le vélo, partir avec le matos de camping, ne pas savoir à l’avance où je mangerai et où je dormirai suffit à me procurer un immédiat sentiment de liberté.
 
 Alors quand [Patrick Lamarre](https://www.youtube.com/c/Patventure34/) me dit « Tu fais quoi ce week-end ? », je m’empresse de lui répondre « Rien » pour me rendre disponible. Son idée : effectuer une boucle de 225 km entre Hérault, Gard, Lozère et Aveyron sur la Géobike, la trace du tout premier Ultra VTT français, créé en 2006, sans balisage, en autonomie totale. Patrick est un vétéran de cette épreuve disparue depuis une dizaine d’années. Il en garde quelques vagues souvenirs, assez confus, parce qu’à l’époque il était en mode course, couteau entre les dents. Son temps : 22 heures. Cette fois, nous comptons prendre notre temps. Patrick pour filmer, moi pour photographier dans l’idée de raconter le périple.
 

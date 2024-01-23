@@ -1,6 +1,6 @@
 # L’abondance est-elle un problème ?
 
-Dans le milieu des activistes numériques, on entend souvent dire que nous devons passer d’une société de la rareté à une société de l’abondance. Services, produits, temps libres, œuvres d’art, travail, énergie, communication, et même la monnaie devraient être démultipliés pour notre bien collectif.<span id="more-46063"></span>
+Dans le milieu des activistes numériques, on entend souvent dire que nous devons passer d’une société de la rareté à une société de l’abondance. Services, produits, temps libres, œuvres d’art, travail, énergie, communication, et même la monnaie devraient être démultipliés pour notre bien collectif.
 
 Impossible de ne pas penser à l’*Évangile de Jésus-Christ selon saint Matthieu*, chapitre 14, versets 14 à 21 :
 

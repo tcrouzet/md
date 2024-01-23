@@ -1,6 +1,6 @@
 # 200 jours sur Wattpad
 
-[Un mauvais article sur Wattpad dans *Bibliobs*](http://bibliobs.nouvelobs.com/web-side-stories/20150709.OBS2397/je-hurla-de-plaisir-on-est-alle-sur-wattpad-l-instagram-des-livres.html), écrit par une journaliste qui plutôt que se moquer ferait mieux de prendre des leçons de style chez certains Wattpadiens, m’incite à résumer ce que j’ai appris sur la plateforme et ses utilisateurs après 200 jours de publication quotidienne de mon feuilleton [*1 Minute*](https://www.wattpad.com/story/29694130-1-minute).<span id="more-42059"></span>
+[Un mauvais article sur Wattpad dans *Bibliobs*](http://bibliobs.nouvelobs.com/web-side-stories/20150709.OBS2397/je-hurla-de-plaisir-on-est-alle-sur-wattpad-l-instagram-des-livres.html), écrit par une journaliste qui plutôt que se moquer ferait mieux de prendre des leçons de style chez certains Wattpadiens, m’incite à résumer ce que j’ai appris sur la plateforme et ses utilisateurs après 200 jours de publication quotidienne de mon feuilleton [*1 Minute*](https://www.wattpad.com/story/29694130-1-minute).
 
 ### Le Wattpadien lecteur
 
@@ -51,6 +51,8 @@
 11. Il est lui-même un lecteur d’histoire publié sur Wattpad (et il est lui-même jeune, le plus souvent, mais gare aux vieux grincheux qui débarquent).
 
 ![J'oubliais le plus important. Les Wattpadiens stimulent. Ici deux couvertures montée par Blawete, lectrice de 1 minute. ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/07/saracosmo.jpg)
+
+J'oubliais le plus important : les Wattpadiens stimulent leurs auteurs. Ici deux couvertures montées par Blawete, lecteur de 1 minute.
 
 
 

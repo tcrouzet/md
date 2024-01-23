@@ -1,6 +1,6 @@
 # La propriété (même d’un livre) entraîne la violence
 
-Si rien n’appartenait à personne, il serait difficile de tuer pour voler. Toute violence ne serait pas exclue de la société, loin de là, mais nous aurions sans doute assoupli quelques contours.<span id="more-34630"></span>
+Si rien n’appartenait à personne, il serait difficile de tuer pour voler. Toute violence ne serait pas exclue de la société, loin de là, mais nous aurions sans doute assoupli quelques contours.
 
 Malheureusement, le droit de propriété est jusqu’à un certain point inaliénable. Je suis propriétaire de mes pensées, de mes rêves, de mes amours… La totale gratuité comme le total accès à toute chose sont illusoires (et pas souhaitables, d'autant que nous nous définissons aussi par nos propriétés).
 

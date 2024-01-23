@@ -1,6 +1,6 @@
 # Dialogue entre deux anarchistes
 
-Je n’aurais jamais osé un tel titre. Il est de [Lilas mon éditrice](https://www.facebook.com/lilas.seewald) chez Fayard suite à [mon entretien avec Dominique Bouchard pour Unwalkers](http://www.unwalkers.com/tir-croise-entre-unwalkers-et-lecrivain-thierry-crouzet/).<span id="more-32525"></span>
+Je n’aurais jamais osé un tel titre. Il est de [Lilas mon éditrice](https://www.facebook.com/lilas.seewald) chez Fayard suite à [mon entretien avec Dominique Bouchard pour Unwalkers](http://www.unwalkers.com/tir-croise-entre-unwalkers-et-lecrivain-thierry-crouzet/).
 
 Avant de reproduire notre dialogue, j’en profite pour envoyer une pique à un autre chroniqueur, [Laurent Greusard](http://www.k-libre.fr/klibre-ve/index.php?page=livre&id=2824), qui a écrit sur [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) :
 
@@ -47,8 +47,6 @@ Tu vois la dictature chez les Freemen ? Elle est possible bien sûr. Le roman n
 La dictature l’a emporté jusqu’à aujourd’hui parce que les hommes et les femmes libres étaient dans l’incapacité de se rencontrer, de se parler, de s’organiser. Cette possibilité technologique change tout. Plus besoin de structures hiérarchiques pour mener à bien des projets de grande envergure. En s’interconnectant, on peut enfin construire en se passant de petit-chefs en tout genre. On peut accroître la complexité du monde, le rendre incontrôlable, et nous éloigner de la dictature.
 
 Et tu as raison, nous dépassons alors la démocratie. Elle a toujours été une dictature déguisée puisqu’elle se résume à nommer des représentants qui gouvernent à la place du peuple. Si on fait l’économie des hiérarchies, on supprime la nécessité des représentants, donc on dépasse la démocratie, mais ce n’est possible qu’avec le réseau. Sans réseau, les communautés Freemen sont trop étriquées, trop simples et elles sombrent inévitablement dans la dictature.
-
-**Une société non hiérarchique durable n’est possible qu’avec un réseau global qui lui évite de s’effondrer sur elle-même.**
 
 *— D’accord et pas d’accord, car seuls trois ou quatre Freemen veulent le bien si on peut dire. Les autres sont dans un chalet en Suisse reproduisant le même système, c’est ce qui est intéressant dans ton livre, c’est qu’il est humain, tu redonnes de l’humanité aux hommes, avec leurs défauts et qualités.*
 

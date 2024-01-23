@@ -1,6 +1,6 @@
 # L’abondance a conduit à la saturation
 
-Mon époque ne me satisfaisait plus ou c’est ma façon de vivre qui ne me satisfait plus, ce qui revient un peu au même, l’époque me poussant à vivre d’une certaine façon et ma façon de vivre m’incitant à juger mon époque d’une façon semblable.<span id="more-45395"></span>
+Mon époque ne me satisfaisait plus ou c’est ma façon de vivre qui ne me satisfait plus, ce qui revient un peu au même, l’époque me poussant à vivre d’une certaine façon et ma façon de vivre m’incitant à juger mon époque d’une façon semblable.
 
 Nous avons imaginé un beau modèle théorique : l’abondance devait nous rendre plus heureux. Dit comme ça, j’admets que c’est incompréhensible, surtout pour les adeptes du marxisme. Au début, on a la société de consommation, construite sur une abondance factice, car l’argent, fer de la guerre de cette société, n’a jamais été abondant. Nous avons à notre disposition un amoncellement de biens que pour la plupart nous ne pourrons jamais nous payer. La société capitaliste et de consommation est donc une société de la rareté : rareté des temps libres, rareté de la monnaie, rareté de la représentation politique, rareté du travail pour ceux qui veulent travailler, rareté de la notoriété… tout est rare et tout s’achète dans ce monde.
 

@@ -1,6 +1,6 @@
 # Les époques de transition
 
-L’année dernière, j’ai écrit l’équivalent de mile pages sur ce blog ([je les relirai et éditerai une version papier sans doute l’été prochain](http://blog.tcrouzet.com/version-papier-2006/)). Je ne sais pas si je serai aussi prolixe cette année. Ma priorité est la rédaction de la version définitive d’*Ératosthène* qui devrait être publiée début 2009.<span id="more-709"></span>
+L’année dernière, j’ai écrit l’équivalent de mile pages sur ce blog ([je les relirai et éditerai une version papier sans doute l’été prochain](http://blog.tcrouzet.com/version-papier-2006/)). Je ne sais pas si je serai aussi prolixe cette année. Ma priorité est la rédaction de la version définitive d’*Ératosthène* qui devrait être publiée début 2009.
 
 Le roman reprendra les idées développées dans [la version actuellement en ligne](http://blog.tcrouzet.com/eratosthene/) mais je repars du dernier chapitre actuel, moment où Ératosthène meurt et analyse sa vie, son époque et devient immortel… gagnant peu à peu la vision de sa postérité. Ce changement de perspective change mon projet littéraire mais non mon projet intellectuel que je résumais déjà en début de la version actuelle.
 

@@ -11,7 +11,7 @@ En attendant, voici quelques conseils qui ont fait leurs preuves pour booster le
 1. Écrire des billets en anglais, au moins de temps en temps, ce que fait Loïc par exemple. Vous augmentez ainsi la probabilité que des gens débarquent chez vous via les moteurs de recherche.
 
 2. Écrire des billets en rapport direct avec l’actualité et en veillant à ce que les mots les plus souvent tapés dans les moteurs soient présents dans le titre des billets. Page2007 a ainsi reçu durant la présidentielle jusqu’à 20 000 visiteurs par jour.
-    
+
     Un blog comme le mien, plutôt pointu, dédié à la réflexion, a peu de chance de récolter des lecteurs, sinon en se faisant peu à peu une réputation. Si je voulais augmenter mon trafic, il me faudrait parler en ce moment du nouveau gouvernement ou des suicides des jeunes filles corses.
 
 3. Écrire beaucoup de billets, plusieurs par jour, voire une dizaine comme le fait souvent Page2007. Plus vous avez de billets, plus vous avez de nouveaux billets, plus vous avez de pages référencées dans les moteurs, donc plus vous avez de chance d’être trouvé. Mieux vaut écrire beaucoup de brèves avec les bons mots clés que peu avec des textes longs et bien pensés.

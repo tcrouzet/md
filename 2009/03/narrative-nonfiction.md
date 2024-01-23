@@ -1,6 +1,6 @@
 # Narrative nonfiction
 
-Quand j’ai commencé à écrire, et puis quand je suis devenu journaliste, j’ai beaucoup lu de livres sur l’art d’écrire. J’ai un peu perdu cette habitude en même temps que mon style se stabilisait. Par malchance, il ne se range pas dans un genre particulier (poésie, roman, essai…).<span id="more-4954"></span>
+Quand j’ai commencé à écrire, et puis quand je suis devenu journaliste, j’ai beaucoup lu de livres sur l’art d’écrire. J’ai un peu perdu cette habitude en même temps que mon style se stabilisait. Par malchance, il ne se range pas dans un genre particulier (poésie, roman, essai…).
 
 En lisant une [interview de Laurent Laffont](http://www.manuscrit.com/Edito/partenaires/Pages/MarsSavoEdit_LLaffonLat.asp), j’ai découvert que je me trompais. Je ferais de la *narrative nonfiction* ou de la *créative nonfiction*. Ça ne vaut pas pour le [twiller](http://twiller.tcrouzet.com/) mais sans aucun doute pour *Le cinquième pouvoir*, pour [*Itinéraire d’un homme libre*](http://ihl.tcrouzet.com/) et les idées auxquelles je réfléchis.
 

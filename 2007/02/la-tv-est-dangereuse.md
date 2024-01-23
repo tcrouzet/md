@@ -4,15 +4,11 @@ Ou est-ce juste TF1 ? Je n’avais pas regardé une émission politique depuis 
 
 Pour quelqu’un qui comme moi n’a pas la télé, qui ne la regarde pas, ce fut un spectacle terrifiant. J’ai eu l’impression de retourner dans un autre temps et d’embarquer dans un vaisseau fantôme peuplé d’aliens. Le plateau rouge en forme d’hémicycle ressemblait à une soucoupe volante tiré d’un film de Mel Brooks. Le décor n’était même pas kitsch, même pas de mauvais goût, simplement médiocre comme les questions désordonnées des spectateurs.
 
-**Quant à la prestation de Bayrou**
-
 Il a bien tenu 45 minutes mais les questions internationales, bidons comme la plupart des autres, l’ont fait sortir de son affaire. Il a perdu toute tenue, il n’était plus dans le rythme… Je l’ai senti car je me suis parfois trouvé dans cette situation au cours de mes conférences. À la place de Bayrou, je me serais enfui ou j’aurais explosé. Au contraire, il a joué au gentil, essayant de faire plaisir à tout le monde après avoir promis une politique de rigueur. Ça ne collait plus.
 
 J’ai surtout ressenti un grand manque de consistance dans son discours – faut dire que les questions ne l’ont pas aidé. À chacune, il aurait dû expliquer pourquoi un gouvernement d’union nationale était le mieux placé pour s’en sortir.
 
 Bayrou a très vite oublié cette partition. Après avoir dit justement que pour l’éducation ce n’était pas aux ministres de décider, il a oublié cette règle pour les autres domaines et il a aligné des mesures… pour faire plaisir aux uns et aux autres. Nous l’avons alors découvert dans le rôle du potentat qui du sommet de sa pyramide assène ses vérités (j’étais déçu car j'espérais le voir jouer un autre rôle que celui de Sarkozy et de Ségolène).
-
-**Mais pourquoi ce qui ne marcherait pas pour l’éducation marcherait pour autre chose ?**
 
 Bayrou aurait dû n’avoir de cesse que de répéter une seule rengaine : quand les Français ne sont pas dos à dos, ils trouvent des solutions au préalable inimaginables. Ils peuvent envisager des médications que personne n’avait jusque-là osées.
 

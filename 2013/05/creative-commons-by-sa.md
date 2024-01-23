@@ -1,6 +1,6 @@
 # Creative Commons BY-SA
 
-Et si bloguer pour ne rien dire était le véritable art du blog ? Dès que je travaille à un texte un tant soit peu structuré, en ce moment [*L’homme qui lave les mains*](http://blog.tcrouzet.com/tag/lhomme-qui-lave-les-mains/), je n’ai plus de place pour écrire des billets, sinon celui-là, pour raconter ma vie.<span id="more-32895"></span>
+Et si bloguer pour ne rien dire était le véritable art du blog ? Dès que je travaille à un texte un tant soit peu structuré, en ce moment [*L’homme qui lave les mains*](http://blog.tcrouzet.com/tag/lhomme-qui-lave-les-mains/), je n’ai plus de place pour écrire des billets, sinon celui-là, pour raconter ma vie.
 
 Rien d’extravagant. J’écris l’histoire de Didier Pittet qui, en donnant le gel antibactérien à l’humanité, sauve des milliers de vies tous les jours. En bouclant le premier chapitre, celui qui doit donner envie de découvrir la suite, j’arrive à une conclusion imparable : j'offrirai mon livre en [Creative Commons BY-SA](http://creativecommons.fr/), autorisant qui le veut à l’éditer, même à le vendre. Pas le choix. C'est une nécessité morale, mais avec pas mal de questions à la clé.
 

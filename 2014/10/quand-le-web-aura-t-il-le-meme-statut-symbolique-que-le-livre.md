@@ -1,8 +1,6 @@
 # Quand le web aura-t-il le même statut symbolique que le livre ?
 
-Ça commence par cette interrogation de [Daniel Bourrion](http://www.face-ecran.fr/) postée sur Twitter. Je réponds hâtivement, Daniel enchaîne, nous basculons sur un doc pour prendre nos aises et tenter de clarifier ce qui ne peut qu’être trouble. Notre échange a reposé un mois, le voici.<span id="more-37433"></span>
-
-**Daniel**
+Ça commence par cette interrogation de [Daniel Bourrion](http://www.face-ecran.fr/) postée sur Twitter. Je réponds hâtivement, Daniel enchaîne, nous basculons sur un doc pour prendre nos aises et tenter de clarifier ce qui ne peut qu’être trouble. Notre échange a reposé un mois, le voici.
 
 Mon problème est toujours le même dans le fond : que le web obtienne même statut symbolique que le livre…
 
@@ -13,8 +11,6 @@ Mais pourquoi la sédimentation web (tu indiques dans le texte avec un signal qu
 Pourquoi est-ce que nous devons “sortir” du web pour être pris au sérieux ?
 
 La fluidité du web est-elle trop « fluide » pour nous comme pour les lecteurs ? Aurions-nous besoin d’une clôture qui enferme/fixe le fluide temporairement ?
-
-**Thierry**
 
 On n’est pas pris au sérieux sur le Web parce qu’on n’a pas derrière nous de grands écrivains pure-players du Web, ça viendra après notre mort. Le monde littéraire vit avec le papier depuis des siècles, il faudra un peu de temps pour que les choses changent. On ne peut pas en vouloir aux gens d’être conservateurs (un peu tout de même), parce que si le monde n’était peuplé que d’aventuriers, ça serait un sacré foutoir.
 
@@ -33,8 +29,6 @@ La plupart des auteurs du papier travaillent dans le temps long. Nous pouvons fa
 On peut imaginer publier au jour le jour des fragments sur un site privé, sans cesse les réorganiser, les reprendre, en ajouter, en supprimer, avant de tout libérer. Je crois que [François Bon](http://www.tierslivre.net/) fait ça dans sa cuisine. C’est aussi une écriture Web et elle peut être aussi fermée qu’un livre, sachant qu’on peut toujours ajouter quelque chose, même après publication, je l’ai fait avec [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).
 
 Je vois encore un mérite au papier. Comme on ne peut pas y revenir, je suis beaucoup plus attentif, plus rigoureux, je bosse plus pour tout dire. Il n’en sera ainsi avec le Web qu’au moment justement où il aura le même statut symbolique que le papier.
-
-**Daniel**
 
 Bon, après notre mort... C'est noté dans mon agenda.
 
@@ -62,8 +56,6 @@ Qu'en tant que lecteur, nous ne parvenons à voir une oeuvre que quand elle est 
 
 Tu vois, ça vient de me frapper, en écrivant ça « le web nous renvoie aussi comme auteurs à une solitude particulière » : avec le web, nous avons gagné le temps réel et les retours éventuels directs avec les lecteurs (quand ils existent), mais nous avons peut-être perdu un accompagnement éditorial.
 
-**Thierry**
-
 Quand j’écris, je ne réfléchis pas, il faut que je sois surpris par ce qui arrive, et ça doit être vrai dans les deux modes (ce qui ne m'empêche pas de beaucoup penser à ce que je vais écrire avant le l'écrire).
 
 Quand j’envoie tout de suite sur le blog, je peux ajouter d’autres billets, c’est linéaire dans le temps si tu veux. Quand je garde pour moi un machin plus grand, des liens plus complexes apparaissent, c’est vraiment autre chose. Un peu comme travailler à une cathédrale au lieu de juste construire une série de cabanes, sachant qu’une cabane peut être aussi géniale qu’une cathédrale. La carte est plus complexe quand je réserve et que j’assemble. Paradoxalement, c’est moins linéaire hors du Web.
@@ -79,8 +71,6 @@ Je me suis mis à écrire *Ératosthène* parce que, en 2000, François Bourin m
 D’un autre côté, nous sommes quelques-uns à comprendre qu’il existe des œuvres Web en gestation. Ce sentiment finira par se généraliser. Peut-être le jour où nous réussirons à écrire des histoires via le Send, et pas seulement de la littérature qui se regarde le nombril. Je pense beaucoup à ça en ce moment.
 
 Est-ce que je dois m’attaquer à un nouveau texte long hors du Web ou un texte long Web, mais alors comment concilier le repenti nécessaire et la publication immédiate ? Il faut trouver une forme, sans doute en s’inspirant des séries.
-
-**Daniel**
 
 Ce truc de linéarité paradoxale du blog/site que tu soulignes, ça fait tilt, je te rejoins, il y a dans ce que tu nommes le Send une flèche du temps, effectivement. Et effectivement, il est plus difficile de replier ce temps comme on peut le faire sur un « manuscrit » qui n’est pas en ligne, pour reprendre la matière. On dirait qu’il manque une boucle de reprise, en ligne.
 
@@ -102,8 +92,6 @@ Bon, tout ça supposerait évidemment un modèle économique (gros truc dont il 
 
 Ma proposition « révolutionnaire » ne tient pas la route. On n’est pas sorti de l’auberge.
 
-**Thierry**
-
 Oui, c’est vrai cette histoire de distance. Je me livre plus facilement quand je ne publie pas tout de suite. Mon blog est beaucoup moins intime que mes textes hors ligne (et que ne l’étaient mes carnets avant blog). Quant à la tentation du Send, elle est presque tyrannique, je veux ma petite récompense tout de suite, sachant que quand tu diffères, elle a de fortes chances de ne pas être plus grande, alors pourquoi attendre ?
 
 J’ai patienté des années pour *Ératosthène* et j’ai moins de retours qu’avec un post écrit en 5 minutes. C’est une faiblesse de notre époque, et nous y répondons en tant qu’auteurs en pratiquant le Send, mais ce n’est pas forcément une bonne chose dans l’idée d’une œuvre. D’autant que comme tu le dis, il est difficile de revenir sur un post publié, il s’est fermé parce qu’il a été lu par d’autres, leur regard ferme, et c’est un peu pareil dans l’ancien monde du papier. C’est le passage à l’autre qui ferme l’œuvre, peut-être.
@@ -115,8 +103,6 @@ Le Send nous place sur un fil tendu. C’était pareil pour les feuilletonistes 
 Situation un peu délicate. Si les feedbacks essentiels au Send faiblissent, nous revenons dans la position du feuilletoniste. Il nous reste une nouveauté : nous publions quand nous le voulons, ce que nous voulons, avec une liberté totale (engager un éditeur dans le processus risquerait de briser cette liberté). Il faut espérer qu’elle nous pousse sur des territoires vierges. Enchaîner des fragments ou composer des séries ne me paraît pas suffisant. C’est la facilité, la recherche de la récompense immédiate, un comportement de toxicomane de l’écriture.
 
 J’ai toujours répugné à faire payer mon blog, parce que ça diminue mécaniquement la quantité de retours, donc ma « dose » qui m’est plus indispensable qu’un quelconque revenu.
-
-**Daniel**
 
 « Je me livre plus facilement quand je ne publie pas tout de suite. Mon blog est beaucoup moins intime que mes textes hors ligne » : grosse différence entre nous alors parce que pour moi, il n’y a pas de différence « d’intimité » entre le online et le offline, c’est exactement le même niveau. La distance dont je parlais, c’est celle que j’ai avec mon propre texte comme texte étranger à moi comme auteur, ce qui te permet de le relire et de le travailler (tu sais, ce phénomène étrange, tu as écrit ce texte, tu sais que tu l’as écrit, mais il semble venir de quelqu’un d’autre donc tu peux le travailler sans avoir l’impression de te travailler toi-même).
 
@@ -130,8 +116,6 @@ La question du modèle financier, elle ne m’interpelle pas tant par rapport à
 
 J’achoppe sur « Enchaîner des fragments ou composer des séries ne me paraît pas suffisant. C’est la facilité, la recherche de la récompense immédiate, un comportement de toxicomane de l’écriture. » quand même. Je comprends ta position (sauf pour le feuilleton), par moments même, je la partage, mais je n’ai jamais constaté que sortir du « flux » du Send, dans mon cas, rende mes textes vraiment différents ou meilleurs. Soit ils sont juste très moyens, voire mauvais, dès le départ, ce qui est tout à fait possible ; soit nous fonctionnons différemment, ce qui est également très possible ; soit enfin, l’addiction au Send me fait ne pas voir la différence entre offline et online : l’addiction crée les brouillages suffisants pour que je ne la remette pas en cause… Intéressante hypothèse. Je ne peux la vérifier que d’une seule manière : faire un texte qui ne soit pas du tout dans le Send, pour voir. Je me le note dans un coin…
 
-**Thierry**
-
 Si je suis moins intimiste en ligne, c’est à cause de la perception de la distance dont tu parles, aussi parce que je sais que le lecteur est immédiatement là, comme s’il me voyait en train de penser, et je n’ai pas envie de lui donner certaines pensées tout de suite, je veux voir si elles se maintiennent en moi, alors, quand je serai habitué à elles, je les publierai, et même pas sûr. Je ne publie de manière générale que des textes déjà éloignés de moi. Et parce que certains textes restent longtemps très proches, je les garde pour moi. Pour cette seule raison, je ne peux me satisfaire du seul Send.
 
 Tu as une vision de l’éditeur qui n’a véritablement de sens que dans un système marchand, quand l’éditeur croit qu’il peut augmenter la « valeur » d’une œuvre. OK, il existe encore des éditeurs moins intéressés, mais ils sont en voie de disparition, parce qu’un travail aboutit ne fait pas vendre davantage, et peut-être moins. Suffit de voir les livres autopubliés non édités qui cartonnent. Les travailler n’aurait servi à rien. Et sans doute qu’il en va de même pour les grands textes. L’auteur a juste besoin de gens de confiance. Il peut s’agir d’un éditeur, d’un compagnon, d’un lecteur… En revanche, ce dont nous avons tous besoin, c’est de correcteurs, de techniciens, parce que nous sommes trop dans nos textes pour les débuguer (mais cette étape peut survenir plus tard, en cas de passage à la postérité).
@@ -142,16 +126,12 @@ Publier immédiatement me fait plaisir, je ressens une jouissance dans tout mon 
 
 J’ai maintenant envie de mettre du temps long dans l’immédiat. C’est une sorte de rêve, pour les mois, peut-être les années qui arrivent.
 
-**Daniel**
-
 Tu sais, je n’ai jamais cette impression que le lecteur puisse me voir en train de penser. Pour moi, le texte est aussi d’abord un voile de brume qui cache en fait le texte et ce que je pense. Mais par contre, moi, je sais ce qu’il y a dedans/derrière, et la distance me permet d’avancer en regardant ce que j’ai pondu et que je suis seul à pouvoir lire. Nous sommes très différents là-dessus, on dirait.
 
 Je suis vraiment plus sceptique que toi sur la possibilité de se passer d’un “éditeur” : un regard pro, exigeant, je pense que ça ne peut pas être celui d’un compagnon ou d’un “simple” lecteur, je pense que c’est vraiment un “métier”, une position par rapport au texte. Certes, un lecteur peut (logique 2.0) t’apporter plein de choses, mais je pense qu’un éditeur peut t’apporter plus. Donc ça « Suffit de voir les livres autopubliés non édités qui cartonnent. Les travailler n’aurait servi à rien. Et sans doute qu’il en va de même pour les grands textes. » je ne suis pas d’accord du tout. Je pense qu’un auteur peut aller tout seul très loin, mais je pense qu’avec un bon éditeur, qui va lui botter le cul, il peut aller encore beaucoup beaucoup plus loin. Mais on reboucle sur les problématiques de modèle économique qui certainement est l’un des noeuds du problème.
 
 Donc en filigrane, je crois que je crois moins que toi à cet idéal 2.0 (je le verbalise et donc je m’en aperçois...) : le web change certes les logiques, et fait pivoter les logiques verticales vers les horizontales, mais en fait, il me semble, pas tant que cela dans le domaine dont l’on parle ici, au sens où j’ai l’impression que la sagesse des foules, sur l’écriture, ne nous mène pas très loin en fait. (la vache, je ne pensais pas écrire ça un jour).
 
-**Thierry**
- 
 Je suis très sceptique aussi, parce qu’on a rêvé de beaucoup de 2.0 et on récupère le modèle le plus centralisé de l’histoire, avec les superpuissances du Net. Cet échec va bien au-delà de la littérature, c’est un refus de transiter vers une autre société. J’espère que ce refus est provisoire parce que sans transition je ne vois pas ce qui nous attend de bon.
 
 Je crois que la nature 2.0 ou non de l’Editor (par opposition au Publisher) est accessoire, parce c’est une tâche technique, mais simple, qui n’a pas besoin de transversalité et de beaucoup d’intelligence collective.

@@ -1,6 +1,6 @@
 # Mini étude sur le marché des ebooks et le partage non-marchand
 
-Un mois après la sortie du [*Geste qui sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/), j’ai récolté quelques chiffres, même si peu significatifs au vu des faibles volumes de diffusion, qui démontrent une grande disparité entre les marchés français et anglo-saxon des ebooks.<span id="more-36107"></span>
+Un mois après la sortie du [*Geste qui sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/), j’ai récolté quelques chiffres, même si peu significatifs au vu des faibles volumes de diffusion, qui démontrent une grande disparité entre les marchés français et anglo-saxon des ebooks.
 
 Pour mémoire, mon livre est en même temps disponible en librairies physiques et numériques, et [aussi en téléchargement gratuit](http://blog.tcrouzet.com/le-geste-qui-sauve/downloads/). Nous avons vendu 26 000 exemplaires avant la sortie, achetés par des sponsors qui les ont depuis distribués lors de congrès médicaux. D’autres commandes arrivent. En librairie, uniquement 500 exemplaires ont été mis en place début mai. Personne ne croyait à la réussite commerciale du livre, surtout pas les commerciaux. Nous avons tout vendu en moins d’un mois. Le réassort doit être en cours.
 
@@ -15,6 +15,8 @@ L’exception française peut s’avérer très dangereuse pour les créatifs fr
 Autre signal d’alarme, j’ai vendu cinq fois plus d’ebooks en anglais qu’en français, alors que je n’ai effectué aucune promo en anglais, que je suis totalement inconnu en Angleterre et aux US, que personne n’a parlé du livre là-bas. C’est la simple démonstration que le marché français des ebooks n’existe pas, parce que les opérateurs comme Hachette le bloquent pour protéger leur business de distribution physique.
 
 ![Répartitions des téléchargements entre les trois formats offerts.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/part.png)
+
+Répartitions des téléchargements entre les trois formats offerts.
 
 Un dernier chiffre. Les epub et mobi représentent moins de 25 % des téléchargements. Ce faible taux prouve que les formats de livre électronique n’ont pas encore supplanté le PDF et que les applications de lecture ne se sont pas imposées dans les mentalités, cela autant en France qu’ailleurs.
 

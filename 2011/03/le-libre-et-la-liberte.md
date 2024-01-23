@@ -1,6 +1,6 @@
 # Le libre et la liberté
 
-En préparation de ma conférence donnée à la [Maison du livre de l'image et du son François Mitterrand de Villeurbanne](http://www.ubuntu-lyon.org/?page=News&news=317), j’avais préparé un texte qui m'a servi de fil rouge.<span id="more-21368"></span>
+En préparation de ma conférence donnée à la [Maison du livre de l'image et du son François Mitterrand de Villeurbanne](http://www.ubuntu-lyon.org/?page=News&news=317), j’avais préparé un texte qui m'a servi de fil rouge.
 
 ### Je ne suis pas un expert
 

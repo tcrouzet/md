@@ -1,6 +1,6 @@
 # Évolution exponentielle ?
 
-Le futurologue [Ray Kurzweil](http://www.kurzweilai.net/) a essayé de montrer que nous vivions une époque de progrès technologique exponentiel : les 20 premières années du XXI<sup>e</sup> siècle devraient nous apporter autant d'innovations que tout le XX<sup>e</sup> siècle. J'aime plutôt cette idée mais il me semble que le software n'évolue pas si vite que ça. C'est une intuition, j'ai un peu réfléchi à cette question... et j'ai fini par me dire que mon intuition était fausse et que Kurzweil avait sans doure raison.<span id="more-20"></span>
+Le futurologue [Ray Kurzweil](http://www.kurzweilai.net/) a essayé de montrer que nous vivions une époque de progrès technologique exponentiel : les 20 premières années du XXI<sup>e</sup> siècle devraient nous apporter autant d'innovations que tout le XX<sup>e</sup> siècle. J'aime plutôt cette idée mais il me semble que le software n'évolue pas si vite que ça. C'est une intuition, j'ai un peu réfléchi à cette question... et j'ai fini par me dire que mon intuition était fausse et que Kurzweil avait sans doure raison.
 
 La grande pyramide de Khéops a été construite en 20 ans par environ 20 000 ouvriers. Microsoft aura construit Windows Vista en 6 ans, employant une armée presque aussi grande de développeurs, dotés de toutes les technologies de pointe, aidés par des centaines de sous-traitants. Microsoft s'est donc engagé dans une œuvre titanesque, une œuvre digne des pharaons.
 

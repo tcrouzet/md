@@ -1,6 +1,6 @@
 # Livres lus, ingérés, oubliés
 
-Combien de livres lisons-nous, qui nous transforment et dont nous oublions tout, jusqu’au titre, jusqu’à l’auteur ? Et puis ils nous reviennent par hasard.<span id="more-36705"></span>
+Combien de livres lisons-nous, qui nous transforment et dont nous oublions tout, jusqu’au titre, jusqu’à l’auteur ? Et puis ils nous reviennent par hasard.
 
 Récit banal de nos vies numériques. Depuis quelques jours, j’ai [un onglet ouvert avec un article sur l’écriture](http://www.brainpickings.org/index.php/2014/08/11/david-foster-wallace-quack-this-way/), avec citations de David Foster Wallace, extraites d’un long interview accordé à Bryan A. Garner.
 

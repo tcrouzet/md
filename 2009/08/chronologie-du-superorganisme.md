@@ -1,6 +1,6 @@
 # Chronologie du superorganisme
 
-[Comme je l'avais fait pour le cinquième pouvoir](http://blog.tcrouzet.com/2006/12/24/chronologie-du-cinquieme-pouvoir/), je vais tenter de lister les différentes étapes de l’idée de superorganisme. Au moins quatre concepts se rencontrent. Tantôt Gaïa (1 - la planète vivante), tantôt le superorganisme (2 - l’humanité vivante ou organicisme). Le cerveau global (3), entité émergente, serait le moteur intelligent de l’une ou l’autre de ces deux entités, éventuellement consciente. La symbiose (4) entre les hommes et les machines, notamment le Net, [et plus encore le Flux](http://blog.tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/), rendrait possible ce cerveau, sinon le superorganisme lui-même. Les machines seules seraient, suivant certaines hypothèses, capables de devenir un cerveau global.<span id="more-8466"></span>
+[Comme je l'avais fait pour le cinquième pouvoir](http://blog.tcrouzet.com/2006/12/24/chronologie-du-cinquieme-pouvoir/), je vais tenter de lister les différentes étapes de l’idée de superorganisme. Au moins quatre concepts se rencontrent. Tantôt Gaïa (1 - la planète vivante), tantôt le superorganisme (2 - l’humanité vivante ou organicisme). Le cerveau global (3), entité émergente, serait le moteur intelligent de l’une ou l’autre de ces deux entités, éventuellement consciente. La symbiose (4) entre les hommes et les machines, notamment le Net, [et plus encore le Flux](http://blog.tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/), rendrait possible ce cerveau, sinon le superorganisme lui-même. Les machines seules seraient, suivant certaines hypothèses, capables de devenir un cerveau global.
 
 1. **IV<sup>e</sup> siècle avant Jésus-Christ.** Aristote dans sa *Politique* imagine l’humanité comme un vaste organisme parmi les autres organismes. L’humanité n’y apparaît pas séparée de son environnement. Elle ne se reconnait pas en tant que telle. Ce n’est pas un hasard si ces considérations se retrouvent dans un traité politique car toute réflexion sur l’ensemble de l’humanité est éminemment politique et devrait être prise au sérieux par tous les hommes de pouvoir.
 
@@ -62,7 +62,7 @@
 
 30. **2007.** [Francis Heylighen](http://en.wikipedia.org/wiki/Francis_Heylighen) publie *[The Global Superorganism: an evolutionary-cybernetic model of the emerging network society](http://pespmc1.vub.ac.be/Papers/AcceleratingEvolution.pdf)* (papier qui m'a convaincu de m'intéresser au sujet).
 
-31. **2008.** Dans *[The Technium](<http://www.kk.org/thetechnium/The thetechnium>)*, blog/livre débuté en 2004, Kevin Kelly publie *[Evidence of a Global SuperOrganism](http://www.kk.org/thetechnium/archives/2008/10/evidence_of_a_g.php)*. Il suppose que The One Machine, le nuage de tous les ordinateurs de la planète, est lui-même un superorganisme.
+31. **2008.** Dans *[The Technium]()*, blog/livre débuté en 2004, Kevin Kelly publie *[Evidence of a Global SuperOrganism](http://www.kk.org/thetechnium/archives/2008/10/evidence_of_a_g.php)*. Il suppose que The One Machine, le nuage de tous les ordinateurs de la planète, est lui-même un superorganisme.
 
 32. **2009.** Bert Holldobler et Edward O. Wilson publient *The Superorganism: The Beauty, Elegance, and Strangeness of Insect Societies*.
 

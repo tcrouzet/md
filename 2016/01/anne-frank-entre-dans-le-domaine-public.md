@@ -6,6 +6,8 @@
 
 ![Impossible de trouver plus de quelques pages scanées sur le Net.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/12/journal.jpg)
 
+Impossible de trouver plus de quelques pages scanées sur le Net.
+
 [Avec beaucoup d'autres, je diffuse aujourd’hui sous forme de texte numérique la version néerlandaise originale](https://app.box.com/s/znchz3d5lp8elfbv9azynugs6cqtngib), faute de disposer d’un scan du manuscrit. Notre prochain travail sera de traduire le texte en français.
 
 Je vous invite à diffuser le plus largement possible ce texte pour déborder les ayants droit censeurs, pour les empêcher de nous intimider par leurs menaces, [telle l’injonction envoyée à Olivier Ertzscheid](http://affordance.typepad.com/mon_weblog/2015/12/reponse-avocat-fonds-anne-frank.html).

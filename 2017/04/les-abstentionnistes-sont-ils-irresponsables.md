@@ -1,6 +1,6 @@
 # Les abstentionnistes sont-ils irresponsables ?
 
-À la veille d’une élection opposant un libéral à une populiste d’extrême droite, les penseurs politiquement corrects nous rabâchent sans cesse le même argument que voici formulé par [Serge Joncour](https://twitter.com/sergeJONCOUR/status/856641650730381312) : « Ne pas aller voter dans de telles circonstances c'est laisser aux autres la responsabilité. C'est donc faire le choix d'être irresponsable. » Voilà qui pourrait être un bon sujet de dissertation pour le bac.<span id="more-45264"></span>
+À la veille d’une élection opposant un libéral à une populiste d’extrême droite, les penseurs politiquement corrects nous rabâchent sans cesse le même argument que voici formulé par [Serge Joncour](https://twitter.com/sergeJONCOUR/status/856641650730381312) : « Ne pas aller voter dans de telles circonstances c'est laisser aux autres la responsabilité. C'est donc faire le choix d'être irresponsable. » Voilà qui pourrait être un bon sujet de dissertation pour le bac.
 
 En première analyse, on peut être d’accord avec cet argument. Il faut faire barrage à la peste brune, il faut par tous les moyens l’empêcher d’arriver au pouvoir. Si je ne vote pas, si elle arrive au pouvoir, si elle piétine nos valeurs, je serais en partie responsable de son succès.
 

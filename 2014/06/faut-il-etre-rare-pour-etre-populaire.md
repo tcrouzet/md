@@ -1,6 +1,6 @@
 # Faut-il être rare pour être populaire ?
 
-J’ai souvent constaté que quand je blogue peu, je suis plus lu. En déduire que se faire rare est bon pour la popularité est peut-être prématuré. Les sportifs ne sont pas plus rares que les people PAF, et vous ne semblez pas moins les aimer.<span id="more-36139"></span>
+J’ai souvent constaté que quand je blogue peu, je suis plus lu. En déduire que se faire rare est bon pour la popularité est peut-être prématuré. Les sportifs ne sont pas plus rares que les people PAF, et vous ne semblez pas moins les aimer.
 
 Il faut donc envisager le problème autrement. La rareté est peut-être le seul chemin pour atteindre la popularité, qui une fois atteinte autorise tous les débordements, [avec ce risque inexorable qu’après le temps de la nouveauté survienne inévitablement celui de la lassitude](http://www.internetactu.net/2014/06/18/linexorable-biais-de-la-nouveaute/).
 
@@ -19,6 +19,8 @@ J’endurcis mon corps pour ne pas perdre le rythme du send. Je suis un athlète
 *PS : Billet inspiré par [un billet de Neil Jomunsi](http://page42.org/labondance-est-elle-une-destruction/).*
 
 ![The sofa par Daniele Zanni.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/sofa.jpg)
+
+The sofa par Daniele Zanni.
 
 
 

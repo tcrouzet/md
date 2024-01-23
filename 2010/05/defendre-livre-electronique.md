@@ -1,6 +1,6 @@
 # Pourquoi je défends le livre électronique
 
-Je ne suis pas technophile. Je me fiche du dernier gadget d’Apple ou de Sony. Je ne m’intéresse qu’aux changements qui pourraient survenir dans ma vie et dans la société. Mon intérêt pour le livre électronique, comme pour Internet, est donc politique. Si je me préoccupe de l’avenir du livre, c’est parce que [l’économie du livre me déplait](http://blog.tcrouzet.com/2010/04/14/ce-que-les-auteurs-gagneront/), tant que du côté créatif que du côté financier.<span id="more-16704"></span>
+Je ne suis pas technophile. Je me fiche du dernier gadget d’Apple ou de Sony. Je ne m’intéresse qu’aux changements qui pourraient survenir dans ma vie et dans la société. Mon intérêt pour le livre électronique, comme pour Internet, est donc politique. Si je me préoccupe de l’avenir du livre, c’est parce que [l’économie du livre me déplait](http://blog.tcrouzet.com/2010/04/14/ce-que-les-auteurs-gagneront/), tant que du côté créatif que du côté financier.
 
 Si nous n’étions pas dans une impasse, je me satisferais des livres papier qui encombrent par millier ma maison et que je continue à lire avec plaisir. Mais mon plaisir présent ne suffit pas à me faire oublier tout ce qui cloche dans un système vérolé par la distribution et figé par des éditeurs qui se prennent pour des profs des écoles, et administrent leurs bons points aux auteurs, sans réussir à leur faire gagner de l’argent en général.
 

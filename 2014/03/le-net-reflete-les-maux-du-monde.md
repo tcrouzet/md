@@ -1,6 +1,6 @@
 # Le Net reflète les maux du monde
 
-J’ai quitté hier les Alpes lumineuses pour la vallée, vitesse réduite, pic de pollution, j’ai plus tard contourné une Grenoble nauséeuse et malade, tout en écoutant à la radio les nouvelles d’un monde en train de devenir fou.<span id="more-34731"></span>
+J’ai quitté hier les Alpes lumineuses pour la vallée, vitesse réduite, pic de pollution, j’ai plus tard contourné une Grenoble nauséeuse et malade, tout en écoutant à la radio les nouvelles d’un monde en train de devenir fou.
 
 Depuis des années, [je me plains d’un internet qui se centralise](http://blog.tcrouzet.com/2014/03/07/le-net-rend-plus-con-que-la-tv/) et des internautes qui n’y trouvent rien à redire. En parallèle, les gouvernements épris du désir de contrôle et de puissance suivent une trajectoire semblable. C’est une tendance lourde de notre temps. Nous allons vers plus de liberté et c'est inacceptable pour quelques-uns. Les acteurs de la dernière Grande Guerre finissent de s’éteindre et avec eux le souvenir réel de l’horreur. Alors tout pourrait recommencer.
 
@@ -29,6 +29,8 @@ J’ai cette impression que bientôt on se dira « On le savait et on n’a rie
 « Crouzet est fou. Débile. Il ne comprend rien à la politique. » Si vous saviez combien j’aimerais que vous ayez raison. Parce que ma vie actuelle est plutôt agréable. La transition me fiche la frousse mais moins que le conservatisme, soit ce que nous avons déjà connu, autrement dit, le pire.
 
 ![Mont-Blanc vu du sommet de Tovière, à Tignes](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/alpes.jpg)
+
+Mont-Blanc vu du sommet de Tovière, à Tignes
 
 
 

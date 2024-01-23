@@ -2,7 +2,7 @@
 
 Je réagis ici au billet de Narvic, [Information en ligne : le règne du canon à dépêches](http://novovision.fr/?Information-en-ligne-le-regne-du), qui résume une étude qui fait un portait catastrophique de l’information sur internet.
 
-Vous savez ce que je pense. L’information est en général catastrophique, une revue des chiens écrasés qui se prétend d’utilité publique et qui n’est qu’un reflet des psychoses sociales. Mon commandement est simple : moins tu t’informes plus tu es heureux, moins tu t’informes plus tu comprends le monde car tu commences à le regarder par toi même.<span id="more-6905"></span>
+Vous savez ce que je pense. L’information est en général catastrophique, une revue des chiens écrasés qui se prétend d’utilité publique et qui n’est qu’un reflet des psychoses sociales. Mon commandement est simple : moins tu t’informes plus tu es heureux, moins tu t’informes plus tu comprends le monde car tu commences à le regarder par toi même.
 
 Appliquant cette logique, je n’ai pas envie d’aller lire cette étude qui, pour tenter de comprendre la longue traîne informationnelle, réduit son échantillon d’analyse. On ne peut juger de la longue traîne qu’en prenant en compte des milliers, des dizaines de milliers de sources. Toutes conclusions tirées sur des dizaines de sources n’ont aucun intérêt, sinon de révéler comme l’étude le montre que ces sources n’ont pas d’intérêt.
 

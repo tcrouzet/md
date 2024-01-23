@@ -1,6 +1,6 @@
 # Manifeste pour un bikepacking ouvert et roots
 
-Quand j’ai publié la carte du [i727](https://tcrouzet.com/i727) pour annoncer notre virée du [1 au 5 avril 2022](https://www.facebook.com/events/410002283844207/), un commentateur a remarqué que son côté dessiné correspondait à l’esprit roots dont je me revendique.<span id="more-63781"></span>
+Quand j’ai publié la carte du [i727](https://tcrouzet.com/i727) pour annoncer notre virée du [1 au 5 avril 2022](https://www.facebook.com/events/410002283844207/), un commentateur a remarqué que son côté dessiné correspondait à l’esprit roots dont je me revendique.
 
 Je n’y avais pas pensé, mais cette remarque m’a donné envie de parler de cet état d’esprit, partagé par exemple par Ernesto Pastor, le créateur des [Montañas Vacías](https://montanasvacias.com/), dont la carte a inspiré celle que j’ai gribouillée en cinq minutes.
 

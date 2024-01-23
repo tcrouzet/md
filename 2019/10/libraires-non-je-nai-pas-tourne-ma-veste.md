@@ -1,6 +1,6 @@
 # Libraires : non, je n’ai pas tourné ma veste
 
-Je savais que mes copains du Web littéraire me reprocheraient [ma lettre d’amour aux libraires](https://tcrouzet.com/2019/09/20/retomber-amoureux-des-librairies-une-necessite/), qu’ils n’entendraient pas [mon argumentation technique](https://tcrouzet.com/2019/10/04/auteurs-pas-de-salut-hors-des-librairies/) et qu’ils m’accuseraient de traîtrise, sans lancer le débat comme c’était le cas à l’époque où le Net se portait bien.<span id="more-52748"></span>
+Je savais que mes copains du Web littéraire me reprocheraient [ma lettre d’amour aux libraires](https://tcrouzet.com/2019/09/20/retomber-amoureux-des-librairies-une-necessite/), qu’ils n’entendraient pas [mon argumentation technique](https://tcrouzet.com/2019/10/04/auteurs-pas-de-salut-hors-des-librairies/) et qu’ils m’accuseraient de traîtrise, sans lancer le débat comme c’était le cas à l’époque où le Net se portait bien.
 
 Ai-je tourné ma veste ? Malheureusement, non, je suis même du genre psychorigide. Quand en 2006, j’ai publié [*Le peuple des connecteurs*](https://tcrouzet.com/le-peuple-des-connecteurs/) (chez Bourin, un éditeur traditionnel), c’était un manifeste pour la décentralisation, pour l’auto-organisation, la mise en réseau de la société, pas seulement avec des câbles, mais avant tout avec des liens de personne à personne.
 

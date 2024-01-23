@@ -1,6 +1,6 @@
 # Tribulation d’un Kindle
 
-Le 31 août, c’est la fin de notre périple américain. À l’aube, nous quittons Seattle, vol Delta Airline 2214, direction Minneapolis. Nous sommes assis près de la queue du Boeing, rangée 44. Nous insistons un peu lourdement avant qu’une jeune femme se lève et nous laisse prendre nos places, Tim près du hublot, moi entre eux pendant qu’Isa et Émile s’installent derrière.<span id="more-33454"></span>
+Le 31 août, c’est la fin de notre périple américain. À l’aube, nous quittons Seattle, vol Delta Airline 2214, direction Minneapolis. Nous sommes assis près de la queue du Boeing, rangée 44. Nous insistons un peu lourdement avant qu’une jeune femme se lève et nous laisse prendre nos places, Tim près du hublot, moi entre eux pendant qu’Isa et Émile s’installent derrière.
 
 Je sors Kindle, iPad, téléphone… Quand l’avion s’ébranle, la jeune femme m’attrape le bras. Je l’entends marmonner. Je tente de la rassurer. Elle me relâche pour me ressaisir aussitôt quand nous arrivons sur la piste. Timothée lui lance des œillades intriguées, puis l’oublie très vite au moment du décollage.
 

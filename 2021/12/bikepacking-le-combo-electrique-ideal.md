@@ -1,6 +1,6 @@
 # Bikepacking : le combo électrique idéal
 
-Je rêve de l’équipement électrique qui serait léger, simple, efficace, durable et pourquoi pas économique. J’ai trouvé la solution dans ma tête, mais je n’ai pas encore tout à fait réussi à la traduire en produits. Je partage ma réflexion.<span id="more-61091"></span>
+Je rêve de l’équipement électrique qui serait léger, simple, efficace, durable et pourquoi pas économique. J’ai trouvé la solution dans ma tête, mais je n’ai pas encore tout à fait réussi à la traduire en produits. Je partage ma réflexion.
 
 ### Polyvalence
 

@@ -1,6 +1,6 @@
 # L’irrésistible verticalisation du monde
 
-Il y a dix ans exactement, j’écrivais [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/). J’étais alors persuadé qu’en nous interconnectant en réseau plutôt qu’en nous organisant en silos nous changerions le monde en un claquement de doigt.<span id="more-40770"></span>
+Il y a dix ans exactement, j’écrivais [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/). J’étais alors persuadé qu’en nous interconnectant en réseau plutôt qu’en nous organisant en silos nous changerions le monde en un claquement de doigt.
 
 J’exposais ce qui ne marchait plus dans notre monde complexe et suggérais que l’auto-organisation était la solution à la crise de la complexité (à l’origine selon moi de nombre de nos maux). J’étais surtout persuadé que grâce à Internet, un outil né décentralisé, nous nous dirigerions vers un monde toujours plus décentralisé, moins inégalitaire, moins en prise de quelques puissants.
 

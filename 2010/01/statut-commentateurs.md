@@ -1,6 +1,6 @@
 # Faut-il un statut pour les commentateurs ?
 
-Notre activité en ligne est un puissant facteur de décentralisation. Quand nous écrivons un peu partout, nous multiplions les sources de textes et nous noyons les sources jadis considérées officielles (journaux, livres, revues scientifiques…).<span id="more-13052"></span>
+Notre activité en ligne est un puissant facteur de décentralisation. Quand nous écrivons un peu partout, nous multiplions les sources de textes et nous noyons les sources jadis considérées officielles (journaux, livres, revues scientifiques…).
 
 Cette décentralisation, ce passage d’un monde discontinu, un monde avec quelques centres, à un monde totalement décentré, nous amène vers une société de flux, une société beaucoup plus continue que par le passé.
 

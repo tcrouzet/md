@@ -1,6 +1,6 @@
 # Le désespoir, c’est l’absence de tout espoir
 
-[Ayerdhal](http://fr.wikipedia.org/wiki/Ayerdhal) termine pratiquement sur ces mots, « le désespoir, c’est l’absence de tout espoir », [*Résurgences*](http://www.amazon.fr/gp/product/284626211X/), sont vingt-et-unième roman. À la suite de Sartre, il affirme la nécessité de l’engagement créatif autant que politique. Et l’on comprend que, lui, l’auteur engagé, a décidé de s’engager plus encore, non seulement dans la dénonciation de ce qui ne tourne pas rond dans nos sociétés, mais aussi dans la construction d’une nouvelle harmonie.<span id="more-16298"></span>
+[Ayerdhal](http://fr.wikipedia.org/wiki/Ayerdhal) termine pratiquement sur ces mots, « le désespoir, c’est l’absence de tout espoir », [*Résurgences*](http://www.amazon.fr/gp/product/284626211X/), sont vingt-et-unième roman. À la suite de Sartre, il affirme la nécessité de l’engagement créatif autant que politique. Et l’on comprend que, lui, l’auteur engagé, a décidé de s’engager plus encore, non seulement dans la dénonciation de ce qui ne tourne pas rond dans nos sociétés, mais aussi dans la construction d’une nouvelle harmonie.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/05/resur.jpg)
 

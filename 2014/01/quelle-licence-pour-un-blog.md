@@ -1,6 +1,6 @@
 # Quelle licence pour un blog ?
 
-Je suis indifférent à la chose juridique. Seule l’éthique m’importe. Je vis en accord avec ce qui me semble juste. Pour moi, l’information n’a jamais été brevetable. J’y plonge avec la même insouciance que dans la mer.<span id="more-34316"></span>
+Je suis indifférent à la chose juridique. Seule l’éthique m’importe. Je vis en accord avec ce qui me semble juste. Pour moi, l’information n’a jamais été brevetable. J’y plonge avec la même insouciance que dans la mer.
 
 Quand vers Antibes, il y a bien longtemps, un gardien a voulu m’interdire de me baigner dans une crique sous prétexte qu’elle était privée, je lui ai rétorqué que la mer ne lui appartenait pas, ni même la fine bande terre qui longe la côte.
 

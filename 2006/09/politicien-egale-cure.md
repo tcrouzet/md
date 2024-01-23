@@ -1,6 +1,6 @@
 # Le cauchemar des politiciens
 
-Les politiciens, élus pour nous protéger de nos propres horreurs, finissent souvent par commettre des horreurs à leur tour. C'est une fatalité.<span id="more-209"></span>
+Les politiciens, élus pour nous protéger de nos propres horreurs, finissent souvent par commettre des horreurs à leur tour. C'est une fatalité.
 
 J’ai souvent expliqué que les structures sociales complexes n’avaient pas nécessairement besoin pour s’épanouir de chef et de commandement central. C’est le fameux exemple des oiseaux avec lequel s’ouvre *[Le peuple des connecteurs](http://www.tcrouzet.com/connecteurs/)*.
 

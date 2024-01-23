@@ -1,6 +1,6 @@
 # Le Modem again and again
 
-Hier à Paris, le matin, l’après-midi et le soir à la république des blogs, j’ai discuté avec des militants de tous les horizons et, bien sûr, avec les jeunes Modem, en tous cas ceux qui ne m’en veulent pas de [ma sortie de Seignosse](http://blog.tcrouzet.com/2007/09/17/militantisme-ecole-de-mediocrite/).<span id="more-581"></span>
+Hier à Paris, le matin, l’après-midi et le soir à la république des blogs, j’ai discuté avec des militants de tous les horizons et, bien sûr, avec les jeunes Modem, en tous cas ceux qui ne m’en veulent pas de [ma sortie de Seignosse](http://blog.tcrouzet.com/2007/09/17/militantisme-ecole-de-mediocrite/).
 
 Ils m’ont raconté leurs mésaventures et le simulacre de démocratie qui règne au cœur de leur parti. Fin novembre se tiendra un congrès qui posera les statuts du soi-disant mouvement démocrate. Il fondera ainsi sa constitution.
 

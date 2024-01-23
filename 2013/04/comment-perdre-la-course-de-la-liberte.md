@@ -1,6 +1,6 @@
 # Comment perdre la course de la liberté
 
-Plus le monde est complexe, plus il est difficile à contrôler, moins les managers, les gouvernements, les dictateurs ont de pouvoir sur nous, donc nos libertés augmentent.<span id="more-32378"></span>
+Plus le monde est complexe, plus il est difficile à contrôler, moins les managers, les gouvernements, les dictateurs ont de pouvoir sur nous, donc nos libertés augmentent.
 
 J'ai discuté ce théorème dans [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), sans m'arrêter sur un détail crucial. Pour accroître la complexité, nous avons besoin de technologies : transport, énergie, communication… Alors libre à nous de les employer pour complexifier. Mais nous pouvons aussi bien ne rien faire, victimes de l'apathie ambiante.
 

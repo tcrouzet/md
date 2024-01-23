@@ -1,6 +1,6 @@
 # Numerile
 
-[Je suis à Ouessant depuis quelques jours](http://blog.tcrouzet.com/2010/08/12/le-festival-du-livre-insulaire-2010/). Comme souvent, je trouve toujours le moyen de mettre les pieds dans le plat. Hier, au cours de ma conférence avec Ayerdhal, j’ai affirmé que les « Community managers étaient les putes d’aujourd’hui. », je sens que je vais devoir écrire un article pour m’expliquer dans les jours qui arrivent.<span id="more-18569"></span>
+[Je suis à Ouessant depuis quelques jours](http://blog.tcrouzet.com/2010/08/12/le-festival-du-livre-insulaire-2010/). Comme souvent, je trouve toujours le moyen de mettre les pieds dans le plat. Hier, au cours de ma conférence avec Ayerdhal, j’ai affirmé que les « Community managers étaient les putes d’aujourd’hui. », je sens que je vais devoir écrire un article pour m’expliquer dans les jours qui arrivent.
 
 J’ai aussi affirmé que tous les auteurs qui n’étaient pas avec nous dans la salle dans laquelle nous discutions de l’édition numérique n’étaient pas des auteurs (et que nous ne pouvions pas être des créateurs contemporains sans user des outils de notre temps). J’ai alors vu deux personnes se lever immédiatement et fuir (mince, il y avait deux curieux sur les 80 auteurs invités). Mais, bon sang, il fallait me rentrer dans le lard et lancer le débat. Moi, je ne me prétends ni écrivain ni artiste, mais je suis un provocateur.
 

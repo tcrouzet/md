@@ -1,6 +1,6 @@
 # Le Net rend plus con que la TV
 
-En 2011, [j’ai fait un burn-out numérique](http://blog.tcrouzet.com/jai-debranche/). Au plus profond de ma chair, j’ai senti que le temps du Net ne me voulait pas que du bien. Il me faisait vivre sur un rythme insoutenable. Plus de nuit, de jour, de repos, disponibilité continue jusqu’à la rupture.<span id="more-34662"></span>
+En 2011, [j’ai fait un burn-out numérique](http://blog.tcrouzet.com/jai-debranche/). Au plus profond de ma chair, j’ai senti que le temps du Net ne me voulait pas que du bien. Il me faisait vivre sur un rythme insoutenable. Plus de nuit, de jour, de repos, disponibilité continue jusqu’à la rupture.
 
 J’ai débranché durant six mois, et je suis revenu régénéré, en même temps plus méfiant, surtout des réseaux sociaux qui ont vite tendance à nous prendre la main, puis le bras, puis ne plus rien laisser de très lucide en nous. Je me suis inventé une nouvelle vie numérique, centrée sur mon blog, sur des proches, loin de la visibilité maximalisée à laquelle on peut prétendre avec un peu de pratique. J’ai quitté la grande ville numérique pour un petit village de campagne habité par des gens cool.
 

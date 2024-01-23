@@ -1,6 +1,6 @@
 # Comment sécuriser et optimiser son blog
 
-Quand je dis qu'[un blog n'a aucune pérennité](http://blog.tcrouzet.com/2013/01/21/le-blog-une-pratique-depassee/), c'est en connaissance de cause. Je viens de passer plus d'un mois à me battre avec le mien.<span id="more-30657"></span>
+Quand je dis qu'[un blog n'a aucune pérennité](http://blog.tcrouzet.com/2013/01/21/le-blog-une-pratique-depassee/), c'est en connaissance de cause. Je viens de passer plus d'un mois à me battre avec le mien.
 
 Changement de serveur dédié, lutte incessante contre les hackers qui veulent en prendre le contrôle, performance lamentable et temps de chargement prohibitif. Leçon : « Si tu ne suis pas l'évolution technologique, tu crèves. » Cela est d'autant plus vrai quand on se veut indépendant, donc forcé de maintenir soit même son architecture. Conséquence : « Un blog indépendant ne survit que tant que quelqu'un l'administre. À tout moment, sont contenu peut s'évanouir. Gênant pour un auteur qui considère son blog comme son œuvre. »
 
@@ -37,22 +37,18 @@ J'ai fini par jeter tous les plug-ins qui ajoutent des boutons et par tout coder
 ### Le problème WordPress
 
 Jusqu'à ce point, les conseils étaient valables pour toutes les plateformes. Je me suis ensuite attaqué à WordPress.
-
-***Tester les plugins***
+*
 
 Certains mangent littéralement votre bande passante et la puissance de calcul du serveur. Pour les évaluer, il existe un autre plugin, [P3 - Plugin Performance Profiler](http://wordpress.org/extend/plugins/p3-profiler/). Quand j'ai commencé l'optimisation, rien que chargement des plugins exigeait près de 3 secondes. Je suis tombé à 0,5 seconde. J'ai tout simplement banni ceux qui étaient trop gourmands.
 
 ![P3 plugin](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/01/opt_p3.png)
-
-***Cache***
+*
 
 Inutile de recalculer les pages qui ne changent pas. Un cache s'impose. J'ai installé le plugin CloudFlare qui sert essentiellement en mode développement en conjonction avec [W3 Total Cache](http://wordpress.org/extend/plugins/w3-total-cache/). J'ai aussi testé le classique [WP Super Cache](http://wordpress.org/extend/plugins/wp-super-cache/) qui me donne les mêmes résultats. J'ai enfin ajouté [un minuscule plugin qui met en cache les gravatar](http://wordpress.org/extend/plugins/wp-gravatar-mini-cache/).
-
-***Jetpack : le dilemme***
+*
 
 [C'est le plugin à tout faire](http://wordpress.org/extend/plugins/jetpack/), il est très lourd. Il ajoute pas moins de 100 Ko de script et de CSS. J'ai longtemps hésité à le virer, mais je l'ai gardé pour l'abonnement aux commentaires et deux ou trois autres fonctions, j'ai désactivé toutes les autres. J'attends de trouver mieux car 100 Ko c'est de la gabegie.
-
-***Sécurité***
+*
 
 [Wordfence](http://wordpress.org/extend/plugins/wordfence/) est l'anti-virus de WordPress. La première fois que je l'ai lancé, il a découvert des dizaines de chevaux de Troie. Depuis il veille au grain et intercepte de nombreuses tentatives de connexion illicites.
 

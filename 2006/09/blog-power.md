@@ -1,6 +1,6 @@
 # Blog Power
 
-Ça sonne comme Jack Bower mais ce n’est pas du tout de la série *24 heures* dont je veux parler. Je me demande comment je peux commencer un post de cette façon : j’ai même pas la télé !<span id="more-215"></span>
+Ça sonne comme Jack Bower mais ce n’est pas du tout de la série *24 heures* dont je veux parler. Je me demande comment je peux commencer un post de cette façon : j’ai même pas la télé !
 
 J’enchaîne. *Blog Power* est un titre proposé avec insistante par mon éditeur pour mon prochain livre. [*Le cinquième pouvoir*](http://blog.tcrouzet.com/2006/08/28/quatrieme-de-couverture-v1/) serait pas assez vendeur. Qu’en pensez-vous ?
 

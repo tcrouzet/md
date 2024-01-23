@@ -1,6 +1,6 @@
 # François Bon et le DIY
 
-Quand on écrit, on ne peut éviter de se demander « Qu’est-ce que le roman ? ». Parce qu’au début, souvent, on veut faire du roman, puis faire du roman qui ne ressemble pas au roman, puis parce qu’on s’en fiche.<span id="more-27308"></span>
+Quand on écrit, on ne peut éviter de se demander « Qu’est-ce que le roman ? ». Parce qu’au début, souvent, on veut faire du roman, puis faire du roman qui ne ressemble pas au roman, puis parce qu’on s’en fiche.
 
 J’en suis arrivé à ce détachement théorique, mais en lisant [*Autobiographie des objets*](http://www.tierslivre.net/spip/spip.php?article2971) de François Bon, je n’ai cessé de penser « roman ». Pour une raison simple : je me sens dans ce texte comme dans un grand roman classique. Et définir le roman par la perception est la seule approche qui me paraît acceptable.
 

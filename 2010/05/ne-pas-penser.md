@@ -1,6 +1,6 @@
 # Empêcher le lecteur de ne pas penser
 
-[Écriture virale](http://ecriturevirale.wordpress.com/2010/05/13/empecher-le-lecteur-de-penser/) nous propose une belle réflexion sur l’art d’écrire sur le Web. J’ai pris pour habitude de prendre à contre-pied chacun des conseils évoqués.<span id="more-16550"></span>
+[Écriture virale](http://ecriturevirale.wordpress.com/2010/05/13/empecher-le-lecteur-de-penser/) nous propose une belle réflexion sur l’art d’écrire sur le Web. J’ai pris pour habitude de prendre à contre-pied chacun des conseils évoqués.
 
 J’ai quatre principes :
 

@@ -1,6 +1,6 @@
 # Sans liens de qualité, pas de liberté
 
-Pierre Fraser a publié un billet intitulé [Esclavage moderne : enchaînés aux milliers de fils invisibles de la communication](http://dindification.com/2010/05/11/enchaines-aux-milliers-de-fils-invisibles-de-la-communication/) qui a laissé croire qu’il contredisait mon théorème : [la liberté, c’est le lien](http://blog.tcrouzet.com/2010/05/08/la-liberte-le-lien/).<span id="more-16353"></span>
+Pierre Fraser a publié un billet intitulé [Esclavage moderne : enchaînés aux milliers de fils invisibles de la communication](http://dindification.com/2010/05/11/enchaines-aux-milliers-de-fils-invisibles-de-la-communication/) qui a laissé croire qu’il contredisait mon théorème : [la liberté, c’est le lien](http://blog.tcrouzet.com/2010/05/08/la-liberte-le-lien/).
 
 Pierre parle en fait des liens imbéciles, de ces liens maître-esclaves, liens de dépendance, qui nous attachent plus qu’ils nous libèrent. Je parle des liens qui véhiculent les interactions du flux, qui en sont la colonne vertébrale, des liens réciproques et vivants.
 

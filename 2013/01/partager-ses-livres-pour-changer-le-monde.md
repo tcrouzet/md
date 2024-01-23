@@ -1,6 +1,6 @@
 # Partager ses livres pour changer le monde
 
-[Écrire, c'est sculpter](http://blog.tcrouzet.com/2013/01/11/lecon-dhumilite-pour-auteurs-pretentieux/), non seulement le texte, mais aussi et avant tout les lecteurs. Eux-mêmes, en parlant des textes qu'ils aiment, en les offrants, en les échangeant, sculptent, donc transforment leurs amis… et cette foule transformée ne peut que changer le monde.<span id="more-30454"></span>
+[Écrire, c'est sculpter](http://blog.tcrouzet.com/2013/01/11/lecon-dhumilite-pour-auteurs-pretentieux/), non seulement le texte, mais aussi et avant tout les lecteurs. Eux-mêmes, en parlant des textes qu'ils aiment, en les offrants, en les échangeant, sculptent, donc transforment leurs amis… et cette foule transformée ne peut que changer le monde.
 
 Partager est donc un acte politique inaliénable et il serait bien paradoxal que le numérique en limite la portée au nom d'un quelconque copyright.
 

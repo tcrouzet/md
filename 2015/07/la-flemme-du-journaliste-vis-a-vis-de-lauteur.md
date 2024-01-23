@@ -1,6 +1,6 @@
 # La flemme du journaliste vis-à-vis de l’auteur
 
-Je déteste la pétrification sociale. Samedi soir, je croise un vieil ami : « Je vais te présenter un écrivain. » Le gars approche, je lui serre la main. Mon ami dit de moi que je me mets à écrire, genre il a besoin d'encouragements le pauvre, et le voilà qui se lance dans un éloge du nouveau venu.<span id="more-42124"></span>
+Je déteste la pétrification sociale. Samedi soir, je croise un vieil ami : « Je vais te présenter un écrivain. » Le gars approche, je lui serre la main. Mon ami dit de moi que je me mets à écrire, genre il a besoin d'encouragements le pauvre, et le voilà qui se lance dans un éloge du nouveau venu.
 
 Pour mon ami, je suis resté le techos qui s’est mis à écrire il y a trente ans. Je suis censé être fidèle au portrait de moi en jeune homme. Les marqueurs sociaux nous collent à la peau. Depuis 2011, un nouveau s’attache à moi avec une insistance malsaine : la digital detox. 
 
@@ -25,6 +25,8 @@ Si je n’avais pas débranché, je serais sans doute aujourd’hui incapable d�
 *PS2 : Interrogez-moi sur tous les autres sujets : [Le geste qui sauve](http://tcrouzet.com/le-geste-qui-sauve/), par exemple, bien plus important pour l'humanité que la digital-detox, ou sur la littérature, bien trop maltraitée en ce moment, ou sur notre Internet hubérisé et décadent.*
 
 ![Mieux vaut lire des livres que des articles écrits par des robots.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/12/photo13.png)
+
+Mieux vaut lire des livres que des articles écrits par des robots.
 
 
 

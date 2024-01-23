@@ -1,6 +1,6 @@
 # Internet : terrain de bataille idéologique
 
-Il y a un monde entre ce que font les gens, leurs usages, domaine souvent étudié par les sociologues, les historiens, et ce que peuvent faire les gens, domaine souvent étudié par les artistes, les activistes, les spécialistes du développement personnel. Ce n’est pas parce que nous observons que les gens font un truc taré qu’ils continueront de le faire pour la vie, et pour commencer que nous sommes obligés de les imiter.<span id="more-14395"></span>
+Il y a un monde entre ce que font les gens, leurs usages, domaine souvent étudié par les sociologues, les historiens, et ce que peuvent faire les gens, domaine souvent étudié par les artistes, les activistes, les spécialistes du développement personnel. Ce n’est pas parce que nous observons que les gens font un truc taré qu’ils continueront de le faire pour la vie, et pour commencer que nous sommes obligés de les imiter.
 
 Il est important d’observer ce que font les foules, ce qui guide nos comportements collectifs, mais non pas pour en déduire des lois physiques immuables, mais pour pouvoir changer ces lois, et pour commencer à notre niveau.
 

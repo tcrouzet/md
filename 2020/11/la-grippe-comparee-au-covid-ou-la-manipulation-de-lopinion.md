@@ -1,6 +1,6 @@
 # L&#8217;erreur de comparer la grippe au covid
 
-Des courbes ne cessent de circuler qui montrent que certaines années la grippe tue autant que le covid, donc que le confinement est une stratégie du chaos sciemment organisée.<span id="more-56146"></span>
+Des courbes ne cessent de circuler qui montrent que certaines années la grippe tue autant que le covid, donc que le confinement est une stratégie du chaos sciemment organisée.
 
 1. Comparez les courbes de surmortalité année par année en France, [ici](https://me.jytou.fr/obsfr/) ou [là](https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/deaths/articles/comparisonsofallcausemortalitybetweeneuropeancountriesandregions/januarytojune2020), issue des simples relevés d’état civil, et vous verrez qu’il y a effectivement une surmortalité en 2020 et qu’on ne peut pas dire qu’il ne se passe rien en ce moment (quand la seconde vague sera prise en compte, ce sera encore plus flagrant). Les courbes grippe vs covid qui circulent sur les réseaux sociaux sont donc fausses comme beaucoup d’autres et visent à manipuler l’opinion, à distordre la réalité, à étayer les thèses complotistes.
 

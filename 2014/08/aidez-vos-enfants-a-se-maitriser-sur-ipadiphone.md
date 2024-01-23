@@ -1,6 +1,6 @@
 # Aidez vos enfants à se maîtriser sur iPad/iPhone
 
-Nous aimons fixer des règles à nos deux fils de 7 et 9 ans. Ils ont droit aux écrans quand il n’y a pas école le lendemain (l’année prochaine, avec la réforme, ils perdront une journée, longtemps que je me jure d’écrire sur ce problème particulier). En vacances, on fait un jour jeu, une bonne heure, un jour, film.<span id="more-36660"></span>
+Nous aimons fixer des règles à nos deux fils de 7 et 9 ans. Ils ont droit aux écrans quand il n’y a pas école le lendemain (l’année prochaine, avec la réforme, ils perdront une journée, longtemps que je me jure d’écrire sur ce problème particulier). En vacances, on fait un jour jeu, une bonne heure, un jour, film.
 
 Les choses se compliquent assez vite. Tim peut passer des heures à lire sur iPad. Ce n’est pas du jeu, ce n’est pas du film, on accepte l’après-midi, durant le temps calme (le reste du temps il doit se contenter d'un Kindle PaperWhite).
 

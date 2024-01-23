@@ -1,6 +1,6 @@
 # Comment spammer Twitter
 
-Je vois tant de comptes corrompus, tant de tricheries que, [encore une fois](http://blog.tcrouzet.com/2009/09/24/qui-a-la-plus-grosse-quequette-sur-twitter/), j’ai envie de les dénoncer pour dénoncer tout un écosystème désormais vicié.<span id="more-31090"></span>
+Je vois tant de comptes corrompus, tant de tricheries que, [encore une fois](http://blog.tcrouzet.com/2009/09/24/qui-a-la-plus-grosse-quequette-sur-twitter/), j’ai envie de les dénoncer pour dénoncer tout un écosystème désormais vicié.
 
 Et autant jouer avec, donner un exemple à une échelle modeste, et presque humanitaire. Montrer comment on peut promouvoir un livre. Le mien, bien sûr. [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) qui sort le 27 mars chez Fayard.
 
@@ -21,7 +21,7 @@ Pour détecter mes cibles, une requête sur un hashtag ou un mot clé fera l’a
 
 Cet URL ouvre un fil RSS avec les derniers résultats. Dans mon cas :
 
-> <http://search.twitter.com/search.atom?q=twittérature+OR+tweet-nouvelle+lang:fr>
+> 
 
 ### Ne pas matraquer
 

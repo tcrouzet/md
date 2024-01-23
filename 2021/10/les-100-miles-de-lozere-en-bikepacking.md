@@ -1,6 +1,6 @@
 # Les 100 miles de Lozère en bikepacking
 
-Je croyais que [l’i727 du début octobre](https://tcrouzet.com/2021/10/12/bikepacking-dans-lautomne-flamboyant-du-midi) serait la dernière expérience bikepacking 2021, mais le temps sec et beau et la persuasion de [Patrick Lamarre](https://www.youtube.com/c/Patventure34) m’ont convaincu d’une dernière escapade sur les [100 miles de Lozère](https://www.100milesvttlozere.com/parcours), agrémentés d’une petite variante via [Pont du Tarn](https://www.visit-lozere.fr/randonnees-en-cevennes/le-pont-du-tarn).<span id="more-60875"></span>
+Je croyais que [l’i727 du début octobre](https://tcrouzet.com/2021/10/12/bikepacking-dans-lautomne-flamboyant-du-midi) serait la dernière expérience bikepacking 2021, mais le temps sec et beau et la persuasion de [Patrick Lamarre](https://www.youtube.com/c/Patventure34) m’ont convaincu d’une dernière escapade sur les [100 miles de Lozère](https://www.100milesvttlozere.com/parcours), agrémentés d’une petite variante via [Pont du Tarn](https://www.visit-lozere.fr/randonnees-en-cevennes/le-pont-du-tarn).
 
 ### Vendredi 22 octobre
 

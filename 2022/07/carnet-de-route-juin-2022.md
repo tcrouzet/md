@@ -4,7 +4,7 @@
 
 ### Mercredi 1<sup>er</sup>, Balaruc
 
-*Comme si on ne pouvait dire notre temps que par fragments.* Ce pourrait être le titre d’un essai, ou le cahier des charges d’un projet artistique, ou une affirmation.<span id="more-64034"></span>
+*Comme si on ne pouvait dire notre temps que par fragments.* Ce pourrait être le titre d’un essai, ou le cahier des charges d’un projet artistique, ou une affirmation.
 
 ### Jeudi 2, Balaruc
 

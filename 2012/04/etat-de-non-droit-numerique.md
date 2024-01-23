@@ -1,6 +1,6 @@
 # L’État de non-droit numérique
 
-Je dois être un de ces grincheux qui regrettent le bon vieux temps, mais de plus en plus de choses ont pour moi un goût amer sur le Net.<span id="more-23541"></span>
+Je dois être un de ces grincheux qui regrettent le bon vieux temps, mais de plus en plus de choses ont pour moi un goût amer sur le Net.
 
 J’ai créé en 1998, [bonweb.fr](http://bonweb.fr), c’était déjà un livre électronique. Loin de me limiter à une [projection homothétique](http://blog.tcrouzet.com/2011/01/26/definir-livre-electronique/) du [*Guide des meilleurs sites Web*](http://blog.tcrouzet.com/bibliographie/vulgarisation-1997-2003/) que je publiais alors, j’avais développer un annuaire interactif qui a survécu jusqu’à aujourd’hui.
 

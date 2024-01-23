@@ -1,6 +1,6 @@
 # Ils font tous ça, pourquoi lui en vouloir à lui
 
-Même si je m’intéresse peu à l’actualité politique, ses vagues m’atteignent parfois jusqu’à me donner la nausée. J’ai alors envie de fermer toutes les écoutilles, de me débrancher d’Internet, de me replier dans le cocon familial et de me contenter de grandes balades dans la nature. Mais je culpabilise. En fuyant, j’accepte la décadence de nos institutions.<span id="more-44896"></span>
+Même si je m’intéresse peu à l’actualité politique, ses vagues m’atteignent parfois jusqu’à me donner la nausée. J’ai alors envie de fermer toutes les écoutilles, de me débrancher d’Internet, de me replier dans le cocon familial et de me contenter de grandes balades dans la nature. Mais je culpabilise. En fuyant, j’accepte la décadence de nos institutions.
 
 Je me dois donc de réagir, de combattre avec mes armes, les mots. Dans ma petite ville, où je suis né, où des amis d’enfance occupent certaines responsabilités, je constate les mêmes dérives qu’à l’échelle régionale ou nationale. On fait travailler ses proches, on leur donne des salaires, des avantages, on leur accorde des faveurs, on minimise ses impôts, on cache, on dissimule, on offre… on se sert dans la caisse sans en éprouver la moindre culpabilité, on trouve même ça normal et celui qui ose critiquer est rapidement ostracisé.
 

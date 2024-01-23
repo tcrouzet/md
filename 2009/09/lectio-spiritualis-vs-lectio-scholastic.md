@@ -1,6 +1,6 @@
 # Lectio spiritualis vs lectio scholastic
 
-Dans [*Du lisible au visible*](http://cercamon.wordpress.com/2005/02/13/du-lisible-au-visible-ivan-illich-paris-cerf-1991/), texte malheureusement épuisé, Ivan Illich évoque une révolution du livre survenue autour de 1150. Grâce à une douzaine de techniques (amélioration de la ponctuation, retraits, insertion de titres et de rubriques, division en chapitres, index des matières classées dans l’ordre alphabétiques…), le livre devient lisible et la culture de la lecture commence, trois siècles avant l’invention de l’imprimerie.<span id="more-9589"></span>
+Dans [*Du lisible au visible*](http://cercamon.wordpress.com/2005/02/13/du-lisible-au-visible-ivan-illich-paris-cerf-1991/), texte malheureusement épuisé, Ivan Illich évoque une révolution du livre survenue autour de 1150. Grâce à une douzaine de techniques (amélioration de la ponctuation, retraits, insertion de titres et de rubriques, division en chapitres, index des matières classées dans l’ordre alphabétiques…), le livre devient lisible et la culture de la lecture commence, trois siècles avant l’invention de l’imprimerie.
 
 > Cette collection de techniques et d'usages a permis d'imaginer le « texte » comme quelque chose d'extrinsèque à la réalité physique de la page.
 

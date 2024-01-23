@@ -4,7 +4,7 @@
 
 ### Lundi 1<sup>er</sup>, Vol pour New York
 
-Je lis *La recherche* depuis trente ans et j’ai toujours l’impression de lire un nouveau livre. Je visite un pays familier, mais chaque fois m’arrête dans des villes différentes où seule la qualité de l’air ne varie pas. Proust me reste insaisissable. Convexe. Cyclique. J’ai souvent du mal à savoir dans quelle partie de son œuvre je suis, tant les couches narratives s’empilent et se répondent. La lecture électronique intensifie cette sensation, arrêtée un jour, reprise des semaines plus tard au point où elle a été laissée, sans besoin de passer par une couverture, d’atteindre un marque-page, et de revivre ainsi le livre en accéléré.<span id="more-50157"></span>
+Je lis *La recherche* depuis trente ans et j’ai toujours l’impression de lire un nouveau livre. Je visite un pays familier, mais chaque fois m’arrête dans des villes différentes où seule la qualité de l’air ne varie pas. Proust me reste insaisissable. Convexe. Cyclique. J’ai souvent du mal à savoir dans quelle partie de son œuvre je suis, tant les couches narratives s’empilent et se répondent. La lecture électronique intensifie cette sensation, arrêtée un jour, reprise des semaines plus tard au point où elle a été laissée, sans besoin de passer par une couverture, d’atteindre un marque-page, et de revivre ainsi le livre en accéléré.
 
 ---
 

@@ -1,6 +1,6 @@
 # Pourquoi je n’achèterai pas le Kindle Oasis
 
-Parfois, je me demande si les constructeurs de liseuses n’ont pas signé un accord secret avec les éditeurs papier pour tuer le livre électronique. La dernière annonce Amazon est sinon inexplicable.<span id="more-43872"></span>
+Parfois, je me demande si les constructeurs de liseuses n’ont pas signé un accord secret avec les éditeurs papier pour tuer le livre électronique. La dernière annonce Amazon est sinon inexplicable.
 
 ![kindle Oasis](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/04/kindle1.jpg)
 

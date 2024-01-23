@@ -1,6 +1,6 @@
 # L’avenir passera par les entreprises, ben non
 
-Ce matin, en revenant de la piscine avec Émile, j’entends Guillaume Erner sur France Inter évoquer une idée de Hollande : il faudrait enseigner l’entrepreneuriat aux enfants. Et Ener de surenchérir avec « L’avenir passera par les entreprises. » Bien involontairement j’imagine, il traduit ainsi la doxa contemporaine, qu’elle soit de gauche ou de droite, une doxa tout simplement conservatrice.<span id="more-32607"></span>
+Ce matin, en revenant de la piscine avec Émile, j’entends Guillaume Erner sur France Inter évoquer une idée de Hollande : il faudrait enseigner l’entrepreneuriat aux enfants. Et Ener de surenchérir avec « L’avenir passera par les entreprises. » Bien involontairement j’imagine, il traduit ainsi la doxa contemporaine, qu’elle soit de gauche ou de droite, une doxa tout simplement conservatrice.
 
 L’entreprise est un concept associé à la révolution industrielle, donc dépassé alors que nous entrons dans une nouvelle époque, les crises que nous traversons témoignant de la transition, souvent douloureuse.
 

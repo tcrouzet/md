@@ -2,7 +2,7 @@
 
 Si les journalistes ont maintenant compris qu’Internet remettait en cause leur métier, les éditeurs vivent avec la douce illusion que tout sera comme avant. Pourtant internet se prépare à décimer leur industrie.
 
-Que font les éditeurs ? Pas ce que vous croyez. Ils impriment des livres, qu’ils transportent en camion d’un bout à l’autre du pays, les stockent dans des librairies, puis rapatrient les invendus qui, après une seconde période indéfinie de stockage, finissent pilonnés. C’est le destin de la plupart des livres. Une gabegie irrespectueuse de l’environnement.<span id="more-7743"></span>
+Que font les éditeurs ? Pas ce que vous croyez. Ils impriment des livres, qu’ils transportent en camion d’un bout à l’autre du pays, les stockent dans des librairies, puis rapatrient les invendus qui, après une seconde période indéfinie de stockage, finissent pilonnés. C’est le destin de la plupart des livres. Une gabegie irrespectueuse de l’environnement.
 
 La profession doit se réinventer.
 

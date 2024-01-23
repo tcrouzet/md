@@ -1,6 +1,6 @@
 # Macron me transforme en bombe virale
 
-Dès que la société bascule dans l'exceptionnel, une guerre, une pandémie, les gouvernements adoptent des mesures liberticides. C’est un réflexe primal de chef de horde. Dans l’urgence, il ordonne parce qu’il pense pour les autres, parce qu’il se croit plus malin que les autres, plus sachant, plus informé.<span id="more-53646"></span>
+Dès que la société bascule dans l'exceptionnel, une guerre, une pandémie, les gouvernements adoptent des mesures liberticides. C’est un réflexe primal de chef de horde. Dans l’urgence, il ordonne parce qu’il pense pour les autres, parce qu’il se croit plus malin que les autres, plus sachant, plus informé.
 
 Mais l’est-il ? Peut-être il y a bien longtemps… mais aujourd’hui ? Ce modèle tient-il encore le coup ? Plutôt que nous ordonner, le chef de horde ne pourrait-il pas nous demander de réfléchir, de faire preuve d’au moins autant d’intelligence que lui ?
 

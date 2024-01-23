@@ -4,7 +4,7 @@
 
 \— Non.
 
-\— Si, il sonne, je te dis.<span id="more-12874"></span>
+\— Si, il sonne, je te dis.
 
 \— Non.
 

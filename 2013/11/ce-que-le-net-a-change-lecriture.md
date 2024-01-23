@@ -1,6 +1,6 @@
 # Ce que le Net a changé&nbsp;: l&#8217;écriture
 
-Par provocation, je dis souvent aux auteurs adeptes du papier qu'il n'existe de littérature contemporaine que sur le Net. Vous imaginez qu'ils acceptent mal d'être rabaissés alors que le système dominant les honore de multiples prix et salamalecs. Mais qui dit système, dit ordre vernaculaire, poussiéreux, encroûté, autant d'attributs dont n'a que faire la création.<span id="more-33669"></span>
+Par provocation, je dis souvent aux auteurs adeptes du papier qu'il n'existe de littérature contemporaine que sur le Net. Vous imaginez qu'ils acceptent mal d'être rabaissés alors que le système dominant les honore de multiples prix et salamalecs. Mais qui dit système, dit ordre vernaculaire, poussiéreux, encroûté, autant d'attributs dont n'a que faire la création.
 
 Je lis le rouleau original de Kerouac, la grande route déroulée sur trente-six mètres cinquante, une pure giclée de bonheur que les éditeurs au début des années 1950 ont pourtant refusée, forçant Kerouac à réécrire et censurer sa prose cataclysmique.
 

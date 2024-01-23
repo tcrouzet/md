@@ -1,6 +1,6 @@
 # N’oublions pas le livre
 
-L’odeur du papier, sa texture, sa solidité… conneries. Autant d’arguments débiles pour défendre le livre alors qu’il possède de véritables atouts politiques et subversifs par rapport au Web.<span id="more-16756"></span>
+L’odeur du papier, sa texture, sa solidité… conneries. Autant d’arguments débiles pour défendre le livre alors qu’il possède de véritables atouts politiques et subversifs par rapport au Web.
 
 Le livre est compact, il se glisse partout, se cache, accueille des commentaires, c’est un objet social… mais surtout, une fois imprimé, un livre échappe à la censure. Un gouvernement peut interdire un livre, rien n’empêche les exemplaires préalablement diffusés de poursuivre leur vie, tant bien même l’éditeur est fermé. Le livre est un média décentralisé.
 

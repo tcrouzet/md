@@ -1,6 +1,6 @@
 # Wattpad : déplacement de l’espace littéraire ?
 
-J’aime la synchronicité que favorise le Net. Le premier janvier, [alors que je m’apprêtais à publier la minute 1 de ma série SF de l’année](http://blog.tcrouzet.com/2015/01/01/versailles-france-2145/), j’ai vu [Neil Jomunsi](http://page42.org/) expérimenter avec [Wattpad](http://www.wattpad.com/story/29694130-1-minute). Je l’ai suivi et c’est comme ça que j’ai commencé à prendre conscience de la puissance de cet outil (et une petite bande avec moi).<span id="more-38962"></span>
+J’aime la synchronicité que favorise le Net. Le premier janvier, [alors que je m’apprêtais à publier la minute 1 de ma série SF de l’année](http://blog.tcrouzet.com/2015/01/01/versailles-france-2145/), j’ai vu [Neil Jomunsi](http://page42.org/) expérimenter avec [Wattpad](http://www.wattpad.com/story/29694130-1-minute). Je l’ai suivi et c’est comme ça que j’ai commencé à prendre conscience de la puissance de cet outil (et une petite bande avec moi).
 
 - [Chris Simon](http://www.wattpad.com/user/ChrisSimon4)
 
@@ -48,17 +48,25 @@ Pour moi, cette expérience Wattpad sera réussie si les lecteurs s’engagent, 
 
 ![Wattpad mesure l'engagement des lecteurs.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/wattpad1.png)
 
+Wattpad mesure l'engagement des lecteurs.
+
 Wattpad propose d’autres chiffres intéressants. Pour chaque chapitre, on a le nombre de visites et le pourcentage de lecteurs qui sont allés au bout, on peut en déduire le lectorat réel par chapitre, ce qui est quasi impossible sur un blog.
 
 ![Tableau de bord Wattpad avec stats.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/wattpad5.jpg)
 
+Tableau de bord Wattpad avec stats.
+
 ![Évolution du lectorat de 1 minute (les derniers jours peut significatif, faut laisser le temps de lire).](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/wattpad3.png)
+
+Évolution du lectorat de 1 minute (les derniers jours sont peu significatifs, faut laisser le temps de lire).
 
 Si je n’écrivais que pour plaire, je serais terrorisé par cette courbe qui, d’ici la fin du mois, touchera le fond. J’espère que le nombre de lecteurs sur Wattpad se stabilisera à une centaine et autant sur le blog, notamment via ma newsletter, autre outil de fidélisation qui a de beaux jours devant lui avec la saturation des réseaux sociaux.
 
 Wattpad n’est donc pas le nouvel eldorado littéraire, mais plutôt une interface plus adaptée que le blog pour la narration, et donc à utiliser en complément. Dans la mesure du possible, je diversifie mon offre de modes de lecture : blog, Wattpad, ebook, papier, mail… et que les lecteurs choisissent.
 
 ![Wattpad permet notamment de toucher des lecteurs plus jeunes que le blog. Mais encore faut-il écrire pour eux.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/wattpad4.png)
+
+Wattpad permet notamment de toucher des lecteurs plus jeunes que le blog. Mais encore faut-il écrire pour eux.
 
 
 

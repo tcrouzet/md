@@ -1,6 +1,6 @@
 # Presse : une bonne mauvaise idée
 
-Dans le but de réinventer une économie de la presse, tout le monde tente des expériences en tout sens. À vrai dire, tout le monde tente tout et n’importe quoi. Certains comprennent même tout de travers.<span id="more-17334"></span>
+Dans le but de réinventer une économie de la presse, tout le monde tente des expériences en tout sens. À vrai dire, tout le monde tente tout et n’importe quoi. Certains comprennent même tout de travers.
 
 Être dans le flux semble une préoccupation importante : laisser l’information s’écouler par tous les pores. J’ai clamé que nous devions inventer un [Web sans site Web](http://blog.tcrouzet.com/2010/05/05/web-sans-site-web-2/). Quelques étudiants en journalisme ont sans doute sans m’avoir lu tenté l’expérience avec [Berlin Kultur Lab](http://fr.readwriteweb.com/2010/06/29/a-la-une/comment-crer-mdia-en-deux-temps-trois-mouvements/). Comme beaucoup de gens en parlent, ils ont réussi leur coup, je veux dire marketing.
 

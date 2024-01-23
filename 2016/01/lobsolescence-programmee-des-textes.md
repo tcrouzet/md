@@ -1,6 +1,6 @@
 # L’obsolescence programmée des textes
 
-On connaît le phénomène de [l’obsolescence en librairie](http://bfmbusiness.bfmtv.com/entreprise/en-25-ans-deux-fois-plus-de-livres-publies-mais-de-moins-en-moins-lus-939018.html). Les nouveaux livres remplacent les anciens toujours plus vite en même temps que les éditeurs diffusent toujours plus de livres. Mais on pouvait s’attendre à ce que le Net nous épargne ce phénomène. Il n’en est rien, bien au contraire.<span id="more-43230"></span>
+On connaît le phénomène de [l’obsolescence en librairie](http://bfmbusiness.bfmtv.com/entreprise/en-25-ans-deux-fois-plus-de-livres-publies-mais-de-moins-en-moins-lus-939018.html). Les nouveaux livres remplacent les anciens toujours plus vite en même temps que les éditeurs diffusent toujours plus de livres. Mais on pouvait s’attendre à ce que le Net nous épargne ce phénomène. Il n’en est rien, bien au contraire.
 
 Sauf cas exceptionnel, un billet de blog recueille en quelques jours l’essentiel de son audience avant de gentiment somnoler. J’ai quelques contre-exemples dans ma collection, par exemple [mes raisons de ne pas voter](http://tcrouzet.com/2012/04/11/je-brule-ma-carte-electeur-100-raisons-pour-ne-pas-voter/), qui à chaque scrutin voient quelques milliers de nouveaux lecteurs débouler via les réseaux sociaux et plus certainement via Google. Reste que l’obsolescence est mécaniquement encodée dans un monde où la quantité de textes s’accroît exponentiellement sans que l’attention du public suive ce mouvement (c'est impossible à moins d'une mutation).
 
@@ -26,7 +26,11 @@ L’art de l’écriture Web est pour moi lié au Send, au partage, à la fusion
 
 ![Chaque mois l'apport de nouveaux lecteurs diminue.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/cumul.png)
 
+Chaque mois l'apport de nouveaux lecteurs diminue.
+
 ![Je critique Wattpad mais il reste génial pour échanger avec les lecteurs et les suivre en train de lire (ici 2 minutes de lecture par minute avant un vote).](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2016/01/suivi.png)
+
+Je critique Wattpad mais il reste génial pour échanger avec les lecteurs et les suivre en train de lire (ici 2 minutes de lecture par minute avant un vote).
 
 
 

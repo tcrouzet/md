@@ -1,6 +1,6 @@
 # Les anarchistes applaudis par les conservateurs
 
-Hier, m’a femme m’a demandé d’aller filmer pour son [blog](http://www.roquerols.fr/) l’inauguration d’un trompe l’œil en l’honneur de Brassens et de Lolo, ancienne figure locale de Balaruc les Bains qui avait squatté un bout de plage et construit une bicoque où quelques artistes vinrent festoyer au cours des années 1960.<span id="more-691"></span>
+Hier, m’a femme m’a demandé d’aller filmer pour son [blog](http://www.roquerols.fr/) l’inauguration d’un trompe l’œil en l’honneur de Brassens et de Lolo, ancienne figure locale de Balaruc les Bains qui avait squatté un bout de plage et construit une bicoque où quelques artistes vinrent festoyer au cours des années 1960.
 
 Quand j’étais enfant, je jouais près de cette cabane, en retrait du village, à l’extrémité de la presqu’île, au pied d’une petite falaise qui la protégeait du mistral. L’endroit quelque peu inaccessible était pour nous une île mystérieuse. Lolo était un pirate. Nous entendions des ragots à son sujet.
 

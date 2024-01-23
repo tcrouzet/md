@@ -44,8 +44,6 @@
 
 ![](https://tcrouzet.com/images_tc/2017/11/it.png)
 
-
-
 1. 16/8/2105, *DNA*, [L’opération mains propres du Dr Pittet](http://www.dna.fr/sante/2015/08/16/l-operation-mains-propres-du-dr-pittet) ([JPG](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/pressPittet.jpg)), Joël Carassio
 
 2. 30/7/2014, *L'llustré*, [Didier Pittet: le Genevois qui a sauvé des millions de vies](http://www.illustre.ch/illustre/article/didier-pittet-le-genevois-qui-sauv%C3%A9-des-millions-de-vies), Laurent Favre

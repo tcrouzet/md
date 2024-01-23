@@ -1,6 +1,6 @@
 # Mieux vaut être anarchiste que de droite ou de gauche
 
-Pour beaucoup, un anarchiste désire vivre dans un monde sans lois où chacun est seul maître de ses choix. Les conservateurs de tout bord ont toujours stigmatisé cette position pour mieux marginaliser les anarchistes.<span id="more-8362"></span>
+Pour beaucoup, un anarchiste désire vivre dans un monde sans lois où chacun est seul maître de ses choix. Les conservateurs de tout bord ont toujours stigmatisé cette position pour mieux marginaliser les anarchistes.
 
 Si un homme de droite sait comment se battre contre un homme de gauche, il est désarmé contre un anarchiste. Sa meilleure tactique est de déclarer l’anarchisme comme une pratique illégale, irréaliste, utopiste… autant de qualificatifs méprisants et dégradants pour la seule alternative politique à la droite et à la gauche, à cette caricature de blanc bonnet et de bonnet blanc.
 

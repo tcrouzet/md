@@ -44,8 +44,6 @@
 
 ![](https://tcrouzet.com/images_tc/2017/11/it.png)
 
-
-
 [In English](/le-geste-qui-sauve/cp_us/)
 
 1. Un livre français immédiatement publié en sept langues, c'est exceptionnel. Et pour cause, il raconte…

@@ -1,6 +1,6 @@
 # Comment provoquer un buzz pour pas cher
 
-Pour faire parler de soi sur les réseaux sociaux, il existe une recette infaillible et plutôt économique.<span id="more-19264"></span>
+Pour faire parler de soi sur les réseaux sociaux, il existe une recette infaillible et plutôt économique.
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/stat1.png)
 

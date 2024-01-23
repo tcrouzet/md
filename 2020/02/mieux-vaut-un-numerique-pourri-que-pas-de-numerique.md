@@ -1,6 +1,6 @@
 # Mieux vaut un numérique pourri que pas de numérique
 
-Les critiques d’Hubert Guillaud sont si fouillées qu’elles me dispensent souvent de lire les livres dont il parle. [Sa lecture de *Contre l’alternumérisme*](http://www.internetactu.net/2020/02/13/de-lalternumerisme-dautres-numeriques-sont-ils-possibles/) ne fait pas exception. Au passage, Hubert pose une question qui m’interpelle « d’autres numériques sont-ils possibles ? »<span id="more-53486"></span>
+Les critiques d’Hubert Guillaud sont si fouillées qu’elles me dispensent souvent de lire les livres dont il parle. [Sa lecture de *Contre l’alternumérisme*](http://www.internetactu.net/2020/02/13/de-lalternumerisme-dautres-numeriques-sont-ils-possibles/) ne fait pas exception. Au passage, Hubert pose une question qui m’interpelle « d’autres numériques sont-ils possibles ? »
 
 Les auteurs de *Contre l’alternumérisme* répondent non, et voilà pourquoi je ne les lirai pas. Car une telle réponse revient à prévoir l’avenir, ce dont personne ne devrait oser se prévaloir. Déjà, pour que d’autres numériques soient impossibles, il faudrait qu’il existe aujourd’hui un numérique univoque, et que quelqu’un soit capable de le définir. Est-ce celui des impérialistes GAFAM, des libristes, des universitaires, des artisans numériques, des blogueurs, des artistes, des résistants, des déconnectés ? Tous ces numériques coexistent, se croisent, se fécondent, se combattent.
 

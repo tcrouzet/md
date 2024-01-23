@@ -1,6 +1,6 @@
 # Quand la liberté devient dangereuse
 
-Pour les libéraux, les libertaires, les libristes, les anarchistes… la liberté serait un indépassable, un état à poursuivre quoiqu’il en coûte parce qu’il ne pourrait qu’en découler des bénéfices. C’est malheureusement trop beau pour être vrai.<span id="more-44688"></span>
+Pour les libéraux, les libertaires, les libristes, les anarchistes… la liberté serait un indépassable, un état à poursuivre quoiqu’il en coûte parce qu’il ne pourrait qu’en découler des bénéfices. C’est malheureusement trop beau pour être vrai.
 
 Un exemple. Les oiseaux migrateurs volent en flotte sans être sous les ordres d’un quelconque chef. Ils sont totalement libres d’aller où ils veulent, mais ils ont bien compris que s’ils décident de faire route seuls, ils ont plus de chance d’y laisser leur peau. La liberté absolue n’existe pas. La liberté, toujours relative à l’histoire de chacun, est réponse à un jeu de contraintes. Il existe tout au plus une liberté optimale dans une situation donnée pour un individu donné. Perdre de vue ce fait, c’est s’aventurer en terrain dangereux, car totalement idéaliste.
 

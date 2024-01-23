@@ -1,6 +1,6 @@
 # Cyberlibertaires, gauchistes et droitistes s’en vont en bateau
 
-En lisant [Le problème de la gauche avec internet](http://internetactu.blog.lemonde.fr/2014/05/16/le-probleme-de-la-gauche-avec-internet/), un billet d’Hubert Guillaud, je n’ai cessé de me dire que l’essentialisme restait la philosophie dominante. Déjà parce que parler de gauche et de droite implique l’existence d’archétypes, d’une sorte de modèle invariant de la pensée politique.<span id="more-35682"></span>
+En lisant [Le problème de la gauche avec internet](http://internetactu.blog.lemonde.fr/2014/05/16/le-probleme-de-la-gauche-avec-internet/), un billet d’Hubert Guillaud, je n’ai cessé de me dire que l’essentialisme restait la philosophie dominante. Déjà parce que parler de gauche et de droite implique l’existence d’archétypes, d’une sorte de modèle invariant de la pensée politique.
 
 Même invoquer l’origine des termes droite et gauche, le cercle de l’assemblée où siègent les élus, ne suffit pas à nettoyer les notions sous-jacentes de leur senteur platonicienne. Imaginez un monde complexe, foisonnant, interconnecté, vous ni trouverez ni droite ni gauche, pas plus de haut ni de bas. Classer les idées politiques sur un cercle ou une droite revient à catégoriser le monde comme un bon vieil idéaliste, ce que sont souvent nos politiciens, incapables de s’arracher à cette caricature. Alors qu’ils soient de gauche ou de droite, ils pensent peu ou prou de la même manière (me voilà à mon tour en train de classifier).
 

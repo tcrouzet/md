@@ -1,6 +1,6 @@
 # Scoop : Libération en faillite
 
-Vous vous étonnez de perdre sans cesse plus de lecteurs. Vous êtes vraiment surpris ? Mais relisez-vos articles. Pour vous sauver de la banqueroute, vous êtes prêts à diffuser n’importe qu’elle idée qui vous conforte dans l’ancien monde. Plutôt que de vous adapter au nouveau paradigme, vous tentez d’en détourner vos lecteurs pris en otages. Est-ce la bonne stratégie ?<span id="more-10721"></span>
+Vous vous étonnez de perdre sans cesse plus de lecteurs. Vous êtes vraiment surpris ? Mais relisez-vos articles. Pour vous sauver de la banqueroute, vous êtes prêts à diffuser n’importe qu’elle idée qui vous conforte dans l’ancien monde. Plutôt que de vous adapter au nouveau paradigme, vous tentez d’en détourner vos lecteurs pris en otages. Est-ce la bonne stratégie ?
 
 Honte à moi, j’ai lu un de vos articles en ligne : [Comment Google contribue au rétrécissement du savoir](http://www.liberation.fr/medias/0101594100-comment-google-contribue-au-retrecissement-du-savoir). L’auteur, Thierry Klein, énonce une théorie surréaliste. Voulant nous persuader que peu de gens cherchent sur le net, il réussit juste à nous démontrer qu’il ne sait pas lui-même chercher (ou qu’il a peur de chercher ce qui le contredirait).
 

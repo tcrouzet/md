@@ -4,8 +4,6 @@ Je viens de commencer la lecture du dernier livre de Pierre Rosanvallon, *la con
 
 > Cette contre-démocratie n’est pas le contraire de la démocratie ; c’est plutôt la forme de démocratie qui contrarie l’autre, la démocratie des pouvoirs indirects disséminés dans le corps social, la démocratie de la défiance organisée face à la démocratie de la légitimité électorale.
 
-<span id="more-256"></span>
-
 J’ai l’impression que Pierre Rosanvallon parle d’une partie du cinquième pouvoir.
 
 > Au sens le plus fort du terme, nous n’avons, d’une certaine façon, jamais connu de régimes pleinement « démocratiques ». Les démocraties réellement existantes sont restées inachevées ou même confisquées, dans des proportions certes très variables selon les cas.

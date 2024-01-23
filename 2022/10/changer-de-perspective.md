@@ -1,6 +1,6 @@
 # Changer de perspective
 
-Depuis des semaines, le golfe du Lion vit dans la grisaille, une chape nuageuse moutonnante qui refuse de nous humidifier. La Méditerranée n’a jamais été aussi chaude pour une fin octobre, encore pas loin des vingt degrés sur nos rivages. Alors elle s’évapore et forme une brume d’altitude, qui perdurera jusqu’à ce que le mistral nous apporte le froid et le bleu.<span id="more-64439"></span>
+Depuis des semaines, le golfe du Lion vit dans la grisaille, une chape nuageuse moutonnante qui refuse de nous humidifier. La Méditerranée n’a jamais été aussi chaude pour une fin octobre, encore pas loin des vingt degrés sur nos rivages. Alors elle s’évapore et forme une brume d’altitude, qui perdurera jusqu’à ce que le mistral nous apporte le froid et le bleu.
 
 J’ai marché jusqu’au port du village, jusqu’au ponton où quelques pêcheurs espèrent des dorades complaisantes, mais elles ne daignent pas bouger vu les conditions exceptionnellement douces. Je me suis assis sur une des nouvelles passerelles destinées aux bateaux-bus, face à l’étang et à Sète, aussi à l’avenue du port, où j’ai passé mon enfance, où j’ai encore une maison, où ma mère habite. Et je trouve tout hideux, sans charme, sans unité, les enrobés défoncés, les trottoirs de béton mâchés, les crépis lépreux, et les voitures omniprésentes, rien de pensé pour le calme d’un siècle qui sera écologique ou ne sera pas.
 

@@ -1,6 +1,6 @@
 # Lire, jouer, écrire avec Lovecraft
 
-C'était une nuit de l’été 1984, fin août, un soir d'orage. Il pleuvait sur le parking de la résidence où je logeais à Montpellier, il pleuvait aussi autour du manoir que nous explorions à la recherche d’un assassin, suivi de meurtre en meurtre jusqu’à la demeure de son enfance.<span id="more-49341"></span>
+C'était une nuit de l’été 1984, fin août, un soir d'orage. Il pleuvait sur le parking de la résidence où je logeais à Montpellier, il pleuvait aussi autour du manoir que nous explorions à la recherche d’un assassin, suivi de meurtre en meurtre jusqu’à la demeure de son enfance.
 
 Sur la table, des bouteilles de Coca, de jus de fruit, des cendriers débordants de clopes, quelques dés, des figurines en plomb, jamais d’alcool, les esprits devaient rester clairs. Autour des étudiants, cheveux gras, mal sapés, mal rasés, yeux brillants. On ne les surnommait pas encore geeks. Mais voilà, ils étaient là, ils murmuraient pour ne pas attirer l’attention. Des gouttes d’eau dégoulinaient des arbres. Cloc. Cloc. Un grincement. Le goutte-à-goutte reprenait. Nous n’étions pas fiers, pourtant il fallait avancer. Pousser la porte vermoulue. Le vent s’était levé. Les branches d’un platane grattaient la façade du manoir. Ou peut-être c’était, dehors, vraiment je veux dire, sur le parking. Une tornade soulevait des feuilles mortes comme si nous étions en automne.
 

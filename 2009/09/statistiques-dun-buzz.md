@@ -4,7 +4,7 @@
 
 ![Traffic sur le billet](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/jlstat1.png)
 
-Voici les statistiques du billet sur [Twitter et les robots](http://blog.tcrouzet.com/2009/09/24/qui-a-la-plus-grosse-quequette-sur-twitter/). Si le décompte BackType est correct, il a été retwitté 157 fois pour 2 938 entrées via Twitter et 4236 entrées directes, dont une bonne part sans doute via les desktop Twitter. Dans le cas le plus favorable, cela donne 7174 visites directement imputables à Twitter, soit une base de 45 visites par retwitt.<span id="more-10601"></span>
+Voici les statistiques du billet sur [Twitter et les robots](http://blog.tcrouzet.com/2009/09/24/qui-a-la-plus-grosse-quequette-sur-twitter/). Si le décompte BackType est correct, il a été retwitté 157 fois pour 2 938 entrées via Twitter et 4236 entrées directes, dont une bonne part sans doute via les desktop Twitter. Dans le cas le plus favorable, cela donne 7174 visites directement imputables à Twitter, soit une base de 45 visites par retwitt.
 
 Rien d'extraordinaire. Un blogueur influent avait en 2006 la capacité de générer à lui seul 2000 visites ce qu'est incapable de faire un microblogueur ([voir analyse de Petites phrases](http://www.velico.net/sticky/)). En revanche, de proche en proche, on atteint le même effet, surtout quand on cumule avec Facebook. Si un jour Twitter a une véritable audience en France, les effets seronts ans doute démultipliés. À voir. Pour le moment tout cela reste très modeste.
 

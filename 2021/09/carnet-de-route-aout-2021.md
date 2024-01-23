@@ -4,7 +4,7 @@
 
 ### Dimanche 1<sup>er</sup>, Balaruc
 
-Je m’ennuie en société. Je n’écris que pour tromper cet ennui, que pour rechercher des relations satisfaisantes, souvent avec des personnes mortes depuis longtemps.<span id="more-60318"></span>
+Je m’ennuie en société. Je n’écris que pour tromper cet ennui, que pour rechercher des relations satisfaisantes, souvent avec des personnes mortes depuis longtemps.
 
 Hier une soirée, la première depuis presque deux ans, comme une aberration par temps de covid, j’ai croisé des gens que j’aime, mais sans aimer être parmi eux, peut-être à cause de la musique trop forte pour autoriser la moindre conversation.
 

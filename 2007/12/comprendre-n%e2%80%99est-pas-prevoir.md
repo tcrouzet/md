@@ -1,6 +1,6 @@
 # Comprendre n’est pas prévoir
 
-Depuis les Lumières, comprendre implique souvent prévoir. Newton découvrit comment prévoir les orbites planétaires. Laplace affirma la possibilité de tout prévoir. Ce dogme fut ébranlé par Poincaré en 1884 lorsqu’il montra l’impossibilité de solutionner analytiquement le problème des trois corps : nous avions beau connaître les lois de la gravitation, nous étions incapables de prévoir à long terme les orbites relatives de la Terre, de la Lune et du Soleil.<span id="more-683"></span>
+Depuis les Lumières, comprendre implique souvent prévoir. Newton découvrit comment prévoir les orbites planétaires. Laplace affirma la possibilité de tout prévoir. Ce dogme fut ébranlé par Poincaré en 1884 lorsqu’il montra l’impossibilité de solutionner analytiquement le problème des trois corps : nous avions beau connaître les lois de la gravitation, nous étions incapables de prévoir à long terme les orbites relatives de la Terre, de la Lune et du Soleil.
 
 Aujourd’hui, nous comprenons de mieux en mieux les phénomènes complexes au point d’être capables de les simuler avec une grande fidélité. Par exemple, nous savons simuler la construction grain à grain d’un tas de sable. Nous comprenons donc ce qui se passe. Néanmoins nous sommes incapables de prédire la taille des avalanches qui se produiront.
 

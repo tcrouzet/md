@@ -1,8 +1,10 @@
 # La désintégration du marché du livre
 
-Chaque année, il se vend un peu moins de livres : [-2,7 % en 2013 par rapport à 2012](http://www.actualitte.com/economie/une-annee-difficile-sur-le-marche-du-livre-bilan-2013-de-l-institut-gfk-48247.htm). Le plus inquiétant, c’est la concentration des achats sur les têtes de gondole. On avait espéré le contraire avec l’arrivée des librairies en ligne. [Chris Anderson avait théorisé l’avènement de la longue traîne.](http://fr.wikipedia.org/wiki/Longue_tra%C3%AEne) Un étalement des ventes sur des millions de références avec une perte de vitesse pour les best-sellers. On assiste au phénomène inverse. La courbe s’est certes allongée, mais elle s’est creusée démesurément. On a quelques titres qui vendent énormément, puis tous les autres qui se disputent des miettes.<span id="more-34471"></span>
+Chaque année, il se vend un peu moins de livres : [-2,7 % en 2013 par rapport à 2012](http://www.actualitte.com/economie/une-annee-difficile-sur-le-marche-du-livre-bilan-2013-de-l-institut-gfk-48247.htm). Le plus inquiétant, c’est la concentration des achats sur les têtes de gondole. On avait espéré le contraire avec l’arrivée des librairies en ligne. [Chris Anderson avait théorisé l’avènement de la longue traîne.](http://fr.wikipedia.org/wiki/Longue_tra%C3%AEne) Un étalement des ventes sur des millions de références avec une perte de vitesse pour les best-sellers. On assiste au phénomène inverse. La courbe s’est certes allongée, mais elle s’est creusée démesurément. On a quelques titres qui vendent énormément, puis tous les autres qui se disputent des miettes.
 
 ![On devait passer de la courbe bleue à la courbe rouge, le contraire se produit.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/02/2000px-Longtail.svg_.png)
+
+On devait passer de la courbe bleue à la courbe route, le contraire se produit.
 
 Conclusion : les lecteurs sont de plus en plus moutonniers, de moins en moins curieux. Et Chris Anderson s’est trompé pour au moins quatre raisons :
 

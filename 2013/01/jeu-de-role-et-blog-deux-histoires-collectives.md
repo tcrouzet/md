@@ -1,6 +1,6 @@
 # Jeu de rôle et blog&nbsp;: deux histoires collectives
 
-J’approche à grands pas de la cinquantaine, cela me donne le privilège de voir se dessiner des époques de ma vie. Deux se démarquent : jeu de rôle et blog.<span id="more-30574"></span>
+J’approche à grands pas de la cinquantaine, cela me donne le privilège de voir se dessiner des époques de ma vie. Deux se démarquent : jeu de rôle et blog.
 
 Leurs souvenirs surnagent au-dessus des autres par leur saillance, leur durée psychologique, l’exaltation qui les accompagne, cette impression d’avoir un instant soulevé un voile de la réalité, d’être entré dans une terre *incognita* (effet que ne m’a jamais procuré la grande vie dans les jets et les palaces).
 

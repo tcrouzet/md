@@ -4,7 +4,7 @@
 
 ### Lundi 2, Balaruc
 
-Je prends du plaisir à écrire mes récits à vélo, comme si j’avais trouvé une forme, un ton, je fais du Crouzet sans me poser de question. Je suis si loin de tout ce que j’avais imaginé produire. Mon grand œuvre se transforme en quelque chose qui frise le minimalisme, et ça me contente parce que ma vie s'y engage, de mon cerveau à mon corps, pas l’un sans l’autre. Dois-je me contenter de ces récits ou me lancer dans une œuvre parallèle, mais qui ne pourra qu’adopter la même forme ? Je ne sais toujours pas, j’esquive depuis la fin du livre sur mon père.<span id="more-56486"></span>
+Je prends du plaisir à écrire mes récits à vélo, comme si j’avais trouvé une forme, un ton, je fais du Crouzet sans me poser de question. Je suis si loin de tout ce que j’avais imaginé produire. Mon grand œuvre se transforme en quelque chose qui frise le minimalisme, et ça me contente parce que ma vie s'y engage, de mon cerveau à mon corps, pas l’un sans l’autre. Dois-je me contenter de ces récits ou me lancer dans une œuvre parallèle, mais qui ne pourra qu’adopter la même forme ? Je ne sais toujours pas, j’esquive depuis la fin du livre sur mon père.
 
 ### Mardi 5, Balaruc
 

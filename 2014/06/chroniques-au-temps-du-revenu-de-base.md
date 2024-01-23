@@ -1,6 +1,6 @@
 # Chroniques au temps du revenu de base
 
-L’idée du [revenu de base](http://blog.tcrouzet.com/tag/revenu-de-base/) progresse, mais elle reste moins défendue que les vieilles approches corporatistes et défensives, [comme en témoigne la crise des intermittents](http://blog.tcrouzet.com/2014/06/13/crise-des-intermittents-une-belle-opportunite/). Nous devons donc poursuivre les explications théoriques, sans oublier les métaphores.<span id="more-36028"></span>
+L’idée du [revenu de base](http://blog.tcrouzet.com/tag/revenu-de-base/) progresse, mais elle reste moins défendue que les vieilles approches corporatistes et défensives, [comme en témoigne la crise des intermittents](http://blog.tcrouzet.com/2014/06/13/crise-des-intermittents-une-belle-opportunite/). Nous devons donc poursuivre les explications théoriques, sans oublier les métaphores.
 
 Et pour commencer, nous devrions inventer un futur proche où le RdB serait instauré et tenter d’y imaginer la vie, tout simplement et avec réalisme. Construire une simulation littéraire. On me suggère de plus en plus souvent d’écrire un roman ou une nouvelle sur ce thème (aller plus loin qu’avec [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/) en 2010). J’évoque cette idée et immédiatement [Neil Jomunsi](https://twitter.com/NeilJomunsi/status/477410627527671809) propose d’écrire aussi une nouvelle, puis [Lionel Dricot](https://twitter.com/ploum/status/477411068047015936). Alors oui, pourquoi ne pas construire un recueil.
 
@@ -8,7 +8,7 @@ Postulat de départ : la zone euro verse un revenu de base à tous ses ressorti
 
 Et pourquoi en prime ne pas en faire un projet d’écriture. Travailler dans le même univers, que chaque nouvelle viendrait sculpter, sur le mode de la série, avec une trame globale. Il faudrait qu’on soit douze pour la saison 1 (en respectant la parité).
 
-<a name="rdb"></a>Participants, par ordre alphabétique :
+Participants, par ordre alphabétique :
 
 1. [Lilian Bathelot](http://lilian.bathelot.free.fr/)
 

@@ -1,6 +1,6 @@
 # Éloge du GPS
 
-S’il y a des cyclistes vintage, je suis du genre geek. J’aime mon GPS, je pense même qu’il contribue grandement à la révolution du vélo d’aventure.<span id="more-51225"></span>
+S’il y a des cyclistes vintage, je suis du genre geek. J’aime mon GPS, je pense même qu’il contribue grandement à la révolution du vélo d’aventure.
 
 J’aime aussi les cartes papier, j’aime les dérouler devant moi, plonger en elles, voyager en imaginaire avec elles, attiré par leurs couleurs pastel, mais j’ai renoncé à les utiliser, que ce soit lors de la préparation de mes sorties ou durant les sorties elles-mêmes.
 

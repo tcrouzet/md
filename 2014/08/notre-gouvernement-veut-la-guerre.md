@@ -1,6 +1,6 @@
 # Notre gouvernement veut la guerre
 
-Vous avez bien lu. Chaque fois qu’un membre de la bande à Hollande prononce le mot « croissance », traduisez « guerre » (et je n’évoque même pas les guerres intestines de cette bande d’incapables).<span id="more-36814"></span>
+Vous avez bien lu. Chaque fois qu’un membre de la bande à Hollande prononce le mot « croissance », traduisez « guerre » (et je n’évoque même pas les guerres intestines de cette bande d’incapables).
 
 Guerre bien sûr à la biosphère, ce qui devrait éloigner tout écologiste de cette engeance, mais surtout guerre contre l’homme, guerre avec des bombes et des morts, une guerre qui ne pourra éternellement se jouer loin de chez nous.
 

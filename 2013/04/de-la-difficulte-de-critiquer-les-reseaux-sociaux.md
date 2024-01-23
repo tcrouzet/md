@@ -1,6 +1,6 @@
 # De la difficulté de critiquer les réseaux sociaux
 
-Le web contemporain passe par les Facebook, Twitter, Google+… Le trafic naturel des sites s'amenuise. Il dépend de la recommandation sociale, tout autant que de recherches plus ou moins aléatoires.<span id="more-32466"></span>
+Le web contemporain passe par les Facebook, Twitter, Google+… Le trafic naturel des sites s'amenuise. Il dépend de la recommandation sociale, tout autant que de recherches plus ou moins aléatoires.
 
 Alors critiquer les réseaux sociaux comme je le fais dans ma série [Slow connexion](http://blog.tcrouzet.com/tag/slow-connexion/), c'est dresser devant les yeux mêmes des usagers de ces réseaux sociaux un miroir dans lequel ils n'ont pas envie de tourner leur regard.
 

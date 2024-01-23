@@ -1,6 +1,6 @@
 # Garder ses droits numériques, c’est rester auteur
 
-J’ai plusieurs fois proposé à Fayard de mettre à jour la version ebook de [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), ajouter des textes publiés sur le blog, aussi faire le point au fil des mois et des années.<span id="more-36641"></span>
+J’ai plusieurs fois proposé à Fayard de mettre à jour la version ebook de [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), ajouter des textes publiés sur le blog, aussi faire le point au fil des mois et des années.
 
 Réponse. « Ça ne se fait pas » ou « Si on le fait pour toi, il faudra le faire pour tous les auteurs. — Mais ils vous le demandent les autres auteurs ? » Mes questions finissent par devenir embarrassantes. Pour les éditeurs, les ebooks ont le même statut que les livres papier, on n’y touche plus après publication.
 

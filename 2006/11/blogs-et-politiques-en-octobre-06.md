@@ -1,6 +1,6 @@
 # Blogs et politiques en octobre 06
 
-Comme tous les premiers de mois, je m’essaie à un rapide bilan de la Web politique en analysant les statistiques [bonVote](http://www.bonVote.com).<span id="more-261"></span>
+Comme tous les premiers de mois, je m’essaie à un rapide bilan de la Web politique en analysant les statistiques [bonVote](http://www.bonVote.com).
 
 ![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/200611pie.png) 
 

@@ -1,6 +1,6 @@
 # Ératosthène : le premier roman d’une rentrée littéraire avec 100 pages de plus en ebook qu’en papier
 
-Tout est dans le titre. C’est un jeu de journaliste. Chercher les premières, même les plus insignifiantes. Reste que cette affirmation est sans doute avérée pour [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).<span id="more-36874"></span>
+Tout est dans le titre. C’est un jeu de journaliste. Chercher les premières, même les plus insignifiantes. Reste que cette affirmation est sans doute avérée pour [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).
 
 Au-delà des faits, oui la version ebook est plus riche que la version papier, et pas avec une vidéo ou des photos, mais avec une continuation du roman, avec un texte qui en change peut-être le statut.
 
@@ -16,6 +16,8 @@ Pour moi, il s’est toujours agi d’une écriture Web, la succession des table
 
 Reste à savoir pourquoi sur les 600 romans publiés pour la rentrée 2014 un seul peut-être sera étendu sur le Web ? Je ne peux pas accuser les éditeurs de conservatisme, leur objectif étant commercial et non esthétique, mais pourquoi les auteurs se limitent-ils au papier ? Pourquoi réduisent-ils leurs possibilités ? La littérature papier a-t-elle tout simplement déserté le champ du littéraire ?
 
-![Un petit pavé dans bibliothèque.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/betabook-600x790.jpg)
+![Un petit pavé dans bibliothèque.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/betabook-600x790.jpg)Un petit pavé dans bibliothèque.
+
+
 
 Tags: Ératosthène, une

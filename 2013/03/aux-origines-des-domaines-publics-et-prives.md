@@ -1,6 +1,6 @@
 # Aux origines des domaines publics et privés
 
-Pour certains extrémistes libéraux, la propriété privée doit s’étendre à tout, l’État doit s’effacer. Pour les ultracommunistes 2.0, elle doit disparaître, tout doit devenir public.<span id="more-31710"></span>
+Pour certains extrémistes libéraux, la propriété privée doit s’étendre à tout, l’État doit s’effacer. Pour les ultracommunistes 2.0, elle doit disparaître, tout doit devenir public.
 
 Ces deux positions sont absurdes. Dès qu’on s’interroge sur la notion même de vivant, bien avant l’apparition des premières consciences, on découvre la propriété privée. Une cellule se constitue en créant une membrane entre elle et l’extérieur, une peau qui la délimite, sépare ce qui lui appartient de ce qui est public.
 

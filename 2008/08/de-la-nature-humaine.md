@@ -1,6 +1,6 @@
 # De la nature humaine
 
-Lorsque je parle d’auto-organisation et de décentralisation, on me reproche de ne pas prendre en compte la nature humaine. C’est un grand classique comme si moi-même je n’étais pas humain.<span id="more-2536"></span>
+Lorsque je parle d’auto-organisation et de décentralisation, on me reproche de ne pas prendre en compte la nature humaine. C’est un grand classique comme si moi-même je n’étais pas humain.
 
 Tout d’abord qui connaît cette nature ? Qui sait où la trouver ? Elle se cache dans quel coin de notre cerveau ? Qui sait la définir ? Vercors avec ses [*Animaux dénaturés*](http://www.amazon.fr/Animaux-d%C3%A9natur%C3%A9s-Vercors/dp/2253010235/) n’a-t-il pas montré que c’était impossible ?
 

@@ -1,6 +1,6 @@
 # L’écriture Web et le temps long
 
-Depuis que je publie en ligne, [pour la première fois en 1996](http://lab.tcrouzet.com/sicile1996/), je ne vois plus le monde de la même façon, et en conséquence la littérature aussi. Pratiquer le [Send](http://blog.tcrouzet.com/tag/send/) me place sur un rythme, un jaillissement, une éjaculation constante, mais ce n’est pas pour autant que je publie tout ce que j’écris immédiatement en ligne.<span id="more-34344"></span>
+Depuis que je publie en ligne, [pour la première fois en 1996](http://lab.tcrouzet.com/sicile1996/), je ne vois plus le monde de la même façon, et en conséquence la littérature aussi. Pratiquer le [Send](http://blog.tcrouzet.com/tag/send/) me place sur un rythme, un jaillissement, une éjaculation constante, mais ce n’est pas pour autant que je publie tout ce que j’écris immédiatement en ligne.
 
 Souvent, je restreins le Send, parce que quelque chose m’échappe, et parce que si je le lâche, ça m’échappera à jamais, je serai incapable de le ressaisir, le creuser, le détruire pour tout recommencer.
 
@@ -29,6 +29,8 @@ Ces espèces de spores me permettent après un long travail, ou même un travail
 Le Web n’est qu’un îlot du monde numérique, un petit archipel, une lune minuscule dans une structure en expansion démesurée, bientôt peuplé d’entités qui nous subjugueront. C’est être numérique qui importe. Passer de la matière aux bits. Finalement, il ne restera que l’écriture, que notre style, que notre vigueur, que des informations libérées de leur cocon de naissance. Le Web sera aussi lointain que le papier. Alors nous devons nous battre pour imaginer des cellules assez belles pour qu’elles survivent aux aléas des métamorphoses technologiques. Elles doivent s’en nourrir et s’en libérer dans le même mouvement.
 
 ![Pas de plus belle image du temps long selon moi.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/soir.jpg)
+
+Pas de plus belle image du temps long selon moi.
 
 
 

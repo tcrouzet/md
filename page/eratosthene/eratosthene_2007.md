@@ -2,15 +2,12 @@
 
 ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/beta/beta_couvbig.jpg)
 
-**Descriptif**
-
 Genre : roman historique, essai, je ne sais plus trop
 
 Pagination : 360
 
 Statut : V2 (texte non définitif)
-
-**Commander les épreuves** [V2 sur lulu.com](http://www.lulu.com/browse/book_view.php?fCID=1163516) (13,01 euros port compris, je ne prends aucune marge)
+ [V2 sur lulu.com](http://www.lulu.com/browse/book_view.php?fCID=1163516) (13,01 euros port compris, je ne prends aucune marge)
 
 Work in progress
 ----------------

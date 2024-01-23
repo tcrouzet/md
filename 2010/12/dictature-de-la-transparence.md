@@ -1,6 +1,6 @@
 # Wikileaks : dictature de la transparence ou transparence de la dictature ?
 
-Vendredi 3 décembre 2010, Paris, mi-journée. Les plus vieux parmi nous se souviennent peut-être. Une déclaration anodine d’un politicien insignifiant initia le début de la grande récession.<span id="more-20705"></span>
+Vendredi 3 décembre 2010, Paris, mi-journée. Les plus vieux parmi nous se souviennent peut-être. Une déclaration anodine d’un politicien insignifiant initia le début de la grande récession.
 
 Les historiens déterministes aiment comparer l’évènement à l’assassinat de l’archiduc Ferdinand à l’origine de la Première Guerre mondiale. Les historiens stochastiques préfèrent parler d’un faisceau d’évènements qui entrèrent en résonance et poussèrent l’humanité au-delà du point de bascule. Ils insistent sur le contexte. La crise économique qui commençait, la crise écologique qui s’accentuait. L’accumulation des dérèglements impliquait une trajectoire catastrophique.
 

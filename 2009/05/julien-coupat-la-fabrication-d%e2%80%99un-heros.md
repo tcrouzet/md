@@ -1,6 +1,6 @@
 # Julien Coupat : la fabrication d’un héros
 
-Le cinquième pouvoir ne cohabitera pas éternellement avec les pouvoirs centralisés qui ont pour fâcheuse tendance d’épuiser la planète et d’épuiser les hommes, les berçant de quelques illusions mercantiles pour replacer le vieil opium des religions.<span id="more-6774"></span>
+Le cinquième pouvoir ne cohabitera pas éternellement avec les pouvoirs centralisés qui ont pour fâcheuse tendance d’épuiser la planète et d’épuiser les hommes, les berçant de quelques illusions mercantiles pour replacer le vieil opium des religions.
 
 En mars 2008, j’évoquais [la puissance de la guérilla](http://blog.tcrouzet.com/2008/03/30/la-premiere-puissance-mondiale-c%E2%80%99est-la-guerilla/). Quand, à l’automne, [j’ai vu que quelques caténaires sautaient, je me suis dit qu’on y était](http://blog.tcrouzet.com/2008/11/10/sncf-hors-tension/), c’était le début, les premières expériences grandeur nature.
 

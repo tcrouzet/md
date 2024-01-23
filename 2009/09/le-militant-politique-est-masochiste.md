@@ -1,6 +1,6 @@
 # Le militant politique est masochiste
 
-Je ne me suis jamais trop intéressé à la politique politicienne, moins aujourd’hui que jamais, mais comme l’université d’été du Modem se déroulait près de chez moi, j’y suis passé faire un tour. Je voulais y retrouver des amis. Quand j’arrive samedi en fin d’après-midi, l’un d’eux m’envoie un SMS : « C’est un parti mort qui réunit ses vieux. Un vrai piège… Je me suis barré. »<span id="more-9512"></span>
+Je ne me suis jamais trop intéressé à la politique politicienne, moins aujourd’hui que jamais, mais comme l’université d’été du Modem se déroulait près de chez moi, j’y suis passé faire un tour. Je voulais y retrouver des amis. Quand j’arrive samedi en fin d’après-midi, l’un d’eux m’envoie un SMS : « C’est un parti mort qui réunit ses vieux. Un vrai piège… Je me suis barré. »
 
 En attendant Virginie Votier et sa troupe de « jeunes engagés », j’observe les allers-venues, de loin, je picore des conversations moroses où il est question d’alliance ou non avec le PS, d’élections, encore d’élections, jamais d’idées, juste de tactique. Les plus jeunes ont d’ailleurs trouvé une meilleure occupation, ils jouent au poker. Le Modem ressemble à une grande famille, un Club Med où on s’emmerde, avec une animatrice qui organise des trivial pursuit pitoyables. Ambiance troisième âge. Une jeune journaliste ne cessait de bailler.
 
@@ -55,11 +55,8 @@ Pendant ce temps, au Modem, on rêve encore de changer la politique. Imaginez un
 C’est pas un bug ça ?
 
 Le Modem vend du vent, une promesse mystique d’un autre politique possible, une politique du vide… le vide autour de soi comme réussit à le faire François Bayrou. Peut-être qu’une fois totalement seul, débarrassé même de son inséparable Marielle de Sarnez, il pourrait commencer à se reconstruire et à penser au produit.
-
-**Premier conseil** : perdre du poids et aller faire des randonnées dans les Pyrénées dans les environ de Pau.
-
-**Deuxième conseil** : pas d’alliance à gauche mais avec les écologistes.
-
-**Troisième conseil** : ne pas se brûler les ailes lors des régionales, se concentrer sur 2012, construire une idéologie novatrice, prendre de la distance avec justement la politique traditionnelle.
+ : perdre du poids et aller faire des randonnées dans les Pyrénées dans les environ de Pau.
+ : pas d’alliance à gauche mais avec les écologistes.
+ : ne pas se brûler les ailes lors des régionales, se concentrer sur 2012, construire une idéologie novatrice, prendre de la distance avec justement la politique traditionnelle.
 
 Tags: Modem, Politique

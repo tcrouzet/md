@@ -1,6 +1,6 @@
 # Les vers rongent Internet et vous ?
 
-Ces petites bêtes ne s’attaquent pas qu’à la pomme, elles s’attaquent à tout ce qui pourrait contrecarrer [les structures d’autorité et de domination](http://blog.tcrouzet.com/2010/02/11/anarchisme-emancipation/). Il serait dangereux de croire qu’Internet est dorénavant hors de danger, que nous l’avons gagné, qu’il est un de nos droits inaliénables, que tous les hommes pourront un jour utiliser en toute liberté.<span id="more-14545"></span>
+Ces petites bêtes ne s’attaquent pas qu’à la pomme, elles s’attaquent à tout ce qui pourrait contrecarrer [les structures d’autorité et de domination](http://blog.tcrouzet.com/2010/02/11/anarchisme-emancipation/). Il serait dangereux de croire qu’Internet est dorénavant hors de danger, que nous l’avons gagné, qu’il est un de nos droits inaliénables, que tous les hommes pourront un jour utiliser en toute liberté.
 
 ### Tuyaux propriétaires
 

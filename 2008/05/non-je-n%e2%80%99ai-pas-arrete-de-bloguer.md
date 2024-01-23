@@ -1,6 +1,6 @@
 # Non, je n’ai pas arrêté de bloguer
 
-Je passe juste mon temps à écrire mon prochain livre, *Ératosthène*, et, tous les jours, je me dis que je vais écrire en plus un billet, celui-ci par exemple, et tous les jours le temps passe et je n’écris pas mon billet. Hier, [Pacco](http://www.mae-bd.fr) m’a envoyé un dessin qui me force la main.<span id="more-796"></span>
+Je passe juste mon temps à écrire mon prochain livre, *Ératosthène*, et, tous les jours, je me dis que je vais écrire en plus un billet, celui-ci par exemple, et tous les jours le temps passe et je n’écris pas mon billet. Hier, [Pacco](http://www.mae-bd.fr) m’a envoyé un dessin qui me force la main.
 
 J’ai toujours mené de front deux modes d’écriture, celui fulgurant propre au carnet, donc au blog, et celui plus continu et plus réflexif du livre. Souvent, ils n’ont pas été exclusifs chez moi mais maintenant avec les enfants, [coZop](http://cozop.com) et mes autres sites je manque de temps pour tout concilier. C’est donc le blog qui trinque. Franchement, je trouve que c’est une bonne chose.
 

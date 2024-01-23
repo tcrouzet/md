@@ -1,6 +1,6 @@
 # Le livre augmenté est une impasse marketing
 
-Je suis peut-être fermé, mais je n’ai jamais cru à cette idée du livre enrichi de vidéos et de musiques, à ce livre vaguement interactif pour tablette, dont on nous rebat les oreilles quand on évoque l’avenir du livre.<span id="more-31915"></span>
+Je suis peut-être fermé, mais je n’ai jamais cru à cette idée du livre enrichi de vidéos et de musiques, à ce livre vaguement interactif pour tablette, dont on nous rebat les oreilles quand on évoque l’avenir du livre.
 
 > À tout nouveau média correspond une nouvelle écriture.
 

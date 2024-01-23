@@ -1,6 +1,6 @@
 # Les blogueurs sont tous des cons
 
-Je vous rassure, je suis aussi un con. Que faisons-nous ? Nous ne cessons de parler des médias traditionnels et de linker vers eux. Nous leur donnons ainsi un poids démesuré dans l’écosystème du Web.<span id="more-13349"></span>
+Je vous rassure, je suis aussi un con. Que faisons-nous ? Nous ne cessons de parler des médias traditionnels et de linker vers eux. Nous leur donnons ainsi un poids démesuré dans l’écosystème du Web.
 
 De leur côté, ils parlent peu de nous, nous linkent encore moins souvent, parfois même en nofollow (pour éviter que Google remonte jusqu’à nous). Nous sommes les dindons de la farce. Ils refusent d’entrer dans le système ouvert du Flux et dans ses boucles de rétroaction. Avez-vous noté qu'il n'y a jamais de liens dans leurs textes !
 

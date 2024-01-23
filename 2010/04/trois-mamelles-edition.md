@@ -1,6 +1,6 @@
 # Les trois mamelles de l’édition
 
-Quand je travaillais dans la presse pour Ziff-Davis, [Bill Ziff](http://en.wikipedia.org/wiki/William_Bernard_Ziff,_Jr.) nous parlait toujours du triangle relationnel qui régissait le business. Une relation d’amour-haine entre la rédaction, la diffusion et la publicité. Qu’un de ces pôles faiblisse et les deux autres en pâtissaient immédiatement.<span id="more-15755"></span>
+Quand je travaillais dans la presse pour Ziff-Davis, [Bill Ziff](http://en.wikipedia.org/wiki/William_Bernard_Ziff,_Jr.) nous parlait toujours du triangle relationnel qui régissait le business. Une relation d’amour-haine entre la rédaction, la diffusion et la publicité. Qu’un de ces pôles faiblisse et les deux autres en pâtissaient immédiatement.
 
 Je pourrais prendre un seul exemple : le mensuel *Wired* qui, aujourd’hui, se transforme peu à peu en feuille de chou. Moins de pub que jamais et des articles plus médiocres que jamais. Je ne connais pas les chiffres de diffusion, mais je les imagine catastrophiques.
 

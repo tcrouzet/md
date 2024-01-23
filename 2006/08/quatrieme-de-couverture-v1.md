@@ -1,6 +1,6 @@
 # Quatrième de couverture, v.1
 
-Dans quelques jours, mon prochain livre, [*Le cinquième pouvoir*](http://blog.tcrouzet.com/2006/08/22/le-cinquieme-pouvoir/) sera annoncé au réseau des libraires. Voici un premier jet de quatrième de couverture. À partir de ce brouillon, mon éditeur développera son argumentaire marketing :<span id="more-200"></span>
+Dans quelques jours, mon prochain livre, [*Le cinquième pouvoir*](http://blog.tcrouzet.com/2006/08/22/le-cinquieme-pouvoir/) sera annoncé au réseau des libraires. Voici un premier jet de quatrième de couverture. À partir de ce brouillon, mon éditeur développera son argumentaire marketing :
 
 Nous vivons une époque extraordinaire. Alors que les pessimistes se plaignent que rien ne change, nous réinventons pas moins que les fondements de notre société, à commencer par les règles qui régissent nos démocraties.
 

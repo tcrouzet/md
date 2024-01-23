@@ -1,6 +1,6 @@
 # L’auto-publication pour les nuls
 
-Des amis auteurs, pas très doués en informatique, me demandent parfois de les aider à s’auto-publier, chaque fois je leur dis que c’est simple et j’en reste là, jusqu’à ce qu’en juin dernier je leur propose une petite journée de formation, qui s’est avérée catastrophique tant j’ai été ambitieux.<span id="more-46327"></span>
+Des amis auteurs, pas très doués en informatique, me demandent parfois de les aider à s’auto-publier, chaque fois je leur dis que c’est simple et j’en reste là, jusqu’à ce qu’en juin dernier je leur propose une petite journée de formation, qui s’est avérée catastrophique tant j’ai été ambitieux.
 
 Nous avons buté sur l’étape initiale de la préparation du texte, étape dont les auteurs professionnels se préoccupent souvent peu, car ils la délèguent à leurs éditeurs. Paradoxalement, il nous faut être plus professionnels quand nous nous auto-publions. Nous devons maîtriser la chaîne du livre d’un bout à l’autre. Pour commencer, nos fichiers doivent être d’une propreté irréprochable, pour peu que nous souhaitions obtenir des rendus impeccables tant en version papier qu’électronique.
 

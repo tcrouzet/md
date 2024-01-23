@@ -1,6 +1,6 @@
 # Pourquoi pédalez-vous ?
 
-J’entends souvent dire : à vélo, chacun sa pratique, chacun fait ce qu’il veut. Chaque fois je bondis, parce que si je peux faire ce que je veux à vélo pourquoi pas avec mon logement, ma voiture, mon argent, mes ordures, mes goûts de luxe, mon entreprise…<span id="more-61108"></span>
+J’entends souvent dire : à vélo, chacun sa pratique, chacun fait ce qu’il veut. Chaque fois je bondis, parce que si je peux faire ce que je veux à vélo pourquoi pas avec mon logement, ma voiture, mon argent, mes ordures, mes goûts de luxe, mon entreprise…
 
 Il s’agit d’un classique problème de philosophie abondamment discuté par Wittgenstein. Où mettre le curseur ? Quand est-ce que ce qui est bon pour le vélo n’est plus bon pour d’autres pratiques ? De proche en proche, on peut glisser d’une pratique « acceptable » à une autre qui ne l’est pas. La seule façon d’en sortir est d’éviter les positions à géométrie variable.
 

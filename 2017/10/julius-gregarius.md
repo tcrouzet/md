@@ -1,6 +1,6 @@
 # Julius Gregarius
 
-Quand Philippe Charrier m’a demandé d’imaginer les modes d'accès aux connaissances et à la culture en 2057, à l’occasion des 40 ans de la Bibliothèque publique d'information du Centre Beaubourg, je lui ai tout de suite dit que je ne pouvais l’envisager que sous la forme d’une fiction, tout simplement parce que je ne crois pas qu’il soit possible de prévoir le futur, à moins d’avoir un sacré coup de chance.<span id="more-45818"></span>
+Quand Philippe Charrier m’a demandé d’imaginer les modes d'accès aux connaissances et à la culture en 2057, à l’occasion des 40 ans de la Bibliothèque publique d'information du Centre Beaubourg, je lui ai tout de suite dit que je ne pouvais l’envisager que sous la forme d’une fiction, tout simplement parce que je ne crois pas qu’il soit possible de prévoir le futur, à moins d’avoir un sacré coup de chance.
 
 Et puis, j’ai découvert Julius Gregarius. Comme moi, il y a peu de temps, vous ne le connaissiez sans doute pas. Sur Wikipédia, on ne trouve de fiche à son nom qu’en napolitain, pourtant il était un maître, un des plus grands que l’humanité ait connus, aussi grand par sa discrétion que par l’étendu de ses savoirs. Dans *Le Jeu des perles de verre*, Herman Hesse aurait pu faire de lui un Magister, et à mon tour je me dois de me faire son porte-parole pour imaginer la bibliothèque en 2057.
 

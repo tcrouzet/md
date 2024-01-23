@@ -1,6 +1,6 @@
 # Édition : ne pas changer pour rien
 
-Au milieu des années 1990, j’avais un ami photographe à qui je conseillais sans cesse de passer au tout numérique. Il a rechigné, prétextant qu’il y aurait toujours de l’argentique. Tous les jours depuis dix ans, je discute avec des gens qui me disent qu’il y aura toujours du papier. Mais pourquoi ne pas regarder la réalité en face ? Pourquoi avoir peur du changement ?<span id="more-19566"></span>
+Au milieu des années 1990, j’avais un ami photographe à qui je conseillais sans cesse de passer au tout numérique. Il a rechigné, prétextant qu’il y aurait toujours de l’argentique. Tous les jours depuis dix ans, je discute avec des gens qui me disent qu’il y aura toujours du papier. Mais pourquoi ne pas regarder la réalité en face ? Pourquoi avoir peur du changement ?
 
 Nous en sommes aujourd’hui avec l’édition électronique dans la même situation que la photographie à la fin des années 1990. Dans dix ans, il n’y aura plus de papier, sinon chez quelque bouquinistes. Avec cette prévision, je me trompe peut-être de quelques années, guère plus. Bien sûr que des catastrophes peuvent tout remettre en cause, mais nous approchons du point de bascule.
 

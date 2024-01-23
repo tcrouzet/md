@@ -12,7 +12,6 @@
 
 - [Blog](/tag/jai-debranche/)
 
-
 Un récit familial
 -----------------
 
@@ -24,13 +23,9 @@ Un récit familial
 
 ##### **papier 17.39 €** : [Amazon](http://www.amazon.fr/gp/product/2213666156/ref=as_li_tf_tl?ie=UTF8&tag=thiercrouz-21&linkCode=as2&camp=1642&creative=6746&creativeASIN=2213666156), [Decitre](http://www.decitre.fr/livres/J-ai-debranche.aspx/9782213666150), [Eyrolles](http://www.eyrolles.com/Informatique/Livre/j-ai-debranche-9782213666150), [Fnac](http://livre.fnac.com/a3787727/Thierry-Crouzet-J-ai-debranche-comment-revivre-sans-Internet-apres-une-overdose).
 
-
-
 Au début, vous regardiez vos mails une ou deux fois par jour. Combien de fois le faites-vous aujourd’hui ? Vous arrive-t-il de consulter vos messages compulsivement toutes les cinq minutes, comme si votre vie en dépendait ? Cherchez-vous parfois votre mobile avec plus de fébrilité que vos clés ? En un mot, seriez-vous accro à internet ? Cet outil inventé pour nous aider à mieux communiquer ferait-il de nous des esclaves ?
 
 Épuisé par quinze ans d’hyperactivité en ligne, Thierry Crouzet, gourou des réseaux sociaux et auteur de nombreux ouvrages sur les nouvelles technologies, entame une cure de désintoxication. Il prévient ses milliers d’amis Facebook et Twitter qu’il les quitte durant six mois. Il disparaît du Net pour se sevrer. Au fil des jours, il nous raconte avec humour ses crises de manque, sa vie « débranchée », puis comment il se reconstruit, en quête d’un art de vitre à l’époque d’internet.
-
-
 
 ### Présentation
 

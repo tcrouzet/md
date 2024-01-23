@@ -1,6 +1,6 @@
 # La liberté mène-t-elle droit à l’esclavage ?
 
-Depuis mes [derniers articles sur la liberté](http://tcrouzet.com/tag/liberte/), cette question me turlupine. La liberté excessive dont nous disposons sur le Net, celle par exemple de prendre une photo et de la publier tout de suite, n’est-elle pas une condition préliminaire à la servitude volontaire, avant qu’elle ne devienne servitude tout court ?<span id="more-44786"></span>
+Depuis mes [derniers articles sur la liberté](http://tcrouzet.com/tag/liberte/), cette question me turlupine. La liberté excessive dont nous disposons sur le Net, celle par exemple de prendre une photo et de la publier tout de suite, n’est-elle pas une condition préliminaire à la servitude volontaire, avant qu’elle ne devienne servitude tout court ?
 
 Comment est apparu l’esclavage ? C’est un mystère. [Une hypothèse](http://www.antiquite.ac-versailles.fr/esclaves/servi02.htm) : on prenait les prisonniers de guerre et on leur imposait des travaux forcés. Qui dit travaux, dit une forme de sédentarisme. On imagine mal des chasseurs-cueilleurs imposer à leurs esclaves d’aller chasser ou cueillir, deux activités qui exigent une grande liberté de mouvement. Leurs prisonniers, ils les mangeaient ou les tuaient.
 

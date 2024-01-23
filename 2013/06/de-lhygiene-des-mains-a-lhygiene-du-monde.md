@@ -1,6 +1,6 @@
 # De l’hygiène des mains à l’hygiène du monde
 
-Une vidéo résume mon état mental du moment. Comment en améliorant la santé des patients dans les hôpitaux on pourrait améliorer la santé de notre monde, non pas seulement sur le plan médical, mais aussi sur le plan social, spirituel et pourquoi pas économique.<span id="more-33141"></span>
+Une vidéo résume mon état mental du moment. Comment en améliorant la santé des patients dans les hôpitaux on pourrait améliorer la santé de notre monde, non pas seulement sur le plan médical, mais aussi sur le plan social, spirituel et pourquoi pas économique.
 
 Je fais des footings un jour sur deux, ou presque. Et je me rends compte que mon corps se tend, se redresse, que je vois plus loin. J’imagine qu’une population moins souffreteuse serait plus optimiste, plus tournée vers l’avenir et qu’elle accepterait plus facilement de se saisir des idées politiques émergentes.
 

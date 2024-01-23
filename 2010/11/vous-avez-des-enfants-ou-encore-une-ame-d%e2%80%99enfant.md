@@ -1,6 +1,6 @@
 # Vous avez des enfants ou encore une âme d’enfant
 
-Plus je croise de digital natives, plus leur ignorance du monde numérique m’atterre. Ça me fait peur. Sans connaître les grands principes de cet univers, ils ne pourront que rester de simples utilisateurs. Jamais ils ne seront des citoyens du cyberspace et le premier dictateur venu les mènera par le bout du nez.<span id="more-20447"></span>
+Plus je croise de digital natives, plus leur ignorance du monde numérique m’atterre. Ça me fait peur. Sans connaître les grands principes de cet univers, ils ne pourront que rester de simples utilisateurs. Jamais ils ne seront des citoyens du cyberspace et le premier dictateur venu les mènera par le bout du nez.
 
 L’ignorance est la porte ouverte au totalitarisme. Pour que les générations qui arrivent ne se laissent pas asservir, il faut leur expliquer les dessous des ordinateurs et d’Internet.
 

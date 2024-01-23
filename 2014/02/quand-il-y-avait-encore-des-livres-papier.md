@@ -1,6 +1,6 @@
 # Quand il y avait encore des livres papier
 
-À cette époque, on croyait que les livres et les ebooks se partageraient le marché. Lorsque la progression des ebooks s’était stabilisée un temps à 30 % aux USA, certains avaient même pensé que les choses en resteraient à ce stade et qu’aucune révolution profonde ne bouleverserait le monde de l’édition et de la librairie. C’était sans compter la voracité des géants du Net.<span id="more-34455"></span>
+À cette époque, on croyait que les livres et les ebooks se partageraient le marché. Lorsque la progression des ebooks s’était stabilisée un temps à 30 % aux USA, certains avaient même pensé que les choses en resteraient à ce stade et qu’aucune révolution profonde ne bouleverserait le monde de l’édition et de la librairie. C’était sans compter la voracité des géants du Net.
 
 Ils s’étaient juré de siphonner tous les business à leur portée. De n’en laisser aucune miette aux anciens opérateurs. Après la première génération de liseuses, ils ont développé dans le plus grand secret les technologies du futur. La sortie du *BookLike* d’Amazon fut décisive. Format à géométrie variable, du poche à la BD modèle Tintin. Couleurs éclatantes. Video ready. Couche tactile réactive. Poids plume et prix non moins allégé. Le marché se réveilla brusquement et franchit allègrement la barre des 50 %.
 

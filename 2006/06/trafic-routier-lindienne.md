@@ -1,6 +1,6 @@
 # Trafic routier à l&#8217;indienne
 
-Un lecteur a attiré mon attention vers une [vidéo extraordinaire](http://www.youtube.com/v/RjrEQaG5jPM) qui nous montre pendant quelques minutes un carrefour routier dans une ville indienne. Je crois qu'elle peut faire changer d'avis ceux qui doutent de notre capacité à nous auto-organiser.<span id="more-11"></span>
+Un lecteur a attiré mon attention vers une [vidéo extraordinaire](http://www.youtube.com/v/RjrEQaG5jPM) qui nous montre pendant quelques minutes un carrefour routier dans une ville indienne. Je crois qu'elle peut faire changer d'avis ceux qui doutent de notre capacité à nous auto-organiser.
 
 Après avoir lu *Le peuple des connecteurs*, et notamment le long passage sur [Carlos Gershenson](http://complexes.blogspot.com), une amie m'a dit que l'auto-organisation du trafic routier était un truc bon pour les pays du nord aux citoyens disciplinés. Elle m'a dit ça ne peut pas marcher en Inde où le trafic est abominable. Cette vidéo vient la contredire.
 

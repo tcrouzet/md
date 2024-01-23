@@ -1,6 +1,6 @@
 # L’écriture itérative
 
-Dans [*La Mécanique du texte*](https://tcrouzet.com/la-mecanique-du-texte/), je parle de l’influence de la technologie sur l’écriture. Dans [*La stratégie du cyborg*](https://tcrouzet.com/la-strategie-du-cyborg/), je parle de l’auteur augmenté par les réseaux sociaux. Durant la crise coronavirus, je découvre de nouvelles possibilités à la fois mécaniques et sociales.<span id="more-54065"></span>
+Dans [*La Mécanique du texte*](https://tcrouzet.com/la-mecanique-du-texte/), je parle de l’influence de la technologie sur l’écriture. Dans [*La stratégie du cyborg*](https://tcrouzet.com/la-strategie-du-cyborg/), je parle de l’auteur augmenté par les réseaux sociaux. Durant la crise coronavirus, je découvre de nouvelles possibilités à la fois mécaniques et sociales.
 
 Avec les blogs au cours des années 2000, nous avons réinventé la république des lettres, en accroissant la vitesse et le dynamisme.
 

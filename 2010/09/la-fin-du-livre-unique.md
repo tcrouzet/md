@@ -1,6 +1,6 @@
 # La fin du livre unique
 
-À sa sortie, un livre nous arrive en grand format, avec un prix autour de 20 euros. Quelques mois plus tard, on le retrouve parfois en poche pour 6 ou 8 euros ou en édition club pour une quinzaine d’euros. Toutes ces éditions cohabitent sur le marché malgré la loi sur le prix unique du livre. Cette loi exige, en fait, un prix unique pour une édition donnée. Qu’à cela ne tienne. Pour outrepasser cette loi, il suffit de créer de nouvelles éditions.<span id="more-19144"></span>
+À sa sortie, un livre nous arrive en grand format, avec un prix autour de 20 euros. Quelques mois plus tard, on le retrouve parfois en poche pour 6 ou 8 euros ou en édition club pour une quinzaine d’euros. Toutes ces éditions cohabitent sur le marché malgré la loi sur le prix unique du livre. Cette loi exige, en fait, un prix unique pour une édition donnée. Qu’à cela ne tienne. Pour outrepasser cette loi, il suffit de créer de nouvelles éditions.
 
 Mais le jeu en vaut-il la chandelle ? Avec les progrès de l’impression à la demande, il sera bientôt envisageable de proposer des livres à l’unité ou en petite série au même prix qu’en grande. C’est presque déjà le cas. La notion d’édition, qui n’existait que pour des contraintes de coût, perdra alors toute pertinence. Est-ce la fin des libraires indépendants ? Pas nécessairement.
 

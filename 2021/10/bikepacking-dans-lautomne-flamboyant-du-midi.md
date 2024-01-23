@@ -1,6 +1,6 @@
 # Bikepacking dans l’automne flamboyant du Midi
 
-Quand j’ai commencé à écrire, je m’imaginais à la place de mes lecteurs, ou de mes aventuriers de jeu de rôle. Je les supposais passer de questionnements en surprises et peu à peu avancer dans une intrigue. J’ai vite abandonné cette approche pour écrire ce qui me tenait à cœur sans me demander comment mes propos seraient perçus.<span id="more-60787"></span>
+Quand j’ai commencé à écrire, je m’imaginais à la place de mes lecteurs, ou de mes aventuriers de jeu de rôle. Je les supposais passer de questionnements en surprises et peu à peu avancer dans une intrigue. J’ai vite abandonné cette approche pour écrire ce qui me tenait à cœur sans me demander comment mes propos seraient perçus.
 
 Depuis que j’écris des traces bikepacking, j’en suis revenu à ma première méthode, plus scénaristique que littéraire, et je ne garde la littérature que pour raconter le voyage *a posteriori*. Il me reste souvent en tête une image, qui s’impose peu à peu au fil des jours de pédalage. Cette fois, avec l'[i727](https://tcrouzet.com/i727), une apothéose de lumière avec des montagnes partout jusqu’à l’horizon bleu. Une pureté douce, éclatante mais pas agressive, chaleureuse mais pas brûlante, avec l’envie de la boire jusqu’à l’excès.
 

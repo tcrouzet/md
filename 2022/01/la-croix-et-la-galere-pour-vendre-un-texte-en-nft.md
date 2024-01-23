@@ -1,6 +1,6 @@
 # La croix et la galère pour vendre un texte en NFT
 
-Il y a quelques jours j’annonçais [la vente d’une nouvelle en NFT](https://tcrouzet.com/2021/12/23/achetez-revendez-une-nouvelle-en-nft-pour-2/), sur la plateforme OpenSea, la plus grande place de marché sur la blockchain Ethereum, là où les prix s’envolent, [là où Beeple a vendu son montage photo pour 69 millions de dollars](https://blog.erratasec.com/2021/03/deconstructing-that-69million-nft.html#.YdSWnxPMLdo).<span id="more-61212"></span>
+Il y a quelques jours j’annonçais [la vente d’une nouvelle en NFT](https://tcrouzet.com/2021/12/23/achetez-revendez-une-nouvelle-en-nft-pour-2/), sur la plateforme OpenSea, la plus grande place de marché sur la blockchain Ethereum, là où les prix s’envolent, [là où Beeple a vendu son montage photo pour 69 millions de dollars](https://blog.erratasec.com/2021/03/deconstructing-that-69million-nft.html#.YdSWnxPMLdo).
 
 Mon idée était de vendre cette nouvelle à très bas prix pour que l’acheteur la revende et ainsi de suite, sans jamais plus que doubler le prix, selon un contrat moral. J’imaginais créer une chaîne de lecteurs. Quand les premiers acheteurs se sont présentés, ils ont découvert que pour acheter ma nouvelle à 2 €, ils devaient payer pas loin de 100 € de frais de transaction. Pas cool, vraiment pas cool.
 

@@ -1,6 +1,6 @@
 # Un nouveau roman free pas free en France !
 
-Le livre gratuit est-il un modèle ? Tout au moins diffuser pendant une période limitée un livre gratuit a-t-il un sens ? Oui, m’explique Stephen Belfond, patron des [Éditions Gutenberg](http://www.editionsgutenberg.fr), au cours d’une conversation que nous venons d’avoir.<span id="more-10217"></span>
+Le livre gratuit est-il un modèle ? Tout au moins diffuser pendant une période limitée un livre gratuit a-t-il un sens ? Oui, m’explique Stephen Belfond, patron des [Éditions Gutenberg](http://www.editionsgutenberg.fr), au cours d’une conversation que nous venons d’avoir.
 
 \
 
