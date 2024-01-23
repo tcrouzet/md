@@ -1,8 +1,8 @@
 # Pour une gouvernance mondiale
 
-![Uns tructure polyvalente](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/04/englob.gif)
+![Uns tructure polyvalente](https://tcrouzet.com/images_tc/2009/04/englob.gif)
 
-Pouvons-nous créer un gouvernement mondial maintenant ? Sommes-nous assez sages ? Il me semble qu’il serait dangereux de créer un tel gouvernement avant que nous ayons pris conscience qu’il existe [un spectre de problèmes auquel correspond un spectre d’organisations](http://blog.tcrouzet.com/2009/04/27/principe-de-peter-applique-aux-pyramides/). Il serait dangereux de créer un gouvernement mondial sur le modèle pyramidal de nos gouvernements nationaux. C’est au nom des hommes qu’il faut gouverner non au nom d’une idéologie posée a priori.
+Pouvons-nous créer un gouvernement mondial maintenant ? Sommes-nous assez sages ? Il me semble qu’il serait dangereux de créer un tel gouvernement avant que nous ayons pris conscience qu’il existe [un spectre de problèmes auquel correspond un spectre d’organisations](/2009/04/27/principe-de-peter-applique-aux-pyramides/). Il serait dangereux de créer un gouvernement mondial sur le modèle pyramidal de nos gouvernements nationaux. C’est au nom des hommes qu’il faut gouverner non au nom d’une idéologie posée a priori.
 
 Aujourd’hui, les gouvernements se structurent en pyramide, non par raison d’efficacité et d’adéquation à certains types de problèmes, mais parce qu’ils héritent leur structure depuis l’âge lointain où les hommes se sédentarisèrent. Nous sommes la conséquence de notre passé évolutif. Il y a parmi nous des humains dominants à la recherche du pouvoir.
 

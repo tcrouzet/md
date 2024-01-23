@@ -1,6 +1,6 @@
 # J’aime mon libraire
 
-Et je ne vais pas dire le contraire à la veille de sortir [un roman](http://blog.tcrouzet.com/la-quatrieme-theorie/). J’aime mon libraire pour les livres qu’il me donne envie de lire, ceux qu’il empile plutôt que d’autres, ceux qu’il cache, ou même refuse de vendre. Je l’aime pour nos conversations, je l’aime pour l’ambiance de ses étagères, pour les gens que je rencontre dans leurs méandres.
+Et je ne vais pas dire le contraire à la veille de sortir [un roman](/la-quatrieme-theorie/). J’aime mon libraire pour les livres qu’il me donne envie de lire, ceux qu’il empile plutôt que d’autres, ceux qu’il cache, ou même refuse de vendre. Je l’aime pour nos conversations, je l’aime pour l’ambiance de ses étagères, pour les gens que je rencontre dans leurs méandres.
 
 Je l’aime tant que [l’entendre se plaindre me désespère](http://www.actualitte.com/librairies/librairie-quelques-solutions-contre-pauperisation-du-secteur-41026.htm). Plutôt que de croire que la technologie détruit ton métier, essaie de voir comment elle pourrait le réinventer.
 
@@ -20,6 +20,6 @@ Sois toi-même. Sois un lecteur parmi les lecteurs. Sois celui qui découvre ce 
 
 Prépare-toi à demain en étant ce que tu es depuis toujours. Nous autres auteurs, éditeurs, et surtout lecteurs avons besoin de toi.
 
-PS : [Suite du 8 avril...](http://blog.tcrouzet.com/2013/04/08/jaime-toujours-les-libraires/)
+PS : [Suite du 8 avril...](/2013/04/08/jaime-toujours-les-libraires/)
 
 Tags: édition, une

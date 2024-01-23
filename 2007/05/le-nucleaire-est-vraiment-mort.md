@@ -1,6 +1,6 @@
 # Le nucléaire est vraiment mort
 
-C’est aussi parce que je suis un fou de nouvelles technologies que je suis [contre le nucléaire](http://blog.tcrouzet.com/2007/05/02/pas-de-centrale-pres-de-chez-moi/) tout autant que le moteur à explosion (je sais je roule avec une voiture de 200 cv turbo – chacun ses contradictions).
+C’est aussi parce que je suis un fou de nouvelles technologies que je suis [contre le nucléaire](/2007/05/02/pas-de-centrale-pres-de-chez-moi/) tout autant que le moteur à explosion (je sais je roule avec une voiture de 200 cv turbo – chacun ses contradictions).
 
 Je suis tombé hier sur [des chiffres très intéressants](http://www.newscientisttech.com/channel/tech/mg19426024.400-high-cost-of-capturing-solar-energy-is-diminishing.html).
 

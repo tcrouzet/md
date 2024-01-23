@@ -12,7 +12,7 @@ La critiquer pour ses agissements hors la loi, ou à la limite de la loi, ou ét
 
 Un exemple.
 
-Mi-octobre, je vais diffuser en licence cc-by-sa [*L’homme qui lave les mains*](http://blog.tcrouzet.com/homme-qui-lave-les-mains/), un livre qui fait l’éloge de la société du don, d’un autre modèle de société tout en racontant la vie et l’œuvre de Didier Pittet.
+Mi-octobre, je vais diffuser en licence cc-by-sa [*L’homme qui lave les mains*](/homme-qui-lave-les-mains/), un livre qui fait l’éloge de la société du don, d’un autre modèle de société tout en racontant la vie et l’œuvre de Didier Pittet.
 
 Si des entreprises méprisables n’avaient pas développé des lecteurs d’ebooks, tablettes et autres readers, je n’aurais jamais pu sortir ce livre gratuitement. J’aurais dû d’un côté vanter un modèle de société, de l’autre, pour le livre, en adopter un autre. Cette incohérence assez répandue me gêne.
 

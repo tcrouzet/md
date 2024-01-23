@@ -1,6 +1,6 @@
 # Tags : métalangage du web
 
-[Henri Alberti](http://blog.tcrouzet.com/2007/06/20/decentraliser-l%e2%80%99experience-utilisateur/#comment-35394), l’amoureux de la rigueur nécessairement intéressé par le formalisme, vient d’attirer mon attention vers une interview de [Pierre Levy](http://fr.wikipedia.org/wiki/Pierre_L%C3%A9vy) publiée dans [Le Monde](http://www.lemonde.fr/web/article/0,1-0@2-651865,36-927305,0.html?xtor=RSS-3208) ([PDF](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200706l24emonde.pdf)).
+[Henri Alberti](/2007/06/20/decentraliser-l%e2%80%99experience-utilisateur/#comment-35394), l’amoureux de la rigueur nécessairement intéressé par le formalisme, vient d’attirer mon attention vers une interview de [Pierre Levy](http://fr.wikipedia.org/wiki/Pierre_L%C3%A9vy) publiée dans [Le Monde](http://www.lemonde.fr/web/article/0,1-0@2-651865,36-927305,0.html?xtor=RSS-3208) ([PDF](https://tcrouzet.com/images_tc/200706l24emonde.pdf)).
 
 Ce texte est loin de m’avoir enthousiasmé, au contraire, je le trouve profondément rétrograde. Non pas à cause de l’éloge de l’intelligence collective, qu’il faut encourager à tout prix, mais à cause du chemin pour y parvenir que propose Pierre Levy, le langage IEML (Information Economy Meta Language).
 

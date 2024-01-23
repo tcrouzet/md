@@ -1,6 +1,6 @@
 # Après la guerre
 
-[Ce billet est un commentaire qui aurait dû suivre le fil linké.](http://blog.tcrouzet.com/2008/06/16/internet-accouche-d%e2%80%99une-nouvelle-societe/) Je me dis que je procéderai comme ça de temps à autres pour désengorger les fils.
+[Ce billet est un commentaire qui aurait dû suivre le fil linké.](/2008/06/16/internet-accouche-d%e2%80%99une-nouvelle-societe/) Je me dis que je procéderai comme ça de temps à autres pour désengorger les fils.
 
 > Que la Nef soit une coopérative ce n'est pas le problème. De nombreuses mutuelles et banques sont déjà en coop et ce n'est pas révolutionnaire. Certaines existent depuis le milieu du XIX<sup>e</sup>. C'est la transparence rendue possible par la technologie qui est en perspective qui elle peut changer les choses. Peu importe la raison sociale de la banque. La Nef est d'ailleurs archi-mauvaise en techno. Ce n'est pas un modèle. Elle tente de faire de la transparence avec les outils d'avant internet. C'est l'intention qui est intéressante.
 > 

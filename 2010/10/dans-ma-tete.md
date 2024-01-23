@@ -1,6 +1,6 @@
 # Dans ma tête ça gargouille
 
-Maintenant que [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/), [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/) et même [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/) ne m’occupent plus guère, je commence à penser à la suite. Qu’est-ce que je vais écrire sur ce blog et ailleurs ? Je vous avoue que même si la polémique apporte du trafic, elle ne me passionne pas. Je me laisserai toujours tenter de temps à autre, nul n’est parfait, mais j’aimerais travailler dans la durée. Alors voici quelques pistes pour les mois et les années à venir.
+Maintenant que [*La quatrième théorie*](/la-quatrieme-theorie/), [*L’alternative nomade*](/alternative-nomade/), [*J’ai eu l’idée*](/id/) et même [*La tune dans le caniveau*](/tune-caniveau/) ne m’occupent plus guère, je commence à penser à la suite. Qu’est-ce que je vais écrire sur ce blog et ailleurs ? Je vous avoue que même si la polémique apporte du trafic, elle ne me passionne pas. Je me laisserai toujours tenter de temps à autre, nul n’est parfait, mais j’aimerais travailler dans la durée. Alors voici quelques pistes pour les mois et les années à venir.
 
 ### L’informatique racontée à mes fils
 
@@ -10,7 +10,7 @@ Ce projet a pour mérite de me ramener dans un domaine où j’ai vendu beaucoup
 
 ### Ératosthène
 
-Je n’ai pas renoncé à produire une énième version de ce texte qui m’occupe par intermittence depuis 2000. J’imagine le reprendre et en publier les chapitres sur le blog, pour m’imposer [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/).
+Je n’ai pas renoncé à produire une énième version de ce texte qui m’occupe par intermittence depuis 2000. J’imagine le reprendre et en publier les chapitres sur le blog, pour m’imposer [*La stratégie du cyborg*](/la-strategie-du-cyborg/).
 
 Une remarque en passant au sujet de la stratégie. Ce mini-essai a été édité en Italie. J’ai eu des articles dans la presse italienne, des blogueurs italiens en ont parlé, personne en France, sniff. Cela prouve simplement qu’un propulseur est indispensable pour pousser un texte. L’auteur seul, même plutôt bien connecté, en est incapable dans la plupart des cas. Les critiques ont encore besoin de l’aval d’une autorité extérieure avant de pouvoir s’exprimer.
 

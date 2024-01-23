@@ -1,6 +1,6 @@
 # Taxinomie littéraire à l&#8217;âge de Twitter
 
-La sortie de [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) approche et, en même temps que je boucle le dossier de présentation du thriller, je croise la route de la [twittérature](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/).
+La sortie de [*La quatrième théorie*](/la-quatrieme-theorie/) approche et, en même temps que je boucle le dossier de présentation du thriller, je croise la route de la [twittérature](/la-quatrieme-theorie/la-quatrieme-theorie-liens/).
 
 On attribue sa naissance tantôt aux Spartiates réputés laconiques, aux Japonais adeptes du haïku, aux *Nouvelles en trois lignes* de Félix Fénéon et plus sûrement à Hemingway pour une célèbre phrase :
 
@@ -10,7 +10,7 @@ J'ai longtemps cru qu'elle appartenait à un recueil de dix-huit nouvelles en si
 
 ### Faire du court avec du court
 
-![Le Devoir](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/devoir.png)
+![Le Devoir](https://tcrouzet.com/images_tc/2013/02/devoir.png)
 
 Mais il ne fallait pas plus de cette légende littéraire pour lancer une mode narrative, et cela avant-même la naissance de Twitter. En novembre 2006, *Wired* demande à une quarantaine d'auteurs et d'artistes d'écrire une [Very Short Storie](http://www.wired.com/wired/archive/14.11/sixwords.html). L'idée rebondit et *Smith Magazine* propose à ses lecteurs d'envoyer des [mémoires en six mots](http://www.smithmag.net/sixwords/). Plusieurs recueils seront publiés et les textes continuent depuis d'affluer.
 
@@ -20,9 +20,9 @@ Mais qui est capable de surpasser le pseudo Hemingway ? C'est sans doute dans l
 
 ### Le jeu des perles de verre
 
-![J'ai eu l'idée](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/id.png)
+![J'ai eu l'idée](https://tcrouzet.com/images_tc/2013/02/id.png)
 
-Les micronouvelles, plutôt qu'entités isolées, s'enchaînent parfois en chapelet et construisent des ensembles cohérents. Perec nous a livré *Je me souviens*. Je m'en suis inspiré pour écrire [*J'ai eu l'idée*](http://blog.tcrouzet.com/id/). Vincent Bastin a tissé sa [version minimaliste de *La Guerre et la Paix*](http://fr.feedbooks.com/userbook/23278/morts-et-r%C3%A9surrections-du-sergent-grenadier-lazare). Chaque fragment tient pratiquement dans un tweet et l'ensemble déborde selon une technique connue des musiciens : l'échantillonnage, ou des peintres : le pointillisme.
+Les micronouvelles, plutôt qu'entités isolées, s'enchaînent parfois en chapelet et construisent des ensembles cohérents. Perec nous a livré *Je me souviens*. Je m'en suis inspiré pour écrire [*J'ai eu l'idée*](/id/). Vincent Bastin a tissé sa [version minimaliste de *La Guerre et la Paix*](http://fr.feedbooks.com/userbook/23278/morts-et-r%C3%A9surrections-du-sergent-grenadier-lazare). Chaque fragment tient pratiquement dans un tweet et l'ensemble déborde selon une technique connue des musiciens : l'échantillonnage, ou des peintres : le pointillisme.
 
 On crée une œuvre avec des trous. On n'en dessine que l'architecture. Et le lecteur recolle les morceaux et édifie, en lui, une œuvre qui ne vaut que pour lui.
 
@@ -32,15 +32,15 @@ C'est un geste fort de refus de la forme classique, achevée, clôturée. De nom
 
 ### Faire du long avec du court
 
-![La quatrième théorie](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/4t200.jpg)
+![La quatrième théorie](https://tcrouzet.com/images_tc/2013/02/4t200.jpg)
 
 Un autre courant de la twittérature est né au Japon avec les [cell phone novels](http://en.wikipedia.org/wiki/Cell_phone_novel). Il s'agit de composer un texte ample de plusieurs centaines de pages en enchaînant des SMS/tweets.
 
 Contrairement à l'écriture sérielle, on ne remet plus en cause la forme. Contrairement à la micronouvelle, on ne poursuit pas la virtuosité. On cherche plutôt à écrire à la vitesse de la lecture, comme si les lecteurs se penchaient au-dessus de notre épaule. C'est une écriture guère éloignée de celle du blog, mais plus tendue encore, puisque éclatée phrase après phrase. Où à chaque point, un évènement extérieur peut nous dérouter.
 
-On m'a reproché quand j'ai ainsi twitté [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) de me contenter d'adopter la forme du roman populaire.
+On m'a reproché quand j'ai ainsi twitté [*La quatrième théorie*](/la-quatrieme-theorie/) de me contenter d'adopter la forme du roman populaire.
 
-1/ [J'aime ce genre](http://blog.tcrouzet.com/2010/08/25/pour-une-litterature-de-gare/) et il me semble que la plupart des auteurs dit littéraires, contrairement à Gombrowicz, sont incapables de le pratiquer.
+1/ [J'aime ce genre](/2010/08/25/pour-une-litterature-de-gare/) et il me semble que la plupart des auteurs dit littéraires, contrairement à Gombrowicz, sont incapables de le pratiquer.
 
 2/ Expérimenter cette écriture du temps réel me paraissait en soi un jeu littéraire, et assez neuf car nous disposons depuis peu des outils pour le mettre en œuvre à grande échelle et dans une durée ininterrompue de plusieurs mois.
 

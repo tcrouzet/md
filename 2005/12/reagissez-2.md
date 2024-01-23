@@ -2,8 +2,8 @@
 
 Publiez ici vos remarques générales, non liées à un billet spécifique.
 
-[Le cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/)
+[Le cinquième pouvoir](/le-cinquieme-pouvoir/)
 
-[Le peuple des connecteurs](http://blog.tcrouzet.com/2006/02/16/reagissez/)
+[Le peuple des connecteurs](/2006/02/16/reagissez/)
 
 Tags: Buzz

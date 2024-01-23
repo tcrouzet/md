@@ -2,31 +2,31 @@
 
 *Au cours de l’évolution, la vie survécut aux grandes extinctions en répondant par des explosions de la diversité. Nous ne réglerons pas les crises écologiques, sociales et même spirituelles de l’humanité sans explorer de multiple solutions et variations.*
 
-Dans le domaine économique, une explosion régénérative est en cours. Elle est particulièrement visible sur internet. Loin de se concentrer, des centaines d’entreprises se créent chaque jour. On ne fusionne plus, on partage les compétences (lire [Merge with care](http://www.wired.com/wired/archive/15.04/wired40_merge.html) dans Wired). Et les [longues traînes](http://blog.tcrouzet.com/2007/01/16/pas-de-longue-traine-cette-annee/) apparaissent.
+Dans le domaine économique, une explosion régénérative est en cours. Elle est particulièrement visible sur internet. Loin de se concentrer, des centaines d’entreprises se créent chaque jour. On ne fusionne plus, on partage les compétences (lire [Merge with care](http://www.wired.com/wired/archive/15.04/wired40_merge.html) dans Wired). Et les [longues traînes](/2007/01/16/pas-de-longue-traine-cette-annee/) apparaissent.
 
 Dans le domaine politique, en France, après le premier tour de la présidentielle 2007, nous en sommes malheureusement revenus à une version hypercapitaliste de la politique. Quatre partis se retrouvent avec une position quasi monopolistique. Ils écrasent les autres voies.
 
 Alors que beaucoup d’observateurs se félicitent des résultats du premier tour de la présidentielle (fort taux de participation, clarté des résultats, mise à l'écart des extrémistes…), je suis beaucoup plus pessimiste. Pour moi, nous venons de vivre une régression démocratique : nous avons assisté à la mort de la diversité. Nous avons réduit nos chances de trouver des solutions.
 
-Nous pouvions nous y attendre après les discours sur le vote utile. Ils ont merveilleusement réussi malgré les [mises en garde](http://blog.tcrouzet.com/2007/03/09/le-vote-utile/). Voter utile revenait à renoncer à la diversité, refuser une longue traîne en politique.
+Nous pouvions nous y attendre après les discours sur le vote utile. Ils ont merveilleusement réussi malgré les [mises en garde](/2007/03/09/le-vote-utile/). Voter utile revenait à renoncer à la diversité, refuser une longue traîne en politique.
 
 Si on compare, le profil de l’élection 2002 et celui de l’élection 2007, les différences crèvent les yeux.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200705_p2002.gif)
+![](https://tcrouzet.com/images_tc/200705_p2002.gif)
 
 En 2002, nous avons un début de longue traîne, une ouverture aux petites tendances, qui toutes ou presque réussissent à émerger.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200705_p2007.gif)
+![](https://tcrouzet.com/images_tc/200705_p2007.gif)
 
 En 2007, elles sont écrasées, assommées… sommées de se taire ou de se fondre dans la masse (logique parce que le gouvernemement ou même l'opposition ne leur donna jamais la parole). Or, si certaines de ces voies sons rétrogrades, d’autres, au contraire, préfigurent peut-être l’avenir. Il est alors dangereux de les réduire à si peu. Les Français risquent bientôt de s’en mordre les doigts.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200705_p1974.gif)
+![](https://tcrouzet.com/images_tc/200705_p1974.gif)
 
 Le profil de 2007, nous ramène plus de trente ans en arrière, en 1974 très exactement. En fait, voilà pourquoi nos politologues sont heureux. Ils sont retombés dans le vieux cadre qu’ils connaissent bien et qu’ils savent décrypter.
 
 Mais attention. Le monde, lui, n’a pas régressé, il va au contraire vers plus de complexité et les réponses du passé ne sauraient lui convenir. Les concentrations, la centralisation, l'élitisme... toutes ces choses faciles à décrire par des courbes linaires ne marchent plus vraiment. Nous entrons dans un temps plus proprice aux lois de puissances, dont les longues traînes sont une expression.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200705_p2007e.gif)
+![](https://tcrouzet.com/images_tc/200705_p2007e.gif)
 
 Nicolas Sarkozy et Ségolène Royal vont aller au second tour avec une belle légitimité. Certains doivent être soulagés et se dire que le système représentatif majoritaire est sauf.
 

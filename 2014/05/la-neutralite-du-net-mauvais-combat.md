@@ -1,6 +1,6 @@
 # La neutralité du Net, mauvais combat
 
-Comment être contre la neutralité en général ? Neutralité de la justice, de l’éducation, de la santé… Autant dire comment être contre l’idée de traiter à égalité chaque être humain ? Pour certains, c’est très facile. Leur argument : « Il n’ont qu’à travailler aussi dur que nous et alors ils mériteront les mêmes droits que nous. » Pour d’autres, dont je suis, il est évident que le libre arbitre n’est pas également distribué. [Pour commencer, il n’y a pas d’égalité devant la liberté.](http://blog.tcrouzet.com/2013/10/18/quest-ce-que-la-liberte/)
+Comment être contre la neutralité en général ? Neutralité de la justice, de l’éducation, de la santé… Autant dire comment être contre l’idée de traiter à égalité chaque être humain ? Pour certains, c’est très facile. Leur argument : « Il n’ont qu’à travailler aussi dur que nous et alors ils mériteront les mêmes droits que nous. » Pour d’autres, dont je suis, il est évident que le libre arbitre n’est pas également distribué. [Pour commencer, il n’y a pas d’égalité devant la liberté.](/2013/10/18/quest-ce-que-la-liberte/)
 
 Cette inégalité première engendre une réaction en chaîne, une démultiplication des inégalités qui ne peut être combattue que par des principes de neutralité instaurés législativement dans la société. Je suis donc un défenseur de la neutralité en général, et donc de la neutralité du Net. Reste à savoir comment atteindre cet objectif.
 
@@ -34,7 +34,7 @@ Quelques pistes…
 
 7. Il faut donc redéfinir ce que nous entendons par neutralité du Net. Un Net neutre, c’est un Net commun. Un bien commun doit s'entrenir, comme un jardin. Il est dynamique et implique un combat constant contre les herbes folles.
 
-![Net Neutrality is Under Attack par Free Press Pics](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/netneutrality.png)
+![Net Neutrality is Under Attack par Free Press Pics](https://tcrouzet.com/images_tc/2014/05/netneutrality.png)
 
 
 

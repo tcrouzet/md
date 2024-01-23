@@ -1,6 +1,6 @@
 # Quitterie Story : aimer la politique pour mieux la quitter
 
-*Ce texte a été pensé comme un des chapitres de [Les crapauds fous](http://blog.tcrouzet.com/les-crapauds-fous/), la vie de ceux qui changent le monde en suivant une voie non orthodoxe. J'ai interviewé par ordre d'apparition **Quitterie Delmas**, **Jean-Yves de Chaisemartin**, **Virginie Votier** et **François Bayrou**.*
+*Ce texte a été pensé comme un des chapitres de [Les crapauds fous](/les-crapauds-fous/), la vie de ceux qui changent le monde en suivant une voie non orthodoxe. J'ai interviewé par ordre d'apparition **Quitterie Delmas**, **Jean-Yves de Chaisemartin**, **Virginie Votier** et **François Bayrou**.*
 
 > « Je ne veux pas changer la règle du jeu, je veux changer de jeu. » André Breton
 
@@ -198,6 +198,6 @@ Une autre phrase, de Brel cette fois, lui sert de leitmotiv : « L’avenir d�
 
 Où ranger Quitterie ? Et avec eux, les hommes et les femmes qui refusent des carrières prometteuses, les entrepreneurs qui refusent que leur société grandisse, les sportifs qui refusent la compétition aveugle. Révolutionnaires ou révoltés ? Visionnaires ou idéalistes ? Des gens comme eux ont toujours existé. De Henry David Thoreau à Christopher McCandless décrit par Jon Krakauer dans Into the Wild, des hommes et des femmes ont dit non pour mener une autre vie. Quelque chose toutefois semble aujourd’hui différer. Ce mouvement jadis marginal devient peut-être de grande ampleur. Tous ces nonistes ne fuient pas la société. En véritables pionniers, ils la réinventent de l’intérieur.
 
-![politiculture.hautetfort.com Bayrou et Quitterie](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/05/cover_img-45811.jpg)
+![politiculture.hautetfort.com Bayrou et Quitterie](https://tcrouzet.com/images_tc/2009/05/cover_img-45811.jpg)
 
 Tags: Modem, noepub, Politique

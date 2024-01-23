@@ -1,6 +1,6 @@
 # Hacker culture
 
-Tout d’abord qu’est-ce qu’un hacker ? [Je l’ai défini comme un bidouilleur.](http://blog.tcrouzet.com/2007/10/10/culture-20/) C’est la définition classique mais elle n’est pas suffisante. Un hacker utiliserait plutôt un outil pour en créer d’autres. [Il serait un créateur de méta-outils.](http://blog.tcrouzet.com/2007/10/12/culture-et-technologie/)
+Tout d’abord qu’est-ce qu’un hacker ? [Je l’ai défini comme un bidouilleur.](/2007/10/10/culture-20/) C’est la définition classique mais elle n’est pas suffisante. Un hacker utiliserait plutôt un outil pour en créer d’autres. [Il serait un créateur de méta-outils.](/2007/10/12/culture-et-technologie/)
 
 La notion de créateur d’outils est assez large. Quand on utilise un outil pour faire quelque chose d’imprévu par le concepteur de l’outil, on crée en quelque sorte un nouvel outil. Quand Picasso utilise une selle et un guidon de vélo pour créer la statue d’un taureau, il devient hacker. Ainsi l’artiste en découvrant sans cesse de nouveaux usages des outils est souvent un hacker.
 
@@ -12,7 +12,7 @@ Pour Wark, les données brutes peuvent être des programmes, des poèmes, des th
 
 Quand un ingénieur dépose un brevet, il est hacker. Quand un musicien compose une chanson, il est hacker. Pour Wark, les hackers constituent une nouvelle classe sociale.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/hacker-culture.gif)
+![](https://tcrouzet.com/images_tc/2007/10/hacker-culture.gif)
 
 Cette idée de classe, purement essentialiste, ne me paraît correspondre à aucune réalité, surtout pas à une réalité complexe et plurielle. Mais elle a le mérite de s’inscrire dans un cadre historique, tout au moins occidental, et de nous aider à déchiffrer notre présent.
 

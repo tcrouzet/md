@@ -16,8 +16,8 @@ C’était quoi, au fait, le Web 1.0 ? Justement, un réseau sans intermédiair
 
 Que les choses soient bien claires, je ne suis pas contre le crowdfunding, le financement par la foule, j'en suis même un apôtre, mais je suis contre quand, entre la foule et un projet, se glisse un prévaricateur.
 
-*PS: Ce n’est pas parce que je suis contre la dérive du tout plateforme que je n’utilise pas les plateformes. [C’est ce que j’ai expliqué pour Amazon.](http://blog.tcrouzet.com/2014/04/28/quand-edition-se-combine-avec-autopublication/) C’est la même chose pour Immateriel. J’accepte de céder 10 % parce qu’ils me simplifient la vie. Les plateformes de crowdfunding aussi simplifient la vie, c’est vrai, mais initialement il y avait une dimension éthique au crowdfunding, héritée du microcrédit. On a transformé tout cela en business.*
+*PS: Ce n’est pas parce que je suis contre la dérive du tout plateforme que je n’utilise pas les plateformes. [C’est ce que j’ai expliqué pour Amazon.](/2014/04/28/quand-edition-se-combine-avec-autopublication/) C’est la même chose pour Immateriel. J’accepte de céder 10 % parce qu’ils me simplifient la vie. Les plateformes de crowdfunding aussi simplifient la vie, c’est vrai, mais initialement il y avait une dimension éthique au crowdfunding, héritée du microcrédit. On a transformé tout cela en business.*
 
-[Lire la suite de cet article...](http://blog.tcrouzet.com/2014/04/30/le-crowdfunding-nest-quun-greenwashing-financier/)
+[Lire la suite de cet article...](/2014/04/30/le-crowdfunding-nest-quun-greenwashing-financier/)
 
 Tags: NetCulture, une

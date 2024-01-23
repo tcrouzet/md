@@ -4,7 +4,7 @@
 
 Tous autant qu’ils sont les entrepreneurs nous promettent un nouveau monde. Pour cela, dès qu’ils ont une idée, ils recherchent des investisseurs, donc font appel au capital, puis très vite ils embauchent des salariés, ces nouveaux esclaves, et se félicitent de leur délivrer tous les mois des bulletins de salaire, la chaîne par laquelle « je t’attache ». Alors quand ils se rassemblent pour parler de leur vision du monde, fuyez loin. Ils vont vous rabâcher la vision du monde de leurs trisaïeuls.
 
-Qu’est-ce qu’a changé le 2.0 à l’échelle sociale ? Rien. [L’affaire Wikileak](http://blog.tcrouzet.com/tag/wikileaks/) nous aide à comprendre pourquoi. Comme les entreprises 2.0 dépendent du capital et de sa rentabilité, elles n’ont aucune chance de réformer quoi que ce soit.
+Qu’est-ce qu’a changé le 2.0 à l’échelle sociale ? Rien. [L’affaire Wikileak](/tag/wikileaks/) nous aide à comprendre pourquoi. Comme les entreprises 2.0 dépendent du capital et de sa rentabilité, elles n’ont aucune chance de réformer quoi que ce soit.
 
 Pourquoi ? Toute réforme sociale entraînerait des désagréments pour les détenteurs du capital. En conséquence, ils ne laissent jamais les entreprises dépasser les limites du strict business. À la moindre infraction, le rappel à l’ordre est immédiat. Et Amazon bloque Wikileaks qui trahit quelques petites magouilles. PayPal ferme leur système de don. Et ça continue en cascade.
 

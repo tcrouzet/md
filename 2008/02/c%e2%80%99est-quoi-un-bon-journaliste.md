@@ -2,7 +2,7 @@
 
 Le plus simple est de définir le mauvais journaliste, espèce bien plus répandue. Cet animal vous pose des questions et connait les réponses à l’avance. Si vous lui dite ce que vous pensez, quelque chose qu’il n’a jamais lui-même pensé ou entendu, il ne vous écoute plus, il abrège l’interview car il veut produire un contenu, qui croit-il, intéressera ses lecteurs ou auditeurs.
 
-J’ai souvent constaté ce genre de réactions en parlant du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) et du [*Cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/). Dès que j’avance l’idée que, grâce à la décentralisation des communications, une force transversale apparaît, les journalistes m’avouent qu’ils sont rassurés à titre personnel mais, à titre professionnel, ils n’en ont rien à foutre.
+J’ai souvent constaté ce genre de réactions en parlant du [*Peuple des connecteurs*](/le-peuple-des-connecteurs/) et du [*Cinquième pouvoir*](/le-cinquieme-pouvoir/). Dès que j’avance l’idée que, grâce à la décentralisation des communications, une force transversale apparaît, les journalistes m’avouent qu’ils sont rassurés à titre personnel mais, à titre professionnel, ils n’en ont rien à foutre.
 
 Eux, ils aiment bien le cinquième pouvoir comme empêcheur de tourner en rond, contre-pouvoir du contre-pouvoir qu’ils sont déjà sensés être. Quand je leur dis que cet aspect des choses n’est même pas réducteur mais tout simplement erroné, ils s’en vont car ils ne veulent surtout pas entendre un discours politique ni de gauche ni de droite. Dans quelle case le rangeraient-ils ?
 

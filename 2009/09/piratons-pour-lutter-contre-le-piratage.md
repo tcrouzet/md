@@ -12,7 +12,7 @@ Bon ok, souvent nos amis du pouvoir sont sous influences nocives et pas aussi na
 
 On entretient la peur à tout prix, toutes les peurs, celles de la grippe, des terroristes, du réchauffement climatique, du piratage… Tous les moyens sont bons pour policer la société et pour réduire les libertés. Car c’est l’objectif, non pas celui de régler les problèmes sous-tendant la peur.
 
-Pourquoi aujourd’hui ce combat prend des proportions extrêmes ? Parce que nous étions en passe de gagner une liberté immense, jamais connue dans notre histoire, une liberté si extraordinaire qu'elle aurait fait perdre aux hommes de pouvoir encore un peu plus de leur pouvoir, un peu trop vraisemblablement. Réaction peu surprenante : ils luttent bec et ongle pour défendre leur caste. Ce sera un combat sans merci dont [Hadopi](http://blog.tcrouzet.com/tag/hadopi/) n’est qu’une des escarmouches. Nous devons nous élever contre les prohibitions qui n’ont d’autre but que d’entretenir la peur.
+Pourquoi aujourd’hui ce combat prend des proportions extrêmes ? Parce que nous étions en passe de gagner une liberté immense, jamais connue dans notre histoire, une liberté si extraordinaire qu'elle aurait fait perdre aux hommes de pouvoir encore un peu plus de leur pouvoir, un peu trop vraisemblablement. Réaction peu surprenante : ils luttent bec et ongle pour défendre leur caste. Ce sera un combat sans merci dont [Hadopi](/tag/hadopi/) n’est qu’une des escarmouches. Nous devons nous élever contre les prohibitions qui n’ont d’autre but que d’entretenir la peur.
 
 1. Banalisons ce qui est prohibé (dans le cas Hadopi, l'acte de copier et de partager).
 

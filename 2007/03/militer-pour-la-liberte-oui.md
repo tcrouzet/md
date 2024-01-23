@@ -1,6 +1,6 @@
 # Militer pour la liberté, oui
 
-Ce billet a été écrit comme réponse à un [commentaire de Krysztoff](http://blog.tcrouzet.com/2007/03/21/un-nouveau-pouvoir-oui-ou-non/#comment-14439) suite à [mon billet de ce matin](http://blog.tcrouzet.com/2007/03/21/un-nouveau-pouvoir-oui-ou-non/).
+Ce billet a été écrit comme réponse à un [commentaire de Krysztoff](/2007/03/21/un-nouveau-pouvoir-oui-ou-non/#comment-14439) suite à [mon billet de ce matin](/2007/03/21/un-nouveau-pouvoir-oui-ou-non/).
 
 1. Un monde ou nous voterons continument ne sera pas une démocratie d’opinion mais de décision. Le vote dynamique n’aura jamais, à mon sens, de vocations globales mais uniquement locales (plutôt métalocales). Les gens voteront en dernier recours quand ils seront incapables de s'entendre. Je crois même que nous pourrons nous affranchir du vote lorsque nous aurons développé des plateformes collaboratives performantes. Le global jaillira de la juxtaposition des décisions locales (c’est ainsi qu’internet jaillit de l’interconnexion d’une myriade de réseaux).
 

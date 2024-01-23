@@ -1,6 +1,6 @@
 # The dumb writers on twitter again
 
-Le 3 août, j'ai publié [un coup de gueule contre tous ceux qui se prétendent être les premiers à faire un truc sur internet](http://blog.tcrouzet.com/2009/08/03/the-dumb-writers-on-twitter/) et qui croient ainsi s'attirer la gloire, tout au moins attirer l'attention. J’ai écrit ce billet énervé par tous ceux qui ne pensent aux nouvelles technologies que comme un énième truc marketing et qui cherchent à exister avec ça alors que c’est l’avenir de notre monde qui se joue. J'ai au passage égratigné Christophe Sims qui [cette nuit m'a demandé sur Twitter](http://twitter.com/Christophe_Sims/statuses/3593049081) un droit de réponse qu'il m'a adressé par mail.
+Le 3 août, j'ai publié [un coup de gueule contre tous ceux qui se prétendent être les premiers à faire un truc sur internet](/2009/08/03/the-dumb-writers-on-twitter/) et qui croient ainsi s'attirer la gloire, tout au moins attirer l'attention. J’ai écrit ce billet énervé par tous ceux qui ne pensent aux nouvelles technologies que comme un énième truc marketing et qui cherchent à exister avec ça alors que c’est l’avenir de notre monde qui se joue. J'ai au passage égratigné Christophe Sims qui [cette nuit m'a demandé sur Twitter](http://twitter.com/Christophe_Sims/statuses/3593049081) un droit de réponse qu'il m'a adressé par mail.
 
 ---
 
@@ -31,7 +31,7 @@ Christophe Sims
 
 ---
 
-Il me paraît important de répondre à Christophe, c’est une façon de prolonger la discussion sur ](http://twitter.com/Christophe_Sims)[l’entrée du livre dans le flux](http://blog.tcrouzet.com/2009/08/26/le-livre-echappera-pas-aux-flux/).
+Il me paraît important de répondre à Christophe, c’est une façon de prolonger la discussion sur ](http://twitter.com/Christophe_Sims)[l’entrée du livre dans le flux](/2009/08/26/le-livre-echappera-pas-aux-flux/).
 
 Je ne te connais pas Christophe, je n’ai rien contre toi en particulier, on est embarqué sur le même bateau, quelle que soit la façon dont tu prendras ce qui va suivre, voyons-nous, discutons, c’est comme ça que nous avancerons.
 
@@ -45,7 +45,7 @@ Dans la twitterature, je trouve intéressant le jeu avec la contrainte des 140 c
 
 ### Notes
 
-1. Tu peux retrouver mes tweets à ton adresse sur [mon lifestream du 1<sup>er</sup> août](http://blog.tcrouzet.com/2009/08/01/tweets-du-samedi-01-aout-2009/). Aussi directement sur Twitter [ici](http://twitter.com/crouzet/status/3075460575) et [ici](http://twitter.com/crouzet/status/3075471770). Ton absence de réponse suite au coup, 15 jours plus tôt, de Stewart [dont je m'étais aussi moqué sur Twitter](http://twitter.com/crouzet/status/2651186115) a été la goutte qui a fait déborder mon vase.
+1. Tu peux retrouver mes tweets à ton adresse sur [mon lifestream du 1<sup>er</sup> août](/2009/08/01/tweets-du-samedi-01-aout-2009/). Aussi directement sur Twitter [ici](http://twitter.com/crouzet/status/3075460575) et [ici](http://twitter.com/crouzet/status/3075471770). Ton absence de réponse suite au coup, 15 jours plus tôt, de Stewart [dont je m'étais aussi moqué sur Twitter](http://twitter.com/crouzet/status/2651186115) a été la goutte qui a fait déborder mon vase.
 2. Quand on fait un truc il me semble honnête intellectuellement de regarder ce qui s’est fait avant. De faire un historique pour s’inscrire dans le flux de pensée qui souvent remonte des siècles en arrière. Se proclamer le premier, c’est toujours une imposture marketing. Du mépris pour tous ceux qui précèdent. Voilà une autre explication de mon énervement.
 3. Publier sur Twitter est une façon de faire entrer la littérature dans le flux, de faire se rejoindre des rivières pour qu'elles deviennent un fleuve qui peut-être engloutira celui de l'ancien monde de l'édition. On n'est pas en train de chercher à savoir qui le premier a trouvé la source du Nil, ni même de savoir s'il y a une source ou plusieurs. On se contente d'alimenter le flot et de l'enrichir sans cesse.
 

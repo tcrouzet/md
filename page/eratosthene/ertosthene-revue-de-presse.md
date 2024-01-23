@@ -14,9 +14,9 @@
 
 7. 30/10/2014, La Gazette de Montpellier, Thierry Crouzet se branche sur Ératosthène, Lionel Navaro.
 
-![gazette](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/gazette.jpg)
+![gazette](https://tcrouzet.com/images_tc/2014/08/gazette.jpg)
 
-9. 9/10/2014, lectrice, [Ératosthène-Junior-Junior](http://blog.tcrouzet.com/2014/10/09/eratosthene-junior-junior/), Line Fromental.
+9. 9/10/2014, lectrice, [Ératosthène-Junior-Junior](/2014/10/09/eratosthene-junior-junior/), Line Fromental.
 
 10. 23/9/2014, Prospective du Livre, [En compagnie d'Ératosthène](http://ple-consulting.blogspot.fr/2014/09/en-compagnie-deratosthene.html), Lorenzo Soccavo.
 

@@ -1,10 +1,10 @@
 # Les maux démocratiques
 
-Près de [70 % des Français](http://blog.tcrouzet.com/2006/06/01/1-milliard/) ne se reconnaîtraient ni dans la droite, ni dans la gauche ! Aujourd'hui, il y a un immense décalage entre ce que nous souhaitons individuellement et ce que souhaitent les hommes au pouvoir. La démocratie souffre de maux qu'il faudra bien traiter un jour ou l'autre.
+Près de [70 % des Français](/2006/06/01/1-milliard/) ne se reconnaîtraient ni dans la droite, ni dans la gauche ! Aujourd'hui, il y a un immense décalage entre ce que nous souhaitons individuellement et ce que souhaitent les hommes au pouvoir. La démocratie souffre de maux qu'il faudra bien traiter un jour ou l'autre.
 
 La complexification exponentielle des technologies entraîne une complexification de la société. Cette complexification sociale n'est peut-être pas exponentielle mais elle est certaine. Conséquence : il faut adopter de nouvelles façons de faire de la politique. Nous ne devons pas nous complaire dans un modèle démocratique vieux de plus de deux siècles dans sa forme actuelle. Il n'est pas optimisé pour la réalité d'aujourd'hui. L'ancienneté de la démocratie représentative en fait un ancien régime. C'est un peu pareil avec le football qui refuse la vidéo et ne se modernise pas. On change les joueurs mais pas le jeu.
 
-Parmi les hommes politiques installés, aucun ne veut changer les règles du jeu qui l'ont amené au pouvoir. En France, aucun n'a la carrure d'un [Gorbatchev](http://blog.tcrouzet.com/2006/05/02/vive-gorbatchev/). Seuls des hommes nouveaux auront la force de changer les choses car ils n'ont rien à perdre. Les autres n'ont pas envie de tuer la poule aux œufs d'or.
+Parmi les hommes politiques installés, aucun ne veut changer les règles du jeu qui l'ont amené au pouvoir. En France, aucun n'a la carrure d'un [Gorbatchev](/2006/05/02/vive-gorbatchev/). Seuls des hommes nouveaux auront la force de changer les choses car ils n'ont rien à perdre. Les autres n'ont pas envie de tuer la poule aux œufs d'or.
 
 Alors que les critiques, mais aussi les solutions, n'ont jamais été aussi nombreuses, le pouvoir continue de faire comme s'il n'entendait pas. Incapable de participer à nos débats, il se laisse tenter par des dérives autoritaristes, de type Patriot Act aux États-Unis, qui lui donnent l'illusion de tenir les rênes. Son ambition est de simplifier la société plutôt que d'accepter sa vertigineuse diversité.
 

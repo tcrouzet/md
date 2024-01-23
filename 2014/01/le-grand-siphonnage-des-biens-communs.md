@@ -6,7 +6,7 @@ Pour avoir un début de réponse, il faudrait étudier la répartition des riche
 
 Tant que nous ne serons que choqués, il ne se passera rien. Nous pouvons juste en déduire que le libéralisme économique est un échec. ll n’a réussi qu’à rendre les riches plus riches, [les déséquilibres entre pauvres et riches n’ayant fait que s’accentuer depuis 1980](http://www.oxfam.org/fr/policy/finir-inegalites-extremes).
 
-Le modèle libéral ne marche pas, il en faut un autre. Il passe sans doute par le [commonisme](http://blog.tcrouzet.com/tag/commonisme/), la mise en commun simultanée des ressources limitées et des ressources quasi illimitées.
+Le modèle libéral ne marche pas, il en faut un autre. Il passe sans doute par le [commonisme](/tag/commonisme/), la mise en commun simultanée des ressources limitées et des ressources quasi illimitées.
 
 Il est inacceptable que celui assis sur une mine d’or soit le seul à bénéficier de cette manne créée au moment de la formation de la planète. Il est tout aussi inacceptable que des petits malins construisent des barrages pour raréfier artificiellement des ressources potentiellement abondantes. Ce second problème est relativement neuf. Il se développe avec la technologie qui, elle-même, se développe exponentiellement, offrant la possibilité de barrages de plus en plus gigantesques et sophistiqués. Et c’est ainsi que les 85 apparaissent et que bientôt ils disposeront d’autant de richesses que les 5 milliards les plus pauvres. Et ça ne s’arrêtera pas. Nous assistons au grand siphonnage des biens communs.
 
@@ -30,7 +30,7 @@ Au contraire, qui dit bien commun, dit décentralisation.
 
 Après le libéralisme économique, nous devons passer à la libéralisation des biens communs. C’est un tout autre programme. La commonisation de la monnaie reviendra à instaurer le revenu de base.
 
-![Siphoning par bradleyolin.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/siphoning-630x472.jpg)
+![Siphoning par bradleyolin.](https://tcrouzet.com/images_tc/2014/01/siphoning-630x472.jpg)
 
 
 

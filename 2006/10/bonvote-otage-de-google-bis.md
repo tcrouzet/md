@@ -1,6 +1,6 @@
 # BonVote : otage de google, bis
 
-Première explication de [la disparition de bonVote de Google](http://blog.tcrouzet.com/2006/10/09/bonvote-otage-de-google/) : un passage dans la [sandbox](http://www.7-dragons.com/sandbox.php).
+Première explication de [la disparition de bonVote de Google](/2006/10/09/bonvote-otage-de-google/) : un passage dans la [sandbox](http://www.7-dragons.com/sandbox.php).
 
 C’est une zone tampon mise en place pour lutter contre le spam. Les nouveaux sites dont le trafic monte soudainement (c’est le cas de [bonVote](http://www.bonvote.com)), dont on parle beaucoup (c’est le cas de [bonVote](http://www.bonvote.com)) et qui reçoivent une grande masse de liens externes (c’est le cas de [bonVote](http://www.bonvote.com)) risquent de s’y retrouver pendant une période de quarantaine plus ou moins longue.
 

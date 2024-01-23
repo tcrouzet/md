@@ -8,7 +8,7 @@ Si le cinquième pouvoir existe il ne faut pas le juger avec de vieux critères.
 
 ### 2/ Une journée trop organisée
 
-[Vinvin](http://blog.tcrouzet.com/2007/03/10/agoravox-nous-invite-a-l%e2%80%99usine/) cherche par exemple à démontrer que le cinquième pouvoir n’existe pas parce qu’il n’est pas organisé. C’est justement parce qu’il ne l’est pas qu’il forme un nouveau pouvoir. Tout ce qui est trop organisé lui est étranger, même cette journée d’aujourd’hui.
+[Vinvin](/2007/03/10/agoravox-nous-invite-a-l%e2%80%99usine/) cherche par exemple à démontrer que le cinquième pouvoir n’existe pas parce qu’il n’est pas organisé. C’est justement parce qu’il ne l’est pas qu’il forme un nouveau pouvoir. Tout ce qui est trop organisé lui est étranger, même cette journée d’aujourd’hui.
 
 ### 3/ Beaucoup de gens flippent
 
@@ -48,6 +48,6 @@ Alors c’est quoi le cinquième pouvoir ? Voici ma meilleure définition à ce
 
 Il n’est pas un pouvoir mais une infinité de pouvoirs individuels. Il est un non-pouvoir, il nie la nécessité d’un commandement fort et montre que, entre chacun de nous, des choses importantes se produisent.
 
-Pour répondre à [Vinvin](http://blog.tcrouzet.com/2007/03/10/agoravox-nous-invite-a-l%e2%80%99usine/), le fait que ce non-pouvoir ne soit pas organisé (sous-entendu hiérarchiquement), c’est toute sa force. Comme il n’a pas de chef, de centre, il ne peut être contrôlé. Bien sûr, il est divers, il se contredit sans cesse, mais c’est la vie… et nous allons le découvrir aujourd’hui j’espère.
+Pour répondre à [Vinvin](/2007/03/10/agoravox-nous-invite-a-l%e2%80%99usine/), le fait que ce non-pouvoir ne soit pas organisé (sous-entendu hiérarchiquement), c’est toute sa force. Comme il n’a pas de chef, de centre, il ne peut être contrôlé. Bien sûr, il est divers, il se contredit sans cesse, mais c’est la vie… et nous allons le découvrir aujourd’hui j’espère.
 
 Tags: Politique

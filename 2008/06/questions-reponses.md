@@ -1,6 +1,6 @@
 # Questions / Réponses
 
-[Commentaire à la suite du fil précédent.](http://blog.tcrouzet.com/2008/06/18/manifeste-pour-un-nouveau-monde/)
+[Commentaire à la suite du fil précédent.](/2008/06/18/manifeste-pour-un-nouveau-monde/)
 
 *Pourquoi ai-je un problème avec l’autorité hiérarchique ?*
 
@@ -22,7 +22,7 @@ Quand quelques personnes se trouvent face à un problème simple (par opposition
 
 *Tout groupe cohérent durable se base sur une certaine hiérarchie.*
 
-J’ai cent fois aussi répondu à cette question ([en parlant des Apache par exemple](http://blog.tcrouzet.com/2007/06/05/la-revanche-des-apaches/)). Des dizaines d’exemples démontrent le contraire. Une ville regardée sur une échelle de temps de plusieurs siècles, temps adapté à son rythme de vie, ne présente aucune forme d’autorité durable. La ville résulte essentiellement d’une auto-organisation sans que son développement général soit dirigé.
+J’ai cent fois aussi répondu à cette question ([en parlant des Apache par exemple](/2007/06/05/la-revanche-des-apaches/)). Des dizaines d’exemples démontrent le contraire. Une ville regardée sur une échelle de temps de plusieurs siècles, temps adapté à son rythme de vie, ne présente aucune forme d’autorité durable. La ville résulte essentiellement d’une auto-organisation sans que son développement général soit dirigé.
 
 Auto-organisation et émergence sont les deux concepts clés pour comprendre ces phénomènes. J’ai essayé de les présenter dans *Le peuple des connecteurs*.
 
@@ -46,11 +46,11 @@ C’est à ce stade que mon côté activiste entre en jeu. En multipliant les li
 
 Ce monde des réseaux ne sera pas un monde plat mais plutôt hyper-sphérique et hyper-dynamique. On entre dans une nouvelle dimension où le bottom-up joue un rôle central.
 
-Le bottom-up ne veut pas dire se mettre au service d’un chef (vision qu’aiment nos chefs) mais faire monter vers la surface. [J’ai souvent discuté ce phénomène, encore lié à l’émergence et à l’auto-organisation.](http://blog.tcrouzet.com/2007/10/01/confusion-autour-du-bottom-up/)
+Le bottom-up ne veut pas dire se mettre au service d’un chef (vision qu’aiment nos chefs) mais faire monter vers la surface. [J’ai souvent discuté ce phénomène, encore lié à l’émergence et à l’auto-organisation.](/2007/10/01/confusion-autour-du-bottom-up/)
 
 Si quelques personnes décident de boycotter un produit, si elles en persuadent d’autres de faire de même, si le boycott se propage, le réseau aura pris la décision de boycotter. C’est ça le bottom-up. Personne n’a décidé. La décision, c’est l’acceptation des gens à propager une proposition.
 
-L’initiateur du mouvement est nécessaire mais il n’a rien décidé. Beaucoup de graines sont plantées mais peu poussent. Il faut des initiateurs, des visionnaires, puis il faut que le réseau s’emparent de leurs idées et les fassent grossir. Dans ce processus, la décision est collective, l’action peut devenir globale. [L’abolitionnisme s’est propagé de cette façon en Grande-Bretagne par exemple.](http://blog.tcrouzet.com/2007/05/31/la-fin-de-l%e2%80%99esclavage%e2%80%a6/)
+L’initiateur du mouvement est nécessaire mais il n’a rien décidé. Beaucoup de graines sont plantées mais peu poussent. Il faut des initiateurs, des visionnaires, puis il faut que le réseau s’emparent de leurs idées et les fassent grossir. Dans ce processus, la décision est collective, l’action peut devenir globale. [L’abolitionnisme s’est propagé de cette façon en Grande-Bretagne par exemple.](/2007/05/31/la-fin-de-l%e2%80%99esclavage%e2%80%a6/)
 
 Je ne crois pas que nous nous dirigeons vers un âge idyllique. Simplement nous entrevoyons une possibilité pour affronter les problèmes complexes. Elle passe par un changement social majeur. Sans ce changement, nous ne nous en sortirons pas sans réduire drastiquement la complexité qui aujourd’hui croit exponentiellement.
 

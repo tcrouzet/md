@@ -16,7 +16,7 @@ Maintenant qu’il est facile de composer et de distribuer ses productions, il r
 
 Comme les productions sont en nombre gigantesque, il n’y aura jamais de place pour toutes dans l’audimat. Que vont devenir toutes ces œuvres, et surtout tous leurs auteurs déçus. J’espère qu’ils vont se contenter d’une place dans la longue traîne. Après tout, excepté durant les 200 dernières années, les artistes n’ont jamais eu de large audience. Ils adressaient un marché de niche. Nous en reviendrons peut-être à cette situation, avec quelques stars anecdotiques.
 
-Si nous quittons l’époque de la production de masse, des stars de masse, nous entrerons dans celle de la longue traîne. Plutôt que de travailler pour des entreprises qui diffusent à grande échelle, nous serons les diffuseurs de nos propres créations. Artiste ou pas, nous serons des artisans. Nous posséderons l’outil de production et diffuserons notre production. Nous serons des hackers au sens où l’entend [McKenzie Wark](http://blog.tcrouzet.com/2007/07/16/loin-d%e2%80%99etre-libre/).
+Si nous quittons l’époque de la production de masse, des stars de masse, nous entrerons dans celle de la longue traîne. Plutôt que de travailler pour des entreprises qui diffusent à grande échelle, nous serons les diffuseurs de nos propres créations. Artiste ou pas, nous serons des artisans. Nous posséderons l’outil de production et diffuserons notre production. Nous serons des hackers au sens où l’entend [McKenzie Wark](/2007/07/16/loin-d%e2%80%99etre-libre/).
 
 Les artistes vivront artisanalement tout comme le boulanger ou l’informaticien. Des artisans pourront travailler ensemble à des projets open source de grande envergure sans que personne ne soit le maître, et encore moins le propriétaire, de ces projets.
 

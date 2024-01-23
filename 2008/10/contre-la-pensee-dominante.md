@@ -16,9 +16,9 @@ Je ne dis pas que c’est vous qui agissez comme ça. Tous les communistes n’�
 
 Si vous êtes idéalistes, avouez-vous-le. Ce n’est pas grave. La grande majorité des hommes ont accepté ce point de vue. Mais cette approche me paraît incompatible avec la pensée réseau… cette pensée de l’interdépendance sans laquelle je ne vois pas comment on peut parler d’holisme.
 
-Dans un réseau, des entités se forment. On les voit déjà sur la carte d’internet. [C’est pour cette raison que j’ai utilisé des couleurs sur mes schémas.](http://blog.tcrouzet.com/2008/10/02/de-l%e2%80%99idealisme-a-la-complexite/) Une structure émergente, comme la flotte des oiseaux, est une entité.
+Dans un réseau, des entités se forment. On les voit déjà sur la carte d’internet. [C’est pour cette raison que j’ai utilisé des couleurs sur mes schémas.](/2008/10/02/de-l%e2%80%99idealisme-a-la-complexite/) Une structure émergente, comme la flotte des oiseaux, est une entité.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/10/wilber5.gif)
+![](https://tcrouzet.com/images_tc/2008/10/wilber5.gif)
 
 Ce qui me paraît important c’est qu’une même connexion participe à plusieurs entités. Il n’y a pas unicité ou totalité… tout dépend de notre représentation.
 

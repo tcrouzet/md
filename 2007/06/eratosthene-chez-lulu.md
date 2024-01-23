@@ -1,6 +1,6 @@
 # Ératosthène chez lulu
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200706beta.jpg)
+![](https://tcrouzet.com/images_tc/200706beta.jpg)
 
 Je viens de boucler mon roman sur Ératosthène, de générer un PDF et de le publier sur [lulu.com](http://www.lulu.com/browse/book_view.php?fCID=925053).
 

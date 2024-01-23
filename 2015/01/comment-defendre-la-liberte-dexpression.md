@@ -42,7 +42,7 @@ Se lever pour la liberté d’expression, c’est une bonne intention qui doit s
 
 *PS : Au moment où la nation se trouve renforcée, les grands journaux voient leur audience augmenter, signe déjà d'une recentralisation de l'audience, signe que de nombreuses autres voix parlent dans le vide.*
 
-![Où est Charlie maintenant ? Tout là-bas dans le bleu.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/soleil.jpg)
+![Où est Charlie maintenant ? Tout là-bas dans le bleu.](https://tcrouzet.com/images_tc/2015/01/soleil.jpg)
 
 Où est Charlie maintenant ? Tout là-bas dans le bleu.
 

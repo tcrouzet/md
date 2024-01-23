@@ -1,6 +1,6 @@
 # Des canailles nous gouvernent &#8211; preuve
 
-Parce que j'ai publié [un même ebook à différents prix](http://blog.tcrouzet.com/tune-caniveau/), je serai bientôt considéré comme hors la loi. [Tel est en tout cas le souhait des sénateurs s'il faut en croire le projet de loi qu'ils viennent de voter](http://www.senat.fr/petite-loi-ameli/2010-2011/51.html).
+Parce que j'ai publié [un même ebook à différents prix](/tune-caniveau/), je serai bientôt considéré comme hors la loi. [Tel est en tout cas le souhait des sénateurs s'il faut en croire le projet de loi qu'ils viennent de voter](http://www.senat.fr/petite-loi-ameli/2010-2011/51.html).
 
 > Toute personne \[ \] qui édite un livre numérique dans le but de sa diffusion commerciale en France est tenue de fixer un prix de vente au public pour tout type d'offre à l'unité ou groupée. Ce prix est porté à la connaissance du public.
 

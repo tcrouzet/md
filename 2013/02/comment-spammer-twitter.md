@@ -1,8 +1,8 @@
 # Comment spammer Twitter
 
-Je vois tant de comptes corrompus, tant de tricheries que, [encore une fois](http://blog.tcrouzet.com/2009/09/24/qui-a-la-plus-grosse-quequette-sur-twitter/), j’ai envie de les dénoncer pour dénoncer tout un écosystème désormais vicié.
+Je vois tant de comptes corrompus, tant de tricheries que, [encore une fois](/2009/09/24/qui-a-la-plus-grosse-quequette-sur-twitter/), j’ai envie de les dénoncer pour dénoncer tout un écosystème désormais vicié.
 
-Et autant jouer avec, donner un exemple à une échelle modeste, et presque humanitaire. Montrer comment on peut promouvoir un livre. Le mien, bien sûr. [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) qui sort le 27 mars chez Fayard.
+Et autant jouer avec, donner un exemple à une échelle modeste, et presque humanitaire. Montrer comment on peut promouvoir un livre. Le mien, bien sûr. [*La quatrième théorie*](/la-quatrieme-theorie/) qui sort le 27 mars chez Fayard.
 
 La méthode ne nécessite aucune programmation.
 
@@ -13,7 +13,7 @@ Des centaines d’agences de marketing usent et abusent de cette technique, qui 
 
 ### Qui spammer
 
-Dans mon exemple, je vais donc rester modeste. Chaque fois que quelqu’un parlera de « twittérature », je lui indiquerai que j’ai écrit un article sur [l’histoire de la twittérature](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/).
+Dans mon exemple, je vais donc rester modeste. Chaque fois que quelqu’un parlera de « twittérature », je lui indiquerai que j’ai écrit un article sur [l’histoire de la twittérature](/la-quatrieme-theorie/la-quatrieme-theorie-liens/).
 
 Pour détecter mes cibles, une requête sur un hashtag ou un mot clé fera l’affaire. Pour un temps encore, Twitter nous fournit un URL très pratique :
 
@@ -31,17 +31,17 @@ Cette opération qui jadis aurait demandé un peu de programmation s’effectue 
 
 Sous IFTTT, je crée une règle qui chaque fois que le fil RSS s’actualise envoie les données dans un tableau créé sous Google Drive.
 
-![IFTTT 1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/spam1.png)
+![IFTTT 1](https://tcrouzet.com/images_tc/2013/02/spam1.png)
 
 Les champs parlent d’eux-mêmes. Adresse du fil RSS, nom du tableau, dossier où il est rangé sous Google Drive. Toute l’intelligence se concentre sur le dernier champ. Dans chaque ligne du tableau, en plus des données qui proviennent du fil RSS, j’ajoute des formules. La première détermine le @ de la cible. La seconde compte le nom d’apparition du @ dans le tableau. La troisième fait appel à une fonction que j’ai bricolée et qui reformate la date.
 
 Sous Google Drive, j’ai donc créé un tableau intitulé « twitterature » ([que vous pouvez ouvrir](https://docs.google.com/spreadsheet/ccc?key=0AiBY7ykSG8t6dFZYOVFaSjB3cHpZYnVZZTU1bjFzNmc&usp=sharing)). IFTTT envoie automatiquement les données dans la feuille « Sheet1 ».
 
-![Sheet1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/spam2.png)
+![Sheet1](https://tcrouzet.com/images_tc/2013/02/spam2.png)
 
 Les autres feuilles m’aident à trier les données dans l’ordre antichronologique, à écarter les cibles en doublons, à vérifier que les messages contiennent bien le mot-clé recherché et ne pointent pas déjà vers moi.
 
-![Données filtrées](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/spam3.png)
+![Données filtrées](https://tcrouzet.com/images_tc/2013/02/spam3.png)
 
 Au final, j’obtiens un tableau avec les noms de mes cibles, la dernière en date en haut de la liste.
 
@@ -49,9 +49,9 @@ Au final, j’obtiens un tableau avec les noms de mes cibles, la dernière en da
 
 IFTTT ne sait pas encore utiliser des tableaux Google Drive pour déclencher des actions. Il faut transformer le tableau en fil RSS. Je n’ai pas trouvé comment créer un fil propre directement avec Google, j’ai utilisé une WebApp : [Templated Export for Google Spreadsheets](http://mashe.hawksey.info/2012/08/templated-export-for-google-spreadsheets/).
 
-![spam4](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/spam4.png)
+![spam4](https://tcrouzet.com/images_tc/2013/02/spam4.png)
 
-Dans l’application j’indique la clé du tableau (visible dans l’URL), la plage de cellules à exporter, puis je définis en-tête, corps et pieds de mon fil RSS (pour gagner du temps, [importez mon templateTemplatedExportBackup](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/TemplatedExportBackup.zip)).
+Dans l’application j’indique la clé du tableau (visible dans l’URL), la plage de cellules à exporter, puis je définis en-tête, corps et pieds de mon fil RSS (pour gagner du temps, [importez mon templateTemplatedExportBackup](https://tcrouzet.com/images_tc/2013/02/TemplatedExportBackup.zip)).
 
 Il ne reste qu’à publier l’URL, en veillant à le rendre public. [Vous obtenez un beau fil RSS qui liste les gens qui discutent de twittérature sur Twitter.](https://script.googleusercontent.com/a/macros/tcrouzet.com/echo?user_content_key=9Fk0aZtiJrx7JX25RI7xTKHNotApQWsPiTSugDPDBBgYXYzt6BrMIRX9JkX_Q27m6pjhS-4usPsZupWu27vELzsTJnCSb4xmOJmA1Yb3SEsKFZqtv3DaNYcMrmhZHmUMi80zadyHLKDuE4OM1Xou3CbWYcfMZpSH68n4RAo2RJyLoX8PfsiHKZ9sFnGLq3KJS8Lji8e3XvdzTgdPpJyKweAsE8hrKypHYAp_lQqK7-A6hKWAkHqsuc9yOkEvUYC_7BGWuhy35Hev6_VAgtvYnnX0za6dEiW5Ml0Z3HohRVhbv2QsER5KXw&lib=MGlh2xigtvLKmIg0Au-am1SLIwXiD5OKf)
 
@@ -59,7 +59,7 @@ Il ne reste qu’à publier l’URL, en veillant à le rendre public. [Vous obte
 
 De retour sur IFTTT, je crée une action qui à chaque nouvelle cible poste un message depuis mon compte. C’est terminé.
 
-![IFTTT 2](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/spam5.png)
+![IFTTT 2](https://tcrouzet.com/images_tc/2013/02/spam5.png)
 
 J’espère que mes cibles trouveront mon message intéressant et ne vont pas me bannir. Les tricheurs professionnels, eux, créent des comptes dédiés au spam, ça va de soi. Et ils ne crient pas sur tous les toits qu’ils spamment, même de manière intelligente. Que de détours pour vous dire de commander mon prochain livre. Ouf, c’est vraiment terminé cette fois.
 

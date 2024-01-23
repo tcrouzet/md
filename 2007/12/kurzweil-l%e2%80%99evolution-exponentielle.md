@@ -1,12 +1,12 @@
 # Kurzweil : l’évolution exponentielle
 
-Denis Failly a publié un [intéressant interview de Ray Kurzweil](http://entretiens-du-futur.blogspirit.com/archive/2007/12/02/humanite-2-0-la-bible-du-changement.html). J’ai parlé du futurologue dans [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), je me suis même appuyé sur ses idées pour défendre les miennes. Maintenant que je travaille à [la seconde édition de mon livre](http://blog.tcrouzet.com/2007/11/20/liberer-les-connecteurs/), j’arrive à une contradiction flagrante.
+Denis Failly a publié un [intéressant interview de Ray Kurzweil](http://entretiens-du-futur.blogspirit.com/archive/2007/12/02/humanite-2-0-la-bible-du-changement.html). J’ai parlé du futurologue dans [*Le peuple des connecteurs*](/le-peuple-des-connecteurs/), je me suis même appuyé sur ses idées pour défendre les miennes. Maintenant que je travaille à [la seconde édition de mon livre](/2007/11/20/liberer-les-connecteurs/), j’arrive à une contradiction flagrante.
 
-1. Je suppose que l’avenir est imprévisible à cause de la complexité de notre monde et que l’imprévisibilité grandissante accroît d’autant la complexité. [J’admets tout au plus l’existence de poches de prévisibilités à court terme.](http://blog.tcrouzet.com/2007/12/11/comprendre-n%e2%80%99est-pas-prevoir/)
+1. Je suppose que l’avenir est imprévisible à cause de la complexité de notre monde et que l’imprévisibilité grandissante accroît d’autant la complexité. [J’admets tout au plus l’existence de poches de prévisibilités à court terme.](/2007/12/11/comprendre-n%e2%80%99est-pas-prevoir/)
 
 2. Kurzweil trace des courbes, les prolonge, parle du prochain quart de siècle comme s’il était écrit dans le marbre, sa vision ne se brouillant qu’à l’approche de la singularité, qu’il estime pour 2045, date à partir de laquelle les machines deviendront si intelligentes que toute anticipation devient illusoire.
 
-![kurzweil.gif](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/12/kurzweil.gif)
+![kurzweil.gif](https://tcrouzet.com/images_tc/2007/12/kurzweil.gif)
 
 Mon goût pour le transhumanisme m’incite à accepter les prévisions de Kurzweil, mais elles restent une potentialité, nous n’avons pas à leur prêter attention. L’avenir sera autre à coup sûr. La moindre petite débâcle climatique suffirait à mettre à terre les rêves de Kurzweil et pourquoi pas nous plonger dans un nouvel âge noir, repoussant bien loin l’avenir radieux annoncé.
 
@@ -28,7 +28,7 @@ Les courbes exponentielles mises en évidence par Kurzweil sont-elles la signatu
 
 Même si c’était le cas, rien n’empêcherait cette évolution de connaître des cassures momentanées, donc nous mettre en situation d’imprévisibilité. Et, si nous suivons effectivement cette courbe, nous ne pouvons pas savoir quelles technologies nous permettront de tenir la cadence. Kurzweil s’avance en pariant sur les technologies naissant actuellement alors que peut-être une nouvelle technologie encore inconnue nous maintiendra sur la courbe.
 
-Par ailleurs, [si la réduction des individus à des atomes sociaux nous aide à comprendre certains aspects de nos sociétés](http://blog.tcrouzet.com/2007/12/11/comprendre-n%e2%80%99est-pas-prevoir/), elle ne nous aide pas, pour le moment en tous cas, à les prévoir, sinon dans des cas simples, donc exceptionnels.
+Par ailleurs, [si la réduction des individus à des atomes sociaux nous aide à comprendre certains aspects de nos sociétés](/2007/12/11/comprendre-n%e2%80%99est-pas-prevoir/), elle ne nous aide pas, pour le moment en tous cas, à les prévoir, sinon dans des cas simples, donc exceptionnels.
 
 Ce n’est pas parce que la courbe de Kurzweil se vérifie jusqu’à aujourd’hui qu’elle sera vraie demain (raisonnement inductif). N’oublions pas que nous avons le don de tracer les courbes qui nous conviennent, écartant les valeurs qui pourraient nous déranger. Je ne dis pas que Kurzweil triche mais, comme il ne justifie pas le fond de sa théorie, j’ai tendance à le considérer comme un prophète sympathique.
 

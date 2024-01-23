@@ -2,7 +2,7 @@
 
 Le cinquième pouvoir ne cohabitera pas éternellement avec les pouvoirs centralisés qui ont pour fâcheuse tendance d’épuiser la planète et d’épuiser les hommes, les berçant de quelques illusions mercantiles pour replacer le vieil opium des religions.
 
-En mars 2008, j’évoquais [la puissance de la guérilla](http://blog.tcrouzet.com/2008/03/30/la-premiere-puissance-mondiale-c%E2%80%99est-la-guerilla/). Quand, à l’automne, [j’ai vu que quelques caténaires sautaient, je me suis dit qu’on y était](http://blog.tcrouzet.com/2008/11/10/sncf-hors-tension/), c’était le début, les premières expériences grandeur nature.
+En mars 2008, j’évoquais [la puissance de la guérilla](/2008/03/30/la-premiere-puissance-mondiale-c%E2%80%99est-la-guerilla/). Quand, à l’automne, [j’ai vu que quelques caténaires sautaient, je me suis dit qu’on y était](/2008/11/10/sncf-hors-tension/), c’était le début, les premières expériences grandeur nature.
 
 Nos policiers ont arrêté sans preuves Julien Coupat. Ils l’ont emprisonné au-delà du nécessaire, il est devenu le héros public d’une contestation jusqu’alors souterraine. Et si le pouvoir avait créé le martyr qui allait réveiller les foules ? La puissance centralisée a tant besoin d’un ennemi identifié qu’elle n’a pu s’empêcher de donner un cœur à une force qui se cherchait encore. [En lisant Coupat dans *Le Monde*](http://www.lemonde.fr/societe/article/2009/05/25/julien-coupat-la-prolongation-de-ma-detention-est-une-petite-vengeance_1197456_3224.html), je me demande maintenant si elle ne lui a pas donné une âme.
 

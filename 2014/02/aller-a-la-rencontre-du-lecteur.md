@@ -20,7 +20,7 @@ La lectrice repose le livre sur sa pile, d’un air de dédain, elle s’en va. 
 
 Il m'arrive de donner des conférences. En une heure, j’échange davantage qu'en deux jours planté derrière une table. Et je vends même plus de livres. Organisateurs, donnez-nous des tribunes, ouvrez des blogs vivants et stimulez les interactions. Que chacun occupe un moment l’espace, qu'il l'emplisse de sa poésie, et qu'il retrouve après sa vie, peut-être en écoutant ses amis exprimer à leur tour leur beauté. Changez tout. Adaptez le salon au temps numérique.
 
-![Quai du Polar, mars 2013.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/04/quaisdupolar.jpg)
+![Quai du Polar, mars 2013.](https://tcrouzet.com/images_tc/2013/04/quaisdupolar.jpg)
 
 Quai du Polar, mars 2013.
 

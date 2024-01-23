@@ -20,7 +20,7 @@ Bien sûr, certaines choses changent moins vite que d’autres à l’échelle d
 
 ---
 
-Je ne crois guère à la possibilité de prendre de la hauteur, et donc d’oublier les conditions de production des œuvres. Je suis du côté de Sainte-Beuve et pas de celui de Proust [comme je l’ai expliqué dans un billet](http://blog.tcrouzet.com/2015/06/19/a-force-de-peter-plus-haut-que-leur-cul-les-litteraires-se-ridiculisent/). Je suis tombé sur une réflexion de Faulkner pour moi inacceptable:
+Je ne crois guère à la possibilité de prendre de la hauteur, et donc d’oublier les conditions de production des œuvres. Je suis du côté de Sainte-Beuve et pas de celui de Proust [comme je l’ai expliqué dans un billet](/2015/06/19/a-force-de-peter-plus-haut-que-leur-cul-les-litteraires-se-ridiculisent/). Je suis tombé sur une réflexion de Faulkner pour moi inacceptable:
 
 > I will protest to the last: no photographs, no recorded documents. It is my ambition to be, as a private individual, abolished and voided from history, leaving it markless, no refuse save the printed books; I wish I had enough sense to see ahead thirty years ago, and like some of the Elizabethans, not signed them. It is my aim, and every effort bent, that the sum and history of my life, which in the same sentence is my obit and epitaph too, shall be them both: He made the books and he died.
 

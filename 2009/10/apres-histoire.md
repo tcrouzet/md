@@ -10,7 +10,7 @@ L’Histoire s’achève. Non pas comme l’avait prédit Francis Fukuyama pour 
 
 ---
 
-Voici un projet de quatrième de couverture pour [mon prochain livre](http://blog.tcrouzet.com/tag/flux/). *Après l'Histoire* en sera en toute probabilité le titre (avec un sous-titre à venir car il existe déjà un [*Après l'Histoire*](http://www.amazon.fr/Apr%C3%A8s-lHistoire-Philippe-Muray/dp/2070783839) dans un autre genre). Sortie maintenant prévue pour début avril. L'ebook sera disponible en lecture gratuite dès le courant février.
+Voici un projet de quatrième de couverture pour [mon prochain livre](/tag/flux/). *Après l'Histoire* en sera en toute probabilité le titre (avec un sous-titre à venir car il existe déjà un [*Après l'Histoire*](http://www.amazon.fr/Apr%C3%A8s-lHistoire-Philippe-Muray/dp/2070783839) dans un autre genre). Sortie maintenant prévue pour début avril. L'ebook sera disponible en lecture gratuite dès le courant février.
 
 ### Pourquoi *Après l’Histoire ?*
 

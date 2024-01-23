@@ -81,7 +81,7 @@ La lutte contre les infections liées aux soins, particulièrement l’hygiè
 
 ### Pourquoi une licence Creative Commons
 
-[À la suite](http://www.framablog.org/index.php/post/2013/12/02/utopie-du-logiciel-libre-sebastien-broca) de nombreux auteurs [commonistes](http://blog.tcrouzet.com/tag/commonisme/), j'ai choisi la variante [Creative Commons by-nc-nd](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr), même si ce n'est pas une licence tout à fait libre.
+[À la suite](http://www.framablog.org/index.php/post/2013/12/02/utopie-du-logiciel-libre-sebastien-broca) de nombreux auteurs [commonistes](/tag/commonisme/), j'ai choisi la variante [Creative Commons by-nc-nd](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr), même si ce n'est pas une licence tout à fait libre.
 
 1. Didier Pittet a donné sa formule pour faciliter l’universalisation de l’hygiène des mains. Ce livre veut participer à cette universalisation. Il doit être distribué selon les mêmes règles.
 

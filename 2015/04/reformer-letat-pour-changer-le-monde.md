@@ -2,7 +2,7 @@
 
 Nous voyons tous que le monde tourne pas rond. Même les ultrariches se demandent quand on va finir par leur couper la tête. Mais comment transiter de notre situation pourrie vers une autre qui, sans être parfaite, serait un peu plus harmonieuse ?
 
-[Dans mon bilan mi-figue mi-raisin de mes dix dernières années d’activisme](http://blog.tcrouzet.com/2015/04/26/lirresistible-vertivalisation-du-monde), j’ai dit qu’il fallait d’abord et avant tout une prise de conscience, auxquels certains ont vu comme un renoncement au politique. Du coup, j’ai mal dormi et j’ai pensé à un autre scénario, peut-être déjà à l’œuvre depuis l’époque de Marx.
+[Dans mon bilan mi-figue mi-raisin de mes dix dernières années d’activisme](/2015/04/26/lirresistible-vertivalisation-du-monde), j’ai dit qu’il fallait d’abord et avant tout une prise de conscience, auxquels certains ont vu comme un renoncement au politique. Du coup, j’ai mal dormi et j’ai pensé à un autre scénario, peut-être déjà à l’œuvre depuis l’époque de Marx.
 
 ### Portrait rapide de l’époque
 
@@ -52,7 +52,7 @@ On peut s’amuser à écrire l’Histoire.
 
 Selon ce scénario, la réforme passerait par la politique. Des élus improbables réformeraient les services de l’État. Malheureusement, pour être élu dans le système des silos, il faut avoir mis à sa botte le silo d’un parti. Ce n’est pas gagné. D'autant que tous les gouvernements semblent suivre une politique contraire en transformant peu à peu leurs services en entreprises comme les autres.
 
-![Silos par Doc Searls.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/silos-600x304.jpg)
+![Silos par Doc Searls.](https://tcrouzet.com/images_tc/2015/04/silos-600x304.jpg)
 
 
 

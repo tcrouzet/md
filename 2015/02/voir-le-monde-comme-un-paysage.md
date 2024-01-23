@@ -34,7 +34,7 @@ Des artistes aiment les gros plans, j’aime les vues lointaines qui révèlent 
 
 Si j’aime autant le paysage, c’est sans doute pour une proximité intellectuelle. Mon cerveau entraîné à le ressentir à force d’adopter une vision numérique du monde, porteuse de toute la complexité des interactions qui ont depuis toujours échappées aux investigations de la pensée analogique, forcée de rechercher des invariants, des idéaux, pour interpréter les phénomènes par une espèce d’arithmétique causale, alors que la pensée numérique, ne recherche pas la compréhension directe, mais plutôt se satisfait de simuler les phénomènes, de leur redonner vie à partir de quelques mécanismes élémentaires que les ordinateurs peuvent répéter indéfiniment jusqu’à ce qu’une réalité émerge. Dans le cas contraire, il faut recommencer, proposer un autre jeu de règles. Cette façon de voir le monde en paysagiste est assez particulière. Elle est la mienne du haut de ma garrigue.
 
-![Un paysage sur lequel il faut zoomer pour l'explorer.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/garrigue.jpg)
+![Un paysage sur lequel il faut zoomer pour l'explorer.](https://tcrouzet.com/images_tc/2015/02/garrigue.jpg)
 
 Un paysage sur lequel il faut zoomer pour l'explorer.
 

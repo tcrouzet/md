@@ -2,13 +2,13 @@
 
 « Ce livre n’est ni un essai, ni un traité d’expert, ni un document, ni un récit, ni un travail scientifique ou philosophique, ni une œuvre littéraire. Il se situe quelque part dans le flux mouvant qui interconnecte ces domaines, floutant les frontières qui jadis les séparaient. »
 
-Je vais ajouter ce petit texte en préambule de [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), suivant le conseil de [Pierre Fraser](http://theoriedestendances.com/) qui vient de faire une lecture stimulante de mon livre et qui ne manquera pas d’avoir des répercutions sur le texte final. Cette idée d’un texte final a-t-elle d'ailleurs encore un sens ? Aujourd'hui, un livre ne doit-il pas ressembler à un logiciel et évoluer sans cesse, ne serait-ce que par les commentaires que déposent autour les lecteurs ?
+Je vais ajouter ce petit texte en préambule de [*L’alternative nomade*](/alternative-nomade/), suivant le conseil de [Pierre Fraser](http://theoriedestendances.com/) qui vient de faire une lecture stimulante de mon livre et qui ne manquera pas d’avoir des répercutions sur le texte final. Cette idée d’un texte final a-t-elle d'ailleurs encore un sens ? Aujourd'hui, un livre ne doit-il pas ressembler à un logiciel et évoluer sans cesse, ne serait-ce que par les commentaires que déposent autour les lecteurs ?
 
 Peut-être que tous les livres dorénavant devraient porter la même mise en garde. En tous cas, je me sens incapable de me glisser dans un costume taillé pour d’autres (l’essai, le roman, le document…).
 
 En remerciant Pierre par mail, je me suis senti obligé de préciser ma démarche qui, si elle est mal comprise, peut orienter le lecteur dans une mauvaise direction. Il est peut-être bon que je la rappelle. 
 
-Mon genre, si je devais en définir un, c’est le manifeste initiatique. Je m’intéresse avant tout à ce qui peut faire grandir l’homme, et pour commencer me faire grandir moi. Comme les philosophes grecs, j’ai commencé par vivre des [expériences optimales](http://blog.tcrouzet.com/2010/01/11/experience-optimale/) et c’est pour cette raison que j’écris, pour traquer ces moments, chercher à les revivre et pourquoi pas à les provoquer chez mes lecteurs.
+Mon genre, si je devais en définir un, c’est le manifeste initiatique. Je m’intéresse avant tout à ce qui peut faire grandir l’homme, et pour commencer me faire grandir moi. Comme les philosophes grecs, j’ai commencé par vivre des [expériences optimales](/2010/01/11/experience-optimale/) et c’est pour cette raison que j’écris, pour traquer ces moments, chercher à les revivre et pourquoi pas à les provoquer chez mes lecteurs.
 
 Est-ce une ambition démesurée ? Il me semble que les artistes n’ont d’autre objectif et je me sens plus artiste que scientifique, ou que professeur ou que politologue. Décrire la réalité m’intéresse peu. Je veux la transformer. Pour moi, la société est malléable.
 

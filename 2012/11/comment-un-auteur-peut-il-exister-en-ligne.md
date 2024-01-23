@@ -1,6 +1,6 @@
 # Comment un auteur peut-il exister en ligne&nbsp;?
 
-En 2010, lors de ma première intervention chez [Kawenga](http://www.kawenga.org), j’avais [répondu à cette vaste question par un billet](http://blog.tcrouzet.com/2010/05/18/secrets-de-ma-vie-en-ligne/) que je reprends et module et qui me servira de fils rouge lors de ma présentation.
+En 2010, lors de ma première intervention chez [Kawenga](http://www.kawenga.org), j’avais [répondu à cette vaste question par un billet](/2010/05/18/secrets-de-ma-vie-en-ligne/) que je reprends et module et qui me servira de fils rouge lors de ma présentation.
 
 ### Exister ou ne pas exister
 
@@ -24,7 +24,7 @@ Plutôt que googler fébrilement, [créez des alertes](http://www.google.com/ale
 
 N’attendez pas que votre éditeur vous communique vos ventes, estimez-les en suivant [les graphiques qu’Amazon fournit aux auteurs](https://authorcentral.amazon.fr/).
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/11/ex1.png)
+![](https://tcrouzet.com/images_tc/2012/11/ex1.png)
 
 > **Petit jeu** Comparez votre score sur Google Web, Google Actualité, Google image, Amazon… à ceux d’auteurs plus ou moins connus.
 
@@ -32,7 +32,7 @@ N’attendez pas que votre éditeur vous communique vos ventes, estimez-les en s
 
 Pour se faire une idée sur un auteur, beaucoup de gens commencent par interroger Wikipedia. Ne pas y être, c’est comme ne jamais avoir écrit. Trouvez des lecteurs qui créeront votre fiche (on n’a logiquement pas le droit de la créer soi-même). En prime, cette page apparaîtra en haut des résultats Google.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/11/ex2.png)
+![](https://tcrouzet.com/images_tc/2012/11/ex2.png)
 
 ### Exister numériquement
 
@@ -55,7 +55,7 @@ Une alerte vous prévient qu'on parle de vous, il est temps de réagir. Pour rem
 3. Partage de photos (Flickr, Instagram…)
 4. Blogs (Blogger, Tumblr, Wordpress…)
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/11/ex3.png)
+![](https://tcrouzet.com/images_tc/2012/11/ex3.png)
 
 Si vous avez un blog, vous pouvez échapper à Facebook et Twitter. Dans le cas contraire, il vous faut choisir un endroit de visibilité numérique. Sur Facebook la plupart des auteurs créent leur page (tout le monde peut la suivre sans se déclarer ami avec vous).
 
@@ -74,7 +74,7 @@ Impossible d’être présent sur tous les services sociaux, sans un minimum d�
 
 Nous avons toujours été accros aux relations sociales. Le Net les démultiplie jusqu’à l’ivresse. Comme écrire en ligne et en direct procure une récompense immédiate, on peut finir par négliger toute autre forme d’écriture (celle inscrite dans le temps long notamment). Trouver un équilibre est un chemin hasardeux. Je pense qu’il ne faut pas avoir peur de plonger à fond dans le Web, avant de reculer un peu, de chercher sa juste place. Parfois la transparence stimule, parfois au contraire elle bride la créativité. 
 
-> **Quizz** Quand j’ai discuté avec Kawenga, on m’a demandé de parler de l’art d’écrire en ligne. Mais il n’y a rien à dire. On écrit en ligne comme on écrit hors ligne. Chacun son style. Tout est possible. Court, long, soigné, expédié… Pas de règle ou [même prendre le contrepied](http://blog.tcrouzet.com/2010/05/17/ne-pas-penser/).
+> **Quizz** Quand j’ai discuté avec Kawenga, on m’a demandé de parler de l’art d’écrire en ligne. Mais il n’y a rien à dire. On écrit en ligne comme on écrit hors ligne. Chacun son style. Tout est possible. Court, long, soigné, expédié… Pas de règle ou [même prendre le contrepied](/2010/05/17/ne-pas-penser/).
 
 ### Exister en amont
 
@@ -86,7 +86,7 @@ Les réseaux sociaux sont bien beaux mais vous n’y êtes pas chez vous. Ni lib
 
 Bonne nouvelle. Quand vous achetez un nom de domaine, vous achetez en même temps un espace d’hébergement où installer automatiquement un Wordpress, la plateforme de blog la plus populaire et la plus largement supportée, notamment par les services comme IFTTT.
 
-À ce stade, rien ne vous oblige à devenir blogueur. Vous pouvez vous contenter de créer [des pages statiques pour vos livres](http://blog.tcrouzet.com/jai-debranche/), en veillant à ouvrir en dessous un fil de commentaires. [Listez les articles de presse.](http://blog.tcrouzet.com/jai-debranche/jai-debranche-presse/) [Publiez votre agenda.](http://blog.tcrouzet.com/agenda/) [Présentez-vous.](http://blog.tcrouzet.com/informations/), [ bibliographie à l’appui](http://blog.tcrouzet.com/bibliographie/).
+À ce stade, rien ne vous oblige à devenir blogueur. Vous pouvez vous contenter de créer [des pages statiques pour vos livres](/jai-debranche/), en veillant à ouvrir en dessous un fil de commentaires. [Listez les articles de presse.](/jai-debranche/jai-debranche-presse/) [Publiez votre agenda.](/agenda/) [Présentez-vous.](/informations/), [ bibliographie à l’appui](/bibliographie/).
 
 ### Exister de tout son être
 
@@ -108,9 +108,9 @@ Aujourd'hui, les lecteurs débarquent en général quand ils cliquent sur des st
 
 ### Exister en interagissant
 
-Vous devez maintenant réagir aux réactions de vos lecteurs. [Essayez d’être présent dans vos fils de commentaires.](http://blog.tcrouzet.com/2010/05/16/autopublication-arnaque/) Défendez-vous, expliquez-vous, quitte à publier de nouveaux textes si nécessaire. Internet permet le dialogue bidirectionnel, se contenter d’émettre est un non-sens. Tout cela prend du temps, mais vous découvrirez que votre communauté peut vous stimuler plus efficacement que le café.
+Vous devez maintenant réagir aux réactions de vos lecteurs. [Essayez d’être présent dans vos fils de commentaires.](/2010/05/16/autopublication-arnaque/) Défendez-vous, expliquez-vous, quitte à publier de nouveaux textes si nécessaire. Internet permet le dialogue bidirectionnel, se contenter d’émettre est un non-sens. Tout cela prend du temps, mais vous découvrirez que votre communauté peut vous stimuler plus efficacement que le café.
 
-Dès qu’on anime une communauté, elle participe à notre travail que nous le voulions ou non. J’ai écrit certains de mes livres de manière coopérative, des livres comme [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) que je ne n’aurais pas écrits seuls. Il ne s’agit pas seulement de faire sa promotion, mais de vivre une expérience collective. [Plus je me lie aux autres, plus je suis libre.](http://blog.tcrouzet.com/2010/05/08/la-liberte-le-lien/) J’espère que cela vaut aussi pour l’écriture. Le mieux est de s’essayer à l’écriture coopérative, via Twitter ou autre, pour en expérimenter la puissance, et découvrir ce que j’appelle [*La stratégie du cyborg* ](http://blog.tcrouzet.com/la-strategie-du-cyborg/).
+Dès qu’on anime une communauté, elle participe à notre travail que nous le voulions ou non. J’ai écrit certains de mes livres de manière coopérative, des livres comme [*La quatrième théorie*](/la-quatrieme-theorie/) que je ne n’aurais pas écrits seuls. Il ne s’agit pas seulement de faire sa promotion, mais de vivre une expérience collective. [Plus je me lie aux autres, plus je suis libre.](/2010/05/08/la-liberte-le-lien/) J’espère que cela vaut aussi pour l’écriture. Le mieux est de s’essayer à l’écriture coopérative, via Twitter ou autre, pour en expérimenter la puissance, et découvrir ce que j’appelle [*La stratégie du cyborg* ](/la-strategie-du-cyborg/).
 
 Le plus important est sans doute de chasser de son esprit le mot virtuel. Votre communauté construite en ligne n’est pas virtuelle, mais réelle. Vous avez de véritables lecteurs de l’autre côté de l’écran, des lecteurs qu’il ne faut pas hésiter de rencontrer IRL, non pas pour qu’ils signent vos textes, mais pour qu’ils poursuivent avec vous un brainstorming continuel.
 
@@ -118,9 +118,9 @@ Votre public en ligne ne recouvrera pas votre public hors ligne. Les lecteurs de
 
 ### Exister en s’autopubliant
 
-Avec un PDF vous êtes OK pour la POD chez un lulu.com, avec un ePub OK pour envoyer votre livre sur les plateformes électroniques. Le plus dur reste alors à faire. S’autopublier règle bien des problèmes éthiques et politiques comme je l’évoque dans [*L’édition interdite*](http://blog.tcrouzet.com/edition-interdite/), mais trouver des lecteurs est une autre affaire, à moins que vous n’ayez en main le prochain *Cinquante nuances de Gray*.
+Avec un PDF vous êtes OK pour la POD chez un lulu.com, avec un ePub OK pour envoyer votre livre sur les plateformes électroniques. Le plus dur reste alors à faire. S’autopublier règle bien des problèmes éthiques et politiques comme je l’évoque dans [*L’édition interdite*](/edition-interdite/), mais trouver des lecteurs est une autre affaire, à moins que vous n’ayez en main le prochain *Cinquante nuances de Gray*.
 
-[On ne doit négliger aucune piste.](http://blog.tcrouzet.com/2012/07/13/du-bon-usage-de-lautoedition/) Pour ma part, je publie tantôt avec Fayard, tantôt avec publie.net, un pure-player du Net, tantôt tout seul. Tout dépend du texte. Nous disposons de nouvelles possibilités, nous devons les expérimenter toutes. Avant il était impensable de publier un texte d'une vingtaine de pages comme [Baby-foot](http://blog.tcrouzet.com/baby-foot/), aujourd'hui c'est possible. Et cette possibilité même nous pousse à écrire des textes que nous n'aurions pas écrits.
+[On ne doit négliger aucune piste.](/2012/07/13/du-bon-usage-de-lautoedition/) Pour ma part, je publie tantôt avec Fayard, tantôt avec publie.net, un pure-player du Net, tantôt tout seul. Tout dépend du texte. Nous disposons de nouvelles possibilités, nous devons les expérimenter toutes. Avant il était impensable de publier un texte d'une vingtaine de pages comme [Baby-foot](/baby-foot/), aujourd'hui c'est possible. Et cette possibilité même nous pousse à écrire des textes que nous n'aurions pas écrits.
 
 ### Exister pourquoi ?
 

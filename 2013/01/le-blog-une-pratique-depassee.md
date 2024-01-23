@@ -22,23 +22,23 @@ J'aime les livres parce que je peux les donner et les prêter, et parce qu'alors
 
 Donc ce n'est pas tant ce que nous publions sur nos blogs que la méthode de publication qui me chagrine, trop ancrée, trop matérialiste, trop fragile, trop compliquée…
 
-Alors depuis des années, je développe [wp2epub](http://blog.tcrouzet.com/wp2epub/), un plugin pour WordPress, qui transforme toute ou partie d'un blog en ebook. C'est-à-dire un fichier qu'il est possible de donner, de copier, de modifier et même de vendre.
+Alors depuis des années, je développe [wp2epub](/wp2epub/), un plugin pour WordPress, qui transforme toute ou partie d'un blog en ebook. C'est-à-dire un fichier qu'il est possible de donner, de copier, de modifier et même de vendre.
 
-![Les années blog](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/01/cover-450x600.png)
+![Les années blog](https://tcrouzet.com/images_tc/2013/01/cover-450x600.png)
 
-Avec la dernière version du plugin, j'ai généré une nouvelle édition de [*Les années blog*](http://blog.tcrouzet.com/les-annees-blog/) que j'ai placé sur les librairies en ligne via [immateriel.fr](http://www.immateriel.fr/). D'une certaine manière, mon blog est maintenant un enfant comme un autre. Qu'un hacker casse mon serveur ou que j'oublie de payer mon hébergeur, le blog continuera de vivre, par-devers moi. J'ai coupé le cordon ombilical qui le retenait encore au monde physique. Il est devenu une créature autonome dans le flux.
+Avec la dernière version du plugin, j'ai généré une nouvelle édition de [*Les années blog*](/les-annees-blog/) que j'ai placé sur les librairies en ligne via [immateriel.fr](http://www.immateriel.fr/). D'une certaine manière, mon blog est maintenant un enfant comme un autre. Qu'un hacker casse mon serveur ou que j'oublie de payer mon hébergeur, le blog continuera de vivre, par-devers moi. J'ai coupé le cordon ombilical qui le retenait encore au monde physique. Il est devenu une créature autonome dans le flux.
 
 Et j'aimerais à l'avenir me contenter d'envoyer ainsi des bouteilles à la mer numérique. Mon blog n'est qu'un lieu de génération, qu'un atelier, qu'un point de départ… cela me donne envie de le déshabiller de tout le superflux… encore du travail en perspective… mais rien encore de réfléchi, juste un désir auquel je dois donner forme, avec la conscience que l'empilement ici de billets n'a aucun sens, aucune pérennité, aucune résilience.
 
 Et puis c'est un peu comme si on ne pouvait lire un livre que dans l'atelier de l'imprimeur. Pourquoi, dans l'océan numérique, nous sommes-nous enfermés dans des prisons dorées ?
 
-Je suis heureux de bientôt sortir [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/). Un esquif qui pourra rejoindre la flotte. Faire des livres, quelle que soit leur forme, me paraît soudain plus moderne que tenir un blog, simple officine dans la rue des boutiques obscures. Ce qui compte, c'est publier, partager, pas d'être maître chez soi.
+Je suis heureux de bientôt sortir [*La quatrième théorie*](/la-quatrieme-theorie/). Un esquif qui pourra rejoindre la flotte. Faire des livres, quelle que soit leur forme, me paraît soudain plus moderne que tenir un blog, simple officine dans la rue des boutiques obscures. Ce qui compte, c'est publier, partager, pas d'être maître chez soi.
 
 L'Epub me paraît le véhicule le plus actuel. Tu le produis, tu le vends ou l'offres. Tu laisses les lecteurs en juger et le propulser. Tu n'es plus là pour lui donner une importance qu'il n'a pas. Pour jouer au parent qui admire son enfant. C'est dans la cour de récréation que tout se passe, pas à la maison.
 
 Bien sûr, il manque plein de choses aux Epub actuels. Les commentaires qui se propagent de fichier en fichier. Les corrections et ajouts dynamiques. Je rêve. Publier un texte, le distribuer et que les lecteurs le voient s'allonger. Mais pas en venant le lire à une dresse fixe comme sur un blog, en le lisant chez eux, à l'intérieur même d'un livre toujours renouvelé (non, je ne veux pas réinventer le RSS, plutôt une entité quasi autonome).
 
-Et paradoxe, pour parler de ce rêve, je passe encore par le blog… J'aurais aussi bien pu me contenter d'un lien vers [le fichier Epub de ce billet](http://blog.tcrouzet.com/wp-content/epub?epub=30510) ou vers [la compilation des dix deniers](http://blog.tcrouzet.com/wp-content/epub/?epub=last10|-noepub,-Lifestream,-Photoblog). Reste à imaginer un projet d'écriture qui consisterait à envoyer une multitude de fichiers se promener.
+Et paradoxe, pour parler de ce rêve, je passe encore par le blog… J'aurais aussi bien pu me contenter d'un lien vers [le fichier Epub de ce billet](/wp-content/epub?epub=30510) ou vers [la compilation des dix deniers](/wp-content/epub/?epub=last10|-noepub,-Lifestream,-Photoblog). Reste à imaginer un projet d'écriture qui consisterait à envoyer une multitude de fichiers se promener.
 
 On s'est trop focalisé ces dernières années sur l'accès. *L'âge de l'accès*. Je me fiche d'être personnellement accessible, trouvable, likable… Quand entrerons-nous dans l'âge de la liberté ? La liberté pour nous et nos productions. L'âge de l'accès, c'est le nouvel âge de l'emprisonnement. Nous devons vite le dépasser. Exister sans être accessible.
 

@@ -12,9 +12,9 @@ Marguerite Yourcenar prolonge *Les mémoires d’Hadrien* par des *Carnets de no
 > 
 > Travaux recommencés en 1934 ; longues recherches ; une quinzaine de pages écrites et crues définitives ; projet repris et abandonné plusieurs fois entre 1934 et 1937.
 
-Indispensable pour un auteur. J’ai souvent relu ce texte quand j’écrivais [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/), pour me redonner du courage et de la rigueur. Pour résister à la tentation très contemporaine du va-vite. Cette croyance que la quantité et l'immédiateté priment sur l’approfondissement. Ces notes m’ont servi de viatique avant que ne je mette à bloguer, avant que je puisse joindre la temporalité numérique à celle du temps long.
+Indispensable pour un auteur. J’ai souvent relu ce texte quand j’écrivais [*Ératosthène*](/eratosthene/), pour me redonner du courage et de la rigueur. Pour résister à la tentation très contemporaine du va-vite. Cette croyance que la quantité et l'immédiateté priment sur l’approfondissement. Ces notes m’ont servi de viatique avant que ne je mette à bloguer, avant que je puisse joindre la temporalité numérique à celle du temps long.
 
-Quand il a été temps de boucler [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/), j’ai hésité à ajouter un carnet à la suite du roman. C’était un peu prétentieux et prématuré. Je voulais garder cette possibilité pour plus tard, si le texte soulevait des questions. Mes premiers lecteurs, quelques proches écrivaillons, ne m’ont pas laissé le temps de la réflexion. Ils ont voulu en savoir plus sur l’histoire du roman, sur les sources, mes choix historiques et philosophiques.
+Quand il a été temps de boucler [*Ératosthène*](/eratosthene/), j’ai hésité à ajouter un carnet à la suite du roman. C’était un peu prétentieux et prématuré. Je voulais garder cette possibilité pour plus tard, si le texte soulevait des questions. Mes premiers lecteurs, quelques proches écrivaillons, ne m’ont pas laissé le temps de la réflexion. Ils ont voulu en savoir plus sur l’histoire du roman, sur les sources, mes choix historiques et philosophiques.
 
 Pour eux, parce que la genèse d’un texte intéresse les autres géniteurs, j’ai commencé à fouiller mes carnets manuscrits, très détaillés avant 2006, période prèbloguesque. Même si déchiffrer mon écriture n’est pas facile, j’ai réussi à replonger dans le temps, à sauter les passages sans lien avec le roman, à atteindre très vite les informations que j’avais souvent oubliées. Il m’a juste souvent manqué le courage de retranscrire et de réécrire.
 
@@ -34,7 +34,7 @@ Reconstruire le carnet d’Ératosthène, que je vais ajouter en supplément à 
 
 Par-devers moi, le papier reste puissant pour l’écriture, plus que pour la lecture d’ailleurs, c’est un paradoxe, une frustration, je dois encore chercher, explorer, avoir le droit d’écrire que pour moi, ce qui implique une liberté étrangère à la normalité typographique. J’aimerais partir dans les champs autour de la maison de vacances, esquisser des choses, avec la fluidité du trait, avec aussi l’immédiate possibilité de partage, avec les avantages du nouveau monde et de l’ancien. Peut-être voici mon programme pour la suite des vacances. Comme un rêve d’un autre numérique, étranger à la rigueur de tous les encodages.
 
-![Passer au-delà, écrire là-bas.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/chat.jpg)
+![Passer au-delà, écrire là-bas.](https://tcrouzet.com/images_tc/2014/08/chat.jpg)
 
 Passer au-delà, écrire là-bas.
 

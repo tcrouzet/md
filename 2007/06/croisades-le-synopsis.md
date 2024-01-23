@@ -1,6 +1,6 @@
 # Croisades : le synopsis
 
-Avant de signer un contact avec un éditeur, il faut lui vendre le projet. J’ai souvent évoqué ici mon histoire de [croisades](http://blog.tcrouzet.com/2007/06/07/croisade-biographique/) mais je voudrais tout reprendre pour clarifier mes idées. *Croisades* sera un documentaire. Vous me direz si ça vous intéresse.
+Avant de signer un contact avec un éditeur, il faut lui vendre le projet. J’ai souvent évoqué ici mon histoire de [croisades](/2007/06/07/croisade-biographique/) mais je voudrais tout reprendre pour clarifier mes idées. *Croisades* sera un documentaire. Vous me direz si ça vous intéresse.
 
 ### Base line
 
@@ -8,7 +8,7 @@ La lutte des hommes libres contre tous les intégrismes : religieux, économiqu
 
 ### Les hommes libres au cours de l’histoire
 
-Bouddha, [Ératosthène](http://blog.tcrouzet.com/eratosthene/), Jésus-Christ, Cicéron, Goethe, [Tolstoï](http://blog.tcrouzet.com/2006/08/27/napoleon-anonyme/), [Geronimo](http://blog.tcrouzet.com/2007/06/05/la-revanche-des-apaches/), [Gandhi](http://blog.tcrouzet.com/2007/04/25/gandhi-et-l%e2%80%99open-source/), Einstein… Ils ont en commun d’avoir rejeté les carcans de leur époque, de s’être extrait des écoles, des partis et des églises. Un homme est libre quand il s’invente sa propre philosophie qui ne vaut que pour lui. En refusant de s’enfermer dans un clan, il dépasse tous les clivages.
+Bouddha, [Ératosthène](/eratosthene/), Jésus-Christ, Cicéron, Goethe, [Tolstoï](/2006/08/27/napoleon-anonyme/), [Geronimo](/2007/06/05/la-revanche-des-apaches/), [Gandhi](/2007/04/25/gandhi-et-l%e2%80%99open-source/), Einstein… Ils ont en commun d’avoir rejeté les carcans de leur époque, de s’être extrait des écoles, des partis et des églises. Un homme est libre quand il s’invente sa propre philosophie qui ne vaut que pour lui. En refusant de s’enfermer dans un clan, il dépasse tous les clivages.
 
 Un homme est libre quand il choisit la responsabilité. Il assume ce qui lui déplait dans le monde et n’a pas d’autre choix que se révolter. Son slogan pourrait être la célèbre phrase de Gandi : « Soyez le changement que vous voulez voir en ce monde. »
 
@@ -30,7 +30,7 @@ Parfois un homme libre peut apparaître au grand jour, c’est alors pour être 
 
 Mais depuis la fin du vingtième siècle quelque chose change. Avec l’apparition des réseaux numériques, les hommes libres démultiplient leurs interactions et leur vitesse de réaction. Pour la première fois, ils peuvent se reconnaître, travailler ensemble à vaste échelle. Au gré de leurs errances virtuelles, ils se rencontrent puis se retrouvent sur le terrain.
 
-Qu’on les appelle hackers ou freemen, cyberlibertaires ou [cosmists](http://blog.tcrouzet.com/2006/06/09/cosmists-vs-terrans/), ils étendent leur influence dans toutes les strates de la société. Ils sont entrés en résistance et se battront jusqu’au bout pour démontrer que d’autres mondes sont possibles. Une guerre silencieuse a commencé car, en même temps qu'ils se reconnaissent, leurs adversaires prennent conscience qu'ils ne peuvent plus les utiliser.
+Qu’on les appelle hackers ou freemen, cyberlibertaires ou [cosmists](/2006/06/09/cosmists-vs-terrans/), ils étendent leur influence dans toutes les strates de la société. Ils sont entrés en résistance et se battront jusqu’au bout pour démontrer que d’autres mondes sont possibles. Une guerre silencieuse a commencé car, en même temps qu'ils se reconnaissent, leurs adversaires prennent conscience qu'ils ne peuvent plus les utiliser.
 
 ### Leurs combats contemporains
 
@@ -50,7 +50,7 @@ Il est impossible de parler de camps clairement dessinés, ce qui ne peut pas ê
 
 ### 100 histoires
 
-J’avais commencé par écrire *Croisades* sous la forme d’un roman, [imaginant une lutte fictive particulière pour toutes les illustrer](http://blog.tcrouzet.com/2006/04/20/la-suite/). Quelques auteurs, notamment Ayerdhal avec [*Demain une Oasis*](http://blog.tcrouzet.com/2006/11/19/demain-une-oasis/) et *L’homme aux semelles de plomb*, ont déjà emprunté ce chemin. Je crois que ce n’est pas le mien.
+J’avais commencé par écrire *Croisades* sous la forme d’un roman, [imaginant une lutte fictive particulière pour toutes les illustrer](/2006/04/20/la-suite/). Quelques auteurs, notamment Ayerdhal avec [*Demain une Oasis*](/2006/11/19/demain-une-oasis/) et *L’homme aux semelles de plomb*, ont déjà emprunté ce chemin. Je crois que ce n’est pas le mien.
 
 Je suis toujours persuadé qu’il faut pour traiter du sujet raconter des histoires. Mais pas une histoire. Il faut proposer des échantillons de réalité, laisser le lecteur édifier son propre portrait des hommes libres et de leur lutte.
 
@@ -62,11 +62,11 @@ Je me donne pour objectif de raconter 100 histoires d’hommes libres aujourd’
 
 Chacune de ces histoires sera comme un bit d’information musicale stocké sur un CD. Un bit en lui-même n’a aucun sens, aucune signification. Mais les bits joués les uns à la suite des autres réinventent la mélodie originale.
 
-Ainsi, à mon sens, chacune des notes émises par les hommes libres contribue à [l’émergence d’une conscience collective](http://blog.tcrouzet.com/2006/05/08/work-in-progress/). C’est un évènement historique d’une grande ampleur, peut-être aussi capital que l’émergence des premières formes de conscience individuelle.
+Ainsi, à mon sens, chacune des notes émises par les hommes libres contribue à [l’émergence d’une conscience collective](/2006/05/08/work-in-progress/). C’est un évènement historique d’une grande ampleur, peut-être aussi capital que l’émergence des premières formes de conscience individuelle.
 
 ### Notes
 
-1. Je veux adopter la méthode de John Krakauer dans ses reportages ou de Gabriel Garcia Marquez dans [Journal d’un enlèvement](http://www.amazon.fr/Journal-dun-enlevement-Garcia-Marquez/dp/224653741X/ref=sr_1_3/). L’objectivité étant impossible, l’auteur se glisse dans l’histoire. Quand il va interviewer quelqu’un, il se raconte aussi. J’ai d’ailleurs déjà écrit de cette façon bien des passages du [Peuple des connecteurs](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) et du [Cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/).
+1. Je veux adopter la méthode de John Krakauer dans ses reportages ou de Gabriel Garcia Marquez dans [Journal d’un enlèvement](http://www.amazon.fr/Journal-dun-enlevement-Garcia-Marquez/dp/224653741X/ref=sr_1_3/). L’objectivité étant impossible, l’auteur se glisse dans l’histoire. Quand il va interviewer quelqu’un, il se raconte aussi. J’ai d’ailleurs déjà écrit de cette façon bien des passages du [Peuple des connecteurs](/le-peuple-des-connecteurs/) et du [Cinquième pouvoir](/le-cinquieme-pouvoir/).
 
 2. Les hommes libres ne sont pas simplement des résistants. Ils proposent aussi d’autres modes de vie, d’autres façons d’être heureux. Nombre d’entre eux sont des technophiles, l’avenir passe par le progrès. Cette position les oppose aux contestataires des années 1960.
 

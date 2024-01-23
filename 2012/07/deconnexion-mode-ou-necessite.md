@@ -1,18 +1,18 @@
 # Déconnexion : mode ou nécessité ?
 
-Il y un an, j’étais loin du Net pour écrire [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/). Où en suis-je ? On me pose souvent cette question alors même qu’une épidémie de déconnexion semble se propager. Je fais le point avec une compilation d'interviews.
+Il y un an, j’étais loin du Net pour écrire [*J’ai débranché*](/jai-debranche/). Où en suis-je ? On me pose souvent cette question alors même qu’une épidémie de déconnexion semble se propager. Je fais le point avec une compilation d'interviews.
 
 *— [Je survis sans lampe à pétrole depuis 49 ans](https://twitter.com/cjeanney/status/197267897352073216), ce n’est pas une raison pour écrire un livre à ce sujet.*
 
-— Il n’y a pas de bons ou de mauvais sujets pour un livre, il y a de bons et de mauvais livres. J’ai écrit le mien parce que j’en ai éprouvé le besoin, [pour la première fois en août 2008](http://blog.tcrouzet.com/2008/08/27/reverie-estivale/), soit près de trois ans avant de débrancher effectivement.
+— Il n’y a pas de bons ou de mauvais sujets pour un livre, il y a de bons et de mauvais livres. J’ai écrit le mien parce que j’en ai éprouvé le besoin, [pour la première fois en août 2008](/2008/08/27/reverie-estivale/), soit près de trois ans avant de débrancher effectivement.
 
-Comparer le Net à une lampe à pétrole, une voiture, une tondeuse… n’a aucun sens. Ces outils n’ont ontologiquement aucun rapport avec lui. [Le net est un territoire.](http://blog.tcrouzet.com/tag/territoire/)
+Comparer le Net à une lampe à pétrole, une voiture, une tondeuse… n’a aucun sens. Ces outils n’ont ontologiquement aucun rapport avec lui. [Le net est un territoire.](/tag/territoire/)
 
 On utilise un outil, on habite un territoire. Pour bien utiliser un outil, on n’a pas nécessairement besoin de savoir comment il fonctionne. Pour bien vivre sur un territoire, il faut en comprendre les usages, le climat, la géographie… avant même de choisir où habiter.
 
 Être habitant, c’est beaucoup plus exigeant qu’être utilisateur. Il faut se construire une maison, se créer un tissu relationnel. Il faut aussi explorer le territoire, voire participer à son extension et aussi à la construction de son infrastructure (routes, services, lieux publics…).
 
-Quand vous entrez dans un nouveau pays, vous en quittez un autre. Il est difficile d’être dans deux pays en même temps. Si internet est un territoire, nous devons nous considérer comme des émigrants, des voyageurs ou des nomades. J’aime particulièrement la troisième approche, [parce que le nomadisme a des vertus qui peuvent aujourd’hui nous être utile](http://blog.tcrouzet.com/alternative-nomade/). Par exemple, le nomade ne possède que ce qu’il peut transporter. Cela se traduit par une consommation plutôt tournée vers les biens immatériels.
+Quand vous entrez dans un nouveau pays, vous en quittez un autre. Il est difficile d’être dans deux pays en même temps. Si internet est un territoire, nous devons nous considérer comme des émigrants, des voyageurs ou des nomades. J’aime particulièrement la troisième approche, [parce que le nomadisme a des vertus qui peuvent aujourd’hui nous être utile](/alternative-nomade/). Par exemple, le nomade ne possède que ce qu’il peut transporter. Cela se traduit par une consommation plutôt tournée vers les biens immatériels.
 
 Mais comme tout émigrant, on peut éprouver le besoin de revenir dans son pays natal. Ce n’est pas un déni de sa nouvelle vie, plutôt la nécessité de se nourrir d’une énergie qu’on n’y retrouve pas, ou n’y retrouve plus.
 

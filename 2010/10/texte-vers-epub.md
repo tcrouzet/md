@@ -1,6 +1,6 @@
 # Comment transformer un texte en ePub
 
-Ces dernières semaines, après avoir publié un article sur [le nouveau métier d'imprimeur d'ePub](http://blog.tcrouzet.com/2010/08/02/imprimeur-epub/), puis sur [la publication chez Apple](http://blog.tcrouzet.com/2010/09/10/comment-publier-sur-apple-ibookstore/), j'ai échangé quelques mails avec [Jean-Claude Dunyach](http://fr.wikipedia.org/wiki/Jean-Claude_Dunyach), un de nos grands auteurs de Science Fiction. Nous avons évoqué l'idée d'écrire un guide pratique à quatre mains. Au final, c'est Jean-Claude qui a effectué l'essentiel du travail, moi ne mettant mon grain de sel que par endroits, notamment pour parler de mon [application de conversion](http://lab.tcrouzet.com/epub/). Nous espérons que ce petit guide servira à de nombreux auteurs. Nous l'avons écrit pour eux.
+Ces dernières semaines, après avoir publié un article sur [le nouveau métier d'imprimeur d'ePub](/2010/08/02/imprimeur-epub/), puis sur [la publication chez Apple](/2010/09/10/comment-publier-sur-apple-ibookstore/), j'ai échangé quelques mails avec [Jean-Claude Dunyach](http://fr.wikipedia.org/wiki/Jean-Claude_Dunyach), un de nos grands auteurs de Science Fiction. Nous avons évoqué l'idée d'écrire un guide pratique à quatre mains. Au final, c'est Jean-Claude qui a effectué l'essentiel du travail, moi ne mettant mon grain de sel que par endroits, notamment pour parler de mon [application de conversion](http://lab.tcrouzet.com/epub/). Nous espérons que ce petit guide servira à de nombreux auteurs. Nous l'avons écrit pour eux.
 
 ---
 
@@ -166,6 +166,6 @@ Note : si la couverture n’apparaît pas quand vous ouvrez votre fichier ePub 
     3. Si vous avez référencé des images dans le texte, rassemblez-les dans un fichier zip.
     4. Les utilisateurs avancés peuvent associer leurs noms de style à ceux gérés par défaut par l’application. Cette astuce vous évite de devoir renommer les styles de vos documents.
 
-Il ne vous reste plus qu’à cliquer sur « Convertir ». Une fois l’upload de vos fichiers terminé, le download du ePub commence. Visualisez-le avec une liseuse, validez sa syntaxe, vous êtes alors prêt à le diffuser, [sur ibookstore d’Apple par exemple](http://blog.tcrouzet.com/2010/09/10/comment-publier-sur-apple-ibookstore/). [Téléchargez quelques exemples d'ePub version Crouzet.](http://txt.tcrouzet.com/)
+Il ne vous reste plus qu’à cliquer sur « Convertir ». Une fois l’upload de vos fichiers terminé, le download du ePub commence. Visualisez-le avec une liseuse, validez sa syntaxe, vous êtes alors prêt à le diffuser, [sur ibookstore d’Apple par exemple](/2010/09/10/comment-publier-sur-apple-ibookstore/). [Téléchargez quelques exemples d'ePub version Crouzet.](http://txt.tcrouzet.com/)
 
 Tags: eBook, ePub, NetLittérature, noepub, une

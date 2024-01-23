@@ -28,7 +28,7 @@ Parce que nul n’est prophète, il faut arrêter de mener des politiques qui s�
 
 3. avouer être un joueur de poker.
 
-Mais le poker me paraît dangereux quand il s’agit de prendre des mesures qui risquent de mettre en danger l’équilibre écologique et social de la planète. Je crois qu’il faut éviter de jouer à grande échelle. Un coup de poker malheureux peut être catastrophique. [Il faut essayer d’agir petit, d’agir local.](http://blog.tcrouzet.com/2006/07/14/global-vs-local/) Faire des expériences et en tirer les conséquences. Les actions locales ne sont pas plus prévisibles que les actions globales mais, en cas de problème, il est plus facile d’adopter une autre approche, d’arrêter les dégâts avant qu’il ne soit trop tard.
+Mais le poker me paraît dangereux quand il s’agit de prendre des mesures qui risquent de mettre en danger l’équilibre écologique et social de la planète. Je crois qu’il faut éviter de jouer à grande échelle. Un coup de poker malheureux peut être catastrophique. [Il faut essayer d’agir petit, d’agir local.](/2006/07/14/global-vs-local/) Faire des expériences et en tirer les conséquences. Les actions locales ne sont pas plus prévisibles que les actions globales mais, en cas de problème, il est plus facile d’adopter une autre approche, d’arrêter les dégâts avant qu’il ne soit trop tard.
 
 La biosphère dans son ensemble a besoin d’une révolution politique. C’est à chacun de nous de penser local. Nous devons tous essayer d’aller à l’encontre de notre sentiment que l’avenir est prévisible.
 

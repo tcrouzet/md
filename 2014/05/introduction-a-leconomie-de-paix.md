@@ -39,7 +39,7 @@ Essayez de répondre le plus franchement possible.
 
 Tout innovateur, et en fait chacun de nous, doit aujourd’hui se demander s’il se place dans l’économie de prédation ou dans l’économie de paix. Sachant qu’on peut être tantôt dans l’une, tantôt dans l’autre.
 
-On appelle « [commonistes](http://blog.tcrouzet.com/2013/11/26/amis-commonistes/) » ceux qui choisissent l’économie de paix. Ils ont pour souci la gestion harmonieuse des biens communs, et d’augmenter la quantité de biens communs à notre disposition.
+On appelle « [commonistes](/2013/11/26/amis-commonistes/) » ceux qui choisissent l’économie de paix. Ils ont pour souci la gestion harmonieuse des biens communs, et d’augmenter la quantité de biens communs à notre disposition.
 
 Il existe deux sortes de biens communs.
 
@@ -51,11 +51,11 @@ Pour le commoniste, les biens communs doivent être partagés entre tous. Un pau
 
 Ce qui est vrai pour la santé est aussi vrai pour l’éducation, l’alimentation, et également pour la culture. Si je suis pauvre, je dois pouvoir lire tous les livres (et c’est pour cette raison qu’il existe des bibliothèques publiques).
 
-En tant qu’écrivain, je suis en quelque sorte innovateur. On peut considérer mes textes comme l’équivalent d’une formule chimique. J’ai donc le choix entre l’économie de prédation et l’économie de paix. Pour [*Le Geste qui sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/), le récit d'une innovation elle-même offerte, le gel hydro-alcoolique, j’ai choisi l’économie de paix.
+En tant qu’écrivain, je suis en quelque sorte innovateur. On peut considérer mes textes comme l’équivalent d’une formule chimique. J’ai donc le choix entre l’économie de prédation et l’économie de paix. Pour [*Le Geste qui sauve*](/le-geste-qui-sauve/), le récit d'une innovation elle-même offerte, le gel hydro-alcoolique, j’ai choisi l’économie de paix.
 
 *PS : J'ai écrit ce texte comme canevas de [ma conférence à la FER, Genève](http://www.rezonance.ch/rezo/classes/ft-first-tuesday/geneve/20140505/one-community?page_num=0).*
 
-![Le prof avec sa formule, l'auteur avec son texte (photo Federal Studio).](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/piette-crouzet.jpg)
+![Le prof avec sa formule, l'auteur avec son texte (photo Federal Studio).](https://tcrouzet.com/images_tc/2014/05/piette-crouzet.jpg)
 
 Le prof avec sa formule, l'auteur avec son texte ([photo Federal Studio](http://www.federal.li/)).
 

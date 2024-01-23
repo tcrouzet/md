@@ -1,8 +1,8 @@
 # CapGemini !
 
-Hier soir, en partant à [La Réunion](http://blog.tcrouzet.com/2007/11/21/les-pirates-de-la-reunion/), la tête totalement dans le sac car fiévreux, je trouve le moyen de m’énerver en voyant à Roissy une pub pour [CapGemmini](http://www.fr.capgemini.com/).
+Hier soir, en partant à [La Réunion](/2007/11/21/les-pirates-de-la-reunion/), la tête totalement dans le sac car fiévreux, je trouve le moyen de m’énerver en voyant à Roissy une pub pour [CapGemmini](http://www.fr.capgemini.com/).
 
-![capgemini.jpg](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/11/capgemini.jpg)
+![capgemini.jpg](https://tcrouzet.com/images_tc/2007/11/capgemini.jpg)
 
 Je me suis dit que j’avais eu de la chance il y a vingt ans de ne pas commencer ma carrière dans une telle boîte. Renverser les slogans, c’est toujours amusant mais je n’avais pas envie de rire.
 

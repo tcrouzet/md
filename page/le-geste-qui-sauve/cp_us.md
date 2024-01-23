@@ -1,6 +1,6 @@
 # Clean Hand Save Lives  Press release
 
-[En français](http://blog.tcrouzet.com/le-geste-qui-sauve/cp_fr/)
+[En français](/le-geste-qui-sauve/cp_fr/)
 
 1. A French book immediately published in seven languages is an extraordinary event. And rightly so, because it recounts…
 
@@ -8,20 +8,20 @@
 
 3. And who offered his discovery to humanity, a gesture entirely in accord with the tenets of the open source movement in the field of information technology.
 
-4. In keeping with this achievement, the book is being published under a Creative Commons license by Éditions L’Âge d’Homme, on sale in bookstores from 2 May 2014, but also [accessible for free on Internet](http://blog.tcrouzet.com/le-geste-qui-sauve/downloads/).
+4. In keeping with this achievement, the book is being published under a Creative Commons license by Éditions L’Âge d’Homme, on sale in bookstores from 2 May 2014, but also [accessible for free on Internet](/le-geste-qui-sauve/downloads/).
 
 5. The author is assigning the entirety of his rights to the [Clean Hands Save Lives Fund](http://www.cleanhandssavelives.org/). Each time a copy of the book is purchased, more lives will be saved.
 
-[**Download the book...**](http://blog.tcrouzet.com/le-geste-qui-sauve/downloads/)
+[**Download the book...**](/le-geste-qui-sauve/downloads/)
 
-![Couvertures](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/planche2.jpg)
+![Couvertures](https://tcrouzet.com/images_tc/2014/03/planche2.jpg)
 
 ### Contacts/infos
 
 Press Service Éditions L'âge d'homme : Suzanne Jamet - sujamet@aol.com 
 Press Service Didier Pittet : severine.hutin@gmail.com - +41 79 342 48 69
-[tcrouzet.com](http://blog.tcrouzet.com) - [@crouzet](https://twitter.com/crouzet) - [facebook:tcrouzet](https://www.facebook.com/tcrouzet)
-[Photos and images](http://blog.tcrouzet.com/le-geste-qui-sauve/visuels/)
+[tcrouzet.com]() - [@crouzet](https://twitter.com/crouzet) - [facebook:tcrouzet](https://www.facebook.com/tcrouzet)
+[Photos and images](/le-geste-qui-sauve/visuels/)
 
 ### Behind the book
 

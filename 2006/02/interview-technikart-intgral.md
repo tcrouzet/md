@@ -1,6 +1,6 @@
 # Interview Technikart intégrale
 
-Cette interview avec Olivier Malnuit de *Technikart* a commencé le 5 janvier 2006 lors d'un déjeuner et s'est poursuivie par mail. Les questions abordées sortent souvent du cadre exploré dans [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/). Elles m'ont prouvé que la pensée des connecteurs était cohérente et pouvait s'appliquer à tous les domaines.
+Cette interview avec Olivier Malnuit de *Technikart* a commencé le 5 janvier 2006 lors d'un déjeuner et s'est poursuivie par mail. Les questions abordées sortent souvent du cadre exploré dans [*Le peuple des connecteurs*](/le-peuple-des-connecteurs/). Elles m'ont prouvé que la pensée des connecteurs était cohérente et pouvait s'appliquer à tous les domaines.
 
 *— Dans votre livre, vous comparez souvent internet à une sorte de nouvelle église. Pour vous, l'explosion des réseaux est-elle une révolution politique aussi forte, sinon plus, que la naissance du christianisme ?*
 

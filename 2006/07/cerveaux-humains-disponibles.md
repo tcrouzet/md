@@ -1,6 +1,6 @@
 # Cerveaux humains disponibles
 
-Suite à mon article [Esclavage 2.0](http://blog.tcrouzet.com/2006/06/19/esclavage-20/) aussi publié sur [Agoravox](http://www.agoravox.fr/article.php3?id_article=10691), je suis tombé sur un article de *Wired* intitulé [The Rise of Crowdsourcing](http://www.wired.com/wired/archive/14.06/crowds.html), article résumé en français sur [Internet Actu](http://www.internetactu.net/?p=6470).
+Suite à mon article [Esclavage 2.0](/2006/06/19/esclavage-20/) aussi publié sur [Agoravox](http://www.agoravox.fr/article.php3?id_article=10691), je suis tombé sur un article de *Wired* intitulé [The Rise of Crowdsourcing](http://www.wired.com/wired/archive/14.06/crowds.html), article résumé en français sur [Internet Actu](http://www.internetactu.net/?p=6470).
 
 Le crowdsourcing, c’est l’utilisation de la puissance productive des internautes. Dans *Wired*, [Jeff Howe](http://www.crowdsourcing.com) écrit :
 
@@ -16,7 +16,7 @@ Le crowdsourcing fonctionne déjà très bien. Il est à l’origine du web, de 
 
 Deviendra-t-il la norme, tout comme démocratie participative ? À force de participer sur le web, les gens finiront bien par se demander pourquoi on les empêche de participer à la vie politique.
 
-Beaucoup de gens ne sont évidemment pas d’accord avec cette idée. Parmi eux, les privilégiés qui ont déjà le droit de participer : [les experts](http://blog.tcrouzet.com/2006/06/11/mais-qui-nomme-les-experts/) notamment.
+Beaucoup de gens ne sont évidemment pas d’accord avec cette idée. Parmi eux, les privilégiés qui ont déjà le droit de participer : [les experts](/2006/06/11/mais-qui-nomme-les-experts/) notamment.
 
 Exemple, développé dans *Wired* d’ailleurs : un photographe professionnel se plaint que ses clients préfèrent de plus en plus des photos d’amateur distribuées quasi gratuitement sur les sites collaboratif comme [iStockPhoto](http://www.istockphoto.com). Quel est le problème ? Les clients sont-ils stupides ? Non. Pourquoi payeraient-ils cher ce qui est disponible pour presque rien ? Et puis qui a décidé que le professionnel était meilleur qu’un amateur ? N’est-ce pas les clients ? S’ils se détournent du professionnel, c’est qu’il n’est plus à la hauteur, en tout cas par rapport l’attente des clients.
 

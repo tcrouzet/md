@@ -18,7 +18,7 @@ En revanche, la décentralisation est gage de succès.
 
 - MySpace et de nombreuses plates-formes de blogs comme WordPress laissent carte-blanche aux utilisateurs qui créent leur contenu et l’exploitent à leur façon. Le service central offre la technologie et renforce la communauté en créant des liens transversaux.
 
-- Flickr, Youtube, Daillymotion… centralisent les vidéos ou les images mais proposent à tous les blogueurs de les repiquer et de les publier sur leur propre site. L’audience sur les sites parents n’a pas beaucoup d’importance. Par ailleurs, tous ces sites sont ouverts aux [mashup](http://blog.tcrouzet.com/2006/05/20/la-fin-des-copyrights-avec-le-web-20/)... mon préféré [moo.com](http://www.moo.com/).
+- Flickr, Youtube, Daillymotion… centralisent les vidéos ou les images mais proposent à tous les blogueurs de les repiquer et de les publier sur leur propre site. L’audience sur les sites parents n’a pas beaucoup d’importance. Par ailleurs, tous ces sites sont ouverts aux [mashup](/2006/05/20/la-fin-des-copyrights-avec-le-web-20/)... mon préféré [moo.com](http://www.moo.com/).
 
 - Amazon décentralise en offrant aux lecteurs la possibilité de noter les produits, de les commenter, de créer des listes de produits favoris… c’est une façon de décentraliser l’expérience utilisateur dans un business a priori centralisé. Il est même maintenant possible de créer des boutiques concurrentes d’Amazon avec Amazon.
 

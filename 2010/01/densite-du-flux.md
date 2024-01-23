@@ -4,15 +4,15 @@ Depuis que j’écris sur ce blog, des lecteurs me renvoient à Sokal et Bricmon
 
 Ma démarche aujourd’hui est différente. Quand je découvre une analogie, je la communique dans l’idée qu’elle pourra provoquer « un quelque chose » chez certains lecteurs, pas dans le but d’énoncer une vérité. La vérité m’intéresse peu, je n’y crois même pas. Je m’intéresse à ce qui peut m’aider à vivre, peut-être en aider d’autres. Je ne suis pas dans le quantitatif mais dans le qualitatif.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/01/3states.png)
+![](https://tcrouzet.com/images_tc/2010/01/3states.png)
 
 Maintenant il ne faut pas confondre la façon d’arriver à une idée, qui peut suivre un raisonnement analogique, de l’idée elle-même qui au final peut être débarrassée de l’analogie qui a servi à la construire. Je suis peu à peu ce chemin avec mon hypothèse selon laquelle l’information peut occuper plusieurs états, hypothèse qui traverse ma réflexion sur le Flux.
 
-Je l’ai initialement introduite [comme une métaphore](http://blog.tcrouzet.com/2009/09/10/le-flux-troisieme-etat-de-linformation/) avant de laisser entendre qu’il y avait sans doute [un moyen formel de sortir de la métaphore](http://blog.tcrouzet.com/2009/10/21/l%E2%80%99information-dans-tous-ses-etats/).
+Je l’ai initialement introduite [comme une métaphore](/2009/09/10/le-flux-troisieme-etat-de-linformation/) avant de laisser entendre qu’il y avait sans doute [un moyen formel de sortir de la métaphore](/2009/10/21/l%E2%80%99information-dans-tous-ses-etats/).
 
-Je viens de publier une bêta 3.0 de [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) où, dans le chapitre 11, je reviens sur cette idée des trois états, avançant quelques arguments nouveaux que je voudrais prolonger ici.
+Je viens de publier une bêta 3.0 de [*L’alternative nomade*](/alternative-nomade/) où, dans le chapitre 11, je reviens sur cette idée des trois états, avançant quelques arguments nouveaux que je voudrais prolonger ici.
 
-Pour se sortir de la métaphore, je pars de la définition de l’information au sens de Shannon (sinon on bascule dans le qualitatif uniquement). Par exemple, on peut évaluer l’évolution de la quantité de bits stockés par l’humanité au cours du temps. Avant l’écriture, quelques hommes entraînés mémorisaient d’immenses chants. Avec l’écrit, on ajoute des possibilités ([externalisation de la mémoire dont parle Michel Serre](http://blog.tcrouzet.com/2006/09/06/reseau-ou-espace/)). L’imprimerie puis le Web prolongent cette histoire. De nombreuses études montrent que cette courbe est sans doute exponentielle.
+Pour se sortir de la métaphore, je pars de la définition de l’information au sens de Shannon (sinon on bascule dans le qualitatif uniquement). Par exemple, on peut évaluer l’évolution de la quantité de bits stockés par l’humanité au cours du temps. Avant l’écriture, quelques hommes entraînés mémorisaient d’immenses chants. Avec l’écrit, on ajoute des possibilités ([externalisation de la mémoire dont parle Michel Serre](/2006/09/06/reseau-ou-espace/)). L’imprimerie puis le Web prolongent cette histoire. De nombreuses études montrent que cette courbe est sans doute exponentielle.
 
 Une autre donnée me semble plus intéressante pour parler du Flux, c’est la quantité d’information en mouvement, autrement dit le débit ou le trafic. On peut l’évaluer comme le nombre de bits qui circulent sur la distance parcourue au cours d’une année par exemple (distance pouvant être estimée dans un espace topologique, un réseau par exemple). Là encore on obtient en toute probabilité une courbe exponentielle avec les mêmes points d’inflexion que ceux pour la quantité d’information.
 

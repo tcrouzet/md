@@ -8,7 +8,7 @@ Il existe pourtant un moyen tout simple d’aboutir à un résultat plus spectac
 
 Nous hurlons que les créateurs sur Internet ne gagnent pas leur vie. Achetons moins d’objets inutiles et reportons nos dépenses dans les champs de l’immatériel, ces champs qui souvent en prime nourrissent l’esprit et nous font grandir en tant qu’être humain. Plus nous déplacerons notre consommation, plus les créateurs pourront travailler sereinement. Nous entretiendrons un feedback positif.
 
-Après [mon dernier billet](http://blog.tcrouzet.com/2009/12/18/le-flux-revolution-personnelle/), [J-François Garsmeur](http://twitter.com/jfgarsmeur/statuses/6807436108) a déclaré :
+Après [mon dernier billet](/2009/12/18/le-flux-revolution-personnelle/), [J-François Garsmeur](http://twitter.com/jfgarsmeur/statuses/6807436108) a déclaré :
 
 > Crouzet vire au mystique de droite. À quand les Templiers ?
 

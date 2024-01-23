@@ -1,6 +1,6 @@
 # Organisation sans organisation
 
-Je viens de lire le début de [*Here Comes Everybody*](http://www.herecomeseverybody.org/). [Clay Shirky](http://www.shirky.com/) raconte comment des milliers de gens s’auto-organisèrent pour retrouver un téléphone. J’ai manqué débuter *Le cinquième pouvoir* par une [anecdote comparable](http://blog.tcrouzet.com/2006/11/27/une-histoire-de-deux-roues/).
+Je viens de lire le début de [*Here Comes Everybody*](http://www.herecomeseverybody.org/). [Clay Shirky](http://www.shirky.com/) raconte comment des milliers de gens s’auto-organisèrent pour retrouver un téléphone. J’ai manqué débuter *Le cinquième pouvoir* par une [anecdote comparable](/2006/11/27/une-histoire-de-deux-roues/).
 
 À partir de là, Shirky compare les structures sociales organisées et celles auto-organisées. Il évoque le problème du coût croissant pour maintenir les premières lorsque leur taille augmente, puis affirme, comme moi, que les nouveaux outils technologiques nous aideront à nous auto-organiser à vaste échelle.
 

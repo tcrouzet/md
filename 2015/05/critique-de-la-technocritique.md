@@ -34,7 +34,7 @@ En France, c’est bien le contraire. Mes propos n’ont jamais autant été rep
 
 Au moins, sur ce point nous sommes d’accord. À bien y regarder, surtout depuis que j’ai publié *J’ai débranché*, j’ai rejoint les rangs des technocritiques. Et, si je saute sur le moindre iTruc, c’est pour mieux le critiquer (ne vous moquez pas — « Tu as tout, toi, papa », me disent mes fils. « Oui, mais c’est pour mon travail. »).
 
-![J'ai même craqué pour une Apple Watch.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/05/watch.jpg)
+![J'ai même craqué pour une Apple Watch.](https://tcrouzet.com/images_tc/2015/05/watch.jpg)
 
 J'ai même craqué pour une Apple Watch.
 

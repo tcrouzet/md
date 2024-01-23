@@ -1,6 +1,6 @@
 # De la nanolittérature au mégafeuilleton
 
-Jaime le blog pour la vitesse, le jet, la pensée pure, encore incertaine, les rebonds avec les lecteurs et les autres blogueurs. La [twittérature](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/) m’a envoyé dans une direction opposée. Je n’ai jamais écrit aussi lentement que quand j’ai travaillé à [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/).
+Jaime le blog pour la vitesse, le jet, la pensée pure, encore incertaine, les rebonds avec les lecteurs et les autres blogueurs. La [twittérature](/la-quatrieme-theorie/la-quatrieme-theorie-liens/) m’a envoyé dans une direction opposée. Je n’ai jamais écrit aussi lentement que quand j’ai travaillé à [*La Quatrième Théorie*](/la-quatrieme-theorie/).
 
 C’est paradoxal, parce qu’on twitte comme on pense. Souvent sans se relire. Voyant *a posteriori* les gigantesques fautes d’orthographe. Les mots oubliés. Mais une autre dimension doit être prise en compte : l’audience. Le lecteur est derrière l’écran. Et il n’a pas forcément envie de vous lire à l'instant où vous écrivez, de crouler sous vos messages. On doit le ménager. D’autant plus si on attend de lui une réaction avant de publier le tweet suivant.
 
@@ -8,7 +8,7 @@ Cette double tension de l’interaction et de la politesse m’a contraint à é
 
 Twitter m’a ralenti avec pour effet de compresser mon style et d’accélérer inversement la narration. C’est à cette seule condition que j’ai réussi à écrire un thriller.
 
-J’avais [divisé la twittérature en trois grands domaines](http://blog.tcrouzet.com/2013/02/06/taxinomie-litteraire-a-lage-de-twitter/), je peux dorénavant proposer une classification plus simple.
+J’avais [divisé la twittérature en trois grands domaines](/2013/02/06/taxinomie-litteraire-a-lage-de-twitter/), je peux dorénavant proposer une classification plus simple.
 
 ### Nanolittérature
 

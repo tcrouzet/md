@@ -42,7 +42,7 @@ Pratiquement, comment réussir un débat entre douze candidats ? Il faut trouve
 
 De nombreuses autres combinaisons sont sans doute possibles. Par exemple, trois débats pourraient se tenir en parallèle entre quatre candidats. Mais comment désigner qui parle avec qui ? S’appuyer uniquement sur les sondages ne serait pas très réaliste alors que nous les dénigrons souvent.
 
-Une formule osée serait de faire un [speed dating](http://blog.tcrouzet.com/2007/04/03/sarkozy-dit-nom-au-debat/), où chacun des candidats parle tour à tour avec chacun des autres pendant 10 à 15 minutes, mais, en si peu de temps, il est difficile de débattre.
+Une formule osée serait de faire un [speed dating](/2007/04/03/sarkozy-dit-nom-au-debat/), où chacun des candidats parle tour à tour avec chacun des autres pendant 10 à 15 minutes, mais, en si peu de temps, il est difficile de débattre.
 
 Cet article à pour but de lancer la réflexion, de conforter l’option principale envisagée, d’en proposer de meilleures.
 

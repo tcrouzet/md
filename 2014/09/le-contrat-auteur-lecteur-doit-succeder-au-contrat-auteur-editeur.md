@@ -28,7 +28,7 @@ Dans ces conditions, sociales et technologiques, les éditeurs pourraient exiger
 
 Je sens qu'on m'accusera de généraliser. Oui, il existe des gens biens dans toutes les professions. Mais avouez que vos contrats d'édition sont des antiquités. Du moment que je n'ai plus besoin de vous pour me diffuser, vous ne pouvez pas m'engager au-delà du jour où nous ne gagnons plus d'argent ensemble.
 
-![Je signe ou je ne signe pas ?](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/publishing-contract.jpeg)
+![Je signe ou je ne signe pas ?](https://tcrouzet.com/images_tc/2014/09/publishing-contract.jpeg)
 
 Je signe ou je ne signe pas ?
 

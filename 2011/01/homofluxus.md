@@ -2,7 +2,7 @@
 
 À quoi ressemblent ces hommes et ces femmes qui nagent dans le flux ? Je voudrais répondre à cette question, déjà pour m’aider à mieux me situer dans le monde, à accepter les aléas de la vie contemporaine et ne pas perdre courage.
 
-J’ai souvent défini le flux, notamment dans [*Propulseurs dans le flux*](http://blog.tcrouzet.com/propulseurs-dans-le-flux/). Le flux ne se limite pas au flux des informations, mais à tous les échanges matériels ou immatériels qui ne cessent de se produire… et qui ont la particularité de boucler sur eux-mêmes. De fermer le système. D’imbriquer les causalités. De casser les notions de début et de fin, de haut et de bas. Le flux est un état de complexité extrême et d’interdépendance massive.
+J’ai souvent défini le flux, notamment dans [*Propulseurs dans le flux*](/propulseurs-dans-le-flux/). Le flux ne se limite pas au flux des informations, mais à tous les échanges matériels ou immatériels qui ne cessent de se produire… et qui ont la particularité de boucler sur eux-mêmes. De fermer le système. D’imbriquer les causalités. De casser les notions de début et de fin, de haut et de bas. Le flux est un état de complexité extrême et d’interdépendance massive.
 
 Je vois pour chacun de nous quatre attitudes possibles.
 

@@ -1,6 +1,6 @@
 # Invalider la théorie d’un Net épicurien
 
-Chaque fois que je m’inquiète de notre internet, que j’évoque [les vagues noires qui le submergent](http://blog.tcrouzet.com/2013/06/26/la-masturbation-des-neotechos/), des voix se dressent pour me dire qu’internet est bien ce que nous voulons en faire. Les agissements des grandes compagnies et des foules ne compteraient pas du moment que nous nous élevons au-dessus de leur nausée.
+Chaque fois que je m’inquiète de notre internet, que j’évoque [les vagues noires qui le submergent](/2013/06/26/la-masturbation-des-neotechos/), des voix se dressent pour me dire qu’internet est bien ce que nous voulons en faire. Les agissements des grandes compagnies et des foules ne compteraient pas du moment que nous nous élevons au-dessus de leur nausée.
 
 Nous pouvons bien faire ce que nous voulons de notre voiture. La laisser au garage, nous en servir pour aller au travail ou pour de grands raids dans les déserts d’Afrique. Nous pouvons la garder en version d’origine ou la customiser. Mais déjà quand nous appuyons un peu trop sur le champignon, nous commençons à nous heurter aux choix de la communauté, puis nous nous empêtrons dans un bouchon et comprenons le sens premier de l’interdépendance : l’emmerdement. Même de nos outils nous ne faisons pas toujours ce que nous voulons, dès que leurs usages interfèrent avec d’autres usages.
 

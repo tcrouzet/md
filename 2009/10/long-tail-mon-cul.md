@@ -2,7 +2,7 @@
 
 Ce titre pourrait être le début d’un dialogue entre un partisan de la théorie d’Anderson et un défenseur du vieux business model de la rareté.
 
-Je lis tout et n’importe quoi sur la longue traîne. Beaucoup de gens en restent à une idée simpliste, ne songeant qu’à leur business model. Par exemple [Frédéric Filloux](http://www.mondaynote.com/2009/09/27/the-long-tail-coming-up-short/). Tout cela me donne envie de [revenir brièvement sur le sujet](http://blog.tcrouzet.com/tag/long-tail/).
+Je lis tout et n’importe quoi sur la longue traîne. Beaucoup de gens en restent à une idée simpliste, ne songeant qu’à leur business model. Par exemple [Frédéric Filloux](http://www.mondaynote.com/2009/09/27/the-long-tail-coming-up-short/). Tout cela me donne envie de [revenir brièvement sur le sujet](/tag/long-tail/).
 
 1. Je me réjouis de voir les entrepreneurs qui construisent un business sur la longue traîne se planter. La longue traîne ne s’enferme pas. À mon sens, elle ne peut se mesurer qu’à l’échelle globale. Prenons tous les livres, vendus ou gratuits, lus chez soi ou dans une bibliothèque, traçons la courbe de ce que les gens lisent. C’est là qu’il faut chercher la longue traîne pas chez tel ou tel vendeur (seul un immense vendeur comme Amazon peut la faire apparaître – et ce n’est même pas obligatoire).
 2. Si un vendeur de DVD comme NetFlix ne fait pas apparaître la longue traîne dans ses ventes, c’est juste la preuve qu’il n’a pas réussi à mettre en place un système de recommandation pour que ses clients réussissent à s’auto-conseiller. Ça ne prouve rien d’autre sinon que NetFlix, malgré son large catalogue, reste dans l’économie de la rareté.

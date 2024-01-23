@@ -2,11 +2,11 @@
 
 Les gens avec un rythme cardiaque irrégulier ont plus de chances d’avoir un problème cardiaque. Dans les années 1980, le bon sens dicta aux médecins d’administrer un traitement pour réguler le rythme cardiaque de tous les arythmiques. Résultat : la mortalité a été multipliée par deux, voire par trois, pour ceux qui ont une arythmie faible ! Le bon sens n’est pas toujours fiable. Il nous dit d’ailleurs que la Terre est plate !
 
-Nous aurions dû nous méfier de lui, mais non, nous lui faisons toujours confiance, comme quand [nous nous croyons capables d’anticiper l’avenir](http://blog.tcrouzet.com/2006/07/19/l%e2%80%99irresponsabilite-des-politiques-bis/). Ces dernières semaines, j’ai lu plusieurs articles qui questionnent le bon sens écologique. Et qui nous montrent combien nous devons être prudents avant d’adopter de nouvelles technologies.
+Nous aurions dû nous méfier de lui, mais non, nous lui faisons toujours confiance, comme quand [nous nous croyons capables d’anticiper l’avenir](/2006/07/19/l%e2%80%99irresponsabilite-des-politiques-bis/). Ces dernières semaines, j’ai lu plusieurs articles qui questionnent le bon sens écologique. Et qui nous montrent combien nous devons être prudents avant d’adopter de nouvelles technologies.
 
 Il nous paraît évident qu’elles permettent la production d’énergie propre ; peu importe leur bilan économique. Le bon sens dicte de construire de plus en plus d’éoliennes même si elles gâchent les paysages et massacrent souvent dans leurs pales les oiseaux de passage. Ce risque est connu, il vaut la peine d’être pris. J’ai toujours été de cet avis. En 2005, la production mondiale d’énergie éolienne a augmenté de 43 % pour atteindre 60 000 mégawatts, 12 fois la consommation énergétique de l’Irlande.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/eol.jpg)
+![](https://tcrouzet.com/images_tc/eol.jpg)
 
 Mais faut-il se fier au bon sens avant de prendre une décision ? Quel est le coût réel d’un champ d’éoliennes ? Combien de CO2 sera dégagé lors de la construction de l’infrastructure, combien lors de la fabrication des éoliennes ? Toutes les pollutions ne doivent-elles pas être comptabilisées ?
 

@@ -1,8 +1,8 @@
 # Le socialisme selon Starglider
 
-![Brain-Earth](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/07/Brain-Earth1-450x274.GIF)
+![Brain-Earth](https://tcrouzet.com/images_tc/2009/07/Brain-Earth1-450x274.GIF)
 
-J’avance [mon essai épistolaire](http://blog.tcrouzet.com/2009/06/13/du-premier-ordinateur-a-starglider/) qui prend de plus en plus la forme d’un roman sur le modèle des *Lettres persanes*. La sonde exploratrice Starglider en orbite terrestre dialogue avec (-o-), la conscience cosmique, et avec d’autres sondes ainsi bien sûr qu’avec les humains.
+J’avance [mon essai épistolaire](/2009/06/13/du-premier-ordinateur-a-starglider/) qui prend de plus en plus la forme d’un roman sur le modèle des *Lettres persanes*. La sonde exploratrice Starglider en orbite terrestre dialogue avec (-o-), la conscience cosmique, et avec d’autres sondes ainsi bien sûr qu’avec les humains.
 
 Comme je l’ai expliqué dans certains commentaires, mon but dans ce livre n’est pas de militer pour la création d’un superorganisme. Me basant sur de nombreux travaux scientifiques, je parts de l’idée que nous pouvons dès à présent considérer l’humanité comme un superorganisme.
 

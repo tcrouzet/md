@@ -14,4 +14,4 @@ Lorsqu'individuellement nous nous retrouvons face à une mauvaise graine, ce n�
 
 Je crois que l’auto-organisation, déjà au cœur de nos sociétés, suffit à expliquer pourquoi les mauvaises graines ne peuvent l’emporter. Une mauvaise graine ne s’auto-organise pas. Elle ne participe pas à l’harmonie générale. Elle se retrouve mise à l’écart automatiquement.
 
-Une mauvaise graine joue perdant-perdant. Les bonnes [gagnant-gagnant](http://blog.tcrouzet.com/2006/05/12/win-win/). Seule cette seconde stratégie l’emporte à long terme. Mon optimisme profond dicte ma réponse. C’est ma façon de jouer gagnant-gagnant.
+Une mauvaise graine joue perdant-perdant. Les bonnes [gagnant-gagnant](/2006/05/12/win-win/). Seule cette seconde stratégie l’emporte à long terme. Mon optimisme profond dicte ma réponse. C’est ma façon de jouer gagnant-gagnant.

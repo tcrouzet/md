@@ -18,7 +18,7 @@ Xerox justifie l’instauration de cette structure de pouvoir au nom du droit co
 
 ### Le maître et l’esclave
 
-En novembre dernier, j’ai passé à Genève [une journée en compagnie de Stallman](http://blog.tcrouzet.com/2010/11/22/la-fin-des-faux-monnayeurs/). Nous voulions discuter de la possibilité d’étendre le concept du logiciel libre à la monnaie et à l’ensemble du système financier. Au début de l’après-midi, des élèves en économie de l’université sont venus écouter Stallman et lui poser des questions. À un moment donné, un garçon a dit qu’il ne voyait pas l’intérêt de savoir s’il utilisait un logiciel libre ou pas.
+En novembre dernier, j’ai passé à Genève [une journée en compagnie de Stallman](/2010/11/22/la-fin-des-faux-monnayeurs/). Nous voulions discuter de la possibilité d’étendre le concept du logiciel libre à la monnaie et à l’ensemble du système financier. Au début de l’après-midi, des élèves en économie de l’université sont venus écouter Stallman et lui poser des questions. À un moment donné, un garçon a dit qu’il ne voyait pas l’intérêt de savoir s’il utilisait un logiciel libre ou pas.
 
 Je n’ai pas pu m’empêcher de lui dire que, par le passé, beaucoup d’esclaves n’avaient jamais pris conscience qu’ils étaient esclaves. C’était pour eux un état si naturel qu’il n’était même pas contestable. On ne sait ce qu’est la liberté que quand on y a goûté. C’est pour illustrer ce point que j’ai rappelé le moment qui préfigure l’invention du logiciel libre.
 
@@ -99,7 +99,7 @@ Si, avec mon iPhone, je suis un esclave d’Apple, je ne le suis pas avec Mozill
 
 Ça peut paraître un détail, mais cette petite impulsion en faveur des liens sociaux s’inscrit dans un mouvement plus vaste entretenu par les réseaux sociaux et, plus généralement, par toutes les technologies de fluidification. Nous sommes en train de complexifier le monde.
 
-Chaque fois que nous créons un nouveau lien entre deux personnes, nous complexifions [le graphe social de l’humanité](http://blog.tcrouzet.com/2010/11/24/la-carte-et-le-reseau-social/), donc en compliquons le contrôle. Plus nous créons de liens, plus nous sommes libres.
+Chaque fois que nous créons un nouveau lien entre deux personnes, nous complexifions [le graphe social de l’humanité](/2010/11/24/la-carte-et-le-reseau-social/), donc en compliquons le contrôle. Plus nous créons de liens, plus nous sommes libres.
 
 Un exemple. Un logiciel libre se propage, se transforme, évolue. Personne ne le contrôle. Dans un logiciel privateur, l’éditeur peut installer des spywares. Il peut même comme Amazon ou Apple supprimer vos fichiers à distance. Un logiciel privateur est contrôlable par nature. C’est un outil qui peut s’avérer réducteur de liberté en même temps que réducteur de complexité, ne serait-ce que parce que partout il est identique à lui-même.
 

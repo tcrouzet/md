@@ -44,9 +44,9 @@ Pour faire l’économie du revenu de base, ceux qui s’appellent eux-mêmes le
 
 16. On ne valorise pas les tâches qui ne sont pas sources directes de revenu et participent la croissance immatérielle tout en étant indispensables à la vie en société.
 
-Il me faut maintenant imaginer des histoires de vies. Passer à la simulation littéraire pour essayer d’explorer ce que les trop belles théories ne voient pas. Et c’est l’été, je bricole, je vois des amis, j’arrive tout juste à aligner quelques lignes peu exigeantes sur le blog… inévitablement plongé dans le post-partum de l’après [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).
+Il me faut maintenant imaginer des histoires de vies. Passer à la simulation littéraire pour essayer d’explorer ce que les trop belles théories ne voient pas. Et c’est l’été, je bricole, je vois des amis, j’arrive tout juste à aligner quelques lignes peu exigeantes sur le blog… inévitablement plongé dans le post-partum de l’après [*Ératosthène*](/eratosthene/).
 
-![Tant qu'on voudra vivre là, il faudra de la monnaie.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/balaruc.jpg)
+![Tant qu'on voudra vivre là, il faudra de la monnaie.](https://tcrouzet.com/images_tc/2014/07/balaruc.jpg)
 
 Tant qu'on voudra vivre là, il faudra de la monnaie.
 

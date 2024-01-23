@@ -1,6 +1,6 @@
 # Retour sur la néthique
 
-Pour ceux qui ont manqué [la conférence](http://blog.tcrouzet.com/2007/03/08/la-nethique/), [toutes les interventions sont en ligne](http://carrefour-numerique.cite-sciences.fr/-La-Nethique-Vivre-ensemble-sur-le).
+Pour ceux qui ont manqué [la conférence](/2007/03/08/la-nethique/), [toutes les interventions sont en ligne](http://carrefour-numerique.cite-sciences.fr/-La-Nethique-Vivre-ensemble-sur-le).
 
 Voici mon laïus \
 

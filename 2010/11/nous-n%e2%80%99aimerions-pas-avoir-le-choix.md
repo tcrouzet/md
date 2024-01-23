@@ -6,7 +6,7 @@ Mon raisonnement est simple : si peu de plats sont proposés, il y a une chance
 
 Ma liberté ne dépend pas seulement de l’ampleur de l’offre mais de la qualité de l’offre. Bien sûr je peux me laisser abuser. Une offre réduite peut également être médiocre. Rien ne garantit la qualité, sinon l’expérience.
 
-Quand j’ai parlé de [Youtubiser le livre](http://blog.tcrouzet.com/2010/10/26/youtubiser-le-livre/), j’ai supposé qu’en élargissant l’offre de textes nous donnerions une chance à des formes de littérature qui peut-être n’avaient jamais trouvé leur place dans le circuit traditionnel de l’édition. Mais si les lecteurs se comportent dans les librairies comme moi au restaurant, ils préfèrent peut-être avoir moins de choix dans l’espoir d'être moins déçus.
+Quand j’ai parlé de [Youtubiser le livre](/2010/10/26/youtubiser-le-livre/), j’ai supposé qu’en élargissant l’offre de textes nous donnerions une chance à des formes de littérature qui peut-être n’avaient jamais trouvé leur place dans le circuit traditionnel de l’édition. Mais si les lecteurs se comportent dans les librairies comme moi au restaurant, ils préfèrent peut-être avoir moins de choix dans l’espoir d'être moins déçus.
 
 [Andrew McAfee](http://blogs.hbr.org/hbr/mcafee/2010/11/why-people-want-less-choice.html) se demande si le succès de l’iPad, avec bientôt 13 millions d’unités vendues, ne proviendrait pas de ses limitations. La contrainte pousserait les usages dans certaines directions plutôt que dans d’autres. En limitant les choix, elle aiderait à choisir. En quelque sorte, nous n’aimerions pas autant qu’on veut le croire la liberté, surtout quand elle s’accompagne en contrepartie d’une prise de risque.
 

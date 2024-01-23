@@ -10,7 +10,7 @@ Voilà que je me mets à faire des prévisions. Mais elles ne sont pas à 30 ans
 
 > \[…\] l’Histoire obéit à des lois qui permettent de la prévoir et de l’orienter.
 
-Quand je lis ça, je suis scandalisé. J’ai écrit *Le peuple des connecteurs* en partie pour dénoncer cette idée. En son temps, Tolstoï a écrit *La Guerre et la Paix* pour la même raison. [Des dizaines de scientifiques](http://blog.tcrouzet.com/2006/07/19/l%e2%80%99irresponsabilite-des-politiques-bis/), dont le mathématicien français Benoit Mandelbrot, ont DÉMONTRÉ que l’avenir était imprévisible, mais ça ne change rien. Certains hommes influents veulent nous faire croire le contraire, parce que leur influence réside justement dans leur hypothétique influence sur l’histoire. Attali appartient à cette grande famille d’imposteurs.
+Quand je lis ça, je suis scandalisé. J’ai écrit *Le peuple des connecteurs* en partie pour dénoncer cette idée. En son temps, Tolstoï a écrit *La Guerre et la Paix* pour la même raison. [Des dizaines de scientifiques](/2006/07/19/l%e2%80%99irresponsabilite-des-politiques-bis/), dont le mathématicien français Benoit Mandelbrot, ont DÉMONTRÉ que l’avenir était imprévisible, mais ça ne change rien. Certains hommes influents veulent nous faire croire le contraire, parce que leur influence réside justement dans leur hypothétique influence sur l’histoire. Attali appartient à cette grande famille d’imposteurs.
 
 Pour lui, dans notre avenir, « La situation est simple : les forces du marché prennent en main la planète. » Réveillez-vous monsieur. Ça, c’est l’histoire ancienne, j’espère que le XXI<sup>e</sup> siècle nous réserve autre chose. Moi, je vois que le cinquième pouvoir a déjà commencé à prendre les choses en main. Encore une fois, ce n’est pas une prévision.
 

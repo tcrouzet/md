@@ -1,6 +1,6 @@
 # De la transcendance
 
-Dans notre imaginaire, transcender signifie souvent dépasser et englober. Le monde spirituel est sensé transcender le monde matériel. [Cette conception de la transcendance convient à une vision du monde hiérarchique ou holarchique.](http://blog.tcrouzet.com/2008/10/02/de-l%e2%80%99idealisme-a-la-complexite/) Dans un monde, décentralisé, distribué, un monde en réseau, il faut repenser la transcendance.
+Dans notre imaginaire, transcender signifie souvent dépasser et englober. Le monde spirituel est sensé transcender le monde matériel. [Cette conception de la transcendance convient à une vision du monde hiérarchique ou holarchique.](/2008/10/02/de-l%e2%80%99idealisme-a-la-complexite/) Dans un monde, décentralisé, distribué, un monde en réseau, il faut repenser la transcendance.
 
 De manière pragmatique, pour éviter le débat théologique, certains philosophes contemporains associent la transcendance à un phénomène émergeant. Mais là encore, l’émergence peut avoir deux interprétations.
 

@@ -72,7 +72,7 @@ J’aime internet parce que c’est une autoroute où circulent aussi des charre
 
 Mais après avoir écouté la première version du teaser monté à l’occasion de la soirée du 28 novembre, je pourrais aussi dire pourquoi je déteste internet. Parce que beaucoup d’entrepreneurs rêvent d’y faire ce que les entrepreneurs faisaient ailleurs. Ils ne pensent qu’aux dollars et se fichent des charrettes du sous-commandant Marcos.
 
-J’ai alors songé à une des idées centrales de [Taleb dans *The black swans*](http://blog.tcrouzet.com/2007/09/03/conversation-avec-taleb/). Il y évoque les joueurs qui presque tous se souviennent de leur première partie, de ce jour où la chance était avec eux. Rien de plus étonnant remarque Taleb. Tous ceux qui n’ont pas eu de chance ont depuis arrêté de jouer. Ils sont au cimetière des joueurs. Ne survivent que les vernis de la première heure.
+J’ai alors songé à une des idées centrales de [Taleb dans *The black swans*](/2007/09/03/conversation-avec-taleb/). Il y évoque les joueurs qui presque tous se souviennent de leur première partie, de ce jour où la chance était avec eux. Rien de plus étonnant remarque Taleb. Tous ceux qui n’ont pas eu de chance ont depuis arrêté de jouer. Ils sont au cimetière des joueurs. Ne survivent que les vernis de la première heure.
 
 Il en va de même pour les entrepreneurs : les plus riches ne sont pas plus intelligents, plus doués ou plus visionnaires que ceux qui ont fait banqueroute. Ils ont juste était au bon endroit au bon moment. Quand on découvre leur absolu manque de recul et leur absence de conscience politique, il ne faut pas s’en étonner. Nous de demandons pas aux gagnants du loto de nous faire des conférences. C’est pourtant ce que nous demandons souvent à beaucoup de nos entrepreneurs.
 

@@ -80,7 +80,7 @@ Mais nous ne vivons pas dans le meilleur des mondes. Pour un innovateur, choisir
 
 2. L’innovateur doit être rémunéré par le marché, une institution ou une fondation (c’est le cas pour Didier Pittet, Tim Berners-Lee, Linus Torvalds…).
 
-3. Comme l’innovateur a donné, il faut que les autres donnent en retour. [Une licence libre exige la réciprocité.](http://blog.tcrouzet.com/2010/10/31/2-0-hyper-capitalisme/)
+3. Comme l’innovateur a donné, il faut que les autres donnent en retour. [Une licence libre exige la réciprocité.](/2010/10/31/2-0-hyper-capitalisme/)
 
 4. Sans une prise de conscience éthique de l’ensemble de la société, le donateur risque la ruine.
 
@@ -98,9 +98,9 @@ En offrant le gel, Didier Pittet a sauvé des vies, évité bien des souffrances
 
 Quand on a de quoi vivre, pourquoi en vouloir plus ? C’est une question très importante quand on vit sur une planète où le développement aveugle devient insoutenable.
 
-*PS : Bien sûr, je ne pouvais pas me contenter de vendre mon livre sur l’hygiène des mains. [On peut le télécharger gratuitement.](http://blog.tcrouzet.com/le-geste-qui-sauve/downloads/) Il est distribué sous licence libre.*
+*PS : Bien sûr, je ne pouvais pas me contenter de vendre mon livre sur l’hygiène des mains. [On peut le télécharger gratuitement.](/le-geste-qui-sauve/downloads/) Il est distribué sous licence libre.*
 
-![Le geste qui sauve](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/cover43.jpg)
+![Le geste qui sauve](https://tcrouzet.com/images_tc/2015/02/cover43.jpg)
 
 
 

@@ -1,6 +1,6 @@
 # Ératosthène (interlude 1)
 
-*Comme je l’ai expliqué, je prépare* [*un livre à la frontière du roman et de l’essai sur Ératosthène de Cyrène*](http://blog.tcrouzet.com/2007/03/31/eratosthene-de-cyrene/)*. Les parties romanesques seront encadrées par de petits essais. Voici le premier.*
+*Comme je l’ai expliqué, je prépare* [*un livre à la frontière du roman et de l’essai sur Ératosthène de Cyrène*](/2007/03/31/eratosthene-de-cyrene/)*. Les parties romanesques seront encadrées par de petits essais. Voici le premier.*
 
 ---
 

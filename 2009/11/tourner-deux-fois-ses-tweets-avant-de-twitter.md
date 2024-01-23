@@ -1,6 +1,6 @@
 # Tourner deux fois ses tweets avant de twitter
 
-Pour célébrer Lévi-Strauss au moment même de l’annonce de sa mort, j’ai joué à l’anthropologue (dans la série des billets de cours d’école). Il y a quelques jours, j’étais allé sur [Tu viens](http://www.tuviens.fr/), le site du livre éponyme de NKM et dans le forum associé à la question « Qui sont les crapauds fous ? », forum en cet instant encore vierge, j’avais simplement posté [un lien vers mes articles sur le sujet](http://blog.tcrouzet.com/tag/crapauds/). Aujourd’hui, je reçois une réponse du modérateur du site (pas de NKM en personne).
+Pour célébrer Lévi-Strauss au moment même de l’annonce de sa mort, j’ai joué à l’anthropologue (dans la série des billets de cours d’école). Il y a quelques jours, j’étais allé sur [Tu viens](http://www.tuviens.fr/), le site du livre éponyme de NKM et dans le forum associé à la question « Qui sont les crapauds fous ? », forum en cet instant encore vierge, j’avais simplement posté [un lien vers mes articles sur le sujet](/tag/crapauds/). Aujourd’hui, je reçois une réponse du modérateur du site (pas de NKM en personne).
 
 > Cher Monsieur, pouvez-vous déposer votre texte « crapauds » sur le site www.tuviens.fr ? Nous ne pouvons le faire à votre place, faute d'avoir les droits nécessaires.
 
@@ -51,10 +51,10 @@ Je tente une dernière invective qui tombera à l’eau :
 Je vais me garder de toutes analyses profondes sinon que les Cher Monsieur me font penser à un autre monde. Question d’être positif, je vais répondre aux six questions pour demain de NKM.
 
 1. *Qui sont les prophètes ?* L’avenir étant imprévisible il n’y a plus de prophète. Il n’y a que des gens qui expérimentent dans le concret.
-2. *S’insurger : pourquoi et comment ?* L’insurrection qui vient à manifestement laissé des traces. Je prêche depuis longtemps [la guérilla globale](http://blog.tcrouzet.com/tag/guerilla/), c’est-à-dire le refus de l’insurrection à proprement parler dans l’esprit de Hakim Bay. Ce que j’appelle [les écureuils égoïstes](http://blog.tcrouzet.com/2009/05/13/les-ecureuils-egoistes/) (NKM doit mettre à tout-prix ce concept dans son prochain livre).
+2. *S’insurger : pourquoi et comment ?* L’insurrection qui vient à manifestement laissé des traces. Je prêche depuis longtemps [la guérilla globale](/tag/guerilla/), c’est-à-dire le refus de l’insurrection à proprement parler dans l’esprit de Hakim Bay. Ce que j’appelle [les écureuils égoïstes](/2009/05/13/les-ecureuils-egoistes/) (NKM doit mettre à tout-prix ce concept dans son prochain livre).
 3. *Quel modèle de développement pour demain ?* Auto-organisation réticulaire.
 4. *Qui sont les crapauds fous ?* Vous, moi, nous. Dans un monde fluide, nous ressemblons tous à des patineurs virtuoses.
-5. *Vers une démocratie 2.0 ?* À condition qu’elle soit [non représentative et non directe](http://blog.tcrouzet.com/2009/10/29/la-troisieme-democratie-1/).
-6. *Quelle gouvernance internationale pour Internet ?* [La même que pour le reste du monde.](http://blog.tcrouzet.com/2009/04/30/pour-une-gouvernance-mondiale/)
+5. *Vers une démocratie 2.0 ?* À condition qu’elle soit [non représentative et non directe](/2009/10/29/la-troisieme-democratie-1/).
+6. *Quelle gouvernance internationale pour Internet ?* [La même que pour le reste du monde.](/2009/04/30/pour-une-gouvernance-mondiale/)
 
 Tags: Crapauds, Politique

@@ -28,7 +28,7 @@ Certains écrivains ne possèdent même pas d’optique. Ils balancent des histo
 
 Je suis à la recherche d’un équilibre entre percevoir et dire, entre garder et lâcher, entre vivre pour moi et vivre avec les autres. Il n’existe pas de solution universelle à cette équation, mais au moins une pour chacun de nous à chacun des moments de notre vie.
 
-![Les chèvres pour étendre les filets, comme celles qu'utilisait mon père.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/chevre.jpg)
+![Les chèvres pour étendre les filets, comme celles qu'utilisait mon père.](https://tcrouzet.com/images_tc/2014/11/chevre.jpg)
 
 Les chèvres pour étendre les filets, comme celles qu'utilisait mon père.
 

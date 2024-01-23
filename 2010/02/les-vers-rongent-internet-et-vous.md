@@ -1,6 +1,6 @@
 # Les vers rongent Internet et vous ?
 
-Ces petites bêtes ne s’attaquent pas qu’à la pomme, elles s’attaquent à tout ce qui pourrait contrecarrer [les structures d’autorité et de domination](http://blog.tcrouzet.com/2010/02/11/anarchisme-emancipation/). Il serait dangereux de croire qu’Internet est dorénavant hors de danger, que nous l’avons gagné, qu’il est un de nos droits inaliénables, que tous les hommes pourront un jour utiliser en toute liberté.
+Ces petites bêtes ne s’attaquent pas qu’à la pomme, elles s’attaquent à tout ce qui pourrait contrecarrer [les structures d’autorité et de domination](/2010/02/11/anarchisme-emancipation/). Il serait dangereux de croire qu’Internet est dorénavant hors de danger, que nous l’avons gagné, qu’il est un de nos droits inaliénables, que tous les hommes pourront un jour utiliser en toute liberté.
 
 ### Tuyaux propriétaires
 
@@ -8,7 +8,7 @@ Les informations ne se propagent pas par magie. Elles empruntent les réseaux de
 
 Nous avons donc clairement une structure d’autorité qu’un processus de concentration pourrait renforcer. Pour le moment, la grande diversité des acteurs ne laisse pas présager une domination immédiate de cette infrastructure. Toutefois, il suffit d’observer n’importe quelle carte globale du réseau pour découvrir qu’il existe des zones qui peuvent être assez facilement coupées du monde.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/02/glasvegels1.jpg)
+![](https://tcrouzet.com/images_tc/2010/02/glasvegels1.jpg)
 
 Pour que nous nous appropriions cette structure d’autorité, il faudrait que chacun de nous participe à la structure physique du réseau, par exemple en interconnectant en P2P nos bornes Wifi. Cette approche peut marcher dans les villes, mais ce n’est pas ainsi que nous construirons un Internet alternatif et libre.
 
@@ -32,7 +32,7 @@ Aux structures d’autorités physiques, s’ajoutent des structures créées pa
 
 Google joue le même jeu pervers. Il aime les liens mais pas trop de liens. Logique, Google voudrait que nous passions systématiquement par lui quand nous cherchons sur le Web. Google s’oppose aujourd’hui à la logique même du Web.
 
-N’oublions pas que nous trouvons beaucoup plus vite des choses qui ont du sens pour nous en remontant les liens. C’est ainsi que nous devenons des [nomades](http://blog.tcrouzet.com/alternative-nomade/) et faisons souvent des découvertes surprenantes.
+N’oublions pas que nous trouvons beaucoup plus vite des choses qui ont du sens pour nous en remontant les liens. C’est ainsi que nous devenons des [nomades](/alternative-nomade/) et faisons souvent des découvertes surprenantes.
 
 Tous les sites qui parlent de partage, d’articles, de musiques, de vidéos, et reposent sur une architecture centralisée sont également des structures d’autorité. Ils ont tout pouvoir sur les contenus mis entre leurs mains. Ils peuvent les faire disparaître du jour au lendemain, censurer, favoriser, manipuler…
 

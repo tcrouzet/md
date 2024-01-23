@@ -26,7 +26,7 @@ Comme je l'ai dit plus haut, le rythme naturel est celui des évènements violen
 
 *Vous parlez aussi dans votre livre de l'immortalité. À mon sens, l'immortalité n'appartient pas aux hommes mais plutôt à Dieu. Désolé, si je vous réponds sur cette question de façon trop raccourcie. Notre monde a besoin que le spirituel ait sa place pour mieux contrer les dérives possibles de la science, sinon ce serait dangereux pour notre humanité. Aussi, je vous mets en garde par rapport à ces possibles dérives où l'homme tente de rivaliser avec Dieu.* 
 
-Je ne cesse de montrer que nous développons en ce moment une spiritualité sans divinité. C'est ce que j'appelle la conscience du tout pour faire bref. Je vous invite à lire quelques uns de mes derniers posts : [Cosmists vs Terrans](http://blog.tcrouzet.com/2006/06/09/cosmists-vs-terrans/) et [La singularité](http://blog.tcrouzet.com/2006/06/02/la-singularit/) notamment.
+Je ne cesse de montrer que nous développons en ce moment une spiritualité sans divinité. C'est ce que j'appelle la conscience du tout pour faire bref. Je vous invite à lire quelques uns de mes derniers posts : [Cosmists vs Terrans](/2006/06/09/cosmists-vs-terrans/) et [La singularité](/2006/06/02/la-singularit/) notamment.
 
 Pour ma part, participer à l'aventure humaine donne beaucoup de sens à ma vie. J'ai envie que l'aventure de la conscience se poursuive. Prolonger la vie des consciences me paraît une bonne chose, ça impliquera une plus grande conscience du tout, car une forme de vie plus pérenne que l'homme actuel devra nécessairement tenir compte des conséquences de ses actes.
 

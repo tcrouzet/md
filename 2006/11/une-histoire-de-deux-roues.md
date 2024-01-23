@@ -16,7 +16,7 @@ Chris n’en croyait pas ses yeux. Pour lui, c’était comme s’il venait de d
 
 > Quand j’y enfonce un stylo de 5 cents et l’ouvre, je ressens un profond sentiment de trahison. Personne dans le département de recherche \[de Kryptonite\] n’a pensé à introduire un objet cylindrique dans le trou de la serrure !
 
-Immédiatement, les visiteurs du forum commencèrent à discuter. Le lendemain, plus de 11 000 cyclistes découvrirent comment forcer les cadenas Kryptonite et les blogueurs relatèrent la mésaventure de Chris. Le 14, certains publièrent sur internet des [vidéos mode d’emploi](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/kryptonite.mov). Le 15, plus d’un millions d’internautes savaient que les cadenas n’étaient pas sûrs. Le 16, Kryptonite affirma la fiabilité de ses cadenas tout en avouant travailler sur une nouvelle technologie. Le 17, le *New York Times* relata l’histoire , puis d’autres journaux, radios et télévisions la reprirent.
+Immédiatement, les visiteurs du forum commencèrent à discuter. Le lendemain, plus de 11 000 cyclistes découvrirent comment forcer les cadenas Kryptonite et les blogueurs relatèrent la mésaventure de Chris. Le 14, certains publièrent sur internet des [vidéos mode d’emploi](https://tcrouzet.com/images_tc/kryptonite.mov). Le 15, plus d’un millions d’internautes savaient que les cadenas n’étaient pas sûrs. Le 16, Kryptonite affirma la fiabilité de ses cadenas tout en avouant travailler sur une nouvelle technologie. Le 17, le *New York Times* relata l’histoire , puis d’autres journaux, radios et télévisions la reprirent.
 
 ![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/200611kryptonite.jpg) 
 

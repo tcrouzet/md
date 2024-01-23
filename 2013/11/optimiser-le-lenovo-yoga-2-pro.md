@@ -16,11 +16,11 @@ Je suis incapable d’utiliser l'OS Microsoft sans l’utilitaire [Start8](http:
 
 Le Lenovo boote en quelques secondes, tout ça pour voir Windows demander systématiquement un mot de passe. Je ne supporte pas. Pour virer cette mesure de sécurité débile, contournable par qui cherche deux secondes sur le Net, il faut exécuter la commande « control userpasswords2 » et décocher l’option.
 
-![control userpasswords2 ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/11/lenovo2.png)
+![control userpasswords2 ](https://tcrouzet.com/images_tc/2013/11/lenovo2.png)
 
 Mais comme souvent avec Microsoft, cette mesure est incomplète. Il faut aussi aller dans les options de gestion de l’énergie et décocher la demande du mot de passe à la sortie du mode veille.
 
-![Pas de mot passe](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/11/lenovo3.png)
+![Pas de mot passe](https://tcrouzet.com/images_tc/2013/11/lenovo3.png)
 
 ### Écran
 
@@ -28,13 +28,13 @@ Je le savais avant d'acheter, l'écran a beaucoup de mal avec les jaunes, même 
 
 Vu la densité de pixel, 275 dpi, il faut tout grossir, le mode 225nbsp;% s’impose pour mes vieux yeux. Certaines applications comme Office ou InDesign en tiennent compte, d’autres pas encore comme Photoshop ou Antidote. Ce qui force parfois à revenir à une résolution plus classique pour un 13,3". J'espère que tout ça évoluera vite côté éditeurs, car cette jonglerie est plutôt désagréable.
 
-![Zoom](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/11/lenovo4.png)
+![Zoom](https://tcrouzet.com/images_tc/2013/11/lenovo4.png)
 
 La luminosité de l’écran répond à celle de l’environnement : problème l’écran influence cet environnement et cherche en permanence à s’ajuster à lui-même, surtout si on passe d’un fond noir à un fond lumineux. C’est pénible. Je ne vous dis pas dans le train.
 
 Pour se tirer d’affaire, il faut ouvrir *Panneau de configuration\\Matériel et audio\\Options d’alimentation\\Modifier les paramètres du mode de gestion de l’alimentation* et désactiver la luminosité adaptative, cela pour tous les modes de gestion utilisés.
 
-![Stabiliser l'affichage](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/11/lenovo1.png)
+![Stabiliser l'affichage](https://tcrouzet.com/images_tc/2013/11/lenovo1.png)
 
 ### Chrome
 
@@ -50,7 +50,7 @@ Le ventilateur a la fâcheuse habitude de se mettre en route à 45° et de faire
 
 ### Tunning
 
-![Intel Extreme Tunning](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/11/lenovo5.png)
+![Intel Extreme Tunning](https://tcrouzet.com/images_tc/2013/11/lenovo5.png)
 
 [Pour augmenter l’autonomie et les performances](http://forum.notebookreview.com/ideapad-essential/735546-undervolting-unleashing-thermal-headroom-yoga-pro-2-a.html), il faut optimiser les réglages du processeur avec [Intel Extreme Tuning Utility](http://www.intel.fr/content/www/fr/fr/motherboards/desktop-motherboards/desktop-boards-software-extreme-tuning-utility.html) (lancer l’installation en mode administrateur). Au préalable, il faut désactiver dans le bios le mode DPTF (Dynamic Platform &amp; Thermal Framework), sinon les réglages sont effacés à chaque boot.
 

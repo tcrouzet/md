@@ -16,7 +16,7 @@ Tout d’abord qui a dit ça. Et même si quelqu’un l’avait dit, ça n’eng
 
 > Grâce à Twitter, on va renverser les dictatures.
 
-[Je me suis déjà expliqué à ce sujet.](http://blog.tcrouzet.com/2010/03/02/internet-imbecile/) Un service centralisé n’est pas un bon outil pour lutter contre un gouvernement centralisé. Il n’y a que des imbéciles pour ne pas voir cette évidence. En revanche, une multitude de forces de décentralisation peuvent déboulonner une dictature, la guérilla généralisée est une alternative au coup d’État.
+[Je me suis déjà expliqué à ce sujet.](/2010/03/02/internet-imbecile/) Un service centralisé n’est pas un bon outil pour lutter contre un gouvernement centralisé. Il n’y a que des imbéciles pour ne pas voir cette évidence. En revanche, une multitude de forces de décentralisation peuvent déboulonner une dictature, la guérilla généralisée est une alternative au coup d’État.
 
 > Google défend la liberté sur Internet.
 
@@ -40,6 +40,6 @@ Pas étonnant que Morozov réclame de grands arbitres. Il aimerait en être un. 
 
 > Internet nous rapproche.
 
-Encore une fois personne n’a osé dire une chose pareille, sinon pour faire vite. « Grâce à Internet, nous pouvons nous rapprocher. Comment faire ? » Quand je dis que [la liberté, c’est le lien](http://blog.tcrouzet.com/2010/05/08/la-liberte-le-lien/), oui, à condition que nous bataillions pour créer des [liens de qualité](http://blog.tcrouzet.com/2010/05/13/qualite-des-liens/). Les liens ne tombent pas du ciel juste parce que nous avons une connexion Internet.
+Encore une fois personne n’a osé dire une chose pareille, sinon pour faire vite. « Grâce à Internet, nous pouvons nous rapprocher. Comment faire ? » Quand je dis que [la liberté, c’est le lien](/2010/05/08/la-liberte-le-lien/), oui, à condition que nous bataillions pour créer des [liens de qualité](/2010/05/13/qualite-des-liens/). Les liens ne tombent pas du ciel juste parce que nous avons une connexion Internet.
 
 Tags: NetCulture

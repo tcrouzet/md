@@ -18,6 +18,6 @@ Nous avons des solutions, ils n’en parlent pas. Ils ont même une armée de sb
 
 Surtout, ne changeons rien. Développons des technologies médicales qui coûteront des millions et que seuls les banksters et leurs ayants droit s’offriront. Inventons une humanité à deux vitesses. « Plaçons nos hommes au pouvoir, se disent les Rothschild &amp; cie. Subvertissons ceux qui y sont arrivés malgré nous. Ne nous cachons plus. Il n’est plus question de tergiverser. C’est la guerre finale contre l’humanisme. »
 
-Je suis sous le choc. Parce qu'il s'est produit la même chose durant l'antiquité, en Alexandrie. C'est le sujet même de mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/), et ça recommence, de la même façon.
+Je suis sous le choc. Parce qu'il s'est produit la même chose durant l'antiquité, en Alexandrie. C'est le sujet même de mon [*Ératosthène*](/eratosthene/), et ça recommence, de la même façon.
 
 Tags: MRDB, Revenu de base, une

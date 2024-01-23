@@ -1,10 +1,10 @@
 # Les risques de la décentralisation
 
-Le 5 septembre dernier, suite à mon [article sur la crise de l’eau](http://blog.tcrouzet.com/2006/08/31/la-crise-de-l%e2%80%99eau/), un lecteur m’a posé quelques questions auxquelles je trouve enfin le temps de répondre (dans le TGV en rentrant de Paris).
+Le 5 septembre dernier, suite à mon [article sur la crise de l’eau](/2006/08/31/la-crise-de-l%e2%80%99eau/), un lecteur m’a posé quelques questions auxquelles je trouve enfin le temps de répondre (dans le TGV en rentrant de Paris).
 
 *— À trop décentraliser, ne risque-t-on pas de faire basculer le pouvoir ailleurs que dans les mains de l’État ?*
 
-\— Nous voyons souvent l’État comme un monstre centralisé. Il est sans doute possible d’imaginer un État décentralisé. Si la plupart des entreprises sont centralisées, certaines ne le sont pas comme [Visa](http://blog.tcrouzet.com/2006/09/08/manager-par-la-connexion/) et [Gore-Tex](http://www.gore-tex.fr). Elles nous démontrent qu’il existe au moins deux modes d’organisation concurrentiels.
+\— Nous voyons souvent l’État comme un monstre centralisé. Il est sans doute possible d’imaginer un État décentralisé. Si la plupart des entreprises sont centralisées, certaines ne le sont pas comme [Visa](/2006/09/08/manager-par-la-connexion/) et [Gore-Tex](http://www.gore-tex.fr). Elles nous démontrent qu’il existe au moins deux modes d’organisation concurrentiels.
 
 La décentralisation distribue le pouvoir, elle le met entre d’autres mains. En évitant la concentration du pouvoir, elle coupe le goulet d’étranglement que constituent les chefs : elle augmente la bande passante, donc la réactivité et l’efficacité. La décentralisation est d’autant plus efficace qu’un chef éclairé, qui pourrait avoir des avis éclairés sur toutes choses, n’existe pas. Il vaut mieux démultiplier l’intelligence en la distribuant (la nature a trouvé ce truc dans notre cerveau).
 
@@ -28,7 +28,7 @@ Sur internet, notamment dans l’infrastructure du réseau, aucun État ne légi
 
 *— Qui fera respecter les droits de l’homme demain s’il n’y a plus d’État ? La décentralisation à outrance renforce l’idée de profits et d’abus en tout genre, car il y aurait moins d’instance de veille ?*
 
-\— [Pierre Rosanvallon](http://blog.tcrouzet.com/2006/10/25/la-contre-democratie) explique que c’est le contraire qui se produit. Les citoyens sont de plus en plus vigilants. Les nouveaux outils technologiques comme les blogs renforcent cette vigilance. La décentralisation n’implique pas la suppression de l’État, elle n’implique pas plus la disparition du judiciaire.
+\— [Pierre Rosanvallon](/2006/10/25/la-contre-democratie) explique que c’est le contraire qui se produit. Les citoyens sont de plus en plus vigilants. Les nouveaux outils technologiques comme les blogs renforcent cette vigilance. La décentralisation n’implique pas la suppression de l’État, elle n’implique pas plus la disparition du judiciaire.
 
 On peut imaginer une police décentralisée. Schématiquement, il y aurait la même différence entre cette police et la police traditionnelle qu’entre Al-Qaïda et l’armée américaine. Les deux modes d’organisation sont très efficaces… et vous devinez peut-être celui qui est le plus puissants dans la durée.
 
@@ -36,7 +36,7 @@ On peut imaginer une police décentralisée. Schématiquement, il y aurait la m�
 
 \— Ces valeurs dont vous parlez sont aujourd’hui inscrites dans les principes d’organisation de nos sociétés. Pourquoi voudriez-vous qu’elles soient effacées ? Restructurer ne veut pas dire détruire l’existant mais construire au-dessus de lui.
 
-Et puis je ne désire pas restructurer par plaisir mais parce que j’estime que [c’est une nécessité vitale pour faire face aux problèmes du monde](http://blog.tcrouzet.com/2006/09/15/mais-pourquoi/). Les structures hiérarchiques ont longtemps été efficaces, elles perdureront dans les situations simples mais pas dans nos sociétés hypercomplexes.
+Et puis je ne désire pas restructurer par plaisir mais parce que j’estime que [c’est une nécessité vitale pour faire face aux problèmes du monde](/2006/09/15/mais-pourquoi/). Les structures hiérarchiques ont longtemps été efficaces, elles perdureront dans les situations simples mais pas dans nos sociétés hypercomplexes.
 
 Nous devons impérativement nous restructurer. Ce travail doit commencer en chacun de nous, en restructurant notre façon de voir le monde. C’est sans doute l’étape la plus difficile.
 

@@ -1,8 +1,8 @@
 # Mini étude sur le marché des ebooks et le partage non-marchand
 
-Un mois après la sortie du [*Geste qui sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/), j’ai récolté quelques chiffres, même si peu significatifs au vu des faibles volumes de diffusion, qui démontrent une grande disparité entre les marchés français et anglo-saxon des ebooks.
+Un mois après la sortie du [*Geste qui sauve*](/le-geste-qui-sauve/), j’ai récolté quelques chiffres, même si peu significatifs au vu des faibles volumes de diffusion, qui démontrent une grande disparité entre les marchés français et anglo-saxon des ebooks.
 
-Pour mémoire, mon livre est en même temps disponible en librairies physiques et numériques, et [aussi en téléchargement gratuit](http://blog.tcrouzet.com/le-geste-qui-sauve/downloads/). Nous avons vendu 26 000 exemplaires avant la sortie, achetés par des sponsors qui les ont depuis distribués lors de congrès médicaux. D’autres commandes arrivent. En librairie, uniquement 500 exemplaires ont été mis en place début mai. Personne ne croyait à la réussite commerciale du livre, surtout pas les commerciaux. Nous avons tout vendu en moins d’un mois. Le réassort doit être en cours.
+Pour mémoire, mon livre est en même temps disponible en librairies physiques et numériques, et [aussi en téléchargement gratuit](/le-geste-qui-sauve/downloads/). Nous avons vendu 26 000 exemplaires avant la sortie, achetés par des sponsors qui les ont depuis distribués lors de congrès médicaux. D’autres commandes arrivent. En librairie, uniquement 500 exemplaires ont été mis en place début mai. Personne ne croyait à la réussite commerciale du livre, surtout pas les commerciaux. Nous avons tout vendu en moins d’un mois. Le réassort doit être en cours.
 
 Comme j’ai diffusé moi-même le texte en numérique, j’ai récolté quelques chiffres. Tout d’abord, ce n’est pas un succès. J’ai comptabilisé un total de 983 téléchargements gratuits entre anglais et français (chiffre sans doute à majorer, car je ne peux comptabiliser les éventuels miroirs), pour un total de 150 ventes, soit un taux de conversion de 15 %, qui me semble plutôt satisfaisant, et prouve que la sphère non-marchande peut cohabiter avec la sphère marchande.
 
@@ -14,7 +14,7 @@ L’exception française peut s’avérer très dangereuse pour les créatifs fr
 
 Autre signal d’alarme, j’ai vendu cinq fois plus d’ebooks en anglais qu’en français, alors que je n’ai effectué aucune promo en anglais, que je suis totalement inconnu en Angleterre et aux US, que personne n’a parlé du livre là-bas. C’est la simple démonstration que le marché français des ebooks n’existe pas, parce que les opérateurs comme Hachette le bloquent pour protéger leur business de distribution physique.
 
-![Répartitions des téléchargements entre les trois formats offerts.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/part.png)
+![Répartitions des téléchargements entre les trois formats offerts.](https://tcrouzet.com/images_tc/2014/06/part.png)
 
 Répartitions des téléchargements entre les trois formats offerts.
 

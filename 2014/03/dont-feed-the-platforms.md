@@ -20,7 +20,7 @@ La plateformisation du Net a signé la fin d’une époque, celle où personne n
 
 Alors Flattr… oui, tant que personne n’en use. Si Flattr commençait à connaître le succès, je m’en déferais, comme je me défais des publicités affichées par les sites, comme je me défais des plateformes autant que je le peux par toute une série d’artifices. Je veux bien payer, mais de la main à la main, en P2P, en établissant un lien fort avec les créateurs, un lien réciproque générateur de liberté et de bonheur. Flattr, c’est de la confiture donnée au cochon.
 
-![Floating Platform par chooyutshing](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/platform-600x400.jpg)
+![Floating Platform par chooyutshing](https://tcrouzet.com/images_tc/2014/03/platform-600x400.jpg)
 
 
 

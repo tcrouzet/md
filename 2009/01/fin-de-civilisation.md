@@ -4,11 +4,11 @@ J’entends souvent dire que nous vivons [la sixième extinction de masse](http:
 
 J’ai alors repensé aux travaux de Lewis Fry Richardson qui en 1950 avait [classé les guerres en fonction de leur mortalité](http://www.hitchins.net/SysScience.html) et obtenu une power law. Cette courbe n’est pas surprenante, elle est une des signatures possibles d’un système auto-organisé autour d’un état critique, ce qu’on suppose le cas pour les sociétés humaines et l’ensemble de la biosphère.
 
-![deathconflict](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/01/deathconflict.gif)
+![deathconflict](https://tcrouzet.com/images_tc/2009/01/deathconflict.gif)
 
-Comme il n’y a pas une limite du nombre maximum de morts dans une guerre, je pense qu’il n’existe pas une durée limite pour une civilisation (tant que l’univers existe). C’est mon intuition. Je me suis amusé à remplir [un tableau avec la durée de vie de quelques civilisations](http://blog.tcrouzet.com/files_tc/civ.xls).
+Comme il n’y a pas une limite du nombre maximum de morts dans une guerre, je pense qu’il n’existe pas une durée limite pour une civilisation (tant que l’univers existe). C’est mon intuition. Je me suis amusé à remplir [un tableau avec la durée de vie de quelques civilisations](/files_tc/civ.xls).
 
-![civlog](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/01/civlog.gif)
+![civlog](https://tcrouzet.com/images_tc/2009/01/civlog.gif)
 
 C’est très approximatif, je n’y ai pas passé des heures. En plus quand commence une civilisation et quand elle se termine n’est jamais facile à définir. Tout juste si on peut parler d’une civilisation quand on l’identifie grâce à son âge d’or. J’ai ensuite tracé un axe avec en ordonnée la durée de vie des civilisations, un autre avec en abscisse les civilisations classées par durée de vie. Si la notre a aujourd’hui 600 ans, elle se trouve au milieu du graphe. Elle a donc du temps devant elle avant d’atteindre une hypothétique limite d’âge.
 

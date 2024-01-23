@@ -28,7 +28,7 @@ Que mon contenu soit repris, sur Facebook, Friendfeed ou ailleurs, ne me gêne p
 
 6. Pour le moment, FriendFeed en France, c’est un peu le café du commerce, ça reste amusant, surtout pour ceux qui n’ont pas de blog. Heureusement, avec les fonctions d’agrégations de FriendFeed, on peut y être sans jamais y aller.
 
-7. À l’occasion je regarderai les plugins de synchronisation avec WordPress. [Pour Twitter, j’ai déjà été obligé de créer le mien.](http://blog.tcrouzet.com/2009/05/22/wp-twiller-perfectionne/) Je ne voulais pas afficher les tweets mais les compiler, les afficher, les stocker ailleurs que chez Twitter.
+7. À l’occasion je regarderai les plugins de synchronisation avec WordPress. [Pour Twitter, j’ai déjà été obligé de créer le mien.](/2009/05/22/wp-twiller-perfectionne/) Je ne voulais pas afficher les tweets mais les compiler, les afficher, les stocker ailleurs que chez Twitter.
 
 8. J’écris ce billet après [l’emballement qu’a connu le FriendFeed francophone ](http://www.authueil.org/?2009/07/23/1397-acceleration-brutale)(j’ai gagné plus de 100 followers rien qu’aujourd’hui mais ça chauffait depuis la disponibilité des nouvelles fonctions d’importation). Ce qui me tue c'est que Scoble fait la promo du truc depuis un ans.
 

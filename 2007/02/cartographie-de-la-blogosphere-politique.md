@@ -1,8 +1,8 @@
 # Cartographie de la blogosphère politique
 
-Suite à mon [article de hier](http://blog.tcrouzet.com/2007/02/12/segolene-l%e2%80%99impossible-synthese/), [à la demande de MSN](http://2007.fr.msn.com/blog/), je poursuis un parcours imposé. Aujourd’hui, je dois répondre à une question à laquelle je réponds souvent : « Des différentes blogosphères quels éléments marquants retenez-vous ? »
+Suite à mon [article de hier](/2007/02/12/segolene-l%e2%80%99impossible-synthese/), [à la demande de MSN](http://2007.fr.msn.com/blog/), je poursuis un parcours imposé. Aujourd’hui, je dois répondre à une question à laquelle je réponds souvent : « Des différentes blogosphères quels éléments marquants retenez-vous ? »
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200702map.gif)
+![](https://tcrouzet.com/images_tc/200702map.gif)
 
 Suffit de regarder cette carte proposée par bonVote.com, pour noter immédiatement que les forces indépendantes sont les plus conséquentes. Par indépendantes, j’entends non alignées. Reste à savoir vers quels candidats elles pencheront.
 

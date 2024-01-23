@@ -1,6 +1,6 @@
 # Indisponibles.fr
 
-Quand j’ai écrit [« Si vous êtes l’auteur d’œuvres indisponibles, publiez-les immédiatement plutôt que de râler contre le SNE, la SGDL, Google… »](http://blog.tcrouzet.com/2012/06/22/les-auteurs-sont-ils-faineants/), les auteurs déjà actifs sur le numérique m’ont approuvé, les autres désapprouvé.
+Quand j’ai écrit [« Si vous êtes l’auteur d’œuvres indisponibles, publiez-les immédiatement plutôt que de râler contre le SNE, la SGDL, Google… »](/2012/06/22/les-auteurs-sont-ils-faineants/), les auteurs déjà actifs sur le numérique m’ont approuvé, les autres désapprouvé.
 
 C’est sans doute un résumé grossier de la situation, qui souffre quelques exceptions, mais je ne crois pas beaucoup me tromper. Il est vrai toutefois que mon billet, même s’il proposait une marche à suivre, n’était pas très constructif.
 

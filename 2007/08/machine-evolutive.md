@@ -1,8 +1,8 @@
 # Machine évolutive
 
-Les vacances sont souvent pour moi propices à des dérives philosophiques. [Après mon papier sur l’évolution](http://blog.tcrouzet.com/2007/08/06/le-retour-des-mythes/), mes idées ont poursuivi leur lancée. J’ai repensé à Popper, à son principe selon lequel une théorie scientifique doit être falsifiable : nous devons être capables d’imaginer une expérience qui la réfuterait.
+Les vacances sont souvent pour moi propices à des dérives philosophiques. [Après mon papier sur l’évolution](/2007/08/06/le-retour-des-mythes/), mes idées ont poursuivi leur lancée. J’ai repensé à Popper, à son principe selon lequel une théorie scientifique doit être falsifiable : nous devons être capables d’imaginer une expérience qui la réfuterait.
 
-![Par Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070816pacco.jpg)
+![Par Pacco](https://tcrouzet.com/images_tc/20070816pacco.jpg)
 
 Mais est-il vraiment impossible de la falsifier ? Personne ne peut remonter dans le temps et reconstituer exactement l’évolution biologique. Comme elle avance pas à pas en marchant sur ses propres traces, elle les efface souvent. Cette absence d’histoire empêchera à jamais d’infirmer ou de confirmer les scénarios que nous imagineront. Ils resteront spéculatifs.
 

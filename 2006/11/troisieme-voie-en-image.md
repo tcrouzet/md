@@ -1,6 +1,6 @@
 # Troisième voie en image
 
-J’ai essayé de cartographier les possibilités politiques qui s’offrent à nous ([voir ma première tentative](http://blog.tcrouzet.com/2006/08/30/des-politiques/)). Sur l'axe horizontal, j’ai placé la gauche et la droite, la gauche privilégiant les solutions qui passent par l’État et la solidarité, la droite privilégiant les solutions qui passent par le privé et la compétitivité.
+J’ai essayé de cartographier les possibilités politiques qui s’offrent à nous ([voir ma première tentative](/2006/08/30/des-politiques/)). Sur l'axe horizontal, j’ai placé la gauche et la droite, la gauche privilégiant les solutions qui passent par l’État et la solidarité, la droite privilégiant les solutions qui passent par le privé et la compétitivité.
 
 ![](http://tcrouzet.comhttps://tcrouzet.com/images_tc/200611politiques.gif) 
 

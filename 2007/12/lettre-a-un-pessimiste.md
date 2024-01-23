@@ -1,6 +1,6 @@
 # Lettre à un pessimiste
 
-J’écris à [Hugues](http://blog.tcrouzet.com/2007/12/18/les-avantages-de-ne-pas-prevoir/#comment-49688), le mystique de service sur ce blog, notre adepte des prophéties et autres « shamaneries » sympathiques. J’adore retrouver des fables oraculaires dans les récits de SF mais, hors de la littérature, elles s’écroulent toujours, systématiquement, répétitivement, dès que nous nous tournons en arrière, que nous regardons les prévisions de jadis et que nous constatons que toujours, oui toujours excepté quelques miraculeux coups de chance engendrés par la théorie des grands nombres, elles sont totalement passées à côté de la vie.
+J’écris à [Hugues](/2007/12/18/les-avantages-de-ne-pas-prevoir/#comment-49688), le mystique de service sur ce blog, notre adepte des prophéties et autres « shamaneries » sympathiques. J’adore retrouver des fables oraculaires dans les récits de SF mais, hors de la littérature, elles s’écroulent toujours, systématiquement, répétitivement, dès que nous nous tournons en arrière, que nous regardons les prévisions de jadis et que nous constatons que toujours, oui toujours excepté quelques miraculeux coups de chance engendrés par la théorie des grands nombres, elles sont totalement passées à côté de la vie.
 
 Pourquoi ? Parce que la vie nous appartient. Que quelqu’un essaie de l’écrire et nous vivrons autrement, rien que pour l’embêter. Alors prévoir l’avenir est certes une manière de façonner l’avenir mais ce n’est jamais l’anticiper… et c’est ce que je reproche à nombres de nos gouvernants.
 
@@ -12,7 +12,7 @@ Quant à ta vision de l'argent et du pouvoir, Hugues, elle n'est pas la mienne. 
 
 Le pouvoir pour un écrivain est d'arriver à tenir des lecteurs, à en avoir plus, à leur transmettre quelques chose... Tu en gagnes de nouveaux, tu en perds des anciens, ce n'est pas grave. Une fois que tu as fait ton travail de passeur, la suite n'a pas d'importance : tu as semé quelques graines. En ce sens, les écrivains diffèrent définitivement des gourous qui cherchent à garder coûte que coûte leurs fidèles.
 
-Je reviendrai samedi encore une fois sur [cette histoire d'imprévisibilité](http://blog.tcrouzet.com/2007/12/18/les-avantages-de-ne-pas-prevoir/) pour justement expliquer pourquoi des affirmations comme tu en professes sont inacceptables.
+Je reviendrai samedi encore une fois sur [cette histoire d'imprévisibilité](/2007/12/18/les-avantages-de-ne-pas-prevoir/) pour justement expliquer pourquoi des affirmations comme tu en professes sont inacceptables.
 
 > Si nous ne changeons pas MAINTENANT nous disparaîtrons par Atomisation ou autres catastrophes HUMAINE ou NATURELLES !!! dis-tu.
 

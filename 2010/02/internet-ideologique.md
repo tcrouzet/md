@@ -12,11 +12,11 @@ Il ne faut pas nous confondre avec les entrepreneurs qui ne pensent qu’à leur
 
 Depuis toujours l’informatique, puis Internet, puis le Web ont été pensés par des idéologues. Turing, Licklider, Stallmann, Berners-Lee… On n’est pas dans une démarche neutre, objective, mais bien dans la construction d’un monde possible en opposition à un monde existant. Il s’agit ni plus ni moins depuis le début d’une immense guerre intellectuelle et technologique, dont je raconte une bataille fictive dans mon [Thriller](http://twiller.tcrouzet.com/).
 
-Quand on analyse un discours au sujet du Net, il faut savoir dans quel camp se situe l’émetteur (et être aussi conscient de sa position en tant qu’analyste). Pour schématiser, d’un côté il y a les [Terrans](http://blog.tcrouzet.com/2006/06/09/cosmists-vs-terrans/). Ils poursuivent la richesse, le pouvoir, la domination des foules… De l’autre côté, il y a les [Hackers](http://blog.tcrouzet.com/tag/wark/), ils s’intéressent à l’aventure de la conscience, de la fraternité, de la culture…
+Quand on analyse un discours au sujet du Net, il faut savoir dans quel camp se situe l’émetteur (et être aussi conscient de sa position en tant qu’analyste). Pour schématiser, d’un côté il y a les [Terrans](/2006/06/09/cosmists-vs-terrans/). Ils poursuivent la richesse, le pouvoir, la domination des foules… De l’autre côté, il y a les [Hackers](/tag/wark/), ils s’intéressent à l’aventure de la conscience, de la fraternité, de la culture…
 
 Bien sûr ces camps se croisent, des gens sautent d'un à l’autre, mais souvent ils ont tendance à défendre un des points de vue avec plus de pugnacité. En vérité, la plupart des gens ignorent ces deux camps et la bataille qu’ils se livrent. Ils sont serfs des Terrans. Leur comportement ne reflète que la volonté des Terrans.
 
-Mais pourquoi cette guerre est-elle critique pour l’avenir de l’humanité ? Parce que la technologie des Terrans, [notamment leur technologie sociale](http://blog.tcrouzet.com/2010/02/03/la-technologie-sociale/), est incapable de gérer la crise de la complexité.
+Mais pourquoi cette guerre est-elle critique pour l’avenir de l’humanité ? Parce que la technologie des Terrans, [notamment leur technologie sociale](/2010/02/03/la-technologie-sociale/), est incapable de gérer la crise de la complexité.
 
 Chez les Terrans, je place Google, Apple, Microsoft, Dailymotion, Sarkozy, Obama… toutes ces entreprises, tous ces hommes, qui raisonnent avec une logique industrielle. Leur seul désir est que leurs produits et leur domination s’étendent au plus grand nombre. Ils défendent une idéologie pour assoir leur suprématie.
 
@@ -28,9 +28,9 @@ Je suis assez malheureux de voir tous ceux qui se disent progressistes plébisci
 
 J’en reviens à [la critique de Narvic](http://novovision.fr/?L-avenir-radieux-de-l-internet-ne). Oui, les Hackers s’emportent souvent, penchent vers l’enthousiasme utopique, mais il ne faut pas oublier que soldats ils mènent une guerre d'indépendance, ils ne sont pas en train de professer une vérité. L’historien pourra décrypter leurs discours, en attendant eux se battent et l’historien devrait choisir son camp, car la guerre est encore loin d’être achevée.
 
-Au fond, dans le Web, il n’y a qu’une chose importante : les liens. Tout le reste n'est que marketing pour nous détourner de cette arme révolutionnaire dont j’ai une nouvelle fois cherché à décrire la puissance dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/). Nous disposons de la puissance de changer le monde, et même les foules apparemment soumises aux Terrans utilisent cette arme, elles créent du réseau.
+Au fond, dans le Web, il n’y a qu’une chose importante : les liens. Tout le reste n'est que marketing pour nous détourner de cette arme révolutionnaire dont j’ai une nouvelle fois cherché à décrire la puissance dans [*L’alternative nomade*](/alternative-nomade/). Nous disposons de la puissance de changer le monde, et même les foules apparemment soumises aux Terrans utilisent cette arme, elles créent du réseau.
 
-Nous sommes effectivement tous créateur, mais pas créateur d’information, d’œuvre d’art, de connaissance, créateur d’une nouvelle infrastructure sociale, cette structure qui permettra peut-être à [l’auto-organisation](http://blog.tcrouzet.com/tag/auto-organisation/) de faire ses preuves là où on ne l’attend pas.
+Nous sommes effectivement tous créateur, mais pas créateur d’information, d’œuvre d’art, de connaissance, créateur d’une nouvelle infrastructure sociale, cette structure qui permettra peut-être à [l’auto-organisation](/tag/auto-organisation/) de faire ses preuves là où on ne l’attend pas.
 
 Il ne s’agit pas de construire un monde mièvrement égalitaire, idéalement démocratique, mais un monde capable de supporter sa propre complexité et de poursuivre l’aventure de la conscience et de la culture. Sans oublier que nous, Hackers, dans ces conditions, entendons mener des vies pleines. Quand nous parlons, c'est de ce que nous faisons, de ce que les autres pourraient faire s'ils voulaient nous rejoindre.
 

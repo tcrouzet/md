@@ -1,8 +1,8 @@
 # Le cinquième pouvoir en image
 
-Après [la publication par L’Express](http://blog.tcrouzet.com/2006/12/09/the-5th-estate/) de la [cartographie des forces politiques en présence sur le web](http://www.observatoire-presidentielle.fr/?pageid=3), je me suis dit une nouvelle fois que quelque chose n’allait pas. Le cinquième pouvoir n’y apparaissait pas, c'était pourtant le sujet de l'article ! J’ai alors réordonnée mes données bonVote pour aboutir à une cartographie qui me paraît plus réaliste.
+Après [la publication par L’Express](/2006/12/09/the-5th-estate/) de la [cartographie des forces politiques en présence sur le web](http://www.observatoire-presidentielle.fr/?pageid=3), je me suis dit une nouvelle fois que quelque chose n’allait pas. Le cinquième pouvoir n’y apparaissait pas, c'était pourtant le sujet de l'article ! J’ai alors réordonnée mes données bonVote pour aboutir à une cartographie qui me paraît plus réaliste.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20061219pie.png)
+![](https://tcrouzet.com/images_tc/20061219pie.png)
 
 Cette carte ne se contente pas de prendre en compte le nombre de sites mais aussi leur influence (nombre de liens qui les interconnectent). J’espère bientôt collaborer avec [rtgi.fr](http://rtgi.fr) pour que nous puissions croiser nos données. Si nous voulons comprendre les bouleversements politiques actuels, nous devons prendre en compte les nouvelles forces et ne pas nous cantonner dans les anciennes bientôt dépassées.
 

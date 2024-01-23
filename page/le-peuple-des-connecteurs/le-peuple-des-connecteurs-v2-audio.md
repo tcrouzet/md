@@ -1,8 +1,8 @@
 # Le peuple des connecteurs V2 audio
 
-À partir du 16 février 2008, je diffuserai gratuitement la version audio de la seconde édition du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) pour la second anniversaire de sa publication. [Comme me l’avais suggéré Alban Martin](http://blog.tcrouzet.com/2007/03/11/cherche-voix/), je propose que mes lecteurs eux-mêmes lisent des parties du texte.
+À partir du 16 février 2008, je diffuserai gratuitement la version audio de la seconde édition du [*Peuple des connecteurs*](/le-peuple-des-connecteurs/) pour la second anniversaire de sa publication. [Comme me l’avais suggéré Alban Martin](/2007/03/11/cherche-voix/), je propose que mes lecteurs eux-mêmes lisent des parties du texte.
 
-Je vais contacter tous ceux qui se sont déjà portés volontaires, chacun pourra faire un essai avec le [début du chapitre 1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/NePasVoterV2Start.pdf) par exemple, puis nous choisirons collégialement les voix qui portent le mieux le sujet.
+Je vais contacter tous ceux qui se sont déjà portés volontaires, chacun pourra faire un essai avec le [début du chapitre 1](https://tcrouzet.com/images_tc/NePasVoterV2Start.pdf) par exemple, puis nous choisirons collégialement les voix qui portent le mieux le sujet.
 
 Laurent Bohu \
 

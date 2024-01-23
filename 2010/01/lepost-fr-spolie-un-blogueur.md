@@ -1,6 +1,6 @@
 # Lepost.fr spolie un blogueur
 
-Bien voilà ! Je comprends mieux pourquoi la direction du *Monde* trouve normal les subventions à la presse en ligne qui [spolient les blogueurs](http://blog.tcrouzet.com/2009/12/30/l%E2%80%99etat-spolie-les-blogueurs/). Lepost lui-même n’hésite pas à piquer les bonnes idées chez les blogueurs, en l’occurrence un blogueur de Montpellier, [Jacques-Olivier Teyssier](http://www.montpellier-journal.fr). Comparez les deux articles. Chez [Olivier](http://www.montpellier-journal.fr/2010/01/freche-fabius-lenregistrement.html), sur [Lepost](http://www.lepost.fr/article/2010/01/28/1911263_fabius-pas-catholique-ecoutez-ce-que-georges-freche-a-dit.html). Vous parlez d’une déontologie.
+Bien voilà ! Je comprends mieux pourquoi la direction du *Monde* trouve normal les subventions à la presse en ligne qui [spolient les blogueurs](/2009/12/30/l%E2%80%99etat-spolie-les-blogueurs/). Lepost lui-même n’hésite pas à piquer les bonnes idées chez les blogueurs, en l’occurrence un blogueur de Montpellier, [Jacques-Olivier Teyssier](http://www.montpellier-journal.fr). Comparez les deux articles. Chez [Olivier](http://www.montpellier-journal.fr/2010/01/freche-fabius-lenregistrement.html), sur [Lepost](http://www.lepost.fr/article/2010/01/28/1911263_fabius-pas-catholique-ecoutez-ce-que-georges-freche-a-dit.html). Vous parlez d’une déontologie.
 
 Il y a trois types de blogueurs au post.
 

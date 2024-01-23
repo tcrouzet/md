@@ -14,15 +14,15 @@ Au fait, il est temps d'essayer d'écrire de premier billet depuis mon iPad.
 
 Depuis quelque temps, je cours au lieu de faire VTT. Maintenant que je tiens les 10 km/h, me faut augmenter la distance. La boucle autour de chez moi, presque toujours au bord de l'eau, a beau être agréable, je commençais à m'ennuyer quand j'ai pensé à courir avec un casque audio. Et plutôt que de la musique, je me suis dit autant prendre un livre audio. Et c'est parti avec [l'histoire de la littérature de Michel Butor](http://www.carnetsnord.fr/titre/petite-histoire-de-la-litterature-francaise). J'ai eu l'impression de courir avec un ami. Sauf que les oreillettes Apple ne tiennent pas durant la couse. Alors j'ai commandé [des oreillettes pour le footing](http://www.sennheiser.fr/tous-les-casques-sennheiser-adidas/casques-adidas-sport/details/1015/274/casques-pour-le-sport-avec-micro/pmx-685i---nouveau).
 
-![20130605-135206.jpg](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/06/20130605-135206.jpg)
+![20130605-135206.jpg](https://tcrouzet.com/images_tc/2013/06/20130605-135206.jpg)
 
 Quel pied, j'ai attendu d'avoir presque 50 ans pour découvrir ce plaisir tout simple. En plus, de temps en temps, MapMyRun m'indique ma vitesse et la distance parcourue.
 
-![20130605-140213.jpg](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/06/20130605-140213.jpg)
+![20130605-140213.jpg](https://tcrouzet.com/images_tc/2013/06/20130605-140213.jpg)
 
 ### Écriture partagée
 
-Je vous ai parlé de [*L'homme qui lave les mains*](http://blog.tcrouzet.com/tag/lhomme-qui-lave-les-mains/). J'aurais pu en faire un projet d'écriture Web. Mais ça ne marche pas. Cette écriture Web nous engage dans une forme de manière irréversible, alors qu'écrire exige aussi un travail architectural. J'ai terminé le second chapitre pour me rendre compte qu'il faut que j'aborde cette affaire d'une toute autre manière. Pourquoi devrais-je vous imposer ces aléas ? Déjà bien assez de vous demander de lire le texte finalisé. Le partage au jour le jour n'est bon que pour les textes classiques, dont la forme est déjà canonisée. Il n'autorise pas l'expérimentation formelle à l'échelle globale de la structure narrative.
+Je vous ai parlé de [*L'homme qui lave les mains*](/tag/lhomme-qui-lave-les-mains/). J'aurais pu en faire un projet d'écriture Web. Mais ça ne marche pas. Cette écriture Web nous engage dans une forme de manière irréversible, alors qu'écrire exige aussi un travail architectural. J'ai terminé le second chapitre pour me rendre compte qu'il faut que j'aborde cette affaire d'une toute autre manière. Pourquoi devrais-je vous imposer ces aléas ? Déjà bien assez de vous demander de lire le texte finalisé. Le partage au jour le jour n'est bon que pour les textes classiques, dont la forme est déjà canonisée. Il n'autorise pas l'expérimentation formelle à l'échelle globale de la structure narrative.
 
 ### Bilan
 

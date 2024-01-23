@@ -54,9 +54,9 @@
 
 5. 11/5/2014, *Le Matin Dimanche*, [La méthode d’un Genevois a sauvé beaucoup de vies](http://www.lematin.ch/sante-environnement/sante/methode-genevois-sauve-vies/story/18643129), Stéphanie Gardier
 
-6. 10/5/2014, *24 Minutes*, L'agent et la gloire, Didier Pittet s'en lave les mains ([PDF](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/24h.pdf)), Thérèse Courvoisier
+6. 10/5/2014, *24 Minutes*, L'agent et la gloire, Didier Pittet s'en lave les mains ([PDF](https://tcrouzet.com/images_tc/2014/04/24h.pdf)), Thérèse Courvoisier
 
-7. 6/5/2014, *Le Figaro*, L’incroyable aventure des flacons de solution hydroalcoolique ([PNG](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/figaro2014.png)), Stéphanie Gardier
+7. 6/5/2014, *Le Figaro*, L’incroyable aventure des flacons de solution hydroalcoolique ([PNG](https://tcrouzet.com/images_tc/2014/04/figaro2014.png)), Stéphanie Gardier
 
 8. 5/5/2014, aricjournal.com, [Review of ‘Clean Hands Save Lives’, written by Thierry Crouzet](http://www.aricjournal.com/content/3/1/13), Helene Larson
 
@@ -70,12 +70,12 @@
 
 13. 30/4/2014, Conférence au [Club suisse de la presse](http://2013.pressclub.ch/fr/conference/le-geste-qui-sauve#video_livestream)
 
-14. 30/4/2014, *Le Temps*, [Ce médecin genevois qui a sauvé des milliers de vie](http://www.letemps.ch/Page/Uuid/ac8f5284-cfb0-11e3-9232-9ff6878c4797/Ce_m%C3%A9decin_genevois_qui_a_sauv%C3%A9_des_milliers_de_vie) ([PDF](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/letemps.pdf)), Dejan Nikolic
+14. 30/4/2014, *Le Temps*, [Ce médecin genevois qui a sauvé des milliers de vie](http://www.letemps.ch/Page/Uuid/ac8f5284-cfb0-11e3-9232-9ff6878c4797/Ce_m%C3%A9decin_genevois_qui_a_sauv%C3%A9_des_milliers_de_vie) ([PDF](https://tcrouzet.com/images_tc/2014/04/letemps.pdf)), Dejan Nikolic
 
 15. 29/4/2014, *Midi Libre*, [Un Sétois écrit la belle histoire du gel miracle qui sauve des vies](http://www.midilibre.fr/2014/04/28/l-incroyable-histoire-du-gel-miracle-qui-sauve-des-vies,854524.php), Olivier Schlama
 
 16. 29/4/2014, Blog, [New Book, Clean Hands Save Lives, Details the Life-Saving Potential of Alcohol-Based Handrubs](http://www.gojo.com/united-states/blog/2014/april/clean%20hands%20save%20lives%20book.aspx), Jim Arbogast
 
-17. 28/4/2014, *La Tribune de Genève*, L'apôtre de la propreté est Genevois, Sophie Davaris ([PDF](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/tribunegeneve-didier.pdf))
+17. 28/4/2014, *La Tribune de Genève*, L'apôtre de la propreté est Genevois, Sophie Davaris ([PDF](https://tcrouzet.com/images_tc/2014/04/tribunegeneve-didier.pdf))
 
 18. 9/4/2014, *ActuaLitté*, [Le geste qui sauve : récit de la démocratisation du gel hydro-alcoolique](http://www.actualitte.com/librairies/le-geste-qui-sauve-recit-de-la-democratisation-du-gel-hydro-alcoolique-49397.htm), Victor De Sepausy

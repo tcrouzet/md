@@ -18,13 +18,13 @@ Tout cela devient possible avec le jeu de rôle. Le créateur n'abandonne plus s
 
 L'émotion fugitive de certains instants jeu de rôle est en elle-même modernité. On peut la mettre en regard des happenings et performances. L'art ne poursuit plus l'éternité, il se vit, disparaît. On aurait pu croire que tel était le destin des œuvres ouvertes jusqu'à l'avènement des blogs. Désormais ce qui partait en fumée au cours des parties-perfomances fait trace, reste. Le blogueur écrit un billet derrière lesquels s'enchaînent les commentaires, et les trackbacks des autres blogueurs à travers la blogosphère. Alors il écrit un autre billet. L'œuvre se construit peu à peu dans un dialogue permanent.
 
-Et si je blogue moins, c'est parce que chez moi ce dialogue n'est plus aujourd'hui qu'un maigre ruisseau. Par ma faute, parce que je ne suis pas aimable et ce n'est pas le but, mais surtout parce que cette ouverture extrême pompe une énergie faramineuse, tant chez l'auteur que ses stimulateurs comme je les ai appelés dans [*La stratégie du Cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/).
+Et si je blogue moins, c'est parce que chez moi ce dialogue n'est plus aujourd'hui qu'un maigre ruisseau. Par ma faute, parce que je ne suis pas aimable et ce n'est pas le but, mais surtout parce que cette ouverture extrême pompe une énergie faramineuse, tant chez l'auteur que ses stimulateurs comme je les ai appelés dans [*La stratégie du Cyborg*](/la-strategie-du-cyborg/).
 
 Deux schémas pour résumer…
 
 ### Édition traditionnelle
 
-![édition classique](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/01/inter1.jpg)
+![édition classique](https://tcrouzet.com/images_tc/2013/01/inter1.jpg)
 
 ### Édition contemporaine
 
@@ -32,7 +32,7 @@ Pour passer à ce que nous connaissons sur les blogs, remplacer sur le schéma l
 
 Toute personne extérieure au cercle qui commence à critiquer s'y trouve ainsi intégrée, tant que le processus créatif est en cours. Ce n'est qu'après son terme qu'on retrouve éventuellement une œuvre à l'ancienne. Œuvre qui conserve toute sa légitimité puisqu'elle témoigne d'un moment créateur.
 
-![édition interactive](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/01/inter2.jpg)
+![édition interactive](https://tcrouzet.com/images_tc/2013/01/inter2.jpg)
 
 ### Notes
 
@@ -42,7 +42,7 @@ Toute personne extérieure au cercle qui commence à critiquer s'y trouve ainsi 
 
 3. Inutile de critiquer les auteurs traditionnels, ceux encore englués dans le seul papier, si on se contente de faire comme eux sur un autre support.
 
-4. Bien-sûr le support influence ce qui peut être diffusé, donc écrit. Changer de support, c'est changer d'écriture. User d'un support neuf, c'est presque nécessairement produire du neuf. Mais entrer radicalement dans notre modernité implique de se saisir à bras le corps de l'interaction. L'objet diffusé sous forme de livre, comme le sera [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/), est un témoignage, non pas l'œuvre elle-même (comme une vidéo peut témoigner d'une performance).
+4. Bien-sûr le support influence ce qui peut être diffusé, donc écrit. Changer de support, c'est changer d'écriture. User d'un support neuf, c'est presque nécessairement produire du neuf. Mais entrer radicalement dans notre modernité implique de se saisir à bras le corps de l'interaction. L'objet diffusé sous forme de livre, comme le sera [*La quatrième théorie*](/la-quatrieme-theorie/), est un témoignage, non pas l'œuvre elle-même (comme une vidéo peut témoigner d'une performance).
 
 5. La mode des ateliers d'écriture naît d'un désir d'interaction, d'un désir de jeu de rôle. Je me demande pourquoi je m'en tiens à l'écart. Peut-être parce que je n'ai pas envie de faire écrire d'autres personnes, mais d'écrire avec elles, de faire équipe. Rien ne l'empêche, je repousse sans cesse. [Juliette Mézenc](http://motmaquis.net/) est pourtant ma voisine, on pourrait initier quelque chose, je résiste, je sais pas pourquoi (perche tendue).
 

@@ -12,6 +12,6 @@ Dans un [podcast avec Doc Gyneco](http://johnpaullepers.blogs.com/john_paul_lepe
 
 Tout est dit.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/09drug.gif)
+![](https://tcrouzet.com/images_tc/09drug.gif)
 
 Chaque fois que des gens expriment de telles idées, encore plus s'ils sont engagés en politique, il faudrait leur mettre sous les yeux les statistiques qui mesure la [dangerosité des drogues](http://www.newscientist.com/article/mg19125633.100-drugdanger-league-table-revealed.html). L’alcool est une drogue plus nocive que le cannabis, plus nocive que le LSD ou l’ecstasy ! Si nous encourageons la consommation d’alcool, même modérément, nous devons aussi autoriser la consommation des drogues moins nocives.

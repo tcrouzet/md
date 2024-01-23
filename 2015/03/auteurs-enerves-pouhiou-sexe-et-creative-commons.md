@@ -1,6 +1,6 @@
 # Auteurs énervés : Pouhiou sexe et Creative Commons
 
-Après une [première radio](http://blog.tcrouzet.com/2015/02/27/deux-auteurs-enerves-a-la-radio/), [Neil Jomunsi](http://page42.org/) et moi nous lançons pour un live improvisé avec [Pouhiou](http://pouhiou.com/) : Youtuber incontournable, défenseur du libre et auteur, bien sûr.
+Après une [première radio](/2015/02/27/deux-auteurs-enerves-a-la-radio/), [Neil Jomunsi](http://page42.org/) et moi nous lançons pour un live improvisé avec [Pouhiou](http://pouhiou.com/) : Youtuber incontournable, défenseur du libre et auteur, bien sûr.
 
 \
 

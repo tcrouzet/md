@@ -1,6 +1,6 @@
 # Référendum en question
 
-En écrivant pour mon [prochain livre](http://blog.tcrouzet.com/2006/07/20/blogs-et-politique/) l’histoire du référendum pour la constitution européenne, j’ai fait une découverte assez déplaisante, déplaisante pour moi car je suppose que tous ceux qui s’occupent de la chose politique en sont conscients. Je suis très naïf je sais.
+En écrivant pour mon [prochain livre](/2006/07/20/blogs-et-politique/) l’histoire du référendum pour la constitution européenne, j’ai fait une découverte assez déplaisante, déplaisante pour moi car je suppose que tous ceux qui s’occupent de la chose politique en sont conscients. Je suis très naïf je sais.
 
 > Un référendum ne peut jamais être démocratique !
 

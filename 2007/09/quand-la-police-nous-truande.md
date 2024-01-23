@@ -12,7 +12,7 @@ Un de mes vieux amis, Jean-Hugues Matelly, en collaboration avec Christian Mouha
 
 \— Il n’est évidemment pas possible de résoudre plus d’affaires qu’il n’en existe et, en plus, de renouveler chaque année cet exploit. Mais il faut savoir que les gendarmes et les policiers de terrain officient dans un système hiérarchique qui leur demande des résultats quantifiés suivant des règles définies depuis Paris et sans rapport avec les situations locales. Ils fournissent les chiffres que toute la chaîne hiérarchique attend. Pour eux, produire de « bons chiffres » est un réflexe de défense de leur autonomie. De cette façon, ils libèrent du temps pour le « vrai travail policier », la résolution des affaires complexes.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/pacco.jpg)*— Comment avez-vous faits pour recouper les chiffres ? En plus, ils sont publics d’après ce que j’ai compris.*
+![](https://tcrouzet.com/images_tc/2007/10/pacco.jpg)*— Comment avez-vous faits pour recouper les chiffres ? En plus, ils sont publics d’après ce que j’ai compris.*
 
 \— Les chiffres sont publiés en détail de manière peu visible et peu explicite, tandis que la communication officielle à destination du grand public ne les présente que dans leur globalité ou, comme l’Observatoire National de la Délinquance, suivant de grands agrégats ne faisant pas apparaître les erreurs évidentes, noyées dans la masse. Bien sûr nous avons travaillé sur la totalité des données chiffrées, même les moins « visibles ». Mais, pour découvrir toute la gamme des astuces utilisées pour fausser les données, nous avons privilégié des entretiens et des observations in situ.
 

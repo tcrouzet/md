@@ -2,9 +2,9 @@
 
 
 
-![Le monde selon Sarkozy](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/hadopi2.jpg)
+![Le monde selon Sarkozy](https://tcrouzet.com/images_tc/2009/09/hadopi2.jpg)
 
-Il existe au moins deux types de lois, certaines répressives, d’autres incitatives. [Hadopi](http://blog.tcrouzet.com) se classe dans la première catégorie alors qu’elle aurait pu se placer dans la seconde et ouvrir de nouvelles possibilités économiques.
+Il existe au moins deux types de lois, certaines répressives, d’autres incitatives. [Hadopi]() se classe dans la première catégorie alors qu’elle aurait pu se placer dans la seconde et ouvrir de nouvelles possibilités économiques.
 
 ### Interdiction policière
 
@@ -24,7 +24,7 @@ Dans les lieux publics, les gares par exemple, l’interdiction bien que plus an
 
 Quand l’interdiction peut s’auto-entretenir, c’est une arme efficace aux mains des structures pyramidales. Un ordre est donné mais la pyramide elle-même ne le met pas vraiment en œuvre, donc elle ne grossit pas. D’autres interdictions posent plus de problèmes. On en revient aux limitations de vitesse. Si je vois quelqu’un qui va trop vite, je ne peux pas lui dire de ralentir. Je ne vais pas me mettre en travers de sa route pour le freiner. J’ai peu de moyens de faire la police à la place de la police.
 
-Est-ce une fatalité ? Je n’en suis pas sûr. Il existe sans doute un moyen de transformer la plupart des interdictions fortes en interdictions auto-entretenues. Pour la circulation routière, la solution est connue mais elle est si contre-intuitive que les gouvernements rechignent à l’envisager. Elle revient à créer du lien entre les usagers de la route pour qu’ils puissent justement s’auto-policer, façon de provoquer la coopération dans un espace jusqu’alors dominé par l’égoïsme ([je vais pas rouvrir le débat, ce n’est pas le sujet](http://blog.tcrouzet.com/2008/06/22/rever-de-routes-plus-securisees/)).
+Est-ce une fatalité ? Je n’en suis pas sûr. Il existe sans doute un moyen de transformer la plupart des interdictions fortes en interdictions auto-entretenues. Pour la circulation routière, la solution est connue mais elle est si contre-intuitive que les gouvernements rechignent à l’envisager. Elle revient à créer du lien entre les usagers de la route pour qu’ils puissent justement s’auto-policer, façon de provoquer la coopération dans un espace jusqu’alors dominé par l’égoïsme ([je vais pas rouvrir le débat, ce n’est pas le sujet](/2008/06/22/rever-de-routes-plus-securisees/)).
 
 Concernant la sécurité routière, un gouvernement peut donc légiférer de deux manières. À la mode dure, il limite les vitesses. À la mode incitative, il réduit par exemple les signalisations pour pousser les gens à interagir. Les deux approches ont un coût. La première exige le maintien d’une pyramide policière. La seconde passe par des travaux public effectués une fois pour toutes. Dans le premier cas, on a un coût infini puisqu’il faut le maintenir éternellement, dans l’autre un coût fini.
 

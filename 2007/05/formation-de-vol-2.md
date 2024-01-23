@@ -2,7 +2,7 @@
 
 Je viens de trouver un petit film qui, prenant un exemple magnifique, aligne, sous forme de leçons, les idées reçues.
 
-Les oies n’ont pas besoin de posséder une conscience du groupe pour [voler en flotte](http://blog.tcrouzet.com/2007/05/10/formation-de-vol/), encore moins d’accorder la moindre confiance à leurs congénères.
+Les oies n’ont pas besoin de posséder une conscience du groupe pour [voler en flotte](/2007/05/10/formation-de-vol/), encore moins d’accorder la moindre confiance à leurs congénères.
 
 Beaucoup de gens pensent ainsi que, pour coopérer, il faut en avoir l’intension au préalable. Je leur conseille de lire le [The evolution of cooperation](http://www.amazon.fr/Evolution-Cooperation-Robert-Axelrod/dp/0465005640) de Robert Axelrod.
 
@@ -10,7 +10,7 @@ Je suis plongé dans ce livre magnifique, publié en 1984, qui montre comment la
 
 Lorsqu’une oie se retrouve hors de la formation en V, elle se presse d’y retourner, car ainsi elle se fatigue moins. De même quand une oie se trouve à la pointe du V, elle s’en écarte vite car c’est inconfortable. Pas besoin d’invoquer le don de soi ou le sens du sacrifice, ou une ribambelle de concepts très judéo-chrétiens, pour expliquer ces comportements.
 
-Les individus n’ont même pas besoin de communiquer entre eux : en fait, ils communiquent par leurs comportements (voir la notion *stigmergie* présentée dans [Le peuple des connecteurs](http://blog.tcrouzet.com/le-peuple-des-connecteurs/)). Quand une oie change de direction, elle influence les oies qui la suivent (pas besoin de longs discours).
+Les individus n’ont même pas besoin de communiquer entre eux : en fait, ils communiquent par leurs comportements (voir la notion *stigmergie* présentée dans [Le peuple des connecteurs](/le-peuple-des-connecteurs/)). Quand une oie change de direction, elle influence les oies qui la suivent (pas besoin de longs discours).
 
 Axelrod montre que la coopération est un phénomène émergeant qui n’a besoin d’aucune autorité centrale. C’est en poursuivant leur intérêt personnel que les individus favorisent le groupe (la coopération est en quelque sorte un épiphénomène – elle émerge sans être au préalable poursuivie).
 

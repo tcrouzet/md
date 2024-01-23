@@ -1,6 +1,6 @@
 # La twittérature n’est pas un nihilisme
 
-En écrivant [ma lettre à un jeune twittérateur imaginaire](http://blog.tcrouzet.com/2012/11/09/lettre-a-un-jeune-twitterateur/), je suis tombé sur [un billet d’une non moins jeune littéraire](http://www.lamainenchantee.com/la-twitterature-ou-laffirmation-dune-ecriture-nihiliste/) qui traite la twittérature, qu’elle n’a jamais lue je suppose, de nouveau nihilisme.
+En écrivant [ma lettre à un jeune twittérateur imaginaire](/2012/11/09/lettre-a-un-jeune-twitterateur/), je suis tombé sur [un billet d’une non moins jeune littéraire](http://www.lamainenchantee.com/la-twitterature-ou-laffirmation-dune-ecriture-nihiliste/) qui traite la twittérature, qu’elle n’a jamais lue je suppose, de nouveau nihilisme.
 
 J’ai senti son dégoût du Nouveau Roman, son goût pour les valeurs affirmées, quasi idéales et immortelles qu’enfermerait la littérature, goût qui découle d’une vieille tradition essentialiste qu'affectionne les professeurs (car elle les justifie dans leur position). Et j’ai éprouvé le besoin de répondre.
 

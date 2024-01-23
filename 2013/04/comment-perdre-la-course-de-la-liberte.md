@@ -2,7 +2,7 @@
 
 Plus le monde est complexe, plus il est difficile à contrôler, moins les managers, les gouvernements, les dictateurs ont de pouvoir sur nous, donc nos libertés augmentent.
 
-J'ai discuté ce théorème dans [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), sans m'arrêter sur un détail crucial. Pour accroître la complexité, nous avons besoin de technologies : transport, énergie, communication… Alors libre à nous de les employer pour complexifier. Mais nous pouvons aussi bien ne rien faire, victimes de l'apathie ambiante.
+J'ai discuté ce théorème dans [*L'alternative nomade*](/alternative-nomade/), sans m'arrêter sur un détail crucial. Pour accroître la complexité, nous avons besoin de technologies : transport, énergie, communication… Alors libre à nous de les employer pour complexifier. Mais nous pouvons aussi bien ne rien faire, victimes de l'apathie ambiante.
 
 Par exemple, ce n'est pas parce que nous pouvons nous déplacer librement que nous nous déplaçons. Par manque de courage ou de moyens, nous pouvons rester chez nous, et ne pas planter notre graine où on ne l'attend pas. De même avec les technologies de communication. Nous pouvons devenir un média, mais nous pouvons aussi nous contenter de nous informer à une source unique, ne lire que les auteurs officiels, célébrés par la critique officielle.
 
@@ -34,6 +34,6 @@ Pendant que les technologies de contrôle se perfectionnent, les bénéficiaires
 
 Certes nous ne sommes pas franchement malheureux, puisque pour la plupart nous mangeons à notre faim, avons un toit, accédons à un système de santé correct, mais nous ne sommes pas non plus heureux. Nous vivons une époque morose. On peut la fuir comme je le fais souvent, mais pas éternellement. Dès qu'on sort de sa retraite, on la reprend dans la figure. Qu'est-ce que nous attendons pour mettre le feu ?
 
-![Chomsky](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/04/noam.jpg)
+![Chomsky](https://tcrouzet.com/images_tc/2013/04/noam.jpg)
 
 Tags: Alternative nomade, Liberté, Politique, une

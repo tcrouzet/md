@@ -15,7 +15,7 @@ La blogosphère n’existe plus, des cliques lui ont succédées. Résultat : p
 
 La blogosphère est exsangue. Il n’existe plus que des blogueurs vaguement connectés par affinité, certains encore assez populaires. Ils ressemblent désormais aux auteurs, à ces hommes et ces femmes qui écrivent des livres. Nous avons pensé changer le monde, nous nous sommes au contraire coulés dans ses replis les plus anciens.
 
-*PS1 : [Ce billet continue...](http://blog.tcrouzet.com/2013/03/02/les-blogueurs-ne-sont-plus-que-des-auteurs/)*
+*PS1 : [Ce billet continue...](/2013/03/02/les-blogueurs-ne-sont-plus-que-des-auteurs/)*
 
 *PS2 : Ce billet n’est qu’un commentaire à [un article d’Olivier Zilbertin](http://www.lemonde.fr/vous/article/2013/03/01/qui-blogua-ne-bloguera-plus_1841443_3238.html).*
 

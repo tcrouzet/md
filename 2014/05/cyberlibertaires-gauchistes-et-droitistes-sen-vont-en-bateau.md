@@ -4,7 +4,7 @@ En lisant [Le problème de la gauche avec internet](http://internetactu.blog.lem
 
 Même invoquer l’origine des termes droite et gauche, le cercle de l’assemblée où siègent les élus, ne suffit pas à nettoyer les notions sous-jacentes de leur senteur platonicienne. Imaginez un monde complexe, foisonnant, interconnecté, vous ni trouverez ni droite ni gauche, pas plus de haut ni de bas. Classer les idées politiques sur un cercle ou une droite revient à catégoriser le monde comme un bon vieil idéaliste, ce que sont souvent nos politiciens, incapables de s’arracher à cette caricature. Alors qu’ils soient de gauche ou de droite, ils pensent peu ou prou de la même manière (me voilà à mon tour en train de classifier).
 
-Les cyberlibertaires ne font pas preuve de plus d’originalité. Ils postulent la liberté, comme si elle existait en elle-même, quelque part au-dessus de nos têtes, et comme si nous en étions également pourvus. [Ce n’est bien évidemment pas le cas.](http://blog.tcrouzet.com/2013/10/18/quest-ce-que-la-liberte/) Question d’éducation, de chance, de revenu, d’opportunités…
+Les cyberlibertaires ne font pas preuve de plus d’originalité. Ils postulent la liberté, comme si elle existait en elle-même, quelque part au-dessus de nos têtes, et comme si nous en étions également pourvus. [Ce n’est bien évidemment pas le cas.](/2013/10/18/quest-ce-que-la-liberte/) Question d’éducation, de chance, de revenu, d’opportunités…
 
 Ainsi l’information ne peut nous libérer parce qu’elle n’est pas libre étant produite par des hommes et des femmes enchaînés par une multitude de contraintes, et le Net n’y a rien changé, peut-être a-t-il tout au plus cassé quelques chaînes, mais pour en créer de nouvelles, celle de la profusion par exemple.
 
@@ -26,7 +26,7 @@ Reste la question de la technologie. L’humanité est technologique, depuis les
 
 S’en détourner, c’est encore une fois invoquer un archétype, celui de la technologie, tout aussi puissant que celui de la liberté, et tout aussi caricatural, qu’on l’aime ou qu’on l’abhorre.
 
-![Saint Julian Assange](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/assange-600x399.jpg)
+![Saint Julian Assange](https://tcrouzet.com/images_tc/2014/05/assange-600x399.jpg)
 
 
 

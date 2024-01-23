@@ -1,12 +1,12 @@
 # Sans liens de qualité, pas de liberté
 
-Pierre Fraser a publié un billet intitulé [Esclavage moderne : enchaînés aux milliers de fils invisibles de la communication](http://dindification.com/2010/05/11/enchaines-aux-milliers-de-fils-invisibles-de-la-communication/) qui a laissé croire qu’il contredisait mon théorème : [la liberté, c’est le lien](http://blog.tcrouzet.com/2010/05/08/la-liberte-le-lien/).
+Pierre Fraser a publié un billet intitulé [Esclavage moderne : enchaînés aux milliers de fils invisibles de la communication](http://dindification.com/2010/05/11/enchaines-aux-milliers-de-fils-invisibles-de-la-communication/) qui a laissé croire qu’il contredisait mon théorème : [la liberté, c’est le lien](/2010/05/08/la-liberte-le-lien/).
 
 Pierre parle en fait des liens imbéciles, de ces liens maître-esclaves, liens de dépendance, qui nous attachent plus qu’ils nous libèrent. Je parle des liens qui véhiculent les interactions du flux, qui en sont la colonne vertébrale, des liens réciproques et vivants.
 
 Par exemple, mon lien avec Pierre, qui ne se résume pas à des hyperliens entre nos blogs, mais aussi à des conversations, des lectures croisées. Je pense aux liens avec mes amis, avec ceux avec qui j’interagis, aussi bien en ligne qu’in real life. C’est pour cette raison que chaque fois que je vais à Paris j’essaie de rencontrer des gens que je ne connais pas et que j’en fais l’annonce publique (même si parfois les contraintes de temps ne me laissent pas nouer autant de liens que j’aimerais).
 
-Je connais beaucoup d’[infovores](http://blog.tcrouzet.com/2006/07/28/infovore/), liés aux médias dont ils absorbent continuellement les inepties. Ce lien bien évidemment ne les libère pas, pas plus que le lien avec la coke ne libère le cocaïnomane.
+Je connais beaucoup d’[infovores](/2006/07/28/infovore/), liés aux médias dont ils absorbent continuellement les inepties. Ce lien bien évidemment ne les libère pas, pas plus que le lien avec la coke ne libère le cocaïnomane.
 
 Le lien ne devient réciproque que si le récepteur d’une information peut réagir avec son émetteur dans une boucle constructive, qui se traduira peut-être par de nouveaux articles et de longues conversations en terrasse de café. C’est sur ce mode que j’ai toujours conçu le blog, un exercice de communication bidirectionnelle. Et je déteste la presse parce qu’elle ne me fait pas entrer dans cette dimension, me laissant dans le fauteuil du consommateur passif qui ne peut que s’énerver dans son coin (ou poster des commentaires sans conséquence sur des sites sans conséquence).
 

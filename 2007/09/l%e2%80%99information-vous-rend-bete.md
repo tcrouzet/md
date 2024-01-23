@@ -1,3 +1,3 @@
 # L’information vous rend bête
 
-Plus je lis [*The Black Swan*](http://www.amazon.fr/Black-Swan-Impact-Highly-Improbable/dp/1400063515/ref=pd_bbs_sr_1), plus je me dis que je pourrais écrire un pamphlet qui explique [pourquoi consommer des news ne nous aide pas](http://blog.tcrouzet.com/2007/08/31/information-egale-desinformation/). Pas facile de vendre un tel livre car les journalistes en parleraient avec difficulté. C’est le paradoxe. Nous avons besoin d’eux pour dénoncer leur inutilité !
+Plus je lis [*The Black Swan*](http://www.amazon.fr/Black-Swan-Impact-Highly-Improbable/dp/1400063515/ref=pd_bbs_sr_1), plus je me dis que je pourrais écrire un pamphlet qui explique [pourquoi consommer des news ne nous aide pas](/2007/08/31/information-egale-desinformation/). Pas facile de vendre un tel livre car les journalistes en parleraient avec difficulté. C’est le paradoxe. Nous avons besoin d’eux pour dénoncer leur inutilité !

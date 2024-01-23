@@ -54,13 +54,13 @@ En 1994, j’ai quitté la presse informatique avec perte et fracas. J’ai raco
 
 Nouveau paradoxe : j’imprime moi-même ce livre, puis je le relie et peint les couvertures pour faire de chacune un original. Je me veux résolument à l’opposé du numérique et dans la matérialité, et en même temps j’utilise tous les outils numériques disponibles pour créer mes objets (XPress pour la mise en page, Photoshop pour les images, un soft de morphing, une LasertJet pour l'impression en recto-verso - il fallait alors retourner les pages et les replacer dans le tiroir de l'imprimante).
 
-![Page 1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/cr1.jpg)
+![Page 1](https://tcrouzet.com/images_tc/2014/06/cr1.jpg)
 
-![Pages 2-3](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/cr3.jpg)
+![Pages 2-3](https://tcrouzet.com/images_tc/2014/06/cr3.jpg)
 
-![Pages 4-5](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/cr5.jpg)
+![Pages 4-5](https://tcrouzet.com/images_tc/2014/06/cr5.jpg)
 
-![Page 6-7](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/cr7.jpg)
+![Page 6-7](https://tcrouzet.com/images_tc/2014/06/cr7.jpg)
 
 En rassemblant les captures d'écrans pour illustrer ce texte, je découvre dans le premier encadré au sujet des mails une définition bien à propos : « On en reçoit des dizaines chaque jour, on répond s ; sans prendre le temps de relire, on les distribue parfois à des milliers de destinataires. Cette prose électronique engendre un art nouveau, une littérature du tac au tac, mais je ne l’ai pratiqué que pour me défouler. » J'avais totalement oublié cette réflexion. Elle ressurgit du passé. C'est assez flippant, comme si j'avais déjà tout dit il y a plus de vingt ans.
 

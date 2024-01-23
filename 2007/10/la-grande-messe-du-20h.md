@@ -6,7 +6,7 @@ Les hommes ont toujours éprouvé le besoin de se retrouver et de communier ense
 
 Grâce aux images, la télévision renforça la sensation « d’y être ». Armstrong marcha sur la Lune devant la planète. En 1998, l’équipe de France gagna la coupe du monde devant plus d’un milliard de téléspectateurs. La télévision apparaît comme une généralisation de l’expérience religieuse.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/pacco6.jpg)
+![](https://tcrouzet.com/images_tc/2007/10/pacco6.jpg)
 
 Pacco remarqua alors qu’internet n’offrait pas cette possibilité. Nous ne voyons pas les choses en mêmes temps (média asynchrone). Nous n’avons pas de point de rendez-vous rituel. Plutôt, il en existe des millions et nous nous éparpillons. « Avec internet, la grande messe c’est fini. »
 
@@ -24,6 +24,6 @@ Les joueurs de Word of Warcraft communient avec le même allegorithm comme les f
 
 1. Les scientifiques cherchent à retrouver le code derrière l’allégorie naturelle.
 
-2. Word of Warcraft n’est qu’une des premières moutures des allegorithms à venir, ne parlons mêmes pas de [Second Life](http://blog.tcrouzet.com/2007/08/06/second-life-is-dead/).
+2. Word of Warcraft n’est qu’une des premières moutures des allegorithms à venir, ne parlons mêmes pas de [Second Life](/2007/08/06/second-life-is-dead/).
 
 3. Un ami me disait hier qu’il en avait assez d’entendre ses collègues de travail ne parler que de jeux vidéos. « Pour eux, c’est une des réalités possibles, j’ai répondu. Ils y vivent aussi intensément que dans l’allégorie naturelle. »

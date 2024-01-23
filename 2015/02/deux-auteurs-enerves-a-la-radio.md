@@ -8,7 +8,7 @@ On a fait un petit essai aujourd’hui en duo où on parle droit d'auteur et Wat
 
 \
 
-![On a même enregistré en vidéo, mais on s'était pas fait beau.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/video.jpg)
+![On a même enregistré en vidéo, mais on s'était pas fait beau.](https://tcrouzet.com/images_tc/2015/02/video.jpg)
 
 On a même enregistré en vidéo, mais on s'était pas fait beau.
 

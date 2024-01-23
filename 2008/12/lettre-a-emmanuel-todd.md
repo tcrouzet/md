@@ -6,7 +6,7 @@ J’ai l’impression que nous sommes dans le même camp. Vous descendez avec ta
 
 > Aux yeux de l’historien et du sociologue, ils ne sont que les symptômes complémentaires d’une situation globale de vide idéologique \[…\]
 
-Ok, nos politiciens sont largués mais cela ne signifie pas qu’il n’existe pas de nouvelles idéologies. Pour ma part, j’essaie d'en présenter [une qui naît en ce moment même un peu partout dans le monde](http://blog.tcrouzet.com/2008/12/09/de-l%e2%80%99esclavage-au-salariat-du-salariat-a-l%e2%80%99artisanat/).
+Ok, nos politiciens sont largués mais cela ne signifie pas qu’il n’existe pas de nouvelles idéologies. Pour ma part, j’essaie d'en présenter [une qui naît en ce moment même un peu partout dans le monde](/2008/12/09/de-l%e2%80%99esclavage-au-salariat-du-salariat-a-l%e2%80%99artisanat/).
 
 Tout d’abord, j’ai l’impression que vous attachez une trop haute estime à nos démocraties. Peut-être en Amérique au temps de Tocqueville la démocratie a-t-elle existé mais pas pour longtemps.
 
@@ -28,7 +28,7 @@ Vous évoquez « l’effondrement terminal du catholicisme », il ne correspon
 
 > Une crise religieuse est donc à l’origine de notre malaise actuel.
 
-Nous sommes en crise parce que nous ne croyons plus en aucun modèle tutélaire, qu’il soit religieux ou politique. C’est bien pour ça que de [nouvelles spiritualités voient le jour](http://blog.tcrouzet.com/2008/08/19/autoregulation-vs-auto-organisation/), des spiritualités plus proches de l’immanence que de la transcendance.
+Nous sommes en crise parce que nous ne croyons plus en aucun modèle tutélaire, qu’il soit religieux ou politique. C’est bien pour ça que de [nouvelles spiritualités voient le jour](/2008/08/19/autoregulation-vs-auto-organisation/), des spiritualités plus proches de l’immanence que de la transcendance.
 
 Vous voyez la société encore éprise d’individualisme alors que je vois émerger à travers les réseaux sociaux de nouvelles interdépendance, interdépendance à l’origine en partie du nouveau sens spirituel. Une forme d’égalité, ce qu’on appelle le pair-à-pair, est peut-être en train de naître et vous n’en parlez pas.
 
@@ -40,7 +40,7 @@ Le monde est devenu global. L’interdépendance le domine. Nous devons trouver 
 
 Voulez-vous fermer les frontières à Internet ? Et qui fabriquera nos composants électroniques ? Le protectionnisme n’est plus jouable. À quoi bon discuter de son efficacité s’il est inapplicable ? Je vais lire *L’avenir d’une exception* où [Hakim El Karoui](http://elkaroui.com/) théorise ce point de vue. Je changerais peut-être d’avis mais je n’en vois pas de raison en vous lisant.
 
-Je pense que le protectionnisme ne peut pas fonctionner, qu’il n’est même pas souhaitable pour la sauvegarde de la planète. À mon sens, il faut tenter autre chose. Certains parlent d’un [keynésianisme vert](http://blog.tcrouzet.com/2008/11/25/les-chevaliers-de-gaia/), je n’y crois pas non plus.
+Je pense que le protectionnisme ne peut pas fonctionner, qu’il n’est même pas souhaitable pour la sauvegarde de la planète. À mon sens, il faut tenter autre chose. Certains parlent d’un [keynésianisme vert](/2008/11/25/les-chevaliers-de-gaia/), je n’y crois pas non plus.
 
 Que devons-nous faire ? Nous livrer aux puissants qui deviennent de plus en plus puissants en même temps que les inégalités se creusent ? Non, nous devons saper les bases de ce système. Nous devons changer d’habitudes de consommation. Nous devons travailler autrement. Nous devrons vivre différemment.
 

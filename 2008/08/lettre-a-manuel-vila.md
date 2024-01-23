@@ -1,6 +1,6 @@
 # Lettre à Manuel Vila
 
-Pour moi, [tu as une conception canonique de la spiritualité](http://blog.tcrouzet.com/2008/08/19/autoregulation-vs-auto-organisation/#comment-60117). Elle devrait être selon toi un chemin vers un autre monde et l’immatérialité. C’est une possibilité, celle défendue disons par les religions du livre, mais pour quelle raison n’existerait-il pas d’autres spiritualités ?
+Pour moi, [tu as une conception canonique de la spiritualité](/2008/08/19/autoregulation-vs-auto-organisation/#comment-60117). Elle devrait être selon toi un chemin vers un autre monde et l’immatérialité. C’est une possibilité, celle défendue disons par les religions du livre, mais pour quelle raison n’existerait-il pas d’autres spiritualités ?
 
 Au tout début de mon prochain livre, je cite Antonio Machado :
 

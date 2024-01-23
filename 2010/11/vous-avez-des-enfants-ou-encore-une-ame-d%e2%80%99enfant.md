@@ -8,9 +8,9 @@ En égoïste, je pense d’abord à mes enfants. Ils sont encore petits mais dé
 
 J’ai envoyé un projet aux trois plus gros éditeurs jeunesse français, l’un des trois est intéressé. Je n’en dis pas plus pour l’instant, il me faut d’abord écrire une centaine de pages avant de discuter contrat, mais le processus est en route.
 
-Je pourrais certes écrire ce roman dans mon coin mais j’ai pris goût à [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/). J’ai décidé d’ouvrir un blog dédié au projet. Il ne sera pas public mais ceux qui ont envie de suivre le déroulement, de commenter, voire de donner des bouts de textes à lire à leurs enfants seront les bienvenus. [Il vous suffira de vous enregistrer et d’attendre que je valide votre inscription.](http://i.tcrouzet.com)
+Je pourrais certes écrire ce roman dans mon coin mais j’ai pris goût à [*La stratégie du cyborg*](/la-strategie-du-cyborg/). J’ai décidé d’ouvrir un blog dédié au projet. Il ne sera pas public mais ceux qui ont envie de suivre le déroulement, de commenter, voire de donner des bouts de textes à lire à leurs enfants seront les bienvenus. [Il vous suffira de vous enregistrer et d’attendre que je valide votre inscription.](http://i.tcrouzet.com)
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/11/mondei.png)
+![](https://tcrouzet.com/images_tc/2010/11/mondei.png)
 
 Tous les mercredis, je publierai en fin de matinée, le ou les chapitres que j’aurais écrits dans la semaine. Vous pourrez alors les lire. Idéalement, j’imagine une première passe par les adultes, puis je tiendrai compte de vos remarques, avant de publier une version des chapitres qui aura plus de chances d’intéresser les enfants.
 

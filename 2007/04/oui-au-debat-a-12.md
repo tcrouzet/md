@@ -1,6 +1,6 @@
 # Oui au débat à 12
 
-Beaucoup de choses impossibles à la télévision deviennent possibles sur internet. Si ma [formule de débat en speed dating](http://blog.tcrouzet.com/2007/04/03/sarkozy-dit-nom-au-debat/) peut effrayer certains candidats, une autre formule plus classique pourrait leur convenir.
+Beaucoup de choses impossibles à la télévision deviennent possibles sur internet. Si ma [formule de débat en speed dating](/2007/04/03/sarkozy-dit-nom-au-debat/) peut effrayer certains candidats, une autre formule plus classique pourrait leur convenir.
 
 1. Les 12 candidats sont invités à participer.
 

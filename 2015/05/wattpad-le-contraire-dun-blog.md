@@ -6,7 +6,7 @@ Explication. Quand on publie un billet sur un blog, il est lu quand il est en un
 
 Sur Wattpad, c’est tout le contraire. Quand on lit une histoire, on revient là où on l’a laissée. On ne saute pas directement au dernier chapitre publié. Wattpad pousse à une lecture chronologique, même s’il alerte les lecteurs des nouveaux chapitres publiés. Il recrute également de nouveaux lecteurs, qu’il envoie systématiquement sur le premier chapitre. Les stats révèlent cet effet et cette mécanique.
 
-![Nombre de lectures pour chacune des minutes.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/05/wat1.png)
+![Nombre de lectures pour chacune des minutes.](https://tcrouzet.com/images_tc/2015/05/wat1.png)
 
 Nombre de lectures pour chacune des minutes.
 
@@ -18,25 +18,25 @@ Les 15 premières minutes recueillent 50 % du nombre total de lectures. Deux im
 
 En première analyse, on peut déduire de la courbe des lectures que mon projet est un bide. En seconde analyse, je trouve tout de même à me consoler, surtout quand je compare le nombre de lectures des 31 premiers chapitres au bout d’un mois et au bout de 4 mois. Mon lectorat global ne cesse d’augmenter, même si l’effet est surtout concentré sur les premiers chapitres.
 
-![Le lectorat global ne cesse d’augmenter.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/05/wat2.png)
+![Le lectorat global ne cesse d’augmenter.](https://tcrouzet.com/images_tc/2015/05/wat2.png)
 
 Le lectorat global ne cesse d’augmenter.
 
-![Autre façon de visualiser l’apport de chaque chapitre au lectorat global.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/05/wat3.png)
+![Autre façon de visualiser l’apport de chaque chapitre au lectorat global.](https://tcrouzet.com/images_tc/2015/05/wat3.png)
 
 Autre façon de visualiser l’apport de chaque chapitre au lectorat global.
 
-![Nombre de lectures hors des 15 chapitres de tête. On découvre un plateau autour de 300 lectures/chapitre, un autre autour de 200 lectures/chapitre.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/05/wat4.png)
+![Nombre de lectures hors des 15 chapitres de tête. On découvre un plateau autour de 300 lectures/chapitre, un autre autour de 200 lectures/chapitre.](https://tcrouzet.com/images_tc/2015/05/wat4.png)
 
 Nombre de lectures hors des 15 chapitres de tête. On découvre un plateau autour de 300 lectures/chapitre, un autre autour de 200 lectures/chapitre.
 
 Quand Wattpad annonce 60K lectures, ça n’a guère de signification. Il faut regarder le nombre de lectures pour les derniers chapitres pour estimer le nombre de lecteurs fidèles. Si je suis optimiste, je suis sur une tendance à 300. Comme je m’étais fixé un objectif d'une centaine blog compris, je suis satisfait et motivé pour poursuivre l’aventure.
 
-![L'appréciation de chacun des chapitres (moins ils sont lus, plus ils sont proprtionnelement plébicités).](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/05/wat5.png)
+![L'appréciation de chacun des chapitres (moins ils sont lus, plus ils sont proprtionnelement plébicités).](https://tcrouzet.com/images_tc/2015/05/wat5.png)
 
 L'appréciation de chacun des chapitres (moins ils sont lus, plus ils sont plébicités).
 
-![En un mois, le nombre de visiteurs quotidiens a plus que doublé.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/05/wat6.png)
+![En un mois, le nombre de visiteurs quotidiens a plus que doublé.](https://tcrouzet.com/images_tc/2015/05/wat6.png)
 
 En un mois, le nombre de visiteurs quotidiens a plus que doublé.
 

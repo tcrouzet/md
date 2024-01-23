@@ -1,6 +1,6 @@
 # Blogs et politiques, bis
 
-[José](http://carnetsdenuit.typepad.com/) m’a demandé de préciser quelques définitions au sujet de mon [prochain livre](http://blog.tcrouzet.com/2006/07/20/blogs-et-politique/) et du site associé [bonVote ](http://www.bonvote.com).
+[José](http://carnetsdenuit.typepad.com/) m’a demandé de préciser quelques définitions au sujet de mon [prochain livre](/2006/07/20/blogs-et-politique/) et du site associé [bonVote ](http://www.bonvote.com).
 
 J’en profite pour dire que le titre du livre ne sera sans doute pas *blogs et politiques* mais plutôt *Politique 2.0* ou quelque chose dans le même esprit. Je veux traiter de l’influence d’Internet en général sur la politique. Au début de l’ouvrage, je placerai quelques définitions dont voici un premier jet.
 

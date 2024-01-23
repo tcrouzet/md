@@ -30,7 +30,7 @@ Tout d’abord les douze livres étudiés :
 
 12. [*The Da Vinci Code*](http://fr.wikipedia.org/wiki/Da_Vinci_Code), Dan Brown, 2003.
 
-James va passer son temps à montrer que chacun des procédés qu’il a identifié se retrouvent dans les douze romans, parfois au prix de quelques contorsions. Plutôt que de résumer systématiquement son propos, je vais m’amuser à voir si ces procédés s’appliquent à deux de mes textes, [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/), mon thriller écrit grâce à Twitter et que je retravaille en ce moment pour Fayard, et [*Ératosthène*](http://blog.tcrouzet.com/eratosthene-new/), dont j’ai repris à zéro la rédaction (au moins pour la dixième fois en douze ans).
+James va passer son temps à montrer que chacun des procédés qu’il a identifié se retrouvent dans les douze romans, parfois au prix de quelques contorsions. Plutôt que de résumer systématiquement son propos, je vais m’amuser à voir si ces procédés s’appliquent à deux de mes textes, [*La quatrième théorie*](/la-quatrieme-theorie/), mon thriller écrit grâce à Twitter et que je retravaille en ce moment pour Fayard, et [*Ératosthène*](/eratosthene-new/), dont j’ai repris à zéro la rédaction (au moins pour la dixième fois en douze ans).
 
 ### High-concept
 

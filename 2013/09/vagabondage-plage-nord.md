@@ -4,13 +4,13 @@ Douceur, ciel de traîne, un bateau de promenade arrive. J'ai passé ma vie deva
 
 J'en déduis que l'image qui s'imprègne en moi n'a que peu de rapport avec la réalité. Cette illusion est plus vaste, plus transparente, plus brillante. Seuls les mots peuvent tenter d'en donner une idée lumineuse. Et cela suffit à me convaincre que le tout-image ne comblera jamais une humanité consciente.
 
-![Plage Nord](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/va2_1.jpg)
+![Plage Nord](https://tcrouzet.com/images_tc/2013/09/va2_1.jpg)
 
 Un autre bateau de promenade, une coque blanche, avec cabine carrée. Et il devient un vaporetto sur une autre lagune qui m'amène vers le lido de *Mort à Venise*. Cette superposition ajoute du mouvement au mouvement, accentué par la morsure du soleil sur ma joue gauche, la danse des vagues qui se posent sur le sable, léger claquement suivi d'un grand coup de langue râpeuse, sous les cris d'une mouette, du moteur poussif d'un inboard et des risées ondoyantes à la porte de mes oreilles.
 
 Invariablement, je reviens aux Pyrénées, toujours présentes et si mystérieuses comme une femme que je croiserais tous les jours au même endroit sans jamais oser lui adresser la parole. Elles me promettent un monde encore premier, des sentiers sous les châtaigniers à la rougeur naissante, des vallées secrètes dont on croit être le premier découvreur.
 
-![Phantôme des Pyrénées](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/va2_3.jpg)
+![Phantôme des Pyrénées](https://tcrouzet.com/images_tc/2013/09/va2_3.jpg)
 
 Je les contemple comme un livre que je ne lirai jamais jusqu'au bout. Je n'aime d'ailleurs pas finir les livres, finir les œuvres. J'ai refusé de boucler la correspondance de Flaubert. J'aime les choses laissées en plan. Les textes ouverts, inachevés. Je me promets d'y revenir et cette promesse me donne une sensation d'éternité.
 
@@ -22,7 +22,7 @@ Un ami américain se moque des Français parce qu'ils meurent pour la plupart pr
 
 Une éclaboussure au large de la pointe me rappelle le récif de l'âne où nous organisions nos expéditions du commandant Cousteau. Qui se souvient de lui ? D’Haroun Tazieff ? Je me demande qui joue leur rôle aujourd'hui. Mes vieilles idoles sont toutes mortes.
 
-![Le phare](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/va2_2.jpg)
+![Le phare](https://tcrouzet.com/images_tc/2013/09/va2_2.jpg)
 
 
 

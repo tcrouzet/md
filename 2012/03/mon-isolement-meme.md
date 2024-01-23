@@ -11,7 +11,7 @@ Je ne suis pas peu fier de l'accueillir, surtout à l'occasion [des vases commun
 François Bon | mon isolement même
 ---------------------------------
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/03/bxlmidi_01.jpg)
+![](https://tcrouzet.com/images_tc/2012/03/bxlmidi_01.jpg)
 
 J’avais débranché.
 
@@ -91,9 +91,9 @@ Dans mon tunnel, ce sont les matins froids, humides, venteux, quand le bruit de 
 
 J’habite mon tunnel : alors à nouveau je l’habite avec calme, sérénité. J’habite mon isolement même.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/03/bxlmidi_02.jpg)
+![](https://tcrouzet.com/images_tc/2012/03/bxlmidi_02.jpg)
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/03/bxlmidi_03.jpg)
+![](https://tcrouzet.com/images_tc/2012/03/bxlmidi_03.jpg)
 
 
 

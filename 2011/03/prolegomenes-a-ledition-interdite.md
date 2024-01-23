@@ -1,6 +1,6 @@
 # Prolégomènes à L&#8217;édition interdite
 
-Les textes numériques glissent si vite dans le flux qu’ils nous échappent parfois avant que nous les ayons réellement digérés. Ainsi l’introduction de [*L’édition interdite*](http://blog.tcrouzet.com/edition-interdite/) présente dans les premiers fichiers en circulation et [reproduite par Christophe Grossi](http://blog.epagine.fr/index.php/2011/03/ledition-interdite-thierry-crouzet-numerikivres/), était ambigüe. Elle laissait entendre que mon essai s’attaquait aux éditeurs alors qu’il tente de mettre à jour une rupture de paradigme qui concerne l’ensemble de la société. Voici la version officielle.
+Les textes numériques glissent si vite dans le flux qu’ils nous échappent parfois avant que nous les ayons réellement digérés. Ainsi l’introduction de [*L’édition interdite*](/edition-interdite/) présente dans les premiers fichiers en circulation et [reproduite par Christophe Grossi](http://blog.epagine.fr/index.php/2011/03/ledition-interdite-thierry-crouzet-numerikivres/), était ambigüe. Elle laissait entendre que mon essai s’attaquait aux éditeurs alors qu’il tente de mettre à jour une rupture de paradigme qui concerne l’ensemble de la société. Voici la version officielle.
 
 ---
 
@@ -12,7 +12,7 @@ Sans renoncer à éditer mes textes dans le circuit traditionnel, j’ai investi
 
 Alors quand les éditeurs traditionnels ont fini par s’intéresser à notre archipel, nous les avons entendus dire tout et n’importe quoi. Pour eux, il s’agissait de conquérir un nouveau canal de diffusion, de prendre la main sur un nouveau média. Pour nous, et nos rares lecteurs, il était plutôt question de conquérir un nouveau monde. Depuis, inlassablement, nous l’explorons dans trois directions interdépendantes.
 
-1/ Nous expérimentons de nouvelles façons de travailler et de créer. Nous appliquons ce que j’ai appelé [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/). Dans cet essai publié en 2010, je présente l’auteur comme le nœud d’un réseau social.
+1/ Nous expérimentons de nouvelles façons de travailler et de créer. Nous appliquons ce que j’ai appelé [*La stratégie du cyborg*](/la-strategie-du-cyborg/). Dans cet essai publié en 2010, je présente l’auteur comme le nœud d’un réseau social.
 
 2/ Notre nouvelle façon de travailler ne peut qu’engendrer des œuvres nouvelles. Nous avons alors découvert que nos meilleurs livres sont nos blogs, des espèces de tentacules littéraires qui échappent à la vieille linéarité propre au livre
 

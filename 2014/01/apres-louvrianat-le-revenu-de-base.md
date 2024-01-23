@@ -2,9 +2,9 @@
 
 Deux images suffisent à démontrer pourquoi le revenu inconditionnel pour tous ne peut que s’imposer. [La première montre la décroissance du travail manufacturier comparé à la croissance du travail robotisé](http://www.internetactu.net/2014/01/20/le-deuxieme-age-des-machines/). [La seconde montre une imprimante 3D qui construit en une journée une maison individuelle.](http://inhabitat.com/large-3d-printer-can-print-an-entire-two-story-house-in-under-a-day/)
 
-![Humans in the USA vs. Robots Worldwide](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/robot.png)
+![Humans in the USA vs. Robots Worldwide](https://tcrouzet.com/images_tc/2014/01/robot.png)
 
-![Imprimante 3D imaginé par Behrokh Khoshnevis.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/3D-house-printer-Contour-Crafting-1-537x314.jpg)
+![Imprimante 3D imaginé par Behrokh Khoshnevis.](https://tcrouzet.com/images_tc/2014/01/3D-house-printer-Contour-Crafting-1-537x314.jpg)
 
 J’aurais pu ajouter d’autres images. Montrer que le coût de l’énergie ne peut que s’effondrer. Nous ne traversons qu’une crise des énergies fossiles. Que d’autres coûts s’effondreront avec leur automatisation. Je pense à la comptabilité. Qui n’est toujours pas automatisée pour nous donner le droit de magouiller. Et jusqu’à l’enseignement peut-être… quand je vois ce qu’on impose à mes enfants, je me dis parfois que des robots seraient moins nocifs que des profs déprimés et amorphes.
 

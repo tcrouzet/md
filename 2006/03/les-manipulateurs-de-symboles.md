@@ -1,6 +1,6 @@
 # Les manipulateurs de symboles
 
-À Bombay, les [dabbawalas](http://blog.tcrouzet.com/2005/12/31/reagissez/#comment-55) sont des porteurs de gamelles qui livrent dans les entreprises des plats préparés à domicile. Ils arrivent toujours à l’heure en se jouant des embarras de circulation et difficultés logistiques !
+À Bombay, les [dabbawalas](/2005/12/31/reagissez/#comment-55) sont des porteurs de gamelles qui livrent dans les entreprises des plats préparés à domicile. Ils arrivent toujours à l’heure en se jouant des embarras de circulation et difficultés logistiques !
 
 > Le système mis en place par l’association des dabbawalas est tellement bien huilé que les retards se comptent en secondes - un miracle, dans cette ville capharnaüm de 17 millions d’habitants. Les ratés d’aigguillage sont quasi nuls : un sur 16 millions de transactions… Une performance réalisée par des hommes illettrés et sans l’aide d’aucune technologie moderne.
 

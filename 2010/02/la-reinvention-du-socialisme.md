@@ -46,7 +46,7 @@ Quand les scientifiques cherchent à reproduire l'évolution de ces villes en si
 
 Deux mouvements historiques semblent donc se juxtaposer : l'un pousse à la centralisation et à la création de structures d'autorité, l'autre à la décentralisation et à la destruction des structures d'autorité qui ne font pas leurs preuves.
 
-[Noam Chomsky qualifie d'anarchiste cette seconde tendance.](http://blog.tcrouzet.com/2010/02/11/anarchisme-emancipation/)L'anarchie, suivant cette définition, n'est pas contre toutes les structures d'autorité, mais contre celles qui ne se justifient pas, ou plus.
+[Noam Chomsky qualifie d'anarchiste cette seconde tendance.](/2010/02/11/anarchisme-emancipation/)L'anarchie, suivant cette définition, n'est pas contre toutes les structures d'autorité, mais contre celles qui ne se justifient pas, ou plus.
 
 Les hommes ont longtemps constitué une structure d'autorité sur les femmes. Des siècles de lutte ont vu quelques progrès, preuve que l'ont peut affaiblir cette structure d'autorité, et sans doute finir par l'éradiquer.
 

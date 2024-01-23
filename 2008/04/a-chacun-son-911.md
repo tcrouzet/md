@@ -1,8 +1,8 @@
 # À chacun son 9/11
 
-Après [mon papier sur le scénario catastrophe de Robb](http://blog.tcrouzet.com/2008/03/30/la-premiere-puissance-mondiale-c%e2%80%99est-la-guerilla/), j’ai vu sur [Agoravox](http://www.agoravox.fr/article.php3?id_article=38097), et même sur mon blog, les adeptes des théories du complot se rebiffer. J’avoue que je les supporte mal et que j’adore les agacer. [Outre le fait que leur psychologie déviante est de mieux en mieux comprise](http://blog.tcrouzet.com/2007/08/23/a-tous-les-conspirationnistes/), je viens de noter certains traits de leurs caractères.
+Après [mon papier sur le scénario catastrophe de Robb](/2008/03/30/la-premiere-puissance-mondiale-c%e2%80%99est-la-guerilla/), j’ai vu sur [Agoravox](http://www.agoravox.fr/article.php3?id_article=38097), et même sur mon blog, les adeptes des théories du complot se rebiffer. J’avoue que je les supporte mal et que j’adore les agacer. [Outre le fait que leur psychologie déviante est de mieux en mieux comprise](/2007/08/23/a-tous-les-conspirationnistes/), je viens de noter certains traits de leurs caractères.
 
-![leny.jpg](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/04/leny.jpg)
+![leny.jpg](https://tcrouzet.com/images_tc/2008/04/leny.jpg)
 
 S’ils croyaient que dix-neuf pirates armés de cutters ont déjoué l’armée américaine, ils seraient obligés de croire que dix-neuf mecs peuvent faire des choses extraordinaires. Ils ne veulent pas y penser, ils ne veulent surtout pas penser qu’ils pourraient être ces hommes (et notamment leur pendant positif). Ils ne veulent pas penser que plutôt que de cautionner des théories du complot, ils pourraient passer de l’autre côté (celui de l'action... positive s'entend).
 
@@ -10,7 +10,7 @@ Suivant un point de vue semblable, beaucoup de gens ne croient pas qu’on puiss
 
 Dans un autre domaine, je retrouve la même attitude. Il y a des artistes d’un génie si éclatant qu’ils attirent la suspicion. Shakespeare par exemple. Les artistes ordinaires leur cherchent des noises pour justifier leur impuissance relative. J’ai connu des photographes qui ne croyaient pas que Cartier-Bresson ait pu prendre toutes ses photos sur le vif. Une chance pareille était impossible. J’ai toujours préféré rester en admiration devant le coup d’œil extraordinaire de Cartier-Bresson.
 
-Qu’il y ait des hommes extraordinaires ne me dérange pas. Au contraire, ils me servent de guide. Je crois au génie négatif des pirates de 9/11. Je ne les admire pas mais je reconnais qu’ils ont réussi leur coup. Des coups improbables sont possibles dans notre monde comme l’explique [Nicolas Taleb](http://blog.tcrouzet.com/2007/09/03/conversation-avec-taleb/).
+Qu’il y ait des hommes extraordinaires ne me dérange pas. Au contraire, ils me servent de guide. Je crois au génie négatif des pirates de 9/11. Je ne les admire pas mais je reconnais qu’ils ont réussi leur coup. Des coups improbables sont possibles dans notre monde comme l’explique [Nicolas Taleb](/2007/09/03/conversation-avec-taleb/).
 
 Vous ne voulez toujours pas le croire. Si vous commencez à croire ces pirates géniaux, vous allez vous sentir moins que rien. Rester dans votre fauteuil, affalé devant la télé, vous deviendra insupportable. Alors vous préférez croire que des forces quasi-surnaturelles sont à l’œuvre. Sauvé. Vous avez trouvé une bonne raison de renoncer à votre responsabilité. Si le monde va mal, vous n’y pouvez rien.
 
@@ -36,7 +36,7 @@ Notes
 
 6. L’absence de preuve ne prouve rien (les fameuses boîtes noires introuvables). Nous n’avons pas de preuve de l’existence ou de la non existence de dieu. Même si le gouvernement US a fait disparaître les fameuses boîtes a posteriori, ça ne change rien à ce que je dis (la conspiration a posteriori, ça c'est facile... ils peuvent faire comme vous).
 
-7. 9/11 est un [black swan](http://blog.tcrouzet.com/2006/07/17/l%e2%80%99irresponsabilite-des-politiques/), un évènement totalement inattendu, aux conséquences totalement inattendues, la chute de tours par exemple. C'est un accident. Personne n'avait imaginé qu'elles tomberaient comme ça, surtout pas les terroristes.
+7. 9/11 est un [black swan](/2006/07/17/l%e2%80%99irresponsabilite-des-politiques/), un évènement totalement inattendu, aux conséquences totalement inattendues, la chute de tours par exemple. C'est un accident. Personne n'avait imaginé qu'elles tomberaient comme ça, surtout pas les terroristes.
 
 8. J’ai vu 9/11 comme la démonstration d’un système complexe. On a tapé à un endroit et nous avons obtenu des réactions cataclysmiques que personne n’aurait pu anticiper. Pour moi, il n’y a rien d’extraordinaire. Les réactions extraordinaires sont le propre des systèmes complexes.
 

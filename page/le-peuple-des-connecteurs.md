@@ -31,7 +31,7 @@ Les connecteurs vivent dans un univers technologique entièrement nouveau par ra
 
 ### Couverture originale
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2006/12/peuple.png)
+![](https://tcrouzet.com/images_tc/2006/12/peuple.png)
 
 - ISBN papier : 978-1-5465-3878-3
 

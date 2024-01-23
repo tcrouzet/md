@@ -6,7 +6,7 @@ Dans *Le peuple des connecteurs*, j'évoque l'impossibilité de définir. Commen
 
 Pour être freemen, il suffit sans doute d'avoir une poignée d'idées en commun avec un autre freemen. Des freemen peuvent avoir sur certains points des idées divergentes (c'est même nécessaire sinon ils formeraient un parti politique). Mais quand ils écoutent [La Rage](http://because.tv/public/kenyarkana/ClipLaRage-large.wmv), de Keny Arkana, comme vient de me le suggérer le [Casabaldi](http://francescocasabaldi.typepad.com/), ils comprennent qu'ils sont du même bord, dans le camp de ceux qui savent que nous devons changer radicalement le monde si nous ne voulons pas le voir sombrer dans le chaos écologique et barbare.
 
-J'ai essayé de définir une [charte des connecteurs](http://blog.tcrouzet.com/2006/03/02/charte-des-connecteurs/), c'est aussi vain que définir une charte des freemen, ça présente juste le mérite d'insister sur le fait que nous ne pensons pas comme le bon petit soldat démocratique est censé penser.
+J'ai essayé de définir une [charte des connecteurs](/2006/03/02/charte-des-connecteurs/), c'est aussi vain que définir une charte des freemen, ça présente juste le mérite d'insister sur le fait que nous ne pensons pas comme le bon petit soldat démocratique est censé penser.
 
 Pour moi, un freemen essaie de prohiber toute tentative de restriction de la liberté d'autrui. Il n'est pas quelqu'un qui met sa liberté au-dessus de tout (car alors il pourrait polluer au nom de cette liberté).
 

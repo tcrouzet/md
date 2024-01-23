@@ -10,7 +10,7 @@ On veut nous faire croire à un discours novateur et immédiatement frappe le co
 
 « Et pourquoi pas moi », aurait pu ajouter Alberti. Croyez-vous encore que si on remplace un Sarko par un Hollande puis un Hollande par une Le Pen ça changera quelque chose ? Le problème, c'est pas eux, c'est nous.
 
-L'homme ou la femme providentiel, pas plus que la mesurette miracle, n'existent pas. Ses conditions de possibilités ont été abolies avec l'explosion de la complexité (cf *[Le peuple des connecteurs](http://blog.tcrouzet.com/le-peuple-des-connecteurs/)*, 2006). Le monde est devenu ingouvernable par le haut alors arrêtez de nous pointer du doigt le grand jour où un nouveau leader nous éclairera.
+L'homme ou la femme providentiel, pas plus que la mesurette miracle, n'existent pas. Ses conditions de possibilités ont été abolies avec l'explosion de la complexité (cf *[Le peuple des connecteurs](/le-peuple-des-connecteurs/)*, 2006). Le monde est devenu ingouvernable par le haut alors arrêtez de nous pointer du doigt le grand jour où un nouveau leader nous éclairera.
 
 Quand vous scandez :
 
@@ -32,7 +32,7 @@ Nous sommes bien en crise, une crise qui dépasse nos maires, nos députés, nos
 
 La véritable révolution ne peut qu'être silencieuse, lente, invisible, parce qu'elle se joue en dehors du vieux jeu délétère. Elle est à l'œuvre partout. Quand on la regarde, on retrouve l'espoir. Quand on vous écoute, on doute à nouveau. On se dit « Merde, ils sont encore nombreux à ne pas avoir compris. » Tout ce que vous proposez ne changera rien. Vous ne vivez plus dans le monde dans lequel vous êtes nés, dans lequel nos lois ont été pensées, nos institutions fondées. Nous avons tous émigré sur une autre planète.
 
-![Lac de l'Oule](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/12/ec1fb5c66d8911e3981d125fbb6fcb5c_81.jpg)
+![Lac de l'Oule](https://tcrouzet.com/images_tc/2013/12/ec1fb5c66d8911e3981d125fbb6fcb5c_81.jpg)
 
 
 

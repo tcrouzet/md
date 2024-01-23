@@ -16,7 +16,7 @@ Ori Brafman et Rod A. Beckstrom montrent ainsi que, pour vaincre une structure d
 
 L’histoire semble prouver toutefois que les civilisations centralisées sont les plus prospères. Je ne le crois pas. Il faudrait déjà commencer par définir la prospérité ; et se demander si la prospérité matérielle s’accompagne d’une prospérité spirituelle. D’autre part, on doit pouvoir défendre la thèse qu’une civilisation prospère tant qu’elle est décentralisée.
 
-La Russie se développa en partie grâce aux [Cosaques](http://blog.tcrouzet.com/2006/04/11/war-and-peace-and-war/), hommes libres par excellence, et elle succomba avec le communisme.
+La Russie se développa en partie grâce aux [Cosaques](/2006/04/11/war-and-peace-and-war/), hommes libres par excellence, et elle succomba avec le communisme.
 
 Rome suivit le même cycle avant de crouler sous le poids de l’administration. Depuis deux siècles, les États-Unis se centralisent de plus en plus. Et si la Chine connaît son actuel boom économique n’est-ce pas aussi parce que la centralisation y atteint l’impuissance ultime au point qu’elle s’effondre virtuellement. Je connais mal la Chine pour développer cette idée. Mais je suis persuadé que la décentralisation, donc la responsabilisation individuelle, reste vitale pour le développement.
 

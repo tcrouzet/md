@@ -14,7 +14,7 @@ Beaucoup de gens jugent cette idée utopique mais ils oublient que l'auto-organi
 
 Internet n'a pas été dessiné puis réalisé. Il s'est construit de lui-même, né de quelques graines disséminées. C'est un superbe exemple d'auto-organisation. En absence de gouvernement central, il réussit à prospérer.
 
-Nous sommes les créateurs d'internet. Chacun avec nos moyens, chacun dans notre coin, nous participons à l'aventure globale en nous auto-organisant, les réseaux sociaux étant un des vecteur d'auto-organisation tout comme les blogs ou les forums. J'estime que cette façon de procéder peut s'étendre à la société dans son ensemble. C'est à mon sens la meilleure façon de régler la [crise de la complexité](http://blog.tcrouzet.com/2006/05/16/rfutation/) à laquelle nous faisons face.
+Nous sommes les créateurs d'internet. Chacun avec nos moyens, chacun dans notre coin, nous participons à l'aventure globale en nous auto-organisant, les réseaux sociaux étant un des vecteur d'auto-organisation tout comme les blogs ou les forums. J'estime que cette façon de procéder peut s'étendre à la société dans son ensemble. C'est à mon sens la meilleure façon de régler la [crise de la complexité](/2006/05/16/rfutation/) à laquelle nous faisons face.
 
 Si nous ne trouvons pas une solution auto-organisationnelle à la crise de la complexité, deux cas de figures peuvent se produire. Soit nous basculons dans la totale anarchie, soit des gouvernements totalitaires s'imposent un peu partout dans le monde, évitant que cette complexité ne s'aggrave, essayant même de la réduire par tous les moyens. Notre avenir est en train de se dessiner en ce moment.
 

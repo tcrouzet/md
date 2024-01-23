@@ -1,10 +1,10 @@
 # Le Net rend plus con que la TV
 
-En 2011, [j’ai fait un burn-out numérique](http://blog.tcrouzet.com/jai-debranche/). Au plus profond de ma chair, j’ai senti que le temps du Net ne me voulait pas que du bien. Il me faisait vivre sur un rythme insoutenable. Plus de nuit, de jour, de repos, disponibilité continue jusqu’à la rupture.
+En 2011, [j’ai fait un burn-out numérique](/jai-debranche/). Au plus profond de ma chair, j’ai senti que le temps du Net ne me voulait pas que du bien. Il me faisait vivre sur un rythme insoutenable. Plus de nuit, de jour, de repos, disponibilité continue jusqu’à la rupture.
 
 J’ai débranché durant six mois, et je suis revenu régénéré, en même temps plus méfiant, surtout des réseaux sociaux qui ont vite tendance à nous prendre la main, puis le bras, puis ne plus rien laisser de très lucide en nous. Je me suis inventé une nouvelle vie numérique, centrée sur mon blog, sur des proches, loin de la visibilité maximalisée à laquelle on peut prétendre avec un peu de pratique. J’ai quitté la grande ville numérique pour un petit village de campagne habité par des gens cool.
 
-Pendant ce temps, le Net poursuivait ses ravages à grande échelle. En quelques années nous avons vu [les best-sellers s’accaparer une part croissante du marché du livre](http://blog.tcrouzet.com/2014/02/20/la-desintegration-du-marche-du-livre/) et [les superstars faire de même du marché de la musique](http://musicindustryblog.wordpress.com/2014/03/04/the-death-of-the-long-tail/). Impuissants, nous avons constaté la même dérive sur les réseaux sociaux, notamment sur Twitter, trusté par les vedettes des médias et du showbizz. Terminé le temps où un quidam pouvait gagner une visibilité maximale, et donc faire connaître ses créations et ses idées à des centaines de milliers de curieux.
+Pendant ce temps, le Net poursuivait ses ravages à grande échelle. En quelques années nous avons vu [les best-sellers s’accaparer une part croissante du marché du livre](/2014/02/20/la-desintegration-du-marche-du-livre/) et [les superstars faire de même du marché de la musique](http://musicindustryblog.wordpress.com/2014/03/04/the-death-of-the-long-tail/). Impuissants, nous avons constaté la même dérive sur les réseaux sociaux, notamment sur Twitter, trusté par les vedettes des médias et du showbizz. Terminé le temps où un quidam pouvait gagner une visibilité maximale, et donc faire connaître ses créations et ses idées à des centaines de milliers de curieux.
 
 Le premier âge d’or du Net est derrière nous. Aujourd’hui, le bruit médiatique est si intense que seules les stars réussissent à se faire entendre notoirement. Quelques roturiers arrivent encore à percer, mais juste pour entretenir un espoir statistiquement vain. Les capitalistes ont toujours ouvert leurs rangs à de nouveaux entrants, question de ne pas succomber à la consanguinité. Et au cas où nous serions encore dupes.
 
@@ -18,7 +18,7 @@ C’est inquiétant parce qu’un manque de curiosité pour les idées et les ar
 
 Il existe certes des villages, mais trop dispersés, trop dilués dans la masse pour peser sur le cours de l’histoire. Nous arrivons encore à nous retrouver, à nous parler, à échanger, à nous réjouir. Nous allons tenter de préserver l’ancienne flamme pour la faire renaître dès que possible, mais la traversée du moyen-âge du Net pourrait être longue. L’hiver arrive.
 
-![The Superstar Artist Economy](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/superstars-600x456.jpg)
+![The Superstar Artist Economy](https://tcrouzet.com/images_tc/2014/03/superstars-600x456.jpg)
 
 
 

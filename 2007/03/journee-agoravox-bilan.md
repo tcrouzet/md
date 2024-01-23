@@ -1,6 +1,6 @@
 # Journée Agoravox : bilan
 
-Je publie ce billet et [surtout la vidéo qui l'accompagne](http://www.page2007.com/2007/03/25/video-cinquieme-pouvoir-thierry-crouzet-et-letudiante-americaine-est-ce-que-tu-crois-quon-va-changer-le-monde-alicia-oui-je-crois/) pour que tout le monde comprenne le [commentaire de Henri Alberti](http://blog.tcrouzet.com/2007/03/24/journee-agoravox/#comment-15165). Je crois tout le monde a été heureux de la [journée Agoravox](http://blog.tcrouzet.com/2007/03/24/journee-agoravox/). J'ai trouvé les interventions intéressantes, même si je pense que plus de temps aurait dû être accordé aux dialogues (la prochaine fois il faudra organiser ça comme un [barcamp](http://fr.wikipedia.org/wiki/BarCamp)).
+Je publie ce billet et [surtout la vidéo qui l'accompagne](http://www.page2007.com/2007/03/25/video-cinquieme-pouvoir-thierry-crouzet-et-letudiante-americaine-est-ce-que-tu-crois-quon-va-changer-le-monde-alicia-oui-je-crois/) pour que tout le monde comprenne le [commentaire de Henri Alberti](/2007/03/24/journee-agoravox/#comment-15165). Je crois tout le monde a été heureux de la [journée Agoravox](/2007/03/24/journee-agoravox/). J'ai trouvé les interventions intéressantes, même si je pense que plus de temps aurait dû être accordé aux dialogues (la prochaine fois il faudra organiser ça comme un [barcamp](http://fr.wikipedia.org/wiki/BarCamp)).
 
 Il faut qu'Axel se paye une caméra avec micro directionnel car c'est inaudible.
 

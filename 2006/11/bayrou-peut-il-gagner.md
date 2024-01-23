@@ -1,6 +1,6 @@
 # Bayrou peut-il gagner ?
 
-Dans [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), je démontre que le second tour des présidentielles sera ouvert à ceux qui adopteront une stratégie novatrice et porteront haut et fort des [idées radicalement nouvelles](http://blog.tcrouzet.com/2006/11/06/troisieme-voie-en-image/).
+Dans [*Le cinquième pouvoir*](/le-cinquieme-pouvoir/), je démontre que le second tour des présidentielles sera ouvert à ceux qui adopteront une stratégie novatrice et porteront haut et fort des [idées radicalement nouvelles](/2006/11/06/troisieme-voie-en-image/).
 
 Le PS et l’UMP n’ont pas besoin de se lancer sur ce terrain. Ils ont toutes leurs chances en restant conservateurs. Pour eux, ce serait même une folie de s’éloigner de leur fond de commerce habituel. Le risque est trop grand au regard des bénéfices potentiels.
 

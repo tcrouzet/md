@@ -12,7 +12,7 @@ Il en va de même si vous lisez une phrase. Vous avez une bonne chance d’activ
 
 Les êtres humains seraient interconnectés. Il ne s’agit plus d’une métaphore mystique, mais bien d’une propension de nos cerveaux à se brancher sur les autres cerveaux par l’intermédiaire de nos sens.
 
-![Internet en Egypte](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/courbe-du-trafic-internet-1-450x224.jpg)
+![Internet en Egypte](https://tcrouzet.com/images_tc/2011/01/courbe-du-trafic-internet-1-450x224.jpg)
 
 C’est alors que j’apprends que l’Égypte s’est déconnectée d’Internet. Que s’est-il passé ? Les cerveaux des Égyptiens ont perdu leur lien avec les autres cerveaux de l’humanité. Ils se sont coupés d’une immense base de données, d’idées, de rêves, de désirs… C’est un peu comme si l’Égypte avait subi une hémorragie cérébrale et qu’une partie de son cortex soit devenu inopérant.
 

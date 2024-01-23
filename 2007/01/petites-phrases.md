@@ -1,6 +1,6 @@
 # Petites phrases
 
-[*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/) est sorti hier, et j’ai fait un passage éclair sur iTélé, LCI et Europe 1, lâchant pas plus d’une ou deux phrases, pas facile de faire comprendre qu’il se passe quelque chose de radicalement nouveau.
+[*Le cinquième pouvoir*](/le-cinquieme-pouvoir/) est sorti hier, et j’ai fait un passage éclair sur iTélé, LCI et Europe 1, lâchant pas plus d’une ou deux phrases, pas facile de faire comprendre qu’il se passe quelque chose de radicalement nouveau.
 
 Aujourd’hui, je devrais avoir un peu plus de temps sur BFM, la semaine prochaine sur RFI et France Info. Mais je dois avouer que j’ai pris de mauvaises habitudes sur le web. Nous y disposons d’un espace illimité et nous ne sommes pas familier des petites phrases, en tout cas moi.
 

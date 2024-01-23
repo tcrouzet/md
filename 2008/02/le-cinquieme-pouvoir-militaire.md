@@ -1,10 +1,10 @@
 # Le cinquième pouvoir militaire
 
-Les nouvelles technologies favorisent la décentralisation et la [redistribution des pouvoirs](http://blog.tcrouzet.com/2008/02/06/redefinir-le-cinquieme-pouvoir/). Ainsi émerge le cinquième pouvoir. J’ai jusqu’alors négligé la décentralisation du pouvoir militaire.
+Les nouvelles technologies favorisent la décentralisation et la [redistribution des pouvoirs](/2008/02/06/redefinir-le-cinquieme-pouvoir/). Ainsi émerge le cinquième pouvoir. J’ai jusqu’alors négligé la décentralisation du pouvoir militaire.
 
 J’ai bien quelque fois évoqué Al-Qaïda comme exemple de réseau contre lequel les systèmes centralisés ne peuvent rien, sans pousser plus loin cette réflexion. En lisant *Brave New War* de [John Robb](http://globalguerrillas.typepad.com/), je prends conscience que le cinquième pouvoir n’est pas seulement médiatique, politique et économique, il est aussi militaire.
 
-John Robb montre qu’un seul homme ou que de petits groupes peuvent à eux seuls mettre à genoux des grands groupes industriels (l’affaire Kerviel à la Société Générale en France) ou des États ([l’attaque hacker contre l’Estonie](http://blog.tcrouzet.com/2007/11/02/cyberwar/)). Nous sommes exactement dans un cas de figure propre au cinquième pouvoir : des individus seuls peuvent tout.
+John Robb montre qu’un seul homme ou que de petits groupes peuvent à eux seuls mettre à genoux des grands groupes industriels (l’affaire Kerviel à la Société Générale en France) ou des États ([l’attaque hacker contre l’Estonie](/2007/11/02/cyberwar/)). Nous sommes exactement dans un cas de figure propre au cinquième pouvoir : des individus seuls peuvent tout.
 
 Plus la technologie progresse, plus elle se popularise, moins il y a de différence entre la technologie dont dispose les États et les individus. Ce processus me paraît irréversible. L’informatique jadis réservée à une élite de chercheurs est dorénavant entre nos mains. Chacun de nous dispose d’une fantastique puissance de simulation. Si les nanotechnologies tiennent leurs promesses, nous disposerons tous de la capacité de manipuler la matière. La génétique elle-même se popularisera.
 

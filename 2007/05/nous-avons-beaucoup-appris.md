@@ -6,7 +6,7 @@ En 2005, avec le référendum européen, beaucoup de citoyens se sont engagés p
 
 Plus qu’à cause de l’importance du scrutin, des programmes ou des personnalités des candidats, je crois que c’est grâce à internet que les Français sont redevenus des animaux politiques. Ceux qui avait internet ont motivé les autres (et notamment les journalistes – fait à mon avis essentiel pour comprendre le phénomène).
 
-Quand nous découvrons un nouvel outil, nous nous en emparons, c’est le propre de l’homme. Dans [Le cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), j’ai ainsi montré qu’internet pouvait devenir un outil politique, un outil qui permet à tous de participer au débat et même à la gouvernance.
+Quand nous découvrons un nouvel outil, nous nous en emparons, c’est le propre de l’homme. Dans [Le cinquième pouvoir](/le-cinquieme-pouvoir/), j’ai ainsi montré qu’internet pouvait devenir un outil politique, un outil qui permet à tous de participer au débat et même à la gouvernance.
 
 Le cinquième pouvoir en tant que tel n’a pas fait basculer cette élection. C’est une certitude. Je pense que, en revanche, nous venons de créer de nouvelles routes pour les idées. Avec les blogs, les forums, les wikis… nous forgeons les armes politiques du cinquième pouvoir. Une fois ces routes en place, nous serons prêts à relever les prochains défis, qui seront bien plus capitaux qu’une présidentielle.
 

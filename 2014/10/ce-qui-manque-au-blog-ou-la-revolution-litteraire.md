@@ -2,15 +2,15 @@
 
 Depuis deux semaines, j’ai [*The future of the book*](http://www.economist.com/news/essays/21623373-which-something-old-and-powerful-encountered-vault) ouvert dans mon navigateur. Et je ne cesse de me dire, voici le futur, pas tant à cause du texte, que de la façon dont il nous est présenté par *The Economist*. C’est un essai à double sens, dont la forme illustre magistralement le propos.
 
-![Mode livre](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/nextweb1.jpg)
+![Mode livre](https://tcrouzet.com/images_tc/2014/10/nextweb1.jpg)
 
 Mode livre
 
-![Mode rouleau](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/nextweb2.jpg)
+![Mode rouleau](https://tcrouzet.com/images_tc/2014/10/nextweb2.jpg)
 
 Mode rouleau
 
-![Mode rouleau](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/nextweb3.jpg)
+![Mode rouleau](https://tcrouzet.com/images_tc/2014/10/nextweb3.jpg)
 
 Mode rouleau
 

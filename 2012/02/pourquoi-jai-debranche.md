@@ -1,6 +1,6 @@
 # Pourquoi j’ai écrit J’ai débranché
 
-Pour moi un livre n’est jamais terminé. Depuis quelques jours, je prépare une nouvelle version de [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) et j’ajoute des chapitres imaginaires à [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/). Exemple. Nous sommes en mars 2011.
+Pour moi un livre n’est jamais terminé. Depuis quelques jours, je prépare une nouvelle version de [*L’alternative nomade*](/alternative-nomade/) et j’ajoute des chapitres imaginaires à [*J’ai débranché*](/jai-debranche/). Exemple. Nous sommes en mars 2011.
 
 ---
 

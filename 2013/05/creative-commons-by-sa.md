@@ -1,6 +1,6 @@
 # Creative Commons BY-SA
 
-Et si bloguer pour ne rien dire était le véritable art du blog ? Dès que je travaille à un texte un tant soit peu structuré, en ce moment [*L’homme qui lave les mains*](http://blog.tcrouzet.com/tag/lhomme-qui-lave-les-mains/), je n’ai plus de place pour écrire des billets, sinon celui-là, pour raconter ma vie.
+Et si bloguer pour ne rien dire était le véritable art du blog ? Dès que je travaille à un texte un tant soit peu structuré, en ce moment [*L’homme qui lave les mains*](/tag/lhomme-qui-lave-les-mains/), je n’ai plus de place pour écrire des billets, sinon celui-là, pour raconter ma vie.
 
 Rien d’extravagant. J’écris l’histoire de Didier Pittet qui, en donnant le gel antibactérien à l’humanité, sauve des milliers de vies tous les jours. En bouclant le premier chapitre, celui qui doit donner envie de découvrir la suite, j’arrive à une conclusion imparable : j'offrirai mon livre en [Creative Commons BY-SA](http://creativecommons.fr/), autorisant qui le veut à l’éditer, même à le vendre. Pas le choix. C'est une nécessité morale, mais avec pas mal de questions à la clé.
 
@@ -18,8 +18,8 @@ Bon sang, bougez-vous les autres. Pour avoir un PC qui approche le MacBook, et e
 
 Tout cela me turlupine. L’ordinateur est mon stylo. Pour un auteur, ce n’est pas négligeable. Je sais qu’il influence ce que j’écris. Et, en ce moment, le sifflement du ventilateur de mon vieux PC me donne l’impression que je suis dans un jet au décollage. Stressant. Je me prends à rêver de silence et de grande profondeur de pixels.
 
-![Tiers Livre](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/05/fbon-500x297.png)
+![Tiers Livre](https://tcrouzet.com/images_tc/2013/05/fbon-500x297.png)
 
-Et alors que je boucle cet article, que j’y ajoute les liens, je découvre que François Bon a rendu son blog payant au-delà d’une consultation rapide. [J’ai évoqué l’idée d’ajouter moi aussi un parcmètre.](http://blog.tcrouzet.com/2013/05/15/le-blog-sans-conversation/) Allons-nous être tous obligés d’en passer par là ? La question est sérieuse. J’ai plus d’encre dans mon stylo. Tout ça est bien paradoxal alors que je me propose d’offrir mon prochain livre.
+Et alors que je boucle cet article, que j’y ajoute les liens, je découvre que François Bon a rendu son blog payant au-delà d’une consultation rapide. [J’ai évoqué l’idée d’ajouter moi aussi un parcmètre.](/2013/05/15/le-blog-sans-conversation/) Allons-nous être tous obligés d’en passer par là ? La question est sérieuse. J’ai plus d’encre dans mon stylo. Tout ça est bien paradoxal alors que je me propose d’offrir mon prochain livre.
 
 Tags: Cuisine, L'homme qui lave les mains, Le geste qui sauve, une

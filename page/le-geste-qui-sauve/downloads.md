@@ -50,11 +50,11 @@
 
 [Acheter](/le-geste-qui-sauve/) | [ePub](https://app.box.com/s/22lh76t8hcce14i6w6f5) | [mobi/Kindle ](https://app.box.com/s/b98qu7kzx6d7pygid90n) | [PDF](https://app.box.com/s/w4pe2x969j4tquesdjk6)
 
-[Conseils pour lire au format epub…](http://blog.tcrouzet.com/2014/02/13/comment-lire-un-epub/)
+[Conseils pour lire au format epub…](/2014/02/13/comment-lire-un-epub/)
 
 ### 
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/08/us.png) Clean Hands Save Lives
+![](https://tcrouzet.com/images_tc/2013/08/us.png) Clean Hands Save Lives
 
 [Buy](/clean-hands-save-lives/) | [ePub](https://app.box.com/s/9wv4thi5yhhng1vxcfzy) | [mobi/Kindle](https://app.box.com/s/31aow02oa8qhfunx1v21) | [PDF](https://app.box.com/s/mpzzpm77g7pyxjiwrsdj) | (/clean-hands-save-lives/audio-book/)
 

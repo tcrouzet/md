@@ -2,9 +2,9 @@
 
 Est-il temps de tourner définitivement le dos à l’édition traditionnelle ? Je n’ai pour le moment que des bribes de réponses, mais déjà quelques enseignements.
 
-Si j’en crois mes stats Analytics via Cloudflare, 42 000 visiteurs uniques sont passés sur mon blog durant les 30 derniers jours, c’est-à-dire depuis la sortie d’[*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).
+Si j’en crois mes stats Analytics via Cloudflare, 42 000 visiteurs uniques sont passés sur mon blog durant les 30 derniers jours, c’est-à-dire depuis la sortie d’[*Ératosthène*](/eratosthene/).
 
-![Statistiques de mon blog sur les 30 derniers jours.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/tr1.png)
+![Statistiques de mon blog sur les 30 derniers jours.](https://tcrouzet.com/images_tc/2014/09/tr1.png)
 
 Statistiques de mon blog sur les 30 derniers jours.
 
@@ -12,7 +12,7 @@ Tous ont vu la bande-annonce du roman en haut de mes pages, seulement 400 l’on
 
 Quid des ventes de mon roman ? Je ne les connais pas exactement, puisque je suis le distributeur de la seule version électronique, soit le vendeur à travers immateriel.fr de 76 ebooks en un mois.
 
-![Ventes Amazon sur 30 jours.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/tr2-600x474.png)
+![Ventes Amazon sur 30 jours.](https://tcrouzet.com/images_tc/2014/09/tr2-600x474.png)
 
 Si j’étais un auteur traditionnel, avec une part de marché ebooks supposée de 5 %, je devrais avoir vendu environ 1 500 livres papier. Cela en postulant une diligence de mon éditeur sur le terrain des libraires physiques égale à la mienne en ligne. Ça n’a pas été le cas, loin de là, d’autant que j’ai appris que la mise en place physique initiale n’avait pas été supérieure à 300 exemplaires (autant ne pas publier un livre dans ces conditions). Vous pouvez ainsi considérer que je suis un quasi-autoédité et que tout se joue depuis mon blog.
 

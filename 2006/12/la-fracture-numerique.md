@@ -1,6 +1,6 @@
 # La fracture numérique
 
-En écrivant [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), j’ai constaté que, pour nombre de politiciens, internet est un outil de communication et non pas un espace de vie comme il peut l’être pour moi et de nombreux blogueurs. Beaucoup de politiciens ont une vision utilitariste du web.
+En écrivant [*Le cinquième pouvoir*](/le-cinquieme-pouvoir/), j’ai constaté que, pour nombre de politiciens, internet est un outil de communication et non pas un espace de vie comme il peut l’être pour moi et de nombreux blogueurs. Beaucoup de politiciens ont une vision utilitariste du web.
 
 Internet est apparu dans leur monde comme un trouble-fête qui change peu à peu les règles, donc qui effraie. Tous avouent ses bienfaits, tous mettent surtout en garde contre les risques de dérive.
 
@@ -20,6 +20,6 @@ Quand je vois tous ces jeunes adeptes de MSN Messenger, des Skyblogs et ou de My
 
 Certes il y a des exclus. Certains par choix, d’autres par fatalité sociale. Ces derniers doivent être aidés. On doit leur acheter du matériel, on doit les former et, surtout, on doit leur donner envie de se joindre à la grande fête à laquelle nous sommes de plus en plus nombreux à participer.
 
-Si j’écris [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), c’est pour montrer qu’il se passe aujourd’hui des choses formidables. Tout le monde n’en profite pas encore mais notre devoir est de faire en sorte que demain tout cela soit à la disposition de tous. Il ne s’agit pas d’une histoire de mode mais d’une révolution que personne n’arrêtera. Une fois que nous avons goûté aux nouveaux outils technologiques nous ne pouvons plus être les mêmes car nos moyens d’action sont démultipliés.
+Si j’écris [*Le cinquième pouvoir*](/le-cinquieme-pouvoir/), c’est pour montrer qu’il se passe aujourd’hui des choses formidables. Tout le monde n’en profite pas encore mais notre devoir est de faire en sorte que demain tout cela soit à la disposition de tous. Il ne s’agit pas d’une histoire de mode mais d’une révolution que personne n’arrêtera. Une fois que nous avons goûté aux nouveaux outils technologiques nous ne pouvons plus être les mêmes car nos moyens d’action sont démultipliés.
 
 Tags: Politique

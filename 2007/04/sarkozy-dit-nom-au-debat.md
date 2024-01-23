@@ -1,6 +1,6 @@
 # Sarkozy dit non au débat
 
-Nous commencions à rêver d’une véritable campagne électorale, enfin, [où les idées se seraient retrouvées face-à-face](http://blog.tcrouzet.com/2007/04/03/un-debat-presidentiel-sur-internet/). Nous avions les moyens de faire ça en vidéo et en direct, de faire notre grand débat internet, profitant que le CSA ne règlemente pas les temps de parole.
+Nous commencions à rêver d’une véritable campagne électorale, enfin, [où les idées se seraient retrouvées face-à-face](/2007/04/03/un-debat-presidentiel-sur-internet/). Nous avions les moyens de faire ça en vidéo et en direct, de faire notre grand débat internet, profitant que le CSA ne règlemente pas les temps de parole.
 
 Nous pensions même respecter les règles en faisant intervenir les 12 candidats. Chacun aurait pu débattre 10 minutes avec ses 11 autres adversaires. Toutes ces images auraient été historiques. D'autres pistes, on été explorées (débats croisés, questions réponses...). Il y avait moyen de faire quelque chose de neuf, quelque chose qui ne pouvait pas se passer ailleurs que sur internet : 12 candidats x 11 mini-débats x 10 minutes = 22 heures d'images (trop pour les TV) !
 

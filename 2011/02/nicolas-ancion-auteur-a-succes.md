@@ -4,9 +4,9 @@ Quand je lis le livre d’un ami, c’est toujours avec appréhension. Si je n�
 
 J’ai juste une énorme critique : mais c’est trop court ! J’étais bien dans ton histoire (je dis tu as Nicolas non seulement parce que c’est un ami mais parce qu’il dit tu à son héros). J’avais envie de te suivre plus loin, jusque dans des régions encore plus glauques et aussi celles peut-être plus merveilleuses.
 
-J’ai beaucoup ri au début, car j’ai retrouvé de nombreux échos au *Peuple des connecteurs*. Il est question d’un professeur Karinthy. [Tu connaissais Frigyes Karinthy ?](http://blog.tcrouzet.com/2010/11/24/la-carte-et-le-reseau-social/) Tu savais que c’était le premier à avoir imaginé l’humanité comme un vaste réseau social ?
+J’ai beaucoup ri au début, car j’ai retrouvé de nombreux échos au *Peuple des connecteurs*. Il est question d’un professeur Karinthy. [Tu connaissais Frigyes Karinthy ?](/2010/11/24/la-carte-et-le-reseau-social/) Tu savais que c’était le premier à avoir imaginé l’humanité comme un vaste réseau social ?
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/02/nicolas1.png)
+![](https://tcrouzet.com/images_tc/2011/02/nicolas1.png)
 
 Dans ta novela illustrée par [Patrice Killoffer](http://fr.wikipedia.org/wiki/Patrice_Killoffer), ce Karinthy est un généraliste, un spécialiste de rien qui pratique l’interdisciplinarité. Autant de thèmes évoqués dans tous mes livres. J’ai même fait de l’expertise de rien mon devoir. Comment pourrions-nous être spécialistes de quelque chose dans un monde mouvant où toutes les choses s’interconnectent et s’interpénètrent ?
 

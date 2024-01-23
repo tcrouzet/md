@@ -1,6 +1,6 @@
 # Les auteurs sont-ils ringards ?
 
-À l’occasion du Salon du livre de Paris, auquel ils accordent encore une importance et dont ils font le centre de la vie éditoriale nationale, les auteurs de tout horizon se regroupent pour diffuser [une lettre ouverte signée par le CPE](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/cpe.pdf) (Conseil Permanent des Écrivains).
+À l’occasion du Salon du livre de Paris, auquel ils accordent encore une importance et dont ils font le centre de la vie éditoriale nationale, les auteurs de tout horizon se regroupent pour diffuser [une lettre ouverte signée par le CPE](https://tcrouzet.com/images_tc/2015/03/cpe.pdf) (Conseil Permanent des Écrivains).
 
 Mais nous sommes bien loin de l’idéal réformateur du Conseil National de la Résistance dont le CPE détourne le nom et les objectifs. Quelques extraits et mes commentaires.
 
@@ -62,7 +62,7 @@ Le rapport Reda prend en compte l’évolution de la société, il cherche à vo
 
 Pour le reste, pour tous les points que je ne commente pas, je suis d’accord. Je ne dis pas que nous ne devons pas nous défendre, mais nous ne pouvons pas le faire en nous arcboutant sur une conception datée de notre métier et du monde.
 
-![Lettre du CPE](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/cpe.pdf)
+![Lettre du CPE](https://tcrouzet.com/images_tc/2015/03/cpe.pdf)
 
 
 

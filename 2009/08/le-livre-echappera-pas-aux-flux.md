@@ -24,7 +24,7 @@ Quelques auteurs expérimentateurs joueront toujours avec l’objet texte comme 
 
 ### Les larmes des lecteurs
 
-[Après mon billet sur la mort de l’édition](http://blog.tcrouzet.com/2009/07/17/apres-la-presse-cest-ledition-qui-meurt/), on m’a dit que rien ne remplacerait l’odeur du papier, sa texture au bout de nos doigts, nos larmes d’émotion qui viennent le tâcher… Croyez-vous que je ne ressente pas tout cela comme vous ?
+[Après mon billet sur la mort de l’édition](/2009/07/17/apres-la-presse-cest-ledition-qui-meurt/), on m’a dit que rien ne remplacerait l’odeur du papier, sa texture au bout de nos doigts, nos larmes d’émotion qui viennent le tâcher… Croyez-vous que je ne ressente pas tout cela comme vous ?
 
 J’aime aussi dans des ruines antiques laisser mes mains courir sur les vieilles inscriptions. C’est un des grands plaisirs de la vie mais d’autres sont venus le compléter, celui du papier, celui aujourd’hui du numérique. Je trouve les larmes dans les commentaires qui accompagnent les textes, dans les réponses hyperlinkés, les reprises, les retwitt exaspérés ou enthousiastes… les larmes imbibent le flux.
 

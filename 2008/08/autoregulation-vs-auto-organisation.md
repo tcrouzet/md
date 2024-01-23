@@ -2,7 +2,7 @@
 
 Si je parle toujours d’auto-organisation, mes interlocuteurs parlent souvent d’autogestion ou d’autorégulation. Et je ne sais vraiment pas ce qu’ils mettent sous ces vocables. Contrairement à mon habitude, je vais passer par le dictionnaire, le mien tout au moins.
 
-Par auto-organisation, j’entends un ensemble d’agents autonomes qui interagissent suivant un jeu de règles sans recourir à une instance centralisée. Mon exemple canonique est celui des [oiseaux qui volent en flotte](http://blog.tcrouzet.com/2007/05/10/formation-de-vol/) en obéissant à une poignée de règles. La flotte est une structure émergente, un tout qui dépasse ses parties.
+Par auto-organisation, j’entends un ensemble d’agents autonomes qui interagissent suivant un jeu de règles sans recourir à une instance centralisée. Mon exemple canonique est celui des [oiseaux qui volent en flotte](/2007/05/10/formation-de-vol/) en obéissant à une poignée de règles. La flotte est une structure émergente, un tout qui dépasse ses parties.
 
 Les agents autonomes peuvent être des particules comme des hommes. Nous nous auto-organisons lorsque nous marchons sur le trottoir d’une ville, ville elle-même résultant d’une auto-organisation si on étudie son histoire au fil des siècles.
 
@@ -28,7 +28,7 @@ Si on étend la théorie de la régulation à d’autres objets que des particul
 
 Depuis les années 1970, la systémique cherche à étudier les groupes humains comme des systèmes. Cela implique de prendre en compte toutes les interactions et de ne pas se limiter à une dimension. La systémique rejette le crédo cartésien de la simplification en sous-problèmes plus simples, en ce sens elle traite de la complexité. Mais j’ai l’impression qu’elle préserve toujours en sommeil l’idée de réductibilité des agents, autre facette du credo cartésien.
 
-Je ne suis pas un expert de la systémique, je n’ai jamais aimé son langage, je ne la croise jamais dans la littérature scientifique, c’est à mon sens un outil qui n’intéresse plus que les gourous du marketing. J’ai l’impression que les sociologues la délaissent, en tout cas ceux de la nouvelle génération qui maîtrisent la programmation. À la suite d’[Axelrod](http://blog.tcrouzet.com/2007/05/24/le-dilemme-du-prisonnier/), ils font peu à peu entrer l’auto-organisation en sociologie. L’approche par agent autonome redonne sens aux individus, le groupe n’étant qu’une structure émergente parmi d’autres.
+Je ne suis pas un expert de la systémique, je n’ai jamais aimé son langage, je ne la croise jamais dans la littérature scientifique, c’est à mon sens un outil qui n’intéresse plus que les gourous du marketing. J’ai l’impression que les sociologues la délaissent, en tout cas ceux de la nouvelle génération qui maîtrisent la programmation. À la suite d’[Axelrod](/2007/05/24/le-dilemme-du-prisonnier/), ils font peu à peu entrer l’auto-organisation en sociologie. L’approche par agent autonome redonne sens aux individus, le groupe n’étant qu’une structure émergente parmi d’autres.
 
 ### L’émergence du spirituel
 

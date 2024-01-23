@@ -4,7 +4,7 @@ Peu d’auteurs Français se préoccupent autant de leurs outils de travail que 
 
 Comme David le remarque, [un certain snobisme pousse beaucoup d’auteurs à dénigrer Word.](http://davidbosman.fr/blog/2013/10/30/pourquoi-word-jai-du-mal-a-le-comprendre/) Trop lourd. Pensé pour la bureautique et non pas pour l’écriture créative. Interface encombrée. Tout cela est vrai, sans être une raison suffisante pour renoncer à Word.
 
-Il n’est toutefois plus mon unique outil d’écriture. Sur iPad, je me suis habitué à &lt;a Daedalus Touch et sur Windows, je travaille de plus en plus avec [Scrivener](http://blog.tcrouzet.com/2013/05/25/scrivener-le-traitement-de-texte-des-auteurs/), surtout pour organiser mes notes et ma documentation.
+Il n’est toutefois plus mon unique outil d’écriture. Sur iPad, je me suis habitué à &lt;a Daedalus Touch et sur Windows, je travaille de plus en plus avec [Scrivener](/2013/05/25/scrivener-le-traitement-de-texte-des-auteurs/), surtout pour organiser mes notes et ma documentation.
 
 Malheureusement Scrivener souffre de quelques défauts qui m’empêchent de basculer vers lui à 100 % :
 
@@ -36,7 +36,7 @@ Pour arriver au même résultat sur Word, il faut personnaliser l’interface :
 
 - Plus une série de raccourcis clavier pour éviter de revenir aux menus.
 
-![Word en mode écriture](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/10/writing1.png)
+![Word en mode écriture](https://tcrouzet.com/images_tc/2013/10/writing1.png)
 
 Je me suis programmé une petite macro qui me fait basculer dans ce mode. Il vous suffit de la personnaliser et de lui associer une icône sur la barre d’outils d’Accès rapide. Je reviens en visualisation standard avec la touche Escape. Ainsi je bénéficie de toute la puissance de Word tout en écrivant dans un environnement dépouillé.
 

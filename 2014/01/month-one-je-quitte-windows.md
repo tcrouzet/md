@@ -1,6 +1,6 @@
 # Month One : je quitte Windows
 
-Franchement, je ne comprends toujours pas pourquoi les gens sont aussi fanatiques du Mac. Pas de méprise, je ne regrette pas d’avoir acheté un Macbook Pro Retina en remplacement du [Lenovo Yoga 2 Pro](http://blog.tcrouzet.com/tag/lenovo/). Malgré quelques doutes épisodiques, c’était bien OneNote pour le dessin en mode tablette, le Macbook est sans doute le meilleur portable du moment, mais le Mac OS a autant de défauts que Windows.
+Franchement, je ne comprends toujours pas pourquoi les gens sont aussi fanatiques du Mac. Pas de méprise, je ne regrette pas d’avoir acheté un Macbook Pro Retina en remplacement du [Lenovo Yoga 2 Pro](/tag/lenovo/). Malgré quelques doutes épisodiques, c’était bien OneNote pour le dessin en mode tablette, le Macbook est sans doute le meilleur portable du moment, mais le Mac OS a autant de défauts que Windows.
 
 Des choses simples sur un système sont compliquées sur l’autre et inversement. Pour le reste, les différences se sont peu à peu effacées avec les années. Mac OS est plus homogène que le bordélique Windows 8, c’est une certitude. Esthétique plus aboutie, affichage plus fluide. Mais quand je travaille sur mon traitement de texte, tout cela s’efface. Il reste le silence impressionnant du Mac. Je ne sais même pas si cette machine dispose d’un ventilateur.
 
@@ -14,7 +14,7 @@ Côté logiciel rien du monde Windows ne me manque. J’ai même découvert pas 
 
 Tous ces traitements de texte New Age offrent des modes de saisies dépouillés très agréables pour l’écriture créative. En revanche, ils ne gèrent pas des choses élémentaires comme l’accentuation automatique des capitales en début de phrases. Bien des choses auxquelles on ne pense pas sous Word redeviennent fastidieuses.
 
-Je l’ai déjà constaté lors de mon [Day One](http://blog.tcrouzet.com/2013/12/31/day-one-je-quitte-windows/) sur Mac, les apps sont en revanche mieux intégrées à l’OS Apple. Je pense notamment à l’indispensable Antidote, accessible partout dans le menu contextuel. Voici une chose que je regretterai si je revenais sur Windows. Et de prendre conscience que 
+Je l’ai déjà constaté lors de mon [Day One](/2013/12/31/day-one-je-quitte-windows/) sur Mac, les apps sont en revanche mieux intégrées à l’OS Apple. Je pense notamment à l’indispensable Antidote, accessible partout dans le menu contextuel. Voici une chose que je regretterai si je revenais sur Windows. Et de prendre conscience que 
 les apps sont la véritable différence entre les deux OS. Comme si Apple avait su imposer sa philosophie de perfection aux développeurs. Même Word est par certains côtés mieux fichu sur Mac. Notamment le mode écriture.
 
 Un de mes gros soucis : la lenteur du convertisseur Thunderbolt vers RJ45. Chez nous, on est câblé Ethernet. Une Freebox sert de rooter. [Les tests qui vantent le convertisseur Apple se trompent.](http://www.macg.co/2012/06/test-de-ladaptateur-thunderbolt-vers-gigabit-ethernet-dapple-56866) Je télécharge deux fois moins vite avec mon Mac qu’avec un vieux portable Samsung qui intègre un port Ethernet. Et ça reste vrai avec un encore plus vieux Vaio sous Ubuntu. Et s’il fallait une preuve de plus, je retrouve un superbe débit quand je bascule le Mac en Wifi (qui ne passe pas dans mon bureau et pas envie de me manger des ondes inutiles avec un réplicateur).
@@ -29,7 +29,7 @@ Vous le voyez, rien de bien extraordinaire. Basculer de Windows à Mac est en d�
 
 Il serait temps que je me mette à écrire un vrai livre avec cette machine. Je suis en ce moment embourbé dans l’édition des textes qui sortiront cette année (et cette saga-là nécessiterait à elle seule un livre, tant le monde de l’édition perd la boule). J’ai de plus en plus envie de dire merde à cet univers et de cultiver mon jardin numérique.
 
-![Mon Macbook sur son pied avec clavier Logitech et souris Apple positionnés dessous.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/bureaumac.jpg)
+![Mon Macbook sur son pied avec clavier Logitech et souris Apple positionnés dessous.](https://tcrouzet.com/images_tc/2014/01/bureaumac.jpg)
 
 Mon Macbook sur son pied avec clavier Logitech et souris Apple positionnés dessous.
 

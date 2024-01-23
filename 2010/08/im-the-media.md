@@ -4,7 +4,7 @@ Depuis le 31 mai dernier et sa diffusion intégrale en ligne, je dois voir [*I�
 
 Comment Benjamin aurait-il pu traiter du narcissisme en ligne sans se moquer de lui-même et de devenir le principal interviewé du documentaire ? Cette mise en abîme a pour effet de rendre un peu plus ridicules les autres interviewés, excepté [Thierry Ehrmann](http://blog.ehrmann.org/) que j’ai trouvé sympathique. Et sans la présence de Benjamin dans son film, nous aurions été privés d’un final hilarant. Pour moi, la véritable histoire commence à ce moment, j’aurais aimé que Benjamin nous entraîne dans un délire encore plus total, extravagant. J’en avais besoin après avoir vu des personnalités presque pitoyables, tel Robert Scoble, qui expose son obésité satisfaite et déblatère des banalités.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/08/benjamin-rassat-interview-screen-capture1.jpg)
+![](https://tcrouzet.com/images_tc/2010/08/benjamin-rassat-interview-screen-capture1.jpg)
 
 Je vous fais une prédiction. Le jour qui viendra assurément où les internautes se désintéresseront de Scoble, il finira par se filmer en train de chier. Ils le feront tous. Ils sont prêts à tout pour attirer l’attention, même aux pires abjections. Comme ils manquent de culture, ils ne savent pas qu’Hervé Guibert s’est déjà filmé en train de tenter de se suicider, puis en train de mourir. Dans cette veine de l’exposition de soi, vous n’irez jamais plus loin que lui ; sinon à l’égaler dans le morbide. Mais lui écrivait merveilleusement !
 

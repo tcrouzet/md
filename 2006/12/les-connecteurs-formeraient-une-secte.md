@@ -36,7 +36,7 @@ Donner un nom à des comportements ne fait pas des gens qui exhibent ces comport
 
 Les connecteurs participent à des réseaux qui s’interconnectent à vaste échelle. C’est tout, j’ai envie de dire. Et c’est beaucoup, car c’est révolutionnaire.
 
-Nous commençons par construire les autoroutes. Après nous allons commencer à construire. Faut pas mettre la charrue avant les bœufs. Trop de politiciens jouent à ce petit jeu. Ils veulent tout changer sans méthode. Ou plutôt avec les vieilles méthodes qui ne marchent plus. Je suis pour l’action mais pas à n’importe quel prix. [Ça c’est une petite pique à l’égard de Rachid Nekkaz](http://blog.tcrouzet.com/2006/12/28/rdv-manque-avec-france-3/#comment-6063).
+Nous commençons par construire les autoroutes. Après nous allons commencer à construire. Faut pas mettre la charrue avant les bœufs. Trop de politiciens jouent à ce petit jeu. Ils veulent tout changer sans méthode. Ou plutôt avec les vieilles méthodes qui ne marchent plus. Je suis pour l’action mais pas à n’importe quel prix. [Ça c’est une petite pique à l’égard de Rachid Nekkaz](/2006/12/28/rdv-manque-avec-france-3/#comment-6063).
 
 Le monde a changé. Nous devons nous changer aussi. Sinon la dichotomie risque de devenir invivable.
 

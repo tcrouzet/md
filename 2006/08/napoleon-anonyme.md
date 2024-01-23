@@ -4,7 +4,7 @@ Dans *La Guerre et la Paix*, Tolstoï écrit au sujet de Napoléon :
 
 > Un homme sans convictions, sans habitudes, sans traditions, sans nom, qui n’est même pas français, grâce, semble-t-il, à une série de hasards des plus étranges, s’ouvre un passage parmi les partis qui agitent alors la France et, sans adhérer à aucun, se trouve porté à une situation en vue.
 
-Dans ce passage, j’aime substituer [le cinquième pouvoir](http://blog.tcrouzet.com/2006/08/22/le-cinquieme-pouvoir/) à Napoléon. Plus loin, Tolstoï écrit encore au sujet de Napoléon :
+Dans ce passage, j’aime substituer [le cinquième pouvoir](/2006/08/22/le-cinquieme-pouvoir/) à Napoléon. Plus loin, Tolstoï écrit encore au sujet de Napoléon :
 
 > \[…\] la décomposition du gouvernement républicain, qui un an plus tôt aurait pu le perdre, en est à son dernier stade, et elle sert maintenant l’ascension de cet homme étranger à tous partis.
 

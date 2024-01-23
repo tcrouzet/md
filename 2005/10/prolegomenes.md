@@ -10,7 +10,7 @@ Je me suis retiré assez vite de ce projet, mes amis partenaires ne s’entendai
 
 Je pensais que les gens qui se passionnaient pour un sujet pouvaient créer des villages où ils partageraient leurs textes et leurs photos. Ce fut un flop, il était encore trop tôt en France pour le collaboratif et je n’avais pas assez la fibre entrepreneuriale pour lancer un tel service à grande échelle. Avec le recul, je vois bien que j’aurais dû persévérer, mais c’était sans importance puisque d’autres l'ont fait à ma place.
 
-J’étais donc immergé dans la blogosphère depuis son origine mais je n’éprouvais pas le besoin d’ouvrir mon propre blog. Je me confrontais à un problème classique en art : l’adéquation de la forme et du fond. Le blog ne collait pas, d'autant que durant toutes ces années je travaillais aux premières versions de mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).
+J’étais donc immergé dans la blogosphère depuis son origine mais je n’éprouvais pas le besoin d’ouvrir mon propre blog. Je me confrontais à un problème classique en art : l’adéquation de la forme et du fond. Le blog ne collait pas, d'autant que durant toutes ces années je travaillais aux premières versions de mon [*Ératosthène*](/eratosthene/).
 
 Ce n’est qu'à la fin 2005, après avoir bouclé *Le peuple des connecteurs*, que j’ai compris que mes carnets avaient rejoint par leur forme et leur fond ce qui se faisait sur Internet. J’ai commencé à travailler mon blog dès le début 2006, trouvant peu à peu le ton et le rythme en même temps que des lecteurs fidèles.
 

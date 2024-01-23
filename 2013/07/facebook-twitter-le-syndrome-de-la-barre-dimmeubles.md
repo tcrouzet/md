@@ -1,6 +1,6 @@
 # Facebook/Twitter&nbsp;: le syndrome de la barre d’immeubles
 
-Je viens de participer à une émission de la [Radio Suisse Romande](http://www.rts.ch/radio/) où j’ai eu l’impression de passer pour un réactionnaire face aux Facebook/Twitter enthousiastes. J’ai cru entendre parler le Crouzet d’il y a dix ans, le Crouzet du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) ou du [*Cinquième Pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), mais qui aurait oublié un point clé de sa pensée : le net n’est révolutionnaire que dans la décentralisation.
+Je viens de participer à une émission de la [Radio Suisse Romande](http://www.rts.ch/radio/) où j’ai eu l’impression de passer pour un réactionnaire face aux Facebook/Twitter enthousiastes. J’ai cru entendre parler le Crouzet d’il y a dix ans, le Crouzet du [*Peuple des connecteurs*](/le-peuple-des-connecteurs/) ou du [*Cinquième Pouvoir*](/le-cinquieme-pouvoir/), mais qui aurait oublié un point clé de sa pensée : le net n’est révolutionnaire que dans la décentralisation.
 
 Quand tout le monde habite dans les mêmes appartements minuscules, aux murs peints de la même couleur, avec le même équipement électroménager, avec la même vue… on ne peut rien espérer de bon quant à la vitalité intellectuelle des habitants, à leur potentiel bonheur, à leur degré de liberté, à leur aptitude au changement… ou même tout simplement à leur attrait quand on les croise par hasard dans un couloir.
 

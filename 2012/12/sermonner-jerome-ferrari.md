@@ -22,7 +22,7 @@ Après lui avoir répondu que le propre de la littérature est de nous parler à
 
 > Jérôme Ferrari jette, **au fil d’une écriture somptueuse d’exigence**, une lumière impitoyable sur la malédiction qui condamne les hommes à voir s’effondrer les mondes qu’ils édifient et à accomplir, ici-bas, leur part d’échec en refondant sans trêve, sur le sang ou les larmes, leurs impossibles mythologies.
 
-Je passe sur la faiblesse de cette phrase dont le « à accomplir » sonne désastreusement et paraît en trop. J’aurais dû me méfier dès cette annonce de somptuosité autoproclamée. Bon, [je savais Ferrari adepte de la phrase ample](http://blog.tcrouzet.com/2012/12/07/comment-obtenir-un-prix-goncourt/). Quelle immédiate surprise de constater qu’il raccroche maladroitement les wagons à l’aide de relatives infiniment répétées et imbriquées, de « comme », « parce que », « tandis que », « mais »… et d’un nombre incalculable de participes présents. Ferrari use des plus grosses ficelles pour allonger sa phrase, lui donner un aspect travaillé trop explicite, trop fatigant.
+Je passe sur la faiblesse de cette phrase dont le « à accomplir » sonne désastreusement et paraît en trop. J’aurais dû me méfier dès cette annonce de somptuosité autoproclamée. Bon, [je savais Ferrari adepte de la phrase ample](/2012/12/07/comment-obtenir-un-prix-goncourt/). Quelle immédiate surprise de constater qu’il raccroche maladroitement les wagons à l’aide de relatives infiniment répétées et imbriquées, de « comme », « parce que », « tandis que », « mais »… et d’un nombre incalculable de participes présents. Ferrari use des plus grosses ficelles pour allonger sa phrase, lui donner un aspect travaillé trop explicite, trop fatigant.
 
 J’aime chez un auteur sa capacité à enchaîner des phrases, ou des morceaux de phrases, sans abuser des trucs fournis en kit dans le langage. Sinon pas de surprise, d’émerveillement, de trouvaille. On se complait dans une banalité scolaire qui d’ailleurs convient à la platitude narrative, politique et philosophique du récit. Encore si cette banalité était irréprochable. Voici le tout début du roman :
 
@@ -30,41 +30,41 @@ J’aime chez un auteur sa capacité à enchaîner des phrases, ou des morceaux 
 
 Vous lisez bien. « La brume est assise en robe de deuil. » C’est très beau, mais sans doute pas volontaire. Je ne chipote pas. Un auteur peut jouer de l’ambigüité, surtout quand il s’est depuis longtemps installé avec un objet ou un personnage. De but en blanc, c’est un peu fort surtout quand on vient d’entendre évoquer « une écriture somptueuse d’exigence ». Quel camouflé ? Quelle imposture ? De quoi être écœuré au nom justement de ceux qui refusent les subterfuges grossiers. Faut croire que le style tape à l'œil a du bon, dans une civilisation décadente.
 
-Je n’en rajoute pas, juste un surplus d’analyse statistique. On peut s’amuser à comparer les auteurs non plus au regard de [la longueur de leurs phrases](http://blog.tcrouzet.com/2012/12/06/interdire-cest-liberateur-meme-en-ecriture/), mais de la longueur de leurs microstructures, groupes textuels entre ponctuations. Ces éléments donnent une idée du rythme et de la virtuosité.
+Je n’en rajoute pas, juste un surplus d’analyse statistique. On peut s’amuser à comparer les auteurs non plus au regard de [la longueur de leurs phrases](/2012/12/06/interdire-cest-liberateur-meme-en-ecriture/), mais de la longueur de leurs microstructures, groupes textuels entre ponctuations. Ces éléments donnent une idée du rythme et de la virtuosité.
 
 ### Proust, *Du côté de chez Swan*
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/12/proust_s.png)
+![](https://tcrouzet.com/images_tc/2012/12/proust_s.png)
 
 Proust me sert de référence.
 
 ### Ferrari, *Le sermon sur la chute de Rome*
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/12/ferrari_s.png)
+![](https://tcrouzet.com/images_tc/2012/12/ferrari_s.png)
 
 On voit que malgré ses phrases longues, Ferrari abuse beaucoup plus que Proust des microstructures courtes, non pas enfilées comme des perles sur un collier, mais lourdement collées par des connecteurs syntaxiques.
 
 ### Bon, *Autobiographie des Objets*
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/12/fbon_s.png)
+![](https://tcrouzet.com/images_tc/2012/12/fbon_s.png)
 
 Microstructures beaucoup plus amples ce qui implique un recours moins fréquent aux connecteurs bateaux, donc un style plus affirmé.
 
 ### Crouzet, *Ératosthène*
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/12/crouzet_s.png)
+![](https://tcrouzet.com/images_tc/2012/12/crouzet_s.png)
 
 J'aime bien savoir où j'en suis. Mes phrases ne sont jamais très longues, mais ma microstructure est déjà un peu plus ample que celle de Ferrari.
 
 ### Crouzet, *Le peuple des connecteurs*
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/12/crouzet_sp.png)
+![](https://tcrouzet.com/images_tc/2012/12/crouzet_sp.png)
 
 Quand j'écris des essais, je suis beaucoup plus ample.
 
 ### Crouzet, *La Quatrième Théorie*
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/12/crouzet_s4.png)
+![](https://tcrouzet.com/images_tc/2012/12/crouzet_s4.png)
 
 Il me faut écrire sur Twitter pour réduire mes microstructures à l'échelle de celles de Ferrari, et encore, j'abuse moins que lui des formes ultra-courtes. Il est de tous les écrivains que j'ai scrutés, celui qui est le moins ample. Peut-être ce qui m'a le plus gêné dans son écriture, longues phrases qui enchaînent des éléments brefs. [Vous pouvez poursuivre ce petit jeu...](http://lab.tcrouzet.com/txtstat/)
 

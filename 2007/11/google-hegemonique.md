@@ -1,8 +1,8 @@
 # Google hégémonique
 
-![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/11/google.gif)
+![Pacco](https://tcrouzet.com/images_tc/2007/11/google.gif)
 
-J’ai déjà tiré la sonnette d’alarme au sujet de la [position dominante de google](http://blog.tcrouzet.com/2007/07/09/hypercentralisation/), j’en ai subit [les conséquences l’année dernière lors du lancement de bonVote](http://blog.tcrouzet.com/2006/10/09/bonvote-otage-de-google-bis/), je la subis à nouveau aujourd’hui avec [bonWeb](http://www.bonweb.com/). Jeudi, nous avons été blacklistés, effacés de l’index Google, notre trafic s’est instantanément écroulé, un de nos annonceurs a rompu son contrat.
+J’ai déjà tiré la sonnette d’alarme au sujet de la [position dominante de google](/2007/07/09/hypercentralisation/), j’en ai subit [les conséquences l’année dernière lors du lancement de bonVote](/2006/10/09/bonvote-otage-de-google-bis/), je la subis à nouveau aujourd’hui avec [bonWeb](http://www.bonweb.com/). Jeudi, nous avons été blacklistés, effacés de l’index Google, notre trafic s’est instantanément écroulé, un de nos annonceurs a rompu son contrat.
 
 Google est en telle position de force qu’il peut mettre n’importe quelle entreprise web à terre du jour au lendemain, sans même donner la moindre explication. Une amie juriste m’a dit qu’il s’agissait d’un abus de position dominante, qu’à terme Google serait attaqué et perdrait.
 

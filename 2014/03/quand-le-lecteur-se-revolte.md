@@ -2,9 +2,9 @@
 
 Narvic me suggère de lire *Le Maître ignorant : Cinq leçons sur l'émancipation intellectuelle* de Jacques Rancière. Je découvre alors que l’ebook est plus cher que le livre de poche, rien de très surprenant en France.
 
-![eBook trop cher](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/ranciere.png)
+![eBook trop cher](https://tcrouzet.com/images_tc/2014/03/ranciere.png)
 
-Qu’est-ce que je dois faire ? [Je ne vais pas renoncer à lire sur ma liseuse à cause de ce désagrément](http://blog.tcrouzet.com/2014/03/22/pourquoi-jaime-lire-en-numerique/), mais je ne vais pas non plus accepter la politique réactionnaire de l’édition française (généralisation abusive, j'espère).
+Qu’est-ce que je dois faire ? [Je ne vais pas renoncer à lire sur ma liseuse à cause de ce désagrément](/2014/03/22/pourquoi-jaime-lire-en-numerique/), mais je ne vais pas non plus accepter la politique réactionnaire de l’édition française (généralisation abusive, j'espère).
 
 Voici ma tactique d’activiste :
 

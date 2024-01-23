@@ -46,7 +46,7 @@ Ce que je constate : c’est que seuls les entrepreneurs gagnent du fric sur le
 
 On nous sert un Web consumériste alors qu’il peut être un environnement de révolution culturelle pour fuir le consumérisme. Mais je ne suis pas pessimiste. La bataille n’est pas terminée.
 
-Tant que nous avons le pouvoir de créer des liens entre chacun de nous, des liens vivants, nous avons entre les mains les armes de la révolution sociale. C’est le sujet de [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/).
+Tant que nous avons le pouvoir de créer des liens entre chacun de nous, des liens vivants, nous avons entre les mains les armes de la révolution sociale. C’est le sujet de [*L’alternative nomade*](/alternative-nomade/).
 
 Pourquoi je déteste les entrepreneurs ? Parce qu’au nom de l’innovation ils ne savent qu’imiter leurs prédécesseurs, que reproduire leurs pantomimes et nous imposer les mêmes codes.
 

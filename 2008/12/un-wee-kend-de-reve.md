@@ -34,7 +34,7 @@ Maintenant qui choisir pour poser les graines qui électriseront le week-end ? 
 
 9. [Mehdi Snene](http://cui.unige.ch/~snene/index.html) chez les hackers et en même temps les professeurs d'informatique, parce qu’ils sont les seuls véritables maîtres du monde.
 
-10. [Gregory Chaitin](http://blog.tcrouzet.com/2006/03/01/jupp-vs-chaitin/) chez les mathématiciens pour une fois encore provoquer le vertige métaphysique.
+10. [Gregory Chaitin](/2006/03/01/jupp-vs-chaitin/) chez les mathématiciens pour une fois encore provoquer le vertige métaphysique.
 
 11. [François Collet](http://www.lafinducapitalisme.net/) chez les politiciens, parce qu'il n'appartiendra jamais à aucun parti, parce qu'il veut réinventer la pub en la détruisant, parce qu'il annonce depuis longtemps la fin du capitalisme.
 

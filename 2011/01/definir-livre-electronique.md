@@ -29,11 +29,11 @@ Imaginez un lien qui pointe aléatoirement vers une autre partie du texte. Ce li
 
 Toute forme de navigation contextuelle, qui implique des calculs dynamiques, par exemple en fonction de ce qui a déjà été lu, nous arrache au strict hypertexte. La plupart de ces possibilités ne peuvent pas être intégralement portées sur un hypertexte, il ne peut encore une fois s’agir que d’une projection.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/ebook.jpg)
+![](https://tcrouzet.com/images_tc/2011/01/ebook.jpg)
 
 Nous avons simultanément un hypertexte et un code informatique qui permet de calculer dynamiquement la navigation (voire même de réorganiser le texte lui-même). Nous sommes face à un objet électronique de troisième niveau qui combine texte, liens et code. Un hypertexte, lui, ne combine que texte et liens. Un texte électronique de premier niveau n’offre que du texte (et il peut être homothétiquement reproduit sur un livre).
 
-Le texte électronique de troisième niveau n’a plus guère de point commun avec le livre. Je pense donc qu’il faut un nom pour définir cet objet supérieur, dont tous les autres ne sont que des sous-ensembles. Peut-être revenir au mot codex, lui donner un sens nouveau. Dans codex, il y a l’idée du texte et du code. L’idée que l’écrivain doit écrire et coder pour créer des objets textuels du troisième niveau (ce qui renvoie à l’idée d’[homofluxus](http://blog.tcrouzet.com/2011/01/23/nous-serons-les-premiers/)).
+Le texte électronique de troisième niveau n’a plus guère de point commun avec le livre. Je pense donc qu’il faut un nom pour définir cet objet supérieur, dont tous les autres ne sont que des sous-ensembles. Peut-être revenir au mot codex, lui donner un sens nouveau. Dans codex, il y a l’idée du texte et du code. L’idée que l’écrivain doit écrire et coder pour créer des objets textuels du troisième niveau (ce qui renvoie à l’idée d’[homofluxus](/2011/01/23/nous-serons-les-premiers/)).
 
 En tout cas, il me semble que nous devons cesser de parler de livres sous peine de passer notre vie à n’écrire que des livres. Nous avons d’un côté des textes, des hypertextes et des codex. De l’autre des devices sur lesquels nous les projetons. Un livre est une espèce d’écran pour texte. Une liseuse est un écran pour hypertexte. Un ordinateur, ou tout device capable de faire tourner un navigateur, est un écran pour codex. Après il y a des romans, des essais, des rêveries... c'est autre chose, et c'est ce qui importe.
 

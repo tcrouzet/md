@@ -12,7 +12,7 @@ J’ai l’impression qu’une sorte d’unité s’effectue sur le fond et que 
 
 Ne croyez pas maintenant que je roule pour Alternative Libérale ou pour qui que ce soit d’autre. J’ai des idées que j’essaie de diffuser et si elles se diffusent, peu importe le chemin, je serai heureux, car j’estime que ces idées sont seules capables de nous éviter le pire (cette certitude est d’ailleurs commune à tous les gens qui font de la politique).
 
-À ce jour, j’ai rencontré quatre candidats à l’Élysée : [François Bayrou](http://blog.tcrouzet.com/2006/09/28/pourquoi-bayrou-est-il-venu/), [Edouard Fillias](http://blog.edouard-fillias.fr), [Corine Lepage](http://corinnelepage.hautetfort.com/) et [Rachid Nekkaz](http://blog.nekkaz.com/). J’ai le sentiment que leurs forces parfois opposées pourraient faire un petit bout de chemin ensemble et inventer une troisième voie politique.
+À ce jour, j’ai rencontré quatre candidats à l’Élysée : [François Bayrou](/2006/09/28/pourquoi-bayrou-est-il-venu/), [Edouard Fillias](http://blog.edouard-fillias.fr), [Corine Lepage](http://corinnelepage.hautetfort.com/) et [Rachid Nekkaz](http://blog.nekkaz.com/). J’ai le sentiment que leurs forces parfois opposées pourraient faire un petit bout de chemin ensemble et inventer une troisième voie politique.
 
 Nous reste à voir de quoi ils seront capables. Pour moi, une seule chose est sûre : plus il y aura de voies, plus ce sera bénéfique pour la démocratie (et avant tout pour la liberté). À mes yeux, le système américain s’assimile trop à une forme de monarchie.
 

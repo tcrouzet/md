@@ -4,7 +4,7 @@ Wattpad, ce n’est pas neuf, mais le phénomène commence à faire couler quelq
 
  *— Comment avez-vous découvert Wattpad ?*
 
-— Pour moi, Wattpad est dans le paysage depuis des années, mais je n’y prêtais pas attention parce que des djeuns (1) y publiaient des fan fictions (2) majoritairement en anglais (3). Ces trois raisons me tenaient à l’écart de la plateforme. Avec mon blog et mes livres, je croyais détenir les clés du paradis de l’auteur numéricus… Sauf que l’audience des blogs pour le romanesque n’a jamais été glorieuse, ni les interfaces très adaptées, alors quand j’ai lancé mon feuilleton [*1 minute*](http://www.wattpad.com/story/29694130-1-minute), j’ai testé Wattpad ([en synchronie avec Neil Jomunsi](http://blog.tcrouzet.com/2015/01/15/wattpad-deplacement-de-lespace-litteraire/)). Au début pour voir, puis avec de plus en plus d’enthousiasme.
+— Pour moi, Wattpad est dans le paysage depuis des années, mais je n’y prêtais pas attention parce que des djeuns (1) y publiaient des fan fictions (2) majoritairement en anglais (3). Ces trois raisons me tenaient à l’écart de la plateforme. Avec mon blog et mes livres, je croyais détenir les clés du paradis de l’auteur numéricus… Sauf que l’audience des blogs pour le romanesque n’a jamais été glorieuse, ni les interfaces très adaptées, alors quand j’ai lancé mon feuilleton [*1 minute*](http://www.wattpad.com/story/29694130-1-minute), j’ai testé Wattpad ([en synchronie avec Neil Jomunsi](/2015/01/15/wattpad-deplacement-de-lespace-litteraire/)). Au début pour voir, puis avec de plus en plus d’enthousiasme.
 
 *— Voyez-vous ça comme un retour de la littérature en feuilleton ?*
 
@@ -18,7 +18,7 @@ Wattpad, ce n’est pas neuf, mais le phénomène commence à faire couler quelq
 
 — En France, l’air de rien, des centaines de milliers de jeunes lecteurs lisent de jeunes auteurs. Alors, oui, on trouve des fautes, des lourdeurs, mais quelle joie de voir émerger en direct une nouvelle génération de passionnés de littérature. Ils sont obsédés par les fan fictions, les romances style *After*, les super héros supra lucides… tout en restant assez curieux pour avoir visité [*mes minutes*](http://www.wattpad.com/story/29694130-1-minute) plus de 120 000 fois. Si j’étais éditeur, je passerais mon temps sur Wattpad et cesserais de m’intéresser aux manuscrits envoyés par la poste. En tant qu'auteur, je vais là où se trouvent les lecteurs en même temps qu'un champ de liberté.
 
-![1 minute sur Wattpad](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/07/wattfig.jpg)
+![1 minute sur Wattpad](https://tcrouzet.com/images_tc/2015/07/wattfig.jpg)
 
 
 

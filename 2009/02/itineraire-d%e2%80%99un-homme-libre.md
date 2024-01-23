@@ -1,6 +1,6 @@
 # Itinéraire d’un homme libre
 
-[Après avoir entendu les uns et les autres](http://blog.tcrouzet.com/2009/02/10/j%E2%80%99ai-besoin-de-vos-conseils/), je prends une demi-décision. Sur [IHL](http://ihl.tcrouzet.com), [*Itinéraire d’un homme libre*](http://ihl.tcrouzet.com), je vais publier successivement la centaine de petits chapitres qui constituent mon nouveau livre.
+[Après avoir entendu les uns et les autres](/2009/02/10/j%E2%80%99ai-besoin-de-vos-conseils/), je prends une demi-décision. Sur [IHL](http://ihl.tcrouzet.com), [*Itinéraire d’un homme libre*](http://ihl.tcrouzet.com), je vais publier successivement la centaine de petits chapitres qui constituent mon nouveau livre.
 
 Je ne peux dès aujourd’hui le publier en intégralité car, après l’avoir trituré avec mon éditeur, il se trouve dans un état qui ne me satisfait pas. Il veut trop ressembler à un roman, ce qu’il n’est pas.
 

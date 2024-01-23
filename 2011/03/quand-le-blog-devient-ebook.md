@@ -1,12 +1,12 @@
 # Quand le blog devient ebook
 
-En prévision de [ma déconnexion totale](http://blog.tcrouzet.com/2011/03/18/je-ferme-mon-blog/), je viens de convertir [mon blog au format epub](http://blog.tcrouzet.com/les-annees-blog/), pour pouvoir le consulter éventuellement sur ma liseuse ou mon ordinateur.
+En prévision de [ma déconnexion totale](/2011/03/18/je-ferme-mon-blog/), je viens de convertir [mon blog au format epub](/les-annees-blog/), pour pouvoir le consulter éventuellement sur ma liseuse ou mon ordinateur.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/03/ablog.png)
+![](https://tcrouzet.com/images_tc/2011/03/ablog.png)
 
-J’ai utilisé [mon plugin wp2epub](http://blog.tcrouzet.com/wp2epub/) que j’ai amélioré à l’occasion pour notamment filtrer tous les billets qui ne me paraissaient plus pertinents ou que j’ai repris dans mes autres livres.
+J’ai utilisé [mon plugin wp2epub](/wp2epub/) que j’ai amélioré à l’occasion pour notamment filtrer tous les billets qui ne me paraissaient plus pertinents ou que j’ai repris dans mes autres livres.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/03/wikio.png)
+![](https://tcrouzet.com/images_tc/2011/03/wikio.png)
 
 Qu’adviendra-t-il de mon blog durant les neuf mois de mise en sommeil ? J’ai eu un semblant de réponse en passant hier sur [les statistiques Wikio](http://labs.wikio.net/fr/source?url=blog.tcrouzet.com). En 2008-2009, alors que je travaillais à [mon Ératosthène](http://ihl.tcrouzet.com/), j’ai peu blogué et mon classement s’est effondré.
 

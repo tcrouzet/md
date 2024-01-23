@@ -6,13 +6,13 @@ Pour [Xavier de la Porte](http://www.internetactu.net/2014/05/12/deconnexion-a-q
 
 Xavier part du principe que la connexion ne nous isole pas plus qu’elle nous éloigne de la réalité, faisant référence à la déferlante d’études sociologiques qui vont en ce sens. Il en déduit tout naturellement que ceux qui parlent de déconnexion sont des réactionnaires antitechno ou éprouvent une sorte de culpabilité à passer leur vie devant des écrans.
 
-J’entends autre chose, peut-être parce que j’ai vécu la déconnexion. [Je n’ai pas débranché durant six mois](http://blog.tcrouzet.com/jai-debranche/) parce que je me sentais seul. On me pose toujours cette question : vous avez retrouvé vos amis ? Mais non, en me déconnectant rien n’a changé sur ce plan (j’ai plutôt perdu mes amis du Net). Quant au réel, je crois que l’ordinateur est une espèce de lunette pour mieux le voir (je suis un geek et je le revendique).
+J’entends autre chose, peut-être parce que j’ai vécu la déconnexion. [Je n’ai pas débranché durant six mois](/jai-debranche/) parce que je me sentais seul. On me pose toujours cette question : vous avez retrouvé vos amis ? Mais non, en me déconnectant rien n’a changé sur ce plan (j’ai plutôt perdu mes amis du Net). Quant au réel, je crois que l’ordinateur est une espèce de lunette pour mieux le voir (je suis un geek et je le revendique).
 
 Si je me suis pas déconnecté pour retrouver mes amis ou à cause d’une soudaine réaction allergique aux machines, alors pourquoi ? Je vois au moins trois raisons, de plus en plus claires à mesure que ma période de jeûne s’éloigne.
 
 1. Vivre pleinement en ligne implique une présence de tous les instants, qui peut conduire au burn-out numérique (c’était mon cas). On peut ressentir une profonde fatigue, et je comprends l’envie de se reposer (un fantasme inaccessible pour beaucoup de gens). Rien que de très ordinaire comme désir. Les vidéos de vacances buzzent plus que les vidéos sur la déconnexion, mais pour les mêmes raisons.
 
-2. Nous sommes curieux. Nous avons envie de visiter d’autres villes, d’autres pays, d’autres planètes… Quand on passe sa vie sur le Net ([que je compare à un territoire](http://blog.tcrouzet.com/tag/territoire/)), on peut aspirer à d’autres paysages (surtout quand on se limite à Facebook et Twitter).
+2. Nous sommes curieux. Nous avons envie de visiter d’autres villes, d’autres pays, d’autres planètes… Quand on passe sa vie sur le Net ([que je compare à un territoire](/tag/territoire/)), on peut aspirer à d’autres paysages (surtout quand on se limite à Facebook et Twitter).
 
 3. La pleine présence en ligne serait contradictoire avec l’expérience optimale. En tous cas, c’est indéniable pour moi. Hyperconscience, hapax existentiel, sentiment océanique… le Net est un tue-l’amour en ce domaine (et le besoin des pionniers du Net de s’adonner à la méditation n’est pas étranger à ce phénomène). Je crois que de plus en plus de gens perçoivent un manque existentiel lié à notre mode de vie actuel sur le Net, manque que j’imagine lié aux écrans, en tout cas aux limitations de nos interfaces (souvent elles réduisent le champ perceptif plus qu'elles ne l'élargissent, tout en comprimant le temps).
 
@@ -24,7 +24,7 @@ La déconnexion implique une autre connexion avec le Net, les arbres, les étoil
 
 Quand le Net se télévisualise, tu le fuis comme la télé, ou tu te réfugies dans ses recoins, ce qui est bien une forme de déconnexion par rapport au plus grand nombre. La déconnexion est relative. C’est une expérience intime, et pourquoi pas mystique. Quand le sage part dans le désert, ce n’est pas pour se déconnecter, bien au contraire. Quand une expérience s’affadit, on la réforme. Le Net est en train de devenir trop normal pour trop de gens. Alors parler de la déconnexion sur le Net est tout naturel, même indispensable, c'est une façon de l'interroger pour le réinventer.
 
-![Unplugged par Foomandoonian.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/unplug-600x400.jpg)
+![Unplugged par Foomandoonian.](https://tcrouzet.com/images_tc/2014/05/unplug-600x400.jpg)
 
 
 

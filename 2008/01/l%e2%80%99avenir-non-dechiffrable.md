@@ -1,14 +1,14 @@
 # L’avenir non-déchiffrable
 
-Synopsie pour [ma conférence de ce soir](http://blog.tcrouzet.com/2008/01/23/alors-peut-on-dechiffrer-l%e2%80%99avenir/).
+Synopsie pour [ma conférence de ce soir](/2008/01/23/alors-peut-on-dechiffrer-l%e2%80%99avenir/).
 
 1. Si l’avenir était déchiffrable, nous serions tous traders, nous serions tous riches car nous serions capables de réduire les risques et maximiser nos chances de succès. La Bourse n’existerait d’ailleurs plus, de même que les casinos (heureusement les Italiens donnent un autre sens à ce mot qui lui garantit sa pérennité).
 
 2. Je n’aime pas les experts, j’aime les prendre en train de se tromper. Il suffit de regarder les prévisions des taux de croissances et les taux de croissance effectifs pour comprendre que prévoir n’est pas chose facile. Pourtant, en temps normal, comme ces dernières années, la croissance est relativement stable. [N’empêche les futurologues se trompent six fois sur huit](http://www.lemonde.fr/web/infog/0,47-0@2-3234,54-954005,0.html).
 
-    ![croissance.gif](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/01/croissance.gif)
+    ![croissance.gif](https://tcrouzet.com/images_tc/2008/01/croissance.gif)
 
-3. Il existe des domaines comme la Bourse où les variations ne sont pas bornées et où l’exercice prévisionnel est beaucoup plus périlleux. L’écrivain américain et trader [Nicolas Taleb raconte](http://blog.tcrouzet.com/2006/07/17/l%e2%80%99irresponsabilite-des-politiques/) que, début 2004, un analyste lui montre une courbe décrivant l’évolution du prix du pétrole. Vingt-cinq ans plus tard, le baril devait coûter 27 $. Six mois plus tard, l’analyste se ravisa, il fallait plutôt tabler sur 75 $. Le baril a franchi les 100 $ début 2008 !
+3. Il existe des domaines comme la Bourse où les variations ne sont pas bornées et où l’exercice prévisionnel est beaucoup plus périlleux. L’écrivain américain et trader [Nicolas Taleb raconte](/2006/07/17/l%e2%80%99irresponsabilite-des-politiques/) que, début 2004, un analyste lui montre une courbe décrivant l’évolution du prix du pétrole. Vingt-cinq ans plus tard, le baril devait coûter 27 $. Six mois plus tard, l’analyste se ravisa, il fallait plutôt tabler sur 75 $. Le baril a franchi les 100 $ début 2008 !
 
 4. Les exemples de ce type sont innombrables. En fait, il suffit de prendre une prévision du passé et de la comparer à la réalité pour exploser de rire. Steven D. Levitt and Stephen J. Dubner débutent [*Freakonomics*](http://www.amazon.com/Freakonomics-Revised-Expanded-Economist-Everything/dp/0061234001) en racontant que les experts estimaient que la criminalité américaine devait continuer à monter tout au long des années 1990. En réalité, autour de 1995, la tendance s’est inversée, revenant au taux le plus faible des 50 dernières années.
 

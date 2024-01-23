@@ -10,7 +10,7 @@ Je sors de la séance en état de choc.
 
 Comme après être entré dans la grande Pyramide.
 
-Comme après [ma visite du détecteur Atlas au Cern](http://blog.tcrouzet.com/2006/11/24/un-connecteur-a-geneve/).
+Comme après [ma visite du détecteur Atlas au Cern](/2006/11/24/un-connecteur-a-geneve/).
 
 Comme après un tête-à-tête avec Andreï Roublev.
 

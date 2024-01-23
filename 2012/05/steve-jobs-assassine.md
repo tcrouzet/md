@@ -4,7 +4,7 @@ Steve est bien mort d’un cancer, mais Walter Isaacson son biographe officiel l
 
 J’ai lu son best-seller non-stop, avec cette impression exaltante de revivre une part de l’histoire de mon temps comme si je la voyais depuis le futur. Mais plus j’avançais, plus un malaise s’est installé en moi. Je n’arrêtais pas de me dire « Nous avons raté quelque chose. »
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/05/steve-jobs-biographie1-450x306.jpg)
+![](https://tcrouzet.com/images_tc/2012/05/steve-jobs-biographie1-450x306.jpg)
 
 ### Ratage dans la forme
 

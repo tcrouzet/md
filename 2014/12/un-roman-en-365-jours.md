@@ -2,13 +2,13 @@
 
 Nous maîtrisons l’écriture matricielle sur nos blogs, c’est-à-dire le tramage de billets qui, pris ensemble, forment une œuvre. Nous pouvons ainsi nous lancer dans des [inventaires du monde](http://inventaire-du-monde.over-blog.com/), sorte de listes à la Perec, mais je n’ai jamais réussi à écrire une histoire suivie avec cette méthode.
 
-Quand je dis écrire, c’est publier un jour sans savoir de quoi la suite sera faite, un peu comme je m’y suis amusé [avec mon twiller](http://blog.tcrouzet.com/la-quatrieme-theorie/), mais de telle façon qu’une histoire avance, avec l’objectif rêvé qu’elle soit aussi intelligible dans le désordre.
+Quand je dis écrire, c’est publier un jour sans savoir de quoi la suite sera faite, un peu comme je m’y suis amusé [avec mon twiller](/la-quatrieme-theorie/), mais de telle façon qu’une histoire avance, avec l’objectif rêvé qu’elle soit aussi intelligible dans le désordre.
 
 1. Le blog facilite l’écriture tramée parce que les CMS ont orienté son histoire dans cette direction (permalien, tags, catégories, une en forme de sommaire…).
 
-2. [La confiscation du mode rouleau par les réseaux sociaux](http://blog.tcrouzet.com/2014/12/01/les-reseaux-sociaux-ont-confisque-la-metaphore-du-blog/) a fait de chaque billet des solitaires hors de leur contexte de production (la trame est leur seul lien avec l’ensemble).
+2. [La confiscation du mode rouleau par les réseaux sociaux](/2014/12/01/les-reseaux-sociaux-ont-confisque-la-metaphore-du-blog/) a fait de chaque billet des solitaires hors de leur contexte de production (la trame est leur seul lien avec l’ensemble).
 
-En redessinant cet automne mon blog pour réinventer le rouleau, ces choses me sont devenues de plus en plus claires. L’expérience [*Clitoria*](http://blog.tcrouzet.com/2014/11/10/clitoria-chapitre-1/), texte que j’ai aimé écrire mais dont la publication *a posteriori* sur le blog m’a indifféré, m'a fait sentir avec une nouvelle force ce que j’aime écrire en ligne et qui, à mon sens, est propre à cette écriture.
+En redessinant cet automne mon blog pour réinventer le rouleau, ces choses me sont devenues de plus en plus claires. L’expérience [*Clitoria*](/2014/11/10/clitoria-chapitre-1/), texte que j’ai aimé écrire mais dont la publication *a posteriori* sur le blog m’a indifféré, m'a fait sentir avec une nouvelle force ce que j’aime écrire en ligne et qui, à mon sens, est propre à cette écriture.
 
 1. Tu écris, tu publies (le Send).
 

@@ -12,7 +12,7 @@ Les jours suivants, Tim et Émile passent de plus en plus de temps à lire sur i
 
 Je décide de protéger Clash of Clans par un code et de laisser tous les autres jeux accessibles, pour créer une petite frustration. Je n’ai malheureusement trouvé que des applications à installer via Cydia sur mon iOS jaibreaké. Après plusieurs tests, iProtect s’est avéré parfait (on peut installer une version gratuite via le repositori [*repo.hackyouriphone.org*](repo.hackyouriphone.org), nombreux tuto sur YouTube).
 
-![iProtect](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/iprotect-600x586.png)
+![iProtect](https://tcrouzet.com/images_tc/2014/08/iprotect-600x586.png)
 
 Après, à partir des Paramètres de l’iOS, on accède au tableau de bord d’iProtect, on saisit un mot de passe générique et on choisit les applications qui seront protégées. Simple et efficace.
 
@@ -20,7 +20,7 @@ Après, à partir des Paramètres de l’iOS, on accède au tableau de bord d’
 
 Voilà les enfants bridés sur Clash of Clans, reste qu’ils passent toujours autant de temps à lire. Je suis sûr qu’ils truandent toujours mais avec quels jeux ? Depuis longtemps, ils savent tuer les tâches laissées ouvertes. Il me faut donc installer un logiciel espion. Je ne trouve rien sur l’AppStore, encore une fois. J’achète même des apps pour rien. Ce n’est pourtant pas demander la lune. Ce dont j’ai besoin, tous les parents en ont besoin.
 
-![App Stat](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/appstats-600x581.png)
+![App Stat](https://tcrouzet.com/images_tc/2014/08/appstats-600x581.png)
 
 À nouveau, je passe par Cydia. J’ai choisi App Stats. Après l’installation, ce hack comptabilise le temps passé sur les apps entre deux remises à zéro. Je découvre le pot aux roses. En une après-midi pluvieuse, aussi quelle idée de quitter le Midi, mes enfants ont joué 1 heure 28 à Angry Birds et 54 minutes à StormRaiders, aussi 35 minutes à lire des BD.
 

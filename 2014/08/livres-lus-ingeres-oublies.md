@@ -6,17 +6,17 @@ Récit banal de nos vies numériques. Depuis quelques jours, j’ai [un onglet o
 
 Et puis je lis [le dernier atelier d’écriture de François Bon](http://www.tierslivre.net/spip/spip.php?article4011). Il est question de John Gardner, de ses deux livres posthumes de 1983, *The Art of Fiction* et *On becoming a Novelist*.
 
-![Gardner_Art_of_Fiction](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/Gardner_Art_of_Fiction.jpg)
+![Gardner_Art_of_Fiction](https://tcrouzet.com/images_tc/2014/08/Gardner_Art_of_Fiction.jpg)
 
 Un moment, je confonds Garner avec Gardner. Je connais Gardner. Je sais qu’il a été le prof de Carver. Un des premiers a avoir enseigné l’écriture créative aux États-Unis. C’est tout. François me donne envie de lire ses livres. Je les cherche. Boom. La couverture de l’édition 1991 de *The Art of Fiction* s’affiche. Mince. J’ai lu et relu ce livre. En même temps que des dizaines d’autres sur l’écriture. À une époque, je lisais tout sur le sujet. Contrairement à Carver, je n’ai pas songé à trouver un Gardner dans une fac française (il n’y en avait pas). J’ai tout appris seul, une solitude pesante, souvent désespérante, un sentiment que les jeunes auteurs ne peuvent plus imaginer au temps du Net.
 
 J’ai depuis oublié Gardner, les titres de ses livres, parce que je n’ai jamais parlé d’eux à personne (pas de post critique à publier), parce que je n’ai jamais songé à les étudier pour les restituer (pas d’atelier d’écriture à animer), je les ai absorbés jusqu’à les intégrer à mon ADN.
 
-![Je n'avais jamais vu cette couverture.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/becoming-400x533.jpg)
+![Je n'avais jamais vu cette couverture.](https://tcrouzet.com/images_tc/2014/08/becoming-400x533.jpg)
 
 La couverture de *On becoming a Novelist* ne me dit rien. Je déniche un ebook, je lis la préface de Carver, et tout me revient, même la couverture. Ce livre aussi est en moi, logé très profond.
 
-![Je possède la version papier dans cette édition.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/on-becoming-a-novelist.jpg)
+![Je possède la version papier dans cette édition.](https://tcrouzet.com/images_tc/2014/08/on-becoming-a-novelist.jpg)
 
 Peu à peu ma mémoire se réveille. Je sais quand j’ai lu pour la première fois *The Art of Fiction* et *On becoming a Novelist*. C’était lors d’un voyage dans Wyoming en 1992. Mise en abyme. Extraits de mes carnets.
 
@@ -38,6 +38,6 @@ Retour au XXI<sup>e</sup> siècle. Assez effrayant de me dire que, si je n'avais
 
 > Do so as a mark of respect for your readers, whatever you’re writing. Faites-le par respect pour vos lecteurs, quoi que vous écriviez.
 
-![Vue de Jackson depuis le sommet du télésiège.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/Jackson_from_snowking-600x444.jpg)
+![Vue de Jackson depuis le sommet du télésiège.](https://tcrouzet.com/images_tc/2014/08/Jackson_from_snowking-600x444.jpg)
 
 Tags: NetLittérature, une

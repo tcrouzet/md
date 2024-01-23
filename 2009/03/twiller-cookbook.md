@@ -2,7 +2,7 @@
 
 La très prolixe Anne-Caroline Paucot ([L'entreprise en 2020](www.entreprise2020.fr), [Le futur au présent](), [Des romans et des polars pour les entreprises](http://www.hyaka.com), [Dictionnaire du futur](), [Contes à inventer demain](http://www.contesainventerlefutur.fr)) veut lancer un twiller à plusieurs mains qu’elle voudrait reconstituer automatiquement sur un site.
 
-Je lui ai proposé de partir de mon montage WordPress utilisé pour [Croisade](http://twiller.tcrouzet.com). [Le template et le plug-in TwitterTools modifié peuvent être téléchargé et installés normalement.](http://blog.tcrouzet.com/files_tc/twiller.rar) Mais c’est pas vraiment un système portable. J’ai bidouillé un peu partout pour que ça fasse ce que je veux. C’est un point de départ.
+Je lui ai proposé de partir de mon montage WordPress utilisé pour [Croisade](http://twiller.tcrouzet.com). [Le template et le plug-in TwitterTools modifié peuvent être téléchargé et installés normalement.](/files_tc/twiller.rar) Mais c’est pas vraiment un système portable. J’ai bidouillé un peu partout pour que ça fasse ce que je veux. C’est un point de départ.
 
 Pour que mon affaire fonctionne, il faut créer deux catégories sous WordPress. La catégorie Chapitres (cat\_ID=3 dans le code) rassemble les posts qui correspondent au chapitres reconstitués du livre. La catégorie (cat\_ID=4 qui peut être définie dans les options de TwitterTools) rassemble les twitts au fur et à mesure de leur publication.
 

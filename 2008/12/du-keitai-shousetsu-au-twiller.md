@@ -1,12 +1,12 @@
 # Du keitai shousetsu au twiller
 
-Je me suis longtemps intéressé au *Nouveau roman*, puis à Georges Perec et à l'Oulipo. L’écriture à contraintes alliait la logique et la littérature et je me suis laissé griser par le genre. Je suis allé jusqu’à écrire [un roman où chaque signe aurait une valeur temporelle](http://blog.tcrouzet.com/equinoxe-automne/). Pour dire qu’une moto passait dans la rue, j’utilisais autant de signes que la moto prenait pour passer. J’avais développé une macro Word qui mesurait la durée de mes phrases.
+Je me suis longtemps intéressé au *Nouveau roman*, puis à Georges Perec et à l'Oulipo. L’écriture à contraintes alliait la logique et la littérature et je me suis laissé griser par le genre. Je suis allé jusqu’à écrire [un roman où chaque signe aurait une valeur temporelle](/equinoxe-automne/). Pour dire qu’une moto passait dans la rue, j’utilisais autant de signes que la moto prenait pour passer. J’avais développé une macro Word qui mesurait la durée de mes phrases.
 
 Puis je me suis intéressé à la philosophie et je me suis lassé de ces jeux. J’avais besoin de plus de liberté, je voulais bannir les contraintes. Mais chaque fois que je me suis aventuré dans le romanesque, j’ai eu du mal à me départir de mes vieilles habitudes. J’étais souvent expéditif comme avec mon histoire de moto. Je ne passais pas deux plombes à camper les personnages, encore moins à m’attarder sur leurs atermoiements psychologiques. Ce n’est pas mon truc.
 
 Et là je découvre un nouveau genre romanesque, le twiller, contraction de Twitter et de thriller. Le texte est posté sur une plate-forme de microblogging comme Twitter. Il se compose donc d’une série d’épisodes de 140 caractères maximum chacun. Pour le coup, il faut s’en tenir à l’essentiel. Si chaque jour seulement quelques phrases sont postées, il faut concentrer.
 
-Pour mon prochain livre, [*Une brève histoire de l’informatique*](http://blog.tcrouzet.com/une-breve-histoire-de-linformatique/), série d'historiettes sur le modèle de *La première gorgée de bière*, je me suis amusé à écrire [un début de twiller](http://blog.tcrouzet.com/2009/03/18/twiller-twitteroman-erotwit%E2%80%A6/), en partant d’une idée qui traîne dans ma tête depuis quelque temps. Je me suis alors dit pourquoi pas poursuivre en live sur mon blog.
+Pour mon prochain livre, [*Une brève histoire de l’informatique*](/une-breve-histoire-de-linformatique/), série d'historiettes sur le modèle de *La première gorgée de bière*, je me suis amusé à écrire [un début de twiller](/2009/03/18/twiller-twitteroman-erotwit%E2%80%A6/), en partant d’une idée qui traîne dans ma tête depuis quelque temps. Je me suis alors dit pourquoi pas poursuivre en live sur mon blog.
 
 Sur le côté gauche de l’écran se suivraient les SMS postés sur Twitter avec les commentaires associés, sur le côté droit la reconstruction du chapitre en cours d’écriture.
 

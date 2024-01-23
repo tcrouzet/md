@@ -1,8 +1,8 @@
 # Performance writing – Irène
 
-En trente minutes environ, improvisation d’écriture sur un style très borgésien devant un tableau d'[Isabelle Marsala](http://www.isabelle-marsala.fr/) tiré au hasard [lors de la ZAL et suite à la conférence avec Nicolas Ancion](http://blog.tcrouzet.com/2012/10/21/la-tragique-tragedie-du-livre/).
+En trente minutes environ, improvisation d’écriture sur un style très borgésien devant un tableau d'[Isabelle Marsala](http://www.isabelle-marsala.fr/) tiré au hasard [lors de la ZAL et suite à la conférence avec Nicolas Ancion](/2012/10/21/la-tragique-tragedie-du-livre/).
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/10/da71c63c1ac611e2a94522000a1d03ab_7-450x450.jpg)
+![](https://tcrouzet.com/images_tc/2012/10/da71c63c1ac611e2a94522000a1d03ab_7-450x450.jpg)
 
 Je n’ai jamais raconté ce qui m’est arrivé le 20 octobre 2012, de peur de paraître ridicule. Aujourd’hui, je suis assez vieux, assez méconnu, pour ne plus avoir d’inquiétude. J’avais donc été invité au détour d’une ruelle renaissance dans une salle voûtée aux allures de cathédrale souterraine. On y entrait par un patio, avec je crois un arbre, ou peut-être un arbuste planté dans un pot de terre cuite comme on en fabriquait encore à Anduze. Une antichambre précédait la grande salle en ogive, avec à l’extrémité une scène. Devant se pressait une foule hétéroclite vers laquelle je me dirigeais, attiré par un mouvement de convection, sans trop savoir où j’allais, à la recherche d’un visage familier qui pourrait m’accueillir.
 

@@ -1,6 +1,6 @@
 # Réécrire la constitution ne changera rien
 
-J'ai supposé qu'[il n'existait pas une cause des causes mais uniquement des causes communes](http://blog.tcrouzet.com/2013/02/04/causes-communes). Invariablement, ressurgit dans les réactions l'idée qu'il faut commencer la rénovation politique par tel ou tel endroit en priorité. La constitution pour les uns, la monnaie pour les autres…
+J'ai supposé qu'[il n'existait pas une cause des causes mais uniquement des causes communes](/2013/02/04/causes-communes). Invariablement, ressurgit dans les réactions l'idée qu'il faut commencer la rénovation politique par tel ou tel endroit en priorité. La constitution pour les uns, la monnaie pour les autres…
 
 Chacun défend son église. Je comprends que nous soyons les uns les autres plus attirés vers un domaine qu'un autre, mais faire de notre attirance un fondement logique à nos actes, et à ceux de la société est sans doute dangereux (et de même nature que le mal que nous voyons par ailleurs si clairement).
 

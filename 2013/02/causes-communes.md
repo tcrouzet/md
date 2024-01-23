@@ -34,7 +34,7 @@ Je vais me contenter d'évoquer quatre causes contemporaines qui pourraient joue
 
 ### 4. La complexité volontaire
 
-Pour accroître nos libertés, nous devons par tous les moyens, notamment l'interconnexion, accroître la complexité du système afin de le rendre incontrôlable par des entités centralisées. J'ai décrit ce combat dans [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/).
+Pour accroître nos libertés, nous devons par tous les moyens, notamment l'interconnexion, accroître la complexité du système afin de le rendre incontrôlable par des entités centralisées. J'ai décrit ce combat dans [*L'alternative nomade*](/alternative-nomade/).
 
 ### Un peu de logique
 

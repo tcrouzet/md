@@ -2,7 +2,7 @@
 
 Je ne suis pas l’actualité comme vous le savez et je viens juste d’apprendre la mort d’Antonioni et celle de Michel Serrault.
 
-![Par Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070808pacco.jpg)
+![Par Pacco](https://tcrouzet.com/images_tc/20070808pacco.jpg)
 
 Un peu triste, je lance une requête Antonioni sur Google. Je tombe sur [la note Wikipedia](http://fr.wikipedia.org/wiki/Michelangelo_Antonioni), sibylline, comme si Antonioni était un nain. En seconde position, il y a une brève du [Courrier International](http://www.courrierinternational.com/article.asp?obj_id=76447).
 

@@ -12,7 +12,7 @@ Ma façon d’écrire, de penser, est avant tout ludique. Il n’y a rien de sé
 
 Pourquoi vivons-nous sinon pour expérimenter et jouir ? Je ne vois aucune autre raison. Cela n’empêche pas de mener une vie morale, de vouloir le bien des autres, de se battre contre les oppresseurs, contre les destructeurs du monde, contre tous ceux qui veulent rendre le jeu désagréable pour le plus grand nombre, dans l’intention de mener leur partie à leur guise.
 
-[Raveline m’a fait m’interroger sur mes valeurs](http://blog.tcrouzet.com/2010/02/17/suis-je-apolitique/) qui ne peuvent exister dans le cadre de la complexité mouvante, sinon comme des moments. J’aurais dû parler du ludique. N’est-ce pas ma pseudo-valeur cardinale, celle qui dure depuis le plus longtemps pour moi ? Et si j’attache de l’importance à la liberté, c’est parce qu’elle est nécessaire au jeu. Et que si les autres sont aussi libres, le jeu est plus intéressant.
+[Raveline m’a fait m’interroger sur mes valeurs](/2010/02/17/suis-je-apolitique/) qui ne peuvent exister dans le cadre de la complexité mouvante, sinon comme des moments. J’aurais dû parler du ludique. N’est-ce pas ma pseudo-valeur cardinale, celle qui dure depuis le plus longtemps pour moi ? Et si j’attache de l’importance à la liberté, c’est parce qu’elle est nécessaire au jeu. Et que si les autres sont aussi libres, le jeu est plus intéressant.
 
 J’en arrive toujours à la même conclusion. L’art nous apprend plus sur les hommes que les théories des philosophes ou des sociologues. L’art nous parle de ce qui ne peut se dire, de ce qui ne peut s’objectiver. L’art donne à penser et à vivre en même temps, il ne sépare pas l’esprit et le corps. Il est une expérience totale avec laquelle l’intellection seule ne peut rivaliser.
 

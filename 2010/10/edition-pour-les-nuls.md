@@ -4,7 +4,7 @@ Au milieu des années 1990, j’avais un ami photographe à qui je conseillais s
 
 Nous en sommes aujourd’hui avec l’édition électronique dans la même situation que la photographie à la fin des années 1990. Dans dix ans, il n’y aura plus de papier, sinon chez quelque bouquinistes. Avec cette prévision, je me trompe peut-être de quelques années, guère plus. Bien sûr que des catastrophes peuvent tout remettre en cause, mais nous approchons du point de bascule.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/10/191181494_0fe83bdda91-450x337.jpg)
+![](https://tcrouzet.com/images_tc/2010/10/191181494_0fe83bdda91-450x337.jpg)
 
 Les éditeurs l’ont compris. [Ils paniquent](http://www.ebouquin.fr/2010/10/04/sne-un-vent-dautomne-souffle-sur-ledition-francaise/), faisant preuve d’un corporatisme affligeant. J’aime rappeler que quand on a peur du changement, on a la peur et le changement. Et ils ne le digéreront pas. Il leur restera en travers de la gorge.
 

@@ -12,6 +12,6 @@ En égoïste, je recherche plus de lumière pour moi. J’espère que cette quê
 
 Je demande un effort à mes lecteurs de circonstance, c’est qu’ils aient lu une bonne partie des textes qui précèdent. C’est la règle du jeu que je me fixe quand j’écris, que j’impose donc à ceux qui lisent et surtout à ceux qui commentent.
 
-C’est pour faciliter leur tâche que j’ai édité les [Version papier 2006](http://blog.tcrouzet.com/version-papier-2006/) et [2007](http://blog.tcrouzet.com/version-papier-2007/). Idéalement quand je monte ces textes j’aimerais devoir couper très peu de chose. Je pense mon blog comme un livre qu’on lirait depuis le début. Comme tout livre, on peut ouvrir mon blog au hasard mais il est pensé chronologiquement.
+C’est pour faciliter leur tâche que j’ai édité les [Version papier 2006](/version-papier-2006/) et [2007](/version-papier-2007/). Idéalement quand je monte ces textes j’aimerais devoir couper très peu de chose. Je pense mon blog comme un livre qu’on lirait depuis le début. Comme tout livre, on peut ouvrir mon blog au hasard mais il est pensé chronologiquement.
 
 Tags: noepub

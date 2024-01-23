@@ -30,7 +30,7 @@ On évoque la fin d’une époque, la crise, cette chose qui me trouble, et que 
 
 Que conclure après une heure au café ? Que tout va bien ou que l’effondrement menace ? L’inertie me paraît encore puissante. Tout pourrait perdurer longtemps, dans une illusion de stabilité.
 
-![Tentation dans une vitrine de Nancy.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/12/tentation1.jpg)
+![Tentation dans une vitrine de Nancy.](https://tcrouzet.com/images_tc/2014/12/tentation1.jpg)
 
 Tentation dans une vitrine de Nancy.
 

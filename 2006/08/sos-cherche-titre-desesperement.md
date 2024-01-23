@@ -1,6 +1,6 @@
 # SOS : cherche titre désespérément
 
-Pour mon livre sur [internet et la politique](http://blog.tcrouzet.com/2006/07/20/blogs-et-politique/), je n’ai pas encore trouvé de titre. Il me reste moins d’un mois pour me décider. Je suis preneur de toutes les idées. Voici en gros comment se structurera le livre.
+Pour mon livre sur [internet et la politique](/2006/07/20/blogs-et-politique/), je n’ai pas encore trouvé de titre. Il me reste moins d’un mois pour me décider. Je suis preneur de toutes les idées. Voici en gros comment se structurera le livre.
 
 1. Internet a influencé le référendum européen en 2005. J’évoquerai aussi la campagne US 2004.
 
@@ -38,7 +38,7 @@ Une dernière idée me vient : *Ménage à trois*. Dorénavant, la gauche et la
 
 J’espère que vous avez mieux.
 
-*PS1 : Certains pensent que le web n'est qu'un outil et qu'il ne change rien. Je crois que les outils changent tout justement. Le net nous apporte au moins une chose, c’est la compréhension des réseaux universellement présents dans la nature. Si internet n’existait pas, Strogatz, Barabási et Watts n’auraient pas effectué toutes leurs découvertes et notre vision du monde ne serait pas en train d’être bouleversée. Il est d’ailleurs dommage que leurs livres ne soient pas traduits en Français. Leur lecture m’a fait comprendre que nous pouvions organiser la société différemment. Il est vrai qu’internet n’est pas indispensable pour cette nouvelle organisation. Il a attiré notre attention vers des choses que nous n’avions pas su voir jusque là. Maintenant qu’il est là, il est juste un réseau de plus. J’ai tout de même tendance à le considérer plus* [*comme un territoire*](http://blog.tcrouzet.com/2006/07/12/internet-comme-territoire/) *que comme un simple média. J'espère trouver un titre qui traduira cette idée. J’aime bien Le cinquième pouvoir par exemple.*
+*PS1 : Certains pensent que le web n'est qu'un outil et qu'il ne change rien. Je crois que les outils changent tout justement. Le net nous apporte au moins une chose, c’est la compréhension des réseaux universellement présents dans la nature. Si internet n’existait pas, Strogatz, Barabási et Watts n’auraient pas effectué toutes leurs découvertes et notre vision du monde ne serait pas en train d’être bouleversée. Il est d’ailleurs dommage que leurs livres ne soient pas traduits en Français. Leur lecture m’a fait comprendre que nous pouvions organiser la société différemment. Il est vrai qu’internet n’est pas indispensable pour cette nouvelle organisation. Il a attiré notre attention vers des choses que nous n’avions pas su voir jusque là. Maintenant qu’il est là, il est juste un réseau de plus. J’ai tout de même tendance à le considérer plus* [*comme un territoire*](/2006/07/12/internet-comme-territoire/) *que comme un simple média. J'espère trouver un titre qui traduira cette idée. J’aime bien Le cinquième pouvoir par exemple.*
 
 *PS2 : Les citoyens peuvent aujourd’hui constituer un cinquième pouvoir. Comme je crois que nous ne pouvons plus exercer que le pouvoir au niveau local, il y aura de moins en moins de place pour les quatre autres.*
 

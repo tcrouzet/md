@@ -4,7 +4,7 @@ Quand je dis que je crois qu’il existe du hasard dans le monde, on me répond 
 
 Ai-je dis qu’il n’y avait que du hasard ? Et même si c’était le cas, les phénomènes émergeants nous montrent que, à partir du hasard, l’ordre peut apparaître. Dans le monde, il y a sans doute du hasard et aussi beaucoup d’ordre.
 
-[J’ai déjà parlé de temps à autres des coïncidences qui se produisent parfois dans nos vie.](http://blog.tcrouzet.com/2006/05/28/srendipit-naturelle/) Il m’est arrivé de me retrouver nez-à-nez dans le métro avec un de mes amis qui vit dans le Midi. En juin dernier, en rentrant de Suisse en TGV, quelqu’un m'a demandé si je ne m’étais pas trompé de place. J’ai levé la tête, c’était un de mes cousins. Nous avons éclaté de rire.
+[J’ai déjà parlé de temps à autres des coïncidences qui se produisent parfois dans nos vie.](/2006/05/28/srendipit-naturelle/) Il m’est arrivé de me retrouver nez-à-nez dans le métro avec un de mes amis qui vit dans le Midi. En juin dernier, en rentrant de Suisse en TGV, quelqu’un m'a demandé si je ne m’étais pas trompé de place. J’ai levé la tête, c’était un de mes cousins. Nous avons éclaté de rire.
 
 Durant mes études, un ami qui vivait à Montpellier me parla d’une anecdote semblable. Il se retrouva dans un supermarché new-yorkais face à son voisin auquel il n’avait jamais adressé la parole. Ils firent enfin connaissance.
 

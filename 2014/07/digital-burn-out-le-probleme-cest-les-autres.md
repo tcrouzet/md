@@ -12,11 +12,11 @@ Le temps réel des machines dominait mon temps biologique. Je tentais d’être 
 
 Je ne suis pas blogueur professionnel parce je ne gagne pas un rond avec mon blog. Je blogue pour échanger, pour partager, pour rencontrer. Je blogue parce je vois le monde en écrivant et qu’en publiant je suis forcé, peut-être, à plus de précision.
 
-J’ai commencé en 2005 lorsque j’ai terminé d’écrire [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/). J’avais encore des choses à dire. J’ai alors découvert que cette écriture ouverte engendrait sa propre forme, ses propres contenus, son propre rythme. J’ai depuis appelé ça [le Send](http://blog.tcrouzet.com/2013/11/24/la-send-generation-pecha-kucha-remix/)
+J’ai commencé en 2005 lorsque j’ai terminé d’écrire [*Le peuple des connecteurs*](/le-peuple-des-connecteurs/). J’avais encore des choses à dire. J’ai alors découvert que cette écriture ouverte engendrait sa propre forme, ses propres contenus, son propre rythme. J’ai depuis appelé ça [le Send](/2013/11/24/la-send-generation-pecha-kucha-remix/)
 
 — *Quel a été le déclic qui vous a poussé à débrancher pendant six mois ? Pourquoi un geste si radical ? Vous auriez pu choisir de limiter votre temps de connexion par exemple.*
 
-— Je raconte au début de [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/). Une peuso-crise cardiaque au milieu d’une nuit. Je me retrouve à l’hôpital. Tout va mieux et qu’est-ce que je fais ? Sur mon téléphone, je regarde mes mails, mon blog, Facebook, Twitter… Là, je me dis : « Est-ce la meilleure chose à faire au moment de ta mort ? » La réponse est évidente : « Non. »
+— Je raconte au début de [*J’ai débranché*](/jai-debranche/). Une peuso-crise cardiaque au milieu d’une nuit. Je me retrouve à l’hôpital. Tout va mieux et qu’est-ce que je fais ? Sur mon téléphone, je regarde mes mails, mon blog, Facebook, Twitter… Là, je me dis : « Est-ce la meilleure chose à faire au moment de ta mort ? » La réponse est évidente : « Non. »
 
 Je comprends à ce moment que je suis toxicomane. Certains allument cigarette sur cigarette sans en prendre conscience, moi je faisais pareil avec le Web. Je ne décidais plus. L’outil s’était emparé de moi. Je devais reprendre le contrôle de ma vie.
 
@@ -68,7 +68,7 @@ Je n’ai pas disparu de ce monde, mais je garde une distance prudente. Je m’e
 
 — Ça serait avec joie parce que l’ascèse est toujours enrichissante, peu importe à quoi on renonce. D’un autre côté, j’alterne désormais sans cesse les phases de connexion et de déconnexion. Je travaille ma pleine présence.
 
-![Facile de méditer dans ces conditions.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/bala.jpg)
+![Facile de méditer dans ces conditions.](https://tcrouzet.com/images_tc/2014/07/bala.jpg)
 
 Facile de méditer dans ces conditions.
 

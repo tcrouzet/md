@@ -1,6 +1,6 @@
 # Ératosthène 2007
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/beta/beta_couvbig.jpg)
+![](https://tcrouzet.com/images_tc/beta/beta_couvbig.jpg)
 
 Genre : roman historique, essai, je ne sais plus trop
 
@@ -27,4 +27,4 @@ C'est ainsi que je suis parti à la rencontre d'Ératosthène de Cyrène et du t
 
 Ératosthène, surtout connu pour sa mesure de la circonférence terrestre, fut en fait l’égal d’un Léonard de Vinci. Directeur de la bibliothèque d’Alexandrie, il imagina les livres tels que nous les connaissons. Mais, par-dessus tout, il conçut une philosophie de la liberté qui pourrait inspirer les hommes du vingt-et-unième siècle.
 
-Je n’ai pas écrit sa biographie mais j’ai réinventé sa vie sur un mode romanesque, intercalant le récit de mini-essais au sujet de notre époque et de la façon dont nous pouvons profiter de l’enseignement d’Ératosthène. Ce livre est avant tout un roman, mais aussi un essai, voire un documentaire. Il s’inscrit dans la continuité du [Peuple des connecteurs](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) (Bourin, 2006) et du [Cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/) (Bourin, 2007), montrant que les idées exprimées dans ces deux essais trouvent leur source loin dans l’antiquité grecque.
+Je n’ai pas écrit sa biographie mais j’ai réinventé sa vie sur un mode romanesque, intercalant le récit de mini-essais au sujet de notre époque et de la façon dont nous pouvons profiter de l’enseignement d’Ératosthène. Ce livre est avant tout un roman, mais aussi un essai, voire un documentaire. Il s’inscrit dans la continuité du [Peuple des connecteurs](/le-peuple-des-connecteurs/) (Bourin, 2006) et du [Cinquième pouvoir](/le-cinquieme-pouvoir/) (Bourin, 2007), montrant que les idées exprimées dans ces deux essais trouvent leur source loin dans l’antiquité grecque.

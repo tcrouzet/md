@@ -26,7 +26,7 @@ Une péniche s’est immobilisée au milieu du bleu, en apesanteur. J’imagine 
 
 Même les éoliennes au sommet des collines de la Moure ne bronchent pas. L’absolu calme après l’orage cataclysmique d’hier soir. Une giclée de bonheur dans les yeux. Une beauté d’égoïste pour égoïste.
 
-![L'orage avant le calme.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/nowp.jpg)
+![L'orage avant le calme.](https://tcrouzet.com/images_tc/2014/09/nowp.jpg)
 
 L'orage avant le calme.
 

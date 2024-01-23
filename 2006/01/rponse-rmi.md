@@ -1,6 +1,6 @@
 # Ne pas voter pour
 
-Pour certains, les réglementations émises par le pouvoir ont pour but de structurer la société. De fait mon « Ne pas voter », en sous-titre du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), viserait à déstabiliser cette structure. Ce raisonnement serait juste si les réglementations issues du pouvoir central étaient fécondes.
+Pour certains, les réglementations émises par le pouvoir ont pour but de structurer la société. De fait mon « Ne pas voter », en sous-titre du [*Peuple des connecteurs*](/le-peuple-des-connecteurs/), viserait à déstabiliser cette structure. Ce raisonnement serait juste si les réglementations issues du pouvoir central étaient fécondes.
 
 Je montre que ce n'est pas le cas ou, plutôt, de moins en moins le cas à cause de la complexité croissante de nos sociétés. Les vraies réglementations peuvent émerger d'elles-mêmes lorsque les agents autonomes que nous sommes s'auto-organisent au travers des réseaux sociaux. Elles n'ont pas besoin d'être émises par qui que ce soit, elles s'imposent d'elles-mêmes, par l'usage en quelque sorte. Et elles sont dynamiques, en remodelage permanent. La morale est par exemple une régulation émergente.
 

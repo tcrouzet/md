@@ -2,7 +2,7 @@
 
 L’action locale est supérieure à l’action globale parce que cette dernière est incapable de se confronter aux problèmes complexes. J’ai consacré plus de 100 pages du *peuple des connecteurs* à cette démonstration. Je sais qu’elle n’est pas intuitive mais elle est une des découvertes scientifiques les plus fondamentales de ces dernières années.
 
-Il est normal que beaucoup de gens ne soient pas convaincu par la nécessité d’une approche locale. S’ils l’étaient, si nous l’étions tous, nous vivrions dans un monde radicalement différent. Si cette idée d’action locale était évidente, j’aurais beaucoup moins de mal à me faire comprendre. Pour se familiariser avec cette idée, je crois qu’il faut lire [*The Tipping point*](http://blog.tcrouzet.com/2006/05/14/que-faire/), après on n’est plus tout à fait le même.
+Il est normal que beaucoup de gens ne soient pas convaincu par la nécessité d’une approche locale. S’ils l’étaient, si nous l’étions tous, nous vivrions dans un monde radicalement différent. Si cette idée d’action locale était évidente, j’aurais beaucoup moins de mal à me faire comprendre. Pour se familiariser avec cette idée, je crois qu’il faut lire [*The Tipping point*](/2006/05/14/que-faire/), après on n’est plus tout à fait le même.
 
 Nous avons du mal à penser local parce que nos démocraties ne jurent que par le global. En nous donnant un droit de vote épisodique, elles nous ont déresponsabilisés. Nous invoquons toujours l’aide de l’État plutôt que de nous retrousser les manches. En fait, nous nous disons qu’individuellement nous ne pouvons pas faire la différence. C’est une idée reçue. Nous sommes tout-puissants. Si tel n’était pas le cas, un même régime politique aurait perduré depuis le début de l’humanité.
 

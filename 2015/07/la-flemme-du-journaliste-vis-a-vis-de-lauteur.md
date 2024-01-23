@@ -8,7 +8,7 @@ Je perds patience quand on me parle de cette affaire. Je n’en peux plus de tou
 
 *— Pourquoi se lancer dans une digital detox ?*
 
-— Si vous aviez lu [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), troisième chapitre, Nuit de la Saint-Valentin, vous ne me poseriez pas cette question. Vous n’avez même pas d’excuses. [Cette partie du texte est disponible gratuitement dans toutes les librairies numériques.](http://blog.tcrouzet.com/2011/12/26/jai-debranche-extraits/) J’en déduis que vous avez décidé de m’interviewer sans même perdre deux secondes à me lire. Pour quelles raisons devrais-je moi même vous consacrer quelques minutes ? Parce que vous allez faire ma promotion, c’est ça ? Vous avez encore cette idée ringarde à l’esprit ? Je n’en ai rien à faire de la promotion. Je cherche juste à rencontrer des gens, à échanger avec eux. Alors écrivez un truc intéressant, faite marcher votre cerveau deux secondes et peut-être vous réveillerez quelques images dans la tête de vos lecteurs… sinon ne nous étonnez pas qu’ils soient de moins en moins nombreux.
+— Si vous aviez lu [*J’ai débranché*](/jai-debranche/), troisième chapitre, Nuit de la Saint-Valentin, vous ne me poseriez pas cette question. Vous n’avez même pas d’excuses. [Cette partie du texte est disponible gratuitement dans toutes les librairies numériques.](/2011/12/26/jai-debranche-extraits/) J’en déduis que vous avez décidé de m’interviewer sans même perdre deux secondes à me lire. Pour quelles raisons devrais-je moi même vous consacrer quelques minutes ? Parce que vous allez faire ma promotion, c’est ça ? Vous avez encore cette idée ringarde à l’esprit ? Je n’en ai rien à faire de la promotion. Je cherche juste à rencontrer des gens, à échanger avec eux. Alors écrivez un truc intéressant, faite marcher votre cerveau deux secondes et peut-être vous réveillerez quelques images dans la tête de vos lecteurs… sinon ne nous étonnez pas qu’ils soient de moins en moins nombreux.
 
 Tous les auteurs se plient à ce jeu des questions vides qui mènent à des articles vides, d’autant qu’il faut bien sûr être bref. Nous devrions refuser systématiquement ces mascarades. Primo pour le bien des journalistes, pour qu’ils arrêtent de se croire journalistes. Deuxio pour ne pas faire perdre de temps aux lecteurs. Tertio pour nous-mêmes parce que nous n’avons aucune raison de collaborer avec un système moribond, parce que nous n’avons pas à courir après de mièvres citations, parce que nous n’avons pas à édulcorer nos écrits. Nous ne devrions accepter que les questions surprenantes.
 
@@ -24,7 +24,7 @@ Si je n’avais pas débranché, je serais sans doute aujourd’hui incapable d�
 
 *PS2 : Interrogez-moi sur tous les autres sujets : [Le geste qui sauve](http://tcrouzet.com/le-geste-qui-sauve/), par exemple, bien plus important pour l'humanité que la digital-detox, ou sur la littérature, bien trop maltraitée en ce moment, ou sur notre Internet hubérisé et décadent.*
 
-![Mieux vaut lire des livres que des articles écrits par des robots.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/12/photo13.png)
+![Mieux vaut lire des livres que des articles écrits par des robots.](https://tcrouzet.com/images_tc/2011/12/photo13.png)
 
 Mieux vaut lire des livres que des articles écrits par des robots.
 

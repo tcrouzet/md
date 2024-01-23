@@ -6,7 +6,7 @@ En première approximation parce que, en y regardant de plus près, vous n’éc
 
 Mon blog ne peut pas être qualifié de non-marchand. Il implique un échange marchand indirect, mais échange tout de même, sinon je crèverais de faim. D’autre part, l’espace marchand devient de plus en plus difficile à circonscrire avec la multiplication des monnaies alternatives, certaines prenant en compte la notion de réputation, par exemple.
 
-Sur mon blog, je poursuis toutefois une activité qui ne participe ni à mon travail d’auteur, ni à ma réputation, ni ne génère de quelconques revenus : [je pense à mes photos](http://blog.tcrouzet.com/category/photoblog/). J’ai commencé à les publier pour tester un téléphone, puis j’ai continué parce qu’elles amusent certains de mes followers et les agacent aussi… eux souvent à Paris ou dans de grandes villes, et moi au bord de l’eau, à admirer des couchers de soleil.
+Sur mon blog, je poursuis toutefois une activité qui ne participe ni à mon travail d’auteur, ni à ma réputation, ni ne génère de quelconques revenus : [je pense à mes photos](/category/photoblog/). J’ai commencé à les publier pour tester un téléphone, puis j’ai continué parce qu’elles amusent certains de mes followers et les agacent aussi… eux souvent à Paris ou dans de grandes villes, et moi au bord de l’eau, à admirer des couchers de soleil.
 
 Mes photos s’inscrivent dans la sphère non-marchande plus que mes textes. C’est bien sûr une illusion. Si je ne gagne rien avec ces photos, d’autres gagnent avec. Je pense à Instagram, Facebook, Flickr… Nos contenus constituent leur richesse. Plus nous échangeons prétendument dans la sphère non-marchande, plus ils s’enrichissent, et démesurément. Le non-marchand entretenu par les plates-formes n’est qu’un non-marchand asymétrique, puisque nos échanges nourrissent les rapaces du capitalisme numérique.
 
@@ -18,9 +18,9 @@ Il existe aussi des échanges de type P2P d’œuvres du domaine public. Dans ce
 
 Pour un créateur, pratiquer le non-marchand reviendrait à être un Robin des Bois. Cette position exige un altruisme intégral et illusoire. Les sociologues comme Robert Axelrod ont découvert que l’altruisme était souvent réciproque. « Je t’aide parce que je sais que tu m’aides aussi. Aujourd’hui, je vais chasser parce que je sais que tu prépares mon pain pendant ce temps. » La réciprocité de l’altruisme le place immédiatement sur la sphère marchande. L’échange n’est pas monétaire, mais il pourrait toujours ou presque être monétisé.
 
-Voilà pourquoi je n’aime guère cette dénomination de « non-marchand ». Je lui préfère celui de « don » ou de « société du don » ou, comme je l’explique dans [*Le geste qui sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/), d’« économie de paix ». Un échange sans prédation. Sans asymétrie malveillante. Un échange qualitatif plus que quantitatif. Un échange qui n’implique pas une mesure, une évaluation, une comparaison.
+Voilà pourquoi je n’aime guère cette dénomination de « non-marchand ». Je lui préfère celui de « don » ou de « société du don » ou, comme je l’explique dans [*Le geste qui sauve*](/le-geste-qui-sauve/), d’« économie de paix ». Un échange sans prédation. Sans asymétrie malveillante. Un échange qualitatif plus que quantitatif. Un échange qui n’implique pas une mesure, une évaluation, une comparaison.
 
-Quand [Didier Pittet](http://blog.tcrouzet.com/le-geste-qui-sauve/) décide en 2006 d’offrir à l’humanité la formule du gel antibactérien, c’est pour se révolter contre les laboratoires et mille contraintes qui font que le gel est trop cher dans beaucoup de pays. Résultat, Didier sauve chaque année 8 millions de vies. Et ce n’est qu’un début. Voilà un acte de paix, mais difficilement qualifiable de non-marchand, puisque la renommée de Didier a augmenté, qu’on évoque son nom pour un prix Nobel de la Paix, et que des laboratoires se font de l’argent avec sa formule open source.
+Quand [Didier Pittet](/le-geste-qui-sauve/) décide en 2006 d’offrir à l’humanité la formule du gel antibactérien, c’est pour se révolter contre les laboratoires et mille contraintes qui font que le gel est trop cher dans beaucoup de pays. Résultat, Didier sauve chaque année 8 millions de vies. Et ce n’est qu’un début. Voilà un acte de paix, mais difficilement qualifiable de non-marchand, puisque la renommée de Didier a augmenté, qu’on évoque son nom pour un prix Nobel de la Paix, et que des laboratoires se font de l’argent avec sa formule open source.
 
 Seul le don qui n’entraîne pas de contre-don pourrait être qualifié de non-marchand. Hors de la sphère privée, ces échanges ne me paraissent pas innombrables. Wikipedia, peut-être, encore que les contributeurs se classent les uns les autres, s’attribuent des pouvoirs de roitelet, et donc tirent un bénéfice personnel de leurs contributions. Difficile de chasser la réciprocité, et puis, à quoi bon. Nous devons penser échanges pacifiés. Économie de paix.
 
@@ -34,7 +34,7 @@ Créateurs et receveurs poursuivent le même but, mais ne voient pas les choses 
 
 Quand j'apprécie un film, je le fais circuler pour faire du bien à mes amis. C'est un échange dans un cadre pacifié. De même quand je donne un texte, c'est pour n'exclure personne. Ces gestes sont tous deux pacifiques. Ils contribuent au développement de la longue traîne, une longue traîne que les chiffres de vente ne lisent pas.
 
-![Coucher de soleil sur l'étang de Thau, 30 janvier 2014](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/02/soleil.jpg)
+![Coucher de soleil sur l'étang de Thau, 30 janvier 2014](https://tcrouzet.com/images_tc/2014/02/soleil.jpg)
 
 Coucher de soleil sur l'étang de Thau, 30 janvier 2014
 

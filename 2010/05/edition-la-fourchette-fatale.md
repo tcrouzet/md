@@ -30,7 +30,7 @@ L’auteur à succès travaillera son texte en amont en collaboration avec d’a
 
 Les éditeurs, tels que nous les connaissons, n’auront plus qu’un rôle auprès des jeunes auteurs et de tous ceux qui ne vendent pas assez pour se vendre seuls. En l’absence dans leur écurie de gros vendeurs, ils auront de moins en moins les moyens d’imprimer des livres. Technologie couteuse qui implique une avance financière, une gestion des stocks et du pilonnage… Les éditeurs aussi n’auront d’autres choix que de favoriser le numérique.
 
-Un nouveau modèle, sur le principe de la coopération, ne peut que se mettre en place. [L’éditeur est indispensable dans la chaîne, en tant que formateur et spécialiste de la maïeutique littéraire.](http://blog.tcrouzet.com/2010/04/14/ce-que-les-auteurs-gagneront/) S’il veut jouer ce rôle, il doit se remettre à bosser avec les auteurs et ne pas tenter de leur imposer des droits numériques à 25 %. Des partenaires partagent. Et si l’éditeur travaille peu avec ses auteurs, il devra se contenter de peu, pas de l’essentiel. Ainsi, l’éditeur sera incubateur de talents et peut-être conservera la reconnaissance des auteurs confirmés.
+Un nouveau modèle, sur le principe de la coopération, ne peut que se mettre en place. [L’éditeur est indispensable dans la chaîne, en tant que formateur et spécialiste de la maïeutique littéraire.](/2010/04/14/ce-que-les-auteurs-gagneront/) S’il veut jouer ce rôle, il doit se remettre à bosser avec les auteurs et ne pas tenter de leur imposer des droits numériques à 25 %. Des partenaires partagent. Et si l’éditeur travaille peu avec ses auteurs, il devra se contenter de peu, pas de l’essentiel. Ainsi, l’éditeur sera incubateur de talents et peut-être conservera la reconnaissance des auteurs confirmés.
 
 ### Notes
 

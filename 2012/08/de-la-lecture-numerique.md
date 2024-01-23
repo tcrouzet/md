@@ -6,7 +6,7 @@ Quelles sensations nous procurent nos nouveaux papiers électroniques ? Que cha
 
 J’ai commencé à lire sur écran avec mes premiers écrans, mais plus intensément quand je suis devenu journaliste au début des années 1990. J’ai mangé beaucoup de PDF/HTML, mais je ne suis réellement un lecteur numérique que depuis que j’ai acheté ma première liseuse Sony en 2008.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/08/kindle.jpg)
+![](https://tcrouzet.com/images_tc/2012/08/kindle.jpg)
 
 C’était un appareil terne, peu contrasté, à l’ergonomie épouvantable. J’en ai changé chaque année, et aujourd’hui je lis presque exclusivement en numérique, sauf quand je ne trouve que des éditions papier (ce qui se produit encore trop souvent).
 
@@ -72,7 +72,7 @@ Avis aux psychologues en mal de sujet d’étude. Par le passé, les éditeurs a
 
 Peu à peu, ils sont devenus de plus en plus laxistes. Ils ont publié Musso, mais malgré Musso, ils ont continué à nous protéger du pire, auquel les ebooks nous exposent. Nous en avons la preuve. Maintenant que nous pouvons nous autopublier, tous les livres circulent. Et qu’est-ce qui a du succès ? De plus en plus souvent des livres que les éditeurs n’ont pas voulu. Des livres inimaginables.
 
-Les ebooks nous apprennent que les lecteurs veulent des textes écrits par des gens comme eux, des textes aux antipodes de la littérature, des textes d’amateurs souvent caricaturaux, c’est assez effrayant. Je pense bien sûr au succès planétaire de [Fifty Shades of Grey](http://blog.tcrouzet.com/2012/07/30/cinquante-nuances-de-grey/).
+Les ebooks nous apprennent que les lecteurs veulent des textes écrits par des gens comme eux, des textes aux antipodes de la littérature, des textes d’amateurs souvent caricaturaux, c’est assez effrayant. Je pense bien sûr au succès planétaire de [Fifty Shades of Grey](/2012/07/30/cinquante-nuances-de-grey/).
 
 > **Prospective** Les textes risquent d’être d’abord autopubliés avant que les éditeurs ne se saisissent de ceux qui marchent pour tenter de les faire mieux marcher. Le couple créatif éditeur/auteur risque bientôt de manquer d’énergie. Ce serait dommage. Le travail d’équipe a quelques vertus.
 

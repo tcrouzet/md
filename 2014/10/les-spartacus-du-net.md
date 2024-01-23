@@ -6,15 +6,15 @@
 
 C'est quoi déjà le capital ? Si on prend le capital dans son ancienne acceptation, en gros de capital financier/productif, la mutation est plutôt bien documentée. Les riches deviennent toujours plus riches, les pauvres toujours plus pauvres, avec un écart grandissant entre les uns et les autres.
 
-Pour la démonstration, voir [Piketty](http://blog.tcrouzet.com/tag/piketty/). Ou la dernière étude de l'ONG Oxfram qui [montre que les 67 plus riches possèdent autant que les 3,5 milliards les plus pauvres](http://www.humanite.fr/les-67-plus-riches-possedent-autant-que-les-35-milliards-plus-pauvres). L'année dernière, c'était les 85 plus riches qui réussissaient ce tour de force. Signification : le capital se centralise et ne se répartit pas équitablement entre tous.
+Pour la démonstration, voir [Piketty](/tag/piketty/). Ou la dernière étude de l'ONG Oxfram qui [montre que les 67 plus riches possèdent autant que les 3,5 milliards les plus pauvres](http://www.humanite.fr/les-67-plus-riches-possedent-autant-que-les-35-milliards-plus-pauvres). L'année dernière, c'était les 85 plus riches qui réussissaient ce tour de force. Signification : le capital se centralise et ne se répartit pas équitablement entre tous.
 
 Il en va de même avec le capital humain, avec d'un côté de plus en plus de chômeurs en même temps que des algorithmes et des robots travaillent à leur place, de l'autre, les serviteurs des riches, eux-mêmes en cours d'enrichissement.
 
 Riffkin parle d'un troisième capital, le capital social en partage, toutes ces choses qui circulent sur le Net, ou à l'aide du Net, et qui appartiennent à tout le monde. Ce domaine grandissant des biens communs.
 
-Cette vision reste idyllique. Sans argent en partage, nous n'aurons même plus les moyens de manger, et le Net sera le dernier de nos soucis. Pour cette raison, je défends l'idée d'un [revenu de base](http://blog.tcrouzet.com/tag/revenu-de-base/), c'est un prérequis que Riffkin et beaucoup d'ultralibéraux oublient. Si on passe sa vie à partager, on vit de quoi ?
+Cette vision reste idyllique. Sans argent en partage, nous n'aurons même plus les moyens de manger, et le Net sera le dernier de nos soucis. Pour cette raison, je défends l'idée d'un [revenu de base](/tag/revenu-de-base/), c'est un prérequis que Riffkin et beaucoup d'ultralibéraux oublient. Si on passe sa vie à partager, on vit de quoi ?
 
-Le Net devait décentraliser la société à tous les niveaux, il nous en donne techniquement les moyens, mais, dans la pratique, nous constatons le contraire. [Les plates-formes qui facilitent le partage centralisent le Net](http://blog.tcrouzet.com/2014/09/16/la-fin-de-lartisanat-numerique/) et les revenus générés. Sous le prétexte du 2.0, elles assèchent la société en se nourrissant sur notre dos. Si leurs opérateurs croyaient vraiment au partage, ils partageraient eux aussi, mais ils ne le font pas. « Faites ce que je dis, pas ce que je fais. »
+Le Net devait décentraliser la société à tous les niveaux, il nous en donne techniquement les moyens, mais, dans la pratique, nous constatons le contraire. [Les plates-formes qui facilitent le partage centralisent le Net](/2014/09/16/la-fin-de-lartisanat-numerique/) et les revenus générés. Sous le prétexte du 2.0, elles assèchent la société en se nourrissant sur notre dos. Si leurs opérateurs croyaient vraiment au partage, ils partageraient eux aussi, mais ils ne le font pas. « Faites ce que je dis, pas ce que je fais. »
 
 Pour le moment, le Net creuse la fracture sociale sous mes yeux atterrés.
 

@@ -1,6 +1,6 @@
 # Je suis un blogueur heureux
 
-[Ma mise en question de l’art du blog](http://blog.tcrouzet.com/2007/09/05/le-blog-est-mort-vive-le-blog/) ainsi que [ma réponse aux critiques](http://blog.tcrouzet.com/2007/09/06/non-le-blog-n%e2%80%99est-pas-mort/) a suscité quelques doutes chez certains lecteurs et blogueurs notamment chez [Michel Leblanc](http://www.michelleblanc.com/2007/09/06/le-blogue-est-mort/) et [Axel Karakartal](http://www.page2007.com/michel-leblanc-un-auteur-de-romans-moyen-vend-3000-livres-et-c%e2%80%99est-un-succes-de-librairie-un-blogueur-tres-moyen-a-3000-visites-par-mois/). Je voudrais préciser ma position à l’aide d’une interview imaginaire comme en faisait André Gide.
+[Ma mise en question de l’art du blog](/2007/09/05/le-blog-est-mort-vive-le-blog/) ainsi que [ma réponse aux critiques](/2007/09/06/non-le-blog-n%e2%80%99est-pas-mort/) a suscité quelques doutes chez certains lecteurs et blogueurs notamment chez [Michel Leblanc](http://www.michelleblanc.com/2007/09/06/le-blogue-est-mort/) et [Axel Karakartal](http://www.page2007.com/michel-leblanc-un-auteur-de-romans-moyen-vend-3000-livres-et-c%e2%80%99est-un-succes-de-librairie-un-blogueur-tres-moyen-a-3000-visites-par-mois/). Je voudrais préciser ma position à l’aide d’une interview imaginaire comme en faisait André Gide.
 
 *— Pourquoi un blogueur qui continue à bloguer annonce-t-il que le blog est mort ?*
 
@@ -8,7 +8,7 @@
 
 Pour moi, bloguer est un art et non pas un business. Je pense d’ailleurs que le blog comme business est aussi mort, toujours parce qu’il y a des nouveaux outils de viral marketing comme de travail de groupe.
 
-![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070908pacco.jpg)
+![Pacco](https://tcrouzet.com/images_tc/20070908pacco.jpg)
 
 *— N’allez-vous pas vous faire lyncher par les autres blogueurs ?*
 
@@ -30,7 +30,7 @@ D’ailleurs, je ne le pense même pas. Un blog est maintenant un site comme un 
 
 Je suis attaché à cette forme. Elle m’apporte beaucoup. D’une certaine façon, elle me procure de la joie. Je ne suis pas prêt à la lâcher.
 
-*— Pourquoi alors avez-vous généré une [version PDF de votre blog 2006](http://blog.tcrouzet.com/version-papier-2006/) ?*
+*— Pourquoi alors avez-vous généré une [version PDF de votre blog 2006](/version-papier-2006/) ?*
 
 — La forme blog est pratique pour ceux qui lisent quotidiennement ou débarquent au hasard sur un billet via les moteurs de recherche. C’est un mode de lecture attaché à l’instantanéité de la publication, mode de lecture proche de celui que nous pratiquons avec la presse. Les nouveaux articles viennent en quelque sorte effacer les anciens dans une course à la nouveauté.
 
@@ -48,7 +48,7 @@ Nous pouvons imaginer d’autres modes, en essayant de multiplier l’hypertextu
 
 L’encre électronique nous promet d’unir les deux mondes, et même le troisième que j’évoquais. Alors les livres papiers n’auront plus lieu d’être. C’est pour bientôt mais ce n’est pas encore là.
 
-J’ai lancé une maison d’édition en ligne en 2000 en croyant que cette technologie serait courante l’année suivante. Nous attendons encore mais, quand cette technologie arrivera, [le monde de l’édition sera aussi secoué que celui de la musique par le MP3](http://blog.tcrouzet.com/2006/03/31/e-book-touche-finale-linterconnexion/).
+J’ai lancé une maison d’édition en ligne en 2000 en croyant que cette technologie serait courante l’année suivante. Nous attendons encore mais, quand cette technologie arrivera, [le monde de l’édition sera aussi secoué que celui de la musique par le MP3](/2006/03/31/e-book-touche-finale-linterconnexion/).
 
 *— Vous avez affirmé qu’aucun blogueur n’avait jamais réussit ? Quel est votre étalon pour mesurer la réussite ?*
 

@@ -8,11 +8,11 @@ Dans les deux cas, je conclus que les réseaux sociaux actuels ne me rendent pas
 
 Malheureusement, je suis persuadé que seule l’action nous rend réellement heureux. La pornographie peut calmer quelques ardeurs mais faire l’amour c’est tout de même plus satisfaisant. Ça aussi on peut le généraliser. Les réseaux sociaux font de nous des pornographes.
 
-J’ai donc entrepris une démarche de « [slow connexion](http://blog.tcrouzet.com/tag/slow-connexion/) ». Pas question de quitter à nouveau le Web pour six mois ou plus longtemps. J’ai trop besoin de la mémoire de l’humanité, aussi d’interagir avec mes frères d’armes littéraires ou politiques, mes lecteurs, mes amis. Je veux rester prêt à l’action, je veux continuer à penser la transversalité, mais en me tenant à l’écart du bruit social où tout le monde veut briller, marquer des points, gagner de l’audience.
+J’ai donc entrepris une démarche de « [slow connexion](/tag/slow-connexion/) ». Pas question de quitter à nouveau le Web pour six mois ou plus longtemps. J’ai trop besoin de la mémoire de l’humanité, aussi d’interagir avec mes frères d’armes littéraires ou politiques, mes lecteurs, mes amis. Je veux rester prêt à l’action, je veux continuer à penser la transversalité, mais en me tenant à l’écart du bruit social où tout le monde veut briller, marquer des points, gagner de l’audience.
 
 Je vais limiter ma présence sociale, présence déjà bien minimale, les annonces de mes nouveaux billets étant publiées automatiquement par [IFTTT](https://ifttt.com). Je me contenterai de réagir quand je serai interpellé, ou quand une bouffée de rage m’emportera. Je ne ferme aucune porte, je me tiendrai simplement loin d’elles. Pour mesurer le succès de ma démarche, il suffira de suivre l’évolution de [mon score Klout](http://klout.com/#/crouzet).
 
-![klout](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/04/klout-500x229.jpg)
+![klout](https://tcrouzet.com/images_tc/2013/04/klout-500x229.jpg)
 
 Cette métrique a pour vertu de nous démontrer que pour exister sur le Web il suffit de multiplier les publications, aussi brèves soient-elles. C’est une simple évaluation de la présence médiatique, en aucune manière d’un quelconque tallent, sinon celui d’y passer beaucoup de temps ou de se faire seconder par un média qui nous appuie de la force de tous ses esclaves salariés ou affiliés.
 

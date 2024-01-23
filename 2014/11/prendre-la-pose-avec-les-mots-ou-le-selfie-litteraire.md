@@ -40,7 +40,7 @@ Trop de « Je », trop mal écrit, trop embrouillé… Trop gros, trop de chai
 
 Ils sont sans doute prêts à tout pour y gagner leur place, prêts à se conformer, à se nier en tant qu’être irréductible. Je n’ai jamais apprécié cet effort. Je trace ma route, et peu importe si elle déplaît à beaucoup, je vais là où je vis, pas là où les autres m’attendent, j’ai passé l’âge d’être le clown du village. C'est souvent difficile, même décourageant, mais il n'existe pas d'ailleurs.
 
-![Femme en noir](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/model.jpg)
+![Femme en noir](https://tcrouzet.com/images_tc/2014/11/model.jpg)
 
 
 

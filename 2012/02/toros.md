@@ -1,10 +1,10 @@
 # La menace de mort
 
-Alors que le 14 février 2011, j’étais à l’hôpital suite à [mon burn-out numérique](http://blog.tcrouzet.com/jai-debranche/), je n’ai pas pu m’empêcher de gribouiller sur un carnet une nouvelle vaguement tauromachique, sorte de critique métaphorique de notre société.
+Alors que le 14 février 2011, j’étais à l’hôpital suite à [mon burn-out numérique](/jai-debranche/), je n’ai pas pu m’empêcher de gribouiller sur un carnet une nouvelle vaguement tauromachique, sorte de critique métaphorique de notre société.
 
-Vous pouvez [la télécharger](http://blog.tcrouzet.com/la-menace-de-mort/) pour votre liseuse ou tablette ou la lire directement sur cette page.
+Vous pouvez [la télécharger](/la-menace-de-mort/) pour votre liseuse ou tablette ou la lire directement sur cette page.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/02/couv-350x534.png)
+![](https://tcrouzet.com/images_tc/2012/02/couv-350x534.png)
 
 Consciences, suis-je digne de m’adresser à vous ?
 

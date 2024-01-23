@@ -14,7 +14,7 @@ La fluidité du web est-elle trop « fluide » pour nous comme pour les lecteu
 
 On n’est pas pris au sérieux sur le Web parce qu’on n’a pas derrière nous de grands écrivains pure-players du Web, ça viendra après notre mort. Le monde littéraire vit avec le papier depuis des siècles, il faudra un peu de temps pour que les choses changent. On ne peut pas en vouloir aux gens d’être conservateurs (un peu tout de même), parce que si le monde n’était peuplé que d’aventuriers, ça serait un sacré foutoir.
 
-Ce qui compte pour nous, c’est que le papier et le web sont des supports d’écriture, avec des possibilités différentes, ce qui implique des pratiques littéraires différentes. Par exemple en ligne, ce que j’ai appelé le [Send](http://blog.tcrouzet.com/2013/11/24/la-send-generation-pecha-kucha-remix/), écrire et publier presque en même temps. Que tous les écrivains n’aient pas encore découverts toutes ces possibilités, c’est comme ça, ça ne nous empêche pas de travailler. OK, c’est frustrant de voir les ringards se prétendre contemporains, mais la mode a toujours un train de retard sur la création. Alors, soyons créateurs.
+Ce qui compte pour nous, c’est que le papier et le web sont des supports d’écriture, avec des possibilités différentes, ce qui implique des pratiques littéraires différentes. Par exemple en ligne, ce que j’ai appelé le [Send](/2013/11/24/la-send-generation-pecha-kucha-remix/), écrire et publier presque en même temps. Que tous les écrivains n’aient pas encore découverts toutes ces possibilités, c’est comme ça, ça ne nous empêche pas de travailler. OK, c’est frustrant de voir les ringards se prétendre contemporains, mais la mode a toujours un train de retard sur la création. Alors, soyons créateurs.
 
 Quand j’analyse mon écriture, je vois bien qu’elle se joue sur deux modes, guère compatibles.
 
@@ -24,9 +24,9 @@ Quand j’analyse mon écriture, je vois bien qu’elle se joue sur deux modes, 
 
 Ces deux modes sont praticables en théories sur le papier et le Web. Quand on publie un journal en livre, c’est bien une succession de fragments jetés jour après jour (et quand l’auteur est mort, il n’a même pas la possibilité de corriger). Il manque bien sûr le feedback immédiat des lecteurs, qui est essentiel au Web. Le papier autorise une forme atténuée du Send, de ce que tu pratiques, il me semble.
 
-La plupart des auteurs du papier travaillent dans le temps long. Nous pouvons faire de même sur le Web. Par exemple, ma nouvelle [*Les zombis du revenu inconditionnel*](http://blog.tcrouzet.com/2014/08/21/inconditionnel-ou-la-mort-au-temps-du-revenu-de-base/) est très courte, mais je l’ai pensée plusieurs jours avant de l’écrire sur deux jours, je l’ai laissé reposer, m’éloignant ainsi du pur Send.
+La plupart des auteurs du papier travaillent dans le temps long. Nous pouvons faire de même sur le Web. Par exemple, ma nouvelle [*Les zombis du revenu inconditionnel*](/2014/08/21/inconditionnel-ou-la-mort-au-temps-du-revenu-de-base/) est très courte, mais je l’ai pensée plusieurs jours avant de l’écrire sur deux jours, je l’ai laissé reposer, m’éloignant ainsi du pur Send.
 
-On peut imaginer publier au jour le jour des fragments sur un site privé, sans cesse les réorganiser, les reprendre, en ajouter, en supprimer, avant de tout libérer. Je crois que [François Bon](http://www.tierslivre.net/) fait ça dans sa cuisine. C’est aussi une écriture Web et elle peut être aussi fermée qu’un livre, sachant qu’on peut toujours ajouter quelque chose, même après publication, je l’ai fait avec [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).
+On peut imaginer publier au jour le jour des fragments sur un site privé, sans cesse les réorganiser, les reprendre, en ajouter, en supprimer, avant de tout libérer. Je crois que [François Bon](http://www.tierslivre.net/) fait ça dans sa cuisine. C’est aussi une écriture Web et elle peut être aussi fermée qu’un livre, sachant qu’on peut toujours ajouter quelque chose, même après publication, je l’ai fait avec [*Ératosthène*](/eratosthene/).
 
 Je vois encore un mérite au papier. Comme on ne peut pas y revenir, je suis beaucoup plus attentif, plus rigoureux, je bosse plus pour tout dire. Il n’en sera ainsi avec le Web qu’au moment justement où il aura le même statut symbolique que le papier.
 
@@ -62,7 +62,7 @@ Quand j’envoie tout de suite sur le blog, je peux ajouter d’autres billets, 
 
 Et puis, quand on écrit des histoires, et je pense que nous avons besoin d’histoires, ça prend du temps. Tu comprends souvent ce que tu veux faire que longtemps après avoir commencé, ce qui t’impose de tout reprendre. Il serait stupide de se couper de cette possibilité. En écrivant, des choses vraiment surprenantes surgissent qui en rendent d’autres beaucoup moins intéressantes.
 
-Pour [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/), j’ai mis beaucoup de temps à comprendre qu’il ne pouvait qu’être étroitement lié à Sosibe et Bérénice. J’ai même découvert l’existence de Sosibe après 2 ans de travail. Cet exemple suffit à montrer pourquoi on ne peut pas tout envoyer en ligne immédiatement. L’écriture est une recherche, on ne trouve pas toujours de suite.
+Pour [*Ératosthène*](/eratosthene/), j’ai mis beaucoup de temps à comprendre qu’il ne pouvait qu’être étroitement lié à Sosibe et Bérénice. J’ai même découvert l’existence de Sosibe après 2 ans de travail. Cet exemple suffit à montrer pourquoi on ne peut pas tout envoyer en ligne immédiatement. L’écriture est une recherche, on ne trouve pas toujours de suite.
 
 Je crois que ce processus est plus fondamental que le travail éditorial de finalisation, qui certes fait défaut sur le Web, mais juste par un manque de moyen. On peut imaginer que ça évoluera pour certains auteurs, pas pour tous. J’espère en tout cas, parce que c’est rudement agréable de bosser sur un texte avec des spécialistes.
 
@@ -96,9 +96,9 @@ Oui, c’est vrai cette histoire de distance. Je me livre plus facilement quand 
 
 J’ai patienté des années pour *Ératosthène* et j’ai moins de retours qu’avec un post écrit en 5 minutes. C’est une faiblesse de notre époque, et nous y répondons en tant qu’auteurs en pratiquant le Send, mais ce n’est pas forcément une bonne chose dans l’idée d’une œuvre. D’autant que comme tu le dis, il est difficile de revenir sur un post publié, il s’est fermé parce qu’il a été lu par d’autres, leur regard ferme, et c’est un peu pareil dans l’ancien monde du papier. C’est le passage à l’autre qui ferme l’œuvre, peut-être.
 
-J’ai expérimenté le versionning quand j’ai tenté d’écrire [*Le monde de i*](http://blog.tcrouzet.com/le-monde-de-i/). Échec total. J’ai épuisé les lecteurs et leurs retours ont brisé mon enthousiasme. Je ne recommencerai pas. Le travail collectif ne peut pas se jouer comme ça. Critiquer un texte n’est utile pour l’auteur qu’à la fin du processus créatif, quand il a tout donné. Si ça vient en cours de jeu, ça brouille tout. Le Send doit être définitif d’une certaine manière, et les retouches éventuelles invisibles, non notifiées aux lecteurs.
+J’ai expérimenté le versionning quand j’ai tenté d’écrire [*Le monde de i*](/le-monde-de-i/). Échec total. J’ai épuisé les lecteurs et leurs retours ont brisé mon enthousiasme. Je ne recommencerai pas. Le travail collectif ne peut pas se jouer comme ça. Critiquer un texte n’est utile pour l’auteur qu’à la fin du processus créatif, quand il a tout donné. Si ça vient en cours de jeu, ça brouille tout. Le Send doit être définitif d’une certaine manière, et les retouches éventuelles invisibles, non notifiées aux lecteurs.
 
-Le Send nous place sur un fil tendu. C’était pareil pour les feuilletonistes du XIX<sup>e</sup>. Une différence, c’est le retour possible et immédiat du lecteur, c’est là qu’il y a changement, et qu’il faut s’en saisir. Le Send va avec le feedback. Pas un feedback pour améliorer l’œuvre, mais pour influer sur son développement. J’ai appelé ça [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/). On te donne une idée, des faits, de la matière pour aller plus loin, pour aller ailleurs. J’aime, mais j’avoue que c’est beaucoup moins puissant aujourd’hui, parce que les réactions sont moins nombreuses, en tous cas les réactions qui impliquent un total engagement du commentateur.
+Le Send nous place sur un fil tendu. C’était pareil pour les feuilletonistes du XIX<sup>e</sup>. Une différence, c’est le retour possible et immédiat du lecteur, c’est là qu’il y a changement, et qu’il faut s’en saisir. Le Send va avec le feedback. Pas un feedback pour améliorer l’œuvre, mais pour influer sur son développement. J’ai appelé ça [*La stratégie du cyborg*](/la-strategie-du-cyborg/). On te donne une idée, des faits, de la matière pour aller plus loin, pour aller ailleurs. J’aime, mais j’avoue que c’est beaucoup moins puissant aujourd’hui, parce que les réactions sont moins nombreuses, en tous cas les réactions qui impliquent un total engagement du commentateur.
 
 Situation un peu délicate. Si les feedbacks essentiels au Send faiblissent, nous revenons dans la position du feuilletoniste. Il nous reste une nouveauté : nous publions quand nous le voulons, ce que nous voulons, avec une liberté totale (engager un éditeur dans le processus risquerait de briser cette liberté). Il faut espérer qu’elle nous pousse sur des territoires vierges. Enchaîner des fragments ou composer des séries ne me paraît pas suffisant. C’est la facilité, la recherche de la récompense immédiate, un comportement de toxicomane de l’écriture.
 
@@ -142,7 +142,7 @@ Je ne réfléchis jamais à l’écriture en terme de modèle économique. Sans 
 
 Pour nous, la chose nouvelle c’est cette possibilité d’expérimenter en même temps plusieurs modèles. Avec ou sans Ediror, avec ou sans Publisher. Je trouve ridicule de se fermer une porte, souvent par aigreur ou parce que tout simplement elle refuse de s’ouvrir. Il faut expérimenter, c’est ça l’écriture.
 
-![Book 8 par Brenda-Starr](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/book-600x212.jpg)
+![Book 8 par Brenda-Starr](https://tcrouzet.com/images_tc/2014/10/book-600x212.jpg)
 
 
 

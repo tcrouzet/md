@@ -8,7 +8,7 @@ En 1835, dans *De la démocratie en Amérique*, Tocqueville écrit :
 
 La domination par le haut est rarement au début d’une aventure sociale. Si Tocqueville croit que la politique a commencé par le haut en Europe, c'est parce qu’il n’a pas vu naître les nations européennes. Lorsqu’il écrit, elles ont depuis longtemps oublié leurs origines non pyramidales.
 
-Comme le montre Peter Turchin dans [*War And Peace And War*](http://blog.tcrouzet.com/2006/04/17/nouvel-empire/), les nations européennes se sont construites sur les marges de l’Empire romain grâce à des aventuriers qui, eux aussi, privilégiaient le bottom-up. Il leur conférait plus de souplesse que le top-down sclérosé appliqué par les fonctionnaires romains.
+Comme le montre Peter Turchin dans [*War And Peace And War*](/2006/04/17/nouvel-empire/), les nations européennes se sont construites sur les marges de l’Empire romain grâce à des aventuriers qui, eux aussi, privilégiaient le bottom-up. Il leur conférait plus de souplesse que le top-down sclérosé appliqué par les fonctionnaires romains.
 
 Alors qu’au XIX<sup>e</sup> siècle, pour Tocqueville, le bottom-up est encore manifeste en Amérique, il est à nos yeux déjà moins évident, surtout lorsque nous observons les dérives impérialistes d’un Bush. Nous sentons toutefois que les initiatives individuelles sont encore favorisées en Amérique, mais la différence avec l’Europe s’atténue. L’Amérique adopte aujourd’hui de plus en plus des politiques top-down même si la liberté d’entreprendre est encore mise en avant.
 

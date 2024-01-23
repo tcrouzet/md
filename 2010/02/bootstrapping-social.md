@@ -1,6 +1,6 @@
 # Bootstrapping social
 
-Dans *Le peuple des connecteurs*, j’avais montré que les gouvernements ne pouvaient pas faire grand-chose pour régler la crise de la complexité. Dans [*Alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), je pars du constat qu’ils ne font rien pour régler la crise climatique. En conséquence, si l’action directe sur l’ensemble de la société semble bouchée, tout au moins inefficace, il nous reste à user de notre liberté individuelle.
+Dans *Le peuple des connecteurs*, j’avais montré que les gouvernements ne pouvaient pas faire grand-chose pour régler la crise de la complexité. Dans [*Alternative nomade*](/alternative-nomade/), je pars du constat qu’ils ne font rien pour régler la crise climatique. En conséquence, si l’action directe sur l’ensemble de la société semble bouchée, tout au moins inefficace, il nous reste à user de notre liberté individuelle.
 
 Ceux qui n’ont pas le courage de se remettre en question me répondent alors que j’ai une vision idéale des hommes, que je suis trop optimiste, que je place trop d’espoirs en notre capacité de nous réformer. Je crois au contraire que je suis plutôt réaliste.
 

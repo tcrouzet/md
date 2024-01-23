@@ -18,6 +18,6 @@ Et j'avoue préférer votre non monsieur le président, à un oui qui aurait pr�
 
 [Signez la pétition...](https://www.change.org/p/fran%C3%A7ois-hollande-pr%C3%A9sident-de-la-r%C3%A9publique-donnez-l-asile-%C3%A0-snowden-et-assange?recruiter=30836476&utm_source=share_petition&utm_medium=copylink)
 
-![Julian Assange en août 2014.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/07/RUEDA_DE_PRENSA_CONJUNTA_ENTRE_CANCILLER_RICARDO_PATIÑO_Y_JULIAN_ASSANGE-600x400.jpg)
+![Julian Assange en août 2014.](https://tcrouzet.com/images_tc/2015/07/RUEDA_DE_PRENSA_CONJUNTA_ENTRE_CANCILLER_RICARDO_PATIÑO_Y_JULIAN_ASSANGE-600x400.jpg)
 
 Tags: Politique, une

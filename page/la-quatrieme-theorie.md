@@ -62,11 +62,11 @@ Tous recherchent Jos. Terroriste pour les uns, prophète d’une nouvelle humani
 
 ### Petit historique
 
-J'ai écrit ce roman comme une série de 5200 tweets postés entre le 25 décembre 2008 et le 1<sup>er</sup> avril 2010 ([histoire détaillée](/la-quatrieme-theorie/la-quatrieme-theorie-historique/)). Tous les tweets sont disponibles sur [@tcrouzet](http://twitter.com/tcrouzet). J'ai publié [plusieurs articles sur *La quatrième théorie*](http://blog.tcrouzet.com/tag/twiller/) ou [la twittérature](/la-quatrieme-theorie/la-quatrieme-theorie-liens/).
+J'ai écrit ce roman comme une série de 5200 tweets postés entre le 25 décembre 2008 et le 1<sup>er</sup> avril 2010 ([histoire détaillée](/la-quatrieme-theorie/la-quatrieme-theorie-historique/)). Tous les tweets sont disponibles sur [@tcrouzet](http://twitter.com/tcrouzet). J'ai publié [plusieurs articles sur *La quatrième théorie*](/tag/twiller/) ou [la twittérature](/la-quatrieme-theorie/la-quatrieme-theorie-liens/).
 
 ### Mots-clés
 
-Thriller, Oulipo, SF, Polar, [Twittérature](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/), Liberté, Tyrannie, Démocratie, Capitalisme, Crise, Réseau, Hiérarchie, Matérialisme, Essentialisme, [Revenu de base](http://blog.tcrouzet.com/tag/dividende-universel/), Auto-organisation, Intelligence collective, Complexité, Croisés, Freemen, Chrétiens, Musulmans, Hackers, Illuminés, Assassins, Cyborgs, Superorganisme, Transhumanisme, Écologie, IA, Open Source, Internet, Amour, Espoir, Passion, Révolution...
+Thriller, Oulipo, SF, Polar, [Twittérature](/la-quatrieme-theorie/la-quatrieme-theorie-liens/), Liberté, Tyrannie, Démocratie, Capitalisme, Crise, Réseau, Hiérarchie, Matérialisme, Essentialisme, [Revenu de base](/tag/dividende-universel/), Auto-organisation, Intelligence collective, Complexité, Croisés, Freemen, Chrétiens, Musulmans, Hackers, Illuminés, Assassins, Cyborgs, Superorganisme, Transhumanisme, Écologie, IA, Open Source, Internet, Amour, Espoir, Passion, Révolution...
 
 ### Fiche produit
 

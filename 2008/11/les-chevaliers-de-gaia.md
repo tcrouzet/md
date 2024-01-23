@@ -4,7 +4,7 @@
 
 > C’est en nous libérant du néolibéralisme et en embrassant un keynésianisme d’un genre nouveau que nous pouvons nous libérer de la prison de la crise triangulaire \[sociale, économique, écologique\].
 
-Malheureusement, le keynésianisme nouveau ou pas reste englué dans l’ancien paradigme à la source de tous nos maux. Je ne crois pas à cette solution, même si je conçois qu’elle peut nous faire progresser sur le bon chemin. Au mieux, c’est une politique de transition. [J'ai alors poursuivi mon dialoguie avec Susan.](http://blog.tcrouzet.com/2008/11/19/the-tipping-point/)
+Malheureusement, le keynésianisme nouveau ou pas reste englué dans l’ancien paradigme à la source de tous nos maux. Je ne crois pas à cette solution, même si je conçois qu’elle peut nous faire progresser sur le bon chemin. Au mieux, c’est une politique de transition. [J'ai alors poursuivi mon dialoguie avec Susan.](/2008/11/19/the-tipping-point/)
 
 ### Lettre à Susan George
 

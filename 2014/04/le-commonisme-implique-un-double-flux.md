@@ -1,10 +1,10 @@
 # Le commonisme implique un double-flux
 
-Michel Bauwens vient de publier un article [From the Communism of Capital to a Capital for the Commons](http://blog.p2pfoundation.net/from-the-communism-of-capital-to-a-capital-for-the-commons/2014/03/22) qui fait écho à mon [Grand siphonnage des biens communs](http://blog.tcrouzet.com/2014/01/23/le-grand-siphonnage-des-biens-communs/). Le constat est simple : des entreprises s’emparent des biens communs pour maximiser leurs revenus, parmi les biens communs on trouve notamment les ressources librement distribuées sur le Net, Linux par exemple. Le flux est quasiment à sens unique, des communautés libristes vers les capitalistes, ces derniers s’enrichissent tout en oubliant de redistribuer leurs richesses. Il est temps d’activer le flux retour, sinon la machine explosera.
+Michel Bauwens vient de publier un article [From the Communism of Capital to a Capital for the Commons](http://blog.p2pfoundation.net/from-the-communism-of-capital-to-a-capital-for-the-commons/2014/03/22) qui fait écho à mon [Grand siphonnage des biens communs](/2014/01/23/le-grand-siphonnage-des-biens-communs/). Le constat est simple : des entreprises s’emparent des biens communs pour maximiser leurs revenus, parmi les biens communs on trouve notamment les ressources librement distribuées sur le Net, Linux par exemple. Le flux est quasiment à sens unique, des communautés libristes vers les capitalistes, ces derniers s’enrichissent tout en oubliant de redistribuer leurs richesses. Il est temps d’activer le flux retour, sinon la machine explosera.
 
 Michel Bauwens suggère l’adoption de la [Peer Production License](http://p2pfoundation.net/Peer_Production_License) imaginée par Dmytri Kleiner. Si je diffuse un texte sous cette licence, les éditeurs qui voudraient le distribuer devraient me rémunérer en retour. Aujourd’hui, je simule cette licence en choisissant une Creative Commons Non Commerciale et, au cas par cas, en accordant des droits commerciaux à certains éditeurs. Je force le flux retour.
 
-Ce flux du libre vers le capitalisme et réciproquement est ce que j’appelle l’économie de paix dans [*Le geste qui sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/). Un exemple de cette économie :
+Ce flux du libre vers le capitalisme et réciproquement est ce que j’appelle l’économie de paix dans [*Le geste qui sauve*](/le-geste-qui-sauve/). Un exemple de cette économie :
 
 1. Didier Pittet montre que l’hygiène des mains avec une solution hydro-alcoolique divise par deux l’incidence des maladies nosocomiales.
 
@@ -26,7 +26,7 @@ Ce flux du libre vers le capitalisme et réciproquement est ce que j’appelle l
 
 Ce mécanisme apparaîtra j’espère plus clairement dans le livre. Mais vous voyez que nous avons des entreprises privées qui sur le marché des solutions hydro-alcooliques ont abandonné l’économie de prédation pour une économie de coopération qui implique un flux retour. Cela s’est effectué sans licence, mais avec l’omniprésence de Didier, servant sans cesse de garde-fou et de garant de l’éthique.
 
-![Peer Production License.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/PeerProduction2.png)
+![Peer Production License.](https://tcrouzet.com/images_tc/2014/04/PeerProduction2.png)
 
 Peer Production License.
 

@@ -40,7 +40,7 @@ L’effondrement n’est pas souhaitable. Beaucoup d’hommes politiques aimerai
 
 ### Interlude
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/2087369666_569a2afd8a1-450x337.jpg)
+![](https://tcrouzet.com/images_tc/2011/01/2087369666_569a2afd8a1-450x337.jpg)
 
 Dans l’histoire les structures de pouvoir existantes ont souvent été remises en cause pour presque toujours conduire à des structures de pouvoir comparables. Avant, on avait une structure pyramidale, après aussi. Processus merveilleusement décrit dans *Le Guépard*.
 

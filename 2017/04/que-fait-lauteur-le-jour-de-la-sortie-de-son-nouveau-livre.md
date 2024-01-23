@@ -1,6 +1,6 @@
 # Que fait l’auteur le jour de la sortie de son nouveau livre ?
 
-Une réponse cynique, mais réaliste, serait : rien. En fait, j’ai tout connu. La course de radio en TV pour [*J’ai débranché*](http://tcrouzet.com/jai-debranche/) en 2012, un simple passage sur France Culture avec un article dans *Le monde des livres* pour [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) en 2013, le silence médiatique pour mon cher [*Ératosthène*](http://tcrouzet.com/eratosthene/) en 2014, à peine ébruité par quelques amis blogueurs.
+Une réponse cynique, mais réaliste, serait : rien. En fait, j’ai tout connu. La course de radio en TV pour [*J’ai débranché*](http://tcrouzet.com/jai-debranche/) en 2012, un simple passage sur France Culture avec un article dans *Le monde des livres* pour [*La quatrième théorie*](/la-quatrieme-theorie/) en 2013, le silence médiatique pour mon cher [*Ératosthène*](http://tcrouzet.com/eratosthene/) en 2014, à peine ébruité par quelques amis blogueurs.
 
 Alors pour [*Résistants*](http://tcrouzet.com/resistants/), je suis stoïque, chez moi, face à l’étang balayé par le mistral. Mais je ne suis pas resté inactif. Voici ce qu’un auteur peut faire (on me pose souvent la question), sans que je sois certain que ça serve à quelque chose.
 

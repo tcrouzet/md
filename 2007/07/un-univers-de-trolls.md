@@ -1,6 +1,6 @@
 # Un univers de trolls
 
-Je suis en train de lire [The Cult of the Amateur](http://www.amazon.fr/Cult-Amateur-Internet-Killing-Culture/dp/0385520808/ref=sr_1_1), un essai qui critique la génération participation à la mode web 2.0. Les interrogations d’Andrew Keen répondent à [certaines de mes craintes du moment](http://blog.tcrouzet.com/2007/07/09/hypercentralisation/). Après l’enthousiasme, il est parfois bon de prendre du recul.
+Je suis en train de lire [The Cult of the Amateur](http://www.amazon.fr/Cult-Amateur-Internet-Killing-Culture/dp/0385520808/ref=sr_1_1), un essai qui critique la génération participation à la mode web 2.0. Les interrogations d’Andrew Keen répondent à [certaines de mes craintes du moment](/2007/07/09/hypercentralisation/). Après l’enthousiasme, il est parfois bon de prendre du recul.
 
 Aujourd’hui, sur le web, tout le monde peut tout dire, tout montrer, tout voir… spectateur et auteur fusionnent dans cet âge du peer-to-peer.
 

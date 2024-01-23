@@ -6,7 +6,7 @@ Comme je ne suis pas chez moi et que je travaille, si on peut dire, sur mon port
 
 Surprise : plus de 8 600 personnes lisent (ou tout au moins ouvrent tous les billets que je publie – peut-être via leur agrégateur en fait – j’ai 5 600 abonnés). Je n’accorde donc pas trop de valeur à ces chiffres.
 
-Si je reprends les critères de Narvic, un fidèle revient au moins une fois par mois (peut-être pour lire plusieurs billets, ce que je fais souvent sur les blogs), je totalise 25 000 fidèles. Je trouve juste amusant que ce chiffre diffère peu de [celui obtenu en essayant de mesurer l’équivalent livres de mon blog](http://blog.tcrouzet.com/2010/03/07/le-blog-forme-majeure/).
+Si je reprends les critères de Narvic, un fidèle revient au moins une fois par mois (peut-être pour lire plusieurs billets, ce que je fais souvent sur les blogs), je totalise 25 000 fidèles. Je trouve juste amusant que ce chiffre diffère peu de [celui obtenu en essayant de mesurer l’équivalent livres de mon blog](/2010/03/07/le-blog-forme-majeure/).
 
 En tous cas, quel que soit votre nombre, merci de votre fidélité (à en croire certains, vous ne manquez pas de courage).
 
@@ -14,7 +14,7 @@ En tous cas, quel que soit votre nombre, merci de votre fidélité (à en croire
 
 *PS2 : La nuit porte conseil. Ces chiffres sont foireux. Ils voudraient dire qu'au moins 8 000 personnes lisent chacun de mes billets. Ce n'est pas le cas suivant les pages vues. Incohérence.*
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/03/stats.png)
+![](https://tcrouzet.com/images_tc/2010/03/stats.png)
 
 
 

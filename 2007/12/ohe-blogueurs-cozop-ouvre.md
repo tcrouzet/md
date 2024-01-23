@@ -2,9 +2,9 @@
 
 
 
-![cozop-ouvre.gif](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/12/cozop-ouvre.gif)
+![cozop-ouvre.gif](https://tcrouzet.com/images_tc/2007/12/cozop-ouvre.gif)
 
-En septembre 2006, je m’étais dis que nous pouvions [récupérer l’argent des blogueurs](http://blog.tcrouzet.com/2006/09/27/l%e2%80%99argent-des-blogueurs/) pour financer des associations humanitaires, des fondations, des projets, soutenir les auteurs attaqués en justice…
+En septembre 2006, je m’étais dis que nous pouvions [récupérer l’argent des blogueurs](/2006/09/27/l%e2%80%99argent-des-blogueurs/) pour financer des associations humanitaires, des fondations, des projets, soutenir les auteurs attaqués en justice…
 
 Comme bien d’autres, cette idée est restée en stand by jusqu’au printemps dernier, jusqu’à ce qu’après la présidentielle une sorte d’accalmie se soit emparée de la blogosphère. Je me suis alors dit que nous devions nous auto-motiver.
 

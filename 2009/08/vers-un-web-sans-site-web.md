@@ -2,7 +2,7 @@
 
 
 
-![flux](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/flux.jpg)
+![flux](https://tcrouzet.com/images_tc/2009/08/flux.jpg)
 
 Les sites web ont été imaginés pour stocker des informations et les afficher à travers des navigateurs. Ce fut une révolution, notamment grâce à l’hypertexte décentralisé, mais aussi une façon de traduire à l’écran ce que nous connaissions sur le papier. Il suffit de voir à quoi ressemblent encore les sites des journaux (où même les blogs). À des journaux traditionnels ! Très loin du look Google ou des services 2.0 les plus avancés. On reste dans l’ancien monde de Gutenberg.
 

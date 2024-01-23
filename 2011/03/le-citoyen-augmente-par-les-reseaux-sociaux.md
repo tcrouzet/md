@@ -1,6 +1,6 @@
 # Le citoyen augmenté par les réseaux sociaux
 
-Canevas de mon intervention lors de [la journée Marseille 2.0](http://marseille20.capitale.pro/les-conferences-de-marseille-20-gouverner-20), dernière conférence avant ma [déconnexion totale](http://blog.tcrouzet.com/2011/03/18/je-ferme-mon-blog/).
+Canevas de mon intervention lors de [la journée Marseille 2.0](http://marseille20.capitale.pro/les-conferences-de-marseille-20-gouverner-20), dernière conférence avant ma [déconnexion totale](/2011/03/18/je-ferme-mon-blog/).
 
 ### Churchill ne s'est pas trompé
 
@@ -22,9 +22,9 @@ Le sociologue Vincenzo Susca fait culminer le mythe de la représentation avec l
 
 La représentation n’est concevable que dans une société qui célèbre l’individualisme. Si je suis moi-même un individu fort, je veux voir un individu fort prendre les rênes du pouvoir en mon nom.
 
-En introduction du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), j’ai affirmé que cette époque de l’individualisme dominant était derrière nous. À force de nous interconnecter, de partager avec les autres, nous nous éloignerions de l’individualisme pour devenir des êtres réseaux, des cyborgs comme je le dis aujourd’hui.
+En introduction du [*Peuple des connecteurs*](/le-peuple-des-connecteurs/), j’ai affirmé que cette époque de l’individualisme dominant était derrière nous. À force de nous interconnecter, de partager avec les autres, nous nous éloignerions de l’individualisme pour devenir des êtres réseaux, des cyborgs comme je le dis aujourd’hui.
 
-Nous sommes hautement individués, c'est-à-dire différents les uns des autres, mais en même temps nous n’existons pas sans les uns et les autres. Pour des êtres réseaux, la représentation n’a aucun sens. C’est un concept dépassé. Un individu seul ne représente rien, sinon des intérêts particuliers. C’est pour cette raison que j’ai parlé de l’émergence d’un [cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/) : une force décentralisée d’organisation interne de la société.
+Nous sommes hautement individués, c'est-à-dire différents les uns des autres, mais en même temps nous n’existons pas sans les uns et les autres. Pour des êtres réseaux, la représentation n’a aucun sens. C’est un concept dépassé. Un individu seul ne représente rien, sinon des intérêts particuliers. C’est pour cette raison que j’ai parlé de l’émergence d’un [cinquième pouvoir](/le-cinquieme-pouvoir/) : une force décentralisée d’organisation interne de la société.
 
 ### La démocratie ne favorise pas l’intelligence
 
@@ -60,7 +60,7 @@ Pour s’échapper de la représentation qui bride l’intelligence collective e
 
 Plus nous complexifions, plus nous rendons le contrôle difficile, plus nous augmentons nos libertés... libertés dans nos têtes, liberté de penser, aussi liberté d'agir et donc de mettre en œuvre nos idées.
 
-Comment complexifier ? Si nous établissons de plus en plus de connexions avec de plus en plus d’interlocuteurs, nous complexifions le graphe social. Il ne s’agit pas juste de multiplier le nombre de ses amis sur les réseaux sociaux, il faut aussi animer les connexions, les faire vivre comme je l’explique dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/).
+Comment complexifier ? Si nous établissons de plus en plus de connexions avec de plus en plus d’interlocuteurs, nous complexifions le graphe social. Il ne s’agit pas juste de multiplier le nombre de ses amis sur les réseaux sociaux, il faut aussi animer les connexions, les faire vivre comme je l’explique dans [*L’alternative nomade*](/alternative-nomade/).
 
 La plupart des socionautes ont peu de conscience politique. La plupart ne cherchent pas à étendre leur réseau. Très peu franchissent la limite de Dunbar (150 connexions). Ma proposition n’est donc pas implicite.
 
@@ -78,11 +78,11 @@ Tenter de simplifier la société par la force ne fera pas disparaître les prob
 
 Nous devons poursuivre sur la route de la complexification, une complexification qui ne cesse de se déployer depuis l’origine du vivant.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/03/demopop1.png)
+![](https://tcrouzet.com/images_tc/2011/03/demopop1.png)
 
-J’aime rappeler que la croissance de la complexité est concomitante avec la croissance de la liberté. La synchronicité des deux courbes n’est pas une coïncidence, mais la conséquence de ce que j’ai appelé dans [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) le cycle de transformation.
+J’aime rappeler que la croissance de la complexité est concomitante avec la croissance de la liberté. La synchronicité des deux courbes n’est pas une coïncidence, mais la conséquence de ce que j’ai appelé dans [*L'alternative nomade*](/alternative-nomade/) le cycle de transformation.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/03/cycle2.png)
+![](https://tcrouzet.com/images_tc/2011/03/cycle2.png)
 
 
 

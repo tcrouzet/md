@@ -44,6 +44,6 @@ N’oublions jamais que, si l’évolution ne s’était pas donnée carte blanc
 
 Pourquoi s'attaquer internet et pas aux autres médias ? Parce qu’internet n’est pas contrôlé par une minorité et n’est pas contrôlable. Alors on veut s’attaquer à ce monstre qui ressemble d’ailleurs à nos adolescents qui échappent peu à peu à leurs parents. C’est justement la condition de l’émancipation.
 
-Je trouve déplorable que ces tentatives de suicide, évènement douloureux pour les familles, soient utilisées afin de régler des comptes d’un enjeu planétaire. Je suis conforté dans l’idée que [la guerre a commencé](http://blog.tcrouzet.com/2007/05/20/integrisme-ou-ecologie-faut-choisir/).
+Je trouve déplorable que ces tentatives de suicide, évènement douloureux pour les familles, soient utilisées afin de régler des comptes d’un enjeu planétaire. Je suis conforté dans l’idée que [la guerre a commencé](/2007/05/20/integrisme-ou-ecologie-faut-choisir/).
 
-*PS : Et si je parle de cette affaire c'est parce que je ne peux pas me taire ([référence mes propos sur le succès des blogs](http://blog.tcrouzet.com/2007/05/26/comment-booster-un-blog/)).*
+*PS : Et si je parle de cette affaire c'est parce que je ne peux pas me taire ([référence mes propos sur le succès des blogs](/2007/05/26/comment-booster-un-blog/)).*

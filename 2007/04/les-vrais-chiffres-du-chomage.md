@@ -2,7 +2,7 @@
 
 Pourquoi tous les chiffres produits par les fonctionnaires ne sont-ils pas publics ? Pourquoi les données brutes, avant analyse, ne sont-elles pas accessibles ? Pourquoi certains petits fonctionnaires en chef se donnent-ils du pouvoir en faisant régner la censure ? En conséquence de quoi les rumeurs ne cessent de circuler. Beaucoup de gens perdent un temps fou à commenter des fausses informations ou faire des plans sur la comète. En parallèle, nos politiciens s’entre-déchirent sur du vent.
 
-Si nous disposions de tous les chiffres, nombre de débats n’auraient pas lieu et nombre de problèmes seraient plus simples à résoudre. La transparence [qui devient une arme économique](http://blog.tcrouzet.com/2007/01/09/wikinomics/) devrait aussi devenir une règle de gouvernance.
+Si nous disposions de tous les chiffres, nombre de débats n’auraient pas lieu et nombre de problèmes seraient plus simples à résoudre. La transparence [qui devient une arme économique](/2007/01/09/wikinomics/) devrait aussi devenir une règle de gouvernance.
 
 Un ami qui travaille à l’ANPE m’a expliqué que les chiffres du chômage, entre autres, étaient assez difficiles à obtenir même pour les gens du sérail. Les bases de données sont cloisonnées à l’intérieur des services de l’État, chacun des fonctionnaires cherchant à défendre son territoire.
 

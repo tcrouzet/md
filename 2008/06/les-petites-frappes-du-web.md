@@ -1,12 +1,12 @@
 # Les petites frappes du Web
 
-[Commentaire suite à La beauté de l’auto-organisation.](http://blog.tcrouzet.com/2008/06/17/la-beaute-de-lauto-organisation/)
+[Commentaire suite à La beauté de l’auto-organisation.](/2008/06/17/la-beaute-de-lauto-organisation/)
 
 On vient d'assister à l'exemple type de la discussion infructueuse. Vous proposez des arguments foireux, je vous démontre qu'ils sont foireux, Ax conclut par « je ne suis pas sûr que tu ferais apprendre le vélo à tes enfants sur la place de l'Étoile. »
 
 Sans même admettre ton erreur, tu débites une autre connerie. C’est épuisant de vous lire. Tim n’apprend pas à faire du vélo sur un carrefour avec des feux, je ne vois pas pourquoi il devrait le faire sur un carrefour sans feux. Et n'invoquez pas le second degrès pitié.
 
-Dans ce billet où je me contente de parler de beauté (un titre), vous me faites dire que Hanoi est un paradis pour automobilistes. Je regrette mais je continue à penser que ce que je vois sur cette vidéo est beau… et je regrette de vous dire que les paradis pour automobilistes n’existent pas encore [sinon peut-être en théorie](http://blog.tcrouzet.com/2007/12/04/un-croisement-ideal/). Et à choisir, je préfère avec mes enfants me promener sur ce carrefour imaginé par Hamilton-Baillie que sur n’importe quel autre.
+Dans ce billet où je me contente de parler de beauté (un titre), vous me faites dire que Hanoi est un paradis pour automobilistes. Je regrette mais je continue à penser que ce que je vois sur cette vidéo est beau… et je regrette de vous dire que les paradis pour automobilistes n’existent pas encore [sinon peut-être en théorie](/2007/12/04/un-croisement-ideal/). Et à choisir, je préfère avec mes enfants me promener sur ce carrefour imaginé par Hamilton-Baillie que sur n’importe quel autre.
 
 Pour démontrer que je me trompe, que mon carrefour de Hanoi est dangereux, vous vous livrez à un petit calcul que vous jugez très profond. Vous prenez le nombre de morts à Hanoi, vous le comparez à celui de Paris, vous en concluez que mon carrefour est dangereux.
 

@@ -1,10 +1,10 @@
 # Changer de machine, changer d’usage
 
-J’ai tenu des carnets manuscrits durant des années pour cesser en même temps que l’écriture manuscrite m’est devenue pénible par la faute de peu de pratique. Le jour où j’ai ajouté un clavier à mon iPad, j’ai redécouvert [l’écriture nomade](http://blog.tcrouzet.com/tag/vagabondage/).
+J’ai tenu des carnets manuscrits durant des années pour cesser en même temps que l’écriture manuscrite m’est devenue pénible par la faute de peu de pratique. Le jour où j’ai ajouté un clavier à mon iPad, j’ai redécouvert [l’écriture nomade](/tag/vagabondage/).
 
-Le lien est puissant entre l’artiste et son outil, plus que les non-artistes n’osent l’imaginer. On nous donne l’aquarelle, nous inventons les esquisses en extérieur. On nous donne Twitter, [nous inventons la twittérature](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/). Alors que je dois changer d’ordinateur, je ne cesse de penser à cette prégnance de l’outil ([et voilà pourquoi j'écris à ce sujet en ce moment](http://blog.tcrouzet.com/tag/ultrabook/)).
+Le lien est puissant entre l’artiste et son outil, plus que les non-artistes n’osent l’imaginer. On nous donne l’aquarelle, nous inventons les esquisses en extérieur. On nous donne Twitter, [nous inventons la twittérature](/la-quatrieme-theorie/la-quatrieme-theorie-liens/). Alors que je dois changer d’ordinateur, je ne cesse de penser à cette prégnance de l’outil ([et voilà pourquoi j'écris à ce sujet en ce moment](/tag/ultrabook/)).
 
-![Mes carnets](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/10/carnets.jpg)
+![Mes carnets](https://tcrouzet.com/images_tc/2013/10/carnets.jpg)
 
 Par conservatisme, je devrais acheter [une station de travail puissante tournant sous Windows](http://www.dell.com/learn/us/en/04/campaigns/precision-m3800-workstation). Un peu plus aventurier, je pourrais m’en détourner pour un MacBook. Son excellent clavier autorise une frappe rapide et assurée. Je pourrais découvrir de nouveaux outils comme [le traitement de texte Ulysse](http://www.ulyssesapp.com/).
 
@@ -18,7 +18,7 @@ Mon prochain ordinateur tournera donc sous Windows et aura un écran tactile. To
 
 Je songe à mon usage ipad+clavier. En prime, j’imagine embarquer avec moi tous mes logiciels, sans exception. Sans oublier que les ultrabooks convertibles en tablettes peuvent supporter [l’usage de stylets](http://www.youtube.com/watch?v=_aljuJORCUg). Pourquoi ne pas refermer la boucle. Rester en numérique et mixer le clavier et le manuscrit, ajouter dessins et crobards. Cette façon de rendre le numérique plus physique ne peut qu’avoir de profondes conséquences sur l’écriture.
 
-![Delacroix au Maroc](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/10/delacroix.jpg)
+![Delacroix au Maroc](https://tcrouzet.com/images_tc/2013/10/delacroix.jpg)
 
 ### Petite salade technique
 

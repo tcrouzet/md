@@ -1,12 +1,12 @@
 # Vivre en attendant de mourir
 
-Narvic n’est pas venu à [la Maison des métallos pour la conf revival sur le cinquième pouvoir](http://blog.tcrouzet.com/2012/10/29/le-cinquieme-pouvoir-en-stase/), mais il a posté un [long commentaire](http://blog.tcrouzet.com/2012/10/29/le-cinquieme-pouvoir-en-stase/?cid=129900), comme toujours stimulant.
+Narvic n’est pas venu à [la Maison des métallos pour la conf revival sur le cinquième pouvoir](/2012/10/29/le-cinquieme-pouvoir-en-stase/), mais il a posté un [long commentaire](/2012/10/29/le-cinquieme-pouvoir-en-stase/?cid=129900), comme toujours stimulant.
 
 \
 
 Pour mieux comprendre pourquoi je suis dans l’ensemble d’accord avec Narvic, vous pouvez écouter l’enregistrement des échanges, assez taquins entre Thierry Vedel et moi, nous formons désormais un vieux couple. Cette ambiance taquine m’a entraîné à chahuter certains questionneurs, je regrette comme toujours de me laisser entraîner par mon impulsivité méditerranéenne, mais un peu tard.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/10/stan.jpg)
+![](https://tcrouzet.com/images_tc/2012/10/stan.jpg)
 
 J’en reviens au commentaire de Narvic. Je ne suis pas sûr que nous ayons besoin d’invoquer Virilio pour annoncer une catastrophe inévitable. C’est avant tout une simple question de probabilité. Borges l’a parfaitement résumé en écrivant :
 
@@ -16,7 +16,7 @@ En un temps suffisamment long, la catastrophe est aussi inévitable pour notre s
 
 Cette guerre se produira un jour en toute probabilité, le seul hic, nous sommes incapables de prédire quand. C’est un peu comme avec la date inévitable de notre mort. Alors soit on est lucide, on juge tout cela absurde et on se suicide ou se retire du monde, soit on est inconscient et on joue en attendant comme si on était immortel (les croyants ont sans doute plus d’options que l’athée que je suis). J’ai choisi la seconde stratégie parce que je la trouve plus fun.
 
-Donc oui, notre monde s’écroulera. Mais comme nous ne savons pas quand, nous ne pouvons pas nous mettre dans une position de repli qui pourrait de loin dépasser le cadre réduit de notre existence. Je ne suis pas un adepte de la retraite prolongé, même si j’en conçois les vertus à court terme comme je l’ai décrit dans [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/).
+Donc oui, notre monde s’écroulera. Mais comme nous ne savons pas quand, nous ne pouvons pas nous mettre dans une position de repli qui pourrait de loin dépasser le cadre réduit de notre existence. Je ne suis pas un adepte de la retraite prolongé, même si j’en conçois les vertus à court terme comme je l’ai décrit dans [*J’ai débranché*](/jai-debranche/).
 
 Effrayé par un désastre éventuellement imminent, on peut tout au plus tenter de s’en protéger comme Narvic le suggère. Malheureusement, dans un monde massivement interdépendant, c’est une chimère. Le feu atomique ne s’arrête pas aux frontières, pas plus que les virus aéroportés par les volatiles ou les hordes affamées des milliards de citadins fuyant les villes. Il n’existera pas de havres de paix en cas d’effondrement généralisé. Et peut-être que les villes seront encore préférables à la campagne, à ce moment. Qui peut jurer du contraire ?
 
@@ -30,7 +30,7 @@ Je veux en revenir à l’idée selon laquelle ce qui serait isolé et non techn
 
 De même, l’évolution ne favorise pas les êtres les plus résilients, mais ceux qui ont la plus grande capacité d’adaptation, l’homme étant particulièrement doué de ce côté-là. La résilience ne sourd pas de caractéristiques intrinsèques, mais de l’adaptation à un milieu sans cesse changeant. Les réseaux en démultipliant notre intelligence collective nous donnent, à mon sens, plus de résilience collective que toute autre approche, et notamment que l’isolationnisme de type Tarnac. Ils nous permettent, par exemple, de nous coordonner, comme en Tunisie en 2011, contre un despote. Ils nous permettent d'échanger du code, code qui sera bientôt injecter dans nos imprimantes 3D pour la fabrications des objets du quotidien, médicaments compris (on peu déjà imprimer de l'Ibuprofène).
 
-Comme je le montre dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), l’isolation conduit à la simplification des structures sociales, donc impose inévitablement et assez rapidement le modèle pyramidal, parce qu’il est le plus efficace dans ces situations, ce qui mène tout aussi vite à une forme de dictature. On part pour fuir celle du réseau et on tombe dans une autre où il devient impossible d’appeler l’extérieur à l’aide. Les sectes maîtrisent ce mécanisme.
+Comme je le montre dans [*L’alternative nomade*](/alternative-nomade/), l’isolation conduit à la simplification des structures sociales, donc impose inévitablement et assez rapidement le modèle pyramidal, parce qu’il est le plus efficace dans ces situations, ce qui mène tout aussi vite à une forme de dictature. On part pour fuir celle du réseau et on tombe dans une autre où il devient impossible d’appeler l’extérieur à l’aide. Les sectes maîtrisent ce mécanisme.
 
 Si je prône la décentralisation massive, je prône en même temps l’interconnexion massive pour empêcher l’isolement mortifère. Oui, les réseaux numériques ne sont pas aujourd’hui résilients, oui les dictatures Facebook, Google, Apple… s’en emparent peu à peu… raison de plus pour favoriser les émergences de solutions alternatives, de ce côté-là aussi. La guerre peut sembler perdue, mais elle ne fait que commencer. Le niveau de conscience à ces sujets est encore très bas. Je continuerais à évangéliser, avec mes gros sabots.
 

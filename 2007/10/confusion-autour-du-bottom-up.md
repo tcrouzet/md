@@ -1,14 +1,14 @@
 # Confusion autour du bottom-up
 
-Lors des échanges qui ont suivi [ma critique du Modem](http://blog.tcrouzet.com/2007/09/20/modem-centric/), j’ai noté que beaucoup de gens avaient une idée erronée du bottom-up. Nos politiciens autocrates les ont piégés par un dévoiement dont ils ont la spécialité.
+Lors des échanges qui ont suivi [ma critique du Modem](/2007/09/20/modem-centric/), j’ai noté que beaucoup de gens avaient une idée erronée du bottom-up. Nos politiciens autocrates les ont piégés par un dévoiement dont ils ont la spécialité.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/20071001auto.jpg)
+![](https://tcrouzet.com/images_tc/2007/10/20071001auto.jpg)
 
 Le haut-en-bas ou top-down évoque la société hiérarchique dans laquelle quelques-uns ordonnent à tous (le citoyen étant écrasé par la hiérarchie). Par exemple, quelques médias alimentent en informations tous les citoyens. Il est clair qu’il y a un mouvement descendant. Il part d’une élite et se propage à tous. Dieu, quelle que soit son incarnation, règne au sommet de la pyramide et nous vivons à ses pieds.
 
 On oppose souvent à ce système le bottom-up ou bas-en-haut mais, paradoxalement, on le schématise souvent par une pyramide. La base du triangle ferait converger des informations ou des idées vers un point de focalisation, un point dans lequel il est facile de retrouver Dieu.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/pacco2.jpg)Ségolène Royal, et de nombreux autres politiciens, au Modem notamment, professent cette version pour le moins réductrice du bottom-up. Le peuple ferait émerger des idées qui remonteraient jusqu’au sommet de la pyramide, jusqu’à Dieu, qui les sélectionnerait, les améliorerait avant de les réexpédier comme un miroir déformant sur le peuple.
+![](https://tcrouzet.com/images_tc/2007/10/pacco2.jpg)Ségolène Royal, et de nombreux autres politiciens, au Modem notamment, professent cette version pour le moins réductrice du bottom-up. Le peuple ferait émerger des idées qui remonteraient jusqu’au sommet de la pyramide, jusqu’à Dieu, qui les sélectionnerait, les améliorerait avant de les réexpédier comme un miroir déformant sur le peuple.
 
 J’entends souvent parler du up-and-down comme d’une révolution alors que, au nom de la consultation citoyenne, le principe du bottom-up est totalement dévoyé en faveur du modèle pyramidal. On cherche à nous faire croire que nous participons mais, au final, nous subissons encore et encore les décisions divines, nous les subissons d’autant mieux que nous croyons qu’elles viennent de nous.
 

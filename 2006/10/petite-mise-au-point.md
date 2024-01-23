@@ -1,6 +1,6 @@
 # Petite mise au point
 
-Lorsque je publie sur [Agoravox](http://www.agoravox.fr), on m’accuse souvent de n’écrire que pour me faire de la pub. Ça n’a pas manqué avec [mon papier sur Bayrou](http://blog.tcrouzet.com/2006/09/28/pourquoi-bayrou-est-il-venu/). À en croire certains, il faudrait presque se cacher, avancer toujours anonymement. Si je pousse leur logique, j’ai même invité Bayrou à la soirée République des blogs rien que pour mon bénéfice. Bayrou ne serait venu que pour faire indirectement ma promo.
+Lorsque je publie sur [Agoravox](http://www.agoravox.fr), on m’accuse souvent de n’écrire que pour me faire de la pub. Ça n’a pas manqué avec [mon papier sur Bayrou](/2006/09/28/pourquoi-bayrou-est-il-venu/). À en croire certains, il faudrait presque se cacher, avancer toujours anonymement. Si je pousse leur logique, j’ai même invité Bayrou à la soirée République des blogs rien que pour mon bénéfice. Bayrou ne serait venu que pour faire indirectement ma promo.
 
 Comme je suis pour la transparence, je vais jouer carte sur table. Sur mon blog, j’ai reçu en moyenne 452 visiteurs par jour en septembre, ce qui est une goûte d’eau par rapport au 8 500 visiteurs/jours de [bonVote](http://www.bonvote.com) et moins que rien par rapport aux 150 000 visiteurs/jour de [bonWeb](http://www.bonweb.com). Je rappelle que je suis l’éditeur de ces deux sites.
 

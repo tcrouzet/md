@@ -58,32 +58,32 @@
 
 © [Federal Studio](http://www.federal.li/) (ref CF069861 &amp; CF069905)
 
-![Couvertures](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/planche2.jpg)
+![Couvertures](https://tcrouzet.com/images_tc/2014/03/planche2.jpg)
 
-![Le geste qui sauve](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cp_geste_fr.jpg)
+![Le geste qui sauve](https://tcrouzet.com/images_tc/2014/03/cp_geste_fr.jpg)
 
-![Clean Hands Save Lives](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cp_geste_us.jpg)
+![Clean Hands Save Lives](https://tcrouzet.com/images_tc/2014/03/cp_geste_us.jpg)
 
-![Die Rettende Geste](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cover-de.jpg)
+![Die Rettende Geste](https://tcrouzet.com/images_tc/2014/03/cover-de.jpg)
 
-![Un Gesto Salvador](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cp_geste_es.jpg)
+![Un Gesto Salvador](https://tcrouzet.com/images_tc/2014/03/cp_geste_es.jpg)
 
-![O gesto que salva](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cp_geste_pt.jpg)
+![O gesto que salva](https://tcrouzet.com/images_tc/2014/03/cp_geste_pt.jpg)
 
-![Version japonaise](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cp_geste_jp.jpg)
+![Version japonaise](https://tcrouzet.com/images_tc/2014/03/cp_geste_jp.jpg)
 
-![Diapositive](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cover43.jpg)
+![Diapositive](https://tcrouzet.com/images_tc/2014/03/cover43.jpg)
 
-![Le Geste qui sauve](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cover43-fr.jpg)
+![Le Geste qui sauve](https://tcrouzet.com/images_tc/2014/03/cover43-fr.jpg)
 
-![Didier Pittet](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/ProfPittet3-WhiteCoatClose.jpg)
+![Didier Pittet](https://tcrouzet.com/images_tc/2014/03/ProfPittet3-WhiteCoatClose.jpg)
 
-![Didier Pittet](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/ProfPittet4-WhiteCoat.jpg)
+![Didier Pittet](https://tcrouzet.com/images_tc/2014/03/ProfPittet4-WhiteCoat.jpg)
 
-![Didier au Vietnam](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/vietnam.jpg)
+![Didier au Vietnam](https://tcrouzet.com/images_tc/2014/03/vietnam.jpg)
 
-![Flacon](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/hygiene_mains_009.jpg)
+![Flacon](https://tcrouzet.com/images_tc/2014/03/hygiene_mains_009.jpg)
 
-![Les livres papier sont sortis avec des bandeaux aux couleurs des sponsors.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/sponsors3.png)
+![Les livres papier sont sortis avec des bandeaux aux couleurs des sponsors.](https://tcrouzet.com/images_tc/2014/03/sponsors3.png)
 
 Les livres papier sont sortis avec des bandeaux aux couleurs des sponsors.

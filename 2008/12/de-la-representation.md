@@ -1,6 +1,6 @@
 # De la représentation
 
-[Ma conférence de Genève](http://blog.tcrouzet.com/2008/12/02/la-transition-a-commence/) s’est retrouvée sur [leweb2zero.tv](http://leweb2zero.tv/video/hugues2_714935e445c6bfc). Un commentateur a tenté de parler du monde en soi et des diverses représentations que nous pouvions nous faire de ce monde. En gros, il dit que le monde en soit ne peut pas être en même temps plat et sphérique mais que seules nos représentations peuvent être diverses.
+[Ma conférence de Genève](/2008/12/02/la-transition-a-commence/) s’est retrouvée sur [leweb2zero.tv](http://leweb2zero.tv/video/hugues2_714935e445c6bfc). Un commentateur a tenté de parler du monde en soi et des diverses représentations que nous pouvions nous faire de ce monde. En gros, il dit que le monde en soit ne peut pas être en même temps plat et sphérique mais que seules nos représentations peuvent être diverses.
 
 Je ne pense pas avoir dit le contraire.
 

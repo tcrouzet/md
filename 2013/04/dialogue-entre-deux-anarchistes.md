@@ -2,7 +2,7 @@
 
 Je n’aurais jamais osé un tel titre. Il est de [Lilas mon éditrice](https://www.facebook.com/lilas.seewald) chez Fayard suite à [mon entretien avec Dominique Bouchard pour Unwalkers](http://www.unwalkers.com/tir-croise-entre-unwalkers-et-lecrivain-thierry-crouzet/).
 
-Avant de reproduire notre dialogue, j’en profite pour envoyer une pique à un autre chroniqueur, [Laurent Greusard](http://www.k-libre.fr/klibre-ve/index.php?page=livre&id=2824), qui a écrit sur [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) :
+Avant de reproduire notre dialogue, j’en profite pour envoyer une pique à un autre chroniqueur, [Laurent Greusard](http://www.k-libre.fr/klibre-ve/index.php?page=livre&id=2824), qui a écrit sur [*La Quatrième Théorie*](/la-quatrieme-theorie/) :
 
 > \[…\] le roman ne développe pas une prise de parole originale sur l'informatique, l'enjeu des nouvelles technologies et le contrôle \[…\]
 
@@ -12,7 +12,7 @@ Il pouvait tout me dire sur ce roman, mais pas ça, surtout sans argumenter, san
 
 *— Thierry Crouzet, écrivain, d’autres cordes à votre arc ?*
 
-— Je reste développeur, mais pour le plaisir. C’est d’ailleurs une forme d’écriture. Sans cette compétence, je n’aurais pas écrit [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) sur Twitter. J’ai eu besoin de créer un robot pour rapatrier les tweets sur un blog et recréer la continuité du texte pour faciliter l’interaction avec les premiers lecteurs. En 2008, aucun n’outil genre IFTTT ne faisait ça.
+— Je reste développeur, mais pour le plaisir. C’est d’ailleurs une forme d’écriture. Sans cette compétence, je n’aurais pas écrit [*La Quatrième Théorie*](/la-quatrieme-theorie/) sur Twitter. J’ai eu besoin de créer un robot pour rapatrier les tweets sur un blog et recréer la continuité du texte pour faciliter l’interaction avec les premiers lecteurs. En 2008, aucun n’outil genre IFTTT ne faisait ça.
 
 *— Le choix d’écrire en tweet est une contrainte avant tout, mais une contrainte qui force l’écrivain à se surpasser, non ?*
 
@@ -30,7 +30,7 @@ Et comment ne pas douter ? La plupart des expériences anarchistes ont capoté.
 
 *— Bon, cette trame elle te vient d’où, cauchemar, réflexion, envie de vomir sur la toile et le monde ?*
 
-— Pas un cauchemar, un simple constat. Il faut inventer des formes d’organisation adaptées à notre monde, arrêter de s’appuyer sur des modèles vieux de plusieurs siècles. C’est le sujet de tous mes livres depuis [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/). [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) est devenue roman parce que j’ai rencontré aux États-Unis des intégristes chrétiens qui ont tenté de me convertir. Ils étaient la quintessence croisée, ils étaient encore en croisade. Bush était l’un d’eux. Ils sont innombrables. Mais c’est tellement incroyable que seule la fiction peut se lancer dans un tel sujet.
+— Pas un cauchemar, un simple constat. Il faut inventer des formes d’organisation adaptées à notre monde, arrêter de s’appuyer sur des modèles vieux de plusieurs siècles. C’est le sujet de tous mes livres depuis [*Le peuple des connecteurs*](/le-peuple-des-connecteurs/). [*La Quatrième Théorie*](/la-quatrieme-theorie/) est devenue roman parce que j’ai rencontré aux États-Unis des intégristes chrétiens qui ont tenté de me convertir. Ils étaient la quintessence croisée, ils étaient encore en croisade. Bush était l’un d’eux. Ils sont innombrables. Mais c’est tellement incroyable que seule la fiction peut se lancer dans un tel sujet.
 
 Quant à vomir, non, c’est pas mon truc. Je n’aime ni les écrivains qui se regardent le nombril ou qui passent leur temps à nous maintenir la tête sous l’eau. Le monde a déjà la tête sous l’eau, nous devons imaginer comment l’en sortir.
 
@@ -60,7 +60,7 @@ Et tu as raison, nous dépassons alors la démocratie. Elle a toujours été une
 
 Alors qu’est-ce qu’on fait maintenant ? Les anarchistes espagnols avaient oublié de répondre à cette question. Quand on leur a offert le pouvoir, ils ont été obligés de le concéder aux communistes. Il faut arrêter de pleurnicher, de répéter les mêmes analyses de ce qui ne tourne pas rond. C’est désormais stérile. Il faut agir. Les Freemen agissent.
 
-Dans [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/), ceux parmi eux qui se fourvoient ne réinventent pas une structure sociale existante, ils expérimentent quelque chose qui serait neuf dans l’histoire de l’humanité (théorie 1 par opposition aux très communes théories 2 et 3). Je ne détaille pas pour ne pas révéler l’intrigue, mais c’est du jamais vu, pour une simple raison, le recours obligatoire à la haute technologie. C’est un modèle possible, certes effrayant, mais qui peut très bien survenir.
+Dans [*La Quatrième Théorie*](/la-quatrieme-theorie/), ceux parmi eux qui se fourvoient ne réinventent pas une structure sociale existante, ils expérimentent quelque chose qui serait neuf dans l’histoire de l’humanité (théorie 1 par opposition aux très communes théories 2 et 3). Je ne détaille pas pour ne pas révéler l’intrigue, mais c’est du jamais vu, pour une simple raison, le recours obligatoire à la haute technologie. C’est un modèle possible, certes effrayant, mais qui peut très bien survenir.
 
 Les autres Freemen, adeptes de la quatrième théorie, ceux dans lesquels je me reconnais, ne sont pas trois ou quatre mais des millions. Ils aident Idé et Mitch, ils luttent contre les Croisés, ils reconstruisent le monde, tournant définitivement le dos à celui qui croule.
 
@@ -72,13 +72,13 @@ Pourquoi blogues-tu si ce n’est pas pour faire circuler l’information autrem
 
 *— Oui, c’est beau sur le papier, mais le mur n’est pas tombé. La société marchande tient bon, les sites les plus fréquentés sont les sites de cul ou d’entairnement. Je sens plutôt une lobotomisation par le web, serai-je pessimiste ? Moi, je te sens utopiste.*
 
-— Si l’œuvre des Freemen était évidente, visible par tous, je n’aurais pas eu besoin d’écrire [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/). Et tu ne me poserais pas ces questions. À la fin du livre, j’aligne trois pages de faits réels qui ont nourri la fiction, ils parlent tout autant des actes des Croisés que de ceux des Freemen. Preuve qu’il ne s’agit pas d’une utopie, mais de notre réalité pour qui ne se contente pas de se faire intoxiquer par la pensée dominante.
+— Si l’œuvre des Freemen était évidente, visible par tous, je n’aurais pas eu besoin d’écrire [*La Quatrième Théorie*](/la-quatrieme-theorie/). Et tu ne me poserais pas ces questions. À la fin du livre, j’aligne trois pages de faits réels qui ont nourri la fiction, ils parlent tout autant des actes des Croisés que de ceux des Freemen. Preuve qu’il ne s’agit pas d’une utopie, mais de notre réalité pour qui ne se contente pas de se faire intoxiquer par la pensée dominante.
 
 Mais un changement de monde ne peut impliquer sept milliards d’êtres humains en même temps. Nécessairement, certains engagent le changement avant les autres. Je décris le travail de ces précurseurs. Les attaques qui se répètent contre eux, sans cesse plus visibles, suffisent à prouver qu’ils gagnent tous les jours de nouvelles batailles. Mais la guerre sera longue. D’une certaine façon, elle n’a pas encore commencé, parce que la plupart des gens ne la perçoivent pas.
 
 *— Revenons au livre. Nos digressions peuvent ennuyer, peut-être. Comment as-tu réussi à égaliser la réflexion et l’action toutes les deux omniprésentes ?*
 
-— J’ai écrit [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) en même temps que mon essai [*L’Alternative Nomade*](http://blog.tcrouzet.com/alternative-nomade/) et des centaines de billets sur mon blog. Ça pétait dans tous les sens comme aurait dit Flaubert. J’ai surtout écouté les lecteurs de l’autre côté de Twitter. Dès que je versais vers trop de théorie, ils m’incitaient à revenir à l’action et inversement. La contrainte m’a aidé. Si j’avais écrit ce livre avec un autre public, plus jeune, moins politisé, j’aurais sans doute abouti à un autre roman.
+— J’ai écrit [*La Quatrième Théorie*](/la-quatrieme-theorie/) en même temps que mon essai [*L’Alternative Nomade*](/alternative-nomade/) et des centaines de billets sur mon blog. Ça pétait dans tous les sens comme aurait dit Flaubert. J’ai surtout écouté les lecteurs de l’autre côté de Twitter. Dès que je versais vers trop de théorie, ils m’incitaient à revenir à l’action et inversement. La contrainte m’a aidé. Si j’avais écrit ce livre avec un autre public, plus jeune, moins politisé, j’aurais sans doute abouti à un autre roman.
 
 *— C’est joli ce partage entre toi et les lecteurs, d’ailleurs ton livre est parfumé au partage non ?*
 

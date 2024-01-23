@@ -32,7 +32,7 @@ Nous pouvons repenser cette chaîne. Voici comment la chose pourrait se faire. L
 5. Mais l’auteur ne peut être le seul propulseur de son texte. D’autres propulseurs doivent entrer dans le jeu et s’investir en amont de la publication.
 
 6. Tous les intervenants doivent se partager les éventuels bénéfices. Le gâteau devrait se diviser en deux parts, 50 % pour l’auteur, 50 % pour les autres acteurs qui, ensemble, remplissent l’ancienne fonction d’éditeur.
-    ![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/09/pie1.png)
+    ![](https://tcrouzet.com/images_tc/2010/09/pie1.png)
 
 7. Le texte sera aussi diffusé ailleurs que sur le blog de l’auteur (ou de l’éditeur). Sur iBookstore d’Apple, il sera vendu 30 % plus cher, l’idée étant de maintenir le même revenu pour l’équipe éditoriale quel que soit la plate-forme de vente.
 

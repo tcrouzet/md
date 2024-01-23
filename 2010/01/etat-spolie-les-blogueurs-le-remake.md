@@ -2,7 +2,7 @@
 
 Commençons l’année en beauté. Lisez-vous les billets avant de les commenter ? Les lisez-vous avant de les retweeter ? Les lisez-vous jusqu’au bout ? Pensez-vous aux contradictions volontaires que l’auteur peut y introduire ? Aux dissonances comme en jouent parfois les musiciens ?
 
-J’ai écrit [L’États spolie les blogueurs](http://blog.tcrouzet.com/2009/12/30/l%E2%80%99etat-spolie-les-blogueurs/) juste pour déclencher une réaction mimétique. Juste pour effectuer une nouvelle expérience comme Narvic pourra en témoigner. Les réactions mécaniques qui s’ensuivirent, par leur prévisibilité, me désespèrent.
+J’ai écrit [L’États spolie les blogueurs](/2009/12/30/l%E2%80%99etat-spolie-les-blogueurs/) juste pour déclencher une réaction mimétique. Juste pour effectuer une nouvelle expérience comme Narvic pourra en témoigner. Les réactions mécaniques qui s’ensuivirent, par leur prévisibilité, me désespèrent.
 
 Parfois je me demande si le Web ne nous rend pas con. J’ai encore l’espoir qu’il nous aide à nous individuer, à nous dégager de la masse et que l’idée même de la masse se volatilise. Le Web est un outil puissant pour effectuer cette transition mais est-il capable d’aider beaucoup de gens comme je le prétends dans mon prochain livre ?
 

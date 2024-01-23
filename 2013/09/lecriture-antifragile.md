@@ -1,6 +1,6 @@
 # L’écriture antifragile
 
-Après [la déconnexion du Net](http://blog.tcrouzet.com/jai-debranche/), j'ai expérimenté en août la déconnexion de l'écriture. Pour la première fois depuis 30 ans, j’ai passé un mois sans écrire. Pas la moindre note. Pas le moindre laissé aller.
+Après [la déconnexion du Net](/jai-debranche/), j'ai expérimenté en août la déconnexion de l'écriture. Pour la première fois depuis 30 ans, j’ai passé un mois sans écrire. Pas la moindre note. Pas le moindre laissé aller.
 
 J'étais pourtant parti en voyage aux US avec l'idée de tenir le journal de notre escapade familiale. Au moins pour en marquer le souvenir. J'ai esquissé deux bafouilles sans lendemain. Et moins j'ai écrit, plus j'ai pensé à l'écriture.
 

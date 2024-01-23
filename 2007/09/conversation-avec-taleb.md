@@ -1,14 +1,14 @@
 # Conversation avec Taleb
 
-Suite à mon [papier sur la désinformation](http://blog.tcrouzet.com/2007/08/31/information-egale-desinformation/), j’ai envoyé un mail à [Nassim Nicolas Taleb](http://www.fooledbyrandomness.com/) pour lui signaler que je venais de parler de [*The Back Swan*](http://www.amazon.fr/Black-Swan-Impact-Highly-Improbable/dp/1400063515/ref=pd_bbs_sr_1), son dernier livre.
+Suite à mon [papier sur la désinformation](/2007/08/31/information-egale-desinformation/), j’ai envoyé un mail à [Nassim Nicolas Taleb](http://www.fooledbyrandomness.com/) pour lui signaler que je venais de parler de [*The Back Swan*](http://www.amazon.fr/Black-Swan-Impact-Highly-Improbable/dp/1400063515/ref=pd_bbs_sr_1), son dernier livre.
 
-J’ai pris cette habitude d’écrire aux auteurs dont j’aime les livres et dont je me sens proche, notamment quand ils sont francophones comme Taleb. À la sortie du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), j’avais ainsi échangé avec plaisir quelques mails avec [Chaitin](http://blog.tcrouzet.com/2006/03/01/jupp-vs-chaitin/).
+J’ai pris cette habitude d’écrire aux auteurs dont j’aime les livres et dont je me sens proche, notamment quand ils sont francophones comme Taleb. À la sortie du [*Peuple des connecteurs*](/le-peuple-des-connecteurs/), j’avais ainsi échangé avec plaisir quelques mails avec [Chaitin](/2006/03/01/jupp-vs-chaitin/).
 
 Je ne connaissais pas grand-chose de Taleb, sinon qu’il était ami avec Benoit Mandelbrot, le père des fractales. Il raconte d’ailleurs leur rencontre en 2001 à l’entrée 52 de son [notebook](http://www.fooledbyrandomness.com/notebook.htm).
 
 Dans mon mail, j’ai été très laconique :
 
-> Je viens de parler d’une de vos idées qui me tient à cœur sur mon blog. J’avais déjà parlé de vous dans mon dernier livre, [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/). Vous lire me fait du bien. Si ça vous intéresse, je vous envoie un autre de mes livres, [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), vous y trouverez peut-être un état d’esprit qui vous plaira. Si vous passez par la France à l’occasion, on boit un coup…
+> Je viens de parler d’une de vos idées qui me tient à cœur sur mon blog. J’avais déjà parlé de vous dans mon dernier livre, [*Le cinquième pouvoir*](/le-cinquieme-pouvoir/). Vous lire me fait du bien. Si ça vous intéresse, je vous envoie un autre de mes livres, [*Le peuple des connecteurs*](/le-peuple-des-connecteurs/), vous y trouverez peut-être un état d’esprit qui vous plaira. Si vous passez par la France à l’occasion, on boit un coup…
 
 Au moment d’envoyer le mail, j’ai noté que le pseudo de Taleb était Gamma. J’ai ajouté un postscriptum.
 
@@ -16,7 +16,7 @@ Au moment d’envoyer le mail, j’ai noté que le pseudo de Taleb était Gamma.
 
 Taleb est originaire du Liban, c’est un érudit, je me suis dit que toutes ces histoires antiques dans lesquelles je suis plongé devaient lui parler. Quelques minutes plus tard il m’a répondu, me disant qu’il était ravi d'avoir trouvé mon site.
 
-> J'ai fait entre autres la découverte du [non-platonisme d'Ératosthène](http://blog.tcrouzet.com/2007/08/25/faire-des-listes/) (et un anti-Platonisme naïf).
+> J'ai fait entre autres la découverte du [non-platonisme d'Ératosthène](/2007/08/25/faire-des-listes/) (et un anti-Platonisme naïf).
 
 Taleb a précisé plus loin :
 
@@ -28,7 +28,7 @@ J’ai répondu aussitôt.
 > 
 > 
 > 
-> Dans [*Le Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), je parle beaucoup des auteurs de The Edge… c’est d’ailleurs en découvrant que Brockman se faisait appeler The connector que j’ai trouvé le titre de mon livre. Je l’ai peut-être écrit un peu vite mais j’ai essayé de brosser le portait d’une nouvelle façon de voir le monde. En France, ces idées ne passent pas… mais je ne désespère pas. En publiant cette année un livre plus politique, j’ai réussi à attirer un peu l’attention vers elles.
+> Dans [*Le Peuple des connecteurs*](/le-peuple-des-connecteurs/), je parle beaucoup des auteurs de The Edge… c’est d’ailleurs en découvrant que Brockman se faisait appeler The connector que j’ai trouvé le titre de mon livre. Je l’ai peut-être écrit un peu vite mais j’ai essayé de brosser le portait d’une nouvelle façon de voir le monde. En France, ces idées ne passent pas… mais je ne désespère pas. En publiant cette année un livre plus politique, j’ai réussi à attirer un peu l’attention vers elles.
 
 Réponse de Taleb :
 

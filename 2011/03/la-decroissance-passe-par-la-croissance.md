@@ -1,14 +1,14 @@
 # La décroissance passe par la croissance
 
-Canevas écrit en préparation de la conférence donnée à Villeneuve-d'Ascq, université Lille 3, à l'invitation des étudiants du [master GIDE de l'UFR IDIST](http://egide2011.jimdo.com/programme-de-la-journ%C3%A9e/). Je résume les grandes idées exposées dans [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/).
+Canevas écrit en préparation de la conférence donnée à Villeneuve-d'Ascq, université Lille 3, à l'invitation des étudiants du [master GIDE de l'UFR IDIST](http://egide2011.jimdo.com/programme-de-la-journ%C3%A9e/). Je résume les grandes idées exposées dans [*L'alternative nomade*](/alternative-nomade/).
 
 ### Les dangers du GPS
 
-J’ai donné début mars une [conférence à Villeurbanne](http://blog.tcrouzet.com/2011/03/07/le-libre-et-la-liberte/). Comme le lendemain je devais rejoindre ma famille dans une station des Alpes du Sud, j’ai pris la voiture. J’avais bien cherché à faire le trajet en train, mais c’était tout simplement impossible. Le site de la SNCF m’annonçait 11 heures de parcours et me faisait arriver à 50 km de ma destination.
+J’ai donné début mars une [conférence à Villeurbanne](/2011/03/07/le-libre-et-la-liberte/). Comme le lendemain je devais rejoindre ma famille dans une station des Alpes du Sud, j’ai pris la voiture. J’avais bien cherché à faire le trajet en train, mais c’était tout simplement impossible. Le site de la SNCF m’annonçait 11 heures de parcours et me faisait arriver à 50 km de ma destination.
 
 J’ai donc quitté le Midi en voiture et j’ai suivi aveuglément mon GPS jusqu’à la médiathèque de Villeurbanne. Le lendemain, je suis reparti pour la station du Sauze. Après 5 heures de route, j’arrive en haut d’un piton rocheux où se perchent trois maisons. Il n’y a pas de station à cet endroit.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/03/sauze.jpg)
+![](https://tcrouzet.com/images_tc/2011/03/sauze.jpg)
 
 J’appelle Isabelle. « La station s’appelle Le Sauze, pas Sauze. » Je reprogramme le GPS. Il me faut plus de trois heures de route supplémentaire avant d’arriver à destination, une destination non loin de laquelle j’étais passé 5 heures plus tôt. Je comprends alors qu’un train via Grenoble et Gap m’aurait amené à bon port.
 
@@ -39,7 +39,7 @@ Faut-il alors rejeter l’idée d’un renouveau du nomadisme ? Non, il existe 
 
 ### Le graphe social
 
-Un nomade se déplace traditionnellement à la surface du monde, un monde que nous avons appris à cartographier depuis l’antiquité grecque. Le nouveau nomade se déplace à la surface d’un monde [que nous apprenons à cartographier seulement depuis la fin du xxe siècle](http://blog.tcrouzet.com/2010/11/24/la-carte-et-le-reseau-social/).
+Un nomade se déplace traditionnellement à la surface du monde, un monde que nous avons appris à cartographier depuis l’antiquité grecque. Le nouveau nomade se déplace à la surface d’un monde [que nous apprenons à cartographier seulement depuis la fin du xxe siècle](/2010/11/24/la-carte-et-le-reseau-social/).
 
 Même si la carte n’est pas le territoire, elle aide à en prendre la mesure. Imaginez chacun de nous comme un point. Tracez des traits entre tous les amis. Colorez les traits en fonction de l’intensité des relations qu'ils véhiculent. Vous obtenez le graphe social de l’humanité.
 
@@ -101,7 +101,7 @@ Avant le néolithique, sur les territoires faiblement peuplés, les nomades manq
 
 Nous ouvrons un nouveau cycle dans l’histoire de l’humanité. Nous revenons à la mobilité sans renoncer à la complexité.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/03/transition.jpg)
+![](https://tcrouzet.com/images_tc/2011/03/transition.jpg)
 
 ### Lutter contre l’entropie
 
@@ -109,7 +109,7 @@ Dans l’univers, l’entropie ne fait que détruire les structures et nous fait
 
 Je ne le suis pas jusque-là, mais la complexité effectivement s’accroît depuis l’apparition de la vie sur Terre. Vouloir s’opposer à ce phénomène me paraît vouloir nier la vie. C’est pour cette raison que je n’aime pas le mot décroissance. Je crois que nous devons rester sur cette courbe de la croissance de la complexité. Nous l’avons fait en devenant sédentaires, nous le faisons à nouveau en devenant des nomades dans le flux.
 
-Il est intéressant de constater que si on trace l’évolution de la complexité, par exemple en représentant la démographie (plus on est nombreux, plus la société a de chance d’être complexe) et si on la compare à l’évolution de la liberté, [on obtient des courbes synchrones](http://blog.tcrouzet.com/2010/08/29/surpopulation-implique-democratie/).
+Il est intéressant de constater que si on trace l’évolution de la complexité, par exemple en représentant la démographie (plus on est nombreux, plus la société a de chance d’être complexe) et si on la compare à l’évolution de la liberté, [on obtient des courbes synchrones](/2010/08/29/surpopulation-implique-democratie/).
 
 Ce n’est pas une coïncidence. Plus je complexifie, plus je suis libre. Toute politique qui nous ferait tendre vers moins de complexité impliquerait à coup sûr une diminution des libertés. C’est ce que font depuis trois siècles le consumérisme et le capitalisme. D’un côté, la complexité a augmenté, nous sommes plus libres, mais les biens matériels qui nous attachent réduisent notre mobilité et servent de limiteur à cette liberté sans cesse accrue.
 

@@ -10,9 +10,9 @@
 
 \
 
-6. 9/5/2013, *Midi-Libre*, [Un Sétois invente le "tweet-thriller"](http://www.midilibre.fr/2013/05/10/un-setois-invente-le-tweet-thriller,694227.php) ([PNG](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/02/midi-libre.png)), Olivier Schlama
+6. 9/5/2013, *Midi-Libre*, [Un Sétois invente le "tweet-thriller"](http://www.midilibre.fr/2013/05/10/un-setois-invente-le-tweet-thriller,694227.php) ([PNG](https://tcrouzet.com/images_tc/2011/02/midi-libre.png)), Olivier Schlama
 
-7. 4/5/2013, *Le Monde des Livres*, [Choc technologique](http://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=1231647&xtmc=choc_technologique&xtcr=2) ([PNG](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/02/mondezil_cut.png)), Olivier Zilbertin
+7. 4/5/2013, *Le Monde des Livres*, [Choc technologique](http://www.lemonde.fr/cgi-bin/ACHATS/acheter.cgi?offre=ARCHIVES&type_item=ART_ARCH_30J&objet_id=1231647&xtmc=choc_technologique&xtcr=2) ([PNG](https://tcrouzet.com/images_tc/2011/02/mondezil_cut.png)), Olivier Zilbertin
 
 8. 22/4/2013, RTBF, [Chronique express](http://www.rtbf.be/tv/revoir/detail_livres-a-domicile-alice-ferney?uid=213896583668&idshedule=717adc586a5592b9ca1357468438e751&catchupId=13-TMCEL100-011-PR-1&serieId=13-TMCEL100-000-PR), Michel Dufranne
 9. 22/4/2013, blog, [Tir croisé entre Unwalkers et l’écrivain Thierry Crouzet](http://www.unwalkers.com/tir-croise-entre-unwalkers-et-lecrivain-thierry-crouzet/)
@@ -45,7 +45,7 @@
 
 23. 12/07/2012, Marianne2.fr, [Twitter, le nouveau salon littéraire](http://www.marianne2.fr/Twitter-le-nouveau-salon-litteraire_a220393.html), Élodie Emery, Jules Fournier
 
-24. 21/11/2009, [France 24](http://blog.tcrouzet.com/2009/11/28/slow-blogging-metaphysique/)
+24. 21/11/2009, [France 24](/2009/11/28/slow-blogging-metaphysique/)
 
 25. 15/07/2009, AFP/20 Minutes, [Un auteur américain publie son roman en mini-blogs sur Twitter](http://www.20min.ch/ro/multimedia/stories/story/19823274)
 

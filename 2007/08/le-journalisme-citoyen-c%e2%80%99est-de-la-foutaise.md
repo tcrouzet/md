@@ -4,7 +4,7 @@ Je vais peut-être vous surprendre mais je n’ai jamais cru au journalisme cito
 
 Pour moi, un journaliste fait émerger de nouvelles informations en remontant à la source. Il nous fourni des données de première mains qu’il a pris garde de vérifier et de recouper, puis il les mets en forme pour les faire résonner.
 
-![Par Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070811pacco.jpg)
+![Par Pacco](https://tcrouzet.com/images_tc/20070811pacco.jpg)
 
 Je ne mets pas les journalistes au-dessus des éditorialistes, je pense juste qu’ils ne font pas le même travail, qu’ils soient amateurs ou professionnels n’y change rien. Pour ma part, je me range parmi les auteurs, donc parmi les éditorialistes.
 
@@ -28,7 +28,7 @@ Le cinquième pouvoir agit aujourd’hui sur ce mode. Malheureusement, si nous n
 
 ### Notes
 
-1. Nous sommes des [infovores](http://blog.tcrouzet.com/2006/07/28/infovore/). Découvrir de nouvelles informations nous procure du plaisir.
+1. Nous sommes des [infovores](/2006/07/28/infovore/). Découvrir de nouvelles informations nous procure du plaisir.
 
 2. Dans les journaux et magazines, les éditos occupent une faible part de la surface éditoriale. Ce n’est pas un hasard. Si les éditos font briller leurs auteurs, ils intéressent peu les lecteurs qui préfèrent des faits, des astuces pratiques, des histoires…
 
@@ -44,4 +44,4 @@ Le cinquième pouvoir agit aujourd’hui sur ce mode. Malheureusement, si nous n
 
 8. En ce moment, je réfléchis à un nouveau service qui réussirait à amener les journalistes citoyens comme les éditorialistes à gagner une plus grande notoriété… et, au passage, un peu d’argent.
 
-9. Quand on pense des services web, il ne faut jamais oublier qu'internet n'est pas qu'un média mais avant tout [un territoire](http://blog.tcrouzet.com/2006/07/12/internet-comme-territoire/).
+9. Quand on pense des services web, il ne faut jamais oublier qu'internet n'est pas qu'un média mais avant tout [un territoire](/2006/07/12/internet-comme-territoire/).

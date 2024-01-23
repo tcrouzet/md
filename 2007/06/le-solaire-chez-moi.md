@@ -4,7 +4,7 @@ Depuis son installation fin 2000, ma chaudière à gaz donnait des signes de fai
 
 Il est maintenant temps d’installer le solaire. J’étudie la question depuis un an et j’ai pas mal tourné en rond. Notre cahier des charges : nous couper le plus possible des énergies fossiles. Nous voulons renoncer au gaz mais nous n’avons rien contre l’électricité.
 
-Même si [ma position sur le nucléaire est ambigüe](http://blog.tcrouzet.com/2007/05/16/le-nucleaire-me-turlupine/http://blog.tcrouzet.com/2007/05/16/le-nucleaire-me-turlupine/), je suis obligé de constater que, en France, l’électricité est une énergie propre, soit nucléaire, soit hydraulique. Par ailleurs, les panneaux photovoltaïques progressent beaucoup en ce moment, sans parler des micro-éoliennes. L’électricité propre devrait devenir de plus en plus abondante.
+Même si [ma position sur le nucléaire est ambigüe](/2007/05/16/le-nucleaire-me-turlupine//2007/05/16/le-nucleaire-me-turlupine/), je suis obligé de constater que, en France, l’électricité est une énergie propre, soit nucléaire, soit hydraulique. Par ailleurs, les panneaux photovoltaïques progressent beaucoup en ce moment, sans parler des micro-éoliennes. L’électricité propre devrait devenir de plus en plus abondante.
 
 Partant de-là, je croyais qu’il existait une solution écologiquement compatible. Vous allez voir que ce n’est pas gagné. Pourtant ma maison ne pose pas de difficultés particulières :
 
@@ -42,7 +42,7 @@ Et maintenant mes critiques…
 
 3. La troisième solution me paraît la plus rationnelle. Pourquoi combiner deux sources d’énergie alternative. Une pompe à chaleur peut très bien s’occuper de 100% du chauffage, enclenchant éventuellement ses résistances par grand froid (entre couvrir 60% et 100% du chauffage avec la pompe n’entraîne qu’un petit surcout). En revanche, il est logique de fabriquer l’eau chaude avec le solaire car le rendement est très bon.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200706solaire.gif) 
+![](https://tcrouzet.com/images_tc/200706solaire.gif) 
 
 Toutes ces considérations sont bien belles mais s’écroulent quand je regarde les chiffres. D’un point de vue économique, je n’ai aucun intérêt de passer au solaire. En tenant compte des détaxes, la solution 3 me coûte moins que le gaz au bout de 15 ans. À ce moment, l’installation sera-t-elle toujours opérationnelle. Oui en théorie seulement.
 

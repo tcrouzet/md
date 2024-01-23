@@ -2,7 +2,7 @@
 
 
 
-![Point triple](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/ptrible.jpg)
+![Point triple](https://tcrouzet.com/images_tc/2009/09/ptrible.jpg)
 
 Le vocable information a été employé pour la première fois comme nouvelle unité par Ralph Hartley des Bell Labs en 1928 pour désigner la partie utile d’un message (en écartant le bruit causé par les parasites par exemple). Pour lui, l’information mesure ce que nous apprenons (si nous avons déjà reçu le message, nous n’apprenons rien).
 
@@ -24,7 +24,7 @@ On voit ainsi comment la théorie de l’information et la thermodynamique nouen
 
 Une information que je connais déjà ou que je ne comprends pas ne constitue pas pour moins une réserve de néguentropie alors qu’elle peut l’être pour celui qui ignore l’information et la comprend. Ainsi il reste toujours difficile de séparer l’information de sa signification. Le codage est du domaine de la physique, l’information le dépasse, notamment par son aspect qualitatif.
 
-[Quand je suppose que l’information peut comme l’eau se trouver dans plusieurs états](http://blog.tcrouzet.com/2009/09/10/le-flux-troisieme-etat-de-linformation/), je joue donc un jeu dangereux d’un point de vue scientifique. En toute rigueur, je ne devrais donc parler que de l’information qui se code.
+[Quand je suppose que l’information peut comme l’eau se trouver dans plusieurs états](/2009/09/10/le-flux-troisieme-etat-de-linformation/), je joue donc un jeu dangereux d’un point de vue scientifique. En toute rigueur, je ne devrais donc parler que de l’information qui se code.
 
 Je persiste néanmoins. Pour observer les différents états de l’eau, on fait varier la température et la pression. Qu’est-ce que cela peut signifier pour l’information ?
 

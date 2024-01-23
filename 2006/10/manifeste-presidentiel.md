@@ -6,7 +6,7 @@ Cette politique pourrait se développer suivant trois principaux axes :
 
 1. donner l’exemple au reste de la planète en matière d’environnement,
 
-2. [réinventer la mesure du succès](http://blog.tcrouzet.com/2006/05/30/croissance-illusoire/),
+2. [réinventer la mesure du succès](/2006/05/30/croissance-illusoire/),
 
 3. installer la démocratie participative seule capable d’affronter la complexité de nos sociétés.
 

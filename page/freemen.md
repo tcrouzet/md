@@ -1,6 +1,6 @@
 # Freemen
 
-[J'ai décidé de rejoindre le réseau freemen en novembre 2006.](http://blog.tcrouzet.com/2006/11/08/266/) J'avais au préalable refuser de le rejoindre pour diverses raisons exprimées [ici](http://blog.tcrouzet.com/2006/07/31/je-suis%e2%80%a6-pas-encore-un-freemen/) et [là](http://blog.tcrouzet.com/2006/04/14/freemen-20/). Honneur maintenant à tous les freemen.
+[J'ai décidé de rejoindre le réseau freemen en novembre 2006.](/2006/11/08/266/) J'avais au préalable refuser de le rejoindre pour diverses raisons exprimées [ici](/2006/07/31/je-suis%e2%80%a6-pas-encore-un-freemen/) et [là](/2006/04/14/freemen-20/). Honneur maintenant à tous les freemen.
 
 7. [002](http://www.20six.fr/002)
 

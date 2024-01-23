@@ -1,6 +1,6 @@
 # Trop nombreux 2
 
-Je voudrais revenir sur la surpopulation. Mon [précédent billet](http://blog.tcrouzet.com/2006/10/19/trop-nombreux/) n’a pas été compris comme je l’entendais, en partie par ma faute car j’ai ouvert plusieurs pistes sans les approfondir.
+Je voudrais revenir sur la surpopulation. Mon [précédent billet](/2006/10/19/trop-nombreux/) n’a pas été compris comme je l’entendais, en partie par ma faute car j’ai ouvert plusieurs pistes sans les approfondir.
 
 Si nous encourageons la population mondiale grandir, notamment pour soutenir la croissance (et soutenir les régimes de retraites), nous fniront à un moment par nous heurter à un mur. Que ce mur soit haut de dix milliards d’hommes ou de vingt milliards ne change rien.
 
@@ -8,7 +8,7 @@ Il me paraît irresponsable d’encourager les gens à avoir plus d’enfants. J
 
 Certains futurologues annoncent que la population humaine finira par atteindre un pic avant de se stabiliser puis de décroître. J’espère qu’ils ont raison mais si je reste persuadé que personne ne peut prévoir l’avenir, même les plus grands experts en peuplement (d’ailleurs ils ne sont jamais d’accord entre eux).
 
-Il est vrai que plus le niveau de vie augmente, plus le taux de natalité baisse (voir la vidéo de [Hans Rosling](http://blog.tcrouzet.com/2006/10/11/les-problemes-globaux-existent-ils/)). Mais avec des incitations à la procréation ne risque-t-on pas d’inverser cette tendance naturelle ? Les incitations ne risquent-elles pas de devenir de plus en plus incitatives en même temps qu’il y aura de moins en moins de jeunes ? Jusqu’à entraîner un renversement de tendance ?
+Il est vrai que plus le niveau de vie augmente, plus le taux de natalité baisse (voir la vidéo de [Hans Rosling](/2006/10/11/les-problemes-globaux-existent-ils/)). Mais avec des incitations à la procréation ne risque-t-on pas d’inverser cette tendance naturelle ? Les incitations ne risquent-elles pas de devenir de plus en plus incitatives en même temps qu’il y aura de moins en moins de jeunes ? Jusqu’à entraîner un renversement de tendance ?
 
 Vu l’état du monde : climat, famine, pauvreté, pollution… Il ne me paraît pas raisonnable de nous demander de faire plus d’enfants. Ce n’est pas parce que la France n’est pas dans une situation catastrophique qu’elle doit ignorer le reste de la planète.
 
@@ -18,7 +18,7 @@ Si tous les pays raisonnaient à la française, ce serait l’étouffement car i
 
 Je crois à la vertu de l’exemple. Nous devons donner l’exemple. Nous appliquer les règles que nous voudrions que les autres appliquent (dans le domaine écologique – nous ne devons pas attendre le reste de la planète, même si ça doit nous coûter). L’exemple est plus efficace que les pressions qui finissent toujours par devenir conflit.
 
-[Comme l’a expliqué Axel](http://blog.tcrouzet.com/2006/10/19/trop-nombreux/#comment-2011), il y a une échappatoire à tous les problèmes. On peut espérer que la technologie nous offrira des solutions (l’espace, les océans…). C’est un pari que je faisais toujours par le passé. Je crois que l’homme une fois acculé sera prêt aux folies les plus folles. Mais devons-nous nous précipiter au pied du mur avant même d’avoir les solutions ?
+[Comme l’a expliqué Axel](/2006/10/19/trop-nombreux/#comment-2011), il y a une échappatoire à tous les problèmes. On peut espérer que la technologie nous offrira des solutions (l’espace, les océans…). C’est un pari que je faisais toujours par le passé. Je crois que l’homme une fois acculé sera prêt aux folies les plus folles. Mais devons-nous nous précipiter au pied du mur avant même d’avoir les solutions ?
 
 Je suis optimiste, je crois que nous nous en sortirons toujours, et nos politiciens font, en fait, le même pari. Mais on ne peut pas dire « faites plus d’enfants » et ne pas penser comment faire vivre un monde plus peuplé.
 

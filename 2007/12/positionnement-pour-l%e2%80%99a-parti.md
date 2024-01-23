@@ -2,13 +2,13 @@
 
 Je sais bien que le monde n’est pas tout blanc ou tout noir, qu’il existe une gradation de niveaux de gris mais, malgré mon antiessentialisme primaire, j’aime décrire les choses à l’aide de forts contrastes, sachant que la vérité se trouve quelque part entre les extrêmes.
 
-![benard.jpg](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/12/benard.jpg)
+![benard.jpg](https://tcrouzet.com/images_tc/2007/12/benard.jpg)
 
 En discutant avec Alain Bénard à La Réunion, j’ai constaté combien sa position politique est aujourd’hui difficile à définir. Rattaché à l’UMP dont il n’a pas la carte, il me dit être un progressiste : son ambition est de mettre les citoyens volontaires au centre de toutes les décisions.
 
 J’ai alors songé qu’on pouvait classer les hommes politiques en deux camps, en fonction de quelques oppositions de principes, indépendamment de leur alignement politique conventionnel.
 
-1. **Manager/Leader.** D’un côté, le chef, sûr de lui, sûr de pouvoir faire des miracles, ordonne de mettre en œuvre ses idées. De l’autre, le leader suggère une idée et demande aux citoyens de réagir, de proposer, de s’entendre… En d’autres mots, des politiciens militent pour le participatif, pour l’intelligence collective, et d’autres pas. Cette opposition dépasse les vieux clivages. Elle stigmatise deux visions du monde. Toutes les autres oppositions découlent de celle-là. Comme [le participatif est un passage obligé](http://blog.tcrouzet.com/2007/11/29/pourquoi-le-participatif-est-vital/), je comprends mal ses adversaires… mais Rome ne s’est pas fait en un jour.
+1. **Manager/Leader.** D’un côté, le chef, sûr de lui, sûr de pouvoir faire des miracles, ordonne de mettre en œuvre ses idées. De l’autre, le leader suggère une idée et demande aux citoyens de réagir, de proposer, de s’entendre… En d’autres mots, des politiciens militent pour le participatif, pour l’intelligence collective, et d’autres pas. Cette opposition dépasse les vieux clivages. Elle stigmatise deux visions du monde. Toutes les autres oppositions découlent de celle-là. Comme [le participatif est un passage obligé](/2007/11/29/pourquoi-le-participatif-est-vital/), je comprends mal ses adversaires… mais Rome ne s’est pas fait en un jour.
 
 2. **Fermeture/Ouverture.** Un manager n’aime pas que les étrangers, surtout ses ennemis politiques, se mêlent de ses affaires. Pour ne pas perdre le pouvoir, il ne le partage pas. Au contraire, le leader se moque du pouvoir, il en connait la futilité, la vanité, l'inutilité, il cherche à le distribuer entre le plus grand nombre de mains possibles pour que sa surabondance n’avilisse pas ses détenteurs.
 
@@ -22,7 +22,7 @@ Quand Alain m’a dit qu’il était progressiste, je lui ai répondu que non. S
 
 Alain n’a pas de tels projets. Il répond juste à la nécessité. Par exemple, sa ville éco-citoyenne ne parait futuriste que pour les réactionnaires. Pour les hommes conscients des maux de notre temps, elle est une réponse évidente aux problèmes climatiques comme aux problèmes sociaux.
 
-Pour moi, Alain Bénard est avant tout un réaliste, un pragmatique, un empiriste. Il laisse les idéaux à ses adversaires. Alain pourrait être un des membres fondateur du [A-parti](http://blog.tcrouzet.com/2007/11/16/la-ligne-droite-n%e2%80%99est-pas-le-plus-court-chemin/).
+Pour moi, Alain Bénard est avant tout un réaliste, un pragmatique, un empiriste. Il laisse les idéaux à ses adversaires. Alain pourrait être un des membres fondateur du [A-parti](/2007/11/16/la-ligne-droite-n%e2%80%99est-pas-le-plus-court-chemin/).
 
 Notes
 

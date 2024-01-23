@@ -22,4 +22,4 @@ Pendant trois jours, en octobre 1974, Georges Perec s’installa place Saint-Sul
 
 4. **ISBN**: 978-1-4457-7755-9 (papier)
 
-![La vigne](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/va1_3.jpg)
+![La vigne](https://tcrouzet.com/images_tc/2013/09/va1_3.jpg)

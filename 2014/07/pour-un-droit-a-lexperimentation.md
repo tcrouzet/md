@@ -52,7 +52,7 @@ Cette approche « darwinienne » peut sembler lente. Elle a pourtant été app
 
 Plus qu’une incentive politique, il nous manque des signaux qui favoriseraient notre prise de conscience. À multiples reprises, nous avons évoqué la nécessité des feed-backs. Si je ne sais pas à quelle vitesse je roule, je ne peux pas respecter les limitations. Pour vivre plus sobrement, nous devons disposer de compteurs de consommation. Ils arrivent, mais il reste encore un travail immense de ce côté.
 
-Au cours de nos échanges, j’ai adapté [la méthode suivie par Didier Pittet pour introduire dans les hôpitaux la solution hydro-alcoolique à la place du savon](http://blog.tcrouzet.com/le-geste-qui-sauve/) et faire changer les comportements.
+Au cours de nos échanges, j’ai adapté [la méthode suivie par Didier Pittet pour introduire dans les hôpitaux la solution hydro-alcoolique à la place du savon](/le-geste-qui-sauve/) et faire changer les comportements.
 
 1. Mise à disposition des nouvelles solutions (énergies renouvelables + sobriété + efficacité à la place des énergies fossiles). Elles restent mal connues, mal vendues, mal acceptées (les éoliennes que nous ne voulons pas près de chez nous, comme nous l’a martelé [Paul Neau](https://twitter.com/PaulNeau)).
 
@@ -80,7 +80,7 @@ Mais comme nous ne pouvons pas prévoir, reste à expérimenter, que la loi le v
 
 Lors de nos trois jours mézois, nous n’avons effectué aucune découverte fondamentale, juste fait un pas de côté, chacun hors de nos spécialités. La solution est peut-être là, dans l’entre d’eux, dans un haut degré de compétences techniques et aussi un haut degré d’interconnexion entre les individus, spécialistes ou non.
 
-![Un bel endroit pour refaire le monde.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/07/meze.jpg)
+![Un bel endroit pour refaire le monde.](https://tcrouzet.com/images_tc/2014/07/meze.jpg)
 
 Un bel endroit pour refaire le monde.
 

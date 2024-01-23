@@ -1,6 +1,6 @@
 # Chronologie du superorganisme
 
-[Comme je l'avais fait pour le cinquième pouvoir](http://blog.tcrouzet.com/2006/12/24/chronologie-du-cinquieme-pouvoir/), je vais tenter de lister les différentes étapes de l’idée de superorganisme. Au moins quatre concepts se rencontrent. Tantôt Gaïa (1 - la planète vivante), tantôt le superorganisme (2 - l’humanité vivante ou organicisme). Le cerveau global (3), entité émergente, serait le moteur intelligent de l’une ou l’autre de ces deux entités, éventuellement consciente. La symbiose (4) entre les hommes et les machines, notamment le Net, [et plus encore le Flux](http://blog.tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/), rendrait possible ce cerveau, sinon le superorganisme lui-même. Les machines seules seraient, suivant certaines hypothèses, capables de devenir un cerveau global.
+[Comme je l'avais fait pour le cinquième pouvoir](/2006/12/24/chronologie-du-cinquieme-pouvoir/), je vais tenter de lister les différentes étapes de l’idée de superorganisme. Au moins quatre concepts se rencontrent. Tantôt Gaïa (1 - la planète vivante), tantôt le superorganisme (2 - l’humanité vivante ou organicisme). Le cerveau global (3), entité émergente, serait le moteur intelligent de l’une ou l’autre de ces deux entités, éventuellement consciente. La symbiose (4) entre les hommes et les machines, notamment le Net, [et plus encore le Flux](/2009/08/17/vers-un-web-sans-site-web/), rendrait possible ce cerveau, sinon le superorganisme lui-même. Les machines seules seraient, suivant certaines hypothèses, capables de devenir un cerveau global.
 
 1. **IV<sup>e</sup> siècle avant Jésus-Christ.** Aristote dans sa *Politique* imagine l’humanité comme un vaste organisme parmi les autres organismes. L’humanité n’y apparaît pas séparée de son environnement. Elle ne se reconnait pas en tant que telle. Ce n’est pas un hasard si ces considérations se retrouvent dans un traité politique car toute réflexion sur l’ensemble de l’humanité est éminemment politique et devrait être prise au sérieux par tous les hommes de pouvoir.
 
@@ -36,7 +36,7 @@
 
 17. **1960.** Joseph Carl Robnett Licklider publie [*Man-Computer Symbiosis*](http://memex.org/licklider.pdf). Il y annonce que notre destinée est liée à celle des machines. C’est avec l’idée de créer la symbiose qu’il travaille à l’avènement d’Internet.
 
-18. **1965.** [Arthur C. Clarke publie *Dial F for Frankenstein*.](http://blog.tcrouzet.com/2009/08/03/suis-je-libre-ou-esclave/) Notre réseau de communication formerait un esprit global.
+18. **1965.** [Arthur C. Clarke publie *Dial F for Frankenstein*.](/2009/08/03/suis-je-libre-ou-esclave/) Notre réseau de communication formerait un esprit global.
 
 19. **1967.** Théodore Dobzhansky reprend la théorie de la noosphère et la débarrasse des idées religieuse, tant bien même il était lui-même très croyant.
 

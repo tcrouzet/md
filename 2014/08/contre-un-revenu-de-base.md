@@ -1,6 +1,6 @@
 # Contre Un revenu de base
 
-Après [une quarantaine d’articles en faveur du revenu de base](http://blog.tcrouzet.com/tag/revenu-de-base/), suis-je en train de perdre la tête ? J’ai plutôt des scrupules, éveillés par quelques bruits, quelques impressions. Et je voudrais clarifier ma position avant [l’université d’été du revenu de base](http://universite.revenudebase.info/).
+Après [une quarantaine d’articles en faveur du revenu de base](/tag/revenu-de-base/), suis-je en train de perdre la tête ? J’ai plutôt des scrupules, éveillés par quelques bruits, quelques impressions. Et je voudrais clarifier ma position avant [l’université d’été du revenu de base](http://universite.revenudebase.info/).
 
 Quand on a de belles idées et qu’elles restent entre les lignes, c’est sans conséquence. Qu’on les applique et le monde peut en être bouleversé.
 
@@ -32,69 +32,69 @@ Qu’est-ce qui est mis en jeu ? La liberté.
 
 Nous sommes en guerre diront certains. Alors, amusons-nous à suivre *La route de la servitude* de Hayek, particulièrement [la version illustrée de *Look Magazine*](http://www.mises.org/books/TRTS/).
 
-![01](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/01.jpg)
+![01](https://tcrouzet.com/images_tc/2014/08/01.jpg)
 
 > Nous sommes en guerre contre les banquiers faux-monnayeurs, contre la pauvreté, contre les inégalités, contre les bouleversements climatiques, contres les abus de pouvoir des politiciens… nous sommes en guerre pour l’instauration d’un revenu de base et, à ce titre, nous pouvons être tentés d’imposer notre idée géniale à tous, parce que nous sommes persuadés qu’elle sera bonne pour tous. Nous ne sommes pas des communistes mais nous défendons comme eux un principe supérieur auquel nous croyons dur comme fer. Partage de l'outil de production, revenu de base inconditionnel… slogans de même nature ontologique.
 
-![02](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/02.jpg)
+![02](https://tcrouzet.com/images_tc/2014/08/02.jpg)
 
 > Si la méthode top-down utilisée durant la guerre pour imposer le revenu de base fait ses preuves, on estimera bonne pour les temps de paix.
 
-![03](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/03.jpg)
+![03](https://tcrouzet.com/images_tc/2014/08/03.jpg)
 
 > Promesses. Le revenu de base entraînera moins de pauvreté, nous donnera le pouvoir de dire non aux mauvais jobs, il revalorisera les bas salaires, il permettra aux artistes de s’adonner à leur art, aux entrepreneurs de lancer de nouvelles entreprises, aux parents de s’occuper des enfants sans culpabiliser, aux femmes de s'émanciper davantage…
 
-![04](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/04.jpg)
+![04](https://tcrouzet.com/images_tc/2014/08/04.jpg)
 
 > Mais une fois la guerre terminée, les utopistes commencent à se quereller. Comment continuer à financer le revenu de base ? Faut-il le donner aux étrangers ? Faut-il fermer les frontières ? N'est-il pas un facteur de croissance nocif pour la biosphère ?
 
-![05](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/05.jpg)
+![05](https://tcrouzet.com/images_tc/2014/08/05.jpg)
 
 > Les citoyens aussi commencent à être en désaccord. Lui qui ne fait rien. Eux avec leurs cinq enfants. Cet étranger qui a autant de droits que nous. Ceux-là qu’on maintient en vie artificiellement. Plus personne pour nettoyer les chiottes, pour ramasser les ordures. Et ces riches toujours plus riches, ce revenu de base qui ne sert plus à rien. Et toujours plus de pauvres.
 
-![06](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/06.jpg)
+![06](https://tcrouzet.com/images_tc/2014/08/06.jpg)
 
 > Les premiers défenseurs du revenu de base refusent d’imposer leur vision. Ils attendent un accord qui viendrait du peuple parce qu’ils ont d’abord pensé à lui.
 
-![07](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/07.jpg)
+![07](https://tcrouzet.com/images_tc/2014/08/07.jpg)
 
 > Chaque école du revenu de base monte sa propagande.
 
-![08](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/08.jpg)
+![08](https://tcrouzet.com/images_tc/2014/08/08.jpg)
 
 > Les citoyens les moins éduqués se laissent séduire par les meilleurs orateurs.
 
-![09](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/09.jpg)
+![09](https://tcrouzet.com/images_tc/2014/08/09.jpg)
 
 > On commence à détester les utopistes de la première heure.
 
-![10](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/10.jpg)
+![10](https://tcrouzet.com/images_tc/2014/08/10.jpg)
 
 > On donne le pouvoir aux hommes forts.
 
-![11](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/11.jpg)
+![11](https://tcrouzet.com/images_tc/2014/08/11.jpg)
 
 > Un parti s’empare du pouvoir.
 
-![12](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/12.jpg)
+![12](https://tcrouzet.com/images_tc/2014/08/12.jpg)
 
 > Tout ce qui peut nuire à l’unité du parti est combattu, notamment la culture et l’intelligence.
 
-![13](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/13.jpg)
+![13](https://tcrouzet.com/images_tc/2014/08/13.jpg)
 
 > Le plan du leader est incontesté.
 
-![14](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/14.jpg)
+![14](https://tcrouzet.com/images_tc/2014/08/14.jpg)
 
 > Ce plan s’applique à tous jusque dans les moindres détails.
 
-![15](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/15.jpg)
+![15](https://tcrouzet.com/images_tc/2014/08/15.jpg)
 
 > Vous recevez votre revenu de base et vous vous en satisfaites.
 
 Cette caricature montre que les meilleures intentions, nées en temps de guerre, et nous sommes en guerre, peuvent conduire aux pires cauchemars. Je suis donc pour des revenus de base et m’opposerai à ceux déjà innombrables qui pensent à Un revenu de base, persuadés qu’il sera bon pour nous tous.
 
-Avec Isa, nous simulons un revenu de base. Nous avons renoncé à gagner plus pour vivre sur quelques économies, quelques revenus fonciers, nos droits d'auteurs. Nous en sommes plus heureux, plus libres, ce qui nous fait être optimistes quant à l'avenir d'une société à revenu de base. [Une lectrice témoigne dans le même sens.](http://blog.tcrouzet.com/2014/06/15/le-revenu-de-base-et-limpossible-decroissance/#comment-1438048524) Bien sûr, ce choix ne s’offre pas encore à tous. Il faut tenter d’autres expérimentations, obtenir d'autres signaux, d'autres encouragements. Et surtout ne rien faire tomber sur la société comme une chape de plomb.
+Avec Isa, nous simulons un revenu de base. Nous avons renoncé à gagner plus pour vivre sur quelques économies, quelques revenus fonciers, nos droits d'auteurs. Nous en sommes plus heureux, plus libres, ce qui nous fait être optimistes quant à l'avenir d'une société à revenu de base. [Une lectrice témoigne dans le même sens.](/2014/06/15/le-revenu-de-base-et-limpossible-decroissance/#comment-1438048524) Bien sûr, ce choix ne s’offre pas encore à tous. Il faut tenter d’autres expérimentations, obtenir d'autres signaux, d'autres encouragements. Et surtout ne rien faire tomber sur la société comme une chape de plomb.
 
 Lors de l’université d’été du revenu de base, chaque fois qu’un théoricien fera une proposition, je lui poserai les mêmes questions. Qu’est-ce que tu as déjà fait dans ta vie pour aller vers ton modèle ? Où en es-tu de l’expérience ? Si tu ne peux rien faire à ton échelle, à celle de ta communauté proche, ta proposition est dangereuse. Tu en es au stade 1 de la route de la servitude. Tu uses d'une situation politique troublée pour lever un assentiment.
 

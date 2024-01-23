@@ -16,7 +16,7 @@ Dans les semaines qui viennent, j'autopublierai ainsi un petit roman historique 
 
 ### J’ai un projet
 
-Il m’arrive d’avoir des idées de livres, souvent des essais, parfois des romans, mais je ne m’enflamme pas seul, peut-être un peu intimidé ou par manque de confiance. J’ai besoin d’une équipe, d’un soutien, d’échéances, d’objectifs. J'ai ainsi écrit [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) ou [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/).
+Il m’arrive d’avoir des idées de livres, souvent des essais, parfois des romans, mais je ne m’enflamme pas seul, peut-être un peu intimidé ou par manque de confiance. J’ai besoin d’une équipe, d’un soutien, d’échéances, d’objectifs. J'ai ainsi écrit [*Le peuple des connecteurs*](/le-peuple-des-connecteurs/) ou [*J’ai débranché*](/jai-debranche/).
 
 Ces livres ne sont pas moins bons que mes autres livres, au contraire. Simplement, je ne les aurais pas écrits si je n’avais pas su à l’avance qu’ils intéresseraient quelqu’un, et pas n’importe qui, un éditeur, un lecteur particulièrement attentif, lui-même persuadé que d’autres lecteurs le suivront.
 
@@ -32,7 +32,7 @@ C’est une vraie motivation pour un auteur d’être dans une telle dynamique. 
 
 OK, certains éditeurs adoptent déjà cette stratégie. Mais gaffe, avec le crowdsourcing, on peut déjà se passer de vous même avec nos projets. Ce sera moins cool sans votre intérêt, sans vos compétences, mais on y arrivera aussi.
 
-![publish or perish](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/Publishorperish-01.jpg)
+![publish or perish](https://tcrouzet.com/images_tc/2014/09/Publishorperish-01.jpg)
 
 
 

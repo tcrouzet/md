@@ -1,6 +1,6 @@
 # Le salut viendra de Belgique
 
-J’ai publié [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/) il y a maintenant quatre ans. Beaucoup de gens me disent que je devrais le mettre à jour, évoquer l’élection d’Obama, parler de la révolte iranienne de 2009, des révoltes actuelles dans le monde Arabe, des nouveaux outils sociaux. Je pourrais certes ajouter des exemples mais je changerais peu de choses à la théorie, sinon à la compléter avec les idées exposées dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/).
+J’ai publié [*Le cinquième pouvoir*](/le-cinquieme-pouvoir/) il y a maintenant quatre ans. Beaucoup de gens me disent que je devrais le mettre à jour, évoquer l’élection d’Obama, parler de la révolte iranienne de 2009, des révoltes actuelles dans le monde Arabe, des nouveaux outils sociaux. Je pourrais certes ajouter des exemples mais je changerais peu de choses à la théorie, sinon à la compléter avec les idées exposées dans [*L’alternative nomade*](/alternative-nomade/).
 
 Quand les hommes et les femmes s’interconnectent, ils deviennent plus puissants, plus libres, plus responsables. Face à eux, ceux qui veulent s’accaparer la puissance ne peuvent que durcir leurs positions. Nous en arrivons à la confrontation, inévitable, qui n’aura de cesse de se répéter jusqu’à ce que nous aboutissions à une société plus réticulaire que pyramidale.
 

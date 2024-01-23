@@ -1,6 +1,6 @@
 # Préidentielles 2007
 
-Hier soir, j'ai assisté au premier meeting du candidat [Rachid Nekkaz](http://blog.tcrouzet.com/2006/04/29/rachid-nekkaz-un-mec-bien/). Quand j'ai vu l'adresse du meeting, Paris septième, je me suis dit que ce n'était pas très original, que ça faisait déjà installé. Mais en fait, dans le septième il y a aussi des salles comme celles de l'[ASIEM](http://www.asiem.abcsalles.com) qui peuvent être louées à des associations.
+Hier soir, j'ai assisté au premier meeting du candidat [Rachid Nekkaz](/2006/04/29/rachid-nekkaz-un-mec-bien/). Quand j'ai vu l'adresse du meeting, Paris septième, je me suis dit que ce n'était pas très original, que ça faisait déjà installé. Mais en fait, dans le septième il y a aussi des salles comme celles de l'[ASIEM](http://www.asiem.abcsalles.com) qui peuvent être louées à des associations.
 
 Une fois cette appréhension levée, je suis descendu dans l'auditorium où nous nous sommes retrouvés une centaine, peut-être un peu plus, mais pas beaucoup plus. Le buzz n'a pas encore fonctionné pour Nekkaz. S'il veut que ses idées passent, il faut qu'il les fasse connaître via le web, seule méthode qui peut fonctionner très vite et à moindre coût. Son [site](http://www.nekkaz.com/) doit être revu totalement. Il faut qu'il devienne un [wiki](http://fr.wikipedia.org/wiki/Mediawiki). Pas besoin de réinventer la poudre comme [Ségolène](http://www.desirsdavenir.org/).
 

@@ -1,6 +1,6 @@
 # The tipping point
 
-Suite à [mon commentaire](http://blog.tcrouzet.com/2008/11/17/we-must-think-big/) et à un petit mail que je lui ai envoyé, Susan George m’écrit :
+Suite à [mon commentaire](/2008/11/17/we-must-think-big/) et à un petit mail que je lui ai envoyé, Susan George m’écrit :
 
 > Je crois avoir été bien précise – je n’ai strictement rien contre les initiatives petites et perso qui se lient ou qui ne se lient pas. Mais elles ne seront pas assez nombreuses assez vite. Toute la question est de savoir si tu crois vraiment à l’urgence ou pas. [Voir le film de Leo.](http://www.wakeupfreakout.org)
 

@@ -1,6 +1,6 @@
 # Repenser le Flux par les liens et le bonheur
 
-Je ne suis pas satisfait par la première partie de mon [*Alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/). Quelque chose dans l’idée de Flux est trop flou, pas assez explicite, surtout pas assez fécond. Samedi dernier, j’étais chez [Isabelle Filliozat](http://www.filliozat.net/) et elle m’a demandé pourquoi à mon avis il m’arrivait d’éprouver du bonheur dans le Flux. Je lui ai répondu : « c’est à cause des liens, parce que je me sens lié. »
+Je ne suis pas satisfait par la première partie de mon [*Alternative nomade*](/alternative-nomade/). Quelque chose dans l’idée de Flux est trop flou, pas assez explicite, surtout pas assez fécond. Samedi dernier, j’étais chez [Isabelle Filliozat](http://www.filliozat.net/) et elle m’a demandé pourquoi à mon avis il m’arrivait d’éprouver du bonheur dans le Flux. Je lui ai répondu : « c’est à cause des liens, parce que je me sens lié. »
 
 Elle m’a alors dit que le bonheur n’était pas compliqué. On l’éprouve quand on se sent lié aux autres et quand on a l’impression d’accomplir quelque chose.
 
@@ -16,7 +16,7 @@ Nos liens doivent nous faire sortir du groupe, ils doivent nous mettre sur la ro
 
 Il me paraît alors important de repenser le Flux en termes de liens, tout cela en essayant de revenir à l’idée initiale de Shannon. Une source (1) encode (2) un message qu’il transforme en signal (3) qui sera décodé (4) par le destinataire (5).
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/02/fluxlink.png)
+![](https://tcrouzet.com/images_tc/2010/02/fluxlink.png)
 
 J’ai schématisé le Flux qu’il faut voir comme un processus. Des propulseurs, humains ou robotisés, génèrent des informations, des liens entre les informations existantes ou des liens entre des propulseurs.
 

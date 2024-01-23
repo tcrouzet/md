@@ -1,6 +1,6 @@
 # Créatifs culturels
 
-Depuis la sortie du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), plusieurs personnes, dont [Éric Seulliet](http://www.e-mergences.net/ProjetCC.html), m'ont signalé la ressemblance entre les connecteurs et les créatifs culturels. Je n'avais jamais entendu parler d'eux. [*Les Échos*](http://www.lesechos.fr/info/rew_metiers/4388732.htm) ont publié une définition des créatifs culturels :
+Depuis la sortie du [*Peuple des connecteurs*](/le-peuple-des-connecteurs/), plusieurs personnes, dont [Éric Seulliet](http://www.e-mergences.net/ProjetCC.html), m'ont signalé la ressemblance entre les connecteurs et les créatifs culturels. Je n'avais jamais entendu parler d'eux. [*Les Échos*](http://www.lesechos.fr/info/rew_metiers/4388732.htm) ont publié une définition des créatifs culturels :
 
 > Après les « bobos » voici les « créatifs culturels », férus de développement personnel et d'ouverture aux autres, mais menacés par le retour aux communautarismes.
 

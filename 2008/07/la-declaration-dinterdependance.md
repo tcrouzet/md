@@ -1,6 +1,6 @@
 # Déclaration d&#8217;interdépendance
 
-Il y a deux ans je proposais [ma version de la déclaration d’interdépendance](http://blog.tcrouzet.com/2006/06/27/declaration-d%e2%80%99interdependance/). Je reproduis ici la version publiée à la fin du [*Cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), en préliminaire d’une réappropriation de la [déclaration d’indépendance du cybermonde de John Perry Barlow](http://www.freescape.eu.org/eclat/1partie/Barlow/barlowtxt.html).
+Il y a deux ans je proposais [ma version de la déclaration d’interdépendance](/2006/06/27/declaration-d%e2%80%99interdependance/). Je reproduis ici la version publiée à la fin du [*Cinquième pouvoir*](/le-cinquieme-pouvoir/), en préliminaire d’une réappropriation de la [déclaration d’indépendance du cybermonde de John Perry Barlow](http://www.freescape.eu.org/eclat/1partie/Barlow/barlowtxt.html).
 
 Albert Jacquard explique que nous ne pouvons étudier le monde qu’en décrivant les interactions entre les choses.
 

@@ -4,7 +4,7 @@ Barbara Loup, responsable Formation &amp; Documentation de l’académie de Mont
 
 *— Dans un des billets de votre blog, vous indiquez que lorsque vous avez le choix entre lire sur papier ou en numérique, vous optez pour le numérique. Pouvez-vous expliquer pourquoi ?*
 
-— J’ai écrit plusieurs articles pour expliquer les avantages de la lecture numérique, [notamment sous la forme d’une liste humoristique](http://blog.tcrouzet.com/2014/03/22/pourquoi-jaime-lire-en-numerique/) : mobilité, confort, liberté, diversité de l’écosystème… En fait, je ne vois tout simplement plus aucun intérêt à lire sur papier, surtout [quand on peut se payer une liseuse à encre électronique de dernière génération pour 39 €](http://blog.tcrouzet.com/2015/03/13/jaime-amazon).
+— J’ai écrit plusieurs articles pour expliquer les avantages de la lecture numérique, [notamment sous la forme d’une liste humoristique](/2014/03/22/pourquoi-jaime-lire-en-numerique/) : mobilité, confort, liberté, diversité de l’écosystème… En fait, je ne vois tout simplement plus aucun intérêt à lire sur papier, surtout [quand on peut se payer une liseuse à encre électronique de dernière génération pour 39 €](/2015/03/13/jaime-amazon).
 
 On la rentabilise en lisant quatre ou cinq textes du domaine public, gratuits en version ebook, genre *Les trois Mousquetaires* ou *Le Rouge et le Noir*. Combien de textes du domaine public doivent lire les élèves au cours de leur scolarité ? Bien plus de quatre ou cinq. La messe devrait être dite depuis longtemps, mais bien sûr ça n’intéresse pas les éditeurs qui gagnent pas mal d’argent en imprimant les textes du domaine public puis en les fourguant aux élèves.
 
@@ -22,7 +22,7 @@ En revanche, j’ai beaucoup de mal à lire des textes longs sur tablette ou sma
 
 Un dernier avantage, et non des moindres, il est très facile de craquer les ebooks achetés sur Amazon, donc d’enlever les DRM, pour pouvoir ensuite lire les livres sur d’autres appareils. Je ne parle pas là de piratage, mais du simple confort de lecture. Je veux pouvoir lire les livres que j’achète sur mon Kindle, mon téléphone, mon ordinateur, et avec le logiciel de mon choix. Paradoxalement, le Kindle ne m’enferme pas du tout.
 
-*— Dans votre billet intitulé [Ce que le Net n'a pas changé](http://blog.tcrouzet.com/2013/10/11/ce-que-le-net-na-pas-change/), vous n'abordez pas la question de l'école. Quel est selon vous le rapport entre le net et l'école (l'enseignant, l'élève, les apprentissages) ? Pensez-vous que le Net a changé l'école ?*
+*— Dans votre billet intitulé [Ce que le Net n'a pas changé](/2013/10/11/ce-que-le-net-na-pas-change/), vous n'abordez pas la question de l'école. Quel est selon vous le rapport entre le net et l'école (l'enseignant, l'élève, les apprentissages) ? Pensez-vous que le Net a changé l'école ?*
 
 — Mon expérience de l’école se limite pour le moment au primaire (mon fils aîné étant en CM2, mon cadet en CE1). Dans leur cas, les profs ne leur ont transmis aucune culture numérique. Donc, je pourrais en conclure que le Net n’a rien changé à l’école. Sauf, quand j’ai vu mon cadet s’amuser sur [Khan Academy](https://fr.khanacademy.org/). J’ai alors l’impression que l’école ne veut pas changer avec le numérique, mais c’est peut-être une bonne chose, nos ministres prennent déjà assez souvent nos enfants en otages de leurs réformes précipitées et sans grande portée.
 
@@ -40,7 +40,7 @@ C’est d’autant plus facile que le moindre smartphone est une liseuse. Que de
 
 Qu’un prof charge les livres au programme sur son compte Wattpad et je suis sûr qu’il sera surpris du résultat. Lire c’est un plaisir, c’est un jeu, alors il faut jouer.
 
-![Les classiques sur Wattpad.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/wp-600x377.jpg)
+![Les classiques sur Wattpad.](https://tcrouzet.com/images_tc/2015/04/wp-600x377.jpg)
 
 
 

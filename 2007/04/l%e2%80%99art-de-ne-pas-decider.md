@@ -34,7 +34,7 @@ Cette solution peut être métalocale. Une communauté qui ne peut produire d’
 
 En résumé, il n’y a pas de décision à prendre pour les autres, il n’y a que des solutions à trouver ensemble, des solutions qui conviennent à ceux qui vont être touchés.
 
-Je m’oppose à la vision du politicien comme décideur. Le décideur est un dictateur dès que ses décisions nuisent à des citoyens. Il justifie ses décisions au nom de l’intérêt général mais c’est lui-même qui détermine cet intérêt général ([on se retrouve dans la situation dénoncée par Étienne Chouard](http://blog.tcrouzet.com/2007/03/04/pour-une-assemblee-constituante/)). L’intérêt général ne fait alors que cacher des intérêts particuliers. Un politicien n'est pas là pour déciser mais pour aider les citoyens à trouver des solutions.
+Je m’oppose à la vision du politicien comme décideur. Le décideur est un dictateur dès que ses décisions nuisent à des citoyens. Il justifie ses décisions au nom de l’intérêt général mais c’est lui-même qui détermine cet intérêt général ([on se retrouve dans la situation dénoncée par Étienne Chouard](/2007/03/04/pour-une-assemblee-constituante/)). L’intérêt général ne fait alors que cacher des intérêts particuliers. Un politicien n'est pas là pour déciser mais pour aider les citoyens à trouver des solutions.
 
 Notes terminales :
 

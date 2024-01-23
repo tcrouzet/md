@@ -1,6 +1,6 @@
 # Non pas une constitution, oui à une multitude
 
-Stéphane Laborde fait sa radio sur [Monnaie libre](http://monnaielibre.creationmonetaire.info/). Dans [son émission 28](http://monnaielibre.creationmonetaire.info/monnaie-libre-n28-comme-un-jardin-deden/), nous avons parlé des [jardins d’Éden](http://blog.tcrouzet.com/2013/02/18/le-revenu-de-base-comme-jardin-deden/), de la complexité, du libre. En cours de route, une idée s’est imposée à nous.
+Stéphane Laborde fait sa radio sur [Monnaie libre](http://monnaielibre.creationmonetaire.info/). Dans [son émission 28](http://monnaielibre.creationmonetaire.info/monnaie-libre-n28-comme-un-jardin-deden/), nous avons parlé des [jardins d’Éden](/2013/02/18/le-revenu-de-base-comme-jardin-deden/), de la complexité, du libre. En cours de route, une idée s’est imposée à nous.
 
 \
 

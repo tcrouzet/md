@@ -18,7 +18,7 @@ J’ajoute le livre qui m’a le plus marqué et je les range par date de public
 10. [Witold Gombrowicz](http://fr.wikipedia.org/wiki/Witold_Gombrowicz), *Journal*, 1966.
 11. [Frank Herbert](http://fr.wikipedia.org/wiki/Frank_Herbert), *La barrière Santaroga*, 1968.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/11/frank_herbert___the_santaroga_barrier1.jpg)
+![](https://tcrouzet.com/images_tc/2010/11/frank_herbert___the_santaroga_barrier1.jpg)
 
 12. [Claude Simon](http://fr.wikipedia.org/wiki/Claude_Simon), *Triptyque*, 1973.
 13. [Georges Perec](http://fr.wikipedia.org/wiki/Georges_Perec), *Tentative d’épuisement d’un lieu parisien*, 1975.

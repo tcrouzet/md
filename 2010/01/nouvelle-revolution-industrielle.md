@@ -1,6 +1,6 @@
 # La nouvelle révolution industrielle
 
-Ainsi titre le *Wired* de février, un *Wired* qui s’amincit de numéro en numéro et qui bientôt se désagrègera. Anderson y annonce la révolution 2.0 dans l’automobile, parle de design Open Source, de voitures [DIY](http://fr.wikipedia.org/wiki/Do_it_yourself)… Il prophétise une nouvelle forme d’artisanat comme je le fais en cinquième partie de [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/).
+Ainsi titre le *Wired* de février, un *Wired* qui s’amincit de numéro en numéro et qui bientôt se désagrègera. Anderson y annonce la révolution 2.0 dans l’automobile, parle de design Open Source, de voitures [DIY](http://fr.wikipedia.org/wiki/Do_it_yourself)… Il prophétise une nouvelle forme d’artisanat comme je le fais en cinquième partie de [*L’alternative nomade*](/alternative-nomade/).
 
 Mais je vois un bug dans son approche. La nouvelle révolution industrielle se débarrasse des vastes usines, des énormes entreprises, elle réduit les timings, s’appuie sur les idées et non sur les matières premières… mais n’oublie-t-elle pas de lâcher quelque chose ?
 
@@ -24,7 +24,7 @@ Anderson continue d’entretenir l’ambigüité entre accessibilité et démocr
 
 Les charognards rodent déjà. Ils reniflent le DIY ? Ils voient de nouvelles opportunités de big business. Ils ne veulent surtout pas que la longue traîne se développe spontanément, ils veulent la contrôler, la marketer… et se faisant nous éloigner d’autant plus la renaissance du socialisme.
 
-Anderson ne peut pas s’empêcher de parler des millions de dollars. Il reste englué dans ses anciens *metrix*. Il termine pourtant son article en nous racontant comme lui-même s’est lancé dans le DIY, sans financement a priori. C’est vers ce développement organique que nous devons nous diriger (je discute cette idée à la fin de [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/)).
+Anderson ne peut pas s’empêcher de parler des millions de dollars. Il reste englué dans ses anciens *metrix*. Il termine pourtant son article en nous racontant comme lui-même s’est lancé dans le DIY, sans financement a priori. C’est vers ce développement organique que nous devons nous diriger (je discute cette idée à la fin de [*L’alternative nomade*](/alternative-nomade/)).
 
 Le propulseur est non seulement celui qui pousse l’information dans le Flux, mais aussi celui qui y pousse des objets, des services… Le propulseur succède au salarié, à l’employé, à l’amateur… Il est l’artisan de la nouvelle renaissance.
 

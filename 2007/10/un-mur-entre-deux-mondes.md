@@ -2,7 +2,7 @@
 
 
 
-![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/pacco3.jpg)
+![Pacco](https://tcrouzet.com/images_tc/2007/10/pacco3.jpg)
 
 Ces deux visions n’opposent pas des pays, des générations, des entreprises, des religions… mais des hommes peu importe leur milieu social, leur nation ou la couleur de leur peau. Pour ne rien simplifier, ces deux visions s’interpénètrent et se brouillent.
 

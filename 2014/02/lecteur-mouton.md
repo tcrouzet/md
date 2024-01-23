@@ -1,6 +1,6 @@
 # Lecteur = mouton
 
-Je ne parle pas de toi qui es arrivé jusqu’ici, [mais du lecteur tel que nous le décrivent les statistiques](http://blog.tcrouzet.com/2014/02/20/la-desintegration-du-marche-du-livre/). Ce lecteur acheteur des mêmes livres que les autres lecteurs, il faut bien qu’il existe pour engendrer des best-sellers de plus en plus retentissants, tout en laissant les seconds couteaux exsangues.
+Je ne parle pas de toi qui es arrivé jusqu’ici, [mais du lecteur tel que nous le décrivent les statistiques](/2014/02/20/la-desintegration-du-marche-du-livre/). Ce lecteur acheteur des mêmes livres que les autres lecteurs, il faut bien qu’il existe pour engendrer des best-sellers de plus en plus retentissants, tout en laissant les seconds couteaux exsangues.
 
 Alors, oui, toi, peut-être, tu n’es pas moutonnier, tu es curieux, tu explores, tu prends des risques, mais tu appartiens à une infime minorité. Il faut que tu l’acceptes, et que moi même j’en convienne, en un acte de lucidité.
 

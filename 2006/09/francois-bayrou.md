@@ -1,6 +1,6 @@
 # François Bayrou
 
-À l’occasion de mon [prochain livre](http://blog.tcrouzet.com/2006/08/28/quatrieme-de-couverture-v1/), je rencontre nos politiciens. Je sors d’un entretien avec le patron de l’UDF. J’ai découvert un connecteur qui ne s’ignore pas. Bayrou comprend le web parce qu’il l’utilise. Il a aussi compris que le web ne se contrôlait pas, que la complexité ne se contrôlait pas, ce qui implique d’autres pratiques politiques. Bien sûr j’étais aux anges.
+À l’occasion de mon [prochain livre](/2006/08/28/quatrieme-de-couverture-v1/), je rencontre nos politiciens. Je sors d’un entretien avec le patron de l’UDF. J’ai découvert un connecteur qui ne s’ignore pas. Bayrou comprend le web parce qu’il l’utilise. Il a aussi compris que le web ne se contrôlait pas, que la complexité ne se contrôlait pas, ce qui implique d’autres pratiques politiques. Bien sûr j’étais aux anges.
 
 Nous avons parlé du dépassement du clivage gauche-droite, de tout ce dont je discute souvent ici. L’entretien s’est transformé en discussion. Nous avons évoqué la séparation des pouvoirs. Je lui ai dit « Le nouveau pouvoir, c’est nous tous les citoyens, c'est le cinquième pouvoir. » Il m’a dit « J’en suis persuadé. »
 

@@ -1,6 +1,6 @@
 # La TV est dangereuse
 
-Ou est-ce juste TF1 ? Je n’avais pas regardé une émission politique depuis au moins une dizaine d’années et, hier soir, [après avoir publié un court billet](http://blog.tcrouzet.com/2007/02/26/questions-aux-journalistes/), j’ai fini par me décider d’aller voir chez mes voisins la prestation de Bayrou.
+Ou est-ce juste TF1 ? Je n’avais pas regardé une émission politique depuis au moins une dizaine d’années et, hier soir, [après avoir publié un court billet](/2007/02/26/questions-aux-journalistes/), j’ai fini par me décider d’aller voir chez mes voisins la prestation de Bayrou.
 
 Pour quelqu’un qui comme moi n’a pas la télé, qui ne la regarde pas, ce fut un spectacle terrifiant. J’ai eu l’impression de retourner dans un autre temps et d’embarquer dans un vaisseau fantôme peuplé d’aliens. Le plateau rouge en forme d’hémicycle ressemblait à une soucoupe volante tiré d’un film de Mel Brooks. Le décor n’était même pas kitsch, même pas de mauvais goût, simplement médiocre comme les questions désordonnées des spectateurs.
 

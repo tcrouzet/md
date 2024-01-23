@@ -22,7 +22,7 @@ Nous construisons notre avenir.
 
 Je ne vais pas maintenant jusqu’à nier l’existence des traits de caractères. Certains hommes comme moi sont ingérables, d’autres travaillent mieux sous la direction d’un manager, d’autres sont fainéants, d’autres infatigables… tout cela dessine-t-il la nature humaine ?
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/08/5thyou.jpg)
+![](https://tcrouzet.com/images_tc/2008/08/5thyou.jpg)
 
 De nombreux psychologues proposent de nous définir à partir de [cinq traits plus où moins prégnants chez chacun de nous](http://www.newscientist.com/article.ns?id=mg19726421.800). Mais je n’ai jamais lu le moindre article qui disait que les riches possédaient tel ou tel cocktail de compétences, les élites tel autre, les politiciens tel autre. Cinq traits avec chacun une infinité de dosage donne une infinité de personnalités possibles. Encore une fois, je ne vois pas poindre une nature humaine mais quelques grands mouvements assez imprécis.
 

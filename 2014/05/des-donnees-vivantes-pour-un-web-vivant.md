@@ -1,8 +1,8 @@
 # Des données vivantes pour un Web vivant
 
-En 2009, [quand il nous est apparu évident qu’il fallait un après-web](http://blog.tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/), quand nous avons annoncé l’avènement du flux, c’était encore une intuition, ou même une prédication. Le flux allait arriver, presque par magie.
+En 2009, [quand il nous est apparu évident qu’il fallait un après-web](/2009/08/17/vers-un-web-sans-site-web/), quand nous avons annoncé l’avènement du flux, c’était encore une intuition, ou même une prédication. Le flux allait arriver, presque par magie.
 
-La vérité est moins reluisante. Pour que le flux se déploie, nous devons ajouter une nouvelle couche à internet, [nous devons rendre vivantes les informations](http://blog.tcrouzet.com/2014/05/17/un-livre-na-pas-dadresse-lapres-web-non-plus/). Voici quelques caractéristiques de la vie non végétative appliquées aux informations.
+La vérité est moins reluisante. Pour que le flux se déploie, nous devons ajouter une nouvelle couche à internet, [nous devons rendre vivantes les informations](/2014/05/17/un-livre-na-pas-dadresse-lapres-web-non-plus/). Voici quelques caractéristiques de la vie non végétative appliquées aux informations.
 
 - Mobilité (non-localité, pas d’attachement à un serveur, à une adresse, à une infrastructure particulière).
 
@@ -38,7 +38,7 @@ Pourquoi faudrait-il se lancer dans un tel développement ?
 
 Ce qui me paraît vital, c’est donner une autonomie aux informations, les libérer des silos, ne pas nous placer dans une société informationnelle moins permissive que celle offerte par le livre, ce qui est le cas avec le Web d’aujourd’hui. Sous le couvert d’une plus grande liberté de parole, le contrôle est plus fort que jamais.
 
-![Silos de Trigueros par Jesus Belzunce.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/silos-600x397.jpg)
+![Silos de Trigueros par Jesus Belzunce.](https://tcrouzet.com/images_tc/2014/05/silos-600x397.jpg)
 
 
 

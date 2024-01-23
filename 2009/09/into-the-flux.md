@@ -6,7 +6,7 @@ Ou le temps des propulseurs
 
 Ou quand les petits ruisseaux font de grandes rivières.
 
-À force de parler de [flux](http://blog.tcrouzet.com/tag/flux/) et de penser par flux, je me demande si je ne suis pas en train d’écrire un nouveau livre, suite du *Peuple des connecteurs* et du *Cinquième pouvoir* tout en mettant en suspend [*Le socialisme selon Starglider*](http://blog.tcrouzet.com/tag/starglider/).
+À force de parler de [flux](/tag/flux/) et de penser par flux, je me demande si je ne suis pas en train d’écrire un nouveau livre, suite du *Peuple des connecteurs* et du *Cinquième pouvoir* tout en mettant en suspend [*Le socialisme selon Starglider*](/tag/starglider/).
 
 > FLUX nom masculin (1306 ; du latin fluxus qui signifie écoulement). Écoulement d’un liquide quelconque hors de son réservoir habituel. Marée montante. Le flux impétueux de la foule. Flux de paroles, bavardage. Flux lumineux : quantité de lumière émise par une source lumineuse dans un temps déterminé. Par extension : écoulement de l’information en même temps que l’information elle-même qui s’écoule. Alors synonyme de flot.
 
@@ -28,15 +28,15 @@ Vous lisez peut-être ce texte sur papier, peut-être aussi sur l’écran de vo
 
 ### Sommaire imaginaire
 
-1. [Le livre sans papier](http://blog.tcrouzet.com/2009/08/26/le-livre-echappera-pas-aux-flux/) (avec rappel de la musique sans disque).
+1. [Le livre sans papier](/2009/08/26/le-livre-echappera-pas-aux-flux/) (avec rappel de la musique sans disque).
 
-2. [Le web sans site web](http://blog.tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/).
+2. [Le web sans site web](/2009/08/17/vers-un-web-sans-site-web/).
 
 3. Les objets sans matière (avec les nanotechnologies même les objets deviennent flux).
 
 4. La vie sans principe (indispensable Thoreau ou comment la liberté s’accroît avec la coopération grandissante – quand la vie devient liquide, elle s’écoule mieux).
 
-5. [La distribution sans prix.](http://blog.tcrouzet.com/2009/08/31/leconomie-des-flux/)
+5. [La distribution sans prix.](/2009/08/31/leconomie-des-flux/)
 
 6. La finance sans banque (monnaie vient de *currency* en anglais qui vient du latin *currere* qui signifie courir ou s’écouler – la finance est par essence un flux).
 

@@ -4,8 +4,8 @@
 
 Devinette : qui a écrit ce texte ? Chris Anderson, le spécialiste de la rareté face à l’abondance ? Non. Il faut chercher plus loin, beaucoup plus loin, et remonter en 1492 quand Johannes Trithemius écrit *De viris illustribus ordinis sancti Benedicti* (*Des hommes illustres dans l'ordre de saint Benoît*). Mais bientôt il se plaignit des méfaits de l’imprimerie. Elle rendait selon lui fainéants les moines et il imposa à ceux de son abbaye de maintenir la tradition des scribes, dont il fera l’éloge dans *De laude scriptorum manualium*, livre qu’il fera néanmoins imprimer ! [The Abbot Trithemius (1462-1516): the renaissance of monastic humanism](http://books.google.fr/books?id=qkgXAAAAIAAJ&pg=PA144&lpg=PA144&dq=Johannes+Trithemius+De+laude+scriptorum+manualium&source=bl&ots=P0kTFmQW0d&sig=Cfuqe0Q334iZYkdTeEFcUs7inCc&hl=fr&ei=_umcSoq4MMahjAfk2ITbDQ&sa=X&oi=book_result&ct=result&resnum=2#v=onepage&q=Johannes%20Trithemius%20De%20laude%20scriptorum%20manualium&f=false)
 
-![Evolution techno impression](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/abondance.png)
+![Evolution techno impression](https://tcrouzet.com/images_tc/2009/09/abondance.png)
 
 Pour moi, l'édition connaît sa quatrième phase. À chacune, un palier est franchi dans l’accroissement de l’abondance des textes. Je n’ai guère trouvé de statistiques sinon une courbe d’évolution du nombre de livres publiés entre 1800 et 2000.
 
-![books](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/books.png)
+![books](https://tcrouzet.com/images_tc/2009/09/books.png)

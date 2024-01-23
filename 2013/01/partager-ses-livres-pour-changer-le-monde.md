@@ -1,6 +1,6 @@
 # Partager ses livres pour changer le monde
 
-[Écrire, c'est sculpter](http://blog.tcrouzet.com/2013/01/11/lecon-dhumilite-pour-auteurs-pretentieux/), non seulement le texte, mais aussi et avant tout les lecteurs. Eux-mêmes, en parlant des textes qu'ils aiment, en les offrants, en les échangeant, sculptent, donc transforment leurs amis… et cette foule transformée ne peut que changer le monde.
+[Écrire, c'est sculpter](/2013/01/11/lecon-dhumilite-pour-auteurs-pretentieux/), non seulement le texte, mais aussi et avant tout les lecteurs. Eux-mêmes, en parlant des textes qu'ils aiment, en les offrants, en les échangeant, sculptent, donc transforment leurs amis… et cette foule transformée ne peut que changer le monde.
 
 Partager est donc un acte politique inaliénable et il serait bien paradoxal que le numérique en limite la portée au nom d'un quelconque copyright.
 
@@ -10,7 +10,7 @@ J'ai toujours partagé mes livres papier avec mes amis, je veux pouvoir partager
 
 1929
 
-![colline](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/01/colline-350x566.jpg)
+![colline](https://tcrouzet.com/images_tc/2013/01/colline-350x566.jpg)
 
 J'ai retrouvé dans ce premier roman de Giono les mots de mes grands-parents, des gens du village, avec en arrière-plan une nature encore sacrée, remplie de secrets et de sombres histoires héritées de religions païennes.
 
@@ -18,7 +18,7 @@ J'ai retrouvé dans ce premier roman de Giono les mots de mes grands-parents, de
 
 1947
 
-![neigePays de neige](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/01/neige-350x600.jpg)
+![neigePays de neige](https://tcrouzet.com/images_tc/2013/01/neige-350x600.jpg)
 
 Minimalisme extrême sur fond blanc. Un homme et une femme s'aiment presque en silence. C'est une traduction, mais une traduction dans un style parfait, limpide, jamais excessif. Je suis resté admiratif au fil des pages.
 
@@ -26,9 +26,9 @@ Minimalisme extrême sur fond blanc. Un homme et une femme s'aiment presque en s
 
 1960
 
-![Les mains du miracle](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/01/kessel-350x531.jpg)
+![Les mains du miracle](https://tcrouzet.com/images_tc/2013/01/kessel-350x531.jpg)
 
-Cette fois c'est l'histoire extraordinaire du masseur de Himmler qui me tient. Adepte de la [narrative nonfiction](http://blog.tcrouzet.com/2009/03/01/narrative-nonfiction/), Kessel fait du new new journalism avec brio, presque avant les Américains. Il ne se cache pas dans son histoire, sans nous imposer sa présence.
+Cette fois c'est l'histoire extraordinaire du masseur de Himmler qui me tient. Adepte de la [narrative nonfiction](/2009/03/01/narrative-nonfiction/), Kessel fait du new new journalism avec brio, presque avant les Américains. Il ne se cache pas dans son histoire, sans nous imposer sa présence.
 
 ### Suis-je un pirate ?
 

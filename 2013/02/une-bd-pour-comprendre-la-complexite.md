@@ -8,25 +8,25 @@ Quand je dis qu'il faut complexifier pour libérer, on me dit de m'occuper de l'
 
 ### Simplicité/Rareté
 
-![Simplicité](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/cplx1.jpg)
+![Simplicité](https://tcrouzet.com/images_tc/2013/02/cplx1.jpg)
 
 Un entonnoir rien de plus simple. Si on y lâche une bille, elle ne peut suivre qu'un seul chemin (rareté des possibles). Son avenir est prévisible, inévitable. Les stoïciens niaient la liberté et utilisaient cette métaphore pour décrire la vie. Inutile selon eux de se battre contre la destinée. On pouvait au mieux s'en accommoder. 
 
 ### Compliqué/Abondance illusoire
 
-![Complication](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/cplx2.jpg)
+![Complication](https://tcrouzet.com/images_tc/2013/02/cplx2.jpg)
 
 Le tuyau de l'entonnoir dessine un labyrinthe kafkaïen qui donne l'illusion d'abondance. Destin tout aussi inévitable, mais au prix d'une infinité de méandres.
 
 ### Complexe/Abondance
 
-![Complexe](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/cplx3.jpg)
+![Complexe](https://tcrouzet.com/images_tc/2013/02/cplx3.jpg)
 
 Du fond de l'entonnoir partent un grand nombre, voire une quasi-infinité, de tuyaux. Impossible de prédire lequel choisira la bille. Nous entrons dans le domaine de la complexité. Elle jaillit d'une accumulation de simples. Jamais le compliqué ne mène à elle. Il est trop lourd, trop peu organique, pour se déployer de lui-même en une floraison fractale. La complexité, c'est le simple démultiplié.
 
 ### Mimétisme
 
-![Mimétisme](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/cplx4.jpg)
+![Mimétisme](https://tcrouzet.com/images_tc/2013/02/cplx4.jpg)
 
 La complexité est la condition *sine qua non* de la liberté. Si la bille n'a qu'une possibilité, elle n'a aucun choix, donc aucune chance d'exercer un éventuel libre arbitre.
 
@@ -34,7 +34,7 @@ Quand la complexité démultiplie les possibles, donc les choix existentiels, la
 
 ### Individuation
 
-![Individuation](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/cplx5.jpg)
+![Individuation](https://tcrouzet.com/images_tc/2013/02/cplx5.jpg)
 
 Quand chacune des billes exerce sa volonté, chacune suit une route qui lui est propre. Tous les chemins sont explorés en parallèle, concurremment. Ainsi l'intelligence collective s'accroît. On ne se jette pas tous vers une solution miracle, un des tuyaux parmi une multitude, mais on les parcourt et en tire des leçons.
 
@@ -48,9 +48,9 @@ La plupart des activistes refusent mes vues sur la complexité. Ils ne les prenn
 
 Ils me répondent presque invariablement que l'homme a changé, qu'il est prêt. Ce changement serait presque un évènement surnaturel. Nous serions soudain plus éveillés. J'ai entendu beaucoup de gens défendre cette thèse qui tient du calendrier maya. Les crises suffiraient à réveiller les consciences. Mais l'humanité n'a jamais cessé de vivre en crise. Les riches de dominer les pauvres, les puissants d'écraser les faibles. Notre situation n'est pas plus catastrophique qu'une autre plus ancienne, et même peut-être moins.
 
-Rassurez-vous, je pense aussi que nous sommes prêts, ou presque. Mais j'ai une explication beaucoup plus rationnelle et pragmatique. Dans [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), j'ai montré que la démocratisation est une réponse adaptative du corps social à la complexification. Nous n'adoptons pas la démocratie uniquement parce que nous sommes plus sages mais parce qu'elle est bien plus efficace pour encaisser la complexité croissante du monde.
+Rassurez-vous, je pense aussi que nous sommes prêts, ou presque. Mais j'ai une explication beaucoup plus rationnelle et pragmatique. Dans [*L'alternative nomade*](/alternative-nomade/), j'ai montré que la démocratisation est une réponse adaptative du corps social à la complexification. Nous n'adoptons pas la démocratie uniquement parce que nous sommes plus sages mais parce qu'elle est bien plus efficace pour encaisser la complexité croissante du monde.
 
-![Démocratie et complexité](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/02/demopop-450x531.png)
+![Démocratie et complexité](https://tcrouzet.com/images_tc/2013/02/demopop-450x531.png)
 
 La démocratie représentative aura été une étape dans cette symbiose avec la complexité. D'autres formes politiques devront émerger pour que nous poursuivions cette histoire, sous peine d'entrer en régression. Donc pas de fatalité. L'homme est poussé à changer. S'il ne change pas, il connaîtra un nouvel âge noir. L'histoire nous a habitués aux marches arrières. Preuve qu'il n'existe pas d'évolution psychologique irréversible. Nous avançons sur des œufs. 
 

@@ -12,7 +12,7 @@ Cette question est totalement absurde car elle contient en elle-même la répons
 
 Le 27 mars, une seconde réquisition nous a demandé qui étaient les directeurs de la publication bonVote.
 
-J’ai essayé de régler cette affaire en discutant avec le PS qui m’a promis d’agir mais, sans doute pris par la campagne, m’a oublié. La semaine dernière, [en discutant de l’histoire des sondages à 18 heures](http://blog.tcrouzet.com/2007/04/20/sondages-a-18-h-la-grande-incompetence/), j’ai alors vu sous un nouveau jour la plainte déposée par le couple Royal-Hollande. Elle implique un [déni des principes centraux d’internet](http://blog.tcrouzet.com/2007/04/20/internet-en-danger/).
+J’ai essayé de régler cette affaire en discutant avec le PS qui m’a promis d’agir mais, sans doute pris par la campagne, m’a oublié. La semaine dernière, [en discutant de l’histoire des sondages à 18 heures](/2007/04/20/sondages-a-18-h-la-grande-incompetence/), j’ai alors vu sous un nouveau jour la plainte déposée par le couple Royal-Hollande. Elle implique un [déni des principes centraux d’internet](/2007/04/20/internet-en-danger/).
 
 Je ne veux pas en faire une affaire entre les deux tours. Je crois que tout cela n’est pas intentionnel et démontre une grande incompétence des conseillers juridiques du PS. Mais tout de même… le loup vient d’entrer dans la bergerie.
 

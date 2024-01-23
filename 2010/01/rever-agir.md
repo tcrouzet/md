@@ -1,6 +1,6 @@
 # Tu peux rêver, j’ai droit d’agir
 
-J’ai souvent vu cité depuis dix jours [L’Éloge de la métamorphose](http://www.lemonde.fr/opinions/article/2010/01/09/eloge-de-la-metamorphose-par-edgar-morin_1289625_3232.html) de Morin et j’ai repensé à [la trilogie de Krakauer](http://blog.tcrouzet.com/2010/01/17/jon-krakauer-trilogie/). Nous n’aurions jamais connu ses héros s’ils n’étaient pas morts, parfois il se produit le contraire… par exemple pour Morin, nous n’aurions jamais autant entendu parler de lui s’il n’avait pas été en aussi bonne santé à 88 ans.
+J’ai souvent vu cité depuis dix jours [L’Éloge de la métamorphose](http://www.lemonde.fr/opinions/article/2010/01/09/eloge-de-la-metamorphose-par-edgar-morin_1289625_3232.html) de Morin et j’ai repensé à [la trilogie de Krakauer](/2010/01/17/jon-krakauer-trilogie/). Nous n’aurions jamais connu ses héros s’ils n’étaient pas morts, parfois il se produit le contraire… par exemple pour Morin, nous n’aurions jamais autant entendu parler de lui s’il n’avait pas été en aussi bonne santé à 88 ans.
 
 Dans cet article Morin illustre la [Metasystem Transition Theory](http://pespmc1.vub.ac.be/MSTT.html) proposée par Valentin Turchin en 1977, année où sortait le premier tome de la *Méthode* qui ne l’évoque pas (si mes souvenirs sont bons). L’article est passionnant, je tire mon chapeau à Morin, même s’il n’est pas l’auteur de cette théorie.
 
@@ -22,7 +22,7 @@ Tous les adeptes de la complexité défendent ce point de vue car il n’y a pas
 
 À mon sens Morin s’arrête là. Il lance un message d’espoir, un éloge de l’approche complexe qui, en l’état, ne peut guère enclencher des actions concrètes… sinon d’attendre justement que les pièces s’assemblent toutes seules. Se pose alors la question de notre rôle, celui de notre implication politique. Que pouvons-nous faire ?
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/01/cicle.png)
+![](https://tcrouzet.com/images_tc/2010/01/cicle.png)
 
 Dans le manuscrit de *L’alternative nomade*, j’ai depuis le tout premier jet inséré ce schéma pour illustrer le fait que nous nous transformons en fonction des informations que nous recevons et que, en nous transformant, nous transformons la société qui nous transforme à son tour ce qui nous pousse à produire de nouvelles informations. La boucle est depuis longtemps amorcée.
 

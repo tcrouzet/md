@@ -2,11 +2,11 @@
 
 Voici le titre quasi définitif de mon prochain livre qui devrait sortir au printemps. Et voici trois essais de couverture dans des styles différents. Vous en pensez quoi ?
 
-![betac1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/01/betac1.png)
+![betac1](https://tcrouzet.com/images_tc/2009/01/betac1.png)
 
-![betac2](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/01/betac2.png)
+![betac2](https://tcrouzet.com/images_tc/2009/01/betac2.png)
 
-![betac3](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/01/betac3.png)
+![betac3](https://tcrouzet.com/images_tc/2009/01/betac3.png)
 
 ### Présentation provisoire
 

@@ -2,9 +2,9 @@
 
 Je crois que la longue traîne est vitale pour chacun de nous comme pour la biosphère dans son ensemble. La longue traîne, si elle s’installe, nous fera sortir définitivement de l’âge industriel et de la forme de capitalisme qui l’accompagne.
 
-J’ai présenté la longue traîne dans [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/). Je résume l’idée : sur le net, l’espace de stockage dans les boutiques n’étant pas limité, tous les produits peuvent être vendus, mêmes ceux qui ne trouvent pas beaucoup d’acheteurs. Alors que les grandes surfaces vendent peu de produits en grande quantité, les boutiques web peuvent vendre beaucoup de produits en petite quantité.
+J’ai présenté la longue traîne dans [*Le cinquième pouvoir*](/le-cinquieme-pouvoir/). Je résume l’idée : sur le net, l’espace de stockage dans les boutiques n’étant pas limité, tous les produits peuvent être vendus, mêmes ceux qui ne trouvent pas beaucoup d’acheteurs. Alors que les grandes surfaces vendent peu de produits en grande quantité, les boutiques web peuvent vendre beaucoup de produits en petite quantité.
 
-![greve.gif](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/11/greve.gif)
+![greve.gif](https://tcrouzet.com/images_tc/2007/11/greve.gif)
 
 Nous ne devons pas rester passifs devant ce phénomène, nous devons devenir des activistes de la longue traîne.
 

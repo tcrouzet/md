@@ -2,7 +2,7 @@
 
 L’élection présidentielle est l’occasion du débat majeur de notre vie démocratique. Ce débat aura-t-il lieu, alors qu’une vingtaine de candidats postulant pour l’élection présidentielle n’ont pas encore obtenu les 500 signatures d’élus susceptibles de valider leur candidature ?
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/pluralisme.gif)
+![](https://tcrouzet.com/images_tc/pluralisme.gif)
 
 Au premier tour de la Présidentielle de 2002, la moitié d’entre eux et les idées qu’ils représentent ont réuni plus de 33 % de l‘électorat.
 

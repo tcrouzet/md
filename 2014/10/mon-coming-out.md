@@ -18,7 +18,7 @@ Comme Tim Cook, j’aimerais pouvoir déclarer que cette expérience « has giv
 
 Ma communauté étant invisible, il m’est même difficile de m'en reconnaître comme membre. Je ne commence à y réussir que grâce à mes enfants et à leur propre recherche d’une identité dans une communauté invisible. Accepter sa différence et la vivre, c’est le combat d’une vie, en même temps que l’acceptation des différences des autres.
 
-![À la poursuite des Slans](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/slans.jpg)
+![À la poursuite des Slans](https://tcrouzet.com/images_tc/2014/10/slans.jpg)
 
 
 

@@ -4,9 +4,9 @@ Retrouvez [Étienne Chouard](http://etienne.chouard.free.fr/Europe/) au mieux de
 
 Vous imaginez le temps que nous aurions tous gagné cette année si nos députés avaient été tirés au sort, puis s’ils avaient élu notre président ? Au moins autant de temps qu’en jetant sa télé par la fenêtre… ça je l’ai fait. Je l’avais même fait pour la politique jusqu’à ce qu’elle me rattrape à cause de ce net qui nous permet enfin de faire notre révolution.
 
-Je vois juste un inconvénient majeur au tirage au sort. Qu’allons-nous faire après ? C’est tout de même marrant la politique, c’est même passionnant [ce jeu de rôle en grandeur nature](http://blog.tcrouzet.com/2007/04/30/la-politique-comme-jeu-de-role/)… facile de se prendre au jeu.
+Je vois juste un inconvénient majeur au tirage au sort. Qu’allons-nous faire après ? C’est tout de même marrant la politique, c’est même passionnant [ce jeu de rôle en grandeur nature](/2007/04/30/la-politique-comme-jeu-de-role/)… facile de se prendre au jeu.
 
-Que faire alors ? Nous n’avons plus qu’à sauver le monde en luttant contre [les intégristes de tout poil qui se revendiquent de Mère Teresa](http://blog.tcrouzet.com/2007/05/20/integrisme-ou-ecologie-faut-choisir/). Il y a du boulot, pas la peine de perdre du temps avec les élections.
+Que faire alors ? Nous n’avons plus qu’à sauver le monde en luttant contre [les intégristes de tout poil qui se revendiquent de Mère Teresa](/2007/05/20/integrisme-ou-ecologie-faut-choisir/). Il y a du boulot, pas la peine de perdre du temps avec les élections.
 
 Hier après midi, une étudiante m’a téléphoné pour me poser quelques questions pour un mémoire. Je lui ai dit en substance que nous vivions en monarchie élective et j'ai évoqué le tirage au sort. « Mais ne risque-t-on pas de voir des mauvais arriver au pouvoir ? » m’a-t-elle demandé.
 

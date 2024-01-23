@@ -12,7 +12,7 @@ J’ai eu la chance de rencontrer BlueScreen, le créateur de ce [streamscape](h
 
 Il travaille actuellement au projet [jiaocha](http://jiaocha.org/), un système de chat visuel. Tu envoies une image à un ami ou un inconnu, il te répond en ajoutant à ton image une autre image… BlueScreen m’a montré des échanges superbes. J’ai tout de suite pensé que des auteurs de BD pourraient ce saisir du système, [reprenant et amplifiant la technique expérimentée par Jim et Fane](http://www.roquerols.fr/2007/10/01/petites-eclipses-a-sete/).
 
-En parcourant [les travaux de BlueScreen](http://www.b-l-u-e-s-c-r-e-e-n.net/), ceux du [groupement scenocosme](http://www.scenocosme.com), j’espère que vous comprendrez mieux ce que j’entends par [artiste hacker](http://blog.tcrouzet.com/2007/10/12/culture-et-technologie/), par cette nécessité à mon sens de [maîtriser le code pour être un artiste profondément contemporain](http://blog.tcrouzet.com/2007/10/10/culture-20/).
+En parcourant [les travaux de BlueScreen](http://www.b-l-u-e-s-c-r-e-e-n.net/), ceux du [groupement scenocosme](http://www.scenocosme.com), j’espère que vous comprendrez mieux ce que j’entends par [artiste hacker](/2007/10/12/culture-et-technologie/), par cette nécessité à mon sens de [maîtriser le code pour être un artiste profondément contemporain](/2007/10/10/culture-20/).
 
 ![montaget.gif](https://tcrouzet.com/images_tc/2007/11/montaget.gif)
 

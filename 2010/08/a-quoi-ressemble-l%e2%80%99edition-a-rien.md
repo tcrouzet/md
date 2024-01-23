@@ -1,6 +1,6 @@
 # À quoi ressemble l’édition ? À rien !
 
-Depuis quatre jours, [nous tentons de discuter de l’avenir du livre à Ouessant](http://blog.tcrouzet.com/2010/08/20/numerile/). Mal dit. Je recommence. Nous tentons de discuter de l’avenir du texte et de la lecture. Et nous nous interrogeons sur notre métier d’auteur, d’éditeur, de distributeur, de propulseur et de lecteur.
+Depuis quatre jours, [nous tentons de discuter de l’avenir du livre à Ouessant](/2010/08/20/numerile/). Mal dit. Je recommence. Nous tentons de discuter de l’avenir du texte et de la lecture. Et nous nous interrogeons sur notre métier d’auteur, d’éditeur, de distributeur, de propulseur et de lecteur.
 
 Je crois qu’il existe trois manières de publier, dont la première domine, la seconde balbutie, la troisième reste à inventer.
 

@@ -2,7 +2,7 @@
 
 Je sais de quoi je parle. Je lis quatre ou cinq best-sellers chaque année et je contribue ainsi à leur irrésistible ascension. En 2013, [356 millions de livres ont été vendus en France](http://www.actualitte.com/economie/une-annee-difficile-sur-le-marche-du-livre-bilan-2013-de-l-institut-gfk-48247.htm), nous étions 65,8 millions de Français, nous lisons donc en moyenne 5,4 livres neufs/an et je contribue honorablement à la massification du marché de l’édition.
 
-Je trouve toujours [de bonnes excuses](http://blog.tcrouzet.com/2012/04/30/comment-ecrire-un-best-seller/) pour lire des best-sellers :
+Je trouve toujours [de bonnes excuses](/2012/04/30/comment-ecrire-un-best-seller/) pour lire des best-sellers :
 
 1. Comprendre ce qu’aiment mes contemporains.
 
@@ -28,8 +28,8 @@ Qu’à cela ne tienne, demain je recommencerai. Un best-seller me tentera, parc
 
 Et pourquoi donc ? Le sentiment de différence serait source de bonheur. Plus je suis irréductible, plus je m’accomplis, plus je suis heureux. J’ai discuté de ce phénomène dans *L’alternative nomade*. La victoire du mimétisme, c’est donc la victoire inévitable de la morosité. Lire un best-seller de temps en temps ne fait pas de mal, mais ne lire que des best-sellers revient à ne regarder que TF1. Ça finit par plomber le cerveau. Ne nous étonnons pas, en suite, que le moral des Français ne soit pas au beau fixe.
 
-Comment stimuler la curiosité ? Comme l’a rappelé [Iza en commentaire](http://blog.tcrouzet.com/?p=34478#comment-160473) : éducation, éducation, éducation… Il faut bien voir que les tenants de nos démocraties n’ont rien à gagner dans ce processus. [Neil Jomunsi l'a rappelé](http://page42.org/lire-cest-elire-portrait-dun-lecteur/) : le processus électoral doit servir les partis dominants, et écarter les alternatives vers lesquelles la curiosité pourrait nous attirer. Tout est fait pour nous enfermer dans des cases en nombre le plus petit possible.
+Comment stimuler la curiosité ? Comme l’a rappelé [Iza en commentaire](/?p=34478#comment-160473) : éducation, éducation, éducation… Il faut bien voir que les tenants de nos démocraties n’ont rien à gagner dans ce processus. [Neil Jomunsi l'a rappelé](http://page42.org/lire-cest-elire-portrait-dun-lecteur/) : le processus électoral doit servir les partis dominants, et écarter les alternatives vers lesquelles la curiosité pourrait nous attirer. Tout est fait pour nous enfermer dans des cases en nombre le plus petit possible.
 
-La diversification de la lecture ne pourrait que s’accompagner d’une diversification des opinions, des goûts, des philosophies, des modèles, des représentations… Le Net nous donne accès à cette diversité, c’est merveilleux, mais trop peu de gens s’en saisissent. [Et l’évolution des habitudes de lecture prouverait même que le Net participe à la simplification de nos sociétés.](http://blog.tcrouzet.com/2014/02/20/la-desintegration-du-marche-du-livre/) Devant ce constat, il faut revenir aux fondements : éducation, éducation, éducation… Et ma façon d’éduquer, c’est par les mots. Tout faux.
+La diversification de la lecture ne pourrait que s’accompagner d’une diversification des opinions, des goûts, des philosophies, des modèles, des représentations… Le Net nous donne accès à cette diversité, c’est merveilleux, mais trop peu de gens s’en saisissent. [Et l’évolution des habitudes de lecture prouverait même que le Net participe à la simplification de nos sociétés.](/2014/02/20/la-desintegration-du-marche-du-livre/) Devant ce constat, il faut revenir aux fondements : éducation, éducation, éducation… Et ma façon d’éduquer, c’est par les mots. Tout faux.
 
 Tags: best-sellers, édition, une

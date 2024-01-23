@@ -2,7 +2,7 @@
 
 [Rachid Nekkaz](http://blog.nekkaz.com) vient de publier sur [Agoravox un article](http://www.agoravox.fr/article.php3?id_article=10596) expliquant pourquoi il se présente aux présidentielles. Les commentaires se multiplient, la réception d'ensemble est positive mais quelques intégristes montrent une attitude franchement négative, pas même à l'égard de Nekkaz, mais à l'égard de tout en général.
 
-D'après un sondage déjà cité, [70 % des Français](http://blog.tcrouzet.com/2006/06/01/1-milliard/) ne se reconnaissent ni dans la droite, ni dans la gauche. Logiquement, 70 % des lecteurs d'Agoravox devraient être dans cette situation, plus même car je crois les internautes sont à la pointe de la révolution politique. Et c'est le cas comme me le fait remarquer Carlo Revelli : 80 % de réactions positives.
+D'après un sondage déjà cité, [70 % des Français](/2006/06/01/1-milliard/) ne se reconnaissent ni dans la droite, ni dans la gauche. Logiquement, 70 % des lecteurs d'Agoravox devraient être dans cette situation, plus même car je crois les internautes sont à la pointe de la révolution politique. Et c'est le cas comme me le fait remarquer Carlo Revelli : 80 % de réactions positives.
 
 Mais comme souvent, les négationnistes sont les plus visibles. Je n'ai vu qu'eux et ça m'a fait bondir. Ils appellent au changement mais ne veulent surtout pas que de nouveaux personnages se lancent en politique. Ce conservatisme fait froid ans le dos. Il est totalement incohérent.
 

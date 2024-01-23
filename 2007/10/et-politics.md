@@ -4,11 +4,11 @@ Serons-nous capables d’adopter une nouvelle méthodologie politique ? Est-il 
 
 Nous avons réussi à construire un internet auto-organisé car nous sommes partis de rien. Peut-être serons-nous plus à même d’inventer un nouvel ordre politique dans l’espace. Une fois que cet ordre aura prouvé son efficacité, il pourra servir d’exemple sur Terre, en espérant qu’il ne soit pas trop tard. [Fin septembre, quelques scientifiques se sont retrouvés en Inde pour discuter de cette hypothèse](http://www.newscientist.com/blog/space/2007/10/jury-duty-on-moon.html).
 
-![Virgin spaceport](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/virgin.jpg)
+![Virgin spaceport](https://tcrouzet.com/images_tc/2007/10/virgin.jpg)
 
 William Marshall de la NASA a proposé un système en sept points qui va dans la bonne direction mais que j’estime encore trop accroché au modèle dominant. Ses propositions et mes critiques.
 
-1. *Démocratie avec vote électronique omniprésent.* J’ai évoqué cette idée dans [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/). Quand on vote sans cesse, sur tout, nous quittons le modèle représentatif pour le modèle participatif. Je n’ai pas trouvé exposées en détail les vues de Marshall. J’espère qu’il mesure que cette continuité du vote implique la fin de la représentation. Nous aurions alors des représentations en renouvellement constant ce qui nous empêcherait d’attribuer le pouvoir à quelques personnes en particulier. Mais les points suivant me font douter de la lucidité de Marshall.
+1. *Démocratie avec vote électronique omniprésent.* J’ai évoqué cette idée dans [*Le cinquième pouvoir*](/le-cinquieme-pouvoir/). Quand on vote sans cesse, sur tout, nous quittons le modèle représentatif pour le modèle participatif. Je n’ai pas trouvé exposées en détail les vues de Marshall. J’espère qu’il mesure que cette continuité du vote implique la fin de la représentation. Nous aurions alors des représentations en renouvellement constant ce qui nous empêcherait d’attribuer le pouvoir à quelques personnes en particulier. Mais les points suivant me font douter de la lucidité de Marshall.
 
 2. *Un système de jury.* C’est un concept déjà développé aux États-Unis. Des citoyens, comme dans nos tribunaux, peuvent avoir le dernier mot. Mais à quoi bon avoir des jurys dans un système non représentatif. Le jury est un contre-pouvoir. Quand le pouvoir est distribué, les jurys n’ont plus d’intérêt puisque tous les citoyens sont des jurés.
 

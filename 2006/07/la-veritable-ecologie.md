@@ -1,6 +1,6 @@
 # La véritable écologie
 
-[Dee Hock](http://blog.tcrouzet.com/2006/07/18/chaordic-age/) écrit :
+[Dee Hock](/2006/07/18/chaordic-age/) écrit :
 
 > Au plus profond, le désir de commander et de contrôler est un travers destructif et mortel qui vise à dépouiller les autres de leur volonté et de leur joie de vivre.
 

@@ -22,7 +22,7 @@ François parle de Web-livres (on cherche à nommer). Quand j’écris des bille
 
 Numéroter les billets manuellement ne me convient pas. Je veux pouvoir séparer l’ordre de publication de l’ordre narratif. Je veux pouvoir ajouter des entre-deux. Je veux pouvoir réordonner.
 
-![Daedalus](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/daedalus.jpg)
+![Daedalus](https://tcrouzet.com/images_tc/2013/09/daedalus.jpg)
 
 Aujourd’hui, pour reclasser une catégorie ou un tag, je dois modifier la timeline. C’est absurde. Nous avons besoin d’un autre mécanisme pour distribuer les billets à l’intérieur de différents corpus. Il faut imaginer le blog comme un ensemble de feuilles volantes qui peuvent être ordonnées en différentes piles. La métaphore du traitement de texte [Daedalus](http://daedalusapp.com/) me paraît féconde.
 
@@ -34,17 +34,17 @@ Je ne suis pas journaliste ou chroniqueur. Plutôt que ressembler à la une d’
 
 Je ne lis pratiquement plus les blogs dans un navigateur web, sauf quand je remonte des liens. Je les lis en général sur une tablette avec Feedly ou Flipboard, ou parfois par mail quand je suis abonné. Chaque fois je suis face à un environnement dépouillé (mais totalement incompatible avec l'idée de corpus).
 
-![Feedly](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/feedly.jpg)
+![Feedly](https://tcrouzet.com/images_tc/2013/09/feedly.jpg)
 
-![Flipboard](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/flipnoard.jpg)
+![Flipboard](https://tcrouzet.com/images_tc/2013/09/flipnoard.jpg)
 
-![Mail](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/mail.jpg)
+![Mail](https://tcrouzet.com/images_tc/2013/09/mail.jpg)
 
 J’aime cette simplicité. De plus en plus, j’ai envie que le blog lui-même ne dispose que d’une colonne. Menus en haut et en bas, tout le reste pour le texte. Qu'on puisse le lire dans un confort maximal tout en profitant de ses particularités (et il doit en avoir, ce que nient les apps de lectures... c'est comme si tous les livres papier étaient composés avec les mêmes réglages typo).
 
 Un blog doit en lui-même être une app de lecture. Peut-être doit-il devenir livre, justement comme sur une liseuse. On tourne les pages. L’idée alors d’être dans un corpus serait plus immédiatement perceptible.
 
-![deadsdiary.com](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/dead.jpg)
+![deadsdiary.com](https://tcrouzet.com/images_tc/2013/09/dead.jpg)
 
 ### Des plug-ins
 

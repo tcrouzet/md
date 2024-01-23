@@ -46,7 +46,7 @@ Internet vient ficher le bazar dans un vieux système. Le pire, c’est qu’au 
 
 Et nous dans ce merdier ? Il est urgent que nous devenions vite moins cons. Parce que dans tous les cas, que ce soit les uns ou les autres qui l’emportent, ils nous pressuriseront pour faire de nous leur machine de guerre.
 
-![Iran under reconstruction in Mashhad.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/IMG_1519.jpg)
+![Iran under reconstruction in Mashhad.](https://tcrouzet.com/images_tc/2015/04/IMG_1519.jpg)
 
 Iran under reconstruction in Mashhad.
 

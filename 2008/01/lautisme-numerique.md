@@ -2,9 +2,9 @@
 
 Une année vient de se terminer, une autre commence, c’est l’occasion des vœux. Les miens passent par un chemin détourné.
 
-Lors de la discussion qui a suivi [mon article sur Michel Onfray](http://blog.tcrouzet.com/2007/12/28/michel-onfray-en-connecteur/), nous avons évoqué le changement radical qu’internet introduit dans le monde : l’horizontalité.
+Lors de la discussion qui a suivi [mon article sur Michel Onfray](/2007/12/28/michel-onfray-en-connecteur/), nous avons évoqué le changement radical qu’internet introduit dans le monde : l’horizontalité.
 
-J’ai développé cette idée dans [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), essayant de montrer que notre structure sociale était en train de se transformer. Le CV, le milieu, l’âge, l’origine… tout cela n’a plus beaucoup d’importance lorsque nous nous connectons. Nous construisons une société non hiérarchique, une société où tout le monde peut accéder à tout le monde.
+J’ai développé cette idée dans [*Le peuple des connecteurs*](/le-peuple-des-connecteurs/), essayant de montrer que notre structure sociale était en train de se transformer. Le CV, le milieu, l’âge, l’origine… tout cela n’a plus beaucoup d’importance lorsque nous nous connectons. Nous construisons une société non hiérarchique, une société où tout le monde peut accéder à tout le monde.
 
 Par exemple, quand nous bloguons, nous acceptons de dialoguer avec les lecteurs. Si une célébrité blogue, elle se doit de respecter cette règle. Si elle ne le fait pas, et beaucoup ne le font pas, pour ne pas dire la plupart, elle se décrédibilise aux yeux de la net génération, démontrant qu'elle ne considère le net que comme un simple media one to all.
 
@@ -12,7 +12,7 @@ Je reste persuadé que l'aplatissement hiérarchique est en marche. J'essaie d'y
 
 Les Américains, même célèbres, en tout cas dans l'univers qui m'intéresse, répondent presque systématiquement sous 24h. Ils posent des questions, nous échangeons des mails, nous promettant de nous rencontrer à l'occasion. J’ai par exemple ainsi discuté avec Gregory Chaitin, un des plus grands mathématiciens vivant ou avec Nassim Nicolas Taleb, l’auteur de *The black Swans*, un des bestsellers américains 2007.
 
-Les Français, bien souvent, ne reçoivent pas mes messages. On dirait que l'adresse e-mail qu'ils indiquent sur leur site ne fonctionne pas. J'ai commencé par expérimenter cette forme d'autisme numérique avec [Alain Juppé](http://blog.tcrouzet.com/2006/03/01/jupp-vs-chaitin/). Elle s'est répétée avec de nombreuses autres personnalités politiques, philosophiques ou artistiques, dernièrement donc avec Michel Onfray et [Joann Sfar](http://blog.tcrouzet.com/2007/12/19/joann-sfar/). Et peut-être que j’avais apprécié Bayrou juste parce que lui répondait immédiatement, en tous cas en 2006.
+Les Français, bien souvent, ne reçoivent pas mes messages. On dirait que l'adresse e-mail qu'ils indiquent sur leur site ne fonctionne pas. J'ai commencé par expérimenter cette forme d'autisme numérique avec [Alain Juppé](/2006/03/01/jupp-vs-chaitin/). Elle s'est répétée avec de nombreuses autres personnalités politiques, philosophiques ou artistiques, dernièrement donc avec Michel Onfray et [Joann Sfar](/2007/12/19/joann-sfar/). Et peut-être que j’avais apprécié Bayrou juste parce que lui répondait immédiatement, en tous cas en 2006.
 
 Le plus étonnant est que la notoriété n'implique pas l'autisme. Les Français inconnus du grand public ne répondent pas plus que les célébrités. J'ai l'impression que mes compatriotes sont sur la défensive. Toute personne qui les aborde, qui tente de connecter avec elle, est suspecte. « Qu'est-ce qu'il me veut ? Qu'est-ce qu'il cherche ? » On dirait que nous nous jugeons tous comme les dragueurs obséquieux qui hantent les terrasses des cafés.
 

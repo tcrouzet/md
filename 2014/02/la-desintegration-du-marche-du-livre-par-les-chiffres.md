@@ -1,10 +1,10 @@
 # La désintégration du marché du livre par les chiffres
 
-Je voudrais revenir sur les chiffres qui ont inspiré [mes derniers billets sur le marché du livre et les best-sellers](http://blog.tcrouzet.com/tag/best-sellers/). Selon GfK, [les 50 meilleures ventes 2013](http://www.gfk.com/fr/news-and-events/press-room/press-releases/documents/20140114-cp-gfk-top-50-des-meilleures-ventes-de-livres-en-2013.pdf) totalisent 14,2 millions d’exemplaires sur un total de 356 millions. D’après mes souvenirs, ils sort environ 70 000 titres par an en France. On a donc 0,07 % des livres qui représentent 4% du marché.
+Je voudrais revenir sur les chiffres qui ont inspiré [mes derniers billets sur le marché du livre et les best-sellers](/tag/best-sellers/). Selon GfK, [les 50 meilleures ventes 2013](http://www.gfk.com/fr/news-and-events/press-room/press-releases/documents/20140114-cp-gfk-top-50-des-meilleures-ventes-de-livres-en-2013.pdf) totalisent 14,2 millions d’exemplaires sur un total de 356 millions. D’après mes souvenirs, ils sort environ 70 000 titres par an en France. On a donc 0,07 % des livres qui représentent 4% du marché.
 
 Quand on trace la courbe correspondante. En abscisse le rang des livres dans le top des ventes, en ordonnée leurs ventes, on obtient une [power law de type 80/20](http://en.wikipedia.org/wiki/Power_law) plus qu’une longue traîne. Immédiate conséquence de cette structure : la notion de vente moyenne n’a aucune signification. Quelques centaines de livres s’accaparent la majorité des ventes.
 
-![En rouge, la power law observée, en vert une longue traîne idéale.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/02/longtaillivre.png)
+![En rouge, la power law observée, en vert une longue traîne idéale.](https://tcrouzet.com/images_tc/2014/02/longtaillivre.png)
 
 En rouge, la power law observée, en vert une longue traîne idéale.
 

@@ -20,7 +20,7 @@ Si je vois des gens qui s'échinent à le mettre en place à partir de monnaies 
 
 Le problème : pour créer une nouvelle monnaie symétrique, il faut beaucoup de volontaires, peut-être trop pour que le boot se produisent sans un coup de booster comme la prime aux premiers entrants.
 
-Si le boot est impossible, il ne reste plus qu'à espérer dans l'approche top-down : qu’un politicien éveillé impose le revenu de base. [Il me semble que cette option n’a qu’une faible chance de se produire](http://blog.tcrouzet.com/2013/09/10/des-limites-du-revenu-de-base/), mais peut-être est-ce la dernière ? Une chance qui alors risque d'être conquise par la force, quand l'asymétrie deviendra insupportable.
+Si le boot est impossible, il ne reste plus qu'à espérer dans l'approche top-down : qu’un politicien éveillé impose le revenu de base. [Il me semble que cette option n’a qu’une faible chance de se produire](/2013/09/10/des-limites-du-revenu-de-base/), mais peut-être est-ce la dernière ? Une chance qui alors risque d'être conquise par la force, quand l'asymétrie deviendra insupportable.
 
 Sommes-nous capables de vivre avec la symétrie, tant bien même elle introduit plus de justice ? N'est-elle pas contraire à notre biologie ? Nous grimpons une montagne, puis la dévalons. Rarement à la vitesse où nous l'avons escaladée.
 

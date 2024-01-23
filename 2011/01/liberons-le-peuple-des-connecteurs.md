@@ -1,12 +1,12 @@
 # Libérons le peuple (des connecteurs)
 
-Ou l’histoire d’une mauvaise affaire. Bourin éditeur vient de m’apprendre que je ne toucherai pas mes droits d’auteurs sur [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) avant 2017 ! Vous avez bien lu.
+Ou l’histoire d’une mauvaise affaire. Bourin éditeur vient de m’apprendre que je ne toucherai pas mes droits d’auteurs sur [*Le peuple des connecteurs*](/le-peuple-des-connecteurs/) avant 2017 ! Vous avez bien lu.
 
 Voici l’histoire depuis le début. J’ai signé le contrat pour *Le peuple des connecteurs* début 2005 et j’ai reçu un petit à-valoir. Le livre est sorti comme prévu en février 2006. En 2007, en juin par exemple, Bourin aurait dû me verser mes droits sur la première année d’exploitation. Je n’ai rien reçu et je n’ai rien réclamé parce que je faisais confiance.
 
-En janvier de cette année, j’avais d’ailleurs sorti [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/) et j’entretenais de bonnes relations avec mon éditeur. Les choses se dégradèrent un peu en 2008. Au dernier moment, François Bourin m’annonça qu’il ne sortirait pas mon roman sur Ératosthène alors que je travaillais dessus avec son équipe depuis plusieurs mois. Soi-disant qu’un tel texte ruinerait ma carrière.
+En janvier de cette année, j’avais d’ailleurs sorti [*Le cinquième pouvoir*](/le-cinquieme-pouvoir/) et j’entretenais de bonnes relations avec mon éditeur. Les choses se dégradèrent un peu en 2008. Au dernier moment, François Bourin m’annonça qu’il ne sortirait pas mon roman sur Ératosthène alors que je travaillais dessus avec son équipe depuis plusieurs mois. Soi-disant qu’un tel texte ruinerait ma carrière.
 
-Après coup, je ne fus pas trop malheureux de cette décision. Le travail éditorial avait orienté mon Ératosthène dans une mauvaise direction. Mais en 2009, bis repetitas. Cette fois François Bourin me dit que [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) était impubliable, que j’allais me déshonorer avec, que je ne connaissais rien au nomadisme, que les experts du genre allaient me détruire, que lui François Bourin ne pourrait pas me défendre.
+Après coup, je ne fus pas trop malheureux de cette décision. Le travail éditorial avait orienté mon Ératosthène dans une mauvaise direction. Mais en 2009, bis repetitas. Cette fois François Bourin me dit que [*L’alternative nomade*](/alternative-nomade/) était impubliable, que j’allais me déshonorer avec, que je ne connaissais rien au nomadisme, que les experts du genre allaient me détruire, que lui François Bourin ne pourrait pas me défendre.
 
 Un discours surréaliste. Avez-vous déjà vu un éditeur monter au créneau pour défendre intellectuellement un de ses auteurs ? Comme si tel était le métier de l’éditeur ? « Pardon François, mais j’ai écrit un essai sur le nomadisme dans le flux. Je n’ai pas à être un expert du nomadisme dans les steppes ou les déserts. »
 

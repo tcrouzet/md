@@ -16,9 +16,9 @@ Difficile pour certains de comprendre que je ne suis pas à vendre, que nous som
 
 Nous avons tous notre prix. Pour 10 000 €, je céderais sans doute aux sirènes du référencement. Mais si on me propose 150 €, à d’autres 210 €, c’est parce que de nombreux blogueurs ont déjà baissé leurs culottes, et fait chuter les prix. Sans prendre conscience que Google est assez malin pour identifier les articles foireux, et par la même de dévaluer la source. Se faire blacklister pour 150 €, ce n’est pas malin.
 
-Cette cuisine nauséabonde en dit long sur l’état du Net. Un champ abandonné aux vautours. Une mer d’immondices où on se noie sous les détritus. Rien pour me donner le moral alors que je regarde bêtement les stats des ventes d’[*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).
+Cette cuisine nauséabonde en dit long sur l’état du Net. Un champ abandonné aux vautours. Une mer d’immondices où on se noie sous les détritus. Rien pour me donner le moral alors que je regarde bêtement les stats des ventes d’[*Ératosthène*](/eratosthene/).
 
-![Trois jours de ventes sur  Amazon (environ 10% du marché papier, 40% du marché ebook).](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/statamazon-600x472.png)
+![Trois jours de ventes sur  Amazon (environ 10% du marché papier, 40% du marché ebook).](https://tcrouzet.com/images_tc/2014/09/statamazon-600x472.png)
 
 Dire que j’ai consacré des années à ce roman, à étudier l’histoire antique, à corriger les impossibilités et les idées reçues, à réécrire encore et encore jusqu'à trouver une adéquation entre forme et fond… Tout ce travail ne vaut que 150 € et suscite bien moins d’intérêt que n’importe quel article de BuzzFeed ou n’importe quel roman écrit sans conscience à la va-vite. Il y a des jours où ce n’est pas facile. Où je me demande à quoi bon ?
 

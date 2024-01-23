@@ -4,7 +4,7 @@ Comme tous les mois, je m'amuse à une petite analyse des statistiques bonVote.c
 
 ![](https://tcrouzet.com/images_tc/200612hom.gif)
 
-Par rapport à la [précédente édition](http://blog.tcrouzet.com/2006/11/01/blogs-et-politiques-en-octobre-06/), le [baromètre](http://www.bonvote.com/buzz.php?mode=homme) évolue vers la tête, en phase avec l’actualité. Si François Bayrou a disparu, Ségolène Royal a rejoint Nicolas Sarkozy. Est-ce un avant goût de la finale de l’année prochaine ? Franchement, j’en doute et je parierais pour une finale plus surprenante. C’est mon côté joueur.
+Par rapport à la [précédente édition](/2006/11/01/blogs-et-politiques-en-octobre-06/), le [baromètre](http://www.bonvote.com/buzz.php?mode=homme) évolue vers la tête, en phase avec l’actualité. Si François Bayrou a disparu, Ségolène Royal a rejoint Nicolas Sarkozy. Est-ce un avant goût de la finale de l’année prochaine ? Franchement, j’en doute et je parierais pour une finale plus surprenante. C’est mon côté joueur.
 
 ![](https://tcrouzet.com/images_tc/200612pie.gif)
 
@@ -12,7 +12,7 @@ Par ailleurs, j’ai affiné l’analyse de la couverture web des différents pa
 
 ![](https://tcrouzet.com/images_tc/200612pieleaders.gif)
 
-Ces deux graphiques montrent que l'UDF possède des sites moins influents que le PS et l'UMP (dont les parts de marché augmentent en prenant en compte la pondération). [Suite de cette analyse...](http://blog.tcrouzet.com/2006/12/04/la-france-serait-coupee-en-deux/)
+Ces deux graphiques montrent que l'UDF possède des sites moins influents que le PS et l'UMP (dont les parts de marché augmentent en prenant en compte la pondération). [Suite de cette analyse...](/2006/12/04/la-france-serait-coupee-en-deux/)
 
 1. [Loic Le Meur Blog](http://www.loiclemeur.com/france) | [stats](http://bonvote.com/stats.php?s=44177)
 
@@ -46,7 +46,7 @@ Ces deux graphiques montrent que l'UDF possède des sites moins influents que le
 
 16. [Thomas Clément](http://clement.blogs.com) | [stats](http://bonvote.com/stats.php?s=534546)
 
-17. [Le peuple des connecteurs](http://blog.tcrouzet.com) | [stats](http://bonvote.com/stats.php?s=47671)
+17. [Le peuple des connecteurs]() | [stats](http://bonvote.com/stats.php?s=47671)
 
 18. [KoZtoujours](http://koztoujours.free.fr) | [stats](http://bonvote.com/stats.php?s=108808)
 
@@ -56,6 +56,6 @@ Ces deux graphiques montrent que l'UDF possède des sites moins influents que le
 
 Le classement des blogueurs les plus influents évolue peu. Au-delà de la vingtième place, [page2007.com](http://www.page2007.com/) fait un rapproché à grande vitesse.
 
-PS : Après les [déboires de bonVote avec Google](http://blog.tcrouzet.com/2006/10/09/bonvote-otage-de-google-bis/), tout est rentré dans l'ordre en début de mois. Le 1/11 : 910 visites. Le 30/11 : 21660. Si certains doutent encore de la supprématie de Google, ces chiffres démontrent le contraire. Sans Google, un site n'existe tout simplement pas.
+PS : Après les [déboires de bonVote avec Google](/2006/10/09/bonvote-otage-de-google-bis/), tout est rentré dans l'ordre en début de mois. Le 1/11 : 910 visites. Le 30/11 : 21660. Si certains doutent encore de la supprématie de Google, ces chiffres démontrent le contraire. Sans Google, un site n'existe tout simplement pas.
 
 Tags: Buzz

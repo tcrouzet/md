@@ -12,11 +12,11 @@ J’ai d’autres prétentions, comme exiger que mes textes ne soient pas altér
 
 Si ce contrat me reconnaît comme auteur, il ne me reconnaît pas grand-chose d’autre. Je n’ai pas le droit de modifier un texte déjà publié. Je n’ai pas le droit de le donner. Je n’ai pas le droit de le vendre. Je n’ai pas le droit de le monter au théâtre, d’en faire un film, un jeu vidéo.
 
-Si je veux conserver mes prétentions d’auteur, je dois donc prendre garde à ce que je signe. [Avec L’âge d’homme](http://blog.tcrouzet.com/2014/02/06/sante-litterature-et-meditation/), j’ai conservé mes droits numériques. L’âge d’homme aura le droit d’imprimer mes livres et de les vendre en librairies physiques. Je pourrais faire joujou avec les versions ebooks. Ce qui, en l’état du marché, nous satisfait.
+Si je veux conserver mes prétentions d’auteur, je dois donc prendre garde à ce que je signe. [Avec L’âge d’homme](/2014/02/06/sante-litterature-et-meditation/), j’ai conservé mes droits numériques. L’âge d’homme aura le droit d’imprimer mes livres et de les vendre en librairies physiques. Je pourrais faire joujou avec les versions ebooks. Ce qui, en l’état du marché, nous satisfait.
 
 J’ai donc des droits, mais je ne suis pas propriétaire de ce que j’ai accepté de diffuser. Lire, c’est copier. Si j’étais propriétaire de mes textes, « Lire, serait voler. » Je ne suis qu’un auteur.
 
-![Je ne vends même pas mes photos](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/cloudtrain.jpg)
+![Je ne vends même pas mes photos](https://tcrouzet.com/images_tc/2014/03/cloudtrain.jpg)
 
 Je ne vends même pas mes photos
 

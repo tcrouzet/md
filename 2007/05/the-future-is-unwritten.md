@@ -4,6 +4,6 @@ Sortie d'un [album posthume de Joe Strummer](http://www.amazon.fr/gp/product/B00
 
 > L’avenir n’est pas écrit. Le temps des connecteurs est arrivé.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007strumer.jpg)
+![](https://tcrouzet.com/images_tc/2007strumer.jpg)
 
 Tags: noepub

@@ -1,6 +1,6 @@
 # Tuons la presse pour nous libérer
 
-Partout sur le Net et ailleurs, on parle de l’avenir de la presse, de comment créer des nouveaux journaux viables, de nouveaux médias, de comment mieux informer… au nom de l’avenir de la démocratie. Mais nous sommes déjà gavés de news, toutes presque aussi inutiles les unes que les autres. Nous sommes shootés aux nouvelles, nous sommes de pitoyables [infovores](http://blog.tcrouzet.com/tag/infovore/) qui attendent leur prochaine injection avec avidité.
+Partout sur le Net et ailleurs, on parle de l’avenir de la presse, de comment créer des nouveaux journaux viables, de nouveaux médias, de comment mieux informer… au nom de l’avenir de la démocratie. Mais nous sommes déjà gavés de news, toutes presque aussi inutiles les unes que les autres. Nous sommes shootés aux nouvelles, nous sommes de pitoyables [infovores](/tag/infovore/) qui attendent leur prochaine injection avec avidité.
 
 Savez-vous au moins ce qui se passe dans votre cerveau ? Chaque fois qu’une nouvelle bipe dans votre radar sensitif, elle active les [zones primitivement destinées à monter la garde](http://www.nytimes.com/2010/06/07/technology/07brain.html). Une news qui s’affiche, c’est comme si un lion vous attaquait. Vous imaginez le résultat. Quoi que vous fassiez, vous arrêtez, vous ne pensez qu’à sauver votre peau.
 

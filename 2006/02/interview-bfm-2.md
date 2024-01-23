@@ -8,7 +8,7 @@ J'ai été interviewé par [Hedwige Chevrillon](http://www.radiobfm.com/index.ph
 
 *— Vous dites que les gens qui ont fait mai 68 ont l'impression d'avoir changé le monde, mais vous, qui êtes né après, dans les années 60, vous avez l'impression d'avoir changé le monde à votre façon. Vous dites : La révolution des connecteurs a commencé. Alors en quoi ça a changé le monde selon vous ?*
 
-\— La révolution a commencé, mais elle n'est pas terminée. Ça n'a pas changé le monde, nous sommes en train de le changer. En quoi ? Nous découvrons que la démocratie peut se passer d'élus. Nous découvrons que nous n'avons plus besoin d'obtenir des diplômes pour mener une vie professionnelle passionnante. Nous découvrons que la notion de travail doit être totalement revisitée. Nous découvrons que [manifester ne sert plus à rien](http://blog.tcrouzet.com/2006/03/12/cpe/). Toutes nos découvertes sont radicales par rapport à celles de mai 68.
+\— La révolution a commencé, mais elle n'est pas terminée. Ça n'a pas changé le monde, nous sommes en train de le changer. En quoi ? Nous découvrons que la démocratie peut se passer d'élus. Nous découvrons que nous n'avons plus besoin d'obtenir des diplômes pour mener une vie professionnelle passionnante. Nous découvrons que la notion de travail doit être totalement revisitée. Nous découvrons que [manifester ne sert plus à rien](/2006/03/12/cpe/). Toutes nos découvertes sont radicales par rapport à celles de mai 68.
 
 *— Vous dites qu'on n'a plus besoin de voter. Alors évidemment vous pouvez imaginer que je ne suis pas d'accord avec vous. Mais on y reviendra.*
 
@@ -68,11 +68,11 @@ Vous parlez d'heures que nous passerions connectés. Qui parle d'heures ! Un co
 
 *— Il y a une révolution qui joue un rôle important – c'est le blog. On a le sentiment qu'il y a un essor incroyable des blogs, quasiment tout le monde en a un, y compris les hommes politiques. Vous dites : il faut réinventer la politique, vous proposez de ne pas voter, parce que ça ne sert plus à rien – mais visiblement les politiciens ont compris un tout petit peu le message et ils essaient de faire de la politique autrement à travers leur blog. Alors, le blog, c'est ce qui va accélérer votre révolution des connecteurs ? (il ne faut pas que ce soit une mode) Alors vous qui les regardez de près, qu'est-ce que vous en pensez, sans langue de bois ?*
 
-\— Le blog est un outil de connexion plus que les anciens médias, car il fonctionne à double sens, et nous avons besoin de double sens (de feedback) pour nous auto-organiser. Quand vous publiez sur un blog, vous vous exposez à des réactions immédiates et vous devez entamer le dialogue. C'est bien sûr un merveilleux outil de politique à condition d'utiliser tout son potentiel, ce que ne font pas la plupart des [hommes politiques](http://blog.tcrouzet.com/2006/03/01/jupp-vs-chaitin/).
+\— Le blog est un outil de connexion plus que les anciens médias, car il fonctionne à double sens, et nous avons besoin de double sens (de feedback) pour nous auto-organiser. Quand vous publiez sur un blog, vous vous exposez à des réactions immédiates et vous devez entamer le dialogue. C'est bien sûr un merveilleux outil de politique à condition d'utiliser tout son potentiel, ce que ne font pas la plupart des [hommes politiques](/2006/03/01/jupp-vs-chaitin/).
 
 *— Votre livre c'est un peu les 12 commandements des choses qu'il ne faut pas faire – c'est toujours négatif.*
 
-\— J'ai déjà répondu à cette question. Ne pas étudier, c'est ne pas étudier comme on le fait d'habitude. J'ai choisi la forme négative pour [mieux me faire comprendre](http://blog.tcrouzet.com/2006/02/28/nextmodernity/) de tous ceux qui ne connaissent rien de la révolution qui se joue, je me suis opposé à ce qu'ils connaissent.
+\— J'ai déjà répondu à cette question. Ne pas étudier, c'est ne pas étudier comme on le fait d'habitude. J'ai choisi la forme négative pour [mieux me faire comprendre](/2006/02/28/nextmodernity/) de tous ceux qui ne connaissent rien de la révolution qui se joue, je me suis opposé à ce qu'ils connaissent.
 
 *— Travaillez-vous?*
 

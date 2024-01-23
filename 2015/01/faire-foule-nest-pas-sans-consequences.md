@@ -28,7 +28,7 @@ Croyez-vous que nous allons nous éclater dans les mois qui arrivent ? Après l
 
 Au fil de ces derniers jours, j’ai senti monter contre moi ce vent d’opprobre, juste parce que j’osais une légère déviation, au nom même des valeurs que tous allaient défendre dans la rue. Je n’étais pas en désaccord sur le fond, juste en désaccord de méthode, et cela a suffi pour que beaucoup me montrent leurs dents avec une haine non feinte, et qui me laisse encore tremblant, mais je ne me tairai pas, quitte à me faire détester par tous.
 
-« Tu ne sais pas ce que nous avons ressenti. » Malheureusement, je le sais trop bien. Vous avez ressenti le goût de la bataille, le goût de l'extase qui vous fait un instant de trop oublier les douleurs à venir. Je suis triste parce que je ne vois rien de bon dans tout cela, [sauf de magnifiques photos de foule](http://blog.tcrouzet.com/2015/01/12/faire-foule-nest-pas-sans-consequences/). Tous les gouvernements exigent déjà plus de contrôle. Du Net. Des frontières. De nos communications. Je suis peut-être déjà en train de devenir un terroriste parce que j’élève les doutes de la raison critique.
+« Tu ne sais pas ce que nous avons ressenti. » Malheureusement, je le sais trop bien. Vous avez ressenti le goût de la bataille, le goût de l'extase qui vous fait un instant de trop oublier les douleurs à venir. Je suis triste parce que je ne vois rien de bon dans tout cela, [sauf de magnifiques photos de foule](/2015/01/12/faire-foule-nest-pas-sans-consequences/). Tous les gouvernements exigent déjà plus de contrôle. Du Net. Des frontières. De nos communications. Je suis peut-être déjà en train de devenir un terroriste parce que j’élève les doutes de la raison critique.
 
 Alors la guerre ne sera pas contre le terrorisme, contre ses racines obscurantistes, on ne bombardera pas des livres sur les camps jihadistes, mais on dressera entre eux et nous des murailles, pour les empêcher de nous atteindre, et par la même occasion nous empêcher nous-mêmes de nous lier avec plus de fraternité les uns aux autres. La guerre sera intérieure, pour empêcher le mal de gangréner. Ce sera une riposte immunitaire, un simple réflexe de survie plutôt qu’un rêve de renouveau.
 
@@ -36,7 +36,7 @@ Je ne pouvais pas descendre dans la rue dimanche pour cautionner cette dérive s
 
 *PS : Je n'ai rien contre l'idée de descendre dans la rue. J'espère que c'est clair. Mais la manifestation centralisée, unifiée, me fait peur. Avec elle la diversité se transforme en fer de lance.*
 
-![Nation par Martin  Argyroglo. ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/11-600x900.jpg)
+![Nation par Martin  Argyroglo. ](https://tcrouzet.com/images_tc/2015/01/11-600x900.jpg)
 
 
 

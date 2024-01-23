@@ -8,7 +8,7 @@ Pour tout ce qui concerne la domotique, je n’aime pas me casser la tête et je
 
 Une fois ma V5 repartie avec le transporteur qui m’a livré la révolution, je n’ai eu d’autre choix que de brancher les deux boîtiers noirs dessinés par Starck. Je m’étais d’ailleurs juré de ne jamais avoir aucun objet Starck chez moi, raté. Vous me direz, le serveur Freebox va se retrouver dans l’arrière-cuisine sous une montagne de câbles. C’est un endroit où en hiver les geckos aiment dormir. Ils vont avoir un nouveau canapé aux formes galbées.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/free1.jpg)
+![](https://tcrouzet.com/images_tc/2011/01/free1.jpg)
 
 Pour résumer, je me fiche du look de mon boîtier ADSL (et les geckos aussi). Je m’intéresse plus à ce qu’il a dans le ventre et pour commencer à sa connectique. Je tombe sur un premier os. La freebox V5 disposait de 5 connecteurs Ethernet, 1 pour le réseau courant porteur, 4 libres et je les utilisais tous les 4 (ma maison est câblée, je ne branche le Wifi que quand les amis sont de passage).
 
@@ -34,17 +34,17 @@ Après deux semaines d’utilisation de la Freebox Révolution, j’ai fini par 
 
 Comme la sortie HDMI ne m’est d’aucune utilité, je n’ai d’autre solution que de récupérer le signal vidéo à la sortie Péritel. D’un autre côté, mon vidéo projecteur n’a pas d’entrée péritel mais une entrée VGA et une entrée sVideo.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/scart_adap1.gif)
+![](https://tcrouzet.com/images_tc/2011/01/scart_adap1.gif)
 
 Comme le signal vidéo est présent dans une péritel, il suffit [d’y brancher un adaptateur que Free ne fournit malheureusement pas](http://www.amazon.fr/Adaptateur-P%C3%A9ritel-gigogne-femelle-InETOut/dp/B0017ZH80C/ref=dp_cp_ob_ce_image_1), ce qui m’a un temps bloqué. J’ai finis par prendre mon fer à souder, par couper le cordon péritel fourni par Free et par y brancher une fiche sVideo (utilisez le fil blindé orangé voir photo). J’ai alors pu profiter du player.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/adaptateur-peritel-malefemelle-3xrca-s-video-64112891-450x300.jpg)
+![](https://tcrouzet.com/images_tc/2011/01/adaptateur-peritel-malefemelle-3xrca-s-video-64112891-450x300.jpg)
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/free2.jpg)
+![](https://tcrouzet.com/images_tc/2011/01/free2.jpg)
 
 Première constatation : la qualité de l’affichage en mode administration est médiocre avec mon bricolage. Je peux en théorie surfer sur le Net, mais je dois y renoncer si je ne veux pas user une boîte de mouchoirs. Heureusement, dès que j’envoie de la vidéo, TV ou fichier, je retrouve une qualité identique à celle dont je disposais avec la Freebox V5. Je note que le son est bien meilleur que par le passé (je passe par la sortie numérique SPDIF).
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/free3.jpg)
+![](https://tcrouzet.com/images_tc/2011/01/free3.jpg)
 
 Je me dis que je vais pouvoir garder encore quelque temps mon ancien projecteur. Pas si sûr. Je place un CD audio dans le lecteur Blu-Ray, le son est lu sans difficulté mais mon écran s’éteint. Je découvre que le lecteur n’envoie aucun signal vers la Péritel ! J’avais déjà rangé ma vieille platine Kiss. Dois-je la ressortir pour lire les CD et les DVD ?
 

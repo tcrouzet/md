@@ -2,7 +2,7 @@
 
 On me pose de plus en plus souvent cette question. La plupart des gens pensent que les connecteurs sont des fous d'internet. Bien-sûr, ils accèdent au réseau, ils l'utilisent avec facilité mais l'outil importe moins que ce que nous en faisons.
 
-Les connecteurs, grâces aux nouvelles technologies de communication, créent un réseau social d'une ampleur inégalé et d'une extraordinaire complexité. Cette nouvelle société, qui est en train de naître, ne se managera plus comme les sociétés qui l'ont précédée. Dans [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), j'essaie de montrer pourquoi nous ne pouvons plus penser comme avant et pourquoi nous devons adopter de nouvelles solutions.
+Les connecteurs, grâces aux nouvelles technologies de communication, créent un réseau social d'une ampleur inégalé et d'une extraordinaire complexité. Cette nouvelle société, qui est en train de naître, ne se managera plus comme les sociétés qui l'ont précédée. Dans [*Le peuple des connecteurs*](/le-peuple-des-connecteurs/), j'essaie de montrer pourquoi nous ne pouvons plus penser comme avant et pourquoi nous devons adopter de nouvelles solutions.
 
 Voilà pourquoi tous mes chapitres portent des noms en « Ne pas ». Il faut entendre ne pas voter comme avant, ne pas étudier comme avant, ne pas travailler comme avant... En fait, il y a deux possibilités.
 

@@ -102,7 +102,7 @@ Selon cette perspective historique, un acteur économique a trois possibilités.
 
 *PS : J’ai écrit cet article en novembre 2013 pour [le numéro 115](http://issuu.com/spg_/docs/information_immobiliere115/1?e=2781964/9261142) de la revue [*L’information Immobilière*](http://www.spg.ch/publications/la-revue-linformation-immobiliere) qui vient d’être distribué.*
 
-![N° 115 de L'information Immobilière.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/revue-600x354.jpg)
+![N° 115 de L'information Immobilière.](https://tcrouzet.com/images_tc/2014/09/revue-600x354.jpg)
 
 
 

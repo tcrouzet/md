@@ -1,6 +1,6 @@
 # Quand la foule fait masse, cette masse est une nation
 
-[Narvic](https://twitter.com/narvic) répond à mon billet [Faire foule n’est pas sans conséquences](http://blog.tcrouzet.com/2015/01/12/faire-foule-nest-pas-sans-consequences/) et analyse la manifestation du 11 janvier 2015.
+[Narvic](https://twitter.com/narvic) répond à mon billet [Faire foule n’est pas sans conséquences](/2015/01/12/faire-foule-nest-pas-sans-consequences/) et analyse la manifestation du 11 janvier 2015.
 
 ---
 

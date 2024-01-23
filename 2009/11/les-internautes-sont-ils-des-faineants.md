@@ -6,9 +6,9 @@ Les textes longs impliquent un temps long, celui de la réflexion, celui qui lai
 
 ### Ma petite expérience
 
-En juillet, j’ai mis en ligne [*Genius Locus*](http://blog.tcrouzet.com/genius-locus/). J’ai à ce jour eut [847 lectures sur Scridb](http://www.scribd.com/doc/17453432/Genius-Locus), version que j’avais mise en avant, et [54 sur Calaméo](http://fr.calameo.com/read/000069788ae9897d3374c).
+En juillet, j’ai mis en ligne [*Genius Locus*](/genius-locus/). J’ai à ce jour eut [847 lectures sur Scridb](http://www.scribd.com/doc/17453432/Genius-Locus), version que j’avais mise en avant, et [54 sur Calaméo](http://fr.calameo.com/read/000069788ae9897d3374c).
 
-En première approximation, 900 lectures c’est pas mal. La plupart des livres qui sortent en papier n'ont pas autant de chance. Les Éditions Gutenberg n’ont pas fait mieux en lançant [*Le Conteur*](http://blog.tcrouzet.com/2009/09/24/un-nouveau-roman-free-pas-free-en-france/), tout en ayant une petite couverture presse.
+En première approximation, 900 lectures c’est pas mal. La plupart des livres qui sortent en papier n'ont pas autant de chance. Les Éditions Gutenberg n’ont pas fait mieux en lançant [*Le Conteur*](/2009/09/24/un-nouveau-roman-free-pas-free-en-france/), tout en ayant une petite couverture presse.
 
 Mais que signifie ce chiffre de 900 lecteurs ? Combien de pages ont été réellement lues, je n’en ai aucune idée. Les plateformes de lecture ne donnent aucune indication à ce sujet, ce qui en soit est suspect ! Ont-elles peur de décevoir les auteurs ?
 
@@ -27,7 +27,7 @@ Autre argument : les gens ne lisent plus que des textes courts. Je crois que c�
 ### Remarques
 
 1. *Genius Locus* est un texte littéraire et mes lecteurs n’ont pas l’habitude de lire ce genre de texte de ma part. Ceci expliquerait le néant.
-2. Pas sûr que cette explication suffise. J’ai effectué un autre test. Plutôt que de publier sous la forme d’un long billet [Le procès du capitalisme](http://blog.tcrouzet.com/2009/10/01/le-proces-du-capitalisme/), je l’ai mis sous Scridb. Résultat 88 lectures ! C’est pire… J’ai déjà publié d’aussi longs billets qui ont toujours été beaucoup plus lus.
+2. Pas sûr que cette explication suffise. J’ai effectué un autre test. Plutôt que de publier sous la forme d’un long billet [Le procès du capitalisme](/2009/10/01/le-proces-du-capitalisme/), je l’ai mis sous Scridb. Résultat 88 lectures ! C’est pire… J’ai déjà publié d’aussi longs billets qui ont toujours été beaucoup plus lus.
 3. On accepte les scories dans un texte court et moins dans un texte long. C’est ce que je me dis en tous cas. Du coup, *Genius Locus* n'ayant pas été finalisé par un bon à tirer, je n’ai pas fait sa promotion. J’avais annoncé que je mettrais en place une équipe collaborative pour finir le travail comme un vrai éditeur. Je ne l’ai pas encore fait parce que je suis occupé par mon essai sur le flux.
 4. Dans l’attente de la finalisation de *Genius Locus*, je n’avais pas mis les textes en téléchargement. Peut-être certains lecteurs potentiels ont-ils été bloqués. Je viens de les rendre disponibles en téléchargement sur Calaméo et Scridb. Format parfait pour une lecture sur reader.
 5. Au final, je me contente de remarquer que quand je publie en ligne d’un bloc un texte long ça ne provoque aucun effet, ce qui n’est pas le cas quand je publie un texte long sur papier.

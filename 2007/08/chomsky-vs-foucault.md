@@ -2,7 +2,7 @@
 
 Parfois je me sens plus Américain que Français. Foucault ne me parle pas. Lors de son [entretien avec Chomsky en 1971](http://lespacearcencielblog.free.fr/?p=534), il dit qu’il faut comprendre et critiquer avant d’agir. Il nie ainsi l’évolution. A-t-elle compris avant d’agir ? Non et nous ne fonctionnons pas différemment d’elle. Elle nous a engendrés d'ailleurs, plaçant en nous ce qui était en elle, faisant de nous des machines évolutives plus performantes.
 
-![Par Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070824pacco.jpg)
+![Par Pacco](https://tcrouzet.com/images_tc/20070824pacco.jpg)
 
 Chomsky, lui, propose une solution. Elle n’est pas unique comme le dit Foucault, elle est une des solutions possibles… l’hyper-décentralisation associée à la responsabilisation.
 

@@ -10,7 +10,7 @@ Il me paraît évident que la réussite commerciale d’un texte est enfermée b
 
 Si cette théorie de l’ADN littéraire s’avère exacte, voilà pourquoi des livres autopubliés connaissent le succès. Ce qui séduit en eux n’est pas éditable ou perfectible. Ces textes n’ont pas besoin d’éditeur. Ils n’ont besoin que de lecteurs sensibles à leurs tripes, des lecteurs souvent indifférents aux imperfections de surface.
 
-![ADN/DNA DSC03122, par Abode of Chaos](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/adn-630x472.jpg)
+![ADN/DNA DSC03122, par Abode of Chaos](https://tcrouzet.com/images_tc/2014/01/adn-630x472.jpg)
 
 
 

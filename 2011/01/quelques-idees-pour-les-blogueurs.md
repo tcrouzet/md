@@ -1,6 +1,6 @@
 # Quelques idées pour les blogueurs
 
-Dans la série [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/), j’ai quelques propositions pour les blogueurs.
+Dans la série [*J’ai eu l’idée*](/id/), j’ai quelques propositions pour les blogueurs.
 
 1. J’ai eu l’idée d’offrir à des entreprises, ou pourquoi pas à des anonymes, de payer pour publier des billets sur mon blog. Mon slogan serait : « Payez pour écrire. »
 

@@ -34,7 +34,7 @@ Aujourd’hui, nous sommes d’autant plus horrifiés que nous comprenons à que
 
 On parla à juste titre de [la Première Guerre Mondiale de l’information](http://www.kelblog.com/article-wikileaks-la-premiere-infowar-a-commence-62283450.html). Deux superpuissances s’affrontèrent. D'un côté, nous avions les États légitimes. De l’autre, un conglomérat de pseudo libertaires. Au final, les uns et les autres utilisaient les mêmes méthodes. Il faut deux imbéciles pour un match de boxe, pour une guerre aussi.
 
-Aujourd’hui nous avons compris qu’exiger la transparence absolue est un non-sens. Déjà à l’époque des voix s’étaient élevées [pour dénoncer cette mascarade](http://blog.tcrouzet.com/tag/transparence/). Elles invoquèrent d’ailleurs à la rescousse Baudrillard :
+Aujourd’hui nous avons compris qu’exiger la transparence absolue est un non-sens. Déjà à l’époque des voix s’étaient élevées [pour dénoncer cette mascarade](/tag/transparence/). Elles invoquèrent d’ailleurs à la rescousse Baudrillard :
 
 > Lorsque tout tend à passer du côté du visible, comme c’est le cas dans notre univers \[La sexualité par exemple\], que deviennent les choses jadis secrètes ? Elles deviennent occultes, clandestines, maléfiques : ce qui était simple secret, c’est-à-dire donné à s’échanger dans le secret, devient le mal et doit être aboli, exterminé. \[…\] La prohibition du secret ne peut qu’augmenter le nombre de secrets. Sous prétexte de tout montrer, on risque de cacher des choses plus obscures et, pour avoir des choses à cacher, il faudra commettre des actes eux-mêmes peu avouables. Ce serait la transparence elle-même qui serait le Mal – la perte de tout secret. Tout comme, dans le « crime parfait », c’est la perfection elle-même qui est criminelle.
 

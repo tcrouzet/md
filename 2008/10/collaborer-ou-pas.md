@@ -2,7 +2,7 @@
 
 J’ai expérimenté le travail collaboratif sur ce blog, notamment quand j’ai écrit *Le cinquième pouvoir*, et depuis un an j’ai souvent réfléchi à la question en développant [coZop](http://cozop.com).
 
-Ces derniers temps, je pense souvent à la remarque de [Dee Hock](http://blog.tcrouzet.com/2006/09/22/dee-hock-geneve/). Il ne peut pas y avoir de collaboration sans une direction claire. Quand j’écrivais mon livre, je donnais le la, les commentateurs réagissaient et me suggéraient des pistes de réflexion mais j’étais en quelque sorte la caisse de résonance. Je prenais, je synthétisais, je restituais.
+Ces derniers temps, je pense souvent à la remarque de [Dee Hock](/2006/09/22/dee-hock-geneve/). Il ne peut pas y avoir de collaboration sans une direction claire. Quand j’écrivais mon livre, je donnais le la, les commentateurs réagissaient et me suggéraient des pistes de réflexion mais j’étais en quelque sorte la caisse de résonance. Je prenais, je synthétisais, je restituais.
 
 Linux s’est développé parce que Linus Torvald créa le noyau de Linux sur lequel les autres développeurs branchèrent leurs créations. La collaboration ne me paraît possible que si elle s’appuie sur un noyau, un cœur, un moteur, une plateforme, une api. On peut sans doute se réunir à quelques un et dire qu’on va collaborer à un projet mais il me semble que le plus souvent ça ne marche pas de cette façon.
 

@@ -11,7 +11,7 @@ J’ai quatre principes :
 
 Capturer l’attention dès le début. J’essaie souvent de commencer par une belle provocation qui fait réfléchir. Merde, ce n’est pas comme ça qu’il faut faire. Mais plutôt promettre et mystifier… Non merci. Droit au but. Je plante mon poignard jusqu’à la garde.
 
-Sur le Web, un texte de longueur idéale ferait environ 1 000 mots. Pas de chance. [Mon texte le plus lu c’est dernières semaines en fait 3600 !](http://blog.tcrouzet.com/2010/05/08/la-liberte-le-lien/)
+Sur le Web, un texte de longueur idéale ferait environ 1 000 mots. Pas de chance. [Mon texte le plus lu c’est dernières semaines en fait 3600 !](/2010/05/08/la-liberte-le-lien/)
 
 Voyons voir les autres conseils.
 

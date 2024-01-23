@@ -10,7 +10,7 @@ Si internet avait une structure hiérarchique, ces attaques auraient moins d’e
 
 Mais internet n’a pas une structure hiérarchique. Il n’y pas de chef, pas de soldat, c’est un univers de pair à pair. Grâce à cette structure décentralisée, le réseau peut se déployer et évoluer à un rythme exponentiel. Rien de ce que nous connaissons ne serait possible sans cette topologie particulière. Nous en serions tout au plus dans un après Minitel.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/11/cyberwar.gif)
+![](https://tcrouzet.com/images_tc/2007/11/cyberwar.gif)
 
 Le réseau décentralisé et distribué facilite les phénomènes viraux. C’est une chance formidable car tout le monde peut parler à tout le monde… quelqu’un peut aussi infecter tout le monde. Nous connaissons le risque, nous avons décidé de vivre avec. Comme les organismes vivants, peu à peu nous développons un système immunitaire. Comme tout système, il ne sera jamais parfait.
 

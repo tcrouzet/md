@@ -1,8 +1,8 @@
 # Un sondage Ifop mal interprété
 
-Depuis quelques semaines, des analystes, notamment des blogueurs comme [le duo de Netpolitique](http://blog.netpolitique.net/index.php/2006/12/15/630-sondage-ifop-sur-les-internautes-et-la-net-campagne-presidentielle), utilisent une [étude Ifop](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2006ifop.pdf) pour douter du cinquième pouvoir (propos d’autant plus surprenant pour un blogueur car il n’aurait aucune légitimité si le cinquième pouvoir n’existait pas un tout petit peu).
+Depuis quelques semaines, des analystes, notamment des blogueurs comme [le duo de Netpolitique](http://blog.netpolitique.net/index.php/2006/12/15/630-sondage-ifop-sur-les-internautes-et-la-net-campagne-presidentielle), utilisent une [étude Ifop](https://tcrouzet.com/images_tc/2006ifop.pdf) pour douter du cinquième pouvoir (propos d’autant plus surprenant pour un blogueur car il n’aurait aucune légitimité si le cinquième pouvoir n’existait pas un tout petit peu).
 
-Sur le plan méthodologique, cette étude, comme beaucoup d’études actuelles, commet une erreur : elle prend un échantillon représentatif des internautes français. Ça n’a aucun sens. À une époque où la société se fractionne en niches de plus en plus étroites (niches électorales comprises), l’opinion d’ensemble n’existe tout simplement plus. Pour approfondir ce point, je renvoie au chapitre 7 du [cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/).
+Sur le plan méthodologique, cette étude, comme beaucoup d’études actuelles, commet une erreur : elle prend un échantillon représentatif des internautes français. Ça n’a aucun sens. À une époque où la société se fractionne en niches de plus en plus étroites (niches électorales comprises), l’opinion d’ensemble n’existe tout simplement plus. Pour approfondir ce point, je renvoie au chapitre 7 du [cinquième pouvoir](/le-cinquieme-pouvoir/).
 
 Maintenant regardons un premier chiffres : 21 % des internautes feraient confiance au net comme principale source d’information politique. Certains disent que ce n’est pas beaucoup, 5 millions de Français ça ne compterait pas ! Moi je crois le contraire. En 2002, il n’y avait pratiquement personne pour dire qu’internet était une source d’information politique fiable. En 5 ans, le bouleversement est tout simplement énorme.
 
@@ -14,7 +14,7 @@ Ces petits nombres énormes à mes yeux font dire à certains que le cinquième 
 
 1/ Les prochaines élections en France ne constituent qu’une parcelle du champ politique, l’essentiel se passe ailleurs.
 
-2/ Les vrais échéances sont mondiales (dérèglements climatiques, écologiques, sociaux…) et locales (à mon sens le national est dépassé). Le cinquième pouvoir sera jugé dans la durée, dans sa capacité à affronter ces problèmes. Il a commencé à le faire avec de [multiples approches Open Source](http://blog.tcrouzet.com/2007/01/09/wikinomics/).
+2/ Les vrais échéances sont mondiales (dérèglements climatiques, écologiques, sociaux…) et locales (à mon sens le national est dépassé). Le cinquième pouvoir sera jugé dans la durée, dans sa capacité à affronter ces problèmes. Il a commencé à le faire avec de [multiples approches Open Source](/2007/01/09/wikinomics/).
 
 3/ Les blogs ne représentent que la partie la plus visible du cinquième pouvoir (ils le réduisent souvent à un contre-pouvoir de type presse). Des forums au wikis en passant par les services web 2.0, tous les outils collaboratifs participent à son développement.
 

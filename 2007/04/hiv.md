@@ -1,8 +1,8 @@
 # HIV
 
-J’ai écrit ce roman en 2003 pour me détendre de mon [Ératosthène](http://blog.tcrouzet.com/2007/03/31/eratosthene-de-cyrene/). Je ne l’ai pas publié. Je me suis amusé à [le mettre sur lulu.com](http://www.lulu.com/content/733151) pour tester le service d’impression.
+J’ai écrit ce roman en 2003 pour me détendre de mon [Ératosthène](/2007/03/31/eratosthene-de-cyrene/). Je ne l’ai pas publié. Je me suis amusé à [le mettre sur lulu.com](http://www.lulu.com/content/733151) pour tester le service d’impression.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200704lulu.jpg) 
+![](https://tcrouzet.com/images_tc/200704lulu.jpg) 
 
 Je viens de recevoir ce matin un exemplaire, après presque trois semaines d’attente. Résultat impressionnant, un véritable paperback à l’américaine, pour 22,37 euros, port compris.
 

@@ -50,7 +50,7 @@
 
 11. Il est lui-même un lecteur d’histoire publié sur Wattpad (et il est lui-même jeune, le plus souvent, mais gare aux vieux grincheux qui débarquent).
 
-![J'oubliais le plus important. Les Wattpadiens stimulent. Ici deux couvertures montée par Blawete, lectrice de 1 minute. ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/07/saracosmo.jpg)
+![J'oubliais le plus important. Les Wattpadiens stimulent. Ici deux couvertures montée par Blawete, lectrice de 1 minute. ](https://tcrouzet.com/images_tc/2015/07/saracosmo.jpg)
 
 J'oubliais le plus important : les Wattpadiens stimulent leurs auteurs. Ici deux couvertures montées par Blawete, lecteur de 1 minute.
 

@@ -174,7 +174,7 @@ J'aime que le livre ne se referme pas sur mes mains à cause de sa reliure pourr
 
 J'aime lire en numérique parce que c'est moins cher (si les éditeurs jouent le jeu).
 
-![Première page d'Ératosthène](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/ipad.jpg)
+![Première page d'Ératosthène](https://tcrouzet.com/images_tc/2014/03/ipad.jpg)
 
 Première page d'Ératosthène
 

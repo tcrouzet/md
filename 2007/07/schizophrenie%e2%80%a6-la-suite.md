@@ -1,6 +1,6 @@
 # Schizophrénie… la suite
 
-Je voudrais réagir à l’intéressant [commentaire de Vincent](http://blog.tcrouzet.com/2007/06/29/le-liberalisme-une-doctrine-schizophrenique/#comment-36822) suite à mon papier sur [la schizophrénie du libéralisme](http://blog.tcrouzet.com/2007/06/29/le-liberalisme-une-doctrine-schizophrenique/).
+Je voudrais réagir à l’intéressant [commentaire de Vincent](/2007/06/29/le-liberalisme-une-doctrine-schizophrenique/#comment-36822) suite à mon papier sur [la schizophrénie du libéralisme](/2007/06/29/le-liberalisme-une-doctrine-schizophrenique/).
 
 Tout d’abord une précision. Un pouvoir local peut être central. Un maire est un pouvoir local et central. J’oppose central à distribué. Central est un synonyme de hiérarchique pour moi, en ce sens qu’une pyramide a un sommet qui se trouve au centre de la structure (alors qu’un réseau distribué n’a pas de centre… bon, on ne va pas faire de la géométrie).
 
@@ -26,7 +26,7 @@ Si les hommes individuellement ne sont pas capables de dire non, rien n’empêc
 
 Quand les libéraux souhaitent moins d’État, je suis d’accord mais je ne les comprends pas du tout quand ils ne souhaitent pas moins de management. L’État est un système de management comme un autre. D’où la schizophrénie.
 
-1. Tu trouves que les gens vivent de mieux en mieux Vincent ! On ne voit vraiment pas les choses de la même façon j’ai l’impression. [Han Rosling](http://blog.tcrouzet.com/2006/10/11/les-problemes-globaux-existent-ils/) montre qu’en pourcentage les indicateurs de santé, de revenu… sont positifs. En pourcentage, pas en nombre. Ils n’y a jamais eu autant de gens en souffrance sur terre. Quant à la santé spirituelle de nos contemporains, je ne me hasarderai pas à dire qu’elle va pour le mieux. Je trouve en général les gens plutôt déprimés, ne se réveillant que lors des finales de coupe du monde.
+1. Tu trouves que les gens vivent de mieux en mieux Vincent ! On ne voit vraiment pas les choses de la même façon j’ai l’impression. [Han Rosling](/2006/10/11/les-problemes-globaux-existent-ils/) montre qu’en pourcentage les indicateurs de santé, de revenu… sont positifs. En pourcentage, pas en nombre. Ils n’y a jamais eu autant de gens en souffrance sur terre. Quant à la santé spirituelle de nos contemporains, je ne me hasarderai pas à dire qu’elle va pour le mieux. Je trouve en général les gens plutôt déprimés, ne se réveillant que lors des finales de coupe du monde.
 
 2. Tu évoques les pays qui ont adopté le libéralisme par opposition à ceux qui ne l’ont pas fait… Justement, le libéralisme s’est nourri du déséquilibre, de la différence entre la liberté des uns et des autres, c’est cette différence que je dénonce car elle trouve sa racine dans l’idée que certains hommes sont supérieurs aux autres et peuvent leur dicter leur volonté.
 

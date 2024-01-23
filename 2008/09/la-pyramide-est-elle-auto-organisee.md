@@ -14,7 +14,7 @@ Le simple fait de développer de nouvelles technologies de communication one-to-
 
 Par ailleurs, le fait que les structures pyramidales résultent d’un processus d’auto-organisation explique pourquoi je souris quand on me dit que l’auto-organisation est une utopie qui ne marchera jamais. Toutes les formes d’organisation résultent d’une auto-organisation.
 
-Seuls ceux qui croient en une divinité organisatrice peuvent penser le contraire… Mais, comme je l’ai dis lors de [la discussion sur Teilhard de Chardin](http://blog.tcrouzet.com/2008/09/08/teilhard-de-chardin/), nous n’avons pas besoin de cette hypothèse pour expliquer l’évolution des organisations. Nous arrivons à l’ordre et au pyramidal sans qu’ils aient besoin d’être présents initialement dans le monde.
+Seuls ceux qui croient en une divinité organisatrice peuvent penser le contraire… Mais, comme je l’ai dis lors de [la discussion sur Teilhard de Chardin](/2008/09/08/teilhard-de-chardin/), nous n’avons pas besoin de cette hypothèse pour expliquer l’évolution des organisations. Nous arrivons à l’ordre et au pyramidal sans qu’ils aient besoin d’être présents initialement dans le monde.
 
 La spiritualité vient après la matière.
 

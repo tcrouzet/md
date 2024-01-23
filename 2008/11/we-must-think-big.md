@@ -1,6 +1,6 @@
 # We must think big
 
-C’est le titre d’[un article](http://www.newscientist.com/article/mg20026786.700-special-report-we-must-think-big-to-fight-environmental-disaster.html) de [Susan George](http://blog.tcrouzet.com/2007/10/07/histoires-de-murs/) où elle préconise une forme de volontarisme gouvernemental pour remettre le monde en bon ordre de marche.
+C’est le titre d’[un article](http://www.newscientist.com/article/mg20026786.700-special-report-we-must-think-big-to-fight-environmental-disaster.html) de [Susan George](/2007/10/07/histoires-de-murs/) où elle préconise une forme de volontarisme gouvernemental pour remettre le monde en bon ordre de marche.
 
 Quand elle dit :
 

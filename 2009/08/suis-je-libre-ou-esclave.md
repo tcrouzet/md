@@ -1,6 +1,6 @@
 # Suis-je libre ou esclave ?
 
-Comme Arthur C. Clarke inspire en partie la forme de mon nouveau livre, [*le socialisme selon Starglider*](http://blog.tcrouzet.com/2009/07/10/le-socialisme-selon-starglider/), j’ai commandé la compilation de ses nouvelles. Je les picore au hasard. Hier soir, je tombe sur *Dial F for Frankenstein*, publiée en janvier 1965 dans *Playboy*.
+Comme Arthur C. Clarke inspire en partie la forme de mon nouveau livre, [*le socialisme selon Starglider*](/2009/07/10/le-socialisme-selon-starglider/), j’ai commandé la compilation de ses nouvelles. Je les picore au hasard. Hier soir, je tombe sur *Dial F for Frankenstein*, publiée en janvier 1965 dans *Playboy*.
 
 ---
 

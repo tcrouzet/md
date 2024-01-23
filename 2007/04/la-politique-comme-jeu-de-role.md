@@ -1,14 +1,14 @@
 # La politique comme jeu de rôle
 
-Je voudrais être franc avec vous, essayez de respecter [mon idéal de transparence](http://blog.tcrouzet.com/2007/04/25/gandhi-et-l%e2%80%99open-source/). Je ne crois pas une seconde que les candidats à la présidentielle aient la capacité de changer quoi que ce soit à la face du monde, pas même à celle de la France.
+Je voudrais être franc avec vous, essayez de respecter [mon idéal de transparence](/2007/04/25/gandhi-et-l%e2%80%99open-source/). Je ne crois pas une seconde que les candidats à la présidentielle aient la capacité de changer quoi que ce soit à la face du monde, pas même à celle de la France.
 
 Cette position vous la connaissez mais il y en a une autre sur laquelle j’ai maintenu un certain flou ces derniers mois. J’aimerais remettre les choses au clair au sujet de mon engagement politique au sens traditionnel en commençant par un retour en arrière.
 
 1. Je ne supporte pas la mainmise des grands médias sur l’opinions des citoyens. Je crois que les médias sont responsables de l’immobilisme français. Dans leur volonté de simplification pour plaire au plus grand nombre, ils négligent ce qui est neuf dans le monde pour se complaire dans les affaires. C’est pareil dans tous les pays mais, ailleurs, aux États-Unis par exemple, les entrepreneurs, les scientifiques, les philosophes… tous ceux qui font et pensent le présent sont plus visibles, parce que les Américains ont compris que ces personnes étaient les forces vives de la nation. En attentant, en France, on nous bassine avec les BHL ou les Attali.
 
-2. Quand, en septembre 2006, Bayrou a tapé sur ces médias, j’ai tendu l’oreille. J’ai même décidé [d’interviewer Bayrou dans mon nouveau livre](http://blog.tcrouzet.com/2007/04/19/le-vrai-bayrou/) car, quand on tape sur les médias dominants, c’est pour se tourner vers les médias émergeants. Avec Carlo Revelli d’Agoravox, nous étions aux anges. Nous nous sommes dis que nous pouvions nous battre contre le duel Sarko-Ségo imposé a priori.
+2. Quand, en septembre 2006, Bayrou a tapé sur ces médias, j’ai tendu l’oreille. J’ai même décidé [d’interviewer Bayrou dans mon nouveau livre](/2007/04/19/le-vrai-bayrou/) car, quand on tape sur les médias dominants, c’est pour se tourner vers les médias émergeants. Avec Carlo Revelli d’Agoravox, nous étions aux anges. Nous nous sommes dis que nous pouvions nous battre contre le duel Sarko-Ségo imposé a priori.
 
-3. Lors de ma rencontre avec Bayrou, j’ai apprécié l’homme. En acceptant mon [invitation à la république des blogs](http://blog.tcrouzet.com/2006/09/28/pourquoi-bayrou-est-il-venu/), il m’a fait comprendre qu’il savait que quelque chose de fort bougeait de ce côté. Dès lors, il s’est mis à reprendre à son compte l’émergence d’un cinquième pouvoir.
+3. Lors de ma rencontre avec Bayrou, j’ai apprécié l’homme. En acceptant mon [invitation à la république des blogs](/2006/09/28/pourquoi-bayrou-est-il-venu/), il m’a fait comprendre qu’il savait que quelque chose de fort bougeait de ce côté. Dès lors, il s’est mis à reprendre à son compte l’émergence d’un cinquième pouvoir.
 
 4. J’ai découvert à cette occasion l’idée centrale de Bayrou : le gagnant-gagnant, son refus des vieux clivages. Cette idée je la partage, je crois que nous ne règlerons les problèmes du monde, pas seulement ceux de la France, que par une telle approche.
 
@@ -28,7 +28,7 @@ Mais attention, je suis loin d’être devenu un militant. Mon engagement a tout
 
 Le scénario était parfait mais il ne s’est pas déroulé comme prévu.
 
-1. À partir de janvier, suite au travail de l’automne, Bayrou est monté dans les sondages. Au même moment, j’ai senti qu’il devait inventer quelque chose pour provoquer un électrochoc dans l’opinion. J’ai alors publié [quelques articles critiques](http://blog.tcrouzet.com/2007/04/19/bayroumania-non-merci/). Je voulais souffler quelques mesures à Bayrou, c’était très prétentieux, ça n’a pas marché.
+1. À partir de janvier, suite au travail de l’automne, Bayrou est monté dans les sondages. Au même moment, j’ai senti qu’il devait inventer quelque chose pour provoquer un électrochoc dans l’opinion. J’ai alors publié [quelques articles critiques](/2007/04/19/bayroumania-non-merci/). Je voulais souffler quelques mesures à Bayrou, c’était très prétentieux, ça n’a pas marché.
 
 2. Les sondages continuaient à monter, mon idée réitérée de dissoudre l’UDF ne pouvait pas passer. Pire, le canal de communication ouvert en direction des blogueurs se ferma peu à peu (seuls Nicolas Voisin et Jean Véronis réussirent à passer un peu de temps avec Bayrou… mais pour l’interviewer pas pour penser avec lui sa politique). Avec sa popularité croissante, Bayrou focalisa son attention sur ces mêmes médias rejetés quelques mois plus tôt.
 
@@ -40,7 +40,7 @@ Le scénario était parfait mais il ne s’est pas déroulé comme prévu.
 
 Je vais maintenant passer aux aveux.
 
-1. Par le passé, quand il m’est arrivé de voter, il y a longtemps, j’ai toujours donné ma voix à la droite. Ma raison était simple : je croyais que la droite privilégiait les solutions proposées par les citoyens plutôt que celles proposées par l’État. Pour moi, l’État est un monstre déshumanisé. Aujourd’hui, ma vision idyllique de la droite s’est dissipée. Je ne me sens pas de droite, pas plus du centre, pas plus de gauche. Je pense que nous devons nous positionner sur de [nouveaux axes](http://blog.tcrouzet.com/2006/11/06/troisieme-voie-en-image/).
+1. Par le passé, quand il m’est arrivé de voter, il y a longtemps, j’ai toujours donné ma voix à la droite. Ma raison était simple : je croyais que la droite privilégiait les solutions proposées par les citoyens plutôt que celles proposées par l’État. Pour moi, l’État est un monstre déshumanisé. Aujourd’hui, ma vision idyllique de la droite s’est dissipée. Je ne me sens pas de droite, pas plus du centre, pas plus de gauche. Je pense que nous devons nous positionner sur de [nouveaux axes](/2006/11/06/troisieme-voie-en-image/).
 
 2. Je n’ai jamais lu le programme présidentiel de François Bayrou, pas plus ceux de ses adversaires. Je me fous de leurs positions car elles sont archaïques. C’est comme les livres d’Amélie Nothomb, je ne les lis pas parce que je sais qu’ils ne survivront pas au siècle. Idem pour la presse que je ne lis pas. Je n’ai lu qu’un programme, celui de Bové parce qu’il est radical (et pas moins archaïque par bien des points).
 

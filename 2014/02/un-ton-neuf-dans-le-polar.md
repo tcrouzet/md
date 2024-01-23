@@ -16,7 +16,7 @@ Il y a de l’*Étranger* de Camus dans ce Bathelot virevoltant. Dans le style, 
 
 *Sortie 21 mars 2014...*
 
-![Terminus mon Ange](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/02/terminus-560x900.jpg)
+![Terminus mon Ange](https://tcrouzet.com/images_tc/2014/02/terminus-560x900.jpg)
 
 
 

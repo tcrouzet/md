@@ -29,8 +29,8 @@ Une parodie des thermes de Balaruc transposées au XVI<sup>e</sup>.
 
 - ISBN ebook : 978-2-9193-5830-4
 
-![Clitoria en papier et ebook](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/2clitoria.jpg)
+![Clitoria en papier et ebook](https://tcrouzet.com/images_tc/2014/11/2clitoria.jpg)
 
-![Clitoria, version papier](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/clitoriabook.jpg)
+![Clitoria, version papier](https://tcrouzet.com/images_tc/2014/10/clitoriabook.jpg)
 
-![Clitoria, planche de couverture](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/dortoman4em.jpg)
+![Clitoria, planche de couverture](https://tcrouzet.com/images_tc/2014/10/dortoman4em.jpg)

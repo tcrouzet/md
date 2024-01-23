@@ -1,5 +1,5 @@
 # Cécilia divorce
 
-La recette fonctionne à merveille. Je vais battre aujourd’hui mon record de trafic grâce à mes deux notes [Cécilia nue](http://blog.tcrouzet.com/2007/09/27/cecilia-nue/) et [Cécilia à poil](http://blog.tcrouzet.com/2007/10/18/cecilia-a-poil/). Tout cela juste en piégeant les moteurs de recherche et les internautes. C’est du propre. Comme le dit [Axel Karakartal](http://blog.tcrouzet.com/2007/10/18/cecilia-a-poil/#comment-46949), peut-être devrions-nous jouer avec ce phénomène pour créer des médias à forte audience ?
+La recette fonctionne à merveille. Je vais battre aujourd’hui mon record de trafic grâce à mes deux notes [Cécilia nue](/2007/09/27/cecilia-nue/) et [Cécilia à poil](/2007/10/18/cecilia-a-poil/). Tout cela juste en piégeant les moteurs de recherche et les internautes. C’est du propre. Comme le dit [Axel Karakartal](/2007/10/18/cecilia-a-poil/#comment-46949), peut-être devrions-nous jouer avec ce phénomène pour créer des médias à forte audience ?
 
 Tags: noepub

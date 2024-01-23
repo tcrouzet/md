@@ -10,7 +10,7 @@ Je m’y amuserai peut-être à publier en différé quelques [minutes](http://w
 
 Faut pas exagérer. Wattpad n’est pas peuplé que de filles. Je vois des centaines de garçons y publier. Et si j’en crois mes statistiques, le public est plus divers qu’il n’y paraît. Il y a tout simplement plus de filles parce que depuis longtemps les femmes lisent plus que les hommes, même les bons vieux livres papier.
 
-![Wattpad, c'est des filles et des garçons.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/watstat1.png)
+![Wattpad, c'est des filles et des garçons.](https://tcrouzet.com/images_tc/2015/06/watstat1.png)
 
 Wattpad, c'est des filles et des garçons.
 
@@ -20,7 +20,7 @@ Le journaliste de *La Tribune* n’en finit pas de m’étonner par son innocenc
 
 Depuis combien de temps les militants de l’open source et du libre crient sur tous les toits que la gratuité n’est pas incompatible avec la marchandisation ? Les feuilletons à succès sur Wattpad devenus des best-sellers en librairie ne font que confirmer une tendance. Rien de surprenant. Pas plus que la popularité de Wattpad donne des idées à d’autres entrepreneurs. Reste que le tout me fait flipper. On nous ressort encore la promesse du succès, tarte à la crème du 2.0, anéantissement de la littérature dans la fan fiction de fan fiction, pendant que les internautes éveillés se réfugient dans le darknet.
 
-![Même After a commencé doucement sur Wattpad... Fyctia se tire peut-être déjà une balle dans le pied en voulant tout de suiste attraper le best-seller.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/fyctia.png)
+![Même After a commencé doucement sur Wattpad... Fyctia se tire peut-être déjà une balle dans le pied en voulant tout de suiste attraper le best-seller.](https://tcrouzet.com/images_tc/2015/06/fyctia.png)
 
 Même After a commencé doucement sur Wattpad... Fyctia se tire déjà une balle dans le pied en voulant tout de suite attraper le best-seller.
 

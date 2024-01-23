@@ -1,8 +1,8 @@
 # Du premier ordinateur à Starglider
 
-![starglider](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/06/starglider_start_screen-450x279.gif)
+![starglider](https://tcrouzet.com/images_tc/2009/06/starglider_start_screen-450x279.gif)
 
-Je voudrais un peu vous dire où j’en suis dans ma tête, pour que vous puissiez peut-être m’aider à l’occasion. Quand j’écrivais [*Ératosthène*](http://ihl.tcrouzet.com) (faut que je termine de le mettre en ligne), j’ai entendu parler du mécanisme d’Anticythère, souvent considéré comme le premier calculateur analogique, peut-être inspiré d’un modèle fabriqué par Archimède. À l’automne dernier, quand j’ai esquissé [ma brève histoire de l’informatique](http://blog.tcrouzet.com/2008/03/25/la-breve-histoire-de-l%E2%80%99informatique/), j’ai logiquement écrit une historiette sur le mécanisme.
+Je voudrais un peu vous dire où j’en suis dans ma tête, pour que vous puissiez peut-être m’aider à l’occasion. Quand j’écrivais [*Ératosthène*](http://ihl.tcrouzet.com) (faut que je termine de le mettre en ligne), j’ai entendu parler du mécanisme d’Anticythère, souvent considéré comme le premier calculateur analogique, peut-être inspiré d’un modèle fabriqué par Archimède. À l’automne dernier, quand j’ai esquissé [ma brève histoire de l’informatique](/2008/03/25/la-breve-histoire-de-l%E2%80%99informatique/), j’ai logiquement écrit une historiette sur le mécanisme.
 
 ---
 
@@ -14,7 +14,7 @@ Elias Stadiatos se trouvaient à 60 mètres de fond lorsqu’il tira sur la cord
 
 Durant les deux ans qui suivirent, les archéologues explorèrent le site. Le 17 mai 1902, ils notèrent non loin de l’épave une roue avec engrenages enchâssée dans un rocher. C’était comme si une horloge avait été immergée durant deux millénaires. Mais les horloges de cette complexité ne furent inventées qu’au XIX<sup>e</sup> siècle par les horlogers suisses !
 
-![machine d'anticythere](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/06/nama_machine_danticythere_1-450x401.jpg)
+![machine d'anticythere](https://tcrouzet.com/images_tc/2009/06/nama_machine_danticythere_1-450x401.jpg)
 
 — Cet appareil est tout simplement extraordinaire, explique [le professeur Michael Edmunds qui étudie ce mécanisme](http://en.wikipedia.org/wiki/Antikythera_mechanism). Le seul de son espèce. Au regard de sa valeur historique, je le considère comme plus précieux que la Joconde.
 
@@ -28,7 +28,7 @@ Ce modèle réduit est l’ordinateur analogique le plus ancien dont nous possé
 
 J’ai terminé en évoquant Clarke parce que le mécanisme l’a beaucoup intrigué et parce que, dans un article sur le mécanisme, j’ai trouvé cette question qu’il s’était posé au sujet des romains. J'ai alors lu *Fountain of Paradise*, roman où il se demande ce qu'il serait advenu si la science grecque avait suivit son cours. Au milieu du récit, qui décrit la construction d’un ascenseur spatial, la sonde exploratrice Starglider visite le système solaire et communique avec les hommes. J’ai été frappé par l’effet, par la façon dont il était facile de lancer des généralités, de jouer avec le décalage culturel. J’en suis resté là.
 
-En parallèle, j’esquissais ce qui devait être mon prochain essai, parfois appelé *[Boom](http://blog.tcrouzet.com/2009/02/12/boom/)*, parfois *[Les crapauds fous](http://blog.tcrouzet.com/2009/05/12/les-crapauds-fous-fous/)*. Je voulais parler de la transition historique que nous vivons, une sorte de suite d’Ératosthène.
+En parallèle, j’esquissais ce qui devait être mon prochain essai, parfois appelé *[Boom](/2009/02/12/boom/)*, parfois *[Les crapauds fous](/2009/05/12/les-crapauds-fous-fous/)*. Je voulais parler de la transition historique que nous vivons, une sorte de suite d’Ératosthène.
 
 Mon point de départ était simple. Nous disposons aujourd’hui de la technologie pour résoudre nombre de problèmes globaux comme la faim ou la soif mais nous ne faisons pas grand-chose. Le problème n’est donc pas technologique mais humain. Si l’homme ne change pas, je ne vois aucune raison pour qu’il réussisse à régler les problèmes globaux, notamment le problème climatique.
 

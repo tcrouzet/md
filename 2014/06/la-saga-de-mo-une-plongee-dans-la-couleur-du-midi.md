@@ -16,6 +16,6 @@ Voilà le début d’une grande œuvre comme on n’en fait plus beaucoup. Une �
 
 C’est noir et lumineux, de ces ombres franches propres à l’été, où tout est plus intense, et plus dangereux. Je frissonne. En embuscade, une dizaine d’autres tomes attendent, prêts à se jeter sur nous et à nous dévorer le cœur.
 
-![La Saga de Mô, tome 1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/06/cover-600x860.jpg)
+![La Saga de Mô, tome 1](https://tcrouzet.com/images_tc/2014/06/cover-600x860.jpg)
 
 Tags: Critique, une

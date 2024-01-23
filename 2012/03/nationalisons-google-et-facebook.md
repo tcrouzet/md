@@ -18,7 +18,7 @@ The Huffington Post republie nos articles tout en amplifiant leur audience.
 
 Moteurs de recherches, réseaux sociaux, agrégateurs de contenus et de nombreux autres services exploitent le statuquo. Quelle en est la légitimité ?
 
-Depuis le début de [mon expérience de déconnexion](http://blog.tcrouzet.com/tag/jai-debranche/), j’ai été exposé médiatiquement. Qu’est-ce que j’ai fait de cette visibilité ? Rien. Elle ne m’a même pas rapporté de quoi manger. Je ne vends pas plus d’exemplaires de [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/) que du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), pourtant privé de couverture média, et François Bon n’a pas vu [mes textes s’arracher sur publie.net](http://www.publie.net/fr/list/rechercher/page/1/date?q=Crouzet).
+Depuis le début de [mon expérience de déconnexion](/tag/jai-debranche/), j’ai été exposé médiatiquement. Qu’est-ce que j’ai fait de cette visibilité ? Rien. Elle ne m’a même pas rapporté de quoi manger. Je ne vends pas plus d’exemplaires de [*J’ai débranché*](/jai-debranche/) que du [*Peuple des connecteurs*](/le-peuple-des-connecteurs/), pourtant privé de couverture média, et François Bon n’a pas vu [mes textes s’arracher sur publie.net](http://www.publie.net/fr/list/rechercher/page/1/date?q=Crouzet).
 
 La visibilité ne m’apporte rien, sinon nourrir médiocrement mon narcissisme.
 
@@ -26,7 +26,7 @@ La visibilité n’apporte rien à la plupart des gens.
 
 La visibilité n’est que du vent tant qu’elle ne se transforme pas en hyper visibilité, une hyper visibilité qu’aucun service ne pourra jamais nous offrir, tout simplement parce que nous ne pouvons être tous hyper visibles. C’est le public qui nous rend visibles et non pas des services.
 
-Parmi tous les usagers du Web, la visibilité n’intéresse que de rares VRP et la foule innombrables des entreprises qui emploient des référenceurs et des [community managers](http://blog.tcrouzet.com/2010/09/16/les-community-managers-sont-des-putes/) pour l’accroître. Pour eux, elle est rentable. Ils parlent de taux de conversion. Mais pour nous, l’immense majorité pourvoyeuse de 99 % des contenus, elle ne vaut rien.
+Parmi tous les usagers du Web, la visibilité n’intéresse que de rares VRP et la foule innombrables des entreprises qui emploient des référenceurs et des [community managers](/2010/09/16/les-community-managers-sont-des-putes/) pour l’accroître. Pour eux, elle est rentable. Ils parlent de taux de conversion. Mais pour nous, l’immense majorité pourvoyeuse de 99 % des contenus, elle ne vaut rien.
 
 Que j’ai cent, mille ou dix-mille lecteurs sur mon blog pour un article, ça ne change rien à ma vie (et le narcissisme ne me sustente que jusqu'à un point limité).
 
@@ -36,7 +36,7 @@ Quand dans un mail je défends cette idée face à l’une des initiatrices de M
 
 > « Aujourd’hui vous bénéficiez de quelques feux d’actualité mais l’expérience montre qu’ils ne durent pas très longtemps. »
 
-Chère François, ce qui m’intéresse, c’est en réalité de communiquer librement, [de créer des liens énergisés à la beauté](http://blog.tcrouzet.com/baby-foot/). Tout le reste n’est qu’un leurre marketing.
+Chère François, ce qui m’intéresse, c’est en réalité de communiquer librement, [de créer des liens énergisés à la beauté](/baby-foot/). Tout le reste n’est qu’un leurre marketing.
 
 Même dans une société [dominée par l’abondance (de l’information, de l’énergie, des œuvres…)](http://www.tierslivre.net/spip/spip.php?article2797), la visibilité restera une rareté, du fait même de la rareté du temps d’attention à notre disposition.
 
@@ -72,7 +72,7 @@ Il existe une solution simple, c’est le partage.
 
 Il suffirait que Google reverse 50 % de ses revenus aux créateurs comme il sait le faire pour ceux qui affichent des publicités AdSence. Si dix extraits de sites aident à construire une page de résultat sur le moteur, il serait logique que chacun de ces sites soit rétribué par autre chose que de la visibilité.
 
-Il en irait de même sur Facebook, sur tous les agrégateurs, sur tous les services. Cette rétribution mécanique, automatique, serait de nature à compléter un [dividende universel](http://blog.tcrouzet.com/tag/dividende-universel/) (et même à l'établir dans la société numérique).
+Il en irait de même sur Facebook, sur tous les agrégateurs, sur tous les services. Cette rétribution mécanique, automatique, serait de nature à compléter un [dividende universel](/tag/dividende-universel/) (et même à l'établir dans la société numérique).
 
 Aujourd’hui, nous vivons une situation assez catastrophique du point de vue des droits de l’homme. Alors que les esclavagistes laissaient de quoi manger à leurs esclaves, les maîtres de l’information les affament peu à peu, avec l’espoir insensé que la vieille société de la rareté continuera à nourrir leur créativité.
 

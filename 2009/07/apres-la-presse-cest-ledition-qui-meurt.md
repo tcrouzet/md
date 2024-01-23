@@ -80,6 +80,6 @@ J’ai à mon compteur des livres dans des domaines différents et qui ont été
 
 13. Au final, et en général, il gagne peu, les auteurs gagnent peu. Au passage, les uns et les autres on a pollué la planète au nom de la culture.
 
-[Ce billet se prolonge par une expérience pratique.](http://blog.tcrouzet.com/2009/07/19/reinventer-l%e2%80%99edition-experience-pratique/)
+[Ce billet se prolonge par une expérience pratique.](/2009/07/19/reinventer-l%e2%80%99edition-experience-pratique/)
 
 Tags: édition

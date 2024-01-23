@@ -2,7 +2,7 @@
 
 Un système complexe ne peut pas être contrôlé par le haut, il ne peut que s’auto-organiser.
 
-![Par fuckingkarma.com](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200707fucksarko.jpg)
+![Par fuckingkarma.com](https://tcrouzet.com/images_tc/200707fucksarko.jpg)
 
 Une société est un voilier sans personne à la barre mais avec beaucoup d’équipiers qui contrebalancent la gîte.
 

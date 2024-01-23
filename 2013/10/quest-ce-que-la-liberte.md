@@ -78,7 +78,7 @@ Dès que nous utilisons une ressource, un risque systémique existe, qui exige d
 
 Bien sûr que non. Je ne peux produire que ce dont je suis capable. Je ne peux choisir de produire que parmi les possibilités à ma disposition ce qui m'éloigne du « toute valeur ». Si j'étais aveugle, j'aurais du mal à dessiner une BD. Si j'ai envie de composer une symphonie, je dois me satisfaire de mon envie. Je ne peux même pas la composer dans mon esprit.
 
-Cette liberté 2 n'est envisageable que dans un monde utopique où l'égalité friserait celle en vigueur dans une armée de clones. C'est justement parce que nous ne pouvons créer « toute valeur » que nous formons société. Il y a en l'autre ce qu'il n'y a pas en moi (j'ai montré dans [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/) que la liberté jaillissait justement de cette dichotomie).
+Cette liberté 2 n'est envisageable que dans un monde utopique où l'égalité friserait celle en vigueur dans une armée de clones. C'est justement parce que nous ne pouvons créer « toute valeur » que nous formons société. Il y a en l'autre ce qu'il n'y a pas en moi (j'ai montré dans [*L'alternative nomade*](/alternative-nomade/) que la liberté jaillissait justement de cette dichotomie).
 
 Stéphane écrit :
 

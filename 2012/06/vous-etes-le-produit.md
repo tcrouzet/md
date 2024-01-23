@@ -1,10 +1,10 @@
 # Si vous ne payez pas un produit, vous êtes le produit
 
-L’écriture de mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene-new/) me pousse à effectuer des recherches sur le Web, mais pas à fréquenter les réseaux sociaux (j’y croise trop peu de Grecs du III<sup>e</sup> siècle avant Jésus-Christ). Et puis, chaque fois que je me balade sur Facebook et Twitter, je me sens dans la peau d’un ancien habitant qui découvre des changements qui lui déplaisent.
+L’écriture de mon [*Ératosthène*](/eratosthene-new/) me pousse à effectuer des recherches sur le Web, mais pas à fréquenter les réseaux sociaux (j’y croise trop peu de Grecs du III<sup>e</sup> siècle avant Jésus-Christ). Et puis, chaque fois que je me balade sur Facebook et Twitter, je me sens dans la peau d’un ancien habitant qui découvre des changements qui lui déplaisent.
 
 Mon regard étant sans doute biaisé (j’espère provisoirement), il faut le prendre comme tel. Avant j’étais un panégyriste de la chose numérique, je suis un peu plus critique, non pas vis-à-vis de la technologie, mais de nos usages, et des usages qu’on voudrait bien nous voir adopter.
 
-J’ai de plus en plus peur que nous ne devenions de nouveaux esclaves ([j’ai fait du chemin sur ce sujet](http://blog.tcrouzet.com/2006/06/19/esclavage-20/)). Le parallèle entre notre situation et celle des esclaves est par certains aspects frappant. Ils ne payaient pas pour se nourrir ou se loger, mais leurs maîtres les forçaient à travailler, les échangeaient, les vendaient… Chaque fois que je vais sur Facebook, Twitter ou Google, on m’offre le logis numérique et la nourriture informationnelle et sociale, et on utilise mon travail pour enrichir les bases de données des publicistes pour qu’ils me ciblent mieux ainsi que mes amis.
+J’ai de plus en plus peur que nous ne devenions de nouveaux esclaves ([j’ai fait du chemin sur ce sujet](/2006/06/19/esclavage-20/)). Le parallèle entre notre situation et celle des esclaves est par certains aspects frappant. Ils ne payaient pas pour se nourrir ou se loger, mais leurs maîtres les forçaient à travailler, les échangeaient, les vendaient… Chaque fois que je vais sur Facebook, Twitter ou Google, on m’offre le logis numérique et la nourriture informationnelle et sociale, et on utilise mon travail pour enrichir les bases de données des publicistes pour qu’ils me ciblent mieux ainsi que mes amis.
 
 Ce statut d’esclave numérique est encore supportable, mais nous sommes sur une pente qui pourrait voir sa déclivité s’accroître. Comment l’éviter ?
 

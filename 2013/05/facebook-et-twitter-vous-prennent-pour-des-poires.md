@@ -2,7 +2,7 @@
 
 Ou des cruches, ou de simples générateurs d’énergie comme dans Matrix. Tous branchés. Vous croyez recevoir et vous donnez votre vie à la machine.
 
-[Vous croyez à tors ces services définitifs](http://blog.tcrouzet.com/2013/05/23/facebook-et-twitter-secrouleront-comme-un-chateau-de-cartes/), alors vous y construisez votre réputation, vous accumulez des amis postiches, vous en parlez partout… et le cash circule, et vous n’en recevez pas une miette, ce qui à terme vous dégoûtera en plus de la mauvaise haleine du patron.
+[Vous croyez à tors ces services définitifs](/2013/05/23/facebook-et-twitter-secrouleront-comme-un-chateau-de-cartes/), alors vous y construisez votre réputation, vous accumulez des amis postiches, vous en parlez partout… et le cash circule, et vous n’en recevez pas une miette, ce qui à terme vous dégoûtera en plus de la mauvaise haleine du patron.
 
 Vous qui êtes très populaires dans cet univers, qui en êtes les vedettes, qui êtes bien les seuls à en tirer bénéfices, vous crachez sur les critiques, mais vous serez les premiers à changer de boutique quand le vent tournera.
 
@@ -28,6 +28,6 @@ La vie continue. Nous tenons la baraque. Nous nous accrochons à nos îles. Nous
 
 Et je m'excuse par avance devant tous ceux qui partagent avec la main sur le cœur. Vous avez été récupérés. Vous défendez souvent des idées contraires à celles poussées par le vent dominant, mais, en le faisant sur le voilier amiral, vous ne faites que le célébrer.
 
-*PS : [Billet écrit en hommage à mon commentateur anonyme préféré…](http://blog.tcrouzet.com/2013/05/23/facebook-et-twitter-secrouleront-comme-un-chateau-de-cartes/#comment-148137)*
+*PS : [Billet écrit en hommage à mon commentateur anonyme préféré…](/2013/05/23/facebook-et-twitter-secrouleront-comme-un-chateau-de-cartes/#comment-148137)*
 
 Tags: Facebook, NetCulture, Twitter, une

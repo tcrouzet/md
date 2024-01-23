@@ -2,7 +2,7 @@
 
 J’ai ressorti le vieux manuscrit d’un roman, écrit en 1993, réécrit en 2003, jamais proposé à un éditeur, pour tenter une expérience et [prolonger ma réflexion sur la mort de l’édition](/2009/07/17/apres-la-presse-cest-ledition-qui-meurt/).
 
-Ce roman, *[Genius locus](http://blog.tcrouzet.com/genius-locus/)*, est terminé pour moi mais il n’est pas terminé au sens de la chaîne du livre.
+Ce roman, *[Genius locus](/genius-locus/)*, est terminé pour moi mais il n’est pas terminé au sens de la chaîne du livre.
 
 1. Je suis le seul à le juger bon, ce qui vous l’avouerez n’a pas beaucoup d’importance tant je suis mal placé pour apprécier mon propre travail.
 
@@ -14,15 +14,15 @@ Ce roman, *[Genius locus](http://blog.tcrouzet.com/genius-locus/)*, est terminé
 
 5. Mon texte n’étant pas achevé selon ces critères, je me vois mal le transmettre à des journalistes, à des blogueurs, le proposer aux jurés des grands prix littéraires ou même à [publie.net](http://publie.net) de [François Bon](http://www.tierslivre.net). Il n’a donc pour le moment qu’une existence potentielle.
 
-6. *[Genius locus](http://blog.tcrouzet.com/genius-locus/)* est pourtant déjà disponible sur Amazon ! [Voir la fiche technique du livre avec les liens vers les boutiques et autres plateformes.](http://blog.tcrouzet.com/genius-locus/)
+6. *[Genius locus](/genius-locus/)* est pourtant déjà disponible sur Amazon ! [Voir la fiche technique du livre avec les liens vers les boutiques et autres plateformes.](/genius-locus/)
 
 Que se passera-t-il si les amateurs et les écrivains professionnels se mettent à diffuser leurs textes de cette façon ? Nous assisterons à un appauvrissement de notre culture. Elle augmentera en volume sans augmenter en qualité (ou même sans être capable d’en maintenir le niveau). Je vois pour les auteurs quatre possibilités.
 
-1. Auto-publier comme je viens de le faire avec *[Genius locus](http://blog.tcrouzet.com/genius-locus/)* à la mode du web 2.0 me paraît insuffisant. Une photo, tu la regardes, tu t’en vas. Ça prend un rien de temps. Un article sur un blog, tu le lis en une minute et tu acceptes les imprécisions. Un livre, tu y plonges pour plusieurs heures. L’amateurisme fatigue vite. Difficile de consacrer beaucoup de temps à une œuvre encore approximative.
+1. Auto-publier comme je viens de le faire avec *[Genius locus](/genius-locus/)* à la mode du web 2.0 me paraît insuffisant. Une photo, tu la regardes, tu t’en vas. Ça prend un rien de temps. Un article sur un blog, tu le lis en une minute et tu acceptes les imprécisions. Un livre, tu y plonges pour plusieurs heures. L’amateurisme fatigue vite. Difficile de consacrer beaucoup de temps à une œuvre encore approximative.
 
 2. Négocier avec un éditeur à l’ancienne qui, s’il accepte le livre, reversera des royalties.
 
-3. Trouver un éditeur transparent comme je l’ai défini dans [le billet sur la mort de l’édition](http://blog.tcrouzet.com/2009/07/17/apres-la-presse-cest-ledition-qui-meurt/).
+3. Trouver un éditeur transparent comme je l’ai défini dans [le billet sur la mort de l’édition](/2009/07/17/apres-la-presse-cest-ledition-qui-meurt/).
 
 4. Devenir soi-même, dynamiquement, un éditeur transparent pour son propre livre. C’est ce que je voudrais expérimenter maintenant.
 
@@ -50,7 +50,7 @@ Si parmi vous certains veulent tenter l’expérience, on peut s’y essayer (av
 
 2. En réduisant les coûts de l’impression à la demande, ce qui me paraît facile juste avec de la négociation directe entre un éditeur transparent et une imprimerie, on peut vendre un livre bien moins cher que dans le circuit classique tout en doublant au minimum les revenus de tous les créatifs. Je suis sûr que même les auteurs populaires ont tout à y gagner.
 
-3. Lulu fabrique à la demande un poche de 200 pages pour 12 euros. Pour*[Genius locus](http://blog.tcrouzet.com/genius-locus/)*, j’ai pour le moment ajouté 2 euros de marge pour arriver à 14 euros (on est déjà en dessous du prix d’un roman tout en proposant à l’auteur un revenu supérieur).
+3. Lulu fabrique à la demande un poche de 200 pages pour 12 euros. Pour*[Genius locus](/genius-locus/)*, j’ai pour le moment ajouté 2 euros de marge pour arriver à 14 euros (on est déjà en dessous du prix d’un roman tout en proposant à l’auteur un revenu supérieur).
 
 4. Typiquement le livre final, devrait coûter 12+6 euros. La version ebook elle aussi coûtera le prix exigé par la plateforme, environ 1 euro, plus 6 euros.
 

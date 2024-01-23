@@ -1,6 +1,6 @@
 # Il vous a peut-être sauvé la vie
 
-[Offre légale et partage non-marchand doivent coexister](http://scinfolex.wordpress.com/2013/07/18/offre-legale-et-partage-non-marchand-doivent-coexister/) ou [Reconnaître le Domaine Public Volontaire](http://scinfolex.wordpress.com/2013/07/17/reconnaitre-le-domaine-public-volontaire-sans-fragiliser-lauteur-dans-les-contrats-dedition-reponse-a-la-sgdl/), ces deux billets de Calimaq m’incitent à préciser ma volonté de distribuer sous licence Créative Commons BY-SA mon prochain livre : [*L’homme qui lave les mains*](http://blog.tcrouzet.com/tag/lhomme-qui-lave-les-mains/).
+[Offre légale et partage non-marchand doivent coexister](http://scinfolex.wordpress.com/2013/07/18/offre-legale-et-partage-non-marchand-doivent-coexister/) ou [Reconnaître le Domaine Public Volontaire](http://scinfolex.wordpress.com/2013/07/17/reconnaitre-le-domaine-public-volontaire-sans-fragiliser-lauteur-dans-les-contrats-dedition-reponse-a-la-sgdl/), ces deux billets de Calimaq m’incitent à préciser ma volonté de distribuer sous licence Créative Commons BY-SA mon prochain livre : [*L’homme qui lave les mains*](/tag/lhomme-qui-lave-les-mains/).
 
 ### Brouillon de quatrième de couverture
 
@@ -8,13 +8,13 @@ Pour être moins souvent malade, il suffit de se laver les mains. Didier Pittet 
 
 ### Un brouillon de couverture
 
-![D'après Pécub](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/07/cover-500x800.jpg)
+![D'après Pécub](https://tcrouzet.com/images_tc/2013/07/cover-500x800.jpg)
 
 D’après un des nombreux posters que [Pécub](http://www.pecub.ch/) a dessinés pour illustrer la campagne de promotion de l’hygiène des mains au CHU de Genève.
 
 ### Un second brouillon
 
-![D'après Jean-Baptiste Huyn](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/07/cover2-500x800.jpg)
+![D'après Jean-Baptiste Huyn](https://tcrouzet.com/images_tc/2013/07/cover2-500x800.jpg)
 
 D’après une photographie de [Jean-Baptiste Huyn](http://www.jeanbaptistehuynh.com/) utilisée par les HUG pour sa campagne de de promotion. J’aimerais bien que Jean-Baptiste participe au projet (contact en cours).
 

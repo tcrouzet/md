@@ -25,7 +25,7 @@ Le vote n’est pas consubstantiel de la démocratie, seulement des régimes rep
 
 ### 5
 
-Les règles du jeu représentatif ont été promulguées non démocratiquement par des hommes qui n’avaient que mépris pour le peuple. Ainsi [Michel Debré, rédacteur de la constitution française, écrit en 1957](http://blog.tcrouzet.com/2012/03/19/la-democratie-de-la-rarete/) : « La cité, la Nation où chaque jour un grand nombre de citoyens discuteraient de politique seraient proches de la ruine. » Debré ne fait que reformuler les vues de Sieyès. Résumé de son propos : votons de temps en temps puis taisons-nous.
+Les règles du jeu représentatif ont été promulguées non démocratiquement par des hommes qui n’avaient que mépris pour le peuple. Ainsi [Michel Debré, rédacteur de la constitution française, écrit en 1957](/2012/03/19/la-democratie-de-la-rarete/) : « La cité, la Nation où chaque jour un grand nombre de citoyens discuteraient de politique seraient proches de la ruine. » Debré ne fait que reformuler les vues de Sieyès. Résumé de son propos : votons de temps en temps puis taisons-nous.
 
 ### 6
 

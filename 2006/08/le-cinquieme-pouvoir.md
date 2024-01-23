@@ -1,6 +1,6 @@
 # Le cinquième pouvoir
 
-De tous les titres que j’ai proposés et que vous avez [proposés](http://blog.tcrouzet.com/2006/08/04/sos-cherche-titre-desesperement/) pour mon prochain livre, *Le cinquième pouvoir* , suggéré par [Erick Jonquière](http://eznogood.blogspot.com/2006/05/web-20-le-cinquime-pouvoir.html), me semble le plus précis. Il décrit la nouvelle mobilisation politique qui se dégage au travers d’internet, sans mettre l’accent sur internet lui-même. Il met les gens en avant et pas l’outil qui les aide à s’organiser. La véritable nouveauté sera dans un nouveau mode d’organisation.
+De tous les titres que j’ai proposés et que vous avez [proposés](/2006/08/04/sos-cherche-titre-desesperement/) pour mon prochain livre, *Le cinquième pouvoir* , suggéré par [Erick Jonquière](http://eznogood.blogspot.com/2006/05/web-20-le-cinquime-pouvoir.html), me semble le plus précis. Il décrit la nouvelle mobilisation politique qui se dégage au travers d’internet, sans mettre l’accent sur internet lui-même. Il met les gens en avant et pas l’outil qui les aide à s’organiser. La véritable nouveauté sera dans un nouveau mode d’organisation.
 
 Mon éditeur apprécie aussi ce titre donc *alea jacta es*. Voici une petite définition, en version provisoire, que je placerai dès le début du livre.
 

@@ -2,11 +2,11 @@
 
 Centraliser, c'est introduire des passages obligés à la traversée desquels on affirme son contrôle, c'est créer des zones de pouvoir et même de toute-puissance, des espaces opaques et impénétrables pour le profane. Il y les passants et ceux qui contrôlent. Il y a ceux qui subissent les règles et ceux qui les imposent. Souvent, cette hiérarchie primaire à deux niveaux se complique, chaque niveau se subdivise pour que la pyramide s'élève.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/11/richardstallman.jpg)
+![](https://tcrouzet.com/images_tc/2010/11/richardstallman.jpg)
 
 Centralisation implique hiérarchisation, implique émergence de structures de domination et réciproquement.
 
-> L'anarchisme, du moins tel que je le comprends \[…\] est une tendance de la pensée et de l'action humaine qui cherche à identifier les structures d'autorité et de domination, à les appeler à se justifier, et, dès qu'elles s'en montrent incapables (ce qui arrive fréquemment), à travailler à les surmonter, [écrit Chomsky](http://blog.tcrouzet.com/2010/02/11/anarchisme-emancipation/).
+> L'anarchisme, du moins tel que je le comprends \[…\] est une tendance de la pensée et de l'action humaine qui cherche à identifier les structures d'autorité et de domination, à les appeler à se justifier, et, dès qu'elles s'en montrent incapables (ce qui arrive fréquemment), à travailler à les surmonter, [écrit Chomsky](/2010/02/11/anarchisme-emancipation/).
 
 J'aime cette définition de l'anarchie. Elle situe comme anarchistes ceux qui se sont opposés à l'esclavage ou ceux qui se sont opposés à la domination des hommes sur les femmes. Nous avons non seulement pour devoir de perpétuer ces luttes anciennes mais nous devons en entreprendre de nouvelles, car des hommes imaginent sans cesse de nouvelles structures de dominations.
 

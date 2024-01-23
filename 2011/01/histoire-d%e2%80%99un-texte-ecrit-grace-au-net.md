@@ -1,6 +1,6 @@
 # Histoire d’un texte écrit grâce au Net
 
-Le Net modifie notre façon d’écrire en même temps que ce que nous écrivons. Dans [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/), j’ai évoqué la dimension sociale de la pratique artistique contemporaine. Cette socialisation peut s’effectuer en direct ou par sites interposés. C’est cette seconde forme qui la première a été possible. Je l’ai [pour la première fois mise en œuvre en 2003](http://blog.tcrouzet.com/2011/01/20/bit-sex-and-bug/) lorsque j’ai écrit [*Bit, Sex and Bug*](http://blog.tcrouzet.com/bit-sex-and-bug/).
+Le Net modifie notre façon d’écrire en même temps que ce que nous écrivons. Dans [*La stratégie du cyborg*](/la-strategie-du-cyborg/), j’ai évoqué la dimension sociale de la pratique artistique contemporaine. Cette socialisation peut s’effectuer en direct ou par sites interposés. C’est cette seconde forme qui la première a été possible. Je l’ai [pour la première fois mise en œuvre en 2003](/2011/01/20/bit-sex-and-bug/) lorsque j’ai écrit [*Bit, Sex and Bug*](/bit-sex-and-bug/).
 
 J’avais déjà abondamment utilisé le Net pour écrire mes livres de vulgarisation. J’avais déjà l’habitude de fouiller les tréfonds des sites méconnus et de lire des PDF pour remonter des informations peu visibles. Mais je ne m’étais jamais servi de ce travail même comme matière d’un texte.
 
@@ -17,28 +17,28 @@ Ce que j’étais en train de vivre et ce que j’écrivais ne se différenciait
 A posteriori, à côté du texte finalisé, il reste une liste d’URL qui témoignent de mes explorations et quelques photographies que j’ai sauvegardées et qui m’ont inspiré des scènes et parfois des chapitres.
 
 Ce portrait indistinct de Gaétan Dugas, un temps surnommé le patient zéro.
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/gaetan_dugas.jpg)
+![](https://tcrouzet.com/images_tc/2011/01/gaetan_dugas.jpg)
 
 Kinshasa...
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/congo_kinshasha1.jpg)
+![](https://tcrouzet.com/images_tc/2011/01/congo_kinshasha1.jpg)
 
 Une péniche sur le Congo...
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/congo1-450x297.jpg)
+![](https://tcrouzet.com/images_tc/2011/01/congo1-450x297.jpg)
 
 La région de Lisala...
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/lisala-450x318.jpg)
+![](https://tcrouzet.com/images_tc/2011/01/lisala-450x318.jpg)
 
 Brazaville...
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/brazzaville2-450x418.gif)
+![](https://tcrouzet.com/images_tc/2011/01/brazzaville2-450x418.gif)
 
 Pointe Noire...
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/pointenoire1.gif)
+![](https://tcrouzet.com/images_tc/2011/01/pointenoire1.gif)
 
 Un bradysaurus...
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/bradysaurus2.jpg)
+![](https://tcrouzet.com/images_tc/2011/01/bradysaurus2.jpg)
 
 Perth Barrackstreet Jetty...
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/01/Perth_barrackst-jetty.jpg)
+![](https://tcrouzet.com/images_tc/2011/01/Perth_barrackst-jetty.jpg)
 
 Ces photos sont comme un album souvenir d'un grand surf sur le Web qui devint l’histoire de Julien, l’histoire de ma propre lutte avec la complexité, celle de l’écriture et de la vie.
 

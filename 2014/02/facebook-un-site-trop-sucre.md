@@ -8,11 +8,11 @@ Ainsi, il ne me viendrait jamais à l'esprit d'être contre l’immigration (ce 
 
 La diversité peut s'évaluer objectivement en traçant des [power law](http://en.wikipedia.org/wiki/Power_law). Par exemple, on représente en ordonnée le nombre de fois où les mots d'un texte sont utilisés, en abscisse le classement des mots (en premier le plus usité et ainsi de suite). Sur une échelle logarithmique, on obtient une droite. En fonction de sa pente, il devient possible de [comparer le style des écrivains](http://fr.wikipedia.org/wiki/Loi_de_Zipf) et d'évaluer la richesse de leur vocabulaire (plus la pente est faible plus l'usage des mots est divers).
 
-![Usage des mots dans tous les livres anglais du projet Gutenberg](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/02/zipf-600x362.jpg)
+![Usage des mots dans tous les livres anglais du projet Gutenberg](https://tcrouzet.com/images_tc/2014/02/zipf-600x362.jpg)
 
 Cette technique est utilisable dans tous les domaines. On peut classer les médias par leur audience. Les best-sellers. Le nombre de candidats aux élections. L’évolution de la power law nous apprend si la société s’oriente vers plus ou moins de diversité.
 
-[Quand je constate qu’apparemment internet ne participe pas à la diversification](http://blog.tcrouzet.com/2014/02/20/la-desintegration-du-marche-du-livre/), je ne fais ni preuve de pessimisme, j’observe, ni d’élitisme, j’observe (et si je me trompe dans mes observations, je serai le premier à m’en réjouir). Les *metrics* montrent simplement un déficit global, provisoire, j’espère. Nous ne semblons pas nous diriger vers plus de diversité, mais vers moins de diversité. Je ne peux pas prétendre le contraire ou continuer à m’illusionner comme je l’ai fait par le passé.
+[Quand je constate qu’apparemment internet ne participe pas à la diversification](/2014/02/20/la-desintegration-du-marche-du-livre/), je ne fais ni preuve de pessimisme, j’observe, ni d’élitisme, j’observe (et si je me trompe dans mes observations, je serai le premier à m’en réjouir). Les *metrics* montrent simplement un déficit global, provisoire, j’espère. Nous ne semblons pas nous diriger vers plus de diversité, mais vers moins de diversité. Je ne peux pas prétendre le contraire ou continuer à m’illusionner comme je l’ai fait par le passé.
 
 La diversité est nécessaire dans un monde complexe. C’est le chemin vers un surplus d’intelligence collective et de bonheur individuel. Il ne s’agit pas de croiser toutes les propositions issue de la diversité pour faire émerger un consensus, mais bien de faire cohabiter des multitudes d’expériences, chacune représentant autant d’idées à mettre en concurrence dans une soupe évolutive sociale.
 

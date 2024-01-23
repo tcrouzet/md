@@ -22,7 +22,7 @@ La raison cartésienne a été mise à mal par Gödel en 1931, puis un peu plus 
 
 5/ Vivre dans un monde complexe n'implique pas que le monde soit compliqué. C'est un grand paradoxe. Grâce notamment à Stephen Wolfram, nous avons compris que des [règles simples pouvaient engendrer des comportements immensément complexes](http://www.wolframscience.com/nksonline/page-29). D'une certaine façon, nous avons démystifié le monde : comprendre n'implique pas prévoir. Nous sommes dorénavant les réelles divinités du monde, c'est à nous de prendre notre destin en main.
 
-Nous nous méfions de tout ce qui nous vient d'en haut. Les religions dogmatiques sont suspectes à nos yeux. Et le capitalisme, lui aussi, nous apparaît comme un dogme quand il nous impose d'analyser l'état de nos sociétés [selon le seul filtre du PIB](http://blog.tcrouzet.com/peuple/croissance-illusoire-35839). Nous avons pris conscience que l'individu, par sa capacité d'action locale, est le véritable moteur de la société globale.
+Nous nous méfions de tout ce qui nous vient d'en haut. Les religions dogmatiques sont suspectes à nos yeux. Et le capitalisme, lui aussi, nous apparaît comme un dogme quand il nous impose d'analyser l'état de nos sociétés [selon le seul filtre du PIB](/peuple/croissance-illusoire-35839). Nous avons pris conscience que l'individu, par sa capacité d'action locale, est le véritable moteur de la société globale.
 
 Je crois qu'une fois que nous nous sommes approprié les différentes façons penser que je viens d'évoquer, nous ne pouvons plus être le même qu'avant. Quand nous cherchons à vivre en accord avec cette nouvelle vision du monde, nous devenons immédiatement plus heureux, tout au moins nous vivons plus intensément.
 

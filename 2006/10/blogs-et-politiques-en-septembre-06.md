@@ -1,6 +1,6 @@
 # Blogs et politiques en septembre 06
 
-[bonVote](http://www.bonvote.com) continue de monter en puissance avec 8500 visites/jour, 750 000 pages vues/mois, soit une progression de 37% par rapport à [août](http://blog.tcrouzet.com/2006/09/04/blogs-et-politique-en-aout-06/). Quelques problèmes de performances devraient être réglés avec l’installation des nouveaux serveurs de [bonWeb](http://www.bonweb.com) dans les jours qui arrivent. Avec ce trafic, [bonVote](http://www.bonvote.com) est sans doute un des sites politiques français les plus visités, sinon déjà le plus visité.
+[bonVote](http://www.bonvote.com) continue de monter en puissance avec 8500 visites/jour, 750 000 pages vues/mois, soit une progression de 37% par rapport à [août](/2006/09/04/blogs-et-politique-en-aout-06/). Quelques problèmes de performances devraient être réglés avec l’installation des nouveaux serveurs de [bonWeb](http://www.bonweb.com) dans les jours qui arrivent. Avec ce trafic, [bonVote](http://www.bonvote.com) est sans doute un des sites politiques français les plus visités, sinon déjà le plus visité.
 
 Dans la liste des sites et blogs les plus influents pour le mois, j’ai mis en gras les nouveaux venus, en italique les sites des partis ou politiciens.
 
@@ -36,7 +36,7 @@ Dans la liste des sites et blogs les plus influents pour le mois, j’ai mis en 
 
 16. [*Alain Lambert*](http://www.alain-lambert-blog.org) | [stats](http://www.bonvote.com/stats.php?s=152455)
 
-17. [Le peuple des connecteurs](http://blog.tcrouzet.com) | [stats](http://www.bonvote.com/stats.php?s=47671)
+17. [Le peuple des connecteurs]() | [stats](http://www.bonvote.com/stats.php?s=47671)
 
 18. [**Thomas Clément**](http://clement.blogs.com) | [stats](http://www.bonvote.com/stats.php?s=534546)
 
@@ -46,9 +46,9 @@ Dans la liste des sites et blogs les plus influents pour le mois, j’ai mis en 
 
 L’UMP a réussi à se glisser dans le classement, ce qui démontre une prise au sérieux de la blogosphère. Sinon, je note la présente du blog de Thomas Clément qui dit ne pas être un blogueur politique. Est-ce que je dois le virer ? Savoir où commence et termine la politique me paraît toujours aussi difficile.
 
-Lors de la [soirée blogs et politique](http://blog.tcrouzet.com/2006/09/28/pourquoi-bayrou-est-il-venu/), Thomas Clément était présent. Mais [Christophe Ginisty](http://ginisty.typepad.com) aussi était là et je ne l’ai pas référencé dans [bonVote](http://www.bonvote.com). Vous allez me dire que ce n’est pas très rigoureux. Mais je ne sais pas comment mettre des barrières strictes, donc je fais au feeling. Quand quelqu’un me demande de l’ajouter, je l’ajoute souvent. Quand plusieurs personnes me disent que quelqu’un d’autre n’a rien à faire là, je le vire souvent.
+Lors de la [soirée blogs et politique](/2006/09/28/pourquoi-bayrou-est-il-venu/), Thomas Clément était présent. Mais [Christophe Ginisty](http://ginisty.typepad.com) aussi était là et je ne l’ai pas référencé dans [bonVote](http://www.bonvote.com). Vous allez me dire que ce n’est pas très rigoureux. Mais je ne sais pas comment mettre des barrières strictes, donc je fais au feeling. Quand quelqu’un me demande de l’ajouter, je l’ajoute souvent. Quand plusieurs personnes me disent que quelqu’un d’autre n’a rien à faire là, je le vire souvent.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/10tophom.gif)
+![](https://tcrouzet.com/images_tc/10tophom.gif)
 
 [Le classement des personnalités](http://www.bonvote.com/buzz.php) n’a pas beaucoup évolué en un mois. Sarkozy toujours au top. Bayrou a remplacé Montebourg et Le Pen a gagné cinq places. Est-ce le signe que le coup de 2002 va se répéter ? Quant à Jack Lang je m’explique mal sa place aussi haut. Mon robot est est-il bugué ?
 

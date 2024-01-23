@@ -2,7 +2,7 @@
 
 J’ai croisé la semaine dernière Bernard Benhamou, délégué aux usages de l’Internet du gouvernement Fillon. En marge d’une réunion, nous avons discuté du retard français en matière de technologie numérique.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/10/europe-map-of-europe-nightlights-satellite-woodleywonderworks-map1.jpg)
+![](https://tcrouzet.com/images_tc/2008/10/europe-map-of-europe-nightlights-satellite-woodleywonderworks-map1.jpg)
 
 Je lui ai dit qu’il n’y avait rien d’étonnant. Je venais de voir quelques jours plus tôt une image du ciel européen où le bug français saute aux yeux. Comment pourrions-nous être sensibles aux réseaux alors que notre pays est aussi centralisé ?
 

@@ -1,5 +1,5 @@
 # Je persiste dans les débats
 
-[J’essaie d’organiser un débat entre les trois candidats de ma commune.](http://www.roquerols.fr/2008/02/13/pour-un-debat-municipal-a-balaruc/) [C’est presque aussi difficile que pour la Présidentielle 2007.](http://blog.tcrouzet.com/2007/04/11/invitation-a-francois-bayrou-jean-marie-le-pen-segolene-royal-et-nicolas-sarkozy/) J’attache beaucoup d’importance à ces rencontres car pour moi la principale vertu des élections est justement de provoquer le débat.
+[J’essaie d’organiser un débat entre les trois candidats de ma commune.](http://www.roquerols.fr/2008/02/13/pour-un-debat-municipal-a-balaruc/) [C’est presque aussi difficile que pour la Présidentielle 2007.](/2007/04/11/invitation-a-francois-bayrou-jean-marie-le-pen-segolene-royal-et-nicolas-sarkozy/) J’attache beaucoup d’importance à ces rencontres car pour moi la principale vertu des élections est justement de provoquer le débat.
 
 Tags: noepub

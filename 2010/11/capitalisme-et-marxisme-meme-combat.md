@@ -1,6 +1,6 @@
 # Capitalisme et marxisme, même combat
 
-Avec l’équipe de [L’expérience inédite](http://blog.tcrouzet.com/tune-caniveau/experience-inedite), nous avons publié la version 2 de [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau). Dans cette version augmentée, je défends l’idée que le capitalisme et le marxisme se ressemblent et que nous devons fuir également les deux systèmes.
+Avec l’équipe de [L’expérience inédite](/tune-caniveau/experience-inedite), nous avons publié la version 2 de [*La tune dans le caniveau*](/tune-caniveau). Dans cette version augmentée, je défends l’idée que le capitalisme et le marxisme se ressemblent et que nous devons fuir également les deux systèmes.
 
 ### Capitalisme vs marxisme
 
@@ -22,13 +22,13 @@ Pour donner les usines aux ouvriers, il faut que des capitalistes les aient cons
 
 ### Organisme
 
-Dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), j’ai introduit l’idée de développement organique qui ne nécessite ni outil de production de type industriel, ni capital. Dans [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/), je dis que seul l’anarchisme peut succéder au capitalisme et au marxisme. À l’avenir, je leur opposerai plutôt l’organisme.
+Dans [*L’alternative nomade*](/alternative-nomade/), j’ai introduit l’idée de développement organique qui ne nécessite ni outil de production de type industriel, ni capital. Dans [*La tune dans le caniveau*](/tune-caniveau/), je dis que seul l’anarchisme peut succéder au capitalisme et au marxisme. À l’avenir, je leur opposerai plutôt l’organisme.
 
-Un exemple : [L’expérience inédite](http://blog.tcrouzet.com/tune-caniveau/experience-inedite/) elle-même. Comparons trois façons d’éditer un texte.
+Un exemple : [L’expérience inédite](/tune-caniveau/experience-inedite/) elle-même. Comparons trois façons d’éditer un texte.
 
 1. **Capitaliste.** Un auteur envoie son travail à un éditeur qui avance l’argent pour payer l’édition, la correction, la mise en page, l’impression et la diffusion. Il récupère éventuellement une plus-value, a priori proportionnelle à la prise de risque initiale. Nous sommes dans la logique que Marx résume par Valeur -&gt; Marchandise -&gt; Valeur.
 2. **Marxiste**. Un collectif se crée autour de membres qui avancent des fonds et qui ensuite fonctionnent comme un éditeur capitaliste (puisqu’ils s’appuient sur la même chaîne de production que lui). On reste dans la logique Valeur -&gt; Marchandise -&gt; Valeur. Sans capital initial, rien n’est possible.
-3. **Organiste**. Un collectif se crée et travaille pour réaliser chacune des étapes du processus éditorial sans jamais avancer le moindre capital. On passe dans la logique Marchandise (le livre) -&gt; Valeur -&gt; Marchandise (des carottes pour manger). C’est ce que nous avons fait avec [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/). Nous nous sommes lancés dans un développement organique, un peu comme une plante qui pousse vers le ciel. Nous utilisons nos outils de production individuels – nos outils d’artisans –, et les outils de production distribués entre une multitude d’acteurs, le réseau qui est d’une certaine façon dorénavant un bien commun.
+3. **Organiste**. Un collectif se crée et travaille pour réaliser chacune des étapes du processus éditorial sans jamais avancer le moindre capital. On passe dans la logique Marchandise (le livre) -&gt; Valeur -&gt; Marchandise (des carottes pour manger). C’est ce que nous avons fait avec [*La tune dans le caniveau*](/tune-caniveau/). Nous nous sommes lancés dans un développement organique, un peu comme une plante qui pousse vers le ciel. Nous utilisons nos outils de production individuels – nos outils d’artisans –, et les outils de production distribués entre une multitude d’acteurs, le réseau qui est d’une certaine façon dorénavant un bien commun.
 
 ### Socialisme
 
@@ -36,9 +36,9 @@ De quoi s’agit-il ? De protéger les plus faibles. De construire un État qui
 
 Avec le capitalisme, le socialisme ne peut qu’être centralisateur. Peu de gens détiennent le pouvoir. Avec le marxisme, il finit aussi rapidement par être centralisateur, du fait même de la localisation de l’outil de production, l’usine. Avec l’organisme, le socialisme doit lui-même se décentraliser, se distribuer entre tous les citoyens-artisans. C’est une nouvelle forme d’État qu’il faudra inventer.
 
-Je me dis que si j’écris une troisième version de [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/), j’introduirais une autoréférence dans le texte. Après avoir rejeté le capitalisme et le marxisme, Noam se lancera dans une [expérience inédite](http://blog.tcrouzet.com/tune-caniveau/experience-inedite/) et publiera *La tune dans le caniveau* pour démontrer la possibilité de l’organisme. Il proposera alors un système socialo-organiste.
+Je me dis que si j’écris une troisième version de [*La tune dans le caniveau*](/tune-caniveau/), j’introduirais une autoréférence dans le texte. Après avoir rejeté le capitalisme et le marxisme, Noam se lancera dans une [expérience inédite](/tune-caniveau/experience-inedite/) et publiera *La tune dans le caniveau* pour démontrer la possibilité de l’organisme. Il proposera alors un système socialo-organiste.
 
-*PS 1: Il nous reste 5 exemplaires papier de la V1 de [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/). Participez à cette expérience organiste en les achetant maintenant. On ne les réimprimera pas !*
+*PS 1: Il nous reste 5 exemplaires papier de la V1 de [*La tune dans le caniveau*](/tune-caniveau/). Participez à cette expérience organiste en les achetant maintenant. On ne les réimprimera pas !*
 
 *PS 2: C'est typiquement un papier dans la série atelier, work in progress. Je devine des choses à creuser.*
 

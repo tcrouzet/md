@@ -1,8 +1,8 @@
 # Sécu 2.0
 
-Je réponds ici aux réactions suscitées par mon [billet au sujet de la sécu](http://blog.tcrouzet.com/2006/02/08/la-fin-de-la-scu/). En écrivant : « Dans les villages d'avant l'époque de la sécu, je ne suis pas sûr que les gens mourraient dans l'indifférence. », je ne voulais surtout pas prôner un retour en arrière.
+Je réponds ici aux réactions suscitées par mon [billet au sujet de la sécu](/2006/02/08/la-fin-de-la-scu/). En écrivant : « Dans les villages d'avant l'époque de la sécu, je ne suis pas sûr que les gens mourraient dans l'indifférence. », je ne voulais surtout pas prôner un retour en arrière.
 
-Dans [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), vous verrez que je fais tout le contraire. Pour moi, nos sociétés doivent fonctionner comme une fusée à plusieurs étages, chaque étage permettant à la fusée d'aller plus haut.
+Dans [*Le peuple des connecteurs*](/le-peuple-des-connecteurs/), vous verrez que je fais tout le contraire. Pour moi, nos sociétés doivent fonctionner comme une fusée à plusieurs étages, chaque étage permettant à la fusée d'aller plus haut.
 
 Par exemple, la démocratie comme nous la connaissons a été un étage vers plus de liberté. Nous pouvons espérer maintenant l'avènement d'un nouvel étage vers plus de liberté encore. Idem pour la sécu. La sécu actuelle est nécessaire pour pouvoir envisager une nouvelle sécu.
 

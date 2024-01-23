@@ -1,6 +1,6 @@
 # Électrochoc politique
 
-[Le cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/) sera mis à l’épreuve durant les mois à venir. Nous allons découvrir s’il sait se tenir et éviter de sombrer dans le [dénigrement](http://blog.tcrouzet.com/2006/10/16/campagne-de-denigrement/). Nous allons aussi découvrir s’il a une petite influence en politique française. Pour cela, le plus simple serait qu’il réussisse à pousser son candidat1, un candidat qui saurait l’entendre, le comprendre et tenir compte de ses idées – et au-delà d’elles, pas toujours exprimées consciemment, de sa logique de fonctionnement : le réseau.
+[Le cinquième pouvoir](/le-cinquieme-pouvoir/) sera mis à l’épreuve durant les mois à venir. Nous allons découvrir s’il sait se tenir et éviter de sombrer dans le [dénigrement](/2006/10/16/campagne-de-denigrement/). Nous allons aussi découvrir s’il a une petite influence en politique française. Pour cela, le plus simple serait qu’il réussisse à pousser son candidat1, un candidat qui saurait l’entendre, le comprendre et tenir compte de ses idées – et au-delà d’elles, pas toujours exprimées consciemment, de sa logique de fonctionnement : le réseau.
 
 L’UMP et le PS essaieront de séduire le cinquième pouvoir mais ils n’iront pas jusqu’à lui donner la main, car ils veulent garder le contrôle, un peu comme avec Nicolas Hulot (ils prennent ses idées et le remercient).
 
@@ -32,7 +32,7 @@ François Bayrou est-il assez fou pour se lancer dans un tel projet qui soulève
 
 Mais pas tout à fait : pendant que la campagne rabâchera de vieilles idées éculées, le cinquième pouvoir continuera son travail de fond, la construction d’un nouveau monde. Mes quatre actes ont pour ambition de nous approcher plus vite de ce monde qui adviendra quoi qu’il arrive. La France aurait beaucoup à gagner en y affirmant sa position en premier, renouant avec son esprit révolutionnaire.
 
-1 Pousser un candidat est en soi antinomique avec l’idée d’un cinquième pouvoir forcément pluriel. Mais, à l’approche des élections, on peut jouer le jeu ce qui n’empêche pas de travailler à un [projet de fond](http://blog.tcrouzet.com/2006/11/22/cyber-citoyen-au-positif/), d’une portée historique bien plus significative. Pour moi, l'intérêt d'une élection est seulement de provoquer le débat, il faut profiter de l'occasion. Si personne ne défend les idées nouvelles, ce sera tout simplement déprimant.
+1 Pousser un candidat est en soi antinomique avec l’idée d’un cinquième pouvoir forcément pluriel. Mais, à l’approche des élections, on peut jouer le jeu ce qui n’empêche pas de travailler à un [projet de fond](/2006/11/22/cyber-citoyen-au-positif/), d’une portée historique bien plus significative. Pour moi, l'intérêt d'une élection est seulement de provoquer le débat, il faut profiter de l'occasion. Si personne ne défend les idées nouvelles, ce sera tout simplement déprimant.
 
 2 Je prends le risque de me couper des financements traditionnels des partis, démontrant en même temps ce que le système a de pervers. Je prends le risque de gagner pour changer les choses.
 

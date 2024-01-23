@@ -1,6 +1,6 @@
 # Vive Gorbatchev
 
-En parlant de [Rachid Nekkaz](http://blog.tcrouzet.com/peuple/rachid-nekkaz-mec-bien-35771), je me suis dit que nous avions besoin, en France, et partout dans le monde, d'un nouveau Gorbatchev. Qu'a-t-il fait en URSS ? Il a commencé par lever la censure, par laisser les idées circuler, pour qu'il devienne évident que le système ne pouvait plus se perpétuer.
+En parlant de [Rachid Nekkaz](/peuple/rachid-nekkaz-mec-bien-35771), je me suis dit que nous avions besoin, en France, et partout dans le monde, d'un nouveau Gorbatchev. Qu'a-t-il fait en URSS ? Il a commencé par lever la censure, par laisser les idées circuler, pour qu'il devienne évident que le système ne pouvait plus se perpétuer.
 
 Internet réussit de même une perestroïka de l'information. Alors que les médias traditionnels, trop accrochés à leur status, ne font que soutenir le système démocratique représentatif, présenté comme un dogme inaltérable, nous voyons peu à peu d'autres voix s'élever dans les blogs.
 

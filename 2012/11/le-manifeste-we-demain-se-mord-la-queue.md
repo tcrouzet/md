@@ -1,6 +1,6 @@
 # Le manifeste We Demain se mord la queue
 
-La revue [*We Demain*](http://www.wedemain.fr/) propose de signer [un manifeste pour demain](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/11/manifestewedemain.png). Est-ce que je le signerai ?
+La revue [*We Demain*](http://www.wedemain.fr/) propose de signer [un manifeste pour demain](https://tcrouzet.com/images_tc/2012/11/manifestewedemain.png). Est-ce que je le signerai ?
 
 Pourquoi pas, je finis par le lire. Je suis d’accord avec tous les « Oui », sauf avec le troisième.
 
@@ -12,7 +12,7 @@ Autre petit point de désaccord. La troisième révolution industrielle ne se li
 
 Encore un petit effort. Vous avez digéré une partie des idées pour aller vers demain, ils vous restent à intégrer les plus décisives. Revenu de base. Désindustrialisation et migration vers l’artisanat high-tech. Auto-organisation. Je suis sûr que vous n’êtes pas contre. Alors réécrivez votre manifeste et je le signerai.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/11/manifestewedemain.png)
+![](https://tcrouzet.com/images_tc/2012/11/manifestewedemain.png)
 
 
 

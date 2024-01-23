@@ -2,7 +2,7 @@
 
 J’ai assisté ce weekend à l’université d’été du Modem. Lors d’une [mini interview avec Nicolas Voisin](http://www.nuesblog.com/?729/Modem-et-Internet-Qu-en-pense-le-papa-du-5o-pouvoir), j’ai résumé ce que j’en pensais. Je voudrais m’expliquer plus longuement, replacer mes propos dans le contexte et justifier leur radicalité.
 
-![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070917pacco.gif)
+![Pacco](https://tcrouzet.com/images_tc/20070917pacco.gif)
 
 Je suis arrivé vendredi au VVF de Seignosse juste à temps pour le premier meeting de Bayrou, pas prévu au programme et qui a commencé en retard. Par moment, des vagues d’applaudissements montaient de la salle. « Bayrou, Bayrou… » J’ai vite eu l’impression de me trouver dans une église où les ouailles attendaient dieu le père en personne. Ça commençait mal. La suite n’a pas cessé de me décevoir.
 

@@ -1,6 +1,6 @@
 # Rêver de routes plus sécurisées
 
-Voici un extrait du peuple des connecteurs V2 pour éclairer la partie technique, seulement technique, du [fil précédent](http://blog.tcrouzet.com/2008/06/21/les-petites-frappes-du-web/). Et aussi pour dire ce que je pense, pas ce qu'on veut me faire penser.
+Voici un extrait du peuple des connecteurs V2 pour éclairer la partie technique, seulement technique, du [fil précédent](/2008/06/21/les-petites-frappes-du-web/). Et aussi pour dire ce que je pense, pas ce qu'on veut me faire penser.
 
 J’ai habité quelques années à Londres, et les week-ends d’été j’explorais le Dorset, le Devon, le Wiltshire ou la vallée de la Tamise. Je roulais au hasard sur les petites routes qui montent et descendent autour des vallons parsemés de cottages. Les jardins débordaient de coquelicots, de genêts et de jasmins. Des lierres s’agrippaient aux vieux murets qui se perdaient dans les prairies éblouissantes. J’ai depuis gardé cette habitude d’errer dans la campagne anglaise.
 
@@ -28,7 +28,7 @@ Après m’avoir patiemment écouté discuter de ces idées, une amie me dit que
 
 \— Ça ne peut pas marcher en Inde où le trafic est abominable.
 
-J’ai découvert plus tard grâce à un lecteur de mon blog une [vidéo extraordinaire](http://blog.tcrouzet.com/2006/06/12/trafic-routier-lindienne/). Elle montre pendant quelques minutes un carrefour routier dans une ville indienne. Deux voies parallèles convergent et divergent sans la moindre signalisation. Des voitures passent à toute vitesse sans ralentir. Des camions font demi-tour. Des cyclistes hésitent. Pendant un moment, un vélomoteur restent coincé au centre de l’intersection avant de trouver un chemin. C’est tout simplement ahurissant. Le débit est énorme, bien supérieur à celui qu’aurait fourni un système de signalisation automatique.
+J’ai découvert plus tard grâce à un lecteur de mon blog une [vidéo extraordinaire](/2006/06/12/trafic-routier-lindienne/). Elle montre pendant quelques minutes un carrefour routier dans une ville indienne. Deux voies parallèles convergent et divergent sans la moindre signalisation. Des voitures passent à toute vitesse sans ralentir. Des camions font demi-tour. Des cyclistes hésitent. Pendant un moment, un vélomoteur restent coincé au centre de l’intersection avant de trouver un chemin. C’est tout simplement ahurissant. Le débit est énorme, bien supérieur à celui qu’aurait fourni un système de signalisation automatique.
 
 \— Combien de gens meurent chaque année à cet endroit ?
 
@@ -38,7 +38,7 @@ Pendant ces recherches, je suis tombé sur un autre chiffre effrayant : la rout
 
 Sur la vidéo indienne, les automobilistes prennent des risques insensés, sans parler des cyclistes. La technologie nous aidera à réduire ces risques tout en maintenant un trafic rapide. Elle améliorera nos sens et nos réflexes, ce qui est indispensable pour une auto-organisation harmonieuse.
 
-L’auto-organisation n’est pas l’anarchie. Elle s’organise, elle se met en place, on doit ajuster les règles fécondes. Il ne suffit pas de virer de but en blanc les feux pour améliorer la circulation. [Comme le montre Ben Hamilton-Baillie, il faut réaménager l’espace de la chaussée, souvent en effaçant les limites entre pétions et automobilistes.](http://blog.tcrouzet.com/2007/12/04/un-croisement-ideal/) Et ce n’est jamais simple, les aveugles se retrouvent embarrassés si les repères disparaissent. Tout reste à inventer mais nous avons des pistes. L’auto-organisation n’est pas la panacée. Elle permet simplement d’aller un peu plus loin que les méthodes contraignantes que nous vivons.
+L’auto-organisation n’est pas l’anarchie. Elle s’organise, elle se met en place, on doit ajuster les règles fécondes. Il ne suffit pas de virer de but en blanc les feux pour améliorer la circulation. [Comme le montre Ben Hamilton-Baillie, il faut réaménager l’espace de la chaussée, souvent en effaçant les limites entre pétions et automobilistes.](/2007/12/04/un-croisement-ideal/) Et ce n’est jamais simple, les aveugles se retrouvent embarrassés si les repères disparaissent. Tout reste à inventer mais nous avons des pistes. L’auto-organisation n’est pas la panacée. Elle permet simplement d’aller un peu plus loin que les méthodes contraignantes que nous vivons.
 
 ### Les lois de la liberté
 

@@ -18,6 +18,6 @@ L’ouverture qui caractérise leur naissance, ouverture sur les frontières de 
 
 L’ouverture est un bien à préserver. Quand un ennemi se présente, il ne faut pas se cacher derrière des frontières de plus en plus hautes. Au contraire, il faut le regarder en face et l’affronter dans un esprit d’ouverture.
 
-*PS : Parmi la montagne de textes écrits pour composer mon* [Ératosthène](http://blog.tcrouzet.com/eratosthene/), *en voici un qui me semble de circonstance.*
+*PS : Parmi la montagne de textes écrits pour composer mon* [Ératosthène](/eratosthene/), *en voici un qui me semble de circonstance.*
 
 Tags: NetCulture, Politique, une

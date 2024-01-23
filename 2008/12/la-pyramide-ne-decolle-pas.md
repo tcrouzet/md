@@ -12,7 +12,7 @@ Pour moi, tant qu’il existe un pourcentage non négligeable de l’humanité q
 
 En 1981, nous étions [4,5 milliards](http://fr.wikipedia.org/wiki/Population_mondiale) dont 2,5 milliards avec moins de 2$/jour (55 %). En 2005, nous étions 6,5 milliards avec le même nombre de pauvres (38 %). Si le pourcentage baisse, le nombre de pauvres reste constant, ce qui pour moi signifie **symboliquement** que la base de la pyramide reste la même. Un pauvre de 1981 et un pauvre de 2005 mènent une vie tout aussi difficile.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/12/pauvresbig.png)
+![](https://tcrouzet.com/images_tc/2008/12/pauvresbig.png)
 
 Sur ce schéma qui a pour but d’illustrer la métaphore (nous sommes dans le littéraire et pas dans le scientifique), les surfaces des pyramides sont proportionnelles à la population. Les bases constantes reflètent la quasi stabilité du nombre de gens sous 2$/jour. Quand j’étire la pyramide de 1981 pour obtenir celle de 2005 (étirement qui illustre aussi l'écart grandissant entre les plus faibles revenus et les plus importants), je constate que certains pauvres entrent dans le monde des riches. L’ascenseur social fonctionne. Les libéraux semblent se satisfaire de ce phénomène (logique ils se situent déjà parmi les riches).
 

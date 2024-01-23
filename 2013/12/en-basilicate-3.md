@@ -6,13 +6,13 @@ Des réflexions sur l'écriture qui au mieux intéressent les lecteurs de mon bl
 
 Tout ça pour justifier pourquoi je ne blogue pas au jour le jour mon voyage. Il me faudrait choisir ce que je garde avant d'avoir une idée de l'ensemble. Je ne sais même pas la place que j'occuperai dans ce récit. Juste un voyeur ou un impuissant qui se prend la tête ? Je l'ignore encore, j'écris toutes les lignes en même temps, animé par l'énergie de la vieille terre.
 
-![Pisticci, église et chateau](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/12/pisticci.jpg)
+![Pisticci, église et chateau](https://tcrouzet.com/images_tc/2013/12/pisticci.jpg)
 
-![Pisticci, toute l'Italie du sud](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/12/pisticci1.jpg)
+![Pisticci, toute l'Italie du sud](https://tcrouzet.com/images_tc/2013/12/pisticci1.jpg)
 
-![Pisticci, perspective fole](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/12/pisticci2.jpg)
+![Pisticci, perspective fole](https://tcrouzet.com/images_tc/2013/12/pisticci2.jpg)
 
-![Pisticci, Que bella](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/12/pisticci3.jpg)
+![Pisticci, Que bella](https://tcrouzet.com/images_tc/2013/12/pisticci3.jpg)
 
 
 

@@ -1,6 +1,6 @@
 # Pour une nouvelle constitution
 
-Comme je l’ai écrit au sujet [du projet d’Étienne Chouard](http://blog.tcrouzet.com/2006/07/07/la-constitution-d%e2%80%99etienne-chouard/), réfléchir à une nouvelle constitution est fondamental. Nous vivons dans une société qui évolue, la constitution doit elle aussi évoluer.
+Comme je l’ai écrit au sujet [du projet d’Étienne Chouard](/2006/07/07/la-constitution-d%e2%80%99etienne-chouard/), réfléchir à une nouvelle constitution est fondamental. Nous vivons dans une société qui évolue, la constitution doit elle aussi évoluer.
 
 N’étant ni juriste, ni constitutionaliste, ma réflexion porte essentiellement sur la nature de la constitution. À mon sens, elle doit répondre à quelques grands principes, sorte de constitution de la constitution ou de métaconstitution.
 
@@ -14,13 +14,13 @@ N’étant ni juriste, ni constitutionaliste, ma réflexion porte essentiellemen
 
 5/ La volonté de séparer les pouvoirs implique donc, de façon presque inévitable, l’introduction de la participation dans la démocratie. La démocratie participative est-elle possible ? Ce n’est pas parce qu’elle n’a jamais existé qu’elle ne peut pas exister. Mais si elle était impossible, la séparation des pouvoirs le serait aussi, la vraie démocratie serait et resterait une illusion.
 
-6/ Une fois la constitution écrite sur un mode participatif de bas en haut elle s’imposera à tous par le haut (boucle de feedback en langage cybernétique). Mais elle doit maintenir en vie le bottom-up qui lui a donné naissance (ne pas couper la boucle). La nouvelle constitution doit être dynamique, en perpétuelle évolution. Elle sera par nature écrite pour être réécrite. Elle doit résulter d’un [crowdsourcing](http://blog.tcrouzet.com/2006/07/03/cerveaux-humains-disponibles/) perpétuel.
+6/ Une fois la constitution écrite sur un mode participatif de bas en haut elle s’imposera à tous par le haut (boucle de feedback en langage cybernétique). Mais elle doit maintenir en vie le bottom-up qui lui a donné naissance (ne pas couper la boucle). La nouvelle constitution doit être dynamique, en perpétuelle évolution. Elle sera par nature écrite pour être réécrite. Elle doit résulter d’un [crowdsourcing](/2006/07/03/cerveaux-humains-disponibles/) perpétuel.
 
-7/ L’avenir d’une société régie par une constitution même simpliste est inimaginable, c’est une raison de plus pour que cette constitution ne soit pas figée et puisse se corriger. [L’impossibilité de prévoir](http://blog.tcrouzet.com/2006/07/17/l%e2%80%99irresponsabilite-des-politiques/) doit sans doute, elle aussi, être inscrite dans la constitution. Elle implique une méfiance vis-à-vis des mesures globales aux conséquences incertaines, donc potentiellement dangereuses pour tous.
+7/ L’avenir d’une société régie par une constitution même simpliste est inimaginable, c’est une raison de plus pour que cette constitution ne soit pas figée et puisse se corriger. [L’impossibilité de prévoir](/2006/07/17/l%e2%80%99irresponsabilite-des-politiques/) doit sans doute, elle aussi, être inscrite dans la constitution. Elle implique une méfiance vis-à-vis des mesures globales aux conséquences incertaines, donc potentiellement dangereuses pour tous.
 
 8/ SOit la société est participative, soit elle ne l'est pas. Le compromis est impossible. Donner le droit à un peu de participation, c’est ouvrir la porte à plus de participation. Le droit de vote fut le premier pas irréversible. Aujourd’hui, internet nous donne goût à plus de participation.
 
-9/ Je crois que le pouvoir exécutif peut lui aussi se passer de représentation. Les peuples premiers fonctionnaient sans représentation. Certes, ils vivaient en petite communauté mais la technologie peut nous aider à étendre le système participatif à l’humanité. Je le dis souvent, je considère internet comme un début de démocratie participative qui repose sur l’auto-organisation. Et c’est possible parce qu’internet n’est pas qu’un média mais, avant tout, un [territoire](http://blog.tcrouzet.com/2006/07/12/internet-comme-territoire/).
+9/ Je crois que le pouvoir exécutif peut lui aussi se passer de représentation. Les peuples premiers fonctionnaient sans représentation. Certes, ils vivaient en petite communauté mais la technologie peut nous aider à étendre le système participatif à l’humanité. Je le dis souvent, je considère internet comme un début de démocratie participative qui repose sur l’auto-organisation. Et c’est possible parce qu’internet n’est pas qu’un média mais, avant tout, un [territoire](/2006/07/12/internet-comme-territoire/).
 
 10/ La possibilité de la démocratie participative rend moins fondamental la nécessité d’une constitution qui nous protégerait des abus de pouvoir puisque le pouvoir serait aux mains de tous.
 
@@ -30,7 +30,7 @@ N’étant ni juriste, ni constitutionaliste, ma réflexion porte essentiellemen
 
 C’est à nous, sur internet, d’imaginer un autre monde, de montrer que nous pouvons y vivre heureux. Nos voix finiront par être entendues. Chacune est une graine qui ne demande qu’à pousser. La plus grande difficulté pour ces graines sera de survivre car sur internet, comme dans le reste de la société, le « non » domine.
 
-Étienne illustre parfaitement ce phénomène. Il s’est battu avec plus de facilité contre le TCE que pour défendre sa nouvelle constitution. Nous parlons douze fois plus de ce que nous n’aimons pas que de ce que nous aimons. Sur les blogs, surtout sur Agoravox, cette loi est respectée. La plupart des commentaires sont négatifs. Pourtant, si nous voulons que le monde change en réponse aux problèmes majeurs auquel il fait face, nous devons apprendre à aller de l’avant en jouant [gagnant-gagnant](http://blog.tcrouzet.com/2006/05/12/win-win/).
+Étienne illustre parfaitement ce phénomène. Il s’est battu avec plus de facilité contre le TCE que pour défendre sa nouvelle constitution. Nous parlons douze fois plus de ce que nous n’aimons pas que de ce que nous aimons. Sur les blogs, surtout sur Agoravox, cette loi est respectée. La plupart des commentaires sont négatifs. Pourtant, si nous voulons que le monde change en réponse aux problèmes majeurs auquel il fait face, nous devons apprendre à aller de l’avant en jouant [gagnant-gagnant](/2006/05/12/win-win/).
 
 *PS : Le web est dominé par la critique. Cette négativité du web, et de la société en général, me chagrine et affecte parfois mon optimisme. Mais peut-être attendons-nous trop de la participation ? Ce qui compte c’est que les quelques personnes vraiment passionnées par un sujet collaborent, ça suffit sans doute, surtout si le débat reste ouverts et si ces personnes sont par ailleurs connectées à des centaines d’autres dont elles sont, en quelque sorte, les représentantes.* 
 

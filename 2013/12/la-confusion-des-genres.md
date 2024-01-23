@@ -1,6 +1,6 @@
 # La confusion des genres
 
-Alors que je théorise à travers le *[Send](http://blog.tcrouzet.com/tag/send/)* l'écriture web, cette écriture d'aujourd'hui qui imprègne tout ce que je touche, un jeune éditeur qui vient de lire *[L'homme qui lave les mains](http://blog.tcrouzet.com/homme-qui-lave-les-mains/)* me laisse un message sur mon répondeur :
+Alors que je théorise à travers le *[Send](/tag/send/)* l'écriture web, cette écriture d'aujourd'hui qui imprègne tout ce que je touche, un jeune éditeur qui vient de lire *[L'homme qui lave les mains](/homme-qui-lave-les-mains/)* me laisse un message sur mon répondeur :
 
 > Thierry, je ne peux pas prendre ton texte, c'est à la fois un roman et un essai, une biographie et une hagiographie, c'est scientifique et politique, objectif et militant. Je ne saurais pas qu'en faire.
 

@@ -1,6 +1,6 @@
 # L’iPad révolutionnera-t-il l’édition ?
 
-Comme je travaille sur la mise en forme ePub de [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) et de [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/), sortie pour ce dernier le 1<sup>er</sup> mai chez [publie.net](http://publie.net), j’ai voulu voir ce que ces deux textes donneraient sur le tant vanté iPad. Vendredi dernier, [Thierry Charles](https://www.axalot.fr/), spécialiste du développement Apple, m’a fait une démo.
+Comme je travaille sur la mise en forme ePub de [*La quatrième théorie*](/la-quatrieme-theorie/) et de [*J’ai eu l’idée*](/id/), sortie pour ce dernier le 1<sup>er</sup> mai chez [publie.net](http://publie.net), j’ai voulu voir ce que ces deux textes donneraient sur le tant vanté iPad. Vendredi dernier, [Thierry Charles](https://www.axalot.fr/), spécialiste du développement Apple, m’a fait une démo.
 
 J’avoue, j’ai été bluffé par la sensibilité de l’écran tactile. J’avais l’impression de toucher les images, d’entrer dans leur texture… même les utilisateurs d’iPhone ne peuvent pas imaginer. L’expérience est sensuelle… Elle fera taire tous ceux qui évoquent le touché du papier pour sauver le livre traditionnel. Caressez un iPad et vous ne douterez plus que le temps du livre touche à sa fin.
 

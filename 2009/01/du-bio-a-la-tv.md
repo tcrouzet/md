@@ -1,6 +1,6 @@
 # Du bio à la TV
 
-Je prolonge une seconde fois [vos échanges](http://blog.tcrouzet.com/2009/01/06/militer-pour-la-longue-traine/#comments) qui me font penser à une remarque que vient de me faire mon éditeur en lisant mon dernier manuscrit.
+Je prolonge une seconde fois [vos échanges](/2009/01/06/militer-pour-la-longue-traine/#comments) qui me font penser à une remarque que vient de me faire mon éditeur en lisant mon dernier manuscrit.
 
 > Tu penses trop.
 

@@ -32,7 +32,7 @@ De son côté, Ségo après des mois de débats participatifs a accouché du mê
 
 Donc, peu à peu, l’idée qu’il serait temps d’essayer autre chose a germé dans l’esprit des Français et François Bayrou est venu naturellement incarner le renouveau enfin possible. En prônant l’union nationale, il veut réconcilier les deux France, celle de gauche et celle de droite.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200702blogpulse.gif)
+![](https://tcrouzet.com/images_tc/200702blogpulse.gif)
 
 Cette idée il ne l’a pas imposée, il l'a juste semée. Le cinquième pouvoir s’en est emparé, il l’a diffusée lentement. Aujourd’hui, elle remonte par percolation comme l’eau dans une cafetière, elle finit par atteindre la surface, et les Ségo-Sarko comme les médias ne peuvent plus l’ignorer. Alors ils la répètent, la consolident. Mais elle n’est pas née grâce à eux, elle n’a pas été calculée par eux mais par le cinquième pouvoir lui-même.
 
@@ -40,6 +40,6 @@ Chacun de nous a ainsi un pouvoir immense : celui d’influencer ses amis… am
 
 Je crois que nous sommes en train d’assister à ce processus en France. Je crois que Bayrou, presque malgré lui, se retrouve peu à peu porté par une force née en profondeur, dans les nappes phréatiques les plus viscérales de la société.
 
-Cette force est en train d’atteindre sa maturité. À François Bayrou de l’irriguer maintenant et de ne pas en [décevoir les attentes](http://blog.tcrouzet.com/2007/02/18/je-vote-bayrou-au-second-tour/) comme vient de le faire [Ségolène Royal avec la génération participation](http://blog.tcrouzet.com/2007/02/12/segolene-l%e2%80%99impossible-synthese/). Il y a du travail, un immense travail, à commencer par celui de proposer un vrai programme alternatif que nous attendons encore. Pour le moment, une dynamique positive est à l'œuvre. Il serait bête de ne pas le reconnaître, bête pour François Bayrou de ne pas voir le tas d'or sur lequel il est assis.
+Cette force est en train d’atteindre sa maturité. À François Bayrou de l’irriguer maintenant et de ne pas en [décevoir les attentes](/2007/02/18/je-vote-bayrou-au-second-tour/) comme vient de le faire [Ségolène Royal avec la génération participation](/2007/02/12/segolene-l%e2%80%99impossible-synthese/). Il y a du travail, un immense travail, à commencer par celui de proposer un vrai programme alternatif que nous attendons encore. Pour le moment, une dynamique positive est à l'œuvre. Il serait bête de ne pas le reconnaître, bête pour François Bayrou de ne pas voir le tas d'or sur lequel il est assis.
 
 Tags: Politique

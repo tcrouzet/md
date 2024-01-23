@@ -1,6 +1,6 @@
 # 12 slogans pour Ératosthène
 
-C’est parti. Mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/) est disponible dans toutes les librairies à partir de maintenant. Un roman polyphonique ne peut avoir qu’un slogan, à vous de choisir celui qui vous donnera envie de [craquer quelques euros](http://blog.tcrouzet.com/eratosthene/?lib=1).
+C’est parti. Mon [*Ératosthène*](/eratosthene/) est disponible dans toutes les librairies à partir de maintenant. Un roman polyphonique ne peut avoir qu’un slogan, à vous de choisir celui qui vous donnera envie de [craquer quelques euros](/eratosthene/?lib=1).
 
 1. Un *Game of Thrones* antique, avec guerres et trahisons, sexe et passion, où philosophie et science remplacent la magie.
 
@@ -34,7 +34,7 @@ Plus…
 
 3. À la recherche du moderne derrière l'antique.
 
-![Nuage par Bernard Strainchamps pour Feedbooks.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/feedbooks-600x696.png)
+![Nuage par Bernard Strainchamps pour Feedbooks.](https://tcrouzet.com/images_tc/2014/08/feedbooks-600x696.png)
 
 
 

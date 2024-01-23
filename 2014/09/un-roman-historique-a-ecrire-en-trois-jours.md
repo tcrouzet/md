@@ -1,6 +1,6 @@
 # Un roman historique à écrire en trois jours
 
-C’est un nouveau défi pour me changer les idées après un [*Ératosthène* écrit en 14 ans](http://blog.tcrouzet.com/eratosthene/). Le sujet, un illustre inconnu : Nicolas Dortoman. Explications nécessaires.
+C’est un nouveau défi pour me changer les idées après un [*Ératosthène* écrit en 14 ans](/eratosthene/). Le sujet, un illustre inconnu : Nicolas Dortoman. Explications nécessaires.
 
 Je suis né dans un vieux pays, la presqu’île de Balaruc, peuplée dès la préhistoire, colonisée successivement par les Phéniciens, les Carthaginois et les Romains qui y ont construit des thermes, bientôt abandonnés après les invasions barbares, puis peu à peu redécouverts et célébrés pour la qualité de leurs eaux, notamment par Rabelais qui dans [le livre XXXIII de *Pantagruel*](http://fr.wikisource.org/wiki/Pantagruel/%C3%89dition_Marty-Laveaux,_1868/Chapitre_33) écrit en 1532 :
 
@@ -18,13 +18,13 @@ Guillaume de Chaume l’accueille. Depuis l’oppidum de Poussan, ce seigneur, a
 
 Manque de la chair et une histoire pour animer tout ce monde dans un lieu que je connais jusqu’au cœur. Une simple description ne lui ferait pas honneur.
 
-Comment mener à bien un tel travail ? Je reprends la méthode mise au point avec [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/), reprise pour [*Le Geste qui sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/). Je commence par construire un tableau chronologique sous Excel, avec en regard des différentes dates les âges des personnages. J’ai ainsi immédiatement repéré une incohérence concernant la date du mariage de Dortoman avec Jacquette de Flotte. Je compléterai ce tableau de tous les événements potentiellement intéressants survenus durant la vie de Dortoman, et plus particulièrement sur la période où il écrit son traité.
+Comment mener à bien un tel travail ? Je reprends la méthode mise au point avec [*Ératosthène*](/eratosthene/), reprise pour [*Le Geste qui sauve*](/le-geste-qui-sauve/). Je commence par construire un tableau chronologique sous Excel, avec en regard des différentes dates les âges des personnages. J’ai ainsi immédiatement repéré une incohérence concernant la date du mariage de Dortoman avec Jacquette de Flotte. Je compléterai ce tableau de tous les événements potentiellement intéressants survenus durant la vie de Dortoman, et plus particulièrement sur la période où il écrit son traité.
 
-Avec [Scrivener](http://blog.tcrouzet.com/2013/05/25/scrivener-le-traitement-de-texte-des-auteurs/), je construirai des dossiers sur les personnages et les lieux. Je collerai des pages web, insérerai des PDF, des illustrations. Ce sera mon bloc-notes géant. Je ne sais pas si je l’utiliserai comme machine à écrire ou si je resterai attaché à mon désormais fidèle [Ulysses III](http://www.ulyssesapp.com/).
+Avec [Scrivener](/2013/05/25/scrivener-le-traitement-de-texte-des-auteurs/), je construirai des dossiers sur les personnages et les lieux. Je collerai des pages web, insérerai des PDF, des illustrations. Ce sera mon bloc-notes géant. Je ne sais pas si je l’utiliserai comme machine à écrire ou si je resterai attaché à mon désormais fidèle [Ulysses III](http://www.ulyssesapp.com/).
 
 La suite dans quelques jours… avec toujours la peur que ce qui devait être bref ne m'entraîne pour des années.
 
-![Nicolas Dortoman](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/dortoman-600x841.jpg)
+![Nicolas Dortoman](https://tcrouzet.com/images_tc/2014/09/dortoman-600x841.jpg)
 
 
 

@@ -8,7 +8,7 @@ C’est un raccourci d’une pensée bien plus complexe. Je sais. Mais dès que 
 
 J’aime Wittgenstein parce qu’il a produit deux philosophies presque antagonistes. J’aime Picasso parce qu’il s’est réinventé tous les dix ans. Mais je ne critique pas nos idées d’hier par principe, je les critique parce qu’il faudrait être aveugle pour ne pas voir ce qui se passe sous nos yeux.
 
-Le capitalisme n’a jamais été aussi flamboyant. Les riches n’ont jamais été aussi riches. Et pourquoi ? Parce que, grâce au Net, [ils pillent les biens communs](http://blog.tcrouzet.com/2014/01/23/le-grand-siphonnage-des-biens-communs/). Ils mettent à leur service la peer production sans la rémunérer (avec ce beau concept de la plate-forme). Le travail en réseau existe, mais c’est un travail d’esclave. Nous n’assistons pas à la fin du capitalisme, plutôt à son durcissement ultime grâce à la puissance des machines ([qui marchent à sens unique](http://blog.tcrouzet.com/2014/04/14/le-commonisme-implique-un-double-flux/)).
+Le capitalisme n’a jamais été aussi flamboyant. Les riches n’ont jamais été aussi riches. Et pourquoi ? Parce que, grâce au Net, [ils pillent les biens communs](/2014/01/23/le-grand-siphonnage-des-biens-communs/). Ils mettent à leur service la peer production sans la rémunérer (avec ce beau concept de la plate-forme). Le travail en réseau existe, mais c’est un travail d’esclave. Nous n’assistons pas à la fin du capitalisme, plutôt à son durcissement ultime grâce à la puissance des machines ([qui marchent à sens unique](/2014/04/14/le-commonisme-implique-un-double-flux/)).
 
 [Comme l’explique Jaron Lanier](http://clesnes.blog.lemonde.fr/2013/10/22/jaron-lanier-linternet-ruine-la-classe-moyenne/), plus tu as un gros ordinateur, plus tu es puissant dans le monde numérique. La neutralité du Net, c’est une foutaise (et voilà pourquoi je ne me suis jamais engagé sur ce terrain). Le Net n’est pas qu’une histoire de taille du tuyau, c’est avant tout une puissance de calcul en amont. Entre deux artisans, celui qui a la plus grosse l’emporte. La peer production ne peut pas être équitable, sinon entre les membres de la classe moyenne. Les capitalistes ont toujours un avantage gigantesque et ils ne cessent de l’accroître. Google n’a pas un gros ordinateur, il a des dizaines de data centers.
 
@@ -18,7 +18,7 @@ Non, la technologie bâtit le monde de demain, mais pas la politique de demain. 
 
 Et je me demande si Rifkin n’est pas complice de ce tour de passe-passe, complice des nouveaux dictateurs. Un indice, il s’habille comme un banquier. C’est un argument irrecevable, mais…
 
-![Jeremy Rifkin, allier conscient ou non des capitalistes ?](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/04/rifkin.jpg)
+![Jeremy Rifkin, allier conscient ou non des capitalistes ?](https://tcrouzet.com/images_tc/2014/04/rifkin.jpg)
 
 Jeremy Rifkin, allié conscient ou non des capitalistes ?
 

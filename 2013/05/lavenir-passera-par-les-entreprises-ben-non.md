@@ -14,7 +14,7 @@ Ces mêmes entreprises fabriquent néanmoins des technologies qui nous permetten
 
 Nous devons nous préparer à ce monde, pas au monde des conglomérats, avatars de la transition, monstres d’égoïsme, assoiffés de leur toute-puissance. Et c’est un autre des défauts des entreprises.
 
-Un exemple. Quand [Didier Pittet](http://blog.tcrouzet.com/tag/lhomme-qui-lave-les-mains/) invente le gel antibactérien et le protocole d’usage associé, il peut très bien décider de créer une entreprise, avec pour un slogan du genre « Nous sauverons votre vie. » Les milliards auraient afflué, car le produit est efficace, peu cher et néanmoins vite indispensable au regard de ses bénéfices. Didier serait devenu riche, puissant, vénéré par ses innombrables employés (et je ne l'aurais pas rencontré).
+Un exemple. Quand [Didier Pittet](/tag/lhomme-qui-lave-les-mains/) invente le gel antibactérien et le protocole d’usage associé, il peut très bien décider de créer une entreprise, avec pour un slogan du genre « Nous sauverons votre vie. » Les milliards auraient afflué, car le produit est efficace, peu cher et néanmoins vite indispensable au regard de ses bénéfices. Didier serait devenu riche, puissant, vénéré par ses innombrables employés (et je ne l'aurais pas rencontré).
 
 Mais Didier n’a pas choisi la piste de l’entreprise. Il s’est placé dans la société de demain. Plutôt que de concentrer pouvoirs et richesses, il a offert sa formule, il a proposé à qui le veut de l’utiliser. Le moindre pharmacien, le moindre chimiste amateur, peut désormais fabriquer le gel antibactérien. Au lieu d’un nouveau conglomérat pharmaceutique, nous avons désormais une multitude d’acteurs, petits ou grands, qui produisent le gel. Et nous pourrions le faire nous-mêmes si cela devenait nécessaire.
 

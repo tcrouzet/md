@@ -6,7 +6,7 @@ Avant même de commencer l’article, j’ai éclaté de rire. La question n’a
 
 Pour moi, les idées de gauche aujourd’hui sont des idées conservatrices. Or, en France, nous avons déjà un champion du conservatisme, Sarkozy. Alors à quoi bon d’un second conservatisme, moins efficace en plus, car moins ciblée sur la population vieillissante. Nous en avons même un troisième avec le Modem.
 
-Changer la gauche serait changer ses idées fondatrices, tout au moins réviser totalement la manière d’atteindre les buts humanistes que la gauche s’est fixée au fil du XX<sup>e</sup> siècle. Cette révision ne peut plus s’appeler gauche. Si cette mouvance veut redevenir une force de progrès, elle doit [faire pivoter la politique sur son axe](http://blog.tcrouzet.com/2006/11/06/troisieme-voie-en-image/)… et en conséquence se dénommer autrement.
+Changer la gauche serait changer ses idées fondatrices, tout au moins réviser totalement la manière d’atteindre les buts humanistes que la gauche s’est fixée au fil du XX<sup>e</sup> siècle. Cette révision ne peut plus s’appeler gauche. Si cette mouvance veut redevenir une force de progrès, elle doit [faire pivoter la politique sur son axe](/2006/11/06/troisieme-voie-en-image/)… et en conséquence se dénommer autrement.
 
 D’ailleurs, les fameuses idées neuves de la gauche ne sont pas spécialement des idées de gauche. Dans l’article du *Monde*, Philippe Aghion suggère la décentralisation pour facilité les expériences, donc maximiser les chances de trouvaille. C’est une position que je défends depuis *Le peuple des connecteurs*. Mais cette décentralisation a d’immenses conséquences.
 

@@ -1,10 +1,10 @@
 # Quel titre préférez-vous&nbsp;? «&nbsp;Freemen&nbsp;» ou «&nbsp;La quatrième théorie&nbsp;»
 
-Vous vous souvenez de [*Croisade*](http://blog.tcrouzet.com/la-quatrieme-theorie/), le twiller. Il s’apprête à migrer de Twitter au papier/ebook. Il sortira en avril chez Fayard Noir.
+Vous vous souvenez de [*Croisade*](/la-quatrieme-theorie/), le twiller. Il s’apprête à migrer de Twitter au papier/ebook. Il sortira en avril chez Fayard Noir.
 
 Mais nous hésitons pour le titre. *Croisade*, ça ne marche pas. Parce que le titre est pris par une saga de fantasy, et surtout, parce qu’il évoque le moyen-âge plutôt que le présent tendu par le flux. Il nous faut autre chose.
 
-Comme la rédaction de ce livre a été interactive, mettant en œuvre [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/), on se dit avec Lilas, mon éditrice, qu’on peut continuer à ouvrir le processus éditorial. Vos avis et suggestions sont les bienvenus.
+Comme la rédaction de ce livre a été interactive, mettant en œuvre [*La stratégie du cyborg*](/la-strategie-du-cyborg/), on se dit avec Lilas, mon éditrice, qu’on peut continuer à ouvrir le processus éditorial. Vos avis et suggestions sont les bienvenus.
 
 Pour vous aider à choisir, voici deux interviews imaginaires.
 

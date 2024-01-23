@@ -1,16 +1,16 @@
 # Les réseaux sociaux ne servent à rien
 
-Hier soir autour de 21 heures, j’étais en une de [Wikio](http://www.wikio.fr) pour [mon billet sur Wikileaks](http://blog.tcrouzet.com/2010/12/03/dictature-de-la-transparence/). Qu’est-ce que ça signifiait ? Que j’étais très lu à ce moment ? Immensément populaire sur le Net ? Non.
+Hier soir autour de 21 heures, j’étais en une de [Wikio](http://www.wikio.fr) pour [mon billet sur Wikileaks](/2010/12/03/dictature-de-la-transparence/). Qu’est-ce que ça signifiait ? Que j’étais très lu à ce moment ? Immensément populaire sur le Net ? Non.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/12/wikio.png)
+![](https://tcrouzet.com/images_tc/2010/12/wikio.png)
 
-Par chance pour l’explication qui va suivre, devant moi dans le classement il y avait [un billet de Rue89](http://www.rue89.com/2010/12/03/wikileaks-reveler-un-secret-est-desormais-interdit-en-france-179010). Comme toujours, en pied de page, le nombre de visites était indiqué : 25 306. Au même instant, mon billet totalisait 509 visites ([je joue aussi la transparence sur mes stats](http://blog.tcrouzet.com/top/)).
+Par chance pour l’explication qui va suivre, devant moi dans le classement il y avait [un billet de Rue89](http://www.rue89.com/2010/12/03/wikileaks-reveler-un-secret-est-desormais-interdit-en-france-179010). Comme toujours, en pied de page, le nombre de visites était indiqué : 25 306. Au même instant, mon billet totalisait 509 visites ([je joue aussi la transparence sur mes stats](/top/)).
 
 Pour ma part, j’utilise les statistiques Google Analytics bien plus sévères que la plupart des compteurs de statistiques intégrés aux CMS comme celui de Rue89. Mais même si je divisais le score de Rue89 par deux, je serais encore ridicule.
 
 L’article de Rue89 totalisait selon Wikio 106 tweets contre 59 pour le mien. Le score Wikio de Rue89 était de 158, le mien de 129. Si l’influence des réseaux sociaux était linéaire, Rue89 aurait dû afficher au mieux son article deux fois plus que le mien, pas 25 fois plus.
 
-En totalisant les retweets et les like facebook, mon billet avait reçu 100 recommandations. Si je suis très généreux, chaque recommandation m’avait alors amené 5 visites. Je peux comparer avec un autre article très populaire chez moi, [mon attaque contre les community managers](http://blog.tcrouzet.com/2010/09/16/les-community-managers-sont-des-putes/) : 588 recommandations pour 9 868 visites, soit un apport max de 16 visites par recommandations.
+En totalisant les retweets et les like facebook, mon billet avait reçu 100 recommandations. Si je suis très généreux, chaque recommandation m’avait alors amené 5 visites. Je peux comparer avec un autre article très populaire chez moi, [mon attaque contre les community managers](/2010/09/16/les-community-managers-sont-des-putes/) : 588 recommandations pour 9 868 visites, soit un apport max de 16 visites par recommandations.
 
 (Plus la date de parution d’un billet s’éloigne, plus un trafic naturel s’installe et moins l’effet booster des recommandations importe. Mon estimation de 16 visites par recommandation est donc très largement exagérée.)
 
@@ -26,7 +26,7 @@ Avec eux et avec les liens blogosphériques, le plus souvent, nous ne traçons q
 
 Les classements d’influence mesurent notre influence hypothétique au cas où, un cas qui ne se produira peut-être jamais. Mon influence sur les réseaux sociaux est disproportionnée par rapport à mon audience (de l’ordre de 800 visiteurs uniques par jour).
 
-Tout peut changer en cas de catastrophe. Si les gouvernements s’attaquaient à Internet, ils commenceraient par censurer les gros sites et le réseau faible que nous tressons se réveillerait et deviendrait dominant. [Nous bâtissons une architecture de crise.](http://blog.tcrouzet.com/2010/12/04/blogosphere-liberte/) Nous deviendrons d’autant plus influents que le monde s’enfoncera dans le chaos. Nous nous préparons à résister. Nous sommes une espèce de sécurité sociale planétaire. Une force dormante.
+Tout peut changer en cas de catastrophe. Si les gouvernements s’attaquaient à Internet, ils commenceraient par censurer les gros sites et le réseau faible que nous tressons se réveillerait et deviendrait dominant. [Nous bâtissons une architecture de crise.](/2010/12/04/blogosphere-liberte/) Nous deviendrons d’autant plus influents que le monde s’enfoncera dans le chaos. Nous nous préparons à résister. Nous sommes une espèce de sécurité sociale planétaire. Une force dormante.
 
 Nuance toutefois. Un grand nombre de sites influents arrachent leur influence souterraine sans faire preuve de beaucoup d’inventivité ou de conscience politique. Plus on dit de conneries, plus on surfe sur l'actualité rabâchée par les médias dominants, plus on a de chance d’être en haut des classements d’influence. Autre astuce : s’engager en politique, de préférence avec un parti bien en vue, et récupérer tous les liens et toutes les recommandations des béni-oui-oui. Les classements ne mesurent souvent que notre propension au mimétisme le plus vil. N’empêche, ensemble, nous ouvrons des pistes dans la brousse.
 

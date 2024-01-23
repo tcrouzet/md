@@ -4,7 +4,7 @@ J’ai de vieux réflexes, des automatismes malsains, un peu comme le fumeur rep
 
 J’ai regardé le lamentable match France-Mexique, plutôt le lamentable match de l’équipe de France, d’une tristesse à la hauteur de la grisaille de son entraîneur. Quand ça ne veut pas rire, ça ne rit pas. Il n’y a pas à épiloguer. En revanche, [@la\_ligne m’a suggéré une connexion intéressante.](http://twitter.com/la_ligne/statuses/16414201658)
 
-[Selon une découverte psychologique](http://blog.tcrouzet.com/2010/06/15/nous-sommes-cables-pour-l%E2%80%99economie-de-l%E2%80%99abondance/) exposée par [Dan Pink](http://www.danpink.com/), la récompense financière n’est pas toujours une meilleure motivation possible. Pink voit deux cas de figure.
+[Selon une découverte psychologique](/2010/06/15/nous-sommes-cables-pour-l%E2%80%99economie-de-l%E2%80%99abondance/) exposée par [Dan Pink](http://www.danpink.com/), la récompense financière n’est pas toujours une meilleure motivation possible. Pink voit deux cas de figure.
 
 1. Une tâche simple, pas-à-pas, répétitive : alors payer plus entraîne de meilleurs résultats.
 2. Une tâche complexe, qui exige de la créativité : alors payer plus n’implique aucun « improvement », pire on constate expérimentalement que les gens surpayés sous-performent.
@@ -17,7 +17,7 @@ Si nous voulons revoir un jour du beau jeu, nous devons alors cesser de payer de
 
 Si nous voulons innover, résoudre les maux du monde, nous devons bâtir un socle social qui ne repose pas sur l’argent. Un dividende universel suffirait bien à nous combler, pendant que nous nous vouons avec passion aux tâches les plus vitales pour l’humanité. Seuls les hommes et les femmes effectuant des tâches besogneuses devraient être surpayés. Il faudrait inverser la pyramide.
 
-P*S1 : Ce texte est la conséquence de ce que j’appelle dorénavant la [cyborisation](http://blog.tcrouzet.com/tag/cyborg/). 1/ Je reçois un mail qui pointe vers une vidéo de Dan Pink. 2/ Au retour de vacances, je regarde la vidéo, la diffuse sur mon blog. 3/ @la\_ligne réagit sur Twitter. 4/ Cela m’incite à écrire un billet et à introduire ces réflexions dans mon nouvel essai sur la cyborisation… La boucle créative s’est ouverte (et personne n’est payé dans cette histoire).*
+P*S1 : Ce texte est la conséquence de ce que j’appelle dorénavant la [cyborisation](/tag/cyborg/). 1/ Je reçois un mail qui pointe vers une vidéo de Dan Pink. 2/ Au retour de vacances, je regarde la vidéo, la diffuse sur mon blog. 3/ @la\_ligne réagit sur Twitter. 4/ Cela m’incite à écrire un billet et à introduire ces réflexions dans mon nouvel essai sur la cyborisation… La boucle créative s’est ouverte (et personne n’est payé dans cette histoire).*
 
 *PS2 : Avant la transition vers le monde des cyborgs, tant qu’on reste englué dans le vieux paradigme, cette découverte exposée par Dan Pink sera utilisée par tous les exploiteurs pour justifier de moins payer les gens… alors qu’elle devrait nous aider à revoir notre organisation sociale.* 
 

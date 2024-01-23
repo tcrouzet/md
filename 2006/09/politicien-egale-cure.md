@@ -16,7 +16,7 @@ Cette théorie de Tolstoï se justifie d’un point de vue évolutif. Les hordes
 
 Chez nous, il y a encore des chefs parce que leur présence procure un avantage qui compense leur inefficacité. Quel est cet avantage ? Nos sociétés complexes se développent avec la conscience des individus qui, pour vivre ensemble, développent peu à peu un sens moral. Mais ce sens moral, indispensable au quotidien, peut s’avérer problématique en temps de crise. Il faut alors le désactiver : tel serait le rôle du chef. C’est sans doute pour cette raison que le pouvoir séculaire s’associe historiquement presque toujours au pouvoir religieux, car son domaine est la moralité.
 
-Nous aurions besoin de chefs pour nous déresponsabiliser. Et je comprends mieux maintenant pourquoi la plupart des gens s’accrochent [au droit de vote](http://blog.tcrouzet.com/2006/09/01/droit-vote-question/). Il les ramène à l’ancien régime, à ce chef divin capable de les absoudre de leurs pêchés. Peu importe que ce chef soit un monstre, un bandit, un truand. Ce qui compte c’est que, de temps en temps, il paye pour nos égarements sauvages.
+Nous aurions besoin de chefs pour nous déresponsabiliser. Et je comprends mieux maintenant pourquoi la plupart des gens s’accrochent [au droit de vote](/2006/09/01/droit-vote-question/). Il les ramène à l’ancien régime, à ce chef divin capable de les absoudre de leurs pêchés. Peu importe que ce chef soit un monstre, un bandit, un truand. Ce qui compte c’est que, de temps en temps, il paye pour nos égarements sauvages.
 
 Une société sans chef, ça fait peur. Terriblement peur. Qui dès lors va me confesser et me pardonner ? Contre qui vais-je me retourner si ça tourne mal ? Contre moi-même ? Nous ne sommes peut-être pas encore près pour ce grand saut.
 

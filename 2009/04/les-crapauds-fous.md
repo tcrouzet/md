@@ -26,7 +26,7 @@ Un ami m'a suggéré cet autre titre pour mon livre. Les écureuils ont l'habitu
 
 Cette autre métaphore nous montre comme de petits gestes, anecdotiques, involontaires, peuvent eux aussi changer le monde lorsqu'ils s'accumulent. Il y a de cela dans les crapauds fous d'aujourd'hui, quelque chose de l'ordre de la symbiose entre les chênes et les écureuils. Les crapauds fous ne sont pas nécessairement connus, extraordinaires, ils peuvent être des hommes et des femmes comme vous et moi.
 
-PS1 : [Comme je l'avais fait pour Le cinquième pouvoir](http://blog.tcrouzet.com/2006/12/24/chronologie-du-cinquieme-pouvoir/), je vais tenter de créer la chronologie de l'expression crapaud fou / crazy toad / mad toad que je compléterai au fil des trouvailles.
+PS1 : [Comme je l'avais fait pour Le cinquième pouvoir](/2006/12/24/chronologie-du-cinquieme-pouvoir/), je vais tenter de créer la chronologie de l'expression crapaud fou / crazy toad / mad toad que je compléterai au fil des trouvailles.
 
 PS2 : En 2006, c'est Erick Jonquière qui m'avait soufflé l'idée du cinquième pouvoir dans un commentaire ici-même. Cette fois c'est sur [twitter que La ligne](http://twitter.com/la_ligne/statuses/1394038409) m'a glissé insidieusement cette idée. Les temps changent et c'est le sujet du livre.
 

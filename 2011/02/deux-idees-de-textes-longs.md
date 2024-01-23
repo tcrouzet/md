@@ -6,7 +6,7 @@ Le blog comble mon désir d’immédiateté et de fulgurance. Intuitions immédi
 
 Mais pour provoquer quelque chose de plus profond chez le lecteur et moi-même me transformer, je dois me frotter à une matière plus dense.
 
-Je suis en ce moment en attente. Je vais retravailler mon éternel Ératosthène mais il me faut plonger dans quelque chose d’autre. J’ai évoqué l’idée d’écrire sur [*La démerdocratie*](http://blog.tcrouzet.com/2011/01/14/la-demerdocratie/), mais j’ai envie d’une parenthèse théorique. Attaquer la montagne par la voie directe n’est pas toujours la meilleure solution. Alors je pourrais raconter des histoires, où me raconter, c’est dans cette direction que je navigue en ce moment dans ma tête.
+Je suis en ce moment en attente. Je vais retravailler mon éternel Ératosthène mais il me faut plonger dans quelque chose d’autre. J’ai évoqué l’idée d’écrire sur [*La démerdocratie*](/2011/01/14/la-demerdocratie/), mais j’ai envie d’une parenthèse théorique. Attaquer la montagne par la voie directe n’est pas toujours la meilleure solution. Alors je pourrais raconter des histoires, où me raconter, c’est dans cette direction que je navigue en ce moment dans ma tête.
 
 ### Déconnexion totale / Débranché
 

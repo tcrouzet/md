@@ -16,7 +16,7 @@ Autre surprise, le poids. Je savais que le Kindle passait de 170 g à 213 g, je 
 
 Mais le pire m’attend dans le Paperwhite lui-même. L’éclairage de l’écran, la grande nouveauté, n’est pas homogène sur les bords. Ombres, halos, effets néon. J’étais là encore prévenu. C’est supportable, mais pas très digne d’Amazon. De jour, je couperai cet éclairage, qui je l’avoue reste bien utile quand Isa s'endort avant moi. Alors nouvelle surprise : sans l’éclairage le blanc de la page est tout juste plus blanc qu’avant, le noir de l’encre électronique pas plus noir. On m’a vendu un meilleur contraste au soleil…
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/11/ipad1.jpg)
+![](https://tcrouzet.com/images_tc/2012/11/ipad1.jpg)
 
 Et ça continue. Quand l’éclairage intégré du Paperwhite est actif, tourner plusieurs pages coup sur coup me donne le mal de mer. L’affichage tressaute. La transition passe par un flash noir comme à l’époque des toutes premières liseuses. Sans l’éclairage, cet effet disparaît. Une page se fond dans l’autre tout naturellement. Ouf ! Je m'en sors en éteignant ou en réglant la luminosité toujours au minimum.
 

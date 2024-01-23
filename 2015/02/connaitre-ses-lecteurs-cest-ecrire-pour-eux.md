@@ -6,11 +6,11 @@ Influencé par cette célèbre réplique, j’ai souvent traité de séniles les
 
 Depuis que je publie quotidiennement mon feuilleton [*1 minute*](http://www.wattpad.com/story/29694130-1-minute) sur Wattpad, je récupère tout un ensemble de données sur mes lecteurs, généralement jeunes, moins de 25 ans pour plus de la moitié, et magnifiquement décomplexés. Ils n’hésitent pas à commenter et, quand ils aiment un chapitre, ils votent pour lui. C’est rafraîchissant. J’ai l’impression de retrouver la spontanéité des blogs des origines.
 
-![wattpad](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/wattpad1.jpg)
+![wattpad](https://tcrouzet.com/images_tc/2015/02/wattpad1.jpg)
 
 Dans ma timeline auteur, je peux ainsi suivre pas à pas une lectrice comme cloclo127. Je sais quand elle termine un chapitre passe au suivant. Je constate qu’elle met en moyenne deux minutes pour lire un chapitre, ce qui est en accord avec les stats que fournit [Ulysses](http://www.ulyssesapp.com/), mon traitement de texte.
 
-![Stat Ulysses](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/02/ulyssestat.png)
+![Stat Ulysses](https://tcrouzet.com/images_tc/2015/02/ulyssestat.png)
 
 Les choses deviennent insidieuses quand je comptabilise les votes et les commentaires par chapitre. Je découvre ce que mes lecteurs préfèrent et, malgré moi, j’ai envie de les contenter. De même quand je connais leur âge, j’introduis davantage de personnages de leur âge. C’est la règle du jeu imposée par l’interactivité. Si un bataillon de retraités se mettait à me lire, davantage de retraités peupleraient mon histoire.
 

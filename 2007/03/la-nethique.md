@@ -10,9 +10,9 @@ De ces remarques préliminaires, je tire deux règles qui devraient être dans t
 
 2. Aucune néthique ne doit être gravée dans le marbre. Son texte même doit être ouvert aux commentaires et, pourquoi pas, donner naissance régulièrement à de nouvelles versions. Il devrait en être de même de tous les textes fondamentaux, déclaration des droits de l’homme par exemple (qui ignorent encore les droits des générations à venir il me semble).
 
-Cela dit les néthiques peuvent sans doute varier suivant leur champ d’application. Par exemple, pour peser dans la vie démocratique, les blogueurs doivent s’imposer un peu de rigueur. Adam Kesher a fait [quelques propositions en ce sens ](http://adamkesher.canalblog.com/archives/2006/10/20/2947964.html). Elles me semblent pertinentes. Je les avais reprises et modifiées quelque peu dans le manuscrit du [cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/) avant de couper ce passage.
+Cela dit les néthiques peuvent sans doute varier suivant leur champ d’application. Par exemple, pour peser dans la vie démocratique, les blogueurs doivent s’imposer un peu de rigueur. Adam Kesher a fait [quelques propositions en ce sens ](http://adamkesher.canalblog.com/archives/2006/10/20/2947964.html). Elles me semblent pertinentes. Je les avais reprises et modifiées quelque peu dans le manuscrit du [cinquième pouvoir](/le-cinquieme-pouvoir/) avant de couper ce passage.
 
-1. Nous devons être force de propositions. Étienne Chouard nous montra comment un citoyen anonyme pouvait se lancer dans le [projet fou d’écrire une nouvelle constitution européenne](http://blog.tcrouzet.com/2007/03/04/pour-une-assemblee-constituante/). Il faut maintenant que se lèvent des foules héroïques et positives.
+1. Nous devons être force de propositions. Étienne Chouard nous montra comment un citoyen anonyme pouvait se lancer dans le [projet fou d’écrire une nouvelle constitution européenne](/2007/03/04/pour-une-assemblee-constituante/). Il faut maintenant que se lèvent des foules héroïques et positives.
 
 2. Les blogueurs doivent prendre le temps d’approfondir et ne pas imiter la télévision en se battant à coup de petites phrases. Ils doivent exploiter toutes la bande passante offerte par internet.
 

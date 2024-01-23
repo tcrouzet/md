@@ -8,7 +8,7 @@ La culture, aussi fondamentale que l’air que nous respirons, que le sol sur le
 
 Le hacker en cherchant à la libérer ne la vole pas, il se bat contre les voleurs, contre ceux qui cherchent à se l’approprier, à la rendre rare pour mieux la monnayer. Le hacker est un Robin des Bois. Je voudrais tenter de le décrire en dix points.
 
-![hacker-culture-le-remake.gif](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/hacker-culture-le-remake.gif)
+![hacker-culture-le-remake.gif](https://tcrouzet.com/images_tc/2007/10/hacker-culture-le-remake.gif)
 
 ### 1/ Devoir de différence
 
@@ -82,6 +82,6 @@ Au final, le hacker est un connecteur. Ces deux mots sont synonymes pour moi. Mc
 
 Si je ne suis pas trop loin de vivre selon ces préceptes hackers/connecteurs, je vous accorde que c’est loin d’être gagné pour l’ensemble de la population. Je ne désespère pas. Je crois que nous avons un besoin vital de cette approche pour régler les problèmes auxquels se confronte le monde.
 
-*PS : Voilà ce que j’aurais pu dire lors de* [*ma conférence de Marseille*](http://blog.tcrouzet.com/2007/10/27/hackulturation/)*.*
+*PS : Voilà ce que j’aurais pu dire lors de* [*ma conférence de Marseille*](/2007/10/27/hackulturation/)*.*
 
 Tags: Connecteur

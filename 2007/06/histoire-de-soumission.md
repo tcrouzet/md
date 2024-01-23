@@ -1,6 +1,6 @@
 # Histoire de soumission
 
-Au dix-huitième siècle, l’esclavage était une tradition millénaire mais des hommes commencèrent à se dresser contre lui. Ce n’était pas la première fois dans l’histoire mais cette fois ils allaient gagner une bataille sans doute décisive. [On les traita de fous.](http://blog.tcrouzet.com/2007/05/31/la-fin-de-l%e2%80%99esclavage%e2%80%a6/) L’économie ne pouvait soit disant pas fonctionner sans esclaves. Nous avons démontré depuis que ce postulat était faux.
+Au dix-huitième siècle, l’esclavage était une tradition millénaire mais des hommes commencèrent à se dresser contre lui. Ce n’était pas la première fois dans l’histoire mais cette fois ils allaient gagner une bataille sans doute décisive. [On les traita de fous.](/2007/05/31/la-fin-de-l%e2%80%99esclavage%e2%80%a6/) L’économie ne pouvait soit disant pas fonctionner sans esclaves. Nous avons démontré depuis que ce postulat était faux.
 
 Au dix-neuvième siècle, l’égalité des sexes étaient une chimère mais quelques femmes commencèrent à se dresser contre cette inégalité. On les traita de folles. Les hommes étaient plus forts et plus intelligents que les femmes. Nous avons démontré depuis que ce postulat était faux.
 

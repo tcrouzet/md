@@ -2,11 +2,11 @@
 
 Bertrand Rio de Cap21 m’a invité à parler d’internet et de la politique lors de [l’université d’été du Modem qui se tient ce weekend dans les Landes](http://www.forumdesdemocrates.fr/). J’ai accepté cette invitation. Dans la mesure du possible, j’essaie de porter la parole des connecteurs quand j’en ai l’occasion. Si le PS ou l’UMP m’avaient invité j’aurais accepté de la même façon.
 
-Plutôt que de parler d’internet comme arme politique, sujet du cinquième pouvoir, je reviendrai au thème central du [*Peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) : comment s’inspirer de la pensée réseau pour repenser la politique. Le Modem étant un parti encore en gestation, j’ai l’espoir qu’il sera capable de prendre en compte cette nouvelle réalité. J’avoue être modérément optimiste quand je vois que les survivants de l’UDF occupent déjà les postes clés.
+Plutôt que de parler d’internet comme arme politique, sujet du cinquième pouvoir, je reviendrai au thème central du [*Peuple des connecteurs*](/le-peuple-des-connecteurs/) : comment s’inspirer de la pensée réseau pour repenser la politique. Le Modem étant un parti encore en gestation, j’ai l’espoir qu’il sera capable de prendre en compte cette nouvelle réalité. J’avoue être modérément optimiste quand je vois que les survivants de l’UDF occupent déjà les postes clés.
 
-![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070914pacco.gif)
+![Pacco](https://tcrouzet.com/images_tc/20070914pacco.gif)
 
-1. J’aimerais avec eux commencer par mettre en cause cette notion de poste clé, cette habitude de nommer des chefs et des sous-chefs alors même que ce n’est pas nécessaire. Je pourrais raconter [l’histoire des Apaches](http://blog.tcrouzet.com/2007/06/05/la-revanche-des-apaches/).
+1. J’aimerais avec eux commencer par mettre en cause cette notion de poste clé, cette habitude de nommer des chefs et des sous-chefs alors même que ce n’est pas nécessaire. Je pourrais raconter [l’histoire des Apaches](/2007/06/05/la-revanche-des-apaches/).
 
 2. Une autre histoire me tient à cœur. En 1935, Bill Wilson était proche de la mort, il devait cesser de boire. Comme aucun médecin n’avait jamais réussi à le sevrer, il eut l’idée d’appeler à l’aide d’autres alcooliques. L’association des Alcooliques Anonymes était née. Personne n’en était le chef et tout le monde l’était, expliquent Ori Brafman et Rod Becstrom dans [*The Starfish and the Spider*](http://www.amazon.fr/Starfish-Spider-Unstoppable-Leaderless-Organizations/dp/1591841437/ref=pd_bbs_sr_1). C’était une structure peer to peer (alcoolique à alcoolique). Bill Wilson se contenta de rédiger une méthodologie en douze points qui inspira tous ceux qui depuis créent de nouvelles associations. Ils le font librement sans demander l’aval de qui que ce soit.
 

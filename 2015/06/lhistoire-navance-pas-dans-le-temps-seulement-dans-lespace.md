@@ -2,7 +2,7 @@
 
 Je prends peu à peu conscience que travailler avec Ulysses et publier sur Wattpad influence en profondeur mon feuilleton *1 minute*. Grâce à son système de recherche, Ulysses m’aide à naviguer dans mes fragments, à gérer une quarantaine de fuseaux horaires, des centaines de lieux et de personnages (inimaginable avec Word, encore plus avec des fiches papier). Tout en facilitant la diffusion d’un récit par épisodes, Wattpad m’envoie, quant à lui, des lecteurs fidèles, curieux, perspicaces.
 
-![1 Minute a franchi les 100 000 chapitres lus.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/100k1-600x376.jpg)
+![1 Minute a franchi les 100 000 chapitres lus.](https://tcrouzet.com/images_tc/2015/06/100k1-600x376.jpg)
 
 Dans un commentaire, vixii\_ecrivaillon résume mon projet : « L’histoire n'avance pas dans le temps, seulement dans l'espace. » Quand je me suis lancé dans le roman, je n’avais qu’une vague conscience de cet enjeu formel. L’histoire ne progresse que quand on se déplace de ville en ville, de fuseau horaire en fuseau horaire, de personnage en personnage. Le temps, lui, a été figé, pendant que tous les autres paramètres se transforment. *1 minute* est un roman géographique qui vient naturellement après mon *Ératosthène*. C’est logique en quelque sorte, mais je n’y avais pas pensé avant ces derniers jours.
 

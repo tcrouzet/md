@@ -30,9 +30,9 @@ Si je suis capable de rêver de cette évolution, c’est qu’elle est déjà e
 
 Nous n'avons en priorité ni besoin d'open data ni de big data, mais de living data.
 
-*PS : En 2009, quand j'ai écrit [Vers un web sans site web](http://blog.tcrouzet.com/2009/08/17/vers-un-web-sans-site-web/), je n'avais pas encore une vision claire de comment nous aboutirions à ce résultat.*
+*PS : En 2009, quand j'ai écrit [Vers un web sans site web](/2009/08/17/vers-un-web-sans-site-web/), je n'avais pas encore une vision claire de comment nous aboutirions à ce résultat.*
 
-![Tim Berners-Lee on the Next Web (TED, 2009)... qui n'est à ce stade que l'ancien Web.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/05/livingdata.png)
+![Tim Berners-Lee on the Next Web (TED, 2009)... qui n'est à ce stade que l'ancien Web.](https://tcrouzet.com/images_tc/2014/05/livingdata.png)
 
 Tim Berners-Lee on the Next Web (TED, 2009)... qui n'est à ce stade que l'ancien Web.
 

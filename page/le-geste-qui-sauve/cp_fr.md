@@ -52,20 +52,20 @@
 
 3. Et qui a offert sa découverte à l'humanité, dans la pure tradition du mouvement open source en informatique.
 
-4. Pour être en phase avec cette prouesse, le livre est publié sous [licence Creative Commons](http://blog.tcrouzet.com/le-geste-qui-sauve/#cc) par les éditions L'Âge d'homme, [vendu en librairie à partir du 2 mai 2014](http://blog.tcrouzet.com/le-geste-qui-sauve/?lib=1), mais aussi [accessible gratuitement en ligne](http://blog.tcrouzet.com/le-geste-qui-sauve/downloads/).
+4. Pour être en phase avec cette prouesse, le livre est publié sous [licence Creative Commons](/le-geste-qui-sauve/#cc) par les éditions L'Âge d'homme, [vendu en librairie à partir du 2 mai 2014](/le-geste-qui-sauve/?lib=1), mais aussi [accessible gratuitement en ligne](/le-geste-qui-sauve/downloads/).
 
 5. L'auteur verse l'intégralité de ses droits au [Fonds Clean Hands Save Lives](http://www.cleanhandssavelives.org/). Chaque fois qu'un livre sera acheté, de nouvelles vies seront sauvées.
 
-[**Téléchargez le livre...**](http://blog.tcrouzet.com/le-geste-qui-sauve/downloads/)
+[**Téléchargez le livre...**](/le-geste-qui-sauve/downloads/)
 
-![Couvertures](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/planche2.jpg)
+![Couvertures](https://tcrouzet.com/images_tc/2014/03/planche2.jpg)
 
 ### Contacts/infos
 
 SP L'âge d'homme : Suzanne Jamet - sujamet@aol.com 
 SP Didier Pittet : severine.hutin@gmail.com - +41 79 342 48 69
-[tcrouzet.com](http://blog.tcrouzet.com) - [@crouzet](https://twitter.com/crouzet) - [facebook:tcrouzet](https://www.facebook.com/tcrouzet)
-[Photos et visuels](http://blog.tcrouzet.com/le-geste-qui-sauve/visuels/)
+[tcrouzet.com]() - [@crouzet](https://twitter.com/crouzet) - [facebook:tcrouzet](https://www.facebook.com/tcrouzet)
+[Photos et visuels](/le-geste-qui-sauve/visuels/)
 
 ### L'histoire en détails
 
@@ -110,4 +110,4 @@ Né en 1957 à Genève, Didier Pittet est un professeur de médecine suisse. Con
 
 ### Thierry Crouzet
 
-Né en 1963, Thierry Crouzet est un bloggeur, essayiste et romancier français. [*Commoniste*](http://blog.tcrouzet.com/2013/11/26/amis-commonistes/) autoproclamé, il défend l’économie de paix, basée sur le don, par opposition à l’économie prédatrice, caractérisée par les brevets. La croisade de Didier Pittet et la mise à disposition universelle de la formule de la solution hydro-alcoolique illustrent pour lui le potentiel de l’économie de partage. Le geste qui sauve raconte l’histoire de cette croisade pour des soins plus sûrs. Thierry Crouzet a notamment publié *Le Peuple des connecteurs*, une réflexion sur la société des réseaux, *J’ai débranché*, le récit d’un burn-out numérique, *La Quatrième Théorie*, un techno-thriller de politique-fiction.
+Né en 1963, Thierry Crouzet est un bloggeur, essayiste et romancier français. [*Commoniste*](/2013/11/26/amis-commonistes/) autoproclamé, il défend l’économie de paix, basée sur le don, par opposition à l’économie prédatrice, caractérisée par les brevets. La croisade de Didier Pittet et la mise à disposition universelle de la formule de la solution hydro-alcoolique illustrent pour lui le potentiel de l’économie de partage. Le geste qui sauve raconte l’histoire de cette croisade pour des soins plus sûrs. Thierry Crouzet a notamment publié *Le Peuple des connecteurs*, une réflexion sur la société des réseaux, *J’ai débranché*, le récit d’un burn-out numérique, *La Quatrième Théorie*, un techno-thriller de politique-fiction.

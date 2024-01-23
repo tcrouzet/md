@@ -1,10 +1,10 @@
 # Lenovo Yoga 2 Pro plutôt stressant
 
-Ce matin alors [que je suis en voyage en Italie](http://blog.tcrouzet.com/tag/basilicate/), mon nouveau portable magique sort du mode veille avec un magnifique trait noir au milieu de l'écran. Un reboot n'y change rien. [Une ligne de pixels est morte](http://support.lenovo.com/en_US/research/hints-or-tips/detail.page?DocID=HT035306).
+Ce matin alors [que je suis en voyage en Italie](/tag/basilicate/), mon nouveau portable magique sort du mode veille avec un magnifique trait noir au milieu de l'écran. Un reboot n'y change rien. [Une ligne de pixels est morte](http://support.lenovo.com/en_US/research/hints-or-tips/detail.page?DocID=HT035306).
 
-![Yoga 2 Pro dead pixels en line](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/12/yogastress.jpg)
+![Yoga 2 Pro dead pixels en line](https://tcrouzet.com/images_tc/2013/12/yogastress.jpg)
 
-Je savais [la machine dotée de toutes les dernières technos](http://blog.tcrouzet.com/tag/lenovo/), je ne m’attendais pas à ce qu'elle me claque entre les doigts au bout de deux semaines exactement. C'est la première fois qu'un ordi me fait ce tour. D'habitude, soit ils sont défectueux dès réception, soit ils se tiennent des années tranquilles.
+Je savais [la machine dotée de toutes les dernières technos](/tag/lenovo/), je ne m’attendais pas à ce qu'elle me claque entre les doigts au bout de deux semaines exactement. C'est la première fois qu'un ordi me fait ce tour. D'habitude, soit ils sont défectueux dès réception, soit ils se tiennent des années tranquilles.
 
 J'ai acheté cette machine pour pratiquer l'écriture nomade, pour qu'elle remplace mes carnets et ma boîte d'aquarelle. Pari tenu, mais si je dois craindre une interruption de service à tout moment, ça ne va pas le faire. Qu'en dites-vous Lenovo ? Vous ne donnez pas beaucoup de signes de vie aux blogueurs. Vous craignez nos retours ? Ou votre succès vous déborde ?
 

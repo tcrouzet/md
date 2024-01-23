@@ -18,7 +18,7 @@ Cette volonté d'interdire le hacking est inacceptable. Il faut la contrer pour 
 
 ### Défense bottom-up
 
-En vérité, on ne nous a pas privés de notre droit ancestral de hacker le livre. On nous l'a fait croire à l'aide de contrat de vente douteux. Rien ne nous empêche comme par le passé de transformer l'objet acheté. [Et pour commencer, de le dépouiller de ses verrous qui entravent nos usages.](http://blog.tcrouzet.com/2012/09/16/ebooks-defends-tes-droits-avec-tes-armes/)
+En vérité, on ne nous a pas privés de notre droit ancestral de hacker le livre. On nous l'a fait croire à l'aide de contrat de vente douteux. Rien ne nous empêche comme par le passé de transformer l'objet acheté. [Et pour commencer, de le dépouiller de ses verrous qui entravent nos usages.](/2012/09/16/ebooks-defends-tes-droits-avec-tes-armes/)
 
 ### Question de philosophie
 
@@ -56,7 +56,7 @@ Avec ces problèmes surgit l'imprévisibilité. Impossibilité de prévoir les c
 
 Pour ces problèmes irréductibles, toute dérive vers le top-down serait non seulement une perte de temps, mais une façon de faire pencher la balance dans une direction dangereuse, avec le risque d'allumer des réactions en chaîne incontrôlables. Pencher dès que possible vers la subsidiarité, c'est se prémunir contre les risques systémiques. Ce n'est pas négociable. Et même si une TVA sur les DRM paraît sans grands dangers systémiques, je ne vois pas pourquoi courir le risque alors qu'il existe une voie qui passe par l'intelligence collective.
 
-[J'espère que ce long détour fera comprendre mon énervement suite à ma découverte de la proposition d'Isabelle Attard.](http://blog.tcrouzet.com/2013/09/21/un-fumeur-de-cannabis-a-plus-de-droits-quun-lecteur/) Nous sommes sensibles aux mêmes problèmes, d'accord sur le but, nous partageons sans doute les mêmes soucis écologiques, nous pourrions être compagnon de lutte, mais nous devons nous parler, discuter d'un différent méthodologique qui peut faire au final toute la différence.
+[J'espère que ce long détour fera comprendre mon énervement suite à ma découverte de la proposition d'Isabelle Attard.](/2013/09/21/un-fumeur-de-cannabis-a-plus-de-droits-quun-lecteur/) Nous sommes sensibles aux mêmes problèmes, d'accord sur le but, nous partageons sans doute les mêmes soucis écologiques, nous pourrions être compagnon de lutte, mais nous devons nous parler, discuter d'un différent méthodologique qui peut faire au final toute la différence.
 
 On peut même aboutir à des résultats contre-productifs. Si d'un côté on défend les biens communs, le libre, l'open source… c'est dans un souci d'application culturelle du principe de subsidiarité : que chacun puisse accéder à la culture en toute liberté indépendamment de sa situation financière. La lutte contre les DRM participe de la même démarche. Pourquoi alors pour cette lutte renoncer au principe de subsidiarité ? Pour gagner du temps ? Pour se faire entendre ? Ou est-ce par manque de réflexion philosophique ?
 

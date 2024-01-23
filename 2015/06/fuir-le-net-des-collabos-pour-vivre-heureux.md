@@ -19,7 +19,7 @@ Si j’étais sain d’esprit, je me tiendrais désormais à distance du Net. C�
 
 *PS : J'évoque le petit repaire de [Framasphere](https://framasphere.org/) avant que quelqu'un ne l'évoque dans un commentaire... J'avais l'illusion qu'on pourrait être tous ensemble sans se réfugier dans des territoires isolés.*
 
-![Le vieux révolutionnaire préfère regarder les canards au bord du lac que les cancans sur le Net.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/06/duck.jpg)
+![Le vieux révolutionnaire préfère regarder les canards au bord du lac que les cancans sur le Net.](https://tcrouzet.com/images_tc/2015/06/duck.jpg)
 
 Le vieux révolutionnaire préfère regarder les canards au bord du lac qu'écouter les cancans sur le Net.
 

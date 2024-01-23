@@ -1,6 +1,6 @@
 # Le véritable libéralisme
 
-Malgré les [trolls](http://blog.tcrouzet.com/2006/08/17/troll-story/), bloguer reste gratifiant. Le contact direct et presque quotidien avec des lecteurs engendre des hasards heureux.
+Malgré les [trolls](/2006/08/17/troll-story/), bloguer reste gratifiant. Le contact direct et presque quotidien avec des lecteurs engendre des hasards heureux.
 
 La semaine dernière, j’étais en vacances chez un ami Américain, prospecteur pétrolier passionné d’économie, qui me conseille de revenir à [Adam Smith](http://fr.wikipedia.org/wiki/Adam_Smith). Pour lui, la théorie de la main invisible est une théorie de l’auto-organisation que je devrais étudier. Quand le prix d’un produit augmente, de nouveaux entrepreneurs le manufacturent, le produit devient abondant, son prix baisse. Quand le prix est trop bas, les entrepreneurs doivent lancer de nouveaux produits.
 

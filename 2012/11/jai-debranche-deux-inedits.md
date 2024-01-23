@@ -2,7 +2,7 @@
 
 [Vincenzo Susca](http://www.ceaq-sorbonne.org/node.php?id=885&elementid=827) m’invite à parler de mon expérience à l'université Paul Valéry de Montpellier le 23 novembre à 17 heures. Occasion de déterrer deux chapitres inédits où j'évoque notre rencontre.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/11/susca.jpg)
+![](https://tcrouzet.com/images_tc/2012/11/susca.jpg)
 
 ### Les magiciennes
 
@@ -124,6 +124,6 @@ Je ne suis pas aussi résigné. Pourtant, sur le Net, je me suis rendu esclave d
 
 Que dois-je faire pour la reconquérir ? Ma quête se précise. Spinoza conseille d’apprendre à connaître ses plaisirs, à évaluer leur toxicité, à les remplacer par des plaisirs insurpassables. Je descends dans le jardin, je regarde la brise agiter les arbres, je cligne des yeux au soleil. Je suis encore une fois sans appétence, proche du satori. Mon agenda s’est peu à peu vidé. Je n’ai plus de rendez-vous. Je dois travailler sur moi-même.
 
-PS : J'ai coupé ces deux chapitres parce qu'ils étaient trop théoriques par rapport au reste de [*J'ai débranché*](http://blog.tcrouzet.com/jai-debranche/).
+PS : J'ai coupé ces deux chapitres parce qu'ils étaient trop théoriques par rapport au reste de [*J'ai débranché*](/jai-debranche/).
 
 Tags: Conf, J'ai débranché, NetCulture, une

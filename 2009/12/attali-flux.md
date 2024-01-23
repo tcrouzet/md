@@ -8,13 +8,13 @@ Attali part du constat que nous avons été nomades pour l’essentiel de notre 
 
 Dans les deux dernières parties, Attali prend enfin la parole et tombe dans son travers habituel : « Il semble aujourd’hui possible de discerner l’avenir le plus lointain *sans rien connaître du détail des prochains évènements*. » Noter la façon adroite de retomber sur ses pieds pour ne pas être pris en faute flagrante.
 
-J’ai déjà souvent dit [combien je trouvais cette rhétorique malhonnête](http://blog.tcrouzet.com/2006/11/28/bonne-partie-de-rigolade/). Jouer à prévoir l’avenir pourquoi pas mais annoncer que c’est une science, c’est insupportable, une façon de berner les imbéciles. En plus ça fait vendre parce que les gens attendent des oracles.
+J’ai déjà souvent dit [combien je trouvais cette rhétorique malhonnête](/2006/11/28/bonne-partie-de-rigolade/). Jouer à prévoir l’avenir pourquoi pas mais annoncer que c’est une science, c’est insupportable, une façon de berner les imbéciles. En plus ça fait vendre parce que les gens attendent des oracles.
 
 Je suis un popperien. Est scientifique une théorie falsifiable. Les prévisions d’Attali ne le sont pas car il faut attendre l’avenir, toujours situé loin, pour savoir s’il aura raison. Nous ne pouvons nous-mêmes les falsifier et, le jour où ce sera possible, Attali ne sera plus là. Tout le monde s’en fichera. En conséquence, Attali abuse de la technique.
 
 On ne peut prévoir que les évolutions linéaires, celles qui reviennent à prolonger les courbes existantes. Mais face à des bouleversements historiques cette méthode est vaine. Ainsi dans ce livre de 2003 Attali passe à côté de la crise du capitalisme. Il croit que les entreprises dépasseront les États, se déferont d’eux. C’est tout le contraire qui s’est produit avec les banques en 2008 et ça recommencera (est-ce un détail ?).
 
-Attali imagine la fusion des sédentaires et des nomades, il parle de transhumains. Moi je crois que nous basculons déjà dans un état qui intègre et transcende le sédentarisme et le nomadisme. C’est le « transcende » qui est important. Quelle est la nouveauté radicale, celle qui provoque la rupture, celle qui équivaut à la sédentarisation à l’époque néolithique ? [Le flux.](http://blog.tcrouzet.com/tag/flux/) Le fait que l’information soit en train de devenir liquide.
+Attali imagine la fusion des sédentaires et des nomades, il parle de transhumains. Moi je crois que nous basculons déjà dans un état qui intègre et transcende le sédentarisme et le nomadisme. C’est le « transcende » qui est important. Quelle est la nouveauté radicale, celle qui provoque la rupture, celle qui équivaut à la sédentarisation à l’époque néolithique ? [Le flux.](/tag/flux/) Le fait que l’information soit en train de devenir liquide.
 
 Attali nous décrit un monde où le flux n’existe pas. Il évoque bien le nomadisme virtuel grâce à Internet mais il ne voit pas que nous avons inventé un nouveau territoire où nous nomadiser, un territoire qui pour nous n’a rien de virtuel. Ce texte est-il virtuel ? Êtes-vous virtuels ?
 

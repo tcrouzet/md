@@ -1,6 +1,6 @@
 # Qu’est-ce que l’interdépendance
 
-Je parle de plus en plus osuvent [d’interdépendance](http://blog.tcrouzet.com/2006/06/27/declaration-d%e2%80%99interdependance/) mais je n’ai pas défini l’interdépendance. Je ne l’ai pas fait parce que je crois qu’il est impossible de définir avec précision ce dont on parle.
+Je parle de plus en plus osuvent [d’interdépendance](/2006/06/27/declaration-d%e2%80%99interdependance/) mais je n’ai pas défini l’interdépendance. Je ne l’ai pas fait parce que je crois qu’il est impossible de définir avec précision ce dont on parle.
 
 Comme l’a montré Wittgenstein, toute définition se dissout sur ses frontières. Il suffit pour se comprendre d’avoir une idée du cœur de la chose. Ainsi nous nous comprenons lorsque nous parlons de la conscience alors que personne n’a jamais réussi à définir la conscience. Même la vie n’a jamais été définie de façon satisfaisante. On peut toutefois essayer de donner des exemples pour préciser l’image de la chose dont on parle. Alors c’est quoi l’interdépendance ?
 
@@ -20,7 +20,7 @@ Force est de constater que les approches globales n’apportent pas vraiment de 
 
 Le problème n’est pas là : toute solution globale est mauvaise dans un monde interdépendant. Il faut abandonner l’approche globale au profit de l’approche locale. Les problèmes globaux seront solutionnés par des millions de solutions locales.
 
-Pour éviter le réchauffement climatique, certains disent qu’il faut construire des écocités partout dans les campagnes. C’est l’exemple type d’une solution particulière qui devrait être appliquée globalement sans que nous ayons la moindre preuve de son efficacité. Il faut faire le contraire. Essayer diverses solutions localement, les comparer, les mettre à l’épreuve. Tout cela peut paraître abstrait mais c’est en fait [concret](http://blog.tcrouzet.com/2006/05/14/que-faire/).
+Pour éviter le réchauffement climatique, certains disent qu’il faut construire des écocités partout dans les campagnes. C’est l’exemple type d’une solution particulière qui devrait être appliquée globalement sans que nous ayons la moindre preuve de son efficacité. Il faut faire le contraire. Essayer diverses solutions localement, les comparer, les mettre à l’épreuve. Tout cela peut paraître abstrait mais c’est en fait [concret](/2006/05/14/que-faire/).
 
 Je vais installer chez moi une chaudière solaire et des panneaux photovoltaïques. C’est une action locale. Chaque fois que des gens viendront chez moi, je leur montrerai mon installation. Ils auront peut-être envie de m’imiter. Nous n’avons pas besoin d’attendre que l’État nous ordonne de passer au solaire globalement, nous pouvons le faire maintenant. Peu importe, si ça nous coûte. Agir, ça coûte toujours.
 
@@ -30,6 +30,6 @@ La plupart des gens que je rencontre reconnaissent notre interdépendance mais p
 
 La situation est grave, nous n’avons pas le temps d’attendre que l’État providence se réveille. Nous devons investir dans l’avenir chacun avec nos moyens. Si l’espèce humaine perturbe la biosphère, c’est avant tout parce que chacun de nous est un pollueur. Nous sommes responsables.
 
-L’État est irresponsable car il ne veut pas s’appuyer sur notre responsabilité. Il veut nous en déposséder en proposant une poignée de solutions particulières, pour ne pas dire partisanes, à des problèmes globaux. Nous ne devons pas l’imiter. [L’État doit changer de rôle](http://blog.tcrouzet.com/2006/07/04/interdependance-ou-etat/).
+L’État est irresponsable car il ne veut pas s’appuyer sur notre responsabilité. Il veut nous en déposséder en proposant une poignée de solutions particulières, pour ne pas dire partisanes, à des problèmes globaux. Nous ne devons pas l’imiter. [L’État doit changer de rôle](/2006/07/04/interdependance-ou-etat/).
 
 Tags: Politique

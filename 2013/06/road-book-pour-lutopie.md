@@ -2,7 +2,7 @@
 
 Je tombe sur une liste jamais achevée. Commencée il y a trop longtemps pour l’être. C’est une sorte de canevas politique de ce qui pourrait être le point de départ d’une fiction prospectiviste.
 
-1/ La liberté s’accroît avec la complexité de la société (démonstration dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/)).
+1/ La liberté s’accroît avec la complexité de la société (démonstration dans [*L’alternative nomade*](/alternative-nomade/)).
 
 2/ C’est une liberté pour tous… ce qui n’implique pas l’égalité, sinon dans le potentiel d’usage de cette liberté (je ne crois pas à l’égalité, je ne crois même pas qu’elle soit souhaitable… ce qui n’empêche pas de lutter contre les inégalités).
 

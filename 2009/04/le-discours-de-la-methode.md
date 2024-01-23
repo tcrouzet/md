@@ -2,7 +2,7 @@
 
 
 
-![ht_insidebody_cg_4_070905_ssh11](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/04/ht_insidebody_cg_4_070905_ssh11-450x348.jpg)
+![ht_insidebody_cg_4_070905_ssh11](https://tcrouzet.com/images_tc/2009/04/ht_insidebody_cg_4_070905_ssh11-450x348.jpg)
 
 Il m’arrive souvent d’avoir l’impression de ne pas être clair, surtout pour ceux qui me lisent et me commentent le plus. Je suis plutôt pragmatique. 1/ Je pars d’observations. 2/ Je fais quelques hypothèses plutôt étayées par des avancées scientifiques. 3/ Je me dis alors qu’il faut tenir compte de tout cela et essayer des solutions. Dire qu’on préfère la logique de l’ancien monde plutôt que celle du nouveau est totalement absurde. Le nouveau monde est là, nous devons apprendre à y vivre ensemble.
 
@@ -10,7 +10,7 @@ Il m’arrive souvent d’avoir l’impression de ne pas être clair, surtout po
 
 1. Notre monde traverse une phase unique de son histoire : en une échelle de temps relativement courte, les hommes ont un impact de grande amplitude sur la biosphère. Cette situation nouvelle, l’interdépendance massive, s’accompagne de problèmes nouveaux (dérèglements climatiques, pénurie de matière première, appauvrissement de la biodiversité, nécessité de changer de technologie...).
 
-2. Nous sommes les héritiers de la renaissance et de la révolution industrielle, nous occidentaux vivons majoritairement dans la civilisation moderniste comme l’appelle les tenants de l’integral philosophy. Cette civilisation s’est développée en s’appuyant sur le paradigme réductionniste formulée par Descartes. Nous avons appris à construire des [systèmes compliqués](http://blog.tcrouzet.com/2009/04/17/complexe-ou-complique/) : usines, avions, ordinateurs, programmes…
+2. Nous sommes les héritiers de la renaissance et de la révolution industrielle, nous occidentaux vivons majoritairement dans la civilisation moderniste comme l’appelle les tenants de l’integral philosophy. Cette civilisation s’est développée en s’appuyant sur le paradigme réductionniste formulée par Descartes. Nous avons appris à construire des [systèmes compliqués](/2009/04/17/complexe-ou-complique/) : usines, avions, ordinateurs, programmes…
 
 3. Depuis la sédentarisation, les sociétés humaines se sont hiérarchisées, jusqu’à atteindre avec la révolution industrielle le degré de hiérarchie que nous connaissons aujourd’hui. Cette forme d’organisation, notamment dans les gouvernements et les entreprises, nous a aidés à traverser bien des épreuves et à construire le monde que nous connaissons.
 

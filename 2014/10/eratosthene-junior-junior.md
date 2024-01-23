@@ -16,7 +16,7 @@ L’auteur aurait pu affubler son héros de l’habit du débatteur, querelleur,
 
 Le moindre des intérêts n’est pas celui des pages terminales, exclusives à la version électronique. Éclairantes à bien des égards. Crouzet ne veut oublier aucun de ses combats et s’empare de l’occasion pour enfoncer des clous. Entre ceux qui ne jurent que par le papier et ceux qui ne lâchent plus l’électronique, chacun continue à se fabriquer des carcans. Pour ma part, j’adopte la tablette à peine découverte. Et je profite du fait qu’il existe encore le livre en librairie pour l’offrir aux amis, afin de leur faire découvrir cet auteur original, atypique, éclectique, généraliste… Thierry Crouzet, Ératosthène-Junior-Junior.
 
-![Photo Stan Jourdan et Camille L](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/stan-panthe.jpg)
+![Photo Stan Jourdan et Camille L](https://tcrouzet.com/images_tc/2014/10/stan-panthe.jpg)
 
 
 

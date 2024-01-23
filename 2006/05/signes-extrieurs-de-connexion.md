@@ -18,7 +18,7 @@ Bien sûr personne n'est encore totalement connecteur, personne ne s'est libér�
 
 7. Multiplication des services de [social networking](http://www.bonweb.com/internet/social-networking-discussion.php) et surtout des utilisateurs de ces services.
 
-8. Tous ces moyens de connexion entraînent une diminution du nombre de degrés de séparation entre les gens (voir la [préface](http://blog.tcrouzet.com/peuple/seconde-edition-35719) du *peuple des connecteurs* ). Je crois que nous rencontrons, par hasard ou non, de plus en plus souvent des gens qui connaissent nos amis. En tous cas, c'est mon cas.
+8. Tous ces moyens de connexion entraînent une diminution du nombre de degrés de séparation entre les gens (voir la [préface](/peuple/seconde-edition-35719) du *peuple des connecteurs* ). Je crois que nous rencontrons, par hasard ou non, de plus en plus souvent des gens qui connaissent nos amis. En tous cas, c'est mon cas.
 
 9. Cette densification des réseaux sociaux est illustrée par les manifestations du premier mai dernier, auto-organisées par les latinos aux États-Unis. C'est [Lorenzo](http://lorenzo.soccavo.free.fr/) qui m'a soufflé cette actu publiée par [Pisani](http://pisani.blog.lemonde.fr/pisani/2006/05/un_1<sup>er</sup>_mai_lati.html). Plus besoin de chef, de leader charismatique, de parti...
 

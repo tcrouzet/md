@@ -12,21 +12,21 @@ Aujourd’hui, j’ai trois sources de lecteurs :
 
 3. Les visiteurs directs du blog, a priori les plus nombreux. Bien sûr, je peux m’en référer à Google Analytics, le service de référence. Sur les 30 derniers jours, 17 000 visiteurs uniques. Dans le même temps, CloudFlare qui utilise des stats serveurs voit 44 000 visiteurs uniques, 2,5 fois plus ! Résultat qui s’explique parce que Google utilise des scripts pas toujours chargés par les navigateurs, mais aussi parce qu’il ne prend pas en compte les agrégateurs, j’imagine, surtout s'ils font de la mise en cache (et dans ce cas CloudFlare est tout aussi impuissant).
 
-Tout cela est très flou. Disons que mon blog voit passer du monde, sans que je sache trop qu’en dire. Au final, le trafic global n’a aucun intérêt. Je m’intéresse uniquement au trafic relatif entre les billets, pour constater chaque fois que les textes qui comptent le plus pour moi, [mes vagabondages par exemple](http://blog.tcrouzet.com/tag/vagabondage/), sont les moins lus.
+Tout cela est très flou. Disons que mon blog voit passer du monde, sans que je sache trop qu’en dire. Au final, le trafic global n’a aucun intérêt. Je m’intéresse uniquement au trafic relatif entre les billets, pour constater chaque fois que les textes qui comptent le plus pour moi, [mes vagabondages par exemple](/tag/vagabondage/), sont les moins lus.
 
 Je peux oser une dernière comparaison. En moyenne selon Google, mes lecteurs ouvrent 20 000 sessions/mois avec un temps moyen par session de 1:18, soit au total 433 heures de lectures. Sans trop me tromper, en majorant avec la newletter et les agrégateurs et au regard des chiffres de CloudFlare, je peux considérer que mes lecteurs consacrent au moins deux fois plus de temps par mois à mon blog, disons 1 000 heures.
 
 Si on suppose une vitesse de lecture moyenne de 25 caractères/seconde, un roman de 300 pages se lit en 4h30 environ. En temps de lecture, mon blog vaut 220 romans lus/mois ou 2 500 romans lus/an. Soit un auteur au seuil de la rentabilité pour un éditeur. Cette analyse remet les choses à leur place. Pas de quoi avoir la grosse tête ni se sentir ridicule.
 
-![Abonnements newletter et agrégateurs.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/stat1.png)
+![Abonnements newletter et agrégateurs.](https://tcrouzet.com/images_tc/2014/11/stat1.png)
 
 Abonnements newletter et agrégateurs.
 
-![Statistiques Google.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/stat2.png)
+![Statistiques Google.](https://tcrouzet.com/images_tc/2014/11/stat2.png)
 
 Statistiques Google.
 
-![Statistiques CloudFlare.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/stat3.png)
+![Statistiques CloudFlare.](https://tcrouzet.com/images_tc/2014/11/stat3.png)
 
 Statistiques CloudFlare.
 

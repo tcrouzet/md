@@ -8,21 +8,21 @@ Personne n’avait anticipé qu’Internet succomberait à une autre attaque, ce
 
 J’ai songé après coup à une petite expérience de pensée. Imaginons deux neurones quasiment identiques, l’un doté d’une connexion avec le reste du réseau (Neurone 1), l’autre de deux connexions (Neurone 2). Supposons que chaque jour, les connexions existantes soient capables d’en créer une nouvelle. On constate qu’au bout d’un mois de croissance, le Neurone 2 a pris ses distances (rien de très surprenant). Mais en terme de part de marché, nous sommes toujours à 1/3 des connexions pour le Neurone 1, 2/3 pour le Neurone 2.
 
-![Nombre de connexions double chaque jour.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/graph1.png)
+![Nombre de connexions double chaque jour.](https://tcrouzet.com/images_tc/2014/11/graph1.png)
 
 Cette première expérience ignore un fait fondamental : l’espace des connexions disponibles n’est infini qu’en théorie. Chaque jour, le réseau n'accepte qu’un nombre fini de nouvelles connexions. Plus il y a de connexions, plus leur coût/énergie d’acquisition augmente (par exemple de 10 %/jour). La somme d’argent/énergie disponible pour acheter des connexions étant proportionnelle au nombre de connexions déjà crées (en quelque sorte, elles minent des ressources).
 
-![Le prix de la connexion augmente de 10 %/jour.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/graph2.png)
+![Le prix de la connexion augmente de 10 %/jour.](https://tcrouzet.com/images_tc/2014/11/graph2.png)
 
 On constate une amplification beaucoup plus grande de la petite différence initiale. Le Neurone 1 ne détient plus que 28 % du marché. Si maintenant les prix augmentent plus vite, l’acteur légèrement avantagé au départ se retrouve maître du monde. Si les prix augmentent de 40 %, le Neurone 1 ne détient plus que 20 % au bout d’un mois. À partir de 60 % d’augmentation, seul l’acteur prédominant à l’origine continue de croître. Le Neurone 1 tombe à 6 % de part de marché.
 
-![Plus 40 % par jour.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/graph3.png)
+![Plus 40 % par jour.](https://tcrouzet.com/images_tc/2014/11/graph3.png)
 
-![Plus 60 % par jour.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/graph4.png)
+![Plus 60 % par jour.](https://tcrouzet.com/images_tc/2014/11/graph4.png)
 
 Pire, si le volume de connexions est limité, le neurone dominant commence à rogner les connexions du neurone inférieur qu’il rachète peu à peu jusqu’à l’avaler. Nous en sommes à ce stade avec Internet. Quelques winners ont raflé la mise et continuent d’engloutir les nouveaux liens tels des trous noirs.
 
-![Inflation](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/11/inflation-600x557.jpg)
+![Inflation](https://tcrouzet.com/images_tc/2014/11/inflation-600x557.jpg)
 
 Je peux risquer une comparaison avec la théorie de l’inflation en physique. Juste après le big bang, une brusque expansion plus rapide que la vitesse de la lumière aurait amplifié les fluctuations quantiques initiales, créant des vides et des pleins dans l’univers, et rendant par la suite possible la formation des structures stellaires sous l’effet de la gravité.
 
@@ -50,7 +50,7 @@ Au regard de ce crible, Internet n’est de toute évidence pas légitime. Des a
 
 Même le monde du logiciel libre n'est pas légitime, la seconde règle n'étant pas respectée puisque les développeurs ont le privilège de pouvoir modifier le code. Certes, moi simple utilisateur, je peux faire confiance à un informaticien comme le suggère Stallmann, mais avec quel degré de confiance ?
 
-Plus grave, comme Internet englobe toute la sphère marchande et culturelle, on retrouve l’inflation partout, jusque dans la littérature où le premier cancre venu se retrouve propulsé au Panthéon. Ni plus ni moins que par un coup de chance. Voulons-nous d'un monde où nos idoles sont tirées au sort ? Vous comprenez peut-être mieux pourquoi la proposition d'[Étienne Chouard](http://blog.tcrouzet.com/tag/chouard/) d'un tirage au sort de nos constitutionnalistes me fait sourire. Depuis l'avènement d'Internet et des réseaux, tout est tiré au sort et je n'aime guère la tournure des événements.
+Plus grave, comme Internet englobe toute la sphère marchande et culturelle, on retrouve l’inflation partout, jusque dans la littérature où le premier cancre venu se retrouve propulsé au Panthéon. Ni plus ni moins que par un coup de chance. Voulons-nous d'un monde où nos idoles sont tirées au sort ? Vous comprenez peut-être mieux pourquoi la proposition d'[Étienne Chouard](/tag/chouard/) d'un tirage au sort de nos constitutionnalistes me fait sourire. Depuis l'avènement d'Internet et des réseaux, tout est tiré au sort et je n'aime guère la tournure des événements.
 
 Ne me dites pas que c’était semblable avant. On avait alors des progressions linéaires, voire géométriques, désormais nous avons passé la vitesse exponentielle de l'inflation. Que faire ? Pas d'autres choix que gouverner, reprendre le pouvoir collectivement, en gardant en tête le crible de légitimité.
 
@@ -58,6 +58,6 @@ Le plus grave serait de nier la loi winner-take-all. Ce serait comme nier la gra
 
 *PS1 : Une assemblée constituante tirée au sort ne serait pas légitime. Le A tiré au sort n'est pas traité comme le B qui ne l'est pas. Il peut écrire la constitution alors que B ne le peut pas. Mais oui, ce système est plus légitime que le modèle électif actuel, qui lui ne respecte même pas la première règle.*
 
-*PS2 : L'inflation fabrique des best-sellers et neutralise les autres contenus culturels. Plutôt qu'allonger [la traîne comme l'avait supposé Chris Anderson](http://blog.tcrouzet.com/tag/long-tail/), elle la raccourcit.*
+*PS2 : L'inflation fabrique des best-sellers et neutralise les autres contenus culturels. Plutôt qu'allonger [la traîne comme l'avait supposé Chris Anderson](/tag/long-tail/), elle la raccourcit.*
 
 Tags: Chouard, Conf, Long tail, NetCulture, une, winner-take-all

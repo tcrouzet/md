@@ -2,15 +2,15 @@
 
 
 
-### Ils en parlent de [*La tune dans le caniveau*](http://blog.tcrouzet.com/tune-caniveau/)
+### Ils en parlent de [*La tune dans le caniveau*](/tune-caniveau/)
 
 [Présentation du texte chez Numériklivres...](http://numeriklivres.tumblr.com/post/1305242754/avec-la-tune-dans-le-caniveau-thierry-crouzet-a)
 
-[Communiqué de presse de Numériklivres...](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/10/Com_Tune.pdf)
+[Communiqué de presse de Numériklivres...](https://tcrouzet.com/images_tc/2010/10/Com_Tune.pdf)
 
 [Le Monde](http://www.blogoz.fr/2010/11/05/lexperience-inedite-de-thierry-crouzet/) (31/10/2010)
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/11/59554336_p1.jpg)
+![](https://tcrouzet.com/images_tc/2010/11/59554336_p1.jpg)
 
 [babelio.com](http://www.babelio.com/livres/Crouzet-La-tune-dans-le-caniveau/213810)
 

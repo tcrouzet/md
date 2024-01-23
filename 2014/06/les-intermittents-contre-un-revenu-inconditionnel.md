@@ -2,7 +2,7 @@
 
 La discussion avec [quelques intermittents](https://www.facebook.com/carolefabre1/posts/10152233215573865) m’a montré que nous autres défenseurs du revenu de base (RdB) avons encore un immense travail à effectuer pour expliquer nos idées qui, paradoxalement, se heurtent de plein fouet aux survivances du marxisme.
 
-Première chose. Les marxistes font corps. Forment une meute prête à se jeter sur leurs adversaires. Les défenseurs du revenu de base ne viennent pas au secours des autres défenseurs. Je connais la fatigue de répéter sans cesse les mêmes choses, mais la fatigue équivaut à un renoncement. [Voilà peut-être pourquoi la lutte littéraire sera plus douce, et au final plus pédagogique.](http://blog.tcrouzet.com/2014/06/14/chroniques-au-temps-du-revenu-de-base/)
+Première chose. Les marxistes font corps. Forment une meute prête à se jeter sur leurs adversaires. Les défenseurs du revenu de base ne viennent pas au secours des autres défenseurs. Je connais la fatigue de répéter sans cesse les mêmes choses, mais la fatigue équivaut à un renoncement. [Voilà peut-être pourquoi la lutte littéraire sera plus douce, et au final plus pédagogique.](/2014/06/14/chroniques-au-temps-du-revenu-de-base/)
 
 En attendant, il faut saisir toutes les occasions d’expliquer et de se confronter aux autres. Voilà ce que j’ai compris [des propositions des intermittents](http://www.cip-idf.org/IMG/pdf/NMlong.pdf). Elles se résument en une ligne de code :
 

@@ -1,6 +1,6 @@
 # L’art du premier paragraphe
 
-Je cherche [deux ebooks de Gardner sur l’art d’écrire](http://blog.tcrouzet.com/2014/08/18/livres-lus-ingeres-oublies/), pour les récupérer j’en télécharge des centaines d’autres sur le même sujet. C’est une avalanche. Plusieurs critiques pointent vers *Stein on Writing*, un essai de [Sol Stein](http://en.wikipedia.org/wiki/Sol_Stein), un des plus fameux éditeurs américains.
+Je cherche [deux ebooks de Gardner sur l’art d’écrire](/2014/08/18/livres-lus-ingeres-oublies/), pour les récupérer j’en télécharge des centaines d’autres sur le même sujet. C’est une avalanche. Plusieurs critiques pointent vers *Stein on Writing*, un essai de [Sol Stein](http://en.wikipedia.org/wiki/Sol_Stein), un des plus fameux éditeurs américains.
 
 Vous vous dites peut-être qu’à mon âge, c’est trop tard. Au contraire. Avec l’âge le corps et le cerveau se transforment. Des choses jadis intuitives deviennent plus difficiles, d’autres au contraire qui paraissaient impossibles deviennent envisageables, à condition de s’entraîner adéquatement. Je me suis donc laissé prendre par Sol Stein.
 
@@ -10,7 +10,7 @@ Je n’ai pour l’instant rien appris de décisif, mais lu des choses de bon se
 
 > Voici les objectifs du paragraphe d’ouverture. 1/ Éveiller la curiosité du lecteur, de préférence en évoquant un personnage ou une relation entre personnages. 2/ Poser le contexte. 3/ Mettre en résonnance l’histoire.
 
-Sol Stein donne des exemples. En voici deux, made in Crouzet. [*Le Geste qui sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/) commence par :
+Sol Stein donne des exemples. En voici deux, made in Crouzet. [*Le Geste qui sauve*](/le-geste-qui-sauve/) commence par :
 
 > Mi-mars 2012, je reçois un appel inattendu de Genève : « J’ai rencontré un toubib extraordinaire », me crie mon amie Geneviève. Elle parle haut, l’enthousiasme la déborde, l’émotion étrangle sa voix d’habitude rauque. « C’est incroyable. Il faut que tu écrives sa vie. La reine d’Angleterre l’a fait Commander, mais personne ne le connaît, même chez nous en Suisse. Il est sur la liste des nobélisables pour la Paix. Ce professeur de médecine sauve chaque année des millions de vies. »
 
@@ -22,7 +22,7 @@ J’ai respecté, il me semble, le cahier des charges.
 
 3. Projection : tout au long du récit, il sera question de sauver des millions de vies.
 
-Côté [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/), ça donne :
+Côté [*Ératosthène*](/eratosthene/), ça donne :
 
 > Aux premières gelées, les étourneaux s’amassent en nuées charbonneuses. Ils volent plein sud, poussés par le vent brumeux au-dessus des steppes de Scythie, des forêts germaniques, des fleuves Rhin et Rhône et des pinèdes de la péninsule italique. Ils franchissent le détroit de Messine, frôlent les remparts de Syracuse, se jettent à la verticale de la mer Intérieure. Lorsqu’ils atteignent Carthage, ils s’échevellent vers l’ouest et la Maurétanie, vers l’est et la Libye où ils s’abattent sur les champs de fenouil, vastes damiers striant la plaine littorale entre le port d’Apollonia et les contreforts des montagnes Vertes.
 

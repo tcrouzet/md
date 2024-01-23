@@ -14,7 +14,7 @@ Internet peut nous aider à changer le monde, vite, radicalement, mais nous ne l
 
 Il ne reste qu’à déménager vers une campagne plus paisible. Je me pose de plus en plus souvent cette question. Qu’est-ce que je dois garder du Net d’aujourd’hui ? Comment me protéger du tumulte ? Comment ralentir le temps ? J'ai quitté les capitales, elles m'ont rattrapées au bord de mon étang.
 
-![La Gardiole - mon Vert Paradis, photographié lors d'une balade avec Isa lundi 25/3/2013](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/03/f29e8ee4954511e295bf22000a9f390a_71.jpg)
+![La Gardiole - mon Vert Paradis, photographié lors d'une balade avec Isa lundi 25/3/2013](https://tcrouzet.com/images_tc/2013/03/f29e8ee4954511e295bf22000a9f390a_71.jpg)
 
 J’ai assisté la semaine dernière à une lecture de *Vert Paradis* de Max Rouquette. J’ai plongé dans le temps de mon enfance, un temps long que les technologies numériques nous dérobent si nous n’y prenons garde. J’ai besoin de revenir à la contemplation, de ralentir ma vie. Ça implique réduire les inputs médiatiques désordonnés, harmoniser les flux, les sensations, les sentiments… réapprendre à occuper l’instant, tout en étant plus proche physiquement de ceux avec qui j’interagis.
 

@@ -14,11 +14,11 @@ Nous sommes attachés à l’hébergement parce que métaphoriquement on sous-en
 
 Je ne vois aucune bonne raison de faire ainsi, sinon à vouloir contrôler mon audience, la mesurer, l’enfermer exactement comme toutes les plateformes sous copyright. Je tente donc de façon très maladroite et artisanale de multiplier les projections, tout en sachant qu’il est possible d’aller bien plus loin.
 
-Exemple avec [*1 minute*](http://www.wattpad.com/story/29694130-1-minute). Je propulse initialement sur le blog, qui reste ma fusée de lancement, mais immédiatement sur Wattpad, puis [en différé par mail et en ebook](http://blog.tcrouzet.com/une-minute/). Bien sûr ça pose des problèmes techniques. La moindre correction doit être reportée en plusieurs endroits. Mais rêvons un peu. Demain nous réussirons à synchroniser les instances d’une projection, de sorte que d’un point d’édition les modifications se propagent.
+Exemple avec [*1 minute*](http://www.wattpad.com/story/29694130-1-minute). Je propulse initialement sur le blog, qui reste ma fusée de lancement, mais immédiatement sur Wattpad, puis [en différé par mail et en ebook](/une-minute/). Bien sûr ça pose des problèmes techniques. La moindre correction doit être reportée en plusieurs endroits. Mais rêvons un peu. Demain nous réussirons à synchroniser les instances d’une projection, de sorte que d’un point d’édition les modifications se propagent.
 
 Si j’étais moins fainéant, je publierais mes minutes comme mes billets sur tous les supports possibles, sur toutes les plateformes de lecture. Je voudrais tendre vers cette dissémination, primo parce que mes lecteurs ne m’appartiennent pas, deuxio parce que je n’ai pas à leur imposer de venir en mes murs.
 
-François a raison de critiquer les plateformes. Depuis des années, j’alerte contre [les dangers de plateformisation du Web](http://blog.tcrouzet.com/2014/09/16/la-fin-de-lartisanat-numerique/), mais je ne veux pas, à mon échelle, imiter leur stratégie, faire de mon blog une nouvelle plateforme centralisée.
+François a raison de critiquer les plateformes. Depuis des années, j’alerte contre [les dangers de plateformisation du Web](/2014/09/16/la-fin-de-lartisanat-numerique/), mais je ne veux pas, à mon échelle, imiter leur stratégie, faire de mon blog une nouvelle plateforme centralisée.
 
 Les livres ont cela de génial qu’on peut les lire partout, que souvent un même texte existe en différents formats, et cette diversité ne cesse de se démultiplier avec le numérique. Je veux offrir à tous mes textes la même fluidité, et même l’accroître. Et c’est parce que la source Web de la création est fondamentale que justement nous ne devons pas l’enfermer chez nous. Nous devons libérer nos créations sous toutes les projections envisageables en fonction des possibilités techniques.
 
@@ -46,7 +46,7 @@ J’aime la formule partagée par Bouvier et Chatwin. Ils avaient besoin d’un 
 
 *PS2 : Je propulse automatiquement ce billet sur Facebook, Google+, Linkedin, Tumblr… grâce à IFTTT. Vous le lirez où et quand vous le voudrez.*
 
-![Ma base de lancement…](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/08/ifttt.png)
+![Ma base de lancement…](https://tcrouzet.com/images_tc/2015/08/ifttt.png)
 
 Ma base de lancement…
 

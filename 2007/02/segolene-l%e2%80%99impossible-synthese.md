@@ -10,7 +10,7 @@ En 2003, aux États-Unis, Howard Dean commit la même erreur lors des primaires 
 
 Personnellement, j’admire un tel discours, comme j’ai admiré celui de Ségolène pendant un an. Aux États-Unis, on parle de mouvement *bottom-up* ou *grass root*, le principe étant que les idées remontent de la base et se consolident peu à peu dans une logique purement participative.
 
-Aujourd’hui, la technologie nous permet d’envisager un tel mode politique. Dans [Le cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), j’ai essayé de montrer comment chacun de nous pouvait dès lors jouer un rôle dans la vie de la cité. Cette capacité que nous avons de prendre le pouvoir laisse présager des bouleversements politiques sans précédent… mais ce n’est pas Ségolène Royal qui les initiera.
+Aujourd’hui, la technologie nous permet d’envisager un tel mode politique. Dans [Le cinquième pouvoir](/le-cinquieme-pouvoir/), j’ai essayé de montrer comment chacun de nous pouvait dès lors jouer un rôle dans la vie de la cité. Cette capacité que nous avons de prendre le pouvoir laisse présager des bouleversements politiques sans précédent… mais ce n’est pas Ségolène Royal qui les initiera.
 
 Le bottom-up n’est pas simple à mettre en œuvre. Il faut un cadre législatif capable de le laisser s'exprimer. Il ne suffit pas de donner la parole aux gens pour régler tous les problèmes. Howard Dean le comprit à ses dépends. Fin 2003, il fut incapable de résumer les idées qui étaient remontées de la base. Il fut incapable de leur redonner une cohérence avant de les faire redescendre. Ségolène Royal vient de tomber dans le même piège.
 

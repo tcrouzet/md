@@ -1,6 +1,6 @@
 # La fin des héros politiques
 
-Dans [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/), j'ai essayé de montrer que plus la société se complexifie plus l'exercice du pouvoir devient difficile. Je viens de découvrir une conséquence de cette proposition.
+Dans [*Le peuple des connecteurs*](/le-peuple-des-connecteurs/), j'ai essayé de montrer que plus la société se complexifie plus l'exercice du pouvoir devient difficile. Je viens de découvrir une conséquence de cette proposition.
 
 Les grands hommes politiques : Alexandre, Napoléon, Churchill, De Gaulle... se révèlent souvent, presque exclusivement, durant les conflits ou les catastrophes parce que, à ce moment, tous les hommes d'un camp agissent comme un seul homme : ils dessinent une structure sociale d'une simplicité qui rend possible l'exercice d'un pouvoir central.
 

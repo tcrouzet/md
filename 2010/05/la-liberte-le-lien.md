@@ -76,7 +76,7 @@ Nous nous trouvons dans une situation paradoxale et pas nécessairement intuitiv
 
 Je peux maintenant mettre bout à bout tous les théorèmes. La fluidification augmente la puissance d’agir, donc la liberté. Elle permet le processus d’individuation qui, à son tour, renforce la coopération. Une fois plus individué, on profite d’autant plus des possibilités offertes par la fluidification. Ce processus s’auto-entretient par feedback positif.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/05/liberta-450x175.png)
+![](https://tcrouzet.com/images_tc/2010/05/liberta-450x175.png)
 
 ### Le nomadisme
 
@@ -120,6 +120,6 @@ On peut bien sûr continuer à encourager les startups. Quel est leur principe 
 
 Est-ce la meilleure méthode pour accompagner la nomadisation croissante des individus ? Sans doute pas. Ils préfèrent se lier de manière coopérative et souple, souvent de façon informelle, interagissant sur des projets plutôt qu’à l’intérieur de structures définies. Ils se retrouvent sur le Net, dans les réseaux sociaux, où dans divers lieux, souvent des cafés, ces tiers-lieux qui maximisent l’interaction, la complexification, l’individuation… Pour stimuler l’innovation au xxie siècle, nous n’avons d’autre choix que de favoriser cet environnement adapté aux nomades.
 
-*PS : J'ai écrit ce texte, résumé d'un des arguments central de [*L'alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), à la demande de Geneviève Morand pour la [Revue Economique et Sociale](http://www.hec.unil.ch/sees/).*
+*PS : J'ai écrit ce texte, résumé d'un des arguments central de [*L'alternative nomade*](/alternative-nomade/), à la demande de Geneviève Morand pour la [Revue Economique et Sociale](http://www.hec.unil.ch/sees/).*
 
 Tags: Alternative nomade, Liberté

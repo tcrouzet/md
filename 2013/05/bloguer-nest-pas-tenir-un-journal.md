@@ -4,9 +4,9 @@ Les dédaigneux de la chose Web affirment souvent qu’un blog n’est qu’un j
 
 Vous vous doutez que je pense exactement le contraire. Les écrivains ratés d’aujourd’hui ne bloguent pas. Bloguer n’est certes pas une condition suffisante à la littérarité, mais tout au moins nécessaire.
 
-J’ai tenu un journal de 1980 à 2005. Je l’ai pratiquement interrompu quand je me suis mis à bloguer. De fait, j’ai souvent déclaré que le blog était la continuation de ce journal. Je viens de découvrir qu’il n’en est rien, en préparant l’édition numérique de [*Turista*](http://blog.tcrouzet.com/turista/), une autofiction écrite en 1999.
+J’ai tenu un journal de 1980 à 2005. Je l’ai pratiquement interrompu quand je me suis mis à bloguer. De fait, j’ai souvent déclaré que le blog était la continuation de ce journal. Je viens de découvrir qu’il n’en est rien, en préparant l’édition numérique de [*Turista*](/turista/), une autofiction écrite en 1999.
 
-![Turista](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/07/cover-500x800.jpg)
+![Turista](https://tcrouzet.com/images_tc/2010/07/cover-500x800.jpg)
 
 J’étais parti en voyage au Mexique avec une femme que je ne connaissais pas dans le seul but d’écrire le récit de cette passade. Et rien de ce que j’ai écrit, ou presque, je ne l’aurais publié dans mon blog.
 

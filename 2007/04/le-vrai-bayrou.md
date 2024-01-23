@@ -70,6 +70,6 @@ Ce reportage vidéo a été tourné pour un film sur la netcampagne qui sera dif
 
 ---
 
-PS : Ce texte est extrait de mon livre [Le cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/).
+PS : Ce texte est extrait de mon livre [Le cinquième pouvoir](/le-cinquieme-pouvoir/).
 
 [Article aussi publié sur Agoravox.](http://www.agoravox.fr/article.php3?id_article=22697)

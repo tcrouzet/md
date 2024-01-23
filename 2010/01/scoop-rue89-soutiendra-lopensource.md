@@ -18,11 +18,11 @@ Aujourd’hui, Daniel refuse les subventions, je le félicite, mais demain s’i
 
 Trop de coûts de structure. Et puis à quoi bon observer la télévision depuis Internet. Pourquoi se limiter à la télévision ? Je ressens une frustration, le regret de ne plus être à la TV, avec les moyens de la TV. Si une grande chaîne proposait à Daniel de revenir en live refuserait-il ? Je ne vais pas répondre à sa place.
 
-Mais pourquoi venir sur Internet pour regarder en arrière, vers le monde qui meurt alors qu’un monde devant se cristallise peu à peu : [le Flux](http://blog.tcrouzet.com/2010/01/04/lalternative-nomade-partie-1/).
+Mais pourquoi venir sur Internet pour regarder en arrière, vers le monde qui meurt alors qu’un monde devant se cristallise peu à peu : [le Flux](/2010/01/04/lalternative-nomade-partie-1/).
 
 Nous sommes tous dans le même bateau. Nous voyons que les anciennes façons de faire ne marchent plus, les nouvelles se cherchent un équilibre. Ce n’est pas une époque confortable mais c’est pour cette raison qu’elle est excitante.
 
-Subventions ou non, l’ancien modèle de la presse et le modèle actuel des pure-players est intenable. Par rapport aux blogueurs, [ils partent dans le rouge](http://blog.tcrouzet.com/2010/01/07/blogueur-gagne-journaliste/) et ils n’ont aucun avantage concurrentiel sur nous.
+Subventions ou non, l’ancien modèle de la presse et le modèle actuel des pure-players est intenable. Par rapport aux blogueurs, [ils partent dans le rouge](/2010/01/07/blogueur-gagne-journaliste/) et ils n’ont aucun avantage concurrentiel sur nous.
 
 Nous avons donc toutes les chances d’arriver dans le vert avant eux. Alors nous effectuerons les enquêtes qu’ils ne pourront plus faire, nous effectuerons le métier auquel ils tiennent tant mieux qu’ils n’arrivent à le faire. La diversité de nos voix garantira l’indépendance globale de ce que nous dirons. L’information sera enfin libre. Et la presse renaîtra de ses cendres sous une forme nouvelle.
 

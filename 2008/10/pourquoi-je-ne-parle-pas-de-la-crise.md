@@ -8,9 +8,9 @@ Dans Ne pas prévoir, je prétends que, dans un monde complexe, il est impossibl
 
 Un mec qui gagne à la bourse, c’est comme un mec qui gagne au loto. Est-ce que nous demandons aux gagnants du loto de nous faire de grandes théories politiques ou autres ? Non, ça ne nous vient pas à l’idée pourtant c’est ce que nous faisons avec nos économistes de tout poil.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/10/20081018.jpg)
+![](https://tcrouzet.com/images_tc/2008/10/20081018.jpg)
 
-D’autre part, la crise ne me surprend pas. Depuis 2006, stimulé par mon ami [François Collet](http://www.lafinducapitalisme.net/), j’évoque [l’absurdité de notre système économique](http://blog.tcrouzet.com/2006/05/30/croissance-illusoire/). [New Scientist vient de consacrer un dossier à ce sujet](http://www.newscientist.com/contents/issue/2678.html). La couverture du magazine parle d’elle-même. Il est évident que poursuivre la croissance quantitative n’a plus aucun sens. Nous devons nous engager dans le qualitatif. Est-ce que notre qualité de vie augmente ?
+D’autre part, la crise ne me surprend pas. Depuis 2006, stimulé par mon ami [François Collet](http://www.lafinducapitalisme.net/), j’évoque [l’absurdité de notre système économique](/2006/05/30/croissance-illusoire/). [New Scientist vient de consacrer un dossier à ce sujet](http://www.newscientist.com/contents/issue/2678.html). La couverture du magazine parle d’elle-même. Il est évident que poursuivre la croissance quantitative n’a plus aucun sens. Nous devons nous engager dans le qualitatif. Est-ce que notre qualité de vie augmente ?
 
 La crise actuelle aurait pu être l’occasion de réviser le système. Non, je vois déjà qu’on recolle les morceaux à l’aide des méthodes qui nous conduisent droit dans le mur : régulation, mesures globales, centralisation, croissance… Dans un monde complexe et saturé par nos présences, nous devons imaginer autre chose. Ces solutions du passé sont dépassées.
 

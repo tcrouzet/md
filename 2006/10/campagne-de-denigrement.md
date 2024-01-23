@@ -1,6 +1,6 @@
 # Campagne de dénigrement
 
-Dans mon prochain livre, je montrerai que [le cinquième pouvoir](http://blog.tcrouzet.com/2006/08/22/le-cinquieme-pouvoir/), dont la blogosphère est la partie émergée de l’iceberg, a un réel pouvoir. Je ne vais pas faire ici cette démonstration. Supposons donc pour la suite de ce billet que ce pouvoir soit réel.
+Dans mon prochain livre, je montrerai que [le cinquième pouvoir](/2006/08/22/le-cinquieme-pouvoir/), dont la blogosphère est la partie émergée de l’iceberg, a un réel pouvoir. Je ne vais pas faire ici cette démonstration. Supposons donc pour la suite de ce billet que ce pouvoir soit réel.
 
 Je crois alors que nous autres blogueurs devons être prudents et responsables. Quand je vois certains d’entre-nous s’étriper [plus ou moins gentiment, plus ou moins méchamment](http://embruns.net/blogosphere/laffaire_natacha_qs.html), je me dis que tout cela peut nous être reproché à un moment donné.
 

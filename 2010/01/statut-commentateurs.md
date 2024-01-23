@@ -20,6 +20,6 @@ Pour moi, le propulseur est autant l’auteur d’un contenu que celui qui en pa
 
 Par exemple, je ne crois qu’il ne faut différencier les producteurs d’information des propulseurs. On ne produit qu’en réaction à des évènements survenus dans notre vie. J’écris ce billet en réaction à vos commentaires, aux commentaires de Narvic et d’autres un peu partout. Je ne suis pas un producteur, je suis comme vous un propulseur, j’insuffle la vie dans le Flux.
 
-Titre du prochain billet : Faut-il un statut pour pouvoir discuter dans les cafés ? Notez que ce billet n'est qu'un commentaire du [précédent](http://blog.tcrouzet.com/2010/01/03/statut-blogueurs/), lui même du précédent. Créer des statuts peut entraîner une mise en abyme vertigineuse.
+Titre du prochain billet : Faut-il un statut pour pouvoir discuter dans les cafés ? Notez que ce billet n'est qu'un commentaire du [précédent](/2010/01/03/statut-blogueurs/), lui même du précédent. Créer des statuts peut entraîner une mise en abyme vertigineuse.
 
 Tags: NetCulture

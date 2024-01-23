@@ -2,7 +2,7 @@
 
 Donnez du pouvoir à quelqu’un, il tentera souvent d’en avoir plus. C’est ainsi que se lisent la carrière de presque tous les hommes politiques. De maire ils deviennent député, puis ministre, puis Président. Certains très lucides, comme Tony Blair, décident de tout lâcher en cours de route, avant que les échéances administratives ne les poussent à la retraite. Ils sont rares.
 
-![Par Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070819pacco.jpg)
+![Par Pacco](https://tcrouzet.com/images_tc/20070819pacco.jpg)
 
 Dans le business, les hommes d’affaires sont tout aussi accros au pouvoir bien que parfois ils hésitent entre le pouvoir et l’argent. Ainsi certains après avoir fait fortune ne rêvent que de créer de nouvelles entreprises, non pas pour refaire fortune, ce qui n’a plus de sens, mais pour s’accomplir au travers de l’accomplissement des employés sous leur responsabilité.
 

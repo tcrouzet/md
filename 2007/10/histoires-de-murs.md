@@ -1,6 +1,6 @@
 # Histoires de murs
 
-Samedi, j’ai enregistré ma [conférence de Mouans-Sartoux](http://blog.tcrouzet.com/2007/10/01/mouans-sartoux/) avec mon mobile. Le son n’est pas toujours terrible mais je dis peut-être les choses de manière moins formelle que d’habitude et les questions orientent la discussion un peu dans tous les sens, ce qui n’est pas pour me déplaire. Je n’ai pas réécouté car je déteste ma voix.
+Samedi, j’ai enregistré ma [conférence de Mouans-Sartoux](/2007/10/01/mouans-sartoux/) avec mon mobile. Le son n’est pas toujours terrible mais je dis peut-être les choses de manière moins formelle que d’habitude et les questions orientent la discussion un peu dans tous les sens, ce qui n’est pas pour me déplaire. Je n’ai pas réécouté car je déteste ma voix.
 
 \
 
@@ -10,7 +10,7 @@ Maintenant, je vais faire plaisir à [Pacco qui exige que je révèle ma vérita
 
 Elle m’a écrit en dédicace « Voici Christine, son âme, son cul et son mystère, encore plus grand… » Christine n’était pas le nom de la jeune femme. Elle signe [Max Monnehay](http://profile.myspace.com/index.cfm?fuseaction=user.viewprofile&friendid=131842959) et son bouquin s’appelle *Corpus Christine*. Il m’est tombé des mains après quelques pages.
 
-![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/pacco4.jpg)
+![Pacco](https://tcrouzet.com/images_tc/2007/10/pacco4.jpg)
 
 Mais bon, si je ressemble au [portrait que Pacco viens de faire de moi](http://www.fuckingkarma.com/2007/10/06/rhaaa-ces-journalistes), je comprends pourquoi cette jeune romancière ne m’a pas donné son téléphone en dédicace. Comme je suis le plus fidèle des hommes, je ne sais d’ailleurs pas ce que j’en aurais fait. J’aurais invité la belle à une de nos rencontres parisiennes et je l'aurais mise entre les mains de [Casabaldi](http://francescocasabaldi.typepad.com/) pour qu'il la transforme en freeWOmen. Je sens déjà qu’[Alex Karakartal](http://www.page2007.com) va essayer de la contacter pour faire son portrait mais [Thomas Clément est déjà passé par là il y a un an](http://clement.blogs.com/thomas_clment/2006/10/tomcast_018_max.html).
 
@@ -22,4 +22,4 @@ Son nom ne me dit rien : [Susan Georges](http://fr.wikipedia.org/wiki/Susan_Geo
 
 Cette maison se trouve à 5 minutes de chez moi ! Nous aurons donc l’occasion de discuter plus en profondeur. Il est urgent de connecter la liberté telle que je la définis avec la pensée alter qui elle aussi repose sur la liberté. Je crois que nous avons découvert les outils pour mettre en œuvre certaines de leurs idées.
 
-J'ai juste écrit ce billet pour illustrer la [sérendipité](http://blog.tcrouzet.com/2006/05/28/srendipit-naturelle/).
+J'ai juste écrit ce billet pour illustrer la [sérendipité](/2006/05/28/srendipit-naturelle/).

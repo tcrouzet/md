@@ -1,6 +1,6 @@
 # Connecteurs au positif
 
-On me reproche souvent de définir les [connecteurs](http://blog.tcrouzet.com/definitions/) négativement, voici une nouvelle définition :
+On me reproche souvent de définir les [connecteurs](/definitions/) négativement, voici une nouvelle définition :
 
 > Un connecteur est quelqu'un qui a pris conscience d'être connecté à tous les hommes comme à toutes les choses. Il appartient à un tout et cette appartenance lui confère une liberté inégalée, à commencer par celle d'imaginer une démocratie non représentative, une nouvelle façon de travailler, d'étudier, de vivre...
 

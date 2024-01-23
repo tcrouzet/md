@@ -2,7 +2,7 @@
 
 
 
-![Into the wild](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/11/wild.jpg)
+![Into the wild](https://tcrouzet.com/images_tc/2009/11/wild.jpg)
 
 Dans mon livre, j'évoque *Into the wild* de Krakauer. Près du corps de Christopher McCandless, les chasseurs d’élans retrouvent des livres, notamment *Le bonheur conjugal* de Tolstoï. Krakauer cite un des passages surligné par Christopher :
 

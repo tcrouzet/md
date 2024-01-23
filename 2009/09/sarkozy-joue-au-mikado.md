@@ -2,21 +2,21 @@
 
 
 
-![mikado 1](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/mikado2.jpg)
+![mikado 1](https://tcrouzet.com/images_tc/2009/09/mikado2.jpg)
 
 Pour Sarkozy (remplacez son nom par celui de n’importe quel politicien mais avec le sien ça marche particulièrement bien), le monde est simple. Il ressemble à un jeu de Mikado qui n’existe pas (ci-dessus).
 
-![mikado 2](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/mikado1.jpg)
+![mikado 2](https://tcrouzet.com/images_tc/2009/09/mikado1.jpg)
 
 Sarkozy croit qu’il peut saisir n’importe quelle pique et la déplacer sans aucune conséquence pour les autres. Alors il dessine le jeu qu’il apprécie le mieux.
 
-![mikado 3](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/mikado3.jpg)
+![mikado 3](https://tcrouzet.com/images_tc/2009/09/mikado3.jpg)
 
 Mais dans la réalité, quand on lâche les piques pour commencer une partie, elles se retrouvent plutôt emmêlées. Certaines roulent hors du tas principal. Sarkozy les a repérées très vite. Il est malin. La sécurité routière par exemple. Il la prend sans rien toucher à côté, il fait un miracle, ce qui accroît sa réputation de metteur d’ordre.
 
 Comme il gagné, il a le droit de rejouer. Il s’appuiera sur sa prouesse, effectuée grâce à un coup facile, pour s’attaquer aux piques empêtrées au cœur du tas. Mais ce qui marche dans une situation simple ne marche pas dans une situation complexe. Patatras !
 
-![Mikado 4](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/09/mikado4.jpg)
+![Mikado 4](https://tcrouzet.com/images_tc/2009/09/mikado4.jpg)
 
 Le jeu explose, d’autres piques bougent. Partie perdue. Sarkozy demande un joker. Il veut rejouer. « Ça marchait avant, se dit-il. ». Il nous refait le coup de la pique isolée. Bravo ! Puis il va à nouveau s’attaquer à une pique difficile. Manque de chance. D’autres piques vont bouger, c’est comme ça. Appliquer une méthode simpliste dans une situation complexe implique des dommages collatéraux imprévisibles.
 

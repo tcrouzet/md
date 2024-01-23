@@ -8,7 +8,7 @@ De tels livres sont rares. [*Le rire d’Olga*](http://www.amazon.fr/rire-dOlga-
 
 C’est une histoire d’hommes et de femmes libres qui s’aiment au premier instant et qui se séparent aussi vite. Une histoire que nous avons peut-être tous vécu. Quatre narrateurs se succèdent dans ce quatuor impossible, deux hommes deux femmes, jusqu’à ce que le début incompréhensible s’éclaire.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/07/LBweb_CreditDoudou1-450x319.jpg)
+![](https://tcrouzet.com/images_tc/2010/07/LBweb_CreditDoudou1-450x319.jpg)
 
 Pourquoi parler aujourd’hui du *Rire d’Olga, publié en janvier 2003 ? Tout simplement parce que j’ai croisé Lilian. Un autre ami écrivain, [Antoine Barral](http://www.amazon.fr/Philopyges-I-Conjuration-Patriotes/dp/2354780486/), m’avait donné rendez-vous au [Festival International du Roman Noir](http://www.polar-frontignan.org/) à Frontignan, à deux pas de chez moi où je n’avais jamais mis les pieds.
 

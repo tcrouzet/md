@@ -6,7 +6,7 @@ Parmi ces vacanciers, nombre de ceux qui jamais ne mettraient les pieds à Disne
 
 À l’entrée de la ville, entre la rue principale et une voie ferrée où couine de temps en temps une micheline, se dresse un petit village qui aligne des tentes avec boutiques bio et stands de démonstration de quelques économiseurs d’eau (qui ne seraient vendus nulle part ailleurs) ou de leds (présentées comme source de lumière idéale en oubliant de préciser qu’[elles présentent un risque photochimique pour l'œil, en particulier des enfants](http://www.zemedical.com/actualites/led-risques-bio/%28theme%29/3546)).
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/11/calvi2.jpg)
+![](https://tcrouzet.com/images_tc/2010/11/calvi2.jpg)
 
 Je suis d’ailleurs accompagné de mes enfants. Alors pas facile d’assister aux spectacles jusqu’aux bout, encore moins de nous rendre aux conférences. Nous glandons sur la plage près des trapézistes. Le paysage est sublime, pourquoi s’en priver.
 
@@ -14,7 +14,7 @@ Je suis d’ailleurs accompagné de mes enfants. Alors pas facile d’assister a
 
 ### L’humanité serait une
 
-Cette affirmation vient au moment même où les généticiens découvrent que sans doute [certains d’entre nous possèdent en eux du néanderthalien et d’autres pas](http://sciences.blogs.liberation.fr/home/2010/05/ladn-de-n%C3%A9andertal-r%C3%A9v%C3%A8le-ses-liens-avec-sapiens.html). Au moment où nous avons plus que jamais besoin de diversité parce qu’elle implique plus d’intelligence collective, comme je le montre dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/). Non, l’humanité n’est pas une mais la somme de chacun d’entre nous, un assemblage monumental de particularités.
+Cette affirmation vient au moment même où les généticiens découvrent que sans doute [certains d’entre nous possèdent en eux du néanderthalien et d’autres pas](http://sciences.blogs.liberation.fr/home/2010/05/ladn-de-n%C3%A9andertal-r%C3%A9v%C3%A8le-ses-liens-avec-sapiens.html). Au moment où nous avons plus que jamais besoin de diversité parce qu’elle implique plus d’intelligence collective, comme je le montre dans [*L’alternative nomade*](/alternative-nomade/). Non, l’humanité n’est pas une mais la somme de chacun d’entre nous, un assemblage monumental de particularités.
 
 Telle est l’idée qui devrait prévaloir : celle d’une humanodiversité. Nous avons besoin du dissemblable et de l’altérité pour nous protéger contre le mimétisme et la dictature qui est son penchant le plus immédiat.
 
@@ -22,7 +22,7 @@ Nous ne pouvons pas nous réfugier derrière une égalité idéale qui n’exist
 
 Cochet ne pensait pas à mal, mais les glissements sémantiques sont dangereux. Dans la bouche des écologistes, ils me font frémir de plus en plus souvent. On ne peut pas s’inquiéter de la perte de la biodiversité et ne pas s’inquiéter de la perte d’humanodiversité. Ce combat est tout aussi vital. Pour moi, il est plus important. La survie de l’humanité n’a d’intérêt que dans un plus d’humanité, non dans son asservissement à une nature elle aussi idéalisée.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/11/calvi1.jpg)
+![](https://tcrouzet.com/images_tc/2010/11/calvi1.jpg)
 
 ### Le coût du progrès serait exponentiel
 
@@ -42,7 +42,7 @@ Cette dernière tentation me paraît la plus perverse car *a priori* la plus log
 
 En revanche, un nouvel effet de bord survient. En m’approvisionnant uniquement dans mon voisinage, je coupe des liens à longue distance, par exemple avec les producteurs de bananes de la Réunion. Aujourd’hui, je suis interdépendant avec eux. Inconsciemment, je tisse un réseau de liens à l’échelle planétaire, je participe à la complexification globale de l’humanité.
 
-Comme je l’ai montré dans [*L’alternative nomade*](http://blog.tcrouzet.com/alternative-nomade/), cette complexification s’accompagne d’un accroissement mécanique des libertés. Chaque fois que nous coupons un lien longue distance, nous allons vers la simplification, donc donnons plus de chance à la dictature de s’installer.
+Comme je l’ai montré dans [*L’alternative nomade*](/alternative-nomade/), cette complexification s’accompagne d’un accroissement mécanique des libertés. Chaque fois que nous coupons un lien longue distance, nous allons vers la simplification, donc donnons plus de chance à la dictature de s’installer.
 
 En consommant local, nous remplaçons des liens globaux par des liens locaux. On pourrait croire qu’on perd d’un côté ce qu’on gagne d’un autre. Ce n’est pas le cas. Les liens sociaux de proximité favorisent l’ethnocentrisme. Ils renforcent le groupe par rapport au monde extérieur et nous savons ce qui se produit quand des groupes fortement soudées vivent à proximité les uns des autres : ils finissent par s’entretuer.
 

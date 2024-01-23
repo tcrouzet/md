@@ -12,23 +12,23 @@ Mais il y a un hic. La nouvelle version d’Ulysses est moins agréable que l’
 
 *Addendum* Et si Ulysses est si génial, c'est aussi parce que ses développeurs sont à l'écoute des auteurs. Le principal défaut la version 2.0 soulevé plus loin sera corrigé dès la prochaine mise à jour. Comment ne pas aimer Ulysses dans ces conditions ? Quand je touche Word, je le sens désormais hostile, c'est un étrange sentiment.
 
-![soulmen](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/soulmen-600x609.jpg)
+![soulmen](https://tcrouzet.com/images_tc/2015/03/soulmen-600x609.jpg)
 
 ---
 
 Avec Ulysses, on dispose d’un mode d’écriture sans distraction ou distraction free mode, de plus en plus populaires sur de plus en plus de traitements de texte. Scrivener est peut-être celui qui a popularisé cette fonction. On se retrouve avec le texte et seulement le texte. Affichage optimal pour l’écriture. Pas de mise en forme, sinon les commandes du langage Markdown. Alors on écrit, on n’a que cela à faire.
 
-![Le mode écriture sans distraction de Scrivener. Hors texte noir.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/dfree1.png)
+![Le mode écriture sans distraction de Scrivener. Hors texte noir.](https://tcrouzet.com/images_tc/2015/03/dfree1.png)
 
 Le mode écriture sans distraction de Scrivener. Hors texte noir.
 
-![Mode d'écriture plein écran d'Ulysses 1.2. Hors texte noir, avec haut de page et bas de base visibles.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/dfree2.png)
+![Mode d'écriture plein écran d'Ulysses 1.2. Hors texte noir, avec haut de page et bas de base visibles.](https://tcrouzet.com/images_tc/2015/03/dfree2.png)
 
 Mode d'écriture plein écran d'Ulysses 1.2. Hors texte noir, avec haut de page et bas de page visibles.
 
 Sur Ulysses 1.2, le mode sans distraction était parfait. Le texte sur fond clair, les marges hors texte noires pour ne pas éblouir. Ce qui est très important dès qu’on travaille avec un écran autre que celui de l’iPad.
 
-![Mode plein sur Ulysses 2.0. Plus de marge, plus qu'un fond uniforme que Je suis obligé de griser pour ne pas être ébloui.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/03/dfree3.png)
+![Mode plein sur Ulysses 2.0. Plus de marge, plus qu'un fond uniforme que Je suis obligé de griser pour ne pas être ébloui.](https://tcrouzet.com/images_tc/2015/03/dfree3.png)
 
 Mode plein écran sur Ulysses 2.0. Plus de marge, plus qu'un fond uniforme que je suis obligé de griser pour ne pas être ébloui.
 

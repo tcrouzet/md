@@ -4,7 +4,7 @@ Les journalistes sont naïfs. Ils voient un compte Twitter avec des dizaines de 
 
 Je voulais avant de vous raconter cette histoire attendre d’avoir moi-même la plus grosse quéquette de la twittosphère francophone en dépassant le fameux @jeanlucr (manquerait plus que je mette un lien vers lui). Mais pas de chance, une rumeur s’ébruite. [Je mènerais une expérience](http://internetetopinion.wordpress.com/2009/09/24/effets-twitter-sur-le-trafic-des-sites/) et [débusquerais des truanderies](http://twitter.com/narvic/status/4154461162).
 
-Je vais donc, plus tôt que prévu, vous raconter une histoire, la mienne, celle d’un jeu de cours d’école. Tout a commencé [le 19 mai 2009](http://twitter.com/crouzet/status/1850191781). Je décide de réserver mon compte Twitter historique @[tcrouzet](http://twitter.com/tcrouzet) à mon [Twiller](http://blog.tcrouzet.com/tag/twiller/) et d’utiliser @[crouzet](http://twitter.com/crouzet), compte en sommeil, pour mes autres tweets.
+Je vais donc, plus tôt que prévu, vous raconter une histoire, la mienne, celle d’un jeu de cours d’école. Tout a commencé [le 19 mai 2009](http://twitter.com/crouzet/status/1850191781). Je décide de réserver mon compte Twitter historique @[tcrouzet](http://twitter.com/tcrouzet) à mon [Twiller](/tag/twiller/) et d’utiliser @[crouzet](http://twitter.com/crouzet), compte en sommeil, pour mes autres tweets.
 
 Comme je suivais 200 amis sur @tcrouzet, j’ai commencé à les suivre sur @crouzet. Au bout d’un moment, je me suis dit que c’était pas humain d’effectuer ces invitations à la mano. J’ai alors regardé la doc de l’API Twitter, j’ai chargé une librairie PHP, j’ai pondu un bout de code pour transférer mes amis, [le tout terminé en dix minutes](http://twitter.com/crouzet/status/1851131101). Douze heures plus tard, le 20 mai au matin, 70 de mes anciens amis m’avaient suivi sur @[crouzet](http://twitter.com/crouzet/status/1857310929).
 
@@ -39,10 +39,10 @@ Pour lui, c’est business as usual. Je ne dis pas que ses tweets ne sont pas in
 
 C’est dit, c’est fait. A priori j’ai pas l’intention de couper le machin. La partie peut continuer, d’autres peuvent s’y joindre, les règles sont maintenant claires pour tout le monde. Journalistes, ouvrez les yeux. La belle histoire dans notre monde est celle que je viens de raconter. C’est celle de la technologie dont on pousse les usages.
 
-PS1 : [première stats à 08:00 le 25/09.](http://blog.tcrouzet.com/2009/09/25/les-mensurations-de-la-quequette-twitter/)
+PS1 : [première stats à 08:00 le 25/09.](/2009/09/25/les-mensurations-de-la-quequette-twitter/)
 
-PS2 : [Stats après quatre jours complets.](http://blog.tcrouzet.com/2009/09/29/statistiques-dun-buzz/)
+PS2 : [Stats après quatre jours complets.](/2009/09/29/statistiques-dun-buzz/)
 
-PS3 : [Suite et fin de cette histoire.](http://blog.tcrouzet.com/2009/09/27/gonflette-sur-twitter-suite-et-fin/)
+PS3 : [Suite et fin de cette histoire.](/2009/09/27/gonflette-sur-twitter-suite-et-fin/)
 
 Tags: NetCulture, Twitter, une

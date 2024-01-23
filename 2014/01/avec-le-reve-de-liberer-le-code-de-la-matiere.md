@@ -8,7 +8,7 @@ Il va de même avec les mathématiques, toujours plus abstraites, toujours plus 
 
 Notre ambition ultime devrait être de libérer le code de la matière. De le transformer en abstraction autonome et autorépliquante.
 
-![Les trois écritures](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/3ecritures.jpg)
+![Les trois écritures](https://tcrouzet.com/images_tc/2014/01/3ecritures.jpg)
 
 
 

@@ -1,8 +1,8 @@
 # Agoravox nous invite à l’usine
 
-J’y serai bien sûr et j’espère qu’on aura l’occasion de discuter de ce pouvoir [qui n’en est pas un](http://blog.tcrouzet.com/definitions/) ce qui fait toute sa force et toute sa différence.
+J’y serai bien sûr et j’espère qu’on aura l’occasion de discuter de ce pouvoir [qui n’en est pas un](/definitions/) ce qui fait toute sa force et toute sa différence.
 
-Je rappelle que [le cinquième pouvoir a plus de 40 ans](http://blog.tcrouzet.com/2006/12/24/chronologie-du-cinquieme-pouvoir/) et qu’il est né aux États-Unis. Sous la forme d’un magazine underground, il rassemblait les ennemis de toute forme d’autorité centrale.
+Je rappelle que [le cinquième pouvoir a plus de 40 ans](/2006/12/24/chronologie-du-cinquieme-pouvoir/) et qu’il est né aux États-Unis. Sous la forme d’un magazine underground, il rassemblait les ennemis de toute forme d’autorité centrale.
 
 Pour ces résistants, l’ordre sans commandement était un rêve. Aujourd’hui, nous savons que ce rêve est possible. Internet fonctionne comme ça (malgré un Google qui prend de plus en plus de place... trop de place à coup sûr).
 

@@ -1,6 +1,6 @@
 # Le superorganisme en question
 
-[Comme ma chronologie le montre](http://blog.tcrouzet.com/2009/08/18/chronologie-du-superorganisme/), j’ai lu et parcouru pas mal de textes sur le superorganisme et quelque chose me déplait encore dans cette théorie, je suis attiré, repoussé. Les relents de philosophie intégrale me dérangent (bien plus que le problème du totalitarisme facile à balayer – et balayé par tous les auteurs qui ont travaillé sur le sujet). J’ai d’autres objections.
+[Comme ma chronologie le montre](/2009/08/18/chronologie-du-superorganisme/), j’ai lu et parcouru pas mal de textes sur le superorganisme et quelque chose me déplait encore dans cette théorie, je suis attiré, repoussé. Les relents de philosophie intégrale me dérangent (bien plus que le problème du totalitarisme facile à balayer – et balayé par tous les auteurs qui ont travaillé sur le sujet). J’ai d’autres objections.
 
 ### Problème d’échelle
 
@@ -60,7 +60,7 @@ Si nous voulons trouver une métaphore organique à notre société, je pense qu
 
 > Cette créature au nom barbare est l’une des plus passionnantes que nous connaissions. Elle possède la propriété extraordinaire de ne pas exister en tant que telle : elle résulte de l’agrégation d’une myriade d’amibes unicellulaires qui se rassemblent lorsque les bactéries dont elles se nourrissent viennent à manquer. La colonie forme alors un nouvel organisme qui rampe à la façon d’un ver jusqu’à trouver un endroit lumineux et chaud. Là, elle se transforme en champignon à la tête remplie de spores. Dès que les conditions deviennent favorables, la tête explose et les spores donnent naissance à de nouvelles amibes. Chacune vivra indépendamment jusqu’à ce que les bactéries manquent et que de nouvelles colonies se constituent. Le cycle se répète indéfiniment.
 
-Nous pouvons vivre chacun isolément et nous regrouper lorsque le besoin s’en fait sentir. Nous créons des sociétés à durée de vie plus ou moins longue (TAZ), qui peuvent se dissoudre, se reformer ailleurs, retrouvant certains de leurs anciens membres et des nouveaux. J’imagine l’ensemble de la société humaine comme une faune d’individus qui font et défont des sociétés au fil des circonstances. Chacun peut se retrouver seul ou en compagnie des autres ([indispensable pour maintenir notre créativité](http://blog.tcrouzet.com/2009/08/19/socialiser-peut-tuer-la-creativite/)).
+Nous pouvons vivre chacun isolément et nous regrouper lorsque le besoin s’en fait sentir. Nous créons des sociétés à durée de vie plus ou moins longue (TAZ), qui peuvent se dissoudre, se reformer ailleurs, retrouvant certains de leurs anciens membres et des nouveaux. J’imagine l’ensemble de la société humaine comme une faune d’individus qui font et défont des sociétés au fil des circonstances. Chacun peut se retrouver seul ou en compagnie des autres ([indispensable pour maintenir notre créativité](/2009/08/19/socialiser-peut-tuer-la-creativite/)).
 
 Nous sommes loin de l’image de l’organisme qui lie avec autorité chacune de ses composantes et les soumets. Il est vrai toutefois que *dictyostelium discoideum* est un vestige des premiers êtres multicellulaires. Si notre société lui ressemble, elle peut un jour lointain se cristalliser en un organisme stable.
 

@@ -1,6 +1,6 @@
 # Atomisation programmée
 
-Je viens de publier un troisième texte chez publie.net, [*Bit, Sex and Bug*](). Plutôt que de [gloser dessus](http://blog.tcrouzet.com/tag/bit-sex-and-bug/), Isabelle m’a interviewé. Je vous propose également un extrait du début de ce thriller.
+Je viens de publier un troisième texte chez publie.net, [*Bit, Sex and Bug*](). Plutôt que de [gloser dessus](/tag/bit-sex-and-bug/), Isabelle m’a interviewé. Je vous propose également un extrait du début de ce thriller.
 
 ### Chapitre 1
 
@@ -118,6 +118,6 @@ Michel n’y croyait pas. Il disparaîtrait quand le monde perdrait le souvenir 
 
 Non loin de chez ses parents, Julien, installé dans un square, s’était peut-être déjà endormi, ayant peut-être rêvé. En tout cas, le soleil était plus haut. La brise matinale s’apaisait, il n’y avait pas un mouvement dans les feuillages. Julien monta dans les arbres, sauta de branche en branche, lui aussi se transformait en singe. Il n’avait pas besoin d’héberger un de leurs virus. Il possédait la même mémoire car il descendait comme eux du Samburupithecus, un primate vieux de neuf millions d’années. Des atomes constitutifs de cet ancêtre pouvaient survivre dans tous les hommes et tous les singes. Le lien était indestructible.
 
-[Tout le premier chapitre est disponible en téléchargement...](http://blog.tcrouzet.com/bit-sex-and-bug/) [L'intégralité chez publie.net](http://www.publie.net/fr/ebook/9782814504158/bit-sex-bug)
+[Tout le premier chapitre est disponible en téléchargement...](/bit-sex-and-bug/) [L'intégralité chez publie.net](http://www.publie.net/fr/ebook/9782814504158/bit-sex-bug)
 
 Tags: Buzz

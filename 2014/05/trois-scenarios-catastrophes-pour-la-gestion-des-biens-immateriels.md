@@ -8,7 +8,7 @@ La dématérialisation des œuvres ne doit pas s’accompagner d’une nouvelle 
 
 ### 1. Responsabilité
 
-En plus d’être vendues, les œuvres sont disponibles gratuitement, selon une licence de type Creative Commons comme je l’expérimente avec [*Le Geste qui Sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/). Alors les riches doivent payer l’œuvre quand ils la consomment, sinon exit la création. Une boucle vertueuse doit s’installer, ce qui me paraît difficile dans une économie sinistrée, où de plus en plus de gens se sentent pauvres (sentiment compréhensible quand les hyper-riches deviennent de plus en plus hyper-riches).
+En plus d’être vendues, les œuvres sont disponibles gratuitement, selon une licence de type Creative Commons comme je l’expérimente avec [*Le Geste qui Sauve*](/le-geste-qui-sauve/). Alors les riches doivent payer l’œuvre quand ils la consomment, sinon exit la création. Une boucle vertueuse doit s’installer, ce qui me paraît difficile dans une économie sinistrée, où de plus en plus de gens se sentent pauvres (sentiment compréhensible quand les hyper-riches deviennent de plus en plus hyper-riches).
 
 Cette approche a toutefois l’avantage d’être à l’initiative des créateurs. Elle peut germer à partir de multiples graines, tout en travaillant les consciences. Mais n’est-elle pas idéaliste ? Donner les œuvres dévalorise peut-être leur valeur culturelle. Et puis peu de gens sont capables de payer quelque chose de gratuit même s’ils en ont les moyens. La possibilité théorique de ce modèle, le fait qu’il marche dans quelques cas, n’implique pas sa généralisation dans un temps court.
 

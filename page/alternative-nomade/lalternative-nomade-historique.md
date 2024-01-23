@@ -10,7 +10,7 @@ Retour à une version plus touffue, beaucoup plus proche dans l'esprit de la ver
 
 #### Version 2.0 (31/01/11)
 
-Je réintègre la discussion sur le flux en partie 3 (un temps appelée [Propulseurs dans le flux](http://blog.tcrouzet.com/propulseurs-dans-le-flux/)). Je modifie le tout début du texte. Présentation du graphe social. Différence entre simplicité et complexité.
+Je réintègre la discussion sur le flux en partie 3 (un temps appelée [Propulseurs dans le flux](/propulseurs-dans-le-flux/)). Je modifie le tout début du texte. Présentation du graphe social. Différence entre simplicité et complexité.
 
 #### Version 1.1 (02/09/10)
 
@@ -18,7 +18,7 @@ Un chapitre supplémentaire sur les systèmes ouverts/fermés, discussion de la 
 
 #### Version 1.0 (28/07/10)
 
-Tout ce qui concerne le flux se retrouve dans [*Propulseurs dans le flux*](http://blog.tcrouzet.com/propulseurs-dans-le-flux/), je ne conserve dans ce texte que la réflexion sur la puissance du lien, c'est-à-dire la complexité volontaire.
+Tout ce qui concerne le flux se retrouve dans [*Propulseurs dans le flux*](/propulseurs-dans-le-flux/), je ne conserve dans ce texte que la réflexion sur la puissance du lien, c'est-à-dire la complexité volontaire.
 
 #### Fin de la version 100% gratuite (13/03/10)
 
@@ -26,7 +26,7 @@ Plus de 1500 lecteurs ont consulté la version gratuite. Je ne diffuse plus que 
 
 #### Publication sur publie.net (9/03/10)
 
-[François Bon décide de sortir le livre.](http://blog.tcrouzet.com/2010/03/11/sortir-du-consumerisme/)
+[François Bon décide de sortir le livre.](/2010/03/11/sortir-du-consumerisme/)
 
 #### Bêta 3.5 (29/01/10)
 
@@ -40,7 +40,7 @@ Beaucoup de textes n’étaient pas présents dans les anciennes versions (1, 4,
 
 #### Bêta 2.0 (11/01/10)
 
-Introduction de l'idée d'expérience optimale... la notion de flux psychologique selon Mihaly Csikszentmihalyi. [PDF](http://blog.tcrouzet.com/files_tc/anbeta2.0.pdf)
+Introduction de l'idée d'expérience optimale... la notion de flux psychologique selon Mihaly Csikszentmihalyi. [PDF](/files_tc/anbeta2.0.pdf)
 
 #### Bêta 1.0 (04/01/10)
 

@@ -8,17 +8,17 @@ Reprenons la métaphore de la caverne de Platon. Imaginons deux secondes que ces
 
 Moi, je ne me contente pas de ce que je connais. J’espère, et je suis sûr, que l’avenir est ouvert. Une infinité de possibilités politiques restent à explorer, certaines sans aucun doute immondes, d’autres plus acceptables que celles que nous connaissons aujourd'hui. C’est à nous d’aller de l’avant, à nous de le faire parce que la société dans laquelle nous vivons ne nous satisfait pas. Elle est peut-être moins pire que beaucoup d’autres mais elle est loin de répondre à un quelconque idéal, ou même de s’en approcher.
 
-Avec cet article, je voudrais répondre à quelques unes des critiques qui ont fait suite au [droit de vote en question](http://blog.tcrouzet.com/2006/09/01/droit-vote-question/), [aussi et surtout publié sur Agoravox](http://www.agoravox.fr/article.php3?id_article=12903) où les commentaires pleuvent toujours. C’est cette affirmation : « La seule façon de décider en groupe est de voter ! » qui m’a décidé à répondre. Je ne peux pas laisser passer une telle affirmation.
+Avec cet article, je voudrais répondre à quelques unes des critiques qui ont fait suite au [droit de vote en question](/2006/09/01/droit-vote-question/), [aussi et surtout publié sur Agoravox](http://www.agoravox.fr/article.php3?id_article=12903) où les commentaires pleuvent toujours. C’est cette affirmation : « La seule façon de décider en groupe est de voter ! » qui m’a décidé à répondre. Je ne peux pas laisser passer une telle affirmation.
 
 Il y a tout d’abord deux autres modes de décisions triviaux : le tirage au sort et l’évolution, c’est-à-dire la confrontation des idées jusqu’à ce que l’une survive. Cette seconde forme de décision par sélection est la plus couramment employée dans la vie quotidienne, par exemple en famille ou dans le business quand le boss n’est pas un dictateur (elle est d’ailleurs toujours mise à l’œuvre en préalable d’un vote).
 
 Je pense qu’on peut imaginer bien d’autres modes de décision collectifs. Le plus démocratique est, à mon sens, de laisser émerger la solution par auto-organisation (par percolation comme l’a suggéré un commentateur).
 
-[Dans son histoire de Visa](http://blog.tcrouzet.com/2006/09/08/manager-par-la-connexion/), Dee Hock raconte comment toutes les décisions étaient prises de la sorte. Pour le nom même de Visa, personne n’a jamais réussi à revendiquer sa paternité. Le nom est apparu plusieurs fois au cours des conversations auxquelles tous les employés avaient la possibilité de participer. À moment donné, ce nom s’est imposé de lui-même.
+[Dans son histoire de Visa](/2006/09/08/manager-par-la-connexion/), Dee Hock raconte comment toutes les décisions étaient prises de la sorte. Pour le nom même de Visa, personne n’a jamais réussi à revendiquer sa paternité. Le nom est apparu plusieurs fois au cours des conversations auxquelles tous les employés avaient la possibilité de participer. À moment donné, ce nom s’est imposé de lui-même.
 
 Voilà que je parle encore des entreprises, après m’avoir traité de fasciste, on va me traiter de capitaliste et de libéral. Je ne suis ni l’un, ni l’autre. Je remarque juste que les entreprises, à la poursuite du rendement et de l’efficacité, auraient adopté le système du vote si elles l’avaient jugé intéressant. Si elles ne l’ont pas fait, c’est qu’il n’est pas efficace à leurs yeux (et de nombreuses entreprises ont essayé le vote).
 
-Je suis sûr que si le vote était efficace, les patrons en abuseraient. Ils sont prêts à tout, même à renoncer à leur pouvoir pour gagner plus. Une fois qu’ils auront découvert que la participation leur est bénéfique, ils s’y adonneront ([c’est déjà le cas avec le web 2.0](http://blog.tcrouzet.com/2006/08/06/tout-travail-meriterait-salaire/)).
+Je suis sûr que si le vote était efficace, les patrons en abuseraient. Ils sont prêts à tout, même à renoncer à leur pouvoir pour gagner plus. Une fois qu’ils auront découvert que la participation leur est bénéfique, ils s’y adonneront ([c’est déjà le cas avec le web 2.0](/2006/08/06/tout-travail-meriterait-salaire/)).
 
 Ai-je dit qu’il fallait organiser la société comme une entreprise ? Non. Encore faudrait-il savoir de quelles entreprises on parle. Elles présentent des traits de caractères aussi nombreux que ceux des individus. Pour moi, Visa version Dee Hock peut servir de modèle sociétal. Cette expérience a démontré que la démocratie participative était possible.
 
@@ -28,7 +28,7 @@ Une démocratie participative n’est pas une ochlocratie. Les citoyens, seuls o
 
 Par exemple, sur Wikipedia tous les auteurs ne donnent pas leur avis sur tout. Wikipedia est une démocratie participative. Un auteur écrit une définition, d’autres la corrigent éventuellement. Cette définition peut donner envie à d’autres auteurs d’écrire d’autres définitions. Jamais l’ensemble des utilisateurs ne se concerte. C’est tout simplement impossible. Beaucoup trop de gourous qui ne connaissent rien à internet essaient de nous vendre une démocratie participative qui n’a aucune chance de fonctionner.
 
-Après les [consommActeurs](http://www.thinkstudio.com/text/directeconomy.pdf), les citoyenActeurs. La participation n’a de sens que dans l’action. Les électeurs doivent devenir des acteurs [responsables](http://blog.tcrouzet.com/).
+Après les [consommActeurs](http://www.thinkstudio.com/text/directeconomy.pdf), les citoyenActeurs. La participation n’a de sens que dans l’action. Les électeurs doivent devenir des acteurs [responsables](/).
 
 La démocratie participative n’est pas à inventer, elle existe déjà. Dans nos familles, dans certaines de nos entreprises, dans les marchés financiers… En fait, la démocratie représentative est une chose rare qui n’a été imaginée que pour limiter dans le temps le pouvoir des potentats. On peut la voir comme un progrès par rapport à la dictature, mais aussi comme un refus de l’abandonner tout à fait. Au fond, derrière elle, il y a le présupposé que les hommes sont des bons-à-rien sans des chefs pour les commander et les contrôler.
 
@@ -46,7 +46,7 @@ La démocratie représentative n’a réussi qu’à imposer l’égalité lors 
 
 Au fond, pour moi, tout le problème est de savoir si nous avons besoin de gouvernements ? Je crois que nous pouvons nous en passer si nous sommes capables de communiquer. Si nous n’avons pas besoin de gouvernement, nous n’avons pas besoin de voter.
 
-Je ne dis pas qu’il faut supprimer des institutions globales mais leur rôle doit être consultatif, [elles doivent œuvrer dans le domaines de la sagesse](http://blog.tcrouzet.com/2006/07/04/interdependance-ou-etat/) et non dans celui de l’action qui lui doit être réservé aux citoyens.
+Je ne dis pas qu’il faut supprimer des institutions globales mais leur rôle doit être consultatif, [elles doivent œuvrer dans le domaines de la sagesse](/2006/07/04/interdependance-ou-etat/) et non dans celui de l’action qui lui doit être réservé aux citoyens.
 
 Dans une démocratie participative, on ne vote pas, on agit.
 

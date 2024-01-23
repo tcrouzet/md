@@ -1,6 +1,6 @@
 # Cinq conseils à un candidat
 
-Après mon [manifeste présidentiel](http://blog.tcrouzet.com/2006/10/24/manifeste-presidentiel/), je m’autorise quelques conseils :
+Après mon [manifeste présidentiel](/2006/10/24/manifeste-presidentiel/), je m’autorise quelques conseils :
 
 1. La parité homme-femme, en plus d'être inutile, est insuffisante. Il faut instaurer la parité jeunes-vieux. Toutes les classes d’âges doivent être représentées au gouvernement. Les vieux parce qu’ils sont la sagesse, les jeunes parce qu’ils ont la folie, et aussi parce c’est leur monde qui est en train de se construire.
 

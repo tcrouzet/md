@@ -4,7 +4,7 @@ La plupart des gens sont tellement *brainwashed* qu’ils sont incapables d’im
 
 Selon eux, il faut créer des partis, des mouvements, se faire élire, ou faire pression sur les élus, pour obtenir un quelconque changement sociétal. Mais qui a construit cette idéologie sinon ceux qui sont issus de ce système même ? Système qui s’entretient naturellement et qui se défend des autres systèmes possibles, en les marginalisant.
 
-(PS ceux qui me lisent d’habitude peuvent arrêter je ne fais que reformuler. [C'est un commentaire au billet précédent.](http://blog.tcrouzet.com/2009/12/19/j1-de-la-nouvelle-ere/))
+(PS ceux qui me lisent d’habitude peuvent arrêter je ne fais que reformuler. [C'est un commentaire au billet précédent.](/2009/12/19/j1-de-la-nouvelle-ere/))
 
 La norme politique est si confortable que la moindre remise en question est moquée et discréditée par les esclaves de la norme. Ils ne se rendent même pas compte qu’ils réagissent comme des chiens de Pavlov. Juste capables de proposer les solutions déjà validées par d’autres, déjà expérimentées, tant bien même elles n’ont jamais donné de résultats.
 
@@ -16,7 +16,7 @@ Maintenant vous pouvez encore espérer des mesures radicales. On peut toujours e
 
 Je ne suis pas contre les partis. Je crois que ceux qui s’engagent dans les partis perdent souvent leur temps au nom d’un idéal qui comme tout idéal est totalement chimérique (je ne parle pas pour l’action locale… mais pour les problèmes globaux). Ça ne veut pas dire que nous devons agir seul, dans notre coin. Non. Nous devons nous lier pour démultiplier notre puissance d’action. Mais par une diversité de liens qui explose toute forme d’organisation catégorisable.
 
-Quand Isabelle organise [ses repas d’écureuils](http://blog.tcrouzet.com/tag/%C3%A9cureuil/) dans le Midi, elle fait de la politique. Les gens se retrouvent autour d’un repas une fois par mois. Chacun tour à tour dit ce qu’il a réussi à faire qui le fait se sentir mieux et, en même temps, peut avoir une influence sur la santé globale de notre société. Chacun dit aussi là où il a échoué, là où il sait qu’il pourrait faire mieux. Chacun écoute les autres. Chacun partage des méthodes pratiques. Chacun se forme de l’expérience des autres. Et ça marche (faudra que j’expose la méthode pratique).
+Quand Isabelle organise [ses repas d’écureuils](/tag/%C3%A9cureuil/) dans le Midi, elle fait de la politique. Les gens se retrouvent autour d’un repas une fois par mois. Chacun tour à tour dit ce qu’il a réussi à faire qui le fait se sentir mieux et, en même temps, peut avoir une influence sur la santé globale de notre société. Chacun dit aussi là où il a échoué, là où il sait qu’il pourrait faire mieux. Chacun écoute les autres. Chacun partage des méthodes pratiques. Chacun se forme de l’expérience des autres. Et ça marche (faudra que j’expose la méthode pratique).
 
 Changer de modèle de consommation est possible si les gens, en même temps, vivent dans une société où ils se sentent plus liés aux autres. Tu changes si tu vas vers une vie qui te remplit plus. Il ne s’agit pas de sacrifier sa puissance d’être mais de la démultiplier. Tout cela est en même temps culturel et politique. Le culturel finit pas atteindre le politique.
 
@@ -26,7 +26,7 @@ Vous pouvez faire les malins, dire que ça ne suffit pas. Alors que faites-vous 
 
 ### Postface
 
-Pour illustrer ce dont je viens de parler et que je rabâche sans cesse, lisez ce commentaire de [JF Garsmeur](http://blog.tcrouzet.com/2009/12/19/j1-de-la-nouvelle-ere/#comment-72855). Il est symptomatique du mal qui nous ronge : l’essentialisme, la folie de tout catégoriser, de simplifier le monde une fois pour toutes. Et on ose se prétendre de gauche lorsqu’on démontre un tel penchant pour le totalitarisme idéologique !
+Pour illustrer ce dont je viens de parler et que je rabâche sans cesse, lisez ce commentaire de [JF Garsmeur](/2009/12/19/j1-de-la-nouvelle-ere/#comment-72855). Il est symptomatique du mal qui nous ronge : l’essentialisme, la folie de tout catégoriser, de simplifier le monde une fois pour toutes. Et on ose se prétendre de gauche lorsqu’on démontre un tel penchant pour le totalitarisme idéologique !
 
 La révolution française assenée comme une avancée définitive. N’est-il pas temps d’envisager autre chose ? Surtout que la dite révolution ne s’est résumée qu’à un jeu de chaises tournantes. On a changé les bonshommes, gagné un peu de liberté, mais profondément les mécanismes de domination n’ont pas changé. Je vous renvois au *Guépard*.
 

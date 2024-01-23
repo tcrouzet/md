@@ -1,6 +1,6 @@
 # Pourquoi François Hollande ne sera pas Président… ou ce sera la cata
 
-Depuis [ma reconnexion](http://blog.tcrouzet.com/jai-debranche/), je n’ai guère envie de bloguer, encore moins de m’intéresser à la prochaine élection présidentielle qui n’est l’occasion d’aucun débat de fond, par exemple sur le [dividende universel](http://blog.tcrouzet.com/tag/dividende-universel/). En revanche, je ne peux m’empêcher d’effectuer une petite observation logico-psychologique.
+Depuis [ma reconnexion](/jai-debranche/), je n’ai guère envie de bloguer, encore moins de m’intéresser à la prochaine élection présidentielle qui n’est l’occasion d’aucun débat de fond, par exemple sur le [dividende universel](/tag/dividende-universel/). En revanche, je ne peux m’empêcher d’effectuer une petite observation logico-psychologique.
 
 J’ai 48 ans. En toute conscience, j’ai assisté à six présidentielles, toutes possèdent un point commun.
 
@@ -20,7 +20,7 @@ Pour 2012, face à Sarkozy, il n’existe qu’un leveur de troupe qui peut pré
 
 Promis, je ne parle plus de cette politique bassement politicienne. Une seule chose m’inciterait à me lever, qu’ils changent de politique.
 
-PS1 : Je ne suis pas de droite et la gauche me désespère et le centre m'endort. Encore une fois, [je ne voterai pas](http://blog.tcrouzet.com/2012/04/11/je-brule-ma-carte-electeur-100-raisons-pour-ne-pas-voter/).
+PS1 : Je ne suis pas de droite et la gauche me désespère et le centre m'endort. Encore une fois, [je ne voterai pas](/2012/04/11/je-brule-ma-carte-electeur-100-raisons-pour-ne-pas-voter/).
 
 PS2 : Passage mis en gras suite à l'élection de François Hollande. Cas de figure pour moi pas plus réjouissant que si ses adversaires l'avaient emporté.
 

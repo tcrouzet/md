@@ -8,7 +8,7 @@ Mais est-ce vraiment pour protéger les libraires que les plus gros éditeurs ma
 
 Ces groupes sont des transporteurs. Que le livre électronique se développe et cette martingale se casse la figure. Dans cette histoire, la fermeture des librairies ne sera pour eux qu’un dommage collatéral. Je crois qu’ils se fichent bien des libraires, sinon ils leur accorderaient des marges supérieures pour les sauver dès aujourd’hui. Nous vivons donc sous le joug du protectionnisme. Bien sûr ça ne durera pas. À un moment donné, la chute sera brutale, parce que d’autres acteurs court-circuiteront cette belle mécanique.
 
-![400 acteurs du livre imaginent comment on lira dans 20 ans.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/one4.png)
+![400 acteurs du livre imaginent comment on lira dans 20 ans.](https://tcrouzet.com/images_tc/2015/04/one4.png)
 
 400 passionnés de lecture imaginent comment nous nous appretons à lire.
 
@@ -16,7 +16,7 @@ Ces groupes sont des transporteurs. Que le livre électronique se développe et 
 
 Fâcheuse évolution pour les camionneurs qui verront leur part de gâteau se réduire à presque rien, mais elle n’est pas sans conséquence pour les auteurs eux-mêmes. Aujourd’hui, la plupart écrivent avec en tête l’idée d’un livre papier. Ils utilisent donc un logiciel pensé pour envoyer des textes sur une imprimante. Ils travaillent pour la plupart avec Word ou un de ses avatars comme Page sur Mac ou Open Office Writer.
 
-![Word a été conçu pour créer des documents à imprimer.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/one2.jpg)
+![Word a été conçu pour créer des documents à imprimer.](https://tcrouzet.com/images_tc/2015/04/one2.jpg)
 
 Word a été conçu pour créer des documents à imprimer.
 
@@ -28,11 +28,11 @@ J’ai fait comme tout le monde. J’ai écrit avec Apple Works, avec Wordstar, 
 
 Dans mon prochain essai, [*La mécanique du texte*](http://tcrouzet.com/la-mecanique-du-texte/), je montrerai comment, au cours des siècles, la technique influence l’écriture, comment changer d’outil c’est changer le texte même. En attendant sa parution, je voudrais simplement vous montrer comment sans Ulysses je ne serais pas en train d’écrire [*One minute*](http://www.wattpad.com/story/29694130-1-minute), mon feuilleton quotidien qui vient de fêter ses trois premiers mois.
 
-![L'endroit où les jeunes lisent désormais.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/one0-600x320.jpg)
+![L'endroit où les jeunes lisent désormais.](https://tcrouzet.com/images_tc/2015/04/one0-600x320.jpg)
 
 Une seule capture d’écran suffit à démontrer en quoi Ulysses diffère de Word. On ne travaille pas dans un document, mais dans un projet, imaginez-le comme un bureau avec posé dessus différentes piles de feuilles plus où moins épaisses.
 
-![Une image pour comprendre Ulysses.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/one1.jpg)
+![Une image pour comprendre Ulysses.](https://tcrouzet.com/images_tc/2015/04/one1.jpg)
 
 Une image pour comprendre Ulysses.
 
@@ -58,11 +58,11 @@ Mais la révolution Ulysses ne s’arrête pas là. Ses créateurs ont compris c
 
 Ulysses est un outil de création de textes pas un logiciel de bureautique comme Word. Il aide non seulement à écrire, mais aussi à structurer, à construire, à assembler, à documenter. Il devient alors magique. Plutôt qu’une machine à écrire améliorée, Ulysses réinvente le manuscrit ancestral, avec sa flexibilité, en lui apportant toute la puissance du numérique.
 
-Par exemple, si je sélectionne plusieurs feuilles dans la seconde colonne, même disjointes, la troisième colonne crée un document virtuel qui permet de les lire et de les travailler consécutivement. Indispensable par exemple quand je veux parcourir toutes les minutes où je parle de Sara Cash, mon héroïne. Je peux ainsi sélectionner manuellement des feuilles, les rechercher, les taguer… Ulysses offre un mode plan démultiplié avec des possibilités d’agencement infinies. Sous Word, c’est tout simplement impossible (et sur [Scrivener](http://blog.tcrouzet.com/2013/05/25/scrivener-le-traitement-de-texte-des-auteurs/), c’est jouable, mais de manière bien moins élégante).
+Par exemple, si je sélectionne plusieurs feuilles dans la seconde colonne, même disjointes, la troisième colonne crée un document virtuel qui permet de les lire et de les travailler consécutivement. Indispensable par exemple quand je veux parcourir toutes les minutes où je parle de Sara Cash, mon héroïne. Je peux ainsi sélectionner manuellement des feuilles, les rechercher, les taguer… Ulysses offre un mode plan démultiplié avec des possibilités d’agencement infinies. Sous Word, c’est tout simplement impossible (et sur [Scrivener](/2013/05/25/scrivener-le-traitement-de-texte-des-auteurs/), c’est jouable, mais de manière bien moins élégante).
 
 Le texte est donc écrit indépendamment de sa forme. Il ne prend forme que quand on exporte des feuilles en leur appliquant un style. D’un clic, on peut ainsi générer du Word, des PDF, des ebooks, du HTML… et demain tout ce qui reste à imaginer.
 
-![Ulysses ne crée de fichier qu'au moment de l'exportation.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/one5.jpg)
+![Ulysses ne crée de fichier qu'au moment de l'exportation.](https://tcrouzet.com/images_tc/2015/04/one5.jpg)
 
 Ulysses ne crée un fichier qu'au moment de l'exportation.
 

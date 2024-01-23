@@ -1,6 +1,6 @@
 # Sujet de thèse 4
 
-Une idée m’est venue en corolaire du [billet précédent](http://blog.tcrouzet.com/2008/08/19/autoregulation-vs-auto-organisation/). Il ne fait aucun doute que l’autorégulation et l’auto-organisation coexistent dans la nature. La terre régule sa température comme l’a expliqué James Lovelock. Les oiseaux s’auto-organisent. Il y a de la place pour les deux systèmes. Mais existent-il vraiment ou sont-ils simplement des modèles explicatifs ?
+Une idée m’est venue en corolaire du [billet précédent](/2008/08/19/autoregulation-vs-auto-organisation/). Il ne fait aucun doute que l’autorégulation et l’auto-organisation coexistent dans la nature. La terre régule sa température comme l’a expliqué James Lovelock. Les oiseaux s’auto-organisent. Il y a de la place pour les deux systèmes. Mais existent-il vraiment ou sont-ils simplement des modèles explicatifs ?
 
 Je crois qu’il est possible de démontrer qu'on peut toujours simuler un système autorégulé à l’aide d’un système auto-organisé. Par exemple, prendre en cause une élévation de température pour les agents autonomes revient à ce qu’une de leur règle d’interaction soit sensible à la température. La structure globale du système auto-organisé se comporte alors exactement comme un système autorégulé.
 

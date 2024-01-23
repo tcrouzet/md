@@ -24,7 +24,7 @@ La rivière produit un bruit de fond qui étouffe la techno et abandonne le cham
 
 Plus on utilise de mots, plus on restreint son lectorat. C’est mécanique. Ajouter des détails ne fait que détruire peu à peu les images mentales immédiatement projetées. Au début, il manque trop de détails, puis invariablement l’auteur va trop loin. Quand je lis des fictions, j’ai envie de supprimer tous les qualificatifs contre-productifs, sauf quand je lis le *Guépard*. Bon, j'arrête de parler de littérature et je vais rejoindre la bande des éditeurs et des écrivains.
 
-![La lune sur Florac hier soir quand je rentre me coucher.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/04/florac.jpg)
+![La lune sur Florac hier soir quand je rentre me coucher.](https://tcrouzet.com/images_tc/2015/04/florac.jpg)
 
 La lune sur Florac hier soir quand je rentre me coucher.
 

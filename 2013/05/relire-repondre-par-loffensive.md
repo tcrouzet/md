@@ -1,6 +1,6 @@
 # ReLire – Répondre par l’offensive
 
-[J’ai déjà tout dit à ce sujet l’année dernière](http://blog.tcrouzet.com/tag/indisponibles/), mais certaines choses mérites d’être rabâchées, surtout quand la situation s’envenime. 
+[J’ai déjà tout dit à ce sujet l’année dernière](/tag/indisponibles/), mais certaines choses mérites d’être rabâchées, surtout quand la situation s’envenime. 
 
 Auteur, arrêtez de pleurnicher, réagissez en donnant un grand coup de pied au cul de la fourmilière. Écrivez, créez, diffusez… plutôt qu’envisager des poursuites judiciaires qui vous éloignent de votre champ de compétence.
 
@@ -11,7 +11,7 @@ Nous avons deux choix dans cette affaire [ReLire](http://relire.bnf.fr/).
 1. Nous les laissons numériser nos livres et dès qu’ils paraissent nous les piratons pour les diffuser nous-mêmes.
 2. Nous les numérisons tout de suite et les diffusons tout de suite. Si tout le monde se donne la main, c’est un travail de quelques jours et l’affaire et bouclée. Terminé. On n’en parle plus. Circulez.
 
-Je viens d’effectuer ce travail avec [*Gouverneurs de la Rosée*](http://blog.tcrouzet.com/2013/05/07/nous-nous-interdisons-de-lire/) de Jacques Roumain. Nous sommes quelques-uns en France à maîtriser le processus. On peut se former les uns les autres. Je suis volontaire. D’autres le seront.
+Je viens d’effectuer ce travail avec [*Gouverneurs de la Rosée*](/2013/05/07/nous-nous-interdisons-de-lire/) de Jacques Roumain. Nous sommes quelques-uns en France à maîtriser le processus. On peut se former les uns les autres. Je suis volontaire. D’autres le seront.
 
 Merde. Entrez dans le monde numérique en devenant votre propre éditeur. Alors vous ferez peur à tout le monde, car vous deviendrez maître de votre destin, pour chacun de vos textes passés et à venir.
 

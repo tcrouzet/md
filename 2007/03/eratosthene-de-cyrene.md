@@ -12,7 +12,7 @@ Mais, en attendant, je reviens à mon *Ératosthène*. J’ai écrit ce roman hi
 
 Sa vie peut nous apprendre à mener la notre car lui aussi vécut au cœur d’une époque de convergence extraordinaire, la bibliothèque d’Alexandrie dont il fut le directeur pouvant être regardée comme une métaphore d’internet. Ce troisième siècle avant Jésus-Christ fut flamboyant, plein de promesses et il se termina dans le sang. J’espère que nous ne suivrons pas le même chemin.
 
-Comme je n’aime pas les métaphores cachées et les livres à clés, mon roman se trouve entrecroisé de mini essais où j’explicite les parallèles entre les époques de convergence, notamment entre notre vingt-et-unième siècle et le troisième siècle alexandrin. Je réécris ces essais en ce moment et je voudrais procéder comme avec [Le cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), partager ce travail avec vous.
+Comme je n’aime pas les métaphores cachées et les livres à clés, mon roman se trouve entrecroisé de mini essais où j’explicite les parallèles entre les époques de convergence, notamment entre notre vingt-et-unième siècle et le troisième siècle alexandrin. Je réécris ces essais en ce moment et je voudrais procéder comme avec [Le cinquième pouvoir](/le-cinquieme-pouvoir/), partager ce travail avec vous.
 
 Comme je ne sais pas encore qui éditera ce livre (Bourin est tenté mais comme ce livre sort de son créneau ça risque ne ne pas se faire), je ne peux pas mettre en ligne l’ensemble du texte, car ça risque de refroidir les velléités de pas mal d’éditeurs. Je publierai donc uniquement les essais sur le blog et je mettrai le reste du texte sur [lulu.com](http://www.lulu.com).
 

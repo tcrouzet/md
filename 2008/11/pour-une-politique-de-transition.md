@@ -6,7 +6,7 @@ Vous croyez sans doute que je vais lui dire de laisser ce vieux monde et de fair
 
 Si j’avais refusé d’être manager à vingt-huit ans, je suis sûr que je n’écrirais pas tout ce que j’écris aujourd’hui. Je n’aurais jamais touché du doigt l’absurdité du système pyramidal.
 
-S’engager est une chose. Pour défendre qu’elles idées ? Ma jeune politicienne est consciente des [deux paradigmes](http://blog.tcrouzet.com/2008/11/21/strategie-decologie-politique/). Elle sait que le pouvoir ne peut plus fonctionner comme avant. Pour gagner du temps, elle a envie de se plonger directement dans le nouveau paradigme mais par quel bout le prendre ? C’est un territoire vierge qui fait flipper.
+S’engager est une chose. Pour défendre qu’elles idées ? Ma jeune politicienne est consciente des [deux paradigmes](/2008/11/21/strategie-decologie-politique/). Elle sait que le pouvoir ne peut plus fonctionner comme avant. Pour gagner du temps, elle a envie de se plonger directement dans le nouveau paradigme mais par quel bout le prendre ? C’est un territoire vierge qui fait flipper.
 
 Ok, elle peut y pénétrer. Faire des signaux de fumée, appeler des gens à la rejoindre. C’est un peu ce que je fais. Mais c’est une politicienne, elle a besoin d’agir dans le concret et d’agir avec les autres.
 

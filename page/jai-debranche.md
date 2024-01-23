@@ -2,11 +2,11 @@
 
 - [**J’ai débranché**](/jai-debranche/)
 
-- [Extraits](http://blog.tcrouzet.com/2011/12/26/jai-debranche-extraits/)
+- [Extraits](/2011/12/26/jai-debranche-extraits/)
 
 - [Presse](/jai-debranche/jai-debranche-presse/)
 
-- [Podcasts](http://blog.tcrouzet.com/jai-debranche/jai-debranche-podcasts/)
+- [Podcasts](/jai-debranche/jai-debranche-podcasts/)
 
 - [Visuels](/jai-debranche/jai-debranche-visuels/)
 

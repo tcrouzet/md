@@ -16,7 +16,7 @@ Je me demande si cette attaque stupide ne cache pas quelque chose d’encore plu
 
 Je crois malheureusement que si *Le Parisien* ne retire pas sa plainte nous serons collectivement forcés d’appeler au boycott. Assez terrible de constater que de nombreux politiciens, médias, entrepreneurs n'ont pas encore mesuré la puissance du Net et se prennent les pieds dans son tapis. Réveillez-vous, vous n’êtes plus des intouchables.
 
-![theparisienne](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/08/theparisienne-600x222.jpg)
+![theparisienne](https://tcrouzet.com/images_tc/2014/08/theparisienne-600x222.jpg)
 
 
 

@@ -16,7 +16,7 @@ Je ne dis pas que c’était mieux avant. Simplement, nous n’avons pas su pré
 
 Ma garrigue est une Joconde défigurée. Pas par un Wharol ou un Botero, par les premiers élus venus, persuadés que faire est leur raison d’être, peu importe ce qui sera fait. Oubliant que parfois la meilleure chose à faire est de ne rien faire.
 
-Je n’étais pas monté ici depuis [la veille du début des travaux en 2008](http://blog.tcrouzet.com/2008/03/18/eau-et-garrigue/), j’aurais dû me tenir à l’écart de ce qui est devenu une friche. J’y suis revenu parce que je suis moi-même en friche. Je sens comme parachuté dans ma propre vie. La vacuité de toute action, de toute écriture, le désintérêt même de mon éditeur et des critiques pour le travail de ma vie ne m’incite pas à me passionner pour le genre humain. J’ai voulu revenir à ma terre, je la retrouve saccagée elle aussi.
+Je n’étais pas monté ici depuis [la veille du début des travaux en 2008](/2008/03/18/eau-et-garrigue/), j’aurais dû me tenir à l’écart de ce qui est devenu une friche. J’y suis revenu parce que je suis moi-même en friche. Je sens comme parachuté dans ma propre vie. La vacuité de toute action, de toute écriture, le désintérêt même de mon éditeur et des critiques pour le travail de ma vie ne m’incite pas à me passionner pour le genre humain. J’ai voulu revenir à ma terre, je la retrouve saccagée elle aussi.
 
 J’ai l’impression que sous moi la civilisation tourne à vide, sans aucun but, portée par la simple inertie, avec pour seul objectif l’anéantissement. Il ne me reste qu’une possibilité. Aller plus loin, chercher le point de vue sur les toits et l’étang, m’étendre et jouir de la dernière fenêtre de beauté.
 
@@ -32,7 +32,7 @@ Je ne me plais pas quand je pense à ces choses, j’aimerais les taire, les ref
 
 Que faire de la beauté ? La détourner pour en orienter le flot vers ceux qui s’en détournent, les submerger par les ondes de lumière. Je n’ai plus pour ambition que cet ultime attentat.
 
-![C'est flou parce que mon téléphone est en fin de vie.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/09/balaruc.jpg)
+![C'est flou parce que mon téléphone est en fin de vie.](https://tcrouzet.com/images_tc/2014/09/balaruc.jpg)
 
 C'est flou parce que mon téléphone est en fin de vie.
 

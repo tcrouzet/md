@@ -16,7 +16,7 @@ On a commencé à se parler avec des messages courts grâce aux SMS, en même te
 
 Si cette forme de conversation ne nous séduit plus, où donc se parler ? Parce nous en avons besoin. Les cafés ne peuvent plus nous satisfaire. Nos amis sont partout. On veut les avoir sous la main. Nos conversations doivent passer par le Net. Le lieu où elles pourraient à nouveau y être fécondes n’existe pas encore.
 
-[J’ai parlé de Tent.](http://blog.tcrouzet.com/2012/10/06/quitter-twitter-et-facebook-pour-survivre/) Pour l’heure, on y parle comme sur Twitter. Personne ne quittera les réseaux existants pour des raisons politiques (la décentralisation). Le niveau de conscience est bien trop faible. Il faut donc offrir un mode de conversation qui retrouve sa fécondité. En attendant, soit on quitte les réseaux sociaux comme Laurent, soit on râle comme moi et on ne les consomme qu’à dose homéopathique, en attendant mieux.
+[J’ai parlé de Tent.](/2012/10/06/quitter-twitter-et-facebook-pour-survivre/) Pour l’heure, on y parle comme sur Twitter. Personne ne quittera les réseaux existants pour des raisons politiques (la décentralisation). Le niveau de conscience est bien trop faible. Il faut donc offrir un mode de conversation qui retrouve sa fécondité. En attendant, soit on quitte les réseaux sociaux comme Laurent, soit on râle comme moi et on ne les consomme qu’à dose homéopathique, en attendant mieux.
 
 Je sais qu’un tel billet aura le don d’énerver les petits ducs de Twitter. Quand on critique leur monarchie, c’est leur royaume qui menace de rompre. Ils y ont péniblement construit une audience. Ils en tirent parfois bénéfice. Ils ont envie que rien ne change. Leur existence même signale la fin de la fécondité.
 

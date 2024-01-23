@@ -1,6 +1,6 @@
 # Non, le blog n’est pas mort
 
-Je voudrais répondre aux réactions suscitées par mon [billet de hier](http://blog.tcrouzet.com/2007/09/05/le-blog-est-mort-vive-le-blog/), notamment à celle de [José](http://carnetsdenuit.typepad.com/).
+Je voudrais répondre aux réactions suscitées par mon [billet de hier](/2007/09/05/le-blog-est-mort-vive-le-blog/), notamment à celle de [José](http://carnetsdenuit.typepad.com/).
 
 Quand je demande « qui réussit dans la blogosphère » c'est en regard du vedettariat. Sans locomotive, il ne se crée pas de vocations. Il faut des livres merdiques qui se vendent beaucoup pour qu'à côté des auteurs travaillent à des chefs-d'œuvre qui seront souvent peu lus.
 
@@ -10,11 +10,11 @@ José a proposé une définition de l’art du blog :
 
 > Mais tenir un blog, je crois que ce n'est pas cela. C'est même l'inverse de cela. C'est d'abord une démarche d'expression personnelle, responsable et « hors circuit » : hors-circuit des mondes de l'édition, de l'économie ou de l'argent, de celui des médias de masse et des réseaux de mondanités qui leur sont consubstantiels. Tenir un blog, c'est privilégier une liberté de parole et une liberté tout court que pas grand-chose, à part soi-même, ne limite.
 
-![Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070906paccobis.jpg)
+![Pacco](https://tcrouzet.com/images_tc/20070906paccobis.jpg)
 
 Je consacre plusieurs heures chaque jour à ce blog. L’exercice demande du temps. Dans notre société, le temps est de l’argent. J’ai de la chance d’en gagner par ailleurs mais je suppose que d’autres auteurs ont moins de chance et moins l’occasion d’exprimer leur talent. L’argent entrera que nous le voulions ou non dans les blogs. Il y est déjà entré d’ailleurs.
 
-Pour moi, mon blog a un enjeu, au moins littéraire, éventuellement politique. Il s’inscrit dans la suite de mes *carnets de route*, il fait partie d’un travail entrepris il y a longtemps. C’est pour cette raison d’ailleurs que j’ai édité une [version papier](http://blog.tcrouzet.com/version-papier-2006/).
+Pour moi, mon blog a un enjeu, au moins littéraire, éventuellement politique. Il s’inscrit dans la suite de mes *carnets de route*, il fait partie d’un travail entrepris il y a longtemps. C’est pour cette raison d’ailleurs que j’ai édité une [version papier](/version-papier-2006/).
 
 Mon blog n’est pas un passe-temps. J’espère qu’il peut avoir de l’influence… ne serait-ce qu’en faisant passer quelques idées à quelques lecteurs qui eux-mêmes à leur tour les propageront.
 

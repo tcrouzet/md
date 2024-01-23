@@ -1,6 +1,6 @@
 # La technologie sociale
 
-L’anomie, c’est l’absence de loi. L’anarchie, c’est l’absence de gouvernement. Je ne défends aucun de ces deux systèmes, mais [l’auto-organisation](http://blog.tcrouzet.com/tag/auto-organisation/), tout au moins dans les situations complexes : climat, pauvreté, économie…
+L’anomie, c’est l’absence de loi. L’anarchie, c’est l’absence de gouvernement. Je ne défends aucun de ces deux systèmes, mais [l’auto-organisation](/tag/auto-organisation/), tout au moins dans les situations complexes : climat, pauvreté, économie…
 
 On me dit souvent que l’auto-organisation est une utopie qui ne sera jamais appliquée. Voyons les choses de manière pragmatique. Le modèle pyramidal nous démontre jour après jour son incapacité à régler les problèmes complexes (mais peut-être que je me trompe). Il faut envisager d’autres approches. Je n’en vois pas d’autre que l’auto-organisation. Alors soit elle est impropre et nous sommes condamnés à un nouvel âge noir, soit il faut peut-être explorer cette piste. Mais attention l’auto-organisation ne se produit pas spontanément. C’est une technologie sociale.
 
@@ -8,7 +8,7 @@ On me dit souvent que l’auto-organisation est une utopie qui ne sera jamais ap
 
 Dans tous les systèmes auto-organisés, humains ou non, les agents respectent des lois, lois dont la fécondité détermine la vitalité du système. Elles constituent le code commun, le point de convergence social, la perspective numérique comme l’appelle [Olivier Auber](http://perspective-numerique.net).
 
-Tout le monde se doit de respecter ce code tout comme notre code de lois ordinaire. Il n’y a pas techniquement de différence. Avec son système juridique, notre société est déjà prête pour l’auto-organisation et de nombreuses lois s’appuient sur elle, [l’interdiction de fumer sur les lieux publics par exemple.](http://blog.tcrouzet.com/2009/09/18/piratons-et-donnons-pour-montrer-le-chemin/)
+Tout le monde se doit de respecter ce code tout comme notre code de lois ordinaire. Il n’y a pas techniquement de différence. Avec son système juridique, notre société est déjà prête pour l’auto-organisation et de nombreuses lois s’appuient sur elle, [l’interdiction de fumer sur les lieux publics par exemple.](/2009/09/18/piratons-et-donnons-pour-montrer-le-chemin/)
 
 D’une manière générale, nous auto-appliquons la plupart des lois. Souvent non par peur de la police, mais par conviction.
 
@@ -34,7 +34,7 @@ En général, ils discutent ce code afin de l’accepter. Ils ne peuvent expéri
 
 Si ce code fonctionne, il y a maintenant deux possibilités. Le gouvernement l’impose à tous. Cela implique que chacun en quelque sorte charge le nouveau code, espèce d’upgrade général.
 
-Ce top-down est pour le moins dangereux, car rien ne prouve qu’un code qui marche dans un groupe marchera à l’échelle globale. Le [bootstrapping](http://blog.tcrouzet.com/2010/02/01/bootstrapping-social/) paraît alors plus sage. Le code se propage de proche en proche (par une distribution P2P plutôt que centralisée). Si le code se propage à toute la société, il peut être normalisé, inscrit dans les tables de la loi.
+Ce top-down est pour le moins dangereux, car rien ne prouve qu’un code qui marche dans un groupe marchera à l’échelle globale. Le [bootstrapping](/2010/02/01/bootstrapping-social/) paraît alors plus sage. Le code se propage de proche en proche (par une distribution P2P plutôt que centralisée). Si le code se propage à toute la société, il peut être normalisé, inscrit dans les tables de la loi.
 
 Dans les deux méthodes, on a chaque fois au départ un petit groupe de gens qui décident d’un nouveau code. Dans le cas pyramidal, ils l’imposent à tous. Dans le cas auto-organisation, ils le mettent l’épreuve et le laissent s’imposer de lui-même.
 

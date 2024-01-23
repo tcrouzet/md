@@ -10,29 +10,29 @@ Mais dès que l’éditeur n’atteint pas ses objectifs, et c’est statistique
 
 N’oublions pas que nous vivons une crise économique. Que le pouvoir d’achat diminue. Il me paraît vital d’abaisser autant que possible le prix des livres tout en maintenant le niveau de vie des auteurs. Si vous ne voyez rien venir, c’est parce que les éditeurs refusent de s’approprier les nouvelles technologies.
 
-Je ne tire pas mes chiffres de mon chapeau, mais d’une petite expérience. Après la bérézina commerciale et critique d’[*Ératosthène*](http://blog.tcrouzet.com/eratosthene/), je ne suis pas prêt à repartir tout de suite avec un éditeur, je vais donc diffuser en indé mon petit roman [*Clitoria*](http://blog.tcrouzet.com/clitoria/). Pour vous offrir au meilleur prix et dans les meilleures conditions la version papier, j’ai commencé par comparer les offres d’impression à la demande (POD).
+Je ne tire pas mes chiffres de mon chapeau, mais d’une petite expérience. Après la bérézina commerciale et critique d’[*Ératosthène*](/eratosthene/), je ne suis pas prêt à repartir tout de suite avec un éditeur, je vais donc diffuser en indé mon petit roman [*Clitoria*](/clitoria/). Pour vous offrir au meilleur prix et dans les meilleures conditions la version papier, j’ai commencé par comparer les offres d’impression à la demande (POD).
 
 ### CreateSpace
 
 C'est un service Amazon, surtout populaire outre-Atlantique. Contrairement à ses concurrents, il cible les auteurs indés professionnels aussi bien que les petits éditeurs indépendants. Une sobriété de l'interface qui n'est pas pour me déplaire.
 
-![Format choisi pour Clitoria.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/pod1.png)
+![Format choisi pour Clitoria.](https://tcrouzet.com/images_tc/2014/10/pod1.png)
 
 Pour *Clitoria*, je choisis, parmi les formats standards, le plus petit, 5 x 8 pouces, soit 12,7 x 20,32 cm, papier crème, couverture mate. Je compose le texte sous InDesign et génère un PDF que j'uploade.
 
-![CreateSpace prix](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/pod2.png)
+![CreateSpace prix](https://tcrouzet.com/images_tc/2014/10/pod2.png)
 
 Si je ne voulais rien gagner, je pourrais vendre le livre à 3,30 €. Il me semble que 4,99 € est un prix raisonnable comparé aux tarifs des éditeurs traditionnels. J'aurais donc une marge de 1,43 €/exemplaire.
 
-![CreateSpace BAT](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/pod7.jpg)
+![CreateSpace BAT](https://tcrouzet.com/images_tc/2014/10/pod7.jpg)
 
 Une fois les fichiers en ligne, CreateSpace les valide sous 24h. À ce moment, il est nécessaire de signer l'équivalent d'un BAT. Pas besoin d'avoir un livre papier entre les mains, tout s'effectue en ligne gratuitement en quelques secondes. Le Livre est alors [immédiatement disponible sur CreateSpace](https://www.createspace.com/5020237), quelques jours plus tard sur Amazon.
 
-![CreateSPace, livraison 1 exemplaire](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/pod8.png)
+![CreateSPace, livraison 1 exemplaire](https://tcrouzet.com/images_tc/2014/10/pod8.png)
 
 Pour les lecteurs, en achetant sur Amazon, le port sera offert. Pour ma part, je peux éventuellement commander des *Clitoria* directement sur CreateSpace pour 1,7 €/exemplaire, mais le port est quelque peu prohibitif. Pour un exemplaire, au minimum 3,8 €, soit un coût plus élevé que sur Amazon. Sans intérêt.
 
-![CreateSpace, port 10 exemplaires](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/pod9.png)
+![CreateSpace, port 10 exemplaires](https://tcrouzet.com/images_tc/2014/10/pod9.png)
 
 Pour 10 exemplaires, le port peut tomber jusqu'à 1,4 €/exemplaire, soit un prix de revient de 3,1 €/exemplaire. Et beaucoup moins quand on augmente les quantités. Mais le but n'est pas pour moi de stoker des exemplaires papier. Je donne ces prix à titre indicatif.
 
@@ -44,15 +44,15 @@ C'est sans doute le service de POD le plus populaire, et celui qui a été acces
 
 Pour *Clitoria*, je choisis un livre à couverture souple premium, format 10,79 x 17,46, sensiblement plus petit que celui de CreateSpace, format plus près du livre de poche (je dois augmenter la pagination de 10 pages). Malheureusement, je ne peux ni choisir le papier ni le style mat ou brillant de la couverture.
 
-![Prix sur Lulu.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/pod3.png)
+![Prix sur Lulu.](https://tcrouzet.com/images_tc/2014/10/pod3.png)
 
 Les choses prennent assez vite une tournure déplaisante. Le prix de fabrication s'élève à 3,55 €/exemplaire, soit plus du double que chez CreateSpace avec un papier de moins bonne qualité. Il m'est impossible de vendre à moins de 6,64 €. Et si je veux conserver la même marge qu'avec CreateSpace, je dois vendre le livre à 11 €. Autant dire que Lulu est immédiatement disqualifié puisqu'il m'impose d'être plus cher qu'un éditeur traditionnel.
 
-![Lulu, livraison](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/pod4.png)
+![Lulu, livraison](https://tcrouzet.com/images_tc/2014/10/pod4.png)
 
 Pour les commandes en direct, les tarifs sont aussi élevés que chez CreateSpace, ce qui au minimum nous amène à 7,54 €/exemplaire.
 
-![Lulu, 10 exemplaires](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/pod5.png)
+![Lulu, 10 exemplaires](https://tcrouzet.com/images_tc/2014/10/pod5.png)
 
 Pour dix exemplaires, je tombe à 5,29 €/exemplaires, soit bien plus qu'avec CreateSPace, sans réellement bénéficier de services supplémentaires. Pire, je dois avant de rendre le livre disponible commander une épreuve papier. Étape sans intérêt technique qui a juste pour fonction d'assurer un revenu minimum à Lulu.
 
@@ -60,7 +60,7 @@ Pour dix exemplaires, je tombe à 5,29 €/exemplaires, soit bien plus qu'avec C
 
 Il existe de nombreuses autres plateformes de POD. Il me suffit d'un rapide coup d'œil pour les disqualifier. [BOB propose une pratique calculette de prix.](http://www.bod.fr/auteurs/publier-mon-livre/calculette-de-prix.html) Je peux vendre en direct sur la plateforme le livre pour 4,99 €, mais déjà avec une marge plus réduite que sur Amazon. Par ailleurs, pour disposer d'une distribution étendue aux librairies en ligne comme avec CreateSpace et Lulu, je dois m'acquitter d'un forfait de 39 €.
 
-![BOD](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/pod6.png)
+![BOD](https://tcrouzet.com/images_tc/2014/10/pod6.png)
 
 J'ai aussi regardé du côté d'[Atramenta](http://www.atramenta.net/publier/livre.php). Pas d'outil de publication dynamique. C’est un service à l'ancienne. Il suffit de regarder le prix des livres vendus pour constater qu'il est impossible de révilaiser avec CreateSpace. Je passe sous silence les offres qui ne méritent même pas d'être citées.
 
@@ -68,11 +68,11 @@ J'ai aussi regardé du côté d'[Atramenta](http://www.atramenta.net/publier/liv
 
 Une première conclusion : on se fiche bien des auteurs, en leur proposant des services souvent peu compétitifs à un prix prohibitif. Un auteur indé doit vendre moins cher qu'un auteur à compte d'éditeur. Donc toutes les solutions qui ne respectent pas ce critère doivent être écartées.
 
-![CreateSPace réseau](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/10/poda.png)
+![CreateSPace réseau](https://tcrouzet.com/images_tc/2014/10/poda.png)
 
 Maintenant, pourquoi les auteurs indés sont-ils aussi nombreux aux USA ? Parce que CreateSpace distribue sur Amazon et sur les autres librairies en ligne, mais aussi dans les libraires physiques. L’arrivée d’une telle offre en France est inévitable, et c'est alors que débutera chez nous le règne des indés.
 
-Vous allez me dire que je ne suis pas cohérent. D'un côté, [je critique la plateformisation du Web](http://blog.tcrouzet.com/2014/09/16/la-fin-de-lartisanat-numerique/), d'un autre j'en fais l'éloge à travers CreateSpace. Vous avez raison. Mais dans le monde de l'édition traditionnelle, les éditeurs et les distributeurs sont depuis trop longtemps des plateformes incontournables. Donc l'auteur indé me paraît bien moins soumis aux plateformes que l'auteur à compte d'éditeur. Et ce processus ne fait que commencer. Les choses s'accélèrent. Parce que statistiquement nous vendons peu, nous avons tout intérêt à devenir indé. Ce n'est que quand nous émergeons que peut-être nous devons commencer à négocier. Ne nous trompons pas en faisant le contraire.
+Vous allez me dire que je ne suis pas cohérent. D'un côté, [je critique la plateformisation du Web](/2014/09/16/la-fin-de-lartisanat-numerique/), d'un autre j'en fais l'éloge à travers CreateSpace. Vous avez raison. Mais dans le monde de l'édition traditionnelle, les éditeurs et les distributeurs sont depuis trop longtemps des plateformes incontournables. Donc l'auteur indé me paraît bien moins soumis aux plateformes que l'auteur à compte d'éditeur. Et ce processus ne fait que commencer. Les choses s'accélèrent. Parce que statistiquement nous vendons peu, nous avons tout intérêt à devenir indé. Ce n'est que quand nous émergeons que peut-être nous devons commencer à négocier. Ne nous trompons pas en faisant le contraire.
 
 Au passage un autre mythe tombe : publier en papier ne revient guère plus cher que publier en numérique. La preuve est faire plus haut. En vendant la version ebook de *Clitoria* à 2,99 €, je m'assurerai la même marge qu'avec la version papier à 4,99 €.
 

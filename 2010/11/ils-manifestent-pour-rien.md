@@ -48,7 +48,7 @@ Le problème étant de remettre en cause une des structures pyramidales qui rég
 
 Leurs combats sont parallèles et rejoignent ma propre opposition aux structures pyramidales vidées de leur sens et qui ne font que compliquer la société, en grippant les rouages et nous mettant en incapacité de réagir à la complexification du monde. Nous touchons au nœud de nos problèmes. Nombre des anciennes structures de pouvoir, par exemple celle des banquiers ou celle des éditeurs de codes mais aussi des éditeurs de connaissances ou de culture, entravent le développement de l'intelligence collective, intelligence plus que jamais nécessaire dans un monde confronté à des problèmes globaux.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/11/TRM_v1_01.jpg)
+![](https://tcrouzet.com/images_tc/2010/11/TRM_v1_01.jpg)
 
 
 

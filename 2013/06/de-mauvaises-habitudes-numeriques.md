@@ -19,7 +19,7 @@ Voilà un portait rapide du Crouzet d’avant, du Crouzet au bord du burnout. O�
 4. J’aime prendre quelques photos. Je les publie en temps réel, sinon je les laisse mourir sur un disque dur. Une façon de documenter ma vie, et celle de ma famille. J’ai encore cette faiblesse. Isa me la reproche. Maintenant que Flickr offre un téraoctet, j’envoie les photos de famille dans un espace fermé.
 5. Je ne suis plus proactif sur les réseaux sociaux. Je me fiche de ce qui s’y passe. Des mails me préviennent de l’activité me concernant. Je n’attends plus aucun petit plaisir de ce côté.
 6. Je suis beaucoup plus critique sur nos outils…
-7. Je bloque toujours, parce que j’aime cette écriture et qu’elle me paraît centrale… mais en ayant réduit les autres nuisances, j’arrive à retrouver du temps pour les textes plus longs. J’ai enfin réussi à boucler mon [*Ératosthène*](http://blog.tcrouzet.com/eratosthene/).
+7. Je bloque toujours, parce que j’aime cette écriture et qu’elle me paraît centrale… mais en ayant réduit les autres nuisances, j’arrive à retrouver du temps pour les textes plus longs. J’ai enfin réussi à boucler mon [*Ératosthène*](/eratosthene/).
 8. L’appel de l’écran est moins violent, mais toujours là… Quelque chose naît dont j’aime voir l’évolution.
 
 Tags: J'ai débranché, NetCulture, une

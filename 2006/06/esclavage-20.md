@@ -22,7 +22,7 @@ La vraie question n'est pas la pertinence des sites collaboratifs mais plutôt l
 
 Mais cette logique va-t-elle perdurer ? Si le site collaboratif veut attirer des investisseurs, s'il veut éviter de se faire avaler par un concurrent, il doit jouer le jeu capitaliste. En revanche, cette stratégie braquera les collaborateurs qui risquent de se détourner vers un concurrent moins gourmand et qui offre plus d'avantages. Logiquement, les sites les plus équitables devraient donc se développer au profit des plus gourmands, ce qui laisse présager l'apparition d'une nouvelle économie post-capitaliste.
 
-Les sites collaboratifs préfigurent la société de demain. Une société qui parie sur le [gagnant-gagnant](http://blog.tcrouzet.com/2006/05/12/win-win/) et non sur le gagnant-perdant comme la société capitaliste.
+Les sites collaboratifs préfigurent la société de demain. Une société qui parie sur le [gagnant-gagnant](/2006/05/12/win-win/) et non sur le gagnant-perdant comme la société capitaliste.
 
 *PS1 : La gratuité d’internet est une illusion. Maintenir internet en vie, ça coûte. Mais internet peut vivre sans que quelques uns se sucrent sur le dos de tous les autres. C’est à nous de construire cet internet équitable.*
 

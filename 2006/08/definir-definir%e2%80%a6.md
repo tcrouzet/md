@@ -2,7 +2,7 @@
 
 Je croise [beaucoup de sceptiques](http://blpwebzine.blogs.com/champg/2006/07/freemen_dbat_cr.html#more) quant à mes idées. Ils voudraient que je définisse exactement tout ce dont je parle. Je comprends leur désir d’éclaircissement. C’est pour ça que je reformule souvent les mêmes idées. J’ai parfois l’impression d’être devenu un homme politique.
 
-Par rapport aux définitions, ma position est simple. Je me refuse à perdre du temps à définir. Je me contente de définitions approximatives, avec pas mal du flou sur les contours, ce qui laisse une grande liberté pour étendre les concepts. Je me suis déjà expliqué à ce sujet en évoquant [Wittgenstein](http://blog.tcrouzet.com/2006/07/13/internet-comme-territoire-ter/).
+Par rapport aux définitions, ma position est simple. Je me refuse à perdre du temps à définir. Je me contente de définitions approximatives, avec pas mal du flou sur les contours, ce qui laisse une grande liberté pour étendre les concepts. Je me suis déjà expliqué à ce sujet en évoquant [Wittgenstein](/2006/07/13/internet-comme-territoire-ter/).
 
 Il ne faut surtout pas résumer la pensée de Wittgenstein au *Tractatus*. C’est une œuvre de jeunesse, beaucoup étudiée certes, mais que Wittgenstein renia plus tard. Dans le *Tractatus*, Wittgenstein est un logicien, il croit à la logique, il croit encore qu’elle peut venir à bout de tous les problèmes. C’est pour cette raison qu’il termine avec la fameuse proposition 7 :
 
@@ -18,9 +18,9 @@ Qu’est-ce que j’entends par global. Mondial ? Non. Pour le coup, j’en res
 
 Donc quand je parle d’action globale, tout dépend de l’ensemble considéré. Si je discute d’écologie, cet ensemble peut être le monde. Mais si je discute du chômage, il peut n’être que la France ou même une région. À mes yeux, une action globale s’applique à un ensemble de lieux et de gens. C’est ainsi que je l’oppose à local. Une action locale se déroule à un endroit précis et elle n’implique que quelques individus, voire un seul individu.
 
-Quand [ma femme ramasse des papiers dans les rues](http://blog.tcrouzet.com/2006/05/14/que-faire/), elle effectue une action locale. Quand nous roulons avec notre voiture, nous polluons localement. Et quand nos pollutions se cumulent, elles deviennent globales. Quand les gouvernements européens prennent des directives, elles sont globales, applicables en tout lieu de l’union.
+Quand [ma femme ramasse des papiers dans les rues](/2006/05/14/que-faire/), elle effectue une action locale. Quand nous roulons avec notre voiture, nous polluons localement. Et quand nos pollutions se cumulent, elles deviennent globales. Quand les gouvernements européens prennent des directives, elles sont globales, applicables en tout lieu de l’union.
 
-Maintenant qu’en est-il du traité Kyoto ? Je ne suis pas plus contre lui que contre la convention de Genève. Je crois même que des initiatives de ce genre nous donnent une idée de ce que doit être [une gouvernance mondiale](http://blog.tcrouzet.com/2006/07/04/interdependance-ou-etat/). À mes yeux, Kyoto n’est pas une action globale mais un appel à réduire les gaz à effet de serre. Il ne nous dit pas comment réussir cette réduction, donc quelles actions adopter.
+Maintenant qu’en est-il du traité Kyoto ? Je ne suis pas plus contre lui que contre la convention de Genève. Je crois même que des initiatives de ce genre nous donnent une idée de ce que doit être [une gouvernance mondiale](/2006/07/04/interdependance-ou-etat/). À mes yeux, Kyoto n’est pas une action globale mais un appel à réduire les gaz à effet de serre. Il ne nous dit pas comment réussir cette réduction, donc quelles actions adopter.
 
 Pour répondre à l’appel de Kyoto, plusieurs approches peuvent être envisagées.
 
@@ -28,13 +28,13 @@ Pour répondre à l’appel de Kyoto, plusieurs approches peuvent être envisag�
 
 2. Chacun de nous peut essayer de dégager moins de gaz à effet de serre.
 
-Ces deux approches ne sont pas antinomiques. Je pense juste que la première ne marche pas ou marche mal. Pour preuve, rien ne change au niveau global. Kyoto a dix ans et la pollution empire toujours. Pire, c’est à cause de décisions globales qui ne marchent pas que nous en sommes dans notre situation actuelle. Comme dans un monde complexe personne ne peut anticiper les conséquences des actions globales, même les mieux intentionnées en apparence, elles sont [dangereuses](http://blog.tcrouzet.com/2006/07/19/l%e2%80%99irresponsabilite-des-politiques-bis/).
+Ces deux approches ne sont pas antinomiques. Je pense juste que la première ne marche pas ou marche mal. Pour preuve, rien ne change au niveau global. Kyoto a dix ans et la pollution empire toujours. Pire, c’est à cause de décisions globales qui ne marchent pas que nous en sommes dans notre situation actuelle. Comme dans un monde complexe personne ne peut anticiper les conséquences des actions globales, même les mieux intentionnées en apparence, elles sont [dangereuses](/2006/07/19/l%e2%80%99irresponsabilite-des-politiques-bis/).
 
 Pour moi, la source de tous nos maux, c’est de croire que nous pouvons prévoir l’avenir d’un monde complexe, que nous pouvons le contrôler. Que nous puissions modéliser les systèmes complexes ne nous aide pas pour autant à nous projeter dans leur avenir. Nous n’avons pas d’autres choix que d’attendre que le temps passe. Je me suis évertué à expliquer ce point dans *Le peuple des connecteurs*. C’est pour moi un point capital. Il soutient tout ce que je dis. On ne peut pas prévoir.
 
 Par exemple, en disant qu’il faut mettre des filtres sur tous les échappements, on est capable d’aggraver le problème qu’on espère solutionner si par malheur les filtres dégagent une forme de pollution imprévue. J’écrirai dans les jours prochains un article à ce sujet, avec un exemple sur les éoliennes. Au contraire, si nous adoptons des solutions locales, donc diverses, il est plus facile de faire marche arrière lorsque des difficultés surviennent.
 
-Croire que nous pouvons diriger et contrôler est typique de [l’âge industriel](http://blog.tcrouzet.com/2006/07/31/je-suis%e2%80%a6-pas-encore-un-freemen/). Se morfondre parce que le monde est dans un état déplorable, un état où l’a plongé l’âge industriel et espérer l’en sortir en appliquant les méthodes coupables, c’est schizophrène. Nombreux sont les citoyens qui pensent de la sorte. Voilà pourquoi les choses vont de mal en pis.
+Croire que nous pouvons diriger et contrôler est typique de [l’âge industriel](/2006/07/31/je-suis%e2%80%a6-pas-encore-un-freemen/). Se morfondre parce que le monde est dans un état déplorable, un état où l’a plongé l’âge industriel et espérer l’en sortir en appliquant les méthodes coupables, c’est schizophrène. Nombreux sont les citoyens qui pensent de la sorte. Voilà pourquoi les choses vont de mal en pis.
 
 *PS1 : Une mesure globale doit fixer une direction. Par exemple : consommer moins. Elle ne doit pas imposer une façon de le faire sinon ça deviendrait dangereux, ça couperait toute initiative. Fixer la direction, l’objectif, est un travail de sage, il est nécessaire.*
 

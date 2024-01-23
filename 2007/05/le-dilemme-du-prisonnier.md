@@ -1,6 +1,6 @@
 # Le dilemme du prisonnier
 
-Imaginez. Vous êtes un homme libre, avec un autre homme libre vous êtes en lutte contre les [mysticocapitalistes](http://blog.tcrouzet.com/2007/05/20/integrisme-ou-ecologie-faut-choisir/) et ils vous emprisonnent, vous enfermant chacun dans des cellules isolées. Ils commencent alors à vous interroger afin d’établir votre culpabilité.
+Imaginez. Vous êtes un homme libre, avec un autre homme libre vous êtes en lutte contre les [mysticocapitalistes](/2007/05/20/integrisme-ou-ecologie-faut-choisir/) et ils vous emprisonnent, vous enfermant chacun dans des cellules isolées. Ils commencent alors à vous interroger afin d’établir votre culpabilité.
 
 - Si aucun de vous deux ne dénonce l’autre, le dossier ne peut être bouclé, chacun écope d’une peine clémente de 3 ans. Vous avez coopéré sans avoir communiqué.
 
@@ -24,7 +24,7 @@ Il découvrit que dans d’une société de joueurs qui se retrouvent souvent fa
 
 Immédiatement, on voit que si un joueur coopère, son adversaire coopère lors de la partie suivante. Si deux joueurs qui appliquent cette stratégie se rencontrent, ils vont collaborer longtemps.
 
-Je voudrais maintenant reprendre un exemple donné par [Henri Alberti](http://henrialberti.blogspot.com/) dans un de ses [commentaires](http://blog.tcrouzet.com/2007/05/11/formation-de-vol-2/#comment-24149).
+Je voudrais maintenant reprendre un exemple donné par [Henri Alberti](http://henrialberti.blogspot.com/) dans un de ses [commentaires](/2007/05/11/formation-de-vol-2/#comment-24149).
 
 Des hommes se promènent dans le désert. Un étranger arrive, un gros balaise, il leur pique leur gourde, boit leur eau et leur distille le restant en échange de services. Le balaise, associé à l’ultracapitaliste, assujettit les gentils promeneurs en esclaves. Le méchant ou le traitre serait donc toujours gagnant.
 

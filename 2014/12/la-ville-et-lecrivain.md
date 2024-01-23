@@ -8,11 +8,11 @@ La place, son ventre gelé, son arbre de Noël désaxé, les dorures des grilles
 
 J’aime la ville comme j’aime une œuvre d’art sublime dont la trop longue fréquentation nuirait à mon imaginaire. J’ai vite besoin de me retrouver dans un univers moins esthétique, plus désordonnée, avec l’illusion que tout reste à faire, sans que je doive me glisser entre des beautés innombrables et déjà codifiées.
 
-Je suis venu au café ce soir dans l’idée de penser à mon prochain texte, [un roman en quelque sorte](http://blog.tcrouzet.com/2014/12/18/un-roman-en-365-jours), sur la minute qui a changé l’histoire de l’humanité. Je lis des textes d’astronomie, de roman de SF, je m’y sens bien, loin du politique et de l’art pour l’art. Je redeviens un habitant du temps long. De ces cinq milliards d’années du système solaire, avec cette cascade de coïncidences qui mènent à nous. Une Jupiter pour minimiser les impacts météoritiques tout en ayant au préalable précipité vers nous des pluies torrentielles. Une Lune pour stabiliser l’axe de rotation de la Terre. Une indispensable tectonique des plaques entretenue par la Lune et huilée par les océans. Et la vie, qui chaque fois manque s’éteindre, et chaque fois se réinvente.
+Je suis venu au café ce soir dans l’idée de penser à mon prochain texte, [un roman en quelque sorte](/2014/12/18/un-roman-en-365-jours), sur la minute qui a changé l’histoire de l’humanité. Je lis des textes d’astronomie, de roman de SF, je m’y sens bien, loin du politique et de l’art pour l’art. Je redeviens un habitant du temps long. De ces cinq milliards d’années du système solaire, avec cette cascade de coïncidences qui mènent à nous. Une Jupiter pour minimiser les impacts météoritiques tout en ayant au préalable précipité vers nous des pluies torrentielles. Une Lune pour stabiliser l’axe de rotation de la Terre. Une indispensable tectonique des plaques entretenue par la Lune et huilée par les océans. Et la vie, qui chaque fois manque s’éteindre, et chaque fois se réinvente.
 
 J’ai mon histoire, j’ai mon sujet, du moins assez pour commencer. J’ai une partie de la forme : raconter encore et encore la même minute vue chaque fois par des personnages différents. Voilà posées les principales variables de l’équation. Reste à définir l’intimité littéraire, le ton à donner à chaque minute, avec la volonté d’être dans un pseudo temps réel, notamment dans les dialogues.
 
-J’écarte *a priori* le récit à la première personne, sinon comment faire comprendre en quelques lignes de monologue dans quel personnage je suis. Roland C. Wagner s’est amusé à cet exercice avec [*Rêves de Gloire*](http://blog.tcrouzet.com/2012/08/06/roland-c-wagner-1960-2012/), mais en reprenant les personnages, en nous les faisant découvrir et reconnaître peu à peu. Les miens passeront pour ne pas revenir, sauf Sara Cash, mon héroïne mystérieuse, dont les autres parleront sans qu’elle soit elle-même le sujet d’une de mes minutes. On la découvrira par ce que les autres diront ou penseront d’elle.
+J’écarte *a priori* le récit à la première personne, sinon comment faire comprendre en quelques lignes de monologue dans quel personnage je suis. Roland C. Wagner s’est amusé à cet exercice avec [*Rêves de Gloire*](/2012/08/06/roland-c-wagner-1960-2012/), mais en reprenant les personnages, en nous les faisant découvrir et reconnaître peu à peu. Les miens passeront pour ne pas revenir, sauf Sara Cash, mon héroïne mystérieuse, dont les autres parleront sans qu’elle soit elle-même le sujet d’une de mes minutes. On la découvrira par ce que les autres diront ou penseront d’elle.
 
 Reste à m’essayer à quelques minutes. C’est le plus difficile. Trouver la mécanique littéraire. Ce serait si simple si j’avais mes habitudes, mais j’en change chaque fois, parce que sinon l’écriture serait un business et cette nécessité ne me préoccupe pas. Alors je ne sais pas.
 
@@ -26,7 +26,7 @@ J’ai l’ambition de commencer la publication le premier janvier. Si c’est q
 
 Je viens de relire ces quelques lignes. J’aime le « je » et j’aime les personnages. J’aimerais réussir à les mêler, à tracer une double musique entre des vies et une vie supérieure qui les englobe toutes… comme le point de vue de Sara Cash sur ces gens ?
 
-![Nancy, place Stan.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/12/stan.jpg)
+![Nancy, place Stan.](https://tcrouzet.com/images_tc/2014/12/stan.jpg)
 
 Nancy, place Stan.
 

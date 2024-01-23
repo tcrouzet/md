@@ -1,10 +1,10 @@
 # Lisez-vous de la twittérature ?
 
-Concours de circonstances ? Alors que mon [twiller]() [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) est en relecture chez Fayard pour une publication définitive éventuelle, si ça se fait vous le saurez, j’ai l’impression que la twittérature refait parler d’elle.
+Concours de circonstances ? Alors que mon [twiller]() [*La quatrième théorie*](/la-quatrieme-theorie/) est en relecture chez Fayard pour une publication définitive éventuelle, si ça se fait vous le saurez, j’ai l’impression que la twittérature refait parler d’elle.
 
-[Articles dans *Marianne*, dans *L’Express*, dans les blogs…](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-chroniques/) Peut-être parce que des auteurs populaires se hasardent à lâcher quelques tweets, peut-être aussi tout simplement parce que cette écriture mitraillée engendre un rythme, une forme, une musique… propre à notre époque.
+[Articles dans *Marianne*, dans *L’Express*, dans les blogs…](/la-quatrieme-theorie/la-quatrieme-theorie-chroniques/) Peut-être parce que des auteurs populaires se hasardent à lâcher quelques tweets, peut-être aussi tout simplement parce que cette écriture mitraillée engendre un rythme, une forme, une musique… propre à notre époque.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/07/croisade.png)
+![](https://tcrouzet.com/images_tc/2012/07/croisade.png)
 
 Aujourd’hui, alors que les réseaux sociaux m’agacent de plus en plus, je suis nostalgique de 2008-2010 quand j’écrivais *La quatrième théorie* au jour le jour. Twitter a d’une certaine façon changé ma façon d’écrire. Cet outil ne m’a pas aidé à rencontrer des gens, à faire ma pub, à gérer ma communauté, mais il m’a montré que je pouvais écrire ailleurs que dans Word.
 

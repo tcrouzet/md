@@ -2,11 +2,11 @@
 
 Mois après mois, Wattpad ajoute une petite couche de lecteurs à [*1 minute*](https://www.wattpad.com/story/29694130-1-minute). Il suffit de zoomer sur la courbe du lectorat pour comprendre la mécanique.
 
-![Zoom juillet](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/08/watt7_1.png)
+![Zoom juillet](https://tcrouzet.com/images_tc/2015/08/watt7_1.png)
 
 Je me demande comment nous pourrions réussir ce tour de force sur les blogs où nos billets, sauf effet improbable de référencement, captent leur lectorat en quelques jours puis stagnent dans nos archives (certes ils progressent dans le temps, mais de façon moins spectaculaire que sur Wattpad).
 
-Cette différence entre les deux modèles me tracasse. Parce que, si mon blog n’est pas capable de ramener les nouveaux lecteurs en début de narration, je ne peux y publier de narration, et seulement des billets indépendants, ou vaguement connectés dans un projet où chaque étape doit être facultative, [mes vagabondages par exemple](http://blog.tcrouzet.com/2014/11/13/le-je-lappareil-photo-et-limprimante/1/) (preuve s’il en faut que l’outil influence l’écriture comme j’essaie de le montrer dans [*La mécanique du texte*](http://blog.tcrouzet.com/la-mecanique-du-texte/)).
+Cette différence entre les deux modèles me tracasse. Parce que, si mon blog n’est pas capable de ramener les nouveaux lecteurs en début de narration, je ne peux y publier de narration, et seulement des billets indépendants, ou vaguement connectés dans un projet où chaque étape doit être facultative, [mes vagabondages par exemple](/2014/11/13/le-je-lappareil-photo-et-limprimante/1/) (preuve s’il en faut que l’outil influence l’écriture comme j’essaie de le montrer dans [*La mécanique du texte*](/la-mecanique-du-texte/)).
 
 Imaginez une démonstration mathématique où on ne découvrirait que quelques étapes. Mieux, un programme informatique dont certaines routines seraient absentes, ou une horloge où il manquerait des rouages. C’est un peu ça un blog littéraire. Nous sommes forcés d’y publier des séries non linéaires, lisibles en tout sens, et surtout qui supportent les trous (vous me direz que là modernité pointe dans cette direction).
 
@@ -16,11 +16,11 @@ Je ne souhaite pas que les nouveaux lecteurs de mon blog soient obligatoirement 
 
 Attention, j’aime la non-linéarité. Je n’ai jamais rien rêvé de plus topologique comme narration que [*1 minute*](https://www.wattpad.com/story/29694130-1-minute), mais je veux que cette non-linéarité prenne le risque de tenir son lecteur. Parce que Wattpad peut aussi être violent. Et faire mal. La courbe globale montre combien mon feuilleton peine à garder les lecteurs qui découvrent les premiers chapitres (et c’est parce que le blog est moins douloureux pour l'ego qu’il encourage un dilettantisme littéraire).
 
-![Courbe complète](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/08/watt_7_2.png)
+![Courbe complète](https://tcrouzet.com/images_tc/2015/08/watt_7_2.png)
 
 J’ai essayé de faire parler cette courbe autrement. Le lectorat moyen des 31 premiers chapitres ne cesse d’augmenter, alors que celui des chapitres suivants se stabilise (à 279 lectures/chapitre en juillet). Wattpad recrute donc bel et bien sur le début du roman, mais le roman lui-même peine à profiter de cette manne.
 
-![Lectorat par chapitre](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/08/watt_7_3.png)
+![Lectorat par chapitre](https://tcrouzet.com/images_tc/2015/08/watt_7_3.png)
 
 Alors la tentation du blog est forte. Tout recommencer à zéro. Passer à un autre échantillon de la série, indépendant même si construit selon le même cahier des charges. Pourtant, non, je persévère dans la direction choisie, parce qu’elle me rend heureux, parce qu’elle me tient… et parce que le blog, c’est implicitement subir la dictature des chiffres, même quand on ne consulte jamais ses statistiques. C’est une façon de la subir en creux, parce que le lectorat d’un jour n’influence que faiblement celui du jour suivant.
 

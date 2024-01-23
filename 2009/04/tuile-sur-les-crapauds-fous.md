@@ -1,6 +1,6 @@
 # Tuile sur les crapauds fous
 
-[Aucun n’a résisté à la migration](http://blog.tcrouzet.com/2009/04/02/les-crapauds-fous/), ou presque. J’ai passé la matinée de hier à lire des articles sur les crapauds, encore ce matin en rentrant de Paris dans le TGV, connecté avec mon iPhone jailbreaké.
+[Aucun n’a résisté à la migration](/2009/04/02/les-crapauds-fous/), ou presque. J’ai passé la matinée de hier à lire des articles sur les crapauds, encore ce matin en rentrant de Paris dans le TGV, connecté avec mon iPhone jailbreaké.
 
 Je n’ai trouvé aucun article scientifique soutenant la théorie quand je reçois un mail de Pierre de La Coste, [l’auteur de l’article initial sur les crapauds](http://hyperrepublique.blogs.com/public/2008/06/la-thorie-du-cr.html), qui me dit qu’il a tout simplement inventé. La théorie était belle mais, plus qu’une métaphore, c’est une légende urbaine, pas vraiment ce que je cherche.
 

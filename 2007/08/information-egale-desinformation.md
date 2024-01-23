@@ -2,7 +2,7 @@
 
 « Trop d’information tue l’information. » On entend souvent cette critique au sujet d’internet, notamment dans les médias traditionnels. Les blogs et autres cites citoyens engendreraient de la confusion plus qu’autre chose.
 
-![Par Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070831pacco.gif)
+![Par Pacco](https://tcrouzet.com/images_tc/20070831pacco.gif)
 
 L’absence de tri a priori n’est pas un handicap pour le citoyen mais au contraire, en théorie tout au moins, une garantie qu’il peut se forger lui-même ses propres opinions.
 
@@ -24,7 +24,7 @@ Telle est en tous cas mon opinion et celle de [Nassim Nicholas Taleb](http://www
 
 7. Les journalistes donnent la parole à des experts, presque toujours les mêmes, qui, en fait, ne défendent que leur point de vue et qui, à leur tour, livrent des interprétations. Le recours aux experts est un moyen d’imposer au public une vision de la réalité comme s’il n’existait qu’une réalité. Taleb dénonce l’essentialisme platonicien duquel nous sommes incapables de nous extraire. Les informations tentent de décrire une réalité en soi qui n’existe pas.
 
-8. Par-dessus tout, en réduisant la complexité, en catégorisant, les journalistes refusent d’admettre le hasard. Ils le nient systématiquement en inventant des causalités. Il suffit de les voir commenter les fluctuations boursières. Tous les médias ne cherchent qu’à dissimuler l’aspect profondément aléatoire de notre monde. Ils nous désinforment. Pire, ils ne nous préparent pas aux [black swans](http://blog.tcrouzet.com/2006/07/17/l%e2%80%99irresponsabilite-des-politiques/), ces surgissements de l’imprévisible.
+8. Par-dessus tout, en réduisant la complexité, en catégorisant, les journalistes refusent d’admettre le hasard. Ils le nient systématiquement en inventant des causalités. Il suffit de les voir commenter les fluctuations boursières. Tous les médias ne cherchent qu’à dissimuler l’aspect profondément aléatoire de notre monde. Ils nous désinforment. Pire, ils ne nous préparent pas aux [black swans](/2006/07/17/l%e2%80%99irresponsabilite-des-politiques/), ces surgissements de l’imprévisible.
 
 9. Taleb, qui travailla longtemps dans la finance, explique que les chauffeurs de taxi sont aussi capables de prévoir l’avenir que n’importe quel analyste. Les journalistes se complaisent pourtant à nous parler d’un demain dont ils n’ont pas idée. Pour ma part, je préfère lire de bons auteurs de science fiction.
 

@@ -1,6 +1,6 @@
 # Retour sur le TCE
 
-Je débute [mon prochain livre sur internet et la politique](http://blog.tcrouzet.com/2006/07/20/blogs-et-politique/) en essayant de comprendre comment internet a influencé le référendum européen 2005, le fameux TCE.
+Je débute [mon prochain livre sur internet et la politique](/2006/07/20/blogs-et-politique/) en essayant de comprendre comment internet a influencé le référendum européen 2005, le fameux TCE.
 
 ![](https://tcrouzet.com/https://tcrouzet.com/images_tc/tce1.jpg)
 

@@ -1,6 +1,6 @@
 # Mais qui nomme les experts ?
 
-Hier soir, j'ai dîné avec des amis anglais. Ils ont voulu que je leur résume *Le peuple des connecteurs*. En parlant en anglais, je n'ai pas d'autre choix que de simplifier parce que sinon je ne m'en sors pas. J'ai juste choisi de discuter de la [complexité](http://blog.tcrouzet.com/peuple/quest-complexite-35737) croissante et de ses conséquences.
+Hier soir, j'ai dîné avec des amis anglais. Ils ont voulu que je leur résume *Le peuple des connecteurs*. En parlant en anglais, je n'ai pas d'autre choix que de simplifier parce que sinon je ne m'en sors pas. J'ai juste choisi de discuter de la [complexité](/peuple/quest-complexite-35737) croissante et de ses conséquences.
 
 Pour décrire la complexité, je donne souvent l'exemple de [la chaîne alimentaire dans l'atlantique nord](http://www.fisherycrisis.com/coral7.html). Nous traçons les uns avec les autres et avec toutes les choses de l'univers un schéma encore plus complexe. Lorsque nous agissons en un point de la chaîne personne n'est capable de dire ce qui se produira ailleurs. Pour cette raison, il s'avère, par exemple, presque impossible de sauver les cabillauds en cours d'extinction dans l'Atlantique Nord.
 

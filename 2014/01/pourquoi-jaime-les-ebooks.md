@@ -2,9 +2,9 @@
 
 Parce qu’ils me font gagner une fortune. Ha ! ha ! Vous n’y avez pas cru, j’en suis sûr. C’est pas la bonne raison. Il faut chercher ailleurs mon intérêt pour ces petites capsules de Web.
 
-D’abord, le rapport à l’écriture. Au stade actuel de mes élucubrations, le propre de l’écriture Web, c’est le [Send](http://blog.tcrouzet.com/tag/send/), cette capacité de lâcher la cavalerie immédiatement dans une chevauchée fantastique. Rien ne nous empêche d’en faire autant avec les ebooks. Tous les bons éditeurs de texte génèrent désormais des epubs à la volée. Hop, sur [Immateriel](http://www.immateriel.fr/), et voilà le texte propagé dans toutes les librairies.
+D’abord, le rapport à l’écriture. Au stade actuel de mes élucubrations, le propre de l’écriture Web, c’est le [Send](/tag/send/), cette capacité de lâcher la cavalerie immédiatement dans une chevauchée fantastique. Rien ne nous empêche d’en faire autant avec les ebooks. Tous les bons éditeurs de texte génèrent désormais des epubs à la volée. Hop, sur [Immateriel](http://www.immateriel.fr/), et voilà le texte propagé dans toutes les librairies.
 
-Dans [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/), j’ai considéré l’interaction avec le lecteur comme le Graal de l’écriture Web. J’en suis revenu. Ce n’est qu’une possibilité, non encore intégrée aux ebooks eux-mêmes, il est vrai. Je crois même qu’elle affaiblirait les ebooks. Et cela sur un plan énergétique.
+Dans [*La stratégie du cyborg*](/la-strategie-du-cyborg/), j’ai considéré l’interaction avec le lecteur comme le Graal de l’écriture Web. J’en suis revenu. Ce n’est qu’une possibilité, non encore intégrée aux ebooks eux-mêmes, il est vrai. Je crois même qu’elle affaiblirait les ebooks. Et cela sur un plan énergétique.
 
 Je m’explique. Mon blog est hébergé sur un serveur Web, qui me coûte 20 €/mois, qui a besoin d’électricité, de maintenance. Si j’oublie de payer, je disparais du Web. Si je ne veille pas au grain, je me fais hacker et je disparais aussi du Web. Si je dis des choses déplaisantes, je risque d’être censuré par le gouvernement. Un site Web est une entité provisoire. Certes mobile de serveur en serveur, mais avec un corps relativement lourd et mortel à brève échéance.
 
@@ -20,7 +20,7 @@ L’ebook, comme le livre, est une façon pour moi de m’alléger. De dire « 
 
 J’aime les ebooks autant pour leur minimalisme technique que pour leur résilience politique et écologique. Et puis je les aime aussi parce que je passe mon temps à lire les ebooks des autres. Hier, j’ai pris un coup de chaud avec *Le minotaure ou la halte d'Oran* de Camus.
 
-![Bacterial Spores par adonofrio, meilleure métaphore selon moi des ebooks. ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/spore-630x406.jpg)
+![Bacterial Spores par adonofrio, meilleure métaphore selon moi des ebooks. ](https://tcrouzet.com/images_tc/2014/01/spore-630x406.jpg)
 
 
 

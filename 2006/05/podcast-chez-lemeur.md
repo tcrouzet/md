@@ -14,9 +14,9 @@ Pour [El manu](http://www.elmanu.com/) : Les 20K euro ne vont pas dans ma poche
 
 Pour [Vanch](http://www.pastequepasteque.com/dotclear/) : tu fais quoi toi pour changer les choses ?
 
-Pour [Lorenzo ALALI](http://i.love.free.fr/) : sur la question ne pas voter, je me suis pas mal expliqué sur mon blog. J'ai notamment évoqué la possibilité d'un [basculement en douceur avec un homme de type Gorbatchev](http://blog.tcrouzet.com/peuple/vive-gorbatchev-35777). Dans le livre, j'ai dit que nous devions toujours voter contre.
+Pour [Lorenzo ALALI](http://i.love.free.fr/) : sur la question ne pas voter, je me suis pas mal expliqué sur mon blog. J'ai notamment évoqué la possibilité d'un [basculement en douceur avec un homme de type Gorbatchev](/peuple/vive-gorbatchev-35777). Dans le livre, j'ai dit que nous devions toujours voter contre.
 
-Pour la sécu, j'ai pas dit qu'il fallait la supprimer mais que nous devions au moins savoir combien les soins coûtent. C'est un minimum. Nous avons sinon tendance à considérer les médecins comme de simples machines administratives. Ça ne veut pas dire que nous ne pouvons pas inventer une [sécu 2.0](http://blog.tcrouzet.com/peuple/secu-2-0-35410).
+Pour la sécu, j'ai pas dit qu'il fallait la supprimer mais que nous devions au moins savoir combien les soins coûtent. C'est un minimum. Nous avons sinon tendance à considérer les médecins comme de simples machines administratives. Ça ne veut pas dire que nous ne pouvons pas inventer une [sécu 2.0](/peuple/secu-2-0-35410).
 
 Bien sûr un connecteur ne sait pas ce qui va marcher, c'est pour ça que nous devons nous fier à l'auto-organisation. Quand nous créons le Web, nous ne savons pas ce qui va marcher. Et pourtant ça marche.
 

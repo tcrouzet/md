@@ -1,6 +1,6 @@
 # Pas de galette pour Sarkozy
 
-Hier, samedi 27 janvier 2007, [la grève des blogs asniérois](http://blog.tcrouzet.com/2007/01/26/sarkozy-au-pied-du-mur/) a touché au but. Suivie par 20 blogs sur 22, elle a poussé Nicolas Sarkozy à admettre « par contumace » que Manuel Aeschlimann était allé trop loin. Est-ce une victoire du cinquième pouvoir ? C’est sans doute trop tôt pour le dire car aucun représentant de l’UMP ne s’est exprimé mais je ne crois pas à une coïncidence. La grève a été annoncée jeudi 26, le même jour Nicolas Sarkozy adressait une [lettre d’excuse](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/lettresarko.pdf) au bureau de l’UMP d’Asnières.
+Hier, samedi 27 janvier 2007, [la grève des blogs asniérois](/2007/01/26/sarkozy-au-pied-du-mur/) a touché au but. Suivie par 20 blogs sur 22, elle a poussé Nicolas Sarkozy à admettre « par contumace » que Manuel Aeschlimann était allé trop loin. Est-ce une victoire du cinquième pouvoir ? C’est sans doute trop tôt pour le dire car aucun représentant de l’UMP ne s’est exprimé mais je ne crois pas à une coïncidence. La grève a été annoncée jeudi 26, le même jour Nicolas Sarkozy adressait une [lettre d’excuse](https://tcrouzet.com/images_tc/lettresarko.pdf) au bureau de l’UMP d’Asnières.
 
 > ... mon entrée en campagne me contraint malheureusement à renoncer à ma venue. Je vous prie de pardonner ce contretemps qui m'est imposé par des obligations auxquelles je ne puis me soustraire...
 

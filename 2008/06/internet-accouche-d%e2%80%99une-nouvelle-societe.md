@@ -1,6 +1,6 @@
 # Internet accouche d’une nouvelle société
 
-À l’occasion des [dix ans Rézonance](http://blog.tcrouzet.com/2008/04/25/le-monde-change-et-vous/), le journaliste Suisse Pierre Comon m’a posé quelques questions. Voici son papier publié la semainde dernière dans l'hebdo *Entreprise romande*.
+À l’occasion des [dix ans Rézonance](/2008/04/25/le-monde-change-et-vous/), le journaliste Suisse Pierre Comon m’a posé quelques questions. Voici son papier publié la semainde dernière dans l'hebdo *Entreprise romande*.
 
 Quand on lui fait remarquer que son éditeur le présente comme un « spécialiste international des nouvelles technologies », Thierry Crouzet s'exclame : « ça ne veut rien dire! Il avait simplement besoin de me ranger dans une case, mais je ne suis spécialiste de rien du tout ! Ce que je fais, c'est prendre des éléments dans des domaines séparés et les connecter, faire des liens. Je suis un connecteur ».
 

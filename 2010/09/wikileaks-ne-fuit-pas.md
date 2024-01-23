@@ -1,6 +1,6 @@
 # WikiLeaks ne fuit pas
 
-J’ai évité de parler de [WikiLeaks](http://wikileaks.org/), tout le monde le fait, puis, à force d’entendre des bruits, j’ai fini par avoir quelques idées en rapport avec cette affaire, elles complèteront bientôt la version définitive de [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/), bientôt sur publie.net.
+J’ai évité de parler de [WikiLeaks](http://wikileaks.org/), tout le monde le fait, puis, à force d’entendre des bruits, j’ai fini par avoir quelques idées en rapport avec cette affaire, elles complèteront bientôt la version définitive de [*J’ai eu l’idée*](/id/), bientôt sur publie.net.
 
 > J’ai eu l’idée qu’un monde sans secret serait invivable. Nous avons besoin de mystères.
 

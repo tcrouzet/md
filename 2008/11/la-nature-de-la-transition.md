@@ -4,11 +4,11 @@ Pour certains, nous traversons un soubresaut historique. Quelques ajustements au
 
 Je ne cherche même pas à savoir ce qu’ils entendent par normale, sachant que ce qui serait normal pour moi ne le serait pas pour eux.
 
-Pour d’autres, dont je suis, nous nous trouvons à la veille d’une [transition historique](http://blog.tcrouzet.com/2008/04/17/epoque-de-transition-ou-pas/). Qu’est-ce qu’une transition ? Une période après laquelle plus rien ne peut plus être comme avant. Par exemple, les cyanobactéries ont provoqué une transition il y a trois milliards d’années en injectant l’oxygène dans l’atmosphère.
+Pour d’autres, dont je suis, nous nous trouvons à la veille d’une [transition historique](/2008/04/17/epoque-de-transition-ou-pas/). Qu’est-ce qu’une transition ? Une période après laquelle plus rien ne peut plus être comme avant. Par exemple, les cyanobactéries ont provoqué une transition il y a trois milliards d’années en injectant l’oxygène dans l’atmosphère.
 
 La transition est rarement instantanée, même celle qui mit fin aux dinosaures. Par exemple, entre le découverte de la sphéricité de la terre et la prise de conscience effective de la planète, il aura fallut plus de 2000 ans.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/11/vs.png)
+![](https://tcrouzet.com/images_tc/2008/11/vs.png)
 
 Pour ce qui nous concerne, je vois d’un côté de la transition, le paradigme pyramidal, de l’autre, le paradigme réseau. Bien qu’incompatibles, ces deux paradigmes coexistent déjà. Nous sommes dans la même situation que les Grecs. Ils vivaient comme si le monde était petit et plat mais quelques-uns, Alexandre en particulier, conçurent leur vie dans le monde immense et sphérique. Aujourd’hui, si la plupart des entreprises respectent le modèle pyramidal, certaines ont déployé depuis une trentaine d’années des structures en réseau.
 
@@ -18,7 +18,7 @@ Je crois que si nous ne transitons pas ce sera une catastrophe. En 2050, nous se
 
 Donc soit le système pyramidal va dans le mur et nous pousse au suicide collectif, soit il se durcit. Dans le deux cas, ce sera dramatique et des hommes se dresseront pour empêcher ce massacre. Je me dis souvent que mes enfants devront faire la guerre. Ce n’est pas une pensée optimiste.
 
-Heureusement, il y a une autre possibilité. Nous transitons d’un paradigme à l’autre. La transition sera alors comme je l’ai déjà écrit [spontanée, violente ou accompagnée](http://blog.tcrouzet.com/2008/11/23/pour-une-politique-de-transition/).
+Heureusement, il y a une autre possibilité. Nous transitons d’un paradigme à l’autre. La transition sera alors comme je l’ai déjà écrit [spontanée, violente ou accompagnée](/2008/11/23/pour-une-politique-de-transition/).
 
 Spontanée j’aimerais bien mais elle ne l’est pas pour le moment. Partout des gens meurent à cause de la crise du système actuel. Ce n’est pas la transition qui les tue mais ses prémices.
 

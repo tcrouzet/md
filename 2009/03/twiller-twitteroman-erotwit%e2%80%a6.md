@@ -1,8 +1,8 @@
 # Twiller, twitteroman, erotwit…
 
-Après avoir [lancé l’idée d’écrire un twiller](http://blog.tcrouzet.com/2008/12/21/du-keitai-shousetsu-au-twiller/), j’ai commencé à publié [*Croisade*](http://blog.tcrouzet.com/2009/03/13/preface-a-croisade/) à partir du 25 décembre 2008, c’était mon cadeau de Noël. En fait un véritable cadeau pour moi-même avant d’être un cadeau pour les quelques lecteurs fidèles qui me suivent. J’ai maintenant du mal à écrire autre chose, si je m’écoutais je ne ferais que ça.
+Après avoir [lancé l’idée d’écrire un twiller](/2008/12/21/du-keitai-shousetsu-au-twiller/), j’ai commencé à publié [*Croisade*](/2009/03/13/preface-a-croisade/) à partir du 25 décembre 2008, c’était mon cadeau de Noël. En fait un véritable cadeau pour moi-même avant d’être un cadeau pour les quelques lecteurs fidèles qui me suivent. J’ai maintenant du mal à écrire autre chose, si je m’écoutais je ne ferais que ça.
 
-En décembre, je travaillais à [*Une brève histoire de l’informatique*](http://blog.tcrouzet.com/tag/une-breve-histoire-de-linformatique/), projet aujourd’hui en stand by car je prépare autre chose dont je vous parlerai bientôt, en vous mettant bien sûr à contribution. Un des chapitres de cette brève histoire s’intitulait *Le cauchemar de Proust*. Il ressemblait à une énigme. Résumé.
+En décembre, je travaillais à [*Une brève histoire de l’informatique*](/tag/une-breve-histoire-de-linformatique/), projet aujourd’hui en stand by car je prépare autre chose dont je vous parlerai bientôt, en vous mettant bien sûr à contribution. Un des chapitres de cette brève histoire s’intitulait *Le cauchemar de Proust*. Il ressemblait à une énigme. Résumé.
 
 ---
 

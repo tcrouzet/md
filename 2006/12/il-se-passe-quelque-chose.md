@@ -10,7 +10,7 @@ Nous arrivons à la conjonction de beaucoup de choses… business, culture, poli
 
 J’ai passé quatre ans à écrire la vie d’Ératosthène (un roman que je n’ai pas encore publié). Trois siècles avant JC, il a, lui aussi, été au cœur d’une merveilleuse convergence qui a mal terminé. Nous devons rester sur nos gardes.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200612time.jpg)
+![](https://tcrouzet.com/images_tc/200612time.jpg)
 
 *PS1 : Ce n’est pas en prenant la place des oppresseurs qu’on changera le monde mais en inventant un monde avec moins d’oppresseurs. On n’a pas besoin de représentation mais de travailler ensemble dans l’esprit du mouvement open source.*
 

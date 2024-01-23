@@ -1,6 +1,6 @@
 # Mais pourquoi ?
 
-Hier durant ma [conférence à Genève](http://blog.tcrouzet.com/2006/09/08/manager-par-la-connexion/) et aujourd’hui au [WKD](http://www.wkdialogue.org/), je n’ai cessé de me demander pourquoi parlons-nous de complexité, pourquoi disons-nous que nous devons changer notre façon de travailler et de gérer la société, pourquoi devons-nous changer la politique ? Tout le monde parle comme si la réponse était évidente mais je crois qu’elle ne l’est pas pour tout le monde, et même pour ceux qui en parlent beaucoup.
+Hier durant ma [conférence à Genève](/2006/09/08/manager-par-la-connexion/) et aujourd’hui au [WKD](http://www.wkdialogue.org/), je n’ai cessé de me demander pourquoi parlons-nous de complexité, pourquoi disons-nous que nous devons changer notre façon de travailler et de gérer la société, pourquoi devons-nous changer la politique ? Tout le monde parle comme si la réponse était évidente mais je crois qu’elle ne l’est pas pour tout le monde, et même pour ceux qui en parlent beaucoup.
 
 Deux voix s’élèvent aujourd’hui dans le monde.
 

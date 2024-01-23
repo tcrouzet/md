@@ -1,8 +1,8 @@
 # Et si c’était à cause de la beauté
 
-À l’occasion de la publication de mon *single* philosophique [*Baby-foot*](http://blog.tcrouzet.com/baby-foot/), Bernard Strainchamps m’a posé quelques questions pour [feedbooks](http://fr.feedbooks.com/interview/56/peut-%C3%AAtre-%C3%A0-cause-de-cette-histoire-de-beaut%C3%A9). L’occasion de revenir sur mes raisons de diffuser mes textes sur [publie.net](http://www.publie.net/fr/ebook/9782814506213/baby-foot).
+À l’occasion de la publication de mon *single* philosophique [*Baby-foot*](/baby-foot/), Bernard Strainchamps m’a posé quelques questions pour [feedbooks](http://fr.feedbooks.com/interview/56/peut-%C3%AAtre-%C3%A0-cause-de-cette-histoire-de-beaut%C3%A9). L’occasion de revenir sur mes raisons de diffuser mes textes sur [publie.net](http://www.publie.net/fr/ebook/9782814506213/baby-foot).
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/03/babyblio.jpg)
+![](https://tcrouzet.com/images_tc/2012/03/babyblio.jpg)
 
 *— D'où vient cette nouvelle ?*
 

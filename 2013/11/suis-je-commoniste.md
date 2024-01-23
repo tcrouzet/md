@@ -16,7 +16,7 @@ Mais c’est en regard des biens immatériels que les débats sont aujourd’hui
 
 Mais j’ai déjà une certitude : nous proposons tous des réponses différentes. Le [commonisme](http://fr.wiktionary.org/wiki/commoniste) n’est ni un monisme ni un dualisme, c’est un pluralisme, ce qui empêche de fait les commonistes de se réunir (et même bien souvent de se reconnaître).
 
-L’auteur du billet néglige ce point ce qui lui fait commettre un contresens quand il écrit « Le revenu de base est perçu par beaucoup comme la voie vers le jardin d’Éden. » [J’ai décrit un jardin d’Éden](http://blog.tcrouzet.com/2013/02/18/le-revenu-de-base-comme-jardin-deden/) comme un concept mathématique, un point où aucune simulation ne peut conduire mais d’où des simulations peuvent démarrer.
+L’auteur du billet néglige ce point ce qui lui fait commettre un contresens quand il écrit « Le revenu de base est perçu par beaucoup comme la voie vers le jardin d’Éden. » [J’ai décrit un jardin d’Éden](/2013/02/18/le-revenu-de-base-comme-jardin-deden/) comme un concept mathématique, un point où aucune simulation ne peut conduire mais d’où des simulations peuvent démarrer.
 
 Un jardin d'Éden mathématique est tout sauf un espace transcendant. C'est au contraire un truc vulgaire à essayer pour voir si à partir de lui le moteur démarre. Et il faut en essayer beaucoup parce que l'imprévisibilité des systèmes complexes interdit d’avoir une quelconque assurance a priori.
 

@@ -1,6 +1,6 @@
 # Résistance passive
 
-Sur un site au [look rébarbatif](http://gonic.lyon.free.fr/resistance_passive.html), j'ai trouvé plusieurs citations extraites de la préface du [*Peuple des connecteurs* ](http://blog.tcrouzet.com/le-peuple-des-connecteurs/)avec des commentaires qui m'ont donné envie de répondre.
+Sur un site au [look rébarbatif](http://gonic.lyon.free.fr/resistance_passive.html), j'ai trouvé plusieurs citations extraites de la préface du [*Peuple des connecteurs* ](/le-peuple-des-connecteurs/)avec des commentaires qui m'ont donné envie de répondre.
 
 J'ai écrit dans la préface :
 

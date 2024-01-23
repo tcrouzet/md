@@ -17,14 +17,14 @@ Je voudrais revenir sur l’histoire de l’appellation « cinquième pouvoir 
  Gaëlle Grognet publie [*Médias : Faut-il un cinquième pouvoir ?*](https://docplayer.fr/58702301-Medias-faut-il-un-cinquieme-pouvoir.html) qui fait suite à l’article d’Ignacio Ramonet. Il s’agit encore de rétablir un contre-pouvoir.
  Dans *La Révolte du Pronétariat*, Joël de Rosnay et Carlo Revelli évoquent le cinquième pouvoir, dans la lignée d’Ignacio Ramonet. Je ne relève pas alors l'expression. Même Carlo n'y pense pas quand je recherche un titre pour mon nouveau livre.
  Toujours dans cette lignée, Erick Jonquière publie un billet intitulé *Le cinquième pouvoir*.
- Je commence à travailler à mon [nouveau livre](http://blog.tcrouzet.com/2006/07/20/blogs-et-politique/), le sujet étant alors « en quoi internet bouleverse la politique », sous-titre resté sur la couverture finale.
- Ne trouvant pas de titre explicite, je publie un [billet](http://blog.tcrouzet.com/2006/08/04/sos-cherche-titre-desesperement/) où je demande à mes lecteurs de chercher quelque chose.
+ Je commence à travailler à mon [nouveau livre](/2006/07/20/blogs-et-politique/), le sujet étant alors « en quoi internet bouleverse la politique », sous-titre resté sur la couverture finale.
+ Ne trouvant pas de titre explicite, je publie un [billet](/2006/08/04/sos-cherche-titre-desesperement/) où je demande à mes lecteurs de chercher quelque chose.
  Le jour même, Erick Jonquière m’envoie un mail et me propose *Le cinquième pouvoir*. Ça fait immédiatement tilt. Tout de suite, le cinquième pouvoir prend corps, il n’est pas seulement un contre-pouvoir qui va prendre la suite du quatrième mais un nouveau pouvoir exécutif et législatif, il est le pouvoir primordial, celui du peuple. Il ne faut surtout pas le réduire aux blogs, même pas le réduire à internet, c’est un mouvement de fond qui correspond à la montée du désir de participation chez les citoyens. Il s’exprime aujourd’hui parce que la technologie va permettre son ascension. Ce jour-là, Driss Messaoudi publie un billet intitulé *Le cinquième pouvoir*, encore un de ces hasards de plus en plus fréquents sur internet.
- [*Le cinquième pouvoir*](http://blog.tcrouzet.com/2006/08/22/le-cinquieme-pouvoir/) devient le titre officiel de mon livre.
+ [*Le cinquième pouvoir*](/2006/08/22/le-cinquieme-pouvoir/) devient le titre officiel de mon livre.
  Philippe Astor publie sur News.fr un article au sujet du cinquième pouvoir après avoir discuté avec moi.
  Dans *Libération*, Frédérique Roussel publie [Candidats dans les starting-blogs](https://www.liberation.fr/grand-angle/2006/09/12/candidats-dans-les-starting-blogs_50995), où elle évoque le cinquième pouvoir après m'avoir interviewé.
  En couverture de *L’Express* titre [Le cinquième pouvoir](https://tcrouzet.com/2006/12/08/et-moi-et-moi-et-moi%e2%80%a6/). L'appellation suivant sa nouvelle acceptation commence sa vie propre (les journalistes annoncent la sortie de mon livre).
- François Bayrou et Nicolas Sarkozy parlent du cinquième pouvoir lors du [leweb3](http://blog.tcrouzet.com/2006/12/12/merci-loic-merci-l%e2%80%99express/).
+ François Bayrou et Nicolas Sarkozy parlent du cinquième pouvoir lors du [leweb3](/2006/12/12/merci-loic-merci-l%e2%80%99express/).
  Sortie de mon livre.
 
 Lors du travail sur le titre, le cinquième pouvoir s’était déjà manifesté de lui-même, c’est un pouvoir de l’action, il ne faudrait pas le limiter à un contre-pouvoir, ce serait, surtout de la part des politiques, une erreur.

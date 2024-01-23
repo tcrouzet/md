@@ -12,7 +12,7 @@ Sur son [forum](http://etienne.chouard.free.fr/forum/), sur un mode collaboratif
 
 2/ En essayant d’écrire une nouvelle constitution, Étienne et ses collaborateurs découvriront de nouvelles idées constitutionnelles. C’est en écrivant qu’on devient écrivain. À un moment donné, il faut cesser de critiquer et construire. C’est ce que fait Étienne.
 
-3/ Certains commentateurs disent que le travail d’Étienne est trop technique. Ce n’est pas parce qu’on n’est pas un professionnel qu’on n’est pas compétent. J’ai écris un article à ce sujet en évoquant le [crowdsourcing](http://blog.tcrouzet.com/2006/07/03/cerveaux-humains-disponibles/).
+3/ Certains commentateurs disent que le travail d’Étienne est trop technique. Ce n’est pas parce qu’on n’est pas un professionnel qu’on n’est pas compétent. J’ai écris un article à ce sujet en évoquant le [crowdsourcing](/2006/07/03/cerveaux-humains-disponibles/).
 
 4/ Faire écrire une constitution par les citoyens qui en éprouvent le désir participe d’une pratique bottom-up. C’est le mode d’action le mieux adapté pour résoudre un problème complexe. Bien sûr, au final, la constitution résultant de ce travail s’imposera à tous par le haut de l’État. Elle nous ramènera au mode top-down.
 

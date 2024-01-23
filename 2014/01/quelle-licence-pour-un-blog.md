@@ -20,7 +20,7 @@ Mais techniquement, tous les textes du blog étant diffusés en intégralité pa
 
 Je diffuse désormais mes ebooks sous licence [cc by-nc-sa](http://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr). Cette licence traduit juridiquement mon éthique. Du moment que vous n’exploitez pas commercialement mes textes et que vous m’en attribuez la paternité, vous pouvez les copier et les distribuer. En revanche, si vous envisagez une exploitation commerciale, les publier sur un site monétisé par exemple, vous devez négocier avec moi. Je viens donc de remplacer le copyright en bas des pages du blog par la mention Creative Commons by-nc-sa (licence de fait de tous les blogs qui diffusent leurs contenus en intégralité via un fil RSS).
 
-![byncsa](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/01/byncsa.jpeg)
+![byncsa](https://tcrouzet.com/images_tc/2014/01/byncsa.jpeg)
 
 
 

@@ -6,15 +6,15 @@ Malheureusement, le droit de propriété est jusqu’à un certain point inalié
 
 Certains ultralibéraux voudraient tout privatiser. C’est tout aussi chimérique. Difficile avec l’air, la lumière, les rues… et bien des choses par nature abondantes. On peut imaginer des scénarios scifi, je ne dis pas le contraire, mais sans espace public, pas de liberté (Deleuze explique ce phénomène avec son analogie du [jeu du taquin](http://fr.wikipedia.org/wiki/Taquin)).
 
-Nous devons donc placer le curseur de la gratuité entre le tout propriétaire et le tout public, avec la conscience que les progrès vers l’espace public sont des pas vers la pacification sociale. Dans [*Le geste qui sauve*](http://blog.tcrouzet.com/le-geste-qui-sauve/), je raconte comment la libération de la formule du gel antibactérien a pacifié la petite parcelle du marché pharmaceutique correspondante et comment les laboratoires se sont alors mis à collaborer plutôt qu’à se combattre (ce qui les amène à soutenir mon livre collectivement alors qu’ils restent concurrents).
+Nous devons donc placer le curseur de la gratuité entre le tout propriétaire et le tout public, avec la conscience que les progrès vers l’espace public sont des pas vers la pacification sociale. Dans [*Le geste qui sauve*](/le-geste-qui-sauve/), je raconte comment la libération de la formule du gel antibactérien a pacifié la petite parcelle du marché pharmaceutique correspondante et comment les laboratoires se sont alors mis à collaborer plutôt qu’à se combattre (ce qui les amène à soutenir mon livre collectivement alors qu’ils restent concurrents).
 
-[En tant que commoniste](http://blog.tcrouzet.com/2013/11/26/amis-commonistes/), je pense qu’il existe deux types de biens, ceux qui sont commonisables (les biens rares et les biens potentiellement abondants) et ceux qui ne le sont pas (les autres types de biens).
+[En tant que commoniste](/2013/11/26/amis-commonistes/), je pense qu’il existe deux types de biens, ceux qui sont commonisables (les biens rares et les biens potentiellement abondants) et ceux qui ne le sont pas (les autres types de biens).
 
 Ma maison n’est pas commonisable. Elle n’est ni rare (une maison n’est pas rare), ni abondante (sa duplication coûte de l’argent, et le terrain n’est pas duplicable, sans être absolument rare). Il va ainsi de beaucoup de choses. En revanche, mes textes sont potentiellement abondants parce que leur copie ne coûte rien. Ils sont donc commonisables, ce qui signifie qu’ils peuvent, si je le souhaite, être versés au domaine public, déplaçant par là même le curseur d’un infime cran vers la paix.
 
 Quand un mathématicien découvre un nouveau théorème, il l’offre à l’humanité (souvent son statut de fonctionnaire lui évite de se poser des questions). Quand Einstein formalise la relativité, il l’offre aussi à l’humanité (il n’était pas alors payé pour réfléchir à la physique). Pour beaucoup de gens, et depuis longtemps, il est naturel de verser dans le domaine public ce qui peut être reproduit quasi infiniment. C’est une offrande presque ritualisée. Un tribut à l’humanité. Un geste de paix.
 
-[Comme je l’ai déjà expliqué](http://blog.tcrouzet.com/2014/03/01/je-ne-suis-pas-proprietaire-de-mes-oeuvres/), je ne me sens pas propriétaire de mes œuvres. J’en ai déjà versé certaines au domaine public, notamment ce blog, et je vais le faire avec mon prochain livre *Le geste qui sauve*. Le livre ne sera pas gratuit pour autant. Il sera vendu en librairie, mais vous aurez le droit de le copier et de le distribuer. Vous en serez, dès ce moment, tout aussi propriétaire que moi (cette propriété potentiellement infinie devient un bien commun).
+[Comme je l’ai déjà expliqué](/2014/03/01/je-ne-suis-pas-proprietaire-de-mes-oeuvres/), je ne me sens pas propriétaire de mes œuvres. J’en ai déjà versé certaines au domaine public, notamment ce blog, et je vais le faire avec mon prochain livre *Le geste qui sauve*. Le livre ne sera pas gratuit pour autant. Il sera vendu en librairie, mais vous aurez le droit de le copier et de le distribuer. Vous en serez, dès ce moment, tout aussi propriétaire que moi (cette propriété potentiellement infinie devient un bien commun).
 
 Tous les auteurs ne sont pas obligés de m’imiter, mais, par mon geste, je prouve que le droit d’auteur n’est pas un droit de propriété. Je reste l’auteur de mes textes sans en rester le propriétaire.
 
@@ -26,7 +26,7 @@ Simplement, cet accès possible à l’œuvre sans payer, pacifie à mon sens un
 
 Une œuvre n’est pas une propriété. Elle est bien plus magnifique, bien trop précieuse pour que de simples accapareurs s’en emparent à tout jamais. Une œuvre, c’est l’air de l’humanité, cette case vide dans le jeu de taquin sans laquelle aucun mouvement n’est possible. Nous créons pour communier à travers le temps et l’espace avec nos ancêtres, nos contemporains et nos successeurs.
 
-![Violence par leeno](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/violence-600x449.jpg)
+![Violence par leeno](https://tcrouzet.com/images_tc/2014/03/violence-600x449.jpg)
 
 
 

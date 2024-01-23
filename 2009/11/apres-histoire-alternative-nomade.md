@@ -2,7 +2,7 @@
 
 
 
-![Initiation](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/11/initiation.jpg)
+![Initiation](https://tcrouzet.com/images_tc/2009/11/initiation.jpg)
 
 J’ai en gros achevé le premier jet de mon livre, je peux maintenant tout réécrire, selon une nouvelle perspective (me reste 10 jours !). Après l’Histoire, que se passe-t-il ? Nous devenons des nomades dans le flux. Je n’écris plus un livre qui s’appelle *Après l’Histoire*, mais *L’Alternative nomade*, titre imaginé par Bruce Chatwin pour un livre qu’il n’a jamais écrit.
 

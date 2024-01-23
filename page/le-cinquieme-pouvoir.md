@@ -7,7 +7,7 @@ Prémonitoire du printemps arabe
 
 ##### 
 
-Thierry Crouzet analyse l’émergence d’internet comme [cinquième pouvoir](http://blog.tcrouzet.com/definitions/).
+Thierry Crouzet analyse l’émergence d’internet comme [cinquième pouvoir](/definitions/).
 
 Les Français auraient déserté la politique.
 La démocratie serait en crise.
@@ -25,7 +25,7 @@ Genre : essai
 Parution : 18 janvier 2007
 ISBN Bourin : 978-2-84941-058-5 (livre 140 X 216, 288 pages)
 
-[Visuels de promo](http://blog.tcrouzet.com/visuels/)
+[Visuels de promo](/visuels/)
 
 - ISBN papier : 978-2-8494-1058-5
 

@@ -1,10 +1,10 @@
 # La fin de l’individualisme
 
-En écrivant [*Le cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), j’ai interviewé [Alain Lipietz](http://lipietz.net/), l’eurodéputé vert. J’ai reproduit notre discussion dans le livre, mais je n’ai pas réussi à caser quelques unes de ses remarques auxquelles je réagis ici.
+En écrivant [*Le cinquième pouvoir*](/le-cinquieme-pouvoir/), j’ai interviewé [Alain Lipietz](http://lipietz.net/), l’eurodéputé vert. J’ai reproduit notre discussion dans le livre, mais je n’ai pas réussi à caser quelques unes de ses remarques auxquelles je réagis ici.
 
 \— Au milieu des années 1990, lorsque de plus en plus de gens se mettent à utiliser internet, j’ai compris que nous avions atteint le comble de l’individualisme, dit Alain Lipietz. Nous étions allés au bout de la logique initiée par le Christianisme, puis reprise par Montaigne et les penseurs des Lumières.
 
-Je n’ai pu m’empêcher d’exprimer ma surprise car j’ai commencé [*Le peuple des connecteurs*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) en défendant la thèse inverse. Pour moi, internet redonne au contraire la possibilité pour chacun de tresser de nouveaux liens et de sortir de l’impasse individualiste. Il est fédérateur de communautés.
+Je n’ai pu m’empêcher d’exprimer ma surprise car j’ai commencé [*Le peuple des connecteurs*](/le-peuple-des-connecteurs/) en défendant la thèse inverse. Pour moi, internet redonne au contraire la possibilité pour chacun de tresser de nouveaux liens et de sortir de l’impasse individualiste. Il est fédérateur de communautés.
 
 Mais écoutons Lipietz :
 

@@ -12,7 +12,7 @@ Mais la métaphore du rouleau ne s’est pas perdue pour tout le monde. Elle a �
 
 Pour s’opposer à cette confiscation du rouleau, les blogueurs littéraires, qui travaillent en série, numérotent leurs articles, créent des sommaires… Ce n’est pas très efficace, pas très agréable pour le lecteur. Pourquoi devoir sans cesse remonter au sommaire ? Pourquoi cliquer alors qu’il devrait me suffire de lire ? Un journal n’est pas un rouleau, un journal Web n’est pas un blog.
 
-Le passage par un sommaire conduit droit à la métaphore du livre, et d’ailleurs ces séries se retrouvent souvent ainsi encapsulées. Cette métaphore empêche l’auteur de penser une écriture vraiment numérique. Elle le pousse dans l’homothétique, dans l’utilisation du Web comme simple média de diffusion (souvent de substitution faute de mieux). Ça m’a longtemps dérangé [jusqu’à ce que j’entrevoie une solution technique pour me ramener sur la route](http://blog.tcrouzet.com/2014/10/26/ce-qui-manque-au-blog-ou-la-revolution-litteraire/).
+Le passage par un sommaire conduit droit à la métaphore du livre, et d’ailleurs ces séries se retrouvent souvent ainsi encapsulées. Cette métaphore empêche l’auteur de penser une écriture vraiment numérique. Elle le pousse dans l’homothétique, dans l’utilisation du Web comme simple média de diffusion (souvent de substitution faute de mieux). Ça m’a longtemps dérangé [jusqu’à ce que j’entrevoie une solution technique pour me ramener sur la route](/2014/10/26/ce-qui-manque-au-blog-ou-la-revolution-litteraire/).
 
 Pas question de revenir à la forme originale du blog. Pas possible d’obliger les lecteurs à remonter à la page d’accueil, et ce n’est même pas souhaitable. Pour autant, il me paraît nécessaire de repositionner dans leur ensemble natif les articles individuels sur lesquels les lecteurs déboulent. En résumé, j’ai ressenti le besoin pressant de revenir à Kerouac.
 
@@ -32,12 +32,12 @@ Un passage par le code s’est imposé. Parce que les CMS comme WordPress sont t
 
 7. J’ai rassemblé la navigation dans une barre qui se modifie automatiquement en fonction du billet en cours de lecture. Les commentaires ne s’affichent qu’à la demande, de même les tags et autres babioles.
 
-Quand j’ai découvert mes [Vagabondages](http://blog.tcrouzet.com/2014/11/13/le-je-lappareil-photo-et-limprimante/1/) affichés sur ce mode, j’ai pris conscience de leur totalité pour la première fois. Je sais déjà que cette seule vision influencera ma façon d’écrire. J’aurais davantage tendance à penser à l’ensemble, et sans doute à une forme de narration. Le rouleau impose la route du récit, un temps long dans l’écriture couplé au temps fragmentaire et bref du Web.
+Quand j’ai découvert mes [Vagabondages](/2014/11/13/le-je-lappareil-photo-et-limprimante/1/) affichés sur ce mode, j’ai pris conscience de leur totalité pour la première fois. Je sais déjà que cette seule vision influencera ma façon d’écrire. J’aurais davantage tendance à penser à l’ensemble, et sans doute à une forme de narration. Le rouleau impose la route du récit, un temps long dans l’écriture couplé au temps fragmentaire et bref du Web.
 
 Un exemple en action.
-1\. [Premier billet de la série Clitoria](http://blog.tcrouzet.com/2014/11/10/clitoria-chapitre-1/), avec tous les autres qui se déroulent dans l’ordre naturel de lecture.
-2\. [Un billet au cœur de la série](http://blog.tcrouzet.com/2014/11/20/clitoria-chapitre-4/), avec des billets qui peuvent apparaître au-dessus ou au-dessous.
-3\. [Le dernier billet de la série](http://blog.tcrouzet.com/2014/12/01/clitoria-chapitre-7), avec tous les autres qui apparaissent au-dessus.
+1\. [Premier billet de la série Clitoria](/2014/11/10/clitoria-chapitre-1/), avec tous les autres qui se déroulent dans l’ordre naturel de lecture.
+2\. [Un billet au cœur de la série](/2014/11/20/clitoria-chapitre-4/), avec des billets qui peuvent apparaître au-dessus ou au-dessous.
+3\. [Le dernier billet de la série](/2014/12/01/clitoria-chapitre-7), avec tous les autres qui apparaissent au-dessus.
 
 Je dois encore coder, débuguer, lisser, créer un sommaire des séries pour la page d’accueil, mais ça prend forme. Et je pense à une histoire que je n’aurais pas pu envisager sur le blog avant, et qui paradoxalement aurait été mieux à sa place sur le rouleau de Facebook, question d’interface. Je vais pouvoir rester chez moi et me réapproprier ce qui m’a été volé bien malgré moi.
 

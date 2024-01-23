@@ -6,7 +6,7 @@ N’avez-vous jamais eu l’envie de photographier votre vie pour la retrouver p
 
 Ces notes capturées au fil des jours s’apparentent elles-mêmes à un jeu de Lego littéraire, un pointillisme avec des béances qui provoquent des images et inspirent la rêverie.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/07/menard.jpg)
+![](https://tcrouzet.com/images_tc/2010/07/menard.jpg)
 
 À consommer avec modération, gorgée après gorgée. Le cerveau disjoncte dans cet éparpillement tous azimuts qui carambole vie privée et vie publique, intime et politique, terre-à-terre et spirituel.
 

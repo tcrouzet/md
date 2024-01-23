@@ -14,7 +14,7 @@ Il me paraît évident que nous autres blogueurs avons un problème de légitimi
 
 Pourquoi éprouvons-nous ce besoin de parler du média pour nous décrire ? Est-ce parce que nous recourons à la technologie ? Peut-être, l'autre art très technologique, le cinéma, a engendré le cinéaste, un mot nouveau pour décrire un art nouveau. Et donc, dans certaines circonstances, la pratique du blog engendre un art nouveau. Ça ne fait aucun doute.
 
-Le terrain devient glissant car nous bloguons des mots, des images, des sons… que des choses anciennes. Nous avons un pied dans les formes passées, un pied dans leur interaction. Cette position à cheval exige une référence au média, même quand nous n'utilisons pratiquement que le texte. S'y glisse le lien, le commentaire, le *[Send](http://blog.tcrouzet.com/tag/send/)*.
+Le terrain devient glissant car nous bloguons des mots, des images, des sons… que des choses anciennes. Nous avons un pied dans les formes passées, un pied dans leur interaction. Cette position à cheval exige une référence au média, même quand nous n'utilisons pratiquement que le texte. S'y glisse le lien, le commentaire, le *[Send](/tag/send/)*.
 
 Un paradoxe surgit : on peut être « Écrivain blogueur » mais aussi un « Blogueur écrivain », même un « Blogueur romancier », n'utilisant le blog que pour publier ce qui aurait pu l'être sans aucun changement dans un livre. Et la plupart des blogueurs dits « littéraires » entrent dans cette catégorie. Ils utilisent peu les spécificités du blog, sinon sa capacité de mimer les anciens médias. Tout ça devient de plus en plus confus en même temps que j'avance dans ce billet. On peut faire du neuf avec du neuf et du vieux avec du neuf, ce n'est pas nouveau.
 

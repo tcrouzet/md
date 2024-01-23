@@ -4,13 +4,13 @@ Quand je critique Facebook ou Twitter, on me répond souvent : « C’est just
 
 Un bar est-il un outil ? Avez-vous au moins une fois envisagé un bar sous cette perspective ? Moi, pas. Un bar est un lieu où je bois des jus d’abricot, où je retrouve des amis, où je bouquine, où j’écris, où je discute, où je rencontre… c’est un lieu de socialisation. Il faut posséder une pensée bien alambiquée pour le considérer comme un outil de socialisation, sorte d’équivalent du téléphone. Et si on raisonne comme ça tout est outil, même les humains.
 
-Si le bar n’est pas un outil, il en bourré : tables, chaises, verres… Il est le lieu physique de leur interaction. Alors quand on considère [le Net comme un territoire](http://blog.tcrouzet.com/tag/territoire/), les réseaux sociaux y apparaissent comme des lieux. Et tous ces lieux, physiques ou immatériels, nous sommes incapables de les plier à nos usages. Ils nous façonnent autant que nous les façonnons.
+Si le bar n’est pas un outil, il en bourré : tables, chaises, verres… Il est le lieu physique de leur interaction. Alors quand on considère [le Net comme un territoire](/tag/territoire/), les réseaux sociaux y apparaissent comme des lieux. Et tous ces lieux, physiques ou immatériels, nous sommes incapables de les plier à nos usages. Ils nous façonnent autant que nous les façonnons.
 
 Quand la peinture ne nous plaît pas dans un bar, nous pouvons au mieux nous plaindre au tenancier. Et si vraiment ça ne s’arrange pas, changer de cambuse. Idem quand une bande de tatoués échevelés nous casse les pieds. Nous ne sommes jamais les seuls usagers. C’est le propre du lieu social, sinon il ferme ses portes.
 
 Comme il y a des bars rock, des cafés philo, des paillotes à cocktail, il existe sur le Net différentes ambiances sociales. Quand nous en adoptons une, nous y entraînons nos amis, puis les amis de nos amis. Quand le bruit devient trop fort, nous nous réfugions dans une arrière-salle plus calme. Puis arrive le jour où nous trouvons notre arrière-salle déjà occupée. Le soir suivant, nous ne revenons pas, nous allons ailleurs chercher l’ambiance qui nous convient.
 
-![El Farol Restaurant and Cantina, Santa Fe NM](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/05/El_Farol_Restaurant_and_Cantina_Santa_Fe_NM-500x375.jpg)
+![El Farol Restaurant and Cantina, Santa Fe NM](https://tcrouzet.com/images_tc/2013/05/El_Farol_Restaurant_and_Cantina_Santa_Fe_NM-500x375.jpg)
 
 En 1992, [Brian Arthur a modélisé ce phénomène](http://en.wikipedia.org/wiki/El_Farol_Bar_problem). Chercheur au Santa Fe Institute, il aimait écouter de la musique le jeudi soir au El Farol Bar. Tantôt, il y était heureux, il y avait du monde, mais pas trop. Tantôt, c’était si bondé qu’il devait fuir. Tantôt, il n’y avait personne, et c’était glauque. Le public fluctuait grandement sans que la variation soit prévisible.
 
@@ -23,7 +23,7 @@ Brian savait que nous décidons souvent irrationnellement. Nous observons ce qui
 
 Cent clients imaginaires dotés de ces stratégies, pouvant en changer pour celles qui semblent plus efficaces, se retrouvèrent injectés dans une simulation. Résultat : un *patern* qui ressemble à s’y méprendre à ce qui se produit effectivement à El Farol. Le public virtuel très vite se règle automatiquement pour une fréquentation moyenne légèrement au-dessous du seuil défini comme bondé (60 clients dans la simulation).
 
-![Simulation El Farol](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/05/elfarol1.gif)
+![Simulation El Farol](https://tcrouzet.com/images_tc/2013/05/elfarol1.gif)
 
 Facebook et Twitter se heurteront inévitablement à cette limite tout en connaissant des fluctuations semblables. Parce qu’ils sont trop bondés (et ne croyez pas que l’espace numérique soit illimité), les internautes commenceront à réduire leur présence autour d’un seuil moyen bien inférieur au pic que nous connaissons aujourd’hui. Nous assisterons à une décroissance de ces réseaux. Mais par malheur, de nouveau plus attractifs apparaîtront, ils aspireront peu à peu l’audience jusqu’à ce que les lieux originels se dessèchent assez pour un écroulement financier (une grande multinationale est bien moins résiliente qu’un simple bar).
 

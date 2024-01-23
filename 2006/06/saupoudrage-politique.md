@@ -4,7 +4,7 @@ Quand je regarde les programmes politiques des uns et des autres, je constate l�
 
 Cette technique conduit à un émiettement des programmes : ils prennent d’ailleurs souvent la forme d’une liste de mesures où tout et n’importe quoi se côtoie. La cohérence logique de l’ensemble n’a plus aucune importance. Les politiciens se moquent des contradictions. Ça me choque.
 
-![Les enfants de Berlin, Boltanski](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/boltanski.jpg) 
+![Les enfants de Berlin, Boltanski](https://tcrouzet.com/images_tc/boltanski.jpg) 
 
 Certes, je suis heureux de vivre une époque qui n’est pas dominée les idéologies. Nous avons beaucoup de liberté de penser. Mais pensons-nous vraiment ? J’ai l’impression que les politiciens ont oublié de faire marcher leur cerveau. Adeptes du patchwork marketing, ils s’égaillent dans toutes les directions. Ils mettent au même niveau des problèmes qui n’ont pas la même importance, pas la même gravité.
 
@@ -20,8 +20,8 @@ Pour un mathématicien, cela revient à poser un postulat et à essayer d’en t
 
 Je me rends compte que j’ai beaucoup de mal à me positionner. Je veux me tenir au point de transition de face entre l’ordre et le désordre. C’est un point minuscule où il est difficile de se maintenir. Du côté de l’ordre, il y a les idéologies. Du côté du désordre, le melting-pot trop chaotique\*. Je veux essayer de joindre le meilleur de ces deux mondes, un peu comme Proust dans *La recherche du temps perdu*.
 
-Si je crois qu’il ne faut pas systématiser, je crois en revanche qu’il ne faut pas avoir peur de jouer quelque temps avec un système et de voir jusqu’où il nous mène. Cet exercice me paraît intéressant. J’ai commencé à le faire avec ma [déclaration d’interdépendance](http://blog.tcrouzet.com/2006/06/27/declaration-d%e2%80%99interdependance/), je vais continuer en écrivant mon prochain livre : *Politique 2.0*.
+Si je crois qu’il ne faut pas systématiser, je crois en revanche qu’il ne faut pas avoir peur de jouer quelque temps avec un système et de voir jusqu’où il nous mène. Cet exercice me paraît intéressant. J’ai commencé à le faire avec ma [déclaration d’interdépendance](/2006/06/27/declaration-d%e2%80%99interdependance/), je vais continuer en écrivant mon prochain livre : *Politique 2.0*.
 
-\*Le melting-pot, assimilé pour moi au désordre, est abondamment employé par les adeptes d’une [gouvernance forte](http://blog.tcrouzet.com/2006/06/28/gouvernance-forte). Cela démontre une totale contradiction entre le fond du discours et sa forme. Nos politiques sont schizophrènes.
+\*Le melting-pot, assimilé pour moi au désordre, est abondamment employé par les adeptes d’une [gouvernance forte](/2006/06/28/gouvernance-forte). Cela démontre une totale contradiction entre le fond du discours et sa forme. Nos politiques sont schizophrènes.
 
 Tags: Politique

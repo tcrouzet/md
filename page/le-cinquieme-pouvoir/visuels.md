@@ -1,6 +1,6 @@
 # Visuels
 
-Pour des photos de moi... [c'est ici](http://blog.tcrouzet.com/portraits/).
+Pour des photos de moi... [c'est ici](/portraits/).
 
 Pour [Le cinquième pouvoir](https://tcrouzet.com/le-cinquieme-pouvoir/) voici quelques scans glanés sur les librairies en ligne :
 

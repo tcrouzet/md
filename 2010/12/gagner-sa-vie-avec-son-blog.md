@@ -37,8 +37,8 @@ Nous sommes privilégiés rien que parce que nous avons la possibilité d’effe
 3. Tu as un travail et tu œuvres à côté (de nombreux jobs laissent beaucoup de temps libres comme je l’ai expérimenté à mes débuts à Paris – il suffit de bien les choisir).
 4. Tu as réussi à économiser un peu d’argent qui t’aide à t’abandonner à l’*ubris* (ou tu as hérité comme Flaubert ou Proust).
 
-Voilà les choix qui s’offrent à tous les artistes comme à tous les blogueurs (je parle de ceux qui tentent de produire des œuvres de l’esprit, [pas aux blogueurs qui choisissent le publireportage](http://blog.tcrouzet.com/2010/12/29/web-tue-journalisme/)).
+Voilà les choix qui s’offrent à tous les artistes comme à tous les blogueurs (je parle de ceux qui tentent de produire des œuvres de l’esprit, [pas aux blogueurs qui choisissent le publireportage](/2010/12/29/web-tue-journalisme/)).
 
-Vivre de son blog est théoriquement possible mais pas plus facile que de vivre de sa musique ou de sa peinture. Il serait absurde de croire que soudain tout le monde va vivre de sa plume. En revanche, tout le monde peut publier, tout le monde peut échanger. C’est à ce niveau que se joue la nouveauté. [*La stratégie du cyborg*](http://blog.tcrouzet.com/la-strategie-du-cyborg/) est ouverte à tous.
+Vivre de son blog est théoriquement possible mais pas plus facile que de vivre de sa musique ou de sa peinture. Il serait absurde de croire que soudain tout le monde va vivre de sa plume. En revanche, tout le monde peut publier, tout le monde peut échanger. C’est à ce niveau que se joue la nouveauté. [*La stratégie du cyborg*](/la-strategie-du-cyborg/) est ouverte à tous.
 
 Tags: NetCulture, une

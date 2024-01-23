@@ -1,6 +1,6 @@
 # Homme 2.0
 
-[L’évolution fonctionne virtuellement.](http://blog.tcrouzet.com/2007/08/06/le-retour-des-mythes/) Ce n'est pas une preuve qu'elle fonctionne dans la nature mais un élément de plus pour en être quasi certain. Cette presque confirmation de la théorie darwinienne cause beaucoup de troubles aux essentialistes.
+[L’évolution fonctionne virtuellement.](/2007/08/06/le-retour-des-mythes/) Ce n'est pas une preuve qu'elle fonctionne dans la nature mais un élément de plus pour en être quasi certain. Cette presque confirmation de la théorie darwinienne cause beaucoup de troubles aux essentialistes.
 
 S’il y a évolution, il n’y a pas de nature humaine essentielle… sinon une nature humaine en constant devenir. Il n’y a pas plus d’éthique ou de morale gravées dans le marbre. Tout est susceptible de changer et d’évoluer (évoluer ne veut pas dire progresser). D’un point de vue biologique, refuser qu’une chose évolue serait même la condamner à mort.
 
@@ -12,9 +12,9 @@ Notre monde évolue de plus en plus vite à cause de nos activités de plus en p
 
 La première voie nous est malheureusement interdite (même si elle peut être vue comme une adaptation aux changements). Nous avons mis le monde dans un tel état de surchauffe que, dans le temps imparti pour réagir, nous ne pouvons le refroidir que par de nouvelles technologies (le bio est une technologie de refroidissement mais insuffisante à elle seule). Cette course à l’innovation nous condamne donc à changer.
 
-![Par Pacco](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070827pacco.gif)
+![Par Pacco](https://tcrouzet.com/images_tc/20070827pacco.gif)
 
-J’espère que ma [position par rapport au dopage](http://blog.tcrouzet.com/2007/07/26/le-dopage-controle/) est ainsi plus claire. Les athlètes sont pour moi des pionniers. En tout cas, ils pourraient le devenir, en expérimentant pour nous les innovations technologiques qui demain nous permettrons de survivre.
+J’espère que ma [position par rapport au dopage](/2007/07/26/le-dopage-controle/) est ainsi plus claire. Les athlètes sont pour moi des pionniers. En tout cas, ils pourraient le devenir, en expérimentant pour nous les innovations technologiques qui demain nous permettrons de survivre.
 
 Dans *Wired*, je suis tombé sur une [liste de métiers à risque](http://www.wired.com/science/discoveries/magazine/15-08/st_sciencejobs) liés à la science. L’auteur aurait pu ajouter les sportifs de haut niveau.
 

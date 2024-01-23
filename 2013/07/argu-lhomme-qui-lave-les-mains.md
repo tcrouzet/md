@@ -1,6 +1,6 @@
 # Argu : L’homme qui lave les mains
 
-Choisir de diffuser un texte en [Creative Common BY-SA](http://creativecommons.org/licenses/by-sa/3.0/), c’est aussi choisir la transparence dans le processus éditorial. Pour motiver un éditeur à rejoindre le projet, voici l'argumentaire de [*L'homme qui lave les mains*](http://blog.tcrouzet.com/2013/07/20/il-vous-a-peut-etre-sauve-la-vie/).
+Choisir de diffuser un texte en [Creative Common BY-SA](http://creativecommons.org/licenses/by-sa/3.0/), c’est aussi choisir la transparence dans le processus éditorial. Pour motiver un éditeur à rejoindre le projet, voici l'argumentaire de [*L'homme qui lave les mains*](/2013/07/20/il-vous-a-peut-etre-sauve-la-vie/).
 
 Pour accompagner le geste de Didier Pittet, son don à l’humanité de la solution hydro-alcoolique, j’ai décidé de renoncer à mes droits sur ce livre pour qu’il soit le moins cher possible et que, s’il éveille un intérêt, il puisse se propager sans que rien ne l’entrave. Il faut un petit livre de poche à un petit prix, mais je tiens à ce que l’éditeur s’y retrouve, donc qu’il applique une marge ordinaire de son côté.
 
@@ -19,7 +19,7 @@ Pour être moins souvent malade, il suffit de se laver les mains. Didier Pittet 
 
 ### Pourquoi publier ce livre
 
-1. Vous avez aimé [*L’homme qui plantait des arbres*](http://blog.tcrouzet.com/2010/07/28/le-petit-livre-de-la-revolution/), vous aimerez *L’homme qui lave les mains*. Comme Elzéard Bouffier, le héros de Giono, Didier Pittet change le monde avec un geste simple.
+1. Vous avez aimé [*L’homme qui plantait des arbres*](/2010/07/28/le-petit-livre-de-la-revolution/), vous aimerez *L’homme qui lave les mains*. Comme Elzéard Bouffier, le héros de Giono, Didier Pittet change le monde avec un geste simple.
 2. Didier finira par obtenir le prix Nobel de la paix parce qu’il a fait plus pour sauver des vies que la plupart des hommes avant lui.
 3. L’hygiène des mains reste à promouvoir, aussi bien dans les hôpitaux que dans la communauté.
 4. L’histoire de Didier est une leçon de courage, de persévérance et de générosité. Elle peut nous aider à grandir en tant qu’individu aussi bien qu’en tant qu’humanité.

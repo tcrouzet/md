@@ -8,7 +8,7 @@ Dans Wikipedia, page dédiée aux [biens communs informationnels](http://fr.wiki
 
 > Dans l'hypothèse de légalisation du partage non marchand, donc de mise à disposition gratuite, autorisée en pair-à-pair, de biens communs informationnels même sous protection de Droit d'Auteur, il serait impossible, par la simple concurrence, de tirer un revenu de la vente directe de ces biens. C'est pourquoi cette légalisation impliquerait la gratuité de tous les biens communs informationnels.
 
-Voilà une belle contre-vérité jetée à la face des [commonistes](http://blog.tcrouzet.com/tag/commonisme/), sans lien vers la moindre démonstration. Un exemple suffit, il me semble, à la démonter, celui de [Cory Doctorow](http://craphound.com/), dont les livres ont toujours été disponibles gratuitement et qui réussit malgré tout à les vendre plutôt bien en librairie. Nous avons des exemples semblables dans tous les domaines culturels. Souvenez-vous de [In Rainbows](http://fr.wikipedia.org/wiki/In_Rainbows) de Radiohead, sorti en téléchargement libre avec appel aux dons.
+Voilà une belle contre-vérité jetée à la face des [commonistes](/tag/commonisme/), sans lien vers la moindre démonstration. Un exemple suffit, il me semble, à la démonter, celui de [Cory Doctorow](http://craphound.com/), dont les livres ont toujours été disponibles gratuitement et qui réussit malgré tout à les vendre plutôt bien en librairie. Nous avons des exemples semblables dans tous les domaines culturels. Souvenez-vous de [In Rainbows](http://fr.wikipedia.org/wiki/In_Rainbows) de Radiohead, sorti en téléchargement libre avec appel aux dons.
 
 À cela, les anticommonistes répondent qu’il ne s’agit que de cas particuliers. Je leur réponds qu’une réfutation par contre exemples est tout à fait valide en mathématique, surtout quand les contres exemples sont innombrables.
 
@@ -30,7 +30,7 @@ L’économie a même en toute probabilité commencé par mixer le non-marchand 
 
 Pénaliser l'échange non-marchands des recettes, c'est détruire le fondement même de notre culture. C'est déclarer la guerre à la curiosité. C'est entraver l'innovation. [C'est tuer Internet.](http://scinfolex.com/2014/03/08/le-contrecoup-le-plus-negatif-de-la-guerre-au-partage-et-son-veritable-objectif/)
 
-![Raffa, Le grand ménage](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2014/03/raffa-livre-le-grand-menage.jpg)
+![Raffa, Le grand ménage](https://tcrouzet.com/images_tc/2014/03/raffa-livre-le-grand-menage.jpg)
 
 
 

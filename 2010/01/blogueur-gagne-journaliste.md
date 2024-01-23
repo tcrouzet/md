@@ -1,6 +1,6 @@
 # Un blogueur gagne plus qu’un journaliste
 
-Quelques réflexions au sujet du journalisme qui m’ont traversé en lisant des articles autour de cette affaire de [spoliation des blogueurs par l’État](http://blog.tcrouzet.com/2009/12/30/l%e2%80%99etat-spolie-les-blogueurs/).
+Quelques réflexions au sujet du journalisme qui m’ont traversé en lisant des articles autour de cette affaire de [spoliation des blogueurs par l’État](/2009/12/30/l%e2%80%99etat-spolie-les-blogueurs/).
 
 Petite précision pour ceux qui l’ignorent : j’ai moi aussi été journaliste, même rédacteur en chef d’une belle machine de guerre, j’ai eu une carte de presse jusqu’en 1996. J’ai aussi lu que j’étais un entrepreneur-blogueur. Je ne suis qu’un artisan-blogueur, je n’ai jamais employé personne d’autre que moi-même.
 
@@ -32,7 +32,7 @@ Les journalistes professionnels sont rétribués. Mais gagnent-ils vraiment de l
 
 Quand l’État aide la presse, il permet aux salaires des journalistes de passer artificiellement dans le vert. Il favorise ainsi ces gens qui perdent de l’argent par rapport aux blogueurs qui n’en perdent pas. Il engendre de la concurrence déloyale. Des inégalités.
 
-Avec l’argent, les journalistes ne vont pas mieux écrire mais leurs entreprises vont mieux réussir à nous piquer des lecteurs (tu parles d’une innovation… ils vont nous créer des [usines à contenus](http://blog.tcrouzet.com/2009/12/14/usines-a-contenus/)).
+Avec l’argent, les journalistes ne vont pas mieux écrire mais leurs entreprises vont mieux réussir à nous piquer des lecteurs (tu parles d’une innovation… ils vont nous créer des [usines à contenus](/2009/12/14/usines-a-contenus/)).
 
 Le traitement de l’information n’y gagnera rien. Par ailleurs, ceux qui reçoivent de l’argent de l’État reçoivent un bon point. Aux yeux du public, ils apparaissent plus respectables, plus dignes de confiance. Cela pousse d’autant les blogueurs dans la contestation, dans la radicalisation.
 

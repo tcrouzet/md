@@ -2,13 +2,13 @@
 
 Il y a des textes que l’on porte en soi durant des années et puis on finit par les écrire, presque sans le vouloir, et alors surgissent des éléments surprenants, inattendus, qui se reconnectent avec des sujets familiers mais par un biais incongru.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/02/cover-image-350x466.png)
+![](https://tcrouzet.com/images_tc/2012/02/cover-image-350x466.png)
 
 En ce moment, je n’ai pas envie de bloguer, insatisfait par la forme, par la tournure du Web en général, je n’ai pas moins envie d’écrire, mais ailleurs que chez moi.
 
 François Bon m’a proposé de faire [un vase communicant](http://rendezvousdesvases.blogspot.com/) avec lui. Comme j’admire son [*Autobiographie des objets*](http://www.tierslivre.net/spip/spip.php?rubrique69), qui une fois assemblée sera un de ses textes majeurs, j’ai pensé tout de suite faire mon autobiographie du baby-foot.
 
-Déjà dans [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/), j’avais émis cette l’envie :
+Déjà dans [*J’ai eu l’idée*](/id/), j’avais émis cette l’envie :
 
 > 419 – J’ai eu l’idée, sur le modèle du Zen dans l’art chevaleresque du tir à l’arc d’Eugen Herrigel ou du Traité du zen et de l’entretien des motocyclettes de Robert M. Pirsig, d’écrire L’art du zen et du baby-foot. Quand je joue, je ne vois pas la balle, mais je sais où elle se trouve et déjà elle claque dans la cage adverse, suivant une trajectoire toujours nouvelle. Bon, c’était quand j’étais jeune. Aujourd’hui, mes poignets manquent de souplesse.
 

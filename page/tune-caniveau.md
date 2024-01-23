@@ -41,7 +41,7 @@ Suivi de nouvelles et esquisses…
 
 - ISBN ebook : 978-2-9193-5802-1
 
-- [Chroniques](http://blog.tcrouzet.com/tune-caniveau/rp/)
+- [Chroniques](/tune-caniveau/rp/)
 
 - [Sur le blog…](/tag/expi/)
 

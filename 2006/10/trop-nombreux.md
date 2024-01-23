@@ -4,15 +4,15 @@ Stop. Arrêtez de rêver à une croissance matérielle éternelle. Arrêtez de n
 
 L’homme civilisé, l'occidental, consomme dix fois plus d'énergie que l'homme à l'état nature. Plus nous serons nombreux, plus il nous sera difficile de ménager un avenir durable.
 
-Pour sauver notre monde, il faut arrêter la course au toujours plus. J’ai l’impression que nos politiciens sont encore inféodés au [dictat de la croissance traditionnelle](http://blog.tcrouzet.com/2006/05/30/croissance-illusoire/).
+Pour sauver notre monde, il faut arrêter la course au toujours plus. J’ai l’impression que nos politiciens sont encore inféodés au [dictat de la croissance traditionnelle](/2006/05/30/croissance-illusoire/).
 
 Si nous sommes de moins en moins nombreux, nous traverserons des crises. Mais si nous sommes plus nombreux, nous en traverserons d'encore plus sérieuses. Nous ne pouvons pas nous en sortir en disant qu’en Occident le taux de natalité est déjà très bas. On se fiche de l’Occident. C’est du monde qu’il est question.
 
-Comme le montre magistralement [Hans Rosling](http://blog.tcrouzet.com/2006/10/11/les-problemes-globaux-existent-ils/), partout dans le monde la natalité baisse. Et ça doit continuer, quel qu’en soit le prix économique. La population humaine ne peut pas grossir infiniment.
+Comme le montre magistralement [Hans Rosling](/2006/10/11/les-problemes-globaux-existent-ils/), partout dans le monde la natalité baisse. Et ça doit continuer, quel qu’en soit le prix économique. La population humaine ne peut pas grossir infiniment.
 
-Il y a une dizaine d’années, [quelques scientifiques ont estimé que 2 milliards était un nombre optimal](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/NSpopulation.pdf). Nous seront bientôt 7 milliards. Nous étions 2 milliards en 1930.
+Il y a une dizaine d’années, [quelques scientifiques ont estimé que 2 milliards était un nombre optimal](https://tcrouzet.com/images_tc/NSpopulation.pdf). Nous seront bientôt 7 milliards. Nous étions 2 milliards en 1930.
 
-Comme le souligne [Paul et Anne Ehrlich](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/NSpopulation.pdf) être moins nombreux présente au moins trois avantages :
+Comme le souligne [Paul et Anne Ehrlich](https://tcrouzet.com/images_tc/NSpopulation.pdf) être moins nombreux présente au moins trois avantages :
 
 1. Moins il y a de naissances, moins il y a de criminalité car la plupart des criminels sont des adolescents ou des jeunes adultes.
 

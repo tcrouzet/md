@@ -1,22 +1,22 @@
 # D’Arthur Koestler à Ken Wilber
 
-Hier, après avoir exprimé mes doutes sur l’utilité de l’idée de superorganisme, on m’a renvoyé à la théorie des holons proposée par Koestler et vulgarisée par Wilber. [Je me suis expliqué à ce sujet l’année dernière lorsque j’ai lu Wilber.](http://blog.tcrouzet.com/2008/10/02/de-l%E2%80%99idealisme-a-la-complexite/)
+Hier, après avoir exprimé mes doutes sur l’utilité de l’idée de superorganisme, on m’a renvoyé à la théorie des holons proposée par Koestler et vulgarisée par Wilber. [Je me suis expliqué à ce sujet l’année dernière lorsque j’ai lu Wilber.](/2008/10/02/de-l%E2%80%99idealisme-a-la-complexite/)
 
 > Définition. Un holon est une entité qui est en même temps une part de quelque chose et, en elle-même, une totalité. Exemple. Une cellule dans un organisme.
 
 Bien sûr, je pense souvent à la philosophie intégrale lorsque je m’interroge sur la fécondité de l’idée de superorganisme. [Je viens de lire un nouveau texte sur le sujet.](http://www.integralworld.net/edwards13.html) Je tombe très vite toujours sur le même bug. La théorie des holons ne permet pas d’expliquer un organisme ordinaire à moins de le schématiser trop simplement.
 
-![holons](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/holon1.jpg)
+![holons](https://tcrouzet.com/images_tc/2009/08/holon1.jpg)
 
 Sur ce schéma, les organes sont des holons eux-mêmes des touts qui appartiennent à l’organisme, un tout hiérarchiquement supérieur. Mais ce schéma oublie tous les systèmes distribués qui imprègnent la totalité de l’organisme, organes compris : système sanguin et nerveux, et plus particulièrement le système immunitaire qui traverse l’ensemble des organes.
 
-![holons + liant = mayonnaise](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/holon2.jpg)
+![holons + liant = mayonnaise](https://tcrouzet.com/images_tc/2009/08/holon2.jpg)
 
 Les systèmes distribués ne sont pas des holons puisqu’ils ne peuvent exister par eux-mêmes. Pour reprendre [l’image de Koestler en 1969](http://www.panarchy.org/koestler/holon.1969.html), on ne peut pas les transplanter. Il existe donc des composantes non-holoniques dans un organisme (un philosophe intégral dira alors qu’elles appartiennent à l’organisme lui-même). Un holon n’est donc pas toujours composé uniquement de holons et les holons ne permettent pas de décrire l’ensemble des choses.
 
 Les holons eux-mêmes ne sont rien sans les systèmes distribués comme nous ne sommes rien sans notre environnement. L’idée que quelque chose est un tout en lui-même est absurde, ne serait-ce que parce qu’une chose ne peut maintenir son intégrité que grâce aux forces naturelles souvent modélisées comme des champs.
 
-![Métasystème transition](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/holon3.gif)
+![Métasystème transition](https://tcrouzet.com/images_tc/2009/08/holon3.gif)
 
 Déjà en 1977, donc avant la formulation par Wilber de la philosophie intégrale, le cybernéticien Valentin Turchin avait montré [qu’un métasystème a besoin d’un mécanisme de contrôle pour intégrer les sous-systèmes](http://pespmc1.vub.ac.be/MST.html) (le système immunitaire est un des mécanismes de contrôle pour l’organisme). Les holons ne suffisent pas.
 

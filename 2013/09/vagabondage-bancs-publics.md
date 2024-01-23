@@ -18,13 +18,13 @@ Nouvelle salve d'odeur de lessive. Et je repense à la cuisine de ma grand-mère
 
 Je reprends la route. M'arrête à Bize-Minervois, descends au bord de la rivière attiré par l'avenue de platanes et je tombe sur l'autre banc de mon enfance. Même forme galbée, cette fois tout de béton rainuré. Je pense à un éléphant. Il en a la solidité pâteuse, l'œil las, la carnation craquelée.
 
-![Premier banc](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/va3_1.jpg)
+![Premier banc](https://tcrouzet.com/images_tc/2013/09/va3_1.jpg)
 
-![Vue depuis le village](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/va3_2.jpg)
+![Vue depuis le village](https://tcrouzet.com/images_tc/2013/09/va3_2.jpg)
 
-![Vue sur les Pyrénées](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/va3_3.jpg)
+![Vue sur les Pyrénées](https://tcrouzet.com/images_tc/2013/09/va3_3.jpg)
 
-![Second banc](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/09/va3_4.jpg)
+![Second banc](https://tcrouzet.com/images_tc/2013/09/va3_4.jpg)
 
 
 

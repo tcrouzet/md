@@ -6,7 +6,7 @@ Au sujet du journalisme citoyen (17 minutes)
 
 Au sujet de Puteaux et des municipales (17 minutes)
 
-![Par fuckingkarma.com](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/20070804pacco.jpg)
+![Par fuckingkarma.com](https://tcrouzet.com/images_tc/20070804pacco.jpg)
 
 
 

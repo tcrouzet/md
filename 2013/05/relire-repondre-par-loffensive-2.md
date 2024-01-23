@@ -1,6 +1,6 @@
 # ReLire – Répondre par l’offensive (2)
 
-L’année dernière, [j’avais proposé que nous éditions nous-mêmes les indisponibles](http://blog.tcrouzet.com/tag/indisponibles/) pour couper l’herbe sous les pieds des imbéciles derrière [ReLire](http://relire.bnf.fr/). Il y a quelques jours, j’ai commis un nouveau billet sur ce thème et je l’ai retiré aussitôt, car j’ai vite vu qu’il était mal interprété. Je reprends.
+L’année dernière, [j’avais proposé que nous éditions nous-mêmes les indisponibles](/tag/indisponibles/) pour couper l’herbe sous les pieds des imbéciles derrière [ReLire](http://relire.bnf.fr/). Il y a quelques jours, j’ai commis un nouveau billet sur ce thème et je l’ai retiré aussitôt, car j’ai vite vu qu’il était mal interprété. Je reprends.
 
 En tant qu’auteurs, notre terrain est esthétique. Si les batailles juridiques contre les imbéciles s’imposent, la bataille artistique ne doit pas être négligée, bien au contraire. Nous tenons une occasion magnifique de fourbir nos armes. Nous devons tous nous engager sur le terrain du numérique.
 

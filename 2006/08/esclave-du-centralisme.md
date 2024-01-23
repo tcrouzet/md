@@ -2,7 +2,7 @@
 
 Hier soir, j’ai assisté à une conférence sur [Alexis de Tocqueville](http://www.tocqueville.culture.fr). Un de ses descendants nous a parlé de son prestigieux ancêtre, évoquant ses nombreuses prophéties, notamment celle qui voit le centralisme comme un danger pour la démocratie. Après, autour d’un buffet campagnard, nous avons rediscuté de ce sujet.
 
-J’ai évoqué un passage de Tocqueville qui m’a frappé et dont j’ai [déjà parlé](http://blog.tcrouzet.com/2006/04/17/nouvel-empire/). Dans la jeune démocratie américaine, lorsqu’une intempérie endommageait une route, les usagers de cette route se saisissaient de leurs pelles et de leurs brouettes et réparaient immédiatement la route. À cette époque, le centralisme administratif n’existait pas encore, l’action locale dominait la vie publique.
+J’ai évoqué un passage de Tocqueville qui m’a frappé et dont j’ai [déjà parlé](/2006/04/17/nouvel-empire/). Dans la jeune démocratie américaine, lorsqu’une intempérie endommageait une route, les usagers de cette route se saisissaient de leurs pelles et de leurs brouettes et réparaient immédiatement la route. À cette époque, le centralisme administratif n’existait pas encore, l’action locale dominait la vie publique.
 
 Aujourd'hui, si un orage défonce une route, nous attendons que la DDE intervienne. Mon beau-père fit alors remarquer que nous n’avions pas le choix. Pour réparer une route, il faut des machines. C’est vrai. Le centralisme se nourrit lui-même. Un peu de centralisme implique plus de centralisme. Et la société se retrouve progressivement gangrenée par lui. Nous sommes devenus les esclaves du centralisme.
 

@@ -1,6 +1,6 @@
 # Culture et technologie
 
-J’écris cet article en partie pour répondre à [Lény](http://mekanocompany.blogspot.com/). Dans un commentaire suite à mon [manifeste sur la culture 2.0](http://blog.tcrouzet.com/2007/10/10/culture-20/), il a dit :
+J’écris cet article en partie pour répondre à [Lény](http://mekanocompany.blogspot.com/). Dans un commentaire suite à mon [manifeste sur la culture 2.0](/2007/10/10/culture-20/), il a dit :
 
 > L’idée qui voudrait que pour être en adéquation avec un temps technologique il faut utiliser la technologie est une connerie.
 
@@ -18,7 +18,7 @@ Pour exprimer le courant psychanalytique ou antipsychanalytique, l’artiste pra
 
 Ainsi la BD est extraordinairement créative parce que les nouvelles technologies ont aidé à renouveler le genre, depuis les tablettes à dessin jusqu’aux systèmes d’encrage.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/jenstark.jpg)
+![](https://tcrouzet.com/images_tc/2007/10/jenstark.jpg)
 
 Cette sculpture en papier de [Jen Stark](http://www.jenstark.com) n’a pas été tracée au laser mais elle aurait pu l’être. C’est ça qui importe. Que Jen Sark ait utilisé la techno ou non n’a pas d’importance. Elle est influencée par elle. Pour que cette influence se produise, je crois qu’il faut se confronter à la technologie.
 

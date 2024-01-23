@@ -1,12 +1,12 @@
 # Qu’est-ce qui n’est pas flux ?
 
-J’arrête les polémiques à deux balles et je reviens à mon sujet, [le Flux](http://blog.tcrouzet.com/tag/flux/), pour lequel [Eric Mainville](http://crisedanslesmedias.hautetfort.com/) me reproche de linker peu de gens. J’ai bien du mal à faire autrement quand presque tout le monde ne parle que des médias et des people. Je linke les rares personnes qui m’aident à penser, pas les perroquets. J’aurais pu citer [Pierre Fraser](http://theoriedestendances.com/) par exemple mais j’ai pas encore lu son livre.
+J’arrête les polémiques à deux balles et je reviens à mon sujet, [le Flux](/tag/flux/), pour lequel [Eric Mainville](http://crisedanslesmedias.hautetfort.com/) me reproche de linker peu de gens. J’ai bien du mal à faire autrement quand presque tout le monde ne parle que des médias et des people. Je linke les rares personnes qui m’aident à penser, pas les perroquets. J’aurais pu citer [Pierre Fraser](http://theoriedestendances.com/) par exemple mais j’ai pas encore lu son livre.
 
 Où j’en suis ? J’ai identifié quatre formes de flux.
 
 1. Le Flux comme écosystème, en quelque sorte un espace objectif qui a pour structure les liens sur lesquels circulent les informations comme les émotions. C'est mon sujet central.
 2. Le flux intérieur, le flux éprouvé, être dans le flux selon l’approche de [Mihaly Csikszentmihalyi](http://fr.wikipedia.org/wiki/Mihaly_Csikszentmihalyi). Pour moi, d’après mon expérience, nous pouvons atteindre cet état quand nous plongeons dans le Flux.
-3. Le flux social [décrit par Semprini](http://blog.tcrouzet.com/2009/12/24/avez-vous-deja-porte-une-montre/), le flux des échanges économiques, le flux des matières premières, de notre perpétuel mouvement dans l’espace… Un flux lui aussi d’une certaine manière catalysé par le Flux.
+3. Le flux social [décrit par Semprini](/2009/12/24/avez-vous-deja-porte-une-montre/), le flux des échanges économiques, le flux des matières premières, de notre perpétuel mouvement dans l’espace… Un flux lui aussi d’une certaine manière catalysé par le Flux.
 4. Et puis, avant tout, il y a le flux vital, l’échange constant qui rend possible la vie… flux qui imprègne l’univers en évolution constante. Le flux déjà évoqué par Héraclite : « Nous ne nous baignons jamais deux fois dans le même fleuve. »
 
 Alors on pourrait dire que tout est flux. Tout peut-être vu comme un flux, un processus, un passage. C’est une façon de voir le monde qui s’oppose à celle qui suppose l’existence d’universaux, d’invariants… Le seul invariant est peut-être qu’il existe un flux (on ne peut jamais se défaire tout à fait des invariants).

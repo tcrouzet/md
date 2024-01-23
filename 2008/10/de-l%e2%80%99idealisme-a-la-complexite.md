@@ -1,12 +1,12 @@
 # De l’idéalisme à la complexité
 
-Un [commentateur m’a reproché](http://blog.tcrouzet.com/2008/09/18/premiers-pas-avec-ken-wilber/#comment-61022) de ne pas avoir lu Ken Wilber. Selon lui, c’était une sorte de faute capitale. J’étais un imposteur parce que je ne connaissais pas le plus grand penseur de notre temps. Tout ce que j’avais pu écrire perdait tout intérêt.
+Un [commentateur m’a reproché](/2008/09/18/premiers-pas-avec-ken-wilber/#comment-61022) de ne pas avoir lu Ken Wilber. Selon lui, c’était une sorte de faute capitale. J’étais un imposteur parce que je ne connaissais pas le plus grand penseur de notre temps. Tout ce que j’avais pu écrire perdait tout intérêt.
 
 Lire ne nous rend pas plus malin. Je pense qu’il n’existe aucune lecture indispensable même si certaines peuvent être pour nous décisives.
 
 Pour lire *Le monde comme volonté et représentation*, Schopenhauer explique qu’il suffit de lire Platon. J’ai suivi ses conseils pour m’initier à la philosophie. J’ai découvert plus tard que Wittgenstein avait aussi commencé par Schopenhauer et Platon.
 
-Wilber est donc bien évidemment pas plus indispensable que n’importe quel autre auteur. Maintenant, quand on me dit que je passe à côté d’une pensée profonde, qui plus est contemporaine, [je fais l’effort de l’étudier](http://blog.tcrouzet.com/2008/09/18/premiers-pas-avec-ken-wilber/).
+Wilber est donc bien évidemment pas plus indispensable que n’importe quel autre auteur. Maintenant, quand on me dit que je passe à côté d’une pensée profonde, qui plus est contemporaine, [je fais l’effort de l’étudier](/2008/09/18/premiers-pas-avec-ken-wilber/).
 
 Je comprends pourquoi Ken Wilber a du succès. Belle gueule, un profil de Bouddha et un don manifeste pour ne choquer personne. Il écrit avec assurance sur un rythme agréable. On a l’impression de le comprendre immédiatement. Sa pensée paraît lumineuse. Le charisme du personnage aurait même tendance à nous subjuguer.
 
@@ -22,7 +22,7 @@ Il part de la notion de [holon](http://en.wikipedia.org/wiki/Holon_(philosophy))
 
 Koestler a parlé d’holarchie, la structure hiérarchique des holons. Un atome entre dans une molécule qui entre dans une cellule qui entre dans un organisme…
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/10/wilber1.gif)
+![](https://tcrouzet.com/images_tc/2008/10/wilber1.gif)
 
 Wilber affirme que les holarchies sont la fabrique même de l’univers. En tant que mystique, il tente d’accéder à des holons de niveaux holarchiques de plus en plus élevés. Après la biosphère vient la noosphère, après la noosphère la sphère spirituelle et ainsi de suite… je me demande bien jusqu’où ? Dès qu’un raisonnement aboutit à des régressions à l’infini, j’ai tendance à le mettre en doute.
 
@@ -38,7 +38,7 @@ Quand je bois un verre d’eau, j’ingère dans mon organisme des molécules qu
 
 Une partie peut donc collaborer à plusieurs totalités. Et la notion d’holarchie commence à vaciller.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/10/wilber2.gif)
+![](https://tcrouzet.com/images_tc/2008/10/wilber2.gif)
 
 Je suis fait de molécules de diverses tailles, d’atomes isolés, d’idées qui n’appartiennent pas à la réalité matérielle, de sentiments encore plus mystérieux… tout cela interagit pour me constituer. Je suis l’ensemble de ces interactions et non un tout.
 
@@ -46,7 +46,7 @@ Les holarchies sont des simplifications. Et en déduire l’existence d’holarc
 
 À la vision du monde en poupées russes de Wilber, on peut opposer la vision dynamique que les réseaux nous aident à cartographier.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2008/10/wilber3.gif)
+![](https://tcrouzet.com/images_tc/2008/10/wilber3.gif)
 
 Des entités se forment, incertaines, floues, provisoires. La notion de hiérarchie doit être réinventée. Ce n’est plus comme dit Wilber « j’inclus et je transcende » mais « je connecte et j’échange ».
 

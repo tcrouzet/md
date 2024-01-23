@@ -4,9 +4,9 @@ Cet après midi j’ai posté un [premier tweet](http://twitter.com/crouzet/stat
 
 > Le Conteur, le roman gratuit des éditions Gutenberg encore dispo 3 semaines!  (@LeConteur)
 
-J'aurais aimé que ça clique pour faire la publicité au roman d’Omair Ahmad et à une [initiative qui me paraît intéressante](http://blog.tcrouzet.com/2009/09/24/un-nouveau-roman-free-pas-free-en-france/). Bilan via bit.ly : 56/62 clics (56 pour moi, 62 au total).
+J'aurais aimé que ça clique pour faire la publicité au roman d’Omair Ahmad et à une [initiative qui me paraît intéressante](/2009/09/24/un-nouveau-roman-free-pas-free-en-france/). Bilan via bit.ly : 56/62 clics (56 pour moi, 62 au total).
 
-Un peu plus tard j’envoie [un tweet sur la réaction Finkielkraut](http://twitter.com/crouzet/statuses/4738064248) par rapport à l’affaire Polanski ([clin d’œil à la conversation suite à mon billet sur Plenel](http://blog.tcrouzet.com/2009/10/06/dans-la-serie-les-retrogrades-edwy-plenel/)).
+Un peu plus tard j’envoie [un tweet sur la réaction Finkielkraut](http://twitter.com/crouzet/statuses/4738064248) par rapport à l’affaire Polanski ([clin d’œil à la conversation suite à mon billet sur Plenel](/2009/10/06/dans-la-serie-les-retrogrades-edwy-plenel/)).
 
 > J'ai pas besoin de me payer Finkielkraut, d'autres s'en chargent pour moi 
 

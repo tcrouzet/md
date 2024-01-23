@@ -8,11 +8,11 @@ En théorie, il n’existe pas de limite à la complication car on peut sans ces
 
 Même avec l'aide des ordinateurs, la complication soutenable n’est sans doute pas illimitée ; tout comme un progrès technologique qui reposerait sur des systèmes compliqués, cas de figure dans lequel nous nous trouvons depuis le début de la révolution industrielle.
 
-Pour un organisme vivant, tel un humain, la décomposition suivant la logique réductionniste est moins évidente. Un organe, puis une cellule restent immensément compliqués. Mené jusqu’aux lois de la physique le réductionnisme n’est pas d’un grand secours comme le montre [Stuart Kaufman](http://blog.tcrouzet.com/2008/08/19/autoregulation-vs-auto-organisation/). Des lois nouvelles émergent qui sont non réductibles aux lois fondamentales : l’évolution par exemple.
+Pour un organisme vivant, tel un humain, la décomposition suivant la logique réductionniste est moins évidente. Un organe, puis une cellule restent immensément compliqués. Mené jusqu’aux lois de la physique le réductionnisme n’est pas d’un grand secours comme le montre [Stuart Kaufman](/2008/08/19/autoregulation-vs-auto-organisation/). Des lois nouvelles émergent qui sont non réductibles aux lois fondamentales : l’évolution par exemple.
 
 Dans d’autres systèmes complexes, comme les automates cellulaires de [Wolfram](http://www.stephenwolfram.com/publications/articles/ca/84-complex/2/text.html) dont je parle dans *Le peuple des connecteurs*, les parties sont connues, immensément simples, mais leurs interactions engendrent des comportements qui échappent au réductionnisme (notamment à cause des comportements émergents).
 
-Comment mesurer la complexité ? Comment la différencier de ce qui est compliqué ? Ces questions apparemment abstraites ont d’immenses conséquences philosophiques. Par exemple, [Teilhard de Chardin](http://blog.tcrouzet.com/2008/09/08/teilhard-de-chardin/) et les tenants de l’integral philosophy supposent que la complexité ne cesse de croître par un phénomène que Wilber résume par *transcender et inclure*.
+Comment mesurer la complexité ? Comment la différencier de ce qui est compliqué ? Ces questions apparemment abstraites ont d’immenses conséquences philosophiques. Par exemple, [Teilhard de Chardin](/2008/09/08/teilhard-de-chardin/) et les tenants de l’integral philosophy supposent que la complexité ne cesse de croître par un phénomène que Wilber résume par *transcender et inclure*.
 
 Leur hypothèse initiale est-elle légitime ? J’ai l’impression qu’ils n’ont jamais défini ce qu’était la complexité, ni surtout comment l’estimer. Sommes-nous vraiment plus complexes qu’une termitière ? J’ai envie de dire oui mais comment en être sûr ?
 
@@ -36,7 +36,7 @@ Si le système est complexe, si la subdivision n’aide pas à progresser dans l
 
 Maintenant, rien ne prouve que la croissance du réseau, au delà d'un seuil à définir, ajoute nécessairement des connexions utiles. Il peut y avoir de la redondance pour ajouter de la solidité mais peut être les liaisons supplémentaires ne font que compliqué le déjà complexe.
 
-![imagesspiralfig1-4501](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/04/imagesspiralfig1-4501.jpg)
+![imagesspiralfig1-4501](https://tcrouzet.com/images_tc/2009/04/imagesspiralfig1-4501.jpg)
 
 Je n’en sais rien, je réfléchis tout haut. Pour les tenants de l’integral philosophy, la conscience se développe en intégrant les stades antérieurs, suivant la [spirale dynamique](http://en.wikipedia.org/wiki/Spiral_Dynamics). Ce processus de complexification apporterait sans cesse de la nouveauté. Franchement, j’en doute. Je pense que la conscience évolue, mais pas nécessairement vers plus de conscience mais plutôt vers d’autres formes. Aujourd’hui, nous rêvons de la conscience collective tout en ayant perdu la conscience que devaient éprouver les premiers hommes.
 
@@ -58,7 +58,7 @@ D’un autre côté, un progrès éventuel de la conscience me plait. En tant qu
 
 Pour gagner quelque chose, nous devons perdre autre chose, sinon nous consommerions de plus en plus d’énergie.
 
-![270268011](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/04/270268011.jpg)
+![270268011](https://tcrouzet.com/images_tc/2009/04/270268011.jpg)
 
 À ce sujet, j’ai lu un [article](http://www.newscientist.com/article/mg20227026.800-the-heat-to-come.html?full=true) d’Eric Chaisson qui évalue l’évolution de la consommation en énergie de différentes structures dans l’univers. En tant que civilisation, nous serions très gourmands, ce qui tendrait à dire que nous sommes aussi plus complexes.
 
@@ -68,7 +68,7 @@ Allons-nous continuer ainsi ou allons-nous finir par nous heurter à une barriè
 
 ### La spirale dynamique
 
-![spiral_dynamics](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/04/spiral_dynamics_model1.jpg)
+![spiral_dynamics](https://tcrouzet.com/images_tc/2009/04/spiral_dynamics_model1.jpg)
 
  Dans une des images canoniques qui illustre la spirale dynamique et l’évolution des civilisations et des consciences, j’ai trouvé une citation de C. Graves partout reproduite et dont un point particulier me dérange (en gras) :
 

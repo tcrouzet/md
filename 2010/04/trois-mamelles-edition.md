@@ -6,7 +6,7 @@ Je pourrais prendre un seul exemple : le mensuel *Wired* qui, aujourd’hui, se
 
 Ce modèle du triangle convient pour l’édition, plus particulièrement pour l’édition que nous devons réinventer. Nous avons sur un premier sommet l’édition, sur le second la diffusion et sur le troisième la propulsion. Si les trois sommets peuvent en théorie se concentrer dans une même entreprise, cela me semble de plus en plus problématique en un temps de complexification des supports comme des canaux de diffusion.
 
-Nous autres auteurs devons prendre en compte les chamboulements en cours lorsque nous signons un contrat (je pense à tout ça au moment où je boucle [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/))
+Nous autres auteurs devons prendre en compte les chamboulements en cours lorsque nous signons un contrat (je pense à tout ça au moment où je boucle [*La quatrième théorie*](/la-quatrieme-theorie/))
 
 ### L’édition
 

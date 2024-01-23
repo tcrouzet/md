@@ -1,6 +1,6 @@
 # Danger : hypercentralisation
 
-Quand on a le pouvoir, on en veut toujours plus. Irrémédiablement les entreprises comme les États se centralisent. [Rome après avoir prospéré grâce à la liberté qui régnait sur ses frontières se sclérosa peu à peu.](http://blog.tcrouzet.com/2007/06/05/la-revanche-des-apaches/) Internet ne risque-t-il pas de suivre le même chemin ?
+Quand on a le pouvoir, on en veut toujours plus. Irrémédiablement les entreprises comme les États se centralisent. [Rome après avoir prospéré grâce à la liberté qui régnait sur ses frontières se sclérosa peu à peu.](/2007/06/05/la-revanche-des-apaches/) Internet ne risque-t-il pas de suivre le même chemin ?
 
 Au début, encore aujourd’hui d’une certaine façon, le web était décentralisé. Chacun pouvait ouvrir son site à l’aide de technologies open source, HTML entre autres, et les visiteurs pouvaient passer de site en site librement.
 
@@ -24,7 +24,7 @@ Sur ce nouveau web qui s’invente, il faut être gros ou crever. Il n’y a plu
 
 Si nous voulons conserver notre liberté numérique, nous devons à tout prix favoriser la communication horizontale et éviter de nous enfermer dans des standards propriétaires.
 
-Subsiste un espoir : les API. Au fond d’eux-mêmes, les entrepreneurs du web restent ouverts. Ils proposent d’interfacer leurs services avec d’autres services sur le modèle des [mashups](http://blog.tcrouzet.com/2006/05/20/la-fin-des-copyrights-avec-le-web-20/). Ils savent que le progrès ne passe que par un remix permanent des technologies existantes.
+Subsiste un espoir : les API. Au fond d’eux-mêmes, les entrepreneurs du web restent ouverts. Ils proposent d’interfacer leurs services avec d’autres services sur le modèle des [mashups](/2006/05/20/la-fin-des-copyrights-avec-le-web-20/). Ils savent que le progrès ne passe que par un remix permanent des technologies existantes.
 
 Malheureusement la plupart des API sont bridées. Pour les débrider, il faut négocier des accords commerciaux. Encore une fois, cette notion de l’ancien monde n’existait pas sur le web des origines. Peu à peu des verrous se mettent en place, des verrous que seuls quelques privilégiés peuvent faire sauter.
 

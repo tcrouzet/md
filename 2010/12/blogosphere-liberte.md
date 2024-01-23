@@ -1,6 +1,6 @@
 # Seule la blogosphère sauvera la liberté
 
-J’ai éprouvé hier durant toute la journée l’impression de vivre un moment historique, impression qui n’a fait que s’amplifier au fil des heures. J’ai publié [mon billet sur Wikileaks](http://blog.tcrouzet.com/2010/12/03/dictature-de-la-transparence/) pour me calmer mais ça n’a rien arrangé. Était-ce une hallucination ou un mauvais trip ?
+J’ai éprouvé hier durant toute la journée l’impression de vivre un moment historique, impression qui n’a fait que s’amplifier au fil des heures. J’ai publié [mon billet sur Wikileaks](/2010/12/03/dictature-de-la-transparence/) pour me calmer mais ça n’a rien arrangé. Était-ce une hallucination ou un mauvais trip ?
 
 Je n’étais pas le seul inquiet. Sur Twitter, [Pierre Chappaz a déclaré](http://twitter.com/pierrechappaz/status/10793640183988224) :
 
@@ -21,7 +21,7 @@ Nos gouvernements choisissent la première solution. Les États-Unis font pressi
 
 Demain Facebook, Twitter et Google se coucheront comme ils se sont déjà couchés en d’autres situations. Comme Amazon et PayPal viennent de nous le prouver, il ne faut rien attendre des compagnies privées pour défendre nos intérêts. Quand leurs intérêts sont en jeu, elles oublient le reste. Il en ira de même de tous les médias qui dépendent un tant soit peu de la finance.
 
-Pour le moment, quelques médias publient les faux secrets de nos gouvernements, mais regardez bien. Combien dénoncent la déclaration de guerre ? [Combien affirment qu'une guerre mondiale commence ?](http://www.jmp.net/2010/12/wikileaks/) Ils restent prudents parce qu'ils sont vulnérables. Ils sont vulnérables parce qu'ils sont centralisés et que les financiers les tiennent pour la plupart. Le jour où le gouvernement leur ordonnera de choisir entre se coucher ou voir leur financement se tarir, ils se coucheront parce que gagner de [la tune](http://blog.tcrouzet.com/tune-caniveau/) est leur priorité.
+Pour le moment, quelques médias publient les faux secrets de nos gouvernements, mais regardez bien. Combien dénoncent la déclaration de guerre ? [Combien affirment qu'une guerre mondiale commence ?](http://www.jmp.net/2010/12/wikileaks/) Ils restent prudents parce qu'ils sont vulnérables. Ils sont vulnérables parce qu'ils sont centralisés et que les financiers les tiennent pour la plupart. Le jour où le gouvernement leur ordonnera de choisir entre se coucher ou voir leur financement se tarir, ils se coucheront parce que gagner de [la tune](/tune-caniveau/) est leur priorité.
 
 Sommes-nous pieds et poings liés ? Non, nous avons déjà une infrastructure médiatique de secours : la blogosphère. Par la multiplicité de ses pôles, elle interdit les frappes simplistes. Pour la faire taire, il faut faire taire Internet. Pourquoi pas ? Mais nous n’en sommes pas encore là, d’autant moins que dans ce cas les Google, Amazon, Facebook et autre Twitter ne seront plus d’accord pour se coucher sagement.
 

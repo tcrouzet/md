@@ -2,7 +2,7 @@
 
 
 
-![villereal](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2009/08/villereal_021-450x337.jpg)
+![villereal](https://tcrouzet.com/images_tc/2009/08/villereal_021-450x337.jpg)
 
 Hier soir, presque par hasard, j’arrive sous la halle de Villeréal après une conférence de [Philippe Dessertine](http://fr.wikipedia.org/wiki/Philippe_Dessertine), auteur de *Ceci n’est pas une crise (juste la fin d’un monde)*. Avec Isabelle, nous échangeons quelques mots avec lui. Je ne connais rien d’autre de lui que ce qui est passé entre nous en quinze minutes. Donc tout ce que je vais dire de Dessertine doit être pris entre guillemets. Je lirai son livre mais j’aime aussi ces contacts brefs où beaucoup de choses transparaissent.
 
@@ -14,7 +14,7 @@ Je crois pour ma part que notre situation ne ressemble à aucune autre ne serait
 
 J’ai eu l’impression que Dessertine pensait que nous risquions d’inventer un nouveau communautarisme avec nos réseaux, notamment la communauté des connectés face à celle des non connectés (un peu le sujet de [mon twiller](http://twiller.tcrouzet.com/)).
 
-Des monnaies particulières ne risquent selon Dessertine que de renforcer le communautarisme et de nous préparer au pire. Dans [*Le Cinquième pouvoir*](http://blog.tcrouzet.com/le-cinquieme-pouvoir/), j’ai déjà levé cette objection qui ne cesse de ressurgir. Les observateurs extérieurs oublient que nos communautés, nos îles sur le Net, sont des TAZ. Le T est très important : TEMPORAIRE. Nous sommes dans la dynamique, le biologique, le reconfigurable à volonté. Rien n’est là pour durer mais pour s’adapter aux circonstances.
+Des monnaies particulières ne risquent selon Dessertine que de renforcer le communautarisme et de nous préparer au pire. Dans [*Le Cinquième pouvoir*](/le-cinquieme-pouvoir/), j’ai déjà levé cette objection qui ne cesse de ressurgir. Les observateurs extérieurs oublient que nos communautés, nos îles sur le Net, sont des TAZ. Le T est très important : TEMPORAIRE. Nous sommes dans la dynamique, le biologique, le reconfigurable à volonté. Rien n’est là pour durer mais pour s’adapter aux circonstances.
 
 Nous ne créons pas des monnaies pour l’éternité mais pour des opérations particulières. Nous les créons pour qu’elles conviennent au mieux à ce dont nous avons besoin puis les laissons tomber. Cette monnaie peut lier des millions de personnes d’un bout à l’autre de la planète. Derrière ces nouvelles monnaies il n’y a aucune notion de localisation, de local, de frontière…
 

@@ -1,6 +1,6 @@
 # Cacophonie
 
-La publication de mon article au sujet de [la singularité](http://blog.tcrouzet.com/2006/06/02/la-singularit/) sur [Agoravox](http://www.agoravox.fr/article.php3?id_article=10204) a suscité pas mal de commentaires qui m'ont fait me poser pas mal de questions, me laissant plutôt pessimiste, ce qui contraste avec le ton de mon article.
+La publication de mon article au sujet de [la singularité](/2006/06/02/la-singularit/) sur [Agoravox](http://www.agoravox.fr/article.php3?id_article=10204) a suscité pas mal de commentaires qui m'ont fait me poser pas mal de questions, me laissant plutôt pessimiste, ce qui contraste avec le ton de mon article.
 
 Je me demande à quoi bon toutes nos vociférations. Cette pensée me traverse souvent depuis quelques temps lorsque je surfe sur la blogosphère. L'article publié en même temps que le mien chez [Nicolas Voisin](http://www.nuesblog.com/?103/Media-Citoyen-Vs-Media-de-Participation) me montre que je ne suis pas le seul à m'interroger.
 

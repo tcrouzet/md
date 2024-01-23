@@ -8,4 +8,4 @@ Tout le monde accepte aujourd’hui l’idée que l’informatique a changé not
 
 Alors après avoir changé notre façon de travailler et notre façon de penser, l’informatique changera notre façon de vivre ensemble, elle changera la politique à tout jamais.
 
-*PS : Si notre monde ressemble à une* [*matrice*](http://blog.tcrouzet.com/2006/09/12/matrix-connexion/) *comme le suggère Stephan Wolfram, alors il ne serait pas étonnant de découvrir des théories physiques incompatibles. Elles correspondraient chacune à des programmes différents travaillant en parallèle.*
+*PS : Si notre monde ressemble à une* [*matrice*](/2006/09/12/matrix-connexion/) *comme le suggère Stephan Wolfram, alors il ne serait pas étonnant de découvrir des théories physiques incompatibles. Elles correspondraient chacune à des programmes différents travaillant en parallèle.*

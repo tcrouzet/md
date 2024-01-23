@@ -4,7 +4,7 @@ Je suis fatigué, c’est l’automne. Mais c’est une explication insuffisante
 
 Je viens de perdre mon oncle. Mon grand frère, moi le fils unique. L’artiste de la famille. Qui m’a appris à dessiner, qui m’a fait lire Hugo Pratt à onze ans, qui m’a plus que nul autre envoyé dans la trajectoire que je suis, lui le rigolo indolent. Il est parti comme ça, beaucoup trop jeune. Un jour mal au ventre, le lendemain condamné dans d’atroces souffrances. Depuis, moi aussi j’ai mal au ventre, je suis tétanisé.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2012/12/agm1.jpg)
+![](https://tcrouzet.com/images_tc/2012/12/agm1.jpg)
 
 Et puis Alain-Gilles Minella aussi nous a quittés, en même temps que mon oncle, de la même maladie brutale. Comme s’ils s’étaient donné le mot et avaient décidé de me faire une farce.
 

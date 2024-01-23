@@ -1,6 +1,6 @@
 # Nouvel empire
 
-Je continue la lecture passionnante du livre de [Peter Turchin](http://blog.tcrouzet.com/2006/04/11/war-and-peace-and-war/) qui tente de mettre en évidence trois conditions nécessaires à la création d'un empire (vaste structure sociale).
+Je continue la lecture passionnante du livre de [Peter Turchin](/2006/04/11/war-and-peace-and-war/) qui tente de mettre en évidence trois conditions nécessaires à la création d'un empire (vaste structure sociale).
 
 (1) Grande capacité d'action collective qui doit pouvoir se manifester spontanément, dynamiquement, en réaction immédiate aux aléas.
 
@@ -20,7 +20,7 @@ J'ai l'intuition que oui !
 
 Je me suis précipité acheter les trois tomes de l'œuvres intégrale de Tocqueville et j'ai commencé à lire *De la démocratie en Amérique*. Je suis immédiatement frappé par l'importance que Tocqueville accorde à l'égalité : d'elle jaillit la démocratie et elle lui donne un avantage immense sur les anciens régimes.
 
-Cette égalité est aussi une condition nécessaire à la coopération : nous pouvons travailler ensemble, nous sommes tous dignes de travailler ensemble. C'est que nous faisons sur internet : nous y sommes tous égaux puisque nous disposons tous du même droit de parole, de la même liberté d'action... égalité qui n'existe plus vraiment dans nos démocraties qui sont en train de se scléroser autour de nouveaux privilèges, notamment celui de [restreindre la liberté d'autrui](http://blog.tcrouzet.com/2006/04/14/freemen-20/). Et l'égalité commence par la liberté.
+Cette égalité est aussi une condition nécessaire à la coopération : nous pouvons travailler ensemble, nous sommes tous dignes de travailler ensemble. C'est que nous faisons sur internet : nous y sommes tous égaux puisque nous disposons tous du même droit de parole, de la même liberté d'action... égalité qui n'existe plus vraiment dans nos démocraties qui sont en train de se scléroser autour de nouveaux privilèges, notamment celui de [restreindre la liberté d'autrui](/2006/04/14/freemen-20/). Et l'égalité commence par la liberté.
 
 La ligne de fracture devient pour moi évidente : d'un côté des hommes libres, d'un autre des hommes qui vivent dans un monde centralisé qui restreint de plus en plus les libertés. La nouvelle société se construit grâce à des hommes libres sur la frontières de l'ancienne société où personne n'est vraiment libre.
 

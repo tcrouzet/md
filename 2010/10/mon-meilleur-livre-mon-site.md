@@ -1,6 +1,6 @@
 # Quel est mon meilleur livre&nbsp;? Mon site
 
-Beaucoup croient que le passage au numérique pour le texte n’implique qu’un changement de support. « Une révolution du média », disent-ils. Ils ignorent ce que nous expérimentons depuis une dizaine d’années sur nos blogs et autres formes textuelles sur le Web. [Pourquoi la production écrite explose-t-elle en ce moment ?](http://blog.tcrouzet.com/2009/10/28/de-la-civilisation-de-l%E2%80%99ecriture-a-celle-de-la-propulsion/) De nouvelles perspectives se sont ouvertes et nous les explorons, excités à l’idée d’entrer dans des territoires neufs.
+Beaucoup croient que le passage au numérique pour le texte n’implique qu’un changement de support. « Une révolution du média », disent-ils. Ils ignorent ce que nous expérimentons depuis une dizaine d’années sur nos blogs et autres formes textuelles sur le Web. [Pourquoi la production écrite explose-t-elle en ce moment ?](/2009/10/28/de-la-civilisation-de-l%E2%80%99ecriture-a-celle-de-la-propulsion/) De nouvelles perspectives se sont ouvertes et nous les explorons, excités à l’idée d’entrer dans des territoires neufs.
 
 Pendant ce temps, les classiques, que je ne qualifie pas de rétrogrades pour ne pas les ostraciser, voudraient que nous écrivions comme Proust, que nous produisions des œuvres qui ressemblent à celles du passé, tout au moins du xxe siècle. Mais qu’écrirait Proust aujourd’hui ? Croyez-vous qu’il renoncerait à la forme réticulaire ?
 
@@ -20,6 +20,6 @@ Le débat entre le vieux monde de l’édition et le nouveau prête à sourire. 
 
 J’espère avoir montré par cette évocation de ce qui est pour moi une œuvre littéraire contemporaine que l’écriture n’utilisait pas le numérique juste comme un support de diffusion, mais qu’elle en faisait sa matière même. Nous sommes bel et bien dans la même situation que le photographe qui passe de l’argentique au numérique, qui fait des effets et d’une infinité de nouvelles possibilités techniques, le sujet même de son art.
 
-L’analogie avec la photographie est profonde et non approximative [comme des commentateurs le pensent ](http://blog.tcrouzet.com/2010/10/07/edition-pour-les-nuls/#comment-82215) (et vous les voyez ainsi surgir dans l’œuvre même, comme François Bon a surgi par un lien). Si on se limite à voir le passage au numérique comme une simple transposition des livres d’un média à un autre, on passe à côté d’une évolution gigantesque de la lecture et de la matière même dont se nourrissent les lecteurs.
+L’analogie avec la photographie est profonde et non approximative [comme des commentateurs le pensent ](/2010/10/07/edition-pour-les-nuls/#comment-82215) (et vous les voyez ainsi surgir dans l’œuvre même, comme François Bon a surgi par un lien). Si on se limite à voir le passage au numérique comme une simple transposition des livres d’un média à un autre, on passe à côté d’une évolution gigantesque de la lecture et de la matière même dont se nourrissent les lecteurs.
 
 Tags: édition, littérature, NetCulture, une

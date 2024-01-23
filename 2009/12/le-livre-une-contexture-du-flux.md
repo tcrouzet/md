@@ -54,7 +54,7 @@ Les diffuseurs de PDF estiment le nombre de download, donnée techniquement sans
 
 Un livre vendu à 1 000 exemplaires en librairie serait-il distribué à 1 000 exemplaires s’il était gratuit ? Non. Le fait de devoir débourser indique un intérêt qui dépasse la simple curiosité étanchée par un clic. Pour cette seule raison, nous ne pouvons pas nous contenter de balancer nos textes dans le vide intersidéral.
 
-J’ai par ailleurs exprimé pourquoi j’attachais de l’importance à [l’interactivité comme force créative](http://blog.tcrouzet.com/2009/11/30/je-deteste-jeter/). En tant qu’auteur, j’avoue que j’ai du mal à m’en passer, que c’est une nouvelle dimension que nous explorons et qui forcément oriente nos productions dans des directions que nous sommes les premiers à pouvoir explorer.
+J’ai par ailleurs exprimé pourquoi j’attachais de l’importance à [l’interactivité comme force créative](/2009/11/30/je-deteste-jeter/). En tant qu’auteur, j’avoue que j’ai du mal à m’en passer, que c’est une nouvelle dimension que nous explorons et qui forcément oriente nos productions dans des directions que nous sommes les premiers à pouvoir explorer.
 
 Dès que de nouveaux pigments sont apparus, des nouvelles peintures ont été disponibles, les peintres les ont exploitées. Je ne vois pas pourquoi nous autres écrivains nous ne ferions pas pareil. L’outil a toujours influencé l’art. Il n’y a pas d’art sans outil (certains étant embedded bien sûr). L’interactivité est notre nouvel outil, pour le meilleur et pour le pire.
 

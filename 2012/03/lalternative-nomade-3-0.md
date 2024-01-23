@@ -1,8 +1,8 @@
 # L’alternative nomade 3.0
 
-Alors que j’étais déconnecté et écrivais [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), j’ai retravaillé [*L’alternative nomade*](http://blog.tcrouzet.com/jai-debranche/), mon texte qui nous engage le plus profondément à la connexion.
+Alors que j’étais déconnecté et écrivais [*J’ai débranché*](/jai-debranche/), j’ai retravaillé [*L’alternative nomade*](/jai-debranche/), mon texte qui nous engage le plus profondément à la connexion.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/01/couv1024-350x534.png)
+![](https://tcrouzet.com/images_tc/2010/01/couv1024-350x534.png)
 
 Ce n’est un paradoxe qu’en apparence. Dans ce texte, je présente internet comme un flux dans lequel on plonge, on nage, mais dans lequel on peut se noyer, ce qui implique de se reposer sur la berge. Je l’avais écrit avant de me déconnecter, sans avoir réellement intégré tout ce que j’avais écrit.
 
@@ -12,6 +12,6 @@ C’est un manifeste pour la complexité volontaire, pour que les choses changen
 
 Depuis [sa première version publiée en 2010 chez publie.net](http://www.publie.net/fr/ebook/9782814503137/l-alternative-nomade), *L’alternative nomade* a connu plusieurs mues, cette dernière mouture revient à la forme initiale, un entremêlement de textes, à la fois littéraires, philosophiques, techniques, politiques… peut-être pas toujours faciles à suivre, mais toutes mes tentatives de simplification m'ont écarté de mon propos.
 
-Vous pouvez [télécharger gratuitement la première partie](http://blog.tcrouzet.com/alternative-nomade/). Le texte intégral de cette version 3.0 n’est pas encore disponible sur publie.net.
+Vous pouvez [télécharger gratuitement la première partie](/alternative-nomade/). Le texte intégral de cette version 3.0 n’est pas encore disponible sur publie.net.
 
 Tags: NetCulture

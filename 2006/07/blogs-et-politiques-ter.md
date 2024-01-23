@@ -1,6 +1,6 @@
 # Blogs et politiques, ter
 
-Suite aux remarques et propositions de [José](http://blog.tcrouzet.com/2006/07/25/blogs-et-politiques-bis/#comment-565), voici une nouvelle version des définitions de politique (en partant de celle du grand Robert) et de site politique.
+Suite aux remarques et propositions de [José](/2006/07/25/blogs-et-politiques-bis/#comment-565), voici une nouvelle version des définitions de politique (en partant de celle du grand Robert) et de site politique.
 
 > **politique** \[pólitik\] *nom féminin* (1361 ; du grec politikos qui signifie « de la cité ») Art et pratique du gouvernement des sociétés humaines. Comme adjectif : relatif à la cité, à la chose publique, au gouvernement de l'État.
 

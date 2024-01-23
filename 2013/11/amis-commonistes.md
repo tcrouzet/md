@@ -14,7 +14,7 @@ Remarque : une ressource limitée peut devenir illimitée et inversement. Nous 
 
 Un commoniste réunit en une seule personne un écologiste (gestion des ressources limitées) et un libriste (gestion des ressources illimitées).
 
-![Commonisme](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/11/buckmorss_title1.png)
+![Commonisme](https://tcrouzet.com/images_tc/2013/11/buckmorss_title1.png)
 
 [Le commonisme est une éthique du partage.](http://globalization.gc.cuny.edu/2011/11/susan-buck-morss-a-commonist-ethics/1/) Ce qui est limité doit être économisé et partagé entre tous (commonisé), c’est un bien commun. Ce qui est illimité doit être multiplié et partagé entre tous, c’est un bien commun.
 

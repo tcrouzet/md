@@ -1,6 +1,6 @@
 # Le Modem again and again
 
-Hier à Paris, le matin, l’après-midi et le soir à la république des blogs, j’ai discuté avec des militants de tous les horizons et, bien sûr, avec les jeunes Modem, en tous cas ceux qui ne m’en veulent pas de [ma sortie de Seignosse](http://blog.tcrouzet.com/2007/09/17/militantisme-ecole-de-mediocrite/).
+Hier à Paris, le matin, l’après-midi et le soir à la république des blogs, j’ai discuté avec des militants de tous les horizons et, bien sûr, avec les jeunes Modem, en tous cas ceux qui ne m’en veulent pas de [ma sortie de Seignosse](/2007/09/17/militantisme-ecole-de-mediocrite/).
 
 Ils m’ont raconté leurs mésaventures et le simulacre de démocratie qui règne au cœur de leur parti. Fin novembre se tiendra un congrès qui posera les statuts du soi-disant mouvement démocrate. Il fondera ainsi sa constitution.
 
@@ -10,11 +10,11 @@ Que nenni, hier matin les cadres du Modem réunis en huis-clos, presque secrète
 
 Pour commencer, ils doivent écrire collaborativement des statuts et se débrouiller pour que les militants les votent lors du congrès. Gagner ce vote est facile car les 50 000 nouveaux membres du Modem ne sont pas sous l'emprise des vieux (c'est ainsi, grâce aux militants recrutés sur internet, que Ségolène Royal réussit à emporter les primaires du PS l'année dernière).
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2007/10/pacco1.jpg)
+![](https://tcrouzet.com/images_tc/2007/10/pacco1.jpg)
 
 Les vieux auront alors le choix de se retirer ou de jouer le jeu démocratique. Si les jeunes Modem n’ont pas ce courage de l’action, j’avoue que je n’ai plus envie de discuter avec eux, car si eux n’imposent pas la démocratie personne ne le fera à leur place. S’ils s’assoient aujourd’hui sur leurs idéaux, demain, quand ils seront au pouvoir, ils n’auront plus d’idéal.
 
-À quoi pourraient ressembler les statuts d’un parti moderne ? Je ne me suis jamais posé la question avant mais j’ai tout de suite pensé aux [douze points qui régissent les alcooliques anonymes](http://blog.tcrouzet.com/2007/09/14/trois-jours-au-vert/) ou aux dix points qui [présidèrent au développement du réseau Visa](http://blog.tcrouzet.com/2006/09/08/manager-par-la-connexion/). Je suis sûr d’une chose : il ne faut pas plus d’une dizaine de points, chacun tenant en une ligne.
+À quoi pourraient ressembler les statuts d’un parti moderne ? Je ne me suis jamais posé la question avant mais j’ai tout de suite pensé aux [douze points qui régissent les alcooliques anonymes](/2007/09/14/trois-jours-au-vert/) ou aux dix points qui [présidèrent au développement du réseau Visa](/2006/09/08/manager-par-la-connexion/). Je suis sûr d’une chose : il ne faut pas plus d’une dizaine de points, chacun tenant en une ligne.
 
 1. Les statuts doivent être révisables à tout moment dès qu’un quorum est réuni.
 
@@ -26,7 +26,7 @@ Les vieux auront alors le choix de se retirer ou de jouer le jeu démocratique. 
 
 5. Un parti démocratique doit se protéger des abus de pouvoir en introduisant en son sein la séparation des pouvoirs. Les cadres du parti ne doivent pas être candidats à des postes électifs et encore moins élus.
 
-6. Le [tirage au sort](http://blog.tcrouzet.com/2007/05/25/assemblee-aleatoire/) peut même être utilisé pour désigner les cadres et assurer leur constant renouvellement.
+6. Le [tirage au sort](/2007/05/25/assemblee-aleatoire/) peut même être utilisé pour désigner les cadres et assurer leur constant renouvellement.
 
 7. Les statuts doivent ainsi imposer à l’intérieur du parti ce que le parti voudrait appliquer au reste de la société. Avant de vouloir changer le monde, il faut commencer par se changer soi-même.
 

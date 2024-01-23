@@ -52,7 +52,7 @@ Les agrégateurs utilisent le même modèle financier que MegaUpload. Différenc
 
 ### Addendum Tout travail mérite salaire
 
-Je ne suis pas d’accord. Il m’est arrivé de travailler dur pour planter des melons qui n’ont pas poussé. J’ai écrit de mauvais livres que je n’ai même pas réussi à publier. J’ai chaque fois beaucoup travaillé, mais je ne me suis jamais plaint de ne pas avoir été rétribué (même si j’aurais apprécié de bénéficier d’un [dividende universel](http://blog.tcrouzet.com/tag/dividende-universel/) à ce moment).
+Je ne suis pas d’accord. Il m’est arrivé de travailler dur pour planter des melons qui n’ont pas poussé. J’ai écrit de mauvais livres que je n’ai même pas réussi à publier. J’ai chaque fois beaucoup travaillé, mais je ne me suis jamais plaint de ne pas avoir été rétribué (même si j’aurais apprécié de bénéficier d’un [dividende universel](/tag/dividende-universel/) à ce moment).
 
 En revanche, quand une entreprise exploite le travail d’individus sans contrepartie sérieuse, je ne peux pas l’accepter. Ces individus, par légèreté, par négligence, sont en train de nous ramener à l’esclavage. Ils sont les seuls responsables de ce glissement. Les entreprises qui les publient ne font qu’exploiter leur naïveté politique.
 

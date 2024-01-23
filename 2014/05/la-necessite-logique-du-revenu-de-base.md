@@ -1,6 +1,6 @@
 # La nécessité logique du revenu de base
 
-Pour justifier la nécessité du [revenu de base](http://blog.tcrouzet.com/tag/revenu-de-base/) certains invoquent des raisons éthiques, d’autres des principes philosophiques, d’autres des positions politiques, tous posent des postulats ou des croyances. Une méthode moins discutable est peut-être tout simplement d’invoquer une logique situationniste.
+Pour justifier la nécessité du [revenu de base](/tag/revenu-de-base/) certains invoquent des raisons éthiques, d’autres des principes philosophiques, d’autres des positions politiques, tous posent des postulats ou des croyances. Une méthode moins discutable est peut-être tout simplement d’invoquer une logique situationniste.
 
 Je voudrais discuter la proposition suivante :
 

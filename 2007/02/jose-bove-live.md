@@ -4,7 +4,7 @@ Casabaldi m’a conseillé de visionner cette vidéo pour réviser mon jugement 
 
 Bové parle de la nécessité pour tous les pays de garder la souveraineté alimentaire, gage d’indépendance. Mais pourquoi se limiter à l’agriculture ? Et la souveraineté intellectuelle, technologique, énergétique… La souveraineté n’est plus possible dans notre monde. Personne ne peut avoir les clés de toutes choses ou même d’une seule chose. Nous sommes entrés définitivement dans une époque d’interdépendance.
 
-Si on pousse le résonnement souverainiste au bout, on en revient à la vieille logique des États-nations, chacun faisant la loi chez lui et on oublie qu’il existe des problèmes globaux. L’indépendance est aujourd’hui dangereuse, la souveraineté est dangereuse comme je le dénonce à la fin du [cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/).
+Si on pousse le résonnement souverainiste au bout, on en revient à la vieille logique des États-nations, chacun faisant la loi chez lui et on oublie qu’il existe des problèmes globaux. L’indépendance est aujourd’hui dangereuse, la souveraineté est dangereuse comme je le dénonce à la fin du [cinquième pouvoir](/le-cinquieme-pouvoir/).
 
 Oui, il est important que chacun de nous puisse choisir ce qu’il mange sans subir les dictats de quelques géants de l'agroalimentaire. Oui, il est important que nous soyons libres de notre alimentation. Oui, il est important que les paysans puissent choisir leurs semences. Oui, il est important que les groupes alimentaires qui polluent soient surtaxés pour que leurs produits soient vendus à leur juste prix, ce qui n’est bien sûr pas le cas aujourd’hui, ce qui interdit une véritable alternative.
 

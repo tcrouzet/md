@@ -1,6 +1,6 @@
 # Alexandre, Napoléon, Fignon&#8230;
 
-Avant-hier soir, j'ai rencontré une seconde fois [Rachid Nekkaz](http://blog.tcrouzet.com/peuple/rachid-nekkaz-mec-bien-35771) et son porte-parole. Nous avons parlé de tout et de rien comme trois nouveaux amis qui ne se connaissent pas encore. Bien sûr, nous avons aussi refait le monde et parlé du [projet politique de Nekkaz](http://www.nekkaz.com/) pour les présidentielles 2007. Ce programme est en phase avec l'esprit des connecteurs. Il repose sur deux grandes lignes.
+Avant-hier soir, j'ai rencontré une seconde fois [Rachid Nekkaz](/peuple/rachid-nekkaz-mec-bien-35771) et son porte-parole. Nous avons parlé de tout et de rien comme trois nouveaux amis qui ne se connaissent pas encore. Bien sûr, nous avons aussi refait le monde et parlé du [projet politique de Nekkaz](http://www.nekkaz.com/) pour les présidentielles 2007. Ce programme est en phase avec l'esprit des connecteurs. Il repose sur deux grandes lignes.
 
 1. Solidarité, entraide, conscience globale (valeurs habituellement défendues par les socialistes et les écologistes).
 

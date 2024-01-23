@@ -1,6 +1,6 @@
 # Versac accuse Carignano de tricher
 
-Parfois, surtout comme après la lecture du [billet de Versac](http://vanb.typepad.com/versac/2007/03/technorati_faci.html), je me demande pourquoi j’ai créé le petit robot de [bonVote](http://www.bonvote.com) (37 000 visiteurs unique rien pour la journée de hier tout de même). L’été dernier, pour essayer d’y voir clair dans la net politique (je dis bien la net politique car la blog politique n’est que la partie visible de cet univers), je voulais me servir de cet outil lors de la rédaction du [cinquième pouvoir](http://blog.tcrouzet.com/le-cinquieme-pouvoir/).
+Parfois, surtout comme après la lecture du [billet de Versac](http://vanb.typepad.com/versac/2007/03/technorati_faci.html), je me demande pourquoi j’ai créé le petit robot de [bonVote](http://www.bonvote.com) (37 000 visiteurs unique rien pour la journée de hier tout de même). L’été dernier, pour essayer d’y voir clair dans la net politique (je dis bien la net politique car la blog politique n’est que la partie visible de cet univers), je voulais me servir de cet outil lors de la rédaction du [cinquième pouvoir](/le-cinquieme-pouvoir/).
 
 En fait, je m’en suis peu servi, justement parce que la net politique n'est pas aussi simple à résumer. Il ne suffit pas de connaître dix blogueurs à la mode pour faire le tour du phénomène. Il faut au contraire s’intéresser à chacun des nœuds du réseau, s’intéresser à la logique virale. Ce que j’ai essayé de faire, notamment dans mon chapitre sur la bataille de Borodino.
 
@@ -20,7 +20,7 @@ Mais Versac se plante un peu dans son analyse (malgré son superbe travail de fo
 
 Plusieurs personnes m’ont déjà signalé que Carignano trichait. Je suis un peu remonté dans l’historique technorati il y a déjà trois ou quatre mois, je n’ai pas trouvé de blogs bidons, sinon comme Versac quelques link farms. Mais pour gagner des centaines de positions, Carigano aurait dû s’enregistrer dans des centaines de sites de ce genre. Je ne les ai pas vus (si quelqu'un veut s'amuser à un inventaire, moi pas).
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/200703versac1.gif) 
+![](https://tcrouzet.com/images_tc/200703versac1.gif) 
 
 La véritable anomalie chez Carignano comme chez Page2007, c’est que Google voit vers chez eux moins de liens que technorati. Logiquement Google est beaucoup plus exhaustif (il voit les liens dans les blogs comme ailleurs). Pour Page2007, j’explique l’anomalie simplement : il utilise les tags microformat de technorati.
 

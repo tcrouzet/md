@@ -4,7 +4,7 @@
 
 — Si on juge ces relations selon les critères encore en vigueur au xxe siècle, c’est une mauvaise nouvelle. Moins de contact physique. Diminution de l’empathie. Éparpillement. Conditionnement à la présence en ligne. Difficulté pour les jeunes de s’émanciper du groupe (observations effectuées par de nombreux psychologues, par exemple Sherry Turkle).
 
-La question est de savoir si ces critères sont encore valables. Dans [*J’ai débranché*](http://blog.tcrouzet.com/jai-debranche/), je montre que non. Je crois que nous sommes en train de quitter l’individualisme pour nous diriger vers un nouvel état de l’humanité. Ce qui était bon pour nos vies analogiques ne l’est plus nécessairement pour nos vies numériques, et inversement.
+La question est de savoir si ces critères sont encore valables. Dans [*J’ai débranché*](/jai-debranche/), je montre que non. Je crois que nous sommes en train de quitter l’individualisme pour nous diriger vers un nouvel état de l’humanité. Ce qui était bon pour nos vies analogiques ne l’est plus nécessairement pour nos vies numériques, et inversement.
 
 Ça ne veut pas dire que le passage d’un état à l’autre soit facile, ni même possible pour quelqu’un issu de l’ancienne humanité.
 

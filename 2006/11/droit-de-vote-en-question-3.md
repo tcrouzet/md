@@ -1,6 +1,6 @@
 # Droit de vote en question 3
 
-Quand je mets le [droit de vote en question](http://blog.tcrouzet.com/2006/10/20/droit-de-vote-en-question-2/) certains commentateurs disent que je suis immoral sous prétexte que des gens sont morts pour gagner ce droit. Des gens sont aussi morts pour abattre les tours du World Trade Center. Faut-il juger d’une chose à l’aune du prix du sang ?
+Quand je mets le [droit de vote en question](/2006/10/20/droit-de-vote-en-question-2/) certains commentateurs disent que je suis immoral sous prétexte que des gens sont morts pour gagner ce droit. Des gens sont aussi morts pour abattre les tours du World Trade Center. Faut-il juger d’une chose à l’aune du prix du sang ?
 
 Non. Il y a des choses qui marchent un temps puis qui ne marchent plus. C’est le cas du vote. Il est temps de rénover cette vieille invention poussiéreuse. Cette rénovation ne passera pas à coup de gadgets, genre machine à voter, carte d’électeur électronique ou vote à distance. Tous ces machins sont imaginés par des gens qui manquent d’imagination.
 
@@ -24,7 +24,7 @@ Mais les avantages du vote, il doit en posséder d’autres, ne peuvent pas nous
 
 5. Déresponsabilisant. On vote rarement et, entre temps, on délègue sa responsabilité aux élus.
 
-6. Élitiste. Dans la logique de l’âge industriel, il suppose que les élus sont capables de manager les électeurs. Il se fonde sur le vieux modèle monarchiste selon lequel il faut un roi avisé pour commander au peuple. [C’est une idée reçue que je ne cesse de combattre.](http://blog.tcrouzet.com/2006/11/02/ont-ils-le-pouvoir/)
+6. Élitiste. Dans la logique de l’âge industriel, il suppose que les élus sont capables de manager les électeurs. Il se fonde sur le vieux modèle monarchiste selon lequel il faut un roi avisé pour commander au peuple. [C’est une idée reçue que je ne cesse de combattre.](/2006/11/02/ont-ils-le-pouvoir/)
 
 7. Achetable. On ne peut voter que pour ceux qui se présentent et se présenter n’est pas ouvert à tous (signatures, barrages des partis…). Le vote a transformé la noblesse de cour en une noblesse de parti.
 
@@ -48,8 +48,8 @@ Mais quel rapport entre les compétences électorales et les compétences de ter
 
 Demain, j'enchaîne avec une proposition...
 
-[Droit de vote en question 1.](http://blog.tcrouzet.com/2006/09/01/droit-vote-question/)
+[Droit de vote en question 1.](/2006/09/01/droit-vote-question/)
 
-[Droit de vote en question 2.](http://blog.tcrouzet.com/2006/10/20/droit-de-vote-en-question-2/)
+[Droit de vote en question 2.](/2006/10/20/droit-de-vote-en-question-2/)
 
 Tags: Politique

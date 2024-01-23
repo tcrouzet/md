@@ -1,6 +1,6 @@
 # Réaction à chaud
 
-Suite à la note au sujet du [*Peuple des connecteur*](http://blog.tcrouzet.com/le-peuple-des-connecteurs/) publiée sur [La Fraise](http://www.lafraise.com), c'est une avalanche de commentaires. Je n'arriverai jamais à répondre à tout le monde, donc je fais du pêle-mêle.
+Suite à la note au sujet du [*Peuple des connecteur*](/le-peuple-des-connecteurs/) publiée sur [La Fraise](http://www.lafraise.com), c'est une avalanche de commentaires. Je n'arriverai jamais à répondre à tout le monde, donc je fais du pêle-mêle.
 
 Je suis heureux que Patrice ait écrit : « C'est un régal de penser que d'autres partagent la même vision du futur. » Je n'ai pas écrit mon livre pour autre chose. Je veux montrer que nous allons de l'avant et sommes en train de changer le monde comme aucune autre génération avant la nôtre. Le pessimisme, si répandu en France, me désole. L'avenir n'a jamais été aussi ouvert que maintenant.
 

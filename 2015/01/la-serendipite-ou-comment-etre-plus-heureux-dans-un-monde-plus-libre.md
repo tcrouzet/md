@@ -140,7 +140,7 @@ Créer du lien et parcourir les liens des autres doit être notre credo. C’est
 
 *PS : Texte écrit pour [TEDx Lyon](http://www.tedxlyon.com/). Je sais, j'ai beaucoup critiqué TED, comme toutes les plateformes 2.0 qui ne rémunèrent pas les producteurs de contenus. Cela favorise ceux qui vivent d'autres choses. Et, bientôt, il faudra vivre d'autre chose quoi qu'on fasse. En attendant, il est difficile de vivre hors du monde des plateformes, alors je les utilise, parfois pour les dénoncer.*
 
-![Photo déclenchée par erreur lors de la visite du musée Convergence à Lyon.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/convergence.jpg)
+![Photo déclenchée par erreur lors de la visite du musée Convergence à Lyon.](https://tcrouzet.com/images_tc/2015/01/convergence.jpg)
 
 Photo déclenchée par erreur lors de la visite du musée Confluence à Lyon.
 

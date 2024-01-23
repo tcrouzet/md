@@ -10,11 +10,11 @@ J’ai souvent galéré pour retrouver un passage lu dans un ebook. Si je me sou
 
 J’en suis pas sûr. Parce que lire en numérique est-ce lire selon la vielle métaphore du livre, c’est-à-dire tourner des pages ? Cette mode commence avec les *volumens*, ces rouleaux à dérouler à l’horizontale. Technologie optimisée par les Romains sous le vocable de codex, codex eux-mêmes plus tard transformés en livres.
 
-![Muse lisant un volumen.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/volumen-600x596.jpg)
+![Muse lisant un volumen.](https://tcrouzet.com/images_tc/2015/01/volumen-600x596.jpg)
 
 Tournons-nous les pages sur le Web ? Non. Nous déroulons de haut en bas, selon une autre métaphore, celle du *rotulus*, découverte durant l’antiquité en même temps que celle du *volumen*, mais guère utilisée au cours de l’histoire, sinon pour les décrets officiels ou les textes sacrés.
 
-![Un rotulus d'avant le Web.](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/rotulus.jpg)
+![Un rotulus d'avant le Web.](https://tcrouzet.com/images_tc/2015/01/rotulus.jpg)
 
 Un rotulus d'avant le Web.
 
@@ -30,7 +30,7 @@ Il me semble urgent que nos systèmes de lecture offrent les deux métaphores de
 
 *PS : Durant les fêtes, j’ai initié mes enfants et leurs cousins à* Donjons &amp; Dragons. *Plutôt que repartir sur mon viel AD&amp;D des années 1980, j’ai décidé de plonger dans la nouvelle édition. J’ai téléchargé la boîte de base. J’ai vite compris qu’avec mon iPad, ça ne le ferait pas. J’ai dû courir acheter les livres, sinon c’est injouable. Preuve s’il en fallait que la métaphore du livre n’est pas tout à fait morte pour certains usages (je dis bien certains usages).*
 
-![Mon D&D V5 déjà corné. ](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2015/01/dd.jpg)
+![Mon D&D V5 déjà corné. ](https://tcrouzet.com/images_tc/2015/01/dd.jpg)
 
 Mon D&amp;D V5 déjà corné.
 

@@ -1,12 +1,12 @@
 # 50 Micronouvelles 50 Auteurs
 
-Hemingway n’a peut-être [jamais écrit](http://blog.tcrouzet.com/la-quatrieme-theorie/la-quatrieme-theorie-liens/) « *For Sale, Baby Shoes, Never Worn* ». Cette petite annonce a pourtant popularisé la microfiction, un genre littéraire qui fait fureur aujourd’hui, sur Twitter et ailleurs.
+Hemingway n’a peut-être [jamais écrit](/la-quatrieme-theorie/la-quatrieme-theorie-liens/) « *For Sale, Baby Shoes, Never Worn* ». Cette petite annonce a pourtant popularisé la microfiction, un genre littéraire qui fait fureur aujourd’hui, sur Twitter et ailleurs.
 
-À l’occasion de la sortie de [*La Quatrième Théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/), mon thriller intégralement écrit sur Twitter, nous avons proposé à des auteurs amis, et même culte comme Norman Spinrad, de nous raconter une histoire en 140 caractères maximum.
+À l’occasion de la sortie de [*La Quatrième Théorie*](/la-quatrieme-theorie/), mon thriller intégralement écrit sur Twitter, nous avons proposé à des auteurs amis, et même culte comme Norman Spinrad, de nous raconter une histoire en 140 caractères maximum.
 
 Résultat ébouriffant qui à la lecture fait un drôle d'effet au cerveau. Twitter me fatigue définitivement, mais la forme brève garde des vertus incontestables.
 
-![50 Micronouvelles 50 Auteurs](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/04/cover-500x666.jpg)
+![50 Micronouvelles 50 Auteurs](https://tcrouzet.com/images_tc/2013/04/cover-500x666.jpg)
 
 ### Téléchargez gratuitement le livre
 

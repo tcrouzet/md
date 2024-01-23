@@ -8,7 +8,7 @@ Comme les textes ont été d’abord copiés à la main, puis imprimés, le prix
 
 Un thriller de 600 pages peut être écrit en trois mois. Un chef-d'œuvre peut être peaufiné durant des années et n’occuper au final que quelques dizaines de pages.
 
-Le volume d’un texte n’a aucun lien avec la masse de travail qu’il a nécessité. Je peux me prendre en exemple : [*La quatrième théorie*](http://blog.tcrouzet.com/la-quatrieme-theorie/) m’a pris beaucoup moins de temps que [*J’ai eu l’idée*](http://blog.tcrouzet.com/id/). Je ne considère pas que le second texte ait moins de valeur, bien au contraire.
+Le volume d’un texte n’a aucun lien avec la masse de travail qu’il a nécessité. Je peux me prendre en exemple : [*La quatrième théorie*](/la-quatrieme-theorie/) m’a pris beaucoup moins de temps que [*J’ai eu l’idée*](/id/). Je ne considère pas que le second texte ait moins de valeur, bien au contraire.
 
 Nous avons tendance à payer pour la sueur présumée. Mais un auteur n’est pas un maçon qui transporte des parpaings à longueur de journée. Sa sueur ne se mesure pas à l’ampleur des auréoles sous ses bras. Le temps investi n’est tout simplement pas un critère à prendre en compte, pas plus que le volume du texte (et c'est d'ailleurs aussi le cas pour les maçons).
 
@@ -22,7 +22,7 @@ Nous nous trouvons dans cette situation paradoxale à cause des coûts d’impre
 
 C’est à l’éditeur de fixer un prix à ses publications, exactement comme le marchand d’art. Il doit tenir compte du marché mais aussi de l’importance qu’il accorde au texte produit. Surtout ne tombons pas dans le piège de faire payer les ebooks au nombre de caractères. Les anciennes classification : nouvelle, novella, roman... n'ont plus aucun sens. Ératosthène inventa le concept : un texte égale un rouleau. Pensons maintenant : un texte égale un prix. Ne cherchons plus à composer des recueils pour monter artificiellement ce prix, ne cherchons plus à tirer à la ligne pour atteindre le seuil de la rentabilité.
 
-Voilà encore une raison qui me pousse à défendre le [revenu unique par exemplaire](http://blog.tcrouzet.com/2010/10/14/veritables-prix-edition/) quel que soit son format, qu’il soit électronique ou papier. Il s’agit de renverser l’ancienne logique tarifaire. Par le passé, on fixait le prix du produit final, on dégageait alors des marges variables suivant les canaux (en fait, il n’y avait guère qu’un canal, subdivisé en trois niveaux de librairie).
+Voilà encore une raison qui me pousse à défendre le [revenu unique par exemplaire](/2010/10/14/veritables-prix-edition/) quel que soit son format, qu’il soit électronique ou papier. Il s’agit de renverser l’ancienne logique tarifaire. Par le passé, on fixait le prix du produit final, on dégageait alors des marges variables suivant les canaux (en fait, il n’y avait guère qu’un canal, subdivisé en trois niveaux de librairie).
 
 Aujourd’hui, avec la démultiplication des canaux, cette stratégie serait suicidaire pour les auteurs et les éditeurs. Ce serait pour eux se mettre à la merci de la distribution. Il faut au contraire pousser les distributeurs à se concurrencer. « Nous fixons notre prix, vous prenez votre marge. Plus votre marge sera grande, plus vous vendrez cher et plus les lecteurs acheteront chez nous en direct. »
 

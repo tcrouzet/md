@@ -6,7 +6,7 @@ Cette vie me rend malheureux parce que je suis un homme issu d’un temps ancien
 
 Cette méditation surgit au croisement hasardeux au milieu de la nuit de deux lignes de pensée. D’un côté, je réfléchis à créer un feuilleton romanesque dont je publierais les épisodes sur mon blog. D’un autre, je lis [*Aux îles Kerguelen*](http://www.epagine.fr/9782897174712-aux-iles-kerguelen-laurent-margantin/) de Laurent Margantin. J’avais découvert des [bouts de ce récit de voyage sur le Web](http://auxileskerguelen.blogspot.fr/), des fragments lors de leur publication quotidienne, sorte de photos tirées au sort dans un album.
 
-![Margantin](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2013/04/arton19471.png)
+![Margantin](https://tcrouzet.com/images_tc/2013/04/arton19471.png)
 
 Je constate que je suis devenu presque incapable de m’attacher avec rigueur à la continuité des autres alors qu'ils la vivent. Bien que moi-même sans interruption, il me devient impossible d’être les autres, d’être avec eux comme si j’étais dans un livre, leur livre. Alors publier un feuilleton, une fiction sérialisée, perd toute signification. Aucun lecteur ne s’imposera un rendez-vous avec moi. Ils continueront de débarquer par hasard sur mes pages, consultant presque par erreur leur fil RSS, cliquant sur une recommandation sociale, ou s’échouant après une recherche infructueuse.
 

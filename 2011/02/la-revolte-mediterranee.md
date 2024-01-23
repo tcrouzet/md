@@ -4,7 +4,7 @@ Depuis que les Tunisiens ont soulevé par leurs protestations un vent de libert�
 
 Quand j’ai lancé sur Twitter et Facebook cette phrase : « La révolte ne doit pas s’arrêter de l’autre côté de la Méditerranée. », on s’est fichu de moi, me traitant de comique et m’accusant de comparer l’incomparable. On m’a dit que j’étais masochiste, que je me faisais volontairement mal. On m’a dit que je m’étais taillé le doigt et que je me comparais à un leucémique. Alors si je suis un comique, un masochiste ou un hypocondriaque, il y en a qui portent des œillères.
 
-![](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2011/02/revolte.jpg)
+![](https://tcrouzet.com/images_tc/2011/02/revolte.jpg)
 
 Imaginons un monde abominable, absolument totalitaire, régi par un dictateur omnipotent. Les esclaves ne connaissent depuis toujours que l’esclavage. Comment pourraient-ils rêver d’autre chose ? Comment pourraient-ils concevoir une autre vie ? Comment pourraient-ils imaginer de se révolter ? C’est pour eux inconcevable !
 
@@ -12,7 +12,7 @@ Un parallèle. Comment pourrions-nous concevoir ne pas mourir ? Nous révolter 
 
 On a bien imaginé la vie après la mort. Mais personne n’imagine s’affranchir de la mort elle-même. Quand je dis « personne », je mens. En observant que des arbres qui vivaient des centaines d’années, quelques illuminés songèrent les égaler. Ils recherchèrent la fontaine de jouvence.
 
-Aujourd’hui, parce que nous découvrons des organismes qui vivent des milliers d’années, certains scientifiques rêvent de prolonger nos existences au-delà peut-être du raisonnable. Ce rêve [avec lequel joue Nicolas Ancion](http://blog.tcrouzet.com/2011/02/07/nicolas-ancion-auteur-a-succes/) ne s’est formé que parce quelques graines de folie s’immiscèrent dans quelques esprits avant d’y germer.
+Aujourd’hui, parce que nous découvrons des organismes qui vivent des milliers d’années, certains scientifiques rêvent de prolonger nos existences au-delà peut-être du raisonnable. Ce rêve [avec lequel joue Nicolas Ancion](/2011/02/07/nicolas-ancion-auteur-a-succes/) ne s’est formé que parce quelques graines de folie s’immiscèrent dans quelques esprits avant d’y germer.
 
 Revenons à notre dictature absolue. Par un concours de circonstances, imaginons un esclave qui bénéficie d’un soupçon de liberté de plus que les autres. Il devient la petite graine qui en inspirera d’autres. Des îlots de liberté se formeront peu à peu. Peut-être qu’un jour la dictature s’effondrera. Cette révolution ne sera possible qu’à cause de la graine initiale, celle qui a fait entrevoir la possibilité d’une autre vie.
 

@@ -2,7 +2,7 @@
 
 La célèbre phrase de Gandhi « Soyez le changement que vous voulez voir dans le monde. » peut paraître abstraite, voire idéaliste ou même utopiste. En 1953, avec *L’homme qui plantait des arbres*, Jean Giono lui associa un manuel pratique.
 
-![L'homme qui plante des arbres](http://blog.tcrouzet.comhttps://tcrouzet.com/images_tc/2010/07/couv1600-400x611.png)
+![L'homme qui plante des arbres](https://tcrouzet.com/images_tc/2010/07/couv1600-400x611.png)
 
 Nous devrions tous lire et relire ces quelques pages pour nous prouver que des petits gestes, répétés jour après jour avec patience, peuvent changer un coin du monde, que nos gestes à tous, une fois cumulés, peuvent changer le monde. Nous n’avons rien à demander à personne. Aucune autorisation ne nous est nécessaire. Nous n’avons nul besoin d’attendre les prochaines élections ou de faire tomber le gouvernement. Nous sommes armés de nos volontés. Il nous suffit d’en prendre conscience comme Elzéard Bouffier le héros de Giono.
 
