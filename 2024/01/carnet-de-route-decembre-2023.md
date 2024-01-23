@@ -72,10 +72,6 @@ J’aime refaire plus ou moins les mêmes photos, notamment des couchers de sole
 
 ![Soir](https://tcrouzet.com/images_tc/2024/01/IMG_4082.jpeg)
 
-### Vendredi 15, Balaruc
-
-De la fragilité de la vie. Chez Isa, une exploration de la vésicule biliaire, à la recherche de causes de certaines intolérances alimentaires, mais l’échographie n’y trouve rien à redire, en revanche un rein en déconfiture, et aujourd’hui une petite opération pour essayer de le vider. Le tout sans aucun symptôme. Alors, penser à avant, avant notre médecine, à ce qui se serait inévitablement passé à brève échéance. Ce soir, tout va bien.
-
 ### Dimanche 17, Balaruc
 
 [Il serait impossible de savoir par avance ce qu’impliquent les grandes décisions de la vie](https://www.themarginalian.org/2017/09/13/transformative-experience-vampire-problem) puisque nous n’en avons aucune expérience de première main. Nous ne pourrions apprendre qu’en chemin, affirme Laurie Ann Paul. « It isn’t that you can’t imagine something in place of the experience you haven’t had. It’s that this act of imagining isn’t enough to let you know what it is really like to be an octopus, or to be a slave, or to be blind. You need to have the experience itself to know what it is really like. This brings out another, somewhat less familiar fact about the relationship between knowledge and experience: just as knowledge about the experience of one individual can be inaccessible to another individual, what you can know about yourself at one time can be inaccessible to you at another time. » Hypothèse troublante qui signifie qu’à chaque génération nous repartons à zéro. C’est oublier la possibilité de transmettre, c’est surtout oublier la littérature qui a les moyens de nous transfuser les expériences d’autrui et de nous les faire éprouver comme si nous les vivions.

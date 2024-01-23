@@ -1,4 +1,4 @@
-# Écrire un roman avec ChatGPT : Chapitre 1
+# RomanIA : le plan
 
 L'idée : écrire un roman complet avec l'aide de ChatGPT, en le poussant à générer la plus grande partie du texte sans que j'ai à le réécrire. Une façon de partager différentes techniques que j'ai expérimentées durant l'année écoulée, notamment en travaillant au *Code Houellebecq*.
 
@@ -498,4 +498,4 @@ Ces choix dépendront de la manière dont vous souhaitez que les lecteurs s'enga
 
 *Notes : Mon texte est le récit de son écriture en collaboration avec ChatGPT. J’aime le titre, parce que je suis dans la peau de celui qui commande à ChatGPT. Mon dilemme faire confiance à la machine ou me faire confiance.*
 
-Tags: IA, NetLittérature, une
+Tags: IA, NetLittérature, RomanIA, une

@@ -1,4 +1,4 @@
-# Écrire un roman avec ChatGPT : Chapitre 2
+# RomanIA : plan détaillé d&#8217;un chapitre
 
 [Après avoir imaginé un synopsis, un contexte, quelques personnages](https://tcrouzet.com/2023/12/19/ecrire-un-roman-avec-chatgpt-chapitre-1/), il est temps d’attaquer la rédaction. Mon but n’est pas ici de créer un roman stylistiquement ou formellement déroutant. Je veux rester dans le cadre best-seller, c’est-à-dire d’un texte qui ne remet en cause aucun des principes du pacte romanesque.
 
@@ -282,7 +282,7 @@ Je tombe sur une série de capsules translucides. À l’intérieur, des créatu
 
 Mais pour l’Empire, ce n’est qu’une ressource à exploiter. Je le sais. Je le sens. Pourtant, une part de moi résiste, fascinée par ce que je vois, par ce que cela signifie. Le temps presse. Je dois rapporter mes découvertes. Je m’attarde encore un instant, captivé par l’étrangeté et la complexité de ce que j’ai sous les yeux.
 
-Parmi les merveilles extraterrestres, une anomalie attire mon attention. Un objet déplacé, inattendu. Il gît là, sur une table organique, entourée d’artefacts aux formes fluides et lumineuses. C’est un pendentif, simple, en or peut-être. La chaîne rejoint un médaillon, une circulaire, une antique pièce d'un dollar, avec gravé d’un côté un buffalo, de l’autre le visage d’un indien. Comment est-elle arrivée ici ? En plus d’être hors de prix, elle n’aurait jamais dû se trouver sur un monde jusque là tenu à l’écart de l’Empire.
+Parmi les merveilles extraterrestres, une anomalie attire mon attention. Un objet déplacé, inattendu. Il gît là, sur une table organique, entourée d’artefacts aux formes fluides et lumineuses. C’est un pendentif, simple, en or peut-être. La chaîne rejoint un médaillon circulaire, une antique pièce d'un dollar, avec gravé d’un côté un buffalo, de l’autre le visage d’un indien. Comment est-elle arrivée ici ? En plus d’être hors de prix, elle n’aurait jamais dû se trouver sur un monde jusque là tenu à l’écart de l’Empire.
 
 Je glisse le pendentif dans ma poche, un geste furtif. Cet objet ne figurera pas dans mon rapport. C’est un mystère pour moi seul. Un artefact de plus pour ma collection clandestine. Chaque objet ramassé sur le terrain est un souvenir, un rappel de ce que nous avons détruit. Une contradiction, peut-être, pour un homme de ma stature. Mais je suis plus qu’un soldat. Je suis un gardien de mémoires perdues. Le pendentif est différent. Humain. Un lien avec la Terre, une énigme personnelle. Je me promets de découvrir son origine, son histoire.
 
@@ -310,4 +310,4 @@ Lars, Jensen et Mira sont les derniers à franchir le portail. Je couvre leurs a
 
 Je recule vers le portail, le dernier à partir. Juste avant de franchir le seuil, je me retourne. La nuée noire engloutit l’espace où nous nous tenions il y a quelques secondes. Une dernière vision de destruction avant de plonger dans le vortex du portail. J'ai la certitude que nous étions attendus.
 
-Tags: IA, NetLittérature, une
+Tags: IA, NetLittérature, RomanIA, une
