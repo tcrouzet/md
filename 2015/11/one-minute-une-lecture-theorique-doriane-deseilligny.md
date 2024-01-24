@@ -6,28 +6,28 @@
 
 Oriane présente *One Minute* et décrit sa propre approche théorique.
 
-Votre navigateur ne supporte pas la balise AUDIO.
+
 [Téléchargez le fichier](https://tcrouzet.com/images_tc/2015/11/1minute-intro.mp3)
 
 ### Partie I : Les dispositifs de lecture
 
 Comment *One Minute* se transforme en passant du blog à Wattpad et à l’epub.
 
-Votre navigateur ne supporte pas la balise AUDIO.
+
 [Téléchargez le fichier](https://tcrouzet.com/images_tc/2015/11/1minute-p1.mp3)
 
 ### Partie II : La structure narrative
 
 Oriane décrit les mécanismes qui permettent au roman de raconter une histoire alors que le temps n’y existe pas (je suis confus, parce que c'est plus lumineux que dans ma tête).
 
-Votre navigateur ne supporte pas la balise AUDIO.
+
 [Téléchargez le fichier](https://tcrouzet.com/images_tc/2015/11/1minute-p2.mp3)
 
 ### Remerciements
 
 J'ai du mal à trouver des mots après cette plongée dans mon roman. Je laisse [Jean-Yves Fréchette](https://twitter.com/JYFrechette) conclure.
 
-Votre navigateur ne supporte pas la balise AUDIO.
+
 [Téléchargez le fichier](https://tcrouzet.com/images_tc/2015/11/1minute-rep.mp3)
 
 ![C'était à Montpellier, le 26 novembre.](http://tcrouzet.comhttps://tcrouzet.com/images_tc/2015/11/rira.png)
