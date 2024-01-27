@@ -92,4 +92,4 @@ She led him into the house and sat him down on the couch. She called 911 and the
 
 (((Pas de réponse)))
 
-Tags: NetLittérature, une
+Tags: IA, IAcontent, NetLittérature, une

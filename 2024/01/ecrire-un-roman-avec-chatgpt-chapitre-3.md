@@ -458,4 +458,4 @@ La responsabilité pèse lourdement sur mes épaules. Révéler cette informatio
 
 Dans les profondeurs de sa structure complexe du signal, je trouve ce qui semble être une structure mélodique. Je perçois de vastes accords qui se superposent en une symphonie vertigineuse, sans jamais se répéter, mais issue d’un même souffle, d’une même vie. Je ne suis pas en train d’étudier un signal mais une créature extraterrestre.
 
-Tags: IA, NetLittérature, RomanIA, une
+Tags: IA, IAcontent, NetLittérature, RomanIA, une

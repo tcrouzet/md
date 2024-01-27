@@ -1,6 +1,6 @@
 # Vendre un manuscrit : match ChatGPT vs Claude
 
-Dans ma quête d'un éditeur pour *Le Code Houellebecq*, j'ai contacté par mail cinq éditeurs, seulement un m'a répondu et m'a demandé de lui envoyer le manuscrit. Isa, jadis grande marketeuse internationale chez Microsoft, me dit que [mon positionnement ne doit pas être le bon](https://tcrouzet.com/2024/01/16/le-code-houellebecq-cherche-un-editeur/). C'est fort possible puisque je n'ai jamais été un bon commercial. Alors pourquoi ne pas demander aux IA de faire le boulot à ma place.
+Dans ma quête d'un éditeur pour *Le Code Houellebecq*, peu d'éditeurs répondent à mon mail de présentation et me demandent d'envoyer le manuscrit. Isa, jadis grande marketeuse internationale chez Microsoft, me dit que [mon positionnement ne doit pas être le bon](https://tcrouzet.com/2024/01/16/le-code-houellebecq-cherche-un-editeur/). C'est fort possible puisque je n'ai jamais été un bon commercial. Alors pourquoi ne pas demander aux IA de faire le boulot à ma place.
 
 ### Test avec Claude
 
@@ -147,4 +147,4 @@ Je m'excuse pour la confusion précédente et pour ne pas avoir consulté ma bas
 
 (Même si je paye, j’ai fini par utiliser mon quota de requête pour les trois prochaines heures. En résumé, ChatGPT est nullissime pour analyser des textes longs, donc pour construire des argumentaires sérieux sur des textes.)
 
-Tags: IA, NetLittérature, une
+Tags: IA, IAcontent, NetLittérature, une

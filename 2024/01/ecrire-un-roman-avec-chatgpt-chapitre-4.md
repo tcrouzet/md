@@ -172,4 +172,4 @@ Ces scénarios visent à explorer des idées plus abstraites et philosophiques, 
 
 N'hésitez pas à revenir vers moi pour des questions précises, des clarifications, ou même pour discuter de certains détails de votre histoire à mesure que vous la développez. Bon courage dans votre processus créatif !
 
-Tags: IA, NetLittérature, RomanIA, une
+Tags: IA, IAcontent, NetLittérature, RomanIA, une

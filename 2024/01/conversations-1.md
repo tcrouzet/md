@@ -172,4 +172,4 @@ Ces titres encapsulent différentes facettes de ma pensée et de mes intérêts�
 
 - **Erika** : Voilà, bon élève, fait son devoir sans faute…
 
-Tags: IA, NetLittérature, une
+Tags: IA, IAcontent, NetLittérature, une

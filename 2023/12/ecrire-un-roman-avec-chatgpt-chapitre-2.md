@@ -290,4 +290,4 @@ Lars, Jensen et Mira sont les derniers à franchir le portail. Je couvre leurs a
 
 Je recule vers le portail, le dernier à partir. Juste avant de franchir le seuil, je me retourne. La nuée noire engloutit l’espace où nous nous tenions il y a quelques secondes. Une dernière vision de destruction avant de plonger dans le vortex du portail. J'ai la certitude que nous étions attendus.
 
-Tags: IA, NetLittérature, RomanIA, une
+Tags: IA, IAcontent, NetLittérature, RomanIA, une

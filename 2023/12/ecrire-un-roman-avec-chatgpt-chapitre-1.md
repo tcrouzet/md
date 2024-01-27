@@ -429,4 +429,4 @@ Ces choix dépendront de la manière dont vous souhaitez que les lecteurs s'enga
 
 *Notes : Mon texte est le récit de son écriture en collaboration avec ChatGPT. J’aime le titre, parce que je suis dans la peau de celui qui commande à ChatGPT. Mon dilemme faire confiance à la machine ou me faire confiance.*
 
-Tags: IA, NetLittérature, RomanIA, une
+Tags: IA, IAcontent, NetLittérature, RomanIA, une
