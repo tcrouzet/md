@@ -2,7 +2,7 @@
 
 
 
-### Lundi 1<sup>er</sup> Balaruc
+### Lundi 1<sup>er</sup>, Balaruc
 
 J’imagine l’effet dévastateur des IA sur les jeunes informaticiens, l’amplification mentale doit être gigantesque chez eux, ce qui ne peut qu’entraîner une explosion de créativité. En même temps, la bêtise n’a jamais été aussi répandue sur les réseaux sociaux, mais surtout chez les autocrates qui refusent la complexification du monde et tentent de le contrôler avec la seule arme qui leur reste : la terreur. La guerre israélienne à Gaza n’est qu’un énième exemple. L’incapacité de gérer le terrorisme, un épiphénomène épouvantable, conduit à la destruction d’une région et la persécution de 3 millions de Palestiniens. Comme toujours le sublime et le dramatique se côtoient…
 
