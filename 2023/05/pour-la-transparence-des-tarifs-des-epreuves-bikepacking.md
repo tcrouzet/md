@@ -1,6 +1,6 @@
 # Pour la transparence tarifaire des épreuves bikepacking
 
-Au retour des États-Unis en 2019, je me suis étonné du prix prohibitif de certaines épreuves bikepacking françaises et je me suis attiré l’opprobre de certains organisateurs français (et certains de leurs bouledogues). Maintenant qu’à mon tour j’organise les [727](https://tcrouzet.com/727tour/), [i727](https://tcrouzet.com/i727) et [g727](https://tcrouzet.com/g727/), c’est l’occasion d’un peu de transparence.
+Au retour des États-Unis en 2019, je me suis étonné du prix prohibitif de certaines épreuves bikepacking françaises et je me suis attiré l’opprobre de certains organisateurs français (et certains de leurs bouledogues). Maintenant qu’à mon tour j’organise les [727](https://727.tcrouzet.com/727/), [i727](https://727.tcrouzet.com/i727/) et [g727](https://727.tcrouzet.com/g727/), c’est l’occasion d’un peu de transparence.
 
 Depuis que nous sommes plus de quelques copains à rouler ces traces, je suis toujours passé par une association pour assurer la randonnée, ce qui a impliqué une participation d’une quinzaine d’euros pour chacun de nous.
 
@@ -46,4 +46,4 @@ Pour résumer : le prix d’une épreuve ne dit rien de sa qualité (mais il di
 
 *PS : [Le code du sport impose une assurance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071318/LEGISCTA000006151574/#LEGISCTA000006151574) : « Les associations, les sociétés et les fédérations sportives souscrivent pour l'exercice de leur activité des garanties d'assurance couvrant leur responsabilité civile, celle de leurs préposés salariés ou bénévoles et celle des pratiquants du sport. Les licenciés et les pratiquants sont considérés comme des tiers entre eux. » Mais des copains qui organisent une sortie entre eux forment-ils une association ? Ce n'est pas clair pour moi qui suis tout sauf juriste. On parle d'association de malfaiteurs alors qu'aucun contrat légal de les lient. Alors des cyclistes qui roulent ensemble formeraient dès lors une association. Mais est-ce une association pour le code du sport ? Encore une fois, je ne le pense pas, à la lecture du dit code. Cela implique que nous pouvons organiser des sorties entre connaissances, même lointaines, sans souscrire d'assurance du moment qu'il n'existe aucun contrat pour nous relier (et donc aucun paiement). J'aimerais qu'un juriste nous éclaire à ce sujet.*
 
-Tags: Born to Bike, une
+Tags: une, Vélo

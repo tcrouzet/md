@@ -38,7 +38,7 @@ Donc j’aime Trackleaders, même si je le trouve rébarbativement désuet, mais
 
 14. Les participants pourront même diffuser des photos et des textes, puisque Telegram sait le faire. Autant de fonctionnalités interdites avec Trackleaders.
 
-15. Enfin, [une carte publique peut dore et déjà être consultée](http://geogram.tcrouzet.som/). Elle sera surtout intéressante à partir du 1<sup>er</sup> avril quand nous roulerons sur les chemins de l’Hérault.
+15. Enfin, [une carte publique peut dore et déjà être consultée](http://geogram.tcrouzet.com/). Elle sera surtout intéressante à partir du 1<sup>er</sup> avril quand nous roulerons sur les chemins de l’Hérault.
 
 16. La géolocalisation n’est pas obligatoire. Chacun fera selon ses désirs et sa philosophie, à la fréquence qui lui conviendra. Telegram permet l’anonymat et le recours à des pseudos. Il va sans dire que le but de ce Geogram, comme je l’ai appelé, n’est pas de fliquer les participants, puisqu’ils décident librement de se géolocaliser quand ils en éprouvent le besoin.
 
@@ -84,4 +84,4 @@ Le 1<sup>er</sup> avril, avec le départ du 727, vous aurez droit à un test gra
 
 5. Aucune contrainte (pas d'obligation, pas de lieux particuliers type CP, pas de fréquence imposée…)
 
-Tags: Born to Bike, une
+Tags: une, Vélo

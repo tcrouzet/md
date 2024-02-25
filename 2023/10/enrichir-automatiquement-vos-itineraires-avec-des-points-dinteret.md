@@ -1,6 +1,6 @@
 # Enrichir automatiquement vos itinéraires avec des points d’intérêt
 
-Lors des grosses journées à VTT ou gravel dans la cambrousse, notamment en bikepacking, je me sens toujours mieux quand j’ai une vague idée de quand je pourrai me ravitailler. J’évite ainsi de me surcharger, de trop acheter ou d’en venir à manquer. Quand je reconnais [les 727](https://tcrouzet.com/traces-gravel-et-vtt/), j’ai pris l’habitude de photographier les points d’eau, les boulangeries, les restaurants, les éventuels spots de bivouac, puis de reporter ces POI (points d’intérêt) sur GoogleMap et VisuGPX.
+Lors des grosses journées à VTT ou gravel dans la cambrousse, notamment en bikepacking, je me sens toujours mieux quand j’ai une vague idée de quand je pourrai me ravitailler. J’évite ainsi de me surcharger, de trop acheter ou d’en venir à manquer. Quand je reconnais [les 727](https://727.tcrouzet.com), j’ai pris l’habitude de photographier les points d’eau, les boulangeries, les restaurants, les éventuels spots de bivouac, puis de reporter ces POI (points d’intérêt) sur GoogleMap et VisuGPX.
 
 C’est devenu un réflexe. Sans perdre beaucoup de temps, j’offre un service aux participants des 727 que peu d’organisateurs proposent (et dans les recoins de l’Hérault, mieux vaut savoir anticiper les ravitaillements). Si certains organisateurs ne maîtrisent pas les arcanes des GPX et autres KML, d’autres s’abstiennent de lister des POI au nom de l’aventure. Ne rien savoir d’une trace ne ferait qu’en augmenter la difficulté. Comme je ne m’intéresse pas au vélo masochiste, je préfère fuir ces évènements qui ont pour ambition première de nous faire souffrir.
 
@@ -18,4 +18,4 @@ Je n’avais ni le temps ni le courage de recommencer pour le TMV. Avec l’aide
 
 Des outils comme [GPSVisualizer](https://www.gpsvisualizer.com/convert_input) permettent de convertir les KML en GPX. [On peut également les importer directement dans Garmin Basecamp pour les transférer aux GPS.](https://tcrouzet.com/2023/03/24/comment-je-prepare-mon-gps-pour-un-bikepacking/) Pour ma part, j’aime envoyer les GoogleMap enrichies à l’application [MapOut](https://mapout.app/) sur iPhone, à laquelle je me reporte très souvent quand je roule. J’espère que ce petit bout de code vous aidera dans vos périples hors des sentiers battus.
 
-Tags: Born to Bike, GPS, une
+Tags: GPS, une, Vélo

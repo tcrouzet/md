@@ -7,11 +7,21 @@ Une révélation de Sara Cash, l'Intubeuse aux milliards de vues
 
 ##### 
 
-##### **papier 18.00 €** : [ PVH](https://pvh-editions.com/shop/romans-contes/250-one-minute-tome-1-la-communion-des-analystes-9782940609192.html).
+##### **papier 14.99 €** : [ Amazon](https://www.amazon.fr/One-Minute-communion-Thierry-Crouzet/dp/2940609195/).
 
  Sara Cash annonce la réception d’un message extraterrestre. L’humanité n’est plus seule dans l’univers. Est-ce un canular ? Sara Cash ne se trompe jamais. Les gouvernements décrètent l’état d’urgence. Leur attention se focalise sur Michele Lamb, la radioastronome qui a capté le signal. Ils n’ont pas le temps d’en apprendre beaucoup. Une minute après le début du show de Sara Cash, une panne générale plonge le monde dans le blackout.
 
 ![Les 4 tomes](https://tcrouzet.com/images_tc/2021/09/oneminuteserie.jpg)
+
+1\. [*La communion des analystes*](https://pvh-editions.com/shop/romans-contes/250-one-minute-tome-1-la-communion-des-analystes-9782940609192.html) ([Amazon](https://www.amazon.fr/One-Minute-communion-Thierry-Crouzet/dp/2940609195/))
+
+2. [*Le manifeste hypo*](https://pvh-editions.com/shop/romans-contes/258-one-minute-tome-1-la-communion-des-analystes-9782940609192.html) ([Amazon](https://www.amazon.fr/ONE-MINUTE-manifeste-hypo-Ludomire-ebook/dp/B0B4D1DPPM/))
+
+3. [*La controverse Oméga*](https://pvh-editions.com/shop/romans-contes/279-l-autre-soi-9782940609253.html) ([Amazon](https://www.amazon.fr/One-Minute-controverse-Thierry-Crouzet/dp/2940609217/))
+
+4. [*Le musée des réplicants*](https://pvh-editions.com/shop/romans-contes/281-ne-minute-tome-4-le-musee-des-replicants-9782940609253.html) ([Amazon](https://www.amazon.fr/One-Minute-r%C3%A9plicants-Thierry-Crouzet/dp/2940609225/))
+
+5. [*One Minute : L'intégrale*](https://www.amazon.fr/NE-MINUTE-Lint%C3%A9grale-Thierry-Crouzet/dp/2940609233/)
 
 Les 380 épisodes de ce feuilleton, chacun à lire en à peine plus d’une minute, racontent tour à tour cette même minute à travers de nouveaux personnages. L’histoire n’avance pas dans le temps, mais dans l’espace. De lieu en lieu, de fuseau horaire en fuseau horaire, peu à peu l’intrigue se développe et des héros émergent grâce aux regards croisés de leurs amis ou de leurs ennemis.
 

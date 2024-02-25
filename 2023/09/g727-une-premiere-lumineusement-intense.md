@@ -1,6 +1,6 @@
 # g727 : une première lumineusement intense
 
-Si [le 727](https://tcrouzet.com/727tour) est une trace VTT, [le g727](https://tcrouzet.com/g727/) est une trace gravel (et le sera de mieux en mieux, j’espère). Nous avons attaqué cette nouvelle version à 90 % différente le 23 septembre. Elle tourne en sens antihoraire et fait découvrir de nouveaux paysages, tant montagneux que maritimes.
+Si [le 727](https://727.tcrouzet.com/727/) est une trace VTT, [le g727](https://727.tcrouzet.com/g727/) est une trace gravel (et le sera de mieux en mieux, j’espère). Nous avons attaqué cette nouvelle version à 90 % différente le 23 septembre. Elle tourne en sens antihoraire et fait découvrir de nouveaux paysages, tant montagneux que maritimes.
 
 Dans le Midi, imaginer une épreuve gravel purement roulante sur plus de 700 km, qui traverse les plus beaux secteurs et évite autant que possible l’asphalte est de l’ordre du fantasme. J’ai donc tenté de ménager la chèvre et le chou. Il m’a fallu suivre la trace en intégralité pour comprendre qu’elle était parfois trop cassante. C’est une chose de passer à un endroit lors d’une reconnaissance, s’en est une autre d’y arriver avec 400 ou 600 km au compteur.
 
@@ -180,4 +180,4 @@ Tout le monde semble heureux (et les déçus ne sont pas là, mais j’écoutera
 
 À titre de comparaison, [lors du i727 2022 (avec une journée sous la neige)](https://tcrouzet.com/2022/04/07/bikepacking-tempetueux-dans-lherault/), la moyenne effective était de 12,9 km/h pour une distance de seulement 480 km et un dénivelé identique. Voilà qui démontre que le g727 est beaucoup plus roulant qu’un i727 (et donc davantage gravel).
 
-Tags: 727, Bikepacking, Born to Bike, Gravel, une
+Tags: 727, Bikepacking, Gravel, une, Vélo

@@ -1,6 +1,6 @@
 # Promouvoir le vélo avec les IA
 
-Depuis un an, j’utilise de plus en plus les IA pour sortir de ma zone de confort et créer des contenus qui jusque là impensables pour moi. J’ai commencé par coder [Geogram](https://geogram.tcrouzet.com/) durant l’hiver 2023, puis par écrire un roman et j’en arrive à tenter de créer des images pour promouvoir l'[i727 du 8 mai 2024](https://tcrouzet.com/727gd/) ([avant le g727 du 28 septembre 2024](https://tcrouzet.com/g727gd/)).
+Depuis un an, j’utilise de plus en plus les IA pour sortir de ma zone de confort et créer des contenus qui jusque là impensables pour moi. J’ai commencé par coder [Geogram](https://geogram.tcrouzet.com/) durant l’hiver 2023, puis par écrire un roman et j’en arrive à tenter de créer des images pour promouvoir l'[i727 du 8 mai 2024](https://727.tcrouzet.com/727-Grand-Depart/) ([avant le g727 du 28 septembre 2024](https://727.tcrouzet.com/g727-Grand-Depart/)).
 
 Même si je commence à maîtriser l’art d’interroger les IA, même si j’ai expérimenté de nombreuses techniques de prompt, j’ai l’impression de tout devoir réapprendre depuis que j’utilise ChatGPT Vision (c’est-à-dire la version de DALL-E 3 intégrée à ChatGPT plus, [version payante](https://chat.openai.com/), ou à Bing, [version gratuite](https://www.bing.com/images/create)).
 
@@ -180,4 +180,4 @@ Toujours les mêmes problèmes avec les textes et les sacs à dos.
 
 Un truc amusant : il n'y a jamais de pédales sur les vélos.
 
-Tags: 727, Bikepacking, Born to Bike, une
+Tags: 727, Bikepacking, une, Vélo

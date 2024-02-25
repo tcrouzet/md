@@ -1,6 +1,6 @@
 # Bikepacking : éloge des Grands Départs
 
-Le nom résume l’idée : il s’agit de partir en groupe sur une trace, donc à une date fixe, par opposition à partir seul ou avec quelques copains en mode ITT (Individual Time Trial). Si l’ITT n’implique aucune contrainte puisqu’on choisit son moment et ses compagnons, j’aime particulièrement les Grands Départs, voilà pourquoi j’en organise deux chaque année sur [les 727](https://tcrouzet.com/les-727-aventures-bikepacking-en-herault/).
+Le nom résume l’idée : il s’agit de partir en groupe sur une trace, donc à une date fixe, par opposition à partir seul ou avec quelques copains en mode ITT (Individual Time Trial). Si l’ITT n’implique aucune contrainte puisqu’on choisit son moment et ses compagnons, j’aime particulièrement les Grands Départs, voilà pourquoi j’en organise deux chaque année sur [les 727](https://727.tcrouzet.com/).
 
 Dans mon esprit, les Grands Départs participent aux charmes du bikepacking. Ils ne se résument pas à partir en groupe un bon matin, mais d’abord à se retrouver la veille au soir pour une veillée d’armes avant de s’élancer le lendemain. Ils impliquent une forme de ritualisation que j’apprécie de plus en plus. On commence à pédaler avant même de pédaler. On s'échauffe à l'idée de l'évènement tout proche. On retisse des liens distendus ou en noue de nouveaux. Une alchimie positive se met souvent en place.
 
@@ -34,7 +34,7 @@ Après une veillée d’armes, même quand on se retrouve seul sur la trace, on 
 
 ### Un Grand Départ, c’est payant
 
-Si les traces ITT sont généralement gratuites, du moins [les 727 le sont](/les-727-aventures-bikepacking-en-herault/), les Grands Départs impliquent une inscription dûment formalisée et trébuchante. L'organisateur se retrouve mécaniquement responsable de l’évènement, même lors d’aventures informelles.
+Si les traces ITT sont généralement gratuites, du moins [les 727 le sont](https://727.tcrouzet.com/), les Grands Départs impliquent une inscription dûment formalisée et trébuchante. L'organisateur se retrouve mécaniquement responsable de l’évènement, même lors d’aventures informelles.
 
 En cas d’accident, l’assurance de l’accidenté peut se retourner contre l’organisateur qui, s’il n’est pas assuré, peut être poursuivi lourdement. En conséquence, qui dit Grand Départ, dit participation. Mais rien n’oblige à facturer des sommes mirobolantes. Ceux qui prétendent le contraire n’ont qu’à s’adosser à un club associé à une fédération et implantée dans une commune qui apportera son soutien.
 
@@ -48,8 +48,8 @@ Je connais cette musique. Plus un évènement fait parler de lui, tout simplemen
 
 Je refuse d’entrer dans cette logique (déjà parce que les chemins ne m’appartiennent pas et que je n’ai aucun droit d’y facturer un droit de passage). Je préfère garder un tarif plancher qui, je crois, participe aux charmes des 727. Les Grands Départs n’en sont que plus confraternels.
 
-Essayez donc de rouler avec nous en mai sur [le i727](/727gd/) ou en septembre sur le [g727](/g727gd/).
+Essayez donc de rouler avec nous en mai sur [le i727](https://727.tcrouzet.com/727-Grand-Depart/) ou en septembre sur le [g727](https://727.tcrouzet.com/g727-Grand-Depart/).
 
 *PS : Mon marketing se résume à quelques articles où je glisse les noms des 727 et tente de défendre ma philosophie du bikepacking.*
 
-Tags: Bikepacking, Born to Bike, une
+Tags: Bikepacking, une, Vélo

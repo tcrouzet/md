@@ -6,10 +6,10 @@ En cinq semaines durant l’automne 2021, j’ai écrit un roman initiatique, so
 
 Pas plus que Stevenson parle sans cesse de son âne dans son *Voyage avec un âne dans les Cévennes*, je parle sans cesse du vélo. Il est un moyen de transport comme la voiture l’est dans un road book, à cela près que ce récit ne se joue pas sur les routes mais le plus souvent sur les chemins loin d’elles ([il me faudrait théoriser le single book](https://tcrouzet.com/2022/12/03/apres-le-road-book-et-le-cyber-book-le-single-book/)).
 
-Comme la plupart des road books, c’est un récit initiatique. Martin quitte sa vie insatisfaisante pour vivre des aventures qui le transformeront. Je ne fait que raconter ce que j’ai vécu depuis que je voyage à vélo. Si les récits initiatiques engagent le plus souvent de jeunes gens, j’ai voulu montrer qu’il n’y avait pas d’âge pour grandir.
+Comme la plupart des road books, c’est un récit initiatique. Martin quitte sa vie insatisfaisante pour vivre des aventures qui le transformeront. Je ne fais que raconter ce que j’ai vécu depuis que je voyage à vélo. Si les récits initiatiques engagent le plus souvent de jeunes gens, j’ai voulu montrer qu’il n’y avait pas d’âge pour grandir.
 
 Le titre vient d’Isa. Elle prétend souvent que je souffre d’un tropisme qui me pousse vers le vélo, et avec le vélo dans la nature loin des infrastructures bétonnées. Comme les plantes qui se dirigent vers la lumière sous l’action d’un phototropisme, j’obéis à un cyclotropisme, ce qui ferait de moi un cyclotrope, de même que Martin, mon héros.
 
-J’ai fait relire ce texte à quelques amis, pour la plupart non cyclistes, ils m’ont encouragé à ne pas le garder pour moi. Ils m’ont aussi aidé à le corriger. Mais en aucune manière il ne s’agit d’un texte professionnellement édité. Des coquilles subsistent inévitablement. N’hésitez pas à me les signaler, je les corrigerai aussitôt.
+J’ai fait relire ce texte à quelques amis, pour la plupart non cyclistes, ils m’ont encouragé à ne pas le garder pour moi. Ils m’ont aussi aidé à le corriger. Mais en aucune manière il ne s’agit d’un texte professionnellement édité. Des coquilles subsistent inévitablement. N’hésitez pas à me les signaler, je les corrigerai.
 
 Tags: Mailing

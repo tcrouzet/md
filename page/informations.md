@@ -116,6 +116,8 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 2023 - Juin, début du *Code Houellebecq* (écrit avec l'aide des IA, mais pas par une IA).
 2023 - Octobre, premier jet du *Code Houellebecq* (La Manufacture refuse le manuscrit).
 2023 - Novembre, [expérimentations avec les GPTs](https://gpt.tcrouzet.com/).
+[**2024 - Articles**](/2024/)
+2023 - Février, publication du [*Code Houellebecq*](/le-code-houellebecq/).
 
 ### Interviews
 
@@ -155,8 +157,6 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 
 [Occitanie livre et lecture](http://www.occitanielivre.fr/annuaire/crouzet-thierry)
 
-[Règles de savoir-vivre sur ce blog](/mon-salon/)
-
 [Citations sur Babelio](http://www.babelio.com/auteur/Thierry-Crouzet/2777/citations)
 
 [Sites amis](/blogroll/)
@@ -164,3 +164,7 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 [Archivage sur GitHub](https://static.tcrouzet.com/) ([pour télécharger](https://github.com/tcrouzet/blog))
 
 [Archivage markdown sur GitHub](https://md.tcrouzet.com/) ([pour télécharger](https://github.com/tcrouzet/md))
+
+[ GPTs](https://gpt.tcrouzet.com/)
+
+[ 727 bikepacking](https://727.tcrouzet.com/)

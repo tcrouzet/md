@@ -8,7 +8,7 @@ Je profite d’une crève tenace, qui m’empêche d’écrire autant que de pé
 
 J'en arrive presque au bout de ma crève et je tiens un code Python que [je partage dans Google Colab](https://colab.research.google.com/drive/1OnIlVr7_iI2cLBQp10XpMCKpOhJtJOcc?usp=sharing). Pour l'exécuter, on lance *Exécution/Tout exécuter*, puis descend tout en bas jusqu’au bouton *Upload*. Si vous chargez une trace GPX, elle sera analysée, puis les stats s’afficheront.
 
-Attention de ne pas charger une trace brute issue d’une très longue sortie. Vos GPS enregistrent des points tous les quelques mètres, ce qui génère des fichiers très lourds. Vous pouvez [réduire le nombre de points avec VisuGPX](https://www.visugpx.com/), par exemple. La trace provisoire [i727 2024](https://tcrouzet.com/i727) contient presque 14 000 points pour 545 km. Le code a eu besoin de près de 12 minutes pour générer les statistiques (le processus irait beaucoup plus vite sur un serveur dédié).
+Attention de ne pas charger une trace brute issue d’une très longue sortie. Vos GPS enregistrent des points tous les quelques mètres, ce qui génère des fichiers très lourds. Vous pouvez [réduire le nombre de points avec VisuGPX](https://www.visugpx.com/), par exemple. La trace provisoire [i727 2024](https://727.tcrouzet.com/i727/) contient presque 14 000 points pour 545 km. Le code a eu besoin de près de 12 minutes pour générer les statistiques (le processus irait beaucoup plus vite sur un serveur dédié).
 
 ![i727](https://tcrouzet.com/images_tc/2023/10/Untitled-stat06.png)
 
@@ -36,4 +36,4 @@ Enfin, tout en bas du notebook Codelab, j'ai indiqué comment j'avais rassemblé
 
 ![Méthode](https://tcrouzet.com/images_tc/2023/10/stat09.png)
 
-Tags: Born to Bike, GPS, une
+Tags: GPS, une, Vélo
