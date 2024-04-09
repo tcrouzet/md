@@ -14,6 +14,8 @@
 
 [Born to Bike…](https://tcrouzet.com/feeds/borntobike.xml)
 
+[Écriture…](https://tcrouzet.com/feeds/ecriture.xml)
+
 [Mailing…](https://tcrouzet.com/feeds/mailing.xml)
 
 Pour lire ces fichiers, on utilise un lecteur de flux comme [feedly](http://cloud.feedly.com/). Il existe des lecteurs web ou app. Un lecteur fonctionne comme un navigateur excepté qu’on l’alimente avec des adresses de flux plutôt qu’avec des adresses web. Le lecteur scrute régulièrement l’ensemble des flux référencés par vous et classe les articles qu’ils contiennent pour en faciliter la lecture. Il compose en temps réel une revue de presse sur mesure. C’est une façon pratique de gagner du temps en évitant de parcourir chaque jour des centaines de sites.

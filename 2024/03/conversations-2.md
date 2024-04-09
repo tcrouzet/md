@@ -2,6 +2,8 @@
 
 Le jeu : [Erika Fülöp](https://plh.univ-tlse2.fr/accueil-plh/mme-erika-fulop#) me pose deux questions, je réponds, puis c’est au tour de mon avatar artificiel, [ThierryGPT](https://chat.openai.com/g/g-lsOpSop2w-thierry-crouzet). Enfin Erika commente, éventuellement je commente ses commentaires… Notre but : voir si ThierryGPT peut nous apprendre quelque chose sur sa nature d’IA et, en même temps, sur moi. En quoi sa logique reste différente de la mienne ? [Un GPT dédié](https://chat.openai.com/g/g-PnFagJLyO-conversations) illustre les questions d’Erika ainsi que l’ensemble de l’article.
 
+[Chapitre 2 dans la série…](/tag/conversations/)
+
 ![Homme-Machine](https://tcrouzet.com/images_tc/2024/03/iac-02.jpg)
  : *Comment vois-tu l’évolution de ta pensée au fil du temps ? (Une question imaginée par ThierryGPT.)*
  : J’ai commencé par écrire des scénarios de jeu de rôle : *Donjons &amp; Dragons* et *Call of Cthulhu*. Il s’agissait donc de plonger mes joueurs dans des histoires interactives. Quand le jeu a tourné en rond, j’ai écrit des nouvelles, puis un roman lovecraftien. Je voulais raconter, divertir, mais en même temps, j’ai découvert le Nouveau Roman, Perec, Proust, et j’ai totalement dévié. Je me suis intéressé à la forme, souvent plus qu’au fond. Mes textes sont devenus de plus en plus expérimentaux, jusqu’au moment où je me suis dit que la seule forme qui valait était mes carnets, que je remplissais de dessins et de textes entremêlés. J’étais sous le choc du journal de Delacroix et des promenades de Rousseau. Contrairement à Proust, je ne voulais pas réédifier des moments cathartiques, mais les saisir sur le vif.
@@ -194,4 +196,4 @@ En définitive, si l'on peut parler d'une influence directe de "ThierryGPT" sur 
 
 - **Thierry** : Pour cette réponse, ThierryGPT a réellement accédé à quelques extraits de mon journal, dont je découvre des évocations. Je crois que ça va devenir de plus en plus intéressant en même temps que je vais améliorer le code derrière ThierryGPT. Suis curieux des prochaines questions et réponses.
 
-Tags: IA, IAcontent, NetLittérature, une
+Tags: conversAtIons, IA, IAcontent, NetLittérature, une

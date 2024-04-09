@@ -2,6 +2,8 @@
 
 Le jeu : [Erika Fülöp](https://plh.univ-tlse2.fr/accueil-plh/mme-erika-fulop#) me pose deux questions, je réponds, puis c’est au tour de mon avatar artificiel, [ThierryGPT](https://chat.openai.com/g/g-lsOpSop2w-thierry-crouzet). Enfin Erika commente, éventuellement je commente ses commentaires… Notre but : voir si ThierryGPT peut nous apprendre quelque chose sur sa nature d’IA et, en même temps, sur moi. En quoi sa logique reste différente de la mienne ? [Un GPT dédié](https://chat.openai.com/g/g-PnFagJLyO-conversations) illustre les questions d’Erika ainsi que l’ensemble de l’article.
 
+[Chapitre 1 dans la série…](/tag/conversations/)
+
 ![Lecture](https://tcrouzet.com/images_tc/2024/01/ch1-01.png)
  : *Que signifie écrire pour toi ? Prends le terme d’écrire dans un sens aussi large ou aussi précis que tu veux, ou prends-le dans des sens différents si c’est pertinent, explique ce qui importe pour toi et pourquoi.*
  : J’écris pour te répondre, j’écris quand je travaille un texte, qu’il soit long ou court, romanesque ou réflexif, et j’écris aussi quand je code, je trouve ces deux activités reliées, et j’écris aussi quand je crée des itinéraires sur les cartes pour mes sorties à vélo. Je pratique trois écritures, chacune avec des variantes.
@@ -172,4 +174,4 @@ Ces titres encapsulent différentes facettes de ma pensée et de mes intérêts�
 
 - **Erika** : Voilà, bon élève, fait son devoir sans faute…
 
-Tags: IA, IAcontent, NetLittérature, une
+Tags: conversAtIons, IA, IAcontent, NetLittérature, une

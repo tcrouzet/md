@@ -117,7 +117,8 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 2023 - Octobre, premier jet du *Code Houellebecq* (La Manufacture refuse le manuscrit).
 2023 - Novembre, [expérimentations avec les GPTs](https://gpt.tcrouzet.com/).
 [**2024 - Articles**](/2024/)
-2023 - Février, publication du [*Code Houellebecq*](/le-code-houellebecq/).
+2024 - Février, publication du [*Code Houellebecq*](/le-code-houellebecq/).
+2024 - Mars, création de [Daylog](http://daylog.tcrouzet.com/), expérience de littérature générative.
 
 ### Interviews
 

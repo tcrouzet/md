@@ -18,7 +18,7 @@ J’ai écrit *Le Peuple des Connecteurs* il y a dix-neuf ans exactement (je l�
 
 COMPRENDRE, COMPRENDRE, COMPRENDRE…
 
-Et impossible de COMPRENDRE en restant à distance, impossible de juger, d’apprécier ou de détester. On se retrouve sinon dans la peau de celui qui a peur de l’étranger et de l’étrangeté, de celui qui se replie sur ce qu’il connaît de crainte d’être déstabilisé, voire remis en question. Moi, je t’attends que ça, la remise en question, le bouleversement des repères et des perspectives.
+Et impossible de COMPRENDRE en restant à distance, impossible de juger, d’apprécier ou de détester. On se retrouve sinon dans la peau de celui qui a peur de l’étranger et de l’étrangeté, de celui qui se replie sur ce qu’il connaît de crainte d’être déstabilisé, voire remis en question. Moi, je n’attends que ça, la remise en question, le bouleversement des repères et des perspectives.
 
 Et là, en ce moment même, je doute de tout ce que je prenais pour acquis. La littérature, la musique, le cinéma, la photographie… Je ne sais plus où est ma place. Est-ce que je dois écrire un livre de plus ? Prendre une photo de plus ? Je ne sais pas, ou plutôt je ne sais plus comment faire, puisque maintenant les machines sont aussi capables de faire ? Je dois donc faire autrement. Si c’est sans elles, pour aller où elles ne peuvent aller, si c’est avec elles, pour moi-même aller où j’aurais été incapable d’aller.
 
