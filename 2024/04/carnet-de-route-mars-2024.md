@@ -8,7 +8,7 @@ Je commence le mois dans l’euphorie de lancer [Daylog](https://daylog.tcrouzet
 
 ### Dimanche 3, Balaruc
 
-Sur Daylog, plus je raffine le code, plus j’obtiens des résultats impressionnants. Dans la newsletter qui sera publiée demain, le modèle me cite et établit des liens entre les articles et mon journal d’une manière bluffante. Les connexions elles témoignent d’une forme indéniable de créativité.
+Sur Daylog, plus je raffine le code, plus j’obtiens des résultats impressionnants. Dans la newsletter qui sera publiée demain, le modèle me cite et établit des liens entre les articles et mon journal d’une manière bluffante. Les connexions témoignent d’une forme indéniable de créativité.
 
 ### Lundi 4, Balaruc
 

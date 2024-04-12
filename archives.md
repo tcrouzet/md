@@ -216,5 +216,7 @@
 	<li><a href='/2006/01/'>janvier 2006</a>&nbsp;(1)</li>
 	<li><a href='/2005/11/'>novembre 2005</a>&nbsp;(3)</li>
 	<li><a href='/2005/10/'>octobre 2005</a>&nbsp;(1)</li>
+	<li><a href='/2000/01/'>janvier 2000</a>&nbsp;(1)</li>
+	<li><a href='/1999/12/'>décembre 1999</a>&nbsp;(1)</li>
 	<li><a href='/1996/05/'>mai 1996</a>&nbsp;(5)</li>
 </ul><p><a href="/chronologie/">Chronologie de tous les articles…</a></p>
