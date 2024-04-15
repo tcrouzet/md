@@ -230,6 +230,4 @@ En ce moment, l’an 2000 passe de pays en pays et rien d’extraordinaire ne se
 
 *Mardi 10 août 2004.* En retranscrivant ce texte du 31 décembre, je suis frustré de ne retrouver que des idées. Je ne parle pas de moi, de ce que je faisais et voyais. Je me souviens pourtant que nous avons déjeuné d’une merveilleuse bisque de homard préparée par Jean-Baptiste. Je crois qu’il pleuvait. Nous avons marché jusqu’à la plage, puis avons roulé jusqu’au port de Brignogan. Le soir, nous avons fêté le réveillon à Carantec.
 
-*Mercredi 10 avril 2024.* « Et vous, le 31 décembre 1999, à quoi pensiez-vous ? » [demande François](https://www.youtube.com/watch?v=hr9pkzKUkMU&ab_channel=fran%C3%A7oisbon%7Clescarnets). Me voilà à replonger dans mes archives, à relire des morceaux de mon journal. Drôle de sensation de revenir à celui que j'étais. Je me trouve plus intense qu'aujourd'hui, surtout plus énigmatique. Envie de renouveler l'expérience, mais peur qu'elle stimule ma nostalgie latente.
-
-Tags: Carnets, une
+Tags: Carnets, Retroblogging, une

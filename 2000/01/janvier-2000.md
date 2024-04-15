@@ -238,4 +238,4 @@ J’envoie à Actes Sud mon premier exemplaire de *Turista*. Je ne suis pas conv
 
 Je serai interviewé durant le journal de 13 h pour mes livres sur Internet. Je n’éprouve aucune appréhension, parler en public m’amuse, je fais toujours le clown. Je donnerai le change, ferai croire que je suis passionné.
 
-Tags: Carnets, une
+Tags: Carnets, Retroblogging, une
