@@ -1,6 +1,6 @@
 # Archives
 
-<ul>	<li><a href='/2024/04/'>avril 2024</a>&nbsp;(1)</li>
+<ul>	<li><a href='/2024/04/'>avril 2024</a>&nbsp;(2)</li>
 	<li><a href='/2024/03/'>mars 2024</a>&nbsp;(11)</li>
 	<li><a href='/2024/02/'>février 2024</a>&nbsp;(8)</li>
 	<li><a href='/2024/01/'>janvier 2024</a>&nbsp;(12)</li>
@@ -216,6 +216,9 @@
 	<li><a href='/2006/01/'>janvier 2006</a>&nbsp;(1)</li>
 	<li><a href='/2005/11/'>novembre 2005</a>&nbsp;(3)</li>
 	<li><a href='/2005/10/'>octobre 2005</a>&nbsp;(1)</li>
+	<li><a href='/2000/04/'>avril 2000</a>&nbsp;(1)</li>
+	<li><a href='/2000/03/'>mars 2000</a>&nbsp;(1)</li>
+	<li><a href='/2000/02/'>février 2000</a>&nbsp;(1)</li>
 	<li><a href='/2000/01/'>janvier 2000</a>&nbsp;(1)</li>
 	<li><a href='/1999/12/'>décembre 1999</a>&nbsp;(1)</li>
 	<li><a href='/1996/05/'>mai 1996</a>&nbsp;(5)</li>
