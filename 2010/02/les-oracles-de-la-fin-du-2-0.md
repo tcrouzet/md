@@ -1,5 +1,0 @@
-# Les oracles de la fin du 2.0
-
-Petite crise d’orgueil et d’énervement face à ceux qui se réveillent aujourd'hui critiques du Web et se croient les premiers à penser ainsi. Je vous renvoie à un article que j’ai écrit en 2007, intitulé [Danger : hypercentralisation](/2007/07/09/hypercentralisation/). Non tous les gens qui comme moi s’enthousiasment pour le Web ne sont pas de débiles mentaux sous le charme des sirènes du marketing. Depuis longtemps, le 2.0 est une hypocrisie pour tous les gens lucides. Je vous renvoie également à un entretien du début 2006 où [je balaie la version officielle du 2.0](/2006/02/28/nextmodernity/). Vous comprenez pourquoi je déteste les entrepreneurs, les faux prophètes... ils font du mal au Web parce qu'ils vendent de la poudre de Perlimpinpin... Aujourd'hui ils disent ce qu'il est de bon ton de dire. C'est tout. Question vision, cherchez ailleurs.
-
-Tags: NetCulture
