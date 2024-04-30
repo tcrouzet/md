@@ -1,0 +1,35 @@
+# La Quatrième Théorie – Extraits gratuits
+
+![](_i/IMG_0351.png)
+
+[Si vous disposez d’un iPhone/iPad](https://itunes.apple.com/fr/book/la-quatrieme-theorie/id623788042?mt=11), vous pouvez lire les cinq premiers chapitres de *[La Quatrième Théorie](../../page/la-quatrieme-theorie)*. Pour les autres, j’ai capturé les pages, sinon [téléchargez la version epub](/files_tc/la4t_extrait.epub).
+![La Quatrième Théorie 1](_i/IMG_0352.png)
+![La Quatrième Théorie 2](_i/IMG_0353.png)
+![La Quatrième Théorie 3](_i/IMG_0354.png)
+![La Quatrième Théorie 4](_i/IMG_0355.png)
+![La Quatrième Théorie 5](_i/IMG_0356.png)
+![La Quatrième Théorie 6](_i/IMG_0357.png)
+![La Quatrième Théorie 7](_i/IMG_0358.png)
+![La Quatrième Théorie 8](_i/IMG_0359.png)
+![La Quatrième Théorie 9](_i/IMG_0360.png)
+![La Quatrième Théorie 10](_i/IMG_0361.png)
+![La Quatrième Théorie 11](_i/IMG_0362.png)
+![La Quatrième Théorie 12](_i/IMG_0363.png)
+![La Quatrième Théorie 13](_i/IMG_0364.png)
+![La Quatrième Théorie 14](_i/IMG_0365.png)
+![La Quatrième Théorie 15](_i/IMG_0366.png)
+![La Quatrième Théorie 16](_i/IMG_0367.png)
+![La Quatrième Théorie 17](_i/IMG_0368.png)
+![La Quatrième Théorie 18](_i/IMG_0369.png)
+![La Quatrième Théorie 19](_i/IMG_0370.png)
+![La Quatrième Théorie 20](_i/IMG_0371.png)
+![La Quatrième Théorie 21](_i/IMG_0372.png)
+![La Quatrième Théorie 22](_i/IMG_0373.png)
+![La Quatrième Théorie 23](_i/IMG_0374.png)
+![La Quatrième Théorie 24](_i/IMG_0375.png)
+![La Quatrième Théorie 25](_i/IMG_0376.png)
+![La Quatrième Théorie 27](_i/IMG_0377.png)
+![La Quatrième Théorie 28](_i/IMG_0378.png)
+![La Quatrième Théorie 29](_i/IMG_0379.png)
+
+#buzz #y2013 #2013-3-21-10h38

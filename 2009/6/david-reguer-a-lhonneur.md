@@ -1,0 +1,5 @@
+# David Réguer à l’honneur
+
+J’ai rencontré David lors d’un weekend de septembre 2007, peu avant de déclarer que [le militantisme était l’école de la médiocrité](../../2007/9/militantisme-ecole-de-mediocrite.md). Mais je ne pensais pas à David, au contraire, il fut mon rayon de soleil lors de mon séjour chez les militants du Modem et je n’oublierai pas notre après-midi sur la plage. Si je parle de David, c’est parce qu’il vient de sortir deux livres. Dans le premier, *[Blogs, Médias sociaux et Politique](http://livre.fnac.com/a2680207/David-Reguer-Blogs-medias-sociaux-et-politique)*, il décrits l’évolution de la face médiatique et politicienne du cinquième pouvoir. Dans le second, un roman, *[Tout sauf anonyme](http://www.amazon.fr/Tout-Sauf-Anonyme-David-Réguer/dp/2352660556)*, il se moque de ceux qui bataillent pour avoir plus d’amis que les autres sur le net et ailleurs et sont prêts à tout, même à sacrifier leur famille, pour gagner la reconnaissance universelle.
+
+#noepub #breves #y2009 #2009-6-9-20h18

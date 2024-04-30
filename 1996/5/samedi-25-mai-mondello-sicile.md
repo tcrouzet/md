@@ -1,0 +1,71 @@
+# Samedi 25 mai, Mondello, Sicile
+
+![](_i/mondelo.png)
+
+Nuit profonde… bruit de la mer, clapotis contre les rochers. La femme et l’homme, le gothique et le roman, voici les styles sexués comme l’étaient le dorique (homme), l’ionien (femme) et le corinthien (jeune femme).
+
+Pourquoi s’intéresser au passé ? Parce qu’on le voit avec objectivité (disons avec relativisme). Antique, roman, gothique, renaissant, baroque, rococo, romantique, moderne… Nous qualifions notre époque de post-moderne. N’est-ce pas ridicule ? D’autres la qualifieront pour nous, nous sommes leurs primitifs.
+
+> Mais qu’est-ce que la peinture moderne ? Eh bien, c’est d’abord une peinture qu’on a le droit d’appeler *moderne*. Ce n’est pas là un trait négligeable. Car les hommes, de nos jours, se posent dans l’histoire avec une grande autorité. On a coutume de se moquer de l’auteur dramatique qui faisait dire à Roland : « Nous autres chevaliers du Moyen Âge… » Et l’on a raison de se moquer, car les chevaliers du Moyen Âge, d’après tout ce que nous avons appris sur leur compte, ne savaient guère qu’ils étaient du Moyen Âge. Jean Paulhan
+
+Dans *Les Envoûtés*, Gombrowicz use du récit pour exposer ses thèses. Ainsi elles touchent un lecteur qui ne s’intéresserait qu’au récit. Un penseur classique considérerait que ce jeu de séduction sacrifie l’œuvre. Il dirait que le récit ou les thèses peuvent aller séparément, dans deux œuvres disjointes.
+
+Nous portons nos désirs et nos ambiguïtés. Dans nos œuvres, ils doivent cohabiter. Celui qui voit dans une œuvre l’unité ne voit rien. L’unité n’apparaît qu’à distance ; plongeant dans les détails, la diversité se fait jour, la discontinuité se manifeste, l’illusion classique se brise.
+
+L’artiste identifie dans ses œuvres les fragments, chacun correspond à un geste, une pensée, un effet du hasard. L’unité ne surgit que pour le spectateur, ou le critique, qui manque de discernement. L’artiste ne perçoit pas sa propre unité, et pourtant elle l’obsède, et il maquille de plus belle. Comment se débarrasser de cette obsession ? S’abandonner au brouhaha, et seulement ainsi atteindre l’unité, celle d’une forme qui ne peut en posséder.
+
+![Mondelo](_i/mondelo.png)
+
+Deux montagnes encerclent la baie de Palerme, deux blocs majestueux, l’un le reflet de l’autre. Dessiner celui dans le lointain plus simple que celui qui me surplombe. Pour dessiner, il faut s’éloigner, soit physiquement, soit par des artifices, par exemple en clignant des yeux. L’éloignement efface les détails, il ne transmet au cerveau que l’essentiel, et l’artiste doit alors réinventer le monde.
+
+Supposer que mon journal manque d’unité, c’est supposer que moi-même j’en manque. C’est la vérité, mais cette imperfection constitue mon unité. Dans la contradiction, je découvre la réalité.
+
+Dans combien de romans le lieu détermine le récit ? *Les Envoûtés* se passe en Pologne parce que Gombrowicz est Polonais. S’il était Français, Paris remplacerait Varsovie et rien n’en serait changé. Le lieu n’est donc pas indispensable, il ne contribue en rien à la mécanique du récit. Pour approcher l’unité, Gombrowicz aurait dû écrire un récit non localisé.
+
+Voilà encore un excès de la pensée classique, de cette croyance en la perfection accessible. Moi, Français, j’ai une image de la Pologne, et les noms polonais colorent le récit d’une façon unique, façon qui lui devient indispensable et engendre l’essentiel de son atmosphère. Une fois le récit délocalisé, il ne resterait rien de mon ressenti. Je lirai un autre livre. Le lieu est contingent. Gombrowicz a choisi la Pologne, il a construit *Les Envoûtés* autour de la polonéité, comme je construis ce texte autour de la Sicile.
+
+Le lieu est un échafaudage, un échafaudage pris dans le béton au fur et à mesure que la construction progresse. On ne peut le démonter qu’en détruisant la construction.
+
+Pourquoi ne pas laisser visible l’échafaudage ? Il nous enseignerait comment la bâtisse a été construite ; elle perdrait son mystère, mais de tels mystères ne sont-ils pas superficiels ? Un secret technique n’a aucune force ontologique. Préserver l’échafaudage, c’est poursuivre la franchise, l’authenticité, ne rien cacher des tourments.
+
+Les hésitations font la vie, elles font aussi les œuvres. Croyant à une vie supérieure, on rêve les œuvres supérieures. Je n’y crois pas : les œuvres approchent la vie, plus elles le font, plus elles nous bouleversent, car elles s’ouvrent à nous avec une innocence inconnue de l’homme, même de l’enfant (qui vite dispose de secrets). L’œuvre nous donne et nous n’avons qu’à prendre. Parce que nous ne pouvons tout prendre, parce que nous n’avons pas cette force, l’œuvre nous apparaît infinie.
+
+Avons-nous le pouvoir de nous faire ? Que sont les contingences ? Je me forge écrivain. En quoi les contingences me poussent-elle sur cette voie inutile ? Elles ont créé mon orgueil qui crée ma littérature.
+
+Explorer les recoins d’une ville est impossible. Connaître les moindres parcelles d’une région est impossible. L’artiste ne connaît pas son œuvre, elle se dérobe en même temps qu’il la construit. Comment alors apprécier le cloître de Monreale ? Une semaine ne suffit pas. Le touriste pressé fait sans doute le bon choix, il passe et voit, et de cette brève vision reconstituera le cloître.
+
+La route de Mondello à Palerme passe sous magnifique voûte verdoyante. Je la connais déjà, et avec les gestes pour atteindre le cœur de Palerme. Que puis-je dire de cette voûte ? Les arbres sans doute une variété de micocouliers. Je suis incapable de décrire les maisons qui la précèdent, le jardin qui la suit, les embranchements qui la ponctuent. Je ne connais d’elle que le tracé. Un Sicilien n’en sait guère plus, il est impossible de tout prendre, notre mémoire conserve l’indispensable, avec au passage un peu d’inutile ; dans cet inutile réside notre originalité.
+
+Sommes-nous capables de découvrir les beautés non officielles, celles non encore consacrées par la critique et l’Histoire ? Sommes-nous capables de voir, en une œuvre contemporaine, le génie d’une œuvre de demain ?
+
+### Musée de Palerme
+
+Des quartiers comme après un bombardement, des couleurs, des vestiges, du travail pour une vie de peintre. On n’y cherche pas à trahir par des façades rutilantes, la vieillesse d’une civilisation s’offre sans mensonge ; ailleurs, le même âge vénérable est apprêté jusqu’au ridicule comme les vieillards qui fréquentent les discothèques à la recherche d’un souffle de jeunesse.
+
+Je préfère ce qui est spécifique à mon âge et j’espère ne jamais regretter ce que j’ai perdu. Disant perdu déjà je regrette, j’oublie le message proustien et me tourne vers la jeunesse : les corps jeunes de plus en plus attirants, car de plus en plus mystérieux en même temps que nous nous éloignons de leur âge.
+
+![Antonello](_i/antonello.webp)
+
+*La femme au voile bleu* d’Antonello de Messine garde cette jeunesse immortelle. Seul l’art donne l’éternité. Il nous donne l’inaccessible comme le font les corps affichés dans les magazines de mode, mais en éveillant nos désirs, alors que l’art les assouvit.
+
+Sur le tableau, une tache, on dirait un diablotin. Jeu de formes qui m’incite à croire à la destinée, au moins au fait que nous soyons fruit du hasard, de ce hasard qui engendre un diable avec autant de talent qu’un artiste. Sommes-nous libres ?
+
+Nous ne comprendrons la volonté qu’après la conscience : nous avons conscience de nos choix, cela seulement nous les fait peut-être croire choix. Un choix est-il possible sans conscience ? Une machine n’est-elle pas capable de choisir ? Nous savons programmer deux types de choix : choix contingent (si… alors… sinon…) ou choix au hasard (jeter un dé, suivant le résultat faire ceci ou cela).
+
+La volonté obéit à coup sûr à la première règle. Obéit-elle à la seconde ou à une troisième, est-elle capable de se libérer de la première ? Si nous lançons un dé, et agissons en fonction du résultat, nous obéissons à la deuxième. Mais pourquoi avons-nous lancé le dé ? Nous ne le savons pas. Le hasard est-il une contingence ordinaire ou la contingence des contingences ?
+
+Coïncidence : mon amie me montre d’autres détails anthropomorphiques. Sont-ils réels ou les imaginons-nous ? Je lui montre le diable et elle le voit. Je pense à ce renard que Braque voit apparaître sur une toile cubiste et dont il n’arrive à se défaire qu’après des jours de travail, avant qu’une autre forme ne vienne l’obséder.
+
+L’abstraction n’existe pas, l’homme ne l’atteint que par effort, et un autre regard verra resurgir les formes. Sur les monochromes, les infimes variations de densité révèlent des formes. Nous n’échappons pas à la forme.
+
+L’abstraction est impossible. Jetons des objets au sol, déjà ils deviennent des formes, le hasard constructeur réinvente infiniment les mêmes formes, notamment celle de la vie. La vie est-elle consubstantielle à l’univers ou, une fois apparue, elle ne peut-elle que se voir ?
+
+La force génératrice du hasard. L’artiste est celui qui s’abandonne au hasard : celui qui s’entraîne à s’abandonner, exactement comme un sportif. Entraînement et abandon, voilà l’oscillation dialectique de la création.
+
+### Soirée à Palerme
+
+La *passegiata* : ils passent et repassent, descendent et remontent la rue piétonne. Les hommes se tiennent par le bras, les filles par la main. Pourquoi ce contact ? Signe d’amitié, signe de célibat, en tout cas pas un signe d’inversion, ici trop puritain, trop conservateur. Pourtant, en ce lieu de tradition, on semble plus libéré qu’à San Francisco.
+
+
+
+#pense_de_sicile #retroblogging #y1996 #1996-5-25-12h9

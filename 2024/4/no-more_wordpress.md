@@ -1,0 +1,65 @@
+# Libérer l’écriture des pesanteurs
+
+![](_i/nomore01.webp)
+
+Ce billet ne ressemble à aucun autre des plus de 2 200 que j’ai publié depuis vingt ans. Il n’est pas passé à travers les Fourches caudines de WordPress. Cela peut vous paraître anecdotique, mais il s’agit d’une petite révolution éditoriale et technique, et avant tout philosophique. Je ne suis pas heureux des découvertes que je viens d’effectuer, et de la prise de conscience qui l’accompagne.
+
+Nous vivons dans une société qui complique tout, qui ajoute des couches inutiles de complexité à des couches inutiles de complexité, ce qui entraîne des coûts énergétiques et technologiques, mais aussi des coûts humains, en compliquant la maintenance, l’interopérabilité, la transparence, la sécurité… jusqu’au simple droit de propriété. Nous souffrons d’une obésité généralisée. Nous voulons tant exister aux yeux des autres qu’il nous faut ajouter notre couche, notre code, notre marque, notre article, notre livre, notre dernière photo… Ce mal affecte les réseaux sociaux et le moindre rouage social jusque dans des profondeurs invraisemblables.
+
+Cette gangrène me fait de plus en plus souffrir, elle me devient intolérable. J’aspire à la sobriété. Je ne la recherche pas seulement pour lutter contre les dérèglements climatiques, parce qu’elle est indispensable, mais parce qu’elle me rend heureux. Chaque fois que je me décharge d’une tâche ou d’un bien superflu, je me sens plus libre, plus léger, plus en phase avec moi-même et le monde. Cette prise de conscience n’est pas neuve, elle remonte au moins à l’époque de ma déconnexion en 2011, et même avant quand nous avons quitté Londres et Paris et cessé de rêver à des carrières mirobolantes.
+
+Reste que tout nous pousse à la boulimie. Tout le monde nous crie d’ajouter tel service par-dessus tel autre, telle preuve de vie par-dessus telle autre, parce que c’est toujours de cela qu’il s’agit finalement. Les boursouflures de Wordpress ne sont qu’un symptôme d’une crise profonde. Pour répondre à tous les besoins, cet immonde château de cartes ne satisfait plus que ceux qui ferment les yeux, et surtout les développeurs de sites WordPress qui se bâfrent sur le dos de la complexité. Elle est devenue un business universel dans tous les domaines, avec un empilement de normes et de contraintes sans précédent.
+
+Quand je me retrouve pris dans ses filets, j’en éprouve une grande souffrance. J’ai un besoin viscéral de simplifier. La légèreté me fait du bien.
+
+### Comment ça marche pour la plupart des auteurs numériques
+
+Je parle là d’une niche, d’un domaine très particulier, mais à coup sûr la même chose se répète partout ailleurs. Voici un exemple des dérèglements du monde.
+
+Les auteurs écrivent avec un traitement de texte du type Word, puis collent leurs articles dans un CMS (content management system) du type de WordPress qui enregistre le texte dans une base de données (parfois un plugin effectue le transfert automatiquement). Ce CMS doit être hébergé sur un serveur connecté à internet pour pouvoir répondre aux demandes des lecteurs en fabriquant les pages HTML dynamiquement. Tous les réseaux sociaux sont des CMS. Il se produit une coupure quasi irrémédiable entre le texte écrit et le texte publié.
+
+Cette opération de publication ressemble à celle de la vieille chaîne du livre : j’écris un texte, le transmets à un éditeur qui l’édite, le met en page, puis le transmet à un imprimeur, qui le transmet à un transporteur, qui le transmet jusqu’aux librairies où viennent les lecteurs. Mais pourquoi avec le numérique mettre en place un système avec autant d’intermédiaires, qui chacun ajoute de la distance entre l’auteur et les lecteurs, des coûts énergétiques, techniques et humains ? Pourquoi être dispendieux ?
+
+Ces dernières semaines, j’ai replongé dans mes carnets manuscrits [pour commencer à les publier](/tag/retroblogging/). Tout de suite s’est posé un problème : une fois mes textes dans WordPress, et donc sur mon blog, je les relisais pour les corriger, mais les modifications effectuées dans WordPress ne remontaient pas à la source, dans mon éditeur de texte. Cette disparité ne m’a jamais dérangé avec des billets de blog, alors qu’elle me soucie avec mes carnets, parce que je les considère comme la part la plus importante de mon travail. J’ai besoin d’avoir un texte de référence et ce texte se trouve dans WordPress, enterré sous une montagne de code, qui bien qu’en open source s’apparente au château de Kafka. Impossible de continuer comme ça.
+
+Je veux que mes textes numériques soient indivisibles. Quand je change une virgule sur mon ordinateur, je veux que cette virgule apparaisse pour mes lecteurs, et donc pour moi-même. Je veux en quelque sorte davantage d’unité, de cohérence, je veux réduire la distance entre toutes les versions de mes textes. Je veux travailler à un seul endroit de mon espace numérique, en son centre, au cœur du réacteur.
+
+### Un long cheminement
+
+Il y a plus de dix ans, j’ai abandonné Word, parce que, comme WordPress aujourd’hui, il était devenu une usine à gaz, avec des montagnes de fonctions, pour la plupart inutiles à l’écriture, dont la simple présence entraînait la distraction, la lenteur, des bugs, des coûts, tout en enterrant mes données dans un format qui bien qu’ouvert était cryptique. J’aspirais déjà à plus de simplicité. Je ne voulais plus que mes textes se retrouvent empaquetés dans une montagne de balises inutiles ?
+
+J’ai alors décidé de ne plus écrire qu’avec des outils qui enregistrent les textes à l’état brut, avec le système de balisage minimaliste Markdown. Je me suis mis à revivre. Presque à prendre un nouveau plaisir à sentir les mots passer de mes doigts à mon écran et à mes fichiers. Je sentais qu’un minimum d’effort était demandé à mon ordinateur, un minimum de code, un minimum d’énergie, un minimum de puissance de calcul.
+
+J’ai eu le malheur de m’enticher d’Ulysses, un éditeur Markdown propriétaire, réellement révolutionnaire à l’époque, mais qui version après version, sans doute pour justifier sa tarification, n’a cessé d’empiler des couches de complexité, jusqu’à provoquer des bugs dramatiques. Comme Word, comme WordPress, Ulysses avait fini par ensevelir mes données loin de mes yeux.
+
+[Je m’en suis débarrassé fin 2023, obligé de coder un convertisseur pour m’en échapper.](../../2023/12/pris-en-otage-par-ulysses-app.md) Sans m’en rendre compte, je m’étais emprisonné dans un système propriétaire et opaque, qui avait fini par me ramener à mon point de départ, c’est-à-dire avec Word. J’ai alors compris que mes fichiers devaient s’organiser simplement dans des dossiers et sous-dossiers, sans nécessiter d’autres bases données que le gestionnaire de fichier de mon ordinateur.
+
+En quelque sorte universelle, cette hiérarchie ne dépend d’aucun autre logiciel que le système, et elle est en grande partie transparente d’un système à l’autre. Mon éditeur de texte devait être capable de lire et d’écrire des fichiers en texte brut dans cette hiérarchie. J’ai choisi de travailler avec Obsidian, mais je peux aussi bien travailler en même temps avec d’autres outils, même avec les plus légers comme [Vim](https://fr.wikipedia.org/wiki/Vim). Plus jamais de format propriétaire pour mes textes. Je veux pouvoir les lire et les retravailler avec une multitude d’outils, même les plus primitifs. J’ai réduit la distance entre eux et moi.
+
+### Une autre prise de conscience
+
+En parallèle, et au fil des années, une autre absurdité m’a sauté aux yeux : pourquoi utiliser un CMS pour publier mes textes ? Pourquoi chaque fois qu’un lecteur se présente recalculer les pages pour lui servir exactement le même HTML qu’aux autres lecteurs ? Ça n’a aucun sens de répéter encore et encore le même travail, tout ça parce que c’est une machine qui s’en charge. Encore de la complexité inutile et des dépenses inutiles. Autant publier directement en HTML. Ainsi plus besoin d’héberger la base de données et le code du CMS. Donc moins de puissance nécessaire, moins d’énergie nécessaire, moins de coûts, moins de maintenance, moins de risques d’attaque, avec en prime plus de rapidité. Tout le monde y gagne.
+
+J’ai effectué le saut début 2023 en publiant mes pages directement en HTML (au passage, je suis passé d’un hébergement à plus de 10 €/mois à moins de 1 € pour des performances dix fois supérieures). Mais je n’ai pas coupé les ponts avec WordPress. Je le faisais toujours tourner en local et c’est lui qui générait les pages HTML, au prix d’un code absurdement compliqué, lent et difficile à maintenir.
+
+J’en suis donc venu à me débarrasser de cette aberration. Après une semaine de travail acharné, [j’ai créé un script python](https://github.com/tcrouzet/NoMoreWordPress) pour exporter mes textes WordPress, leurs tags et leurs illustrations en une hiérarchie de fichiers universelle. J’ai par la suite créé un générateur de fichiers HTML qui compile ma hiérarchie à l’aide d’un template. Je n’ai perdu aucune des fonctionnalités proposées par WordPress. Mon blog a toujours la même apparence. Les articles sont toujours classifiés et organisés de la même manière, mais la distance entre ce texte que vous lisez et sa version dans mon éditeur se réduit à un simple script Python que j’ai moi-même écrit, et qui fait seulement ce dont j’ai besoin.
+
+Beaucoup de développeurs ont créé des convertisseurs semblables, à visée universelle (Hugo, Jekyll, [Blot](https://blot.im/), [VenC](https://venc.software/Arborescence/)…). J’ai commencé à en regarder quelques-uns, mais aucun ne répondait tout à fait à mes besoins, et j’ai vite compris qu’apprendre à les utiliser et jouer de leurs limites me prendrait plus de temps que tout refaire moi-même. Encore de la complexité inutile. En me débrouillant seul, j’ai gagné en autonomie numérique, et en liberté tout court. [Je diffuse mon code pour que d’autres puissent s’en inspirer.](https://github.com/tcrouzet/NoMoreWordPress) Je l’ai rendu aussi flexible que possible pour mes propres besoins. Par exemple, pour décrire mon template j’utilise la syntaxe Liquid (la même que celle utilisée par Jekyll).
+
+Si je me place dans mon ancien dossier WordPress et effectue un `find . -name ’*.php’ | xargs wc -l`, je décompte 900K lignes de PHP, quand j’ai eu besoin de 1,6K lignes de Python pour mon convertisseur. Pour être honnête, si je comptabilise le code des librairies Python utilisées, mon code a besoin de 600K lignes. Je peux regarder les choses autrement : mon template WordPress à lui seul pesait 2K lignes de PHP (OK, il accumule 20 ans de scories malgré mes multiples refontes) et mon convertisseur HTML autant, soit plus du double que mon Python, tout ça pour personnaliser l’énorme code de WordPress. C’est la démonstration de l’absurdité de la chose. Il me fallait davantage de code pour personnaliser WordPress que tout refaire ce dont j’avais besoin de zéro. J’ai trop longtemps marché sur la tête, et le monde avec moi. Un écolo qui utilise encore WordPress est aussi con que s’il continue de fumer ou de picoler.
+
+Au point où j’en étais, j’ai effectué un saut de plus. J’ai converti mes images jpeg au format webp, plus compact à taille équivalente pour une qualité supérieure, et tant pis si quelques vieux navigateurs ne savent pas les lire. Des images plus compactes, c’est moins de bande passante consommée, donc moins d’énergie dissipée. Le gain n’est pas mince. Mon arborescence exportée de WordPress pesait 4 Go contre 2,5 Go désormais. Cette optimisation compte peu à mon échelle, mais si nous nous y engagons tous, les gains seront substantiels. Je m’applique à cette tâche pour être en accord avec moi-même.
+
+Pour encore réduire la distance entre mes textes et leur version en ligne, [j’ai créé un miroir de mon site sur GitHub](https://static.tcrouzet.com/) (toujours avec le même script). Pour passer sous la barre des 2 Go de l’offre gratuite de GitHub, j’ai limité la taille des images à 1024 pixels de large. Avantage : [il est possible d’accéder aux code, de le télécharger, de le faire tourner ailleurs…](https://github.com/tcrouzet/blog)
+
+Vous vous dites peut-être que des textes HTML restent très loin des textes tel que je les visualise dans Obsidian. Vous avez raison. J’ai donc créé une copie exacte de mon arborescence Markdown également sur GitHub. Cette fois, il s’agit exactement de mon environnement de travail, à la virgule près.
+
+### Dans la pratique
+
+C’est juste génial. J’écris dans Obsidian. Je glisse-déplace les images directement dans le fichier Markdown. Elles s’enregistrent dans un sous-dossier. Je lance mon script et le texte se retrouve en ligne.
+
+Plus impressionnant, je bénéficie de toutes les fonctionnalités d’Obsidian, véritable navigateur à l’intérieur d’une hiérarchie de fichiers. Je peux glisser les fichiers d’ancien billet dans un nouveau texte pour créer automatiquement des liens hypertextes. Si j’utilise des tags, je peux naviguer à travers les fichiers interconnectés. Je peux surfer sur mon blog, mais à travers sa version texte. J’en avais rêvé, c’est maintenant possible.
+
+Je me sens beaucoup plus léger.
+
+#cuisine #obsidian #y2024

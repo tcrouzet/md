@@ -1,0 +1,21 @@
+# Réseau ou espace ?
+
+Comme me l’a suggéré Jean-Yves le Moine, je viens d’écouter une conférence de [Michel Serres donnée en décembre 2005](http://interstices.inrialpes.fr/display.jsp?id=c_15918&qs=catName%3Dtrue%26searchInFiles%3Dfalse%26submit.y%3D2%26text%3Dserre%26textSearch%3Dtrue%26catName2%3Dtrue%26mode%3Dall%26replaceFileDoc%3Dtrue%26submit.x%3D14%26searchInArchives%3Dfalse%26id%3Djalios_5124%26jsp%3Dfront%252Fquery.jsp). Notre philosophe raconte bien et il voit juste. C’est un connecteur. J’ai trouvé les questions/réponses presque plus intéressantes que l’exposé.
+
+Michel Serres voit l’évolution des technologies comme une externalisation progressive des fonctions propres à l’homme. Le marteau, c’est le bras et le poing. Le livre, c’est la mémoire. L’ordinateur, c’est aussi la mémoire et déjà un peu la capacité de raisonnement (possibilité de démontrer certains théorèmes). Alors la pensée sera-t-elle externalisée ? demande un auditeur. La conscience le sera-t-elle ? Cette dernière question ne fut pas directement posée mais j’ai senti que Michel Serre n’était pas prêt à devenir un [Cosmist](../6/cosmists-vs-terrans.md) bien que son raisonnement conduise inévitablement à cette position.
+
+Pour ma part, je crois qu’à force de mettre hors de l’homme ce qui, à un moment, constitue le propre de l’homme, nous finirons par créer des machines conscientes. Dans l’histoire, à chaque externalisation, les pessimistes ont cru que l’homme ne s’en relèverait pas. Heureusement, ils se sont toujours trompés. J’espère qu’ils se tromperont encore à la prochaine échéance.
+
+Que deviendrons-nous une fois que des machines penseront aussi bien que nous ? C’est une autre question. Comme je le dis toujours, il importe avant tout que la conscience continue de s’épanouir, indépendamment d’un substrat déterminé. Rien n’empêche d’ailleurs que des substrats différents cohabitent sur Terre. Les hommes occuperaient l’espace physique, les machines l’espace numérique.
+
+Au tout début de la conférence, une réflexion de Michel Serres au sujet de l’espace m’a d’ailleurs fait bondir. Pour lui, nous ne vivons plus en réseau, ce qui était le cas avant, mais dans un nouvel espace topologique. Quand Michel Serres dit que les réseaux existent depuis toujours, je suis bien sûr d’accord : le réseau est la structure fondamentale du vivant. Mais dire que nous ne vivons plus dans un réseau, je trouve ça un peu fort, surtout en argumentant cette idée en s’appuyant sur l’étymologie du mot adresse. On dirait que Wittgenstein n’est pas passé par là.
+
+Pour Michel Serres, une adresse postale désignait par le passé une localisation spatiale (il oublie de parler du système d’adressage japonais qui n’a rien de spatial) et, sous sa forme e-mail, désigne maintenant une position abstraite, un code, dans un nouvel espace qui n’est plus ni géométrique ni métrique.
+
+La vérité est tout autre. Les pays, les régions, les villes sur une carte n’ont jamais dessiné des réseaux comme le sous-entend Michel Serre mais des systèmes purement pyramidaux suivant le principe des poupées russes (en tirant sur la corde, on peut à la limite dire qu’ils dessinent des réseaux en étoile). Quant à elles, les routes et les rues dessinent des réseaux distribués.
+
+Mais les réseaux qui nous intéressent aujourd’hui, les réseaux sociaux, n’ont jamais rien eu de spatial et surtout ne sont pas de type distribué mais décentralisé. Une adresse postale ne nous a jamais situé dans un réseau social pas plus qu’une adresse électronique. Ces réseaux sociaux ont toujours existés, c’est aussi une évidence, mais ils deviennent de plus en plus denses car les points de connexion entre nous se multiplient. Et surtout, ils étendent leurs connexions à toute l’humanité sans se soucier des frontières.
+
+Voici la véritable nouveauté. C’est cette nouvelle topologie sociale qui fait que nous vivons dans un nouvel espace. L’espace physique est le même, l’espace social est nouveau. Au final, j’arrive à la même conclusion que Michel Serres mais sans abandonner la notion de réseau, au contraire, elle est fondamentale. Parce que nous comprenons de mieux en mieux les réseaux, nous commençons à entrevoir de nouveaux systèmes politiques plus en accord avec la nature profonde des sociétés humaines.
+
+#connecteur #y2006 #2006-9-6-10h17
