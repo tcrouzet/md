@@ -16,13 +16,13 @@ En peinture, en musique, en architecture, dans tous les arts, des mécènes sout
 
 **Réponse 5** La littérature d’avant-garde est un non-sens, une invention du XXe siècle, une anomalie. La littérature parle toujours de la vie. Une œuvre numérique ne se révèle pas par des lasers tournoyants, des feux d’artifice ou des panneaux 4x3. Je crois qu’il s’agit de ma réponse préférée, ma réponse manifeste :
 
-> Une œuvre littéraire numérique ne se différencie pas en première analyse d’une œuvre littéraire qui ne serait pas numérique.
+>Une œuvre littéraire numérique ne se différencie pas en première analyse d’une œuvre littéraire qui ne serait pas numérique.
 
 Il existe une continuité depuis la plus haute antiquité, continuité induite par le langage lui-même, continuité que je revendique (je pense à une continuité qui ressemble à un escalier avec des marches plus ou moins hautes).
 
-[Un commentateur me dit](pourquoi-ecrire-en-ligne/#comment-184408.md) :
+Un commentateur me dit :
 
-> Sans doute qu’une littérature numérique, pour faire rêver quelques élites en tant qu’avant-gardisme, ne peut pas se limiter aux mots.
+>Sans doute qu’une littérature numérique, pour faire rêver quelques élites en tant qu’avant-gardisme, ne peut pas se limiter aux mots.
 
 Telle est la position officielle de toutes les institutions qui soutiennent la création numérique en littérature. Dans les œuvres mises en avant, il y a plus de lumières que de mots, plus d’effets spéciaux que de poésie, la littérature étant réduire à quelques légendes projetées en lettres géantes dans le ciel.
 

@@ -29,7 +29,7 @@ Quand j’analyse mon écriture, je vois bien qu’elle se joue sur deux modes, 
 
 Ces deux modes sont praticables en théories sur le papier et le Web. Quand on publie un journal en livre, c’est bien une succession de fragments jetés jour après jour (et quand l’auteur est mort, il n’a même pas la possibilité de corriger). Il manque bien sûr le feedback immédiat des lecteurs, qui est essentiel au Web. Le papier autorise une forme atténuée du Send, de ce que tu pratiques, il me semble.
 
-La plupart des auteurs du papier travaillent dans le temps long. Nous pouvons faire de même sur le Web. Par exemple, ma nouvelle [*Les zombis du revenu inconditionnel*](../8/inconditionnel-ou-la-mort-au-temps-du-revenu-de-base.md) est très courte, mais je l’ai pensée plusieurs jours avant de l’écrire sur deux jours, je l’ai laissé reposer, m’éloignant ainsi du pur Send.
+La plupart des auteurs du papier travaillent dans le temps long. Nous pouvons faire de même sur le Web. Par exemple, ma nouvelle [*Les zombis du revenu inconditionnel*](../../books/tune-caniveau.md) est très courte, mais je l’ai pensée plusieurs jours avant de l’écrire sur deux jours, je l’ai laissé reposer, m’éloignant ainsi du pur Send.
 
 On peut imaginer publier au jour le jour des fragments sur un site privé, sans cesse les réorganiser, les reprendre, en ajouter, en supprimer, avant de tout libérer. Je crois que [François Bon](http://www.tierslivre.net/) fait ça dans sa cuisine. C’est aussi une écriture Web et elle peut être aussi fermée qu’un livre, sachant qu’on peut toujours ajouter quelque chose, même après publication, je l’ai fait avec *[Ératosthène](../../page/eratosthene)*.
 
@@ -37,7 +37,7 @@ Je vois encore un mérite au papier. Comme on ne peut pas y revenir, je suis bea
 
 **Daniel**
 
-Bon, après notre mort... C’est noté dans mon agenda.
+Bon, après notre mort… C’est noté dans mon agenda.
 
 Les deux modes que tu évoques dans ton cas, Send vs TL (temps long), je ne sais pas si pour toi, ils sont exclusifs l’un de l’autre (tu fais d’une part des textes principalement Send, d’autres part des textes qui sont écrits sur le TL et ne sortent que "terminés") ou consécutif (des Send sont agrégés pour être travaillés sur TL).
 
@@ -59,7 +59,7 @@ Il y a peut-être un truc à inventer pour accompagner le processus de montée e
 
 Ce qui ne règle pas la question de la forme. J’ai l’impression qu’il y a quelque chose dans la forme web infinie qui bloque l’accession du texte à un statut d’oeuvre au sens littéraire (mais je ne sais pas comment le dire et sans doute que c’est une impression de café du commerce que d’aucuns ont déjà théorisé en long, large et travers).
 
-Qu’en tant que lecteur, nous ne parvenons à voir une oeuvre que quand elle est matérialisée dans un objet fini. Du coup, forcément, on revient à ce que tu dis, il va falloir du temps, « le monde littéraire vit avec le papier depuis des siècles » et les lecteurs aussi...
+Qu’en tant que lecteur, nous ne parvenons à voir une oeuvre que quand elle est matérialisée dans un objet fini. Du coup, forcément, on revient à ce que tu dis, il va falloir du temps, « le monde littéraire vit avec le papier depuis des siècles » et les lecteurs aussi…
 
 Tu vois, ça vient de me frapper, en écrivant ça « le web nous renvoie aussi comme auteurs à une solitude particulière » : avec le web, nous avons gagné le temps réel et les retours éventuels directs avec les lecteurs (quand ils existent), mais nous avons peut-être perdu un accompagnement éditorial.
 
@@ -149,10 +149,10 @@ Tu sais, je n’ai jamais cette impression que le lecteur puisse me voir en trai
 
 Je suis vraiment plus sceptique que toi sur la possibilité de se passer d’un “éditeur” : un regard pro, exigeant, je pense que ça ne peut pas être celui d’un compagnon ou d’un “simple” lecteur, je pense que c’est vraiment un “métier”, une position par rapport au texte. Certes, un lecteur peut (logique 2.0) t’apporter plein de choses, mais je pense qu’un éditeur peut t’apporter plus. Donc ça « Suffit de voir les livres autopubliés non édités qui cartonnent. Les travailler n’aurait servi à rien. Et sans doute qu’il en va de même pour les grands textes. » je ne suis pas d’accord du tout. Je pense qu’un auteur peut aller tout seul très loin, mais je pense qu’avec un bon éditeur, qui va lui botter le cul, il peut aller encore beaucoup beaucoup plus loin. Mais on reboucle sur les problématiques de modèle économique qui certainement est l’un des noeuds du problème.
 
-Donc en filigrane, je crois que je crois moins que toi à cet idéal 2.0 (je le verbalise et donc je m’en aperçois...) : le web change certes les logiques, et fait pivoter les logiques verticales vers les horizontales, mais en fait, il me semble, pas tant que cela dans le domaine dont l’on parle ici, au sens où j’ai l’impression que la sagesse des foules, sur l’écriture, ne nous mène pas très loin en fait. (la vache, je ne pensais pas écrire ça un jour).
+Donc en filigrane, je crois que je crois moins que toi à cet idéal 2.0 (je le verbalise et donc je m’en aperçois…) : le web change certes les logiques, et fait pivoter les logiques verticales vers les horizontales, mais en fait, il me semble, pas tant que cela dans le domaine dont l’on parle ici, au sens où j’ai l’impression que la sagesse des foules, sur l’écriture, ne nous mène pas très loin en fait. (la vache, je ne pensais pas écrire ça un jour).
 
 **Thierry**
- 
+
 Je suis très sceptique aussi, parce qu’on a rêvé de beaucoup de 2.0 et on récupère le modèle le plus centralisé de l’histoire, avec les superpuissances du Net. Cet échec va bien au-delà de la littérature, c’est un refus de transiter vers une autre société. J’espère que ce refus est provisoire parce que sans transition je ne vois pas ce qui nous attend de bon.
 
 Je crois que la nature 2.0 ou non de l’Editor (par opposition au Publisher) est accessoire, parce c’est une tâche technique, mais simple, qui n’a pas besoin de transversalité et de beaucoup d’intelligence collective.
@@ -165,6 +165,4 @@ Pour nous, la chose nouvelle c’est cette possibilité d’expérimenter en mê
 
 [caption id="attachment\_37434" align="aligncenter" width="600"][![Book 8 par Brenda-Starr](_i/book.webp)](https://flic.kr/p/8JBSSW) Book 8 par Brenda-Starr[/caption]
 
-
-
-#netlitterature #dialogue #y2014 #2014-10-8-9h1
+#netlitterature #y2014 #2014-10-8-9h1

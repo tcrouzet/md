@@ -28,7 +28,7 @@ Vous pouvez faire les malins, dire que ça ne suffit pas. Alors que faites-vous 
 
 ### Postface
 
-Pour illustrer ce dont je viens de parler et que je rabâche sans cesse, lisez ce commentaire de [JF Garsmeur](j1-de-la-nouvelle-ere/#comment-72855.md). Il est symptomatique du mal qui nous ronge : l’essentialisme, la folie de tout catégoriser, de simplifier le monde une fois pour toutes. Et on ose se prétendre de gauche lorsqu’on démontre un tel penchant pour le totalitarisme idéologique !
+Pour illustrer ce dont je viens de parler et que je rabâche sans cesse, lisez ce commentaire de JF Garsmeur. Il est symptomatique du mal qui nous ronge : l’essentialisme, la folie de tout catégoriser, de simplifier le monde une fois pour toutes. Et on ose se prétendre de gauche lorsqu’on démontre un tel penchant pour le totalitarisme idéologique !
 
 La révolution française assenée comme une avancée définitive. N’est-il pas temps d’envisager autre chose ? Surtout que la dite révolution ne s’est résumée qu’à un jeu de chaises tournantes. On a changé les bonshommes, gagné un peu de liberté, mais profondément les mécanismes de domination n’ont pas changé. Je vous renvois au *Guépard*.
 

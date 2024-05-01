@@ -1,6 +1,6 @@
 # La démocratie non-représentative
 
-La *peer democracy* est mon cheval de bataille depuis que je me suis lancé dans [Le peuple des connecteurs](../../page/le-peuple-des-connecteurs) en 2005. J’évoque sans cesse cette possibilité, spécialement à la fin du [Cinquième pouvoir](../../page/le-cinquieme-pouvoir), et ce petit billet de [Vasilis Kostakis](http://blog.p2pfoundation.net/peer-governance-towards-non-representational-democracy/2007/06/09) découvert par [Florent](../5/le-reseau-libre/#comment-33180.md) a réveillé mon intérêt.
+La *peer democracy* est mon cheval de bataille depuis que je me suis lancé dans [Le peuple des connecteurs](../../page/le-peuple-des-connecteurs) en 2005. J’évoque sans cesse cette possibilité, spécialement à la fin du [Cinquième pouvoir](../../page/le-cinquieme-pouvoir), et ce petit billet de [Vasilis Kostakis](http://blog.p2pfoundation.net/peer-governance-towards-non-representational-democracy/2007/06/09) découvert par Florent a réveillé mon intérêt.
 
 ### Brève critique de la démocratie représentative
 

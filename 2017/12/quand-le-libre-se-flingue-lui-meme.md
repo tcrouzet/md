@@ -8,14 +8,16 @@ Pourquoi un paradoxe ?
 
 Je reviens au fondement : libre n’est pas synonyme de gratuit, puisque je peux par exemple libérer un de mes livres tout en le vendant (c’est le cas pour *[Le geste qui sauve](../../page/le-geste-qui-sauve)*). Il n’y a aucune contradiction entre libre et payant. C’est vrai, mais il ne faut pas se voiler la face : le libre implique aussi la gratuité. Si parfois je peux payer certains biens libres, je peux dans tous les cas les récupérer gratuitement (en vertu de la [liberté 2/4](https://www.gnu.org/philosophy/free-sw.html)). Je suis libre de payer ou non.
 
-Payer si je veux, revient à donner si je veux. On passe d’une économie monétaire où tout se paye, à une économie du don, [une économie primitive pas très efficace](je-ne-donne-plus-je-vends-en-g1.md) (on devrait dire une économie du cadeau [comme me l’a fait remarquer Gégard Foucher](je-ne-donne-plus-je-vends-en-g1/#comment-184417.md)). Voilà pourquoi au sein de cette économie du libre inefficace une monnaie libre apparaît.
+Payer si je veux, revient à donner si je veux. On passe d’une économie monétaire où tout se paye, à une économie du don, [une économie primitive pas très efficace](je-ne-donne-plus-je-vends-en-g1.md) (on devrait dire une économie du cadeau). Voilà pourquoi au sein de cette économie du libre inefficace une monnaie libre apparaît.
 
 Par ailleurs, avant l’apparition de cette monnaie libre, aucune création dite libre ne l’était réellement, puisque les créateurs ont dépendu durant leur travail des monnaies par principe non libres. Ainsi le libre apparaît dans un monde non libre par un mécanisme de bootstrapping : un peu de liberté gagnée permet d’en gagner un peu plus et ainsi de suite (c’est le principe des fusées à étages). Il est donc logique que la monnaie libre n’apparaisse que dans un second temps, pour soutenir des créations réellement libres.
 
 Mais cette possibilité nouvelle de fixer un prix en monnaie libre revient à renoncer à la liberté 2/4 et de revenir au système où tout se paye, système qui a montré son efficacité. Sur les quatre libertés postulées par Stallman, il n’en subsiste alors plus que trois :
 
 * Liberté d’utiliser.
+
 * Liberté d’étudier.
+
 * Liberté de modifier (mais sans faire circuler).
 
 En d’autres termes, le monde du libre en inventant une monnaie libre transforme les créations libres en créations open source.
@@ -31,7 +33,5 @@ Ce troisième étage a désormais décollé. Bien sûr, il ne s’est pas émanc
 Lors des simulations avec le jeu [*?economicus*](http://geconomicus.glibre.org/), on constate que quand les deux systèmes monétaires interfèrent, les banques gagnent beaucoup moins que quand elles sont les seules à dispenser la monnaie. L’existence des monnaies libres devrait donc avoir un effet modérateur même sur les monnaies non libres. On peut aussi craindre que le système bancaire voyant ses ressources diminuer ne s’en prenne violemment aux nouvelles monnaies libres, poussant les états à les interdire, dans le but maintenir les privilèges de la noblesse de robe des financiers.
 
 Quoi qu’il en soit l’histoire est en marche. Une économie reposant sur une monnaie libre garantit l’accès aux ressources que chacun juge nécessaires tout en bénéficiant de la puissance propre aux systèmes monétaires. Ce n’est peut-être pas encore le meilleur des mondes, mais nous voyons peut-être naître un système potentiellement réjouissant. Pour une fois, il ne s’agit plus de spéculation. L’expérimentation a commencé avec [?1](https://g1.duniter.fr/) et libre à vous de la rejoindre.
-
-
 
 #libre #netculture #dialogue #y2017 #2017-12-15-13h44

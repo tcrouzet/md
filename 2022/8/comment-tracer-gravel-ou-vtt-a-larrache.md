@@ -26,11 +26,14 @@ Je charge la trace Komoot VTT dans [VisuGPX](https://www.visugpx.com/) et la com
 
 ### Manuel
 
-Comme je manque de temps, je bascule en mode manuel sur VisuGPX. En m’inspirant des deux traces calculées et [selon ma technique de traçage désormais habituelle](../5/visugpx-a-revolutionne-ma-technique-de-tracage/?swcfpc=1.md), je combine le mode routage de proche en proche et le mode point à point sur les secteurs non cartographiés que me révèle la [Heatmap Strava](https://www.strava.com/heatmap). J’aboutis ainsi à une trace avec 47 % d’asphalte, presque que des voies communales. Mieux, j’arrive à 28 % de chemins et surtout à 25 % de singles. Voici une véritable trace VTT. Nous y avons pris du plaisir, surtout en forêt. Sur les portions asphaltées, nous n’avons croisé qu’une dizaine de voitures.
+Comme je manque de temps, je bascule en mode manuel sur VisuGPX. En m’inspirant des deux traces calculées et [selon ma technique de traçage désormais habituelle](../5/visugpx-a-revolutionne-ma-technique-de-tracage.md), je combine le mode routage de proche en proche et le mode point à point sur les secteurs non cartographiés que me révèle la [Heatmap Strava](https://www.strava.com/heatmap). J’aboutis ainsi à une trace avec 47 % d’asphalte, presque que des voies communales. Mieux, j’arrive à 28 % de chemins et surtout à 25 % de singles. Voici une véritable trace VTT. Nous y avons pris du plaisir, surtout en forêt. Sur les portions asphaltées, nous n’avons croisé qu’une dizaine de voitures.
 
 ![Montsaguel](_i/IMG_8716.webp)
+
 ![Monmarvès](_i/IMG_8718.webp)
+
 ![Saint-Étienne-de-Villeréal](_i/IMG_8742.webp)
+
 ![Montflanquin](_i/IMG_8750.webp)
 
 ### Google
@@ -48,6 +51,7 @@ En revanche, [BRouter](https://brouter.damsy.net/) s’est avéré beaucoup plus
 Le service propose de nombreuses options de paramétrage. On peut se construire des profils sur mesure ([ici une version dédiée au gravel](https://cxberlin.com/routenplaner/cxb-routenplaner/) ou [là](https://bikerouter.de/)). J’ai effectué deux autres tests tout aussi intéressants que le premier. Si je dois refaire ce parcours, ou un autre avec peu de temps de préparation, je prendrais l’habitude de travailler avec BRouter, avant de basculer en manuel sur VisuGPX pour un rapide fignolage à fin d’ajouter des singles et vététiser la trace. Dans ce domaine, il est impossible de battre le mode manuel, parce que nous pouvons alors quitter les sentiers cartographiés pour explorer ceux révélés par la Heatmap.
 
 ![Asphalte](_i/asphalte.png)
+
 ![Singles](_i/Singles.png)
 
 ### Notes sur les statistiques

@@ -16,7 +16,7 @@ Problème, les frais de transaction sont trente fois plus élevés que le prix d
 
 Une femme tombe du trente-septième étage. Des spectateurs impuissants la regardent et se demandent pourquoi. Au fil des regards croisés, on découvre que l’avenir de l’humanité se joue.
 
-Lionel Jeannerat, l’éditeur de [*One Minute*](https://tcrouzet.com/une-minute/?swcfpc=1) a écrit « Ce roman kaléidoscope raconte selon une multitude de points de vue la même minute cruciale, celle qui fait basculer le destin de l’humanité. Chapitre après chapitre, le récit dynamite la notion même de héros, en proposant un nouveau modèle d’héroïsme, collectif et décentralisé. »
+Lionel Jeannerat, l’éditeur de [*One Minute*](../../books/une-minute.md) a écrit « Ce roman kaléidoscope raconte selon une multitude de points de vue la même minute cruciale, celle qui fait basculer le destin de l’humanité. Chapitre après chapitre, le récit dynamite la notion même de héros, en proposant un nouveau modèle d’héroïsme, collectif et décentralisé. »
 
 Dans *La Chute*, nouvelle écrite en 2018 en Floride, je reprends la même forme, à cela prêt que je ne décris qu’une seconde, un instant fugitif.
 
@@ -37,6 +37,5 @@ Résumé de la méthode pour [acheter/revendre la nouvelle sur Isengard](https:/
 1. Créer un wallet qui accepte les eGold, [Majar](https://maiar.com/) par exemple.
 2. Avec [Ramp](https://buy.ramp.network/) ou un autre service, approvisionner le wallet.
 3. Avec le wallet se connecter à [Isengard](https://isengard.market) et procéder à la transaction.
-
 
 #edition #nft #y2021 #2021-12-23-9h42

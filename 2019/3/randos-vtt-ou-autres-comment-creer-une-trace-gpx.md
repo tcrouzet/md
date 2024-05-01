@@ -33,7 +33,9 @@ J’ai pris l’habitude d’archiver ces traces sur Google Map, qui offre la p
 Google Map est loin d’être parfait. On ne peut pas découper des traces ou les joindre. L’effacement des points est laborieux. Impossible de connaître la distance entre deux points, tout comme le dénivelé qui les sépare. Il faut donc recourir à d’autres outils.
 
 ![Land avec carte IGN](_i/trace-land8.webp)
+
 ![baseCamp avec carte IGN](_i/trace-baseIGN.webp)
+
 ![baseCamp carte OSM](_i/trace-baseOSM.webp)
 
 Pour les tâches d’édition, j’utilise le logiciel [baseCamp](http://www.garmin.com/fr-FR/shop/downloads/basecamp) de Garmin, gratuit. Je n’ai jamais testé [QLandkarte GT](http://www.qlandkarte.org), qui ne tourne pas sur mon Mac. Associé aux GPS et applications TwoNav, [Land](https://www.twonav.com/en/software/land) est une sorte de couteau suisse cartographique. Plus puissant et plus souvent mis à jour que baseCamp, il est malheureusement payant dans sa version complète. Comme il est connecté aux principaux sites de partage de traces, je l’utilise quand je défriche des itinéraires en territoires inconnus (on peut faire fa même chose en ligne avec [VTTrack](http://www.vttrack.fr/)).
@@ -45,6 +47,7 @@ Pour le reste, en faisant des allers-retours entre Google Map et baseCamp, je m�
 Sur Google Map, j’apprécie avant tout les calques pour superposer des traces et bien sûr l’accès aux images satellites. Sur baseCamp, j’apprécie la puissance des outils d’édition, la possibilité de charger toute sorte de cartes (IGN, [OpenStreetMap](http://garmin.openstreetmap.nl/), [Opentopomap](https://opentopomap.org)…). Si j’avais les images satellites sur baseCamp ce serait génial, mais encore une fois je n’ai pas envie de payer pour le service BirdsEyes de Garmin. [Quant aux solutions gratuites](https://www.sorcieremonique.com/t23510-visualiser-dans-basecamp-une-image-satellite-avec-une-carte-de-fond-des-courbes-de-niveaux-et-carte-dem), elles me paraissent trop lourdes par rapport à ma méthode import/export entre Google Map et baseCamp.
 
 ![Carte enrichie sur RWGPS](_i/RWGPS.webp)
+
 [![Trace de Trail](_i/trace-trail.webp)](https://tracedetrail.com/fr/user/infos/65893)
 
 Pour analyser une trace, j’ai appris à me méfier de baseCamp. S’il me fournit le kilométrage précis entre deux points, il est plus approximatif pour le dénivelé (en l’état de mes cartes). Je préfère charger mes traces sur [RWGPS](https://ridewithgps.com/), un service de partage de traces doté de nombreux outils d’analyse, même dans sa version gratuite (j’ai un temps utilisé [TraceDeTrail](https://tracedetrail.com) et [ViewRanger](http://www.viewranger.com/fr)). Dans sa version payante, il permet de créer et de partager de belles traces enrichies de points d’intérêt. Aux USA, de nombreux organisateurs de raids utilisent ce service.
@@ -56,9 +59,11 @@ Pour ma part, je fais plus ou moins la même chose avec Google Map. J’ajoute d
 **Astuce** [Komoot](https://www.komoot.com/) est un superbe outil d’analyse de traces, sans doute le plus performant, c’est aussi un très bel outil de tracer, le mieux dessiné, avec possibilité de basculer entre cartes et images satellite. Malheureusement, on ne peut pas y superposer des traces, ce qui nous condamne à suivre les chemins cartographiés (symptôme de cette faiblesse, on ne peut y importer les fichiers KMZ de Google). Je ne l’utilise qu’en phase de finalisation d’un parcours.
 
 ![Komoot Génial pour les stats](_i/Moutain420.webp)
+
 **Astuce** Quand on télécharge baseCamp, aucune carte ne l’accompagne. Si on possède un GPS Garmin connecté à l’ordinateur, baseCamp affichera les cartes disponibles sur le GPS. On peut tromper baseCamp en créant un faux GPS Garmin à l’aide d’une clé USB. Sur cette clé, il suffit de créer un dossier Garmin et d’y stocker les cartes compatibles Garmin. On en trouve un peu partout sur le Net, notamment la [France](http://freizeitkarte-osm.de/garmin/en/france.html), mais aussi [les secteurs de toutes les régions du monde](http://garmin.openstreetmap.nl/).
 
 ![Un Garmin sur USB](_i/garminusb.png)
+
 **Astuce** Pour préparer de longs trajets VTT, par exemple une traversée de la France du Sud pour l’été 2019, je charge dans Google Map les traces qui couvrent les régions que j’aimerais traverser, puis je commence à les interconnecter.
 
 ![Work in progress](_i/wip.webp)
@@ -98,4 +103,4 @@ En solution de secours, quand je suis en France, je télécharge les cartes IGN 
 
 *PS : J’ai publié ce billet en mai 2018, bien avant de commencer ma série [Born to Bike](../../page/borntobike). Je le mets à jour au fur et à mesure de mes découvertes.*
 
-#gps #velo #dialogue #y2019 #2019-3-21-19h33
+#gps #velo #y2019 #2019-3-21-19h33

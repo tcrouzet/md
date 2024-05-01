@@ -19,8 +19,11 @@ VisuGPX m’est alors déjà indispensable. Son module de création de traces pr
 Pour m’en assurer, je zoome sur ces secteurs avec en fond OSM ou IGN et par-dessus la HMap. Quand je la fais disparaître et réapparaître, si je ne perçois guère de différences, cela implique qu’il n’existe pratiquement pas de secteurs VTT/gravel et que tous les cyclistes empruntent les routes (cas de la Beauce) et, inversement, si la carte se colore, j’ai l’assurance de disposer de nombreuses possibilités hors asphaltes (cas chez moi, par exemple).
 
 ![Beauce avec HMap](_i/Beauce1.webp)
+
 ![Beauce sans HMap](_i/Beauce2.webp)
+
 ![Gardiole avec HMap](_i/Gardiole1.webp)
+
 ![Gardiole sans HMap](_i/Gardiole2.webp)
 
 Dans l’hiver, cette technique m’a permis de dénicher un beau secteur VTT à une trentaine de kilomètres de mon terrain de jeu habituel. Je traçais un parcours et j’ai aperçu une suractivité dans un bois. Quand je m’y suis rendu, j’ai découvert un petit coin de paradis pour vététistes. Mes traces tentent d’interconnecter de tels secteurs irrigués par les VTT/gravel. Assez rapidement, j’ai choisi les grandes lignes de mon P27, m’orientant vers l’ouest pour contourner les régions peu inspirantes.
@@ -44,8 +47,11 @@ Commence alors une phase fastidieuse. Je cherche des traces dans les sites de pa
 Commence alors le traçage proprement dit, tronçon par tronçon. Dans un calque Google Map, je rassemble les traces qui concernent le tronçon en cours. J’exporte le calque au format KML, puis le convertis en GPX avec [GPSvisualizer](https://www.gpsvisualizer.com/convert_input), puis l’importe dans VisuGPX. Je modifie alors mon esquisse point après point pour qu’elle suive les traces découvertes ou les secteurs que me révèlent la HMap, mais aussi les images satellites.
 
 ![Visu GPX avec fond OSM](_i/Visu1.webp)
+
 ![Visu GPX avec fond Open Cycle](_i/Visu2.webp)
+
 ![Visu GPX avec fond IGN](_i/Visu3.webp)
+
 ![VisuGPX avec fond Sat et HMap](_i/Visu4.webp)
 
 Les courbes de niveau IGN m’aident à ne pas foncer dans des murs ou des descentes vertigineuses. J’ai toujours un œil sur le profil que VisuGPX peut tracer en temps réel. De même, les images satellites m’aident à deviner les passages les plus sauvages. Je ne cesse de basculer entre les fonds proposés.
@@ -68,8 +74,10 @@ Cette méthode de traçage n’empêche pas les galères, les surprises et les b
 
 Jeroen a créé VisuGPX pour son propre usage, parce que les autres services ne le satisfaisaient pas. Pour tracer, il utilise une autre technique que la mienne. Il applique l’outil routage automatique sur des tronçons très courts, genre 200 m, puis édite les traces quand il veut les faire sortir de la carte. Cette technique est plus rapide, sans laisser une totale autonomie au robot, comme sur la plupart des autres plateformes. À mes yeux, son seul défaut est de produire des traces avec un trop grand nombre de points (ce qui impose alors de les découper pour les rouler, [surtout avec certains Garmin qui plantent quand une trace comporte plus de 8 000 points](../../2021/10/quand-la-trace-perd-des-points-sur-les-gps-garmin.md)). Mais je suis sûr que Jeroen règlera ce défaut en proposant [un système de réduction de points intelligent](http://be4.free.fr/map/GPX_Simplifier/index.htm). Comme il est passionné, il ne cesse d’améliorer son service et reste à l’écoute des utilisateurs.
 
-*PS1 : [OSM ne demande qu’à être améliorée](https://areskidrissa.cc/2022/01/21/openstreetmap-pour-les-cyclistes/), mais malheureusement je ne dispose pas d’assez de temps pour y contribuer. Je suis déjà engagé dans le mouvement open source jusqu’aux oreilles, [en diffusant et entretenant plusieurs traces gratuites et ouvertes](../../../../page/traces-gravel-et-vtt.md), ainsi qu’en diffusant de nombreux textes, ceux de mon blog, mais aussi des livres comme [Le Geste qui sauve](https://tcrouzet.com/le-geste-qui-sauve/?swcfpc=1). Si de votre côté vous avez un peu de temps, n’hésitez pas à enrichir la topographie OSM, les rooteurs n’en seront que plus performant.*
+*PS1 : [OSM ne demande qu’à être améliorée](https://areskidrissa.cc/2022/01/21/openstreetmap-pour-les-cyclistes/), mais malheureusement je ne dispose pas d’assez de temps pour y contribuer. Je suis déjà engagé dans le mouvement open source jusqu’aux oreilles, [en diffusant et entretenant plusieurs traces gratuites et ouvertes](../../../../page/traces-gravel-et-vtt.md), ainsi qu’en diffusant de nombreux textes, ceux de mon blog, mais aussi des livres comme [Le Geste qui sauve](../../books/geste1/le-geste-qui-sauve.md). Si de votre côté vous avez un peu de temps, n’hésitez pas à enrichir la topographie OSM, les rooteurs n’en seront que plus performant.*
+
 *PS2 : [Nakarte](https://nakarte.me/) offre aussi une HMap, cette fois à l’échelle mondiale. Mais je trouve ce service moins avancé pour l’édition que VisuGPX. De même [gpx.studio](https://gpx.studio/l/fr/), [un projet open source d’origine francophone](https://github.com/gpxstudio/gpxstudio.github.io), mais, lui aussi, moins avancé que VisuGPX.*
+
 *PS3 : Non, Komoot ne permet pas de faire la même chose que VisuGPX quand on trace VTT, ou même gravel, et qu’on aime sortir des sentiers battus par la cartographie OSM : pas de HMap, pas de carte topo IGN, interface de traçage beaucoup plus contraignante, sauf quand on fait confiance au robot sur de longues distances (ce qui ne garantit pas d’éviter les secteurs inroulables ou les nationales). Komoot, c’est l’équivalant de la pizza décongelée, avec un peu d’huile pimentée.*
 
 #gps #velo #y2022 #2022-5-25-14h51

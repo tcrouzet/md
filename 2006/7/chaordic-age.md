@@ -1,6 +1,6 @@
 # Chaordic Age
 
-Comme me l’a suggéré [Freddy Mallet](../6/rponse-un-lecteur/#comment-30.md), je viens de commencer la lecture de [*Birth of the Chaordic Age*](http://www.amazon.fr/gp/product/1576750744/402-5334915-1934535?v=glance&n=52042011) de Dee Hock, fondateur de VISA. Je m’en veux de ne pas avoir lu ce livre l’année dernière lorsque j’écrivais *Le peuple des connecteurs*. J’y aurais trouvé des dizaines d’exemples d’auto-organisation dans le business. Le livre commence par deux définitions.
+Comme me l’a suggéré Freddy Mallet, je viens de commencer la lecture de [*Birth of the Chaordic Age*](http://www.amazon.fr/gp/product/1576750744/402-5334915-1934535?v=glance&n=52042011) de Dee Hock, fondateur de VISA. Je m’en veux de ne pas avoir lu ce livre l’année dernière lorsque j’écrivais *Le peuple des connecteurs*. J’y aurais trouvé des dizaines d’exemples d’auto-organisation dans le business. Le livre commence par deux définitions.
 
 > **Chaord** 1. N’importe quel système auto-organisé, autocontrôlé, adaptatif, non linéaire, qu’il soit un organisme, une organisation ou une communauté, qu’il soit physique, biologique ou social, qui montre simultanément des comportements ordonnés et chaotiques. 2. Entité dont le comportement montre des propriétés qui ne sont pas gouvernées et expliquées par les règles qui gouvernent et expliquent ses parties.
 

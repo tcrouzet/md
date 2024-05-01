@@ -34,4 +34,4 @@ Il n’existe qu’une solution pour défendre la liberté d’expression et la 
 
 *PS : [Ploum](https://www.ploum.net/) dont la réflexion sur le sujet alimente la mienne m’a pointé [vers un projet qui permet de monter un Torrent comme une partition disque](https://github.com/johang/btfs). Voilà une idée magnifique. Je pourrais créer une version torrent de mon blog et vous pourriez y accéder localement. Vous pouvez d’ailleurs cloner sur votre disque [le GitHub du blog](https://github.com/tcrouzet/blog) et le naviguer en local.*
 
-#cuisine #y2024 #2024-4-17-19h34
+#cuisine #obsidian #y2024 #2024-4-17-19h34

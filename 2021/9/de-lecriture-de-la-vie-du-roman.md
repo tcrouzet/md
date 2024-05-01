@@ -3,15 +3,16 @@
 ![One Minute - T4](_i/oneminute4.webp)
 
 Je réponds aux questions de Lionel Jeannerat, l’éditeur de *[One Minute](../../../../page/une-minute.md)* chez PVH Éditions, et reviens sur les mécanismes du processus créateur.
+
 *— Quelle place occupe l’écriture dans ta vie ?*
 
 — Tu aurais dû me demander quelle place il reste à ma vie hors de l’écriture, parce que j’ai centré ma vie autour d’elle. Je vis en écrivant, je perçois en écrivant, j’aime en écrivant. Si on m’empêchait d’écrire, je serais aveugle.
 
 *— Comment t’est venue l’idée de*One Minute*?*
 
-— Si je savais te dire comment, je pourrais reproduire ce comment et générer des idées à tour de bras. En fait, j’ai ma petite méthode. J’écris tous les jours, au minimum dans mon journal et les mots parfois engendrent des idées, en apparence venues de nulle part. La plupart, je les oublie, mais certaines reviennent taper à la porte et je finis par en faire quelque chose. L’idée d’écrire et récrire un grand nombre de fois la même situation m’est venue en 2011 quand je travaillais à [*J’ai d’ébranché*](https://tcrouzet.com/jai-debranche/?swcfpc=1). Je l’ai même résumée dans ce livre.
+— Si je savais te dire comment, je pourrais reproduire ce comment et générer des idées à tour de bras. En fait, j’ai ma petite méthode. J’écris tous les jours, au minimum dans mon journal et les mots parfois engendrent des idées, en apparence venues de nulle part. La plupart, je les oublie, mais certaines reviennent taper à la porte et je finis par en faire quelque chose. L’idée d’écrire et récrire un grand nombre de fois la même situation m’est venue en 2011 quand je travaillais à [*J’ai d’ébranché*](../../books/jai-debranche/jai-debranche.md). Je l’ai même résumée dans ce livre.
 
-Cette idée formelle ne vient pas de mars. Depuis [*Le Peuple des connecteurs*](https://tcrouzet.com/le-peuple-des-connecteurs/?swcfpc=1), je défends un modèle de société horizontal, décentralisé, le seul selon moi capable de nous aider à combattre les crises globales qui se caractérisent par un haut de degrés de complexité. Je ne crois plus en la possibilité d’un sauveur, d’un grand homme, d’un héros, encore moins d’un petit livre rouge.
+Cette idée formelle ne vient pas de mars. Depuis [*Le Peuple des connecteurs*](../../books/le-peuple/le-peuple-des-connecteurs.md), je défends un modèle de société horizontal, décentralisé, le seul selon moi capable de nous aider à combattre les crises globales qui se caractérisent par un haut de degrés de complexité. Je ne crois plus en la possibilité d’un sauveur, d’un grand homme, d’un héros, encore moins d’un petit livre rouge.
 
 Au contraire, je crois que chacun de nous a son rôle à jouer. Or, beaucoup de fictions continuent de célébrer le héros ou l’héroïne qui sauve le monde. Dans la fantaisy ou la SF, c’est souvent même plus caricatural, avec la mise en scène presque systématique de sociétés pyramidales hypercentralisées (avec des princes, des rois, des élus…). Donc, plutôt qu’un roman avec une poignée de personnages entre lesquels on bascule de chapitre en chapitre, forme éculée du roman de genre, j’ai décidé de démultiplier les points de vue, dans le but de dynamiter la notion même de héros (mais pas celle d’héroïsme).
 

@@ -8,7 +8,7 @@ En Méditerranée, il a fallu établir des quotas pour stopper la tragédie des 
 
 Suite à [mon premier billet sur l’abondance](labondance-est-elle-un-probleme.md), Michèle Turbin a écrit sur Facebook :
 
-> Si pour nous ce qui est rare a plus de valeur, alors on se fiche de ce qui nous semble abondant. L’air et l’eau, par exemple. Jusqu’à les épuiser et les rendre rares. Donc chers.
+>Si pour nous ce qui est rare a plus de valeur, alors on se fiche de ce qui nous semble abondant. L’air et l’eau, par exemple. Jusqu’à les épuiser et les rendre rares. Donc chers.
 
 Je suis bien d’accord, sauf que le « Si » n’est pas nécessaire. Pour nous, tout au moins la plupart d’entre nous, et notamment les collectionneurs, ce qui est rare a plus de valeur que ce qui est abondant, ce qui en effet implique du mépris, de la négligence ou de l’indifférence vis-à-vis des ressources abondantes, attitude critique quand notre survie en tant qu’espèce et notre survie culturelle dépendent de ces ressources abondantes.
 
@@ -18,7 +18,7 @@ Dans l’espace numérique, le problème n’est différent qu’en apparence (e
 
 Sur Twitter, [Calimaq écrit](https://twitter.com/Calimaq/status/946306487172976640) :
 
-> […] maintenir une rareté des textes implique de maintenir artificiellement une rareté des auteurs dans la société, ce qui ne peut se faire que par une oppression culturelle et soulève un grave problème de justice sociale...
+>[…] maintenir une rareté des textes implique de maintenir artificiellement une rareté des auteurs dans la société, ce qui ne peut se faire que par une oppression culturelle et soulève un grave problème de justice sociale…
 
 Je suis désolé [si j’ai pu laisser entendre que j’étais pour la raréfaction des textes des auteurs en général](labondance-est-elle-un-probleme.md), et, de fait, de leur raréfaction. Étant moi-même un auteur, si j’étais pour leur raréfaction, je devrais immédiatement cesser de publier. Je ne suis pour la raréfaction de quoi que ce soit, j’attire juste l’attention sur les problèmes engendrés par l’abondance (pour les poissons, les quotas ont raréfié la ressource pour lui donner le temps de se reconstituer).
 
@@ -47,7 +47,9 @@ Et quand du côté des lecteurs, elle implique plus que jamais le recours à des
 À ce stade de ma réflexion, militer pour l’abondance ne me paraît ni sage ni nécessaire. Plus l’abondance se développe, plus se développe le [capitalisme cognitif](#capitalisme-cognitif).
 
 *PS1 : Je ne vois aucune contradiction à être pour l’abondance (puisque potentiellement elle implique la diversité) et en déplorer les effets néfastes (il existe toujours des effets néfastes). Une image. On peut être pour la bonne bouffe tout en sachant qu’elle nuit à la santé. Il me paraît au contraire important d’identifier les effets négatifs (comme le font les médecins avec n’importe quel médicament).*
+
 *PS2 : L’air et l’eau sont abondants, mais chacun de nous ne peut les goûter que brièvement parce que notre temps est compté. Toute ressource abondante possède son revers dans la rareté, et donc est tout aussi précieuse que si elle était rare.*
+
 *PS3 : Je conclus par l’image d’un moment rare et, pour moi, précieux. J’en fais des photos en abondance, sans ne rien enlever à la rareté du moment.*
 
 #netculture #dialogue #y2017 #2017-12-28-16h44

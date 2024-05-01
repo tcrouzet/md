@@ -36,6 +36,4 @@ Si les choses restent floues dans l’esprit des militants, si la confusion volo
 
 [caption id="attachment\_37725" align="aligncenter" width="600"]![La base, c’est un chemin.](_i/base.webp) La base, c’est un chemin.[/caption]
 
-
-
 #mrdb #revenu_de_base #coup_de_gueule #y2014 #2014-10-25-11h4

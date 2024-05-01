@@ -2,7 +2,7 @@
 
 ![](_i/4116736338_164cbc5e441.webp)
 
-L’idéal démocratique ne s’accomplira que si nous envisageons tous les modes possibles d’organisation de la société, et non seulement le modèle pyramidal qui implique la représentation de type monarchiste. Certains secteurs de la société ont peut-être besoin de pyramidal, d’autres non. Seulement, faudrait-il accepter les autres possibilités ! [Nadia vient de me faire repenser à ces questions par ses questions.](../../2006/2/mais-qui-sont-les-connecteurs/#comment-74427.md)
+L’idéal démocratique ne s’accomplira que si nous envisageons tous les modes possibles d’organisation de la société, et non seulement le modèle pyramidal qui implique la représentation de type monarchiste. Certains secteurs de la société ont peut-être besoin de pyramidal, d’autres non. Seulement, faudrait-il accepter les autres possibilités ! [Nadia vient de me faire repenser à ces questions par ses questions.](../../2006/2/mais-qui-sont-les-connecteurs.md)
 
 ### Qu’est-ce que l’auto-organisation ?
 
@@ -42,7 +42,7 @@ L’auto-organisation en elle-même ne garantit ni la liberté, ni l’égalité
 
 Dans la quatrième partie de mon *[Alternative nomade](../../books/alternative-nomade.md)*, je montre que la liberté et la fraternité sont consubstantielles. Plus nous nous lions, plus nous accroissons notre liberté, ce qui est la seule stratégie de survie dans un monde qui se complexifie.
 
-La complexité du monde nous pousse à adopter l’auto-organisation, une auto-organisation qui maximise la liberté et la fraternité (ce qui ne serait pas le cas si la complexité n’était pas extrême). Pour le même prix, nous avons la liberté, la fraternité et la complexité... ou la catastrophe.
+La complexité du monde nous pousse à adopter l’auto-organisation, une auto-organisation qui maximise la liberté et la fraternité (ce qui ne serait pas le cas si la complexité n’était pas extrême). Pour le même prix, nous avons la liberté, la fraternité et la complexité… ou la catastrophe.
 
 Reste l’égalité, l’égalité en droit bien sûr. Je ne pense pas qu’une forme d’organisation puisse intégrer en elle-même cette idée, justement parce que c’est une idée qui a émergé assez tardivement.
 

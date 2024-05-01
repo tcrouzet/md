@@ -3,6 +3,7 @@
 ![](_i/add.webp)
 
 Quand on parle d’happening en art, on pense à un mouvement qui débute avec l’urinoir de Marcel Duchamp et se ramifie depuis avec l’art conceptuel, les installations, les performances. Trois choses me paraissent importantes dans cette aventure esthétique :
+
 1. L’idée de l’œuvre importe plus que l’œuvre.
 2. Souvent l’œuvre n’existe que le temps de sa représentation et seuls des enregistrements ou des vestiges en témoignent par la suite.
 3. Le public peut parfois interagir durant la performance et participer à l’œuvre.
@@ -11,7 +12,7 @@ Quand on parle d’happening en art, on pense à un mouvement qui débute avec l
 
 Je suis tombé dans ce creuset par hasard et sans conscience en 1983 quand j’ai commencé le jeu de rôle. Voici une situation de jeu typique :
 
-> Un vieux magicien, assez secret, vous a demandé d’escorter un sarcophage géant jusqu’à une ville portuaire. Deux licornes le tractent, conduites par deux charretiers au service du magicien. Vous avez pris la route depuis trois jours et chaque nuit vous avez l’impression d’entendre des raclements en provenance du sarcophage. Le soleil vient de se coucher, vous venez d’établir votre campement à la lisière d’une forêt.
+>Un vieux magicien, assez secret, vous a demandé d’escorter un sarcophage géant jusqu’à une ville portuaire. Deux licornes le tractent, conduites par deux charretiers au service du magicien. Vous avez pris la route depuis trois jours et chaque nuit vous avez l’impression d’entendre des raclements en provenance du sarcophage. Le soleil vient de se coucher, vous venez d’établir votre campement à la lisière d’une forêt.
 
 Imaginez-vous à la place des aventuriers. Que faites-vous ? Soulevez-vous le catafalque qui enveloppe le sarcophage bien que le magicien vous l’ait défendu. Tentez-vous d’ouvrir le sarcophage ? L’aventure ne se poursuivra qu’en fonction de vos réactions.
 
@@ -53,7 +54,7 @@ J’ai résumé cette expérience dans *[La stratégie du cyborg](../../page/la-
 
 Dans *[L’alternative nomade](../../books/alternative-nomade.md)*, je démontre que plus nous créons de liens entre nous, plus nous nous libérons (parce qu’en augmentant la complexité nous rendons de plus en plus difficiles le contrôle et la coercition).
 
-> Si L=Liberté et l=nombre de liens, alors L=f(l)
+>Si L=Liberté et l=nombre de liens, alors L=f(l)
 
 Nous complexifions en créant un flux d’informations de plus en plus dense et actif (nous devenons des propulseurs, [Marcello Vitali Rosati](http://vitalirosati.com/) dirait des éditorialistes).
 
@@ -67,7 +68,7 @@ Cet idéal n’est accessible que grâce à la plasticité procurée par l’ét
 
 Dans le flux d’informations, les bits remplacent les molécules d’eau dans la rivière. En physique, la température, donnée macroscopique, mesure l’agitation microscopique des atomes. La pression n’est autre qu’une force extérieure appliquée à une structure, avec pour effet de rapprocher ou d’éloigner les atomes. Température et pression liées par la célèbre formule :
 
-> PV=nRt
+>PV=nRt
 
 Quand nous parlons, les liaisons entre les informations circulant de bouche à oreille s’effilochent très vite dans le temps (la pression est faible). Les mots traversent nos esprits et ne s’y fixent qu’imparfaitement. Nous sommes dans une situation comparable à l’état gazeux. En revanche, quand nous écrivons, les liaisons sont fixes (la pression est forte). Nous nous retrouvons avec un état solide de l’information. Dans le flux, les liaisons sont innombrables, mais plastiques, souples, provisoires, nous aurions donc l’équivalent d’un état liquide.
 
@@ -75,7 +76,7 @@ McLuhan nous a habitués à parler de la température de l’information : un s
 
 Nous nous retrouvons donc avec une pression informationnelle proportionnelle à la quantité de liens et une température informationnelle proportionnelle au débit dans le flux, ou tout au moins dans une région du flux. Ainsi à quantité de liens équivalente, un livre papier est moins mobile qu’un livre électronique, et une information purement papier aurait une température plus faible qu’une autre numérique et disponible en open source sur le Net. On peut donc supposer l’existence d’une loi du type :
 
-> PV=f(t) avec P=f(l), V (quantité d’information exprimée en bit) et t=f(débit)
+>PV=f(t) avec P=f(l), V (quantité d’information exprimée en bit) et t=f(débit)
 
 On est bien sûr dans un jeu intellectuel, mais sans doute pas dénué de fondements physiques (il faudrait développer la modélisation mathématique). En tout cas, si une telle loi existe, elle implique un diagramme des phases.
 
@@ -109,7 +110,7 @@ Tout paraît clair, sauf qu’au bout d’une semaine il ne s’est rien passé.
 
 D’habitude, je ne m’intéresse pas aux statistiques quand j’écris.
 
-1. Mes [*Carnets de route*](../../2015/9/carnet-de-route-aout-2015.md) et mes [*Vagabondages*](../../2014/11/le-je-lappareil-photo-et-limprimante/1.md) suffisent à mon bonheur. Je les partage en ligne avec une centaine de lecteurs et pour rien au monde je ne renoncerais à cet exercice. Dans ces textes, je n’interagis pas avec les lecteurs, mais avec la totalité du monde.
+1. Mes [*Carnets de route*](../../2015/9/carnet-de-route-aout-2015.md) et mes [*Vagabondages*](../../2014/11/le-je-lappareil-photo-et-limprimante.md) suffisent à mon bonheur. Je les partage en ligne avec une centaine de lecteurs et pour rien au monde je ne renoncerais à cet exercice. Dans ces textes, je n’interagis pas avec les lecteurs, mais avec la totalité du monde.
 2. De même pour mes billets de blog. Ils jaillissent de coups de sang, de rencontres, d’interactions. C’est une écriture coup de poing, rapide, directe, qui après coagulation peut donner des essais. C’est une écriture spontanée. J’expulse ces textes pour ne pas qu’ils m’étouffent. Paradoxalement, ils sont souvent plus lus que mes autres textes. Mais c’est sans importance. Je dois avant tout me libérer de leur poids.
 3. Mes textes romanesques, toujours expérimentaux d’une certaine façon. Pour *One Minute*, je n’avais pas l’espoir de séduire les foules. Pour *Résistants*, c’est une forme de contrainte, sans garantie de réussite, mais qui en elle même est expérimentation pour moi qui ne suis pas un auteur populaire, et j’ai donc une exigence de résultat, d’où mon regard attentif aux chiffres.
 

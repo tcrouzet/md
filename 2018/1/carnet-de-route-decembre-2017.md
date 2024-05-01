@@ -39,6 +39,7 @@ J’ai décidé de faire un dump de mon blog, sans la moindre édition. J’avai
 ### Jeudi 7, Balaruc
 
 ![Soir](_i/20171207-1.webp)
+
 ![Sète](_i/20171207-2.webp)
 
 ### Vendredi 8, Balaruc
@@ -76,7 +77,9 @@ Nouvelle mode : les écrivains se lancent des défis, genre « Cette année je
 Une équation à résoudre : un auteur et des lecteurs avec leur mobile, comment ensemble peuvent-ils créer une histoire ? Cette remarque parce que [*Lifeline*](https://www.bigfishgames.com/daily/3mingames/lifeline/) ne me satisfait pas.
 
 ![Soir](_i/20171213-2.webp)
+
 ![Soir](_i/20171213-4.webp)
+
 ![Soir](_i/20171213-5.webp)
 
 ### Jeudi 14, Balaruc
@@ -112,10 +115,15 @@ Je ne n’ai pas envie d’écrire. Je n’en éprouve aucune nécessité. C’e
 Je suis donc parti à Montpellier. En moins de 30 minutes, mon application avait séché la batterie de mon iPhone. Je passe l’après-midi à optimiser le code. Alors que je rentre de Sète où j’ai récupéré Émile à la sortie de l’école, un coucher de soleil cuivré recouvre l’étang et dentelle les Pyrénées.
 
 ![Soir](_i/20171219-2.webp)
+
 ![Soir](_i/20171219-3.webp)
+
 ![Aviron](_i/20171219-4.webp)
+
 ![Aviron](_i/20171219-5.webp)
+
 ![Soir](_i/20171219-6.webp)
+
 ![Cuivre](_i/20171219-7.webp)
 
 ### Mercredi 20, Balaruc

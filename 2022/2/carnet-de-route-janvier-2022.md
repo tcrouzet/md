@@ -39,6 +39,7 @@ Un copain cycliste qui termine médecine me dit qu’il n’a plus d’ordinateu
 Peut-être parce que ma trachéite est devenue monstrueuse et m’empêche de penser clairement, je me suis soudainement décidé à publier mes meilleurs couchers de soleil sous la forme d’une série [One sunset a day](https://tcrouzet.com/one-sunset-a-day). Comme toujours, je ne m’intéresse pas à une photo en particulier, mais à l’ensemble.
 
 ![Soir](_i/IMG_5211.webp)
+
 ![Soir](_i/IMG_5216.webp)
 
 ### Mercredi 5, Balaruc
@@ -70,7 +71,9 @@ Un photographe professionnel me dit qu’il n’a jamais appris à faire de bonn
 Ma nouvelle est désormais en vente à 80 $. L’histoire ne peut que s’arrêter là. Personne n’a eu la curiosité de faire ne serait-ce qu’un petit commentaire sur le texte lui-même. Il est plus facile d’obtenir des réactions en étant provocateur sur les réseaux sociaux. Au moins, j’ai discuté avec des passionnés NFT, nous avons appris ensemble.
 
 ![La plage](_i/IMG_5245.webp)
+
 ![Maguelone](_i/IMG_5260.webp)
+
 ![Vic](_i/IMG_5261.webp)
 
 ### Samedi 8, Balaruc
@@ -86,13 +89,17 @@ Désagréable de se faire traiter de vieux, ou de plus très jeune, ce qui est u
 Mes amis qui lancent l’année prochaine une maison d’édition aimeraient que je leur écrive *2222*.
 
 ![Soir](_i/IMG_5279.webp)
+
 ![Soir](_i/IMG_5296.webp)
 
 ### Dimanche 9, Balaruc
 
 ![Mèze, à vélo](_i/IMG_5306.webp)
+
 ![Bouzigues](_i/IMG_5335.webp)
+
 ![Bouzigues](_i/IMG_5345.webp)
+
 ![Bouzigues](_i/IMG_5317-1.webp)
 
 ### Lundi 10, Balaruc
@@ -123,14 +130,16 @@ Je dessine des généalogies pour mon projet 2222. J’entrevois des possibilit�
 
 ### Mercredi 12, Balaruc
 
-Dans mon autobiographie, j’ai écrit qu’avec les livres, et notamment les romans, nous avions inventé le voyage à travers le temps et l’espace. Les récits de science- fiction ne seraient qu’une métaphore de la lecture. Pourquoi ne pas écrire un récit de science-fiction sur la lecture ? Où le lecteur voyagerait dans d’autres mondes en lisant. Les livres seraient des portails. Jasper Fforde a joué avec une idée parallèle dans sa série [Thursday Next](https://fr.wikipedia.org/wiki/Thursday_Next). Seuls les livres papiers, et reliés avec soin et art, auraient le pouvoir d’ouvrir des portes.
+Dans mon autobiographie, j’ai écrit qu’avec les livres, et notamment les romans, nous avions inventé le voyage à travers le temps et l’espace. Les récits de sciencefiction ne seraient qu’une métaphore de la lecture. Pourquoi ne pas écrire un récit de science-fiction sur la lecture ? Où le lecteur voyagerait dans d’autres mondes en lisant. Les livres seraient des portails. Jasper Fforde a joué avec une idée parallèle dans sa série [Thursday Next](https://fr.wikipedia.org/wiki/Thursday_Next). Seuls les livres papiers, et reliés avec soin et art, auraient le pouvoir d’ouvrir des portes.
 
 ---
 
 Après-midi lumineuse sur nos vélos, à pousser vers les villages lointains où nous n’allons jamais à VTT, découverte de collines joyeuses, décors improbables, un plateau d’un vert irlandais où s’étale un aérodrome, puis une ancienne carrière dans laquelle nous avons dévalé en poussant des cris de joie. Dans les ruelles d’une bourgade, nous nous arrêtons même pour savoir où nous nous trouvons, perdus sur notre trace et nos coups de pédales.
 
 ![Saint-Paul-de-Mauchien](_i/IMG_5374.webp)
+
 ![Campagnan](_i/IMG_5379.webp)
+
 ![Paulhan](_i/IMG_5382-1.webp)
 
 ### Jeudi 13, Balaruc
@@ -166,7 +175,9 @@ Mon journal a de plus en plus une coloration négative parce que quand je m’im
 Pierre n’aime pas mon petit roman sur le vélo. Je me sens mieux maintenant que je connais son avis. Il m’a donné l’idée de l’intituler *Le misanthrope à vélo*.
 
 ![Matin](_i/P1110298.webp)
+
 ![Matin](_i/P1110310.webp)
+
 ![Port](_i/IMG_5397.webp)
 
 ### Vendredi 14, Balaruc
@@ -174,10 +185,15 @@ Pierre n’aime pas mon petit roman sur le vélo. Je me sens mieux maintenant qu
 Pourquoi ne pas écrire la suite de *Mon père, ce tueur*, creuser ce mode narratif ?
 
 ![Or du soir](_i/P1110329.webp)
+
 ![Or du soir](_i/P1110350.webp)
+
 ![Pastel](_i/P1110353.webp)
+
 ![Gabian](_i/P1110363.webp)
+
 ![Port](_i/P1110375.webp)
+
 ![Phénix](_i/P1110379-1.webp)
 
 ### Lundi 17, Balaruc
@@ -203,6 +219,7 @@ Dès que je lis des romans, je m’endors, même quand je les trouve plutôt bon
 Je lis quelques pages du dernier Houellebecq. Il sait raconter, créer son climat, mais cette fois sans cynisme, comme un auteur de thriller, avec un peu plus de tenue tout de même, sauf qu’il n’est plus dans la modernité, utilise pour un récit qui se situe dans le futur proche, une dizaine d’années, des mots déjà datés pour les techos d’aujourd’hui. Je m’étais déjà fait la même réflexion au sujet de *La carte et le territoire* alors qu’il aurait dû parler de topologie réseau à la place. Houellebecq est célébré comme l’auteur de l’ultracontemporain, celui qui saisit le mieux l’époque, mais de mon point de vue il saisit l’époque à la mode, celle dans le viseur des médias grand public. La modernité encore enfouie lui échappe souvent. À parler de techno dans un roman aujourd’hui, il faut être dans les cryptos, les architectures décentralisées, incontrôlables et incontrôlées, les algorithmes quantiques et les moteurs neuraux. Demain, ce sera autre chose. Très casse-gueule ces sujets qui se périment à la vitesse des yaourts.
 
 ![Pyrénées](_i/P1110405.webp)
+
 ![Soir](_i/P1120008.webp)
 
 ### Mercredi 19, Balaruc
@@ -236,6 +253,7 @@ Virginia Woolf remarque qu’elle n’écrit son journal que dans une humeur par
 J’en suis dans la phase où j’ai une idée qui demande à sortir, je la devine, en ressens la texture, je gratte la terre, écrit des phrases désordonnées, peut-être qu’elle deviendra quelque chose ou pas. Je crois davantage à ce processus créatif qu’à celui qui s’impose tout entier et qui ne demande qu’à être exécuté pour finir par s’épuiser trop vite.
 
 ![Bélarga](_i/IMG_5488.webp)
+
 ![Nizas](_i/IMG_5507.webp)
 
 ### Lundi 24, Balaruc
@@ -269,6 +287,7 @@ Est-ce un avant-goût de sénilité ? Je vais retirer de l’argent dans un dis
 Je commence à gratter à la porte d’un texte qui pourrait prendre des proportions énormes, pas une petite fable douce et limpide et sans conséquence, écrite vite, mais au contraire un machin épais, lourd, indigeste, à faire peur.
 
 ![Sète](_i/IMG_5546.webp)
+
 ![Soir](_i/IMG_5556.webp)
 
 ### Vendredi 28, Balaruc
@@ -316,7 +335,9 @@ Je pourrais intitulé mon roman sur le vélo *Vers*, et la couverture serait ver
 Mon projet *[One sunset a day](../../../../page/one-sunset-a-day.md)* commence à prendre forme en même temps que les images s’accumulent. Le montage final pourrait être générée dynamiquement à chaque visualisation.
 
 ![Mistral](_i/IMG_5579.webp)
+
 ![Soir](_i/P1120034.webp)
+
 ![30 sunsets](_i/30sunsets.webp)
 
 #carnets #y2022 #2022-2-1-15h37

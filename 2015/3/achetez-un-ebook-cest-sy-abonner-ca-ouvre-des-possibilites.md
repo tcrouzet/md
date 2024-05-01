@@ -16,10 +16,6 @@ Pour publier un nouvel ebook, il faut un nouveau code ISBN, de nouveaux méta-ta
 6. Le lecteur peut choisir de lire mon roman à son rythme sur sa liseuse ou son application de lecture préférée.
 7. Le roman s’allonge chez le lecteur en même temps qu’il s’écrit chez moi.
 
-Cette tactique peut être employée par les feuilletonistes, mais aussi par les blogueurs. Il n’existe plus une façon unique de diffuser ses textes. Ainsi je publie *Une minute* sur le [blog](../1/versailles-france-2145.md), sur [Wattpad](http://www.wattpad.com/story/29694130-1-minute), en [librairie](http://blog.tcrouzet.com/une-minute/?lib=1#lib), par [mail](../../page/abonnement-par-mail)… Je réfléchis à des modes de dissémination de mes billets encore plus large. Définitivement, mon blog n’est plus que ma fusée de lancement.
+Cette tactique peut être employée par les feuilletonistes, mais aussi par les blogueurs. Il n’existe plus une façon unique de diffuser ses textes. Ainsi je publie *Une minute* sur le blog, sur [Wattpad](http://www.wattpad.com/story/29694130-1-minute), en [librairie](../../books/une-minute.md), par [mail](../../page/abonnement-par-mail)… Je réfléchis à des modes de dissémination de mes billets encore plus large. Définitivement, mon blog n’est plus que ma fusée de lancement.
 
-[caption id="attachment\_40035" align="aligncenter" width="600"][![Une minute sur Amazon dispo chez vous en moins d’une imnute!](_i/1minamz.webp)](http://www.amazon.fr/dp/B00T0QDBS8) Une minute sur Amazon dispo chez vous en moins d’une imnute![/caption]
-
-
-
-#edition #dialogue #y2015 #2015-3-17-12h45
+#edition #y2015 #2015-3-17-12h45

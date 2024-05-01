@@ -3,7 +3,9 @@
 ![La chaîne des Puys](_i/IMG_8185.webp)
 
 Le voyage appelle le voyage. En juillet 2021, [alors que je montais à Paris depuis Sète pour redescendre en intercité vers Avallon avant d’attaquer la GTMC](../../2021/7/la-gtmc-des-bijoux-a-travers-les-cailloux.md), je me suis dit que cette dernière étape ferroviaire n’avait aucun sens. Je me suis promis en 2022 de partir directement de Paris pour un périple qui me ramènerait chez moi. J’ai vite constaté qu’il n’existait aucune trace VTT filant vers la Méditerranée depuis la capitale et [j’ai passé des dizaines d’heures](../5/visugpx-a-revolutionne-ma-technique-de-tracage.md), sans doute pas loin de deux cents, à en créer une, avec la peur que le passage de la théorie à la pratique soit pour le moins hasardeux, surtout dans les régions où les traces en partage sont rares, voire inexistantes.
+
 [Trace mise à jour après le voyage et infos diverses…](../../../../page/p27.md)
+
 ![Trace du P27](_i/p27map.webp)
 
 ### Lundi 4 juillet
@@ -33,16 +35,27 @@ Après Chartres, les singles se font plus rares, mais nous empruntons le plus cl
 Nous longeons des cours d’eau, des lacs, nous arrêtons à Courville-sur-Eure pour nous ravitailler, puis, à Saint-Éliph, Jean-Marc nous quitte et s’en va récupérer un train direction Paris à la hauteur de La Loupe. Nous ne sommes plus que trois et entrons dans le Perche, qui porte bien son nom, car après la plaine vallonnée de la Beauce, nous grimpons des raidillons meurtriers. Il se fait tard et nous accélérons pour arriver à Nogent-le-Rotrou avant la fermeture du dernier restaurant. Nous bivouaquons peu après la sortie de la ville, à l’entrée d’un champ de blé.
 
 [Nous avons parcouru 150 km, escaladé 1 200 m.](https://www.strava.com/activities/7421198467)
+
 ![Après le premier bivouac](_i/IMG_7824.webp)
+
 ![Vallée de l’Eure](_i/IMG_7830.webp)
+
 ![Vallée de l’Eure](_i/IMG_7835.webp)
+
 ![Vallée de l’Eure](_i/IMG_7837.webp)
+
 ![Chartres](_i/IMG_7844.webp)
+
 ![Chartres](_i/IMG_7846.webp)
+
 ![Chartres](_i/IMG_7852.webp)
+
 ![Beauce](_i/IMG_7855.webp)
+
 ![Beauce](_i/IMG_7868.webp)
+
 ![Beauce](_i/IMG_7874.webp)
+
 ![Perche](_i/IMG_7896.webp)
 
 ### Mercredi 6 juillet
@@ -58,15 +71,25 @@ Comme Logane ne cesse de crever, nous avons l’idée de commander une paire de 
 Nous suivons un moment le cours de La Brenne, empruntons une ancienne voie ferrée, retrouvons des champs, avant d’atterrir au camping de Château-Renault, où une bonne douche et un lessivage de dos affaires ne nous fait pas de mal. Je tente autant que possible de faire abstraction de la nationale qui passe non loin, et me demande à quoi pensent les urbanistes qui construisent des campings près de zones aussi bruyantes. D’une manière générale, je préfère le camping sauvage, toujours plus calme, mais nous devons de temps à autre nous plier à quelques haltes sanitaires.
 
 [Nous avons parcouru 117 km, escaladé près de 1 400 m.](https://www.strava.com/activities/7426016731)
+
 ![](_i/IMG_7904.webp)
+
 ![Entre forêts et champs](_i/IMG_7907.webp)
+
 ![Entre forêts et champs](_i/IMG_7909.webp)
+
 ![Entre forêts et champs](_i/IMG_7911.webp)
+
 ![Entre forêts et champs](_i/IMG_7914.webp)
+
 ![Entre forêts et champs](_i/IMG_7919.webp)
+
 ![Entre forêts et champs](_i/IMG_7924.webp)
+
 ![Entre forêts et champs](_i/IMG_7927.webp)
+
 ![Entre forêts et champs](_i/IMG_7931.webp)
+
 ![Entre forêts et champs](_i/IMG_7941.webp)
 
 ### Jeudi 7 juillet
@@ -82,21 +105,37 @@ Nous entrons dans une vaste forêt trouée de pistes rectilignes, où nous ne po
 Pendant que Logane s’en va récupérer ses nouveaux pneus, nous nous installons sur la rive sud du Cher, face au château, où je me paye une petite sieste. Nous reprenons ensuite notre progression, rejoignant une nouvelle région agraire, où nous voyons poindre les premiers champs de tournesol. À l’approche du soir, nous ne trouvons pas de point de ravitaillement et finissons par nous coucher dans un chemin herbeux entre deux champs de blé. Au loin des chiens hurlent, ce qui a le don d’agacer Jacques, qui n’apprécie pas la gent canine, au comportement caricatural dès que nos roues approchent.
 
 [Nous avons parcouru 120 km, escaladé près de 1 300 m.](https://www.strava.com/activities/7431623550)
+
 ![Dans les champs](_i/IMG_7947.webp)
+
 ![Amboise](_i/IMG_7948.webp)
+
 ![Amboise](_i/IMG_7954.webp)
+
 ![Forêt d’Amboise](_i/IMG_7961.webp)
+
 ![Chenonceau](_i/IMG_7964.webp)
+
 ![Chenonceau](_i/IMG_7965.webp)
+
 ![Chenonceau](_i/IMG_7973.webp)
+
 ![Montrésor](_i/IMG_7985.webp)
+
 ![Montrésor](_i/IMG_7987.webp)
+
 ![Dans les champs](_i/IMG_7989.webp)
+
 ![Dans les champs](_i/IMG_7995.webp)
+
 ![Dans les champs](_i/IMG_7997.webp)
+
 ![Dans les champs](_i/IMG_7998.webp)
+
 ![Dans les champs](_i/IMG_8002.webp)
+
 ![Dans les champs](_i/IMG_8004.webp)
+
 ![Dans les champs](_i/IMG_8009.webp)
 
 ### Vendredi 8 juillet
@@ -114,19 +153,33 @@ Nous ne nous formalisons pas de la réception déplorable de la serveuse. Elle e
 Pendant que Jacques s’en va dîner au restaurant voisin, je discute avec un cyclotouriste débutant, parti de Paris cinq semaines plus tôt et qui s’étonne de forcer dans les montées avec son vélo de 16 kg et son équipement de 35 kg. Nous discutons matériel et je lui parle du bikepacking, dont il ignorait à peu près tout, s’étant renseigné et équipé au Vieux Campeur. Il a du mal à croire que mon VTT et mon matos pèsent moins que son vélo seul.
 
 [Nous avons parcouru 121 km et escaladé 1 325 m.](https://www.strava.com/activities/7442209787)
+
 ![Dans les champs](_i/IMG_8015.webp)
+
 ![Dans les champs](_i/IMG_8019.webp)
+
 ![La Brenne](_i/IMG_8024.webp)
+
 ![La Brenne](_i/IMG_8030.webp)
+
 ![La Brenne](_i/IMG_8040.webp)
+
 ![La Brenne](_i/IMG_8043.webp)
+
 ![La Brenne](_i/IMG_8047.webp)
+
 ![Saint-Gaultier](_i/IMG_8054.webp)
+
 ![Saint-Gaultier](_i/IMG_8058.webp)
+
 ![Dampierre](_i/IMG_8061.webp)
+
 ![Creuse](_i/IMG_8077.webp)
+
 ![Creuse](_i/IMG_8078.webp)
+
 ![Creuse](_i/IMG_8103.webp)
+
 ![Creuse](_i/IMG_8113.webp)
 
 ### Samedi 9 juillet
@@ -146,10 +199,15 @@ Nous comprenons que pour beaucoup de gens notre désir de dormir à la belle ét
 [Nous avons parcouru 107 km, escaladé 2 192 m.](https://www.strava.com/activities/7442210754) Si le pourcentage moyen des étapes précédentes se situait autour de 1,1 %, nous avons soudain grimpé à 2,1 %. La difficulté n’était pas que dans nos têtes. Nous avons bel et bien changé de terrain.
 
 ![Voie ferrée](_i/IMG_8117.webp)
+
 ![Après Guéret](_i/IMG_8118.webp)
+
 ![Après Guéret](_i/IMG_8120.webp)
+
 ![Après Guéret](_i/IMG_8128.webp)
+
 ![Après Guéret](_i/IMG_8131.webp)
+
 ![Après Guéret](_i/IMG_8134.webp)
 
 ### Dimanche 10 juillet
@@ -171,13 +229,21 @@ Nous suivons un chemin parallèle à une voie ferrée désaffectée, mais encore
 Nous nous installons au soleil en terrasse de café, où nous discutons politique avec une tablée d’habitués, puis évoquons notre périple et notre étape du lendemain. Quand nous expliquons que nous comptons rejoindre Super Lioran par les chemins, ils nous traitent presque de fous. Nous les quittons pour une pizzeria, puis le camping où une bonne douche ne nous fait pas de mal.
 
 [Nous avons parcouru 117 km, escaladé 2 281 m.](https://www.strava.com/activities/7447960159)
+
 ![Vassivière](_i/IMG_8140.webp)
+
 ![Le Cantal](_i/IMG_8209.webp)
+
 ![Le Cantal](_i/IMG_8204.webp)
+
 ![Bort-les-Orgues](_i/IMG_8196.webp)
+
 ![Le Cantal](_i/IMG_8192.webp)
+
 ![Le Cantal](_i/IMG_8182.webp)
+
 ![](_i/IMG_8179.webp)
+
 ![Le Cantal](_i/IMG_8153.webp)
 
 ### Lundi 11 juillet
@@ -195,33 +261,61 @@ Nous fichons le camp, embarquons nos vélos dans le téléphérique et nous voil
 Nous poursuivons notre effort pour gagner par un long single technique Estaing, pittoresque village qui nous accueille en Aveyron. Après un bref repas, nous campons au bord du Lot, en compagnie de pèlerins en chemin vers Compostelle.
 
 [Nous avons parcouru 110 km, escaladé 2129 m.](https://www.strava.com/activities/7453088822)
+
 ![Le Cantal](_i/IMG_8219.webp)
+
 ![](_i/IMG_8222.webp)
+
 ![Le Cantal](_i/IMG_8224.webp)
+
 ![Le Cantal](_i/IMG_8231.webp)
+
 ![Le Cantal](_i/IMG_8235.webp)
+
 ![Le Cantal](_i/IMG_8239.webp)
+
 ![Le Cantal](_i/IMG_8247.webp)
+
 ![Le Cantal](_i/IMG_8249.webp)
+
 ![Le Cantal](_i/IMG_8250.webp)
+
 ![Le Cantal](_i/IMG_8255.webp)
+
 ![Le Cantal](_i/IMG_8256.webp)
+
 ![Le Cantal](_i/IMG_8275.webp)
+
 ![Le Cantal](_i/IMG_8279.webp)
+
 ![Le Cantal](_i/IMG_8285.webp)
+
 ![Le Cantal](_i/IMG_8287.webp)
+
 ![Le Cantal](_i/IMG_8288.webp)
+
 ![Le Cantal](_i/IMG_8318.webp)
+
 ![Le Cantal](_i/IMG_8323.webp)
+
 ![Le Cantal](_i/IMG_8324.webp)
+
 ![Le Cantal](_i/IMG_8331.webp)
+
 ![Le Cantal](_i/IMG_8333.webp)
+
 ![Le Cantal](_i/IMG_8336.webp)
+
 ![Le Cantal](_i/IMG_8342.webp)
+
 ![Le Cantal](_i/IMG_8347.webp)
+
 ![Le Cantal](_i/IMG_8353.webp)
+
 ![Le Cantal](_i/IMG_8359.webp)
+
 ![Le Cantal](_i/IMG_8367.webp)
+
 ![Estaing](_i/IMG_8374.webp)
 
 ### Mardi 12 juillet
@@ -233,16 +327,27 @@ Terminée la rigolade pour la journée. La traversée de l’Aubrac est difficil
 Nous mangeons, nous reposons, puis attaquons l’escalade du plateau du Larzac, par la route, car le chemin n’a aucun sens en bikepacking. Une fois au sommet, sous le ballet des parapentes, nous piquons à travers les pistes du plateau, toujours âpres et sans répit qui nous conduisent le soir venu à La Cavalerie, la ville templière. Nous bivouaquons sur le stade, croisant peu avant notre premier vététiste depuis notre départ de Paris.
 
 [Nous avons parcouru 121 km, escaladé 2 517 m.](https://www.strava.com/activities/7458532377)
+
 ![Espalion](_i/IMG_8383.webp)
+
 ![Espalion](_i/IMG_8376.webp)
+
 ![Sainte-Eulalie-d’Olt](_i/IMG_8390.webp)
+
 ![Saint-Geniez-d’Olt](_i/IMG_8392.webp)
+
 ![Aveyron](_i/IMG_8402.webp)
+
 ![Aveyron](_i/IMG_8406.webp)
+
 ![Aveyron](_i/IMG_8407.webp)
+
 ![Aveyron](_i/IMG_8413.webp)
+
 ![Aveyron](_i/IMG_8425.webp)
+
 ![Aveyron](_i/IMG_8430.webp)
+
 ![Larzac](_i/IMG_8458.webp)
 
 ### Mercredi 13 juillet
@@ -254,11 +359,13 @@ Nous nous levons en sachant que nous venons de passer la dernière nuit de notre
 Mais la mer nous appelle. Au Caylar, nous décidons de rentrer par les petites routes que je connais bien, plutôt que d’enchaîner une nouvelle journée très difficile par une chaleur torride. À 15h, nous voilà au bord de l’étang de Thau, puis devant un [Pac à l’eau](https://fr.wikipedia.org/wiki/Pac_Citron).
 
 [Nous avons parcouru 108 km, escaladé 1 000 m environ.](https://www.strava.com/activities/7462027865)
+
 ![L’étang de Thau et Sète](_i/IMG_8482.webp)
 
 Au total, nous avons roulé durant 86 heures à une moyenne 13,4 km/h, soit 1 140 km pour 16 000 m grimpés, traversant quinze départements. Lors du traçage, je n’ai jamais cherché à maximiser les difficultés, mon but étant ludique et esthétique avant tout. Reste que nous en avons parfois chié, surtout à partir de Guéret. Je me revois tenter de minimiser l’asphalte, puis une fois sur le terrain espérer de l’asphalte pour soulager mes jambes et mes articulations. Je retiendrais la leçon pour les prochaines traces. Quand l’asphalte approche ou passe sous la barre des 40 %, les périples se compliquent, surtout sur les terrains montagneux du Midi.
 
 ![Nos statistiques Strava](_i/p27stats.png)
+
 *PS : Vous aurez compris, cette trace n’est pas gravel. Il me paraît d’ailleurs illusoire d’imaginer des traces gravel sans reconnaissances au préalable, ce qui pour moi élimine ce vélo pour l’ouverture de grandes traversées. Le gravel est un vélo adapté au voyage organisé, pas à l’improvisation. Ce n’est pas un vélo d’aventure. Il étend le domaine du vélo de route, sans pouvoir rivaliser avec le VTT. D’ailleurs, beaucoup de passages sur la trace, notamment à partir de Guéret, sont purement VTT et exigent de bonnes compétences techniques, bien qu’il reste toujours possible de passer à pied (ce qui est parfois recommandé avec un vélo chargé).*
 
 #bikepacking #p27 #velo #y2022 #2022-7-15-18h37

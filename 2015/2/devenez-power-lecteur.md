@@ -10,7 +10,7 @@ Plusieurs de ces power lecteurs se sont glissés dans mon projet [*1 minute*](ht
 
 [caption id="attachment\_39569" align="aligncenter" width="600"][![Le sommaire cartohtaphique de 1 minute créé par les lecteurs eux-mêmes.](_i/carte.webp)](http://umap.openstreetmap.fr/fr/map/une-minute_29980#2/-9.1/36.2) Le sommaire cartographique de 1 minute créé par les lecteurs eux-mêmes.[/caption]
 
-Le power lecteur tord à sa mesure jusqu’aux interfaces de lecture. Si le [blog](../1/versailles-france-2145.md) ou [Wattpad](http://www.wattpad.com/story/29694130-1-minute) ne lui conviennent pas, il joue avec toutes une panoplie d’outils pour mettre en forme les textes automatiquement et les recevoir sur l’appareil de son choix dans l’application de son choix.
+Le power lecteur tord à sa mesure jusqu’aux interfaces de lecture. Si le blog ou [Wattpad](http://www.wattpad.com/story/29694130-1-minute) ne lui conviennent pas, il joue avec toutes une panoplie d’outils pour mettre en forme les textes automatiquement et les recevoir sur l’appareil de son choix dans l’application de son choix.
 
 ### Exemple 1 : lire *1 minute* sur liseuse
 
@@ -36,6 +36,4 @@ Cette seconde méthode est sensiblement identique. Sur IFTTT, créez une règle 
 
 Le power lecteur décide de lire où il veut et quand il veut. Tout billet de blog peut devenir un élément d’un livre électronique, que l’auteur aime ou non les livres électroniques. Désormais, c’est le lecteur qui décide. Auteurs, comprenez-le, offrez vos textes de manière à ce qu’ils se glissent dans toutes les interfaces. Ne pensez plus papier, ni même ebook, blog ou je ne sais quoi. Ne pensez plus à comment on vous lira car de nouvelles possibilités surgissent tous les jours. C’est dans ce territoire du nouveau, vers les nouvelles frontières, que se joue la littérature d’aujourd’hui. Ne vous fermez pas les portes de l’avenir sous prétexte que vous ne savez pas comment demain vous gagnerez votre vie.
 
-
-
-#edition #sur_1_minute #dialogue #y2015 #2015-2-23-17h45
+#edition #sur_1_minute #y2015 #2015-2-23-17h45

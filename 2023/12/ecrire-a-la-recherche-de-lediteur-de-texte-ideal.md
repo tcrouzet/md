@@ -11,8 +11,11 @@ Je n’en finis pas d’enrager. [Suite à l’effacement de certains dossiers e
 Voici ce que n’a jamais réussi à proposer Ulysses :
 
 * Données ouvertes : textes en Markdown, informations supplémentaires en Json ou Yalm, dûment documentées.
+
 * Textes éditables à tout instant avec d’autres outils de façon à n’être jamais limité par une solution. Par exemple, pouvoir éditer sur un téléphone avec une application différente de celle sur ordinateur. Voire écrire avec différentes applications en fonction des textes à travailler, ou à retravailler.
+
 * S’ouvrir à toutes les plateformes, ne pas se limiter à MacOS/iOS.
+
 * Possibilité de développer des extensions, voire d’utiliser des plugins.
 
 Même les fichiers docx de Word respectent pratiquement tous ces critères. Ulysses m’a enfermé dans une prison propriétaire. C’est en fait un faux éditeur Markdown, il n’en a plus que l’apparence. Avec les années mon enfermement s’est intensifié, alors que la tendance est universellement opposée. Dans une certaine mesure, j’accepte que le code soit propriétaire, mais pas mes données (et qu’un système de synchronisation erratique joue à les effacer).
@@ -91,6 +94,4 @@ Pour moi, il serait tentant d’adopter Zettlr, très proche d’Ulysses, mais j
 
 *PS : Merci à [Agnès Maillard](https://framapiaf.org/@Monolecte) qui [m’a poussé à me pencher sur Obsidian](https://mamot.fr/deck/@tcrouzet/111642148084053553), plus en profondeur que je l’avais fait lorsque j’avais découvert l’application peu après son lancement en 2021. Choisir Obsidian, c’est choisir les dernières innovations, que des produits comme Ulysses n’ont pas réussi à intégrer. C’est aussi choisir une communauté très active, qui ne cesse produire des extensions.*
 
-
-
-#cuisine #y2023 #2023-12-31-16h16
+#cuisine #obsidian #y2023 #2023-12-31-16h16

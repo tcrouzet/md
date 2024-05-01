@@ -7,14 +7,19 @@
 Cauchemar cette nuit. J’étais un cadre dans une organisation qui virait au fascisme et je me suis retrouvé exclu du groupe des collabos. Je me suis réveillé à ce moment. Je n’avais pas suivi le mouvement, mais je n’avais pas encore rejoint la résistance.
 
 ![Plage de Maguelone](_i/IMG_4209.webp)
+
 ![Plage de Maguelone](_i/IMG_4217.webp)
+
 ![Plage de Maguelone](_i/IMG_4232.webp)
+
 ![La Gardiole](_i/IMG_4245.webp)
+
 ![Soir](_i/IMG_4247.webp)
 
 ### Samedi 4, Balaruc
 
 ![Pyrénées](_i/IMG_4261.webp)
+
 ![Arc-en-ciel](_i/IMG_4267.webp)
 
 ### Dimanche 5, Balaruc
@@ -26,6 +31,7 @@ Une œuvre peut être radicalement numérique et ne pas le laisser paraître. Je
 Plus le numérique accélère le monde, raccourci les formes, plus j’ai envie de prendre mon temps, d’écrire dans la longueur, d’aller à contre sens, parce que voilà ce qui reste à la littérature, voilà où elle se réinventera, mais bien sûr avec l’aide du numérique, à travers lui.
 
 ![Grau d’Agde](_i/IMG_4276.webp)
+
 ![Grau d’Agde](_i/IMG_4281.webp)
 
 ### Mardi 7, Balaruc
@@ -85,6 +91,7 @@ Sensation de ne plus m’appartenir. D’être dans un corps étranger. Parce qu
 ### Mercredi 15, Balaruc
 
 ![Mas](_i/IMG_4399.webp)
+
 ![Bellevue](_i/IMG_4422.webp)
 
 ### Jeudi 16, Balaruc
@@ -98,7 +105,9 @@ Je trouve drôle la volonté de certains de ne pas utiliser le verbe être dans 
 ### Samedi 18, Balaruc
 
 ![Sète](_i/IMG_4472.webp)
+
 ![Marseillan](_i/IMG_4494.webp)
+
 ![Gruissan](_i/IMG_4541.webp)
 
 ### Dimanche 19, Nancy
@@ -134,9 +143,13 @@ Des auteurs beaucoup plus âgés que moi m’ont par le passé souvent déprimé
 Pour l’année prochaine, je n’ai donc pas d’espoir, sinon que de beaux projets m’occupent, que je vois de beaux paysages et éprouve du plaisir. J’en suis réduit à une pratique épicurienne de la littérature. Plus vite je l’accepterai, plus vite je me donnerai une chance de vieillir heureux, sans éprouver d’éternels regrets. Selon Isa, je cours après la reconnaissance extérieure parce que je n’ai jamais eu celle de mon père. Je doute de cette explication. Je suis un faiseur. J’ai la certitude que mes faires peuvent profiter à d’autres. Je veux juste partager, et je suis frustré de ne pas assez le faire. Je ne cherche la reconnaissance qu’à travers le partage. Me faire du bien en faisant du bien. Je suis égoïste, tout simplement.
 
 ![Canal](_i/IMG_4636.webp)
+
 ![Canal](_i/IMG_4672.webp)
+
 ![Canal](_i/IMG_4696.webp)
+
 ![École d’architecture](_i/IMG_4709.webp)
+
 ![Canal](_i/IMG_4745.webp)
 
 ### Jeudi 23, Nancy
@@ -258,12 +271,14 @@ Je viens de lire [un article sur les innovations préhistoriques](https://thecon
 J’aurais voulu inventer un truc aussi décisif que l’arc, un truc comme les fractales, je n’ai inventé que la forme romanesque de *One Minute*, un truc anecdotique dans l’histoire de la littérature. Mais peut-être que je dois lui ajouter des cordes, puisque c’est mon arc.
 
 ![Soir](_i/IMG_4971.webp)
+
 ![29 décembre 2021](_i/IMG_4978.webp)
+
 ![Soir](_i/IMG_4983.webp)
 
 ### Jeudi 30, Balaruc
 
-[Je renoue avec mes vagabondages littéraires.](../../2021/12/prendre-son-temps-a-velo/?swcfpc=1.md) J’écris avec un petit clavier pliable sur mon téléphone.
+[Je renoue avec mes vagabondages littéraires.](../../2021/12/prendre-son-temps-a-velo.md) J’écris avec un petit clavier pliable sur mon téléphone.
 
 ![Matin](_i/IMG_5018.webp)
 

@@ -50,4 +50,4 @@ Préambule : la première fois que je me suis intéressé à Obsidian, je suis 
 
 Il ne me reste plus qu’à me remettre au travail. Cette sortie d’Ulysses et de configuration m’aura pris une grosse semaine, où je n’aurais pas fait grand-chose d’autre.
 
-#cuisine #y2024 #2024-1-4-19h52
+#cuisine #obsidian #y2024 #2024-1-4-19h52

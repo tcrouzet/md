@@ -2,7 +2,7 @@
 
 ![Ma drogue : la lumière](_i/lumiere.webp)
 
-Tout le monde tape sur Internet, tout le monde l’accuse de tous les maux, ce serait d’après [Hubert Guillaud une tentation du bouc émissaire](http://www.internetactu.net/2012/07/05/internet-facile-bouc-emissaire/#comment-1201421), un peu comme avec les étrangers qui seraient responsables de nos affres sociétaux alors que de nombreuses études démontrent que l’afflux d’étrangers est une richesse. Toujours d’après Hubert, Internet ne ferait que mettre en évidence des maux préexistants. Point barre.
+Tout le monde tape sur Internet, tout le monde l’accuse de tous les maux, ce serait d’après [Hubert Guillaud une tentation du bouc émissaire](http://www.internetactu.net/2012/07/05/internet-facile-bouc-emissaire/), un peu comme avec les étrangers qui seraient responsables de nos affres sociétaux alors que de nombreuses études démontrent que l’afflux d’étrangers est une richesse. Toujours d’après Hubert, Internet ne ferait que mettre en évidence des maux préexistants. Point barre.
 
 Hubert évoque ma déconnexion de 2011. « Mais trop souvent on l’accuse sans preuve (Internet), on l’accuse à la place d’un autre. Dans *[J’ai débranché](../../page/jai-debranche)*, Thierry Crouzet par exemple, semble désigner l’accoutumance au réseau comme une cause, plutôt qu’une conséquence. Alors qu’à le lire, il semble plutôt que ce soit son anxiété et son rapport à lui-même qui l’ont mené à des comportements compulsifs et excessifs. »
 

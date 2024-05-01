@@ -29,11 +29,17 @@ Quand je regarde devant moi, depuis l’ombre étroite du cocotier contre lequel
 Je suis né sous la brise, j’habite sous la brise, et depuis que je suis en Floride j’en suis sevré. Il me faut venir sur la côte pour que sas caresses me régénère. Elle ne pénètre pas loin à l’intérieur des terres, peut-être cent mètres, puis la touffeur s’impose.
 
 ![Deering Estate](_i/IMG_3525.webp)
+
 ![Deering Estate](_i/87a0f0a0-19ca-4b1a-a669-2f3360829ee1.webp)
+
 ![Deering Estate](_i/P1080755.webp)
+
 ![Deering Estate](_i/P1080777.webp)
+
 ![Écrire dans l’herbe](_i/P1080807.webp)
+
 ![Black Point](_i/P1080832-1.webp)
+
 ![Black Point](_i/P1080825.webp)
 
 ### Lundi 4, Weston
@@ -78,7 +84,7 @@ L’autofiction doit raconter nos grandes aventures, non pas se limiter au réci
 
 ---
 
-Je lis [un beau papier sur l’avenir du cyclisme](http://hbnarratives.alliedcycleworks.com/the-future-of-cycling-is-the-landrun-100-and-ill-tell-you-why/), présenté à travers la [Land Run 100](https://landrun100.com/), une course gravel qui se déroule en mars dans l’Oklahoma. Un constat : moins de courses sur route aux USA, mais de plus en plus d’amateurs dans les courses gravel et VTT. Andy Chasteen décrit leur enthousiasme, leur joie, leur abnégation. C’est naturel. [Selon ma vélosophie](../3/ma-velosophie-et-ses-consequences-pratiques/?from=une.md), les cyclistes sensées devraient refuser de mettre leurs roues sur l’asphalte quand les voitures le partagent. L’avenir du cyclisme est à coup sûr hors de routes asphaltées. Les courses sur route ne sont qu’un archaïsme datant du début du vélo, quand il n’y avait pas ou presque pas de voitures.
+Je lis [un beau papier sur l’avenir du cyclisme](http://hbnarratives.alliedcycleworks.com/the-future-of-cycling-is-the-landrun-100-and-ill-tell-you-why/), présenté à travers la [Land Run 100](https://landrun100.com/), une course gravel qui se déroule en mars dans l’Oklahoma. Un constat : moins de courses sur route aux USA, mais de plus en plus d’amateurs dans les courses gravel et VTT. Andy Chasteen décrit leur enthousiasme, leur joie, leur abnégation. C’est naturel. [Selon ma vélosophie](../3/ma-velosophie-et-ses-consequences-pratiques.md), les cyclistes sensées devraient refuser de mettre leurs roues sur l’asphalte quand les voitures le partagent. L’avenir du cyclisme est à coup sûr hors de routes asphaltées. Les courses sur route ne sont qu’un archaïsme datant du début du vélo, quand il n’y avait pas ou presque pas de voitures.
 
 ### Mardi 19, Weston
 
@@ -111,15 +117,25 @@ Je reçois les premières esquisses de la couverture de *[Mon père, ce tueur](.
 Passer de Weston à Miami Beach, c’est changer de dimension, pas même voyager, c’est entrer dans un autre univers. Dès qu’on traverse la baie, le ciel se tinte d’indigo pour refléter l’océan, c’est tout de suite plus torride. Puis arrivent les rues bondées de nénettes délurées. Aujourd’hui, à l’occasion de la semaine de sping break, tous les jeunes Américains débarquent pour faire la fête, c’est-à-dire pour se bourrer la gueule avant de peut-être baiser. J’ai toujours trouvé étriqué cette conception de la fête, mais bon, cette mode perdure. J’avais pour objectif de tourner quelques images pour la bande-annonce de *[L’homme qui ne comprenait pas les femmes](../../books/lhomme-qui-ne-comprenait-pas-les-femmes.md)*. J’ai été servi. J’ai commencé par me retrouver presque nez à nez avec une poupée blonde en culotte et soutif violet perchée hauts talons. Mais pas le temps de m’attarder, pas le temps de filmer, la parade m’emportait dans un grand délire de fesses, de tatouages et de voiles plus transparents les uns que les autres. J’avais l’impression que les femmes avaient pris possession de la ville, que les mecs se faisaient petits. Elles étaient si visibles, si exhibitionnistes, qu’elles accaparaient tous les photons crachés avec exubérance sur la fine langue de sable de Miami Beach. Quand nous nous sommes retrouvés à Whoole Food pour faire nos courses, nous avons émergé d’un rêve. Les gens autour de nous étaient habillés comme nous, de façon indifférenciée, sans rien de remarquable. Nous répétions des gestes simples, prendre un paquet de spaghettis, le mettre dans le caddie, des gestes qui à Miami Beach auraient paru incongrus. J’ai du mal à imaginer le délire que la nuit réveillera là-bas, de l’autre côté de la baie.
 
 ![Spring Break](_i/P1080895.webp)
+
 ![Spring Break](_i/a4ec36ea-e028-45ec-a37b-3d2dc55dfbdb.webp)
+
 ![Spring Break](_i/P1090043.webp)
+
 ![Spring Break](_i/P1090063.webp)
+
 ![Spring Break](_i/IMG_4122.webp)
+
 ![Spring Break](_i/P1090078.webp)
+
 ![Spring Break](_i/P1090109.webp)
+
 ![Spring Break](_i/P1090133.webp)
+
 ![Spring Break](_i/P1090145.webp)
+
 ![Retour à Weston](_i/IMG_4168.webp)
+
 ![Retour à Weston](_i/IMG_4176.webp)
 
 ### Dimanche 24, Weston
@@ -167,6 +183,7 @@ En repartant du tennis où je dépose les enfants, je vois un oisillon style moi
 Je roule sur les levees jusqu’à l’écœurement. Je n’en peux plus de ces lignes droites, de cette poussière, de cette perspective infiniment plate. Dans le magnifique [*Besoin de vélo*](https://www.amazon.fr/Besoin-v%C3%A9lo-Paul-Fournel/dp/2020551349/), [Paul Fournel](https://fr.wikipedia.org/wiki/Paul_Fournel) écrit au sujet d’un voyage dans la vallée de la Mort : « Le spectacle est exceptionnel, grandiose, sublime, etc., mais il n’est pas cycliste. Comme beaucoup de paysages américains, le rythme du vélo ne lui convient pas. Ou bien le vélo ne va pas assez vite, ou bien le paysage ne varie pas assez rapidement, mais quelque chose résiste à leur mariage. Ces paysages-là ont été taillés sur mesure pour l’auto. Perdu sur ces immenses lignes droites, j’avais le sentiment d’être un animal déplacé (…) » Sur les levees, j’ai une boule au fond de la gorge, surtout à l’idée d’y retourner, un peu comme à l’école en fin d’année. Je persévère pour me tenir en forme, pour me préparer à mon voyage dans le Tennessee.
 
 ![Depuis une levee](_i/IMG_4312-1.webp)
+
 ![J’ai jamais autant roulé](_i/strava.png)
 
 #carnets #y2019 #2019-4-2-14h15

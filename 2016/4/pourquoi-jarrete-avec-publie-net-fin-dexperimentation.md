@@ -4,12 +4,14 @@
 
 Rien de plus classique que la rupture entre un auteur et un éditeur. Une histoire si banale qu’elle ne mérite pas d’être racontée. Je ne le fais que parce que quelque chose ne tourne pas rond dans la planète ebook.
 
-J’ai publié mes premiers textes chez publie.net en 2010 à l’invitation de François Bon. Nous avions l’espoir de changer en profondeur l’édition, de nous regrouper, de créer une sorte d’école. Nous n’avons jamais formalisé ce souhait par un manifeste, il était néanmoins en nous tous, surtout lors des [rencontres d’Ouessant](../../2010/8/l%E2%80%99archipel-de-la-litterature-numerique.md). Publier pour publier ne nous motivait pas, puisque nous pouvions déjà le faire de notre côté ou par ailleurs, mais le faire ensemble donnait plus de poids à chacun de nos textes pris individuellement. Nous formions une bande désordonnée, une espèce de horde sauvage en marge de l’édition traditionnelle.
+J’ai publié mes premiers textes chez publie.net en 2010 à l’invitation de François Bon. Nous avions l’espoir de changer en profondeur l’édition, de nous regrouper, de créer une sorte d’école. Nous n’avons jamais formalisé ce souhait par un manifeste, il était néanmoins en nous tous, surtout lors des [rencontres d’Ouessant](../../2010/8/larchipel-de-la-litterature-numerique.md). Publier pour publier ne nous motivait pas, puisque nous pouvions déjà le faire de notre côté ou par ailleurs, mais le faire ensemble donnait plus de poids à chacun de nos textes pris individuellement. Nous formions une bande désordonnée, une espèce de horde sauvage en marge de l’édition traditionnelle.
 
 Publier pour publier ne m’intéresse toujours pas. Je rencontre beaucoup d’auteurs qui se croient arrivés parce qu’un de leur livre se retrouve dans une librairie. Ajouter du papier à du papier dont le destin est de finir au pilon avant lecture n’est pas un but en soi.
 
 * Je ne suis auteur que si j’ai des lecteurs.
+
 * Je ne travaille avec un éditeur que s’il peut étendre mon lectorat.
+
 * Je ne travaille avec un éditeur pure-player que s’il vit à la vitesse du numérique, que s’il en maîtrise les codes.
 
 Je n’attends donc pas seulement d’un éditeur qu’il me publie. Cette mise sur le marché ne me fait ni chaud ni froid. Je n’en tire ni fierté ni satisfaction d’autant que je peux m’autopublier quand je veux. Quand un éditeur étend mon lectorat comme Fayard l’a fait, j’accepte quelques contraintes éditoriales, quand un éditeur comme publie.net ne vend pas mieux mes livres que si je les vendais en direct, j’attends autre chose : une amitié, une intimité, une réactivité, une inventivité, une complicité.

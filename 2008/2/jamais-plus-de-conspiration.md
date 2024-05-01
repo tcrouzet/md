@@ -16,7 +16,7 @@ Les conspirationnistes, ces puissants maîtres du monde, ont beaucoup mieux à f
 
 Je crois qu’ils ne l’admettront pas, ils seront forcés de le faire. Le monde est lancé sur la voie technologique. Renoncer à la technologie pour les puissants est suicidaire. Malheureusement pour eux la technologie démultiplie aussi le pouvoir des individus, donc le pouvoir de libération… Tout cela n’est pas joyeux : [un nouveau type de conflit se dessine](le-cinquieme-pouvoir-militaire.md).
 
-[Comme je le disais à Henri dans un commentaire](le-cinquieme-pouvoir-militaire/#comment-51617.md), les mesures liberticides sont logiques du point de vue d’une structure centralisée. Les États centralisés existent, sous-prétexte qu’ils nous protègent, dans le but de nous contrôler (nos impôts, nos mouvements, nos activités…). Mais il y a déjà longtemps qu’ils ne nous protègent plus de la misère et maintenant ils deviennent incapables de nous protéger des terroristes.
+Comme je le disais à Henri dans un commentaire, les mesures liberticides sont logiques du point de vue d’une structure centralisée. Les États centralisés existent, sous-prétexte qu’ils nous protègent, dans le but de nous contrôler (nos impôts, nos mouvements, nos activités…). Mais il y a déjà longtemps qu’ils ne nous protègent plus de la misère et maintenant ils deviennent incapables de nous protéger des terroristes.
 
 Pour survivre, les États centralisés doivent par tous les moyens rétablir leur contrôle. Si cette pente se confirme, les tentations dictatoriales devraient se multiplier. Pas besoin de conspiration. Quand un puissant veut plus de puissance, il la prend. Ça commence déjà comme ça dans les cours de récréation.
 

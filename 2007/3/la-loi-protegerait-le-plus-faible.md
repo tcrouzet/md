@@ -14,7 +14,7 @@ Mais qui édicte les lois, qui les influence, sinon les puissants ? Les régimes
 
 Ce n’est pas par la loi, en tout cas la loi telle que nous la connaissons, que nous pouvons protéger les plus faibles. Mais comment faire ? Car il faut bien que celui qui se trouve dans un état de faiblesse puisse en sortir ?
 
-Si la loi ne protège pas le plus faible dans l’absolu, quelques lois particulières peuvent le faire, celles notamment qui entérinent des acquis sociaux. Reste donc à savoir [comme me le demandait Eric Culnaërt](lego-en-question/#comment-15510.md) s’il est possible de protéger le faible dans un système auto-organisé, décentralisé et collaboratif ?
+Si la loi ne protège pas le plus faible dans l’absolu, quelques lois particulières peuvent le faire, celles notamment qui entérinent des acquis sociaux. Reste donc à savoir comme me le demandait Eric Culnaërt s’il est possible de protéger le faible dans un système auto-organisé, décentralisé et collaboratif ?
 
 Je ne propose aucun système cohérent mais j’ai de bonnes raisons d’être optimiste.
 

@@ -1,6 +1,6 @@
 # Où ne pas étudier
 
-Je ne suis pas le seul promoteur de la networked civilisation comme [Stan veut essayer de le faire croire](non-je-n%e2%80%99ai-pas-arrete-de-bloguer/#comment-54584.md). S’il existe un endroit au monde où elle est pensée et construite aujourd’hui c’est bien à Sandford, et dans ses environs, notamment en poussant vers Santa Fe. Quand, comme Stan, on a la chance d’étudier là-bas, on a la chance de ne pas étudier au sens où je l’entends, c’est-à-dire de pouvoir papillonner entre tous les penseurs contemporains, de les butiner, de se construire sa propre vision du monde.
+Je ne suis pas le seul promoteur de la networked civilisation comme Stan veut essayer de le faire croire. S’il existe un endroit au monde où elle est pensée et construite aujourd’hui c’est bien à Sandford, et dans ses environs, notamment en poussant vers Santa Fe. Quand, comme Stan, on a la chance d’étudier là-bas, on a la chance de ne pas étudier au sens où je l’entends, c’est-à-dire de pouvoir papillonner entre tous les penseurs contemporains, de les butiner, de se construire sa propre vision du monde.
 
 Stan tu es le fruit des grandes écoles françaises. Il t’est difficile de me répondre autrement que comme tu le fais après les études que tu as effectuées. Quand on est centralien, polytechnicien ou un truc de genre, le plus souvent on a renoncé très jeune a sa liberté pour devenir un agent du système centralisé. Durant ses années de pure créativité, on a déjà commencé par bosser comme un chien pour stocker des données créées par d’autres, ce qui me paraît un non-sens qui a lui seul peut miner une destinée (alors plus tard on s’acharne pour préserver ce stock, d’autant plus quand on devient PDG d’une grande boîte ou émissaire du G8).
 
@@ -18,7 +18,7 @@ Le rêve est au cœur de tout ce que j’écris. Je rêve d’une autre sociét�
 
 Tu énonces un postulat pour démontrer la nécessité d’une forme de hiérarchie :
 
-> Il est nécessaire de distinguer la possibilité de communiquer avec la nécessité inhérente à toute communication d’être préalablement mis en relation ou plus précisément d’être capable de nommer son interlocuteur.
+>Il est nécessaire de distinguer la possibilité de communiquer avec la nécessité inhérente à toute communication d’être préalablement mis en relation ou plus précisément d’être capable de nommer son interlocuteur.
 
 Note qu’une telle hiérarchie, alors de type structurelle, n’a pas besoin d’être autoritaire. Il peut exister des dizaines de système de nommages concurrentiels. Ils peuvent même être distribués, dédupliqués en des millions de sites.
 
@@ -32,7 +32,7 @@ Tu parles des experts et de la nécessité de les mettre en relation avec le cad
 
 Ta conclusion résume sans doute notre opposition :
 
-> J’invite tout le monde à arrêter de prêcher le faux pour « chercher » le vrai. Il est certain que notre système politique en France a de grandes faiblesses, mais je pense qu’il est aussi illusoire de croire que nous pourrions vivre sans « système ».
+>J’invite tout le monde à arrêter de prêcher le faux pour « chercher » le vrai. Il est certain que notre système politique en France a de grandes faiblesses, mais je pense qu’il est aussi illusoire de croire que nous pourrions vivre sans « système ».
 
 L’absence de hiérarchie autoritaire (à l’avenir je virerai ce qualificatif comme à mon habitude), ne nous plongerait pas dans l’anarchie, une absence de système comme tu le sous-entends mais dans un autre système. Il nous aidera peut-être à résoudre certains problèmes que le système hiérarchique ne sait pas résoudre (je ne vais pas refaire la liste des problèmes… les enfants s’éveillent de la sieste).
 
@@ -42,7 +42,7 @@ Le système hiérarchique me paraît se heurter aujourd’hui à de nombreux obs
 
 En renversant le sous titre du peuple des connecteurs, tu résumes une philosophie à l’opposé de la mienne :
 
-> Il est idiot de ne pas obéir, de ne pas voter, de ne pas légiférer, de ne pas étudier, de ne pas promettre, de ne pas manifester, de ne pas travailler, ne pas rationaliser, et enfin, de ne pas croire !
+>Il est idiot de ne pas obéir, de ne pas voter, de ne pas légiférer, de ne pas étudier, de ne pas promettre, de ne pas manifester, de ne pas travailler, ne pas rationaliser, et enfin, de ne pas croire !
 
 Les seuls hommes que j’apprécie sont ceux qui n’ont jamais obéi aux règles imposées par les autres et qui n’ont jamais cru qu’en eux et dans leurs semblables. Tous ceux qui se raccrochent à une autorité supérieure m’ennuient et font beaucoup de mal à l’humanité.
 

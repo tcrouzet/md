@@ -28,7 +28,7 @@ La [?1](https://g1.duniter.fr/) repose sur une toile de confiance. Pour rejoindr
 
 Si vous voulez acheter mes livres en [?1](https://g1.duniter.fr/), voici ma clé publique :
 
-> 7aEmtqUnN […] 1MHGjCy32
+>7aEmtqUnN […] 1MHGjCy32
 
 Si nous sommes amis, si nous nous sommes déjà vu IRL, je peux vous certifier. [Lisez d’abord la licence ?1.](https://duniter.org/fr/wiki/licence-g1/)
 

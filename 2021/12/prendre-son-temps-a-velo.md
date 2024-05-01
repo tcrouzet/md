@@ -6,7 +6,7 @@
 
 Je petit-déjeune. L’étang est rouge, promesse d’une journée estivale en hiver. J’ai envie de la savourer, de la transformer en expérience. De partir de chez moi et d’y revenir, mais en musardant sur les pistes gravel, en vagabondant comme si je m’élançais pour un long trip bikepacking, en m’arrêtant aussi souvent que l’envie s’en fera sentir. À la moindre idée, à la moindre image, pour me perdre en moi-même et dans les paysages du Midi.
 
-D’habitude, j’écris mes récits à vélo de mémoire. Cette fois, je reviens au temps réel comme [dans mes carnets](#carnet-de-route?swcfpc=1). Je ne veux pas élaborer, fictionnaliser, réédifier, mais improviser, prendre ce qui surviendra, dans le désordre de la vie.
+D’habitude, j’écris mes récits à vélo de mémoire. Cette fois, je reviens au temps réel comme [dans mes carnets](/tag/carnet-de-route). Je ne veux pas élaborer, fictionnaliser, réédifier, mais improviser, prendre ce qui surviendra, dans le désordre de la vie.
 
 ![Matin rouge](_i/IMG_5021.webp)
 
@@ -85,12 +85,19 @@ Saint-Pargoire, troisième village traversé coup sur coup. Je m’installe sur 
 Je ne pense plus, je n’écris plus, je dois rentrer avant la nuit. Encore une quarantaine de kilomètres. Je suis assis en surplomb d’un point de vue que j’adore. Des blocs rocheux dominent une pinède, elle-même en surplomb des champs. Au loin une autre pinède semble se terminer au bord de l’étang où flotte Sète. J’ai ainsi des arrêts rituels qui exigent le recueillement.
 
 ![Sète](_i/IMG_5105.webp)
+
 ![Chemin](_i/IMG_5110.webp)
+
 ![Bruyères en fleur](_i/IMG_5115.webp)
+
 ![Vignes en fleur](_i/IMG_5125.webp)
+
 ![Olivier](_i/IMG_5131.webp)
+
 ![Un peu de technique](_i/IMG_5146.webp)
+
 ![Calme plat](_i/IMG_5156.webp)
+
 ![Calme plat](_i/IMG_5171.webp)
 
 ### 17h38, 115 km, 13°

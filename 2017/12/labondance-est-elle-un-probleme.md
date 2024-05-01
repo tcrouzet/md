@@ -6,7 +6,7 @@ Dans le milieu des activistes numériques, on entend souvent dire que nous devon
 
 Impossible de ne pas penser à l’*Évangile de Jésus-Christ selon saint Matthieu*, chapitre 14, versets 14 à 21 :
 
-> Le soir étant venu, les disciples s’approchèrent de lui, et dirent : Ce lieu est désert, et l’heure est déjà avancée; renvoie la foule, afin qu’elle aille dans les villages, pour s’acheter des vivres. Jésus leur répondit : Ils n’ont pas besoin de s’en aller ; donnez-leur vous-mêmes à manger. Mais ils lui dirent : Nous n’avons ici que cinq pains et deux poissons. Et il dit : Apportez-les-moi. Il fit asseoir la foule sur l’herbe, prit les cinq pains et les deux poissons, et, levant les yeux vers le ciel, il rendit grâces. Puis, il rompit les pains et les donna aux disciples, qui les distribuèrent à la foule. Tous mangèrent et furent rassasiés.
+>Le soir étant venu, les disciples s’approchèrent de lui, et dirent : Ce lieu est désert, et l’heure est déjà avancée; renvoie la foule, afin qu’elle aille dans les villages, pour s’acheter des vivres. Jésus leur répondit : Ils n’ont pas besoin de s’en aller ; donnez-leur vous-mêmes à manger. Mais ils lui dirent : Nous n’avons ici que cinq pains et deux poissons. Et il dit : Apportez-les-moi. Il fit asseoir la foule sur l’herbe, prit les cinq pains et les deux poissons, et, levant les yeux vers le ciel, il rendit grâces. Puis, il rompit les pains et les donna aux disciples, qui les distribuèrent à la foule. Tous mangèrent et furent rassasiés.
 
 Sans doute ne faut-il pas chercher plus loin l’origine de cette idée selon laquelle l’abondance serait toujours plus souhaitable que la rareté. Il s’agit presque de bon sens, l’abondance de nourriture étant préférable à sa rareté. Et celui capable de nous faire passer de la rareté à l’abondance serait un guide et un sauveur, et nous devrions l’admirer. Pas étonnant que les chantres mégalomanes de la Silicon Valley aient songé à endosser ce rôle.
 
@@ -41,6 +41,7 @@ Je dis tout ça et je ne sais pas quoi faire, sauf à vendre mes textes longs, d
 L’abondance a quelque chose d’inhumain. Elle est de l’ordre du fantasme. Une façon de nier notre mortalité, notre corps, notre physiologie la plus élémentaire. L’abondance a tué le Net des origines, elle a tué le réseau, elle est peut-être dangereuse, une sorte de cancer qui se développe aveuglément. Soudain, elle me fait peur. Je devine une immense vague qui fonce sur nous. Soit je me glisse dans une bouée de sauvetage, en espérant surnager à la surface et rester visible, soit je m’enterre dans un abri, loin du tumulte, soit je ne fais rien et attends passivement qu’il soit trop tard. En publiant ce nouveau texte, je choisis l’option bouée, bien conscient que je pourrais être écrasé par les innombrables bouées plus grosses que la mienne. Le Net est devenu un tsunami de bouées de sauvetage.
 
 *PS : peut-être que j’aime les paysages parce qu’ils sont rares et que je n’en profite jamais assez.*
+
 ![Le lac de l’Oule](_i/loule.webp)
 
 #best-sellers #netculture #revenu_de_base #dialogue #y2017 #2017-12-27-13h15

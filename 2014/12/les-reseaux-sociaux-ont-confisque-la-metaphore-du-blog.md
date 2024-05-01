@@ -28,15 +28,14 @@ Un passage par le code s’est imposé. Parce que les CMS comme WordPress sont t
 6. Avec cette idée du rouleau de Kerouac, j’ai aussi éliminé les pieds d’article habituels sur un blog (listes des tags, des catégories, commentaires, recommandations sociales…). J’ai utilisé un simple filet pour signaler les sauts entre les billets dans l’espoir de ne pas arrêter la lecture. J’espère qu’on ne me dira plus « Ça, tu ne l’as pas dit. » Maintenant, très souvent, le « ça » se trouvera plus bas. Parce qu’un blogueur n’est pas un journaliste qui doit tout dire dans chacun de ses papiers. Mon texte, c’est mon rouleau, jamais un article individuel.
 7. J’ai rassemblé la navigation dans une barre qui se modifie automatiquement en fonction du billet en cours de lecture. Les commentaires ne s’affichent qu’à la demande, de même les tags et autres babioles.
 
-Quand j’ai découvert mes [Vagabondages](../11/le-je-lappareil-photo-et-limprimante/1.md) affichés sur ce mode, j’ai pris conscience de leur totalité pour la première fois. Je sais déjà que cette seule vision influencera ma façon d’écrire. J’aurais davantage tendance à penser à l’ensemble, et sans doute à une forme de narration. Le rouleau impose la route du récit, un temps long dans l’écriture couplé au temps fragmentaire et bref du Web.
+Quand j’ai découvert mes [Vagabondages](../../2014/11/le-je-lappareil-photo-et-limprimante.md) affichés sur ce mode, j’ai pris conscience de leur totalité pour la première fois. Je sais déjà que cette seule vision influencera ma façon d’écrire. J’aurais davantage tendance à penser à l’ensemble, et sans doute à une forme de narration. Le rouleau impose la route du récit, un temps long dans l’écriture couplé au temps fragmentaire et bref du Web.
 
 Un exemple en action.
-1. [Premier billet de la série Clitoria](../11/clitoria-chapitre-1.md), avec tous les autres qui se déroulent dans l’ordre naturel de lecture.
-2. [Un billet au cœur de la série](../11/clitoria-chapitre-4.md), avec des billets qui peuvent apparaître au-dessus ou au-dessous.
-3. [Le dernier billet de la série](clitoria-chapitre-7.md), avec tous les autres qui apparaissent au-dessus.
+
+1. [Premier billet de la série Clitoria](../../books/clitoria.md), avec tous les autres qui se déroulent dans l’ordre naturel de lecture.
+2. [Un billet au cœur de la série](../../books/clitoria.md), avec des billets qui peuvent apparaître au-dessus ou au-dessous.
+3. [Le dernier billet de la série](../../books/clitoria.md), avec tous les autres qui apparaissent au-dessus.
 
 Je dois encore coder, débuguer, lisser, créer un sommaire des séries pour la page d’accueil, mais ça prend forme. Et je pense à une histoire que je n’aurais pas pu envisager sur le blog avant, et qui paradoxalement aurait été mieux à sa place sur le rouleau de Facebook, question d’interface. Je vais pouvoir rester chez moi et me réapproprier ce qui m’a été volé bien malgré moi.
 
-
-
-#blog #netlitterature #dialogue #y2014 #2014-12-1-8h56
+#netlitterature #y2014 #2014-12-1-8h56

@@ -19,6 +19,7 @@ Quand les traces deviennent trop complexes pour Google Map, je les exporte en KM
 Pourquoi cette gymnastique ? Toutes les autres solutions que j’ai pu tester, bien qu’en apparence plus sexy et plus simples comme [OpenTraveller](https://www.opentraveller.net/) ou [Garmin Connect](https://connect.garmin.com/modern/courses), sont moins performantes. Dès que les traces grandissent, l’édition devient quasi impossible. Je resterai sur BaseCamp s’il savait afficher les images satellite de Google, mais il propose à la place une option payante et qui impose un pesant téléchargement des images, [BirdsEye](https://buy.garmin.com/fr-FR/FR/p/70144).
 
 ![Trace sur BaseCamp](_i/geek2.webp)
+
 ![Assemblage des tronçons](_i/geek3.webp)
 
 La trace ainsi créée est parfaite pour me guider, mais elle ne comporte aucune information d’altitude, et donc le GPS ne peut pas tracer le profil. Pour ajouter ces informations au fichier KMZ, je passe par [GPSvisualizer](https://www.gpsvisualizer.com/map_input?form=googleearth) qui me génère un nouveau fichier KMZ comportant l’altitude de chacun des points (activer l’option Add DEM elevation data : best available source).
@@ -30,7 +31,9 @@ La trace ainsi créée est parfaite pour me guider, mais elle ne comporte aucune
 Quand j’ouvre mon nouveau fichier KMZ sur BaseCamp, je peux vérifier que les informations altimétriques sont présentes et visualiser le profil. Le calcul du dénivelé cumulé est souvent erroné (14 500 m pour ma trace Méditerranée-Atlantique). Je vérifie ce cumul en ouvrant ma trace sur Google Earth et en affichant le profil (8 500 m). J’obtiens d’autres évaluations via [Komoot](https://www.komoot.com/tour/84426566) (11 000 m), [OpenTraveller](https://www.opentraveller.net/) (9750 m) ou [Tracedetrail](https://tracedetrail.fr/) (qui n’aime pas les traces trop longues). Où est la vérité ? Komoot me semble le plus juste.
 
 ![Trace avec altitude sur BaseCamp](_i/geek5.webp)
+
 ![Le profil sous Google Earth](_i/geek6.webp)
+
 ![Profil sur Komoot](_i/geek7.webp)
 
 Depuis BaseCamp, je peux alors envoyer ma trace au GPS. Désormais, je peux savoir où je me situe sur le profil des montées interminables (à condition de choisir d’afficher l’écran d’élévation).
@@ -50,7 +53,9 @@ Depuis Google Map, j’exporte le calque où j’ai enregistré mes POI, puis r�
 Sur mon GPS, je charge trois cartes :
 
 * L’IGN de la France, au cas où, mais je ne l’active pas (c’est une carte altimétrique mais trop lourde pour le processeur du Garmin 820).
+
 * [L’OSM de la France](https://www.freizeitkarte-osm.de/garmin/en/france.html), également en backup (en plus d’être gratuite, elle est souvent plus détaillée côté chemin que l’IGN — malheureusement, elle n’est pas altimétrique).
+
 * L’OSM qui couvre mon trajet, [générée spécialement pour lui](http://garmin.openstreetmap.nl/). J’active uniquement cette carte. Tout en étant très légère en mémoire, elle est suffisamment détaillée pour m’aider à me repérer en cas de trace approximative.
 
 ![OSM sur mesure](_i/geekgps1.webp)
@@ -65,8 +70,11 @@ En cas de galère, le minuscule écran de mon GPS n’est guère d’utilité, a
 6. Si mon GPS me lâche, MapOut peut aussi me guider.
 
 ![Liste des POI sur MapOut](_i/IMG_5661.webp)
+
 ![Trace complète avec POI](_i/IMG_5662.webp)
+
 ![Téléchargement gratuit des tuiles OSM](_i/IMG_5663.webp)
+
 ![Visualisation 3D du relief](_i/IMG_5664.webp)
 
 ### Note

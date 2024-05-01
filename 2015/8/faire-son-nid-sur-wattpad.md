@@ -8,7 +8,7 @@ Mois après mois, Wattpad ajoute une petite couche de lecteurs à [*1 minute*](h
 
 Je me demande comment nous pourrions réussir ce tour de force sur les blogs où nos billets, sauf effet improbable de référencement, captent leur lectorat en quelques jours puis stagnent dans nos archives (certes ils progressent dans le temps, mais de façon moins spectaculaire que sur Wattpad).
 
-Cette différence entre les deux modèles me tracasse. Parce que, si mon blog n’est pas capable de ramener les nouveaux lecteurs en début de narration, je ne peux y publier de narration, et seulement des billets indépendants, ou vaguement connectés dans un projet où chaque étape doit être facultative, [mes vagabondages par exemple](../../2014/11/le-je-lappareil-photo-et-limprimante/1.md) (preuve s’il en faut que l’outil influence l’écriture comme j’essaie de le montrer dans *[La mécanique du texte](../../page/la-mecanique-du-texte)*).
+Cette différence entre les deux modèles me tracasse. Parce que, si mon blog n’est pas capable de ramener les nouveaux lecteurs en début de narration, je ne peux y publier de narration, et seulement des billets indépendants, ou vaguement connectés dans un projet où chaque étape doit être facultative, [mes vagabondages par exemple](../../2014/11/le-je-lappareil-photo-et-limprimante.md) (preuve s’il en faut que l’outil influence l’écriture comme j’essaie de le montrer dans *[La mécanique du texte](../../page/la-mecanique-du-texte)*).
 
 Imaginez une démonstration mathématique où on ne découvrirait que quelques étapes. Mieux, un programme informatique dont certaines routines seraient absentes, ou une horloge où il manquerait des rouages. C’est un peu ça un blog littéraire. Nous sommes forcés d’y publier des séries non linéaires, lisibles en tout sens, et surtout qui supportent les trous (vous me direz que là modernité pointe dans cette direction).
 
@@ -27,7 +27,5 @@ J’ai essayé de faire parler cette courbe autrement. Le lectorat moyen des 31 
 Alors la tentation du blog est forte. Tout recommencer à zéro. Passer à un autre échantillon de la série, indépendant même si construit selon le même cahier des charges. Pourtant, non, je persévère dans la direction choisie, parce qu’elle me rend heureux, parce qu’elle me tient… et parce que le blog, c’est implicitement subir la dictature des chiffres, même quand on ne consulte jamais ses statistiques. C’est une façon de la subir en creux, parce que le lectorat d’un jour n’influence que faiblement celui du jour suivant. 
 
 Il me faudra à l’avenir réfléchir à la différence entre le billet et le chapitre, entre l’échantillon d’une série et l’épisode d’un feuilleton. Tout se joue dans le rapport entre l’auteur et le lecteur. C’est une question de responsabilité (par exemple celle de tenir en haleine). Et je l’avoue, bloguer est bien moins exigeant que tenir un lecteur sur la distance d’une histoire ou d’une réflexion. En tout cas, si on se laisse aller à l’indépendance naturelle des billets, sans en faire une contrainte esthétique.
-
-
 
 #netlitterature #wattpad #dialogue #y2015 #2015-8-1-12h39

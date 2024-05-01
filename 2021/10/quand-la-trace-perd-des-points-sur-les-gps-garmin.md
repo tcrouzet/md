@@ -4,7 +4,7 @@
 
 Si comme moi vous roulez des traces créées avec [Garmin BaseCamp](https://www.garmin.com/fr-FR/software/basecamp/), l’outil de dessin le plus puissant à notre disposition, bien plus performant que les services en ligne, vous êtes peut-être tombés sur un bug des plus ennuyeux, parce qu’il survient sur le terrain, une fois bien engagé sur la trace.
 
-J’ai découvert le problème peu de temps [après avoir troqué mon Garmin 820 contre un 530](../../2020/10/pourquoi-jai-rachete-gps-garmin/?swcfpc=1.md). Lors d’une sortie, après une vingtaine de kilomètres, ma trace manquait de précision, des secteurs entiers étaient remplacés par des lignes droites. Une amie qui roulait avec un 1030 avait le même problème, pendant que tout fonctionnait normalement avec les Wahoo.
+J’ai découvert le problème peu de temps [après avoir troqué mon Garmin 820 contre un 530](../../2020/10/pourquoi-jai-rachete-gps-garmin.md). Lors d’une sortie, après une vingtaine de kilomètres, ma trace manquait de précision, des secteurs entiers étaient remplacés par des lignes droites. Une amie qui roulait avec un 1030 avait le même problème, pendant que tout fonctionnait normalement avec les Wahoo.
 
 J’ai cru à un bug intermittent, puis il s’est répété plusieurs fois, j’ai fini par constater qu’il était fréquent, souvent assez insignifiant pour ne pas trop me déranger. Je ne décide de comprendre cette affaire qu’à la veille de m’engager avec les copains dans une [i727](https://tcrouzet.com/i727).
 

@@ -19,7 +19,9 @@ J’écris un texte pour Didier, une conférence qu’il doit donner sur un suje
 Je regarde *Foundation*, décevante série guimauve inspirée d’Asimov. Je persiste par nostalgie de mes lectures d’adolescence. Lointain futur, villes tentaculaires, comme si notre avenir ne devait pas être tout autre. Rien ne tient dans cette projection. Après trente ans sur une nouvelle planète, des pionniers en sont encore à vivre dans des yourtes alors qu’aujourd’hui, en Chine, dans la même durée, on construit des villes de plusieurs millions d’habitants.
 
 ![Agde](_i/IMG_2448.webp)
+
 ![Agde](_i/IMG_2450.webp)
+
 ![Marseillan](_i/IMG_2452.webp)
 
 ### Dimanche 3, Balaruc
@@ -39,11 +41,13 @@ Sortie vélo, préoccupée par un grincement. Je bois un coup, lâche la gourde,
 [Je rentre de la boucle à VTT, le genou a tenu](../10/bikepacking-dans-lautomne-flamboyant-du-midi.md), la lumière translucide de l’automne a aidé, je me retrouve face au vide attendu. Les deux derniers tomes de *One Minute* à relire et je serai sans projet.
 
 ![Cette lumière…](_i/IMG_2971.webp)
+
 ![Cette lumière…](_i/IMG_2973.webp)
 
 ### Mardi 12, Balaruc
 
 ![Cette lumière…](_i/IMG_2978.webp)
+
 ![Cette lumière…](_i/IMG_2983.webp)
 
 ### Mercredi 13, Balaruc
@@ -64,7 +68,7 @@ Je ne fais pas les paysages, je les choisis : les collines, les chemins, les fo
 
 Ma quête esthétique est hors des livres, des musées, des cinémas, ma quête est dans l’espace géographique, à la surface de Gaia, ma quête est écologique, engage comme les jeux vidéo engagent mes fils. Il y a une parenté, une nouvelle dimension de l’art, qui comme toujours a des origines anciennes, Stevenson et son voyage dans les Cévennes, par exemple.
 
-[Quand j’ai écrit mon dernier récit](../10/bikepacking-dans-lautomne-flamboyant-du-midi/?swcfpc=1.md), je me suis dit que je me répétais. J’ai commencé par dire que la littérature venait après le voyage, mais la littérature n’est qu’un compte rendu d’une œuvre interprétée par nous, que d’autres interpréteront à leur tour. S’il y a œuvre, c’est la trace, comme le GR70 est l’œuvre de Stevenson plus que le *Voyage avec un âne dans les Cévennes*. Les textes ont pour ambition de provoquer des envies, de célébrer l’expérience, de l’intensifier rétrospectivement et prospectivement, au nom de celles qui suivront.
+[Quand j’ai écrit mon dernier récit](../10/bikepacking-dans-lautomne-flamboyant-du-midi.md), je me suis dit que je me répétais. J’ai commencé par dire que la littérature venait après le voyage, mais la littérature n’est qu’un compte rendu d’une œuvre interprétée par nous, que d’autres interpréteront à leur tour. S’il y a œuvre, c’est la trace, comme le GR70 est l’œuvre de Stevenson plus que le *Voyage avec un âne dans les Cévennes*. Les textes ont pour ambition de provoquer des envies, de célébrer l’expérience, de l’intensifier rétrospectivement et prospectivement, au nom de celles qui suivront.
 
 Je pourrais m’arrêter là. Revenir à la carte, imaginer d’autres traces, l’envie est violente, je la réfrène, contaminée par une idée ancienne de l’art et de la littérature, aussi parce que mon existence d’auteur tient à une vieille industrie qui n’a pas idée d’à quoi je passe mon temps, dont ses acteurs ignorent nos jouissances. Je reste faible, attaché à une petite reconnaissance, j’ai envie parfois d’imiter comme les autres, de revenir à la norme. Alors j’attends l’idée d’un livre, avec la certitude dérangeante que la beauté est ailleurs, à moins que je ne réussisse un tour de passe-passe qui m’échappe encore.
 
@@ -99,14 +103,19 @@ La trace est l’œuvre et le récit que sa description. Impression de tourner e
 ### Dimanche 17, Balaruc
 
 ![Mèze](_i/IMG_3034.webp)
+
 ![Mèze](_i/IMG_3051.webp)
+
 ![Mèze](_i/IMG_3041.webp)
 
 ### Lundi 18, Balaruc
 
 ![Marseillan](_i/IMG_3061-1.webp)
+
 ![Marseillan](_i/IMG_3064.webp)
+
 ![Marseillan](_i/IMG_3068.webp)
+
 ![Marseillan](_i/IMG_3073.webp)
 
 ### Mardi 19, Balaruc
@@ -178,7 +187,9 @@ Je me suis mis à écrire. Une musique s’est imposée. J’ai envoyé à Pierr
 François Bon raconte son autobiographie en vidéo. Il me paraît être le premier à explorer cette forme. Ses expérimentations de ces dernières années amenant à ce point précis. J’ai écrit la mienne de manière plus traditionnelle, mais peut-être qu’une autre s’écrit sur les chemins. Lui comme moi ne savons qu’une chose : pour nous dire, il nous faut arriver à notre forme, qui passe par les nouveaux outils pour dire en quoi notre vie est contemporaine. Pour François, la vidéo. Pour moi, le GPS. J’aimerais savoir comment Michon résoudrait cette équation. Dans le discret silence ? Peut-être la seule réponse face au brouhaha.
 
 ![Frontignan](_i/IMG_3666.webp)
+
 ![Frontignan](_i/IMG_3668.webp)
+
 ![Frontignan](_i/IMG_3673.webp)
 
 ### Samedi 30, Balaruc

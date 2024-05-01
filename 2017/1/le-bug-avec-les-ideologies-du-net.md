@@ -3,11 +3,17 @@
 ![](_i/jcfrog.png)
 
 Depuis une trentaine d’années, nous n’avons pas été avares en nouvelles théories politiques qui devaient changer le monde si elles étaient appliquées.
+
 * Les logiciels libres, l’art libre, les monnaies libres… vs les logiciels propriétaires, les œuvres sous copyright, les monnaies privatives de liberté.
+
 * La gratuité, l’abondance, le coût marginal zéro… vs le tout payant, la pénurie artificiellement maintenue au profit des capitalistes.
+
 * L’économie du don vs l’économie marchande.
+
 * La décentralisation réticulaire, l’horizontalité, l’auto-organisation, la coopération vs la subordination, le management top-down et la coercition.
+
 * Le tirage au sort ou la démocratie directe vs le vote et le modèle représentatif élitiste.
+
 * Le revenu de base vs pour unique horizon le salariat ou le chômage.
 
 Nous pensions que, en mettant en œuvre ces théories, nous aboutirions à un monde plus fraternel, plus harmonieux, plus libre, plus respectueux, plus égalitaire… Nous pensions nous battre pour nos valeurs. Le problème, nous avons fini par confondre nos valeurs avec les théories politiques censées leur profiter.
@@ -37,7 +43,7 @@ Nous devons prendre garde. Quand les défenseurs d’une théorie n’acceptent 
 
 Un théoricien ne devrait pas agir différemment d’un entrepreneur. Il pose ses idées, il les met en œuvre, si elles n’atteignent pas leur objectif, il les amende ou il passe à autre chose.
 
-[En commentaire](la-gratuite-fabrique-des-elites/#comment-184214.md), Stéphane Gallay me dit : « Je lis cet article, je vois le questionnement, mais quelque part je me demande si le vrai souci, c’est que des modèles comme celui de la gratuité – un peu comme celui du revenu universel – sont porteurs de disruptions majeures et que des réactions telles que celle-ci ne sont pas une crainte d’un saut vers l’inconnu ? »
+En commentaire, Stéphane Gallay me dit : « Je lis cet article, je vois le questionnement, mais quelque part je me demande si le vrai souci, c’est que des modèles comme celui de la gratuité – un peu comme celui du revenu universel – sont porteurs de disruptions majeures et que des réactions telles que celle-ci ne sont pas une crainte d’un saut vers l’inconnu ? »
 
 Je ne suis pas d’accord. Ça fait plus de quinze ans que je me bats pour les théories politiques listées plus haut. Mon blog est sous licence Creative Commons. J’ai distribué plusieurs de mes livres gratuitement, notamment *[Le geste qui sauve](../../page/le-geste-qui-sauve)* qui est aujourd’hui traduit en dix-sept langues. J’ai fait ma part du boulot, et je suis en ce moment même en train de la poursuivre, puisque ce billet est libre comme tous les autres.
 
