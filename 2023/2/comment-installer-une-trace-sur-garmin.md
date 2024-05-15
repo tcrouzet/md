@@ -4,8 +4,6 @@
 
 On ne cesse de me poser cette question. La procédure n’est donc pas intuitive. Je ne suis pas le roi des pédagogues, mais je vais vous présenter les différentes méthodes que j’utilise. Pour être pragmatique, je m’appuie sur [la trace du 727 hébergée sur VisuGPX](https://www.visugpx.com/XvU1OlWJ6Z). C’est une trace techniquement intéressante parce qu’elle s’étend sur près de 600 km et comporte des dizaines de POI (points d’intérêt ou waypoints). Elle pose donc plus de difficultés de synchronisation qu’une trace courante, ce qui me permettra d’explorer diverses possibilités.
 
-[tcrouzet function="tcrouzet\_visugpx" map="https://www.visugpx.com/XvU1OlWJ6Z"]
-
 ### 1. Synchro par site de partage
 
 [Garmin Connect](https://connect.garmin.com/) est à la fois un site web et une app pour mobile. Dès qu’on utilise un GPS Garmin, on se doit de créer un compte Garmin Connect auquel associer son appareil, cette association s’effectue via l’application [Garmin Express](https://www.garmin.com/fr-FR/software/express/) ou via l’app mobile.
@@ -90,6 +88,4 @@ Suivant les situations, j’utilise l’une ou l’autre de ces méthodes de syn
 
 *PS : [dans un autre article](../../2021/3/comment-suivre-une-trace-gps-en-bikepacking.md), j’ai présenté ma méthode pour suivre une trace bikepacking.*
 
-
-
-#velo #y2023 #2023-2-10-9h37
+#velo #gps #y2023 #2023-2-10-9h37
