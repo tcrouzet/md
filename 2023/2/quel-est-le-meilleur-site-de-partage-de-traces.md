@@ -10,7 +10,7 @@ Pour partager les sorties quotidiennes, des services comme Strava ou Komoot s’
 
 Quand nous publions des photos, nous ne nous attendons pas à ce que le ciel change de couleur, que des arbres disparaissent et que d’autres apparaissent. C’est la moindre des choses. J’ai la même attente quand je publie une trace, malheureusement des sites prennent des libertés inacceptables.
 
-J’ai constaté ce problème [lors d’un 727](https://tcrouzet.com/727tour). Devant moi, des copains partaient dans la mauvaise direction. J’ai mis du temps avant de découvrir que ceux qui se fourvoyaient n’avaient pas récupéré la trace sur le même site que les autres.
+J’ai constaté ce problème [lors d’un 727](https://727.tcrouzet.com). Devant moi, des copains partaient dans la mauvaise direction. J’ai mis du temps avant de découvrir que ceux qui se fourvoyaient n’avaient pas récupéré la trace sur le même site que les autres.
 
 ![VisuGPX](_i/visu01.webp)
 
@@ -59,12 +59,17 @@ GoogleMap est ma base de données. Sur une seule carte, j’empile des centaines
 Le problème : GoogleMap ne travaille pas en GPX. Il faut exporter les données au format KML, [puis les convertir pour les importer dans les autres services](https://www.gpsvisualizer.com/convert_input), bien souvent perdant au passage de précieuses informations. Conclusion : si GoogleMap est un excellent outil de travail, ce n’est pas réellement un outil de partage.
 
 ![POI sur 727](_i/visu727.webp)
+
 [Je me suis donc bricolé un script pour convertir mes traces et POI GoogleMap](https://bikepacking.000webhostapp.com/gpx/) de façon à pouvoir les importer sur [VisuGPX](https://www.visugpx.com/) et [RideWithGPS](https://ridewithgps.com/), les deux seuls services à mes yeux qui possèdent toutes les fonctions indispensables.
 
 * POI, repérés par des icônes.
+
 * Possibilités de créer des étapes sur la trace (sur VisuGPX, les drapeaux visibles sur le profil indiquent les étapes).
+
 * Parfaite intégration sur les sites externes.
+
 * Différents modes de visualisation, avec différents fonds cartographiques.
+
 * Analyse fine du parcours par sélection sur le profil.
 
 J’utilise toutes ces fonctions pour présenter mes traces, avec une petite préférence pour VisuGPX, parce que c’est une solution française, parce que le fonds cartographique IGN est disponible, parce qu’en prime l’outil de traçage est tout simplement sans équivalent ailleurs.

@@ -3,9 +3,10 @@
 ![Les salins de Gruissan](_i/IMG_9287.webp)
 
 Pas de mauvais jeu de mots ici, il ne s’agit pas du plaisir d’être reconnu pour ses mérites, ses exploits, ses prouesses, mais du plaisir d’explorer les chemins dans le but de découvrir un itinéraire idéal, sur un territoire parfois mal connu, voire encore inconnu, dans le but de construire une trace à partager avec des amis. Ce double objectif d’exploration et de partage fait qu’une reco n’a rien d’une sortie ordinaire.
+
 ![La Roubine](_i/IMG_9186.webp)
 
-Quand je m’arrête pour prendre une photo, quand mes yeux brillent ou que mes roues virevoltent dans des singles, je sais que je retiendrai le tronçon, puis quand trop de cailloux commencent à me fracasser les bras, voire me poussent à mettre pied à terre, je sais que je reviendrai pour trouver une autre solution. Sur mes [727](https://tcrouzet.com/727tour), [i727](https://tcrouzet.com/i727), [Côte Sud](../../../../page/cote-sud.md), je ne cesse ainsi de peaufiner, toujours à la recherche de nouvelles possibilités. J’ai l’ambition folle d’exprimer le territoire, de lui rendre hommage, de ne passer à côté d’aucune de ses pépites tout en évitant ses points noirs, aussi bien les routes dangereuses que les décharges sauvages.
+Quand je m’arrête pour prendre une photo, quand mes yeux brillent ou que mes roues virevoltent dans des singles, je sais que je retiendrai le tronçon, puis quand trop de cailloux commencent à me fracasser les bras, voire me poussent à mettre pied à terre, je sais que je reviendrai pour trouver une autre solution. Sur mes [727](https://727.tcrouzet.com/727/), [i727](https://727.tcrouzet.com/i727), [Côte Sud](https://727.tcrouzet.com/cote-sud/), je ne cesse ainsi de peaufiner, toujours à la recherche de nouvelles possibilités. J’ai l’ambition folle d’exprimer le territoire, de lui rendre hommage, de ne passer à côté d’aucune de ses pépites tout en évitant ses points noirs, aussi bien les routes dangereuses que les décharges sauvages.
 
 ![Bages](_i/IMG_9195.webp)
 
@@ -44,7 +45,9 @@ Je me fais plaisir en ramenant le passé au présent, en le réactivant à coups
 Je revendique ma naïveté. J’ai toujours l’espoir que le vélo serve d’exemple au reste de la société. En tous cas, là comme ailleurs, je cherche à tenir une attitude éthique, en phase avec les urgences de notre temps. Cette attitude aussi me fait plaisir, parce qu’elle m’encre, donne sens à ma vie, et fait que je ne pédale pas seulement pour faire du sport, mais aussi pour participer à la société, pour partager des beautés qualitatives, davantage porteuses d’avenir que les approches quantitatives, qui poussent à la comparaison et à la rivalité compétitive. Si pour les uns le vélo est un business, pour moi c’est un art de vivre.
 
 ![Le Golfe Antique](_i/IMG_9261.webp)
+
 *PS : Aujourd’hui, les Gafam mais aussi Strava, Komoot et autres exploitent les traces que nous laissons sur le net, et les traceurs colonialistes font de même à leur petite échelle. Nous sommes entrés dans la société de la trace, après celle du pétrole. On pourrait ne rien y trouver à dire, mais je me bats politiquement depuis bien longtemps contre ceux qui nous dépossèdent de nos créations qu’elles soient conscientes, par exemple nos textes publiés, même les plus anodins, ou inconscientes, notre géolocalisation, nos goûts, nos préférences, nos amis. Je milite pour un partage des revenus. Ma philosophie : « Si tu gagnes de l’argent grâce à mon travail, quel qu’il soit, tu dois partager avec moi. » Les médias se battent depuis des années contre Google sur ce terrain, mais nous devrions tous ainsi défendre nos droits. Comme tous les capitalistes, les traceurs colonialistes exploitent une ressource inexploitée par les autochtones. Le colonialisme et le capitalisme ont toujours été inséparables.*
+
 ![Ciel de traîne](_i/IMG_9289.webp)
 
 #velo #y2022 #2022-9-17-19h10

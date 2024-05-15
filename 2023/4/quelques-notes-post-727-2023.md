@@ -2,7 +2,8 @@
 
 ![Espinouse](_i/IMG_1623.webp)
 
-Cette édition du [727](https://tcrouzet.com/727tour) a été dure, très dure, avec le samedi une tempête d’ouest qui n’a cessé ne nous freiner, une première nuit pluvieuse et toujours venteuse, un dimanche humide, avec un vent du nord glacial, alors que nous même progressions désormais vers le nord. Les chemins étaient gras, glissants, des arbres s’étaient couchés pour nous compliquer la tâche. Plus de la moitié des participants ont abandonné durant ces deux premières journées.
+Cette édition du [727](https://727.tcrouzet.com) a été dure, très dure, avec le samedi une tempête d’ouest qui n’a cessé ne nous freiner, une première nuit pluvieuse et toujours venteuse, un dimanche humide, avec un vent du nord glacial, alors que nous même progressions désormais vers le nord. Les chemins étaient gras, glissants, des arbres s’étaient couchés pour nous compliquer la tâche. Plus de la moitié des participants ont abandonné durant ces deux premières journées.
+
 ![Bannière finisher](_i/poussan-banner.webp)
 
 Je n’ai jamais été aussi fatigué en atteignant le dimanche soir les refuges du lac de Vézole, après une bataille constante contre les éléments et les terrains rendus difficiles. Le lundi matin sur les hauteurs de l’Espinouse, il faisait froid, brumeux, toujours venteux, mais peu à peu le ciel s’est éclairci, jusqu’à ce que, déjà bien entamés, nous atteignons la forêt d’Escandorgue, où la nécessité de porter les vélos pour franchir de nombreux obstacles, certains dressés par des randonneurs jaloux, ne nous achève.

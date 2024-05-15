@@ -4,6 +4,8 @@
 
 Plutôt que de publier de temps à autre ma configuration bikepacking, je tiens un journal de configuration, [résumé par un tableau détaillé](https://docs.google.com/spreadsheets/d/1Co6BJql8z7uWCvAokGcDrKaEyAMb-X_zLue6_id3nB4/edit?usp=sharing) (MAJ février 2023).
 
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtXMtpZrGSpN66bcB2kZJOEYfbSKyhhKy6cAtTCVE7unBsf85UIawZni0HyVScCcyS2C1DRbdeiar6/pubhtml?widget=true&amp;headers=false"></iframe>
+
 ### Avril 2023
 
 Configuration type pour un [727](/727tour/). Début avril dans l’Hérault, on peut se retrouver en été comme en hiver, donc il faut ajuster les fringues et le matos de bivouac au dernier moment. Souvent je pars avec la tente et le bivy. Par rapport à avril 2022, j’ai remplacé [la selle SMP Glider par sa version avec rails carbone](https://www.sellesmp.com/eu_fr/glider.html). C’est la première selle qui ne me rabote pas le pli des cuisses en longues distance ([testée et approuvée durant le P27](/2022/07/15/une-traversee-de-la-france-a-vtt/)). J’ai testé des portes bidons carbone ultra light [Zefal Pulse l2](https://www.zefal.com/fr/porte-bidons/496-pulse-l2.html) (18 g), mais installés sur la fourche ils éjectent les bidons à la moindre secousse (parfait en revanche sur mon gravel).
@@ -11,6 +13,7 @@ Configuration type pour un [727](/727tour/). Début avril dans l’Hérault, on 
 ### Juillet 2022
 
 ![Pilotage](_i/IMG_7787.webp)
+
 ![Sac de selle Lucy Rujdan](_i/IMG_7785.webp)
 
 Configuration estivale pour un [P27](../../../../page/p27.md) qui s’annonce ensoleillé et sec. J’évite la tente et me contente d’un bivy sans tarp. J’aime de plus en plus dormir à la belle étoile et apprécie la rapidité de mise en œuvre du bivy. En cas d’orage ou de forte humidité, nous rechercherons des abris.

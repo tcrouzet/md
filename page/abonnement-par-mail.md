@@ -8,11 +8,13 @@ Abonne-toi avec le formulaire en bas de cette page.
 
 ### Fils RSS
 
-[Fil du blog](/feeds/feed.xml)
+[Tous les articles…](/feeds/feed.xml)
+
+[Blog…](/feeds/blog.xml)
 
 [Carnet de route…](/feeds/carnet-de-route.xml)
 
-[Born to Bike…](/feeds/borntobike.xml)
+[Vélo…](/feeds/borntobike.xml)
 
 [Écriture…](/feeds/ecriture.xml)
 

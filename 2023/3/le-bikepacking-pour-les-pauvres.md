@@ -2,7 +2,7 @@
 
 ![Bord de mer](_i/IMG_1208.webp)
 
-En organisant [le 727](https://tcrouzet.com/727tour), tout en faisant payer [une dîme symbolique](../../../../page/727gd.md), je n’ai sacrifié à aucun service (hébergement, petit-déjeuner, apéro à l’arrivée, assurance…). À l’exception des goodies et autres chinoiseries, j’ai coché toutes les cases sauf une : je n’ai pas proposé une solution de tracking satellite de type [Trackleaders](http://trackleaders.com/), contrairement à beaucoup d’épreuves onéreuses.
+En organisant [le 727](https://727.tcrouzet.com), tout en faisant payer [une dîme symbolique](../../../../page/727gd.md), je n’ai sacrifié à aucun service (hébergement, petit-déjeuner, apéro à l’arrivée, assurance…). À l’exception des goodies et autres chinoiseries, j’ai coché toutes les cases sauf une : je n’ai pas proposé une solution de tracking satellite de type [Trackleaders](http://trackleaders.com/), contrairement à beaucoup d’épreuves onéreuses.
 
 Dans les pays avec une bonne couverture mobile, je ne suis pas sûr que de tels systèmes apportent un énorme bénéfice côté sécurité, du moins à vélo. Il ne bouge plus ? Il est tombé ? Il fait une sieste ? Très difficile à dire, à moins que le signal d’alerte ait été déclenché (comme il peut l’être via un GPS classique par l’intermédiaire d’un téléphone). Bien sûr, donner l’alerte peut-être salutaire dans certaines situations. Je ne le nie pas, mais la meilleure sécurité en bikepacking, si on est sensible à cette dimension, reste de rouler à plusieurs. Ça vaut toutes les technologies de SOS. Si on veut des épreuves hypersécure, il faut imposer le roulage en équipe.
 
@@ -66,7 +66,5 @@ Le 1er avril, avec le départ du 727, vous aurez droit à un test grandeur natur
 3. Carte partageable (avec trace GPX et une icône par cycliste).
 4. Ne ponctionne pas la batterie du téléphone.
 5. Aucune contrainte (pas d’obligation, pas de lieux particuliers type CP, pas de fréquence imposée…)
-
-
 
 #velo #y2023 #2023-3-7-10h52
