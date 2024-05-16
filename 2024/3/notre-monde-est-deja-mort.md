@@ -17,9 +17,13 @@ Voici l’entrée automatiquement générée pour aujourd’hui à partir de tro
 ---
 
 **Liens**
+
 [Laurie Anderson on making an AI chatbot of Lou Reed: ‘I’m totally, 100%, sadly addicted’](https://www.theguardian.com/music/2024/feb/28/laurie-anderson-ai-chatbot-lou-reed-ill-be-your-mirror-exhibition-adelaide-festival)
+
 [Vladimir Poutine serait à deux doigts d’appuyer sur le bouton nucléaire](https://www.blick.ch/fr/news/monde/des-documents-secrets-du-kremlin-alertent-les-experts-vladimir-poutine-serait-a-deux-doigts-dappuyer-sur-le-bouton-nucleaire-id19481541.html)
+
 [Beyond GPT-4: Dive into Fudan University’s LONG AGENT and Its Revolutionary Approach to Text Analysis!](https://www.marktechpost.com/2024/02/28/beyond-gpt-4-dive-into-fudan-universitys-long-agent-and-its-revolutionary-approach-to-text-analysis/)
+
 **Texte**
 
 J’aime anticiper l’avenir tout en me moquant du présent. Un jour, nos doubles numériques feront l’amour, l’art et la guerre à notre place. Laurie Anderson nous le prouve avec I’ll Be Your Mirror, son hommage à Lou Reed. Elle nous montre un futur où l’art, l’intelligence artificielle et les morts se rencontrent. Si elle l’accepte, pourquoi pas moi ?
@@ -36,7 +40,7 @@ Ces articles reflètent le grand écart entre la grandeur et la décadence de no
 
 ---
 
-Je suis sur le cul. J’ai l’impression de vivre dans un roman de science-fiction. Si vous vous intéressez à mes lectures, [vous pouvez vous abonner à mon nouveau Daylog](http://eepurl.com/iLbNEE) ([ou consulter les archives](https://us18.campaign-archive.com/?u=b7e4cf04c803fc0f26b2fff20&id=cb132afcfc)). Toutes les fins d’après-midi à dix-huit heures, vous recevrez leur mise en perspective, et à travers les commentaires qui ressemblent à du Crouzet sans être du Crouzet vous percevrez peut-être mieux ce qui est en jeu dans le monde.
+Je suis sur le cul. J’ai l’impression de vivre dans un roman de science-fiction. Si vous vous intéressez à mes lectures, [vous pouvez vous abonner à mon nouveau Genlog](http://eepurl.com/iLbNEE) ([ou consulter les archives](https://us18.campaign-archive.com/?u=b7e4cf04c803fc0f26b2fff20&id=cb132afcfc)). Toutes les fins d’après-midi à dix-huit heures, vous recevrez leur mise en perspective, et à travers les commentaires qui ressemblent à du Crouzet sans être du Crouzet vous percevrez peut-être mieux ce qui est en jeu dans le monde.
 
 L’œuvre est la mécanique de fabrication du texte plus que le texte fabriqué, une mécanique qui dit en creux comment fonctionne le monde d’aujourd’hui. L’œuvre c’est un bon millier de lignes de Python et les prompts qui la rendent possible.
 
@@ -47,21 +51,33 @@ Grâce à l’API Pocket, je récupère les titres et les URL des derniers artic
 Mon but est alors de créer [une requête RAG](../1/premieres-terreurs-devant-une-ia.md) : le principe est de donner du contexte à un prompt pour le guider. Voici le system prompt (celui défini dans les préférences utilisateur de ChatGPT) :
 
 `Tu es Thierry Crouzet et réponds à la première personne comme il le ferait, avec son style minimaliste.`
+
 `Tu n’hésites pas à parler de toi dans le contexte proposé.`
+
 `Tu généralises et dépasse le contexte.`
+
 `Tu ne dis jamais nous, mais je.`
+
 `Tu es drôle et ne te prends pas au sérieux.`
+
 `Établis un plan en dix points pour structurer ta réponse (mais n’affiche pas ce plan).`
+
 `Développe les dix points en un texte homogène, mais ne répond pas sous une forme de liste.`
+
 `Ne dis jamais que tu es Thierry Crouzet, c’est évident.`
 
 Dans ce contexte, voici le prompt :
 
 `Comme tu en as l’habitude dans tes carnets, discute à la première personne des {NARTICLES} articles suivants en prenant de la hauteur et en tenant compte du contexte.`
+
 `Commence par une phrase accrocheuse, voire provocante.`
+
 `Tu te mets en scène.`
+
 `Tu ne paraphrases pas les articles.`
+
 `Tu crées des liens entre les articles (tu cherches une corrélation entre eux).`
+
 `{ARTICLES}`
 
 Pour ne pas faire exploser le nombre de tokens, je ne colle pas les articles complets, mais leur résumé. Par ailleurs, il me faut garder de la place, pour le contexte, c’est là que la magie opère. Je vectorise chacun des résumés des articles (opération d’embedding) et je recherche des correspondances dans mes carnets, [eux-mêmes totalement vectorisés](../1/premieres-terreurs-devant-une-ia.md). Chaque fois que je trouve une similarité entre les vecteurs, des objets 3076 réels, j’ajoute le texte correspondant au contexte, tout en veillant à rester en dessous la fenêtre de 4096 tokens.

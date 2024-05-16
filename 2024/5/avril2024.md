@@ -26,7 +26,7 @@ Je tente d’échapper à la paralysie mentale en publiant [mon journal de mars]
 
 ----
 
-Je lis tous les jours mon Daylog, et ces phrases qui pourraient être de moi et pourtant ne le sont pas. Elles me disent ce que je ne dois plus écrire, sans me dire ce que je dois écrire. Pourquoi je devrais écrire ? Parce que sinon je me sens mal, inaccompli, incomplet. Écrire pour me compléter, pour tenter de vivre cette époque d’effondrement dans le vertige.
+Je lis tous les jours mon Genlog, et ces phrases qui pourraient être de moi et pourtant ne le sont pas. Elles me disent ce que je ne dois plus écrire, sans me dire ce que je dois écrire. Pourquoi je devrais écrire ? Parce que sinon je me sens mal, inaccompli, incomplet. Écrire pour me compléter, pour tenter de vivre cette époque d’effondrement dans le vertige.
 
 ### Mercredi 10, Balaruc
 

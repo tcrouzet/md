@@ -4,11 +4,11 @@
 
 ### Vendredi 1<sup>er</sup>, Balaruc
 
-Je commence le mois dans l’euphorie de lancer [Daylog](https://daylog.tcrouzet.com/). Personne n’en verra l’intérêt, mais je n’ai aucun doute de l’importance de la chose, comme une démonstration de l’irrésistible avancement du monde à vitesse supersonique.
+Je commence le mois dans l’euphorie de lancer [Genlog](https://genlog.tcrouzet.com/). Personne n’en verra l’intérêt, mais je n’ai aucun doute de l’importance de la chose, comme une démonstration de l’irrésistible avancement du monde à vitesse supersonique.
 
 ### Dimanche 3, Balaruc
 
-Sur Daylog, plus je raffine le code, plus j’obtiens des résultats impressionnants. Dans la newsletter qui sera publiée demain, le modèle me cite et établit des liens entre les articles et mon journal d’une manière bluffante. Les connexions témoignent d’une forme indéniable de créativité.
+Sur Genlog, plus je raffine le code, plus j’obtiens des résultats impressionnants. Dans la newsletter qui sera publiée demain, le modèle me cite et établit des liens entre les articles et mon journal d’une manière bluffante. Les connexions témoignent d’une forme indéniable de créativité.
 
 ### Lundi 4, Balaruc
 
@@ -36,7 +36,7 @@ Je ne connais pas Joanne Richoux, mais [j’aime sa mise au point adressée à s
 
 ### Mercredi 6, Balaruc
 
-Daylog est une œuvre générative, en ce sens qu’elle procède d’un code et ne s’arrête qu’une fois que l’infrastructure qui la met en œuvre s’arrête. Tout en discutant avec Erika cet après-midi, j’ai imaginé une IA qui raconterait une histoire à partir d’une trace GPX. Elle pourrait parler des lieux traversés, des chemins et des routes.
+Genlog est une œuvre générative, en ce sens qu’elle procède d’un code et ne s’arrête qu’une fois que l’infrastructure qui la met en œuvre s’arrête. Tout en discutant avec Erika cet après-midi, j’ai imaginé une IA qui raconterait une histoire à partir d’une trace GPX. Elle pourrait parler des lieux traversés, des chemins et des routes.
 
 ### Jeudi 7, Balaruc
 
@@ -70,9 +70,9 @@ L’IA serait un nouvel intermédiaire entre le créateur et son œuvre, mais da
 
 Je continue avec Andrew Perfors. Comme il suppose qu’il a toujours une intention derrière une œuvre, et une intention derrière chacun de ses détails, il voit dans les œuvres IA une diminution de cette intentionnalité.
 
-Je peux déjà questionner son hypothèse d’une intentionnalité, moi qui écrit souvent porté par le flow sans trop savoir où je vais et sans effectuer le moindre travail réflexif. Il y a bien sûr au minimum une envie, une curiosité, mais pas toujours une intention. Par exemple, avec [Daylog](https://daylog.tcrouzet.com/) je n’ai pas d’intention particulière, ou alors mon intention est de voir ce qu’un combo homme/ia peut produire. Alors, oui, de cette façon, on peut mettre de l’intentionnalité derrière le moindre désir.
+Je peux déjà questionner son hypothèse d’une intentionnalité, moi qui écrit souvent porté par le flow sans trop savoir où je vais et sans effectuer le moindre travail réflexif. Il y a bien sûr au minimum une envie, une curiosité, mais pas toujours une intention. Par exemple, avec [Genlog](https://genlog.tcrouzet.com/) je n’ai pas d’intention particulière, ou alors mon intention est de voir ce qu’un combo homme/ia peut produire. Alors, oui, de cette façon, on peut mettre de l’intentionnalité derrière le moindre désir.
 
-Mais dire qu’il y a moins d’intentionnalité dans une œuvre co-créée avec IA, j’ai quelques doutes. Avec Daylog, mon intentionnalité est dans le code, elle y est même décomposée ligne à ligne avec une minutie maniaque.
+Mais dire qu’il y a moins d’intentionnalité dans une œuvre co-créée avec IA, j’ai quelques doutes. Avec Genlog, mon intentionnalité est dans le code, elle y est même décomposée ligne à ligne avec une minutie maniaque.
 
 Le problème selon Andrew Perfors, c’est que peu de gens seraient aussi maniaques que moi (c’est fort possible), et donc diffuseraient des œuvres non surchargées d’intentionnalité. Il n’a pas tort, mais de nombreuses œuvres fort populaires ne contiennent déjà pas beaucoup d’intentionnalité ; les IA ne font que nous approcher un peu plus près du degré zéro de l’art.
 
@@ -156,7 +156,7 @@ Tous les jours ou presque, je supprime de mes amis Facebook des réactionnaires,
 
 ### Mercredi 20, Balaruc
 
-Une amie m’envoie un lien vers un roman écrit à l’aide d’une IA. Je lui réponds que je n’en suis plus là et [pointe vers mon dernier Daylog](https://daylog.tcrouzet.com/2024/03/20_fr/). Elle me répond, avec un extrait : « Ces avancées posent des questions existentielles. Elles nous confrontent à notre double nature, capable du meilleur comme du pire. La technologie, qui est notre génie, peut nous élever ou nous anéantir. Comme je l’ai souvent écrit, l’humanité se joue entre la création et la destruction, entre l’espoir et la peur. Nous devons apprendre à naviguer dans cette dualité, à embrasser le chaos tout en recherchant l’harmonie. Nous sommes les sculpteurs et l’argile. » Mon amie ajoute : « Rien de nouveau, cette dualité, non ? » Ma réponse : oui, sauf que je n’ai pas écrit ces phrases, et ça c’est radicalement nouveau. Mon amie n’avait pas compris que des IA étaient derrière Daylog. Elle n’en revenait pas. Je me demande quand le grand public comprendra que nous sommes en train de changer d’époque et que nous vivons une transition historique.
+Une amie m’envoie un lien vers un roman écrit à l’aide d’une IA. Je lui réponds que je n’en suis plus là et [pointe vers mon dernier Genlog](https://genlog.tcrouzet.com/2024/03/20_fr/). Elle me répond, avec un extrait : « Ces avancées posent des questions existentielles. Elles nous confrontent à notre double nature, capable du meilleur comme du pire. La technologie, qui est notre génie, peut nous élever ou nous anéantir. Comme je l’ai souvent écrit, l’humanité se joue entre la création et la destruction, entre l’espoir et la peur. Nous devons apprendre à naviguer dans cette dualité, à embrasser le chaos tout en recherchant l’harmonie. Nous sommes les sculpteurs et l’argile. » Mon amie ajoute : « Rien de nouveau, cette dualité, non ? » Ma réponse : oui, sauf que je n’ai pas écrit ces phrases, et ça c’est radicalement nouveau. Mon amie n’avait pas compris que des IA étaient derrière Genlog. Elle n’en revenait pas. Je me demande quand le grand public comprendra que nous sommes en train de changer d’époque et que nous vivons une transition historique.
 
 ### Jeudi 21, Balaruc
 
@@ -192,7 +192,7 @@ Bien du mal à sortir de mon gros rhume qui vire à la trachéite. Après m’ê
 
 ### Jeudi 28, Balaruc
 
-Je m’amuse à publier sur Facebook des extraits de Daylog, avec un lien *ad hoc* et souvent je reçois des commentaires comme si les textes étaient de moi. Faire la différence deviendra sans doute de plus en plus difficile. Je suis mon propre fake. Qu’est-ce qui reste humain, qu’est-ce qui ne l’est déjà plus ? Cette question perdra bientôt toute signification, à moins qu’elle devienne la cause de crises politiques majeures, voire de guerres et de pogroms.
+Je m’amuse à publier sur Facebook des extraits de Genlog, avec un lien *ad hoc* et souvent je reçois des commentaires comme si les textes étaient de moi. Faire la différence deviendra sans doute de plus en plus difficile. Je suis mon propre fake. Qu’est-ce qui reste humain, qu’est-ce qui ne l’est déjà plus ? Cette question perdra bientôt toute signification, à moins qu’elle devienne la cause de crises politiques majeures, voire de guerres et de pogroms.
 
 ---
 

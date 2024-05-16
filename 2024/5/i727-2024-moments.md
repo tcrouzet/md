@@ -152,7 +152,7 @@ Parce que déjà j’anticipe le prochain 727, j’imagine des variantes, de nou
 
 À très vite les amis, et tous ceux en puissance.
 
-Merci aux copains du club pour leur aide. J’espère vous convaincre de nous accompagner plus nombreux lors des prochaines éditions.T 
+Merci aux copains du club pour leur aide. J’espère vous convaincre de nous accompagner plus nombreux lors des prochaines éditions.
 
 ![](_i/recapi727.webp)
 
