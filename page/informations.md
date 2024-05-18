@@ -228,11 +228,13 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 
 2024 - Février, publication du [*Code Houellebecq*](../books/le-code-houellebecq.md).
 
-2024 - Mars, création de [Daylog](http://daylog.tcrouzet.com/), expérience de littérature générative.
+2024 - Mars, création de [Genlog](http://genlog.tcrouzet.com/), expérience de littérature générative.
 
 2024 - Avril, je me débarrasse définitivement de WordPress.
 
 ### Interviews
+
+2024 - [Raconte moi](https://www.youtube.com/watch?v=FJf3zbvgtUM&ab_channel=Racontemoi)
 
 2020 - [Politis](https://www.politis.fr/articles/2020/05/la-licence-libre-remede-miracle-contre-les-penuries-41780/)
 
@@ -256,21 +258,21 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 
 [Contacts](/page/mail/)
 
-[Présentation presse](/page/informations/presentations-presse/)
+[Présentation presse](presentations-presse.md)
 
 [Bibliographie](/bibliographie/)
 
-[En librairies](/page/en-librairie/)
+[En librairies](en-librairie.md)
 
-[Portraits](/page/portraits/)
+[Portraits](portraits.md)
 
-[Newsletter](/page/abonnement-par-mail/)
+[Newsletter](abonnement-par-mail.md)
 
 [Tags](/series/)
 
 [Archives](/archives/)
 
-[Conférences](/tag/conf/) ([conditions](/conf-conditions/))
+[Conférences](/tag/conf/) ([conditions](conf-conditions.md))
 
 [Wikipédia](http://fr.wikipedia.org/wiki/Thierry_Crouzet)
 
