@@ -1,5 +1,7 @@
 # Des histoires comme s’il en pleuvait
+
 ![Cosmic void](_i/void-topaz-enhance-4x.webp)
+
 Je n’en finis pas de me demander quoi écrire, au point d’en être paralysé. Quand je vois les titres en promotion en librairie et sur les réseaux, je me dis : une IA aurait pu les écrire, à quelque chose près. Je ne peux pas continuer d’écrire des textes à la portée des IA, même si ce travail me fait du bien, même si hypothétiquement il pourrait me faire gagner de l’argent ou m’apporter de la renommée. Je dois m’enfoncer en moi-même, explorer je ne sais quoi, pour faire jaillir des formes et des mots qui échappent encore un temps à l’imitation algorithmique.
 
 Je viens de passer quelques jours à réviser [Genlog](https://genlog.tcrouzet.com/), mon expérience de littérature générative. Je ne veux plus générer un commentaire de mes lectures, mais tenter de pousser les modèles vers la littérature, leur faire raconter des histoires, en adoptant des formes changeantes. Donc, le système ne tournera plus tous les jours, mais quand je le désirerai, quand j’altérerai les prompts qui en huilent la mécanique.
