@@ -36,7 +36,7 @@ Mon NAS me sert donc comme système de sauvegarde et comme serveur pour mes bido
 
 * Soit moins de 7 €/mois sur les dix prochaines années.
 
-Aujourd’hui, je paye environ 2 €/mois pour les services AWS. Dès que j’active une instance serveur pour des bidouilles comme [Genlog](https://genlog.tcrouzet.com/), la facture grimpe à 10 €/mois. Il faut compter en gros [4 €/mois](https://aws.amazon.com/fr/s3/pricing/) supplémentaires par téraoctet de deep archives, j’en aurais besoin à minima de deux, voire de trois ou quatre dans les prochaines années. La facture grimpe vite, et tout aussi vite chez les autres fournisseurs. Si je pars sur une solution cloud , ce sera à minima 20 €/mois, et je ne bénéficierais pas d’un Time Machine efficace. La solution NAS semble donc plus économique, mais elle n’a pas que des avantages.
+Aujourd’hui, je paye environ 2 €/mois pour les services AWS. Dès que j’active une instance serveur pour des bidouilles comme [Genlog](https://genlog.tcrouzet.com/), la facture grimpe à 10 €/mois. Il faut compter en gros [4 €/mois](https://aws.amazon.com/fr/s3/pricing/) supplémentaires par téraoctet de deep archives. Sans NAS, j’en aurais besoin à minima de deux, voire de trois ou quatre dans les prochaines années. La facture grimpe vite, et tout aussi vite chez les autres fournisseurs. Si je pars sur une solution cloud , ce sera à minima 20 €/mois, et je ne bénéficierais pas d’un Time Machine efficace. La solution NAS semble donc plus économique, mais elle n’a pas que des avantages.
 
 Le pour et le contre.
 

@@ -17,6 +17,7 @@ Côté logiciel rien du monde Windows ne me manque. J’ai même découvert pas 
 Tous ces traitements de texte New Age offrent des modes de saisies dépouillés très agréables pour l’écriture créative. En revanche, ils ne gèrent pas des choses élémentaires comme l’accentuation automatique des capitales en début de phrases. Bien des choses auxquelles on ne pense pas sous Word redeviennent fastidieuses.
 
 Je l’ai déjà constaté lors de mon [Day One](../../2013/12/day-one-je-quitte-windows.md) sur Mac, les apps sont en revanche mieux intégrées à l’OS Apple. Je pense notamment à l’indispensable Antidote, accessible partout dans le menu contextuel. Voici une chose que je regretterai si je revenais sur Windows. Et de prendre conscience que 
+
 les apps sont la véritable différence entre les deux OS. Comme si Apple avait su imposer sa philosophie de perfection aux développeurs. Même Word est par certains côtés mieux fichu sur Mac. Notamment le mode écriture.
 
 Un de mes gros soucis : la lenteur du convertisseur Thunderbolt vers RJ45. Chez nous, on est câblé Ethernet. Une Freebox sert de rooter. [Les tests qui vantent le convertisseur Apple se trompent.](http://www.macg.co/2012/06/test-de-ladaptateur-thunderbolt-vers-gigabit-ethernet-dapple-56866) Je télécharge deux fois moins vite avec mon Mac qu’avec un vieux portable Samsung qui intègre un port Ethernet. Et ça reste vrai avec un encore plus vieux Vaio sous Ubuntu. Et s’il fallait une preuve de plus, je retrouve un superbe débit quand je bascule le Mac en Wifi (qui ne passe pas dans mon bureau et pas envie de me manger des ondes inutiles avec un réplicateur).
@@ -36,7 +37,5 @@ Il serait temps que je me mette à écrire un vrai livre avec cette machine. Je 
 *PS1 : Après deux jours de retour à la souris, j’ai mal à tous les doigts. C’est un instrument de torture. Une fois que tu goûtes au trackpad multitouch, tu ne peux plus t’en passer. J’ai donc redescendu le Mac de son perchoir. Je garde le clavier et la souris pour les rares fois où j’aurais besoin d’un grand écran.*
 
 *PS2 : Un truc pénible, la perte de mes disques réseau. Exemple, ma bibliothèque Calibre est sur un disque attaché au NAS de ma Freebox. Je dois redéclarer le chemin chaque fois que je relance Calibre ou même tire le Mac du mode veille.*
-
-
 
 #cuisine #mac #dialogue #y2014 #2014-1-25-12h24
