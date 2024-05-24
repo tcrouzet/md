@@ -58,6 +58,6 @@ Le pour et le contre.
 
 * Le NAS ne peut être mon seul espace de backup (je dois le compléter avec des services cloud, ce que je réussis à faire quasi gratuitement aujourd’hui). J’utilise aussi des disques externes que j’éparpille de droite à gauche (mais je ferais la même chose si je stockais 100 % de ma vie en ligne).
 
-J’en arrive à la conclusion qu’un NAS est la bonne solution pour moi, parce que je suis geek. Si par exemple j’optais pour la solution iCloud d’Apple, ça me coûtait presque [30 €/mois](https://www.apple.com/fr/icloud/) pour 6 To, et je ne pouvais que sauvegarder mes données sans faire joujou avec un serveur. Apple nous fait payer très cher sa prétendue ergonomie.
+J’en arrive à la conclusion qu’un NAS est la bonne solution pour moi, parce que je suis geek. Si par exemple j’optais pour la solution iCloud d’Apple, ça me coûtait presque [30 €/mois](https://www.apple.com/fr/icloud/) pour 6 To, et je ne pouvais que sauvegarder mes données sans faire joujou avec un serveur. Apple nous fait payer très cher sa prétendue ergonomie. 
 
 #cuisine #y2024 #2024-5-23-10h00
