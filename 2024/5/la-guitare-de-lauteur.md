@@ -36,6 +36,6 @@ Je n’avais jamais ressenti ça avant de réorganiser mes textes et mon blog so
 
 Avant d’utiliser Obsidian, je n’avais jamais eu la sensation d’écrire Web, d’écrire entrelacé, d’écrire relié. Voilà pourquoi j’ai dit à François que j’étais loin des feuilles de styles, à des années-lumière même. Les styles ne sont que des verrues surajoutées aux textes, que des pansements sur des jambes de bois. Il faut retarder le plus longtemps possible leur usage, ne se préoccuper d’eux que lors des projections. C’est un job d’interprète, pas de compositeur.
 
-Et ne prenez pas ce texte pour une critique des interprètes. J’ai longtemps cousu moi-même de petits livres pour en faire des objets plastiques plus que littéraires, simplement il s’agit de deux travaux artistiques différents, l’un en amont, l’autre en aval d’un fleuve qui se jette à la mer par un immense delta.
+Et ne prenez pas ce texte pour une critique des interprètes. J’ai longtemps cousu moi-même de petits livres pour en faire des objets plastiques plus que littéraires, simplement il s’agit de deux travaux artistiques différents, l’un en amont, l’autre en aval d’un fleuve qui se jette à la mer par un immense delta. 
 
 #netlitterature #obsidian #y2024 #2024-5-23-13h30 
