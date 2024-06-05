@@ -2,7 +2,7 @@
 
 ![La Gardiole](_i/2024-06-04-170638.webp)
 
-Une fin d’après-midi estivale, un petit tour de vélo en solo pour prendre l’air, regarder au loin, relever la tête des écrans et ne pas penser, ou plutôt laisser passer les pensées comme en médiation, sans leur donner l’occasion de s’ancrer et de tourner en boucle, voilà pourquoi aussi j’aime le vélo, et particulièrement dans la nature, sur les chemins et les sentiers.
+Une fin d’après-midi estivale, un petit tour de vélo en solo pour prendre l’air, regarder au loin, relever la tête des écrans et ne pas penser, ou plutôt laisser passer les pensées comme en méditation, sans leur donner l’occasion de s’ancrer et de tourner en boucle, voilà pourquoi aussi j’aime le vélo, et particulièrement dans la nature, sur les chemins et les sentiers.
 
 Il n’est ni question de performance ou d’entraînement, mais plutôt de communion avec moi-même et le monde, parce que mon quotidien n’est jamais loin, à peine tenu à distance, et depuis les hauteurs je le distingue en bas dans la plaine. Une route bondée d’éclats de carrosserie, un train sur la ligne entre les marais, le chapelet des étangs, les villages, le cordon littoral, la mer, les bateaux, des myriades de points d’activité, je suis seul sans me sentir seul, j’embrasse tout.
 
@@ -20,7 +20,7 @@ Début mai, nous étions une quarantaine sur le [i727](https://727.tcrouzet.com/
 
 ![La Gardiole](_i/2024-06-04-172259.webp)
 
-Néanmoins, à la fin des cinq jours de notre périple, il a conclu : « Oui, ça passe à gravel, mais on finit par se faire trop mal au corps et par ne plus prendre le moindre plaisir ». Le plaisir, à vélo comme ailleurs, est pour moi un critère de première importance, quand j’ai le privilège de pouvoir le mettre en avant. Notion relative, Seb poussant le plaisir du gravel plus loin que moi sur les singles engagés, mais sur un parcours XC comme le i727 je crois que les vététistes ont engrangé davantage de plaisir d’une manière générale.
+Néanmoins, à la fin des cinq jours de notre périple, il a conclu : « Oui, ça passe à gravel, mais on finit par se faire trop mal au corps et par ne plus prendre le moindre plaisir ». Le plaisir, à vélo comme ailleurs, est un critère de première importance, quand j’ai le privilège de pouvoir le mettre en avant. Notion relative, Seb poussant le plaisir du gravel plus loin que moi sur les singles engagés, mais sur un parcours XC comme le i727 je crois que les vététistes ont engrangé davantage de plaisir d’une manière générale.
 
 ![La Gardiole](_i/2024-06-04-172800.webp)
 
