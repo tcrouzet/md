@@ -24,7 +24,7 @@ Néanmoins, à la fin des cinq jours de notre périple, il a conclu : « Oui, 
 
 ![La Gardiole](_i/2024-06-04-172800.webp)
 
-Je suis fatigué d’entendre « Le gravel, ça passe partout », parce que ça n’a aucun sens, ce qui compte c’est que « ça passe avec plaisir », sur trente bornes, sur cent bornes, sur cinq cents et plus ? Si pour passer, il faut se provoquer des tendinites, se défoncer les cervicales et s’abraser les articulations des bras, je ne comprends ce choix que sous une perspective masochiste. Si pour passer il faut faire la grimace dans les descentes pendant que les VTT foncent et bondissent dans tous les sens, c’est doublement masochiste.
+Je suis fatigué d’entendre « Le gravel, ça passe partout », parce que ça n’a aucun sens, ce qui compte c’est que « ça passe avec plaisir », sur trente bornes, sur cent, sur cinq cents et plus ? Si pour passer, il faut se provoquer des tendinites, se défoncer les cervicales et s’abraser les articulations des bras, je ne comprends ce choix que sous une perspective masochiste. Si pour passer il faut faire la grimace dans les descentes pendant que les VTT foncent et bondissent dans tous les sens, c’est doublement masochiste.
 
 ![La Gardiole](_i/2024-06-04-173211.webp)
 
