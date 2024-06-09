@@ -2,7 +2,7 @@
 
 ![i727 2022](_i/IMG_6473.webp)
 
-En mai, nous nous élançons [pour un i727](https://727.tcrouzet.com/727-Grand-Depart/) (VTT, monster, fat…), en septembre [pour un g727](https://727.tcrouzet.com/g727-Grand-Depart/) (gravel et pourquoi pas VTT, monster, fat…). Dans les deux cas, les inscriptions aux grands départs ne coûtent que 35 € (avec assurance, hébergement la veille du départ, petit déjeuner, pot à l’arrivée, suivi GPS…).
+En mai, nous nous élançons [pour un i727](https://727bikepacking.fr/727-Grand-Depart/) (VTT, monster, fat…), en septembre [pour un g727](https://727bikepacking.fr/g727-Grand-Depart/) (gravel et pourquoi pas VTT, monster, fat…). Dans les deux cas, les inscriptions aux grands départs ne coûtent que 35 € (avec assurance, hébergement la veille du départ, petit déjeuner, pot à l’arrivée, suivi GPS…).
 
 Certaines personnes intéressées par ces randonnées semblent s’inquiéter de leurs tarifs très bas et craignent d’être mal reçues. Alors pourquoi seulement 35 €, soit (0,06 €/km) et non 150 €, voire plus, comme d’autres organisateurs le proposent pour des distances comparables ?
 
@@ -11,7 +11,7 @@ Certaines personnes intéressées par ces randonnées semblent s’inquiéter de
 3. Parce que créer une trace bikepacking, c’est du plaisir et non du travail (et vraiment pas beaucoup de frais, puisqu’il suffit de pédaler, ou presque — lors des recos, nous dormons sous la tente).
 4. Parce que le prestige ne nous intéresse pas, pas plus que les 727 soient perçus comme de valeur parce qu’ils seraient chers.
 5. Parce que notre organisation n’implique aucun risque financier.
-6. Parce que nous ne recourons à aucun prestataire de service et nous appuyons sur des solutions techniques open source (open source [comme nos traces disponibles gratuitement en ITT](https://727.tcrouzet.com/) — open source souvent synonyme de qualité puisqu’en totale transparence).
+6. Parce que nous ne recourons à aucun prestataire de service et nous appuyons sur des solutions techniques open source (open source [comme nos traces disponibles gratuitement en ITT](https://727bikepacking.fr/) — open source souvent synonyme de qualité puisqu’en totale transparence).
 7. Parce que la qualité d’une épreuve bikepacking n’est pas liée au tarif, mais à l’intime connaissance d’un territoire. Nous entendons le célébrer, en minimisant notre impact écologique, plutôt que de l’exploiter pour le rentabiliser.
 8. Parce que nous n’offrons pas de goodies et autres chinoiseries, en les faisant payer aux participants.
 9. Parce que c’est financièrement possible. [J’ai déjà détaillé le bilan du 727 2023](../../2023/5/pour-la-transparence-des-tarifs-des-epreuves-bikepacking.md) et montré que nous pourrions faire payer encore moins cher (et nous ne le faisons pas pour que le club y trouve un petit bénéfice).

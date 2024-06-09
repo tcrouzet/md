@@ -2,13 +2,13 @@
 
 ![Pic Saint-Loup](_i/2024-05-12-062751.webp)
 
-Je ne connais pas mieux que le bikepacking pour distendre le temps et en quelques jours moissonner une montagne de sensations, d’émerveillements, de fous rires et d’instants de fraternité. Dans cette perspective, [j’organise les 727](https://727.tcrouzet.com/) pour participer à une chaîne vertueuse, dans un esprit de partage qui favorise les qualités aux quantités, la coopération à la compétition, et tente de démontrer par l’exemple qu’un autre monde est possible.
+Je ne connais pas mieux que le bikepacking pour distendre le temps et en quelques jours moissonner une montagne de sensations, d’émerveillements, de fous rires et d’instants de fraternité. Dans cette perspective, [j’organise les 727](https://727bikepacking.fr/) pour participer à une chaîne vertueuse, dans un esprit de partage qui favorise les qualités aux quantités, la coopération à la compétition, et tente de démontrer par l’exemple qu’un autre monde est possible.
 
 Je revendique les 727 comme le contraire des évènements qui respectent la vieille économie du toujours plus, économie insoutenable parce qu’elle nécessite un développement exponentiel : faire payer plus cher pour investir dans la communication pour attirer davantage de monde, puis faire payer plus cher, avec au passage une accumulation des externalités négatives. Pousser les participants à se dépasser, leur interdire de s’entraider, flatter leur ego déjà démesuré, fliquer avec des points de contrôle couperets, limiter la durée de l’épreuve… En résumé : promouvoir un mode de vie à l’opposé de celui que l’époque exige. Brosser dans le sens du poil, cultiver les travers, s’en nourrir. Je me contre-fiche que mes positions irritent le poil. Pour moi, tout est politique.
 
 Je n’ai pas beaucoup plus de respect pour les businessmen du bikepacking que pour les narcotrafiquants qui comme eux se nourrissent des faiblesses humaines. Au contraire, j’ai envie de m’appuyer sur nos forces. Il ne s’agit pas d’aller les uns contre les autres, mais ensemble. Ainsi les 727 sont au moins autant philosophiques que cyclistes, et je crois que les participants ressentent les valeurs qui les sous-tendent même quand ils viennent pour se battre contre le temps et un chronomètre dont ils sont les seuls à se préoccuper. J’espère que ces valeurs les pénètrent, leur donnent des envies de nouvelles aventures et leur ouvrent des perspectives sur des pratiques sportives et récréatives alternatives.
 
-De mon côté, d’un point de vue purement égoïste, les 727 me procurent beaucoup de joie et gravent en moi des moments inoubliables. Quelques flash-back sur le [i727 2024](https://727.tcrouzet.com/i727/).
+De mon côté, d’un point de vue purement égoïste, les 727 me procurent beaucoup de joie et gravent en moi des moments inoubliables. Quelques flash-back sur le [i727 2024](https://727bikepacking.fr/i727/).
 
 ![Domi et Tutu sans qui rien ne serait possible](_i/2024-05-07-175804.webp)
 
@@ -22,7 +22,7 @@ Enfin, [Geogram](https://geogram.tcrouzet.com/) a fonctionné sans flancher, per
 
 ### Moments de retrouvailles
 
-Parce qu’au fil des 727, et de bien d’autres évènements, nous formons peu à peu une grande famille de bikepackers vététistes ou gravellistes. [Si je partage gratuitement mes traces](https://727.tcrouzet.com/), je tiens à organiser deux grands départs chaque année parce qu’ils sont l’occasion de retrouvailles avec de véritables amis, même si nous ne nous retrouvons que par intermitence.
+Parce qu’au fil des 727, et de bien d’autres évènements, nous formons peu à peu une grande famille de bikepackers vététistes ou gravellistes. [Si je partage gratuitement mes traces](https://727bikepacking.fr/), je tiens à organiser deux grands départs chaque année parce qu’ils sont l’occasion de retrouvailles avec de véritables amis, même si nous ne nous retrouvons que par intermitence.
 
 ![Le Grand Départ](_i/2024-05-08-075207.webp)
 
@@ -148,7 +148,7 @@ Enrouler des singles, traverser des prairies fleuries, découvrir des points de 
 
 ### Moments de projection
 
-Parce que déjà j’anticipe le prochain 727, j’imagine des variantes, de nouvelles explorations pour découvrir et faire découvrir de nouveaux coins. Je ne suis pas rentré du i727 que je pense [au g727 de fin septembre](https://727.tcrouzet.com/g727/), que je veux différent de celui de 2023, tant pour ne pas ennuyer les anciens finishers que pour écarquiller plus grands mes propres yeux.
+Parce que déjà j’anticipe le prochain 727, j’imagine des variantes, de nouvelles explorations pour découvrir et faire découvrir de nouveaux coins. Je ne suis pas rentré du i727 que je pense [au g727 de fin septembre](https://727bikepacking.fr/g727/), que je veux différent de celui de 2023, tant pour ne pas ennuyer les anciens finishers que pour écarquiller plus grands mes propres yeux.
 
 À très vite les amis, et tous ceux en puissance.
 

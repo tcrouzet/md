@@ -8,7 +8,7 @@ Il n’est ni question de performance ou d’entraînement, mais plutôt de comm
 
 ![La Gardiole](_i/2024-06-04-170902.webp)
 
-Parfois, et même trop souvent, j’oublie cet art de la déambulation à vélo, mais hier je m’y rassemblais tout entier, peut-être parce que je m’étais donné un petit objectif, reconnaître avec mon gravel les premiers kilomètres du [g727](https://727.tcrouzet.com/g727/) pour partager des photos [avec la communauté](https://www.facebook.com/groups/727tour). Cette simple ambition m’a poussé à prendre mon temps et à ouvrir les yeux sur des paysages que je connais depuis l’enfance et que j’arpente à longueur d’année.
+Parfois, et même trop souvent, j’oublie cet art de la déambulation à vélo, mais hier je m’y rassemblais tout entier, peut-être parce que je m’étais donné un petit objectif, reconnaître avec mon gravel les premiers kilomètres du [g727](https://727bikepacking.fr/g727/) pour partager des photos [avec la communauté](https://www.facebook.com/groups/727tour). Cette simple ambition m’a poussé à prendre mon temps et à ouvrir les yeux sur des paysages que je connais depuis l’enfance et que j’arpente à longueur d’année.
 
 ![La Gardiole](_i/2024-06-04-171451.webp)
 
@@ -16,7 +16,7 @@ Parfois, et même trop souvent, j’oublie cet art de la déambulation à vélo,
 
 ![La Gardiole](_i/2024-06-04-172255.webp)
 
-Début mai, nous étions une quarantaine sur le [i727](https://727.tcrouzet.com/i727/), un parcours pour moi XC, et il y avait quelques téméraires à gravel, notamment Seb qui a roulé dans notre groupe. Pour le situer, c’est un enduriste, un des organisateurs de l’[Epic Enduro](https://epicenduro.com/), réputée une des courses les plus copieuses de la discipline. Seb roulait avec un monster en titane à gros pneus. Au-dessus de Mons, depuis le sommet du Naudech, il nous a fait passer par une piste enduro que j’ai terminé à pied, lui avalant les épingles apparemment sans difficulté loin devant moi.
+Début mai, nous étions une quarantaine sur le [i727](https://727bikepacking.fr/i727/), un parcours pour moi XC, et il y avait quelques téméraires à gravel, notamment Seb qui a roulé dans notre groupe. Pour le situer, c’est un enduriste, un des organisateurs de l’[Epic Enduro](https://epicenduro.com/), réputée une des courses les plus copieuses de la discipline. Seb roulait avec un monster en titane à gros pneus. Au-dessus de Mons, depuis le sommet du Naudech, il nous a fait passer par une piste enduro que j’ai terminé à pied, lui avalant les épingles apparemment sans difficulté loin devant moi.
 
 ![La Gardiole](_i/2024-06-04-172259.webp)
 

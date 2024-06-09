@@ -2,7 +2,7 @@
 
 ![Trace du P27](_i/P27map-1.webp)
 
-Après [le 727](https://727.tcrouzet.com/727) et [le i727](https://727.tcrouzet.com/i727), je me lance dans la création d’un Paris to Sète (P27), [qui partira le 4 juillet pour s’achever autour du 15 juillet](https://www.facebook.com/events/1126486894583418/). Contrairement aux deux autres traces, celle-ci ne reposera sur aucune reconnaissance, mais sur la compilation de traces récoltées sur le Net, entrecroisées, interconnectées, socialement renforcées par des expertises locales. Mon but reste de minimiser l’asphalte et de dénicher des singles le plus souvent possibles, tout en sachant que ce ne sera pas toujours facile. À l’issue du voyage, la trace sera révisée pour que d’autres puissent la suivre.
+Après [le 727](https://727bikepacking.fr/727) et [le i727](https://727bikepacking.fr/i727), je me lance dans la création d’un Paris to Sète (P27), [qui partira le 4 juillet pour s’achever autour du 15 juillet](https://www.facebook.com/events/1126486894583418/). Contrairement aux deux autres traces, celle-ci ne reposera sur aucune reconnaissance, mais sur la compilation de traces récoltées sur le Net, entrecroisées, interconnectées, socialement renforcées par des expertises locales. Mon but reste de minimiser l’asphalte et de dénicher des singles le plus souvent possibles, tout en sachant que ce ne sera pas toujours facile. À l’issue du voyage, la trace sera révisée pour que d’autres puissent la suivre.
 
 [![P27 à travers bassins hyper ruraux](_i/P27map2.webp)](https://www.google.com/maps/d/edit?mid=1aOpTpVoErEH4ktaOHay-1oC6GkurIRJO&usp=sharing)
 

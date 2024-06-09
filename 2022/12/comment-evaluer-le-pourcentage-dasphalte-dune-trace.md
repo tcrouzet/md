@@ -20,7 +20,7 @@ J’ai créé un [compte Strava Premium](https://www.strava.com/athletes/stats34
 
 ![Strava](_i/stravatab1.png)
 
-Mais Strava est-il fiable ? J’ai analysé [la trace du 727](https://727.tcrouzet.com/) transformée en itinéraire par Strava. Il prend quelques libertés, mais avec l’honnêteté de le signaler (contrairement à Komoot). Par exemple, il refuse un single hors carte pour proposer un contournement. Toutefois, ces altérations bien qu’embêtantes lorsqu’on roule ne faussent pas les statistiques. Strava n’ajoute au total que 3 km au 727 ce qui lui fait manquer quelques singles, mais de manière non significative sur la distance totale.
+Mais Strava est-il fiable ? J’ai analysé [la trace du 727](https://727bikepacking.fr/) transformée en itinéraire par Strava. Il prend quelques libertés, mais avec l’honnêteté de le signaler (contrairement à Komoot). Par exemple, il refuse un single hors carte pour proposer un contournement. Toutefois, ces altérations bien qu’embêtantes lorsqu’on roule ne faussent pas les statistiques. Strava n’ajoute au total que 3 km au 727 ce qui lui fait manquer quelques singles, mais de manière non significative sur la distance totale.
 
 ![Trace altérée](_i/strava02.webp)
 

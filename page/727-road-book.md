@@ -2,7 +2,7 @@
 
 ![Larzac](_i/IMG_8098.webp)
 
-Le [727](727tour) est un perpétuel *work in progress*, parce que les chemins changent, parce que certains se ferment, d’autres s’ouvrent, parce que j’en découvre d’autres ou que des explorateurs m’en font connaître des nouveaux. Ce texte décrit le tour de l’Hérault pour que vous puissiez l’emprunter en connaissance de cause (si vous aimez savoir où vous posez vos roues cramponnées). Sauf exception, je n’évoque pas les points d’intérêt (points d’eau, boulangeries, épiceries, restaurants, camping…) : ils sont positionnés sur [la carte](https://www.visugpx.com/XvU1OlWJ6Z). Alternativement à ce road book, [j’ai publié plusieurs récits du tour](#727). [J’ai ailleurs publié des informations détaillées sur le tracé, la météo, le matériel adapté…](https://727.tcrouzet.com)
+Le [727](727tour) est un perpétuel *work in progress*, parce que les chemins changent, parce que certains se ferment, d’autres s’ouvrent, parce que j’en découvre d’autres ou que des explorateurs m’en font connaître des nouveaux. Ce texte décrit le tour de l’Hérault pour que vous puissiez l’emprunter en connaissance de cause (si vous aimez savoir où vous posez vos roues cramponnées). Sauf exception, je n’évoque pas les points d’intérêt (points d’eau, boulangeries, épiceries, restaurants, camping…) : ils sont positionnés sur [la carte](https://www.visugpx.com/XvU1OlWJ6Z). Alternativement à ce road book, [j’ai publié plusieurs récits du tour](#727). [J’ai ailleurs publié des informations détaillées sur le tracé, la météo, le matériel adapté…](https://727bikepacking.fr)
 
 ![Carte géologique de l’Hérault](_i/carte_geologie_Herault.webp)
 

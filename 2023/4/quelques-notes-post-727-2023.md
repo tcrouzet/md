@@ -2,7 +2,7 @@
 
 ![Espinouse](_i/IMG_1623.webp)
 
-Cette édition du [727](https://727.tcrouzet.com) a été dure, très dure, avec le samedi une tempête d’ouest qui n’a cessé ne nous freiner, une première nuit pluvieuse et toujours venteuse, un dimanche humide, avec un vent du nord glacial, alors que nous même progressions désormais vers le nord. Les chemins étaient gras, glissants, des arbres s’étaient couchés pour nous compliquer la tâche. Plus de la moitié des participants ont abandonné durant ces deux premières journées.
+Cette édition du [727](https://727bikepacking.fr) a été dure, très dure, avec le samedi une tempête d’ouest qui n’a cessé ne nous freiner, une première nuit pluvieuse et toujours venteuse, un dimanche humide, avec un vent du nord glacial, alors que nous même progressions désormais vers le nord. Les chemins étaient gras, glissants, des arbres s’étaient couchés pour nous compliquer la tâche. Plus de la moitié des participants ont abandonné durant ces deux premières journées.
 
 ![Bannière finisher](_i/poussan-banner.webp)
 

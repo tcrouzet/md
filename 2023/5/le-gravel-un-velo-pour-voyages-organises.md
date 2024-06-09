@@ -2,7 +2,7 @@
 
 ![Les avant-monts](_i/IMG_2033.webp)
 
-Vous allez me dire que c’est encore un titre provocant, du putaclic, sauf que je n’ai rien à vendre et rien à gagner que vous soyez dix, cent, mille ou dix mille à lire cet article. Définir le gravel comme un vélo pour voyages organisés n’est même pas péjoratif à mes yeux. Cette idée s’est imposée à moi alors que j’effectuais une reco pour [le g727](https://727.tcrouzet.com/g727/), la version gravel [du 727](https://727.tcrouzet.com/). J’étais justement à ce moment dans la peau d’un organisateur de voyages à vélo.
+Vous allez me dire que c’est encore un titre provocant, du putaclic, sauf que je n’ai rien à vendre et rien à gagner que vous soyez dix, cent, mille ou dix mille à lire cet article. Définir le gravel comme un vélo pour voyages organisés n’est même pas péjoratif à mes yeux. Cette idée s’est imposée à moi alors que j’effectuais une reco pour [le g727](https://727bikepacking.fr/g727/), la version gravel [du 727](https://727bikepacking.fr/). J’étais justement à ce moment dans la peau d’un organisateur de voyages à vélo.
 
 ![Lac de Vézoles](_i/IMG_2055.webp)
 

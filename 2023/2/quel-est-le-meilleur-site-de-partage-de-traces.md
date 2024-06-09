@@ -10,7 +10,7 @@ Pour partager les sorties quotidiennes, des services comme Strava ou Komoot s’
 
 Quand nous publions des photos, nous ne nous attendons pas à ce que le ciel change de couleur, que des arbres disparaissent et que d’autres apparaissent. C’est la moindre des choses. J’ai la même attente quand je publie une trace, malheureusement des sites prennent des libertés inacceptables.
 
-J’ai constaté ce problème [lors d’un 727](https://727.tcrouzet.com). Devant moi, des copains partaient dans la mauvaise direction. J’ai mis du temps avant de découvrir que ceux qui se fourvoyaient n’avaient pas récupéré la trace sur le même site que les autres.
+J’ai constaté ce problème [lors d’un 727](https://727bikepacking.fr). Devant moi, des copains partaient dans la mauvaise direction. J’ai mis du temps avant de découvrir que ceux qui se fourvoyaient n’avaient pas récupéré la trace sur le même site que les autres.
 
 ![VisuGPX](_i/visu01.webp)
 

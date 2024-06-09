@@ -2,7 +2,7 @@
 
 ![ChatGPT](_i/pois.webp)
 
-Lors des grosses journées à VTT ou gravel dans la cambrousse, notamment en bikepacking, je me sens toujours mieux quand j’ai une vague idée de quand je pourrai me ravitailler. J’évite ainsi de me surcharger, de trop acheter ou d’en venir à manquer. Quand je reconnais [les 727](https://727.tcrouzet.com), j’ai pris l’habitude de photographier les points d’eau, les boulangeries, les restaurants, les éventuels spots de bivouac, puis de reporter ces POI (points d’intérêt) sur GoogleMap et VisuGPX.
+Lors des grosses journées à VTT ou gravel dans la cambrousse, notamment en bikepacking, je me sens toujours mieux quand j’ai une vague idée de quand je pourrai me ravitailler. J’évite ainsi de me surcharger, de trop acheter ou d’en venir à manquer. Quand je reconnais [les 727](https://727bikepacking.fr), j’ai pris l’habitude de photographier les points d’eau, les boulangeries, les restaurants, les éventuels spots de bivouac, puis de reporter ces POI (points d’intérêt) sur GoogleMap et VisuGPX.
 
 C’est devenu un réflexe. Sans perdre beaucoup de temps, j’offre un service aux participants des 727 que peu d’organisateurs proposent (et dans les recoins de l’Hérault, mieux vaut savoir anticiper les ravitaillements). Si certains organisateurs ne maîtrisent pas les arcanes des GPX et autres KML, d’autres s’abstiennent de lister des POI au nom de l’aventure. Ne rien savoir d’une trace ne ferait qu’en augmenter la difficulté. Comme je ne m’intéresse pas au vélo masochiste, je préfère fuir ces évènements qui ont pour ambition première de nous faire souffrir.
 

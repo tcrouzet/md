@@ -6,7 +6,7 @@ J’ai pris l’habitude d’effectuer un bikepacking VTT en juillet. Cette ann�
 
 ![Trace originale](_i/pas-map.webp)
 
-L’idée, c’est donc de renouveler l’expérience du [P27](https://727.tcrouzet.com/p27/). Elle a démontré qu’en mixant un intense travail cartographique et en remontant des conseils des vététistes des coins traversés, on pouvait créer une trace originale d’une fiabilité quasi irréprochable. Je me propose donc de créer une nouvelle trace que nous inaugurerions tous ensemble, à nos risques et périls.
+L’idée, c’est donc de renouveler l’expérience du [P27](https://727bikepacking.fr/p27/). Elle a démontré qu’en mixant un intense travail cartographique et en remontant des conseils des vététistes des coins traversés, on pouvait créer une trace originale d’une fiabilité quasi irréprochable. Je me propose donc de créer une nouvelle trace que nous inaugurerions tous ensemble, à nos risques et périls.
 
 ![](_i/logo-1.png)
 

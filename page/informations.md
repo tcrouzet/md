@@ -288,6 +288,6 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 
  [GPTs](https://gpt.tcrouzet.com/)
 
- [727 bikepacking](https://727.tcrouzet.com/)
+ [727 bikepacking](https://727bikepacking.fr/)
 
 #page #y2006 #2006-6-25-8h42

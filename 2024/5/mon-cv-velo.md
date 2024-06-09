@@ -20,7 +20,7 @@ Quelques exemples.
 
 * Sur ces traces, des centaines de cyclistes ont roulé, et quand je les ai accompagnés, j’en ai tiré des récits ([Bikepacking tempétueux dans l’Hérault](../../2022/4/bikepacking-tempetueux-dans-lherault.md), [Dans l’automne flamboyant du midi](../../2021/10/bikepacking-dans-lautomne-flamboyant-du-midi.md), [Agrandir l'imaginaire](../../2021/4/tour-de-lherault-bikepacking-agrandir-limaginaire.md)…).
 
-* Mon imaginaire ne se limite pas à L’Hérault. [J’ai tracé une traversée de la France](https://727.tcrouzet.com/p27/) que j’ai [aussi racontée](../../2022/7/une-traversee-de-la-france-a-vtt.md). Je travaille au [projet Côte Sud](https://727.tcrouzet.com/cote-sud/), un itinéraire VTT/Gravel qui suit la Méditerranée, qui a donné suite [à plusieurs récits](/tag/cotesud/).
+* Mon imaginaire ne se limite pas à L’Hérault. [J’ai tracé une traversée de la France](https://727bikepacking.fr/p27/) que j’ai [aussi racontée](../../2022/7/une-traversee-de-la-france-a-vtt.md). Je travaille au [projet Côte Sud](https://727bikepacking.fr/cote-sud/), un itinéraire VTT/Gravel qui suit la Méditerranée, qui a donné suite [à plusieurs récits](/tag/cotesud/).
 
 * Par ailleurs, je maintiens de nombreuses traces plus locales autour du bassin de Thau. Toujours mes traces s’accompagnent d’une mise en narration, parce qu’une trace qui ne suscite pas chez moi une envie d’écrire ne mérite pas que j’en parle. Exemples : [les lignes de désirs sétoites](../../2020/1/lignes-de-desir-a-sete.md), [le tour de Sète Agglopôle Méditerranée](../../2020/12/gravel-le-tour-de-sete-agglopole-mediterranee.md), [les terres rouges gravel](../../2021/12/prendre-son-temps-a-velo.md)…
 

@@ -36,7 +36,7 @@ Sur le retour par la piste cyclable du bord de mer, après déjà plus de 60 km
 
 ![Grizl](_i/IMG_9521.webp)
 
-Encore quelques réglages et optimisations et je me remettrai à tracer des itinéraires gravel, pourquoi pas un g727 ([un tour de l’Hérault plus roulant que la version VTT](https://727.tcrouzet.com)).
+Encore quelques réglages et optimisations et je me remettrai à tracer des itinéraires gravel, pourquoi pas un g727 ([un tour de l’Hérault plus roulant que la version VTT](https://727bikepacking.fr)).
 
 ![Canal du Midi](_i/IMG_9522.webp)
 

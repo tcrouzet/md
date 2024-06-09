@@ -6,7 +6,7 @@ Pas de mauvais jeu de mots ici, il ne s’agit pas du plaisir d’être reconnu 
 
 ![La Roubine](_i/IMG_9186.webp)
 
-Quand je m’arrête pour prendre une photo, quand mes yeux brillent ou que mes roues virevoltent dans des singles, je sais que je retiendrai le tronçon, puis quand trop de cailloux commencent à me fracasser les bras, voire me poussent à mettre pied à terre, je sais que je reviendrai pour trouver une autre solution. Sur mes [727](https://727.tcrouzet.com/727/), [i727](https://727.tcrouzet.com/i727), [Côte Sud](https://727.tcrouzet.com/cote-sud/), je ne cesse ainsi de peaufiner, toujours à la recherche de nouvelles possibilités. J’ai l’ambition folle d’exprimer le territoire, de lui rendre hommage, de ne passer à côté d’aucune de ses pépites tout en évitant ses points noirs, aussi bien les routes dangereuses que les décharges sauvages.
+Quand je m’arrête pour prendre une photo, quand mes yeux brillent ou que mes roues virevoltent dans des singles, je sais que je retiendrai le tronçon, puis quand trop de cailloux commencent à me fracasser les bras, voire me poussent à mettre pied à terre, je sais que je reviendrai pour trouver une autre solution. Sur mes [727](https://727bikepacking.fr/727/), [i727](https://727bikepacking.fr/i727), [Côte Sud](https://727bikepacking.fr/cote-sud/), je ne cesse ainsi de peaufiner, toujours à la recherche de nouvelles possibilités. J’ai l’ambition folle d’exprimer le territoire, de lui rendre hommage, de ne passer à côté d’aucune de ses pépites tout en évitant ses points noirs, aussi bien les routes dangereuses que les décharges sauvages.
 
 ![Bages](_i/IMG_9195.webp)
 
