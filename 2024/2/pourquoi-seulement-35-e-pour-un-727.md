@@ -29,5 +29,4 @@ Certaines personnes intéressées par ces randonnées semblent s’inquiéter de
 21. Parce que nous ne voulons pas que les participants disent du bien des 727 juste parce qu’ils ont payé trop cher (même à leur propre yeux).
 22. Parce que le bikepacking c’est le contraire du luxe.
 
-
 #727 #velo #y2024 #2024-2-15-20h54
