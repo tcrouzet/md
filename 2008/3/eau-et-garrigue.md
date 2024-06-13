@@ -2,7 +2,7 @@
 
 ![Depuis le Pioch](_i/pioch21-topaz.webp)
 
-Un employé du syndicat d’initiative de Balaruc les Bains m’a demandé de parler de mon pays à des communicants qui préparent une plaquette publicitaire. Leur question d« Qu’est-ce pour toi que le pays de Thau ? » Je me suis dit que j’allais répondre par écrit en donnant une réponse de tonalité politique.
+Un employé du syndicat d’initiative de Balaruc les Bains m’a demandé de parler de mon pays à des communicants qui préparent une plaquette publicitaire. Leur question « Qu’est-ce pour toi que le pays de Thau ? » Je me suis dit que j’allais répondre par écrit en donnant une réponse de tonalité politique.
 
 J’ai longtemps vécu loin du Midi, souvent dans des villes humides : Paris, Londres, Seattle… J’avais alors en tête un coin bleu, pas celui indigo de la Méditerranée, mais celui plus doux de l’étang de Thau avec en premier plan le gris vert de la garrigue. Mon pays, c’est l’eau et la garrigue, deux éléments inséparables. Quand j’étais enfant, je jouais le matin au bord de l’étang, non loin de mon père qui levait ou rapiéçait ses filets, et l’après-midi, je courais en garrigue où nous organisions des parties de cache-cache géantes.
 

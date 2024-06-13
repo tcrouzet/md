@@ -70,4 +70,4 @@ La vie reprend son cours. Un millénaire passe, puis deux, puis trois. Un arbre 
 
 Une éternité s’écoule, durant laquelle les étoiles dessinent de nouvelles constellations. Il y a des périodes plus froides ou plus chaudes, plus sèches ou plus humides. Pendant plusieurs années, le ciel se teinte de gris et des cendres pleuvent sur le jardin. Les plantes souffrent, l’arbre ne produit plus de fruits, les abeilles manquent de force. Le jardinier redouble de travail pour maintenir en vie son petit monde. Puis un jour, longtemps après cette calamité, alors qu’un soleil radieux se couche, une silhouette se dresse au sommet de la falaise. Un visiteur ! Le jardinier l’attendait depuis le commencement.
 
-#ecriture #invisible #le_jardin_de_leternite #y2024 #2024-3-20-22h0
+#ecriture #le_jardin_de_leternite #y2024 #2024-3-20-22h0
