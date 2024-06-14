@@ -4,17 +4,19 @@
 
 [Même Antoine Gallimard s’est fait piéger](https://www.francetvinfo.fr/culture/livres/solllicite-par-l-editeur-antoine-gallimard-l-ia-de-meta-juge-le-style-litteraire-de-michel-houellebecq-trop-offensant-et-discriminatoire_6602055.html) : oui, les IA sont de médiocres écrivains… pour qui ne sait pas les prendre en main et refuse un peu d’huile de coude.
 
-Avec les LLM actuels, on peut brainstormer, obtenir des premiers jets, des pistes d’histoires, des profils psychologiques, des réécritures, mais il ne faut pas s’attendre à des chefs-d’œuvre. Les textes produits sont mièvres, répétitifs, conventionnels, politiquement correct.
+Avec les LLM actuels, on peut brainstormer, obtenir des premiers jets, des pistes d’histoires, des profils psychologiques, des réécritures, mais il ne faut pas s’attendre à des chefs-d’œuvre. Les textes produits sont mièvres, répétitifs, conventionnels, politiquement corrects.
 
 Par exemple, il est quasi impossible de créer des personnages pervers ou méchants comme des personnages obscènes. Les LLM de 2024 ont même régressé par rapport à ceux du printemps 2023 quand j’ai commencé à travailler sur [*Le Code Houellebecq*](https://tcrouzet.com/books/le-code-houellebecq/). Les garde-fous dressés par les opérateurs brident la créativité littéraire des LLM publics.
 
 Pour jouer avec ces IA, il faut les jailbreaker, ou tout au moins avancer avec elles pas à pas, faisant se succéder sur un même texte des agents avec des missions spécifiques. Mes expériences avec [Genlog](https://genlog.tcrouzet.com/) me démontrent l’inutilité des prompts excessivement précis dans le but d’obtenir du premier coup des résultats satisfaisants.
 
-[Exemple sur mon dernier Genlog.](https://genlog.tcrouzet.com/2024/06/14_fr/) [Une première nouvelle a été générée.](https://genlog.tcrouzet.com/2024/06/14_fr/source.txt) J’ai ensuite demandé à un agent (un prompt spécifique) de réécrire la nouvelle en veillant à sa cohérence, puis à un deuxième de prendre le parti prix littéraire de minimiser les dialogues et d’utiliser autant que possible des phrases nominales.
+[Exemple sur mon dernier Genlog.](https://genlog.tcrouzet.com/2024/06/14_fr/) [Une première nouvelle a été générée.](https://genlog.tcrouzet.com/2024/06/14_fr/source.txt) J’ai ensuite demandé à un agent (un prompt spécifique) de réécrire la nouvelle en veillant à sa cohérence (reste une lampe à huile à côté d’un ordinateur ou un message radio qui parcourt des années-lumière en quelques minutes) , puis à un deuxième de prendre le parti prix littéraire de minimiser les dialogues et d’utiliser autant que possible des phrases nominales (cet agent a été bien meilleur).
 
-Par la suite, pour cet article, j’ai demandé à un troisième agent de pervertir le héros (sans grand succès). Enfin, j’ai appliqué un dernier agent, humain cette fois, moi (il est souvent plus long de demander aux IA de régler les détails que le faire soit même). Le processus ne prend que quelques minutes, mais le résultat est loin d’être mirobolant. Il ne m’intéresse qu’à titre expériemental.
+« La tension est palpable. Une goutte de sueur perle sur son front. » Je sais que beaucoup d’auteurs publiés commettent ce genre d’erreurs. J’ai tenté d’expliquer à ChatGPT qu’il avait écrit « La sueur est palpable sur le front de la tension », mais il n’a rien compris, remplaçant ces deux phrases par deux autres du même acabit, avec la même confusion de sujet. 
 
-J’ai l’impression que les LLM n’ont lu aucun classique et seulement des livres écrits au kilomètre par d’autres LLM. Je ne suis toujours pas convaincu par l’écriture automatique ou quasi automatique. Ces outils restent des assistants et ne substituent pas encore aux auteurs. Reste que pour ma part, ils continuent de m’interroger? Je ne toujours pas ce que je dois écrire désormais.
+Par la suite, j’ai demandé à un troisième agent de pervertir le héros (sans grand succès). Enfin, j’ai appliqué un dernier agent, humain cette fois, moi (il est souvent plus long de demander aux IA de régler les détails que le faire soit même). Le processus ne prend que quelques minutes, mais le résultat est loin d’être mirobolant. Il ne m’intéresse qu’à titre expérimental.
+
+J’ai l’impression que les LLM n’ont lu aucun classique et seulement des livres écrits au kilomètre par d’autres LLM. Je ne suis toujours pas convaincu par l’écriture automatique ou quasi automatique. Ces outils restent des assistants et ne substituent pas encore aux auteurs. Reste que pour ma part, ils continuent de m’interroger : plus que jamais, je me demande [qu’écrire au temps des IA ?](https://tcrouzet.com/2024/03/22/quecrire-au-temps-des-ia/)
 
 ---
 
