@@ -41,10 +41,14 @@
                 fetch(url)
                     .then(response => response.json())
                     .then(data => {
+                        data.sort((a, b) => {
+                            const nameA = a.name.length === 1 ? '0' + a.name : a.name;
+                            const nameB = b.name.length === 1 ? '0' + b.name : b.name;
+                            return nameA.localeCompare(nameB);
+                        });
                         data.forEach(file => {
                             if (file.type === 'dir' && !file.name.startsWith('_')  && !file.name.startsWith('.')) {
-                                //const listItem = createListItem(file.name, true);
-                                const listItem = createListItem(file.name.length === 1 ? '0' + file.name : file.name, true);
+                                const listItem = createListItem(file.name, true);
                                 listItem.classList.add(isMonth ? 'month' : 'year');
                                 parentElement.appendChild(listItem);
                                 const nestedList = document.createElement('ul');
