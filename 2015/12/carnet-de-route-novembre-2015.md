@@ -1,8 +1,8 @@
 # Novembre 2015
 
-![](_i/IMG_3948.webp)
+![Soir](_i/IMG_3948.webp)
 
-### Dimanche 1er, Balaruc
+### Dimanche 1<sup>er</sup>, Balaruc
 
 Je vais sur Facebook, je vois des likes de Yal qui datent de quelques jours avant sa mort. C’est un peu comme s’il était encore là. Notre présence Web floute notre existence.
 
@@ -10,11 +10,11 @@ Je vais sur Facebook, je vois des likes de Yal qui datent de quelques jours avan
 
 J’aime le service météo de Windows 10. Au-dessous des prévisions du jour, on découvre les records de froid ou de chaud pour la même date. Aujourd’hui, nous égalons le maximum de 1985.
 
-[caption id="attachment\_42988" align="alignnone" width="600"]![En garrigue.](_i/IMG_3904.webp) En garrigue.[/caption]
+![En garrigue](_i/IMG_3904.webp) 
 
 ### Lundi 2, Balaruc
 
-Je pense aux *Souvenirs d’un Européen* de Zweig. À cette attention à l’histoire en train de se jouer, ce qui vu d’aujourd’hui nous paraît si lucide. Moi-même, je n’arrive pas à m’intéresser aux évènements, absents le plus souvent de mes textes et même de ma pensée. Zweig est nostalgique, je n’ai même pas connu ce qu’il regrette. Ce que je devine de l’Histoire ne m’apparaît qu’un grand canular.
+Je pense aux *Souvenirs d’un Européen* de Zweig. À cette attention à l’histoire en train de se jouer, ce qui vu d’aujourd’hui nous paraît si lucide. Moi-même, je n’arrive pas à m’intéresser aux évènements, absents le plus souvent de mes textes et même de ma pensée. Zweig est nostalgique, je n’ai même pas connu ce qu’il regrette. Ce que je devine de l’Histoire ne m’apparaît qu’un canular.
 
 ### Mardi 2, Balaruc
 
@@ -26,7 +26,7 @@ Ce matin, 5:50, je monte dans un TGV gare de Sète pour aller prendre la corresp
 
 ---
 
-Anecdote lue sur le Net. Un prof demande à ses élèves de concevoir une publicité. Un spécialiste international de la pub, payé des millions, aide son fils à concevoir un message-choc. Leur note : 14. La plus mauvaise de la classe. 
+Un prof demande à ses élèves de concevoir une publicité. Une spécialiste de la pub, payée des millions, aide son fils à concevoir un message-choc. Leur note : 14. La plus mauvaise de la classe.
 
 ### Mercredi 3, Balaruc
 
@@ -54,11 +54,11 @@ Je découvre dans l’annonce d’une conférence que je suis prospectiviste… 
 
 ---
 
-Je n’aime pas entendre des gens brandir la notion de « littérature », surtout s’ils s’en revendiquent et n’en sont pas. Mon ressentiment à leur égard est d’autant plus vif parce qu’il révèle ma position ambiguë. Si la littérature n’existait pas, son évocation ne devrait pas me déranger plus que celle de Dieu.
+Je n’aime pas entendre des gens brandir la notion de « littérature », surtout s’ils s’en revendiquent. Mon ressentiment à leur égard est d’autant plus vif parce qu’il révèle ma position ambiguë. Si la littérature n’existait pas, son évocation ne devrait pas me déranger plus que celle de Dieu.
 
 ### Lundi 9, Balaruc
 
- « [Non, la déconnexion ne renoue pas avec le réel.](http://rue89.nouvelobs.com/2015/11/09/nest-deconnectant-quon-renoue-reel-262022) » Ou comment enfoncer une porte ouverte. Personne n’a jamais prétendu que la vie en ligne était irréelle (sinon, je ne suis plus réel depuis longtemps). Quand on parle d’IRL, ce n’est pas en référence au réel, mais pour opposer In Real Life à Life In Line et non à In False Life.
+« [Non, la déconnexion ne renoue pas avec le réel.](http://rue89.nouvelobs.com/2015/11/09/nest-deconnectant-quon-renoue-reel-262022) » Ou comment enfoncer une porte ouverte. Personne n’a jamais prétendu que la vie en ligne était irréelle (sinon, je ne suis plus réel depuis longtemps). Quand on parle d’IRL, ce n’est pas en référence au réel, mais pour opposer In Real Life à Life In Line et non à In False Life.
 
 Quand je me suis déconnecté en 2011, ce n’était pas pour retrouver un réel hypothétique, mais pour me reposer d’une vie en ligne trop trépidante, et donc hyper réelle, et réfléchir à ce que ce mode de vie impliquait. Ma déconnexion était une césure assez ordinaire, une façon de faire le point avant de revenir.
 
@@ -82,7 +82,7 @@ Je lis une [lettre à mes enfants](http://www.wedemain.fr/Lettre-a-mes-enfants-V
 
 Sur le Net, les opérateurs de presse ne cachent plus leur désespoir : ils interdisent les bloqueurs de pubs, ils veulent nous forcer à charger leurs apps ou à nous abonner à leur flux après avoir lu deux ou trois de leurs articles. Ils n’ont pas compris qu’on se fiche bien de lire une news chez eux ou ailleurs. Vous n’avez aucune valeur ajoutée.
 
-[caption id="attachment\_42989" align="alignnone" width="600"]![Les soirs se suivent…](_i/nov.webp) Les soirs se suivent…[/caption]
+![Les soirs se suivent…](_i/nov.webp) 
 
 ### Mercredi 11, Balaruc
 
@@ -126,15 +126,15 @@ Si El était un état traditionnel, il chercherait à maintenir son territoire, 
 
 ---
 
-Les problèmes induits par le fondamentalisme religieux se régleront le jour où l’énergie sera abondante et gratuite. Le retour en arrière ne peut séduire que si l’avenir se bouche (que si on nous promet une fin du monde tel que nous le connaissons).
+Les problèmes induits par le fondamentalisme religieux se régleront le jour où l’énergie sera abondante et gratuite. Le retour en arrière ne peut séduire que si l’avenir se referme (que si on nous promet la fin du monde).
 
 ---
 
-Je passe plus de temps que d’habitude sur les réseaux sociaux. Je me retiens de hurler, surtout après avoir entendu le discours de Hollande alors que j’allais chercher les enfants à l’école. Le pacifiste en moi est doublement blessé, par la barbarie, par la réponse de barbare à cette barbarie. Notre Président ne sait qu’opposer la force à la force, en un engrenage qui ne peut avoir de fin que par davantage de morts. Des nains nous gouvernent. Logique : les grands hommes et les grandes femmes d’aujourd’hui ont renoncé à la prétention d’en imposer aux autres.
+Je passe plus de temps que d’habitude sur les réseaux sociaux. Je me retiens de hurler, surtout après avoir entendu le discours de Hollande alors que j’allais chercher les enfants à l’école. Le pacifiste en moi est doublement blessé, par la barbarie, par la réponse de barbare à cette barbarie. Notre Président ne sait qu’opposer la force à la force, en un engrenage qui ne peut avoir de fin que par davantage de morts. Des nains nous gouvernent. Les grands hommes et les grandes femmes d’aujourd’hui ont renoncé à la prétention d’en imposer aux autres.
 
 ---
 
-Je ne peux me retenir de twitter. « La dictature est en marche, pas à pas, au nom de notre bien, notez-le... et nous sommes si peu nombreux à protester. » « Après Charlie, j’ai perdu des amis, je vais en perdre d’autres, juste parce que je vois l’ombre brune dans mon propre pays. »
+Je ne peux me retenir de twitter. « La dictature est en marche, pas à pas, au nom de notre bien, notez-le… et nous sommes si peu nombreux à protester. » « Après Charlie, j’ai perdu des amis, je vais en perdre d’autres, juste parce que je vois l’ombre brune dans mon propre pays. »
 
 ---
 
@@ -142,15 +142,15 @@ Tuer, c’est réduire toute liberté. Réduire les libertés de tous pour empê
 
 ### Mardi 17, Balaruc
 
-En ces moments douloureux, alors que sous le coup de l’émotion notre gouvernement promulgue des lois d’exception sans trop réfléchir, alors que je dénonce cet empressement, on me dit que j’exagère, on se moque de moi, seules quelques voix chaleureuses se joignent à moi, mais nous sommes seuls, face à un engrenage terrifiant qui nous mènera à plus de terreur. Car chaque loi anodine s’ajoute à une autre loi anodine et le glissement vers moins de liberté pour plus de sécurité s’accentue, alors que la seule réponse à la terreur est toujours plus de créativité, d’insolence, de subversion. J’ai vu une femme dévoiler sa poitrine pour répondre aux terroristes. C’est une réponse plus appropriée que les missiles. C’est en libérant les esprits des vieux carcans idéologiques, à commencer par l’idée même de la Nation, que nous construirons un monde de paix. Je suis triste, je pense à mes deux garçons qui à ce rythme seront en âge d’être enrôlés de force dans vos armées à l’échéance de vos politiques d’un autre âge.
+En ces moments douloureux, alors que sous le coup de l’émotion notre gouvernement promulgue des lois d’exception sans trop réfléchir, alors que je dénonce cet empressement, on me dit que j’exagère, on se moque de moi, seules quelques voix chaleureuses se joignent à moi, mais nous sommes seuls, face à un engrenage terrifiant qui nous mènera à plus de terreur. Chaque loi anodine s’ajoute à une autre loi anodine et le glissement vers moins de liberté pour plus de sécurité s’accentue, alors que la seule réponse à la terreur est toujours plus de créativité, d’insolence, de subversion. J’ai vu une femme dévoiler sa poitrine pour répondre aux terroristes. C’est une réponse plus appropriée que les missiles. C’est en libérant les esprits des vieux carcans idéologiques, à commencer par l’idée même de la Nation, que nous construirons un monde de paix. Je suis triste, je pense à mes deux garçons qui à ce rythme seront en âge d’être enrôlés de force dans vos armées à l’échéance de vos politiques d’un autre âge.
 
-Nos politiciens se réveillent dans les épreuves. Ils endossent le seul habit qui leur convient : celui de chef de guerre. Ils ne sont pas nés pour notre monde complexe, interdépendant, peuplé d’hommes et de femmes libres. Ils se sont toujours rêvé comme Alexandre. Ils ne peuvent plus mentir en temps de crise. Les voilà sur leurs chevaux à la tête de leurs armées. Je les déteste. J’ai pitié pour eux. Ils ne veulent pas du monde que nous construisons. Ils n’y ont pas leur place, alors ils nous ramènent en arrière, avec la même obstination que Daesh. Simplement, ils n’en sont même pas conscients.
+Nos politiciens se réveillent dans les épreuves. Ils endossent le seul habit qui leur convient : celui de chef de guerre. Ils ne sont pas nés pour notre monde complexe, interdépendant, peuplé d’hommes et de femmes libres. Ils se sont toujours rêvé comme Alexandre. Ils ne peuvent plus mentir en temps de crise. Les voilà sur leurs chevaux à la tête de leurs armées. Je les déteste. J’ai pitié pour eux. Ils ne veulent pas du monde que nous construisons. Ils n’y ont pas leur place et nous ramènent en arrière, avec la même obstination que Daesh. Simplement, ils n’en sont même pas conscients.
 
-[caption id="attachment\_42990" align="alignnone" width="600"]![La vie continue.](_i/IMG_3948.webp) La vie continue.[/caption]
+![La vie continue](_i/IMG_3948.webp) 
 
 ### Mercredi 18, Balaruc
 
-Depuis des années, je loue un serveur dédié pour mon blog et mes bidouilles numériques. J’héberge quelques autres blogs que le mien. Ça devient de plus en plus difficile, car nos blogs sont systématiquement sous attaque, et je n’ai pas envie de passer mon temps à faire la police. Nos sites ont besoin de nous, de notre attention constante, sinon les mauvaises herbes y poussent. Nos données en ligne n’ont aucune pérennité. Voilà pourquoi le Web ne se substituera pas au livre (papier comme électronique). Il est trop peu fiable.
+Depuis des années, je loue un serveur dédié pour mon blog et mes bidouilles numériques. J’héberge quelques autres blogs que le mien. Ça devient de plus en plus difficile, nos blogs étant attaqué, et je n’ai pas envie de passer mon temps à faire la police. Nos sites ont besoin de nous, de notre attention constante, sinon les mauvaises herbes y poussent. Nos données en ligne n’ont aucune pérennité. Voilà pourquoi le Web ne se substituera pas au livre (papier comme électronique). Il est trop peu fiable.
 
 ### Vendredi 20, Balaruc
 
@@ -164,27 +164,27 @@ Je suis dans l’après-coup de *One Minute* (et peut-être aussi de l’ombre b
 
 Dans [un article passionnant comme souvent](http://www.internetactu.net/2015/11/25/leconomie-solidaire-necessite-un-internet-de-la-solidarite/), mon ami Hubert Guillaud attribue la paternité du concept de Digital Labor à Trebor Scholz ([son bouquin sur le sujet date de 2012](https://www.academia.edu/2303176/Introduction_to_Digital_Labor_The_Internet_as_Playground_and_Factory)). Scholz a sans doute contribué à populariser cette dénomination, mais je me souviens de discussions très animées à ce sujet dès 2006. Dans un billet intitulé [Esclavage 2.0](../../2006/6/esclavage-20.md), la problématique est déjà résumée. J’étais juste encore trop optimiste quant à notre intelligence collective face à celle du capitalisme (point de vue [définitivement révisé un an plus tard](../../2007/7/hypercentralisation.md), puis creusé article après article bien avant que l’ubérisation devienne à la mode). Tout ça pour dire que l’attribution des paternités m’exaspère, surtout quand je leur connais de nombreux grands-pères et même trisaïeuls (et ce n’est pas par orgueil, mon article de 2006 n’était qu’une réaction à [un autre plus lucide rétrospectivement de Karl Dubost](http://www.la-grange.net/2006/03/29.html#web20), suivi [par un autre](http://www.internetactu.net/2006/05/11/la-nouvelle-sagesse-du-web-ou-lesclavage-20/) d’Hubert Guillaud lui-même).
 
-L’ironique dans cette histoire, c’est de voir comment des personnes populaires détournent le travail des véritables novateurs (et [Karl Dubost](http://www.la-grange.net/) en est un à coup sûr, sur un spectre infiniment plus large que le médiatique Trebor Scholz). C’est une variante du digital labor, on pourrait l’appeler « reputation labor », un truc dans le genre. Sur le fond, le même mécanisme est à l’œuvre. Des gens travaillent, d’autres, moins nombreux, centralisent ce travail pour leur seul bénéfice. C’est le danger avec toutes les figures médiatiques qui défendent le collectif, elles le mettent presque toujours à leur service. Se battre contre le *digital labor* et pratiquer le *reputation labor* est en ce sens presque inévitable.
+L’ironie dans cette histoire, c’est de voir comment des personnes populaires détournent le travail des véritables novateurs (et [Karl Dubost](http://www.la-grange.net/) en est un à coup sûr, sur un spectre infiniment plus large que le médiatique Trebor Scholz). C’est une variante du digital labor, on pourrait l’appeler « reputation labor », un truc dans le genre. Sur le fond, le même mécanisme est à l’œuvre. Des gens travaillent, d’autres, moins nombreux, centralisent ce travail pour leur seul bénéfice. C’est le danger avec toutes les figures médiatiques qui défendent le collectif, elles le mettent presque toujours à leur service. Se battre contre le *digital labor* et pratiquer le *reputation labor* est en ce sens presque inévitable.
 
 ---
 
-Pour entrer dans l’annexe de l’université Paul Valéry à Montpellier, il faut franchir un portique et montrer un papier d’identité au vigile. Je n’en ai pas sur moi. Alors j’affiche sur mon téléphone ma fiche Wikipedia avec ma photo, ça le fait.
+Pour entrer dans l’annexe de l’université Paul Valéry à Montpellier, il faut franchir un portique et montrer un papier d’identité au vigile. Je n’en ai pas sur moi. H’affiche sur mon téléphone ma fiche Wikipedia avec ma photo, ça le fait.
 
 Je retrouve à l’intérieur le truculent [Jean-Yves Fréchette](https://twitter.com/JYFrechette), maître du tweet poétique. Durant tout l’après-midi, il nous raconte son parcours d’expérimentateur littéraire. C’est un enchantement. En 1982 avec *Plis sous pli*, il a sans conscience anticipé l’écriture sociale. Profitant du voyage de son ami Pierre-André Arcand vers la France, il lui met entre les mains une enveloppe contenant d’autres enveloppes, chacune à ouvrir à trente minutes d’intervalle lors du vol transatlantique, chacune avec une proposition d’écriture à rédiger sur l’enveloppe même. Bientôt, la voisine de Pierre-André ajoute ses propres commentaires. Plus tard, un fac-similé de *Plis sous pli* est édité, d’autres personnes se prêtent au jeu, ajoutent leurs propres commentaires. L’œuvre devient collective et interactive.
 
-J’ai ainsi souvent l’impression que les artistes anticipent toujours les possibilités techniques, un peu comme quand Kerouac simule le traitement de texte avec le rouleau de sa machine à écrire.
+Les artistes anticipent souvent les possibilités techniques, un peu comme quand Kerouac simule le traitement de texte avec le rouleau de sa machine à écrire.
 
-[caption id="attachment\_42991" align="alignnone" width="600"]![Fréchette nous présente Plis sous pli.](_i/IMG_3968.webp) Fréchette nous présente Plis sous pli.[/caption]
+![Fréchette nous présente Plis sous pli](_i/IMG_3968.webp) 
 
 ---
 
 Jean-Yves Fréchette a [légendé avec ses tweets d’exactement 140 caractères des photographies de Patrick St-Hilaire](http://www.instantmeme.com/ebi-addins/im/ViewBooks.aspx?id=3095). Il nous demande de l’imiter. Nous choisissons une image. En dix secondes, je ponds une phrase exactement calibrée : « Ils arrivent, tu les vois pas ? Moi, je les sens, je leur parle, tu ne les comprendras jamais et je t’échapperai toujours, tu es trop vieux. » Impossible pour moi de ne pas penser au sujet de *One Minute*. Notez que le côté purement poétique m’intéresse moins que la narration. Voici le tweet original de Jean-Yves : « Un sérieux revers. En prenant d’assaut le campement des étoiles, tu as tout de même dû infliger un sérieux revers aux mélodies des mémoires. »
 
-[caption id="attachment\_42992" align="alignnone" width="600"]![Photo de de Patrick St-Hilaire.](_i/IMG_3975.webp) Photo de de Patrick St-Hilaire.[/caption]
+![Photo de Patrick St-Hilaire](_i/IMG_3975.webp) 
 
 ### Jeudi 25, Montpellier
 
-Journée d’étude consacrée aux formes brèves dans la littérature web organisée par Marie-Ève Thérenty et Florence Thérond. Oriane Deseilligny [décortique *One Minute*](../11/one-minute-une-lecture-theorique-doriane-deseilligny.md). Je suis fier.
+Journée d’étude consacrée aux formes brèves dans la littérature web organisée par Marie-Ève Thérenty et Florence Thérond. Oriane Deseilligny [décortique *One Minute*](../11/one-minute-une-lecture-theorique-doriane-deseilligny.md).
 
 ### Vendredi 26, Balaruc
 
@@ -198,14 +198,10 @@ Entre deux séances de bricolage, je découvre un nouveau genre littéraire : [
 
 Fin novembre, un redoux nous amène parfois des incandescences sublimes. Les enfants jouent au bord de l’eau pendant que dans leur dos le ciel s’embrase.
 
-[caption id="attachment\_42993" align="alignnone" width="600"]![Mes enfants et leurs amis.](_i/IMG_3984.webp) Mes enfants et leurs amis jouent…[/caption]
-
-[caption id="attachment\_42995" align="alignnone" width="600"]![Pendant que dans leur dos…](_i/IMG_3988.webp) Pendant que dans leurs dos…[/caption]
+![Mes enfants et leurs amis](_i/IMG_3984.webp) ![Pendant que dans leur dos…](_i/IMG_3988.webp) 
 
 ### Lundi 30, Paris
 
 Ils diront : « Pour sauver la planète des gaz à effet de serre, les puissants d’alors se réunissaient par dizaine de milliers en un seul point du globe, incapables de s’appliquer à eux-mêmes les règles qu’ils entendaient imposer à tous. »
-
-
 
 #carnets #y2015 #2015-12-1-15h42

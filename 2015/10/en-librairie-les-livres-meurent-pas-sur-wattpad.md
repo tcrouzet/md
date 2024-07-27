@@ -28,6 +28,4 @@ J’ai au moins une certitude : pour un texte long, le recrutement sur Wattpad 
 
 Mon plus grand étonnement : que le modèle de Wattpad ne soit pas plus étudié, et surtout pas plus repris (hors du champ de la romance… à quand un Wattpad non-fiction ?). En tant qu’auteur, je trouve assez extraordinaire de pouvoir tester une idée, de voir comment un public plutôt jeune réagit… Les possibilités expérimentales me paraissent immenses, ne serait-ce que parce que le mode de promotion est compatible avec la lente maturation d’une œuvre.
 
-
-
 #edition #wattpad #dialogue #y2015 #2015-10-15-19h11

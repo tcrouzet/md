@@ -8,7 +8,7 @@ D’après Rilke, [Richard Dehmel](https://en.wikipedia.org/wiki/Richard_Dehmel)
 
 Je me sens trop souvent dans cet état de rut quand je blogue. J’ai donc décidé de m’imposer un petit purgatoire. Écrire dans un carnet, puis, éventuellement, copier quelques extraits et les publier de temps en temps.
 
-Je voudrais que mon blog ne soit plus que littéraire ou presque, je voudrais laisser vivre les énervements en dehors, les digérer, qu’ils entrent dans des expositions plus lentes et s’écartent du mode journalistique, et de ce ton très à la mode sur les réseaux sociaux. Une envie d’être à contre temps…
+Je voudrais laisser mes énervements en dehors de mon blog pour mieux les digérer, mieux les dquenter, les exposer plus lentement loin du mode journalistique, et du ton à la mode sur les réseaux sociaux. Une envie d’être à contre temps…
 
 ---
 
@@ -20,9 +20,9 @@ Je suis ronchon, c’est comme ça, je ne peux pas m’empêcher de râler et de
 
 ---
 
-Une lectrice me dit qu’elle préfère me lire en ligne qu’en ebook ou en livre. Elle est d’aujourd’hui, mais il nous reste encore beaucoup de code à écrire pour donner en ligne la fluidité aux textes longs, aussi bien pour le lecteur, que pour l’auteur. 
+Une lectrice me dit qu’elle préfère me lire en ligne qu’en ebook ou en livre. Il nous reste encore beaucoup de code à écrire pour donner en ligne la fluidité aux textes longs, aussi bien pour le lecteur, que pour l’auteur. 
 
-[caption id="attachment\_42393" align="aligncenter" width="600"]![Lors d’un footing en fin d’après-midi sur les hauteurs de Saint-Avit.](_i/IMG_3544.webp) Lors d’un footing en fin d’après-midi sur les hauteurs de Saint-Avit.[/caption]
+![Lors d’un footing en fin d’après-midi sur les hauteurs de Saint-Avit.](_i/IMG_3544.webp) 
 
 ### Dimanche 23, Balaruc
 
@@ -30,7 +30,7 @@ Si je parlais allemand, j’écrirais la vie de [Franz Xaver Kappus](https://en.
 
 ---
 
-Je relis les lettres de Rilke parce que l’idée m’a traversé d’écrire aux jeunes auteurs qui ne cessent de me questionner sur Wattpad. L’exercice me paraît hasardeux. Même Rilke se fait piéger à donner des conseils foireux : « Laissez faire la vie. Croyez-moi, la vie a toujours raison. » Quel galimatias de stoïcien. J’aurais plutôt tendance à dire que la vie a toujours tors, parce qu’elle finit par nous tuer. Ces généralités n’ont de toute façon aucun sens.
+Je relis les lettres de Rilke parce que l’idée m’a traversé d’écrire aux jeunes auteurs qui ne cessent de me questionner sur Wattpad. L’exercice me paraît hasardeux. Même Rilke se fait piéger à donner des conseils foireux : « Laissez faire la vie. Croyez-moi, la vie a toujours raison. » Quel galimatias stoïcien. J’aurais plutôt tendance à dire que la vie a toujours tors, parce qu’elle finit par nous tuer. Ces généralités n’ont de toute façon aucun sens.
 
 ---
 
@@ -40,11 +40,11 @@ Quand j’ai lu pour la première fois les lettres de Rilke, je n’ai pas eu la
 
 On va à la mer jouer dans les vagues. On se glisse entre deux orages. Ciel terrible au-dessus des collines derrière nous. De retour à la maison, les enfants posent leurs combis et courent nus sous les trombes d’eau.
 
-[caption id="attachment\_42394" align="aligncenter" width="600"]![Retour à la maison.](_i/IMG_3606.webp) Retour à la maison.[/caption]
+![Retour à la maison](_i/IMG_3606.webp)
 
 ### Lundi 24, Balaruc
 
-Quand je parle d’Amazon, quand je joue avec ses services, des gens me traitent avec condescendance : « Non, merci, pas pour moi. » On les dirait les plus fervents défenseurs d’une espèce de déontologie anti-capitaliste. Mais ont-ils une voiture ? Ils y mettent du carburant fabriqué par qui ? Et ils se chauffent chez eux, sans doute : avec de l’énergie fabriquée par qui, par quel moyen ? Et pire, ils utilisent en toute probabilité de l’argent : fabriqué par qui ? Ces gens se croient politiquement éveillés en refusant une pièce du puzzle, mais en acceptant les règles de toutes les autres. Il n’existe malheureusement, à mon avis, que deux possibilités : soit se faire ermite, soit utiliser toutes les pièces boguées les unes contre les autres.
+Quand je parle d’Amazon, quand je joue avec ses services, des gens me traitent avec condescendance : « Non, merci, pas pour moi. » On les dirait les plus fervents défenseurs d’une espèce de déontologie anti-capitaliste. Mais ont-ils une voiture ? Ils y mettent du carburant fabriqué par qui ? Et ils se chauffent chez eux, sans doute : avec de l’énergie fabriquée par qui, par quel moyen ? Et pire, ils utilisent en toute probabilité de l’argent : fabriqué par qui ? Ces gens se croient politiquement éveillés en refusant une pièce du puzzle, mais en acceptant les règles de toutes les autres. Il n’existe malheureusement, à mon avis, que deux possibilités : soit se faire ermite, soit jouer de toutes les pièces boguées les unes contre les autres.
 
 ---
 
@@ -78,7 +78,7 @@ Je finis seulement aujourd’hui par lancer la requête « difficulté à dormi
 
 C’est exactement ça, mon cœur bat sur un rythme différent, ce qui bouleverse toute ma mécanique mentale, et renforce mon angoisse naturelle. J’espère que mettre en mots m’aidera à mieux gérer.
 
-Deux choses assez étranges. 1/ Pourquoi avoir attendu des années avant d’effectuer une recherche à ce sujet sur le Net ? Je passe ma vie à lancer des requêtes, mais pas sur ce qui me concerne de près. Une tendance à être dans l’esprit plus que dans le corps. 2/ Pourquoi aucun des médecins que j’ai pu consulter n’a mis des mots sur mon trouble ? Le Net me révèle pourtant sa banalité. L’auto-diagnostic a un bel avenir. La médecine occidentale ne nous aide pas à mieux vivre, juste à survivre.
+Deux choses assez étranges. 1/ Pourquoi avoir attendu des années avant d’effectuer une recherche à ce sujet ? Je passe ma vie à lancer des requêtes, mais pas sur ce qui me concerne de près. Une tendance à être dans l’esprit plus que dans le corps. 2/ Pourquoi aucun des médecins que j’ai pu consulter n’a mis des mots sur mon trouble ? Le Net me révèle pourtant sa banalité. L’auto-diagnostic a un bel avenir. La médecine occidentale ne nous aide pas à mieux vivre, juste à survivre.
 
 ---
 
@@ -90,7 +90,7 @@ Tous ces auteurs qui annoncent leur nouveau livre. J’en suis écœuré. Écrir
 
 ---
 
-J’allais annoncer que *[One minute](../../page/une-minute)* avait dépassé les 150K lectures, je m’abstiens. Je ne peux pas critiquer un comportement et l’entretenir. C’est aux lecteurs d’entraîner les lecteurs. Me contenter d’annoncer les publications avec le moins d’emphase possible. Faire confiance à un robot pour cette fonction.
+J’allais annoncer en ligne que *[One minute](../../page/une-minute)* avait dépassé les 150K lectures, je m’abstiens. Je ne peux pas critiquer un comportement et l’entretenir. C’est aux lecteurs d’entraîner les lecteurs. Me contenter d’annoncer les publications avec le moins d’emphase possible. Faire confiance à un robot pour cette fonction.
 
 ---
 
@@ -98,7 +98,7 @@ J’écoute [Pablo Servigne parler de *Comment tout peut s’effondrer*](https:/
 
 Même si je suis persuadé qu’on ne peut pas prédire l’avenir, même si j’ai publié [un livre sur le sujet en 2006](../../page/le-peuple-des-connecteurs), je crois à certaines lois empiriques comme le progrès exponentiel des technologies. La techno de demain n’existe pas encore. On ne peut rien dire à son sujet. Tirer un trait à partir de ce que nous connaissons n’a aucun sens. Oui, il faut envisager le pire, vivre autrement, d’ailleurs c’est chiant le modèle actuel, mais l’effondrement civilisationnel n’est pas inévitable, parce que notre civilisation est technologique, et que la technologie peut se sauver elle-même (un peu avec notre aide).
 
-OK, je ne suis pas tous les jours aussi optimiste, surtout quand je me confronte à la connerie ambiante. D’ailleurs, je ne devrais pas parler du monde solaro-industriel, mais du monde solaro-artisanal et avec du monde info-artisanal. Déjà bien boostés, ils s’épanouiront quand le vieux monstre piquera du nez. La renaissance est dans l’effondrement comme le suppose Pablo Servigne.
+OK, je ne suis pas tous les jours aussi optimiste, surtout quand je me confronte à la connerie ambiante. D’ailleurs, je ne devrais pas parler du monde solaro-industriel, mais des mondes solaro-artisanal etinfo-artisanal. Déjà bien boostés, ils s’épanouiront quand le vieux monstre piquera du nez. La renaissance est dans l’effondrement comme le suppose Pablo Servigne.
 
 ### Dimanche 30, Balaruc
 
@@ -114,7 +114,7 @@ Aujourd’hui rentrée pour Émile, demain pour Tim, changement d’école, pass
 
 ---
 
-Isa me demande de lui acheter [un ebook](http://www.amazon.fr/Pour-enfance-heureuse-Catherine-GUEGUEN/dp/2221140923) : « Pour une fois, ils font un effort sur le prix. » Mais elle n’a pas vu que la version poche est moins chère. Dans ces cas, j’achète, je pirate, je me fais rembourser.
+Isa me demande de lui acheter [un ebook](http://www.amazon.fr/Pour-enfance-heureuse-Catherine-GUEGUEN/dp/2221140923) : « Pour une fois, ils font un effort sur le prix. » Mais elle n’a pas vu que la version poche est moins chère.
 
 ---
 

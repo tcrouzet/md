@@ -1,6 +1,6 @@
 # Octobre 2015
 
-![](_i/couches.webp)
+![Soir](_i/couches.webp)
 
 ### Vendredi 2, Balaruc
 
@@ -16,7 +16,7 @@ Je cours un 13,5 km à 11 km/h de moyenne. Le corps s’habitue à tout (et à 
 
 ### Lundi 5, Balaruc
 
-L’absurde me suffoque parfois. Le reste du temps, je me persuade que nous écrivons une histoire, ça donne un sens dramatique à nos vies.
+L’absurde me suffoque parfois. Le reste du temps, je me persuade que nous écrivons une Histoire, ça donne un sens dramatique à nos vies.
 
 ### Mardi 6, Balaruc
 
@@ -34,7 +34,7 @@ Un cauchemar. Je trouve mon père inconscient, en sang. Je le touche, il est enc
 
 Je suis incapable d’écrire autre chose que [mes minutes](../../page/une-minute). Aucune sensation ne se pose avec assez de force pour exiger les mots.
 
-[caption id="attachment\_42689" align="aligncenter" width="600"]![En TGV, levé de soleil sur le Rhone.](_i/rhone.webp) En TGV, levé de soleil sur le Rhone.[/caption]
+![En TGV, levé de soleil sur le Rhone](_i/rhone.webp) 
 
 ---
 
@@ -42,7 +42,7 @@ Cet après-midi, je dois parler devant des étudiants en journalisme. Des préte
 
 ---
 
-Levée de boucliers quand je dis aux élèves journalistes qu’ils doivent apprendre à programmer. Sorte de refus instinctif de mettre les mains dans le cambouis, refus qui s’avérera dramatique si le monde finit par s’écrouler. Le XXIe siècle sera technique ou ne sera pas.
+Levée de boucliers quand je dis aux élèves journalistes qu’ils doivent apprendre à programmer. Sorte de refus instinctif de mettre les mains dans le cambouis, refus qui s’avérera dramatique si le monde finit par s’écrouler. Le XXI<sup>e</sup> siècle sera technique ou ne sera pas.
 
 ### Samedi 10, Balaruc
 
@@ -54,25 +54,25 @@ Sur Twitter, je me désabonne des gens qui ne me suivent pas. Je resserre ma com
 
 ### Mardi 13, Balaruc
 
-[caption id="attachment\_42690" align="aligncenter" width="600"]![La journée commence en douceur.](_i/lever.webp) La journée commence en douceur.[/caption]
+![La journée commence en douceur](_i/lever.webp)
 
 La digital detox est une intox.
 
 ---
 
-Quand je vais au village, je passe en vélo sur un pont de bois réservé aux piétons, la piste cyclable faisant un léger détour. Une ou deux fois par an, quelqu’un me fait une remarque. Genre flic en civil. Aujourd’hui, c’est une femme avec un chien en laisse. Je suis sûr qu’elle me juge irrespectueux. C’est à cause de gens comme moi que le monde va à vau-l’eau. Je me sens un peu coupable. Mais la femme se sent-elle coupable d’avoir fait chier son chien sur la plage ?
+Quand je vais au village, je passe à vélo sur un pont de bois réservé aux piétons, la piste cyclable faisant un léger détour. Une ou deux fois par an, quelqu’un me fait une remarque. Genre flic en civil. Aujourd’hui, c’est une femme avec un chien en laisse. Je suis sûr qu’elle pense que ’est à cause de gens comme moi que le monde va à vau-l’eau. Je me sens un peu coupable. Mais la femme se sent-elle coupable d’avoir fait chier son chien sur la plage ?
 
 ### Mercredi 14, Balaruc
 
-[caption id="attachment\_42691" align="aligncenter" width="600"]![Paysage matinal en strates.](_i/couches.webp) Paysage matinal en strates.[/caption]
+![Paysage matinal en strates](_i/couches.webp) 
 
-Je passe devant un atelier avec des palettes colorées entreposées sous des arbres qui perdent leurs feuilles. J’ai pensé automne. Je me suis même un instant senti dans les environs de Seattle. La couleur rouge du mur renforçait celle du soleil et m’a projeté aux pieds de la chaîne des Cascades. L’endroit m’est revenu avec la force décrite par le Proust que j’aime, celui des impressions. Si j’avais le courage, je reproduirais les notes et les dessins de cette journée de mon passé. J’ai le projet sans cesse repoussé de me lancer dans le retroblogging.
+Je passe devant un atelier avec des palettes colorées entreposées sous des arbres qui perdent leurs feuilles. J’ai pensé automne. Je me suis même un instant senti dans les environs de Seattle. La couleur rouge du mur renforçait celle du soleil et m’a projeté aux pieds de la chaîne des Cascades. L’endroit m’est revenu comme Proust l’a décrit. Si j’avais le courage, je reproduirais les notes et les dessins de cette journée de mon passé. J’ai le projet sans cesse repoussé de me lancer dans le retroblogging.
 
-[caption id="attachment\_42692" align="aligncenter" width="600"]![Les couleurs de l’été Indien.](_i/palettes.webp) Les couleurs de l’été Indien.[/caption]
+![Les couleurs de l’été Indien](_i/palettes.webp) 
 
 ---
 
-Depuis quelques jours, mon blog est sous attaque. Quelqu’un cherche à s’y connecter. C’est comme être chez soi et entendre un voleur essayer de forcer la porte. Tout cela m’encourage à désintégrer mon chez-moi numérique au profit de plus de mobilité.
+Depuis quelques jours, mon blog est attaqué. Quelqu’un cherche à s’y connecter. C’est comme être chez soi et entendre un voleur essayer de forcer la porte. Tout ça m’encourage à désintégrer mon chez-moi numérique au profit de plus de mobilité.
 
 ### Jeudi 15, Balaruc
 
@@ -84,7 +84,7 @@ Je passe un bon moment à lire des news sur [KIC 8462852](http://news.discovery.
 
 ### Vendredi 16, Balaruc
 
-Levé du jour. Ciel bleu, pur, délavé par le mistral. Une pureté trop parfaite pour une apothéose de couleurs. Il en va des journées du ciel comme les miennes.
+Levé du jour. Ciel bleu, pur, délavé par le mistral. Une pureté trop parfaite pour une apothéose de couleurs. Il en va des journées du ciel comme des miennes.
 
 ---
 
@@ -92,7 +92,7 @@ La limpidité du matin amène un beau cagnard d’automne dans l’après-midi, 
 
 ### Samedi 17, Balaruc
 
-Je devrais creuser l’idée : Internet comme territoire (de la nécessité d’enseigner l’histoire et la géographie du Net à l’école). C’est le sujet possible d’un manuel à distribuer à tous les collégiens (pas mal de fric à la clé). Voir Internet comme un territoire (plutôt que comme un service) change la perspective politique et philosophique sur cet objet...
+Je devrais creuser l’idée : Internet comme territoire (de la nécessité d’enseigner l’histoire et la géographie du Net à l’école). C’est le sujet possible d’un manuel à distribuer à tous les collégiens (pas mal de fric à la clé). Voir Internet comme un territoire (plutôt que comme un service) change la perspective politique et philosophique sur cet objet…
 
 ---
 
@@ -116,7 +116,7 @@ Moins je fréquente les réseaux sociaux, plus j’en reviens aux flux RSS. Je p
 
 ### Vendredi 23, Maillardou
 
-Depuis que je publie [mes minutes](../../page/une-minute) sur Wattpad, on m’a fait plusieurs fois remarquer que les jeunes avaient besoin de textes plus simples que les miens et que je devrais faire des efforts pour me mettre à leur portée. C’est le monde à l’envers. Le jeune serait la mesure de tout. Et le monde devrait se tordre pour lui comme si le jeune allait rester jeune toute sa vie. On dirait que le jeune se complet dans son état alors qu’il vit la phase le plus transitoire de l’existence (j’ai tout fait pour la quitter au plus vite, en commençant par lire des livres écrits pour les grands).
+Depuis que je publie [mes minutes](../../page/une-minute) sur Wattpad, on m’a fait plusieurs fois remarquer que les jeunes avaient besoin de textes plus simples que les miens et que je devrais m’efforcer de me mettre à leur portée. C’est le monde à l’envers. Le jeune serait la mesure de tout. Et le monde devrait se tordre pour lui comme si le jeune allait rester jeune toute sa vie. On dirait que le jeune se complet dans son état alors qu’il vit la phase le plus transitoire de l’existence (j’ai tout fait pour la quitter au plus vite, en commençant par lire des livres écrits pour les adultes).
 
 ---
 
@@ -152,16 +152,14 @@ Sara vient de m’apprendre la mort de Yal. Je pensais à lui tous les jours dep
 
 ### Mercredi 28, Maillardou
 
-Quand je suis triste, je ne pleure pas. Très vite, j’ai mal au ventre. L’émotion court-circuite ma conscience. La nouvelle de la mort de Yal est passée directement dans mes entrailles.
+Quand je suis triste, je ne pleure pas. Très vite, j’ai mal au ventre. L’émotion court-circuite ma conscience. La nouvelle de la mort de Yal m’est passée directement dans mes entrailles.
 
 ### Jeudi 29, Balaruc
 
-[caption id="attachment\_42693" align="aligncenter" width="600"]![Un ciel trop beau, en souvenir de Yal.](_i/ciel.webp) Un ciel trop beau, en souvenir de Yal.[/caption]
+![Un ciel trop beau, en souvenir de Yal](_i/ciel.webp) 
 
 ### Samedi 31, Balaruc
 
 « La lecture nous donne des amis inconnus, et quel ami qu’un lecteur ! nous avons des amis connus qui ne lisent rien de nous ! l’auteur espère avoir payé sa dette en dédiant cette œuvre *diis ignotis*. » Balzac, dans l’avis au lecteur de *L’Élixir de longue vie*, un petit chef-d’œuvre gothique.
-
-
 
 #carnets #y2015 #2015-11-1-15h1

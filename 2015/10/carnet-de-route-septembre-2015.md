@@ -1,8 +1,8 @@
 # Septembre 2015
 
-![](_i/cielsep.webp)
+![Soir](_i/cielsep.webp)
 
-### Mardi 1er, Balaruc
+### Mardi 1<sup>er</sup>, Balaruc
 
 Encore une fois, je refuse de répondre à une journaliste au sujet de la déconnexion. Isa : « Bientôt tu regretteras de ne plus être appellé. » Elle a raison, mais les journalistes qui n’essaient même pas de lire deux pages de *[J’ai débranché](../../page/jai-debranche)* m’insupportent.
 
@@ -10,13 +10,11 @@ Encore une fois, je refuse de répondre à une journaliste au sujet de la décon
 
 Matinée passée au café. Je devais attendre la sortie de Tim du collège et écrire. Des amis déboulent et nous parlons, et ce n’est pas plus mal.
 
-[caption id="attachment\_42538" align="aligncenter" width="600"]![Septembre nous accueille avec un ciel qui sent l’hiver.](_i/cielsep.webp) Septembre nous accueille avec un ciel qui sent l’hiver.[/caption]
-
 ### Mercredi 2, Balaruc
 
 Comme chaque année, je passe un peu de temps plongé dans le code de mon blog. C’est de plus en plus technique pour qui veut coller aux standards Web. Obligation de savoir coder désormais ou se contenter de subir le code des autres, ce qui me paraît pour le moins limitatif pour un créateur.
 
-[caption id="attachment\_42539" align="aligncenter" width="600"]![Un horizon menaçant.](_i/menace.webp) Un horizon menaçant.[/caption]
+![Un horizon menaçant](_i/menace.webp) 
 
 ### Vendredi 4, Balaruc
 
@@ -24,7 +22,7 @@ Avoir des enfants, c’est une invitation à l’altruisme. Tu commences par les
 
 ---
 
-Je découvre une [fan-fiction de *1 minute*](https://www.wattpad.com/story/48422938-1-minute-1-mort), j’ai du mal à comprendre pourquoi certains auteurs s’offusquent d’un tel procédé, moi, ça me fait plutôt plaisir, d’autant que nous sommes tous des fans-fictions. Parce que nous avons des modèles, nos parents pour commencer, puis même des gens vus à la TV ou rencontrés dans des BD ou des romans. Surtout parce que nous sommes nés imitateurs grâce à nos neurones miroirs. Nous copions plus que nous créons. Nos créations ne sont que des copies ratées. Alors exiger des droits d’auteurs et des droits juridiques pour de mauvaises copies, c’est un peu prétentieux. Rimbaud n’a jamais revendiqué *Les Illuminations*, ça devrait nous inciter à la modestie.
+Je découvre une [fan-fiction de *1 minute*](https://www.wattpad.com/story/48422938-1-minute-1-mort), j’ai du mal à comprendre pourquoi certains auteurs s’offusquent d’un tel procédé, qui me fait plutôt plaisir, d’autant que nous sommes tous des fans-fictions. Parce que nous avons des modèles, nos parents pour commencer, puis même des gens vus à la TV ou rencontrés dans des BD ou des romans. Surtout parce que nous sommes nés imitateurs grâce à nos neurones miroirs. Nous copions plus que nous créons. Nos créations ne sont que des copies ratées. Alors exiger des droits d’auteurs et des droits juridiques pour de mauvaises copies, c’est un peu prétentieux. Rimbaud n’a jamais revendiqué *Les Illuminations*, ça devrait nous inciter à la modestie.
 
 ---
 
@@ -38,7 +36,7 @@ Je récupère à la base nautique voisine un vieux catamaran d’école, [un F1 
 
 La littérature devrait abandonner le divertissement aux films, aux jeux vidéo, aux actualités distillées par les journalistes… Techniques plus efficaces dans leur rendement rapport au temps investit par le spectateur. La littérature ne devrait chercher qu’à provoquer des extases mentales par une lente montée vers le climax.
 
-[caption id="attachment\_42540" align="aligncenter" width="600"]![D’où je vois le monde.](_i/labas.webp) D’où je vois le monde.[/caption]
+![D’où je vois le monde](_i/labas.webp) 
 
 ### Lundi 7, Balaruc
 
@@ -46,39 +44,39 @@ La littérature devrait abandonner le divertissement aux films, aux jeux vidéo,
 
 ---
 
-Depuis la mort de mon père, je revois les endroits qu’il a vus et qui n’ont pas changé et je me dis que, s’il revenait, il n’éprouverait rien de nouveau. En fait, non, voir la route plantée de platanes, bordée d’un côté par l’étang, de l’autre par des pelouses électrisées de soleil, me procure un plaisir sans cesse renouvellé. Mourir, c’est perdre cette sensation immédiate bien plus qu’une expérience accumulée. La conscience est un plaisir.
+Depuis la mort de mon père, je revois les endroits qu’il a vus et qui n’ont pas changé et je me dis que, s’il revenait, il n’éprouverait rien de nouveau. En fait, non, voir la route plantée de platanes, bordée d’un côté par l’étang, de l’autre par des pelouses électrisées de soleil, me procure un plaisir sans cesse renouvellé. Mourir, c’est perdre cette sensation immédiate plus qu’une expérience accumulée. La conscience est un plaisir.
 
 ---
 
-Depuis deux semaines, je bricole mon blog et la navigation est en vrac, même si les articles restent parfaitement lisibles. Personne que ça dérange, parce que plus personne ne navigue dans les blogs. En conséquence, cacher la navigation dont l’usage doit devenir facultatif. Peut-être, même, cacher le blog, disparaître de ce Web qui m’indiffère de plus en plus.
+Depuis deux semaines, je bricole mon blog et la navigation est en vrac, même si les articles restent lisibles. Personne que ça dérange, parce que plus personne ne navigue dans les blogs. En conséquence, cacher la navigation dont l’usage doit devenir facultatif. Peut-être, même, cacher le blog, disparaître de ce Web qui m’indiffère.
 
 ### Mardi 8, Balaruc
 
-Un ebook gratuit sur le droit d’auteur affirme que la gratuité est du vol. Perte de temps de s’intéresser à ces questions. Dans une société de haute disponibilité médiatique, il n’y a plus de droit d’auteur possible, sinon moral. Il faut inventer de nouveaux modèles pour rétribuer les auteurs et toutes les fonctions sociales affectées par la haute disponibilité (il ne s’agira donc pas d’un droit d’auteur révisé, mais d’un nouveau droit des hommes et des femmes).
+Un ebook gratuit sur le droit d’auteur affirme que la gratuité est du vol. Perte de temps de s’intéresser à ces questions. Dans une société de haute disponibilité médiatique, il n’y a plus de droit d’auteur possible, sinon moral. À nous d’inventer de nouveaux modèles pour rétribuer les auteurs et toutes les fonctions sociales affectées par la haute disponibilité (il ne s’agira donc pas d’un droit d’auteur révisé, mais d’un nouveau droit des hommes et des femmes).
 
 ---
 
-Cette image d’une camérawoman qui fait un croc en jambe à un réfugié portant sa fille dans ses bras, pour le faite tomber, pour le filmer pendant que la police l’attrape. Notre époque est macabre. Nous nous nourrissons de l’horreur, quitte à la mettre en scène. La camérawoman est victime de nos penchants pervers. Prendre une distance démesurée avec ce monde médiatique. Il travestit la réalité pour provoquer en nous des réactions émotionnelles incontrôlables.
+Image d’une camérawoman qui fait un croc en jambe à un réfugié portant sa fille dans ses bras, pour le faite tomber, pour le filmer pendant que la police l’arrête. Notre époque est macabre. Nous nous nourrissons de l’horreur, quitte à la mettre en scène. La camérawoman est victime de nos penchants pervers. Prendre une distance démesurée avec ce monde médiatique, qui travestit la réalité pour provoquer en nous des réactions émotionnelles incontrôlables.
 
-[caption id="attachment\_42541" align="aligncenter" width="600"]![Pour un droit aux couchers de soleil.](_i/droit.webp) Pour un droit aux couchers de soleil.[/caption]
+![Pour un droit aux couchers de soleil.](_i/droit.webp)
 
 ### Mercredi 9, Balaruc
 
-Les news parlent des réfugiés, mes compatriotes veulent les accueillir (saine réaction). Dans quinze jours, ils passeront à autre chose (un tremblement de terre, un tsunami, une inondation…). L’actualité régit les comportements. Les faiseurs d’actualité, les mêmes à l’origine des flux migratoires inhumains, ont pris le pouvoir (et ce n’est pas nouveau).
+Les news parlent des réfugiés, mes compatriotes veulent les accueillir (saine réaction). Dans quinze jours, ils passeront à autre chose (un tremblement de terre, un tsunami, une inondation…). L’actualité régit les comportements. Les faiseurs d’actualité, à l’origine des flux migratoires inhumains, ont pris le pouvoir (et ce n’est pas nouveau).
 
 ---
 
 Une descente de la répression des fraudes chez Booxup, une startup qui veut faciliter l’échange de livres entre particuliers. Alors les observateurs considèrent en danger le droit ancestral de prêter un objet dûment acheté. On peut lire autrement cette affaire : une attaque contre une plateforme, Booxup, qui espère se gaver en centralisant une pratique sociale jusqu’alors désintéressée. 
 
-Moi, président, j’interdirais les plateformes. Je m’opposerais à l’hubérisation de la société, car cette technique marketing revient à monétiser tout ce qui jadis était de l’ordre du lien. Toute activité qui peut se gérer de pair-à-pair, avec l’aide ou non de la technologie, doit rester de pair-à-pair. Ce devrait être un droit de l’homme fondamental. Une règle éthique à graver sur tous les frontons. Booxup et ses semblables ne sont que des parasites de la société du don. Industrialiser le don est un crime. C’est une façon discrète de réduire nos libertés sous le prétexte de nous aider à mieux échanger.
+Moi, président, j’interdirais les plateformes. Je m’opposerais à l’hubérisation de la société : cette technique marketing revient à monétiser tout ce qui jadis était de l’ordre du lien. Toute activité qui peut se gérer de pair-à-pair, avec l’aide ou non de la technologie, doit rester de pair-à-pair. Ce devrait être un droit de l’homme fondamental. Une règle éthique à graver sur tous les frontons. Booxup et ses semblables ne sont que des parasites de la société du don. Industrialiser le don est un crime. C’est une façon discrète de réduire nos libertés sous le prétexte de nous aider à mieux échanger.
 
-Je ris jaune de voir tant de mes amis courir au secours de Booxup, et peu importe si l’attaque administrative était mal formulée. Raison de plus pour rester à distance, en décalage temporel.
+Pas très heureux de voir des amis courir au secours de Booxup, et peu importe si l’attaque administrative était mal formulée. Raison de plus pour rester à distance, en décalage temporel.
 
 ---
 
 J’ai passé la journée à bricoler, notamment à changer le moteur de notre écran de projection. Après un footing, un repas, j’attends le coucher du soleil au bord de l’étang, avec une sensation de plénitude que seule une photographie résume, éventuellement.
 
-[caption id="attachment\_42542" align="aligncenter" width="600"]![Le moment indispensable.](_i/coucher.webp) Le moment indispensable.[/caption]
+![Le moment indispensable](_i/coucher.webp) 
 
 ### Jeudi 10, Balaruc
 
@@ -90,7 +88,7 @@ Je rentre le soir de Montpellier après avoir dîné avec des amis auteurs. J’
 
 ### Vendredi 11, Balaruc
 
-Le hasard détermine notre position par rapport à la modernité littéraire. Avec *[1 minute](../../page/une-minute)*, je me suis lancé dans un projet expérimental sur le Web, avec toutes les possibilités formelles inhérentes (je ne pense pas au multimédia d’une banalité affligeante, mais à l’interaction lecteur, au Send, à l’open source…). Si demain un éditeur me propose un contrat à la condition que je cesse l’expérimentation, qu’est-ce que je ferai ? Je pense tenir bon, sans certitudes. Si une telle proposition avait surgi tôt dans le projet, j’aurais craqué plus facilement. Tout ça pour dire qu’on peut être le défenseur de la modernité et la trahir très facilement. La modernité n’est qu’une façon de revendiquer son exclusion du système.
+Le hasard détermine notre position par rapport à la modernité littéraire. Avec *[1 minute](../../page/une-minute)*, je me suis lancé dans un projet expérimental sur le Web, avec toutes les possibilités formelles inhérentes (je ne pense pas au multimédia d’une banalité affligeante, mais à l’interaction lecteur, au Send, à l’open source…). Si demain un éditeur me propose un contrat à la condition que je cesse l’expérimentation, qu’est-ce que je ferai ? Je pense tenir bon, sans certitudes. Si une telle proposition avait surgi tôt dans le projet, j’aurais craqué plus facilement. Tout ça pour dire qu’on peut être le défenseur de la modernité et la trahir facilement.
 
 ---
 
@@ -106,7 +104,7 @@ Annoncer publiquement qu’on arrête une activité, c’est encore vouloir se f
 
 ---
 
-Je suis le gourou involontaire de la déconnexion. Sauf que je me suis déconnecté pour comprendre ce que connecté signifie et pour revenir en ligne plus adulte.
+Je suis le gourou involontaire de la déconnexion. Sauf que je me suis déconnecté pour comprendre le sens de la connection et pour revenir en ligne plus adulte.
 
 ### Dimanche 13, Balaruc
 
@@ -118,7 +116,7 @@ Je relis mes notes depuis le début du mois. Je constate que l’actualité ou m
 
 ---
 
-Prétendre que la modernité est sur le Net, c’est comme dire qu’elle est sur TF1. La modernité se replie dans les interstices qui échappent à la médiation de masse, elle est nécessairement underground. La véritable branchitude, c’est se débrancher.
+Prétendre que la modernité est sur le Net, c’est comme dire qu’elle est sur à la TV. La modernité se replie dans les interstices qui échappent à la médiation de masse, elle est nécessairement underground. La véritable branchitude, c’est se débrancher.
 
 ---
 
@@ -126,13 +124,13 @@ Le Net me déprime. D’y voir en spectacle l’humanité atomisée jusqu’à s
 
 ---
 
-Garder le blog et réduire la fréquence de publication suffit à transformer ce que j’écris. Je suis plus à l’affût des idées passagères, des impressions que quelques lignes suffisent à circonscrire. Et certains doutent encore que l’outil influence la littérature.
+Garder le blog et réduire la fréquence de publication suffit à transformer ce que j’écris. Je suis davantage à l’affût des idées passagères, des impressions que quelques lignes suffisent à circonscrire. Et certains doutent encore que l’outil influence la littérature.
 
 ### Mardi 15, Cirque de Navacelles
 
 Journée de coupure, de marche, de dépaysement à moins de deux heures de route de la maison. S’imposer de telles respirations profondes, aussi utiles pour le corps que pour l’esprit. Descendre dans les méandres de la Vis, remonter jusqu’à la résurgence de la rivière, grignoter au moulin, puis revenir par le magnifique chemin sur les hauteurs.
 
-[caption id="attachment\_42543" align="aligncenter" width="600"]![Coupures indispensables.](_i/vis.webp) Coupures indispensables.[/caption]
+![Coupures indispensables](_i/vis.webp)
 
 ### Mercredi 16, Balaruc
 
@@ -144,11 +142,11 @@ Il pleut ce matin, quelques gouttes de nord, les nuages poussés de la mer depui
 
 ---
 
-Le maniérisme en littérature me dégoûte, d’autant plus quand il essaime dans une coterie. Il ne restera rien de vos trucs d’écriture, sous-tendus par aucune esthétique, aucune pensée, aucune vision. J’ai l’impression de lire et relire *Les illuminations*, avec à chaque étape quelque chose d’essentiel d’oublié. Il ne reste plus chez vous que la nécessité de tordre vos phrases pour ne pas les confondre avec celles des auteurs à succès, banalement blanches. La poésie a bon dos.
+Le maniérisme en littérature me dégoûte, d’autant plus quand il essaime dans une coterie. Il ne restera rien de vos trucs d’écriture, sous-tendus par aucune esthétique, aucune pensée, aucune vision. J’ai l’impression de lire et relire *Les illuminations*, avec à chaque étape quelque chose d’essentiel d’oublié. Il ne reste plus chez vous que la nécessité de tordre vos phrases pour ne pas les confondre avec celles des auteurs à succès. La poésie a bon dos.
 
 ### Samedi 19, Balaruc
 
-Un journaliste de [*planet.fr* me demande si les robots menacent nos emplois ?](http://www.planet.fr/dossiers-de-la-redaction-les-robots-vont-ils-bientot-tous-nous-mettre-au-chomage.931238.1466.html) J’accepte de lui répondre, parce que la sémantique de la question en elle-même m’intéresse. Depuis la nuit des temps, nous cherchons à nous émanciper de tâches désagréables, à les donner à des animaux (le labour), à des machines (les moulins à vent), et maintenant à des robots. Ils ne menacent donc pas nos emplois, ils sont au contraire une fantastique opportunité de libérer du temps pour des tâches plus nobles, plus spécifiquement humaines. C’est la notion même de chômage qu’il faut revisiter, en faire un concept positif. Plus une société a de chômeurs, plus elle progresse. Un politicien devrait se féliciter de faire augmenter le taux de chômage si dans le même temps il ne diminue pas le niveau de vie. Toute prise à distance du salariat est un progrès social. Le chômage ne doit pas être combattu, mais encouragé. Bien sûr, l’article ne parle pas de tout ça. Il me fait dire des banalités sur les robots, domaine dans lequel je n’ai pas grand-chose à dire. Je ne devrais plus accepter que des interviews, avec validation de ma part.
+Un journaliste de [*planet.fr* me demande si les robots menacent nos emplois ?](http://www.planet.fr/dossiers-de-la-redaction-les-robots-vont-ils-bientot-tous-nous-mettre-au-chomage.931238.1466.html) J’accepte de lui répondre, parce que la sémantique de la question en elle-même m’intéresse. Depuis la nuit des temps, nous cherchons à nous émanciper de tâches désagréables, à les donner à des animaux (le labour), à des machines (les moulins à vent), et maintenant à des robots. Ils ne menacent donc pas nos emplois, ils sont au contraire une fantastique opportunité de libérer du temps pour des tâches plus nobles, plus spécifiquement humaines. C’est la notion même de chômage qu’il faut revisiter, en faire un concept positif. Plus une société a de chômeurs, plus elle progresse. Un politicien devrait se féliciter de faire augmenter le taux de chômage si dans le même temps il ne diminue pas le niveau de vie. Toute prise à distance du salariat est un progrès social. Le chômage ne doit pas être combattu, mais encouragé. Bien sûr, l’article ne parle pas de tout ça. Il me fait dire des banalités sur les robots, domaine dans lequel je n’ai pas grand-chose à dire.
 
 ### Dimanche 20, Balaruc
 
@@ -156,17 +154,17 @@ Coder me confronte à mon vieillissement cérébral. Depuis plus d’une semaine
 
 ---
 
-Depuis que j’ai diffusé en exclus le T1 de *1 minute* sur Amazon, je l’ai vu plusieurs fois glissé dans leur newsletter promotionnelle, sans le moindre impact sur les ventes (et me demande si cette newsletter n’est pas personnalisée, avec mon livre en tête juste pour me faire plaisir).
+Depuis que j’ai diffusé en exclus le T1 de *One minute* sur Amazon, je l’ai vu plusieurs fois glissé dans leur newsletter promotionnelle, sans le moindre impact sur les ventes (et j’en déduis que cette newsletter est personnalisée, avec mon livre en tête juste pour me faire plaisir).
 
 ---
 
-Nous pensons trop haut avec la prétention d’avoir des choses à dire. Le Web serait plus jouissif s’il nous imposait un quota de signes mensuels, ou même annuels. Nous tournerions deux fois notre langue avant de nous décharger de la moindre intuition mal étayée.
+Nous pensons trop haut, avec la prétention d’avoir des choses à dire. Le Web serait plus jouissif s’il nous imposait un quota de signes mensuels, ou même annuels. Nous tournerions deux fois notre langue avant de nous décharger de la moindre intuition mal étayée.
 
 ---
 
-Coucher de soleil orange intense, une coloration plus commune en hiver. Étang immobile avec Pyrénées en clôture. Je photographie tout en sachant que ce spectacle se vit et ne se partage pas à distance, comme tant d’autres choses, peut-être pour cette raison que je ne vais plus sur les réseaux sociaux que quand on m’y interpelle. Alors je jette un œil à ma timeline, et aux centaines de « Et moi, et moi ! » Je pêche toujours quelques idées, quelques infos intéressantes sur le travail de mes amis, tout cela noyé dans une médiocrité généralisée, à laquelle mes amis n’échappent pas. Filtrage impossible.
+Coucher de soleil orange intense, une coloration plus commune en hiver. Étang immobile avec Pyrénées en clôture. Je photographie tout en sachant que ce spectacle se vit et ne se partage pas, comme tant d’autres choses, peut-être pour cette raison que je ne vais plus sur les réseaux sociaux que quand on m’y interpelle. Alors je jette un œil à ma timeline, et aux centaines de « Et moi, et moi ! » Je pêche toujours quelques idées, quelques infos intéressantes sur le travail de mes amis, tout cela noyé dans une médiocrité généralisée, à laquelle mes amis n’échappent pas. Filtrage impossible.
 
-[caption id="attachment\_42544" align="aligncenter" width="600"]![Les Pyrénées.](_i/pyres.webp) Les Pyrénées.[/caption]
+![Les Pyrénées](_i/pyres.webp) 
 
 ### Lundi 22, Balaruc
 
@@ -182,19 +180,19 @@ Tenir un carnet et le publier implique pour moi de taire les difficultés avec l
 
 ### Mercredi 23, Balaruc
 
-La tentation de déserter son art parce qu’il est de moins en moins populaire, de moins en moins lucratif. On se cherche des excuses pour aller sur d’autres terrains esthétiques alors que c’est le moment de procéder à un renversement de perspective.
+Tentation de déserter son art parce qu’il est de moins en moins populaire, de moins en moins lucratif. On se cherche des excuses pour aller sur d’autres terrains esthétiques alors que c’est le moment de procéder à un renversement de perspective.
 
 ---
 
-Tim doit lire *La sixième* de Susie Morgenstern. Les trois premières phrases : « Margot avait lu la lettre au moins soixante-dix-fois. La feuille de papier commençait à se déchirer tellement **elle** la pliait et la dépliait. **Elle** **la** savait par cœur bien que l’enveloppe fût adressée à M. et Mme Melo. » Passe encore la confusion de sujet de la deuxième phrase, ce « elle » initial mis en gras désigne la feuille sans aucune équivoque. La double confusion suivante est mortelle : Margot sait par cœur la feuille de papier. Comment en cours de Français peut-on conseiller un tel livre à des enfants ? Les Wattpadiens souvent critiqués pour leurs fautes n’ont pas à rougir (et moi non plus).
+Tim doit lire *La sixième* de Susie Morgenstern. Les trois premières phrases : « Margot avait lu la lettre au moins soixante-dix-fois. La feuille de papier commençait à se déchirer tellement **elle** la pliait et la dépliait. **Elle** **la** savait par cœur bien que l’enveloppe fût adressée à M. et Mme Melo. » Merveilleuse double confusion de sujet : « La feuille de papier sait par cœur la feuille de papier. » Comment en cours de Français peut-on conseiller un tel livre à des enfants ? Les Wattpadiens souvent critiqués pour leurs fautes n’ont pas à rougir (et moi non plus).
 
 ---
 
-Le problème avec la littérature, elle nécessite une assez large audience pour nourrir son créateur. De fait, elle éloigne de la modernité les artistes les plus doués pour les enfoncer dans la norme. En tant qu’auteur, je devrais avoir le même objectif qu’un plasticien : avoir quelques collectionneurs fortunés. Revenir au livre d’artiste, à l’objet rare.
+Le problème avec la littérature, elle nécessite une assez large audience pour nourrir son créateur. De fait, elle éloigne de l’expéimentation les artistes les plus doués pour les enfoncer dans la norme. En tant qu’auteur, je devrais avoir le même objectif qu’un plasticien : avoir quelques collectionneurs fortunés. Revenir au livre d’artiste, à l’objet rare.
 
 ### Jeudi 24, Balaruc
 
-Un classique : un documentaliste ou un organisateur de salon me maille pour m’inviter à un débat. Il me demande mes conditions. Je renvoie un lien vers la [charte des auteurs](http://la-charte.fr/le-metier/rencontres/article/la-remuneration-des-rencontres-et) et en général je n’ai plus de nouvelle, comme si vouloir être payé était grossier pour des gens eux-mêmes payés.
+Un classique : un documentaliste ou un organisateur de salon m’écrit pour m’inviter à un débat. Il me demande mes conditions. Je renvoie un lien vers la [charte des auteurs](http://la-charte.fr/le-metier/rencontres/article/la-remuneration-des-rencontres-et) et en général je n’ai plus de nouvelle, comme si vouloir être payé était grossier pour des gens eux-mêmes payés.
 
 ---
 
@@ -204,7 +202,7 @@ Je ne reçois presque plus de mail (sauf ceux des documentalistes radins). Je m�
 
 Après le déjeuner, alors que je rêve dans ma chaise longue, je photographie un « f » de Facebook dans les nuages, tout un symbole de la désintégration du Net.
 
-[caption id="attachment\_42545" align="aligncenter" width="600"]![Facebook in the cloud.](_i/fb.webp) Facebook in the cloud.[/caption]
+![Facebook in the cloud](_i/fb.webp) 
 
 ---
 
@@ -212,13 +210,13 @@ Que de discussions stériles sur la part de marché des ebooks alors que tout n�
 
 ---
 
-Presque tous les soirs, je me prépare contre le réchauffement climatique. Je remplis ma Kangou de pierres pour renforcer les berges de l’étang devant la maison.
+Presque tous les soirs, je me prépare au réchauffement climatique. Je remplis ma Kangou de pierres pour renforcer les berges de l’étang devant la maison.
 
 ### Samedi 26, Balaruc
 
 « La diffusion gratuite d’une création, c’est sa mise en abondance potentielle, c’est donc participer à la société de l’abondance, c’est donc contribuer à la surenchère médiatique, à la saturation de l’espace informationnel. » Ce pourrait être un aphorisme hypo. En fait, rien n’empêche de diffuser dans le domaine public en toute discrétion. C’est le cas du *Manifeste hypo*. « Libère tes œuvres sans dans le même temps les vouloir populaires, sinon tu penches irrémédiablement vers le normatif esthétique. »
 
-[caption id="attachment\_42546" align="aligncenter" width="600"]![Pas d’esthétique, j’aime simplement la lumière de mon pays.](_i/matin.webp) Pas d’esthétique, j’aime simplement la lumière de mon pays.[/caption]
+![Pas d’esthétique, j’aime simplement la lumière de mon pays](_i/matin.webp) 
 
 ### Dimanche 27, Balaruc
 
@@ -230,7 +228,7 @@ Si je déclare « Il n’existe que des cas particuliers et aucune généralit�
 
 ---
 
-Contre la communication de masse : le silence, esthétique ultime du XXIe siècle.
+Contre la communication de masse : le silence, esthétique ultime du XXI<sup>e</sup> siècle.
 
 ### Mardi 29, Balaruc
 
