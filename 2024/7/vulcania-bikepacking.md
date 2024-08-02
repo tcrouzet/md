@@ -190,7 +190,7 @@ Montée éprouvante vers le puy Mary par de petites routes, puis une piste souve
 
 ### Notes
 
-[Traces et variantes sur VisuGPX](https://www.visugpx.com/8K7KWVZ1c5) (la trace Vulcania est-celle que je conseille)…
+[Traces et variantes sur VisuGPX](https://www.visugpx.com/8K7KWVZ1c5) (je conseille la trace Vulcania, sans les Combrailles)…
 
 [Sources d’inspiration sur GoogleMap…](https://www.google.com/maps/d/edit?mid=1TYUN_RugrLEKWuz2T1NFwuq8r7JhqHs&usp=sharing)
 

@@ -2,9 +2,9 @@
 
 ![](_i/tignes.webp)
 
-### Mardi 1er, Paris
+### Mardi 1<sup>er</sup>, Paris
 
-Hier soir, j’ai participé à une table ronde en compagnie de personnalités bien mieux installées que moi dans l’intelligentsia parisienne. La question posée : quels sont les invariants français. Et tous de donner leur réponse, et me voilà le seul à contester l’idée d’invariant, ce carcan idéologique hérité de Platon. Je ne veux pas d’invariant, je veux que mes enfants vivent dans un monde neuf. « Si tu devais tout de même trouver un invariant ? » Alors je parle de centralisation, en aucune manière un invariant, mais une pente dans laquelle nous tombons de plus en plus vite comme attirés par un trou noir. Les autres affirment leur désaccord. L’un de célébrer la prochaine figure politique qui se dressera pour reprendre la France en main, l’autre le retour de Dieu… Ils ne comprennent pas que je suis d’accord avec leur prévision, c’est ça le pire. Leur vision de l’avenir correspond à un monde plus centralisé. Ils jugent ça positif, au regard des vieux critères conservateurs, j’estime ça catastrophique, parce que la centralisation est impuissante à régler les problèmes complexes qui épuisent notre monde.
+Hier soir, j’ai participé à une table ronde en compagnie de personnalités bien mieux installées que moi dans l’intelligentsia parisienne. La question posée : quels sont les invariants français. Et tous de donner leur réponse, et me voilà le seul à contester l’idée d’invariants, ce carcan idéologique hérité de Platon. Je ne veux pas d’invariants, je veux que mes enfants vivent dans un monde neuf. « Si tu devais tout de même trouver un invariant ? » Alors je parle de centralisation, en aucune manière un invariant, mais une pente dans laquelle nous tombons de plus en plus vite comme attirés par un trou noir. Les autres affirment leur désaccord. L’un de célébrer la prochaine figure politique qui se dressera pour reprendre la France en main, l’autre le retour de Dieu… Ils ne comprennent pas que je suis d’accord avec leur prévision, c’est ça le pire. Leur vision de l’avenir correspond à un monde plus centralisé. Ils jugent ça positif, au regard des vieux critères conservateurs, j’estime ça catastrophique, parce que la centralisation est impuissante à régler les problèmes complexes qui épuisent notre monde.
 
 ---
 
@@ -16,7 +16,7 @@ Tout en filant vers le Midi, je discute par mail, par SMS, par réseaux sociaux.
 
 ---
 
-Me sens très con. Mon TGV passe en gare de Sète sans s’arrêter. Prochain arrêt Béziers. Je ne suis pas rendu à la maison.
+Mon TGV passe en gare de Sète sans s’arrêter. Prochain arrêt Béziers. Je ne suis pas rendu à la maison.
 
 ### Jeudi 3, Balaruc
 
@@ -26,7 +26,7 @@ Jean-Baptiste Rudelle affirme que le secret du succès californien, c’est la c
 
 Trail dans la garrigue avec un ami. Ça grimpe, ça descend, c’est éprouvant et sublime. Juste avant de rejoindre la voiture, je trébuche, tombe droit sur mon Apple Watch qui explose… et aussi un peu mon épaule gauche, mes genoux. Ça fait cher payé pour une matinée sportive (et démontre l’inadéquation du produit avec le sport, c’est juste un gadget pour citadin frimeur).
 
-[caption id="attachment\_43220" align="alignnone" width="600"]![Crash test.](_i/watch.webp) Crash test.[/caption]
+![Crash test](_i/watch.webp)
 
 ### Vendredi 4, Balaruc
 
@@ -34,29 +34,29 @@ Sur France Internet, un chroniqueur veut nous encourager à voter à l’aide d�
 
 ---
 
-Je me gare à l’entrée de l’impasse qui mène chez ma mère pour décharger la voiture. Quelqu’un arrive. Je lui dis de patienter, je vais voir s’il reste de la place plus loin sur le parking en cul-de-sac, ce n’est pas le cas. J’explique au conducteur qu’il doit faire demi-tour. Il me dit qu’il veut passer à tout prix. « Mais, il n’y a pas de place. La seule possible, c’est devant notre portail et je vais y aller dès que j’aurais déchargé. » Le type me dit alors que lui aussi est propriétaire, que sans doute il paye plus d’impôts que moi. Dois-je en déduire que plus on paye d’impôts plus on a de droit sur l’espace public ? Les gens deviennent fous. Ils disent n’importe quoi. Ils écrabouillent la fraternité. Voilà d’où viennent les votes extrémistes. Je pète les plombs, je manque mettre mon poing sur la gueule du type. Ce n’est gagné ni d’un côté ni de l’autre.
+Je me gare à l’entrée de l’impasse qui mène chez ma mère pour décharger la voiture. Quelqu’un arrive. Je lui dis de patienter, je vais voir s’il reste de la place plus loin sur le parking en cul-de-sac, ce n’est pas le cas. J’explique au conducteur qu’il doit faire demi-tour. Il me dit qu’il veut passer à tout prix. « Mais, il n’y a pas de place. La seule possible, c’est devant notre portail et je vais y aller dès que j’aurais déchargé. » Le type me dit alors que lui aussi est propriétaire, que sans doute il paye plus d’impôts que moi. Dois-je en déduire que plus on paye d’impôts plus on a de droit sur l’espace public ? Les gens deviennent fous. Ils disent n’importe quoi. Ils écrabouillent la fraternité. Voilà d’où viennent les votes extrémistes. Je pète les plombs, je manque mettre mon poing sur la gueule du type.
 
 ### Samedi 5, Balaruc
 
-Dès que je ne travaille plus sur un texte long, des idées de billets de blog me viennent sans cesse. Je ne peux pas rester sans écrire. J’ai besoin de pratiquer tous les jours. L’art n’est qu’un sport.
+Dès que je ne travaille plus sur un texte long, des idées de billets de blog me viennent. Je ne peux pas rester sans écrire. J’ai besoin de pratiquer tous les jours. L’art n’est qu’un sport.
 
 ---
 
-Le gouvernement français s’apprête à payer les délateurs ? Encore un pas vers la dictature. Effrayant de voir l’engrenage que plus rien ne peut arrêter.
+Le gouvernement français s’apprête à payer les délateurs ? Encore un pas vers la dictature. Effrayant de voir l’engrenage que plus rien n’arrête.
 
 ### Lundi 7, Sète
 
 Je croise François Bon. On s’embrasse. Ça fait du bien de se serrer de temps en temps, de rematérialiser nos relations virtuelles. J’ai besoin de l’intime pour échanger ce qui ne s’écrit pas.
 
-[caption id="attachment\_43221" align="alignnone" width="600"]![François Bon avec au premier plan son ami Youssef .](_i/fbon.webp) François Bon avec au premier plan son ami Youssef .[/caption]
+![François Bon avec au premier plan son ami Youssef](_i/fbon.webp) 
 
 ### Mardi 8, Balaruc
 
-Je retourne courir avec ma nouvelle montre, une Garmin Forerunner 235, vraiment géniale par rapport une Apple Watch. Petite course de huit bornes à 11 de moyenne. Je me mange à nouveau une racine et me fêle une côte. J’en ai pour trois semaines à grincer des dents. Mon corps m’impose le repos, à force de trop de bricolage. Je ne suis qu’un intello.
+Je retourne courir avec ma nouvelle montre, une Garmin Forerunner 235, géniale par rapport une Apple Watch. Petite course de huit bornes à 11 de moyenne. Je me mange à nouveau une racine et me fêle une côte. J’en ai pour trois semaines à grincer des dents. Mon corps m’impose le repos, à force de trop de bricolage. Je ne suis qu’un intello.
 
 ---
 
-[Rue89](http://rue89.nouvelobs.com/2015/12/08/si-les-chauffeurs-uber-clonaient-systeme-reprendre-liberte-262391) : « Trebor Scholz a une idée pour contrer les géants de l’économie du partage : développer des plateformes gérées comme des coopératives. » Voilà qui me rend fou. En 2007, avec Carlo Revelli, on lançait un projet de partage d’info sur ce principe. On n’était ni les premiers ni les derniers. OK, on s’est planté. Trebor Scholz ne propose rien de neuf. Je suis d’accord avec lui, on devrait bien s’entendre. Mais arrêtez de faire de lui un génial précurseur. C’est juste un mec lucide. Qu’il soit prof aux US, ça vous donne l’obligation de parler de lui ? Pourquoi avez-vous attendu aussi longtemps pour vous intéresser à ce champ de réflexion ? Merde, lisez le Web, lisez les gens qui pensent le Web, le font, arrêtez de suivre les modes. La réflexion sur toutes ces questions est déjà loin en amont. Vous retardez de dix ans.
+[Rue89](http://rue89.nouvelobs.com/2015/12/08/si-les-chauffeurs-uber-clonaient-systeme-reprendre-liberte-262391) : « Trebor Scholz a une idée pour contrer les géants de l’économie du partage : développer des plateformes gérées comme des coopératives. » Voilà qui me rend fou. En 2007, avec Carlo Revelli, on lançait un projet de partage d’info sur ce principe. On n’était ni les premiers ni les derniers. OK, on s’est planté. Trebor Scholz ne propose rien de neuf. Je suis d’accord avec lui, on devrait s’entendre. Mais arrêtez de faire de lui un génial précurseur. C’est juste un mec lucide. Qu’il soit prof aux US, ça vous donne l’obligation de parler de lui ? Pourquoi avez-vous attendu aussi longtemps pour vous intéresser à ce champ de réflexion ? Lisez le web, lisez les gens qui pensent le web, le font, arrêtez de suivre les modes. La réflexion sur toutes ces questions est déjà loin en amont. Vous retardez de dix ans.
 
 ### Mercredi 9, Balaruc
 
@@ -64,7 +64,7 @@ Hier soir, j’ai fait une séance de [cryothérapie](http://cryopole.com/) : e
 
 ---
 
-Je ne vote pas parce que les candidats me désespèrent autant qu’ils sont. Le fait même de se présenter est d’une prétention dangereuse. Il existe toujours des gens pour vouloir en imposer aux autres. Je ne les crois pas une seconde quand ils prétendent vouloir nous servir. Quelqu’un qui veut se donner aux autres ne se bat pas avec acharnement pour atteindre une position. Il donne tout de suite.
+Je ne vote pas parce que les candidats me désespèrent. Se présenter est déjà d’une prétention dangereuse. Il existe toujours des gens pour vouloir en imposer aux autres. Je ne les crois pas une seconde quand ils prétendent vouloir nous servir. Quelqu’un qui veut se donner aux autres ne se bat pas avec acharnement pour atteindre une position. Il donne tout de suite.
 
 ### Vendredi 11, Balaruc
 
@@ -72,7 +72,7 @@ Je ne vote pas parce que les candidats me désespèrent autant qu’ils sont. Le
 
 ### Samedi 12, Balaruc
 
-Une fulgurance dans la nuit. Je m’imagine en un penseur du futur ironique quant à notre naïveté présente. « Ils étaient manipulés, ils ont accepté n’importe quoi, ils se sont laissés pourrir la vie, ils ont vécu dans un monde fallacieux. » Pour moi qui aime tant me tendre vers le réel, c’était un coup dur.
+Une fulgurance dans la nuit. Je m’imagine comme un penseur du futur ironique quant à notre naïveté présente. « Ils étaient manipulés, ils ont accepté n’importe quoi, ils se sont laissés pourrir la vie, ils ont vécu dans un monde fallacieux. » J’étais bouleverser de vivre dans l’illusion.
 
 ---
 
@@ -92,7 +92,7 @@ Je termine la diffusion de *One Minute* en roue libre. J’étais heureux de pub
 
 ---
 
-Pour moi le coût, c’est le temps passé à faire quelque chose. Si je fais un truc plus lentement sur Linux que sur Mac OS ou Windows (sans en éprouver davantage de plaisir ou de satisfaction), ça me coûte plus cher, je me sens moins libre. Je ne suis pas un intégriste du logiciel libre mais du coût minimum. Le libre ne libère pas nécessairement.
+Pour moi, le coût, c’est le temps passé à faire quelque chose. Si je fais un truc plus lentement sur Linux que sur Mac OS ou Windows (sans en éprouver davantage de plaisir ou de satisfaction), ça me coûte plus cher, je me sens moins libre. Je ne suis pas un intégriste du logiciel libre mais du coût minimum. Le libre ne libère pas nécessairement.
 
 ### Dimanche 20, Tignes
 
@@ -106,7 +106,7 @@ Un éditeur de SF me dit que *One Minute* est trop littéraire après qu’un é
 
 Zweig évoque Freud et le prétend irréfutable. Un autre Viennois, jamais mentionné par Zweig, Popper, a montré que Freud n’était pas scientifique parce qu’il était justement irréfutable. Étrange silence au sujet de Popper, de Wittgenstein, de Musil… comme si Zweig avait ignoré les géants de son temps nés à quelques pas de lui. Une volonté ? Ou est-il tout simplement passé à côté d’eux ? Je pense tout de suite à mes propres ignorances.
 
-[caption id="attachment\_43222" align="alignnone" width="600"]![En pleine lumière.](_i/tignes.webp) En pleine lumière.[/caption]
+![En pleine lumière](_i/tignes.webp) 
 
 ### Vendredi 25, Tignes
 
@@ -114,20 +114,18 @@ Pour la première fois, je dois écrire un livre de commande et je ne réussis p
 
 ---
 
-Les blogs seraient devenus matures [d’après *Le Parisien*](http://www.leparisien.fr/flash-actualite-culture/blogs-l-age-de-la-maturite-23-12-2015-5396879.php) comme si nous écrivions n’importe quoi il y a dix ans, ou même il y a vingt ans. Aucune envie de réagir. Nous avons dépassé l’âge des blogs, j’ai même viré « blog » de mon URL, nous publions en ligne, chacun selon notre stratégie éditoriale. Nous avons dépassé le systématique antichronologique pour déployer des stratégies éditoriales dépendant des thématiques.
+Les blogs seraient devenus matures [d’après *Le Parisien*](http://www.leparisien.fr/flash-actualite-culture/blogs-l-age-de-la-maturite-23-12-2015-5396879.php) comme si nous écrivions n’importe quoi il y a dix ans, ou même il y a vingt ans. Aucune envie de réagir. Nous avons dépassé l’âge des blogs, j’ai même viré « blog » de mon URL, nous publions en ligne, chacun selon notre stratégie éditoriale. Nous avons dépassé le systématique antichronologique pour déployer des stratégies éditoriales personnalisées.
 
 ### Mardi 29, Monts-sur-Guesnes
 
 Par mail, un juriste me propose de m’aider à protéger mes œuvres. Très amusant de recevoir un tel mail tombé au mauvais endroit. Faisons l’économie des juristes et les auteurs seront mieux payés.
 
-[caption id="attachment\_43223" align="alignnone" width="600"]![Juste pour la couleur.](_i/portail.webp) Juste pour la couleur.[/caption]
+![Juste pour la couleur](_i/portail.webp) 
 
 ### Mercredi 30, Châtellerault
 
-J’amène les enfants voir *Star Wars*. Ils sortent en criant au scandale. « C’est un remake de l’épisode 4. » Encore un mauvais signal envoyé à grande force de marketing. L’aveu éhonté d’un manque chronique d’imagination. C’est vraiment pas bon signe.
+J’amène les enfants voir *Le retour de la force*. Ils sortent en criant au scandale. « C’est un remake de l’épisode 4. » 
 
-[caption id="attachment\_43224" align="alignnone" width="600"]![La Vienne avant Le retour de la force.](_i/vienne.webp) La Vienne avant Le retour de la force.[/caption]
-
-
+![La Vienne avant Le retour de la force](_i/vienne.webp) 
 
 #carnets #y2016 #2016-1-2-10h52
