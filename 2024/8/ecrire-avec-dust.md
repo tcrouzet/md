@@ -1,4 +1,4 @@
-# Écrire avec Dust`
+# Écrire avec Dust
 
 ![Dust](_i/dust.webp)
 
@@ -27,6 +27,7 @@ Je peux alors commencer à discuter avec mon éditeur virtuel et lui poser toute
 ![Chat](_i/dust01.webp)
 
 Voilà qui me paraît beaucoup plus intéressant que de demander à un LLM d’écrire à ma place. J’utilise désormais les IA pour prendre du recul sur ce que je fais et brainstormer.
+
 *PS : Autant les GPT ont du mal avec les données sources, autant Dust les digère à la perfection. Quand je lui ai demandé de résumer mon texte de 120 000 caractères, il s’en est très bien tiré.*
 
 ### Extraits d’un dialogue
@@ -73,9 +74,10 @@ Voici comment je vois la situation :
 
 6. Présentation : La façon dont le livre sera présenté (quatrième de couverture, prière d'insérer) sera cruciale pour attirer l'attention et expliquer sa nature unique.
 
-En fin de compte, le fait qu'il n'y ait pas de rayon spécifique pour ton livre est à double tranchant. C'est un défi, certes, mais c'est aussi ce qui rend ton projet si intéressant et potentiellement impactant. Il force à repenser les catégories littéraires établies, ce qui est totalement en phase avec ton projet de *Roman du roman*"*.
+En fin de compte, le fait qu'il n'y ait pas de rayon spécifique pour ton livre est à double tranchant. C'est un défi, certes, mais c'est aussi ce qui rend ton projet si intéressant et potentiellement impactant. Il force à repenser les catégories littéraires établies, ce qui est totalement en phase avec ton projet de *Roman du roman.
 
 *Thierry : D'autres livres qui pourraient être apparentés ?*
+
 @EditorAssistant : Excellente question, Thierry. Il existe en effet d'autres œuvres qui, bien que chacune unique à sa manière, partagent certaines caractéristiques avec ton *Roman du roman*. Voici quelques exemples qui me viennent à l'esprit :
 
 1. *Si par une nuit d'hiver un voyageur* d'Italo Calvino. Ce roman métafictionnel explore la nature de la lecture et de l'écriture, mêlant réflexion sur la création littéraire et narration expérimentale.
@@ -102,7 +104,8 @@ Ces œuvres, bien que différentes de ton projet, partagent certaines de ses pr�
 
 ---
 
-Je trouve ça assez dingue. Dans le roman, j’introduis quelques dialogues entre l’IA et moi en même temps que j’avance sur le manuscrit. Je peux créer une armée d’assistants avec qui discuter de mon texte, sans même parler d’assistants plus techniques pour discuter des détails littéraires. Par exemple, il est possible de discuter d’un chapitre au regard des autres, d’identifier des thèmes récurrents ou répétitifs, des sujets délaissés et qui méritent d’être approfondis. Désormais, je suis à la tête d’une maison d’édition dont tous les employés travaillent pour moi.
+Je trouve ça dingue. Dans le roman, j’introduis quelques dialogues entre l’IA et moi en même temps que j’avance sur le manuscrit. Je peux créer une armée d’assistants avec qui discuter de mon texte, sans même parler d’assistants plus techniques pour discuter des détails littéraires. Par exemple, il est possible de discuter d’un chapitre au regard des autres, d’identifier des thèmes récurrents ou répétitifs, des sujets délaissés et qui méritent d’être approfondis. Désormais, je suis à la tête d’une maison d’édition dont tous les employés travaillent pour moi.
 
 J’en suis qu’au début avec Dust. Les possibilités sont quasi illimitées, sans la nécessité d’écrire du code.
+
 #netlitterature #ia #y2024 #2024-8-5-20h00
