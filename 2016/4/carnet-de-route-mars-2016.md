@@ -1,16 +1,16 @@
 # Mars 2016
 
-![](_i/train1.webp)
+![Vers Genève](_i/train1.webp)
 
-### Mardi 1er, Gap
+### Mardi 1<sup>er</sup>, Gap
 
 Émile s’est fracturé le tibia lors du hors-piste. Une racine a retenu son ski gauche. Je viens de le retrouver aux urgences où il a été transporté en hélico. Nous attendons une échographie dans une promiscuité effrayante. Une femme hurle des insultes. Les malades vont et viennent sur les brancards.
 
-Je me revois ainsi assis avec mon clavier sur mes genoux lorsque mon père a fait son infarctus. Difficile de retenir mes larmes. J’écris parce que ça aide, j’écris toujours pour cette raison, ça aide à jouir de la vie comme à la supporter.
+Je me revois assis avec mon clavier sur mes genoux lorsque mon père a fait son infarctus. Difficile de retenir mes larmes. J’écris parce que ça aide, j’écris toujours parce ça aide, à jouir de la vie comme à la supporter.
 
 Quand l’infirmière a transfusé Émile, elle n’a respecté aucun des cinq moments de l’hygiène des mains. J’étais terrifié, je n’ai rien osé dire. Je l’ai vu sortir dans le couloir, serrer la main à quelqu’un, disparaître, revenir tripoter Émile, sans une fois se désinfecter les mains.
 
-J’ai un peu plus tard entamé une conversation avec les infirmières. Elles m’ont dit que le gel attaquait leur peau, qu’elles ne le supportaient pas et qu’elles préféraient le savon (or, c’est le savon qui est mauvais pour la peau).
+J’ai un peu plus tard entamé une conversation avec les infirmières. Elles m’ont dit que le gel attaquait leur peau, qu’elles ne le supportaient pas et préféraient le savon (or, c’est le savon qui est mauvais pour la peau).
 
 Les heures passent. Émile est pris en sandwich par deux brancards, dans une pièce où rien d’autre n’entre. D’un côté, Francis qui a fait un énième malaise cardiaque. Il attend depuis trois ans une transplantation cardiaque. De l’autre, un jeune homme qui en snow s’est fait vingt-quatre fractures au genou gauche.
 
@@ -20,16 +20,20 @@ Les heures passent. Émile est pris en sandwich par deux brancards, dans une pi�
 
 ### Dimanche 6, TGV Genève
 
-Je laisse Isa seule à la maison avec les enfants, surtout Émile qui ne maîtrise pas encore les béquilles et que nous avons bien du mal à faire quitter son fauteuil roulant. En route pour retrouver Didier Pittet et travailler sur le scénario de *Résistants*.
+Je laisse Isa seule à la maison avec les enfants, surtout Émile qui ne maîtrise pas encore les béquilles et que nous avons du mal à faire quitter son fauteuil roulant. En route pour retrouver Didier Pittet et travailler sur le scénario de *Résistants*.
 
 ---
 
 Je n’écris pas, terrassé par le quotidien. Je lis *L’Homme qui répare les femmes*, la vie maladroitement racontée du docteur Denis Mukwege, avec qui je dîne mardi soir. Un grand gâchis ce livre. En se refusant le trash, l’auteur nous empêche de comprendre cet homme qui soigne gratuitement les femmes violées par milliers au Congo.
 
 ![En train](_i/train1.webp)
+
 ![train2](_i/train2.webp)
+
 ![En train](_i/train3.webp)
+
 ![En train](_i/train4.webp)
+
 ![En train](_i/train5.webp)
 
 ### Lundi 7, Croix de Rozon
@@ -48,7 +52,7 @@ Nous tournons et retournons le scénario épidémiologique de *Résistants*. Nou
 
 Je participe à une conférence sur le revenu de base pour lequel les Suisses voteront en juin. Ses défenseurs le comprennent encore trop mal pour qu’ils puissent le défendre jusqu’à la victoire.
 
-Par exemple, ils montrent très bien comment notre système monétaire en exigeant sans cesse le remboursement des intérêts pousse à une croissance infinie incompatible avec les limitations de la biosphère (en attendant son extension spatiale).
+Par exemple, ils montrent comment notre système monétaire en exigeant sans cesse le remboursement des intérêts pousse à une croissance infinie incompatible avec les limitations de la biosphère (en attendant son extension spatiale).
 
 Puis, après cette belle démonstration, ils expliquent qu’il faut mieux répartir l’argent. « Mais non ! » Si nous nous contentons de distribuer entre tous, nous distribuons entre tous la nécessité de détruire le monde. Plutôt que de gros capitalistes soient responsables, nous partagerions tous la responsabilité. Il faut au contraire construire un nouveau système monétaire qui ne nous impose pas la croissance infinie.
 
@@ -58,7 +62,7 @@ Hier soir, j’ai donc rencontré Denis Mukwege. Une soirée discrète dans le l
 
 Je n’ai échangé que quelques mots avec Denis. Je l’ai senti fatigué, un peu terrassé par l’accueil que nous lui faisons, et sans aucun doute par le décalage infini de nos vies et celle qui est la sienne quand il rentre au Congo. C’est un peu comme si nous voulions nous acheter une bonne conscience. Nous aurions mieux fait de nous retrouver dans un vulgaire café, de moins manger, de mieux manger, et d’envoyer l’argent économisé à des familles congolaises.
 
-Le monde tourne à l’envers. Et c’est toujours étrange pour moi de me retrouver mêlé à ses engrenages viciés. Je ne devrais pas écrire cela, surtout pas le publier. Je ne peux m’en empêcher.
+Le monde tourne à l’envers. Et c’est toujours étrange pour moi de me retrouver mêlé à ses engrenages viciés. Je ne devrais pas le dire. Je ne peux m’en empêcher.
 
 Moi qui vit discrêment dans le Midi, loin de la vie mondaine, de la pseudo bourgeoisie de province, je m’y trouve mêlé à Genève par l’intermédiaire de Didier, mais aussi parce cette ville est comme un concentré de la totalité du monde tant les nations et les expériences s’y focalisent.
 
@@ -66,13 +70,14 @@ Alors que je discute avant le dîner, appuyé à une porte, je me plante une éc
 
 ### Jeudi 10, direction Lyon
 
-Faut-il tout dire ? Aux amis, oui, sans aucun doute. En tout cas, très souvent. Et au sujet d’une chose publique, aussi. Quand les deux se rejoignent, j’hésite d’autant moins. J’ai vu hier soir le film *Clean Hands* sur l’histoire de l’hygiène des mains et de Didier. J’apprécie l’équipe, mais je ne suis pas convaincu. Pas d’engagement esthétique, pas d’émotion, pas de perspective politique, pas de narration. Pendant 52 minutes, je me suis retrouvé devant un reportage qui au JT ne dure que trois minutes, et c’est bien suffisant pour ce genre d’exercice.
+Faut-il tout dire ? Aux amis, oui, sans aucun doute. En tout cas, très souvent. Et au sujet d’une chose publique, aussi. Quand les deux se rejoignent, j’hésite d’autant moins. J’ai vu hier soir le film *Clean Hands* sur l’histoire de l’hygiène des mains et de Didier. J’apprécie l’équipe, mais je ne suis pas convaincu. Pas d’engagement esthétique, pas d’émotion, pas de perspective politique, pas de narration. Pendant 52 minutes, je me suis retrouvé devant un reportage qui au JT ne dure que trois minutes, et c’est suffisant pour ce genre d’exercice.
 
 ---
 
 Je profite d’une correspondance pour faire quelques pas dans Bellegarde, cette ville où je passe d’habitude sans m’arrêter, cette ville en dévers, mystérieuse, où j’aimerais vagabonder à tous ses étages pour en saisir les empilements cubiques.
 
 ![belle1](_i/belle1.webp)
+
 ![En train](_i/train6.webp)
 
 ---
@@ -116,19 +121,20 @@ En revanche, je bloque sur *Autour du monde* de Laurent Mauvignier, pourtant le 
 ### Dimanche 13, Sète
 
 ![Sète](_i/sete1.webp)
+
 ![Sète](_i/sete2.webp)
 
 ### Lundi 14, Balaruc
 
-Quand je veux me mettre au travail, Isa branche un chauffage d’appoint qui fait sauter l’installation. En remettant tout en ordre, je découvre que la ligne qui alimente mes disques durs, mon NAS et ma box a fondu (au risque de faire cramer la maison). Je dois recâbler. Je ne retrouve mon clavier qu’à onze heures avec la nécessité de replonger dans la narration de *Résistants*. Reprendre une écriture, c’est aussi difficile que reprendre le sport après des années d’arrêt. Je dois me faire violence.
+Isa branche un chauffage d’appoint et fait dijoncter la maison. En remettant tout en ordre, je découvre que la ligne qui alimente mes disques durs, mon NAS et ma box a fondu (au risque de faire cramer la maison). Je dois recâbler. Je ne retrouve mon clavier qu’à onze heures avec la nécessité de replonger dans la narration de *Résistants*. Reprendre une écriture, c’est aussi difficile que reprendre le sport après des années d’arrêt. Je dois me faire violence.
 
 ### Mercredi 16, Balaruc
 
-Je passe mes journées à lire des articles scientifiques sur les bactéries. J’en ai le tournis. C’est à me dégoûter, à me donner envie de tout envoyer balader. Les premiers pas dans un domaine sont toujours décourageants, car je me heurte à une barrière apparemment infranchissable, et qui repousse l’écriture à plus tard. Je dois néanmoins écrire, les choses se mettront en place qu’à cette condition.
+Je passe mes journées à lire des articles scientifiques sur les bactéries. J’en ai le tournis. C’est à me dégoûter, à me donner envie de tout envoyer balader. Les premiers pas dans un domaine sont toujours décourageants : je me heurte à une barrière apparemment infranchissable, et qui repousse l’écriture à plus tard. Je dois néanmoins écrire, les choses se mettront en place qu’à cette condition.
 
 ---
 
-« Tu n’as qu’à écrire *Résistants* avant de le publier en ligne, me suggère Isa. Tu pourrais te lancer tout de suite, avant de tout savoir sur le sujet, quitte à tout revoir après. » Si je voulais juste écrire un roman, je devrais suivre son conseil. Mais un tel roman ne m’intéresse pas. Je recherche le contact avec le lecteur, l’interaction, j’ai besoin de cette adrénaline pour écrire de la fiction qui sinon, en elle-même, ne serait pas très littéraire. Je veux pratiquer une littérature du happening.
+« Tu n’as qu’à écrire *Résistants* avant de le publier en ligne, me suggère Isa. Tu pourrais te lancer tout de suite, avant de tout savoir sur le sujet, quitte à tout revoir après. » Si je voulais juste écrire un roman, je devrais suivre son conseil. Mais un tel roman ne m’intéresse pas. Je recherche le contact avec le lecteur, l’interaction, j’ai besoin de cette adrénaline pour écrire de la fiction qui sinon, en elle-même, ne serait pas très pationnante pour moi. Je veux pratiquer une littérature du happening.
 
 ### Jeudi 17, Balaruc
 

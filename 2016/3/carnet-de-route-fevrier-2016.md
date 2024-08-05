@@ -44,7 +44,7 @@ C’est la mode : le transmédia gagne même la littérature. Images, vidéos, 
 
 ### Mardi 16, Balaruc
 
-Je reçois un énième mail d’avertissement Hadopi, transféré directement dans ma poubelle. On vit dans un monde stupide. Pour pirater sans crainte, il suffit de  payer un VPN pour quelques euros/mois. Pourquoi, à travers une forme de licence globale, ne pas nous offrir de payer les créateurs en échange de quoi nous téléchargerions leurs œuvres librement ? En attendant, des entreprises spécialisées dans le téléchargement anonyme peuvent remercier le gouvernement d’interdire le piratage. Nous savons tous que la prohibition n’est pas une solution. Elle crée des cartels. Des voleurs s’enrichissent sur le dos des créateurs.
+Je reçois un énième mail d’avertissement Hadopi, transféré directement dans ma poubelle. On vit dans un monde stupide. Pour pirater sans crainte, il suffit de payer un VPN pour quelques euros/mois. Pourquoi, à travers une forme de licence globale, ne pas nous offrir de payer les créateurs en échange de quoi nous téléchargerions leurs œuvres librement ? En attendant, des entreprises spécialisées dans le téléchargement anonyme peuvent remercier le gouvernement d’interdire le piratage. Nous savons tous que la prohibition n’est pas une solution. Elle crée des cartels. Des voleurs s’enrichissent sur le dos des créateurs.
 
 ### Mercredi 17, Balaruc
 
