@@ -90,7 +90,7 @@ En fin de compte, le fait qu’il n’y ait pas de rayon spécifique pour ton li
 
 5. *L’écriture ou la vie* de Jorge Semprún. Un mélange d’autobiographie et de réflexion sur l’acte d’écrire, qui explore les liens entre vie et création.
 
-6. *Journal d’un roman* d’Ernesto Sabato (que j’ai coulu lire et qui n’existe pas). Un journal qui documente le processus d’écriture d’un roman, similaire à ta démarche.
+6. *Journal d’un roman* d’Ernesto Sabato (que j’ai voulu lire et qui n’existe pas). Un journal qui documente le processus d’écriture d’un roman, similaire à ta démarche.
 
 7. *Palimpsestes* de Gérard Genette. Bien que plus théorique, cet ouvrage explore les relations entre les textes d’une manière qui pourrait faire écho à ton projet.
 
