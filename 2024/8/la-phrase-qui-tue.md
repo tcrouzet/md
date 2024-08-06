@@ -4,7 +4,7 @@
 
 Il y a des phrases qui font mal, qui peuvent ruiner une vie, briser une vocation, un couple, un rêve. Des phrases criminelles, malhonnêtes, méchantes, tueuses… J’ai décidé d’en faire un inventaire, pour tourner deux fois ma langue la prochaine fois que je serai tenté d’en prononcer une.
 
-Comme Sébastien Bailly a repris [la même idée](https://www.sebastien-bailly.com/254-bienveillance-et-empathie/7637), je publie ce projet initialisé en 2017 sur [Whatpadd](https://www.wattpad.com/416763306-la-phrase-qui-tue-une-fille-%C3%A0-un-gar%C3%A7on) et vite abandonné (10 000 lectures tout de même).
+Comme Sébastien Bailly a repris [la même idée](https://www.sebastien-bailly.com/254-bienveillance-et-empathie/7637), je publie ce projet initialisé en 2017 sur [Wattpad](https://www.wattpad.com/416763306-la-phrase-qui-tue-une-fille-%C3%A0-un-gar%C3%A7on) et vite abandonné (10 000 lectures tout de même).
 
 ### Une fille à un garçon
 
