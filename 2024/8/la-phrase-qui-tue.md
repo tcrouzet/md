@@ -38,7 +38,7 @@ Désolé, j’ai passé ma vie à te tromper, mais je t’ai toujours aimée.
 
 Voici un pistolet, voici une balle, tu sais ce qu'il te reste à faire, adieu.
 
-## Un éditeur à un jeune auteur (2)
+### Un éditeur à un jeune auteur (2)
 
 Tu ferais mieux d’aller voir les filles plutôt que d’user tes fesses sur une chaise devant ton ordinateur.
 
@@ -120,6 +120,6 @@ Vous avez bien branché votre box ?
 
 ### Un homme à sa femme
 
-Tu es aussi conne que mon chien.
+Tu es aussi conne que ton chien.
 
 #ecriture #y2024 #2024-8-6-19h30
