@@ -2,7 +2,7 @@
 
 ![Le printemps](_i/horses.webp)
 
-### Vendredi 1er, Balaruc
+### Vendredi 1<sup>er</sup>, Balaruc
 
 Je m’amuse à dessiner sur l’écran de mon iPad avec un stylet. Je retrouve un vieux plaisir jouissif et je sens le moment où enfin il devient possible pour moi de tenir un carnet numérique sans pour autant renoncer aux dessins et autres gribouillages.
 
@@ -12,7 +12,7 @@ Je m’amuse à dessiner sur l’écran de mon iPad avec un stylet. Je retrouve 
 
 C’est un peu la déprime. Je lance *[Résistants](../../page/resistants)* et ça ne réagit pas, surtout sur Wattpad où il s’était passé quelque chose avec *[One Minute](../../page/une-minute)*. Je me demande ce qui foire, si c’est mon écriture, l’angle narratif, la difficulté croissante de capter l’attention des lecteurs… Envie de tout arrêter, mais je me suis engagé, il faut que j’avance d’une façon ou d’une autre, quitte à tout recommencer.
 
-Le romanesque sous forme de posts m’amuse. C’est une façon d’échantillonner la narration. De la pousser dans la discontinuité typiquement numérique, et peut-être que les lecteurs de romanesque tentent de fuir ce rythme et de revenir à celui de la prose classique. Il en va ainsi de tous les livres à succès du moment. Pourquoi suis-je surpris de la réaction des lecteurs quand je ne leur propose pas ce qu’ils attentent ?
+Le romanesque sous forme de posts est une façon d’échantillonner la narration. De la pousser dans la discontinuité typiquement numérique, et peut-être que les lecteurs de romanesque tentent de fuir ce rythme et de revenir à celui de la prose classique. Il en va ainsi de tous les livres à succès du moment. Pourquoi suis-je surpris de la réaction des lecteurs quand je ne leur propose pas ce qu’ils attentent ?
 
 Cette question trouble mes nuits depuis une dizaine de jours. Il me faut patienter, faire autre chose, voilà pourquoi je viens ici abandonner quelques pensées pas très agréables, mais elles sont le quotidien de la plupart des auteurs.
 
@@ -30,7 +30,7 @@ Je ne publie qu’aujourd’hui mon carnet de mars. Je retrouve la photo de la p
 
 ### Mardi 12, Nîmes
 
-Pour gagner de l’argent, les auteurs font des choses étranges, comme des performances où ils se prennent pour des acteurs, lisant à voix haute leurs textes, qu’aucun lecteur peut-être ne mènerait à bout s’il les découvrait dans son canapé plutôt qu’attaché à un siège qu’il ne peut quitter sans déranger l’audience faussement attentive et qui rêve d’autre chose.
+Pour gagner de l’argent, les auteurs font des choses étranges, comme des performances où ils se prennent pour des acteurs, lisant à voix haute, des textes qu’aucun lecteur peut-être ne mènerait à bout s’il les découvrait dans son canapé plutôt qu’attaché à un siège qu’il ne peut quitter sans déranger l’audience faussement attentive et qui rêve d’autre chose.
 
 ![Un croquis](_i/croqui.webp)
 
@@ -41,14 +41,16 @@ Je tente une nouvelle version de *Résistants*, ça commence à me fatiguer cett
 ### Mardi 19, Balaruc
 
 ![Limpide](_i/limpide.webp)
+
 ![limpide](_i/limpide2.webp)
+
 ![Coquelicots](_i/coquelicot.webp)
 
 Ce matin les Pyrénées nous explosent à la figure. Nous photographions pour ne pas oublier cette limpidité.
 
 ![overdose](_i/overdose.webp)
 
-Nous sommes en train de nous perdre… J’arrive avec des idées noires à Sauramps où nous devons rendre hommage à Ayerdhal. Face aux tables chargées de centaines de livres, tous aussi flamboyants les uns que les autres, je me demande pourquoi en ajouter un de plus. C’est très futile ce désir de rejoindre la multitude. Être publié n’a rien d’original, c’est d’une banalité terrifiante. Je suis bien tranquille dans mon chez-moi numérique. Par son infinité, le Net me laisse y vivre au milieu d’un désert sans que les textes des autres ne me narguent de trop près.
+Nous sommes en train de nous perdre… J’arrive avec des idées noires à Sauramps où nous devons rendre hommage à Ayerdhal. Face aux tables chargées de centaines de livres, tous aussi flamboyants les uns que les autres, je me demande pourquoi en ajouter un de plus. C’est très futile ce désir de rejoindre la multitude. Être publié n’a rien d’original, c’est d’une banalité terrifiante. Je suis plus tranquille dans mon chez-moi numérique. Par son infinité, le Net me laisse vivre au milieu du désert sans que les textes des autres ne me narguent de trop près.
 
 ### Mercredi 20, Balaruc
 
@@ -60,7 +62,7 @@ Nous sommes en train de nous perdre… J’arrive avec des idées noires à Saur
 
 ### Dimanche 24, Balaruc
 
-Écrire, réécrire, c’est mon quotidien. Partager l’atelier parfois ne me renvoie qu’une information : impossible de plaire à tout le monde. Un tel aime telle version que tel autre déteste, et c’est le contraire avec la version suivante. Je ne retire de cette expérience rien de positif, rien d’autre qu’un immobilisme de mes mots. L’interactivité fonctionnait merveilleusement avec *One Minute* parce que les lecteurs qui n’aimaient pas un épisode sautaient au suivant sans grande conséquence. Dès que les textes s’allongent, l’interactivité devient plus exigeante pour les contributeurs, elle exige un regard professionnel que les amateurs les mieux intentionnés ne peuvent offrir, et qui, plutôt que de donner leurs sentiments, cherchent à justifier l’injustifiable.
+Écrire, réécrire, c’est mon quotidien. Partager l’atelier parfois ne me renvoie qu’une information : impossible de plaire à tout le monde. Un tel aime telle version que tel autre déteste, et c’est le contraire avec la version suivante. Je ne retire de cette expérience rien de positif, rien d’autre qu’un immobilisme de mes mots. L’interactivité fonctionnait merveilleusement avec *One Minute* parce que les lecteurs qui n’aimaient pas un épisode sautaient au suivant sans grande conséquence. Dès que les textes s’allongent, l’interactivité devient plus exigeante pour les contributeurs, elle implique un regard professionnel que les amateurs les mieux intentionnés ne peuvent offrir, et qui, plutôt que de donner leurs sentiments, cherchent à justifier l’injustifiable.
 
 ### Lundi 25, Balaruc
 
@@ -76,7 +78,7 @@ Quand après des années un texte ne s’est pas vendu ou ne se vend plus, pourq
 
 ### Vendredi 29, Blois
 
-Je vagabonde jusqu’à la fondation Ben. Dès l’entrée, un scénario de happening me cueille. Quand l’art devient concept, le musée n’a plus d’utilité : il suffit de livres pour rendre compte des scénarios. Sous mes yeux, seulement des témoignages, textuels, photographiques, sonores… J’ai l’impression de me promener à l’intérieur d’un vieux numéro de *Paris-Match*. Ce n’est pas désagréable, alors je me dis que le musée lui-même devient une œuvre.
+Je vagabonde jusqu’à la fondation Ben. Quand l’art devient concept, le musée n’a plus d’utilité : il suffit de livres pour rendre compte des scénarios. Sous mes yeux, seulement des témoignages, textuels, photographiques, sonores… J’ai l’impression de me promener à l’intérieur d’un vieux numéro de *Paris-Match*. Ce n’est pas désagréable, alors je me dis que le musée lui-même devient une œuvre.
 
 ![Ben 2](_i/blois6.webp)
 

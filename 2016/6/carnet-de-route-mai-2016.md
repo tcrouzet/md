@@ -1,8 +1,8 @@
 # Mai 2016
 
-![À la recherche de vues](_i/tarassac.webp)
+![Tarassac, 28 mai](_i/tarassac.webp)
 
-### Dimanche 1er, Balaruc
+### Dimanche 1<sup>er</sup>, Balaruc
 
 J’ai quitté Blois où il faisait froid pour rentrer dans le Midi où nous avons plus froid qu’au plus dur de l’hiver.
 
@@ -30,17 +30,17 @@ Quand nous sommes des millions à écrire, à peine moins nombreux que les lecte
 
 ---
 
-Après un footing, je suis incapable d’écrire pour le restant de la journée. Courir le matin, c’est tuer ma créativité. Je suis assis en bas d’un champ sublime, avec une verdure explosive autour de moi, une brise bienvenue dans les hautes branches d’un chêne, et rien ne se passe en moi. Je n’ai que la force de contempler, et pas celle d’amplifier cette contemplation par mes mots. Jouir ne me suffit pas quand la possibilité de jouir plus existe sans que je sois capable de la mettre en œuvre.
+Après un footing, je suis incapable d’écrire pour le restant de la journée. Courir le matin, c’est tuer ma créativité. Je suis assis en bas d’un champ sublime, avec une verdure explosive autour de moi, une brise bienvenue dans les hautes branches d’un chêne, et rien ne se passe en moi. Je n’ai que la force de contempler, et pas celle d’amplifier cette contemplation par mes mots. Jouir ne me suffit pas quand la possibilité de jouir davantage existe.
 
 ---
 
-Nous ne nous lisons même pas les uns les autres. Pourquoi espérons-nous avoir des lecteurs ? Ce n’est pas parce que l’écriture nous fait jouir que nous devons emmerder des lecteurs par nos mots. Je suis un adepte de l’onanisme littéraire, rien d’autre qu’un exhibitionniste. La véritable sagesse serait le repli : avoir la force non pas de me taire, mais ne pas me donner à lire.
+Nous ne nous lisons même pas les uns les autres. Pourquoi espérons-nous avoir des lecteurs ? Ce n’est pas parce que l’écriture nous fait jouir que nous devons emmerder les lecteurs. Je suis un adepte de l’onanisme littéraire, rien d’autre qu’un exhibitionniste. La véritable sagesse serait le repli : avoir la force non pas de me taire, mais ne pas me donner à lire.
 
-![montagnac](_i/montagnac.webp)
+![Montagnac](_i/montagnac.webp)
 
 ### Lundi 9, Balaruc
 
-La plupart des auteurs bataillent pour entretenir leur communauté de fidèles lecteurs. Dès qu’ils décèdent, leur communauté s’étiole et on les oublie. Tout leur travail n’aura servi qu’à illusionner leur ego. Je dis eux, car je suis méchant avec tout le monde. Un artiste devrait avoir pour ambition de plaire malgré lui, par-devers lui.
+La plupart des auteurs bataillent pour entretenir leur communauté de fidèles lecteurs. Dès qu’ils décèdent, leur communauté s’étiole et on les oublie. Tout leur travail n’aura servi qu’à illusionner leur ego. Un artiste devrait avoir pour ambition de plaire malgré lui, par-devers lui.
 
 ---
 
@@ -58,7 +58,7 @@ Déplâtrage d’Émile, nouvelle radio où la marque de la fracture crève enco
 
 ---
 
-Le web est peuplé d’auteurs pathétiques qui s’illusionnent les uns les autres. Dans l’ancien monde du papier, c’est la même farce, à la puissance mille, car les éditeurs, les journalistes et les libraires participent à cette imposture.
+Le web est peuplé d’auteurs pathétiques qui s’illusionnent les uns les autres. Dans l’ancien monde du papier, c’est la même farce, à la puissance mille, les éditeurs, les journalistes et les libraires participant à cette imposture.
 
 ### Mardi 10, Balaruc
 
@@ -72,7 +72,7 @@ Je manque d’énergie ce matin, je n’arrive pas à me mettre au travail, alor
 
 ---
 
-Maintenant que le numérique est devenu un enjeu est-ce encore un endroit pour faire de l’art ? Certains diront plus que jamais, pour moi il est peut-être trop tard. La plupart des artistes ne viennent sur ce territoire que parce qu’ils peuvent y exister par eux-mêmes, sans avoir à séduire un tiers de légitimation.
+Maintenant que le numérique est devenu un enjeu est-ce encore un endroit pour y faire de l’art ? Certains diront plus que jamais, pour moi il est peut-être trop tard. La plupart des artistes ne viennent sur ce territoire que parce qu’ils peuvent y exister par eux-mêmes, sans avoir à séduire un tiers de légitimation.
 
 ---
 
@@ -86,7 +86,7 @@ Temps abominable pour un mois de mai, pluie, bourrasques du sud et soudain en mi
 
 ### Mercredi 18, Balaruc
 
-J’écris jusqu’à me faire exploser le crâne. Je fonce à fond de train dans *Résistants*, les épisodes de succèdent, les personnages se consolident et appellent deux-mêmes de nouveaux épisodes, où je glisse peu à peu tout ce que j’ai appris sur les antibiotiques. Cette écriture aussi est exaltante, celle de l’ivresse solitaire. Se donner à lire sur le Net se résume parfois à la peur d’être seul face à soi même.
+J’écris jusqu’à me faire exploser le crâne. Je fonce à fond de train dans *Résistants*, les épisodes se succèdent, les personnages se consolident et appellent deux-mêmes de nouveaux épisodes, où je glisse peu à peu tout ce que j’ai appris sur les antibiotiques. Cette écriture aussi est exaltante, celle de l’ivresse solitaire. Se donner à lire sur le Net se résume parfois à la peur d’être seul face à soi même.
 
 ### Dimanche 22, Balaruc
 
@@ -117,7 +117,5 @@ De mieux en mieux. Des auteurs se chroniquent les uns les autres et prétendent 
 ### Samedi 28, Balaruc
 
 Aux commentateurs sur Wattpad, j’ai envie de dire lisez au lieu de poster des commentaires dans le seul but d’attirer de nouveaux followers.
-
-![Tarassac](_i/tarassac.webp)
 
 #carnets #y2016 #2016-6-23-17h34
