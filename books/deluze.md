@@ -113,8 +113,9 @@ Thierry : J’ai longtemps gagné ma vie en publiant des livres d’informatiqu
 
 * [Revenue de chez les Profonds](http://lefix.di6dent.fr/archives/5234)
 
-* [Le retour d'une enquête culte pour L\'appel de Cthulhu](http://www.scifi-universe.com/actualites/16550/l-affaire-deluze-le-retour-d-une-enquete-culte-pour-l-appel-de-cthulhu)
+* [Le retour d'une enquête culte pour L’appel de Cthulhu](http://www.scifi-universe.com/actualites/16550/l-affaire-deluze-le-retour-d-une-enquete-culte-pour-l-appel-de-cthulhu)
 
 * [Retrouvez le financement participatif qui s'est déroulé du 28/5/2018 au 16/6/2018, récoltant près de 44 000 €](https://www.gameontabletop.com/crowdfunding-118.html)
+* [Tentacules (au sujet de la VO)](https://www.tentacules.net/index.php?id=1165)
 
 #book #y2018 #2018-5-27-8h1

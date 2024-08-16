@@ -147,4 +147,5 @@ Des spectateurs interviewés hier durant la cérémonie parlent de leur émotion
 ### Mercredi 31, Balaruc
 
 Je ne peux m’empêcher de regarder les JO, parce que le sport offre davantage de surprises et d’émotions que la plupart des œuvres d’art contemporaines.
+
 #carnets #y2024 #2024-8-10-18h00 

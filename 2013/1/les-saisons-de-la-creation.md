@@ -1,6 +1,6 @@
 # Les saisons de la création
 
-![](_i/jet18.webp)
+![Jeux & Stratégie](_i/jet18.webp)
 
 Une chose m’étonne toujours. Quand on chercher à franchir une frontière, ceux qui se sentent bien derrière se pressent de critiquer votre manque de curiosité.
 
@@ -32,5 +32,4 @@ Pour mémoire, j’ai toujours dit, et dès *[Le peuple des connecteurs](../../p
 
 - Je termine une fois de plus avec Picasso. Période rose, bleu, cubisme… Il faut apprendre à vivre ses périodes et à passer à autre chose. Ceux qui restent immobiles m’inquiètent toujours. En politique, on les appelle les conservateurs. Notre monde croule à cause d’eux.
 
-
-#blog #edition #dialogue #y2013 #2013-1-27-9h16
+#blog #edition #dialogue #y2013 #jdr #2013-1-27-9h16

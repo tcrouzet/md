@@ -12,7 +12,7 @@ Je reçois les mails d’écrivains qui ne cessent de faire leur promotion. Ils 
 
 ### Mardi 14, Balaruc
 
-Petite prise de bec par mail au sujet de la notion de commun avec [Lionel Maurel](https://scinfolex.com/) (initée par un message où je lui disais qu’il avait écrit un très bon papier, c’est un comble). Je finis un peu tard par comprendre l’origine de notre différent. Quand Elinor Ostrom écrit « self-organization » (23 fois dans *Governing the commons*), Lionel entend autogestion. Je ne vois pas pourquoi dans ce cas Ostrom n’aurait pas utilisé en anglais « self-management ». D’autre part, c’est oublier qu’Ostrom vit la période intellectuelle où, dans tous les domaines (physique, biologie, sociologie, informatique…), la pensée de la complexité voit le jour et où on commence à comprendre comment certains systèmes complexes peuvent s’auto-organiser.
+Petite prise de bec par mail au sujet de la notion de commun avec [Lionel Maurel](https://scinfolex.com/) (initée par un message où je lui disais qu’il avait écrit un très bon papier, c’est un comble). Je finis un peu tard par comprendre l’origine de notre différent. Quand Elinor Ostrom écrit « self-organization » (23 fois dans *Governing the commons*), Lionel entend autogestion. Je ne vois pas pourquoi dans ce cas Ostrom n’aurait pas utilisé en anglais « self-management ». D’autre part, c’est oublier qu’Ostrom vit la période intellectuelle où, dans tous les domaines (physique, biologie, sociologie, informatique…), la pensée de la complexité voit le jour et où on commence à comprendre comment certains systèmes complexes s’auto-organisent.
 
 Selon moi, Ostrom emploie le mot « self-organization » dans le sens fort de son époque : un système décentralisé dont les agents respectent un jeu de règles favorisant les comportements émergeants et résilients. Elle a explicitement travaillé sur des jeux de règles et retrouvé en étudiant le management des communs une de leur propriété fondamentale : il n’existe pas de solution miracle pour favoriser l’auto-organisation et chaque système est un cas particulier. 
 
@@ -27,7 +27,7 @@ Si je n’étais pas en train de boucler le premier jet de *[Résistants](../../
 3. Les communs auto-organisés (le Web à ses débuts, nombres des exemples proposés par Ostrom, notamment son exemple canonique de la nappe aquifère en Californie, qui peuvent impliquer des assemblées générales, à leur naissance par exemple, sans qu’elles soient nécessaires pour que l’auto-organisation se perpétue).
 4. Les communs non encore gérés (Mars, la galaxie Andromède…).
 
- Je me fiche que les spécialistes des communs effectuent ou non ces distinctions, je les fais parce que nous ne choisissions pas les formes d’organisation par idéologie, mais par leurs adéquations aux structures à gérer. Opter pour une structure inadéquate conduit à la destruction rapide de la structure. Bonne chance à ceux qui veulent auto-organiser un jardin partagé (l’auto-organisation ne fonctionne qu’avec un système complexe).
+Je me fiche que les spécialistes des communs effectuent ou non ces distinctions, je les effectue parce que nous ne choisissions pas les formes d’organisation par idéologie, mais par leurs adéquations aux structures à gérer. Opter pour une structure inadéquate conduit à la destruction rapide de la structure. Bonne chance à ceux qui veulent auto-organiser un jardin partagé (l’auto-organisation ne fonctionne qu’avec un système complexe).
 
 ---
 
@@ -80,6 +80,7 @@ Isa me dit que mon père n’a pas réussi à me faire aimer la chasse et la pê
 Pas simple de ne pas partager. Je comprends de mieux en mieux mon père, et la nécessité d’écrire sur lui devient de plus en plus urgente, une nécessité pour que je puisse vraiment devenir père. Isa dit que ce n’est pas par les mots que je dois m’attaquer à cette montagne, mais je ne connais aucune autre façon de faire.
 
 ![Canal de Corinthe](_i/canalc.webp)
+
 ![Porte des Lions, Micène](_i/porte.webp)
 
 ### Mardi 28, Épidaure
@@ -100,7 +101,7 @@ Après le bain des enfants, dans une crique face à des îles et des presqu’î
 
 ![Port d’Épidaure](_i/epid1.webp)
 
-Nuit malheureusement trop bruyante (et qui s’achève pour moi par un torticolis). Réveillés à trois heures par un camion de livraison, puis à six heures par un clocher tout à fait kitch, puis par un marteau-piqueur... le tout devant un lever de soleil sublime, qui s’est posé sur une reproduction accrochée au mur de la chambre, à laquelle je n’avais pas avant prêté attention, une vue de la porte des Lions dessinée en 1821, où on voit la rampe d’accès encore encombrée de blocs, méconnaissable par rapport à aujourd’hui. Demain, les visiteurs découvriront tout autre chose, des murs peut-être plus hauts. J’imagine un Parthénon flambant neuf, reconstitué avec des imprimantes 3D géantes, et le travail minutieux des restaurateurs contemporains paraîtra ridiculement laborieux.
+Nuit malheureusement trop bruyante (et qui s’achève pour moi par un torticolis). Réveillés à trois heures par un camion de livraison, puis à six heures par un clocher tout à fait kitch, puis par un marteau-piqueur… le tout devant un lever de soleil sublime, qui s’est posé sur une reproduction accrochée au mur de la chambre, à laquelle je n’avais pas avant prêté attention, une vue de la porte des Lions dessinée en 1821, où on voit la rampe d’accès encore encombrée de blocs, méconnaissable par rapport à aujourd’hui. Demain, les visiteurs découvriront tout autre chose, des murs peut-être plus hauts. J’imagine un Parthénon flambant neuf, reconstitué avec des imprimantes 3D géantes, et le travail minutieux des restaurateurs contemporains paraîtra ridiculement laborieux.
 
 ![E. Dodwell, 1821](_i/epid2.webp)
 
@@ -112,7 +113,7 @@ Nous avons dévalé le Péloponnèse pour descendre vers le bas de son deuxième
 
 Nous avons roulé avec en tête le théâtre d’Épidaure, que même les enfants ont apprécié, impressionnés par son effet amplificateur. Tour à tour, nous nous sommes placés au centre de la scène pour déclamer nos bêtises. J’ai crié que j’étais un super héros, les enfants que leur frère était stupide et Isa a entonné quelques notes du morceau qu’elle travaille avec son chœur lyrique. Elle a quitté la scène sous les applaudissements des premiers visiteurs.
 
-Nous avons traversé Kalamata, une sorte de cap d’Agde, puis d’autres villes sans attrait, des sortes de Marseillan plage, sur une côte néanmoins superbe et j’ai commencé par me sentir mal, projeté dans le pire de mon Midi, et je n’ai pu m’empêcher de m’y sentir incarner les touristes que je vois déferler depuis mon enfance.
+Nous avons traversé Kalamata, une sorte de cap d’Agde, puis d’autres villes sans attrait, des sortes de Marseillan plage, sur une côte néanmoins superbe et j’ai commencé par me sentir mal, projeté dans le pire de mon Midi, et je n’ai pu m’empêcher de m’y sentir comme un des touristes que je vois déferler chez moi depuis mon enfance.
 
 ![Kalamitsi](_i/agios1.webp)
 
@@ -121,6 +122,7 @@ Après avoir franchi une montagne et changé de paysage, nous déjeunons dans un
 Pendant que je fais la sieste, Isa amène les enfants à la plage la plus proche. Je les rejoins à pied. Des villas défendent l’accès à la mer. Je marche sur une route communale poussiéreuse. Je découvre une plage à l’unisson, avec néanmoins son eau turquoise.
 
 ![Chapelle d’Agios Dimitrios](_i/agios2.webp)
+
 ![Port d’Agios Dimitrios](_i/agios3.webp)
 
 Nous enchaînons par un verre en terrasse d’un restaurant situé en surplomb d’une autre plage plus proprette, mais encore une fois aux prix parisiens, et avec les prix parisiens vient l’accueil à la parisienne, qui ne font déjà que me faire regretter la journée d’hier.
@@ -143,7 +145,7 @@ Hier soir, au détour d’une rue, Isa aperçoit par une fenêtre ouverte une fe
 
 Je n’arrive à me satisfaire de cet utilitarisme territorial. J’ai un désir du lieu, de sa visite en profondeur, toujours à la recherche de son génie, dont il m’arrive de ressentir sa force comme un vertige.
 
-Dans le théâtre d’Épidaure, nous avons expliqué cette idée aux enfants. Ils y ont ressenti un peu de la magie qui seule prédispose à l’art du voyage. De vivre toute l’année dans un lieu où les gens passent leurs vacances m’a imposé de moi-même chercher autre chose en vacances. Je ne peux me contenter de m’allonger au soleil et de me reposer. Le seul véritable repos est de laisser le regard dévorer les choses qui d’habitude lui échappent parce que trop familières.
+Dans le théâtre d’Épidaure, nous avons expliqué cette idée aux enfants. Ils y ont ressenti un peu de la magie qui seule prédispose à l’art du voyage. De vivre toute l’année dans un lieu où les gens passent leurs vacances m’a imposé de chercher autre chose qu’eux en vacances. Je ne peux me contenter de m’allonger au soleil et de me reposer. Le seul véritable repos est de laisser le regard dévorer les choses qui d’habitude lui échappent parce que trop familières.
 
 Je suis encore limité dans ma capacité à regarder. À cause de mon torticolis, je m’attarde sur le bruit des vagues que je vois lécher le pied de la falaise non loin de ma chambre de katafigio village. C’est l’heure de la sieste et je m’y abandonne, en songeant à la plateforme depuis laquelle, durant toute la matinée, nous avons plongé dans une eau translucide où fourmillaient des poissons bleus (un endroit caché au pied d’un escarpement, accessible par un escalier indiqué par la famille familière des lieux et que, simples touristes, nous ne n’aurions sans doute jamais découvert).
 
@@ -155,7 +157,7 @@ Si je suis lu, j’en suis heureux, éventuellement, pas toujours. Cette lecture
 
 Quand j’écris *[Résistants](../../page/resistants)*, je le fais avec la nécessité d’être lu. Je ne suis donc pas écrivain. J’utilise les mêmes outils, les mêmes mots, mais j’exerce une autre profession. C’est un peu comme le cuisinier professionnel qui avec les mêmes ingrédients prépare des repas somptueux ou se contente de se nourrir, comme l’architecte qui construit une cathédrale ou une simple maison utilitaire. Encore que cette distinction soit impossible si on la tire un peu loin. Il y a de l’utilitarisme dans la cathédrale et de la beauté dans la maison, les limites se floutent, mais je crois qu’au moins deux directions peuvent à un moment ou un autre guider nos vies, et que leur réunion en une seule voix est pour le moins miraculeuse.
 
-Ce miracle se produirait si mes carnets recueillaient soudain des milliers de lecteurs. Il se passerait alors quelque chose d’étrange, et même de dangereux pour moi. J’entrerai en résonnance avec mon temps au risque de ne plus être moi-même, mais seulement un reflet de ce que les autres pensent. Sans doute que je serai moins écrivain, je ne serais plus celui qui s’abandonne, mais celui dont l’abandon rejoint les autres, et ne fais que les contenter.
+Ce miracle se produirait si mes carnets recueillaient soudain des milliers de lecteurs. Il se passerait alors quelque chose d’étrange, et même de dangereux. J’entrerai en résonnance avec mon temps au risque de ne plus être moi-même, mais seulement un reflet de ce que les autres pensent. Je ne serais plus celui qui s’abandonne, mais celui dont l’abandon rejoint les autres, et ne fais que les contenter.
 
 ---
 
