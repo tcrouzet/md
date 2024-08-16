@@ -2,7 +2,7 @@
 
 ![D&D](_i/dragon-jdr.webp)
 
-Mon roman en cours, sur le plaisir d’écrire, un plaisir dont ne peuvent me priver les IA, est aussi un roman jeu, comme a pu l’être *Si par une nuit d’hiver un voyageur* de Calvino. Je suis en train de reboucler ma passion du jeu de rôle et ma passion de la littérature, d’une façon innatendue et qui m’amuse beaucoup. Et quand je prends du plaisir à écrire j’arrive à surmonter même les pires vacheries de la vie.
+Mon roman en cours, sur le plaisir d’écrire, un plaisir dont ne peuvent me priver les IA, est aussi un roman jeu, comme a pu l’être *Si par une nuit d’hiver un voyageur* de Calvino. Je suis en train de reboucler ma passion du jeu de rôle et ma passion de la littérature, d’une façon inattendue et qui m’amuse beaucoup. Et quand je prends du plaisir à écrire, j’arrive à surmonter même les pires vacheries de la vie.
 
 De passage sur Facebook pour y discuter de vélo, j’aperçois [un post de Julien Delorme sur l’histoire du jeu de rôle](https://www.facebook.com/julien.tanguy.1293/posts/pfbid0nzsDPcnkLx9Scd21D8U8iTcDqZK5kHptaAY76dNGWxbJT1KJd1g2qdqc4GqTCLH2l), où il effectue un lien avec la littérature. Ce qui d’une certaine façon me conforte dans mon projet et me fait penser que j’ai évoqué moi-même ce lien de nombreuse fois depuis des années, notamment au chapitre 7 du [*Peuple des connecteurs*](../../books/le-peuple/le-peuple-des-connecteurs.md). L’occasion de reprendre ce texte et [de pointer vers d’autres](/tag/jdr).
 
