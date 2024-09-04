@@ -6,7 +6,7 @@ Certains vivent pour gagner, amasser, dominer, paraître, briller, flamber, je v
 
 La couleur annoncée, je peux passer à mon sujet. Au quotidien en 2024, je roule soit avec un tout-suspendu (Specialized Epic Evo), soit avec un gravel (Canyon Grizl), deux vélos qui procurent des expériences totalement différentes, même quand j’emprunte les mêmes chemins, ce qui est une façon de les renouveler, de les voir sous des angles différents, et qui revient à démultiplier la taille de mon terrain de jeu (en plus je roule souvent avec des copains différents en fonction du vélo que je choisis).
 
-Quand j’allonge les distances, le gravel finit par être inconfortable et me provoque des douleurs aux épaules, ce qui ne m’arrive pas avec le VTT, même quand j’enchaîne les journées de bikepacking. C’est mon problème, je sais. Le dogmatisme va surgir et dire un c’est une question de position (oui, je relève de façon étrange mon cintre, mais c’est ce qui me va encore le mieux). Ceux qui me connaissent savent que je suis un maniaque des réglages (mon côté ingénieur). Arrive un moment dans la vie où tous les réglages du monde ne font pas partir les douleurs (mais bon, j’ai rien contre les miracles).
+Quand j’allonge les distances, le gravel finit par être inconfortable et me provoque des douleurs aux épaules, ce qui ne m’arrive pas avec le VTT, même quand j’enchaîne les journées de bikepacking. C’est mon problème, je sais. Le dogmatisme va surgir et dire que c’est une question de position (oui, je relève de façon étrange mon cintre, mais c’est ce qui me va encore le mieux). Ceux qui me connaissent savent que je suis un maniaque des réglages (mon côté ingénieur). Arrive un moment dans la vie où tous les réglages du monde ne font pas partir les douleurs (mais bon, j’ai rien contre les miracles).
 
 ![Version monster cross](_i/IMG_3339.webp)
 
@@ -56,6 +56,6 @@ La seconde sortie, plus montagneuse, ma dernière reco g727 autour de Carcassonn
 
 ### Le coût
 
-La conversion m’a coûté en gros 650 € (200 € cintre, 350 € leviers, 100 € guidoline, le gel, support Redshift). Ce n’est pas négligeable. À ce prix, j’aurais pu améliorer le Grizl en changea de cintre et lui ajoutant [une fourche](https://www.sram.com/en/rockshox/collections/xplr). Mais cette transformation m’aurait privé d’un pur gravel et des rapport VTT pour affronter les pourcentages les plus sevères. Et je n’aurais toujours pas eu de roues carbone. Je suis un cycliste en recherche perpétuelle. Finalement, c’est expériementer qui m’amuse. Demain, je dirai le contraire d’aujourd’hui et remonterai peut-être un cintre plat sur le semi-rigide.
+La conversion m’a coûté en gros 650 € (200 € cintre, 350 € leviers, 100 € guidoline, le gel, support Redshift). Ce n’est pas négligeable. À ce prix, j’aurais pu améliorer le Grizl en changea de cintre et lui ajoutant [une fourche](https://www.sram.com/en/rockshox/collections/xplr). Mais cette transformation m’aurait privé d’un pur gravel et des rapports VTT pour affronter les pourcentages les plus sevères. Et je n’aurais toujours pas eu de roues carbone. Je suis un cycliste en recherche perpétuelle. Finalement, c’est expériementer qui m’amuse. Demain, je dirai le contraire d’aujourd’hui et remonterai peut-être un cintre plat sur le semi-rigide.
 
 #velo #gravel #y2024 #2024-9-4-11h00
