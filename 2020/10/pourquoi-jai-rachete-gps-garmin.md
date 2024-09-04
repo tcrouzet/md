@@ -52,8 +52,11 @@ Il m’aura fallu une dizaine d’heures de bricolage, puis trois mois d’essai
 La carte Garmin étant précise mais un peu kitsch, je dois en choisir une autre. J’ai ma petite idée, mais j’effectue quelques tests sur mon ordinateur avec [BaseCamp](https://www.garmin.com/fr-FR/software/basecamp/) (en fait, je copie les cartes sur le GPS ou un disque virtuel simulant un GPS Garmin pour que BaseCamp les reconnaisse).
 
 ![Carte Garmin Europe](_i/map03Garmin.webp)
+
 ![Carte IGN pour Garmin](_i/map03IGN.webp)
+
 ![Openfietsmap Lite](_i/map03lite.webp)
+
 ![OSM new style](_i/map03OSMnew.webp)
 
 La carte IGN de la France est beaucoup trop détaillée pour un minuscule écran de GPS (image 2). Elle est mieux au chaud sur mon téléphone. La carte [Openfietsmap Lite](http://garmin.openstreetmap.nl/) reste trop colorée (image 3). Je lui préfère [la version *new style*](http://garmin.openstreetmap.nl/), à la frontière du monochrome (image 4). Reste à voir le rendu sur le 530.
@@ -91,7 +94,5 @@ On m’a demandé pourquoi j’avais écarté les [Garmin de la gamme Etrex](htt
 Il est lourd 142 g, nécessite deux piles ou accumulateurs AA, donc 50 g supplémentaires, son écran est vraiment petit pour un usage à vélo, 2,2 pouces, donc il ne répond à aucun de mes critères, sinon par son prix.
 
 On m’a dit que c’était le top en voyage parce qu’avec deux piles de plus, on pouvait tenir 50 heures (seulement trois grosses journée de voyage en été). C’est vrai, mais on arrive déjà à un poids de 242 g auquel il faut ajouter le chargeur AA… Cette solution ne dispense pas d’une batterie externe puisqu’elle reste indispensable pour la frontale, le phare, le feu arrière et le téléphone. Voilà pourquoi j’ai écarté ce modèle, sans parler du coût écologique des piles qu’il faut changer à longueur de sortie.
-
-
 
 #gps #velo #y2020 #2020-10-16-19h31

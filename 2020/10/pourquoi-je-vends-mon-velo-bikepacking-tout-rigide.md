@@ -39,7 +39,9 @@ Les roues, la cassette, le dérailleur et le plateau n’ont jamais servi. Je n�
 Pour 300€ de plus, je le vends dans la config en photo avec potence Hope, guidon carbone SQ-LAB, bar end SQ-LAB, poignée ergonomique SQ-LAB.
 
 ![À vendre Epic HT](_i/IMG_3339.webp)
+
 ![À vendre Epic HT](_i/IMG_3342.webp)
+
 ![À vendre Epic HT](_i/IMG_3346.webp)
 
 #velo #y2020 #2020-10-2-13h49
