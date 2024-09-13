@@ -39,7 +39,7 @@ Quand je pars en voyage, je veille toujours à rendre ma trace disponible sur Vi
 
 ### MapOut
 
-Pour la navigation hors ligne, j’utilise aussi [MapOut](https://mapout.app/) sur iOS, une app très performante, rapide, simple. Pour lui envoyer une carte avec des POI, je télécharge le fichier depuis VisuGPX ou GoogleMap, sélectionne le fichier depuis l’explorateur de fichiers, je l’ouvre avec MapOut et le tour est joué. Seul bémol : perte des icônes des POI.
+Pour la navigation hors ligne, j’utilise aussi [MapOut](https://mapout.app/) sur iOS, une app très performante, rapide, simple. Pour lui envoyer une carte avec des POI, je télécharge le fichier depuis VisuGPX ou GoogleMap, sélectionne le fichier depuis l’explorateur de fichiers, je l’ouvre avec MapOut et le tour est joué. J’aime aussi la possibilité d’envoter des traces par mail. Seul bémol : perte des icônes des POI.
 
 ![MapOut](_i/mapout.webp)
 
