@@ -18,16 +18,26 @@ Pour la navigation hors ligne, j’utilise souvent [MapOut](https://mapout.app/)
 
 Mais il existe une autre solution, plus directe. Rester sur VisuGPX !
 
-1. Depuis le menu associé à une trace, la rendre disponible hors connexion.
+1/ Depuis le menu associé à une trace, la rendre disponible hors connexion.
+
  ![](_i/IMG_6888.png)
- 2. Choisir un fond de caste (OSM, IGN…) et patienter durant le téléchargement qui peut prendre pas mal de temps pour une trace bikepacking.
+
+ 2/ Choisir un fond de caste (OSM, IGN…) et patienter durant le téléchargement qui peut prendre pas mal de temps pour une trace bikepacking.
+
 ![](_i/IMG_6891.png)
-3. Basculer en mode avion pour vérifier que tout fonctionne. Accepter que VisuGPX accède à la géolocalisation.
+
+3/ Basculer en mode avion pour vérifier que tout fonctionne. Accepter que VisuGPX accède à la géolocalisation.
+
 ![](_i/IMG_6892.png)
-4. On peut se promener sur la carte, visualiser les POI, se géolocaliser en cliquant sur le bouton cible en haut à droite. Au centre de l’écran, on a la distance par rapport à sa géolocalisation. 
+
+4/ On peut se promener sur la carte, visualiser les POI, se géolocaliser en cliquant sur le bouton cible en haut à droite. Au centre de l’écran, on a la distance par rapport à sa géolocalisation. 
+
 ![](_i/IMG_6893.png)
-5. Pour peut utiliser le service pour naviguer et régler la navigation avec les options. On peut même activer des alarmes pour être alerté à proximité de certains POI, les points d’eau par exemple.
+
+5/ Pour peut utiliser le service pour naviguer et régler la navigation avec les options. On peut même activer des alarmes pour être alerté à proximité de certains POI, les points d’eau par exemple.
+
 ![](_i/IMG_6894.png)
-Quand je pars en voyage, je veille toujours à rendre ma trace disponible sur VisuGPX avant le départ. J’aime savoir quand je trouverai un café, un restaurant ou une épicerie sur la trace, parce que je déteste me surcharger…
+
+Quand je pars en voyage, je veille toujours à rendre ma trace disponible sur VisuGPX avant le départ. J’aime savoir quand je trouverai un café, un restaurant ou une épicerie sur la trace, parce que je déteste me surcharger.
 
 #velo #bikepacking #y2024 #2024-9-10-10h00
