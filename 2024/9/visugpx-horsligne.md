@@ -16,7 +16,7 @@ Les traces VisuGPX peuvent bien sûr être transférées vers les GPS, ce qui es
 
 Pour la navigation hors ligne, j’utilise souvent [MapOut](https://mapout.app/) sur iOS, une app très performante, rapide, simple. J’exporte mes cartes depuis GoogleMap (mon service de backup) et les envoie à MapOut au format KML en les attachant à un mail (la même procédure depuis les fichiers VisuGPX ne fonctionne pas).
 
-Mais il existe une autre solution, plus directe. Rester sur VisuGPX !
+Mais il existe une autre solution, plus directe. [Si vous êtes abonné premium VisuGPX](https://www.visugpx.com/premium/), tout peut se faire depuis le site.
 
 1/ Depuis le menu associé à une trace, la rendre disponible hors connexion.
 
