@@ -28,6 +28,6 @@ Mais il existe une autre solution, plus directe. Rester sur VisuGPX !
 ![](_i/IMG_6893.png)
 5. Pour peut utiliser le service pour naviguer et régler la navigation avec les options. On peut même activer des alarmes pour être alerté à proximité de certains POI, les points d’eau par exemple.
 ![](_i/IMG_6894.png)
-Quand je pars en voyage, je veille toujours à rendre ma trace disponible sur VisuGPX avant le départ. J’aime savoir quand je trouverai un café, un restaurant ou une épicerie sur la trace, parce que je déteste me surcharger.
+Quand je pars en voyage, je veille toujours à rendre ma trace disponible sur VisuGPX avant le départ. J’aime savoir quand je trouverai un café, un restaurant ou une épicerie sur la trace, parce que je déteste me surcharger…
 
 #velo #bikepacking #y2024 #2024-9-10-10h00
