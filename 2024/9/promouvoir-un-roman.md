@@ -12,7 +12,7 @@ Depuis le début de l’été, j’écris un roman seulement pour m’amuser, se
 
 3/ Je n’aurais jamais présenté le texte de cette façon. Et parce que c’est biaisé, mais pas faux, ça m’amuse de le publier maintenant. 
 
-4/ Si je n’utilise plus les IA pour écrire, elles peuvent devenir de fantastiques assistantes marketing, pour quelqu’un comme moi qui déteste se vendre, mais surtout pour les professionnels de l’édition. Elles ont le pouvoir de rendre un roman hyper expérimental attractif (et démontre que tout est vendable pour sait s’y prendre).
+4/ Si je n’utilise plus les IA pour écrire, elles peuvent devenir de fantastiques assistantes marketing, pour quelqu’un comme moi qui déteste se vendre, mais surtout pour les professionnels de l’édition. Elles ont le pouvoir de rendre un roman hyper expérimental attractif (et démontre que tout est vendable pour qui sait s’y prendre).
 
 5/ Par exemple, j’ai demandé à Google Notebook de m’écrire une quatrième de couverture :
 
@@ -22,21 +22,19 @@ Depuis le début de l’été, j’écris un roman seulement pour m’amuser, se
 
 >Entre réflexions métafictionnelles, jeux littéraires et suspense, *Le roman du roman* nous entraîne dans une aventure hors du commun où la frontière entre réalité et fiction se brouille. Plongez dans les secrets d’un écrivain visionnaire et découvrez comment son exploration du processus créatif pourrait bien bouleverser notre propre rapport à l’art et à la mémoire.
 
-6/ Cette quatrième est plus vendeuse que tout ce que j’aurais pu écrire (ou osé écrire), d’autant que je pense que ce roman sera invendable et qu’il finira autopublié.
+6/ Cette quatrième est plus vendeuse que tout ce que j’aurais pu écrire (ou osé écrire).
 
-7/ En suite, j’ai demandé à Google Notebook de me générer une discussion audio sur mon chantier romanesque. Quelle verve ! J’en viens presque à croire que deux personnes ont vraiment lu ce que j’écrivais. J’ai rarement entendu des gens discuter d’un de mes textes avec autant de passion. J’en viens à me dire que ce roman intéressera peut-être des lecteurs. Ça me motive aussi à essayer de produire un texte à la hauteur de cet échange hautement survendeur (et qui se mélange un peu les pinceaux). Je crois même que ce texte, ou une version remaniée, pourrait se retrouver à la fin du roman pour démultiplier la mise en abîme à laquelle je m’amuse.
+7/ Ensuite, j’ai demandé à Google Notebook de me générer une discussion audio sur mon chantier romanesque. Quelle verve ! J’en viens presque à croire que deux personnes ont vraiment lu ce que j’écrivais. J’ai rarement entendu des gens discuter d’un de mes textes avec autant de passion. J’en viens à me dire que ce roman intéressera peut-être des lecteurs. Ça me motive aussi à essayer de produire un texte à la hauteur de cet échange hautement survendeur (et qui se mélange un peu les pinceaux). Je crois même que ce texte, ou une version remaniée, pourrait se retrouver à la fin du roman pour démultiplier la mise en abîme à laquelle je m’amuse.
 
 8/ Sur mon nouveau iPhone 16 Pro, [Aiko](https://apps.apple.com/fr/app/aiko/id1672085276) m’a transcrit le texte anglais (l’iPhone devenant si chaud qu’il était presque impossible de le garder en main).
 
 9/ Claude a traduit le texte en français (ajoutant des bugs par rapport à la version de Notebook, ce qui est en soi très amusant pour moi, et en même temps stimulant.) Ce texte est un défi. Je doute d’être capable d’écrire un truc qui provoquerait un tel enthousiasme sur des humains d’aujourd’hui. Je me contente de me regarder écrire dans le miroir des IA (prélude effrayant de la société vers laquelle nous courons).
 
-10/ Sur FinalCut, j’ai monté le son avec une image fixe et j’ai [généré une vidéo](https://youtu.be/yImuQYPmoJE).
+10/ Sur Final Cut, j’ai monté le son avec une image fixe et j’ai [généré une vidéo](https://youtu.be/yImuQYPmoJE).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yImuQYPmoJE?si=25kD6hm-lR_qOFgf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### Transcript
-
----
 
 Tu as déjà eu cette impression étrange de vivre dans une histoire, mais que quelqu’un d’autre l’écrit ?
 
