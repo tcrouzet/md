@@ -66,7 +66,7 @@ Mais voilà où ça devient vraiment dingue.
 
 Ok, donc il y a ces photos, pas vrai ?
 
-Spécifiquement du jour 14 juillet 2007.
+Spécifiquement du 14 juillet 2007.
 
 Et écoute ça, l’IA, elle ne peut pas identifier cette femme, cette femme enceinte, Rachel.
 
