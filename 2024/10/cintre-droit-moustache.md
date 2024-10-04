@@ -28,7 +28,7 @@ J’adore mon monster avec ses pneus en 50 mm. Très fun à piloter, bon rendem
 
 Dès le premier soir, fourmis persistantes à l’index gauche (et elles restent présentes après deux jours de repos), ampoules dans la paume des mains, mal aux cervicales et aux épaules… Rien de rédhibitoire, mais je n’ai jamais rien ressenti de comparable sur le même vélo équipé d’un cintre plat. Pire, j’ai eu de plus en plus mal au cul, alors que j’utilise la même selle que par le passé. J’ai craqué le dernier jour et j’ai terminé en train (aussi parce que je revenais à la maison et connaissais trop bien les moindres détours).
 
-Je n’ai cessé de me dire que je me faisais du mal avec ce cintre moustache, sans rien y gagner finalement, sinon de répondre à la mode du gravel (et ne me parlez pas de position, j’ai justement fait une étude posturale gravel et je suis positionné au mieux pour mon corps). En plus, je ne roule pas assez vite pour profiter d’un quelconque avantage aérodynamique. J’étais jaloux des copains qui avaient choisi un VTT et j’ai alors compris qu’à l’avenir je ne roulerai plus en bikepacking qu’avec un VTT, peu importe le parcours, mon but étant d’aller loin et longtemps, le confort étant alors l’élément primordial à prendre en compte (entre mon Grizl et mon tout-suspendu il n’y a qu’un kilo d’écart).
+Je n’ai cessé de me dire que je me faisais du mal avec ce cintre moustache, sans rien y gagner finalement, sinon de répondre à la mode du gravel (et ne me parlez pas de position, j’ai justement fait une étude posturale gravel et je suis positionné au mieux pour mon corps). En plus, je ne roule pas assez vite pour profiter d’un quelconque avantage aérodynamique. J’étais jaloux des copains qui avaient choisi un VTT et j’ai alors compris qu’à l’avenir je ne roulerai plus en bikepacking qu’avec un cintre droit, peu importe le parcours, mon but étant d’aller loin et longtemps, le confort étant alors l’élément primordial à prendre en compte (entre mon Grizl et mon tout-suspendu il n’y a qu’un kilo d’écart).
 
 ### Idée reçue
 
@@ -40,11 +40,11 @@ Mais les cintres plats équipés d’inner bars SQLab offrent aussi trois positi
 
 Par ailleurs, varier l’écartement de mes bras en fonction de ces positions m’aide à détendre mes épaules, ce qui contribue à me détendre dans tout le corps, jusqu’à mon fondement. De même, les différentes positions impliquent une rotation des avant-bras que je trouve très bénéfique.
 
-Bien-sûr j’aime relancer avec mon cintre gravel. Il dynamise le pilotage et le vélo, mais tout cela ne fait aucun sens sur les ultras où je cherche à économiser mes forces et évite les excès. Je n’utilise jamais mon cintre gravel pour foncer à 40 km/h ou pour sprinter à la poursuite des copains.
+Bien-sûr j’aime relancer avec mon cintre gravel. Il dynamise le pilotage et le vélo, mais tout cela ne fait aucun sens sur les ultras où je cherche à économiser mes forces et évite les excès. En bikepacking, je n’utilise jamais mon cintre gravel pour foncer à 40 km/h ou pour sprinter à la poursuite des copains.
 
 ### Avantage du cintre plat
 
-En bikepacking, on peut y accrocher un sac plus long, ce qui permet de réduire le volume du sac de selle, et donc de mieux équilibrer le vélo, ce qui reste fondamental quand on emprunte des sentiers et veut conserver un vélo agréable à piloter.
+En voyage, on peut y accrocher un sac plus long, ce qui permet de réduire le volume du sac de selle, et donc de mieux équilibrer le vélo, ce qui reste fondamental quand on emprunte des sentiers et veut conserver un vélo agréable à piloter.
 
 ### Avantage du tout-suspendu
 
@@ -54,6 +54,6 @@ Il absorbe mieux les chocs à l’avant et à l’arrière. Les amortisseurs tri
 
 Je réserverai le gravel aux sorties à la journée, le tout-suspendu au pur VTT, mais aussi au bikepacking. Sur [le g727 2025](https://727bikepacking.fr/g727-Grand-Depart/), je monterai des pneus gravel de 50 mm sur le tout-suspendu, je remplacerai la tige de selle télescopique par une tige de selle carbone, gagnant ainsi presque un kilo, pour arriver à un vélo de moins de 10 kg. Beaucoup de gravellistes roulent avec des vélos plus lourds, tout en prenant moins de plaisir en descente.
 
-Nous sommes peut-être en train de sortir de la mode du tout rigide. Peu à peu, les vélos trouvent la place où ils sont les plus efficaces au regard des desiderata des cyclistes. En bikepacking, mon crédo est simple : confort, confort, confort… même sur les traces gravel les plus douces (où je ne vais pas parce que je m’y emmerde). Après, si pour vous ça passe avec un vélo bout de bois, tant mieux pour vous. Perso, je ne suis pas maso.
+Nous sommes peut-être en train de sortir de la mode du tout rigide. Peu à peu, les vélos trouvent la place où ils sont les plus efficaces au regard des desiderata des cyclistes. En bikepacking, mon crédo est simple : confort, confort, confort… même sur les traces gravel les plus douces (et mon but restera d’aller vers la douceur sur les g727). Après, si pour vous ça passe avec un vélo tout rigide, tant mieux. Vous gagnez en dynamisme, en simplicité mécanique, en poids. Il y a bien-sûr quelques avantage à rouler à gravel sur les longues distances, surtout quand on est plus routier que vététiste.
 
 #velo #bikepacking #gravel #y2024 #2024-10-4-12h00
