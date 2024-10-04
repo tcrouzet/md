@@ -18,11 +18,11 @@ Ce n’est pas que le g727 soit extrêmement difficile. Il y a certes des passag
 
 Si, sur les sorties à la journée, j’apprécie le dynamisme du gravel, tout cela s’estompe quand la fatigue s’installe et que je dois m’économiser pour les jours suivants. Même les compétiteurs les plus aguerris arrivent au même constat sur les ultras de référence, comme la Tour Divide, gagnée cette année par [Justinas Leveika](https://bikepacking.com/news/justinas-leveika-wins-2024-tour-divide/) sur un tout-suspendu, alors que c’est typiquement un parcours gravel (en prime, il a pulvérisé le record de Mike Hall).
 
-Quand on roule très vite sur piste, ou qu’on fonce en descente comme j’aime le faire, le moindre caillou rencontré devient un obstacle, alors il faut augmenter la section des pneus pour ne pas meurtrir le corps, voire ajouter des suspensions (ou descendre sur les freins ce qui devient du masochisme). Un gravel pour la nature et les grands espaces, même pour des sorties à la journée, surtout aventureuses et exploratrices, doit donc selon moi accepter à minima des pneus de 50 mm, voire posséder une suspension digne de ce nom.
+Quand on roule très vite sur piste, ou qu’on fonce en descente comme j’aime le faire, le moindre caillou rencontré devient un obstacle, alors il faut augmenter la section des pneus pour ne pas meurtrir le corps, voire ajouter des suspensions (ou descendre sur les freins, ce qui devient très pervers). Un gravel pour la nature et les grands espaces, même pour des sorties à la journée, surtout aventureuses et exploratrices, doit donc selon moi accepter à minima des pneus de 50 mm gonflés à moins de 2 kg.
 
 ### Côté vélo
 
-J’adore mon monster avec ses pneus en 50 mm. Très fun à piloter, bon rendement, avale les imperfections du terrain grâce à la fourche hydraulique de 120 mm. Beaucoup plus confortable que mon Grizl, même poids, et tout aussi dynamique, même plus grâce à des roues plus haut de gamme. J’ai réussi à enchaîner les journées du g727 mieux qu’avec un gravel. Ça ne fait aucun doute, mais c’était loin d’être parfait.
+J’adore mon monster avec ses pneus en 50 mm. Très fun à piloter, bon rendement, avale les imperfections du terrain grâce à la fourche hydraulique de 120 mm. Beaucoup plus confortable que mon Grizl, même poids, et tout aussi dynamique, même plus grâce à des roues haut de gamme. J’ai réussi à enchaîner les journées du g727 mieux qu’avec un gravel. Ça ne fait aucun doute, mais c’était loin d’être parfait.
 
 ### Côté bonhomme
 
