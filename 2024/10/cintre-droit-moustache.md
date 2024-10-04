@@ -56,4 +56,6 @@ Je réserverai le gravel aux sorties à la journée, le tout-suspendu au pur VTT
 
 Nous sommes peut-être en train de sortir de la mode du tout rigide. Peu à peu, les vélos trouvent la place où ils sont les plus efficaces au regard des desiderata des cyclistes. En bikepacking, mon crédo est simple : confort, confort, confort… même sur les traces gravel les plus douces (et mon but restera d’aller vers la douceur sur les g727). Après, si pour vous ça passe avec un vélo tout rigide, tant mieux. Vous gagnez en dynamisme, en simplicité mécanique, en poids. Il y a bien-sûr quelques avantage à rouler à gravel sur les longues distances, surtout quand on est plus routier que vététiste.
 
+*PS : Si quelqu’un est intéressé par mon monster, je veux bien le vendre, sinon je le remonterai en VTT pour mes gamins.*
+
 #velo #bikepacking #gravel #y2024 #2024-10-4-12h00
