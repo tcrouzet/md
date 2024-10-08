@@ -26,7 +26,7 @@ Quand j’écoute les dialogues de NotebookLM, je me dis parfois que les deux in
 
 ### Spoiler
 
-Je viens de donner à lire le roman complet à NotebookLM. Même si vous avez l’intention de le lire un jour, vous pouvez écouter ou lire cet entretien, il ne fait qu’ajouter une couche de mystère au mystère, si bien que je pourrais empiler des dizaines de préludes ou d’épilogues écrits par NotebookLM, ou à sa manière, sans rien enlevé à mon texte. Franchement, je n’ai jamais lu un teaser aussi dingue et aussi délirant (les IA ont du mal avec mon texte, mais c’est là que c’est intéressant, leurs confusions sont intéressantes, comme si des lecteurs voyaient tout autre chose que ce que j’ai voulu raconter).
+Je viens de donner à lire le roman complet à NotebookLM. Même si vous avez l’intention de le lire un jour, vous pouvez écouter ou lire cet entretien, il ne fait qu’ajouter une couche de mystère au mystère, si bien que je pourrais empiler des dizaines de préludes ou d’épilogues écrits par NotebookLM, ou à sa manière, sans rien enlevé à mon texte. Franchement, je n’ai jamais lu un teaser aussi dingue et aussi délirant (les IA ont du mal avec mon texte, là ça devient intéressant, leurs confusions sont intéressantes, comme si des lecteurs voyaient tout autre chose que ce que j’ai voulu raconter).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ddtuKzj4rfQ?si=rlEKBhKn3Zgii_fm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -166,7 +166,7 @@ Prenons Sally, par exemple, l’une des chercheuses principales.
 
 Elle est profondément affectée par la mort de leur coéquipier.
 
-Eh bien, elle commence à se connecter avec *Le roman du eoman* à un tout autre niveau.
+Eh bien, elle commence à se connecter avec *Le roman du roman* à un tout autre niveau.
 
 Comme si elle n’étudiait plus seulement, elle le ressent.
 
@@ -194,7 +194,7 @@ La vie imitant l’art, imitant la vie.
 
 C’est assez pour vous faire tourner la tête.
 
-Mais cela souligne aussi le cœur de ce qui rend *Le roman du eoman* si puissant.
+Mais cela souligne aussi le cœur de ce qui rend *Le roman du roman* si puissant.
 
 Ce ne sont pas juste des idées sur une page.
 
