@@ -1,4 +1,4 @@
-# Commercialiser un roman avec l’aide des IA
+# Quand les IA écrivent les méta-textes d'un roman
 
 ![Le jaillissement](_i/comroman.webp)
 
