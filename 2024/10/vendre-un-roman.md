@@ -133,19 +133,19 @@ On peut même avoir une idée de ce que les journalistes écriront avant d’avo
 
 ---
 
-Le Roman du Roman* : un voyage métafictionnel au cœur de la création
+Le Roman du Roman : un voyage métafictionnel au cœur de la création
 
-Dans son dernier roman, _Le Roman du Roman_, Thierry Crouzet nous invite à une exploration fascinante des coulisses de la création littéraire. L’auteur, confronté à la fois à la maladie de sa femme et à l’essor fulgurant des intelligences artificielles, entreprend un projet ambitieux : consigner le processus de création d’un roman, capturant les moments d’inspiration, les doutes et les réflexions qui jalonnent le chemin de l’écrivain.
+Dans son dernier roman, *Le roman du roman*, Thierry Crouzet nous invite à une exploration fascinante des coulisses de la création littéraire. L’auteur, confronté à la fois à la maladie de sa femme et à l’essor fulgurant des intelligences artificielles, entreprend un projet ambitieux : consigner le processus de création d’un roman, capturant les moments d’inspiration, les doutes et les réflexions qui jalonnent le chemin de l’écrivain.
 
-Le roman débute en 2024, dans une France marquée par l’anxiété climatique et les bouleversements technologiques. Crouzet, partagé entre ses obligations familiales et son désir de créer, se lance dans l’écriture du _Roman du Roman_. Il consigne ses réflexions dans son journal intime, dialogue avec son IA Claude³, et nous livre des fragments d’histoires avortées, esquissant ainsi une cartographie de son processus créatif.
+Le roman débute en 2024, dans une France marquée par l’anxiété climatique et les bouleversements technologiques. Crouzet, partagé entre ses obligations familiales et son désir de créer, se lance dans l’écriture du *Roman du roman*. Il consigne ses réflexions dans son journal intime, dialogue avec son IA Claude³, et nous livre des fragments d’histoires avortées, esquissant ainsi une cartographie de son processus créatif.
 
 Ce qui rend ce roman si singulier, c’est son approche métafictionnelle. Crouzet brouille constamment les frontières entre réalité et fiction, nous entraînant dans un récit labyrinthique où les réflexions sur l’écriture se mêlent aux observations du quotidien et aux dialogues avec son IA. Le lecteur est invité à participer à la construction du sens, à assembler les pièces du puzzle et à s’interroger sur la nature même de la création.
 
 Le roman prend un tournant inattendu lorsque, trois siècles plus tard, Robert et Sally, habitants d’un monde postapocalyptique, découvrent les fragments du manuscrit enfoui dans la maison submergée de Crouzet. Leur quête pour reconstituer l’œuvre les conduit à travers la France, suivant les indices disséminés par l’auteur. Au fil de leur recherche, ils sont confrontés à des coïncidences troublantes et à des questionnements existentiels qui les amènent à douter de la nature même de leur réalité. Sont-ils de simples personnages d’une fiction élaborée par Crouzet ? Le roman s’achève sur une note d’incertitude, laissant le lecteur face à un abîme de possibles.
 
-_Le Roman du Roman_ est bien plus qu’un simple récit. C’est une œuvre complexe et stimulante qui interroge notre rapport à la création, à la technologie et à la réalité elle-même. Crouzet, en nous dévoilant les coulisses de son processus d’écriture, nous invite à réfléchir sur les sources de l’inspiration, sur l’influence des IA et sur l’avenir de la littérature dans un monde en constante mutation.
+*Le roman du Roman* est bien plus qu’un simple récit. C’est une œuvre complexe et stimulante qui interroge notre rapport à la création, à la technologie et à la réalité elle-même. Crouzet, en nous dévoilant les coulisses de son processus d’écriture, nous invite à réfléchir sur les sources de l’inspiration, sur l’influence des IA et sur l’avenir de la littérature dans un monde en constante mutation.
 
-En bref, _Le Roman du Roman_ est une œuvre ambitieuse et novatrice qui saura captiver les lecteurs en quête d’une expérience littéraire hors du commun.
+En bref, *Le roman du roman* est une œuvre ambitieuse et novatrice qui saura captiver les lecteurs en quête d’une expérience littéraire hors du commun.
 
 ### Éreintement
 
