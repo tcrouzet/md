@@ -1,10 +1,12 @@
 # Littérature comparée par IA interposée
 
+![La créativité](_i/ombres.webp)
+
 Lorsque j’ai généré [les métatextes autour du *Roman du roman*](vendre-un-roman.md), Claude a estimé que « le texte pourrait être comparé défavorablement à d’autres œuvres métafictionnelles célèbres. »
 
 Si j’avais écrit un polar, Claude aurait pu déclarer : « le texte pourrait être comparé défavorablement à d’autres polars célèbres. » Cette possibilité pend toujours au nez des auteurs (et la remarque de Claude est donc mécanique, ce qui n’est pas une surprise).
 
-Reste que, oui, un texte peut toujours être comparé à d’autres, travail souvent abandonné par les auteurs aux critiques, éventuellement aux universitaires, alors que, pratiqué en amont de la publication, il pourrait éclairer le texte et permettre d’en faire quelque chose d’unique. J’avoue que je suis incapable d’écrire sans me situer dans l’histoire littéraire, du moins dans la minuscule partie dont je suis informé.
+Reste que, oui, un texte peut toujours être comparé à d’autres, travail souvent abandonné par les auteurs aux critiques, éventuellement aux universitaires, alors que, pratiqué en amont de la publication, il pourrait éclairer le texte sous un jour imprévu. J’avoue que je suis incapable d’écrire sans me situer dans l’histoire littéraire, du moins dans la minuscule partie dont je suis informé.
 
 Dès que je sens qu’un autre est passé par là, je me détourne de son chemin (et si je suis une trace déjà ouverte, c’est malgré moi, parce que je manque de culture). Aujourd’hui, les IA peuvent suppléer à ce manque de culture littéraire des auteurs (qui peut-être n’a jamais été aussi flagrant). C’est ce que j’entends dans la remarque de Claude.
 
@@ -131,7 +133,7 @@ Voici une comparaison entre *Le roman du roman* de Thierry Crouzet et *Don Quich
 
 En conclusion, bien que séparés par plusieurs siècles, *Don Quichotte* et *Le roman du roman* partagent de nombreuses caractéristiques métafictionnelles. Cependant, là où Cervantes se concentrait sur la critique des conventions littéraires de son époque, Crouzet explore les défis de la création littéraire à l’ère numérique et de l’IA. Les deux œuvres invitent le lecteur à réfléchir sur la nature de la fiction et sur la façon dont elle façonne notre perception de la réalité.
 
-### Et par rapport à La septième fonction du langage de Laurent Binet
+### Et par rapport à *La septième fonction du langage* de Laurent Binet ?
 
 1. Genre et structure :
    - *La septième fonction du langage* est un thriller intellectuel qui mêle fiction et réalité historique.
@@ -212,6 +214,6 @@ En une mise en abyme supplémentaire, je pourrais garder secret le manuscrit, le
 
 Le plus effrayant : je vois de la pertinence dans les propos des machines, de la culture, presque une forme de sagesse. J’ai l’impression qu’elles me comprennent, qu’elles devinent mes intentions mieux qu’aucun lecteur n’y parviendra. Ce qui me fait me poser la question d’à quoi bon publier ? J’ai écrit ce texte pour jouir et j’ai joui, pourquoi aller plus loin ?
 
-Cette question s’est toujours posée aux auteurs. Mais aujourd’hui elle prend une tournure nouvelle puisque je peux être lu sans que personne ne le sache. Je peux lire des essais sur mon livre sans qu’aucun humain ne le lise. Je peux lui inventer une gloire faramineuse dans le silence.
+Cette question s’est toujours posée aux auteurs. Mais aujourd’hui elle prend une tournure nouvelle puisque je peux être lu sans que personne ne le sache. Je peux lire des essais, des articles, des commentaires sur mon livre sans qu’aucun humain ne le lise. Je peux lui inventer une gloire faramineuse dans le silence. C’est un peu comme si je n’en étais qu’au début de mon projet, comme si j’étais en train de continuer à l’écrire, en le prenant pour point de départ d’une nouvelle aventure.
 
-C’est un peu comme si je n’en étais qu’au début de mon projet, comme si j’étais en train de continuer à l’écrire.
+#netlitterature #ia #y2024 #2024-10-13-18h30

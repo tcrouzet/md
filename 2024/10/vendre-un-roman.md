@@ -173,4 +173,4 @@ J’ai demandé aux IA de m’écrire un prompt de création d’images. Noteboo
 
 ![Le roman du roman](_i/covers.webp)
 
-#edition #ia #y2024 #2024-10-12-18h30
+#netlitterature #ia #y2024 #2024-10-12-18h30
