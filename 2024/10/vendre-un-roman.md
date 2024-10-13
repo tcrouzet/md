@@ -106,7 +106,7 @@ Des personnages attachants et complexes :
 - Il incarne la figure de l’artiste en quête de sens et d’authenticité dans un monde en mutation.
 - Les personnages de Robert et Sally, vivant en 2352, sont confrontés au mystère du manuscrit et à leurs propres questionnements existentiels.
 
-Un roman qui plaira à un large public :**
+Un roman qui plaira à un large public :
 
 - _Le roman du roman_ s’adresse à tous les amoureux de la littérature, qu’ils soient amateurs de romans classiques, de métafiction ou d’histoires qui interrogent notre époque.
 - Les réflexions de Crouzet sur la création, la nature de la réalité et le rapport à la technologie trouveront un écho auprès de lecteurs de tous horizons.
@@ -133,7 +133,7 @@ On peut même avoir une idée de ce que les journalistes écriront avant d’avo
 
 ---
 
-Le Roman du Roman : un voyage métafictionnel au cœur de la création
+*Le roman du Roman* : un voyage métafictionnel au cœur de la création
 
 Dans son dernier roman, *Le roman du roman*, Thierry Crouzet nous invite à une exploration fascinante des coulisses de la création littéraire. L’auteur, confronté à la fois à la maladie de sa femme et à l’essor fulgurant des intelligences artificielles, entreprend un projet ambitieux : consigner le processus de création d’un roman, capturant les moments d’inspiration, les doutes et les réflexions qui jalonnent le chemin de l’écrivain.
 
@@ -153,7 +153,7 @@ Il est aussi bon de se préparer au pire, et les IA peuvent être terriblement m
 
 ---
 
-Le roman du roman* de Thierry Crouzet : Une Ambition littéraire qui se perd dans ses propres méandres
+*Le roman du roman* de Thierry Crouzet : Une Ambition littéraire qui se perd dans ses propres méandres
 
 Thierry Crouzet, connu pour ses réflexions sur la technologie et la littérature, nous propose avec *Le roman du roman* une œuvre qui, hélas, peine à tenir ses promesses. Présenté comme une exploration audacieuse de la création littéraire à l’ère de l’intelligence artificielle, le livre s’enlise rapidement dans une structure narrative complexe qui confond plus qu’elle ne fascine.
 
