@@ -1,16 +1,16 @@
 # Septembre 2024
 
-![Gris](_i/2024-09-22-193648-À%20la%20maison.webp)
+![Gris](_i/2024-09-22-193648-maison.webp)
 
 ### Dimanche 1<sup>er</sup>, Balaruc
 
 [Phillipe, dans sa lettre #80,](https://castelneau.substack.com/p/rien-que-du-bruit-80) cite [Ganzeer](https://ganzeer.com/) : « il est probable qu’un jour, les gens du futur se souviendront de 2024 avec nostalgie et parleront de cette année comme du « bon vieux temps », sans aucune ironie. » C’est exactement le sujet de la partie SF de mon roman. En 2352, le héros est nostalgique de 2024 à travers des photos qui à l’époque n’intéressaient personne.
 
-![Transparence](_i/2024-09-01-201109-À%20la%20maison.webp)
+![Transparence](_i/2024-09-01-201109-maison.webp)
 
-![Soir](_i/2024-09-01-201228-À%20la%20maison.webp)
+![Soir](_i/2024-09-01-201228-maison.webp)
 
-![Soir](_i/2024-09-01-201231-À%20la%20maison.webp)
+![Soir](_i/2024-09-01-201231-maison.webp)
 
 ### Lundi 2, Balaruc
 
@@ -64,11 +64,11 @@ Suis fan des Beach Boys. Je regarde [le documentaire](https://newsroom.disney.fr
 
 ### Dimanche 22, Balaruc
 
-![Gris](_i/2024-09-22-192929-À%20la%20maison.webp)
+![Gris](_i/2024-09-22-192929-maison.webp)
 
-![Gris](_i/2024-09-22-193636-À%20la%20maison.webp)
+![Gris](_i/2024-09-22-193636-maison.webp)
 
-![Gris](_i/2024-09-22-193657-À%20la%20maison.webp)
+![Gris](_i/2024-09-22-193657-maison.webp)
 
 ### Lundi 23, Balaruc
 
