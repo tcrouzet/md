@@ -76,7 +76,7 @@ Suis fan des Beach Boys. Je regarde [le documentaire](https://newsroom.disney.fr
 
 ### Mercredi 25, Balaruc
 
-Suis tombé sur un article si élogieux de [Creation Lake](https://thebookerprizes.com/the-booker-library/books/creation-lake) de [Rachel Kushner](https://thebookerprizes.com/the-booker-library/authors/rachel-kushner) en lice pour le The Booker Prizes que j’ai commencé à le lire. Au bout de dix pages, j’avais compris que c’était un nanar, d’autant que la France y est décrite à coups de clichés, au bout de cinquante je me demande de qui on se fiche ? Rien. Pas de style, pas d’intrigue, pas de forme neuve, pas d’épaisseur, pas d’humour, pas de profondeur. Dire que le texte est présenté comme révolutionnaire ! Ça fait mal d’entendre ça. Sans doute qu’une IA a écrit cet article. Elles sont douées pour faire briller les plus sombres merdes.
+Suis tombé sur un article si élogieux de [*Creation Lake*](https://thebookerprizes.com/the-booker-library/books/creation-lake) de [Rachel Kushner](https://thebookerprizes.com/the-booker-library/authors/rachel-kushner) en lice pour le The Booker Prizes que j’ai commencé à le lire. Au bout de dix pages, j’avais compris que c’était un nanar, d’autant que la France y est décrite à coups de clichés, au bout de cinquante je me demande de qui on se fiche ? Rien. Pas de style, pas d’intrigue, pas de forme neuve, pas d’épaisseur, pas d’humour, pas de profondeur. Dire que le texte est présenté comme révolutionnaire ! Ça fait mal d’entendre ça. Sans doute qu’une IA a écrit cet article. Elles sont douées pour faire briller les plus sombres merdes.
 
 ### Jeudi 26, Balaruc
 
@@ -90,7 +90,7 @@ Suis terrifié. [Étude massive publiée dans *Science* qui décrit l’évoluti
 
 Une métaphore. Il existe deux grandes catégories de cyclistes, les compétiteurs qui veulent gagner des courses et les dilettantes qui recherchent avant tout le plaisir.
 
-Pour gagner, le compétiteur est prêt à de nombreux sacrifices, parfois même à se doper. C’est un peu pareil avec les écrivains qui écrivent pour gagner plutôt que pour le plaisir. À une époque ils se droguaient, ou se saoulaient, désormais ils demandent aux IA d’écrire à leur place, ou du moins à les aider à écrire. C’est une évolution inévitable, irréversible, d’autant plus que les IA reposent sur des modèles statistiques qui tendent à produire des textes normés, donc dans l’air du temps.
+Pour gagner, le compétiteur est prêt à de nombreux sacrifices, parfois même à se doper. C’est un peu pareil avec les écrivains qui écrivent pour gagner plutôt que pour le plaisir. À une époque ils se droguaient, ou se saoulaient, désormais ils demandent aux IA d’écrire à leur place, ou de les aider à écrire. C’est une évolution inévitable, irréversible, d’autant plus que les IA reposent sur des modèles statistiques qui tendent à produire des textes normés, dans l’air du temps.
 
 Par contre, pour ceux qui comme moi écrivent pour le plaisir, et pour en donner, rien ne nous pousse à demander aux IA d’écrire à notre place, donc à voler notre plaisir. Pour autant, je crois que les IA peuvent nous aider à maximiser notre plaisir, parce qu’elles peuvent nous donner à voir nos textes sous une multitude de points de vue, ce qui peut nous aider à les pousser plus loin, comme quand nous travaillons avec un éditeur.
 
