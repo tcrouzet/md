@@ -63,7 +63,7 @@ Raisons de ne pas publier :
 7. Confusion potentielle : Les multiples niveaux de réalité pourraient créer de la confusion chez les lecteurs.
 8. Manque de tension narrative : L’accent mis sur la réflexion pourrait nuire à l’engagement émotionnel du lecteur.
 9. Difficulté de marketing : Le positionnement d’un tel livre pourrait être difficile en termes de marketing.
-10. Risque de comparaison : Le texte pourrait être comparé défavorablement à d’autres œuvres métafictionnelles célèbres (point très intéressant que je développerai dans un autre article).
+10. Risque de comparaison : Le texte pourrait être comparé défavorablement à d’autres œuvres métafictionnelles célèbres ([point très intéressant que je développerai dans un autre article](litterature-comparee-ia.md).
 
 ### Quatrième de couverture
 
