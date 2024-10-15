@@ -6,7 +6,7 @@ Pousser la perversion un cran plus loin. [Après avoir généré des articles au
 
 On dirait que le roman a été lu, compris, analysé, mis en perspective alors que NotebookLM n’a eu accès qu’à des résumés, c’est ça qui est extraordinaire. On peut avoir une idée de roman, esquisser quelques lignes, et les IA peuvent donner l’illusion qu’il est réel, faisant même jaillir des points en substance dans le projet, mais qui n’ont pas nécessairement été développés. Le plus dingue, une théorie émerge : la métafiction comme arme pour donner sens au monde, et lutter contre sa falsification, que ce soit par les IA et les fake news. Ce serait l’élément humain.
 
-Tous ces textes pourraient avoir leur place à la fin du roman. Ils en reprennent les thèmes sous de nouveaux points de vue et prolongent mon travail, presque le rendant désormais inutile, ce qui n’est pas sans me tourmenter. Ai-je encore envie de demander à humain de me lire ? Est-ce que quelqu’un a envie de me lire après les IA ? Est-ce que j’ai terminé par me suicider en tant qu’auteur ?
+Tous ces textes pourraient avoir leur place à la fin du roman. Ils en reprennent les thèmes sous de nouveaux points de vue et prolongent mon travail, presque le rendant désormais inutile, ce qui n’est pas sans me tourmenter. Ai-je encore envie de demander à un humain de me lire ? Est-ce que quelqu’un a envie de me lire après les IA ? Est-ce que j’ai terminé par me suicider en tant qu’auteur ?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/96OR_CNOpjo?si=aoIFGmG1zadsgiKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
