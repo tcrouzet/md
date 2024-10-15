@@ -2,7 +2,7 @@
 
 ![Mise en abyme](_i/abyme.webp)
 
-Pousser la perversion un cran plus loin. [Après avoir généré des articles au sujet de mon nouveau manuscrit](/tag/romanduroman/), j’ai collé ces articles dans [NotebookLM](https://notebooklm.google.com/) pour générer un entretien audio au sujet de ces notes. La traduction automatique de la transcription est encore une fois surréaliste (voir plus loin).
+Pousser la perversion un cran plus loin. [Après avoir généré des articles au sujet de mon nouveau manuscrit](/tag/romanduroman/), j’ai collé ces articles dans [NotebookLM](https://notebooklm.google.com/) pour générer un entretien audio au sujet de ces notes. La traduction automatique de la transcription est encore une fois surréaliste.
 
 On dirait que le roman a été lu, compris, analysé, mis en perspective alors que NotebookLM n’a eu accès qu’à des résumés, c’est ça qui est extraordinaire. On peut avoir une idée de roman, esquisser quelques lignes, et les IA peuvent donner l’illusion qu’il est réel, faisant même jaillir des points en substance dans le projet, mais qui n’ont pas nécessairement été développés. Le plus dingue, une théorie émerge : la métafiction comme arme pour donner sens au monde, et lutter contre sa falsification, que ce soit par les IA et les fake news. Ce serait l’élément humain.
 

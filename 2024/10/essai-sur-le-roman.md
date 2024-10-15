@@ -2,9 +2,9 @@
 
 ![Lecture en danger](_i/reading2.webp)
 
-En générant des [métatextes](des-lecteurs-par-milliers.md) et [paratextes](litterature-comparee-ia.md), autour du manuscrit de mon nouveau roman, l’idée a surgi que les IA pourraient écrire un essai sur ce roman qui techniquement n’existe pas encore. Qu’à cela ne tienne, j’ai demandé à Claude de construire un plan, puis de détailler le chapitre 1, puis de l’écrire, et à y être d’ajouter une préface. 
+En générant des [métatextes](des-lecteurs-par-milliers.md) et [paratextes](litterature-comparee-ia.md) autour du manuscrit de mon nouveau roman, l’idée a surgi que les IA pourraient écrire un essai sur ce roman qui techniquement n’existe pas encore. Qu’à cela ne tienne, j’ai demandé à Claude de construire un plan, puis de détailler le chapitre 1, puis de l’écrire, et à y être d’ajouter une préface. 
 
-Je me suis contenté de couper et de rapidement le restructurer. Plus que ce texte bourré de références, c’est sa possibilité qui me questionne, son existence même, qui laisse entrevoir de pousser la mise en abyme jusqu’au vertige. Je sens déjà, en réaction, un désir de minimalisme absolu, de simplicité d’un dénuement extrême. Comme je n’en suis pas encore là, je continue les explorations (qui frisent l’indécence narcissique).
+Je me suis contenté de couper et de rapidement  restructurer. Plus que ce texte bourré de références, c’est sa possibilité qui me questionne, son existence même, qui laisse entrevoir de pousser la mise en abyme jusqu’au vertige. Je sens déjà, en réaction, un désir de minimalisme absolu, de simplicité d’un dénuement extrême. Comme je n’en suis pas encore là, je continue les explorations (qui frisent l’indécence narcissique).
 
 ### *Le dernier bastion* : Préambule
 
