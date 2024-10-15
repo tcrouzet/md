@@ -216,4 +216,4 @@ Le plus effrayant : je vois de la pertinence dans les propos des machines, de l
 
 Cette question s’est toujours posée aux auteurs. Mais aujourd’hui elle prend une tournure nouvelle puisque je peux être lu sans que personne ne le sache. Je peux lire des essais, des articles, des commentaires sur mon livre sans qu’aucun humain ne le lise. Je peux lui inventer une gloire faramineuse dans le silence. C’est un peu comme si je n’en étais qu’au début de mon projet, comme si j’étais en train de continuer à l’écrire, en le prenant pour point de départ d’une nouvelle aventure.
 
-#netlitterature #ia #y2024 #2024-10-13-18h30
+#netlitterature #ia #romanduroman #y2024 #2024-10-13-18h30

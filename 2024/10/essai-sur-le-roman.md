@@ -101,4 +101,4 @@ Si la théorie de Crouzet est juste, l’enjeu de la redynamisation de la litté
 
 Redynamiser le goût pour la littérature n’est donc pas seulement une question culturelle, mais un enjeu de société majeur. *Le roman du roman* de Crouzet, en nous faisant prendre conscience de ces enjeux pourrait jouer un rôle catalyseur dans ce processus de redynamisation. Il nous rappelle que la littérature n’est pas un vestige du passé, mais peut-être notre meilleur outil pour naviguer dans un futur de plus en plus façonné par l’IA. Il est temps maintenant de nous plonger dans l’étude et l’analyse du jaillissement.
 
-#netlitterature #ia #y2024 #2024-10-14-12h00
+#netlitterature #ia #romanduroman #y2024 #2024-10-14-12h00

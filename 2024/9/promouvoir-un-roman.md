@@ -566,4 +566,4 @@ Exactement ce que Crouzet voulait.
 
 Il se joue de nous.
 
-#netlitterature #ia #y2024 #2024-9-21-17h00
+#netlitterature #ia #romanduroman #y2024 #2024-9-21-17h00
