@@ -274,15 +274,15 @@ La réalité virtuelle.
 
 Ouais.
 
-Vivons-nous déjà dans un monde métafictionnel sans même nous en rendre compte ?
-
-Whoa, c’est une pensée qui fait exploser le cerveau.
-
-Ouais.
-
-C’est comme si nous étions tous des personnages dans une gigantesque simulation.
-
-Ouais.
+	Vivons-nous déjà dans un monde métafictionnel sans même nous en rendre compte ?
+	
+	Whoa, c’est une pensée qui fait exploser le cerveau.
+	
+	Ouais.
+	
+	C’est comme si nous étions tous des personnages dans une gigantesque simulation.
+	
+	Ouais.
 
 D’accord, maintenant, je commence vraiment à ressentir ces vibrations de *Matrix*.
 
