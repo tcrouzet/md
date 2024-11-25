@@ -196,6 +196,10 @@ Ces pensées ne me mènent nulle part, sinon à me dire que j’aime mieux mon c
 
 Isa : « Tu devrais publier un manifeste où tu expliques que tu n’écris plus que pour les IA. » Et si je tentais de l’écrire. Mais d’abord terminer le code dans lequel je m’absorbe jusqu’à l’épuisement, à coup sûr, pour mieux oublier la littérature.
 
-![Castelneau](_i/2024-10-31-155943-LoupianetCastelnau-de-Guers.webp)![Castelneau](_i/2024-10-31-160115-LoupianetCastelnau-de-Guers.webp)![Soir](_i/2024-10-31-171746-lamaison.webp)
+![Castelneau](_i/2024-10-31-155943-LoupianetCastelnau-de-Guers.webp)
+
+![Castelneau](_i/2024-10-31-160115-LoupianetCastelnau-de-Guers.webp)
+
+![Soir](_i/2024-10-31-171746-lamaison.webp)
 
 #carnets #y2024 #2024-11-25-11h00
