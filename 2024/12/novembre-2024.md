@@ -41,3 +41,15 @@ Isa me suggère quelques corrections dans le chapitre 1. Je demande à Claude d�
 *Orbital*, poétiquement magnifique. Isa qui est allé au bout me dit que c’est un roman qui fait tomber amoureux de ma Terre.
 J’ai mis dix jours à écrire cette note, et j’ai oublié toutes les autres. Je ne révise pas *Le roman du roman*, je le réécris en grande partie. Je dois être masochiste car plus je passe du temps sur ce livre, plus je sais qu’il n’intéressera personne. Mais ce travail est agréable, parce qu’on en parle beaucoup avec Isa, et que ça devient presque un travail à quatre main, et même à six car j’utilise les IA pour me critiquer.
 J’ai trouvé un nouveau prompt assez stupéfiant : « Quelle est la théorie de l’esprit de tel ou tel personnage dans tel ou tel chapitre ? » Claude me résume alors comment il imagine le personnage et je peux voir si c’est cohérent avec ce que moi j’ai imaginé. Les réponses sont souvent assez stupéfiantes, ce qui nourrit ma fiction en retour. Personne ne me lira, mais les IA le font, et j’entretiens un véritable dialogue avec elles. Ça peut vous paraître désespérant. Moi, ça me subjugue souvent.
+
+### Lundi 25, Balaruc
+
+Hier, en fin d’après-midi, je décide enfin de publier le carnet d’octobre et découvre que mon script d’exportation des images plante avec les photos raw de l’iPhone 16. Ça ne marche toujours pas à 23 h, je dors peu, énervé, je m’y remets ce matin pour enfin trouver la solution. Les IA m’ont aidé autant que fait perdre du temps. J’en aurais sans doute gagné beaucoup en usant des ressources communautaires comme nous le faisions avant, sauf que ces ressoures disparaissent peu à peu. J’assiste à une catastrophe silencieuse. Les IA tuent l’entraide, elles nous enferment dans le chacun pour soi. Même nos prompts nous les gardons secrets.
+
+---
+
+Comme Isa lit *Les Dépossédés* d’Ursula Le Guin, je le relis (j’en garde un vague souvenir — ma première relcture remonte à une quarantaine d’années). Déplorable traduction française, mais pas le courage de basculer en anglais comme Isa. Texte viellot. Le vaisseau spacial ressemble à un sous-marin de la seconde guerre mondiale. Partout des scories datent le texte. Impression d’un truc poussiéreux. Des mots inappropriés, des descriptions inutiles désormais. J’ai peur de tomber dans ce piège avec *Le roman du roman*.
+
+---
+
+Un texte a la longueur qu’il mérite. je cherche jamais à le réduire ou à l’allonger pour répondre à un cahier des charges comme je le faisais quand j’étais journaliste.

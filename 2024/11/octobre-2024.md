@@ -46,7 +46,7 @@ Ellroy : « J’écris des livres que personne d’autre n’a les couilles et
 
 ### Samedi 12, Balaruc
 
-En montagne, un homme se filme en train de courir sur un sentier. Il dit sa chance, son privilège, qu’après ça il peut mourir, et il trébuche, tombe dans un ravin, se tord le cou et meurt. Sacrifié pour les réseaux sociaux. Il ne s’agit malheureusement pas d’une histoire, mais d’un fait-divers, très très proche.
+En montagne, un homme se filme en train de courir sur un sentier. Il dit sa chance, son privilège, qu’après ça il peut mourir, et il trébuche, tombe dans un ravin, se tord le cou et meurt. C’était un copain, je suis bouleversé.
 
 ![Soir](_i/2024-10-12-185600-lamaison.webp)
 
@@ -68,7 +68,7 @@ Quand je postule que [les auteurs devraient soumettre leurs textes à la compara
 
 Sensation de toucher des couches vertigineuses de la réflexivité narrative avec mes dernières expériences IA. Que tout cela mérite discussions, réflexions, critiques, approfondissements, mais je suis seul, ou je ne vois pas les autres qui auraient envie de faire un pas dans cette direction. Soit je suis complètement dingue, prisonnier d’un solipsisme littéraire, soit je reste un des derniers curieux pour l’ultracontemporain.
 
-Peut-être que je suis fou, prisonnier de délires, et je me suis isolé, ou les autres m’ont isolé parce qu’ils ne savent pas me dire ma maladie. À minima, je conserve le don de l’enthousiasme juvénile, cette force ne s’est pas tarie en moi. Ou peut-être que ma maladie est contagieuse. Quelle fiche la trouille. Mais moi le premier j’ai la trouille. Qu’est-ce qu’exister en tant qu’humain et en tant que créateur ? Je n’ai de certitude que pour la souffrance. Est-ce qu’il y a plus que ça pour être humain ?
+Peut-être que je suis fou, prisonnier de délires, et je me suis isolé, ou les autres m’ont isolé parce qu’ils ne savent pas me dire ma maladie. À minima, je conserve le don de l’enthousiasme juvénile, cette force ne s’est pas tarie en moi. Ou peut-être que ma maladie est contagieuse. Qu’elle fiche la trouille. Mais, moi le premier, j’ai la trouille. Qu’est-ce qu’exister en tant qu’humain et en tant que créateur ? Je n’ai de certitude que pour la souffrance. Est-ce qu’il y a plus que ça pour être humain ?
 
 Je veux quoi ? Je cherche à tracer ma route, celle qui ne vaut que pour moi et après je m’étonne d’y être seul. Tous ceux qui ne sont pas seuls dans cette quête des beautés d’aujourd’hui appartiennent à une église et ne parlent que de la beauté de l’église. Ils ont oublié d’être eux-mêmes, ils ne savent plus être eux-mêmes que dans l’église. C’est un peu comme à vélo refaire cent fois les mêmes chemins.
 
