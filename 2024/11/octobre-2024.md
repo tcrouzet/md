@@ -150,7 +150,7 @@ Puis le sujet de ce roman ? Merde, il n’y a pas plus important aujourd’hui 
 
 ### Mardi 22, Balaruc
 
-Plutôt que m’interroger sur mon livre, je replonge dans le code, sans nécessité, pour le plaisir de sentir mon cerveau en ébullition. J’essaie toujours d’adopter de nouvelles techniques, de me mettre à jour. C’est comme apprendre une nouvelle langue, ou tout au moins un nouveau dialecte. Il paraît que c’est important pour maintenir son intellect en état. Durant les premières heures, je panique, j’ai peur de ne pas y arriver, puis peu à peu les briquent s’emboîtent et je finis par perdre le sommeil.
+Plutôt que m’interroger sur mon livre, je replonge dans le code, sans nécessité, pour le plaisir de sentir mon cerveau en ébullition. J’essaie toujours d’adopter de nouvelles techniques, de me mettre à jour. C’est comme apprendre une nouvelle langue, ou tout au moins un nouveau dialecte. Il paraît que c’est important pour maintenir son intellect en état. Durant les premières heures, je panique, j’ai peur de ne pas y arriver, puis peu à peu les briques s’emboîtent et je finis par perdre le sommeil.
 
 ![Nuages](_i/2024-10-22-131426-lamaison.webp)
 
