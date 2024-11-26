@@ -16,7 +16,7 @@ Duras : « La maison appartient à la femme. » Alors, je suis une femme.
 
 ---
 
-Je fais des courses, devant moi une femme boulotte, blonde, avec elle sa fille, plus grande qu’elle, tout aussi blonde, belle, avec des cheveux magnifiques qui lui descendent jusqu’aux fesses, des cheveux peignés et repeignés, entretenus durant des heures, et je pense que la fille deviendra bientôt ronde comme sa mère. Pourvvu qu’elle oublie vite ses cheveux pour se concentrer sur ce qui est profond. La vendeuse s’extasie devant sa beauté. « Tu pourrais être modèle. » J’aimerais qu’elle soit un modèle non de paraître, mais de passion. Je trouve inquiétant tout ce temps passé à s’occuper de son apparence. C’est une maladie mentale.
+Je fais des courses, devant moi une femme boulotte, blonde, avec elle sa fille, plus grande qu’elle, tout aussi blonde, belle, avec des cheveux magnifiques qui lui descendent jusqu’aux fesses, des cheveux peignés et repeignés, entretenus durant des heures, et je pense que la fille deviendra bientôt ronde comme sa mère. Pourvu qu’elle oublie vite ses cheveux pour se concentrer sur ce qui est profond. La vendeuse s’extasie devant sa beauté. « Tu pourrais être modèle. » J’aimerais qu’elle soit un modèle non de paraître, mais de passion. Je trouve inquiétant tout ce temps passé à s’occuper de son apparence. C’est une maladie mentale.
 
 ### Dimanche 6, Balaruc
 
@@ -32,7 +32,7 @@ Quand tu te dis que le livre est terminé, qu’il te reste plus qu’à le corr
 
 ### Mardi 8, Balaruc
 
-Quand un éditeur me dit : « Le marché se concentre sur ce que les gens ont envie de lire, de bons algorithmes, des constructions narratives qui correspondent à ce que les gens espèrent… » ou « Les lecteurs n’attendent que ce que les algorithmes préconisent. » Et après les auteurs crachent sur les IA, parce qu’elles font aussi bien qu’eux, mais quand tu fais autre chose, quand tu sors des rails, il y a plus personne. C’est un peu comme se retrouver seul au monde quand je fais du vélo, et j’aime ça finalement, cet air de liberté.
+Quand un éditeur me dit : « Le marché se concentre sur ce que les gens ont envie de lire, de bons algorithmes, des constructions narratives qui correspondent à ce que les gens espèrent… » ou « Les lecteurs n’attendent que ce que les algorithmes préconisent. » Et après les auteurs crachent sur les IA, parce qu’elles font aussi bien qu’eux, mais quand tu fais autre chose, quand tu sors des rails, il n’y a plus personne. C’est un peu comme se retrouver seul au monde quand je fais du vélo, et j’aime ça finalement, cet air de liberté.
 
 ![Nuage](_i/2024-10-08-192642-lamaison.webp)
 
@@ -172,7 +172,7 @@ François ne peut faire autrement parce qu’il s’est dirigé vers la vidéo d
 
 J’ai passé ma vie à écrire des livres qui n’intéressent personne ou presque, c’est pathétique, d’autant que je ne suis pas le seul scribouillard pathétique, mais j’ai peut-être la palme de celui qui a le plus écrit pour le néant. Est-ce que je voudrais être un autre auteur ? Sans doute pas. Mes contemporains ne me font pas envie. Ils m’ennuient souvent. Si je les aimais avec passion, je n’aurais pas besoin d’écrire. Non, ils sont dans leurs délires, et moi dans les miens, et nos mondes ne se croisent pas.
 
-Je suis devenu un vieux sans valeur pour la chaîne du livre. Un canasson qui n’a plus la moindre chance d’emporter une course. Faut que je regarde les choses en face. Il ne me reste plus que l’autopublication. Un truc ridicule pour se prétendre libre alors que c’est la preuve qu’on n’intéresse personne. Seuls les aveugles ne l’admettent pas. Bon, c’est l’humeur du soir. Demain, je penserai le contraire, mais ces pensées me traversent souvent, de plus en plus souvent. Je ne peux pas les nier. Je les écris pour les fixer dans toutes leurs dépressions et trouver, peut-être, la force de les dépasser.
+Je suis devenu un vieux sans valeur pour la chaîne du livre. Un canasson qui n’a plus la moindre chance d’emporter une course. Faut que je regarde les choses en face. Il ne me reste plus que l’autopublication. Un truc ridicule pour se prétendre libre alors que c’est la preuve qu’on n’intéresse personne. Seuls les aveugles ne l’admettent pas. C’est l’humeur du soir. Demain, je penserai le contraire, mais ces pensées me traversent souvent, de plus en plus souvent. Je ne peux pas les nier. Je les écris pour les fixer dans toutes leurs dépressions et trouver, peut-être, la force de les dépasser.
 
 ![17h](_i/2024-10-27-175337-lamaison.webp)
 
@@ -182,7 +182,7 @@ Ne pas dire est la meilleure chose que je peux faire. Mais ici je devrais le fai
 
 Je mène une intense vie artistique à laquelle il manque le regard des autres. C’est d’une banalité à laquelle l’époque n’a rien changé, et que les réseaux sociaux n’ont fait qu’aggraver alors qu’ils promettaient la lumière à tous. Contrairement à d’autres dans mon cas, j’ai une famille, des amis, un confort matériel. Presque trop de luxe pour que mes errances soient poignantes.
 
-Je suis un paradoxe. Depuis toujours, la technologie et l’ultracontemporain me passionnent et je reste englué dans un des arts les plus anciens, comme si je refusais de me laisser emporter par l’objet que je regarde, dans l’espoir de mieux le regarder. À une autre époque, j’aurais écrit en latin alors que mes contemporains auraient tous opté pour le vernaculaire (la vidéo, le jeu vidéo, la littérature générée en masse par IA dont tous les auteurs usent sans le dire…).
+Je suis un paradoxe. Depuis toujours, la technologie et l’ultracontemporain me passionnent et je reste englué dans un des arts les plus anciens, comme si je refusais de me laisser emporter par l’objet que je regarde, dans l’espoir de mieux le regarder. À une autre époque, j’aurais écrit en latin alors que mes contemporains auraient opté pour le vernaculaire (la vidéo, le jeu vidéo, la littérature générée en masse par IA dont tous les auteurs usent sans le dire…).
 
 Ces pensées ne me mènent nulle part, sinon à me dire que j’aime mieux mon cerveau quand il code, alors je m’en retourne coder, ce qui n’est pour moi qu’une forme de jeu vidéo.
 
