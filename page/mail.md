@@ -12,6 +12,8 @@ Encore une vague présence en ligne…
 
 * [FacebookPage](https://www.facebook.com/ThierryCrouzetAuteur/)
 
+* [BlueSky](https://bsky.app/profile/crouzet.bsky.social)
+
 * [Mastodon](https://mamot.fr/@tcrouzet)
 
 * [Linkedin](https://fr.linkedin.com/in/tcrouzet)
@@ -19,8 +21,6 @@ Encore une vague présence en ligne…
 Des vestiges ailleurs…
 
 * Twitter (@crouzet fermé le 31/10/2023)
-
-* [BlueSky](https://bsky.app/profile/crouzet.bsky.social)
 
 * [Whereby](https://whereby.com/tcrouzet)
 
