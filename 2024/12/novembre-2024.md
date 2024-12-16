@@ -36,7 +36,7 @@ Isa me suggère quelques corrections dans le chapitre 1. Je demande à Claude d�
 
 ---
 
-Étrange époque, où on montre la violence à plus soif dans les films et séries, des corps découpés, torturés, mais où on répugne à montrer la nudité, où on cache les sexes, où les scènes d’amour restent réservées à la pornographie pure et simple. Une inversion des priorités de la censures.
+Étrange époque, où on montre la violence à plus soif dans les films et séries, des corps découpés, torturés, mais où on répugne à montrer la nudité, où on cache les sexes, où les scènes d’amour restent réservées à la pornographie pure et simple. Une inversion des priorités de la censures. Tous les régimes autoritaires, prone à la violence, réprime la sexualité libre. c’est très étrange. Les dictateurs seraient-ils coincés ? Peut-être parce qu’ils sont toujours des ultraconservateurs.
 
 ### Dimanche 24, Balaruc
 
@@ -82,16 +82,26 @@ Parfois je me dis que je devrais enregistré toutes les conversations avec les I
 
 ### Jeudi 28, Balaruc
 
-Pour organiser mes évènements vélo, je suis au bureau du club, avec certaines personnes si éloignées de moi que c’est comme si je discutais avec des extraterrestres. Aucune des maux de notre société n’ont été analysés, étudiés, critiqués, souspesés. Le monde est pris tel quel, à gros coups de clichés populistes. Tout est fait comme la répétition de gestes déjà faits. « On fait comme ça depuis vingt ans. » Je peux pas entendre pire argument, moi qui passe mon temps plongé dans les nouvelles technologies. Tout ça me fait du mal, et je me demande ce que je fiche là, l’amitier me retient encore, mais ça me mine. J’accepte l’innacceptable.
+Pour organiser mes évènements vélo, je suis au bureau du club, avec certaines personnes si éloignées de moi que c’est comme si je discutais avec des extraterrestres. Aucune des maux de notre société n’ont été analysés, étudiés, critiqués, souspesés. Le monde est pris tel quel, à gros coups de clichés populistes. Tout est fait comme la répétition de gestes déjà faits. « On fait comme ça depuis vingt ans. » Je ne connais pas pire argument, qui frole le dgrès zéro de l’entendement (pendant cent ans on a sacagé la planète, continuons). Tout ça me fait du mal, et je me demande ce que je fiche là, l’amitier me retient, mais ça me mine. J’accepte l’innacceptable.
 
-Je prends conscience qu’autour de la table les uns ont toujours travaillé dans des structures hirérachiques, soit acceptant de recevoir des ordres, soit d’en donner, et n’envisagent pas d’autres modalités, alors que les autres sont indépendants, sans pouvoir sur qui ce soit et sans désir d’être sous l’emprise de qui ce soit. J’ai encore du mal à comprendre pourquoi tout le monde n’apartient pas à cette seconde catégorie. Les maîtres et les esclaves n’ont pas disparu, ils restent même majoritaire.
+Je prends conscience qu’autour de la table les uns ont toujours travaillé dans des structures hirérachiques, soit acceptant de recevoir des ordres, soit d’en donner, et n’envisagent pas d’autres modalités, alors que les autres sont indépendants, sans pouvoir sur qui ce soit et sans résignation à être sous l’emprise de qui ce soit. J’ai encore du mal à comprendre pourquoi tout le monde n’apartient pas à cette seconde catégorie. Les maîtres et les esclaves n’ont pas disparu, ils restent même majoritaires, et tous ceux dans ce genre s’aspire qu’à dominer quitte à finir dominés.
 
 Quand j’ai évoqué *No Logo* de Naomi Klein, quand j’ai dit que des maillots couverts de publicité nous transforment en objet publicitaire, ce qui nie notre identitié, pour faire de nous des produits, et des gignols, ces bougres ont rigolé comme si j’avais dit une bourde monumentale. En gros me traitant d’imbécile, sans doute pensant gros con d’écologiste, alors que ça n’a rien à voir avec l’écologie.
 
-Je devrais rire, ça me désespère. Je peux parler de tout cela librement ici, parce que ceux capable de lire seront de mon avis, et c’est tout le problème : l’incapacité à dépasser sa communauté intellectuelle (et je suis incapable d’avancer à reculon).
+Je devrais rire, ça me désespère. Je peux parler de tout cela librement ici, parce que ceux capables de lire seront de mon avis, et c’est tout le problème : l’incapacité à dépasser sa communauté intellectuelle (et je suis incapable d’avancer à reculon).
+
+Isa me dit que j’ai d’autres combats à mener avec mon roman qu’elle estime important. Elle me demande d’en faire quelque chose, parce que ça en vaut la peine. Ça me fait beaucoup de bien. Toutes les tensions se relâchent.
 
 ### Vendredi 29, Balaruc
 
 [Article important](https://www.forbes.com/sites/steveandriole/2024/11/28/notebooklm-is-to-words-what-excel-is-to-numbers/) qui explique que NotebookLM est aux textes ce que Excel est aux nombres. Je me remettrai aux expériences avec l’outil dans ma prochaine phase de travail sur mon roman, mais bien prendre conscience que nous disposons désormais d’outils extraordinaires pour faire parler nos textes, et les regarder sous de multiples facettes, ce qui nous permet de prendre de la distance, et sans doute de pouvoir les faire évoluer de manière radicalement nouvelles.
 
 Je ne sais pas si ce sera perceptible dans mon nouveau roman, écrit contre les IA, pour le paisir d’écrire, pour aller où elles ne peuvent pas encore aller, mais sans renoncer à leurs analyses pour m’aider à voir ce que je n’ai pas vu, et peut-être à le réinjecte dans le texte, jusqu’à ce que mon édifice me paraissent achevé (bien que cette idée d’achèvement n’ait plus beaucoup de sens, puisque que la réflexivité assistée par les machines est potentiellement infini — écrire un article à se sujet, quand j’en aurai terminé avec le texte — j’apprends tant de choses et ne prends pas assez de temps de les partager).
+
+### Samedi 30, Balaruc
+
+*Les Dépossédés* me tombe des mains. Les héros est un physicien d’une physique absurde, sans fondement, qui ne nous apporte rien, ne nous fait pas rêver, et dont il ne cesse de parler. « Blablabla durant des pages. » Les sitations caricaturales. Trop didactiques. J’arrête. Je sais que j’ai déjà lu le livre, mais incapanle de me souvenir quel effet il m’a fait à l’époque. J’avais relu *La main gauche de la nuit* avec beaucoup plus de plaisir. Ça pause la question de ce qui tient l’épreuve du temps. Je demanderai aux IA d’analyser mon roman pour y chercher ce qui pourrait vite se périmer.
+
+---
+
+Idée : un homme noir découvre soudain qu’il est le seul noir au monde (parce que tous les autres ont été éliminés — ou parce qu’il est une anomalie — ou parce qu’il est fou).
