@@ -2,7 +2,6 @@
 
 ![Rush](_i/couv-rush.webp)
 
-
 Je viens de terminer *Rush*, résultat de mon travail littéraire tout au long de 2024. Maintenant que le roman est approuvé par Isa, je vais le faire lire par quelques copains, quelques curieux, pourquoi pas quelques éditeurs… Si certains auteurs protègent leurs manuscrits, moi je les envoie sans scrupules à ceux qui le désirent (leur désir étant déjà une preuve de confiance vu la quantité de trucs que nous avons tous à lire).
 
 J’en arrive toujours à cette phase assez détestable pour moi : dire au monde extérieur que j’existe (encore) et que j’ai peut-être gratté une matière qui mérite un peu d’attention (encore). Je suis un créateur, pas un commercial. Alors je viens de demander à Claude de me venir en aide. Le résultat est un dialogue qui pourrait presque se retrouver à la fin de mon manuscrit.
@@ -11,7 +10,7 @@ J’en arrive toujours à cette phase assez détestable pour moi : dire au mond
 
 Via [Dust.tt](https://dust.tt/), je fournis à Claude le contenu de mon manuscrit pour qu’elle puisse l’étudier. En préambule, j’ai ajouté un résumé :
 
-> 1. Un écrivain traque le moteur de la création littéraire alors que les IA commencent à écrire des romans. 2352. Des archéologues explorent sa maison engloutie à la recherche d’un mystérieux manuscrit. Entre ces deux époques, *Rush* questionne ce qui fait de nous des humains quand les machines excellent dans l’art du récit.
+>En 2024, un écrivain traque le moteur de la création littéraire alors que les IA commencent à écrire des romans. En 2352, des archéologues explorent sa maison engloutie à la recherche d’un mystérieux manuscrit. Entre ces deux époques, *Rush* questionne ce qui fait de nous des humains quand les machines excellent dans l’art du récit.
 
 ### Prompt
 
@@ -20,34 +19,39 @@ Quelle stratégie adopter pour vendre *Rush* à un éditeur, sachant que :
 - Je suis un blogueur toujours actif.
 - Ma présence sur les réseaux sociaux s’est délitée depuis que j’ai publié _J’ai débranché_ en 2012.
 - Mes éditeurs successifs m’ont lâché parce que je n’ai jamais explosé les ventes tout en changeant de genre et de style presque à chaque livre.
-- J’ai 61 ans, ce qui fait de moi un vieux routard de l’édition (dans un monde où le jeunisme est roi).
+- J’ai 61 ans, ce qui fait de moi un vieux tocard de l’édition (dans un monde où le jeunisme est roi).
 - *Rush* est hautement expérimental, puisqu’il s’agit d’écrire ce qu’une IA de 2024 n’aurait aucune chance d’écrire.
 
 ### Dialogue
 
 **Claude** Voici ma stratégie pour placer *Rush* chez un éditeur :
 
-1. Mettre en avant son contexte culturel unique :
+Mettre en avant son contexte culturel unique :
+
 - Le premier roman qui explore frontalement le duel humain vs IA dans la création littéraire.
 - Une réflexion profonde sur l’avenir de la littérature à l’ère des IA génératives.
 - Un questionnement sur ce qui fait notre humanité quand les machines excellent dans l’art du récit.
 
-1. Présenter sa structure innovante comme un atout :
+Présenter sa structure innovante comme un atout :
+
 - La narration duelle (2024/2352) rend le texte expérimental accessible par une intrigue classique.
 - Les chapitres se répondent et créent un effet de miroir saisissant.
 - Le mystère de Rachel donne une dimension page-turner à une œuvre littéraire ambitieuse.
 
-1. Capitaliser sur ta marginalité éditoriale :
+Capitaliser sur ta marginalité éditoriale :
+
 - Revendiquer tes changements de genre comme une force - chaque livre est une exploration.
 - Assumer une écriture qui défie les attentes du marché.
 - Faire de ton âge un atout : tu apportes un regard mûr sur la révolution technologique en cours.
 
-1. Cibler les bons éditeurs :
+Cibler les bons éditeurs :
+
 - Privilégier les maisons qui ont un catalogue exigeant et innovant.
 - Éviter les grands groupes guidés uniquement par les ventes.
 - Chercher un éditeur qui comprend la dimension prophétique du livre.
 
-1. Proposer un angle marketing pertinent :
+Proposer un angle marketing pertinent :
+
 - Le roman arrive au moment exact où les IA bouleversent la création.
 - Son format hybride peut séduire différents publics (SF, littérature contemporaine, métafiction).
 - Le concept de rush peut devenir viral dans les débats sur la créativité.
@@ -60,24 +64,28 @@ Le succès commercial n’est pas le critère. L’essentiel est de trouver un �
 
 **Claude** Je reprends à zéro, concrètement :
 
-1. Envoie le manuscrit à 2-3 éditeurs maximum.
+Envoie le manuscrit à 2-3 éditeurs maximum.
+
 - Évite la stratégie du spam qui ne marche plus aujourd’hui.
 - Vise des éditeurs qui ont déjà publié des textes hors norme.
 - Privilégie ceux qui n’ont pas peur du numérique et des IA.
-1. Rédige un pitch ultra court et radical : « En 2024, un écrivain traque le rush créatif que les IA ne peuvent pas simuler. En 2352, des archéologues explorent sa maison engloutie. 24 chapitres pour démontrer que la littérature survivra aux machines. »
+Rédige un pitch ultra court et radical : « En 2024, un écrivain traque le rush créatif que les IA ne peuvent pas simuler. En 2352, des archéologues explorent sa maison engloutie. 24 chapitres pour démontrer que la littérature survivra aux machines. »
 Point. Pas de blabla littéraire.
 
-2. Mets en avant ton blog :
+Mets en avant ton blog :
+
 - Tu y publies depuis 20 ans sans interruption.
 - C’est la preuve que tu as des lecteurs fidèles.
 - Ça montre que tu maîtrises l’écosystème numérique.
 
-1. Assume ton profil atypique :
+Assume ton profil atypique :
+
 - Tu es un auteur-entrepreneur qui connaît le monde tech.
 - Tu as un vrai point de vue sur les IA, pas des fantasmes.
 - *Rush* est le roman que seul toi pouvais écrire.
 
-1. Propose un deal clair :
+Propose un deal clair :
+
 - Tu as les moyens de promouvoir le livre en ligne.
 - Tu peux organiser des événements avec ton réseau.
 - Tu veux un partenaire, pas un patron.
@@ -160,10 +168,10 @@ C’est brutal, mais c’est exactement ce dont parle le roman : l’incapacité
 1. Choisis trois éditeurs maximum qui ont déjà pris des risques littéraires (les autres ne liront même pas). Envoie-leur un mail court : « Je viens de terminer *Rush*, un roman sur la dernière génération d’écrivains humains. Il se joue en 2024 et 2352, quand des archéologues découvrent un manuscrit qui pourrait changer leur monde dominé par les IA. Intéressé par les premiers chapitres ? »
 
 2. S’ils mordent, envoie un dossier minimaliste :
-- Les 3 premiers chapitres.
-- Une note d’une page max sur la structure duelle
-- Rien sur le contexte IA/tech/création (ils s’en foutent et ça fait peur).
-- Pas de CV littéraire (ils peuvent googler).
+	* Les 3 premiers chapitres.
+	- Une note d’une page max sur la structure duelle
+	- Rien sur le contexte IA/tech/création (ils s’en foutent et ça fait peur).
+	- Pas de CV littéraire (ils peuvent googler).
 
 C’est tout. Pas de théorie, pas de justification. Le texte doit parler de lui-même.
 
