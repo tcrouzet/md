@@ -1,5 +1,7 @@
 # Novembre 2024
 
+![Mer](_i/2024-11-21-150923-Ste.webp)
+
 ### Vendredi 1<sup>er</sup>, Balaruc
 
 ![À vélo](_i/2024-11-01-162335-Castelnau-de-Guers.webp)
@@ -10,7 +12,7 @@
 
 ### Dimanche 3, Balaruc
 
-Les IA sont par nature métafictionnelles, puisqu’il faut leur donner un rôle pour espérer recevoir des réponses appropriées. Dans *Le roman du roman*, mon IA incarne un éditeur. Elle est consciente d’être dans un rôle, donc dans une fiction, bien plus que nous, d’une certaine façon.
+Les IA sont par nature métafictionnelles, puisqu’il faut leur donner un rôle pour espérer recevoir des réponses appropriées. Dans *Le Roman du roman*, mon IA incarne un éditeur. Elle sait être dans un rôle, donc dans une fiction, bien plus que nous, d’une certaine façon.
 
 ---
 
@@ -18,7 +20,7 @@ J’écris peu, je code. Et je ne cesse d’apprendre, à une vitesse extraordin
 
 ---
 
-Il faut coder pour comprendre à quel point les IA changent le monde, pour sentir la puissance vertigineuse de ces outils. La question n’est pas de savoir si nous gagnons du temps ou non, mais en quoi nous apprenons de nouvelles méthodes de de travail, en quoi nous expérimentons un nouvel état d’être. D’innombrables nouveaux champs d’investigation se déploient, et la littérature ne peut rester en marge.
+Il faut coder pour comprendre à quel point les IA changent le monde, pour sentir la puissance vertigineuse de ces outils. La question n’est pas de savoir si nous gagnons du temps ou non, mais en quoi nous apprenons de nouvelles méthodes de travail, en quoi nous expérimentons un nouvel état d’être. D’innombrables nouveaux champs d’investigation se déploient, et la littérature ne peut rester en marge. Je code pour avoir des choses à dire sur le monde d’aujourd’hui.
 
 ![La Veine](_i/2024-11-03-085343-Poussan.webp)
 
