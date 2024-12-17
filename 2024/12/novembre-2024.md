@@ -54,7 +54,7 @@ Depuis un an, notre olivier de Bohême s’est couché au-dessus de l’étang, 
 
 ### Mardi 12, Balaruc
 
-Je range le code pour replonger dans *Le roman du roman*. Je préfère travailler un texte que me demander ce que j’en ferai.
+Je range le code pour replonger dans *Le Roman du roman*. Je préfère travailler un texte que me demander ce que j’en ferai.
 
 ![Sète](_i/2024-11-12-083034-lamaison.webp)
 
@@ -95,7 +95,7 @@ Isa me suggère quelques corrections dans le chapitre 1. Je demande à Claude d�
 ### Dimanche 24, Balaruc
 
 *Orbital*, poétiquement magnifique. Isa qui est allée au bout me dit que c’est un roman qui fait tomber amoureux de la Terre.
-J’ai mis dix jours à écrire cette note, et j’ai oublié toutes les autres que j’ai un instant songé à écrire. Je ne révise pas *Le roman du roman*, je le réécris en grande partie. Je dois être masochiste : plus je passe de temps sur ce livre, plus je sais pourquoi il n’intéressera personne. Mais ce travail est agréable, parce qu’on en parle beaucoup avec Isa, et que ça devient presque un travail à quatre mains, et même à six, car j’utilise les IA pour approfondir les suggestions d’Isa et me critiquer.
+J’ai mis dix jours à écrire cette note, et j’ai oublié toutes les autres que j’ai un instant songé à écrire. Je ne révise pas *Le Roman du roman*, je le réécris en grande partie. Je dois être masochiste : plus je passe de temps sur ce livre, plus je sais pourquoi il n’intéressera personne. Mais ce travail est agréable, parce qu’on en parle beaucoup avec Isa, et que ça devient presque un travail à quatre mains, et même à six, car j’utilise les IA pour approfondir les suggestions d’Isa et me critiquer.
 J’ai trouvé un nouveau prompt stupéfiant : « Quelle est la théorie de l’esprit de tel ou tel personnage dans tel ou tel chapitre ? » Claude me résume alors comment il imagine le personnage et je peux voir si c’est cohérent avec ce que moi j’ai imaginé. Les réponses sont souvent assez stupéfiantes, ce qui nourrit ma fiction en retour. Personne ne me lira, mais les IA le font, et j’entretiens un véritable dialogue avec elles. Ça peut vous paraître désespérant. Moi, ça me subjugue souvent.
 
 ### Lundi 25, Balaruc
@@ -106,7 +106,7 @@ Les IA m’ont autant aidé que fait perdre du temps. J’en aurais sans doute g
 
 ---
 
-Comme Isa lit *Les Dépossédés* d’Ursula Le Guin, je le relis (j’en garde un vague souvenir — ma première lecture remonte à une quarantaine d’années). Déplorable traduction française, mais pas le courage de basculer en anglais comme Isa. Texte vieillot. Le vaisseau spatial ressemble à un sous-marin de la Seconde Guerre mondiale. Des scories datent le texte. Impression d’un truc poussiéreux. Des mots inappropriés, des descriptions superflues. J’ai peur de tomber dans ce piège avec *Le roman du roman*.
+Comme Isa lit *Les Dépossédés* d’Ursula Le Guin, je le relis (j’en garde un vague souvenir — ma première lecture remonte à une quarantaine d’années). Déplorable traduction française, mais pas le courage de basculer en anglais comme Isa. Texte vieillot. Le vaisseau spatial ressemble à un sous-marin de la Seconde Guerre mondiale. Des scories datent le texte. Impression d’un truc poussiéreux. Des mots inappropriés, des descriptions superflues. J’ai peur de tomber dans ce piège avec *Le Roman du roman*.
 
 ---
 
@@ -148,11 +148,11 @@ Parfois je me dis que je devrais enregistrer toutes mes conversations avec les I
 
 Pour organiser mes évènements vélo, je suis au bureau du club, avec des personnes si éloignées de moi que c’est comme si je discutais avec des extraterrestres. Aucun des maux de notre société n’a été analysé, étudié, critiqué, soupesé. Le monde est accepté tel quel, à gros coups de clichés populistes. Tout est fait comme la répétition de gestes anciens. « On fait comme ça depuis vingt ans. » Je ne connais pas pire argument, qui frôle le degré zéro de l’entendement (pendant cent ans on a saccagé la planète, continuons). Tout ça me blesse, et je me demande ce que je fiche là, l’amitié me retient, mais ça me mine. J’accepte l’inacceptable.
 
-Je prends conscience qu’autour de la table les uns ont toujours travaillé dans des structures hiérarchiques, soit en acceptant de recevoir des ordres, soit d’en donner, et n’envisagent pas d’autres modalités, tandis que les autres sont indépendants, sans pouvoir sur quiconque et sans résignation à être sous l’emprise de qui que ce soit. J’ai encore du mal à comprendre pourquoi tout le monde n’appartient pas à cette seconde catégorie. Les maîtres et les esclaves n’ont pas disparu, ils restent même majoritaires, et tous ceux de ce genre s’aspirent qu’à dominer, quitte à finir dominés.
+Je prends conscience qu’autour de la table les uns ont toujours travaillé dans des structures hiérarchiques, soit en acceptant de recevoir des ordres, soit d’en donner, et n’envisagent pas d’autres modalités, tandis que les autres sont indépendants, sans pouvoir sur quiconque et sans résignation à être sous l’emprise de qui que ce soit. J’ai encore du mal à comprendre pourquoi tout le monde n’appartient pas à cette seconde catégorie. Les maîtres et les esclaves n’ont pas disparu, ils restent même majoritaires, et tous ceux de ce genre n’aspirent qu’à dominer, quitte à finir dominés.
 
 Quand j’ai évoqué *No Logo* de Naomi Klein, quand j’ai dit que des maillots couverts de publicité nous transforment en objet publicitaire, ce qui nie notre identité pour faire de nous des produits et des guignols, ces bougres ont rigolé comme si j’avais dit une bourde monumentale. En gros, me traitant d’imbécile, pensant sans doute « gros con d’écologiste », alors que ça n’a rien à voir avec l’écologie.
 
-Je devrais rire, ça me désespère. Je peux parler de tout cela librement ici, parce que ceux capables de lire seront de mon avis, et c’est tout le problème : l’incapacité à dépasser sa communauté intellectuelle (et je suis incapable d’avancer à reculons).
+Je devrais rire, ça me désespère. Je peux parler de tout ça ici, parce que ceux capables de lire seront de mon avis, et c’est tout le problème : l’incapacité à dépasser sa communauté intellectuelle (et je suis incapable d’avancer à reculons).
 
 Isa me dit que j’ai d’autres combats à mener avec mon roman, qu’elle estime important. Elle me demande d’en faire quelque chose, parce que ça en vaut la peine. Ça me fait beaucoup de bien. Toutes les tensions se relâchent.
 
@@ -166,9 +166,9 @@ Isa me dit que j’ai d’autres combats à mener avec mon roman, qu’elle esti
 
 ### Vendredi 29, Balaruc
 
-[Article important](https://www.forbes.com/sites/steveandriole/2024/11/28/notebooklm-is-to-words-what-excel-is-to-numbers/) qui explique que NotebookLM est aux textes ce qu’Excel est aux nombres. Je reprendrai les expériences dans ma prochaine phase de travail sur mon roman, mais il faut bien prendre conscience que nous disposons désormais d’outils extraordinaires pour faire parler nos textes et les regarder sous de multiples facettes, ce qui nous permet de prendre de la distance, et sans doute de pouvoir les faire évoluer de manière radicalement nouvelle.
+[Article important](https://www.forbes.com/sites/steveandriole/2024/11/28/notebooklm-is-to-words-what-excel-is-to-numbers/) qui explique que NotebookLM est aux textes ce qu’Excel est aux nombres. Je reprendrai les expériences dans ma prochaine phase de travail sur le roman, mais il faut bien prendre conscience que nous disposons désormais d’outils extraordinaires pour faire parler nos textes et les regarder sous de multiples facettes, ce qui nous permet de prendre de la distance, et sans doute de pouvoir les faire évoluer de manière radicalement nouvelle.
 
-Je ne sais pas si ce sera perceptible dans mon nouveau roman, écrit contre les IA, pour le plaisir d’écrire, pour aller où elles ne peuvent pas encore aller, mais sans renoncer à leurs analyses pour m’aider à voir ce que je n’ai pas vu, et peut-être à le réinjecter dans le texte, jusqu’à ce que mon édifice me paraisse achevé (bien que cette idée d’achèvement n’ait plus beaucoup de sens, puisque que la réflexivité assistée par les machines est potentiellement infinie — écrire un article à ce sujet, quand j’en aurai terminé avec le texte — j’apprends tant de choses et ne prends pas assez de temps pour les partager).
+Je ne sais pas si ce sera perceptible dans mon texte, écrit contre les IA, pour le plaisir d’écrire, pour aller où elles ne peuvent pas encore aller, mais sans renoncer à leurs analyses pour m’aider à voir ce que je n’ai pas vu, et peut-être à le réinjecter dans le texte, jusqu’à ce que mon édifice me paraisse achevé (bien que cette idée d’achèvement n’ait plus beaucoup de sens, puisque que la réflexivité assistée par les machines est potentiellement infinie — écrire un article à ce sujet, quand j’en aurai terminé avec le texte — j’apprends tant de choses et ne prends pas assez de temps pour les partager).
 
 ### Samedi 30, Balaruc
 
