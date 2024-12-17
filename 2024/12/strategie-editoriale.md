@@ -8,7 +8,7 @@ J’en arrive toujours à cette phase assez détestable pour moi : dire au mond
 
 ### Source
 
-	Via [Dust.tt](https://dust.tt/), je fournis à Claude mon manuscrit pour qu’elle puisse l’étudier. En préambule, j’ai ajouté un résumé :
+Via [Dust.tt](https://dust.tt/), je fournis à Claude mon manuscrit pour qu’elle puisse l’étudier. En préambule, j’ai ajouté un résumé :
 
 >En 2024, un écrivain traque le moteur de la création littéraire alors que les IA commencent à écrire des romans. En 2352, des archéologues explorent sa maison engloutie à la recherche d’un mystérieux manuscrit. Entre ces deux époques, *Rush* questionne ce qui fait de nous des humains quand les machines excellent dans l’art du récit.
 
