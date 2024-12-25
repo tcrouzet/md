@@ -4,7 +4,7 @@ Comme [Francesco Casabaldi](http://francescocasabaldi.typepad.com/) est en train
 
 J’ai une objection toute simple : les freemen existent depuis que les hommes existent, problème climatique ou non. Les freemen doivent s’intéresser à ce problème mais il ne les définit pas.
 
-Quand un industriel pollue une rivière, il réduit la liberté de tous les gens qui vivent autour de cette rivière. Ils ne peuvent plus se baigner, utiliser l’eau pour boire ou pour irriguer...
+Quand un industriel pollue une rivière, il réduit la liberté de tous les gens qui vivent autour de cette rivière. Ils ne peuvent plus se baigner, utiliser l’eau pour boire ou pour irriguer…
 
 Quand des politiques votent une loi stupide, ils réduisent la liberté des gens qui les ont élus.
 

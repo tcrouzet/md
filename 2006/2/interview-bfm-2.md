@@ -20,7 +20,7 @@ Nous n’avons plus besoin d’intermédiaires pour nous exprimer et pour agir. 
 
 -- Non. Vous le serez quand vous serez persuadée que la démocratie peut se passer d’élus, quand vous vous sentirez capable d’agir par vous-même et non plus par l’intermédiaire de ces mêmes élus.
 
-*-- Vous voulez dire que c’est un état d’esprit ? Un connecteur ne serait pas uniquement un shooté de la high-tech. C’est au-delà de ça, c’est une mentalité, un état d’esprit qu’on retrouve en France en Chine, n’importe où... Il n’y a pas de frontières ?*
+*-- Vous voulez dire que c’est un état d’esprit ? Un connecteur ne serait pas uniquement un shooté de la high-tech. C’est au-delà de ça, c’est une mentalité, un état d’esprit qu’on retrouve en France en Chine, n’importe où… Il n’y a pas de frontières ?*
 
 -- Internet nous a permis de dépasser les frontières. Maintenant, il existe des connecteurs qui n’utilisent jamais un ordinateur. Dans mon livre, je donne l’exemple des chauffeurs de bétonneuse mexicains qui gèrent eux-mêmes leur planning et livrent presque toujours à l’heure alors que leurs concurrents, sous les ordres de petits chefs, n’y arrivent jamais.
 
@@ -34,15 +34,15 @@ Vous parlez d’heures que nous passerions connectés. Qui parle d’heures ! Un
 
 -- Nous pouvons nous interconnecter et dessiner un réseau qui nous dépasse sans pour autant que ce réseau porte le nom d’un parti. C’est d’autant plus impossible que des dizaines de réseaux s’interpénètrent. Dans le monde des connecteurs, il n’y a pas de cases où ranger les gens, il n’y a que des hommes et des femmes libres.
 
-*-- Vous ne votez pas, vous n’étudiez pas, vous ne travaillez pas... Comment avez-vous pris conscience qu’il y avait quelque chose de nouveau, une nouvelle démocratie qui était en marche, la démocratie des connecteurs ?*
+*-- Vous ne votez pas, vous n’étudiez pas, vous ne travaillez pas… Comment avez-vous pris conscience qu’il y avait quelque chose de nouveau, une nouvelle démocratie qui était en marche, la démocratie des connecteurs ?*
 
 -- Nous n’avons pas voté pour internet et nous avons internet. Nous avons compris que nous pouvions organiser la société différemment parce que nous avons déjà créé une nouvelle société. Nous voulons reprendre un modèle qui marche, qui marche d’ailleurs si bien que la nature l’exploite depuis la nuit de temps.
 
 *-- Quel genre de structure nouvelle va-t-on créer ? Quelque part vous faites quand même de la politique ! Vous préférez votre forme de politique aux autres – certains font des révolutions trotskistes, maoïstes, vous vous faites une révolution des connecteurs. Donc vous faites de la politique.*
 
--- Organiser la société pour la rendre plus harmonieuse, oui c’est de la politique, mais de la politique sans parti, sans programme structuré, sans pensée unique, sans leader...
+-- Organiser la société pour la rendre plus harmonieuse, oui c’est de la politique, mais de la politique sans parti, sans programme structuré, sans pensée unique, sans leader…
 
-*-- Vous réinventez un monde qui a les mêmes repères que le monde dans lequel on vit actuellement – vous parlez d’études, de politique... Ce n’est pas un monde qui se déconnecte complètement des systèmes actuels.*
+*-- Vous réinventez un monde qui a les mêmes repères que le monde dans lequel on vit actuellement – vous parlez d’études, de politique… Ce n’est pas un monde qui se déconnecte complètement des systèmes actuels.*
 
 -- Les connecteurs construisent l’avenir à partir du présent, ils ne sont pas en rupture. Ils ne rejettent pas la démocratie, ils pensent que nous pouvons en inventer une autre. Et ils ont des solutions, ils ne se contentent pas de rêver, des solutions qui, en plus, ont fait leurs preuves, mais que les politiques officiels ne peuvent pas entendre, car sinon ils scieraient la branche sur laquelle ils sont assis.
 
@@ -50,11 +50,11 @@ Vous parlez d’heures que nous passerions connectés. Qui parle d’heures ! Un
 
 -- Comme nous pensons que la société peut très bien fonctionner sans autorité centrale, nous n’avons pas besoin de leader. Il existe toutefois des gens plus connectés que d’autres. En France, nous avons en ce moment Loïc Le Meur qui fait beaucoup parler de lui. C’est un influenceur, mais en aucune manière le patron des connecteurs. Tout au plus il peut parfois parler en leur nom.
 
-*-- C’est absurde de ne pas étudier. On ne serait même pas capable de taper sur un clavier, de parler français... c’est quand même la plus grande indépendance, non, d’être cultivé ?*
+*-- C’est absurde de ne pas étudier. On ne serait même pas capable de taper sur un clavier, de parler français… c’est quand même la plus grande indépendance, non, d’être cultivé ?*
 
 -- Je ne vois pas de rapport entre être cultivé et avoir fait des études. Je connais des polytechniciens moins cultivés que des ouvriers. Quand je dis que les connecteurs n’étudient pas, je sous-entends qu’ils n’étudient pas comme on le fait habituellement, c’est-à-dire en passant des diplômes. Au contraire, ils amassent des connaissances au fil de leur vie et se créent des cursus sur mesure.
 
-*-- Ne pas avoir tous les mêmes diplômes, cursus... c’est l’individualisme poussé à l’extrême ?*
+*-- Ne pas avoir tous les mêmes diplômes, cursus… c’est l’individualisme poussé à l’extrême ?*
 
 -- Mais non puisque c’est pour interagir. Si je ne ressemble pas à mon interlocuteur, nos échanges seront plus enrichissants. Plus nous différons les uns des autres, plus nous avons intérêt à rencontrer les autres, car ils représentent la surprise.
 
@@ -64,7 +64,7 @@ Vous parlez d’heures que nous passerions connectés. Qui parle d’heures ! Un
 
 *-- Quel est le profil des connecteurs ?*
 
--- Puisqu’ils sont des hommes libres, qu’ils ne se rangent dans aucun parti, dans aucune coterie, ils n’ont pas de profil type. Ils partagent juste l’idée que nous pouvons nous auto-organiser. Il y a des chefs d’entreprise connecteurs, des conducteurs de poids lourd connecteurs, des agriculteurs connecteurs... Tout le monde peut devenir connecteur.
+-- Puisqu’ils sont des hommes libres, qu’ils ne se rangent dans aucun parti, dans aucune coterie, ils n’ont pas de profil type. Ils partagent juste l’idée que nous pouvons nous auto-organiser. Il y a des chefs d’entreprise connecteurs, des conducteurs de poids lourd connecteurs, des agriculteurs connecteurs… Tout le monde peut devenir connecteur.
 
 *-- Il y a une révolution qui joue un rôle important – c’est le blog. On a le sentiment qu’il y a un essor incroyable des blogs, quasiment tout le monde en a un, y compris les hommes politiques. Vous dites : il faut réinventer la politique, vous proposez de ne pas voter, parce que ça ne sert plus à rien – mais visiblement les politiciens ont compris un tout petit peu le message et ils essaient de faire de la politique autrement à travers leur blog. Alors, le blog, c’est ce qui va accélérer votre révolution des connecteurs ? (il ne faut pas que ce soit une mode) Alors vous qui les regardez de près, qu’est-ce que vous en pensez, sans langue de bois ?*
 
@@ -80,7 +80,7 @@ Vous parlez d’heures que nous passerions connectés. Qui parle d’heures ! Un
 
 *-- Donc vous ne suivez pas vos conseils ?*
 
--- Mais si, je ne vais pas au bureau tous les jours, je travaille selon mon envie, selon les besoins, parfois 15 heures, parfois une heure, parfois pas du tout... Au cours d’une journée, je fais des choses totalement différentes. J’écris, je fais la maquette d’un livre, je dessine une couverture, je m’occupe de mon site web...
+-- Mais si, je ne vais pas au bureau tous les jours, je travaille selon mon envie, selon les besoins, parfois 15 heures, parfois une heure, parfois pas du tout… Au cours d’une journée, je fais des choses totalement différentes. J’écris, je fais la maquette d’un livre, je dessine une couverture, je m’occupe de mon site web…
 
 *-- Il faut avoir les moyens financiers !*
 
