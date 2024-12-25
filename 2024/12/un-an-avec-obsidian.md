@@ -1,5 +1,7 @@
 # Obsidian : l’éditeur de texte ultime
 
+![Écrore avec Obsidian](_i/obsidian00.webp)
+
 Pour un matérialiste comme moi, le qualificatif « ultime » est presque un gros mot, mais si, comme l’annonce [Satya Nadella,](https://www.youtube.com/watch?v=9NtsnzRFJ_o&ab_channel=Bg2Pod) nous vivons la fin des logiciels de type applicatif - entre autres nos traitements de textes - et nous apprêtons à ne piloter nos ordinateurs que par l’intermédiaire d’*Agentic AI*, [Obsidian](https://obsidian.md/) pourrait être mon dernier éditeur de texte (je reviens dans mon journal de décembre sur ce point de bascule).
 
 J’écris avec Obsidian depuis un an et ne regrette pas mon choix. OK, Obsidian exige parfois quelques personnalisations un poil techniques, mais il me semble qu’un auteur devrait prendre soin de son outil d’écriture avec autant d’attention qu’un cycliste de son vélo.
