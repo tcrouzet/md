@@ -109,6 +109,6 @@ Tout cela peut sembler complexe, mais c’est à ce prix que j’obtiens ce que 
 
 ### Mais encore
 
-Lisez donc [cet article](https://pdworkman.com/write-book-with-obsidian/) pour voir comment un auteur canadien utilise Obsidian. Tout ça très loin, infiniment loin de mes pratiques. Je ne fais jamais de plan a priori, pas plus que de fiches personnages. Tout est dans ma tête, et ce n’est souvent que dans une phase de réécriture que je crée un plan pour vérifier la cohérence de l’ensemble. Je suis un auteur itératif, non pas un auteur planificateur. 
+Lisez donc [cet article](https://pdworkman.com/write-book-with-obsidian/) pour voir comment un auteur canadien utilise Obsidian. Tout ça très loin, infiniment loin de mes pratiques. Je ne fais jamais de plan a priori, pas plus que de fiches personnages. Tout est dans ma tête, et ce n’est souvent que dans une phase de réécriture que je crée un plan pour vérifier la cohérence de l’ensemble. Je suis un auteur itératif, non pas un auteur planificateur.
 
 #cuisine #obsidian #y2024 #2024-12-25-18h00
