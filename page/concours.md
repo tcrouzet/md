@@ -42,7 +42,7 @@ Classement des participants, l’important c’était de jouer… le concours s�
 
 ### Présentation du concours
 
-Peu de chroniqueurs parlent des livres publiés en numérique tout simplement parce qu’ils ne sont pas équipés de liseuses. À l’occasion de la sortie de *[La tune dans le caniveau](tune-caniveau)*, [Bookeen](http://www.bookeen.com/fr/), le pionnier français du livre électronique présent dans 70 pays, leur propose de gagner un [Cybook Orizon](http://www.bookeen.com/fr/cybook/?id=2).
+Peu de chroniqueurs parlent des livres publiés en numérique tout simplement parce qu’ils ne sont pas équipés de liseuses. À l’occasion de la sortie de *[La tune dans le caniveau](../books/tune-caniveau.md)*, [Bookeen](http://www.bookeen.com/fr/), le pionnier français du livre électronique présent dans 70 pays, leur propose de gagner un [Cybook Orizon](http://www.bookeen.com/fr/cybook/?id=2).
 
 [](_i/cybookorizon.webp)
 
@@ -54,7 +54,7 @@ Retrouvez et dialoguez avec [Bookeen](http://www.bookeen.com/fr/) sur [Facebook]
 
 - Nous vous enverrons le texte intégral de *La tune dans le caniveau*. Si vous n’avez pas encore de liseuse, le texte en PDF est lisible sur votre ordinateur avec [Acrobat Reader](http://www.adobe.com/fr/products/reader/) ou en ePub avec [Calibre](http://calibre-ebook.com/).
 
-- Chroniquez sur votre blog *[La tune dans le caniveau](tune-caniveau)*, en bien ou en mal peu importe, pointez vers [la page de présentation de la nouvelle](tune-caniveau) (url : http://blog.tcrouzet.com/tune-caniveau/) et illustrez le billet avec un de [nos visuels de couverture](tune-caniveau/visuels).
+- Chroniquez sur votre blog *[La tune dans le caniveau](../books/tune-caniveau.md)*, en bien ou en mal peu importe, pointez vers [la page de présentation de la nouvelle](../books/tune-caniveau.md) (url : http://blog.tcrouzet.com/tune-caniveau/) et illustrez le billet avec un de [nos visuels de couverture](tune-caniveau/visuels).
 
 - N’importez pas les images chez vous. Utilisez des liens externes vers les couvertures (c’est-à-dire un code HTML du type car c’est ce qui nous permettra d’établir les statistiques pour désigner le vainqueur du concours.
 
