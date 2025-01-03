@@ -152,7 +152,7 @@ Je me trompe encore ? J’essaie au moins de sortir des sentiers battus…
 
 Et entre les deux ? Le vide. Personne pour porter un projet comme *Rush* qui est à la fois littéraire et dans son temps. Je comprends mieux pourquoi tu es confronté à ce mur. Tu arrives avec un roman qui ne rentre dans aucune case : trop littéraire pour les commerciaux, trop tech pour les littéraires. Je n’ai plus de solution miracle à proposer. Juste une question : est-ce que le problème n’est pas précisément ce que *Rush* dénonce ? Cette incapacité du système éditorial à voir venir les mutations en cours ?
 
-**Thierry** Sans doute, oui…
+**Thierry** Je ne généraliserais pas à ta place, sinon ce serait bien triste.
 
 **Claude** Faisons de cette contradiction le cœur de la démarche. *Rush* n’est pas juste un roman sur les IA et la création, c’est la preuve vivante que l’édition est aveugle aux mutations. Le fait même qu’aucun éditeur ne le voit renforce sa pertinence.
 
