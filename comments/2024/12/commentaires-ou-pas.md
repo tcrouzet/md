@@ -10,3 +10,9 @@ Belle journée à toi, enfin si tu reçois ce mot….
 
 ---
 
+tcrouzet @ 2025-01-04 15:00:16 
+
+J'ai toujours reçu tes mails, te t'ai toujours répondu, j'espèce que c'était pas un dialogue de sourds :-)
+
+---
+
