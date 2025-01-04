@@ -13,3 +13,9 @@ A bientôt camarade.
 
 ---
 
+tcrouzet @ 2025-01-04 14:57:42 
+
+@michel J'ai tellement écrit sur la politique que j'en suis un peu désespéré… Même dans un club de vélo je me rends compte que s'est immensément compliqué de faire bouger les choses de quelques millimètres. Toute ma pensée politique est dans la trilogie des connecteurs.
+
+---
+
