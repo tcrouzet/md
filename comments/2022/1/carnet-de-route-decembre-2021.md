@@ -1,6 +1,7 @@
 [Décembre 2021](../../../2022/1/carnet-de-route-decembre-2021.md)
 
 ---
+
 nancilevien74 @ 2022-01-03 18:15:37
 
 Les photos sont magnifiques.
@@ -28,4 +29,3 @@ Voici quelques jeux que j’aime bien :
 Il en existe tellement qu’on peut facilement en trouver qui conviennent à tous types de joueurs.
 
 ---
-
