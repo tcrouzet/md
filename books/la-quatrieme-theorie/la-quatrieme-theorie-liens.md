@@ -57,7 +57,7 @@
 - 15/11/2012, [Twittérature mécanique](http://academie23.blogspot.fr/2012/11/curm-n10.html), Lucien Suel.
 - 2/2/2013, *Le Devoir* publie [24 nouvelles inédites en 140 caractères](http://www.ledevoir.com/culture/livres/369866/lire-tremblay-pivot-jardin-thuy-et-mavrikakis-en-140-caracteres).
 - 6/2/2013, je publie ma [taxinomie de la twittérature](../2013/2/taxinomie-litteraire-a-lage-de-twitter.md).
-- 27/3/2013, sortie de *[La quatrième théorie](la-quatrieme-theorie)*.
+- 27/3/2013, sortie de *[La quatrième théorie](la-quatrieme-theorie.md)*.
 - 30/3/2013, Bordeaux, [second festival de twittérature](http://twitter.blogs.sudouest.fr/fit-bordeaux/).
 - 12/4/2013, AFP, [La twittérature, gadget numérique ou nouvel avatar de l’art du bref](http://www.lexpress.fr/actualites/1/culture/la-twitterature-gadget-numerique-ou-nouvel-avatar-de-l-art-du-bref_1239759.html), Damien Stroka.
 

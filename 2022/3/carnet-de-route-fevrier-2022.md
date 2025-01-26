@@ -8,7 +8,7 @@ J’ai lu des journaux d’artiste pour apprendre à créer avec eux. Désormais
 
 ---
 
-Dans ma nouvelle [*La femme qui semait des livres*](https://ours-editions.kkaoss.net/produit/la-femme-qui-semait-des-livres/), on suit une femme qui descend dans le Midi, par le regard de ceux qui la croisent, sans jamais entrer en elle. Je repense souvent à ce mécanisme narratif, proche de celui de *[One Minute](../../../../page/une-minute.md)*, mais à peine esquissé.
+Dans ma nouvelle [*La femme qui semait des livres*](https://ours-editions.kkaoss.net/produit/la-femme-qui-semait-des-livres/), on suit une femme qui descend dans le Midi, par le regard de ceux qui la croisent, sans jamais entrer en elle. Je repense souvent à ce mécanisme narratif, proche de celui de *[One Minute](../../comments/page/une-minute.md)*, mais à peine esquissé.
 
 Je pourrais écrire la dernière journée d’un condamné à mort. On sait qu’il sera exécuté dans quelques heures, mais le sera-t-il vraiment, emportera-t-il son secret avec lui ? Le mécanisme narratif pourrait reposer sur une tension, un suspens, avec un compte à rebours. Le condamné comme métaphore d’une civilisation en prise avec le réchauffement climatique ?
 

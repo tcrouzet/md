@@ -2,7 +2,7 @@
 
 ![One Minute - T4](_i/oneminute4.webp)
 
-Je réponds aux questions de Lionel Jeannerat, l’éditeur de *[One Minute](../../../../page/une-minute.md)* chez PVH Éditions, et reviens sur les mécanismes du processus créateur.
+Je réponds aux questions de Lionel Jeannerat, l’éditeur de *[One Minute](../../comments/page/une-minute.md)* chez PVH Éditions, et reviens sur les mécanismes du processus créateur.
 
 *— Quelle place occupe l’écriture dans ta vie ?*
 

@@ -198,6 +198,4 @@ Arrêt à l’ancienne propriété d’Edisson et de Ford, où ils ont tenté de
 
 ![Racines d’un ficus drupacea](_i/P1090703.webp)
 
-
-
 #carnets #y2019 #2019-5-1-17h44

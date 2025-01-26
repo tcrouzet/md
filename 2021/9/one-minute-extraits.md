@@ -2,7 +2,7 @@
 
 ![Épreuve de Gilles Francescano](_i/one-minute-T1.webp)
 
-La même minute racontée 380 fois, c’est *[One Minute](../../../../page/une-minute.md)*, mon roman de science-fiction. Voici les cinq premiers chapitres.
+La même minute racontée 380 fois, c’est *[One Minute](../../comments/page/une-minute.md)*, mon roman de science-fiction. Voici les cinq premiers chapitres.
 
 ---
 

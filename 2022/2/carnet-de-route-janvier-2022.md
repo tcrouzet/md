@@ -4,7 +4,7 @@
 
 ### Samedi 1er, Balaruc
 
-L’année commence par un épais brouillard. Je n’ai aucune visibilité sur les mois qui arrivent, aucune publication prévue sinon celle de *[One Minute](../../../../page/une-minute.md)* retardée parce que les papiers luxueux choisis pour les couvertures sont en rupture, aucune invitation passionnante, aucune idée obsessionnelle, sinon de continuer à découvrir la France à vélo.
+L’année commence par un épais brouillard. Je n’ai aucune visibilité sur les mois qui arrivent, aucune publication prévue sinon celle de *[One Minute](../../comments/page/une-minute.md)* retardée parce que les papiers luxueux choisis pour les couvertures sont en rupture, aucune invitation passionnante, aucune idée obsessionnelle, sinon de continuer à découvrir la France à vélo.
 
 Quand je me retourne sur 2021, je vois à peu près la même chose. J’ai écrit mon autobiographie, d’abord en la publiant sur le blog, puis en la retravaillant après discussion avec Pierre, en doublant son volume initial, mais il ne m’a rien dit du second jet, comme si je ne le lui avais pas envoyé. J’ai retravaillé d’arrache-pied *One Minute* pour parachever le texte. J’en suis content. C’est mon grand roman. J’ai expérimenté avec les NFT, découvrant un abominable monde de spéculation, où l’art n’est qu’un prétexte odieux. Puis j’ai par miracle à l’automne écrit un petit roman initiatique, *Renaissance*, où le vélo est le moyen plus que l’objet. J’ai aussi publié *Adapter pour adopter*, la suite du *Geste qui sauve*.
 

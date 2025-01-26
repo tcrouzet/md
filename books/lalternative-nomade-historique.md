@@ -10,7 +10,7 @@ Retour à une version plus touffue, beaucoup plus proche dans l’esprit de la v
 
 #### Version 2.0 (31/01/11)
 
-Je réintègre la discussion sur le flux en partie 3 (un temps appelée [Propulseurs dans le flux](propulseurs-dans-le-flux)). Je modifie le tout début du texte. Présentation du graphe social. Différence entre simplicité et complexité.
+Je réintègre la discussion sur le flux en partie 3 (un temps appelée [Propulseurs dans le flux](../page/propulseurs-dans-le-flux.md)). Je modifie le tout début du texte. Présentation du graphe social. Différence entre simplicité et complexité.
 
 #### Version 1.1 (02/09/10)
 
@@ -18,7 +18,7 @@ Un chapitre supplémentaire sur les systèmes ouverts/fermés, discussion de la 
 
 #### Version 1.0 (28/07/10)
 
-Tout ce qui concerne le flux se retrouve dans *[Propulseurs dans le flux](propulseurs-dans-le-flux)*, je ne conserve dans ce texte que la réflexion sur la puissance du lien, c’est-à-dire la complexité volontaire.
+Tout ce qui concerne le flux se retrouve dans *[Propulseurs dans le flux](../page/propulseurs-dans-le-flux.md)*, je ne conserve dans ce texte que la réflexion sur la puissance du lien, c’est-à-dire la complexité volontaire.
 
 #### Fin de la version 100% gratuite (13/03/10)
 

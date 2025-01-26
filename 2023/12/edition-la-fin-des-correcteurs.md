@@ -6,8 +6,8 @@ Je préfère écrire vite et réécrire des dizaines de fois plutôt que de pond
 
 Avant :
 
-1. J’écrivais [avec Ulysses](../../../../2015/4/revolutionner-lecriture-ou-comment-ecrire-avec-ulysses.md).
-2. Je corrigeais avec Antidote ([utilisant avec jouissance ses outils statistiques](../../../../2016/3/tu-ecris-comme-qui.md)).
+1. J’écrivais [avec Ulysses](../../2015/4/revolutionner-lecriture-ou-comment-ecrire-avec-ulysses.md).
+2. Je corrigeais avec Antidote ([utilisant avec jouissance ses outils statistiques](../../2016/3/tu-ecris-comme-qui.md)).
 3. Je collais le texte dans Gmail qui glanait encore quelques fautes (il y a de l’IA dans Gmail).
 4. Pour les textes longs, je répétais ce processus plusieurs fois. Pour les billets de blog, un seul cycle me suffisait, sans perdre de temps sur Antidote.
 

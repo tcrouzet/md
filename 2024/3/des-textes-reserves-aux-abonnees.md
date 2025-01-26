@@ -2,7 +2,7 @@
 
 ![Écriture](_i/ecriture01.webp)
 
-Écrire aujourd’hui, ça signifie quoi ? Je n’en sais trop rien, mais j’ai envie d’ouvrir à nouveau mon atelier comme pour *[La quatrième Théorie](../../../../page/la-quatrieme-theorie.md)* ou *[One Minute](../../../../page/une-minute.md)*. Il ne s’agit pas d’expérimenter l’écriture collaborative, qui ne me convient pas du tout, mais de partager mon travail au fil des mois, et d’écouter les lecteurs susceptibles de m’influencer et de m’augmenter par leurs remarques. Je pourrais me contenter de m’appuyer sur les IA, mais justement leur émergence doit être contrebalancée par davantage d’humanité.
+Écrire aujourd’hui, ça signifie quoi ? Je n’en sais trop rien, mais j’ai envie d’ouvrir à nouveau mon atelier comme pour *[La quatrième Théorie](../../comments/page/la-quatrieme-theorie.md)* ou *[One Minute](../../comments/page/une-minute.md)*. Il ne s’agit pas d’expérimenter l’écriture collaborative, qui ne me convient pas du tout, mais de partager mon travail au fil des mois, et d’écouter les lecteurs susceptibles de m’influencer et de m’augmenter par leurs remarques. Je pourrais me contenter de m’appuyer sur les IA, mais justement leur émergence doit être contrebalancée par davantage d’humanité.
 
 Dans ma newsletter, j’ai ajouté la possibilité de s’abonner à la rubrique *Écriture*. J’y ai inscrit par défaut ceux qui suivent mon blog et mes carnets, parce que mes projets se situeront à la croisée de ces deux modalités. Je ne publierai pas mes textes en cours d’élaboration sur le blog. Je les réserverai aux abonnées de la newsletter.
 

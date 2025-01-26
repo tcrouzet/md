@@ -2,7 +2,7 @@
 
 ![One Minute en quatre tomes](_i/4tomes-1Min.webp)
 
-Après sa publication en feuilleton en 2015 sur Wattpad, *[One Minute](../../../../page/une-minute.md)* sort enfin dans une somptueuse édition en quatre volumes chez le néoéditeur de science-fiction suisse [PVH éditions](http://www.pvh-editions.com/site/).
+Après sa publication en feuilleton en 2015 sur Wattpad, *[One Minute](../../comments/page/une-minute.md)* sort enfin dans une somptueuse édition en quatre volumes chez le néoéditeur de science-fiction suisse [PVH éditions](http://www.pvh-editions.com/site/).
 
 J’ai retravaillé le texte, supprimé des minutes pour en ajouter beaucoup d’autres et me suis efforcé de thématiser chacun des tomes. De son côté, PVH a effectué un travail magnifique sur les couvertures, illustrées par [Gillles Francescano](https://fr.wikipedia.org/wiki/Gilles_Francescano) et mises en page par [Dimitri Jeannottat](https://www.instagram.com/dimitrijeannottat/?hl=fr), qui a utilisé des teintes Pantone pures, notamment un gris métallisé pour la typographie, couleurs malheureusement difficiles à rendre sur écran et auxquelles les photos ne rendent pas hommage.
 

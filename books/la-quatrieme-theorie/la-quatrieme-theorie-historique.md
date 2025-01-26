@@ -2,7 +2,7 @@
 
 ![](_i/4t-biblio1.webp)
 
-J’ai toujours aimé la génétique littéraire, à savoir comment les livres naissent et se transforment avant de se cristalliser. Autoanalyse sur *[La quatrième théorie](la-quatrieme-theorie)* parce que les conditions d’écriture du roman sont particulières, Twitter. Cette idée, que certains ont qualifiée de marketing, n’a pas surgi par hasard. Sa possibilité remonte presque à mon enfance et à de nombreuses rencontres.
+J’ai toujours aimé la génétique littéraire, à savoir comment les livres naissent et se transforment avant de se cristalliser. Autoanalyse sur *[La quatrième théorie](la-quatrieme-theorie.md)* parce que les conditions d’écriture du roman sont particulières, Twitter. Cette idée, que certains ont qualifiée de marketing, n’a pas surgi par hasard. Sa possibilité remonte presque à mon enfance et à de nombreuses rencontres.
 
 1. Depuis toujours, je suis fan de SF et de polar. Quand autour de mes dix-sept ans j’imagine pour la première fois écrire un livre, c’est un roman dans la lignée de Vance, Herbert, Van Vogt… mais une autre écriture m’accapare, celle du code informatique. *La quatrième théorie* n’aurait jamais existé sans ma double culture SF-polar/Code.
 

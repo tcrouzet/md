@@ -52,7 +52,7 @@ Je lis un article de presse sur un nouveau livre, par un professeur d’universi
 
 ---
 
-Je tombe sur [une photo des garçons](../../../../2011/2/une-journee-inoubliable.md), prise il y a dix ans, et je me mets à chialer devant mon écran. Le temps passe si vite et j’oublie trop souvent de le chérir à bras le corps.
+Je tombe sur [une photo des garçons](../../2011/2/une-journee-inoubliable.md), prise il y a dix ans, et je me mets à chialer devant mon écran. Le temps passe si vite et j’oublie trop souvent de le chérir à bras le corps.
 
 ### Lundi 11, Balaruc
 

@@ -10,7 +10,7 @@ Je n’y avais pas pensé, mais cette remarque m’a donné envie de parler de c
 
 Dans le monde du logiciel libre et open source, les codes sont distribués gratuitement, peuvent être modifiés librement, intégrés à d’autres codes, à condition que leur licence initiale se propage par transitivité. Il y a l’idée qu’un code est un objet culturel et que l’accès à la culture ne doit pas être restreint, sans pour autant renoncer à la notion de paternité des œuvres ou de droits d’auteur.
 
-J’ai longtemps milité pour le libre, j’ai publié de nombreux livres sous licence libre, parfois même renonçant à toute forme de royalties comme avec *[Le Geste qui sauve](../../../../page/le-geste-qui-sauve.md)*. Il m’est tout de suite apparu évident que mon implication dans le monde du vélo ne pouvait s’effectuer que dans les mêmes conditions.
+J’ai longtemps milité pour le libre, j’ai publié de nombreux livres sous licence libre, parfois même renonçant à toute forme de royalties comme avec *[Le Geste qui sauve](../../comments/page/le-geste-qui-sauve.md)*. Il m’est tout de suite apparu évident que mon implication dans le monde du vélo ne pouvait s’effectuer que dans les mêmes conditions.
 
 J’ai été heureux de découvrir que de nombreux traceurs travaillaient dans cet état d’esprit, désireux avant tout de partager leur passion pour un territoire et pour un art de vivre à vélo.
 
