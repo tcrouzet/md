@@ -226,11 +226,17 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 
 [**2024 - Articles**](/2024/)
 
-2024 - Février, publication du [*Code Houellebecq*](../books/le-code-houellebecq.md).
+2024 - Février, autopublication du [*Code Houellebecq*](../books/le-code-houellebecq.md).
 
 2024 - Mars, création de [Genlog](http://genlog.tcrouzet.com/), expérience de littérature générative.
 
 2024 - Avril, je me débarrasse définitivement de WordPress.
+
+2024 - Juin, début de *Rush*.
+
+[**2025 - Articles**](/2025/)
+
+2025 - Juin, publication d’*Épicènes*.
 
 ### Interviews
 
@@ -289,5 +295,7 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
  [GPTs](https://gpt.tcrouzet.com/)
 
  [727 bikepacking](https://727bikepacking.fr/)
+
+ [Lectures](https://tcrouzet.com/page/lectures/)
 
 #page #y2006 #2006-6-25-8h42

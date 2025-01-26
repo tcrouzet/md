@@ -81,7 +81,7 @@ Une trace n’a pas besoin d’être entretenue consciemment, elle s’entretien
 
 ### Samedi 19, Balaruc
 
-Je rêve de [technosignatures](technosignature) et d’écrire de la SF. J’ai renvoyé *[One Minute](../../../../page/une-minute.md)* à un éditeur qui avait lu les première ébauches publiées en ligne. Et j’ai ramé, pioché, encore et encore sur *Le Geste qui sauve 2*.
+Je rêve de [technosignatures](technosignature) et d’écrire de la SF. J’ai renvoyé *[One Minute](../../comments/page/une-minute.md)* à un éditeur qui avait lu les première ébauches publiées en ligne. Et j’ai ramé, pioché, encore et encore sur *Le Geste qui sauve 2*.
 
 ### Dimanche 20, Balaruc
 

@@ -34,6 +34,4 @@ Dans le cloître de Monreale, cette union existe d’une certaine façon. Mais, 
 
 ![Monreale](_i/monreale2.png)
 
-
-
 #pense_de_sicile #retroblogging #y1996 #1996-5-24-9h56

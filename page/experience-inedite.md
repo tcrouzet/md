@@ -2,7 +2,7 @@
 
 ### L’expérience inédite
 
-L’expérience inédite est une équipe éditoriale temporaire mise en place pour éditer et propulser *[La tune dans le caniveau](tune-caniveau)*.
+L’expérience inédite est une équipe éditoriale temporaire mise en place pour éditer et propulser *[La tune dans le caniveau](../books/tune-caniveau.md)*.
 
 **Texte** : [Thierry Crouzet](http://blog.tcrouzet.com/). **Édition** : [Nicolas Ancion](http://www.nicolasancion.com/), [Yves lOurs Koskas](http://la-coop.org/), [Françoise Renaud](http://www.francoiserenaud.com/) et [Isabelle Crouzet](http://www.livrelle.com/). **Corrections** : [Antoine Barral](http://leblogdemonpremierroman.blogspot.com/), [Florence Clerfeuille](http://amotsdelies.over-blog.com/) et Nina Blanchot. **Mise en page papier** : Yves lOurs Koskas (composition police [Linux Libertine](http://linuxlibertine.org/)). **Mise en page électronique** : Thierry Crouzet avec la collaboration de [David Queffélec](http://nookeff.wordpress.com/). **Lecture** : Valérie Schlée. **Enregistrement** : [Mark Lockett](http://marklockett.com/). **Illustration de couverture** : [Lény Joubert](http://joubertleny.blogspot.com/). **Diffusion papier** : Yves lOurs Koskas. **Diffusion iBookstore et Kindle** : Isabelle Crouzet. **Propulsion** : Gwen Catalá et Jean-Francois Gayrard pour [numeriklivres.com](http://www.numeriklivres.com/).
 
