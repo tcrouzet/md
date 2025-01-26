@@ -11,7 +11,7 @@ Une stratégie efficace implique :
 3. D’optimiser la réactivité du GPS, pour qu’il ne passe pas son temps à faire autre chose que nous guider.
 4. De visualiser les points d’intérêt (POI/waypoints), par exemple pour ne pas manquer un point d’eau, qui peut se trouver à proximité de la trace.
 5. De visualiser les variantes du parcours, par exemple pour éviter un secteur fréquemment inondé.
-6. De trouver des itinéraires de secours, au cas où la trace s’avère impraticable, par exemple si les ronces l’envahissent ou une nouvelle barrière la bloque (parfois elles apparaissent du jour au lendemain, mésaventure constatée sur [mon tour du pays de Thau](../../../../2020/12/gravel-le-tour-de-sete-agglopole-mediterranee.md)).
+6. De trouver des itinéraires de secours, au cas où la trace s’avère impraticable, par exemple si les ronces l’envahissent ou une nouvelle barrière la bloque (parfois elles apparaissent du jour au lendemain, mésaventure constatée sur [mon tour du pays de Thau](../../2020/12/gravel-le-tour-de-sete-agglopole-mediterranee.md)).
 
 Voici comment je m’apprête à résoudre ce cahier des charges [lors du 727](/727tour/).
 
@@ -56,7 +56,7 @@ Si Garmin avait proposé tout simplement une option pour désactiver le recalcul
 1. Menu > Settings > Activity Profiles, je choisis mon profil, puis dans Navigation > Routing, je fixe le Routing Mode à VTT, puis je désactive le recalcul du parcours quand je quitte la trace (cette option de désactivation n’est pas disponible avec tous les modes de routage, voilà pourquoi j’ai mis longtemps avant de la découvrir — il faut choisir un routage pour pouvoir désactiver le routage, je cherche plus à comprendre).
 2. Menu > Navigation > Courses > Course Options, je désactive Off Course Warnings, car cette option demande le recalcul de l’itinéraire même quand ce mode est désactivé. En général, je désactive aussi Turn Guidance.
 
-Après ces réglages, [et bien d’autres](../../../../2020/10/pourquoi-jai-rachete-gps-garmin.md), ma trace s’affiche à l’écran et mon GPS me laisse tranquille. Le chargement d’un long parcours comme celui du 727 est immédiat.
+Après ces réglages, [et bien d’autres](../../2020/10/pourquoi-jai-rachete-gps-garmin.md), ma trace s’affiche à l’écran et mon GPS me laisse tranquille. Le chargement d’un long parcours comme celui du 727 est immédiat.
 
 ### Les variantes
 

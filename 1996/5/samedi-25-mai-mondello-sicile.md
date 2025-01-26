@@ -6,7 +6,7 @@ Nuit profonde… bruit de la mer, clapotis contre les rochers. La femme et l’h
 
 Pourquoi s’intéresser au passé ? Parce qu’on le voit avec objectivité (disons avec relativisme). Antique, roman, gothique, renaissant, baroque, rococo, romantique, moderne… Nous qualifions notre époque de post-moderne. N’est-ce pas ridicule ? D’autres la qualifieront pour nous, nous sommes leurs primitifs.
 
-> Mais qu’est-ce que la peinture moderne ? Eh bien, c’est d’abord une peinture qu’on a le droit d’appeler *moderne*. Ce n’est pas là un trait négligeable. Car les hommes, de nos jours, se posent dans l’histoire avec une grande autorité. On a coutume de se moquer de l’auteur dramatique qui faisait dire à Roland : « Nous autres chevaliers du Moyen Âge… » Et l’on a raison de se moquer, car les chevaliers du Moyen Âge, d’après tout ce que nous avons appris sur leur compte, ne savaient guère qu’ils étaient du Moyen Âge. Jean Paulhan
+>Mais qu’est-ce que la peinture moderne ? Eh bien, c’est d’abord une peinture qu’on a le droit d’appeler *moderne*. Ce n’est pas là un trait négligeable. Car les hommes, de nos jours, se posent dans l’histoire avec une grande autorité. On a coutume de se moquer de l’auteur dramatique qui faisait dire à Roland : « Nous autres chevaliers du Moyen Âge… » Et l’on a raison de se moquer, car les chevaliers du Moyen Âge, d’après tout ce que nous avons appris sur leur compte, ne savaient guère qu’ils étaient du Moyen Âge. Jean Paulhan
 
 Dans *Les Envoûtés*, Gombrowicz use du récit pour exposer ses thèses. Ainsi elles touchent un lecteur qui ne s’intéresserait qu’au récit. Un penseur classique considérerait que ce jeu de séduction sacrifie l’œuvre. Il dirait que le récit ou les thèses peuvent aller séparément, dans deux œuvres disjointes.
 
@@ -65,7 +65,5 @@ La force génératrice du hasard. L’artiste est celui qui s’abandonne au has
 ### Soirée à Palerme
 
 La *passegiata* : ils passent et repassent, descendent et remontent la rue piétonne. Les hommes se tiennent par le bras, les filles par la main. Pourquoi ce contact ? Signe d’amitié, signe de célibat, en tout cas pas un signe d’inversion, ici trop puritain, trop conservateur. Pourtant, en ce lieu de tradition, on semble plus libéré qu’à San Francisco.
-
-
 
 #pense_de_sicile #retroblogging #y1996 #1996-5-25-12h9

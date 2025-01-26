@@ -4,7 +4,7 @@
 
 ### Lundi 1er, Balaruc
 
-Quand j’écrivais *[Ératosthène](../../../../page/eratosthene.md)* et forgeais ma conception du généralisme, j’avais en mémoire un roman de Van Vogt lu dans ma jeunesse, où il était question de la même idée, sans réussir à en retrouver le titre. Après avoir lu [le chapitre 8 de mon autobiographie littéraire](../1/histoire-dun-nerdeux-en-litterature-8.md), Michel Torres me demande si le lien avec [le nexialisme](https://fr.wikipedia.org/wiki/La_Faune_de_l%27espace#Le_Nexialisme) est voulu, la science inventée par Van Vogt dans *La faune de l’espace*. J’aime ces imprévus provoqués par les mots.
+Quand j’écrivais *[Ératosthène](../../comments/page/eratosthene.md)* et forgeais ma conception du généralisme, j’avais en mémoire un roman de Van Vogt lu dans ma jeunesse, où il était question de la même idée, sans réussir à en retrouver le titre. Après avoir lu [le chapitre 8 de mon autobiographie littéraire](../1/histoire-dun-nerdeux-en-litterature-8.md), Michel Torres me demande si le lien avec [le nexialisme](https://fr.wikipedia.org/wiki/La_Faune_de_l%27espace#Le_Nexialisme) est voulu, la science inventée par Van Vogt dans *La faune de l’espace*. J’aime ces imprévus provoqués par les mots.
 ![Soir](_i/10.webp)
 
 ### Mardi 2, Balaruc

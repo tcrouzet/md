@@ -15,9 +15,9 @@ Mais avec les NFT, une nouvelle possibilité apparaît. Je peux continuer à don
 Tous les créateur numériques pourraient utiliser cette astuce, ajoutant un bouton de vente à leurs contenus (vous ne tarderez pas à les voir fleurir). Je me prête au jeu en mettant en vente cinq articles qui ont eu beaucoup de succès sur mon blog.
 
 1. [Lettre à la Fédération Française de Cyclisme, avril 2020](https://isengard.market/nft/TCC-5cf6ff-03) ([texte original sur le blog](../../../../2020/4/lettre-a-la-federation-francaise-de-cyclisme.md)).
-2. [Retomber amoureux des librairies, une nécessité, septembre 2019](https://isengard.market/nft/TCC-5cf6ff-04) ([texte original sur le blog](../../../../2019/9/retomber-amoureux-des-librairies-une-necessite.md)).
-3. [Comment pirater légalement tous les livres , novembre 2014](https://isengard.market/nft/TCC-5cf6ff-05) ([texte original sur le blog](../../../../2014/11/comment-pirater-legalement-tous-les-livres.md)).
-4. [Qu’est-ce que la liberté ?, octobre 2013](https://isengard.market/nft/TCC-5cf6ff-06) ([texte ordinal sur le blog](../../../../2013/10/quest-ce-que-la-liberte.md)).
-5. [Qui a la plus grosse quéquette sur Twitter ?, septembre 2009](https://isengard.market/nft/TCC-5cf6ff-07) ([texte original sur le blog](../../../../2009/9/qui-a-la-plus-grosse-quequette-sur-twitter.md)).
+2. [Retomber amoureux des librairies, une nécessité, septembre 2019](https://isengard.market/nft/TCC-5cf6ff-04) ([texte original sur le blog](../../2019/9/retomber-amoureux-des-librairies-une-necessite.md)).
+3. [Comment pirater légalement tous les livres , novembre 2014](https://isengard.market/nft/TCC-5cf6ff-05) ([texte original sur le blog](../../2014/11/comment-pirater-legalement-tous-les-livres.md)).
+4. [Qu’est-ce que la liberté ?, octobre 2013](https://isengard.market/nft/TCC-5cf6ff-06) ([texte ordinal sur le blog](../../2013/10/quest-ce-que-la-liberte.md)).
+5. [Qui a la plus grosse quéquette sur Twitter ?, septembre 2009](https://isengard.market/nft/TCC-5cf6ff-07) ([texte original sur le blog](../../2009/9/qui-a-la-plus-grosse-quequette-sur-twitter.md)).
 
 #edition #nft #y2022 #2022-1-13-22h8
