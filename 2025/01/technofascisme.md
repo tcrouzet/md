@@ -72,6 +72,6 @@ Je vous invite à poser des bombes numériques sur les réseaux sociaux (la couv
 
 . Quand je prépare à manger ou conduis : France Info, France Inter et France Culture (j’aime voir comment on traite en France l’information que mon [Flipboard](https://flipboard.com/) m’apporte par ailleurs — je lis beaucoup plus d’articles scientifiques ou technologiques ou littéraires que politiques).
 
-. Aujourd’hui, j’ai supprimé 57 sources déclarées comme mortes dans mon [Feedly](https://feedly.com/), 57 sources indépendantes suivies durant des années. [Il m’en reste 148, dont 61 inactives depuis plus de trois mois, la plupart depuis plusieurs années.](https://tcrouzet.com/page/lectures/) Il y a quinze ans, je suivais des centaines de sources. Flipboard ne remplace pas ce foisonnement.
+. Aujourd’hui, j’ai supprimé 57 sources déclarées comme mortes dans mon relao, 57 sources indépendantes suivies durant des années. [Il m’en reste 148, dont 61 inactives depuis plus de trois mois, la plupart depuis plusieurs années.](https://tcrouzet.com/page/lectures/) Il y a quinze ans, je suivais des centaines de sources. Flipboard ne remplace pas ce foisonnement.
 
 #politique #y2025 #2025-1-24-16h00

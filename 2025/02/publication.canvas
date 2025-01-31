@@ -230,29 +230,6 @@
       "y": 0
     },
     {
-      "height": 60,
-      "id": "e29a68bcd026f026",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Textes**",
-      "type": "text",
-      "width": 260,
-      "x": -220,
-      "y": 40
-    },
-    {
-      "height": 60,
-      "id": "e54419d917a6c250",
-      "styleAttributes": {
-      },
-      "text": "**tcrouzet**",
-      "type": "text",
-      "width": 260,
-      "x": -220,
-      "y": 140
-    },
-    {
       "height": 73,
       "id": "322127d2f2ac1257",
       "styleAttributes": {
@@ -326,15 +303,27 @@
     {
       "color": "6",
       "height": 73,
-      "id": "b1c2c70ccf7474f3",
+      "id": "fb50ffc0fafc826c",
       "styleAttributes": {
-        "textAlign": "right"
       },
-      "text": "Livres",
+      "text": "Newletter",
       "type": "text",
-      "width": 233,
-      "x": 30,
-      "y": -213
+      "width": 260,
+      "x": -1076,
+      "y": 622
+    },
+    {
+      "color": "2",
+      "height": 70,
+      "id": "b236a47b88a59059",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Facebook Page",
+      "type": "text",
+      "width": 270,
+      "x": -770,
+      "y": 622
     },
     {
       "color": "4",
@@ -350,6 +339,78 @@
       "y": -440
     },
     {
+      "color": "2",
+      "height": 75,
+      "id": "5179c1c328c5209e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "LinkedIn",
+      "type": "text",
+      "width": 204,
+      "x": -377,
+      "y": 622
+    },
+    {
+      "color": "6",
+      "height": 70,
+      "id": "913b2817bde6a1fe",
+      "styleAttributes": {
+      },
+      "text": "Substack",
+      "type": "text",
+      "width": 260,
+      "x": 113,
+      "y": 469
+    },
+    {
+      "height": 82,
+      "id": "f63fbba4bc1159f8",
+      "styleAttributes": {
+      },
+      "text": "Cloud Backup",
+      "type": "text",
+      "width": 300,
+      "x": -90,
+      "y": 613
+    },
+    {
+      "height": 60,
+      "id": "e29a68bcd026f026",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Textes**",
+      "type": "text",
+      "width": 260,
+      "x": -220,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "e54419d917a6c250",
+      "styleAttributes": {
+      },
+      "text": "**tcrouzet**",
+      "type": "text",
+      "width": 260,
+      "x": -220,
+      "y": 140
+    },
+    {
+      "color": "6",
+      "height": 73,
+      "id": "b1c2c70ccf7474f3",
+      "styleAttributes": {
+        "textAlign": "right"
+      },
+      "text": "Livres",
+      "type": "text",
+      "width": 233,
+      "x": 30,
+      "y": -213
+    },
+    {
       "color": "6",
       "height": 139,
       "id": "791f73ded8c714f7",
@@ -361,6 +422,32 @@
       "width": 360,
       "x": 608,
       "y": -69
+    },
+    {
+      "color": "6",
+      "height": 134,
+      "id": "0bebf2cf44d50bb5",
+      "styleAttributes": {
+        "border": null,
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "md.tcrouzet.com\n\n(repos GitHub public)",
+      "type": "text",
+      "width": 390,
+      "x": 303,
+      "y": -440
+    },
+    {
+      "height": 73,
+      "id": "2af5e5be17b0134b",
+      "styleAttributes": {
+      },
+      "text": "Time Machine",
+      "type": "text",
+      "width": 300,
+      "x": -473,
+      "y": 393
     },
     {
       "color": "6",
@@ -389,21 +476,6 @@
     },
     {
       "color": "6",
-      "height": 134,
-      "id": "0bebf2cf44d50bb5",
-      "styleAttributes": {
-        "border": null,
-        "shape": null,
-        "textAlign": "center"
-      },
-      "text": "md.tcrouzet.com\n\n(repos GitHub public)",
-      "type": "text",
-      "width": 390,
-      "x": 303,
-      "y": -440
-    },
-    {
-      "color": "6",
       "height": 73,
       "id": "a2e8dcdf7732fcda",
       "styleAttributes": {
@@ -414,78 +486,6 @@
       "width": 164,
       "x": 416,
       "y": 502
-    },
-    {
-      "color": "6",
-      "height": 70,
-      "id": "913b2817bde6a1fe",
-      "styleAttributes": {
-      },
-      "text": "Substack",
-      "type": "text",
-      "width": 260,
-      "x": 113,
-      "y": 469
-    },
-    {
-      "height": 82,
-      "id": "f63fbba4bc1159f8",
-      "styleAttributes": {
-      },
-      "text": "Cloud Backup",
-      "type": "text",
-      "width": 300,
-      "x": -90,
-      "y": 613
-    },
-    {
-      "height": 73,
-      "id": "2af5e5be17b0134b",
-      "styleAttributes": {
-      },
-      "text": "Time Machine",
-      "type": "text",
-      "width": 300,
-      "x": -473,
-      "y": 393
-    },
-    {
-      "color": "6",
-      "height": 73,
-      "id": "fb50ffc0fafc826c",
-      "styleAttributes": {
-      },
-      "text": "Newletter",
-      "type": "text",
-      "width": 260,
-      "x": -1076,
-      "y": 622
-    },
-    {
-      "color": "2",
-      "height": 70,
-      "id": "b236a47b88a59059",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Facebook Page",
-      "type": "text",
-      "width": 270,
-      "x": -770,
-      "y": 622
-    },
-    {
-      "color": "2",
-      "height": 75,
-      "id": "5179c1c328c5209e",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "LinkedIn",
-      "type": "text",
-      "width": 204,
-      "x": -377,
-      "y": 622
     }
   ]
 }
