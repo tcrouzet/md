@@ -70,6 +70,6 @@ Pour un texte littéraire, Gemini ou Markdown, c’est du pareil au même. La di
 
 Low-tech n’implique pas de réduire les possibilités, mais réduire les coûts (la taille des fichiers texte, par exemple). Quand Gemini m’empêche de mettre des textes en italique, et donc de respecter le code typographique, il ne le fait pas au nom de l’optimisation, mais plutôt d’une idéologie esthétique, qui prétendrait que l’italique ne sert à rien. Pourquoi pas, mais on n’a peut-être pas inventé les conventions typographiques pour rien. Elles nous aident à mieux nous comprendre.
 
-Reste que je m’entraîne. Gemini est l’une des meilleures solutions au cas où. Une bonne approche de low-tech numérique pour un ultraconsommateur de high-tech. Je rêve maintenant d’un Gemini sur un principe de Holochain. Expérimenter dans ce domaine élève mon niveau de conscience.
+Reste que je m’entraîne. Gemini est l’une des meilleures solutions au cas où. Une bonne approche de low-tech numérique pour un ultraconsommateur de high-tech. Je rêve maintenant d’un Gemini sur un principe de Holochain. Expérimenter dans ce domaine élève mon niveau de conscience. 
 
 #politique #y2025 #2025-1-29-11h00
