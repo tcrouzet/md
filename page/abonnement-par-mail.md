@@ -10,11 +10,11 @@ Abonne-toi avec le formulaire en bas de cette page.
 
 [Tous les articles…](/feeds/feed.xml)
 
-[Blog…](/feeds/blog.xml) ([archive](/feeds/blog_all.xml))
+[Blog…](/feeds/blog.xml) ([archive](/feeds/blog-all.xml))
 
-[Carnet de route…](/feeds/carnet-de-route.xml) ([archive](/feeds/carnet-de-route_all.xml))
+[Carnet de route…](/feeds/carnet-de-route.xml) ([archive](/feeds/carnet-de-route-all.xml))
 
-[Vélo…](/feeds/borntobike.xml) ([archive](/feeds/borntobike_all.xml))
+[Vélo…](/feeds/borntobike.xml) ([archive](/feeds/borntobike-all.xml))
 
 [Écriture…](/feeds/ecriture.xml)
 
