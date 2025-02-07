@@ -22,7 +22,7 @@ J’ai créé une newsletter dès le lancement de mon blog en 2005. Au début, j
 
 1. Vous avez le choix de recevoir les newsletters dans votre boîte mail, dans l’app Substack sur mobile ou dans les deux en même temps.
 2. Vous pouvez commenter les articles et discuter avec moi et entre vous dans un [canal dédié](https://tcrouzet.substack.com/chat).
-3. Vous pouvez souscrire un abonnement payant. Je me suis dit que je pourrais vous offrir les chapitres d’un livre en avant première, voire un inédit pour les abonnés premiums (décision prise rapidement — j’ai fixé le tarif minimal autorisé par Substack).
+3. Vous découvrez des newsletters qui abordent des thèmes connectés.
 
 ### Désavantages
 
@@ -30,7 +30,7 @@ Je ne suis pas naïf. [Comme l’explique Curtis Machale](https://curtismchale.c
 
 ### Comment ça va marcher
 
-J’utiliserai la newsletter principale à laquelle on s’abonne par défaut de manière exceptionnelle, pour m’adresser à vous tous en même temps. Par exemple avec un article comme celui-ci ou l’annonce d’un nouveau livre. Cette newsletter mère comprend quatre sous newsletters auxquelles on s’abonne par défaut, mais dont on peut [se désabonner]((https://tcrouzet.substack.com/account).
+J’utiliserai la newsletter principale à laquelle on s’abonne par défaut de manière exceptionnelle, pour m’adresser à vous tous en même temps. Par exemple avec un article comme celui-ci ou l’annonce d’un nouveau livre. Cette newsletter mère comprend quatre sous newsletters auxquelles on s’abonne par défaut, mais dont on peut [se désabonner](https://tcrouzet.substack.com/account).
 
 * [**Digressions**](https://tcrouzet.substack.com/s/digressions) Mes articles sur la technologie, la littérature, la politique…
 * [**Carnet**](https://tcrouzet.substack.com/s/carnet) Mon journal mensuel.
