@@ -2,9 +2,7 @@
 
 ### Newsletter
 
-Abonne-toi avec le formulaire en bas de cette page.
-
-[Dernières newsletters…](https://us3.campaign-archive.com/home/?u=4346e7140965015f0594fffcd&id=f8567ebe86)
+<iframe src="https://tcrouzet.substack.com/embed" class="substack-iframe" frameborder="0" scrolling="no"></iframe>
 
 ### Fils RSS
 
