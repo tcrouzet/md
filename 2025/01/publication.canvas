@@ -1,0 +1,491 @@
+{
+  "edges": [
+    {
+      "fromNode": "e54419d917a6c250",
+      "fromSide": "left",
+      "id": "388d247836f894be",
+      "label": "Python",
+      "toNode": "2c30e53029b675c0",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromEnd": "arrow",
+      "fromNode": "f30d3ca49d4df136",
+      "fromSide": "left",
+      "id": "351e35ae6dafd49d",
+      "label": "Plugin Obsidian",
+      "toNode": "322127d2f2ac1257",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "e54419d917a6c250",
+      "fromSide": "right",
+      "id": "8cc65dc537b0a643",
+      "label": "Pyhon",
+      "styleAttributes": {
+        "path": null,
+        "pathfindingMethod": null
+      },
+      "toNode": "791f73ded8c714f7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e54419d917a6c250",
+      "fromSide": "right",
+      "id": "63865e57e2b386e7",
+      "label": "Python",
+      "toNode": "0bebf2cf44d50bb5",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "e29a68bcd026f026",
+      "fromSide": "bottom",
+      "id": "78fe3013d6f3995e",
+      "styleAttributes": {
+      },
+      "toNode": "e54419d917a6c250",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromEnd": "arrow",
+      "fromNode": "f30d3ca49d4df136",
+      "fromSide": "left",
+      "id": "d7cc72bad76bb53f",
+      "label": "Plugin Obsidian",
+      "styleAttributes": {
+      },
+      "toNode": "db60bdef812a23a7",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromEnd": "arrow",
+      "fromNode": "1d02e92acc24f088",
+      "fromSide": "right",
+      "id": "ac61dd9f71fd8867",
+      "label": "Plugin Obsidian",
+      "styleAttributes": {
+      },
+      "toNode": "322127d2f2ac1257",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "f30d3ca49d4df136",
+      "fromSide": "bottom",
+      "id": "a8a3570d1dc67f85",
+      "label": "MacOS",
+      "styleAttributes": {
+      },
+      "toNode": "2af5e5be17b0134b",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f30d3ca49d4df136",
+      "fromSide": "bottom",
+      "id": "353490984ca580ac",
+      "label": "Python",
+      "styleAttributes": {
+      },
+      "toNode": "f63fbba4bc1159f8",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "2c30e53029b675c0",
+      "fromSide": "bottom",
+      "id": "903e04c961b902b0",
+      "label": "MailChimp",
+      "styleAttributes": {
+      },
+      "toNode": "fb50ffc0fafc826c",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "2c30e53029b675c0",
+      "fromSide": "left",
+      "id": "e0fc8dee52d56810",
+      "label": "Mastofeed",
+      "styleAttributes": {
+      },
+      "toNode": "45553ef99f279752",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e29a68bcd026f026",
+      "fromSide": "right",
+      "id": "10153e9c8f8ba9e7",
+      "label": "Print",
+      "styleAttributes": {
+      },
+      "toNode": "b1c2c70ccf7474f3",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "b1c2c70ccf7474f3",
+      "fromSide": "top",
+      "id": "ea23a833766fd956",
+      "styleAttributes": {
+      },
+      "toNode": "e031050712870198",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "2c30e53029b675c0",
+      "fromSide": "bottom",
+      "id": "72363fa2e6f1326e",
+      "label": "IFTTT",
+      "styleAttributes": {
+      },
+      "toNode": "b236a47b88a59059",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "2c30e53029b675c0",
+      "fromSide": "right",
+      "id": "031ae2ea2b111a96",
+      "label": "IFTTT",
+      "styleAttributes": {
+      },
+      "toNode": "5179c1c328c5209e",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "cf75ac8aa4bf7444",
+      "fromSide": "bottom",
+      "id": "96cb2141b9d6f3b9",
+      "styleAttributes": {
+      },
+      "toNode": "7f8bc653ff6064bc",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e54419d917a6c250",
+      "fromSide": "right",
+      "id": "39fceb58c8e6354c",
+      "label": "Python",
+      "styleAttributes": {
+      },
+      "toNode": "c5776ca04d5e793c",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "c5776ca04d5e793c",
+      "fromSide": "bottom",
+      "id": "b882ae6b5ddab4ff",
+      "styleAttributes": {
+      },
+      "toNode": "b048b109fd31a927",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e54419d917a6c250",
+      "fromSide": "right",
+      "id": "ada8311fff9c0132",
+      "label": "Python",
+      "styleAttributes": {
+      },
+      "toNode": "913b2817bde6a1fe",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e54419d917a6c250",
+      "fromSide": "right",
+      "id": "fc68e732b319f885",
+      "label": "Python",
+      "styleAttributes": {
+      },
+      "toNode": "a2e8dcdf7732fcda",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 267,
+      "id": "1d02e92acc24f088",
+      "label": "Obsidian iOS",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": -1360,
+      "y": 0
+    },
+    {
+      "color": "5",
+      "height": 260,
+      "id": "f30d3ca49d4df136",
+      "label": "Obsidian Mac",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": -240,
+      "y": 0
+    },
+    {
+      "height": 60,
+      "id": "e29a68bcd026f026",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Textes**",
+      "type": "text",
+      "width": 260,
+      "x": -220,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "e54419d917a6c250",
+      "styleAttributes": {
+      },
+      "text": "**tcrouzet**",
+      "type": "text",
+      "width": 260,
+      "x": -220,
+      "y": 140
+    },
+    {
+      "height": 73,
+      "id": "322127d2f2ac1257",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "DropBox",
+      "type": "text",
+      "width": 185,
+      "x": -770,
+      "y": 100
+    },
+    {
+      "height": 60,
+      "id": "cf75ac8aa4bf7444",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Textes**",
+      "type": "text",
+      "width": 260,
+      "x": -1335,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "7f8bc653ff6064bc",
+      "styleAttributes": {
+      },
+      "text": "**tcrouzet**",
+      "type": "text",
+      "width": 260,
+      "x": -1335,
+      "y": 150
+    },
+    {
+      "height": 73,
+      "id": "db60bdef812a23a7",
+      "styleAttributes": {
+      },
+      "text": "GitHub privé",
+      "type": "text",
+      "width": 315,
+      "x": -535,
+      "y": -440
+    },
+    {
+      "color": "6",
+      "height": 70,
+      "id": "2c30e53029b675c0",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "tcrouzet.com",
+      "type": "text",
+      "width": 278,
+      "x": -955,
+      "y": 359
+    },
+    {
+      "color": "2",
+      "height": 73,
+      "id": "45553ef99f279752",
+      "styleAttributes": {
+      },
+      "text": "Mastodon",
+      "type": "text",
+      "width": 260,
+      "x": -1335,
+      "y": 498
+    },
+    {
+      "color": "6",
+      "height": 73,
+      "id": "b1c2c70ccf7474f3",
+      "styleAttributes": {
+        "textAlign": "right"
+      },
+      "text": "Livres",
+      "type": "text",
+      "width": 233,
+      "x": 30,
+      "y": -213
+    },
+    {
+      "color": "4",
+      "height": 73,
+      "id": "e031050712870198",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Librairies",
+      "type": "text",
+      "width": 239,
+      "x": 24,
+      "y": -440
+    },
+    {
+      "color": "6",
+      "height": 139,
+      "id": "791f73ded8c714f7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "static.tcrouzet.com\n\n(GitHub page)",
+      "type": "text",
+      "width": 360,
+      "x": 608,
+      "y": -69
+    },
+    {
+      "color": "6",
+      "height": 73,
+      "id": "b048b109fd31a927",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "gemini://koyu.space/tcrouzet",
+      "type": "text",
+      "width": 470,
+      "x": 498,
+      "y": 323
+    },
+    {
+      "height": 80,
+      "id": "c5776ca04d5e793c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "git.sr.ht/~tcrouzet",
+      "type": "text",
+      "width": 373,
+      "x": 547,
+      "y": 133
+    },
+    {
+      "color": "6",
+      "height": 134,
+      "id": "0bebf2cf44d50bb5",
+      "styleAttributes": {
+        "border": null,
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "md.tcrouzet.com\n\n(repos GitHub public)",
+      "type": "text",
+      "width": 390,
+      "x": 303,
+      "y": -440
+    },
+    {
+      "color": "6",
+      "height": 73,
+      "id": "a2e8dcdf7732fcda",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Medium",
+      "type": "text",
+      "width": 164,
+      "x": 416,
+      "y": 502
+    },
+    {
+      "color": "6",
+      "height": 70,
+      "id": "913b2817bde6a1fe",
+      "styleAttributes": {
+      },
+      "text": "Substack",
+      "type": "text",
+      "width": 260,
+      "x": 113,
+      "y": 469
+    },
+    {
+      "height": 82,
+      "id": "f63fbba4bc1159f8",
+      "styleAttributes": {
+      },
+      "text": "Cloud Backup",
+      "type": "text",
+      "width": 300,
+      "x": -90,
+      "y": 613
+    },
+    {
+      "height": 73,
+      "id": "2af5e5be17b0134b",
+      "styleAttributes": {
+      },
+      "text": "Time Machine",
+      "type": "text",
+      "width": 300,
+      "x": -473,
+      "y": 393
+    },
+    {
+      "color": "6",
+      "height": 73,
+      "id": "fb50ffc0fafc826c",
+      "styleAttributes": {
+      },
+      "text": "Newletter",
+      "type": "text",
+      "width": 260,
+      "x": -1076,
+      "y": 622
+    },
+    {
+      "color": "2",
+      "height": 70,
+      "id": "b236a47b88a59059",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Facebook Page",
+      "type": "text",
+      "width": 270,
+      "x": -770,
+      "y": 622
+    },
+    {
+      "color": "2",
+      "height": 75,
+      "id": "5179c1c328c5209e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "LinkedIn",
+      "type": "text",
+      "width": 204,
+      "x": -377,
+      "y": 622
+    }
+  ]
+}
