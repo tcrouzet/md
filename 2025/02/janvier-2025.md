@@ -228,7 +228,7 @@ Lionel me signale [une vidéo](https://mamot.fr/@ludomire@tooting.ch/11385532931
 
 ### Lundi 20, Balaruc
 
-[La SGDL appelle les auteurs à signer une pétition pour protéger la propriété intellectuelle.](https://sommetiatribuneauteursartistes.questionnaireweb.com/f/237021/4pa4u6BFND7Qs3gHLzBwvE) Je ne signerai pas parce que je suis pour la libre circulation des œuvres, leurs accouplements en tout genre, même les plus odieux. Je suis pour que la création respire, dépasse les frontières du marché. On ne résistera à l’emprise des oligarques qu’en construisant un monde de liberté à côté de leurs empires monopolistiques. Défendre le droit d’auteur, c’est défendre un monopole et la plus mauvaise façon de s’opposer à des monopoles.
+[La SGDL appelle les auteurs à signer une pétition pour protéger la propriété intellectuelle.](https://sommetiatribuneauteursartistes.questionnaireweb.com/f/237021/4pa4u6BFND7Qs3gHLzBwvE) Je ne signerai pas parce que je suis pour la libre circulation des œuvres, leurs accouplements en tout genre, même les plus odieux. Je suis pour que la création respire, dépasse les frontières du marché. On ne résistera à l’emprise des oligarques qu’en construisant un monde de liberté à côté de leurs empires monopolistiques. Défendre la propriété intellectuelle, c’est défendre un monopole et la plus mauvaise façon de s’opposer à des monopoles.
 
 ![Soir](_i/2025-01-20-163013-lamaison.webp)
 
