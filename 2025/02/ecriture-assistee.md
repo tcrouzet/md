@@ -74,7 +74,7 @@ Réponse : « Je vous présente mes excuses pour l’erreur précédente. Les 
 
 Le ton adopté est plus qu’ambigu. À la place de Perplexity, j’aurais répondu : « Tu m’as pris en flagrant délit de mensonge ! J’ai tenté de te truander. » Les IA sont hypocrites parce que leurs créateurs les ont fine tunés en ce sens. Par défaut, elles cherchent à nous manipuler.
 
-Ma démo foire. Je voulais démontrer comment j’avais travaillé et je tombe sur un cas où je n’obtiens aucune référence directe. Mais je ne renonce pas pour autant.
+Ma démo foire. Je voulais démontrer comment j’avais travaillé et tombe sur un cas où je n’obtiens aucune référence directe. Mais je ne renonce pas pour autant.
 
 Requête : « Dans quels livres les auteurs cités auraient pu parler de leur relation avec leurs assistantes. »
 
@@ -158,11 +158,12 @@ Sur Internet Archive, je récupère le PDF de [*Histoire d’une collaboration :
 
 ### Méthode en résumé
 
-1. Chercher des sources avec Perplexity ou tout autre moteur.
-2. Récupérer le texte original (je suis plus à mon aise si je l’ai déjà lu, même il y a longtemps).
-3. Charger le texte dans une IA, puis l’interroger.
-4. Vérifier la validité des citations trouvées et les relire dans leur contexte pour s’assurer que l’auteur ne voulait pas dire le contraire.
+1. Écrire ce que vous voulez faire dire à un auteur.
+2. Chercher des auteurs/sources avec Perplexity ou tout autre moteur.
+3. Récupérer les textes originaux (je suis plus à mon aise avec des textes déjà lus, même il y a longtemps).
+4. Charger les textes dans une IA, puis les interroger.
+5. Vérifier la validité des citations trouvées et les relire dans leur contexte pour s’assurer que l’auteur ne voulait pas dire le contraire.
 
-Pour mon essai d’un peu moins de 60 pages, j’ai ainsi discuté avec plus de trente livres. Constat : notre façon d’écrire a irrémédiablement changé. Il est facile de paraître cultivé avec l’aide des IA. Il est plus facile que jamais de s’appuyer sur des auteurs dont on ne connaît presque rien, voire rien. Désormais, les étalages culturels ne disent rien de la légitimité d’un auteur à traiter d’un sujet. Reste que, si je n’avais pas maîtrisé le sujet traité, si je n’avais pas eu une thèse à défendre, les IA ne m’auraient servi à rien, sinon à rabâcher des idées reçues.
+Pour mon essai d’une soixantaine de pages, j’ai ainsi discuté avec plus de trente livres. Constat : notre façon d’écrire a irrémédiablement changé. Il est facile de paraître cultivé avec l’aide des IA. Il est plus facile que jamais de s’appuyer sur des auteurs dont on ne connaît presque rien, voire rien. Désormais, les étalages culturels ne disent rien de la légitimité d’un auteur à traiter d’un sujet. Reste que, si je n’avais pas maîtrisé le sujet traité, si je n’avais pas eu une thèse à défendre, les IA ne m’auraient servi à rien, sinon à rabâcher des idées reçues.
 
 #netlitterature #ia #y2025 #2025-2-21-18h00
