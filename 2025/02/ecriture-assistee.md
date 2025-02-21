@@ -86,7 +86,7 @@ Avec Calibre, je convertis l’ebook en txt, le charge dans Claude, qui est souv
 
 >Il me dictait pendant la journée, de deux heures à trois heures, et ces heures étaient les plus heureuses de ma vie. Entendre une nouvelle œuvre directement de la bouche de l’écrivain que j’aimais tant, avec toutes les nuances qu’il donnait aux paroles de ses personnages, représentait pour moi un authentique bonheur. Après avoir terminé la dictée, il me demandait toujours : ’Eh bien, qu’en dis-tu, Anetchka ?
 
->Je voulais être sincère et je ne prononçais pas de paroles élogieuses, je ne manifestais pas d’enthousiasme quand je n’en ressentais pas. Mon mari attachait beaucoup d’importance à cette sincérité. (On ne peut pas en sire autant des IA.)
+>Je voulais être sincère et je ne prononçais pas de paroles élogieuses, je ne manifestais pas d’enthousiasme quand je n’en ressentais pas. Mon mari attachait beaucoup d’importance à cette sincérité. (On ne peut pas en dire autant des IA.)
 
 >Parfois, il écrivait tellement que je devais rester après minuit pour transcrire ce qui avait été dicté dans la journée.
 
