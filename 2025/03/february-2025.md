@@ -191,6 +191,7 @@ En six jours, j’ai écrit un petit livre politique, *Le Livre contre-attaque*,
 ### Mercredi 19, Balaruc
 
 Depuis des années, je me préoccupais plus de qui me lisait et [Substack](https://tcrouzet.substack.com/) me remet sous les yeux des statistiques, et je vais devoir faire un effort pour ne pas en tenir compte, pour ne pas écrire seulement ce que les lecteurs aiment mais ce qui me paraît important. Je ne sais pas si je vais y réussir. Le capitalisme de la mesure est insidieux. Il nous pousse vers les goûts communs, un peu comme les IA.
+
 ![Stats février 2025](_i/substact.webp)
 
 ### Jeudi 20, Balaruc
