@@ -1,4 +1,4 @@
-# Pourquoi Substack est en train de tuer les réseaux sociaux traditionnels
+# Pourquoi Substack tue les réseaux sociaux traditionnels
 
 ![Madame de Sévigné, 4 février 1685](_i/sevigne.webp)
 
@@ -35,11 +35,11 @@ Les statistiques de [Substack](https://tcrouzet.substack.com/) m’ont conforté
 
 Nouvelle surprise, Substack, à lui seul, sans que je fasse quoi que soit, m’envoie autant de lecteurs que toutes les autres sources (réseaux sociaux et moteurs de recherche). Je ne parle pas des lecteurs abonnés à ma newsletter, mais des autres lecteurs, les nouveaux, qui quand ils viennent de Substack ont tendance à s’abonner et donc à rejoindre ma communauté, qui s’est remise à grossir alors qu’elle stagnait depuis des années. J’en étais à un stade d’état critique mais stabilisé : les nouveaux compensaient les partants, sans plus.
 
-![Stats Substack](_i/sub12.svg)
+![Stats Substack](_i/sub15.png)
 
 Le search ne compte presque plus, mince secteur cyan sur le graphique, et parmi les réseaux sociaux, seul Mastodon a un poids non négligeable. J’en conclus que Substack effectue un meilleur travail promotionnel que moi. Je pense même que je sous-estime ce travail. En effet, dans mon graphique, j’associe Mastodon aux liens directs, car les serveurs Mastodon ne s’identifient pas — ce qui me fait exagérer l’importance de Mastodon, et donc celle de tous les réseaux sociaux versus Substack.
 
-![Vues totales](_i/vuesSubstack2.svg)
+![Vues totales](_i/sub16.png)
 
 > **Leçon** : en tant qu’auteurs, nous avons intérêt à passer davantage de temps sur Substack qu’ailleurs si nous tenons à démultiplier notre audience Substack.
 
