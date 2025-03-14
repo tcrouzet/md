@@ -2,7 +2,7 @@
 
 ![Notre arme : le livre](_i/livre-arme.webp)
 
-Une amie me dit pourquoi tu n’écrirais pas un essai pour [notre collection Tracts](https://www.gallimard.fr/catalogue?f%5B0%5D=collection_serie%3A34775).
+Comment avec l’aide des IA j’ai trouvé l’idée d’un livre pour Gallimard, *Le Livre contre-attaque*, qui finalement ne sera pas publié par Gallimard (ce n’est pas le plus intéressant de l’histoire). Tout commence quand une amie me dit « Pourquoi tu n’écrirais pas un essai pour notre collection Tracts ? »
 
 Des idées me viennent tout de suite :
 
