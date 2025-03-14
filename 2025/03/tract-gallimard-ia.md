@@ -11,7 +11,7 @@ Des idées me viennent tout de suite :
 * Pourquoi encore écrire quand les IA le font très bien ?
 * Les IA vont-elles tuer la littérature ?
 
-Pour aller plus loin, je brainstorme avec les IA.
+Comme je suis pris au dépourvu, je brainstorme avec les IA (j’ai pris l’habitude d’en faire mes assistantes, mais je ne leur délègue surtout pas l’écriture). Le processus de brainstorming déroulé ci-après peut être repris dans de nombreuses situations. J’ai rejeté une à une les idées des IA, mais j’ai fini par accoucher d’un titre, *Le Livre Contre-attaque*, et au-delà du titre d’un sujet si brûlant que je me suis mis à écrire le livre. Sans cette séance de brainstorming, il ne se serait rien passé.
 
 ### Étape 1 : les données
 
@@ -208,18 +208,21 @@ Réponse :
 Voici les titres les plus pertinents pour la collection Tracts, sélectionnés selon les critères stylistiques et thématiques de la collection.
 
 **Titres sur le numérique et la société**
+
 - *La Dictature numérique* (concis, métaphorique, dans l’esprit de la collection)
 - *L’Empire des algorithmes* (évocateur, style collection)
 - *L’Exode numérique* (métaphore forte, concision)
 - *Désobéir aux algorithmes* (appel à l’action, style collection)
 
 **Titres sur l’écriture et les IA**
+
 - *Le Dernier Écrivain* (provocant, concis)
 - *Littérature année zéro* (référence au style de la collection)
 - *Écrire contre l’ennemi* (tension dramatique, style collection)
 - *Les Mots ne nous appartiennent plus* (formulation percutante)
 
 **Titres sur des sujets sociétaux**
+
 - *Le Vélo contre l’État* (opposition forte, style collection)
 - *Les Vaccins sont communistes* (provocateur, style collection)
 - *La Trace comme œuvre d’art* (réflexion culturelle)
@@ -238,11 +241,8 @@ Ces titres sont particulièrement réussis car ils :
 **Les plus prometteurs :**
 
 1. *L’Empire des algorithmes* (synthétise parfaitement la question du pouvoir technologique)
-
 2. *Le Dernier Écrivain* (dramatique et évocateur)
-
 3. *Désobéir aux algorithmes* (appel à l’action dans l’esprit de la collection)
-
 4. *Le Vélo contre l’État* (opposition politique claire)
 
 ### Étape 7 : laisser décanter
@@ -329,7 +329,7 @@ Ces règles d’écriture permettent de produire des ouvrages à la fois exigean
 
 ### Étape 9 : plan
 
-Comme je le dis souvent, je n’écris pas avec les IA, mais je les utilise pour brainstormer comme je le fais en ce moment. J’évite de planifier, j’aime que l’écriture m’emporte et me pousse à découvrir des points auxquels je n’ai jamais pensés (quitte à tout réécrire). Mais pour l’exercice, voici le prompt que je soumets à TractsSpécialist :
+J’évite de planifier quand j’écris, j’aime me laisser emporter et découvrir des points auxquels je n’ai jamais pensés (quitte à tout réécrire). Mais pour l’exercice, voici le prompt que je soumets à TractsSpecialist :
 
 « Je veux écrire pour la collection Tracts : *Le Technofascisme en marche*. Quelques idées : point historique sur collusion entre fascisme et industrie, comment le technofascisme induit un technosolutionnisme qui peut s’avérer très dangereux pour affronter la crise climatique, peut-être commencée par le salut nazi de Musk lors de l’investiture de Trump, expliquer comment nous pouvons lutter contre le technofascisme au quotidien, tant à titre individuel que collectif et institutionnel. Je te colle [mon dernier article sur le technofascisme](https://tcrouzet.com/2025/01/24/technofascisme/). Propose un plan en accord avec le style de la collection. »
 
