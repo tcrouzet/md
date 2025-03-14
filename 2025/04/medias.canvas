@@ -1,0 +1,114 @@
+{
+  "edges": [
+    {
+      "fromNode": "091994fde9c94074",
+      "fromSide": "right",
+      "id": "8634b0cf9d0ed2c9",
+      "label": "Blogs",
+      "styleAttributes": {
+      },
+      "toNode": "f672b04c9517b041",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e95560eba77c241e",
+      "fromSide": "right",
+      "id": "b286e1965030b678",
+      "styleAttributes": {
+      },
+      "toNode": "f672b04c9517b041",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e95560eba77c241e",
+      "fromSide": "bottom",
+      "id": "861d1769e2a36a19",
+      "styleAttributes": {
+      },
+      "toNode": "091994fde9c94074",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "f672b04c9517b041",
+      "fromSide": "right",
+      "id": "f6434f3ce49eb6ab",
+      "styleAttributes": {
+      },
+      "toNode": "7b20dc7427a6bc2b",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d6ce9c94f5eeae9d",
+      "fromSide": "right",
+      "id": "db287460ef5c0947",
+      "styleAttributes": {
+      },
+      "toNode": "7b20dc7427a6bc2b",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 60,
+      "id": "e95560eba77c241e",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Presse (XVIe)",
+      "type": "text",
+      "width": 300,
+      "x": -420,
+      "y": -120
+    },
+    {
+      "height": 60,
+      "id": "f672b04c9517b041",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Réseaux sociaux",
+      "type": "text",
+      "width": 340,
+      "x": 80,
+      "y": -100
+    },
+    {
+      "height": 66,
+      "id": "7b20dc7427a6bc2b",
+      "styleAttributes": {
+        "border": "dashed",
+        "textAlign": "center"
+      },
+      "text": "?",
+      "type": "text",
+      "width": 160,
+      "x": 620,
+      "y": -103
+    },
+    {
+      "height": 66,
+      "id": "d6ce9c94f5eeae9d",
+      "styleAttributes": {
+        "border": "dashed",
+        "textAlign": "center"
+      },
+      "text": "?",
+      "type": "text",
+      "width": 160,
+      "x": 210,
+      "y": 83
+    },
+    {
+      "height": 60,
+      "id": "091994fde9c94074",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Diary (XVIIIe)",
+      "type": "text",
+      "width": 320,
+      "x": -320,
+      "y": 20
+    }
+  ]
+}
