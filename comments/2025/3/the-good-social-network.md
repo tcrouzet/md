@@ -8,3 +8,9 @@ Je m’interroge par rapport à la jeune génération qui n’ont connu que Inst
 
 ---
 
+tcrouzet @ 2025-03-14 12:13:24 
+
+Me semble que beaucoup de jeunes ont compris la puissance de Substack…
+
+---
+
