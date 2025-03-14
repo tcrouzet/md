@@ -164,9 +164,9 @@ Réponse (je mets en évidence ce qui n’est pas à côté de la plaque).
 
 5. **L’Écrivain doit mourir** — Sur la fin nécessaire de la figure romantique de l’auteur.
 
-6. *Le Midi contre Paris — Manifeste pour une décentralisation radicale de la culture.
+6. *Le Midi contre Paris* — Manifeste pour une décentralisation radicale de la culture.
 
-7. *Pourquoi je déteste les éditeurs — Sur l’absurdité du système éditorial contemporain (je le garde parce que très mal à propos puisque je cherche une idée pour un texte à faire éditer).
+7. *Pourquoi je déteste les éditeurs* — Sur l’absurdité du système éditorial contemporain (je le garde parce que très mal à propos puisque je cherche une idée pour un texte à faire éditer).
 
 8. **Les Complotistes ont raison** — Comment la complexité du monde nous rend tous paranoïaques.
 
@@ -257,14 +257,12 @@ Ce que je retiens pour le moment…
 * *Écrire contre l’ennemi*
 * *Les Mots ne nous appartiennent plus*
 * *Les Vaccins sont communistes* (avec Didier)
-* J’ajoute le trop classique : *L’IA m’a tué*.
-* *Écrire pour les machines*.
+* J’ajoute le trop classique : *L’IA m’a tué*
+* *Écrire pour les machines*
 
 ### Étape 8 : la collection tracts
 
-Quand on cherche à écrire pour une collection, il faut lire quelques-uns de ses textes, mais aussi disposer de données objectives sur leur structure.
-
-Dans Dust, j’ai créé un corpus avec une vingtaine de textes de la collection et un TractsSpecialist dédié.
+Quand on cherche à écrire pour une collection, il faut lire quelques-uns de ses textes, mais aussi disposer de données objectives sur leur structure. Dans Dust, j’ai créé un corpus avec une vingtaine de textes de la collection et un TractsSpecialist dédié.
 
 **RÉPONSE**
 
@@ -651,20 +649,16 @@ En conclusion, *Le livre contre-attaque* s’intègre naturellement dans la coll
 
 ### Étape 13 : écrire
 
-Il n’est plus question d’utiliser les IA, sinon pour effectuer des recherches. Une fois que j’aurais un premier jet du manuscrit, je les utiliserais à nouveau pour le mettre à l’épreuve. Reste à savoir si je vais écrire *Le livre contre-attaque*. Peut-être est-ce la meilleure façon de poursuivre cette expérience et d’en documenter toute l’écriture. Il y aurait l’essai et l’histoire de l’essai.
+Il n’est plus question d’utiliser les IA, sinon pour effectuer des recherches. Quand j’aurai un premier jet du manuscrit, je les utiliserais à nouveau pour le mettre à l’épreuve. Reste à savoir si je vais écrire *Le livre contre-attaque*. Peut-être est-ce la meilleure façon de poursuivre cette expérience et d’en documenter l’écriture. Il y aurait l’essai et l’histoire de l’essai.
 
 ### Étape 14 : le manuscrit
 
-Finalement, j’ai écrit le premier jet du manuscrit en cinq jours intenses, début février, je l’ai proposé à Gallimard qui a fini par le refuser, j’imagine qu’ils donneront le sujet à traiter à un de leur auteur maison, mais je suis sûr qu’aucun d’eux n’osera dire ce que je dis dans ce texte, parce que la lutte contre le technofascisme passe par la décentralisation, le pluralisme, le logiciel libre et le libre partage. En prime j’ai vécu toute cette histoire en direct depuis 40 ans.
+Finalement, j’ai écrit le premier jet du manuscrit en cinq jours, début février, je l’ai proposé à Gallimard qui a fini par le refuser, j’imagine qu’ils donneront le sujet à traiter à un de leur auteur maison, mais je suis sûr qu’aucun d’eux n’osera dire ce que je dis dans ce texte, parce que la lutte contre le technofascisme passe par la décentralisation, le pluralisme, le logiciel libre et le libre partage. En prime j’ai vécu toute cette histoire en direct depuis 40 ans et suis plutôt bien placé pour la raconter.
 
-Maintenant je dois publier le texte vite parce qu’il est d’une actualité brûlante. Je ne peux me contenter de le diffuser en ligne, parce que je je démontre que le livre papier a leur rôle à jouer dans la lutte contre le technofascisme.
+Maintenant, je dois publier le texte vite parce qu’il est d’une actualité brûlante. Je ne peux me contenter de le diffuser en ligne, parce que j’y démontre que le livre papier a son rôle à jouer dans la lutte contre le technofascisme.
 
-### Étapte 15 : quatrième de couverture (Claude)
+### Étapte 15 : mon intro
 
-À l’ère du technofascisme incarné par l’alliance Trump-Musk, nos libertés sont menacées par des plateformes numériques qui façonnent nos pensées et nos comportements. Les algorithmes nous enferment dans des bulles informationnelles tandis que les oligarques concentrent un pouvoir sans précédent.
-
-Face à cette nouvelle forme de contrôle, Thierry Crouzet nous révèle une arme insoupçonnée : le livre. Objet qui circule librement de main en main, il échappe à la surveillance des géants du web et préserve notre capacité à penser par nous-mêmes.
-
-Cet essai percutant ne se contente pas d’analyser la menace — il propose des actes de résistance accessibles à tous. Lire, c’est déjà combattre.
+**L’inquiétude ne cesse de s’accroître face aux poussées autoritaristes qui animent les dirigeants politiques, en Russie, en Chine, aux États-Unis, au cœur même de l’Europe, pourtant construite pour éviter la répétition des horreurs passées.** Dans ce contexte anxiogène, et après la victoire de Donald Trump, élu quarante-septième président des États-Unis, difficile de ne pas interpréter le bras droit levé d’Elon Musk, tendu, main horizontale, comme un salut nazi plutôt qu’un simple geste d’exaltation. Des observateurs ont qualifié ce moment, le 20 janvier 2025 à Washington, du jour zéro du technofascisme. En vérité, le technofascisme est en marche depuis des décennies. L’arrivée de Musk, l’homme le plus riche du monde, au sommet de la démocratie étasunienne, que ce soit provisoirement ou durablement, nous fait passer de la crainte du pire au pire. Pour nous défendre, à titre individuel, collectif et institutionnel, il ne nous reste que les livres et les autres objets culturels qui circulent comme eux, à travers un réseau de distribution maillé à la surface des territoires, hors de la juridiction des centres de pouvoir oligarchique. Après l’inquiétude monte l’espoir d’un réveil. Le Livre avec un grand L contre-attaque, et ce petit texte part à l’assaut des murailles adverses.
 
 #netlitterature #y2025 #2025-3-14-16h00
