@@ -11,7 +11,7 @@ Des idées me viennent tout de suite :
 * Pourquoi encore écrire quand les IA le font très bien ?
 * Les IA vont-elles tuer la littérature ?
 
-Comme je suis pris au dépourvu, je brainstorme avec les IA (j’ai pris l’habitude d’en faire mes assistantes, mais je ne leur délègue surtout pas l’écriture). Le processus de brainstorming déroulé ci-après peut être repris dans de nombreuses situations. J’ai rejeté une à une les idées des IA, mais j’ai fini par accoucher d’un titre, *Le Livre Contre-attaque*, et au-delà du titre d’un sujet si brûlant que je me suis mis à écrire le livre. Sans cette séance de brainstorming, il ne se serait rien passé.
+Comme je suis pris au dépourvu, je brainstorme avec les IA (j’ai pris l’habitude d’en faire mes assistantes, mais je ne leur délègue surtout pas l’écriture). Le processus de brainstorming déroulé ci-après peut être repris dans de nombreuses situations. J’ai rejeté une à une les propositions des IA, mais j’ai fini par accoucher d’un titre, *Le Livre Contre-attaque*, et au-delà du titre d’un sujet si brûlant que je me suis mis à l’écrire. Sans cette séance de brainstorming, il ne se serait rien passé.
 
 ### Étape 1 : les données
 
