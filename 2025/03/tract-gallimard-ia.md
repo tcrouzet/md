@@ -649,7 +649,7 @@ En conclusion, *Le livre contre-attaque* s’intègre naturellement dans la coll
 
 ### Étape 13 : écrire
 
-Il n’est plus question d’utiliser les IA, sinon pour effectuer des recherches. Quand j’aurai un premier jet du manuscrit, je les utiliserais à nouveau pour le mettre à l’épreuve. Reste à savoir si je vais écrire *Le livre contre-attaque*. Peut-être est-ce la meilleure façon de poursuivre cette expérience et d’en documenter l’écriture. Il y aurait l’essai et l’histoire de l’essai.
+Il n’est plus question d’utiliser les IA, sinon pour effectuer des recherches. Reste à savoir si je vais écrire *Le livre contre-attaque*. Peut-être est-ce la meilleure façon de poursuivre cette expérience et d’en documenter l’écriture. Il y aurait l’essai et l’histoire de l’essai.
 
 ### Étape 14 : le manuscrit
 
@@ -661,4 +661,4 @@ Maintenant, je dois publier le texte vite parce qu’il est d’une actualité b
 
 **L’inquiétude ne cesse de s’accroître face aux poussées autoritaristes qui animent les dirigeants politiques, en Russie, en Chine, aux États-Unis, au cœur même de l’Europe, pourtant construite pour éviter la répétition des horreurs passées.** Dans ce contexte anxiogène, et après la victoire de Donald Trump, élu quarante-septième président des États-Unis, difficile de ne pas interpréter le bras droit levé d’Elon Musk, tendu, main horizontale, comme un salut nazi plutôt qu’un simple geste d’exaltation. Des observateurs ont qualifié ce moment, le 20 janvier 2025 à Washington, du jour zéro du technofascisme. En vérité, le technofascisme est en marche depuis des décennies. L’arrivée de Musk, l’homme le plus riche du monde, au sommet de la démocratie étasunienne, que ce soit provisoirement ou durablement, nous fait passer de la crainte du pire au pire. Pour nous défendre, à titre individuel, collectif et institutionnel, il ne nous reste que les livres et les autres objets culturels qui circulent comme eux, à travers un réseau de distribution maillé à la surface des territoires, hors de la juridiction des centres de pouvoir oligarchique. Après l’inquiétude monte l’espoir d’un réveil. Le Livre avec un grand L contre-attaque, et ce petit texte part à l’assaut des murailles adverses.
 
-#netlitterature #y2025 #2025-3-14-16h00
+#netlitterature #ia #y2025 #2025-3-14-16h00
