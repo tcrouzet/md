@@ -1,0 +1,515 @@
+{
+  "edges": [
+    {
+      "color": "6",
+      "fromNode": "f30d3ca49d4df136",
+      "fromSide": "bottom",
+      "id": "388d247836f894be",
+      "label": "Python",
+      "toNode": "2c30e53029b675c0",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromEnd": "arrow",
+      "fromNode": "f30d3ca49d4df136",
+      "fromSide": "left",
+      "id": "351e35ae6dafd49d",
+      "label": "Plugin Obsidian",
+      "toNode": "322127d2f2ac1257",
+      "toSide": "right"
+    },
+    {
+      "color": "6",
+      "fromNode": "e54419d917a6c250",
+      "fromSide": "right",
+      "id": "8cc65dc537b0a643",
+      "label": "Python",
+      "styleAttributes": {
+        "path": null,
+        "pathfindingMethod": null
+      },
+      "toNode": "791f73ded8c714f7",
+      "toSide": "left"
+    },
+    {
+      "color": "6",
+      "fromNode": "e54419d917a6c250",
+      "fromSide": "right",
+      "id": "63865e57e2b386e7",
+      "label": "Python",
+      "toNode": "0bebf2cf44d50bb5",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "e29a68bcd026f026",
+      "fromSide": "bottom",
+      "id": "78fe3013d6f3995e",
+      "styleAttributes": {
+      },
+      "toNode": "e54419d917a6c250",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromEnd": "arrow",
+      "fromNode": "f30d3ca49d4df136",
+      "fromSide": "left",
+      "id": "d7cc72bad76bb53f",
+      "label": "Plugin Obsidian",
+      "styleAttributes": {
+      },
+      "toNode": "db60bdef812a23a7",
+      "toSide": "bottom"
+    },
+    {
+      "color": "5",
+      "fromEnd": "arrow",
+      "fromNode": "1d02e92acc24f088",
+      "fromSide": "right",
+      "id": "ac61dd9f71fd8867",
+      "label": "Plugin Obsidian",
+      "styleAttributes": {
+      },
+      "toNode": "322127d2f2ac1257",
+      "toSide": "left"
+    },
+    {
+      "color": "5",
+      "fromNode": "f30d3ca49d4df136",
+      "fromSide": "left",
+      "id": "a8a3570d1dc67f85",
+      "label": "MacOS",
+      "styleAttributes": {
+      },
+      "toNode": "2af5e5be17b0134b",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "f30d3ca49d4df136",
+      "fromSide": "left",
+      "id": "353490984ca580ac",
+      "label": "Python",
+      "styleAttributes": {
+      },
+      "toNode": "f63fbba4bc1159f8",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "2c30e53029b675c0",
+      "fromSide": "left",
+      "id": "e0fc8dee52d56810",
+      "label": "Mastofeed",
+      "styleAttributes": {
+      },
+      "toNode": "45553ef99f279752",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "e29a68bcd026f026",
+      "fromSide": "right",
+      "id": "10153e9c8f8ba9e7",
+      "label": "Print",
+      "styleAttributes": {
+      },
+      "toNode": "b1c2c70ccf7474f3",
+      "toSide": "bottom"
+    },
+    {
+      "color": "3",
+      "fromNode": "b1c2c70ccf7474f3",
+      "fromSide": "top",
+      "id": "ea23a833766fd956",
+      "styleAttributes": {
+      },
+      "toNode": "e031050712870198",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "cf75ac8aa4bf7444",
+      "fromSide": "bottom",
+      "id": "96cb2141b9d6f3b9",
+      "styleAttributes": {
+      },
+      "toNode": "7f8bc653ff6064bc",
+      "toSide": "top"
+    },
+    {
+      "color": "5",
+      "fromNode": "e54419d917a6c250",
+      "fromSide": "right",
+      "id": "39fceb58c8e6354c",
+      "label": "Python",
+      "styleAttributes": {
+      },
+      "toNode": "c5776ca04d5e793c",
+      "toSide": "left"
+    },
+    {
+      "color": "3",
+      "fromNode": "c5776ca04d5e793c",
+      "fromSide": "bottom",
+      "id": "b882ae6b5ddab4ff",
+      "styleAttributes": {
+      },
+      "toNode": "b048b109fd31a927",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "f30d3ca49d4df136",
+      "fromSide": "bottom",
+      "id": "ada8311fff9c0132",
+      "label": "Python",
+      "styleAttributes": {
+        "path": null,
+        "pathfindingMethod": null
+      },
+      "toNode": "913b2817bde6a1fe",
+      "toSide": "top"
+    },
+    {
+      "color": "3",
+      "fromNode": "0bebf2cf44d50bb5",
+      "fromSide": "top",
+      "id": "2fd62124a474144f",
+      "styleAttributes": {
+      },
+      "toNode": "d86abe33d5dcbbb4",
+      "toSide": "bottom"
+    },
+    {
+      "color": "3",
+      "fromNode": "791f73ded8c714f7",
+      "fromSide": "top",
+      "id": "54337910ad426fda",
+      "styleAttributes": {
+      },
+      "toNode": "bbfe5e663d2f445d",
+      "toSide": "bottom"
+    },
+    {
+      "color": "6",
+      "fromNode": "f30d3ca49d4df136",
+      "fromSide": "bottom",
+      "id": "949a2f03baf5698c",
+      "label": "Python",
+      "styleAttributes": {
+      },
+      "toNode": "83032ffb5b5c66a9",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "f30d3ca49d4df136",
+      "fromSide": "bottom",
+      "id": "3e0d80afd5487af2",
+      "label": "Python",
+      "styleAttributes": {
+      },
+      "toNode": "83d2a3c1498892a7",
+      "toSide": "top"
+    }
+  ],
+  "nodes": [
+    {
+      "color": "5",
+      "height": 267,
+      "id": "1d02e92acc24f088",
+      "label": "Obsidian iOS",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "type": "group",
+      "width": 300,
+      "x": -1280,
+      "y": -267
+    },
+    {
+      "color": "5",
+      "height": 260,
+      "id": "f30d3ca49d4df136",
+      "label": "Obsidian Mac",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 300,
+      "x": -240,
+      "y": 0
+    },
+    {
+      "height": 60,
+      "id": "cf75ac8aa4bf7444",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Textes**",
+      "type": "text",
+      "width": 260,
+      "x": -1255,
+      "y": -227
+    },
+    {
+      "height": 60,
+      "id": "7f8bc653ff6064bc",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "**tcrouzet**",
+      "type": "text",
+      "width": 260,
+      "x": -1255,
+      "y": -117
+    },
+    {
+      "color": "3",
+      "height": 73,
+      "id": "db60bdef812a23a7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "GitHub privé",
+      "type": "text",
+      "width": 315,
+      "x": -535,
+      "y": -440
+    },
+    {
+      "color": "3",
+      "height": 76,
+      "id": "2af5e5be17b0134b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Time Machine",
+      "type": "text",
+      "width": 300,
+      "x": -1170,
+      "y": 200
+    },
+    {
+      "color": "3",
+      "height": 70,
+      "id": "322127d2f2ac1257",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "DropBox",
+      "type": "text",
+      "width": 235,
+      "x": -734,
+      "y": -30
+    },
+    {
+      "color": "6",
+      "height": 70,
+      "id": "2c30e53029b675c0",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "tcrouzet.com",
+      "type": "text",
+      "width": 278,
+      "x": -558,
+      "y": 487
+    },
+    {
+      "color": "3",
+      "height": 76,
+      "id": "f63fbba4bc1159f8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Cloud Backup",
+      "type": "text",
+      "width": 300,
+      "x": -815,
+      "y": 344
+    },
+    {
+      "height": 60,
+      "id": "e29a68bcd026f026",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Textes**",
+      "type": "text",
+      "width": 260,
+      "x": -220,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "e54419d917a6c250",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "**tcrouzet**",
+      "type": "text",
+      "width": 260,
+      "x": -220,
+      "y": 140
+    },
+    {
+      "color": "3",
+      "height": 73,
+      "id": "b1c2c70ccf7474f3",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Livres",
+      "type": "text",
+      "width": 233,
+      "x": 30,
+      "y": -213
+    },
+    {
+      "color": "3",
+      "height": 73,
+      "id": "0bebf2cf44d50bb5",
+      "styleAttributes": {
+        "border": null,
+        "shape": null,
+        "textAlign": "center"
+      },
+      "text": "github.com/tcrouzet/md",
+      "type": "text",
+      "width": 411,
+      "x": 315,
+      "y": -300
+    },
+    {
+      "color": "3",
+      "height": 66,
+      "id": "791f73ded8c714f7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "github.com/tcrouzet/blog",
+      "type": "text",
+      "width": 458,
+      "x": 608,
+      "y": 34
+    },
+    {
+      "color": "6",
+      "height": 73,
+      "id": "e031050712870198",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Librairies",
+      "type": "text",
+      "width": 275,
+      "x": -128,
+      "y": -440
+    },
+    {
+      "color": "6",
+      "height": 73,
+      "id": "d86abe33d5dcbbb4",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "md.tcrouzet.com",
+      "type": "text",
+      "width": 354,
+      "x": 200,
+      "y": -440
+    },
+    {
+      "color": "3",
+      "height": 80,
+      "id": "c5776ca04d5e793c",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "git.sr.ht/~tcrouzet",
+      "type": "text",
+      "width": 373,
+      "x": 619,
+      "y": 170
+    },
+    {
+      "color": "6",
+      "height": 73,
+      "id": "bbfe5e663d2f445d",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "static.tcrouzet.com",
+      "type": "text",
+      "width": 386,
+      "x": 644,
+      "y": -440
+    },
+    {
+      "color": "6",
+      "height": 73,
+      "id": "b048b109fd31a927",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "gemini://koyu.space/tcrouzet",
+      "type": "text",
+      "width": 502,
+      "x": 554,
+      "y": 383
+    },
+    {
+      "color": "6",
+      "height": 73,
+      "id": "913b2817bde6a1fe",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "tcrouzet.substack.com",
+      "type": "text",
+      "width": 442,
+      "x": -499,
+      "y": 744
+    },
+    {
+      "color": "6",
+      "height": 73,
+      "id": "83d2a3c1498892a7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "727bikepacking.substack.com",
+      "type": "text",
+      "width": 511,
+      "x": 8,
+      "y": 743
+    },
+    {
+      "color": "6",
+      "height": 70,
+      "id": "83032ffb5b5c66a9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "crouzet.substack.com (EN)",
+      "type": "text",
+      "width": 502,
+      "x": 586,
+      "y": 744
+    },
+    {
+      "color": "2",
+      "height": 73,
+      "id": "45553ef99f279752",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mastodon",
+      "type": "text",
+      "width": 260,
+      "x": -1125,
+      "y": 670
+    }
+  ]
+}

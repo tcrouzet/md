@@ -6,30 +6,33 @@ Pour m’écrire tout court :
 
 Thierry Crouzet, 18, rue des Trimarans. 34540 Balaruc les Bains. France.
 
-En ligne hors du blog…
+### Hors du blog
 
 * [Substack](https://tcrouzet.substack.com/)
-* [Mastodon](https://mamot.fr/@tcrouzet) (mon réseau social de prédilection)
-* [Facebook](http://www.facebook.com/tcrouzet)
-* [FacebookPage](https://www.facebook.com/ThierryCrouzetAuteur/)
-* [BlueSky](https://bsky.app/profile/crouzet.bsky.social)
-* [Linkedin](https://fr.linkedin.com/in/tcrouzet)
+* [Mastodon](https://mamot.fr/@tcrouzet)
 
-Des vestiges ailleurs…
+### Ailleurs
 
-* Twitter (@crouzet fermé le 31/10/2023)
 * [Whereby](https://whereby.com/tcrouzet)
-* [Wattpad](http://www.wattpad.com/user/ThierryCrouzet)
+* [Wattpad](http://www.wattpad.com/user/ThierryCrouzet) (archives historique de *One Minute*)
 * [Medium](https://medium.com/@tcrouzet)
 * [YouTube](https://www.youtube.com/user/thierrycrouzet)
-* [Instagram](http://instagram.com/tcrouzet)
-* [500px](https://500px.com/crouzet)
 * [Flickr (mes photos)](http://www.flickr.com/photos/8604533@N06/)
 * [Flickr (search)](http://www.flickr.com/search/?q=Thierry%20Crouzet)
 * [Pinterest](http://pinterest.com/tcrouzet/)
 * [Google actualités](http://news.google.fr/news?hl=fr&ned=fr&q=%22Thierry+Crouzet%22&btnG=Recherche+Actualit%C3%A9s)
 * [Amazon.fr](http://www.amazon.fr/crouzet/e/B004N7SD4G)
 * [Amazon.com](https://www.amazon.com/author/crouzet)
-* [tumblr](http://tcrouzet.tumblr.com/)
+
+### Anciens comptes
+
+* Facebook (fermé le 19/3/2025)
+* FacebookPage (fermé le 19/3/2025)
+* BlueSky (fermé le 19/3/2025)
+* Linkedin (fermé le 19/3/2025)
+* Instagram (fermé le 19/3/2025)
+* tumblr (fermé le 15/3/2025)
+* 500px (fermé le 15/32025)
+* Twitter (@crouzet fermé le 31/10/2023)
 
 #page #y2013 #2013-1-26-13h17

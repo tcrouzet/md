@@ -1,4 +1,4 @@
-# Comment écrire un Tract pour Gallimard
+# La collection Tracts de Gallimard sous l’œil des IA
 
 ![Notre arme : le livre](_i/livre-arme.webp)
 
