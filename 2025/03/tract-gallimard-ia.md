@@ -2,7 +2,7 @@
 
 ![Notre arme : le livre](_i/livre-arme.webp)
 
-Comment avec l’aide des IA j’ai trouvé l’idée d’un livre pour Gallimard, *Le Livre contre-attaque*, qui finalement ne sera pas publié par Gallimard (ce n’est pas le plus intéressant de l’histoire). Tout commence quand une amie me dit « Pourquoi tu n’écrirais pas un essai pour notre collection Tracts ? »
+Comment avec l’aide des IA j’ai trouvé l’idée d’un livre pour Gallimard. Tout commence quand une amie me dit « Pourquoi tu n’écrirais pas un essai pour [notre collection Tracts](https://www.gallimard.fr/collections/tracts) ? »
 
 Des idées me viennent tout de suite :
 
@@ -653,7 +653,7 @@ Il n’est plus question d’utiliser les IA, sinon pour effectuer des recherche
 
 ### Étape 14 : le manuscrit
 
-Finalement, j’ai écrit le premier jet du manuscrit en cinq jours, début février, je l’ai proposé à Gallimard qui a fini par le refuser, j’imagine qu’ils donneront le sujet à traiter à un de leur auteur maison, mais je suis sûr qu’aucun d’eux n’osera dire ce que je dis dans ce texte, parce que la lutte contre le technofascisme passe par la décentralisation, le pluralisme, le logiciel libre et le libre partage. En prime j’ai vécu toute cette histoire en direct depuis 40 ans et suis plutôt bien placé pour la raconter.
+Finalement, j’ai écrit le premier jet du manuscrit en cinq jours, début février, je l’ai proposé à Gallimard qui a fini par le refuser, à cause d’un embouteillage éditorial dans la collecion Tracts.
 
 Maintenant, je dois publier le texte vite parce qu’il est d’une actualité brûlante. Je ne peux me contenter de le diffuser en ligne, parce que j’y démontre que le livre papier a son rôle à jouer dans la lutte contre le technofascisme.
 
