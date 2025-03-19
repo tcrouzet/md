@@ -2,7 +2,7 @@
 
 ![Notre arme : le livre](_i/livre-arme.webp)
 
-Comment avec l’aide des IA j’ai trouvé l’idée d’un livre pour Gallimard. Tout commence quand une amie me dit « Pourquoi tu n’écrirais pas un essai pour [notre collection Tracts](https://www.gallimard.fr/collections/tracts) ? »
+Comment avec l’aide des IA j’ai trouvé l’idée d’un livre. Tout commence quand une amie me dit « Pourquoi tu n’écrirais pas un essai pour [notre collection Tracts](https://www.gallimard.fr/collections/tracts) ? »
 
 Des idées me viennent tout de suite :
 
