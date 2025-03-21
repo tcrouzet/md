@@ -56,7 +56,11 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 
 2002 - Création de bonblog.com, plateforme de blog où je crachote quelques textes, sans conviction (je suis trop dans *Ératosthène*).
 
-2005 - Ouverture de [tcrouzet.com](/).
+*[2005 - Articles](/2005)*
+
+Mars, naissance de Timothée.
+
+Octobre, ouverture de [tcrouzet.com](/).
 
 *[2006 - Articles](/2006)*
 
@@ -64,179 +68,189 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 
 *[2007 - Articles](/2007)*
 
-2007 - [*Le cinquième pouvoir*](../books/cinquieme-pouvoir/le-cinquieme-pouvoir.md), écrit collaborativement, Bourin.
+Janvier, [*Le cinquième pouvoir*](../books/cinquieme-pouvoir/le-cinquieme-pouvoir.md), écrit collaborativement, Bourin.
+
+Mai, naissance d’Émile.
 
 *[2008 - Articles](/2008)*
 
-2008 - [*La quatrième théorie*](../books/la-quatrieme-theorie/la-quatrieme-theorie.md), roman sur Twitter.
+[*La quatrième théorie*](../books/la-quatrieme-theorie/la-quatrieme-theorie.md), roman sur Twitter.
 
 *[2009 - Articles](/2009)*
 
-2009 - [*Les crapauds fous*](../books/les-crapauds-fous.md), un essai avorté.
+[*Les crapauds fous*](../books/les-crapauds-fous.md), un essai avorté.
 
 *[2010 - Articles](/2010)*
 
-2010 - [*J’ai eu l’idée*](../books/id.md), Publie.net.
+[*J’ai eu l’idée*](../books/id.md), Publie.net.
 
-2010 - [*La stratégie du cyborg*](../books/la-strategie-du-cyborg.md), 40K, initialement publié en italien.
+[*La stratégie du cyborg*](../books/la-strategie-du-cyborg.md), 40K, initialement publié en italien.
 
-2010 - [*L’alternative nomade*](../books/alternative-nomade.md), Publie.net.
+[*L’alternative nomade*](../books/alternative-nomade.md), Publie.net.
 
-2010 - [*Le monde de i*](../books/tune-caniveau.md), tentative d’une narration collaborative.
+[*Le monde de i*](../books/tune-caniveau.md), tentative d’une narration collaborative.
 
 *[2011 - Articles](/2011)*
 
-2011 - *Ératosthène*, narration non-linéaire.
+*Ératosthène*, narration non-linéaire.
 
-2011 - [*Ya Basta*](../books/ya-basta.md), Publie.net.
+[*Ya Basta*](../books/ya-basta.md), Publie.net.
 
-2011 - [*La tune dans le caniveau*](../books/tune-caniveau.md), expérience d’édition collaborative.
+[*La tune dans le caniveau*](../books/tune-caniveau.md), expérience d’édition collaborative.
 
 *[2012 - Articles](/2012)*
 
-2012 - [*J’ai débranché*](../books/jai-debranche/jai-debranche.md), Fayard.
+[*J’ai débranché*](../books/jai-debranche/jai-debranche.md), Fayard.
 
-2012 - [*Baby-Foot*](../books/baby-foot.md), Publie.net.
+[*Baby-Foot*](../books/baby-foot.md), Publie.net.
 
 *[2013 - Articles](/2013)*
 
-2013 - Mars, [*La quatrième théorie*](../books/la-quatrieme-theorie/la-quatrieme-theorie.md), Fayard.
+Mars, [*La quatrième théorie*](../books/la-quatrieme-theorie/la-quatrieme-theorie.md), Fayard.
 
-2013 - Septembre, début des [vagabondages](/tags/vagabondage).
+Septembre, début des [vagabondages](/tags/vagabondage).
 
-2013 - Novembre, [*Le send*](/2013/11/15/la-send-generation/), spécificité de l’écriture numérique.
+Novembre, [*Le send*](/2013/11/15/la-send-generation/), spécificité de l’écriture numérique.
 
-2013 - Décembre, invité en Italie, j’écris *[Les confins du monde](../books/baby-foot.md)*.
+Décembre, invité en Italie, j’écris *[Les confins du monde](../books/baby-foot.md)*.
 
 *[2014 - Articles](/2014)*
 
-2014 - Mai, [*Le geste qui sauve*](../books/geste1/le-geste-qui-sauve.md), L’âge d’homme.
+Mai, [*Le geste qui sauve*](../books/geste1/le-geste-qui-sauve.md), L’âge d’homme.
 
-2014 - Septembre, [*Ératosthène*](../books/eratosthene/eratosthene.md), L’âge d’homme.
+Septembre, [*Ératosthène*](../books/eratosthene/eratosthene.md), L’âge d’homme.
 
-2014 - Octobre, [*Clitoria*](../books/clitoria.md), Thaulk.
+Septembre, mort de mon père.
 
-2014 - Octobre, [*Le blog comme rouleau*](/2014/10/26/ce-qui-manque-au-blog-ou-la-revolution-litteraire/), repenser le blog.
+Octobre, [*Clitoria*](../books/clitoria.md), Thaulk.
+
+Octobre, [*Le blog comme rouleau*](/2014/10/26/ce-qui-manque-au-blog-ou-la-revolution-litteraire/), repenser le blog.
 
 *[2015 - Articles](/2015)*
 
-2015 - [*One Minute*](../books/une-minute.md), feuilleton sur Wattpad.
+[*One Minute*](../books/une-minute.md), feuilleton sur Wattpad.
 
-2015 - [*La mécanique du texte*](../books/la-mecanique-du-texte.md), Publie.net.
+[*La mécanique du texte*](../books/la-mecanique-du-texte.md), Publie.net.
 
-2015 - Début de la publication en ligne de mon [*Carnet*](/tag/carnet-de-route/).
+Début de la publication en ligne de mon [*Carnet*](/tag/carnet-de-route/).
 
 *[2016 - Articles](/2016)*
 
-2016 - *Résistants*, test d’un feuilleton sur Instagram.
+*Résistants*, test d’un feuilleton sur Instagram.
 
-2016 - [*Mon revenu de base*](../books/mon-revenu-de-base.md), compilation d’articles, Thaulk.
+[*Mon revenu de base*](../books/mon-revenu-de-base.md), compilation d’articles, Thaulk.
 
 *[2017 - Articles](/2017)*
 
-2017 - [*Résistants*](../books/resistants/resistants.md), Bragelonne.
+[*Résistants*](../books/resistants/resistants.md), Bragelonne.
 
-2017 - [*Le texte comme happening*](/2016/04/12/la-litterature-comme-happening/), article dans [Design & innovation dans la chaîne du livre](https://www.puf.com/content/Design_et_innovation_dans_la_cha%C3%AEne_du_livre), Puf.
+[*Le texte comme happening*](/2016/04/12/la-litterature-comme-happening/), article dans [Design & innovation dans la chaîne du livre](https://www.puf.com/content/Design_et_innovation_dans_la_cha%C3%AEne_du_livre), Puf.
 
-2017 - [La saga des nanomachines littéraires](http://komodo21.fr/saga-nanomachines-litteraires/), texte pour la revue universitaire [Komodo](http://komodo21.fr/).
+[La saga des nanomachines littéraires](http://komodo21.fr/saga-nanomachines-litteraires/), texte pour la revue universitaire [Komodo](http://komodo21.fr/).
 
-2017 - [J’écris *Mon père, ce tueur*](../books/mon-pere-ce-tueur.md), sortie août 2019.
+[J’écris *Mon père, ce tueur*](../books/mon-pere-ce-tueur.md), sortie août 2019.
 
-2017 - [*Géolecture*](../books/geolecture.md), création d’une application de lecture augmentée, avec l’aide d’une bourse de [Occitanie Livre livre et lecture](http://www.occitanielivre.fr/).
+[*Géolecture*](../books/geolecture.md), création d’une application de lecture augmentée, avec l’aide d’une bourse de [Occitanie Livre livre et lecture](http://www.occitanielivre.fr/).
 
-2017 - [*Le best-seller comme contrainte*](http://www.revue-critique-de-fixxion-francaise-contemporaine.org/rcffc/article/view/fx15.16/1155), revue Fixxion.
+[*Le best-seller comme contrainte*](http://www.revue-critique-de-fixxion-francaise-contemporaine.org/rcffc/article/view/fx15.16/1155), revue Fixxion.
 
 *[2018 - Articles](/2018)*
 
-2018 - [*Géolecture, Nîmes*](../books/geolecture.md), sur les traces de Borges.
+[*Géolecture, Nîmes*](../books/geolecture.md), sur les traces de Borges.
 
-2018 - Janvier, juin, j’écris [*L’homme qui ne comprenait pas les femmes*](../books/lhomme-qui-ne-comprenait-pas-les-femmes.md).
+Janvier, juin, j’écris [*L’homme qui ne comprenait pas les femmes*](../books/lhomme-qui-ne-comprenait-pas-les-femmes.md).
 
-2018 - Août, arrivée en Floride.
+Août, arrivée en Floride.
 
-2018 - [*L’Affaire Deluze*](../books/deluze.md), publication en édition luxe par Les XII Singes.
+[*L’Affaire Deluze*](../books/deluze.md), publication en édition luxe par Les XII Singes.
 
-2018 - Octobre, novembre, deux nouvelles *Temps Zéro* et *La Chute*.
+Octobre, novembre, deux nouvelles *Temps Zéro* et *La Chute*.
 
-2018 - Novembre, début de [*Born to Bike*](../books/borntobike.md).
+Novembre, début de [*Born to Bike*](../books/borntobike.md).
 
 *[2019 - Articles](/2019)*
 
-2019 - 9 mai, sortie de [*L’homme qui ne comprenait pas les femmes*, Grand Angle](../books/lhomme-qui-ne-comprenait-pas-les-femmes.md).
+9 mai, sortie de [*L’homme qui ne comprenait pas les femmes*, Grand Angle](../books/lhomme-qui-ne-comprenait-pas-les-femmes.md).
 
-2019 - Juin, retour de Floride.
+Juin, retour de Floride.
 
-2019 - 22 août, sortie de [*Mon père, ce tueur*](../books/mon-pere-ce-tueur.md), La manufacture de livres.
+22 août, sortie de [*Mon père, ce tueur*](../books/mon-pere-ce-tueur.md), La manufacture de livres.
 
-2019 - Septembre-Octobre, écriture des *Ravissements*.
+Septembre-Octobre, écriture des *Ravissements*.
 
-2019 - Décembre, [*Une initiation au bikepacking*](../books/une-initiation-au-bikepacking.md), Thaulk.
+Décembre, [*Une initiation au bikepacking*](../books/une-initiation-au-bikepacking.md), Thaulk.
 
 *[2020 - Articles](/2020)*
 
-2020 - Janvier, j’écris un petit roman [*Les Silencieux*](../books/les-silencieux.md).
+Janvier, j’écris un petit roman [*Les Silencieux*](../books/les-silencieux.md).
 
-2020 - Février, véritable début du travail sur *Adapter pour adopter*.
+Février, véritable début du travail sur *Adapter pour adopter*.
 
-2020 - Mai, j’écris *La femme qui semait des livres*.
+Mai, j’écris *La femme qui semait des livres*.
 
-2020 - Juin-septembre, *Vaincre les épidémies*.
+Juin-septembre, *Vaincre les épidémies*.
 
-2020 - Octobre, décembre, termine *Adapter pour Adopter*.
+Octobre, décembre, termine *Adapter pour Adopter*.
 
 [**2021 - Articles**](/2021/)
 
-2021 - Janvier, début de *L’atelier d’écriture*.
+Janvier, début de *L’atelier d’écriture*.
 
-2021 - Avril, juin, finalisation de [*One Minute*](../books/une-minute.md).
+Avril, juin, finalisation de [*One Minute*](../books/une-minute.md).
 
-2021 - Août, [mon carnet en NFT](/2021/08/20/je-vends-mon-blog-aux-encheres-en-nft/).
+Août, [mon carnet en NFT](/2021/08/20/je-vends-mon-blog-aux-encheres-en-nft/).
 
-2021 - Septembre, publication de [*Adapter pour Adopter*](../books/adapter-pour-adopter.md).
+Septembre, publication de [*Adapter pour Adopter*](../books/adapter-pour-adopter.md).
 
-2021 - Octobre, décembre, [*Cyclotrope*](../books/cyclotrope.md).
+Octobre, décembre, [*Cyclotrope*](../books/cyclotrope.md).
 
-2021 - Décembre, [*Les Silencieux*](../books/les-silencieux.md) en NFT.
+Décembre, [*Les Silencieux*](../books/les-silencieux.md) en NFT.
 
-2021 - Décembre, [*La Chute*](/2021/12/23/achetez-revendez-une-nouvelle-en-nft-pour-2/) en NFT.
+Décembre, [*La Chute*](/2021/12/23/achetez-revendez-une-nouvelle-en-nft-pour-2/) en NFT.
 
 [**2022 - Articles**](/2022/)
 
-2022 - Février, début de la suite de *Mon père, ce tueur* (*Le Roman de mon père*).
+Février, début de la suite de *Mon père, ce tueur* (*Le Roman de mon père*).
 
-2022 - Juillet-octobre, *Épicènes*.
+Juillet-octobre, *Épicènes*.
 
-2022 - Novembre, publication de [*One Minute*](../books/une-minute.md) en France.
+Novembre, publication de [*One Minute*](../books/une-minute.md) en France.
 
-2022 - Novembre, autopublication de [*Cyclotrope*](../books/cyclotrope.md).
+Novembre, autopublication de [*Cyclotrope*](../books/cyclotrope.md).
 
 [**2023 - Articles**](/2023/)
 
-2023 - Janvier, le blog bascule en mode statique.
+Janvier, le blog bascule en mode statique.
 
-2023 - Avril, début d’un space opéra avec usage intensif des IA.
+Avril, début d’un space opéra avec usage intensif des IA (projé avorté).
 
-2023 - Mai, finalisation du *Roman de mon père*.
+Mai, finalisation du *Roman de mon père*.
 
-2023 - Juin, début du *Code Houellebecq* (écrit avec l’aide des IA, mais pas par une IA).
+Juin, début du *Code Houellebecq* (écrit avec l’aide des IA, mais pas par une IA).
 
-2023 - Octobre, premier jet du *Code Houellebecq* (La Manufacture refuse le manuscrit).
+Octobre, premier jet du *Code Houellebecq* (La Manufacture refuse le manuscrit).
 
-2023 - Novembre, [expérimentations avec les GPTs](https://gpt.tcrouzet.com/).
+Novembre, [expérimentations avec les GPTs](https://gpt.tcrouzet.com/).
 
 [**2024 - Articles**](/2024/)
 
-2024 - Février, autopublication du [*Code Houellebecq*](../books/le-code-houellebecq.md).
+Février, autopublication du [*Code Houellebecq*](../books/le-code-houellebecq.md).
 
-2024 - Mars, création de [Genlog](http://genlog.tcrouzet.com/), expérience de littérature générative.
+Mars, création de [Genlog](http://genlog.tcrouzet.com/), expérience de littérature générative.
 
-2024 - Avril, je me débarrasse définitivement de WordPress.
+Avril, je me débarrasse définitivement de WordPress.
 
-2024 - Juin, début de *Rush*.
+Juin, début de *Rush*.
 
 [**2025 - Articles**](/2025/)
 
-2025 - Juin, publication d’*Épicènes*.
+Janvier, *Rush* sortira en novembre chez PVH.
+
+Février, j’écris *Le Livre contre-attaque*.
+
+Mars, je quitte les réseaux sociaux privatifs.
+
+Juin, publication d’*Épicènes*.
 
 ### Interviews
 
@@ -297,5 +311,13 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
  [727 bikepacking](https://727bikepacking.fr/)
 
  [Lectures](https://tcrouzet.com/page/lectures/)
+
+[Flickr (search)](http://www.flickr.com/search/?q=Thierry%20Crouzet)
+
+[Google actualités](http://news.google.fr/news?hl=fr&ned=fr&q=%22Thierry+Crouzet%22&btnG=Recherche+Actualit%C3%A9s)
+
+[Amazon.fr](http://www.amazon.fr/crouzet/e/B004N7SD4G)
+
+[Amazon.com](https://www.amazon.com/author/crouzet)
 
 #page #y2006 #2006-6-25-8h42
