@@ -24,7 +24,7 @@ Thierry Crouzet, 18, rue des Trimarans. 34540 Balaruc les Bains. France.
 * Facebook (fermé le 20/3/2025)
 * FacebookPage (fermé le 20/3/2025)
 * BlueSky (fermé le 20/3/2025)
-* Linkedin (fermé le 20/3/2025)
+* Linkedin (fermé le 19/3/2025)
 * Instagram (fermé le 19/3/2025)
 * Flickr (fermé le 17/3/2025)
 * Medium (fermé le 17/3/2025)
