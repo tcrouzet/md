@@ -65,4 +65,4 @@ J’ai commencé une première exploitation (pour le moment infructueuse). [Mon 
 
 [Aussi que le hard est le même que les montres Coros, ce qui expliquerait le rendu médiocre, le logiciel n’ayant pas été pensé pour un écran plus grand.](https://www.facebook.com/groups/1956177877969720/posts/3897577167163105/?comment_id=3897587670495388&reply_comment_id=3897656693821819)
 
-#velo #GPS #bikepacking #y2025 #2025-1-24-14h00
+#velo #gps #bikepacking #y2025 #2025-1-24-14h00
