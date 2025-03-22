@@ -248,6 +248,6 @@ Jeff Bezos interdit aux éditorialistes du *Washington post* de critiquer la lib
 
 ### Vendredi 28, Balaruc
 
-Travail d’arrache-pied sur *Rush* maintenant que je sais qu’il sortira en novembre. Étrange texte qui pourrait ne jamais finir et qui ne cesse de se contenir lui-même. Pendant ce temps, le monde s’écroule. C’est le règne des fous. Je suis persuadé que les réseaux sociaux ont plus que leur responsabilité dans la catastrophe. Tout le monde prêt aux pires atrocités pour attirer l’attention. 
+Travail d’arrache-pied sur *Rush* maintenant que je sais qu’il sortira en novembre. Étrange texte qui pourrait ne jamais finir et qui ne cesse de se contenir lui-même. Pendant ce temps, le monde s’écroule. C’est le règne des fous. Je suis persuadé que les réseaux sociaux ont plus que leur responsabilité dans la catastrophe. Tout le monde prêt aux pires atrocités pour attirer l’attention.
 
 #carnets #y2025 #2025-3-7-18h00
