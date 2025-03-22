@@ -91,6 +91,6 @@ Tout en écrivant cet article, j’ai pensé aux *Lettres* de Madame de Sévign�
 
 Peut-être écrire plus intime, partager les troubles de l’existence, sans en même temps raconter sa vie, répondre à un besoin de communion…
 
-Ma prochaine étape : quitter tous les réseaux sociaux algorithmiques. Mes groupes vélos me retiennent encore sur Facebook, parce que je les utilise pour organiser mes randonnées. Je réfléchis à créer un Substack vélo, et puis je dirai bye bye à Facebook. 
+Ma prochaine étape : quitter tous les réseaux sociaux algorithmiques. Mes groupes vélos me retiennent encore sur Facebook, parce que je les utilise pour organiser mes randonnées. Je réfléchis à créer un Substack vélo, et puis je dirai bye bye à Facebook.
 
 #netculture #y2025 #2025-3-11-17h00
