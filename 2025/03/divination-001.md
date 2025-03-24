@@ -2,6 +2,8 @@
 
 ![phone1](_i/phone001.webp)
 
+[Introduction du projet *Divinations*…](https://tcrouzet.com/2025/03/20/mythologies-de-poche/)
+
 Les icônes enfouies dans le motif floral comme si la propriétaire du téléphone, une Francilienne, jeune employée, se voulait à la fois visible et discrète, une esthète sans doute.
 
 Le motif pourrait être de Matisse. Un tissu resté longtemps plié, peut-être, avant d’être tendu, marouflé, peut-être. Ancien, chargé d’une valeur sentimentale indéfectible, dont le rappel à longueur de journée rassure et conforte des choix de vie.
