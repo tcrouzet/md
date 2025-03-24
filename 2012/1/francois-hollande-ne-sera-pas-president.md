@@ -1,6 +1,6 @@
 # Pourquoi François Hollande ne sera pas Président… ou ce sera la cata
 
-![](_i/François_Hollande_Septembre_2011.webp)
+![](_i/Francois_Hollande_Septembre_2011.webp)
 
 Depuis [ma reconnexion](../../page/jai-debranche), je n’ai guère envie de bloguer, encore moins de m’intéresser à la prochaine élection présidentielle qui n’est l’occasion d’aucun débat de fond, par exemple sur le [dividende universel](#dividende-universel). En revanche, je ne peux m’empêcher d’effectuer une petite observation logico-psychologique.
 
