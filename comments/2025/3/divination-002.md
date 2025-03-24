@@ -8,3 +8,9 @@ J’adore l’exercice, la divination et la juxtaposition avec la réponse. L’
 
 ---
 
+tcrouzet @ 2025-03-24 20:32:17 
+
+L'exercice est stimulant, j'ai pas l'habitude d'essayer d'être quelqu'un d'autre :-)
+
+---
+
