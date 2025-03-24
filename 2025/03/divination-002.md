@@ -2,7 +2,7 @@
 
 ![Phone 2](_i/002.webp)
 
-[Introduction du projet *Divinations*…](https://tcrouzet.com/2025/03/20/mythologies-de-poche/)
+[Présentation du projet…](https://tcrouzet.com/2025/03/20/mythologies-de-poche/)
 
 Impossible de pas m’arrêter devant ce fond d’écran. J’ai vu *Alien* à sa sortie en 1979, j’avais 16 ans, j’étais seul dans la salle, un mercredi après-midi, une véritable expérience mystique pour un fan de science-fiction. L’image me rappelle les œuvres originales de [Hans Ruedi Giger](https://fr.wikipedia.org/wiki/Hans_Ruedi_Giger), sans être aussi détaillée, aussi baveuse, aussi violente. Elle n’en revendique pas moins un goût esthétique affirmé, tout en restant encore incertain, puisque par contraste les rares icônes s’ordonnent en bas de l’écran avec méticulosité. Je ressens une tension entre baroque et minimalisme.
 

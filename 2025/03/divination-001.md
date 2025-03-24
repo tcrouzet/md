@@ -2,7 +2,7 @@
 
 ![phone1](_i/phone001.webp)
 
-[Introduction du projet *Divinations*…](https://tcrouzet.com/2025/03/20/mythologies-de-poche/)
+[Présentation du projet…](https://tcrouzet.com/2025/03/20/mythologies-de-poche/)
 
 Les icônes enfouies dans le motif floral comme si la propriétaire du téléphone, une Francilienne, jeune employée, se voulait à la fois visible et discrète, une esthète sans doute.
 
