@@ -111,7 +111,7 @@ Je fais un pas en avant. Mon geste est clair, déterminé. Nous ne sommes pas ic
 
 Les extraterrestres reculent, leurs mouvements fluides, presque gracieux. Un échange silencieux se tisse entre nous, une reconnaissance mutuelle d’intelligence.
 
-Je scrute chaque détail, chaque objet, chaque créature. Ce monde, cette culture, ces êtres... tous nouveaux, tous fascinants. Mais mon cerveau, entraîné, reste focalisé sur la mission.
+Je scrute chaque détail, chaque objet, chaque créature. Ce monde, cette culture, ces êtres… tous nouveaux, tous fascinants. Mais mon cerveau, entraîné, reste focalisé sur la mission.
 
 Ce n’est que le début. Le début d’une exploration, d’une confrontation, d’une compréhension. La porte est ouverte. L’inconnu nous attend.
 
@@ -234,7 +234,7 @@ Soudain, au cœur de la salle, un pilier lumineux s’élève, vibrant d’une l
 
 Je fixe le pilier. Une forme se dessine à l’intérieur, indistincte, grandissant en clarté. Une silhouette ? Un message ? Impossible à dire.
 
-Je reprends mon communicateur. "Situation évolutive. Phénomène inconnu en cours..." Ma voix est interrompue par l’émergence d’une figure du pilier. Humaine ? Extraterrestre ? Amie ? Ennemie ?
+Je reprends mon communicateur. "Situation évolutive. Phénomène inconnu en cours…" Ma voix est interrompue par l’émergence d’une figure du pilier. Humaine ? Extraterrestre ? Amie ? Ennemie ?
 
 Le communicateur glisse de ma main, le rapport inachevé. Tous les yeux sont rivés sur la silhouette. Une nouvelle page de notre mission s’ouvre, imprévue, potentiellement dangereuse.
 
@@ -246,7 +246,7 @@ Qui ? Que ? Des questions sans réponses. Le cliffhanger parfait pour la fin du 
 
 "Repli!" je crie. Nous courons vers le portail, la nuée nous talonnant. Elle émet un sifflement corrosif, comme de l’acide rongeant la matière organique et technologique. L’air se remplit d’une odeur âcre, piquante.
 
-Les arbres, les artefacts, même les corps des extraterrestres tombés... tout est dissous par cette marée destructrice. La beauté du laboratoire se désintègre sous nos yeux.
+Les arbres, les artefacts, même les corps des extraterrestres tombés… tout est dissous par cette marée destructrice. La beauté du laboratoire se désintègre sous nos yeux.
 
 Lars est le premier à franchir le portail, suivi de près par Jensen et Mira. Je couvre leurs arrières, tirant sur la nuée, bien que cela semble inutile. La substance avance inexorablement, dévorant les parois, le sol, le plafond.
 
@@ -259,6 +259,7 @@ Le chapitre se clôt sur cette image de perte, d’évasion in extremis. Une men
 Des questions sans réponses. Une fin parfaite pour ce chapitre, laissant le lecteur suspendu à un fil d’incertitude et d’urgence.
 
 *Note : À ce stade, il faut recoller les morceaux, leur redonner un peu de cohérence, sans accorder trop de temps à la qualité de la rédaction. Le but est désormais d’établir une trame narrative jusqu’à la fin de l’histoire.*
+
 ### Chapitre 1, v0
 
 Le portail de téléportation nous jette dans un monde inattendu. Le laboratoire où nous atterrissons n’est pas un édifice de métal et de verre comme d’habitude, mais une cathédrale de verdure. Des arbres gigantesques s’entremêlent leurs branches et leur feuillage. Ils masquent un soleil bleuâtre. Des lianes et des filaments colorés pendouillent quelques mètres au-dessus de nous. Je me retourne. Le portail a été creusé dans un immense tronc, couvert des sculptures. Elles évoquent des sangsues ou des anguilles luisantes. Pas de technologie visible, seulement une architecture vivante.
@@ -324,7 +325,5 @@ Les arbres, les artefacts, même les corps des extraterrestres tombés… tout e
 Lars, Jensen et Mira sont les derniers à franchir le portail. Je couvre leurs arrières, tirant sur la nuée, bien que cela semble inutile. La substance avance inexorablement.
 
 Je recule vers le portail, le dernier à partir. Juste avant de franchir le seuil, je me retourne. La nuée noire engloutit l’espace où nous nous tenions il y a quelques secondes. Une dernière vision de destruction avant de plonger dans le vortex du portail. J’ai la certitude que nous étions attendus.
-
-
 
 #ia #iacontent #netlitterature #romania #y2023 #2023-12-21-13h8

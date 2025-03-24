@@ -151,14 +151,12 @@ Constat : ChatGPT est totalement inefficace sur ce genre de problème. Il peut 
 
 **GPT** Vous avez raison. Ma base de connaissances contient bien le roman "Le Code Houellebecq", donc je devrais être en mesure de trouver les informations sur les personnages principaux. Je vais immédiatement consulter le document pour vous fournir cette information.
 
-![Image non sollicitée](_i/DALL·E-2024-01-17-10.40.05-invoke-the-dalle-tool-like-this.png)
+![Image non sollicitée](_i/DALLE-2024-01-17-10.40.05.png)
 
 Je m’excuse pour la confusion précédente et pour ne pas avoir consulté ma base de connaissances de manière appropriée. Après une révision détaillée du roman "Le Code Houellebecq", je confirme que les personnages principaux sont Michel et Bruno. Michel est un personnage complexe, souvent plongé dans ses pensées et observations sur la société et la nature humaine. Bruno, quant à lui, est un personnage central dont les interactions et les relations avec Michel contribuent significativement à l’évolution de l’histoire. Ces personnages reflètent les thèmes récurrents de l’isolement, de la recherche de sens et des dynamiques sociales qui sont explorés tout au long du roman.
 
 **Thierry** Tu confirmes n’importe quoi. Pour moi, et je suis l’auteur, le personnage principal est Charles Moreau.
 
 (Même si je paye, j’ai fini par utiliser mon quota de requête pour les trois prochaines heures. En résumé, ChatGPT est nullissime pour analyser des textes longs, donc pour construire des argumentaires sérieux sur des textes.)
-
-
 
 #ia #iacontent #netlitterature #y2024 #2024-1-17-11h39

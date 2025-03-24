@@ -9,7 +9,6 @@ Nous l’avons tous constaté : après une sortie, aucun GPS n’affiche le mê
 Il existe trois grandes techniques pour mesurer l’altitude avec un GPX :
 
 * Le relevée sur la carte. Dans ce cas, une erreur de position de vingt mètres peut suffire à fausser la mesure, surtout dans les secteurs très escarpés (sur un chemin de montagne, on peut vite se retrouver plus haut ou plus bas de cent mètres). La plupart des GPS modernes ne se contentent plus de cette méthode.
-
 * Les altimètres barométriques déterminent l’attitude à l’aide des variations de pression atmosphérique. Cette technique est la plus précise, sauf quand la météo est changeante (lors d’un orage, je suis rentrée d’une sortie autour de l’étang de Thau avec plus de 700 m de D+). Et dans un groupe, on continue d’avoir des écarts souvent de l’ordre à 15 % (parce que les GPS ne sont pas tous calibrés de la même façon, n’ont pas la même ancienneté, parce qu’un pilote est plus agressif qu’un autre ce qui peut affecter le baromètre…).
 * Le mix des deux méthodes, ce qui permet notamment aux GPS barométriques de se recalibrer en temps réel. Deux appareils identiques avec les logiciels différents peuvent donc donner des mesures différentes.
 

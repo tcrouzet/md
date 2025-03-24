@@ -68,6 +68,4 @@ Ces expériences me prennent du temps, beaucoup de temps, mais c’est le prix d
 *PS1 : Quand un texte contient des allusions litigieuses selon ChatGPT, il les découvre tout en les affichant et sans crier gare efface tout. Mais quand il affiche dans un bloc de code, il est possible de copier au cours du processus, ce qui permet de le récupérer avant la censure. Cette astuce m’a été précieuse pour certains passages du*Code Houellebecq*.*
 *PS2 : J’ai généré l’illustration de ce texte avec mon [Post Illustrator](https://chat.openai.com/g/g-klBz7W0Gn-post-illustrator-maximize-ctr).*
 
-
-
 #edition #ia #y2023 #2023-12-1-10h19

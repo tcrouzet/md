@@ -96,6 +96,6 @@ Par contre, pour ceux qui comme moi écrivent pour le plaisir, et pour en donner
 
 ### Lundi 30, Montagne Noire
 
-![g727](_i/2024-09-30-163905-Labruguière-–-Caudebronde.webp)
+![g727](_i/2024-09-30-163905-Labruguiere-Caudebronde.webp)
 
 #carnets #y2024 #2024-10-13-11h00

@@ -18,7 +18,7 @@ Juste un exemple : en amont des élections législatives allemandes du 23 fév
 
 Si fuir les réseaux sociaux technofascistes comme Facebook, X, YouTube, TikTok… ne me paraît pas une nécessité absolue tant qu’il reste possible d’y poster des liens vers les sites indépendants, il me paraît en revanche vital d’avoir un pied du côté de la résistance, c’est-à-dire des services décentralisés, non unilatéralement supervisés par des technofascistes. On les retrouve dans le [Fediverse](https://fr.wikipedia.org/wiki/Fediverse). Toute autre attitude équivaut à du défaitisme.
 
-![Fediverse](_i/Pasted%20image%2020250227080125.png)
+![Fediverse](_i/fediverse1.png)
 
 J’ai pour ma part décidé de passer l’essentiel de mon temps social en ligne sur [Mastodon](https://mamot.fr/@tcrouzet). J’y ai ouvert un compte dès 2017, mais je n’y suis réellement actif que depuis quelques semaines, parce que la situation politique me paraît plus que préoccupante depuis le signe nazi de Musk, renouvelé par [Steve Bannon](https://www.nbcnews.com/politics/politics-news/french-far-right-jordan-bardella-steve-bannon-nazi-ideology-gesture-rcna193195).
 
