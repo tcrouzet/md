@@ -4,13 +4,13 @@
 
 ### Lundi 1<sup>er</sup>
 
-![Sète](_i/2024-04-01-123755-Sète.webp)
+![Sète](_i/2024-04-01-123755-Sete.webp)
 
-![Sète](_i/2024-04-01-123806-Sète.webp)
+![Sète](_i/2024-04-01-123806-Sete.webp)
 
-![Sète](_i/2024-04-01-123955-Sète.webp)
+![Sète](_i/2024-04-01-123955-Sete.webp)
 
-![Soir](_i/2024-04-01-200809-À%20la%20maison.webp)
+![Soir](_i/2024-04-01-200809-maison.webp)
 
 ### Mardi 2, Balaruc
 
@@ -64,21 +64,21 @@ Il a une structure paradoxale. Plus ses entrées sont nombreuses, moins j’ai �
 
 ### Jeudi 11, Balaruc
 
-![Cazouls-d'Hérault](_i/2024-04-11-140801-Cazouls-d'Hérault-–-Bélarga.webp)
+![Cazouls-d'Hérault](_i/2024-04-11-140801-Cazouls-Herault-Belarga.webp)
 
-![Cazouls-d'Hérault](_i/2024-04-11-141557-Cazouls-d'Hérault-–-Bélarga.webp)
+![Cazouls-d'Hérault](_i/2024-04-11-141557-Cazouls-Herault-Belarga.webp)
 
-![Cazouls-d'Hérault](_i/2024-04-11-143028-Cazouls-d'Hérault-–-Bélarga.webp)
+![Cazouls-d'Hérault](_i/2024-04-11-143028-Cazouls-Herault-Belarga.webp)
 
-![Bélarga](_i/2024-04-11-143908-Cazouls-d'Hérault-–-Bélarga.webp)
+![Bélarga](_i/2024-04-11-143908-Cazouls-Herault-Belarga.webp)
 
-![Bélarga](_i/2024-04-11-144243-Cazouls-d'Hérault-–-Bélarga.webp)
+![Bélarga](_i/2024-04-11-144243-Cazouls-Herault-Belarga.webp)
 
-![Villeneuvette](_i/2024-04-11-154104-Cazouls-d'Hérault-–-Bélarga.webp)
+![Villeneuvette](_i/2024-04-11-154104-Cazouls-Herault-Belarga.webp)
 
-![Villeneuvette](_i/2024-04-11-155247-Cazouls-d'Hérault-–-Bélarga.webp)
+![Villeneuvette](_i/2024-04-11-155247-Cazouls-Herault-Belarga.webp)
 
-![Aspiran](_i/2024-04-11-161250-Cazouls-d'Hérault-–-Bélarga.webp)
+![Aspiran](_i/2024-04-11-161250-Cazouls-Herault-Belarga.webp)
 
 ### Vendredi 12, Balaruc
 
@@ -126,9 +126,9 @@ Nous allons voir *Dune II* dans une salle où le son est si fort que je ressors
 
 ### Dimanche 14, Balaruc
 
-![Marseillan](_i/2024-04-14-100846-Agde-et-Mèze.webp)
+![Marseillan](_i/2024-04-14-100846-Agde-et-Meze.webp)
 
-![Sète](_i/2024-04-14-110346-Agde-et-Mèze.webp)
+![Sète](_i/2024-04-14-110346-Agde-et-Meze.webp)
 
 ### Lundi 15, Balaruc
 
