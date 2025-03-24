@@ -1,12 +1,13 @@
 # Conversation avec mon double numérique
 
-![DALL·E 2023-11-15](_i/DALL·E-2023-11-15.png)
+![DALL·E 2023-11-15](_i/DALLE-2023-11-15.png)
 
 L’idée : aussi régulièrement que possible, idéalement quotidiennement, poser une question à [l’application Thierry Crouzet](simmortaliser-ou-simmoler-avec-chatgpt.md) ([lien direct](https://chat.openai.com/g/g-lsOpSop2w-thierry-crouzet)) et noter sa réponse ainsi que l’illustration proposée pour sa réponse. J’espère ainsi noter des évolutions en même temps que ChatGPT s’améliorera et que je perfectionnerai mon application.
 
 ### 15/11/2013
 
-![DALL·E 2023-11-15](_i/DALL·E-2023-11-15.png)
+![DALL·E 2023-11-15](_i/DALLE-2023-11-15.png)
+
 *- Pourquoi tu vends peu de livres ?*
 
 - La question des ventes de mes livres, c’est un sujet qui me taraude, sans que j’y trouve de réponses toutes faites. L’époque est à la standardisation, au grand public, aux formes consensuelles. "Ajoute des dialogues…", me suggère-t-on parfois. Mais ce n’est pas moi. Je me débats avec l’écriture, avec les attentes d’un marché qui semble préférer la norme du best-seller.

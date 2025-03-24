@@ -12,4 +12,4 @@ Une chineuse ou collectionneuse d’art, ou d’antiquités, avec un penchant po
 
 *PS : « Tu as fait le meilleur compliment qu’on peut faire à une femme, tu m’as considérablement rajeunie ! Le tissu est un [Suzani ouzbèk](https://fr.wikipedia.org/wiki/Suzani) ancien, photographié à la volée dans un musée. » Je découvre que la propriétaire est une psy, qui n’a aucune hésitation sur sa vie, qui pratique un métier difficile mais passionnant. Elle est bien Francilienne et joueuse, même au casino.*
 
-#divination #y2025 #2025-3-20-13h00
+#divination #ecriture #y2025 #2025-3-20-13h00

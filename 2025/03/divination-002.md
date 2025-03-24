@@ -12,4 +12,4 @@ Il refuse les normes et aime lire les auteurs soucieux de réduire leur impact �
 
 *PS : « Homme oui, baraqué non (plutôt un ancien freluquet ayant pris du bide avec l’âge, j’ai bien 20 kg de trop et c’est pas du muscle). Les désirs antagonistes, à fond. La contradiction présente chez quiconque est très affirmée chez moi et il y a des choses inconciliables. L’heure du réveil vient de mon choix d’aller travailler à pieds et d’élever mes enfants. J’ordonne mes icones comme toutes mes interfaces informatiques avec la méticulosité de quelqu’un qui fuit les surprises dans la vie quotidienne, et les préfère(rait) dans des joies sortant de l’ordinaire. Je soutiens le minimalisme de Gemini, en pur lecteur à défaut d’avoir des choses intéressantes à écrire. L’auteur en moi n’est pas encore né. Sera-t-il un [Chestbuster](https://fr.wikipedia.org/wiki/Alien_(cr%C3%A9ature)#Chestburster) ? L’image de fond est de [Paolo Rivera](https://shop.paolorivera.com/product/alien-priority-one). »* 
 
-#divination #y2025 #2025-3-24-13h00
+#divination #ecriture #y2025 #2025-3-24-13h00

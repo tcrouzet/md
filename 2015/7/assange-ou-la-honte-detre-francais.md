@@ -1,6 +1,6 @@
 # Assange ou la honte d’être Français
 
-![](_i/RUEDA_DE_PRENSA_CONJUNTA_ENTRE_CANCILLER_RICARDO_PATIÑO_Y_JULIAN_ASSANGE.webp)
+![Julian Assange](_i/ASSANGE.webp)
 
 Je n’ai jamais été fier d’être Français, pas plus que d’être blanc ou de sexe masculin. Je me sens avant tout humain, et même pas humain puisque, à l’image des Grecs anciens, je respecte les dauphins autant que mes semblables. Je suis un être conscient, et en ce sens je respecte toutes les consciences.
 
@@ -19,7 +19,5 @@ Monsieur Hollande, depuis longtemps on vous aura oublié que Julian Paul Assange
 Et j’avoue préférer votre non monsieur le président, à un oui qui aurait préfiguré une trahison. Vous ne nous inspirez aucune confiance, et pas même question d’évoquer des rêves, vous conduisiez une charrette dans un monde qui vit à la vitesse de la lumière.
 
 [Signez la pétition...](https://www.change.org/p/fran%C3%A7ois-hollande-pr%C3%A9sident-de-la-r%C3%A9publique-donnez-l-asile-%C3%A0-snowden-et-assange?recruiter=30836476&utm_source=share_petition&utm_medium=copylink)
-
-![Julian Assange en août 2014.](_i/RUEDA_DE_PRENSA_CONJUNTA_ENTRE_CANCILLER_RICARDO_PATIÑO_Y_JULIAN_ASSANGE.webp)
 
 #politique #coup_de_gueule #y2015 #2015-7-3-14h56

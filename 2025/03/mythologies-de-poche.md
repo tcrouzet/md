@@ -14,4 +14,4 @@ J’ai reçu des centaines d’images toutes différentes, des sobres, des poét
 
 [Sommaire des divinations…](https://tcrouzet.com/tag/divination/)
 
-#divination #y2025 #2025-3-20-10h00
+#divination #ecriture #y2025 #2025-3-20-10h00
