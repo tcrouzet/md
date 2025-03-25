@@ -26,7 +26,7 @@ Je découvre qu’Isa a un crâne aussi joli que celui de Sinéad O’Connor.
 
 ### Jeudi 4, Balaruc
 
-![Plage Maguelone](_i/2024-07-04-102902-Villeneuve-lès-Maguelone.webp)
+![Plage Maguelone](_i/2024-07-04-102902-Villeneuve-les-Maguelone.webp)
 
 ### Vendredi 5, Balaruc
 
@@ -112,9 +112,9 @@ Je n’y pensais pas avant d’écrire la date en haut de cette entrée, mais c�
 
 ### Mardi 23, Auvergne
 
-![Mécanique](_i/2024-07-23-143202-Saint-Donat-–-Trémouille.webp)
+![Mécanique](_i/2024-07-23-143202-Saint-Donat-Tremouille.webp)
 
-![Mécanique](_i/2024-07-23-143219-Saint-Donat-–-Trémouille.webp)
+![Mécanique](_i/2024-07-23-143219-Saint-Donat-Tremouille.webp)
 
 ### Mercredi 24, Balaruc
 
