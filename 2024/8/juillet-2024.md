@@ -70,7 +70,7 @@ J’ai commencé *Le livre des illusions* d’Auster, par rapport à mon projet 
 
 [Mary Helen Immordino-Yang](https://bigthink.com/the-well/rewire-your-brain-with-transcendental-thinking/) : « Our education system focuses too much on memorizing facts and procedures, neglecting autobiographical memory—the personal story we tell ourselves about who we are and what we stand for. This type of memory is crucial for growth, development, and well-being. » Et je suppose tout au long de la vie, d’où l’importance des journaux intimes, qui permettent de se reconstruire sans cesse et de se positionner dans le monde.
 
-![Sète](_i/2024-07-09-180828-Mèze.webp)
+![Sète](_i/2024-07-09-180828-Meze.webp)
 
 ### Jeudi 11, Balaruc
 

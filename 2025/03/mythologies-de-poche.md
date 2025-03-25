@@ -10,7 +10,17 @@ Après ma décision de quitter les principaux réseaux sociaux, et de leur préf
 
 Encore troublé, sentant poindre l’envie d’écrire, j’ai publié [la page d’accueil de mon téléphone sur Mastodon](https://mamot.fr/@tcrouzet/114187736974949456) avec un petit message : « Je projette un article sur les écrans d’accueil des mobiles… Si vous pouviez m’envoyer la vôtre, ça serait cool. » J’avais l’intention d’établir des catégories entre les rigoristes minimalistes et les baroques exubérants.
 
-J’ai reçu des centaines d’images toutes différentes, des sobres, des poétiques, des scientifiques, des joyeuses, des tendres, des amoureuses… Une avalanche visuelle, une submersion émotionnelle. Des inconnus se présentaient à moi dans leur intimité. J’étais troublé comme s’ils se dénudaient devant moi. À partir de tous ces écrans, je me suis dit que je pouvais écrire des portraits imaginaires, me livrer comme des divinations — parce qu’il s’agit presque d’un exercice oraculaire. J’ai tout de suite pensé aux *Vies imaginaires* de Marcel Schwob et aux *Mythologies* de Roland Barthes, avec l’ambition de me glisser entre les deux.
+J’ai reçu des centaines d’images toutes différentes, des sobres, des poétiques, des scientifiques, des joyeuses, des tendres, des amoureuses… Une avalanche visuelle, une submersion émotionnelle. Des inconnus se présentaient à moi dans leur intimité. J’étais troublé comme s’ils se dénudaient devant moi. À partir de tous ces écrans, je me suis dit que je pouvais écrire des portraits imaginaires, me livrer à des divinations — parce qu’il s’agit presque d’un exercice oraculaire. J’ai tout de suite pensé aux *Vies imaginaires* de Marcel Schwob et aux *Mythologies* de Roland Barthes, avec l’ambition de me glisser entre les deux.
+
+### Comment je fais
+
+1. J’ai écrit un petit bot qui récupère les images sur Mastodon et stocke les infos de l’expéditeur dans un fichier json (ce qui m’évite de savoir qui est l’expéditeur).
+2. Je parcours les images, en choisis une.
+3. Je la regarde, demande aux IA de lister les applis et autres infos pertinentes. Rien que la résolution des images m’aide à savoir de quel téléphone il s’agit.
+4. J’écris le texte, puis le publie sur le blog.
+5. Je recherche l’expéditeur dans mon json et lui indique qu’il peut me répondre.
+6. J’intègre sa réponse, en la réécrivant éventuellement pour qu’aucune information personnelle ne transparaisse.
+7. J’annonce sur Masodon que la Divitation est prête.
 
 [Sommaire des divinations…](https://tcrouzet.com/tag/divination/)
 
