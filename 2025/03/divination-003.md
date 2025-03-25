@@ -12,6 +12,6 @@ Le choix des applications, souvent alternatives, connectées au Fediverse, tout 
 
 Reste ce noir, intrigant, renforcé par les traits blancs des icônes. Est-il le miroir d’une âme sombre ou d’un caractère rigoureux, épris de précision et d’efficacité ? Je penche pour la seconde hypothèse. Je vois quelqu’un de déterminé, de strict, qui cherche à réduire les distractions, peut-être parce qu’il risquerait d’y succomber. Pour lui, tout est une affaire d’équilibre. Il a pris le temps de façonner son environnement numérique comme d’autres arrangent leur intérieur, et peut-être que chez lui règne le plus grand bazar. Je n’en serais pas surpris.
 
-*PS : pas encore de réponse…*
+*PS : « Moi aussi je suis laxisme avec ma voiture et j’utilise beaucoup plus mon téléphone. Je n’ai pas non plus de tatouages. Portugais, oui. Passionné de musique, pas vraiment. L’application de musique est là parce que mon TAG (Trouble d’Anxiété Généralisée) s’emballe dans les transports en commun. Le choix du contour blanc sur un fond noir est effectivement destiné à minimiser les distractions, encore une fois à cause du TAG. Mes usages devenaient incontrôlables, donc je l’ai volontairement rendu l’écran plus terne pour le rendre moins attrayant. Ça reflète à la fois une âme sombre et un caractère rigoureux. Et absolument juste concernant la personnalité (vive les geeks !). Maps est là principalement pour les horaires de bus (non disponibles facilement ailleurs). Et MBWay est l’équivalent portugais de Google Pay. »*
 
 #divination #ecriture #y2025 #2025-3-25-13h00
