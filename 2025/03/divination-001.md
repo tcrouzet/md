@@ -1,6 +1,6 @@
 # Divination 1
 
-![phone1](_i/phone001.webp)
+![Sony Xperia](_i/phone001.webp)
 
 [Présentation du projet…](https://tcrouzet.com/2025/03/20/mythologies-de-poche/)
 

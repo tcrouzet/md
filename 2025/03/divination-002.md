@@ -1,6 +1,6 @@
 # Divination 2
 
-![Phone 2](_i/002.webp)
+![Samsung S9+ sous /e/OS](_i/002.webp)
 
 [Présentation du projet…](https://tcrouzet.com/2025/03/20/mythologies-de-poche/)
 

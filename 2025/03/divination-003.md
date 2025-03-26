@@ -1,6 +1,6 @@
 # Divination 3
 
-![Phone 3](_i/003.webp)
+![Pixel 7a, GrapheneOS](_i/003.webp)
 
 [Présentation du projet…](https://tcrouzet.com/2025/03/20/mythologies-de-poche/)
 
