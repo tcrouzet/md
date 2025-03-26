@@ -2,6 +2,8 @@
 
 ![208 écrans](_i/montage_final.webp)
 
+[Sommaire des divinations…](https://tcrouzet.com/tag/divination/)
+
 Quand je vois quelqu’un pour la première fois, avant même qu’il parle, je ne peux m’empêcher d’imaginer sa vie, ses goûts, ses opinions politiques, son régime alimentaire, surtout son régime alimentaire et son hygiène de vie. Je me trompe souvent, presque toujours même.
 
 Quand j’étais jeune, je m’étais pris de détestation pour les autres jeunes qui se donnaient un look artiste pour imposer visuellement leur différence plutôt que travailler à l’œuvre qui les ferait différents. Je conserve cette réserve instinctive. Je me saisis de la moindre occasion pour catégoriser. J’aime observer les téléphones des autres : icônes ordonnées, dispersées, monochromes ou colorées, hiérarchisées ou pas, fonds d’écran discrets ou agressifs, artistiques ou techniques. En quelques secondes, j’entre dans une intimité, j’imagine une vie, ou tout au moins un caractère.
@@ -15,13 +17,11 @@ J’ai reçu des centaines d’images toutes différentes, des sobres, des poét
 ### Comment je fais
 
 1. J’ai écrit un petit bot qui récupère les images sur Mastodon et stocke les infos de l’expéditeur dans un fichier json (ce qui m’évite de savoir qui est l’expéditeur).
-2. Je parcours les images, en choisis une.
+2. Je parcours les images, en choisis une (elles ont chacune un id unique).
 3. Je la regarde, demande aux IA de lister les applis et autres infos pertinentes. Rien que la résolution des images m’aide à savoir de quel téléphone il s’agit.
 4. J’écris le texte, puis le publie sur le blog.
-5. Je recherche l’expéditeur dans mon json et lui indique qu’il peut me répondre.
+5. Je recherche l’expéditeur dans mon json à partit de l’id de l’image et lui indique qu’il peut me répondre.
 6. J’intègre sa réponse, en la réécrivant éventuellement pour qu’aucune information personnelle ne transparaisse.
-7. J’annonce sur Masodon que la Divitation est prête.
-
-[Sommaire des divinations…](https://tcrouzet.com/tag/divination/)
+7. J’annonce sur Mastodon que la Divitation est prête.
 
 #divination #ecriture #y2025 #2025-3-20-10h00
