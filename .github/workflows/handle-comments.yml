@@ -1,0 +1,52 @@
+name: Handle Comments
+
+on:
+  issues:
+    types: [opened, edited]
+
+jobs:
+  process-comment:
+    runs-on: ubuntu-latest
+    if: contains(github.event.issue.title, 'COMMENT_SUBMISSION')
+    steps:
+      - uses: actions/checkout@v2
+      
+      - name: Process Comment
+        run: |
+          # Extraire les données du commentaire depuis le corps de l'issue
+          BODY="${{ github.event.issue.body }}"
+          POST_URL=$(echo "$BODY" | grep "postUrl:" | cut -d ":" -f2- | xargs)
+          POST_TITLE=$(echo "$BODY" | grep "postTitle:" | cut -d ":" -f2- | xargs)
+          AUTHOR=$(echo "$BODY" | grep "author:" | cut -d ":" -f2- | xargs)
+          MESSAGE=$(echo "$BODY" | grep -A 1000 "message:" | cut -d ":" -f2-)
+          
+          # Nettoyer l'URL pour le chemin du fichier
+          CLEAN_URL=$(echo $POST_URL | sed -E 's/([0-9]{4})\/0?([0-9]|1[0-2])\/[0-9]{2}\/(.+?)\/?$/\1\/\2\/\3.md/')
+          FILE_PATH="comments${CLEAN_URL}"
+          
+          # Créer le répertoire si nécessaire
+          mkdir -p $(dirname "$FILE_PATH")
+          
+          # Vérifier si le fichier existe déjà
+          if [ -f "$FILE_PATH" ]; then
+            # Le fichier existe, ajouter le commentaire
+            echo -e "\n\n$AUTHOR @ $(date '+%Y-%m-%d %H:%M:%S') \n\n$MESSAGE\n\n---\n\n" >> "$FILE_PATH"
+          else
+            # Le fichier n'existe pas, le créer
+            echo -e "[$POST_TITLE]($POST_URL)\n\n---\n\n$AUTHOR @ $(date '+%Y-%m-%d %H:%M:%S') \n\n$MESSAGE\n\n---\n\n" > "$FILE_PATH"
+          fi
+          
+          # Configurer Git
+          git config --global user.name "GitHub Actions Bot"
+          git config --global user.email "actions@github.com"
+          
+          # Commit et push
+          git add "$FILE_PATH"
+          git commit -m "Add comment to $POST_TITLE"
+          git push
+      
+      - name: Close Issue
+        uses: peter-evans/close-issue@v1
+        with:
+          issue-number: ${{ github.event.issue.number }}
+          comment: "Commentaire traité avec succès."
