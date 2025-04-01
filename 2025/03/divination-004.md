@@ -1,6 +1,6 @@
-# Divination 4
+	# Divination 4
 
-![iPhone 16](_i/004.webp)
+![iPhone 13](_i/004.webp)
 
 [Présentation du projet…](https://tcrouzet.com/2025/03/20/mythologies-de-poche/)
 

@@ -220,7 +220,7 @@ Je suis sous le coup de toutes les écritures des jours passés, de ce petit tex
 
 ### Lundi 24, Balaruc
 
-Pour beaucoup, la retraite implique un changement de vie. Un de mes oncles l’attendait avec impatience et il est mort peu de temps après. Barthes parle de *Vita Nova*, de quand Proust dit adieu à ses amis pour se dédier exclusivement à *La Recherche*. J’ai rêvé d’une *Vita Nova* au début de ma carrière professionnelle et elle a commencé quand j’ai quitté la presse, peu avant mes 31 ans, et que je n’ai plus fait qu’écrire et n’en faire qu’à ma tête. Peut-on traverser plusieurs *Vita Nova* ?
+Pour beaucoup, la retraite implique un changement de vie. Un de mes oncles l’attendait avec impatience et il est mort peu de temps après. Barthes parle de *Vita Nova*, de quand Proust dit adieu à ses amis pour se dédier exclusivement à *La Recherche*. J’ai rêvé d’une *Vita Nova* au début de ma carrière professionnelle et elle a commencé quand j’ai quitté la presse, peu avant mes 31 ans. Je n’ai plus fait qu’écrire et n’en faire qu’à ma tête. Peut-on traverser plusieurs *Vita Nova* ?
 
 ---
 
