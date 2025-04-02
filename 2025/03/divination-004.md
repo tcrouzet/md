@@ -1,4 +1,4 @@
-	# Divination 4
+# Divination 4
 
 ![iPhone 13](_i/004.webp)
 
