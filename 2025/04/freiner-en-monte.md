@@ -112,6 +112,6 @@ Comme la plupart des copains n’avaient pas atteint Cadaquès le samedi nous y 
 
 Une région sublime. La prochaine fois j’espère que nous aurons moins de vent. Vraiment un bel endroit pour le gravel. Choisissez un autre hôtel.
 
-*PS : Joakim me partage ses traces dans le coin de la Costa Brava [sur RideWithGPS](https://ridewithgps.com/collections/41968) et [sur Komoot](https://www.komoot.com/fr-fr/collection/1602554/-velo-de-route-et-gravel-en-catalogne-entre-l-alt-emporda-et-girona).*
+*PS : Joakim me partage ses traces dans le coin de la Costa Brava [sur RideWithGPS](https://ridewithgps.com/collections/41968) et [sur Komoot](https://www.komoot.com/fr-fr/collection/1602554/-velo-de-route-et-gravel-en-catalogne-entre-l-alt-emporda-et-girona).* 
 
 #velo #gravel #y2025 #2025-4-2-13h00
