@@ -6,6 +6,8 @@ Un article que je ne pensais pas devoir écrire en 2025. Ces dernières semaines
 
 [Quand Delacroix peignait des aquarelles dans ses carnets](https://artsandculture.google.com/story/8wWxRHM4S4Go9w?hl=fr), il n’employait ni les mêmes outils ni les mêmes techniques que sur ses tableaux à l’huile. L’outil de l’artiste influence son œuvre. Utiliser un traitement de texte comme une machine à écrire revient à peindre à l’aquarelle avec les techniques de l’huile. Ça ne marche pas.
 
+![Typohraphique inversée](_i/illusion.png)
+
 J’ai discuté du côté non essentialiste de la littérature dans *La mécanique du texte*. Pas plus qu’un autre art, elle ne peut ignorer ses techniques de production. Cette question devient prégnante avec l’arrivée des IA. Et c’est à cause d’elles que je reviens sur le sujet, parce que je dois soumettre les manuscrits envoyés à leur scrutation (je vais finir par ouvrir une officine).
 
 > **Règle 1** : chaque fois que vous tapez deux espaces consécutives dans un texte, vous perdez du temps et n’utilisez pas les ressources de votre outil d’écriture.
