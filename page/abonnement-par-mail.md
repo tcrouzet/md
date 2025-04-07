@@ -3,6 +3,17 @@
 ### Newsletter
 
 <iframe src="https://tcrouzet.substack.com/embed" class="substack-iframe" frameborder="0" scrolling="no"></iframe>
+<iframe
+
+src="https://727bikepacking.substack.com/embed"
+
+class="substack-iframe"
+
+frameborder="0"
+
+scrolling="no">
+
+</iframe>
 
 ### Fils RSS
 
