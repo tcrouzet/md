@@ -26,7 +26,7 @@ eshops:
 
 ![Le Code Houellebecq](_i/codeH-cover-solo-hd.webp)
 
-Dans sa quête du prix Goncourt, un éditeur ambitieux fait appel à une IA pour écrire son roman de l’année.
+Dans sa quête du prix Goncourt, un éditeur ambitieux fait appel à une IA pour écrire son roman de l’année. 
 
 [Prélude du *Code Houellebecq*](/2024/02/14/le-code-houellebecq/)
 

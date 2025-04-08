@@ -36,6 +36,6 @@ Pour ma part, j’utilise les outils de mon temps, parce que je suis persuadé q
 
 > **Règle 4** : choisir son outil plutôt qu’être choisi par lui.
 
-Vu l’attention portée par les auteurs du passé à leurs outils d’écriture, j’ai du mal à comprendre le laxisme contemporain. Word s’impose sans que presque personne s’interroge (comme Facebook ou X s’imposent pour la promotion). En tant qu’écrivains, nous sommes d’abord des artisans. J’ai beaucoup d’amis artisans et tous prennent soin de leurs outils (comme les cyclistes prennent soin de leurs vélos). Que des écrivains se moquent de leurs outils me fait douter de leurs écrits.
+Vu l’attention portée par les auteurs du passé à leurs outils d’écriture, j’ai du mal à comprendre le laxisme contemporain. Word s’impose sans que presque personne s’interroge (comme Facebook ou X s’imposent pour la promotion). En tant qu’écrivains, nous sommes d’abord des artisans. J’ai beaucoup d’amis artisans et tous prennent soin de leurs outils (comme les cyclistes prennent soin de leurs vélos). Que des écrivains se moquent de leurs outils me fait douter de leurs écrits. 
 
 #cuisine #y2025 #2025-4-7-13h00
