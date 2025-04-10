@@ -2,7 +2,7 @@
 
 ![À Ernest Chevalier, fin 1846](_i/Flaubert1846.webp)
 
-Tout commence par une conversation avec [David Camus](https://fr.wikipedia.org/wiki/David_Camus). Nous parlons des conseils d’écriture qui pullulent sur Substack, souvent par des auteurs qui n’ont aucune légitimité. Je remarque que quand j’ai commencé à écrire le conseil était simple : « Commence par lire la correspondance de Flaubert. » Ce que j’ai fait avant de lire bien d’autres correspondances et journaux intimes d’écrivains. C’est avec eux, et avec leurs œuvres que j’ai appris le peu que je sais.
+Tout commence par une conversation avec [David Camus](https://fr.wikipedia.org/wiki/David_Camus). Nous parlons des conseils d’écriture qui pullulent sur Substack, souvent par des auteurs qui n’ont aucune légitimité. Je remarque que quand j’ai commencé à écrire le conseil était simple : « Commence par lire la correspondance de Flaubert. » Ce que j’ai fait avant de lire bien d’autres correspondances et journaux intimes d’écrivains. C’est avec eux, et avec leurs œuvres, que j’ai appris le peu que je sais.
 
 Je me souviens avec émotion des mots de Flaubert, à 25 ans, lus quand j’avais 25 ans et que j’ai reçus comme s’il s’adressait à moi : « Donc, pour en revenir à moi, je ne me suis vu ni assez haut pour faire de véritables œuvres d’art, ni assez excentrique pour pouvoir en emplir de moi seul. Et n’ayant pas l’habileté pour me procurer le succès, ni le génie pour conquérir la gloire, je me suis condamné à écrire pour moi seul, pour ma propre distraction personnelle, comme on fume et comme on monte à cheval. »
 
@@ -14,7 +14,7 @@ David m’a pointé vers *Préface à la vie d’écrivain*, extrait de la corre
 2. Avec un script Python, j’ai converti ces epubs en autant de fichiers Markdown que de lettres.
 3. Avec un autre script, j’ai demandé à Claude d’analyser chacune des lettres et d’y relever des citations sur l’art d’écrire, ce qui m’a évité de relire toute la correspondance (j’ai utilisé le modèle Haïku le moins onéreux).
 4. Dans les lettres sélectionnées, j’ai retenu les passages les plus frappants.
-5. Pour le moment, j’ai manqué de courage pour aller au-delà de l’année 1846. Voici donc les pensées et conseils d’un Flaubert encore jeune. Si vous appréciez, j’irai au-delà.
+5. J’ai manqué de courage pour aller au-delà de l’année 1846. Voici donc les pensées et conseils d’un Flaubert encore jeune. Si vous appréciez, je prolongerai l’exercice.
 
 ---
 
