@@ -20,9 +20,9 @@ J’aurais pu me contenter de diffuser des fichiers, mais j’ai voulu pousser l
 
 Par ailleurs, ce dépôt esquisse une chaîne de production de livres libres. J’ai partagé tous mes codes et commandes. Il m’aura fallu presque une semaine de travail acharné pour obtenir des PDF de belle qualité, tout en gardant le processus automatique, ce qui est indispensable pour un texte destiné à évoluer en même temps que la chose.
 
-Liens directs :
+Liens :
 
-- [Dépôts](https://github.com/tcrouzet/TheBookStrikeBack/)
+- [Dépôt](https://github.com/tcrouzet/TheBookStrikeBack/)
 - [Markdown](https://github.com/tcrouzet/TheBookStrikeBack/blob/main/src/LivreContreAttaque.md)
 - [PDF](https://github.com/tcrouzet/TheBookStrikeBack/blob/main/builds/LivreContreAttaque.pdf)
 - [EPUB](https://github.com/tcrouzet/TheBookStrikeBack/blob/main/builds/LivreContreAttaque.epub)
