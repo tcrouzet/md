@@ -46,6 +46,8 @@ Quand je lance une trace, je dois, une fois que je l’ai sélectionnée, vérif
 
 ![Reroute](_i/2025-04-24-111447.webp)
 
+D’une manière générale, le Dura n’aime pas que nous prenions des libertés avec la trace. Dès que nous nous en écartons, il perd ses moyens au point de parfois se paralyser (c’est très révélateur de la psychologie des développeurs derrière le produit).
+
 ### Trace inversée
 
 Quand on s’amuse à prendre un bout de trace à l’envers, ce qui arrive souvent en bikepacking quand on revient sur ses pas, par exemple parce qu’on a repéré un point d’intérêt, le Dura finit par effacer la trace et ne la raffiche jamais. Il faut arrêter l’activité et tout relancer.
