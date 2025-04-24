@@ -16,8 +16,10 @@ Hier, je charge [la trace du o727](https://www.visugpx.com/fAPancmYz0?t=1) (646�
 
 Quand j’explique la situation au support technique, ils me répondent très vite :
 
-1. **Force Restart (Standard)**: Press and hold the CONFIRM button for at least 15 seconds.
-2. **Alternate Attempt**: Hold down both buttons (CONFIRM + BACK) simultaneously for about 20–30 seconds.
+>1/ **Force Restart (Standard)**: Press and hold the CONFIRM button for at least 15 seconds.
+
+>2/ **Alternate Attempt**: Hold down both buttons (CONFIRM + BACK) simultaneously for about 20–30 seconds.
+
 Amusant : c’est exactement ce que j’ai fait sur le terrain, sans obtenir la moindre réaction du GPS (et c’est une longue pression sur BACK qui m’a tiré d’affaire).
 
 Quand je demande au support quel est le nombre de points maximal pour un GPX, la réponse est amusante d’imprécision :
@@ -30,7 +32,7 @@ Par la suite, le support Dura m’a pris pour un neuneu en me demandant si mon f
 
 ### Trace terminée avant de commencer
 
-Sur une trace qui commence et termine au même point, le Dura refuse parfois de lancer l’activité. Il me dit parfois que j’ai atteint la fin du parcours. [J’ai eu ce problème en Espagne au départ de notre hôtel.](https://tcrouzet.com/2025/04/02/freiner-en-monte/) Heureusement que j’étais avec des copains équipés de Garmin. Je n’ai réussi à suivre la trace que quand le départ et le retour se sont séparés.
+Sur une trace qui commence et termine au même point, le Dura refuse parfois de lancer l’activité. Il me dit alors que j’ai atteint la fin du parcours. [J’ai eu ce problème en Espagne au départ de notre hôtel.](https://tcrouzet.com/2025/04/02/freiner-en-monte/) Heureusement que j’étais avec des copains équipés de Garmin. Je n’ai réussi à suivre la trace qu’une fois le départ et le retour séparés.
 
 ### Reroutage
 
@@ -60,8 +62,8 @@ C’était encore en Espagne. J’ai eu droit à l’affichage des courbes de pr
 
 ### Non paramétrable
 
-On peut se configurer des écrans, mais on ne contrôle pas grand-chose dans la pratique. En bas de l’écran, j’ai demandé l’heure, mais comme je suis dans le profil MTB, il m’indique à la place la distance du prochain POI (souvent le point d’arrivée). De même, quand j’attaque une grimpette référencée, il m’envoie à l’écran le profil, ce que je n’ai pas demandé. Le Dura prend beaucoup de décisions à notre place. Il nous prend pour des imbéciles.
+On peut se configurer des écrans, mais on ne contrôle pas grand-chose dans la pratique. En bas de l’écran, j’ai demandé l’heure, mais comme je suis dans le profil MTB, il m’indique à la place la distance du prochain POI (souvent le point d’arrivée). De même, quand j’attaque une grimpette référencée, il m’envoie à l’écran le profil, ce que je n’ai pas demandé. Le Dura décide souvent à notre place. Il nous prend pour des imbéciles.
 
-Je partirai tout de mêmeavec le Dura sur l’o727, en prenant un support Quadlock pour mon téléphone, en cas de défaillance. Si Dura avait l’intelligence de libérer son code et de nous laisser jouer avec, nous l’aurions déjà transformé en un merveilleux GPS.
+Je partirai tout de même avec le Dura sur l’o727, en prenant un support Quadlock pour mon téléphone, en cas de défaillance. Si Coros avait l’intelligence de libérer son code et de nous laisser jouer avec, nous l’aurions déjà transformé le Dura en un merveilleux GPS. Si vous n’avez pas les moyens de développer le produit, offrez cette possibilité à la communauté.
 
 #velo #gps #y2025 #2025-4-24-14h30
