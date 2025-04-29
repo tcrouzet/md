@@ -42,6 +42,6 @@ La technique présentée marche aussi bien pour l’écriture d’un roman : le
 
 Pour les curieux, [je partage mon code sur GitHub](https://github.com/tcrouzet/papers). En plus de mes daily notes, il prend en compte les liens Mastodon.
 
-Ce qui valait il y a un an ou deux est déjà périmé. Le problème n’est donc plus de prompter les IA, mais de leur fournir les bonnes données pour qu’elles puissent travailler. Encore une fois, leurs nouvelles capacités nous forcent à repenser ce qui est proprement humain. Je me suis attelé à cette tâche avec *Rush*, sortie en novembre 2025 chez PVH, et je ne peux avancer dans cette quête qu’en tentant de voir de quoi les LLM sont capables (et incapavle, ça va de soit). 
+Ce qui valait il y a un an ou deux est déjà périmé. Le problème n’est donc plus de prompter les IA, mais de leur fournir les bonnes données pour qu’elles puissent travailler. Encore une fois, leurs nouvelles capacités nous forcent à repenser ce qui est proprement humain. Je me suis attelé à cette tâche avec *Rush*, sortie en novembre 2025 chez PVH, et je ne peux avancer dans cette quête qu’en tentant de voir de quoi les LLM sont capables (et incapables, ça va de soit). 
 
 #cuisine #ia #y2025 #2025-4-29-19h00
