@@ -188,7 +188,7 @@ Un temps, les littéraires étaient les rois, et la formation littéraire et la 
 
 ---
 
-Chapitre 3, Saunders s’attaque à [*Douchetchka*](https://fr.wikipedia.org/wiki/Douchetchka) de Tchekhov. Je viens de lire la nouvelle dont la structure m’a fait penser à celle du *Boléro* de Ravel, répétition du même thème, sans grande surprise au fil de la narration, sans que je sois en attente de quoi que ce soit. Lecture agréable mais en rien bouleversante, qui se termine par un coup de théâtre discret, d’une élégance certaine, quand le cycle se rompt. Je m demande ce que Saunders tirera de ce texte comme leçons narratives. C’est une lecture jeu. La nouvelle devient une devinette. J’ai vu juste, j’ai gagné. Une idée me vient : écrire sept nouvelles qui reprennent la structure des sept nouvelles analysées par Saunders.
+Chapitre 3, Saunders s’attaque à [*Douchetchka*](https://fr.wikipedia.org/wiki/Douchetchka) de Tchekhov. Je viens de lire la nouvelle dont la structure m’a fait penser à celle du *Boléro* de Ravel, répétition du même thème, sans grande surprise au fil de la narration, sans me mettre en attente de quoi que ce soit. Lecture agréable mais en rien bouleversante, qui se termine par un coup de théâtre discret, d’une élégance certaine, quand le cycle se rompt. Je me demande ce que Saunders tirera de ce texte comme leçons narratives. C’est une lecture jeu. La nouvelle devient une devinette. J’ai vu juste, j’ai gagné. Une idée me vient : écrire sept nouvelles qui reprennent la structure des sept nouvelles analysées par Saunders.
 
 ### Vendredi 25, Balaruc
 
