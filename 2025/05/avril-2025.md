@@ -8,13 +8,13 @@ La société définit les règles du succès, mais nous ne sommes jamais heureux
 
 [Danny Kenny pose trois questions pour tester notre critère de réussite](https://bigthink.com/smart-skills/youre-not-lost-youre-just-following-someone-elses-map) :
 
-1/ Êtes-vous prêt à des sacrifices financiers pour votre Graal ? Je me suis contenté de gagner assez d’argent pour tenir jusqu’à la prochaine échéance. J’ai renoncé à un salaire « six figures » comme disent les Américains en échange de temps, découvrant que l’écriture ne me rapporterait jamais autant que si j’avais continué dans la voie pour laquelle j’avais été éduqué (et dans laquelle j’avais réussi).
+1/ Êtes-vous prêt à des sacrifices financiers pour votre Graal ? Je me suis contenté de gagner assez d’argent pour tenir jusqu’à la prochaine échéance. J’ai renoncé à un salaire « six figures » en échange de temps, découvrant que l’écriture ne me rapporterait jamais autant que si j’avais continué dans la voie pour laquelle j’avais été éduqué (et dans laquelle j’avais réussi).
 
 2/ Êtes-vous prêt à être impopulaire ? Renoncer à la vie que mènent les autres, notamment les cercles des amis d’études ou de travail, revient à s’éloigner d’eux. Il est difficile de poursuivre un objectif pendant que les proches en poursuivent d’autres. Un décalage source d’incompréhension s’installe. L’impopularité est une conséquence mécanique des choix radicaux. Elle pousse à se créer de nouveaux cercles relationnels. C’est difficile. La solitude guette.
 
 3/ Quand avez-vous sacrifié quelque chose pour votre choix pour la dernière fois ? C’est presque tous les jours, quand je dois arbitrer entre gagner un peu d’argent ou écrire, ou plutôt écrire pour gagner de l’argent ou écrire ce que j’ai envie d’écrire. J’ai sacrifié des sorties avec les amis, des cinémas, des voyages, même des relations amoureuses. Mon besoin de temps a presque fini par devenir pathologique, avant que je retrouve un peu d’équilibre avec la vie de famille.
 
-Mais le temps est-il mon Graal ou le moyen d’atteindre mon Graal ? Et la littérature ? Je ne vais pas me cacher, j’ai voulu rejoindre le cercle des auteurs, me mettre à leur suite, poursuivre l’exploration. La société me dit que j’ai échoué, mon degré de reconnaissance étant minuscule. Je n’ai glané aucun prix littéraire, aucun éloge, mais quelques lecteurs apprécie ce que j’écris, même si je les agace souvent (un auteur qui n’agace pas ne me paraît suspicieux — qui peut prétendre plaire à tous les coups à moins de sans cesse se répéter ?).
+Mais le temps est-il mon Graal ou le moyen d’atteindre mon Graal ? Et la littérature ? Je ne vais pas me cacher, j’ai voulu rejoindre le cercle des auteurs, me mettre à leur suite, poursuivre l’exploration. La société me dit que j’ai échoué, mon degré de reconnaissance étant minuscule. Je n’ai glané aucun prix littéraire, aucun éloge, mais quelques lecteurs apprécie ce que j’écris, même si je les agace souvent (un auteur qui n’agace pas me paraît suspicieux — qui peut plaire à tous les coups à moins de se répéter ?).
 
 Je peux tenter de répondre aux trois questions en plaçant la littérature comme Graal.
 
@@ -50,11 +50,11 @@ Katia, ma copine libraire, me dit que les lecteurs ne veulent plus que les nouve
 
 Mallarmé : « L’homme peut être démocrate, l’artiste se dédouble et doit rester aristocrate. » Pas l’impression de me dédoubler, bien au contraire. Je tente de faire bloc contre les normes. À la norme démocratique, j’oppose l’auto-organisation utopique, et à la norme littéraire, définie par ce qui se vend, j’oppose ma liberté. C’est toujours ma liberté que j’oppose. Je suis un aristocrate libéré du regard des autres aristocrates, ou j’aimerais l’être.
 
-J’ai l’impression de continuer à me construire. Tout juste si j’ai posé les fondations. Des amis de mon âge passent leur temps à regarder en arrière, je devrais dire d’anciens amis, moi, quand je me retourne, je vois les fondations sur lesquelles construire une cabanette.
+J’ai l’impression de continuer à me construire. Tout juste si j’ai posé les fondations. Des amis de mon âge passent leur temps à regarder en arrière, je devrais dire d’anciens amis, moi, quand je me retourne, je vois les fondations sur lesquelles il me reste à construire.
 
 ---
 
-Je lis ce dernier cours de Barthes depuis quelques mois, et je prends conscience qu’il l’écrit comme j’écris mon blog, c’est-à-dire pour le donner peu de temps après sa conception, ce qui diffère d’une écriture littéraire où le texte a le temps de mûrir, surtout quand il doit passer à travers la chaîne du livre pour arriver jusqu’aux lecteurs, ce qui donne l’occasion de multiples repentis. Presque trois ans se seront écoloulé entre l’écriture d’*Épicènes* et sa publication.
+Je lis le dernier cours de Barthes depuis quelques mois, et je prends conscience qu’il l’écrit comme j’écris mon blog, c’est-à-dire pour le donner peu de temps après sa conception, ce qui diffère d’une écriture littéraire où le texte a le temps de mûrir, surtout quand il doit passer à travers la chaîne du livre pour arriver jusqu’aux lecteurs, ce qui donne l’occasion de multiples repentis. Presque trois ans se seront écoloulés entre l’écriture d’*Épicènes* et sa publication.
 
 Ce roman n’est plus de moi, de celui que j’étais durant l’été 2022. Je me suis toujours dit que je pourrais le prolonger si des lecteurs y trouvaient quelques plaisirs (ou dérangements), mais je ne suis pas sûr d’en être capable : je me trouvais alors dans un état second, peut-être parce que je venais de terminer la suite de *Mon père, ce tueur*. J’ai tout de suite enchaîné.
 
@@ -68,7 +68,7 @@ Je lis les notes des jeunes auteurs sur Substack. Ils n’ont pas un désir de l
 
 ---
 
-Un copain écrit la biographie d’un auteur oublié, quasi inconnu aujourd’hui, et il commence par son enfance, certes fondatrice, mais dont on n’a rien à faire tant qu’il ne nous aura pas convaincus de nous intéresser au personnage. La biographie d’un inconnu ne peut pas être chronologique. En tout cas, moi ça m’emmerde. Et j’ai publié une version chronologique de la vie d’Ératosthène, mais c’était un roman, je rêvais d’une grande histoire, pas d’une biographie. Pour une biographie j’aurais commencé par m’interroger sur les causes de son oubli.
+Un copain écrit la biographie d’un auteur oublié. Il commence par son enfance, certes fondatrice, mais dont on n’a rien à faire tant que nous ne nous intéresserons pas au personnage. La biographie d’un inconnu ne peut pas être chronologique. En tout cas, moi ça m’emmerde. Et j’ai publié une version chronologique de la vie d’Ératosthène, mais c’était un roman, je rêvais d’une grande histoire, pas d’une biographie. Pour une biographie j’aurais commencé par m’interroger sur les causes de son oubli.
 
 ### Mardi 8, Balaruc
 
@@ -94,7 +94,7 @@ Je commence *A swim in a pond in the rain* de George Saunders, réputé un chef-
 
 « The Russians \[…] seemed to regard fiction not as something decorative but as a vital moral-ethical tool. They changed you when you read them, made the world seem to be telling a different, more interesting story, a story in which you might play a meaningful part, and in which you had responsibilities. »
 
-Saunders dit qu’il veut comprendre ce qu’il ressent en lisant et ce qui le fait ressentir, il veut voyager à travers ses émotions et ce qui les provoque. J’ai toujours de la réserve pour cette approche. Je m’appuie uniquement sur les émotions que je ressens quand j’écris, sur l’énergie qui m’habite, qui j’espère atteindra le lecteur, je ne pense pas plus loin. Je ne veux pas manipuler. Je coupe beaucoup, de peur d’ennuyer, c’est la seule émotion du lecteur que je crains de provoquer. Avec Saunders, je commence donc un voyage potentiellement perturbant.
+Saunders dit qu’il veut comprendre ce qu’il ressent en lisant et ce qui le fait ressentir, il veut voyager à travers ses émotions et ce qui les provoque. J’ai toujours de la réserve pour cette approche. Je m’appuie uniquement sur les émotions que je ressens quand j’écris, sur l’énergie qui m’habite, qui j’espère atteindra le lecteur, je ne pense pas plus loin. Je ne veux pas manipuler. Je coupe beaucoup, de peur d’ennuyer, c’est la seule émotion du lecteur que je redoute. Avec Saunders, je commence donc un voyage potentiellement perturbant.
 
 « To study the way we read is to study the way the mind works: the way it evaluates a statement for truth, the way it behaves in relation to another mind (i.e., the writer’s) across space and time. »
 
@@ -108,7 +108,7 @@ Saunders dit qu’il veut comprendre ce qu’il ressent en lisant et ce qui le f
 
 ### Samedi 12, Balaruc
 
-Saunders explique que si une histoire commence par « Il était une fois un garçon qui avait peur de l’eau », on passe d’une infinité de possibles (ou d’un absolu néant) à une attente, puisqu’on comprend que le garçon aura des problèmes avec l’eau. Cette attente met en route l’histoire pour le lecteur en créant en lui un désir. C’est évident mais je n’avais jamais pensé de cette façon à la nécessité de caractériser les personnages.
+Saunders explique que si une histoire commence par « Il était une fois un garçon qui avait peur de l’eau », on passe d’une infinité de possibles (ou d’un absolu néant) à une attente : on comprend que le garçon aura des problèmes avec l’eau. Cette attente met en route l’histoire pour le lecteur en créant en lui un désir. C’est évident mais je n’avais jamais pensé de cette façon à la nécessité de caractériser les personnages.
 
 Me semble que la première phrase du prologue de *Rush* fait le job : « Tu as déjà eu l’impression de vivre dans une histoire, comme si quelqu’un d’autre écrivait ta vie ? » tout comme la première phrase proprement dite du roman « Roc Cardinal était nostalgique d’une époque qu’il n’avait pas connue… », où on comprend que cette nostalgie va lui jouer des tours. Je parcours plus loin le texte et me rends compte que j’applique la règle de Saunders sans même y penser. C’est sans doute un implicite narratif. Début d’*Épicènes* : « Tout commença par une blague. Ils étaient à la plage. Elle attendait qu’il lui dise « Je t’aime »… » Encore une fois j’introduis immédiatement une tension.
 
@@ -144,15 +144,15 @@ Je viens de passer deux jours à tenter de créer une mise en page avec Scribus,
 
 ### Samedi 19, Balaruc
 
-J’ai toujours eu du mal à comprendre pourquoi beaucoup de gens croyaient en Dieu, quand on voit combien il existe de souffrance (et nous finissons tous par souffrir un jour ou l’autre, pour certains ça commence tôt). Si un dieu autorise de telles choses, c’est un dieu pervers qui ne mérite aucun respect. Les théologiens ont tenté de circonscrire cet argument en faveur de l’athéisme, mais aucun n’a été convaincant. Ils ne trouvent qu’à promettre une vie heureuse après. Des charlatans qui utilisent cet argument pour s’acheter des privilèges tout de suite. Payez-moi et mon dieu illusoire veillera à vos âmes plus tard. Quelle escroquerie ! Elle dure depuis des millénaires.
+J’ai toujours eu du mal à comprendre pourquoi beaucoup de gens croient en Dieu, quand on voit combien il existe de souffrance (et nous finissons tous par souffrir un jour ou l’autre, pour certains ça commence tôt). Si un dieu autorise de telles choses, c’est un dieu pervers qui ne mérite aucun respect. Les théologiens ont tenté de détruire cet argument en faveur de l’athéisme, mais aucun n’a été convaincant. Ils ne trouvent qu’à promettre une vie heureuse après. Des charlatans qui utilisent cet argument pour s’acheter des privilèges tout de suite. Payez-moi et mon dieu illusoire veillera à vos âmes plus tard. Quelle escroquerie ! Elle dure depuis des millénaires.
 
-Mais pourquoi je pense à ça aujourd’hui, ce matin ? Voilà qui m’intéresse plus que le sujet même. Peut-être parce que ma fatigue se prolonge, parce que je manque de force pour outrepasser les dérangements du monde. J’avais plusieurs projets, je faisais feu de tout bois, et ma belle mécanique s’enraye. J’en suis réduit à bricoler des bouts de codes. J’en arrive là quand je doute du pouvoir de la littérature. Peut-être que les autres se mettent à croire en dieu quand ils en arrivent là, quand ils n’avancent plus, quand ils ne voient plus d’issue, alors croire à une chose qui n’existe pas suffit à leur redonner du courage et ils s’accrochent à cette chose, ils en font une vérité.
+Mais pourquoi je pense à ça aujourd’hui, ce matin ? Voilà qui m’intéresse plus que le sujet même. Peut-être parce que ma fatigue se prolonge, parce que je manque de force pour outrepasser les dérangements du monde, parce qu’Isa est malade. J’avais plusieurs projets, je faisais feu de tout bois, et ma belle mécanique s’enraye. J’en suis réduit à bricoler des bouts de codes. J’en arrive là quand je doute du pouvoir de la littérature. Peut-être que les autres se mettent à croire en dieu quand ils en arrivent là, quand ils n’avancent plus, quand ils ne voient plus d’issue, alors croire à une chose qui n’existe pas suffit à leur redonner du courage et ils s’accrochent à cette chose, ils en font une vérité.
 
 Croire en Dieu sauve, parce que croire suffit à faire exister et à soulager. C’est de la magie pour illusionner le cerveau. La seule réalité reste celle de la croyance, non celle de son objet. La croyance est une puissance. Et dès que je doute de la littérature, dès qu’elle ne me fait plus vibrer, je déprime. La littérature n’existe pas plus que dieu. Deux mots pour désigner le même leurre.
 
 ### Lundi 21, Balaruc
 
-J’ai quitté Facebook, mais je continue de recevoir des mails de relance de Facebook. Je me désabonne et toujours des mails arrivent. Il est impossible de totalement quitter ces machins et c’est la preuve ultime de leur dangerosité. Pour commencer, rien de ce que j’ai posté sur Facebook n’a disparu de Facebook depuis mon départ me disent les amis encore sur le réseau.
+J’ai quitté Facebook, mais je continue de recevoir des mails de relance de Facebook. Je me désabonne et toujours des mails arrivent. Il est impossible de quitter ces machins et c’est la preuve ultime de leur dangerosité. Rien de ce que j’ai posté sur Facebook n’a disparu de Facebook depuis mon départ me disent les amis encore sur le réseau.
 
 ---
 
@@ -162,7 +162,7 @@ J’en suis là, cherchant à parler d’une chose incomprise, parce qu’elle n
 
 ### Mardi 22, Balaruc
 
-Une autrice parle de quitter Substack pour de bonnes raisons. Je lui écris : « Il est bon ton post, mais fuir pour Ghost je comprendrais, fuir pour TikTok, là c’est la régression, non ? Surtout en termes politiques, philosophiques, éthiques… Vendre ne devrait être que subsidiaire dans nos décisions (et c’est parce que ça ne l’est pas que le monde part en vrille). »
+Une autrice parle de quitter Substack. Je lui écris : « Il est bon ton post, mais fuir pour Ghost je comprendrais, fuir pour TikTok, là c’est la régression, non ? Surtout en termes politiques, philosophiques, éthiques… Vendre ne devrait être que subsidiaire dans nos décisions (et c’est parce que ça ne l’est pas que le monde part en vrille). »
 
 Sa réponse : « Ça je le comprends parfaitement, mais l’écriture est mon boulot à plein temps et je ne peux pas me passer des réseaux sociaux pour le moment, même s’ils sont problématiques. Ça m’ennuie beaucoup mais sans ça, je peux mettre la clef sous la porte (et comme je dis toujours, n’ayant aucun diplôme ni aucune expérience professionnelle en salariat, je peux juste aller travailler à McDo… ce qui remplace un peu la peste par le choléra). De plus, je ne fuis pas vers TikTok, qui ne fait que se rajouter à mes plateformes : je compte aller vers une plateforme de newsletters pour remplacer Substack (et d’ailleurs je dois étudier Ghost!) »
 
@@ -170,11 +170,11 @@ Tant d’auteurs me répètent la même chose, tant de gens devaient la répéte
 
 ---
 
-Dans son chapitre 2, Saunders s’attaque aux * *Chanteurs* de Tourgueniev, une nouvelle qui prend le contre-pied de celle de Tchekhov. J’ai lu les onze premières pages sans comprendre, et je n’aurais sans doute pas poursuivi la lecture si je n’avais pas attendu l’analyse de Saunders. Onze pages de description d’un village, d’un bistrot, de ses clients, avant qu’enfin deux chanteurs s’affrontent en une apothéose flamboyante. J’ai pensé à *Andreï Roublev*, le chef-d’œuvre de Tarkovski : trois heures de noir et blanc cryptique jusqu’à ce que les couleurs explosent et provoquent en moi une émotion presque intolérable lorsque j’ai vu le film pour la première fois au Cosmos, à Paris.
+Dans son chapitre 2, Saunders s’attaque aux *Chanteurs* de Tourgueniev, une nouvelle qui prend le contre-pied de celle de Tchekhov. J’ai lu les onze premières pages sans comprendre, et je n’aurais sans doute pas poursuivi la lecture si je n’avais pas attendu l’analyse de Saunders. Onze pages de description d’un village, d’un bistrot, de ses clients, avant qu’enfin deux chanteurs s’affrontent en une apothéose flamboyante. J’ai pensé à *Andreï Roublev*, le chef-d’œuvre de Tarkovski : trois heures de noir et blanc cryptique jusqu’à ce que les couleurs explosent et provoquent en moi une émotion presque intolérable lorsque j’ai vu le film pour la première fois au Cosmos, à Paris.
 
 Sommes-nous encore capables d’accepter de telles œuvres qui prennent leur temps ? J’ai quelques doutes. Lecteurs impatients, auteurs impatients. Dans la nouvelle de Tourgueniev tout se justifie *a posteriori*, la moindre ligne de la longue introduction rend possible l’apothéose. Les personnages sont décrits avec minutie parce que nous allons ressentir la performance du dernier chanteur à travers leurs émotions.
 
-Saunders réaffirme le principe de l’efficacité impitoyable. Tout élément d’une histoire doit servir un objectif précis. Rien n’existe par hasard ou simplement pour documenter. Je joue de ce principe dans *Rush*. C’est un moyen pour un personnage de questionner sa réalité. Si rien n’est là par hasard, il en conclut être dans un roman. Mais quand je regarde l’étang ce matin, vois des bouées blanches baliser le filet de Walter devant la maison, je me dis qu’elles n’ont aucune influence dans ma vie, et pourtant elles en ont une puisque je parle d’elles.
+Saunders réaffirme le principe de l’efficacité impitoyable. Tout élément d’une histoire doit servir un objectif précis. Rien n’existe par hasard ou simplement pour documenter. Je joue de ce principe dans *Rush*. C’est un moyen pour Roc de questionner sa réalité. Si rien n’est là par hasard, il en conclut être dans un roman. Mais quand je regarde l’étang ce matin, vois des bouées blanches baliser le filet de Walter devant la maison, je me dis qu’elles n’ont aucune influence dans ma vie, et pourtant elles en ont une puisque je parle d’elles.
 
 Restent les immeubles lointains de Sète. Leurs cubes ressemblent à des touches de piano plus ou moins enfoncées. Peu importe l’accord joué. Beaucoup de documentation m’entourent, trop pour que je sois dans un roman, ou alors il s’agit d’une œuvre monstrueuse. Peut-être que les réseaux sociaux nous plongent dans un roman, une narration folle, dont pour la plupart nous n’arrivons plus à nous arracher. Et ce ne serait qu’un début, et depuis des millénaires nous vivrions dans une simulation qui ne commencerait qu’à nous devenir apparente au moment où nous deviendrons, à l’intérieur d’elle, capables de la reproduire.
 
@@ -208,7 +208,7 @@ Saunders résume :  « To our accruing list of universal laws of fiction (Be 
 
 ### Samedi 26, Balaruc
 
-Pour un romanesque non héroïque. Parce que tant que les romans célébreront les héros, grands ou petits, glorieux ou décadents, nous attendrons le grand jour où un personnage historique se dressera pour nous guider. Les romans sont trop souvent impérialistes. Ils miment la prise de pouvoir, au mieux démocratique, encore que rarement. À la recherche d’un romanesque de la coopération, de l’entraide, du vivre ensemble, du faire ensemble. Un romanesque qui pourrait donner envie d’un autre monde, donner envie aux lecteurs de le construire, plutôt que de le rêver. Je ne suis pas allé assez loin avec *One Minute*, j’ai cassé la mécanique héroïque, mais pas construit. J’ai montré que l’histoire n’avait pas besoin d’un héros, mais je n’ai pas réussi à faire de chauqe lecteur un héros.
+Pour un romanesque non héroïque. Parce que tant que les romans célébreront les héros, grands ou petits, glorieux ou décadents, nous attendrons le grand jour où un personnage historique se dressera pour nous guider. Les romans sont trop souvent impérialistes. Ils miment la prise de pouvoir, au mieux démocratique, encore que rarement. À la recherche d’un romanesque de la coopération, de l’entraide, du vivre ensemble, du faire ensemble. Un romanesque qui pourrait donner envie d’un autre monde, donner envie aux lecteurs de le construire, plutôt que de le rêver. Je ne suis pas allé assez loin avec *One Minute*, j’ai cassé la mécanique héroïque, mais pas construit. J’ai montré que l’histoire n’avait pas besoin d’un héros, mais je n’ai pas réussi à transformer les lecteur en héros.
 
 Je déteste les périodes électorales parce que les électeurs espèrent qu’un tel ou une telle changera leur vie. Il se croient à dans un roman et en cherchent le héros. Nous ne changerons la politique qu’en changeant d’abord nos romans. Je veux moi-même être le héros, tout ça peut-être parce que j’ai été joueur de jeu de rôle, parce que j’ai appris à vivre mes aventures.
 
@@ -224,7 +224,7 @@ Je déteste les périodes électorales parce que les électeurs espèrent qu’u
 
 ### Mardi 29, Montpellier
 
-Il y a trois ans, quasi jour pour jour, je déposais Tim devant la fac de sciences pour le concours Polytech. Aujourd’hui, je répète le rituel avec Émile, puis marche jusqu’au jardin des plantes, m’installe sur un premier banc pour rêvasser, peut-être écrire un article.
+Il y a trois ans, quasi jour pour jour, je déposais Tim devant la fac de sciences pour le concours Polytech. Aujourd’hui, je répète le rituel avec Émile, puis marche jusqu’au jardin des plantes, m’installe sur banc pour rêvasser, peut-être écrire.
 
 Sur le banc voisin, une femme accable son compagnon de reproches. L’homme répond vite, puis reste silencieux pendant que la femme s’effondre en larmes : « Me poser ? Seule dans un appartement ? Tout l’hiver ? Me poser ? »
 
@@ -236,7 +236,7 @@ Quand j’étais dans ce jardin, au printemps 2022, j’ignorais que j’utilise
 
 J’ai perdu l’habitude des déambulations littéraires, de partir à la pêche. Impression de ne plus avoir de temps, de manquer de l’oisiveté nécessaire à l’épanouissement du carnet. Plus je vieillis, moins j’ai de temps, c’est une observation strictement mathématique. Le temps restant à vivre pèse sur le temps vécu, plus le premier s’allège plus le second accélère. Ou plutôt le temps vécu provoque l’accélération du temps restant à vivre. Il serait logique d’inverser cette physique. De partir en promenade souvent, pas à vélo, le vélo est trop physique, trop rapide, pas propice à l’écriture.
 
-« Papa, ne me raccroche pas au nez comme ça », dit un étudiant au téléphone. On a beau s’aimer, on arrive trop souvent à se faire du mal. Cet homme et cette femme, ce fils et ce père, cette bronchiteuse fumeuse, je m’attarde sur eux et non sur ceux qui rient, qui s’aiment, qui refont le monde.
+« Papa, ne me raccroche pas au nez comme ça », dit un étudiant à son téléphone, de l’autre côté de l’allée. On a beau s’aimer, on arrive trop souvent à se faire du mal. Cet homme et cette femme, ce fils et ce père, cette bronchiteuse fumeuse, je m’attarde sur eux et non sur ceux qui rient, s’aiment, refont le monde.
 
 ![Jardin des Plantes](_i/2025-04-29-133044-JardinsdesPlantes.webp)
 
