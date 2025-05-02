@@ -14,7 +14,7 @@ La société définit les règles du succès, mais nous ne sommes jamais heureux
 
 3/ Quand avez-vous sacrifié quelque chose pour votre choix pour la dernière fois ? C’est presque tous les jours, quand je dois arbitrer entre gagner un peu d’argent ou écrire, ou plutôt écrire pour gagner de l’argent ou écrire ce que j’ai envie d’écrire. J’ai sacrifié des sorties avec les amis, des cinémas, des voyages, même des relations amoureuses. Mon besoin de temps a presque fini par devenir pathologique, avant que je retrouve un peu d’équilibre avec la vie de famille.
 
-Mais le temps est-il mon Graal ou le moyen d’atteindre mon Graal ? Et la littérature ? Je ne vais pas me cacher, j’ai voulu rejoindre le cercle des auteurs, me mettre à leur suite, poursuivre l’exploration. La société me dit que j’ai échoué, mon degré de reconnaissance étant minuscule. Je n’ai glané aucun prix littéraire, aucun éloge, mais quelques lecteurs apprécie ce que j’écris, même si je les agace souvent (un auteur qui n’agace pas me paraît suspicieux — qui peut plaire à tous les coups à moins de se répéter ?).
+Mais le temps est-il mon Graal ou le moyen d’atteindre mon Graal ? Et la littérature ? Je ne vais pas me cacher, j’ai voulu rejoindre le cercle des auteurs, me mettre à leur suite, poursuivre l’exploration. La société me dit que j’ai échoué, mon degré de reconnaissance étant minuscule. Je n’ai glané aucun prix littéraire, aucun éloge, mais quelques lecteurs apprécient ce que j’écris, même si je les agace souvent (un auteur qui n’agace pas me paraît suspicieux — qui peut plaire à tous les coups à moins de se répéter ?).
 
 Je peux tenter de répondre aux trois questions en plaçant la littérature comme Graal.
 
@@ -28,7 +28,7 @@ Je peux tenter de répondre aux trois questions en plaçant la littérature comm
 
 Barthes : « Aujourd’hui la littérature est soutenue par une clientèle de _déclassés ;_ nous sommes donc tous qui aimons la littérature des exilés sociaux et nous emportons la littérature dans le maigre bagage de cet exil. » Il remarque que les riches ne soutiennent plus la littérature. Les choses n’ont fait qu’empirer en presque cinquante ans. Les riches n’ont souvent plus d’éducation littéraire (ils soutiennent les arts plastiques parce que ça ne leur demande pas beaucoup de temps et offre une ostentation qui leur plaît, mais ni plus ni moins qu’une voiture de prix).
 
-La bourgeoisie dont parle Barthes n’existe plus. Il y a la classe moyenne et les riches, souvent autoréalisés, qui ne s’inscrivent dans aucune tradition bourgeoise. Des esclaves émancipés, ou du moins qui se croient émancipés et qui justement obéissent aux règles imposées par la société, c’est-à-dire réussir monétairement, ce qui ne les rend pas heureux.
+La bourgeoisie dont parle Barthes n’existe plus. Il y a la classe moyenne et les riches, souvent autoréalisés, qui ne s’inscrivent dans aucune tradition bourgeoise. Des esclaves émancipés, ou supposés émancipés, et qui justement obéissent aux règles imposées par la société, c’est-à-dire réussir monétairement, ce qui ne les rend pas heureux.
 
 Nous autres lecteurs ne sommes ni grands bourgeois, ni petits bourgeois, nous ne sommes rien du tout.
 
@@ -54,7 +54,7 @@ J’ai l’impression de continuer à me construire. Tout juste si j’ai posé 
 
 ---
 
-Je lis le dernier cours de Barthes depuis quelques mois, et je prends conscience qu’il l’écrit comme j’écris mon blog, c’est-à-dire pour le donner peu de temps après sa conception, ce qui diffère d’une écriture littéraire où le texte a le temps de mûrir, surtout quand il doit passer à travers la chaîne du livre pour arriver jusqu’aux lecteurs, ce qui donne l’occasion de multiples repentis. Presque trois ans se seront écoloulés entre l’écriture d’*Épicènes* et sa publication.
+Je lis le dernier cours de Barthes depuis quelques mois, et je prends conscience qu’il l’écrit comme j’écris mon blog, c’est-à-dire pour le donner peu de temps après sa conception, ce qui diffère d’une écriture littéraire où le texte a le temps de mûrir, surtout quand il doit passer à travers la chaîne du livre pour arriver jusqu’aux lecteurs, ce qui donne l’occasion de multiples repentis. Presque trois ans se seront écoulés entre l’écriture d’*Épicènes* et sa publication.
 
 Ce roman n’est plus de moi, de celui que j’étais durant l’été 2022. Je me suis toujours dit que je pourrais le prolonger si des lecteurs y trouvaient quelques plaisirs (ou dérangements), mais je ne suis pas sûr d’en être capable : je me trouvais alors dans un état second, peut-être parce que je venais de terminer la suite de *Mon père, ce tueur*. J’ai tout de suite enchaîné.
 
@@ -94,7 +94,7 @@ Je commence *A swim in a pond in the rain* de George Saunders, réputé un chef-
 
 « The Russians \[…] seemed to regard fiction not as something decorative but as a vital moral-ethical tool. They changed you when you read them, made the world seem to be telling a different, more interesting story, a story in which you might play a meaningful part, and in which you had responsibilities. »
 
-Saunders dit qu’il veut comprendre ce qu’il ressent en lisant et ce qui le fait ressentir, il veut voyager à travers ses émotions et ce qui les provoque. J’ai toujours de la réserve pour cette approche. Je m’appuie uniquement sur les émotions que je ressens quand j’écris, sur l’énergie qui m’habite, qui j’espère atteindra le lecteur, je ne pense pas plus loin. Je ne veux pas manipuler. Je coupe beaucoup, de peur d’ennuyer, c’est la seule émotion du lecteur que je redoute. Avec Saunders, je commence donc un voyage potentiellement perturbant.
+Saunders dit qu’il veut comprendre ce qu’il ressent en lisant et ce qui le fait ressentir, il veut voyager à travers ses émotions et ce qui les provoque. J’ai toujours de la réserve pour cette approche. Je m’appuie uniquement sur les émotions ressenties quand j’écris, sur l’énergie qui m’habite, qui j’espère atteindra le lecteur, je ne pense pas plus loin. Je ne veux pas manipuler. Je coupe beaucoup, de peur d’ennuyer, c’est la seule émotion du lecteur que je redoute. Avec Saunders, je commence donc un voyage potentiellement perturbant.
 
 « To study the way we read is to study the way the mind works: the way it evaluates a statement for truth, the way it behaves in relation to another mind (i.e., the writer’s) across space and time. »
 
@@ -126,7 +126,7 @@ Il pleuvait, pas de vélo, pas de jardinage, pas d’envie, j’ai regardé Pari
 
 ### Mercredi 16, Balaruc
 
-Mon état léthargique se prolonge, je n’y suis pas habitué. C’est souvent signe d’une gestation inconsciente. De tels moments précèdent mes phases créatives. Je ne parviens pas à boucler *Le Livre contre-attaque*, j’ai écrit ce texte en cinq jours, depuis il me résiste, quelque chose n’y fonctionne pas, un mot, technofascisme, trop daté, qui ne dit pas ce qui nous arrive, et je trouve rien de satisfaisant. Un texte bloqué par un seul mot à inventer (et les IA ne m’aident pas, tirant tout vers le bas, vers le médiocre).
+Mon état léthargique se prolonge, je n’y suis pas habitué. C’est souvent signe d’une gestation inconsciente. De tels moments précèdent mes phases créatives. Je ne parviens pas à boucler *Le Livre contre-attaque*, j’ai écrit ce texte en cinq jours, depuis il me résiste, quelque chose n’y fonctionne pas, un mot, technofascisme, trop daté, qui ne dit pas ce qui nous arrive, et je ne trouve rien de satisfaisant. Un texte bloqué par un seul mot à inventer (et les IA ne m’aident pas, tirant tout vers le bas, vers le médiocre).
 
 Puis, maintenant que j’ai mes exemplaires d’*Épicènes*, je pense à la sortie du texte, au silence assourdissant qui l’accompagnera probablement, à tout ce travail, et plus que le mien à tout le travail des copains éditeurs. Que faire pour être lus, pour que nous soyons lus ?
 
@@ -156,7 +156,7 @@ J’ai quitté Facebook, mais je continue de recevoir des mails de relance de Fa
 
 ---
 
-Faute du bon mot dans *Le Livre contre-attaque*, j’y parle de la chose dans laquelle nous vivons, dans laquelle nous plongeons de plus en plus irrémédiablement, où nous nous vautrons même. Benjamin me raconte que Claude Lanzmann a durant des années parlé de la chose pour désigner la *Shoah*. Dans [Wikipédia](https://fr.wikipedia.org/wiki/Shoah) : « Si j’avais pu ne pas nommer ce film, je l’aurais fait. Comment aurait-il pu y avoir un nom pour nommer un événement sans précédent dans l’histoire ? Je disais « la chose ». \[…] Ce sont des rabbins qui ont trouvé le nom de _Shoah_. Mais cela veut dire anéantissement, cataclysme, catastrophe naturelle. _Shoah_, c’est un mot hébreu que je ne comprends pas. Un mot opaque que personne ne comprendra. Un acte de nomination radicale. Un nom qui est passé dans la langue, sauf aux États-Unis ».
+Faute du bon mot dans *Le Livre contre-attaque*, j’y parle de la chose dans laquelle nous vivons, dans laquelle nous plongeons de plus en plus irrémédiablement, où nous nous vautrons même. Benjamin me raconte que Claude Lanzmann a durant des années parlé de la chose pour désigner la *Shoah*. Dans [Wikipédia](https://fr.wikipedia.org/wiki/Shoah) : « Si j’avais pu ne pas nommer ce film, je l’aurais fait. Comment aurait-il pu y avoir un nom pour nommer un évènement sans précédent dans l’histoire ? Je disais « la chose ». \[…] Ce sont des rabbins qui ont trouvé le nom de _Shoah_. Mais cela veut dire anéantissement, cataclysme, catastrophe naturelle. _Shoah_, c’est un mot hébreu que je ne comprends pas. Un mot opaque que personne ne comprendra. Un acte de nomination radicale. Un nom qui est passé dans la langue, sauf aux États-Unis ».
 
 J’en suis là, cherchant à parler d’une chose incomprise, parce qu’elle nous arrive et que nous ne pouvons encore la raconter même si nous en ressentons la vague de fond. Je viens de lire [un article qui voit ce mouvement comme irréversible](https://america2.news/convergence-is-here-and-were-not-prepared/). Je me demande si je ne dois pas faire de mon texte un Work In Progress, ne pas attendre pour le publier, le diffuser tout de suite. En son état de chose.
 
@@ -174,9 +174,9 @@ Dans son chapitre 2, Saunders s’attaque aux *Chanteurs* de Tourgueniev, une no
 
 Sommes-nous encore capables d’accepter de telles œuvres qui prennent leur temps ? J’ai quelques doutes. Lecteurs impatients, auteurs impatients. Dans la nouvelle de Tourgueniev tout se justifie *a posteriori*, la moindre ligne de la longue introduction rend possible l’apothéose. Les personnages sont décrits avec minutie parce que nous allons ressentir la performance du dernier chanteur à travers leurs émotions.
 
-Saunders réaffirme le principe de l’efficacité impitoyable. Tout élément d’une histoire doit servir un objectif précis. Rien n’existe par hasard ou simplement pour documenter. Je joue de ce principe dans *Rush*. C’est un moyen pour Roc de questionner sa réalité. Si rien n’est là par hasard, il en conclut être dans un roman. Mais quand je regarde l’étang ce matin, vois des bouées blanches baliser le filet de Walter devant la maison, je me dis qu’elles n’ont aucune influence dans ma vie, et pourtant elles en ont une puisque je parle d’elles.
+Saunders réaffirme le principe de l’efficacité impitoyable. Tout élément d’une histoire doit servir un objectif précis. Rien n’existe par hasard ou simplement pour documenter. Je joue de ce principe dans *Rush*. C’est un moyen pour Roc de questionner sa réalité. Si rien n’est là par hasard, il en conclut être dans un roman. Mais quand je regarde l’étang ce matin, et les bouées blanches baliser le filet de Walter devant la maison, je me dis qu’elles n’ont aucune influence dans ma vie, et pourtant elles en ont une puisque je parle d’elles.
 
-Restent les immeubles lointains de Sète. Leurs cubes ressemblent à des touches de piano plus ou moins enfoncées. Peu importe l’accord joué. Beaucoup de documentation m’entourent, trop pour que je sois dans un roman, ou alors il s’agit d’une œuvre monstrueuse. Peut-être que les réseaux sociaux nous plongent dans un roman, une narration folle, dont pour la plupart nous n’arrivons plus à nous arracher. Et ce ne serait qu’un début, et depuis des millénaires nous vivrions dans une simulation qui ne commencerait qu’à nous devenir apparente au moment où nous deviendrons, à l’intérieur d’elle, capables de la reproduire.
+Restent les immeubles lointains de Sète. Leurs cubes ressemblent à des touches de piano plus ou moins enfoncées. Peu importe l’accord joué. Beaucoup de documentation m’entoure, trop pour que je sois dans un roman, ou alors il s’agit d’une œuvre monstrueuse. Peut-être que les réseaux sociaux nous plongent dans un roman, une narration folle, dont pour la plupart nous n’arrivons plus à nous arracher. Et ce ne serait qu’un début, et depuis des millénaires nous vivrions dans une simulation qui ne commencerait qu’à nous devenir apparente au moment où nous deviendrons, à l’intérieur d’elle, capables de la reproduire.
 
 ### Jeudi 24, Balaruc
 
@@ -198,7 +198,7 @@ J’ai longtemps été naïf, à croire que l’exponentialisation des technolog
 
 Le livre de Saunders est passionnant parce qu’écrit par un écrivain et non un prof de littérature. Saunders écrit lui-même et il fait la différence entre ses analyses et la façon dont les auteurs sont arrivés aux résultats analysés. Tchekhov a créé une « pattern story » sans avoir eu besoin de créer un pattern au préalable. Quand nous écrivons, ce que nous écrivons nous échappe, au mieux nous en prenons conscience a posteriori.
 
-Par exemple, *Épicènes* est une « pattern story », un boléro, avec le même thème qui revient et qui chaque fois prend un tour différent. Le pattern place le lecteur dans la position de l’attente. Est-ce que ça va encore se répéter ? Dans *One Minute*, le pattern, c’est le black out, chaque minute terminée par le même évènement, mais chaque fois on y arrive de façon différente ce qui implique une nouvelle interprétation, donc un certain effort intellectuel, pour moi indispensable quand je lis.
+Par exemple, *Épicènes* est une « pattern story », un boléro, avec le même thème qui revient et qui chaque fois prend un tour différent. Le pattern place le lecteur dans la position de l’attente. Est-ce que ça va encore se répéter ? Dans *One Minute*, le pattern, c’est le black-out, chaque minute terminée par le même évènement, mais chaque fois on y arrive de façon différente ce qui implique une nouvelle interprétation, donc un certain effort intellectuel, pour moi indispensable quand je lis.
 
 ---
 
@@ -208,9 +208,9 @@ Saunders résume :  « To our accruing list of universal laws of fiction (Be 
 
 ### Samedi 26, Balaruc
 
-Pour un romanesque non héroïque. Parce que tant que les romans célébreront les héros, grands ou petits, glorieux ou décadents, nous attendrons le grand jour où un personnage historique se dressera pour nous guider. Les romans sont trop souvent impérialistes. Ils miment la prise de pouvoir, au mieux démocratique, encore que rarement. À la recherche d’un romanesque de la coopération, de l’entraide, du vivre ensemble, du faire ensemble. Un romanesque qui pourrait donner envie d’un autre monde, donner envie aux lecteurs de le construire, plutôt que de le rêver. Je ne suis pas allé assez loin avec *One Minute*, j’ai cassé la mécanique héroïque, mais pas construit. J’ai montré que l’histoire n’avait pas besoin d’un héros, mais je n’ai pas réussi à transformer les lecteur en héros.
+Pour un romanesque non héroïque. Parce que tant que les romans célébreront les héros, grands ou petits, glorieux ou décadents, nous attendrons le grand jour où un personnage historique se dressera pour nous guider. Les romans sont trop souvent impérialistes. Ils miment la prise de pouvoir, au mieux démocratique, encore que rarement. À la recherche d’un romanesque de la coopération, de l’entraide, du vivre ensemble, du faire ensemble. Un romanesque qui pourrait donner envie d’un autre monde, donner envie aux lecteurs de le construire, plutôt que de le rêver. Je ne suis pas allé assez loin avec *One Minute*, j’ai cassé la mécanique héroïque, mais pas construit. J’ai montré que l’histoire n’avait pas besoin d’un héros, mais je n’ai pas réussi à transformer les lecteurs en héros.
 
-Je déteste les périodes électorales parce que les électeurs espèrent qu’un tel ou une telle changera leur vie. Il se croient à dans un roman et en cherchent le héros. Nous ne changerons la politique qu’en changeant d’abord nos romans. Je veux moi-même être le héros, tout ça peut-être parce que j’ai été joueur de jeu de rôle, parce que j’ai appris à vivre mes aventures.
+Je déteste les périodes électorales parce que les électeurs espèrent qu’un tel ou une telle changera leur vie. Ils se croient dans un roman et en cherchent le héros. Nous ne changerons la politique qu’en changeant d’abord nos romans. Je veux moi-même être le héros, tout ça peut-être parce que j’ai été joueur de jeu de rôle, parce que j’ai appris à vivre mes aventures.
 
 ---
 
@@ -234,7 +234,7 @@ Saunders parle de l’économie du récit. Je ne respecte aucune règle dans le 
 
 Quand j’étais dans ce jardin, au printemps 2022, j’ignorais que j’utiliserais mes souvenirs dans le premier chapitre d’*Épicènes*. J’ai tendance à tout capturer, à tout ingérer. Je n’ai pas besoin de noter, juste de me laisser pénétrer, puis ça revient, ça s’impose.
 
-J’ai perdu l’habitude des déambulations littéraires, de partir à la pêche. Impression de ne plus avoir de temps, de manquer de l’oisiveté nécessaire à l’épanouissement du carnet. Plus je vieillis, moins j’ai de temps, c’est une observation strictement mathématique. Le temps restant à vivre pèse sur le temps vécu, plus le premier s’allège plus le second accélère. Ou plutôt le temps vécu provoque l’accélération du temps restant à vivre. Il serait logique d’inverser cette physique. De partir en promenade souvent, pas à vélo, le vélo est trop physique, trop rapide, pas propice à l’écriture.
+J’ai perdu l’habitude des déambulations littéraires, de partir à la pêche. Impression de ne plus avoir de temps, de manquer de l’oisiveté nécessaire à l’épanouissement du carnet. Plus je vieillis, moins j’ai de temps, c’est une observation strictement mathématique. Le temps restant à vivre pèse sur le temps vécu, plus le premier s’allège, plus le second accélère. Ou plutôt le temps vécu provoque l’accélération du temps restant à vivre. Il serait logique d’inverser cette physique. De partir en promenade souvent, pas à vélo, le vélo est trop physique, trop rapide, pas propice à l’écriture.
 
 « Papa, ne me raccroche pas au nez comme ça », dit un étudiant à son téléphone, de l’autre côté de l’allée. On a beau s’aimer, on arrive trop souvent à se faire du mal. Cet homme et cette femme, ce fils et ce père, cette bronchiteuse fumeuse, je m’attarde sur eux et non sur ceux qui rient, s’aiment, refont le monde.
 
