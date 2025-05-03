@@ -49,4 +49,6 @@ Pour la navigation hors ligne, j’utilise aussi [MapOut](https://mapout.app/) s
 
 ![OsmAnd](_i/osmand.webp)
 
+*PS : [Il est aussi judicieux de copier les POI les plus importants dur le GPS](https://tcrouzet.com/2021/03/24/comment-suivre-une-trace-gps-en-bikepacking/) (j’y place uniquement les points d’eau).*
+
 #velo #bikepacking #gpx #y2024 #2024-9-10-10h00
