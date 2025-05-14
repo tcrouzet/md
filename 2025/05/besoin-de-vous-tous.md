@@ -29,6 +29,6 @@ Le livre sera disponible dans toutes les librairies le 10 juin, 16 €, mais [
 
 Si vous n’êtes pas loin de Balaruc, je serai à [La Librairie Nomade](https://www.facebook.com/p/La-librairie-nomade-100067427163808/), chez Katia, le 5 juin, à 18h. On parlera de ce bouquin, de mes projets, de vos envies, de nos vulnérabilités, aussi de nos forces.
 
-[![Épicènes](_i/Epicenes-cover.webp)](https://tcrouzet.com/books/epicenes/)
+![Épicènes](_i/Epicenes-cover.webp)
 
 #buzz #epicenes #y2025 #2025-5-14-20h00
