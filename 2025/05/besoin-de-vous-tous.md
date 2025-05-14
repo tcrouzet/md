@@ -25,10 +25,10 @@ Je n’y ai défendu aucune thèse, sinon peut-être la difficulté d’être au
 
 Si vous êtes intrigués, désireux de m’aider, de booster ma créativité, de peut-être vous plonger dans une fiction dépaysante, à la frontière du noir et du fantastique, alors offrez-vous un *Épicènes* ou offrez-le.
 
-Le livre sera disponible dans toutes les librairies le 10 juin, 16 €, mais [vous pouvez le commander tout de suite, chez mon éditeur ou dans toutes les librairies en ligne ou non](../../books/epicenes.md). Les précommandes, c’est important : le jour de la sortie du texte, elles provoquent un pic sur les systèmes de tracking des diffuseurs.
+Le livre sera disponible dans toutes les librairies le 10 juin, 16 €, mais [vous pouvez le commander tout de suite, chez mon éditeur ou dans toutes les librairies en ligne ou non](https://tcrouzet.com/books/epicenes/). Les précommandes, c’est important : le jour de la sortie du texte, elles provoquent un pic sur les systèmes de tracking des diffuseurs.
 
 Si vous n’êtes pas loin de Balaruc, je serai à [La Librairie Nomade](https://www.facebook.com/p/La-librairie-nomade-100067427163808/), chez Katia, le 5 juin, à 18h. On parlera de ce bouquin, de mes projets, de vos envies, de nos vulnérabilités, aussi de nos forces.
 
-![Épicènes](_i/Epicenes-cover.webp)
+[![Épicènes](_i/Epicenes-cover.webp)](https://tcrouzet.com/books/epicenes/)
 
 #buzz #epicenes #y2025 #2025-5-14-20h00
