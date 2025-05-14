@@ -1,14 +1,14 @@
 ---
-baseline: Ni femme ni homme, ni toi ni moi, ils bousculent le monde binaire 
+baseline: Ni femme ni homme, ni toi ni moi, ils bousculent le monde binaire
 date: 2025-06-10
 genre: roman
 isbn: 9782959039263
 isbne: 
 editor: À la flamme
 exergue: Un roman d’amour fusionnel à la frontière du noir et du fantastique
-lire: 
+lire: https://tcrouzet.com/2025/05/14/besoin-de-vous-tous/
 prix: 16
-eprix:
+eprix: 
 shops:
   - https://alaflamme.fr/livre/epicenes/
   - https://www.amazon.fr/%C3%89pic%C3%A8nes-Thierry-Crouzet/dp/2959039262/
