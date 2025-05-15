@@ -1,4 +1,4 @@
-# J’ai besoin de vous tous
+# Épicènes a besoin de vous
 
 ![Épicènes](_i/2025-05-14-184720.webp)
 
@@ -10,7 +10,7 @@ Le délit cette fois : un petit roman de 140 pages. Son titre : *Épicènes*.
 
 Un roman donc, composé de six textes interconnectés, qui racontent chacun des épicènes dans diverses époques et divers lieux non localisés. J’aimerais que vous le lisiez, que vous m’en parliez, que vous en parliez autour de vous, parce que si ce livre se vend, mon éditeur qui a le courage de se lancer dans la profession pourra en publier d’autres, les miens et ceux d’autres auteurs, chose essentielle par les temps troublés que nous traversons, temps surtout pressés où de moins en moins de gens prennent le temps de lire à tête reposée. Achetez donc ce livre pour que je puisse en écrire d’autres, pour que j’aie l’énergie de continuer à publier des articles et à partager mes cogitations.
 
-Je donne beaucoup, parfois ça ne suffit pas, et même jamais. Acheter un livre, c’est faire un don à toute une équipe qui va du libraire à l’auteur en passant par l’éditeur, les correcteurs, les graphistes… C’est important. C’est plus que jamais un acte de résistance. Alors résistez avec *Épicènes*.
+Je donne beaucoup, parfois ça ne suffit pas, et même jamais. Acheter un livre, c’est faire un don à toute une équipe qui va du libraire à l’auteur en passant par l’éditeur, les correcteurs, les graphistes… C’est important. C’est plus que jamais un acte de résistance (j’ai expliqué tout ça dans [*Le Livre contre-attaque*](https://tcrouzet.com/2025/04/23/le-livre-contre-attaque-en-libre/)). Alors résistez avec *Épicènes*.
 
 C’est un texte étrange, venu de je ne sais où, sans même que je m’en rende compte. Mon ami Jean-Hugues, maintenant aussi mon éditeur avec ses deux comparses, Jérôme et Fred, m’a demandé en juillet 2022 une nouvelle pour le festival d’Angers. Le thème : double-je. J’ai rigolé. Je lui ai dit que les trucs psy n’étaient pas mon affaire. Je ne lui ai rien promis, mais dans la nuit un paragraphe est venu, que j’ai noté, qui maintenant ouvre le roman.
 
@@ -25,7 +25,7 @@ Je n’y ai défendu aucune thèse, sinon peut-être la difficulté d’être au
 
 Si vous êtes intrigués, désireux de m’aider, de booster ma créativité, de peut-être vous plonger dans une fiction dépaysante, à la frontière du noir et du fantastique, alors offrez-vous un *Épicènes* ou offrez-le.
 
-Le livre sera disponible dans toutes les librairies le 10 juin, 16 €, mais **vous pouvez le commander tout de suite**, [chez mon éditeur](https://alaflamme.fr/livre/epicenes/) ou [dans toutes les librairies en ligne ou non](https://tcrouzet.com/books/epicenes/). Les précommandes, c’est important : le jour de la sortie du texte, elles provoquent un pic sur les systèmes de tracking des diffuseurs.
+Le livre sera disponible dans toutes les librairies le 10 juin, 16 €, mais **vous pouvez le précommander tout de suite**, [chez mon éditeur](https://alaflamme.fr/livre/epicenes/) ou [dans toutes les librairies en ligne ou non](https://tcrouzet.com/books/epicenes/). Les précommandes, c’est important : le jour de la sortie du texte, elles provoquent un pic sur les systèmes de tracking des diffuseurs.
 
 Si vous n’êtes pas loin de Balaruc, je serai à [La Librairie Nomade](https://www.facebook.com/p/La-librairie-nomade-100067427163808/), chez Katia, le 5 juin, à 18h. On parlera de ce bouquin, de mes projets, de vos envies, de nos vulnérabilités, aussi de nos forces.
 
