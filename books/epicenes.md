@@ -8,7 +8,7 @@ editor: À la flamme
 exergue: Un roman d’amour fusionnel à la frontière du noir et du fantastique
 lire: https://alaflamme.fr/wp-content/uploads/2025/02/Epicenes-premieres-pages.pdf
 prix: 16
-eprix: -2
+eprix: 
 shops:
   - https://alaflamme.fr/livre/epicenes/
   - https://www.amazon.fr/%C3%89pic%C3%A8nes-Thierry-Crouzet/dp/2959039262/
