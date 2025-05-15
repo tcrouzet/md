@@ -33,4 +33,6 @@ Ils se retrouvaient un instant puis se fondaient l’un en l’autre, incapables
 
 [Plus sur le blog…](/tag/epicenes/)
 
+![Dos de couv](_i/epicenes-4eme.webp)
+
 #book #y2025 #2025-5-14-19h00
