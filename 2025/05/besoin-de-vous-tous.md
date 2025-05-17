@@ -27,7 +27,7 @@ Si vous êtes intrigués, désireux de m’aider, de booster ma créativité, de
 
 Le livre sera disponible dans toutes les librairies le 10 juin, 16 €, mais **vous pouvez le précommander tout de suite**, [chez mon éditeur](https://alaflamme.fr/livre/epicenes/) ou [dans toutes les librairies en ligne ou non](https://tcrouzet.com/books/epicenes/). Les précommandes, c’est important : le jour de la sortie du texte, elles provoquent un pic sur les systèmes de tracking des diffuseurs.
 
-Si vous n’êtes pas loin de Balaruc, je serai à [La Librairie Nomade](https://www.facebook.com/p/La-librairie-nomade-100067427163808/), chez Katia, le 5 juin, à 18h. On parlera de ce bouquin, de mes projets, de vos envies, de nos vulnérabilités, aussi de nos forces. 
+Si vous n’êtes pas loin de Balaruc, je serai à [La Librairie Nomade](https://www.facebook.com/p/La-librairie-nomade-100067427163808/), chez Katia, le 5 juin, à 18h. On parlera de ce bouquin, de mes projets, de vos envies, de nos vulnérabilités, aussi de nos forces.
 
 ![Épicènes](_i/Epicenes-cover.webp)
 
