@@ -2,7 +2,7 @@
 
 ![Photo sur la POU100](_i/g727une.webp)
 
-Le g727 2025 se réinvente : plus accessible, plus gravel, toujours aussi dépaysant. Notre événement de bikepacking non-compétitif revient le 27 septembre avec un nouveau parcours de 727 km traversant Camargue, Alpilles et Larzac, pour moins de 8000 m de dénivelé. [Inscriptions limitées à 99 participants, déjà ouvertes !](https://www.helloasso.com/associations/ec-poussan/evenements/g727-2025)
+Le g727 2025 se réinvente : plus accessible, plus gravel, toujours aussi dépaysant. Notre événement de bikepacking non-compétitif revient le 27 septembre avec un nouveau parcours de 727 km traversant Camargue, Alpilles et Larzac, pour moins de 8000 m de dénivelé. [Inscriptions limitées à 99 participants, déjà ouvertes !](https://www.helloasso.com/associations/ec-poussan/evenements/g727-2025)
 
 L’idée : les [727 VTT](https://727bikepacking.fr/#top), sont très VTT, les [g727](https://727bikepacking.fr/g727/) sont très gravel, et de plus en plus gravel. Nous tenons à différencier les deux pratiques. Comment nous définissons le gravel avec les copains ? On doit pouvoir rouler à plus de 20 km/h de moyenne sans trop de difficulté (bien sûr, pas nécessairement en bikepacking quand on a des centaines de kilomètres dans les jambes et le vélo chargé, mais c’est l’idée). Sur les 727 VTT beaucoup de singles interdisent de rouler aussi vite (vraiment beaucoup, même à vide).
 
@@ -22,6 +22,6 @@ Beaucoup de reconnaissances nous attendent d’ici [le grand départ du 27 septe
 
 Nous organisons nos évènements toujours dans le même état d’esprit : pas de compétition mais de la coopération, pas de médaille en chocolat, pas de goodies, pas de tracker intrusif, juste la possibilité de rassurer ses proches avec [Geogram](https://geo.zefal.com), pas de tarif exorbitant, 35 € avec hébergement avant le départ, petit-déj et pot à l’arrivée.
 
-[Inscrivez-vous vite](https://www.helloasso.com/associations/ec-poussan/evenements/g727-2025), nous étions 87 l’année dernière sur un maximum possible de 99. Cette année il n’y aura pas de place pour tout le monde (OK, je suis plus sur les réseaux sociaux, donc c’est à vous de faire la promo).
+[Inscrivez-vous vite](https://www.helloasso.com/associations/ec-poussan/evenements/g727-2025), nous étions 87 l’année dernière sur un maximum possible de 99. Cette année, il n’y aura pas de place pour tout le monde (OK, je suis plus sur les réseaux sociaux, donc c’est à vous de faire la promo — repostez ce billet à plus soif).
 
 #velo #bikepacking #y2025 #2025-5-18-19h00
