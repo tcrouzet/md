@@ -1,4 +1,4 @@
-# g727 2025 : nouveau parcours, moins exigeant, non moins dépaysant - inscrivez-vous
+# g727 2025 : un nouveau parcours gravel de 727 km
 
 ![Photo sur la POU100](_i/g727une.webp)
 
