@@ -36,7 +36,7 @@ Dans mon code, j’ai simulé le tremblé avec un peu d’aléatoire. J’ai aus
 
 Plonger dans les images générées a quelque chose d’hypnotique, qui me met dans un état entre apaisement et folie. Cette œuvre est obsessionnelle (bien sûr, elle reste encore trop mécanique par rapport à son modèle — mais je peux ainsi l’explorer, avec la même gourmandise que [l’ensemble de Mandelbrot](https://mandel.gart.nz/)).
 
-Je crois être dans le même état d’esprit qu’Opalka peignant ses nombres quand je m’occupe de mon jardin, quand je ne pense à rien, que je sens le temps s’écouler physiquement, sans que cela me procure de souffrance. Il y a au contraire une profonde satisfaction à arracher les herbes qui systématiquement repoussent.
+Je crois être dans le même état d’esprit qu’Opalka peignant ses nombres quand je jardine, quand je ne pense à rien, que je sens le temps s’écouler physiquement, sans que cela me procure de souffrance. Il y a au contraire une profonde satisfaction à arracher les herbes qui systématiquement repoussent.
 
 ![Série d’autoportraits numérotés – Détails 2075998, 2081397, 2083115, 4368225, 4513817, 4826550, 5135439 et 5341636.](_i/Roman-Opalka-03.webp)
 
