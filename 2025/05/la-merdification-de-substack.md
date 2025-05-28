@@ -55,4 +55,6 @@ Toute une génération va prendre conscience qu’elle s’est perdue dans le br
 
 Je pense à mes enfants, bien sûr (et moi même qui souvent me suis égaré).
 
+C’était juste une pensée du matin, commencé dans mon carnet, puis qui l’a débordé.
+
 #netculture #substack #y2025 #2025-5-28-9h00
