@@ -18,7 +18,7 @@ Alors pourquoi tracer gravel ? C’est comme se demander pourquoi écrire de la
 
 [Nous sommes déjà plus de 40 au départ du g727 2025.](https://727bikepacking.fr/g727-Grand-Depart/) Quelques photos pour vous donner envie de nous rejoindre (je vous épargne le récit du retour vers Arles, le long du Rhône par l’Euro Vélo sous un soleil méchant, 37°C, pas un souffle de vent — nous ne cessons de doubler des cyclotouristes surchargées qui louvoient à 10 km/h — l’un d’eux torse nu, chauve et sans casque, rouge pivoine).
 
-*PS : Nous avons testé les nouveaux pneus [gravel Tracer de Specialized en 50 mm](https://www.specialized.com/fr/fr/pneu-gravel-tracer-pro-2bliss-ready/p/156476?color=231012-156476). Légers : 500 g, roulant, mais à déconseiller pour la roue avant. Ils avaient tendance à fuir dans les graviers. Nous monterons à l’avant les [Terra en 50 mm](https://www.specialized.com/fr/fr/search/Terra) pour le g727.
+*PS : Nous avons testé les nouveaux pneus [gravel Tracer de Specialized en 50 mm](https://www.specialized.com/fr/fr/pneu-gravel-tracer-pro-2bliss-ready/p/156476?color=231012-156476). Légers : 500 g, roulant, mais à déconseiller pour la roue avant. Ils avaient tendance à fuir dans les graviers. Nous monterons à l’avant les [Terra en 50 mm](https://www.specialized.com/fr/fr/search/Terra) pour le g727.*
 
 ![Les Alpilles](_i/2025-05-29-085636.webp)
 
