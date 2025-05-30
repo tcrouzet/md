@@ -1,5 +1,7 @@
 # Reco g727 2025 ou le gravel : vélo restrictif
 
+![Les Alpilles](_i/2025-05-29-093932.webp)
+
 Vous le savez, avec les copains, on trace [les 727](https://727bikepacking.fr/) pour découvrir de nouveaux coins près de chez nous. Nous venons de passer deux jours à parcourir les Alpilles et le Lubéron. Impression de rentrer d’un voyage de trois semaines à l’autre bout du monde. Le bikepacking me fait toujours cet effet. Je ne connais pas mieux pour distendre le temps et le faire exploser. Une nuit à la belle étoile après une journée passée à pédaler suffit à me catapulter dans une autre réalité, loin de la morosité ambiante.
 
 Hier soir, au-dessus de Gordes, non loin de la piste de la Pouraque, secteur Grande Combe, je me suis endormi avec les oiseaux et le jour. Quand j’ai entrouvert les yeux trois heures plus tard : le silence était presque total, brisé par de rares pépiements nocturnes. Je me suis éveillé définitivement avec les premières lueurs de l’aube et peu après le concert des diurnes a commencé.
@@ -23,8 +25,6 @@ Alors pourquoi tracer gravel ? C’est comme se demander pourquoi écrire de la
 ![Montmajour](_i/2025-05-29-085934.webp)
 
 ![Les Alpilles](_i/2025-05-29-091910.webp)
-
-![Les Alpilles](_i/2025-05-29-093932.webp)
 
 ![Les Alpilles](_i/2025-05-29-095809.webp)
 
