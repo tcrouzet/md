@@ -8,7 +8,7 @@ editor: À la flamme
 exergue: Un roman d’amour fusionnel à la frontière du noir et du fantastique
 lire: https://alaflamme.fr/wp-content/uploads/2025/02/Epicenes-premieres-pages.pdf
 prix: 16
-eprix: 
+eprix: 7.99
 shops:
   - https://alaflamme.fr/livre/epicenes/
   - https://www.amazon.fr/%C3%89pic%C3%A8nes-Thierry-Crouzet/dp/2959039262/
@@ -23,6 +23,8 @@ shops:
   - https://www.furet.com/livres/epicenes-thierry-crouzet-9782959039263.html
   - https://www.parislibrairies.fr/livre/9782959039263-epicenes-thierry-crouzet/
 eshops:
+  - https://www.7switch.com/fr/ebook/9782959039287
+  - https://www.amazon.fr/dp/B0DF6565C9/
 ---
 
 # Épicènes
@@ -34,5 +36,9 @@ Ils se retrouvaient un instant puis se fondaient l’un en l’autre, incapables
 [Plus sur le blog…](/tag/epicenes/)
 
 ![Dos de couv](_i/epicenes-4eme.webp)
+
+[joalie.donc.je.suis](https://www.instagram.com/joalie.donc.je.suis/)
+
+![joalie.donc.je.suis](_i/epirp-20250602.webp)
 
 #book #y2025 #2025-5-14-19h00
