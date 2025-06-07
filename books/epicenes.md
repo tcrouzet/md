@@ -25,6 +25,8 @@ shops:
 eshops:
   - https://www.7switch.com/fr/ebook/9782959039287
   - https://www.amazon.fr/dp/B0DF6565C9/
+  - https://www.fnac.com/a21466233/Thierry-Crouzet-Epicenes
+  - https://play.google.com/store/books/details/Thierry_Crouzet_%C3%89pic%C3%A8nes?id=0mpjEQAAQBAJ
 ---
 
 # Épicènes
