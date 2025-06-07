@@ -1,6 +1,6 @@
 # Vidéo : Épicènes, dernier roman avant le vibe writing
 
-![Moi, intello !](_i/epv.webp)
+![Zoom couverture](_i/epzoom.webp)
 
 Pour fêter la sortie d’[*Épicènes*](https://tcrouzet.com/books/epicenes/) chez [À la flamme](https://alaflamme.fr/livre/epicenes/), Katia m’a invité à [La Librairie Nomade](https://www.balaruc-les-bains.com/la-librairie-nomade.html) pour parler du roman. Une copine a filmé avec mon iPhone (j’ai recadré à la main).
 
