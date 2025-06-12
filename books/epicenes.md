@@ -45,7 +45,11 @@ Ils se retrouvaient un instant puis se fondaient l’un en l’autre, incapables
 
 [la_ee_lire](https://www.instagram.com/p/DKtZu99tILF/)
 
-![](_i/epic02.webp)
+![la_ee_lire](_i/epic02.webp)
+
+[bruitdeplume](https://www.instagram.com/p/DKyb_zoqOC1/?img_index=1)
+
+![bruitdeplume](_i/epicrc03.webp)
 
 ![Dos de couv](_i/epicenes-4eme.webp)
 
