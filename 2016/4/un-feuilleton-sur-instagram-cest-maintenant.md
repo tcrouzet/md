@@ -8,7 +8,7 @@ Quand je me limite à cette approche, je n’éprouve souvent aucun plaisir. J�
 
 J’aime envoyer des photos sur Instagram, j’aime écrire, [j’aime gribouiller des croquis](../3/limpossibilite-de-resister-au-numerique.md), j’aime mixer le tout, alors pourquoi ne pas publier des photos retouchées avec de longs commentaires. Il serait logique qu’aujourd’hui la jeune héroïne d’une fiction se raconte de cette façon. Voici comment d’essais en erreurs, et influencé par la relecture du *Journal d’Anne Frank*, j’ai décidé d’écrire, de penser et bien sûr de publier *[Résistants](../../page/resistants)*.
 
-> Le monde se réveille malade. Personne n’échappe à l’agent X, sauf quelques filles et garçons mystérieusement épargnés. On les appelle bientôt les Résistants. Les adultes étant hors course, les résistants ont quelques jours pour résoudre cette crise. Tic-tac, tic-tac, le chrono tourne.
+>Le monde se réveille malade. Personne n’échappe à l’agent X, sauf quelques filles et garçons mystérieusement épargnés. On les appelle bientôt les Résistants. Les adultes étant hors course, les résistants ont quelques jours pour résoudre cette crise. Tic-tac, tic-tac, le chrono tourne.
 
 ![tequila__fr](_i/tequila.webp)
 

@@ -79,6 +79,4 @@ Si je ne m’étais pas lancé dans cette analyse, je n’aurais pas découvert 
 
 *PS : Comme j’ai lancé le compte [@bookstagram\_fr](https://www.instagram.com/bookstagram_fr/) tardivement et que je me suis abonné à trop de bookgrameuses d’un seul coup, j’ai réussi à le bloquer. Je reprendrais les abonnements quand Instagram le débloquera.*
 
-
-
 #edition #coup_de_gueule #y2019 #2019-10-29-10h4
