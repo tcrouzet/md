@@ -2,9 +2,9 @@
 
 ![Zoom sur le code](_i/intercover.webp)
 
-Quand je publie un nouveau livre comme [*Épicènes*](https://tcrouzet.com/books/epicenes/), il ne se passe rien ou presque, à part [quelques chroniques par les influenceurs](https://tcrouzet.com/books/epicenes/) à qui mes éditeurs offrent des livres, à part [une rencontre dans une librairie amie](https://tcrouzet.com/2025/06/07/video-epicenes-vibe-writting/), à part quelques messages discrets. Rien à voir, circulez. Dans trois semaines le livre disparaîtra des rayons quand par bonheur il aura réussi à s’y glisser.
+Quand je publie un nouveau livre comme [*Épicènes*](https://tcrouzet.com/books/epicenes/), il ne se passe rien ou presque, à part [quelques chroniques par les influenceurs](https://tcrouzet.com/books/epicenes/) à qui mes éditeurs offrent des livres, à part [une rencontre dans une librairie amie](https://tcrouzet.com/2025/06/07/video-epicenes-vibe-writting/), à part des messages discrets. Rien à voir, circulez. Dans trois semaines le livre disparaîtra des rayons quand par bonheur il y aura trouvé sa place.
 
-Comment pourrait-il en aller autrement puisqu’il sort presque plus de livres qu’il n’y a de lecteurs ? Mais que font les journalistes littéraires ? Ils ne parlent que des valeurs sûres ou de leurs copains (souvent des attachées de presse). J’ai le regret de leur dire qu’ils vont devoir se chercher un autre job.
+Comment pourrait-il en être autrement puisqu’il sort presque plus de livres qu’il n’y a de lecteurs ? Mais que font les journalistes littéraires ? Ils ne parlent que des valeurs sûres ou de leurs copains (souvent des attachées de presse). J’ai le regret de leur dire qu’ils vont devoir se chercher un autre job.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EOs7vwEJ9NE?si=sNsJW4K8tWpSI3co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
