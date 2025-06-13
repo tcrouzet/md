@@ -27,6 +27,7 @@ eshops:
   - https://www.amazon.fr/dp/B0DF6565C9/
   - https://www.fnac.com/a21466233/Thierry-Crouzet-Epicenes
   - https://play.google.com/store/books/details/Thierry_Crouzet_%C3%89pic%C3%A8nes?id=0mpjEQAAQBAJ
+  - https://shop.vivlio.com/product/9782959039287_9782959039287_2/epicenes
 ---
 
 # Épicènes
@@ -43,7 +44,7 @@ Ils se retrouvaient un instant puis se fondaient l’un en l’autre, incapables
 
 ![joalie.donc.je.suis](_i/epirp-20250602.webp)
 
-[la_ee_lire](https://www.instagram.com/p/DKtZu99tILF/)
+[la_fee_lire](https://www.instagram.com/p/DKtZu99tILF/)
 
 ![la_ee_lire](_i/epic02.webp)
 
