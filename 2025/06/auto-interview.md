@@ -38,6 +38,7 @@ Mais ce qui me frappe, c’est la récurrence de cette figure du vieil homme à 
 Comment cette figure s’est-elle imposée dans votre écriture ? Est-elle née d’emblée comme ce fil conducteur mystérieux, ou bien sa présence récurrente et son rôle de témoin-chroniqueur se sont-ils révélés au fur et à mesure que vous avanciez dans l’exploration de ces destins épicènes ?
 
 **Moi** Question un peu caricaturale. Elle dit une vision romantique du métier d’écrivain. Je ne suis pas une boule d’émotions quand j’écris. Je prends ce qui arrive, souvent par-devers moi. Dire que ça s’impose est un peu fort. Ça vient, je garde parfois, je jette souvent. Dans le premier chapitre, il y a une vieille femme, plus tard un vieil homme. Ils regardent les jeunes vivre avec un certain détachement. J’aimerais atteindre cette sérénité sage.
+
 **Journaliste** Une sérénité pourtant constamment mise à mal dans le roman. Je pense notamment à la scène du massacre dans le chapitre des Innocents, où même 750 ans d’existence et la protection de l’art ne suffisent pas à préserver ces épicènes millénaires de la violence humaine.
 
 D’ailleurs, cette scène marque un basculement dans le roman — c’est la première fois que la violence devient aussi graphique, aussi brutale. Et surtout, c’est le moment où l’on découvre que même la défense légitime peut corrompre la fusion épicène, transformant l’amour en haine entre les quatre membres de zey.
