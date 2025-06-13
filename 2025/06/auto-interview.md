@@ -8,7 +8,7 @@ Comment pourrait-il en aller autrement puisqu’il sort presque plus de livres q
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EOs7vwEJ9NE?si=sNsJW4K8tWpSI3co" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Vous connaissiez NotebookLM qui génère des interviews fictives, j’ai repris l’idée pour créer un agent interviewer (impossible de faire ça directement sur l’interface Claude). Je ne vais pas détailler le code Python, qui utilise l’API Claude. L’idée est de faire analyser le texte chapitre par chapitre pour préparer l’interview avant que l’IA commence à poser ses questions et attend les réponses. J’ai ajusté le code au fil des questions, mais le résultat me paraît plutôt prometteur, digne de pas mal de journalistes pressés. Je pourrais créer une chaîne YouTube où mon IA interviewe des auteurs sur leurs nouveaux textes.
+Vous connaissiez NotebookLM qui génère des interviews fictives, j’ai repris l’idée pour créer un agent interviewer (difficile de faire ça directement sur l’interface Claude). Je ne vais pas détailler le code Python, qui utilise l’API Claude. L’idée est de faire analyser le texte chapitre par chapitre pour préparer l’interview avant que l’IA commence à poser ses questions et attend les réponses. J’ai ajusté le code au fil des questions, mais le résultat me paraît plutôt prometteur, digne de pas mal de journalistes pressés. Je pourrais créer une chaîne YouTube où mon IA interviewe des auteurs sur leurs nouveaux textes.
 
 ![Logique du code](_i/inter_schem.webp)
 
