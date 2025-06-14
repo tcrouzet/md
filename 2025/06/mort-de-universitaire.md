@@ -20,7 +20,7 @@ Qu’est-ce qui nous attend ? Que restera-t-il de nos professions ? De notre o
 
 ---
 
-Attention l’essai spoile [*Épicènes*](https://tcrouzet.com/books/epicenes/), lisez le roman avant de vous laisser pervertir.
+Attention l’essai spoile [*Épicènes*](https://tcrouzet.com/books/epicenes/), lisez le roman avant de vous laisser pervertir (par cette parodie qui reprend les codes des articles sérieux).
 
 ### Du dictionnaire au roman : stratégies métafictionnelles et brouillage générique dans _Épicènes_
 
