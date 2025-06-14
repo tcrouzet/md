@@ -22,7 +22,7 @@ Qu’est-ce qui nous attend ? Que restera-t-il de nos professions ? De notre o
 
 Attention l’essai spoile [*Épicènes*](https://tcrouzet.com/books/epicenes/), lisez le roman avant de vous laisser pervertir.
 
-## Du dictionnaire au roman : stratégies métafictionnelles et brouillage générique dans _Épicènes_
+### Du dictionnaire au roman : stratégies métafictionnelles et brouillage générique dans _Épicènes_
 
 **Résumé** Cette analyse examine les stratégies métafictionnelles déployées par Crouzet dans son bref roman [*Épicènes*](https://tcrouzet.com/books/epicenes/) (juin 2025), depuis l’ouverture lexicographique jusqu’aux multiples niveaux de narration. L’article montre comment le roman joue avec les codes de divers genres (dictionnaire, fiction, essai, journal) pour créer une œuvre hybride qui interroge les catégories littéraires. En s’appuyant sur les théories de Genette sur la métalepse et les travaux de Viart sur les fictions critiques, l’étude démontre que cette hybridité formelle n’est pas ornementale mais constitutive du projet épicène : créer une forme littéraire aussi fluide et inclassable que les êtres qu’elle décrit. Le brouillage générique — mélange des codes de genres différents — devient ainsi performatif de la fluidité identitaire au cœur du roman.
 
