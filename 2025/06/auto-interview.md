@@ -19,6 +19,7 @@ Vous connaissiez NotebookLM qui génère des interviews fictives, j’ai repris 
 Ce dispositif d’ouverture, qui établit d’emblée un pacte de lecture ambigu entre documentation et fiction, était-il votre point d’entrée dans l’écriture, ou bien cette idée de jouer sur les codes du dictionnaire pour introduire un concept qui défie nos catégories habituelles s’est-elle imposée plus tard ?
 
 **Moi** Beaucoup plus tard, en toute fin du processus éditorial. Il m’a semblé que le mot « épicène » pouvait être mal compris et qu’il était nécessaire de le poser. J’ai trouvé amusant de glisser dans la définition officielle une graine de fiction et d’introduire l’idée d’une réalité alternative.
+
 **Claude** Tout au long du roman, vous jouez avec cette porosité entre le réel et la fiction — le scientifique avec Johnny qui théorise les épicènes à travers les fentes de Young, le documentaire avec les photos du vieil homme à la valise, le philosophique avec la mathématique relationnelle de B&W…
 
 Cette hybridité formelle reflète-t-elle la nature même des épicènes, ces êtres qui défient les catégories ? Ou bien cherchiez-vous à créer chez le lecteur une forme d’instabilité ontologique, ne sachant plus très bien où se situe la frontière entre le possible et l’impossible ?
