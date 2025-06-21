@@ -52,6 +52,10 @@ Ils se retrouvaient un instant puis se fondaient l’un en l’autre, incapables
 
 ![bruitdeplume](_i/epicrc03.webp)
 
+[Olivier Lavoisy](https://mamot.fr/deck/@webol@mastodon.social/114704955784213515)
+
+![Olivier Lavoisy](_i/lavoisy.webp)
+
 ![Dos de couv](_i/epicenes-4eme.webp)
 
 #book #y2025 #2025-5-14-19h00
