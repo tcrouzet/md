@@ -18,11 +18,11 @@ Donc, le [g727 2025](https://727bikepacking.fr/g727/) sera avant tout philosoph
 
 ![g727 2025](_i/g727-map.webp)
 
-Pour le moment nous sommes une bonne quarantaine engagés pour [le grand départ du 27 septembre.](https://727bikepacking.fr/g727-Grand-Depart/) Il nous reste deux ou trois recos pour peaufiner le parcours. On attend que la canicule passe.
+Pour le moment nous sommes une bonne quarantaine engagés pour [le grand départ du 27 septembre.](https://727bikepacking.fr/g727-Grand-Depart/) Il nous reste deux ou trois recos pour peaufiner le parcours. On attend que la canicule passe. Parlez de la trace autout ce vous, vous êtes nos seuls influenceurs.
 
 ### Geogram — Partagez vos aventures
 
-J’ai pas mal bossé sur mon système open source de partage de géolocalisation, dont [une version est hébergée par Zéfal](https://geo.zefal.com/tourmagne-live). J’espère que l’interface de la web app est plus claire et plus robuste. Vous pouvez partager géolocalisation, photos, commentaires. Idéal pour rester en contact avec vos proches et vous repérez les uns les autres quand vous êtes nombreux sur une trace. Comme par le passé, vous pouvez connecter un groupe Telegram à Geogram, ce que nous faisons sur les 727, mais ce n’est plus obligatoire. [Le Geogram du Tour Magne est très actif.](https://geo.zefal.com/tourmagne-live) Une [story](https://geo.zefal.com/tourmagne-live/story) avec photos et commentaires se construit en temps réel.
+J’ai pas mal bossé sur mon système open source de partage de géolocalisation, dont [une version est hébergée par Zéfal](https://geo.zefal.com/tourmagne-live). J’espère que l’interface de la web app est plus claire et plus robuste. Vous pouvez partager géolocalisation, photos, commentaires. Idéal pour rester en contact avec vos proches et vous repérer les uns les autres quand vous êtes nombreux sur une trace. Comme par le passé, vous pouvez connecter un groupe Telegram à Geogram, ce que nous faisons sur les 727, mais ce n’est plus obligatoire. [Le Geogram du Tour Magne est très actif.](https://geo.zefal.com/tourmagne-live) Une [story](https://geo.zefal.com/tourmagne-live/story) avec photos et commentaires se construit en temps réel.
 
 ![Gogram](_i/geogram.webp)
 
