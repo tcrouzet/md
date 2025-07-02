@@ -40,6 +40,10 @@ Ils se retrouvaient un instant puis se fondaient l’un en l’autre, incapables
 
 [Babelio](https://www.babelio.com/livres/Crouzet-picenes/1834081)
 
+[Le contre hasard](https://lecontrehasard.com/?p=2053) : « Plus qu’une question de genre, c’est celle de la différence qui nous est ici narrée à travers ce roman singulier. Grâce à la fiction, Thierry Crouzet aborde des sujets contemporains éthiques et sociologiques, rendus métaphoriques afin de laisser les lecteurs s’approprier le livre et y voir leur propre réalité. L’auteur s’amuse à croiser les genres qu’ils soient d’identité ou littéraires et nous invite à questionner notre rapport à l’autre. »
+
+Librairie [Le jardin secret](https://www.placedeslibraires.fr/magasins/cluny/Le-Jardin-Secret-6298/), à Cluny : « J'ai eu un vrai coup de cœur pour Epicènes, que j'ai lu d'une traite sans le lâcher. Un ouvrage qui aborde le sujet de la différence avec sensibilité, très jolie parabole autour de la question du genre. A mettre en avant en ce mois des fiertés, avec la monté en flèche inquiétante des réactionnaires et autres anti-woke assumés. Un livre pertinent et qui invite à la réflexion ! une réussite. »
+
 [joalie.donc.je.suis](https://www.instagram.com/joalie.donc.je.suis/p/DKaF4Mlq4pM/)
 
 ![joalie.donc.je.suis](_i/epirp-20250602.webp)
