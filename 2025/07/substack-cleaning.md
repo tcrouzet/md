@@ -4,7 +4,7 @@
 
 Après chaque publication sur Substack, je perds des abonnés, puis en regagne grâce à l’algorithme Substack. Ma courbe d’abonnement fait des vagues. C’est comme s’il y avait des abonnés exaspérés de lire mes messages. Est-ce normal ?
 
-![Mes abonnés](_i/sub03.svg)
+![Mes abonnés](_i/sub03.png)
 
 Une rapide recherche m’apprend qu’avec les newsletters il faut s’attendre à [un taux de désabonnement par envoi compris entre 0,1 % et 0,4 %, avec une moyenne à 0,1 %](https://www.campaignmonitor.com/resources/guides/email-marketing-benchmarks/). Chez moi, il est de l’ordre de 0,48 % (ce n’est pas encore catastrophique).
 
