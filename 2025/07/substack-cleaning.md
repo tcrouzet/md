@@ -17,7 +17,7 @@ Comme Substack, nous donne aussi le nombre d’abonnés jour après jour, je peu
 - **Moyenne** : 2 198 abonnés
 - **Écart-type** : 16 abonnés
 - **Intervalle ±1σ** : \[2 182 ; 2 214], ce qui signifie que mon nombre d’abonnés est dans 68 % des cas dans cet intervalle très étroit. Mon nombre d’abonnés varie peu et de façon statistiquement normale. Sur la courbe, on ne voit que deux zones hors écart type.
-- Une seule explication pour cette stabilité : je gagne 10,6 abonnés par envoi et j’en perds autant. C’est comme si ma newsletter bataillait pour écoper l’eau qui menace de la faire couler. Si je mets en rapport mes 2 198 abonnés en moyenne et la perte de 10,6/envoie, ça implique une baisse par envoi 0,48 %/envoi.
+- **Une seule explication pour cette stabilité** : je gagne 10,6 abonnés par envoi et j’en perds autant. C’est comme si ma newsletter bataillait pour écoper l’eau qui menace de la faire couler. Si je mets en rapport mes 2 198 abonnés en moyenne et la perte de 10,6/envoie, ça implique une baisse par envoi 0,48 %/envoi.
 
 >(2198 - 10,6) / 2198 = 0,48 %
 
@@ -45,7 +45,7 @@ Après trois jours, deux abonnés sur plus de 400 s’étaient manifestés. J’
 
 ### À quoi bon ?
 
-Une fois la base nettoyée, j’affiche moins d’abonnés, score généralement utilisé pour déterminer le prestige d’une newsletter. Ça peut donc paraître stupide, sauf que je répugne à envoyer des mails pour rien, ce qui revient à dépenser de l’énergie pour rien, en plus que d’encombrer les boîtes des destinataires jusqu’au moment où ils craquent et se désabonne. 
+Une fois la base nettoyée, j’affiche moins d’abonnés, score généralement utilisé pour déterminer le prestige d’une newsletter. Ça peut donc paraître stupide, sauf que je répugne à envoyer des mails pour rien, ce qui revient à dépenser de l’énergie pour rien, en plus que d’encombrer les boîtes des destinataires jusqu’au moment où ils craquent et se désabonnent. 
 
 Avec une base d’abonnées plus saine, le taux d’ouverture de mes messages s’améliorera, et c’est à mes yeux un des seuls critères d’importance. C’est votre engagement qui m’intéresse, pas votre nombre.
 
