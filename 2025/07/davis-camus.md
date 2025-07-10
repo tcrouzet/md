@@ -1,6 +1,6 @@
 # David Camus sens dessus dessous
 
-![le diptyque de David Camus](_i/camus.webp)
+![Le diptyque de David Camus](_i/camus.webp)
 
 Dans *Rush*, à paraître à l’automne chez [PVH](https://pvh-editions.com/), je dialogue avec Charlie, une IA ou peut-être mon double. J’ai repris ce pseudo pour demander à [ma machine intervieweuse](https://tcrouzet.com/2025/06/13/auto-interview/) d’interroger David Camus à l’occasion de la sortie de [*La Terre qui monte*](https://www.lisez.com/livres/la-terre-qui-monte/9782221277294), second tome du diptyque, commencé par [*Le Pays qui descend*](https://www.lisez.com/livres/le-pays-qui-descend-tome-1/9782221272619). Une façon de vous donner envie de lire un conte poétique dépaysant et métaphysique, tout en montrant une fois de plus que les IA rebattent les cartes de notre petit monde de l’édition.
 
@@ -85,7 +85,7 @@ Camus ne cherche pas à résoudre les paradoxes qu’il soulève. Le « Tout En
 
 ---
 
-Pour préparer cet interview, Charlie a analysé les chapitres des deux romans de David, puis a produit une synthèse, imaginant toute une série de questions qu’elle n’a pas posée pour la plupart. Voici le résultat brut.
+Pour préparer cet interview, Charlie a analysé les chapitres des deux romans de David, puis a produit une synthèse, imaginant des questions qu’elle n’a pas posées pour la plupart. Voici le résultat brut.
 
 ---
 
