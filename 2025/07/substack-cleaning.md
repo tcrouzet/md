@@ -51,4 +51,6 @@ Avec une base d’abonnées plus saine, le taux d’ouverture de mes messages s�
 
 Ma base d’abonnés se renouvelait de 0,48 % à chaque envoi avant ce nettoyage. Reste maintenant à suivre son évolution. Les vagues cesseront-elles ?
 
+![Ma nouvelle base abonnée](_i/sana01.png)
+
 #cuisine #y2025 #2025-7-9-17h00
