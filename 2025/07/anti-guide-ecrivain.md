@@ -13,6 +13,6 @@ Je suis fatigué de lire partout des conseils pour mieux écrire, mieux scénari
 7. Si vous avez éprouvé du plaisir en écrivant, vous avez atteint votre objectif. Ne vous fiez pas à ce que pensent les autres, surtout pas les éditeurs qui par nécessité se préoccupent de leur équilibre financier. L’écriture est une affliction solitaire qui ambitionne de toucher un public extérieur subsidiaire.
 8. Gagner sa vie en tant qu’écrivain, c’est encore plus difficile que gagner sa vie en tant que sportif de haut niveau. D’un point de vue probabiliste, mieux vaut faire autre chose pour s’enrichir.
 9. Arrêtez simplement de lire des articles qui vous promettent de devenir écrivain en dix leçons. Écrivez, plantez-vous, recommencez, ou encore une fois faites autre chose.
-10. Parce qu’écrire devient vite une malédiction. Quand on a commencé, on ne peut plus s’arrêter. Et quand on s’arrête, cet arrêt nous obsède. Mieux vaut ne jamais commencer. Mais c’est trop tard. Alors on ne peut s’empêcher de lire les conseils des autres écrivains.
+10. Parce qu’écrire devient vite une malédiction. Quand on a commencé, on ne peut plus s’arrêter. Et quand on s’arrête, cet arrêt nous obsède. On autit dû ne jamais commencer, mais c’est trop tard. Alors on ne peut s’empêcher de lire les conseils des autres écrivains.
 
 #netlitterature #y2025 #2025-7-12-12h00
