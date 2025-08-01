@@ -8,6 +8,8 @@ Je n’ai plus envie d’écrire sur le vélo, mais seulement de vous donner des
 
 Nous sommes une soixantaine de partants désormais, il reste moins d’une quarantaine de places pour le Grand Départ du 27 septembre. Nous terminerons les reconnaissances en août et début septembre pour vous proposer un parcours dépaysant et roulant (oui gravel et surtout pas VTT, même si les VTT seront bien sûr adaptés). Cette année, la trace penchera à l’est avec Carmargue, Alpilles, Lubéron, Avignon et bas des Cévennes au programme, avant de culminer au sommet de l’Hérault et de regagner Poussan via le lac du Salagou. Pas de surenchère de d+, puisque nous devrions être autour de 7 000 mètres.
 
+![On prendra le bateau](_i/bacsauvage.webp)
+
 [Tous les renseignements sur le site 727.](https://727bikepacking.fr/g727-Grand-Depart/) La nouvelle trace sera disponible une semaine avant le départ.
 
 ### Bretagne 2025
