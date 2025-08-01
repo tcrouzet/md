@@ -14,7 +14,7 @@ Un gars me reproche d’utiliser sur mon blog un popup pour présenter *Épicèn
 
 ### Mercredi 2, Balaruc
 
-Parmi les quelques articles publiés sur *Épicènes*, au moins trois l’ont été par des instabookers à l’aide d’IA. Je reconnais le ton élogieux, les formules, la structure du discours. Qui se rend compte de la supercherie ? Est-ce que sur les comptes des instabookers incriminés les commentaires sont aussi écrits par des IA ? Une industrie du vent, pour attirer l’attention, recevoir des livres gratuitement, immédiatement remis en vente dans les solderies.
+Parmi les quelques articles publiés sur *Épicènes*, au moins trois l’ont été par des instabookers à l’aide d’IA. Je reconnais le ton élogieux, les formules, la structure du discours. Qui se rend compte de la supercherie ? Sur les comptes des instabookers incriminés les commentaires sont-ils aussi écrits par des IA ? Une industrie du vent, pour attirer l’attention, recevoir des livres gratuitement, immédiatement remis en vente dans les solderies.
 
 ### Jeudi 3, Balaruc
 
