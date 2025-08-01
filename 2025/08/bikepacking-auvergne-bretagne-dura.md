@@ -1,6 +1,6 @@
 # Bretagne, Auvergne, Coros Dura et g727
 
-![Puy Mary](_i/2025-07-31-105542%201.webp)
+![Puy Mary](_i/2025-07-31-105542.webp)
 
 Je n’ai plus envie d’écrire sur le vélo, mais seulement de vous donner des nouvelles de quand je fais du vélo et vous inviter à rouler avec nous. Je me fiche des tendances, des nouveautés, des polémiques et du marketing. Donc quelques news.
 
@@ -9,8 +9,6 @@ Je n’ai plus envie d’écrire sur le vélo, mais seulement de vous donner des
 Nous sommes une soixantaine de partants désormais, il reste moins d’une quarantaine de places pour le Grand Départ du 27 septembre. Nous terminerons les reconnaissances en août et début septembre pour vous proposer un parcours dépaysant et roulant (oui gravel et surtout pas VTT, même si les VTT seront bien sûr adaptés). Cette année, la trace penchera à l’est avec Carmargue, Alpilles, Lubéron, Avignon et bas des Cévennes au programme, avant de culminer au sommet de l’Hérault et de regagner Poussan via le lac du Salagou. Pas de surenchère de d+, puisque nous devrions être autour de 7 000 mètres.
 
 [Tous les renseignements sur le site 727.](https://727bikepacking.fr/g727-Grand-Depart/) La nouvelle trace sera disponible une semaine avant le départ.
-
-![g727 2027](_i/g727map2025.webp)
 
 ### Bretagne 2025
 
@@ -30,9 +28,9 @@ J’ai tellement aimé l’Auvergne lors de mes différents voyages que nous y s
 
 ![Nouveau mode](_i/dura-retoute.png)
 
-Nous avons attendu plus de neuf mois la [version 4.0 de l’app et du firmware](https://coros.com/stories/latest-news/c/DURA-app-4-feature-update). J’avais fait [quelques suggestions dans mes précédents articles](https://tcrouzet.com/tag/gps/), mais une seule a été retenue : il est désormais possible de désactiver le reroutage, ce qui est indispensable en bikepacking quand on joue avec une trace.
+Nous avons attendu plus de neuf mois la [version 4.0 de l’app et du firmware](https://coros.com/stories/latest-news/c/DURA-app-4-feature-update). J’avais fait [quelques suggestions dans mes précédents articles](https://tcrouzet.com/tag/gps/), mais une seule a été retenue : il est désormais possible de désactiver le reroutage, ce qui est indispensable en bikepacking quand on sort et revient souvent sur une trace.
 
-Je ne vois guère d’autres améliorations, sinon la possibilité d’afficher les courbes de niveau. Le rendu cartographique est toujours aussi indigent, avec un traitement indifférencié de la plupart des routes, chemins et même single, ce qui parfois nous induit en erreur, sans que ce soit rédhibitoire. Quand on zoome, on zoome en même temps le trait de la trace, qui bientôt recouvre les détails de la carte.
+Je ne vois guère d’autres améliorations, sinon la possibilité d’afficher les courbes de niveau. Le rendu cartographique est toujours aussi indigent, avec un traitement indifférencié de la plupart des routes, chemins et même single, ce qui parfois nous induit en erreur, sans que ce soit rédhibitoire. Et toujours un gros défaut : quand on zoome, on zoome en même temps le trait de la trace, qui bientôt recouvre les détails de la carte.
 
 ![Courbe de niveau](_i/dura-niveau.png)
 
