@@ -1,5 +1,7 @@
 # Juillet 2025
 
+![Mont Saint-Michel](_i/2025-07-14-080857.webp)
+
 ### Mardi 1<sup>er</sup>, Balaruc
 
 David Camus se fait bousculer par les rétrogrades qui hantent Mastodon, au prétexte que [je le passe au crible de ma machine à interviewer](https://tcrouzet.com/2025/07/10/davis-camus/). Je lui réponds : « La plupart des gens ferment les yeux sur ce qui nous arrive. Le contraire de ce que faisait ton grand-père. Ce n’est pas en fermant les yeux qu’on sauvera notre peau. C’est comme face à la maladie, si tu la nies, elle te bouffe (tu es bien placé pour le savoir, moi aussi avec Isa et son cancer). »
@@ -22,6 +24,8 @@ Est-ce que j’écris pour me fuir ? Pour devenir cet autre qui écrit, qui ne 
 
 Michel m’écrit : « Continue tes carnets mensuels, le temps file discrètement… » Pas si discrètement parfois, comme avec la maladie qui le sculpte, ou quand les enfants quittent la maison, ou que le copain le plus âgé de notre groupe vélo s’en prend une belle ce matin et rentre de la clinique comme une momie. Et puis il y a des moments de pure joie, comme quand nous abandonnons nos vélos et nous jetons dans l’Hérault, en amont de Pézenas, face [au moulin de Roquemengarde](https://www.roquemengarde.org/).
 
+![Avec les copains](_i/2025-07-03-180027.webp)
+
 ---
 
 Dans un article scientifique, je lis : « La masturbation in vitro ». Il me faut un instant pour comprendre que quelque chose cloche. Je reviens en arrière : « La maturation in vitro ». Combien de fois mon cerveau remplace des mots par d’autres et me fait lire des trucs que personne n’a jamais écrits ?
@@ -34,17 +38,15 @@ Chaleur extrême. Tout brûle, l’eau de l’étang comme du cuivre en fusion �
 
 [Tisaac](https://mamot.fr/@tisaac@piaille.fr/114791138862621343) : « John Cage cherchait les assemblages imprévus dans l’aléatoire, dans la surprise du vivant. Y aurait-il un lien entre l’IA et l’aléatoire ? Entre l’usage de l’aléatoire par John Cage et l’usage de l’IA par Thierry Crouzet ? J’ai l’impression que rien ne pourrait être plus faux ou plutôt qu’il y a des attitudes totalement différentes chez John Cage et Thierry Crouzet. Cage me semble avoir voulu fuir l’intentionnalité alors que Crouzet me semble vouloir justement en mettre beaucoup. Pas toujours mais la plupart du temps. »
 
-C’est drôle parce que j’ai écrit il y a bien longtemps, *Bug*, un petit éloge du hasard dans la création. J’utilise beaucoup les IA pour brainstormer, pour faire jaillir de l’imprévu, rarement pour atteindre un objectif « littéraire » précis (c’est différent quand je code — mais là aussi, quand elles se plantent, j’apprends beaucoup et ça me donne des idées.)
+C’est drôle parce que j’ai écrit il y a longtemps, *Bug*, un petit éloge du hasard dans la création. J’utilise beaucoup les IA pour brainstormer, pour faire jaillir de l’imprévu, rarement pour atteindre un objectif « littéraire » précis (c’est différent quand je code — mais là aussi, quand elles se plantent, j’apprends beaucoup et ça me donne des idées.)
 
 J’apparais comme un auteur hypercérébral. Ce n’est pas volontaire. J’aimerais être plus farfelu, plus romantique.
-
-![Avec les copains](_i/2025-07-03-180027.webp)
 
 ![Soir](_i/2025-07-03-213927.webp)
 
 ### Vendredi 4, Balaruc
 
-Enfin, du nouveau sur Parcoursup, toujours pas l’école attendue, mais une prépa intéressante, Daudet à Nîmes, inattendue pour le coup, voilà les cartes rebattues après quasiment cinq semaines d’attente. Émile peut enfin effectuer un vrai choix, jusque-là il s’était contenté d’éliminer des propositions, sans leur prêter réellement attention. Que ce processus est long et pénible. Pourquoi Parcoursup ne donne-t-il aucune visibilité sur les possibilités restantes et ne mesure-t-il pas la tension réelle de la file d’attente ? Pourquoi tous les lycées n’effectuent pas les mêmes relevés de notes, certains en deux trimestres, d’autres en un seul semestre (dernier choix qui pénalise ceux qui, comme Émile, ont démarré la terminale avec le pied sur le frein) ? Pourquoi laisser les élèves dans le noir ? Si j’en avais le courage j’écrirais « Parcoursup ou de la maltraitance ».
+Enfin, du nouveau sur Parcoursup, toujours pas l’école attendue, mais une prépa intéressante, Daudet à Nîmes, inattendue pour le coup, voilà les cartes rebattues après quasiment cinq semaines d’attente. Émile peut enfin effectuer un vrai choix, jusque-là il s’était contenté d’éliminer des propositions, sans leur prêter attention. Que ce processus est long et pénible. Pourquoi Parcoursup ne donne-t-il aucune visibilité sur les possibilités restantes et ne mesure-t-il pas la tension réelle de la file d’attente ? Pourquoi tous les lycées n’effectuent pas les mêmes relevés de notes, certains en deux trimestres, d’autres en un seul semestre (dernier choix qui pénalise ceux qui, comme Émile, ont démarré la terminale avec le pied sur le frein) ? Pourquoi laisser les élèves dans le noir ? Si j’en avais le courage j’écrirais « Parcoursup ou de la maltraitance ».
 
 ![Soir](_i/2025-07-04-211624-lamaison.webp)
 
@@ -68,7 +70,7 @@ Grosse surprise Parcoursup : une place à l’internat de la PCSI de Nîmes. Di
 
 ---
 
-Dimanche, départ pour la Bretagne et notre bikepacking estival. Depuis des années, je ne raconte jamais mes voyages à vélo dans mon carnet, mais dans mes billets [Born to bike](https://tcrouzet.com/tag/borntobike/). Pourtant, c’est ici sans doute la place naturelle de ces textes, comme quand je voyageais de façon plus classique. Aussi envie de prendre des notes audio au cours du voyage. Annoter de façon différente, essayer d’autres pratiques, toujours tenter quelque chose. Des rêves dans cette période de grande paralysie intellectuelle. Je ne lis pratiquement pas. Je suis coincé dans un interstice de la vie.
+Dimanche, départ pour la Bretagne et notre bikepacking estival. Depuis des années, je ne raconte jamais mes voyages à vélo dans mon carnet, mais dans mes billets [Born to bike](https://tcrouzet.com/tag/borntobike/). Pourtant, c’est ici la place naturelle de ces textes, comme quand je voyageais de façon plus classique. Aussi envie de prendre des notes audio au cours du voyage. Annoter de façon différente, essayer d’autres pratiques, toujours tenter quelque chose. Des rêves dans cette période de grande paralysie intellectuelle. Je suis coincé dans un interstice de la vie. Et voilà qu’un nouvel incendie éclate au nord est de la maison.
 
 ![Incendie](_i/2025-07-08-171149-lamaison.webp)
 
@@ -90,7 +92,7 @@ Depuis deux semaines, une page web était ouverte, que je n’avais pas lu, [The
 
 TGV jusqu’à Paris avec les vélos démontés. Peu avant la gare de Lyon, nous les remontons dans le couloir exigu, puis filons déposer les housses rue Crémieux et fonçons gare Montparnasse où nous retrouvons Fred, un nordiste croisé une fois sur un 727, avec qui Cyril et moi n’avons jamais réellement discuté.
 
-J’ai pris goût à lancer des invitations à se joindre à nos équipées. Presque toujours notre goût commun pour le voyage à vélo suffit à nous réunir. Je pense à JM, Jacques, Will, Artur et beaucoup d’autres devenus des amis, avec qui nous avons partagé des moments d’intense proximité. Je me sens parfois plus intime avec eux qu’avec des amis de longue date. Voyager à vélo, c’est comme voyager en bateau : on réussit à s’emboîter, à se compléter, ou le rejet de greffe est violent. Oui, parfois ça ne marche pas, de quoi ruiner un voyage, mais le risque nous prépare à de belles fraternités.
+J’ai pris goût à lancer des invitations à se joindre à nos équipées. Presque toujours notre goût commun pour le voyage à vélo suffit à nous réunir. Je pense à JM, Jacques, Will, Artur et beaucoup d’autres devenus des amis, avec qui nous avons partagé des moments d’intense proximité. Je me sens parfois plus intime avec eux qu’avec des amis de longue date. Voyager à vélo, c’est comme voyager en bateau : on réussit à s’emboîter, à se compléter, ou le rejet de greffe est violent. Oui, parfois ça ne marche pas, de quoi ruiner un voyage, mais le risque nous prépare de belles fraternités.
 
 Un TER nous mène à Villedieu-les-Poêles, en Normandie. Incendie à Clamart. Retard de 45 minutes. Assis en face de moi, un gros ado attardé en t-shirt jaune fluo, genre tenue de footballeur américain. Il passe les trois heures du voyage hilares devant son téléphone, sans nous regarder une fois, tout en vidant canette de bière sur canette de bière.
 
@@ -146,7 +148,7 @@ Quelques secondes plus tard, Jacques, dernier de notre file indienne, nous crie 
 
 Quand nous repartons, Cyril me dit « Ça doit te faire plaisir d’être reconnu, ça veut dire que ton travail a du sens pour beaucoup de gens. » Moi : « J’aurais préféré être reconnu pour mes affaires de littérature plutôt que de vélo. »
 
-Après le cap et la côte sauvage, nous entrons dans un camping peu avant les Sables d’Or les Pins. Impossible de payer. Il est trop tard. Le lendemain impossible de payer avant 8h30. Alors nous pédalons jusqu’à la ville où nous nous régalons de crêpes, avant de poursuivre jusqu’à un nouveau camping où on se fait presque insulter par le tenancier du snack parce que nous arrivons trop tard (21h30). Genre : « Ce n’est pas une heure pour débarquer chez les gens. » Il nous laisse toutefois nous installer, sachant que le lendemain nous serons repartis avant l’ouverture des bureaux.
+Après le cap et la côte sauvage, nous entrons dans un camping peu avant les Sables d’Or-les-Pins. Impossible de payer. Il est trop tard. Le lendemain impossible de payer avant 8h30. Alors nous pédalons jusqu’à la ville où nous nous régalons de crêpes, avant de poursuivre jusqu’à un nouveau camping où on se fait presque insulter par le tenancier du snack parce que nous arrivons trop tard (21h30). Genre : « Ce n’est pas une heure pour débarquer chez les gens. » Il nous laisse toutefois nous installer, sachant que le lendemain nous serons repartis avant l’ouverture des bureaux.
 
 Nous sommes en décalage avec les autres touristes. Ils se posent dans les campings alors que nous voulons y prendre une douche, y dormir et repartir au plus vite, et nous n’effectuons ce choix que quand il est difficile de trouver des bivouacs sauvages.
 
@@ -174,23 +176,23 @@ Nous sommes en décalage avec les autres touristes. Ils se posent dans les campi
 
 Nous longeons la superbe baie de Saint-Brieuc jusqu’à la gare où nous pêchons JM et Seb. Je connais JM depuis trois ans et j’ai l’impression que ça fait des siècles : nous passons chaque année deux semaines à pédaler ensemble et nous avons le temps de nous raconter nos vies. Seb est un nouveau venu dans la bande, même si nous échangeons par mail depuis longtemps. *And then they were seven.*
 
-Je pourrais presque écrire un livre sur les boulangeries. La plupart proposent des produits surgelés, ou précuits, présentés avec art pour nous tromper. Mais Au Levin Briochin ne nous déçoit pas. Pas question de nous éterniser dans la ville. Nous reprenons la route dans des paysages agraires monotones, entrecoupés de bois avec des chemins agréables, mais pas assez longs et joueurs pour nous distraire.
+Je pourrais presque écrire un livre sur les boulangeries. La plupart proposent des produits surgelés, ou précuits, présentés avec art pour nous tromper. Au Levin Briochin ne nous déçoit pas. Mais pas question de nous éterniser dans la ville. Nous reprenons la route dans des paysages agraires monotones, entrecoupés de bois avec des chemins agréables, mais pas assez longs et joueurs pour nous distraire.
 
 Fred a la fâcheuse tendance de nous doubler par la droite, de sucer nos roues puis de nous planter des accélérations dans les montées, ce qui n’en finit pas de nous agacer tour à tour. Je le lui dis, le lui répète, mais il continue, incapable de prendre un relais à notre allure, se sentant toujours obligé d’accélérer. Je ne suis pas le roi de l’empathie, mais j’ai trouvé mon maître dans l’incapacité de prendre en compte autrui. Et plus Fred m’agace, plus je me dis que moi aussi j’agace les autres.
 
-Tous les deux n’arrivons pas à communiquer. Face à face, nous devenons autistes. Je ne me sens pas très bien en sa présence, dans la peau du bobo incapable de se mettre dans la peau de l’ancien ouvrier, mais ça ne me fait pas ça avec Jacques. Il est totalement fou Jacques, conspirationniste en prime, mais je l’aime. Il possède une intelligence détournée de la rationalité, une intelligence azimutée, qui fait de lui un être curieux, intrigant, et toujours la main sur le cœur. En comparaison, Fred est froid, silencieux, étanche à toute connexion intime.
+Tous les deux n’arrivons pas à communiquer. Face à face, nous devenons autistes. Je ne me sens pas très bien en sa présence, dans la peau du bobo incapable de se mettre dans la peau de l’ancien ouvrier, mais ça ne me fait pas ça avec Jacques. Il est fou Jacques, conspirationniste en prime, mais je l’aime. Il possède une intelligence détournée de la rationalité, une intelligence azimutée, qui fait de lui un être curieux, intrigant, et toujours la main sur le cœur. En comparaison, Fred est froid, silencieux, étanche à toute connexion intime.
 
 Je parle peu de moi — un jour JM m’a qualifié de taiseux —, mais Fred c’est comme s’il n’existait pas hors du vélo, comme si sa vie se résumait à une histoire de braquets et de pneumatiques. Ce n’est donc pas une différence sociale qui nous oppose, sinon elle m’opposerait à Jacques, ni une différence politique ou philosophique, c’est plutôt un néant. Une irrémédiable barrière que j’essaie de franchir, mais elle est trop haute pour mes faibles aptitudes sociales.
 
-Phil, c’est tout le contraire de Fred : homme de radio, il parle, il parle, il nous raconte sa vie en long en large. Nous fait revivre le Rwanda et les massacres, les corps découpés entassés dans les églises, jusqu’aux larmes. Il nous raconte sa vie à Moscou, où tout est fait pour acheter la paix sociale. Il suffit de ne pas critiquer le régime. Surveillance généralisée. Au moindre mot de travers, c’est la prison. 
+Phil, c’est tout le contraire de Fred : homme de radio, il parle, il parle, il nous raconte sa vie en long en large. Nous fait revivre le Rwanda et les massacres, les corps découpés entassés dans les églises, jusqu’aux larmes. Il nous raconte sa vie à Moscou, où tout est fait pour acheter la paix sociale. 
 
-Nous atteignons Paimpol quand il commence à pleuvoir. Nous nous réfugions dans une crêperie, que nous quittons avec peine. Je tente une nouvelle dictée. Des bribes de pensées à tisser pour en faire un texte lisible, que je devrais réinventer une fois de retour devant un clavier. Contrairement à Phil, je ne sais pas parler, j’ai programmé mon cerveau pour qu’il écrive. Il me faudrait des mois de bafouilles pour que quelque chose émerge, éventuellement. 
+Nous atteignons Paimpol quand il commence à pleuvoir. Nous nous réfugions dans une crêperie, que nous quittons avec peine. Je tente une nouvelle dictée. Des bribes de pensées à tisser pour en faire un texte lisible, que je devrais réinventer une fois de retour devant un clavier. Contrairement à Phil, je ne sais pas parler, j’ai programmé mon cerveau pour qu’il écrive. Il me faudrait des mois de bafouilles pour que quelque chose émerge. 
 
-Je n’ai pas envie d’écrire un journal de cycliste, juste un journal de voyage, à vitesse intermédiaire entre marche et voiture. En Bretagne, les paysages se renouvellent moins que dans le Midi. On reste dans le granitique. Il y a les côtes sublimes, puis les terres monotones, sans cesse moutonnantes, mais jamais suffisamment pour dégager des perspectives saisissantes.
+Je n’ai pas envie d’écrire un journal de cycliste, juste un journal de voyage, à vitesse intermédiaire entre marche et voiture. En Bretagne, les paysages se renouvellent peu. On reste dans le granitique. Il y a les côtes sublimes, puis les terres agraires monotones, sans cesse moutonnantes, mais jamais suffisamment pour dégager des perspectives saisissantes.
 
 Ce matin, j’ai aimé les maisons cossues en surplomb des plages et des falaises. Elles dégageaient une force tranquille, une sorte d’éternité solide. Une opposition frontale aux éléments. Elles me paraissaient à leur place, avec leur point de vue choisi, leur agencement à l’image de leurs occupants imaginaires.
 
-J’aimerais avoir davantage de temps, m’arrêter dans chaque commune, les explorer à pied, avec un carnet d’aquarelle. À vélo, je passe. Je n’ai pas envie de m’éterniser, parce que le vélo est une sorte de bateau qu’on ne peut réellement quitter, sauf pour de brefs bains de mer. C’est ainsi qu’il faut voir le voyage à vélo : un voyage dans un bateau dont on ne pourrait pas quitter le bord, parce qu’un vélo laissé seul disparaît aussitôt. Les histoires de bikepackers dépossédés de leur monture ne manquent pas. Le vélo nous propulse tout en étant une ancre.
+J’aimerais avoir davantage de temps, m’arrêter dans chaque commune, les explorer à pied, avec un carnet d’aquarelle. À vélo, je passe. Je n’ai pas envie de m’éterniser, parce que le vélo est une sorte de bateau qu’on ne peut quitter, sauf pour de brefs bains de mer. C’est ainsi qu’il faut voir le voyage à vélo : un voyage dans un bateau dont on ne pourrait pas quitter le bord, parce qu’un vélo laissé seul disparaît aussitôt. Les histoires de bikepackers dépossédés de leur monture ne manquent pas. Le vélo nous propulse tout en étant une ancre.
 
 Nous bivouaquons à Tréguier, sur les berges de l’estuaire de La Guindy, face au tombeau d’Anatole le Braz, écrivain grand-père de Tina Weymouth, bassiste des Talking Heads, autrice des paroles françaises de [*Psycho Killer*](https://www.youtube.com/watch?v=CJ54eImz88w&ab_channel=TalkingHeads) qu’est-ce que c’est ?
 
@@ -225,11 +227,11 @@ Je me lance vers la gloire, OK
 
 ### Mercredi 16, Scrignac
 
-Quelle nuit ! « Ce que j’ai fait, ce soir-là ? » Je n’ai pas beaucoup dormi. Vers minuit, des cris me réveillent. Deux ou trois garçons éméchés, une fille. « Suis pas un PD. Je le fais. Vas-y. Vas-y. » Ça continue un peu plus loin. Je ne comprends pas tout. Je me rendors, me réveille. « La fille dicte des chiffres. » Plus tard, des paroles plus proches. « Tu as vu le feu d’artifice ? » Le flash d’une lampe torche illumine la tente. Au loin, vers le parking à camping-car, un gyrophare. « Il va falloir déplacer les tentes. » On s’arrache un à un de nos sacs de couchage. Nous comprenons ce qui se passe. Un des garçons est tombé dans l’estuaire de La Guindy et s’est envasé jusqu’à la taille. Ses amis sont incapables de le sortir de là. Les chiffres dictés étaient les coordonnées GPS de l’accident.
+Quelle nuit ! « Ce que j’ai fait, ce soir-là ? » Je n’ai pas beaucoup dormi. Vers minuit, des cris me réveillent. Deux ou trois garçons éméchés, une fille. « Suis pas un PD. Je le fais. Vas-y. Vas-y. » Ça continue un peu plus loin. Je ne comprends pas tout. Je me rendors, me réveille. « La fille dicte des chiffres. » Plus tard, des paroles plus proches. « Tu as vu le feu d’artifice ? » Le flash d’une lampe torche illumine la tente. Au loin, vers le parking à camping-car, un gyrophare. « Il va falloir déplacer les tentes. » On s’arrache un à un de nos sacs de couchage. Devant nous, des pompiers. Nous comprenons ce qui se passe. Un des garçons est tombé dans l’estuaire de La Guindy et s’est envasé jusqu’à la taille (on comprends qu’il s’est jeté d’un parapet en balcon pour impressionner ses amis qui ont été incapables de le sortir de là). Les chiffres dictés étaient les coordonnées GPS de l’accident lors de l’appel des secours.
 
-Les pompiers arrivent, la police aussi. Finalement nous n’avons besoin que de déplacer la tente de JM (lui qui croyait s’être mis à l’écart et ne rien risquer). Nous nous recouchons pendant que les secouristes s’affairent, à coups de marteau plantant des pieux dans la terre pour installer un treuil. Le matin, alors que nous rangeons nos affaires, une passante nous dit « Vous avez oublié là-bas une couverture de survie », je lui réponds « Cette nuit, un gamin est tombé du pont », elle répond « OK » et s’en va sans montrer plus de curiosité.
+D’autres pompiers arrivent, la police aussi. Finalement, nous n’avons besoin que de déplacer la tente de JM (lui qui croyait s’être mis à l’écart et ne rien risquer). Nous nous recouchons pendant que les secouristes s’affairent, à coups de marteau plantant des pieux dans la terre pour installer un treuil. Le matin, alors que nous rangeons nos affaires, une passante nous dit « Vous avez oublié là-bas une couverture de survie », je lui réponds « Cette nuit, un gamin est tombé du pont », elle répond « OK » et s’en va sans montrer plus de curiosité.
 
-Nous ne sommes pas partis qu’il se met à pleuvoir. Nous ne voyons rien de la côte de granit rose. Enfin une éclaircie quand nous atteignons la plage de Saint-Efflam, où deux food trucks nous accueillent. Encore une fois, dès que nous nous éloignons de la côte, nous nous ennuyons, subissant sans grand enthousiasme les montagnes russes bretonnes. Mais soudain, un chemin nous jette sur les rives de la rivière de Morlaix. Nous la remontons jusqu’à la ville au célèbre viaduc, que nous quittons par la piste cyclable qui se dirige vers les monts d’Arrée. Nous nous arrêtons dans [l’ancienne gare de Scrignac transformée en gîte étape](https://www.gitedetapedelagare.fr/).
+Nous ne sommes pas partis qu’il se met à pleuvoir. Nous ne voyons rien de la côte de granit rose. Enfin une éclaircie quand nous atteignons la plage de Saint-Efflam, où deux food trucks nous accueillent. Encore une fois, dès que nous nous éloignons de la côte, nous nous ennuyons, subissant sans grand enthousiasme les montagnes russes bretonnes. Mais soudain, un chemin nous jette sur les rives de la rivière de Morlaix. Nous la remontons jusqu’à la ville au célèbre viaduc. Nous la quittons par la piste cyclable qui se dirige vers les monts d’Arrée. Nous nous arrêtons dans [l’ancienne gare de Scrignac transformée en gîte étape](https://www.gitedetapedelagare.fr/).
 
 ![J4](_i/2025-07-16-080416.webp)
 
@@ -249,7 +251,7 @@ Nous ne sommes pas partis qu’il se met à pleuvoir. Nous ne voyons rien de la 
 
 ### Jeudi 17, Brest
 
-Alors que nous nous arrêtons pour grignoter au bord du lac de Brennilis, du nom de la première centrale nucléaire française, Phil prend conscience qu’il a perdu son téléphone (il avait déjà perdu et retrouvé ses lunettes). Nous le localisons 12 km en arrière, devant la boulangerie de Huelgoat. Phil rebrousse chemin par la route pendant que nous traversons les monts d’Arrée, par les premiers chemins purement VTT depuis le début du séjour. Quand nous nous arrêtons près d’une source pour nous rafraîchir, Seb nous joue des extraits de *Jean de Florette* et de *Manon des sources*, deux films dont il connaît les dialogues par cœur. Quel acteur ! Quel comique !
+Alors que nous nous arrêtons pour grignoter au bord du lac de Brennilis, du nom de la première centrale nucléaire française, Phil prend conscience qu’il a perdu son téléphone (il avait déjà perdu et retrouvé ses lunettes). Nous localisons l’appareil 12 km en arrière, devant la boulangerie de Huelgoat. Phil rebrousse chemin par la route pendant que nous traversons les monts d’Arrée, par les premiers chemins purement VTT depuis le début du séjour. Quand nous nous arrêtons près d’une source pour nous rafraîchir, Seb nous joue des extraits de *Jean de Florette* et de *Manon des sources*, deux films dont il connaît les dialogues par cœur. Quel acteur ! Quel comique !
 
 Après la traversée du parc régional d’Armorique, avec enfin un point de vue quand nous atteignons la chapelle Saint-Michel à 381 m, nous plongeons vers la presqu’île de Plougastel, puis vers Brest, où nous logeons dans [l’auberge de jeunesse](https://fr.wikipedia.org/wiki/Auberge_de_jeunesse_de_Brest), inaugurée en 1983 et dessinée par Roland Schweitzer, œuvre architecturale majeure que j’ai tout de suite perçue comme un résumé de l’architecture du XX<sup>e</sup> siècle, entre Jean Prouvé, Alvar Aalto et Le Corbusier. Un pur chef-d’œuvre bois-béton. Le choc esthétique du voyage.
 
@@ -325,11 +327,11 @@ On déjeune chez Seb et Presci, les amis de JM, dont la maison se trouve par le 
 
 ### Samedi 19, Rennes
 
-Au réveil, JM nous annonce qu’il nous quitte, car il ne trouve aucun train avec vélo démonté pour rentrer sur Paris le lundi soir. Nous ne sommes plus que cinq et la mayonnaise qui tenait le groupe se délite. Nous pensons tous à la météo défavorable qui s’annonce, je pense à la maison, à Isa malade, aux enfants.
+Au réveil, JM nous annonce qu’il nous quitte : il ne trouve aucun train avec vélo démonté pour rentrer sur Paris le lundi soir. Nous ne sommes plus que cinq et la mayonnaise qui tenait le groupe se délite. Nous pensons tous à la météo défavorable qui s’annonce, je pense à la maison, à Isa malade, aux enfants.
 
 On profite du soleil en terrasse près du marché de Douarnenez, puis on pédale jusqu’à la pointe du Raz par la route pour tenter d’y arriver avant la tourmente. Trop de touristes, lieu qui n’a d’attrait que par sa position extrême. Maisons moins ancrées, moins cossues qu’au nord ou que sur Crozon. Nous filons vers Audierne, toujours par la route. Il commence à bruiner pendant que nous déjeunons. Avec Cyril et Jacques, nous décidons de bifurquer sur Quimper pour rentrer sur Paris, puis chez nous.
 
-Nous ne trouvons pas de place vélo pour Rennes, mais achetons tout de même des billets TER. Le contrôleur nous refuse l’accès du train, alors qu’aucun autre vélo ne se présente sur le quai. Au dernier moment, il nous laisse embarquer. Finalement il n’y aura que sept vélos sur neuf places possibles dans la rame. Le service de réservation vélo de la SNCF est déficient, ce n’est pas une nouveauté. Dans cette compagnie, ils font tout pour nous dissuader de voyager avec des vélos.
+Nous ne trouvons pas de place vélo pour Rennes, mais achetons tout de même des billets TER. Le contrôleur nous refuse l’accès du train, alors qu’aucun autre vélo ne se présente sur le quai. Au dernier moment, il nous laisse embarquer. Finalement il n’y aura que sept vélos sur neuf places possibles dans la rame. Le service de réservation vélo de la SNCF est déficient, ce n’est pas une nouveauté. Dans cette compagnie, on fait tout pour nous dissuader de voyager avec des vélos.
 
 ![Douarnenez](_i/2025-07-19-083348.webp)
 
@@ -341,13 +343,13 @@ Nous ne trouvons pas de place vélo pour Rennes, mais achetons tout de même des
 
 ### Dimanche 20, Balaruc
 
-Pendant que Seb et Fred abandonnent à leur tour, je lis comme souvent [un article inspirant de Maria Popova](https://www.themarginalian.org/2025/07/16/ann-zwinger-wind-in-the-rock/). Et si j’écrivais la maison, ce que ça implique un lieu à soi dans le monde, un lieu où on est pleinement, indifférent aux agitations du monde, d’autant plus important maintenant qu’Isa est assignée à résidence (et de voir ces maisons perchées en Bretagne nord, et aussi ces blocs stéréotypés par les fenêtres du train retour, tout ça me donne envie d’écrire sur la maison.) Ma vie « ordinaire » reprend. Des idées me viennent, peut-être pour occuper les mois à venir. Demain j’ai 62 ans.
+Pendant que Seb et Fred abandonnent à leur tour, je lis comme souvent [un article inspirant de Maria Popova](https://www.themarginalian.org/2025/07/16/ann-zwinger-wind-in-the-rock/). Et si j’écrivais la maison, ce que ça implique un lieu à soi dans le monde, un lieu où on est pleinement, indifférent aux agitations du monde, d’autant plus important maintenant qu’Isa est assignée à résidence (et de voir ces maisons perchées en Bretagne nord, et aussi ces blocs stéréotypés par les fenêtres du train retour, tout ça me donne envie d’écrire sur la maison.) Ma vie « ordinaire » reprend. Des idées me viennent, peut-être pour occuper les mois à venir. Demain j’ai 62 ans.
 
 ![JM par Jacques C](_i/JM.webp)
 
 Jacques a pris la photo du voyage. Descente vers le port de pêche de Douarnenez. J’étais devant, je me souviens de la lumière, mais Jacques a eu le réflexe incroyable de la saisir alors que nous étions en déplacement. On dirait une lumière de studio, presque irréelle.
 
-![Mon côté Mmarin, par Cyril](_i/moiparcyril.webp)
+![Mon côté Marin, par Cyril](_i/moiparcyril.webp)
 
 ### Lundi 21, Balaruc
 
@@ -445,7 +447,7 @@ Je finis par monter quatre photos du Mont Saint-Michel. J’ai pris toutes les p
 
 ### Mardi 29, Mont-Dore
 
-Escapade de trois jours en Auvergne avec Lio et Didier que nous initions au bikepacking. Un des plus beaux endroits de France pour le vélo. Merveilleux villages, points de vue à couper le souffle, chemins merveilleux. Les télécabines de la Perdrix à Super Besse nous amènent sous le sommet du Puy de Sancy. Liaison interdite à vélo. Va savoir pourquoi, peut-être pour éviter les accidents avec les nombreux randonneurs. Nous croisons des gendarmes qui nous rappellent l’interdiction, sans hausser le ton, sans doute parce que nous descendions avec prudence, nos vélos chargés comme preuve de notre modération.
+Escapade de trois jours en Auvergne avec Lio et Didier que nous initions au bikepacking. Un des plus beaux endroits de France pour le vélo. Merveilleux villages, points de vue à couper le souffle, chemins doux sous nos pneux. Les télécabines de la Perdrix à Super Besse nous amènent sous le sommet du Puy de Sancy. Liaison interdite à vélo. Va savoir pourquoi, peut-être pour éviter les accidents avec les nombreux randonneurs. Nous croisons des gendarmes qui nous rappellent l’interdiction, sans hausser le ton, sans doute parce que nous descendions avec prudence, nos vélos chargés comme preuve de notre modération.
 
 ![Cézalier](_i/2025-07-29-112318.webp)
 
@@ -475,7 +477,7 @@ Escapade de trois jours en Auvergne avec Lio et Didier que nous initions au bike
 
 ### Mercredi 30, Lugarde
 
-Grosse journée, jambes lourdes. J’ai de plus en plus de mal à encaisser les gros dénivelés, [plus de 2 400 mètres pour 110 km aujourd’hui](https://www.strava.com/activities/15289421305). Mais que de merveilles. Sublime contournement du puy de Dôme, puis magnifique paysage au sommet de La Banne d’Ordanche à 1 500 avant de plonger vers La Bourboule.
+Jambes lourdes. J’ai de plus en plus de mal à encaisser les gros dénivelés, [plus de 2 400 mètres pour 110 km aujourd’hui](https://www.strava.com/activities/15289421305). Mais que de merveilles. Sublime contournement du puy de Dôme, puis magnifique paysage au sommet de La Banne d’Ordanche à 1 500 avant de plonger sur La Bourboule.
 
 ![Puy-de-Dôme](_i/2025-07-30-100035.webp)
 
