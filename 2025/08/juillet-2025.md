@@ -18,7 +18,7 @@ Parmi les quelques articles publiés sur *Épicènes*, au moins trois l’ont é
 
 ### Jeudi 3, Balaruc
 
-Est-ce que j’écris pour me fuir ? Pour devenir cet autre qui écrit, qui ne fonctionne pas tout à fait comme moi. Est-ce que déjà, après deux phrases, je suis en train de devenir cet autre, et quel autre, parce que j’imagine qu’il en existe plusieurs ? Ou est-ce le contraire, est-ce que je deviens davantage celui que je suis au plus profond ? Tout ce que je sais c’est que l’écriture produit en moi un déplacement, sans que je sache si c’est vers mon centre ou un monde extérieur. Écrire est un voyage.
+Est-ce que j’écris pour me fuir ? Pour devenir cet autre qui écrit, qui ne fonctionne pas tout à fait comme moi. Est-ce que déjà, après deux phrases, je suis en train de devenir cet autre, et quel autre, parce que j’imagine qu’il en existe plusieurs ? Ou est-ce le contraire, est-ce que je deviens davantage celui que je suis au plus profond ? Tout ce que je sais : l’écriture produit en moi un déplacement, sans que je sache si c’est vers mon centre ou un monde extérieur. Écrire est un voyage.
 
 ---
 
@@ -110,7 +110,7 @@ Descente vers la baie du Mont-Saint-Michel que nous longeons par un sentier entr
 
 ### Lundi 14, Les Sables d’Or-les-Pins
 
-On se remet en route avant 7h, question de ne pas se faire traiter de squatteurs. Approche du mont par le sentier côtier. Je le bombarde de photos, sachant que les mêmes ont déjà été prises cent fois et l’idée me vient d’un montage où le mont apparaîtrait de plus en plus grand. Nous arrivons sur la presqu’île avant les touristes, remontons les ruelles à vélo jusqu’à la cathédrale. Expérience étonnante dans un lieu habituellement bondé. Quand nous repartons, nous croisons les premiers bus.
+On se remet en route avant 7h, question de ne pas se faire traiter de squatteurs. Approche du mont par le sentier côtier. Je photographie, sachant que les mêmes photos ont déjà été prises mille fois et l’idée me vient d’un montage où le mont apparaîtrait de plus en plus grand. Nous arrivons sur la presqu’île avant les touristes, remontons les ruelles à vélo jusqu’à la cathédrale. Expérience étonnante dans un lieu habituellement bondé. Quand nous repartons, nous croisons les premiers bus.
 
 ![Mont Saint-Michel](_i/2025-07-14-065233.webp)
 
@@ -351,7 +351,7 @@ Jacques a pris la photo du voyage. Descente vers le port de pêche de Douarnenez
 
 ### Lundi 21, Balaruc
 
-J’ai toujours été fasciné par le génie du lieu, par ces endroits naturels ou chargés d’histoire qui exhalent une force vitale indéniable, et je prends conscience que j’ai tenté avec notre maison de construire un de ces lieux, de lui donner une force propre, et beaucoup de gens qui y viennent me disent la ressentir. Isa présente la maison comme l’œuvre de notre couple, œuvre au sens artistique et mystique. Alors la dire, ce qu’elle a de particulier, son rapport à l’espace, au lieu où elle repose, à sa place dans le temps. Raconter la maison comme je parlerais d’un tableau, comme j’ai parlé d’Ératosthène ou de Didier Pitter, en faire une sorte de biographie.
+J’ai toujours été fasciné par le génie du lieu, par ces endroits naturels ou chargés d’histoire qui exhalent une force vitale indéniable, et je prends conscience que nous avons tenté avec notre maison de construire un de ces lieux, de lui donner une force propre, et beaucoup de gens qui y viennent nous disent la ressentir. Isa présente la maison comme l’œuvre de notre couple, œuvre au sens artistique et mystique. Alors la dire, ce qu’elle a de particulier, son rapport à l’espace, au lieu où elle repose, à sa place dans le temps. Raconter la maison comme je parlerais d’un tableau, comme j’ai parlé d’Ératosthène ou de Didier Pitter, en faire une sorte de biographie.
 
 Popova écrit : « Anything you polish with attention will become a mirror. Anything to which you give yourself fully, vest all your strength and risk all your vulnerability, will return you to your life annealed, magnified, both unselved and more deeply yourself. It can be a [garden](https://www.themarginalian.org/2022/05/07/writers-artists-gardens/), or a [desert](https://www.themarginalian.org/2015/06/22/desert-solitaire-edward-abbey/), or a [hare](https://www.themarginalian.org/2025/05/28/raising-hare-chloe-dalton/). It can be, perhaps most readily, a place. “Place and a mind may interpenetrate till the nature of both is altered,” the Scottish mountaineer and poet Nan Shepherd wrote in her [stunning love letter to a mountain](https://www.themarginalian.org/2018/03/19/the-living-mountain-nan-shepherd/). »
 
@@ -475,7 +475,7 @@ Escapade de trois jours en Auvergne avec Lio et Didier que nous initions au bike
 
 ### Mercredi 30, Lugarde
 
-Jambes lourdes. J’ai de plus en plus de mal à encaisser les gros dénivelés, [plus de 2 400 mètres pour 110 km aujourd’hui](https://www.strava.com/activities/15289421305). Mais que de merveilles. Sublime contournement du puy de Dôme, puis magnifique paysage au sommet de La Banne d’Ordanche à 1 500 avant de plonger sur La Bourboule.
+Jambes lourdes. J’ai de plus en plus de mal à encaisser les gros dénivelés, [plus de 2 400 mètres pour 110 km aujourd’hui](https://www.strava.com/activities/15289421305). Mais que de merveilles. Sublime contournement du puy de Dôme, puis magnifique paysage au sommet de La Banne d’Ordanche à 1 500 m avant de plonger sur La Bourboule.
 
 ![Puy-de-Dôme](_i/2025-07-30-100035.webp)
 
