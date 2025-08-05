@@ -1,4 +1,4 @@
-# Le g727 2025 passera pas la Camargue - photos
+# Le g727 2025 passera par la Camargue - photos
 
 ![Digue](_i/2025-08-05-083813.webp)
 
