@@ -2,7 +2,7 @@
 
 ![Digue](_i/2025-08-05-083813.webp)
 
-Pour relier Aigues-Mortes aux Alpilles, le [g727 2025](https://727bikepacking.fr/g727-Grand-Depart/) traversera la Camargue. Voici quelques photos après notre dernière reconnaissance, entre étangs et mer, dans un plat pays sans cesse changeant et aux couleurs éblouissantes. Petites routes, digues le long du petit et grand Rhône (interdites aux véhicules motorisés mais pas au vélos), pistes, un ou deux brefs secteurs sableux, avant de se retrouver au cœur d’Arles.
+Pour relier Aigues-Mortes aux Alpilles, le [g727 2025](https://727bikepacking.fr/g727-Grand-Depart/) traversera la Camargue. Voici quelques photos après notre dernière reconnaissance, entre étangs et mer, dans un plat pays sans cesse changeant et aux couleurs éblouissantes. Petites routes, digues le long du petit et grand Rhône (interdites aux véhicules motorisés mais pas aux vélos), pistes, un ou deux brefs secteurs sableux, avant de se retrouver au cœur d’Arles.
 
 La première journée sera peu exigente côté dénivelé, avec pour seule difficulté le classique départ à travers la Gardiole.
 
