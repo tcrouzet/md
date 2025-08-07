@@ -252,6 +252,8 @@ Mars, je quitte les réseaux sociaux privatifs.
 
 Juin, publication d’*Épicènes*.
 
+Juillet, début de *La Zone*.
+
 ### Interviews
 
 2024 - [Raconte moi](https://www.youtube.com/watch?v=FJf3zbvgtUM&ab_channel=Racontemoi)
@@ -274,7 +276,7 @@ Juin, publication d’*Épicènes*.
 
 2012 - [France Culture](http://www.franceculture.fr/emission-place-de-la-toile-j-ai-debranche-sopa-pipa-megaupload-2012-01-21) ([et d’autres](/jai-debranche/jai-debranche-presse/))
 
-### Liens
+### <a name="links"></a>Liens
 
 [Contacts](/page/mail/)
 
