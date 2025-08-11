@@ -66,7 +66,7 @@ Ne pas se laisser décourager par les difficultés techniques.
 
 Aller vers la facilité technique, c’est faire le jeu d’une forme d’impérialisme qui finira par se retourner contre nous tous.
 
-*PS1 : Je ne suis pas sans contradictions puisque [j’envoie ma newsletter avec Substack](https://tcrouzet.substack.com/), mais rien ne m’oblige ni ne vous oblige à utiliser les fonctions sociales de Substack. Tant que cette forme de passivité est possible sur cette plateforme, je m’en accommode.*
+*PS1 : Je ne suis pas sans contradictions puisque [j’envoie ma newsletter avec Substack](https://tcrouzet.substack.com/), mais rien ne m’oblige ni ne vous oblige à utiliser les fonctions sociales de Substack. Tant que cette forme de passivité est possible sur cette plateforme, je m’en accommode.* 
 
 *PS2 : Selon ma définition, un influenceur bosse pour une plateforme, il recrute pour elle, c’est un collabo. Si j’ai un temps joué ce jeu, il y a longtemps que je m’en suis détourné. C’est pour ça que j’affirme ne pas être un influenceur. Mes textes peuvent influencer du moment qu’ils sont lus, mais en rien, le plus souvent j’espère, ils ne poussent à faire ceci ou cela, à acheter ceci ou cela.*
 
