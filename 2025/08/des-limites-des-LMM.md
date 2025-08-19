@@ -1,4 +1,4 @@
-# Auteur augmenté, pas remplacé : pourquoi les créateurs peuvent souffler
+# Augmentés, pas remplacés : pourquoi les créateurs peuvent souffler
 
 ![Scribes](_i/scribe.webp)
 
