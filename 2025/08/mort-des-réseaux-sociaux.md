@@ -24,7 +24,7 @@ J’espère que nous serons de plus en plus nombreux à fuir ces endroits malsai
 
 Tous les réseaux sociaux que je connais, même les réseaux libres comme Mastodon, ressemblent aux monnaies spéculatives. Ceux qui investissent les premiers gagnent plus, ceux qui ont plus d’argent en gagnent plus, ceux qui ont le plus de contacts en nouent plus (presque toutes les cryptos souffrent de ces faiblesses rédhibitoires, ce qui les transforme mécaniquement en monnaies spéculatives — [reste de l’espoir du côté des monnaies libres](https://monnaie-libre.fr/)).
 
-J’attends donc de nouvelles initiatives, de nouvelles idées, tout en sachant que le non spéculatif intéresse peu : par exemple, pourquoi investir du temps sur un nouveau réseau si celui qui y arrive cinq ans plus tard se retrouve au même point ? Nous sommes peut-être condamnés à la spéculation, en tout cas la plupart d’entre nous. Un réseau social non spéculatif est sans doute condamné à végéter.
+J’attends donc de nouvelles initiatives, de nouvelles idées, tout en sachant que le non spéculatif intéresse peu : par exemple, pourquoi investir du temps sur un nouveau réseau si celui qui y arrive cinq ans plus tard se retrouve au même point ? Nous sommes peut-être condamnés à la spéculation, en tout cas la plupart d’entre nous. Un réseau social non spéculatif est sans doute voué à végéter.
 
 Toutefois, le web des origines était non spéculatif, puisque les pages étaient interconnectées sans intermédiaires, du moins avant que les moteurs de recherche mettent fin à cette belle symétrie avec leurs algorithmes et que la spéculation fasse rage (on appelait ça référencement — concept obsolète puisque les IA ne renvoient plus vers les sources d’informations).
 
@@ -40,7 +40,7 @@ Loin des plateformes, je me recentre sur mon site parce que j’en possède les 
 
 Fréquenter les plateformes, même pour animer une petite communauté, c’est s’exposer aux influenceurs et en même temps cautionner un système devenu inhumain. J’essaie de ne plus vivre dans l’ambiguïté, même si c’est loin d’être simple et si les tentations sont grandes.
 
-J’adopte les solutions technologiques les plus simples en même temps que les plus durables. Je viens par exemple d’ajouter en pied de chacun de mes articles un bouton pour télécharger mes articles en texte brut. Sans doute que personne n’utilisera cette fonction, mais j’essaie de montrer que je suis un producteur de contenus, que le cœur de mon travail se passe de toute forme d’habillage. C’est une décision symbolique.
+J’adopte les solutions technologiques les plus simples en même temps que les plus durables. Je viens par exemple d’ajouter en pied de chacun de mes articles un bouton pour les télécharger en texte brut. Personne n’utilisera cette fonction, mais j’essaie de montrer que je suis un producteur de contenus, que le cœur de mon travail se passe de toute forme d’habillage. C’est une décision symbolique.
 
 ### Que faire quand on aime un contenu ?
 

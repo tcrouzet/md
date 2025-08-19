@@ -82,4 +82,4 @@ Votre roman oscille entre célébration de la fusion et constat de son impossibi
 
 **Moi** Je crois que tu m’as compris.
 
-#netlitterature #epicenes #y2025 #2025-6-13-12h00
+#netlitterature #epicenes #ia #y2025 #2025-6-13-12h00

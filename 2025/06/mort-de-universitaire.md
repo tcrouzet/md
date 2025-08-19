@@ -190,4 +190,4 @@ Pour la critique, l’œuvre impose le développement d’outils analytiques hyb
 
 En testant successivement le dictionnaire, le récit d’amour, la chronique historique, le thriller technologique, le rapport scientifique et l’essai philosophique, _Épicènes_ cartographie les capacités expressives de la littérature contemporaine. L’échec final de chaque forme à épuiser son objet confirme que l’épicène constitue moins un modèle à suivre qu’un révélateur des tensions de notre époque.
 
-#netlitterature #epicenes #y2025 #2025-6-14-17h00
+#netlitterature #epicenes #ia #y2025 #2025-6-14-17h00
