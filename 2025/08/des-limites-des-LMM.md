@@ -1,10 +1,8 @@
-# ChatGPT 5 et Claude face à Ératosthène : crash test
+# Auteur augmenté, pas remplacé : pourquoi les créateurs peuvent souffler
 
 ![Scribes](_i/scribe.webp)
 
-[Contrairement à Luc Julia](https://www.youtube.com/watch?v=e5kDHL-nnh4&t=3292s&ab_channel=MonsieurPhi), je ne me prétends ni près ni de loin un spécialiste de l’IA, malgré mon passé d’ingénieur et même si je les utilise autant pour écrire que pour coder. Je vous parle du point de vue d’un utilisateur averti, qui les expérimente dès qu’il en a l’occasion et qui s’interroge sur leurs effets sur la création littéraire ([Philippe Astor effectue le même travail du côté de la musique](https://musiczone.substack.com/)).
-
-Les auteurs sont-ils devenus inutiles ? Que nous reste-t-il à écrire que les IA ne peuvent pas écrire ? Comment nous positionner face aux productions artificielles ? Quand utiliser les machines dans notre travail ? Longue liste de questions qu’il me paraît impossible d’écarter en déclarant « Jamais les IA ne seront créatives. » Toutefois, ma dernière expérimentation vient de me démontrer que « littérairement » nous ne sommes pas près d’être remplacés pour peu que nous soyons un minimum exigeants.
+Les auteurs sont-ils devenus inutiles ? Que nous reste-t-il à écrire que les IA ne peuvent pas écrire ? Comment nous positionner face aux productions artificielles ? Quand utiliser les machines dans notre travail ? Longue liste de questions qu’il me paraît impossible d’écarter en déclarant « Jamais les IA ne seront créatives. » Toutefois, ma dernière expérimentation vient de me démontrer que « littérairement » nous ne sommes pas près d’être remplacés pour peu que nous soyons un minimum exigeants ([Philippe Astor peut-être dira le contraire pour certaines formes musicales](https://musiczone.substack.com/)).
 
 J’ai eu l’idée de demander aux IA de réécrire mon roman [*Ératosthène*](https://tcrouzet.com/books/eratosthene/eratosthene/), un texte de 620 K signes, soit environ 180 K tokens. J’ai déjà réécrit ce roman plus d’une dizaine de fois, tout en pensant que la meilleure approche narrative n’est pas celle retenue lors de la publication en 2014. Je me suis dit qu’il serait génial de partir du texte publié et demander à diverses IA de le réécrire en suivant mes consignes.
 
@@ -32,7 +30,7 @@ Cette approche brutale était donc impraticable comme je m’en doutais. Rien de
 
 J’ai demandé à Claude 4.1 (fenêtre de travail 200 K tokens, donc trop limitée pour l’approche brutale) et à ChatGPT 5 de me proposer une autre méthode pour réécrire *Ératosthène*. Elles m’ont suggéré de commencer par créer un guide de réécriture avec personnages, lieux, événements en soumettant les chapitres un à un (ce que ferait un rewriter humain).
 
-Avant d’automatiser le processus, j’ai demandé aux deux IA de construire le guide sur les premiers chapitres. Résultat très bon après le premier chapitre, dégradé au deuxième pour déjà devenir très approximatif au troisième. J’ai arrêté là.
+Avant d’automatiser le processus, j’ai demandé aux deux IA de construire le guide sur les premiers chapitres. Résultat bon après le premier chapitre, dégradé au deuxième pour déjà devenir approximatif au troisième. J’ai arrêté là.
 
 Les IA m’ont proposé une méthode de travail vouée à l’échec. D’une manière générale, elles sont très fortes pour proposer, mais nulles quand il s’agit d’évaluer la faisabilité. Elles ignorent leurs propres limites, leurs forces et leurs faiblesses. Quand on suit leurs instructions, on perd souvent beaucoup de temps et on finit par tourner en rond.
 
@@ -44,7 +42,9 @@ J’ai dû en revenir à une méthode déjà utilisée pour [ma machine à inter
 
 ![Prompt analyse](_i/prompt-rw1.webp)
 
-Comme cette procédure via API est payante, je me suis contenté de l’expérimenter avec Claude (ChatGPT 5 étant de mon point de vue une régression sur beaucoup de points). Le résultat est plutôt convaincant. L’IA a résumé, établi des liens narratifs entre les parties du texte, identifiant les événements clés (même si parfois elle a négligé des éléments qui allaient s’avérer décisifs, ce qu’elle ne pouvait anticiper faute d’avoir lu le texte intégral). Au final, après analyse des 81 chapitres, le guide occupait 50 K tokens.
+Comme cette procédure via API est payante, je me suis contenté de l’expérimenter avec Claude. Le résultat est plutôt convaincant. L’IA a résumé, établi des liens narratifs entre les parties du texte, identifiant les événements clés (même si parfois elle a négligé des éléments qui allaient s’avérer décisifs, ce qu’elle ne pouvait anticiper faute d’avoir lu le texte intégral). Au final, après analyse des 81 chapitres, le guide occupait 50 K tokens.
+
+![Analyse chapitre 1](_i/analyse-rw10.webp)
 
 ![Analyse chapitre 7](_i/analyse-rw1.webp)
 
@@ -78,22 +78,22 @@ Bien sûr j’aurais pu produire en quelques clics un roman médiocre sur Érato
 
 Malgré les annonces d’immenses fenêtres de travail, les IA restent incapables de gérer des projets complexes comme la réécriture d’un roman, inutile de les croire capables d’écrire des romans convaincants from scratch (même du niveau de *La femme de ménage*).
 
-Pour ma part, j’ai découvert qu’elles peuvent nous seconder dans certaines tâches : pour brainstormer, nous faire accoucher d’idées, nous aider à prendre du recul sur un texte, résoudre des points de blocage, corriger, réviser, suggérer des variantes de parties courtes sans chercher à la corréler à d’autres, partir dans des délires, chercher des phrases synonymes… Il s’agit toujours de tâches précises, circonscrites, jamais générales. Je ne les ai pas encore vues prendre en main des tâches complexes, même en recourant à des dizaines d’agents travaillant en parallèle ou en série. Chaque fois que je tente cette approche, j’aboutis à un magma désespérant.
+Pour ma part, j’ai découvert qu’elles peuvent nous seconder dans certaines tâches : pour brainstormer, nous faire accoucher d’idées, nous aider à prendre du recul sur un texte, résoudre des points de blocage, corriger, réviser, suggérer des variantes de parties courtes, partir dans des délires, chercher des phrases synonymes… Il s’agit toujours de tâches précises, circonscrites, jamais générales. Je ne les ai pas encore vues prendre en main des tâches complexes, même en recourant à des dizaines d’agents travaillant en parallèle ou en série. Chaque fois que je tente cette approche, j’aboutis à un magma désespérant.
 
 Demain, tout sera peut-être différent, mais j’ose croire qu’encore longtemps la créativité restera notre champ de prédilection. C’est la thèse que je soutiens dans mon roman à paraître, *Rush*. L’avenir appartient aux créatifs, [comme le défend David Jamet](https://www.livre-contre-ia.fr/).
 
 Je suis devenu un auteur augmenté, une sorte de cyborg littéraire, mais sans moi les IA ne sont bonnes à rien. D’ailleurs, je suis en train d’écrire un petit livre 100 % bio, et j’en éprouve une grande satisfaction (comme dans l’ancien temps). Il s’agit d’une suite lointaine de *Mon père, ce tueur* (la véritable suite est écrite depuis longtemps et reste dans mes cartons).
 
-En revanche, trouver des titres, ça elles savent faire. Quelques poposition par ChatGPT (qui résument bien mon expérience) :
+En revanche, trouver des titres, ça les IA savent faire. Quelques popositios par ChatGPT (qui résument bien mon expérience) :
 
 1. Les IA savent résumer, pas romancer
 2. Réécrire n’est pas automatiser : l’échec des IA face à Ératosthène
 3. Fenêtres géantes, vision minuscule : l’IA ne sait pas lire un roman
-4. Auteur augmenté, pas remplacé: pourquoi les créateurs peuvent souffler
+4. ChatGPT 5 et Claude face à Ératosthène : crash test
 5. L’IA propose ; l’écrivain compose
 6. Brute force, douce illusion: confier un roman à l’IA ?
-7. Guide, plan… et impasse: quand l’IA perd le fil
-8. AGI pas pour demain: la créativité reste notre territoire
+7. Guide, plan… et impasse : quand l’IA perd le fil
+8. AGI pas pour demain : la créativité reste notre territoire
 9. Ératosthène 2025 : duel perdu des IA avec la littérature
 10. Sans vision d’ensemble, pas de roman : le talon d’Achille des IA
 
@@ -175,4 +175,4 @@ Parce qu’il avait vingt ans et ignorait encore que l’amour, même refusé, r
 
 Enfin bon.
 
-#netlitterature  #ia #y2025 #2025-8-19-17h00
+#netlitterature #ia #y2025 #2025-8-19-17h00
