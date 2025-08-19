@@ -22,7 +22,7 @@ Je suis allé de désillusion en désillusion.
 6. Incapacité de penser un chapitre en se projetant vers la suite (même avec un plan).
 7. Aucune vision d’ensemble, aucune anticipation, aucune cohérence, aucune notion de ce qu’un lecteur humain attend (même après explication)…
 
-Cette approche brutale était donc impraticable comme je m’en doutais. Rien de bon n’en est sorti, pas même un début de texte intéressant. J’ai répété la même expérience avec [*Mon père, ce tueur*](https://tcrouzet.com/books/mon-pere-ce-tueur/), texte trois fois moins imposant, pour me heurter exactement aux mêmes problèmes.
+Cette approche brutale était donc impraticable comme je m’en doutais. Rien de bon n’en est sorti, pas même un début de texte intéressant. J’ai répété la même expérience avec [*Mon père, ce tueur*](https://tcrouzet.com/books/mon-pere-ce-tueur/), texte trois fois moins imposant, pour me heurter exactement aux mêmes problèmes (le chapitre 1 réduit à deux paragraphes).
 
 ![Si ça c’est de la réécriture](_i/analyse-rw9.webp)
 
