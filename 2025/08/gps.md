@@ -1,4 +1,4 @@
-# Le GPS à vélo pour les nuls
+# Le GPS vélo pour les nuls
 
 ![C’était pas prévu](_i/2025-08-05-100056-Arles.webp)
 
@@ -10,7 +10,7 @@ Je commence par un mini historique.
 * 1983, annonce de l’ouverture progressive du réseau au public.
 * 1990, Mazda sort la première voiture équipée d’un GPS.
 * 1995, première couverture mondiale du réseau GPS avec 24 satellites.
-* 2000, sortie du Garmin eTrex qui offre pour la première fois la possibilité de suivre une trace GPX. Jusque là, les GPS permettaient de relier un point A à un point B en un minimum de temps et sans se perdre. L’eTrex permet de suivre des itinéraires préparés en amont.
+* 2000, sortie du Garmin eTrex qui offre pour la première fois la possibilité de suivre une trace, type GPX, préparée en amont. Jusque là, les GPS permettaient de relier un point A à un point B en un minimum de temps et sans se perdre.
 * 2002, sortie du Garmin Street Pilot pour les motos.
 * 2007, premier Garmin Edge, spécialement vélo.
 * 2009, lancement de Strava, et donc possibilité de partager les itinéraires et d’en discuter.
@@ -73,7 +73,7 @@ Comment je choisis mon GPS ? Comment je les utilise ?
 
 1. Ma priorité est l’autonomie pour le bikepacking. J’ai choisi [le Coros Dura](https://tcrouzet.com/tag/gps/) parce qu’il me dispense souvent d’emporter une powerbank ou d’installer une dynamo.
 
-2. Je n’utilise quasiment que les fonctions de suivi de traces, donc les raffinements des Garmin haut de gamme ne m’intéressent pas. Je me tourne vers les GPS les moins chers et les plus autonomes, le Coros Dura.
+2. Je n’utilise quasiment que les fonctions de suivi de traces, donc les raffinements des Garmin haut de gamme ne m’intéressent pas. Je me tourne vers les GPS les moins chers et les plus autonomes.
 3. Je déteste les écrans tactiles, inutilisables quand il pleut et avec certains gants. Le Coros Dura est tactile mais fonctionne aussi avec boutons et molette latérale.
 4. Je me fiche de la qualité de la cartographie du moment que j’arrive à suivre une trace. Le Coros Dura a un système de rendu de la carte OSM perfectible, c’est son gros point faible, mais je ne commets pas plus d’erreurs de navigation qu’avec mon ancien Garmin 530.
 5. Je n’utilise jamais les fonctions de routage qui sont assez lamentables et nous envoient souvent sur des routes trop passantes. Pour les changements d’itinéraires ou l’exploration cartographique, j’utilise des applis embarquées sur mon téléphone (notamment [VisuGPX](https://www.visugpx.com/)), avec les cartes préchargées pour être utilisées en mode avion.
@@ -82,14 +82,14 @@ Comment je choisis mon GPS ? Comment je les utilise ?
 8. J’aime que le GPS réagisse vite à mes changements de direction, là encore les Garmin sont les meilleurs.
 9. Je déteste les bugs. Le Coros Dura a fait beaucoup de progrès depuis la version 4.0 de l’application et du firmware.
 10. Je n’utilise jamais les modes économies d’énergie car ils éteignent la carte et ne la raffichent pas nécessairement quand des embranchements hors asphalte se présentent (surtout quand ils sont non cartographiés).
-11. Je désactive toutes les options de guidage. Quand on suit un itinéraire, on a besoin d’une carte, de la trace et de notre position dessus. Tout le reste distrait et consomme de l’énergie pour rien.
+11. Je désactive les options de guidage. Quand on suit un itinéraire, on a besoin d’une carte, de la trace et de notre position dessus. Tout le reste distrait et consomme de l’énergie pour rien.
 12. J’ai tellement l’habitude de suivre des traces que je scanne le GPS de temps en temps. Jamais je ne passe mon temps les yeux rivés dessus.
 13. Avant se s’aventurer sur une trace de source douteuse ou ancienne, il vaut mieux la vérifier, par exemple en la suivant sur une heatmap pour voir si elle passe par des endroits pratiqués. En général quand la heatmap est chaude, ça passe sans problème, même à travers les propriétés privées (les panneaux d’interdiction se multiplient par les temps qui courent).
 14. Une trace, c’est une partition à interpréter, quitte à improviser de temps à autre (comme sauter certaines parties d’un livre).
 15. Voyager à vélo reste une aventure même quand on suit une trace. Il y a toujours nécessité d’improviser, ne serait-ce qu’au moment de choisir un spot de bivouac.
-16. Mon expérience : les errants à vélo finissent au bord des routes (je les vois autour de chez moi). Je passe beaucoup de temps sur les chemins, j’y croise presque jamais de cyclistes sans GPS, sinon exceptionnellement les gars du voisinage. Souvent, les locaux ne connaissent pas les recoins de leurs territoires et sont de mauvais conseillers pour l’orientation, surtout si on veut rester dans la nature.
+16. Mon expérience : les errants à vélo finissent au bord des routes (je les vois autour de chez moi). Je passe beaucoup de temps sur les chemins, j’y croise presque jamais de cyclistes sans GPS, sinon exceptionnellement les vététistes du voisinage. Souvent, les locaux ne connaissent pas les recoins de leurs territoires et sont de mauvais conseillers pour l’orientation, surtout si on veut rester dans la nature.
 17. Refuser le GPS parce que ce serait technologique, c’est oublier que les vélos sont aujourd’hui de la très haute technologie.
-18. Ne pas faire confiance aux routeurs automatiques. Aucun ne prend en compte les heatmaps (mon fils en a développé une app mais il traîne pour la finaliser).
+18. Ne pas faire confiance aux routeurs automatiques. Aucun ne prend en compte les heatmaps (mon fils a développé une app mais il traîne à la finaliser).
 19. Le problème n’est pas de se perdre, j’adore, c’est de se faire chier sur des chemins sans intérêt (quand je trace, je paye les pots cassés lors des reconnaissances).
 20. Le GPS permet de vivre les territoires avec une intimité nouvelle, tant près de chez nous qu’à l’autre bout du monde. Avant de rejeter le GPS, ça vaut la peine de suivre une trace de qualité et de se mettre à lire les nouvelles aventures qu’écrivent pour vous les traceurs. C’est une forme de jeu de rôle grandeur nature.
 
