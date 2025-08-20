@@ -93,4 +93,4 @@ Comment je choisis mon GPS ? Comment je les utilise ?
 19. Le problème n’est pas de se perdre, j’adore, c’est de se faire chier sur des chemins sans intérêt (quand je trace, je paye les pots cassés lors des reconnaissances).
 20. Le GPS permet de vivre les territoires avec une intimité nouvelle, tant près de chez nous qu’à l’autre bout du monde. Avant de rejeter le GPS, ça vaut la peine de suivre une trace de qualité et de se mettre à lire les nouvelles aventures qu’écrivent pour vous les traceurs. C’est une forme de jeu de rôle grandeur nature.
 
-#velo #bikepacking #gps #y2025 #2025-8-1-20h00
+#velo #bikepacking #gps #y2025 #2025-8-20-20h00
