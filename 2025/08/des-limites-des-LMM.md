@@ -173,6 +173,6 @@ Pourquoi a-t-il menti ? Pourquoi n’a-t-il pas dit la vérité ?
 
 Parce qu’il avait vingt ans et ignorait encore que l’amour, même refusé, reste la seule chose qui vaille la peine d’être vécue.
 
-Enfin bon.
+Enfin bon. 
 
 #netlitterature #ia #y2025 #2025-8-19-17h00

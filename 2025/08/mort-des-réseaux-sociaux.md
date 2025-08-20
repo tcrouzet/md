@@ -50,6 +50,6 @@ C’est un peu comme si tout ce que nous avions inventé durant les vingt derni�
 
 Dans un web gangréné par les fakes, il ne nous reste plus qu’à faire confiance à quelques officines. J’entends occuper cette place discrète avec mon site et ma newsletter. Venez à ma rencontre comme je vais à la vôtre chez vous. La volonté d’être global me paraît dangereuse, dangereuse pour l’ego, dangereuse pour l’écologie. Je préfère labourer mon champ qu’être un artificier spécialisé dans les coups d’éclat.
 
-*PS : Sur Substack, beaucoup de comptes fabriquent des audiences artificielles. Je vois des gens s’abonner à mes deux newsletters, ne jamais en ouvrir aucune, puis assez vite se désabonner. Comportement classique des robots. Ça devient pervers quand des IA postent des commentaires pas trop cons. Difficile alors de ne pas se faire berner. Par chance, je n’utilise Substack que pour vous envoyer mes newsletters et discuter avec vous.*
+*PS : Sur Substack, beaucoup de comptes fabriquent des audiences artificielles. Je vois des gens s’abonner à mes deux newsletters, ne jamais en ouvrir aucune, puis assez vite se désabonner. Comportement classique des robots. Ça devient pervers quand des IA postent des commentaires pas trop cons. Difficile alors de ne pas se faire berner. Par chance, je n’utilise Substack que pour vous envoyer mes newsletters et discuter avec vous.* 
 
 #netculture #y2025 #2025-8-11-18h00
