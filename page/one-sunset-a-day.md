@@ -6,8 +6,4 @@ I am lucky enough to live on the shore of a salt lake in the South of France ([B
 
 [My collection is published on OpenSea.](https://opensea.io/assets/tcrouzet-collection?search[sortAscending]=false&search[sortBy]=CREATED_DATE&search[stringTraits][0][name]=Picture&search[stringTraits][0][values][0]=Sunset)
 
- </nft-card
-
- </nft-card
-
 #page #y2022 #2022-1-3-19h36

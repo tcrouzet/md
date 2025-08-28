@@ -10,6 +10,7 @@ Thierry Crouzet, 18, rue des Trimarans. 34540 Balaruc les Bains. France.
 
 * [Substack](https://tcrouzet.substack.com/) (newsletters, commentaires et chat)
 * [Mastodon](https://mamot.fr/@tcrouzet) (mon réseau social)
+* [Flipboard](https://flipboard.com/@ThierryCrouzet) (curation)
 * [Pixelfed](https://pixelfed.social/p/tcrouzet/) (Instagram libre)
 * [GitHub](https://github.com/tcrouzet/) (mes codes et mes textes)
 * [Gemini](gemini://gemini.tcrouzet.com) (mirroir low-tech du blog)

@@ -2,11 +2,15 @@
 
 ![2014, Federal Studio](_i/geneve2014g.webp)
 
-Je suis un archéo-geek. Un archi-vieux-geek. Un dino-geek. Un geek fossile. Quand en 2006 je publie le [*Peuple des connecteurs*](../books/le-peuple/le-peuple-des-connecteurs.md), je crois avoir écrit un essai philosophico-techno-scientifique. Surprise, il est rangé en sociologie. Les geeks seraient-ils en train de changer le monde ? Par la suite, sur mon blog, jai creusé les idées politiquement incorrectes de ce manifeste, avançant grâce à mes lecteurs dans des directions que je n’avais jamais explorées. [*Le cinquième pouvoir*](../books/cinquieme-pouvoir/le-cinquieme-pouvoir.md) et [*L’alternative nomade*](../books/alternative-nomade.md) développent mes investigations. Ce travail théorique a fini par m’épuiser. En avril 2011, [*J’ai débranché*](../books/jai-debranche/jai-debranche.md) pour me retrouver.
+« Expert de rien » : c’est ma façon d’aborder la littérature, l’édition, la tech, le quotidien… [Mes séries thématiques](/series/) explorent les questions de notre temps, avec [mes carnets mensuels](/tag/carnet-de-route/) comme fil rouge.
+
+---
+
+Je suis un archéo-geek. Un archi-vieux-geek. Un dino-geek. Un geek fossile. Quand en 2006 je publie le [*Peuple des connecteurs*](../books/le-peuple/le-peuple-des-connecteurs.md), je crois avoir écrit un essai philosophico-techno-scientifique. Surprise, il est rangé en sociologie. Par la suite, sur mon blog, jai creusé les idées politiquement incorrectes de ce manifeste, avançant grâce à mes lecteurs dans des directions que je n’avais jamais explorées. [*Le cinquième pouvoir*](../books/cinquieme-pouvoir/le-cinquieme-pouvoir.md) et [*L’alternative nomade*](../books/alternative-nomade.md) développent mes investigations. Ce travail théorique a fini par m’épuiser. En avril 2011, [*J’ai débranché*](../books/jai-debranche/jai-debranche.md) pour me retrouver.
 
 Adolescent, j’ai joué avec tout ce qui était électronique, me passionnant pour les premiers ordinateurs. De formation, je suis joueur de jeu de rôle, accessoirement ingénieur en micro-électronique. Pour mon premier job en 1988, j’ai été développeur, puis je suis vite devenu journaliste, cocréant quelque temps plus tard les magazines *PC Expert* et *PC Direct* pour le groupe de presse américain [Ziff-Davis](http://fr.wikipedia.org/wiki/Ziff_Davis). En parallèle, j’ai écrit des romans, des essais et des carnets de voyage. Je me suis initié à l’histoire de l’art et à la philosophie. J’ai fini par devenir un expert de rien.
 
-Quand j’ai quitté la presse en 1994, j’ai juré de tout faire pour avoir du temps. J’ai alors eu la chance d’écrire plus de [vingt livres de vulgarisation informatique](../books/vulgarisation/vulgarisation-1997-2003.md), vendus à plus de 300 000 exemplaires, ce qui m’a permis d’écrire en toute liberté des récits comme [*Le Geste qui sauve*](../books/geste1/le-geste-qui-sauve.md), des essais comme [*La mécanique du texte*](../books/la-mecanique-du-texte.md) et [*La stratégie du Cyborg*](../books/la-strategie-du-cyborg.md), des aventures plus divertissantes comme [*La quatrième théorie*](../books/la-quatrieme-theorie/la-quatrieme-theorie.md) et [*Résistants*](../books/resistants/resistants.md) ou plus littéraires comme [*J’ai eu l’idée*](../books/id/), [*Ératosthène*](../books/eratosthene/eratosthene.md), [*One Minute*](../books/une-minute.md) ou encore [*Mon père, ce tueur*](../books/mon-pere-ce-tueur.md).
+Quand j’ai quitté la presse en 1994, j’ai juré de tout faire pour avoir du temps. J’ai alors eu la chance d’écrire plus de [vingt livres de vulgarisation informatique](../books/vulgarisation/vulgarisation-1997-2003.md), vendus à plus de 300 000 exemplaires, ce qui m’a permis d’écrire en toute liberté des récits comme [*Le Geste qui sauve*](../books/geste1/le-geste-qui-sauve.md), des essais comme [*La mécanique du texte*](../books/la-mecanique-du-texte.md) et [*La stratégie du Cyborg*](../books/la-strategie-du-cyborg.md), des aventures plus divertissantes comme [*La quatrième théorie*](../books/la-quatrieme-theorie/la-quatrieme-theorie.md) et [*Résistants*](../books/resistants/resistants.md) ou plus littéraires comme [*J’ai eu l’idée*](../books/id/), [*Ératosthène*](../books/eratosthene/eratosthene.md), [*One Minute*](../books/une-minute.md), [*Mon père, ce tueur*](../books/mon-pere-ce-tueur.md), [Épicènes](../books/epicenes.md)…
 
 Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris, je suis retourné au milieu des années 2000 vivre dans le Midi, à Balaruc les Bains, sur les bords de l’étang de Thau.
 
@@ -14,7 +18,7 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 
 1963 - Naissance à Sète, le 21 juillet.
 
-1978 - Première calculatrice programmable, TI 57.
+1978 - Première calculatrice programmable, TI 57.
 
 1980 - Début de mon [*Carnet*](/tag/carnet-de-route/).
 
@@ -246,11 +250,11 @@ Juin, début de *Rush*.
 
 Janvier, *Rush* sortira en novembre chez PVH.
 
-Février, j’écris *Le Livre contre-attaque*.
+Février, j’écris puis publie [*Le Livre contre-attaque*](https://github.com/tcrouzet/TheBookStrikeBack).
 
 Mars, je quitte les réseaux sociaux privatifs.
 
-Juin, publication d’*Épicènes*.
+Juin, publication d’[*Épicènes*](../books/epicenes.md).
 
 Juillet, début de *La Zone*.
 
