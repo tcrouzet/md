@@ -25,6 +25,8 @@ scrolling="no">
 
 [Vélo…](/feeds/borntobike.xml) ([archive](/feeds/borntobike-all.xml))
 
+[De ma terrasse…](/feeds/digest.xml)
+
 [Écriture…](/feeds/ecriture.xml)
 
 [Mailing…](/feeds/mailing.xml)
