@@ -1,6 +1,6 @@
 # De ma terrasse #1
 
-![French-Alps-Drone-Flight](_i/digest01.webp)
+![Soir](_i/2025-02-23-182201-lamaison.webp)
 
 *Bienvenue dans ma revue des liens du dimanche. Voici les contenus qui ont marqué ma semaine, sur [Mastodon](https://mamot.fr/@tcrouzet) et ailleurs.*
 
@@ -38,6 +38,8 @@ Un espace dédié aux auteurs de l'imaginaire, explorant les mondes fantastiques
 Je ne cesse regarder ce truc (j'avais fait un fresque de ce type il y a bien longtemps pour la philosophie, faudrait que je la retrouve).
 
 ## Nature et Exploration
+
+![French-Alps-Drone-Flight](_i/digest01.webp)
 
 [Un vol de drone époustouflant en 4K à travers les Alpes françaises](https://laughingsquid.com/drone-flight-french-alps/) • EN • 4 min  
 Admirez la beauté des Alpes françaises grâce à un vol de drone capturé en haute définition.

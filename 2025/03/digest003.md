@@ -1,8 +1,8 @@
 # De ma terrasse #3
 
-_Bienvenue dans ma revue des liens du dimanche. Voici les **21** contenus qui ont marqué ma semaine._
+![Martin pêcheur](_i/2025-03-03-092329-lamaison.webp)
 
-![A89](_i/0digest03.png)
+_Bienvenue dans ma revue des liens du dimanche. Voici les **21** contenus qui ont marqué ma semaine._
 
 ## Sciences et Environnement
 
@@ -55,6 +55,8 @@ L’enquête TrackingFiles révèle comment des données de géolocalisation mas
 [L’accès aux messageries chiffrées des trafiquants de drogue retoqué en commission des lois](https://www.lemonde.fr/societe/article/2025/03/06/lutte-contre-le-narcotrafic-le-dispositif-d-acces-aux-messageries-chiffrees-des-trafiquants-retoque-en-commission_6576639_3224.html) • FR • 6 min
 
 Les députés français ont rejeté un amendement permettant aux services de renseignement d’accéder aux messageries chiffrées, suite à des critiques sur les risques de vulnérabilité et de sécurité pour tous les utilisateurs. _[Lizzie Crowdagger](https://corneill.es/@crowdagger)_
+
+![A89](_i/0digest03.png)
 
 [Contre l’A69, un projet de bifurcation écologique à grande échelle](https://www.socialter.fr/article/autoroute-a69-projet-alternatif-la-voie-est-libre) • FR • 8 min
 
