@@ -1,6 +1,6 @@
 # De ma terrasse #26
 
-![Ciel 1/9/2025](_i/2025-09-01-202029-lamaison%201.webp)
+![Ciel 1/9/2025](_i/2025-09-01-202029-lamaison.webp)
 
 _Ma sélection du dimanche : **14** liens et une photo prise depuis ma terrasse. Envoyée depuis Paris où je fais une brève escale._
 
