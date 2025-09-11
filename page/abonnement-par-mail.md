@@ -1,10 +1,6 @@
 # Newsletters
 
-### Digressions, Carnets, De ma terrasse…
-
 <iframe src="https://tcrouzet.substack.com/embed" class="substack-iframe" frameborder="0" scrolling="no"></iframe>
-
-### Vélo
 
 <iframe
 
