@@ -8,7 +8,7 @@ La première fois, quand je râle parce que les copains du club vélo ne cessent
 
 Je pourrais me contenter d’une réponse laconique : « La dictature, c’est aussi un moyen de toucher tout le monde. Personne ne peut échapper à son emprise, à sa surveillance, à ses manipulations d’opinion, à ses mensonges, à ses procès arbitraires… »
 
-C’est justement parce que certains services privés touchent tout le monde que c’est devenu un gros problème : des entreprises siphonnent nos données, étudient nos comportements, suivent nos déplacements, et pour la plupart nous continuons comme si de rien n’était.
+C’est parce que certains services privés touchent tout le monde que c’est devenu un gros problème : des entreprises siphonnent nos données, étudient nos comportements, suivent nos déplacements, et pour la plupart nous continuons comme si de rien n’était.
 
 Aujourd’hui toutes ces données collectées servent à nous bombarder de publicités, mais aussi à façonner nos options en choisissant pour nous des contenus susceptibles de nous intéresser ou de nous faire réagir. Il s’agit ni plus ni moins d’un système de lavage de cerveau insidieux. Si ça ne vous dérange pas, moi ça me dérange que ça ne vous dérange pas. Parce que si vous devenez des zombies, vous voterez à tort et à travers, et je finirai par en pâtir. Ne vous croyez pas plus malin que les IA qui analysent vos données et recherchent les meilleures stratégies pour vous manipuler. Vous êtes leurs victimes.
 
@@ -16,7 +16,7 @@ Toutes ces données amassées sur vous ne disparaîtront pas du jour au lendemai
 
 Vous croyez que ça vaut toujours la peine de pouvoir toucher tout le monde ? Vous ne voyez toujours pas les risques collectifs de ce jusqu’au-boutisme ? Perso, j’ai déjà trop ouvert ma gueule. Je ne cherche pas à me protéger, mais à défendre ce qui subsiste de liberté et de libre arbitre dans la société. Si vous sombrez tous, je sombrerai avec vous. Si nous ne sommes qu’une poignée à résister, les chemises brunes ou rouges nous imposeront leurs règles.
 
-Le cas du 10 septembre est symptomatique d’une grave crise. Comment croire s’opposer à un système, le capitalisme, en usant des outils les plus invasifs et liberticides jamais inventés par le capitalisme ? Est-ce raisonnable de penser, ne serait-ce qu’une seconde, qu’il est possible de changer quoi que ce soit de cette façon — ce dont étaient persuadés les manifestants du 10 de toute évidence.
+Le cas du 10 septembre est symptomatique d’une grave crise. Comment croire s’opposer à un système, le capitalisme, en usant des outils les plus invasifs et liberticides jamais inventés par le capitalisme ? Est-ce raisonnable de penser, ne serait-ce qu’une seconde, qu’il est possible de changer quoi que ce soit de cette façon — ce dont étaient persuadés les manifestants du 10 de toute évidence ?
 
 Dans [une conversation lancée sur Mastodon](https://mamot.fr/@tcrouzet/115179829173868768), un réseau non algorithmique et non privatif, quelques réactions reprennent mon argument.
 
@@ -57,11 +57,11 @@ Le réel est compliqué, c’est bien tout le problème. Refuser de l’admettre
 Si on est d’accord pour se séparer de WhatsApp, il reste à choisir une autre messagerie. D’un point de vue des valeurs, [Signal](https://signal.org/fr/) l’emporte haut la main (notamment sur son direct concurrent [Telegram](https://telegram.org/)) :
 
 * Open Source de bout en bout (les serveurs Telegram sont fermés).
-* Chiffrement de bout en bout (sur Telegram, uniquement dans les chats secrets, les messages normaux sont chiffrés côté serveur mais déchiffrables par Telegram).
-* Détenu par la fondation Signal qui vit des dons (Telegram société privée).
+* Chiffrement de bout en bout (sur Telegram, uniquement dans les chats secrets, les messages normaux étant chiffrés côté serveur mais déchiffrables par Telegram).
+* Détenu par la [fondation Signal](https://signalfoundation.org/fr/) qui vit des dons (Telegram société privée).
 * Reste centralisé (comme Telegram), ce qui implique une vulnérabilité potentielle.
 
-Je continue d’utiliser Telegram pour sa fluidité et son API. Chez Signal, l’impossibilité de déchiffrer les données échangées interdit leur commercialisation. Telegram jure ne pas le faire mais rien ne les empêchera un jour de changer d’avis.
+En parallèle de Signal, je continue d’utiliser Telegram pour sa fluidité et son API. Chez Signal, l’impossibilité de déchiffrer les données échangées interdit leur commercialisation. Telegram jure ne pas le faire mais rien ne les empêchera un jour de changer d’avis.
 
 Il existe des alternatives décentralisées comme [Element](https://element.io/fr), [Session](https://getsession.org/), [Berty](https://berty.tech/messenger), [Briar](https://briarproject.org/), [Skred](https://www.skred.app/)… L’enjeu n’est pas de choisir les services les plus populaires mais d’éviter les plus dangereux pour nos libertés.
 
