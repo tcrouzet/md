@@ -32,13 +32,13 @@ Voulez-vous encore toucher tout le monde et, par corollaire, être touché par t
 
 On en revient toujours à la nécessité d’éducation, de formation, de vulgarisation. Voilà pourquoi depuis vingt ans je continue d’écrire ce genre de textes. C’est aussi parce que nos messages ne passent pas que rien ne change. Mais comment pourraient-ils passer ? À ce stade, c’est impossible.
 
-En résumé, si on ne commence pas par changer d’outils, on n’a aucune chance de changer quoi que ce soit. Changer le monde demande un effort, bien plus grand que manifester, brûler un bus, agiter des pancartes ou même déposer un bulletin dans une urne (j’écrivais déjà cela dans *Le Peuple des connecteurs en 2006*, puis *Ya Bsta* en 2011).
+En résumé, si on ne commence pas par changer d’outils, on n’a aucune chance de changer quoi que ce soit. Changer le monde demande un effort, bien plus grand que manifester, brûler un bus, agiter des pancartes ou même déposer un bulletin dans une urne (j’écrivais déjà cela dans *Le Peuple des connecteurs en 2006*, puis dans *Ya Bsta* en 2011).
 
 À l’occasion de cette discussion, on m’a dit : « Changer d’outils ne va pas suffire. » Oui, pas tout de suite, mais déjà on sera moins exposés aux théories qui buzzent, aux solutions plaisantes mais trop simplistes et inefficaces. Changer d’outils revient à s’exposer à d’autres idées, plus diverses, moins consensuelles, moins séduisantes pour « tout le monde ». Nous avons besoin d’un éveil des consciences pas d’un panurgisme généralisé (ce à quoi se résume souvent une élection).
 
 Je n’ai pas de solution miracle. Je ne peux que répéter ce que j’ai entrepris depuis bien longtemps.
 
-1. Changer d’outils (depuis 2011 je passe très peu de temps sur les réseaux algorithmiques).
+1. Changer d’outils (depuis 2011 je passe peu de temps sur les réseaux algorithmiques).
 2. Changer de perspective (ce qui est une conséquence des nouveaux outils qui nous exposent à beaucoup plus de diversité).
 3. Changer de vie (ce qui est le plus difficile, qui implique d’agir tout de suite).
 
@@ -52,7 +52,7 @@ Le réel est compliqué, c’est bien tout le problème. Refuser de l’admettre
 
 [Lisez Ploum pour approfondir](https://ploum.net/) (et ce n’est pas parce que je suis un des personnages de son dernier roman). Il répète la même chose depuis des années. Il ne s’agit pas d’être parfait, mais au moins d’éviter les comportements potentiellement catastrophiques à moyen terme.
 
-### Notes
+### Notes Sur Whatsapp
 
 Si on est d’accord pour se séparer de WhatsApp, il reste à choisir une autre messagerie. D’un point de vue des valeurs, [Signal](https://signal.org/fr/) l’emporte haut la main (notamment sur son direct concurrent [Telegram](https://telegram.org/)) :
 
@@ -64,5 +64,7 @@ Si on est d’accord pour se séparer de WhatsApp, il reste à choisir une autre
 En parallèle de Signal, je continue d’utiliser Telegram pour sa fluidité et son API. Chez Signal, l’impossibilité de déchiffrer les données échangées interdit leur commercialisation. Telegram jure ne pas le faire mais rien ne les empêchera un jour de changer d’avis.
 
 Il existe des alternatives décentralisées comme [Element](https://element.io/fr), [Session](https://getsession.org/), [Berty](https://berty.tech/messenger), [Briar](https://briarproject.org/), [Skred](https://www.skred.app/), [Delta](https://delta.chat/fr/)… L’enjeu n’est pas de choisir les services les plus populaires mais d’éviter les plus dangereux pour nos libertés.
+
+Mais attention si les messageries instantanées aident à s’organiser, elles ne sont généralement pas un vecteur de viralité. La priorité : quitter les réseaux sociaux algorithmiques, ceux qui vont monter d’odieuses mayonnaises.
 
 #netculture #y2025 #2025-9-11-18h00
