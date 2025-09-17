@@ -2,7 +2,7 @@
 
 ![Ma main](_i/2025-09-11-171614.webp)
 
-Ces derniers jours, à deux reprises, j’ai entendu : « C’est le moyen \[les réseaux sociaux algorithmiques et leurs services de collecte de données] de toucher tout le monde. »
+Ces derniers jours, à deux reprises, j’ai entendu : « C’est le moyen \[les réseaux sociaux avec algorithmiques prescripteurs et leurs services de collecte de données] de toucher tout le monde. »
 
 La première fois, quand je râle parce que les copains du club vélo ne cessent de créer des groupes WhatsApp. Je les menace de les quitter s’ils ne changent pas de messageries instantanées à brève échéance. La seconde fois, c’est à l’occasion du mouvement bloquons tout du 10 septembre, quand je vois les contestataires anticapitalistes, antilibéraux, antigouvernements, antiriches s’organiser avec les outils les plus invasifs et liberticides jamais inventés par le capitalisme, sous prétexte qu’ils sont les plus simples à utiliser.
 
@@ -18,13 +18,13 @@ Vous croyez que ça vaut toujours la peine de pouvoir toucher tout le monde ? V
 
 Le cas du 10 septembre est symptomatique d’une grave crise. Comment croire s’opposer à un système, le capitalisme, en usant des outils les plus invasifs et liberticides jamais inventés par le capitalisme ? Est-ce raisonnable de penser, ne serait-ce qu’une seconde, qu’il est possible de changer quoi que ce soit de cette façon — ce dont étaient persuadés les manifestants du 10 de toute évidence ?
 
-Dans [une conversation lancée sur Mastodon](https://mamot.fr/@tcrouzet/115179829173868768), un réseau non algorithmique et non privatif, quelques réactions reprennent mon argument.
+Dans [une conversation lancée sur Mastodon](https://mamot.fr/@tcrouzet/115179829173868768), un réseau non manipulé algorithmiquement et non privatif, quelques réactions reprennent mon argument.
 
 [Ploum](https://mamot.fr/@ploum/115184350723536241) : « Se soumettre aux outils qui nous oppressent pour prétendre s’organiser contre l’oppression n’est qu’une illusion, un exutoire créé spécifiquement pour libérer les pulsions sans mettre en danger le système. C’est le syndrome du t-shirt Che Guevara made in China mais multiplié par mille. »
 
 [dbelveze](https://mamot.fr/@dbelveze/115184523957779810), cite [*Q comme Qomplot*](https://luxediteur.com/catalogue/q-comme-qomplot/) de Wu Ming : « L’utilisation prédominante de Facebook par une partie du mouvement \[de gauche] a provoqué une grave discontinuité. Au nom de la "facilité", non seulement on a renoncé à "rejeter" et à innover par rapport au mainstream, mais on s’est placés à la merci des diktats politiques, des caprices algorithmiques et des "conditions d’utilisation" de la plateforme. Une situation précaire et vulnérable au chantage. »
 
-Les services algorithmiques ne font que nous donner une illusion de puissance dans le but de mieux nous bourrer le crâne d’insanités, souvent mises en avant par les algorithmes non pour leur contenu politique mais parce qu’elles captent l’attention et génèrent du clic. En gros, quand un truc monte en mayonnaise sur les réseaux sociaux, il a souvent un caractère provocant, clivant, extrême… Jamais ses qualités propres ne le font émerger. C’est son pouvoir addictif immédiatement descellé dès les premiers frémissements qui importe. Croyez-vous changer le monde avec des mèmes aussi grossiers ? N’est-on pas en train de vous attirer vers la lumière comme des insectes ? J’ai bien peur que oui. On vous vend des solutions erronées (j’aimerais croire aux baguettes magiques).
+Les services algorithmiques ne font que nous donner une illusion de puissance dans le but de mieux nous bourrer le crâne d’insanités, souvent mises en avant non pour leur contenu politique mais parce qu’elles captent l’attention et génèrent du clic. En gros, quand un truc monte en mayonnaise sur les réseaux sociaux, il a souvent un caractère provocant, clivant, extrême… Jamais ses qualités propres ne le font émerger. C’est son pouvoir addictif immédiatement descellé dès les premiers frémissements qui importe. Croyez-vous changer le monde avec des mèmes aussi grossiers ? N’est-on pas en train de vous attirer vers la lumière comme des insectes ? J’ai bien peur que oui. On vous vend des solutions erronées (j’aimerais croire aux baguettes magiques).
 
 Voulez-vous encore toucher tout le monde et, par corollaire, être touché par tout le monde ? Voulez-vous continuer d’être manipulé ? Ça vous va ? Si vous commencez à douter, vous n’avez pas de gros sacrifices à faire. Il vous suffit de commencer par basculer sur des services non algorithmiques.
 
@@ -32,11 +32,11 @@ Voulez-vous encore toucher tout le monde et, par corollaire, être touché par t
 
 On en revient toujours à la nécessité d’éducation, de formation, de vulgarisation. Voilà pourquoi depuis vingt ans je continue d’écrire ce genre de textes. C’est aussi parce que nos messages ne passent pas que rien ne change. Mais comment pourraient-ils passer ? À ce stade, c’est impossible.
 
-En résumé, si on ne commence pas par changer d’outils, on n’a aucune chance de changer quoi que ce soit. Changer le monde demande un effort, bien plus grand que manifester, brûler un bus, agiter des pancartes ou même déposer un bulletin dans une urne (j’écrivais déjà cela dans *Le Peuple des connecteurs en 2006*, puis dans *Ya Bsta* en 2011).
+En résumé, si on ne commence pas par changer d’outils, on n’a aucune chance de changer quoi que ce soit. Changer le monde demande un effort, bien plus grand que manifester, brûler un bus, agiter des pancartes ou même déposer un bulletin dans une urne (j’écrivais déjà cela dans *Le Peuple des connecteurs en 2006*, puis dans *Ya Basta* en 2011).
 
 À l’occasion de cette discussion, on m’a dit : « Changer d’outils ne va pas suffire. » Oui, pas tout de suite, mais déjà on sera moins exposés aux théories qui buzzent, aux solutions plaisantes mais trop simplistes et inefficaces. Changer d’outils revient à s’exposer à d’autres idées, plus diverses, moins consensuelles, moins séduisantes pour « tout le monde ». Nous avons besoin d’un éveil des consciences pas d’un panurgisme généralisé (ce à quoi se résume souvent une élection).
 
-Je n’ai pas de solution miracle. Je ne peux que répéter ce que j’ai entrepris depuis bien longtemps.
+Je n’ai pas de solution miracle. Je ne peux que répéter ce que j’ai entrepris depuis longtemps.
 
 1. Changer d’outils (depuis 2011 je passe peu de temps sur les réseaux algorithmiques).
 2. Changer de perspective (ce qui est une conséquence des nouveaux outils qui nous exposent à beaucoup plus de diversité).
@@ -52,7 +52,7 @@ Le réel est compliqué, c’est bien tout le problème. Refuser de l’admettre
 
 [Lisez Ploum pour approfondir](https://ploum.net/) (et ce n’est pas parce que je suis un des personnages de son dernier roman). Il répète la même chose depuis des années. Il ne s’agit pas d’être parfait, mais au moins d’éviter les comportements potentiellement catastrophiques à moyen terme.
 
-### Notes Sur Whatsapp
+### Notes sur Whatsapp
 
 Si on est d’accord pour se séparer de WhatsApp, il reste à choisir une autre messagerie. D’un point de vue des valeurs, [Signal](https://signal.org/fr/) l’emporte haut la main (notamment sur son direct concurrent [Telegram](https://telegram.org/)) :
 
