@@ -27,7 +27,7 @@ Pour me suivre, vous en êtes réduit à l’action…
 1. En achetant mes livres en librairies.
 2. En vous abonnant [à ma newsletter principale ou à ma newsletter vélo](https://tcrouzet.com/page/abonnement-par-mail/).
 3. En suivant [mes fils RSS](https://tcrouzet.com/page/abonnement-par-mail/).
-4. En suivant [le compte Mastodon de mes publications](https://mastodon.social/@newscrouzet) (qui fera simplement du push des nouveaux articles — alternative au RSS).
+4. En me suivant sur [Mastodon](https://mamot.fr/@tcrouzet) où j’anoncerai une seule fois la publication des nouveaux articles (j’ai tenté de créer un compte dédié à l’annonce mais ça s’est avéré impraticable à cause des commentaires).
 5. En me lisant sur [mon blog](https://tcrouzet.com/) et [ses miroirs](https://static.tcrouzet.com/).
 6. Voire [en me lisant](gemini://gemini.tcrouzet.com/) avec un [navigateur Gemini](https://gmi.skyjake.fi/lagrange/).
 
