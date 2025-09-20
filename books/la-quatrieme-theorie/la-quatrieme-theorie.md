@@ -1,30 +1,30 @@
 ---
 date: 2013-03-27
-genre: roman
+genre: imaginaire
 isbn: 9782213672342
 isbne: B00BXF7CJ8
 editor: Fayard
 baseline: Un mobile sonne et tout bascule
 exergue: Un James Bond débridé
 lire: /2013/03/21/la-quatrieme-theorie-extraits-gratuits/
-prix: 19.0
+prix: 19
 eprix: 14.99
 shops:
- - http://www.amazon.fr/La-Quatri%C3%A8me-Theorie-Crouzet-T/dp/2213672342
- - http://livre.fnac.com/a5251213/Thierry-Crouzet-La-quatrieme-theorie
- - http://www.decitre.fr/livres/la-quatrieme-theorie-9782213672342.html
- - http://www.cultura.com/livre/policier/thierry-crouzet,la-quatri%C3%A8me-th%C3%A9orie,4752714.prd
- - http://www.parislibrairies.fr/detaillivre.php?gencod=9782213672342
- - http://www.librest.com/tous-les-livres/la-quatrieme-theorie,1563512-0.html?auteur=Thierry
- - http://www.librairiedialogues.fr/livre/3789453-la-quatrieme-theorie-thierry-crouzet-fayard
- - http://www.lalibrairie.com/tous-les-livres/la-quatrieme-theorie-thierry-crouzet-9782213672342.html
- - http://www.sauramps.com/la-quatrieme-theorie-2660820.html
- - http://www.arbrealettres.com/9782213672342-la-quatrieme-theorie-thierry-crouzet/
+  - http://www.amazon.fr/La-Quatri%C3%A8me-Theorie-Crouzet-T/dp/2213672342
+  - http://livre.fnac.com/a5251213/Thierry-Crouzet-La-quatrieme-theorie
+  - http://www.decitre.fr/livres/la-quatrieme-theorie-9782213672342.html
+  - http://www.cultura.com/livre/policier/thierry-crouzet,la-quatri%C3%A8me-th%C3%A9orie,4752714.prd
+  - http://www.parislibrairies.fr/detaillivre.php?gencod=9782213672342
+  - http://www.librest.com/tous-les-livres/la-quatrieme-theorie,1563512-0.html?auteur=Thierry
+  - http://www.librairiedialogues.fr/livre/3789453-la-quatrieme-theorie-thierry-crouzet-fayard
+  - http://www.lalibrairie.com/tous-les-livres/la-quatrieme-theorie-thierry-crouzet-9782213672342.html
+  - http://www.sauramps.com/la-quatrieme-theorie-2660820.html
+  - http://www.arbrealettres.com/9782213672342-la-quatrieme-theorie-thierry-crouzet/
 eshops:
- - http://www.amazon.fr/La-quatrième-théorie-ebook/dp/B00BXF7CJ8
- - https://itunes.apple.com/fr/book/la-quatrieme-theorie/id623788042
- - https://play.google.com/store/books/details/Thierry_Crouzet_La_quatri%C3%A8me_th%C3%A9orie?id=TxZ7aoyDAsgC
- -  http://www.epagine.fr/9782213676418-la-quatrieme-theorie-thierry-crouzet/
+  - http://www.amazon.fr/La-quatrième-théorie-ebook/dp/B00BXF7CJ8
+  - https://itunes.apple.com/fr/book/la-quatrieme-theorie/id623788042
+  - https://play.google.com/store/books/details/Thierry_Crouzet_La_quatri%C3%A8me_th%C3%A9orie?id=TxZ7aoyDAsgC
+  - http://www.epagine.fr/9782213676418-la-quatrieme-theorie-thierry-crouzet/
 ---
 
 # La quatrième théorie

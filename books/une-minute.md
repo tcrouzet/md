@@ -1,7 +1,7 @@
 ---
 baseline: La minute où l'humanité découvre qu'elle n'est plus seule dans l'univers
 date: 2022-05-01
-genre: roman
+genre: imaginaire
 isbn: 978-1-9793-1135-9
 isbne: 978-2-9193-5828-1
 editor: PVH éditions
@@ -9,7 +9,7 @@ exergue: Une révélation de Sara Cash, l'Intubeuse aux milliards de vues
 lire: /2021/09/26/one-minute-extraits/
 prix: 14.99
 shops:
- - https://www.amazon.fr/One-Minute-communion-Thierry-Crouzet/dp/2940609195/
+  - https://www.amazon.fr/One-Minute-communion-Thierry-Crouzet/dp/2940609195/
 ---
 
 # One minute
@@ -42,7 +42,7 @@ Un jour en 2011, alors que je me sevrais du Net pour me guérir d’un burnout n
 
 *One Minute* a été [écrit en direct sur Wattpad](https://www.wattpad.com/story/29694130) en 2015 et a recueilli plus de 230 000 lectures. En novembre 2015, le roman a été le sujet d’une [étude théorique](http://nt2.uqam.ca/fr/cahiers-virtuels/article/one-minute-de-thierry-crouzet-metamorphoses-dun-texte-dun-dispositif-lautre) par Oriane Deseilligny, chercheuse à la Sorbonne. J\'ai retravaillé le roman en 2021 pour préparer son édition définitive en quatre tomes.
 
-###Le projet 2015
+### Le projet 2015
 
 Un jour, peut-être pas si lointain à la vitesse où nous découvrons des exoplanètes, nous apprendrons que nous ne sommes pas seuls dans l’univers. Alors que se passera-t-il dans les consciences à ce moment précis ?
 

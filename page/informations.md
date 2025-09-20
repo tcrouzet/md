@@ -286,7 +286,7 @@ Juillet, début de *La Zone*.
 
 [Présentation presse](presentations-presse.md)
 
-[Bibliographie](/bibliographie/)
+[Bibliographie](/bibliographie/) ([livres classés](/page/livres))
 
 [En librairies](en-librairie.md)
 

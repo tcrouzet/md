@@ -1,9 +1,9 @@
 ---
 baseline: Ni femme ni homme, ni toi ni moi, ils bousculent le monde binaire
 date: 2025-06-10
-genre: roman
+genre: imaginaire
 isbn: 9782959039263
-isbne: 
+isbne:
 editor: À la flamme
 exergue: Un roman d’amour fusionnel à la frontière du noir et du fantastique
 lire: https://alaflamme.fr/wp-content/uploads/2025/02/Epicenes-premieres-pages.pdf

@@ -3,7 +3,7 @@ baseline: Quand une IA veut devenir littéraire
 date: 2024-02-14
 editor: Autopublication
 exergue: Une exploration, que j'espère drolatique, et parfois effrayante, de la puissance créative des IA
-genre: roman
+genre: imaginaire
 isbn: 9798879567939
 isbne: 9782919358199
 lire: https://tw5.immateriel.fr/wiki/7switch/book/aHR0cHM6Ly9jYXRhbG9ndWUuaW1tYXRlcmllbC5mci9yZXNvdXJjZXMvYzQvZmEvNTY0ZDU1MWM5N2YzOTY4MDk4OGQzZTQ5NDQ0NS5lcHVi

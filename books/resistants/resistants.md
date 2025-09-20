@@ -1,7 +1,7 @@
 ---
 baseline: Le thriller qui va changer votre regard sur les antibiotiques
 date: 2017-04-19
-genre: roman
+genre: imaginaire
 isbn: 979-10-281-1042-0
 isbne: B01MU7JWV5
 editor: Bragelonne
@@ -10,24 +10,24 @@ lire: https://www.facebook.com/notes/thierry-crouzet/r%C3%A9sistants-les-trois-p
 prix: 16.9
 eprix: 12.99
 shops:
- - https://www.amazon.fr/R-sistants-Thierry-Crouzet/dp/B01NBN38R7/
- - http://livre.fnac.com/a10308925/Thierry-Crouzet-Resistants
- - https://www.leslibraires.fr/livre/11046649-resistants-thierry-crouzet-bragelonne
- - https://www.mollat.com/livres/2022975/thierry-crouzet-resistants
- - http://www.decitre.fr/livres/resistants-9791028110420.html
- - http://www.sauramps.com/resistants-5769268.html
- - http://www.cultura.com/resistants-9791028110420.html
- - https://www.librairiedialogues.fr/livre/11046649-resistants-thierry-crouzet-bragelonne
- - https://www.lalibrairie.com/tous-les-livres/resistants-thierry-crouzet-9791028110420.html
- - https://www.parislibrairies.fr/livre/9791028110420-resistants-thierry-crouzet/
- - https://www.placedeslibraires.fr/livre/9791028110420-resistants-thierry-crouzet/
- - https://www.librest.com/tous-les-livres/resistants-thierry-crouzet-9791028110420.html
+  - https://www.amazon.fr/R-sistants-Thierry-Crouzet/dp/B01NBN38R7/
+  - http://livre.fnac.com/a10308925/Thierry-Crouzet-Resistants
+  - https://www.leslibraires.fr/livre/11046649-resistants-thierry-crouzet-bragelonne
+  - https://www.mollat.com/livres/2022975/thierry-crouzet-resistants
+  - http://www.decitre.fr/livres/resistants-9791028110420.html
+  - http://www.sauramps.com/resistants-5769268.html
+  - http://www.cultura.com/resistants-9791028110420.html
+  - https://www.librairiedialogues.fr/livre/11046649-resistants-thierry-crouzet-bragelonne
+  - https://www.lalibrairie.com/tous-les-livres/resistants-thierry-crouzet-9791028110420.html
+  - https://www.parislibrairies.fr/livre/9791028110420-resistants-thierry-crouzet/
+  - https://www.placedeslibraires.fr/livre/9791028110420-resistants-thierry-crouzet/
+  - https://www.librest.com/tous-les-livres/resistants-thierry-crouzet-9791028110420.html
 eshops:
- - https://itunes.apple.com/fr/book/resistants/id1192244463
- - https://www.amazon.fr/Résistants-Thierry-Crouzet-ebook/dp/B01MU7JWV5/
- - https://www.kobo.com/fr/fr/ebook/resistants-1
- - https://www.bookeenstore.com/ebook/9791028107659/resistants-thierry-crouzet
- - https://www.7switch.com/fr/ebook/9791028107659/resistants
+  - https://itunes.apple.com/fr/book/resistants/id1192244463
+  - https://www.amazon.fr/Résistants-Thierry-Crouzet-ebook/dp/B01MU7JWV5/
+  - https://www.kobo.com/fr/fr/ebook/resistants-1
+  - https://www.bookeenstore.com/ebook/9791028107659/resistants-thierry-crouzet
+  - https://www.7switch.com/fr/ebook/9791028107659/resistants
 ---
 
 # Résistants
