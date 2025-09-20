@@ -1,6 +1,6 @@
 ---
 date: 2012-02-27
-genre: récits
+genre: récit
 isbn: 9781537583648
 isbne: 9782919358397
 editor: Publie.net, puis autopublication
@@ -9,11 +9,11 @@ exergue: Et autres récits
 prix: 5.99
 eprix: 2.99
 shops:
- - https://www.amazon.fr/Baby-Foot-Thierry-Crouzet/dp/1537583646/
+  - https://www.amazon.fr/Baby-Foot-Thierry-Crouzet/dp/1537583646/
 eshops:
- - https://www.amazon.fr/Baby-Foot-autres-Thierry-Crouzet-ebook/dp/B00I05OX8W/
- - https://itunes.apple.com/fr/book/id805519374
- - https://store.kobobooks.com/fr-fr/ebook/baby-foot-3
+  - https://www.amazon.fr/Baby-Foot-autres-Thierry-Crouzet-ebook/dp/B00I05OX8W/
+  - https://itunes.apple.com/fr/book/id805519374
+  - https://store.kobobooks.com/fr-fr/ebook/baby-foot-3
 ---
 
 # Baby-foot

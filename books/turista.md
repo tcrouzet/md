@@ -1,6 +1,6 @@
 ---
 date: 1999-12-01
-genre: journal
+genre: récit
 isbn: 9781986627740
 isbne: 9781446154052
 editor: autopublication
@@ -9,12 +9,12 @@ lire: http://librairie.immateriel.fr/fr/read_book/9782919358441/
 prix: 9.99
 eprix: 4.99
 shops:
- - https://www.amazon.fr/dp/1986627748
+  - https://www.amazon.fr/dp/1986627748
 eshops:
- - http://www.kobobooks.com/ebook/a/book-ZotKTyCtfkSZkTkF4TqCzg/page1.html
- - https://www.7switch.com/fr/ebook/9782919358441/turista
- - https://itunes.apple.com/fr/book/id647348760
- - http://www.amazon.fr/Turista-ebook/dp/B00CQ9OZJU/
+  - http://www.kobobooks.com/ebook/a/book-ZotKTyCtfkSZkTkF4TqCzg/page1.html
+  - https://www.7switch.com/fr/ebook/9782919358441/turista
+  - https://itunes.apple.com/fr/book/id647348760
+  - http://www.amazon.fr/Turista-ebook/dp/B00CQ9OZJU/
 ---
 
 # Turista
