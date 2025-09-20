@@ -1,21 +1,21 @@
 ---
 baseline: Pourquoi le gel hydroalcoolique peut sauver votre vie et celle de vos proches.
 date: 2021-09-14
-genre: essai
+genre: récit
 isbn: 9798457897786
 isbne: 9782919358229
 editor: Autopublication
 exergue: Un éloge du don et de la générosité.
-prix: 12.0
+prix: 12
 eprix: 9.99
 shops:
- - https://www.amazon.fr/dp/B09CRKKKTT
+  - https://www.amazon.fr/dp/B09CRKKKTT
 eshops:
- - https://www.amazon.fr/Adapter-pour-Adopter-geste-sauve-ebook/dp/B09D38M6WM/
- - https://books.apple.com/fr/book/adapter-pour-adopter/id1581932541
- - https://shop.vivlio.com/product/9782919358229_9782919358229_2/adapter-pour-adopter
- - https://www.kobo.com/fr/fr/ebook/adapter-pour-adopter
- - https://play.google.com/store/books/details/Thierry_Crouzet_Adapter_pour_Adopter?id=oHo-EAAAQBAJ
+  - https://www.amazon.fr/Adapter-pour-Adopter-geste-sauve-ebook/dp/B09D38M6WM/
+  - https://books.apple.com/fr/book/adapter-pour-adopter/id1581932541
+  - https://shop.vivlio.com/product/9782919358229_9782919358229_2/adapter-pour-adopter
+  - https://www.kobo.com/fr/fr/ebook/adapter-pour-adopter
+  - https://play.google.com/store/books/details/Thierry_Crouzet_Adapter_pour_Adopter?id=oHo-EAAAQBAJ
 ---
 
 # Adapter pour Adopter
