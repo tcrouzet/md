@@ -2,7 +2,7 @@
 
 ![17 septembre](_i/2025-09-17-200453-lamaison.webp)
 
-*Ma sélection du dimanche : **18** liens et une photo prise depuis ma terrasse. La semaine prochaine pas ne newsletter, je serai sur mon vélo.*
+*Ma sélection du dimanche : **18** liens et une photo prise depuis ma terrasse. Le week-end prochain pas de newsletter, je serai sur mon vélo.*
 
 ## Sciences et Santé
 
