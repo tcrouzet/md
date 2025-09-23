@@ -2,7 +2,7 @@
 
 ![Fuck you](_i/2025-09-22-092341.webp)
 
-Vous les croisez tous les jours sans le savoir, les lisez, les écoutez, les regardez, croyant qu’ils vous apprécient alors qu’ils ne s’intéressent qu’à vous compter parmi leurs adorateurs. Ils ramassent tout ce qui traîne, s’en nourrissent, prospèrent grâce à nos faiblesses. Mais qui sont-ils ? Pourquoi saccagent-ils l’internet social pour nous le rendre invivable ?
+Nous les croisons tous les jours sans le savoir, les lisons, les écoutons, les regardons, croyant qu’ils nous apprécient alors qu’ils ne s’intéressent qu’à nous compter parmi leurs adorateurs. Ils ramassent tout ce qui traîne, s’en nourrissent, prospèrent grâce à nos faiblesses. Mais qui sont-ils ? Pourquoi saccagent-ils l’internet social pour nous le rendre invivable ?
 
 [En 2009, j’ai entrepris de débusquer les charognards sur Twitter](https://tcrouzet.com/2009/09/24/qui-a-la-plus-grosse-quequette-sur-twitter/). Leur technique était primaire (mais en rien démodé aujourd’hui) :
 
