@@ -54,7 +54,7 @@ C’est comme s’il y avait un lien entre la grandeur des oreilles et la capaci
 1. Les charognards dévorent tout ce qui traîne pour améliorer leurs scores.
 2. Les plateformes entretiennent la compétition entre eux, mettant en évidence les scores.
 3. Les observateurs se satisfont des scores pour décider qui fait la pluie et le beau temps dans notre monde.
-4. Nous-mêmes, souvent, ne faisons pas plus d’effort.
+4. Nous-mêmes, souvent, ne faisons pas davantage d’effort.
 
 Ce biais quantitatif et compétitif est destructeur de valeur (et d’environnement). Sans virage vers le qualitatif, les charognards continueront leurs maraudes et achèveront de transformer le net en un espace de fausses réputations, un grand mensonge planétaire, nous précipitant dans un factice généralisé. Je connais ces mécanismes depuis longtemps, mais désormais ils m’encolèrent : chaque fois que je me sens visé, comme sur Substack, j’ai l’impression d’être agressé par des escrocs.
 
