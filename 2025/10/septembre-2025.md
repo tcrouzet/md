@@ -83,6 +83,7 @@ Je ne bois pas d’alcool. J’ai dit que quand Isa me demandait d’en acheter 
 Est-ce que les gens marchent dans la rue en affichant fièrement leur QI ou leur culture ou leur sensibilité ? Je ne crois pas, mais certains beaux et certains riches s’en donnent à cœur joie, peut-être pour se repérer mutuellement. Et nous serions les spectateurs d’une danse nuptiale des plus primitives.
 
 ---
+
 Tim vit à Paris depuis quatre ans et n’était jamais allé à Montmartre. J’ai voulu lui montrer le quartier où nous avons vécu avec Isa durant un an avant sa naissance. Arrivés en haut du tertre, impossible de marcher tant la foule était danse. Nous avons dû nous enfuir.
 
 ---
@@ -93,15 +94,15 @@ Nous allons voir le dernier Klapisch au cinéma. Nous ne savons rien de *La Venu
 
 ### Dimanche 7, Paris
 
-À la radio durant l’été, j’ai entendu le navigateur Jean Le Cam déclarer : « Une belle histoire n’est belle que si elle est partagée. » J’ai un temps mis ce texte en exergue de *La Zone*, mais je lui préfère désormais une citation de Bachelard extraite de *La poétique de l’espace* (je fais le contraire de ce que Bachelard préconise). D’ailleurs il m’apparaît quasi incompréhensible. Il tourne en rond, me soule avec ses références fumeuses à la psychanalyse, on est en plein délire autour de concepts d’une mollesse extrême. Je glane des bribes qui me parlent dans un brouillard épais. *La poétique de la rêverie* est encore plus abscons, je me suis contenté de le survoler sans rien en tirer. Bachelard parle d’un processus au lieu de le mettre en œuvre.
+À la radio, durant l’été, j’ai entendu le navigateur Jean Le Cam déclarer : « Une belle histoire n’est belle que si elle est partagée. » J’ai un temps mis ce texte en exergue de *La Zone*, mais je lui préfère désormais une citation de Bachelard extraite de *La poétique de l’espace* (je fais le contraire de ce que Bachelard préconise). D’ailleurs il m’apparaît quasi incompréhensible. Il tourne en rond, me soule avec ses références fumeuses à la psychanalyse, on est en plein délire autour de concepts d’une mollesse extrême. Je glane des bribes qui me parlent dans un brouillard épais. *La poétique de la rêverie* est encore plus abscons, je me suis contenté de le survoler sans rien en tirer. Bachelard parle d’un processus au lieu de le mettre en œuvre.
 
-### Lundi 8, Balaruc
+### Lundi 8, TGV
 
-![Dentelles de Montmirail depuis TGV](_i/2025-09-08-090505-Crest.webp)
+![Dentelles de Montmirail](_i/2025-09-08-090505-Crest.webp)
 
-![Dentelles de Montmirail depuis TGV](_i/2025-09-08-090509-Crest.webp)
+![Dentelles de Montmirail](_i/2025-09-08-090509-Crest.webp)
 
-![Dentelles de Montmirail depuis TGV](_i/2025-09-08-090510-Crest.webp)
+![Dentelles de Montmirail](_i/2025-09-08-090510-Crest.webp)
 
 ### Mardi 9, Balaruc
 
@@ -123,7 +124,7 @@ Dernier coup de chaleur, baignade dans l’étang avec Tim, dans l’eau limpide
 
 ### Mardi 16, Balaruc
 
-J’ai quitté définitivement Facebook en mars, mais on me dit que j’y suis encore (d’ailleurs je reçois toujours des mails de relance). Je viens de relancer la suppression totale, à voir si dans un mois j’y serai encore. La difficulté à quitter ces sites devrait alerter leurs utilisateurs.
+J’ai quitté définitivement Facebook en mars, mais on me dit que j’y suis encore (d’ailleurs je reçois toujours des mails d’eux). Je viens de relancer la suppression totale, à voir si dans un mois j’y serai encore. La difficulté à quitter ces sites devrait alerter leurs utilisateurs.
 
 ---
 
@@ -167,6 +168,8 @@ Je me sens primitif, un homme du passé, dépassé. On me regardera avec nostalg
 
 Hier, je découvre que les yuccas du jardin sont en fleur, une première depuis vingt-cinq ans. Puis cet après-midi, lors de mon tour de l’étang à vélo, je remarque la même chose le long du lido. Explication : les yuccas ne fleurissent que quand la météo est favorable (chaleur, luminosité, des nuits fraîches de temps à autre) et après plusieurs années de croissance. Cela dit leurs fleurs sont d’un kitsch détestable.
 
+![Yucca](_i/2025-09-22-170134-lamaison.webp)
+
 ### Samedi 20, Balaruc
 
 Je me réveille avec un mail de LinkedIn. Je croyais avoir quitté le réseau, mais comme sur Facebook mon profil semble toujours là. Le comportement de ces outils est odieux, voire franchement inquiétant. Je clique sur le mail pour tenter de me désabonner à nouveau et je découvre que c’est une astuce pour me faire créer un nouveau compte automatiquement. Pour détruire ce compte, je dois en terminer la création en saisissant un mot de passe, ce que je ne fais pas. Quelle arnaque.
@@ -175,15 +178,15 @@ Je me réveille avec un mail de LinkedIn. Je croyais avoir quitté le réseau, m
 
 Dans le jardin, la [renouée des oiseaux](https://fr.wikipedia.org/wiki/Renou%C3%A9e_des_oiseaux) a poussé cet été devant la maison alors que toutes les plantes non arrosées brûlaient sous le soleil. Je vais tenter de la sélectionner dans l’espoir qu’un peu de verdure traverse les canicules.
 
-![Yucca](_i/2025-09-22-170134-lamaison.webp)
+![Renouée des oiseaux](_i/2025-09-22-164626-lamaison.webp)
 
 ### Mardi 23, Balaruc
 
-Je reçois un mail impersonnel d’un jeune dessinateur qui recherche un auteur avec qui collaborer. Un lien vers des dessins peu convaincants. Je lui demande pourquoi il s’adresse à moi. Réponse : c’est un mailing. Je lui conseille de d’abord lire des auteurs, puis de leur proposer une collaboration s’il se sent en phase avec leur univers. Pour me ficher de lui, je joins à ma réponse le pavé de *One Minute*. Bien sûr, aucune réponse.
+Je reçois un mail impersonnel d’un jeune dessinateur qui recherche un auteur avec qui collaborer. Un lien vers des dessins peu convaincants. Je lui demande pourquoi il s’adresse à moi. Réponse : c’est un mailing. Je lui conseille de lire des auteurs, puis de leur proposer une collaboration s’il se sent en phase avec leur univers. Pour me ficher de lui, je joins à ma réponse le pavé de *One Minute*. Bien sûr, aucune réponse.
 
 ### Mercredi 24, Balaruc
 
-Un septembre hivernal, un mistral de novembre, l’étang court sous les fenêtres et porte en moi une immense fatigue. Plus l’énergie de travailler à *La Zone*, sorte d’affaissement et dire que samedi j’organise ma randonnée gravel de 727 km avec plus de 90 participants. Le premier coup de froid m’est toujours fatal. Je ne devrais pas employer ce mot de fatal à tort et à travers.
+Un septembre soudain hivernal, un mistral de novembre, l’étang court sous les fenêtres et porte en moi une immense fatigue. Plus l’énergie de travailler à *La Zone*, sorte d’affaissement et dire que samedi j’organise ma randonnée gravel de 727 km avec plus de 90 participants. Le premier coup de froid m’est toujours fatal. Je ne devrais pas employer ce mot de fatal à tort et à travers.
 
 ### Vendredi 26, Balaruc
 
