@@ -31,4 +31,4 @@ Rush questionne ce qui fait de nous des humains quand les machines excellent dan
 
 ![Planche de couverture](_i/rush_planche.webp)
 
-#book #y2025 #2025-5-14-19h00
+#book #y2025 #2025-10-2-19h00
