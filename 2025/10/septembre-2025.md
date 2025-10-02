@@ -198,7 +198,7 @@ Un septembre soudain hivernal, un mistral de novembre, l’étang court sous les
 
 Journée merveilleuse, fraîche le matin puis de plus en plus délicieuse. Nous traversons le nord du Gard par de vieux chemins parfois cabossés, de longues pistes, de petites routes. Nous nous arrêtons déjeuner à Sauve, puis rejoignons Ganges et attaquons la longue montée vers le Larzac. Je manque soudain de force. Arrivé à Montdardier, je grignote devant l’épicerie, au soleil. Il fait plus de 25° et je tremble de froid. J’ai attrapé un truc. La traversée du plateau, la plongée et la remontée du cirque de Navacelles sont un cauchemar malgré la lumière sublime.
 
-### Mardi 30
+### Mardi 30, Balaruc
 
 Nuit fiévreuse. Impossible de continuer avec les copains. Je rentre à la maison par la route : 65 kilomètres interminables. Je retrouve Isa bien plus souffrante que moi, heureusement sous les bons soins d’Axelle venue s’occuper d’elle durant mon absence. Nous avons de la chance d’avoir des amis. Quand plus rien ne va, il ne reste que les amis. Tout le reste s’efface.
 
