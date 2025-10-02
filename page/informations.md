@@ -60,31 +60,31 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 
 2002 - Création de bonblog.com, plateforme de blog où je crachote quelques textes, sans conviction (je suis trop dans *Ératosthène*).
 
-*[2005 - Articles](/2005)*
+[**2005 - Articles**](/2005)
 
 Mars, naissance de Timothée.
 
 Octobre, ouverture de [tcrouzet.com](/).
 
-*[2006 - Articles](/2006)*
+[**2006 - Articles**](/2006)
 
 2006 - [*Le peuple des connecteurs*](../books/le-peuple/le-peuple-des-connecteurs.md), Bourin.
 
-*[2007 - Articles](/2007)*
+[**2007 - Articles**](/2007)
 
 Janvier, [*Le cinquième pouvoir*](../books/cinquieme-pouvoir/le-cinquieme-pouvoir.md), écrit collaborativement, Bourin.
 
 Mai, naissance d’Émile.
 
-*[2008 - Articles](/2008)*
+[**2008 - Articles**](/2008)
 
 [*La quatrième théorie*](../books/la-quatrieme-theorie/la-quatrieme-theorie.md), roman sur Twitter.
 
-*[2009 - Articles](/2009)*
+[**2009 - Articles**](/2009)
 
 [*Les crapauds fous*](../books/les-crapauds-fous.md), un essai avorté.
 
-*[2010 - Articles](/2010)*
+[**2010 - Articles**](/2010)
 
 [*J’ai eu l’idée*](../books/id.md), Publie.net.
 
@@ -94,7 +94,7 @@ Mai, naissance d’Émile.
 
 [*Le monde de i*](../books/tune-caniveau.md), tentative d’une narration collaborative.
 
-*[2011 - Articles](/2011)*
+[**2011 - Articles**](/2011)
 
 *Ératosthène*, narration non-linéaire.
 
@@ -102,13 +102,13 @@ Mai, naissance d’Émile.
 
 [*La tune dans le caniveau*](../books/tune-caniveau.md), expérience d’édition collaborative.
 
-*[2012 - Articles](/2012)*
+[**2012 - Articles**](/2012)
 
 [*J’ai débranché*](../books/jai-debranche/jai-debranche.md), Fayard.
 
 [*Baby-Foot*](../books/baby-foot.md), Publie.net.
 
-*[2013 - Articles](/2013)*
+[**2013 - Articles**](/2013)
 
 Mars, [*La quatrième théorie*](../books/la-quatrieme-theorie/la-quatrieme-theorie.md), Fayard.
 
@@ -118,7 +118,7 @@ Novembre, [*Le send*](/2013/11/15/la-send-generation/), spécificité de l’éc
 
 Décembre, invité en Italie, j’écris *[Les confins du monde](../books/baby-foot.md)*.
 
-*[2014 - Articles](/2014)*
+[**2014 - Articles**](/2014)
 
 Mai, [*Le geste qui sauve*](../books/geste1/le-geste-qui-sauve.md), L’âge d’homme.
 
@@ -130,7 +130,7 @@ Octobre, [*Clitoria*](../books/clitoria.md), Thaulk.
 
 Octobre, [*Le blog comme rouleau*](/2014/10/26/ce-qui-manque-au-blog-ou-la-revolution-litteraire/), repenser le blog.
 
-*[2015 - Articles](/2015)*
+[**2015 - Articles**](/2015)
 
 [*One Minute*](../books/une-minute.md), feuilleton sur Wattpad.
 
@@ -138,13 +138,13 @@ Octobre, [*Le blog comme rouleau*](/2014/10/26/ce-qui-manque-au-blog-ou-la-revol
 
 Début de la publication en ligne de mon [*Carnet*](/tag/carnet-de-route/).
 
-*[2016 - Articles](/2016)*
+[**2016 - Articles**](/2016)
 
 *Résistants*, test d’un feuilleton sur Instagram.
 
 [*Mon revenu de base*](../books/mon-revenu-de-base.md), compilation d’articles, Thaulk.
 
-*[2017 - Articles](/2017)*
+[**2017 - Articles**](/2017)
 
 [*Résistants*](../books/resistants/resistants.md), Bragelonne.
 
@@ -158,7 +158,7 @@ Début de la publication en ligne de mon [*Carnet*](/tag/carnet-de-route/).
 
 [*Le best-seller comme contrainte*](http://www.revue-critique-de-fixxion-francaise-contemporaine.org/rcffc/article/view/fx15.16/1155), revue Fixxion.
 
-*[2018 - Articles](/2018)*
+[**2018 - Articles**](/2018)
 
 [*Géolecture, Nîmes*](../books/geolecture.md), sur les traces de Borges.
 
@@ -172,7 +172,7 @@ Octobre, novembre, deux nouvelles *Temps Zéro* et *La Chute*.
 
 Novembre, début de [*Born to Bike*](../books/borntobike.md).
 
-*[2019 - Articles](/2019)*
+[**2019 - Articles**](/2019)
 
 9 mai, sortie de [*L’homme qui ne comprenait pas les femmes*, Grand Angle](../books/lhomme-qui-ne-comprenait-pas-les-femmes.md).
 
@@ -184,7 +184,7 @@ Septembre-Octobre, écriture des *Ravissements*.
 
 Décembre, [*Une initiation au bikepacking*](../books/une-initiation-au-bikepacking.md), Thaulk.
 
-*[2020 - Articles](/2020)*
+[**2020 - Articles**](/2020)
 
 Janvier, j’écris un petit roman [*Les Silencieux*](../books/les-silencieux.md).
 
