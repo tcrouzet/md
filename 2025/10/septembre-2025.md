@@ -48,7 +48,7 @@ On m’a demandé de m’y présenter brièvement avant le début de la table ro
 
 ---
 
-Comme je m’y attendais, c’était un panier de crabes avec des éditeurs et la plupart des auditeurs convaincus de devoir se tenir à distance de l’IA, nouveau grand Satan (bien pratiquement accusé de participer au dérèglement climatique). J’étais donc le monstre de service ou le clown. J’ai fini par leur cracher que l’édition était un monde ringard, peureux, déconnecté du présent. On m’a demandé de mettre en œuvre des processus sans intérêt, dont je me suis détourné depuis deux ans (ce qui veut dire des siècles en temporalité numérique). J’ai tenté de leur dire que ce n’était pas la bonne façon de parler d’IA, mais leur véritable ambition était de démontrer que ça ne marchait pas. Ils m’ont tendu un piège.
+Comme je m’y attendais, c’était un panier de crabes avec des éditeurs et la plupart des auditeurs convaincus de devoir se tenir à distance de l’IA, nouveau grand Satan (accusé de participer au dérèglement climatique). J’étais donc le monstre de service ou le clown. J’ai fini par leur cracher que l’édition était un monde ringard, peureux, déconnecté du présent. On m’a demandé de mettre en œuvre des processus sans intérêt, dont je me suis détourné depuis deux ans (ce qui veut dire des siècles en temporalité numérique). J’ai tenté de leur dire que ce n’était pas la bonne façon de parler d’IA, mais leur véritable ambition était de démontrer que ça ne marchait pas. Ils m’ont tendu un piège.
 
 ---
 
@@ -72,19 +72,22 @@ Ces femmes, sans doute formatées par TikTok, marchent et se comportent comme si
 
 ### Samedi 6, Paris
 
-Le mois dernier j’ai écrit : « Nous devrions écrire que pour nous à l’exclusion de tout autre, à cette seule condition on peut aller au bout de soi et de ses déséquilibres. » En même temps, depuis mon passage dans le journalisme, j’ai appris à prendre en compte les lecteurs sans même y penser, je n’ai plus besoin de vous prendre en compte pour vous prendre en compte malgré moi. Mais je ne pense pas à vous quand j’écris, je vous retire de ma conscience, je suis seul face au texte et à moi-même. Ce n’est que lors des relectures que je coupe, reformule, me tends vers vous en un ultime effort (qui souvent me demande plus de temps et d’énergie que le premier jet).
+Le mois dernier j’ai noté : « Nous devrions écrire que pour nous à l’exclusion de tout autre, à cette seule condition on peut aller au bout de soi et de ses déséquilibres. » En même temps, depuis mon passage dans le journalisme, j’ai appris à prendre en compte les lecteurs sans même y penser, je n’ai plus besoin de vous prendre en compte pour vous prendre en compte. Mais je ne pense pas à vous quand j’écris, je vous retire de ma conscience, je suis seul face au texte et à moi-même. Ce n’est que lors des relectures que je coupe, reformule, me tends vers vous en un ultime effort (qui souvent me demande plus de temps et d’énergie que le premier jet).
 
 ---
 
-Je ne bois pas d’alcool. J’ai dit que quand Isa me demandait d’en acheter pour nos visiteurs, je n’en prenais pas de bio alors que j’achète du bio pour presque tout le reste. Bien sûr ça n’a pas plu à tout le monde. J’achète du bio pour deux raisons : par conscience écologique, par souci de notre santé (ce qui n’a pas empêché Isa de tomber malade). Il serait donc logique que je me remette à acheter des alcools bio pour les amis, parce que je tiens à leur santé, et toujours à l’environnement (et aussi à la santé des agriculteurs). Promis je vais le faire, mais j’en peux plus que l’alcool soit une obligation sociale, un prérequis en toute occasion. Ne pas acheter du bio était une façon de montrer mon désaccord. Un poison bio reste un poison. En produire reste en premier lieu une nuisance environnementale.
+Je ne bois pas d’alcool. J’ai dit que quand Isa me demandait d’en acheter pour nos visiteurs, je n’en prenais pas de bio alors que j’achète du bio pour presque tout le reste. Bien sûr ça n’a pas plu à tout le monde. J’achète du bio par conscience écologique et souci de notre santé (ce qui n’a pas empêché Isa de tomber malade). Il serait donc logique que je me remette à acheter des alcools bio pour les amis, parce que je tiens à leur santé, et toujours à l’environnement (et aussi à la santé des agriculteurs). Promis je vais le faire, mais j’en peux plus que l’alcool soit une obligation sociale, un prérequis en toute occasion. Ne pas acheter du bio était une façon de montrer mon désaccord. Un poison bio reste un poison. En produire reste en premier lieu une nuisance environnementale.
 
 ---
 
 Est-ce que les gens marchent dans la rue en affichant fièrement leur QI ou leur culture ou leur sensibilité ? Je ne crois pas, mais certains beaux et certains riches s’en donnent à cœur joie, peut-être pour se repérer mutuellement. Et nous serions les spectateurs d’une danse nuptiale des plus primitives.
 
 ---
+Tim vit à Paris depuis quatre ans et n’était jamais allé à Montmartre. J’ai voulu lui montrer le quartier où nous avons vécu avec Isa durant un an avant sa naissance. Arrivés en haut du tertre, impossible de marcher tant la foule était danse. Nous avons dû nous enfuir.
 
-Avec Tim nous allons voir le dernier Klapisch au cinéma. Nous ne savons rien de *La Venue de l’avenir*. J’explique à Tim que j’ai une certaine tendresse pour les films de Klapisch, mon presque exact contemporain. Je retrouve une atmosphère que j’aime, des dialogues, mais aussi beaucoup d’approximations visuelles quand il s’agit de montrer le Paris d’avant, et une lenteur qui parfois me fait jouer avec mon téléphone comme s’il pouvait accélérer certaines scènes au déroulé prévisible et déjà ennuyeux. Tim craque à mi-course, moi je reste et me dis qu’en streaming j’aurais zappé une bonne partie du film. Donc aller au cinéma pour s’accrocher. Pas sûr que ce soit une raison suffisante.
+---
+
+Nous allons voir le dernier Klapisch au cinéma. Nous ne savons rien de *La Venue de l’avenir*. J’explique à Tim que j’ai une certaine tendresse pour les films de Klapisch, mon presque exact contemporain. Je retrouve une atmosphère que j’aime, des dialogues, mais aussi beaucoup d’approximations visuelles quand il s’agit de montrer le Paris d’avant, et une lenteur qui parfois me fait jouer avec mon téléphone comme s’il pouvait accélérer certaines scènes au déroulé prévisible et déjà ennuyeux. Tim craque à mi-course, moi je reste et me dis qu’en streaming j’aurais zappé une bonne partie du film. Donc aller au cinéma pour s’accrocher. Pas sûr que ce soit une raison suffisante.
 
 ![Épicerie](_i/2025-09-06-181712-Paris.webp)
 
