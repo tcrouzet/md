@@ -1,12 +1,12 @@
 ---
-baseline: Un jeu de rôle littéraire
-date: 2025-11-10
+baseline: Un jeu de piste littéraire
+date: 2025-11-06
 genre: imaginaire
 isbn: 9782889790203
 isbne:
 editor: PVH
 exergue: Un roman qui interroge la limite de tous les romans
-lire: 
+lire:
 prix: 20
 eprix: 0
 shops:

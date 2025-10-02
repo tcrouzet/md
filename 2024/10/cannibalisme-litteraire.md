@@ -532,4 +532,4 @@ J’adore.
 
 Que feriez-vous pour vous assurer que votre propre voix unique, votre propre jaillissement brille ? Continuez à faire jaillir ces étincelles créatives. Jusqu’à la prochaine fois.
 
-#netlitterature #romanduroman #ia #y2024 #2024-10-15-16h00
+#netlitterature #rush #ia #y2024 #2024-10-15-16h00
