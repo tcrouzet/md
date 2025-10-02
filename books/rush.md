@@ -1,5 +1,5 @@
 ---
-baseline: Un jeu de piste littéraire
+baseline: Un jeu de piste à travers le temps
 date: 2025-11-06
 genre: imaginaire
 isbn: 9782889790203
