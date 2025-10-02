@@ -404,4 +404,4 @@ C’est un message assez puissant.
 
 Ça me rappelle quelque chose que vous avez dit plus tôt à propos des IA étant menacées par le jaillissement, par cet élément humain imprévisible.
 
-#netlitterature #ia #romanduroman #y2024 #2024-10-7-18h30
+#netlitterature #ia #rush #y2024 #2024-10-7-18h30
