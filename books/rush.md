@@ -16,6 +16,7 @@ shops:
   - https://www.laprocure.com/product/1980518/crouzet-thierry-rush
   - https://www.eyrolles.com/Litterature/Livre/rush-9782889790203/
   - https://www.librest.com/livres/rush-thierry-crouzet_0-13480000_9782889790203.html
+  - https://www.decitre.fr/livres/rush-9782889790203.html
 eshops:
 ---
 

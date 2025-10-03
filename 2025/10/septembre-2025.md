@@ -84,7 +84,7 @@ Est-ce que les gens marchent dans la rue en affichant fièrement leur QI ou leur
 
 ---
 
-Tim vit à Paris depuis quatre ans et n’était jamais allé à Montmartre. J’ai voulu lui montrer le quartier où nous avons vécu avec Isa durant un an avant sa naissance. Arrivés en haut du tertre, impossible de marcher tant la foule était danse. Nous avons dû nous enfuir.
+Tim vit à Paris depuis quatre ans et n’était jamais allé à Montmartre. J’ai voulu lui montrer le quartier où nous avons vécu avec Isa durant un an avant sa naissance. Arrivés en haut du tertre, impossible de marcher tant la foule était dense. Nous avons dû nous enfuir.
 
 ---
 
@@ -190,7 +190,7 @@ Un septembre soudain hivernal, un mistral de novembre, l’étang court sous les
 
 ### Vendredi 26, Balaruc
 
-*Rush* part à l’imprimerie. Le correcteur humain a trouvé cinq coquilles oubliées par les IA (ou que j’avais réintroduites lors de mes corrections).
+*Rush* part à l’imprimerie. Le correcteur humain a trouvé cinq coquilles oubliées par les IA (ou réintroduites lors de mes corrections).
 
 ![Rush](_i/rush_planche.webp)
 

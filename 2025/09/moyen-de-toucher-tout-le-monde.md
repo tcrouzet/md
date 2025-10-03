@@ -63,7 +63,7 @@ Si on est d’accord pour se séparer de WhatsApp, il reste à choisir une autre
 
 En parallèle de Signal, je continue d’utiliser Telegram pour sa fluidité et son API. Chez Signal, l’impossibilité de déchiffrer les données échangées interdit leur commercialisation. Telegram jure ne pas le faire mais rien ne les empêchera un jour de changer d’avis.
 
-Il existe des alternatives décentralisées comme [Element](https://element.io/fr), [Session](https://getsession.org/), [Berty](https://berty.tech/messenger), [Briar](https://briarproject.org/), [Skred](https://www.skred.app/), [Delta](https://delta.chat/fr/)… L’enjeu n’est pas de choisir les services les plus populaires mais d’éviter les plus dangereux pour nos libertés.
+Il existe des alternatives décentralisées comme [Element](https://element.io/fr), [Session](https://getsession.org/), [Berty](https://berty.tech/messenger), [Briar](https://briarproject.org/), [Skred](https://www.skred.app/), [Delta](https://delta.chat/fr/), [Tox](https://tox.chat/)… L’enjeu n’est pas de choisir les services les plus populaires mais d’éviter les plus dangereux pour nos libertés.
 
 Mais attention si les messageries instantanées aident à s’organiser, elles ne sont généralement pas un vecteur de viralité. La priorité : quitter les réseaux sociaux algorithmiques, ceux qui vont monter d’odieuses mayonnaises.
 
