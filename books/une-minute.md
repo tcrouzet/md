@@ -11,9 +11,11 @@ prix: 14.99
 shops:
   - https://www.amazon.fr/One-Minute-communion-Thierry-Crouzet/dp/2940609195/
   - https://www.furet.com/livres/one-minute-tome-1-la-communion-des-analystes-thierry-crouzet-9782940609192.html
+  - https://www.cultura.com/p-ne-minute-la-communion-des-analystes-tome-1-4524729.html
+  - https://www.fnac.com/a16373474/One-Minute-La-communion-des-analystes-Tome-1-%CA%98ne-Minute-Thierry-Crouzet
 ---
 
-# One minute
+# One Minute
 
 ![One Minute - T1](_i/T1Onecover-450.webp)
 
@@ -27,7 +29,7 @@ shops:
 2. [*Le manifeste hypo*](https://pvh-editions.com/shop/romans-contes/258-one-minute-tome-1-la-communion-des-analystes-9782940609192.html)
 3. [*La controverse Oméga*](https://pvh-editions.com/shop/romans-contes/279-l-autre-soi-9782940609253.html)
 4. [*Le musée des réplicants*](https://pvh-editions.com/shop/romans-contes/281-ne-minute-tome-4-le-musee-des-replicants-9782940609253.html)
-5. [*One Minute : L’intégrale*](https://www.amazon.fr/NE-MINUTE-Lint%C3%A9grale-Thierry-Crouzet/dp/2940609233/)
+5. [*One Minute : L’intégrale*](https://pvh-editions.com/product/one-minute-integrale-papier)
 
 Les 380 épisodes de ce feuilleton, chacun à lire en à peine plus d’une minute, racontent tour à tour cette même minute à travers de nouveaux personnages. L’histoire n’avance pas dans le temps, mais dans l’espace. De lieu en lieu, de fuseau horaire en fuseau horaire, peu à peu l’intrigue se développe et des héros émergent grâce aux regards croisés de leurs amis ou de leurs ennemis.
 
