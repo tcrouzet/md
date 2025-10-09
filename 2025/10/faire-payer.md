@@ -1,0 +1,58 @@
+# Faire payer est-ce la solution pour une vraie relation auteurs-lecteurs ?
+
+![Payer ou non ?](_i/2025-10-09-170134.webp)
+
+Je me suis posé cette question en écrivant [mes derniers articles de NetCulture](https://tcrouzet.com/tag/netculture/). Elle ne cesse de revenir et je me dois l’affronter avec franchise, pour être clair avec moi-même, avec vous mes lecteurs, aussi avec les autres auteurs.
+
+**Premier constat** : la paupérisation des auteurs s’accroît. Nous vendons en moyenne moins de livres (parce que les éditeurs en publient de plus en plus mais aussi parce qu’il y a moins de lecteurs) et nos contenus web sont pillés par les moteurs de recherche, les IA et [les charognards](https://tcrouzet.com/2025/09/23/charognards-du-net/).
+
+**Deuxième constat** : notre popularité web est souvent faiblement corrélée à nos ventes de livres.
+
+J’ai longtemps cru qu’il suffisait de demander à mes lecteurs numériques d’acheter mes livres pour me soutenir, ce transfert n’a jamais été efficace.
+
+1. Peut-être parce que les lecteurs d’articles ne sont pas des lecteurs de livres ou, tout au moins, parce que ces deux lectorats se recouvrent peu.
+2. Peut-être parce que mes lecteurs ne sont pas assez attachés à ce que j’écris.
+3. Peut-être parce que je n’ai pas assez de lecteurs (sinon je ne poserai pas cette question de l’éventualité de faire payer mes trop rares lecteurs).
+
+Je ressens la nécessité sur le web d’un engagement plus fort avec mes lecteurs, du type celui qui me lie aux lecteurs de mes livres. Lors d’un achat, ils font plus que cliquer sur un lien, ils me donnent le temps qui leur a été nécessaire pour gagner le prix du livre. C’est un échange, je donne à lire et on me donne à manger. C’est une forme de réciprocité (et peu importe si je réussis à manger même sans lecteur — je n’écris pas cet article que pour moi mais tous les auteurs en recherche d’un modèle existentiel).
+
+Je ressens en même temps la nécessité de me soustraire aux maraudes des charognards. Placer mes textes derrière un paywall est la solution la plus évidente. Me réfugier dans un monde clos, dans une petite communauté de « fans ».
+
+**Troisième constat** : Des contenus payants n’ont plus à chercher à séduire, ni sur les réseaux sociaux ni aux yeux des moteurs de recherche. Cette relative indifférence à l’environnement me pousserait peut-être à écrire autrement, plus intimement. Nous pourrions échanger plus en profondeur. Depuis longtemps, j’imagine des lettres adressées à mes lecteurs, des lettres presque à l’ancienne.
+
+**Quatrième constat** : je reste attaché à la nécessité d’une culture ouverte, ce qui est une injonction contradictoire. Mais quand je constate que les promoteurs de l’ouverture se font piller sans vergogne, ça me désespère. J’ai souvent la sensation d’être le couillon de l’affaire.
+
+Un paywall impliquerait de ne libérer les textes qu’après un délai de six mois ou un an. Les abonnés payants auraient le privilège de lire sur le vif, de participer à une communauté.
+
+Envisager cette possibilité me fiche la trouille. Personne peut-être ne paiera, je n’aurai plus le moindre lecteur, je devrai admettre que je n’en ai jamais eu, que tout ça n’était qu’une illusion. J’ai envie de l’affronter. J’en sens la nécessité. Est-ce que ce que je fais a du sens pour vous ? À quel point ? Parce que si vous vous en moquez je n’ai plus aucune raison de publier en ligne. Je sais bien que payer ne prouve pas grand-chose sinon d’en avoir la possibilité, mais tout de même, ce serait comme vous demander de choisir entre mes textes et d’autres choses.
+
+J’entends des voix me dire : « Quitte Substack et tu seras plus emmerdé par les charognards. » Mais ils sont partout, sur le Web, sur Mastodon, ils se glissent partout. Une autre voix : « Faire payer, c’est rester dans le monde du quantitatif. » Je n’en suis pas si sûr. Dans le cas d’une relation auteur/lecteur, c’est surtout établir une réciprocité, la même que nous mettons en œuvre avec nos livres vendus en librairie — je travaille pour toi et tu me rémunères.
+
+Le modèle du tout gratuit a conduit à la mise en avant des quantités au profit des qualités. La popularité est devenue le seul critère de réussite, alors qu’un auteur cherche avant tout à échanger avec ses lecteurs, et subsidiairement à vivre de son travail.
+
+**Cinquième constat** : j’écris souvent pour diffuser des idées, alerter, ces textes pourraient rester gratuits, et mes gestes esthétiques pourraient devenir payants.
+
+Je pense tout haut, je ne sais pas ce qu’il est bon de faire. Ma sensation : plus je donne, moins je reçois. Un certain modèle du web, celui que j’ai défendu depuis trente ans, nécessite de profonds changements.
+
+**Sixième constat** : les contenus que nous diffusons gratuitement cohabitent avec une montagne de contenus générés plus ou moins automatiquement, à visée de ratissage sur le mode charognard. Il ne faut plus guère espérer de grands bénéfices à l’ouverture dans un monde saturé de contenus. Je ne crois plus au capital symbolique de mes textes. Je vois des gens répéter des idées émises il y a dix ou vingt ans sans même s’en rendre compte (et des gens faire leur promotion). Plus nous disposons d’outils de recherche, plus nous nous complaisons dans un présentéisme mièvre.
+
+**Septième constat** : les influenceurs poursuivent le quantitatif. Je ne veux influencer personne, mais partager, faire réfléchir, réfléchir avec, éprouver avec… Je n’ai rien à vendre. Pas de méthode miracle. Juste un regard tordu sur le monde. Un désir de passer du web comme espace de partage universel à un web comme outil de création d’intimité. L’universel numérique est devenu une arène pour les Trump. Je n’y suis plus à ma place. Le gratuit qui repose sur la viralité, c’est terminé, ça n’a conduit qu’à une catastrophe populiste.
+
+Se cacher derrière un paywall reviendrait à revendiquer de ne plus être dans la même cour. Se soustraire à la bataille pour le quantitatif et ne plus œuvrer que pour le qualitatif. Peut-être est-ce élitiste ? Mais quand tout devient si bas de gamme, si banalisé, peut-être qu’un peu d’exigence est nécessaire.
+
+J’en arrive à me demander si la gratuité n’est pas le ver qui ronge le web. J’en arrive à ne plus avoir envie d’écrire pour des lecteurs simplement de passage.
+
+Je pourrais tenter une expérience. Tout au long de 2026, rendre payant l’accès à mes carnets mensuels avec en cadeau début 2027 la version papier/ebook des carnets 2026 (via Substack impossible de faire payer moins de 50€/an).
+
+Je dis bien « je pourrais ». La fabrication du livre ne serait pas rentable avec moins de cent abonnés. Aurais-je le courage de cette rupture ? Par fatigue, faiblesse, facilité, privilèges, je ne changerai probablement rien à mes vieilles habitudes, même si je les sais dommageables pour les autres créateurs. J’écris ce texte pour m’aider à penser avec vous. Je n’ai pas de solution. Juste la certitude que continuer comme avant ne me mènera nulle part.
+
+Peut-être il est temps pour moi de choisir :
+
+* l’intimité contre la visibilité,
+* la qualité contre la quantité,
+* l’engagement contre la viralité,
+* le rare contre l’abondant.
+
+J’ai déjà effectué ce pas de côté en quittant la plupart des réseaux sociaux, en cessant de publiciser mes textes, en laissant les clés de mon fonds de commerce à mes lecteurs… Je suis en route… et si la solution n’était plus que de publier des livres. De retenir la parole. De la retarder. Encore un truc qui m’effraie. Je ne vois pas pourquoi je me censurerais. Pourquoi je ne jouerais pas du secret et du public.
+
+#netculture #y2025 #2025-10-9-18h00
