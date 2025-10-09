@@ -53,6 +53,6 @@ Peut-être il est temps pour moi de choisir :
 * l’engagement contre la viralité,
 * le rare contre l’abondant.
 
-J’ai déjà effectué ce pas de côté en quittant la plupart des réseaux sociaux, en cessant de publiciser mes textes, en laissant les clés de mon fonds de commerce à mes lecteurs… Je suis en route… et si la solution n’était plus que de publier des livres. De retenir la parole. De la retarder. Encore un truc qui m’effraie. Je ne vois pas pourquoi je me censurerais. Envie de de continuer de jouer du secret et du public. Pour résumer : grande période de doute.
+J’ai déjà effectué ce pas de côté en quittant la plupart des réseaux sociaux, en cessant de publiciser mes textes, en laissant les clés de mon fonds de commerce à mes lecteurs… Je suis en route… et si la solution n’était plus que de publier des livres. De retenir la parole. De la retarder. Encore un truc qui m’effraie. Je ne vois pas pourquoi je me censurerais. Envie de continuer de jouer du secret et du public. Pour résumer : grande période de doute.
 
 #netculture #y2025 #2025-10-9-18h00
