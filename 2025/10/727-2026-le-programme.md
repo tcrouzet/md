@@ -8,7 +8,7 @@ C’est en quelque sorte la démonstration que les réseaux sociaux et les publi
 
 Je déploie la même énergie aujourd’hui qu’en 2020 quand je dessinais les premiers 727. Je crée ces randonnées pour les rouler avec vous et vous rencontrer, et au fil des années nous avons noué de belles amitiés. J’espère que nous nous retrouverons pour des bivouacs au bord des vignes ou au sommet des garrigues. J’attends avec impatience la soirée musicale avec Will et Manu comme danseurs vedettes. J’ai les images mais je n’ose pas les publier. Rendez-vous à Poussan pour rencontrer les artistes.
 
-### 5 et 6 avril : POU100
+### 4 et 5 avril : POU100
 
 Fin 2023, nous avons imaginé cette randonnée de 100 km ou 100 miles pour nous forcer au cours de l’hiver à explorer de nouveaux chemins. Quelle surprise de vous y voir 170 en 2024. Une motivation pour renouveler l’expérience les 4 et 5 avril. Comme je reste fan de bikepacking, j’ai même ajouté une boucle de 250 km à effectuer sur deux jours, avec possibilité de se loger dans des gîtes à mi-parcours.
 
