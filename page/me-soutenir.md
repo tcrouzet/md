@@ -11,6 +11,6 @@ Différentes possibilités…
 * Provoque des projets
 * Partage des idées
 
-Les interactions me stimulent. Quand tu te manifestes par l’une ou l’autre de ces méthodes tu m’encourages à poursuivre mon travail et à continuer de le partager librement.
+Les interactions me stimulent. Quand tu te manifestes par l’une ou l’autre de ces méthodes tu m’encourages à poursuivre mon travail et à continuer de le partager librement. 
 
 #page #y2025 #2025-10-22-17h00
