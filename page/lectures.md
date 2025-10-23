@@ -1,13 +1,13 @@
 # Lectures
 
-Les sites dans mon agrégateur (liste importée le 22/10/2025 depuis Feedly).
+Les 158 sites suivis sur [Feedly](https://feedly.com/) au 23/10/2025 (liste mise en forme avec [Feedly-OPML-markdown](https://github.com/tcrouzet/Feedly-OPML-markdown)).
 
-### Amis (on interagit)
+### Amis
 
 - [L’atelier permanent (Philippe Castelneau)](https://philippe-castelneau.com) Un seul article dans le feed
 - [MatooBlog](https://matoo.net) 1 fois par jour
+- [Fuir est une pulsion](https://www.fuirestunepulsion.net/) 1 fois par jour
 - [Carnets de La Grange](https://www.la-grange.net/) 7 fois par semaine
-- [Fuir est une pulsion](https://www.fuirestunepulsion.net/) 7 fois par semaine
 - [arnaud maïsetti](https://www.arnaudmaisetti.net/spip/) 5 fois par semaine
 - [Alias (erdorin.org)](https://erdorin.org/) 5 fois par semaine
 - [Liminaire](https://liminaire.fr/) 2 fois par semaine
@@ -24,9 +24,51 @@ Les sites dans mon agrégateur (liste importée le 22/10/2025 depuis Feedly).
 - [Françoise Renaud, écritures](https://www.francoiserenaud.com) 2 fois par mois
 - [ploum.net (Lionel Dricot)](https://ploum.net/) 2 fois par mois
 - [Psy et Geek ;-)](https://psyetgeek.com) 1 fois par mois
+- [L'Electron livre](https://davidcamus.substack.com) 9 fois par an
 - [L'Antre du Greg](https://www.antredugreg.be) 2 fois par an
 - [JCFrogBlog4](http://jcfrog.com/blog) 2 fois par an
 - [Denis Salem | Blog](https://denissalem.ovh/Blog/) 9 fois par décennie
+- [Graphisme et interactivité](https://graphism.fr) Pas d'actualisation
+
+### NetCulture et Techno
+
+- [Standblog](https://standblog.org/blog/) 1 fois par jour
+- [Les-Crises.fr](https://www.les-crises.fr) 5 fois par semaine
+- [Pluralistic: Daily links from Cory Doctorow (XML feed) (pluralistic.net)](https://pluralistic.net) 4 fois par semaine
+- [Liseuse Kindle, Kobo, Vivlio & Pocketbook](https://www.liseuses.net) 3 fois par semaine
+- [Grise Bouille](https://grisebouille.net/) 2 fois par semaine
+- [Reflets.info](https://reflets.info/) 2 fois par semaine
+- [Pablo Pernot (XML feed) (pablopernot.fr)](https://pablopernot.fr/) 2 fois par semaine
+- [Restez Curieux !](https://restez-curieux.ovh) 1 fois par semaine
+- [Gerard Foucher](https://www.dailymotion.com/no-live/user/GerardFoucher75018/1) 1 fois par semaine
+- [Study Hacks - Decoding Patterns of Success - Cal Newport (XML feed) (feeds.feedburner.com)](https://calnewport.com/blog/) 4 fois par mois
+- [Le clairon](https://leclairon.over-blog.com/) 3 fois par mois
+- [Navire](https://navire.net/) 3 fois par mois
+- [S.I.Lex](https://scinfolex.com) 3 fois par mois
+- [Drew DeVault's blog](https://drewdevault.com) 3 fois par mois
+- [Ouvertures immédiates / Immediate openings (XML feed) (bernardrentier.wordpress.com)](https://bernardrentier.wordpress.com) 2 fois par mois
+- [Tara Tarakiyee – Techverständiger (XML feed) (tarakiyee.com)](https://tarakiyee.com) 2 fois par mois
+- [Cyroul.com](https://cyroul.com) 1 fois par mois
+- [Le dernier blog](https://hyperbate.fr/dernier) 1 fois par mois
+- [Zéro Seconde (Martin Lessard)](http://www.zeroseconde.com) 1 fois par mois
+- [The Changelog](https://changelog.complete.org) 1 fois par mois
+- [Désert de sel](https://salebeno.wordpress.com) 1 fois par mois
+- [Solene'%](https://dataswamp.org/~solene/) 1 fois par mois
+- [zoupic - le propre de l'Om](https://www.zoupic.com/) 10 fois par an
+- [L'image sociale](http://imagesociale.fr) 9 fois par an
+- [Pavillon rouge et noir (XML feed) (p4bl0.net)](https://p4bl0.net/) 9 fois par an
+- [SavoirsCom1](http://www.savoirscom1.info) 9 fois par an
+- [Andrew Perfors](http://perfors.net/) 5 fois par an
+- [davidbosman.fr](https://www.davidbosman.fr/blog) 5 fois par an
+- [David Peyron](https://davidpeyron.wordpress.com) 4 fois par an
+- [On refait le blog](https://merome.net/blog/index.php?) 4 fois par an
+- [ericwatier.info](https://www.ericwatier.info) 3 fois par an
+- [Philippe Scoffoni – Logiciel libre, open source, numérique – Dolibarr – Nextcloud – WooCommerce](https://philippe.scoffoni.net) 2 fois par an
+- [Le Monolecte (Agnès Maillard)](https://blog.monolecte.fr) 2 fois par an
+- [Connecting worlds (Raydacteur)](https://philbancourt.wordpress.com) 2 fois par an
+- [Media Trend](http://www.themediatrend.com/wordpress) 1 fois par an
+- [Un jour Une idée](https://unjouruneidee.wordpress.com) 1 fois par an
+- [Antonio A. Casilli](https://www.bodyspacesociety.eu/) Pas d'actualisation
 
 ### NetLittérature
 
@@ -97,67 +139,30 @@ Les sites dans mon agrégateur (liste importée le 22/10/2025 depuis Feedly).
 - [Les ateliers du déluge (Marlen Sauvage)](https://les-ateliers-du-deluge.com) 1 fois par an
 - [Petite Racine (Cécile Portier)](http://petiteracine.net/wordpress) 1 fois par an
 - [en dehors](http://clayssen.paris) 1 fois par an
-- [L'Écrivain Souterrain » Flux](https://ecrivain-souterrain.com) Pas d'actualisation
-- [Critical Margins](https://criticalmargins.com?source=rss----b5830299543c---4) Pas d'actualisation
-- [Marc Jahjah](https://marcjahjah.net) Pas d'actualisation
 - [atelier de bricolage littéraire](https://www.atelierdebricolage.net) Pas d'actualisation
+- [Critical Margins](https://criticalmargins.com?source=rss----b5830299543c---4) Pas d'actualisation
+- [L'Écrivain Souterrain » Flux](https://ecrivain-souterrain.com) Pas d'actualisation
+- [Marc Jahjah](https://marcjahjah.net) Pas d'actualisation
 - [mot maquis (Juliette Mezenc)](http://motmaquis.net/) Pas d'actualisation
 - [Stéphane Gantelet](https://s-gantelet.over-blog.com/) Pas d'actualisation
-
-### NetCulture et Techno
-
-- [Latest from Space.com](https://www.space.com) 9 fois par jour
-- [Today on New Scientist - Short Sharp Science](https://www.newscientist.com/) 4 fois par jour
-- [Standblog](https://standblog.org/blog/) 1 fois par jour
-- [Les-Crises.fr](https://www.les-crises.fr) 5 fois par semaine
-- [Pluralistic: Daily links from Cory Doctorow (XML feed) (pluralistic.net)](https://pluralistic.net) 4 fois par semaine
-- [Liseuse Kindle, Kobo, Vivlio & Pocketbook](https://www.liseuses.net) 3 fois par semaine
-- [Grise Bouille](https://grisebouille.net/) 2 fois par semaine
-- [Reflets.info](https://reflets.info/) 2 fois par semaine
-- [Restez Curieux !](https://restez-curieux.ovh) 1 fois par semaine
-- [Gerard Foucher](https://www.dailymotion.com/no-live/user/GerardFoucher75018/1) 1 fois par semaine
-- [Study Hacks - Decoding Patterns of Success - Cal Newport (XML feed) (feeds.feedburner.com)](https://calnewport.com/blog/) 4 fois par mois
-- [Navire](https://navire.net/) 3 fois par mois
-- [S.I.Lex](https://scinfolex.com) 3 fois par mois
-- [Drew DeVault's blog](https://drewdevault.com) 3 fois par mois
-- [Ouvertures immédiates / Immediate openings (XML feed) (bernardrentier.wordpress.com)](https://bernardrentier.wordpress.com) 2 fois par mois
-- [Pablo Pernot (XML feed) (pablopernot.fr)](https://pablopernot.fr/) 2 fois par mois
-- [Tara Tarakiyee – Techverständiger (XML feed) (tarakiyee.com)](https://tarakiyee.com) 2 fois par mois
-- [Cyroul.com](https://cyroul.com) 1 fois par mois
-- [Le dernier blog](https://hyperbate.fr/dernier) 1 fois par mois
-- [Zéro Seconde (Martin Lessard)](http://www.zeroseconde.com) 1 fois par mois
-- [The Changelog](https://changelog.complete.org) 1 fois par mois
-- [Désert de sel](https://salebeno.wordpress.com) 1 fois par mois
-- [Solene'%](https://dataswamp.org/~solene/) 1 fois par mois
-- [zoupic - le propre de l'Om](https://www.zoupic.com/) 10 fois par an
-- [Embruns](http://embruns.net/) 9 fois par an
-- [L'image sociale](http://imagesociale.fr) 9 fois par an
-- [Pavillon rouge et noir (XML feed) (p4bl0.net)](https://p4bl0.net/) 9 fois par an
-- [SavoirsCom1](http://www.savoirscom1.info) 9 fois par an
-- [Le Substack de David Camus (XML feed) (davidcamus.substack.com)](https://davidcamus.substack.com) 9 fois par an
-- [Andrew Perfors](http://perfors.net/) 5 fois par an
-- [davidbosman.fr](https://www.davidbosman.fr/blog) 5 fois par an
-- [David Peyron](https://davidpeyron.wordpress.com) 4 fois par an
-- [On refait le blog](https://merome.net/blog/index.php?) 4 fois par an
-- [ericwatier.info](https://www.ericwatier.info) 3 fois par an
-- [Philippe Scoffoni – Logiciel libre, open source, numérique – Dolibarr – Nextcloud – WooCommerce](https://philippe.scoffoni.net) 2 fois par an
-- [Le Monolecte (Agnès Maillard)](https://blog.monolecte.fr) 2 fois par an
-- [Connecting worlds (Raydacteur)](https://philbancourt.wordpress.com) 2 fois par an
-- [Un jour Une idée](https://unjouruneidee.wordpress.com) 1 fois par an
-- [Antonio A. Casilli](https://www.bodyspacesociety.eu/) Pas d'actualisation
-- [Media Trend](http://www.themediatrend.com/wordpress) Pas d'actualisation
-- [Le clairon](https://leclairon.over-blog.com/) Pas d'actualisation
 
 ### Photo
 
 - [photoetmac.com](https://photoetmac.com/) 1 fois par semaine
 - [La boite verte](https://www.laboiteverte.fr) 3 fois par mois
 
+### SF
+
+- [Lionel Davoust](https://lioneldavoust.com) 3 fois par semaine
+- [Blog de Thomas Geha / Xavier Dollo](https://gehathomas.wordpress.com) 2 fois par mois
+
 ### Vélo
 
+- [The Radavist](https://theradavist.com) 6 fois par jour
 - [Bikerumor](https://bikerumor.com/) 5 fois par jour
 - [Vojo](https://www.vojomag.com/) 1 fois par jour
 - [Singletrack World Magazine](https://singletrackworld.com) 6 fois par semaine
+- [Joakim Faiss](https://joakim.faiss.com) 2 fois par semaine
 - [Lanterne Rouge](https://lanternerouge.com/) 1 fois par semaine
 - [CYCLINGABOUT.com](https://www.cyclingabout.com/) 3 fois par mois
 - [Un Monde à Vélo » Flux](https://un-monde-a-velo.com) 2 fois par mois
@@ -168,17 +173,9 @@ Les sites dans mon agrégateur (liste importée le 22/10/2025 depuis Feedly).
 - [One of Seven Project » Feed](https://oneofsevenproject.com/) 1 fois par mois
 - [D+](https://denisbraux.wordpress.com) 11 fois par an
 - [Valvert on the road, velo rando 🌐🚲♿](https://valvertontheroad.wordpress.com) 11 fois par an
-- [L'actu du VTT](https://www.26in.fr/news/) 9 fois par an
-- [Sophie Betancourt / Respire](https://sophiebetancourt.wordpress.com) 9 fois par an
 - [Lost On A Bike](http://www.lostonabike.com) 5 fois par an
 - [Ad Voyages » Flux](https://www.ad-photos.fr) 4 fois par an
 - [BIKEPACKING.com](https://bikepacking.com/) Pas d'actualisation
 - [Darwin Onthetrail](https://darwinonthetrail.com) Pas d'actualisation
-- [The Radavist](https://theradavist.com) Pas d'actualisation
-
-### SF
-
-- [Lionel Davoust](https://lioneldavoust.com) 3 fois par semaine
-- [Blog de Thomas Geha / Xavier Dollo](https://gehathomas.wordpress.com) 2 fois par mois
 
 #page #y2025 #2025-1-24-21h00
