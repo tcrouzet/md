@@ -1,15 +1,15 @@
 # Lectures
 
-Les 158 sites suivis sur [Feedly](https://feedly.com/) au 23/10/2025 (liste mise en forme avec [Feedly-OPML-markdown](https://github.com/tcrouzet/Feedly-OPML-markdown)).
+Les 148 sites suivis sur [Feedly](https://feedly.com/) au 25/10/2025 (liste mise en forme avec [Feedly-OPML-markdown](https://github.com/tcrouzet/Feedly-OPML-markdown)).
 
 ### Amis
 
 - [L’atelier permanent (Philippe Castelneau)](https://philippe-castelneau.com) Un seul article dans le feed
 - [MatooBlog](https://matoo.net) 1 fois par jour
-- [Fuir est une pulsion](https://www.fuirestunepulsion.net/) 1 fois par jour
 - [Carnets de La Grange](https://www.la-grange.net/) 7 fois par semaine
+- [Fuir est une pulsion](https://www.fuirestunepulsion.net/) 7 fois par semaine
+- [Alias (erdorin.org)](https://erdorin.org/) 6 fois par semaine
 - [arnaud maïsetti](https://www.arnaudmaisetti.net/spip/) 5 fois par semaine
-- [Alias (erdorin.org)](https://erdorin.org/) 5 fois par semaine
 - [Liminaire](https://liminaire.fr/) 2 fois par semaine
 - [Climb to the Stars](https://climbtothestars.org) 2 fois par semaine
 - [Carnet de notes](https://n.survol.fr) 2 fois par semaine
@@ -28,7 +28,6 @@ Les 158 sites suivis sur [Feedly](https://feedly.com/) au 23/10/2025 (liste mise
 - [L'Antre du Greg](https://www.antredugreg.be) 2 fois par an
 - [JCFrogBlog4](http://jcfrog.com/blog) 2 fois par an
 - [Denis Salem | Blog](https://denissalem.ovh/Blog/) 9 fois par décennie
-- [Graphisme et interactivité](https://graphism.fr) Pas d'actualisation
 
 ### NetCulture et Techno
 
@@ -68,13 +67,12 @@ Les 158 sites suivis sur [Feedly](https://feedly.com/) au 23/10/2025 (liste mise
 - [Connecting worlds (Raydacteur)](https://philbancourt.wordpress.com) 2 fois par an
 - [Media Trend](http://www.themediatrend.com/wordpress) 1 fois par an
 - [Un jour Une idée](https://unjouruneidee.wordpress.com) 1 fois par an
-- [Antonio A. Casilli](https://www.bodyspacesociety.eu/) Pas d'actualisation
 
 ### NetLittérature
 
 - [marielebert.wordpress.com](https://marielebert.wordpress.com) Un seul article dans le feed
 - [Actualitté](https://actualitte.com/) 23 fois par jour
-- [IDboox](https://www.idboox.com/) 4 fois par jour
+- [IDboox](https://www.idboox.com/) 3 fois par jour
 - [Good E-Reader](https://goodereader.com/blog) 2 fois par jour
 - [les choses dites](https://leschosesdites.wordpress.com) 1 fois par jour
 - [cahiers fantômes](https://cahiersfantomes.com) 1 fois par jour
@@ -100,7 +98,7 @@ Les 158 sites suivis sur [Feedly](https://feedly.com/) au 23/10/2025 (liste mise
 - [maison[s]témoin](https://www.maisonstemoin.fr) 3 fois par mois
 - [Léonel Houssam](http://leonel-houssam.blogspot.com/) 3 fois par mois
 - [Le Petit Monde de Nicolas Esse » Flux](https://nicolasesse.com) 3 fois par mois
-- [Bajram.com](https://www.bajram.com) 3 fois par mois
+- [Bajram.com](https://www.bajram.com) 2 fois par mois
 - [Stalker - Dissection du cadavre de la littérature](https://www.juanasensio.com/) 2 fois par mois
 - [Hypothermia](https://www.hypothermia.fr) 2 fois par mois
 - [Orion en aéroplane](https://peccadille.wordpress.com) 2 fois par mois
@@ -139,12 +137,6 @@ Les 158 sites suivis sur [Feedly](https://feedly.com/) au 23/10/2025 (liste mise
 - [Les ateliers du déluge (Marlen Sauvage)](https://les-ateliers-du-deluge.com) 1 fois par an
 - [Petite Racine (Cécile Portier)](http://petiteracine.net/wordpress) 1 fois par an
 - [en dehors](http://clayssen.paris) 1 fois par an
-- [atelier de bricolage littéraire](https://www.atelierdebricolage.net) Pas d'actualisation
-- [Critical Margins](https://criticalmargins.com?source=rss----b5830299543c---4) Pas d'actualisation
-- [L'Écrivain Souterrain » Flux](https://ecrivain-souterrain.com) Pas d'actualisation
-- [Marc Jahjah](https://marcjahjah.net) Pas d'actualisation
-- [mot maquis (Juliette Mezenc)](http://motmaquis.net/) Pas d'actualisation
-- [Stéphane Gantelet](https://s-gantelet.over-blog.com/) Pas d'actualisation
 
 ### Photo
 
@@ -158,7 +150,7 @@ Les 158 sites suivis sur [Feedly](https://feedly.com/) au 23/10/2025 (liste mise
 
 ### Vélo
 
-- [The Radavist](https://theradavist.com) 6 fois par jour
+- [The Radavist](https://theradavist.com) 5 fois par jour
 - [Bikerumor](https://bikerumor.com/) 5 fois par jour
 - [Vojo](https://www.vojomag.com/) 1 fois par jour
 - [Singletrack World Magazine](https://singletrackworld.com) 6 fois par semaine
@@ -175,7 +167,5 @@ Les 158 sites suivis sur [Feedly](https://feedly.com/) au 23/10/2025 (liste mise
 - [Valvert on the road, velo rando 🌐🚲♿](https://valvertontheroad.wordpress.com) 11 fois par an
 - [Lost On A Bike](http://www.lostonabike.com) 5 fois par an
 - [Ad Voyages » Flux](https://www.ad-photos.fr) 4 fois par an
-- [BIKEPACKING.com](https://bikepacking.com/) Pas d'actualisation
-- [Darwin Onthetrail](https://darwinonthetrail.com) Pas d'actualisation
 
 #page #y2025 #2025-1-24-21h00
