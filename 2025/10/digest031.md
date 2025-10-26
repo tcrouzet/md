@@ -74,7 +74,7 @@ Une coalition de scientifiques, dirigeants et personnalités publiques demande l
 [Qu’est-ce que l’empoisonnement de l’IA ?](https://theconversation.com/what-is-ai-poisoning-a-computer-scientist-explains-267728) • EN • 7 min  
 L’insertion de seulement 250 fichiers malveillants dans les millions de données d’entraînement peut secrètement « empoisonner » un modèle d’IA. Cette manipulation peut créer des portes dérobées ou dégrader les performances globales.
 
-[L’IA extraterrestre pourrait rendre les civilisations avancées « invisibles »](https://www.sciencealert.com/alien-ai-might-turn-advanced-civilizations-invisible-in-a-cosmic-blink) • EN • 5 min  
+[Une IA extraterrestre pourrait rendre les civilisations avancées « invisibles »](https://www.sciencealert.com/alien-ai-might-turn-advanced-civilizations-invisible-in-a-cosmic-blink) • EN • 5 min  
 Si les civilisations extraterrestres développent une superintelligence artificielle, elles pourraient progresser au-delà de nos capacités d’observation en quelques décennies seulement, expliquant pourquoi nous ne détectons aucun signal alien.
 
 #digest #y2025 #2025-10-26-17h00
