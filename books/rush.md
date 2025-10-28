@@ -17,6 +17,7 @@ shops:
   - https://www.eyrolles.com/Litterature/Livre/rush-9782889790203/
   - https://www.librest.com/livres/rush-thierry-crouzet_0-13480000_9782889790203.html
   - https://www.decitre.fr/livres/rush-9782889790203.html
+  - https://www.librest.com/livres/rush-thierry-crouzet_0-13480000_9782889790203.html
 eshops:
 ---
 
@@ -30,6 +31,10 @@ Rush questionne ce qui fait de nous des humains quand les machines excellent dan
 
 [Mes articles](/tag/rush/)
 
+[Babelio](https://www.babelio.com/livres/Crouzet-Rush/1930193?id_edition=2492516)
+
 ![Planche de couverture](_i/rush_planche.webp)
+
+![Rush encart](_i/rush-promo.webp)
 
 #book #y2025 #2025-10-2-19h00
