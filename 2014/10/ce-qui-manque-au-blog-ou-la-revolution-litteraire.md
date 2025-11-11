@@ -34,6 +34,4 @@ Alors les éditeurs qui disent que l’autoédition n’existe pas découvriront
 
 Je crois comprendre que si j’écris encore hors du Web, c’est parce qu’il me manque le logiciel de publication adapté. Et que celui qui existe me pousse à une forme qui ne me convient pas toujours.
 
-
-
 #netculture #dialogue #y2014 #2014-10-26-20h35

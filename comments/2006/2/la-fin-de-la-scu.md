@@ -1,6 +1,7 @@
 [La fin de la sécu](../../../2006/2/la-fin-de-la-scu.md)
 
 ---
+
 nDamien @ 2006-02-08 11:12:57
 
 "Dans les villages d’avant l’époque de la sécu, je ne suis pas sûr que les gens mourraient dans l’indifférence".
@@ -9,15 +10,11 @@ J’ai rarement lu un truc aussi grossier.
 
 Et c’est un exemple parmi d’autres. Doux euphémisme
 
-
-
 ---
 
 tcrouzet @ 2006-02-10 15:08:44
 
 Expliquez-vous, je suis trop bête pour lire entre les lignes. Mais j’avais prévenu en disant que je me faisais toujours insulter dès que je parlais de la sécu. Dans l’esprit de certains, elle a remplacé Dieu, ils n’imaginent pas qu’on puisse la remplacer par quelque chose d’autre, et de mieux. Pour ma part, je suppose que rien ne subsiste très longtemps sans changement. Je suis un néo-darwiniste.
-
-
 
 ---
 
@@ -57,8 +54,6 @@ tcrouzet @ 2006-02-10 18:15:15
 
 Vers quoi allons-nous je n’en sais rien, j’explique même dans le livre que nous ne pouvons pas le savoir. Une chose est sûre, les moyens d’interaction sont de plus en plus nombreux et de moins en moins onéreux. Je soutiens même qu’une des rares lois fondamentales doit permettre à tout le monde d’interagir. Après, avec cet outil, nous devrons réinventer le monde.
 
-
-
 ---
 
 Un globule blanc @ 2006-02-28 21:59:54
@@ -85,8 +80,6 @@ En mettant toute idéologie de coté, j’espère que vous constaterez l’aspec
 
 - Un globule blanc égaré dans un pays malade.
 
-
-
 ---
 
 tcrouzet @ 2006-02-28 22:22:08
@@ -99,13 +92,13 @@ vasquez @ 2006-03-03 17:06:13
 
 Il faut communiquer
 
-Je trouve ta remarque très interressante,...
+Je trouve ta remarque très interressante,…
 
 Mais si tu aggrandi ta vision des choses temporellement, je pense que nous vivons les prémices de ce changement.
 
 Les moyens et les outils deviennent de plus en plus simple et répandue (ont peut prendre le parallèle du téléphone fixe ou le portable, aujourd’hui en france qui n’en possède pas? je pense que cette démocratisation des outils va s’étendre aux nouveau mode de communication).
 
-Mais nous ne sommes qu’au début de notre histoire,...
+Mais nous ne sommes qu’au début de notre histoire,…
 
 ---
 
@@ -137,7 +130,7 @@ La "sécurité sociale" n’a été à la base ni centralisée, ni inventée par
 
 tcrouzet @ 2006-05-14 22:10:01
 
-Je sais bien. Et c’est ça le drame... voir mon [post sur le mutualisme.](http://blog.tcrouzet.com/peuple/lhistoire-mutualisme-35787 rel=)
+Je sais bien. Et c’est ça le drame… voir mon [post sur le mutualisme.](http://blog.tcrouzet.com/peuple/lhistoire-mutualisme-35787 rel=)
 
 ---
 
@@ -151,13 +144,12 @@ Les collectivistes obsessionnels, veulent faire croire que les mécanismes solid
 
 Ceci est une grossière manipulation de l’opinion qui reste efficace.
 
-L’alternative libérale au mode de protection social actuelle est devenue une nécessité. Le but étant d’ajouter à la protection sociale avectoute la puissance de grands groupes qui peuvent par la diversité de leurs services dégager des ressources bien supérieures à ce que la sécu peut dégager avec ses chômeurs ses traine savates autochtones et importés en nombre croissants , des rares travailleurs dont la durée de travail est inférieure à leurs grand parents et qui vivent vingt ans de plus....En France "on" RE distribue sans distribuer.
+L’alternative libérale au mode de protection social actuelle est devenue une nécessité. Le but étant d’ajouter à la protection sociale avectoute la puissance de grands groupes qui peuvent par la diversité de leurs services dégager des ressources bien supérieures à ce que la sécu peut dégager avec ses chômeurs ses traine savates autochtones et importés en nombre croissants , des rares travailleurs dont la durée de travail est inférieure à leurs grand parents et qui vivent vingt ans de plus….En France "on" RE distribue sans distribuer.
 
-Ceux qui réussisent à trouver du travail sont généralement sous-payés et les rares qui réussisent sont surtaxés.... pour maintenir un système social en faillite depuis trenteans, dont aucune dépense n’est financée et qui ne fait que contribuer à augmenter la dette publique qui s’accroît de 1800 euros par seconde
+Ceux qui réussisent à trouver du travail sont généralement sous-payés et les rares qui réussisent sont surtaxés…. pour maintenir un système social en faillite depuis trenteans, dont aucune dépense n’est financée et qui ne fait que contribuer à augmenter la dette publique qui s’accroît de 1800 euros par seconde
 
 EN FINIR AVEC CE SYSTEME EST UN DEVOIR 
 
 LE DROIT EUROPEEN NOUS EN DONNE L’OPPORTUNITE UTILISONS LE
 
 ---
-

@@ -1,6 +1,7 @@
 [Blogging manifesto 1.0](../../../2010/1/blogging-manifesto.md)
 
 ---
+
 nJean-Marie Gall @ 2010-01-29 13:53:43
 
 Blogging manifesto 1.0 http://goo.gl/fb/Ehm4 blog tcrouzet.com #dialogue #blogs
@@ -41,7 +42,7 @@ Pour le point 9 : et les plate formes alternatives ? c’est une solution pour l
 
 Thierry Crouzet @ 2010-01-29 16:07:19
 
-Je parlais bien sûr de quand l’État aide les lièvres... Et quand je dis que l’État doit donner le moyen à tous, c’est bien ça aussi, donner les moyens à ceux qui en manquent ou qui ont manqué de chance.
+Je parlais bien sûr de quand l’État aide les lièvres… Et quand je dis que l’État doit donner le moyen à tous, c’est bien ça aussi, donner les moyens à ceux qui en manquent ou qui ont manqué de chance.
 
 ---
 
@@ -49,7 +50,7 @@ annick rivoire @ 2010-01-29 17:00:40
 
 Bonjour
 
-Un commentaire pour dire que sur poptronics (un média genre pure player mais si pure que ça), on en était venus à une conclusion pas si éloignée que ce manifeste des blogueurs (d’ailleurs on citait et linkait vers qqs papiers signés Crouzet, cf http://www.poptronics.fr/Poptronics-2010-less-is-more). Je ne pense pas toutefois que ce soit bien utile de stigmatiser les journalistes et de mettre de l’autre côté les blogueurs, la preuve, chez pop, on n’est pas vraiment blogueurs (site sous spip), et il n’y a pas que des journalistes. Et il n’y a pas d’un côté les bons et de l’autre les méchants, trop simple. En tout cas, je suis persuadée qu’il y a quelque chose à faire sur le net qui échappe aux vieilles méthodes corpo journalistiques ou de marché. Cherchons, cherchons...
+Un commentaire pour dire que sur poptronics (un média genre pure player mais si pure que ça), on en était venus à une conclusion pas si éloignée que ce manifeste des blogueurs (d’ailleurs on citait et linkait vers qqs papiers signés Crouzet, cf http://www.poptronics.fr/Poptronics-2010-less-is-more). Je ne pense pas toutefois que ce soit bien utile de stigmatiser les journalistes et de mettre de l’autre côté les blogueurs, la preuve, chez pop, on n’est pas vraiment blogueurs (site sous spip), et il n’y a pas que des journalistes. Et il n’y a pas d’un côté les bons et de l’autre les méchants, trop simple. En tout cas, je suis persuadée qu’il y a quelque chose à faire sur le net qui échappe aux vieilles méthodes corpo journalistiques ou de marché. Cherchons, cherchons…
 
 Annick Rivoire, fondatrice de poptronics.fr
 
@@ -57,7 +58,7 @@ Annick Rivoire, fondatrice de poptronics.fr
 
 Thierry Crouzet @ 2010-01-29 17:20:50
 
-J’ai pas l’impression de séparer blogueur et journaliste... Je dis qu’un blogueur parle en son nom. Un journaliste freelance peut faire de même.
+J’ai pas l’impression de séparer blogueur et journaliste… Je dis qu’un blogueur parle en son nom. Un journaliste freelance peut faire de même.
 
 ---
 
@@ -79,7 +80,7 @@ Et merci pour le lien. J’ai laissé de côté le chantier mais pas oublié. En
 
 Thierry Crouzet @ 2010-01-29 18:59:22
 
-J’ai corrigé...
+J’ai corrigé…
 
 C’est en fait ma façon de bloguer à moi.
 
@@ -119,7 +120,7 @@ J @ 2010-01-29 23:30:16
 
 ’’Cherchons à créer un contenu qui tienne la distance, qui ne soit pas périmé en 48 heures.’’’
 
-Vas y triple0politique, lance toi... :)
+Vas y triple0politique, lance toi… :)
 
 ---
 
@@ -133,7 +134,7 @@ Tu es toujours là, toi ? :-)
 
 J @ 2010-01-30 00:19:09
 
-très peu...
+très peu…
 
 ---
 
@@ -162,4 +163,3 @@ Salut Thierry, je suis bien flatté d’être choisi comme référence par un Bl
 Je n’ai rien à dire sur le point 1. Les autres points sont évidemment discutables. (désolé de réagir si tard, mais je suis en low-bloging en ce moment).
 
 ---
-

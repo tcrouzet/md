@@ -2,11 +2,11 @@
 
 [Tous les articles…](/feeds/feed.xml)
 
-[Blog…](/feeds/blog.xml) ([archive](/feeds/blog-all.xml))
+[Blog…](/feeds/blog.xml)
 
-[Carnet de route…](/feeds/carnet-de-route.xml) ([archive](/feeds/carnet-de-route-all.xml))
+[Carnet de route…](/feeds/carnet-de-route.xml)
 
-[Vélo…](/feeds/borntobike.xml) ([archive](/feeds/borntobike-all.xml))
+[Vélo…](/feeds/borntobike.xml)
 
 [De ma terrasse…](/feeds/digest.xml)
 

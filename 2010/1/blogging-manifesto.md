@@ -1,6 +1,6 @@
 # Blogging manifesto 1.0
 
-![](_i/3102241705_55eb5b91241.webp)
+![Manifesto](_i/3102241705_55eb5b91241.webp)
 
 1. Notre manifeste ne pourra jamais être écrit. Nos tentatives, nécessairement infructueuses, n’ont pour but que de provoquer la conversation.- Nous ne défendrons notre liberté que si nous nous lions les uns aux autres et respectons des règles qui ont pour effet de fluidifier nos interactions.
 
@@ -54,7 +54,7 @@ Dans une démocratie, aucune raison supérieure ne doit prévaloir sur la libert
 
 De même, juridiquement, un journaliste est mieux protégé qu’un citoyen. Un blogueur prend plus de risques quand il s’exprime qu’un journaliste. Ce dernier, couvert par son entreprise, ne risque en général par d’inculpation directe (sauf s’il est indépendant… ce qui le ramène au statut de citoyen). Cette inégalité juridique est une entrave à la libre application de la liberté d’expression.
 
-On parlera alors de l’art subventionné... Il me semble que l’État doit subventionner les infrastructures qui servent potentiellement tous les citoyens et non se lancer dans le mécénat. Pas simple cette affaire.
+On parlera alors de l’art subventionné… Il me semble que l’État doit subventionner les infrastructures qui servent potentiellement tous les citoyens et non se lancer dans le mécénat. Pas simple cette affaire.
 
 ### Commentaire point 5
 
@@ -114,6 +114,6 @@ Quel est le trafic général de la blogosphère ? Les sites pure-player annoncen
 
 ### Outil 2
 
-Les trackbacks ont été plus ou moins abandonnés, mais ils ont un grand intérêt. Les lecteurs d’un billet peuvent savoir les blogueurs qui ont écrit après coup. Il est ainsi possible de remonter dans le réseau. C’est un véritable outil de navigation alternatif, une façon d’explorer la blogosphère de proche en proche, aussi bien avec les liens entrants qu’avec les liens sortants. Il faudrait développer des plugins qui proposent cette fonction, qui postent par exemple des commentaires sous les billets pour chacun des liens entrants détecté.
+Les trackbacks ont été plus ou moins abandonnés, mais ils ont un grand intérêt. Les lecteurs d’un billet peuvent savoir les blogueurs qui ont écrit après coup. Il est ainsi possible de remonter dans le réseau. C’est un véritable outil de navigation alternatif, une façon d’explorer la blogosphère de proche en proche, aussi bien avec les liens entrants qu’avec les liens sortants. Il faudrait développer des plugins qui proposent cette fonction, qui postent par exemple des commentaires sous les billets pour chacun des liens entrants détecté. 
 
 #netculture #dialogue #y2010 #2010-1-29-14h55

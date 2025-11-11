@@ -10,7 +10,7 @@ prix: 13.0
 eprix: 4.99
 shops:
  - https://www.amazon.fr/dp/1981362940/ref=cm_sw_su_dp
- eshops:
+eshops:
  - https://www.7switch.com/fr/ebook/9782919358045/l-alternative-nomade
  - https://itunes.apple.com/fr/book/lalternative-nomade/id373773688?mt=11
  - https://www.amazon.fr/kindle/dp/B077WX2H7B/

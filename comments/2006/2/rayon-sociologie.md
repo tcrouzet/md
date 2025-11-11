@@ -1,11 +1,12 @@
 [Rayon sociologie !](../../../2006/2/rayon-sociologie.md)
 
 ---
+
 nblogwaves @ 2006-02-27 19:11:59
 
 ~laurent
 
-La solution est de le mettre en ligne ... comme ça les gens le rangent dans leur signet ou ils veulents (c’est a eux de l’associer au bon mot clef).
+La solution est de le mettre en ligne … comme ça les gens le rangent dans leur signet ou ils veulents (c’est a eux de l’associer au bon mot clef).
 
 ---
 
@@ -33,7 +34,4 @@ Monsieur veut son rayon perso à la Fnac ?
 
 -;)
 
-
-
 ---
-

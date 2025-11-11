@@ -1,3 +1,8 @@
+---
+metatitle: "Se soustraire au monde mainstream : résister autrement"
+metadescription: "Découvrez pourquoi se soustraire aux plateformes mainstream et à la culture normative devient un acte radical. Choisissez l'underground créatif."
+---
+
 # Se soustraire au monde
 
 ![Fin de partie](_i/2025-10-20-105955.webp)
@@ -62,6 +67,6 @@ Se retirer de cette monstruosité ne revient pas à dire non au monde mais oui �
 
 Ma soustraction du monde me fera mieux découvrir le monde et moi-même. Elle entraînera des rencontres et provoquera des projets. Je suis sûr que plus je me promènerai loin du bruit des autres, mieux je découvrirai mon silence et le chant des oiseaux. La foule écrase les fleurs, elle les piétine. Prendre le temps de m’agenouiller pour les observer. Alors des expériences nouvelles surviendront qui mériteront d’être partagées. J’ai déjà commencé. Je n’aurais pas écrit ce texte sans avoir entamé ma grande soustraction.
 
-*PS : Alors que je termine cet article, [A Westenberg en publie un qui lui ressemble](https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing), lui-même sans doute inspiré d’un article de [John Goerzen](https://changelog.complete.org/archives/13519-im-not-very-popular-thankfully-that-makes-the-internet-fun-again), elle et lui comme moi de vieux navigateurs de la chose numérique, sensibilisés aux brusques changements de direction du vent, surtout quand ils annoncent une tempête.*
+*PS : Alors que je termine cet article, [A Westenberg en publie un qui lui ressemble](https://www.joanwestenberg.com/p/you-are-insignificant-that-s-a-good-thing), lui-même sans doute inspiré d’un article de [John Goerzen](https://changelog.complete.org/archives/13519-im-not-very-popular-thankfully-that-makes-the-internet-fun-again), elle et lui comme moi de vieux navigateurs de la chose numérique, sensibilisés aux brusques changements de direction du vent, surtout quand ils annoncent une tempête.* 
 
 #netculture #y2025 #2025-10-20-17h00

@@ -2,7 +2,7 @@
 date: 2014-05-02
 genre: relato
 editor: CleanHandsSaveLives.org
-baseline: Salve vidas: lávese las manos
+baseline: Salve vidas, lávese las manos
 exergue: Una introducción a la economía de paz
 isbn: 9781499168310
 isbne: 9782919358342

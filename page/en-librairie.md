@@ -43,5 +43,4 @@ Où j’ai signé, où mes livres ont été coup de cœur…
 * [PlaceDesLibraires](https://www.placedeslibraires.fr/listeliv.php?base=paper&form_recherche_avancee=ok&auteurs=Thierry+Crouzet)
 * [Payot](https://www.payot.ch/Dynamics/Result?author=Thierry%20Crouzet)
 
-
 #page #y2015 #2015-9-21-7h54
