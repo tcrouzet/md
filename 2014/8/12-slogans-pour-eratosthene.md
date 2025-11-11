@@ -2,7 +2,7 @@
 
 ![](_i/feedbooks.png)
 
-C’est parti. Mon *[Ératosthène](../../page/eratosthene)* est disponible dans toutes les librairies à partir de maintenant. Un roman polyphonique ne peut avoir qu’un slogan, à vous de choisir celui qui vous donnera envie de [craquer quelques euros](http://blog.tcrouzet.com/eratosthene/?lib=1).
+C’est parti. Mon *[Ératosthène](../../page/eratosthene)* est disponible dans toutes les librairies à partir de maintenant. Un roman polyphonique ne peut avoir qu’un slogan, à vous de choisir celui qui vous donnera envie de craquer quelques euros.
 
 1. Un *Game of Thrones* antique, avec guerres et trahisons, sexe et passion, où philosophie et science remplacent la magie.
 2. On parle toujours de l’Ératosthène géographe, on oublie le mathématicien, le poète, l’historien, le haut fonctionnaire alexandrin, et surtout l’immense philosophe.
@@ -23,8 +23,6 @@ Plus…
 2. Ou comment transformer un ancien en moderne.
 3. À la recherche du moderne derrière l’antique.
 
-[caption id="attachment\_36887" align="aligncenter" width="600"]![Nuage par Bernard Strainchamps pour Feedbooks.](_i/feedbooks.png) Nuage par Bernard Strainchamps pour Feedbooks.[/caption]
-
-
+![Nuage par Bernard Strainchamps pour Feedbooks](_i/feedbooks.png) 
 
 #eratosthene #dialogue #y2014 #2014-8-28-8h55

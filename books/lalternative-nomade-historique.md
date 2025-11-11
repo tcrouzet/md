@@ -1,6 +1,6 @@
 # L'alternative nomade historique
 
-![](_i/couv1024.png)
+![Première couv](_i/couv-alternative_org.png)
 
 ### Historique
 

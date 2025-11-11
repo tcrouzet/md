@@ -2,11 +2,11 @@
 
 ![](_i/databaseconenctivity1.png)
 
-Depuis une semaine, *[La tune dans le caniveau](../../page/tune-caniveau)* est officiellement disponible. Hubert Guillaud m’a signalé que [Cory Doctorow](http://www.npr.org/blogs/alltechconsidered/2010/10/25/130811846/doctorow) tentait lui aussi son [expérience inédite](http://blog.tcrouzet.com/tune-caniveau/#expi).
+Depuis une semaine, *[La tune dans le caniveau](../../page/tune-caniveau)* est officiellement disponible. Hubert Guillaud m’a signalé que [Cory Doctorow](http://www.npr.org/blogs/alltechconsidered/2010/10/25/130811846/doctorow) tentait lui aussi son expérience inédite.
 
 Il annonce qu’il gagnera de cette manière 80 000 dollars et qu’il a déjà gagné 10 000 dollars en vendant un tirage de tête à ses fans. Pour ma part, je partagerai les revenus, qui seront infiniment plus faibles, avec tous les membres de l’équipe éditoriale. Dans un mail, Cory m’a dit qu’il fonctionnait sur l’échange réciproque :
 
-> Many of the participants in my project did it gratis, as part of a normal exchange of favors among friends, but a couple of the artists asked for points off the gross, and I’ve offered the sound mixer the same for the audiobooks.
+>Many of the participants in my project did it gratis, as part of a normal exchange of favors among friends, but a couple of the artists asked for points off the gross, and I’ve offered the sound mixer the same for the audiobooks.
 
 Ce n’est que dans ces conditions que nous pouvons parler d’[interdépendance libératrice](../5/la-liberte-le-lien.md) et nous éloigner du 2.0 : « Tu m’aides en échange de la gloire, moi j’encaisse. » J’applaudis le 2.0 quand il s’accompagne de réciprocité, en revanche je le crois dangereux quand un seul en est réellement bénéficiaire (l’opérateur du service par exemple). Cela nous plonge plus que jamais dans la logique capitaliste et même nous ramène à une forme d’esclavage, c’est-à-dire d’un travail non rémunéré.
 

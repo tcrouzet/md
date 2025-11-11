@@ -48,8 +48,6 @@ La Grande Dépression a favorisé l’émergence de dictateurs en Europe, notamm
 [Vous n’êtes pas perdu. Vous suivez simplement la carte de quelqu’un d’autre](https://bigthink.com/smart-skills/youre-not-lost-youre-just-following-someone-elses-map/) • EN • 6 min  
 Un parcours personnel de découverte de soi, où l’authenticité et les valeurs internes guident les choix de vie plutôt que les attentes externes.
 
-![](_i/Pastedimage20250406155303.png)
-
 [La couleur que vous voyez en premier sur cette image en dit long sur votre personnalité](https://www.psychologies.com/therapies/psychanalyse/La-couleur-que-vous-voyez-en-premier-sur-cette-image-en-dit-long-sur-votre-personnalite-592020) • FR • 3 min  
 Moi, j’ai tout vu d’un seul coup.
 
