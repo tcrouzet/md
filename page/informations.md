@@ -244,19 +244,19 @@ Mars, création de [Genlog](http://genlog.tcrouzet.com/), expérience de littér
 
 Avril, je me débarrasse définitivement de WordPress.
 
-Juin, début de *Rush*.
+Juin, début de [*Rush*](../books/rush.md).
 
 [**2025 - Articles**](/2025/)
 
-Janvier, *Rush* sortira en novembre chez PVH.
-
-Février, j’écris puis publie [*Le Livre contre-attaque*](https://github.com/tcrouzet/TheBookStrikeBack).
+Février, j’écris et publie [*Le Livre contre-attaque*](https://github.com/tcrouzet/TheBookStrikeBack).
 
 Mars, je quitte les réseaux sociaux privatifs.
 
-Juin, publication d’[*Épicènes*](../books/epicenes.md).
+Juin, publication d’[*Épicènes*](../books/epicenes.md) chez À la flamme.
 
 Juillet, début de *La Zone*.
+
+Novembre, publication de [*Rush*](../books/rush.md) chez PVH.
 
 ### Interviews
 
