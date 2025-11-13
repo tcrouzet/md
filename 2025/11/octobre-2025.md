@@ -1,6 +1,6 @@
 ---
 metatitle: Carnet de Thierry Crouzet, octobre 2025
-metadescription: Un mois bouleversé par le Covid et la maladie d'Isa. Entre fatigue existentielle, doutes sur l'écriture et questionnements sur les réseaux sociaux, Thierry retrouve peu à peu des forces grâce aux sorties vélo, au soutien des amis et à une nouvelle idée de roman.
+metadescription: COVID, fatigue existentielle, questionnements sur l'écriture. Entre la douleur d'Isa et la solidarité des amis, à la cherche de la nécessité.
 ---
 
 # Octobre 2025
@@ -9,7 +9,7 @@ metadescription: Un mois bouleversé par le Covid et la maladie d'Isa. Entre fat
 
 ### Mercredi 1<sup>er</sup>, Balaruc
 
-Hier, après mon voyage à vélo interrompu par un virus, je rentre à la maison avec mon vieux Kangou. Les gendarmes m’arrêtent. Un jeune boutonneux : « Votre véhicule n’a pas le contrôle technique. » Moi : « C’est possible. » Conséquence : j’effectue un contrôle en urgence, puis retourne à la gendarmerie récupérer ma carte grise confisquée. Je tombe sur le même jeune. Lui donne les papiers. Il s’éclipse dans un bureau. Un gradé apparaît, me dévisage avec une morve méchante. Peut-être parce que je porte un masque pour ne pas les contaminer avec ma crève. « Tu peux lui donner, c’est bon. » Pour qui il se prend ? Si je n’étais pas fiévreux et faible, je lui aurais demandé des explications. Pendant quelques secondes, j’étais black et subissais un délit de faciès.
+Hier, après mon voyage à vélo interrompu par un virus, je rentre à la maison avec mon vieux Kangou. Les gendarmes m’arrêtent. Un jeune boutonneux : « Votre véhicule n’a pas le contrôle technique. » Moi : « C’est possible. » Conséquence : j’effectue un contrôle en urgence, puis vais à la gendarmerie récupérer ma carte grise confisquée. Je tombe sur le même jeune. Lui donne les papiers. Il s’éclipse dans un bureau. Un gradé apparaît, me dévisage avec une morve méchante. Peut-être parce que je porte un masque pour ne pas les contaminer avec ma crève. « Tu peux lui donner, c’est bon. » Pour qui il se prend ? Si je n’étais pas fiévreux et faible, je lui aurais demandé des explications. Pendant quelques secondes, j’étais black et subissais un délit de faciès.
 
 ### Jeudi 2, Balaruc
 
