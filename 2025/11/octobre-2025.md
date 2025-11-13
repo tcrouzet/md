@@ -65,7 +65,7 @@ Je traîne mon covid autour de l’étang. Ce virus me prive d’énergie. Je p�
 
 ### Jeudi 9, Balaruc
 
-Nous sommes boulevard des Casernes, à Sète, arrêtés au feu, en route vers l’hôpital. Trois voitures devant nous, un gars sort de sa bagnole et commence à rouer de coups un gars sur un scooter. Les deux voitures doublent le pugilat et s’en vont. Je suis obligé de rentrer dans le tabasseur pour lui faire comprendre qu’il perd les pédales. Il me regarde les yeux exorbités. Un jeune d’une trentaine d’années. La société est malade. Les gens deviennent fous. Et les deux conducteurs devant moi se sont barrés sans rien tenter. Nous sommes bouleversés. Isa n’avait pas besoin d’une telle émotion.
+Nous sommes boulevard des Casernes, à Sète, arrêtés au feu, en route vers l’hôpital. Trois voitures devant nous, un gars sort de sa bagnole et commence à rouer de coups un gars sur un scooter. Les deux conducteurs intercalés se barrent sans rien tenter. Je suis obligé de rentrer dans le tabasseur pour lui faire comprendre qu’il perd les pédales. Il me regarde les yeux exorbités. Un jeune d’une trentaine d’années. La société est malade. Les gens deviennent fous. Nous sommes bouleversés. Isa n’avait pas besoin d’une telle émotion.
 
 ### Vendredi 10, Balaruc
 
