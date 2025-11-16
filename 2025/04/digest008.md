@@ -1,8 +1,8 @@
 # De ma terrasse #8
 
-![base nautique](_i/2025-04-11-101942-lamaison.webp)
-
 _Ma sélection du dimanche : **17** liens et une photo prise depuis ma terrasse._
+
+![base nautique](_i/2025-04-11-101942-lamaison.webp)
 
 ## Sciences et conscience
 

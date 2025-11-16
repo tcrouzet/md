@@ -1,8 +1,8 @@
 # De ma terrasse #3
 
-![Martin pêcheur](_i/2025-03-03-092329-lamaison.webp)
-
 _Bienvenue dans ma revue des liens du dimanche. Voici les **21** contenus qui ont marqué ma semaine._
+
+![Martin pêcheur](_i/2025-03-03-092329-lamaison.webp)
 
 ## Sciences et Environnement
 

@@ -1,8 +1,8 @@
 # De ma terrasse #22
 
-![Entrées maritimes](_i/2025-08-09-190939.webp)
-
 _Ma sélection du dimanche : **20** liens et une photo prise depuis ma terrasse._
+
+![Entrées maritimes](_i/2025-08-09-190939.webp)
 
 ## Astrophysique et cosmologie
 

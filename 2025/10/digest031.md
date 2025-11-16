@@ -1,8 +1,8 @@
 # De ma terrasse #31
 
-![24 octobre](_i/2025-10-24-193339.webp)
-
 _Ma sélection du dimanche : **21** liens et une photo prise depuis ma terrasse._ (J’ai remis de l’ordre dans [la liste des sites de mon feed reader](https://tcrouzet.com/page/lectures/)…)
+
+![24 octobre](_i/2025-10-24-193339.webp)
 
 ## Culture et littérature
 

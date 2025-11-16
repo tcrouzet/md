@@ -1,8 +1,8 @@
 # De ma terrasse #10
 
-![Printemps](_i/2025-04-25-133252.webp)
-
 _Ma sélection du dimanche : **26** liens et une photo prise depuis ma terrasse._
+
+![Printemps](_i/2025-04-25-133252.webp)
 
 ## Technologie & IA
 

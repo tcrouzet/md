@@ -1,8 +1,8 @@
 # De ma terrasse #19
 
-![Soir](_i/2025-07-04-214211.webp)
-
 _Ma sélection du dimanche : **14** liens et une photo prise depuis ma terrasse. De ma terrasse sera en pause pour deux semaines pendant que je pédalerai en Bretagne avec les copains._
+
+![Soir](_i/2025-07-04-214211.webp)
 
 ## Sciences et espace
 

@@ -1,8 +1,8 @@
 # De ma terrasse #25
 
-![Orage](_i/2025-08-28-172053.webp)
-
 _Ma sélection du dimanche : **14** liens et une photo prise depuis ma terrasse._
+
+![Orage](_i/2025-08-28-172053.webp)
 
 ## Intelligence artificielle : entre prouesses et dérives
 

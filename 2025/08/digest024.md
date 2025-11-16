@@ -1,8 +1,8 @@
 # De ma terrasse #24
 
-![Balaruc](_i/2025-08-20-225030.webp)
-
 _Ma sélection du dimanche : **16** liens et une photo prise depuis ma terrasse._
+
+![Balaruc](_i/2025-08-20-225030.webp)
 
 ## Santé et médecine
 

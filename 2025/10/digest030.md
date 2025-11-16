@@ -1,8 +1,8 @@
 # De ma terrasse #30
 
-![12 octobre](_i/2025-10-12-191840.webp)
-
 *Ma sélection du dimanche : **22** liens et une photo prise depuis ma terrasse. (Je semble sorti du covid et retrouve un peu d’énergie.)*
+
+![12 octobre](_i/2025-10-12-191840.webp)
 
 ## Culture et Arts
 

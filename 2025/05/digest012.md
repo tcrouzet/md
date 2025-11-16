@@ -1,8 +1,8 @@
 # De ma terrasse #12
 
-![Sète](_i/2025-05-17-064233.webp)
-
 _Ma sélection du dimanche : **13** liens et une photo prise depuis ma terrasse._
+
+![Sète](_i/2025-05-17-064233.webp)
 
 ## Intelligence artificielle et technologie
 

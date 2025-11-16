@@ -1,8 +1,8 @@
 # De ma terrasse #18
 
-![Canadair](_i/2025-06-25-204238.webp)
-
 _Ma sélection du dimanche : **9** liens et une photo prise depuis ma terrasse._
+
+![Canadair](_i/2025-06-25-204238.webp)
 
 ## Intelligence artificielle et informatique quantique
 

@@ -1,8 +1,8 @@
 # De ma terrasse #27
 
-![Mardi](_i/2025-09-10-195534-lamaison.webp)
-
 _Ma sélection du dimanche : **17** liens et une photo prise depuis ma terrasse._
+
+![Mardi](_i/2025-09-10-195534-lamaison.webp)
 
 ## Intelligence artificielle
 

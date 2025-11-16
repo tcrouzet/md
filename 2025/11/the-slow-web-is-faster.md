@@ -121,8 +121,8 @@ Le minimalisme numérique n’est donc pas vain en matière d’empreinte carbon
 
 *PS1 : Pour les geeks, je maintiens [une version Gemini](gemini://gemini.tcrouzet.com/). Il s’agit de servir le texte sans aucune fioriture [selon le protocole Gemini](https://fr.wikipedia.org/wiki/Gemini_(protocole)), ce qui est parfait pour des articles essentiellement textuels comme celui-ci. Les pages sont plus légères que sur mon slow web, mais je les héberge sur le NAS de la maison, ce qui est loin d’être optimal.*
 
-*PS2 : On me parle de [small web](https://smolweb.org/index.html), je ne connaissais pas (et j’apprends que ce serait la nouvelle dénomination de slow web — pour bien insister sur le fait que ce n’est pas nécessairement lent). Je viens de tester leur validateur et il déclare fautives toutes les balises destinées à optimiser la vitesse de chargement et réduire la bande passante consommée. C’est un peu paradoxal. Pour respecter ce standard, destiné à rendre les pages lisibles même sur des machines minimalistes, je devrais accroître l’impact carbone de mes pages.*
+*PS2 : On me parle de [small web](https://smolweb.org), je ne connaissais pas (et j’apprends que ce serait la nouvelle dénomination de slow web — pour bien insister sur le fait que ce n’est pas nécessairement lent). Je viens de tester leur validateur et il déclare fautives toutes les balises destinées à optimiser la vitesse de chargement et réduire la bande passante consommée. C’est un peu paradoxal. Pour respecter ce standard, destiné à rendre les pages lisibles même sur des machines minimalistes, je devrais accroître l’impact carbone de mes pages.*
 
-*PS3 : On m’a arlé de [Carbonalyser](https://addons.mozilla.org/fr/firefox/addon/carbonalyser/) mais pas de mise à jour depuis longtemps.*
+*PS3 : On m’a parlé de [Carbonalyser](https://addons.mozilla.org/fr/firefox/addon/carbonalyser/) mais pas de mise à jour depuis longtemps.* 
 
 #netculture #y2025 #2025-11-10-17h00

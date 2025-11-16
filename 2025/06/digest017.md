@@ -1,8 +1,8 @@
 # De ma terrasse #17
 
-![Sète](_i/2025-06-22-171221.webp)
-
 _Ma sélection du dimanche : **14** liens et une photo prise depuis ma terrasse._
+
+![Sète](_i/2025-06-22-171221.webp)
 
 ## Sciences et découvertes
 

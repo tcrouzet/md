@@ -1,8 +1,8 @@
 # De ma terrasse #23
 
-![Canadair](_i/2025-08-07-091225-lamaison.webp)
-
 _Ma sélection du dimanche : **9** liens et une photo prise depuis ma terrasse. Envoyé au pic de canicule (je lis peu d’articles et me concentre sur mon livre en cours)._
+
+![Canadair](_i/2025-08-07-091225-lamaison.webp)
 
 ## Intelligence artificielle et ses dérives
 

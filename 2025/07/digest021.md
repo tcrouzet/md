@@ -1,8 +1,8 @@
 # De ma terrasse #21
 
-![Voiliers](_i/2025-07-25-112349.webp)
-
 _Ma sélection du dimanche : **17** liens et une photo prise depuis ma terrasse._
+
+![Voiliers](_i/2025-07-25-112349.webp)
 
 ## Espace et cosmos
 

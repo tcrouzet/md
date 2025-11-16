@@ -1,8 +1,8 @@
 # De ma terrasse #13
 
-![En fleur](_i/2025-05-25-153825.webp)
-
 _Ma sélection du dimanche : **11** liens et une photo prise depuis ma terrasse._ Je lis peu d’articles en ce moment (le bruit extérieur me fatigue — concentré sur des projets persos). Petit Rappel : le 5/6 18h recontre à Balaruc, Librairie Nomade pour [la sortie d’*Épicènes*](https://tcrouzet.com/books/epicenes/), puis piquenique à la maison. Ça explose dans le jardin.
+
+![En fleur](_i/2025-05-25-153825.webp)
 
 ## Technologies d’intelligence artificielle
 

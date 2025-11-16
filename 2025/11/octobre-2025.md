@@ -5,8 +5,6 @@ metadescription: COVID, fatigue existentielle, questionnements sur l'écriture. 
 
 # Octobre 2025
 
-![Soir du 10 octobre](_i/2025-10-21-184701-lamaison.webp)
-
 ### Mercredi 1<sup>er</sup>, Balaruc
 
 Hier, après mon voyage à vélo interrompu par un virus, je rentre à la maison avec mon vieux Kangou. Les gendarmes m’arrêtent. Un jeune boutonneux : « Votre véhicule n’a pas le contrôle technique. » Moi : « C’est possible. » Conséquence : j’effectue un contrôle en urgence, puis vais à la gendarmerie récupérer ma carte grise confisquée. Je tombe sur le même jeune. Lui donne les papiers. Il s’éclipse dans un bureau. Un gradé apparaît, me dévisage avec une morve méchante. Peut-être parce que je porte un masque pour ne pas les contaminer avec ma crève. « Tu peux lui donner, c’est bon. » Pour qui il se prend ? Si je n’étais pas fiévreux et faible, je lui aurais demandé des explications. Pendant quelques secondes, j’étais black et subissais un délit de faciès.
@@ -170,6 +168,8 @@ Hier, la sortie vélo avec les copains a été moins pénible et je me suis remi
 [Une vidéo de Peter Leyden surréaliste](https://bigthink.com/series/the-big-think-interview/great-inflection-2025). Comment quelqu’un de sérieux peut-il croire à ce galimatias d’un nombrilisme américanocentré ? Je suis resté à écouter, frappé par l’absurdité de ce qui était énoncé avec le plus grand des sérieux. Un relent des théories d’[Oswald Spengler](https://fr.wikipedia.org/wiki/Oswald_Spengler "Oswald Spengler") dans [*Le déclin de l’Occident*](https://fr.wikipedia.org/wiki/Le_D%C3%A9clin_de_l%27Occident). Qui peut encore croire qu’il existe des cycles historiques immuables, étalonnés sur des durées précises et caricaturales ? Leyden s’invente une histoire, au profit d’un discours techno-optimiste alors que l’Amérique déraille, et nous avec. Nous avons basculé dans une époque où tout le monde cherche à s’exprimer quitte à dire n’importe quoi.
 
 ![Soir](_i/2025-10-21-184705-lamaison.webp)
+
+![Soir thumb](_i/2025-10-21-184701-lamaison.webp)
 
 ### Mercredi 22, Balaruc
 

@@ -1,8 +1,8 @@
 # De ma terrasse #33
 
-![Première neige](_i/2025-11-09-075526.webp)
-
 _Ma sélection du dimanche : **8** liens et une photo prise depuis ma terrasse. (Peu de lecture cette semaine, j’ai écrit un très long article qui a nécessité beaucoup de programmation. [Au fait, Rush est sorti.](https://tcrouzet.com/books/rush/))_
+
+![Première neige](_i/2025-11-09-075526.webp)
 
 ## Sciences et cognition
 

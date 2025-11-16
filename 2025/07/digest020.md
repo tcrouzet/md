@@ -1,8 +1,8 @@
 # De ma terrasse #20
 
-![Incendi](_i/2025-07-08-171211.webp)
-
 _Ma sélection du dimanche : **18** liens et une photo prise depuis ma terrasse. Je ne pars qu’aujourd’hui (j’ai préparé cette sélection hier)._
+
+![Incendi](_i/2025-07-08-171211.webp)
 
 ## Photographie et Arts Visuels
 

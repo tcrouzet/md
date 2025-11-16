@@ -6,6 +6,8 @@ Certaines photos sont libres de droit (Creative Commons by-nc), d’autres sont 
 
 ![Credit: Gamma-Rapho via Getty Images/Jean-Marc ZAORSKI](_i/crouzet-gama.jpeg)
 
+![2014, Federal Studio](_i/geneve2014g.webp)
+
 ![50 ans, 29 avril 2014, Genève par Federal studio (accord automatique - ref CF069793)](_i/CF069793.IIQ_.p.webp)
 
 ![50 ans, 29 avril 2014, Genève par Federal Studio](_i/rodin.webp)  

@@ -1,8 +1,8 @@
 # De ma terrasse #11
 
-![Dimanche](_i/2025-05-04-092728.webp)
-
 _Ma sélection du dimanche : **17** liens et une photo prise depuis ma terrasse._ Semaine prochaine je passerai mon tour, je serai en train de pédaler autour de l’Hérault à VTT.
+
+![Dimanche](_i/2025-05-04-092728.webp)
 
 ## Sciences et innovations
 

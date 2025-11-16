@@ -1,6 +1,8 @@
 # De ma terrasse #5
 
-![Optimist](_i/2025-03-20-112450.webp)*Ma sélection du dimanche : 19 liens et une photo prise depuis ma terrasse.*
+*Ma sélection du dimanche : 19 liens et une photo prise depuis ma terrasse.*
+
+![Optimist](_i/2025-03-20-112450.webp)
 
 ## Technologie et intelligence artificielle
 

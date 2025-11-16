@@ -1,8 +1,8 @@
 # De ma terrasse #7
 
-![Soir](_i/2025-03-31-203316-lamaison.webp)
-
 _Ma sélection du dimanche : **15** liens et une photo prise depuis ma terrasse._
+
+![Soir](_i/2025-03-31-203316-lamaison.webp)
 
 ## Intelligence artificielle et technologie
 

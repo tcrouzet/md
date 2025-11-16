@@ -1,10 +1,8 @@
 # De ma terrasse #32
 
+_Ma sélection du dimanche : **14** liens et une photo prise depuis ma terrasse._
+
 ![26 octobre](_i/2025-10-26-180603-lamaison.webp)
-
-_Ma sélection du dimanche : **14** liens et une photo prise depuis ma terrasse._
-
----
 
 ## Culture et société
 

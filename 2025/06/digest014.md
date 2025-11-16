@@ -1,8 +1,8 @@
 # De ma terrasse #14
 
-![L’étang](_i/2025-05-31-092649.webp)
-
 _Ma sélection du dimanche : **12** liens et une photo prise depuis ma terrasse._
+
+![L’étang](_i/2025-05-31-092649.webp)
 
 ## Intelligence artificielle : entre promesses et inquiétudes
 

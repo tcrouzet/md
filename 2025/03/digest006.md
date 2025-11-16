@@ -1,8 +1,8 @@
 # De ma terrasse #6
 
-![De ma terrasse](_i/2025-03-23-190625-lamaison.webp)
-
 _Ma sélection du dimanche : **19** liens et une photo prise depuis ma terrasse._
+
+![De ma terrasse](_i/2025-03-23-190625-lamaison.webp)
 
 ## Science et Espace
 

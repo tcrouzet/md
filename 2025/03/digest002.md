@@ -1,8 +1,8 @@
 # De ma terrasse #2
 
-![Soir](_i/2025-03-01-183118-lamaison.webp)
-
 _Bienvenue dans ma revue des liens du dimanche. Voici les_ **_18_** _contenus qui ont marqué ma semaine._
+
+![Soir](_i/2025-03-01-183118-lamaison.webp)
 
 ## Technologie et Intelligence Artificielle
 

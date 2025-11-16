@@ -1,8 +1,8 @@
 # De ma terrasse #29
 
-![4 octobre](_i/2025-10-04-073933.webp)
-
 *Ma sélection du dimanche : **19** liens et une photo prise depuis ma terrasse (tout ça depuis un bon Covid).*
+
+![4 octobre](_i/2025-10-04-073933.webp)
 
 ## Intelligence artificielle et productivité
 

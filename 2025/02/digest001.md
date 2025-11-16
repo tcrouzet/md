@@ -1,8 +1,8 @@
 # De ma terrasse #1
 
-![Soir](_i/2025-02-23-182201-lamaison.webp)
-
 *Bienvenue dans ma revue des liens du dimanche. Voici les contenus qui ont marqué ma semaine, sur [Mastodon](https://mamot.fr/@tcrouzet) et ailleurs.*
+
+![Soir](_i/2025-02-23-182201-lamaison.webp)
 
 ## Technologie et Intelligence Artificielle
 

@@ -1,8 +1,8 @@
 # De ma terrasse #15
 
-![Voiliers](_i/2025-06-03-094903-lamaison.webp)
-
 _Ma sélection du dimanche : **9** liens et une photo prise depuis ma terrasse._ Et ne ratez pas [la vidéo de la rencontre autour d’*Épicènes*](https://tcrouzet.com/2025/06/07/video-epicenes-vibe-writting/).
+
+![Voiliers](_i/2025-06-03-094903-lamaison.webp)
 
 ## Culture et divertissement
 

@@ -1,8 +1,8 @@
 # De ma terrasse #16
 
-![Nuit](_i/2025-06-10-032432.webp)
-
 _Ma sélection du dimanche : **12** liens et une photo prise depuis ma terrasse._
+
+![Nuit](_i/2025-06-10-032432.webp)
 
 ## Technologie et Intelligence artificielle
 

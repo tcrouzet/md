@@ -1,8 +1,8 @@
 # De ma terrasse #9
 
-![Sète](_i/2025-04-18-070011-lamaison.webp)
-
 _Ma sélection du dimanche : **18** liens et une photo prise depuis ma terrasse._
+
+![Sète](_i/2025-04-18-070011-lamaison.webp)
 
 ## Intelligence Artificielle et Avenir Technologique
 
