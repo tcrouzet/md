@@ -247,6 +247,6 @@ Dans la nuit, une idée de roman ou plutôt de fable postapocalyptique, un *The 
 
 ### Vendredi 31, Balaruc
 
-Drôle de mois d’octobre qui s’achève, commencé avec mon covid et les douleurs extrêmes d’Isa, illuminé par la solidarité des amis, extraordinaires de présence, de disponibilité, qui passent à la maison déposer des plats amoureusement préparés — vous me donnez beaucoup d’espoir quant à l’humanité —, et je termine cette séquence noyé dans le code comme j’en ai l’habitude de temps à autre, au clavier de 4h à 22h, quand je ne prépare pas à manger ou ne fais pas les courses. Une fuite peut-être, mais peut-être aussi un espoir.
+Drôle de mois d’octobre qui s’achève, commencé avec mon covid et les douleurs extrêmes d’Isa, illuminé par la solidarité des amis, extraordinaires de présence, de disponibilité, qui passent à la maison déposer des plats amoureusement préparés — vous me donnez beaucoup d’espoir quant à l’humanité —, et je termine cette séquence noyé dans le code comme j’en ai l’habitude de temps à autre, au clavier de 4h à 22h, quand je ne prépare pas à manger ou ne fais pas les courses. Une fuite peut-être, mais peut-être aussi un espoir. 
 
 #carnets #y2025 #2025-11-13-11h00
