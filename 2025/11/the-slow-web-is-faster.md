@@ -123,6 +123,6 @@ Le minimalisme numérique n’est donc pas vain en matière d’empreinte carbon
 
 *PS2 : On me parle de [small web](https://smolweb.org), je ne connaissais pas (et j’apprends que ce serait la nouvelle dénomination de slow web — pour bien insister sur le fait que ce n’est pas nécessairement lent). Je viens de tester leur validateur et il déclare fautives toutes les balises destinées à optimiser la vitesse de chargement et réduire la bande passante consommée. C’est un peu paradoxal. Pour respecter ce standard, destiné à rendre les pages lisibles même sur des machines minimalistes, je devrais accroître l’impact carbone de mes pages.*
 
-*PS3 : On m’a parlé de [Carbonalyser](https://addons.mozilla.org/fr/firefox/addon/carbonalyser/) mais pas de mise à jour depuis longtemps.* 
+*PS3 : On m’a parlé de [Carbonalyser](https://addons.mozilla.org/fr/firefox/addon/carbonalyser/) mais pas de mise à jour depuis longtemps.*
 
 #netculture #y2025 #2025-11-10-17h00
