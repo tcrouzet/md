@@ -1,3 +1,8 @@
+---
+metatitle: "De ma terrasse, semaine du 16 novembre 2025"
+metadescription: "Entre cyberattaque orchestrée par l'IA et manipulation politique, la semaine interroge les dérives technologiques et leurs impacts sur notre avenir."
+---
+
 # De ma terrasse #34
 
 _Ma sélection du dimanche : **14** liens et une photo prise depuis ma terrasse._
