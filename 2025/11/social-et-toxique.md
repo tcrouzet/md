@@ -27,6 +27,6 @@ Nous ne sommes pas aussi courageux. Pour la plupart, nous avons la trouille de c
 
 Quand j’ai sacrifié mes comptes sociaux, j’ai perdu de l’influence et des lecteurs, tout en me libérant d’un poids immense et en retrouvant beaucoup de temps pour la rêverie et la lecture. Il serait temps que les fameux influenceurs renoncent, parce qu’ils ont signé des pactes avec leur sang (et leur gagne-pain, et leur position sociale). Pourquoi Macron ne ferait-il pas le premier pas ? En a-t-il seulement le courage ? Ou se croit-il plus fort qu’Anakin, capable de jouer avec le côté obscur sans se brûler ? [Tout le monde se demande pourquoi il ne quitte pas.](https://www.radiofrance.fr/franceinter/podcasts/dov-alfon-en-toute-subjectivite/dov-alfon-en-toute-subjectivite-du-mardi-14-janvier-2025-3472041) Mais vous, pourquoi ne quittez-vous pas ? [Vous ne pourrez pas dire que vous ne saviez pas.](https://www.presse-citron.net/scandale-hallucinant-meta-arnaques-publicites-profits/)
 
-*PS : Comme je ne publie pas ce texte sur les réseaux sociaux truffés d’algorithmes et où les destins se jouent, il ne touchera pas ceux qui auraient profit à le lire. Je ne peux même pas utiliser de hashtag pour alerter l’Élysée.*
+*PS : Comme je ne publie pas ce texte sur les réseaux sociaux truffés d’algorithmes et où les destins se jouent, il ne touchera pas ceux qui auraient profit à le lire. Je ne peux même pas utiliser de hashtag pour alerter l’Élysée.* 
 
 #netculture #y2025 #2025-11-11-10h00
