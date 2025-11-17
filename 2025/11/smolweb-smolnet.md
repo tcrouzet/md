@@ -54,14 +54,18 @@ Les performances sont quasi identiques, un poil favorables à l’intégration, 
 
 L’idée : autoriser seulement les balises qui ne ralentissent pas le navigateur tout en restant compatibles avec des navigateurs anciens. Je me suis pris au jeu, réussissant à me limiter aux balises de niveau A et B sur [mon miroir GitHub](https://static.tcrouzet.com/). Le validateur a fantasmé des erreurs, ce qui l’a empêché de me certifier, mais ce n’est pas le plus important. Si PageSpeed n’a pas détecté d’amélioration avec le passage au SmolWeb, les ressources consommées sont bel et bien inférieures (voir tableau), du moins pour les pages textelles.
 
-La situation est moins favorable avec les pages illustrées : le standard SmolWeb impose de  charger toutes les images, même si le lecteur ne les visualise pas toutes. Lors de mes test avec [mon carnet d’octobre](https://tcrouzet.com/2025/11/13/octobre-2025/), la version SmolWeb est plus dispendieuse en bande passante, alors que les images sont de taille moindre. Bien sûr, la situation s’inverse si le lecteur lit l’intégralité du journal.
+La situation est moins favorable avec les pages illustrées : le standard SmolWeb impose de charger toutes les images, même si le lecteur ne les visualise pas toutes. Lors de mes test avec [mon carnet d’octobre](https://tcrouzet.com/2025/11/13/octobre-2025/), la version SmolWeb est plus dispendieuse en bande passante, alors que les images sont de taille moindre. Bien sûr, la situation s’inverse si le lecteur lit l’intégralité du journal.
 
 ![SmolWeb thumb](_i/layout05.webp)
 
 Je pourrais pousser le jeu plus loin, mais au prix d’une ergonomie dégradée (impossible de maintenir la lisibilité sur des écrans de taille très variable sans adapter dynamiquement la mise en page). J’ai la satisfaction de me dire que ma version SmolWeb conviendra à quelques amoureux du minimalisme.
 
-Il est temps que j’arrête ces bricolages, aussi amusants qu’édifiants, mais j’en arrive à ne plus gratter que des octets et des grammes de CO<sub>2</sub>. Ce travail m’a poussé à repenser mon site et à remettre en cause quelques-unes de mes idées reçues. Ça fait toujours du bien au cerveau. 
+Il est temps que j’arrête ces bricolages, aussi amusants qu’édifiants, mais j’en arrive à ne plus gratter que des octets et des grammes de CO<sub>2</sub>. Ce travail m’a poussé à repenser mon site et à remettre en cause quelques-unes de mes idées reçues. Ça fait toujours du bien au cerveau.
 
 ![Les deux versions](_i/layout08.webp)
+
+### Pour vos yeux
+
+Comme je travaille toujours avec [une palette de couleurs solarisées](https://ethanschoonover.com/solarized/), je me suis résolu à publier mon blog dans les mêmes couleurs, parce qu’elles limitent la fatigues visuelles sur écran.
 
 #netculture #y2025 #2025-11-16-22h00
