@@ -60,7 +60,7 @@ La situation est moins favorable avec les pages illustrées : le standard SmolW
 
 Je pourrais pousser le jeu plus loin, mais au prix d’une ergonomie dégradée (impossible de maintenir la lisibilité sur des écrans de taille très variable sans adapter dynamiquement la mise en page). J’ai la satisfaction de me dire que ma version SmolWeb conviendra à quelques amoureux du minimalisme.
 
-Il est temps que j’arrête ces bricolages, aussi amusants qu’édifiants, mais j’en arrive à ne plus gratter que des octets et des grammes de CO<sub>2</sub>. Ce travail m’a poussé à repenser mon site et à remettre en cause quelques-unes de mes idées reçues. Ça fait toujours du bien au cerveau.
+Il est temps que j’arrête ces bricolages, aussi amusants qu’édifiants, mais j’en arrive à ne plus gratter que des octets et des grammes de CO<sub>2</sub>. Ce travail m’a poussé à repenser mon site et à remettre en cause quelques-unes de mes idées reçues. Ça fait toujours du bien au cerveau. 
 
 ![Les deux versions](_i/layout08.webp)
 
