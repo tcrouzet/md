@@ -15,7 +15,7 @@ Hier, après mon voyage à vélo interrompu par un virus, je rentre à la maison
 
 Le livre est-il désuet ? J’espère avoir démontré le contraire dans [*Le livre contre-attaque*](https://tcrouzet.com/books/livre-contre-attaque/). Certaines choses ne se démodent pas vite contrairement à d’autres.
 
-Au rang des indémodables : le livre, objet culturel autonome, transportable, échangeable de la main à la main, dont nous sommes possesseurs, où rien textuellement ou graphiquement n’est interdit. On peut désormais penser le livre comme un site web embarqué, ce à quoi jouent [les éditions Abrüpt](éditions Abrupt), mais on peut aussi en rester à une linéarité minimaliste parce qu’elle suit le temps de nos vies.
+Au rang des indémodables : le livre, objet culturel autonome, transportable, échangeable de la main à la main, dont nous sommes possesseurs, où rien textuellement ou graphiquement n’est interdit. On peut désormais penser le livre comme un site web embarqué, ce à quoi jouent [les éditions Abrüpt](https://abrupt.cc/), mais on peut aussi en rester à une linéarité minimaliste parce qu’elle suit le temps de nos vies.
 
 Au rang des démodables : les réseaux sociaux centralisés, propriétaires, liberticides qui sapent les bases de la démocratie, qui nous font entrer dans un espace totalitaire où les oligarques s’amusent de nos contenus, les montrent à qui ils le veulent, finissent par nous imposer leurs modes de pensée. Contrairement à mon ami, j’ai peu à peu tourné le dos à cet espace politiquement insupportable. J’observe avec désespoir beaucoup d’esprits jadis éclairés s’accrocher à ces chimères au nom de la préservation de leur audience.
 
