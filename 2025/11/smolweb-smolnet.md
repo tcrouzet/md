@@ -48,11 +48,17 @@ Une fois compressés, mon CSS et mon JS occupent au total 10 Ko. J’avais deux
 
 Les performances sont quasi identiques, un poil favorables à l’intégration, ce que j’ai choisi. Avantage : on peut télécharger mes pages, puis les ouvrir en local. Désavantage : les robots et autres aspirateurs, qui consomment une grande partie de la bande passante, n’ont plus d’autre choix que de changer chaque fois les 10 Ko supplémentaires. L’écart entre les deux versions est de l’ordre du négligeable. Je privilégie donc la portabilité et la vitesse d’affichage.
 
-![Performances comparées](_i/layout07.webp)
+### Pour vos yeux
+
+Comme je travaille toujours avec [une palette de couleurs solarisées](https://ethanschoonover.com/solarized/), je me suis résolu à publier mon blog dans les mêmes couleurs, parce qu’elles limitent la fatigues visuelles sur écran. J’ai ajouté en prime la gestion du mode clair et du mode sombre en fonction de votre réglage systèmes.
+
+![Solarisé](_i/layout09.webp)
 
 ### Standard SmolWeb
 
 L’idée : autoriser seulement les balises qui ne ralentissent pas le navigateur tout en restant compatibles avec des navigateurs anciens. Je me suis pris au jeu, réussissant à me limiter aux balises de niveau A et B sur [mon miroir GitHub](https://static.tcrouzet.com/). Le validateur a fantasmé des erreurs, ce qui l’a empêché de me certifier, mais ce n’est pas le plus important. Si PageSpeed n’a pas détecté d’amélioration avec le passage au SmolWeb, les ressources consommées sont bel et bien inférieures (voir tableau), du moins pour les pages textelles.
+
+![Performances comparées](_i/layout07.webp)
 
 La situation est moins favorable avec les pages illustrées : le standard SmolWeb impose de charger toutes les images, même si le lecteur ne les visualise pas toutes. Lors de mes test avec [mon carnet d’octobre](https://tcrouzet.com/2025/11/13/octobre-2025/), la version SmolWeb est plus dispendieuse en bande passante, alors que les images sont de taille moindre. Bien sûr, la situation s’inverse si le lecteur lit l’intégralité du journal.
 
@@ -63,9 +69,5 @@ Je pourrais pousser le jeu plus loin, mais au prix d’une ergonomie dégradée 
 Il est temps que j’arrête ces bricolages, aussi amusants qu’édifiants, mais j’en arrive à ne plus gratter que des octets et des grammes de CO<sub>2</sub>. Ce travail m’a poussé à repenser mon site et à remettre en cause quelques-unes de mes idées reçues. Ça fait toujours du bien au cerveau.
 
 ![Les deux versions](_i/layout08.webp)
-
-### Pour vos yeux
-
-Comme je travaille toujours avec [une palette de couleurs solarisées](https://ethanschoonover.com/solarized/), je me suis résolu à publier mon blog dans les mêmes couleurs, parce qu’elles limitent la fatigues visuelles sur écran.
 
 #netculture #y2025 #2025-11-16-22h00
