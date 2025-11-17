@@ -1,10 +1,8 @@
-# Informations
-
-![2014, Federal Studio](_i/geneve2014g.webp)
+# Présentation
 
 « Expert de rien » : c’est ma façon d’aborder la littérature, l’édition, la tech, le quotidien… [Mes séries thématiques](/series/) explorent les questions de notre temps, avec [mes carnets mensuels](/tag/carnet-de-route/) comme fil rouge.
 
----
+![2014, Federal Studio](_i/geneve2014g.webp)
 
 Je suis un archéo-geek. Un archi-vieux-geek. Un dino-geek. Un geek fossile. Quand en 2006 je publie le [*Peuple des connecteurs*](../books/le-peuple/le-peuple-des-connecteurs.md), je crois avoir écrit un essai philosophico-techno-scientifique. Surprise, il est rangé en sociologie. Par la suite, sur mon blog, jai creusé les idées politiquement incorrectes de ce manifeste, avançant grâce à mes lecteurs dans des directions que je n’avais jamais explorées. [*Le cinquième pouvoir*](../books/cinquieme-pouvoir/le-cinquieme-pouvoir.md) et [*L’alternative nomade*](../books/alternative-nomade.md) développent mes investigations. Ce travail théorique a fini par m’épuiser. En avril 2011, [*J’ai débranché*](../books/jai-debranche/jai-debranche.md) pour me retrouver.
 
