@@ -50,7 +50,7 @@ Les performances sont quasi identiques, un poil favorables à l’intégration, 
 
 ### Pour vos yeux
 
-Comme je travaille toujours avec [une palette de couleurs solarisées](https://ethanschoonover.com/solarized/), je me suis résolu à publier mon blog dans les mêmes couleurs, parce qu’elles limitent la fatigues visuelles sur écran. J’ai ajouté en prime la gestion du mode clair et du mode sombre en fonction de votre réglage systèmes.
+Comme je travaille toujours avec [une palette de couleurs solarisées](https://ethanschoonover.com/solarized/), je me suis résolu à publier mon blog dans les mêmes couleurs, parce qu’elles limitent la fatigues visuelles sur écran. J’ai ajouté en prime la gestion du mode clair et du mode sombre en fonction de vos réglages systèmes.
 
 ![Solarisé](_i/layout09.webp)
 
