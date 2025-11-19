@@ -27,17 +27,17 @@ Dans ce roman se contaminent deux genres *a priori* étrangers, la science-ficti
 
 ![Rush 7](_i/rush07.webp)
 
-À ce stade, tout est permis. Créer une vidéo de présentation est-ce encore humain ? J’ai demandé à NotebookLM de me générer deux vidéos que j’ai combinées. La présentatrice peine avec des mots comme « archéofiction » ou « chaotique », les images sont kitsch, mais le fond du message est bon et sans la moindre erreur.
+À ce stade, tout est permis. Créer une vidéo de présentation est-ce encore humain ? J’ai demandé à NotebookLM de me générer deux vidéos que j’ai combinées. La présentatrice peine avec des mots comme « archéofiction » ou « chaotique », les images sont kitsch, mais le fond du message est bon et sans erreur.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ARKn3pMwCU?si=x9KBcrJzSLLxQmBV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Toujours, dans NotebookLM, j’ai essayé de me faire interviewer.
 
-— Ce qui frappe d’emblée dans Rush, c’est son architecture narrative : vous nous transportez à la fois dans votre intimité en 2024-2025 et en 2352, où des archéologues explorent votre maison engloutie. Pouvez-vous nous expliquer la nécessité de cette double narration pour questionner ce qui fait de nous des humains quand les IA commencent à écrire des romans ?
+*— Ce qui frappe d’emblée dans Rush, c’est son architecture narrative : vous nous transportez à la fois dans votre intimité en 2024-2025 et en 2352, où des archéologues explorent votre maison engloutie. Pouvez-vous nous expliquer la nécessité de cette double narration pour questionner ce qui fait de nous des humains quand les IA commencent à écrire des romans ?*
 
 — Pour répondre à cette question, il me faudrait raconter le roman, et je ne vais pas le faire, car il me faudrait un roman pour le faire. Et après vous me demanderez pourquoi j’ai écrit un roman pour expliquer un roman. Vous avez un exemple de la différence entre une machine et un humain.
 
-— Le concept central de votre œuvre est le rush, cette décharge d’énergie qui nous traverse quand on crée. Comment ce phénomène, qui naît de l’imperfection et du corps qui souffre, désire, vieillit, représente-t-il la ligne de faille infranchissable entre la création humaine et l’artificielle ?
+*— Le concept central de votre œuvre est le rush, cette décharge d’énergie qui nous traverse quand on crée. Comment ce phénomène, qui naît de l’imperfection et du corps qui souffre, désire, vieillit, représente-t-il la ligne de faille infranchissable entre la création humaine et l’artificielle ?*
 
 — Encore une fois, pour répondre, je dois raconter. Vous croyez que les journalistes demandent aux auteurs de se trahir de cette façon ?
 
