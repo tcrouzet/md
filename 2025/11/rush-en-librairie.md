@@ -55,6 +55,6 @@ Trois siècles plus tard, la Terre se réinvente sous l’égide des IA après l
 
 Commence alors une enquête archéologique où chaque découverte force Roc et Sally à remettre en question leur existence. Au fil des pages, les deux récits — le carnet intime de Crouzet en 2024 et l’aventure de Roc et Sally en 2352 — se contaminent. Le roman ne se contente pas de raconter une histoire, il la performe, mettant en scène la confrontation entre l’art humain et les productions artificielles, notamment à travers les dialogues entre Crouzet et Charlie, son IA. Charlie, du reste, qui lui reproche le manque de mordant de son texte, suggère ironiquement les pistes narratives menant à l’apocalypse fictionnelle.
 
-La véritable énigme ici n’est pas de savoir qui a tué qui, mais de comprendre ce qui advient quand le texte se met à détruire le réel qu’il a créé.
+La véritable énigme ici n’est pas de savoir qui a tué qui, mais de comprendre ce qui advient quand le texte se met à détruire le réel qu’il a créé. 
 
 #netlitterature #rush #ia #y2025 #2025-11-19-12h00
