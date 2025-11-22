@@ -43,7 +43,7 @@ J’ai parcouru les notes associées à [cette newsletter](https://substack.com/
 
 >Substack est donc en infraction flagrante en Europe.
 
-Plutôt que quitter immédiatement Substack, je vais traduire cet article et le leur envoyer, leur demandant de se mettre en conformité avec nos législations, d’autant que Substack se développe à vitesse exponentielle chez nous. Je vais tenter d’agir de l’intérieur. Si rien ne change, j’en tirerai les conséquences, comme de nombreux auteurs et journalistes avant moi.
+Plutôt que quitter immédiatement Substack, je vais [traduire cet article](https://tcrouzet.com/2025/11/22/substack-dsa-us/) et le leur envoyer, [leur demandant de se mettre en conformité avec nos législations](https://support.substack.com/hc/en-us/requests), d’autant que Substack se développe à vitesse exponentielle chez nous. Je vais tenter d’agir de l’intérieur. Si rien ne change, j’en tirerai les conséquences, comme de nombreux auteurs et journalistes avant moi.
 
 Si je me résigne à quitter Substack, ce sera avec regret : en quelques mois, j’y ai recréé une communauté sympathique, qui m’a redonné foi dans le web collaboratif comme nous l’avons connu avec les blogs avant l’émergence des réseaux sociaux.
 
