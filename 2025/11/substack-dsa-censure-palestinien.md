@@ -151,6 +151,6 @@ While they pretend to be deaf.
 
 ---
 
-Only now do I understand why this child asks all these questions… Perhaps this bitter reality is more than his innocent heart can bear.
+Only now do I understand why this child asks all these questions… Perhaps this bitter reality is more than his innocent heart can bear. 
 
 #netculture #y2025 #2025-11-22-13h00
