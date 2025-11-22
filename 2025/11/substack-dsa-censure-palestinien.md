@@ -23,7 +23,7 @@ Hier, vendredi 21 novembre 2025 à 22h, Ploum m’a alerté sur le cas de [Joy](
 
 Dans la foulée, [Sidoine](https://mamot.fr/@Sidoine@peculiar.florist) me pointe vers une résurgence de contenus nazis sur Substack en juillet 2025 (Gizmodo : [Substack Sends Push Alert for Nazi Newsletter](https://gizmodo.com/substack-sends-push-alert-for-nazi-newsletter-2000636663)). Soi-disant par erreur, Substack a incité certains abonnés de consulter une newsletter pronazie. Cette affaire a poussé de nouveaux auteurs à quitter Substack pour [Ghost](https://ghost.org/). David Farrier explique sa démarche dans [An August AMA!](https://www.webworm.co/august2025ama/) et [Some More Thoughts on Substack](https://www.webworm.co/moresubstackthoughts/).
 
-Dès janvier 2024, [il alerte comme beaucoup d’autres sur les contenus nazis disponibles sur Substack](https://www.webworm.co/when-good-dogs-do-bad-things/) et comme beaucoup d’autres leur suppression le rassurent. [Mais durant l’été 2025](https://www.usermag.co/p/substack-sent-a-push-alert-promoting-nazi-white-supremacist-blog), deux événements le décident à quitter : le push par Substack de la lettre nazie et la censure d’une photo illustrant le génocide palestinien. 
+Dès janvier 2024, [il alerte comme beaucoup d’autres sur les contenus nazis disponibles sur Substack](https://www.webworm.co/when-good-dogs-do-bad-things/) et comme beaucoup d’autres leur suppression le rassurent. [Mais durant l’été 2025](https://www.usermag.co/p/substack-sent-a-push-alert-promoting-nazi-white-supremacist-blog), deux événements le décident à quitter : le push par Substack de la lettre nazie et le blocage d’une photo illustrant le génocide palestinien. 
 
 ![Note de Farrier censurée](_i/faber.webp)
 
