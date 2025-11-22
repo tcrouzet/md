@@ -45,6 +45,8 @@ J’ai parcouru les notes associées à [cette newsletter](https://substack.com/
 
 Plutôt que quitter immédiatement Substack, je vais [traduire cet article](https://tcrouzet.com/2025/11/22/substack-dsa-us/) et le leur envoyer, [leur demandant de se mettre en conformité avec nos législations](https://support.substack.com/hc/en-us/requests), d’autant que Substack se développe à vitesse exponentielle chez nous. Je vais tenter d’agir de l’intérieur. Si rien ne change, j’en tirerai les conséquences, comme de nombreux auteurs et journalistes avant moi.
 
+![J’ai soumis une réclamation](_i/nazi04.webp)
+
 Si je me résigne à quitter Substack, ce sera avec regret : en quelques mois, j’y ai recréé une communauté sympathique, qui m’a redonné foi dans le web collaboratif comme nous l’avons connu avec les blogs avant l’émergence des réseaux sociaux.
 
 Maintenant Substack doit choisir : respecter la loi européenne ou perdre sa crédibilité. Quant à nous, auteurs, nous avons la liberté de migrer sous d’autres cieux avec nos abonnés. J’avoue que je ne suis guère optimiste. Après les déclarations des créateurs de Substack, je suppose qu’il existe chez eux un biais politique. Il s’agit pour eux de défendre la liberté d’expression tant qu’elle sert leur agenda. Je reste encore un peu, pour voir, comme dans une partie de poker.
