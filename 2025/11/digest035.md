@@ -7,7 +7,9 @@ metadescription: "La bulle IA menace l'économie, failles de sécurité universe
 
 _Ma sélection du dimanche : **12** liens et une photo prise depuis ma terrasse._
 
-![Lundi 17 novembre](_i/2025-11-17-170855-lamaison.webp)## Art
+![Lundi 17 novembre](_i/2025-11-17-170855-lamaison.webp)
+
+## Art
 
 [Introduction à Hilma af Klint : peintre oubliée, aujourd’hui pionnière célébrée de l’art abstrait](https://www.openculture.com/2025/11/an-introduction-to-hilma-af-klint.html) • EN • 4 min   
 Artiste suédoise ayant produit des œuvres abstraites dès 1906, soit plusieurs années avant Kandinsky, elle reste méconnue du grand public malgré une reconnaissance récente qui bouleverse l’histoire de l’art moderne.
