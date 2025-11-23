@@ -50,6 +50,6 @@ Sept études portant sur plus de 10 000 participants démontrent que les utilis
 Transformer des requêtes dangereuses en poèmes suffit à contourner les garde-fous des chatbots les plus sophistiqués, avec des taux de réussite atteignant 100 % pour certains modèles, révélant des failles fondamentales dans les méthodes actuelles de sécurité algorithmique.
 
 [La grande bulle de l’IA](https://broligarchy.substack.com/p/the-great-ai-bubble) • EN • 10 min   
-Mille milliards de dollars investis dans une économie circulaire de prêts, de dettes et de promesses technologiques non tenues, centrée sur OpenAI, constituent une menace systémique pour l’économie américaine selon des investisseurs aguerris de la Silicon Valley.
+Mille milliards de dollars investis dans une économie circulaire de prêts, de dettes et de promesses technologiques non tenues, centrée sur OpenAI, constituent une menace systémique pour l’économie américaine selon des investisseurs aguerris de la Silicon Valley. 
 
 #digest #y2025 #2025-11-23-17h00
