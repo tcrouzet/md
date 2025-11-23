@@ -5,7 +5,7 @@ metadescription: "La bulle IA menace l'économie, failles de sécurité universe
 
 # De ma terrasse #35
 
-_Ma sélection du dimanche : **12** liens et une photo prise depuis ma terrasse._
+_Ma sélection du dimanche : **11** liens et une photo prise depuis ma terrasse._
 
 ![Lundi 17 novembre](_i/2025-11-17-170855-lamaison.webp)
 
