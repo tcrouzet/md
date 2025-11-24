@@ -43,6 +43,8 @@ J’ai parcouru les notes associées à [cette newsletter](https://substack.com/
 
 >Substack est donc en infraction flagrante en Europe.
 
+[![Mon signalement DSA](_i/DSA.webp)](https://digital-services-act-whistleblower.integrityline.app/)
+
 Plutôt que quitter immédiatement Substack, je vais [traduire cet article](https://tcrouzet.com/2025/11/22/substack-dsa-us/) et le leur envoyer, [leur demandant de se mettre en conformité avec nos législations](https://support.substack.com/hc/en-us/requests), d’autant que Substack se développe à vitesse exponentielle chez nous. Je vais tenter d’agir de l’intérieur. Si rien ne change, j’en tirerai les conséquences, comme de nombreux auteurs et journalistes avant moi.
 
 ![J’ai soumis une réclamation](_i/nazi04.webp)
