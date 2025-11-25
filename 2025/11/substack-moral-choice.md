@@ -59,8 +59,6 @@ Reste que Ghost s’apparente à une machine surdimensionnée quand on ne souhai
 
 Par bien des côtés, [Patreon](https://www.patreon.com/) ressemble à Substack. Il propose gratuitement des newsletters illimitées, avec commentaires et chats, accessibles depuis le web et une app. En revanche, pour recevoir les éditions par email, il faut rejoindre en tant que membre, ce qui ajoute un léger frottement par rapport à l’abonnement email direct de Substack. La découverte et les recommandations intercréatrices sont aussi moins puissantes. Je ne vois pas beaucoup d’avantages à passer de Substack à Patreon, solution également privative et qui n’offre pas plus de garantie de transparence.
 
-![Patreon est fermé](_i/patreon.webp)
-
 [Beehiiv](https://www.beehiiv.com/) se veut le concurrent de Substack, avec une offre gratuite jusqu’à 2,5K abonnés, après c’est l’escalade tarifaire. Mais c’est clairement un service non social.
 
 ![](_i/Beehiiv.webp)
