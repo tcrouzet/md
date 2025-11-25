@@ -51,7 +51,7 @@ La solution, la plus évidente, celle effectuée par les chevaliers blancs fuyan
 
 Je pourrais bien sûr installer la version open source de Ghost sur un serveur. Mais encore une fois ce n’est pas gratuit : disons 5 €/mois pour l’hébergement avec une montagne d’emmerdes, sachant qu’un Ghost autohébergé envoie les mails avec Mailgun, et comme j’envoie environ 20K mails par mois, le coût associé serait de 35 $/mois (ce serait juste 2 $/mois avec Amazon SES mais difficile de l’interfacer avec Ghost).
 
-![Mailgun](_i/mailgun.webp)
+![Mailgun thumb](_i/mailgun.webp)
 
 Sur [un how to de migration de Substack à Ghost](https://www.readonlymemo.com/substack-to-ghost-migration-guide-in-2024-setting-up-mailgun-and-cloudflare/), j’ai découvert des hébergeurs Ghost plus compétitifs : [Midnight](https://getmidnight.com/pricing?ref=readonlymemo.com#) (21 $/mois pour 20K envois), [Gloat](https://gloathost.com/?ref=readonlymemo.com)(19 $/mois pour 20K envois) et [Magic Pages](https://magicpages.co/?ref=readonlymemo.com) (13 €/mois pour 10K envois — Allemand) ou [Abstract](https://fr.abstract27.com/creer-un-site-internet-ou-blog-avec-ghost-cms/) (17 €/mois pour 15K envois — France). Utilisent-ils un mailler fiable ? Je n’en suis pas sûr.
 
@@ -59,7 +59,7 @@ Reste que Ghost s’apparente à une machine surdimensionnée quand on ne souhai
 
 Par bien des côtés, [Patreon](https://www.patreon.com/) ressemble à Substack. Il propose gratuitement des newsletters illimitées, avec commentaires et chats, accessibles depuis le web et une app. En revanche, pour recevoir les éditions par email, il faut rejoindre en tant que membre, ce qui ajoute un léger frottement par rapport à l’abonnement email direct de Substack. La découverte et les recommandations intercréatrices sont aussi moins puissantes et sans un compte Patreon les newsletters restent invisibles. J’aime peu cette idée de boîte noire — je ne vois pas beaucoup d’avantages à passer de Substack à Patreon, solution également privative et qui n’offre aucune garantie de transparence.
 
-![Patreon est fermé thumb](_i/patreon.webp)
+![Patreon est fermé](_i/patreon.webp)
 
 [Beehiiv](https://www.beehiiv.com/) se veut le concurrent de Substack, avec une offre gratuite jusqu’à 2,5K abonnés, après c’est l’escalade tarifaire. Mais c’est clairement un service non social.
 
