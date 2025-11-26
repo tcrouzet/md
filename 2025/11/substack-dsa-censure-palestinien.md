@@ -39,13 +39,17 @@ J’ai parcouru les notes associées à [cette newsletter](https://substack.com/
 
 ![Capture d’écran d’un contenu haineux publié sur Substack, reproduite à des fins de dénonciation](_i/nazi02webp.webp)
 
+L’exploration des posts, de ceux qui likent et des Substackers suivis est encore plus édifiante. C’est une véritable galaxie d’extrémistes et de révisionnistes.
+
+![La galaxie Nazi sur Substack](_i/nazi10.webp)
+
 [Depuis le 17 février 2024, le règlement européen sur les Services numériques (DSA - Digital Services Act), adopté le 19 octobre 2022, est applicable à toutes les plateformes en ligne.](https://france.representation.ec.europa.eu/informations/le-dsa-integre-le-code-de-conduite-sur-la-lutte-contre-les-discours-haineux-illegaux-en-ligne-2025-01-20_fr) Il leur impose des obligations légales contraignantes, notamment de modérer les contenus contraires à la loi des États membres, avec des sanctions financières pouvant atteindre jusqu’à 6 % du chiffre d’affaires annuel mondial.
 
 >Substack est donc en infraction flagrante en Europe.
 
 [![Mon signalement DSA](_i/DSA.webp)](https://digital-services-act-whistleblower.integrityline.app/)
 
-Plutôt que quitter immédiatement Substack, je vais [traduire cet article](https://tcrouzet.com/2025/11/22/substack-dsa-us/) et le leur envoyer, [leur demandant de se mettre en conformité avec nos législations](https://support.substack.com/hc/en-us/requests), d’autant que Substack se développe à vitesse exponentielle chez nous. Je vais tenter d’agir de l’intérieur. Si rien ne change, j’en tirerai les conséquences, comme de nombreux auteurs et journalistes avant moi.
+Plutôt que quitter immédiatement Substack, j’ai [traduit cet article](https://tcrouzet.com/2025/11/22/substack-dsa-us/) et le leur au envoyé, [leur demandant de se mettre en conformité avec nos législations](https://support.substack.com/hc/en-us/requests), d’autant que Substack se développe à vitesse exponentielle chez nous. Je vais tenter d’agir de l’intérieur. Si rien ne change, j’en tirerai les conséquences, comme de nombreux auteurs et journalistes avant moi.
 
 ![J’ai soumis une réclamation](_i/nazi04.webp)
 
