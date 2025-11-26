@@ -57,6 +57,8 @@ Sur [un how to de migration de Substack à Ghost](https://www.readonlymemo.com/s
 
 Reste que Ghost s’apparente à une machine surdimensionnée quand on ne souhaite qu’envoyer des mails et recueillir des commentaires. C’est avant tout un CMS à la WordPress et [j’ai tourné le dos à ce genre de solution peu écologique](https://tcrouzet.com/2024/04/30/no-more_wordpress/). Par ailleurs, Ghost est peu utilisé par les francophones et l’effet recommandation y serait quasi nul. Pour couronner le tout, Ghost ne dispose pas d’une app sociale. On est très loin d’une intégration à la Substack. Je ne suis donc pas encore prêt à basculer sur Ghost qui me paraît toutefois [une meilleure solution que WordPress](https://www.youtube.com/watch?v=IewnxUAgsLc).
 
+[Write.as](https://write.as/) est une alternative à Ghost, plus légère, plus minimaliste, mais tout aussi coûteuse 25 $/mois, sans l’avantage de l’open source, sans app, sans socialisation.
+
 Par bien des côtés, [Patreon](https://www.patreon.com/) ressemble à Substack. Il propose gratuitement des newsletters illimitées, avec commentaires et chats, accessibles depuis le web et une app. En revanche, pour recevoir les éditions par email, il faut rejoindre en tant que membre, ce qui ajoute un léger frottement par rapport à l’abonnement email direct de Substack. La découverte et les recommandations intercréatrices sont aussi moins puissantes. Je ne vois pas beaucoup d’avantages à passer de Substack à Patreon, solution également privative et qui n’offre pas plus de garantie de transparence.
 
 [Beehiiv](https://www.beehiiv.com/) se veut le concurrent de Substack, avec une offre gratuite jusqu’à 2,5K abonnés, après c’est l’escalade tarifaire. Mais c’est clairement un service non social.
