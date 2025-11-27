@@ -11,7 +11,7 @@ Si je n’ai jamais monétisé mes articles et seulement cherché à vendre mes 
 
 Depuis toujours, vous pouvez me soutenir [en achetant mes livres](https://tcrouzet.com/bibliographie/). Surtout ne changez rien, mais cette forme de soutien peut se doubler d’une autre plus directe. [Le 12 novembre](https://substack.com/@tcrouzet/note/c-176417075?), sans le communiquer, j’ai activé pour les abonnés à ma newsletter la possibilité de souscrire un abonnement payant, soit mensuel (5 €), soit annuel (50 €). J’ai été surpris de voir quatre lecteurs s’abonner.
 
-Ça fait chaud au cœur. Je me suis dit : « Pour eux, ce que je fais compte. Je peux formaliser cette possibilité d’un abonnement payant, sans pour autant bloquer l’accès à mes articles. » J’ai alors imaginé un montage.
+Ça fait chaud au cœur. Je me suis dit : « Pour eux, ce que je fais compte. Je peux officialiser cette possibilité d’un abonnement payant, sans pour autant bloquer l’accès à mes articles. » J’ai alors imaginé un montage.
 
 >Si, avant le 31 octobre 2026, vous souscrivez un abonnement payant pour une année ou douze mois consécutifs, je vous envoie en décembre 2026, un livre papier inédit, rien que pour vous.
 
