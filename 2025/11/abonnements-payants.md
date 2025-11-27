@@ -7,9 +7,9 @@ metadescription: "Découvrez mon alternative au paywall: soutenez mon travail d�
 
 Pour m’opposer à la paupérisation des auteurs, [j’ai envisagé de réserver certains de mes articles à des abonnés payants](https://tcrouzet.com/2025/10/09/faire-payer/), avant de renoncer à cette option, notamment parce que je milite pour la culture ouverte. Donc pas de paywall devant mes articles, mais j’ai une meilleure idée.
 
-Si je n’ai jamais monétisé mes articles et seulement cherché à vendre mes livres, le plus souvent publiés à compte d’éditeur, et si possible sous licence libre comme avec [PVH](https://pvh-editions.com/thierry), il me paraît toutefois important que les lecteurs puissent soutenir les auteurs numériques pour les encourager à poursuivre leur travail. Nous avons tous besoin de soutien matériel et moral.
+Si je n’ai jamais monétisé mes articles et seulement cherché à vendre mes livres, le plus souvent publiés à compte d’éditeur, et si possible sous licence libre comme avec [PVH](https://pvh-editions.com/thierry), il me paraît important que les lecteurs puissent soutenir les auteurs numériques pour les encourager à poursuivre leur travail. Nous avons tous besoin de soutien matériel et moral.
 
-Depuis toujours, vous pouvez me témoigner votre soutien [en achetant mes livres](https://tcrouzet.com/bibliographie/). Surtout ne changez rien, mais cette forme de soutien peut se doubler d’une autre plus directe. [Le 12 novembre](https://substack.com/@tcrouzet/note/c-176417075?), sans le communiquer, j’ai activé pour les abonnés à ma newsletter la possibilité de souscrire un abonnement payant, soit mensuel (5 €), soit annuel (50 €). J’ai été surpris de voir quatre lecteurs s’abonner.
+Depuis toujours, vous pouvez me soutenir [en achetant mes livres](https://tcrouzet.com/bibliographie/). Surtout ne changez rien, mais cette forme de soutien peut se doubler d’une autre plus directe. [Le 12 novembre](https://substack.com/@tcrouzet/note/c-176417075?), sans le communiquer, j’ai activé pour les abonnés à ma newsletter la possibilité de souscrire un abonnement payant, soit mensuel (5 €), soit annuel (50 €). J’ai été surpris de voir quatre lecteurs s’abonner.
 
 Ça fait chaud au cœur. Je me suis dit : « Pour eux, ce que je fais compte. Je peux formaliser cette possibilité d’un abonnement payant, sans pour autant bloquer l’accès à mes articles. » J’ai alors imaginé un montage.
 
@@ -25,7 +25,7 @@ Et pour commencer fort, pour répondre à une attente qui dure depuis 2019, je v
 
 Voici le deal.
 
-1. Abonnez-vous via [Substack](https://tcrouzet.substack.com/subscribe) ou via [Stripe](https://buy.stripe.com/14A28r8Km9qI8KqbA79fW00).
+1. Abonnez-vous via [Substack](https://tcrouzet.substack.com/subscribe) ou [Stripe](https://buy.stripe.com/14A28r8Km9qI8KqbA79fW00).
 2. Vous m’encouragez à poursuivre mon travail (et n’attendez pas octobre 2026 sinon je serai dans l’incertitude et le stress).
 3. Vous me poussez à boucler un livre en achevant le processus d’édition.
 4. Vous recevez un livre broché qui deviendra collector et que je ne diffuserai qu’à mes seuls abonnés (port inclus pour la France).
