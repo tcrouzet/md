@@ -47,9 +47,9 @@ Des physiciens théoriques découvrent qu’un univers décrit objectivement, sa
 Sept études portant sur plus de 10 000 participants démontrent que les utilisateurs de modèles de langage développent une connaissance plus superficielle qu’avec Google, car la synthèse automatique transforme l’apprentissage actif en processus passif.
 
 [Des scientifiques découvrent un jailbreak universel pour presque toutes les IA](https://futurism.com/artificial-intelligence/universal-jailbreak-ai-poems) • EN • 6 min   
-Transformer des requêtes dangereuses en poèmes suffit à contourner les garde-fous des chatbots les plus sophistiqués, avec des taux de réussite atteignant 100 % pour certains modèles, révélant des failles fondamentales dans les méthodes actuelles de sécurité algorithmique.
+Transformer des requêtes dangereuses en poèmes suffit à contourner les garde-fous des chatbots les plus sophistiqués, avec des taux de réussite atteignant 100 % pour certains modèles, révélant des failles fondamentales dans les méthodes actuelles de sécurité algorithmique.
 
 [La grande bulle de l’IA](https://broligarchy.substack.com/p/the-great-ai-bubble) • EN • 10 min   
-Mille milliards de dollars investis dans une économie circulaire de prêts, de dettes et de promesses technologiques non tenues, centrée sur OpenAI, constituent une menace systémique pour l’économie américaine selon des investisseurs aguerris de la Silicon Valley. 
+Mille milliards de dollars investis dans une économie circulaire de prêts, de dettes et de promesses technologiques non tenues, centrée sur OpenAI, constituent une menace systémique pour l’économie américaine selon des investisseurs aguerris de la Silicon Valley.
 
 #digest #y2025 #2025-11-23-17h00
