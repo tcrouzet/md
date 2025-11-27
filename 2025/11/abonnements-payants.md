@@ -13,7 +13,7 @@ Depuis toujours, vous pouvez me soutenir [en achetant mes livres](https://tcrouz
 
 Ça fait chaud au cœur. Je me suis dit : « Pour eux, ce que je fais compte. Je peux formaliser cette possibilité d’un abonnement payant, sans pour autant bloquer l’accès à mes articles. » J’ai alors imaginé un montage.
 
->Si, avant le 31 octobre 2026, vous vous abonnez pour une année ou douze mois consécutifs, je vous envoie en décembre 2026, un livre papier inédit, rien que pour vous.
+>Si, avant le 31 octobre 2026, vous souscrivez un abonnement payant pour une année ou douze mois consécutifs, je vous envoie en décembre 2026, un livre papier inédit, rien que pour vous.
 
 ![Tome 2 en collector](_i/2025-11-27-163201.webp)
 
