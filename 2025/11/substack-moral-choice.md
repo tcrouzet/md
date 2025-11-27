@@ -79,6 +79,6 @@ Par ailleurs, je ne suis pas un intégriste du libre, sachant que personne ne pe
 
 Mon espoir : que le service se conforme à court terme à nos exigences européennes. Ça risque de prendre du temps, ne changera pas le fond de la philosophie des dirigeants de Substack et me laissera un arrière-goût déplaisant. Je serai toujours sur le départ, jamais satisfait, mais pour l’instant je ne vois pas d’issue. Substack est le seul service à offrir des newsletters modernes et ouvertes.
 
-*PS : J’écrirai un prochain article sur RSS vs Newsletter.*
+*PS : J’écrirai un prochain article sur RSS vs Newsletter.* 
 
 #netculture #y2025 #2025-11-25-10h00
