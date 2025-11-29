@@ -31,7 +31,7 @@ eshops:
 Entre journal intime d’un écrivain et quête onirique d’un mode de vie révolu, Rush nous interroge sans ménagement sur la place de l’homme, de la machine et de la création dans un monde où tout va trop vite.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1ARKn3pMwCU?si=x9KBcrJzSLLxQmBV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-[Le diapoaram](https://rush-nsnqlj8.gamma.site/)
+[Le diaporama](https://rush-nsnqlj8.gamma.site/)
 
 [Mes articles](/tag/rush/)
 
