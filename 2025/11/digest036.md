@@ -1,4 +1,4 @@
-# De ma terrasse #36
+# De ma terrasse #36
 
 _Ma sélection du dimanche : **18** liens et une photo prise depuis ma terrasse._
 
@@ -13,27 +13,27 @@ Des expériences de dripping montrent que des 4–6 ans produisent des motifs et
 Plaidoyer de reprise en main via sites personnels : POSSE (Publish (on your) Own Site, Syndicate Elsewhere), Webmentions, webrings et hébergements libres. Une renaissance créative valorise l’imperfection, loin des plateformes standardisées.
 
 [Quelle fut la peinture la plus révolutionnaire du XXe siècle ? Le cas des Demoiselles d’Avignon de Picasso](https://www.openculture.com/2025/11/what-makes-picassos-les-demoiselles-davignon-perhaps-the-most-revolutionary-painting-of-the-20th-century.html) • EN • 5 min  
-Retour sur l’œuvre qui déclenche le cubisme selon Galenson. Une vidéo raconte l’histoire de l’œuvre.
+Retour sur l’œuvre qui déclenche le cubisme. Une vidéo raconte l’histoire de l’œuvre.
 
 [Les carnets d’Edward Weston](https://susanneh.substack.com/p/the-daybooks-of-edward-weston) • EN • 7 min  
-Journal intime d’un maître de la photographie, entre pratiques, doutes, voyages et fulgurances. Bien envie de le lire (j’ai trouvé un PDF de l’édition 1991).
+Journal intime d’un maître de la photographie, entre pratiques, doutes, voyages et fulgurances. Bien envie de le lire (j’ai trouvé un PDF de l’édition 1991).
 
 ## Sciences
 
 [Votre manière de conduire pourrait signaler un trouble cognitif léger](https://neurosciencenews.com/driving-cognitive-decline-29993/) • EN • 6 min  
-Des capteurs embarqués et des algorithmes distinguent précocement des changements de routine (moins de sorties nocturnes, distances réduites, itinéraires moins variés) et atteignent 87 % d’exactitude, ouvrant la voie à un repérage discret et éthique. La même chose devrait être appliqué aux cyclistes (la plupart sont totalement dingues).
+Des capteurs embarqués et des algorithmes distinguent précocement des changements de routine (moins de sorties nocturnes, distances réduites, itinéraires moins variés) et atteignent 87 % d’exactitude, ouvrant la voie à un repérage discret et éthique. La même chose devrait être appliquée aux cyclistes (la plupart sont totalement dingues).
 
 [Un régime riche en graisses rompt le lien chimique entre l’intestin et le cerveau](https://www.psypost.org/a-high-fat-diet-severs-the-chemical-link-between-gut-and-brain/) • EN • 8 min  
 Un régime riche en graisses perturbe le dialogue intestin-cerveau : la sérotonine se dérègle, l’inflammation augmente et la mémoire en pâtit. Cette cascade biochimique pourrait expliquer le lien entre obésité, humeur et cognition. (Voilà pourquoi je déteste manger trop gras.)
 
 [Nos ancêtres primates ont probablement embrassé des Néandertaliens](https://www.npr.org/2025/11/28/nx-s1-5620985/human-kiss-neanderthal-evolution-family-tree) • EN • 5 min  
-Nous nous embrassons depuis 21 millions d’année !
+Nous nous embrassons depuis 21 millions d’années !
 
 [Une étude affirme fournir la première preuve directe de la matière noire](https://www.theguardian.com/science/2025/nov/25/study-claims-to-provide-first-direct-evidence-of-dark-matter) • EN • 6 min  
 Le télescope Fermi‑LAT détecte au cœur de la Voie lactée un excès lumineux compatible avec des annihilations de particules massives hypothétiques. L’absence de signal dans les galaxies naines et des explications astrophysiques concurrentes imposent la prudence.
 
 [Premières images d’une puissante éruption solaire de classe X1.3 capturées par un télescope solaire](https://www.thebrighterside.news/post/first-ever-images-of-powerful-x1-3-class-solar-flare-captured-by-solar-telescope/) • EN • 6 min  
-L’observatoire DKIST dévoile des structures fines de quelques dizaines de kilomètres au sein d’un événement X1.3. (Photos impressionantes.)
+L’observatoire DKIST dévoile des structures fines de quelques dizaines de kilomètres au sein d’un événement X1.3. (Photos impressionnantes.)
 
 [La conscience pourrait être un trait ancien apparu il y a des millions d’années, pas un superpouvoir humain](https://www.zmescience.com/science/biology/consciousness-could-be-an-ancient-trait-evolved-millions-of-years-ago-not-a-human-superpower/) • EN • 6 min  
 Chez les oiseaux, des signaux cérébraux proches de ceux des mammifères, avec des alternances perceptives typiques, sont mis en évidence. Ces parallèles laissent penser à un socle partagé à travers de nombreuses lignées animales.
@@ -47,7 +47,7 @@ Solarion arienae présente des mitochondries atypiques. Son placement suggère u
 ## Société & monde
 
 [Un émissaire américain aurait conseillé un proche de Poutine sur la manière de présenter à Trump un plan de paix pour l’Ukraine](https://apnews.com/article/trump-witkoff-putin-ukraine-bloomberg-3844a3721d92dd9ae9681547a0814d88) • EN • 5 min  
-Des transcriptions font état d’échanges entre Steve Witkoff et Iouri Ouchakov autour d’un document en 28 points jugé favorable à Moscou. La Maison Blanche ne dément pas formellement.
+Des transcriptions font état d’échanges entre Steve Witkoff et Iouri Ouchakov autour d’un document en 28 points jugés favorables à Moscou. La Maison Blanche ne dément pas formellement.
 
 [Classement : quel pays consomme le plus de café ?](https://www.visualcapitalist.com/ranked-which-country-consumes-the-most-coffee/) • EN • 4 min  
 Le Luxembourg mène, porté par les travailleurs frontaliers. L’Europe du Nord domine, tandis que les États‑Unis et l’Inde restent loin derrière. (J’aurais placé les Italiens en tête.)
@@ -64,6 +64,6 @@ Geoffrey Hinton alerte sur les pertes d’emplois, l’armement autonome et l’
 Un essai soutient que les grands modèles manipulent surtout des régularités linguistiques, pas le raisonnement. La suite passerait par des représentations du monde plus riches et des architectures hybrides.
 
 [ChatGPT perd la bataille de l’IA sur tous les fronts — voici pourquoi Anthropic et Gemini prennent l’avantage](https://www.tomsguide.com/ai/chatgpt-is-losing-the-ai-battle-on-all-sides-heres-why-anthropic-and-gemini-are-pulling-ahead) • EN • 7 min  
-Google progresse sur le raisonnement et la vision. Claude se démarque sur le code et l’usage en entreprise. (J’en arrive aux même conclusion.)
+Google progresse sur le raisonnement et la vision. Claude se démarque sur le code et l’usage en entreprise. (J’en arrive aux mêmes conclusions.)
 
 #digest #y2025 #2025-11-30-17h00
