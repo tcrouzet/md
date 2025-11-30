@@ -1,7 +1,5 @@
 # Septembre 2025
 
-![Dentelles de Montmirail depuis TGV](_i/2025-09-08-090506-Crest.webp)
-
 ### Lundi 1<sup>er</sup>, Balaruc
 
 Claude Ecken m’envoie l’extrait d’une lettre de Raymond Chandler à Charles Morton, du 12 décembre 1945 : « La seule fiction qui compte, n’importe quand, à n’importe quelle époque, est celle qui produit de la magie avec des mots. [\…] L’art de la fiction, parti de rien il y a 300 ans à peine, est devenu une synthèse artificielle [\…] qui a atteint une perfection mécanique. [\…] Aujourd’hui, tout ce foutu business pourrait aussi bien être produit par une machine, ce qui ne saurait tarder. »
@@ -97,6 +95,8 @@ Nous allons voir le dernier Klapisch au cinéma. Nous ne savons rien de *La Venu
 À la radio, durant l’été, j’ai entendu le navigateur Jean Le Cam déclarer : « Une belle histoire n’est belle que si elle est partagée. » J’ai un temps mis ce texte en exergue de *La Zone*, mais je lui préfère désormais une citation de Bachelard extraite de *La poétique de l’espace* (je fais le contraire de ce que Bachelard préconise). D’ailleurs il m’apparaît quasi incompréhensible. Il tourne en rond, me soule avec ses références fumeuses à la psychanalyse, on est en plein délire autour de concepts d’une mollesse extrême. Je glane des bribes qui me parlent dans un brouillard épais. *La poétique de la rêverie* est encore plus abscons, je me suis contenté de le survoler sans rien en tirer. Bachelard parle d’un processus au lieu de le mettre en œuvre.
 
 ### Lundi 8, TGV
+
+![Dentelles de Montmirail depuis TGV thumb](_i/2025-09-08-090506-Crest.webp)
 
 ![Dentelles de Montmirail](_i/2025-09-08-090505-Crest.webp)
 
