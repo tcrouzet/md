@@ -1,3 +1,8 @@
+---
+metatitle: "De ma terrasse #36, 18 liens"
+metadescription: Quand l'IA prétend être consciente et que Hinton alerte sur l'effondrement sociétal. Entre conscience animale et dangers de l'IA générative.
+---
+
 # De ma terrasse #36
 
 _Ma sélection du dimanche : **18** liens et une photo prise depuis ma terrasse._
