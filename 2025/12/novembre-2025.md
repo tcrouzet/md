@@ -25,7 +25,7 @@ Seul dans la maison, Isa à l’hôpital, étrange sensation. Je code jusqu’à
 
 ### Jeudi 6, Balaruc
 
-Sortie de *Rush*. [Un message collectif de mon éditeur sur Mastodon](https://mamot.fr/@pvheditions@pixelfed.ch/115501692871805276) et rien de plus. Je vais tenter une expérience. Ne rien dire pendant deux semaines pour voir s’il se passe quelque chose d’autre. J’écrirai alors un article sur le silence assourdissant autour du livre, du mien et de beaucoup d’autres si l’auteur ne se transforme pas en VRP (ce que j’ai fait pour *Épicènes* mais je ne peux pas vous solliciter de trop souvent sous peine de vous emmerder).
+Sortie de *Rush*. [Un message collectif de mon éditeur sur Mastodon](https://mamot.fr/@pvheditions@pixelfed.ch/115501692871805276) et rien de plus. Je vais tenter une expérience. Ne rien dire pendant deux semaines pour voir s’il se passe quelque chose d’autre. J’écrirai alors un article sur le silence assourdissant autour du livre, du mien et de beaucoup d’autres si l’auteur ne se transforme pas en VRP (ce que j’ai fait pour *Épicènes* mais je ne peux pas vous solliciter trop souvent sous peine de vous emmerder).
 
 ---
 
@@ -35,7 +35,7 @@ J’arrive au bout de la séquence code. Je vais pouvoir me remettre à respirer
 
 ### Vendredi 7, Balaruc
 
-[Si l’univers n’est pas simulable par un algorithme](https://jhap.du.ac.ir/article_488.html), il est probable que notre cerveau ne peut pas l’être, et donc que nous aurions toujours quelque chose de plus que les machines. Dans *Rush*, j’ai appelé cette chose le rush.
+[Si l’univers n’est pas simulable par un algorithme](https://jhap.du.ac.ir/article_488.html), il est probable que notre cerveau ne peut pas l’être, et donc que nous aurons toujours quelque chose de plus que les machines. Dans *Rush*, j’ai appelé cette chose le rush.
 
 ---
 
@@ -55,11 +55,11 @@ Une boîte me propose des gobelets écologiques pour mes évènements vélo. Ma 
 
 ### Lundi 10, Balaruc
 
-Je publie enfin [le billet qui m’a donné tant de mal](https://tcrouzet.com/2025/11/10/the-slow-web-is-faster/), pas l’écriture du texte mais celle du code qui l’a rendu possible. On me parle d’un service qui propose pour 3 €/mois de générer des sites statiques dans l’esprit SlowWeb. Je teste et les performances sont moins bonnes que celles de mon site. S’engage une petite bataille de justifications. Les entrepreneurs détestent qu’on les chatouille.
+Je publie enfin [le billet qui m’a donné tant de mal](https://tcrouzet.com/2025/11/10/the-slow-web-is-faster/), pas l’écriture du texte mais celle du code qui l’a rendu possible. On me parle d’un service qui propose pour 3 €/mois de générer des sites statiques écologiques. Je teste et les performances sont moins bonnes que celles de mon site. S’engage une petite bataille de justifications. Les entrepreneurs détestent qu’on les chatouille.
 
 ---
 
-J’ai maintenant deux idées de roman qui tapent à ma porte.
+Deux idées de roman qui tapent à ma porte.
 
 ![Matin](_i/2025-11-10-071958-lamaison.webp)
 
@@ -69,7 +69,7 @@ J’ai maintenant deux idées de roman qui tapent à ma porte.
 
 Je commence *La Maison vide* de Mauvignier : langue filandreuse, bourrée de « comme » et de participes présents, qui ondule, s’échappe, déborde, ressemble à notre époque pour en dire d’autres qui ne lui ressemblaient pas, et ma langue à moi aussi se met en bataille, se contorsionne et s’emmêle. Alors je commence aussi *Kolkhose* d’Emmanuel Carerre, ça paraît moins écrit, mais c’est mieux écrit, plus sec, plus raide, moins à l’abandon.
 
-Point commun, on parle de soi, de sa famille, comme je ne cesse de le faire souvent, peut-être trop souvent. Sommes-nous incapables de raconter ? Ou est-ce un simple symptôme de la littérature officielle, c’est-à-dire celle en décadence ? On se fiche de l’histoire de vos familles quand nous sommes en bataille contre des machines prétendument intelligentes. C’est comme si les auteurs contemporains vivaient au siècle dernier et ne voulaient pas en sortir.
+Point commun, on parle de soi, de sa famille, comme je ne cesse de le faire souvent, peut-être trop souvent. Sommes-nous incapables de raconter ? Ou est-ce un simple symptôme de la littérature officielle, c’est-à-dire celle en décadence ? On se fiche de l’histoire de vos familles quand nous sommes en lutte contre des machines prétendument intelligentes. C’est comme si les auteurs populaires vivaient au siècle dernier et refusaient d’en sortir.
 
 ### Jeudi 13, Balaruc
 
@@ -105,9 +105,9 @@ Le mécanisme est assez simple : j’ai un problème technique, je le résous, 
 
 Pour moi, la satisfaction vient du code, mais ça pourrait être la cuisine, la mécanique, le macramé, le jardinage ou mille autres passe-temps. Mon problème : le code met mon cerveau en ébullition et m’empêche de dormir. J’ai un loisir épuisant. Et pour m’en défaire, je m’en vais pédaler, ce qui me repose mentalement mais pas physiquement. Il ne me reste qu’à revenir à l’écriture pour éprouver le calme, peut-être parce qu’elle ne m’apporte aucune satisfaction, sinon de me regarder penser, et de dialoguer avec l’individu que je suis sans trop chercher à le comprendre.
 
-Pendant que je discute avec moi-même, je me recentre, je m’empêche de chercher des plaisirs plus immédiats. L’écriture n’est qu’un yoga. Les écrivains sont des gourous (gourous parce qu’au lieu de méditer dans leur coin ils partagent leurs méditations, avec le désir plus ou moins secret d’influencer leurs lecteurs). Un écrivain sage ne publierait pas et détruirait ses textes. Mais un écrivain sage n’existe pas. Aucun lecteur n’a envie de lire un sage. On préfère les emmerdeurs.
+Pendant que je discute avec moi-même, je me recentre et m’empêche de chercher des plaisirs plus immédiats. L’écriture n’est qu’un yoga. Les écrivains sont des gourous (gourous parce qu’au lieu de méditer dans leur coin ils partagent leurs méditations, avec le désir plus ou moins secret d’influencer leurs lecteurs). Un écrivain sage ne publierait pas et détruirait ses textes. Mais un écrivain sage n’existe pas. Aucun lecteur n’a envie de lire un sage. On préfère les emmerdeurs.
 
-Certains de mes lecteurs me disent : « Je ne suis pas toujours d’accord avec toi. » S’ils étaient d’accord avec moi sur tout, ils n’auraient aucune raison de me lire. Ils gagneraient du temps à se regarder dans le miroir de leur salle de bain.
+Certains de mes lecteurs me disent : « Je ne suis pas toujours d’accord avec toi. » S’ils étaient d’accord avec moi sur tout, ils n’auraient aucune raison de me lire. Ils gagneraient du temps à se regarder dans un miroir.
 
 ![Soir](_i/2025-11-17-170855-lamaison.webp)
 
@@ -139,7 +139,7 @@ Selon Truby, un grand livre mixe toujours plusieurs genres. Et *Rush* alors ? D
 
 ---
 
-Je ne cesse de penser à l’idée d’un roman sur le passage de l’analogique au numérique. Le raconter non de mon point de vue, mais d’un jeune qui ignore tout du numérique et ne fait que le subir (une pensée pour les étudiants de L3). La sensation que ce jeune doit découvrir le numérique à travers l’histoire de sa famille. Claude me suggère d’en faire le descendant d’une famille d’imprimeurs. Pas bête. Les imprimeries ont basculé en plusieurs étapes de l’analogique au tout numérique (valable pour la photo, la musique, les films…).
+Je ne cesse de penser à l’idée du roman sur le passage de l’analogique au numérique. Raconter la transition non de mon point de vue, mais d’un jeune qui ignore tout du numérique et ne fait que le subir (une pensée pour les étudiants de L3). La sensation que ce jeune doit découvrir le numérique à travers l’histoire de sa famille. Claude me suggère d’en faire le descendant d’une famille d’imprimeurs. Pas bête. Les imprimeries ont basculé en plusieurs étapes de l’analogique au tout numérique (valable pour la photo, la musique, les films…).
 
 ![Soir thumb](_i/2025-11-19-170554-lamaison.webp)
 
@@ -153,11 +153,11 @@ Quand j’écris, je ne garde rien en réserve pour découvrir ce qui adviendra 
 
 ---
 
-Souvent je dis à mes fils qu’ils perdent leur temps sur leur mobile ou leur console et que dans trente ou quarante ans ils regretteront ces moments perdus. Ils m’ignorent comme si je ne pouvais pas comprendre leur plaisir immédiat alors que moi-même j’ai souvent connu le même plaisir et le regrette a posteriori. J’ai regardé la TV, peu mais encore beaucoup trop. J’ai passé beaucoup trop de temps sur les réseaux sociaux. En revanche, je n’ai jamais regretté mes nuits fondatrices de jeu de rôle. [Quand on vit quelque chose à répétition, il est souvent nécessaire de se projeter dans le futur et de se demander si ça aura toujours du sens.](https://www.joanwestenberg.com/p/your-80-year-old-self-would-give-anything-to-have-the-day-you-re-having) Mais comme nous ignorons par avance ce qui sera jugé nécessaire, cet exercice ne nous apporte guère de sagesse. Il nous faudrait apprendre à écouter nos aînés, conseil que seuls les aînés peuvent entendre.
+Souvent je dis à mes fils qu’ils perdent leur temps sur leur mobile ou leur console et que dans trente ou quarante ans ils regretteront ces moments perdus. Ils m’ignorent comme si je ne pouvais pas comprendre leur plaisir immédiat alors que j’ai souvent connu le même plaisir et le regrette a posteriori. J’ai regardé la TV, peu mais encore beaucoup trop. J’ai passé beaucoup trop de temps sur les réseaux sociaux. En revanche, je n’ai jamais regretté mes nuits fondatrices de jeu de rôle. [Quand on vit quelque chose à répétition, il est souvent nécessaire de se projeter dans le futur et de se demander si ça aura toujours du sens.](https://www.joanwestenberg.com/p/your-80-year-old-self-would-give-anything-to-have-the-day-you-re-having) Mais comme nous ignorons par avance ce qui sera jugé nécessaire, cet exercice ne nous apporte guère de sagesse. Il nous faudrait apprendre à écouter nos aînés, conseil que seuls les aînés peuvent entendre.
 
 ---
 
-Une anomalie de beaucoup de médias numériques : ils placent les boutons de recommandation sociale sous le titre. Ils invitent leurs lecteurs à partager après sa seule lecture, parce que je ne les vois pas remonter tout en haut de la page pour cliquer, ce qui est contre-intuitif, surtout incompatible avec un monde où on cherche à tout faire vite. Cette injonction à recommander après le titre raconte la vacuité des réseaux sociaux et du modèle de société qu’ils promeuvent.
+Une anomalie de beaucoup de médias numériques : ils placent les boutons de recommandation sociale sous le titre. Cette injonction à recommander immédiatement raconte la vacuité des réseaux sociaux et du modèle de société qu’ils promeuvent.
 
 ---
 
@@ -165,11 +165,11 @@ Truby : « Once a character has a desire, the story “walks” on two “legs
 
 ---
 
-Réunion avec les copains du club de vélo qui peinent à comprendre que mon départ des réseaux sociaux, ce qui m’empêche de promouvoir nos évènements vélos. Je m’énerve, leur dis qu’ils devraient aussi en partir, que ces outils menacent notre libre arbitre et la démocratie. Ils me rétorquent que le club n’est pas un lieu de débat politique comme si défendre la liberté était politique. Pour moi, c’est existentiel. J’ai sacrifié mon audience pour protéger ma liberté.
+Réunion avec les copains du club de vélo qui peinent à comprendre mon départ des réseaux sociaux, ce qui m’empêche de promouvoir nos évènements vélos. Je m’énerve, leur dis qu’ils devraient aussi en partir, que ces outils menacent notre libre arbitre et la démocratie. Ils me rétorquent que le club n’est pas un lieu de débat politique comme si défendre la liberté était politique. Pour moi, c’est existentiel. J’ai sacrifié mon audience pour protéger ma liberté.
 
 ### Vendredi 21, Balaruc
 
-Truby conseille de n’écrire que des histoires qui changent notre vie. Mais comment savoir avant de se lancer dans un récit s’il changera notre vie, sans même parler de celle des lecteurs ? Par exemple, ce journal a changé ma vie et continue de la changer : il affecte mon regard sur le monde et me donne une structure mentale. Il est aussi le lieu où poser mes bagages, même si depuis que je le publie ma pudeur m’empêche de dévoiler mon intimité, ce qui serait sans tact ni intérêt. Mon carnet n’est souvent pas un lieu d’annotations mais de prise de conscience. Toute prise de conscience est changement de soi. Un récit devrait donc être a minima celui d’une prise de conscience.
+Truby conseille de n’écrire que des histoires qui changent notre vie. Mais comment savoir avant de se lancer dans un récit s’il changera notre vie, sans même parler de celle des lecteurs ? Par exemple, ce journal a changé ma vie et continue de la changer : il affecte mon regard sur le monde et me donne une structure mentale. Il est aussi le lieu où poser mes bagages, même si depuis que je le publie ma pudeur m’empêche de dévoiler mon intimité, ce qui serait sans tact. Mon carnet n’est souvent pas un lieu d’annotations mais de prise de conscience. Toute prise de conscience est changement de soi. Un récit devrait donc être a minima celui d’une prise de conscience.
 
 ### Dimanche 23, Balaruc
 
@@ -189,11 +189,11 @@ Boris m’annonce qu’il est possible d’avoir une salle un mardi soir par moi
 
 ### Mercredi 26, Balaruc
 
-J’ai commencé à écrire le roman du passage de l’analogique au numérique d’une manière inédite. Plutôt que partir bille en tête, quitte à tout réécrire lorsque l’histoire prend forme, je suis la méthode de Truby, ce qui me force à penser l’histoire et mes personnages avant d’écrire une ligne. Une fois une étape franchie, je demande aux IA si j’ai respecté le cahier des charges et elles se comportent en professeurs diligentes. Méthode de travail grisante. Après tout ce travail préparatoire, je doute d’avoir envie d’écrire la suite.
+J’ai commencé à écrire le roman du passage de l’analogique au numérique d’une manière inédite. Plutôt que partir bille en tête, quitte à tout réécrire lorsque l’histoire prend forme, je suis la méthode de Truby, ce qui me force à penser l’histoire et mes personnages avant d’écrire une ligne. Une fois une étape franchie, je demande aux IA si j’ai respecté le cahier des charges et elles me corrigent. Après tout ce travail préparatoire, je doute d’avoir envie d’écrire le roman.
 
 ### Jeudi 27, Balaruc
 
-J’ai franchi le pas, proposé un abonnement payant en échange d’un inédit. Aussi bien personne ne souscrira. C’est flippant, mais je me dis que ne pas faire ce saut était peu courageux. Je vois les gens lire l’article sur Substack, mais personne ne le like, sauf un de mes premiers abonnés payants. Mes commentateurs habituels semblent paralysés par ma proposition, sorte de mise en responsabilité de chacun, moi le premier. On ne peut pas se plaindre du modèle publicitaire et de la dérive des réseaux sociaux algorithmiques tout en refusant de débourser quelques euros pour lire des articles d’auteurs indépendants. J’ai peur que cette histoire se termine mal.
+J’ai franchi le pas, [proposé un abonnement payant en échange d’un inédit](https://tcrouzet.com/2025/11/27/abonnements-payants/). C’est flippant, mais ne pas faire auarait été peu courageux. Sur Substack, personne ne like mon article, sauf un de mes premiers abonnés payants. Mes commentateurs habituels semblent paralysés par ma proposition, sorte de mise en responsabilité de chacun, moi le premier. On ne peut pas se plaindre du modèle publicitaire et de la dérive des réseaux sociaux algorithmiques tout en refusant de débourser quelques euros pour lire des articles d’auteurs indépendants. J’ai peur que cette histoire se termine mal.
 
 ### Vendredi 28, Balaruc
 
@@ -209,17 +209,17 @@ J’ai franchi le pas, proposé un abonnement payant en échange d’un inédit.
 
 ![Matin](_i/2025-11-28-074815-lamaison.webp)
 
-![Matin](_i/2025-11-28-074959-lamaison.webp)
+![Matin](_i/rose.webp)
 
 ![Soir](_i/2025-11-28-173836-lamaison.webp)
 
 ### Samedi 29, Balaruc
 
-[Large language mistake](https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems) : « They \[IA] have no apparent reason to become dissatisfied with the data they’re being fed — and by extension, to make great scientific and creative leaps. » Les LLM ne savent pas mettre en doute leurs données d’entraînement alors que nous autres ne cessons de mettre en doute le monde. Parce que beaucoup de choses nous déplaisent dans le monde nous créons d’autres mondes (ces autres mondes deviennent des œuvres d’art, des théories, des objets…).
+[Large language mistake](https://www.theverge.com/ai-artificial-intelligence/827820/large-language-models-ai-intelligence-neuroscience-problems) : « They \[IA] have no apparent reason to become dissatisfied with the data they’re being fed — and by extension, to make great scientific and creative leaps. » Les LLM ne savent pas mettre en doute leurs données d’entraînement alors que nous autres ne cessons de mettre en doute le monde. Parce que beaucoup de choses nous déplaisent, nous créons d’autres mondes (ces autres mondes deviennent des œuvres d’art, des théories, des objets…).
 
-Les LLM n’atteindront jamais l’AGI, car même sans langage nous pouvons penser et faire preuve d’intelligence. Le langage est un outil de communication. Einstein l’a expliqué en racontant sa façon de penser avec en jouant avec des formes. Je suis toujours surpris de voir les mots srgir au bout de mes doigts, non parce que j’enchaîne des mots au plus profond de moi, mais à l’extrême surface de ma conscience.
+Les LLM n’atteindront jamais l’AGI, car même sans langage nous pouvons penser et faire preuve d’intelligence. Le langage est un outil de communication. Einstein l’a expliqué en racontant sa façon de penser en jouant avec des formes. Je suis toujours surpris de voir les mots surgir au bout de mes doigts, non parce que j’enchaîne des mots au plus profond de moi, mais à l’extrême surface de ma conscience.
 
-Hier soir, j’ai écouté [une conférence où Yann Le Cun démystifie l’IA](https://www.youtube.com/watch?v=Z208NMP7_-0). Il explique d’une autre façon pourquoi les LLM ne seront jamais super intelligents. Un de ses points : nous-mêmes ne sommes pas des intelligences générales.
+Hier soir, j’ai écouté [Yann Le Cun démystifier l’IA](https://www.youtube.com/watch?v=Z208NMP7_-0). Il explique d’une autre façon pourquoi les LLM ne seront jamais super intelligents. Un de ses points : nous-mêmes ne sommes pas des intelligences générales.
 
 Je reste un grand insatisfait. C’est une chance, en fin de compte.
 
@@ -227,7 +227,7 @@ Je reste un grand insatisfait. C’est une chance, en fin de compte.
 
 Mon billet sur mon offre payante est le moins lu, liké, partagé de tous ceux que j’ai publiés sur Substack depuis mars. J’ai cherché une combinaison pour que vous puissiez tous continuer de me lire, indépendamment de vos ressources. Cette démarche aurait dû être appréciée. Mais rien, un silence presque total, sinon quelques lecteurs pour me dire que jamais ils ne paieront pour me lire, en faisant presque une profession de foi.
 
-Je ne vous ai pas obligés à payer, mais si vous me lisez souvent, c’est que vous y trouvez quelque chose. Vous pourriez au moins me remercier. Des envies de tout barricader me traversent. Nous vivons dans un monde peuplé de radins de la reconnaissance qui ne comprennent pas que la culture du tout gratuit a conduit aux réseaux sociaux manipulateurs et à l’élection d’abrutis de la trempe de Trump. Ça vous plaît, ce monde ? Si oui, pourquoi perdez-vous encore du temps à me lire ? Je sais que certains radins de la reconnaissance liront ces lignes. Ça m’attriste. Vous ne comprenez rien à ce que j’écris.
+Je ne vous ai pas obligés à payer, mais si vous me lisez souvent, c’est que vous y trouvez quelque chose. Vous pourriez au moins me remercier avec un like, un partage, un commentaire, un message… Des envies de tout barricader me traversent. Nous vivons dans un monde peuplé de radins de la reconnaissance qui ne comprennent pas que la culture du tout gratuit a conduit aux réseaux sociaux manipulateurs et à l’élection d’abrutis de la trempe de Trump. Ça vous plaît, ce monde ? Si oui, pourquoi perdez-vous encore du temps à me lire ? Je sais que certains radins de la reconnaissance liront ces lignes. Ça m’attriste. Vous ne comprenez rien à ce que j’écris.
 
 Bien sûr, je n’ai pas besoin des revenus des abonnements pour survivre, même si Isa ne travaille plus depuis deux ans, mais ces revenus permettront des projets, ne serait-ce que l’édition de la suite de *Mon père, ce tueur*. Vous vous dites peut-être que je suis plus riche que vous et que j’ai une plus belle maison. Si c’est le cas, vous n’avez encore une fois rien compris. Ce n’est pas une histoire d’argent mais de modèle de société. Vous ne pouvez pas passer votre temps à consommer la culture libre sans jamais y contribuer, vous comportant en parasites comme les boîtes d’IA qui aspirent nos productions. Vous faites exactement la même chose.
 
@@ -237,15 +237,15 @@ Votre incapacité à remercier, c’est comme si bouffer des contenus générés
 
 ---
 
-Nous tenons des journaux intimes depuis moins de 400 ans, Samuel Pepys entre 1660–1669, et je me demande si mes carnets auront encore du sens dans vingt ou trente ans. Nos vies se heurtent à la technologie qui évolue à exponentiellement. Ce que je peux dire aujourd’hui n’aura déjà plus d’intérêt dans quelques mois, sinon comme témoignage historique.
+Nous tenons des journaux intimes depuis moins de 400 ans, Samuel Pepys entre 1660–1669, et je me demande si mes carnets auront encore du sens dans vingt ou trente ans. Nos vies se heurtent à la technologie qui évolue exponentiellement. Ce que je peux dire aujourd’hui n’aura déjà plus d’intérêt dans quelques mois, sinon comme témoignage historique.
 
-Et pourtant je ne peux m’empêcher de parler de mon rapport à la technologie : il est central pour moi (et je crois pour nous tous). Si je voulais assurer une postérité à mon journal, je ne devrais y parler que des questions et préoccupations qui ont traversé les siècles, et ce serait la meilleure façon de perdre mon temps.
+Et pourtant je ne peux m’empêcher de parler de mon rapport à la technologie : il est central dans ma vie (dans doute dans la votre aussi). Si je voulais assurer une postérité à mon journal, je ne devrais y parler que des questions et préoccupations qui ont traversé les siècles, et ce serait la meilleure façon de perdre mon temps.
 
 ---
 
 Moi : « Encore une fois, pourquoi tu répètes ce que je viens de coller ? » Claude : « Parce que je suis un con. Désolé. »
 
-![Matin](_i/2025-11-29-084252-Balaruc-le-Vieux.webp)
+![Sète](_i/sete-samedi.webp)
 
 ![Soir](_i/2025-11-29-171440-lamaison.webp)
 
@@ -273,7 +273,7 @@ Souvent, les gamins brandissent des gourdes pour célébrer leur victoire. Je fi
 
 ---
 
-[Sur Mastodon une chercheuse raconte avoir été interrompue lors d’une conférence sur l’éthique des LLM par un gars affirmant que les LLM marchaient très bien](https://mamot.fr/@kfort@sciences.re/115638778074154348). J’aurais dû me méfier avant de commenter parce qu’elle utilise le hashtag \#mansplaining (et non \#humansplaining ou \#womansplaining). Je dis juste que je ne vois pas de lien entre la non-éthique indéniable des LLM et le fait qu’ils fonctionnent ou pas. Je prends un retour de bâton parce que j’ai appuyé ma remarque de « !!! », jugés hyperagressifs. Je calme le jeu en promettant de ne plus jamais utiliser de point d’exclamation. Me voilà coupable moi aussi de \#mansplaining.
+[Sur Mastodon une chercheuse raconte avoir été interrompue lors d’une conférence sur l’éthique des LLM par un gars affirmant que les LLM marchaient très bien](https://mamot.fr/@kfort@sciences.re/115638778074154348). J’aurais dû me méfier avant de commenter parce qu’elle utilise le hashtag \#mansplaining (et non \#humansplaining ou \#womansplaining). Je lui dis que je ne vois pas de lien entre la non-éthique indéniable des LLM et le fait qu’ils fonctionnent ou pas. Je prends un retour de bâton parce que j’ai appuyé ma remarque de « !!! », jugés hyperagressifs. Je calme le jeu en promettant de ne plus jamais utiliser de point d’exclamation. Me voilà coupable moi aussi de \#mansplaining.
 
 Cela dit, vendre un produit qui ne fonctionne pas est en soi non éthique : on pourrait ranger dans cette catégorie beaucoup de produits prétendument bios (les cristaux à purifier l’eau, par exemple). Reste que les LLM fonctionnent souvent. Je soupçonne la chercheuse d’être dans le camp de ceux qui prétendent le contraire.
 
