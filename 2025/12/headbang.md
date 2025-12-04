@@ -3,6 +3,8 @@ metatitle: "Dans un monde où tout est faux, pratiquons le headbang"
 metadescription: "Je ne veux pas vous plaire, mais vous secouer jusquau headbang. Manifeste contre le web rose bonbon et formaté."
 ---
 
+’’
+
 # Dans un monde où tout est faux, pratiquons le headbang
 
 Désormais tout est fait pour nous plaire, nous séduire, nous caresser dans le sens du poil. Nos goûts, attentes, désirs sont analysés, [nos intentions et décisions anticipées](https://danslesalgorithmes.net/2025/11/27/des-marchands-dattention-aux-architectes-de-lintention/) pour nous servir au moment opportun les produits et les informations les plus agréables. Mais nous pourrions devenir les grains de sable qui crissent sous la dent. Être ceux qui ne devraient pas être.
@@ -11,7 +13,7 @@ Hier, j’ai croisé un ami YouTuber. Il n’a fait que me parler de son nombre 
 
 Une double injonction : plaire et produire de plus en plus, inonder de contenus, lutter contre les autres producteurs, mais avec la même stratégie qu’eux : satisfaire, combler un vide, alors que le vide est nécessaire pour qu’un mouvement soit possible. Où aller quand ça déborde de partout ? Il me suffit d’ouvrir Netflix pour avoir envie de dégueuler. Un amoncellement de vignettes clinquantes empilées les unes sur les autres. Idem sur YouTube, avec des shorts hypnotiques plus cons les uns que les autres. Je ne supporte plus ce monde, non seulement parce que j’en suis la victime, mais parce que vous en êtes les victimes.
 
-Je ne veux pas vous plaire. Si vous restez sur les réseaux sociaux manipulateurs, je me demande pourquoi vous êtes encore là avec moi. Suis-je la dose d’acidité nécessaire dans un plat par ailleurs trop gras ou trop sucré ? J’aspire à devenir beaucoup plus nocif. Je me rêve en poison, en casseur d’ambiance, en tue-l’amour, en rabat-joie, en emmerdeur public…
+Je ne veux pas vous plaire. Si vous restez sur les réseaux sociaux manipulateurs, je me demande pourquoi vous êtes encore là avec moi. Suis-je la dose d’acidité nécessaire dans un plat par ailleurs trop gras ou trop sucré ? Je me rêve en piment, en casseur d’ambiance, en tue-l’amour, en rabat-joie, en emmerdeur public…
 
 Mais pas du genre qui emmerde avec humour, qui emmerde avec des paillettes, qui emmerde en faisant plaisir, je veux vous plonger dans le noir de notre époque, je veux vous secouer, je veux vous réveiller, parce que sinon je n’aurai plus personne avec qui discuter. Je ne sais pas si vous appréciez le spectacle contemporain, mais je le prends en pleine gueule dès que je croise un de mes semblables. Quelle idée reçue sur Facebook ou YouTube me recrachera-t-il ? Quelle vidéo à la con me partagera-t-il ?
 
