@@ -3,8 +3,6 @@ metatitle: "Dans un monde où tout est faux, pratiquons le headbang"
 metadescription: "Je ne veux pas vous plaire, mais vous secouer jusquau headbang. Manifeste contre le web rose bonbon et formaté."
 ---
 
-’’
-
 # Dans un monde où tout est faux, pratiquons le headbang
 
 Désormais tout est fait pour nous plaire, nous séduire, nous caresser dans le sens du poil. Nos goûts, attentes, désirs sont analysés, [nos intentions et décisions anticipées](https://danslesalgorithmes.net/2025/11/27/des-marchands-dattention-aux-architectes-de-lintention/) pour nous servir au moment opportun les produits et les informations les plus agréables. Mais nous pourrions devenir les grains de sable qui crissent sous la dent. Être ceux qui ne devraient pas être.
