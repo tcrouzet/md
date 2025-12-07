@@ -47,11 +47,11 @@ J’ai un total de plus de 3K abonnés à mes deux newsletters. Si je supprimais
 
 La solution, la plus évidente, celle effectuée par les chevaliers blancs fuyant Substack, migrer vers [Ghost](https://ghost.org/), dont le code est open source et offre les mêmes services que Substack. Mais c’est loin d’être gratuit, 63 $/mois ou 756 $/an dans mon cas. La plupart des chevaliers blancs ont rejoint Ghost parce qu’ils n’ont plus subi la ponction de 10 % de leurs revenus par Substack, ponction qui a couvert les frais sur Ghost, ce qui implique qu’ils gagnaient à minima plus de 7500 $/an avec leur newsletter. Ghost est fait pour eux qui font commerce de leurs contenus alors que je fais commerce de mes livres à travers mes éditeurs. Deux démarches différentes ([mais pourquoi pas changer à l’avenir](https://tcrouzet.com/2025/10/09/faire-payer/)).
 
-![Ghost](_i/ghost01.webp)
+![Ghost poster](_i/ghost01.webp)
 
 Je pourrais bien sûr installer la version open source de Ghost sur un serveur. Mais encore une fois ce n’est pas gratuit : disons 5 €/mois pour l’hébergement avec une montagne d’emmerdes, sachant qu’un Ghost autohébergé envoie les mails avec Mailgun, et comme j’envoie environ 20K mails par mois, le coût associé serait de 35 $/mois (ce serait juste 2 $/mois avec Amazon SES mais difficile de l’interfacer avec Ghost).
 
-![Mailgun thumb](_i/mailgun.webp)
+![Mailgun thumb poster](_i/mailgun.webp)
 
 Sur [un how to de migration de Substack à Ghost](https://www.readonlymemo.com/substack-to-ghost-migration-guide-in-2024-setting-up-mailgun-and-cloudflare/), j’ai découvert des hébergeurs Ghost plus compétitifs : [Midnight](https://getmidnight.com/pricing?ref=readonlymemo.com#) (21 $/mois pour 20K envois), [Gloat](https://gloathost.com/?ref=readonlymemo.com)(19 $/mois pour 20K envois) et [Magic Pages](https://magicpages.co/?ref=readonlymemo.com) (13 €/mois pour 10K envois — Allemand) ou [Abstract](https://fr.abstract27.com/creer-un-site-internet-ou-blog-avec-ghost-cms/) (17 €/mois pour 15K envois — France). Utilisent-ils un mailler fiable ? Je n’en suis pas sûr.
 
@@ -63,7 +63,7 @@ Par bien des côtés, [Patreon](https://www.patreon.com/) ressemble à Substack.
 
 [Beehiiv](https://www.beehiiv.com/) se veut le concurrent de Substack, avec une offre gratuite jusqu’à 2,5K abonnés, après c’est l’escalade tarifaire. Mais c’est clairement un service non social.
 
-![](_i/Beehiiv.webp)
+![Beehiiv poster](_i/Beehiiv.webp)
 
 Il existe une solution gratuite et française : [Kessel](https://www.kessel.media/), avec envois illimités et monétisation possible. Impression qu’il s’agit d’un mauvais clone de Substack, tous les articles bloqués sans abonnement. Les titres et les illustrations me font penser à des contenus générés par IA. Je ne vois pas la dimension communautaire qui fait le succès de Substack, encore moins le combo Web/RSS/Mail/App sur lequel s’appuie Substack. Instinctivement, je n’ai pas envie de tester.
 
@@ -79,6 +79,6 @@ Par ailleurs, je ne suis pas un intégriste du libre, sachant que personne ne pe
 
 Mon espoir : que le service se conforme à court terme à nos exigences européennes. Ça risque de prendre du temps, ne changera pas le fond de la philosophie des dirigeants de Substack et me laissera un arrière-goût déplaisant. Je serai toujours sur le départ, jamais satisfait, mais pour l’instant je ne vois pas d’issue. Substack est le seul service à offrir des newsletters modernes et ouvertes.
 
-*PS : J’écrirai un prochain article sur RSS vs Newsletter.* 
+*PS : J’écrirai un prochain article sur RSS vs Newsletter.*
 
 #netculture #y2025 #2025-11-25-10h00
