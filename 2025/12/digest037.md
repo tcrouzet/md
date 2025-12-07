@@ -1,6 +1,6 @@
 # De ma terrasse #37
 
-*Ma sélection du dimanche : **18** liens et une photo prise depuis ma terrasse. J’en profite pour remercier mes 21 premiers abonnés payants. La moitié d’entre vous sont des amis, l’autre moitié des lecteurs que je ne connais pas personnellement. Merci, je n’ai plus d’excuse pour garder la suite de* Mon père, ce tueur *dans mes cartons. On m’a demandé s’il serait disponible sur une librairie en ligne : non. Je le réserve aux seuls abonnés payants tout comme les lettres que je projette d’envoyer.*
+*Ma sélection du dimanche : 18 liens et une photo prise depuis ma terrasse. J’en profite pour remercier mes 21 premiers abonnés payants. La moitié d’entre vous sont des amis, l’autre moitié des lecteurs que je ne connais pas personnellement. Merci, je n’ai plus d’excuse pour garder la suite de* Mon père, ce tueur *dans mes cartons. On m’a demandé s’il serait disponible sur une librairie en ligne : non. Je le réserve aux seuls abonnés payants tout comme les lettres que je projette d’envoyer.*
 
 ![Dimanche 7 décembre](_i/2025-12-07-111923.webp)
 
@@ -60,6 +60,6 @@ Des modèles locaux légers tournent sur un Raspberry Pi à 100 dollars avec vos
 
 [Une grande conférence d’IA inondée de soumissions jugées par des IA](https://www.nature.com/articles/d41586-025-03506-6) • EN • 6 min   
 
-Un outil de détection révèle que 21 % des évaluations soumises à une conférence majeure de machine learning sont entièrement générées par IA. Des citations hallucinées et des retours verbeux trahissent l’automatisation. Les organisateurs promettent des vérifications systématiques pour restaurer la confiance.
+Un outil de détection révèle que 21 % des évaluations soumises à une conférence majeure de machine learning sont entièrement générées par IA. Des citations hallucinées et des retours verbeux trahissent l’automatisation. Les organisateurs promettent des vérifications systématiques pour restaurer la confiance. 
 
 #digest #y2025 #2025-12-7-17h00
