@@ -89,7 +89,7 @@ Publier un article sur Substack a beaucoup plus d’impact que le publier sur un
 
 ### L’impact carbone
 
-Des services comme [Website Carbon Calculator](https://www.websitecarbon.com/) ou [Website Emissions](https://websiteemissions.com/) évaluent l’impact carbone des pages web.
+Des services comme [Website Carbon Calculator](https://www.websitecarbon.com/) , [Website Emissions](https://websiteemissions.com/) ou [Ecoindex](https://www.ecoindex.fr/) évaluent l’impact carbone des pages web (pas des sites dans leur ensemble, ce qui est bien dommage).
 
 ![Score de tcrouzet.com](_i/comp06.webp)
 

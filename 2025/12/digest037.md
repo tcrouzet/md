@@ -1,3 +1,8 @@
+---
+metatitle: "De ma terrasse #37, décembre 2025"
+metadescription: "IA bouleversant l'art et la science, ordinateurs biologiques, conscience universelle. Une semaine de ruptures technologiques et questions éthiques."
+---
+
 # De ma terrasse #37
 
 *Ma sélection du dimanche : 18 liens et une photo prise depuis ma terrasse. J’en profite pour remercier mes 21 premiers abonnés payants. La moitié d’entre vous sont des amis, l’autre moitié des lecteurs que je ne connais pas personnellement. Merci, je n’ai plus d’excuse pour garder la suite de* Mon père, ce tueur *dans mes cartons. On m’a demandé s’il serait disponible sur une librairie en ligne : non. Je le réserve aux seuls abonnés payants tout comme les lettres que je projette d’envoyer.*
