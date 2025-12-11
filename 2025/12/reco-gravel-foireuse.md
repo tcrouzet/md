@@ -20,7 +20,7 @@ Sous un ciel gris, un 11°C brumeux, nous remontons la vallée de l’Orb par la
 
 ![Point repas](_i/pour01.webp)
 
-Mais la situation s’envenime dans la descente. Nos gravels cherchent à nous échapper. Ils sautent de pierre en pierre, dérapent, transmettant des vibrations à travers nos bras jusqu’à nos épaules et cervicales. Impossible d’intégrer ce tronçons à notre randonnée. Nous n’éprouvons aucun plaisir, là où à VTT nous ne nous nous éclaterions.
+Mais la situation s’envenime dans la descente. Nos gravels cherchent à nous échapper. Ils sautent de pierre en pierre, dérapent, transmettant des vibrations à travers nos bras jusqu’à nos épaules et cervicales. Impossible d’intégrer ce tronçons à notre randonnée. Nous n’éprouvons aucun plaisir, là où à VTT nous ne nous poserions pas de question.
 
 Tout est à refaire. C’est toujours après coup que je découvre une autre possibilité, à laquelle je n’aurais pas pensée sans d’abord me casser les dents sur celle initialement envisagée.
 
@@ -32,8 +32,8 @@ Tracer gravel, c’est un travail monstre, surtout chez nous dans notre Midi cai
 
 C’était l’occasion de vous donner quelques nouvelles (je dois prendre le temps de vous parler de mon nouveau gravel, un Diverge 4). Les inscriptions à nos trois évènements 2026 sont ouvertes.
 
-* [POU100](https://727bikepacking.fr/pou100/) (gravel, départ les 4 et 5 avril)
-* [727](https://727bikepacking.fr/727-Grand-Depart/) (VTT, départ le 8 mai, j’ai renoncé à créer une variante gravel, vu qu’aucun gravelliste ne s’est encore inscrit — le VTT devient marginal, mais nous ça nous éclate toujours autant et nous permet de découvrir des coins inaccessibles à gravel).
+* [POU100](https://727bikepacking.fr/pou100/) (gravel, départ les 4 et 5 avril).
+* [727](https://727bikepacking.fr/727-Grand-Depart/) (VTT, départ le 8 mai, j’ai renoncé à créer une variante gravel, vu qu’aucun gravelliste ne s’est encore inscrit — le VTT devient marginal, mais ça nous éclate toujours et nous permet de découvrir des coins inaccessibles à gravel).
 * [g727](https://727bikepacking.fr/g727-Grand-Depart/) (gravel, départ 26 septembre, direction les Pyrénées).
 
 Je vous rappelle que j’ai décidé de vous confier la promotion de nos évènements, puisque j’ai quitté les réseaux sociaux. Nous privilégions un marketing non agressif et communautaire. Notre but conserver le tarif symbolique de 35 € pour nos évènements.
