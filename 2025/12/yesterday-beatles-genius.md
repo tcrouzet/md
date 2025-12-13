@@ -1,9 +1,9 @@
 ---
-metatitle: "L'état N1: clé secrète de la créativité"
+metatitle: "L’état N1: clé secrète de la créativité"
 metadescription: Découvrez comment les états entre veille et sommeil boostent la créativité. De Paul McCartney à Dali, cultivez vos moments de génie.
 ---
 
-# L'état N1 : la clé secrète de la créativité
+# L’état N1 : la clé secrète de la créativité
 
 Dans la nuit du 25 au 26 juin 2024, alors que je dors à Toulouse dans la chambre voisine de Tim qui vient passer ses concours postprépa, je me réveille dans un état d’excitation extrême. Des phrases se bousculent.
 
@@ -14,8 +14,6 @@ Je suis resté deux heures à esquisser ce qui allait devenir [*Rush*, une tenta
 ### Yesterday
 
 Janvier 1964, Paul McCartney, 22 ans, habite au 57 Wimpole Street à Londres, dans la maison familiale de Jane Asher sa petite amie. La mère de Jane est professeure de musique à la Guildhall School of Music and Drama. La maison est remplie d’instruments. Dans sa chambre mansardée, Paul fait installer un piano droit près de son lit. Un matin, il se réveille avec en tête une mélodie complète, d’une clarté et d’une perfection déconcertantes. Il se dit : « Tiens, je ne connais pas cette mélodie – ou peut-être que si ? » Il se lève et se met au piano pour la jouer. Elle lui semble si familière et si bien construite qu’il pense l’avoir entendue quelque part et mémorisée malgré lui, peut-être durant son enfance — son père connaissait beaucoup de morceaux de jazz.
-
-![Pochette originale de Yesterday](_i/yesterday.png)
 
 Pendant plusieurs semaines, Paul se transforme en détective. Il joue la mélodie à tous ceux qu’il croise dans l’industrie musicale : « Tu connais ça ? C’est un joli petit air, mais ce n’est pas possible que je l’aie écrit, parce que j’en ai rêvé. » Mais le joli petit air ne dit rien à personne. Paul finit par admettre qu’il est de lui. Il l’appelle : *Scrambled eggs* (Œufs brouillés). Les premières paroles : « Scrambled eggs, oh my baby how I love your legs… » (Œufs brouillés, oh mon bébé comme j’aime tes jambes…).
 
