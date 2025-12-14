@@ -7,7 +7,7 @@ metadescription: "Entre IA autonome et perte de contrôle humain d'ici 2030, war
 
 _Ma sélection du dimanche : **11** liens et une photo prise depuis ma terrasse._
 
-PS : pour mes lecteurs qui ne lisent pas l’anglais, vous pouvez installer des plugins de traduction automatique sur vos navigateurs ou utiliser des navigateurs comme Comet qui disposent d’assistants IA intégrés.
+PS : Si vous ne lisez pas l’anglais, vous pouvez installer des plugins de traduction automatique sur vos navigateurs ou utiliser des navigateurs comme Comet qui disposent d’assistants IA intégrés.
 
 ![Samedi 13 décembre](_i/2025-12-13-172023.webp)
 
@@ -16,10 +16,15 @@ PS : pour mes lecteurs qui ne lisent pas l’anglais, vous pouvez installer des
 **[Pourquoi le monde perd-il ses couleurs ?](https://www.theculturist.io/p/why-is-the-world-losing-color)** • EN • 8 min  
 Plus de 80 % des voitures neuves sont désormais en tons de gris, les films adoptent des palettes délavées et les logos des grandes entreprises virent au monochrome. Cette mutation reflète une méfiance philosophique occidentale envers la sensorialité au profit d’une rationalité épurée, héritée de Platon.
 
-**[Rétracté : l’article soutenu par Monsanto qui nous assurait que le Roundup était sans danger](https://www.sciencealert.com/retracted-the-monsanto-backed-paper-that-told-us-roundup-was-safe)** • EN • 5 min  
-L’article de 2000 affirmant l’innocuité du glyphosate est retiré après révélation en 2017 du ghostwriting par des employés de Monsanto. Cité dans 800 publications académiques, il omettait des études à long terme et se basait uniquement sur des travaux internes non publiés.
+**[GlobalBuildingAtlas](https://tubvsig-so2sat-vm1.srv.mwn.de/)** • EN • 2 min  
+Un visualiseur web présente des données d’apprentissage automatique sur les bâtiments à l’échelle mondiale. (Retrouvez votre quartier en 3D.)
+
+![Ma maison, à la pointe](_i/maison.webp)
 
 ## Science et santé
+
+**[Rétracté : l’article soutenu par Monsanto qui nous assurait que le Roundup était sans danger](https://www.sciencealert.com/retracted-the-monsanto-backed-paper-that-told-us-roundup-was-safe)** • EN • 5 min  
+L’article de 2000 affirmant l’innocuité du glyphosate est retiré après révélation en 2017 du ghostwriting par des employés de Monsanto. Cité dans 800 publications académiques, il omettait des études à long terme et se basait uniquement sur des travaux internes non publiés.
 
 **[L’aspirine prévient les métastases en limitant la suppression de l’immunité des cellules T par les plaquettes via le TXA2](https://www.nature.com/articles/s41586-025-08626-7)** • EN • 45 min  
 L’aspirine bloque la production de thromboxane A2 par les plaquettes sanguines, permettant aux lymphocytes T de mieux combattre les cellules cancéreuses. Des essais sur souris révèlent une réduction spectaculaire des métastases pulmonaires et hépatiques.
@@ -37,9 +42,6 @@ Une équation relie le flux énergétique d’un système à sa capacité de sto
 
 **[Les scientifiques annoncent qu’un warpdrive est désormais possible. Sérieusement.](https://www.popularmechanics.com/science/a69663990/scientists-say-physical-warp-drive-now-possible/)** • EN • 9 min  
 Contrairement au modèle d’Alcubierre nécessitant de l’énergie négative, ce nouveau concept utilise des bulles flottants dans d’espace-temps. Miguel Alcubierre lui-même a approuvé cette approche physiquement réalisable. (Dans un futur si lointain que ça reste de la bonne SF.)
-
-**[GlobalBuildingAtlas](https://tubvsig-so2sat-vm1.srv.mwn.de/)** • EN • 2 min  
-Un visualiseur web présente des données d’apprentissage automatique sur les bâtiments à l’échelle mondiale. (Carte bluffante, retrouvez votre quartier en 3D.)
 
 ## Intelligence artificielle
 
