@@ -55,9 +55,9 @@ Luciano dit : « Si je monte à cheval sans savoir comment le guider, c’est l
 
 Pour lui, on passe de « je l’ai fait de mes mains » à « je suis responsable du design », à la même manière que l’architecte est responsable de la construction sans construire lui-même. « C’est ma création parce que j’en suis responsable non parce que j’ai mis les mains à la pâte. » Luciano oublie que les grands architectes ont toujours été de grands ingénieurs, de grands connaisseurs des techniques de construction. Ils ne faisaient pas eux-mêmes faute de temps mais auraient souvent été capables de faire si nécessaire.
 
-Luciano dit ne pas se préoccuper du ciment (ce qui a toujours été une préoccupation des architectes dès la Rome antique). Luciano prétend que les IA écrivent proprement et je trouve qu’elles écrivent médiocrement, malgré tous mes efforts de leur interdire les figures de style dont elles raffolent.
+Luciano dit ne pas se préoccuper du ciment (ce qui a toujours été une préoccupation des architectes dès la Rome antique). Luciano prétend que les IA écrivent proprement et je trouve qu’elles écrivent médiocrement, malgré mes efforts pour leur interdire les figures de style dont elles raffolent.
 
-Si je trouve l’effort louable d’écrire un livre sans en écrire une ligne, je n’en fais pas un exploit, des dizaines de livres générés quasi-automatiquement envahissant les librairies en ligne. Pourquoi sont-ils généralement médiocres ?
+Si je trouve louable l’ambition d’écrire un livre sans en écrire une ligne, je n’en fais pas un exploit, des dizaines de livres générés quasi-automatiquement envahissant les librairies en ligne. Pourquoi sont-ils médiocres ?
 
 ### Ça marche avec le code
 
