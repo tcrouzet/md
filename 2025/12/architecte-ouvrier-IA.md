@@ -114,6 +114,6 @@ C’est comme si John Truby me regardait écrire et me corrigeait sans complaisa
 
 *PS1 : J’utilise la méthode de Truby mais pourrais en utiliser bien d’autres ou même fixer mes propres règles ou encore demander à une IA d’extraire des règles des livres d’un auteur dont j’aime le style (ce que je ferais aujourd’hui si je réécrivais* Le Code Houellebecq*).*
 
-*PS : Et l’IA dans cet article ? Je me suis contenté de lui demander de faire de la correction orthotypo, en seconde passe après Antidote.*
+*PS2 : Et l’IA dans cet article ? Je me suis contenté de lui demander de faire de la correction orthotypo, en seconde passe après Antidote. La rédaction a dû me prendre une dizaine d’heures pour 4 000 mots.*
 
 #netlitterature #y2025 #2025-12-23-19h00
