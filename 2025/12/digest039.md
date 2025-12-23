@@ -3,9 +3,6 @@ metatitle: "De ma terrasse #39 | les lectures du dimanche"
 metadescription: "IA et cognition : comment l'écriture assistée transforme nos cerveaux. Entre assistance cognitive et atrophie neuronale, les indices qui trahissent les bots."
 ---
 
-
-
-
 # De ma terrasse #39
 
 _Ma sélection du dimanche : **14** liens et une photo prise depuis ma terrasse._
