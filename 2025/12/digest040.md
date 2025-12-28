@@ -1,8 +1,10 @@
 # De ma terrasse #40
 
-Ma sélection du dimanche : **13** liens et une photo prise depuis ma terrasse.*
+*Ma sélection du dimanche : **13** liens et une photo prise depuis ma terrasse.*
 
-Je teste une nouvelle forme pour les résumés. Vous me dites si vous préférez. Plusieurs lecteurs ont eu des difficultés à souscrire un abonnement payant (j’ai forcé la monnaie en Euro…, on va voir si ça marche mieux).
+Je teste une nouvelle forme pour les résumés. Vous me dites si vous préférez.
+
+Plusieurs lecteurs ont eu des difficultés à souscrire un abonnement payant (j’ai forcé la monnaie en Euro…, on va voir si ça marche mieux).
 
 Bonne année à tous.
 
