@@ -1,3 +1,7 @@
+---
+metatitle: "De ma terrasse #40 | les lectures du dimanche"
+metadescription: "Oxygène noir des abysses, univers asymétrique, créativité limitée de l'IA. Entre typographie 2026 et découvertes scientifiques, les liens de la semaine."
+---
 # De ma terrasse #40
 
 *Ma sélection du dimanche : **13** liens et une photo prise depuis ma terrasse.*
