@@ -176,7 +176,7 @@ Deux jours qu’Isa retourne à pied au village. Le cadeau.
 
 ---
 
-Je poursuis mes recherches sur la forme du présent immédiat première personne et découvre [*Les lauriers sont coupés*](https://fr.wikipedia.org/wiki/Les_lauriers_sont_coup%C3%A9s_(nouvelle)) d’Édouard Dujardin, 1887, donc bien avant Bret Easton Ellis et Joyce qui l’avait lu et s’en était inspiré. Ces recherche me motivent.
+Je poursuis mes recherches sur la forme du présent immédiat première personne et découvre [*Les lauriers sont coupés*](https://fr.wikipedia.org/wiki/Les_lauriers_sont_coup%C3%A9s_(nouvelle)) d’Édouard Dujardin, 1887, donc bien avant Bret Easton Ellis et Joyce qui l’avait lu et s’en était inspiré. Ces recherches me motivent.
 
 ![Soir](_i/2025-12-31-174046.webp)
 
