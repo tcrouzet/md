@@ -6,7 +6,7 @@ Depuis que j’utilise la même coloration pour mon site et mon éditeur de text
 
 ### Jeudi 4, Balaruc
 
-Des mecs contre les algorithmes et les IA font la pub de leurs livres et articles avec les algorithmes et les IA. Ils n’ont honte de rien. [Mieux un livre contre les IA avec sur la couverture une image générée par IA.](https://editionsdesequateurs.fr/livre/Les-Nouveaux-Contremaitres-/370) Je répète cette attaque mois après mois en la variant, mais la malhonnêteté intellectuelle n’en finira jamais de me révolter.
+Des mecs contre les algorithmes et les IA font la pub de leurs livres et articles avec les algorithmes et les IA. Ils n’ont honte de rien. [Mieux un livre contre les IA avec en couverture une image générée par IA.](https://editionsdesequateurs.fr/livre/Les-Nouveaux-Contremaitres-/370) Je répète cette attaque mois après mois en la variant, mais la malhonnêteté intellectuelle n’en finira jamais de me révolter.
 
 ---
 
@@ -32,11 +32,11 @@ Beaucoup de mes articles commencent par des notes ici qui enflent, puis s’allo
 
 ### Samedi 6, Balaruc
 
-Après deux semaines de travail préparatoire, et plus de 200K signes de notes selon la méthode Truby, je commence enfin à écrire le roman. J’avais peur que ce soit ennuyeux, mais connaître le contexte général et le sens de l’histoire me permet de me mieux me concentrer sur la narration et l’écriture elle-même, et déjà de nouveaux éléments narratifs émergent. Je suis en train de découvrir que l’IA me permet d’écrire ce que je n’aurais jamais écrit. Elle ne travaille pas à ma place, mais en tant qu’assistante elle m’aiguillonne sans relâche et me force à me poser à répétition les questions de Truby.
+Après deux semaines de travail préparatoire, et plus de 200K signes de notes selon la méthode Truby, je commence enfin à écrire le roman. J’avais peur que ce soit ennuyeux, mais connaître le contexte général et le sens de l’histoire me permet de me mieux me concentrer sur la narration et l’écriture. Déjà de nouveaux éléments narratifs émergent. Je suis en train de découvrir que l’IA me permet d’écrire ce que je n’aurais jamais écrit. Elle ne travaille pas à ma place, mais en tant qu’assistante elle m’aiguillonne sans relâche et me force à me poser à répétition les questions de Truby.
 
 ---
 
-Première sortie culturelle d’Isa depuis des mois. Nous profitons du passage de Sam pour aller au théâtre à Sète. [Spectacle puissamment visuel](https://maisondeladanse.com/programmation/saison2024-2025/immaqaa-ici-peut-etre), décors et lumières extraordinaires, moments poétiques alternent avec scènes festives, parfois drôles, et les spectateurs ridicules applaudissent devant les acrobaties comme au cirque ! Isa bouleversée de voir de jeunes corps en pleine forme s’agiter sur la scène et au-dessus comme s’ils flottaient dans l’air.
+Première sortie culturelle d’Isa depuis des mois. Nous profitons du passage de Sam pour aller au théâtre à Sète. [Spectacle puissamment visuel](https://maisondeladanse.com/programmation/saison2024-2025/immaqaa-ici-peut-etre), décors et lumières extraordinaires, moments poétiques alternent avec scènes festives, parfois drôles, et les spectateurs ridicules applaudissent devant les acrobaties comme au cirque ! Isa bouleversée de voir de jeunes corps en pleine forme s’agiter sur la scène et au-dessus dans le vide.
 
 ![Soir](_i/2025-12-06-162022-lamaison.webp)
 
@@ -82,11 +82,11 @@ Cette nuit Isa a trébuché, s’est affalée, brisant d’un coup de tête un p
 
 ### Samedi 13, Balaruc
 
-Isa va mieux, cause des douleurs identifiées, une infection urinaire, tout devient inféraient et indéchiffrable quand une maladie s’ajoute à une autre. Malgré tout rien n’est clair, aucune explication ne s’impose.
+Isa va mieux, cause des douleurs identifiées, une infection urinaire, tout devient indéchiffrable quand une maladie s’ajoute à une autre. Malgré tout rien n’est clair, aucune explication ne s’impose.
 
 ---
 
-Je découvre les larmes aux yeux [l’œuvre Hiroshi Yoshida](https://www.youtube.com/watch?v=L46fm_QRv3c). Merveilleux paysages. [Suis resté bloqué sur un de ses paysages maritimes.](https://woodblock-print.eu/hiroshi-yoshida-xiaogushan,-china-sh%C3%B4kozan-detail.html#mz-expanded-view-1271821086537) J’aimerais écrire comme ça, photographier comme ça, me remettre à dessiner comme ça. Un éloge du regard.
+Je découvre les larmes aux yeux [l’œuvre Hiroshi Yoshida](https://www.youtube.com/watch?v=L46fm_QRv3c). Merveilleux paysages. [Suis resté bloqué sur un de ses marines.](https://woodblock-print.eu/hiroshi-yoshida-xiaogushan,-china-sh%C3%B4kozan-detail.html#mz-expanded-view-1271821086537) J’aimerais écrire comme ça, photographier comme ça, me remettre à dessiner comme ça. Un éloge du regard.
 
 ![Soir](_i/2025-12-13-172018-lamaison.webp)
 
@@ -94,7 +94,7 @@ Je découvre les larmes aux yeux [l’œuvre Hiroshi Yoshida](https://www.youtub
 
 ### Mercredi 17, Balaruc
 
-Je suis incapable d’écrire des notes dans mon journal à cause de la tempête émotionnelle, alors je fuis dans la fiction, explorant des terres nouvelles pour moi.
+Je suis incapable d’écrire des notes dans mon journal à cause de la tempête émotionnelle, alors je fuis dans la fiction, explorant des terres nouvelles.
 
 ### Jeudi 18, Balaruc
 
@@ -130,7 +130,7 @@ Quelle chance de ne plus être sur les réseaux sociaux. Mais même sur Mastodon
 
 On me dit : « J’écris à la main pour les mêmes raisons que je pétris mon pain à la main. » Réponse : « Sans doute que tu ne roules pas dans une voiture fait main, que tu ne m’écris pas avec un ordi fait main… » Je crois que je vais collectionner les arguments contre l’IA.
 
-Hier j’entendais sur Inter une émission sur les Jeux olympiques de 1936 et les manipulations d’Hitler, et tout aurait pu être mis dans la bouche de Poutine, voire de Trump, sans que ça ne choque personne. Comme si l’histoire tournait en boucle. Je sais que c’est une illusion trompeuse, mais avec l’IA se rejoue l’éternel problème ses réticents. Ce serait drôle si à chaque révolution technologique on ne revivait pas la même tragédie.
+Hier j’entendais sur Inter une émission sur les Jeux olympiques de 1936 et les manipulations d’Hitler, et tout aurait pu être mis dans la bouche de Poutine, voire de Trump, sans que ça ne choque personne. Comme si l’histoire tournait en boucle. Je sais que c’est une illusion trompeuse, mais avec l’IA se rejoue l’éternel problème des réticents. Ce serait drôle si à chaque révolution technologique on ne revivait pas la même tragédie.
 
 ### Dimanche 28, Balaruc
 
