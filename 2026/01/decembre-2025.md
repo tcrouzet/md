@@ -180,4 +180,4 @@ Je poursuis mes recherches sur la forme du présent immédiat première personne
 
 ![Soir](_i/2025-12-31-174046.webp)
 
-#carnets #y2025 #2025-01-01-20h00
+#carnets #y2025 #2026-01-01-20h00
