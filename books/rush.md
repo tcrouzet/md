@@ -37,6 +37,8 @@ Entre journal intime d’un écrivain et quête onirique d’un mode de vie rév
 
 [Babelio](https://www.babelio.com/livres/Crouzet-Rush/1930193?id_edition=2492516)
 
+[Rush, à la recherche de l’essence de la créativité](https://lesmillemondes.com/2025/12/29/rush-a-la-recherche-de-lessence-de-la-creativite/)
+
 ![Planche de couverture](_i/rush_planche.webp)
 
 ![Rush encart](_i/rush-promo.webp)
