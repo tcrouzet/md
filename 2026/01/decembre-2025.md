@@ -1,3 +1,8 @@
+---
+metatitle: "Carnet de Thierry Crouzet, décembre 2025"
+metadescription: "Douleurs d'Isa, hospitalisation, puis répit. Roman en construction avec l'IA. Recherches obsessionnelles sur la narration au présent immédiat."
+---
+
 # Décembre 2025
 
 ### Lundi 1<sup>er</sup>, Balaruc
