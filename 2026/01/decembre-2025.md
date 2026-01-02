@@ -91,7 +91,7 @@ Isa va mieux, cause des douleurs identifiées, une infection urinaire, tout devi
 
 ---
 
-Je découvre les larmes aux yeux [l’œuvre d’Hiroshi Yoshida](https://www.youtube.com/watch?v=L46fm_QRv3c). Merveilleux paysages. [Suis resté bloqué sur un de ses marines.](https://woodblock-print.eu/hiroshi-yoshida-xiaogushan,-china-sh%C3%B4kozan-detail.html#mz-expanded-view-1271821086537) J’aimerais écrire comme ça, photographier comme ça, me remettre à dessiner comme ça. Un éloge du regard.
+Je découvre les larmes aux yeux [l’œuvre d’Hiroshi Yoshida](https://www.youtube.com/watch?v=L46fm_QRv3c). Merveilleux paysages. [Suis resté bloqué sur une de ses marines.](https://woodblock-print.eu/hiroshi-yoshida-xiaogushan,-china-sh%C3%B4kozan-detail.html#mz-expanded-view-1271821086537) J’aimerais écrire comme ça, photographier comme ça, me remettre à dessiner comme ça. Un éloge du regard.
 
 ![Soir](_i/2025-12-13-172018-lamaison.webp)
 
