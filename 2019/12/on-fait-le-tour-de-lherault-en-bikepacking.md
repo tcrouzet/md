@@ -20,4 +20,4 @@ Voilà, [contactez-moi](../../page/mail) si ça vous intéresse. Je travaille tr
 
 Intéressé ? [Rejoignez le groupe…](https://www.facebook.com/groups/gth34/)
 
-#727 #velo #y2019 #2019-12-15-20h10
+#727bikepacking #velo #y2019 #2019-12-15-20h10

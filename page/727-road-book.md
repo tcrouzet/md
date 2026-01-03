@@ -194,4 +194,4 @@ Pas question d’explorer tous les singles, de se fracasser contre les cailloux 
 
 Source : [Carte des régions de France](https://fr.m.wikipedia.org/wiki/Fichier:Carte_des_regions_naturelles_de_france.jpg)…
 
-#page #y2021 #2021-3-14-11h9
+#page #727bikepacking #y2021 #2021-3-14-11h9

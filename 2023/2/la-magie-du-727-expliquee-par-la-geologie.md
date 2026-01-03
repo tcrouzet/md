@@ -20,4 +20,4 @@ La Bretagne, le Massif central, les Pyrénées attirent l’œil par leur cacoph
 
 ![Zoom](_i/geo05.webp)
 
-#727 #velo #y2023 #2023-2-1-21h17
+#727bikepacking #velo #y2023 #2023-2-1-21h17

@@ -11,6 +11,7 @@ Si dans son [Local Overnighter Project](https://bikepacking.com/overnighters/), 
 Il est huit heures. Nous voilà partis avec un temps gris, pluie annoncée, pas des conditions de saison pour un début août dans le Midi. Je suis sur mes terres, j’évite de commencer par le chemin des Dames, un de mes singles VTT préféré, mais déjà exigeant. Par petites routes et pistes, nous contournons Poussan, nous attaquons aux collines de La Moure, mais Sète, les étangs et la mer se dérobent à nous, plongés dans la brume. La pluie nous prend déjà. La terre à peine humidifiée se décolle en croûtes qui adhèrent à nos pneus.
 
 ![Collines de La Moure](_i/IMG_1370.webp)
+
 ![Collines de La Moure](_i/IMG_1375.webp)
 
 Des conditions qui ne ravissent pas Lionel. Lui, le Belge trop habitué aux intempéries à longueur d’année, attendait de la lumière et de la chaleur. Il n’a pas roulé depuis la fin de la GTMC, sinon cinquante bornes la veille pour me rejoindre, et ses jambes le font déjà souffrir. La pluie se calme. Après une succession de singles parfois glissants, nous rejoignons la belle piste de la Taillade.
@@ -24,6 +25,7 @@ Quand je vais aux toilettes, je découvre que dans la salle des tables ont été
 Il y a un truc qui cloche. Service minimum. J’ai passé mon enfance dans un café où on servait à toute heure, où on ne refusait jamais rien à un client désireux de consommer. On dirait désormais qu’une normalisation étriquée des horaires s’est imposée. Les serveurs préfèrent ne rien faire plutôt que nous servir, montrant qu’il se fichent bien de nous. Durant la GTMC, nous nous sommes plusieurs fois heurtés à la même déconvenue. Ce problème se répète de voyage en voyage. Heureusement, il reste quelques établissements serviables pendant que la majorité subsiste sans réelle raison d’être.
 
 ![La Boissière](_i/IMG_1381.webp)
+
 ![La Boissière](_i/IMG_1383.webp)
 
 La pluie se calme et nous repartons. Dès que le chemin s’élève, je distance Lionel. Autant il a mal aux jambes, autant je pourrais rouler beaucoup plus vite. Je n’ai qu’une envie, accélérer alors que la pluie reprend. Par une petite route, nous rejoignons La Boissière, puis une piste nous amène à l’ancienne mine à ciel ouvert transformée en lac artificiel. Nous suivons une voie ferrée désaffectée, franchissons ponts et tunnel sous une pluie intense avant de plonger sur Aniane, où nous nous jetons dans le premier restaurant venu.
@@ -37,10 +39,15 @@ Pas question de nous arrêter à la plage pour un bain, le temps n’est pas enc
 Quand nous sortons de la boutique, où j’ai craqué pour un Malakoff original, mais qui ne me procure aucun effet proustien, le soleil fait son apparition. Nous gagnons dix degrés en quelques minutes, alors que nous attaquons la grosse difficulté de la journée. Nous contournons Saint-Guillem-le-Désert par une piste magnifique, qui nous fait tantôt découvrir la plaine de l’Hérault, avec ses villages, puis le mont Saint-Baudille qui se dresse fièrement au-dessus de nous.
 
 ![La vallée de l’Hérault](_i/IMG_1393.webp)
+
 ![Forêt domaniale de Saint-Guilhem-le-Désert](_i/IMG_1403.webp)
+
 ![Forêt domaniale de Saint-Guilhem-le-Désert](_i/IMG_1414.webp)
+
 ![Forêt domaniale de Saint-Guilhem-le-Désert](_i/IMG_1418.webp)
+
 ![Mont Saint-Baudille](_i/IMG_1423.webp)
+
 ![Forêt domaniale de Saint-Guilhem-le-Désert](_i/IMG_1425.webp)
 
 C’est juste sublime. Un must do. Mais Lionel piétine. Nous grimpons jusqu’au col de la Croix de Fer, entrons dans la forêt domaniale de Saint-Guilhem-le-Désert, avant de replonger vers la combe D’anoud, qui nous conduit par des paysages changeants, à travers les pinèdes puis des bois de chênes vers le col des Lavagnes. Nous voilà au flanc de la Séranne, dans un paysage plus âpre, qui nous dirige vers le point culminant de notre périple.
@@ -48,8 +55,11 @@ C’est juste sublime. Un must do. Mais Lionel piétine. Nous grimpons jusqu’a
 Lionel n’avance plus. Je commence à me dire qu’il n’est pas raisonnable de pousser jusqu’au Salagou et d’enchaîner le lendemain une journée presque aussi dure. Ce ne sera pas du plaisir pour lui. Bientôt je le perds de vue. J’ai beau grimper le plus lentement possible, je le distance. Quand je m’arrête, j’ai vite froid, car un vent du nord revigorant s’est levé. Je décide de poursuivre jusqu’au sommet et de m’abriter dans le renfoncement de la porte du gigantesque centre de communication qui le chapeaute.
 
 ![Mont Saint-Baudille](_i/IMG_1442.webp)
+
 ![Mont Saint-Baudille](_i/IMG_1445.webp)
+
 ![Pic Saint-Loup](_i/IMG_1447.webp)
+
 ![Mont Saint-Baudille](_i/IMG_1453.webp)
 
 La vue est à couper le souffle, l’une des plus belles de l’Hérault. Sète flotte à l’horizon. Je découvre avec toujours le même plaisir les détails de ma région. Je devine les massifs où j’aime rouler. Mais Lionel ne s’arrête pas. Nous attaquons la descente par la route, avec une vue sur le Larzac clôturée par le massif de l’Aigoual, à l’ouest nous apercevons le Salagou, le Haut Languedoc et la montagne Noire. Quand nous rejoignons la piste menant au lac, nous ne sommes qu’à 20 km de notre objectif du jour, mais décidons plutôt de rentrer chez moi par la route. Cette décision rassure Lionel, même si le retour, malgré le vent de dos ne sera que douleurs pour lui. [Nous terminons notre répriple après 138 km et 2 280 m de dénivelé, donc 80 km de chemins et singles.](https://www.strava.com/activities/5755021122)
@@ -58,4 +68,4 @@ Notre projet de nuit dehors a capoté, mais reste la trace que j’ai concoctée
 
 [![La carte Salagou overnighter](_i/overnighter.png)](https://www.google.com/maps/d/u/0/edit?mid=1df7rFRuwE8aKFOaUry4aaANrClTpGxms&usp=sharing)
 
-#mini_aventures #velo #y2021 #2021-8-9-12h4
+#velo #mini_aventures #y2021 #2021-8-9-12h4

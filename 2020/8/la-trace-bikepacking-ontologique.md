@@ -63,4 +63,4 @@ L’ontologique me dit « Va pour le poussage… », c’est bien l’ontologi
 ![Par la Buèges](_i/recoProfilBueges.png)
 ![Voie nord](_i/recoProfilnord.png)
 
-#727 #velo #y2020 #2020-8-15-7h44
+#727bikepacking #velo #y2020 #2020-8-15-7h44

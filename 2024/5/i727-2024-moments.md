@@ -156,4 +156,4 @@ Merci aux copains du club pour leur aide. J’espère vous convaincre de nous ac
 
 ![](_i/recapi727.webp)
 
-#velo #bikepacking #727 #y2024 #2024-5-13-16h00
+#velo #bikepacking #727bikepacking #y2024 #2024-5-13-16h00

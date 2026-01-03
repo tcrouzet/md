@@ -182,4 +182,4 @@ Tout le monde semble heureux (et les déçus ne sont pas là, mais j’écoutera
 
 À titre de comparaison, [lors du i727 2022 (avec une journée sous la neige)](../../2022/4/bikepacking-tempetueux-dans-lherault.md), la moyenne effective était de 12,9 km/h pour une distance de seulement 480 km et un dénivelé identique. Voilà qui démontre que le g727 est beaucoup plus roulant qu’un i727 (et donc davantage gravel).
 
-#727 #bikepacking #gravel #velo #y2023 #2023-9-28-16h7
+#727bikepacking #bikepacking #gravel #velo #y2023 #2023-9-28-16h7

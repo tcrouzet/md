@@ -54,4 +54,4 @@ Essayez donc de rouler avec nous en mai sur [le i727](https://727bikepacking.fr/
 
 *PS : Mon marketing se résume à quelques articles où je glisse les noms des 727 et tente de défendre ma philosophie du bikepacking.*
 
-#bikepacking #velo #y2023 #2023-11-10-17h41
+#727bikepacking #bikepacking #velo #y2023 #2023-11-10-17h41

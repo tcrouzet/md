@@ -44,6 +44,4 @@ Voici maintenant comment je concocte une trace type GTH.
 
 ![La trace sous Base Camp](_i/gmap6.webp)
 
-
-
-#727 #gps #velo #y2019 #2019-9-18-16h38
+#727bikepacking #gps #velo #y2019 #2019-9-18-16h38

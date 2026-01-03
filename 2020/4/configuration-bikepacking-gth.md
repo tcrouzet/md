@@ -29,6 +29,7 @@ Côté selle après avoir longtemps roulé avec des Specialized Power, puis Powe
 Côté guidon, je suis très SQLab, avec des grips 711, des innerbars et un [cintre flex 16° backsweep](https://www.sq-lab.com/en/products/handlebars/sqlab-handlebar-311-fl-x-carbon-16.html#attributes) qui par sa souplesse absorbe les vibrations et les chocs ([les Baramind étaient en rupture de stock et moins bien taillés à mon goût](https://www.baramind-bike.com/fr/)). J’hésite encore à installer un [Aero Bolt-ON V2](http://alternativsport.com/accueil/1364-aero-bolt-on-v2.html) pour disposer d’une troisième position lors des secteurs rectilignes et roulants.
 
 ![Grip et corne](_i/P1110006.webp)
+
 [J’ai abandonné les pédales auto depuis ma fracture du col du fémur.](../../2019/12/gravel-vtt-et-bikepacking-pedales-auto-ou-plates.md) J’ai monté des plates Nukeproof Horizon Titane qui ont un super grip. Je ne me sens toujours pas prêt à revenir aux auto, sauf si je finis par avoir des douleurs aux genoux ou ailleurs. Je mets parfois un pied à terre dans des passages techniques où je passais avec les auto, je perds un poil de puissance à l’arrache, mais je m’en contre fiche. Je pense que j’ai déjà évité deux gamelles depuis que je suis en plates.
 
 Côté chaussures, après avoir testé une paire de Five Ten Freerider que j’ai trouvé lourde et pataude (800 g), j’utilise une ancienne paire Brooks Cascadia (756 g). Pour mieux faire, il me faut dénicher une paire avec semelles plus rigides, sans doute des chaussures d’approche utilisées en montagne, comme des [Arc’teryx Konseal](https://arcteryx.com/fr/fr/shop/mens/konseal-fl-gtx-shoe) (700 g) ou des [Arc’teryx Arakys](https://arcteryx.com/fr/fr/shop/mens/arakys-approach-shoe) (540 g). À titre de comparaison, mes Giro Empire VR80 avec la cale SPD pèsent 808 g.
@@ -57,4 +58,4 @@ Côté énergie, j’ai remplacé ma batterie Anker PowerCore+ 20000 par une Hua
 
 Pour la nuit, le camp, les coups de froid, j’avais prévu d’acheter [un pantalon doudoune](https://euro.montbell.com/products/disp.php?cat_id=25044&p_id=2301352&gen_cd=1), suivant l’exemple de Lael Wilcox qui en fait son équipement de bikepacking le plus vital. Cette solution me paraît plus modulaire qu’un sac de couchage plus chaud que mon Western Mountaineering NanoLite. Pour début juin dans l’Hérault, je n’en aurais pas besoin, peut-être prévoir un [sac à viande ultra léger](https://www.maisondelasoie.com/fr/101-drap-de-sac-de-couchage-en-soie-ripstop-cocoon.html).
 
-#727 #velo #y2020 #2020-4-27-9h44
+#727bikepacking #velo #y2020 #2020-4-27-9h44

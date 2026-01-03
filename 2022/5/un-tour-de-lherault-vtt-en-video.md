@@ -10,4 +10,4 @@ Ce 727 a été l’occasion de tester des variantes, d’en adopter certaines, d
 
 [Infos et traces sont sur la page dédiée…](https://727bikepacking.fr)
 
-#727 #bikepacking #velo #y2022 #2022-5-19-13h20
+#727bikepacking #bikepacking #velo #y2022 #2022-5-19-13h20

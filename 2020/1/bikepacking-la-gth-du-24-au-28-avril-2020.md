@@ -30,4 +30,4 @@ Continuons à discuter et à échanger [sur le Groupe Facebook](https://www.face
 
 [![Inscrivez-vous](_i/GTH1.webp)](http://https://www.facebook.com/events/605064983591658/)
 
-#727 #velo #y2020 #2020-1-4-18h20
+ #velo #727bikepacking #y2020 #2020-1-4-18h20

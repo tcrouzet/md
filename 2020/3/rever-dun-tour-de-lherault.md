@@ -52,4 +52,4 @@ Pour vous préparer, voici quelques images prises lors de mes reconnaissances.
 
 ![Marseillan](_i/IMG_9345-1.webp)
 
-#727 #velo #y2020 #2020-3-20-19h35
+#727bikepacking #velo #y2020 #2020-3-20-19h35

@@ -40,4 +40,4 @@ Le bonheur, oui, bien plus que le plaisir en fin de compte. Le bonheur d’être
 
 *PS : J’ai bien sûr écrit ce billet avant tout pour me faire plaisir.*
 
-#727 #velo #y2023 #2023-2-23-22h42
+#727bikepacking #velo #y2023 #2023-2-23-22h42

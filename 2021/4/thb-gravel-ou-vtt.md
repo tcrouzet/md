@@ -70,4 +70,4 @@ Particularité : j’étais le seul à rouler avec des pédales plates. Je ne m
 
 On peut faire le tour avec des gravel, des monster cross, des VTT ou des fat, mais les VTT et les fat semblent mieux adaptés. Ce n’est guère étonnant, les fourches avant apportent un surpoids minime et un confort qui compense largement la perte de rendement. Si on voyage d’abord pour le plaisir, on a tout intérêt à partir dans le tour à VTT. Quant aux gros pneus du fat, ils apportent du confort d’une autre façon, même si les secteurs où le fat était à son avantage n’étaient pas nombreux.
 
-#727 #velo #y2021 #2021-4-10-16h26
+#727bikepacking #velo #y2021 #2021-4-10-16h26

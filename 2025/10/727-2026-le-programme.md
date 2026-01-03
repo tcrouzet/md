@@ -34,4 +34,4 @@ La trace de fin septembre partira cette année de Poussan en direction des Pyré
 
 Parlez des 727 à vos amis, invitez-les, surtout les débutants en bikepacking. Nous roulons souvent en groupe. Les 727 sont des expériences conviviales loin de tout esprit de compétition, et les rares compétiteurs qui s’y risquent ne trouvent personne pour les féliciter de leurs contre-performances humaines. Notre monde a besoin de coopération pas d’affrontement. Le bikepacking nous projette dans la nature pour nous apprendre à la savourer et à la respecter.
 
-#velo #bikepacking #y2025 #2025-10-20-22h00
+#velo #727bikepacking #y2025 #2025-10-20-22h00

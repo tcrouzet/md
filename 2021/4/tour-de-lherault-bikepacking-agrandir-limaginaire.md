@@ -30,6 +30,7 @@ Nous sommes donc six à nous élancer de chez moi, sous un ciel pur, mais avec u
 Artur a pris le train de Montpellier jusqu’à Sète. Il roule avec un semi-rigide. Clément, lui, a déjà parcouru 35 km à fond avec son gravel pour ne pas nous manquer. Nous voilà en file indienne sur le sentier qui ondule entre les anciennes salines et l’étang. Le soleil nous réchauffe déjà. Je suis chez moi, sur un de mes terrains de jeu préférés, mais je reste ébahi par le spectacle. Le tour ne peut pas mieux commencer.
 
 ![Le lido](_i/IMG_8561.webp)
+
 ![Le lido](_i/IMG_8569.webp)
 
 Je sais que le dépaysement est immédiat pour ceux qui arrivent de loin. Et d’avoir cette pensée, de me mettre à leur place, je ne suis pas tout à fait dans une aventure bikepacking ordinaire. J’en suis l’organisateur, en connais le plus souvent les tours et détours, et me sens en quelque sorte responsable, mais sans en éprouver un poids excessif. J’ai l’habitude de conduire les copains dans des pièges lors de nos explorations.
@@ -39,14 +40,19 @@ Depuis quelques semaines, l’étang est exceptionnellement bas. Patrick nous fa
 Il y a chez moi toujours une ambition poétique. Là, montrer que le plaisir est au bout du jardin, au bout de la ville, à l’intérieur même du département, gratuit, ouvert, débordant pour qui veut s’en emparer. Pas de chronomètre, de brevet, de diplôme, pas d’autres récompenses que la satisfaction d’avoir accompli une prouesse qui pour beaucoup paraîtrait extraordinaire.
 
 ![Marseillan](_i/IMG_8573.webp)
+
 ![Le Fat sur son terrain](_i/IMG_8577.webp)
+
 ![Le lido](_i/IMG_8583.webp)
 
 J’arrête de penser et roule. Parfois je me pose pour photographier et cravache pour rattraper les autres. Nous rejoignons la mer. Suivons la piste cyclable jusqu’au Canal du Midi, puis un single ombragé nous amène le long de l’Hérault jusqu’à Agde. Il est près de 10 h. Nous hésitons devant une boulangerie miteuse, puis décidons de poursuivre en suivant les quais, que nous quittons pour gagner la mer à travers une pinède. Patrick nous organise une séance photo, pendant que Bertrand se bat avec ses sacoches qui piquent du nez et lèchent ses roues. Nous nous extrayons du sable, puis remontons vers le Canal du Midi. Après les écluses du Libron, nous filons vers l’ancien delta de l’Orb.
 
 ![Agde](_i/IMG_8590.webp)
+
 ![La plage](_i/IMG_8595.webp)
+
 ![Les écluses du Libron](_i/IMG_8598.webp)
+
 ![La Grande Maire](_i/IMG_8600.webp)
 
 La sécheresse des dernières semaines nous permet de passer le point bas sans nous mouiller. Il fait de plus en plus doux et nous nous déplumons, bientôt tous en tenue estivale. Bertrand en profite pour se battre une nouvelle fois avec ses sacoches, ses affaires éparpillées autour de lui sur le chemin. À 11 h 15, nous nous arrêtons à Sérignan pour nous approvisionner dans une boulangerie testée et approuvée. Nous emportons nos victuailles pour les dévorer sous une pinède en surplomb de l’étang de Vendres.
@@ -58,7 +64,9 @@ Bientôt un nuage cache le soleil et la fraîcheur nous incite à reprendre la r
 Une montée sèche, heureusement sur asphalte, nous amène à Lespignan, puis un single nous conduit jusqu’à un massif boisé, traversé de pistes sous pinèdes. Le groupe est homogène, personne ne traîne derrière, après plus de 80 km. Clément nous montre sa fougue en nous plantant de belles accélérations, mais en nous attendant au sommet des difficultés.
 
 ![La pinède](_i/IMG_8609.webp)
+
 ![L’étang de Capestang](_i/IMG_8615.webp)
+
 ![Canal du Midi](_i/IMG_8621.webp)
 
 Après la traversée des étangs de Capestang, nous rejoignons à nouveau le Canal du Midi pour un secteur un peu monotone, mais non sans charme avec ses immenses arbres. Pour rompre l’indolente platitude, Clément, Julien, Artur et Bertrand piquent un sprint. Nous autres n’accélérons pas, mais bientôt rattrapons Clément qui a perdu les trois autres, mystérieusement volatilisés entre lui et nous. Peut-être sont-ils devant ? Nous avons des doutes. Peu avant Argeliers, un gars repeint la bicoque abritant un snack posé au bord du canal. Nous lui demandons s’il peut nous servir quelque chose et, contrevenant aux consignes sanitaires, il chauffe quelques cafés et déniche une vieille cannette de Perrier.
@@ -74,6 +82,7 @@ Je me dis que je dois modifier la trace pour éviter ce passage, mais a posterio
 Au-dessus de nous, des parapentistes s’amusent dans les thermiques. Le compteur de mon GPS indique 24°C. Il y a un air d’été. Nous plongeons sur Bize-Minervois par un chemin muletier. Il est déjà 16 h et plus de 40 km difficiles nous attendent avant la chapelle Notre-Dame du Cros où nous comptons camper. Donc pas le temps d’explorer les ruelles du village ou de farnienter au bord la Cesse.
 
 ![Vallée de la Cesse](_i/IMG_8629.webp)
+
 ![Sur les hauteurs de Bize](_i/IMG_8651.webp)
 
 Nous traversons une oliveraie, franchissons une passerelle de bois, puis un single nous amène vers une piste. Nous voyant déjà perchés au-dessus de lui, Bertrand fonce droit vers nous par un raidillon qui le met à terre. Il se blesse le coude, sans gravité. Cette chute désorganise une fois de plus ses sacoches. Jacques l’aide à les arrimer. Nous autres ne pouvons nous empêcher de marmonner qu’il faut toujours tester une configuration bikepacking dans les pires conditions de terrain avant de s’attaquer à un voyage. Patrick surnomme Bertrand d’un sobriquet destiner à durer : SacocheMan.
@@ -81,6 +90,7 @@ Nous traversons une oliveraie, franchissons une passerelle de bois, puis un sing
 Nous attaquons alors un long secteur avec des singles qui sinuent entre les buissons parfois griffant, d’autre fois sous les pins, avec quelques passages techniques. Que du plaisir pour les amoureux du pilotage, mais à coup sûr rébarbatif pour les purs graveleux, leur bécane n’étant pas assez joueuses pour ces passages. Félix me contredira, parce que lui s’éclate, mais c’est un pilote exceptionnel à ne pas prendre pour référence. Avec mon gravel, même avec des pneus de 45 mm comme les siens, je ne me risquerais pas dans la plupart des passages que nous avons dévorés. D’ailleurs, Clément est de plus en plus à la peine et commence à faire l’élastique. Le temps des brusques accélérations est terminé. Les kilomètres commencent à peser.
 
 ![Aigne](_i/IMG_8656.webp)
+
 ![Artur dans ses œuvres](_i/IMG_8668.webp)
 
 Nous atteignons Azillanet à 18 h passées. Nous commençons à stresser parce que nous n’avons en réserve pas grand-chose à manger pour le soir. Nous découvrons une magnifique Boulangerie bio, mais il y a du monde et plus que du pain. Nous fonçons pour atteindre Siran avant la fermeture de l’épicerie, mais Clément a du mal à nous suivre. Nous l’attendons pendant qu’Artur s’en va en éclaireur, mais toujours pas de Clément.
@@ -100,14 +110,19 @@ J’aurais aimé passer plus du temps à discuter, mais la nuit nous presse, pui
 Clair de lune quand nous nous levons à 5 h 45. Nous devons partir tôt pour atteindre le gîte réservé au sommet de l’Espinouse. Alors que Patrick est prêt au bout d’un quart d’heure, il dort dans un bivy, nous autres prenons presque une heure pour ranger nos tentes et remettre nos bécanes et nous-mêmes en ordre de pédalage. Bertrand a réussi à bourrer ses affaires dans un seul sac de guidon plutôt que dans deux, ce qui devrait lui simplifier la vie. Il nous avoue qu’il a eu un peu froid durant la nuit, tout comme Julien. Il fait pourtant un bon 8°C quand nous nous élançons.
 
 ![Notre-Dame du Cros](_i/IMG_8674.webp)
+
 ![Abbatiale](_i/IMG_8676.webp)
 
 La piste passe devant la chapelle, avec un porche où il aurait été possible de s’abriter en cas de pluie. Nous attaquons dans le dur, escaladons une butte, puis dévalons vers Caunes-Minervois au moment où l’horizon s’illumine. La journée s’annonce radieuse. Les ruelles de la ville cathare nous conduisent à l’abbatiale, derrière laquelle nous nous approvisionnons en eau, avant de dénicher une boulangerie ouverte de bon matin.
 
 ![La montagne Noire](_i/IMG_8677.webp)
+
 ![La montagne Noire](_i/IMG_8680.webp)
+
 ![La montagne Noire](_i/IMG_8706.webp)
+
 ![La montagne Noire](_i/IMG_8711.webp)
+
 ![La montagne Noire](_i/IMG_8714.webp)
 
 À la sortie de Caunes débute une longue montée qui nous révèle un panorama somptueux, avec des lignes de collines en plans successifs jusqu’aux Pyrénées. Nous grimpons au-dessus d’une vallée de plus en plus encaissée par une piste parfaite. Ça monte, ça monte. Bientôt nous basculons face nord. Quand nous apercevons à l’ouest le pic de Nore, avec à nos pieds le village en modèle réduit de Lespinassière, des nuages nous cueillent au détour d’un virage, puis une purée de pois de plus en plus humide nous enveloppe. Il finit par pleuvoir. La température chute à 6°C quand nous atteignons le col de Salettes à 886 m. Nous rejoignons un secteur asphalté que le fat bike digère mal puisqu’il casse un maillon. Patrick répare dans le calme pendant que nous tremblotons de froid. Les conditions ne s’améliorent que quand nous plongeons vers Labastide-Rouairoux où nous dévalisons la boulangerie. Je me régale d’un friand au citron, spécialité du Tarn, car depuis quelques kilomètres nous ne sommes plus dans l’Hérault, après avoir un long moment navigué dans l’Aude.
@@ -115,9 +130,13 @@ La piste passe devant la chapelle, avec un porche où il aurait été possible d
 « Merde ! » s’exclame Bertrand. Son sac de guidon s’est déchiré quand il y a rangé ses affaires après avoir une fois de plus déballé son barda. Jacques, toujours de bonne composition, lui vient une nouvelle fois à l’aide, tout en jurant que le matériel bas de gamme n’est vraiment pas conseillé en voyage. Il a bien raison.
 
 ![Labastide-Rouairoux](_i/IMG_8717.webp)
+
 ![Vers La Savetat](_i/IMG_8726.webp)
+
 ![Vers La Savetat](_i/IMG_8741.webp)
+
 ![Vers La Savetat](_i/IMG_8745.webp)
+
 ![Vers La Savetat](_i/IMG_8750.webp)
 
 Nous nous remettons en selle à 11 h 20. Il fait désormais 12°C et le ciel se dégage. Dès la sortie de la ville, nous grimpons entre les ajoncs en fleur pour vite dépasser à nouveau la barre des 800 m d’altitude et entrer dans le parc régional du Haut Languedoc. Nous traversons des bois, croisons des fermes, de vastes prairies, encore des bois. Le soleil refait son apparition. La trace ondule sans difficulté technique, tantôt par des pistes, tantôt de courtes sections asphaltées. Nous arrivons gentiment à La Savetat-sur-Agout, réputée pour sa source et sa fontaine Calberac où nous remplissons nos gourdes tout en nous reposant au soleil.
@@ -129,13 +148,17 @@ La célèbre pâtisserie Flipo étant fermée jusqu’à 15 h 30, nous nous r�
 Par une petite route, nous longeons l’Agout, puis bifurquons dans les bois pour grimper par une piste au milieu des sapins et des hêtres. Nous jardinons quelque peu dans un sentier mal entretenu, coupons à travers pente, reprenons notre progression jusqu’aux Roc de Saint-Martin à 1040 m. De grandes bourrasques agitent les arbres.
 
 ![Vers le lac de Vézole](_i/IMG_8778.webp)
+
 ![Vers le lac de Vézole](_i/IMG_8787.webp)
+
 ![Lac de Vézole](_i/IMG_8796.webp)
+
 ![Saut de Vézole](_i/IMG_8799.webp)
 
 Des pistes, puis une petite route nous conduisent au lac de Vézole, quasiment à sec. Le vent est renversant. Nous ne nous attardons guère pour profiter de la vue depuis le sommet du Saut de Vézole. Nous quittons le lac, passons sous les éoliennes vrombissantes et gagnons le chemin des crêtes qui nous révèle à nos pieds la totalité de l’Hérault. Au loin, nous devinons Sète et le mont Saint Clair. Je comprends alors que le tour devra à l’avenir se terminer là-bas pour dérouler une vue exactement inversée de celle que nous sommes en train de découvrir depuis les sommets de l’Espinouse.
 
 ![La piste des crêtes](_i/IMG_8810.webp)
+
 ![Descente vers Faigairolle](_i/IMG_8813.webp)
 
 La trace suit désormais le réseau vert et ne présente d’autres difficultés que des grimpettes à répétition. Nous ondulons autour des 1 000 m d’altitude avant de descendre vers le gîte de Faigairolle à 840 m. Il est 20 h, nôtre hôte arrive en même temps que nous, chargée d’un merveilleux plateau de charcuterie et d’un lapin ratatouille agrémenté de deux bouteilles de bon pinard d’après les connaisseurs, moi en restant à la Salvetat.
@@ -149,14 +172,19 @@ La journée a été physiquement éprouvante. Le froid, le vent, la pluie, parfo
 Nous traînons dans le gîte, après une bonne nuit. Grand beau dehors, mais seulement 1°C. Nous ne nous élançons qu’à 8 h 20, avec plus d’une heure de retard.
 
 ![Faigairolle](_i/IMG_8824.webp)
+
 ![Le Carroux](_i/IMG_8835.webp)
+
 ![L’Espinouse](_i/IMG_8840.webp)
+
 ![L’Espinouse](_i/IMG_8841.webp)
 
 La journée commence par un chemin entre deux champs, entre deux haies, une invitation à la rêverie. Peu avant le col du Coustel, à 883 m, nous entrons dans l’Aveyron pour une courte incursion. Au sud se dessinent les monts du Carroux. Nous devinons la Méditerranée qui, après tout, n’est qu’à une soixantaine de kilomètres. Nous arpentons des forêts moussues, tapissées des feuilles de l’automne. Après le col d’Ernest à 944 m, la descente sur Serviès est féerique, jusqu’à la dernière portion qui nous fait entrer dans le hameau par un boyau fleuri.
 
 ![Mélagues](_i/IMG_8857.webp)
+
 ![L’Espinouse](_i/IMG_8864.webp)
+
 ![Serviès](_i/IMG_8881.webp)
 
 Le long du Rieu Sec, un secteur asphalté en légère descente nous conduit jusqu’à la station thermale d’Avène, totalement déserte. Tout est fermé pour cause de crise sanitaire. Il est 11 h 15 et nous désespérons de trouver quelque chose à manger avant midi. Nous piquons dans nos réserves et remontons en selle.
@@ -172,11 +200,13 @@ Nous roulons avec le bleu au-dessous et au-dessus de nous. Une ambiance de Côte
 Bingo ! Une cahute toute neuve ouvre le jour même. Il nous faudra attendre près d’une heure avant de manger de malheureux hamburgers ou paninis avec des frites. Ce n’est donc pas le ventre lourd que nous attaquons la route qui nous mène au col de l’homme mort, puis à la piste qui nous fait rejoindre un champ d’éoliennes. Il ne fait pas moins de 29°C quand nous plongeons dans la forêt domaniale de Joncels et qu’Artur crève. Il colmate la petite déchirure avec une mèche, quelques coups de pompe et nous repartons.
 
 ![Forêt domaniale de Joncels](_i/IMG_8890.webp)
+
 ![Forêt domaniale de Joncels](_i/IMG_8899.webp)
 
 Après la voie de chemin de fer qui, je suppose, relie Béziers à Clermont-Ferrand, nous remontons vers le hameau de Roqueredonde où se trouve un gîte étape. Mais il n’est que 15 h 30 et nous devons traverser le Larzac si nous voulons en terminer en quatre jours.
 
 ![Roqueredonde](_i/IMG_8911.webp)
+
 ![Roqueredonde](_i/IMG_8912.webp)
 
 Quand nous attaquons le sentier, un gamin nous crie : « Oh ! Lala, vous avez du courage. » Il ne nous ment pas. Une pente punitive nous amène jusqu’à une prairie qui nous révèle une belle perspective sur les monts que nous arpentons depuis deux jours. Nous poursuivons le sentier jusqu’au temple bouddhiste, construit là pour capter de supposées forces telluriques d’une puissance extraordinaire. Je pense que la vue himalayenne a beaucoup plus compté pour cette implantation.
@@ -184,6 +214,7 @@ Quand nous attaquons le sentier, un gamin nous crie : « Oh ! Lala, vous avez
 Après la forêt d’Escandorgue, nous rejoignons un secteur asphalté, puis une piste nous dépose au pied de la boulangerie du Caylar. Nous nous y gavons, achetons de quoi tenir jusqu’au lendemain matin.
 
 ![Saint-Félix-de-l’Héras](_i/IMG_8924.webp)
+
 ![Le Caylar](_i/IMG_8930.webp)
 
 Il est temps de nous attaquer au Larzac. Il est déjà 17 h 30 et je sais déjà que nous devrons rouler de nuit pour atteindre notre objectif du jour, d’autant que nous avons tous les jambes lourdes. Mais Patrick n’en démord pas, il continue ses vues de drone. Je tente de montrer autant de courage que lui en prenant quelques photos.
@@ -191,6 +222,7 @@ Il est temps de nous attaquer au Larzac. Il est déjà 17 h 30 et je sais déj
 Le Larzac est pour moi un enchantement. Des paysages âpres, de jaune et de gris, de rocailles et d’arbustes, avec en arrière-plan le massif de l’Aigoual. Un désert débordant de vie qui me procure un sentiment d’existence toujours puissant, même quand je ne peux pas m’abandonner à la contemplation.
 
 ![Le Cros](_i/IMG_8935.webp)
+
 ![Vissec](_i/IMG_8942.webp)
 
 Après avoir longé les gorges de la Sorbs, aperçu au loin le canyon de la Vis, nous atteignons Saint-Maurice-de-Navacelles. Il nous reste tout au plus une heure de jour. Nous n’avons aucune chance d’atteindre la vallée de la Buèges, mais sans doute une ancienne bergerie occupée par les résistants durant la Seconde Guerre mondiale.
@@ -212,6 +244,7 @@ Moins 2°C au compteur de nos GPS. Julien n’a presque pas dormi à cause du fr
 Nous nous mettons en route à 7 h et presque tout de suite attaquons la descente vers la vallée de la Buèges. Il n’était pas question de s’y engager de nuit. Le sentier commence sous le couvert des arbustes, nous imposant souvent de pousser nos vélos dans les passages trop techniques, puis la perspective se dégage en même temps que la draille de cailloux concassés devient roulable, sans que ce se soit de tout repos. Nous ne pédalons pas, mais nous transpirons, la moindre erreur de pilotage pouvant nous envoyer dans les rochers, sinon dans le vide, jamais loin.
 
 ![Hortus et pic Saint-Loup](_i/IMG_8955.webp)
+
 ![La descente](_i/IMG_8975.webp)
 
 Le soleil se lève au-dessus du pic Saint-Loup. Nous nous disons notre plaisir comme pour nous assurer que nous ne rêvons pas. Finalement, notre retard de la veille se transforme en merveilleux cadeau. Je n’aime pas trop planifier les étapes en bikepacking pour laisser ainsi le hasard m’offrir des surprises.
@@ -225,7 +258,9 @@ Les villages dans la vallée bucolique se matérialisent un à un, notamment Pé
 Un sentier, puis une piste nous transportent aux portes de Saint-Jean-de-Buèges. Le village est juste parfait sous son rocher. Les anciens avaient du génie et sentaient le génie du lieu. La vallée célèbre leur grand œuvre et nous nous y glissons avec volupté, entrant dans leur fresque géante.
 
 ![La Buèges](_i/IMG_9022.webp)
+
 ![Single de la Buèges](_i/IMG_9028.webp)
+
 ![Single de la Buèges](_i/IMG_9031.webp)
 
 La Buèges chante pour nous et le soleil excite les mousses. Nous chuchotons pour ne pas la troubler et continuons par chemins et petites routes en direction de Brissac le Haut, d’où nous plongeons vers le village bas, son parc verdoyant et sa boulangerie, malheureusement abonnée à la congélation industrielle.
@@ -235,6 +270,7 @@ Au bout d’un long moment à lézarder au soleil, ne voyant toujours pas Bertra
 Nos arrêts sont de plus en plus longs, nos jambes de plus en plus douloureuses quand nous repartons, d’autant plus qu’à la sortie de Saint-Bauzille-de-Putois nous attend une ascension sévère et difficile. Nous nous y appliquons avec abnégation sous une chaleur estivale. Il n’est que 10 h 30 et mon compteur indique 22°C. Je vide pratiquement mes deux gourdes et commence à me rationner quand nous découvrons un point d’eau inattendu au Mas de Baumes. Nous en sommes à nous asperger la tête comme au plus fort de l’été. La température a grimpé d’un cran.
 
 ![Vallée de Claret](_i/IMG_9038.webp)
+
 ![Vallée de Claret](_i/IMG_9041.webp)
 
 La trace n’offre plus de surprise pour moi. J’en ai reconnu les recoins et en même temps je suis soulagé que notre aventure se soit déroulée au mieux. Je pédale avec moins d’entrain, la fatigue se fait sentir, mais je goûte le charme du sentier au-dessus du gouffre de Claret, ainsi que la lente descente vers le sud à travers les garrigues et les vignes.
@@ -242,6 +278,7 @@ La trace n’offre plus de surprise pour moi. J’en ai reconnu les recoins et e
 Après les montagnes, nous nous réhabituons à des paysages plus discrets, plus civilisés, avec jamais loin des maisons et des villages. Il fait de plus en plus chaud, bientôt 29°C.
 
 ![Vacquiéres](_i/IMG_9042.webp)
+
 ![Boisseron](_i/IMG_9046.webp)
 
 Je me contente de pédaler. Je n’ai plus la force de prendre des photos, puis de batailler pour rejoindre mes compagnons. Peu après les ruines du pont romain d’Ambrussum et avant d’entrer dans Lunel, nous disons au revoir à Patrick qui rentre chez lui, puis nous filons vers le littoral alors que se lève un mistral détestable.
@@ -249,6 +286,7 @@ Je me contente de pédaler. Je n’ai plus la force de prendre des photos, puis 
 Il me coupe les jambes. Je me cale dans les roues et ne pipe pas mot. Nous rejoignons la Grande Motte sans nous y arrêter, puis filons vent plein pif le long du canal du Rhône à Sète. Encore plus de 40 km. Je n’avais touché à aucun de mes sachets d’Holyfat et les ingurgite un à un, ainsi que deux gels. Ce traitement de choc me redonne du baume au cœur d’autant que le ciel s’enflamme et nous offre un coucher de soleil comme seuls les soirs de mistral savent les concocter. Les rouges et les mauves explosent autour de nous, répercutés sur le canal et les étangs qui nous encerclent.
 
 ![Palavas](_i/IMG_9068.webp)
+
 ![Palavas](_i/IMG_9075.webp)
 
 Artur bifurque vers Montpellier à la hauteur de Palavas et Félix, Jacques, Julien, Bertrand et moi trimons vers notre destination. Après un bout de droit de 28 km, à l’approche des Aresquiers, nous n’avons plus d’autre choix que d’allumer phares et frontales. Je passe devant et envoie du bois dans le single de la saline, ayant retrouvé toute mon énergie en même temps que la trace redevient joueuse. Pas de toute, je suis un vététiste dans l’âme. Rien que l’idée de bouts de droit me déprime. En Floride, j’en ai mangé jusqu’à l’écœurement.
@@ -287,4 +325,4 @@ Comme lors de tous mes voyages VTT et montagneux, j’aboutis à une vitesse eff
 
 *PS : [Traces et infos sur la page officielle du tour…](../../page/gth)*
 
-#727 #bikepacking #velo #y2021 #2021-4-8-13h17
+#727bikepacking #bikepacking #velo #y2021 #2021-4-8-13h17

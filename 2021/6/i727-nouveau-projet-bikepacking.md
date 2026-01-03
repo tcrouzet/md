@@ -18,4 +18,4 @@ Quand la trace sera aboutie, dans quelques mois, il sera possible d’enchaîner
 
 ![Encore trop de route](_i/stati727.png)
 
-#727 #bikepacking #velo #y2021 #2021-6-10-19h55
+#727bikepacking #bikepacking #velo #y2021 #2021-6-10-19h55

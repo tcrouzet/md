@@ -19,8 +19,11 @@ La ville est une pure merveille, avec ses cafés, ses restaurants, ses placettes
 En même temps que la température s’élève, de beaux villages ponctuent notre pérégrination, d’autres étant toujours visibles de part et d’autre de notre sinusoïde. Après avoir franchi la Thongue, un affluent de l’Hérault, nous fouinons dans les ruelles d’Abeilhan, découvrons une placette avec un café agréable, mais il est tôt pour nous arrêter de nouveau.
 
 ![Abeilhan](_i/IMG_9982.webp)
+
 ![Abeilhan](_i/IMG_9992.webp)
+
 ![Coulobres](_i/IMG_9997.webp)
+
 ![Puissalicon](_i/IMG_0008.webp)
 
 Après Coulobres, nous traversons les coteaux du Haut-Libron, apercevons au nord Puissalicon, avec au sommet du pech un impressionnant château du XIIe siècle. Nous résistons à la tentation d’explorer le village, traversons le Libron par un gué, avant de nous diriger vers Puimisson pour boire un verre sur une terrasse ombragée par des acacias.
@@ -32,7 +35,9 @@ Souvent, en bikepacking, on nous fait bon accueil, comme si notre voyage créait
 Nous avons quitté la trace, attirés par une belle piste qui nous conduit à Murviel-lès-Béziers. Lundi oblige, la boulangerie étant fermée, nous contentons d’acheter quelques cacahouètes dans une épicerie, puis, après un détour par la circulade, nous empruntons le sentier des Pigeonniers qui nous fait plonger vers l’Orb, non sans fausses routes et demi-tours.
 
 ![Murviel-lès-Béziers](_i/IMG_0022.webp)
+
 ![Pigeonniers](_i/IMG_0030.webp)
+
 ![L’Orb](_i/IMG_0037.webp)
 
 Le fleuve cascade entre des blocs lissés et des bancs de sable en une invitation à la baignade. Nous hésitons à nous arrêter en terrasse d’une guinguette pour grignoter, mais décidons de pousser plus loin. Nous roulons sous les arbres, avant d’attaquer un single exigeant en même temps qu’il fait de plus en plus chaud : 34°C au compteur. Nous laissons pas mal de forces dans ce secteur et nos ventres commencent à réclamer pitance. Des papillons nous accompagnent, notamment des jaunes vifs avec franges vertes et parfois des tâches orange, sans doute des [citrons de Provence](https://fr.wikipedia.org/wiki/Citron_de_Provence). Sensation féérique et joyeuse, l’été chantonne autour de nous.
@@ -40,10 +45,15 @@ Le fleuve cascade entre des blocs lissés et des bancs de sable en une invitatio
 Depuis l’Orb se succèdent des mamelons plantés de pins entre lesquels poussent des vignes en terrasse. Paysages plus âpres, plus majestueux, plus douloureux pour nos jambes. Nous passons au-dessus puis au-dessous des falaises de Las Costos, puis nous faufilons dans des vallons manucurés, avant de devoir pousser dans quelques singles caillouteux à plus de 12 %. La chaleur devient suffocante. Nous nous arrosons à une fontaine et continuons de ferrailler dans le dur jusqu’à Saint-Chinian où nous arrivons à 14 h, juste à temps pour dévorer deux énormes calzones.
 
 ![Saint-Chinian](_i/IMG_0043.webp)
+
 ![Saint-Chinian](_i/IMG_0053.webp)
+
 ![Saint-Chinian](_i/IMG_0060.webp)
+
 ![Saint-Chinian](_i/IMG_0067.webp)
+
 ![Saint-Chinian](_i/IMG_0077.webp)
+
 ![Saint-Chinian](_i/IMG_0080.webp)
 
 J’avais laissé mon vélo au soleil. Quand nous repartons, le compteur annonce 50°C. Nous quittons la ville en longeant le Venazobre. Le franchissons près d’une cascade où des jeunes se baignent. Un peu plus loin, nous le franchissons à nouveau par une passerelle avec en contrebas une petite plage. Il fait 38°C. Nous décidons de digérer à l’ombre. Philippe se baigne, j’essaie de dormir les pieds dans l’eau, pendant que la brise agite les feuillages au-dessus de moi.
@@ -57,8 +67,11 @@ Une fois le soleil revenu, nous entrons dans le parc régional du Haut-Languedoc
 Nous nous croyons tirés d’affaire quand nous atteignons Saint-Jean de Minervois. Je modifierais sans doute la trace, parce que le bikepacking doit alterner difficulté et plaisir, et le parcours se transforme peu à peu en raid. Surtout quand le sentier nous amène au bord d’une falaise, au-dessus d’une gorge. Possible peut-être de passer à pied, mais pas à vélo. Nous faisons demi-tour sous les coups de tonnerre. Il commence à pleuvoir, nous enfilons nos impers, j’interprète mal la carte et nous nous retrouvons dans une vigne où nous nous abritons tant bien que mal sous une avancée rocheuse.
 
 ![Église du trou](_i/IMG_0091.webp)
+
 ![Église du trou](_i/IMG_0095.webp)
+
 ![Église du trou](_i/IMG_0102.webp)
+
 ![Église du trou](_i/IMG_0110.webp)
 
 Philippe se dit qu’il a la totale pour son initiation. Entre la canicule, les poussages et l’orage. Mais déjà un bel arc-en-ciel nous annonce que nous pouvons partir. Dix mètres après notre abri de fortune, nous découvrons une cabane où nous aurions été au sec. Je constate que par miracle, nous sommes à quelques encablures de la trace. Nous réussissons à la rejoindre. Elle longe la gorge, à quelques centimètres du précipice. Un single griffu nous amène au bas du canyon. Il est déjà près de 19 h et nous devons désormais trouver à manger avant la nuit.
@@ -66,7 +79,9 @@ Philippe se dit qu’il a la totale pour son initiation. Entre la canicule, les 
 Plutôt que de suivre la trace, nous coupons droit vers La Caunette, puis Minerve, village pittoresque perché sur une île dans les gorges de la Cesse. Tout est fermé, pas de quoi nous ravitailler. Nous finissons dans le seul restaurant ouvert, un gastronomique, le Relais de Chantovent où nous sommes magnifiquement accueillis pendant que nos vélos se reposent dans le garage de l’établissement. Nous nous faisons même préparer des sandwiches pour le lendemain matin. Vers 21 h, nous quittons Minerve pour grimper sur le causse. Nous tardons avant de trouver une surface dépourvue de cailloux où camper, sans réussir à nous abriter du vent du nord qui souffle en rafales. La nuit s’annonce agitée. Je m’endors alors qu’il se met à pleuvoir.
 
 ![La Caunette](_i/IMG_0126.webp)
+
 ![Minerve](_i/IMG_0140-1.webp)
+
 ![Le camp… made by Zpacks](_i/IMG_0187.webp)
 
 ### Mardi 22 juin
@@ -74,23 +89,33 @@ Plutôt que de suivre la trace, nous coupons droit vers La Caunette, puis Miner
 Sous les bourrasques, la toile de ma tente me gifle le visage. Une sardine a dû céder. Je me contente de me retourner et de me rendormir. Le ciel est limpide, la lune éblouissante. Le vent ne calme qu’au levé du jour. Quand je veux manger un de mes sandwiches, rangé dans mon sac de cadre, je découvre qu’il grouille de fourmis. Je les éjecte une à une avant de l’engloutir. Voilà une raison de plus en faveur du sac de cadre totalement étanche. Philippe connaît la même mésaventure avec son sac de guidon Apidura, sans doute mal fermé aux extrémités.
 
 ![Levé du jour](_i/IMG_0195.webp)
+
 ![Causse de Minerve](_i/IMG_0199.webp)
+
 ![Causse de Minerve](_i/IMG_0206.webp)
+
 ![Causse de Minerve](_i/IMG_0212.webp)
 
 Quand nous nous remettons en route peu avant 7 h 30, il ne fait que 15°C. Nous suivons [le tracé sud de la GTH, grande traversée de l’Hérault](https://sitesvtt.ffc.fr/grandes-traversees/la-grande-traversee-de-lherault/). Une piste caillouteuse, guère agréable, nous amène dans ses secteurs encore plus cassants. Un sous-bois ou une rare vue dégagée ne réussissent pas à nous réjouir. Il nous faut deux heures pour parcourir 11 km et atteindre les hauteurs de Vélieux. Nous passons le plus clair de notre temps à pousser. La situation ne s’améliore que bien plus loin, après le col de Lalo. Je vais devoir explorer le coin pour trouver une trace plus agréable. En prime, pas de fontaine, pas de commerce, pas même de village. Nous arpentons durant des heures un désert de caillasses qui nous coupent en deux, avec parfois il est vraie de belles perspectives de pure nature.
 
 ![Après Lacan](_i/IMG_0217.webp)
+
 ![Après Lacan](_i/IMG_0225.webp)
+
 ![Après Lacan](_i/IMG_0229.webp)
+
 ![Après Lacan](_i/IMG_0232.webp)
 
 Une fois dans les forêts de conifères, la trace redevient sublime. Nous nous shootons aux vapeurs de résine, passant devant des monticules d’arbres fraîchement abattus. Il était temps. Je prends conscience que je m’étale dans mon récit quand j’ai éprouvé des émotions positives, comme si elles laissaient en moi plus de souvenirs. Les moments difficiles étant vite effacés, parce que d’une certaine façon ils font partie du vélo. Mais il existe des difficultés positives, qui conduisent à un point de vue, une source, un village, elles valent la peine, alors que d’autres ne paraissent avoir aucun autre sens que l’effort pour l’effort, philosophie que je goûte peu.
 
 ![Serre de la Tourelle](_i/IMG_0235.webp)
+
 ![Haut Languedoc](_i/IMG_0238.webp)
+
 ![Haut Languedoc](_i/IMG_0247.webp)
+
 ![Saint-Ètienne-d’Albagan](_i/IMG_0254.webp)
+
 ![Olargues](_i/IMG_0258.webp)
 
 Au sommet de la serre de la Tourelle, à 700 m d’altitude, après seulement 36 km parcourus en cinq heures, nous décidons de quitter la GTH et de piquer vers la vallée, sinon nous n’avons aucune chance de trouver de quoi manger et boire avant longtemps. Le Haut Languedoc se révèle dans toute sa splendeur bleutée, qui me fait penser au sud des Appalaches, les Smokies Mountains. Plusieurs essences de sapins alternent leurs verts plus ou moins intenses créant des frisures à la surface des monts.
@@ -102,10 +127,15 @@ Nous poursuivons la PassaPaïs jusqu’à Bédarieux, ancienne ville industriell
 Nous mangeons à la guinguette au bord de l’eau, profitant d’un concert pour la fête de la musique, puis attaquons le magnifique single qui fait le tour du lac, une succession de montagnes russes à passer en vélocité. Nous nous éloignons des derniers promeneurs pour finir par monter notre camp sur une plagette au bord de l’eau. Des oiseaux s’époumonent. Par chance, ces diurnes se taisent à la tombée de la nuit, qui s’annonce moins mouvementée que la précédente, même si de temps à autre une rafale souffle sur le lac, bientôt irisé par la pleine lune.
 
 ![Vers le Salagou](_i/IMG_0271.webp)
+
 ![Vers le Salagou](_i/IMG_0279.webp)
+
 ![Vers le Salagou](_i/IMG_0305.webp)
+
 ![Vers le Salagou](_i/IMG_0309.webp)
+
 ![Salagou](_i/IMG_0315.webp)
+
 ![Plagette](_i/IMG_0320.webp)
 
 ### Mercredi 23 juin
@@ -113,8 +143,11 @@ Nous mangeons à la guinguette au bord de l’eau, profitant d’un concert pour
 Le dernier jour d’un périple, même aussi bref que le nôtre, a toujours un goût différent, comme si les contraintes du quotidien déjà se réimposaient. Nous nous contentons de figues sèches pour notre petit déjeuner et repartons en appuyant plus fort sur les pédales, toujours sur le single du bord du lac. Philippe dit qu’il y a un air de Croatie et comme la justification de commencer par voyager autour de chez soi, avant de chercher l’exotisme plus loin.
 
 ![Salagou](_i/IMG_0353.webp)
+
 ![Salagou](_i/IMG_0364.webp)
+
 ![Salagou](_i/IMG_0354.webp)
+
 ![Mont Saint-Baudille](_i/IMG_0370.webp)
 
 Une fois au-dessus du barrage, au moment de tourner le dos au lac, nous apercevons au nord-est le mont Saint-Baudille, extrémité sud-ouest du massif de la Séranne, dernier escarpement du causse du Larzac. Non sans angoisse, Philippe se demande comment nous allons grimper là haut à VTT. Je ne peux le rassurer. J’ai oublié si j’ai tracé l’itinéraire sur carte ou l’ai téléchargé.
@@ -122,8 +155,11 @@ Une fois au-dessus du barrage, au moment de tourner le dos au lac, nous apercevo
 Une fois au pied du mont, une belle DFCI nous promène sous les sapins et les papillons blancs, qui nous entourent en nuées neigeuses, dans des pourcentages frôlant souvent les 15 %. J’ai l’impression de pédaler dans un rêve jusqu’à ce que Philippe identifie les papillons comme [des pyrales du buis](https://fr.wikipedia.org/wiki/Pyrale_du_buis), un parasite importé en Europe au début des années 2000.
 
 ![Vers le mont Saint-Baudille](_i/IMG_0394.webp)
+
 ![Vers le mont Saint-Baudille](_i/IMG_0399.webp)
+
 ![Vers le mont Saint-Baudille](_i/IMG_0407.webp)
+
 ![Col du Vent](_i/IMG_0416.webp)
 
 Tantôt se déroule sous nos yeux le piémont du Larzac, vallée verdoyante, tantôt les garrigues qui meurent à l’approche de la mer. Nous grimpons sans relâche, ne rejoignant la route qu’à 2 km du col du Vent. Elle nous conduit au sommet, à 848 m, qui sera le point culminant du i727. La suite aurait pu être qu’une partie de plaisir, mais j’ai voulu prendre un raccourci pour nous ramener chez nous. Il nous a occis. Un single caillouteux à souhait, bloquant sans cesse nos roues avant, exigeant de longs portages. Une descente plus dure que la montée.
@@ -133,8 +169,11 @@ Nous finissons par rejoindre la civilisation. Nous déjeunons à Montpeyroux, av
 Après cette dernière ascension, nous n’avons plus qu’à glisser jusqu’à chez nous, pas mal entamés par ces trois journées d’exploration. Sans doute à partir d’août, je retournerai sur le terrain pour corriger les secteurs à problème. J’espère tenir une première version du i727 à l’automne.
 
 ![Pic Saint Lou](_i/IMG_0419.webp)
+
 ![Derrière Saint-Guilhem-le-Désert](_i/IMG_0459.webp)
+
 ![Derrière Saint-Guilhem-le-Désert](_i/IMG_0461.webp)
+
 ![Mont Saint-Baudille](_i/IMG_0463.webp)
 
-#727 #bikepacking #velo #y2021 #2021-6-24-18h30
+#727bikepacking #velo #y2021 #2021-6-24-18h30

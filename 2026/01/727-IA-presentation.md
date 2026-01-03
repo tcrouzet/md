@@ -11,7 +11,7 @@ Paradoxe : les outils d’IA, souvent privatifs, aux effets écologiques indén
 
 ### Infographies
 
-En plus de générer des diaporamas en [français](https://drive.google.com/file/d/1nRLHqu7e38h60d7Vqt3c6rWD4auqwB-j/view?usp=sharing) et en [anglais](https://drive.google.com/file/d/1SY8bwz2XUvveYmMHKdaE6Z6K8Gv5BNhX/view?usp=sharing), Notebook a créé deux infographies de synthèse. C’est encore imparfait, mais déjà très très pro.
+En plus de générer des diaporamas en [français](https://drive.google.com/file/d/1nRLHqu7e38h60d7Vqt3c6rWD4auqwB-j/view?usp=sharing) et en [anglais](https://drive.google.com/file/d/1SY8bwz2XUvveYmMHKdaE6Z6K8Gv5BNhX/view?usp=sharing), Notebook a créé deux infographies de synthèse. C’est encore imparfait, mais déjà pro.
 
 ![Infographie FR](_i/les72701.webp)
 
@@ -19,7 +19,7 @@ En plus de générer des diaporamas en [français](https://drive.google.com/file
 
 ### Vidéos
 
-La vidéo en anglais me paraît bien meilleure que celle en français.
+La vidéo en anglais me paraît meilleure que celle en français.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KmJb7oeRY7w?si=PB_jhvug3uT_hTZF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

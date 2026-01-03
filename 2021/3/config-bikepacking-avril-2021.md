@@ -82,4 +82,4 @@ Mon poids de base bikepacking reste sous les 6 kg, c’est mon objectif. Le poi
 
 Le sac de cadre est le plus lourdement chargé, surtout quand j’ajoute jusqu’à 2 litres d’eau. Ma direction atteindra le poids maximal pour moi acceptable, au-delà je trouve le vélo moins joueur dans les singles.
 
-#727 #velo #y2021 #2021-3-26-20h33
+#727bikepacking #velo #y2021 #2021-3-26-20h33

@@ -92,6 +92,4 @@ Tout cela reste bien compliqué. Les services de partage de traces, comme Komoot
 
 J’avoue que je préfère me casser la tête avant le départ pour minimiser les emmerdes par la suite. Le minimalisme exige un long travail préparatoire, c’est le paradoxe.
 
-
-
-#727 #velo #y2021 #2021-3-24-11h2
+#727bikepacking #velo #y2021 #2021-3-24-11h2

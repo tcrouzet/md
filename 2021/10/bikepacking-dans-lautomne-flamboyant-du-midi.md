@@ -11,6 +11,7 @@ J’ai d’autant plus profité de chaque seconde de ce tour de l’Hérault que
 Depuis des mois, je peaufine [la trace du i727](https://tcrouzet.com/i727), avec ses tours et détours pour réjouir mes copains, et me dis que je vais devoir les laisser filer seuls sous le soleil d’octobre, le plus enchanteur de l’année. J’applique de la glace, des compresses de Flector, bouge le moins possible, mais tout de même assez pour me rendre compte que tant que mon genou reste dans l’axe je ne souffre pas trop. La sagesse serait de me reposer. Un ami médecin me le fait bien comprendre. Je passe outre son conseil et décide de tenter l’aventure.
 
 [![La trace](_i/i727map.webp)](https://www.google.com/maps/d/u/0/edit?mid=1Dk-i5pYhXVBFVbQ8M-ni9l1JbOzt6731&usp=sharing)
+
 [Plus d’info sur la trace (GPX, description…).](https://tcrouzet.com/i727)
 
 ### Jeudi 7 octobre
@@ -22,10 +23,15 @@ En plus des doutes sur mon genou, je ne suis pas sûr que nous puissions effectu
 Nous partons sagement par les berges nord de l’étang de Thau. Un petit single entre vignes et cactus nous conduit à Bouzigues où nous obliquons vers les garrigues. Des chemins nous portent vers l’immense secteur VTT de Bessiles, le plus beau selon moi du département. Nous le traversons direction ouest, bientôt entrant dans les terres rouges aux allures de Far West, avec à l’horizon les Pyrénées bleues dans un air d’une transparence éblouissante. Les singles ondulent à flanc de falaises, joueurs et sans répit pour les jambes. Ils donnent le ton de la trace et mettent à l’épreuve les compétences en pilotages, surtout dans quelques descentes où il ne faut pas hésiter avant de lâcher les vélos.
 
 ![Sète depuis Bouzigues](_i/IMG_2461.webp)
+
 ![Castelneau-de-Guers](_i/IMG_2464.webp)
+
 ![Les Pyrénées](_i/IMG_2474.webp)
+
 ![Castelneau-de-Guers](_i/IMG_2484.webp)
+
 ![Castelneau-de-Guers](_i/IMG_2489.webp)
+
 ![Castelneau-de-Guers](_i/IMG_2502.webp)
 
 Une fois à Castelnau-de-Guers, nous retrouvons des chemins moins exigeants de la plaine héraultaise, puis faisons halte à [Pézenas](https://fr.wikipedia.org/wiki/P%C3%A9zenas), non sans quelques détours dans les ruelles de l’ancienne capitale du Languedoc. Il nous aura fallu pas moins de 3 h 30 pour parcourir 40 km. Par la suite, il nous sera difficile d’aller plus vite, d’autant que nous nous arrêtons souvent pour photographier ou filmer. Nous ne sommes pas en mode course, mais jouissance. Je n’en connais pas d’autres quand je pédale. Il y a assez de courses ailleurs dans ma vie, et dans la société en général, pour que j’en ajoute d’inutiles, mon ambition étant de couper avec tout ce qui fait l’ordinaire et donc entrer dans l’extraordinaire l’espace de quelques jours.
@@ -35,7 +41,9 @@ Nous quittons Pézenas pour sauter de village en vignoble. Quelques cépages com
 À la hauteur de Tourbes, nous jouons dans une œuvre d’art posée dans un champ, un tunnel de croisillons en acier galvanisé, [imaginé par l’artiste Xavier Vailhan en 2018](https://www.youtube.com/watch?v=cVq5gPl-kgM). Rencontre improbable dans les vignes, à sa place comme le serait un vaisseau extraterrestre déserté par ses occupants, squelette d’un saurien antédiluvien dont le temps n’aurait pas altéré l’ossature, et dont la construction en une époque de dérèglement climatique paraît délirante, absurde, non-sens. Dire que de riches propriétaires terriens se vantent de ce type de mécénat, d’autres ailleurs allant jusqu’à emballer des monuments, comme si déjà nous ne jetions pas à tous les vents suffisamment d’emballages.
 
 ![Les Rayons de Sarus](_i/IMG_2508.webp)
+
 ![Puissalicon](_i/IMG_2514.webp)
+
 ![Murviel-lès-Béziers](_i/IMG_2517.webp)
 
 À 14 h, nous nous ravitaillons à Murviel-lès-Béziers, puis franchissons l’Orb et attaquons un secteur plus difficile pendant que Jacques et Rodolphe empruntent une piste cyclable suivant le tracé d’une ancienne voie ferrée. Nous escaladons une butte depuis laquelle se révèle la chaîne du parc du Haut-Languedoc, avec à l’arrière-plan nord le Carroux et l’Espinouse, toujours vers le sud-ouest les Pyrénées.
@@ -43,7 +51,9 @@ Nous quittons Pézenas pour sauter de village en vignoble. Quelques cépages com
 Il fait un agréable 26°, un léger vent du nord délave le ciel, mon genou se rappelle à moi, tel un signal d’alarme qui clignote sur mon tableau de bord mental, m’empêchant de m’oublier dans les paysages, mais peut-être me les rendant plus précieux, surtout quand nous descendons vers Saint-Chinian, entre les vignes manucurées, les empilements de pierres accumulés au fil des générations, les pins et les cyprès solitaires. Le long serpent du chemin cimenté dessine une perspective bucolique. J’ai la sensation d’entrer dans un monde magique : la moindre parcelle cultivée comme enchantée par un sortilège, tournée vers le soleil pour s’en gorger.
 
 ![Cébazan](_i/IMG_2523.webp)
+
 ![Saint-Chinian](_i/IMG_2525.webp)
+
 ![Saint-Chinian](_i/IMG_2526.webp)
 
 Nous dévalons dans le village par un single, retrouvons Jacques et Rodolphe en terrasse de café, sous les platanes. Donner du temps au temps est notre philosophie. Nous ne manquons aucune occasion de nous faire du bien. Il est 17 h. Il ne nous reste que trois heures de jours. Nous pensons pouvoir atteindre La Caunette avant la nuit, où nous nous payons le luxe de réserver un restaurant.
@@ -53,10 +63,15 @@ Nous quittons Saint-Chinian en longeant Le Venazobre que nous franchissons dans
 Un peu secoué, j’en oublie de photographier la descente en tunnel végétal vers l’église du trou, la bien nommée, avec son petit cimetière secret. Un coin où il doit faire bon méditer jusqu’à l’éternité. La remontée se fait à pied, sauf pour Artur. Le soleil oblique embrase les collines et les vignes. Nous étirons la journée jusqu’à son point ultime en même temps que les ombres s’allongent. Nous arrivons à La Caunette à 20 h. Superbe accueil à La Cave. Superbe repas. Nous nous en allons bivouaquer dans un champ à la sortie du village.
 
 ![Saint-Chinian](_i/IMG_2531.webp)
+
 ![Saint-Chinian](_i/IMG_2532.webp)
+
 ![Saint-Chinian](_i/IMG_2537.webp)
+
 ![Saint-Chinian](_i/IMG_2541.webp)
+
 ![Assignan](_i/IMG_2547.webp)
+
 ![Agel](_i/IMG_2557.webp)
 
 ### Vendredi 8 octobre
@@ -68,25 +83,37 @@ L’humidité nous a recouverts durant la nuit. Il fait 8°. Il nous faudra prof
 Nous commençons en beauté par enjamber les gorges du Coupiat par une passerelle au-dessus de profondes marmites découpées dans le calcaire. Le sentier grimpe vers une ferme, puis nous propulse en surplomb des gorges du Brian, avec en face le village de Minerve, île rocheuse jadis forteresse cathare, où nous ne passons pas, parce qu’il n’y a pas de commerce, sinon quelques restaurants. Mais nous n’en manquons rien en même temps que le soleil l’illumine.
 
 ![La Caunette](_i/IMG_2566.webp)
+
 ![Marmites](_i/IMG_2571.webp)
+
 ![Minerve](_i/IMG_2576.webp)
+
 ![Minerve](_i/IMG_2586.webp)
 
 Nous longeons les gorges par une piste gravel, puis rejoignons la trace de la [GTH sud](https://sitesvtt.ffc.fr/grandes-traversees/la-grande-traversee-de-lherault/) et entrons dans le parc régional Haut-Languedoc. La pente est sans concession, avec de forts pourcentages, souvent rendus compliqués par les gravillons. Nous nous élevons peu à peu dans la serre Grande, avant-monts de la montagne Noire, apercevons de temps à autre la mer à l’horizon. Nous distançons Jacques et Rhodope, espérant les retrouver plus tard dans la journée. Après le col de Lalo à 635 m, nous ondulons jusqu’au col des Deux Aires, bientôt au cœur d’une forêt de conifères et de châtaigniers, le sol tapissé de bogues. Un chemin entre deux dévers boisés nous conduit vers le hameau de Rodomouls.
 
 ![Avant-Monts](_i/IMG_2594.webp)
+
 ![Pardailhan](_i/IMG_2595.webp)
+
 ![Pardailhan](_i/IMG_2597.webp)
+
 ![Pardailhan](_i/IMG_2606.webp)
 
 Nous croisons la D612, puis attaquons l’escalade de la serre de Tourelle, qui culmine à 712 m. Tantôt au sud se révèlent la Méditerranée et les Pyrénées, au nord la montagne Noire, avec la ligne de crête où passe le 727. Une longue descente roulante et rapide nous ramène dans la vallée du Jaur, à la hauteur de Saint-Étienne-d’Albagnan. Là, nous nous branchons sur la piste cyclable [PassaPaïs](https://www.francevelotourisme.com/itineraire/passapais) et enfin pouvons pédaler tranquillement, avec toutefois la petite urgence d’arriver avant 13 h à Olargues, connu pour être un des plus beaux villages de France et qui a chacun de mes passages m’enthousiasme.
 
 ![Pardailhan](_i/IMG_2620.webp)
+
 ![Descente vers La Jaur](_i/IMG_2631.webp)
+
 ![Saint-Étienne-d’Albagnan](_i/IMG_2634.webp)
+
 ![Saint-Étienne-d’Albagnan](_i/IMG_2637.webp)
+
 ![Saint-Étienne-d’Albagnan](_i/IMG_2638.webp)
+
 ![Olargues](_i/IMG_2648.webp)
+
 ![Olargues](_i/IMG_2655.webp)
 
 L’épicerie étant déjà fermée, nous nous posons pour déjeuner en terrasse d’un restaurant près de l’ancienne gare, en compagnie de beaucoup d’autres cyclistes qui suivent la PassaPaïs. Jacques et Rodolphe ne sont qu’à la hauteur de Rodomouls, arrêtés au routier situé sur la D612. Ils couperont par la PassaPaïs et tenteront de nous retrouver en fin de journée dans les environs de Bédarieux.
@@ -94,10 +121,15 @@ L’épicerie étant déjà fermée, nous nous posons pour déjeuner en terrasse
 Nous repartons par la piste cyclable jusqu’aux gorges d’Héric aux pieds du Carroux, célèbres pour ses pointes déchiquetées. Nous franchissons l’Orb par le pont suspendu de Tarrassac, puis, après un brusque virage à gauche, nous attaquons les interminables lacets qui nous conduisent au sommet de la Taillade. Nous roulons entre les arbousiers couverts de baies orangé ou rouge, dont nous faisons découvrir la saveur acidulée à Logane et Jérôme. Bientôt nous roulons entre les châtaigniers, avec dans notre dos les falaises du Carroux. Au sommet, nous nous arrêtons à la discrète chapelle Sainte-Madeleine de Mounis, remplissons nos bidons, faisons sécher au soleil généreux nos bivy, tentes et sacs de couchage, tout en grignotant des pommes sauvages. Durant l’ascension, la température a grimpé jusqu’à 27°.
 
 ![Gorges d’Héric](_i/IMG_2656.webp)
+
 ![Le Carroux](_i/IMG_2666.webp)
+
 ![La Taillade](_i/IMG_2667.webp)
+
 ![Les arbouses](_i/IMG_2672.webp)
+
 ![Le Carroux](_i/IMG_2676.webp)
+
 ![Séchage](_i/IMG_2689.webp)
 
 Nous poursuivons notre route sur les crêtes, les chênes verts nous empêchant souvent de voir les vallées de part et d’autre. Autant la grimpette des avant-monts a été longue, autant la descente est rapide, par un chemin défoncé, souvent technique. Patrick, le seul en tout rigide et guidon tordu, la termine les bras en compote. Quand nous atteignons Cabrerolles, il est prêt de 18 h. Pour nous ravitailler avant la fermeture des commerces, il nous faut couper par la route pour atteindre la boulangerie de Faugères, un petit paradis avec une myriade de pains bio, tous aussi alléchants les uns que les autres, et quelques sablés dont nous nous pourléchons. Nous achetons fromages et charcuteries à la boucherie voisine, nous voilà campés pour le soir, le petit déjeuner et même le déjeuner du lendemain.
@@ -115,15 +147,21 @@ Il ne fait que 2° quand nous nous réveillons. Mon genou a du mal lors des prem
 Il est presque inutile de décrire le single du bord du lac, tant c’est un classique par chez nous, mais non moins un must do, avec son profil en toboggan. Buvettes et guinguettes fermées, nous poursuivons sur les berges, jusqu’à la chapelle Notre-Dame des Clams, à partir de laquelle nous prenons de la hauteur par la DFCI. Le lac déroule son miroir bleu où se reflètent de rares nuages. Après un dernier regard, déjà nostalgique, nous lui tournons le dos pour descendre vers la vallée de la Lergue.
 
 ![Vallée du Salagou](_i/IMG_2711.webp)
+
 ![Le Salagou](_i/IMG_2733.webp)
+
 ![Le Salagou](_i/IMG_2734.webp)
+
 ![Le Salagou](_i/IMG_2748.webp)
+
 ![Le Salagou](_i/IMG_2754.webp)
+
 ![Le Salagou](_i/IMG_2755.webp)
 
 Quand nous arrivons à Salleles, il est déjà 12 h 30. Nous dévorons nos dernières victuailles, conscients que jamais nous ne réussirons à boucler le i727 en quatre courtes journées d’octobre. Nous nous tenons à la trace, escaladant le pic Saint-Baudille par la piste nord, entre sapins et châtaigniers. Le temps se couvre, sans qu’il fasse froid. Quand nous atteignons le sommet à 848 m, il est presque 16 h.
 
 ![Vers le mont Saint-Baudille](_i/IMG_2777.webp)
+
 ![Vers le mont Saint-Baudille](_i/IMG_2782.webp)
 
 Nous décidons de prendre un raccourci. Plutôt que la longue piste qui contourne la vallée sud, nous plongeons par le GR74. Nous poussons les vélos sur les 500 premiers mètres de descente avant de les enfourcher. Le spectacle est grandiose, vertige assuré, maîtrise technique exigée. Nous sommes hors trace, hors délais, nous nous faisons plaisir.
@@ -131,11 +169,17 @@ Nous décidons de prendre un raccourci. Plutôt que la longue piste qui contourn
 Nous fonçons à travers la forêt de chênes vers le cirque de l’Infernet, attaquons le sentier creusé à flanc de falaise. Nous avons de la chance de ne croiser que peu de randonneurs (en haute saison, ce chemin serait quasi impraticable à vélo). Les hirondelles tentent d’effrayer le drone quand Patrick nous filme. Nous-mêmes avons l’impression de voler au-dessus de la vallée. Des varappeurs s’accrochent aux parois. Tout en bas, nous apercevons la piste en cul-de-sac, ruban ocre entre les à-pics. Nous en prenons plein les yeux, tout en prenant un plaisir fou au guidon de nos bécanes.
 
 ![La descente](_i/IMG_2794.webp)
+
 ![Le pic](_i/IMG_2797.webp)
+
 ![La descente](_i/IMG_2800.webp)
+
 ![Une piste](_i/IMG_2808.webp)
+
 ![Le cirque](_i/IMG_2827.webp)
+
 ![La descente](_i/IMG_2833.webp)
+
 ![La descente](_i/IMG_2842.webp)
 
 Nous arrivons à [Saint-Guilhem-le-Désert](https://fr.wikipedia.org/wiki/Saint-Guilhem-le-D%C3%A9sert) avec la banane. Une table nous attend à la crêperie au pied du roi des platanes, presque 7 m de circonférence. Nous pouvons enfin manger quelque chose de chaud et de consistant, mais il est déjà 17 h 30. Même si nous nous rebranchons sur la trace, nous n’irons pas loin avant la nuit et il nous restera trop de kilomètres pour le dernier jour. Nous décidons d’emprunter une transversale que j’ai en réserve.
@@ -163,16 +207,21 @@ Il ne nous reste qu’à nous laisser glisser vers Balaruc, de nous retrouver po
 Je n’en finis pas de m’étonner de la variété des paysages de l’Hérault, les deux traces offrant des expériences fort différentes, tout en se jouant dans le même espace géographique, à la diversité il est vrai assez exceptionnelle. Jacques, une star dans le monde de la géologie, me dit que nous avons traversé 600 millions d’années d’histoire de la Terre. Une prouesse en quelque sorte. Un des seuls endroits au monde où c’est possible. Il nous faudra refaire le tour pour en raconter la géologie.
 
 ![La Gardiole](_i/IMG_2877.webp)
+
 ![La Gardiole](_i/IMG_2892.webp)
+
 ![La Gardiole](_i/IMG_2894.webp)
+
 ![La Gardiole](_i/IMG_2906.webp)
+
 ![Étang de Thau](_i/IMG_2934.webp)
 
 ### Statistiques
 
 ![Statistiques](_i/i727stat.png)
+
 ![Traces comparées](_i/StstTraces.png)
 
 Le i727 se classe parmi les traces difficiles, en prime le pourcentage moyen ne disant rien de la difficulté technique de certains passages. Une trace donc à ne pas attaquer sans être préparé, ou en prenant son temps.
 
-#727 #bikepacking #velo #y2021 #2021-10-12-10h22
+#727bikepacking #bikepacking #velo #y2021 #2021-10-12-10h22

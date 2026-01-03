@@ -14,4 +14,4 @@ Le bikepacking nous pousse vers la nature, à mieux l’aimer, à mieux la respe
 
 [Plus d’infos sur le tour, traces, conseils…](../../../../page/727tour.md)
 
-#727 #bikepacking #velo #y2021 #2021-4-28-10h12
+#727bikepacking #bikepacking #velo #y2021 #2021-4-28-10h12

@@ -17,8 +17,9 @@ En regardant de plus près les données, j’ai constaté que souvent des sectio
 Pas grave, pour y voir plus clair, j’ai comparé la French Divide 2019 et la GTH avec [l’analyseur IBP](https://www.ibpindex.com/) et découvert que les traces étaient de difficulté comparable à la distance près, ce qui n’est pas un détail. La GTH apparaît comme plus orientée VTT, avec beaucoup moins de routes, ce que confirme les statistiques Komoot. J’ai toutefois veillé à ne choisir que des singles roulants, pour laisser une chance aux gravels de passer sans difficulté notoire.
 
 ![IBP French Divide 2019](_i/ibp-french.png)
+
 ![IBP GTH](_i/ibp-gth.png)
 
 Sur ces données IBP, on voit, par exemple, qu’il y a 30 % de changements de direction au kilomètre en plus sur la GTH que sur la French, ce qui est en phase avec la plus grande proportion de singles et de chemins. Ce service mérite d’être utilisé avant de longs voyages en compléments des statistiques Komoot. Connaissant son temps sur un parcours référence, on peut ainsi le comparer à un nouveau parcours et se fixer un objectif raisonnable.
 
-#727 #gps #velo #y2021 #2021-3-30-12h25
+ #727bikepacking #gps #velo #y2021 #2021-3-30-12h25
