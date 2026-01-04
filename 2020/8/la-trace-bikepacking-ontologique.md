@@ -6,7 +6,7 @@ Comme nous avons programmé [un 727, c’est-à-dire un grand tour de l’Hérau
 
 Je prends la route à 5 h 30. Je suis toujours excité dans ces moments comme si je m’apprêtais à découvrir l’El Dorado. J’ai beau avoir étudié les cartes, la réalité du terrain me surprend toujours. Tout au long de la toute, je me demande ce qu’est une trace bikepacking idéale et je trouve une réponse radicale : c’est une trace ontologique, elle se tient elle-même, fait preuve d’une logique interne qui lui donne son identité et la détermine sans que son concepteur ait presque son mot à dire. Dans son *Journal extime*, Michel Tournier écrit :
 
-> L’argument ontologique, excellent exemple (exemple par excellence) de l’attitude du philosophe qui laisse la parole aux êtres, aux choses, aux notions. Ne manipulons pas Dieu, laissons-le nous parler. Et que commence-t-il par dire ? J’existe. C’est à la fois la maïeutique de Socrate et la phénoménologie de Husserl. Phénoménologie : les phénomènes parlent.
+>L’argument ontologique, excellent exemple (exemple par excellence) de l’attitude du philosophe qui laisse la parole aux êtres, aux choses, aux notions. Ne manipulons pas Dieu, laissons-le nous parler. Et que commence-t-il par dire ? J’existe. C’est à la fois la maïeutique de Socrate et la phénoménologie de Husserl. Phénoménologie : les phénomènes parlent.
 
 Quand j’écris, j’ai parfois ce sentiment que le texte me guide. J’adore cette sensation. Comme je dis toujours qu’une trace est une œuvre d’art, le 727 me prend peut-être le dessus.
 
@@ -41,15 +41,21 @@ Mais ce trajet a un point névralgique. Au bout de la vallée, au cul du [cirque
 Au départ, tout roule pour le mieux. Je suis immédiatement sous le charme de la rivière, des vignes et des oliviers. Malgré quelques hésitations, je trouve une trace agréable dans un cadre bucolique à souhait jusqu’à la résurgence de la Buèges d’un turquoise translucide assez exceptionnel.
 
 ![Pégairolles-de-Buèges](_i/IMG_2566.webp)
+
 ![Résurgence de la Buèges](_i/IMG_2573.webp)
 
 Je me mange quelques méchantes drailles, trouve moyen de les éviter par un petit bout d’asphalte, puis je n’ai plus le choix, je dois m’attaquer à la paroi rocheuse contre laquelle le chemin serpente. Il est sublime, large, régulier, mais caillouteux. Avec son 10 % presque constant, il est difficile à pédaler. Je finis par me résoudre à pousser presque continuellement sur 3,2 km pour 330D+, après c’est parfait, du velours. Je n’arrive pas à me dire que cette voie est à rejeter. Le paysage est incroyable, le cirque de la Séranne m’ouvre les bras avec les villages et les champs éparpillés dans la vallée.
 
 ![La vallée de la Buèges](_i/IMG_2590-1.webp)
+
 ![Ça paraît roulant](_i/IMG_2595.webp)
+
 ![Juste sublime](_i/IMG_2596.webp)
+
 ![Pégairolles-de-Buèges](_i/IMG_2608.webp)
+
 ![Un peu d’ombre](_i/IMG_2632.webp)
+
 ![Saint-Jean-de-Buèges](_i/IMG_2636.webp)
 
 Au retour, j’essaie un autre passage par le GR74, plus prometteur au début, mais finalement qui s’avère plus étroit et impossible à descendre sans pousser. Il y a bien une troisième draille, mais d’après le topo elle paraît pire que les deux autres, ce que convient Gilles le loueur/réparateur de vélos avec qui je discute avant d’aller boire un verre sous une terrasse ombragée au bord de la Buèges. Je suis monté par la voie la plus facile, si on peut dire.
@@ -59,8 +65,11 @@ Au retour, j’essaie un autre passage par le GR74, plus prometteur au début, m
 L’ontologique me dit « Va pour le poussage… », c’est bien l’ontologie, ça sonne toujours bien comme mot, ça en jette.
 
 ![Par la crête](_i/recoProfilSerane.png)
+
 ![Par la grande traversée](_i/recoProfilgrande.png)
+
 ![Par la Buèges](_i/recoProfilBueges.png)
+
 ![Voie nord](_i/recoProfilnord.png)
 
 #727bikepacking #velo #y2020 #2020-8-15-7h44
