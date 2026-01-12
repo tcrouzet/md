@@ -10,7 +10,7 @@ Voilà comment est né [*Une initiation au bikepacking*](https://www.amazon.fr/d
 
 Les lecteurs de ma série [Born to bike](https://tcrouzet.com/borntobike/) seront en terrain familier, mais peut-être que ce nouvel agencement des textes leur ouvrira des perspectives (pour moi, c’est le cas).
 
-Après avoir sondé quelques éditeurs et devant leurs gros yeux, « Mais de quoi il parle ? », j’ai décidé d’autopublier ce livre de 260 pages. [Il est disponible sur Amazon en impression à la demande pour 18,99 €, livrable sous dix jours en moyenne.](https://www.amazon.fr/dp/167615681X?ref_=pe_3052080_397514860) [Vous pouvez aussi acheter la version ebook.](https://tcrouzet.com/une-initiation-au-bikepacking/#librairies).
+Après avoir sondé quelques éditeurs et devant leurs gros yeux, « Mais de quoi il parle ? », j’ai décidé d’autopublier ce livre de 260 pages. [Il est disponible sur Amazon en impression à la demande pour 18,99 €, livrable sous dix jours en moyenne.](https://www.amazon.fr/dp/167615681X?ref_=pe_3052080_397514860) [Vous pouvez aussi acheter la version ebook.](https://tcrouzet.com/books/une-initiation-au-bikepacking/).
 
 [![Une initiation au bikepacking](_i/bikepacking-cover.webp)](https://www.amazon.fr/dp/167615681X?ref_=pe_3052080_397514860)
 

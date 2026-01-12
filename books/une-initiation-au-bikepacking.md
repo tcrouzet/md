@@ -15,11 +15,9 @@ eshops:
  - https://www.7switch.com/fr/ebook/9782919358236/une-initiation-au-bikepacking
  - https://www.amazon.fr/dp/B082ZR864P/
  - https://www.bookeenstore.com/ebook/9782919358236/une-initiation-au-bikepacking-thierry-crouzet
- - http://fr.feedbooks.com/item/3248779/une-initiation-au-bikepacking
  - https://www.kobo.com/fr/fr/ebook/une-initiation-au-bikepacking
  - https://books.apple.com/fr/book/une-initiation-au-bikepacking/id1492631401
  - https://play.google.com/store/books/details/Thierry_Crouzet_Une_initiation_au_bikepacking?id=6SfGDwAAQBAJ
- - https://www.cultura.com/une-initiation-au-bikepacking-tea-9782919358236.html
 ---
 
 # Une initiation au bikepacking
