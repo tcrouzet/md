@@ -1,3 +1,8 @@
+---
+metatitle: "De ma terrasse #43 : IA, art et science"
+metadescription: IA qui casse le web, cellules solaires révolutionnaires, estampes japonaises, trous noirs mystérieux, Paris au fil des siècles…
+---
+
 # De ma terrasse #43
 
 _Ma sélection du dimanche : **16** liens et une photo prise depuis ma terrasse._
@@ -18,14 +23,14 @@ Le Studio Stipfold signe un projet spectaculaire à 3 014 mètres d’altitude.
 Une animation 3D retrace vingt-cinq siècles d’urbanisme parisien en trois minutes. De l’Île de la Cité gauloise aux transformations haussmanniennes, chaque époque laisse sa marque. (Superbe.)
 
 [Découvrez la première peinture de Michel-Ange, créée alors qu’il n’avait que 12 ou 13 ans](https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html) • EN • 4 min  
-_Le Tourment de saint Antoine_, longtemps attribué à un anonyme, s’avère être une œuvre de jeunesse de Michel-Ange. La réflectographie infrarouge a révélé des repentirs prouvant qu’il s’agit d’un original et non d’une copie. Conservée au Kimbell Art Museum du Texas, cette tempera reste l’une des quatre peintures de chevalet jamais formellement confirmées du maître florentin. (Encàre un précausse.)
+_Le Tourment de saint Antoine_, longtemps attribué à un anonyme, s’avère être une œuvre de jeunesse de Michel-Ange. La réflectographie infrarouge a révélé des repentirs prouvant qu’il s’agit d’un original et non d’une copie. Conservée au Kimbell Art Museum du Texas, cette tempera reste l’une des quatre peintures de chevalet jamais formellement confirmées du maître florentin. (Encore un précoce.)
 
 ## Science & santé
 
 [Pourquoi « lire davantage »](https://bigthink.com/books/why-read-more-may-underrated-thinking-advice/) • EN • 11 min  
 Stephen King l’affirme : écrire exige de lire beaucoup et d’écrire beaucoup, sans raccourci possible. La lecture fournit la matière première de la pensée, forge la voix et nourrit l’originalité. De Mary Shelley à Charles Darwin, les esprits créatifs combinent influences disparates pour générer des idées neuves.
 
-[Un ubuprofène pourrait avoir des propriétés anticancéreuses](https://www.sciencealert.com/a-common-pain-relief-drug-could-have-anti-cancer-properties) • EN • 7 min  
+[L’ibuprofène pourrait avoir des propriétés anticancéreuses](https://www.sciencealert.com/a-common-pain-relief-drug-could-have-anti-cancer-properties) • EN • 7 min  
 Il réduirait de 25 % le risque de cancer de l’endomètre chez les femmes consommant au moins 30 comprimés par mois. Le médicament bloque l’enzyme COX-2, freinant l’inflammation et la prolifération cellulaire. Mais attention : l’usage prolongé d’anti-inflammatoires comporte des risques gastriques et cardiovasculaires.
 
 [L’odeur des personnes âgées est bien réelle. Voici comment s’en débarrasser](https://www.vice.com/en/article/old-people-smell-is-real-heres-how-to-get-rid-of-it/) • EN • 3 min  
@@ -60,6 +65,6 @@ Des chercheurs d’OpenAI et de Google DeepMind analysent les modèles de langag
 Les résumés d’IA remplacent la navigation sur le web par une couche de réponses instantanées. Pratique, mais appauvrissant : contexte, expertise et nuances disparaissent au profit d’une moyenne algorithmique. L’ère du zéro-clic transforme internet en source consultée de manière intentionnelle, non plus explorée au hasard.
 
 [L’IA continue de casser les sites d’actualité, les références depuis Google Search et les réseaux sociaux s’effondrent](https://www.pcmag.com/news/ai-is-still-hammering-news-sites-google-search-and-social-referrals-plunge) • EN • 6 min  
-Le trafic mondial vers les sites d’information provenant de Google Search a chuté de 33  dans le monde%, et de 38 % aux États-Unis, en grande partie à cause des aperçus générés par l’IA. Facebook et X amplifient la chute avec respectivement -43 % et -46 % de références. Les dirigeants de rédactions placent désormais leurs espoirs sur YouTube, TikTok et les accords de licence avec les plateformes d’IA.
+Le trafic mondial vers les sites d’information provenant de Google Search a chuté de 33 %  dans le monde, et de 38 % aux États-Unis, en grande partie à cause des aperçus générés par l’IA. Facebook et X amplifient la chute avec respectivement -43 % et -46 % de références. Les dirigeants de rédactions placent désormais leurs espoirs sur YouTube, TikTok et les accords de licence avec les plateformes d’IA.
 
 #digest #y2026 #2026-1-25-17h00
