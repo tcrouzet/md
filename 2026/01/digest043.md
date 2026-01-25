@@ -34,7 +34,7 @@ Stephen King l’affirme : écrire exige de lire beaucoup et d’écrire beauco
 Il réduirait de 25 % le risque de cancer de l’endomètre chez les femmes consommant au moins 30 comprimés par mois. Le médicament bloque l’enzyme COX-2, freinant l’inflammation et la prolifération cellulaire. Mais attention : l’usage prolongé d’anti-inflammatoires comporte des risques gastriques et cardiovasculaires.
 
 [L’odeur des personnes âgées est bien réelle. Voici comment s’en débarrasser](https://www.vice.com/en/article/old-people-smell-is-real-heres-how-to-get-rid-of-it/) • EN • 3 min  
-Le 2-nonénal, composé issu de l’oxydation des lipides cutanés, provoque cette senteur métallique caractéristique. Avec l’âge, la peau produit moins d’antioxydants et se renouvelle plus lentement. (Il suffirait de manger plus de champignons pour éviter ça.)
+Un composé issu de l’oxydation des lipides cutanés provoque cette senteur métallique caractéristique. Avec l’âge, la peau produit moins d’antioxydants et se renouvelle plus lentement. (Il suffirait de manger plus de champignons pour éviter ça.)
 
 [L’exercice physique traite la dépression aussi efficacement que les médicaments, selon une étude](https://www.npr.org/2026/01/12/nx-s1-5667599/exercise-is-as-effective-as-medication-in-treating-depression-study-finds) • EN • 5 min  
 Une méta-analyse de 73 essais contrôlés démontre l’efficacité de l’activité physique contre la dépression. L’exercice stimule sérotonine, dopamine et endorphines tout en boostant le facteur neurotrophique BDNF, un fertilisant cérébral. Un effort léger à modéré suffit, à condition de bouger régulièrement. (Ou pourquoi je fais du vélo.)
