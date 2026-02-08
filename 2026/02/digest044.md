@@ -5,7 +5,7 @@ metadescription: "Entre déclin politique américain, percées scientifiques sur
 
 # De ma terrasse #44
 
-*Ma sélection du dimanche : **20** liens et une photo prise depuis ma terrasse. (Isa m’en voudrait ne pas poursuivre cette newsletter qu’elle a souhaitée. Je passe tout mon temps près d’elle. Je grapille la moindre seconde.)*
+*Ma sélection du dimanche : **20** liens et une photo prise depuis ma terrasse. (Isa m’en voudrait ne pas poursuivre cette newsletter qu’elle a souhaitée. Je passe tout mon temps près d’elle. Je grappille la moindre seconde.)*
 
 ![Samedi 7 février](_i/2026-02-07-152612.webp)
 
