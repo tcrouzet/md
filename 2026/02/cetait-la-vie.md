@@ -22,6 +22,6 @@ Elle aimait la vie.
 
 Je vous aime pour lui avoir rendu son amour au centuple.
 
-*PS : Je partage ce texte parce que tous mes lecteurs fidèles connaissent Isa. Je n’ai pas fini de parler d’elle. Elle continuera de vivre en nous.*
+*PS : Je partage ce texte parce que mes lecteurs fidèles connaissent Isa. Je n’ai pas fini de parler d’elle. Elle continuera de vivre en nous.*
 
 #autobiographie #y2026 #2026-02-13-20h00
