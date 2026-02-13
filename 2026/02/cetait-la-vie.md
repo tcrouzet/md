@@ -8,11 +8,11 @@ Je me préparais à son départ depuis des semaines, mais pas plus qu’elle je 
 
 Isa m’a aidé à grandir en tant qu’homme, que père, qu’écrivain. Elle a fait d’Émile et Timothée des humains merveilleux. Pour nous, elle a été un phare, aussi pour ses proches et même ses simples connaissances. Elle avait un don d’écoute extraordinaire, une empathie rare, un respect de chacun bouleversant. À l’hôpital, les soignants venaient se confier à elle, alors qu’ils la savaient en phase terminale. Elle leur faisait du bien et ça la rendait heureuse. Elle ne manquait aucune occasion de donner du bonheur.
 
-J’ai souvent parlé d’elle dans mes carnets et mes livres, dès *J’ai débranché* et beaucoup plus dans *Rush*. Elle était mon double, mon regard, ma vigie en même temps que ma boussole. J’ai perdu le nord tout en sachant que je continuerai d’honorer la vie pour l’honorer elle. J’ai tenu sa tête à deux mains jusqu’au bout, sa tête si bien faite, sa tête dont j’étais tombé amoureux au début de 1999.
+J’ai souvent parlé d’elle dans mes carnets et mes livres, dès *J’ai débranché* et beaucoup plus dans *Rush*. Elle était mon double, mon regard, ma vigie en même temps que ma boussole. J’ai perdu le nord tout en sachant que je continuerai d’honorer la vie pour l’honorer elle. J’ai tenu sa tête à deux mains jusqu’au bout, sa tête si bien faite, sa tête dont je suis tombé amoureux au début de 1999.
 
-Isa sera enterrée mercredi 18, 14h, à Montagnac-sur-Lède, dans le Lot-et-Garonne, tout à côté de la maison de famille de Maillardou. Cérémonie civile en plein air et probablement sous la pluie. Nous nous réfugierons après dans la maison pour une célébrer Isa.
+Isa sera enterrée mercredi 18, 14h, à [Montagnac-sur-Lède](https://fr.wikipedia.org/wiki/Montagnac-sur-L%C3%A8de), dans le Lot-et-Garonne, tout à côté de la maison de famille de Maillardou. Cérémonie civile en plein air et probablement sous la pluie. Nous nous réfugierons après dans la maison pour une célébrer Isa.
 
-De samedi 14h à lundi 16h, son corps sera visible au funérarium de Mireval (34110). Le cercueil sera ensuite fermé avant d’être transporté dans le Lot-et-Garonne.
+De samedi 14h à lundi 16h, son corps sera visible au funérarium de [Mireval](https://fr.wikipedia.org/wiki/Mireval) . Le cercueil sera ensuite fermé avant d’être transporté dans le Lot-et-Garonne.
 
 Dans les semaines à venir, j’organiserai une fête pour rassembler ses amies et amis à la maison. Nous pourrons lui donner l’hommage qu’elle mérite.
 
@@ -22,6 +22,6 @@ Elle aimait la vie.
 
 Je vous aime pour lui avoir rendu son amour au centuple.
 
-*PS : Je partage ce texte parce que tous mes lecteurs fidèles connaissent Isa. Je n’ai pas fini de parler d’elle. Elle continue de vivre en nous.*
+*PS : Je partage ce texte parce que tous mes lecteurs fidèles connaissent Isa. Je n’ai pas fini de parler d’elle. Elle continuera de vivre en nous.*
 
 #autobiographie #y2026 #2026-02-13-20h00
