@@ -10,7 +10,7 @@ Isa m’a aidé à grandir en tant qu’homme, que père, qu’écrivain. Elle a
 
 J’ai souvent parlé d’elle dans mes carnets et mes livres, dès *J’ai débranché* et beaucoup plus dans *Rush*. Elle était mon double, mon regard, ma vigie en même temps que ma boussole. J’ai perdu le nord tout en sachant que je continuerai d’honorer la vie pour l’honorer elle. J’ai tenu sa tête à deux mains jusqu’au bout, sa tête si bien faite, sa tête dont je suis tombé amoureux au début de 1999.
 
-Isa sera enterrée mercredi 18, 14h, à [Montagnac-sur-Lède](https://fr.wikipedia.org/wiki/Montagnac-sur-L%C3%A8de), dans le Lot-et-Garonne, tout à côté de la maison de famille de Maillardou. Cérémonie civile en plein air et probablement sous la pluie. Nous nous réfugierons après dans la maison pour une célébrer Isa.
+Isa sera enterrée mercredi 18, 14h, à [Montagnac-sur-Lède](https://fr.wikipedia.org/wiki/Montagnac-sur-L%C3%A8de), dans le Lot-et-Garonne, tout à côté de la maison de famille de Maillardou. Cérémonie civile en plein air et probablement sous la pluie. Nous nous réfugierons après dans la maison pour célébrer Isa.
 
 De samedi 14h à lundi 16h, son corps sera visible au funérarium de [Mireval](https://fr.wikipedia.org/wiki/Mireval) . Le cercueil sera ensuite fermé avant d’être transporté dans le Lot-et-Garonne.
 
