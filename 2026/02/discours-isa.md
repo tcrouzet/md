@@ -1,3 +1,8 @@
+---
+metatitle: "Isa : une vie qui continue à travers les liens"
+metadescription: "Le discours que j'aurais aimé prononcé lors de l'enterrement d'Isa."
+---
+
 # Isa, d’en elle en nous
 
 Hier soir, seul dans notre grande maison pour la première fois depuis [la mort d’Isa](https://tcrouzet.com/2026/02/13/cetait-la-vie/), après des heures à regarder des photos et me perdre dans les souvenirs, je me suis couché tremblant de froid alors qu’il ne faisait pas froid. J’ai lu quelques lignes de *Sagesse* de Verlaine et un passage m’a semblé parler d’Isa.
