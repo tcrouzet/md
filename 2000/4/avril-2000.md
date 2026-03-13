@@ -21,6 +21,7 @@ Heureusement, l’autre victime avait pris l’affaire en main sinon je ne sais 
 Après quelques minutes, le lieutenant est venu nous libérer. « Vous n’êtes pas coupables, retournez au poste avec l’un de mes hommes, il vous tamponnera les papiers. » Ainsi les choses se sont arrangées. À la nuit tombée, nous avons quitté les policiers avec les papiers qui, ce matin, nous ont permis de récupérer une nouvelle voiture.
 
 ![Jerash](_i/carnet-2000-04-01-scaled.webp)
+
 *Al Azray.* Nous terminons la journée dans une oasis non loin de la frontière irakienne. Nous avons traversé le désert par une route empruntée par les camions qui effectuent la liaison entre Aqaba et Bagdad. À un moment donné, au-dessous de nous, la route s’est démesurément élargie en une mer de bitume. Il était difficile de garder une trajectoire rectiligne. On a fini par comprendre que nous remontions la piste d’un aéroport.
 
 Lisant Octavio Paz, je découvre ce qui sépare le XX<sup>e</sup> siècle du XXI<sup>e</sup>. Il n’y aura ni idéologie dominante ni psychanalyse. Les individus, adeptes d’un pragmatisme généralisé, prendront une conscience accrue d’eux-mêmes au cœur d’une histoire où aucune idéologie n’apportera de solution universelle (c’est en tout cas mon espoir). Quant à la psychanalyse, elle est simplement désuète maintenant qu’on commence à comprendre le cerveau. Au mieux, on peut la considérer comme une première tentative de compréhension des processus mentaux.

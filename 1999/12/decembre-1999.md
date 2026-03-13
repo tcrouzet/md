@@ -10,11 +10,11 @@ Dylan Thomas écrit à peu près : « Un poète ne boit pas quand il écrit, m
 
 Les idées arrivent, nous les prenons. Leur ordonnancement logique vient après coup, artificiel, sans rapport avec la réalité du surgissement. Toute causation d’un discours artistique revient à prendre le spectateur par la main.
 
-Hypocrisie de vouloir découvrir quelqu’un. C’est le prendre pour un objet, pire que de se servir de lui pour qu’il influence notre vie. Nous n’accédons pas à la souffrance de l’autre par l’approche directe. L’autre nous est étranger. Nous pouvons être avec lui, vivre avec lui, l’écouter, mais jamais le connaître. Le doute subsiste, sinon au sujet du cœur de la subjectivité, cœur sans doute assez semblable entre les individus. Je ne m’intéresse donc pas à l’autre par lui-même, mais à son influence sur moi. Je n’ai rien à chercher, aucun effort à produire.
+Hypocrisie de vouloir découvrir quelqu’un. C’est le prendre pour un objet, pire que de se servir de lui pour qu’il influence notre vie. Nous n’accédons pas à la souffrance de l’autre par l’approche directe. L’autre nous est étranger. Nous pouvons être avec lui, vivre avec lui, l’écouter, mais jamais le connaître. Le doute subsiste. Je ne m’intéresse pas à l’autre par lui-même, mais à son influence sur moi. Je n’ai rien à chercher, aucun effort à produire.
 
 ### Mardi 7, Paris
 
-Si, au Mexique, tout s’était passé pour le mieux avec Vania, *Turista* n’aurait pas existé. L’écrivain se nourrit du désordre. Il recherche les grains de sable dans l’horlogerie sociale. Je ne pouvais souhaiter que ça marche. Je voulais une relation médiocre pour mieux exprimer ma façon de combattre la médiocrité en général, et la mienne en particulier.
+Si, au Mexique, tout s’était passé pour le mieux avec Vania, *Turista* n’aurait pas existé. L’écrivain se nourrit du désordre. Il recherche les grains de sable dans l’horlogerie sociale. Je ne pouvais pas souhaiter que ça marche. Je voulais une relation médiocre pour mieux exprimer ma façon de combattre la médiocrité en général, et la mienne en particulier.
 
 Le solipsiste accorde une valeur objective à ses émotions. Telle œuvre le touche parce qu’elle possède une qualité universelle (la réalité étant en lui, les émotions appartiennent à la réalité, elles passent hors de lui, car le solipsiste a rarement la conscience de son solipsisme). Il ne comprend pas qu’un autre homme ne puisse percevoir cette qualité. Il le croira dépourvu de sensibilité. Le réaliste ne reconnaît des qualités émotives que relativement à lui-même. Pour lui, une œuvre n’existe pas en elle-même, mais relativement à une esthétique.
 
@@ -26,7 +26,7 @@ Pause café. Rêverie, ambiance studieuse. On lit, on écrit et la serveuse va e
 
 ### Mardi 14, Paris
 
-Bouvier, comme la plupart des écrivains voyageurs, écrit une fois de retour chez lui. Il voyage pour découvrir le monde et connaître l’illumination. Je voyage pour la même raison, mais aussi pour écrire à l’instant de l’illumination. Je m’essaie à une saisie directe et instantanée. La suite du travail se limite à polir mes textes. L’essentiel doit être là, dès le départ.
+Bouvier, comme souvent les écrivains voyageurs, écrit une fois de retour chez lui. Il voyage pour découvrir le monde et connaître l’illumination. Je voyage pour la même raison, mais aussi pour écrire. Je m’essaie à une saisie directe et instantanée. La suite du travail se limite à polir mes textes. L’essentiel doit être là, dès le départ.
 
 Mon écriture n’invoque pas les souvenirs, elle ne réinvente pas la réalité *a posteriori* en lui donnant une coloration romanesque, voire romantique. Toutefois, elle trahit le réel peut-être autant que l’écriture du souvenir.
 
@@ -72,7 +72,7 @@ Je vais au cinéma avec mes amis pendant que leurs femmes vont voir un autre fil
 
 Noël me plonge dans ma solitude, dans cette autre vie refusée, ou plutôt interdite. Cette année encore je serai avec mes parents et moi-même. Malgré tout, je n’envie pas l’existence des autres.
 
-De la possibilité de partir vivre à Londres. Je n’y pense pas, je ne projette pas, je ne projette plus rien d’ailleurs, j’ai enfin gagné le présent et je n’ai plus aucun moyen de le fuir.
+De la possibilité de partir vivre à Londres avec Isa. Je n’y pense pas, je ne projette pas, je ne projette plus rien d’ailleurs, j’ai enfin gagné le présent et je n’ai plus aucun moyen de le fuir.
 
 Par nature, je ne suis pas drôle, ce qui ne veut pas dire triste. Si je n’ai jamais inventé de blague, si je n’aime pas en raconter, j’aime bien en entendre. Je me méfie de l’humour. Je ne cherche pas à faire rire de peur de laisser de marbre (j’ai tendance à faire la même chose avec les femmes… j’évite les avances de peur de prendre une veste). Alors je laisse l’humour jaillir naturellement de ma différence par rapport aux autres. Pour m’amuser, il me suffit d’une pensée inattendue.
 

@@ -5,6 +5,7 @@
 ### Mardi 1<sup>er</sup>, Paris
 
 Depuis le début de l’année, je manque d’idée. La *Saga Vignaud* reste au point mort. Si je me remets au romanesque, il n’aura aucun rapport avec celui envisagé lors de mes débuts. J’ai l’impression de toujours passer à côté des meilleures occasions. J’ai manqué être père, être un grand journaliste, être un homme d’affaires et, en littérature, je n’ai encore rien réussi. Ai-je encore la force de me remettre au travail ? Je dois trouver un nouveau cap. J’ai l’impression d’avoir perdu une muse, mais je n’ai écrit aucun livre honnêtes sous son influence.
+
 *Samedi 28 août 2004.* J’éprouve à nouveau le même sentiment, le même désarroi, impression de piétiner. En retranscrivant mes carnets, j’essaie de me reconstituer.
 
 *Lundi 15 avril 2024.* J’ai pris l’habitude de traverser ces périodes. Replonger dans les carnets m’aide à me recentrer.
