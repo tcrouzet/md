@@ -270,6 +270,6 @@ Je lis *Le Discours de la Méthode*. Toute la force du « je ». En philosophi
 
 ---
 
-Je rejoins les copains pour trois jours de ski dans les Alpes du Sud. Je pense à Isabelle.
+Je rejoins les copains pour trois jours de ski dans les Alpes du Sud. Je pense à Isabelle. 
 
 #carnets #private #y1999 #1999-01-31-20h00
