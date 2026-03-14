@@ -122,7 +122,8 @@ Depuis dix ans que je vis à Paris, j’aspire à la rencontre impromptue, et so
 
 J’envoie un mail à Isabelle (je l’invite à autre chose au prétexte de parler de son travail).
 
-```« Salut,
+```
+« Salut,
 
 « Start \[le portail de Microsoft] s’est amélioré, mais ça reste confus : manque de hiérarchie, toutes les infos au même niveau, le regard ne sait pas où se poser ni dans quel sens aborder la page. En peinture, on appelle ça le allover (Jackson Pollock, par exemple). En mise en page, mieux vaut rester classique (je fais l’intelligent). Si tu veux parler de ça et, surtout, de tout autre chose, appelle-moi (après la politique, Internet est ce qui m’intéresse le moins). Je suis disponible comme l’air.
 
