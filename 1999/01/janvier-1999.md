@@ -1,6 +1,6 @@
 # Janvier 1999
 
-*Depuis le décès d’Isa, incapable de me tendre vers un avenir plus qu’incertain, je me replie vers le passé et remonte au commencement de notre histoire. J’ai retranscrit mes carnets de janvier 1999, quand j’ai rencontré Isa (elle avait 28 ans, moi 35). Nous sortions tous deux d’une histoire douloureuse. Mes notes témoignent d’une époque où déjà le numérique transforme les rapports sociaux et amoureux. Je n’envoie ce texte qu’à mes abonnés payants, peu désireux de le partager plus largement. S’il vous intéresse, je publierai la suite. Écrire sur Isabelle me fait du bien.*
+*Depuis le décès d’Isa, incapable de me tendre vers un avenir plus qu’incertain, je me replie vers le passé et remonte au commencement de notre histoire. J’ai retranscrit mes carnets de janvier 1999, quand j’ai rencontré Isa (elle avait 28 ans, moi 35). Nous sortions tous deux d’une histoire douloureuse. Mes notes témoignent d’une époque où déjà le numérique transforme les rapports sociaux et amoureux. Je n’envoie ce texte qu’à mes abonnés payants, peu désireux de le partager plus largement. S’il vous intéresse, je publierai la suite. Écrire sur Isa me fait du bien.*
 
 ### Vendredi 1<sup>er</sup>, Balaruc
 
@@ -16,7 +16,7 @@ Les amis m’aident à traverser mes déboires sentimentaux. Sans les amis, je n
 
 ---
 
-La philosophie ne m’aide pas à résoudre mes problèmes, c’est une science pour les asséchés du cœur. Face à la réalité, les préceptes se désagrègent. Il ne reste que l’art, plus loquace que n’importe quelle théorie. Mon rêve : produire une œuvre qui fera parler sans fin. Pour l’instant, c’est moi qui parle, parle, parle.
+La philosophie ne m’aide pas à résoudre mes problèmes, c’est une science pour les asséchés du cœur. Face à la réalité, les préceptes se désagrègent. Il ne reste que l’art, plus loquace que n’importe quelle théorie. Pour l’instant, c’est moi qui parle, parle, parle.
 
 ---
 
@@ -64,15 +64,15 @@ Le célibat fabrique des histoires. C’est bon pour un écrivain.
 
 ### Samedi 16, Paris
 
-Hier soir, je récupère Iris à la sortie du métro Bercy. Grande sur ses talons, yeux dans le vague, walkman sur les oreilles. Elle a fait comme si elle ne me voyait pas jusqu’au dernier moment. Dans la rue, tout le monde la regardait. Elle a un côté magnétique.
+Hier soir, je récupère Iris à la sortie du métro Bercy. Grande sur ses talons, yeux dans le vague, walkman sur les oreilles, jupe courte. Elle a fait comme si elle ne me voyait pas jusqu’au dernier moment. Dans la rue, tout le monde la regardait. Elle a un côté magnétique.
 
 Nous sommes allés chez moi, nous avons parlé. Je lui ai demandé pourquoi hier elle m’a embrassé ; elle m’a dit que c’était moi qui l’avais embrassée. Alors je l’ai embrassée à nouveau, et elle m’a embrassé. Nous avons fait l’amour, elle a dormi chez moi, et nous avons fait l’amour, puis elle m’a dit que nous ne nous reverrions jamais, parce qu’elle n’avait pas prévu de me céder aussi vite, parce que sa rupture n’était pas consommée.
 
 Je crois qu’elle ne me rappellera pas cette fois. C’est sans gravité, je ne l’aime pas, même si je pourrais l’aimer ; ce serait un amour patinoire avec forte chance de dérapages incontrôlés. Elle m’a dit vouloir profiter du célibat durant quelques mois avant de s’engager à nouveau. Je ferai bien de l’imiter.
 
-En me quittant elle m’a dit que notre nuit resterait pour elle comme un rêve. Elle a cité Oscar Wilde : « La seule différence entre un caprice et une passion éternelle, c’est que le caprice dure un peu plus longtemps. » Avons-nous vécu une passion ou un caprice de quatre jours ?
+En me quittant, elle m’a dit que notre nuit resterait pour elle comme un rêve. Elle a cité Oscar Wilde : « La seule différence entre un caprice et une passion éternelle, c’est que le caprice dure un peu plus longtemps. » Avons-nous vécu une passion ou un caprice de quatre jours ?
 
-Son dernier regard était triste. Qui était vraiment cette fille ? De quel pays venait-elle ? Quel était son vrai nom ? Elle a joui presque à la première caresse. Elle avait le plaisir à fleur de peau. Elle est partie, c’est mieux ainsi, elle était bien trop compliquée.
+Son dernier regard était triste. Qui était cette fille ? De quel pays venait-elle ? Quel était son vrai nom ? Elle a joui presque à la première caresse. Elle avait le plaisir à fleur de peau. Elle est partie, c’est mieux ainsi, elle était bien trop compliquée.
 
 ### Dimanche 17, Paris
 
@@ -80,7 +80,7 @@ Café Beaubourg. Du mal à penser les jours derniers. Pas eu le temps de connaî
 
 J’ai le numéro d’Iris, je devrais le détruire. Mais en amour, il n’y a pas d’honneur, pas de parole, il n’y a que le désir et on ne peut que lui obéir. Je finirai par téléphoner, si je continue à penser à elle.
 
-Dans le café en même temps que le soir avance, de moins en moins de femmes, de plus en plus d’homos. J’ai croisé au long de ma promenade de nombreux regards. Les gens perçoivent-ils ma disponibilité ? Une question d’attitude, une aura des corps célibataires ? Nous n’avons même pas besoin de cette alchimie pour nous attirer, la curiosité suffit.
+Dans le café, en même temps que le soir avance, de moins en moins de femmes, de plus en plus d’homos. J’ai croisé au long de ma promenade de nombreux regards. Les gens perçoivent-ils ma disponibilité ? Une question d’attitude, une aura des corps célibataires ? Nous n’avons même pas besoin de cette alchimie pour nous attirer, la curiosité suffit.
 
 Les homos se reconnaissent avec facilité par la magie de leur monde. Les hétéros de mon espèce redoutent d’importuner.
 
@@ -206,7 +206,7 @@ Ma réponse :
 
 Sa réponse :
 
-« Je serai chez moi — si ça sonne occupé pendant des heures, pas de panique, c’est que je suis en RAS, et que tu peux me joindre par mail.
+« Je serai chez moi — si ça sonne occupé pendant des heures, pas de panique, c’est que je suis en RAS \[Remote Access Service via la ligne fixe], et que tu peux me joindre par mail.
 
 « bon ski, veinard ! »
 
@@ -222,7 +222,7 @@ Pourquoi nos parents ne nous enseignent-ils pas l’amour ? Nous avançons sans
 
 Demain, quand je serai amoureux, j’écrirai le contraire. Ma situation n’en sera pas moins maladroite malgré tout ce que j’aurai appris. Je suis si épris de perfection que toute femme me semblera imparfaite.
 
-J’ai besoin d’amour pour œuvrer. Je ne peux le faire que quand la vie flamboie. Besoin d’amour pour prendre de la distance avec les contingences et me mettre au travail : c’est un paradoxe. Bien l’expliquer à Isabelle, la prévenir du danger. Parler de ma complexité, le faire immédiatement et tous les jours. Ne pas l’écrire, le dire.
+J’ai besoin d’amour pour travailler. Je ne peux le faire que quand la vie flamboie. Besoin d’amour pour prendre de la distance avec les contingences et m’y mettre : c’est un paradoxe. Bien l’expliquer à Isabelle, la prévenir du danger. Parler de ma complexité, le faire immédiatement et tous les jours. Ne pas l’écrire, le dire.
 
 Nouvelle nuit sans présence, et c’est difficile. Demain tout ira mieux, et demain soir ce sera pire.
 
@@ -242,7 +242,7 @@ Ma réponse à la question « Où suis-je ? » posée dans un atelier d’éc
 
 On me conseille d’écrire et de ne pas me poser de question. Ma réponse :
 
-« J’ai expérimenté le conseil que tu me donnes il y a déjà des années. Après des milliers de pages, le problème de la forme reste central, et ce n’est pas même original, suffit de lire le journal de Gombrowicz. Le style, c’est la forme. Au dernier jour, Flaubert se posait encore des problèmes de style (ou d’harmonie). Écrire n’est pas difficile dès qu’on s’entraîne. Gagner par le style un semblant d’objectivité absorbe en revanche toute mon énergie. »
+« J’ai expérimenté le conseil que tu me donnes il y a déjà des années. Après des milliers de pages, le problème de la forme reste, et ce n’est pas même original, suffit de lire le journal de Gombrowicz. Le style, c’est la forme. Au dernier jour, Flaubert se posait encore des problèmes de style (ou d’harmonie). Écrire n’est pas difficile dès qu’on s’entraîne. Gagner par le style un semblant d’objectivité absorbe en revanche toute mon énergie. »
 
 On me répond encore que je n’arrive pas à écrire parce que je réfléchis trop. Et moi je réponds par une liste.
 
