@@ -187,11 +187,11 @@ Mail à Isabelle :
 ```
 J’espère que tu as réussi à retourner ton torticolis.
 
-Hier soir, j’ai lu *Soie*, d’un trait, comme un rêve. Ce livre ressemble à un film, on le regarde de loin et c’est déjà fini. Je ne suis même plus sûr de l’avoir lu, j’ai peut-être rêvé. C’est allé trop vite, une histoire précipitée, une histoire d’amour.
+Hier soir, j’ai lu Soie, d’un trait, comme un rêve. Ce livre ressemble à un film, on le regarde de loin et c’est déjà fini. Je ne suis même plus sûr de l’avoir lu, j’ai peut-être rêvé. C’est allé trop vite, une histoire précipitée, une histoire d’amour.
 
 Le style neutre de l’auteur, plutôt du traducteur, renforce l’effet. On dirait qu’il n’y a pas d’écrivain derrière un tel livre. J’ai toujours voulu écrire comme ça, et, à force de préciser ma pensée, mon écriture s’éloigne du rêve et s’accroche à la réalité.
 
-Dans *Siddhartha*, tu retrouveras la légèreté de *Soie*. La lecture ira tout aussi vite mais le livre semblera se prolonger infiniment.
+Dans Siddhartha, tu retrouveras la légèreté de Soie. La lecture ira tout aussi vite mais le livre semblera se prolonger infiniment.
 
 Si tu veux on va au ciné demain ou jeudi.
 
@@ -219,7 +219,7 @@ A+
 Sa réponse :
 
 ```
-Je serai chez moi — si ça sonne occupé pendant des heures, pas de panique, c’est que je suis en RAS \[Remote Access Service via la ligne fixe], et que tu peux me joindre par mail.
+Je serai chez moi — si ça sonne occupé pendant des heures, pas de panique, c’est que je suis en RAS [Remote Access Service via la ligne fixe], et que tu peux me joindre par mail.
 
 bon ski, veinard !
 ```
