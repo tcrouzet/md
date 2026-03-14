@@ -16,7 +16,7 @@ Les amis m’aident à traverser mes déboires sentimentaux. Sans les amis, je n
 
 ---
 
-La philosophie ne m’aide pas à résoudre mes problèmes, c’est une science pour les asséchés du cœur. Face à la réalité, les préceptes se désagrègent. Il ne reste que l’art, plus loquace que n’importe quelle théorie. Mon rêve : produire une œuvre qui fera parler sans fin. Pour l’instant, mes textes ne parlent pas. Et je parle, je parle.
+La philosophie ne m’aide pas à résoudre mes problèmes, c’est une science pour les asséchés du cœur. Face à la réalité, les préceptes se désagrègent. Il ne reste que l’art, plus loquace que n’importe quelle théorie. Mon rêve : produire une œuvre qui fera parler sans fin. Pour l’instant, c’est moi qui parle, parle, parle.
 
 ---
 
@@ -212,7 +212,7 @@ Sa réponse :
 
 ### Mercredi 27, Paris
 
-Je croise Iris sur le forum. Elle tient sa promesse, toujours avec cynisme. Isabelle aussi est prudente. Nous aurions pu nous revoir ce soir, elle a repoussé à la semaine prochaine. F agissait aussi avec retenue, il ne fallait montrer aucune précipitation. Isabelle est indépendante, elle tient à son indépendance. Elle m’ouvre des perspectives amoureuses d’une profondeur vertigineuse.
+Je croise Iris sur le forum. Elle tient sa promesse, toujours avec cynisme. Isabelle aussi est prudente. Nous aurions pu nous revoir ce soir, elle a repoussé à la semaine prochaine. Elle tient à son indépendance, aucune intension de s’abandonner à une relation mièvre. Elle m’ouvre des perspectives amoureuses d’une profondeur vertigineuse.
 
 N me dit : « JB pense que ça ne matchera pas entre toi et Isabelle. Je suis sûre du contraire. »
 
@@ -222,7 +222,7 @@ Pourquoi nos parents ne nous enseignent-ils pas l’amour ? Nous avançons sans
 
 Demain, quand je serai amoureux, j’écrirai le contraire. Ma situation n’en sera pas moins maladroite malgré tout ce que j’aurai appris. Je suis si épris de perfection que toute femme me semblera imparfaite.
 
-J’ai besoin d’amour pour œuvrer. Je ne peux le faire que quand la vie flamboie. Besoin d’amour pour prendre de la distance et plonger dans une œuvre : c’est un paradoxe. Bien l’expliquer à Isabelle, la prévenir du danger. Parler de ma complexité, le faire immédiatement et tous les jours. Ne pas l’écrire, le dire.
+J’ai besoin d’amour pour œuvrer. Je ne peux le faire que quand la vie flamboie. Besoin d’amour pour prendre de la distance avec les contingences et me mettre au travail : c’est un paradoxe. Bien l’expliquer à Isabelle, la prévenir du danger. Parler de ma complexité, le faire immédiatement et tous les jours. Ne pas l’écrire, le dire.
 
 Nouvelle nuit sans présence, et c’est difficile. Demain tout ira mieux, et demain soir ce sera pire.
 
