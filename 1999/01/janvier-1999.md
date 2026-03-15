@@ -1,6 +1,6 @@
 # Janvier 1999
 
-*Depuis le décès d’Isa, incapable de me tendre vers un avenir plus qu’incertain, je me replie vers le passé et remonte au commencement de notre histoire. J’ai retranscrit mes carnets de janvier 1999, quand j’ai rencontré Isa (elle avait 28 ans, moi 35). Nous sortions tous deux d’une histoire douloureuse. Mes notes témoignent d’une époque où déjà le numérique transforme les rapports sociaux et amoureux. Je n’envoie ce texte qu’à mes abonnés payants, peu désireux de le partager plus largement. S’il vous intéresse, je publierai la suite. Écrire sur Isa me fait du bien.*
+*Depuis le décès d’Isa, incapable de me tendre vers un avenir plus qu’incertain, je me replie vers le passé et remonte au commencement de notre histoire. J’ai retranscrit mes carnets de janvier 1999, quand j’ai rencontré Isa (elle avait 28 ans, moi 35). Mes notes témoignent d’une époque où déjà le numérique transforme les rapports sociaux et amoureux. Je n’envoie ce texte qu’à mes abonnés payants, peu désireux de le partager plus largement. S’il vous intéresse, je publierai la suite. Écrire sur Isa me fait du bien.*
 
 ### Vendredi 1<sup>er</sup>, Balaruc
 
