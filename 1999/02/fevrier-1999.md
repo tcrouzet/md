@@ -1,6 +1,6 @@
 # Février 1999
 
-*J’ai peu écrit dans mes carnets en février 1999. Isa et moi en étions tout à notre relation naissante, et je bouclais un livre à paraître en avril. Notre vie intime se révèle à travers nos mails, retrouvés par miracle dans des archives Outlook extraites avec un script Python. Je révèle ces textes sans retenue ni pudeur, comme si j’évoquais des étrangers. En même temps, des bouffées de bonheur me reviennent parce que c’était nous, balbutiant la partition que nous nous apprêtions à composer. Je suis heureux dans ce passé. Mon ami Philippe L, lui aussi frappé par la mort prématurée de sa compagne, me dit éprouver le même besoin de plonger dans les archives. Nous y trouvons du réconfort.*
+*J’ai peu écrit dans mes carnets en février 1999. Isa et moi en étions tout à notre relation naissante, et je bouclais un livre à paraître en avril. Notre vie intime se révèle à travers nos mails, retrouvés par miracle dans des archives Outlook extraites avec un script Python. Je révèle ces textes sans retenue ni pudeur, comme si j’évoquais des étrangers. En même temps, des bouffées de bonheur me reviennent parce que c’était nous, balbutiant la partition que nous nous apprêtions à composer. Je suis heureux dans ce passé. Mon ami Philippe L, lui aussi frappé par la mort prématurée de sa compagne, me dit éprouver le même besoin de plonger dans les archives. Nous y trouvons du réconfort. Et peut-être que vous aussi, ça reste une belle histoire malgré sa fin prématurée.*
 
 ### Mardi 2, Paris
 
@@ -28,7 +28,7 @@ Sujet: Pensées dominicales…
 Mon retour de chez toi a été doublement profitable. J’ai repensé à nos paroles sur l’amour et réalisé ne pas t’avoir dit toute la vérité en jurant que j’avais l’habitude de parler librement. Je t’ai parlé plus librement qu’avec nulle autre, jamais. Dire que ma franchise était habituelle était d’une part une vantardise, d’autre part une injustice envers toi : si je t’ai parlée aussi facilement, c’est grâce à toi, rien qu’à toi, et non à cause d’un prétendu talent ou entraînement.
 Plus je m’éloignais de chez toi, plus j’étais heureux de notre dialogue et plus je regrettais de t’avoir laissée loin de moi. Il me semblait ne pas t’avoir souhaitée une bonne nuit et un bon rétablissement. Puis, je repensais à nos paroles, et la joie revenait. Quel plaisir que parler, surtout quand nous avons des choses agréables à nous dire et que nous nous comprenons.
 Je marchais avec ces pensées quand une fringale m’a pris. J’ai acheté un sandwich grec près de la gare d’Austerlitz, dévoré tout en rentrant chez moi. Je me suis couché, j’ai regardé la télé, je me suis endormi. Je ne voulais plus penser pour ne pas briser le charme de cette journée.
-Au milieu de la nuit, je me suis éveillé, le sandwich grec ne passait pas, j’ai repensé à notre conversation et une idée a jailli. « Pourquoi elle ? » pourrait être le titre d’un livre construit sur le modèle de « Je me souviens » de Perec. Un homme se pose des questions sur sa femme, sur les femmes. Alors j’ai commencé à écrire en pensant à notre conversation.
+Au milieu de la nuit, je me suis réveillé, le sandwich grec ne passait pas, j’ai repensé à notre conversation et une idée a jailli. « Pourquoi elle ? » pourrait être le titre d’un livre construit sur le modèle de « Je me souviens » de Perec. Un homme se pose des questions sur sa femme, sur les femmes. Alors j’ai commencé à écrire en pensant à notre conversation.
 Pourquoi elle ne prend jamais l’initiative ?
 Pourquoi elle veut des enfants ?
 Pourquoi elle n’aime pas le football ?
@@ -56,10 +56,10 @@ Pourquoi elle m’aime ?
 Pourquoi elle ne m’aime plus ?
 Pourquoi elle n’aspire pas à la perfection ?
 Pourquoi elle accepte mon imperfection ?  
-Il faudrait aligner ainsi plusieurs centaines de questions et les femmes finiraient par mieux comprendre ce que les hommes ont dans la tête. Il faudrait aussi écrire « Pourquoi il ? » Mais ça, je n’ai pas encore assez d’expérience pour m’y essayer.
+Il faudrait aligner plusieurs centaines de questions et les femmes finiraient par mieux comprendre ce que les hommes ont dans la tête. Il faudrait aussi écrire « Pourquoi il ? » Mais ça, je n’ai pas encore assez d’expérience pour m’y essayer.
 Cette idée m’amuse et elle est autant de toi que de moi. J’espère que l’échange n’est pas unilatéral et que toi, de ton côté, tu as eu d’autres idées, d’autres pensées, d’autres rêves.
 Voilà où j’en étais quand tu m’as téléphoné.
-À toute.
+À toutes.
 ```
 
 ```
@@ -171,11 +171,11 @@ Je récupère Isabelle chez Microsoft aux Ulis et nous filons sous une pluie bat
 
 ### Samedi 13, Sologne
 
-Il pleut toujours. Nous quittons l’hôtel le plus tard possible, visitons Chambord et Chenonceaux, puis nous dirigeons vers le second B&B, plus acceptable. Le soir impossible de trouver un restaurant avec des places. Nous maudissons la Saint-Valentin. Nous roulons durant une heure avant de finir par acheter une pizza à un pizzaïolo stationné sur un parking. Nous la mangeons dans la voiture. Nous nous souviendrons de notre premier week-end en amoureux.
+Il pleut toujours. Nous quittons l’hôtel le plus tard possible, visitons Chambord et Chenonceaux, puis nous dirigeons vers le second B&B, plus acceptable. Le soir, impossible de trouver un restaurant avec des places. Nous maudissons la Saint-Valentin. Nous roulons durant une heure avant de finir par acheter une pizza à un pizzaïolo stationné sur un parking. Nous la mangeons dans la voiture. Nous nous souviendrons de notre premier week-end en amoureux.
 
 ### Dimanche 14, Sologne
 
-Retour vers Paris. Nous nous jurons de ne plus jamais remettre les pieds en Sologne tout comme de ne jamais fêter la Saint-Valentin. Les absurdités que les marketeux, collègues d’Isabelle, parviennent à nous faire avaler nous effarent.
+Retour vers Paris. Nous nous jurons de ne plus jamais remettre les pieds en Sologne tout comme de ne jamais fêter la Saint-Valentin. Nous sommes effarés par les absurdités que les marketeux, collègues d’Isabelle, parviennent à nous faire avaler.
 
 ### Lundi 15, Paris
 
