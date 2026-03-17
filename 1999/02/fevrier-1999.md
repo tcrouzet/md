@@ -18,6 +18,8 @@ Exposition Rothko avec Claire au palais de Tokyo. Toiles qui détruisent l’esp
 
 Isabelle, bien que grippée, m’invite au Rosebud, le bar sombre aux boiseries patinées près de chez elle où, les matins en semaine, elle prend son café avant de rouler vers Les Ulis. Je me souviendrai longtemps des œufs à la coque posés devant nous sur le comptoir. Les meilleurs du monde. Une dégustation érotique. Tremper les mouillettes dans le jaune me donnait des frissons. Nous n’étions dupes ni l’un ni l’autre.
 
+![Rosebud](_i/rosebud.webp)
+
 ### Dimanche 7, Paris
 
 ```
@@ -319,5 +321,7 @@ C’est le mieux, tu as raison.
 J’appelle!
 xxx
 ```
+
+![Seconde éditions bouclées](_i/internet1999.webp)
 
 #carnets #private #y1999 #1999-02-28-20h00
