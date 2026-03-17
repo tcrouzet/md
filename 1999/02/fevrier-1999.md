@@ -1,6 +1,6 @@
 # Février 1999
 
-*J’ai peu écrit dans mes carnets en février 1999. Isa et moi en étions tout à notre relation naissante, et je bouclais un livre à paraître en avril. Notre vie intime se révèle à travers nos mails, retrouvés par miracle dans des archives Outlook extraites avec un script Python. Je révèle ces textes sans retenue ni pudeur, comme si j’évoquais des étrangers. En même temps, des bouffées de bonheur me reviennent parce que c’était nous, balbutiant la partition que nous nous apprêtions à composer. Je suis heureux dans ce passé. Mon ami Philippe L, lui aussi frappé par la mort prématurée de sa compagne, me dit éprouver le même besoin de plonger dans les archives. Nous y trouvons du réconfort. Et peut-être que vous aussi, ça reste une belle histoire malgré sa fin prématurée.*
+*J’ai peu écrit dans mes carnets en février 1999. Isa et moi en étions tout à notre relation naissante, et je bouclais un livre à paraître en juin. Notre vie intime se révèle à travers nos mails, retrouvés par miracle dans des archives Outlook extraites avec un script Python. Je révèle ces textes sans retenue ni pudeur, comme si j’évoquais des étrangers. En même temps, des bouffées de bonheur me reviennent parce que c’était nous, balbutiant la partition que nous nous apprêtions à composer. Je suis heureux dans ce passé. Mon ami Philippe L, lui aussi frappé par la mort prématurée de sa compagne, me dit éprouver le même besoin de plonger dans les archives. Nous y trouvons du réconfort. Et peut-être que vous aussi, ça reste une belle histoire malgré sa fin prématurée.*
 
 ### Mardi 2, Paris
 
@@ -12,7 +12,7 @@ L’écriture se transforme dès la première publication, dès la première rel
 
 ### Jeudi 4, Paris
 
-Exposition Rothko avec Claire au palais de Tokyo. Toiles qui détruisent l’espace. Ces toiles ne me donnent aucune envie de peindre, mais me procurent un plaisir vibratoire.
+Exposition Rothko avec Claire au palais de Tokyo. Ces toiles qui détruisent l’espace ne me donnent aucune envie de peindre, mais me procurent un plaisir vibratoire.
 
 ### Samedi 7, Paris
 
