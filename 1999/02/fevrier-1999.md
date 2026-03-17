@@ -1,4 +1,4 @@
-## Février 1999
+# Février 1999
 
 *J’ai peu écrit dans mes carnets en février 1999. Isa et moi en étions tout à notre relation naissante, et je bouclais un livre à paraître en avril. Notre vie intime se révèle à travers nos mails, retrouvés par miracle dans des archives Outlook extraites avec un script Python. Je révèle ces textes sans retenue ni pudeur, comme si j’évoquais des étrangers. En même temps, des bouffées de bonheur me reviennent parce que c’était nous, balbutiant la partition que nous nous apprêtions à composer. Je suis heureux dans ce passé. Mon ami Philippe L, lui aussi frappé par la mort prématurée de sa compagne, me dit éprouver le même besoin de plonger dans les archives. Nous y trouvons du réconfort.*
 
