@@ -195,13 +195,11 @@ Je t’embrasse
 
 ### Lundi 8, Paris
 
-```
+**De:** Isabelle
 
-De: Isabelle
+**À:** Thierry
 
-À: Thierry
-
-Sujet: ce week-end
+**Sujet:** ce week-end
 
 Je peux être dispo vendredi à 16h30 (si si si si, tout est possible) et il faudra que je sois aux Ulis lundi matin, pas vraiment d’heure (vrai de vrai !).
 
@@ -209,75 +207,61 @@ J’ai du mal à m’y mettre…
 
 xxx
 
-```
+---
 
-```
+**De:** Thierry
 
-De: Thierry
+**À:** Isabelle
 
-À: Isabelle
-
-Sujet: RE: ce week-end
+**Sujet:** RE: ce week-end
 
 Je suis tout plein de toi. Je me suis rendormi, j’ai rêvé, le téléphone m’a réveillé. Je me demande comment je vais patienter jusqu’à demain avant de te revoir. En travaillant, mais je suis dans un état où le travail est presque impossible. Je vais essayer tout de même. En pensant à toi et en nous cherchant un nid douillet pour le week-end.
 
-```
-
 ### Mercredi 10, Paris
 
-```
+**De:** Thierry
 
-De: Thierry
+**À:** Isabelle
 
-À: Isabelle
-
-Sujet: un homme!
+**Sujet:** un homme!
 
 Je t’embrasse, je t’embrasse, je t’embrasse, je t’embrasse, partout, là où tu aimes le plus sans que je sache exactement où encore, alors je recommence, je t’embrasse, je t’embrasse, je t’embrasse, je t’embrasse, et quand je comprends où tu adores, je t’embrasse, je t’embrasse, je t’embrasse, je t’embrasse, et comme j’oublie dans l’instant où tu adores, je t’embrasse, je t’embrasse, je t’embrasse, je t’embrasse, à la recherche de là où tu adores. Mais bon, pour l’instant, je vais essayer de travailler. Non, je t’embrasse encore, encore, encore, encore.
 
-```
+---
 
-```
+**De:** Isabelle
 
-De: Isabelle
+**À:** Thierry
 
-À: Thierry
-
-Sujet: RE: un homme!
+**Sujet:** RE: un homme!
 
 mmmmmmmmmm
 
 Je t’attendais sans t’attendre, et maintenant, je t’attends vraiment !
 
-```
+---
 
-```
+**De:** Thierry
 
-De: Thierry
+**À:** Isabelle
 
-À: Isabelle
+**Sujet:** RE: un homme!
 
-Sujet: RE: un homme!
+Ta réponse exigera de longues, très longues explications… en attendant je te \[un verbe tendre de ton choix] encore, encore, encore…
 
-Ta réponse exigera de longues, très longues explications… en attendant je te [un verbe tendre de ton choix] encore, encore, encore…
+---
 
-```
+**De:** Isabelle
 
-```
+**À:** Thierry
 
-De: Isabelle
-
-À: Thierry
-
-Sujet: RE: un homme!
+**Sujet:** RE: un homme!
 
 heu…
 
 C’est le service technique de Microsoft qui va se régaler en découvrant nos mails. Mon PC est toujours en rade, je suis sur un PC de rechange.
 
 xxx
-
-```
 
 ### Vendredi 12, Sologne
 
@@ -301,45 +285,39 @@ Mon histoire d’amour avec Isabelle me dispense de mots. Tomber amoureux, c’e
 
 ### Mardi 16, Paris
 
-```
+**De:** Isabelle
 
-De: Isabelle
+**À:** Thierry
 
-À: Thierry
-
-Sujet: Mardi matin
+**Sujet:** Mardi matin
 
 Ma nuit était pleine des pensées de Cioran que tu m’as lues hier soir. Je n’en ai pas rêvé, donc je ne pense pas les avoir vraiment assimilées encore. En tout cas, elles ont repoussé tout rêve de Microsoft, ce qui est déjà un exploit, et elles m’accompagneront bien encore un petit bout de journée !
 
 Je t’embrasse…
 
-```
+---
 
-```
+**De:** Thierry
 
-De: Thierry
+**À:** Isabelle
 
-À: Isabelle
-
-Sujet: RE: mardi matin
+**Sujet:** RE: mardi matin
 
 Tu pourrais rêver des pensées de Cioran ? De Microsoft, je comprends, ça peut m’arriver, mais de Cioran, ou d’une pensée en général, jamais, ou alors je ne m’en souviens pas. J’ai très bien dormi jusqu’à 7h45 quand le réveil a sonné, j’avais oublié de le désactiver, ça m’a soudain rappelé une anomalie, tu n’étais pas à côté de moi.
 
 Je te câline.
 
-```
+---
 
 Isabelle a une formidable surpuissance cérébrale. Sa machine cognitive s’emboîte à la mienne. Elle est mon contraire, ce qui me manque désespérément. Un artiste peut-il vivre avec sa muse sans désastre ?
 
 ### Mercredi 17, Paris
 
-```
+**De:** Isabelle
 
-De: Isabelle
+**À:** Thierry
 
-À: Thierry
-
-Sujet: Mercredi midi
+**Sujet:** Mercredi midi
 
 J’ai vu un ange ce matin. Une postière aux cheveux blonds, longs. Je suis sûre que c’était un ange. Après, sur l’A6, j’ai vu un oiseau qui faisait du sur place, face au vent, sans bouger les ailes.
 
@@ -351,43 +329,35 @@ Enfin pas tous !
 
 J’ai hâte que tu me fasses à nouveau sourire, ce soir…
 
-```
-
 ### Jeudi 18, Paris
 
-```
+**De:** Thierry
 
-De: Thierry
+**À:** Isabelle
 
-À: Isabelle
-
-Sujet: e-mail secret!
+**Sujet:** e-mail secret!
 
 Il est presque treize heures et je n’ai fait que m’occuper de littérature. Bon, je vais me mettre au travail mais, avant, reçois des caresses partout.
 
 à toute…
 
-```
+---
 
-```
+**De:** Isabelle
 
-De: Isabelle
+**À:** Thierry
 
-À: Thierry
-
-Sujet: RE: e-mail secret!
+**Sujet:** RE: e-mail secret!
 
 Quand est-ce qu’on a dit qu’on partait en vacances au Maroc ? Et d’ailleurs, c’est ce qu’on a dit, ou bien je l’ai rêvé ?
 
-```
+---
 
-```
+**De:** Thierry
 
-De: Thierry
+**À:** Isabelle
 
-À: Isabelle
-
-Sujet: RE: e-mail secret!
+**Sujet:** RE: e-mail secret!
 
 Tu as dû le rêver, et moi aussi, c’est bizarre, non ?
 
@@ -395,43 +365,35 @@ On peut partir le 6 et toute la semaine suivante ou le 13, comme ça t’arrange
 
 A+++++++++++++++
 
-```
+---
 
-```
+**De:** Isabelle
 
-De: Isabelle
+**À:** Thierry
 
-À: Thierry
-
-Sujet: RE: e-mail secret!
+**Sujet:** RE: e-mail secret!
 
 Alors le 6 (le 18, c’est le lancement IE5, je ne manquerais ça pour rien au monde, quand même !), mais ça veut dire que je devrai bosser pas mal les week-ends qui précèdent (et annuler mon week-end à Nancy).
 
-```
-
 ### Vendredi 19, Paris
 
-```
+**De:** Thierry
 
-De: Thierry
+**À:** Isabelle
 
-À: Isabelle
-
-Sujet: Déjà une semaine
+**Sujet:** Déjà une semaine
 
 Je n’ai pas vu le temps passer depuis lundi. Il y a un instant on partait pour le week-end et déjà un autre arrive. C’est comme si durant la semaine on ne vivait pas suffisamment, comme si rien de fort ne venait se fixer dans notre mémoire. C’est un effet relativiste : le week-end était trop fort et a tout balayé. Alors il nous faut le recommencer encore et encore.
 
-PS: hier soir, tu as laissé ton maillot chez moi, mais tu dois en avoir toute une collection.
+*PS: hier soir, tu as laissé ton maillot chez moi, mais tu dois en avoir toute une collection.*
 
-```
-  
-```
+---
 
-De: Isabelle
+**De:** Isabelle
 
-À: Thierry
+**À:** Thierry
 
-Sujet: RE: Déjà une semaine
+**Sujet:** RE: Déjà une semaine
 
 C’est une collection, deux ?
 
@@ -442,8 +404,6 @@ Parce que là, pour du déjà vu…
 Je t’appelle ce soir,
 
 xxxx
-
-```
 
 ### Samedi 20, Paris
 
@@ -469,13 +429,11 @@ Je termine mon nouveau livre sur Internet. Je relis *Décalage*, documentaire su
 
 ---
 
-```
+**De:** Thierry
 
-De: Thierry
+**À:** Isabelle
 
-À: Isabelle
-
-Sujet: Maroc
+**Sujet:** Maroc
 
 On pourrait modifier notre programme.
 
@@ -491,15 +449,13 @@ On coupe le séjour en deux comme ça !
 
 A+
 
-```
+---
 
-```
+**De:** Isabelle
 
-De: Isabelle
+**À:** Thierry
 
-À: Thierry
-
-Sujet: RE: Maroc
+**Sujet:** RE: Maroc
 
 Tinerhir/Tombouctou: Lonely Planet dit la même chose que le Routard. Ça me dit, c’est parti. Le guide bleu confirme ce que disent les autres.
 
@@ -509,7 +465,7 @@ J’appelle!
 
 xxx
 
-```
+---
 
 ![Seconde éditions bouclées](_i/internet1999.webp)
 
