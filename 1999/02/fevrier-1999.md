@@ -28,7 +28,7 @@ Isabelle, bien que grippée, m’invite au Rosebud, le bar sombre aux boiseries 
 
 ==Sujet: Pensées dominicales…==
 
-Mon retour de chez toi a été doublement profitable. J’ai repensé à nos paroles sur l’amour et réalisé ne pas t’avoir dit toute la vérité en jurant que j’avais l’habitude de parler librement. Je t’ai parlé plus librement qu’avec nulle autre, jamais. Dire que ma franchise était habituelle était d’une part une vantardise, d’autre part une injustice envers toi : si je t’ai parlée aussi facilement, c’est grâce à toi, rien qu’à toi, et non à cause d’un prétendu talent ou entraînement.
+==Mon retour de chez toi a été doublement profitable. J’ai repensé à nos paroles sur l’amour et réalisé ne pas t’avoir dit toute la vérité en jurant que j’avais l’habitude de parler librement. Je t’ai parlé plus librement qu’avec nulle autre, jamais. Dire que ma franchise était habituelle était d’une part une vantardise, d’autre part une injustice envers toi : si je t’ai parlée aussi facilement, c’est grâce à toi, rien qu’à toi, et non à cause d’un prétendu talent ou entraînement.
 
 Plus je m’éloignais de chez toi, plus j’étais heureux de notre dialogue et plus je regrettais de t’avoir laissée loin de moi. Il me semblait ne pas t’avoir souhaitée une bonne nuit et un bon rétablissement. Puis, je repensais à nos paroles, et la joie revenait. Quel plaisir que parler, surtout quand nous avons des choses agréables à nous dire et que nous nous comprenons.
 
