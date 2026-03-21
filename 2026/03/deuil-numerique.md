@@ -65,9 +65,9 @@ Cette classe vit de la technologie sans s’y réduire. Elle cherche à utiliser
 
 Cette fenêtre d’opportunités se referme vite. Avant 2005, le numérique est encore un territoire à inventer. Après 2010, il est devenu infrastructure de consommation, et la tension créatrice qui animait cette classe se dissout dans la plateforme. Le type social qu’elle incarne n’a eu qu’une dizaine d’années d’existence pleine.
 
----
+### Notre histoire
 
-Après avoir demandé une chronologie de notre relation, j’ai demandé à NotebookLM de raconter chacune des grandes fenêtres temporelles. Il a commis de nombreuses erreurs et confusions comme des oublis flagrants. Il me paraît dangereux d’utiliser ces outils sur des sujets mal maîtrisés, comme le font souvent les étudiants. J’ai dû questionner, corriger, demander des sources pour qu’un texte cohérent finisse par émerger. J’ai réécrit de nombreux passages, tant la prose IA m’est devenue intolérable (j’espère l’avoir rendue supportable — j’écrirai d’une toute autre manière notre histoire quand je m’y attaquerai).
+Après avoir demandé une chronologie de notre relation, j’ai demandé à NotebookLM de raconter chacune des grandes fenêtres temporelles. Il a commis de nombreuses erreurs et confusions comme des oublis flagrants. Il me paraît dangereux d’utiliser ces outils sur des sujets mal maîtrisés, comme le font souvent les étudiants. J’ai dû questionner, corriger, demander des sources pour qu’un texte cohérent finisse par émerger. J’ai réécrit de nombreux passages, tant la prose IA m’est devenue intolérable (j’espère l’avoir rendue supportable — j’écrirai d’une toute autre manière notre histoire quand je m’y attaquerai, mais pas encore la force de m’y mettre).
 
 ### 1999
 
