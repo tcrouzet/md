@@ -186,6 +186,8 @@ Je pense à *Décalage*, à *Ne rien faire sans fainéanter*, à l’intertextua
 
 ![Gribouillage](_i/carnet19990124.webp)
 
+![Café français](_i/1999-01-24-163129.webp)
+
 ---
 
 Je marche durant six heures avec Isabelle. Nous ne cessons de parler. Complicité immédiate. Je pourrais l’aimer rien que pour sa santé mentale. Jamais rencontré une personne aussi pure et aussi intelligente. Elle me conseille de lire *Soie* d’Alessandro Baricco. Je pars l’acheter.
