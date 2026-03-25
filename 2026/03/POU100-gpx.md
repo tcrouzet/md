@@ -9,7 +9,7 @@ Les traces vous attendent que vous veniez les rouler avec nous les 4 et 5 avril 
 
 ![Les trois traces 2026](_i/mappou100-final.webp)
 
-Il reste des places pour le départ du 5 avril, mais nous sommes complets le samedi (je libérerai des places en cas de forfait, [n’hésitez pas à tenter votre chance sur Helloasso](https://www.helloasso.com/associations/ec-poussan/evenements/pou100-100-miles-100-km-ou-250km-gravel-de-poussan-2026)).
+Il reste des places pour le départ du dimanche 5 avril, mais nous sommes complets le samedi (je libérerai des places en cas de forfait, [n’hésitez pas à tenter votre chance sur Helloasso](https://www.helloasso.com/associations/ec-poussan/evenements/pou100-100-miles-100-km-ou-250km-gravel-de-poussan-2026)).
 
 Nous avons pris beaucoup de plaisir à concocter ces itinéraires, même si les prises de tête ont été nombreuses. Pas toujours simple de trouver du hors asphalte compatible avec les gravels, même les gravels modernes avec des pneus de 45 mm et plus.
 
