@@ -25,7 +25,7 @@ Fort de ce constat, un autre lecteur a décidé de publier chez lui, c’est\-à
 * Mobilité des données (avec l’exigence d’effectuer des backups — [ça reste le cas avec Substack, voilà pourquoi je l’utilise pour ma newsletter](https://tcrouzet.com/2025/11/25/substack-moral-choice/)).
 * Possibilité d’offrir de multiples formats (web, markdown, Gemini, mail, RSS…).
 
-OK, c’est un peu plus compliqué que sur Facebook ou Instagram, mais la liberté a toujours un prix : la simplicité se paye souvent d’une réduction des libertés. On nous dit toujours « les réseaux sociaux, c’est simple ». On nous dit moins souvent « les réseaux sociaux sont des dictatures ».
+OK, c’est un peu plus compliqué que sur Facebook ou Instagram, mais la liberté a toujours un prix. On nous dit toujours « les réseaux sociaux, c’est simple ». On nous dit moins souvent « les réseaux sociaux sont des dictatures ».
 
 ### L’indieWeb ou le web prétendument indépendant
 
@@ -41,9 +41,9 @@ Selon POSSE, il serait bon de diffuser tant et plus, par tous les moyens, mais c
 
 Je ne publie plus sur Facebook et consorts à cause de leur politique de filtrage, de leur technofascisme affiché, de leur promotion des fakenews, de leur capacité à me faire taire du jour au lendemain, de leur appropriation de mes données, de leur propension à m’abrutir… Je refuse de collaborer à ce système. Donc, non, il n’est plus question de syndiquer mes contenus aveuglément dans l’idée de maximiser ma visibilité.
 
-Je préfère être invisible et rester en accord avec mes valeurs. Je ne poursuis pas la connexion à tout prix. Je me fiche d’être mieux connecté. Je cherche seulement des connexions de qualité. [Voilà ce qui importe quand il nous arrive des coups durs dans la vie.](https://tcrouzet.com/tag/isa/) Je préfère dix messages écrits avec amour que des milliers de likes et de partages.
+Je préfère être invisible et rester en accord avec mes valeurs. Je ne poursuis pas la connexion à tout prix. Je cherche seulement des connexions de qualité. [Voilà ce qui importe quand il nous arrive des coups durs dans la vie.](https://tcrouzet.com/tag/isa/) Je préfère dix messages écrits avec amour que des milliers de likes et de partages.
 
-Par ailleurs, même quand nous publions chez nous, nous perdons le contrôle du référencement comme de ce que lecteurs et algorithmes font de nos contenus. Si par malheur nous syndiquons, nous contrôlons encore moins. À vrai dire, je me fiche du contrôle. Ça ne m’intéresse pas. Voilà pourquoi je publie sous licence libre.
+Par ailleurs, même quand nous publions chez nous, nous perdons le contrôle du référencement comme de ce que lecteurs et algorithmes font de nos contenus. Si par malheur nous syndiquons, nous contrôlons encore moins. À vrai dire, le contrôle ne m’intéresse pas. Voilà pourquoi je publie sous licence libre.
 
 Je tente de rester autonome, mais indépendant, surtout pas. J’ai besoin de vous, dépends de vous, et aujourd’hui que je suis veuf, plus que jamais. Je ne publie que parce que vous êtes là. L’indépendance est une chimère libéraliste. En un temps de dérèglements climatiques, l’indépendance est une idée à combattre. Je préfère prendre conscience de mes dépendances et cultiver celles qui me grandissent tout en m’opposant à celles qui réduisent nos libertés.
 
