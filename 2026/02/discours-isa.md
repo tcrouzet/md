@@ -70,4 +70,4 @@ Son testament, écrit après sa première chimiothérapie en juin 2024, se termi
 
 *PS : Isa était blessée quand j’oubliais son anniversaire. Les anniversaires comme les fêtes de fin d’année étaient pour elle des rituels importants. En moi, je l’entends rire aux éclats. J’ai décidé de rassembler ses amies et ses proches, de près ou de loin, le samedi 6 juin prochain à la maison. Isa aurait eu 56 ans. Nous parlerons d’elle, tresserons des liens, partagerons ses vêtements pour que chacun puisse de temps à autre porter un bout d’elle.*
 
-#autobiographie #y2026 #2026-02-28-13h00
+#autobiographie #isa #y2026 #2026-02-28-13h00

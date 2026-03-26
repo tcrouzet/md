@@ -147,4 +147,4 @@ L’année 2025 est une succession de phases turbulentes. L’échec de l’immu
 
 Le 29 janvier 2026, elle effectue son ultime retour vers Balaruc grâce à l’hospitalisation à domicile. Dans le silence de la maison qu’ils ont bâtie ensemble, Thierry assure la veille permanente, transformant leur foyer en sanctuaire. Isabelle s’éteint le 13 février 2026, mettant un point final à une correspondance de vingt-sept ans, laissant derrière elle le récit d’un couple qui, après avoir frôlé la rupture sous le soleil de Floride, s’est retrouvé et scellé dans l’épreuve absolue de la finitude.
 
-#netculture #ia #autobiographie #y2026 #2026-03-21-13h00
+#netculture #ia #isa #autobiographie #y2026 #2026-03-21-13h00
