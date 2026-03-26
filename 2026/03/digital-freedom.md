@@ -49,6 +49,6 @@ Je tente de rester autonome, mais indépendant, surtout pas. J’ai besoin de vo
 
 ![Violet : miroirs Jaune : backups Orange : Social](_i/crouzetmap.webp)
 
-*PS : Je ne sais où j’ai trouvé la force de cet article, peut-être parce que j’y rabâche des idées éculées, qui ne semblent pourtant pas encore évidentes pour tout le monde.
+*PS : Je ne sais où j’ai trouvé la force de cet article, peut-être parce que j’y rabâche des idées éculées, qui ne semblent pourtant pas encore évidentes pour tout le monde.*
 
 #netculture #y2026 #2026-03-26-20h30
