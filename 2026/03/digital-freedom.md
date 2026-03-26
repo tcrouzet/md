@@ -25,7 +25,7 @@ Fort de ce constat, un autre lecteur a décidé de publier chez lui, c’est\-à
 * Mobilité des données (avec l’exigence d’effectuer des backups — [ça reste le cas avec Substack, voilà pourquoi je l’utilise pour ma newsletter](https://tcrouzet.com/2025/11/25/substack-moral-choice/)).
 * Possibilité d’offrir de multiples formats (web, markdown, Gemini, mail, RSS…).
 
-OK, c’est un peu plus compliqué que sur Facebook ou Instagram, mais la liberté a toujours un prix. On nous dit toujours « les réseaux sociaux, c’est simple ». On nous dit moins souvent « les réseaux sociaux sont des dictatures ».
+OK, c’est un peu plus compliqué que sur Facebook ou Instagram, mais la liberté a un prix. On nous dit toujours « les réseaux sociaux, c’est simple ». On nous dit moins souvent « les réseaux sociaux sont des dictatures ».
 
 ### L’indieWeb ou le web prétendument indépendant
 
