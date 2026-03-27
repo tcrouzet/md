@@ -37,8 +37,8 @@ J’ai choisi le modèle Comp Carbon parce qu’il dispose d’un développement
 * Couronne de 38 contre le 40 à l’origine.
 * Manivelles Force 170 mm contre 172,5 à l’origine.
 * Roues alu troquées pour des Terra carbone.
-* Cintre Gera, de 460 mm, plus large et plus ergonomique que le 440 mm d’origine.
-* Selle Power qui m’a toujours défoncé le cul virée pour une [Ryet](https://fr.aliexpress.com/item/1005007572627178.html) de 105 g achetée en Chine (et qui convient à mon séant).
+* Cintre Gera de 460 mm, plus large et plus ergonomique que le 440 mm d’origine.
+* Selle Power inconfortable pour moi virée pour une [Ryet](https://fr.aliexpress.com/item/1005007572627178.html) de 105 g achetée en Chine (et qui convient à mon séant, pour le moment).
 * Potence de 60 mm contre 80 mm à l’origine.
 * Pneus de 50 mm, Terra à l’avant, Tracer à l’arrière (combo génial tout en étant léger).
 
