@@ -52,11 +52,17 @@ Après avoir vécu douze ans à Paris, quatre à Londres, encore un an à Paris,
 
 1998 - Création de bonweb.com, version en ligne de mon best-seller [*Le guide des meilleurs sites Web*](../books/vulgarisation/vulgarisation-1997-2003.md).
 
+1999 - Je rencontre Isabelle. 
+
 2000 - Initie la start-up Olympio, une maison d’édition en ligne (développe à cette occasion un convertisseur DOC -> livre Web).
 
-2000 - Début du travail sur [*Ératosthène*](../books/eratosthene/eratosthene.md).
+2000 - Construction de la maison. Avril déménagement à Londres avec Isabelle. Début du travail sur [*Ératosthène*](../books/eratosthene/eratosthene.md).
 
 2002 - Création de bonblog.com, plateforme de blog où je crachote quelques textes, sans conviction (je suis trop dans *Ératosthène*).
+
+2003 - Durant la canicule, j’écris *Bit, sex and bug* entre Londres et le Midi. En septembre, retour à Paris.
+
+2004 - Mariage avec Isabelle.
 
 [**2005 - Articles**](/2005)
 
@@ -242,6 +248,8 @@ Mars, création de [Genlog](http://genlog.tcrouzet.com/), expérience de littér
 
 Avril, je me débarrasse définitivement de WordPress.
 
+Mai, diagnostic du cancer d’Isabelle.
+
 Juin, début de [*Rush*](../books/rush.md).
 
 [**2025 - Articles**](/2025/)
@@ -255,6 +263,10 @@ Juin, publication d’[*Épicènes*](../books/epicenes.md) chez À la flamme.
 Juillet, début de *La Zone*.
 
 Novembre, publication de [*Rush*](../books/rush.md) chez PVH.
+
+[**2026 - Articles**](/2026/)
+
+Février, décès d’Isabelle.
 
 ### Interviews
 
