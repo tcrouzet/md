@@ -3,7 +3,7 @@ metatitle: "g727 : reco Costa Brava et Gérone"
 metadescription: "Reco de la g727 entre Perpignan et la Costa Brava: Gérone, Cadaqués, L'Escala sous 125km/h de vent. Un bikepacking trois étoiles en Catalogne."
 ---
 
-### De Perpignan à la Costa Brava : le g727 se prépare malgré 125 km/h de vent
+# De Perpignan à la Costa Brava : le g727 se prépare malgré 125 km/h de vent
 
 Avec le club nous partons chaque année en Espagne pour changer d’air, occasion cette fois de programmer des recos [g727 2026](https://727bikepacking.fr/g727-Grand-Depart/). Nous sommes garés à Perpignan avec l’intention d’aligner les kilomètres durant nos quatre jours d’escapade, mais le vent tempétueux, comme l’année dernière, en a décidé autrement.
 
