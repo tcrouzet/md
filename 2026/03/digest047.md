@@ -39,10 +39,10 @@ En 2025, les mers ont absorbé 91 % de l’énergie excédentaire piégée par 
 [Les cellules solaires réalisent l’impossible avec un rendement de 130 %](https://www.sciencedaily.com/releases/2026/03/260328024517.htm) • EN • 3 min  
 Des chercheurs japonais et allemands ont franchi la limite de Shockley-Queisser grâce à la fission singulet couplée à un complexe de molybdène. Chaque photon absorbé active en moyenne 1,3 porteur d’énergie, une première au niveau expérimental.
 
-[Seuls 13 pays ont un air sain. Trois d’entre eux sont en Europe](https://apple.news/AWP4rrI_sTdKJe2L5gvRY3Q) • EN • 2 min  
+[Seuls 13 pays ont un air sain. Trois d’entre eux sont en Europe](https://www.euronews.com/2026/03/24/only-13-countries-in-the-world-breathe-safe-air-three-of-them-are-in-europe) • EN • 2 min  
 La quasi-totalité des habitants de la planète est exposée à des concentrations de particules fines dépassant les seuils de l’OMS. La majorité des pays conformes à ces normes se trouvent dans des régions peu industrialisées.
 
-[L’électricité gratuite aux propriétaires plutôt que d’éteindre les éoliennes](https://apple.news/AGDL-dH0TQSuqGdoUZkTQ7Q) • EN • 2 min  
+[L’électricité gratuite aux propriétaires plutôt que d’éteindre les éoliennes](https://www.euronews.com/2026/03/27/european-country-vows-to-give-homeowners-free-electricity-instead-of-switching-off-wind-tu) • EN • 2 min  
 Plutôt que de brider la production lors des pics d’énergie renouvelable, pourquoi pas redistribuer l’excédent directement aux foyers. Une réponse pragmatique aux contraintes de distribution face à l’intermittence.
 
 [La théorie des cordes est-elle encore notre meilleur espoir pour une théorie du tout ?](https://www.quantamagazine.org/are-strings-still-our-best-hope-for-a-theory-of-everything-20260323/) • EN • 11 min  
