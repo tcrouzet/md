@@ -5,13 +5,13 @@ metadescription: "Reco de la g727 entre Perpignan et la Costa Brava: Gérone, Ca
 
 # De Perpignan à la Costa Brava : le g727 se prépare malgré 125 km/h de vent
 
-Avec le club nous partons chaque année en Espagne pour changer d’air, occasion cette fois de programmer des recos [g727 2026](https://727bikepacking.fr/g727-Grand-Depart/). Nous sommes garés à Perpignan avec l’intention d’aligner les kilomètres durant nos quatre jours d’escapade, mais le vent tempétueux, comme l’année dernière, en a décidé autrement.
+Avec le club de Poussan, nous partons chaque année en Espagne pour changer d’air, occasion cette fois de programmer des recos [g727 2026](https://727bikepacking.fr/g727-Grand-Depart/). Nous nous garons à Perpignan avec l’intention d’aligner les kilomètres durant nos quatre jours d’escapade, mais le vent tempétueux, comme l’année dernière, en décide autrement.
 
 ### Samedi 28
 
 De Perpignan, et précisément de Toulouges où nous avons un parking sécurisé, nous suivons le magnifique canal de Perpignan, bordé de platanes, jusqu’à rejoindre la trace plus à l’ouest. De là, nous fonçons plein sud vers les Pyrénées. La trace est roulante. Seule difficulté : la descente un peu défoncée vers La Conterrane et sa traversée à gué. Ça devrait être à sec en septembre. Le Canigou est blanc de neige, le vent nous pousse. Nous franchissons la chaîne à l’un de ses points bas, à 570 m, sous [le fort de Bellegarde](https://fr.wikipedia.org/wiki/Fort_de_Bellegarde).
 
-La descente vers l’Espagne s’effectue en toboggan, avec quelques coups de cul mémorables. Si vous roulez avec des développements gravel 40-46, vous risquez de souffrir (monté à minima un plateau de 38 ou de 36). Rassurez-vous : j’ai été le seul à mettre pied à terre dans un passage à plus de 20 %. Pas de souci, ça ne dure pas.
+La descente vers l’Espagne s’effectue en toboggan, avec quelques coups de cul mémorables. Si vous roulez avec des développements gravel 40-46, vous risquez de souffrir (montez de préférence un plateau de 38 ou de 36). Rassurez-vous : j’ai été le seul à mettre pied à terre dans un passage à plus de 20 %. Pas de souci, ça ne dure pas.
 
 Après [La Jonquera](https://fr.wikipedia.org/wiki/La_Jonquera), la trace devient plus bucolique, même si elle a nécessité quelques ajustements. Nous la quittons à la hauteur de Figueras pour filer vers l’est en direction de Rosas où nous avons notre hôtel.
 
@@ -37,7 +37,9 @@ Après [La Jonquera](https://fr.wikipedia.org/wiki/La_Jonquera), la trace devie
 
 ### Dimanche 29
 
-Nos téléphones sonnent et nous annoncent une alerte météo déconseillant les activités de plein air, avec des vents à plus de 120 km/h. Nous tentons de rejoindre [Cadaqués](https://fr.wikipedia.org/wiki/Cadaqu%C3%A9s) et d’esquisser la reconnaissance prévue pour le jour 2, mais nous rebroussons chemin.
+![Alerte](_i/alerte.png)
+
+Nos téléphones sonnent et nous annoncent une alerte météo déconseillant les activités de plein air, avec des vents à plus de 125 km/h. Nous tentons de rejoindre [Cadaqués](https://fr.wikipedia.org/wiki/Cadaqu%C3%A9s) et d’esquisser la reconnaissance prévue pour le jour 2, mais nous rebroussons chemin.
 
 ![J2](_i/2026-03-29-111026.webp)
 
@@ -93,7 +95,7 @@ Nous débouchons dans la plaine quand le vent nous reprend de face. Les quarante
 
 ![J3](_i/2026-03-30-154027.webp)
 
-Les copains ont fait cinquante bornes de moins que nous, mais autant de dénivelé, sur un des hauts lieux pour les fans de gravel. On ne perd jamais la mer de vue. C’est juste à couper le souffle. Après Cadaqués, la montée est sérieuse, sans que personne ne se plaigne. La descente vers [Port de la Selva](https://fr.wikipedia.org/wiki/El_Port_de_la_Selva) est roulante. En revanche, après Llança, la montée en direction du col de Banyuls a piqué les jambes de tout le monde. En septembre, après déjà 400 km de bikepacking, il ne faudra pas hésiter à pousser les vélos.
+Les copains ont fait cinquante bornes de moins que nous, mais autant de dénivelé, sur un des hauts lieux pour les fans de gravel. On ne perd jamais la mer de vue. Après Cadaqués, la montée est sérieuse, sans que personne ne se plaigne. La descente vers [Port de la Selva](https://fr.wikipedia.org/wiki/El_Port_de_la_Selva) est roulante. En revanche, après Llança, la montée en direction du col de Banyuls a piqué les jambes de tout le monde. En septembre, après déjà 400 km de bikepacking, il ne faudra pas hésiter à pousser les vélos.
 
 ![J3](_i/2026-03-31-184849.webp)
 
