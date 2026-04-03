@@ -13,7 +13,7 @@ Avant de répondre, une remarque. [Depuis la mort d’Isa](https://tcrouzet.com/
 
 Les amis me tendent leurs joues pour m’embrasser, en un geste d’effleurement pudique, voire ils me serrent la main. Ils me refusent leur chaleur. Depuis longtemps, notre amie [Isabelle Filliozat](https://fr.wikipedia.org/wiki/Isabelle_Filliozat) vante les bienfaits des câlins. Se prendre dans les bras durant une trentaine de secondes, c’est une transfusion d’humanité, de bonheur, d’énergie, de réconfort. Libération d’ocytocine — l’hormone du lien social —, baisse du cortisol — l’hormone du stress —, réduction de la pression artérielle, renforcement du système immunitaire (à condition de répéter souvent les hugs), diminution de l’anxiété, sentiment d’appartenance à l’humanité, régulation émotionnelle, renforcement de l’estime de soi… Les bénéfices sont innombrables, et j’en sens le manque cruel.
 
-Quand mes amis me téléphonent, m’écrivent ou tchattent avec moi, je suis heureux, mais moins que quand ils me serrent dans leurs bras et que je les serre dans les miens. Moins il y a d’intermédiaires entre eux et moi, mieux je respire. J’en arrive à formuler deux lois.
+Quand mes amis me téléphonent, m’écrivent ou tchattent avec moi, je suis heureux, mais moins que quand ils me serrent dans leurs bras et que je les serre dans les miens. J’en arrive à formuler une loi et un corollaire.
 
 >Moins il y a d’intermédiaires entre nous, plus nous sommes heureux.
 
@@ -21,7 +21,7 @@ Quand mes amis me téléphonent, m’écrivent ou tchattent avec moi, je suis he
 
 On me répond qu’il y a réseau social et réseau social. Nous savons que les grosses machines privatives se moquent de notre bien\-être ou de notre liberté d’expression. Mais même sur les marges, développées en logiciels libres, tout n’est pas rose. Une lectrice s’est fait virer d’une instance Mastodon au prétexte d’être trop féministe — donner du pouvoir à une personne et elle finit par en user (cf [affaire Wikipedia](https://tcrouzet.com/2014/10/15/wikipedia-est-devenu-un-astre-mort-sur-lequel-regnent-des-fantomes/)). Ma lectrice m’a alors vanté le réseau social [Nostr](https://fr.wikipedia.org/wiki/Nostr) où la liberté absolue serait garantie par une totale décentralisation. Je n’y crois pas. Dès qu’il y a des intermédiaires, techniques ou non, nous courons les risques de brouillages, d’interférences, de manipulations. En prime, la transfusion d’humanité que procure le hug se dilue, se délite, s’assèche.
 
-J’ai envie de réduire les intermédiaires. Je ne rêve pas d’un énième réseau social meilleur que les autres, j’ai envie de vous toucher, de vous approcher, de vous regarder dans les yeux. Je n’ai pas besoin que vous soyez des millions, mais que votre chaleur me provoque la chair de poule.
+J’ai envie de réduire les intermédiaires. Je ne rêve pas d’un énième réseau numérique meilleur que les autres, j’ai envie de vous toucher, de vous approcher, de vous regarder dans les yeux. Je n’ai pas besoin que vous soyez des millions, mais que votre chaleur me provoque la chair de poule.
 
 Si je devais commencer ma vie d’auteur aujourd’hui, je ferais exactement comme il y a quarante ans, en donnant à lire des textes à mes amis, en espérant qu’ils les donneront à leurs amis. Je m’appuierai sur les liens forts, je construirai un réseau humain.
 
