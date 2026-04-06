@@ -17,7 +17,7 @@ Fin de mise en exergue d’un des dérèglements du monde. Accroître le pourcen
 
 ![Salagou](_i/2026-04-04-121416-Clermont-lHraultetLacoste.webp)
 
-Je ne suis pas parfait. Je n’étais pas retourné dans la descente vers le Salagou depuis deux ans. Entre-temps, elle s’est beaucoup dégradée. Je n’aurais pas dû vous faire descendre là, surtout ceux qui viennent du vélo de route ([j’ai corrigé la trace de la POU100 pour ceux qui l’effectueront en ITT](https://www.visugpx.com/zgLFHkc0sP)).
+Je ne suis pas parfait. Je n’étais pas retourné dans la descente vers le Salagou depuis deux ans. Entre-temps, elle s’est beaucoup dégradée. Je n’aurais pas dû vous faire descendre là, surtout ceux qui viennent du vélo de route ([j’ai corrigé la trace pour ceux qui l’effectueront en ITT](https://www.visugpx.com/zgLFHkc0sP)).
 
 Pour le reste, l’itinéraire était gravel selon moi. J’ai roulé le premier jour à [15,4 km/h pour 2450 m de D+](https://www.strava.com/activities/17977323798), le second à [17,7 km/h pour 2100 m de D+](https://www.strava.com/activities/17990290787), des allures bien supérieures à celles que je tiens sur des parcours typés VTT. C’est la démonstration que la POU100 est un itinéraire gravel et non VTT.
 
@@ -45,11 +45,11 @@ Des participants m’ont maudit. Là se pose la question de ce qu’est un vélo
 
 ![Olargues](_i/2026-04-05-111454-Saint-JulienOlargues.webp)
 
-Il me paraîtrait logique que les courses exigent des vélos adaptés à nos territoires, c’est-à-dire dans toutes leurs imperfections et beautés. Au contraire, l’UCI pousse le gravel vers une pratique aseptisée, idéalisée, simplement facile à filmer. Selon moi, quand l’asphalte ou la terre battue assimilée est majoritaire, ce n’est plus du gravel. Je fais du vélo pour fuir les voitures et ne tolère que les petites routes désertes.
+Il me paraîtrait logique que les courses exigent des vélos adaptés à nos territoires, c’est-à-dire dans toutes leurs imperfections et beautés. Au contraire, l’UCI pousse le gravel vers une pratique aseptisée, idéalisée, facile à filmer. Selon moi, quand l’asphalte ou la terre battue assimilée est majoritaire, ce n’est plus du gravel.
 
 Reste que tout au long du POU100 je n’ai cessé de vous voir sourire. Le soleil était au rendez-vous, et vous avec votre bonne humeur. Les copains du club et moi avons essayé de vous faire découvrir des passages et des coins que nous aimons. Nous sommes égoïstes, vous savez. Nous organisons nos évènements parce qu’ils nous donnent des objectifs de sorties tout au long de l’année, puis nous permettent de vous rencontrer.
 
-Nous espérons vous retrouver [en mai sur le 727](https://727bikepacking.fr/727/), ce sera du VTT aventureux, et [fin septembre sur le g727 vers l’Espagne](https://727bikepacking.fr/g727/), qui sera gravel dans le même esprit que la POU100 (ne venez pas avec des pneus de moins de 42 mm, 50 mm sera un must).
+Nous espérons vous retrouver [en mai sur le 727](https://727bikepacking.fr/727/), ce sera du VTT aventureux, et [fin septembre sur le g727 vers l’Espagne](https://727bikepacking.fr/g727/), qui sera gravel dans le même esprit que la POU100 (ne venez pas avec des pneus de moins de 42 mm, 50 mm sera un must). Attention : il ne reste que 50 places pour le g727.
 
 ![Final](_i/2026-04-05-180759-Loupian.webp)
 
