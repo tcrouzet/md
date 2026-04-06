@@ -23,7 +23,7 @@ On me répond qu’il y a réseau social et réseau social. Nous savons que les 
 
 J’ai envie de réduire les intermédiaires. Je ne rêve pas d’un énième réseau numérique meilleur que les autres, j’ai envie de vous toucher, de vous approcher, de vous regarder dans les yeux. Je n’ai pas besoin que vous soyez des millions, mais que votre chaleur me provoque la chair de poule.
 
-Si je devais commencer ma vie d’auteur aujourd’hui, je ferais exactement comme il y a quarante ans, en donnant à lire des textes à mes amis, en espérant qu’ils les donneront à leurs amis. Je m’appuierai sur les liens forts, je construirai un réseau humain.
+Si je devais commencer ma vie d’auteur aujourd’hui, je ferais exactement comme il y a quarante ans, en donnant à lire des textes à mes amis, en espérant qu’ils les donneront à leurs amis. Je m’appuierais sur les liens forts, je construirais un réseau humain.
 
 Les réseaux sociaux numériques, en nous décorporant, sont une violence faite à l’humanité, une violence que depuis trop longtemps nous acceptons et à laquelle nous nous soumettons, comme s’il n’existait pas d’alternatives.
 
