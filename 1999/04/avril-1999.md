@@ -4,7 +4,6 @@ metadescription: "Printemps à Paris et en Périgord : amour naissant, essai sur
 ---
 
 # Avril 1999
-Ma première visite à Maillardou
 
 ### Jeudi 1<sup>er</sup>, Paris
 
@@ -20,13 +19,13 @@ Hamlet : « Il y a plus de choses au ciel que sur la Terre. » Voilà ce que 
 
 ### Samedi 3, Maillardou
 
-Isabelle lit *De toujours à jamais* et y découvre des incohérences quand on se place du point de vue des personnages. Quand l’un d’eux ferme les yeux, Isabelle me dit que la description ne peut plus être visuelle, alors que pour moi c’est l’écrivain qui voit, pas ses personnages.
+Isabelle lit *De toujours à jamais* et y découvre des incohérences quand on se place du point de vue des personnages. Quand l’un ferme les yeux, Isabelle me dit que la description ne peut plus être visuelle, alors que pour moi c’est l’écrivain qui voit, pas ses personnages.
 
-J’ai toujours en ligne de mire le mensonge romanesque. Je ne cherche pas à être réaliste. Mais je comprends que ça puisse emmerder un lecteur. Tout ça ne me donne pas envie de revenir au roman. Quand j’écris ici, tout est vraisemblable, vécu dans l’instant, même mes pensées défectueuses. Isabelle me démontre l’échec de mon vieux projet romanesque, puisque d’un côté je voulais écrire un roman réaliste, de l’autre le roman du roman, c’est-à-dire raconter son écriture.
+J’ai toujours en ligne de mire le mensonge romanesque. Je ne cherche pas à être réaliste. Mais je comprends que ça puisse emmerder le lecteur. Tout ça ne me donne pas envie de revenir au roman. Quand j’écris ici, tout est vraisemblable, vécu dans l’instant, même mes pensées défectueuses. Isabelle me démontre l’échec de mon vieux projet romanesque, puisque d’un côté je voulais écrire un roman réaliste, de l’autre le roman du roman, c’est-à-dire raconter son écriture.
 
 ---
 
-Je m’intéresse aux choses plus qu’aux gens.
+Je m’intéresse aux choses plus qu’aux gens. Constat terrible.
 
 ---
 
@@ -36,11 +35,13 @@ Le but du dessin n’est pas de représenter mais d’apprendre à regarder le m
 
 ---
 
-Toutes les métaphysiques sont convertibles les unes aux autres. Le pluralisme intègre le monisme qui lui-même peut se diviser en pluralisme.
+Les métaphysiques sont convertibles les unes aux autres. Le pluralisme intègre le monisme qui lui-même peut se diviser en pluralisme.
 
 ---
 
 Le XX<sup>e</sup> siècle aura découvert que la question « un arbre est-il une chose ? » n’a aucun intérêt. Qu’est-ce qu’une chose ? La réponse ne peut être que relative à une scolastique.
+
+*Note (7/4/2026) : je demande aux IA de m’expliquer ce que je voulais dire. « Le terme chose (Res en latin, Ding en allemand) est l'un des concepts les plus fondamentaux, et les plus problématiques, de la métaphysique occidentale. Pour la scolastique médiévale, Res désigne tout ce qui a de l'être, toute entité douée d'une essence. Une chose est ce qui est et peut être défini par ses propriétés substantielles. C'est contre cette tradition que la citation se positionne. Kant distingue Ding an sich (chose en soi)/phénomène : nous n'accédons jamais à la chose telle qu'elle est indépendamment de notre perception. La choséité devient déjà relative à une structure cognitive. Pour Wittgenstein, ce qu'on appelle chose dépend des jeux de langage : la même entité est une ressource pour l'économiste, un habitat pour l'écologue, un sujet pour le droit, une forme pour le sculpteur. Dans ton texte, tu dis que le XX<sup>e</sup> siècle a produit une convergence critique : la question « un arbre est-il une chose ? » n'est pas vide parce que la réponse est évidente, mais parce que la question elle-même n'est pas neutre. Elle présuppose un cadre ontologique particulier, une _scolastique_ au sens large : un système de catégories, un vocabulaire, une tradition institutionnelle de pensée. Répondre oui ou non ne fait qu'exhiber à quelle scolastique on appartient : Oui → ontologie des substances, tradition aristotélicienne ; Non → philosophie des processus, phénoménologie, pensée des systèmes. La question est donc auto-référentiellement piégée : elle ne peut être posée que depuis l'intérieur d'un cadre qui détermine déjà sa réponse. Ta citation ne dévalue pas la philosophie, elle dévalue l'universalité prétendue de ses catégories de base.*
 
 ![Maillardou, le chêne](_i/1999-04-03-171615.webp)
 
@@ -70,13 +71,13 @@ Le bonheur est-il possible durant une hyperconscience ? Un hyperbonheur ? L’
 
 ![Isabelle](_i/1999-04-04-175858.webp)
 
-![Monpazier](_i/1999-04-04-181114.webp)
+![Monpazier, panoramique](_i/1999-04-04-181114.webp)
 
 ![Monpazier](_i/1999-04-04-181729.webp)
 
 ![Monpazier](_i/1999-04-04-182036.webp)
 
-*Note (6/4/2026) : ces dessins me rappellent cet après-midi sublime. Nous étions côte à côte, ensemble, en communion. Isa lisait, me parlait de ce qu’elle lisait, me regardait dessiner, commenter. Nous étions en train de découvrir la symbiose coopérative de la suite de nos vies.*
+*Note (6/4/2026) : ces dessins me rappellent cet après-midi sublime. Nous étions côte à côte, ensemble, en communion. Isa lisait, me parlait de ce qu’elle lisait, me regardait dessiner, commentait. Nous étions en train de découvrir notre symbiose coopérative.*
 
 ### Lundi 5, Maillardou
 
@@ -128,9 +129,9 @@ xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
 ### Samedi 10, Paris
 
-Film : [*Trois ponts sur une rivière*](https://fr.wikipedia.org/wiki/Trois_Ponts_sur_la_rivi%C3%A8re). Ce n’est pas un chef-d’œuvre, loin de là, mais fait avec l’intention de l’être, c’est déjà ça. Deviner cette intention me rend heureux, me donne de la force pour mes recherches. Nous voulons aller plus loin, sans rabâcher les formes éculées, nous essayons de trouver la nôtre, ce qui explique l’imperfection et l’inachèvement.
+Film : [*Trois ponts sur une rivière*](https://fr.wikipedia.org/wiki/Trois_Ponts_sur_la_rivi%C3%A8re). Ce n’est pas un chef-d’œuvre, mais fait avec l’intention de l’être, c’est déjà ça. Deviner cette intention me rend heureux, me donne de la force pour mes recherches. Nous voulons aller plus loin, sans rabâcher les formes éculées, nous essayons de trouver la nôtre, ce qui explique l’imperfection et l’inachèvement.
 
-Voilà où nous conduit le rejet des écoles : nous sommes seuls. La plupart des spectateurs préfèrent un film réussi à un film qui cherche à inventer. Je préfère l’échec de celui qui a pris des risques. Pourquoi raconter une histoire déjà connue ? Nous devons essayer de parler de ce qui nous échappe. On ne sait pas comment ça commence ou finit. On le vit tout simplement.
+Voilà où nous conduit le rejet des écoles : nous sommes seuls. La plupart des spectateurs préfèrent un film réussi à un film qui cherche à inventer. Je préfère l’échec de celui qui a pris des risques. Pourquoi raconter une histoire déjà connue ? J’essaie de parler de ce qui nous échappe. On ne sait pas comment ça commence ou finit. On le vit tout simplement.
 
 Hier, nous voyons *Paris nous appartient* de Rivette. Là aussi il était question de ce qui ne peut se dire, de façon trop didactique peut-être.
 
@@ -138,7 +139,7 @@ Hier, nous voyons *Paris nous appartient* de Rivette. Là aussi il était questi
 
 Passé l’après-midi à colorier de multiples fois ma vue panoramique de Monpazier. Une possibilité nouvelle offerte au peintre : il peut se repentir et découvre la littérarité picturale. Grâce à la retouche d’image, la peinture entre dans la temporalité.
 
-Au XIX<sup>e</sup> siècle, le roman était plus théâtral, ou plus proche du jeu de rôle. On le lisait à voix haute devant ses amis, c’était l’occasion de bonnes soirées. C’est aujourd’hui impensable. On va au cinéma ou regarde la télé. On manque de patience. Nous sommes saturés d’histoires.
+Au XIX<sup>e</sup> siècle, le roman était plus théâtral, ou plus proche du jeu de rôle. On le lisait à voix haute devant ses amis en soirée. C’est aujourd’hui impensable. On va au cinéma ou regarde la télé. On manque de patience. Nous sommes saturés d’histoires.
 
 Demain, on m’arrache mes deux dernières dents de sagesse. Est-ce la fin de ma jeunesse ? Je repense à ma dernière entrevue avec P. Conversation stérile dans une brasserie du VII<sup>e</sup>, un jour d’automne 1998. Nous ne nous reverrons peut-être plus. Est-ce ainsi la vie ? Une autre histoire commence. Aurons-nous après la force de nous retrouver face à face ?
 
@@ -148,7 +149,7 @@ La dernière lettre de Louise Colet à Flaubert, ma dernière rencontre avec P, 
 
 ### Mardi 13, Paris
 
-Dans deux heures, je me fais charcuter les dents. Les deux monceaux de moi-même en moins altéreront-ils ma conscience ? La douleur le fera plus certainement. Quelle autre transformation plus intime surviendra ? Mes dents stimulaient peut-être mon cerveau.
+Dans deux heures, je me fais charcuter les dents. Les deux monceaux de moi-même en moins altéreront-ils ma conscience ? La douleur le fera plus certainement. Quelle autre transformation plus intime surviendra ? Mes dents stimulaient-elles mon cerveau ?
 
 Peu à peu les tables du café se remplissent. Les garçons vont et viennent. Une jeune fille téléphone sur un air de musique. Je suis épuisé de décrire, de percevoir, j’accumule des sensations au point d’exploser, j’ai besoin de dormir, de me fabriquer un autre regard.
 
@@ -164,7 +165,7 @@ Des nuages par la suite.
 
 ### Jeudi 15, Paris
 
-Carus et de nombreux romantiques voulaient peindre l’histoire naturelle plutôt que politique. Je cherche à peindre celle d’un homme, moi-même, et de son regard sur le monde. Observer la nature, mes semblables, leurs œuvres, c’est étudier ce qui agite le monde et le constitue à des niveaux structurels différents.
+Carus et de nombreux romantiques voulaient peindre l’histoire naturelle plutôt que politique. Je cherche à peindre celle d’un homme, moi-même, et de son regard sur le monde. Observer la nature, mes semblables, leurs œuvres, une façon d’étudier ce qui agite le monde et le constitue à des niveaux structurels différents.
 
 ### Samedi 17, Paris
 
@@ -176,7 +177,7 @@ Je ne suis pas dans mon assiette. Est-ce à cause des antibiotiques pour mes den
 
 Épuisé par le travail. Je m’avachis quai de l’Arsenal, sous un faible soleil. Un passant, touché par mon laisser-aller, me demande : « Vous êtes chômeur ? » Moi : « Non, je regrette le temps où je l’étais. C’était la plus belle époque de ma vie. » Le passant s’éloigne, peu satisfait de ma réponse.
 
----
+![Quai de l’Arsenal thumb](_i/1999-04-19-183611.webp)
 
 Dans *Lipstick Traces*, Greil Marcus décrit la révolte des punks contre le travail, l’argent, les conventions, l’ordre établi, les privilèges. Du danger de réédifier l’histoire, de vouloir prêter à ses acteurs passés des intentions qu’ils n’avaient pas. Les punks que j’ai connus étaient beaucoup plus primaires, révoltés oui, mais sans grande idéologie politique.
 
@@ -188,21 +189,21 @@ Ma légère douleur aux dents m’empêche de penser. Je reste à la surface. Un
 
 Je me traîne jusqu’au café des Phares. Touristes, soleil vague, vague à l’âme. Pourquoi écrire ? Pour chercher quoi ?
 
-![Quai de l’Arsenal thumb](_i/1999-04-19-183611.webp)
-
 ### Jeudi 22, Paris
 
 Je ne dessine que pour observer le monde. J’écris pour la même raison, surtout ici dans le carnet. Ma conscience décroche de mon corps, le survole avec détachement. Isabelle me raconte qu’enfant elle réussissait à se décorporer. « Je me cachais dans l’angle supérieur de ma chambre et je me regardais. Il ne pouvait plus rien m’arriver. »
 
-*Note (23/3/2026) : Isa a peut-être quitté son corps avant de mourir et qu’elle me regarde maintenant. J’aimerais tant lui envoyer des signaux, lui montrer les dessins retrouvés, et la mémoire de notre jeunesse qui revient.*
+*Note (23/3/2026) : Isa a peut-être quitté son corps avant de mourir. Elle me regarde maintenant. J’aimerais tant lui envoyer des signaux, lui montrer les dessins retrouvés, et la mémoire de notre jeunesse qui revient.*
 
-Mes dessins ne peuvent tenir seuls. Impossible de les dire artistiques, pas plus que les points ou les virgules dans mes phrases. Le carnet est l’œuvre, pas ses composantes. Comme toute œuvre, il n’existe que par le discours qui l’entoure. Pour le moment, je suis le seul à en parler.
+Mes dessins ne peuvent tenir seuls. Impossible de les dire artistiques, pas plus que les points ou les virgules dans mes phrases. Le carnet est l’œuvre, pas ses composantes. Comme toute œuvre, il n’existe que par le discours qui l’entoure. Pour le moment, je suis le seul qui en parle.
 
-Je gribouille des paysages, de minuscules aquarelles, pendant que les peintres de mon époque taguent les murs de couleurs explosives. Je suis discret pendant qu’ils veulent être vus. Ils se trompent, tout le monde se trompe, personne ne comprend ce qui est important, là, maintenant. Il ne restera peut-être que des photos de la fin du XX<sup>e</sup> siècle.
+Je gribouille des paysages, de minuscules aquarelles, pendant que les peintres de mon époque taguent les murs de couleurs explosives. Je suis discret pendant qu’ils veulent être vus. Ils se trompent, tout le monde se trompe, personne ne comprend ce qui importe, là, maintenant. Il ne restera peut-être que des photos de la fin du XX<sup>e</sup> siècle.
 
 Goethe avait le projet d’unir l’art et la science. J’en reste là. Ne délaisser aucune activité de l’esprit, aucune de celles qui provoquent des plaisirs. Sans oublier l’amour, travaillé par Goethe jusqu’à son dernier souffle.
 
 Établir des barrières entre les genres est grotesque. Une peinture comme une photo deviennent des images manipulables sur ordi. Les barrières d’hier sautent avant celles d’aujourd’hui.
+
+---
 
 L’ordi : outil pour tendre vers l’universel. Je cherche à juxtaposer textes et dessins, sans qu’une solution ne s’impose longtemps. J’écarte les montages de Delacroix dans ses carnets. Je cherche une forme éditable, transposable.
 
@@ -230,7 +231,7 @@ Longue promenade avec Isabelle dans les rues de Paris. Nous nous arrêtons dans 
 
 ### Mardi 27, TGV
 
-Pourquoi l’homme est-il aussi différent des singes et des gorilles alors que nous avons la même origine ? Que s’est-il passé pour nous ? Elaine Morgan relève que les différences entre les trois espèces devraient être égales. C’est oublier qu’un petit accident a produit chez l’homme une rupture de continuité : une émergence. Pour Morgan, la différence proviendrait de l’isolement de nos ancêtres dans un environnement lacustre.
+Pourquoi l’homme est-il aussi différent des singes et des gorilles alors que nous avons la même origine ? Que s’est-il passé pour nous ? Elaine Morgan relève que les différences entre les trois espèces devraient être égales. Un petit accident a produit chez l’homme une rupture de continuité : une émergence. Pour Morgan, la cause en serait l’isolement de nos ancêtres dans un environnement lacustre.
 
 ![TGV](_i/1999-04-27-184741.webp)
 
@@ -246,13 +247,13 @@ La théorie d’Elaine Morgan : la mer envahit la forêt, les singes se laissen
 
 ### Vendredi 30, Balaruc
 
-Jean-Pierre Le Bail me dit avoir toujours voulu peindre les 101 vues du mont Saint-Clair en hommage à Hokusaï. J’ai la même idée, j’ai même déjà produit quelques aquarelles.
+Jean-Pierre Le Bail me dit avoir toujours voulu peindre les 101 vues du mont Saint-Clair en hommage à Hokusaï. J’ai la même idée, j’ai déjà produit quelques aquarelles.
 
 ![Projet 101 vues](_i/1999-04-30-185201.webp)
 
 Ce matin, je m’éveille avec l’idée d’un texte qui opposerait à chacune des vues du mont Saint-Clair un texte : *Contre la peinture abstraite*. Alors je commence à l’écrire.
 
-1/ Par abstrait, on entend communément un art qui ne cherche pas à figurer. Cette définition n’exclut pas toute la figuration : les BD de fiction, sans être abstraites, ne figurent souvent pas le monde mais le réinventent et figurent un monde possible. Une définition plus générale de l’abstraction serait : un art qui ne représente pas. Dans ce cas, un peintre expressionniste qui traduit en taches de couleur ses états d’âme ne serait pas abstrait. Mesurer le degré d’abstraction d’une œuvre est quasi impossible.
+1/ Par abstrait, on entend communément un art qui ne cherche pas à figurer. Cette définition n’exclut pas toute la figuration : les BD de fiction, sans être abstraites, ne figurent souvent pas le monde mais le réinventent et figurent un monde possible. Une définition plus générale de l’abstraction serait : un art qui ne représente pas. Dans ce cas, un peintre expressionniste qui traduit en taches de couleur ses états d’âme ne serait pas abstrait. Mesurer le degré d’abstraction d’une œuvre est impossible.
 
 ![Delacroix](_i/1999-04-30-185342.webp)
 
@@ -272,7 +273,7 @@ Prenez n’importe quelle toile figurative, agrandissez une parcelle, vous obten
 
 3/ Les modernes s’intéressent aux combinaisons chromatiques inexplorées. Ils étudient le monde, s’entraînent et nous entraînent à mieux voir les harmonies discrètes et subtiles de la lumière. Cette première investigation achevée, ils cherchent à traduire directement en couleurs leurs émotions et leur vitalité, d’où l’expressionnisme. Il subsiste une tension vers le monde, celui de notre esprit et de nos passions, mais elle devient plus subjective, donc moins communicable. La représentation d’un état d’âme ne nous aide pas à prendre conscience de nos propres états d’âme que si nous avons une connivence préalable avec l’artiste. Les œuvres renoncent à l’universalité. Les artistes se bâtissent des cénacles d’admirateurs.
 
-D’une certaine façon, les primitifs tentaient de traduire leur ferveur religieuse. Ils représentaient des visages tordus de douleur, le Christ ensanglanté sur la croix ou des scènes de bataille. Ils utilisaient un code explicite et familier, celui des corps. Leurs œuvres visaient l’universel symbolisé par Dieu.
+Les primitifs tentaient de traduire leur ferveur religieuse. Ils représentaient des visages tordus de douleur, le Christ ensanglanté sur la croix ou des scènes de bataille. Ils utilisaient un code explicite et familier, celui des corps. Leurs œuvres visaient l’universel symbolisé par Dieu.
 
 Durant la Renaissance, on dit moins explicitement la douleur : la peinture renonce à l’expression directe, devient plus narrative et plus littéraire, plus universelle encore dans ses visées. À partir du maniérisme, les émotions extrêmes réapparaissent jusqu’à revenir en force à l’époque romantique. Sur cette lancée se constitue la modernité. Van Gogh culmine dans la violence figurative. Pour aller plus loin, il faut malmener la figuration, voire la détruire, au risque de ne plus être compris. Les premiers expressionnistes découvrent des raccourcis simples, les suivants se spécialisent, réduisent le cénacle des initiés.
 
