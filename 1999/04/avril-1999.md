@@ -103,11 +103,11 @@ Je lis quelques pages du journal de voyage de M au Mexique. Style télégraphiqu
 
 ### Vendredi 9, Paris
 
-De: Thierry
+**De:** Thierry
 
-À: Isabelle
+**À:** Isabelle
 
-Sujet: Le smiley juste!
+**Sujet:** Le smiley juste!
 
 Voici un petit bisou
 
@@ -119,11 +119,11 @@ En voici un gros
 
 ---
 
-De: Isabelle
+**De:** Isabelle
 
-À: Thierry
+**À:** Thierry
 
-Sujet: RE: Le smiley juste!
+**Sujet:** RE: Le smiley juste!
 
 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 
