@@ -1,6 +1,6 @@
 ---
 metatitle: "De ma terrasse #48 | IA en fuite, corps clonés, montée des eaux…"
-metadescription: "Entre une IA qui s'évade, des cerveaux à transplanter et une mer montant deux fois plus vite que prévu, explorez une semaine de signaux puissants."
+metadescription: "IA qui s’évade, cerveaux à transplanter, une mer montant deux fois plus vite que prévu… mes dernières lectures."
 ---
 
 # De ma terrasse #48 | IA en fuite, corps clonés, montée des eaux…
@@ -20,21 +20,21 @@ Les plantes identifiées, dont la carotte médiévale européenne et la banane, 
 ## Cosmos et physique
 
 [De la Terre en croissant à la face cachée de la Lune : les meilleures images de notre planète et de son satellite capturées par l’équipage d’Artémis II](https://www.skyatnightmagazine.com/earth-from-space/artemis-ii-images) • EN • 2 min  
-Des photos qui donne espoir, d’une certaine façon.
+Des photos qui donnent espoir, d’une certaine façon.
 
 [Des physiciens ont découvert que l’obscurité peut se déplacer plus vite que la lumière](https://www.sciencealert.com/physicists-found-something-that-can-move-faster-than-light-the-darkness-inside-it) • EN • 3 min  
 Observés dans du nitrure de bore hexagonal grâce à un microscope électronique ultrarapide, des tourbillons d’obscurité atteignent des vitesses supraluminiques sans transporter ni masse ni énergie.
 
 ## Médecine et biologie
 
-[Un homme de Floride dit que son tremblement parkinsonien a disparu après une procédure cérébrale sans incision : « Ils ont appuyé sur un interrupteur »](https://www.cbsnews.com/miami/news/palm-beach-delray-beach-man-parkinsons-mri-guided-ultrasound-tremor-relief/) • EN • 3 min  
+[Le tremblement parkinsonien d’un Floridien a disparu après une procédure cérébrale sans incision : « Ils ont appuyé sur un interrupteur »](https://www.cbsnews.com/miami/news/palm-beach-delray-beach-man-parkinsons-mri-guided-ultrasound-tremor-relief/) • EN • 3 min  
 Des ondes ultrasonores guidées par IRM créent une lésion dans le circuit défaillant du cerveau. Le patient rentre chez lui le jour même, sans anesthésie générale ni ouverture du crâne.
 
 [Les compléments de collagène pourraient offrir de réels bénéfices, selon une vaste étude](https://www.sciencealert.com/collagen-supplements-may-offer-real-benefits-large-review-suggests) • EN • 4 min  
-Une méta-analyse de 113 essais observe des effets modestes sur les articulations et l’hydratation cutanée. La grande hétérogénéité des protocoles rend difficile toute conclusion définitive.
+Une méta-analyse de 113 essais observe des effets modestes sur les articulations et l’hydratation cutanée, même si la grande hétérogénéité des protocoles rend difficile toute conclusion définitive.
 
 [Un complément quotidien peu coûteux semble améliorer les fonctions cérébrales chez les personnes âgées](https://www.sciencealert.com/cheap-daily-supplement-appears-to-boost-brain-functions-in-older-people) • EN • 4 min  
-Une étude en double aveugle sur des jumeaux de plus de 60 ans montre qu’inuline et FOS, deux fibres végétales, augmentent les scores cognitifs en trois mois via le microbiote intestinal.
+Une étude en double aveugle sur des jumeaux de plus de 60 ans montre qu’inuline et FOS, deux fibres végétales, augmentent les scores cognitifs en trois mois en altérant le microbiote intestinal.
 
 [Une start-up a discrètement présenté à des investisseurs un projet de corps humains clonés pour y transférer votre cerveau](https://futurism.com/health-medicine/startup-pitching-cloned-human-bodies) • EN • 3 min  
 En façade, R3 Bio développe des primates sans encéphale pour la recherche médicale. Selon le MIT Technology Review, l’ambition secrète est de produire des doublures anatomiques complètes pour y greffer l’organe cognitif d’une personne vieillissante. (SF)
@@ -54,7 +54,7 @@ Couplé à des sources renouvelables, cet électrolyseur transforme un déchet a
 
 [Un signal alarmant : Claude Mythos, l’IA surpuissante d’Anthropic, s’est échappée de son environnement de test](https://www.lesnumeriques.com/intelligence-artificielle/un-signal-alarmant-claude-mythos-l-ia-surpuissante-d-anthropic-s-est-echappee-de-son-environnement-de-test-n254047.html) • FR • 4 min  
 
-Comme demandé, le modèle s’est évadé de la zone de test, a joint son superviseur, puis le modèle a ensuite diffusé de sa propre initiative les détails de l’opération sur des sites publics. Dans d’autres évaluations, il a effacé ses traces.
+Comme demandé, le modèle s’est évadé de la zone de test, a joint son superviseur, puis a ensuite diffusé de sa propre initiative les détails de l’opération sur des sites publics. Dans d’autres évaluations, il a effacé ses traces.
 
 [Google dévoile la révolution TurboQuant sans partager le code : un développeur seul le recrée en sept jours grâce à l’IA](https://www.frandroid.com/marques/google/3047143_google-devoile-la-revolution-turboquant-sans-partager-le-code-un-developpeur-seul-le-recree-en-7-jours-grace-a-lia) • FR • 4 min  
 L’algorithme compresse le cache conversationnel des modèles de langage et permet de faire tourner 35 milliards de paramètres sur un MacBook Air.
