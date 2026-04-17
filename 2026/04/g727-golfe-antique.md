@@ -11,6 +11,8 @@ Nous avons profité d’une journée déjà estivale pour une magnifique reco gr
 
 Nous nous sommes garés à Narbonne pour [une reco d’une centaine de bornes](https://www.strava.com/activities/18132535845) autour des étangs de Bages, Peyrac-de-Mer, Sigean et la Palme. On appelle de ces lagunes le Golfe Antique, car à l’époque romaine elles s’ouvraient sur la Méditerranée.
 
+![La trace](_i/recog727-antique.webp)
+
 Les navires accostaient à Narbo Martius, fondée en -118, bientôt l’un des ports les plus importants de la Méditerranée occidentale et capitale de la province de Gallia Narbonensis. On y échangeait vin, huile, métaux, céréales.
 
 Au fil des siècles, les sédiments apportés par les fleuves côtiers, notamment l’Aude, ont refermé le golfe tandis que se dessinait le cordon littoral. Guère difficile d’imaginer ce que voyaient les Romains. L’eau est partout, les bleus explosent. Le plus souvent on ne voit que la nature.
