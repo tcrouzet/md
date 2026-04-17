@@ -29,7 +29,7 @@ Inscriptions pour le [727 VTT](https://727bikepacking.fr/727-Grand-Depart/) de m
 
 ![Mon cul](_i/2026-04-17-092621.webp)
 
-![Bages](_i/2026-04-16-094607-Peyriac-de-MerPort-la-Nouvelle.webp)
+![Bages thumb](_i/2026-04-16-094607-Peyriac-de-MerPort-la-Nouvelle.webp)
 
 ![Bages](_i/2026-04-16-095139-Peyriac-de-MerPort-la-Nouvelle.webp)
 
