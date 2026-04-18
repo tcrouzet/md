@@ -25,7 +25,7 @@ Dès la disponibilité des premiers LLM, j’ai rêvé d’utiliser les IA pour 
 
 C’était encore les balbutiements. Je donnais des extraits de Houellebecq et demandais à ChatGPT et Claude de produire des textes dans le même style, tout en brainstormant avec un Houellebecq virtuel. Au roman à la manière de, première partie de mon texte, j’ai ajouté une seconde partie sur l’histoire de cette écriture et les répercussions qu’elle pourrait avoir si un éditeur inventait un auteur en quête du prix Goncourt.
 
-Cette expérience m’a amusé alors que j’apprenais l’art du prompt. [*Le Code Houellebecq*](https://tcrouzet.com/books/le-code-houellebecq/) était selon moi ce que je pouvais générer de mieux en 2023, tout en mettant beaucoup d’huile dans les rouages, mais sans jamais couper les figures de style qui me paraissaient typiques des IA de l’époque. Quand des critiques utilisent mes expériences d’alors pour parler des IA en littérature aujourd’hui, il font fausse route. C’est de l’histoire ancienne : mon texte témoigne d’un moment où voir jaillir des textes pouvait encore provoquer des frissons.
+Cette expérience m’a amusé alors que j’apprenais l’art du prompt. [*Le Code Houellebecq*](https://tcrouzet.com/books/le-code-houellebecq/) était selon moi ce que je pouvais générer de mieux en 2023, tout en mettant beaucoup d’huile dans les rouages, mais sans jamais couper les figures de style qui me paraissaient typiques des IA de l’époque. Quand des critiques utilisent mes expériences d’alors pour parler des IA en littérature aujourd’hui, ils font fausse route. C’est de l’histoire ancienne : mon texte témoigne d’un moment où voir jaillir des textes pouvait encore provoquer des frissons.
 
 Dès la fin 2023, le projet d’écrire à la manière de ne m’intéresse plus. Il devient possible d’entraîner des modèles sur de vastes corpus, tout Houellebecq par exemple, et donc de les rendre plus performants dans l’art d’imiter.
 
@@ -53,7 +53,7 @@ De juin 2024 à février 2025, j’ai écrit [*Rush*](https://tcrouzet.com/books
 
 ![Rush](_i/2026-04-18-145725.webp)
 
-J’ai donné le texte à deux éditeurs. Le premier m’a suggéré que de n’en conserver que la partie blanche, c’est-à-dire de me ramener dans les champs que commencent à labourer les machines ; le second, PVH, a compris les enjeux et accepté le texte sans me demander de le tronçonner pour le ramener à un format mécanisable.
+J’ai donné le texte à deux éditeurs. Le premier m’a suggéré de n’en conserver que la partie blanche, c’est-à-dire de me ramener dans les champs que commencent à labourer les machines ; le second, PVH, a compris les enjeux et accepté le texte sans me demander de le tronçonner pour le ramener à un format mécanisable.
 
 Le marché du livre change de visage. D’un côté des machines produisent du texte en série, diffusé via app ou librairie en ligne ; de l’autre des auteurs, des éditeurs et des libraires tentent de satisfaire des lecteurs de plus en plus rares et de plus en plus vieux.
 
