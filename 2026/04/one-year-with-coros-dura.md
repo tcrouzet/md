@@ -33,6 +33,7 @@ Est-il parfait pour autant ? Loin de là. Voici ce qui lui manque encore.
 
 * Carte personnalisable comme sur les Garmin. Coros devrait fournir aux geeks un générateur de cartes.
 * Préréglage du zoom. Au départ d’une trace, je dois systématiquement zoomer au maximum, car le 200 m par défaut ne sert à rien.
+* Pouvoir régler le zoom avec les boutons (seule fonction aujourd’hui qui nécessite le tactile).
 * Le zoom à 50 m est insuffisant pour le VTT. Un zoom à 30 m comme sur les Garmin serait appréciable.
 * Gros bug quand on prend une trace à l’envers ou fait demi-tour (la trace s’efface parfois).
 * Réelle personnalisation des écrans, où s’affichent encore des informations non sollicitées comme la distance du prochain point d’intérêt ou le profil des montées (ce que j’apprécie plutôt, mais je ne l’ai pas choisi).
