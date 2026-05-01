@@ -9,7 +9,7 @@ metadescription: "Le deuil s'installe, dense et lancinant. Isa qui parle à trav
 
 S me suggère de lire *L’idée ridicule de ne plus jamais te revoir* de Rosa Montero, une grande dame avec qui j’ai passé deux jours à papoter en 2020. Elle écrit dès le début : « le journaliste Iñaki Gabilondo m’a dit dans une interview que le décès de sa première femme, morte très jeune des suites d’un cancer, avait été très dur, certes, mais également ce qu’il avait vécu de plus transcendant. »
 
-Il s’est passé quelque chose de vertigineux quand Isa nous a quittés, comme si elle passait en nous. Sa maladie a été une expérience d’une puissance extrême, la plus puissante déflagration de ma vie. Continuer de lire Rosa ? Pas encore. J’ai peur qu’elle m’influence, ferme des portes. Pas envie de risquer des colorations étrangères avant de me lancer dans un projet dont je sens la nécessité sinon encore la force. Me contente du lui envoyé un message pour lui dire que je pense à elle.
+Il s’est passé quelque chose de vertigineux quand Isa nous a quittés, comme si elle passait en nous. Sa maladie a été une expérience d’une puissance extrême, la plus puissante déflagration de ma vie. Continuer de lire Rosa ? Pas encore. J’ai peur qu’elle m’influence, ferme des portes. Pas envie de risquer des colorations étrangères avant de me lancer dans un projet dont je sens la nécessité sinon encore la force. Me contente du lui envoyer un message pour lui dire que je pense à elle.
 
 ### Jeudi 2, Balaruc
 
