@@ -1,3 +1,8 @@
+---
+metatitle: "Carnet de Thierry Crouzet, avril 2026"
+metadescription: "Le deuil s'installe, dense et lancinant. Isa qui parle à travers Romain Gary, la théorie des liens continus, le jarin en fleurs…"
+---
+
 # Avril 2026
 
 ### Mercredi 1<sup>er</sup>, Balaruc
