@@ -1,6 +1,6 @@
 ---
 metatitle: "De ma terrasse #49 | Fusion à froid, ARN des origines, une mezza géante"
-metadescription: "Albanese bannie par Washington pour avoir dénoncé un génocide, une molécule frôlant les origines de la vie, un plateau de 2 milliards d'années."
+metadescription: "Bannie par Washington pour avoir dénoncé un génocide, une molécule frôlant les origines de la vie, un plateau de 2 milliards d'années."
 ---
 
 # De ma terrasse #49
@@ -27,7 +27,6 @@ La molécule QT45, sélectionnée parmi un milliard de séquences aléatoires, a
 
 [Comment l’agriculture nous a transformés : l’ADN ancien révèle que la sélection naturelle s’est accélérée dans l’évolution humaine récente](https://phys.org/news/2026-04-farming-ancient-dna-reveals-natural.html) • EN • 10 min  
 L’étude de 22 000 génomes issus d’individus ayant vécu sur dix millénaires en Eurasie occidentale identifie 479 variants soumis à une forte pression sélective. Des traits aussi disparates que la tolérance au gluten, la résistance au VIH ou la pigmentation cutanée ont été façonnés par ce processus.
-
 
 ## Cosmos & Exploration
 
