@@ -333,7 +333,7 @@ Le 1<sup>er</sup> février, en fin d’après-midi, après le départ d’Émile
 
 ### Mardi 28, Balaruc
 
-Hier, nous avons abattu les deux mûriers-platanes de la terrasse, l’un mort, l’autre mourant, tous deux dévorés par les longicornes tigres comme tous les mûriers de la région. Ils disparaissent avec Isa, et ouvrent un vide sous nos yeux, métaphore de ce qui ronge notre cœur.
+Hier, nous avons abattu les deux mûriers-platanes de la terrasse, l’un mort, l’autre mourant, tous deux dévorés par les longicornes tigres comme tous les mûriers de la région. Ils disparaissent avec Isa et ouvrent un vide sous nos yeux, métaphore de ce qui ronge notre cœur.
 
 ---
 
@@ -351,7 +351,7 @@ Ces machines écrivent aujourd’hui 70 % des codes informatiques, bientôt plu
 
 Quelle différence entre un code et un texte littéraire ? On demande à un code de fonctionner optimalement. Certains lui demandent en plus d’être beau, minimaliste, mais on s’en fiche désormais, parce que des machines effectuent la maintenance. En revanche, dans une œuvre littéraire, la forme est presque plus importante que le fond. La forme nous parle droit au cœur, elle est l’art. Elle nous signe en tant qu’auteur.
 
-Les machines peuvent imiter un style, peuvent-elles l’inventer ? Peuvent-elles inventer tout court ? Par combinatoire oui, elles peuvent faire jaillir des combinaisons et les tester. Très utile en science. Est-ce que ça fait sens en art ?
+Les machines peuvent imiter un style, peuvent-elles l’inventer ? Peuvent-elles inventer tout court ? Oui, puisqu’elles peuvent faire jaillir des combinaisons et les tester. Très utile en science. Est-ce que ça fait sens en art ?
 
 [Un LLM aux connaissances de 1930 est incapable de prédire quoi que ce soit de nos avancées scientifiques et techniques ultérieures, sans parler de nos avancées esthétiques.](https://talkie-lm.com/chat) Nos LLM sont encore non imaginatifs, incapables de vivre des rushs, de provoquer des ruptures de paradigmes… Voilà ce qui nous reste. Un grand défi : dans une vie combien de sauts quantiques produisons-nous ? Mes enfants ont conscience d’entrer dans un monde étrange.
 
