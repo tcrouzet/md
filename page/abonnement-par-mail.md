@@ -1,10 +1,10 @@
 # Newsletters
 
-### Pour mes carnets et mes articles
+### Carnets et articles
 
 <iframe src="https://tcrouzet.substack.com/embed" class="substack-iframe" frameborder="0" scrolling="no"></iframe>
 
-### Pour le vélo
+### Vélo
 
 <iframe src="https://727bikepacking.substack.com/embed" class="substack-iframe" frameborder="0" scrolling="no"></iframe>
 
