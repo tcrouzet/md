@@ -3,7 +3,9 @@
 ![Les outils](_i/IMG_2065.webp)
 
 Excepté une petite nuit dehors à l’occasion du solstice d’été, je n’ai pas encore bikepacké cette année, à cause du covid, à cause de trop de boulot, à cause de la vie. Ce week-end, je m’autorise une petite escapade de trois jours dans l’Aubrac, à l’occasion du Houblon Tour organisé par l’équipe de [Hors Traces Aventures](https://www.hors-traces-aventures.fr/).
+
 ![Chaleur et risques d’orages](_i/houblon1.png)
+
 ![](_i/houblon2.png)
 
 Il fera chaud, même très chaud, ce sera la grande difficulté de ce parcours taillé pour les gravels, prévu en trois étapes pour un total de 330 km pour 6 200 mètres de dénivelé selon [VisuGPX](https://www.visugpx.com/), de quoi se faire mal aux jambes, avec pour récompense des haltes dans des brasseries, en espérant qu’elles serviront autre chose que de la bière parce que moi et l’alcool ça ne le fait pas.
@@ -19,9 +21,13 @@ Je ne transporterai rien sur moi, pas même mon téléphone. Poids total de la c
 Ma sacoche outils placée sous la selle pèse 838 g, mon sac de guidon 2 267 g, mon top tube bag avec l’électronique et des bricoles 894 g, mon sac de cadre avec notamment la poche à eau et les sardines et le piquet de ma tente sera à 796 g, soit un matos bikepacking d’un poil plus que 5 kg avec le GPS, son support, la lumière arrière… (en version printemps/automne, il faut ajouter près d’un kilo).
 
 ![Les outils](_i/P1110153.webp)
+
 ![Sac de guidon](_i/P1110155-1.webp)
+
 ![Top tube Bag](_i/P1110157.webp)
+
 ![Sac de cadre](_i/P1110159.webp)
+
 ![Epic HT Monstercross](_i/IMG_2076.webp)
 
-#velo #y2020 #2020-7-29-14h20
+#bikepacking #velo #config_bikepacking #y2020 #2020-7-29-14h20

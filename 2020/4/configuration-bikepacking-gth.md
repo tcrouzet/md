@@ -58,4 +58,4 @@ Côté énergie, j’ai remplacé ma batterie Anker PowerCore+ 20000 par une Hua
 
 Pour la nuit, le camp, les coups de froid, j’avais prévu d’acheter [un pantalon doudoune](https://euro.montbell.com/products/disp.php?cat_id=25044&p_id=2301352&gen_cd=1), suivant l’exemple de Lael Wilcox qui en fait son équipement de bikepacking le plus vital. Cette solution me paraît plus modulaire qu’un sac de couchage plus chaud que mon Western Mountaineering NanoLite. Pour début juin dans l’Hérault, je n’en aurais pas besoin, peut-être prévoir un [sac à viande ultra léger](https://www.maisondelasoie.com/fr/101-drap-de-sac-de-couchage-en-soie-ripstop-cocoon.html).
 
-#727bikepacking #velo #y2020 #2020-4-27-9h44
+#bikepacking #727bikepacking #velo #config_bikepacking #y2020 #2020-4-27-9h44

@@ -1,10 +1,10 @@
 # Journal d'une config bikepacking 2
 
-![Epic Evo avant i727 2024](_i/2024-05-04-083412.webp)
-
 De 2020 à 2023, j'ai voyagé [avec plus ou moins la même configuration, un Specialized Epic semi-rigide](../../2022/3/config-bikepacking-2022.md). À l'occasion du [i727 2024](https://727bikepacking.fr/i727/), je me lance avec mon Epic S-Works Evo tout-suspendu, ce qui entraîne suffisamment de modifications pour mériter de créer un nouveau billet. [Retrouvez l'historique de mes configurations dans un tableau avec liens vers les produits.](https://docs.google.com/spreadsheets/d/1Co6BJql8z7uWCvAokGcDrKaEyAMb-X_zLue6_id3nB4/edit?usp=sharing)
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtXMtpZrGSpN66bcB2kZJOEYfbSKyhhKy6cAtTCVE7unBsf85UIawZni0HyVScCcyS2C1DRbdeiar6/pubhtml?widget=true&amp;headers=false"></iframe>
+
+![Epic Evo avant i727 2024](_i/2024-05-04-083412.webp)
 
 ### Pourquoi un tout-suspendu
 
@@ -48,4 +48,4 @@ Côté électronique, j’ai compris que je devais être capable de recharger de
 
 Je crois que j’ai fait le tour des changements. Par ailleurs, je n’ai pas reçu la moindre proposition pour le semi-rigide. Comme je n’ai aucune envie de le brader, je vais sans doute en faire un vélo pour des épreuves plus roulantes, genre [g727](https://727bikepacking.fr/g727/) ou autres. Je ne désespère pas d’entraîner un jour en voyage un de mes fils.
 
-#velo #bikepacking #y2024 #2024-5-5-20h30  
+#velo #bikepacking #config_bikepacking #y2024 #2024-5-5-20h30  

@@ -48,4 +48,4 @@ Enfin, j’essaie de m’habiller de façon plus détendue et plus polyvalente, 
 
 Chaque fois que le publie ma config sur Facebook, un ou deux petits malins me disent que je pourrais virer beaucoup de choses pour m’alléger. Soit oublier la moitié des outils, indispensables en cas de pépin, ou laisser à la maison les lingettes, le gel hydroalcoolique, la crème pour les fesses, la pharmacie. Je n’ai pas vraiment de réponse quand je demande « Quand tu chies dans la nature, tu t’essuies avec les mains ou avec des feuilles ? » Moi, je m’essuie avec des lingettes biodégradables qui en quelques jours sont bouffées par les bestioles (contrairement aux mouchoirs ou PQ classique). Je ne veux pas laisser ni de traces visibles, ni durables. Et après avoir chié, je me désinfecte les mains au gel hydroalcoolique, parce que je n’ai pas d’eau courante et de savon. Je n’ai aucune envie de m’auto-infecter. Après, le gel pour le cul, c’est parce que j’ai souvent mal au cul. La pharmacie : parce qu’on ne sait jamais ce qui peut arriver.
 
-#bikepacking #velo #y2022 #2022-3-31-12h46
+#bikepacking #velo #config_bikepacking #y2022 #2022-3-31-12h46
