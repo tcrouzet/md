@@ -47,19 +47,19 @@ Au final, basculer chez Tailfin me coûte 772 g.
 
 Après [un an de bikepacking avec le Coros Dura](https://tcrouzet.com/2026/04/24/one-year-with-coros-dura/), j’ai constaté que je n’avais plus besoin d’une powerbank (150 g de gagnés).
 
-J’ai longtemps roulé avec une frontale Stoot Kiska 2 à laquelle je faisais de moins en moins confiance — elle avait tendance à se décharger, ce qui m’imposait un second accu en réserve —  et elle venait avec un chargeur USB-A (poids total 140 g). Je l’ai remplacée par une Petzl Swift RL 1200, dont j’ai remplacé le bandeau de fixation par un 3M Dual Lock. Poids total : 81 g.
+J’ai longtemps roulé avec une frontale Stoot Kiska 2 à laquelle je faisais de moins en moins confiance — elle avait tendance à se décharger, ce qui m’imposait un second accu en réserve —  et elle venait avec un chargeur USB-A (poids total 140 g). Je l’ai troquée contre une Petzl Swift RL 1200, dont j’ai remplacé le bandeau de fixation par un 3M Dual Lock. Poids total : 81 g.
 
 Je suis désormais 100 % USB-C. Je recharge si nécessaire, notamment mon téléphone, lors des arrêts café ou restaurant. Comme je roule peu la nuit, voire pas, cette config me convient.
 
 ### Outils
 
-Du côté des gains marginaux, j’ai troqué le combo Wolf Tooth EnCase System (135 g) pour un Daysaver Essential8 avec dérive-chaîne (69 g).
+Du côté des gains marginaux, un multi-tool Daysaver Essential8 avec dérive-chaîne (69 g) se substitue au Wolf Tooth EnCase System (135 g).
 
 ![Double bidon et frame bag](_i/2026-05-07-121623.webp)
 
 ### Pneus
 
-Je roulais avec Fastrack devant, Air Track derrière. Je suis revenu au Ground Control devant qui me donne beaucoup plus d’assurance, avec un malus de 150 g. 
+Je roulais avec un Fastrack devant, un Air Track derrière. Je suis revenu au Ground Control devant qui me donne beaucoup plus d’assurance, avec un malus de 150 g. 
 
 ![Au bord de l’étang](_i/2026-05-07-122627.webp)
 
