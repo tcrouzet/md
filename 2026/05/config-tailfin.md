@@ -3,7 +3,6 @@ metatitle: "Tailfin avant, Tailfin arrière : ma config bikepacking 2026"
 metadescription: "Découvrez ma config bikepacking 2026 : Tailfin avant et arrière, Coros Dura, 7 Mesh mérino, multi-tools Daysaver… "
 ---
 
-
 # Tailfin avant, Tailfin arrière : ma config bikepacking 2026
 
 Depuis que j’ai mon [Diverge 4](https://tcrouzet.com/2026/03/27/le-meilleur-gravel/) ultra confort, j’envisage des voyages à gravel et non seulement à VTT. J’ai testé sur les deux jours de la [POU100](https://727bikepacking.fr/pou100/) avec succès, je testerai cet été sur [le Tour Magne](https://tourmagne.bike/), puis le [g727](https://727bikepacking.fr/g727-Grand-Depart/) en septembre. C’est une petite révolution pour moi.
@@ -74,4 +73,4 @@ Comme Pedaled se fiche de nous, proposant des fringues mérinos hors de prix ave
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtXMtpZrGSpN66bcB2kZJOEYfbSKyhhKy6cAtTCVE7unBsf85UIawZni0HyVScCcyS2C1DRbdeiar6/pubhtml?widget=true&amp;headers=false"></iframe>
 
-#velo #bikepacking #config_bikepacking #y2026 #2026-04-06-13h00
+#velo #bikepacking #config_bikepacking #y2026 #2026-05-07-17h00
