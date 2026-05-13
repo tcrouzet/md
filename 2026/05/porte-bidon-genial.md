@@ -27,7 +27,7 @@ Je ne lui ai trouvé que des avantages :
 * Grande latitude d’ajustement vertical.
 * En prime, ne tache pas les bidons (la plupart des porte-bidons carbone laissent du noir, notamment les Specialized).
 
-Devant ce bilan plus qu’élogieux, je viens de contacter Zéfal pour voir s’ils pourraient nous fabriquer des porte-bidons Pulse S2 droite et gauche avec le logo 727 (j’en ai besoin pour mon gravel et mon second VTT). Et c’est possible. Vous en voulez ? Ça vous tente ? On peut même rêver de bidons bio 727…
+Devant ce bilan plus qu’élogieux, je viens de contacter Zéfal pour voir s’ils pourraient nous fabriquer des porte-bidons Pulse S2 droite et gauche avec le logo 727 (j’en ai besoin pour mon gravel et mon second VTT). Et c’est possible. On peut même rêver de bidons bio 727… Vous en voulez ? Ça vous tente ? [Répondez au sondage.](https://forms.gle/bMdf24mj56nwM7Ee9)
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLxJAvsLymyH7tulW6uz_xD-KauSx_MG28A-SaPiOfuF1YIQ/viewform?embedded=true" width="640" height="719" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
 *PS : Je ne suis pas devenu fan de goodies. Nous avons simplement la possibilité d’acheter des produits de qualité personnalisés. Les conditions dépendront du volume des commandes.*
