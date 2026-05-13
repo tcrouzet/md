@@ -4,7 +4,7 @@ metadescription: Des années à perdre des bidons sur les chemins jusqu'au jour 
 ---
 # Un infime détail vient de changer ma vie de cycliste
 
-Depuis des années, à gravel ou VTT, je me bats avec des porte-bidons qui ne retiennent pas les bidons dès que les chemins deviennent cabossés. Pour ne pas risquer de me retrouver sans eau, j’ai fini par assujettir le second bidon avec un élastique de sécurité. Au moins, il m’en reste un.
+Depuis des années, à gravel ou VTT, je me bats avec des porte-bidons qui ne retiennent pas les bidons dès sur les chemins cabossés. Pour ne pas risquer de me retrouver sans eau, j’ai fini par assujettir le second bidon avec un élastique de sécurité. Au moins, il m’en reste un.
 
 Pourquoi autant de problèmes ? Par le passé, sur ma config bikepacking, je montais les bidons sur la fourche. Quand elle se détendait, elle les éjectait parfois. J’en ai vu passer au-dessus de ma tête. J’ai testé divers modèles sans trouver la solution. Aujourd’hui, toujours en bikepacking, je roule avec deux bidons côte à côte sur le cadre et il m’arrive encore d’en perdre. Idem sur mes gravels avec mes deux porte-bidons en position traditionnelle. Dans ce cas, c’est le bidon sur le tube vertical qui est le plus à risque.
 
@@ -30,6 +30,6 @@ Je ne lui ai trouvé que des avantages :
 Devant ce bilan plus qu’élogieux, je viens de contacter Zéfal pour voir s’ils pourraient nous fabriquer des porte-bidons Pulse S2 droite et gauche avec le logo 727 (j’en ai besoin pour mon gravel et mon second VTT). Et c’est possible. Vous en voulez ? Ça vous tente ? On peut même rêver de bidons bio 727…
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScLxJAvsLymyH7tulW6uz_xD-KauSx_MG28A-SaPiOfuF1YIQ/viewform?embedded=true" width="640" height="719" frameborder="0" marginheight="0" marginwidth="0">Chargement…</iframe>
-*PS : Je ne suis pas soudain devenu fan de goodies. Nous avons simplement la possibilité d’acheter des produits de qualité personnalisés. Les conditions dépendront du volume des commandes.*
+*PS : Je ne suis pas devenu fan de goodies. Nous avons simplement la possibilité d’acheter des produits de qualité personnalisés. Les conditions dépendront du volume des commandes.*
 
 #velo #y2026 #2026-05-13-13h00
