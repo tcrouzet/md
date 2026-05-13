@@ -4,7 +4,7 @@ metadescription: Des années à perdre des bidons sur les chemins jusqu'au jour 
 ---
 # Un infime détail vient de changer ma vie de cycliste
 
-Depuis des années, à gravel ou VTT, je me bats avec des porte-bidons qui ne retiennent pas les bidons dès sur les chemins cabossés. Pour ne pas risquer de me retrouver sans eau, j’ai fini par assujettir le second bidon avec un élastique de sécurité. Au moins, il m’en reste un.
+Depuis des années, à gravel ou VTT, je me bats avec des porte-bidons qui ne retiennent pas les bidons sur les chemins cabossés. Pour ne pas risquer de me retrouver sans eau, j’ai fini par assujettir le second bidon avec un élastique de sécurité. Au moins, il m’en reste un.
 
 Pourquoi autant de problèmes ? Par le passé, sur ma config bikepacking, je montais les bidons sur la fourche. Quand elle se détendait, elle les éjectait parfois. J’en ai vu passer au-dessus de ma tête. J’ai testé divers modèles sans trouver la solution. Aujourd’hui, toujours en bikepacking, je roule avec deux bidons côte à côte sur le cadre et il m’arrive encore d’en perdre. Idem sur mes gravels avec mes deux porte-bidons en position traditionnelle. Dans ce cas, c’est le bidon sur le tube vertical qui est le plus à risque.
 
