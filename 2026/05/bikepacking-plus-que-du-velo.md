@@ -7,9 +7,9 @@ metadescription: "Cinq jours, aucun chrono, aucun rendez-vous, aucune obligation
 
 Après un voyage comme le [727 VTT 2026](https://727bikepacking.fr/727/), on nous demande souvent « Alors, c’était comment ? » La réponse la plus évidente : « Il faut le vivre pour comprendre. » Même les gros rouleurs risquent d’avoir du mal à apprécier ce que nous vivons en bikepacking.
 
-![Les traces des huit 727 VTT](_i/all727.webp)
-
 Si pour certains c’est un défi personnel en solitaire, pour beaucoup d’autres c’est avant tout une expérience sociale avec la trace comme fil rouge. Elle nous procure des expériences sportives, esthétiques, culturelles, et surtout conversationnelles quand nous acceptons de rouler en groupe, de nous attendre et de nous entraider dans les moments difficiles.
+
+![Les traces des huit 727 VTT](_i/all727.webp)
 
 Sur un 727, les groupes ne se décident pas à l’avance. Ils se façonnent au fil des kilomètres et des éditions. C’est une aventure transgénérationnelle. Dans notre groupe, qui a compté jusqu’à 17 bikepackers, sur 30 partants, le plus jeune avait 27 ans, le plus âgé 66. Il y avait des artisans, des fonctionnaires, des journalistes, des indépendants (moniteur de ski, kiné, consultant, graphiste…). Une seule femme : un point à travailler (mais on est meilleur à gravel qu’à VTT).
 
@@ -83,7 +83,7 @@ J’en profite pour mettre à jour [la page des 727 VTT](https://727bikepacking.
 
 ![J3](_i/2026-05-13-175922.webp)
 
-![J3 Salagou](_i/2026-05-10-171015-LaTour-sur-OrbetClermont-lHrault.webp)
+![J3 thumb](_i/2026-05-10-171015-LaTour-sur-OrbetClermont-lHrault.webp)
 
 ![J3](_i/2026-05-13-180458.webp)
 
