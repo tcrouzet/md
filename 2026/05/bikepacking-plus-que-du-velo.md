@@ -33,7 +33,7 @@ En revanche, quand on range ses affaires de bikepacking, on range une tranche de
 
 J’en profite pour mettre à jour [la page des 727 VTT](https://727bikepacking.fr/727/), avec les traces des huit éditions. Je me suis amusé à concocter un indice de difficulté, qui consacre l’édition 2024 comme de loin la plus difficile. J’essaierai de faire moins dur l’année prochaine, mais en conservant des singles à gogo.
 
-[Prochain rendez-vous, le g727 de fin septembre (plus que 40 places disponibles).](http://127.0.0.1:4000/g727-Grand-Depart/)
+[Prochain rendez-vous, le g727 de fin septembre (plus que 40 places disponibles).](https://727bikepacking.fr/g727-Grand-Depart/)
 
 ### Vendredi 8 mai
 
