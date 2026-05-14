@@ -2,6 +2,7 @@
 metatitle: "Porte-bidon : la solution que je cherchais depuis des années"
 metadescription: Des années à perdre des bidons sur les chemins jusqu'au jour où un produit miracle change tout.
 ---
+
 # Un infime détail vient de changer ma vie de cycliste
 
 Depuis des années, à gravel ou VTT, je me bats avec des porte-bidons qui ne retiennent pas les bidons sur les chemins cabossés. Pour ne pas risquer de me retrouver sans eau, j’ai fini par assujettir le second bidon avec un élastique de sécurité. Au moins, il m’en reste un.
