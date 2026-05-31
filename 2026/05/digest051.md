@@ -1,6 +1,6 @@
 ---
 metatitle: "De ma terrasse #51 | Mort du roman et IA trop coûteuses"
-metadescription: "Une pix Nobel de littérature lâche le roman et avoue utiliser l'IA. Les datacenter perturbent le climat."
+metadescription: "Une prix Nobel de littérature lâche le roman et avoue utiliser l'IA. Les datacenters perturbent le climat."
 ---
 
 # De ma terrasse #51 | Mort du roman et IA trop coûteuses
