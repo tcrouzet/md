@@ -51,6 +51,6 @@ Un modèle d’OpenAI a réfuté une conjecture d’Erdős de 1946 sur les dista
 L’expérience, financée par son employeur, constitue le premier cas public permettant de mesurer le coût réel du développement logiciel autonome sans contrainte budgétaire.
 
 [Le retrait discret de Microsoft de Claude Code et le vrai coût de l’IA en entreprise](https://thenextweb.com/news/microsoft-claude-code-retreat-ai-cost) • EN • 10 min  
-Uber a épuisé son budget annuel en quatre mois. Les forfaits conçus pour l’interaction humaine ne résistent pas à des agents qui raisonnent en continu.
+Les outils de codage coûtent trop cher.
 
 #digest #y2026 #2026-5-31-17h00
