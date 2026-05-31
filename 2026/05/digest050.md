@@ -1,6 +1,6 @@
 ---
 metatitle: "De ma terrasse #50 | L'origine de l'icône ❤️, bots et membres régénérés"
-metadescription: "Découvrez l'origine inattendue du symbole ❤️, un web colonisé par les bots, des membres régénérés et une IA enfermée en 1930."
+metadescription: "Découvrez l'origine inattendue du symbole cœur, un web colonisé par les bots, des membres régénérés et une IA enfermée en 1930."
 ---
 
 # De ma terrasse #50 | L'icône ❤️ a 2 500 ans, le web se remplit de bots
