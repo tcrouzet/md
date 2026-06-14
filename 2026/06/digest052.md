@@ -3,7 +3,7 @@ metatitle: "De ma terrasse #52 | IA létale, plantes conscientes, l'Everest tour
 metadescription: "Des drones tuent seuls en Ukraine, des plantes communiquent à 50 mètres, l'Everest destination touristique…"
 ---
 
-# De ma terrasse #52
+# De ma terrasse #52 | IA létale, plantes conscientes, l'Everest touristique
 
 _Ma sélection du dimanche : **10** liens et une photo prise depuis ma terrasse._
 
