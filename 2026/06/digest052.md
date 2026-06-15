@@ -18,7 +18,7 @@ _Ma sélection du dimanche : **10** liens et une photo prise depuis ma terrasse.
 Les lecteurs sur tablette mobilisent davantage les régions frontales gauche et droite du cerveau pour intégrer un récit en deux parties, selon des IRM comparatifs réalisés avec des mangas. Le papier fournit des ancres sensorielles stables qui allègent la charge cognitive.
 
 [Magnifica Humanitas du pape Léon relue à la lumière de Teilhard de Chardin](https://www.ncronline.org/columns/spirituality/teilhard-de-chardin-points-what-pope-leo-missed-magnifica-humanitas) • EN • 10 min  
-L’encyclique de Léon XIV défend ce que l’humain doit garder. Teilhard pose la question inverse : vers quoi l’humain devient-il à travers la technologie, et comment s’assurer que ce devenir serve l’amour plutôt que la seule complexité ?
+L’encyclique de Léon XIV défend ce que l’humain doit garder. Teilhard pose la question inverse : vers quoi l’humain doit-il tendre ?
 
 ## Nature & conscience
 
