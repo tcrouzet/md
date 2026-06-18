@@ -158,7 +158,7 @@ Bonheur de voir surgir la phrase par surprise : tonique, sonore, puissante. Le 
 
 ---
 
-Quelle est la probabilité que deux êtres s’assemblent, que leurs histoires les amènent à se rencontrer au bon moment ? L’amour peut naître a posteriori. On le fabrique autant qu’on l’éprouve. Le coup de foudre, je m’en méfie : il n’entraîne aucune édification, et le couple n’a alors aucune chance de survivre aux crises inévitables. Entre moi et Iris, ce n’était qu’un imprévu. Que se passera-t-il entre moi et Isabelle ?
+Quelle est la probabilité que deux êtres s’assemblent, que leurs histoires les amènent à se rencontrer au bon moment ? L’amour peut naître a posteriori. On le fabrique autant qu’on l’éprouve. Le coup de foudre, je m’en méfie : il n’entraîne aucune édification, et le couple n’a alors aucune chance de survivre aux crises inévitables. Entre moi et Iris, ce n’était qu’un imprévu. Que se passera-t-il entre Isabelle et moi ?
 
 ### Jeudi 21, Paris
 
