@@ -1,9 +1,9 @@
 ---
-metatitle: "727 gravel, pédales ultra légères et coup de gueules"
-metadescription: "Découvrez les pédales les plus légères du marché (152 g), un coup de gueule contre Assos et Tailfin, et 30 places restantes pour le g727 2026."
+metatitle: 727 gravel, pédales ultra légères et coups de gueule
+metadescription: Découvrez les pédales les plus légères du marché (152 g), un coup de gueule contre Assos et Tailfin, et 30 places restantes pour le g727 2026.
 ---
 
-# 727 gravel, pédales ultra légères et coup de gueules…
+# 727 gravel, pédales ultra légères et coups de gueule…
 
 J’aurais pu titrer ce billet Assos de pire en pire, Tailfin erreur marketing, les pédales les moins lourdes du marché ou comment tracer avec VisuGPX. Mais je vais commencer par évoquer le [g727](https://727bikepacking.fr/g727-Grand-Depart/) du 26 septembre 2026 — [il reste 30 places à trois mois du départ](https://www.helloasso.com/associations/ec-poussan/evenements/g727-2026?_gl).
 
