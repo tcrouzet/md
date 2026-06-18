@@ -61,6 +61,6 @@ Tailfin propose l’équipement de bikepacking le plus solide et le plus ergonom
 
 Cherchez le bug. Les clients de Tailfin sont les bikepackers comme vous et moi, des voyageurs, des jouisseurs, pas des prétentieux qui battent des records dont personne n’a rien à foutre. Réalignez votre marketing. Je leur ai envoyé un mail, ils n’ont même pas daigné répondre. Ils vont me faire regretter d’avoir craqué beaucoup de tunes sur leurs produits.
 
-Je vous présenterai bientôt mon gravel en mode bikepacking, à l’occasion de notre [Tourmagne](https://tourmagne.bike/) de juillet. Nous sommes une douzaine à partir de Melun le 19 juillet. Je vous raconterai. Ce sera mon premier voyage de plusieurs jours à gravel.
+Je vous présenterai bientôt mon gravel en mode bikepacking, à l’occasion de notre [Tourmagne](https://tourmagne.bike/). Nous sommes une douzaine à partir de Melun le 19 juillet. Je vous raconterai. Ce sera mon premier voyage de plusieurs jours à gravel — j’ai jusque là préféré le VTT, mais je me sens vraiment bien sur [mon Diverge 4](https://tcrouzet.com/2026/03/27/le-meilleur-gravel/). Verdict dans un mois.
 
 #velo #727bikepacking #y2026 #2026-06-18-22h00
