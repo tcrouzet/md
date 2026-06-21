@@ -47,9 +47,15 @@ Après avoir testé des pédales hors de prix à la durabilité questionnable, j
 
 ![Campero 3D, 130 €](_i/2026-06-15-174559.webp)
 
-Avec Patrick, nous avons découvert les [Camepro 3D Print Titanium Pedals](https://www.anjoycycle.com/products/camepro-3d-print-titanium-pedals-160421), d’un poids tout simplement incroyable : 152 g la paire pour 130 € environ ! Impression de ne plus rien avoir sous les pieds, grip pas extraordinaire, mais parfait pour le gravel. Je ne les monterais pas sur un VTT. Elles paraissent trop fragiles. À voir comment elles se comporteront dans la durée. Nous avons repéré un autre modèle à tester, avec axe titane, à peine plus lourd : les [Litepro](## Litepro Folding Bicycle 3 Bearing Titanium Axle Pedal Mountain Bike Carbon Fiber Pedals 178g).
+Avec Patrick, nous avons découvert les [Camepro 3D Print Titanium Pedals](https://www.anjoycycle.com/products/camepro-3d-print-titanium-pedals-160421), d’un poids tout simplement incroyable : 152 g la paire pour 130 € environ ! Impression de ne plus rien avoir sous les pieds, grip pas extraordinaire, mais parfait pour le gravel. Je ne les monterais pas sur un VTT. Elles paraissent trop fragiles. À voir comment elles se comporteront dans la durée. Nous avons repéré un autre modèle à tester, avec axe titane, à peine plus lourd : les [Litepro](https://liteprobicycle.com/fr/collections/pedal-1/products/litepro-folding-bicycle-3-bearing-titanium-axle-pedal-mountain-bike-carbon-fiber-pedals-178g).
 
 ![Les Campero sur mon gravel](_i/2026-06-14-160842.webp)
+
+*PS : C’était trop beau. Quatrième sortie, je me mets en danseuse sur une petite côte de rien du tout et une des pédales se déchire.*
+
+![Juste de la merde](_i/2026-06-21-105831.webp)
+
+![Juste de la merde](_i/2026-06-21-122919.webp)
 
 ### Assos de pire en pire
 
