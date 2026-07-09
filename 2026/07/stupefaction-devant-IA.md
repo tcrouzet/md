@@ -5,7 +5,7 @@ metadescription: "Deux apps créées sans une ligne de code : je confie mes proj
 
 # L’IA fait le sale boulot
 
-Depuis des semaines, mon fils aîné me pousse à tester Claude Code ou ChatGPT Codex, deux des outils de génération de code les plus puissants. Je suis encore tout étourdi après quelques bidouilles.
+Mon fils aîné m’a poussé à tester Claude Code ou ChatGPT Codex, deux des outils de génération de code les plus puissants. Je suis encore tout étourdi après quelques bidouilles.
 
 Depuis trois ans, je demande l’aide aux IA quand je code, sur le mode chat. Je n’avais pas franchi le pas des agents : je codais à la main, questionnais les IA, copiais-collais leurs réponses dans mon code avec grande précaution, un mode de développement à l’ancienne.
 
@@ -45,7 +45,7 @@ Encore une fois, pas la moindre ligne de code de ma part, simplement des directi
 
 ### Et pour la littérature
 
-La différence est énorme. Je n’ai pas analysé le code généré, me contentant de le valider. En quelque sorte, je n’ai pas été regardant sur le style, ce qui est impensable en littérature. Je déteste toujours ce qu’écrivent les IA, malgré les gourous vendant leurs recettes miracles. Mais alors que j’écris ces lignes une idée me vient. Que pourrait faire Codex de mon roman [*One Minute*](https://tcrouzet.com/books/une-minute/) ? Là, les possibilités sont immenses, presque délirantes. Je vais explorer quelques pistes avant mon voyage à vélo. Pour le moment, avec l’API de Google Gemini, j’ai essayé de créer une version audio encore approximative, mais là aussi les possibilités sont immenses. Vous en pensez quoi ?
+La différence est énorme. Je n’ai pas analysé le code généré, me contentant de le valider. En quelque sorte, je n’ai pas été regardant sur le style, ce qui est impensable en littérature. Je déteste toujours la prose IA, malgré les recettes des gourous. Mais alors que j’écris ces lignes une idée me vient. Que pourrait faire Codex de mon roman [*One Minute*](https://tcrouzet.com/books/une-minute/) ? Là, les possibilités sont immenses, presque délirantes. Je vais explorer quelques pistes avant mon voyage à vélo. Pour le moment, avec l’API de Google Gemini, j’ai essayé de créer une version audio encore approximative, mais là aussi les possibilités ne manquent pas. Je débute dans ce domaine. Vous en pensez quoi ?
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MYoN2rZDdjw?si=xCvIY5aGAVrDjg0P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
