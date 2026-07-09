@@ -3,7 +3,7 @@ metatitle: "L'IA fait le sale boulot : quand l'idée suffit à créer"
 metadescription: "Deux apps créées sans une ligne de code : je confie mes projets à des agents IA et retrouve une liberté créatrice inattendue."
 ---
 
-# L’IA fait le sale boulot
+# L’IA fait le sale boulot : quand l'idée suffit
 
 Mon fils aîné m’a poussé à tester Claude Code ou ChatGPT Codex, deux des outils de génération de code les plus puissants. Je suis encore tout étourdi après quelques bidouilles.
 
