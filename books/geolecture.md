@@ -14,6 +14,9 @@ Géolecture est une application de lecture augmentée. En parcourant les rues le
 
 Textes, photos et dessins de Thierry Crouzet.
 
+* [Code source sur GitHub](https://github.com/tcrouzet/geolecture)
+* [Web app Géolecture](https://tcrouzet.github.io/geolecture/)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ioq7VWq1ZL0?rel=0&controls=0" frameborder="0" allowfullscreen></iframe>
 
 [Articles sur le blog…](/tag/geolecture/)
