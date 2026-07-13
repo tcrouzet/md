@@ -61,7 +61,7 @@ Ces histoires de tailles, c’est du grand n’importe quoi. J’ai toujours ét
 
 ![Portefeuille Dyneema](_i/2026-07-12-122617.webp)
 
-J’utilise depuis deux ans un portefeuille Dyneema de Zpacks, étanche, parfait pour le cash et mon sifflet de secours. Je traînais depuis des années un modèle en plastique et l’ai troqué pour [Vargo en titane](https://vargooutdoors.com/products/titanium-emergency-whistle) (3 g). Il me sert de porte-clés.
+J’utilise depuis deux ans un portefeuille Dyneema de Zpacks, étanche, parfait pour le cash et mon sifflet de secours. Je traînais depuis des années un modèle en plastique et l’ai troqué pour un [Vargo en titane](https://vargooutdoors.com/products/titanium-emergency-whistle) (3 g). Il me sert de porte-clés.
 
 ![Sifflet Vargo](_i/2026-07-12-121730.webp)
 
