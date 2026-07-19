@@ -1,6 +1,6 @@
 ---
-metatitle: "Transformer un roman en web app interactive avec l'IA"
-metadescription: "380 chapitres, une seule minute UTC, partout dans le monde. Découvrez comment le code offre une seconde vie littéraire à One Minute en web app."
+metatitle: Transformer un roman en web app interactive avec l'IA
+metadescription: Le code offre une seconde vie littéraire à mon roman One Minute en le transformant en web app. Lecture non linéraire à la surface du globe.
 ---
 
 # J’ai transformé un roman en carte interactive du monde
