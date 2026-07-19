@@ -7,7 +7,7 @@ metadescription: "380 chapitres, une seule minute UTC, partout dans le monde. D�
 
 L’IA peut venir au secours de la littérature, mais pas comme vous vous y attendez. Il n’est pas question de demander aux machines d’écrire à notre place, ni même de nous aider à brainstormer, plutôt de donner à nos textes de nouvelles formes d’existence.
 
-Quand on écrit des textes nativement numériques, [comme mes carnets avec leurs photographies](https://tcrouzet.com/carnet-de-route/), on les repense nécessairement pour les projeter sur papier. Certaines projections sont homothétiques, les œuvres alors strictement identiques ; d’autres fois il y a une perte comme quand on projette le globe terrestre sur une carte.
+Quand on écrit des textes nativement numériques, [comme mes carnets avec leurs photographies](https://tcrouzet.com/carnet-de-route/), on les repense nécessairement pour les projeter sur papier. Certaines projections sont homothétiques, les œuvres alors strictement identiques ; d’autres fois il y a une perte comme avec le globe terrestre projeté sur une carte.
 
 Inversement, on peut projeter en numérique des œuvres initialement publiées sur papier, ce qui se fait le plus souvent de façon homothétique avec les ebooks.
 
