@@ -25,7 +25,7 @@ Cette petite expérience laisse entrevoir une seconde vie pour les textes, en le
 
 [Peut-être qu’explorer le monde avec la web app *One Minute* vous donnera envie de lire dans le calme et loin des écrans les magnifiques livres publiés par PVH.](https://tcrouzet.github.io/OneMinute/)
 
-![Le globe One Minute](_i/OM01.jpg)
+![Le globe One Minute thumb](_i/OM01.jpg)
 
 ![Tout commence à Versailles](_i/OM04.jpg)
 
