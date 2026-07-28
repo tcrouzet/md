@@ -121,7 +121,7 @@ Peu avant Massiac, nous nous baignons dans l’Alagnon. Très bon repas Chez Ton
 
 ![Rouge les anciens, bleu nous](_i/tourmagne08.webp)
 
-Départ par une méchante côte de 4 km à plus de 10 % pour gagner le plateau du Cézalier, que malheureusement nous traversons comme des fusées par de petites routes sympathiques, mais bien moins charmantes que les pistes plus à l’ouest. Après Murat nous grimpons encore et encore, sans jamais dégager une vue aussi sublime que depuis le sommet non loin du Plomb du Cantal, où les anciens sont montés, et sans prendre la télécabine comme je l’ai fait plusieurs fois. Difficile donc de passer par là en toute saison donc, d’autant que la descente en direction de Saint-Flour est très caillouteuse, pas dangereuse, mais pas vraiment gravel. Nous déjeunons à Saint-Flour avec déjà 2 000 de d+ dans notre escarcelle.
+Départ par une méchante côte de 4 km à plus de 10 % pour gagner le plateau du Cézalier, que malheureusement nous traversons comme des fusées par de petites routes sympathiques, mais bien moins charmantes que les pistes plus à l’ouest. Après Murat nous grimpons encore et encore, sans jamais dégager une vue aussi sublime que depuis le sommet non loin du Plomb du Cantal, où les anciens sont montés, et sans prendre la télécabine comme je l’ai fait plusieurs fois. Difficile de passer par là en toute saison, d’autant que la descente en direction de Saint-Flour est très caillouteuse, pas dangereuse, mais pas vraiment gravel. Nous déjeunons à Saint-Flour avec déjà 2 000 de d+ dans notre escarcelle.
 
 L’après-midi nous amène au clou esthétique du Tourmagne, le viaduc de Garabit, que je découvre pour la première fois depuis la gorge. Une tour Eiffel à l’horizontale, avec une élégante arche orangée sur des pilotes aériens. Une merveille qui nous immobilise pour une fois.
 
@@ -173,9 +173,9 @@ Nous déjeunons à Mende, avant d’attaquer la terrible montée Jalabert, sous 
 
 ![Anciens en rouge, nous en bleu](_i/tourmagne11.webp)
 
-Averse dans la nuit. Chaleur lourde au réveil. Ciel couvert. Je m’arrête le temps d’une photo à l’embranchement entre la vallée Française et la vallée Borgne où nous plongeons. Via Le Pompidou, nous filons jusqu’à Anduze par la route, en suivant les gorges du Gardon, puis par quelques pistes cyclables, des chemins de garrigue nous approchons de Nîmes, en terrains familiers.
+Averse dans la nuit. Chaleur lourde au réveil. Ciel couvert. Je m’arrête le temps d’une photo à l’embranchement entre la vallée Française et la vallée Borgne où nous plongeons. Via Le Pompidou, nous filons jusqu’à Anduze par la route, en suivant les gorges du Gardon, puis, par quelques pistes cyclables et chemins de garrigue, nous approchons de Nîmes, en terrains familiers.
 
-Une crevaison répétitive accable un des gravels, peu désireux d’en terminer. D’ailleurs une fois au terminus, la Tour Magne, [dont j’ai parlé dans une de mes expériences littéraires](https://tcrouzet.github.io/geolecture/?balade=nimes), cinq des copains décident de poursuivre jusqu’à Sète à vélo pendant que les moins courageux et moi sautons dans un train bondé, [nous contentant d’une dernière étape de 110 km](https://www.strava.com/activities/19457400651).
+Une crevaison répétitive accable un des gravels, peu désireux d’en terminer. D’ailleurs une fois au terminus, la Tour Magne, [dont j’ai parlé dans une de mes expériences littéraires](https://tcrouzet.github.io/geolecture/?balade=nimes), cinq des copains poursuivent jusqu’à Sète à vélo pendant que les moins courageux et moi sautons dans un train bondé, [nous contentant d’une dernière étape de 110 km](https://www.strava.com/activities/19457400651).
 
 Ce qui était pour les pionniers, et peut-être pour les nordistes, une apothéose, signe pour nous un retour sur des terres trop souvent roulées. Maintenant que je lis le récit de nos devanciers, tout en retraçant de mémoire notre périple, je m’en veux de ne pas avoir pris le temps d’écrire et dessiner sur le vif – invitation à tout recommencer.
 
@@ -197,6 +197,6 @@ Nos voyages sportifs commencent à me lasser. Autant à VTT le ludique du pilota
 
 Annoncé à 10 000 m de d+, je pense que le Tourmagne est plutôt à 12 000 (VisuGPX a tendance à minimiser les dénivelés). [Mon analyse détaillée de la route obtenue depuis OSM](https://727bikepacking.fr/static/tourmagne_road_book_plus.html), arrive à un total de 11 500 m, sachant que les ondulations des longues portions passent inaperçues avec cette approche.
 
-Quel plaisir de traverser la France à vélo ! Après [le P27 en 2022](https://tcrouzet.com/2022/07/15/une-traversee-de-la-france-a-vtt/), je viens donc de récidiver avec le Tourmagne, une version moins exigeante, moins hardcore, et déjà l’envie d’explorer d’autres routes me travaille. En tout cas, grand merci à Mathieu Brunet pour son boulot et à tous les bénévoles qui participent aux reconnaissances sur le Tourmagne. Voici du bikepacking comme il devrait toujours l’être : communautaire, ouvert, non compétitif…
+Quel plaisir de traverser la France à vélo ! Après [le P27 en 2022](https://tcrouzet.com/2022/07/15/une-traversee-de-la-france-a-vtt/), je viens donc de récidiver avec le Tourmagne, une version moins exigeante, moins hardcore, et déjà l’envie d’explorer d’autres routes me travaille. En tout cas, grand merci à Mathieu Brunet pour son boulot et à tous les bénévoles qui participent aux reconnaissances. Voici du bikepacking comme il devrait toujours l’être : communautaire, ouvert, non compétitif…
 
 #velo #bikepacking #gravel #y2026 #2026-07-28-21h00
