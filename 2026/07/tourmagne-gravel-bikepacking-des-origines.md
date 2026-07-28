@@ -79,7 +79,7 @@ Nous franchissons la Loire à Châtillon-sur-Loire, puis suivons plus ou moins s
 
 Nous commençons à gagner beaucoup de temps sur les pionniers. Après Moulins, le terrain ondule. Je reconnais des secteurs roulés sur la GTMC, regrette les beaux singles en forêt, très gravel, non loin de la trace (je les indiquerai à Mathieu). Nous nous arrêtons grignoter à la boulangerie (industrielle) de Châtel-de-Neuvre et j’ai un sentiment de déjà-vu. Je me suis assis exactement au même endroit en 2021. Je reconnais les rues touristiques de Charoux, le spot de baignade à Ébreuil où nous nous ravitaillons : nous risquons de ne plus rien trouver d’ici la fin de la journée.
 
-Notre groupe se scinde. Les plus jeunes s’arrêtent pour se baigner, les plus vieux et moins costauds comme moi poursuivent. Nous mangeons du dénivelé dans des paysages de plus en plus sauvages. Ça monte, parfois avec des pourcentages méchants. La descente vers le barrage de la Serp le long de la combe de Lèbre fait claquer les dents et exige la plus grande prudence.
+Notre groupe se scinde. Les plus jeunes s’arrêtent pour se baigner, les plus vieux et moins costauds comme moi poursuivent. Nous mangeons du dénivelé dans des paysages de plus en plus sauvages. Ça monte, parfois avec des pourcentages méchants. La descente vers le barrage de la Sep le long de la combe de Lèbre fait claquer les dents et exige la plus grande prudence.
 
 ![Zone difficile](_i/tourmagne04.webp)
 
