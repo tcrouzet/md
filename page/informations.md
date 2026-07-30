@@ -270,6 +270,10 @@ Novembre, publication de [*Rush*](../books/rush.md) chez PVH.
 
 Février, décès d’[Isa](https://tcrouzet.com/tag/isa/).
 
+Avril, je reprends *La Zone* pour en faire *L’expérience humaine*.
+
+Juillet, premier jet de *L’expérience humaine*, [version interactive de *One Minute*](https://tcrouzet.github.io/OneMinute/), republication web de mes [géolectures](https://tcrouzet.github.io/geolecture/).
+
 ### Interviews
 
 2024 - [Raconte moi](https://www.youtube.com/watch?v=FJf3zbvgtUM&ab_channel=Racontemoi)

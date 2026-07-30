@@ -1,6 +1,6 @@
 ---
 metatitle: "Tourmagne : traverser la France à gravel comme en 1897"
-metadescription: "Découvrez le Tourmagne : 950km à gravel de Melun à Nîmes, dans les roues de deux peintres de 1897. France bucolique, cols sévères et bivouacs entre amis."
+metadescription: "Le Tourmagne : 950km à gravel de Melun à Nîmes, dans les roues de deux peintres de 1897. France bucolique, cols sévères et bivouacs entre amis."
 ---
 
 # Dans les roues de deux peintres de 1897 : le Tourmagne à gravel

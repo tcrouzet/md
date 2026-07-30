@@ -65,7 +65,7 @@ J’utilise depuis deux ans un portefeuille Dyneema de Zpacks, étanche, parfait
 
 ![Sifflet Vargo](_i/2026-07-12-121730.webp)
 
-[Je vous laisse explorer le détail de ma configuration.](https://docs.google.com/spreadsheets/d/1Co6BJql8z7uWCvAokGcDrKaEyAMb-X_zLue6_id3nB4/edit?usp=sharing) Si j’apprécie le Tourmagne et [les deux cents communes traversées](https://727bikepacking.fr/static/tourmagne_road_book.html), je partirai avec la même config sur [le g727 fin septembre](https://727bikepacking.fr/g727-Grand-Depart/), sans doute avec la tente à la place du bivy+tarp.
+[Je vous laisse explorer le détail de ma configuration.](https://docs.google.com/spreadsheets/d/1Co6BJql8z7uWCvAokGcDrKaEyAMb-X_zLue6_id3nB4/edit?usp=sharing) Si j’apprécie le Tourmagne et [les deux cents communes traversées](https://727bikepacking.fr/static/tourmagne_road_book.html), je partirai avec la même config sur [le g727 fin septembre](https://727bikepacking.fr/g727-Grand-Depart/), sans doute avec la tente à la place du bivy+tarp. 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQtXMtpZrGSpN66bcB2kZJOEYfbSKyhhKy6cAtTCVE7unBsf85UIawZni0HyVScCcyS2C1DRbdeiar6/pubhtml?widget=true&amp;headers=false"></iframe>
 
