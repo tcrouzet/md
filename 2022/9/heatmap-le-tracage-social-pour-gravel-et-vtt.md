@@ -37,7 +37,7 @@ La dernière image montre la réalité du terrain vue par la heatmap. Une densit
 
 Quand je trace loin de chez moi, je me demande souvent si tel ou tel secteur est roulable. Je suis rassurée si la trace me paraît abondamment parcourue sur la heatmap. Moins il y a de passage, plus j’ai des doutes. Le plus difficile reste alors de savoir dans quel sens la trace est roulée, c’est à ce moment que j’utilise les courbes de niveau de la Topo 25.
 
-La heatmap a tout de même un défaut, elle marche d’autant mieux que la région est peuplée. Quand ma [P27](../../../../page/p27.md) est arrivée en Auvergne, j’ai pris le risque de traverser des secteurs invisibles sur la heatmap, qui néanmoins étaient présents sur les cartes, ou tout au moins visibles sur les images satellites.
+La heatmap a tout de même un défaut, elle marche d’autant mieux que la région est peuplée. Quand ma [P27](../../../727/p27.md) est arrivée en Auvergne, j’ai pris le risque de traverser des secteurs invisibles sur la heatmap, qui néanmoins étaient présents sur les cartes, ou tout au moins visibles sur les images satellites.
 
 Mais cette méthode est toujours hasardeuse et nécessite des reconnaissances. Souvent, des chemins ne sont pas roulés parce qu’ils sont privés, bloqués par des grillages. Les routeurs automatiques tombent dans ce piège, tout comme d’envoyer des cyclistes sur des chemins de randonnée pédestre impraticables. D’après mon expérience, la heatmap garantit la plus ou moins bonne roulabilité. Elle m’est devenue indispensable, mais pour autant je continue à prendre des risques en sortant des sentiers battus.
 

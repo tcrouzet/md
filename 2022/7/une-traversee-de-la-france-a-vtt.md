@@ -4,7 +4,7 @@
 
 Le voyage appelle le voyage. En juillet 2021, [alors que je montais à Paris depuis Sète pour redescendre en intercité vers Avallon avant d’attaquer la GTMC](../../2021/7/la-gtmc-des-bijoux-a-travers-les-cailloux.md), je me suis dit que cette dernière étape ferroviaire n’avait aucun sens. Je me suis promis en 2022 de partir directement de Paris pour un périple qui me ramènerait chez moi. J’ai vite constaté qu’il n’existait aucune trace VTT filant vers la Méditerranée depuis la capitale et [j’ai passé des dizaines d’heures](../5/visugpx-a-revolutionne-ma-technique-de-tracage.md), sans doute pas loin de deux cents, à en créer une, avec la peur que le passage de la théorie à la pratique soit pour le moins hasardeux, surtout dans les régions où les traces en partage sont rares, voire inexistantes.
 
-[Trace mise à jour après le voyage et infos diverses…](../../../../page/p27.md)
+[Trace mise à jour après le voyage et infos diverses…](../../../727/p27.md)
 
 ![Trace du P27](_i/p27map.webp)
 

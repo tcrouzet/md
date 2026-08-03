@@ -16,7 +16,7 @@ Configuration type pour un [727](/727tour/). Début avril dans l’Hérault, on 
 
 ![Sac de selle Lucy Rujdan](_i/IMG_7785.webp)
 
-Configuration estivale pour un [P27](../../../../page/p27.md) qui s’annonce ensoleillé et sec. J’évite la tente et me contente d’un bivy sans tarp. J’aime de plus en plus dormir à la belle étoile et apprécie la rapidité de mise en œuvre du bivy. En cas d’orage ou de forte humidité, nous rechercherons des abris.
+Configuration estivale pour un [P27](../../../727/p27.md) qui s’annonce ensoleillé et sec. J’évite la tente et me contente d’un bivy sans tarp. J’aime de plus en plus dormir à la belle étoile et apprécie la rapidité de mise en œuvre du bivy. En cas d’orage ou de forte humidité, nous rechercherons des abris.
 
 Pour ramener du poids vers l’arrière et maintenir mon sac de guidon sous les 2 kg, j’ai choisi un sac de selle un peu plus grand, passant d’un 3 litres à un 8 litres. Comme il descend très bas le long du tube de selle, il ne m’empêche pas de passer les fesses derrière la selle lors des secteurs techniques.
 

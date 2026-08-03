@@ -12,6 +12,6 @@ Au départ, je comptais tracer droit vers le sud depuis Paris pour créer une Fr
 
 Pour ne pas retomber sur la GTMC et la French Divide en tirant vers l’est, je travaille sur une trace plus à l’ouest, qui a l’avantage de traverser plusieurs parcs naturels : Haute Vallée de Chevreuse, Perche, Brenne, Millevaches, Volcans d’Auvergne, Aubrac, Grands Causses, Haut-Languedoc, sans oublier quelques châteaux de la Loire et la Creuse. Elle avoisine les 1 200 km pour 15 000 mètres de dénivelé positifs. Elle culmine au [Plomb du Cantal](https://fr.wikipedia.org/wiki/Plomb_du_Cantal), à 1 855 m. Nous y grimperons avec la télécabine depuis [Le Lioran](https://www.lelioran.com/).
 
-Si vous êtes intéressés par le P27, [rejoignez le groupe pour en discuter](https://www.facebook.com/groups/727tour). Si vous êtes tenté pour rouler la trace, [j’ai crée un évènement sur le groupe](https://www.facebook.com/events/1126486894583418/). Retrouvez la trace [sur Google Map](https://www.google.com/maps/d/edit?mid=1aOpTpVoErEH4ktaOHay-1oC6GkurIRJO&usp=sharing) et [sur ma page dédiée](../../../../page/p27.md).
+Si vous êtes intéressés par le P27, [rejoignez le groupe pour en discuter](https://www.facebook.com/groups/727tour). Si vous êtes tenté pour rouler la trace, [j’ai crée un évènement sur le groupe](https://www.facebook.com/events/1126486894583418/). Retrouvez la trace [sur Google Map](https://www.google.com/maps/d/edit?mid=1aOpTpVoErEH4ktaOHay-1oC6GkurIRJO&usp=sharing) et [sur ma page dédiée](../../../727/p27.md).
 
 #p27 #velo #y2022 #2022-4-30-14h53

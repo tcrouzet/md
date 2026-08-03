@@ -20,7 +20,7 @@ Magnifique d’avoir organisé cette troisième édition avec l’Entente Cyclis
 
 ### Début avril, c’est trop tôt
 
-Pour diminuer les risques des aléas météo, je décalerai à l’avenir le 727 au week-end de l’Ascension (l’année prochaine ce sera un [i727](https://tcrouzet.com/i727) — la trace actuelle inaugurée en 2021 sera remaniée). En attendant, rendez-vous le 23 septembre pour le premier [g727](../../../../page/g727.md) (ne roulez pas cette trace avant, c’est un prototype).
+Pour diminuer les risques des aléas météo, je décalerai à l’avenir le 727 au week-end de l’Ascension (l’année prochaine ce sera un [i727](https://tcrouzet.com/i727) — la trace actuelle inaugurée en 2021 sera remaniée). En attendant, rendez-vous le 23 septembre pour le premier [g727](../../../727/g727.md) (ne roulez pas cette trace avant, c’est un prototype).
 
 ### Le devoir d’assistance
 
