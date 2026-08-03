@@ -5,7 +5,7 @@ metadescription: "Site g727 revampé, ultra lancé, 20 places pour septembre. Re
 
 # Le g727 toujours plus sexy
 
-Je viens de tailler un nouveau costume aux traces 727, [en revampant le site dédié](https://727bikepacking.fr/). J’ai essayé de le rendre plus clair, et surtout beaucoup plus facile à maintenir (je publiais avec [le générateur Jekyll](https://github.com/jekyll/jekyll), une belle usine à gaz). [J’utilise désormais la même mécanique que pour mon site perso.](https://github.com/tcrouzet/NoMoreWordPress) J’en ai profité pour redessiner le logo 727 en vectoriel (on espère bientôt proposer des bidons en bioplastique à nos couleurs).
+Je viens de tailler un nouveau costume aux traces 727, [en revampant le site dédié](https://727bikepacking.fr/). J’ai essayé de le rendre plus clair, et surtout beaucoup plus facile à maintenir (je publiais avec [le générateur Jekyll](https://github.com/jekyll/jekyll), une belle usine à gaz). [J’utilise désormais la même mécanique que pour mon site perso.](https://github.com/tcrouzet/NoMoreWordPress) J’en ai profité pour redessiner le logo 727 en vectoriel (on espère bientôt proposer des bidons en bioplastique à nos couleurs). 
 
 [![Logo 727](_i/727logo_noir.webp)](https://github.com/tcrouzet/727/blob/master/assets/img/727logo_noir.svg)
 
