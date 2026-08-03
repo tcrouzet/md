@@ -27,6 +27,6 @@ Après [la mise à l’épreuve de mon Diverge 4 sur le Tourmagne](https://tcrou
 
 Avec moi, des copains roulaient avec des VTT semi-rigides ultralégers. Je ne me suis jamais senti avantagé avec mon gravel, sauf dans les descentes asphaltées où je prenais plus de vitesse. Pour le bikepacking, partir avec un gravel confortable ou un VTT semi-rigide reste donc avant tout une question de goût. Nous avions tous des pneus gravel en 50 mm (sauf ce maso de Jacques).
 
-Et pour tout dire, je préfère toujours les traces VTT, même si elles me paraissent de plus en plus éprouvantes. Dès que des singles se présentent, je ne ressens plus la fatigue. Sur les g727, je traque donc les singles compatibles gravel pour rompre la monotonie des longues pistes. J’espère vous régaler fin septembre. Le meilleur de la trace, c’est toujours vous, nos échanges, nos éclats de rire. À très vite. 
+Et pour tout dire, je préfère toujours les traces VTT, même si elles me paraissent de plus en plus éprouvantes. Dès que des singles se présentent, je ne ressens plus la fatigue. Sur les g727, je traque donc les singles compatibles gravel pour rompre la monotonie des longues pistes. J’espère vous régaler fin septembre. Le meilleur de la trace, c’est toujours vous, nos échanges, nos éclats de rire. À très vite.
 
 #velo #727bikepacking #y2026 #2026-08-03-19h00
