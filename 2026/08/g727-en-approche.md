@@ -13,7 +13,7 @@ J’ai aussi amélioré [un de mes outils GPX](https://github.com/tcrouzet/img2g
 
 ![g727 Ultra thumb](_i/_g727-ultra_map.webp)
 
-Avis aux derniers amateurs, il reste une vingtaine de places pour septembre. Pour rappel, on ne peut pas laisser partir plus de 99 bikepackers. Il nous reste une petite reco à effectuer sur la frontière espagnole, nous attendons la fin des fortes chaleurs et surtout la réouverture des massifs forestiers (si vous habitez vers Cerbère, faites-moi signe).
+Avis aux derniers amateurs, il reste une vingtaine de places pour septembre. Pour rappel, on ne peut pas laisser partir plus de 99 bikepackers. Encore une petite reco au programme sur la frontière espagnole : nous attendons la fin des fortes chaleurs et surtout la réouverture des massifs forestiers (si vous habitez vers Cerbère, faites-moi signe).
 
 ![g727 2026](_i/_g727-2026_map.webp)
 
