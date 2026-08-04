@@ -3,6 +3,8 @@ metatitle: "Carnet de Thierry Crouzet, juillet 2026"
 metadescription: "Deuil en compagnie d’Iris Murdoch, l’attention aux autres comme forme d’amour. Un périple à vélo, Paris sans elle, des amis comme ancrage."
 ---
 
+# Juillet 2026
+
 ### Mercredi 1<sup>er</sup>, Balaruc
 
 Un vent du nord à tout arracher, brûlant, gifle les vagues et les lentisques.
