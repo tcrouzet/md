@@ -21,7 +21,7 @@ Humour noir : un livre sur le deuil, c’est doublement un bon coup : 1/ beau
 
 ---
 
-Un veuf ne devrait pas s’inquiéter de finir sa vie seul car il y a beaucoup plus de femmes seules.
+Un veuf ne devrait pas s’inquiéter de finir sa vie seul car il y a beaucoup plus de femmes seules que d’hommes seuls.
 
 ---
 
@@ -35,11 +35,11 @@ Je trouve une autre photo, du 11 novembre, qui résume Isa : sur le tableau bla
 
 ### Vendredi 3, Balaruc
 
-Plus je plonge dans Murdoch, plus je me dis qu’Isa l’aurait adorée, et je m’intéresse à elle grâce à Isa:: elle en moi est curieuse de Murdoch. Et Murdoch me parle comme si elle était Isa.
+Plus je plonge dans Murdoch, plus je me dis qu’Isa l’aurait adorée, et je m’intéresse à elle grâce à Isa : elle en moi est curieuse de Murdoch. Murdoch me parle comme si elle était Isa.
 
 ### Samedi 4, Balaruc
 
-Murdoch : « Art then is not a diversion or a side-issue, it is the most educational of all human activities and a place in which the nature of morality can be _seen_. » Je suis d’accord, mais ça tombe un peu du ciel dans *The Sovereignty of Good*.
+Murdoch : « Art then is not a diversion or a side-issue, it is the most educational of all human activities and a place in which the nature of morality can be _seen_. » Je suis d’accord, mais ça tombe du ciel dans *The Sovereignty of Good*.
 
 Elle dit combien écrire la mort est difficile. *L’Expérience humaine* n’est pas un récit sur la mort, mais sur la marche vers elle, quand c’est encore la vie. Il n’y a rien à dire sur la mort.
 
@@ -47,7 +47,7 @@ Elle dit combien écrire la mort est difficile. *L’Expérience humaine* n’es
 
 Celui qui s’oublie dans sa voiture et écrase quelqu’un n’est ni en communion ni attentif. Pas plus que le tueur. S’oublier et se tendre exige un effort. Faire le bien est difficile.
 
-Murdoch pose des questions comme : « Dois-je me séparer de ma compagne au risque de nuire à nos enfants ? » Première tâche, je me mets en retrait, je fais taire mon ego. Donc, a priori, je ne quitte pas ma femme si mes enfants sont plus heureux quand nous sommes ensemble. En revanche, je la quitte si ensemble nous les rendons malheureux, ou je tente d’être à nouveau heureux avec ma femme pour rendre nos enfants heureux. Ce serait sans doute la voie choisie par Murdoch, celle que nous avons un jour choisie, Isa et moi, pour notre plus grand bonheur.
+Murdoch pose des questions comme : « Dois-je me séparer de ma compagne au risque de nuire à nos enfants ? » Première tâche, je me mets en retrait, je fais taire mon ego. Donc, a priori, je ne quitte pas ma femme si mes enfants sont plus heureux quand nous sommes ensemble. En revanche, je la quitte si ensemble nous les rendons malheureux, ou je tente d’être à nouveau heureux avec ma femme pour rendre nos enfants heureux. Ce serait sans doute la voie choisie par Murdoch, celle que nous avons un jour choisie Isa et moi, pour notre plus grand bonheur.
 
 ### Dimanche 5, Balaruc
 
@@ -67,11 +67,11 @@ Je ne lis presque que des femmes, je n’écoute presque que des femmes, je suis
 
 ---
 
-[Hermann Hesse](https://www.themarginalian.org/2026/07/02/hermann-hesse-solitude-suffering-destiny/) : « When destiny comes to a man from outside, it lays him low, just as an arrow lays a deer low. When destiny comes to a man from within, from his innermost being, it makes him strong, it makes him into a god… » J’ai tendance à attendre quelque chose de l’extérieur en ce moment alors qu’en effet ma vie d’après Isa, avec Isa, ne peut venir que de moi.
+[Hermann Hesse](https://www.themarginalian.org/2026/07/02/hermann-hesse-solitude-suffering-destiny/) : « When destiny comes to a man from outside, it lays him low, just as an arrow lays a deer low. When destiny comes to a man from within, from his innermost being, it makes him strong, it makes him into a god… » J’ai tendance à attendre quelque chose de l’extérieur en ce moment alors que ma vie d’après Isa, avec Isa, ne peut venir que de moi.
 
 ---
 
-Comment ne pas être assertif, comment ne pas affirmer des vérités comme plus haut Rilke ou Hesse ? Peut-être en se montrant en recherche, hésitant, disant une chose et son contraire, avançant à tâtons… ou en écrivant des romans avec des personnages qui défendent des positions différentes. C’était en quelque sorte de projet de *One Minute*.
+Comment ne pas être assertif, comment ne pas affirmer des vérités comme plus haut Rilke ou Hesse ? Peut-être en se montrant en recherche, hésitant, disant une chose et son contraire, avançant à tâtons… ou en écrivant des romans avec des personnages qui défendent des positions différentes. C’était le projet de *One Minute*.
 
 ---
 
@@ -91,7 +91,7 @@ Murdoch, *The Black Prince* : « I am as clever as he is. He has just blocked 
 
 Murdoch, à la fin de *La souveraineté du bien* : « Humility is a rare virtue and an unfashionable one and one which is often hard to discern. Only rarely does one meet somebody in whom it **positively** shines, in whom one apprehends with amazement the absence of the anxious avaricious tentacles of the self. »
 
-Traduction française officielle : « L’humilité est une vertu rare, passée de mode et souvent difficile à discerner. Il est rare de rencontrer quelqu’un chez qui elle rayonne **de manière positive** \[très contestable traduction de *positively*, je ne suis pas sûr que Murdoch ait voulu faire la différence entre une façon de briller positive et une autre négative, ce qui n’aurait aucun sens pour une vertu en elle-même positive – pour moi Murdoch insiste simplement], chez qui on découvre avec stupéfaction l’absence des tentacules avides et anxieux du moi. »
+Traduction française officielle : « L’humilité est une vertu rare, passée de mode et souvent difficile à discerner. Il est rare de rencontrer quelqu’un chez qui elle rayonne **de manière positive** \[très contestable traduction de *positively*, je ne suis pas sûr que Murdoch ait voulu faire la différence entre une façon de briller positive et une autre négative, ce qui n’aurait aucun sens pour une vertu en elle-même positive], chez qui on découvre avec stupéfaction l’absence des tentacules avides et anxieux du moi. »
 
 Ma traduction : « L’humilité est une vertu rare, démodée, souvent difficile à discerner. On ne rencontre qu’exceptionnellement quelqu’un chez qui elle brille, chez qui on perçoit avec stupeur l’absence des tentacules avides et anxieux du moi. »
 
@@ -99,7 +99,7 @@ J’ai commencé par traduire *positively* par « vraiment » pour marquer l�
 
 *La souveraineté du bien*, première ligne de la VF :  « Chez les êtres humains, le développement de la conscience est indissolublement lié à l’usage de la métaphore. » C’est balancé, prends ça dans la gueule. Mais d’où ça sort ? Murdoch va chercher ça où ? Personne n’est encore capable de comprendre comment la conscience fonctionne et en 1970 Murdoch sait des trucs sur son développement. C’est très surprenant, voire faible.
 
-Elle ne dit pas qu’elle pose ça comme postulat comme elle fait plus tard pour d’autres hypothèses. Du coup, tout s’écroule. Personne pour tiquer sur la série d’émissions France Culture dédiée à Murdoch. Elle affirme, assène, très rarement nuance comme quand elle dit : « Il me semble toutefois impossible de discuter certains types de concepts sans recourir à la métaphore, étant donné que les concepts sont en eux-mêmes profondément métaphoriques et qu’ils ne se laissent pas analyser en composants non métaphoriques sans y laisser de leur substance. » Là on est un peu plus pragmatique, elle aurait pu commencer comme ça. Sauf qu’elle introduit la substance du concept, encore un truc venu de Mars. Ça continue ainsi. Ce n’est pas très bon, sauf si on la lit comme une moraliste qui donne une leçon. Pourtant elle me parle, j’y trouve à penser.
+Elle ne dit pas qu’elle pose un postulat comme elle fait plus tard pour d’autres hypothèses. Du coup, tout s’écroule. Personne pour tiquer sur la série d’émissions France Culture dédiée à Murdoch. Elle affirme, assène, très rarement nuance comme quand elle dit : « Il me semble toutefois impossible de discuter certains types de concepts sans recourir à la métaphore, étant donné que les concepts sont en eux-mêmes profondément métaphoriques et qu’ils ne se laissent pas analyser en composants non métaphoriques sans y laisser de leur substance. » Là on est pragmatique, elle aurait pu commencer comme ça. Sauf qu’elle introduit la substance du concept, encore un truc venu de Mars. Ça continue ainsi. Ce n’est pas très bon, sauf si on la lit comme une moraliste qui donne une leçon. Pourtant elle me parle, j’y trouve à penser.
 
 ---
 
@@ -109,7 +109,7 @@ Viens de me nouer le ventre avec [Iris](https://www.youtube.com/watch?v=4lKxdTOz
 
 ### Jeudi 9, Balaruc
 
-Maintenant que je ne suis plus dans mon livre, que je l’ai mis à distance, je suis moins avec Isa et son absence me manque beaucoup plus.
+Maintenant que je ne suis plus dans *L’expérience humaine*, que je l’ai mis à distance, je suis moins avec Isa et son absence me manque beaucoup plus.
 
 J’orbite dans un univers quasi exclusivement masculin, et prends conscience de l’énergie féminine qu’Isa me donnait : c’est la double peine, elle me manque, et me manque ce qu’elle me donnait. Plusieurs prises ont été déclenchées : affective, féminine, intellectuelle.
 
@@ -121,7 +121,7 @@ J’orbite dans un univers quasi exclusivement masculin, et prends conscience de
 
 Après mon livre, je suis dans le noir. Le plus dur commence peut-être. Une amie m’a fait remarquer qu’Isa avait beaucoup d’amies et que j’orbitais dans un monde de femmes soudain évaporé. Le féminisme d’Isa était une source d’énergie à laquelle je ne suis plus branché. Peut-être les femmes sont mieux armées que les hommes pour vivre seules, capables de produire assez d’énergie masculine pour vivre ? Si elles sont sur secteur alternatif, nous sommes sur tension continue.
 
-Deux fois ce matin, j’ai traversé à vélo une route par un passage piéton, deux fois des gars ont klaxonné, un m’a même foncé dessus. Je me suis arrêté pour demandet au premier s’il avait mal dormi. Il est devenu tout rouge, a commencé à ouvrir sa portière. Moi : « Maintenant tu veux me frapper parce que j’ai traversé une route par un passage piéton ? » Il est reparti.
+Deux fois ce matin, j’ai traversé à vélo une route par un passage piéton, deux fois des gars ont klaxonné, un m’a même foncé dessus. Je me suis arrêté pour demander au premier s’il avait mal dormi. Il est devenu tout rouge, a commencé à ouvrir sa portière. Moi : « Maintenant tu veux me frapper parce que j’ai traversé une route par un passage piéton ? » Il est reparti.
 
 J’ai du mal à comprendre. Laisser passer un vélo ne fait pas perdre de temps : nous traversons parce que les voitures avancent lentement. Il leur suffit de ralentir puis d’accélérer pour reprendre leur place dans la file. Que nous forcions le passage déclenche chez l’automobiliste une décharge d’énergie noire. C’est étonnant. Ce phénomène de *bike rage* a été étudié. En gros, l’automobiliste se sent propriétaire de la route et nous juge comme des intrus. Pour lui, ralentir, c’est une remise en cause symbolique plutôt qu’une simple contrainte de circulation. Autrement dit, nous assistons à sa perte de pédale, tandis que nous autres appuyons sur les nôtres avec douceur.
 
@@ -129,9 +129,9 @@ J’ai du mal à comprendre. Laisser passer un vélo ne fait pas perdre de temps
 
 La question du Murdoch : « Comment nous rendre meilleurs que nous ne sommes ? » Par exemple : comment ne pas perdre les pédales ?
 
-Elle parle de « homme ordinaire » ou de « croyant ordinaire », expression détestable, et même en contradiction avec ce qu’elle dit par ailleurs, puisque l’attention permet de déceler les différences, les nuances, faisant exploser l’idée d’ordinaire. Il n’y a rien d’ordinaire et mieux on regarde, plus l’extraordinaire nous traverse.
+Elle parle d’« homme ordinaire » ou de « croyant ordinaire », expression détestable, et même en contradiction avec ce qu’elle défend par ailleurs, puisque l’attention permet de déceler les différences, les nuances, faisant exploser l’idée d’ordinaire. Il n’y a rien d’ordinaire et mieux on regarde, plus l’extraordinaire nous traverse.
 
-La beauté nous détourne de nous-mêmes pour nous aspirer, elle réveille notre attention. Depuis la mort d’Isa, en écrivant sur elle, sur sa beauté, je me suis détourné de moi-même. Je fais pareil quand je pédale. Je suis un corps dans le monde, je ne suis plus obsédé par mon moi (ce qui n’est pas le cas de tous les cyclistes, surtout les compétitifs).
+La beauté nous détourne de nous-mêmes pour nous aspirer, elle réveille notre attention. Depuis la mort d’Isa, en écrivant sur elle, sur sa beauté, je me suis détourné de moi-même. Je fais pareil quand je pédale. Je suis un corps dans le monde, je ne suis plus obsédé par moi (ce qui n’est pas le cas de tous les cyclistes, surtout les compétiteurs).
 
 Très beau passage sur l’épervier : « Je suis en train de regarder par la fenêtre, l’esprit inquiet, amer, oublieuse de tout ce qui m’entoure, remâchant peut-être quelque préjudice infligé à mon prestige. Quand soudain je remarque le vol d’un épervier. Et voici que tout change en un instant. Le moi ruminant sa vanité blessée s’est évanoui. Seul demeure cet épervier qui plane. Et si je viens à repenser à l’idée qui me préoccupait auparavant, il me semble tout à coup qu’elle a perdu de sa gravité. Et, assurément, il y a là quelque chose que nous pouvons aussi pratiquer délibérément : accorder notre attention à la nature pour délivrer notre esprit du souci de soi. »
 
@@ -159,17 +159,17 @@ Cinq mois.
 
 ### Jeudi 16, TGV
 
-Mon père, aujourd’hui, aurait eu 90 ans. Son copain d’enfance est toujours vivant. Moi, je monte à Paris pour la première fois depuis la mort d’Isa. Jusque-là je n’avais quitté la maison que pour pédaler, et cette fois aussi, mais d’abord un arrêt de trois jours, pour passer un peu de temps avec Tim. Ventre noué. Toujours cette sensation d’être sur les rails d’une voie de garage connue d’avance. J’en suis réduit à écrire des banalités, ce qui est sans doute le propre de la voie de garage.
+Mon père, aujourd’hui, aurait eu 90 ans. Son copain d’enfance est toujours vivant. Moi, je monte à Paris pour la première fois depuis la mort d’Isa. Jusque-là je n’avais quitté la maison que pour pédaler, et cette fois aussi, mais d’abord un arrêt de trois jours, pour passer un peu de temps avec Tim. Ventre noué. Toujours cette sensation d’être sur les rails d’une voie de garage connue d’avance. J’en suis réduit à écrire des banalités, ce qui est le propre de la voie de garage.
 
 ---
 
-C’est fou comme Murdoch enchaîne des affirmations dans *La souveraineté du bien*. Elle parle d’un art authentique. J’aimerais savoir ce que c’est que l’art authentique. Suis-je un artiste authentique ? J’en suis à ma seconde lecture, parce que le texte m’intrigue, et en même temps je le trouve peu féminin, un peu frimeur.
+C’est fou comme Murdoch enchaîne des affirmations dans *La souveraineté du bien*. Elle parle d’un art authentique. J’aimerais savoir ce qu’est que l’art authentique. Suis-je un artiste authentique ? J’en suis à ma seconde lecture, parce que le texte m’intrigue. En même temps, je le trouve peu féminin, un peu frimeur.
 
 « L’œuvre d’art a le pouvoir de transcender les limites égocentriques et obsessionnelles de la personnalité, et d’agrandir la sensibilité de celui qui contemple cette œuvre. » Elle devrait raconter comment une œuvre d’art provoque cet effet sur elle, plutôt que généraliser, parce que je suppose que les œuvres d’art n’ont pas cet effet sur tout le monde. Sur certaines personnes elles n’ont aucun effet. Je n’ai jamais vu mes parents bouleversés par l’art, encore moins être arrachés à eux-mêmes par lui.
 
-Chez Murdoch philosophe, son « je » me manque. Ce qui m’intéresse, c’est pourquoi elle pense telle ou telle chose, plutôt que la pensée en elle-même, souvent contestable, voire réfutable, par un seul contre-exemple – mes parents. Je suis plus curieux du processus que du résultat. Dire : « Aujourd’hui, je pense ça. » C’est incontestable en quelque sorte. On peut dire que je me trompe, mais on ne peut nier que j’ai pensé ça.
+Chez Murdoch philosophe, son « je » me manque. Ce qui m’intéresse, c’est pourquoi elle pense telle ou telle chose, plutôt que la pensée en elle-même, souvent contestable, voire réfutable, par un seul contre-exemple – mes parents. Je suis plus curieux du processus que du résultat. Dire : « Aujourd’hui, je pense ça. » C’est incontestable. On peut dire que je me trompe, mais on ne peut nier que j’ai pensé ça.
 
-Bien sûr, c’est la même chose quand Murdoch écrit, mais comme elle use très peu du je, et trop peu, j’ai tendance à me dire qu’elle croit à ce qu’elle dit, qu’elle veut m’en convaincre, et établir une sorte de vérité. Là, je me sens agressé, tutoré, pris par la main. Non, raconte-moi ton expérience et peut-être je la ferai mienne. Ou alors sois scientifique, démontre, avance pas à pas. Pose tes postulats, appuie-toi sur eux.
+Bien sûr, c’est la même chose quand Murdoch écrit, mais comme elle use très peu du je, j’ai tendance à me dire qu’elle croit à ce qu’elle dit, qu’elle veut m’en convaincre, et établir une sorte de vérité. Là, je me sens agressé, tutoré, pris par la main. Non, raconte-moi ton expérience et peut-être je la ferai mienne. Ou alors sois scientifique, démontre, avance pas à pas. Pose tes postulats, appuie-toi sur eux.
 
 ### Jeudi 16, Paris
 
@@ -181,7 +181,7 @@ On me demande comment je vais. Je vais au mieux que je puisse aller. Je suis un 
 
 ---
 
-Vieillir en couple, c’est s’adapter à l’autre, c’est se faire la pièce exacte qui s’emboîte dans lui, c’est comme la lune qui tourne autour de la terre et tourne sur elle-même exactement à la même vitesse pour toujours lui montrer la même face. Dans un couple, il y a la même friction gravitationnelle. Quand l’un des deux astres disparaît, le survivant continue de tourner pour lui, ce qui l’empêche de tourner pour quelqu’un d’autre. Ou il faut imaginer une prise mâle et une femelle, mais de formes très particulières, uniques, et pour lesquelles il n’existe pas de pièce de rechange.
+Vieillir en couple, c’est s’adapter à l’autre, c’est se faire la pièce exacte qui s’emboîte dans lui, c’est comme la lune qui tourne autour de la terre et tourne sur elle-même à la même vitesse pour toujours lui montrer la même face. Dans un couple, il y a la même friction gravitationnelle. Quand l’un des deux astres disparaît, le survivant continue de tourner pour lui, ce qui l’empêche de tourner pour quelqu’un d’autre. Ou il faut imaginer une prise mâle et une femelle, mais de formes très particulières, uniques, et pour lesquelles il n’existe pas de pièce de rechange.
 
 S’il est toujours difficile de se trouver une contrepartie, ça devient presque impossible après avoir été embouti durant des décennies par une autre. Le deuil est donc doublement difficile, parce que d’un côté il y a l’absence, le manque de l’ancienne force de gravité, qui était rassurante, une présence, une caresse, et la certitude d’être devenu impropre à de nouvelles intimités, et même d’en perdre le désir.
 
@@ -207,11 +207,15 @@ A me raconte une anecdote qui, selon elle, a signé la rupture affective entre I
 
 ### Samedi 18, Paris
 
-Le début de *The Sea, the sea* de Murdoch est sublime : la description de la mer donne envie d’y courir, et aussi du pays, de la lande, de la maison. Puis le narrateur raconte sa misérable vie, son étroitesse d’esprit vite étouffante. Murdoch fait tout pour que je le déteste : objectif réussi. So what ? Je commence à m’emmerder dans ce roman peu romanesque.
+Le début de *The Sea, the sea* de Murdoch est sublime : la description de la mer donne envie d’y courir, et aussi de découvrir le pays, la lande, la maison sur la falaise. Puis le narrateur raconte sa misérable vie, son étroitesse d’esprit vite étouffante. Murdoch fait tout pour que je le déteste : objectif réussi. So what ? Je commence à m’emmerder dans ce roman peu romanesque.
 
 ---
 
-Des moments comme à cet instant, où monte une envie folle de parler avec elle, d’échanger avec elle, de me confier à elle, et d’entendre ses paroles apaisantes. C’est d’autant plus fort ce matin, dans l’appart, alors que Tim a dormi chez son amie.
+Des moments comme à cet instant, où monte une envie folle de parler avec elle, d’échanger avec elle, de me confier à elle, d’entendre ses paroles apaisantes. C’est d’autant plus fort ce matin, dans l’appart, alors que Tim a dormi chez son amie.
+
+### Dimanche 19, Paris
+
+Les amis arrivent, nous partons à vélo à travers la France.
 
 ### Mardi 21, Nevers
 
@@ -223,11 +227,11 @@ Né en 63, j’ai 63 ans. Isa n’aura pas eu la chance de naître en 70 et d’
 
 ### Dimanche 26, Balaruc
 
-Pas encore la force de remettre le cerveau en marche. Je discute avec JM jusqu’à ce le raccompagner à la gare.
+Pas encore la force de remettre le cerveau en marche. Je discute avec JM jusqu’à le raccompagner à la gare.
 
 ## Lundi 27, Balaruc
 
-Je ne cherche pas après un mot le plus probable, mais le plus improbable. Après une phrase, je cherche la phrase la plus improbable. C’est même tout sauf une question de probabilité, plutôt de musique, de sensation, de couleur. Je ne suis pas un LLM, même s’ils croient que j’écris comme eux. Mon écriture fait en sorte que le mot suivant devient le plus probable pour le lecteur, même si ça n’avait rien d’évident au départ. Le style clair produit un effet de probabilité, qui exige un grand travail d’affinage.
+Quand j’écris, après un mot, je ne cherche pas le plus probable, mais le plus improbable. Idem avec les phrases. C’est même tout sauf une question de probabilité, plutôt de musique, de sensation, de couleur. Je ne suis pas un LLM, même s’ils croient que j’écris comme eux. Mon écriture fait en sorte que le mot suivant devienn le plus probable pour le lecteur, même si ça n’avait rien d’évident au départ. Le style clair produit un effet de probabilité, qui exige un grand travail d’affinage.
 
 ---
 
@@ -235,7 +239,7 @@ Désormais, plutôt que de dire « Lisez cet article, il est top », on nous b
 
 ---
 
-Je vois monter la peur d’un grand écroulement cognitif chez nos jeunes. Moi, j’ai confiance en nos jeunes, en mes jeunes. Ils sauront mettre à profit l’IA et toutes les nouvelles technologies pour corriger les délires causés par les anciennes technologies. Ce n’est pas comme si nous-mêmes avions été parfaits. Nous avons contribué à détruire la planète plus qu’aucune génération avant nous, et peut-être que nos jeunes arrêteront cette course infernale, je les en crois capables. La technologie sera un des ingrédients de la solution, parce qu’elle fait partie de nous depuis l’homo habilis.
+Je vois monter la peur d’un grand écroulement cognitif chez nos jeunes. Moi, j’ai confiance en eux. Ils sauront mettre à profit l’IA et toutes les nouvelles technologies pour corriger les délires causés par les anciennes technologies. Ce n’est pas comme si nous-mêmes avions été parfaits. Nous avons contribué à détruire la planète plus qu’aucune génération avant nous, et peut-être que nos jeunes arrêteront cette course infernale, je les en crois capables. La technologie sera un des ingrédients de la solution, parce qu’elle fait partie de nous depuis l’homo habilis.
 
 ### Mardi 28, Balaruc
 
@@ -243,7 +247,7 @@ Réveil les larmes aux yeux. Frappé par l’absurdité. Je ne suis rien, et par
 
 ### Mercredi 29, Balaruc
 
-Devant un sportif aux résultats hors norme, les gens dans la norme crient systématiquement au dopage. Mais alors pourquoi ne s’étonnent-ils pas des QI hors norme ? Peut-être parce qu’ils ne prennent pas l’intelligence au sérieux, ou qu’ils manquent eux-mêmes de QI.
+Devant un sportif aux résultats hors norme, les gens dans la norme crient au dopage. Mais alors pourquoi ne s’étonnent-ils pas des QI hors norme ? Peut-être parce qu’ils ne prennent pas l’intelligence au sérieux, ou qu’ils manquent eux-mêmes de QI.
 
 Pour ma part, le sport professionnel est un spectacle. Quand un sportif ou une équipe font le spectacle, j’applaudis. Je me fiche de la mise en scène. Je ne suis pas pour le dopage, pour que des jeunes se détruisent la santé. J’ai tout fait pour protéger mes enfants des drogues. Moi-même je n’ai jamais rien pris, pas même du shit ou de l’alcool, je suis un ascète, et je revendique cet ascétisme, mais si certains prennent des risques avec leur santé je n’ai rien à interdire, sinon tenter de les dissuader si j’en ai l’occasion.
 
@@ -251,7 +255,7 @@ Pour rappel, Isa n’a jamais pris aucun risque, ça ne l’a pas empêchée de 
 
 ---
 
-Je suis toujours dans les papiers, les classements. J’ai le malheur de cliquer dans le dossier de ma boîte mail où atterrissaient les mails d’Isa. Je vois son icône avec son visage, son dernier message du 17 janvier, et les larmes arrivent, de très profond, plus facilement qu’avant, plus abondamment.
+Je suis toujours dans les papiers, les classements. J’ai le malheur de cliquer dans le dossier de ma boîte mail où atterrissaient les messages d’Isa. Je vois son icône avec son visage, son dernier message du 17 janvier, et les larmes arrivent, de très profond, plus facilement qu’avant, plus abondamment.
 
 ### Jeudi 30, Les Beauriants
 
@@ -259,7 +263,7 @@ J’ai rejoint une amie dans la maison de famille de son compagnon, avec une fou
 
 Hier, à la recherche de justificatifs, je fouille une caisse dans le garage et tombe sur des souvenirs, écartés du quotidien par Isa. Ils me sautent à la figure : boîte en coquille d’œuf achetée à Londres, empreintes des mains et pieds des enfants dans des blocs de plâtre, photos de classe encadrées, colliers qu’Isa ne portait jamais, pinces à cheveux, des babioles insignifiantes qu’elle n’avait pas jetées, parce qu’elles racontent la vie.
 
-Le temps passe, et je reste sur la berge à le regarder filer. Toute tentative de me remettre en marche est douloureuse, d’autant plus que nous avions décidé de nous sédentariser, d’explorer le monde depuis notre duo, lui était mobile, agissant, plein de projets. Seul, je ne suis capable que d’écrire ou de faire du vélo, deux habitudes trop enracinées qui se perpétuent d’elles-mêmes.
+Le temps passe, et je reste sur la berge à le regarder filer. Toute tentative de me remettre en marche est douloureuse, d’autant plus que nous avions décidé de nous sédentariser, d’explorer le monde depuis notre duo, lui était mobile, agissant, plein de projets. Seul, je ne suis capable que d’écrire ou de faire du vélo, deux habitudes enracinées qui se perpétuent d’elles-mêmes.
 
 J’aimerais que *L’expérience humaine* soit publié, que l’hommage soit reconnu au-delà du cercle des amies. Ce serait une façon de maintenir Isa vivante hors de moi, de dissoudre ma tristesse dans la vie, de continuer de parler d’elle, de projeter un second livre. Je n’ai jamais pensé à la publication en écrivant. J’étais dans le désir d’œuvrer, de faire au mieux, au plus juste, et j’ai la trouille de donner le texte à lire, surtout à nos proches.
 
