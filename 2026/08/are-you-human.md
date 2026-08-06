@@ -13,7 +13,7 @@ J’ai été ramené à un haut degré d’incertitude quant à ma nature en sou
 
 Quand j’ai publié sur Substack une note à ce sujet, un lecteur m’a raconté qu’une de ses amies freelance a été remerciée sans être payée pour avoir produit un texte IA, selon un outil du même genre.
 
-Pourquoi des outils de détection existent-ils ? Je suppose donc qu’ils se destinent à ceux d’entre nous incapables de détecter les productions IA ou qui ne veulent pas se laisser abuser – les professeurs par leurs élèves – ou qui ne veulent surtout pas toucher à cette marchandise factice pour des raisons politiques, écologiques, philosophiques…
+Pourquoi des outils de détection existent-ils ? Je suppose qu’ils se destinent à ceux d’entre nous incapables de détecter les productions IA ou qui ne veulent pas se laisser abuser – les professeurs par leurs élèves – ou qui ne veulent surtout pas toucher à cette marchandise factice pour des raisons politiques, écologiques, philosophiques…
 
 À ce jour, l’existence des outils de détection démontre que deux façons d’écrire s’opposent, l’une IA et l’autre humaine, ce qui n’est pas aussi simple puisqu’il existe autant de façons IA que d’IA, autant de façons humaines que d’humains.
 
@@ -57,9 +57,9 @@ Nous n’avons pas arrêté de jouer aux échecs depuis que les ordinateurs batt
 
 Que des machines écrivent désormais ne nous empêchera pas de continuer d’écrire, et même plus que jamais, parce que l’écriture est un des moyens les plus puissants pour témoigner de l’expérience humaine. Qu’une machine utilise une figure de style ne devrait pas nous dissuader de l’utiliser. Je tiens à ma liberté, devinant autour de nous une nouvelle pression liberticide aux origines troubles.
 
-Le 100 % bio laisse parfois croire à l’intervention des machines du seul fait qu’elles passent leur temps à nous imiter. Reste que leurs tics nous influencent. J’ai souvent coupé des structures en trinité dans *L’expérience humaine* parce que les IA me les rendent de plus en plus insupportables. [Les machines transforment ma façon d’écrire](https://www.politis.fr/articles/2026/07/idees-ce-que-lintelligence-artificielle-fait-au-langage-humain). J’anticipe un avenir proche où nos textes et les leurs seront indiscernables. Il en sera fini du business des détecteurs. Nous apprendrons à nous fier à des auteurs de confiance, sans douter de leur humanité et de leur désir de partager l’expérience humaine. Nous serons à la recherche d’une intimité (1), d’une proximité (2), d’un partage d’expérience [comme je le fais dans mes carnets](https://tcrouzet.com/carnet-de-route/) (3).
+Un texte 100 % bio peut parfois laisser croire à l’intervention des machines du seul fait qu’elles passent leur temps à nous imiter. Reste que leurs tics nous influencent. J’ai souvent coupé des structures en trinité dans *L’expérience humaine* parce que les IA me les rendent de plus en plus insupportables. [Les machines transforment ma façon d’écrire](https://www.politis.fr/articles/2026/07/idees-ce-que-lintelligence-artificielle-fait-au-langage-humain). J’anticipe un avenir proche où nos textes et les leurs seront indiscernables. Il en sera fini du business des détecteurs. Nous apprendrons à nous fier à des auteurs de confiance, sans douter de leur humanité et de leur désir de partager l’expérience humaine. Nous serons à la recherche d’une intimité (1), d’une proximité (2), d’un partage d’expérience [comme je le fais dans mes carnets](https://tcrouzet.com/carnet-de-route/) (3).
 
-On aura besoin de toucher les auteurs, de les voir travailler, et tout ça n’aura de sens que s’ils se démarquent des machines (1), que s’ils explorent de nouvelles perspectives (2), que s’ils travaillent ce qui nous terrifie et nous émerveille (3). J’y crois et j’ai peur : de nombreuses productions littéraires de masse s’apparentent à ce que les IA maîtrisent, et ça ne dérange guère la plupart des lecteurs, qui n’y voient rien d’inhumain, ce qui, en soi, est flippant.
+On aura besoin de toucher les auteurs, de les voir travailler, et tout ça n’aura de sens que s’ils se démarquent des machines (1), que s’ils explorent de nouvelles perspectives (2), que s’ils travaillent ce qui nous terrifie et nous émerveille (3). J’y crois et j’ai peur : de nombreuses productions littéraires de masse s’apparentent à ce que les IA maîtrisent, et ça ne dérange guère les lecteurs, qui n’y voient rien d’inhumain, ce qui, en soi, est flippant.
 
 Après tout, peu importe comment un texte est produit du moment qu’il nous touche. Tout se joue dans la relation auteur-lecteur. Si vous avez confiance en mon travail, si demain je publie un livre où j’aurai utilisé les IA pour explorer des terrains vierges à mes yeux – [déjà fait avec *Le code Houellebecq*](https://static.tcrouzet.com/books/le-code-houellebecq/) –, pourquoi ça vous dérangerait ?
 
@@ -71,7 +71,7 @@ Je trouve risquée l’injonction de déclarer si nous utilisons les IA ou non, 
 
 Rassurez-vous, cet article est 100 % humain selon Pangram, pourtant j’ai utilisé trois agents IA :
 
-* Le premier pour me challenger après la version initialele (il m’a donné des sources à lire, m’a poussé à argumenter certains points, à corriger des chiffres… autant de choses indétectables si je n’en parlais pas).
+* Le premier pour me challenger après la version initiale (il m’a donné des sources à lire, m’a poussé à argumenter certains points, à corriger des chiffres… autant de choses indétectables si je n’en parlais pas).
 * Le deuxième pour la correction orthotypo.
 * Le troisième pour les métabalises.
 
