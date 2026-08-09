@@ -3,7 +3,7 @@ metatitle: "De ma terrasse #53: IA best-seller, ancêtres fantômes, super-Terre
 metadescription: "Un roman IA cartonne en librairie, des ancêtres fantômes hantent nos gènes et Bryan Johnson est rattrapé par la maladie."
 ---
 
-# De ma terrasse #53
+# De ma terrasse #53 : IA best-seller, ancêtres fantômes, super-Terre à portée
 
 _Ma sélection du dimanche : 19 liens et une photo prise depuis ma terrasse (je n’ai pas renoncé aux digests, mais trouve peu de trucs intéressants)._
 
