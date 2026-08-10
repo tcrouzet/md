@@ -17,7 +17,7 @@ Reste que l’argent est l’alpha et l’oméga de notre société, n’en dép
 
 ![Répartition des ventes](_i/lulu03.webp)
 
-Je n’ai pas trouvé de données comparables pour l’ensemble des romans publiés chaque année, mais je parie que la tendance est identique, voire plus défavorable, les primo-romanciers bénéficiant toujours d’un effet de curiosité (les amis et la famille achètent le bouquin). Nous assistons au développement d’une distribution où quelques acteurs raflent la mise au détriment de tous les autres (power law reconstituée à partir des données disponibles). Nous sommes dans un monde compétitif où la guerre fait rage. Est-il possible de changer de terrain de jeu ou de l’étendre ?
+Je n’ai pas trouvé de données comparables pour l’ensemble des romans publiés chaque année, mais je parie que la tendance est identique, voire plus défavorable, les primo-romanciers bénéficiant d’un effet de curiosité (les amis et la famille achètent le bouquin). Nous assistons au développement d’une distribution où quelques acteurs raflent la mise au détriment de tous les autres (power law reconstituée à partir des données disponibles). Nous sommes dans un monde compétitif où la guerre fait rage. Est-il possible de changer de terrain de jeu ou de l’étendre ?
 
 ![Une courbe qui s’effondre vite](_i/primo-romanciers-2025-longue-traine.svg)
 
@@ -31,13 +31,13 @@ Si la question financière n’a plus grande importance pour moi, c’est une au
 
 Sur la base financière actuelle de 40 abonnés, voici quelques calculs. À ce jour, mon revenu brut annuel sur Substack est de 3 500 $, soit un chiffre d’affaires net d’environ 2 600 € (certains abonnés m’ont soutenu bien au-delà des 50 €/an demandés).
 
-En décembre, si les choses restent en l’état, j’imprimerai quarante exemplaires et les enverrai. Je n’ai aucune envie de passer par un imprimeur, puis d’expédier les exemplaires moi-même par La Poste ou un transporteur plus compétitif. Lulu fera le boulot pour moi. Je piloterai le service d’impression à la demande par son API via un script Python. J’enverrai un lien à mes abonnés, ils saisiront leur adresse postale dans un Google Form et, après confirmation, le livre sera imprimé et leur sera envoyé. Je recevrai la facture. Manutention minimale.
+En décembre, si les choses restent en l’état, j’imprimerai 40 exemplaires et les enverrai. Je n’ai aucune envie de passer par un imprimeur, puis d’expédier les exemplaires moi-même par La Poste ou un transporteur plus compétitif. Lulu fera le boulot pour moi. Je piloterai le service d’impression à la demande par son API via un script Python. J’enverrai un lien à mes abonnés, ils saisiront leur adresse postale dans un Google Form et, après confirmation, le livre sera imprimé et leur sera envoyé. Je recevrai la facture. Manutention minimale.
 
 D’après mes estimations, l’impression et l’expédition me coûteront 15,38 € pour un livre broché, 21,62 € pour un livre relié. Dans le premier cas, je dégagerai une marge de presque 2 000 €, dans le second de 1 700 €.
 
 ![Coût de l’opération thumb](_i/lulu01.webp)
 
-Maintenant, je fais le calcul à l’envers. Le prix public du livre s’il sortait en librairie en 2026 serait sans doute de 19,90 €, soit 18,87 HT, et mes droits avoisineraient 1,887 €/exemplaire (je m’accorde 10 % de droits alors que [les auteurs touchent souvent moins](https://www.sgdl.org/sgdl-accueil/l-actualite-sgdl/observatoire-sgdl-adagp-des-remunerations-des-auteurs-du-livre)). Il me faudrait donc vendre 1 051 exemplaires pour gagner autant qu’avec la contribution d’une quarantaine de lecteurs fidèles. C’est choquant. Quelque chose ne tourne plus rond.
+Maintenant, je fais le calcul à l’envers. Le prix public du livre s’il sortait en librairie en 2026 serait de 19,90 €, soit 18,87 HT, et mes droits avoisineraient 1,887 €/exemplaire (je m’accorde 10 % de droits alors que [les auteurs touchent souvent moins](https://www.sgdl.org/sgdl-accueil/l-actualite-sgdl/observatoire-sgdl-adagp-des-remunerations-des-auteurs-du-livre)). Il me faudrait donc vendre 1 051 exemplaires pour gagner autant qu’avec la contribution d’une quarantaine de lecteurs fidèles. C’est choquant. Quelque chose ne tourne plus rond.
 
 >En librairie, un lecteur me rapporte 1,887 €, soit 26 fois moins qu’un abonné.
 
@@ -45,11 +45,11 @@ Je performe mieux en CA que 66 % des primo-romanciers de 2025, avec le seul sup
 
 Je pourrais maximiser ma marge en imprimant les exemplaires via Amazon KDP (4,5 €/exemplaire livré chez moi), puis en les expédiant via Mondial Relay (4,9 €/exemplaire). Ma marge nette serait de 2 224 €.
 
-OK, je ne suis plus tout à fait primo, mais je fais avec les chiffres à ma disposition. Mon expérience, mes plus de vingt ans de présence en ligne et mes dizaines de livres publiés en librairie suffisent-ils à expliquer mes 2 300 abonnés gratuits et mes quarante abonnés payants – taux de conversion de 1,7 % ? Est-ce une rente post-édition ou une véritable alternative ? Ni l’un ni l’autre, mais deux approches complémentaires.
+OK, je ne suis plus tout à fait primo, mais je fais avec les chiffres à ma disposition. Mon expérience, mes plus de vingt ans de présence en ligne et mes dizaines de livres publiés en librairie suffisent-ils à expliquer mes 2 300 abonnés gratuits et mes 40 abonnés payants – taux de conversion de 1,7 % ? Est-ce une rente post-édition ou une véritable alternative ? Ni l’un ni l’autre, mais deux approches complémentaires.
 
 Je constate que beaucoup de jeunes Substackers font mieux que moi. Sur Substack, le ticket pour obtenir une rémunération supérieure à ce qui se pratique le plus souvent dans l’édition me paraît très bas, même si la compétition y fait aussi rage. J’ai voulu montrer qu’un auteur aujourd’hui ne devrait négliger aucune piste.
 
-Vous pourriez me reprocher de ne pas avoir pris en compte les à-valoir perçus par les auteurs à compte d’éditeur. [D’après une étude déclarative sur mille auteurs SGDL et ADAGP, donc des auteurs déjà installés, auto-sélectionnés](https://www.sgdl.org/sgdl-accueil/l-actualite-sgdl/observatoire-sgdl-adagp-des-remunerations-des-auteurs-du-livre), la médiane serait de 2 500 € d’à-valoir. J’en doute quand on parle de l’ensemble des auteurs. Nombre de mes connaissances touchent des à-valoir symboliques de l’ordre de 1 000 €, voire de 500 €. Par ailleurs, 50 abonnés me suffitaient pour toucher l’équivalent de l’à-valoir médian avec ma méthode par abonnement.
+Vous pourriez me reprocher de ne pas avoir pris en compte les à-valoir perçus par les auteurs à compte d’éditeur. [D’après une étude déclarative sur mille auteurs SGDL et ADAGP, donc des auteurs déjà installés, auto-sélectionnés](https://www.sgdl.org/sgdl-accueil/l-actualite-sgdl/observatoire-sgdl-adagp-des-remunerations-des-auteurs-du-livre), la médiane serait de 2 500 € d’à-valoir. J’en doute quand on parle de l’ensemble des auteurs. Nombre de mes connaissances touchent des à-valoir symboliques de l’ordre de 1 000 €, voire de 500 €. Par ailleurs, 50 abonnés me suffiraient pour toucher l’équivalent de l’à-valoir médian avec ma méthode par abonnement.
 
 Tout ça ne me rend pas heureux. J’aime les éditeurs et les libraires. J’aime travailler avec eux, améliorer mes textes, les pousser plus loin, puis les défendre devant les lecteurs. À choisir, je préfère passer par la chaîne du livre traditionnelle.
 
