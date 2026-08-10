@@ -17,7 +17,7 @@ eshops:
 
 ![Le Livre contre-attaque](_i/livre-contre-attaque-cover.jpg)
 
-Peu à peu, j’ai compris que nous n’avions pas affaire à un véritable fascisme mais à une chose nouvelle, encore mal comprise, que je n’ai toujours pas réussi à nommer. En revanche, l’arme de lutte ne fait pas de doute : le livre et tous les objets culturels qui circulent comme lui de la main à la main (selon une logique Multicast). La cause du mal : en grande partie, le modèle Unicast d’internet.
+Le monde se durcit. Nous n’avions pas affaire à un énième fascisme mais à une chose nouvelle, encore mal comprise, que je n’ai pas réussi à nommer. En revanche, l’arme de lutte ne fait pas de doute : le livre et tous les objets culturels qui circulent comme lui de la main à la main (selon une logique Multicast). La cause du mal : en grande partie, le modèle Unicast d’internet.
 
 [Je distribue ce texte sous licence libre sur GitHub.](https://github.com/tcrouzet/TheBookStrikeBack/)
 
