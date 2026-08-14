@@ -21,9 +21,7 @@ Je n’ai pas trouvé de données comparables pour l’ensemble des romans publi
 
 ![Une courbe qui s’effondre vite](_i/primo-romanciers-2025-longue-traine.svg)
 
-
 ![Power law](_i/primo-romanciers-2025-concentration-points.svg)
-
 
 Si la question financière n’a plus grande importance pour moi, c’est une autre histoire pour les jeunes créateurs. Pour mener une expérience, [j’ai lancé fin novembre 2025 un abonnement payant à ma newsletter Substack](https://tcrouzet.com/2025/11/27/abonnements-payants/) avec pour tous les abonnés à l’année ou ayant payé douze mensualités consécutives l’opportunité de recevoir un inédit, en l’occurrence la suite de [*Mon père ce tueur*](https://tcrouzet.com/books/mon-pere-ce-tueur/). Vous pouvez encore vous abonner pour participer à l’expérience et la rendre plus démonstrative (surtout si vous avez apprécié *Mon père ce tueur*). Je ferai les comptes fin novembre et les livres seront disponibles à partir de début décembre.
 
