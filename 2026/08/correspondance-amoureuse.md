@@ -31,9 +31,9 @@ YQ
 
 Yannick,
 
-Je me suis demandé comment prononcer tes initiales : « i grec-cul » en français, pas très glorieux, ou « why-kyu » en anglais. J’imagine que tes amies t’appellent Whykyu ou un machin dans le genre. Peut-être Yuki. C’était le nom de ma chienne quand j’étais gamin, un setter irlandais complètement dingue.
+Je me suis demandé comment prononcer tes initiales : « i grec-cul » en français, pas très glorieux, ou « why-kyu » en anglais. J’imagine que tes amies t’appellent Whykyu ou un machin dans le genre. Pourquoi pas Yuki. C’était le nom de ma chienne quand j’étais gamin, un setter irlandais complètement dingue.
 
-Je fais un effort pour ne pas te balancer une réponse lapidaire. Tu m’as posé une question. Je n’ai jamais envoyé de lettres manuscrites parce que mon écriture est illisible, peut-être pour cacher mes trop nombreuses fautes d’orthographe. Quand j’ai rencontré Isa en 1999, elle était aussi connectée que moi et je lui ai envoyé de longs mails. Puis j’ai vécu avec elle et n’ai plus eu besoin de lui écrire ; depuis, personne d’autre ne m’a arraché des lettres d’amour.
+Je fais un effort pour ne pas te balancer une réponse lapidaire. Tu m’as posé une question. Je n’ai jamais envoyé de lettres manuscrites parce que mon écriture est illisible, sans doute pour cacher mes trop nombreuses fautes d’orthographe. Quand j’ai rencontré Isa en 1999, elle était aussi connectée que moi et je lui ai envoyé de longs mails. Puis j’ai vécu avec elle et n’ai plus eu besoin de lui écrire ; depuis, personne d’autre ne m’a arraché des lettres d’amour.
 
 Je ne sais pas quoi faire de tes mots. Aucune femme n’a le droit de jalouser Isa. Elle ne jalousait personne. Si tu désires prendre sa place, ça n’a pas d’intérêt, et ça ne m’incite pas à poursuivre l’échange. Isa n’est pas remplaçable.
 
@@ -55,7 +55,7 @@ Thierry
 
 Il s’agit bien sûr d’une expérience. [Depuis que je vibe-code](https://tcrouzet.com/2026/07/09/stupefaction-devant-IA/), je gagne en créativité et la programmation se rapproche de plus en plus de l’écriture. Alors j’aimerais vibe-writer une histoire de SF : piloter une équipe de ghost writers, rebondir sur leurs propositions, les corriger, les reprendre, injecter mes idées, ne rien retenir. L’idée n’est pas d’aller plus vite dans l’écriture, mais de produire une histoire que je serais sinon incapable d’écrire. Je me suis dit : pourquoi ne pas commencer par vibe-coder une application de vibe-writing ?
 
-J’ai commencé à travailler sur un cahier des charges tout en essayant de le mettre en œuvre. Plus j’ai avancé, plus j’ai constaté que ce qui fonctionnait pour le code coinçait pour l’écriture de textes longs, ce qui explique pourquoi aucune application de vibe-writing ne s’est encore imposée en littérature, même si Sudowrite, Novelcrafter, NovelAI… génèrent une quantité industrielle de romances et de pulp sur Amazon.
+J’ai travaillé sur un cahier des charges tout en essayant de le mettre en œuvre. Plus j’ai avancé, plus j’ai constaté que ce qui fonctionnait pour le code coinçait pour l’écriture de textes longs, ce qui explique pourquoi aucune application de vibe-writing ne s’est encore imposée en littérature, même si Sudowrite, Novelcrafter, NovelAI… génèrent une quantité industrielle de romances et de pulp sur Amazon.
 
 ### Le code est modulaire, le roman cumulatif
 
@@ -85,12 +85,12 @@ Une IA ne sait pas vérifier la cohérence d’une scène. Elle produit du texte
 
 ### Un seul niveau de cohérence automatisable
 
-- **Les faits vérifiables** (qui sait quoi, qui est où, qui est mort, quel âge a un personnage) : une IA peut gérer ça plus ou moins avec une bible. C’est très mathématique et voilà ce que font les apps actuelles d’écriture.
-- **Le développement narratif** reste pour l’instant du ressort exclusif de l’auteur. Les IA sont plus fortes pour reformuler que pour proposer du neuf. Elles peuvent démontrer de nouveaux théorèmes en math, ou même décrire un lieu, ou écrire un dialogue à condition qu’on leur donne la direction.
+- **Les faits vérifiables** (qui sait quoi, qui est où, qui est mort, quel âge a un personnage) : une IA peut gérer ça plus ou moins avec une bible. C’est très mathématique et voilà ce que font les apps d’écriture.
+- **Le développement narratif** reste pour l’instant du ressort exclusif de l’auteur. Les IA sont plus fortes pour reformuler que pour proposer du neuf. Elles peuvent démontrer des théorèmes en math, ou même décrire un lieu, ou écrire un dialogue… à condition qu’on leur donne la direction (démmontre ça, décrit ça…).
 - **La tenue d’un personnage** n’est ni un fait (qui est où) ni une dynamique d’intrigue (ce qui se passe), c’est une manière singulière de penser, de parler, d’agir…
 - **La tenue d’un univers** implique de penser le monde de l’action sur les plans géographiques, politiques, philosophiques… Ça n’a rien de mathématique et donc n’est pas automatisable.
 
-Nous autres humains nous immergeons dans les situations et les simulons en nous, c’est ainsi que nous validons la cohérence narrative. Une IA n’a pas cette capacité d’incarnation faute d’un modèle du monde.
+Nous autres humains nous immergeons dans les situations et les simulons en nous, c’est ainsi que nous validons la cohérence narrative. Les IA n’ont pas encore cette capacité d’incarnation faute d’un modèle du monde.
 
 ### Les IA continuent, nous brisons la continuité
 
@@ -100,13 +100,11 @@ Les IA cherchent la suite logique syntaxiquement, ce qui est très puissant avec
 
 Puisque la prise en compte du contexte romanesque est difficile, pourquoi ne pas vibe-writer un roman comme [*One Minute*](https://tcrouzet.com/books/une-minute/), où chacun des chapitres est indépendant. J’ai tenté. L’expérience a vite tourné au fiasco : si les personnages changent à chaque chapitre, le monde reste le même. C’est encore trop demander aux IA.
 
-Alors j’ai essayé de travailler un texte plus simple : une correspondance, d’où les deux lettres ci-dessus. Sur [Dust](https://app.dust.tt/), j’ai donné aux IA mes textes de carnet publiés depuis la mort d’Isa et leur ai demandé de m’écrire une lettre, en adoptant le profil d’une lectrice patiemment construit avec elle (âge, milieu social, style d’écriture…). Très vite, je me suis rendu compte que les IA étaient incapables de prendre en compte le profil qu’elles avaient elles-mêmes dessiné.
+Alors j’ai essayé de travailler un texte plus simple : une correspondance, d’où les deux lettres ci-dessus. Sur [Dust](https://app.dust.tt/), j’ai donné aux IA mes textes publiés depuis la mort d’Isa et leur ai demandé de m’écrire une lettre, en adoptant le profil d’une lectrice patiemment construit avec elles (âge, milieu social, style d’écriture…). Très vite, je me suis rendu compte que les IA étaient incapables de prendre en compte le profil qu’elles avaient elles-mêmes dessiné.
 
 Après plusieurs tentatives et la coupe d’innombrables platitudes, poncifs, incohérences, j’ai fini par obtenir une première lettre. Elle a fait tilter [Pangram](https://tcrouzet.com/2026/08/06/are-you-human/), mais au moins la ligne narrative ne venait pas de moi, et c’est ce que j’attendais. Me mettre dans la situation d’une véritable correspondance.
 
-J’ai retravaillé l’écriture, c’est-à-dire coupé et simplifié pour aboutir au texte publié en début d’article, qui lui apparaît 100 % humain pour Pangram. Alors j’ai répondu.
-
-Extraits non retouchés des diverses réponses…
+J’ai retravaillé l’écriture, c’est-à-dire coupé et simplifié pour aboutir au texte publié en début d’article, qui lui apparaît 100 % humain pour Pangram. Alors j’ai répondu. Et l’IA m’a répondu. Voici quelques extraits non retouchés des diverses réponses…
 
 >Sur Isa, je t’ai heurté. Je comprends pourquoi. J’ai écrit que je voulais être l’une des femmes après elle. C’était brutal et probablement idiot. Je n’ai jamais pensé qu’une place s’était libérée. Mais tu ne peux pas décréter qu’aucune femme n’a le droit d’être jalouse d’Isa parce qu’Isa n’était jalouse de personne. Ses qualités ne sont pas une discipline imposée aux suivantes. Tu peux trouver ma jalousie laide. Tu peux ne pas vouloir d’elle dans ta vie. Me demander de n’éprouver que ce qu’Isa aurait éprouvé serait une façon très exacte de me demander de la remplacer.
 
@@ -118,11 +116,11 @@ Extraits non retouchés des diverses réponses…
 
 >À cinquante-cinq ans, je sais encore attirer un homme. Je ne sais pas rester quand je cesse de maîtriser ce qu’il pense de moi. Ton mail m’a retiré cette maîtrise. Je te réponds quand même.
 
-Des réponses déconnectées, froides, changeantes, sans cohérence interne, sans chair. Un rendez-vous ? Comme si elle pouvait m’attendre dans un musée. Et ses histoires d’amants comme pour me dire toi aussi tu pourrais devenir mon amant. Je suis disponible, baisable. C’était pathétique.
+Des réponses déconnectées, froides, changeantes, sans cohérence interne, sans chair, sans réel lien avec ma lettre. Un rendez-vous ? Comme si Yannick pouvait vraiment m’attendre dans un musée. Et ses histoires d’amants comme pour me dire toi aussi tu pourrais devenir mon amant. Je suis disponible, baisable. C’était pathétique.
 
 J’aurais pu souffler des idées, mais ce n’était pas le but. Je voulais que ma réponse suffise à provoquer une surprise, et rien d’intéressant n’a surgi. Pourquoi ? Parce que ma réponse ajoutait des paramètres et des contraintes à la lettre d’ouverture. L’équation à résoudre devenait plus complexe et l’IA ne l’a pas résolue.
 
-Conclusion : les IA sont encore incapables de tenir des personnages, de porter leur voix, de simuler des comportements humains. Dans leurs réponses, elles tentent de prolonger ce qui a été dit, souvent en reformulant, ou en ajoutant des clichés, et ma correspondante devient vite une tapineuse des plus grossières.
+Conclusion : les IA sont encore incapables de tenir des personnages, de porter leur voix, de simuler des comportements humains. Dans leurs réponses, elles prolongent ce qui a été dit, souvent en reformulant, ou en ajoutant des clichés, et ma correspondante est vite devenue une tapineuse des plus grossières.
 
 Je ne vois toujours pas à quoi pourrait ressembler une appli de vibe-writing – ça n’a peut-être aucun sens puisque le vibe implique de ne pas relire. Si les idées doivent venir de moi, si je dois passer des plombes à relire la prose indigente des IA, je ne vois pas en quoi ma créativité serait stimulée.
 
@@ -130,6 +128,6 @@ Des auteurs parviennent à utiliser les IA pour leurs bouquins, [comme H. M. Wol
 
 *PS : texte écrit à Balaruc mais posté à Maillardou, la terre de cœur d’Isa.*
 
-![La bicoque](_i/2026-08-14-153018.webp)
+![Maillardou](_i/2026-08-14-164502.webp)
 
 #netlitterature #ia #y2026 #2026-8-14-17h00
