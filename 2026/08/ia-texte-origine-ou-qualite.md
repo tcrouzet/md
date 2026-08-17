@@ -3,8 +3,6 @@ metatitle: "IA dans les textes : l’origine compte-t-elle vraiment ?"
 metadescription: "Où je découvre peut-être une méthode déterministe pour détecter l’écriture IA."
 ---
 
-’’’
-
 # La question n’est pas si c’est de l’IA mais si c’est bon
 
 Attention : ce billet suit un chemin tortueux, son point de départ très éloigné de son point d’arrivée. Je vous raconte mon cheminement.
