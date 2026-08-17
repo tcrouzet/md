@@ -29,7 +29,7 @@ Et de fil en aiguille, à la recherche d’une martingale pour savoir si un text
 
 Une fois ma première expérience de lecteur dépassée, je m’intéresse à l’auteur, à ses outils, à ses nuances stylistiques. Plus particulièrement, je me demande quels sont les travers des IA par rapport aux nôtres – des travers perçus instinctivement, qui me font rejeter les créations artificielles à visées littéraires ? Comment différencier ce que les machines écrivent de ce que nous écrivons ?
 
-[Les chercheurs distinguent les modèles IA avec 97 % de réussite](https://arxiv.org/abs/2502.12150). Cela revient à créer leur signature stylistique. Je me suis dit : pourquoi ne oas refaire le job à ma sauce et l’appliquer à des auteurs humains ? J’ai parcouru la littérature consacrée à la détection IA, bricolé quelques indices de mesure, puis [créé une application d’analyse](https://github.com/tcrouzet/unshiter). Il semble impossible de détecter la prose IA à coup sûr sans utiliser d’IA, ce qui me paraît le comble de l’ironie : nous sommes prisonniers d’une boucle étrange dont nous ne sortirons plus.
+[Les chercheurs distinguent les modèles IA avec 97 % de réussite](https://arxiv.org/abs/2502.12150). Cela revient à créer leur signature stylistique. Je me suis dit : pourquoi ne pas refaire le job à ma sauce et l’appliquer à des auteurs humains ? J’ai parcouru la littérature consacrée à la détection IA, bricolé quelques indices de mesure, puis [créé une application d’analyse](https://github.com/tcrouzet/unshiter). Il semble impossible de détecter la prose IA à coup sûr sans utiliser d’IA, ce qui me paraît le comble de l’ironie : nous sommes prisonniers d’une boucle étrange dont nous ne sortirons plus.
 
 Pour tester mon appli, j’ai comparé six textes :
 
