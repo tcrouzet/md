@@ -25,7 +25,7 @@ Par exemple, le style de mon amie [Joëlle Wintrebert](https://fr.wikipedia.org/
 
 ![Duras changeante](_i/radar_duras.svg)
 
-D’autres traversent des remises en cause profondes. Duras est la championne : elle vatoujours vers plus de simplicité, répéte sans relâche les mêmes sonorités pour nous les implanter dans le crâne – et parfois nous agacer.
+D’autres traversent des remises en cause profondes. Duras est la championne : elle va toujours vers plus de simplicité, répéte sans relâche les mêmes sonorités pour nous les implanter dans le crâne – et parfois nous agacer.
 
 ![Toujours plus minimaliste](_i/evolution-5-Duras.svg)
 
@@ -61,7 +61,7 @@ J’ai également un dégoût des formes métaphoriques introduites par « comm
 
 ### Quid du style IA ?
 
-[Pour reprendre mon étude préliminaire et la généraliser](https://tcrouzet.com/2026/08/17/ia-texte-origine-ou-qualite/), j’ai généré depuis [Dust](https://app.dust.tt/) une bible pour un roman, puis j’ai demandé à Claude de rédiger un à un les chapitres dans le style de *Fourth Wing*, la romantasy new adult du moment – je me fichais que ça sonne réellement *Fourth Wing*, il m’importait de donner une direction stylistique au LLM. Le processus, totalement automatique après quelques réglages, a duré une paire d’heures ; à la fin j’avais un roman IA de 300K signes.
+[Pour reprendre mon étude préliminaire et la généraliser](https://tcrouzet.com/2026/08/17/ia-texte-origine-ou-qualite/), j’ai généré depuis [Dust](https://app.dust.tt/) une bible pour un roman, puis j’ai demandé à Claude de rédiger un à un les chapitres dans le style de *Fourth Wing*, la romantasy new adult du moment – je me fichais que ça sonne réellement *Fourth Wing*, il m’importait de donner une direction stylistique au LLM. Le processus, automatique après quelques réglages, a duré une paire d’heures ; à la fin j’avais un roman IA de 300K signes.
 
 ![Corpus original](_i/surfaces-IA.svg)
 
@@ -69,7 +69,7 @@ Quand j’ai glissé ce roman dans mon outil d’analyse, sa couverture stylisti
 
 ![Couverture IA](_i/surfaces-IA-duras.svg)
 
-Je me suis alors prêté à une seconde expérience. Depuis mon appli, j’ai exporté les données stylistiques de *L’Amant* de Duras (bouton en bas à gauche). Je les ai soumises à Claude avec un prompt demandant la réécriture selon ces paramètres stylistiques. La seconde version du roman IA apparaît juste au-dessus de Duras dans le graphe de couverture, démontrant qu’il est possible d’altérer le style des textes IA avec des IA et quelques consignes *ad hoc*.
+Je me suis alors prêté à une seconde expérience. Depuis mon appli, j’ai exporté les données stylistiques de *L’Amant* de Duras. Je les ai soumises à Claude avec un prompt demandant la réécriture selon ces paramètres stylistiques. La seconde version du roman IA apparaît juste au-dessus de Duras dans le graphe de couverture, démontrant qu’il est possible d’altérer le style des textes IA avec des IA et quelques consignes *ad hoc*.
 
 ![Fourth Wing et ses clones](_i/radar-3-fourth.svg)
 
@@ -107,88 +107,86 @@ Le même tableau pour les auteurs humains montre que leurs propres œuvres reste
 
 ![Voisinage de Crouzet](_i/voisinage-crouzet.svg)
 
-Tout ça me fait gamberger même si j’ai encore du mal à trouver de réelles différences entre nous et les machines quand il s’agit d’écriture. J’utiliserai mon outil pour analyser mes propres textes plus que pour traquer les IA. Je les laisse tout de même conclure avec une analyse des auteurs du corpus à partir de mes statistiques.
+Tout ça me fait gamberger même si j’ai encore du mal à trouver de réelles différences entre nous et les machines quand il s’agit d’écriture. J’utiliserai mon outil pour analyser mes propres textes plus que pour traquer les IA. Je les laisse tout de même conclure avec une analyse des auteurs du corpus à partir des statistiques.
 
 ## François Bon
 
 Les trois œuvres se caractérisent par des phrases nettement plus longues que la moyenne du corpus, avec une ponctuation moins dense : le texte progresse par blocs plus étendus plutôt que par ponctuations rapprochées. Cette tendance au flot continu se double d’une densité de subordonnées et de relatives supérieure à la moyenne, ainsi que d’une profondeur syntaxique élevée, ce qui suggère un phrasé qui empile les propositions plutôt qu’il ne les juxtapose.
 
-La variation entre les trois textes est importante. *Prison* se distingue nettement des deux autres par une densité de subordonnées bien plus forte et une lisibilité (Flesch) beaucoup plus basse, alors que *Sortie d’usine* et *utobiographie des objets* restent plus proches l’un de l’autre sur ces points.
+La variation entre les trois textes est importante. *Prison* se distingue des deux autres par une densité de subordonnées bien plus forte et une lisibilité Flesch beaucoup plus basse, alors que *Sortie d’usine* et *Autobiographie des objets* restent plus proches l’un de l’autre sur ces points.
 
-Sur le plan lexical, le ratio noms/verbes est au-dessus de la moyenne du corpus, ce qui indique une tendance plus nominale que verbale. Les taux de répétition locale restent proches de la moyenne du corpus, sans signal marquant dans un sens ou dans l’autre. L’échantillon de trois œuvres permet de voir une tendance commune (phrases longues, peu ponctuées, syntaxe emboîtée) mais aussi une variabilité réelle d’un texte à l’autre, notamment sur la complexité syntaxique.
+Sur le plan lexical, le ratio noms/verbes est au-dessus de la moyenne, ce qui indique une tendance plus nominale que verbale. Les taux de répétition locale restent proches de la moyenne, sans signal marquant dans un sens ou dans l’autre. L’échantillon de trois œuvres permet de voir une tendance commune (phrases longues, peu ponctuées, syntaxe emboîtée) mais aussi une variabilité réelle d’un texte à l’autre, notamment sur la complexité syntaxique.
 
 ## Gustave Flaubert
 
-Les quatre œuvres montrent un profil assez homogène : la longueur de phrase reste proche, voire légèrement inférieure à la moyenne du corpus, mais la ponctuation y est nettement plus dense et plus diversifiée que la moyenne. Les textes alternent donc des signes de ponctuation variés sur des phrases de taille modérée plutôt que de longues coulées peu ponctuées.
+Les quatre œuvres montrent un profil homogène : la longueur de phrase reste proche, voire légèrement inférieure à la moyenne du corpus, mais la ponctuation y est nettement plus dense et plus diversifiée que la moyenne. Les textes alternent donc des signes de ponctuation variés sur des phrases de taille modérée plutôt que de longues coulées peu ponctuées.
 
-Un ensemble de mesures concordantes se dégage sur le renouvellement lexical : les taux de répétition (locale, familiale, brute) sont tous inférieurs à la moyenne du corpus, tandis que le taux d’hapax et la diversité des formes (type-token) sont au-dessus. Le vocabulaire se renouvelle donc plus que la moyenne, avec peu de retours rapprochés d’un même mot ou d’une même famille. La voix active est également plus fréquente que la moyenne du corpus.
+Un ensemble de mesures concordantes se dégage sur le renouvellement lexical : les taux de répétition sont tous inférieurs à la moyenne, tandis que le taux d’hapax et la diversité des formes sont au-dessus. Le vocabulaire se renouvelle donc plus que la moyenne, avec peu de retours rapprochés d’un même mot ou d’une même famille. La voix active est également plus fréquente que la moyenne.
 
 ## Jean Echenoz
 
-Les sept œuvres présentent des phrases plus longues que la moyenne du corpus, avec une bonne diversité des débuts de phrase et une diversité syntaxique élevée : les constructions varient souvent d’une phrase à l’autre. Une tension apparaît toutefois entre cette longueur de phrase et la variation locale de longueur (burstiness), plus basse que la moyenne : les phrases sont longues mais d’une longueur relativement régulière d’un énoncé à l’autre, plutôt qu’un mélange marqué de phrases très courtes et très longues.
+Les sept œuvres présentent des phrases plus longues que la moyenne, avec une bonne diversité des débuts de phrase et une diversité syntaxique élevée : les constructions varient souvent d’une phrase à l’autre. Une tension apparaît toutefois entre cette longueur de phrase et la variation locale de longueur, plus basse que la moyenne : les phrases sont longues mais d’une longueur relativement régulière d’un énoncé à l’autre, plutôt qu’un mélange marqué de phrases très courtes et très longues.
 
-La densité de subordonnées et de relatives est supérieure à la moyenne, de même que la profondeur syntaxique, ce qui accompagne logiquement des phrases longues. La ponctuation, en revanche, est un peu moins dense et moins diversifiée que la moyenne du corpus : peu de signes différents reviennent pour construire ces phrases longues.
+La densité de subordonnées et de relatives est supérieure à la moyenne, de même que la profondeur syntaxique, ce qui accompagne logiquement des phrases longues. La ponctuation, en revanche, est un peu moins dense et moins diversifiée que la moyenne : peu de signes différents reviennent pour construire ces phrases longues.
 
-La variation entre les sept œuvres est notable sur la longueur de phrase, qui va d’environ 90  caractères en moyenne pour *Cherokee* à plus de 170 pour *Des éclairs*, un écart bien plus large que pour la plupart des autres auteurs de l’échantillon. Le taux de comparaisons introduites par « comme » varie aussi sensiblement d’un texte à l’autre. Cette dispersion invite à ne pas résumer l’auteur à une seule valeur mais à une plage assez large.
+La variation entre les sept œuvres est notable sur la longueur de phrase, qui va d’environ 90  caractères en moyenne pour *Cherokee* à plus de 170 pour *Des éclairs*, un écart bien plus large que pour la plupart des autres auteurs. Le taux de comparaisons introduites par « comme » varie aussi sensiblement d’un texte à l’autre. Cette dispersion invite à ne pas résumer l’auteur à une seule valeur mais à une plage assez large.
 
 ## Joëlle Wintrebert
 
-Les quatre œuvres partagent un profil assez cohérent : des phrases plus courtes que la moyenne du corpus, une diversité des débuts de phrase élevée, mais une diversité syntaxique et une profondeur syntaxique plutôt en dessous de la moyenne. La densité de subordonnées et de relatives est également inférieure à la moyenne, ce qui va dans le même sens qu’une syntaxe moins emboîtée.
+Les quatre œuvres partagent un profil assez cohérent : des phrases plus courtes que la moyenne, une diversité des débuts de phrase élevée, mais une diversité syntaxique et une profondeur syntaxique plutôt en dessous de la moyenne. La densité de subordonnées et de relatives est également inférieure à la moyenne, ce qui va dans le même sens qu’une syntaxe moins emboîtée.
 
-Le taux de comparaisons introduites par « comme » est nettement plus bas que la moyenne du corpus dans les quatre textes, un signal qui reste stable d’une œuvre à l’autre. Le renouvellement lexical (hapax, diversité des formes) est légèrement supérieur à la moyenne, sans repli marqué sur les mesures de répétition locale, qui restent proches de la moyenne du corpus.
+Le taux de comparaisons introduites par « comme » est nettement plus bas que la moyenne, un signal qui reste stable d’une œuvre à l’autre. Le renouvellement lexical est légèrement supérieur à la moyenne, sans repli marqué sur les mesures de répétition locale, qui restent proches de la moyenne.
 
-La variabilité entre les quatre œuvres reste modérée pour la plupart des mesures : les valeurs de longueur de phrase, de ponctuation et de répétition se tiennent dans une fourchette resserrée. Le score de lisibilité (Flesch) varie un peu plus, notamment pour *Pollen*, plus élevé que les trois autres titres.
+La variabilité entre les quatre œuvres reste modérée pour la plupart des mesures : les valeurs de longueur de phrase, de ponctuation et de répétition se tiennent dans une fourchette resserrée. Le score de lisibilité Flesch varie un peu plus, notamment pour *Pollen*, plus élevé que les trois autres titres.
 
 ## Marcel Proust
 
-Les deux œuvres présentent des phrases très longues, parmi les plus longues du corpus, avec un dixième supérieur des phrases (P90) dépassant largement la moyenne générale. Cette longueur s’accompagne d’une densité de subordonnées et de relatives nettement supérieure à la moyenne du corpus, ainsi que d’une profondeur syntaxique parmi les plus élevées de l’échantillon : les phrases empilent les propositions et les relations grammaticales avant de rejoindre le verbe principal.
+Les deux œuvres présentent des phrases très longues, parmi les plus longues du corpus, avec un dixième supérieur des phrases (P90) dépassant largement la moyenne générale. Cette longueur s’accompagne d’une densité de subordonnées et de relatives nettement supérieure à la moyenne, ainsi que d’une profondeur syntaxique parmi les plus élevées : les phrases empilent les propositions et les relations grammaticales avant de rejoindre le verbe principal.
 
-Le ratio noms/verbes est plus bas que la moyenne du corpus, ce qui, combiné à la construction syntaxique complexe, indique un style qui reste verbal malgré la longueur des phrases plutôt qu’un style nominal et statique. La ponctuation est également plus diversifiée que la moyenne. Le taux de comparaisons introduites par « comme » est l’un des plus élevés du corpus.
+Le ratio noms/verbes est plus bas que la moyenne, ce qui, combiné à la construction syntaxique complexe, indique un style qui reste verbal malgré la longueur des phrases plutôt qu’un style nominal et statique. La ponctuation est également plus diversifiée que la moyenne. Le taux de comparaisons introduites par « comme » est l’un des plus élevés.
 
 ## Marguerite Duras
 
-Les quatre œuvres se distinguent par des phrases plus courtes que la moyenne du corpus et par un ensemble de mesures de répétition qui pointent toutes dans le même sens : les taux de répétition locale, de répétition familiale et de répétition brute sont systématiquement au-dessus de la moyenne, tout comme la redondance des trigrammes. Ce faisceau de signaux concordants suggère un texte qui revient plus souvent sur les mêmes mots ou les mêmes familles de mots à courte distance que la moyenne du corpus.
+Les quatre œuvres se distinguent par des phrases plus courtes que la moyenne et par un ensemble de mesures de répétition qui pointent toutes dans le même sens : les taux de répétition locale, de répétition familiale et de répétition brute sont systématiquement au-dessus de la moyenne, tout comme la redondance des trigrammes. Ce faisceau de signaux concordants suggère un texte qui revient plus souvent sur les mêmes mots ou les mêmes familles de mots à courte distance.
 
-Cette tendance à la répétition va de pair avec une diversité lexicale et un taux d’hapax plus bas que la moyenne, ainsi qu’un ratio formes/lemmes très élevé, le plus élevé de l’échantillon : un même lemme y apparaît le plus souvent sous une forme quasi unique, avec peu de variation flexionnelle. La voix active est un peu moins fréquente que la moyenne du corpus.
+Cette tendance à la répétition va de pair avec une diversité lexicale et un taux d’hapax plus bas que la moyenne, ainsi qu’un ratio formes/lemmes très élevé, le plus élevé de l’échantillon : un même lemme y apparaît le plus souvent sous une forme quasi unique, avec peu de variation flexionnelle. La voix active est un peu moins fréquente que la moyenne.
 
 La variation entre les quatre œuvres reste modérée sur la plupart des mesures, à l’exception de la surface de couverture stylistique, nettement plus faible pour *L’Amant* que pour les trois autres titres ; cet écart concerne une mesure agrégée liée au positionnement sur l’ensemble du corpus et ne se répercute pas franchement sur les autres indicateurs de rythme ou de répétition.
 
 ## Michel Houellebecq
 
-Les sept œuvres montrent des phrases plus longues que la moyenne du corpus et une ponctuation plus diversifiée. Une tension apparaît toutefois entre cette longueur de phrase et la densité de subordonnées et de relatives, plus basse que la moyenne : les phrases longues ne s’appuient donc pas particulièrement sur l’empilement de propositions subordonnées, ce qui suggère d’autres moyens de les allonger, par exemple la coordination ou l’énumération.
+Les sept œuvres montrent des phrases plus longues que la moyenne et une ponctuation plus diversifiée. Une tension apparaît toutefois entre cette longueur de phrase et la densité de subordonnées et de relatives, plus basse que la moyenne : les phrases longues ne s’appuient donc pas particulièrement sur l’empilement de propositions subordonnées, ce qui suggère d’autres moyens de les allonger, par exemple la coordination ou l’énumération.
 
-La voix active est un peu moins fréquente que la moyenne du corpus, et le score de lisibilité (Flesch) est plus bas, cohérent avec des phrases longues. Le taux de comparaisons introduites par « comme » reste bas par rapport à la moyenne du corpus.
+La voix active est un peu moins fréquente que la moyenne, et le score de lisibilité Flesch est plus bas, cohérent avec des phrases longues. Le taux de comparaisons introduites par « comme » reste bas par rapport à la moyenne.
 
 ## Philippe Castelneau
 
-Une seule œuvre, *Motel Valparaiso*, est disponible. Le texte présente des phrases plus courtes que la moyenne du corpus, avec une densité de subordonnées et de relatives également inférieure à la moyenne, ce qui va dans le sens d’une syntaxe moins emboîtée. Le ratio noms/verbes est bas par rapport à la moyenne du corpus, avec un ratio de verbes plus élevé que la moyenne, ce qui indique une tendance plus verbale que nominale.
+Une seule œuvre, *Motel Valparaiso*, est disponible. Le texte présente des phrases plus courtes que la moyenne, avec une densité de subordonnées et de relatives également inférieure à la moyenne, ce qui va dans le sens d’une syntaxe moins emboîtée. Le ratio noms/verbes est bas par rapport à la moyenne, avec un ratio de verbes plus élevé que la moyenne, ce qui indique une tendance plus verbale que nominale.
 
-Le score de lisibilité (Flesch) est élevé par rapport à la moyenne du corpus, cohérent avec des phrases courtes et une syntaxe peu subordonnée. Le taux de comparaisons introduites par « comme » reste bas.
+Le score de lisibilité Flesch est élevé, cohérent avec des phrases courtes et une syntaxe peu subordonnée. Le taux de comparaisons introduites par « comme » reste bas.
 
 ## Pierre Michon
 
-Les quatre œuvres se caractérisent par une variation locale de longueur de phrase parmi les plus élevées du corpus : des phrases très courtes voisinent avec des phrases très longues, un effet de rafale marqué. La longueur moyenne des phrases est elle-même parmi les plus élevées de l’échantillon, portée notamment par un dixième supérieur des phrases (P90) très étendu.
+Les quatre œuvres se caractérisent par une variation locale de longueur de phrase parmi les plus élevées : des phrases très courtes voisinent avec des phrases très longues, un effet de rafale marqué. La longueur moyenne des phrases est elle-même parmi les plus élevées, portée notamment par un dixième supérieur des phrases très étendu.
 
-La diversité syntaxique et la densité de relatives sont au-dessus de la moyenne du corpus, ce qui accompagne cette amplitude de longueur. Le taux de comparaisons introduites par « comme » est également plus élevé que la moyenne.
-
-La variation entre les quatre œuvres est très marquée sur la longueur de phrase : la moyenne passe d’environ 83 caractères pour *J’écris l’Iliade* à plus de 260 pour *Vies minuscules*, un écart parmi les plus larges observés dans ce corpus pour un même auteur. Le score de lisibilité (Flesch) varie dans le même sens, plus élevé pour le texte aux phrases courtes, plus bas pour les textes aux phrases longues. Cette amplitude interne invite à ne pas réduire l’auteur à une valeur moyenne unique.
+La diversité syntaxique et la densité de relatives sont au-dessus de la moyenne, ce qui accompagne cette amplitude de longueur. Le taux de comparaisons introduites par « comme » est également élevé.
 
 ## Rebecca Yarros
 
-Une seule œuvre, *Fourth Wing*, est disponible. Le texte présente des phrases plus courtes que la moyenne du corpus, une densité de subordonnées et de relatives inférieure à la moyenne, et un score de lisibilité (Flesch) parmi les plus élevés de l’échantillon. Une tension apparaît entre un ratio noms/verbes plutôt bas (tendance verbale) et une proportion de phrases sans verbe conjugué (nominales) au-dessus de la moyenne du corpus : les deux mesures ne pointent pas dans la même direction, ce qui montre que la balance nom/verbe globale et la fréquence de phrases strictement nominales sont deux informations distinctes qu’il faut lire séparément.
+Une seule œuvre, *Fourth Wing*, est disponible. Le texte présente des phrases plus courtes que la moyenne, une densité de subordonnées et de relatives inférieure à la moyenne, et un score de lisibilité Flesch parmi les plus élevés. Une tension apparaît entre un ratio noms/verbes plutôt bas (tendance verbale) et une proportion de phrases sans verbe conjugué (nominales) au-dessus de la moyenne : les deux mesures ne pointent pas dans la même direction, ce qui montre que la balance nom/verbe globale et la fréquence de phrases strictement nominales sont deux informations distinctes à lire séparément.
 
-La voix active est un peu moins fréquente que la moyenne du corpus, et le taux de comparaisons introduites par « comme » reste bas.
+La voix active est un peu moins fréquente que la moyenne. Le taux de comparaisons introduites par « comme » reste bas.
 
 ## Stéphanie Dupays
 
-Les deux œuvres disponibles se ressemblent beaucoup sur l’ensemble des mesures, avec des valeurs proches d’un texte à l’autre pour la longueur de phrase, la ponctuation et les taux de répétition. La longueur moyenne des phrases se situe légèrement en dessous de la moyenne du corpus.
+Les deux œuvres disponibles se ressemblent beaucoup sur l’ensemble des mesures, avec des valeurs proches d’un texte à l’autre pour la longueur de phrase, la ponctuation et les taux de répétition. La longueur moyenne des phrases se situe légèrement en dessous de la moyenne.
 
-Le ratio de noms est nettement au-dessus de la moyenne du corpus, alors que le ratio noms/verbes global reste, lui, proche de la moyenne : cette différence suggère une proportion de noms élevée sans que cela se traduise mécaniquement par un déséquilibre marqué entre noms et verbes, une nuance qui invite à ne pas confondre les deux mesures. La densité de subordonnées et de relatives reste proche de la moyenne du corpus.
+Le ratio de noms est nettement au-dessus de la moyenne, alors que le ratio noms/verbes global reste, lui, proche de la moyenne : cette différence suggère une proportion de noms élevée sans que cela se traduise mécaniquement par un déséquilibre marqué entre noms et verbes, une nuance qui invite à ne pas confondre les deux mesures. La densité de subordonnées et de relatives reste proche de la moyenne.
 
 ## Thierry Crouzet
 
-Les huit œuvres disponibles pour cet auteur présentent des phrases plus courtes que la moyenne du corpus, avec une densité de subordonnées et de relatives nettement inférieure à la moyenne, et une profondeur syntaxique elle aussi en dessous de la moyenne : la syntaxe reste, en moyenne, moins emboîtée que celle de l’ensemble du corpus. Plusieurs mesures de répétition locale (répétition lexicale filtrée, redondance stylistique, répétition de familles, redondance brute) sont concordamment inférieures à la moyenne du corpus, ce qui va dans le sens d’un vocabulaire qui revient moins souvent à courte distance que la moyenne.
+Les huit œuvres disponibles pour cet auteur présentent des phrases plus courtes que la moyenne, avec une densité de subordonnées et de relatives nettement inférieure à la moyenne, et une profondeur syntaxique elle aussi en dessous de la moyenne : la syntaxe reste, en moyenne, moins emboîtée que celle de l’ensemble du corpus. Plusieurs mesures de répétition sont concordamment inférieures à la moyenne, ce qui va dans le sens d’un vocabulaire qui revient peu souvent à courte distance.
 
-Le taux d’hapax et la diversité des formes sont au-dessus de la moyenne, cohérents avec ce faible taux de répétition locale. Le taux de comparaisons introduites par « comme » est bas par rapport à la moyenne du corpus. Le score de lisibilité (Flesch) est généralement au-dessus de la moyenne, avec toutefois des écarts sensibles d’un texte à l’autre.
+Le taux d’hapax et la diversité des formes sont au-dessus de la moyenne, cohérents avec ce faible taux de répétition locale. Le taux de comparaisons introduites par « comme » est bas. Le score de lisibilité Flesch est généralement au-dessus de la moyenne, avec toutefois des écarts sensibles d’un texte à l’autre.
 
 #netlitterature #ia #y2026 #2026-8-23-17h00
