@@ -189,4 +189,4 @@ Les huit œuvres disponibles pour cet auteur présentent des phrases plus courte
 
 Le taux d’hapax et la diversité des formes sont au-dessus de la moyenne, cohérents avec ce faible taux de répétition locale. Le taux de comparaisons introduites par « comme » est bas. Le score de lisibilité Flesch est généralement au-dessus de la moyenne, avec toutefois des écarts sensibles d’un texte à l’autre.
 
-#netlitterature #ia #y2026 #2026-8-23-17h00
+#netlitterature #ia #textstat #y2026 #2026-8-23-17h00

@@ -77,4 +77,4 @@ Rassurez-vous, cet article est 100 % humain selon Pangram, pourtant j’ai util
 
 Un texte n’a pas besoin d’être écrit par une IA pour contenir une part d’IA.
 
-#netlitterature #ia #y2026 #2026-8-6-13h00
+#netlitterature #ia #textstat #y2026 #2026-8-6-13h00
