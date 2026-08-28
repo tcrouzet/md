@@ -18,7 +18,7 @@ Les maths ne sont pas la littérature, à coup sûr, mais elles peuvent nous aid
 ### Chronologie
 
 - **1851** Dans une lettre, le logicien [Augustus de Morgan](https://en.wikipedia.org/wiki/Augustus_De_Morgan) suggère de [comparer la longueur moyenne des mots pour trancher une question d’attribution d’auteur](https://archive.org/details/memoirofaugustus00demouoft).
-* **1887** Le statisticien T. C. Mendenhall compare les distributions de longueurs de mots chez Dickens, Thackeray et Mill.
+* **1887** Dans [*The Characteristic Curves of Composition*](https://archive.org/details/jstor-1764604), le statisticien T. C. Mendenhall compare les distributions de longueurs de mots chez Dickens, Thackeray et Mill.
 - **1898** Le philosophe [Wincenty Lutosławski](https://fr.wikipedia.org/wiki/Wincenty_Lutos%C5%82awski) invente le mot [stylométrie](https://www.persee.fr/doc/reg_0035-2039_1898_num_11_41_5847) pour dater les dialogues de Platon par comparaison de leur style.
 - **1935** Dans [*The Psycho-Biology of Language*](https://mitpress.mit.edu/9780262240055/the-psycho-biology-of-language/), le linguiste [George Kingsley Zipf](https://fr.wikipedia.org/wiki/Loi_de_Zipf) découvre que la fréquence d’un mot est inversement proportionnelle à son rang quel que soit l’auteur. Une loi si universelle qu’elle ne distingue personne.
 - **1944** Dans [*The Statistical Study of Literary Vocabulary*](https://books.google.fr/books/about/The_Statistical_Study_of_Literary_Vocabu.html?id=DaCCAAAAIAAJ&redir_esc=y), George Udny Yule pose les bases de la richesse lexicale mesurée statistiquement.
