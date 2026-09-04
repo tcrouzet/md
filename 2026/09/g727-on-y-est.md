@@ -82,3 +82,4 @@ Comme d’habitude, quelques images des endroits traversés, certains que vous v
 ![Fermé le lundi et le mardi](_i/2026-09-02-135451.webp)
 
 #velo #727bikepacking #y2026 #2026-09-03-19h00
+
