@@ -1,6 +1,6 @@
 ---
 metatitle: "g727 2026 : 160 km de reco au prix de la sueur"
-metadescription: "Reco sur les pas de Walter Benjamin. La reco finale du g727 2026 tranche : on passer pas par Banyuls, mais Collioure vous attend."
+metadescription: "Reco sur les pas de Walter Benjamin. La reco finale du g727 2026 tranche : vous passerez pas par Banyuls, mais Collioure vous attend."
 ---
 
 # g727 2026, au prix de la sueur
