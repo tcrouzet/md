@@ -1,6 +1,6 @@
 ---
 metatitle: "g727 complet : liste d’attente ouverte pour 2026"
-metadescription: "Une particularité française nous empêche davoir plus de 99 participants. Résultat : g727 complet, liste d’attente ouverte en cas de forfait."
+metadescription: "Une particularité française nous empêche d'avoir plus de 99 participants. Résultat : g727 complet, liste d’attente ouverte en cas de forfait."
 ---
 
 # g727 complet, liste d’attente ouverte
