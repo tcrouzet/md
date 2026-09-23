@@ -69,7 +69,9 @@ Le style d’Orélien présente d’autres particularités listées ci-dessous. 
 
 Que conclure ? Thélyson Orélien n’est pas atypique dans le corpus : certaines mesures le placent à une extrémité, d’autres au milieu, d’autres à l’extrémité opposée. Cette dispersion ne décrit ni un style humain ni un style IA – mais à coup sûr, des données que de bons prompts peuvent façonner.
 
-Cette étude a simplement mis en évidence le cahier des charges « littérature contemporaine » implicite : nos différences stylistiques se jouent entre des approches minimalistes à la Sylvain Prudhomme ou maximalistes à la Louise Chennevière.
+Avec d’autres textes de l’auteur, je pourrais mesurer leur distance au roman et on y verrait un peu plus clair. Là, les stats sont non conclusives. Seul un LLM entraîné sur un vaste corpus humain et IA peut repérer des patterns louches, comme le fait Pangram.
+
+Mon étude a simplement mis en évidence le cahier des charges « littérature contemporaine » implicite : nos différences stylistiques se jouent entre des approches minimalistes à la Sylvain Prudhomme ou maximalistes à la Louise Chennevière.
 
 [Jouez avec les statistiques des livres sélectionnés pour le Goncourt 2026…](https://tcrouzet.github.io/unshiter/?corpus=Goncourt2026)
 
