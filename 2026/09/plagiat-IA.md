@@ -49,7 +49,7 @@ Une fois ces quatre axes posés, le corpus se répartit clairement : un noyau d
 
 ### Le cas Thélyson Orélien
 
-![Distance au centre thumb](_i/typicity-chart.svg)
+![Distance au centre](_i/typicity-chart.svg)
 
 Thélyson Orélien se situe à distance modérée du centre de la cartographie stylistique, où Sonia Devillers apparaît comme la moins excentrique.
 
