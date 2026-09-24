@@ -23,9 +23,9 @@ Il est légitime de se demander qui seront les victimes de l’IA. Il y en aura,
 
 ### Je suis contre
 
-Les organismes anaérobies étaient contre l’oxygène, ils ont dû se rabrattre dans des niches écologique comme notre système digestif, tout comme les chevaux contre les voitures ou les miniaturistes contre la photographie. Quand on résite au changement, on subit le changement et la peur du changement.
+Les organismes anaérobies étaient contre l’oxygène, ils ont dû se rabrattre dans des niches écologiques comme notre système digestif, tout comme les chevaux contre les voitures ou les miniaturistes contre la photographie. Quand on résite au changement, on subit le changement et la peur du changement.
 
-Ça ne signifie pas que tous les changements sont bénéfiques. L’arrivée des armes nucléaires ne m’a jamais paru comme une bonne chose, pas plus que le déploiement des centrales nucléaires. On peut s’opposer à un changement, tenter de l’empêcher, mais une fois qu’il nous tombe dessus, comme l’oxygène dans l’atmosphère, on n’a plus d’autre choix que de s’y adapter. L’IA est là, que nous le voulions ou pas, et ça risque de durer.
+Ça ne signifie pas que tous les changements sont bénéfiques. L’arrivée des armes nucléaires ne m’a jamais paru une bonne chose, pas plus que le déploiement des centrales nucléaires. On peut s’opposer à un changement, tenter de l’empêcher, mais une fois qu’il nous tombe dessus, comme l’oxygène dans l’atmosphère, on n’a plus d’autre choix que de s’y adapter. L’IA est là, que nous le voulions ou pas, et ça risque de durer.
 
 J’ai du mal avec le refus de principe – adaptation primaire – même s’il s’agit d’une réaction psychologique compréhensible : c’est défendre les acquis plutôt qu’explorer des territoires inconnus, potentiellement dangereux. Il y a toujours des opposants aux innovations, souvent ultramajoritaires, et le domaine de l’art n’échappe pas à ce phénomène, car l’art mêle artisanat et innovation. Souvent les artisans redoutent que leurs outils et leurs techniques se transforment : ils n’ont pas envie de se remettre en cause. C’est du travail, c’est fatigant, on n’en voit pas le bénéfice immédiat.
 
