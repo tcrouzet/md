@@ -1,3 +1,8 @@
+---
+metatitle: "IA et écrivains : l’omerta qui inquiète"
+metadescription: "IA et écrivains : rejet, usage revendiqué ou silence, l’affaire Orélien révèle une littérature qui juge les méthodes avant les textes."
+---
+
 # IA : une omerta chez les écrivains ?
 
 Toute nouveauté est un risque existentiel pour ce qui existait avant elle.
@@ -24,7 +29,7 @@ Les organismes anaérobies étaient contre l’oxygène, ils ont quasi disparu, 
 
 J’ai du mal avec le refus de principe – adaptation primaire – même s’il s’agit d’une réaction psychologique compréhensible : c’est défendre les acquis plutôt qu’explorer des territoires inconnus, potentiellement dangereux. Il y a toujours des opposants aux innovations, souvent ultramajoritaires, et le domaine de l’art n’échappe pas à ce phénomène, car l’art mêle artisanat et innovation. Souvent les artisans redoutent que leurs outils et leurs techniques se transforment : ils n’ont pas envie de se remettre en cause. C’est du travail, c’est fatigant, on n’en voit pas le bénéfice immédiat.
 
-Une grande partie du monde de l’édition a fait ce choix sous des prétextes : écologiques, éthiques, déontologiques, souverainistes, juridiques… Chacun s’arrange comme il peut pour se justifier de faire le dos rond contre la tempête qui déferle et que rien n’arrêtera hormis une contre-révolution de type Jihad Butlérien.
+Une grande partie du monde de l’édition a fait un choix défensif sous des prétextes : écologiques, éthiques, déontologiques, souverainistes, juridiques… Chacun s’arrange comme il peut pour se justifier de faire le dos rond contre la tempête qui déferle et que rien n’arrêtera hormis une contre-révolution de type Jihad Butlérien.
 
 ### Je revendique l’usage
 
