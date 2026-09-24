@@ -7,7 +7,7 @@ metadescription: "IA et écrivains : rejet, usage revendiqué ou silence, l’af
 
 Toute nouveauté est un risque existentiel pour ce qui existait avant elle.
 
--2,5 milliards d’années : pas ou peu d’oxygène dans l’atmosphère, des organismes anaérobies dominent la biosphère, quand les cyanobactéries découvrent la photosynthèse et produisent de l’oxygène – un poison mortel pour une grande partie du vivant de l’époque.
+-2,5 milliards d’années : pas ou peu d’oxygène dans l’atmosphère, des organismes anaérobies dominent la biosphère, quand les cyanobactéries découvrent la photosynthèse et produisent de l’oxygène – un poison mortel pour une grande partie du vivant de l’époque et qui le force à se réorganiser.
 
 Plus près de nous, en 1915, les États-Unis comptent environ 26 millions de chevaux et mulets. En 1960, il n’en reste que 3 millions, 90 % exterminés par les voitures.
 
@@ -23,7 +23,7 @@ Il est légitime de se demander qui seront les victimes de l’IA. Il y en aura,
 
 ### Je suis contre
 
-Les organismes anaérobies étaient contre l’oxygène, ils ont quasi disparu, tout comme les chevaux contre les voitures ou les miniaturistes contre la photographie. Quand on résite au changement, on subit le changement et la peur du changement.
+Les organismes anaérobies étaient contre l’oxygène, ils ont dû se rabrattre dans des niches écologique comme notre système digestif, tout comme les chevaux contre les voitures ou les miniaturistes contre la photographie. Quand on résite au changement, on subit le changement et la peur du changement.
 
 Ça ne signifie pas que tous les changements sont bénéfiques. L’arrivée des armes nucléaires ne m’a jamais paru comme une bonne chose, pas plus que le déploiement des centrales nucléaires. On peut s’opposer à un changement, tenter de l’empêcher, mais une fois qu’il nous tombe dessus, comme l’oxygène dans l’atmosphère, on n’a plus d’autre choix que de s’y adapter. L’IA est là, que nous le voulions ou pas, et ça risque de durer.
 
