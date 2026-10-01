@@ -1,11 +1,11 @@
 ---
 metatitle: "IA, Goncourt et création littéraire : J'IAcuse"
-metadescription: "Affaire Orélien, Goncourt et IA : un écrivain et Claude répondent aux mêmes questions du Monde des livres. ChatGPT compare."
+metadescription: "Claude, ChatGPT et moi répondons aux mêmes questions du Monde des livres au sujet de l'affaire Thélyson Orélien."
 ---
 
 # J’IAcuse
 
-Alors que je pédalais sur le [g727](https://727bikepacking.fr/g727/), mon téléphone en mode avion, j’ai reçu un mail d’Amaury da Cunha du *Monde des livres* : « Je prépare un papier pour faire entendre les réactions des écrivains autour de [l’affaire Thélyson Orélien](https://tcrouzet.com/2026/09/23/plagiat-IA/). Je vais coudre un récit avec des verbatim. Est-ce qu’il vous serait possible, d’une manière courte et synthétique, de me raconter comment vous avez vécu cette polémique ? Que produit-elle, selon vous, sur l’image de la littérature ? Vous arrive-t-il d’utiliser l’IA dans vos recherches documentaires ? L’usage de l’IA est-il incompatible avec la création littéraire ? »
+Alors que je pédalais sur le [g727](https://727bikepacking.fr/g727/), mon téléphone en mode avion, j’ai reçu un mail d’Amaury da Cunha du *Monde des livres* : « Je prépare un papier pour faire entendre les réactions des écrivains autour de [l’affaire ’](https://tcrouzet.com/2026/09/23/plagiat-IA/). Je vais coudre un récit avec des verbatim. Est-ce qu’il vous serait possible, d’une manière courte et synthétique, de me raconter comment vous avez vécu cette polémique ? Que produit-elle, selon vous, sur l’image de la littérature ? Vous arrive-t-il d’utiliser l’IA dans vos recherches documentaires ? L’usage de l’IA est-il incompatible avec la création littéraire ? »
 
 Épuisé, sans clavier, la tête ailleurs, je lui ai renvoyé les liens vers [Goncourt 2026 : Thélyson Orélien passé au crible](https://tcrouzet.com/2026/09/23/plagiat-IA/) et [IA : omerta chez les écrivains ?](https://tcrouzet.com/2026/09/24/ia-risque-existentiel/). De retour chez moi, je me dis que cette demande pouvait être l’occasion d’un jeu.
 
@@ -46,7 +46,7 @@ Quand je glisse le *Code Houellebecq* dans Pangram, il apparaît 100 % humain. 
 
 **ChatGPT** Claude te paraphrase. Ta réponse est plus précise : elle relie l’abandon de la génération littéraire à une expérience, *Le Code Houellebecq*, et surtout au plaisir d’écrire. Claude remplace cette dimension personnelle par une profession de foi dans l’expérimentation. Tu définis concrètement tes usages ; il les transforme en position intellectuelle.
 
->Mes livres d’avant auraient été meilleurs si je l’avais eue.
+>Mes livres d’avant auraient été meilleurs si j’avais eu une IA.
 
 **Amaury da Cunha** L’usage de l’IA est-il incompatible avec la création littéraire ?
 
