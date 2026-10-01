@@ -12,7 +12,7 @@ Alors que je pédalais sur le [g727](https://727bikepacking.fr/g727/), mon tél�
 1. Je réponds aux questions.
 2. Claude y répond à ma place avec l’aide de mes deux articles.
 3. ChatGPT compare nos réponses.
-4. Une autre cession de Claude produit un verbatim.
+4. Une autre session de Claude produit un verbatim.
 
 **Amaury da Cunha** Comment vous avez vécu cette polémique ?
 
@@ -48,7 +48,7 @@ Quand je glisse le *Code Houellebecq* dans Pangram, il apparaît 100 % humain. 
 
 >Mes livres d’avant auraient été meilleurs si j’avais eu une IA.
 
-**Amaury da Cunha** L’usage de l’IA est-il incompatible avec la création littéraire ?
+**Amaury da Cunha** L’usage de l’IA est-il incompatible avec la création littéraire ?
 
 **Moi 1** Non, pas plus que le Ripolin n’est incompatible avec la peinture. Le lecteur est seul juge. Si j’apprécie une œuvre, je me moque de savoir si elle a été écrite avec un Bic, un traitement de texte ou une IA. Ce n’est que dans un second temps que j’aime savoir comment l’auteur ou l’autrice a travaillé, et qu’il ou elle me doit, il me semble, une certaine honnêteté. J’attends de la franchise et de la transparence. Encore faut-il que nous puissions avouer utiliser l’IA sans être ostracisés.
 
