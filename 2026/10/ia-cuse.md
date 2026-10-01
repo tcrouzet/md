@@ -5,14 +5,14 @@ metadescription: "Claude, ChatGPT et moi répondons aux mêmes questions du Mond
 
 # J’IAccuse
 
-Alors que je pédalais sur le [g727](https://727bikepacking.fr/g727/), mon téléphone en mode avion, j’ai reçu un mail d’Amaury da Cunha du *Monde des livres* : « Je prépare un papier pour faire entendre les réactions des écrivains autour de [l’affaire ’](https://tcrouzet.com/2026/09/23/plagiat-IA/). Je vais coudre un récit avec des verbatim. Est-ce qu’il vous serait possible, d’une manière courte et synthétique, de me raconter comment vous avez vécu cette polémique ? Que produit-elle, selon vous, sur l’image de la littérature ? Vous arrive-t-il d’utiliser l’IA dans vos recherches documentaires ? L’usage de l’IA est-il incompatible avec la création littéraire ? »
+Alors que je pédalais sur le [g727](https://727bikepacking.fr/g727/), mon téléphone en mode avion, j’ai reçu un mail d’Amaury da Cunha du *Monde des livres* : « Je prépare un papier pour faire entendre les réactions des écrivains autour de [l’affaire Thélyson Orélien](https://tcrouzet.com/2026/09/23/plagiat-IA/). Je vais coudre un récit avec des verbatim. Est-ce qu’il vous serait possible, d’une manière courte et synthétique, de me raconter comment vous avez vécu cette polémique ? Que produit-elle, selon vous, sur l’image de la littérature ? Vous arrive-t-il d’utiliser l’IA dans vos recherches documentaires ? L’usage de l’IA est-il incompatible avec la création littéraire ? »
 
 Épuisé, sans clavier, la tête ailleurs, je lui ai renvoyé les liens vers [Goncourt 2026 : Thélyson Orélien passé au crible](https://tcrouzet.com/2026/09/23/plagiat-IA/) et [IA : omerta chez les écrivains ?](https://tcrouzet.com/2026/09/24/ia-risque-existentiel/). De retour chez moi, je me dis que cette demande pouvait être l’occasion d’un jeu.
 
 1. Je réponds aux questions.
 2. Claude y répond à ma place avec l’aide de mes deux articles.
 3. ChatGPT compare nos réponses.
-4. Une autre session de Claude produit un verbatim.
+4. Une autre cession de Claude produit un verbatim.
 
 **Amaury da Cunha** Comment vous avez vécu cette polémique ?
 

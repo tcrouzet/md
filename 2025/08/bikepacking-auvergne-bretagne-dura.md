@@ -41,4 +41,5 @@ Il subsiste des bugs, mais aucun qui rendrait le GPS inutilisable. J’ai roulé
 Reste que le Dura est le GPS idéal pour le bikepacking. J’ai effectué le 727 2025 en six jours assez maussades côté météo en terminant avec 50 % de charge, après huit jours la Bretagne il restait encore 25 % de charge et j’ai dépensé moins de 20 % la charge pour la boucle en Auvergne. Vu le prix de ce GPS, et malgré ses défauts, je ne suis pas prêt de revenir à un Garmin (ce que j’avais craint initialement).
 
 *PS : J’apprécierais que tous mes réglages soient préservés de trace en trace (niveau de zoom, désactivation du routage, choix du mode cartographique… ce n’est jamais le cas pour le zoom, pour sûr, pour les deux autres options j’ai encore des doutes).*
+
 #velo #bikepacking #gps #y2025 #2025-8-1-20h00
