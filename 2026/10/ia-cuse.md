@@ -5,7 +5,7 @@ metadescription: "Affaire Orélien, Goncourt et IA : un écrivain et Claude rép
 
 # J’IAcuse
 
-Alors que je pédalais sur le [g727](https://727bikepacking.fr/g727/), mon téléphone en mode avion, j’ai reçu un mail d’Amaury da Cunha du *Monde des livres* : « Je prépare un papier pour faire entendre les réactions des écrivains autour de [l’affaire Thélyson Orélien](https://tcrouzet.com/2026/09/23/plagiat-IA/). Je vais coudre un récit avec des verbatim. Est-ce qu’il vous serait possible, d’une manière courte et synthétique, de me raconter, en retour de mail, comment vous avez vécu cette polémique ? Que produit-elle, selon vous, sur l’image de la littérature ? Vous arrive-t-il d’utiliser l’IA dans vos recherches documentaires ? L’usage de l’IA est-il incompatible avec la création littéraire ? »
+Alors que je pédalais sur le [g727](https://727bikepacking.fr/g727/), mon téléphone en mode avion, j’ai reçu un mail d’Amaury da Cunha du *Monde des livres* : « Je prépare un papier pour faire entendre les réactions des écrivains autour de [l’affaire Thélyson Orélien](https://tcrouzet.com/2026/09/23/plagiat-IA/). Je vais coudre un récit avec des verbatim. Est-ce qu’il vous serait possible, d’une manière courte et synthétique, de me raconter comment vous avez vécu cette polémique ? Que produit-elle, selon vous, sur l’image de la littérature ? Vous arrive-t-il d’utiliser l’IA dans vos recherches documentaires ? L’usage de l’IA est-il incompatible avec la création littéraire ? »
 
 Épuisé, sans clavier, la tête ailleurs, je lui ai renvoyé les liens vers [Goncourt 2026 : Thélyson Orélien passé au crible](https://tcrouzet.com/2026/09/23/plagiat-IA/) et [IA : omerta chez les écrivains ?](https://tcrouzet.com/2026/09/24/ia-risque-existentiel/). De retour chez moi, je me dis que cette demande pouvait être l’occasion d’un jeu.
 
@@ -50,7 +50,7 @@ Quand je glisse le *Code Houellebecq* dans Pangram, il apparaît 100 % humain. 
 
 **Amaury da Cunha** L’usage de l’IA est-il incompatible avec la création littéraire ?
 
-**Moi 1** Non, pas plus que le Ripolin n’est incompatible avec la peinture. Le lecteur est seul juge. Si j’apprécie une œuvre, je me moque de savoir si elle a été écrite avec un Bic, un traitement de texte ou une IA. Ce n’est que dans un second temps, par curiosité, que j’aime savoir comment l’auteur ou l’autrice a travaillé, et qu’il ou elle me doit, il me semble, une certaine honnêteté. J’attends de la franchise et de la transparence. Encore faut-il que nous puissions avouer utiliser l’IA sans être ostracisés.
+**Moi 1** Non, pas plus que le Ripolin n’est incompatible avec la peinture. Le lecteur est seul juge. Si j’apprécie une œuvre, je me moque de savoir si elle a été écrite avec un Bic, un traitement de texte ou une IA. Ce n’est que dans un second temps que j’aime savoir comment l’auteur ou l’autrice a travaillé, et qu’il ou elle me doit, il me semble, une certaine honnêteté. J’attends de la franchise et de la transparence. Encore faut-il que nous puissions avouer utiliser l’IA sans être ostracisés.
 
 **Moi 2** Oui, parce qu’à côté d’une littérature essentiellement marchande, l’IA étant taillée pour elle, une autre est existentielle pour les auteurs, les éditeurs et les lecteurs, et l’IA ne peut y jouer qu’un rôle accompagnateur. J’aime faire du vélo. Je ne vais pas demander à un robot de pédaler à ma place sous prétexte qu’il le pourrait. Quand on écrit pour exister, on ne délègue pas sa vie. Paradoxe : le Goncourt joue à l’équilibriste entre les deux littératures. Le mélange des genres conduisait fatalement à l’affaire Thélyson Orélien.
 
@@ -59,6 +59,5 @@ Quand je glisse le *Code Houellebecq* dans Pangram, il apparaît 100 % humain. 
 **ChatGPT** Tes deux réponses assument une contradiction féconde. La première juge l’œuvre indépendamment de l’outil, sous condition de transparence ; la seconde distingue la littérature marchande, facilement automatisable, d’une littérature existentielle qu’on ne peut déléguer sans se déléguer soi-même. Claude rejoint ton premier « non » et reprend l’analogie avec la peinture, mais esquive ton second « oui », plus dérangeant. Il voit l’IA comme un outil qui altère la créativité ; tu demandes surtout jusqu’où un auteur peut l’utiliser sans renoncer à l’expérience même d’écrire.
 
 >Nous produisons de la littérature inutile depuis longtemps, et sans aucune aide technologique.
-
 
 #edition #ia #y2026 #2026-10-1-13h00
