@@ -1,6 +1,6 @@
 ---
-metatitle: "IA, Goncourt et création littéraire : J'IAcuse"
-metadescription: "Claude, ChatGPT et moi répondons aux mêmes questions du Monde des livres au sujet de l'affaire Thélyson Orélien."
+metatitle: "IA, Goncourt et création littéraire : J'IAccuse"
+metadescription: Claude, ChatGPT et moi répondons aux mêmes questions du Monde des livres au sujet de l'affaire Thélyson Orélien.
 ---
 
 # J’IAccuse
