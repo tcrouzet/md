@@ -3,7 +3,7 @@ metatitle: "IA et écrivains : l’omerta qui inquiète"
 metadescription: "IA et écrivains : rejet, usage revendiqué ou silence, l’affaire Orélien révèle une littérature qui juge les méthodes avant les textes."
 ---
 
-# IA : une omerta chez les écrivains ?
+# IA : omerta chez les écrivains ?
 
 Toute nouveauté est un risque existentiel pour ce qui existait avant elle.
 
