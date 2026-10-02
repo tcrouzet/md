@@ -15,13 +15,13 @@ Comme lui, les auteurs et éditeurs adversaires de l’IA qui se promeuvent sur 
 
 Il semble difficilement tenable de dire « Interdiction d’utiliser l’IA pour la création », mais « Autorisation de l’utiliser pour le marketing ». C’est pour le moins hypocrite, ou révèle une méconnaissance du haut degré de pénétration des IA dans les infrastructures numériques des réseaux sociaux centralisés et des GAFAM.
 
-On a bien le droit de ne pas utiliser l’IA en littérature, mais ce choix n’implique pas de lancer des anathèmes contre ceux qui l’utilisent. La nuance me paraît importante. Je vais remonter aux arguments des lanceurs d’anathèmes, certains avertis, d’autres, peut-être les plus nombreux, qui, à la façon de Fiat, ne s’opposent à l’IA que quand ça les arrange.
+On a bien le droit de ne pas utiliser l’IA en littérature, mais ce choix n’implique pas de lancer des anathèmes contre ceux qui l’utilisent. La nuance me paraît importante. Je vais remonter aux arguments des lanceurs d’anathèmes, certains avertis, d’autres, peut-être les plus nombreux, qui ne s’opposent à l’IA que quand ça les arrange.
 
 ![](_i/antiai.webp)
 
 ### Balayer l’argument écologique
 
-Les opposants aux IA en littérature avancent souvent la surchauffe planétaire, la consommation d’eau, l’empreinte carbone… Je ne remettrais pas en cause ces inquiétudes fondées, mais c’est oublier qu’il existe deux formes d’IA, celles qui tournent sur les data centers et celles qui tournent en local, comme Qwen, Gemma ou Mistral Small, exécutables par [Ollama](https://ollama.com/) sur les ordinateurs personnels, avec deux avantages : grande possibilité de personnalisation et aucun risque de fuite de données.
+Les opposants aux IA en littérature avancent souvent la surchauffe planétaire, la consommation d’eau, l’empreinte carbone… Je ne remettrais pas en cause ces inquiétudes fondées, mais c’est oublier qu’il existe deux formes d’IA, celles qui tournent sur les data centers et celles qui tournent en local, comme Qwen, Gemma ou Mistral Small, exécutables par [Ollama](https://ollama.com/) sur les ordinateurs personnels, avec deux avantages : possibilité de personnalisation et aucun risque de fuite de données.
 
 Ces modèles ont été entraînés dans des data centers, mais leur usage privé en local – l’inférence, c’est-à-dire la réponse aux prompts – ne consomme presque pas d’énergie, et pas d’eau. En parallèle, l’entraînement décentralisé se développe, pour éviter les points chauds que sont les data centers.
 
