@@ -71,6 +71,11 @@ Je suis à cheval entre l’offpunk et l’hyperconnexion, utilisant l’IA à h
 
 Un des amis de Fiat demande à Claude d’écrire un poème à la manière de Fiat, et Claude produit un texte convaincant, qui évoque une récente rupture amoureuse non rendue publique. Fiat en conclut que Claude l’espionne, ce qui m’amuse. Les poids d’un modèle ne contiennent pas les conversations des utilisateurs et il n’y a pas de circulation de données d’un compte à l’autre. Le Claude de l’ami ne sait rien d’autre de Fiat que ce qui est public ou qu’il a lui-même donné à Claude.
 
+>Mon cœur est i-Phone en mode avion.  
+>Je capte plus rien, mais je vibre encore.  
+>Quelque chose comme de l’amour ou du wi-fi  
+>Clignote dans le noir, puis s’éteint.
+
 Fiat a été victime d’un [biais cognitif](https://fr.wikipedia.org/wiki/Effet_Barnum). Claude aurait pu lui expliquer : « La rupture amoureuse est le thème le plus générique de la poésie lyrique, surtout chez un poète comme Fiat dont l’œuvre tourne depuis toujours autour de figures féminines, de l’amour et de la perte. Demander à un modèle « écris un poème à la manière de Fiat » l’amène statistiquement à piocher dans le registre thématique le plus représenté dans son corpus d’entraînement pour Fiat – et « cœur brisé », « silence du téléphone », « côté vide du lit » sont des images tellement universelles qu’elles « tombent juste » par simple probabilité, pas par connaissance factuelle. C’est le même mécanisme qui fait qu’un horoscope ou une voyante semblent « lire » en vous : on surinterprète une formulation vague comme une révélation précise, parce qu’elle résonne avec notre vécu du moment. »
 
 #edition #ia #y2026 #2026-10-2-14h00
