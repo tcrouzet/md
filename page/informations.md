@@ -276,6 +276,8 @@ Juillet, premier jet de *L’expérience humaine*, [version interactive de *One 
 
 ### Interviews
 
+2026 - [Atlantico](https://atlantico.fr/article/decryptage/panique-morale-saint-germain-des-pres-affaire-thelyson-orelien-mettre-lumiere-verite-cruelle-avenir-imposture-litteraire-alexandre-gefen-thierry-crouzet-jean-sebastien-ferjou)
+
 2024 - [Raconte moi](https://www.youtube.com/watch?v=FJf3zbvgtUM&ab_channel=Racontemoi)
 
 2020 - [Politis](https://www.politis.fr/articles/2020/05/la-licence-libre-remede-miracle-contre-les-penuries-41780/)
