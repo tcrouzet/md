@@ -197,4 +197,4 @@ Quel avenir pour [*L’expérience humaine*](https://tcrouzet.github.io/experien
 
 ![Vendres](_i/2026-09-30-113722.webp)
 
-#carnets #y2026 #2026-9-1-10h00
+#carnets #y2026 #2026-10-6-10h00
