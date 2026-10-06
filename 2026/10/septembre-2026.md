@@ -73,7 +73,7 @@ Le texte manque de souffle. La promesse des premières pages n’est pas tenue, 
 
 J’ai du mal à admettre qu’une femme ait pu accepter cette promesse. Isa aurait été horrifiée. Tout l’amour du monde ne justifie pas le suicide. L’amour est la vie, le suicide, c’est lui tourner le dos, c’est refuser le combat pour d’autres amours. Je ne dis pas que c’est facile, mais je me donne cette exigence.
 
-Groz : « J’avais voulu croire que nous avions tout en commun, mais tu étais seule dans ta détresse. » Même la souffrance d’Isa a fini par devenir la mienne. Sa détresse, je la partageais à chaque seconde, et plus loin qu’elle : quand elle s’est peu à peu absentée d’elle, j’étais toujours là, yeux grands ouverts, conscience aux aguets, à flipper de bout en bout.
+Gorz : « J’avais voulu croire que nous avions tout en commun, mais tu étais seule dans ta détresse. » Même la souffrance d’Isa a fini par devenir la mienne. Sa détresse, je la partageais à chaque seconde, et plus loin qu’elle : quand elle s’est peu à peu absentée d’elle, j’étais toujours là, yeux grands ouverts, conscience aux aguets, à flipper de bout en bout.
 
 ### Vendredi 11, Balaruc
 
@@ -85,13 +85,13 @@ Travail acharné. L’expérience humaine sera plus lisible pour ceux qui ne nou
 
 ---
 
-Depuis lundi, Stéphanie est en résidence à la maison. Elle travaille tous les matins, nous prenons les repas ensemble, j’ai passé un peu de temps à l’accompagner en promenade, mais pas autant souhaité. La littérature m’arrache encore une fois à la vie.
+Depuis lundi, Stéphanie est en résidence à la maison. Elle travaille tous les matins, nous prenons les repas ensemble, j’ai passé un peu de temps à l’accompagner en promenade, mais pas autant que souhaité. La littérature m’arrache encore une fois à la vie.
 
-Ce n’est pas simple de voir une femme travailler dans le bureau d’Isa, une femme avec beaucoup de points communs avec elle qui plus est. Mais je crois que c’est aussi thérapeutique. Je suis persuadé qu’Isa apprécie. Je ne suis pas encore prêt à lancer ouvertement des invitations à des inconnues et inconnus, mais je considérerai les propositions de ceux qui auront vent de l’aubaine par le bouche-à-oreille.
+Ce n’est pas simple de voir une femme travailler dans le bureau d’Isa, une femme avec beaucoup de points communs avec elle. Mais c’est aussi thérapeutique. Je suis persuadé qu’Isa apprécie. Je ne suis pas encore prêt à lancer ouvertement des invitations à des inconnues et inconnus, mais je considérerai les propositions de ceux et celles qui auront vent de l’aubaine par le bouche-à-oreille.
 
 ---
 
-[Nothomb a raison au sujet de l’IA](https://www.youtube.com/shorts/5VhEPViHt9I) – je répète la même chose depuis des années –, mais elle oublie que l’édition est un business, que les auteurs cherchent parfois à y faire de l’art, mais aussi très souvent du fric, alors pour faire du fric beaucoup d’auteurs comme d’éditeurs sont prêts à tout, et beaucoup de lecteurs ne voient pas la différence, c’est ça le drame. Et puis il faut arrêter avec l’idée naïve que l’IA rendrait l’écriture moins difficile, elle ne fait que déplacer la difficulté, comme les tracteurs ont déplacé la difficulté d’être agriculteur ou la photographie d’être peintre. Je crois même que l’IA peut rendre la création encore plus difficile, car elle exige que nous fassions mieux qu’elle.
+[Nothomb a raison au sujet de l’IA](https://www.youtube.com/shorts/5VhEPViHt9I) – je répète la même chose depuis des années –, mais elle oublie que l’édition est un business, que les auteurs cherchent parfois à y faire de l’art, mais aussi très souvent du fric, alors pour faire du fric beaucoup d’auteurs et éditeurs sont prêts à tout, et beaucoup de lecteurs ne voient pas la différence, c’est ça le drame. Et puis il faut arrêter avec l’idée naïve que l’IA rendrait l’écriture moins difficile, elle ne fait que déplacer la difficulté, comme les tracteurs ont déplacé la difficulté d’être agriculteur ou la photographie d’être peintre. Je crois même que l’IA peut rendre la création encore plus difficile : elle exige que nous fassions mieux qu’elle.
 
 ---
 
@@ -99,9 +99,9 @@ De passage chez Katia. Sa librairie Nomade aménagera dans mon local commercial 
 
 ---
 
-Musée Paul Valéry. J’aime cet endroit, surtout la salle Paul Valéry, avec ses fenêtres bandeau ouvertes sur le cimetière et la mer. Quelques toiles, le Marquet bien sûr, et je découvre une vue de Sète depuis l’ancienne usine Lafarge par Philippe Pradalie, de 1994, à l’époque où j’étais dans ma série des cheminées de l’usine voisine. Tout ça dans les tiroirs. Maintenant, envie de rentrer, de me remettre au travail.
+Musée Paul Valéry. J’aime cet endroit, surtout la salle Paul Valéry, avec ses fenêtres bandeau ouvertes sur le cimetière et la mer. Quelques toiles, le voilier de Marquet bien sûr, et je découvre une vue de Sète depuis l’ancienne usine Lafarge par Philippe Pradalie, de 1994, à l’époque où j’étais dans ma série des cheminées de l’usine voisine. Tout ça dans les tiroirs. Maintenant, envie de rentrer, de me remettre au travail.
 
-Je suis là devant ce tableau de Pradalie. Il ne me touche que par son sujet, sans rien produire d’autre que la nostalgique. Sa platitude ne provoque rien, comme les tableaux de Dirosa, amusants, mais qui auraient leur place dans une BD dont on tourne vite les pages, pas dans un musée. Combas plus puissant, sans être transcendant. Après Pollock, tous les coulages me semblent redondants. Comme l’insupportable poésie de Paul Valéry, des vers puissants, tués d’emblée par la grandiloquence.
+Je suis là devant ce tableau de Pradalie. Il ne me touche que par son sujet, sans rien produire d’autre que la nostalgique. Sa platitude ne provoque rien, comme les tableaux de Dirosa, amusants, mais qui auraient leur place dans une BD dont on tourne vite les pages, pas dans un musée. Combas plus puissant, sans être transcendant. Après Pollock, les coulages me semblent redondants, comme l’insupportable poésie de Paul Valéry, des vers puissants, tués d’emblée par la grandiloquence.
 
 Quand je me tourne sur mon banc, j’aperçois le Marquet, il se jette hors de son cadre et impose sa présence malgré sa petite taille, alors qu’il est à l’autre bout de la salle, à demi caché par un pilier. Des Couderc intéressants, surtout les petits formats, rapidement esquissés. Souvent les artistes se perdent en voulant en imposer. Le même danger guette les écrivains. C’est la mode des phrases longues. Tout le monde essaie d’écrire long, à la Proust, à la Michon, à la Bon, c’est la course à la plus grosse, alors qu’allonger la phrase ne pose guère de difficulté, rien ne m’arrêterait si je le voulais, et pourquoi je n’allongerais pas ainsi de suite pour donner l’illusion que j’ai du style à ceux qui, à vrai dire, ne goûtent guère la littérature, et qui à la vue d’une phrase longue – trait facile à répéter –, supposent un certain génie, quand il ne s’agit que de remplacer les points par des relatives à répétition ou des comme, que j’introduis pour le plaisir d’ouvrir une parenthèse, oui comme si j’étais obligé de tout redire d’une autre façon, ou de plusieurs autres, au cas où la première ne serait pas claire, et surtout pour éviter de choisir ce qui a du sens dans ce qui précède, laissant la surabondance produire son effet, par fainéantise éditoriale, comme un chasseur de papillon prêt à attraper des insectes qui ne l’intéressent pas, mais qui les capture au cas où : la phrase pourrait se prolonger indéfiniment, rien ne l’en empêche, après tout les points et les autres ponctuations n’ont été inventés qu’assez tard dans l’histoire de l’écriture, la phrase longue étant la norme au commencement, et ces auteurs aux phrases-fleuves ne font que revenir au commencement, prenant dans leurs filets les critiques imbéciles qui se pignolent sur les radios publiques et croient encore faire la pluie et le beau temps dans le monde des lettres (je pourrais ouvrir une parenthèse pour dire que ce n’est pas mieux sur internet, dans cette parenthèse répéter tous les trucs usés jusque-là et dans d’autres parenthèses en introduire d’autres, mais je m’arrête là, la démonstration me paraît achevée et ne nécessite pas que j’écrive un livre entier d’une seule phrase).
 
@@ -135,7 +135,7 @@ Isa ne me visite plus durant mes nuits. Je ne sais plus quand elle a cessé, peu
 
 ### Jeudi 17, Balaruc
 
-Sur le groupe des amies d’Isa, l’une écrit : « J’ai mis la ceinture d’Isa aujourd’hui, belle journée à toutes bises. »
+Sur le groupe des amies d’Isa, l’une écrit : « J’ai mis la ceinture d’Isa aujourd’hui, belle journée à toutes, bises. »
 
 Un échange s’ensuit : « Oh, ça pourrait être beau de choisir un jour où on mettrait toutes un vêtement qui a appartenu à Isa ? » 
 
