@@ -191,7 +191,7 @@ Retour lessivé de cinq jours de bikepacking, avec deux dernières journées sou
 
 ---
 
-Quel avenir pour [*L’expérience humaine*](https://tcrouzet.github.io/experience-humaine/), c’est presque me demander quel avenir pour la mémoire d’Isa.
+Quel avenir pour [*L’expérience humaine*](https://tcrouzet.github.io/experience-humaine/), c’est presque me demander quel avenir pour la mémoire d’Isa. 
 
 ![Port la Nouvelle](_i/2026-09-30-080355.webp)
 
