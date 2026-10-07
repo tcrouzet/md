@@ -17,7 +17,7 @@ Emma Saudin, directrice littéraire de la fiction à l’Observatoire : « Ils
 
 ### L’Observatoire utilise l’IA
 
-Dans une [vidéo de 2025](https://www.youtube.com/watch?v=nFa_gMIQpU0), Muriel Beyer, fondatrice des Éditions de l’Observatoire, explique que l’IA est « un formidable assistant », intéressante contradiction qui floute la limite entre aurorisé et interdit, mais ce n’est pas la plus surprenante. Une rapide recherche, effectuée par Claude me révèle que les éditions de l’Observatoire possèdent au moins cinq comptes sociaux.
+Dans une [vidéo de 2025](https://www.youtube.com/watch?v=nFa_gMIQpU0), Muriel Beyer, fondatrice de l’Observatoire, explique que l’IA est « un formidable assistant », intéressante contradiction qui floute la limite entre aurorisé et interdit, mais ce n’est pas la plus surprenante. Une rapide recherche, effectuée par Claude, me révèle que les éditions de l’Observatoire possèdent au moins cinq comptes sociaux.
 
 * [Facebook](https://facebook.com/EditionsObservatoire) propriété de Méta.
 * [Instagram](https://www.instagram.com/editionsdelobservatoire/) propriété de Méta.
@@ -47,10 +47,8 @@ La grande majorité des lecteurs se moquent de comment nous travaillons du momen
 
 L’analogie avec la musique pourrait être développée loin. Des créateurs se sont imposés au-devant de la scène qui ne savaient pas lire la musique. De nouveaux instruments leur ont donné accès à la création. Moi-même, sans traitement de texte, sans la possibilité d’éditer en profondeur mes textes et de les corriger, je n’aurais jamais osé écrire. La technologie n’est pas toujours bénéfique – les fongicides –, mais nous autres artistes avons le droit de la détourner pour enrichir nos pratiques.
 
-Si l’expérience de l’auteur traverse ses textes, les lecteurs le sentent. J’en suis persuadé. J’ai demandé à Claude d’analyser la politique numérique de l’Observatoire sans amoindrir mon analyse, au contraire, je l’ai assise sur des faits tangibles – OK, c’est de la documentation mais pas de l’écriture. La seule preuve d’humanité est l’expérience. Une affabulation superficielle écrite sans IA est à coup sûr moins frappante que le texte d’un dyslexique qui pilote une IA.
+Si l’expérience de l’auteur traverse ses textes, les lecteurs le sentent. J’en suis persuadé. J’ai demandé à Claude d’analyser la politique numérique de l’Observatoire sans amoindrir mon analyse, au contraire, je l’ai assise sur des faits tangibles – OK, c’est de la documentation, pas de l’écriture. La seule preuve d’humanité est l’expérience. Une affabulation superficielle écrite sans IA est à coup sûr moins frappante que le texte d’un dyslexique qui pilote une IA.
 
 Je suis heureux que les lecteurs continuent d’acheter le bouquin Thélyson Orélien. Dans cette affaire, ils auront toujours le dernier mot. L’IA donne accès à la littérature à des auteurs qui en étaient tenus à distance, faute d’avoir fait le conservatoire. Pas facile : [nous allons devoir apprendre à juger les œuvres plutôt que nous fier à des pedigrees en quatrième de couverture](https://tcrouzet.com/2026/10/04/je-suis%20humain/).
-
-*PS : Mon article n’étant pas 100 % bio puisque j’ai demandé l’aide des machines pour mes recherches, il n’a sans doute aucun intérêt pour les éditeurs de l’Observatoire. Par chance Pangram et Lucide me certifient humain et [WritingLog](https://tcrouzet.github.io/WritingLog/?file=tcrouzet%2F2026%2F10%2Flitterature-bio.md) montre que cette écriture m’a demandé un peu de sueur.* 
 
 #edition #ia #y2026 #2026-10-7-14h00
