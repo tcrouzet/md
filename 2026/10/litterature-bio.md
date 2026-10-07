@@ -49,6 +49,6 @@ L’analogie avec la musique pourrait être développée loin. Des créateurs se
 
 Si l’expérience de l’auteur traverse ses textes, les lecteurs le sentent. J’en suis persuadé. J’ai demandé à Claude d’analyser la politique numérique de l’Observatoire sans amoindrir mon analyse, au contraire, je l’ai assise sur des faits tangibles – OK, c’est de la documentation, pas de l’écriture. La seule preuve d’humanité est l’expérience. Une affabulation superficielle écrite sans IA est à coup sûr moins frappante que le texte d’un dyslexique qui pilote une IA.
 
-Je suis heureux que les lecteurs continuent d’acheter le bouquin Thélyson Orélien. Dans cette affaire, ils auront toujours le dernier mot. L’IA donne accès à la littérature à des auteurs qui en étaient tenus à distance, faute d’avoir fait le conservatoire. Pas facile : [nous allons devoir apprendre à juger les œuvres plutôt que nous fier à des pedigrees en quatrième de couverture](https://tcrouzet.com/2026/10/04/je-suis%20humain/). 
+Je suis heureux que les lecteurs continuent d’acheter le bouquin Thélyson Orélien. Dans cette affaire, ils auront toujours le dernier mot. L’IA donne accès à la littérature à des auteurs qui en étaient tenus à distance, faute d’avoir fait le conservatoire. Pas facile : [nous allons devoir apprendre à juger les œuvres plutôt que nous fier à des pedigrees en quatrième de couverture](https://tcrouzet.com/2026/10/04/je-suis%20humain/).
 
 #edition #ia #y2026 #2026-10-7-14h00
