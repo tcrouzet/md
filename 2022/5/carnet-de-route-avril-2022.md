@@ -65,6 +65,7 @@ Le système sélectif imposé aux élèves de terminale est effrayant de sérieu
 Journée brûlante, coucher de soleil enflammé, j’écris, je piétine, je recommence.
 
 ![Régates](_i/IMG_7047.webp)
+
 ![Soir](_i/IMG_7054.webp)
 
 ### Dimanche 17, Balaruc
@@ -122,6 +123,7 @@ Un copain me signale un livre sur les non-consommateurs et je note tout de suite
 J’ai esquissé un texte pour… non je ne peux pas l’avouer, surtout en ce moment, déjà que j’ai perdu tant d’amis à cause de leur fuite vers l’Absurdistant idéologique.
 
 ![Cabane en pierre sèche](_i/IMG_7090.webp)
+
 ![Le Moulin](_i/IMG_7093.webp)
 
 ### Samedi 23, Balaruc
@@ -225,7 +227,9 @@ Peut-être que le journal est vrai parce qu’il n’implique jamais de tirer à
 À partir du chapitre neuf, tout par de travers dans mon roman. Grosse séance de marteau piqueur et de tractopelle. Encore beaucoup de travail. J’ignore quand j’aurais un premier jet satisfaisant. C’est comme si j’avais bien avancé dans la résolution de l’équation, puis que soudain je ne voyais plus comment poursuivre.
 
 ![Maguelone](_i/IMG_7112.webp)
+
 ![Maguelone](_i/IMG_7120.webp)
+
 ![La Gardiole](_i/IMG_7122.webp)
 
 ### Samedi 30, Balaruc
