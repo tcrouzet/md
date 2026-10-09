@@ -33,7 +33,7 @@ Format : 140x216
 
 ### Et la fabrication
 
-[Je comptais imprimer via Lulu](https://tcrouzet.com/2026/08/10/modele-economique/), avant de renoncer, les coûts étant prohibitifs. J’utiliserai donc KDP comme pour mes autres textes autopubliés. Je me ferai envoyer une cinquantaine d’exemplaires à la maison et vous les enverrai via Mondial Relay – j’imprimerai automatiquement les étiquettes avec leur API. Ça me donnera plus de souplesse et j’aurai des exemplaires en stock.
+[Je comptais imprimer via Lulu](https://tcrouzet.com/2026/08/10/modele-economique/), avant de renoncer, les frais de port étant prohibitifs. J’utiliserai donc KDP comme pour mes autres textes autopubliés. Je me ferai envoyer une cinquantaine d’exemplaires à la maison et vous les expédierai via Mondial Relay – j’imprimerai automatiquement les étiquettes avec leur API. Ça me donnera plus de souplesse et j’aurai des exemplaires en stock.
 
 ![Comparatif](_i/lulu-kdp.webp)
 
@@ -45,7 +45,7 @@ J’ai demandé à ChatGPT de couper le passage et d’élargir le champ, tout e
 
 ![Photoi retouchée par CharGPT](_i/cover_image.webp)
 
-Pour la quatrième de couverture, j’ai généré une seconde image où on la moto semble avancer. Encore plus étrange, d’autant que cette extension de la réalité passée renvoie au sujet même du *Roman de mon père*, où je creuse son don pour l’affabulation, qui peut-être *in fine* m’a poussé vers la littérature.
+Pour la quatrième de couverture, j’ai généré une seconde image où la moto semble avancer. Encore plus étrange, d’autant que cette extension de la réalité passée renvoie au sujet même du *Roman de mon père*, où je creuse son don pour l’affabulation, qui peut-être *in fine* m’a poussé vers la littérature.
 
 ![](_i/cover_image2.webp)
 
