@@ -49,6 +49,6 @@ Pour la quatrième de couverture, j’ai généré une seconde image où la moto
 
 ![](_i/cover_image2.webp)
 
-Le rendu est imparfait quand on scrute les détails, un peu comme la fiction, mais tout de même assez extraordinaire, et bouleversant pour moi. Une fois les exemplaires envoyés, j’écrirai un billet pour faire le point financier et partager les outils développés pour me faciliter la vie. Pour le moment, je replonge dans les textes et les retravaille. 
+Le rendu est imparfait quand on scrute les détails, un peu comme la fiction, mais tout de même assez extraordinaire, et bouleversant pour moi. Une fois les exemplaires envoyés, j’écrirai un billet pour faire le point financier et partager les outils développés pour me faciliter la vie. Pour le moment, je replonge dans les textes et les retravaille.
 
 #buzz #y2026 #2026-10-9-18h00
