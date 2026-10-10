@@ -132,17 +132,17 @@ Je vois un instant Didier faire un selfie avec P. Il n’ose la toucher, mais el
 
 Départ à 9h30 de Mashhad pour Neyshabur, une ville située à 120 kilomètres à l’ouest, de l’autre côté d’une chaîne de montagnes qui culmine à 3 000 mètres. Très vite, un peu de neige apparaît vers les sommets.
 
-Nous nous retrouvons sur une autoroute. On n’a pas fait cinquante kilomètres qu’on s’arrête devant une série de bouibouis. Pause café qui s’éternise. Boutiques où s’alignent des collections de boîtes identiques, tout le stock bien visible, peu de produits mais chacun disponible en nombre, ce qui est le propre des sociétés encore attachées au modèle des grandes séries du début de la révolution industrielle.
+Nous nous retrouvons sur une autoroute. On n’a pas fait 50 km qu’on s’arrête devant une série de bouibouis. Pause café qui s’éternise. Boutiques où s’alignent des collections de boîtes identiques, tout le stock bien visible, peu de produits mais chacun disponible en nombre, ce qui est le propre des sociétés encore attachées au modèle des grandes séries du début de la révolution industrielle.
 
 Dans ces détails, je lis le décalage entre l’Iran et l’Occident. Le pays est riche, propre, mais encore ancré dans un modèle productiviste.
 
 Nous reprenons la route, longeons des montagnes rouges, couvertes d’une fine prairie, bref moment verdoyant de l’année avant l’été torride. J’ai l’impression d’être dans le Nevada aux environs de Las Vegas.
 
-Nous faisons une nouvelle pause dans un caravansérail. Une belle structure de briques ocre à l’intérieur massacré. L’Iran ne se soucie pas d’esthétique, trop préoccupé par des problèmes plus graves, et sans doute que sans l’esthétique ses problèmes ne seront jamais résolus. L’art est indispensable à la vie en société, bien plus que le religieux : l’art est la seule métaphysique universelle.
+Nous faisons une nouvelle pause dans un caravansérail. Une belle structure de briques ocre à l’intérieur massacré. L’Iran ne se soucie pas d’esthétique, trop préoccupé par des problèmes plus graves, et sans l’esthétique ses problèmes ne seront jamais résolus. L’art est indispensable à la vie en société, bien plus que le religieux : l’art est la seule métaphysique universelle.
 
 Peu après midi, nous arrivons à l’hôpital de Neyshabur, un bâtiment moderne. Je m’installe dehors, enfin livré à moi-même. J’ai souvent l’impression d’être une éponge à essorer régulièrement, sinon, une fois saturé d’images, je me ferme à la nouveauté jusqu’à ce que j’aie réussi à écrire. Il ne s’agit pas d’une pratique très exaltante de la littérature, mais d’une simple façon de croquer le temps.
 
-Pour la première fois depuis notre arrivée en Iran, j’entends la prière chantée par un haut-parleur. Personne dans les pelouses autour de moi ne semble s’en formaliser. C’était plus impressionnant en Égypte, aussi beaucoup plus pauvres, beaucoup plus culpabilisant. Les Iraniens ne paraissent pas malheureux, ce qui ne préjuge pas de leur souffrance.
+Pour la première fois depuis notre arrivée en Iran, j’entends la prière chantée par un haut-parleur. Personne dans les pelouses autour de moi ne semble s’en formaliser. C’était plus impressionnant en Égypte, aussi beaucoup plus pauvres, beaucoup plus culpabilisant. Les Iraniens ne paraissent pas malheureux, ce qui ne préjuge pas de leurs souffrances.
 
 Je me suis assis à l’ombre d’une tonnelle. Devant moi, un champ d’herbe de printemps avec des fleurs. Un désordre parfait. Je devine la perfection dans ce laisser-aller. Les routes et le béton recouvrent partout ailleurs la quintessence iranienne.
 
@@ -152,7 +152,7 @@ Nous allons déjeuner dans un immense restaurant où nous sommes presque seuls. 
 
 Après le repas, nous traversons la ville, au rues bordées d’acacias, de tamaris, sous un beau soleil. Des murs peints. On dirait que la route nous conduit vers la mer. Après une magnifique avenue plantée de pins, nous arrivons au tombeau d’[Attar](https://en.wikipedia.org/wiki/Attar_of_Nishapur), le poète mystique.
 
-Un tel moment arrive toujours dans les voyages quand le temps s’arrête parce que la lumière et le lieu entrent en résonance. Un grand jardin avec des pelouses impeccables, des arbres majestueux, des fleurs, des visiteurs paisibles. Dans les allées, des peintres avec leur chevalet, sur les traces d’un autre peintre, [Kamal-ol-molk](https://en.wikipedia.org/wiki/Kamal-ol-molk), lui-même enterré non loin d’Attar. Quelques marches descendent vers le mausolée turquoise avec au centre la tombe du poète.
+Un tel moment arrive souvent dans les voyages quand le temps s’arrête, que la lumière et le lieu entrent en résonance. Un grand jardin avec des pelouses impeccables, des arbres majestueux, des fleurs, des visiteurs paisibles. Dans les allées, des peintres avec leur chevalet, sur les traces d’un autre peintre, [Kamal-ol-molk](https://en.wikipedia.org/wiki/Kamal-ol-molk), lui-même enterré non loin d’Attar. Quelques marches descendent vers le mausolée turquoise avec au centre la tombe du poète.
 
 Une architecture encore une fois toc, bien loin du grand art, mais la coupole posée sur sa base hexagonale est à sa place. Notre guide déclame les vers du poète. Je m’éloigne, m’assois sur les marches. Je pourrais rester là une journée entière, mais c’est déjà l’heure de rentrer vers Mashhad.
 
