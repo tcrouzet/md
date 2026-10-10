@@ -1,16 +1,14 @@
 # Avril 2015
 
-*Texte mis au propre le samedi 10 octobre 2026, quelques heures avant d’assister au mariage de N, près d’Avignon. Je pensais y aller les mains vides, puis soudain une idée de cadeau symbolique m’est vennue. J’ai rencontré N à Mashhad en Iran, en avril 2015, lorsque j’ai accompagné Didier Pittet pour visiter des hôpitaux et participer à un congrès médical où la version en farsi du* [Geste qui sauve](https://tcrouzet.com/books/geste1/le-geste-qui-sauve/) *a été distribuée aux participants. N, alors jeune étudiante en médecine, était mon interprète. Je ne savais pas que notre rencontre changerait sa vie. Durant ce voyage, j’ai pris quelques notes.*
+*Texte mis au propre le samedi 10 octobre 2026, quelques heures avant d’assister au mariage de N, près d’Avignon. Je pensais y aller les mains vides – mon côté minimaliste contre la société de consommation –, puis une idée de cadeau symbolique m’est vennue. J’ai rencontré N à Mashhad en Iran, en avril 2015, lorsque j’ai accompagné Didier Pittet pour visiter des hôpitaux et participer à un congrès médical où la version en farsi du* [Geste qui sauve](https://tcrouzet.com/books/geste1/le-geste-qui-sauve/) *a été distribuée aux participants. N, alors jeune étudiante en médecine, était mon interprète. Je ne savais pas que notre rencontre changerait sa vie. Durant ce voyage, j’ai pris quelques notes.*
 
 ### Dimanche 12, Istanbul
 
 Coincé dans l’aéroport pour cinq heures. Un mall à l’américaine avec les mêmes boutiques que dans n’importe quelle rue chic de n’importe quelle ville. D’une tristesse terrifiante.
 
-Avec mon billet éco, impossible de suivre Didier dans le lounge VIP. Il n’a droit qu’à un invité : Géraldine l’accompagne. Elle filme Didier pour un 52 minutes. Avec Walter, le second médecin de la mission, je m’installe en terrasse du Greenport face au duty free. On parle du monde. Didier finit par trouver une combine pour nous faire entrer dans son ghetto. Je n’avais pas mis les pieds dans un tel bouge depuis vingt ans.
+Avec mon billet éco, impossible de suivre Didier dans le lounge VIP. Il n’a droit qu’à un invité : Géraldine l’accompagne. Elle filme Didier pour un 52 minutes. Avec Walter, le second médecin de la mission, je m’installe en terrasse du Greenport face au duty free. On parle du monde. Didier finit par trouver une combine pour nous faire entrer dans son ghetto. Je n’avais pas mis les pieds dans un tel bouge depuis vingt ans : un gigantesque espace sur deux niveaux avec baies vitrées ouvertes sur un parking, une autoroute, la ville au loin. Des voyageurs affalés. La société des ultrariches se vautre sans complexe.
 
-C’est un gigantesque espace sur deux niveaux avec baies vitrées ouvertes sur un parking, une autoroute, la ville au loin. Des voyageurs affalés. La société des ultrariches se vautre sans complexe.
-
-Des jeux vidéo géants, des Macs partout, des piles de gâteaux, de boissons, de quoi se déchirer, se péter le foie. Je mange trop, parce que rien d’autre à faire. Mon seul refuge les mots, mais j’ai déjà écrit [une de mes minutes](https://tcrouzet.com/books/une-minute/) sur une des petites tables du Greenport, et plus d’envie, tant ce qui défile me terrorise. Se vouloir privilégié, en être fier, résume la condition humaine.
+Des jeux vidéo géants, des Macs partout, des piles de gâteaux, de boissons, de quoi se déchirer, se péter le foie. Je mange trop, parce que rien d’autre à faire. Mon seul refuge : les mots, mais j’ai déjà écrit [une de mes minutes](https://tcrouzet.com/books/une-minute/) sur une des petites tables du Greenport, et plus d’envie, tant ce qui défile me terrorise. Se vouloir privilégié, en être fier, résume la condition humaine.
 
 ![Istanbul](_i/2015-04-12-190316.webp)
 
@@ -18,7 +16,7 @@ Des jeux vidéo géants, des Macs partout, des piles de gâteaux, de boissons, d
 
 Je suis assis, côté allée centrale, près d’un couple assez âgé. Ils ne parlent pratiquement pas anglais, mais ils me sourient avec une gentillesse infinie, accentuée par l’angoisse assez commune en avion de s’imaginer vivre ses dernières minutes.
 
-On devrait s’inquiéter plus souvent. L’humanité serait plus paisible. Penser au pot de fleurs qui peut nous tomber sur la tête ou à la voiture d’un ivrogne qui risque de nous percuter. Probabilité bien plus élevée que de décéder d’un crash et qui, conscientisée, nous pousserait à mener des vies plus respectueuses des autres, car le mourant est souvent respectueux et plein de compassion.
+On devrait s’inquiéter plus souvent. L’humanité serait plus paisible. Penser au pot de fleurs qui peut nous tomber sur la tête ou à la voiture d’un ivrogne qui risque de nous percuter. Probabilité bien plus élevée que de décéder d’un crash et qui, conscientisée, nous pousserait à mener des vies plus respectueuses des autres, le mourant étant souvent respectueux et plein de compassion.
 
 Presque aucune femme ne porte le voile, et surtout pas les hôtesses de Turkish Airline. De l’autre côté de l’allée centrale, une Française avec son fils. Elle m’explique qu’elle vient chaque année passer les vacances de Pâques en Iran. « Un pays magnifique. »
 
@@ -26,13 +24,13 @@ Dès que nous attaquons la descente, les femmes se voilent, le plus souvent avec
 
 ### Lundi 13, Mashhad
 
-Quand nous débarquons à une heure du matin, mes voisins m’invitent chez eux. Je ne doute pas un instant de leur réel désir de partager un thé, mais nous sommes vite séparés. Dès le tarmac, on nous conduit Didier, Walter, Géraldine et moi vers un lounge VIP où nous attendons nos bagages et nos visas. Attente inutilement longue. Je suppose que les non-VIP ont quitté l’aéroport depuis longtemps.
+Quand nous débarquons à deux heures du matin, mes voisins m’invitent chez eux. Je ne doute pas un instant de leur réel désir de partager un thé, mais nous sommes vite séparés. Dès le tarmac, on nous conduit Didier, Walter, Géraldine et moi vers un lounge VIP où nous attendons nos bagages et nos visas. Attente inutilement longue. Je suppose que les non-VIP ont quitté l’aéroport depuis longtemps.
 
 Assam, l’ami de Didier et l’organisateur du voyage, nous rejoint. Nous discutons du programme des jours à venir. Une connexion Wifi est dispo. Facebook et Twitter sont bloqués. Mais mon HootSuite, déjà préchargé dans mon navigateur, se joue avec facilité de la censure. Je poste et lis mes messages sans problème. Pas même besoin d’un proxy.
 
 Enfin, un taxi nous emporte dans la nuit vers l’hôtel. Tous les cent mètres, un dos d’âne me casse le dos. Nous remontons une longue avenue rectiligne illuminée par des boules colorées et des espèces d’arbres de Noël.
 
-Nous bifurquons sur une avenue perpendiculaire. Ainsi de suite. J’ai l’impression qu’on remonte un labyrinthe avant d’arriver à l’hôtel Homa. Nouvelle attente inexplicable. On nous confisque nos passeports. Ce n’est pas avant 4h30 que nous entrons dans nos chambres, des espèces d’appartements où on pourrait loger une famille nombreuse.
+Nous bifurquons sur une avenue perpendiculaire. Ainsi de suite. J’ai l’impression qu’on remonte un labyrinthe avant d’arriver à l’hôtel Homa. Nouvelle attente inexplicable. On nous confisque nos passeports. Ce n’est pas avant 4h30 que nous entrons dans nos chambres, des appartements où on pourrait loger une famille nombreuse.
 
 Je lis quelques lignes avant de m’endormir. Le téléphone me fait sursauter. Le concierge veut me proposer le code du Wifi, code qu’il n’a pas voulu me donner au départ. Je suppose qu’un code est associé à chaque chambre, puis lié au passeport. Je lui réponds simplement que je veux dormir.
 
@@ -40,29 +38,29 @@ Je lis quelques lignes avant de m’endormir. Le téléphone me fait sursauter. 
 
 Le soleil me réveille à sept heures, à moins que ce ne soit le tumulte du trafic. J’ai l’impression d’être au bord d’une autoroute. Je réussis à m’assoupir une paire d’heures de plus.
 
-Avant notre départ pour le premier hôpital, on nous change de chambre. Les suites VIP. Plus petites que celles de la veille, mais plus confortables, et surtout orientées vers un square et le squelette orange d’un immeuble en construction, en fait le Mashhad Mall dont j’apprends plus tard qu’il sera bientôt le plus grand centre commercial du Moyen-Orient.
+Avant notre départ pour le premier hôpital, on nous change de chambre. Les suites VIP. Plus petites que les précédentes, mais plus confortables, et surtout orientées vers un square et le squelette orange d’un immeuble en construction, le Mashhad Mall dont j’apprends plus tard qu’il sera bientôt le plus grand centre commercial du Moyen-Orient.
 
 Nous voilà dans un taxi qui nous conduit vers Imam Reza Hospital, une série de bâtiments aux toits rouges construits dans les années 1930 par les Allemands.
 
 Conférence de presse. Je n’avais pas prévu ça. Une vingtaine de journalistes. La version farsi de mon livre sur les tables. Didier qui raconte comment l’Iran est exemplaire pour l’hygiène des mains.
 
-Je dis quelques mots. J’explique rapidement l’open source, la société du don, l’économie de paix. Je ne peux m’empêcher de fanfaronner en disant que je suis un activiste politique favorable au partage parce que le partage entraîne la paix. Lors du déjeuner, notre traducteur me fait remarquer qu’il a traduit « activiste politique » par « activiste social ». Et qu’il vaut mieux que je parle en ces termes à l’avenir.
+Je dis quelques mots. J’explique rapidement l’open source, la société du don, l’économie de paix. Je ne peux m’empêcher de fanfaronner en disant que je suis un activiste politique favorable au partage parce qu’il entraîne la paix. Lors du déjeuner, notre traducteur me fait remarquer qu’il a traduit « activiste politique » par « activiste social ». Et qu’il vaut mieux que je parle en ces termes à l’avenir.
 
 Je me tiens à l’écart des chambres des malades. J’échange quelques mots avec des étudiants en médecine. Chaque corps en souffrance entrevu me fait souffrir. Après le déjeuner, je refuse de visiter les urgences. On m’installe dans un bureau où je peux vider ma tête de mes premières impressions.
 
-L’air dehors est estival. Les rues entre les immeubles de l’hôpital sont plantées de platanes aux troncs peints en turquoise, sans doute un insecticide. Notre traducteur ne sait rien de cette pratique. Étrange. Depuis l’aéroport, tous les troncs sont barbouillés et ça n’éveille la curiosité de personne. Mon grand-père maternel m’a expliqué que les bandes blanches poussaient les fourmis à faire demi-tour. Il doit s’agir de quelque chose du même ordre.
+L’air dehors est estival. Les allées entre les immeubles de l’hôpital sont plantées de platanes aux troncs peints en turquoise, sans doute un insecticide. Notre traducteur ne sait rien de cette pratique. Étrange. Depuis l’aéroport, tous les troncs sont barbouillés et ça n’éveille la curiosité de personne. Mon grand-père maternel m’a expliqué que les bandes blanches poussaient les fourmis à faire demi-tour. Il doit s’agir de quelque chose du même ordre.
 
 Nous reprenons la voiture. Nouvel hôpital spécialisé dans les transplantations. Je reste dehors. On me sert des gâteaux, des fruits. Avenues plantées d’acacias. Grands panneaux publicitaires. Merveilleuse typographie. Ça klaxonne. Ça roule entre les files. Ça se dispute le moindre millimètre de bitume. C’est sport.
 
 Je ne m’attendais à rien en venant ici, mais surtout pas à découvrir un pays aussi actif, aussi riche, aussi dynamique, avec des centaines de grues au-dessus des toits. Tout est net, ordonné, pas un papier abandonné dans les bas-côtés. Je ne suis pas chez moi, sans que la distance soit vertigineuse. Le monde s’aplatit à sa base en même temps que les élites s’en éloignent toujours plus.
 
-Nous reprenons le chemin de l’hôtel. Didier nous apprend qu’en Iran 70 % des accouchements s’effectuent par césarienne, pour que les femmes gardent le ventre plat, pour que leurs maris puissent les rabaisser plus vite, mais les choses changent. Un programme tente de faire baisser ce pourcentage de dix points tous les six mois. Le voile n’est qu’un combat parmi beaucoup d’autres, comme le répète Géraldine. Il ne suffirait pas de faire tomber cet épouvantail pour révolutionner la vie des femmes. Sa chute ne doit être que la célébration d’une victoire plus large et plus définitive.
+Nous reprenons le chemin de l’hôtel. Didier nous apprend qu’en Iran 70 % des accouchements s’effectuent par césarienne, pour que les femmes gardent le ventre plat, pour que leurs maris puissent les rebaisser plus vite, mais les choses changent. Un programme tente de faire baisser ce pourcentage de dix points tous les six mois. Le voile n’est qu’un combat parmi beaucoup d’autres, comme le répète Géraldine. Il ne suffirait pas de faire tomber cet épouvantail pour révolutionner la vie des femmes. Sa chute ne doit être que la célébration d’une victoire plus large et plus définitive.
 
 À peine arrivés à l’hôtel, nous repartons vers un restaurant sur Sajab Boulevard. Rue animée. Les Champs-Élysées de Mashhad avec pas mal d’enseignes internationales, les mêmes que dans les aéroports, les mêmes que partout. Je n’ai pas réussi à m’échapper en cette première journée iranienne. Point de génie du lieu en vue. Des gens adorables, je devrais m’en satisfaire. Mais je devine une dissonance, comme si quelque chose ne collait pas.
 
 Je suis incapable de détourner le regard des femmes : avec leur voile elles appartenaient à une espèce inconnue, un rien mystérieuse. Ce soir, les plus jeunes ont tendance à laisser le voile tomber sur leur cou. Je sens que ce pays est entre leurs mains. Le machisme n’est qu’une façade en train de s’effriter. Dans les hôpitaux, j’ai vu des femmes autoritaires, dominantes. Elles dirigent ce pays dans le plus grand secret.
 
-Nous regagnons l’hôtel à pied. Nous remontons la rue commerçante. Nous longeons le gigantesque chantier orange du futur plus grand centre commercial du Moyen-Orient. Les Iraniens aspirent à ce qu’il y a de pire dans l’Occident. Je ne suis pas loin de comprendre les mollahs. Seule la rupture mérite d’être vécue.
+Nous regagnons l’hôtel à pied, remontons la rue commerçante, longeons le gigantesque chantier orange du futur plus grand centre commercial du Moyen-Orient. Les Iraniens aspirent à ce qu’il y a de pire dans l’Occident.
 
 B et P, un couple de jeunes étudiants en médecine, nous accompagnent jusqu’à l’hôtel. Ils se touchent de temps à autre. On m’explique qu’ils sont mariés. B porte une belle barbe taillée à la mode hipster, style Ryan Gosling. P, avec ses talons et son jean slim, est une bombe atomique, et son voile ne cache rien de son merveilleux chignon.
 
