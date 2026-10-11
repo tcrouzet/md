@@ -232,6 +232,6 @@ Assam nous invite à déjeuner, puis alors que Didier s’esquive, il nous condu
 
 ![](_i/2015-04-18-004332.webp)
 
-*[Nous sommes retournés en Iran en avril 2018, je l’ai déjà raconté dans mes carnets.](https://tcrouzet.com/2018/05/04/carnet-de-route-avril-2018/) Nous avons revu N avec émotion. Didier lui a proposé de postuler pour un postdoctorat à Genève, ce qu’elle a fait. Et nous voilà aujourd’hui invités à son mariage avec Camil. Ça me bouleverse. À quoi tiennent les vies ? On m’aurait attribué en 2015 une autre interprète, et c’est peut-être à son mariage que je me rendrais.* 
+*[Nous sommes retournés en Iran en avril 2018, je l’ai déjà raconté dans mes carnets.](https://tcrouzet.com/2018/05/04/carnet-de-route-avril-2018/) Nous avons revu N avec émotion. Didier lui a proposé de postuler pour un postdoctorat à Genève, ce qu’elle a fait. Et nous voilà aujourd’hui invités à son mariage avec Camil. Ça me bouleverse. À quoi tiennent les vies ? On m’aurait attribué en 2015 une autre interprète, et c’est peut-être à son mariage que je me rendrais.*
 
 #carnets #y2015 #2015-5-1-10h00
