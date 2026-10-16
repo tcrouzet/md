@@ -5,7 +5,7 @@ metadescription: "L’affaire Orélien met la stylométrie en échec et fait na�
 
 # Thélyson Orélien me pousse à réécrire Antidote
 
-L’affaire [Thélyson Orélien](https://tcrouzet.com/2026/09/23/plagiat-IA/) a des conséquences étonnantes sur moi, au point de m’empêcher de dormir et de me mettre dans un état d’excitation presque fébrile. Elle en aura aussi de non moins stressantes pour [Druide, l’éditeur d’Antidote](https://www.druide.com/fr/).
+L’affaire [Thélyson Orélien](https://tcrouzet.com/2026/09/23/plagiat-IA/) a des conséquences étonnantes sur moi, au point de m’empêcher de dormir et de me mettre dans un état d’excitation presque fébrile. Elle aura aussi des conséquences non moins stressantes pour [Druide, l’éditeur d’Antidote](https://www.druide.com/fr/).
 
 [Après les aveux d’Orélien](https://www.lemonde.fr/critique-litteraire/article/2026/10/13/thelyson-orelien-nie-avoir-utilise-une-ia-pour-son-roman-c-etait-ca-ou-mourir_6793118_5473203.html) qui confirme ses plagiats, mais réaffirme le 100 % bio de son roman, [j’ai replongé dans les statistiques](https://tcrouzet.github.io/unshiter/), traquant les structures ternaires, les lieux communs, les monotonies syntaxiques, autant de défauts souvent attribués aux IA. Plus j’ai creusé, plus j’ai constaté que le roman d’Orélien n’était en rien extraordinaire du point de vue de la [stylométrie](https://fr.wikipedia.org/wiki/Stylom%C3%A9trie).
 
@@ -18,8 +18,6 @@ Une autre nouvelle est venue percuter ma réflexion : [Brandon Thomas, un codeu
 J’aurais pu développer un outil en Rust, mais j’ai préféré créer un plugin pour [Obsidian](https://obsidian.md/), mon éditeur de texte préféré, [que je ne cesse de vous conseiller d’utiliser tant il est polyvalent et minimaliste](https://tcrouzet.com/tag/obsidian/). Si vous écrivez, peu importe quoi, Obsidian est pour vous. Oubliez Word, Ulysses et les autres outils fermés.
 
 Mon plugin [Finition](https://github.com/tcrouzet/finition), encore à ses débuts, est déjà capable d’éclairer mes textes de façon nouvelle. Il me suffit de cliquer sur la note de musique dans la barre d’état, de choisir la fonction et le texte s’illumine.
-
-![Paramétrage du plugin](_i/antidote-12.webp)
 
 ### Répétitions
 
@@ -62,6 +60,8 @@ Découpe chaque phrase en groupes séparés par virgule ou mot-charnière et sur
 ![Cadence, Orélien](_i/antidote-09.webp)
 
 La suite ? Ajouter au plugin un correcteur orthographique open source, comme [Grammalecte,](https://www.grammalecte.net/) des modules d’analyses complémentaires et même des assistants IA, notamment des modules de correction ortho-typo – que j’utilise déjà pour compléter Antidote. Je n’en suis qu’au début. Je perfectionnerai en fonction de mes besoins et des vôtres. Le plus dingue : je pourrais convertir mon plugin en Rust pour qu’il soit utilisable dans tous les outils d’écriture, mais ne le ferai pas pour vous pousser vers Obsidian, je suis pervers.
+
+![Paramétrage du plugin](_i/antidote-12.webp)
 
 Avec le développement des IA, il deviendra de plus en plus difficile de développer des outils propriétaires et de les commercialiser. Souvent, il sera plus économique de les recoder que de les acheter. J’adore le paradoxe : la communauté du libre s’oppose souvent aux IA et les IA ouvrent un âge d’or pour le libre, rendant la notion de logiciel propriétaire obsolète.
 
