@@ -61,8 +61,8 @@ Découpe chaque phrase en groupes séparés par virgule ou mot-charnière et sur
 
 La suite ? Ajouter au plugin un correcteur orthographique open source, comme [Grammalecte,](https://www.grammalecte.net/) des modules d’analyses complémentaires et même des assistants IA, notamment des modules de correction ortho-typo – que j’utilise déjà pour compléter Antidote. Je n’en suis qu’au début. Je perfectionnerai en fonction de mes besoins et des vôtres. Le plus dingue : je pourrais convertir mon plugin en Rust pour qu’il soit utilisable dans tous les outils d’écriture, mais ne le ferai pas pour vous pousser vers Obsidian, je suis pervers.
 
-![Paramétrage du plugin](_i/antidote-12.webp)
+![Paramétrage du plugin](_i/antidote-14.webp)
 
-Avec le développement des IA, il deviendra de plus en plus difficile de développer des outils propriétaires et de les commercialiser. Souvent, il sera plus économique de les recoder que de les acheter. J’adore le paradoxe : la communauté du libre s’oppose souvent aux IA et les IA ouvrent un âge d’or pour le libre, rendant la notion de logiciel propriétaire obsolète.
+Avec le développement des IA, il deviendra de plus en plus difficile de développer des outils propriétaires et de les commercialiser. Souvent, il sera plus économique de les recoder que de les acheter. J’adore le paradoxe : la communauté du libre s’oppose souvent aux IA et les IA ouvrent un âge d’or pour le libre, rendant la notion de logiciel propriétaire obsolète. 
 
 #edition #obsidian #ia #y2026 #2026-10-16-13h00
