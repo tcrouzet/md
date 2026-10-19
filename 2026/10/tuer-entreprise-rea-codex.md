@@ -41,7 +41,7 @@ Jusqu’à aujourd’hui, les codes des logiciels propriétaires étaient diffus
 
 ### Dimanche 18
 
-À mon réveil, je craque et demande à REA, via Codex, d’analyser Antidote installé sur ma machine. En une dizaine de minutes, il m’écrit un rapport conséquent, expliquant la logique neuronale sur laquelle s’appuie Antidote. À mon retour de ma sortie dominicale à vélo, je demande à Codex/REA/Ghidra de coder un correcteur neuronal. Il retrouve les poids du modèle Antidote, 40 Mo, et son dictionnaire de plus d’un million de flexions.
+À mon réveil, je craque et demande à REA, via Codex, d’analyser Antidote installé sur ma machine. En une dizaine de minutes, il m’écrit un rapport conséquent, expliquant la logique neuronale sur laquelle s’appuie Antidote. À mon retour de ma sortie à vélo, je demande à Codex/REA/Ghidra de coder un correcteur neuronal. Il retrouve les poids du modèle Antidote, 40 Mo, et son dictionnaire de plus d’un million de flexions.
 
 Dès la première version de la correction neuronale, les résultats égalent ceux de Grammalecte, puis vite les dépassent, sans jamais atteindre ceux d’Antidote. Codex ne cesse de me répéter : « REA reste une source d’indices, pas une preuve d’équivalence. » En gros : il ne s’agit pas d’un plagiat pur et simple, mais d’une réinvention, comme le ferait un historien à partir de quelques documents.
 
@@ -53,11 +53,11 @@ En fin de journée, je me sens coupable. Je renonce à publier une nouvelle vers
 
 ### Lundi 19
 
-Cinq heures du matin, je m’éveille avec les idées plus claires. Pourquoi ne pas proposer aux utilisateurs de créer leur propre modèle ? C’est un énorme travail : créer un dataset de dizaines de milliers de phrases fautives avec leur version correcte, puis entraîner un modèle sur une machine musclée, voire sur les serveurs de [Hugging Face](https://huggingface.co). En attendant, j’utilise [CamemBERT](https://huggingface.co/docs/transformers/model_doc/camembert), un modèle libre, dont la dernière itération date de 2025 : résultats moins bons qu’avec le modèle Antidote chargé dans Finition, mais satisfaisants, surtout quand, derrière, j’appelle à la rescousse la surpuissante correction IA.
+Cinq heures du matin, je m’éveille avec les idées plus claires. Pourquoi ne pas proposer aux utilisateurs de créer leur propre modèle neuronal ? C’est un énorme travail : créer un dataset de dizaines de milliers de phrases fautives avec leur version correcte, puis entraîner un modèle sur une machine musclée, voire sur les serveurs de [Hugging Face](https://huggingface.co). En attendant, j’utilise [CamemBERT](https://huggingface.co/docs/transformers/model_doc/camembert), un modèle libre, dont la dernière itération date de 2025 : résultats moins bons qu’avec le modèle Antidote chargé dans Finition, mais satisfaisants, surtout quand, derrière, j’appelle à la rescousse la surpuissante correction IA.
 
-Je pousse REA plus loin, il me remonte les dictionnaires d’Antidote : synonymes, antonymes, rimes… Je recherche en ligne des ressources libres pour les remplacer et fabrique un format standardisé pour les intégrer à Finition à la demande. Cette base est extensible.
+Poussé plus loi, REA remonte les dictionnaires d’Antidote : synonymes, antonymes, rimes… Je recherche en ligne des ressources libres pour les remplacer et fabrique un format standardisé pour les intégrer à Finition à la demande. Cette base est extensible.
 
-Suis-je un voleur ? Est-ce que vous me volez quand vous lisez des passages de mes livres ? Non. REA n’a fait que lire le code d’Antidote. Si je transposais exactement ce code, je serais un plagiaire, surtout si je piquais le modèle de 40 Mo et les dictionnaires pour les publier, mais je ne les utilise qu’à titre de benchmark.
+Suis-je un voleur ? Est-ce que vous me volez quand vous lisez des passages de mes livres ? Non. REA n’a fait que lire le code d’Antidote. Si je transposais exactement ce code, je serais un plagiaire, surtout si je piquais le modèle de 40 Mo et les dictionnaires pour les publier, mais je ne les utilise qu’à titre de benchmark pour les comparer à mes reconstructions depuis des sources publiques.
 
 Il ne faudrait pas oublier comment cette histoire a commencé : par le pillage de tous les contenus accessibles publiquement, les miens compris. Ce pillage a rendu les IA possibles, qui permettent à leur tour le pillage des logiciels privatifs.
 
