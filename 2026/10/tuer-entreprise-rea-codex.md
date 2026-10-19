@@ -53,7 +53,7 @@ En fin de journée, je me sens coupable. Je renonce à publier une nouvelle vers
 
 ### Lundi 19
 
-Cinq heures du matin, je m’éveille avec les idées plus claires. Pourquoi ne pas proposer aux utilisateurs de créer leur propre modèle neuronal ? C’est un énorme travail : créer un dataset de dizaines de milliers de phrases fautives avec leur version correcte, puis entraîner un modèle sur une machine musclée, voire sur les serveurs de [Hugging Face](https://huggingface.co). En attendant, j’utilise [CamemBERT](https://huggingface.co/docs/transformers/model_doc/camembert), un modèle libre, dont la dernière itération date de 2025 : résultats moins bons qu’avec le modèle Antidote chargé dans Finition, mais satisfaisants, surtout quand, derrière, j’appelle à la rescousse la surpuissante correction IA.
+Cinq heures du matin, je m’éveille avec les idées plus claires. Pourquoi ne pas proposer aux utilisateurs de créer leur propre modèle neuronal ? C’est un énorme travail : créer un dataset de dizaines de milliers de phrases fautives avec leur version correcte, puis entraîner un modèle sur une machine musclée, voire sur les serveurs de [Hugging Face](https://huggingface.co). En attendant, j’utilise [CamemBERT](https://huggingface.co/almanach/camembertv2-base), un modèle libre, dont la dernière itération date de 2024 : résultats moins bons qu’avec le modèle Antidote chargé dans Finition, mais satisfaisants, surtout quand, derrière, j’appelle à la rescousse la surpuissante correction IA.
 
 Poussé plus loi, REA remonte les dictionnaires d’Antidote : synonymes, antonymes, rimes… Je recherche en ligne des ressources libres pour les remplacer et fabrique un format standardisé pour les intégrer à Finition à la demande. Cette base est extensible.
 
