@@ -9,7 +9,7 @@ Les IA sectaires, [chacun avec leurs raisons que j’ai déjà listées](https:/
 
 ![Le second printemps](_i/2026-10-24-160414.webp)
 
-Je commence par une histoire. Isa était une activiste climatique, persuadée que nous pouvions enrayer les dérèglements écologiques par un sursaut individuel. Il y a vingt ans, nous avons changé de vie, réduit nos dépenses, renoncé aux cadeaux à Noël et limité nos voyages en train, sauf pour notre année en Floride. En 2007, nous avons installé des panneaux solaires et une pompe à chaleur. Notre maison est grande, mais elle consomme moins d’énergie que beaucoup d’appartements. Surtout, nous avons décidé de gagner moins, de réduire la voilure et notre impact écologique. Nous n’étions pas exemplaires, mais droits dans nos bottes. Nous menions des vies aussi sobres que possible et nous en étions heureux, sans le moindre sentiment d’avoir perdu au change.
+Je commence par une histoire. [Isa](https://tcrouzet.com/tag/isa/) était une activiste climatique, persuadée que nous pouvions enrayer les dérèglements écologiques par un sursaut individuel. Il y a vingt ans, nous avons changé de vie, réduit nos dépenses, renoncé aux cadeaux à Noël et limité nos voyages en train, sauf pour notre année en Floride. En 2007, nous avons installé des panneaux solaires et une pompe à chaleur. Notre maison est grande, mais elle consomme moins d’énergie que beaucoup d’appartements. Surtout, nous avons décidé de gagner moins, de réduire la voilure et notre impact écologique. Nous n’étions pas exemplaires, mais droits dans nos bottes. Nous menions des vies aussi sobres que possible et nous en étions heureux, sans le moindre sentiment d’avoir perdu au change.
 
 Puis le cancer est arrivé. Nous n’avons jamais su combien la Sécurité sociale avait dépensé pour tenter de sauver Isa, mais une estimation rapide par les IA chiffre l’empreinte carbone de son traitement à 25 tonnes de CO<sub>2</sub>, soit trois fois plus que [ce qu’un Français dépense en moyenne par an](https://www.statistiques.developpement-durable.gouv.fr/lempreinte-carbone-de-la-france-de-1990-2024), et quatre fois notre empreinte annuelle individuelle. Mais Isa est morte vite, alors la biosphère y a gagné : elle aurait pu vivre quarante ans de plus.
 
@@ -53,4 +53,4 @@ Je crois au pouvoir des histoires. Si les IA me permettent d’écrire de plus b
 
 *PS : Pendant l’écriture de cet article, j’ai développé un [plugin Obsidian pour faciliter la génération de livres aux formats PDF et ePub](https://community.obsidian.md/plugins/bookbinder). J’aurais dû renoncer ?*
 
-#netculture #ia #y2026 #2026-10-25-17h00
+#netculture #ia #isa #y2026 #2026-10-25-17h00
