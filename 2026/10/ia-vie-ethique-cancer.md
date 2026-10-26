@@ -5,7 +5,7 @@ metadescription: "Cancer, sobriété, climat, médecine et écriture: l’IA met
 
 # L’IA à l’épreuve de la vie
 
-Les IA sectaires, [chacun avec leurs raisons que j’ai déjà listées](https://tcrouzet.com/2026/10/02/hypocrisie-editoriale/), me tombent souvent dessus. Ils critiquent « mes ambiguïtés ». Je profite d’une charge d’[Arthur Perret](https://www.arthurperret.fr/blog/2026-10-22-transparence-et-inconsequence.html) qui m’accuse d’« inconséquences », lui-même n’étant pas le pire des IA sectaires, pour leur répondre une bonne fois pour toutes.
+Les anti-IA, [chacun avec leurs raisons que j’ai déjà listées](https://tcrouzet.com/2026/10/02/hypocrisie-editoriale/), me tombent souvent dessus. Ils critiquent « mes ambiguïtés ». Je profite d’une charge d’[Arthur Perret](https://www.arthurperret.fr/blog/2026-10-22-transparence-et-inconsequence.html) qui m’accuse d’« inconséquences », lui-même n’étant pas le pire des anti-IA, pour leur répondre une bonne fois pour toutes.
 
 ![Le second printemps](_i/2026-10-24-160414.webp)
 
