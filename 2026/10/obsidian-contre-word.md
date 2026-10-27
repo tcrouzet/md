@@ -37,15 +37,15 @@ La plupart des auteurs ignorent qu’il existe autant d’outils d’écriture n
 
 Cette histoire me passionne. Après 1983, il ne se passe rien du côté des traitements de texte pendant vingt ans : Word s’impose comme l’outil d’écriture universel, à tel point que, pour beaucoup, la messe est dite. Il faut attendre Ulysses, Scrivener et iA Writer, apparus entre 2003 et 2010 pour que les outils évoluent à nouveau.
 
-Word est un outil à tout faire, sans exceller nulle part. Les nouveaux logiciels s’adressent aux auteurs de textes longs. Ils offrent des interfaces minimalistes, sans distraction, et adoptent le Markdown pour accélérer la saisie, éviter le recours à la souris, standardiser le formatage, séparer le texte de sa mise en forme. Ces éditeurs de texte facilitent la navigation entre de nombreux fichiers, la recherche, la gestion de la documentation, la publication sur le web, l’exportation en PDF, ePub, Docx… Ils font gagner beaucoup de temps, fluidifient le travail, favorisent l’immersion dans les textes.
+Word est un outil à tout faire, sans exceller nulle part. Les nouveaux logiciels s’adressent aux auteurs de textes longs. Ils offrent des interfaces minimalistes, sans distraction, et adoptent le Markdown pour accélérer la saisie, éviter le recours à la souris, standardiser le formatage, séparer le texte de sa mise en forme. Ces éditeurs de texte facilitent la navigation entre de nombreux fichiers, la recherche, la gestion de la documentation, la publication sur le web, l’exportation en PDF et ePub. Ils font gagner beaucoup de temps, fluidifient le travail, favorisent l’immersion dans les textes.
 
-Mais la plupart des auteurs restent englués dans Word. Soit ils ignorent tout des nouveaux outils, soit ils craignent de changer de crémerie. Une certitude : après la transition, le retour en arrière est impensable, tout comme pour un artisan passé du marteau-burin au burineur.
+Mais la plupart des auteurs restent englués dans Word. Soit ils ignorent tout des nouveaux outils, soit ils craignent de changer de crémerie. Une certitude : après la transition, le retour en arrière est impensable, tout comme pour un artisan repassé au marteau-burin après avoir découvert le burineur.
 
 Pour le code, j’ai utilisé vi, puis Vim. Je les utilise toujours sous Linux, mais leur préfère Visual Studio Code sur Mac. Pour l’écriture, je suis passé de WordPerfect à Word, puis à Scrivener et Ulysses. J’ai testé tous les autres outils au passage, avant d’adopter [Obsidian](https://obsidian.md/) fin 2023, soit un peu plus d’un an après sa première version stable – [j’ai tardé parce qu’Ulysses m’emprisonnait](https://tcrouzet.com/2023/12/25/pris-en-otage-par-ulysses-app/). Je vous encourage à franchir le Rubicon. C’est gratuit. Vous en serez récompensé.
 
 ### Obsidian
 
-Contrairement à Ulysses et Scrivener, et comme iA Writer, [Obsidian](https://obsidian.md/) est un éditeur de texte Markdown. Vos fichiers ne contiennent rien d’autre que ce que vous voyez à l’écran. [Pas de risque que des agents étrangers y cachent des métadonnées invisibles.](https://tcrouzet.com/2026/10/22/eloge-thelyson-orelien/) Vous pouvez ouvrir les fichiers avec Visual Studio Code, Vim, iA Writer, n’importe quel éditeur de texte, sur Mac, Windows, Linux, iOS, Android. S’enfermer dans un format de fichier plus complexe n’a plus de sens. Markdown pérennise vos textes numériques et offre une interopérabilité maximale. Vous pouvez utiliser plusieurs stylos numériques, en changer entre votre ordinateur et votre téléphone.
+[Obsidian](https://obsidian.md/) est un éditeur de texte Markdown. Vos fichiers ne contiennent rien d’autre que ce que vous voyez à l’écran. [Pas de risque que des agents étrangers y cachent des métadonnées invisibles.](https://tcrouzet.com/2026/10/22/eloge-thelyson-orelien/) Vous pouvez ouvrir les fichiers avec Visual Studio Code, Vim, iA Writer, n’importe quel éditeur de texte, sur Mac, Windows, Linux, iOS, Android. S’enfermer dans un format de fichier plus complexe n’a plus de sens. Markdown pérennise vos textes numériques et offre une interopérabilité maximale. Vous pouvez utiliser plusieurs stylos numériques, en changer entre votre ordinateur et votre téléphone.
 
 ![Les fichiers sur la gauche](_i/obs04.webp)
 
@@ -65,7 +65,7 @@ Si vous arrivez de Word, la première étape est d’installer le plugin [Docxer
 
 Apprendre le Markdown prend un rien de temps. [Les balises sont peu nombreuses, intuitives, on n’y pense rapidement plus](https://fr.wikipedia.org/wiki/Markdown). Grand avantage du Markdown, on produit un texte propre : pas de sauts de ligne multiples, de tabulations, d’enrichissements typographiques. Vous disposez du strict nécessaire. Par défaut, Obsidian met en forme le texte à l’écran et masque les balises Markdown.
 
-Pourquoi des plugins ? Obsidian est un châssis-moteur à habiller de multiples carrosseries (les thèmes) et à équiper de divers accessoires (les plugins). Voici ma configuration de travail.
+Obsidian est un châssis-moteur à habiller de multiples carrosseries (les thèmes) et à équiper de divers accessoires (les plugins). Voici ma configuration de travail.
 
 ### Mon thème
 
