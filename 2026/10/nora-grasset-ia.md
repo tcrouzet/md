@@ -83,4 +83,4 @@ Discuter avec l’auteur de son travail permet de savoir si c’est un fumiste o
 
 Nous n’avons d’autre recours que la confiance : un pacte entre un auteur, son éditeur et ses lecteurs. La crise actuelle ne serait pas si vive si ce pacte n’avait pas été miné depuis longtemps par la marchandisation de la littérature. Peut-être qu’ici, en ligne, avec mes abonnées, se noue un pacte de fer. Vous savez ce que j’ai dans la tête, je vous parle de mon travail, nous avançons ensemble.
 
-#edition #ia #y2026 #2026-10-20-11h00
+#edition #ia #y2026 #2026-10-30-11h00
