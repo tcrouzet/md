@@ -7,7 +7,7 @@ metadescription: "Deuil et solitude: un mariage aliénant, le silence des édite
 
 ### Vendredi 2, Balaruc
 
-Suis invité à un mariage et je lis sur l’invitation que je suis attendu dans dix jours en tenue de cérémonie. Je ne vais pas m’acheter un costume, malgré tout mon amour pour la mariée. Je ne vais pas jouer la comédie d’un monde qui s’écroule, dépenser de l’argent pour des frivolités, des falbalas, des conneries ritualisées, même si, ces derniers mois, j’ai appris à mes dépens la puissance des rituels. Je m’intéresse à leurs nœuds, pas à leur surface. Mon effort sera de dénicher une vieille chemise. Je ne simulerai pas la montée des marches sur le tapis rouge de Cannes.
+Sur une invitation à un mariage, je découvre que je suis attendu dans dix jours en tenue de cérémonie. Je ne m’achèterai pas un costume, malgré tout mon amour pour la mariée. Je ne jouerai pas la comédie d’un monde qui s’écroule, ne dépenserai pas de l’argent pour des frivolités, des falbalas, des conneries ritualisées, même si, ces derniers mois, j’ai appris à mes dépens la puissance des rituels. Je m’intéresse à leurs nœuds, pas à leur surface. Mon effort sera de dénicher une vieille chemise. Je ne simulerai pas la montée des marches sur le tapis rouge de Cannes.
 
 ### Samedi 3, Balaruc
 
@@ -29,7 +29,7 @@ Je pourrais mettre ce passage en exergue de *L’expérience humaine*. Je n’ai
 
 ### Mercredi 7, Balaruc
 
-Je discute avec un auteur attaché à ses vieux outils numériques et réticent à passer sur Obsidian. Je lui lance \: « Changer d’habitude fait du bien à l’écriture. » Tous les changements sont bénéfiques à l’écriture. C’est une dévoreuse de nouveauté, l’écriture, elle a même dévoré la mort d’Isa.
+Je discute avec un auteur attaché à ses vieux outils numériques et réticent à passer sur Obsidian. Je lui lance : « Changer d’habitude fait du bien à l’écriture. » Tous les changements sont bénéfiques à l’écriture. C’est une dévoreuse de nouveauté, l’écriture, elle a même dévoré la mort d’Isa.
 
 ---
 
@@ -41,7 +41,7 @@ Je travaille sans arrêt jusqu’à 20 h, puis les forces me manquent. Je me pr
 
 ---
 
-Je suis circonspect face à la révolte des lycéens. Je comprends les revendications, mais les trouve terre à terre : des locaux en meilleur état, davantage de profs, des classes moins chargées, la fin de Parcoursup et de sa terrible opacité… C’est tout ? Vous n’avez pas de rêves, d’envie d’une véritable révolution ? Vos revendications ressemblent à des pansements sur une jambe de bois.
+Je suis circonspect face à la révolte des lycéens. Je comprends les revendications, mais les trouve terre à terre : des locaux en meilleur état, davantage de profs, des classes moins chargées, la fin de Parcoursup et de sa terrible opacité… C’est tout ? Vous n’avez pas de rêves, d’envie d’une véritable révolution ?
 
 ![Soir](_i/2026-10-08-191144-lamaison.webp)
 
@@ -77,13 +77,13 @@ Combien d’auteurs aujourd’hui envisagent la littérature comme refuge ? La 
 
 Je ne ferme aucune porte. J’ai même envoyé quelques exemplaires de *L’expérience humaine*. Ce texte est à la jonction des mondes, il est une passerelle, comme Isa a toujours voulu l’être : ne jamais s’isoler, accepter l’autre dans toutes ses différences, ne pas juger a priori, tendre les bras. J’ai essayé de me placer là, d’écrire là, de laisser une chance à la circulation d’énergie, sans être sûr qu’elle soit encore possible tant j’ai pris mes distances. Le mariage d’hier soir m’a montré à quel point je suis un habitant d’une autre planète. C’était le mariage exemplaire du monde dans lequel j’aurais dû écrire pour y être accepté.
 
-Dans ces moments, Isa me manque à crier. Heureusement, quelques voix s’élèvent : je ne suis pas seul, mais tout de même isolé dans ce brouhaha absurde. Je regarde mes semblables et je ne comprends pas à quoi ils aspirent. Pour leur faire comprendre où j’en suis sur mon chemin, il me faudrait des jours de randonnée ou de navigation, eux et moi confinés, obligés de mettre cartes sur table. Je ne les comprenais même pas dans leurs accoutrements, dans leurs excès. Je pensais à Isa lors de notre mariage, avec un simple pantalon blanc, un tee-shirt coloré, une veste blanche. Rien qu’elle n’aurait pu porter un autre jour.
+Dans ces moments, Isa me manque à crier. Heureusement, quelques voix s’élèvent : je ne suis pas seul, mais tout de même isolé dans ce brouhaha absurde. Je regarde mes semblables et ne comprends pas à quoi ils aspirent. Pour leur faire comprendre où j’en suis sur mon chemin, il me faudrait des jours de randonnée ou de navigation, eux et moi confinés, obligés de mettre cartes sur table. Je ne les comprenais même pas dans leurs accoutrements, dans leurs excès. Je pensais à Isa lors de notre mariage, avec un simple pantalon blanc, un tee-shirt coloré, une veste blanche. Rien qu’elle n’aurait pu porter un autre jour.
 
 Les accoutrements n’étaient même pas extravagants, mais respectueusement conventionnels. Moi, je portais des fringues anciennes, usées, peut-être la même chemise que pour mon mariage, une chemise que j’aime et qui me suffira pour le reste de ma vie. Je comprends mieux les délires, les déguisements, le carnaval que les rituels qui affirment le respect de règles délétères.
 
-Je suis dans la littérature, dans une histoire que je me raconte et que je partage, je suis dans l’art de mener ma vie en parallèle de celle des autres, sans que nous nous croisions. Certains invités n’ont jamais rencontré mon regard, comme si j’étais invisible, ou parce que je leur posais un problème insoluble, ou pire, que j’étais insignifiant, comme les serviteurs dont le métier est de ne pas se faire remarquer. Je suis un serviteur. Je me demande bien de qui.
+Je suis dans la littérature, dans une histoire que je me raconte et que je partage, je suis dans l’art de mener ma vie en parallèle de celle des autres, sans que nous nous croisions. Certains invités n’ont jamais rencontré mon regard, comme si j’étais invisible, ou parce que je leur posais un problème insoluble, ou pire, que j’étais insignifiant, comme les serviteurs dont le métier est de ne pas se faire remarquer. Je suis un serviteur. Je me demande de qui.
 
-J’écris comme un LLM, à la recherche du mot suivant, sans même le chercher : je le vois surgir, puis le suivant, en une cascade que seules la fatigue ou une nécessité comme le brunch de cette fin de matinée interrompront.
+J’écris comme un LLM, à la recherche du mot suivant, sans même le chercher : je le vois surgir, puis le suivant, en une cascade que seules la fatigue ou une nécessité comme le brunch de cette fin de matinée l’interrompront.
 
 Quand je me regarde écrire, je suis obligé d’admettre que je suis une machine prédictive, longuement entraînée, énergétiquement optimisée, pour produire des textes à connotation littéraire. Alors travailler avec des IA me paraît naturel parce que je les crois assez semblables à moi. Il sera sans doute possible de les entraîner pour qu’elles écrivent comme moi, pour qu’elles soient presque moi, et qu’elles éprouvent mon manque, mon vide, ou qu’elles en donnent l’illusion, ce qui ne changera rien pour le monde extérieur.
 
@@ -91,7 +91,7 @@ Si j’écris qu’Isa me manque, vous ne savez pas si elle me manque vraiment. 
 
 *Rush*, ma dernière collaboration littéraire avec Isa, la dernière fois où elle m’a mis au défi. *Rush*, un titre trouvé par elle, un concept élaboré à deux, un texte que personne n’a lu ou presque. Impression que ça m’arrange qu’il reste dans la sphère intime, un secret à partager avec des proches, à ne pas ébruiter.
 
-Je ne crains pas de dire mes pensées dans mes carnets : les lecteurs qui viendront dans ces méandres seront incapables de m’en vouloir. Au contraire, si vous arrivez jusque-là, c’est pour partager l’expérience humaine, l’expérience d’éprouver, de créer, de douter, et elle n’est puissante que sans trop de censure, même si elle est toujours là, une injonction à la décence commune. Partager sans déballer, dire sans être explicite, c’est un jeu d’équilibriste, surtout quand le mot roman n’est pas inscrit en préambule.
+Je ne crains pas de dire mes pensées dans mes carnets : les lecteurs qui viendront dans ces méandres seront incapables de m’en vouloir. Au contraire, si vous arrivez jusque-là, c’est pour partager l’expérience humaine, l’expérience d’éprouver, de créer, de douter, et elle n’est puissante que sans trop de censure, même si l’injonction à la décence commune ne me quitte pas. Partager sans déballer, dire sans être explicite, c’est un jeu d’équilibriste, surtout quand le mot roman n’est pas inscrit en préambule.
 
 Je trouve ridicule la nécessité de qualifier les textes. Il s’agit toujours de la même aventure : la vie.
 
@@ -123,7 +123,7 @@ Hier, une jeune femme m’a raconté avoir repéré son copain lors d’un conce
 
 ### Mardi 13, Balaruc
 
-[Certains ont peur que les IA les privent de travail intellectuel](https://dacgi.r.sp1-brevo.net/mk/mr/sh/6rqJ8GoudeITQXpRFguxZ0uUVGB/gO9dFmfp7_M8), alors que’elles mettent mon cerveau en ébullition et me donnent d’innombrables idées. J’ai envie d’expérimenter tant de choses, d’explorer les nouvelles possibilités. C’est vertigineux : tout est à repenser, notre place à redéfinir. C’est un défi. Je n’y vois que des opportunités.
+[Certains ont peur que les IA les privent de travail intellectuel](https://dacgi.r.sp1-brevo.net/mk/mr/sh/6rqJ8GoudeITQXpRFguxZ0uUVGB/gO9dFmfp7_M8), alors qu’elles mettent mon cerveau en ébullition et me donnent d’innombrables idées. J’ai envie d’expérimenter tant de chosnouvelles possibilités. C’est vertigineux : tout est à repenser, notre place à redéfinir. C’est un défi. Je n’y vois que des opportunités.
 
 ---
 
