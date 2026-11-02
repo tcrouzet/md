@@ -7,7 +7,7 @@ metadescription: "Deuil et solitude: un mariage aliénant, le silence des édite
 
 ### Vendredi 2, Balaruc
 
-Sur une invitation à un mariage, je découvre que je suis attendu dans dix jours en tenue de cérémonie. Je ne m’achèterai pas un costume, malgré tout mon amour pour la mariée. Je ne jouerai pas la comédie d’un monde qui s’écroule, ne dépenserai pas de l’argent pour des frivolités, des falbalas, des conneries ritualisées, même si, ces derniers mois, j’ai appris à mes dépens la puissance des rituels. Je m’intéresse à leurs nœuds, pas à leur surface. Mon effort sera de dénicher une vieille chemise. Je ne simulerai pas la montée des marches sur le tapis rouge de Cannes.
+Sur une invitation à un mariage, je découvre que je suis attendu dans dix jours en tenue de cérémonie. Je n’achèterai pas de costume, malgré tout mon amour pour la mariée. Je ne jouerai pas la comédie d’un monde qui s’écroule, ne dépenserai pas d’argent pour des frivolités, des falbalas, des conneries ritualisées, même si, ces derniers mois, j’ai appris à mes dépens la puissance des rituels. Je m’intéresse à leurs nœuds, pas à leur surface. Mon effort se limitera à dénicher une vieille chemise. Je ne simulerai pas la montée des marches sur le tapis rouge de Cannes.
 
 ### Samedi 3, Balaruc
 
