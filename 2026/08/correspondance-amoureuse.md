@@ -85,10 +85,10 @@ Une IA ne sait pas vérifier la cohérence d’une scène. Elle produit du texte
 
 ### Un seul niveau de cohérence automatisable
 
-- **Les faits vérifiables** (qui sait quoi, qui est où, qui est mort, quel âge a un personnage) : une IA peut gérer ça plus ou moins avec une bible. C’est très mathématique et voilà ce que font les apps d’écriture.
-- **Le développement narratif** reste pour l’instant du ressort exclusif de l’auteur. Les IA sont plus fortes pour reformuler que pour proposer du neuf. Elles peuvent démontrer des théorèmes en math, ou même décrire un lieu, ou écrire un dialogue… à condition qu’on leur donne la direction (démmontre ça, décrit ça…).
-- **La tenue d’un personnage** n’est ni un fait (qui est où) ni une dynamique d’intrigue (ce qui se passe), c’est une manière singulière de penser, de parler, d’agir…
-- **La tenue d’un univers** implique de penser le monde de l’action sur les plans géographiques, politiques, philosophiques… Ça n’a rien de mathématique et donc n’est pas automatisable.
+* **Les faits vérifiables** (qui sait quoi, qui est où, qui est mort, quel âge a un personnage) : une IA peut gérer ça plus ou moins avec une bible. C’est très mathématique et voilà ce que font les apps d’écriture.
+* **Le développement narratif** reste pour l’instant du ressort exclusif de l’auteur. Les IA sont plus fortes pour reformuler que pour proposer du neuf. Elles peuvent démontrer des théorèmes en math, ou même décrire un lieu, ou écrire un dialogue… à condition qu’on leur donne la direction (démmontre ça, décrit ça…).
+* **La tenue d’un personnage** n’est ni un fait (qui est où) ni une dynamique d’intrigue (ce qui se passe), c’est une manière singulière de penser, de parler, d’agir…
+* **La tenue d’un univers** implique de penser le monde de l’action sur les plans géographiques, politiques, philosophiques… Ça n’a rien de mathématique et donc n’est pas automatisable.
 
 Nous autres humains nous immergeons dans les situations et les simulons en nous, c’est ainsi que nous validons la cohérence narrative. Les IA n’ont pas encore cette capacité d’incarnation faute d’un modèle du monde.
 
