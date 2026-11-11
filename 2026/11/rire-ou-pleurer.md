@@ -23,7 +23,7 @@ Après de telles supputations ésotériques, il ose dire que nous autres matéri
 
 ### Une expérience de pensée
 
-Si un auteur écrit une phrase fidèle à mon ressenti intime, elle l’est autant que si je l’avais écrite moi-même. Si je remplace l’auteur par une IA, je ne vois pas ce que ça change. Si la phrase dit, porte, impacte, je peux la faire mienne. Et n’oublions pas que les IA ont digéré une grande partie de nos écrits à notre insu, non pour en faire « la plus monumentale entreprise de plagiat de l’histoire de l’humanité », les LLM ne sont pas des bases de données de fac-similés, mais des graphes statistiques qui établissent les relations entre les mots, qu’ils filent à notre façon pour produire parfois des phrases capables de nous toucher. Quand on ignore la nature artificielle d’un texte, on n’y voit souvent que du feu. Le meilleur exemple reste l’affaire Orélien : son livre a été encensé tant qu’il était supposé 100 % bio.
+Si un auteur écrit une phrase fidèle à mon ressenti intime, elle l’est autant que si je l’avais écrite moi-même. Si je remplace l’auteur par une IA, je ne vois pas ce que ça change. Si la phrase dit, porte, impacte, je peux la faire mienne. Et n’oublions pas que les IA ont digéré une grande partie de nos écrits à notre insu, non pour en faire « la plus monumentale entreprise de plagiat de l’histoire de l’humanité », les LLM ne sont pas des bases de données de fac-similés, mais des graphes statistiques qui établissent les relations entre les mots, qu’ils filent à notre façon pour produire parfois des phrases capables de nous toucher. Quand on ignore la nature artificielle d’un texte, on n’y voit souvent que du feu. Le meilleur exemple reste l’affaire Orélien : son livre a été encensé par la critique tant qu’il était supposé 100 % bio.
 
 Le plus grand malentendu concerne le mythe du prompt magique. Saint-Cheron, comme tous ceux qui n’ont pas pris le temps d’expérimenter avec l’IA, croit qu’il suffit d’un prompt pour que des pages et des pages de fausse littérature s’écoulent mécaniquement. D’un côté, ils croient à l’intervention divine, de l’autre, à un dieu mécanique producteur de texte. Ils restent dans la croyance du début à la fin. Ils parlent de ce qu’ils ne connaissent pas : Dieu parce qu’il est inconnaissable, l’IA parce qu’ils ont la flemme de s’y intéresser et préfèrent en avoir peur.
 
@@ -35,11 +35,11 @@ Kerouac était donc hors de la tradition littéraire parce qu’il écrivait à 
 
 Nietzsche, dans sa célèbre lettre à Köselitz de 1882 : « Notre matériel d’écriture participe à la formation de nos pensées. » L’outil influence ce que nous écrivons, mais ne suffit pas à nous faire inventer une nouvelle tradition littéraire. Elle n’adviendra que par nécessité, comme la peinture a dû se réinventer après l’apparition de la photographie. Notre travail sur cette voie ne fait que commencer. Voilà pourquoi, avec *Le Code Houellebecq*, je ne cherchais qu’à parodier. Dans un contexte de répression littéraire contre l’IA, déjà prévisible, je n’osais pas sortir de la route balisée. Tout ça prendra du temps. Nous nous frotterons aux outils, les pousserons à bout et tenterons de trouver notre place. Nous chercherons toujours ce que nous pouvons ajouter et que les machines ne pourront pas encore apporter. On peut rêver d’un propre de l’homme, mais nos derniers privilèges pourraient nous échapper.
 
-### Une question de volonté
-
 La Terre n’est plus le centre de l’univers depuis Copernic, la conscience n’est plus souveraine depuis Freud, notre intelligence est en passe d’être supplantée… Nous ne cessons de nous casser la gueule pour rejoindre les autres créatures. La nouvelle littérature adviendra peut-être quand nous cesserons de nous croire supérieurs et accepterons les collaborations les plus incongrues.
 
 Alors, regardons les textes et mesurons leur qualité à l’aune de leur impact sur nous, non de leurs conditions de production. Essayons d’être honnêtes, de lire vraiment, pour la première fois peut-être.
+
+### Le prix Pascal pas si absurde
 
 Quand j’ai appris la création du prix Pascal, je me suis dit que c’était ridicule. Pourquoi pas un prix des romans écrits avec un stylo Bic, ou avec Word, ou avec les doigts de pied ou une paire de lunettes ? Mais au vu du débat et de l’aveuglement de certains, je crois maintenant que ce prix aura le mérite de nous pousser à réfléchir ouvertement à ce qu’est la littérature augmentée. Les lecteurs la plébisciteront sans doute. Je n’en serais pas surpris, puisqu’ils continuent d’acheter le roman d’Orélien.
 
