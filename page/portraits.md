@@ -6,7 +6,7 @@ Certaines photos sont libres de droit (Creative Commons by-nc), d’autres sont 
 
 ![Credit: Gamma-Rapho via Getty Images/Jean-Marc ZAORSKI](_i/crouzet-gama.jpeg)
 
-![2014, Federal Studio](_i/geneve2014g.webp)
+![50 ans, 2014, Federal Studio](_i/geneve2014g.webp)
 
 ![50 ans, 29 avril 2014, Genève par Federal studio (accord automatique - ref CF069793)](_i/CF069793.IIQ_.p.webp)
 
@@ -28,15 +28,15 @@ Certaines photos sont libres de droit (Creative Commons by-nc), d’autres sont 
 
 ![Creative Commons by-nc](_i/p2.webp)
 
-![Creative Commons by-nc](_i/20121029.webp)
+![2012, Creative Commons by-nc](_i/20121029.webp)
 
-![© Julien Linder](_i/20120428.webp)
+![2012, © Julien Linder](_i/20120428.webp)
 
-[![William Beaucardet](_i/william-beaucardet.webp)](http://williambeaucardet.com)
+[![2012, William Beaucardet](_i/william-beaucardet.webp)](http://williambeaucardet.com)
 
-![© Céline Escolano](_i/tc_unplug.webp)
+![2011, © Céline Escolano](_i/tc_unplug.webp)
 
-![Creative Commons by-nc](_i/P1150937.webp)
+![2011, Creative Commons by-nc](_i/P1150937.webp)
 
 ![Creative Commons by-nc](_i/tc082010.webp)
 
@@ -48,7 +48,7 @@ Certaines photos sont libres de droit (Creative Commons by-nc), d’autres sont 
 
 ![Creative Commons by-nc](_i/2006_01_12_003.webp)
 
-[![Christian Roussellier](_i/20040522.webp)](http://www.listphotographers.com/94782)
+[![2002, Christian Roussellier](_i/20040522.webp)](http://www.listphotographers.com/94782)
 
 ![8 ans, 1971, Creative Commons by-nc](_i/8ans_poujade-scaled.webp)
 

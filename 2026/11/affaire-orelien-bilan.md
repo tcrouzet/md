@@ -89,6 +89,10 @@ Il ajoute :
 
 « Je pense que la grande force du livre, c’est son style et c’est ce talent qu’a Thélyson Orélien pour nous faire voir cette crise des migrants de l’intérieur. »
 
+### 27 juin 2026
+
+Sur Babelio, [CristianoBobino](https://www.babelio.com/livres/Orelien-Cetait-ca-ou-mourir/2009307/critiques/5243763) publie une critique prophétique : « Tout ça pour ça…! Ce roman-phénomène à “l’engouement exceptionnel dans le monde”, un des titres déjà mis en avant pour la rentrée littéraire française de septembre, avec ici des éloges appuyés (venant en partie de certains comptes qui semblent créés pour l’occasion…) , m’a laissé de marbre du début à la fin. C’est convenu, sans surprise, parfois gros sabots, parfois cul cul la praline. Les fins de chapitres me donnent l’impression de mauvais posts Linkedin écrits avec ChatGPT. Je n’ai ressenti aucune émotion alors que cela se veut manifestement émouvant. Après, si cela peut ouvrir des yeux sur la condition des migrants, sur l’inhumanité des politiques trumpistes ou simplement de droite (y compris celles en France), ce sera toujours ça de pris. Pour ma part je l’aurais vite oublié. »
+
 ## Le débarquement en France
 
 ### 30 juillet 2026
