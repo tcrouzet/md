@@ -2,7 +2,7 @@
   "edges": [
     {
       "color": "6",
-      "fromNode": "f30d3ca49d4df136",
+      "fromNode": "e54419d917a6c250",
       "fromSide": "bottom",
       "id": "388d247836f894be",
       "label": "Python",
@@ -66,7 +66,7 @@
       "color": "5",
       "fromEnd": "arrow",
       "fromNode": "1d02e92acc24f088",
-      "fromSide": "right",
+      "fromSide": "bottom",
       "id": "ac61dd9f71fd8867",
       "label": "Plugin Obsidian",
       "styleAttributes": {
@@ -94,17 +94,6 @@
       "styleAttributes": {
       },
       "toNode": "f63fbba4bc1159f8",
-      "toSide": "top"
-    },
-    {
-      "color": "2",
-      "fromNode": "2c30e53029b675c0",
-      "fromSide": "left",
-      "id": "e0fc8dee52d56810",
-      "label": "Mastofeed",
-      "styleAttributes": {
-      },
-      "toNode": "45553ef99f279752",
       "toSide": "top"
     },
     {
@@ -138,7 +127,7 @@
       "toSide": "top"
     },
     {
-      "color": "5",
+      "color": "6",
       "fromNode": "e54419d917a6c250",
       "fromSide": "right",
       "id": "39fceb58c8e6354c",
@@ -149,18 +138,8 @@
       "toSide": "left"
     },
     {
-      "color": "3",
-      "fromNode": "c5776ca04d5e793c",
-      "fromSide": "bottom",
-      "id": "b882ae6b5ddab4ff",
-      "styleAttributes": {
-      },
-      "toNode": "b048b109fd31a927",
-      "toSide": "top"
-    },
-    {
       "color": "6",
-      "fromNode": "f30d3ca49d4df136",
+      "fromNode": "e54419d917a6c250",
       "fromSide": "bottom",
       "id": "ada8311fff9c0132",
       "label": "Python",
@@ -193,7 +172,7 @@
     },
     {
       "color": "6",
-      "fromNode": "f30d3ca49d4df136",
+      "fromNode": "e54419d917a6c250",
       "fromSide": "bottom",
       "id": "949a2f03baf5698c",
       "label": "Python",
@@ -204,7 +183,7 @@
     },
     {
       "color": "6",
-      "fromNode": "f30d3ca49d4df136",
+      "fromNode": "e54419d917a6c250",
       "fromSide": "bottom",
       "id": "3e0d80afd5487af2",
       "label": "Python",
@@ -212,6 +191,55 @@
       },
       "toNode": "83d2a3c1498892a7",
       "toSide": "top"
+    },
+    {
+      "fromNode": "913b2817bde6a1fe",
+      "fromSide": "bottom",
+      "id": "05f8fd2acf141f5d",
+      "styleAttributes": {
+      },
+      "toNode": "962dd78f95943b84",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "83d2a3c1498892a7",
+      "fromSide": "bottom",
+      "id": "d225b33878634ed9",
+      "styleAttributes": {
+      },
+      "toNode": "962dd78f95943b84",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "2c30e53029b675c0",
+      "fromSide": "bottom",
+      "id": "90f2129f8106ff41",
+      "styleAttributes": {
+      },
+      "toNode": "962dd78f95943b84",
+      "toSide": "top"
+    },
+    {
+      "color": "6",
+      "fromNode": "e54419d917a6c250",
+      "fromSide": "bottom",
+      "id": "a3b36a7844daf7f0",
+      "label": "Python",
+      "styleAttributes": {
+      },
+      "toNode": "b048b109fd31a927",
+      "toSide": "top"
+    },
+    {
+      "color": "2",
+      "fromNode": "962dd78f95943b84",
+      "fromSide": "left",
+      "id": "e0fc8dee52d56810",
+      "label": "Mastofeed",
+      "styleAttributes": {
+      },
+      "toNode": "45553ef99f279752",
+      "toSide": "bottom"
     }
   ],
   "nodes": [
@@ -225,8 +253,8 @@
       },
       "type": "group",
       "width": 300,
-      "x": -1280,
-      "y": -267
+      "x": -1120,
+      "y": -400
     },
     {
       "color": "5",
@@ -242,18 +270,6 @@
     },
     {
       "height": 60,
-      "id": "cf75ac8aa4bf7444",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Textes**",
-      "type": "text",
-      "width": 260,
-      "x": -1255,
-      "y": -227
-    },
-    {
-      "height": 60,
       "id": "7f8bc653ff6064bc",
       "styleAttributes": {
         "textAlign": null
@@ -261,8 +277,33 @@
       "text": "**tcrouzet**",
       "type": "text",
       "width": 260,
-      "x": -1255,
-      "y": -117
+      "x": -1095,
+      "y": -250
+    },
+    {
+      "height": 60,
+      "id": "cf75ac8aa4bf7444",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Textes**",
+      "type": "text",
+      "width": 260,
+      "x": -1095,
+      "y": -360
+    },
+    {
+      "color": "3",
+      "height": 76,
+      "id": "2af5e5be17b0134b",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Time Machine",
+      "type": "text",
+      "width": 300,
+      "x": -1115,
+      "y": 200
     },
     {
       "color": "3",
@@ -278,30 +319,43 @@
       "y": -440
     },
     {
-      "color": "3",
-      "height": 76,
-      "id": "2af5e5be17b0134b",
+      "color": "6",
+      "height": 73,
+      "id": "d86abe33d5dcbbb4",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Time Machine",
+      "text": "md.tcrouzet.com",
       "type": "text",
-      "width": 300,
-      "x": -1170,
-      "y": 200
+      "width": 354,
+      "x": 200,
+      "y": -440
     },
     {
-      "color": "3",
-      "height": 70,
-      "id": "322127d2f2ac1257",
+      "color": "6",
+      "height": 73,
+      "id": "bbfe5e663d2f445d",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "DropBox",
+      "text": "static.tcrouzet.com",
       "type": "text",
-      "width": 235,
-      "x": -734,
-      "y": -30
+      "width": 386,
+      "x": 644,
+      "y": -440
+    },
+    {
+      "color": "2",
+      "height": 73,
+      "id": "45553ef99f279752",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Mastodon",
+      "type": "text",
+      "width": 260,
+      "x": -1115,
+      "y": 494
     },
     {
       "color": "6",
@@ -313,45 +367,21 @@
       "text": "tcrouzet.com",
       "type": "text",
       "width": 278,
-      "x": -558,
-      "y": 487
+      "x": -755,
+      "y": 530
     },
     {
-      "color": "3",
-      "height": 76,
-      "id": "f63fbba4bc1159f8",
+      "color": "6",
+      "height": 68,
+      "id": "962dd78f95943b84",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "Cloud Backup",
+      "text": "RSS",
       "type": "text",
-      "width": 300,
-      "x": -815,
-      "y": 344
-    },
-    {
-      "height": 60,
-      "id": "e29a68bcd026f026",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "**Textes**",
-      "type": "text",
-      "width": 260,
-      "x": -220,
-      "y": 40
-    },
-    {
-      "height": 60,
-      "id": "e54419d917a6c250",
-      "styleAttributes": {
-        "textAlign": null
-      },
-      "text": "**tcrouzet**",
-      "type": "text",
-      "width": 260,
-      "x": -220,
-      "y": 140
+      "width": 194,
+      "x": -729,
+      "y": 800
     },
     {
       "color": "3",
@@ -378,21 +408,84 @@
       "text": "github.com/tcrouzet/md",
       "type": "text",
       "width": 411,
-      "x": 315,
-      "y": -300
+      "x": 314,
+      "y": -263
     },
     {
       "color": "3",
-      "height": 66,
-      "id": "791f73ded8c714f7",
+      "height": 70,
+      "id": "322127d2f2ac1257",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "github.com/tcrouzet/blog",
+      "text": "DropBox",
       "type": "text",
-      "width": 458,
-      "x": 608,
-      "y": 34
+      "width": 235,
+      "x": -734,
+      "y": -30
+    },
+    {
+      "color": "3",
+      "height": 76,
+      "id": "f63fbba4bc1159f8",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "Cloud Backup",
+      "type": "text",
+      "width": 300,
+      "x": -815,
+      "y": 307
+    },
+    {
+      "height": 60,
+      "id": "e29a68bcd026f026",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "**Textes**",
+      "type": "text",
+      "width": 260,
+      "x": -220,
+      "y": 40
+    },
+    {
+      "height": 60,
+      "id": "e54419d917a6c250",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "text": "**tcrouzet**",
+      "type": "text",
+      "width": 260,
+      "x": -220,
+      "y": 140
+    },
+    {
+      "color": "6",
+      "height": 70,
+      "id": "83032ffb5b5c66a9",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "crouzet.substack.com (EN)",
+      "type": "text",
+      "width": 502,
+      "x": 315,
+      "y": 565
+    },
+    {
+      "color": "6",
+      "height": 75,
+      "id": "913b2817bde6a1fe",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "tcrouzet.substack.com",
+      "type": "text",
+      "width": 442,
+      "x": -432,
+      "y": 525
     },
     {
       "color": "6",
@@ -410,15 +503,28 @@
     {
       "color": "6",
       "height": 73,
-      "id": "d86abe33d5dcbbb4",
+      "id": "b048b109fd31a927",
       "styleAttributes": {
         "textAlign": "center"
       },
-      "text": "md.tcrouzet.com",
+      "text": "gemini://gemini.tcrouzet.com",
       "type": "text",
-      "width": 354,
-      "x": 200,
-      "y": -440
+      "width": 502,
+      "x": 554,
+      "y": 383
+    },
+    {
+      "color": "3",
+      "height": 66,
+      "id": "791f73ded8c714f7",
+      "styleAttributes": {
+        "textAlign": "center"
+      },
+      "text": "github.com/tcrouzet/blog",
+      "type": "text",
+      "width": 458,
+      "x": 608,
+      "y": 34
     },
     {
       "color": "3",
@@ -436,45 +542,6 @@
     {
       "color": "6",
       "height": 73,
-      "id": "bbfe5e663d2f445d",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "static.tcrouzet.com",
-      "type": "text",
-      "width": 386,
-      "x": 644,
-      "y": -440
-    },
-    {
-      "color": "6",
-      "height": 73,
-      "id": "b048b109fd31a927",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "gemini://koyu.space/tcrouzet",
-      "type": "text",
-      "width": 502,
-      "x": 554,
-      "y": 383
-    },
-    {
-      "color": "6",
-      "height": 73,
-      "id": "913b2817bde6a1fe",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "tcrouzet.substack.com",
-      "type": "text",
-      "width": 442,
-      "x": -499,
-      "y": 744
-    },
-    {
-      "color": "6",
-      "height": 73,
       "id": "83d2a3c1498892a7",
       "styleAttributes": {
         "textAlign": "center"
@@ -482,34 +549,8 @@
       "text": "727bikepacking.substack.com",
       "type": "text",
       "width": 511,
-      "x": 8,
-      "y": 743
-    },
-    {
-      "color": "6",
-      "height": 70,
-      "id": "83032ffb5b5c66a9",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "crouzet.substack.com (EN)",
-      "type": "text",
-      "width": 502,
-      "x": 586,
-      "y": 744
-    },
-    {
-      "color": "2",
-      "height": 73,
-      "id": "45553ef99f279752",
-      "styleAttributes": {
-        "textAlign": "center"
-      },
-      "text": "Mastodon",
-      "type": "text",
-      "width": 260,
-      "x": -1125,
-      "y": 670
+      "x": -90,
+      "y": 680
     }
   ]
 }
