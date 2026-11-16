@@ -1,8 +1,8 @@
 # Portraits
 
-Certaines photos sont libres de droit (Creative Commons by-nc), d’autres sont sous copyright et ne sont publiables qu’après négociation avec leur auteur. Cliquez sur les images pour obtenir les versions HD. [D’autres photos traînent sur Flickr.](http://www.flickr.com/search/?q=Thierry%20Crouzet)
+Certaines photos sont libres de droit (Creative Commons by-nc), d’autres sont sous copyright et ne sont publiables qu’après négociation avec leur auteur. Cliquer sur les images pour obtenir les versions HD.
 
-![2022, par l’IA Vana (cc by-nc).](_i/cosmic_5.png)
+![63 ans, 2026, libre de droit](_i/tcrouzet2026.webp)
 
 ![Credit: Gamma-Rapho via Getty Images/Jean-Marc ZAORSKI](_i/crouzet-gama.jpeg)
 
@@ -19,8 +19,6 @@ Certaines photos sont libres de droit (Creative Commons by-nc), d’autres sont 
 
 ![Nowmedia](_i/nowmedia.webp)  
 © [Fabien Clairefond du Figaro pour Nowe Media](https://www.instagram.com/p/hLlGn1wZ4N/)
-
-![50 ans, 11 avril 2014 (cc by-nc)](_i/tc201404_1.webp)
 
 [![Mathieu Bourgois](_i/Mathieu_Bourgois_8543-e1373696405349.webp)](http://www.mathieu-bourgois.com/)  
 © [Mathieu Bourgois](http://www.mathieu-bourgois.com/)
