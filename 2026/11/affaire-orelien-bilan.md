@@ -13,6 +13,10 @@ Qui a dit quoi ? Qui a maintenu sa position, qui a changé d’avis, qui s’es
 
 [Les Éditions du Boréal reçoivent le manuscrit de *C’était ça ou mourir*.](https://www.lapresse.ca/arts/litterature/2026-10-14/utilisation-alleguee-de-l-ia/l-editeur-de-c-etait-ca-ou-mourir-dit-avoir-recu-le-manuscrit-seulement-l-an-dernier.php) Selon Renaud Roussel, patron de Boréal, [le texte a fait l’objet d’environ cinq mois de travail éditorial, qui ne termine que fin janvier.](https://www.ledevoir.com/lire/1016888/c-etait-ou-mourir-restera-librairie)
 
+### 27 janvier 2026
+
+[Le roman part à l’imprimerie.](https://www.lepoint.fr/culture/enquete-affaire-thelyson-orelien-lincroyable-parcours-de-limposteur-qui-a-berne-le-milieu-litteraire-WOCII4ZNGVHNPF2LPL6LW24Z54/)
+
 ### 6 février 2026
 
 Sur ses comptes sociaux, Boréal annonce la parution le 9 mars de *C’était ça ou mourir*. [Le communiqué](https://www.instagram.com/p/DUbJA66laQp/) résume la scénographie du roman.
@@ -47,6 +51,14 @@ En parallèle, [Boréal met aux enchères les droits de publication, de traducti
 * Serbie (Prometej)
 
 L’emballement commence là, comme pour tous les best-sellers dont la vente aux enchères des droits précède leur succès, ce qui interdit par la même occasion leur échec. Tout est fait pour les pousser en avant. On est dans la spirale promotionnelle dont ne bénéficient que très peu de titres. Le succès d’Orélien est orchestré. Les journalistes tombent tout de suite dans le piège : attirés par ce qui brille. Les éditeurs ont signé un pacte.
+
+### 20 février 2026 environ
+
+Catherine Ostiguy, actionnaire d’OstiguyCo, société qui détient la majorité des Éditions du Boréal depuis 2022, qui a édité le livre, déclare : « Je ne pensais pas vivre ça un jour. » Elle aurait « tiré de la vertigineuse pile des manuscrits » *C’était ça ou mourir* comme « on extrait une pépite d’or ». Elle annonce que le roman « capte l’attention du monde entier ». « Ce roman, préparez-vous, aura l’effet d’une onde de choc. \[…] Thélyson Orélien : retenez bien ce nom-là. Il a une voix unique, un souffle rare. Une poésie inextinguible. Et il a plus d’un tour dans son sac. » Je n’ai pas retrouvé le post d’origine de Catherine Ostiguy évoqué dans [*La Presse*](https://www.lapresse.ca/actualites/c-etait-ca-ou-mourir/thelyson-orelien-l-homme-qui-aimait-trop-les-mots/2026-10-22/de-l-espoir-a-la-chute.php).
+
+### 2 mars 2026
+
+Sur [LinkedIn](https://fr.linkedin.com/posts/renaud-roussel-4498a324_cest-le-genre-d%C3%A9v%C3%A9nements-qui-pourrait-activity-7434966167687008258-0JmS?utm_source=chatgpt.com), Renaud Roussel publie une note : « C’est le genre d’événements qui pourrait ne jamais arriver dans une carrière d’éditeur, auquel rien ne nous prépare : un texte attire soudain l’attention des éditeurs du monde entier. Quand on sait la difficulté et le travail nécessaire pour réaliser ne serait-ce qu’une cession de droits, ce que nous avons vécu aux [Éditions du Boréal](https://ca.linkedin.com/company/%C3%A9ditions-du-bor%C3%A9al?trk=public_post-text) ces dernières semaines et qui se poursuit encore aujourd’hui est aussi exceptionnel que vertigineux. Des centaines de demandes, de courriels, d’appels venus de toute la planète, de magnifiques déclarations d’amour pour un roman qui bouleverse chaque personne qui le lit, des choix déchirants dans chaque pays, car il faut bien choisir et choisir au mieux, pour le bien du livre, même parmi les maisons d’édition les plus prestigieuses. Quinze éditeurs – de la France au Brésil en passant par le Canada, l’Italie, l’Allemagne, l’Espagne, le Royaume-Uni et tant d’autres – se sont déjà engagés à le faire paraître. Derrière cet élan, il y a toute une équipe qui a su se mobiliser, des fulgurances éditoriales de [Catherine Ostiguy](https://ca.linkedin.com/in/catherinecoteostiguy?trk=public_post-text) aux talents de négociatrice et au sang-froid d’[Aline Girard-Gaget](https://ca.linkedin.com/in/aline-girard-gaget?trk=public_post-text), pour ne nommer qu’elles. Derrière cet élan, il y a aussi des agents qui ont répandu la bonne nouvelle, une liste de contacts patiemment construite et entretenue année après année, foire après foire, et le soutien indéfectible de [Québec Édition](https://www.linkedin.com/company/anel20?trk=public_post-text) et de l’entremetteur en chef [Sébastien Lefebvre](https://ca.linkedin.com/in/s%C3%A9bastien-lefebvre-85523a107?trk=public_post-text). Derrière cet élan, il y a surtout un roman extraordinaire et un auteur, Thélyson Orélien, qui a su trouver les mots pour exprimer la douleur et l’espoir – la joie aussi – de ces très nombreux migrants qui risquent leur vie et celle des leurs pour trouver une terre où ils seront enfin traités comme des humains à part entière. Tout cela alors que C’ÉTAIT ÇA OU MOURIR n’est pas encore paru. Ce livre a déjà vécu mille vies alors que la sienne n’a même pas encore commencé. À une semaine de la parution, je dois avouer que je vous envie un peu, car ce roman, vous avez encore la chance de le lire pour la première fois. »
 
 ### 4 mars 2026
 
@@ -179,7 +191,9 @@ Sur [_Papivore_](https://www.bibliosurf.com/C-etait-ca-ou-mourir), une critique 
 
 Dans [une dépêche de l’AFP reprise par _Le Nouvelliste_](https://www.lenouvelliste.com/article/271937/thelyson-orelien-phenomene-litteraire-de-la-rentree-en-france), Orélien est présenté comme un écrivain « surgi de nulle part », dont le premier roman rencontre un succès inattendu auprès des critiques et des lecteurs. Interrogé sur cet accueil, Orélien reconnaît être surpris par l’ampleur du phénomène.
 
-Dans [*Torchon*](https://www.instagram.com/p/DdTwtqQobtm/), Lera affirme : « Ce livre ne m’a pas plu du tout. » Elle décrit un style « automatique et répétitif », fondé sur les mêmes structures, les mêmes aphorismes, les mêmes comparaisons et les mêmes effets de clôture. Elle reproche au roman de substituer des vérités générales sur la dignité, la survie et la liberté aux détails concrets du parcours migratoire. Sa critique vise directement le procédé d’écriture, pas le sujet du livre. C’est prémonitoire de la suite, car elle décrit exactement les faiblesses de la prose IA mal promptée.
+[![Des doutes encore](_i/orelien05.webp)](https://www.instagram.com/p/DdTwtqQobtm/)
+
+Dans [*Torchon*](https://podcasts.apple.com/fr/podcast/c%C3%A9tait-%C3%A7a-ou-mourir-th%C3%A9lyson-or%C3%A9lien/id1694206371?i=1000789786760), Léa Bory affirme : « Ce livre ne m’a pas plu du tout. » Elle décrit un style « automatique et répétitif », fondé sur les mêmes structures, les mêmes aphorismes, les mêmes comparaisons et les mêmes effets de clôture. Elle reproche au roman de substituer des vérités générales sur la dignité, la survie et la liberté aux détails concrets du parcours migratoire. Sa critique vise directement le procédé d’écriture, pas le sujet du livre. C’est prémonitoire de la suite, car elle décrit exactement les faiblesses de la prose IA mal promptée.
 
 ### 17 septembre 2026
 
@@ -263,6 +277,8 @@ Dans [l’analyse de la Revue des médias de l’INA](https://larevuedesmedias.i
 
 [Jean-Yves Tadié : « Je ne vois pas pourquoi on s’acharne contre Thélyson Orélien ».](https://www.lepoint.fr/debats/jean-yves-tadie-je-ne-vois-pas-pourquoi-on-sacharne-contre-thelyson-orelien-LXMIISVSQ5GJFGQTIEINPNNU2Q/) Un de ses rares défenseurs après la révélation.
 
+[Léa Bory](https://www.ledevoir.com/lire/1012115/podcasteuse-raconte-comment-elle-soupconne-ia) explique à l’AFP comment elle a reconnu des procédés rappelant l’IA sans utiliser de détecteur : rythme ternaire, répétitions et comparaisons systématiques. Elle déclare avoir ressenti « un immense soulagement » après les accusations publiques.
+
 ### 26 septembre 2026
 
 Dans [un entretien de BibliObs](https://www.nouvelobs.com/bibliobs/20260926.OBS118611/pour-pierre-assouline-de-l-academie-goncourt-thelyson-orelien-va-avoir-de-gros-problemes-avec-la-justice.html), Pierre Assouline revient sur son billet très élogieux du 24 août. Il ne renie donc pas son enthousiasme esthétique, mais déplace le problème vers une histoire de tromperie, de droit et de responsabilité de l’auteur. Mais quel crime a commis Orélien exactement, sinon utilisé une IA ? Pourquoi ne pas discuter de l’esthétique d’Orélien, la questionner ?
@@ -319,6 +335,10 @@ Les ventes s’élèvent à 65 000 exemplaires.
 
 [Boréal annonce qu’il ne réimprimera plus *C’était ça ou mourir* et ne publiera aucun autre livre d’Orélien.](https://actualitte.com/article/134793/edition/ia-et-thelyson-orelien-apres-des-semaines-de-dementis-tout-bascule) L’expertise des documents de travail aurait trouvé des traces de balises d’IA dans les métadonnées. [J’ai expliqué que cette explication était une fumisterie.](https://tcrouzet.com/2026/10/22/eloge-thelyson-orelien/)
 
+### 22 octobre 2026
+
+[*La Presse* revient sur l’origine du scandale.](https://www.lapresse.ca/actualites/c-etait-ca-ou-mourir/thelyson-orelien-l-homme-qui-aimait-trop-les-mots/2026-10-22/de-l-espoir-a-la-chute.php)
+
 ### 24 octobre 2026
 
 [Madrigall annonce que les manuscrits des maisons du groupe seront soumis à un détecteur d’IA à partir de janvier 2027.](https://actualitte.com/article/134842/technologie/suite-aux-cas-d-ia-dans-la-rentree-litteraire-gallimard-prend-des-mesures) Des textes IA passeront au travers et des auteurs innocents se feront attraper. Pour rappel, personne n’a jamais réussi à prouver qu’Orélien avait utilisé l’IA. Je pense même que c’est impossible.
@@ -326,6 +346,10 @@ Les ventes s’élèvent à 65 000 exemplaires.
 ### 28 octobre 2026
 
 [Disparaît de la sélection finale du prix Renaudot.](https://actualitte.com/article/134933/prix-litteraires/prix-renaudot-2026-thelyson-orelien-ecarte-patrice-jean-de-retour-enthoven-maintenu)
+
+### 1<sup>er</sup> novembre 2026
+
+Dossier accablant par [Le Point](https://www.lepoint.fr/culture/enquete-affaire-thelyson-orelien-lincroyable-parcours-de-limposteur-qui-a-berne-le-milieu-litteraire-WOCII4ZNGVHNPF2LPL6LW24Z54/).
 
 ## Bilan
 
