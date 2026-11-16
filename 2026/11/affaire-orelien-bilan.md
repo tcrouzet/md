@@ -368,6 +368,6 @@ La plupart des critiques ne valent pas mieux. Élogieux un jour, silencieux le l
 
 L’affaire Orélien montre une chaîne du livre en crise. Elle a fabriqué Orélien et l’a aussitôt détruit. Jusqu’à quand ce cinéma ? Quand est-ce que vous serez à nouveau capables de juger les textes, rien que les textes, indépendamment de comment nous les écrivons ? Vous devriez lire les manuscrits comme les examinateurs dans les concours, avec les noms masqués. Le paysage littéraire serait beaucoup plus séduisant et vivant.
 
-*PS : Je me dis qu’il y a là le sujet d’un essai. Partir de l’affaire pour discuter de l’avenir de la littérature à l’âge de l’IA, interviewer tous les acteurs, essayer d’élaborer une réflexion constructive au-delà des clivages idéologiques. Je me demande quel éditeur pourrait vouloir publier un tel livre.*
+*PS : Je me dis qu’il y a là le sujet d’un essai. Partir de l’affaire pour discuter de l’avenir de la littérature à l’âge de l’IA, interviewer tous les acteurs, essayer d’élaborer une réflexion constructive au-delà des clivages idéologiques. Je me demande quel éditeur pourrait vouloir publier un tel livre.* 
 
 #edition #ia #y2026 #2026-11-15-20h00
