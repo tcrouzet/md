@@ -9,19 +9,35 @@ Qui a dit quoi ? Qui a maintenu sa position, qui a changé d’avis, qui s’es
 
 ## Archéologie d’un succès annoncé
 
-### 2008
+### 25 août 2008
 
-Thélyson Orélien fonde le site [Parole en Archipel](https://paroleenarchipel.over-blog.com/), un blog de « diffusion du poétique du monde ». [Il y publie un court poème, *Mon chant* (effacé depuis).](https://www.lapresse.ca/actualites/c-etait-ca-ou-mourir/thelyson-orelien-l-homme-qui-aimait-trop-les-mots/2026-10-22/un-jeune-au-talent-extraordinaire.php)
+Thélyson Orélien fonde le site [Parole en Archipel](https://paroleenarchipel.over-blog.com/), un blog de « diffusion du poétique du monde ». [Internet Archive ne garde qu’un vestige du billet original.](https://web.archive.org/web/20200505113032/http://paroleenarchipel.over-blog.com/archive/2008-08/) [Orélien y publie un court poème, *Mon chant*](https://www.lapresse.ca/actualites/c-etait-ca-ou-mourir/thelyson-orelien-l-homme-qui-aimait-trop-les-mots/2026-10-22/un-jeune-au-talent-extraordinaire.php) (effacé depuis et dont l’adresse était `paroleenarchipel.over-blog.com/article-22216208.html`).
+
+![Vestiges](_i/orelien10.webp)
 
 ### 20 février 2009
 
-[Le premier poème d’Orélien encore sur Parole en Archipel.](https://paroleenarchipel.over-blog.com/article-28145859.html)
+[Le plus ancien poème d’Orélien encore sur Parole en Archipel.](https://paroleenarchipel.over-blog.com/article-28145859.html)
 
 ![](_i/orelien09.webp)
 
 ### 1<sup>er</sup> novembre 2012
 
 [Sur Parole en archipel, Orélien publie *Sur les rives du fleuve Saint-Laurent*.](https://www.journaldemontreal.com/2026/09/28/affaire-thelyson-orelien--il-a-aussi-plagie-le-romancier-quebecois-jacques-poulin)
+
+### 10 janvier 2015
+
+Sur Mondobloge, Orélien reconvertit son poème de 2009 en « Douce France. Toi qui couds les déboires de l’humanité avec les crayons de tes fils restes belle… »
+
+### 25 novembre 2015
+
+Orélien publie sur [Lulu](https://www.librairiealbinmichel.fr/livre/9781329696808-le-temps-qui-reste-thelyson-orelien/) *Le temps qui reste*, recueil de poèmes dédié à sa mère, Solange.
+
+![Le temps qui reste](_i/orelien11.webp)
+
+### 2023, 2024, 2025 
+
+[Orélien qui n’avait écrit que de courts textes et des poèmes multiplie les livres et les soumet à différents éditeurs, notamment  *Éternels amants* et *Le rêve de la mer noire*.](https://www.lapresse.ca/actualites/c-etait-ca-ou-mourir/thelyson-orelien-l-homme-qui-aimait-trop-les-mots/2026-10-22/un-saut-perilleux-vers-le-roman.php)
 
 ### 12 septembre 2025
 
@@ -165,7 +181,7 @@ Dans [_La République des livres_](https://larepubliquedeslivres.com/le-choc-the
 
 ### 28 août 2026
 
-Dans [*Femme actuelle*](https://fr.style.yahoo.com/th%C3%A9lyson-or%C3%A9lien-primo-romancier-cr%C3%A9e-070001423.html), Fanny Petoin présente Orélien omme l’un des auteurs qui « marquent cette rentrée littéraire ». Elle souligne le « beau démarrage » du roman, déjà classé parmi les cinq meilleures ventes selon Datalib, après un « immense succès outre-Atlantique ». Elle insiste sur le parcours personnel de l’auteur et sur la dimension autobiographique du récit, sans porter de jugement sur ses qualités littéraires.
+Dans [*Femme actuelle*](https://fr.style.yahoo.com/th%C3%A9lyson-or%C3%A9lien-primo-romancier-cr%C3%A9e-070001423.html), Fanny Petoin présente Orélien comme l’un des auteurs qui « marquent cette rentrée littéraire ». Elle souligne le « beau démarrage » du roman, déjà classé parmi les cinq meilleures ventes selon Datalib, après un « immense succès outre-Atlantique ». Elle insiste sur le parcours personnel de l’auteur et sur la dimension autobiographique du récit, sans porter de jugement sur ses qualités littéraires.
 
 Dans le [*Figaro Magazine*](https://www.lefigaro.fr/livres/frederic-beigbeder-a-lu-c-etait-ca-ou-mourir-de-thelyson-orelien-c-est-l-evenement-qui-justifie-la-rentree-20260828), Frédéric Beigbeder dit de *C’était ça ou mourir* que « c’est l’événement qui justifie la rentrée ».
 
@@ -297,6 +313,8 @@ Dans [l’analyse de la Revue des médias de l’INA](https://larevuedesmedias.i
 
 Dans [un entretien de BibliObs](https://www.nouvelobs.com/bibliobs/20260926.OBS118611/pour-pierre-assouline-de-l-academie-goncourt-thelyson-orelien-va-avoir-de-gros-problemes-avec-la-justice.html), Pierre Assouline revient sur son billet très élogieux du 24 août. Il ne renie donc pas son enthousiasme esthétique, mais déplace le problème vers une histoire de tromperie, de droit et de responsabilité de l’auteur. Mais quel crime a commis Orélien exactement, sinon utilisé une IA ? Pourquoi ne pas discuter de l’esthétique d’Orélien, la questionner ?
 
+[Dans *Le Nouvel Obs*](https://www.nouvelobs.com/bibliobs/20260926.OBS118611/pour-pierre-assouline-de-l-academie-goncourt-thelyson-orelien-va-avoir-de-gros-problemes-avec-la-justice.html), Pierre Assouline déclare : « J’ai été frappé par la dichotomie entre ce qu’il écrit, qui est impeccable, dans un lexique très riche, avec des idées originales et fortes sur la migration, et ce qu’il dit. Thélyson Orélien a un lexique limité, et des idées d’une banalité insigne. » C’est plus facile à dire après la révélation qu’avant.
+
 ### 27 septembre 2026
 
 Sur [RTL](https://www.rtl.fr/actu/debats-societe/de-toute-facon-horrible-l-avis-de-frederic-beigbeder-sur-rtl-concernant-la-polemique-de-l-intelligence-artificielle-et-de-thelyson-orelien-7900677361), Frédéric Beigbeder, qui avait présenté le livre comme « l’événement qui justifie la rentrée », déclare : « Soit Thélyson Orélien est innocent \[…] et c’est la pire calomnie abjecte que l’on puisse faire à un auteur. Ou bien il a utilisé l’IA sans le dire et c’est la plus grosse arnaque littéraire depuis l’affaire Émile Ajar. » Qui s’est fait arnaquer au juste ?
@@ -347,7 +365,7 @@ Les ventes s’élèvent à 65 000 exemplaires.
 
 ### 15 octobre 2026
 
-[Diparaît de la deuxième sélection du prix Médicis.](https://actualitte.com/article/134652/prix-litteraires/prix-medicis-2026-les-selections-se-resserrent-les-essais-entrent-en-scene)
+[Disparaît de la deuxième sélection du prix Médicis.](https://actualitte.com/article/134652/prix-litteraires/prix-medicis-2026-les-selections-se-resserrent-les-essais-entrent-en-scene)
 
 ### 21 octobre 2026
 
@@ -355,7 +373,7 @@ Les ventes s’élèvent à 65 000 exemplaires.
 
 ### 22 octobre 2026
 
-[*La Presse* revient sur l’origine du scandale.](https://www.lapresse.ca/actualites/c-etait-ca-ou-mourir/thelyson-orelien-l-homme-qui-aimait-trop-les-mots/2026-10-22/de-l-espoir-a-la-chute.php)
+[*La Presse* revient sur l’origine du scandale](https://www.lapresse.ca/actualites/c-etait-ca-ou-mourir/thelyson-orelien-l-homme-qui-aimait-trop-les-mots/2026-10-22/de-l-espoir-a-la-chute.php), pui [révèle](https://www.lapresse.ca/actualites/c-etait-ca-ou-mourir/thelyson-orelien-l-homme-qui-aimait-trop-les-mots/2026-10-22/l-exil.php) que le poème de 2015 s’inspire fortement des mots de la poète cubaine Dulce María Loynaz en 1953. On peut aussi [lire](https://www.lapresse.ca/actualites/c-etait-ca-ou-mourir/thelyson-orelien-l-homme-qui-aimait-trop-les-mots/2026-10-22/un-saut-perilleux-vers-le-roman.php) : « Des extraits des romans _Éternels amants_ et _Le rêve de la mer noire,_ soumis à l’outil de détection Pangram, sont considérés comme « 0 % humain ». Avant novembre 2022, date de naissance de ChatGPT auprès du grand public, M. Orélien n’avait publié aucun livre autre que des recueils de poèmes. »
 
 ### 24 octobre 2026
 
