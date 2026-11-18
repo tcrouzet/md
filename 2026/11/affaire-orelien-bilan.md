@@ -9,6 +9,20 @@ Qui a dit quoi ? Qui a maintenu sa position, qui a changé d’avis, qui s’es
 
 ## Archéologie d’un succès annoncé
 
+### 2008
+
+Thélyson Orélien fonde le site [Parole en Archipel](https://paroleenarchipel.over-blog.com/), un blog de « diffusion du poétique du monde ». [Il y publie un court poème, *Mon chant* (effacé depuis).](https://www.lapresse.ca/actualites/c-etait-ca-ou-mourir/thelyson-orelien-l-homme-qui-aimait-trop-les-mots/2026-10-22/un-jeune-au-talent-extraordinaire.php)
+
+### 20 février 2009
+
+[Le premier poème d’Orélien encore sur Parole en Archipel.](https://paroleenarchipel.over-blog.com/article-28145859.html)
+
+![](_i/orelien09.webp)
+
+### 1<sup>er</sup> novembre 2012
+
+[Sur Parole en archipel, Orélien publie *Sur les rives du fleuve Saint-Laurent*.](https://www.journaldemontreal.com/2026/09/28/affaire-thelyson-orelien--il-a-aussi-plagie-le-romancier-quebecois-jacques-poulin)
+
 ### 12 septembre 2025
 
 [Les Éditions du Boréal reçoivent le manuscrit de *C’était ça ou mourir*.](https://www.lapresse.ca/arts/litterature/2026-10-14/utilisation-alleguee-de-l-ia/l-editeur-de-c-etait-ca-ou-mourir-dit-avoir-recu-le-manuscrit-seulement-l-an-dernier.php) Selon Renaud Roussel, patron de Boréal, [le texte a fait l’objet d’environ cinq mois de travail éditorial, qui ne termine que fin janvier.](https://www.ledevoir.com/lire/1016888/c-etait-ou-mourir-restera-librairie)
@@ -286,6 +300,10 @@ Dans [un entretien de BibliObs](https://www.nouvelobs.com/bibliobs/20260926.OBS1
 ### 27 septembre 2026
 
 Sur [RTL](https://www.rtl.fr/actu/debats-societe/de-toute-facon-horrible-l-avis-de-frederic-beigbeder-sur-rtl-concernant-la-polemique-de-l-intelligence-artificielle-et-de-thelyson-orelien-7900677361), Frédéric Beigbeder, qui avait présenté le livre comme « l’événement qui justifie la rentrée », déclare : « Soit Thélyson Orélien est innocent \[…] et c’est la pire calomnie abjecte que l’on puisse faire à un auteur. Ou bien il a utilisé l’IA sans le dire et c’est la plus grosse arnaque littéraire depuis l’affaire Émile Ajar. » Qui s’est fait arnaquer au juste ?
+
+![](_i/orelien08.webp)
+
+[Kroko](https://x.com/JohnDumberTwo/status/2104001515983896586?s=20) découvre que le poème publié en 2008 par Orélien sous son nom est une traduction de *An Irish Airman Foresees His Death*, texte publié en 1919 par l’Irlandais William Butler Yeats.
 
 ### 28 septembre 2026
 

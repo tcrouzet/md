@@ -3,7 +3,6 @@ metatitle: "IA : la fin de l’inattendu ?"
 metadescription: "IA, logiciels créés à la demande et œuvres adaptées aux goûts de chacun : la personnalisation risque-t-elle de tuer la curiosité ?"
 ---
 
-
 # L’IA ou la fin de l’inattendu
 
 Une mésaventure avec mon nouveau MacBook Pro me donne à voir un monde qui n’a plus aucun rapport avec celui que nous connaissons.
