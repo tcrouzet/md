@@ -11,7 +11,7 @@ Qui a dit quoi ? Qui a maintenu sa position, qui a changé d’avis, qui s’es
 
 ### 25 août 2008
 
-Thélyson Orélien fonde le site [Parole en Archipel](https://paroleenarchipel.over-blog.com/), un blog de « diffusion du poétique du monde ». [Internet Archive ne garde qu’un vestige du billet original.](https://web.archive.org/web/20200505113032/http://paroleenarchipel.over-blog.com/archive/2008-08/) [Orélien y publie un court poème, *Mon chant*](https://www.lapresse.ca/actualites/c-etait-ca-ou-mourir/thelyson-orelien-l-homme-qui-aimait-trop-les-mots/2026-10-22/un-jeune-au-talent-extraordinaire.php) (effacé depuis et dont l’adresse était `paroleenarchipel.over-blog.com/article-22216208.html`).
+Thélyson Orélien fonde le site [Parole en Archipel](https://paroleenarchipel.over-blog.com/), un blog de « diffusion du poétique du monde ». [Internet Archive ne garde qu’un vestige du billet original.](https://web.archive.org/web/20200505113032/http://paroleenarchipel.over-blog.com/archive/2008-08/) [Orélien y publie un court poème, *Mon chant*](https://www.lapresse.ca/actualites/c-etait-ca-ou-mourir/thelyson-orelien-l-homme-qui-aimait-trop-les-mots/2026-10-22/un-jeune-au-talent-extraordinaire.php) (effacé depuis et dont l’adresse était « paroleenarchipel.over-blog.com/article-22216208.html »).
 
 ![Vestiges](_i/orelien10.webp)
 
