@@ -12,7 +12,7 @@ Une mésaventure avec mon nouveau MacBook Pro me donne à voir un monde qui n�
 
 Jeudi 12 novembre, je reçois mon [MacBook Pro avec écran PROLED XDR](https://www.apple.com/fr/macbook-pro/proled-xdr-display/). Une bête de course, compacte, légère, avec un écran aux couleurs éclatantes, à la définition extraordinaire, mais, le soir, des migraines ophtalmiques commencent et s’intensifient au cours du week-end. Les exercices d’orthoptie ne m’apportent guère de réconfort.
 
-Mardi matin, je suis prêt à renvoyer la machine et à rester sur mon vieux bousin, qui marche à merveille, mais reste trop limité pour installer des IA en local. Avant d’agir impulsivement, j’effectue quelques recherches.
+Mardi matin, je suis prêt à renvoyer la machine et à revenir sur mon vieux bousin, qui marche à merveille, mais reste trop limité pour installer des IA en local. Avant d’agir impulsivement, j’effectue quelques recherches.
 
 ![Simulation du PWM](_i/pwm.gif)
 
@@ -40,6 +40,6 @@ Cette évolution dépassera le cadre informatique. Les livres, les films, les mu
 
 L’IA fera-t-elle disparaître les créateurs ? Parce qu’un créateur, on l’oublie souvent, surtout à notre époque de grande marchandisation, ne nous donne pas ce que nous voulons, mais nous dérange, nous déplace, nous force à voir ce que nous ne voulions pas voir. Il nous bouscule, nous met mal à l’aise, nous transforme, parce qu’il nous raconte son propre chemin à travers la vie.
 
-D’une certaine façon, nous sommes déjà prêts à basculer dans le tout-IA, où plus rien de profondément original ne nous sera accessible, puisque nous consommons pour l’essentiel de la culture de masse. Alors nous avons un devoir de résistance, non pas à l’IA, mais à l’uniformisation amorcée plusieurs décennies avant elle. Nous aurons à composer entre le sur-mesure et ce qui fait mal, qui gratte, qui secoue les puces. Nous aurons besoin de courage, comme quand nous préférerions rester au lit plutôt qu’aller faire du sport. Pourtant, quand nous recontrons, nous nous sentons plus vivants et ne le regrettons pas. L’IA pourrait tuer la curiosité en comblant nos désirs immédiats. Notre combat contre la normalisation ne fait que commencer.
+D’une certaine façon, nous sommes déjà prêts à basculer dans le tout IA, où plus rien de profondément original ne nous sera accessible, puisque nous consommons pour l’essentiel de la culture de masse. Alors nous avons un devoir de résistance, non pas à l’IA, mais à l’uniformisation amorcée plusieurs décennies avant elle. Nous aurons à composer entre le sur-mesure et ce qui fait mal, qui gratte, qui secoue les puces. Nous aurons besoin de courage, comme quand nous préférerions rester au lit plutôt qu’aller faire du sport. Pourtant, quand nous rentrons, nous nous sentons plus vivants et ne le regrettons pas. L’IA pourrait tuer la curiosité en comblant nos désirs immédiats. Notre combat contre la normalisation ne fait que commencer.
 
 #netculture #ia #y2026 #2026-11-18-18h00
