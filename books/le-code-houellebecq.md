@@ -20,6 +20,7 @@ eshops:
   - https://books.apple.com/fr/book/le-code-houellebecq/id6477866757
   - https://play.google.com/store/books/details/Thierry_Crouzet_Le_Code_Houellebecq?id=B8f0EAAAQBAJ
   - https://www.decitre.fr/ebooks/le-code-houellebecq-9782919358199_9782919358199_2.html
+slider: "1"
 ---
 
 # Le Code Houellebecq

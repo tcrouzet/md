@@ -13,6 +13,7 @@ shops:
   - https://www.furet.com/livres/one-minute-tome-1-la-communion-des-analystes-thierry-crouzet-9782940609192.html
   - https://www.cultura.com/p-ne-minute-la-communion-des-analystes-tome-1-4524729.html
   - https://www.fnac.com/a16373474/One-Minute-La-communion-des-analystes-Tome-1-%CA%98ne-Minute-Thierry-Crouzet
+slider: "1"
 ---
 
 # One Minute

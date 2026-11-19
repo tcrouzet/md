@@ -10,15 +10,16 @@ lire: /2011/12/26/jai-debranche-extraits/
 prix: 17.39
 eprix: 12.99
 shops:
- - http://www.amazon.fr/gp/product/2213666156/ref=as_li_tf_tl?ie=UTF8&tag=thiercrouz-21&linkCode=as2&camp=1642&creative=6746&creativeASIN=2213666156
- - http://www.decitre.fr/livres/J-ai-debranche.aspx/9782213666150
- - http://livre.fnac.com/a3787727/Thierry-Crouzet-J-ai-debranche-comment-revivre-sans-Internet-apres-une-overdose
- - http://www.eyrolles.com/Informatique/Livre/j-ai-debranche-9782213666150
+  - http://www.amazon.fr/gp/product/2213666156/ref=as_li_tf_tl?ie=UTF8&tag=thiercrouz-21&linkCode=as2&camp=1642&creative=6746&creativeASIN=2213666156
+  - http://www.decitre.fr/livres/J-ai-debranche.aspx/9782213666150
+  - http://livre.fnac.com/a3787727/Thierry-Crouzet-J-ai-debranche-comment-revivre-sans-Internet-apres-une-overdose
+  - http://www.eyrolles.com/Informatique/Livre/j-ai-debranche-9782213666150
 eshops:
- - http://www.amazon.fr/Jai-d%C3%A9branch%C3%A9-internet-overdose-ebook/dp/B006PL02Z6/
- - http://itunes.apple.com/fr/book/jai-debranche/id491692228
- - http://www.epagine.fr/9782213667140-j-ai-debranche-thierry-crouzet/
- - http://www.numilog.com/LIVRES/FICHES/116336.Livre
+  - http://www.amazon.fr/Jai-d%C3%A9branch%C3%A9-internet-overdose-ebook/dp/B006PL02Z6/
+  - http://itunes.apple.com/fr/book/jai-debranche/id491692228
+  - http://www.epagine.fr/9782213667140-j-ai-debranche-thierry-crouzet/
+  - http://www.numilog.com/LIVRES/FICHES/116336.Livre
+slider: "1"
 ---
 
 # J'ai débranché

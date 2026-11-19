@@ -20,6 +20,7 @@ shops:
   - https://www.librest.com/livres/rush-thierry-crouzet_0-13480000_9782889790203.html
   - https://pvh-editions.com/product/rush
 eshops:
+slider: "1"
 ---
 
 # Rush

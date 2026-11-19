@@ -3,7 +3,7 @@ baseline: Pour se garder de transmettre l’héritage de la violence, il faut e
 date: 2019-08-22
 genre: roman
 isbn: 9782358875240
-isbne: 
+isbne:
 editor: La manufacture de livres
 exergue: Une autofiction familiale
 lire: https://tcrouzet.com/2019/08/20/mon-pere-ce-tueur-extrait/
@@ -29,6 +29,7 @@ eshops:
   - https://play.google.com/store/books/details/Thierry_Crouzet_Mon_p%C3%A8re_ce_tueur?id=BXmYDwAAQBAJ
   - https://books.apple.com/fr/book/mon-p%C3%A8re-ce-tueur/id1463762769
   - https://www.bookeenstore.com/ebook/9782358875257/mon-pere-ce-tueur-thierry-crouzet
+slider: "1"
 ---
 
 # Mon père, ce tueur

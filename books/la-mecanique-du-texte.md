@@ -5,15 +5,16 @@ isbn: 978-1-536805-13-0
 isbne: 978-2-919358-25-0
 editor: Publie.net, puis autopublication
 baseline: L'influence de la technologie sur la littérature
-prix: 10.0
+prix: 10
 eprix: 4.99
 shops:
- - https://www.amazon.fr/mécanique-du-texte-Thierry-Crouzet/dp/1536805130/
+  - https://www.amazon.fr/mécanique-du-texte-Thierry-Crouzet/dp/1536805130/
 eshops:
- - https://itunes.apple.com/fr/book/id1139557953
- - https://store.kobobooks.com/fr-fr/ebook/la-mecanique-du-texte-1
- - https://www.amazon.fr/mécanique-du-texte-Thierry-Crouzet-ebook/dp/B01JELYTWU/
- - https://play.google.com/store/search?q=9782919358250&c=books
+  - https://itunes.apple.com/fr/book/id1139557953
+  - https://store.kobobooks.com/fr-fr/ebook/la-mecanique-du-texte-1
+  - https://www.amazon.fr/mécanique-du-texte-Thierry-Crouzet-ebook/dp/B01JELYTWU/
+  - https://play.google.com/store/search?q=9782919358250&c=books
+slider: "1"
 ---
 
 # La mécanique du texte

@@ -7,17 +7,17 @@ editor: L'âge d'homme, puis CleanHandsSaveLives.org
 baseline: Désinfectez vos mains, sauvez des vies
 exergue: Une initiation à l'économie de paix
 lire: https://app.box.com/s/w4pe2x969j4tquesdjk6
-prix: 12.0
+prix: 12
 eprix: 4.99
 shops:
- - https://www.amazon.fr/dp/1986813010/
- - http://www.amazon.fr/Geste-qui-Sauve-Thierry-Crouzet-ebook/dp/B00JH03BU0/
+  - https://www.amazon.fr/dp/1986813010/
+  - http://www.amazon.fr/Geste-qui-Sauve-Thierry-Crouzet-ebook/dp/B00JH03BU0/
 eshops:
- - https://www.bookeenstore.com/fr/ebook/9782919358366/le-geste-qui-sauve-thierry-crouzet
-  - https://itunes.apple.com/fr/book/le-geste-qui-sauve/id855320574
- - https://www.7switch.com/fr/ebook/9782919358366/le-geste-qui-sauve
- - http://store.kobobooks.com/fr-FR/ebook/le-geste-qui-sauve
- - http://www.amazon.ca/Geste-qui-Sauve-Essai-ebook/dp/B00JH03BU0/
+  - https://www.bookeenstore.com/fr/ebook/9782919358366/le-geste-qui-sauve-thierry-crouzet - https://itunes.apple.com/fr/book/le-geste-qui-sauve/id855320574
+  - https://www.7switch.com/fr/ebook/9782919358366/le-geste-qui-sauve
+  - http://store.kobobooks.com/fr-FR/ebook/le-geste-qui-sauve
+  - http://www.amazon.ca/Geste-qui-Sauve-Essai-ebook/dp/B00JH03BU0/
+slider: "1"
 ---
 
 # Le geste qui sauve

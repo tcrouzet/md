@@ -7,18 +7,19 @@ editor: L'âge d'homme, puis autopublication
 baseline: Le Léonard de Vinci de l'antiquité
 exergue: L'avenir a un long passé
 lire: /2014/07/10/eratosthene-extraits/
-prix: 20.0
+prix: 20
 eprix: 6.99
 shops:
- - https://www.amazon.fr/Ératosthène-Thierry-Crouzet/dp/1536860778/
+  - https://www.amazon.fr/Ératosthène-Thierry-Crouzet/dp/1536860778/
 eshops:
- - http://www.amazon.fr/dp/B00LJCENJW
- - https://itunes.apple.com/fr/book/id896262786
- - http://www.epagine.fr/ebook/9782919358311-erastothene-thierry-crouzet/
- - http://numerique.mollat.com/ebook/9782919358311-erastothene-thierry-crouzet/
- - https://www.7switch.com/fr/ebook/9782919358311/eratosthene
- - http://store.kobobooks.com/fr-FR/ebook/eratosthene
- - http://www.amazon.ca/ratosth-ne-Roman-Thierry-Crouzet-ebook/dp/B00LJCENJW/
+  - http://www.amazon.fr/dp/B00LJCENJW
+  - https://itunes.apple.com/fr/book/id896262786
+  - http://www.epagine.fr/ebook/9782919358311-erastothene-thierry-crouzet/
+  - http://numerique.mollat.com/ebook/9782919358311-erastothene-thierry-crouzet/
+  - https://www.7switch.com/fr/ebook/9782919358311/eratosthene
+  - http://store.kobobooks.com/fr-FR/ebook/eratosthene
+  - http://www.amazon.ca/ratosth-ne-Roman-Thierry-Crouzet-ebook/dp/B00LJCENJW/
+slider: "1"
 ---
 
 # Ératosthène

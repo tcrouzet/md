@@ -28,6 +28,7 @@ eshops:
   - https://www.kobo.com/fr/fr/ebook/resistants-1
   - https://www.bookeenstore.com/ebook/9791028107659/resistants-thierry-crouzet
   - https://www.7switch.com/fr/ebook/9791028107659/resistants
+slider: "1"
 ---
 
 # Résistants

@@ -28,6 +28,7 @@ eshops:
   - https://www.fnac.com/a21466233/Thierry-Crouzet-Epicenes
   - https://play.google.com/store/books/details/Thierry_Crouzet_%C3%89pic%C3%A8nes?id=0mpjEQAAQBAJ
   - https://shop.vivlio.com/product/9782959039287_9782959039287_2/epicenes
+slider: "1"
 ---
 
 # Épicènes

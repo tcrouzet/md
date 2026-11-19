@@ -9,11 +9,12 @@ lire: /2012/09/04/ma-rentree-litteraire-2012/
 prix: 9.99
 eprix: 4.99
 shops:
- - https://www.amazon.fr/Jai-eu-lidée-Thierry-Crouzet/dp/1536927740/
+  - https://www.amazon.fr/Jai-eu-lidée-Thierry-Crouzet/dp/1536927740/
 eshops:
- - https://itunes.apple.com/fr/book/id1141652516
- - https://www.amazon.fr/Jai-eu-lidée-Thierry-Crouzet-ebook/dp/B01JUNFRFA/
- - https://store.kobobooks.com/fr-fr/ebook/j-ai-debranche-2
+  - https://itunes.apple.com/fr/book/id1141652516
+  - https://www.amazon.fr/Jai-eu-lidée-Thierry-Crouzet-ebook/dp/B01JUNFRFA/
+  - https://store.kobobooks.com/fr-fr/ebook/j-ai-debranche-2
+slider: "1"
 ---
 
 # J'ai eu l'idée
