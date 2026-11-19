@@ -21,7 +21,7 @@ eshops:
   - http://www4.fnac.com/livre-numerique/a7873875/Thierry-Crouzet-Clitoria#FORMAT=ePub
   - http://www.leslibraires.fr/livre/7704011-clitoria-thierry-crouzet-thaulk
   - https://play.google.com/store/books/details?id=MZUcCwAAQBAJ
-sli: "1"
+slider: "1"
 ---
 
 # Clitoria

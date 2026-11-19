@@ -6,6 +6,7 @@ isbne: 978-2-9193-5808-3
 editor: Bourin
 baseline: La décentralisation de la puissance politique
 exergue: Prémonitoire du printemps arabe
+slider: "1"
 ---
 
 # Le cinquième pouvoir

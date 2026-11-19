@@ -8,16 +8,17 @@ baseline: Ils sont invisibles mais ils changent le monde
 exergue: La révolution des connecteurs
 pages: 358
 lire: http://livre.immateriel.fr/fr/read_book/9782919358076/#pct0
-prix: 16.0
+prix: 16
 eprix: 4.99
 shops:
- - https://www.amazon.fr/peuple-connecteurs-Thierry-Crouzet/dp/154653878X/
+  - https://www.amazon.fr/peuple-connecteurs-Thierry-Crouzet/dp/154653878X/
 eshops:
- - http://www.amazon.fr/peuple-connecteurs-travaillent-nétudient-ebook/dp/B00816Q784
- - http://www.kobobooks.fr/ebook/Le-peuple-des-connecteurs-Ils/book--Qj-UJ_FDkajA8_xLHTyBg/page1.html
- - http://librairie.immateriel.fr/fr/ebook/9782849410387/le-peuple-des-connecteurs
- - https://www.bookeenstore.com/fr/ebook/9782919358076/le-peuple-des-connecteurs-ils-ne-votent-pas-ils-ne-travaillent-pas-ils-n-etudient-pas-mais-ils-changent-le-monde-thierry-crouzet
- - http://itunes.apple.com/fr/book/le-peuple-des-connecteurs/id525439917?mt=11
+  - http://www.amazon.fr/peuple-connecteurs-travaillent-nétudient-ebook/dp/B00816Q784
+  - http://www.kobobooks.fr/ebook/Le-peuple-des-connecteurs-Ils/book--Qj-UJ_FDkajA8_xLHTyBg/page1.html
+  - http://librairie.immateriel.fr/fr/ebook/9782849410387/le-peuple-des-connecteurs
+  - https://www.bookeenstore.com/fr/ebook/9782919358076/le-peuple-des-connecteurs-ils-ne-votent-pas-ils-ne-travaillent-pas-ils-n-etudient-pas-mais-ils-changent-le-monde-thierry-crouzet
+  - http://itunes.apple.com/fr/book/le-peuple-des-connecteurs/id525439917?mt=11
+slider: "1"
 ---
 
 # Le peuple des connecteurs
