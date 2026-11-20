@@ -1,7 +1,7 @@
 ---
 metatitle: Rien ne remplacera le plaisir d’écrire
 metadescription: Quand Bergson s'invite pour justifier l’approfondissement de la relation homme-machine.
-thum: _i/2026-11-20-094410.webp
+thumb: _i/2026-11-20-094410.webp
 caption: L’étang ce matin
 ---
 
