@@ -5,7 +5,7 @@ metadescription: "Une expérience d’écriture manuscrite amène à redéfinir 
 
 # L’amour, c’est désirer le désir de l’autre
 
-J’écris une date à la main en haut d’une page de carnet pour la première fois depuis longtemps, vingt ans peut-être. Une expérience née de la nécessité. [Épuisé par les migraines ophtalmiques](https://appleinsider.com/articles/26/11/10/if-youre-getting-dizzy-using-proled-macbook-pro-you-are-not-alone), j’ai décidé de retourner mon nouveau [MacBook](https://www.apple.com/fr/macbook-pro/proled-xdr-display/), et pendant que je recopie ma configuration sur mon ancien Mac, je n’ai pas de clavier sous la main. Je pourrais en trouver un, mais c’est l’occasion de revenir à l’écriture manuscrite, si vertueuse pour certains. Je me demande si vous noterez une différence.
+J’écris à la main une date en haut d’une page de carnet pour la première fois depuis longtemps, vingt ans peut-être. Une expérience née d’une nécessité : [épuisé par les migraines ophtalmiques](https://appleinsider.com/articles/26/11/10/if-youre-getting-dizzy-using-proled-macbook-pro-you-are-not-alone), j’ai décidé de retourner mon nouveau [MacBook](https://www.apple.com/fr/macbook-pro/proled-xdr-display/), et pendant que je recopie ma configuration sur mon ancien Mac, je n’ai pas de clavier sous la main. Je pourrais en trouver un, mais c’est l’occasion de revenir à l’écriture manuscrite, si vertueuse pour certains. Je me demande si vous noterez une différence.
 
 J’avoue que revoir mes arabesques, aussi illisibles soient-elles, ne m’est pas désagréable, comme revenir au temps de ma jeunesse, quand je remplissais des pages de carnets et que, les samedis matin, comme aujourd’hui, j’écrivais dans les cafés parisiens, surtout au Bastille.
 
@@ -15,13 +15,13 @@ Hier, un mathématicien d’Anthropic a annoncé avoir démontré avec l’aide 
 
 Toute la difficulté sera de transcrire ce texte sans trop le déformer ni le couper, pour le garder aussi proche que possible du premier jet. Peut-être il ne produira sur vous aucun « effet manuscrit », sinon par ses errements. C’est ce que j’aimais dans la pratique du carnet papier : me donner le droit d’avancer au hasard, sans ambition, alors que mes textes numériques partent souvent d’une idée, même si je dévie presque toujours par la suite.
 
-J’ai peur de ne pas réussir à me relire ni à écrire beaucoup plus longtemps : je sens déjà des tensions musculaires oubliées. Je n’ai toujours pas relevé la tête. Je prends conscience de mes acouphènes de plus en plus perturbants. Ils me sifflent que je vieillis, comme mes jambes quand je pédale avec les copains, qui,eux semblent indestructibles.
+J’ai peur de ne pas réussir à me relire ni à écrire beaucoup plus longtemps : je sens déjà des tensions musculaires oubliées. Je n’ai toujours pas relevé la tête. Je prends conscience de mes acouphènes de plus en plus perturbants. Ils me sifflent que je vieillis, comme mes jambes quand je pédale avec les copains, qui, eux, semblent indestructibles.
 
 Matin gris, étang laminé, apparence froide. Pas de miracle du stylo bleu, aucune illumination ne me redonne goût à l’improvisation. J’ai souvent songé à me payer une tablette [reMarkable](https://remarkable.com/) pour me remettre au manuscrit sans la corvée de retranscrire et avec la possibilité de dessiner. Je n’ai pas dessiné depuis si longtemps.
 
 ![Gribouillage](_i/carnet.webp)
 
-J’aurai au moins essayé de gribouiller depuis mon lit, avec ma couette encombrée de bouquins, d’une boîte de mouchoirs, de mon Kindle, de mon tél, de mon support d’ordinateur. Un lit de célibataire, un lit détestable, transformé en bureau.
+J’aurai au moins essayé de gribouiller depuis mon lit, avec ma couette encombrée : bouquins, boîte de mouchoirs, Kindle, tél, support d’ordinateur. Un lit de célibataire, un lit détestable, transformé en bureau.
 
 Je préfèrerais qu’une femme soit allongée près de moi, à lire, à écrire, à me dire « Tu as vu ça ? » ou « Si on faisait ça aujourd’hui ». J’aimerais répondre aux envies d’une autre, à ses désirs, plutôt que d’être mon propre maître et de ne subir que les contingences. J’ai besoin de l’autre pour me faire dérailler. Voilà ce que j’attends de l’amour ou du compagnonnage : ne plus être le seul maître désirant de ma vie.
 
@@ -39,6 +39,6 @@ Parfois j’étouffe de n’être que moi-même, d’où peut-être ma fascinati
 
 Hier soir, je suis allé à un vernissage à Sète. Un copain m’avait appelé peu avant : il avait écrit les textes de présentation des œuvres du jeune artiste. J’ai eu l’impression d’un retour dans les années 1980, avec un mix des peintres sétois de l’époque sous l’égide de Basquiat. Sète a produit Paul Valéry, une haute intelligence, un peu froide, désuète, et depuis beaucoup de naïfs, beaucoup de bêtise, mais toujours avec la plus sérieuse des prétentions.
 
-Voilà comment ma pensée sur l’amour s’est trouvée interrompue. Il ne mereste que le plaisir de l’odeur de l’encre, toujours aussi puissante. C’est un peu comme retrouver la vue après avoir passé vingt ans dans la caverne de Platon. L’étang n’a pas bougé, j’ai écrit presque une heure. Émile vient de descendre à la cuisine. Aucun désir étranger n’est venu ébranler ma journée.
+Voilà comment ma pensée sur l’amour s’est trouvée interrompue. Il ne me reste que le plaisir de l’odeur de l’encre. C’est un peu comme retrouver la vue après avoir passé vingt ans dans la caverne de Platon. L’étang n’a pas bougé, j’ai écrit presque une heure. Émile vient de descendre à la cuisine. Aucun désir étranger n’est venu ébranler ma journée.
 
 #netlitterature #manuscrit #y2026 #2026-11-21-20h00
