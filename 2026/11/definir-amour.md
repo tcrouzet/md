@@ -13,7 +13,7 @@ L’odeur de l’encre se rappelle à moi, oubliée elle aussi. L’expérience 
 
 Hier, un mathématicien d’Anthropic a annoncé avoir démontré avec l’aide de Claude l’hypothèse de Riemann, souvent appelée le Graal des mathématiques, un problème ouvert depuis 1859. Si j’écrivais sur mon ordi, j’aurais effectué des recherches complémentaires pour mieux commenter ce moment historique. Je pourrais le faire sur mon téléphone, mais je me retiens pour voir où l’improvisation me mènera.
 
-Toute la difficulté sera de transcrire ce texte sans trop le déformer ni le couper, pour le garder aussi proche que possible du premier jet. Peut-être il ne produira sur vous aucun « effet manuscrit », sinon par ses errements. C’est ce que j’aimais dans la pratique du carnet papier : me donner le droit d’avancer au hasard, sans ambition, alors que mes textes numériques partent souvent d’une idée, même si je dévie presque toujours par la suite.
+Toute la difficulté sera de transcrire ce texte sans trop le déformer ni le couper, pour le garder aussi proche que possible du premier jet. Peut-être il ne produira sur vous aucun « effet manuscrit », sinon par ses errements. C’est ce que j’aimais dans les carnets papier : me donner le droit d’avancer au hasard, sans ambition, alors que mes textes numériques partent souvent d’une idée, même si je dévie presque toujours par la suite.
 
 J’ai peur de ne pas réussir à me relire ni à écrire beaucoup plus longtemps : je sens déjà des tensions musculaires oubliées. Je n’ai toujours pas relevé la tête. Je prends conscience de mes acouphènes de plus en plus perturbants. Ils me sifflent que je vieillis, comme mes jambes quand je pédale avec les copains, qui, eux, semblent indestructibles.
 
