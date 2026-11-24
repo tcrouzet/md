@@ -27,7 +27,7 @@ Je préfèrerais qu’une femme soit allongée près de moi, à lire, à écrire
 
 Si je n’avais pas gribouillé le lit et la vue au-delà des fenêtres, je ne me serais pas fait cette remarque sur le rôle positif du désir de l’autre. Cette pensée vient moins de l’écriture manuscrite que du papier, ouvert à plus que les mots. Il se froisse, se salit, se tache, alors que les touches ne retiennent pas la force avec laquelle je les frappe ni ne se mouillent de mes larmes.
 
-Le désir de l’autre près de moi me manque par-delà la tristesse de la perte. Un désir de l’autre souvent négligé dans les couples. « Désir de l’autre » à double sens donc : « Je te désire, je te veux près de moi, dans mes bras, je me veux dans ta chaleur » et « je désire tes désirs, je veux tes rêves, je veux mêler nos rêves ».
+Le désir de l’autre près de moi me manque par-delà la tristesse de la perte. Un désir de l’autre souvent négligé dans les couples. « Désir de l’autre » à double sens donc : « Je te désire, je te veux près de moi, dans mes bras, je me veux dans ta chaleur » et « je désire tes désirs, je veux mêler nos désirs ».
 
 Je ne prends conscience du désir du désir de l’autre que maintenant, en l’écrivant. L’amour est bien sûr réciprocité des désirs, en théorie. Mais l’amour s’étend à ce que nous mangeons à deux, à ce que nous voyons à deux, là où nous marcherons à deux. Ne plus avoir ce désir de l’autre dans ma vie, c’est une perte colossale.
 
